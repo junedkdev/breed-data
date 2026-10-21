@@ -53,10 +53,9 @@
 49:dalmatian - C
 50:samoyed - C
 51:jack_russell_terrier - C
+52:american_cocker_spaniel - C
+53:canadian_eskimo_dog - C
 
-
-52:american_cocker_spaniel
-53:canadian_eskimo_dog
 54:scottish_deerhound
 55:skye_terrier
 56:yorkshire_terrier

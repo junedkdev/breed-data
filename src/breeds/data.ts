@@ -56,6 +56,8 @@ import { dutch_smoushond } from "./dutch_smoushond";
 import { dalmatian } from "./dalmatian";
 import { samoyed } from "./samoyed";
 import { jack_russell_terrier } from "./jack_russell_terrier";
+import { american_cocker_spaniel } from "./american_cocker_spaniel";
+import { canadian_eskimo_dog } from "./canadian_eskimo_dog";
 
 
 export const breedData: readonly Breed[] = [
@@ -111,4 +113,6 @@ export const breedData: readonly Breed[] = [
   dalmatian,
   samoyed,
   jack_russell_terrier,
+  american_cocker_spaniel,
+  canadian_eskimo_dog,
 ];
