@@ -4652,6 +4652,96 @@ export const sources = defineSources({
     note: "Secondary French breed profile noting Billy and English Foxhound ancestry, 1983 international recognition, and secondary height (62–72 cm males, 60–68 cm females) and weight (29–30 kg) estimates.",
     publisher: "Chien.com"
   },
+  "fci-dutch-smoushond-standard": {
+    id: "fci-dutch-smoushond-standard",
+    name: "FCI — Dutch Smoushond Official Breed Standard No. 308",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/nomenclature/Standards/308g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2012-03-16",
+    accessedOn: "2026-10-21",
+    note: "Official English breed standard covering classification, origin, history, temperament, coat, colour, height and weight."
+  },
+  "fci-dutch-smoushond-nomenclature": {
+    id: "fci-dutch-smoushond-nomenclature",
+    name: "FCI — Dutch Smoushond Nomenclature",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/EN/nomenclature/SMOUS-DES-PAYS-BAS-308.html",
+    type: "kennel_club",
+    publishedOn: "2012-03-16",
+    accessedOn: "2026-10-21",
+    note: "FCI breed classification, origin and standard publication information."
+  },
+  "hollandse-smoushonden-club-standard": {
+    id: "hollandse-smoushonden-club-standard",
+    name: "Hollandse Smoushonden Club — Breed Standard",
+    publisher: "Hollandse Smoushonden Club",
+    url: "https://smoushond.nl/rasstandaard",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Dutch breed-club standard, including conformation, coat, colour, measurements and temperament."
+  },
+  "hollandse-smoushonden-club-health-character": {
+    id: "hollandse-smoushonden-club-health-character",
+    name: "Hollandse Smoushonden Club — Health and Character",
+    publisher: "Hollandse Smoushonden Club",
+    url: "https://smoushond.nl/gezondheid-karakter",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed-club information about health policy, temperament and breeding priorities."
+  },
+  "licg-hollandse-smoushond": {
+    id: "licg-hollandse-smoushond",
+    name: "LICG — Hollandse Smoushond",
+    publisher: "Landelijk InformatieCentrum Gezelschapsdieren",
+    url: "https://www.licg.nl/honden/hollandse-smoushond/",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed profile covering history, size, lifespan estimate, behaviour, grooming, training, health and ownership."
+  },
+  "nhic-hollandse-smoushond": {
+    id: "nhic-hollandse-smoushond",
+    name: "Nederlands Honden Informatiecentrum — Hollandse Smoushond",
+    publisher: "Nederlands Honden Informatiecentrum",
+    url: "https://nhic.nl/hollandse-smoushond/",
+    type: "other",
+    publishedOn: "2026-08-07",
+    accessedOn: "2026-10-21",
+    note: "Secondary breed profile updated 7 August 2026; used as supporting context for lifespan and general breed characteristics."
+  },
+  "wikimedia-dutch-smoushond-zepp-amsterdam": {
+    id: "wikimedia-dutch-smoushond-zepp-amsterdam",
+    name: "Wikimedia Commons — Hollandse Smoushond Amsterdam.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Hollandse_Smoushond_Amsterdam.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Image credited to ZeppWeb; uploaded to Commons by Abujoy. CC BY 2.0."
+  },
+  "wikimedia-dutch-smoushond-zepp-01": {
+    id: "wikimedia-dutch-smoushond-zepp-01",
+    name: "Wikimedia Commons — Hollandse Smoushond 01.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Hollandse_Smoushond_01.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Image credited to Zepp Web; uploaded to Commons by Abujoy. CC BY 2.0."
+  },
+  "wikimedia-dutch-smoushond-zepp-02": {
+    id: "wikimedia-dutch-smoushond-zepp-02",
+    name: "Wikimedia Commons — Hollandse Smoushond 02.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Hollandse_Smoushond_02.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Image credited to Zepp Web; uploaded to Commons by Abujoy. CC BY 2.0."
+  },
 });
 
 export type SourceId = keyof typeof sources;
