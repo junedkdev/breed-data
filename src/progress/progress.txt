@@ -44,8 +44,8 @@
 39:alpine_dachsbracke - C
 40:parson_russell_terrier - C
 41:german_shepherd_dog - C
+42:drentse_patrijshond - C
 
-42:drentse_patrijshond
 43:stabyhoun
 44:lowchen
 45:collie,_rough
