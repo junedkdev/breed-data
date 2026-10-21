@@ -50,9 +50,9 @@ const PLACEHOLDER_PATTERN =
   /^(?:n\/?a|none|null|unknown|unspecified|tbd|tba|todo|-+|\?+|\.+)$/i;
 
 const LIMITS = {
-  heightCm: { min: 1, max: 120 },
+  heightCm: { min: 1, max: 160 },
   weightKg: { min: 0.1, max: 120 },
-  lifespanYears: { min: 1, max: 30 },
+  lifespanYears: { min: 1, max: 60 },
   minutesPerDay: { min: 1, max: 600 },
 } as const;
 

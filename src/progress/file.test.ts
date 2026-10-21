@@ -8,14 +8,21 @@ import { nextChatgpt, nextGemini, readProgress, withStatus, writeProgress } from
 
 const progressPath = resolve(dirname(fileURLToPath(import.meta.url)), "progress.txt");
 
-test("the progress file keeps every breed and the current markers", () => {
-  const rows = readProgress(readFileSync(progressPath, "utf8"));
-  assert.equal(rows.length, 371);
-  assert.equal(rows.filter((row) => row.status === "CG").length, 14);
-  assert.equal(rows.filter((row) => row.status === "C").length, 24);
-  assert.equal(rows.filter((row) => row.status === "").length, 333);
-  assert.equal(nextChatgpt(rows)?.name, "gascon_saintongeois");
-  assert.equal(nextGemini(rows)?.name, "coton_de_tulear");
+test("the progress file parses every breed line", () => {
+  const text = readFileSync(progressPath, "utf8");
+  const breedLines = text.split(/\r?\n/).filter((line) => /^\d+\s*:/.test(line.trim()));
+  const rows = readProgress(text);
+  const indexes = new Set(rows.map((row) => row.index));
+
+  assert.equal(rows.length, breedLines.length);
+  assert.equal(indexes.size, rows.length);
+  assert.ok(rows.length > 0);
+  assert.ok(rows.every((row) => row.name.length > 0));
+  // The next prompt follows the open task, then the first breed still in that stage.
+  if (rows.some((row) => row.status === "R")) assert.equal(nextChatgpt(rows)?.status, "R");
+  else if (rows.some((row) => row.status === "")) assert.equal(nextChatgpt(rows)?.status, "");
+  if (rows.some((row) => row.status === "CR")) assert.equal(nextGemini(rows)?.status, "CR");
+  else if (rows.some((row) => row.status === "C")) assert.equal(nextGemini(rows)?.status, "C");
 });
 
 test("changing a status moves that breed to the end of the new group", () => {

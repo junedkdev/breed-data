@@ -14,8 +14,7 @@
 11:slovak_cuvac - CG
 12:russian_toy - CG
 13:kromfohrlander - CG
-
-14:coton_de_tulear - CR
+14:coton_de_tulear - CG
 
 15:cirneco_dell'etna - C
 16:nova_scotia_duck-tolling_retriever - C

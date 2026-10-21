@@ -541,92 +541,95 @@ export const sources = defineSources({
   publisher: "PLOS Genetics",
   commercialUse: "commercial_use"
   },
-  "fci-coton-de-tulear-official-standard": {
+"fci-coton-de-tulear-official-standard": {
     id: "fci-coton-de-tulear-official-standard",
     name: "FCI - Coton de Tuléar Official Breed Standard No. 283",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/nomenclature/Standards/283g09-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2000-02-04",
-    accessedOn: "2026-10-18",
-    note: "The PDF bears the date 2000-02-04 and states that the official valid standard was published on 1999-11-25. Used for FCI classification, country of origin, standard measurements, coat, colour and temperament.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official FCI breed standard No. 283 (published 2000-02-04; official valid standard dated 1999-11-25; definitive FCI recognition 1970-09-02). Used for classification, country of origin, proportions, measurements, coat, colour, and temperament."
   },
 
-  "american-kennel-club-coton-de-tulear": {
+"american-kennel-club-coton-de-tulear": {
     id: "american-kennel-club-coton-de-tulear",
     name: "American Kennel Club - Coton de Tulear Breed Profile",
+    publisher: "American Kennel Club",
     url: "https://www.akc.org/dog-breeds/coton-de-tulear/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-18",
-    note: "Used for reported lifespan, care, grooming, exercise, training, nutrition and potential health concerns.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official AKC breed profile covering lifespan (15–19 years), height/weight, trait ratings, grooming, exercise, training, nutrition, and health overview."
   },
 
-  "akc-coton-de-tulear-health-testing-recommendations": {
+"akc-coton-de-tulear-health-testing-recommendations": {
     id: "akc-coton-de-tulear-health-testing-recommendations",
     name: "American Kennel Club - Non-Sporting Group Health Testing Requirements",
+    publisher: "American Kennel Club",
     url: "https://www.akc.org/breeder-programs/breed-health-testing-requirements/non-sporting-group-health-testing-requirements/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-18",
-    note: "The page lists Coton de Tulear health tests recommended by the national parent breed club. Requirements and recommendations can change.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Lists Coton de Tulear health tests recommended by the national parent breed club (Patella Evaluation, Hip Evaluation, Cardiac Exam, Ophthalmologist Evaluation)."
   },
 
-  "usactc-coton-de-tulear-health-statement": {
+"usactc-coton-de-tulear-health-statement": {
     id: "usactc-coton-de-tulear-health-statement",
-    name: "United States of America Coton de Tulear Club - Health Statement",
-    url: "https://www.akc.org/wp-content/uploads/2021/07/Coton-de-Tulear-Health-Statement.pdf",
+    name: "United States of America Coton de Tulear Club - Official Health Statement",
+    publisher: "United States of America Coton de Tulear Club",
+    url: "https://cdn.akc.org/Marketplace/Health-Statement/Coton-de-Tulear.pdf",
     type: "breed_club",
     publishedOn: "2021-06-18",
-    accessedOn: "2026-10-18",
-    note: "Parent breed club health statement hosted by the AKC. Includes core screening recommendations and a list of possible elective evaluations and DNA tests.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official parent breed club health statement hosted by the AKC (replacing https://www.akc.org/wp-content/uploads/2021/07/Coton-de-Tulear-Health-Statement.pdf). Details mandatory Code of Ethics structural testing, CHIC requirements, and strongly recommended elective clinical and DNA tests."
   },
 
-  "coton-de-tulear-club-of-america-about-the-breed": {
+"coton-de-tulear-club-of-america-about-the-breed": {
     id: "coton-de-tulear-club-of-america-about-the-breed",
     name: "Coton de Tulear Club of America - About the Breed",
+    publisher: "Coton de Tulear Club of America",
     url: "https://www.cotonclub.org/about-the-breed",
     type: "breed_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-18",
-    note: "Supplementary breed-club information about history, temperament, companionship and coat.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Breed-club documentation covering Malagasy origin in Tuléar, history since 1974/1976, temperament, longevity, coat care, and colour varieties."
   },
 
-  "canadian-kennel-club-coton-de-tulear-profile": {
+"canadian-kennel-club-coton-de-tulear-profile": {
     id: "canadian-kennel-club-coton-de-tulear-profile",
     name: "Canadian Kennel Club - Coton de Tulear",
+    publisher: "Canadian Kennel Club",
     url: "https://www.ckc.ca/en/Choosing-a-Dog/Choosing-a-Breed/Toy-Dogs/Coton-de-Tulear",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-18",
-    note: "Supplementary kennel-club guidance on temperament, activity level, companion suitability and coat.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official CKC breed profile covering origin in Tulear, temperament, apartment suitability, height (10–12.5 in / 25–32 cm), weight (9–14 lb / 4–6.5 kg), and coat care."
   },
 
-  "wikimedia-coton-de-tulear-dog-jean": {
+"wikimedia-coton-de-tulear-dog-jean": {
     id: "wikimedia-coton-de-tulear-dog-jean",
-    name: "Wikimedia Commons - Coton de Tulear dog.jpg",
+    name: "Wikimedia Commons - File:Coton de Tulear dog.jpg",
+    publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Coton_de_Tulear_dog.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-18",
-    note: "Photograph by Jean, originally published on Flickr. Wikimedia Commons identifies the file as licensed under CC BY 2.0.",
-    publisher: null
+    commercialUse: "commercial_use",
+    publishedOn: "2009-05-14",
+    accessedOn: "2026-10-21",
+    note: "Photograph by Jean, originally published on Flickr (2009-05-14) and verified on Wikimedia Commons (2014-03-07) under CC BY 2.0."
   },
 
-  "wikimedia-coton-de-tulear-puppy-willie-whitby": {
+"wikimedia-coton-de-tulear-puppy-willie-whitby": {
     id: "wikimedia-coton-de-tulear-puppy-willie-whitby",
-    name: "Wikimedia Commons - Coton de Tulear.jpg",
+    name: "Wikimedia Commons - File:Coton de Tulear.jpg",
+    publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Coton_de_Tulear.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-18",
-    note: "Photograph of a Coton de Tulear puppy by Willie Whitby. Wikimedia Commons identifies the file as licensed under CC BY-SA 3.0.",
-    publisher: null
+    commercialUse: "reference_only",
+    publishedOn: "2011-03-15",
+    accessedOn: "2026-10-21",
+    note: "Photograph of a 13-week-old Coton de Tulear puppy uploaded by Willie Whitby under CC BY-SA 3.0. Note: embedded Nikon D90 EXIF metadata lists 'Author: John Williams' and 'Copyright holder: John Williams' (captured 2011-03-13); flagged for commercial-use authorship verification."
   },
   "fci-cirneco-dell-etna-standard": {
     id: "fci-cirneco-dell-etna-standard",
@@ -3514,6 +3517,88 @@ export const sources = defineSources({
     accessedOn: "2026-10-21",
     note:
       "Original file page identifies Canarian as author and lists CC BY 4.0. Commercial use is allowed with attribution and indication of changes where applicable.",
+  },
+  "american-kennel-club-coton-de-tulear-official-standard": {
+    id: "american-kennel-club-coton-de-tulear-official-standard",
+    name: "American Kennel Club - Official Standard of the Coton de Tulear",
+    publisher: "American Kennel Club",
+    url: "https://images.akc.org/pdf/breeds/standards/CotondeTulear.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2013-10-01",
+    accessedOn: "2026-10-21",
+    note: "Official AKC breed standard for the Coton de Tulear (approved September 11, 2013; effective October 1, 2013)."
+  },
+  "the-royal-kennel-club-coton-de-tulear-breed-standard": {
+    id: "the-royal-kennel-club-coton-de-tulear-breed-standard",
+    name: "The Royal Kennel Club - Coton De Tulear Breed Standard",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.thekennelclub.org.uk/breed-standards/toy/coton-de-tulear/",
+    type: "official_breed_standard",
+    publishedOn: "2026-04-01",
+    accessedOn: "2026-10-21",
+    note: "Official UK Royal Kennel Club breed standard for the Coton de Tulear in the Toy Group (heights 25–30 cm for dogs, 22–27 cm for bitches)."
+  },
+  "united-kennel-club-coton-de-tulear-breed-standard": {
+    id: "united-kennel-club-coton-de-tulear-breed-standard",
+    name: "United Kennel Club - Coton de Tulear Breed Standard",
+    publisher: "United Kennel Club",
+    url: "https://www.ukcdogs.com/coton-de-tulear",
+    type: "official_breed_standard",
+    publishedOn: "2007-07-01",
+    accessedOn: "2026-10-21",
+    note: "Official UKC breed standard for the Coton de Tulear in the Companion Dog Group (recognized January 1, 1996; revised July 1, 2007)."
+  },
+  "usactc-history-of-the-coton-de-tulear": {
+    id: "usactc-history-of-the-coton-de-tulear",
+    name: "United States of America Coton de Tulear Club - History of the Coton de Tulear",
+    publisher: "United States of America Coton de Tulear Club",
+    url: "https://www.usactc.dog/coton/history-of-the-coton-de-tulear/",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Official AKC parent club history, origin in Toliara (formerly Tuléar), temperament, vocalizations, 15–19 year lifespan, and 9–14 month coat-transition grooming guidance."
+  },
+  "coton-de-tulear-bnat-grm1-study": {
+    id: "coton-de-tulear-bnat-grm1-study",
+    name: "Journal of Veterinary Internal Medicine - A Truncated Retrotransposon Disrupts the GRM1 Coding Sequence in Coton de Tulear Dogs with Bandera's Neonatal Ataxia",
+    publisher: "Journal of Veterinary Internal Medicine",
+    url: "https://pubmed.ncbi.nlm.nih.gov/21281350/",
+    type: "scientific",
+    publishedOn: "2011-01-31",
+    accessedOn: "2026-10-21",
+    note: "Peer-reviewed study by Zeng et al. (J Vet Intern Med 2011;25(2):267-272, PMID 21281350) identifying the exon 8 GRM1 retrotransposon insertion causing autosomal recessive Bandera's neonatal cerebellar ataxia in Coton de Tulear dogs."
+  },
+  "coton-de-tulear-cmr2-best1-study": {
+    id: "coton-de-tulear-cmr2-best1-study",
+    name: "UC Davis Veterinary Genetics Laboratory - Canine Multifocal Retinopathy 2 (CMR2)",
+    publisher: "UC Davis Veterinary Genetics Laboratory",
+    url: "https://vgl.ucdavis.edu/test/cmr2",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Veterinary genetics reference documenting the autosomal recessive BEST1 c.482G>A mutation causing Canine Multifocal Retinopathy 2 (CMR2) in the Coton de Tulear (citing Guziewicz et al., 2007, Invest Ophthalmol Vis Sci 48(5):1959-67)."
+  },
+  "coton-de-tulear-ph-agxt-study": {
+    id: "coton-de-tulear-ph-agxt-study",
+    name: "Animal Genetics - Primary Hyperoxaluria in Coton de Tulear",
+    publisher: "Animal Genetics",
+    url: "https://pubmed.ncbi.nlm.nih.gov/22486513/",
+    type: "scientific",
+    publishedOn: "2011-11-08",
+    accessedOn: "2026-10-21",
+    note: "Peer-reviewed study by Vidgren et al. (Anim Genet 2012;43(3):356-361, PMID 22486513) identifying the autosomal recessive AGXT c.996G>A (p.Gly102Ser) mutation causing fatal neonatal primary hyperoxaluria in Coton de Tulear puppies."
+  },
+  "wikimedia-coton-de-tulear-2-canarian": {
+    id: "wikimedia-coton-de-tulear-2-canarian",
+    name: "Wikimedia Commons - File:Coton de Tulear 2.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Coton_de_Tulear_2.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2020-08-23",
+    accessedOn: "2026-10-21",
+    note: "Original photograph of an adult Coton de Tulear by Canarian (captured and uploaded 2020-08-23, Sony DSLR-A350), licensed under CC BY-SA 4.0."
   },
 });
 
