@@ -43,6 +43,7 @@ import { bernese_mountain_dog } from "./bernese_mountain_dog";
 import { brittany } from "./brittany";
 import { great_dane } from "./great_dane";
 import { gascon_saintongeois } from "./gascon_saintongeois";
+import { alpine_dachsbracke } from "./alpine_dachsbracke";
 
 
 export const breedData: readonly Breed[] = [
@@ -85,4 +86,5 @@ export const breedData: readonly Breed[] = [
   brittany,
   great_dane,
   gascon_saintongeois,
+  alpine_dachsbracke,
 ];

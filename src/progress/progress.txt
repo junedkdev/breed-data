@@ -16,7 +16,8 @@
 13:kromfohrlander - CG
 14:coton_de_tulear - CG
 
-15:cirneco_dell'etna - C
+15:cirneco_dell'etna - CR
+
 16:nova_scotia_duck-tolling_retriever - C
 17:bloodhound - C
 18:grand_anglo-francais_tricolore - C
@@ -40,8 +41,8 @@
 36:brittany - C
 37:great_dane - C
 38:gascon_saintongeois - C
+39:alpine_dachsbracke - C
 
-39:alpine_dachsbracke
 40:parson_russell_terrier
 41:german_shepherd_dog
 42:drentse_patrijshond

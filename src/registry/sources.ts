@@ -3600,6 +3600,54 @@ export const sources = defineSources({
     accessedOn: "2026-10-21",
     note: "Original photograph of an adult Coton de Tulear by Canarian (captured and uploaded 2020-08-23, Sony DSLR-A350), licensed under CC BY-SA 4.0."
   },
+  "fci-alpine-dachsbracke-standard": {
+    id: "fci-alpine-dachsbracke-standard",
+    name: "FCI Standard No. 254 - Alpine Dachsbracke",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/nomenclature/Standards/254g06-en.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "1995-10-10",
+    accessedOn: "2026-10-21",
+    note:
+      "Official English translation of FCI Standard No. 254, dated 18 June 1996. The document lists 10 October 1995 as the publication date of the official valid standard. Covers origin, classification, history, utilization, temperament, conformation, coat, colour, and height.",
+  },
+  "wikimedia-alpine-dachsbracke-1-canarian": {
+    id: "wikimedia-alpine-dachsbracke-1-canarian",
+    name: "Wikimedia Commons - Alpine Dachsbracke 1.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Alpine_Dachsbracke_1.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note:
+      "Original file page credits Canarian and identifies the photograph as a female black-and-tan Alpine Dachsbracke. Licensed under CC BY-SA 4.0; attribution and applicable share-alike conditions are required.",
+  },
+  "wikimedia-alpine-dachsbracke-2-canarian": {
+    id: "wikimedia-alpine-dachsbracke-2-canarian",
+    name: "Wikimedia Commons - Alpine Dachsbracke 2.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Alpine_Dachsbracke_2.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note:
+      "Original file page credits Canarian and identifies the photograph as a male deer-red Alpine Dachsbracke. Licensed under CC BY-SA 4.0; attribution and applicable share-alike conditions are required.",
+  },
+  "wikimedia-alpine-dachsbracke-4-canarian": {
+    id: "wikimedia-alpine-dachsbracke-4-canarian",
+    name: "Wikimedia Commons - Alpine Dachsbracke 4.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Alpine_Dachsbracke_4.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note:
+      "Original file page credits Canarian and identifies a deer-red Alpine Dachsbracke. Licensed under CC BY-SA 4.0; attribution and applicable share-alike conditions are required.",
+  },
 });
 
 export type SourceId = keyof typeof sources;
