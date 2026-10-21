@@ -17,7 +17,8 @@
 14:coton_de_tulear - CG
 15:cirneco_dell'etna - CG
 
-16:nova_scotia_duck-tolling_retriever - C
+16:nova_scotia_duck-tolling_retriever - CR
+
 17:bloodhound - C
 18:grand_anglo-francais_tricolore - C
 19:grand_anglo-francais_blanc_et_orange - C
@@ -42,8 +43,8 @@
 38:gascon_saintongeois - C
 39:alpine_dachsbracke - C
 40:parson_russell_terrier - C
+41:german_shepherd_dog - C
 
-41:german_shepherd_dog
 42:drentse_patrijshond
 43:stabyhoun
 44:lowchen

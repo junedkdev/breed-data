@@ -45,6 +45,7 @@ import { great_dane } from "./great_dane";
 import { gascon_saintongeois } from "./gascon_saintongeois";
 import { alpine_dachsbracke } from "./alpine_dachsbracke";
 import { parson_russell_terrier } from "./parson_russell_terrier";
+import { german_shepherd_dog } from "./german_shepherd_dog";
 
 
 export const breedData: readonly Breed[] = [
@@ -89,4 +90,5 @@ export const breedData: readonly Breed[] = [
   gascon_saintongeois,
   alpine_dachsbracke,
   parson_russell_terrier,
+  german_shepherd_dog,
 ];
