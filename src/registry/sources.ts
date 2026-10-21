@@ -631,102 +631,102 @@ export const sources = defineSources({
     accessedOn: "2026-10-21",
     note: "Photograph of a 13-week-old Coton de Tulear puppy uploaded by Willie Whitby under CC BY-SA 3.0. Note: embedded Nikon D90 EXIF metadata lists 'Author: John Williams' and 'Copyright holder: John Williams' (captured 2011-03-13); flagged for commercial-use authorship verification."
   },
-  "fci-cirneco-dell-etna-standard": {
+"fci-cirneco-dell-etna-standard": {
     id: "fci-cirneco-dell-etna-standard",
     name: "FCI - Cirneco dell'Etna Official Breed Standard No. 199",
     url: "https://www.fci.be/Nomenclature/Standards/199g05-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2017-02-07",
-    accessedOn: "2026-10-16",
-    note: "Official FCI standard. The PDF is dated 2017-02-07 and states that the official valid standard was published on 2016-10-30. Used for origin, classification, conformation, coat, colour, height and weight.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official FCI Standard No. 199 (English translation dated 2017-02-07; official valid standard published 2016-10-30). Used for origin, classification, proportions, anatomy, coat, colour, height (46–50 cm / 44–48 cm ± 2 cm), weight (10–13 kg / 8–11 kg), and disqualifying faults.",
+    publisher: "Fédération Cynologique Internationale"
   },
 
-  "american-kennel-club-cirneco-dell-etna": {
+"american-kennel-club-cirneco-dell-etna": {
     id: "american-kennel-club-cirneco-dell-etna",
     name: "American Kennel Club - Cirneco dell'Etna Breed Profile",
     url: "https://www.akc.org/dog-breeds/cirneco-delletna/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-16",
-    note: "Used for life expectancy, general temperament, exercise, training, grooming, nutrition and prey-drive guidance.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official AKC breed profile used for life expectancy (15–16 years), North American weight ranges (20–28 lbs male, 19–25 lbs female), low drooling rating, temperament, exercise, training, grooming, nutrition, and historical trivia.",
+    publisher: "American Kennel Club"
   },
 
-  "american-kennel-club-cirneco-dell-etna-standard": {
+"american-kennel-club-cirneco-dell-etna-standard": {
     id: "american-kennel-club-cirneco-dell-etna-standard",
     name: "American Kennel Club - Official Cirneco dell'Etna Breed Standard",
     url: "https://images.akc.org/pdf/breeds/standards/CirnecodellEtna.pdf",
     type: "official_breed_standard",
-    publishedOn: null,
-    accessedOn: "2026-10-16",
-    note: "The standard was approved on 2020-01-14 and became effective on 2020-03-31. Used as a secondary registry standard; where measurements differ, this record follows FCI.",
-    publisher: null
+    publishedOn: "2020-01-14",
+    accessedOn: "2026-10-21",
+    note: "Official AKC breed standard approved 2020-01-14 and effective 2020-03-31. Specifies height of 18–20 inches for dogs and 17–19 inches for bitches (disqualifying outside limits), retention of front dewclaws, and honourable working scars clause.",
+    publisher: "American Kennel Club"
   },
 
-  "cirneco-dell-etna-club-health-statement": {
+"cirneco-dell-etna-club-health-statement": {
     id: "cirneco-dell-etna-club-health-statement",
     name: "Cirneco dell'Etna Club of America - Health Statement",
     url: "https://cdn.akc.org/Marketplace/Health-Statement/Cirneco-dell-Etna.pdf",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-10-16",
-    note: "The club's statement says it has not observed heritable health issues in the breed and consequently does not currently recommend routine screening. This reflects the club statement and should not be interpreted as proof that inherited conditions are impossible.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Parent-club health statement reporting that the club has not observed widespread heritable health issues in the breed and currently has no routine mandatory screening test panel.",
+    publisher: "Cirneco dell'Etna Club of America"
   },
 
-  "cirneco-foundation-health-library": {
+"cirneco-foundation-health-library": {
     id: "cirneco-foundation-health-library",
-    name: "Cirneco Foundation - Health Library",
+    name: "Cirneco Foundation - Health Library & CONS Testing Resources",
     url: "https://cirnecofoundation.org/health/health-library/",
     type: "scientific",
     publishedOn: null,
-    accessedOn: "2026-10-16",
-    note: "A breed-focused library of scientific publications. Includes the 2024 research on an AMPD2 variant associated with retinopathy and tremors in Cirneco dell'Etna dogs.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Curated scientific library and health initiative of the 501(c)(3) Cirneco Foundation, documenting peer-reviewed studies on Cirneco oculo-neurological syndrome (CONS / AMPD2), University of Pennsylvania reference genome sequencing, genomic variability, and Leishmania infantum immunity.",
+    publisher: "Cirneco Foundation"
   },
 
-  "cirneco-cons-ampd2-study-2024": {
+"cirneco-cons-ampd2-study-2024": {
     id: "cirneco-cons-ampd2-study-2024",
-    name: "Murgiano et al. - Frameshift Variant in AMPD2 in Cirneco dell'Etna Dogs with Retinopathy and Tremors",
+    name: "Murgiano et al. (2024) - Frameshift Variant in AMPD2 in Cirneco dell'Etna Dogs with Retinopathy and Tremors (Genes)",
     url: "https://pubmed.ncbi.nlm.nih.gov/38397227/",
     type: "scientific",
     publishedOn: "2024-02-13",
-    accessedOn: "2026-10-16",
-    note: "Peer-reviewed 2024 report of Cirneco oculo-neurological syndrome (CONS), including retinal degeneration and tremors associated with an AMPD2 frameshift variant. The published report does not establish population prevalence.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Peer-reviewed study (Genes 2024;15(2):238, PMID: 38397227, PMCID: PMC10887799) identifying a 1-bp frameshift deletion in exon 15 of AMPD2 on CFA6 (g.42,698,170delC / c.2131delG / p.D711Mfs12Stop) associated with Cirneco oculo-neurological syndrome (CONS) in two male littermates and three related carriers.",
+    publisher: "Genes (MDPI) / PubMed"
   },
 
-  "wikimedia-cirneco-vignazzi-2022": {
+"wikimedia-cirneco-vignazzi-2022": {
     id: "wikimedia-cirneco-vignazzi-2022",
-    name: "Wikimedia Commons - CIRNECO DELL'ETNA.jpg",
+    name: "Wikimedia Commons - File:CIRNECO DELL'ETNA.jpg",
     url: "https://commons.wikimedia.org/wiki/File:CIRNECO_DELL%27ETNA.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-16",
-    note: "Photograph by Vignazzi, described on Wikimedia Commons as a three-year-old male Cirneco dell'Etna in Sicily. Licensed under CC BY-SA 4.0.",
-    publisher: null
+    publishedOn: "2023-09-05",
+    accessedOn: "2026-10-21",
+    note: "Photograph by Vignazzi (captured 2022-09-05, uploaded 2023-09-05, 992x1600 px) depicting a three-year-old male Cirneco dell'Etna in Sicily under CC BY-SA 4.0.",
+    publisher: "Wikimedia Commons"
   },
 
-  "wikimedia-cirneco-frumpy-2006": {
+"wikimedia-cirneco-frumpy-2006": {
     id: "wikimedia-cirneco-frumpy-2006",
-    name: "Wikimedia Commons - Cirneco dell Etna.jpg",
+    name: "Wikimedia Commons - File:Cirneco dell Etna.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Cirneco_dell_Etna.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-16",
-    note: "Older Cirneco dell'Etna photograph. Wikimedia Commons lists CC BY-SA 3.0; preserve attribution and comply with the share-alike condition.",
-    publisher: null
+    publishedOn: "2006-07-02",
+    accessedOn: "2026-10-21",
+    note: "Photograph attributed on German Wikipedia and Wikimedia Commons to author Jan Eduard (recorded capture date 1998-08-01; uploaded to de.wikipedia on 2006-01-06 and transferred to Commons at full 1182x835 resolution by Frumpy on 2006-07-02) under GFDL 1.2+ / CC BY-SA 3.0; flagged for commercial-use provenance verification due to a conflicting source note on derivative File:Cirneco_dell_Etna_611.jpg.",
+    publisher: "Wikimedia Commons"
   },
-  "cirneco-dell-etna-club-of-america-breed-profile": {
+"cirneco-dell-etna-club-of-america-breed-profile": {
     id: "cirneco-dell-etna-club-of-america-breed-profile",
-    name: "Cirneco dell'Etna Club of America - Breed Profile",
+    name: "Cirneco dell'Etna Club of America - Breed Standard & Introduction",
     url: "https://cirneco.org/breed/",
     type: "breed_club",
-    publishedOn: null,
-    accessedOn: "2026-10-16",
-    note: "Breed-club information on Sicilian hunting history, temperament, prey drive and the informal 'Sicilian Greyhound' translation.",
-    publisher: null
+    publishedOn: "2020-01-14",
+    accessedOn: "2026-10-21",
+    note: "Parent-club breed overview and official standard page noting Sicilian rabbit-hunting heritage on Mount Etna lava terrain and cautioning that the English translation 'Sicilian greyhound' is a misnomer.",
+    publisher: "Cirneco dell'Etna Club of America"
   },
   "fci-eurasier-breed-standard": {
     id: "fci-eurasier-breed-standard",
@@ -2546,16 +2546,15 @@ export const sources = defineSources({
     accessedOn: "2026-10-20",
     note: "Parker et al. (2004) study analyzing 85 domestic dog breeds and demonstrating that the Pharaoh Hound clusters with modern European-derived breeds rather than ancient basal breeds."
   },
-  "mediterranean-hounds-phylogeography-perini-2023": {
+"mediterranean-hounds-phylogeography-perini-2023": {
     id: "mediterranean-hounds-phylogeography-perini-2023",
-    name: "Phylogeographic and population genetic structure of hound-like native dogs of the Mediterranean Basin (Research in Veterinary Science, 2023)",
-    publisher: "Research in Veterinary Science / PubMed (PMID: 36669378)",
+    name: "Perini et al. (2023) - Phylogeographic and population genetic structure of hound-like native dogs of the Mediterranean Basin (Research in Veterinary Science)",
     url: "https://pubmed.ncbi.nlm.nih.gov/36669378/",
-    type: "scientific_publication",
-    commercialUse: "reference_only",
+    type: "scientific",
     publishedOn: "2023-02-01",
-    accessedOn: "2026-10-20",
-    note: "Perini et al. (2023) genomic and mitochondrial study of 8 Mediterranean warren-hound breeds including the Maltese Kelb tal-Fenek, showing low inbreeding and high divergence from modern Egyptian street dogs."
+    accessedOn: "2026-10-21",
+    note: "Genomic and mitochondrial study (PMID: 36669378) of eight Mediterranean hound breeds demonstrating that the Cirneco dell'Etna and Kelb tal-Fenek cluster with European/Mediterranean warren hounds and are genetically divergent from modern Egyptian street dogs.",
+    publisher: "Research in Veterinary Science / PubMed"
   },
   "fci-hovawart-official-standard": {
     id: "fci-hovawart-official-standard",
@@ -3735,6 +3734,126 @@ export const sources = defineSources({
     publishedOn: null,
     accessedOn: "2026-10-21",
     note: "File page identifies Alephalpha as creator; licensed under CC BY-SA 3.0. Attribution and share-alike terms apply.",
+  },
+  "fci-cirneco-dell-etna-nomenclature": {
+    id: "fci-cirneco-dell-etna-nomenclature",
+    name: "FCI Breeds Nomenclature - Cirneco dell'Etna (No. 199)",
+    url: "https://www.fci.be/en/nomenclature/CIRNECO-DELL-ETNA-199.html",
+    type: "official_breed_standard",
+    publishedOn: "2017-02-07",
+    accessedOn: "2026-10-21",
+    note: "Official FCI nomenclature entry for Cirneco dell'Etna (No. 199), documenting definitive recognition on 1956-03-09, official multilingual names, and working-trial status.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "enci-cirneco-dell-etna-profile": {
+    id: "enci-cirneco-dell-etna-profile",
+    name: "Ente Nazionale della Cinofilia Italiana (ENCI) - Cirneco dell'Etna",
+    url: "https://www.enci.it/libro-genealogico/razze/cirneco-dell-etna",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Official Italian Kennel Club (ENCI) breed profile, historical monograph (Migneco 1932, Baroness Agata Paternò Castello, Solaro 1939 standard, 1951 Catania club, Ch. Aetnensis Pupa 1952, ferret partnership), and Selected Breeding (Riproduzione Selezionata) requirements including HD A/B hip grading.",
+    publisher: "Ente Nazionale della Cinofilia Italiana (ENCI)"
+  },
+  "sace-enci-cirneco-dell-etna-standard-commentary": {
+    id: "sace-enci-cirneco-dell-etna-standard-commentary",
+    name: "Società Amatori Cirneco dell'Etna (SACE) / ENCI - Commento allo Standard del Cirneco dell'Etna",
+    url: "https://www.enci.it/media/3084/societ%C3%A0-amatori-cirneco-dell-etna-commento-allo-standard.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2018-04-30",
+    accessedOn: "2026-10-21",
+    note: "Official technical commentary on the Cirneco dell'Etna standard published by ENCI and the Italian parent club (SACE), detailing anatomical proportions, monochromatic pigmentation, coat texture, seasonal molt patches, and mandatory working trials since 1994.",
+    publisher: "Ente Nazionale della Cinofilia Italiana (ENCI) / Società Amatori Cirneco dell'Etna"
+  },
+  "the-royal-kennel-club-cirneco-dell-etna-standard": {
+    id: "the-royal-kennel-club-cirneco-dell-etna-standard",
+    name: "The Royal Kennel Club - Cirneco Dell'Etna Breed Standard",
+    url: "https://www.thekennelclub.org.uk/breed-standards/hound/cirneco-delletna/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-10-21",
+    note: "Official UK breed standard in the Hound Group specifying ideal height of 46–50 cm (18¼–19½ in) for dogs and 44–48 cm (17¼–19 in) for bitches, 2.5 cm (1 in) body coat, and colour rules.",
+    publisher: "The Royal Kennel Club"
+  },
+  "united-kennel-club-cirneco-dell-etna-standard": {
+    id: "united-kennel-club-cirneco-dell-etna-standard",
+    name: "United Kennel Club (UKC) - Cirneco dell'Etna Breed Standard",
+    url: "https://www.ukcdogs.com/cirneco-dell-etna",
+    type: "official_breed_standard",
+    publishedOn: "2009-07-01",
+    accessedOn: "2026-10-21",
+    note: "Official UKC breed standard in the Sighthound & Pariah Dog Group (recognized 2006, revised 2009-07-01).",
+    publisher: "United Kennel Club"
+  },
+  "cirneco-dell-etna-club-of-america-about": {
+    id: "cirneco-dell-etna-club-of-america-about",
+    name: "Cirneco dell'Etna Club of America - About CdECA",
+    url: "https://cirneco.org/about/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Official parent-club history documenting the founding of CdECA on 1997-06-15 in Houston, establishment of the North American studbook in June 1998, ASFA lure-coursing recognition, and full AKC Hound Group recognition on 2015-01-01.",
+    publisher: "Cirneco dell'Etna Club of America"
+  },
+  "cirneco-dell-etna-club-of-america-sport": {
+    id: "cirneco-dell-etna-club-of-america-sport",
+    name: "Cirneco dell'Etna Club of America - Sport & ENCI Work Standard",
+    url: "https://cirneco.org/sport/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Parent-club guide to Cirneco field work, lure coursing, conformation, and the English translation of the ENCI Working Standard and Field Trial Regulations on wild rabbit.",
+    publisher: "Cirneco dell'Etna Club of America"
+  },
+  "cirneco-dell-etna-club-of-america-rescue": {
+    id: "cirneco-dell-etna-club-of-america-rescue",
+    name: "Cirneco dell'Etna Club of America - Rescue & Adoption Guidance",
+    url: "https://cirneco.org/rescue/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Parent-club rescue and owner guidance covering North American population numbers, prey drive toward cats and squirrels, fenced running requirements, off-leash safety, and indoor blanket-burrowing habits.",
+    publisher: "Cirneco dell'Etna Club of America"
+  },
+  "cirneco-genomic-variability-cortellari-2021": {
+    id: "cirneco-genomic-variability-cortellari-2021",
+    name: "Cortellari et al. (2021) - Genomic variability of Cirneco dell'Etna and the genetic distance with other dog breeds (Italian Journal of Animal Science)",
+    url: "https://doi.org/10.1080/1828051X.2021.1873076",
+    type: "scientific",
+    publishedOn: "2021-02-12",
+    accessedOn: "2026-10-21",
+    note: "Peer-reviewed genomic study (Ital J Anim Sci 2021;20(1):304–314) analyzing 230K SNP arrays in self-coloured fawn and tan-and-white Cirnechi, establishing genetic closeness to Kelb tal-Fenek and Segugio Italiano, ROH inbreeding (FROH 0.195 vs 0.100), and MITF white-spotting selection.",
+    publisher: "Italian Journal of Animal Science (Taylor & Francis)"
+  },
+  "cirneco-leishmania-immune-response-2024": {
+    id: "cirneco-leishmania-immune-response-2024",
+    name: "Martínez-Sáez et al. (2024) - Adaptive and innate immune response of Leishmania infantum infection in Cirneco dell'Etna dog breed",
+    url: "https://pubmed.ncbi.nlm.nih.gov/39217909/",
+    type: "scientific",
+    publishedOn: "2024-08-28",
+    accessedOn: "2026-10-21",
+    note: "Peer-reviewed veterinary immunology study (Comp Immunol Microbiol Infect Dis 2024;113:102232, PMID: 39217909) investigating Th1 and Th17 cytokine responses to endemic Leishmania infantum infection in Cirneco dell'Etna dogs.",
+    publisher: "Comparative Immunology, Microbiology and Infectious Diseases / PubMed"
+  },
+  "wikimedia-cirneco-maschio-3-anni-vignazzi-2022": {
+    id: "wikimedia-cirneco-maschio-3-anni-vignazzi-2022",
+    name: "Wikimedia Commons - File:CIRNECO DELL'ETNA, MASCHIO DI 3 ANNI.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:CIRNECO_DELL%27ETNA,_MASCHIO_DI_3_ANNI.jpg",
+    type: "other",
+    publishedOn: "2023-09-05",
+    accessedOn: "2026-10-21",
+    note: "Photograph by Vignazzi (captured 2022-09-05, uploaded 2023-09-05, 1044x1600 px) showing a three-year-old male Cirneco dell'Etna (Giotto dei Vignazzi) in Sicily under CC BY-SA 4.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-cirneco-cucciola-2-mesi-vignazzi-2021": {
+    id: "wikimedia-cirneco-cucciola-2-mesi-vignazzi-2021",
+    name: "Wikimedia Commons - File:CIRNECO DELL'ETNA., CUCCIOLA DI 2 MESI.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:CIRNECO_DELL%27ETNA.,_CUCCIOLA_DI_2_MESI.jpg",
+    type: "other",
+    publishedOn: "2023-09-05",
+    accessedOn: "2026-10-21",
+    note: "EXIF-verified Canon EOS 6D photograph by Vignazzi (captured 2021-10-04, uploaded 2023-09-05, 5002x3283 px) showing a two-month-old female Cirneco dell'Etna puppy (Bella dei Vignazzi) under CC BY-SA 4.0.",
+    publisher: "Wikimedia Commons"
   },
 });
 

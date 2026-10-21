@@ -15,8 +15,7 @@
 12:russian_toy - CG
 13:kromfohrlander - CG
 14:coton_de_tulear - CG
-
-15:cirneco_dell'etna - CR
+15:cirneco_dell'etna - CG
 
 16:nova_scotia_duck-tolling_retriever - C
 17:bloodhound - C
