@@ -5312,6 +5312,46 @@ export const sources = defineSources({
     commercialUse: "commercial_use",
     note: "File page identifies Manializa as the creator and lists CC BY-SA 4.0. Commercial reuse is permitted subject to attribution, license-link, change-indication, and applicable share-alike requirements."
   },
+  "american-kennel-club-skye-terrier": {
+    id: "american-kennel-club-skye-terrier",
+    name: "American Kennel Club - Skye Terrier",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/skye-terrier/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed profile, size, life expectancy, care and health information."
+  },
+  "american-kennel-club-skye-terrier-history": {
+    id: "american-kennel-club-skye-terrier-history",
+    name: "American Kennel Club - Skye Terrier History",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/expert-advice/dog-breeds/skye-terrier-history/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Historical overview of the breed's development on the Isle of Skye and its original working role."
+  },
+  "united-kennel-club-skye-terrier-standard": {
+    id: "united-kennel-club-skye-terrier-standard",
+    name: "United Kennel Club - Skye Terrier Breed Standard",
+    publisher: "United Kennel Club",
+    url: "https://www.ukcdogs.com/breed-standards/skye-terrier",
+    type: "official_breed_standard",
+    publishedOn: "2017-05-01",
+    accessedOn: "2026-10-21",
+    note: "Official UKC breed standard; page states that the standard was revised May 1, 2017."
+  },
+  "skye-terrier-club-uk-health": {
+    id: "skye-terrier-club-uk-health",
+    name: "The Skye Terrier Club - Breed Health",
+    publisher: "The Skye Terrier Club",
+    url: "https://www.skyeterrierclub.org.uk/breed-health/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed health committee information about conditions being monitored and ongoing health research."
+  },
 });
 
 export type SourceId = keyof typeof sources;
