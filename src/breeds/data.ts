@@ -49,6 +49,7 @@ import { german_shepherd_dog } from "./german_shepherd_dog";
 import { drentse_patrijshond } from "./drentse_patrijshond";
 import { stabyhoun } from "./stabyhoun";
 import { lowchen } from "./lowchen";
+import { collie_rough } from "./collie_rough";
 
 
 export const breedData: readonly Breed[] = [
@@ -97,4 +98,5 @@ export const breedData: readonly Breed[] = [
   drentse_patrijshond,
   stabyhoun,
   lowchen,
+  collie_rough,
 ];

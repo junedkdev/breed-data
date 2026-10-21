@@ -898,125 +898,125 @@ export const sources = defineSources({
     note: "Photograph of a 12-week-old male Nova Scotia Duck Tolling Retriever puppy by Jarle Nystuen (uploaded on 2005-07-25 by Minto, 800x599, originally tagged Attribution / GFDL 1.2+ and migrated to CC BY-SA 3.0).",
     publisher: "Wikimedia Commons"
   },
-  "fci-bloodhound-official-standard": {
+"fci-bloodhound-official-standard": {
     id: "fci-bloodhound-official-standard",
-    name: "FCI - Bloodhound Official Breed Standard No. 84",
+    name: "FCI - Bloodhound (Chien de Saint-Hubert) Official Breed Standard No. 84",
     url: "https://www.fci.be/nomenclature/Standards/084g06-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2002-07-12",
-    accessedOn: "2026-10-19",
-    note: "The PDF is dated 2002-07-12 and records 2001-03-13 as the publication date of the original valid standard. Used for origin, classification, historical background, temperament, coat, colour, size and weight.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official FCI Standard No. 84 (dated 2002-07-12; original valid standard published 2001-03-13). Used for origin (Belgium / Ardennes / Abbey of Saint-Hubert), Group 6 Section 1.1 classification, historical summary (7th-century St. Hubert, 11th-century William the Conqueror and white Talbot hounds), proportions (10:9 body, 1:2 chest, 3:7 head, 1:2 muzzle), temperament, coat, colour, height (ideal 68 cm male / 62 cm female ± 4 cm), weight (46–54 kg male / 40–48 kg female), and disqualifying faults.",
+    publisher: "Fédération Cynologique Internationale"
   },
 
-  "american-kennel-club-bloodhound": {
+"american-kennel-club-bloodhound": {
     id: "american-kennel-club-bloodhound",
     name: "American Kennel Club - Bloodhound Breed Profile",
     url: "https://www.akc.org/dog-breeds/bloodhound/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Used for life expectancy, temperament, vocalisation, exercise, grooming, nutrition, drooling and the national parent-club health-test list.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official AKC breed profile used for height (25–27 in male, 23–25 in female), weight (90–110 lbs male, 80–100 lbs female), life expectancy (10–12 years), 1885 AKC recognition, 1805 Thrapston law-enforcement history, 2022 Westminster Best in Show, temperament, vocalisation, exercise, daily ear/wrinkle care, nutrition, and recommended health tests.",
+    publisher: "American Kennel Club"
   },
 
-  "royal-kennel-club-bloodhound-standard": {
+"royal-kennel-club-bloodhound-standard": {
     id: "royal-kennel-club-bloodhound-standard",
     name: "Royal Kennel Club - Bloodhound Breed Standard",
     url: "https://www.royalkennelclub.com/breed-standards/hound/bloodhound/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-10-19",
-    note: "Official UK breed standard, last updated 2025-04-01. Used as a secondary registry reference for appearance, colour, temperament and UK measurement ranges.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official UK Kennel Club breed standard (last updated 2025-04-01). Used as a secondary registry reference for appearance, head length (≥30 cm dogs, ≥28 cm bitches), colour, temperament, and UK height (63–69 cm / 58–63 cm) and weight (41–50 kg / 36–45.5 kg) ranges.",
+    publisher: "The Royal Kennel Club"
   },
 
-  "akc-hound-group-health-testing-requirements": {
+"akc-hound-group-health-testing-requirements": {
     id: "akc-hound-group-health-testing-requirements",
     name: "American Kennel Club - Hound Group Health Testing Requirements",
     url: "https://www.akc.org/breeder-programs/breed-health-testing-requirements/hound-group-health-testing-requirements/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Lists Bloodhound health tests recommended by the American national parent breed club: hip evaluation, elbow evaluation and cardiac examination.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official AKC Hound Group health-testing requirements listing hip evaluation, elbow evaluation, and cardiac examination for the Bloodhound.",
+    publisher: "American Kennel Club"
   },
 
-  "american-bloodhound-club-recommended-health-tests": {
+"american-bloodhound-club-recommended-health-tests": {
     id: "american-bloodhound-club-recommended-health-tests",
     name: "American Bloodhound Club - Recommended Health Tests",
     url: "https://www.americanbloodhoundclub.org/recommended-health-tests/",
     type: "breed_club",
     publishedOn: "2021-08-09",
-    accessedOn: "2026-10-19",
-    note: "Describes basic breeding-health screening and optional eye, patellar and degenerative myelopathy evaluations.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "US parent-club health testing guide detailing required CHIC evaluations (OFA hip dysplasia, OFA elbow dysplasia, and OFA cardiac exam by a practitioner, specialist, or cardiologist) and optional evaluations (ACVO eye exam, patellar luxation, PennHIP, and SOD1 degenerative myelopathy DNA test), plus cumulative OFA statistics.",
+    publisher: "American Bloodhound Club"
   },
 
-  "american-bloodhound-club-ofa-statistics": {
+"american-bloodhound-club-ofa-statistics": {
     id: "american-bloodhound-club-ofa-statistics",
     name: "American Bloodhound Club - Bloodhound OFA Statistics",
     url: "https://www.americanbloodhoundclub.org/bloodhound-ofa-statistics/",
     type: "breed_club",
     publishedOn: "2025-02-09",
-    accessedOn: "2026-10-19",
-    note: "Provides context on the breed's health-screening programme and available OFA results. Registry statistics reflect dogs tested and are not necessarily representative of every Bloodhound.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "US parent-club OFA-CHIC requirements (including permanent microchip/tattoo identification) and OFA registry evaluation statistics (hips 25.4% abnormal of 2,941; elbows 14.2% abnormal of 1,224; cardiac 0.7% abnormal of 732; patella 2.7% abnormal of 150; thyroid 5.7% abnormal / 19.5% equivocal of 159; DM 6.4% affected / 44.1% carrier / 49.5% normal of 311).",
+    publisher: "American Bloodhound Club"
   },
 
-  "bloodhound-club-uk-health-information": {
+"bloodhound-club-uk-health-information": {
     id: "bloodhound-club-uk-health-information",
-    name: "The Bloodhound Club - Health Information",
+    name: "The Bloodhound Club (UK) - Health Information",
     url: "https://www.thebloodhoundclub.com/health-information-1",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Breed-club health overview covering cancer, gastric torsion, skin conditions, hip and elbow dysplasia, and eye health. Some reported survey data involve small numbers of dogs.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "UK breed-club health overview covering leading survey causes of death (cancer and gastric torsion/bloat), atopic dermatitis/eczema, hip and elbow scoring, eyelid/multi-ocular conditions, BVA heart and eye schemes, 10.00% average COI, and the 1 January 2025 reclassification from Category 3 to Category 2.",
+    publisher: "The Bloodhound Club (UK)"
   },
 
-  "vcahospitals-bloodhound-profile": {
+"vcahospitals-bloodhound-profile": {
     id: "vcahospitals-bloodhound-profile",
     name: "VCA Animal Hospitals - Bloodhound",
     url: "https://vcahospitals.com/know-your-pet/bloodhound",
     type: "veterinary",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Veterinary breed profile used for health, temperament, living environment and general care information.",
-    publisher: null
+    publishedOn: "2026-09-18",
+    accessedOn: "2026-10-21",
+    note: "Veterinary breed profile by LifeLearn Inc. / VCA Animal Hospitals covering quick facts (23–27 in, 80–110 lbs), scent-tracking anatomy, temperament, ideal home environment (caution with heat overexertion), and life-stage health considerations (hip/elbow dysplasia, patellar luxation, entropion, ectropion, cherry eye, keratoconjunctivitis sicca, skin-fold infections, congenital heart valve disease, GDV, chronic otitis, and degenerative myelopathy).",
+    publisher: "VCA Animal Hospitals"
   },
 
-  "petmd-bloodhound-health-care": {
+"petmd-bloodhound-health-care": {
     id: "petmd-bloodhound-health-care",
-    name: "PetMD - Bloodhound Breed Health and Care",
+    name: "PetMD - Bloodhound Dog Breed Health and Care",
     url: "https://www.petmd.com/dog/breeds/bloodhound",
     type: "veterinary",
     publishedOn: "2023-01-23",
-    accessedOn: "2026-10-19",
-    note: "Breed-care article written by a veterinarian. Used for lifespan, exercise, nutrition, GDV, joint health, ear infections, skin folds, grooming and training.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Veterinary breed guide by Dr. Teresa Kho-Pelfrey, DVM, covering lifespan (10–12 years), hip and elbow dysplasia, otitis externa/media/interna, GDV pathophysiology and prophylactic gastropexy, feeding (2–3 smaller meals daily, avoiding elevated bowls and vigorous exercise around meals), 6-foot fencing, and daily facial-fold wiping.",
+    publisher: "PetMD"
   },
 
-  "wikimedia-bloodhound-puppy-meagan": {
+"wikimedia-bloodhound-puppy-meagan": {
     id: "wikimedia-bloodhound-puppy-meagan",
     name: "Wikimedia Commons - Bloodhound Puppy.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Bloodhound_Puppy.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Photograph originally published on Flickr by Meagan, whose Flickr account is identified as Jakey Face. Wikimedia Commons lists CC BY 2.0.",
-    publisher: null
+    publishedOn: "2009-03-07",
+    accessedOn: "2026-10-21",
+    note: "Photograph of a Bloodhound puppy by Meagan (Flickr account: Jakey Face), captured 2009-03-07 and uploaded to Wikimedia Commons on 2012-09-13 (873x1100, verified under CC BY 2.0).",
+    publisher: "Wikimedia Commons"
   },
 
-  "wikimedia-bloodhound-black-and-tan-canarian": {
+"wikimedia-bloodhound-black-and-tan-canarian": {
     id: "wikimedia-bloodhound-black-and-tan-canarian",
     name: "Wikimedia Commons - Bloodhound black and tan.JPG",
     url: "https://commons.wikimedia.org/wiki/File:Bloodhound_black_and_tan.JPG",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Photograph by Canarian. Wikimedia Commons lists CC BY-SA 3.0. Follow attribution and applicable share-alike requirements.",
-    publisher: null
+    publishedOn: "2013-09-21",
+    accessedOn: "2026-10-21",
+    note: "Photograph of a male black-and-tan Bloodhound by Canarian, captured 2013-09-21 (per Summary and SONY DSLR-A350 EXIF metadata) and uploaded 2013-10-23 (630x442, licensed under CC BY-SA 3.0).",
+    publisher: "Wikimedia Commons"
   },
   "hokkaido-association-of-north-america-about": {
     id: "hokkaido-association-of-north-america-about",
@@ -4194,6 +4194,146 @@ export const sources = defineSources({
     publishedOn: "2010-09-04",
     accessedOn: "2026-10-21",
     note: "Photographer: John M. P. Knox. CC BY-SA 2.0 applies; attribution and share-alike terms apply.",
+  },
+  "fci-collie-rough-nomenclature": {
+    id: "fci-collie-rough-nomenclature",
+    name: "FCI Breed Nomenclature — Collie Rough (156)",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/en/nomenclature/COLLIE-ROUGH-156.html",
+    type: "breed_registry",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Current FCI breed listing for classification, country of origin, and working-trial status. The page lists the official valid standard date as 2026-09-08.",
+  },
+  "fci-collie-rough-standard-2012": {
+    id: "fci-collie-rough-standard-2012",
+    name: "FCI Standard No. 156 — Collie (Rough), 2012 edition",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/156g01-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2012-11-22",
+    accessedOn: "2026-10-21",
+    note: "Earlier official standard used only for historical background and general breed description, not as the authority for current measurements.",
+  },
+  "american-kennel-club-collie": {
+    id: "american-kennel-club-collie",
+    name: "Collie — Breed Information",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/collie/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed profile covering size, life expectancy, colours, grooming, exercise, training, and recommended health tests.",
+  },
+  "collie-club-of-america-health": {
+    id: "collie-club-of-america-health",
+    name: "Collie Health",
+    publisher: "Collie Club of America",
+    url: "https://thecollieclub.org/collie-health/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed-health guidance discussing Collie Eye Anomaly, MDR1 medication sensitivity, and health resources.",
+  },
+  "collie-club-of-america-breeder-health": {
+    id: "collie-club-of-america-breeder-health",
+    name: "Breeder Health Testing",
+    publisher: "Collie Club of America",
+    url: "https://thecollieclub.org/faq-items/breeder-health-testing/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breeder screening guidance covering CEA, MDR1, PRA-rcd2, dermatomyositis, hip evaluation, and degenerative myelopathy.",
+  },
+  "wikimedia-rough-collie-barberousse": {
+    id: "wikimedia-rough-collie-barberousse",
+    name: "Rough Collie.jpg — Wikimedia Commons",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Rough_Collie.jpg",
+    type: "other",
+    publishedOn: "2017-10-20",
+    accessedOn: "2026-10-21",
+    note: "Photograph credited to B@rberousse (Alain BOUCHERY), uploaded via Flickr upload bot. CC BY-SA 2.0; commercial use is allowed under the license terms.",
+  },
+  "wikimedia-rough-collie-panaca": {
+    id: "wikimedia-rough-collie-panaca",
+    name: "Rough collie Panaca.JPG — Wikimedia Commons",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Rough_collie_Panaca.JPG",
+    type: "other",
+    publishedOn: "2012-07-08",
+    accessedOn: "2026-10-21",
+    note: "White Rough Collie photographed by Petruss. CC BY-SA 3.0; commercial use is allowed under the license terms.",
+  },
+  "wikimedia-rough-collie-canberra": {
+    id: "wikimedia-rough-collie-canberra",
+    name: "Rough Collie Canberra 2016.jpg — Wikimedia Commons",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Rough_Collie_Canberra_2016.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Photograph credited to Thennicke. CC BY-SA 4.0; commercial use is allowed under the license terms. The upload date was not recorded because it was not independently established.",
+  },
+  "american-bloodhound-club-breed-history-standard": {
+    id: "american-bloodhound-club-breed-history-standard",
+    name: "American Bloodhound Club - Breed History & Official AKC Standard",
+    url: "https://www.americanbloodhoundclub.org/breed-history-standard/",
+    type: "official_breed_standard",
+    publishedOn: "1996-01-09",
+    accessedOn: "2026-10-21",
+    note: "Official AKC / American Bloodhound Club breed standard (approved 9 January 1996, effective 29 February 1996) and historical overview, specifying 25–27 in (average 26 in) and 90–110 lbs for dogs, 23–25 in (average 24 in) and 80–100 lbs for bitches, head length ≥12 in (dogs) and ≥11 in (bitches), scissor or level bite, and black-and-tan, liver-and-tan, and red colours.",
+    publisher: "American Bloodhound Club / American Kennel Club"
+  },
+  "american-bloodhound-club-faq": {
+    id: "american-bloodhound-club-faq",
+    name: "American Bloodhound Club - Frequently Asked Questions about Bloodhounds",
+    url: "https://www.americanbloodhoundclub.org/frequently-asked-questions-about-bloodhounds/",
+    type: "breed_club",
+    publishedOn: "2020-06-10",
+    accessedOn: "2026-10-21",
+    note: "US parent-club FAQ covering activity needs, apartment unsuitability, height/weight (including 120–130+ lb individuals), colour shades, drooling, baying, non-guarding watchdog nature, supervision with children under 5, pack sociability, digging, 5–6 ft physical fencing, and why electronic/invisible fences fail.",
+    publisher: "American Bloodhound Club"
+  },
+  "bloodhound-club-uk-breed-standard": {
+    id: "bloodhound-club-uk-breed-standard",
+    name: "The Bloodhound Club (UK) - Official UK Kennel Club Breed Standard",
+    url: "https://www.thebloodhoundclub.com/breed-standard",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Complete text of the UK Kennel Club Bloodhound breed standard hosted by The Bloodhound Club, detailing head length (≥30 cm / 12 in in dogs, ≥28 cm / 11 in in bitches), unimpeded eyesight, scissor bite, colours, height (63–69 cm / 25–27 in dogs, 58–63 cm / 23–25 in bitches; ideal 66 cm / 61 cm), and weight (41–50 kg / 90–110 lbs dogs, 36–45.5 kg / 80–100 lbs bitches).",
+    publisher: "The Bloodhound Club (UK) / The Kennel Club"
+  },
+  "bloodhound-club-uk-considering-a-bloodhound": {
+    id: "bloodhound-club-uk-considering-a-bloodhound",
+    name: "The Bloodhound Club (UK) - Considering A Bloodhound, What You Should Know",
+    url: "https://www.thebloodhoundclub.com/considering-a-bloodhound",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "UK parent-club buyer and owner guide covering KC/BVA hip, elbow, eye, heart, and DM testing, 10.00% average COI, scent-driven temperament, 15-foot slobber throws, minimum 2 hours of daily exercise, counter-surfing height, gastric torsion, ear cleaning, and reduced entropion incidence.",
+    publisher: "The Bloodhound Club (UK)"
+  },
+  "bloodhound-club-uk-breed-history": {
+    id: "bloodhound-club-uk-breed-history",
+    name: "The Bloodhound Club (UK) - The History of the Bloodhound",
+    url: "https://www.thebloodhoundclub.com/breed-history",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "UK parent-club historical account documenting British records from c. 1300, St. Hubert's Abbey origins, Scottish border 'sleuth hound' tracking of cattle reivers, Robert Boyle's 17th-century 7-mile trailing trial, Sir Walter Scott and Landseer depictions, and WWII population bottleneck.",
+    publisher: "The Bloodhound Club (UK)"
+  },
+  "bloodhound-gdv-mortality-morbidity-uk-2010": {
+    id: "bloodhound-gdv-mortality-morbidity-uk-2010",
+    name: "Mortality and Morbidity Due to Gastric Dilatation-Volvulus Syndrome in Pedigree Dogs in the UK",
+    url: "https://pubmed.ncbi.nlm.nih.gov/20626784/",
+    type: "scientific",
+    publishedOn: "2010-07-15",
+    accessedOn: "2026-10-21",
+    note: "Evans KM, Adams VJ (Journal of Small Animal Practice 2010;51(7):376–381, PMID 20626784). Epidemiological study of 15,881 deceased and 36,006 live UK pedigree dogs identifying the Bloodhound among the breeds at greatest risk of both GDV mortality and GDV morbidity.",
+    publisher: "Journal of Small Animal Practice (BSAVA / Wiley)"
   },
 });
 
