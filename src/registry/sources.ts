@@ -3455,7 +3455,66 @@ export const sources = defineSources({
   note: "Original German national breed club founded in 1955 by breed founder Ilse Schleifenbaum; establishes health screening regulations (Körung), breeding guidelines, and the University of Kassel DNA blood bank.",
   publisher: "Rassezuchtverein der Kromfohrländer e.V.",
   commercialUse: "reference_only"
-  }
+  },
+  "fci-gascon-saintongeois-standard": {
+    id: "fci-gascon-saintongeois-standard",
+    name: "FCI Standard No. 21 - Gascon Saintongeois",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://fci.be/Nomenclature/Standards/021g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2023-08-08",
+    accessedOn: "2026-10-21",
+    note:
+      "Official breed standard covering origin, classification, history, utilization, temperament, conformation, coat, colour, and separate height ranges for the Grand and Petit varieties.",
+  },
+  "royal-canin-gascon-saintongeois": {
+    id: "royal-canin-gascon-saintongeois",
+    name: "Royal Canin - Gascon Saintongeois",
+    publisher: "Royal Canin",
+    url: "https://www.royalcanin.com/fr/dogs/breeds/gascon-saintongeois",
+    type: "other",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note:
+      "Consumer breed profile used for typical life expectancy and qualitative care context. Lifespan is an estimate, not a guarantee.",
+  },
+  "wikimedia-gascon-saintongeois-grand-canarian": {
+    id: "wikimedia-gascon-saintongeois-grand-canarian",
+    name: "Wikimedia Commons - Largegasconsaintonge1.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Largegasconsaintonge1.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note:
+      "Original file page identifies Canarian as author and lists CC BY-SA 4.0. Commercial use is allowed subject to attribution and applicable share-alike terms.",
+  },
+  "wikimedia-gascon-saintongeois-petit-canarian": {
+    id: "wikimedia-gascon-saintongeois-petit-canarian",
+    name: "Wikimedia Commons - Petitgasconsaintongeois1.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Petitgasconsaintongeois1.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note:
+      "Original file page identifies Canarian as author and describes the Petit variety. License: CC BY-SA 4.0, with attribution and applicable share-alike terms.",
+  },
+  "wikimedia-gascon-saintongeois-grand-photo-canarian": {
+    id: "wikimedia-gascon-saintongeois-grand-photo-canarian",
+    name: "Wikimedia Commons - Isogascognesaintonge.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Isogascognesaintonge.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note:
+      "Original file page identifies Canarian as author and lists CC BY 4.0. Commercial use is allowed with attribution and indication of changes where applicable.",
+  },
 });
 
 export type SourceId = keyof typeof sources;

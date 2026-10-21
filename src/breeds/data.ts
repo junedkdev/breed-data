@@ -42,6 +42,7 @@ import { tyrolean_hound } from "./tyrolean_hound";
 import { bernese_mountain_dog } from "./bernese_mountain_dog";
 import { brittany } from "./brittany";
 import { great_dane } from "./great_dane";
+import { gascon_saintongeois } from "./gascon_saintongeois";
 
 
 export const breedData: readonly Breed[] = [
@@ -83,4 +84,5 @@ export const breedData: readonly Breed[] = [
   bernese_mountain_dog,
   brittany,
   great_dane,
+  gascon_saintongeois,
 ];

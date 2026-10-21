@@ -1,11 +1,13 @@
+# Status: empty = waiting, R = ChatGPT started, C = ChatGPT done, CR = Gemini started, CG = Gemini verified
+
 0:eurasier - CG
-1:hokkaido_ken -CG
+1:hokkaido_ken - CG
 2:italian_greyhound - CG
 3:schweizer_laufhund - CG
 4:great_pyrenees - CG
 5:wirehaired_vizsla - CG
 6:glen_of_imaal_terrier - CG
-7:pharaoh_hound - CG 
+7:pharaoh_hound - CG
 8:braque_francais_(gascogne) - CG
 9:berger_blanc_suisse - CG
 10:staffordshire_bull_terrier - CG
@@ -13,8 +15,8 @@
 12:russian_toy - CG
 13:kromfohrlander - CG
 
+14:coton_de_tulear - CR
 
-14:coton_de_tulear - C
 15:cirneco_dell'etna - C
 16:nova_scotia_duck-tolling_retriever - C
 17:bloodhound - C
@@ -38,10 +40,8 @@
 35:bernese_mountain_dog - C
 36:brittany - C
 37:great_dane - C
+38:gascon_saintongeois - C
 
-
-
-38:gascon_saintongeois
 39:alpine_dachsbracke
 40:parson_russell_terrier
 41:german_shepherd_dog
