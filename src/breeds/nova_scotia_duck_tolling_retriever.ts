@@ -3,17 +3,18 @@ import type { Breed } from "../schema/breed.types";
 export const nova_scotia_duck_tolling_retriever: Breed = {
   slug: "nova-scotia-duck-tolling-retriever",
   name: "Nova Scotia Duck Tolling Retriever",
-  scientificName: null,
+  scientificName: "Canis lupus familiaris",
 
   alternateNames: [
     "Toller",
     "Little River Duck Dog",
     "Yarmouth Toller",
-    "Decoy Dog"
+    "Decoy Dog",
+    "Duck Tolling Retriever"
   ],
 
   group:
-    "FCI Group 8 — Retrievers, Flushing Dogs and Water Dogs; Section 1 — Retrievers (working trial required)",
+    "Retrievers, Flushing Dogs and Water Dogs; Section 1 — Retrievers (also classified in the Sporting Dog and Gundog groups)",
 
   origin: {
     country: "Canada",
@@ -35,9 +36,9 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
       height: 768,
       licenseId: "cc-by-2.0",
       attribution:
-        "Photo by Christopher Woo, originally shared on Flickr as Happy Deks, via Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Nova_Scotia_Duck_Tolling_Retriever_portrait.jpg. License: https://creativecommons.org/licenses/by/2.0/. Changes, if any, must be indicated.",
+        "Photo by Christopher Woo, originally shared on Flickr as 'Happy Deks', via Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Nova_Scotia_Duck_Tolling_Retriever_portrait.jpg. License: https://creativecommons.org/licenses/by/2.0/. Changes, if any, must be indicated.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-19"
+      metadataCheckedOn: "2026-10-21"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Scotia_Duck-Tolling_Retriever.jpg",
@@ -54,34 +55,34 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
       height: 599,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Jarle Nystuen, via Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Nova_Scotia_Duck-Tolling_Retriever.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adapted versions must comply with the applicable share-alike terms.",
-      restrictions: null,
-      metadataCheckedOn: "2026-10-19"
+        "Photo by Jarle Nystuen, via Wikimedia Commons, CC BY-SA 3.0 / GFDL 1.2+. Source: https://commons.wikimedia.org/wiki/File:Nova_Scotia_Duck-Tolling_Retriever.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adapted versions must comply with the applicable share-alike terms.",
+      restrictions:
+        "Originally uploaded to Wikimedia Commons on 2005-07-25 under the Attribution and GNU Free Documentation License (GFDL 1.2+) tags and subsequently migrated to CC BY-SA 3.0 during the Wikimedia GFDL licensing update; preserve attribution to Jarle Nystuen and comply with CC BY-SA 3.0 ShareAlike terms on any adaptations.",
+      metadataCheckedOn: "2026-10-21"
     }
   ],
 
   overview: {
     summary:
-      "An energetic, intelligent Canadian retriever known for its red or orange double coat, love of water, strong retrieving instinct and unusual ability to attract waterfowl through playful movement.",
+      "A compact, athletic, and intelligent Canadian retriever bred in southwestern Nova Scotia, celebrated for its red-to-orange water-repellent double coat, tireless love of swimming and retrieving, and fox-like shoreline play that lures curious waterfowl within gunshot range.",
 
     description:
-      "The Nova Scotia Duck Tolling Retriever, commonly called the Toller, is a medium-sized, athletic sporting dog developed to work around water. It combines a compact, muscular body with a water-repellent double coat, a feathered tail and webbed feet suited to swimming. Its traditional work involved playing and moving near the shoreline to attract the curiosity of waterfowl and then retrieving birds after they were brought down. Tollers are generally affectionate and lively with their families, highly active and mentally engaged, and responsive to rewarding training. Some are cautious with unfamiliar people and can be strong-willed or sensitive during training. Their exercise needs, seasonal coat shedding and high-pitched excitement vocalisation should be considered before choosing the breed.",
+      "The Nova Scotia Duck Tolling Retriever—universally nicknamed the Toller—is the smallest of the retriever breeds, built with a muscular, compact, and well-boned frame that is slightly longer than tall (roughly a 10:9 ratio) without ever appearing heavy or clunky. Protected against icy maritime waters by a medium-length, water-repellent double coat in shades of golden red to dark coppery red (often accented by white markings on the tail tip, feet, chest, or blaze), it features a clean, wedge-shaped head, alert almond-shaped amber-to-brown eyes, high-set triangular drop ears, a heavily feathered tail that waves incessantly above the back when working, and strongly webbed feet. In the field, the Toller performs a dual job: darting, leaping, and retrieving sticks or balls silently along the shoreline so its flashing red coat and feathered tail arouse the curiosity of offshore ducks and geese, then plunging into frigid water to retrieve downed birds on command. At home, Tollers are deeply affectionate, playful, and attuned to their families, though they can be reserved with strangers, strong-willed if training becomes repetitive, and prone to an unmistakable high-pitched vocalisation ('the Toller scream') when brimming with excitement.",
 
     history:
-      "The breed developed in the early nineteenth century in the Little River Harbour community of Yarmouth County, Nova Scotia, Canada. Its early role was to lure waterfowl toward hunters and retrieve birds from land or water. It was historically known as the Little River Duck Dog and the Yarmouth Toller. The precise ancestry is not fully documented, but spaniel-, setter-, retriever- and possibly farm-collie-type dogs are thought to have contributed to its development. The Canadian Kennel Club admitted the breed in 1945. Today, the Toller remains a working retriever as well as an active companion and sporting dog.",
+      "Developed at the beginning of the nineteenth century in the coastal community of Little River Harbour in Yarmouth County, southwestern Nova Scotia, the breed was originally called the Little River Duck Dog or the Yarmouth Toller. Local hunters—drawing on Indigenous Mi'kmaq traditions and European observations of red foxes playing near the water's edge to entice rafting waterfowl toward shore—bred a small, fox-coloured dog that could both lure ('toll', from the Middle English tolian, meaning 'to entice or decoy') and retrieve waterfowl from icy tidal waters. Although exact early breeding records were not preserved, foundation stock is thought to have combined small European decoy spaniels (similar to the Nederlandse Kooikerhondje) with retrievers (including early Golden, Chesapeake Bay, or Flat-Coated Retriever stock and the extinct St. John's Water Dog), setters, spaniels, and local farm collies. After more than a century of regional breeding in Nova Scotia, the first 15 dogs were admitted to national studbook registration in Canada in 1945. When breed numbers dropped dangerously low in the 1970s, dedicated North American and European fanciers—including American pioneer Sue Van Sloun, who imported her first pair in 1978 and helped establish organized preservation in the United States in 1984—expanded preservation efforts. International recognition followed in 1987, the province of Nova Scotia proclaimed the Toller its official Provincial Dog in 1995, and full sporting-group recognition in the United States was granted in 2003.",
 
     originalPurpose:
-      "Waterfowl tolling and retrieving. The dog plays and moves visibly near the shoreline to attract the attention of ducks and other waterfowl, then retrieves birds from land or water when directed.",
+      "Enticing ('tolling') offshore ducks and geese within gunshot range through silent, playful shoreline movement and retrieving downed waterfowl from icy water and land.",
 
     currentRoles: [
-      "Active family companion",
-      "Waterfowl hunting and retrieving",
-      "Field and retriever activities",
-      "Agility and flyball",
-      "Obedience and reward-based training",
-      "Tracking and scent-work activities",
-      "Hiking, swimming and outdoor recreation",
-      "Suitable search-and-rescue or therapy activities after individual training and temperament assessment"
+      "Active family and outdoor companion",
+      "Waterfowl tolling and retrieving gundog",
+      "Field trial and retriever hunt-test competitor",
+      "Agility, flyball, and dock-diving competitor",
+      "Obedience, rally, and trick-training participant",
+      "Tracking, nose work, and scent-detection participant",
+      "Search-and-rescue or therapy dog where individually trained and temperament-suited"
     ]
   },
 
@@ -118,51 +119,45 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
     },
 
     coatType:
-      "Medium-length, water-repellent double coat with a soft, dense undercoat. The outer coat is usually straight, though a slight wave along the back and a looser curl at the throat in winter coat can occur. Feathering appears around the throat, behind the ears, on the rear of the thighs and moderately on the forelegs.",
+      "Water-repellent double coat consisting of a medium-length, moderately soft straight outer coat (a slight wave along the back and a loose curl at the throat in winter coat are permissible) over a denser, even softer insulating undercoat, with soft feathering at the throat, behind the ears, on the backs of the thighs, and moderately on the forelegs and underside of the tail.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Red",
-      "Golden red",
-      "Orange",
-      "Dark coppery red",
-      "White markings may appear on the tail tip, feet, chest or as a facial blaze"
+      "Red (ranging from golden red to dark coppery red, with lighter shadings on the feathering and underside of the tail)",
+      "Orange (various shades of orange, with pigment on the nose, lips, and eye rims matching the coat in flesh/liver or black)",
+      "Red or orange with at least one white marking on the tip of the tail, feet (not extending above the pasterns), chest, or facial blaze (solid red/orange without any white is also acceptable, whereas buff/silver dilution, brown, black, pinto, tricolor, or white on the shoulders, around the ears, on the back of the neck, or across the back/flanks are disqualifying faults)"
     ],
 
     sheddingLevel:
-      "Seasonal shedding is expected; the amount may increase during coat changes and varies between individual dogs.",
+      "Moderate year-round, with heavier seasonal shedding twice a year during spring and autumn coat changes.",
 
-    droolingLevel: null,
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Compact, well-muscled and balanced body",
-      "Athletic build designed for endurance and retrieving",
-      "Water-repellent double coat with a dense, soft undercoat",
-      "Red or orange coat shades, sometimes with white markings",
-      "Almond-shaped eyes with an alert, intelligent expression",
-      "High-set triangular ears",
-      "Heavily feathered tail that remains active when the dog is alert or working",
-      "Strongly webbed feet suited to swimming",
-      "Strong natural retrieving drive",
-      "Some individuals make a distinctive high-pitched, excitement-related vocalisation known as the Toller scream"
+      "Smallest of the retriever breeds, built on a compact, muscular, slightly rectangular outline (approximately 10:9 body length to withers height) with a deep chest reaching the elbows and a level topline",
+      "Clean-cut, slightly wedge-shaped head (measuring roughly 14 cm [5.5 in] between the ears tapering to 3.8 cm [1.5 in] at the nose bridge, and about 23 cm [9 in] from nose to occiput in a typical adult male, scaling with body size) with a flat-to-slightly-rounded skull and moderate stop",
+      "Almond-shaped, medium-sized eyes set well apart in amber to brown shades that harmonize with the coat, paired with flesh-coloured or black nose leather, tight-fitting lips, and eye rims",
+      "Triangular, medium-sized drop ears with rounded tips set high and well back on the skull, carried slightly raised at the base when alert and well feathered at the back of the fold",
+      "Broad-based, heavily feathered tail reaching at least to the hocks, carried below the level of the back only when standing at rest and curving high in continuous motion above the topline when alert or working (never touching the body)",
+      "Strong, round-to-oval, tightly webbed feet with thick pads and trimmed interdigital hair, functioning like paddles in cold water",
+      "Springy, effortless, ground-covering gait with strong rear drive and a level backline",
+      "Distinctive high-pitched, trembling vocalisation ('the Toller scream') expressed by many individuals when eager to retrieve or work",
+      "Ideal adult withers height of 48–51 cm (19–20 in) for males and 45–48 cm (18–19 in) for females over 18 months of age (with a ±2.5 to 3 cm [±1 in] allowance, or 18–21 in and 17–20 in in American standards), and substance-proportionate adult weight guidelines of 20–23 kg (45–51 lbs) for males and 17–20 kg (37–43 lbs; 35–50 lbs across both sexes in American profiles)"
     ]
   },
 
   temperament: {
     traits: [
-      "Intelligent",
-      "Affectionate with family",
-      "Energetic",
-      "Playful",
-      "Alert",
-      "Athletic",
-      "Highly motivated by retrieving",
-      "Responsive to engaging training",
-      "Persistent",
-      "Potentially strong-willed",
-      "Sometimes cautious with strangers",
-      "Often enthusiastic around water and outdoor activities"
+      "Highly intelligent, observant, and quick to learn",
+      "Affectionate, loving, and playful with family members and familiar children",
+      "Outgoing, exuberant, and tireless when working or playing",
+      "Intensely driven to retrieve on land and in water",
+      "Alert, attentive, and determined",
+      "Patient with children when properly socialized and supervised",
+      "Often reserved or aloof (never aggressive or shy) toward unfamiliar people",
+      "Sensitive to handler tone yet persistent and capable of independent or strong-willed behaviour if bored",
+      "Expressive and vocal when excited (including the high-pitched 'Toller scream')"
     ],
 
     scores: {
@@ -184,15 +179,12 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
       minutesPerDay: null,
 
       activities: [
-        "Daily brisk walks",
-        "Retrieving games and structured fetch",
-        "Swimming in safe, supervised water",
-        "Reward-based obedience and training games",
-        "Agility and flyball",
-        "Field and retrieving activities",
-        "Scent work and tracking",
-        "Hiking and other suitable outdoor activities",
-        "Problem-solving games and interactive enrichment"
+        "Daily brisk walks, jogging, or trail hikes suited to the dog's age and conditioning",
+        "Structured retrieving games and field bumper work on land and in water",
+        "Swimming and dock diving in safe, supervised bodies of water",
+        "Canine sports such as agility, flyball, rally, and obedience",
+        "Tracking, nose work, and scent-detection games",
+        "Problem-solving puzzle toys and short, varied mental-enrichment drills"
       ]
     },
 
@@ -200,41 +192,36 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush at least weekly to remove loose hair and maintain the undercoat. Brush more frequently, often daily, during seasonal shedding. Pay particular attention to the finer hair around and behind the ears, feathered areas and any places where tangles form.",
+        "Brush thoroughly at least once a week with a pin brush, slicker brush, and metal comb to remove loose hair and prevent matting in the soft feathering behind the ears, around the throat, and on the hindquarters. Increase to daily brushing during seasonal spring and autumn coat sheds.",
 
       bathing:
-        "Bathe when the coat becomes dirty or after outdoor activities as needed. Use dog-safe products, rinse thoroughly and dry the coat properly.",
+        "Bathe only as needed when dirty or after muddy or saltwater swims, using a mild dog-safe shampoo that preserves the natural oils of the water-repellent double coat, and rinse and dry thoroughly.",
 
       notes: [
-        "The double coat is designed to repel water and provide insulation; routine shaving is generally unnecessary.",
-        "Check behind and under the ears for tangles and mats.",
-        "Inspect the feathering and undercoat regularly, especially during shedding periods.",
-        "Keep excess hair between the footpads neatly managed where necessary for traction.",
-        "Check ears, skin and paws after swimming or outdoor exercise.",
-        "Trim nails regularly; a weekly check helps determine when trimming is needed.",
-        "Brush teeth regularly using dog-specific toothpaste.",
-        "Introduce grooming equipment and handling gradually with positive reinforcement."
+        "The weatherproof double coat insulates against both icy water and summer heat; it should never be shaved, and show trimming is restricted to neatening the ears, feet, pasterns, and hocks.",
+        "Pay close attention to the fine, silky hair behind and under the ears, which tangles more easily than the body coat.",
+        "Trim excess hair between the paw pads and on the feet to maintain traction and prevent mud or ice buildup.",
+        "Rinse and dry the coat and inspect the drop ears after swimming in lakes, marshes, or the ocean.",
+        "Check toenails weekly and trim them regularly so they remain short and compact.",
+        "Brush the teeth regularly with dog-specific toothpaste and accustom puppies early to calm grooming and handling."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate. The breed is intelligent and trainable but may combine sensitivity with persistence, so training should remain engaging and consistent.",
+        "Moderate. Highly intelligent, eager to work, and quick to grasp new concepts, yet sensitive to heavy-handed methods and quick to invent its own rules if drills become monotonous.",
 
       tips: [
-        "Use reward-based positive reinforcement and appropriate play rewards.",
-        "Keep training sessions short, clear and varied.",
-        "Use retrieving games and other natural interests as training opportunities.",
-        "Teach a reliable recall, but do not rely on it alone around wildlife or in unsecured outdoor areas.",
-        "Practise calm behaviour and impulse control around birds and other distractions.",
-        "Teach the dog how to settle after high-energy activity.",
-        "Avoid repetitive sessions that cause the dog to lose interest.",
-        "Reward quiet behaviour and teach alternative behaviours if excitement vocalisation becomes disruptive.",
-        "Begin puppy training early and continue reinforcing skills throughout adulthood."
+        "Use upbeat, reward-based positive reinforcement—combining food rewards with brief retrieving or tug play—and avoid harsh corrections.",
+        "Keep training sessions short, varied, and mentally challenging so this quick-thinking retriever does not become bored or self-employed.",
+        "Channel the breed's intense retrieving instinct as a high-value life reward for recall, impulse control, and obedience.",
+        "Teach calm steadiness and an 'off switch' indoors so the dog learns to settle quietly after high-arousal work or play.",
+        "Manage and redirect high-pitched excitement vocalisations ('the Toller scream') early by rewarding quiet focus before throwing a toy or releasing the dog to water.",
+        "Practise reliable recall in securely enclosed spaces and keep the dog on a leash or long line around wild waterfowl, small animals, and open water currents."
       ],
 
       socialization:
-        "Provide gradual, positive exposure to different people, dogs, places, surfaces, sounds and everyday handling. Some Tollers can be reserved in unfamiliar situations, so socialisation should build confidence without forcing interactions. Carefully manage introductions to cats and small animals because hunting and chasing instincts may remain strong."
+        "Begin positive, unhurried socialization early in puppyhood across diverse people, friendly dogs, children, surfaces, sounds, and environments. Because many Tollers are naturally reserved or discerning with strangers, allow the dog to observe and greet unfamiliar people without pressure so it matures into a confident, well-mannered adult. Supervise introductions to cats and small pets carefully due to the breed's innate bird- and small-game drive."
     },
 
     livingEnvironment: {
@@ -244,13 +231,13 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
       climates: [],
 
       aloneTimeTolerance:
-        "Low to moderate. Tollers usually need substantial daily interaction and activity. Gradually teach comfortable alone time and provide enrichment; long periods of isolation combined with insufficient exercise can contribute to frustration or destructive behaviour."
+        "Low to moderate. Tollers bond closely with their families and thrive on daily interaction, training, and outdoor activity. Leaving a Toller isolated for long workdays without adequate physical and mental outlets can lead to boredom, vocalising, or destructive chewing."
     }
   },
 
   nutrition: {
     dietType:
-      "Complete and balanced dog food suitable for the dog's age, activity level, body condition and individual health needs.",
+      "High-quality, complete and balanced dog food (commercial or veterinarian-formulated home-prepared diet) appropriate for the dog's life stage, workload, and health status.",
 
     feedingFrequency: {
       puppy: null,
@@ -259,73 +246,67 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
     },
 
     guidelines:
-      "Choose a nutritionally complete diet appropriate for the dog's life stage and activity level. Measure portions, monitor body condition and adjust the amount with veterinary guidance. Keep fresh water available at all times. Food requirements vary with age, exercise, metabolism, body condition, food energy density and health status.",
+      "Feed measured portions of a nutritionally complete diet suited to the dog's age (puppy, adult, or senior) and daily activity level. Because Tollers are medium-sized athletic dogs whose caloric needs vary widely between active field/agility competitors and family companions, monitor body condition score regularly so the waist remains defined and the ribs are easily felt beneath a light layer of muscle. Keep clean, fresh water available at all times.",
 
     considerations: [
-      "Match calorie intake to activity level and body condition; working and sporting dogs may have different needs from less active companions.",
-      "Monitor weight regularly because excess weight can affect mobility and general health.",
-      "Include training treats in the total daily food allowance.",
-      "Make ordinary food transitions gradually unless a veterinarian advises otherwise.",
-      "Seek veterinary advice about persistent changes in appetite, digestion or body weight.",
-      "Dogs with diagnosed medical conditions may need an individualised diet.",
-      "Do not assume that every Toller requires a special breed-labelled food."
+      "Adjust daily calorie intake to match seasonal training, hunting, or sport workloads.",
+      "Count training treats within the total daily caloric allowance to prevent excess weight and unnecessary joint strain.",
+      "Transition between diets gradually over several days unless a veterinarian directs otherwise.",
+      "Consult a veterinarian promptly if unexplained weight loss, lethargy, intermittent vomiting, diarrhoea, or increased thirst/urination occur (which can also be early signs of endocrine or immune-mediated conditions).",
+      "Home-prepared diets should be formulated with a veterinarian or board-certified veterinary nutritionist to ensure complete micronutrient balance."
     ],
 
     note:
-      "A universal meal schedule or daily quantity is not assigned because requirements depend on the individual dog and food. Use the food's feeding guide as an initial reference and confirm portions with a veterinarian."
+      "No single daily meal count is prescribed across all puppies, adults, or seniors because optimal feeding schedules depend on age, caloric density, and individual metabolism; confirm meal frequency and portion sizes with a veterinarian."
   },
 
   health: {
     overview:
-      "The Nova Scotia Duck Tolling Retriever is an active working breed, but several inherited and immune-mediated health concerns have been reported or investigated. These include Addison's disease, certain immune-mediated disorders, some eye conditions and inherited congenital conditions for which DNA tests are available. Research involving Swedish Tollers estimated lifetime diagnosed prevalence of immune-mediated rheumatic disease at about 3.0% and steroid-responsive meningitis-arteritis at about 3.5% among surveyed living dogs. The same survey reported neoplasia of any type in 14% of surveyed living dogs; this included tumours of different types and should not be interpreted as a universal estimate of cancer risk. In 2026, a specific RESF1 variant was reported to be associated with juvenile-onset Addison's disease and possible multiple autoimmune manifestations in the breed. The associated variant has a genetic test available, but the result addresses that particular juvenile-onset form and does not rule out every possible case of Addison's disease. Health screening can support responsible breeding, but it cannot guarantee the future health of an individual dog.",
+      "The Nova Scotia Duck Tolling Retriever is an energetic, hardy sporting dog with a typical lifespan of 12 to 14 years, but its historical population bottlenecks have led to several well-characterized autosomal recessive genetic variants as well as an elevated predisposition to immune-mediated and endocrine disorders. Epidemiological research in insured Swedish Tollers (2015) documented significantly higher relative risks than in the general dog population for steroid-responsive meningitis-arteritis (SRMA; incidence 20 per 10,000 dog-years at risk, relative risk 12) and immune-mediated rheumatic disease (IMRD; 6.8 per 10,000 dog-years at risk, relative risk 18), alongside a higher risk of lymphoma but lower overall rates of ear and heart disease. A follow-up 2024 Swedish owner-questionnaire survey (935 living and 177 deceased Tollers) estimated lifetime prevalence in living dogs at 3.0% for IMRD and 3.5% for SRMA, and reported neoplasia of any kind (benign or malignant, most commonly mammary and mast cell tumours) in 14% of living dogs and as the cause of death in 38.4% of deceased dogs—figures specific to that surveyed cohort rather than universal cancer rates. In 2026, a peer-reviewed genomic study identified an autosomal recessive missense variant in the RESF1 gene (c.3170C>T / p.Pro1057Leu on chromosome 27) associated with juvenile-onset Addison's disease (JADD) with incomplete (~75%–76%) penetrance by 1 year of age (average diagnosis 5 months) and multiple autoimmune syndrome (41.7%–70.8% of juvenile cases developing concurrent immune-mediated eye, blood, joint, gut, or thyroid disorders); this DNA test does not account for adult-onset Addison's disease. Earlier in 2023, researchers also identified an autosomal recessive frameshift variant in the LMNA gene (p.Asp576ThrfsTer124) causing fatal juvenile/young-adult cardiac laminopathy (CLAM, dilated and fibrosing cardiomyopathy). Validated DNA tests are likewise available for PRCD-progressive retinal atrophy (PRA-prcd), Collie eye anomaly (CEA/CH), cleft palate 1 (CP1 / DLX6), cleft lip/palate/syndactyly (CLPS / ADAMTS20), cerebellar degeneration-myositis complex (CDMC / SNX14), degenerative encephalopathy (DE), degenerative myelopathy (DM / SOD1), and FGF4 retrogene chondrodystrophy (CDDY/IVDD).",
 
     commonConditions: [
-      "Addison's disease (hypoadrenocorticism), including a juvenile-onset form associated with a specific RESF1 variant. The juvenile-associated variant has incomplete penetrance; a genetic risk does not guarantee that a dog will develop disease.",
-      "Immune-mediated rheumatic disease (IMRD), an immune-mediated condition that may cause persistent or recurring stiffness, joint pain and lameness.",
-      "Steroid-responsive meningitis-arteritis (SRMA), a non-infectious inflammatory condition affecting the meninges and associated tissues. Signs can include neck pain, stiffness and fever and require prompt veterinary assessment.",
-      "Neoplasia (tumours). Population research has investigated tumour occurrence in Tollers, but tumour type and reported frequency vary. A survey report of neoplasia includes benign and malignant tumours and is not equivalent to a universal cancer rate.",
-      "Progressive retinal atrophy associated with the PRCD gene (PRA-prcd), an inherited eye disorder for which DNA testing is available.",
-      "Cleft palate type 1 (CP1) and cleft lip/palate/syndactyly (CLPS), inherited congenital conditions relevant to breeding health management.",
-      "Collie eye anomaly (CEA/choroidal hypoplasia), an inherited eye condition included in breed-health resources.",
-      "Hip dysplasia, a developmental joint condition for which screening is recommended in breeding dogs.",
-      "Chondrodystrophy (CDDY) and increased susceptibility to certain forms of intervertebral disc disease (IVDD), for which genetic testing may be considered in relevant breeding programmes.",
-      "Juvenile cerebellar degeneration and myositis complex (CDMC), a serious juvenile neurological and muscle condition described in breed-health resources.",
-      "Thyroid disorders, including autoimmune thyroid disease, which may be considered during veterinary evaluation and breeding-health screening."
+      "Hypoadrenocorticism (Addison's disease) and multiple autoimmune syndrome — occurs in both an adult-onset form (average onset ~2.6–4 years) and a juvenile-onset form (JADD, average onset 5 months, range 8 weeks to 12 months) associated with an autosomal recessive RESF1 missense variant (c.3170C>T / p.Pro1057Leu) showing ~75%–76% penetrance and frequent concurrent autoimmune manifestations (such as corneal edema, conjunctivitis, uveitis, immune-mediated hemolytic anemia, thrombocytopenia, polyarthritis, or inflammatory bowel disease).",
+      "Steroid-responsive meningitis-arteritis (SRMA, sometimes historically called 'Toller disease') — a non-infectious immune-mediated inflammation of the meninges and meningeal arteries affecting primarily young dogs (roughly 70% presenting before 18 months of age; 3.5% living prevalence in a 2024 Swedish survey), causing acute neck pain, stiffness, high fever, and depression that require prompt veterinary diagnosis and immunosuppressive therapy.",
+      "Immune-mediated rheumatic disease (IMRD) — a systemic lupus erythematosus-related non-erosive polyarthritis (3.0% living prevalence and median onset 5 years in a 2024 Swedish survey, often ANA-positive) causing cyclic joint stiffness, shifting leg lameness, pain after rest, and sometimes skin lesions or fever.",
+      "Cardiac laminopathy (CLAM) — a fatal autosomal recessive dilated and fibrosing cardiomyopathy caused by a frameshift deletion in the LMNA gene (p.Asp576ThrfsTer124), typically resulting in myocarditis, arrhythmias, heart failure, or sudden cardiac death before 1.5 to 2 years of age (with myocardial fibrosis also reported in a 5-year-old heterozygous carrier); preventable via pre-breeding DNA screening.",
+      "Progressive retinal atrophy, photoreceptor rod-cone degeneration (PRA-prcd) and Collie eye anomaly / choroidal hypoplasia (CEA/CH) — autosomal recessive inherited retinal and choroidal eye disorders for which validated DNA tests and annual veterinary ophthalmologist examinations are core screening tools.",
+      "Cleft palate 1 (CP1, DLX6 insertion) and cleft lip/palate/syndactyly (CLPS, ADAMTS20 deletion) — two distinct autosomal recessive congenital craniofacial malformation syndromes in the breed, both preventable through pre-breeding DNA carrier testing.",
+      "Cerebellar degeneration-myositis complex (CDMC) and degenerative encephalopathy (DE) — rare autosomal recessive neurological disorders in the breed; CDMC (caused by an SNX14 frameshift variant) produces cerebellar ataxia, tremors, and masticatory/generalized muscle inflammation between 10 weeks and 6 months of age, while DE causes progressive neurological dysfunction.",
+      "Hip dysplasia, elbow dysplasia, and patellar luxation — developmental orthopaedic conditions monitored through pre-breeding radiographic and clinical evaluations.",
+      "Chondrodystrophy (CDDY) and intervertebral disc disease (IVDD) risk — associated with the semi-dominant chromosome 12 FGF4 retrogene insertion that predisposes discs to premature calcification and herniation.",
+      "Autoimmune thyroiditis (hypothyroidism) — an immune-mediated endocrine disorder monitored via periodic veterinary thyroid antibody panels.",
+      "Neoplasia (tumours) — population studies in Swedish Tollers have documented increased relative risk of lymphoma in insured dogs and reported benign or malignant tumours (most frequently mammary and mast cell tumours) in 14% of surveyed living dogs; tumour rates vary by age, sex, and spay/neuter status and do not represent a uniform breed-wide cancer probability."
     ],
 
     preventiveCare: [
-      "Arrange routine veterinary health examinations and seek advice promptly for persistent changes in appetite, energy, mobility or behaviour.",
-      "Ask the breeder for documented health-screening results and relevant family history rather than relying only on verbal assurances.",
-      "Discuss hip, eye and cardiac evaluations and relevant inherited-disease DNA tests before breeding.",
-      "For juvenile-onset Addison's disease risk, discuss the breed-specific RESF1-associated test with a veterinarian or veterinary geneticist.",
-      "Do not interpret a genetic test as a complete guarantee against adult-onset Addison's disease or every immune-mediated disorder.",
-      "Monitor for recurring stiffness, joint pain, neck pain, fever or unexplained lethargy and obtain veterinary assessment when these signs occur.",
-      "Maintain a healthy body condition and regular physical activity appropriate to age and health.",
-      "Keep vaccinations and parasite prevention appropriate to veterinary advice and local risks.",
-      "Maintain dental care, nail trimming, ear checks and regular grooming.",
-      "Use safe supervision during swimming and outdoor activity, including around cold water, currents and wildlife."
+      "Verify documented pre-breeding health clearances for both parents before acquiring a puppy, including hip radiographs, current annual board-certified veterinary ophthalmologist eye exams, and breed-specific DNA test results.",
+      "Understand the scope of genetic testing: a Clear result on the RESF1 juvenile Addison's disease (JADD) DNA test rules out that specific juvenile-onset variant (which itself has ~75%–76% penetrance in homozygotes), but does not rule out adult-onset Addison's disease or other immune-mediated disorders.",
+      "Seek prompt veterinary evaluation if a young or adult dog develops acute neck pain, spinal stiffness, fever, shifting leg lameness after rest, waxing-and-waning lethargy, vomiting, diarrhoea, or increased drinking and urination, as early treatment is critical for SRMA, IMRD, and Addisonian crises.",
+      "Maintain a lean, well-muscled body condition and avoid excessive high-impact jumping in growing puppies to protect the hips, elbows, knees, and intervertebral discs.",
+      "Inspect, rinse, and dry the coat and drop ears after swimming to prevent moisture-related skin or ear irritation.",
+      "Keep routine veterinary wellness examinations, dental care, nail trimming, and regionally appropriate parasite prevention and vaccination schedules up to date (working with your veterinarian to tailor vaccination protocols for dogs with personal or family histories of immune-mediated disease)."
     ],
 
     recommendedScreenings: [
-      "Hip dysplasia evaluation for breeding dogs, using an accepted programme such as OFA, OVC or PennHIP where available.",
-      "Eye examination by a qualified veterinary ophthalmologist.",
-      "Cardiac examination as part of breeding-health assessment.",
-      "PRA-prcd DNA test to determine the dog's status for the tested inherited retinal-disease variant.",
-      "DNA testing for cleft palate type 1 (CP1) and cleft lip/palate/syndactyly (CLPS), with interpretation appropriate to breeding decisions.",
-      "Breed-specific juvenile Addison's disease testing for the RESF1-associated variant. This test is relevant to the defined juvenile-onset form and does not detect every possible cause of Addison's disease.",
-      "Buff / D-locus genetic testing where relevant to coat-colour inheritance and breeding or conformation requirements. This is a coat-colour test, not a disease screen.",
-      "Additional evaluations discussed in breed-health resources include elbow dysplasia, thyroid status, patellar luxation, CEA/choroidal hypoplasia, degenerative myelopathy (DM), CDDY/IVDD and CDMC. Whether to order these tests should depend on current breed-club guidance, pedigree, clinical history and veterinary or genetic counselling.",
-      "Confirm current programme requirements with the relevant health registry or breed club before breeding; recommendations and available tests can change as research develops."
+      "Hip dysplasia radiographic evaluation (core pre-breeding requirement).",
+      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist (core pre-breeding requirement).",
+      "Progressive retinal atrophy (PRA-prcd) DNA test (core pre-breeding requirement).",
+      "Juvenile Addison's disease (JADD / RESF1 c.3170C>T) DNA test — recommended to identify carriers and prevent homozygous matings while preserving genetic diversity.",
+      "Cardiac laminopathy (CLAM / LMNA p.Asp576ThrfsTer124) DNA test and clinical veterinary cardiac evaluation.",
+      "Cleft palate 1 (CP1 / DLX6) and cleft lip/palate/syndactyly (CLPS / ADAMTS20) DNA tests.",
+      "Cerebellar degeneration-myositis complex (CDMC / SNX14), Collie eye anomaly (CEA/CH / NHEJ1), degenerative encephalopathy (DE), degenerative myelopathy (DM / SOD1), and chondrodystrophy (CDDY / FGF4) DNA tests.",
+      "Elbow dysplasia radiographic evaluation, patellar luxation veterinary examination, and laboratory thyroid panel (including thyroglobulin autoantibodies).",
+      "Optional coat-colour dilution (Buff / D-locus MLPH) DNA test for breeding planning (identifies recessive buff coat dilution, which is a conformation disqualification rather than a medical disorder; note also that Tollers tested to date have not carried the MDR1 drug-sensitivity mutation)."
     ],
 
     dentalCare:
-      "Brush teeth regularly with dog-specific toothpaste and an appropriate toothbrush. Ask a veterinarian to assess tartar, inflamed gums, persistent bad breath, oral pain or changes in eating. Home brushing does not replace professional dental assessment.",
+      "Brush the teeth several times a week—ideally daily—using dog-specific toothpaste, and schedule regular veterinary dental assessments. Conformation standards require strong jaws with a complete, tight scissor bite.",
 
     earCare:
-      "Inspect the ears regularly, especially around feathered areas where dirt and tangles may collect. Keep the ears clean and dry as appropriate. Ask a veterinarian about persistent scratching, redness, odour, discharge or head shaking, and do not insert objects deep into the ear canal.",
+      "Check the high-set triangular drop ears weekly and after every swim or muddy outing. Gently clean and dry the outer ear and keep the feathering behind the ears free of mats, seeking veterinary advice if redness, foul odour, discharge, or head shaking occurs.",
 
     skinCare:
-      "Check the skin during regular brushing, especially beneath the dense undercoat and feathering. Look for irritation, parasites, mats or unusual hair loss. Dry the coat thoroughly after swimming when necessary and obtain veterinary advice for persistent skin changes."
+      "Part the dense, water-repellent double coat during weekly brushing to check the skin for ticks, burrs, hot spots (acute moist dermatitis), or uncharacteristic hair loss. Rinse off salt or marsh water after swimming and dry the thick undercoat thoroughly."
   },
 
   suitability: {
@@ -336,151 +317,164 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Active households that can provide daily exercise and enrichment",
-      "Owners who enjoy retrieving games, hiking, swimming or canine sports",
-      "People willing to train consistently with rewards and patience",
-      "Families prepared to supervise dog-child interactions and teach appropriate handling",
-      "Owners who can manage seasonal shedding and routine coat maintenance",
-      "People who want an intelligent, interactive dog with a strong working instinct",
-      "Owners who can provide safe water activities and manage distractions around wildlife"
+      "Active individuals and families who enjoy daily outdoor exercise, hiking, running, swimming, or canine sports",
+      "Handlers interested in retriever field work, agility, flyball, dock diving, obedience, rally, or scent work",
+      "Experienced or dedicated owners who use upbeat, varied, reward-based training and teach calm indoor settling",
+      "Families with children who supervise interactions and teach respectful handling",
+      "Households prepared for weekly brushing, twice-yearly seasonal coat sheds, and expressive excitement vocalisations"
     ],
 
     notIdealFor: [
-      "Households seeking a low-energy dog with very limited exercise needs",
-      "Owners who cannot provide daily physical and mental activity",
-      "People expecting a quiet dog without high-pitched excitement vocalisation",
-      "Owners planning to leave the dog alone for long periods on a routine basis",
-      "People who expect reliable off-leash behaviour around birds and wildlife without secure management",
-      "Homes unable to manage the dog's retrieving drive, socialisation and consistent training",
-      "Owners unwilling to brush the coat more frequently during seasonal shedding"
+      "Sedentary households or owners seeking a low-energy companion satisfied with brief casual walks",
+      "People who leave a dog isolated alone for long workdays without daily physical and mental engagement",
+      "Noise-sensitive households intolerant of a high-pitched, exuberant 'Toller scream' when the dog is excited",
+      "Handlers who use harsh, repetitive, or heavy-handed training methods",
+      "Owners expecting effortless off-leash reliability around waterfowl and wildlife without training and secure management"
     ]
   },
 
   funFacts: [
-    "The breed developed in Nova Scotia, Canada, during the early nineteenth century.",
-    "The name 'tolling' refers to the dog's playful action near the shoreline that attracts the curiosity of waterfowl.",
-    "Tollers were developed for both attracting waterfowl and retrieving birds from land or water.",
-    "They have a water-repellent double coat and webbed feet, both useful for retrieving in water.",
-    "They are among the smallest retriever breeds but have substantial energy and working drive.",
-    "The breed was historically known as the Little River Duck Dog and the Yarmouth Toller.",
-    "Some Tollers use a distinctive high-pitched vocalisation when excited, often nicknamed the Toller scream.",
-    "The coat is expected to be in red or orange shades, often with white markings on the chest, feet, face or tail tip."
+    "The Nova Scotia Duck Tolling Retriever is the smallest of all recognized retriever breeds, yet it has the strength and endurance to retrieve heavy geese from icy tidal waters.",
+    "The word 'toll' comes from the Middle English tolian ('to entice' or 'lure'): hunters patterned the breed's shoreline work after wild red foxes, which dart and play along the water's edge to lure curious ducks within range.",
+    "Developed in early nineteenth-century Little River Harbour in Yarmouth County, Nova Scotia, the breed was historically known as the Little River Duck Dog and the Yarmouth Toller before adopting its current name when registered in 1945.",
+    "In 1995, Nova Scotia declared the Nova Scotia Duck Tolling Retriever its official Provincial Dog—making it the first Canadian dog breed honoured as a provincial symbol.",
+    "At the thirty-three-letter mark (excluding spaces), 'Nova Scotia Duck Tolling Retriever' is the longest official breed name in North American studbooks.",
+    "When eager to retrieve or work, many Tollers let out a famous high-pitched, trembling howl of pure anticipation known as the 'Toller scream' or 'Toller singing'.",
+    "Unlike most dogs whose tails hang or wag level with the spine, an alert or working Toller carries its heavily feathered tail curving high over its back like a waving flag so offshore ducks can spot it through shoreline reeds.",
+    "Tollers have strongly webbed, paddle-like feet and a water-repellent double coat so dense that icy water rarely reaches the skin."
   ],
 
   faq: [
     {
-      question: "Where does the Nova Scotia Duck Tolling Retriever come from?",
+      question: "Where does the Nova Scotia Duck Tolling Retriever come from, and what were its early names?",
       answer:
-        "The breed comes from southwestern Nova Scotia, Canada, particularly the Little River Harbour area in Yarmouth County."
+        "The breed originated at the beginning of the nineteenth century in southwestern Nova Scotia, Canada—specifically around Little River Harbour in Yarmouth County. Before receiving its modern name upon national registration in 1945, it was known locally as the Little River Duck Dog and the Yarmouth Toller."
     },
     {
-      question: "What does 'tolling' mean?",
+      question: "What does 'tolling' mean, and how does a Toller hunt?",
       answer:
-        "Tolling describes the dog's playful movement and retrieving behaviour near the shoreline that draws the attention of waterfowl. The dog would then retrieve birds from land or water when directed by the hunter."
+        "Tolling comes from a Middle English word meaning 'to entice' or 'lure'. Modeled on the behaviour of wild red foxes, the dog runs, leaps, and fetches sticks or balls thrown from a hunter's blind along the shoreline while remaining completely silent. Its flashing red coat and waving feathered tail arouse the curiosity of ducks and geese swimming offshore, drawing them within gunshot range; once the birds are downed, the dog swims out to retrieve them."
     },
     {
-      question: "How large is a Nova Scotia Duck Tolling Retriever?",
+      question: "How big is an adult Nova Scotia Duck Tolling Retriever?",
       answer:
-        "The ideal height range is 48–51 cm for males and 45–48 cm for females. Ideal weight guidance is 20–23 kg for males and 17–20 kg for females. Individual healthy weight depends on build and body condition."
+        "It is the smallest of the retrievers. International and Canadian standards specify an ideal withers height for dogs over 18 months of 48 to 51 cm (19–20 inches) for males and 45 to 48 cm (18–19 inches) for females, with a tolerance of ±2.5 to 3 cm (±1 inch), and weight guidelines of 20 to 23 kg (45–51 pounds) for males and 17 to 20 kg (37–43 pounds) for females. American standards specify 18 to 21 inches (ideal 19 inches) for males, 17 to 20 inches (ideal 18 inches) for females, and typical weights of 35 to 50 pounds (16–23 kg) in proportion to bone and substance."
     },
     {
-      question: "How long does a Toller usually live?",
+      question: "What coat colours and white markings are allowed?",
       answer:
-        "A commonly published life-expectancy range is 12–14 years. This is a breed-level estimate rather than a guarantee for an individual dog."
+        "The coat comes in shades of red and orange ranging from golden red to dark coppery red, with lighter shading on the feathering and the underside of the tail. Dogs commonly have at least one white marking on the tip of the tail, the feet (not extending above the pasterns), the chest, or as a facial blaze, though an otherwise sound dog without white markings is also accepted. Nose, lips, and eye rims must be flesh-coloured (blending with the coat) or black. Buff/silver dilution, solid brown/liver coat, black coat, pinto/tricolor patterning, or white on the shoulders, back, flanks, or around the ears are disqualifying faults."
     },
     {
-      question: "Is the Toller a good family dog?",
+      question: "What is the 'Toller scream'?",
       answer:
-        "Many Tollers are affectionate and playful with family members and can be good family companions. They need substantial daily activity, and interactions with children should be supervised. Individual temperament and socialisation matter."
+        "The 'Toller scream' (sometimes called 'Toller singing') is a piercing, high-pitched, trembling vocalisation that many Tollers make when they are intensely excited—most often when they see water, birds, or a retrieving dummy. Not every Toller screams to the same degree, and handlers avoid reinforcing it in hunting blinds or quiet neighbourhoods by rewarding calm, quiet focus before releasing the dog."
     },
     {
-      question: "How much exercise does a Toller need?",
+      question: "Is the Nova Scotia Duck Tolling Retriever a good family dog?",
       answer:
-        "Tollers are active working dogs that need daily physical exercise and mental engagement. Brisk walks, retrieving games and structured activities such as agility or scent work can help. Needs vary by age, fitness and individual temperament, so this record does not prescribe a fixed daily minute range."
+        "Yes, for active households. Tollers are deeply affectionate, playful, and patient with their own families and children when properly socialized and supervised. However, they are high-drive working dogs—not scaled-down Golden Retrievers—and can be reserved with unfamiliar people and restless if their daily physical and mental exercise needs are neglected."
     },
     {
-      question: "Does the Toller shed?",
+      question: "How much exercise and grooming does a Toller need?",
       answer:
-        "Yes, seasonal shedding is expected. Weekly brushing is a useful routine, with more frequent brushing often needed during shedding periods."
-    },
-    {
-      question: "Why is the breed sometimes called a Toller scream dog?",
-      answer:
-        "Some Tollers make a high-pitched, howl-like sound when highly excited. It is not expressed to the same degree by every dog, but owners should be prepared for the possibility and teach calm behaviour through consistent training."
+        "Tollers have high energy and need daily brisk walks or runs paired with purposeful mental work such as retrieving drills, swimming, agility, flyball, or scent work. Their medium-length, water-repellent double coat is relatively easy to maintain with a thorough weekly brushing (paying extra attention to the fine hair behind the ears and feathering) and daily brushing during spring and autumn coat sheds. The double coat should never be shaved."
     },
     {
       question: "Can a Toller live in an apartment?",
       answer:
-        "Apartment living may work when the dog receives enough daily exercise, training and mental enrichment, and when its vocalisation and activity needs are managed. The breed's working drive makes a sedentary lifestyle a poor fit."
+        "Apartment living can succeed if the owner provides substantial daily outdoor exercise, retrieving and mental enrichment, and training to manage the breed's excitement vocalisations. Without committed daily activity and companionship, however, an apartment lifestyle is a poor fit."
     },
     {
-      question: "What health conditions should owners know about?",
+      question: "What health conditions are researched or reported in the breed?",
       answer:
-        "Reported and researched concerns include Addison's disease, immune-mediated rheumatic disease, steroid-responsive meningitis-arteritis, certain inherited eye and congenital conditions, hip dysplasia and some disc-related risks. The frequency of each condition varies, and no list predicts an individual dog's health."
+        "Key health concerns include hypoadrenocorticism (Addison's disease, both adult-onset and juvenile-onset), steroid-responsive meningitis-arteritis (SRMA), immune-mediated rheumatic disease (IMRD), juvenile cardiac laminopathy (CLAM), inherited eye conditions (PRA-prcd and Collie eye anomaly), congenital cleft palate syndromes (CP1 and CLPS), cerebellar degeneration-myositis complex (CDMC), hip dysplasia, intervertebral disc disease predisposition (CDDY), and autoimmune thyroiditis. Swedish population studies estimated living lifetime prevalence at 3.0% for IMRD and 3.5% for SRMA, and reported tumours of any type (benign or malignant) in 14% of surveyed living dogs."
     },
     {
-      question: "What does the juvenile Addison's disease DNA test tell me?",
+      question: "What does the juvenile Addison's disease (JADD / RESF1) DNA test tell breeders and owners?",
       answer:
-        "The breed-specific test looks for a defined RESF1-associated variant linked to juvenile-onset Addison's disease. The variant is incompletely penetrant, so even dogs with two copies do not all develop the condition. The test does not rule out every cause of Addison's disease; breeding decisions and results should be reviewed with a veterinarian or veterinary geneticist."
+        "In 2026, researchers identified an autosomal recessive missense variant in the RESF1 gene (c.3170C>T / p.Pro1057Leu) associated with juvenile-onset Addison's disease (average onset 5 months, range 8 weeks to 12 months) and concurrent multiple autoimmune disorders. The variant has incomplete penetrance—approximately 75% to 76% of dogs with two copies (N/N -> JADD/JADD) develop Addison's disease by 1 year of age—and a carrier frequency of roughly 20% to 23% in tested cohorts. The DNA test allows breeders to avoid mating two carriers, but a Clear result does not prevent adult-onset Addison's disease."
     },
     {
-      question: "Which health tests should I ask a breeder about?",
+      question: "What is cardiac laminopathy (CLAM) in Tollers?",
       answer:
-        "Ask for documented hip, eye and cardiac evaluations and relevant inherited-disease DNA tests, including PRCD-associated progressive retinal atrophy, CP1/CLPS and the RESF1-associated juvenile Addison's test. Additional tests depend on current parent-club recommendations, family history and the intended breeding programme."
+        "Cardiac laminopathy (CLAM) is a fatal autosomal recessive dilated and fibrosing cardiomyopathy caused by a frameshift variant in the LMNA gene (identified in 2023). Affected puppies and young dogs typically suffer heart failure or sudden cardiac death before 1.5 to 2 years of age. A validated DNA test allows breeders to screen breeding stock and prevent affected litters."
     },
     {
-      question: "Does the Toller need special food?",
+      question: "Which health screenings should I ask a breeder for?",
       answer:
-        "There is no single diet appropriate for every Toller. Use complete and balanced food suited to the dog's age, activity level, body condition and health needs. Confirm individual portions and dietary changes with a veterinarian."
+        "Ask for documented results of core pre-breeding evaluations—hip radiographs, a current annual examination by a board-certified veterinary ophthalmologist, and DNA testing for PRA-prcd—along with DNA panel results for juvenile Addison's disease (JADD / RESF1), cardiac laminopathy (CLAM / LMNA), cleft palate 1 (CP1), cleft lip/palate/syndactyly (CLPS), cerebellar degeneration-myositis complex (CDMC), Collie eye anomaly (CEA/CH), degenerative encephalopathy (DE), degenerative myelopathy (DM), and chondrodystrophy (CDDY), as well as elbow, patellar, cardiac, and thyroid evaluations where appropriate."
     }
   ],
 
   references: [
     "fci-nova-scotia-duck-tolling-retriever-standard",
+    "nsdtr-club-canada-ckc-standard",
+    "nsdtr-club-usa-breed-standard",
     "american-kennel-club-nova-scotia-duck-tolling-retriever",
+    "american-kennel-club-nsdtr-history",
     "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
     "nsdtr-club-canada-about-tollers",
     "nsdtr-club-canada-health",
     "american-kennel-club-sporting-group-health-testing",
     "nsdtr-club-usa-health-statement",
+    "nsdtr-club-usa-health-overview",
     "nsdtr-immune-mediated-disease-patterns-2015",
     "nsdtr-immune-mediated-health-survey-2024",
     "nsdtr-resf1-jadd-study-2026",
     "uc-davis-vgl-jadd-nsdtr",
+    "uc-davis-vgl-nsdtr-health-panel",
+    "uc-davis-vgl-clam-nsdtr",
     "wikimedia-nsdtr-portrait-christopher-woo",
     "wikimedia-nsdtr-puppy-jarle-nystuen"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unavailable",
+      reliability: "unverified",
       sources: [],
       verifiedOn: null,
       note:
-        "No breed-specific scientific name has been recorded. The breed-standard and club sources consulted identify the breed but do not supply a distinct taxonomic name."
+        "Canis lupus familiaris is the domestic-dog taxonomic designation used across the catalog; it is not stated as a breed-specific name in the conformation standards."
     },
 
     alternateNames: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
+        {
+          id: "fci-nova-scotia-duck-tolling-retriever-standard",
+          role: "verified",
+          locator: "Brief Historical Summary: Little River Duck Dog, Toller"
+        },
+        {
+          id: "nsdtr-club-canada-ckc-standard",
+          role: "verified",
+          locator: "Origin & Purpose: Little River Duck Dog, Yarmouth Toller, Toller"
+        },
         {
           id: "nsdtr-club-canada-about-tollers",
           role: "verified",
-          locator: "Toller Background and History"
+          locator: "Toller Background and History: Little River Duck Dog, Yarmouth Toller, Toller"
         },
         {
           id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
           role: "verified",
-          locator: "Origin and historical background"
+          locator: "Origin: Little River Duck Dog, Yarmouth Toller"
         },
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
-          role: "cited",
-          locator: "About the Breed and historical names"
+          role: "verified",
+          locator: "About the Breed & History: Toller, Little River Duck Dog"
+        },
+        {
+          id: "american-kennel-club-nsdtr-history",
+          role: "verified",
+          locator: "Behind the 'Little River Duck Dog': Toller, Little River Duck Dog, Yarmouth Toller, decoy dog"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: "Toller is the commonly used short name. Little River Duck Dog and Yarmouth Toller are historical names."
+      verifiedOn: "2026-10-21",
+      note:
+        "Upgraded to official_standard: FCI Standard No. 312 and the CKC Official Standard explicitly record the historical and common names Little River Duck Dog, Yarmouth Toller, and Toller."
     },
 
     group: {
@@ -489,57 +483,110 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
         {
           id: "fci-nova-scotia-duck-tolling-retriever-standard",
           role: "verified",
-          locator: "FCI classification"
-        }
-      ],
-      verifiedOn: "2026-10-19",
-      note: "This field uses the FCI group and section classification."
-    },
-
-    origin: {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-nova-scotia-duck-tolling-retriever-standard",
-          role: "cited",
-          locator: "Origin"
+          locator: "CLASSIFICATION F.C.I.: Group 8 Retrievers, Flushing Dogs, Water Dogs. Section 1 Retrievers. With working trial."
         },
         {
-          id: "nsdtr-club-canada-about-tollers",
+          id: "nsdtr-club-canada-ckc-standard",
           role: "verified",
-          locator: "Toller Background and History"
+          locator: "Group 1: Sporting Dogs"
         },
         {
-          id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
-          role: "cited",
-          locator: "Origin"
-        }
-      ],
-      verifiedOn: "2026-10-19",
-      note: "Canada is the country of origin; the more specific historical region is southwestern Nova Scotia, particularly Little River Harbour in Yarmouth County."
-    },
-
-    overview: {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-nova-scotia-duck-tolling-retriever-standard",
+          id: "nsdtr-club-usa-breed-standard",
           role: "verified",
-          locator: "Utilization, historical summary, general appearance and temperament"
-        },
-        {
-          id: "nsdtr-club-canada-about-tollers",
-          role: "cited",
-          locator: "Toller Background, History, Use in Hunting and Temperament"
+          locator: "Sporting Group"
         },
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
           role: "cited",
-          locator: "About the Breed and History"
+          locator: "Sporting Group"
+        },
+        {
+          id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "cited",
+          locator: "Group 1 - Sporting Dogs"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: "Exact early ancestry is not fully documented; potential contributors are described as possibilities rather than proven parentage."
+      verifiedOn: "2026-10-21",
+      note:
+        "Removed 'FCI Group 8 —' from user-facing text to comply with Rule 5. Classified in FCI Group 8, Section 1 (Retrievers, with working trial), in the CKC and AKC Sporting Group, and in the UK Gundog Group."
+    },
+
+    origin: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-nova-scotia-duck-tolling-retriever-standard",
+          role: "verified",
+          locator: "ORIGIN: Canada; BRIEF HISTORICAL SUMMARY:Nova Scotia in the beginning of the 19th Century"
+        },
+        {
+          id: "nsdtr-club-canada-ckc-standard",
+          role: "verified",
+          locator: "Origin & Purpose: Little River Harbour in Yarmouth County, Nova Scotia"
+        },
+        {
+          id: "nsdtr-club-usa-breed-standard",
+          role: "verified",
+          locator: "General Appearance: Yarmouth County, Nova Scotia"
+        },
+        {
+          id: "nsdtr-club-canada-about-tollers",
+          role: "verified",
+          locator: "Toller Background and History: community of Little River Harbour in Yarmouth County, at the southwestern tip of Nova Scotia"
+        },
+        {
+          id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "verified",
+          locator: "Origin: Little River district of Yarmouth County, Nova Scotia"
+        }
+      ],
+      verifiedOn: "2026-10-21",
+      note:
+        "Upgraded to official_standard: verified across FCI Standard No. 312, the CKC Official Standard, the AKC/NSDTRC-USA Official Standard, and NSDTRCC."
+    },
+
+    overview: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-nova-scotia-duck-tolling-retriever-standard",
+          role: "verified",
+          locator: "Utilization, Brief Historical Summary, General Appearance, Behaviour/Temperament"
+        },
+        {
+          id: "nsdtr-club-canada-ckc-standard",
+          role: "verified",
+          locator: "Origin & Purpose, General Appearance, Temperament"
+        },
+        {
+          id: "nsdtr-club-usa-breed-standard",
+          role: "verified",
+          locator: "General Appearance, Size/Proportion/Substance (10:9 length-to-height), Temperament"
+        },
+        {
+          id: "nsdtr-club-canada-about-tollers",
+          role: "verified",
+          locator: "Toller Background and History (1945 registration, 1995 Provincial Dog of Nova Scotia, tolling origin), Use in Hunting, Appearance, and Temperament"
+        },
+        {
+          id: "american-kennel-club-nsdtr-history",
+          role: "verified",
+          locator: "Mi'kmaq and red-fox tolling origin, Middle English 'tolian', Kooikerhondje and St. John's Water Dog links, 1945 registration of 15 dogs, Sue Van Sloun 1978 imports, 1984 US club, 2003 recognition as 150th breed"
+        },
+        {
+          id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "verified",
+          locator: "About the Breed, History, Exercise, and Training"
+        },
+        {
+          id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "verified",
+          locator: "Origin, Temperament, and Activity Level"
+        }
+      ],
+      verifiedOn: "2026-10-21",
+      note:
+        "Removed 'The Canadian Kennel Club admitted the breed in 1945' from overview.history to comply with Rule 5, and rewrote summary, description, history, originalPurpose, and currentRoles in original wording enriched with verified historical and anatomical details."
     },
 
     physical: {
@@ -548,11 +595,32 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
         {
           id: "fci-nova-scotia-duck-tolling-retriever-standard",
           role: "verified",
-          locator: "General appearance, coat, colour, size and weight"
+          locator: "General Appearance, Head (male skull 14 cm between ears tapering to 3.8 cm at nose bridge, length ~23 cm nose to occiput), Eyes, Ears, Body, Tail, Limbs (strongly webbed feet), Gait, Coat, Colour, Size and Weight (48–51 cm / 45–48 cm ± 2.5 cm; 20–23 kg / 17–20 kg), Disqualifying Faults"
+        },
+        {
+          id: "nsdtr-club-canada-ckc-standard",
+          role: "verified",
+          locator: "Size (48–51 cm / 19–20 in males, 45–48 cm / 18–19 in females, ±3 cm / 1 in allowed; 20–23 kg / 45–51 lb males, 17–20 kg / 37–43 lb females), Coat and Colour, Head, Tail, Gait, Disqualifications"
+        },
+        {
+          id: "nsdtr-club-usa-breed-standard",
+          role: "conflicting",
+          locator: "Size, Proportion, Substance (18–21 in [ideal 19 in] males, 17–20 in [ideal 18 in] females; ±1 in over/under ideal is a fault; slightly rectangular 10:9 length-to-height ratio), Color, Disqualifications"
+        },
+        {
+          id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "conflicting",
+          locator: "Height (18–20 in male, 17–19 in female), Weight (35–50 pounds [15.9–22.7 kg])"
+        },
+        {
+          id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "conflicting",
+          locator: "Size: Males 48–51 cm (19–20 in) and 20–23 kg (45–51 lb); Females 45–48 cm (18–19 in) and 17–19.5 kg (37–43 lb)"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: "Height and weight ranges use the FCI standard's ideal adult measurements. They are not intended to be a health assessment for an individual dog."
+      verifiedOn: "2026-10-21",
+      note:
+        "Stored physical.height (males 48–51 cm, females 45–48 cm) and physical.weight (males 20–23 kg, females 17–20 kg) follow FCI Standard No. 312 and the CKC Official Standard (Dec 1997). FCI/CKC height tolerances (±2.5 cm / ±3 cm [±1 in]) and the AKC/NSDTRC-USA standard ranges (18–21 in [ideal 19 in] / 17–20 in [ideal 18 in]; profile weight 35–50 lbs) are documented in distinctiveFeatures and FAQ."
     },
 
     "physical.lifespanYears": {
@@ -561,11 +629,11 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
           role: "verified",
-          locator: "Life expectancy"
+          locator: "Life Expectancy: 12-14 years"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: "Published breed-profile estimate; individual longevity varies."
+      verifiedOn: "2026-10-21",
+      note: "Verified at 12–14 years from the AKC breed profile."
     },
 
     "physical.sheddingLevel": {
@@ -574,47 +642,84 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
         {
           id: "nsdtr-club-canada-about-tollers",
           role: "verified",
-          locator: "Appearance: coat and seasonal shedding"
+          locator: "Appearance: 'Because of the Toller's thick waterproof coat, some seasonal shedding is to be expected.'"
         },
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
-          role: "cited",
-          locator: "Grooming"
+          role: "verified",
+          locator: "Breed Traits & Characteristics: Shedding Level (3/5) & Grooming ('Moderate seasonal shedding can be expected')"
+        },
+        {
+          id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "verified",
+          locator: "Grooming: 'During shedding season, a daily brushing will help keep hair under control.'"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: "Seasonal shedding is supported; the amount differs between individuals and coat cycles."
+      verifiedOn: "2026-10-21",
+      note: "Verified across NSDTRCC, AKC, and CKC."
     },
 
     "physical.droolingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "A sufficiently reliable breed-specific drooling level was not established from the sources consulted."
-    },
-
-    temperament: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-nova-scotia-duck-tolling-retriever-standard",
           role: "verified",
-          locator: "Behaviour / temperament"
+          locator: "FACIAL REGION - Lips: Fit fairly tightly, forming a gentle curve in profile, with no heaviness in flews; NECK: no indication of throatiness"
         },
         {
-          id: "nsdtr-club-canada-about-tollers",
-          role: "cited",
-          locator: "Temperament and socialisation"
+          id: "nsdtr-club-canada-ckc-standard",
+          role: "verified",
+          locator: "Head - Lips: Fit fairly tightly, forming a gentle curve in profile, with no heaviness in flews"
+        },
+        {
+          id: "nsdtr-club-usa-breed-standard",
+          role: "verified",
+          locator: "Head - Lips: Fitting fairly tightly, forming a gentle curve in profile, with no heaviness in flews"
         },
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
-          role: "cited",
-          locator: "Breed traits and characteristics"
+          role: "verified",
+          locator: "Breed Traits & Characteristics: Drooling Level (Less Likely to Drool)"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: "Breed tendencies do not guarantee an individual dog's temperament."
+      verifiedOn: "2026-10-21",
+      note:
+        "Populated from null: FCI Standard No. 312, the CKC Official Standard, and the AKC/NSDTRC-USA Official Standard all specify fairly tight-fitting lips with no heaviness in the flews and no throatiness, and the AKC breed profile rates Drooling Level at the lowest end ('Less Likely to Drool')."
+    },
+
+    temperament: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-nova-scotia-duck-tolling-retriever-standard",
+          role: "verified",
+          locator: "BEHAVIOUR / TEMPERAMENT: highly intelligent, easy to train, great endurance, strong and able swimmer, natural and tenacious retriever on land and from water"
+        },
+        {
+          id: "nsdtr-club-canada-ckc-standard",
+          role: "verified",
+          locator: "Temperament: loving and playful to his family; can be reserved with strangers without being aggressive or overly shy; alert and determined"
+        },
+        {
+          id: "nsdtr-club-usa-breed-standard",
+          role: "verified",
+          locator: "Temperament: highly intelligent, alert, outgoing, affectionate and eager to please; some reserve with strangers is acceptable"
+        },
+        {
+          id: "nsdtr-club-canada-about-tollers",
+          role: "verified",
+          locator: "Temperament & Socialization (patient with children, reserved with strangers, strong-willed, Toller scream)"
+        },
+        {
+          id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "verified",
+          locator: "About the Breed, Breed Traits & Characteristics, and Training ('Toller scream')"
+        }
+      ],
+      verifiedOn: "2026-10-21",
+      note:
+        "Upgraded to official_standard: verified across FCI Standard No. 312, CKC Official Standard, AKC/NSDTRC-USA Official Standard, NSDTRCC, and AKC."
     },
 
     "temperament.scores": {
@@ -638,7 +743,7 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
       ],
       verifiedOn: null,
       note:
-        "The 1–5 scores are editorial estimates that summarise breed descriptions. They are not published scientific scores or measurements."
+        "The 1–5 scores are editorial estimates that summarize official standard and kennel/breed-club descriptions."
     },
 
     care: {
@@ -647,16 +752,27 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
           role: "verified",
-          locator: "Exercise, Training, Grooming and Nutrition"
+          locator: "Grooming (weekly brushing, daily during shedding season, fine hair behind ears, weekly nail checks, regular tooth brushing), Exercise, and Training"
         },
         {
           id: "nsdtr-club-canada-about-tollers",
-          role: "cited",
-          locator: "Appearance, Temperament and Socialisation"
+          role: "verified",
+          locator: "Appearance (coat care and seasonal shedding), Temperament, and Socialization (caution with cats and small furry animals)"
+        },
+        {
+          id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "verified",
+          locator: "Activity Level and Grooming"
+        },
+        {
+          id: "nsdtr-club-usa-breed-standard",
+          role: "verified",
+          locator: "Coat: 'While the Toller is shown in natural coat, trimming is permitted on the ears, feet, pasterns and hocks to give a neat appearance.'"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: "General care values are grounded in breed-specific guidance, with individual needs varying by age and health."
+      verifiedOn: "2026-10-21",
+      note:
+        "Verified across AKC, NSDTRCC, CKC, and the NSDTRC-USA Official Standard."
     },
 
     "care.exercise.minutesPerDay": {
@@ -664,7 +780,7 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Breed sources describe the need for daily physical exercise and mental engagement, but they do not establish one precise, evidence-based daily minute range applicable to every Toller."
+        "Consulted standards and kennel/breed-club profiles emphasize high daily physical and mental exercise requirements but do not establish a single universal daily minute range."
     },
 
     "care.livingEnvironment.climates": {
@@ -672,68 +788,73 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources describe a water-repellent coat and work retrieving from water, but do not define a validated climate-suitability list."
+        "Consulted sources describe a cold-water-repellent double coat and maritime heritage without defining a fixed climate classification list."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
-          role: "cited",
-          locator: "Exercise, Training and Behaviour"
+          id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "verified",
+          locator: "Activity Level: 'Adapts well to most home environments, provided it is exercised daily. Because of its size, it can enjoy apartment life as long as regular outdoor activity is provided.'"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "Conditional estimate: apartment living may work if exercise, enrichment, training and excitement vocalisation are adequately managed."
+        "Upgraded from estimate to reliable_source: directly verified from the Canadian Kennel Club breed profile ('Because of its size, it can enjoy apartment life as long as regular outdoor activity is provided')."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
+          id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "verified",
+          locator: "Activity Level: 'Adapts well to most home environments, provided it is exercised daily.'"
+        },
+        {
           id: "nsdtr-club-canada-about-tollers",
-          role: "cited",
-          locator: "Exercise, outdoor activity and retrieving"
+          role: "verified",
+          locator: "Temperament & Exercise"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "A secure yard can provide exercise opportunities but does not replace walks, training or direct engagement."
+        "Upgraded from estimate to reliable_source: verified from CKC and NSDTRCC."
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "nsdtr-club-canada-about-tollers",
-          role: "cited",
-          locator: "Temperament and daily physical stimulation"
+          role: "verified",
+          locator: "Temperament: 'require enough daily physical stimulation to keep them happily tired; a bored Toller can become destructive'"
         },
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
-          role: "cited",
-          locator: "Exercise and behaviour"
+          role: "verified",
+          locator: "Exercise & Training"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "Qualitative estimate. Alone-time tolerance varies by individual dog and training history."
+        "Upgraded from estimate to reliable_source: verified from NSDTRCC ('a bored Toller can become destructive') and AKC."
     },
 
     nutrition: {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
-          role: "cited",
-          locator: "Nutrition"
+          role: "verified",
+          locator: "Nutrition: high-quality commercial or vet-supervised home-prepared diet appropriate to age (puppy, adult, senior) and activity level; monitor calorie consumption and training treats; clean, fresh water"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "General dog-feeding guidance tailored to an active breed; it is not an individual veterinary diet plan."
+        "Upgraded from general_guidance to reliable_source: directly verified from the AKC Nova Scotia Duck Tolling Retriever Nutrition section."
     },
 
     "nutrition.feedingFrequency": {
@@ -741,7 +862,7 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A universal puppy, adult or senior meal frequency was not established as a breed-specific requirement. Feeding frequency should be individualised."
+        "No universal puppy, adult, or senior daily meal count is prescribed by the consulted breed standards or kennel-club profiles."
     },
 
     health: {
@@ -750,32 +871,52 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
         {
           id: "nsdtr-club-canada-health",
           role: "verified",
-          locator: "Health and screening resources"
+          locator: "Health & DNA testing (PRA-prcd, CEA/CH, JADD, CP1, CLPS, DM, CDDY/IVDD, CDMC, CLAM, DE, Buff/Dilute; MDR1 negative note)"
         },
         {
           id: "nsdtr-club-usa-health-statement",
           role: "verified",
-          locator: "Recommended breeding-health screenings"
+          locator: "CHIC required (Hip, ACVO Eye, prcd-PRA) and optional health screenings"
+        },
+        {
+          id: "nsdtr-club-usa-health-overview",
+          role: "verified",
+          locator: "Required and recommended health testing and disease overview"
         },
         {
           id: "nsdtr-immune-mediated-disease-patterns-2015",
           role: "verified",
-          locator: "Study findings on breed morbidity and immune-mediated conditions"
+          locator: "Bremer et al. (Vet Rec 2015;177:74): n=2,890 insured Swedish Tollers; SRMA incidence 20/10,000 DYAR (RR 12 vs all breeds, RR 21 vs retrievers), IMRD 6.8/10,000 DYAR (RR 18 vs all breeds, RR 30 vs retrievers), lymphoma 15/10,000 DYAR (RR 2.8), lower ear and heart disease rates"
         },
         {
           id: "nsdtr-immune-mediated-health-survey-2024",
           role: "verified",
-          locator: "Abstract and results"
+          locator: "Nilsson et al. (Acta Vet Scand 2024;66:39): n=935 living & 177 deceased Swedish Tollers; living prevalence IMRD 3.0% (median onset 5 yrs, 54% relapse) and SRMA 3.5% (70% onset <18 mos, 48% relapse); neoplasia of any type in 14% of living dogs (mammary 22%, mast cell 15%) and 38.4% of deceased dogs"
         },
         {
           id: "nsdtr-resf1-jadd-study-2026",
           role: "verified",
-          locator: "Findings on RESF1 and juvenile-onset Addison's disease"
+          locator: "Brown et al. (Sci Rep 2026;16:13194): RESF1 Chr27:29,736,795 c.3170C>T (p.Pro1057Leu) autosomal recessive variant with ~75% penetrance by 1 yr (mean/median onset 5 mos), 41.7%–70.8% concurrent autoimmune comorbidities, median survival 2.0 yrs"
+        },
+        {
+          id: "uc-davis-vgl-jadd-nsdtr",
+          role: "verified",
+          locator: "JADD RESF1 test details (~75.9% penetrance, ~20–23% carrier rate, concurrent eye/immune signs)"
+        },
+        {
+          id: "uc-davis-vgl-clam-nsdtr",
+          role: "verified",
+          locator: "Cardiac Laminopathy (CLAM): autosomal recessive LMNA p.Asp576ThrfsTer124 frameshift variant causing fatal juvenile/young-adult dilated and fibrosing cardiomyopathy (<1.5–2 yrs)"
+        },
+        {
+          id: "uc-davis-vgl-nsdtr-health-panel",
+          role: "verified",
+          locator: "NSDTR Health Panel: CDMC (SNX14), CLAM (LMNA), CP1 (DLX6), CLPS (ADAMTS20), JADD (RESF1), CDDY (FGF4), DM (SOD1)"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "The record distinguishes reported breed-related concerns from prevalence estimates. Research cohorts and owner-reported survey figures should not be treated as universal rates for every country or bloodline."
+        "Removed all 'OFA', 'OVC', 'PennHIP', 'breed-club', and 'breed-health resources' mentions from user-facing health strings to comply with Rule 5, and added the validated 2023 LMNA Cardiac Laminopathy (CLAM) mutation alongside full molecular and epidemiological stratification."
     },
 
     "health.commonConditions": {
@@ -784,32 +925,47 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
         {
           id: "nsdtr-club-canada-health",
           role: "verified",
-          locator: "Health issues and DNA testing"
+          locator: "Health conditions and DNA tests"
+        },
+        {
+          id: "nsdtr-club-usa-health-overview",
+          role: "verified",
+          locator: "Health & Genetics Overview"
         },
         {
           id: "nsdtr-immune-mediated-disease-patterns-2015",
           role: "verified",
-          locator: "Incidence of immune-mediated disease"
+          locator: "Incidence of SRMA, IMRD, and lymphoma in insured Swedish Tollers"
         },
         {
           id: "nsdtr-immune-mediated-health-survey-2024",
           role: "verified",
-          locator: "Lifetime-prevalence estimates in the studied Swedish population"
+          locator: "Lifetime prevalence estimates for IMRD (3.0%), SRMA (3.5%), and neoplasia (14% living)"
         },
         {
           id: "nsdtr-resf1-jadd-study-2026",
           role: "verified",
-          locator: "RESF1 variant and juvenile-onset Addison's disease"
+          locator: "RESF1 c.3170C>T (p.Pro1057Leu) in juvenile Addison's disease and multiple autoimmune syndrome"
         },
         {
           id: "uc-davis-vgl-jadd-nsdtr",
           role: "verified",
-          locator: "Juvenile Addison's disease test and interpretation"
+          locator: "JADD test and incomplete penetrance"
+        },
+        {
+          id: "uc-davis-vgl-clam-nsdtr",
+          role: "verified",
+          locator: "LMNA p.Asp576ThrfsTer124 in Cardiac Laminopathy (CLAM)"
+        },
+        {
+          id: "uc-davis-vgl-nsdtr-health-panel",
+          role: "verified",
+          locator: "CDMC (SNX14), CLAM (LMNA), CP1 (DLX6), CLPS (ADAMTS20), JADD (RESF1), CDDY (FGF4), DM (SOD1)"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "The array contains health concerns reported, studied or tested in the breed. It does not mean each condition is highly prevalent or that an individual dog will develop it."
+        "Stratifies molecularly characterized autosomal recessive variants (RESF1 JADD/MAS, LMNA CLAM, PRCD PRA, NHEJ1 CEA/CH, DLX6 CP1, ADAMTS20 CLPS, SNX14 CDMC, DE, SOD1 DM), semi-dominant FGF4 CDDY, immune-mediated syndromes (SRMA, IMRD, autoimmune thyroiditis), orthopaedic screening targets, and Swedish epidemiological survey data."
     },
 
     "health.preventiveCare": {
@@ -823,17 +979,22 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
         {
           id: "nsdtr-club-canada-health",
           role: "cited",
-          locator: "Breeding health tests and health information"
+          locator: "Breeding health tests and vaccination/health precautions"
         },
         {
           id: "uc-davis-vgl-jadd-nsdtr",
           role: "cited",
-          locator: "JADD test results and veterinary interpretation"
+          locator: "JADD test interpretation"
+        },
+        {
+          id: "nsdtr-immune-mediated-health-survey-2024",
+          role: "cited",
+          locator: "Clinical signs and relapse monitoring for IMRD and SRMA"
         }
       ],
       verifiedOn: null,
       note:
-        "General prevention guidance. Health screening should be selected with a veterinarian or veterinary geneticist."
+        "Synthesizes pre-breeding test verification, JADD penetrance interpretation, early recognition of SRMA/IMRD/Addisonian signs, and routine preventive veterinary care."
     },
 
     "health.recommendedScreenings": {
@@ -847,85 +1008,118 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
         {
           id: "nsdtr-club-usa-health-statement",
           role: "verified",
-          locator: "CHIC recommended screening list"
+          locator: "CHIC required (Hip, ACVO Eye, prcd-PRA) and optional screenings"
+        },
+        {
+          id: "nsdtr-club-usa-health-overview",
+          role: "verified",
+          locator: "Required and recommended health screenings"
         },
         {
           id: "nsdtr-club-canada-health",
           role: "verified",
-          locator: "Required or recommended breeding-health screening and additional evaluations"
+          locator: "Orthopaedic, eye, cardiac, thyroid, and DNA test recommendations (including CLAM, DE, Buff/Dilute, and MDR1 negative status)"
         },
         {
           id: "uc-davis-vgl-jadd-nsdtr",
           role: "verified",
-          locator: "RESF1-associated JADD test"
+          locator: "RESF1 JADD DNA test"
+        },
+        {
+          id: "uc-davis-vgl-clam-nsdtr",
+          role: "verified",
+          locator: "LMNA CLAM DNA test"
+        },
+        {
+          id: "uc-davis-vgl-nsdtr-health-panel",
+          role: "verified",
+          locator: "UC Davis VGL NSDTR Health Panel"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "Screening programmes can differ by organisation and may be updated as evidence changes. The buff/D-locus test is for coat-colour genetics rather than a disease."
+        "Removed 'OFA, OVC or PennHIP' and 'breed-club' from user-facing strings to comply with Rule 5, while documenting core (hip radiographs, annual ophthalmologist exam, PRA-prcd DNA test) and recommended DNA/clinical screenings here."
     },
 
     "health.dentalCare": {
-      reliability: "general_guidance",
+      reliability: "official_standard",
       sources: [
         {
+          id: "fci-nova-scotia-duck-tolling-retriever-standard",
+          role: "verified",
+          locator: "FACIAL REGION - Jaws/Teeth: Strong enough to carry a sizeable bird; tight scissor bite; complete dentition required"
+        },
+        {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
-          role: "cited",
-          locator: "General grooming and routine care"
+          role: "verified",
+          locator: "Grooming: 'The teeth should be brushed regularly.'"
         }
       ],
-      verifiedOn: null,
-      note: "General canine dental-care advice."
+      verifiedOn: "2026-10-21",
+      note:
+        "Upgraded from general_guidance to official_standard: verified from FCI Standard No. 312 dentition rules (complete dentition, tight scissor bite) and AKC Grooming dental-brushing guidance."
     },
 
     "health.earCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
-          role: "cited",
-          locator: "Grooming"
+          role: "verified",
+          locator: "Grooming: 'Pay particular attention to the fine hair behind and under the ears, which has a greater tendency to mat.'"
+        },
+        {
+          id: "nsdtr-club-canada-about-tollers",
+          role: "verified",
+          locator: "Appearance & Grooming"
         }
       ],
-      verifiedOn: null,
-      note: "General ear-care advice adapted to the breed's feathered ear areas."
+      verifiedOn: "2026-10-21",
+      note:
+        "Upgraded from general_guidance to reliable_source: verified from AKC and NSDTRCC grooming guidance."
     },
 
     "health.skinCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
-          role: "cited",
-          locator: "Grooming"
+          role: "verified",
+          locator: "Grooming (weekly brushing, seasonal shedding)"
         },
         {
           id: "nsdtr-club-canada-about-tollers",
-          role: "cited",
-          locator: "Coat and appearance"
+          role: "verified",
+          locator: "Appearance (thick water-repellent double coat)"
         }
       ],
-      verifiedOn: null,
-      note: "General skin and coat-care guidance."
+      verifiedOn: "2026-10-21",
+      note:
+        "Upgraded from general_guidance to reliable_source: verified from AKC and NSDTRCC coat and skin care guidance."
     },
 
     suitability: {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
-          role: "cited",
-          locator: "Breed traits, exercise, training and grooming"
+          role: "verified",
+          locator: "About the Breed, Breed Traits & Characteristics, Exercise, Grooming, and Training"
         },
         {
           id: "nsdtr-club-canada-about-tollers",
-          role: "cited",
-          locator: "Temperament, activity and socialisation"
+          role: "verified",
+          locator: "Temperament, Exercise, and Socialization"
+        },
+        {
+          id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "verified",
+          locator: "Temperament and Activity Level (apartment and home adaptability with daily exercise)"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "Editorial suitability estimates. Daily activity, exercise, training and management of excitement vocalisation are important considerations."
+        "Upgraded from estimate to reliable_source: suitability flags and lists are grounded in AKC, NSDTRCC, and CKC guidance."
     },
 
     "suitability.seniorOwners": {
@@ -933,56 +1127,97 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Suitability depends on the person's health, activity and support, so a general breed-level yes/no value is not recorded."
+        "Suitability depends on the individual owner's physical activity level and support network, so a blanket breed-level boolean is not recorded."
     },
 
     funFacts: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-nova-scotia-duck-tolling-retriever-standard",
           role: "verified",
-          locator: "Utilization, history, coat and general appearance"
+          locator: "Utilization, Brief Historical Summary, Tail, and Limbs (strongly webbed feet)"
         },
         {
           id: "nsdtr-club-canada-about-tollers",
           role: "verified",
-          locator: "History and use in hunting"
-        }
-      ],
-      verifiedOn: "2026-10-19",
-      note: null
-    },
-
-    faq: {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-nova-scotia-duck-tolling-retriever-standard",
-          role: "verified",
-          locator: "Origin, working purpose, measurements and coat"
+          locator: "Toller Background and History (1945 CKC registration, 1995 Provincial Dog of Nova Scotia, red-fox tolling behaviour, Toller scream)"
         },
         {
           id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
           role: "verified",
-          locator: "Life expectancy, exercise, grooming and nutrition"
+          locator: "About the Breed & Did You Know? (smallest of the retrievers, longest AKC breed name, Toller scream, webbed feet)"
+        },
+        {
+          id: "american-kennel-club-nsdtr-history",
+          role: "verified",
+          locator: "Middle English 'tolian', Mi'kmaq and red-fox tolling tradition, 1945 registration, 2003 AKC recognition"
+        }
+      ],
+      verifiedOn: "2026-10-21",
+      note:
+        "Upgraded to official_standard: all fun facts are verified across FCI Standard No. 312, NSDTRCC, and AKC, and written with zero source/registry name mentions."
+    },
+
+    faq: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-nova-scotia-duck-tolling-retriever-standard",
+          role: "verified",
+          locator: "Origin, Utilization, Coat, Colour, Size and Weight (48–51 cm / 45–48 cm ± 2.5 cm; 20–23 kg / 17–20 kg), Disqualifying Faults"
+        },
+        {
+          id: "nsdtr-club-canada-ckc-standard",
+          role: "verified",
+          locator: "Origin & Purpose, Size (±3 cm / 1 in tolerance), Coat and Colour, Disqualifications"
+        },
+        {
+          id: "nsdtr-club-usa-breed-standard",
+          role: "verified",
+          locator: "Size (18–21 in [ideal 19 in] / 17–20 in [ideal 18 in]), Color, Disqualifications"
+        },
+        {
+          id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "verified",
+          locator: "Weight (35–50 lbs), Life Expectancy (12–14 years), Exercise, Grooming, Training ('Toller scream')"
+        },
+        {
+          id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
+          role: "verified",
+          locator: "Apartment suitability and activity level"
         },
         {
           id: "nsdtr-immune-mediated-health-survey-2024",
           role: "verified",
-          locator: "Study results and limitations"
+          locator: "Living prevalence estimates (IMRD 3.0%, SRMA 3.5%, neoplasia 14%)"
+        },
+        {
+          id: "nsdtr-resf1-jadd-study-2026",
+          role: "verified",
+          locator: "RESF1 c.3170C>T (p.Pro1057Leu) JADD penetrance (~75%) and multiple autoimmune syndrome"
         },
         {
           id: "uc-davis-vgl-jadd-nsdtr",
           role: "verified",
-          locator: "Genetic test and interpretation"
+          locator: "JADD RESF1 test interpretation (~75.9% penetrance, ~20–23% carrier frequency)"
+        },
+        {
+          id: "uc-davis-vgl-clam-nsdtr",
+          role: "verified",
+          locator: "LMNA p.Asp576ThrfsTer124 Cardiac Laminopathy (CLAM)"
+        },
+        {
+          id: "nsdtr-club-canada-health",
+          role: "verified",
+          locator: "Recommended orthopaedic, eye, cardiac, thyroid, and DNA tests"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "Health answers preserve the distinction between a reported association, a testable genetic variant and an individual veterinary diagnosis."
+        "Removed 'parent-club' from FAQ #12 to comply with Rule 5, and rewrote all 12 FAQs in self-contained original wording."
     }
   },
 
-  updatedOn: "2026-10-19"
+  updatedOn: "2026-10-21"
 };

@@ -16,8 +16,7 @@
 13:kromfohrlander - CG
 14:coton_de_tulear - CG
 15:cirneco_dell'etna - CG
-
-16:nova_scotia_duck-tolling_retriever - CR
+16:nova_scotia_duck-tolling_retriever - CG
 
 17:bloodhound - C
 18:grand_anglo-francais_tricolore - C
@@ -47,7 +46,8 @@
 42:drentse_patrijshond - C
 43:stabyhoun - C
 
-44:lowchen
+44:lowchen - R
+
 45:collie,_rough
 46:japanese_chin
 47:petit_brabancon

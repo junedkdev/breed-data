@@ -758,145 +758,145 @@ export const sources = defineSources({
     note: "Peer-reviewed study (Gerber et al., 2015) identifying the autosomal recessive VLDLR:c.1713delC mutation responsible for Dandy-Walker-like malformation (DWLM) in Eurasier dogs.",
     publisher: null
   },
-  "fci-nova-scotia-duck-tolling-retriever-standard": {
+"fci-nova-scotia-duck-tolling-retriever-standard": {
     id: "fci-nova-scotia-duck-tolling-retriever-standard",
     name: "FCI - Nova Scotia Duck Tolling Retriever Standard No. 312",
     url: "https://www.fci.be/Nomenclature/Standards/312g08-en.pdf",
     type: "official_breed_standard",
     publishedOn: "1999-02-05",
-    accessedOn: "2026-10-19",
-    note: "The PDF is dated 1999-02-05 and states that the official valid standard was published on 1987-06-24. Used for FCI classification, working purpose, conformation, coat, colour, height and weight.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official FCI Standard No. 312 (dated 1999-02-05; official valid standard published 1987-06-24). Used for Group 8 Section 1 classification, working utilization, historical summary, head and body measurements, coat, colour, height (48–51 cm / 45–48 cm ± 2.5 cm), weight (20–23 kg / 17–20 kg), and disqualifying faults.",
+    publisher: "Fédération Cynologique Internationale"
   },
 
-  "american-kennel-club-nova-scotia-duck-tolling-retriever": {
+"american-kennel-club-nova-scotia-duck-tolling-retriever": {
     id: "american-kennel-club-nova-scotia-duck-tolling-retriever",
     name: "American Kennel Club - Nova Scotia Duck Tolling Retriever",
     url: "https://www.akc.org/dog-breeds/nova-scotia-duck-tolling-retriever/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Used for life expectancy, temperament, exercise, grooming, nutrition and breed health information.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official AKC breed profile used for height (18–20 in / 17–19 in), weight (35–50 lbs), life expectancy (12–14 years), drooling and shedding ratings, temperament, exercise, grooming, training, nutrition, and health guidance.",
+    publisher: "American Kennel Club"
   },
 
-  "canadian-kennel-club-nova-scotia-duck-tolling-retriever": {
+"canadian-kennel-club-nova-scotia-duck-tolling-retriever": {
     id: "canadian-kennel-club-nova-scotia-duck-tolling-retriever",
     name: "Canadian Kennel Club - Nova Scotia Duck Tolling Retriever",
     url: "https://www.ckc.ca/en/Choosing-a-Dog/Choosing-a-Breed/Sporting-Dogs/Retriever-Nova-Scotia-Duck-Tolling",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Used for historical background, working purpose, activity level, physical characteristics and temperament.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official CKC breed profile covering Little River Harbour origin, 1945 CKC recognition, working purpose, size (45–51 cm; 17–23 kg / 37–51 lbs), coat and colour, temperament, and grooming.",
+    publisher: "Canadian Kennel Club"
   },
 
-  "nsdtr-club-canada-about-tollers": {
+"nsdtr-club-canada-about-tollers": {
     id: "nsdtr-club-canada-about-tollers",
     name: "Nova Scotia Duck Tolling Retriever Club of Canada - About Tollers",
     url: "https://www.toller.ca/tollers/about-tollers/",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Breed-club guidance on history, tolling, physical characteristics, temperament, socialisation, exercise and coat care.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Canadian parent-club guide covering Little River Duck Dog and Yarmouth Toller history, 1945 CKC registration, 1995 Provincial Dog of Nova Scotia designation, tolling behaviour, physical traits, seasonal shedding, temperament, and socialization.",
+    publisher: "Nova Scotia Duck Tolling Retriever Club of Canada"
   },
 
-  "nsdtr-club-canada-health": {
+"nsdtr-club-canada-health": {
     id: "nsdtr-club-canada-health",
     name: "Nova Scotia Duck Tolling Retriever Club of Canada - Health",
     url: "https://www.toller.ca/tollers/health/",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Breed-club resource covering health conditions and breeding-screening guidance, including hip, elbow, eye, thyroid, cardiac, patellar and DNA evaluations.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Canadian parent-club health resource detailing recommended orthopaedic, ophthalmic, thyroid, and cardiac evaluations alongside DNA tests for PRA-prcd, CEA/CH, JADD, CP1, CLPS, DM, CDDY/IVDD, CDMC, CLAM, DE, and Buff/Dilute (and noting that Tollers have not tested positive for MDR1).",
+    publisher: "Nova Scotia Duck Tolling Retriever Club of Canada"
   },
-  "american-kennel-club-sporting-group-health-testing": {
+"american-kennel-club-sporting-group-health-testing": {
     id: "american-kennel-club-sporting-group-health-testing",
     name: "American Kennel Club - Sporting Group Health Testing Requirements",
-    publisher: "American Kennel Club",
     url: "https://www.akc.org/breeder-programs/breed-health-testing-requirements/sporting-group-health-testing-requirements/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Boykin Spaniel recommended health tests: patella, hip, ophthalmologist, EIC DNA and CEA/CH DNA."
+    accessedOn: "2026-10-21",
+    note: "Official AKC Sporting Group breed health testing recommendations, including Nova Scotia Duck Tolling Retriever and Boykin Spaniel screening panels.",
+    publisher: "American Kennel Club"
   },
-  "nsdtr-club-usa-health-statement": {
+"nsdtr-club-usa-health-statement": {
     id: "nsdtr-club-usa-health-statement",
     name: "Nova Scotia Duck Tolling Retriever Club (USA) - Health Statement",
     url: "https://cdn.akc.org/Marketplace/Health-Statement/Nova-Scotia-Duck-Tolling-Retriever.pdf",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Parent-club health statement describing the CHIC breeding-health programme and its recommended screenings.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "US parent-club health statement outlining required CHIC screenings (hip dysplasia evaluation, ACVO eye exam, and prcd-PRA DNA test) and optional screenings (elbow, cardiac, patellar, thyroid, CEA, JADD, CP1, CLPS, CDDY, CLAM, and CDMC).",
+    publisher: "Nova Scotia Duck Tolling Retriever Club (USA)"
   },
 
-  "nsdtr-immune-mediated-disease-patterns-2015": {
+"nsdtr-immune-mediated-disease-patterns-2015": {
     id: "nsdtr-immune-mediated-disease-patterns-2015",
     name: "Disease Patterns and Incidence of Immune-Mediated Disease in Insured Swedish Nova Scotia Duck Tolling Retrievers",
     url: "https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.102960",
     type: "scientific",
     publishedOn: "2015-07-18",
-    accessedOn: "2026-10-19",
-    note: "Peer-reviewed population study examining morbidity and the incidence of immune-mediated disease in insured Swedish Tollers. Population and study-period limitations apply.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Bremer HD, Vilson Å, Bonnett BN, Hansson-Hamlin H (Veterinary Record 2015;177(3):74). Epidemiological cohort study of 2,890 insured Swedish Tollers (2002–2007) reporting elevated relative risk and incidence rates for SRMA (20 per 10,000 DYAR; RR 12) and IMRD (6.8 per 10,000 DYAR; RR 18), higher lymphoma risk, and lower ear and heart disease rates compared with other breeds.",
+    publisher: "Veterinary Record (BMJ / BVA)"
   },
 
-  "nsdtr-immune-mediated-health-survey-2024": {
+"nsdtr-immune-mediated-health-survey-2024": {
     id: "nsdtr-immune-mediated-health-survey-2024",
     name: "In Sickness and Health - A Questionnaire-Based Study of Immune-Mediated Diseases and Neoplasia in Swedish Nova Scotia Duck Tolling Retrievers",
     url: "https://doi.org/10.1186/s13028-024-00761-x",
     type: "scientific",
     publishedOn: "2024-08-15",
-    accessedOn: "2026-10-19",
-    note: "Peer-reviewed 2024 Swedish owner-questionnaire study. Its reported lifetime prevalence estimates are specific to the surveyed population; owner-reported neoplasia includes tumours of different types.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Nilsson K et al. / Hansson-Hamlin H (Acta Veterinaria Scandinavica 2024;66:39). Questionnaire study of 935 living and 177 deceased Swedish Tollers reporting living lifetime prevalence of 3.0% for IMRD and 3.5% for SRMA, owner-reported neoplasia of any type in 14% of living dogs (mammary 22%, mast cell 15%), and neoplasia as cause of death in 38.4% of deceased dogs.",
+    publisher: "Acta Veterinaria Scandinavica (BioMed Central)"
   },
 
-  "nsdtr-resf1-jadd-study-2026": {
+"nsdtr-resf1-jadd-study-2026": {
     id: "nsdtr-resf1-jadd-study-2026",
     name: "A Variant in RESF1 Is Associated with Addison's Disease and Multiple Autoimmune Syndrome in Young Nova Scotia Duck Tolling Retrievers",
     url: "https://www.nature.com/articles/s41598-026-42994-y",
     type: "scientific",
     publishedOn: "2026-03-12",
-    accessedOn: "2026-10-19",
-    note: "Peer-reviewed Scientific Reports paper published in 2026 reporting an association between an RESF1 variant and juvenile-onset Addison's disease with possible multiple autoimmune manifestations. It does not imply that every dog will develop disease.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Brown EA, Cullen JN et al. / Bannasch DL (Scientific Reports 2026;16:13194). Identifies an autosomal recessive missense variant in RESF1 (Chr27:29,736,795, c.3170C>T, p.Pro1057Leu) associated with juvenile-onset Addison's disease (~75% penetrance by 1 year, median onset 5 months) and multiple autoimmune syndrome (41.7%–70.8% concurrent immune disorders; median survival 2.0 years).",
+    publisher: "Scientific Reports (Nature Portfolio)"
   },
 
-  "uc-davis-vgl-jadd-nsdtr": {
+"uc-davis-vgl-jadd-nsdtr": {
     id: "uc-davis-vgl-jadd-nsdtr",
     name: "UC Davis Veterinary Genetics Laboratory - Juvenile Addison's Disease in Nova Scotia Duck Tolling Retrievers",
     url: "https://vgl.ucdavis.edu/test/jadd-nsdtr",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Veterinary genetics laboratory guidance for the breed-specific JADD DNA test, inheritance, incomplete penetrance and interpretation of test results.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "UC Davis VGL test page for the RESF1 c.3170C>T (p.Pro1057Leu) juvenile Addison's disease (JADD) variant, documenting autosomal recessive inheritance with incomplete (~75.9%) penetrance, ~20%–23% carrier frequency, concurrent ocular/immunologic comorbidities, and breeding guidance.",
+    publisher: "UC Davis Veterinary Genetics Laboratory"
   },
 
-  "wikimedia-nsdtr-portrait-christopher-woo": {
+"wikimedia-nsdtr-portrait-christopher-woo": {
     id: "wikimedia-nsdtr-portrait-christopher-woo",
     name: "Wikimedia Commons - Nova Scotia Duck Tolling Retriever portrait.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Nova_Scotia_Duck_Tolling_Retriever_portrait.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Photograph by Christopher Woo, originally shared on Flickr as Happy Deks. Wikimedia Commons lists CC BY 2.0.",
-    publisher: null
+    publishedOn: "2006-04-30",
+    accessedOn: "2026-10-21",
+    note: "Photograph of a young Nova Scotia Duck Tolling Retriever by Christopher Woo (originally shared on Flickr as 'Happy Deks', uploaded to Wikimedia Commons on 2007-05-01 by Pharaoh Hound, 1024x768, verified under CC BY 2.0).",
+    publisher: "Wikimedia Commons"
   },
 
-  "wikimedia-nsdtr-puppy-jarle-nystuen": {
+"wikimedia-nsdtr-puppy-jarle-nystuen": {
     id: "wikimedia-nsdtr-puppy-jarle-nystuen",
     name: "Wikimedia Commons - Nova Scotia Duck-Tolling Retriever.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Nova_Scotia_Duck-Tolling_Retriever.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Photograph of a 12-week-old male Toller by Jarle Nystuen. Wikimedia Commons lists CC BY-SA 3.0; follow the attribution and applicable share-alike requirements.",
-    publisher: null
+    publishedOn: "2005-07-25",
+    accessedOn: "2026-10-21",
+    note: "Photograph of a 12-week-old male Nova Scotia Duck Tolling Retriever puppy by Jarle Nystuen (uploaded on 2005-07-25 by Minto, 800x599, originally tagged Attribution / GFDL 1.2+ and migrated to CC BY-SA 3.0).",
+    publisher: "Wikimedia Commons"
   },
   "fci-bloodhound-official-standard": {
     id: "fci-bloodhound-official-standard",
@@ -4064,6 +4064,66 @@ export const sources = defineSources({
     publishedOn: "2005-04-24",
     accessedOn: "2026-10-21",
     note: "Photographer credited on the file page as Steffen Heinz (Caronna); uploader: Caronna. CC BY-SA 3.0 applies, with attribution and share-alike terms.",
+  },
+  "nsdtr-club-canada-ckc-standard": {
+    id: "nsdtr-club-canada-ckc-standard",
+    name: "Nova Scotia Duck Tolling Retriever Club of Canada - Official CKC Breed Standard",
+    url: "https://www.toller.ca/tollers/ckc-standard/",
+    type: "official_breed_standard",
+    publishedOn: "1997-12-01",
+    accessedOn: "2026-10-21",
+    note: "Official Canadian Kennel Club breed standard for the Nova Scotia Duck Tolling Retriever (revised December 1997), detailing origin, temperament, size (48–51 cm / 45–48 cm ± 3 cm; 20–23 kg / 17–20 kg), coat, colour, gait, and disqualifications.",
+    publisher: "Nova Scotia Duck Tolling Retriever Club of Canada / Canadian Kennel Club"
+  },
+  "nsdtr-club-usa-breed-standard": {
+    id: "nsdtr-club-usa-breed-standard",
+    name: "Nova Scotia Duck Tolling Retriever Club (USA) - Official AKC Breed Standard",
+    url: "https://www.nsdtrc-usa.org/breed/standard/",
+    type: "official_breed_standard",
+    publishedOn: "2001-06-11",
+    accessedOn: "2026-10-21",
+    note: "Official AKC / NSDTRC-USA breed standard (approved 11 June 2001, effective 1 September 2001), specifying 18–21 in (ideal 19 in) for males and 17–20 in (ideal 18 in) for females, 10:9 body length-to-height ratio, coat, colour, and disqualifications.",
+    publisher: "Nova Scotia Duck Tolling Retriever Club (USA) / American Kennel Club"
+  },
+  "nsdtr-club-usa-health-overview": {
+    id: "nsdtr-club-usa-health-overview",
+    name: "Nova Scotia Duck Tolling Retriever Club (USA) - Health & Genetics Overview",
+    url: "https://www.nsdtrc-usa.org/health/overview/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "US parent-club health and genetics overview detailing required CHIC tests (hip evaluation, annual ACVO eye exam, prcd-PRA DNA test) and recommended screenings (elbow, cardiac, patellar, thyroid, CEA, JADD, CP1, CLPS, CDDY, CLAM, and CDMC).",
+    publisher: "Nova Scotia Duck Tolling Retriever Club (USA)"
+  },
+  "uc-davis-vgl-nsdtr-health-panel": {
+    id: "uc-davis-vgl-nsdtr-health-panel",
+    name: "UC Davis Veterinary Genetics Laboratory - Nova Scotia Duck Tolling Retriever Health Panel",
+    url: "https://vgl.ucdavis.edu/panel/nova-scotia-duck-tolling-retriever-health-panel",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Veterinary genetics laboratory breed panel covering CDMC (SNX14), CLAM (LMNA), CP1 (DLX6), CLPS (ADAMTS20), JADD (RESF1), CDDY/IVDD (FGF4), and DM (SOD1).",
+    publisher: "UC Davis Veterinary Genetics Laboratory"
+  },
+  "uc-davis-vgl-clam-nsdtr": {
+    id: "uc-davis-vgl-clam-nsdtr",
+    name: "UC Davis Veterinary Genetics Laboratory - Cardiac Laminopathy (CLAM) in Nova Scotia Duck Tolling Retrievers",
+    url: "https://vgl.ucdavis.edu/test/clam-nsdtr",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Veterinary genetics laboratory documentation for the autosomal recessive LMNA frameshift variant (p.Asp576ThrfsTer124) associated with fatal juvenile/young-adult dilated and fibrosing cardiomyopathy (CLAM) in Nova Scotia Duck Tolling Retrievers.",
+    publisher: "UC Davis Veterinary Genetics Laboratory"
+  },
+  "american-kennel-club-nsdtr-history": {
+    id: "american-kennel-club-nsdtr-history",
+    name: "American Kennel Club - Nova Scotia Duck Tolling Retriever History: Behind the 'Little River Duck Dog'",
+    url: "https://www.akc.org/expert-advice/dog-breeds/nova-scotia-duck-tolling-retriever-history/",
+    type: "kennel_club",
+    publishedOn: "2024-02-27",
+    accessedOn: "2026-10-21",
+    note: "Detailed AKC historical article documenting Mi'kmaq and red-fox tolling traditions, Little River Harbour origins, Kooikerhondje and St. John's Water Dog connections, 1945 Canadian registration of 15 dogs, Sue Van Sloun's 1978 US imports, 1984 US club founding, and 2003 AKC recognition as the 150th breed.",
+    publisher: "American Kennel Club"
   },
 });
 
