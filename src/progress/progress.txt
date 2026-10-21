@@ -55,8 +55,8 @@
 51:jack_russell_terrier - C
 52:american_cocker_spaniel - C
 53:canadian_eskimo_dog - C
+54:scottish_deerhound - C
 
-54:scottish_deerhound
 55:skye_terrier
 56:yorkshire_terrier
 57:basset_griffon_vendeen,_petit

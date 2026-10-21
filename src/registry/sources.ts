@@ -5202,6 +5202,116 @@ export const sources = defineSources({
     accessedOn: "2026-10-21",
     note: "Photograph by Canarian, dated and uploaded 22 April 2022. Original file page lists 2237 × 1955 pixels and CC BY-SA 4.0; retain attribution and comply with share-alike terms.",
   },
+  "fci-deerhound-standard": {
+    id: "fci-deerhound-standard",
+    name: "FCI Standard No. 164 — Deerhound",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/164g10-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2012-10-08",
+    accessedOn: "2026-10-21",
+    commercialUse: "reference_only",
+    note: "The accessible PDF states an official valid-standard publication date of 8 October 2012. The current FCI nomenclature page lists a later valid-standard publication date, so use the PDF with that limitation in mind."
+  },
+  "fci-deerhound-nomenclature": {
+    id: "fci-deerhound-nomenclature",
+    name: "FCI Breed Nomenclature — Deerhound",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/en/nomenclature/DEERHOUND-164.html",
+    type: "official_standard",
+    publishedOn: "2026-09-08",
+    accessedOn: "2026-10-21",
+    commercialUse: "reference_only",
+    note: "The FCI nomenclature page lists the breed's origin, classification, and the publication date of the currently valid standard."
+  },
+  "american-kennel-club-scottish-deerhound": {
+    id: "american-kennel-club-scottish-deerhound",
+    name: "American Kennel Club — Scottish Deerhound",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/scottish-deerhound/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    commercialUse: "reference_only",
+    note: "Breed profile covering typical size, lifespan, temperament, coat, exercise, grooming, nutrition, and recommended health tests."
+  },
+  "american-kennel-club-scottish-deerhound-standard": {
+    id: "american-kennel-club-scottish-deerhound-standard",
+    name: "American Kennel Club — Official Standard of the Scottish Deerhound",
+    publisher: "American Kennel Club",
+    url: "https://images.akc.org/pdf/breeds/standards/ScottishDeerhound.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    commercialUse: "reference_only",
+    note: "Official breed standard describing structure, coat, colour, and breed characteristics."
+  },
+  "american-kennel-club-scottish-deerhound-history": {
+    id: "american-kennel-club-scottish-deerhound-history",
+    name: "American Kennel Club — Scottish Deerhound History",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/expert-advice/dog-breeds/scottish-deerhound-history/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    commercialUse: "reference_only",
+    note: "Historical overview of the breed and development of the modern breed standard."
+  },
+  "scottish-deerhound-club-of-america-breed-info": {
+    id: "scottish-deerhound-club-of-america-breed-info",
+    name: "Scottish Deerhound Club of America — Breed Information",
+    publisher: "Scottish Deerhound Club of America",
+    url: "https://deerhound.org/the-breed/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    commercialUse: "reference_only",
+    note: "Breed-club guidance on size, exercise, household needs, and responsible ownership."
+  },
+  "scottish-deerhound-club-of-america-health-testing": {
+    id: "scottish-deerhound-club-of-america-health-testing",
+    name: "Deerhound Health — Code of Ethics Guidelines for Health Testing",
+    publisher: "Scottish Deerhound Club of America Health and Genetics Committee",
+    url: "https://deerhoundhealth.org/code-of-ethics-guidelines-for-health-testing/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    commercialUse: "reference_only",
+    note: "Breed-club health-testing guidance for Factor VII deficiency, delayed post-operative hemorrhage, cardiac disease, and liver shunt."
+  },
+  "wikimedia-scottish-deerhound-grey-1": {
+    id: "wikimedia-scottish-deerhound-grey-1",
+    name: "Scottish Deerhound grey 1.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Scottish_Deerhound_grey_1.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    commercialUse: "commercial_use",
+    note: "File page identifies Canarian as the creator and lists CC BY-SA 4.0. Commercial reuse is permitted subject to attribution, license-link, change-indication, and applicable share-alike requirements."
+  },
+  "wikimedia-scottish-deerhound-puppy": {
+    id: "wikimedia-scottish-deerhound-puppy",
+    name: "Deerhound, chiot.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Deerhound,_chiot.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    commercialUse: "commercial_use",
+    note: "File page identifies Manializa as the creator and lists CC BY-SA 4.0. Commercial reuse is permitted subject to attribution, license-link, change-indication, and applicable share-alike requirements."
+  },
+  "wikimedia-scottish-deerhound-portrait": {
+    id: "wikimedia-scottish-deerhound-portrait",
+    name: "Deerhound portrait.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Deerhound_portrait.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    commercialUse: "commercial_use",
+    note: "File page identifies Manializa as the creator and lists CC BY-SA 4.0. Commercial reuse is permitted subject to attribution, license-link, change-indication, and applicable share-alike requirements."
+  },
 });
 
 export type SourceId = keyof typeof sources;
