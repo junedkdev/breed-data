@@ -1078,70 +1078,70 @@ export const sources = defineSources({
     note: "Peer-reviewed study by Mizukami et al. (Vet Rec 2014;175(7):174; DOI: 10.1136/vr.102015) confirming a 0.667 mutant allele frequency for the NHEJ1 Collie eye anomaly deletion (12/18 carriers, 6/18 affected) and 0% frequency for the MDR1/ABCB1 defect in tested Hokkaido dogs.",
     publisher: null
   },
-  "fci-grand-anglo-francais-tricolore-standard": {
+"fci-grand-anglo-francais-tricolore-standard": {
     id: "fci-grand-anglo-francais-tricolore-standard",
     name: "FCI - Grand Anglo-Français Tricolore Standard No. 322",
     url: "https://www.fci.be/Nomenclature/Standards/322g06-en.pdf",
     type: "official_breed_standard",
     publishedOn: "1996-06-18",
-    accessedOn: "2026-10-19",
-    note: "The English translation PDF is dated 1996-06-18. It states that the official valid standard was published on 1983-01-27. Used for origin, FCI classification, working purpose, anatomy, coat, colour and height.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official FCI English breed standard for Grand Anglo-Français Tricolore (Great Anglo-French Tricolour Hound, Standard No. 322, published 1996-06-18; official valid standard dated 1983-01-27).",
+    publisher: "Fédération Cynologique Internationale"
   },
 
-  "fci-grand-anglo-francais-tricolore-nomenclature": {
+"fci-grand-anglo-francais-tricolore-nomenclature": {
     id: "fci-grand-anglo-francais-tricolore-nomenclature",
-    name: "FCI - Grand Anglo-Français Tricolore Breed Nomenclature",
+    name: "FCI - Grand Anglo-Français Tricolore Breed Nomenclature (No. 322)",
     url: "https://www.fci.be/en/nomenclature/GREAT-ANGLO-FRENCH-TRICOLOUR-HOUND-322.html",
     type: "official_breed_standard",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Official FCI breed listing confirming country of origin, group, section, definitive recognition date and working-trial classification.",
-    publisher: null
+    publishedOn: "1983-01-27",
+    accessedOn: "2026-10-21",
+    note: "Official FCI nomenclature entry (No. 322) confirming definitive recognition on 1983-01-27, Group 6 Section 1.1 classification, working-trial requirement, and official multilingual breed names (Great Anglo-French Tricolour Hound, Grand Anglo-Français Tricolore, Großer Anglo-Französischer Dreifarbiger Laufhund, Gran Sabueso Anglo-Francés Tricolor).",
+    publisher: "Fédération Cynologique Internationale"
   },
 
-  "venerie-grand-anglo-francais-tricolore": {
+"venerie-grand-anglo-francais-tricolore": {
     id: "venerie-grand-anglo-francais-tricolore",
-    name: "Vénerie - Le Grand Anglo-Français Tricolore",
+    name: "Société de Vénerie - Races : Le Grand Anglo-Français Tricolore (Standard FCI N° 322)",
     url: "https://venerie.org/chiens-de-chasse-a-courre/races-le-grand-anglo-francais-tricolore.html",
-    type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "French hunting-dog information resource. Used for the breed's hunting role, working context, general appearance and classification.",
-    publisher: null
+    type: "official_breed_standard",
+    publishedOn: "1983-01-27",
+    accessedOn: "2026-10-21",
+    note: "Full French text of FCI Standard No. 322 (valid standard 27.01.1983) published by the Société de Vénerie, along with French pack-hound kennel, disease-prevention, and working guidance.",
+    publisher: "Société de Vénerie"
   },
 
-  "chien-com-grand-anglo-francais-tricolore": {
+"chien-com-grand-anglo-francais-tricolore": {
     id: "chien-com-grand-anglo-francais-tricolore",
     name: "Chien.com - Grand Anglo-Français Tricolore",
     url: "https://www.chien.com/races-de-chiens/grand-anglo-francais-tricolore-448.php",
     type: "other",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Secondary French breed profile consulted for historical background and reported behaviour. Its numerical weight and lifespan claims are not used because reliable breed-standard figures were not found and secondary sources differ.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Secondary French breed profile noting Poitevin, Gascon Saintongeois, and English Foxhound ancestry and reporting secondary height (62–72 cm males, 60–68 cm females) and weight (29–30 kg) estimates.",
+    publisher: "Chien.com"
   },
 
-  "wikimedia-grand-anglo-francais-tricolore-alephalpha": {
+"wikimedia-grand-anglo-francais-tricolore-alephalpha": {
     id: "wikimedia-grand-anglo-francais-tricolore-alephalpha",
-    name: "Wikimedia Commons - Grand anglo francais tricol.jpg",
+    name: "Wikimedia Commons - File:Grand anglo francais tricol.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Grand_anglo_francais_tricol.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Photograph by Alephalpha, showing a Grand Anglo-Français Tricolore in a pack. Wikimedia Commons offers the work under CC BY-SA 3.0 and GFDL; this record uses CC BY-SA 3.0.",
-    publisher: null
+    publishedOn: "2008-10-21",
+    accessedOn: "2026-10-21",
+    note: "Wikimedia Commons file page for photograph by Alephalpha (captured 2006-10-22, uploaded 2008-10-21, 1200x800 px), dual-licensed under CC BY-SA 3.0 and GFDL 1.2+.",
+    publisher: "Wikimedia Commons"
   },
 
-  "wikimedia-largeanglofrench-tricolore1-canarian": {
+"wikimedia-largeanglofrench-tricolore1-canarian": {
     id: "wikimedia-largeanglofrench-tricolore1-canarian",
-    name: "Wikimedia Commons - Largeanglofrench-tricolore1.jpg",
+    name: "Wikimedia Commons - File:Largeanglofrench-tricolore1.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Largeanglofrench-tricolore1.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Photograph by Canarian, depicting a Great Anglo-French Tricolour Hound. Wikimedia Commons lists CC BY-SA 4.0.",
-    publisher: null
+    publishedOn: "2022-04-27",
+    accessedOn: "2026-10-21",
+    note: "Wikimedia Commons file page for photograph by Canarian (captured 2022-04-24, uploaded 2022-04-27, 2045x1772 px), licensed under CC BY-SA 4.0.",
+    publisher: "Wikimedia Commons"
   },
   "italian-greyhound-club-of-america-about": {
     id: "italian-greyhound-club-of-america-about",
@@ -4334,6 +4334,175 @@ export const sources = defineSources({
     accessedOn: "2026-10-21",
     note: "Evans KM, Adams VJ (Journal of Small Animal Practice 2010;51(7):376–381, PMID 20626784). Epidemiological study of 15,881 deceased and 36,006 live UK pedigree dogs identifying the Bloodhound among the breeds at greatest risk of both GDV mortality and GDV morbidity.",
     publisher: "Journal of Small Animal Practice (BSAVA / Wiley)"
+  },
+  "scc-grand-anglo-francais-tricolore": {
+    id: "scc-grand-anglo-francais-tricolore",
+    name: "Société Centrale Canine - Grand Anglo-Français Tricolore",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/grand-anglo-francais-tricolore",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Official French national kennel club breed profile documenting mid-19th-century Bâtard Anglo-Saintongeois origins (Chien de Saintonge x Foxhound), French population statistics (~2,000 dogs, ~200 births/year across ~20 roe-deer packs and 1 red-deer pack), conformation, hunting temperament, firm training needs, and kennel/rural living requirements.",
+    publisher: "Société Centrale Canine"
+  },
+  "scc-fci-grand-anglo-francais-tricolore-standard-pdf": {
+    id: "scc-fci-grand-anglo-francais-tricolore-standard-pdf",
+    name: "Société Centrale Canine / FCI - Standard FCI N° 322 : Grand Anglo-Français Tricolore (PDF)",
+    url: "https://www.centrale-canine.fr/sites/default/files/fci_race/322.pdf?1785226331",
+    type: "official_breed_standard",
+    publishedOn: "1996-07-24",
+    accessedOn: "2026-10-21",
+    note: "Official original French FCI Standard No. 322 PDF (dated 24.07.1996; valid standard 27.01.1983) hosted by the Société Centrale Canine, including eliminating faults (aggression, shyness, physical/behavioural anomalies) and breeding soundness requirement.",
+    publisher: "Société Centrale Canine / Fédération Cynologique Internationale"
+  },
+  "scc-club-du-chien-d-ordre": {
+    id: "scc-club-du-chien-d-ordre",
+    name: "Club du Chien d'Ordre (Société Centrale Canine) - Présentation et Races",
+    url: "https://www.centrale-canine.fr/club-du-chien-d-ordre",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Official French parent club (founded in 1978 by Dr. Émile Guillet and affiliated with the Société Centrale Canine) overseeing the Grand Anglo-Français Tricolore and other large French pack hounds.",
+    publisher: "Club du Chien d'Ordre / Société Centrale Canine"
+  },
+  "ukc-great-anglo-francais-tricolor-hound-standard": {
+    id: "ukc-great-anglo-francais-tricolor-hound-standard",
+    name: "United Kennel Club - Great Anglo-Francais Tricolor Hound Breed Standard",
+    url: "https://www.ukcdogs.com/great-algo-francais-tricolor-hound",
+    type: "official_breed_standard",
+    publishedOn: "2006-01-01",
+    accessedOn: "2026-10-21",
+    note: "Official UKC breed standard (recognized in 2006, Scenthound Group) specifying complete scissors bite, black nose, 23.5–27.5 inch height at withers, and disqualifications (cryptorchidism, viciousness or extreme shyness, albinism).",
+    publisher: "United Kennel Club"
+  },
+  "venerie-le-grand-anglo-francais-tricolore": {
+    id: "venerie-le-grand-anglo-francais-tricolore",
+    name: "Société de Vénerie - Le grand anglo-français tricolore",
+    url: "https://www.venerie.org/le-grand-anglo-francais-tricolore/",
+    type: "other",
+    publishedOn: "2024-09-13",
+    accessedOn: "2026-10-21",
+    note: "Detailed Société de Vénerie breed article documenting the 1978 standard, Bâtard Anglo-Saintongeois origins, periodic Foxhound outcrosses until the 1950s, leading French hunting packs (Vautrait du Perche, Vautrait de la Vallée Brune, Rallye de la Brie, Rallie Touraine, Équipage de Bonnelles Rambouillet, Rallye Trois Forêts), single-quarry créance training, and secondary size/weight figures (62–72 cm, 30–35 kg).",
+    publisher: "Société de Vénerie"
+  },
+  "royal-canin-fr-grand-anglo-francais-tricolore": {
+    id: "royal-canin-fr-grand-anglo-francais-tricolore",
+    name: "Royal Canin France - Grand anglo-français tricolore",
+    url: "https://www.royalcanin.com/fr/dogs/breeds/great-anglo-french-tricolour-hound",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "French breed profile noting 1978 official recognition, minimal grooming needs, outdoor living requirements, high exercise demands, and a secondary lifespan estimate of 12–14 years.",
+    publisher: "Royal Canin"
+  },
+  "woopets-grand-anglo-francais-tricolore": {
+    id: "woopets-grand-anglo-francais-tricolore",
+    name: "Woopets - Grand Anglo-Français tricolore : caractère, santé, alimentation, prix et entretien",
+    url: "https://www.woopets.fr/chien/race/grand-anglo-francais-tricolore/",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Secondary French breed guide reporting secondary weight (30–32 kg), height (62–72 cm males, 60–68 cm females), and lifespan (10–12 years) estimates alongside general large-hound care, grooming (1–2 brushings/week, post-outing ear checks), and feeding (2 meals/day) advice.",
+    publisher: "Woopets"
+  },
+  "fci-japanese-chin-standard": {
+    id: "fci-japanese-chin-standard",
+    name: "FCI — Japanese Chin Official Breed Standard No. 206",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/206g09-en.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2016-04-04",
+    accessedOn: "2026-10-21",
+    note: "Official valid standard published 4 April 2016.",
+  },
+  "japanese-chin-club-of-america-akc-standard": {
+    id: "japanese-chin-club-of-america-akc-standard",
+    name: "Japanese Chin Club of America — AKC Breed Standard",
+    publisher: "Japanese Chin Club of America",
+    url: "https://japanesechinclubofamerica.org/akc-breed-standard/",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2011-11-30",
+    accessedOn: "2026-10-21",
+    note: "Standard approved 11 October 2011 and effective 30 November 2011.",
+  },
+  "american-kennel-club-japanese-chin": {
+    id: "american-kennel-club-japanese-chin",
+    name: "American Kennel Club — Japanese Chin",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/japanese-chin/",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed profile and health information.",
+  },
+  "japanese-chin-club-of-america-faq": {
+    id: "japanese-chin-club-of-america-faq",
+    name: "Japanese Chin Club of America — Frequently Asked Questions",
+    publisher: "Japanese Chin Club of America",
+    url: "https://japanesechinclubofamerica.org/frenquently-asked-questions/",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: "2023-05-02",
+    accessedOn: "2026-10-21",
+    note: "Breed traits, grooming, lifespan, and heat-care guidance.",
+  },
+  "japanese-chin-club-of-america-health-testing": {
+    id: "japanese-chin-club-of-america-health-testing",
+    name: "Japanese Chin Club of America — Health Testing Recommendations",
+    publisher: "Japanese Chin Club of America",
+    url: "https://japanesechinclubofamerica.org/jcca-health-testing-recommendations/",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: "2023-06-24",
+    accessedOn: "2026-10-21",
+    note: "Breed-club recommendations covering eyes, patellas, heart, and GM2 gangliosidosis.",
+  },
+  "royal-kennel-club-japanese-chin-health-standard": {
+    id: "royal-kennel-club-japanese-chin-health-standard",
+    name: "The Royal Kennel Club — Japanese Chin Health Standard",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/toy/japanese-chin/",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Health testing guidance, including eye testing and BOAS respiratory assessment.",
+  },
+  "wikimedia-japanese-chin-dog-pointer8": {
+    id: "wikimedia-japanese-chin-dog-pointer8",
+    name: "Wikimedia Commons — Japanese Chin dog.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Japanese_Chin_dog.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Creator: Pointer8. CC BY-SA 3.0; commercial reuse requires attribution and compliance with share-alike terms.",
+  },
+  "wikimedia-japanese-chin-tom-mooring": {
+    id: "wikimedia-japanese-chin-tom-mooring",
+    name: "Wikimedia Commons — Japanese Chin.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Japanese_Chin.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Photographer: Tom Mooring. CC BY-SA 2.0; commercial reuse requires attribution and compliance with share-alike terms.",
+  },
+  "wikimedia-japan-chin-arek-malyska": {
+    id: "wikimedia-japan-chin-arek-malyska",
+    name: "Wikimedia Commons — Japan chin.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Japan_chin.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Creator: Arek Małyska. CC BY-SA 4.0; commercial reuse requires attribution and compliance with share-alike terms.",
   },
 });
 
