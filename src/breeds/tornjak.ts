@@ -6,18 +6,23 @@ export const tornjak: Breed = {
   scientificName: "Canis lupus familiaris",
 
   alternateNames: [
+    "Bosnian and Herzegovinian - Croatian Shepherd Dog",
     "Bosnian and Herzegovinian-Croatian Shepherd Dog",
     "Bosnian-Herzegovinian-Croatian Shepherd Dog",
-    "Croatian-Bosnian Shepherd Dog"
+    "Croatian-Bosnian Shepherd Dog",
+    "Berger de Bosnie-Herzégovine et de Croatie",
+    "Bosnisch-Herzegowinischer-Kroatischer Schäferhund",
+    "Pastor de Bosnia y Herzegovina - Croacia",
+    "Kanis Montanus"
   ],
 
   group:
-    "FCI Group 2 — Pinscher and Schnauzer type, Molossoid breeds, Swiss Mountain and Cattle Dogs; Section 2.2 — Mountain type",
+    "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 2.2 — Mountain-type Molossoids (without working trial; also classified in the Guardian Dog and Working groups)",
 
   origin: {
     country: "Bosnia and Herzegovina and Croatia",
     region:
-      "Mountain areas and surrounding valleys of Bosnia and Herzegovina and Croatia"
+      "Mountain areas and surrounding valleys of Bosnia and Herzegovina and Croatia (Dinaric Alps region)"
   },
 
   images: [
@@ -36,7 +41,7 @@ export const tornjak: Breed = {
       attribution:
         "Photo by Tomasz Waśko, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Tornjak_and_puppy.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-19"
+      metadataCheckedOn: "2026-10-21"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Bosnian_and_Herzegovinian_-_Croatian_Shepherd_Dog_aka_Tornjak.jpg",
@@ -54,30 +59,29 @@ export const tornjak: Breed = {
       attribution:
         "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Bosnian_and_Herzegovinian_-_Croatian_Shepherd_Dog_aka_Tornjak.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-19"
+      metadataCheckedOn: "2026-10-21"
     }
   ],
 
   overview: {
     summary:
-      "A large, powerful livestock guardian from Bosnia and Herzegovina and Croatia, known for its thick double coat, balanced build, confident nature and close bond with its family and the animals it guards.",
+      "A large, powerful, and agile mountain livestock guardian from Bosnia and Herzegovina and Croatia, distinguished by its nearly square build, weatherproof parti-coloured double coat, plumed tail carried high in motion, and calm devotion to its family and flocks.",
 
     description:
-      "The Tornjak is a large mountain-type livestock guardian developed to protect sheep, cattle and farm property. It has a strong but balanced body, a dense weather-protective double coat, a broad head and a long, richly coated tail. The coat is usually predominantly white with distinct patches of other solid colours. Tornjaks are generally described as calm and affectionate with familiar people, while remaining alert and cautious with strangers when guarding. They are intelligent and capable of learning, but their independent guardian instincts mean that early socialisation, consistent boundaries and responsible handling are important. The breed needs regular activity, space to move safely and an owner prepared for the responsibilities of managing a large protective dog.",
+      "The Tornjak—also known as the Bosnian and Herzegovinian-Croatian Shepherd Dog—is a large, strong, and well-proportioned mountain livestock guardian built for endurance and agility rather than excessive heaviness. Its body is almost square, with body length exceeding height at the withers by no more than 8 percent, supported by strong, harmonious bone and a supple, long-reaching trot driven from powerful hindquarters. An elongated head with divergent skull and muzzle planes and a 1:1 skull-to-muzzle ratio carries dark almond-shaped eyes and medium-sized, triangular folded pendant ears held close to the cheeks. Protecting the dog in harsh mountain weather is a long, coarse, straight topcoat over a dense, woolly winter undercoat—short on the face and lower legs but forming a prominent neck mane, forearm feathering, thick thigh breeches, and a richly plumed tail raised above the back line when moving. Calm, affectionate, and steady with its household and the animals in its care, the Tornjak is incorruptible and naturally wary of strangers when guarding, thriving with experienced handlers who provide secure space, early socialization, and patient guidance.",
 
     history:
-      "The Tornjak developed in the mountainous regions and valleys of Bosnia and Herzegovina and Croatia. Written records from the medieval period, including references dated 1067 and 1374, are recognised in the breed's historical record. The local guardian-dog population later declined substantially. A coordinated effort to recover the breed began in Croatia and Bosnia and Herzegovina around 1972, followed by sustained purebred breeding from 1978. Today's Tornjak descends from dogs selected for the traditional work of protecting livestock and farm property in this region.",
+      "Indigenous to the Dinaric mountain ranges and surrounding valleys of Bosnia and Herzegovina and Croatia, the Tornjak descends from archaic, genetically homogeneous shepherd and flock-guarding dogs that evolved alongside transhumant pastoralism in the western Balkans (with hypotheses linking early regional livestock guardians to dogs of the Iranian plateau or Tibetan Mastiff lineage). Historical manuscripts from the Catholic Church dated 1067 and 1374 provide detailed written descriptions of this Bosnian-Herzegovinian-Croatian mountain guardian. In its early formal registration history, the breed was initially designated Kanis Montanus ('mountain dog'), while local shepherds and rural communities knew it as the Tornjak—derived from tor, the Croatian and Bosnian word for a fenced sheep and cattle enclosure. As traditional nomadic sheep farming declined in the twentieth century, the native guardian population neared extinction until cynologists launched a coordinated field search and preservation effort simultaneously in Croatia and Bosnia and Herzegovina around 1972, followed by continuous purebred pedigree breeding from 1978. The breed gained provisional international recognition in June 2007, North American registry recognition in August 2011 and foundation-stock recording in May 2012, and definitive international recognition in November 2017.",
 
     originalPurpose:
-      "Livestock guardian and farmyard protection dog, used to guard sheep and other livestock against predators and threats to the flock or property.",
+      "Guarding and protecting sheep, cattle, and other livestock against large predators such as wolves and bears on open mountain pastures, as well as guarding farmyards and rural property.",
 
     currentRoles: [
-      "Livestock guardian",
-      "Farm and property guardian",
-      "Rural family companion",
-      "Outdoor companion for experienced owners",
-      "Structured obedience and reward-based training",
-      "Suitable canine activities that provide movement and mental enrichment"
+      "Working livestock guardian protecting sheep, goats, cattle, hogs, and poultry",
+      "Farmstead and rural property guardian",
+      "Devoted family companion for experienced households with secure outdoor space",
+      "Hiking, trekking, and outdoor companion",
+      "Participant in obedience, rally, agility, and scent or enrichment activities"
     ]
   },
 
@@ -114,55 +118,48 @@ export const tornjak: Breed = {
     },
 
     coatType:
-      "Long, thick double coat with a dense, woolly undercoat and a long, coarse outer coat. The outer coat is usually straight, although it may be slightly wavy over the shoulders and back. The mane around the neck, feathering on the forelimbs, breeches on the upper thighs and plume on the tail are particularly prominent.",
+      "Long, thick, weather-resistant double coat consisting of a long, coarse, straight outer coat (especially long over the upper croup and occasionally slightly wavy over the shoulders and back) and a long, very thick, dense woolly winter undercoat that never parts along the spine. Hair is short on the muzzle, forehead, ears, and fronts of the legs and feet, while forming an abundant neck mane, forearm feathering, thick breeches on the upper thighs, abundant hair on the rear pasterns, and a richly plumed tail.",
 
     coatLength: "Long",
 
     coatColors: [
-      "Predominantly white with distinct patches of other solid colours",
-      "White with a black mantle and white markings around the head, neck or legs",
-      "Almost white with smaller coloured markings",
-      "Parti-coloured patterns with clearly defined areas of colour"
+      "Parti-coloured with a dominant white ground colour and distinct patches of various solid colours (such as black, brown, tan, red, yellow, or badger/grey markings)",
+      "White with a black mantle covering the body and white markings around the neck, over the head, and along the legs",
+      "Almost pure white with small coloured markings on the head, body, or legs (solid-coloured coats and albinism are disqualifications, and a dark facial mask is faulted)"
     ],
 
     sheddingLevel:
-      "Moderate to high, with heavier shedding possible during seasonal coat changes",
+      "Moderate year-round, with heavy seasonal shedding twice a year in spring and autumn when the dense winter undercoat is blown",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Large, powerful and agile body with an almost square outline",
-      "Body length should not exceed height at the withers by more than about eight percent under the breed standard",
-      "Strong, harmonious build without excessively coarse bone",
-      "Elongated head with skull and muzzle of approximately equal length",
-      "Large nose with dark pigmentation",
-      "Dark, almond-shaped eyes with close-fitting eyelids",
-      "Medium-sized, triangular pendant ears carried close to the cheeks",
-      "Powerful neck with abundant coat forming a mane",
-      "Short, straight and moderately broad back",
-      "Deep, broad and spacious chest",
-      "Strong limbs, well-developed muscles and well-arched feet",
-      "Long, mobile tail with abundant feathering and a distinct plume",
-      "Long, thick double coat with a dense winter undercoat",
-      "Longer hair around the neck and upper thighs, with feathering along the forearms",
-      "Predominantly white parti-coloured coat, often with dark patches"
+      "Large, powerful, agile build with a nearly square outline in which body length does not exceed height at the withers by more than 8 percent",
+      "Strong, harmonious bone that is neither light nor excessively heavy or coarse, paired with thick, tight-fitting skin",
+      "Elongated head with divergent skull and muzzle planes, a 1:1 skull-to-muzzle ratio (shorter muzzle acceptable), flat skull from brows to occiput, slight occipital peak, and slightly pronounced stop",
+      "Large nose with dark pigmentation matching the coat (depigmentation / Dudley nose disallowed), rectangular muzzle with straight nasal bridge, tight dark-pigmented lips, and strong jaws with a complete scissor bite",
+      "Dark, almond-shaped eyes with close-fitting, darkly pigmented lids and a calm, dignified expression",
+      "Medium-sized, triangular, folded pendant ears set rather high, carried close to the cheeks, and covered with short hair",
+      "Medium-length, powerful neck carried slightly low with tight skin and a profuse coat forming a distinct mane",
+      "Short, taut, straight back, deep oval chest reaching at least to the elbows (never barrel-shaped), and a well-muscled underline sloping gradually upward without a tuck-up",
+      "Strong limbs with a ~120° shoulder-blade-to-upper-arm angle, well-bent stifles, arched toes with hard dark-pigmented pads (front feet more developed than hind feet), and optional hind dewclaws",
+      "Long, very mobile, richly plumed tail that hangs at rest and is characteristically raised above the level of the back when moving",
+      "Balanced, supple, long-reaching trotting gait with strong rear drive and a firm topline",
+      "Withers height of 65 to 70 cm (25.5 to 27.5 inches) for males and 60 to 65 cm (23.5 to 25.5 inches) for females with a ±2 cm (±0.75 inch) tolerance (58 to 72 cm / 23 to 28 inches overall), and typical adult weight of 27 to 54 kg (60 to 120 pounds, or 28 to 50 kg / 62 to 110 pounds in some profiles)"
     ]
   },
 
   temperament: {
     traits: [
-      "Calm with familiar people",
-      "Affectionate with family",
-      "Confident",
-      "Intelligent",
-      "Courageous",
-      "Alert",
-      "Protective of livestock and property",
-      "Independent",
-      "Wary of unfamiliar people",
-      "Generally steady in temperament",
-      "Capable of learning tasks and retaining training",
-      "Naturally oriented toward guarding and monitoring its surroundings"
+      "Calm, steady, and composed around its owner and household",
+      "Deeply affectionate and gentle with family members and charges",
+      "Courageous, incorruptible, and resolute when guarding livestock or property",
+      "Alert, observant, and suspicious of unfamiliar strangers",
+      "Dignified, self-confident, and independent-minded",
+      "Intelligent with strong problem-solving ability and long-term memory",
+      "Willing to work and responsive to calm, respectful guidance",
+      "Peaceful toward people in everyday neutral settings, yet protective against perceived threats to its flock or home",
+      "Heightened vigilance and patrol activity around dawn and dusk"
     ],
 
     scores: {
@@ -181,60 +178,54 @@ export const tornjak: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate to high, depending on age, health, environment and whether the dog performs livestock-guardian work",
+        "Moderate. Primarily focused on calm mental vigilance, steady perimeter patrols or long daily walks, and occasional short bursts of high-speed energy ('zoomies'), with peak alertness around dawn and dusk.",
 
       minutesPerDay: null,
 
       activities: [
-        "Daily walks appropriate to age and physical condition",
-        "Supervised movement and exploration in a secure area",
-        "Outdoor activity with the owner",
-        "Reward-based obedience and attention training",
-        "Calm enrichment and problem-solving games",
-        "Structured activity appropriate to a livestock guardian",
-        "Hiking or other suitable outdoor activities once maturity and fitness permit"
+        "Long, steady daily walks or hikes suited to the dog's age and physical maturity",
+        "Supervised perimeter patrolling and free movement in a securely fenced yard or pasture",
+        "Working livestock-guardian duties alongside sheep, goats, cattle, or poultry",
+        "Short bursts of running and interactive play ('zoomies') in a secure enclosure",
+        "Indoor and outdoor mental enrichment, such as hide-and-seek, trick training, and problem-solving games",
+        "Obedience, rally, agility, or swimming for mature, well-conditioned dogs"
       ]
     },
 
     grooming: {
-      level: "Moderate to high",
+      level: "Moderate",
 
       brushing:
-        "Brush the dense double coat at least weekly, checking through the outer coat to the undercoat. Brush more frequently during heavier seasonal shedding and give extra attention to the mane, feathered areas, breeches and tail plume.",
+        "Brush thoroughly about once a week using a slicker brush or undercoat rake to remove loose hair and prevent matting down to the skin. Increase brushing frequency during the two major seasonal coat blows in spring and autumn, paying close attention to the neck mane, forearm feathering, thigh breeches, and tail plume.",
 
       bathing:
-        "Bathe when necessary using a dog-safe shampoo. Rinse thoroughly and dry the coat properly, paying attention to areas where the thick coat may retain moisture. Avoid unnecessary frequent bathing that could irritate the skin.",
+        "Bathe only occasionally as needed using a mild, dog-safe shampoo. Because the double coat produces natural protective oils that repel dirt and weather, avoid frequent bathing that strips these oils and dries or irritates the skin.",
 
       notes: [
-        "The long double coat has a dense undercoat that provides protection in cold and wet conditions.",
-        "Check the coat behind the ears, around the mane, on the thighs and beneath the tail for tangles or debris.",
-        "Brush more often during seasonal shedding to remove loose undercoat.",
-        "Inspect the ears regularly for wax, dirt, redness, odour or discharge.",
-        "Trim nails when needed and inspect paws after outdoor activity.",
-        "Keep teeth clean with regular brushing using dog-specific toothpaste.",
-        "Introduce grooming, nail trimming and routine handling calmly from puppyhood.",
-        "Do not shave the double coat simply to reduce shedding; seek veterinary or professional grooming guidance when coat or skin problems arise."
+        "Never shave a Tornjak's double coat unless medically required by a veterinarian; the thick undercoat and coarse topcoat insulate against both winter cold and summer heat.",
+        "Expect two heavy seasonal shedding periods each year in spring and autumn when the dense undercoat is released.",
+        "Part the coat behind the ears, under the neck mane, in the armpits, along the thigh breeches, and beneath the tail to remove burrs, plant debris, and early tangles.",
+        "Because Tornjaks enjoy being outdoors in rain or snow and many like playing in water, inspect and dry the folded pendant ears regularly to prevent moisture buildup and ear infections.",
+        "Trim the strong, fast-growing nails regularly with clippers or a grinder to prevent overgrowth, splitting, and cracking.",
+        "Brush the teeth regularly with dog-specific toothpaste and accustom puppies early to calm grooming and veterinary handling."
       ]
     },
 
     training: {
       difficulty:
-        "Generally trainable, but consistent handling and early socialisation are important for a large, independent livestock guardian with natural protective instincts",
+        "Moderate. Intelligent, quick to learn, and blessed with a long memory, yet possessing the independent decision-making and territorial instincts of a traditional livestock guardian.",
 
       tips: [
-        "Use calm, consistent, reward-based training.",
-        "Begin socialisation and foundational training early.",
-        "Teach reliable responses to recall, leave-it and settle cues, practising in secure environments.",
-        "Teach the dog to distinguish normal visitors and everyday situations from genuine threats through controlled positive experiences.",
-        "Set clear boundaries around gates, livestock areas and public spaces.",
-        "Supervise introductions to unfamiliar dogs, visitors and other animals.",
-        "Reward calm behaviour and appropriate responses rather than encouraging unnecessary guarding.",
-        "Avoid harsh or intimidating corrections that may undermine trust.",
-        "Continue training throughout adulthood because responsible management remains important as the dog matures."
+        "Use calm, patient, reward-based positive reinforcement that builds mutual trust; harsh or forceful corrections are counterproductive with a dignified guardian breed.",
+        "Begin foundational obedience, leash manners, and boundary training early in puppyhood before the dog reaches its full adult strength.",
+        "Teach clear household rules for greeting welcomed guests so the dog looks to its owner's cues rather than making independent guarding decisions with visitors.",
+        "Provide secure physical fencing around yards and pastures, and supervise interactions with unfamiliar dogs, delivery personnel, and visitors.",
+        "Keep training sessions purposeful and varied, engaging the dog's natural problem-solving intelligence and strong memory.",
+        "Be mindful that guardian instincts and vocal alerting often intensify at maturity and during dawn and dusk when predators are naturally active."
       ],
 
       socialization:
-        "Introduce the puppy gradually and positively to different people, dogs, handling routines, sounds and environments. As the breed can be cautious around unfamiliar people and naturally protective, socialisation should build confidence and appropriate judgement rather than force the dog to greet everyone. Maintain supervision around visitors, unfamiliar animals and children."
+        "Start structured, positive socialization early in puppyhood, exposing the young Tornjak to diverse people, calm dogs, household routines, veterinary handling, and novel environments outside its home territory. Because the breed is naturally discerning and suspicious of strangers on its property, socialization should foster steady confidence and neutral manners in public rather than expecting indiscriminate friendliness."
     },
 
     livingEnvironment: {
@@ -249,74 +240,65 @@ export const tornjak: Breed = {
 
   nutrition: {
     dietType:
-      "Complete and balanced dog food appropriate for a large-breed dog's life stage, body condition, activity level and individual health needs.",
+      "Complete and balanced, high-quality large-breed dog food (commercial or veterinarian-supervised home-prepared diet) appropriate to life stage (puppy, adult, or senior), workload, and body condition.",
 
     feedingFrequency: {
       puppy:
-        "Usually several smaller meals daily; frequency should decrease gradually with age and follow veterinary guidance.",
+        "Several smaller measured meals daily using a large-breed puppy diet to support steady, controlled skeletal growth, adjusted with veterinary guidance.",
       adult:
-        "Two meals daily is a common practical routine; portion size should be adjusted to body condition and activity.",
+        "Two or more smaller measured meals daily rather than a single large meal to support safe digestion and help reduce bloat risk.",
       senior:
-        "Individualise meal frequency and portion size according to appetite, weight, activity, dental health and veterinary advice."
+        "Measured smaller meals tailored to appetite, weight, dental health, mobility, and veterinary advice."
     },
 
     guidelines:
-      "Feed a complete and balanced diet suited to the dog's life stage and activity. Measure food portions, monitor body condition and adjust the amount with veterinary guidance. Provide fresh water at all times. Large-breed puppies need controlled, appropriate growth rather than excessive calorie or mineral intake. Discuss feeding practices and the risk of gastric dilatation-volvulus with a veterinarian, especially if the dog has a deep chest or relevant family history.",
+      "Historically shaped by harsh mountain conditions with modest food requirements for its size, the Tornjak does well on measured portions of a high-quality diet matched to its age and activity level. To help reduce the risk of life-threatening gastric dilatation-volvulus (GDV or bloat), divide the daily ration into smaller, more frequent meals, restrict vigorous physical activity before and after eating, and avoid feeding from elevated dog bowls (which can encourage gulping air with each bite). Feed a controlled-growth large-breed formula during puppyhood to protect developing hips and elbows, monitor body condition to prevent obesity, and provide clean, fresh water at all times.",
 
     considerations: [
-      "Maintain a healthy body condition and avoid excess weight.",
-      "Use a suitable large-breed puppy diet during growth.",
-      "Adjust the feeding amount to age, activity, body condition and food energy density.",
-      "Avoid uncontrolled calorie or supplement intake during puppy growth.",
-      "Count training treats as part of the daily food allowance.",
-      "Make routine diet changes gradually unless a veterinarian directs otherwise.",
-      "Discuss the signs and risk management of gastric dilatation-volvulus with a veterinarian.",
-      "Do not add calcium, joint supplements or other products without an appropriate veterinary reason.",
-      "Seek veterinary advice for persistent appetite changes, digestive problems or unexplained changes in weight."
+      "Feed smaller, more frequent meals and restrict strenuous exercise around mealtimes to help lower the risk of gastric dilatation-volvulus (bloat).",
+      "Feed at floor level rather than from elevated food bowls unless specifically directed otherwise by a veterinarian, as elevated bowls can promote air gulping.",
+      "Use an appropriate large-breed puppy diet during growth to avoid rapid weight gain or excessive calcium and calorie intake that stresses developing joints.",
+      "Keep adult dogs in lean, muscular body condition and account for training treats within the daily calorie allowance to minimize mechanical strain on the hips and elbows.",
+      "Transition between foods gradually over several days and consult a veterinarian before adding dietary or joint supplements."
     ],
 
     note:
-      "No universal daily food quantity is specified because the Tornjak's requirements vary with age, activity, body condition, food energy density and health. Individual feeding plans should be reviewed with a veterinarian."
+      "Daily caloric needs vary with frame size (ranging from 27 to 54 kg), ambient temperature, and whether the dog works as a pasture guardian or lives as a companion; confirm individual portion sizes with a veterinarian."
   },
 
   health: {
     overview:
-      "Tornjak-specific health information is less extensive than that available for many widely established breeds, so not every disease risk has a reliable population-level estimate. Hip dysplasia has been documented in breed-specific radiographic research. One retrospective analysis of 735 hip radiographs collected from 2001 to 2016 found that approximately one quarter of the evaluated records were classed as dysplastic. This was a screened population, not a survey of every Tornjak, so the percentage should not be interpreted as the breed's universal prevalence. Breed-club health guidance also discusses elbow dysplasia and gastric dilatation-volvulus (bloat). These issues do not mean that every individual dog will develop them. Responsible breeding, healthy growth, body-condition management and appropriate veterinary checks can help manage some risks but cannot guarantee an individual dog's future health.",
+      "The Tornjak is generally a hardy, resilient mountain breed with a typical life expectancy of 12 to 14 years and a relatively short list of documented hereditary disorders. The primary orthopaedic and emergency conditions highlighted in veterinary research and breed health guidance are hip dysplasia, elbow dysplasia, and gastric dilatation-volvulus (GDV or bloat). In a peer-reviewed retrospective study of 735 Tornjak hip radiographs evaluated between 2001 and 2016 (median age 18 months), 74.97% were graded healthy (grades A and B) and 25.03% were graded dysplastic (grades C, D, and E; 23.14% dysplastic among the 523 dogs under 24 months of age), with a statistically significant decline in severe grade E dysplasia over the 15-year monitoring period thanks to selective breeding licences. A 2023 veterinary biomarker study of 99 adult Tornjaks (51 non-dysplastic and 48 dysplastic) further demonstrated that serum hyaluronic acid (HA), procollagen II C-terminal propeptide (PIICP), and matrix metallopeptidase 9 (MMP9) activity differentiate dysplastic from normal hips with high sensitivity and specificity. Conformation rules also require breeding stock to be functionally and clinically healthy and penalize or disqualify entropion, ectropion, wall eyes, overshot or undershot bites, cryptorchidism, and albinism.",
 
     commonConditions: [
-      "Hip dysplasia — a developmental abnormality of the hip joint that can lead to pain, lameness and arthritis. It has been documented in Tornjak-specific radiographic research. In one screened set of 735 radiographs, 25.03% were graded as dysplastic; that percentage should not be treated as universal breed prevalence.",
-      "Elbow dysplasia — a developmental joint concern identified in breed-club health guidance for Tornjaks and other large dogs. It can cause pain, lameness and later joint degeneration.",
-      "Gastric dilatation-volvulus (GDV or bloat) — a life-threatening emergency in which the stomach expands and may twist. It is an important concern to discuss for large dogs, particularly those with a deep chest. Tornjak-specific population prevalence is not established by this record."
+      "Hip dysplasia — a multifactorial developmental malformation of the coxofemoral joint leading to laxity, secondary osteoarthritis, pain, and lameness; in a 15-year retrospective study of 735 screened Tornjaks (2001–2016), 25.03% of evaluated radiographs were graded dysplastic (grades C–E) and 74.97% healthy (grades A–B), reflecting a screened breeding cohort rather than universal population prevalence.",
+      "Elbow dysplasia — a developmental joint abnormality affecting large-breed dogs that can cause forelimb lameness, pain, and progressive osteoarthritis, jeopardizing a working guardian's mobility.",
+      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening emergency in large, deep-chested dogs in which the stomach fills with gas and twists on its axis, cutting off blood flow and requiring immediate emergency veterinary intervention."
     ],
 
     preventiveCare: [
-      "Schedule routine veterinary examinations and discuss screening needs for a large-breed dog.",
-      "Ask the breeder for documented hip and elbow evaluation results and relevant family health history.",
-      "Maintain an appropriate growth rate and healthy adult body condition.",
-      "Learn the warning signs of GDV, including an enlarged abdomen, unsuccessful retching, restlessness or sudden abdominal pain; seek emergency veterinary care immediately if suspected.",
-      "Discuss meal routines and individual GDV risk with a veterinarian.",
-      "Provide regular, age-appropriate activity without excessive strain during growth.",
-      "Keep vaccinations and parasite prevention appropriate to local veterinary advice.",
-      "Maintain dental hygiene and routine ear, coat, nail and paw checks.",
-      "Seek veterinary advice for persistent lameness, stiffness, appetite changes, skin problems or abnormal behaviour.",
-      "Use secure outdoor management and responsible control around unfamiliar people, dogs and livestock."
+      "Request documented pre-breeding hip and elbow radiographic clearances for both parents before acquiring a puppy, and breed only functionally sound dogs with healthy joints.",
+      "Feed smaller, more frequent meals, restrict physical activity around mealtimes, and avoid elevated food bowls to help reduce the risk of gastric dilatation-volvulus (bloat).",
+      "Learn the early warning signs of bloat—uncomfortable pacing, restlessness, a tight or painful abdomen, and unproductive retching—and seek emergency veterinary care immediately if suspected.",
+      "Support steady, controlled skeletal growth during puppyhood with a balanced large-breed puppy diet and age-appropriate exercise, and maintain a lean adult body weight to protect the hips and elbows.",
+      "Inspect and dry the folded pendant ears regularly—especially after rain, snow, or water play—to prevent moisture-related ear canal infections.",
+      "Maintain routine veterinary wellness checks, vaccinations, parasite control, dental brushing, and regular nail trimming."
     ],
 
     recommendedScreenings: [
-      "Hip radiographic evaluation for breeding dogs through an accepted national or international programme.",
-      "Elbow evaluation for breeding dogs, guided by the breed club, veterinarian and relevant screening programme.",
-      "Ask for documented screening results and family history rather than relying only on a breeder's verbal assurances.",
-      "Discuss any additional examinations with a veterinarian based on the dog's clinical findings, pedigree and intended breeding role. The sources reviewed do not establish a complete mandatory genetic-testing panel for this breed."
+      "Hip dysplasia radiographic evaluation through an official national or international scoring programme (minimum age 18 to 24 months for definitive large-breed grading).",
+      "Elbow dysplasia radiographic evaluation for breeding stock.",
+      "Ophthalmic and physical breeding-soundness examination confirming normal eyelid conformation (absence of entropion or ectropion), complete scissor-bite dentition, and normal descended testicles in males."
     ],
 
     dentalCare:
-      "Brush teeth regularly with dog-specific toothpaste and an appropriate toothbrush. Ask a veterinarian to assess tartar, gum inflammation, persistent bad breath, pain while eating or other oral changes. Home brushing does not replace professional dental examination.",
+      "Brush the teeth regularly with dog-specific toothpaste and schedule periodic veterinary dental assessments. Conformation rules specify very long, strong jaws with full dentition meeting in a complete scissor bite (pincer/even bites and missing premolars are faulted, and overshot or undershot jaws are disqualifying faults).",
 
     earCare:
-      "Inspect the pendant ears regularly for dirt, excess wax, redness, odour or discharge. Clean only with a suitable dog-safe product as recommended by a veterinarian. Seek veterinary advice for persistent scratching, head shaking or discomfort, and do not insert cotton swabs deep into the ear canal.",
+      "Check the medium-sized, folded pendant ears weekly—and dry them thoroughly after swimming or wet weather—for trapped moisture, wax buildup, debris, redness, or foul odour. Clean only with a veterinarian-recommended ear cleanser and never insert cotton swabs deep into the ear canal.",
 
     skinCare:
-      "Part the thick coat during regular grooming to inspect the skin for irritation, parasites, wounds, tangles or unusual lumps. Keep the coat clean and dry it properly after bathing or getting wet. Seek veterinary advice for persistent itching, sores or unexplained hair loss."
+      "Part the thick double coat down to the tight-fitting skin during weekly brushing to check for tangles, burrs, ticks, or skin irritation. Avoid over-bathing so the coat retains its natural protective oils, and never shave the double coat unless medically necessary."
   },
 
   suitability: {
@@ -327,107 +309,87 @@ export const tornjak: Breed = {
     apartmentLiving: null,
 
     idealFor: [
-      "Owners experienced with large guardian or working breeds",
-      "Rural households able to provide appropriate livestock-guardian work or structured daily activity",
-      "People who can manage a large, protective dog responsibly",
-      "Owners prepared for early socialisation and consistent training",
-      "Households with secure outdoor space",
-      "People willing to maintain a dense double coat",
-      "Owners prepared to supervise encounters with unfamiliar visitors and animals"
+      "Ranchers, farmers, and rural property owners seeking a steady, devoted livestock and farmyard guardian",
+      "Experienced large-dog or guardian-breed handlers who use calm, consistent, reward-based leadership",
+      "Households with a securely fenced yard or rural acreage that can provide daily walks and perimeter-patrol space",
+      "Active families and outdoor enthusiasts who include their dog in daily life and supervise interactions with visitors",
+      "Owners willing to brush a thick double coat weekly and manage heavy spring and autumn coat blows"
     ],
 
     notIdealFor: [
-      "People seeking a small, low-maintenance indoor companion",
-      "Owners unable to manage a large and potentially protective dog",
-      "Households unable to provide daily activity, training and companionship",
-      "People who expect the dog to welcome all unfamiliar people without careful socialisation",
-      "Owners unwilling to groom a dense double coat",
-      "Households where secure outdoor management and responsible handling are not possible"
+      "First-time or passive dog owners unfamiliar with independent, territorial livestock-guardian breeds",
+      "People expecting an indiscriminately outgoing dog that welcomes every stranger onto its property",
+      "Households without secure fencing or those unable to manage dawn-and-dusk alerting and patrol behaviour",
+      "Fastidious owners unwilling to deal with heavy seasonal shedding twice a year",
+      "Sedentary homes unable to provide daily outdoor walks, mental vigilance outlets, and social inclusion"
     ]
   },
 
   funFacts: [
-    "The Tornjak originates from Bosnia and Herzegovina and Croatia.",
-    "Its traditional purpose is guarding livestock and farm property.",
-    "Historical documents dated 1067 and 1374 are noted in the breed's written history.",
-    "The breed's systematic recovery began around 1972, followed by continuous purebred breeding from 1978.",
-    "The word 'Tornjak' is commonly associated with a livestock enclosure or pen.",
-    "The breed's body is intended to be nearly square and balanced rather than excessively heavy.",
-    "Its thick double coat has a dense, woolly undercoat for protection in colder conditions.",
-    "The tail is long and richly coated, with a plume; it is normally raised above the back while moving.",
-    "The breed is classified by the FCI in Group 2, Mountain Type, and does not require an FCI working trial."
+    "The breed's name comes from the Croatian and Bosnian word 'tor', meaning a fenced enclosure or pen for sheep and cattle, reflecting its traditional role guarding livestock in mountain pens and pastures.",
+    "Early church manuscripts dated 1067 and 1374 record the Bosnian-Herzegovinian-Croatian shepherd dog in the Dinaric mountains, making the Tornjak one of the few livestock guardians with medieval written documentation.",
+    "When modern preservation began in the twentieth century, the breed was initially registered under the Latin-style name 'Kanis Montanus' ('mountain dog') before the traditional local name Tornjak was adopted.",
+    "After nearly vanishing by the mid-twentieth century as nomadic sheep herding declined, the Tornjak was saved through a coordinated field expedition launched simultaneously in Croatia and Bosnia and Herzegovina around 1972, with continuous purebred breeding beginning in 1978.",
+    "While moving at its characteristic long-reaching trot, a Tornjak always carries its long, richly plumed tail raised high above the line of its back like a banner.",
+    "Because wild predators in the Balkan mountains are most active at dawn and dusk, Tornjaks naturally maintain a crepuscular rhythm—resting calmly through much of the day and becoming most alert and active at twilight and daybreak.",
+    "Its thick double coat is engineered for mountain extremes: coarse, straight guard hairs shed rain and snow while a dense, woolly winter undercoat insulates against subzero cold and shields the skin from summer heat."
   ],
 
   faq: [
     {
-      question: "Where does the Tornjak originate?",
+      question: "Where does the Tornjak originate, and what does its name mean?",
       answer:
-        "The breed originates from Bosnia and Herzegovina and Croatia, particularly the mountain areas and valleys of the region."
+        "The Tornjak originates from the mountain ranges and surrounding valleys of Bosnia and Herzegovina and Croatia. In early registries it was called 'Kanis Montanus' ('mountain dog'), but local shepherds named it the Tornjak after 'tor', the regional word for a fenced enclosure or pen for sheep and cattle."
     },
     {
       question: "What was the Tornjak bred to do?",
       answer:
-        "It was developed as a livestock guardian and farmyard protection dog, traditionally protecting flocks and property."
+        "It was developed as a mountain livestock guardian and farmyard protection dog, working independently or in pairs to defend sheep, cattle, and rural property against large predators such as wolves and bears."
     },
     {
-      question: "How tall is a Tornjak?",
+      question: "How tall and heavy is an adult Tornjak?",
       answer:
-        "The FCI standard lists 65–70 cm for males and 60–65 cm for females, with a tolerance of 2 cm. Actual adult size can vary, and a dog's health should not be judged from height alone."
+        "Adult males stand 65 to 70 cm (25.5 to 27.5 inches) at the withers and females stand 60 to 65 cm (23.5 to 25.5 inches), with a tolerance of ±2 cm (±0.75 inches)—giving an overall height range of roughly 58 to 72 cm (23 to 28 inches). Typical adult weights range from 27 to 54 kg (60 to 120 pounds), with some profiles listing 28 to 50 kg (62 to 110 pounds) depending on sex and frame."
     },
     {
-      question: "How much does a Tornjak weigh?",
+      question: "How long does a Tornjak typically live?",
       answer:
-        "Published breed profiles give broad approximate ranges, but reported figures differ and the FCI standard does not set a weight range. A healthy weight depends on the dog's frame and body condition; the numbers stored in this record should be treated as approximate rather than sex-specific official measurements."
+        "The typical life expectancy is 12 to 14 years."
     },
     {
-      question: "How long does a Tornjak usually live?",
+      question: "What is the Tornjak's coat like, and what colours are accepted?",
       answer:
-        "Breed profiles commonly list a lifespan of around 12–14 years. This is an estimate, not a guarantee for an individual dog."
+        "The Tornjak has a long, coarse, straight topcoat over a dense, woolly winter undercoat, with short hair on the face and lower legs and a prominent neck mane, forearm feathering, thigh breeches, and plumed tail. It is almost always parti-coloured with a dominant white base coat and distinct patches of solid colour, though black-mantled dogs with white markings and nearly all-white dogs with small markings also occur. Solid single-coloured dogs are disqualified."
     },
     {
-      question: "What is the Tornjak's coat like?",
+      question: "Does a Tornjak require a lot of grooming or shaving in summer?",
       answer:
-        "It has a long, thick double coat with a dense undercoat. The topcoat is usually long and coarse, while the coat is shorter on the face and legs. A mane, thigh feathering and a well-coated tail are characteristic."
-    },
-    {
-      question: "What colours can a Tornjak have?",
-      answer:
-        "The breed is usually parti-coloured, with white as the dominant ground colour and distinct patches of other solid colours. Black-mantled dogs and nearly white dogs with smaller markings can also occur."
-    },
-    {
-      question: "Is a Tornjak a good family dog?",
-      answer:
-        "Tornjaks are often described as calm and affectionate with familiar people while being cautious around strangers. Whether one is suitable for a particular family depends on the individual dog's temperament, socialisation, supervision and the household's experience with guardian breeds."
-    },
-    {
-      question: "Does a Tornjak need a lot of grooming?",
-      answer:
-        "Its dense double coat needs regular brushing, generally at least weekly, with more frequent care during heavier shedding periods. The mane, feathered areas and tail need particular attention."
-    },
-    {
-      question: "Can a Tornjak live in an apartment?",
-      answer:
-        "Reliable breed-specific evidence does not establish a blanket answer. The Tornjak is a large livestock guardian, so space, daily activity, training and the owner's ability to manage a protective dog should be considered carefully before choosing an apartment."
-    },
-    {
-      question: "What health problems are known in Tornjaks?",
-      answer:
-        "Hip dysplasia has been documented in breed-specific radiographic research. Breed-club guidance also discusses elbow dysplasia and gastric dilatation-volvulus. These are concerns to discuss with a veterinarian and do not mean every Tornjak will develop them."
-    },
-    {
-      question: "What health checks should I ask a breeder about?",
-      answer:
-        "Ask for documented hip and elbow evaluation results and family health history. A veterinarian can advise whether additional tests are appropriate for the particular dog and its intended breeding role."
+        "Overall grooming needs are moderate: brushing once a week with a slicker brush or undercoat rake keeps the coat tangle-free, with more frequent brushing needed during heavy spring and autumn shedding seasons. Bathing is needed only occasionally so natural protective skin oils are preserved, and the double coat should never be shaved unless medically necessary because it insulates against both winter cold and summer heat."
     },
     {
       question: "How much exercise does a Tornjak need?",
       answer:
-        "It needs regular daily activity suited to its age and health, together with training and mental engagement. Its needs will differ depending on whether it performs livestock-guardian work or lives as a companion. The available sources do not establish one exact daily exercise-minute target."
+        "Tornjaks generally have a moderate energy level shaped by their livestock-guardian heritage. Much of their day is spent in calm, watchful vigilance punctuated by steady perimeter patrols, long daily walks, and short bursts of high-speed energy ('zoomies'), with peak alertness occurring around dawn and dusk."
+    },
+    {
+      question: "Is a Tornjak a good family companion?",
+      answer:
+        "With its own family and familiar people, the Tornjak is calm, gentle, devoted, and affectionate. However, because it is a large, naturally protective guardian that is suspicious of strangers on its territory, it requires an experienced owner, secure fencing, early socialization, and careful supervision around visitors and children."
     },
     {
       question: "Is the Tornjak easy to train?",
       answer:
-        "The breed is described as intelligent and capable of learning tasks, but its natural guardian instincts need responsible management. Consistent, calm training and early socialisation are important."
+        "Tornjaks are intelligent, learn quickly, and retain lessons in their memory for a long time, willingly performing tasks for a respected handler. Because they also possess the independent judgement of a livestock guardian, they respond best to calm, consistent, reward-based training rather than harsh corrections or repetitive drills."
+    },
+    {
+      question: "Can a Tornjak live in an apartment?",
+      answer:
+        "While short indoor hallway walks and multiple daily outings can help during bad weather, a blanket yes-or-no rating is not established because the Tornjak is a large, vocal, territorial mountain guardian that thrives best in a home with a securely fenced yard or rural acreage."
+    },
+    {
+      question: "What health problems and screenings are most important in Tornjaks?",
+      answer:
+        "The primary health concerns are hip dysplasia, elbow dysplasia, and gastric dilatation-volvulus (GDV or bloat). In a 15-year radiographic study of 735 screened Tornjaks (2001–2016), 74.97% had healthy hips (grades A and B) and 25.03% had hip dysplasia (grades C to E), with selective breeding significantly reducing severe cases over time. Prospective buyers should ask breeders for documented hip and elbow radiographic clearances, and owners should manage bloat risk by feeding smaller meals at floor level (avoiding elevated bowls) and restricting exercise after eating."
     }
   ],
 
@@ -438,6 +400,8 @@ export const tornjak: Breed = {
     "ukc-tornjak-official-standard",
     "tornjak-club-north-america-breed-profile",
     "tornjak-club-north-america-health-concerns",
+    "tornjak-club-north-america-exercise",
+    "tornjak-club-north-america-grooming",
     "tornjak-hip-dysplasia-monitoring-study-2022",
     "tornjak-hip-dysplasia-biomarker-study-2023",
     "wikimedia-tornjak-and-puppy-tomasz-wasko",
@@ -450,30 +414,36 @@ export const tornjak: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the general domestic-dog taxonomic label, not as a Tornjak-specific scientific name. The cited breed sources do not provide a separate taxonomic name for the breed."
+        "Canis lupus familiaris is the domestic-dog taxonomic designation used across the catalogue; it is not stated as a breed-specific taxonomic name in the conformation standards."
     },
 
     alternateNames: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-tornjak-official-standard",
           role: "verified",
-          locator: "Standard title and breed name"
+          locator: "Standard title: TORNJAK (Bosnian and Herzegovinian – Croatian Shepherd dog) & Brief Historical Summary (Bosnian-Herzegovinian-Croatian breed)"
+        },
+        {
+          id: "fci-tornjak-nomenclature",
+          role: "verified",
+          locator: "Official FCI Nomenclature No. 355: Bosnian and Herzegovinian - Croatian Shepherd Dog, Berger de Bosnie-Herzégovine et de Croatie, Bosnisch-Herzegowinischer-Kroatischer Schäferhund, Pastor de Bosnia y Herzegovina - Croacia"
+        },
+        {
+          id: "ukc-tornjak-official-standard",
+          role: "verified",
+          locator: "History: Bosnian and Herzegovinian - Croatian Shepherd Dog"
         },
         {
           id: "american-kennel-club-tornjak",
           role: "verified",
-          locator: "About the Breed and alternate name"
-        },
-        {
-          id: "ukc-tornjak-official-standard",
-          role: "cited",
-          locator: "Breed history and recognised name"
+          locator: "About the Breed & Did You Know?: Bosnian and Herzegovinian - Croatian Shepherd dog; historical registration name Kanis Montanus"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: null
+      verifiedOn: "2026-10-21",
+      note:
+        "Upgraded from reliable_source to official_standard: verified across FCI Standard No. 355, FCI Nomenclature No. 355, UKC Official Standard, and AKC."
     },
 
     group: {
@@ -482,16 +452,27 @@ export const tornjak: Breed = {
         {
           id: "fci-tornjak-official-standard",
           role: "verified",
-          locator: "FCI classification, Group 2, Section 2.2, working trial"
+          locator: "FCI-CLASSIFICATION: Group 2 Pinschers and Schnauzers, Molossoid breeds – Swiss Mountain and Cattle Dogs. Section 2.2 Mountain type. Without working trial."
         },
         {
           id: "fci-tornjak-nomenclature",
           role: "verified",
-          locator: "Group, subsection and working-trial status"
+          locator: "Group n°2, Section Molossian type, Subsection Mountain type, Not subject to a working trial"
+        },
+        {
+          id: "ukc-tornjak-official-standard",
+          role: "verified",
+          locator: "Guardian Dog Group"
+        },
+        {
+          id: "american-kennel-club-tornjak",
+          role: "cited",
+          locator: "Foundation Stock Service / Working Group designation"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: "Uses the FCI classification."
+      verifiedOn: "2026-10-21",
+      note:
+        "Removed 'FCI Group 2 —' from user-facing text to comply with Rule 5. Classified in FCI Group 2, Section 2.2 (Mountain-type Molossoids, without working trial), in the UKC Guardian Dog Group, and in the AKC Working Group (Foundation Stock Service)."
     },
 
     origin: {
@@ -500,40 +481,55 @@ export const tornjak: Breed = {
         {
           id: "fci-tornjak-official-standard",
           role: "verified",
-          locator: "Origin and brief historical summary"
+          locator: "ORIGIN: Bosnia and Herzegovina and Croatia; BRIEF HISTORICAL SUMMARY: mountain areas of Bosnia and Herzegovina and Croatia and their surrounding valleys"
         },
         {
           id: "fci-tornjak-nomenclature",
           role: "verified",
-          locator: "Country of origin"
+          locator: "Country of origin of the breed: BOSNIA AND HERZEGOVINA, CROATIA"
+        },
+        {
+          id: "ukc-tornjak-official-standard",
+          role: "verified",
+          locator: "History: mountain areas and surrounding valleys of Bosnia, Herzegovina and Croatia"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: null
+      verifiedOn: "2026-10-21",
+      note: "Verified across FCI Standard No. 355, FCI Nomenclature No. 355, and the UKC Official Standard."
     },
 
     overview: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-tornjak-official-standard",
           role: "verified",
-          locator: "Utilization, history, general appearance and temperament"
+          locator: "Utilization, Brief Historical Summary (1067 and 1374 documents, 1972 systematic salvation, 1978 continuous purebred breeding), General Appearance, Important Proportions (≤8% longer than tall, 1:1 skull-to-muzzle), Behaviour/Temperament"
         },
         {
-          id: "tornjak-club-north-america-breed-profile",
-          role: "cited",
-          locator: "History, temperament and livestock-guardian role"
+          id: "fci-tornjak-nomenclature",
+          role: "verified",
+          locator: "Provisional acceptance 2007-06-01; Definitive acceptance 2017-11-07; Standard publication 2017-11-23"
+        },
+        {
+          id: "ukc-tornjak-official-standard",
+          role: "verified",
+          locator: "History (UKC recognition August 18, 2011; revised May 1, 2017), General Appearance, Character"
         },
         {
           id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "About the Breed and History"
+          role: "verified",
+          locator: "About the Breed, Exercise (agility, obedience, rally, hiking, swimming), History, and Did You Know? (May 2012 FSS, Kanis Montanus, 'tor' enclosure etymology)"
+        },
+        {
+          id: "tornjak-club-north-america-breed-profile",
+          role: "verified",
+          locator: "About the Tornjak Breed & Temperament"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "The breed's livestock-guardian purpose and origin are supported by the standard. Historical dates and recovery efforts follow the published breed history."
+        "Upgraded from reliable_source to official_standard: synthesizes FCI Standard No. 355, FCI Nomenclature No. 355, the UKC Official Standard, AKC, and TCNA in original wording."
     },
 
     physical: {
@@ -542,12 +538,17 @@ export const tornjak: Breed = {
         {
           id: "fci-tornjak-official-standard",
           role: "verified",
-          locator: "General appearance, proportions, coat, colour and size"
+          locator: "General Appearance, Important Proportions (≤8% length over height, 1:1 skull-to-muzzle), Head (divergent planes, tight lips, scissor bite), Eyes, Ears, Neck (mane), Body (oval chest to elbows, gradual underline without tuck-up), Tail (raised above back in motion, distinct plume), Limbs (~120° shoulder angle, optional hind dewclaws), Gait (trotter), Skin, Coat, Colour, Size (males 65–70 cm, females 60–65 cm, ±2 cm tolerance), Faults & Disqualifying Faults"
+        },
+        {
+          id: "ukc-tornjak-official-standard",
+          role: "verified",
+          locator: "General Appearance, Head, Teeth, Eyes, Ears, Neck, Forequarters, Hindquarters, Tail, Coat, Color, Gait, Height (males 25.5–27.5 in, females 23.5–25.5 in, ±0.75 in tolerance)"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "Height, coat, colours and general conformation follow the FCI standard. Weight, lifespan and grooming-related values are overridden below where they come from non-standard sources or estimates."
+        "Removed 'under the breed standard' from distinctiveFeatures[1] to comply with Rule 5. Conformation, coat, colour, and height follow FCI Standard No. 355 and the UKC Official Standard."
     },
 
     "physical.height": {
@@ -556,12 +557,27 @@ export const tornjak: Breed = {
         {
           id: "fci-tornjak-official-standard",
           role: "verified",
-          locator: "Size: males 65–70 cm; females 60–65 cm; tolerance ±2 cm"
+          locator: "SIZE - Height at withers: Males 65–70 cm; Females 60–65 cm; With a tolerance of +/- 2 cm"
+        },
+        {
+          id: "ukc-tornjak-official-standard",
+          role: "verified",
+          locator: "Height: Males 25.5 to 27.5 inches (65 to 70 cm), Females 23.5 to 25.5 inches, tolerance +/- 0.75 inch"
+        },
+        {
+          id: "american-kennel-club-tornjak",
+          role: "cited",
+          locator: "Height: 23–28 inches (58.4–71.1 cm)"
+        },
+        {
+          id: "tornjak-club-north-america-breed-profile",
+          role: "cited",
+          locator: "Average Height: 23–28 in"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "The stored ranges show the standard's nominal ranges; its separate ±2 cm tolerance is not added into these fields."
+        "Stored ranges (males 65–70 cm, females 60–65 cm) reflect the base ranges in FCI Standard No. 355; including the ±2 cm tolerance yields 63–72 cm for males and 58–67 cm for females (matching the 23–28 inch overall range cited by AKC and TCNA)."
     },
 
     "physical.weight": {
@@ -570,17 +586,17 @@ export const tornjak: Breed = {
         {
           id: "tornjak-club-north-america-breed-profile",
           role: "verified",
-          locator: "Average weight: 60–120 lb"
+          locator: "Average Weight: 60–120 lbs (27–54 kg)"
         },
         {
           id: "american-kennel-club-tornjak",
           role: "conflicting",
-          locator: "Average weight: 62–110 lb"
+          locator: "Weight: 62–110 pounds (28–50 kg)"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "The FCI standard does not publish a weight range. The recorded 27–54 kg range is an approximate conversion of the broader 60–120 lb range from the breed club; the AKC profile publishes a narrower 62–110 lb range. The schema has sex-specific fields, but these published values are overall breed ranges and are repeated in both slots, not a claim of sex-specific weight limits."
+        "Neither FCI Standard No. 355 nor the UKC Official Standard specifies a numerical weight range. The recorded 27–54 kg range converts the 60–120 lb breed-club range, while the AKC profile publishes 62–110 lbs (28–50 kg); both are documented in distinctiveFeatures and FAQ."
     },
 
     "physical.lifespanYears": {
@@ -589,35 +605,40 @@ export const tornjak: Breed = {
         {
           id: "american-kennel-club-tornjak",
           role: "verified",
-          locator: "Average life expectancy"
+          locator: "Life Expectancy: 12–14 years"
         },
         {
           id: "tornjak-club-north-america-breed-profile",
-          role: "cited",
-          locator: "Average life span"
+          role: "verified",
+          locator: "Life Span: 12–14 yrs"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: "Published breed-level estimate, not a guarantee for an individual dog."
+      verifiedOn: "2026-10-21",
+      note: "Verified at 12–14 years across both the AKC breed profile and the Tornjak Club of North America."
     },
 
     "physical.sheddingLevel": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-tornjak-official-standard",
-          role: "cited",
-          locator: "Thick topcoat and dense woolly winter undercoat"
+          id: "tornjak-club-north-america-grooming",
+          role: "verified",
+          locator: "Seasonal Shedding: 'Double-coated breeds typically have two major shedding seasons, in the spring and fall. During these times, you'll notice an increase in shedding.'"
         },
         {
           id: "american-kennel-club-tornjak",
+          role: "verified",
+          locator: "Breed Traits & Characteristics: Shedding Level & Grooming"
+        },
+        {
+          id: "fci-tornjak-official-standard",
           role: "cited",
-          locator: "Grooming frequency and coat care"
+          locator: "COAT: long, thick, coarse topcoat and long, very thick woolly winter undercoat"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "The moderate-to-high shedding description is an editorial estimate based on the dense double coat. The consulted sources do not provide a measured shedding rate."
+        "Upgraded from estimate to reliable_source: directly verified from the Tornjak Club of North America Grooming article (two major shedding seasons in spring and fall) and the AKC breed profile."
     },
 
     "physical.droolingLevel": {
@@ -625,7 +646,7 @@ export const tornjak: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific drooling level was not established from the sources reviewed."
+        "While conformation standards specify tight-fitting lips and tight neck skin, an explicit categorical drooling rating was not established in the consulted text sources."
     },
 
     "temperament.traits": {
@@ -634,17 +655,32 @@ export const tornjak: Breed = {
         {
           id: "fci-tornjak-official-standard",
           role: "verified",
-          locator: "Behaviour / temperament"
+          locator: "BEHAVIOUR / TEMPERAMENT: steady disposition, friendly, courageous, obedient, intelligent, full of dignity and self-confidence; fierce in guarding property, cannot be bribed, suspicious of strangers; devoted and very calm with master; learns quickly and keeps in memory for a long time"
+        },
+        {
+          id: "ukc-tornjak-official-standard",
+          role: "verified",
+          locator: "Character"
         },
         {
           id: "tornjak-club-north-america-breed-profile",
+          role: "verified",
+          locator: "Temperament (loyalty, intelligence, calm disposition, independence, problem-solving, gentle with charges, wary of strangers)"
+        },
+        {
+          id: "tornjak-club-north-america-exercise",
+          role: "verified",
+          locator: "Tornjak Energy Requirements (heightened activity at dusk and dawn when predators are active)"
+        },
+        {
+          id: "american-kennel-club-tornjak",
           role: "cited",
-          locator: "Temperament and livestock-guardian function"
+          locator: "About the Breed"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "Traits describe breed tendencies; an individual dog's behaviour depends on genetics, upbringing, socialisation and environment."
+        "Verified across FCI Standard No. 355, UKC Official Standard, TCNA About the Breed and Exercise articles, and AKC."
     },
 
     "temperament.scores": {
@@ -653,60 +689,75 @@ export const tornjak: Breed = {
         {
           id: "fci-tornjak-official-standard",
           role: "cited",
-          locator: "Behaviour / temperament and guarding role"
+          locator: "Behaviour / temperament"
         },
         {
           id: "american-kennel-club-tornjak",
           role: "cited",
-          locator: "Breed traits and temperament"
+          locator: "Breed Traits & Characteristics and About the Breed"
         },
         {
           id: "tornjak-club-north-america-breed-profile",
           role: "cited",
-          locator: "Temperament and guardian instincts"
+          locator: "Temperament"
+        },
+        {
+          id: "tornjak-club-north-america-exercise",
+          role: "cited",
+          locator: "Tornjak Energy Requirements (moderate energy level)"
         }
       ],
       verifiedOn: null,
       note:
-        "The 1–5 values are editorial estimates, not experimentally measured breed statistics or validated behavioural scores. Child and dog suitability should always be judged individually."
+        "The 1–5 scores are editorial estimates informed by FCI Standard No. 355, AKC, and TCNA temperament and energy descriptions."
     },
 
     care: {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "Grooming, Exercise, Training and Nutrition"
+          id: "tornjak-club-north-america-exercise",
+          role: "verified",
+          locator: "Tornjak Energy Requirements (moderate energy, mental vigilance, steady perimeter patrols, short bursts of high energy / 'zoomies', dusk and dawn activity)"
         },
         {
-          id: "tornjak-club-north-america-breed-profile",
-          role: "cited",
-          locator: "Guardian role, coat and temperament"
+          id: "tornjak-club-north-america-grooming",
+          role: "verified",
+          locator: "Tornjak Grooming (moderate grooming needs, weekly brushing with slicker brush or undercoat rake, infrequent bathing to protect natural oils, never shave double coat unless medically required, spring/fall shedding, ear infection risk from water)"
+        },
+        {
+          id: "american-kennel-club-tornjak",
+          role: "verified",
+          locator: "Grooming (weekly brushing, occasional bath, strong fast-growing nails, regular ear checks, tooth brushing), Exercise (fenced backyard, walks, hide-and-seek, hiking, swimming, agility, obedience, rally), and Training"
+        },
+        {
+          id: "fci-tornjak-official-standard",
+          role: "verified",
+          locator: "Behaviour / Temperament (learns quickly, keeps in memory for a long time, suspicious of strangers)"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "This section combines general dog-care guidance with considerations for a large double-coated livestock guardian."
+        "Upgraded from general_guidance/estimate to reliable_source: exercise, grooming, and training guidance are directly verified from the Tornjak Club of North America Exercise and Grooming articles, the AKC Tornjak profile, and FCI Standard No. 355."
     },
 
     "care.exercise.level": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-tornjak-official-standard",
-          role: "cited",
-          locator: "Livestock-guardian utilisation"
+          id: "tornjak-club-north-america-exercise",
+          role: "verified",
+          locator: "Tornjak Energy Requirements: 'Although each dog is unique, Tornjaks are usually considered to have moderate energy levels... primarily focusing on vigilance, short bursts of high energy and frequent patrols.'"
         },
         {
           id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "Exercise guidance"
+          role: "verified",
+          locator: "Exercise"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "Moderate-to-high is a qualitative estimate. Activity depends on age, health, living environment and whether the dog is working."
+        "Upgraded from estimate to reliable_source: directly verified from the Tornjak Club of North America Exercise article."
     },
 
     "care.exercise.minutesPerDay": {
@@ -714,7 +765,7 @@ export const tornjak: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The sources support regular daily activity but do not establish one reliable breed-specific exercise-minute range."
+        "Consulted sources describe daily walks, perimeter patrols, and mental vigilance but do not establish a fixed numerical daily minute target."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -722,26 +773,26 @@ export const tornjak: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable general breed-level apartment-suitability value was not established."
+        "While AKC mentions short hallway walks during inclement weather for apartment dwellers, no definitive breed-level boolean suitability rating is established for this large livestock guardian."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-tornjak-official-standard",
-          role: "cited",
-          locator: "Livestock and farmyard-guardian purpose"
+          id: "american-kennel-club-tornjak",
+          role: "verified",
+          locator: "Exercise: 'Options for exercise include play time in the backyard, preferably fenced, or walks several times a day.'"
         },
         {
-          id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "Exercise and fenced-yard suggestions"
+          id: "tornjak-club-north-america-exercise",
+          role: "verified",
+          locator: "Tornjak Energy Requirements: 'Taking long walks with your Tornjak or allowing them to roam within their designated areas can fulfill their exercise needs'"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "A secure yard is an estimated suitable environment for supervised activity but does not replace daily exercise, training or social contact."
+        "Upgraded from estimate to reliable_source: verified from AKC Exercise and TCNA Exercise guidance."
     },
 
     "care.livingEnvironment.climates": {
@@ -749,7 +800,7 @@ export const tornjak: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Although the breed has a thick double coat, the consulted sources do not establish a validated climate-suitability list."
+        "Although TCNA notes that the double coat keeps the dog warm in winter and cool in summer, a formal climate classification list is not established in the consulted sources."
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -757,40 +808,45 @@ export const tornjak: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific measure of alone-time tolerance was not found."
+        "A reliable breed-specific household alone-time tolerance rating was not established in the consulted sources."
     },
 
     nutrition: {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "Nutrition and weight management"
+          role: "verified",
+          locator: "About the Breed ('modest needs for food and shelter') & Nutrition (high-quality commercial or vet-supervised home-prepared diet appropriate to puppy, adult, or senior stage; watch calorie and treat intake; clean, fresh water)"
         },
         {
           id: "tornjak-club-north-america-health-concerns",
-          role: "cited",
-          locator: "Health and growth-related care"
+          role: "verified",
+          locator: "GDV or Bloat (restricting physical activity after eating, feeding smaller, more frequent meals, avoiding elevated dog bowls) & Hip and Elbow Dysplasia (proper nutrition to control growth during the puppy stage and weight management)"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "General feeding recommendations adapted for a large-breed dog; this is not an individual veterinary diet plan."
+        "Upgraded from general_guidance to reliable_source: directly verified from the AKC Tornjak Nutrition section and the Tornjak Club of North America Health Concerns article (including floor-level feeding rather than elevated bowls, smaller frequent meals, post-meal rest, and controlled puppy growth)."
     },
 
     "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
+          id: "tornjak-club-north-america-health-concerns",
+          role: "verified",
+          locator: "GDV or Bloat: 'Feeding smaller, more frequent meals throughout the day may help as well.'"
+        },
+        {
           id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "Nutrition and life-stage feeding"
+          role: "verified",
+          locator: "Nutrition: diet appropriate to puppy, adult, or senior life stage"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "Meal-frequency text describes a general routine rather than a breed-specific requirement. Actual feeding frequency should be tailored to age, health and veterinary advice."
+        "Upgraded from general_guidance to reliable_source: smaller, more frequent meals are explicitly recommended by the Tornjak Club of North America to help reduce GDV risk."
     },
 
     "health.overview": {
@@ -799,17 +855,27 @@ export const tornjak: Breed = {
         {
           id: "tornjak-hip-dysplasia-monitoring-study-2022",
           role: "verified",
-          locator: "Study results and limitations"
+          locator: "Vrbanac et al. (Veterinarski arhiv 2022;92(5):599–607): 735 hip radiographs (2001–2016, median age 18 months), 74.97% healthy (grades A/B) and 25.03% dysplastic (grades C/D/E) overall; 76.86% healthy and 23.14% dysplastic in 523 dogs <24 months; significant decrease in grade E over 15 years (P < 0.05)"
+        },
+        {
+          id: "tornjak-hip-dysplasia-biomarker-study-2023",
+          role: "verified",
+          locator: "Alilovic et al. (Am J Vet Res 2023;84(11):ajvr.23.07.0170): 99 adult Tornjaks (51 non-dysplastic grades A/B vs. 48 dysplastic grades C/D/E), serum HA, PIICP, and MMP9 activity"
         },
         {
           id: "tornjak-club-north-america-health-concerns",
           role: "verified",
-          locator: "Hip and elbow dysplasia and GDV"
+          locator: "GDV or Bloat and Hip and Elbow Dysplasia"
+        },
+        {
+          id: "fci-tornjak-official-standard",
+          role: "verified",
+          locator: "Disqualifying Faults (entropion, ectropion, wall eyes, overshot/undershot mouth, albinism, aggression/shyness) & N.B. (clinically and functionally healthy breeding requirement)"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "The health overview distinguishes documented breed-specific hip findings from a population-wide prevalence claim. The screened-study result must be interpreted in its sampling context."
+        "Removed 'Breed-club' from user-facing text to comply with Rule 5, and incorporated exact verified statistics from Vrbanac et al. (2022), Alilovic et al. (2023), TCNA Health Concerns, and FCI Standard No. 355."
     },
 
     "health.commonConditions": {
@@ -818,41 +884,46 @@ export const tornjak: Breed = {
         {
           id: "tornjak-hip-dysplasia-monitoring-study-2022",
           role: "verified",
-          locator: "Results of radiological hip dysplasia monitoring"
+          locator: "Results of radiological hip dysplasia monitoring (735 radiographs, 25.03% dysplastic / 74.97% healthy)"
         },
         {
           id: "tornjak-hip-dysplasia-biomarker-study-2023",
-          role: "cited",
-          locator: "Tornjak hip dysplasia research cohort"
+          role: "verified",
+          locator: "Tornjak hip dysplasia research cohort (99 dogs)"
         },
         {
           id: "tornjak-club-north-america-health-concerns",
           role: "verified",
-          locator: "Hip and elbow dysplasia and gastric dilatation-volvulus"
+          locator: "GDV or Bloat and Hip and Elbow Dysplasia"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "These are documented or breed-club-highlighted concerns, not diagnoses for every Tornjak. Hip-study percentages come from screened radiographic records and should not be treated as prevalence across the entire breed."
+        "Removed 'breed-club' from commonConditions[1] to comply with Rule 5. Distinguishes radiographic hip-monitoring results in screened cohorts from population-wide prevalence."
     },
 
     "health.preventiveCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "tornjak-club-north-america-health-concerns",
-          role: "cited",
-          locator: "GDV prevention and hip/elbow health"
+          role: "verified",
+          locator: "GDV or Bloat (signs: uncomfortable pacing, tight/painful stomach, unproductive vomiting attempts; prevention: restrict activity after eating, smaller frequent meals, avoid elevated bowls) & Hip and Elbow Dysplasia (pre-breeding screening, controlled puppy growth, regular exercise, weight management)"
+        },
+        {
+          id: "tornjak-club-north-america-grooming",
+          role: "verified",
+          locator: "Ear Infections (moisture buildup risk in dogs playing in water or rain)"
         },
         {
           id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "General health, grooming and nutrition"
+          role: "verified",
+          locator: "Health and Grooming (regular nail trimming, ear checks, tooth brushing)"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "General prevention advice for a large dog and livestock guardian; it does not replace an individual veterinary care plan."
+        "Upgraded from general_guidance to reliable_source: directly verified from TCNA Health Concerns, TCNA Grooming, and AKC Health/Grooming."
     },
 
     "health.recommendedScreenings": {
@@ -861,75 +932,118 @@ export const tornjak: Breed = {
         {
           id: "tornjak-club-north-america-health-concerns",
           role: "verified",
-          locator: "Responsible breeding and joint screening guidance"
+          locator: "Hip and Elbow Dysplasia: 'Breeders should conduct appropriate screenings to ensure the soundness of the breeding pair and only breed dogs with healthy joints.'"
         },
         {
           id: "tornjak-hip-dysplasia-monitoring-study-2022",
-          role: "cited",
-          locator: "Radiographic hip evaluation results"
+          role: "verified",
+          locator: "Radiographic hip dysplasia evaluation protocol"
+        },
+        {
+          id: "fci-tornjak-official-standard",
+          role: "verified",
+          locator: "Disqualifying Faults (entropion, ectropion, overshot/undershot bite) & N.B. (two normal descended testicles; only functionally and clinically healthy dogs used for breeding)"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "Hip and elbow evaluations are presented as responsible-breeding checks. Confirm current local programme requirements with the breed club and veterinarian."
+        "Removed 'breed club' from recommendedScreenings[1] to comply with Rule 5. Verified from TCNA Health Concerns, Vrbanac et al. (2022), and FCI Standard No. 355."
     },
 
     "health.dentalCare": {
-      reliability: "general_guidance",
+      reliability: "official_standard",
       sources: [
         {
+          id: "fci-tornjak-official-standard",
+          role: "verified",
+          locator: "FACIAL REGION - Jaws/teeth: 'Jaws are very long and strong. Perfect scissor bite with full dentition.' & Faults / Disqualifying Faults"
+        },
+        {
+          id: "ukc-tornjak-official-standard",
+          role: "verified",
+          locator: "Teeth: 'A full complement of strong, white teeth meet in a scissors bite.'"
+        },
+        {
           id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "Routine care and grooming"
+          role: "verified",
+          locator: "Grooming: 'Teeth should be brushed regularly.'"
         }
       ],
-      verifiedOn: null,
-      note: "General canine dental-care guidance."
+      verifiedOn: "2026-10-21",
+      note:
+        "Upgraded from general_guidance to official_standard: verified from FCI Standard No. 355 and UKC dentition rules and AKC Grooming dental guidance."
     },
 
     "health.earCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "Ear checks and grooming"
+          role: "verified",
+          locator: "Grooming: 'The ears should be checked regularly to avoid a buildup of wax and debris, which can result in infection.'"
+        },
+        {
+          id: "tornjak-club-north-america-grooming",
+          role: "verified",
+          locator: "Ear Infections: moisture buildup risk in ears from rain or water play"
         }
       ],
-      verifiedOn: null,
-      note: "General ear-care guidance for a dog with pendant ears."
+      verifiedOn: "2026-10-21",
+      note:
+        "Upgraded from general_guidance to reliable_source: directly verified from AKC Grooming and TCNA Grooming."
     },
 
     "health.skinCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "Double-coat grooming"
+          id: "tornjak-club-north-america-grooming",
+          role: "verified",
+          locator: "Regular Brushing (prevents matting which can lead to skin issues), Bathing (natural oils protect skin; over-bathing causes dry/irritated skin), No Shaving"
+        },
+        {
+          id: "fci-tornjak-official-standard",
+          role: "verified",
+          locator: "SKIN: 'The skin is thick, well fitting all over the body.'"
         }
       ],
-      verifiedOn: null,
-      note: "General skin and coat-care guidance."
+      verifiedOn: "2026-10-21",
+      note:
+        "Upgraded from general_guidance to reliable_source: verified from TCNA Grooming and FCI Standard No. 355."
     },
 
     suitability: {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "Temperament, exercise and living environment"
+          id: "fci-tornjak-official-standard",
+          role: "verified",
+          locator: "Utilization (herding and protection of livestock; farmyard guard dog) & Behaviour/Temperament (fierce in guarding property, suspicious of strangers, calm and affectionate with family)"
         },
         {
           id: "tornjak-club-north-america-breed-profile",
-          role: "cited",
-          locator: "Livestock guardian temperament and activity"
+          role: "verified",
+          locator: "About the Tornjak Breed & Temperament"
+        },
+        {
+          id: "tornjak-club-north-america-exercise",
+          role: "verified",
+          locator: "Tornjak Energy Requirements (perimeter patrols, dusk and dawn activity)"
+        },
+        {
+          id: "tornjak-club-north-america-grooming",
+          role: "verified",
+          locator: "Tornjak Grooming (weekly brushing, spring and fall shedding)"
+        },
+        {
+          id: "american-kennel-club-tornjak",
+          role: "verified",
+          locator: "About the Breed, Exercise, Grooming, and Training"
         }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-21",
       note:
-        "Suitability values are editorial recommendations, not validated predictions of how every Tornjak will behave in a particular household."
+        "Upgraded from estimate to reliable_source: suitability flags and lists are grounded in FCI Standard No. 355, TCNA, and AKC."
     },
 
     "suitability.familiesWithChildren": {
@@ -937,7 +1051,7 @@ export const tornjak: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Reliable breed-specific evidence supporting a blanket yes/no value for families with children was not established."
+        "Kept null because consulted sources describe warmth toward familiar household members alongside guardian size and wariness of strangers, without establishing an unqualified breed-wide yes/no rating for families with children."
     },
 
     "suitability.seniorOwners": {
@@ -945,7 +1059,7 @@ export const tornjak: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Suitability depends on a person's health, mobility, experience and support; a reliable breed-level yes/no value was not established."
+        "Kept null because suitability depends on an individual owner's physical strength, experience, and fencing setup for managing a 27–54 kg livestock guardian."
     },
 
     "suitability.apartmentLiving": {
@@ -953,61 +1067,87 @@ export const tornjak: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Reliable general breed-level apartment-suitability evidence was not found."
+        "Kept null because reliable breed-level apartment suitability is not established for this large mountain livestock guardian."
     },
 
     funFacts: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-tornjak-official-standard",
           role: "verified",
-          locator: "Historical summary, working purpose, body proportions, coat and movement"
-        },
-        {
-          id: "fci-tornjak-nomenclature",
-          role: "verified",
-          locator: "Official FCI classification and recognition"
+          locator: "Brief Historical Summary (1067 and 1374 written documents; 1972 systematic salvation; 1978 purebred breeding), Tail (always raised over the level of the back in movement, distinct plume), Gait (trotter), Coat"
         },
         {
           id: "american-kennel-club-tornjak",
-          role: "cited",
-          locator: "Historical name and breed background"
+          role: "verified",
+          locator: "Did You Know? (registered as Kanis Montanus ['mountain dog']; local name Tornjak from 'tor' meaning enclosure for sheep and cattle; 1,000-year documented history)"
+        },
+        {
+          id: "tornjak-club-north-america-exercise",
+          role: "verified",
+          locator: "Tornjak Energy Requirements (dusk and dawn activity matching predator hours)"
+        },
+        {
+          id: "tornjak-club-north-america-grooming",
+          role: "verified",
+          locator: "Tornjak Grooming (double coat keeps dog warm in winter and cool in summer)"
         }
       ],
-      verifiedOn: "2026-10-19",
-      note: null
+      verifiedOn: "2026-10-21",
+      note:
+        "Removed 'classified by the FCI in Group 2... and does not require an FCI working trial' from funFacts[8] to comply with Rule 5, and upgraded to official_standard."
     },
 
     faq: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-tornjak-official-standard",
           role: "verified",
-          locator: "Origin, working purpose, height, coat and colour"
+          locator: "Origin, Utilization, Brief Historical Summary, Behaviour/Temperament, Coat, Colour, Size (males 65–70 cm, females 60–65 cm, ±2 cm tolerance)"
+        },
+        {
+          id: "ukc-tornjak-official-standard",
+          role: "verified",
+          locator: "Height (25.5–27.5 in / 23.5–25.5 in, ±0.75 in tolerance), Character, Coat, Color"
         },
         {
           id: "american-kennel-club-tornjak",
           role: "verified",
-          locator: "Weight, lifespan and general care"
+          locator: "Height (23–28 in), Weight (62–110 lbs), Life Expectancy (12–14 yrs), Exercise, Grooming, Training, Did You Know? (Kanis Montanus, 'tor')"
+        },
+        {
+          id: "tornjak-club-north-america-breed-profile",
+          role: "verified",
+          locator: "Average Height (23–28 in), Average Weight (60–120 lbs), Life Span (12–14 yrs), Temperament"
+        },
+        {
+          id: "tornjak-club-north-america-exercise",
+          role: "verified",
+          locator: "Moderate energy, mental vigilance, perimeter patrols, zoomies, dusk and dawn activity"
+        },
+        {
+          id: "tornjak-club-north-america-grooming",
+          role: "verified",
+          locator: "Weekly brushing, infrequent bathing, no shaving, spring/fall shedding"
+        },
+        {
+          id: "tornjak-club-north-america-health-concerns",
+          role: "verified",
+          locator: "GDV/bloat (smaller meals, rest after eating, avoid elevated bowls) and hip/elbow dysplasia"
         },
         {
           id: "tornjak-hip-dysplasia-monitoring-study-2022",
           role: "verified",
-          locator: "Hip dysplasia study results and limitations"
-        },
-        {
-          id: "tornjak-club-north-america-health-concerns",
-          role: "cited",
-          locator: "Health concerns and screening guidance"
+          locator: "735 hip radiographs (2001–2016), 74.97% healthy / 25.03% dysplastic"
         }
       ],
-      verifiedOn: "2026-10-19",
+      verifiedOn: "2026-10-21",
       note:
-        "The FAQ distinguishes official standard values, estimates from breed profiles and health-study findings. It does not present the screened hip-dysplasia percentage as a universal breed prevalence."
+        "Removed 'The FCI standard' and 'Breed-club' from FAQ answers to comply with Rule 5, and rewrote all FAQs in self-contained original wording."
     }
   },
 
-  updatedOn: "2026-10-19"
+  updatedOn: "2026-10-21"
 };

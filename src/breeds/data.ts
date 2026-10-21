@@ -53,6 +53,9 @@ import { collie_rough } from "./collie_rough";
 import { japanese_chin } from "./japanese_chin";
 import { petit_brabancon } from "./petit_brabancon";
 import { dutch_smoushond } from "./dutch_smoushond";
+import { dalmatian } from "./dalmatian";
+import { samoyed } from "./samoyed";
+import { jack_russell_terrier } from "./jack_russell_terrier";
 
 
 export const breedData: readonly Breed[] = [
@@ -105,4 +108,7 @@ export const breedData: readonly Breed[] = [
   japanese_chin,
   petit_brabancon,
   dutch_smoushond,
+  dalmatian,
+  samoyed,
+  jack_russell_terrier,
 ];

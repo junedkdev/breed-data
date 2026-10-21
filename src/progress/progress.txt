@@ -20,8 +20,7 @@
 17:bloodhound - CG
 18:grand_anglo-francais_tricolore - CG
 19:grand_anglo-francais_blanc_et_orange - CG
-
-20:tornjak - CR
+20:tornjak - CG
 
 21:bullmastiff - C
 22:bucovina_shepherd_dog - C
@@ -51,10 +50,11 @@
 46:japanese_chin - C
 47:petit_brabancon - C
 48:dutch_smoushond - C
+49:dalmatian - C
+50:samoyed - C
+51:jack_russell_terrier - C
 
-49:dalmatian
-50:samoyed
-51:jack_russell_terrier
+
 52:american_cocker_spaniel
 53:canadian_eskimo_dog
 54:scottish_deerhound

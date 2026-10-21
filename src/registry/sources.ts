@@ -1267,114 +1267,114 @@ export const sources = defineSources({
     note: "Wikimedia Commons file page for photograph by Alephalpha (captured 2006-10-22, uploaded 2008-10-23, 640x480 px), dual-licensed under CC BY-SA 3.0 and GFDL 1.2+.",
     publisher: "Wikimedia Commons"
   },
-  "fci-tornjak-official-standard": {
+"fci-tornjak-official-standard": {
     id: "fci-tornjak-official-standard",
     name: "FCI - Tornjak Official Breed Standard No. 355",
     url: "https://www.fci.be/Nomenclature/Standards/355g02-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2017-11-23",
-    accessedOn: "2026-10-19",
-    note: "The PDF is dated 2017-11-23 and identifies 2017-11-07 as the publication date of the original valid standard. Used for origin, classification, purpose, temperament, conformation, coat, colour and height.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official FCI Standard No. 355 (dated 2017-11-23; original valid standard published 2017-11-07) for the Tornjak (Bosnian and Herzegovinian – Croatian Shepherd Dog), covering origin, historical summary (1067 and 1374 records; 1972 recovery; 1978 purebred breeding), utilization, Group 2 Section 2.2 classification, temperament, conformation proportions (length exceeding height by no more than 8%, 1:1 skull-to-muzzle ratio, ~120° shoulder angle), coat, colour, height (males 65–70 cm, females 60–65 cm, ±2 cm tolerance), and disqualifying faults.",
+    publisher: "Fédération Cynologique Internationale (FCI)"
   },
 
-  "fci-tornjak-nomenclature": {
+"fci-tornjak-nomenclature": {
     id: "fci-tornjak-nomenclature",
     name: "FCI - Tornjak Breed Nomenclature",
     url: "https://www.fci.be/en/nomenclature/BOSNIAN-AND-HERZEGOVINIAN-CROATIAN-SHEPHERD-DOG-355.html",
     type: "official_breed_standard",
     publishedOn: "2017-11-23",
-    accessedOn: "2026-10-19",
-    note: "Official FCI listing confirming the breed's country of origin, Group 2 classification, mountain-type subsection, definitive recognition and working-trial status.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official FCI nomenclature entry No. 355 confirming multilingual breed names, origin in Bosnia and Herzegovina and Croatia, Group 2 Section 2.2 (Molossian type, Mountain type) classification without working trial, provisional acceptance on 2007-06-01, and definitive acceptance on 2017-11-07.",
+    publisher: "Fédération Cynologique Internationale (FCI)"
   },
 
-  "american-kennel-club-tornjak": {
+"american-kennel-club-tornjak": {
     id: "american-kennel-club-tornjak",
     name: "American Kennel Club - Tornjak Breed Profile",
     url: "https://www.akc.org/dog-breeds/tornjak/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Used for the published approximate weight and lifespan ranges, temperament, grooming, exercise, training, nutrition and general health guidance.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official AKC breed profile (recorded in the Foundation Stock Service since May 2012 with Working Group designation) providing height (23–28 inches), weight (62–110 pounds), life expectancy (12–14 years), historical registration under the name Kanis Montanus and etymology from 'tor' (livestock enclosure), temperament, grooming, exercise, training, and nutrition guidance.",
+    publisher: "American Kennel Club (AKC)"
   },
 
-  "ukc-tornjak-official-standard": {
+"ukc-tornjak-official-standard": {
     id: "ukc-tornjak-official-standard",
     name: "United Kennel Club - Tornjak Breed Standard",
     url: "https://www.ukcdogs.com/tornjak",
     type: "official_breed_standard",
     publishedOn: "2017-05-01",
-    accessedOn: "2026-10-19",
-    note: "The UKC standard was revised on 2017-05-01. Used as a secondary registry source for conformation, coat, colour and working-guardian temperament.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official UKC breed standard (recognized 2011-08-18; revised 2017-05-01) classifying the Tornjak in the Guardian Dog Group and specifying history, character, conformation, coat, colour, height (males 25.5–27.5 in, females 23.5–25.5 in, ±0.75 in tolerance), eliminating faults, and disqualifications.",
+    publisher: "United Kennel Club (UKC)"
   },
 
-  "tornjak-club-north-america-breed-profile": {
+"tornjak-club-north-america-breed-profile": {
     id: "tornjak-club-north-america-breed-profile",
     name: "Tornjak Club of North America - About the Breed",
     url: "https://www.tornjakclub.com/pages/about-breed.html",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Breed-club information on historical origin, livestock guardian function, temperament, average size, weight and lifespan.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "North American breed-club profile detailing the Tornjak's Balkan mountain origins, livestock-guardian temperament, average height (23–28 in), average weight (60–120 lbs), and lifespan (12–14 years).",
+    publisher: "Tornjak Club of North America (TCNA)"
   },
 
-  "tornjak-club-north-america-health-concerns": {
+"tornjak-club-north-america-health-concerns": {
     id: "tornjak-club-north-america-health-concerns",
     name: "Tornjak Club of North America - Health Concerns",
     url: "https://www.tornjakclub.com/pages/articles/health.html",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Breed-club health information discussing gastric dilatation-volvulus, hip dysplasia and elbow dysplasia, along with risk management and responsible breeding.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Breed-club health guidance on gastric dilatation-volvulus (GDV / bloat, including resting after meals, feeding smaller frequent meals, and avoiding elevated food bowls) and hip and elbow dysplasia (pre-breeding joint screening, controlled puppy growth, and weight management).",
+    publisher: "Tornjak Club of North America (TCNA)"
   },
 
-  "tornjak-hip-dysplasia-monitoring-study-2022": {
+"tornjak-hip-dysplasia-monitoring-study-2022": {
     id: "tornjak-hip-dysplasia-monitoring-study-2022",
     name: "Results of Radiological Hip Dysplasia Monitoring in Tornjak Breed",
     url: "https://hrcak.srce.hr/en/287653",
     type: "scientific",
     publishedOn: "2022-12-11",
-    accessedOn: "2026-10-19",
-    note: "Peer-reviewed retrospective study of 735 radiographic hip evaluations from 2001-2016. The screened population's results should not be interpreted as a universal prevalence estimate for every Tornjak.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Peer-reviewed retrospective study (Vrbanac et al., Veterinarski arhiv 2022;92(5):599–607, DOI: 10.24099/vet.arhiv.1409) of 735 Tornjak hip radiographs evaluated from 2001 to 2016 (median age 18 months), finding 74.97% healthy (grades A/B) and 25.03% dysplastic (grades C/D/E) overall (76.86% healthy and 23.14% dysplastic in 523 dogs under 24 months) and a significant reduction in severe grade E hip dysplasia over the 15-year period.",
+    publisher: "Faculty of Veterinary Medicine, University of Zagreb (Veterinarski arhiv)"
   },
 
-  "tornjak-hip-dysplasia-biomarker-study-2023": {
+"tornjak-hip-dysplasia-biomarker-study-2023": {
     id: "tornjak-hip-dysplasia-biomarker-study-2023",
     name: "Breed-Specific Evaluation of Serum Biochemical Markers in Canine Hip Dysplasia Observed in a Tornjak Dog Population",
     url: "https://pubmed.ncbi.nlm.nih.gov/37699541/",
     type: "scientific",
     publishedOn: "2023-11-01",
-    accessedOn: "2026-10-19",
-    note: "Peer-reviewed study examining biochemical markers in 99 Tornjaks classified by radiographic hip status. It is research into diagnostic markers, not a population-wide disease prevalence survey.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Peer-reviewed study (Alilovic et al., Am J Vet Res 2023;84(11):ajvr.23.07.0170, PMID: 37699541) evaluating serum hyaluronic acid (HA), procollagen II C-terminal propeptide (PIICP), and matrix metallopeptidase 9 (MMP9) activity across 99 adult Tornjaks in Bosnia and Herzegovina (51 non-dysplastic grades A/B vs. 48 dysplastic grades C/D/E).",
+    publisher: "American Veterinary Medical Association (American Journal of Veterinary Research)"
   },
 
-  "wikimedia-tornjak-and-puppy-tomasz-wasko": {
+"wikimedia-tornjak-and-puppy-tomasz-wasko": {
     id: "wikimedia-tornjak-and-puppy-tomasz-wasko",
     name: "Wikimedia Commons - Tornjak and puppy.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Tornjak_and_puppy.jpg",
     type: "other",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Photograph by Tomasz Waśko. Wikimedia Commons identifies the file as CC BY-SA 4.0.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Wikimedia Commons file page for 'File:Tornjak and puppy.jpg', photographed by Tomasz Waśko (uploader TomaszVasco) on 2023-05-20 and uploaded on 2023-05-26 under CC BY-SA 4.0 (4966 × 3311 px).",
+    publisher: "Wikimedia Commons"
   },
 
-  "wikimedia-tornjak-female-canarian": {
+"wikimedia-tornjak-female-canarian": {
     id: "wikimedia-tornjak-female-canarian",
     name: "Wikimedia Commons - Bosnian and Herzegovinian - Croatian Shepherd Dog aka Tornjak.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Bosnian_and_Herzegovinian_-_Croatian_Shepherd_Dog_aka_Tornjak.jpg",
     type: "other",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Photograph by Canarian of a female Tornjak. Wikimedia Commons identifies the file as CC BY-SA 3.0.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Wikimedia Commons file page for 'File:Bosnian and Herzegovinian - Croatian Shepherd Dog aka Tornjak.jpg', photographed by Canarian on 2008-10-31 and uploaded on 2013-01-20 under CC BY-SA 3.0 (495 × 408 px).",
+    publisher: "Wikimedia Commons"
   },
   "skg-schweizer-laufhund": {
     id: "skg-schweizer-laufhund",
@@ -4741,6 +4741,290 @@ export const sources = defineSources({
     publishedOn: null,
     accessedOn: "2026-10-21",
     note: "Image credited to Zepp Web; uploaded to Commons by Abujoy. CC BY 2.0."
+  },
+  "fci-dalmatian-standard": {
+    id: "fci-dalmatian-standard",
+    name: "FCI — Dalmatian Official Breed Standard No. 153",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/nomenclature/Standards/153g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2011-05-30",
+    accessedOn: "2026-10-21",
+    note: "Official English FCI standard covering origin, classification, history, temperament, coat, colours and height. The official-valid standard publication date is stated as 13 October 2010."
+  },
+  "fci-dalmatian-nomenclature": {
+    id: "fci-dalmatian-nomenclature",
+    name: "FCI — Dalmatinski pas Nomenclature",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/en/nomenclature/DALMATIAN-153.html",
+    type: "kennel_club",
+    publishedOn: "2010-10-13",
+    accessedOn: "2026-10-21",
+    note: "FCI classification, definitive recognition and country of origin."
+  },
+  "american-kennel-club-dalmatian": {
+    id: "american-kennel-club-dalmatian",
+    name: "American Kennel Club — Dalmatian",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/dalmatian/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed profile with size, weight range, lifespan estimate, traits, history and care context."
+  },
+  "dalmatian-club-of-america-standard": {
+    id: "dalmatian-club-of-america-standard",
+    name: "Dalmatian Club of America — Breed Standard",
+    publisher: "Dalmatian Club of America",
+    url: "https://dalmatianclubofamerica.org/breed-standard/",
+    type: "breed_club",
+    publishedOn: "1989-09-06",
+    accessedOn: "2026-10-21",
+    note: "Parent-club standard approved by the AKC; effective 6 September 1989."
+  },
+  "dalmatian-club-of-america-health": {
+    id: "dalmatian-club-of-america-health",
+    name: "Dalmatian Club of America Foundation — Dalmatian Health",
+    publisher: "Dalmatian Club of America Foundation",
+    url: "https://dcaf.org/Dalmatian-Health/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed-health overview including inherited deafness, urinary stones, copper storage disease and published lifespan estimate."
+  },
+  "dalmatian-club-of-america-hearing": {
+    id: "dalmatian-club-of-america-hearing",
+    name: "Dalmatian Club of America — Hearing",
+    publisher: "Dalmatian Club of America",
+    url: "https://dalmatianclubofamerica.org/hearing/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed-club hearing information and BAER testing resources."
+  },
+  "dalmatian-club-of-america-foundation-urinary-stones": {
+    id: "dalmatian-club-of-america-foundation-urinary-stones",
+    name: "Dalmatian Club of America Foundation — Urinary Stones",
+    publisher: "Dalmatian Club of America Foundation",
+    url: "https://dcaf.org/dalmatian-health/urinary-stones/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed-specific background on urate metabolism, urinary stones and prevention discussions. Educational material, not an individual veterinary prescription."
+  },
+  "wikimedia-dalmatian-sun-dog-bradlien": {
+    id: "wikimedia-dalmatian-sun-dog-bradlien",
+    name: "Wikimedia Commons — Sun Dog Dalmatian.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Sun_Dog_Dalmatian.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Creator/uploader Bradlien; own work dated 29 September 2023; 768 × 1024 pixels; CC BY-SA 4.0."
+  },
+  "wikimedia-dalmatian-puppy-rsur6933": {
+    id: "wikimedia-dalmatian-puppy-rsur6933",
+    name: "Wikimedia Commons — Dalmatian puppy, four months.png",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Dalmatian_puppy,_four_months.png",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Creator/uploader Rsur6933; original work dated 19 September 2010; 635 × 541 pixels; CC BY-SA 4.0."
+  },
+  "wikimedia-dalmatian-black-spotted-canarian": {
+    id: "wikimedia-dalmatian-black-spotted-canarian",
+    name: "Wikimedia Commons — DalmatianBlackSpotted.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:DalmatianBlackSpotted.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Creator/uploader Canarian; uploaded 5 July 2021; 1639 × 1182 pixels; CC BY-SA 4.0. Capture date not stated in the reviewed metadata."
+  },
+  "fci-samoyed-official-standard": {
+    id: "fci-samoyed-official-standard",
+    name: "FCI - Samoyed Official Breed Standard No. 212",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/212g05-en.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2019-09-04",
+    accessedOn: "2026-10-21",
+    note: "Official breed standard covering origin, history, classification, temperament, coat, colours, and height.",
+  },
+  "fci-samoyed-nomenclature": {
+    id: "fci-samoyed-nomenclature",
+    name: "FCI - Samoyed Breed Nomenclature",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/en/nomenclature/SAMOYED-212.html",
+    type: "breed_registry",
+    commercialUse: "reference_only",
+    publishedOn: "2019-10-07",
+    accessedOn: "2026-10-21",
+    note: "Official breed listing, group, origin, and breed-name information.",
+  },
+  "american-kennel-club-samoyed": {
+    id: "american-kennel-club-samoyed",
+    name: "American Kennel Club - Samoyed Breed Profile",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/Samoyed/",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed profile covering typical size, life expectancy, temperament, grooming, exercise, training, and recommended health tests.",
+  },
+  "samoyed-club-of-america-health-testing": {
+    id: "samoyed-club-of-america-health-testing",
+    name: "Samoyed Club of America - Recommended Health Testing",
+    publisher: "Samoyed Club of America",
+    url: "https://www.samoyedclubofamerica.org/the-samoyed/choosing-a-dog/types-of-breeders/",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed-club guidance on recommended health certifications and CHIC screening.",
+  },
+  "wikimedia-samoyed-ruerd-kroon": {
+    id: "wikimedia-samoyed-ruerd-kroon",
+    name: "Wikimedia Commons - Samoyed dog.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Samoyed_dog.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Photo by Ruerd Kroon; CC BY-SA 4.0. Review the original file page for attribution and share-alike terms.",
+  },
+  "wikimedia-samoyed-canarian": {
+    id: "wikimedia-samoyed-canarian",
+    name: "Wikimedia Commons - Samoyed-dog.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Samoyed-dog.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Photo by Canarian; CC BY-SA 4.0. Review the original file page for attribution and share-alike terms.",
+  },
+  "wikimedia-samoyed-puppy-ruerd-kroon": {
+    id: "wikimedia-samoyed-puppy-ruerd-kroon",
+    name: "Wikimedia Commons - Samoyed puppy.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Samoyed_puppy.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Photo by Ruerd Kroon; CC BY-SA 4.0. Review the original file page for attribution and share-alike terms.",
+  },
+  "fci-jack-russell-terrier-standard": {
+    id: "fci-jack-russell-terrier-standard",
+    name: "FCI — Jack Russell Terrier Official Breed Standard No. 345",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/nomenclature/Standards/345g03-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2012-10-08",
+    accessedOn: "2026-10-21",
+    note: "Official standard covering origin, working purpose, temperament, coat varieties, colour, ideal height and proportional weight guidance."
+  },
+  "tornjak-club-north-america-exercise": {
+    id: "tornjak-club-north-america-exercise",
+    name: "Tornjak Club of North America - Tornjak Exercise Requirements",
+    url: "https://www.tornjakclub.com/pages/articles/exercise.html",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed-club article describing the Tornjak's moderate energy level, mental vigilance, steady perimeter patrols, short bursts of high-speed energy ('zoomies'), and heightened activity at dawn and dusk.",
+    publisher: "Tornjak Club of North America (TCNA)"
+  },
+  "tornjak-club-north-america-grooming": {
+    id: "tornjak-club-north-america-grooming",
+    name: "Tornjak Club of North America - Tornjak Grooming Requirements",
+    url: "https://www.tornjakclub.com/pages/articles/grooming.html",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed-club article detailing weekly brushing with a slicker brush or undercoat rake, infrequent bathing to preserve natural coat oils, never shaving the double coat unless medically required, heavy spring and autumn shedding seasons, and ear-moisture precautions.",
+    publisher: "Tornjak Club of North America (TCNA)"
+  },
+  "royal-kennel-club-jack-russell-terrier-standard": {
+    id: "royal-kennel-club-jack-russell-terrier-standard",
+    name: "The Royal Kennel Club — Jack Russell Terrier Breed Standard",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/breed-standards/terrier/jack-russell-terrier",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2025-01-01",
+    accessedOn: "2026-10-21",
+    note: "Official breed standard; page last updated 1 January 2025. Size range 25–30 cm; white predominates with black and/or tan markings.",
+  },
+  "royal-kennel-club-jack-russell-terrier-profile": {
+    id: "royal-kennel-club-jack-russell-terrier-profile",
+    name: "The Royal Kennel Club — Jack Russell Terrier Breed Profile and Health Testing",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/jackrussellterrier",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed profile, care characteristics and current health-screening guidance. Recommends PLL DNA testing; LOA, SCA DNA tests and eye testing are listed as best practice.",
+  },
+  "vca-jack-russell-terrier-breed-care": {
+    id: "vca-jack-russell-terrier-breed-care",
+    name: "VCA Animal Hospitals — Jack Russell Terrier",
+    publisher: "VCA Animal Hospitals",
+    url: "https://vcahospitals.com/know-your-pet/jack-russell-terrier",
+    type: "veterinary",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Veterinary breed overview and guidance on temperament, exercise, grooming and lifespan.",
+  },
+  "jack-russell-terrier-club-health-monitoring": {
+    id: "jack-russell-terrier-club-health-monitoring",
+    name: "The Jack Russell Terrier Club — Health Monitoring",
+    publisher: "The Jack Russell Terrier Club",
+    url: "https://www.jackrussellterrierclub.co.uk/444981517.html",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed-club resource about health-test results for LOA, SCA and PLL.",
+  },
+  "wikimedia-jack-russell-terrier-ilmelodoro": {
+    id: "wikimedia-jack-russell-terrier-ilmelodoro",
+    name: "Wikimedia Commons — Jack russell terrier.JPG",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Jack_russell_terrier.JPG",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "File page names Ilmelodoro as author, gives a 15 January 2012 date, and identifies CC BY-SA 3.0. Attribution and share-alike obligations apply.",
+  },
+  "wikimedia-jack-russell-terrier-johannesvg": {
+    id: "wikimedia-jack-russell-terrier-johannesvg",
+    name: "Wikimedia Commons — Jack Russel Terrier.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Jack_Russel_Terrier.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "File page names Johannesvg as author, gives 15 January 2012 as the photo date, and identifies CC BY-SA 3.0. Attribution and share-alike obligations apply.",
+  },
+  "wikimedia-jack-russell-terrier-puppy-3steph14": {
+    id: "wikimedia-jack-russell-terrier-puppy-3steph14",
+    name: "Wikimedia Commons — Jack Russell terrier puppy.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Jack_Russell_terrier_puppy.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "File page identifies creator 3steph14, puppy age 11 weeks and date 25 October 2023; CC BY-SA 4.0. Attribution and share-alike obligations apply.",
   },
 });
 
