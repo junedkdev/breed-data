@@ -1213,59 +1213,59 @@ export const sources = defineSources({
     note: "Peer-reviewed study by Pedersen et al. (Canine Genet Epidemiol 2015;2:17; DOI: 10.1186/s40575-015-0030-9; PMID: 26526059) analyzing genetic bottlenecks, DLA class I/II homozygosity, and multiple autoimmune diseases in Italian Greyhounds.",
     publisher: null
   },
-  "fci-grand-anglo-francais-blanc-et-orange-standard": {
+"fci-grand-anglo-francais-blanc-et-orange-standard": {
     id: "fci-grand-anglo-francais-blanc-et-orange-standard",
     name: "FCI - Grand Anglo-Français Blanc et Orange Standard No. 324",
     url: "https://www.fci.be/Nomenclature/Standards/324g06-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2023-08-01",
-    accessedOn: "2026-10-19",
-    note: "The current official valid standard was published on 2023-08-01; the English PDF translation is dated 2023-10-06. Used for origin, classification, working purpose, conformation, coat, colour and height.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official FCI English breed standard for Grand Anglo-Français Blanc et Orange (Great Anglo-French White and Orange Hound, Standard No. 324; current official valid standard dated 2023-08-01, English publication 2023-10-06; original valid standard 1983-01-27).",
+    publisher: "Fédération Cynologique Internationale"
   },
 
-  "fci-grand-anglo-francais-blanc-et-orange-nomenclature": {
+"fci-grand-anglo-francais-blanc-et-orange-nomenclature": {
     id: "fci-grand-anglo-francais-blanc-et-orange-nomenclature",
-    name: "FCI - Grand Anglo-Français Blanc et Orange Breed Nomenclature",
+    name: "FCI - Grand Anglo-Français Blanc et Orange Breed Nomenclature (No. 324)",
     url: "https://www.fci.be/en/nomenclature/GREAT-ANGLO-FRENCH-WHITE-ORANGE-HOUND-324.html",
     type: "official_breed_standard",
     publishedOn: "2023-08-01",
-    accessedOn: "2026-10-19",
-    note: "Official FCI nomenclature confirming country of origin, group, section, working-trial classification and the date of definitive recognition.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Official FCI nomenclature entry (No. 324) confirming definitive recognition on 1983-01-27, Group 6 Section 1.1 classification, working-trial requirement, current valid standard date (2023-08-01), and official multilingual breed names (Great Anglo-French White & Orange Hound, Grand Anglo-Français Blanc & Orange, Großer Anglo-Französischer Weiß-Oranger Laufhund, Gran Sabueso Anglo-Francés Blanco y Naranja).",
+    publisher: "Fédération Cynologique Internationale"
   },
 
-  "ukc-great-anglo-francais-white-and-orange-hound": {
+"ukc-great-anglo-francais-white-and-orange-hound": {
     id: "ukc-great-anglo-francais-white-and-orange-hound",
     name: "United Kennel Club - Great Anglo-Français White and Orange Hound Breed Standard",
     url: "https://www.ukcdogs.com/great-anglo-francais-white-and-orange-hound",
     type: "official_breed_standard",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "UKC standard recognised in 2006. Used as a secondary registry standard for conformation, coat, colour, teeth, movement and working-hound characteristics.",
-    publisher: null
+    publishedOn: "2006-01-01",
+    accessedOn: "2026-10-21",
+    note: "Official UKC breed standard (recognized in 2006, Scenthound Group) specifying complete scissors bite, black or orange-brown nose, 23.5–27.5 inch height at withers, coat and colour rules, and disqualifications (cryptorchidism, viciousness or extreme shyness, albinism).",
+    publisher: "United Kennel Club"
   },
 
-  "worldlydogs-grand-anglo-francais-blanc-et-orange": {
+"worldlydogs-grand-anglo-francais-blanc-et-orange": {
     id: "worldlydogs-grand-anglo-francais-blanc-et-orange",
     name: "Worldly Dogs - Grand Anglo-Français Blanc et Orange",
     url: "https://www.worldlydogs.com/grand-anglo-franccedilais-blanc-et-orange.html",
     type: "other",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Secondary breed overview used cautiously for historical context and traditional pack-hunting use. Not used to establish weight, lifespan, health prevalence or quantitative temperament ratings.",
-    publisher: null
+    accessedOn: "2026-10-21",
+    note: "Secondary breed overview consulted cautiously for historical context and traditional pack-hunting background.",
+    publisher: "Worldly Dogs"
   },
 
-  "wikimedia-grand-anglo-francais-blanc-et-orange-alephalpha": {
+"wikimedia-grand-anglo-francais-blanc-et-orange-alephalpha": {
     id: "wikimedia-grand-anglo-francais-blanc-et-orange-alephalpha",
-    name: "Wikimedia Commons - 06101298 Grand anglo francais orange.jpg",
+    name: "Wikimedia Commons - File:06101298 Grand anglo francais orange.jpg",
     url: "https://commons.wikimedia.org/wiki/File:06101298_Grand_anglo_francais_orange.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Original photograph by Alephalpha, dated 2006-10-22. Wikimedia Commons lists CC BY-SA 3.0 and GFDL; this record uses CC BY-SA 3.0.",
-    publisher: null
+    publishedOn: "2008-10-23",
+    accessedOn: "2026-10-21",
+    note: "Wikimedia Commons file page for photograph by Alephalpha (captured 2006-10-22, uploaded 2008-10-23, 640x480 px), dual-licensed under CC BY-SA 3.0 and GFDL 1.2+.",
+    publisher: "Wikimedia Commons"
   },
   "fci-tornjak-official-standard": {
     id: "fci-tornjak-official-standard",
@@ -4355,14 +4355,14 @@ export const sources = defineSources({
     note: "Official original French FCI Standard No. 322 PDF (dated 24.07.1996; valid standard 27.01.1983) hosted by the Société Centrale Canine, including eliminating faults (aggression, shyness, physical/behavioural anomalies) and breeding soundness requirement.",
     publisher: "Société Centrale Canine / Fédération Cynologique Internationale"
   },
-  "scc-club-du-chien-d-ordre": {
+"scc-club-du-chien-d-ordre": {
     id: "scc-club-du-chien-d-ordre",
     name: "Club du Chien d'Ordre (Société Centrale Canine) - Présentation et Races",
     url: "https://www.centrale-canine.fr/club-du-chien-d-ordre",
     type: "breed_club",
     publishedOn: null,
     accessedOn: "2026-10-21",
-    note: "Official French parent club (founded in 1978 by Dr. Émile Guillet and affiliated with the Société Centrale Canine) overseeing the Grand Anglo-Français Tricolore and other large French pack hounds.",
+    note: "Official French parent club (founded in 1978 by Dr. Émile Guillet and affiliated with the Société Centrale Canine) overseeing the Grand Anglo-Français breeds and other large French pack hounds.",
     publisher: "Club du Chien d'Ordre / Société Centrale Canine"
   },
   "ukc-great-anglo-francais-tricolor-hound-standard": {
@@ -4503,6 +4503,154 @@ export const sources = defineSources({
     publishedOn: null,
     accessedOn: "2026-10-21",
     note: "Creator: Arek Małyska. CC BY-SA 4.0; commercial reuse requires attribution and compliance with share-alike terms.",
+  },
+  "fci-petit-brabancon-standard": {
+    id: "fci-petit-brabancon-standard",
+    name: "FCI — Petit Brabançon Official Breed Standard",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/nomenclature/Standards/080g09-en.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2003-03-25",
+    accessedOn: "2026-10-21",
+    note: "Official standard covering the three closely related Belgian Griffon varieties.",
+  },
+  "fci-petit-brabancon-nomenclature": {
+    id: "fci-petit-brabancon-nomenclature",
+    name: "FCI — Petit Brabançon Breed Nomenclature",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/en/nomenclature/PETIT-BRABANCON-82.html",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Breed recognition, country of origin, and classification.",
+  },
+  "american-kennel-club-brussels-griffon": {
+    id: "american-kennel-club-brussels-griffon",
+    name: "American Kennel Club — Brussels Griffon",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/brussels-griffon/",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Related breed profile; identifies the smooth-coated variety as the Brabançon.",
+  },
+  "american-brussels-griffon-association-health": {
+    id: "american-brussels-griffon-association-health",
+    name: "American Brussels Griffon Association — Health Research and Breeder Education",
+    publisher: "American Brussels Griffon Association",
+    url: "https://abga.club/about-the-breed/health-research/",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Health concerns and accepted screening programme for the related Brussels Griffon population.",
+  },
+  "american-brussels-griffon-association-owner-guide": {
+    id: "american-brussels-griffon-association-owner-guide",
+    name: "American Brussels Griffon Association — Is This the Breed for You?",
+    publisher: "American Brussels Griffon Association",
+    url: "https://abga.club/the-brussels-griffon-is-this-the-breed-for-you/",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Owner guidance, housetraining, and lifespan information for the related breed.",
+  },
+  "wikimedia-petit-brabancon-lusadi": {
+    id: "wikimedia-petit-brabancon-lusadi",
+    name: "Wikimedia Commons — Petit brabancon.JPG",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Petit_brabancon.JPG",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Creator Lusadi released the photograph into the public domain.",
+  },
+  "wikimedia-petit-brabancon-ger-dekker": {
+    id: "wikimedia-petit-brabancon-ger-dekker",
+    name: "Wikimedia Commons — Petit Brabançon.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Petit_Braban%C3%A7on.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Photo by Ger Dekker; CC BY-SA 2.0. Attribution and share-alike terms apply.",
+  },
+  "wikimedia-petit-brabancon-canarian": {
+    id: "wikimedia-petit-brabancon-canarian",
+    name: "Wikimedia Commons — Smallbrabanconpetit-black&tan1.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Smallbrabanconpetit-black%26tan1.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Photo by Canarian; CC BY-SA 4.0. Attribution and share-alike terms apply.",
+  },
+  "scc-grand-anglo-francais-blanc-et-orange": {
+    id: "scc-grand-anglo-francais-blanc-et-orange",
+    name: "Société Centrale Canine - Grand Anglo-Français Blanc et Orange",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/grand-anglo-francais-blanc-et-orange",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Official French national kennel club breed profile specifying height (60 à 70 cm), weight (De 30 à 35 kg), coat ('Ras et pas trop gros'), historical origins (16th-century early crosses, late-19th-century pack-hound development for red deer, roe deer, wild boar, and fox), hunting temperament, firm training needs, and unsuitability for urban living.",
+    publisher: "Société Centrale Canine"
+  },
+  "scc-fci-grand-anglo-francais-blanc-et-orange-standard-pdf": {
+    id: "scc-fci-grand-anglo-francais-blanc-et-orange-standard-pdf",
+    name: "Société Centrale Canine / FCI - Standard FCI N° 324 : Grand Anglo-Français Blanc et Orange (PDF)",
+    url: "https://www.centrale-canine.fr/sites/default/files/fci_race/324.pdf?1785226331",
+    type: "official_breed_standard",
+    publishedOn: "1997-04-21",
+    accessedOn: "2026-10-21",
+    note: "Official original French FCI Standard No. 324 PDF hosted by the Société Centrale Canine (dated 21.04.1997; original valid standard 27.01.1983), detailing conformation, faults, eliminating faults (aggression, shyness, physical/behavioural anomalies), and breeding soundness requirement.",
+    publisher: "Société Centrale Canine / Fédération Cynologique Internationale"
+  },
+  "venerie-grand-anglo-francais-blanc-et-orange": {
+    id: "venerie-grand-anglo-francais-blanc-et-orange",
+    name: "Société de Vénerie - Races : Le Grand Anglo-Français blanc et orange (Standard FCI N° 324)",
+    url: "https://www.venerie.org/chiens-de-chasse-a-courre/races-le-grand-anglo-francais-blanc-et-orange.html",
+    type: "official_breed_standard",
+    publishedOn: "1983-01-27",
+    accessedOn: "2026-10-21",
+    note: "French text of FCI Standard No. 324 published by the Société de Vénerie alongside French pack-hound kennel, training, nutrition, and disease-prevention guidance.",
+    publisher: "Société de Vénerie"
+  },
+  "royal-canin-fr-grand-anglo-francais-blanc-et-orange": {
+    id: "royal-canin-fr-grand-anglo-francais-blanc-et-orange",
+    name: "Royal Canin France - Grand anglo-français blanc et orange",
+    url: "https://www.royalcanin.com/fr/dogs/breeds/great-anglo-french-white-and-orange-hound",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "French breed profile noting that the Blanc et Orange is the rarest and least numerous of the three Anglo-French breeds, developed from the Français Blanc et Orange and English Foxhound, requiring minimal grooming and outdoor living, and citing a secondary lifespan estimate of 12–13 years.",
+    publisher: "Royal Canin"
+  },
+  "woopets-grand-anglo-francais-blanc-et-orange": {
+    id: "woopets-grand-anglo-francais-blanc-et-orange",
+    name: "Woopets - Grand Anglo-Français blanc et orange : caractère, santé, alimentation, prix et entretien",
+    url: "https://www.woopets.fr/chien/race/grand-anglo-francais-blanc-et-orange/",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Secondary French breed guide noting Billy and English Foxhound ancestry, rarity outside France, grooming (1–2 brushings/week, regular ear and skin checks), feeding (2 meals/day), and secondary weight (29–30 kg), height (62–72 cm males, 60–68 cm females), and lifespan (10–12 years) estimates.",
+    publisher: "Woopets"
+  },
+  "chien-com-grand-anglo-francais-blanc-et-orange": {
+    id: "chien-com-grand-anglo-francais-blanc-et-orange",
+    name: "Chien.com - Grand Anglo-Français Blanc et Orange",
+    url: "https://www.chien.com/races-de-chiens/grand-anglo-francais-blanc-et-orange-447.php",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-21",
+    note: "Secondary French breed profile noting Billy and English Foxhound ancestry, 1983 international recognition, and secondary height (62–72 cm males, 60–68 cm females) and weight (29–30 kg) estimates.",
+    publisher: "Chien.com"
   },
 });
 

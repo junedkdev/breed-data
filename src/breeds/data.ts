@@ -51,6 +51,7 @@ import { stabyhoun } from "./stabyhoun";
 import { lowchen } from "./lowchen";
 import { collie_rough } from "./collie_rough";
 import { japanese_chin } from "./japanese_chin";
+import { petit_brabancon } from "./petit_brabancon";
 
 
 export const breedData: readonly Breed[] = [
@@ -101,4 +102,5 @@ export const breedData: readonly Breed[] = [
   lowchen,
   collie_rough,
   japanese_chin,
+  petit_brabancon,
 ];
