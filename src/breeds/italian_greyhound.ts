@@ -101,7 +101,8 @@ export const italian_greyhound: Breed = {
   },
   physical: {
     sizeCategory: "Toy / Small",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 32,
         max: 38
@@ -111,7 +112,8 @@ export const italian_greyhound: Breed = {
         max: 38
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: null,
         max: 5
@@ -521,7 +523,7 @@ export const italian_greyhound: Breed = {
       note:
         "Height (32–38 cm for both sexes) is identical across FCI and UK standards and matches AKC's 13–15 inches. Coat colours document both the strict FCI solid colours (black, grey, isabella; multi-coloured coat disqualified) and the broader UK/AKC accepted colours (including red, cream, white, sable, seal, and parti-colour), noting that brindle and black-and-tan markings are disallowed across all standards."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "official_standard",
       sources: [
         {

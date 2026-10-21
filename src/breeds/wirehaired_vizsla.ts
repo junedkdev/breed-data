@@ -115,7 +115,8 @@ export const wirehaired_vizsla: Breed = {
   },
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 58,
         max: 64
@@ -125,7 +126,8 @@ export const wirehaired_vizsla: Breed = {
         max: 60
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 25,
         max: 29.5
@@ -559,9 +561,9 @@ export const wirehaired_vizsla: Breed = {
       ],
       verifiedOn: "2026-10-19",
       note:
-        "Height in heightCm (males 58–64 cm, females 54–60 cm) matches FCI Standard No. 239 and UKC, while AKC (23–25 in / 21.5–23 in) and CKC (57–64 cm / 53–60 cm) ranges are documented in distinctiveFeatures and FAQ."
+        "Height (males 58–64 cm, females 54–60 cm) matches FCI Standard No. 239 and UKC, while AKC (23–25 in / 21.5–23 in) and CKC (57–64 cm / 53–60 cm) ranges are documented in distinctiveFeatures and FAQ."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
@@ -578,7 +580,7 @@ export const wirehaired_vizsla: Breed = {
       ],
       verifiedOn: "2026-10-19",
       note:
-        "Sex-specific weights in weightKg (males 25–29.5 kg [55–65 lbs], females 20–25 kg [45–55 lbs]) match the AKC breed profile; the CKC official standard specifies 22–30 kg (48.5–66.25 lbs) across both sexes, while FCI Standard No. 239 and UKC do not state numerical weights."
+        "Sex-specific weights (males 25–29.5 kg [55–65 lbs], females 20–25 kg [45–55 lbs]) match the AKC breed profile; the CKC official standard specifies 22–30 kg (48.5–66.25 lbs) across both sexes, while FCI Standard No. 239 and UKC do not state numerical weights."
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",

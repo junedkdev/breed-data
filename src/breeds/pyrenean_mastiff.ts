@@ -47,7 +47,8 @@ export const pyrenean_mastiff: Breed = {
     sizeCategory: "Giant",
 
     // Official breed-standard minimums; no upper limit is specified by the cited standards.
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 77,
         max: null
@@ -59,7 +60,8 @@ export const pyrenean_mastiff: Breed = {
     },
 
     // Published profile weight is a combined range, not divided by sex.
-    weightKg: {
+    weight: {
+      unit: null,
       male: null,
       female: null
     },
@@ -473,7 +475,7 @@ export const pyrenean_mastiff: Breed = {
       note: "Standards differ in coat detail and colour wording. The object describes the white base coat and distinct patches common to the breed."
     },
 
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -491,21 +493,21 @@ export const pyrenean_mastiff: Breed = {
       note: "Stored minimums are in centimetres. The cited standard does not define a maximum height."
     },
 
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "Reliable sex-specific weight ranges were not established for this record."
     },
 
-    "physical.weightKg.male.max": {
+    "physical.weight.male.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "No reliable sex-specific maximum weight was established."
     },
 
-    "physical.weightKg.female.max": {
+    "physical.weight.female.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,

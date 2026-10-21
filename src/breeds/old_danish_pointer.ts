@@ -45,11 +45,13 @@ export const old_danish_pointer: Breed = {
 
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: { min: 54, max: 60 },
       female: { min: 50, max: 56 },
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: { min: 30, max: 35 },
       female: { min: 26, max: 31 },
     },

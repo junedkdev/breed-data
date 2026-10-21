@@ -17,8 +17,8 @@ export const boykin_spaniel: Breed = {
   },
   physical: {
     sizeCategory: "Medium",
-    heightCm: { male: { min: 39.4, max: 45.7 }, female: { min: 35.6, max: 41.9 } },
-    weightKg: { male: { min: 13.6, max: 18.1 }, female: { min: 11.3, max: 15.9 } },
+    height: { unit: "cm", male: { min: 39.4, max: 45.7 }, female: { min: 35.6, max: 41.9 } },
+    weight: { unit: "kg", male: { min: 13.6, max: 18.1 }, female: { min: 11.3, max: 15.9 } },
     lifespanYears: null,
     coatType: "A medium-length coat that may be flat, slightly wavy or moderately curly, with light feathering on the legs, chest, ears, belly and hindquarters. Coat texture and amount of wave vary between individuals.",
     coatLength: "Medium; feathering is usually light rather than excessively long.",

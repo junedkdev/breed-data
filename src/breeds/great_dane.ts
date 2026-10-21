@@ -89,7 +89,8 @@ export const great_dane: Breed = {
   },
   physical: {
     sizeCategory: "Giant",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 80,
         max: 90,
@@ -99,7 +100,8 @@ export const great_dane: Breed = {
         max: 84,
       },
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 63.5,
         max: 79.4,
@@ -429,7 +431,7 @@ export const great_dane: Breed = {
       note:
         "Height, coat, and recognised colours follow the 2024 FCI standard. Weight and lifespan use separate sources.",
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {

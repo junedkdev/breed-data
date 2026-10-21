@@ -112,7 +112,8 @@ export const slovak_cuvac: Breed = {
   },
   physical: {
     sizeCategory: "Large",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 62,
         max: 70
@@ -122,7 +123,8 @@ export const slovak_cuvac: Breed = {
         max: 65
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 36,
         max: 44

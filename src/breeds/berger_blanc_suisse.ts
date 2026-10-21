@@ -96,7 +96,8 @@ export const berger_blanc_suisse: Breed = {
   },
   physical: {
     sizeCategory: "Medium to large",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 58,
         max: 66
@@ -106,7 +107,8 @@ export const berger_blanc_suisse: Breed = {
         max: 61
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 30,
         max: 40
@@ -503,7 +505,7 @@ export const berger_blanc_suisse: Breed = {
       note:
         "Height (males 58–66 cm, females 53–61 cm), weight (males 30–40 kg, females 25–35 kg), proportions (12:10), and two coat varieties are verified from FCI Standard No. 347, SKG, and Dogs Australia."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "official_standard",
       sources: [
         {

@@ -11,16 +11,20 @@
 import {
   EVIDENCE_ROLES,
   FACT_PATHS,
+  HEIGHT_UNITS,
   RELIABILITIES,
   SOURCE_TYPES,
   VERIFIED_RELIABILITIES,
+  WEIGHT_UNITS,
   type Breed,
   type Evidence,
   type FactPath,
+  type HeightUnit,
   type License,
   type NumericRange,
   type Reliability,
   type Source,
+  type WeightUnit,
 } from "../schema/breed.types";
 
 export interface CatalogInput {
@@ -50,11 +54,20 @@ const PLACEHOLDER_PATTERN =
   /^(?:n\/?a|none|null|unknown|unspecified|tbd|tba|todo|-+|\?+|\.+)$/i;
 
 const LIMITS = {
-  heightCm: { min: 1, max: 160 },
-  weightKg: { min: 0.1, max: 120 },
   lifespanYears: { min: 1, max: 60 },
   minutesPerDay: { min: 1, max: 600 },
 } as const;
+
+const HEIGHT_LIMITS: Record<HeightUnit, { min: number; max: number }> = {
+  cm: { min: 1, max: 160 },
+  m: { min: 0.01, max: 1.6 },
+  in: { min: 0.4, max: 63 },
+};
+
+const WEIGHT_LIMITS: Record<WeightUnit, { min: number; max: number }> = {
+  kg: { min: 0.1, max: 120 },
+  lb: { min: 0.2, max: 265 },
+};
 
 /** Leaf fact paths: every path that is not a prefix of another path. */
 export const LEAF_FACT_PATHS: readonly FactPath[] = FACT_PATHS.filter(
@@ -184,18 +197,32 @@ function validateBreed(
   walkStrings(breed, slug, "", error);
 
   // Measurements
-  bySex(breed.physical.heightCm, "heightCm", slug, "physical.heightCm", error);
-  bySex(breed.physical.weightKg, "weightKg", slug, "physical.weightKg", error);
+  bySex(
+    breed.physical.height,
+    HEIGHT_UNITS,
+    HEIGHT_LIMITS,
+    slug,
+    "physical.height",
+    error,
+  );
+  bySex(
+    breed.physical.weight,
+    WEIGHT_UNITS,
+    WEIGHT_LIMITS,
+    slug,
+    "physical.weight",
+    error,
+  );
   range(
     breed.physical.lifespanYears,
-    "lifespanYears",
+    LIMITS.lifespanYears,
     slug,
     "physical.lifespanYears",
     error,
   );
   range(
     breed.care.exercise.minutesPerDay,
-    "minutesPerDay",
+    LIMITS.minutesPerDay,
     slug,
     "care.exercise.minutesPerDay",
     error,
@@ -559,7 +586,7 @@ function optionalDate(
 
 function range(
   value: NumericRange | null,
-  limit: keyof typeof LIMITS,
+  bounds: { min: number; max: number } | null,
   breed: string,
   path: string,
   error: Report,
@@ -570,7 +597,6 @@ function range(
     error(breed, path, "Range has no bounds. Use null for the whole range");
     return;
   }
-  const bounds = LIMITS[limit];
   for (const [key, bound] of [
     ["min", min],
     ["max", max],
@@ -578,7 +604,7 @@ function range(
     if (bound === null) continue;
     if (!Number.isFinite(bound)) {
       error(breed, `${path}.${key}`, "Must be a finite number");
-    } else if (bound < bounds.min || bound > bounds.max) {
+    } else if (bounds && (bound < bounds.min || bound > bounds.max)) {
       error(breed, `${path}.${key}`, `${bound} is outside ${bounds.min}–${bounds.max}`);
     }
   }
@@ -587,15 +613,40 @@ function range(
   }
 }
 
-function bySex(
-  value: Breed["physical"]["heightCm"],
-  limit: keyof typeof LIMITS,
+function bySex<Unit extends string>(
+  value: Breed["physical"]["height"] | Breed["physical"]["weight"],
+  allowed: readonly Unit[],
+  limits: Record<Unit, { min: number; max: number }>,
   breed: string,
   path: string,
   error: Report,
 ): void {
-  range(value.male, limit, breed, `${path}.male`, error);
-  range(value.female, limit, breed, `${path}.female`, error);
+  const rangesAbsent = isAbsent(value.male) && isAbsent(value.female);
+  if (rangesAbsent) {
+    if (value.unit !== null) {
+      error(breed, `${path}.unit`, "Unit must be null when no measurement is recorded");
+    }
+    return;
+  }
+  if (value.unit === null) {
+    error(breed, `${path}.unit`, "Unit is required when a measurement is recorded");
+    range(value.male, null, breed, `${path}.male`, error);
+    range(value.female, null, breed, `${path}.female`, error);
+    return;
+  }
+  if (!(allowed as readonly string[]).includes(value.unit)) {
+    error(
+      breed,
+      `${path}.unit`,
+      `Unknown unit ${JSON.stringify(value.unit)}. Use ${allowed.join(", ")}`,
+    );
+    range(value.male, null, breed, `${path}.male`, error);
+    range(value.female, null, breed, `${path}.female`, error);
+    return;
+  }
+  const bounds = limits[value.unit as Unit];
+  range(value.male, bounds, breed, `${path}.male`, error);
+  range(value.female, bounds, breed, `${path}.female`, error);
 }
 
 export function isoToday(): string {

@@ -81,7 +81,8 @@ export const eurasier: Breed = {
   },
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 52,
         max: 60
@@ -91,7 +92,8 @@ export const eurasier: Breed = {
         max: 56
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 22,
         max: 30
@@ -443,7 +445,7 @@ export const eurasier: Breed = {
       note:
         "Physical traits, height (males 52–60 cm, ideal 56 cm; females 48–56 cm, ideal 52 cm), coat structure, and distinctive features follow FCI Standard No. 291 (valid standard dated 4 September 2019, published 17 February 2020). Note that FCI's 2019/2020 standard permits all colours and combinations except pure white and piebald, whereas older standards (ECC, UKC, AKC) also list liver as excluded."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "official_standard",
       sources: [
         {

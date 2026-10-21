@@ -88,7 +88,8 @@ export const kromfohrlander: Breed = {
   },
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 38,
         max: 46
@@ -98,7 +99,8 @@ export const kromfohrlander: Breed = {
         max: 46
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 11,
         max: 16

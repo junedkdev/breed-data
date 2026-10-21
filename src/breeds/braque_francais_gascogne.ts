@@ -95,7 +95,8 @@ export const braque_francais_gascogne: Breed = {
   },
   physical: {
     sizeCategory: "Large",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 58,
         max: 69
@@ -105,7 +106,8 @@ export const braque_francais_gascogne: Breed = {
         max: 68
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 24,
         max: 32
@@ -493,9 +495,9 @@ export const braque_francais_gascogne: Breed = {
       ],
       verifiedOn: "2026-10-20",
       note:
-        "Height range in heightCm (males 58–69 cm, females 56–68 cm, preferred 61–63 cm) matches FCI Standard No. 133, SCC, and UKC (23–27 in / 22–26.5 in)."
+        "Height range (males 58–69 cm, females 56–68 cm, preferred 61–63 cm) matches FCI Standard No. 133, SCC, and UKC (23–27 in / 22–26.5 in)."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {

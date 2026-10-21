@@ -133,7 +133,8 @@ export const glen_of_imaal_terrier: Breed = {
   },
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 31.75,
         max: 35.56
@@ -143,7 +144,8 @@ export const glen_of_imaal_terrier: Breed = {
         max: 35.56
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 14.5,
         max: 18.1
@@ -620,9 +622,9 @@ export const glen_of_imaal_terrier: Breed = {
       ],
       verifiedOn: "2026-10-20",
       note:
-        "Corrected sizeCategory from 'Small to medium' to 'Medium' (all five official standards explicitly classify the breed as 'Medium-sized'). Height range in heightCm (31.75–35.56 cm / 12.5–14 in for both sexes) matches the AKC/GITCA Official Standard, while CKC (33–35.5 cm / 13–14 in), RKC (35–36 cm / 14 in max), and FCI/IKC/UKC (35.5 cm / 14 in max for males, females accordingly less) are documented in distinctiveFeatures and FAQ."
+        "Corrected sizeCategory from 'Small to medium' to 'Medium' (all five official standards explicitly classify the breed as 'Medium-sized'). Height range (31.75–35.56 cm / 12.5–14 in for both sexes) matches the AKC/GITCA Official Standard, while CKC (33–35.5 cm / 13–14 in), RKC (35–36 cm / 14 in max), and FCI/IKC/UKC (35.5 cm / 14 in max for males, females accordingly less) are documented in distinctiveFeatures and FAQ."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {

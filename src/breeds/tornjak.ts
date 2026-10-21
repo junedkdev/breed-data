@@ -84,7 +84,8 @@ export const tornjak: Breed = {
   physical: {
     sizeCategory: "Large",
 
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 65,
         max: 70
@@ -95,7 +96,8 @@ export const tornjak: Breed = {
       }
     },
 
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 27,
         max: 54
@@ -548,7 +550,7 @@ export const tornjak: Breed = {
         "Height, coat, colours and general conformation follow the FCI standard. Weight, lifespan and grooming-related values are overridden below where they come from non-standard sources or estimates."
     },
 
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -562,7 +564,7 @@ export const tornjak: Breed = {
         "The stored ranges show the standard's nominal ranges; its separate ±2 cm tolerance is not added into these fields."
     },
 
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {

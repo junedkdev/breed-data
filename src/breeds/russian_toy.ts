@@ -87,7 +87,8 @@ export const russian_toy: Breed = {
   },
   physical: {
     sizeCategory: "Toy",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 22,
         max: 27
@@ -97,7 +98,8 @@ export const russian_toy: Breed = {
         max: 27
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: null,
         max: 3
@@ -551,7 +553,7 @@ export const russian_toy: Breed = {
       verifiedOn: "2026-10-19",
       note: "Classified as a Toy breed in FCI, AKC, and Royal Kennel Club standards."
     },
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -579,7 +581,7 @@ export const russian_toy: Breed = {
       note:
         "Stored range (22–27 cm, preferred 25 cm) follows FCI Standard No. 352. The Royal Kennel Club gives 20–28 cm (±1 cm tolerance), and AKC/UKC give 8–11 inches (20.3–27.9 cm)."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "official_standard",
       sources: [
         {

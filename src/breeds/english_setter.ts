@@ -47,7 +47,8 @@ export const english_setter: Breed = {
     sizeCategory: "Medium to large",
 
     // AKC profile ranges converted from inches to centimetres and rounded.
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 64,
         max: 69
@@ -59,7 +60,8 @@ export const english_setter: Breed = {
     },
 
     // AKC profile ranges converted from pounds to kilograms and rounded.
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 29.5,
         max: 36.3
@@ -448,7 +450,7 @@ export const english_setter: Breed = {
       note: "AKC profile measurements are used for height and weight; the UK standard has somewhat different height ranges."
     },
 
-    "physical.weightKg.male.max": {
+    "physical.weight.male.max": {
       reliability: "reliable_source",
       sources: [
         {
@@ -461,7 +463,7 @@ export const english_setter: Breed = {
       note: "Converted from pounds and rounded to one decimal place."
     },
 
-    "physical.weightKg.female.max": {
+    "physical.weight.female.max": {
       reliability: "reliable_source",
       sources: [
         {

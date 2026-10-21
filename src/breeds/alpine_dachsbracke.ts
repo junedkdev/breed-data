@@ -90,7 +90,8 @@ export const alpine_dachsbracke: Breed = {
   },
   physical: {
     sizeCategory: "Small to medium, short-legged working hound",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 34,
         max: 42,
@@ -100,7 +101,8 @@ export const alpine_dachsbracke: Breed = {
         max: 42,
       },
     },
-    weightKg: {
+    weight: {
+      unit: null,
       male: null,
       female: null,
     },
@@ -432,7 +434,7 @@ export const alpine_dachsbracke: Breed = {
       note:
         "Conformation and coat details are paraphrased from the standard. Weight, lifespan, shedding level, and drooling level have separate unavailable claims.",
     },
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -445,7 +447,7 @@ export const alpine_dachsbracke: Breed = {
       note:
         "The overall permitted height range of 34–42 cm is recorded for both sexes because the standard provides one shared range. It lists different ideal heights for males and females; those ideals are stated in the FAQ.",
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,

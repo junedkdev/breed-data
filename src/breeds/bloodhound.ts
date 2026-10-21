@@ -83,7 +83,8 @@ export const bloodhound: Breed = {
   physical: {
     sizeCategory: "Large to Giant",
 
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 64,
         max: 72
@@ -94,7 +95,8 @@ export const bloodhound: Breed = {
       }
     },
 
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 46,
         max: 54

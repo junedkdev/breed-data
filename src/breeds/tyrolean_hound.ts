@@ -92,7 +92,8 @@ export const tyrolean_hound: Breed = {
   },
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 44,
         max: 50,
@@ -102,7 +103,8 @@ export const tyrolean_hound: Breed = {
         max: 48,
       },
     },
-    weightKg: {
+    weight: {
+      unit: null,
       male: null,
       female: null,
     },
@@ -391,7 +393,7 @@ export const tyrolean_hound: Breed = {
       verifiedOn: "2026-10-20",
       note: "Physical details follow the official standard; no unsupported breed-wide weight or lifespan figures are supplied.",
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,

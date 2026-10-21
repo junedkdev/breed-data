@@ -83,7 +83,8 @@ export const grand_anglo_francais_tricolore: Breed = {
   physical: {
     sizeCategory: "Large",
 
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 60,
         max: 70
@@ -94,7 +95,8 @@ export const grand_anglo_francais_tricolore: Breed = {
       }
     },
 
-    weightKg: {
+    weight: {
+      unit: null,
       male: null,
       female: null
     },
@@ -511,7 +513,7 @@ export const grand_anglo_francais_tricolore: Breed = {
         "The standard's height range is used without inventing separate male and female intervals."
     },
 
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -525,7 +527,7 @@ export const grand_anglo_francais_tricolore: Breed = {
         "FCI provides a single 60–70 cm range for the breed, not a different range per sex. It is repeated in both schema slots solely to represent the published all-breed range."
     },
 
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,

@@ -148,7 +148,8 @@ export const great_pyrenees: Breed = {
   },
   physical: {
     sizeCategory: "giant",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 70,
         max: 80
@@ -158,7 +159,8 @@ export const great_pyrenees: Breed = {
         max: 75
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 45,
         max: null
@@ -599,9 +601,9 @@ export const great_pyrenees: Breed = {
       ],
       verifiedOn: "2026-10-19",
       note:
-        "Height range in heightCm (males 70–80 cm, females 65–75 cm) reflects the base range in FCI Standard No. 137 (corrected from the hybrid 70–82 cm / 65–74 cm in the original draft), while FCI's +2 cm tolerance (up to 82 cm / 77 cm) and the AKC/GPCA (27–32 in / 25–29 in), UKC (27.5–31.5 in / 25.5–29.5 in), and Royal Kennel Club (min 70 cm / 65 cm) standards are documented in distinctiveFeatures and FAQ."
+        "Height range (males 70–80 cm, females 65–75 cm) reflects the base range in FCI Standard No. 137 (corrected from the hybrid 70–82 cm / 65–74 cm in the original draft), while FCI's +2 cm tolerance (up to 82 cm / 77 cm) and the AKC/GPCA (27–32 in / 25–29 in), UKC (27.5–31.5 in / 25.5–29.5 in), and Royal Kennel Club (min 70 cm / 65 cm) standards are documented in distinctiveFeatures and FAQ."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "official_standard",
       sources: [
         {
@@ -633,14 +635,14 @@ export const great_pyrenees: Breed = {
       note:
         "Official standards state minimum weights for minimum-height dogs—45 kg (100 lbs) for a 27-in male and 39 kg (85 lbs) for a 25-in female in the AKC/GPCA standard ('100 pounds & up' / '85 pounds & up'), and 50 kg (110 lbs) for a 70-cm male and 40 kg (88 lbs) for a 65-cm female in The Royal Kennel Club standard—with no fixed upper limit (FCI and UKC do not specify weights). Removed the unverified sex-specific upper bounds of 73 kg and 52 kg (max: null), while noting the GPCA's overall 85–140 lb (39–64 kg) range in distinctiveFeatures and FAQ."
     },
-    "physical.weightKg.male.max": {
+    "physical.weight.male.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
         "Removed unverified 73 kg upper bound; official standards specify only minimum weights ('100 pounds & up' in AKC/GPCA; 'minimum 50 kgs' in RKC; no weight specified in FCI/UKC)."
     },
-    "physical.weightKg.female.max": {
+    "physical.weight.female.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,

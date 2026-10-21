@@ -130,7 +130,8 @@ export const pharaoh_hound: Breed = {
   },
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 58.42,
         max: 63.5
@@ -140,7 +141,8 @@ export const pharaoh_hound: Breed = {
         max: 60.96
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 20.4,
         max: 24.9
@@ -609,9 +611,9 @@ export const pharaoh_hound: Breed = {
       ],
       verifiedOn: "2026-10-20",
       note:
-        "Height in heightCm (males 58.42–63.5 cm [23–25 in], females 53.34–60.96 cm [21–24 in]) matches the AKC Official Standard, while FCI Standard No. 248 (56–63.5 cm / 53–61 cm) and RKC/UKC (56–63 cm [22–25 in] / 53–61 cm [21–24 in]) are documented in distinctiveFeatures and FAQ."
+        "Height (males 58.42–63.5 cm [23–25 in], females 53.34–60.96 cm [21–24 in]) matches the AKC Official Standard, while FCI Standard No. 248 (56–63.5 cm / 53–61 cm) and RKC/UKC (56–63 cm [22–25 in] / 53–61 cm [21–24 in]) are documented in distinctiveFeatures and FAQ."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {

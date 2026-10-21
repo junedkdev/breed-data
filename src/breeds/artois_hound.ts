@@ -40,12 +40,14 @@ export const artois_hound: Breed = {
 
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: { min: 53, max: 58 },
       female: { min: 53, max: 58 }
     },
     // The standard gives one average weight range for both sexes, not sex-specific values.
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: { min: 28, max: 30 },
       female: { min: 28, max: 30 }
     },

@@ -55,11 +55,13 @@ export const american_english_coonhound: Breed = {
   },
   physical: {
     sizeCategory: "Large",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: { min: 61, max: 66 },
       female: { min: 58, max: 64 }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: { min: 20.4, max: 29.5 },
       female: { min: 20.4, max: 29.5 }
     },
@@ -357,7 +359,7 @@ export const american_english_coonhound: Breed = {
       verifiedOn: "2026-10-20",
       note: "Height follows the AKC official standard converted to centimetres; weight and lifespan follow the AKC profile, because the standard expresses weight in proportion to height."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         { id: "american-kennel-club-american-english-coonhound", role: "verified", locator: "Weight: 45–65 pounds" }
@@ -365,7 +367,7 @@ export const american_english_coonhound: Breed = {
       verifiedOn: "2026-10-20",
       note: "The AKC page reports a single weight range without sex-specific split. The same range is recorded for both sexes; it is not a sex-specific standard."
     },
-    "physical.weightKg.male.max": {
+    "physical.weight.male.max": {
       reliability: "reliable_source",
       sources: [
         { id: "american-kennel-club-american-english-coonhound", role: "verified", locator: "Weight: 45–65 pounds" }
@@ -373,7 +375,7 @@ export const american_english_coonhound: Breed = {
       verifiedOn: "2026-10-20",
       note: "The source does not state a separate male maximum. This uses the profile's overall upper end as a general, not sex-specific, reference."
     },
-    "physical.weightKg.female.max": {
+    "physical.weight.female.max": {
       reliability: "reliable_source",
       sources: [
         { id: "american-kennel-club-american-english-coonhound", role: "verified", locator: "Weight: 45–65 pounds" }

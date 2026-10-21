@@ -91,7 +91,8 @@ export const brittany: Breed = {
   },
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 47,
         max: 51,
@@ -101,7 +102,8 @@ export const brittany: Breed = {
         max: 50,
       },
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 13.6,
         max: 18.1,
@@ -429,7 +431,7 @@ export const brittany: Breed = {
       note:
         "Height and appearance follow the FCI standard; weight and lifespan are separately sourced below. Colour descriptions vary by registry.",
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {

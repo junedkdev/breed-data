@@ -1,5 +1,5 @@
 /**
- * Breed catalog schema (version 3).
+ * Breed catalog schema (version 4).
  *
  * Breed records live in `src/breeds` and are listed from `src/breeds/data.ts`.
  * `npm run build` checks those records and writes `data.json` at the project root.
@@ -32,7 +32,7 @@
 import type { LicenseId } from "../registry/licenses";
 import type { SourceId } from "../registry/sources";
 
-export const SCHEMA_VERSION = 3;
+export const SCHEMA_VERSION = 4;
 
 /** Calendar date, `YYYY-MM-DD`. */
 export type IsoDate = `${number}-${number}-${number}`;
@@ -170,8 +170,8 @@ export const FACT_PATHS = [
   "overview.currentRoles",
   "physical",
   "physical.sizeCategory",
-  "physical.heightCm",
-  "physical.weightKg",
+  "physical.height",
+  "physical.weight",
   "physical.lifespanYears",
   "physical.coatType",
   "physical.coatLength",
@@ -237,8 +237,8 @@ export const FACT_PATHS = [
   "suitability.notIdealFor",
   "funFacts",
   "faq",
-  "physical.weightKg.male.max",
-  "physical.weightKg.female.max"
+  "physical.weight.male.max",
+  "physical.weight.female.max",
 ] as const;
 
 export type FactPath = (typeof FACT_PATHS)[number];
@@ -304,7 +304,23 @@ export interface NumericRange {
   max: number | null;
 }
 
-export interface BySex {
+/** Stored height unit. Existing catalog values are centimetres. */
+export type HeightUnit = "cm" | "m" | "in";
+
+export const HEIGHT_UNITS = ["cm", "m", "in"] as const satisfies readonly HeightUnit[];
+
+/** Stored weight unit. Existing catalog values are kilograms. `lb` is pounds. */
+export type WeightUnit = "kg" | "lb";
+
+export const WEIGHT_UNITS = ["kg", "lb"] as const satisfies readonly WeightUnit[];
+
+/**
+ * Sex-specific numeric range plus the unit those numbers are stored in.
+ * `unit` is required when either sex has a value, and must be `null` when
+ * both ranges are absent.
+ */
+export interface BySex<Unit extends string = string> {
+  unit: Unit | null;
   male: NumericRange | null;
   female: NumericRange | null;
 }
@@ -352,8 +368,8 @@ export interface Breed {
   };
   physical: {
     sizeCategory: string | null;
-    heightCm: BySex;
-    weightKg: BySex;
+    height: BySex<HeightUnit>;
+    weight: BySex<WeightUnit>;
     lifespanYears: NumericRange | null;
     coatType: string | null;
     coatLength: string | null;

@@ -101,7 +101,8 @@ export const coton_de_tulear: Breed = {
   physical: {
     sizeCategory: "Small",
 
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 26,
         max: 28
@@ -112,7 +113,8 @@ export const coton_de_tulear: Breed = {
       }
     },
 
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 4,
         max: 6
@@ -603,7 +605,7 @@ export const coton_de_tulear: Breed = {
         "Removed 'under the FCI standard' from coatColors to comply with Rule 5. Physical structure, proportions, coat texture, and colour rules are verified across FCI Standard No. 283, AKC, RKC, and UKC."
     },
 
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -639,10 +641,10 @@ export const coton_de_tulear: Breed = {
       ],
       verifiedOn: "2026-10-21",
       note:
-        "Stored heightCm (males 26–28 cm, females 23–25 cm) reflects the exact ideal range in FCI Standard No. 283; FCI's +2/-1 cm tolerance (25–30 cm / 22–27 cm, which matches the RKC standard) and the AKC/UKC (10–11 in / 9–10 in), CKC (25–32 cm), and CTCA (24–33 cm) ranges are documented in distinctiveFeatures and FAQ."
+        "Stored height (males 26–28 cm, females 23–25 cm) reflects the exact ideal range in FCI Standard No. 283; FCI's +2/-1 cm tolerance (25–30 cm / 22–27 cm, which matches the RKC standard) and the AKC/UKC (10–11 in / 9–10 in), CKC (25–32 cm), and CTCA (24–33 cm) ranges are documented in distinctiveFeatures and FAQ."
     },
 
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "official_standard",
       sources: [
         {
@@ -673,7 +675,7 @@ export const coton_de_tulear: Breed = {
       ],
       verifiedOn: "2026-10-21",
       note:
-        "Stored weightKg (males 4–6 kg, females 3.5–5 kg) follows FCI Standard No. 283; AKC (9–15 lbs / 8–13 lbs), UKC (9–13 lbs / 8–11 lbs ± 1 lb), CKC (4–6.5 kg), and CTCA (9–18 lbs) ranges are documented as conflicting registry standards."
+        "Stored weight (males 4–6 kg, females 3.5–5 kg) follows FCI Standard No. 283; AKC (9–15 lbs / 8–13 lbs), UKC (9–13 lbs / 8–11 lbs ± 1 lb), CKC (4–6.5 kg), and CTCA (9–18 lbs) ranges are documented as conflicting registry standards."
     },
 
     "physical.lifespanYears": {

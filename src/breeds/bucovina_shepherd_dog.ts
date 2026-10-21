@@ -68,11 +68,13 @@ export const bucovina_shepherd_dog: Breed = {
   },
   physical: {
     sizeCategory: "Large to giant",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: { min: 68, max: 78 },
       female: { min: 64, max: 72 }
     },
-    weightKg: {
+    weight: {
+      unit: null,
       male: null,
       female: null
     },
@@ -421,7 +423,7 @@ export const bucovina_shepherd_dog: Breed = {
       note:
         "Height, coat structure and colours follow Standard No. 357. The standard specifies weight in proportion to height, without a kilogram range."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,

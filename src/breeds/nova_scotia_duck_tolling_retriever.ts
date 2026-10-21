@@ -88,7 +88,8 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
   physical: {
     sizeCategory: "Medium",
 
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 48,
         max: 51
@@ -99,7 +100,8 @@ export const nova_scotia_duck_tolling_retriever: Breed = {
       }
     },
 
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 20,
         max: 23

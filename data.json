@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "sources": {
     "american-kennel-club-eurasier": {
       "id": "american-kennel-club-eurasier",
@@ -3742,7 +3742,8 @@
       },
       "physical": {
         "sizeCategory": "Small to medium, short-legged working hound",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 34,
             "max": 42
@@ -3752,7 +3753,8 @@
             "max": 42
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": null,
           "male": null,
           "female": null
         },
@@ -4050,7 +4052,7 @@
           "verifiedOn": "2026-10-21",
           "note": "Conformation and coat details are paraphrased from the standard. Weight, lifespan, shedding level, and drooling level have separate unavailable claims."
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -4062,7 +4064,7 @@
           "verifiedOn": "2026-10-21",
           "note": "The overall permitted height range of 34–42 cm is recorded for both sexes because the standard provides one shared range. It lists different ideal heights for males and females; those ideals are stated in the FAQ."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
@@ -4387,7 +4389,8 @@
       },
       "physical": {
         "sizeCategory": "Large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 61,
             "max": 66
@@ -4397,7 +4400,8 @@
             "max": 64
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 20.4,
             "max": 29.5
@@ -4728,7 +4732,7 @@
           "verifiedOn": "2026-10-20",
           "note": "Height follows the AKC official standard converted to centimetres; weight and lifespan follow the AKC profile, because the standard expresses weight in proportion to height."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -4740,7 +4744,7 @@
           "verifiedOn": "2026-10-20",
           "note": "The AKC page reports a single weight range without sex-specific split. The same range is recorded for both sexes; it is not a sex-specific standard."
         },
-        "physical.weightKg.male.max": {
+        "physical.weight.male.max": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -4752,7 +4756,7 @@
           "verifiedOn": "2026-10-20",
           "note": "The source does not state a separate male maximum. This uses the profile's overall upper end as a general, not sex-specific, reference."
         },
-        "physical.weightKg.female.max": {
+        "physical.weight.female.max": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -5162,7 +5166,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 53,
             "max": 58
@@ -5172,7 +5177,8 @@
             "max": 58
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 28,
             "max": 30
@@ -5779,7 +5785,8 @@
       },
       "physical": {
         "sizeCategory": "Medium to large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 58,
             "max": 66
@@ -5789,7 +5796,8 @@
             "max": 61
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 30,
             "max": 40
@@ -6145,7 +6153,7 @@
           "verifiedOn": "2026-10-20",
           "note": "Height (males 58–66 cm, females 53–61 cm), weight (males 30–40 kg, females 25–35 kg), proportions (12:10), and two coat varieties are verified from FCI Standard No. 347, SKG, and Dogs Australia."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -6461,7 +6469,8 @@
       },
       "physical": {
         "sizeCategory": "Large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 64,
             "max": 70
@@ -6471,7 +6480,8 @@
             "max": 66
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 36.3,
             "max": 52.2
@@ -6772,7 +6782,7 @@
           "verifiedOn": "2026-10-21",
           "note": "The standard is used for conformation, coat and height. Weight and lifespan are separately supported by the kennel-club profile."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -7118,7 +7128,8 @@
       },
       "physical": {
         "sizeCategory": "medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 45.72,
             "max": null
@@ -7128,7 +7139,8 @@
             "max": null
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 18.14,
             "max": null
@@ -7390,7 +7402,7 @@
           "verifiedOn": "2026-10-20",
           "note": "Classified as medium-sized in the cited standard."
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -7402,7 +7414,7 @@
           "verifiedOn": "2026-10-20",
           "note": "Converted the standard's minimum heights from inches to centimetres. No upper height bounds were added."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -7414,13 +7426,13 @@
           "verifiedOn": "2026-10-20",
           "note": "Converted the standard's minimum weights from pounds to kilograms. No unsupported upper bounds were added."
         },
-        "physical.weightKg.male.max": {
+        "physical.weight.male.max": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
           "note": "The cited standard specifies a minimum mature male weight but no upper limit."
         },
-        "physical.weightKg.female.max": {
+        "physical.weight.female.max": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
@@ -7753,7 +7765,8 @@
       },
       "physical": {
         "sizeCategory": "Large to Giant",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 64,
             "max": 72
@@ -7763,7 +7776,8 @@
             "max": 66
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 46,
             "max": 54
@@ -8553,7 +8567,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 39.4,
             "max": 45.7
@@ -8563,7 +8578,8 @@
             "max": 41.9
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 13.6,
             "max": 18.1
@@ -9200,7 +9216,8 @@
       },
       "physical": {
         "sizeCategory": "Large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 58,
             "max": 69
@@ -9210,7 +9227,8 @@
             "max": 68
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 24,
             "max": 32
@@ -9561,9 +9579,9 @@
             }
           ],
           "verifiedOn": "2026-10-20",
-          "note": "Height range in heightCm (males 58–69 cm, females 56–68 cm, preferred 61–63 cm) matches FCI Standard No. 133, SCC, and UKC (23–27 in / 22–26.5 in)."
+          "note": "Height range (males 58–69 cm, females 56–68 cm, preferred 61–63 cm) matches FCI Standard No. 133, SCC, and UKC (23–27 in / 22–26.5 in)."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -9933,7 +9951,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 47,
             "max": 51
@@ -9943,7 +9962,8 @@
             "max": 50
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 13.6,
             "max": 18.1
@@ -10241,7 +10261,7 @@
           "verifiedOn": "2026-10-21",
           "note": "Height and appearance follow the FCI standard; weight and lifespan are separately sourced below. Colour descriptions vary by registry."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -10580,7 +10600,8 @@
       },
       "physical": {
         "sizeCategory": "Large to giant",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 68,
             "max": 78
@@ -10590,7 +10611,8 @@
             "max": 72
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": null,
           "male": null,
           "female": null
         },
@@ -10906,7 +10928,7 @@
           "verifiedOn": "2026-10-19",
           "note": "Height, coat structure and colours follow Standard No. 357. The standard specifies weight in proportion to height, without a kilogram range."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
@@ -11224,7 +11246,8 @@
       },
       "physical": {
         "sizeCategory": "Large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 64,
             "max": 69
@@ -11234,7 +11257,8 @@
             "max": 66
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 50,
             "max": 59
@@ -11581,7 +11605,7 @@
           "verifiedOn": null,
           "note": "The sources consulted did not provide a sufficiently clear and consistent breed-specific drooling rating for this field."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -12000,7 +12024,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 46,
             "max": 50
@@ -12010,7 +12035,8 @@
             "max": 48
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 10,
             "max": 13
@@ -12700,7 +12726,8 @@
       },
       "physical": {
         "sizeCategory": "Small",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 26,
             "max": 28
@@ -12710,7 +12737,8 @@
             "max": 25
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 4,
             "max": 6
@@ -13128,7 +13156,7 @@
           "verifiedOn": "2026-10-21",
           "note": "Removed 'under the FCI standard' from coatColors to comply with Rule 5. Physical structure, proportions, coat texture, and colour rules are verified across FCI Standard No. 283, AKC, RKC, and UKC."
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -13163,9 +13191,9 @@
             }
           ],
           "verifiedOn": "2026-10-21",
-          "note": "Stored heightCm (males 26–28 cm, females 23–25 cm) reflects the exact ideal range in FCI Standard No. 283; FCI's +2/-1 cm tolerance (25–30 cm / 22–27 cm, which matches the RKC standard) and the AKC/UKC (10–11 in / 9–10 in), CKC (25–32 cm), and CTCA (24–33 cm) ranges are documented in distinctiveFeatures and FAQ."
+          "note": "Stored height (males 26–28 cm, females 23–25 cm) reflects the exact ideal range in FCI Standard No. 283; FCI's +2/-1 cm tolerance (25–30 cm / 22–27 cm, which matches the RKC standard) and the AKC/UKC (10–11 in / 9–10 in), CKC (25–32 cm), and CTCA (24–33 cm) ranges are documented in distinctiveFeatures and FAQ."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -13195,7 +13223,7 @@
             }
           ],
           "verifiedOn": "2026-10-21",
-          "note": "Stored weightKg (males 4–6 kg, females 3.5–5 kg) follows FCI Standard No. 283; AKC (9–15 lbs / 8–13 lbs), UKC (9–13 lbs / 8–11 lbs ± 1 lb), CKC (4–6.5 kg), and CTCA (9–18 lbs) ranges are documented as conflicting registry standards."
+          "note": "Stored weight (males 4–6 kg, females 3.5–5 kg) follows FCI Standard No. 283; AKC (9–15 lbs / 8–13 lbs), UKC (9–13 lbs / 8–11 lbs ± 1 lb), CKC (4–6.5 kg), and CTCA (9–18 lbs) ranges are documented as conflicting registry standards."
         },
         "physical.lifespanYears": {
           "reliability": "reliable_source",
@@ -13696,7 +13724,8 @@
       },
       "physical": {
         "sizeCategory": "Medium to large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 64,
             "max": 69
@@ -13706,7 +13735,8 @@
             "max": 64
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 29.5,
             "max": 36.3
@@ -14018,7 +14048,7 @@
           "verifiedOn": "2026-10-20",
           "note": "AKC profile measurements are used for height and weight; the UK standard has somewhat different height ranges."
         },
-        "physical.weightKg.male.max": {
+        "physical.weight.male.max": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -14030,7 +14060,7 @@
           "verifiedOn": "2026-10-20",
           "note": "Converted from pounds and rounded to one decimal place."
         },
-        "physical.weightKg.female.max": {
+        "physical.weight.female.max": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -14378,7 +14408,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 52,
             "max": 60
@@ -14388,7 +14419,8 @@
             "max": 56
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 22,
             "max": 30
@@ -14710,7 +14742,7 @@
           "verifiedOn": "2026-10-19",
           "note": "Physical traits, height (males 52–60 cm, ideal 56 cm; females 48–56 cm, ideal 52 cm), coat structure, and distinctive features follow FCI Standard No. 291 (valid standard dated 4 September 2019, published 17 February 2020). Note that FCI's 2019/2020 standard permits all colours and combinations except pure white and piebald, whereas older standards (ECC, UKC, AKC) also list liver as excluded."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -15103,7 +15135,8 @@
       },
       "physical": {
         "sizeCategory": "Medium to large, depending on variety",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 56,
             "max": 72
@@ -15113,7 +15146,8 @@
             "max": 68
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": null,
           "male": null,
           "female": null
         },
@@ -15413,7 +15447,7 @@
           "verifiedOn": "2026-10-21",
           "note": "Breed-standard conformation and coat details are paraphrased. Lifespan and unavailable measurement fields have separate claims."
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -15425,7 +15459,7 @@
           "verifiedOn": "2026-10-21",
           "note": "These male and female ranges combine the outer limits of the Grand and Petit varieties to fit the schema's single height range per sex. They are not the standard range for one individual variety; consult the FAQ for each variety's range. The standard allows ±1 cm tolerance."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
@@ -15812,7 +15846,8 @@
       },
       "physical": {
         "sizeCategory": "medium-to-large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 60,
             "max": 70
@@ -15822,7 +15857,8 @@
             "max": 68
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": null,
           "male": null,
           "female": null
         },
@@ -16077,7 +16113,7 @@
           "verifiedOn": "2026-10-20",
           "note": null
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -16089,19 +16125,19 @@
           "verifiedOn": "2026-10-20",
           "note": null
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
           "note": "The official standard supplies height ranges but no weight range."
         },
-        "physical.weightKg.male.max": {
+        "physical.weight.male.max": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
           "note": "No reliable male maximum weight was established."
         },
-        "physical.weightKg.female.max": {
+        "physical.weight.female.max": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
@@ -16513,7 +16549,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 31.75,
             "max": 35.56
@@ -16523,7 +16560,8 @@
             "max": 35.56
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 14.5,
             "max": 18.1
@@ -16953,9 +16991,9 @@
             }
           ],
           "verifiedOn": "2026-10-20",
-          "note": "Corrected sizeCategory from 'Small to medium' to 'Medium' (all five official standards explicitly classify the breed as 'Medium-sized'). Height range in heightCm (31.75–35.56 cm / 12.5–14 in for both sexes) matches the AKC/GITCA Official Standard, while CKC (33–35.5 cm / 13–14 in), RKC (35–36 cm / 14 in max), and FCI/IKC/UKC (35.5 cm / 14 in max for males, females accordingly less) are documented in distinctiveFeatures and FAQ."
+          "note": "Corrected sizeCategory from 'Small to medium' to 'Medium' (all five official standards explicitly classify the breed as 'Medium-sized'). Height range (31.75–35.56 cm / 12.5–14 in for both sexes) matches the AKC/GITCA Official Standard, while CKC (33–35.5 cm / 13–14 in), RKC (35–36 cm / 14 in max), and FCI/IKC/UKC (35.5 cm / 14 in max for males, females accordingly less) are documented in distinctiveFeatures and FAQ."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -17377,7 +17415,8 @@
       },
       "physical": {
         "sizeCategory": "Large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 60,
             "max": 70
@@ -17387,7 +17426,8 @@
             "max": 70
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": null,
           "male": null,
           "female": null
         },
@@ -17729,7 +17769,7 @@
           "verifiedOn": "2026-10-19",
           "note": "The populated conformation fields follow the FCI and UKC standards. Unsupported numerical fields are explicitly overridden below."
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -17746,7 +17786,7 @@
           "verifiedOn": "2026-10-19",
           "note": "The FCI standard gives one breed-wide range, not separate sex-specific ranges. The schema has no overall-height field, so the same range is represented in both slots and should not be interpreted as a distinct male/female difference."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
@@ -18095,7 +18135,8 @@
       },
       "physical": {
         "sizeCategory": "Large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 60,
             "max": 70
@@ -18105,7 +18146,8 @@
             "max": 70
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": null,
           "male": null,
           "female": null
         },
@@ -18445,7 +18487,7 @@
           "verifiedOn": "2026-10-19",
           "note": "The standard's height range is used without inventing separate male and female intervals."
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -18457,7 +18499,7 @@
           "verifiedOn": "2026-10-19",
           "note": "FCI provides a single 60–70 cm range for the breed, not a different range per sex. It is repeated in both schema slots solely to represent the published all-breed range."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
@@ -18800,7 +18842,8 @@
       },
       "physical": {
         "sizeCategory": "Giant",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 80,
             "max": 90
@@ -18810,7 +18853,8 @@
             "max": 84
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 63.5,
             "max": 79.4
@@ -19111,7 +19155,7 @@
           "verifiedOn": "2026-10-21",
           "note": "Height, coat, and recognised colours follow the 2024 FCI standard. Weight and lifespan use separate sources."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -19559,7 +19603,8 @@
       },
       "physical": {
         "sizeCategory": "giant",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 70,
             "max": 80
@@ -19569,7 +19614,8 @@
             "max": 75
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 45,
             "max": null
@@ -19967,9 +20013,9 @@
             }
           ],
           "verifiedOn": "2026-10-19",
-          "note": "Height range in heightCm (males 70–80 cm, females 65–75 cm) reflects the base range in FCI Standard No. 137 (corrected from the hybrid 70–82 cm / 65–74 cm in the original draft), while FCI's +2 cm tolerance (up to 82 cm / 77 cm) and the AKC/GPCA (27–32 in / 25–29 in), UKC (27.5–31.5 in / 25.5–29.5 in), and Royal Kennel Club (min 70 cm / 65 cm) standards are documented in distinctiveFeatures and FAQ."
+          "note": "Height range (males 70–80 cm, females 65–75 cm) reflects the base range in FCI Standard No. 137 (corrected from the hybrid 70–82 cm / 65–74 cm in the original draft), while FCI's +2 cm tolerance (up to 82 cm / 77 cm) and the AKC/GPCA (27–32 in / 25–29 in), UKC (27.5–31.5 in / 25.5–29.5 in), and Royal Kennel Club (min 70 cm / 65 cm) standards are documented in distinctiveFeatures and FAQ."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -19996,13 +20042,13 @@
           "verifiedOn": "2026-10-19",
           "note": "Official standards state minimum weights for minimum-height dogs—45 kg (100 lbs) for a 27-in male and 39 kg (85 lbs) for a 25-in female in the AKC/GPCA standard ('100 pounds & up' / '85 pounds & up'), and 50 kg (110 lbs) for a 70-cm male and 40 kg (88 lbs) for a 65-cm female in The Royal Kennel Club standard—with no fixed upper limit (FCI and UKC do not specify weights). Removed the unverified sex-specific upper bounds of 73 kg and 52 kg (max: null), while noting the GPCA's overall 85–140 lb (39–64 kg) range in distinctiveFeatures and FAQ."
         },
-        "physical.weightKg.male.max": {
+        "physical.weight.male.max": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
           "note": "Removed unverified 73 kg upper bound; official standards specify only minimum weights ('100 pounds & up' in AKC/GPCA; 'minimum 50 kgs' in RKC; no weight specified in FCI/UKC)."
         },
-        "physical.weightKg.female.max": {
+        "physical.weight.female.max": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
@@ -20430,7 +20476,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 45.5,
             "max": 51.5
@@ -20440,7 +20487,8 @@
             "max": 48.5
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 20,
             "max": 30
@@ -20804,9 +20852,9 @@
             }
           ],
           "verifiedOn": "2026-10-19",
-          "note": "Preserves heightCm from the DOKENHO/HANA official standard (males 48.5 cm ± 3 cm = 45.5–51.5 cm; females 45.5 cm ± 3 cm = 42.5–48.5 cm) while noting that FCI Standard No. 261 (and JKC) states 48.5–51.5 cm for males and 45.5–48.5 cm for females (omitting the minus-3-cm allowance). Coat colours combine FCI/UKC/NIPPO colours (sesame, brindle, red, black, black and tan, white) with wolf grey recognized by DOKENHO/HANA; pinto is a fault across all standards."
+          "note": "Preserves height from the DOKENHO/HANA official standard (males 48.5 cm ± 3 cm = 45.5–51.5 cm; females 45.5 cm ± 3 cm = 42.5–48.5 cm) while noting that FCI Standard No. 261 (and JKC) states 48.5–51.5 cm for males and 45.5–48.5 cm for females (omitting the minus-3-cm allowance). Coat colours combine FCI/UKC/NIPPO colours (sesame, brindle, red, black, black and tan, white) with wolf grey recognized by DOKENHO/HANA; pinto is a fault across all standards."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -21168,7 +21216,8 @@
       },
       "physical": {
         "sizeCategory": "Large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 63,
             "max": 70
@@ -21178,7 +21227,8 @@
             "max": 65
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 30,
             "max": 40
@@ -21493,7 +21543,7 @@
           "verifiedOn": "2026-10-20",
           "note": "Height, coat structure, standard colours and conformation follow the current FCI standard. Weight and lifespan use separate claims."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -21505,7 +21555,7 @@
           "verifiedOn": "2026-10-20",
           "note": "Breed-club reported weight ranges; the FCI standard itself specifies height, not weight. Individual body condition and build vary."
         },
-        "physical.weightKg.male.max": {
+        "physical.weight.male.max": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -21517,7 +21567,7 @@
           "verifiedOn": "2026-10-20",
           "note": "Maximum transcribed from the breed club's published typical male weight range."
         },
-        "physical.weightKg.female.max": {
+        "physical.weight.female.max": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -22028,7 +22078,8 @@
       },
       "physical": {
         "sizeCategory": "Toy / Small",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 32,
             "max": 38
@@ -22038,7 +22089,8 @@
             "max": 38
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": null,
             "max": 5
@@ -22416,7 +22468,7 @@
           "verifiedOn": "2026-10-19",
           "note": "Height (32–38 cm for both sexes) is identical across FCI and UK standards and matches AKC's 13–15 inches. Coat colours document both the strict FCI solid colours (black, grey, isabella; multi-coloured coat disqualified) and the broader UK/AKC accepted colours (including red, cream, white, sable, seal, and parti-colour), noting that brindle and black-and-tan markings are disallowed across all standards."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -22825,7 +22877,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 38,
             "max": 46
@@ -22835,7 +22888,8 @@
             "max": 46
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 11,
             "max": 16
@@ -23731,7 +23785,8 @@
       },
       "physical": {
         "sizeCategory": "Large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 67,
             "max": 73.5
@@ -23741,7 +23796,8 @@
             "max": 70
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 40,
             "max": 52
@@ -24556,7 +24612,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 48,
             "max": 51
@@ -24566,7 +24623,8 @@
             "max": 48
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 20,
             "max": 23
@@ -25367,7 +25425,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 54,
             "max": 60
@@ -25377,7 +25436,8 @@
             "max": 56
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 30,
             "max": 35
@@ -26101,7 +26161,8 @@
       },
       "physical": {
         "sizeCategory": "Small",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 30.48,
             "max": 38.1
@@ -26111,7 +26172,8 @@
             "max": 38.1
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 5.9,
             "max": 7.7
@@ -26465,7 +26527,7 @@
           "verifiedOn": null,
           "note": "Small is a catalogue category inferred from the breed standard's measurements."
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -26482,7 +26544,7 @@
           "verifiedOn": "2026-10-21",
           "note": "The stored 30.48–38.1 cm bounds convert the AKC standard's 12–15 inch disqualification boundaries. FCI ideal heights are 36 cm for males and 33 cm for females; these are given in the FAQ because the schema has no separate ideal-height field."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -27092,7 +27154,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 58.42,
             "max": 63.5
@@ -27102,7 +27165,8 @@
             "max": 60.96
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 20.4,
             "max": 24.9
@@ -27526,9 +27590,9 @@
             }
           ],
           "verifiedOn": "2026-10-20",
-          "note": "Height in heightCm (males 58.42–63.5 cm [23–25 in], females 53.34–60.96 cm [21–24 in]) matches the AKC Official Standard, while FCI Standard No. 248 (56–63.5 cm / 53–61 cm) and RKC/UKC (56–63 cm [22–25 in] / 53–61 cm [21–24 in]) are documented in distinctiveFeatures and FAQ."
+          "note": "Height (males 58.42–63.5 cm [23–25 in], females 53.34–60.96 cm [21–24 in]) matches the AKC Official Standard, while FCI Standard No. 248 (56–63.5 cm / 53–61 cm) and RKC/UKC (56–63 cm [22–25 in] / 53–61 cm [21–24 in]) are documented in distinctiveFeatures and FAQ."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -27873,7 +27937,8 @@
       },
       "physical": {
         "sizeCategory": "Giant",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 77,
             "max": null
@@ -27883,7 +27948,8 @@
             "max": null
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": null,
           "male": null,
           "female": null
         },
@@ -28220,7 +28286,7 @@
           "verifiedOn": "2026-10-20",
           "note": "Standards differ in coat detail and colour wording. The object describes the white base coat and distinct patches common to the breed."
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -28237,19 +28303,19 @@
           "verifiedOn": "2026-10-20",
           "note": "Stored minimums are in centimetres. The cited standard does not define a maximum height."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
           "note": "Reliable sex-specific weight ranges were not established for this record."
         },
-        "physical.weightKg.male.max": {
+        "physical.weight.male.max": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
           "note": "No reliable sex-specific maximum weight was established."
         },
-        "physical.weightKg.female.max": {
+        "physical.weight.female.max": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
@@ -28568,7 +28634,8 @@
       },
       "physical": {
         "sizeCategory": "Toy",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 22,
             "max": 27
@@ -28578,7 +28645,8 @@
             "max": 27
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": null,
             "max": 3
@@ -29001,7 +29069,7 @@
           "verifiedOn": "2026-10-19",
           "note": "Classified as a Toy breed in FCI, AKC, and Royal Kennel Club standards."
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -29028,7 +29096,7 @@
           "verifiedOn": "2026-10-19",
           "note": "Stored range (22–27 cm, preferred 25 cm) follows FCI Standard No. 352. The Royal Kennel Club gives 20–28 cm (±1 cm tolerance), and AKC/UKC give 8–11 inches (20.3–27.9 cm)."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -29599,7 +29667,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 49,
             "max": 59
@@ -29609,7 +29678,8 @@
             "max": 57
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 18,
             "max": 23
@@ -29938,7 +30008,7 @@
           "verifiedOn": "2026-10-19",
           "note": "All anatomical details, proportions, height limits (males 49–59 cm, females 47–57 cm, with zero tolerance for over/undersize), coat patterns, and variety-specific skin colours are verified against FCI Standard No. 59, SLC, and UKC."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -30388,7 +30458,8 @@
       },
       "physical": {
         "sizeCategory": "Large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 62,
             "max": 70
@@ -30398,7 +30469,8 @@
             "max": 65
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 36,
             "max": 44
@@ -31104,7 +31176,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 35.56,
             "max": 40.64
@@ -31114,7 +31187,8 @@
             "max": 40.64
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 12.7,
             "max": 17.2
@@ -31821,14 +31895,16 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 38,
             "max": 41
           },
           "female": null
         },
-        "weightKg": {
+        "weight": {
+          "unit": null,
           "male": null,
           "female": null
         },
@@ -32166,7 +32242,7 @@
           "verifiedOn": "2026-10-20",
           "note": "Physical characteristics follow the breed standard and profile; coat colours may be expressed differently by registry."
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -32178,19 +32254,19 @@
           "verifiedOn": "2026-10-20",
           "note": "Male height is converted to centimetres and rounded. The source does not provide a precise female range, so it is left unavailable."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
           "note": "Reliable sources checked do not establish separate male and female weight ranges."
         },
-        "physical.weightKg.male.max": {
+        "physical.weight.male.max": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
           "note": "The source provides a combined breed weight range, not a male-specific maximum."
         },
-        "physical.weightKg.female.max": {
+        "physical.weight.female.max": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
@@ -32470,7 +32546,8 @@
       },
       "physical": {
         "sizeCategory": "Large",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 65,
             "max": 70
@@ -32480,7 +32557,8 @@
             "max": 65
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 27,
             "max": 54
@@ -32852,7 +32930,7 @@
           "verifiedOn": "2026-10-19",
           "note": "Height, coat, colours and general conformation follow the FCI standard. Weight, lifespan and grooming-related values are overridden below where they come from non-standard sources or estimates."
         },
-        "physical.heightCm": {
+        "physical.height": {
           "reliability": "official_standard",
           "sources": [
             {
@@ -32864,7 +32942,7 @@
           "verifiedOn": "2026-10-19",
           "note": "The stored ranges show the standard's nominal ranges; its separate ±2 cm tolerance is not added into these fields."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -33338,7 +33416,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 44,
             "max": 50
@@ -33348,7 +33427,8 @@
             "max": 48
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": null,
           "male": null,
           "female": null
         },
@@ -33613,7 +33693,7 @@
           "verifiedOn": "2026-10-20",
           "note": "Physical details follow the official standard; no unsupported breed-wide weight or lifespan figures are supplied."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
@@ -33931,7 +34011,8 @@
       },
       "physical": {
         "sizeCategory": "Medium",
-        "heightCm": {
+        "height": {
+          "unit": "cm",
           "male": {
             "min": 58,
             "max": 64
@@ -33941,7 +34022,8 @@
             "max": 60
           }
         },
-        "weightKg": {
+        "weight": {
+          "unit": "kg",
           "male": {
             "min": 25,
             "max": 29.5
@@ -34333,9 +34415,9 @@
             }
           ],
           "verifiedOn": "2026-10-19",
-          "note": "Height in heightCm (males 58–64 cm, females 54–60 cm) matches FCI Standard No. 239 and UKC, while AKC (23–25 in / 21.5–23 in) and CKC (57–64 cm / 53–60 cm) ranges are documented in distinctiveFeatures and FAQ."
+          "note": "Height (males 58–64 cm, females 54–60 cm) matches FCI Standard No. 239 and UKC, while AKC (23–25 in / 21.5–23 in) and CKC (57–64 cm / 53–60 cm) ranges are documented in distinctiveFeatures and FAQ."
         },
-        "physical.weightKg": {
+        "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -34350,7 +34432,7 @@
             }
           ],
           "verifiedOn": "2026-10-19",
-          "note": "Sex-specific weights in weightKg (males 25–29.5 kg [55–65 lbs], females 20–25 kg [45–55 lbs]) match the AKC breed profile; the CKC official standard specifies 22–30 kg (48.5–66.25 lbs) across both sexes, while FCI Standard No. 239 and UKC do not state numerical weights."
+          "note": "Sex-specific weights (males 25–29.5 kg [55–65 lbs], females 20–25 kg [45–55 lbs]) match the AKC breed profile; the CKC official standard specifies 22–30 kg (48.5–66.25 lbs) across both sexes, while FCI Standard No. 239 and UKC do not state numerical weights."
         },
         "physical.lifespanYears": {
           "reliability": "reliable_source",

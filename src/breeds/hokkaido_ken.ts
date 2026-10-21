@@ -87,7 +87,8 @@ export const hokkaido_ken: Breed = {
   },
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 45.5,
         max: 51.5
@@ -97,7 +98,8 @@ export const hokkaido_ken: Breed = {
         max: 48.5
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 20,
         max: 30
@@ -494,9 +496,9 @@ export const hokkaido_ken: Breed = {
       ],
       verifiedOn: "2026-10-19",
       note:
-        "Preserves heightCm from the DOKENHO/HANA official standard (males 48.5 cm ± 3 cm = 45.5–51.5 cm; females 45.5 cm ± 3 cm = 42.5–48.5 cm) while noting that FCI Standard No. 261 (and JKC) states 48.5–51.5 cm for males and 45.5–48.5 cm for females (omitting the minus-3-cm allowance). Coat colours combine FCI/UKC/NIPPO colours (sesame, brindle, red, black, black and tan, white) with wolf grey recognized by DOKENHO/HANA; pinto is a fault across all standards."
+        "Preserves height from the DOKENHO/HANA official standard (males 48.5 cm ± 3 cm = 45.5–51.5 cm; females 45.5 cm ± 3 cm = 42.5–48.5 cm) while noting that FCI Standard No. 261 (and JKC) states 48.5–51.5 cm for males and 45.5–48.5 cm for females (omitting the minus-3-cm allowance). Coat colours combine FCI/UKC/NIPPO colours (sesame, brindle, red, black, black and tan, white) with wolf grey recognized by DOKENHO/HANA; pinto is a fault across all standards."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {

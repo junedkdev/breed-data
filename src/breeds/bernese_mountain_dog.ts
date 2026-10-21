@@ -93,7 +93,8 @@ export const bernese_mountain_dog: Breed = {
   },
   physical: {
     sizeCategory: "Large",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 64,
         max: 70,
@@ -103,7 +104,8 @@ export const bernese_mountain_dog: Breed = {
         max: 66,
       },
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 36.3,
         max: 52.2,
@@ -435,7 +437,7 @@ export const bernese_mountain_dog: Breed = {
       note:
         "The standard is used for conformation, coat and height. Weight and lifespan are separately supported by the kennel-club profile.",
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {

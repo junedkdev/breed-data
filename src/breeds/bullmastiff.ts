@@ -65,7 +65,8 @@ export const bullmastiff: Breed = {
   },
   physical: {
     sizeCategory: "Large",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 64,
         max: 69,
@@ -75,7 +76,8 @@ export const bullmastiff: Breed = {
         max: 66,
       },
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 50,
         max: 59,
@@ -461,7 +463,7 @@ export const bullmastiff: Breed = {
       note:
         "The sources consulted did not provide a sufficiently clear and consistent breed-specific drooling rating for this field.",
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "official_standard",
       sources: [
         {

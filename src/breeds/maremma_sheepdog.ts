@@ -72,7 +72,8 @@ export const maremma_sheepdog: Breed = {
   },
   physical: {
     sizeCategory: "Large",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 67,
         max: 73.5
@@ -82,7 +83,8 @@ export const maremma_sheepdog: Breed = {
         max: 70
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 40,
         max: 52

@@ -110,7 +110,8 @@ export const staffordshire_bull_terrier: Breed = {
   },
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 35.56,
         max: 40.64
@@ -120,7 +121,8 @@ export const staffordshire_bull_terrier: Breed = {
         max: 40.64
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 12.7,
         max: 17.2

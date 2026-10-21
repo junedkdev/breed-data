@@ -90,7 +90,8 @@ export const german_rough_haired_pointer: Breed = {
   },
   physical: {
     sizeCategory: "medium-to-large",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 60,
         max: 70
@@ -100,7 +101,8 @@ export const german_rough_haired_pointer: Breed = {
         max: 68
       }
     },
-    weightKg: {
+    weight: {
+      unit: null,
       male: null,
       female: null
     },
@@ -380,7 +382,7 @@ export const german_rough_haired_pointer: Breed = {
       verifiedOn: "2026-10-20",
       note: null
     },
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -392,20 +394,20 @@ export const german_rough_haired_pointer: Breed = {
       verifiedOn: "2026-10-20",
       note: null
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
         "The official standard supplies height ranges but no weight range."
     },
-    "physical.weightKg.male.max": {
+    "physical.weight.male.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "No reliable male maximum weight was established."
     },
-    "physical.weightKg.female.max": {
+    "physical.weight.female.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,

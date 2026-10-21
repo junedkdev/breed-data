@@ -143,8 +143,20 @@ test("placeholder strings are rejected", () => {
 
 test("zero is not a measurement", () => {
   const breed = unverified();
-  breed.physical.weightKg.male = { min: 0, max: 30 };
+  breed.physical.weight.male = { min: 0, max: 30 };
   assert.ok(errorsFor(breed).some((e) => e.includes("outside")));
+});
+
+test("a recorded measurement needs a unit", () => {
+  const breed = unverified();
+  breed.physical.height.unit = null;
+  assert.ok(errorsFor(breed).some((e) => e.includes("Unit is required")));
+});
+
+test("measurement unit must be known", () => {
+  const breed = unverified();
+  (breed.physical.height as { unit: string | null }).unit = "ft";
+  assert.ok(errorsFor(breed).some((e) => e.includes("Unknown unit")));
 });
 
 test("evidence sources must be listed in references", () => {

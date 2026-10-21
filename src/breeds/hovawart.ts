@@ -32,11 +32,13 @@ export const hovawart: Breed = {
   },
   physical: {
     sizeCategory: "Large",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: { min: 63, max: 70 },
       female: { min: 58, max: 65 }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: { min: 30, max: 40 },
       female: { min: 25, max: 35 }
     },
@@ -314,7 +316,7 @@ export const hovawart: Breed = {
       verifiedOn: "2026-10-20",
       note: "Height, coat structure, standard colours and conformation follow the current FCI standard. Weight and lifespan use separate claims."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         { id: "hovawart-club-of-great-britain-breed-introduction", role: "verified", locator: "Breed Introduction: males 30–40 kg, females 25–35 kg" }
@@ -322,7 +324,7 @@ export const hovawart: Breed = {
       verifiedOn: "2026-10-20",
       note: "Breed-club reported weight ranges; the FCI standard itself specifies height, not weight. Individual body condition and build vary."
     },
-    "physical.weightKg.male.max": {
+    "physical.weight.male.max": {
       reliability: "reliable_source",
       sources: [
         { id: "hovawart-club-of-great-britain-breed-introduction", role: "verified", locator: "Breed Introduction: male weight 30–40 kg" }
@@ -330,7 +332,7 @@ export const hovawart: Breed = {
       verifiedOn: "2026-10-20",
       note: "Maximum transcribed from the breed club's published typical male weight range."
     },
-    "physical.weightKg.female.max": {
+    "physical.weight.female.max": {
       reliability: "reliable_source",
       sources: [
         { id: "hovawart-club-of-great-britain-breed-introduction", role: "verified", locator: "Breed Introduction: female weight 25–35 kg" }

@@ -88,7 +88,8 @@ export const blackmouth_cur: Breed = {
   },
   physical: {
     sizeCategory: "medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 45.72,
         max: null,
@@ -98,7 +99,8 @@ export const blackmouth_cur: Breed = {
         max: null,
       },
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 18.14,
         max: null,
@@ -378,7 +380,7 @@ export const blackmouth_cur: Breed = {
       verifiedOn: "2026-10-20",
       note: "Classified as medium-sized in the cited standard.",
     },
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -390,7 +392,7 @@ export const blackmouth_cur: Breed = {
       verifiedOn: "2026-10-20",
       note: "Converted the standard's minimum heights from inches to centimetres. No upper height bounds were added.",
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "official_standard",
       sources: [
         {
@@ -402,13 +404,13 @@ export const blackmouth_cur: Breed = {
       verifiedOn: "2026-10-20",
       note: "Converted the standard's minimum weights from pounds to kilograms. No unsupported upper bounds were added.",
     },
-    "physical.weightKg.male.max": {
+    "physical.weight.male.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "The cited standard specifies a minimum mature male weight but no upper limit.",
     },
-    "physical.weightKg.female.max": {
+    "physical.weight.female.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,

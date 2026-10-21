@@ -112,7 +112,8 @@ export const schweizer_laufhund: Breed = {
   },
   physical: {
     sizeCategory: "Medium",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 49,
         max: 59
@@ -122,7 +123,8 @@ export const schweizer_laufhund: Breed = {
         max: 57
       }
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 18,
         max: 23
@@ -480,7 +482,7 @@ export const schweizer_laufhund: Breed = {
       note:
         "All anatomical details, proportions, height limits (males 49–59 cm, females 47–57 cm, with zero tolerance for over/undersize), coat patterns, and variety-specific skin colours are verified against FCI Standard No. 59, SLC, and UKC."
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {

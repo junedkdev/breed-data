@@ -87,7 +87,8 @@ export const gascon_saintongeois: Breed = {
   },
   physical: {
     sizeCategory: "Medium to large, depending on variety",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 56,
         max: 72,
@@ -97,7 +98,8 @@ export const gascon_saintongeois: Breed = {
         max: 68,
       },
     },
-    weightKg: {
+    weight: {
+      unit: null,
       male: null,
       female: null,
     },
@@ -429,7 +431,7 @@ export const gascon_saintongeois: Breed = {
       note:
         "Breed-standard conformation and coat details are paraphrased. Lifespan and unavailable measurement fields have separate claims.",
     },
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -442,7 +444,7 @@ export const gascon_saintongeois: Breed = {
       note:
         "These male and female ranges combine the outer limits of the Grand and Petit varieties to fit the schema's single height range per sex. They are not the standard range for one individual variety; consult the FAQ for each variety's range. The standard allows ±1 cm tolerance.",
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,

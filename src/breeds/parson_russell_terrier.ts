@@ -81,7 +81,8 @@ export const parson_russell_terrier: Breed = {
   },
   physical: {
     sizeCategory: "Small",
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 30.48,
         max: 38.1,
@@ -91,7 +92,8 @@ export const parson_russell_terrier: Breed = {
         max: 38.1,
       },
     },
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 5.9,
         max: 7.7,
@@ -471,7 +473,7 @@ export const parson_russell_terrier: Breed = {
       verifiedOn: null,
       note: "Small is a catalogue category inferred from the breed standard's measurements.",
     },
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -488,7 +490,7 @@ export const parson_russell_terrier: Breed = {
       verifiedOn: "2026-10-21",
       note: "The stored 30.48–38.1 cm bounds convert the AKC standard's 12–15 inch disqualification boundaries. FCI ideal heights are 36 cm for males and 33 cm for females; these are given in the FAQ because the schema has no separate ideal-height field.",
     },
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "official_standard",
       sources: [
         {

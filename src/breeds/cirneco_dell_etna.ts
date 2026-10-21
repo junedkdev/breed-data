@@ -79,7 +79,8 @@ export const cirneco_dell_etna: Breed = {
   physical: {
     sizeCategory: "Medium",
 
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 46,
         max: 50
@@ -90,7 +91,8 @@ export const cirneco_dell_etna: Breed = {
       }
     },
 
-    weightKg: {
+    weight: {
+      unit: "kg",
       male: {
         min: 10,
         max: 13

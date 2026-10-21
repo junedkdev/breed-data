@@ -64,13 +64,15 @@ export const tibetan_terrier: Breed = {
     sizeCategory: "Medium",
 
     // AKC standard: average male height 15–16 inches; females slightly smaller.
-    heightCm: {
+    height: {
+      unit: "cm",
       male: { min: 38, max: 41 },
       female: null,
     },
 
     // The standard reports an overall range, not separate sex-specific weights.
-    weightKg: {
+    weight: {
+      unit: null,
       male: null,
       female: null
     },
@@ -484,7 +486,7 @@ export const tibetan_terrier: Breed = {
       note: "Physical characteristics follow the breed standard and profile; coat colours may be expressed differently by registry."
     },
 
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -497,21 +499,21 @@ export const tibetan_terrier: Breed = {
       note: "Male height is converted to centimetres and rounded. The source does not provide a precise female range, so it is left unavailable."
     },
 
-    "physical.weightKg": {
+    "physical.weight": {
   reliability: "unavailable",
   sources: [],
   verifiedOn: null,
   note: "Reliable sources checked do not establish separate male and female weight ranges.",
 },
 
-    "physical.weightKg.male.max": {
+    "physical.weight.male.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "The source provides a combined breed weight range, not a male-specific maximum."
     },
 
-    "physical.weightKg.female.max": {
+    "physical.weight.female.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,

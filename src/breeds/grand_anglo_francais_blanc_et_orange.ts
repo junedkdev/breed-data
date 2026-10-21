@@ -65,7 +65,8 @@ export const grand_anglo_francais_blanc_et_orange: Breed = {
   physical: {
     sizeCategory: "Large",
 
-    heightCm: {
+    height: {
+      unit: "cm",
       male: {
         min: 60,
         max: 70
@@ -76,7 +77,8 @@ export const grand_anglo_francais_blanc_et_orange: Breed = {
       }
     },
 
-    weightKg: {
+    weight: {
+      unit: null,
       male: null,
       female: null
     },
@@ -496,7 +498,7 @@ export const grand_anglo_francais_blanc_et_orange: Breed = {
         "The populated conformation fields follow the FCI and UKC standards. Unsupported numerical fields are explicitly overridden below."
     },
 
-    "physical.heightCm": {
+    "physical.height": {
       reliability: "official_standard",
       sources: [
         {
@@ -515,7 +517,7 @@ export const grand_anglo_francais_blanc_et_orange: Breed = {
         "The FCI standard gives one breed-wide range, not separate sex-specific ranges. The schema has no overall-height field, so the same range is represented in both slots and should not be interpreted as a distinct male/female difference."
     },
 
-    "physical.weightKg": {
+    "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
