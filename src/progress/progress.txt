@@ -42,8 +42,8 @@
 37:great_dane - C
 38:gascon_saintongeois - C
 39:alpine_dachsbracke - C
+40:parson_russell_terrier - C
 
-40:parson_russell_terrier
 41:german_shepherd_dog
 42:drentse_patrijshond
 43:stabyhoun
