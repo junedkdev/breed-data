@@ -45,8 +45,7 @@
 41:german_shepherd_dog - C
 42:drentse_patrijshond - C
 43:stabyhoun - C
-
-44:lowchen - R
+44:lowchen - C
 
 45:collie,_rough
 46:japanese_chin
