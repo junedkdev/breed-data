@@ -47,6 +47,7 @@ import { alpine_dachsbracke } from "./alpine_dachsbracke";
 import { parson_russell_terrier } from "./parson_russell_terrier";
 import { german_shepherd_dog } from "./german_shepherd_dog";
 import { drentse_patrijshond } from "./drentse_patrijshond";
+import { stabyhoun } from "./stabyhoun";
 
 
 export const breedData: readonly Breed[] = [
@@ -93,4 +94,5 @@ export const breedData: readonly Breed[] = [
   parson_russell_terrier,
   german_shepherd_dog,
   drentse_patrijshond,
+  stabyhoun,
 ];
