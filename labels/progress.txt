@@ -1,0 +1,376 @@
+0:eurasier - CG
+1:hokkaido_ken -CG
+2:italian_greyhound - CG
+3:schweizer_laufhund - CG
+4:great_pyrenees - CG
+5:wirehaired_vizsla - CG
+6:glen_of_imaal_terrier - CG
+7:pharaoh_hound - CG 
+8:braque_francais_(gascogne) - CG
+9:berger_blanc_suisse - CG
+10:staffordshire_bull_terrier - CG
+11:slovak_cuvac - CG
+12:russian_toy - CG
+13:kromfohrlander - CG
+
+
+14:coton_de_tulear - C
+15:cirneco_dell'etna - C
+16:nova_scotia_duck-tolling_retriever - C
+17:bloodhound - C
+18:grand_anglo-francais_tricolore - C
+19:grand_anglo-francais_blanc_et_orange - C
+20:tornjak - C
+21:bullmastiff - C
+22:bucovina_shepherd_dog - C
+23:boykin_spaniel - C
+24:artois_hound - C
+25:old_danish_pointer - C
+26:maremma_sheepdog - C
+27:hovawart - C
+28:american_english_coonhound - C
+29:english_setter - C
+30:pyrenean_mastiff - C
+31:tibetan_terrier - C
+32:blackmouth_cur - C
+33:german_rough-haired_pointer - C
+34:tyrolean_hound - C
+35:bernese_mountain_dog - C
+36:brittany - C
+37:great_dane - C
+
+
+
+38:gascon_saintongeois
+39:alpine_dachsbracke
+40:parson_russell_terrier
+41:german_shepherd_dog
+42:drentse_patrijshond
+43:stabyhoun
+44:lowchen
+45:collie,_rough
+46:japanese_chin
+47:petit_brabancon
+48:dutch_smoushond
+49:dalmatian
+50:samoyed
+51:jack_russell_terrier
+52:american_cocker_spaniel
+53:canadian_eskimo_dog
+54:scottish_deerhound
+55:skye_terrier
+56:yorkshire_terrier
+57:basset_griffon_vendeen,_petit
+58:gordon_setter
+59:afghan_hound
+60:chow_chow
+61:airedale_terrier
+62:doberman_pinscher
+63:welsh_terrier
+64:finnish_hound
+65:aidi
+66:puli
+67:portuguese_water_dog
+68:chinese_crested_dog
+69:griffon_bleu_de_gascogne
+70:braque_saint-germain
+71:schipperke
+72:braque_d'auvergne
+73:english_toy_terrier_(black_&_tan)
+74:clumber_spaniel
+75:broholmer
+76:manchester_terrier
+77:spinone_italiano
+78:mudi
+79:rafeiro_do_alentejo
+80:polish_hound
+81:icelandic_sheepdog
+82:old_english_sheepdog
+83:saluki
+84:grey_norwegian_elkhound
+85:ariegeois
+86:lancashire_heeler
+87:german_spitz
+88:shiba_inu
+89:belgian_shepherd_dog_(malinois)
+90:bulldog
+91:schapendoes
+92:toy_fox_terrier
+93:sabueso_espanol
+94:american_akita
+95:golden_retriever
+96:bull_terrier
+97:austrian_pinscher
+98:swedish_lapphund
+99:lhasa_apso
+100:papillon_and_phalene
+101:chien_francais_tricolore
+102:shar_pei
+103:kai_ken
+104:german_longhaired_pointer
+105:ibizan_hound
+106:black_norwegian_elkhound
+107:australian_silky_terrier
+108:american_bulldog
+109:cairn_terrier
+110:kooikerhondje
+111:norfolk_terrier
+112:central_asian_shepherd_dog
+113:drever
+114:perro_de_presa_mallorquin
+115:epagneul_bleu_de_picardie
+116:posavac_hound
+117:beauceron
+118:berger_picard
+119:podenco_canario
+120:sussex_spaniel
+121:cesky_fousek
+122:bull_terrier_(miniature)
+123:akita_inu
+124:schweizerischer_niederlaufhund
+125:boxer
+126:pug
+127:segugio_italiano_a_pelo_forte
+128:kuvasz
+129:schillerstovare
+130:american_staffordshire_terrier
+131:beagle-harrier
+132:treeing_walker_coonhound
+133:segugio_italiano_a_pelo_raso
+134:cao_de_castro_laboreiro
+135:american_eskimo_dog
+136:finnish_spitz
+137:transylvanian_hound
+138:hamiltonstovare
+139:basset_hound
+140:greenland_dog
+141:estrela_mountain_dog
+142:west_highland_white_terrier
+143:patterdale_terrier
+144:istrian_coarse-haired_hound
+145:appenzeller_sennenhund
+146:azawakh
+147:english_cocker_spaniel
+148:danish_swedish_farmdog
+149:griffon_bruxellois_80
+150:barbet
+151:scottish_terrier
+152:briard
+153:weimaraner
+154:curly_coated_retriever
+155:spanish_mastiff
+156:norrbottenspets
+157:rhodesian_ridgeback
+158:whippet
+159:fox_terrier_(smooth)
+160:bolognese
+161:belgian_shepherd_dog_(groenendael)
+162:basset_bleu_de_gascogne
+163:croatian_sheepdog
+164:harrier
+165:peruvian_hairless_dog
+166:montenegrin_mountain_hound
+167:halden_hound
+168:caucasian_shepherd_dog
+169:english_springer_spaniel
+170:alaskan_malamute
+171:landseer
+172:welsh_corgi,_cardigan
+173:carpathian_shepherd_dog
+174:kerry_blue_terrier
+175:basset_griffon_vendeen,_grand
+176:irish_water_spaniel
+177:belgian_shepherd_dog_(laekenois)
+178:bouvier_des_flandres
+179:basset_fauve_de_bretagne
+180:australian_cattle_dog
+181:grand_anglo-francais_blanc_et_noir
+182:picardy_spaniel
+183:dogo_argentino
+184:greater_swiss_mountain_dog
+185:greyhound
+186:cane_corso
+187:lagotto_romagnolo
+188:slovakian_rough-haired_pointer
+189:thai_bangkaew_dog
+190:shih_tzu
+191:perro_de_presa_canario
+192:belgian_shepherd_dog_(tervuren)
+193:pekingese
+194:affenpinscher
+195:dachshund
+196:standard_schnauzer
+197:boston_terrier
+198:saarlooswolfhond
+199:welsh_springer_spaniel
+200:french_spaniel
+201:lakeland_terrier
+202:portuguese_pointer
+203:uruguayan_cimarron
+204:west_siberian_laika
+205:japanese_spitz
+206:cao_da_serra_de_aires
+207:shikoku_ken
+208:american_hairless_terrier
+209:fox_terrier,_wire
+210:polish_lowland_sheepdog
+211:south_russian_ovcharka
+212:border_collie
+213:pont-audemer_spaniel
+214:jamthund
+215:bedlington_terrier
+216:thai_ridgeback
+217:german_shorthaired_pointer
+218:galgo_espanol
+219:chien_francais_blanc_et_noir
+220:poitevin
+221:miniature_schnauzer
+222:pyrenean_sheepdog,_longhaired
+223:polish_hunting_dog
+224:volpino_italiano
+225:wetterhoun
+226:labradoodle
+227:komondor
+228:cao_fila_de_sao_miguel
+229:anatolian_shepherd_dog
+230:soft-coated_wheaten_terrier
+231:plott_hound
+232:bavarian_mountain_hound
+233:sarplaninac
+234:catalan_sheepdog
+235:serbian_hound
+236:styrian_coarse-haired_hound
+237:keeshond
+238:east_siberian_laika
+239:basset_artesien_normand
+240:irish_wolfhound
+241:burgos_pointer
+242:billy
+243:newfoundland
+244:australian_terrier
+245:austrian_black_and_tan_hound
+246:cavalier_king_charles_spaniel
+247:taiwan_dog
+248:smalandsstovare
+249:griffon_fauve_de_bretagne
+250:st._bernard
+251:griffon_nivernais
+252:carolina_dog
+253:kishu_ken
+254:leonberger
+255:braque_francais_(pyrenees)
+256:poodle
+257:karelian_bear_dog
+258:lapponian_herder
+259:australian_kelpie
+260:borzoi
+261:japanese_terrier
+262:fila_brasileiro
+263:field_spaniel
+264:pumi
+265:rat_terrier
+266:pudelpointer
+267:miniature_pinscher
+268:ariege_pointer
+269:munsterlander,_small
+270:american_foxhound
+271:chesapeake_bay_retriever
+272:dutch_shepherd_dog
+273:norwegian_lundehund
+274:chien_francais_blanc_et_orange
+275:polish_tatra_sheepdog
+276:german_wirehaired_pointer
+277:labrador_retriever
+278:rottweiler
+279:porcelaine
+280:pomeranian
+281:bosnian_coarse-haired_hound
+282:american_pit_bull_terrier
+283:hanover_hound
+284:irish_setter
+285:brazilian_terrier
+286:hygenhund
+287:australian_shepherd
+288:czechoslovak_wolfdog
+289:cesky_terrier
+290:otterhound
+291:russo-european_laika
+292:border_terrier
+293:redbone_coonhound
+294:anglo-francais_de_petite_venerie
+295:korean_jindo
+296:welsh_corgi,_pembroke
+297:bluetick_coonhound
+298:havanese
+299:bergamasco_shepherd
+300:american_water_spaniel
+301:jagdterrier
+302:vizsla
+303:tibetan_mastiff
+304:slovensky_kopov
+305:english_mastiff
+306:bleu_de_gascogne,_petit
+307:dunker
+308:portuguese_podengo
+309:collie,_smooth
+310:deutsche_bracke
+311:catahoula_cur
+312:dogue_de_bordeaux
+313:german_spaniel
+314:tosa
+315:giant_schnauzer
+316:german_pinscher
+317:norwich_terrier
+318:westphalian_dachsbracke
+319:greek_harehound
+320:maltese
+321:bleu_de_gascogne,_grand
+322:goldendoodle
+323:alaskan_klee_kai
+324:olde_english_bulldogge
+325:basenji
+326:briquet_griffon_vendeen
+327:bracco_italiano
+328:polish_greyhound
+329:canaan_dog
+330:wirehaired_pointing_griffon
+331:tibetan_spaniel
+332:spanish_water_dog
+333:serbian_tricolour_hound
+334:bouvier_des_ardennes
+335:boerboel
+336:flat-coated_retriever
+337:norwegian_buhund
+338:braque_du_bourbonnais
+339:munsterlander,_large
+340:irish_red_and_white_setter
+341:siberian_husky
+342:chihuahua
+343:neapolitan_mastiff
+344:french_bulldog
+345:grand_griffon_vendeen
+346:bichon_frise
+347:black_russian_terrier
+348:finnish_lapphund
+349:sloughi
+350:pointer
+351:karst_shepherd
+352:swedish_vallhund
+353:bearded_collie
+354:beagle
+355:irish_terrier
+356:mioritic
+357:mexican_hairless_dog
+358:black_and_tan_coonhound
+359:dandie_dinmont_terrier
+360:griffon_belge
+361:shetland_sheepdog
+362:pyrenean_sheepdog,_smooth-faced
+363:entlebucher_mountain_dog
+364:magyar_agar
+365:istrian_shorthaired_hound
+366:australian_stumpy_tail_cattle_dog
+367:english_foxhound
+368:sealyham_terrier
+369:majorca_shepherd_dog
+370:king_charles_spaniel

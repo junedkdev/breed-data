@@ -1,0 +1,23 @@
+{
+  "name": "breed-data",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Authors dog breed records and writes data.json.",
+  "type": "module",
+  "scripts": {
+    "prepare": "husky",
+    "check": "tsc --noEmit -p tsconfig.json",
+    "validate": "tsx src/build.ts --check",
+    "validate:json": "tsx src/validate-json.ts",
+    "build": "tsx src/build.ts",
+    "build:minify": "tsx src/build.ts --minify",
+    "test": "tsx --test src/validate.test.ts",
+    "all": "npm run build && npm run check && npm test && npm run validate:json"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.0",
+    "husky": "^9.1.7",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

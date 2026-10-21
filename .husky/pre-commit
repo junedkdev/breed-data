@@ -1,0 +1,17 @@
+#!/usr/bin/env sh
+set -e
+
+if ! command -v npm >/dev/null 2>&1; then
+  echo "pre-commit: npm is required to check the breed catalog."
+  exit 1
+fi
+
+if [ ! -d node_modules ]; then
+  echo "pre-commit: installing dependencies..."
+  npm ci
+fi
+
+echo "pre-commit: checking the breed catalog..."
+npm run all
+
+git add -- data.json
