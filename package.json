@@ -7,11 +7,12 @@
   "scripts": {
     "prepare": "husky",
     "check": "tsc --noEmit -p tsconfig.json",
-    "validate": "tsx src/build.ts --check",
-    "validate:json": "tsx src/validate-json.ts",
-    "build": "tsx src/build.ts",
-    "build:minify": "tsx src/build.ts --minify",
-    "test": "tsx --test src/validate.test.ts",
+    "validate": "tsx src/build/write-catalog.ts --check",
+    "validate:json": "tsx src/build/check-json.ts",
+    "build": "tsx src/build/write-catalog.ts",
+    "build:minify": "tsx src/build/write-catalog.ts --minify",
+    "test": "tsx --test src/validate/rules.test.ts src/progress/file.test.ts src/ui/sources.test.ts",
+    "ui": "tsx src/ui/server.ts",
     "all": "npm run build && npm run check && npm test && npm run validate:json"
   },
   "devDependencies": {

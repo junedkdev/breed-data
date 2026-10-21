@@ -16,5 +16,5 @@
     "skipLibCheck": true,
     "resolveJsonModule": true
   },
-  "include": ["src/**/*.ts", "breeds/**/*.ts"]
+  "include": ["src/**/*.ts"]
 }

@@ -1,0 +1,23 @@
+I have provided a detailed TypeScript breed object for my DogLens application. Please thoroughly verify every field using reliable sources such as official breed standards, reputable kennel clubs, veterinary organisations, and scientific publications.
+
+**Your tasks:**
+1. Verify all existing values and correct any inaccurate, outdated, or unsupported information.
+2. Fill missing or `null` values only when you can verify them from trustworthy sources. Add useful details where appropriate.
+3. If a value cannot be reliably established, keep it `null` or empty. Never guess, invent facts, or present estimates as confirmed facts.
+4. Rewrite all descriptions, summaries, FAQs, care guidance, and other user-facing text in clear, original wording. Do not copy source text verbatim.
+5. Do not mention source names or phrases such as “According to FCI” or “AKC states” inside user-facing values. Keep the content self-contained and natural. Record sources only in the appropriate `sources`, `references`, and `evidence` fields.
+6. Verify every source URL and ensure image licenses permit the intended commercial use. Preserve required attribution and license conditions. Flag any source or image whose commercial-use permission is unclear.
+7. Preserve my existing TypeScript schema, field names, data types, evidence rules, and source IDs wherever applicable. Add new source entries only when necessary, and ensure every evidence source is included in `references`.
+8. For health information, distinguish scientifically established conditions from isolated reports, possible risks, and screening recommendations. Do not imply that a condition is common without reliable evidence.
+
+**Output requirements:**
+Return the complete corrected TypeScript object, ready to use in my project. Also provide any required new source-registry entries and clearly identify important corrections. Do not omit fields or change the schema. Prioritise factual accuracy, reliable evidence, original wording, and commercial-use suitability over filling every field.
+
+The schema and registries live in src/schema/breed.types.ts, src/registry/sources.ts, src/registry/licenses.ts, and src/breeds/data.ts. The validator lives in src/validate. Do not edit generated data.json.
+
+Keep this import: import type { Breed } from "../schema/breed.types";
+
+Progress is tracked in src/progress/progress.txt. A line ending in " - C" means ChatGPT generated that breed. After I apply your corrections, I change that ending to " - CG", which means this prompt verified it. Do not edit progress.txt yourself.
+
+Here is my breed object:
+
