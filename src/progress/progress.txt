@@ -21,8 +21,7 @@
 18:grand_anglo-francais_tricolore - CG
 19:grand_anglo-francais_blanc_et_orange - CG
 20:tornjak - CG
-
-21:bullmastiff - CR
+21:bullmastiff - CG
 
 22:bucovina_shepherd_dog - C
 23:boykin_spaniel - C

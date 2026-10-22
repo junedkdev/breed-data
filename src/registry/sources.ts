@@ -1475,55 +1475,51 @@ export const sources = defineSources({
     accessedOn: "2026-10-19",
     note: "Official UKC breed standard (recognized 2008, revised February 1, 2018; Companion Dog Group), specifying height 8–11 in (preferred 10 in), weight up to 6 lbs (preferred 5 lbs; eliminating fault <3 lbs or >6 lbs; disqualifying <2 lbs), and all 11 coat colours."
   },
-  "fci-bullmastiff-official-standard": {
+"fci-bullmastiff-official-standard": {
     id: "fci-bullmastiff-official-standard",
     name: "FCI - Bullmastiff Official Breed Standard No. 157",
     publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/nomenclature/Standards/157g02-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2026-09-08",
-    accessedOn: "2026-10-19",
-    note:
-      "The PDF header is dated 06.10.2026 and the document states that the official valid standard was published on 08.09.2026.",
+    accessedOn: "2026-10-22",
+    note: "Official FCI Standard No. 157 (header dated 06.10.2026; official valid standard published 08.09.2026) covering Great Britain origin, Group 2 Section 2.1 classification without working trial, utilization, historical summary, temperament, head proportions (1:3 muzzle-to-head ratio, level/pincer or slightly undershot bite, non-pendulous flews), conformation, coat, colour (brindle, fawn, or red with essential black muzzle and slight white chest mark permissible), height (males 64–69 cm, females 61–66 cm), and weight (males 50–59 kg, females 41–50 kg)."
   },
 
-  "american-kennel-club-bullmastiff": {
+"american-kennel-club-bullmastiff": {
     id: "american-kennel-club-bullmastiff",
     name: "American Kennel Club - Bullmastiff",
     publisher: "American Kennel Club",
     url: "https://www.akc.org/dog-breeds/bullmastiff/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note:
-      "Breed profile covering typical height, weight, life expectancy, temperament, exercise, grooming, and recommended health tests.",
+    accessedOn: "2026-10-22",
+    note: "Official AKC breed profile covering height (males 25–27 in, females 24–26 in; male average 26 in), weight (males 110–130 lbs, females 100–120 lbs; male average 120 lbs), life expectancy (7–9 years), 'The Gamekeeper's Night Dog' nickname, 1860 English origins, 1933/1934 AKC recognition, grooming, exercise, training, nutrition (several small puppy meals, two adult meals daily, post-meal rest), and recommended health tests (hip, elbow, cardiac, ophthalmologist, and thyroid evaluations)."
   },
 
-  "royal-kennel-club-bullmastiff-standard": {
+"royal-kennel-club-bullmastiff-standard": {
     id: "royal-kennel-club-bullmastiff-standard",
     name: "The Royal Kennel Club - Bullmastiff Breed Standard",
     publisher: "The Royal Kennel Club",
     url: "https://www.royalkennelclub.com/breed-standards/working/bullmastiff/",
     type: "official_breed_standard",
     publishedOn: "2025-08-01",
-    accessedOn: "2026-10-19",
-    note:
-      "The standard page states it was last updated on 1 August 2025. Used as a cross-reference for physical characteristics and temperament.",
+    accessedOn: "2026-10-22",
+    note: "Official UK breed standard (last updated 1 August 2025) specifying Working Group classification, conformation, temperament, coat, colour, height (dogs 64–69 cm / 25–27 in, bitches 61–66 cm / 24–26 in), and weight (dogs 50–59 kg / 110–130 lbs, bitches 41–50 kg / 90–110 lbs)."
   },
 
-  "royal-kennel-club-bullmastiff-profile": {
+"royal-kennel-club-bullmastiff-profile": {
     id: "royal-kennel-club-bullmastiff-profile",
     name: "The Royal Kennel Club - Bullmastiff Breed Profile",
     publisher: "The Royal Kennel Club",
     url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/working/bullmastiff/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note:
-      "Breed history, coat, home and garden guidance, exercise listing, lifespan category, and recommended pre-breeding hip, elbow, and eye screening.",
+    accessedOn: "2026-10-22",
+    note: "Official UK breed profile detailing 19th-century gamekeeper history, brindle nighttime camouflage, breed characteristics (large house, large garden, weekly grooming, under 10 years lifespan, >2 hours daily exercise listing), Breed Watch Category 2 status, short-muzzle/facial-fold care, and Good Practice pre-breeding schemes (elbow, eye, and hip testing)."
   },
 
-  "american-bullmastiff-association-health-statement": {
+"american-bullmastiff-association-health-statement": {
     id: "american-bullmastiff-association-health-statement",
     name: "American Bullmastiff Association - Health Statement",
     publisher: "American Bullmastiff Association",
@@ -1531,68 +1527,62 @@ export const sources = defineSources({
     type: "breed_club",
     publishedOn: null,
     accessedOn: "2026-10-19",
-    note:
-      "The breed-club statement recommends pre-breeding screening for hips, elbows, thyroid, eyes, and heart. No publication date is asserted because a precise date was not established.",
+    note: "Official parent-club health statement recommending pre-breeding screening for hip dysplasia, elbow dysplasia, autoimmune thyroiditis / hypothyroidism, ophthalmic disorders, and cardiac disease."
   },
 
-  "american-bullmastiff-association-common-health-conditions": {
+"american-bullmastiff-association-common-health-conditions": {
     id: "american-bullmastiff-association-common-health-conditions",
     name: "American Bullmastiff Association - Common Diseases and Conditions",
     publisher: "American Bullmastiff Association",
     url: "https://bullmastiff.us/health-rescue/common-diseases-conditions/",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note:
-      "Breed-club educational reference covering cardiac disorders, eye problems, and hypothyroidism. It explicitly advises that the material does not replace veterinary care.",
+    accessedOn: "2026-10-22",
+    note: "Parent-club health reference covering high pain tolerance, allergies, bloat (GDV), cancer (hemangiosarcoma, lymphoma/lymphosarcoma, mast cell tumors, osteosarcoma, mammary tumors), cardiac disorders (valvular murmurs, sub-aortic stenosis [SAS], cardiomyopathy), eye disorders (entropion, autosomal dominant PRA, retinal dysplasia), hypothyroidism, kidney/urinary disease (chronic renal failure, cystinuria, glomerulonephritis, renal amyloidosis, juvenile renal dysplasia), and orthopedic conditions (hip/elbow dysplasia, cruciate ligament rupture, HOD, OCD, and panosteitis)."
   },
 
-  "petmd-bullmastiff-health-and-care": {
+"petmd-bullmastiff-health-and-care": {
     id: "petmd-bullmastiff-health-and-care",
     name: "PetMD - Bullmastiff Dog Breed Health and Care",
     publisher: "PetMD",
     url: "https://www.petmd.com/dog/breeds/bullmastiff",
     type: "veterinary",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note:
-      "Veterinary-authored breed-care article covering typical lifespan, dilated cardiomyopathy, entropion, training, and home considerations. A precise publication date was not recorded.",
+    publishedOn: "2025-04-15",
+    accessedOn: "2026-10-22",
+    note: "Veterinary-authored breed guide (by Michelle Diener, DVM; reviewed by Molly Price, DVM; updated 15 April 2025) covering 7–9 year lifespan, dilated cardiomyopathy (DCM), subaortic valvular stenosis (SAS), entropion, progressive retinal atrophy (PRA), hip/elbow dysplasia, lymphoma, bloat/GDV and prophylactic gastropexy, feeding (2–3 meals/day at floor level, slow-feeder bowls, 1-hour rest before/after meals), moderate drooling and daily jowl wiping, allergy-related ear care, training, and fenced-yard/housing guidance."
   },
 
-  "merck-veterinary-manual-gastric-dilatation-volvulus": {
+"merck-veterinary-manual-gastric-dilatation-volvulus": {
     id: "merck-veterinary-manual-gastric-dilatation-volvulus",
     name: "Merck Veterinary Manual - Gastric Dilatation and Volvulus in Small Animals",
     publisher: "Merck Veterinary Manual",
     url: "https://www.merckvetmanual.com/digestive-system/surgical-problems-of-the-gastrointestinal-tract-in-small-animals/gastric-dilation-and-volvulus-in-small-animals",
     type: "veterinary_reference",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note:
-      "Veterinary reference on GDV/bloat, including risk factors, warning signs, and urgent treatment. The source reports a full review in August 2025; no exact publication day is asserted.",
+    accessedOn: "2026-10-22",
+    note: "Peer-reviewed veterinary reference (by Kevin P. Winkler, DVM, DACVS; reviewed August 2025) detailing GDV pathophysiology, risk factors, clinical signs, emergency stabilization and derotation, and preventive measures (multiple small meals, exercise restriction around meals, reducing mealtime stress, avoiding elevated bowls, and prophylactic gastropexy)."
   },
 
-  "wikimedia-bullmastiff-desaix83": {
+"wikimedia-bullmastiff-desaix83": {
     id: "wikimedia-bullmastiff-desaix83",
     name: "Wikimedia Commons - Bullmastiff.jpg",
     publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Bullmastiff.jpg",
     type: "other",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note:
-      "File page identifies creator Desaix83, based on the work of Fausto Moreno; image dimensions 589 × 509 pixels; licensed CC BY-SA 3.0. Attribute the creators, link the license, indicate any additional changes, and observe share-alike requirements for adaptations.",
+    accessedOn: "2026-10-22",
+    note: "Wikimedia Commons file page for 'File:Bullmastiff.jpg' (589 × 509 px, CC BY-SA 3.0), uploaded on 2015-03-17 by Desaix83 as a white-background derivative of 'File:Bullmastiff edited.JPG' (originally photographed by Fausto Moreno on 2006-10-07)."
   },
 
-  "wikimedia-bullmastiff-puppy-davidmiron": {
+"wikimedia-bullmastiff-puppy-davidmiron": {
     id: "wikimedia-bullmastiff-puppy-davidmiron",
     name: "Wikimedia Commons - Bullmastiff puppy.jpg",
     publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Bullmastiff_puppy.jpg",
     type: "other",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note:
-      "File page identifies Davidmiron as creator and uploader; the page describes a two-month-old puppy and lists original dimensions 1836 × 1224 pixels. Licensed CC BY-SA 3.0; retain attribution and the applicable share-alike terms.",
+    accessedOn: "2026-10-22",
+    note: "Wikimedia Commons file page for 'File:Bullmastiff puppy.jpg' (1836 × 1224 px, CC BY-SA 3.0 / GFDL 1.2+), photographed by Davidmiron on 2005-07-09 (Nikon D70 EXIF) and uploaded on 2008-10-05."
   },
   "american-kennel-club-great-pyrenees": {
     id: "american-kennel-club-great-pyrenees",
@@ -5471,6 +5461,66 @@ export const sources = defineSources({
     publishedOn: null,
     accessedOn: "2026-10-22",
     note: "Image metadata and CC BY-SA 4.0 terms checked on the original file page; creator is listed as Canarian."
+  },
+  "fci-bullmastiff-nomenclature": {
+    id: "fci-bullmastiff-nomenclature",
+    name: "FCI - Bullmastiff Breed Nomenclature No. 157",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/en/nomenclature/Bullmastiff-157.html",
+    type: "official_breed_standard",
+    publishedOn: "2026-09-08",
+    accessedOn: "2026-10-22",
+    note: "Official FCI nomenclature entry No. 157 confirming Great Britain origin, Group 2 Section 2.1 (Molossian type, Mastiff type) classification without working trial, definitive acceptance on 1955-04-23, official valid standard date 2026-09-08, and English standard publication on 2026-10-06."
+  },
+  "american-bullmastiff-association-about-the-breed": {
+    id: "american-bullmastiff-association-about-the-breed",
+    name: "American Bullmastiff Association - About the Breed & AKC Breed Standard",
+    publisher: "American Bullmastiff Association",
+    url: "https://bullmastiff.us/about-the-breed/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "Official parent-club breed overview and AKC standard (approved 8 February 1992, effective 31 March 1992) detailing the 60% Mastiff / 40% Bulldog foundation, 1860 English estate history, 1924 UK and October 1933/1934 US recognition, 8–10 year lifespan, height (males 25–27 in, females 24–26 in), weight (males 110–130 lbs, females 100–120 lbs), and opposite-sex multi-dog household advice."
+  },
+  "american-bullmastiff-association-getting-to-know": {
+    id: "american-bullmastiff-association-getting-to-know",
+    name: "American Bullmastiff Association - Getting to Know the Bullmastiff",
+    publisher: "American Bullmastiff Association",
+    url: "https://bullmastiff.us/about-the-breed/getting-to-know-the-bullmastiff/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "Parent-club temperament and FAQ guide covering guardian disposition, drooling, size variations (85 lb females to 170+ lb males outside standard ranges), adult feeding volume (2–3 cups of dry kibble twice daily, or 40–60 lbs/month), obedience training, and avoiding high-impact activities until well over 18 months of age."
+  },
+  "akc-bullmastiff-history": {
+    id: "akc-bullmastiff-history",
+    name: "American Kennel Club - Bullmastiff History: From World-Class Protector to Family Companion",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/expert-advice/dog-breeds/bullmastiff-history/",
+    type: "kennel_club",
+    publishedOn: "2026-09-14",
+    accessedOn: "2026-10-22",
+    note: "Historical feature by Denise Flaim detailing 'The Gamekeeper's Night Dog', William Burton's Thorneywood Kennels and Thorneywood Terror's undefeated one-pound wager, nighttime patrol communication via forehead wrinkling, and the Rockefeller family's 1934 import of Bullmastiffs to their Pocantico estate."
+  },
+  "northern-bullmastiff-club-about-the-breed": {
+    id: "northern-bullmastiff-club-about-the-breed",
+    name: "The Northern Bullmastiff Club - About the Bullmastiff",
+    publisher: "The Northern Bullmastiff Club",
+    url: "https://www.northernbullmastiffclub.com/about-the-bullmastiff.php",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "UK breed-club history and care guide documenting historical names ('Bull and Mastiff dog', 'Gamekeeper's Night Dog', 'Bull-Mastiff'), the 1900 Gamekeepers' Dog Show, S. E. Moseley's Farcroft Kennels and 'Moseley Recipe', 1924 UK recognition and 1928 first champions (Ch. Farcroft Silvo and Ch. Tiger Prince), same-sex dog intolerance at maturity, low alone-time tolerance, and slobber/drool."
+  },
+  "bullmastiff-lymphoma-gwas-mortlock-2023": {
+    id: "bullmastiff-lymphoma-gwas-mortlock-2023",
+    name: "Genomic Analysis of Lymphoma Risk in Bullmastiff Dogs",
+    publisher: "Veterinary Sciences (MDPI / PubMed)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/38133254/",
+    type: "scientific",
+    publishedOn: "2023-12-14",
+    accessedOn: "2026-10-22",
+    note: "Peer-reviewed genome-wide association study (Mortlock et al., Vet Sci 2023;10(12):703, PMID: 38133254, PMCID: PMC10747964) of Bullmastiff lymphoma (average diagnosis age <6 years in 55 cases; 49 genotyped cases vs. 281 controls), identifying risk-associated regions on chromosomes 13 (MYC / PVT1) and 33 (SENP7 / NFKBIZ)."
   },
 });
 
