@@ -5402,6 +5402,76 @@ export const sources = defineSources({
     accessedOn: "2026-10-22",
     note: "Veterinary charity guidance on breed care and potential health concerns.",
   },
+  "american-kennel-club-petit-basset-griffon-vendeen": {
+    id: "american-kennel-club-petit-basset-griffon-vendeen",
+    name: "American Kennel Club - Petit Basset Griffon Vendéen",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/petit-basset-griffon-vendeen/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "Breed profile covering characteristics, size, life expectancy, and general care."
+  },
+  "fci-petit-basset-griffon-vendeen-standard": {
+    id: "fci-petit-basset-griffon-vendeen-standard",
+    name: "FCI Standard No. 67 - Petit Basset Griffon Vendéen",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/067g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2001-02-14",
+    accessedOn: "2026-10-22",
+    note: "FCI standard No. 67. The document states that the official valid standard was published on 1999-01-09."
+  },
+  "pbgv-club-of-america-health": {
+    id: "pbgv-club-of-america-health",
+    name: "Petit Basset Griffon Vendéen Club of America - Health",
+    publisher: "Petit Basset Griffon Vendéen Club of America",
+    url: "https://pbgv.org/health/",
+    type: "breed_club",
+    publishedOn: "2024-11-13",
+    accessedOn: "2026-10-22",
+    note: "Breed-club health overview, including reported conditions, POAG testing, and eye examinations."
+  },
+  "pbgv-club-of-america-standard": {
+    id: "pbgv-club-of-america-standard",
+    name: "Petit Basset Griffon Vendéen Club of America - AKC Breed Standard",
+    publisher: "Petit Basset Griffon Vendéen Club of America",
+    url: "https://pbgv.org/standard/",
+    type: "official_breed_standard",
+    publishedOn: "2014-07-01",
+    accessedOn: "2026-10-22",
+    note: "Club-hosted AKC standard; approved 2014-04-22 and effective 2014-07-01."
+  },
+  "wikimedia-pbgv-pleple2000-photo": {
+    id: "wikimedia-pbgv-pleple2000-photo",
+    name: "Wikimedia Commons - Petit basset griffon vendeen.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Petit_basset_griffon_vendeen.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "Image metadata and CC BY-SA 3.0 terms checked on the original file page; creator is listed as Pleple2000."
+  },
+  "wikimedia-pbgv-nathan150-photo": {
+    id: "wikimedia-pbgv-nathan150-photo",
+    name: "Wikimedia Commons - Petit Basset Griffon Vendéen.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Petit_Basset_Griffon_Vend%C3%A9en.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "Image metadata and CC BY 2.0 terms checked on the original file page; photographer is Nathan150 and the file was uploaded to Commons by Ltshears."
+  },
+  "wikimedia-pbgv-canarian-photo": {
+    id: "wikimedia-pbgv-canarian-photo",
+    name: "Wikimedia Commons - DocFile PBGV.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:DocFile_PBGV.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "Image metadata and CC BY-SA 4.0 terms checked on the original file page; creator is listed as Canarian."
+  },
 });
 
 export type SourceId = keyof typeof sources;

@@ -59,8 +59,7 @@
 54:scottish_deerhound - C
 55:skye_terrier - C
 56:yorkshire_terrier - C
-
-57:basset_griffon_vendeen,_petit - R
+57:basset_griffon_vendeen,_petit - C
 
 58:gordon_setter
 59:afghan_hound
