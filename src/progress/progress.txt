@@ -61,9 +61,10 @@
 57:basset_griffon_vendeen,_petit - C
 58:gordon_setter - C
 59:afghan_hound - C
+60:chow_chow - C
 
-60:chow_chow
-61:airedale_terrier
+61:airedale_terrier - R
+
 62:doberman_pinscher
 63:welsh_terrier
 64:finnish_hound
