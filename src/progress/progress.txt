@@ -23,8 +23,8 @@
 20:tornjak - CG
 21:bullmastiff - CG
 22:bucovina_shepherd_dog - CG
+23:boykin_spaniel - CG
 
-23:boykin_spaniel - C
 24:artois_hound - C
 25:old_danish_pointer - C
 26:maremma_sheepdog - C

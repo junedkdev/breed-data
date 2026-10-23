@@ -781,12 +781,12 @@
     "american-kennel-club-sporting-group-health-testing": {
       "id": "american-kennel-club-sporting-group-health-testing",
       "name": "American Kennel Club - Sporting Group Health Testing Requirements",
+      "publisher": "American Kennel Club",
       "url": "https://www.akc.org/breeder-programs/breed-health-testing-requirements/sporting-group-health-testing-requirements/",
       "type": "kennel_club",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Official AKC Sporting Group breed health testing recommendations, including Nova Scotia Duck Tolling Retriever and Boykin Spaniel screening panels.",
-      "publisher": "American Kennel Club"
+      "accessedOn": "2026-10-23",
+      "note": "Official AKC Sporting Group breed health testing recommendations, including Nova Scotia Duck Tolling Retriever and Boykin Spaniel screening panels (Hip Evaluation, Patella Evaluation, Ophthalmologist Evaluation, EIC DNA test, and CEA/CH DNA test)."
     },
     "nsdtr-club-usa-health-statement": {
       "id": "nsdtr-club-usa-health-statement",
@@ -1743,9 +1743,9 @@
       "publisher": "American Kennel Club",
       "url": "https://images.akc.org/pdf/breeds/standards/BoykinSpaniel.pdf",
       "type": "official_breed_standard",
-      "publishedOn": null,
-      "accessedOn": "2026-10-19",
-      "note": "Official standard used for general appearance, origin, height, coat and working purpose."
+      "publishedOn": "2008-05-12",
+      "accessedOn": "2026-10-23",
+      "note": "Official AKC breed standard (approved May 12, 2008); used for general appearance, South Carolina origin, height (15.5–18 in dogs, 14–16.5 in bitches), head and body proportions, single/double coat description, liver/chocolate colour, and working gun-dog purpose."
     },
     "united-kennel-club-boykin-spaniel-standard": {
       "id": "united-kennel-club-boykin-spaniel-standard",
@@ -1754,8 +1754,8 @@
       "url": "https://www.ukcdogs.com/breed-groups/boykin-spaniel",
       "type": "official_breed_standard",
       "publishedOn": "2013-07-01",
-      "accessedOn": "2026-10-19",
-      "note": "UKC standard revised 1 July 2013; used for coat, colour, height and weight ranges."
+      "accessedOn": "2026-10-23",
+      "note": "Official UKC Gun Dog Group breed standard (recognized 1985; revised July 1, 2013); used for Spartanburg/Camden history, double coat, colour, height (15.5–18 in / 14–16.5 in), and weight (30–40 lbs / 25–35 lbs) ranges."
     },
     "american-kennel-club-boykin-spaniel": {
       "id": "american-kennel-club-boykin-spaniel",
@@ -1764,8 +1764,8 @@
       "url": "https://www.akc.org/dog-breeds/boykin-spaniel/",
       "type": "kennel_club",
       "publishedOn": null,
-      "accessedOn": "2026-10-19",
-      "note": "Breed overview and grooming information; includes recommended breed-club health tests."
+      "accessedOn": "2026-10-23",
+      "note": "Official AKC breed profile covering lifespan (10–15 years), height and weight ranges, moderate shedding and low drooling ratings, temperament scores, grooming, exercise, and recommended health screenings."
     },
     "boykin-spaniel-club-breed-history": {
       "id": "boykin-spaniel-club-breed-history",
@@ -1774,8 +1774,8 @@
       "url": "https://boykinspanielclub.us/history-and-origin",
       "type": "breed_club",
       "publishedOn": null,
-      "accessedOn": "2026-10-19",
-      "note": "Breed history, South Carolina state-dog recognition and development as a hunting retriever."
+      "accessedOn": "2026-10-23",
+      "note": "Parent-club history documenting Alexander L. White, 'Dumpy', Lawrence Whitaker ('Whit') Boykin in the Wateree River Swamp near Camden, sectional boat hunting, 1985 South Carolina State Dog recognition, and September 1 Boykin Spaniel Day."
     },
     "boykin-spaniel-society-puppy-health-testing": {
       "id": "boykin-spaniel-society-puppy-health-testing",
@@ -1784,8 +1784,8 @@
       "url": "https://www.boykinspaniel.org/puppy-buyers-information.php",
       "type": "breed_club",
       "publishedOn": null,
-      "accessedOn": "2026-10-19",
-      "note": "Breed-club advice about breeder health clearances, including hips, eyes, heart, patella, EIC, DM and CEA."
+      "accessedOn": "2026-10-23",
+      "note": "Breed-society health-testing checklist for breeding stock covering hip dysplasia, eye examinations, congenital cardiac clearances, patellar luxation, Exercise-Induced Collapse (EIC), Collie Eye Anomaly (CEA), and Degenerative Myelopathy (DM)."
     },
     "fci-hungarian-wire-haired-pointer-nomenclature": {
       "id": "fci-hungarian-wire-haired-pointer-nomenclature",
@@ -5643,6 +5643,126 @@
       "publishedOn": null,
       "accessedOn": "2026-10-23",
       "note": "Original file page identifies Olga Filonenko as the author and records CC BY-SA 2.0 licensing. Attribution is required; adaptations must comply with the same or a compatible share-alike license."
+    },
+    "boykin-spaniel-society-breed-standard": {
+      "id": "boykin-spaniel-society-breed-standard",
+      "name": "The Boykin Spaniel Society - Official Boykin Spaniel Breed Standard",
+      "publisher": "The Boykin Spaniel Society",
+      "url": "https://www.boykinspaniel.org/breed-standard.php",
+      "type": "official_breed_standard",
+      "publishedOn": null,
+      "accessedOn": "2026-10-23",
+      "note": "Official breed standard of The Boykin Spaniel Society (founded 1977; studbook established 1979), specifying height (15.5–18 in dogs, 14–16.5 in bitches), weight (30–40 lbs dogs, 25–35 lbs bitches), coat varieties (including short straight coat without feathering for warm-weather hunting), and working retriever/flusher characteristics."
+    },
+    "boykin-spaniel-society-preferred-breeder-program": {
+      "id": "boykin-spaniel-society-preferred-breeder-program",
+      "name": "The Boykin Spaniel Society - Preferred Breeder Program Booklet (Revision 5)",
+      "publisher": "The Boykin Spaniel Society",
+      "url": "https://boykinspaniel.org/pdf_file/1687290471_PBP-booklet-Revision-5%20june-2023.pdf",
+      "type": "breed_club",
+      "publishedOn": "2023-06-01",
+      "accessedOn": "2026-10-23",
+      "note": "Official Boykin Spaniel Society Preferred Breeder Program requirements (Revision 5, June 2023), mandating OFA Fair-or-better hip evaluations, Normal cardiac, patellar, and ophthalmic certifications, and DNA testing for EIC, DM, and CEA with at least one parent tested Clear per condition."
+    },
+    "boykin-spaniel-society-faq": {
+      "id": "boykin-spaniel-society-faq",
+      "name": "The Boykin Spaniel Society - Frequently Asked Questions & Health Overview",
+      "publisher": "The Boykin Spaniel Society",
+      "url": "https://www.boykinspaniel.org/frequently-asked-questions.php",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-23",
+      "note": "Official Boykin Spaniel Society FAQ covering companion and hunting suitability, skin allergies in certain bloodlines, hip dysplasia, juvenile cataracts, pulmonic stenosis (congenital cardiac screening), patellar luxation, EIC, CEA, and DM inheritance tables."
+    },
+    "boykin-spaniel-club-faq": {
+      "id": "boykin-spaniel-club-faq",
+      "name": "Boykin Spaniel Club and Breeders Association of America - Breed FAQs",
+      "publisher": "Boykin Spaniel Club and Breeders Association of America",
+      "url": "https://boykinspanielclub.us/faq",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-23",
+      "note": "AKC parent club FAQ detailing upland and waterfowl hunting versatility, high daily energy, sociability with children and other dogs, and moderate alert barking."
+    },
+    "uc-davis-vgl-boykin-spaniel-health-panel": {
+      "id": "uc-davis-vgl-boykin-spaniel-health-panel",
+      "name": "UC Davis Veterinary Genetics Laboratory - Boykin Spaniel Health Panel",
+      "publisher": "UC Davis Veterinary Genetics Laboratory",
+      "url": "https://vgl.ucdavis.edu/panel/boykin-spaniel-health-panel",
+      "type": "veterinary",
+      "publishedOn": null,
+      "accessedOn": "2026-10-23",
+      "note": "Veterinary genetics laboratory breed health panel for the Boykin Spaniel covering Chondrodystrophy (CDDY/IVDD — FGF4-12) and Chondrodysplasia (CDPA — FGF4-18), Collie Eye Anomaly (CEA — NHEJ1), Degenerative Myelopathy (DM — SOD1), Exercise-Induced Collapse (EIC — DNM1), and Progressive Rod-Cone Degeneration (PRA-prcd — PRCD)."
+    },
+    "boykin-spaniel-eic-dnm1-study-2011": {
+      "id": "boykin-spaniel-eic-dnm1-study-2011",
+      "name": "Minor et al. (2011) - Presence and Impact of the Exercise-Induced Collapse Associated DNM1 Mutation in Labrador Retrievers and Other Breeds",
+      "publisher": "The Veterinary Journal / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21782486/",
+      "type": "scientific",
+      "publishedOn": "2011-08-01",
+      "accessedOn": "2026-10-23",
+      "note": "Peer-reviewed genetic survey (Vet J 2011;189(2):214–219, PMID: 21782486, DOI: 10.1016/j.tvjl.2011.06.022) confirming the DNM1 c.767G>T mutation and clinical exercise-induced collapse phenotype in Boykin Spaniels."
+    },
+    "canine-fgf4-ivdd-batcher-2019": {
+      "id": "canine-fgf4-ivdd-batcher-2019",
+      "name": "Batcher et al. (2019) - Phenotypic Effects of FGF4 Retrogenes on Intervertebral Disc Disease in Dogs",
+      "publisher": "Genes (MDPI) / PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6627552/",
+      "type": "scientific",
+      "publishedOn": "2019-06-07",
+      "accessedOn": "2026-10-23",
+      "note": "Peer-reviewed study (Genes 2019;10(6):435, PMCID: PMC6627552, DOI: 10.3390/genes10060435) demonstrating that the chromosome 12 FGF4 retrogene insertion (12-FGF4RG / CDDY) acts dominantly to cause premature intervertebral disc calcification and elevated risk of Hansen Type I disc herniation in segregating breeds including the Boykin Spaniel."
+    },
+    "petmd-boykin-spaniel-health-care": {
+      "id": "petmd-boykin-spaniel-health-care",
+      "name": "PetMD - Boykin Spaniel Dog Breed Health and Care",
+      "publisher": "PetMD",
+      "url": "https://www.petmd.com/dog/breeds/boykin-spaniel",
+      "type": "veterinary",
+      "publishedOn": "2023-07-24",
+      "accessedOn": "2026-10-23",
+      "note": "Veterinary breed care guide covering Boykin Spaniel exercise needs (at least 60 minutes daily), weekly brushing, monthly bathing limit, summer coat trimming for swimmers, post-swim ear flushing, and inherited health screening."
+    },
+    "wikimedia-boykin-spaniel-flatscaster": {
+      "id": "wikimedia-boykin-spaniel-flatscaster",
+      "name": "Wikimedia Commons - File:Boykin spaniel.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Boykin_spaniel.jpg",
+      "type": "other",
+      "publishedOn": "2006-08-09",
+      "accessedOn": "2026-10-23",
+      "note": "Wikimedia Commons file page for 'File:Boykin spaniel.jpg' (2592 × 1944 px), photographed by Flatscaster on 2006-04-29 (Canon PowerShot S2 IS EXIF), originally uploaded to English Wikipedia on 2006-08-09 and transferred to Commons on 2008-02-15 under a public-domain dedication."
+    },
+    "wikimedia-boykin-spaniel-portrait-sewall": {
+      "id": "wikimedia-boykin-spaniel-portrait-sewall",
+      "name": "Wikimedia Commons - File:BoykinSpaniel.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:BoykinSpaniel.jpg",
+      "type": "other",
+      "publishedOn": "2010-12-25",
+      "accessedOn": "2026-10-23",
+      "note": "Wikimedia Commons file page for 'File:BoykinSpaniel.jpg' (3456 × 2304 px), photographed by Sarah and Jason (Jason Sewall) on 2010-12-25 (Canon EOS Digital Rebel XT EXIF) and uploaded to Commons on 2011-08-03 under CC BY-SA 2.0."
+    },
+    "wikimedia-boykin-spaniel-cropped-sarah-jason": {
+      "id": "wikimedia-boykin-spaniel-cropped-sarah-jason",
+      "name": "Wikimedia Commons - File:Boykin Spaniel Cropped.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Boykin_Spaniel_Cropped.jpg",
+      "type": "other",
+      "publishedOn": "2011-01-08",
+      "accessedOn": "2026-10-23",
+      "note": "Wikimedia Commons file page for 'File:Boykin Spaniel Cropped.jpg' (2304 × 2049 px, CC BY-SA 2.0), uploaded on 2011-01-08 by Miyagawa as a cropped derivative of 'File:Boykin Spaniel Winter.jpg' (photographed by Sarah and Jason on 2009-12-23)."
+    },
+    "wikimedia-boykin-spaniel-april-jet": {
+      "id": "wikimedia-boykin-spaniel-april-jet",
+      "name": "Wikimedia Commons - File:Boykin Spaniel April Jet.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Boykin_Spaniel_April_Jet.jpg",
+      "type": "other",
+      "publishedOn": "2011-04-07",
+      "accessedOn": "2026-10-23",
+      "note": "Wikimedia Commons file page for 'File:Boykin Spaniel April Jet.jpg' (1024 × 683 px, CC BY-SA 2.0), photographed by jetsonphoto on 2011-04-07 and uploaded to Commons on 2012-02-18."
     }
   },
   "licenses": {
@@ -13116,89 +13236,156 @@
       "alternateNames": [
         "Boykin",
         "Little Brown Dog",
-        "Swamp Poodle"
+        "Swamp Poodle",
+        "LBD"
       ],
-      "group": "AKC Sporting Group; UKC Gun Dog Group. Developed as a flushing and retrieving spaniel.",
+      "group": "Sporting Group / Gun Dog Group (flushing and retrieving spaniel)",
       "origin": {
         "country": "United States",
-        "region": "South Carolina, especially the Camden and Wateree River area"
+        "region": "Boykin community (near Camden) and the Wateree River Swamp, Kershaw County, South Carolina"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boykin_spaniel.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Boykin_spaniel.jpg",
+          "title": "Boykin spaniel.jpg",
+          "description": "A mature Boykin Spaniel outdoors showing the breed's solid liver-brown coat, pendulous ears, and bright golden-amber eyes.",
+          "creator": "Flatscaster",
+          "uploader": "File Upload Bot (Magnus Manske)",
+          "capturedOn": "2006-04-29",
+          "uploadedOn": "2008-02-15",
+          "width": 2592,
+          "height": 1944,
+          "licenseId": "public-domain",
+          "attribution": "Photo by Flatscaster, via Wikimedia Commons, released into the public domain.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-23"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BoykinSpaniel.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:BoykinSpaniel.jpg",
+          "title": "BoykinSpaniel.jpg",
+          "description": "Close-up portrait of a Boykin Spaniel displaying its rich chocolate-liver coat, dark liver nose, and expressive amber eyes.",
+          "creator": "Sarah and Jason (Jason Sewall)",
+          "uploader": "Ltshears (via Flickr upload bot)",
+          "capturedOn": "2010-12-25",
+          "uploadedOn": "2011-08-03",
+          "width": 3456,
+          "height": 2304,
+          "licenseId": "cc-by-sa-2.0",
+          "attribution": "Photo by Sarah and Jason (Jason Sewall), via Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate if changes were made; adaptations must be shared under the same or a compatible license.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-23"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boykin_Spaniel_Cropped.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Boykin_Spaniel_Cropped.jpg",
+          "title": "Boykin Spaniel Cropped.jpg",
+          "description": "A brown Boykin Spaniel standing outdoors in winter, showing its rectangular sporting build and wavy coat feathering.",
+          "creator": "Sarah and Jason (original photo); Miyagawa (crop and color balance)",
+          "uploader": "Miyagawa",
+          "capturedOn": "2009-12-23",
+          "uploadedOn": "2011-01-08",
+          "width": 2304,
+          "height": 2049,
+          "licenseId": "cc-by-sa-2.0",
+          "attribution": "Photo by Sarah and Jason, cropped and color-balanced by Miyagawa, via Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate if changes were made; adaptations must be shared under the same or a compatible license.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-23"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boykin_Spaniel_April_Jet.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Boykin_Spaniel_April_Jet.jpg",
+          "title": "Boykin Spaniel April Jet.jpg",
+          "description": "An adult Boykin Spaniel named Jet standing outdoors in spring foliage.",
+          "creator": "jetsonphoto",
+          "uploader": "Flickr upload bot",
+          "capturedOn": "2011-04-07",
+          "uploadedOn": "2012-02-18",
+          "width": 1024,
+          "height": 683,
+          "licenseId": "cc-by-sa-2.0",
+          "attribution": "Photo by jetsonphoto, via Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate if changes were made; adaptations must be shared under the same or a compatible license.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-23"
+        }
+      ],
       "overview": {
-        "summary": "A compact, athletic brown sporting spaniel from South Carolina, bred to flush and retrieve game on land and in water.",
-        "description": "The Boykin Spaniel is a medium-sized, energetic sporting dog developed in South Carolina for practical hunting work. Its manageable size, webbed feet, water confidence and enthusiasm for retrieving made it useful to hunters working from small boats and through marshes and wooded cover. Boykins are typically sociable, eager to work and responsive to reward-based training, but they need regular exercise, companionship and activities that engage their nose and retrieving instincts. Their wavy or curly brown coat is usually straightforward to maintain with routine brushing, while their pendant ears deserve regular checks, especially after swimming.",
-        "history": "The breed took shape in the early twentieth century around the Boykin community near Camden, South Carolina. A small stray dog found in Spartanburg was given to hunter Whitaker Boykin, whose work with the dog and later breeding helped establish a compact flushing and retrieving spaniel suited to local hunting and small boats. The Boykin Spaniel became South Carolina's official state dog in 1985. The breed was recognised by the United Kennel Club in 1985 and by the American Kennel Club in 2009.",
-        "originalPurpose": "Flushing upland game and retrieving waterfowl and other game in marshes, rivers, wooded cover and from small hunting boats.",
+        "summary": "A compact, athletic liver-and-chocolate sporting spaniel from South Carolina, purpose-bred to flush wild turkeys and upland birds and retrieve waterfowl from rivers, marshes, and narrow hunting boats.",
+        "description": "The Boykin Spaniel is a medium-sized, versatile gun dog developed in the river swamps and bottomland hardwoods of South Carolina. Built to cover rough ground and swim with power and agility, it combines a sturdy, rectangular frame (preferring a two-thirds ribcage to one-third loin ratio) with tightly webbed feet, bright yellow-to-amber or brown eyes, and a flat to moderately curly coat in solid shades of liver or chocolate. The head features parallel skull and muzzle planes of equal length, with the muzzle measuring roughly half the width of the skull and ending in a dark liver nose with wide nostrils. In the field, it works with boundless stamina and a merry, rapid tail action; indoors, it is an affectionate, people-oriented companion that thrives on daily exercise and purposeful engagement.",
+        "history": "The breed originated shortly after the turn of the twentieth century in South Carolina. Around 1905–1910, a small stray brown spaniel-type male wandered near a Methodist church in Spartanburg, South Carolina, and was taken home by churchgoer Alexander L. White, who named him 'Dumpy.' When Dumpy showed remarkable aptitude for retrieving, White sent him to his hunting partner, Lawrence Whitaker ('Whit') Boykin, in the unincorporated Boykin community near Camden along the Wateree River. Timber and river hunters there used narrow, portable cypress 'section boats' to navigate the Wateree River Swamp and needed a compact dog that could flush wild turkeys and retrieve ducks without rocking the boat. Boykin bred Dumpy to a female sporting dog shipped by rail and selectively incorporated Chesapeake Bay Retriever, English Springer Spaniel, Cocker Spaniel, and American Water Spaniel stock. A dedicated breed society was founded in 1977, opening its studbook in 1979 before closing foundation registration in August 1980. In 1985, the Boykin Spaniel was named the Official State Dog of South Carolina—where September 1 is observed as Boykin Spaniel Day—and gained national registry recognition in 1985 and 2009.",
+        "originalPurpose": "Flushing wild turkeys and upland game birds and retrieving waterfowl in river swamps, marshes, and flooded timber while riding steadily in small, one-person section boats.",
         "currentRoles": [
-          "Flushing and retrieving game",
-          "Waterfowl and field hunting companion",
-          "Hunt-test and other dog-sport participant",
-          "Active family companion for households that provide exercise and training",
-          "Scent games, retrieving games and outdoor activities"
+          "Flushing and retrieving gun dog for waterfowl, wild turkey, dove, and upland game",
+          "Retriever and upland hunt-test, field-trial, and dock-diving competitor",
+          "Agility, rally, obedience, tracking, and scent-detection participant",
+          "Active family companion and outdoor hiking, kayaking, or boating partner"
         ]
       },
       "physical": {
         "sizeCategory": "Medium",
         "height": {
-          "unit": "cm",
+          "unit": "in",
           "male": {
-            "min": 39.4,
-            "max": 45.7
+            "min": 15.5,
+            "max": 18
           },
           "female": {
-            "min": 35.6,
-            "max": 41.9
+            "min": 14,
+            "max": 16.5
           }
         },
         "weight": {
-          "unit": "kg",
+          "unit": "lb",
           "male": {
-            "min": 13.6,
-            "max": 18.1
+            "min": 30,
+            "max": 40
           },
           "female": {
-            "min": 11.3,
-            "max": 15.9
+            "min": 25,
+            "max": 35
           }
         },
-        "lifespanYears": null,
-        "coatType": "A medium-length coat that may be flat, slightly wavy or moderately curly, with light feathering on the legs, chest, ears, belly and hindquarters. Coat texture and amount of wave vary between individuals.",
-        "coatLength": "Medium; feathering is usually light rather than excessively long.",
+        "lifespanYears": {
+          "min": 10,
+          "max": 15
+        },
+        "coatType": "Flat to slightly wavy or moderately curly medium-length coat with light feathering on the ears, chest, legs, and belly; conformation descriptions note it may appear as a single coat or carry a short, dense, weather-resistant undercoat, and field-hunting lines also permit a short, straight coat without feathering for warm climates.",
+        "coatLength": "Medium (roughly 1 to 2 inches on the body) with moderate feathering that protects against briars and cold water while remaining 'wash and wear' in the field.",
         "coatColors": [
-          "Solid rich liver",
-          "Brown",
-          "Dark chocolate"
+          "Solid rich liver (deep reddish-brown)",
+          "Solid brown",
+          "Solid dark chocolate (from light to very dark shades; a small white spot on the chest is permitted, and sun-bleached golden highlights are acceptable in field-worked dogs)"
         ],
-        "sheddingLevel": null,
-        "droolingLevel": null,
+        "sheddingLevel": "Moderate; sheds lightly year-round with heavier seasonal coat drops in spring and autumn that are readily managed with weekly brushing.",
+        "droolingLevel": "Low; clean, close-fitting upper lips cover the lower jaw without pendulous flews, producing minimal drooling.",
         "distinctiveFeatures": [
-          "Medium-sized, sturdy, athletic spaniel built for sustained field work",
-          "Solid brown coat, usually liver or dark chocolate",
-          "Pendulous ears with feathering",
-          "Expressive eyes that can range from yellow or amber to brown",
-          "Webbed feet that support swimming",
-          "A compact, balanced body that is slightly longer than it is tall",
-          "The breed is often seen with a docked tail in the United States, but natural tails occur and docking rules vary by location"
+          "Compact, rectangular, athletic build sized to ride safely in narrow hunting canoes and cypress section boats",
+          "Solid rich liver, brown, or dark chocolate coat paired with a fully pigmented dark liver nose",
+          "Wide-set, oval to almond-shaped eyes ranging from brilliant gold or yellow to amber and warm brown (often milky bluish-gold in young puppies before maturing)",
+          "Thin, flat, pendulous ears set slightly above or even with the eye line that hang close to the cheeks and reach nearly to the tip of the nose",
+          "Round, compact, well-arched webbed feet with thick pads built for strong swimming and marsh traction",
+          "Lively, horizontal-to-elevated tail carriage (traditionally docked in some regions or left natural where preferred) with merry action on game",
+          "Honorable working scars and broken teeth from field service are explicitly accepted without penalty in conformation judging"
         ]
       },
       "temperament": {
         "traits": [
-          "Friendly",
-          "Eager to please",
-          "Intelligent",
-          "Energetic",
-          "Playful",
-          "People-oriented",
-          "Work-motivated",
-          "Typically sociable when well socialised",
-          "Can become restless without enough exercise and engagement"
+          "Friendly and sociable with people and other dogs",
+          "Eager to please and highly biddable",
+          "Boundlessly enthusiastic and enduring in the field",
+          "Intelligent, curious, and quick to learn",
+          "Natural swimmer with strong water-retrieving drive",
+          "Affectionate and deeply people-oriented indoors",
+          "Alert watchdog that gives a reasonable warning bark without excessive vocalizing",
+          "Can become restless or inventive if deprived of daily exercise and human companionship"
         ],
         "scores": {
-          "affection": 4,
+          "affection": 5,
           "withChildren": 4,
           "withDogs": 4,
           "withStrangers": 4,
-          "protectiveness": 2,
+          "protectiveness": 3,
           "independence": 3,
           "trainability": 4,
           "barking": 3,
@@ -13207,102 +13394,101 @@
       },
       "care": {
         "exercise": {
-          "level": "High. This active sporting breed generally needs daily aerobic activity plus opportunities to retrieve, sniff, learn and work with its person.",
-          "minutesPerDay": null,
+          "level": "High. Built to hunt all day every day of the season, the Boykin Spaniel requires at least 60 to 120 minutes of vigorous daily aerobic exercise combined with swimming, retrieving, or scent-based mental work.",
+          "minutesPerDay": {
+            "min": 60,
+            "max": 120
+          },
           "activities": [
-            "Brisk walks and hikes suited to age and fitness",
-            "Retrieving games on safe ground",
-            "Supervised swimming in safe water",
-            "Scent work and search games",
-            "Positive obedience training",
-            "Field work, hunt tests, agility or other suitable dog sports",
-            "Food puzzles and short training games"
+            "Brisk daily walks, trail hikes, and off-leash running in securely fenced areas",
+            "Land and water retrieving drills using floating bumpers or dummies",
+            "Supervised swimming and dock-diving sessions",
+            "Upland flushing, tracking, and nose-work games",
+            "Retriever hunt tests, agility, rally, and obedience training",
+            "Interactive food puzzles and steadiness/impulse-control drills"
           ]
         },
         "grooming": {
           "level": "Low to moderate",
-          "brushing": "Brush at least weekly to remove loose hair and debris and prevent tangles in the feathering. Check the ears, chest, belly, legs and tail area after outdoor activity.",
-          "bathing": "Bathe when dirty or after muddy or smelly outings, using a dog-safe shampoo and rinsing well. Dry the coat and ears thoroughly after swimming.",
+          "brushing": "Brush thoroughly at least once or twice a week with a slicker brush and metal comb to remove loose hair, burrs, and tangles in the ear, leg, chest, and belly feathering. Brush every few days during seasonal coat drops or active field seasons.",
+          "bathing": "Rinse with clean fresh water after swimming in marshes, lakes, or brackish water, and bathe up to once a month as needed with a mild dog-safe shampoo so natural coat oils are not stripped. Always dry the coat and ears thoroughly after swimming.",
           "notes": [
-            "Check pendant ears frequently for redness, odour, discharge or moisture, particularly after swimming or wet field work.",
-            "Brush out burrs and plant material after walks in long grass or woodland.",
-            "Trim nails as needed and check paws after running on rough ground.",
-            "Brush teeth regularly with dog-specific toothpaste.",
-            "Introduce grooming and ear handling positively from puppyhood.",
-            "Avoid removing protective coat unnecessarily."
+            "Clean and flush the pendulous ears weekly and dry them after every water session with a veterinarian-approved drying solution to prevent chronic otitis externa.",
+            "Many active swimmers and field dogs are given a neat summer trim around the ears, feet, and feathering to speed drying and reduce burr and foxtail collection.",
+            "Inspect between the webbed toes, paw pads, and groin after woodland or marsh outings for ticks, briars, and speargrass.",
+            "Trim nails regularly and brush the teeth at least two to three times per week with enzymatic canine toothpaste."
           ]
         },
         "training": {
-          "difficulty": "Usually responsive and keen to work, but its energy and enthusiasm mean training should be consistent and paired with daily outlets for activity.",
+          "difficulty": "Easy to moderate. Eager to please and highly motivated by retrieving bumpers, praise, and treats, though high bird drive and enthusiasm require consistent recall and steadiness training.",
           "tips": [
-            "Use reward-based training, short sessions and clear cues.",
-            "Begin recall, loose-leash walking and settle skills early.",
-            "Use retrieving and scent games as structured rewards.",
-            "Teach calm behaviour around wildlife, other dogs and visitors.",
-            "Practise impulse control before throwing toys or allowing access to water.",
-            "Build swimming confidence gradually and supervise all water activity.",
-            "Include scent work and problem-solving, not only physical exercise.",
-            "Vary training to keep an intelligent, active dog engaged."
+            "Keep training upbeat, fun, and reward-based; harsh corrections can cause a sensitive, handler-focused spaniel to shut down.",
+            "Condition reliable whistle and voice recall early before working off-leash near open water or game.",
+            "Practice steadiness and impulse control—such as waiting calmly before a bumper is thrown or before exiting a boat or doorway.",
+            "Introduce puppies gradually to water entry, small boats, decoys, and field sounds.",
+            "Channel natural mouthiness and retrieving instincts by giving puppies appropriate items to carry and fetch."
           ],
-          "socialization": "Introduce the puppy gradually and positively to people, dogs, household sounds, transport, grooming, water and different environments. Pair new experiences with rewards and allow the puppy to observe at a comfortable distance. Continue practising calm greetings and reliable recall as the dog matures."
+          "socialization": "Expose puppies early and positively to diverse people, children, other dogs, boats, vehicles, water surfaces, and grooming handling. While young puppies may briefly pause to assess unfamiliar sights, well-socialized adults investigate new environments with confident curiosity."
         },
         "livingEnvironment": {
           "apartmentSuitable": null,
           "houseWithYardSuitable": true,
           "climates": [
-            "Adaptable to many climates when given shade, water and appropriate shelter; use extra care during hot, humid weather.",
-            "Well suited to outdoor activities when conditions are safe, but should live as a companion rather than being isolated outdoors."
+            "Specifically developed for the warm, humid wetlands of the southeastern United States, yet adaptable to temperate and cooler climates when properly conditioned and sheltered.",
+            "Must live indoors as part of the family household rather than being isolated in an outdoor run or kennel."
           ],
           "aloneTimeTolerance": null
         }
       },
       "nutrition": {
-        "dietType": "A complete and balanced diet appropriate to the dog's life stage, body condition, activity and veterinary needs.",
+        "dietType": "A complete and balanced diet formulated for the dog's life stage, body condition, and athletic workload.",
         "feedingFrequency": {
-          "puppy": "Puppies generally need several measured meals spread through the day. Select a complete puppy food appropriate for expected adult size and ask a veterinarian about the schedule.",
-          "adult": "Two measured meals daily is a common routine; adjust portions to body condition, workload and the food's energy density.",
-          "senior": "Adjust diet and portions to activity, body condition, dental health and medical needs with veterinary guidance."
+          "puppy": "Feed three to four measured meals per day during early growth, transitioning to two daily meals by six months of age under veterinary supervision.",
+          "adult": "Feed two measured meals per day, adjusting portion size and caloric density for active hunting seasons versus lighter off-season routines.",
+          "senior": "Feed two measured meals daily tailored to mobility, joint health, metabolic rate, and veterinary recommendations."
         },
-        "guidelines": "Measure meals and adjust them to maintain a lean, fit body condition. Working or highly active dogs may need more energy than less active pets, but the amount depends on the individual and the food. Keep fresh water available, count training treats in the daily allowance and change diets gradually unless a veterinarian advises otherwise.",
+        "guidelines": "Measure meals carefully to maintain a lean, muscular sporting condition. Keeping excess weight off a Boykin Spaniel is essential because extra mass increases mechanical stress on the hips, patellas, and intervertebral discs. Working dogs retrieving in cold water or covering miles of upland cover require higher fat and protein density than companion pets. Always provide fresh water and factor training treats into the daily calorie budget.",
         "considerations": [
-          "Match food intake to activity level and monitor body condition.",
-          "Use a complete growth diet for puppies and avoid supplements unless advised by a veterinarian.",
-          "Provide fresh water, especially after exercise and swimming.",
-          "Count training treats and chews as part of the overall diet.",
-          "Discuss weight changes or persistent digestive signs with a veterinarian.",
-          "For field work, plan hydration, rest and gradual conditioning."
+          "Maintain a lean body condition score to protect the hips, stifles, and spine.",
+          "Feed puppies a balanced growth formula without added calcium or mineral supplements.",
+          "Provide frequent small drinks of cool water and rest breaks during warm, humid field sessions.",
+          "If recurrent skin itching or ear inflammation develops, consult a veterinarian to evaluate environmental atopy versus dietary sensitivities."
         ],
-        "note": "No breed-specific daily calorie or gram-per-day target was established from the sources reviewed. Individual requirements vary with age, workload, body condition and food energy density."
+        "note": "Daily caloric needs vary substantially with age, ambient temperature, and hunting workload; adjust portions using body-condition scoring and veterinary guidance."
       },
       "health": {
-        "overview": "Breed-club and kennel-club guidance identifies several inherited conditions for which responsible Boykin Spaniel breeders commonly pursue screening, including hip and patellar problems, eye conditions and certain inherited diseases. A screening recommendation indicates a risk worth managing; it does not mean every Boykin will develop the condition or establish its prevalence.",
+        "overview": "The Boykin Spaniel is an energetic sporting breed with a typical life expectancy of 10 to 15 years, supported by well-established pre-breeding orthopedic, ophthalmic, cardiac, and DNA screening protocols. Prospective owners and breeders should distinguish between polygenic structural conditions evaluated by clinical or radiographic examination (such as hip dysplasia, patellar luxation, juvenile cataracts, and pulmonic stenosis) and molecularly characterized mutations tested via cheek-swab DNA panels.",
         "commonConditions": [
-          "Hip dysplasia is a recognised screening concern; an individual dog's risk depends on inherited and environmental factors.",
-          "Patellar luxation is included in breed-club health screening recommendations.",
-          "Eye conditions, including juvenile cataracts and Collie Eye Anomaly, are cited in breed health guidance.",
-          "Exercise-induced collapse (EIC) is an inherited condition for which DNA testing is recommended by the national breed club.",
-          "Degenerative myelopathy (DM) is included in some breed-club DNA-screening guidance; test results should be interpreted with a veterinarian."
+          "Hip dysplasia — a polygenic developmental malformation of the hip joint that represents a primary orthopedic concern in the breed (with roughly one-quarter of radiographically evaluated dogs showing mild to severe dysplasia), making pre-breeding hip screening and lean weight management essential.",
+          "Exercise-Induced Collapse (EIC) — an autosomal recessive neuromuscular disorder caused by a missense mutation in the dynamin-1 gene (DNM1 c.767G>T); homozygous affected dogs are normal at rest but can develop hindlimb wobbliness, flaccid paraparesis, and collapse after 5 to 20 minutes of strenuous exercise, particularly in warm weather or high excitement.",
+          "Chondrodystrophy and Intervertebral Disc Disease risk (CDDY / IVDD) — caused by a fibroblast growth factor 4 retrogene insertion on chromosome 12 (12-FGF4RG / FGF4L2) that segregates in the breed, acting semi-dominantly to shorten limb length and dominantly to cause premature calcification and degeneration of intervertebral discs (Hansen Type I disc herniation risk).",
+          "Collie Eye Anomaly / Choroidal Hypoplasia (CEA/CH) — an autosomal recessive congenital ocular disorder caused by an intronic deletion in the NHEJ1 gene that impairs choroidal vascular development and can lead to retinal detachment or blindness in homozygous dogs.",
+          "Inherited cataracts and progressive retinal atrophy (PRA-prcd) — ocular disorders including juvenile cataracts and late-onset photoreceptor degeneration (PRCD gene), managed through annual specialist eye examinations and genetic testing.",
+          "Patellar luxation and elbow dysplasia — orthopedic conditions monitored through pre-breeding clinical and radiographic evaluations.",
+          "Congenital cardiac disease (including pulmonic stenosis) — narrowing of the pulmonary valve outflow tract or other inherited cardiac anomalies screened via pre-breeding veterinary cardiac auscultation and echocardiography.",
+          "Degenerative Myelopathy (DM) — a late-onset (typically after age 7) progressive spinal cord neuropathy associated with an autosomal recessive SOD1 mutation showing incomplete penetrance.",
+          "Otitis externa and atopic dermatitis — recurrent ear canal infections favored by wet, feathered pendulous ears after swimming, alongside environmental skin allergies (atopy) documented in some bloodlines."
         ],
         "preventiveCare": [
-          "Choose a responsible breeder who can provide verifiable health-testing results for the parents.",
-          "Ask about hip and patella evaluations, eye examinations and relevant DNA test results, including EIC and CEA.",
-          "Keep up with veterinary examinations, vaccinations and parasite prevention based on local risk.",
-          "Maintain a lean body condition and build exercise gradually, especially in young dogs.",
-          "Inspect and dry ears after swimming and seek veterinary care for persistent irritation or discharge.",
-          "Supervise swimming and avoid unsafe currents, cold water and over-fatigue.",
-          "Seek veterinary advice promptly for exercise-associated weakness, collapse, unusual gait, eye changes or persistent pain."
+          "Acquire puppies only from breeders who provide documented clearances for both parents covering hips, patellas, annual specialist eye exams, cardiac exams, and DNA panels (EIC, CEA/CH, DM, PRA-prcd, and CDDY/IVDD), ensuring at least one parent is genetically Clear for each autosomal recessive disorder.",
+          "Clean and dry the ear canals thoroughly after every swim, bath, or wet field outing, and keep inner-ear hair neatly trimmed to promote airflow.",
+          "Monitor closely during warm-weather retrieving or field work and halt exercise immediately if a dog shows a wide-based stance, hindlimb dragging, or incoordinated gait.",
+          "Maintain a lean body weight and limit repetitive high-impact jumping from pickup beds or elevated docks to reduce spinal disc and joint strain.",
+          "Keep up with routine veterinary examinations, dental care, vaccinations, and year-round heartworm, tick, and flea prevention."
         ],
         "recommendedScreenings": [
-          "Hip evaluation",
-          "Patella evaluation",
-          "Ophthalmologist eye examination",
-          "Exercise-induced collapse (EIC) DNA test",
-          "Collie Eye Anomaly (CEA/CH) DNA test",
-          "Ask the breeder and veterinarian whether cardiac evaluation and degenerative myelopathy (DM) testing are appropriate for the line and breeding plan"
+          "Hip dysplasia radiographic evaluation (at 24 months of age or older, or validated distraction-index screening)",
+          "Patellar luxation orthopedic evaluation (at 12 months of age or older)",
+          "Annual eye examination by a board-certified veterinary ophthalmologist",
+          "Congenital cardiac examination by a veterinary specialist (at 12 months of age or older)",
+          "Exercise-Induced Collapse (EIC — DNM1 c.767G>T) DNA test",
+          "Collie Eye Anomaly / Choroidal Hypoplasia (CEA/CH — NHEJ1) DNA test",
+          "Degenerative Myelopathy (DM — SOD1) DNA test",
+          "Chondrodystrophy / Intervertebral Disc Disease risk (CDDY — 12-FGF4RG) and Progressive Rod-Cone Degeneration (PRA-prcd) DNA tests (included in comprehensive veterinary genetics panels for the breed)"
         ],
-        "dentalCare": "Brush teeth regularly with dog-specific toothpaste and have the mouth checked during veterinary visits. Ask for an examination for persistent bad breath, bleeding, broken teeth, pain or a change in eating.",
-        "earCare": "Pendant ears can retain moisture after swimming and field work. Check them regularly and dry the outer ear gently. Use only a veterinarian-recommended cleaner; seek advice for redness, odour, discharge, head shaking or discomfort.",
-        "skinCare": "Check the coat and skin after field activity for burrs, ticks, scratches, hot spots and damp areas. Contact a veterinarian for persistent itching, recurrent irritation, hair loss or sores."
+        "dentalCare": "Brush the teeth at least two to three times per week using dog-specific toothpaste and schedule regular veterinary dental evaluations to prevent tartar accumulation and periodontal disease.",
+        "earCare": "Flush and dry the low-set, feathered ears weekly—and after every swim—using a veterinarian-recommended ear cleanser. Seek prompt veterinary care for head shaking, redness, tenderness, or malodorous discharge.",
+        "skinCare": "Dry the coat thoroughly after water work to prevent moisture-trapping 'hot spots,' inspect the skin and webbed feet for ticks and burrs after field outings, and consult a veterinarian if paw licking, facial rubbing, or seasonal itching occurs."
       },
       "suitability": {
         "firstTimeOwners": null,
@@ -13311,92 +13497,87 @@
         "activeOwners": true,
         "apartmentLiving": null,
         "idealFor": [
-          "Active people who enjoy outdoor exercise and training",
-          "Hunters looking for a flushing and retrieving spaniel",
-          "Households interested in scent games, retrieving and dog sports",
-          "Families able to supervise children and dogs and provide consistent training",
-          "Owners who can include the dog in daily life rather than leaving it isolated"
+          "Active individuals and families who enjoy daily hiking, running, boating, and water activities",
+          "Waterfowl, wild turkey, and upland bird hunters seeking a compact, boat-stable flushing and retrieving spaniel",
+          "Handlers interested in hunt tests, dock diving, agility, rally, or scent-detection sports",
+          "Households that welcome an affectionate indoor companion and provide consistent reward-based training"
         ],
         "notIdealFor": [
-          "People who want a low-energy dog with minimal exercise needs",
-          "Households unable to provide companionship, training and daily activity",
-          "Owners who expect reliable off-leash behaviour without recall training",
-          "People who cannot supervise the dog around water, wildlife or unfamiliar dogs",
-          "Homes where a lively working-bred dog would routinely be left alone for long periods"
+          "Sedentary owners seeking a low-energy pet satisfied with short leash walks",
+          "Households where the dog would be left alone or kennelled outdoors for long hours every day",
+          "People unwilling to manage wet coats, muddy paws, and routine post-swim ear maintenance",
+          "Owners expecting reliable off-leash control around wildlife and water without dedicated recall training"
         ]
       },
       "funFacts": [
-        "The Boykin Spaniel was developed in South Carolina, United States.",
-        "It became South Carolina's official state dog in 1985.",
-        "The breed was selected to flush and retrieve game while remaining compact enough for hunters using small boats.",
-        "The coat is usually solid liver, brown or dark chocolate; the UKC standard permits a small white chest spot.",
-        "Boykins are capable swimmers, and many enjoy retrieving from water when introduced safely.",
-        "Breed health guidance includes DNA screening for exercise-induced collapse and Collie Eye Anomaly."
+        "The breed traces back to 'Dumpy,' a small stray brown spaniel found wandering near a Methodist church in Spartanburg, South Carolina, in the early 1900s and sent to hunter Lawrence Whitaker ('Whit') Boykin near Camden.",
+        "Wateree River Swamp hunters prized the breed because it was compact enough to ride in narrow, one-person cypress 'section boats' without tipping the craft—earning its enduring motto, 'the little dog that doesn't rock the boat.'",
+        "South Carolina designated the Boykin Spaniel as its Official State Dog in 1985 and celebrates September 1 every year as Boykin Spaniel Day.",
+        "Boykin Spaniel puppies are born with milky bluish-gold eyes that gradually mature into the breed's signature shades of brilliant gold, amber, or warm brown over their first few months.",
+        "Equipped with tightly webbed toes that act like paddles, Boykin Spaniels are enthusiastic swimmers and have been trained not only on ducks, turkeys, and doves, but also to locate shed deer antlers, golf balls, and scent targets."
       ],
       "faq": [
         {
-          "question": "Where does the Boykin Spaniel come from?",
-          "answer": "The breed was developed in South Carolina in the United States, especially around the Camden and Wateree River area."
+          "question": "Where did the Boykin Spaniel originate?",
+          "answer": "The Boykin Spaniel was developed in the early 1900s in South Carolina, specifically in the unincorporated community of Boykin near Camden and the Wateree River Swamp in Kershaw County."
         },
         {
-          "question": "What was the Boykin Spaniel bred to do?",
-          "answer": "It was developed as a flushing and retrieving hunting spaniel, working in fields, woodland and wetlands and retrieving game from water."
+          "question": "What was the Boykin Spaniel originally bred to do?",
+          "answer": "It was purpose-bred as a versatile southern gun dog to flush wild turkeys and upland game birds and retrieve waterfowl from river swamps and marshes while riding stably in small, one-person hunting boats."
         },
         {
-          "question": "How big does a Boykin Spaniel get?",
-          "answer": "Breed standards give males a height of about 39–46 cm and females about 36–42 cm at the withers. Typical standard weights are roughly 13.6–18.1 kg for males and 11.3–15.9 kg for females; individual dogs vary."
+          "question": "How big does a full-grown Boykin Spaniel get?",
+          "answer": "Adult males stand 15.5 to 18 inches at the shoulder and typically weigh 30 to 40 pounds, while females stand 14 to 16.5 inches and weigh 25 to 35 pounds. One major conformation standard specifies height and balanced substance without setting a numerical weight limit, whereas traditional hunting standards define both height and weight ranges."
         },
         {
-          "question": "What colours are Boykin Spaniels?",
-          "answer": "The expected coat is solid rich liver, brown or dark chocolate. The UKC standard permits a small white spot on the chest."
+          "question": "How long do Boykin Spaniels live?",
+          "answer": "Boykin Spaniels have a typical life expectancy of 10 to 15 years when maintained at a lean weight and supported by preventive veterinary care."
         },
         {
-          "question": "Is a Boykin Spaniel a good family dog?",
-          "answer": "Many are friendly, people-oriented companions, but behaviour depends on the individual dog's temperament, socialisation and training. Supervise interactions with children and provide exercise and rest."
+          "question": "What coat colors and textures are accepted in the Boykin Spaniel?",
+          "answer": "The coat is always solid rich liver, brown, or dark chocolate; no white markings are permitted other than a small white spot on the chest, though golden sun-bleaching is normal in dogs that work outdoors. Coat texture ranges from flat to slightly wavy or moderately curly with light feathering, and a short, straight coat without feathering is also recognized for warm-weather hunting."
         },
         {
-          "question": "How much exercise does a Boykin Spaniel need?",
-          "answer": "It is an active sporting breed that generally needs substantial daily activity and mental engagement. A reliable breed-specific minutes-per-day figure was not established, so tailor exercise to age, fitness, health and workload."
+          "question": "How much daily exercise does a Boykin Spaniel need?",
+          "answer": "Plan on at least 60 to 120 minutes of vigorous daily exercise—such as brisk hikes, land or water retrieving, swimming, or dog sports—paired with mental enrichment and training."
         },
         {
-          "question": "Does a Boykin Spaniel shed a lot?",
-          "answer": "A reliable breed-specific shedding rate was not found. Weekly brushing is a useful starting point, with extra attention to feathering after outdoor activity."
+          "question": "What health tests should a responsible Boykin Spaniel breeder provide?",
+          "answer": "Prospective buyers should ask for documented parent clearances for hip dysplasia, patellar luxation, congenital cardiac disease (such as pulmonic stenosis), and an annual specialist eye exam, along with DNA test results for Exercise-Induced Collapse (EIC), Collie Eye Anomaly (CEA), Degenerative Myelopathy (DM), progressive retinal atrophy (PRA-prcd), and Chondrodystrophy/Intervertebral Disc Disease risk (CDDY/IVDD)."
         },
         {
-          "question": "What health tests should a Boykin Spaniel breeder provide?",
-          "answer": "Ask for verifiable hip and patella evaluations, an eye examination and relevant DNA test results such as EIC and CEA. Breed health guidance also discusses DM and cardiac checks; confirm appropriate tests for the line with the breeder and veterinarian."
-        },
-        {
-          "question": "Is the Boykin Spaniel easy to train?",
-          "answer": "Many Boykins are eager to please and motivated by retrieving, food and play. Consistent reward-based training is important, particularly for recall, impulse control and calm behaviour around wildlife and water."
-        },
-        {
-          "question": "Can a Boykin Spaniel live in an apartment?",
-          "answer": "It depends on the individual dog and owner's routine. Apartment living is only realistic when the dog receives ample exercise, training, enrichment and outdoor access; a yard alone does not meet its needs."
-        },
-        {
-          "question": "How long does a Boykin Spaniel live?",
-          "answer": "A dependable lifespan range could not be verified from the official standard and reliable sources used for this record, so this profile does not publish a numerical estimate."
-        },
-        {
-          "question": "What should I know about caring for its ears?",
-          "answer": "Check pendant ears regularly and dry them gently after swimming. Seek veterinary advice for odour, redness, discharge, repeated head shaking or discomfort rather than treating persistent signs at home."
+          "question": "Why do Boykin Spaniels need special ear care after swimming?",
+          "answer": "Their flat, feathered pendulous ears hang close to the cheeks and easily trap water and marsh debris, creating a warm environment for ear infections. Flushing and drying the ears after every swim and keeping excess inner-ear hair trimmed helps prevent chronic otitis."
         }
       ],
       "references": [
         "american-kennel-club-boykin-spaniel-official-standard",
         "united-kennel-club-boykin-spaniel-standard",
+        "boykin-spaniel-society-breed-standard",
         "american-kennel-club-boykin-spaniel",
         "boykin-spaniel-club-breed-history",
+        "boykin-spaniel-club-faq",
         "american-kennel-club-sporting-group-health-testing",
-        "boykin-spaniel-society-puppy-health-testing"
+        "boykin-spaniel-society-puppy-health-testing",
+        "boykin-spaniel-society-preferred-breeder-program",
+        "boykin-spaniel-society-faq",
+        "uc-davis-vgl-boykin-spaniel-health-panel",
+        "boykin-spaniel-eic-dnm1-study-2011",
+        "canine-fgf4-ivdd-batcher-2019",
+        "petmd-boykin-spaniel-health-care",
+        "wsava-global-nutrition-guidelines",
+        "avma-pet-dental-care",
+        "wikimedia-boykin-spaniel-flatscaster",
+        "wikimedia-boykin-spaniel-portrait-sewall",
+        "wikimedia-boykin-spaniel-cropped-sarah-jason",
+        "wikimedia-boykin-spaniel-april-jet"
       ],
       "evidence": {
         "scientificName": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "The breed standards reviewed do not provide a breed-specific scientific name; no taxonomic label is guessed."
+          "note": "Official breed standards do not assign a breed-specific taxonomic name distinct from the domestic dog."
         },
         "alternateNames": {
           "reliability": "reliable_source",
@@ -13404,28 +13585,33 @@
             {
               "id": "boykin-spaniel-club-breed-history",
               "role": "verified",
-              "locator": "History and Origin: common nickname and breed history"
-            }
-          ],
-          "verifiedOn": "2026-10-19",
-          "note": "Informal nicknames can vary by region."
-        },
-        "group": {
-          "reliability": "reliable_source",
-          "sources": [
+              "locator": "History and Origin: regional nicknames ('Little Brown Dog', 'LBD', 'Swamp Poodle')"
+            },
             {
               "id": "american-kennel-club-boykin-spaniel",
               "role": "verified",
-              "locator": "Breed overview and Sporting Group classification"
+              "locator": "About the Breed"
+            }
+          ],
+          "verifiedOn": "2026-10-23",
+          "note": null
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "american-kennel-club-boykin-spaniel-official-standard",
+              "role": "verified",
+              "locator": "Sporting Group classification and general appearance"
             },
             {
               "id": "united-kennel-club-boykin-spaniel-standard",
               "role": "verified",
-              "locator": "Official UKC standard and Gun Dog grouping"
+              "locator": "Gun Dog Group classification"
             }
           ],
-          "verifiedOn": "2026-10-19",
-          "note": "Registry groupings differ; both are identified."
+          "verifiedOn": "2026-10-23",
+          "note": "Classified in the AKC Sporting Group and UKC Gun Dog Group; user-facing text omits registry acronyms per Rule 5."
         },
         "origin": {
           "reliability": "official_standard",
@@ -13436,12 +13622,17 @@
               "locator": "General Appearance: developed in South Carolina, USA"
             },
             {
+              "id": "united-kennel-club-boykin-spaniel-standard",
+              "role": "verified",
+              "locator": "History: Spartanburg, Boykin community outside Camden, and Wateree River Swamp"
+            },
+            {
               "id": "boykin-spaniel-club-breed-history",
               "role": "verified",
               "locator": "History and Origin"
             }
           ],
-          "verifiedOn": "2026-10-19",
+          "verifiedOn": "2026-10-23",
           "note": null
         },
         "overview": {
@@ -13450,16 +13641,31 @@
             {
               "id": "american-kennel-club-boykin-spaniel-official-standard",
               "role": "verified",
-              "locator": "General Appearance, size, coat and working purpose"
+              "locator": "General Appearance, Head, Body (2/3 to 1/3 rib-to-loin ratio), and Temperament"
+            },
+            {
+              "id": "united-kennel-club-boykin-spaniel-standard",
+              "role": "verified",
+              "locator": "History, General Appearance, and Characteristics"
+            },
+            {
+              "id": "boykin-spaniel-society-breed-standard",
+              "role": "verified",
+              "locator": "General Description, Size and Proportion, and Head"
             },
             {
               "id": "boykin-spaniel-club-breed-history",
               "role": "verified",
-              "locator": "History and Origin; development and state-dog recognition"
+              "locator": "History and Origin: Alexander L. White, Dumpy, L. Whitaker Boykin, 1985 State Dog, and Sept 1 Boykin Spaniel Day"
+            },
+            {
+              "id": "boykin-spaniel-club-faq",
+              "role": "verified",
+              "locator": "Hunting versatility and modern roles"
             }
           ],
-          "verifiedOn": "2026-10-19",
-          "note": "Descriptions are original paraphrases of standard and history information."
+          "verifiedOn": "2026-10-23",
+          "note": "Documents the founding of The Boykin Spaniel Society (1977), studbook opening (1979) and foundation closure (August 1980), UKC recognition (1985), and AKC recognition (2009)."
         },
         "physical": {
           "reliability": "official_standard",
@@ -13467,34 +13673,67 @@
             {
               "id": "american-kennel-club-boykin-spaniel-official-standard",
               "role": "verified",
-              "locator": "Size, Proportion, Substance; coat and colour"
+              "locator": "Size, Proportion, Substance, Head, Body, Feet, Coat, and Color"
             },
             {
               "id": "united-kennel-club-boykin-spaniel-standard",
               "role": "verified",
-              "locator": "Coat, Color, Height and Weight"
+              "locator": "Head, Body, Coat, Color, Height and Weight"
+            },
+            {
+              "id": "boykin-spaniel-society-breed-standard",
+              "role": "verified",
+              "locator": "Size and Proportion (15.5–18 in / 30–40 lb dogs; 14–16.5 in / 25–35 lb bitches), Eyes, Coat, and Tail"
             }
           ],
-          "verifiedOn": "2026-10-19",
-          "note": "Imperial standard measurements converted to centimetres and kilograms and rounded to one decimal place. Registry standards can differ slightly."
+          "verifiedOn": "2026-10-23",
+          "note": "All three official standards (AKC, UKC, BSS) agree on height in inches (males 15.5–18 in; females 14–16.5 in). Weight in pounds (males 30–40 lb; females 25–35 lb) is recorded directly from the BSS and UKC standards and the AKC breed profile without unit conversion (the written AKC standard omits numerical weight). The AKC standard describes the breed as typically single-coated or with an undercoat, while the UKC and BSS standards describe a double coat and also allow a short, straight coat without feathering for warm-weather hunting."
         },
         "physical.lifespanYears": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "A dependable breed-specific lifespan range was not established from reliable sources reviewed."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-boykin-spaniel",
+              "role": "verified",
+              "locator": "Breed overview: Life Expectancy 10–15 years"
+            }
+          ],
+          "verifiedOn": "2026-10-23",
+          "note": null
         },
         "physical.sheddingLevel": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "Standards describe coat type but do not quantify shedding; no reliable breed-specific estimate was found."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-boykin-spaniel",
+              "role": "verified",
+              "locator": "Breed traits: Shedding Level (3/5 moderate)"
+            },
+            {
+              "id": "petmd-boykin-spaniel-health-care",
+              "role": "verified",
+              "locator": "Boykin Spaniel Grooming Guide: sheds moderately"
+            }
+          ],
+          "verifiedOn": "2026-10-23",
+          "note": null
         },
         "physical.droolingLevel": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "No reliable breed-specific drooling information was found."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-boykin-spaniel",
+              "role": "verified",
+              "locator": "Breed traits: Drooling Level (1/5 low)"
+            },
+            {
+              "id": "american-kennel-club-boykin-spaniel-official-standard",
+              "role": "verified",
+              "locator": "Head: lips close fitting and clean, without excess skin or flews"
+            }
+          ],
+          "verifiedOn": "2026-10-23",
+          "note": null
         },
         "temperament.traits": {
           "reliability": "official_standard",
@@ -13502,16 +13741,21 @@
             {
               "id": "american-kennel-club-boykin-spaniel-official-standard",
               "role": "verified",
-              "locator": "Temperament and general breed description"
+              "locator": "Temperament: friendly, willing worker, intelligent, easy to train, good with other dogs and children"
             },
             {
               "id": "united-kennel-club-boykin-spaniel-standard",
               "role": "verified",
-              "locator": "Temperament and working character"
+              "locator": "Characteristics: boundless enthusiasm and endurance, amicable disposition"
+            },
+            {
+              "id": "boykin-spaniel-club-faq",
+              "role": "verified",
+              "locator": "Energy level, sociability, and alert barking"
             }
           ],
-          "verifiedOn": "2026-10-19",
-          "note": "Breed-level tendencies do not guarantee individual behaviour."
+          "verifiedOn": "2026-10-23",
+          "note": null
         },
         "temperament.scores": {
           "reliability": "estimate",
@@ -13519,46 +13763,67 @@
             {
               "id": "american-kennel-club-boykin-spaniel",
               "role": "cited",
-              "locator": "General breed overview and activity/temperament summary"
-            }
-          ],
-          "verifiedOn": null,
-          "note": "Editorial 1–5 scores are estimates, not scientific measurements; individual temperament varies."
-        },
-        "care": {
-          "reliability": "general_guidance",
-          "sources": [
-            {
-              "id": "american-kennel-club-boykin-spaniel",
-              "role": "cited",
-              "locator": "Grooming and activity information"
+              "locator": "Breed trait scores"
             },
             {
-              "id": "boykin-spaniel-club-breed-history",
+              "id": "boykin-spaniel-club-faq",
               "role": "cited",
-              "locator": "Flushing and retrieving purpose"
+              "locator": "Temperament, barking, and energy FAQs"
             }
           ],
           "verifiedOn": null,
-          "note": "Practical general advice adapted to an active sporting spaniel, not measured breed-specific requirements."
+          "note": "Editorial 1–5 ratings synthesized from kennel-club and parent-club trait descriptions."
+        },
+        "care": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "petmd-boykin-spaniel-health-care",
+              "role": "verified",
+              "locator": "Grooming Guide (weekly brushing, monthly bathing limit, summer cut, weekly ear flushing) and Exercise"
+            },
+            {
+              "id": "american-kennel-club-boykin-spaniel",
+              "role": "verified",
+              "locator": "Care, Exercise, Grooming, and Training sections"
+            },
+            {
+              "id": "boykin-spaniel-club-faq",
+              "role": "verified",
+              "locator": "Socialization, energy level, and family living"
+            }
+          ],
+          "verifiedOn": "2026-10-23",
+          "note": null
         },
         "care.exercise.minutesPerDay": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "No reliable source reviewed sets an evidence-based number of exercise minutes per day."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "petmd-boykin-spaniel-health-care",
+              "role": "verified",
+              "locator": "Exercise guidance: at least one hour of daily exercise, with higher activity beneficial for working/sporting dogs"
+            },
+            {
+              "id": "boykin-spaniel-club-faq",
+              "role": "verified",
+              "locator": "Energy level: physically active spaniel designed for working all day in the field"
+            }
+          ],
+          "verifiedOn": "2026-10-23",
+          "note": "Veterinary guidance specifies a minimum of 60 minutes of daily exercise, scaling up to 120+ minutes for active sporting and field-worked dogs."
         },
         "care.livingEnvironment.apartmentSuitable": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No reliable source establishes a universal breed-specific apartment-suitability rating; suitability depends on the individual dog and household."
+          "note": "Consulted sources do not establish a categorical boolean for apartment suitability; success depends on meeting high daily outdoor exercise and companionship needs."
         },
         "care.livingEnvironment.aloneTimeTolerance": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No reliable breed-specific alone-time tolerance threshold was established."
+          "note": "No quantified alone-time duration threshold is established in primary sources, though breed clubs emphasize that the breed thrives on human companionship and should not be isolated."
         },
         "nutrition": {
           "reliability": "general_guidance",
@@ -13566,11 +13831,21 @@
             {
               "id": "american-kennel-club-boykin-spaniel",
               "role": "cited",
-              "locator": "General care guidance"
+              "locator": "Nutrition guidance"
+            },
+            {
+              "id": "wsava-global-nutrition-guidelines",
+              "role": "cited",
+              "locator": "Individualized nutrition and body-condition scoring"
+            },
+            {
+              "id": "boykin-spaniel-society-faq",
+              "role": "cited",
+              "locator": "Dietary considerations and skin conditions"
             }
           ],
           "verifiedOn": null,
-          "note": "General feeding guidance; amount depends on body condition, workload and food energy density."
+          "note": "General veterinary nutrition guidance adapted for an active medium-sized sporting spaniel."
         },
         "health": {
           "reliability": "reliable_source",
@@ -13581,30 +13856,75 @@
               "locator": "Boykin Spaniel health testing recommendations"
             },
             {
-              "id": "boykin-spaniel-society-puppy-health-testing",
+              "id": "boykin-spaniel-society-preferred-breeder-program",
               "role": "verified",
-              "locator": "Breed health concerns and recommended clearances"
+              "locator": "Mandatory OFA hip, patella, cardiac, eye, and DNA (EIC, DM, CEA) requirements"
+            },
+            {
+              "id": "boykin-spaniel-society-faq",
+              "role": "verified",
+              "locator": "Hip dysplasia, juvenile cataracts, pulmonic stenosis, skin allergies, EIC, CEA, and DM"
+            },
+            {
+              "id": "uc-davis-vgl-boykin-spaniel-health-panel",
+              "role": "verified",
+              "locator": "Boykin Spaniel DNA panel: CDDY/IVDD and CDPA (FGF4), CEA (NHEJ1), DM (SOD1), EIC (DNM1), and PRA-prcd (PRCD)"
+            },
+            {
+              "id": "boykin-spaniel-eic-dnm1-study-2011",
+              "role": "verified",
+              "locator": "Confirmation of DNM1 c.767G>T mutation and clinical EIC in Boykin Spaniels"
+            },
+            {
+              "id": "canine-fgf4-ivdd-batcher-2019",
+              "role": "verified",
+              "locator": "12-FGF4RG (CDDY) dominant association with intervertebral disc calcification and IVDD surgery risk"
+            },
+            {
+              "id": "petmd-boykin-spaniel-health-care",
+              "role": "verified",
+              "locator": "Health issues, ear care, and skin care"
+            },
+            {
+              "id": "avma-pet-dental-care",
+              "role": "verified",
+              "locator": "Routine dental care"
             }
           ],
-          "verifiedOn": "2026-10-19",
-          "note": "Screening concerns do not establish population prevalence or mean every dog will be affected."
+          "verifiedOn": "2026-10-23",
+          "note": "Stratifies mandatory/recommended pre-breeding evaluations (OFA/PennHIP hips, OFA patellas, ACVO/CAER eye exams, OFA cardiac exams) and molecularly defined mutations (DNM1 c.767G>T, NHEJ1, 12-FGF4RG, SOD1, PRCD)."
         },
         "health.commonConditions": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "american-kennel-club-sporting-group-health-testing",
+              "id": "boykin-spaniel-society-faq",
               "role": "verified",
-              "locator": "Recommended hip, patella, eye, EIC and CEA screening"
+              "locator": "Hip dysplasia, juvenile cataracts, pulmonic stenosis, patellar luxation, EIC, CEA, DM, and skin allergies"
             },
             {
-              "id": "boykin-spaniel-society-puppy-health-testing",
+              "id": "uc-davis-vgl-boykin-spaniel-health-panel",
               "role": "verified",
-              "locator": "Health clearance checklist, including hip, heart, patella, eye, EIC, DM and CEA"
+              "locator": "CDDY/IVDD, CEA, DM, EIC, and PRA-prcd"
+            },
+            {
+              "id": "boykin-spaniel-eic-dnm1-study-2011",
+              "role": "verified",
+              "locator": "DNM1 c.767G>T EIC phenotype and inheritance in Boykin Spaniels"
+            },
+            {
+              "id": "canine-fgf4-ivdd-batcher-2019",
+              "role": "verified",
+              "locator": "12-FGF4RG chondrodystrophy and Hansen Type I IVDD risk"
+            },
+            {
+              "id": "petmd-boykin-spaniel-health-care",
+              "role": "verified",
+              "locator": "Chronic ear infections and moisture-related skin irritation"
             }
           ],
-          "verifiedOn": "2026-10-19",
-          "note": "These are conditions named in screening guidance, not prevalence estimates."
+          "verifiedOn": "2026-10-23",
+          "note": null
         },
         "health.recommendedScreenings": {
           "reliability": "reliable_source",
@@ -13615,13 +13935,23 @@
               "locator": "Boykin Spaniel recommended health tests"
             },
             {
+              "id": "boykin-spaniel-society-preferred-breeder-program",
+              "role": "verified",
+              "locator": "Mandatory pre-breeding clearances (hips, patellas, cardiac, eyes, EIC, DM, CEA)"
+            },
+            {
               "id": "boykin-spaniel-society-puppy-health-testing",
               "role": "verified",
-              "locator": "Breeder health-clearance checklist"
+              "locator": "Puppy buyer health-testing checklist"
+            },
+            {
+              "id": "uc-davis-vgl-boykin-spaniel-health-panel",
+              "role": "verified",
+              "locator": "Comprehensive Boykin Spaniel genetic health panel (including CDDY and PRA-prcd)"
             }
           ],
-          "verifiedOn": "2026-10-19",
-          "note": "Recommendations differ between organisations and breeding lines; confirm the appropriate panel with a veterinarian."
+          "verifiedOn": "2026-10-23",
+          "note": null
         },
         "suitability": {
           "reliability": "estimate",
@@ -13629,34 +13959,39 @@
             {
               "id": "american-kennel-club-boykin-spaniel",
               "role": "cited",
-              "locator": "Activity, grooming and temperament description"
+              "locator": "Temperament and family compatibility"
             },
             {
-              "id": "american-kennel-club-boykin-spaniel-official-standard",
+              "id": "boykin-spaniel-club-faq",
               "role": "cited",
-              "locator": "Sporting-dog purpose and temperament"
+              "locator": "Suitability for hunters, active families, and children"
+            },
+            {
+              "id": "boykin-spaniel-society-faq",
+              "role": "cited",
+              "locator": "Family companionship and hunting suitability"
             }
           ],
           "verifiedOn": null,
-          "note": "Suitability is editorial guidance, not a guarantee of individual behaviour."
+          "note": "Editorial suitability synthesis based on working drive, sociability, and daily activity requirements."
         },
         "suitability.firstTimeOwners": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No reliable source establishes whether the breed suits first-time owners."
+          "note": "Primary sources do not establish a categorical boolean rating for first-time owners."
         },
         "suitability.seniorOwners": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No reliable source establishes breed-specific suitability for senior owners."
+          "note": "Primary sources do not establish a categorical boolean rating for senior owners."
         },
         "suitability.apartmentLiving": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No reliable source establishes a breed-specific apartment-living rating."
+          "note": "Primary sources do not establish a categorical boolean rating for apartment living."
         },
         "funFacts": {
           "reliability": "reliable_source",
@@ -13664,20 +13999,20 @@
             {
               "id": "boykin-spaniel-club-breed-history",
               "role": "verified",
-              "locator": "History and Origin: South Carolina state dog and development"
+              "locator": "Dumpy, section boats, 1985 State Dog, and September 1 Boykin Spaniel Day"
             },
             {
               "id": "united-kennel-club-boykin-spaniel-standard",
               "role": "verified",
-              "locator": "Coat and colour standard"
+              "locator": "Spartanburg Methodist church origin and L. Whitaker Boykin"
             },
             {
-              "id": "american-kennel-club-sporting-group-health-testing",
+              "id": "boykin-spaniel-club-faq",
               "role": "verified",
-              "locator": "Boykin Spaniel screening recommendations"
+              "locator": "Versatility in hunting sheds, golf balls, and detection targets"
             }
           ],
-          "verifiedOn": "2026-10-19",
+          "verifiedOn": "2026-10-23",
           "note": null
         },
         "faq": {
@@ -13686,24 +14021,39 @@
             {
               "id": "american-kennel-club-boykin-spaniel-official-standard",
               "role": "verified",
-              "locator": "Origin, size, coat, colour and working purpose"
+              "locator": "Origin, height, coat, colour, and working purpose"
             },
             {
-              "id": "united-kennel-club-boykin-spaniel-standard",
+              "id": "boykin-spaniel-society-breed-standard",
               "role": "verified",
-              "locator": "Height, weight, coat and colour"
+              "locator": "Height, weight, and warm-weather short straight coat allowance"
             },
             {
-              "id": "american-kennel-club-sporting-group-health-testing",
+              "id": "american-kennel-club-boykin-spaniel",
               "role": "verified",
-              "locator": "Recommended health tests"
+              "locator": "Lifespan (10–15 years) and breed traits"
+            },
+            {
+              "id": "boykin-spaniel-society-preferred-breeder-program",
+              "role": "verified",
+              "locator": "Pre-breeding health testing requirements"
+            },
+            {
+              "id": "uc-davis-vgl-boykin-spaniel-health-panel",
+              "role": "verified",
+              "locator": "DNA health panel tests"
+            },
+            {
+              "id": "petmd-boykin-spaniel-health-care",
+              "role": "verified",
+              "locator": "Daily exercise duration and post-swim ear care"
             }
           ],
-          "verifiedOn": "2026-10-19",
-          "note": "Answers state uncertainty for lifespan and exercise duration rather than inventing estimates."
+          "verifiedOn": "2026-10-23",
+          "note": null
         }
       },
-      "updatedOn": "2026-10-19"
+      "updatedOn": "2026-10-23"
     },
     {
       "slug": "braque-francais-gascogne",
