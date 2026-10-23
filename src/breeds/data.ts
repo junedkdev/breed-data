@@ -62,6 +62,7 @@ import { scottish_deerhound } from "./scottish_deerhound";
 import { skye_terrier } from "./skye_terrier";
 import { yorkshire_terrier } from "./yorkshire_terrier";
 import { basset_griffon_vendeen_petit } from "./basset_griffon_vendeen_petit";
+import { gordon_setter } from "./gordon_setter";
 
 
 export const breedData: readonly Breed[] = [
@@ -123,4 +124,5 @@ export const breedData: readonly Breed[] = [
   skye_terrier,
   yorkshire_terrier,
   basset_griffon_vendeen_petit,
+  gordon_setter,
 ];

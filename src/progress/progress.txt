@@ -23,7 +23,8 @@
 20:tornjak - CG
 21:bullmastiff - CG
 
-22:bucovina_shepherd_dog - C
+22:bucovina_shepherd_dog - CR
+
 23:boykin_spaniel - C
 24:artois_hound - C
 25:old_danish_pointer - C
@@ -59,8 +60,8 @@
 55:skye_terrier - C
 56:yorkshire_terrier - C
 57:basset_griffon_vendeen,_petit - C
+58:gordon_setter - C
 
-58:gordon_setter
 59:afghan_hound
 60:chow_chow
 61:airedale_terrier

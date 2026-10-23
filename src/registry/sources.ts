@@ -5522,6 +5522,66 @@ export const sources = defineSources({
     accessedOn: "2026-10-22",
     note: "Peer-reviewed genome-wide association study (Mortlock et al., Vet Sci 2023;10(12):703, PMID: 38133254, PMCID: PMC10747964) of Bullmastiff lymphoma (average diagnosis age <6 years in 55 cases; 49 genotyped cases vs. 281 controls), identifying risk-associated regions on chromosomes 13 (MYC / PVT1) and 33 (SENP7 / NFKBIZ)."
   },
+  "american-kennel-club-gordon-setter": {
+    id: "american-kennel-club-gordon-setter",
+    name: "American Kennel Club - Gordon Setter",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/gordon-setter/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "Breed profile covering size, life expectancy, temperament, exercise, grooming, history, nutrition, and health."
+  },
+  "fci-gordon-setter-standard": {
+    id: "fci-gordon-setter-standard",
+    name: "FCI Standard No. 6 - Gordon Setter",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/006g07-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-10-22",
+    note: "Current English FCI standard published 6 October 2026; includes origin, classification, temperament, coat, colour, height, and weight."
+  },
+  "gordon-setter-club-of-america-health-statement": {
+    id: "gordon-setter-club-of-america-health-statement",
+    name: "Gordon Setter Club of America - Health Statement",
+    publisher: "Gordon Setter Club of America",
+    url: "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/02/23150304/Gordon-Setter-Health-Statement-March-2015.pdf",
+    type: "breed_club",
+    publishedOn: "2015-03-07",
+    accessedOn: "2026-10-22",
+    note: "Parent-club health statement covering CHIC DNA repository, hip and elbow evaluations, eye examinations, and PRA-rcd4 testing."
+  },
+  "wikimedia-gordon-setter-adam-ziaja": {
+    id: "wikimedia-gordon-setter-adam-ziaja",
+    name: "Wikimedia Commons - SeterSzkockiGordon.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:SeterSzkockiGordon.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "Original file page lists Adam Ziaja as author and CC BY-SA 3.0 and CC BY 3.0 licensing options. The breed object uses the CC BY-SA 3.0 option."
+  },
+  "wikimedia-gordon-setter-robert-breuer": {
+    id: "wikimedia-gordon-setter-robert-breuer",
+    name: "Wikimedia Commons - Wet-Gordon-Setter.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Wet-Gordon-Setter.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "Original file page identifies Robert Breuer (Net-breuer) as author and records CC BY-SA 3.0 licensing."
+  },
+  "wikimedia-gordon-setter-nordic-hunters": {
+    id: "wikimedia-gordon-setter-nordic-hunters",
+    name: "Wikimedia Commons - Gordon Setter.JPG",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Gordon_Setter.JPG",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "Original file page identifies Nordic-Gordon-Hunters as author and offers CC BY-SA 3.0 among the listed licenses."
+  },
 });
 
 export type SourceId = keyof typeof sources;
