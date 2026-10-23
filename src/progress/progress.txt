@@ -62,8 +62,7 @@
 58:gordon_setter - C
 59:afghan_hound - C
 60:chow_chow - C
-
-61:airedale_terrier - R
+61:airedale_terrier - C
 
 62:doberman_pinscher
 63:welsh_terrier
