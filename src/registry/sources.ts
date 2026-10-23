@@ -1754,65 +1754,65 @@ export const sources = defineSources({
     accessedOn: "2026-10-19",
     note:null
   },
-  "fci-bucovina-shepherd-dog-official-standard": {
+"fci-bucovina-shepherd-dog-official-standard": {
     id: "fci-bucovina-shepherd-dog-official-standard",
     name: "FCI - Romanian Bucovina Shepherd Official Breed Standard No. 357",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/357g02-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2023-08-20",
-    accessedOn: "2026-10-19",
-    note: "The official valid English standard published 20 August 2023. Used for classification, origin, purpose, temperament, measurements, coat and colour.",
-    publisher: "Fédération Cynologique Internationale"
+    accessedOn: "2026-10-22",
+    note: "Official FCI Standard No. 357 (valid standard dated 20 August 2023; English version published 1 September 2023) covering Romanian Carpathian/Bucovina transhumance origin, Group 2 Section 2.2 classification without working trial, utilization, temperament, head proportions (1:1 skull-to-muzzle ratio, 16–18 cm male / 15–17 cm female skull width, scissor or level bite), conformation, dark ash-grey skin, double coat (6–9 cm body hair, neck mane, limb fringes/culottes), classical pied and solid colours (brindle patches rejected), height (males 68–78 cm, ideal 71–75 cm; females 64–72 cm, ideal 66–68 cm; ±4 cm tolerance), weight in proportion to height, and faults/disqualifications."
   },
-  "fci-bucovina-shepherd-dog-nomenclature": {
+"fci-bucovina-shepherd-dog-nomenclature": {
     id: "fci-bucovina-shepherd-dog-nomenclature",
-    name: "FCI - Romanian Bucovina Shepherd Nomenclature",
+    name: "FCI - Romanian Bucovina Shepherd Nomenclature No. 357",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/en/nomenclature/ROMANIAN-BUCOVINA-SHEPHERD-357.html",
-    type: "kennel_club",
-    publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "FCI breed page listing Romanian origin, Group 2, definitive recognition in 2019 and standard publication information.",
-    publisher: "Fédération Cynologique Internationale"
+    type: "official_breed_standard",
+    publishedOn: "2023-08-20",
+    accessedOn: "2026-10-22",
+    note: "Official FCI breed nomenclature page for Ciobănesc Românesc de Bucovina (No. 357), confirming Romania origin, Group 2 Section 2.2 (Molossian type, Mountain type) classification without working trial, provisional acceptance on 2009-03-26, definitive acceptance on 2019-04-29, official valid standard date 2023-08-20, and multilingual standard publication on 2023-09-01."
   },
-  "uc-davis-canine-hip-dysplasia": {
+"uc-davis-canine-hip-dysplasia": {
     id: "uc-davis-canine-hip-dysplasia",
     name: "UC Davis School of Veterinary Medicine - Canine Hip Dysplasia",
+    publisher: "University of California, Davis, School of Veterinary Medicine",
     url: "https://healthtopics.vetmed.ucdavis.edu/health-topics/canine/hip-dysplasia",
     type: "veterinary",
     publishedOn: "2019-04-24",
-    accessedOn: "2026-10-19",
-    note: "General veterinary reference for canine hip dysplasia, body condition, radiographic evaluation and screening breeding animals; not Bucovina-specific prevalence.",
-    publisher: "University of California, Davis, School of Veterinary Medicine"
+    accessedOn: "2026-10-22",
+    note: "Veterinary reference (by John Gardiner, 24 April 2019) covering multifactorial genetics of canine hip dysplasia, caloric intake and growth rate management, lean body condition, and pre-breeding radiographic evaluation."
   },
-  "avma-pet-dental-care": {
+"avma-pet-dental-care": {
     id: "avma-pet-dental-care",
     name: "American Veterinary Medical Association - Pet Dental Care",
+    publisher: "American Veterinary Medical Association",
     url: "https://avma.org/PetDental",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "General veterinary guidance for routine dental prevention and veterinary oral checks.",
-    publisher: "American Veterinary Medical Association"
+    accessedOn: "2026-10-22",
+    note: "Official AVMA veterinary client resource covering home tooth brushing, periodontal disease prevention, warning signs of oral disease, and annual veterinary oral examinations."
   },
-  "wikimedia-bucovina-shepherd-canarian-2019": {
+"wikimedia-bucovina-shepherd-canarian-2019": {
     id: "wikimedia-bucovina-shepherd-canarian-2019",
     name: "Wikimedia Commons - Bucovina Shepherd.jpg",
+    publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Bucovina_Shepherd.jpg",
     type: "other",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Photograph by Canarian. Original file page states CC BY-SA 4.0, captured 7 September 2019, uploaded 9 September 2019, 2343 × 1791 pixels.",
-    publisher: "Wikimedia Commons"
+    accessedOn: "2026-10-22",
+    note: "Wikimedia Commons file page for 'File:Bucovina Shepherd.jpg' (2343 × 1791 px, CC BY-SA 4.0), photographed by Canarian on 2019-09-07 (Sony DSLR-A350 EXIF) and uploaded on 2019-09-09."
   },
-  "wikimedia-bucovina-shepherd-canarian-2023": {
+"wikimedia-bucovina-shepherd-canarian-2023": {
     id: "wikimedia-bucovina-shepherd-canarian-2023",
     name: "Wikimedia Commons - Bucovinashepherdciobanesc1.jpg",
+    publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Bucovinashepherdciobanesc1.jpg",
     type: "other",
     publishedOn: null,
-    accessedOn: "2026-10-19",
-    note: "Photograph by Canarian. Original file page states CC BY-SA 4.0, captured 26 August 2023, uploaded 27 August 2023, 1713 × 1367 pixels.",
-    publisher: "Wikimedia Commons"
+    accessedOn: "2026-10-22",
+    note: "Wikimedia Commons file page for 'File:Bucovinashepherdciobanesc1.jpg' (1713 × 1367 px, CC BY-SA 4.0), photographed by Canarian on 2023-08-26 (Canon EOS 1100D EXIF) and uploaded on 2023-08-27."
   },
   "american-kennel-club-boykin-spaniel-official-standard": {
     id: "american-kennel-club-boykin-spaniel-official-standard",
@@ -5581,6 +5581,149 @@ export const sources = defineSources({
     publishedOn: null,
     accessedOn: "2026-10-22",
     note: "Original file page identifies Nordic-Gordon-Hunters as author and offers CC BY-SA 3.0 among the listed licenses."
+  },
+  "ach-romanian-bucovina-shepherd-standard-pdf": {
+    id: "ach-romanian-bucovina-shepherd-standard-pdf",
+    name: "Asociația Chinologică Română - Standard Ciobănesc Românesc de Bucovina",
+    publisher: "Asociația Chinologică Română (AChR)",
+    url: "http://www.ach.ro/standard_bucovina.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2004-08-22",
+    accessedOn: "2026-10-22",
+    note: "Official Romanian Kennel Club (AChR) breed standard documenting the traditional names 'Dulău' and 'Căpău', the first 1982 AChR standard, the 2001 and 29 March 2002 updates, and the 22 August 2004 Gura Humorului revision with FCI representatives Raymond Triquet and Bernard Denis."
+  },
+  "ach-dysplasia-screening-list": {
+    id: "ach-dysplasia-screening-list",
+    name: "Asociația Chinologică Română - Anexa 3: Lista Raselor Supuse Testelor de Displazie (HD, ED, SP)",
+    publisher: "Asociația Chinologică Română (AChR)",
+    url: "https://www.ach.ro/regulamente/tabel-rase-displazie-17.02.2016.pdf",
+    type: "kennel_club",
+    publishedOn: "2016-02-17",
+    accessedOn: "2026-10-22",
+    note: "Official Romanian Kennel Club (AChR) breeding regulation table (adopted 17 February 2016) listing Ciobănesc Românesc de Bucovina (No. 357, Group II) for radiographic hip dysplasia (HD, minimum age 12 months, accepted breeding grade up to C) and elbow dysplasia (ED, minimum age 12 months, accepted breeding grade up to 1) evaluation."
+  },
+  "ach-dysplasia-info": {
+    id: "ach-dysplasia-info",
+    name: "Asociația Chinologică Română - Informații Examen Displazie",
+    publisher: "Asociația Chinologică Română (AChR)",
+    url: "https://www.ach.ro/site/index.php/ro/informatii-displazie-cot-sold",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-22",
+    note: "Official Romanian Kennel Club (AChR) hip and elbow dysplasia evaluation protocol detailing GRSK-accredited radiographic scoring recognized by the FCI Scientific Commission and International Elbow Working Group (IEWG)."
+  },
+  "ach-selection-regulation-romanian-shepherds": {
+    id: "ach-selection-regulation-romanian-shepherds",
+    name: "Asociația Chinologică Română - Regulament de Selecție pentru Ciobăneștii Românești",
+    publisher: "Asociația Chinologică Română (AChR)",
+    url: "https://www.ach.ro/regulamente/REGULAMENT_SELECTIE_CIOBANESTII_ROMANESTI.pdf",
+    type: "kennel_club",
+    publishedOn: "2008-08-20",
+    accessedOn: "2026-10-22",
+    note: "Official AChR breeding-selection regulation (adopted 20 August 2008, effective 21 August 2008) requiring all Romanian Shepherd breeding stock (minimum age 15 months, microchipped) to pass a two-judge selection examination (ADR) covering body measurements, coat/undercoat, pigmentation, complete dentition/bite, calm balanced character, gait, and any requested medical/radiographic certificates prior to Romanian Stud Book (COR) litter registration."
+  },
+  "ach-romanian-shepherd-breeds-2025-communique": {
+    id: "ach-romanian-shepherd-breeds-2025-communique",
+    name: "Asociația Chinologică Română - Comunicat Oficial privind Rasele de Ciobănești Românești (2025)",
+    publisher: "Asociația Chinologică Română (AChR)",
+    url: "https://ach.ro/2025/circulare/c18/Comunicat%20de%20presa%20A.Ch.R..pdf",
+    type: "kennel_club",
+    publishedOn: "2025-10-29",
+    accessedOn: "2026-10-22",
+    note: "Official AChR press release (No. 881/29.10.2025) reporting Romanian Stud Book (COR) registration totals for 2020–2024 (5,668 Romanian shepherd dogs total, led by 1,984 Ciobănesc Românesc de Bucovina registrations) and confirming 2009 provisional and 2019 definitive FCI recognition."
+  },
+  "romfilatelia-romanian-dog-breeds-2019": {
+    id: "romfilatelia-romanian-dog-breeds-2019",
+    name: "Romfilatelia - Dog Breeds Postage Stamps Issue (Romanian Shepherd Breeds)",
+    publisher: "Romfilatelia (Romanian Post Philatelic Authority, with AChR and Grigore Antipa National Museum)",
+    url: "https://romfilatelia.ro/en/dog-breeds-3/",
+    type: "other",
+    publishedOn: "2019-02-22",
+    accessedOn: "2026-10-22",
+    note: "Official 22 February 2019 Romanian postage stamp issue (prepared with the Romanian Kennel Club and Grigore Antipa National Museum of Natural History) featuring the Romanian Bucovina Shepherd Dog on the Lei 8.50 stamp."
+  },
+  "wisdom-panel-romanian-bucovina-shepherd-dog": {
+    id: "wisdom-panel-romanian-bucovina-shepherd-dog",
+    name: "Wisdom Panel - Romanian Bucovina Shepherd Dog",
+    publisher: "Wisdom Panel (Mars Petcare Science & Diagnostics)",
+    url: "https://www.wisdompanel.com/en-us/dog-breeds/romanian-bucovina-shepherd-dog",
+    type: "veterinary",
+    publishedOn: "2023-07-12",
+    accessedOn: "2026-10-22",
+    note: "Veterinary-reviewed breed profile (reviewed 12 July 2023 by Dr. Casey Knox, DVM) documenting traditional names ('Dulău' and 'Căpău'), transhumance flock guarding against wolves, bears, and lynx, the traditional wooden 'jujău' neck dangle required on free-ranging working dogs in Romania, 1982 AChR standard and 2019 recognition, and secondary weight (110–198 lb) and lifespan (12–14 yr) estimates."
+  },
+  "fci-afghan-hound-standard": {
+    id: "fci-afghan-hound-standard",
+    name: "FCI - Afghan Hound Breed Standard",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/nomenclature/Standards/228g10-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Official FCI standard PDF. The FCI nomenclature page identifies Afghanistan as the country of origin and Group 10 as the breed group. Confirm that the linked PDF is the currently valid revision before a production release.",
+  },
+  "american-kennel-club-afghan-hound-standard": {
+    id: "american-kennel-club-afghan-hound-standard",
+    name: "American Kennel Club - Official Afghan Hound Standard",
+    publisher: "American Kennel Club",
+    url: "https://images.akc.org/pdf/breeds/standards/AfghanHound.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Official AKC standard. The document states approval on 1948-09-14; publication date is not recorded here.",
+  },
+  "american-kennel-club-afghan-hound": {
+    id: "american-kennel-club-afghan-hound",
+    name: "American Kennel Club - Afghan Hound",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/afghan-hound/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Breed profile covering life expectancy, grooming and recommended health tests.",
+  },
+  "afghan-hound-club-of-america-health": {
+    id: "afghan-hound-club-of-america-health",
+    name: "Afghan Hound Club of America - Health Testing and CHIC",
+    publisher: "Afghan Hound Club of America",
+    url: "https://afghanhoundclubofamerica.org/index.php/information/health-care/health-testing-chic",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Breed-club health-screening information. CHIC participation or a CHIC number should not be interpreted as a guarantee of normal test results.",
+  },
+  "wikimedia-afghan-hound-jurriaan-schulman": {
+    id: "wikimedia-afghan-hound-jurriaan-schulman",
+    name: "Wikimedia Commons - Afghan-Hound.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Afghan-Hound.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Creator identified as Jurriaan Schulman. The page lists CC BY-SA 3.0 and also references GNU Free Documentation License terms; retain the selected CC BY-SA attribution and recheck the original file page before release.",
+  },
+  "wikimedia-afghan-hound-sannse": {
+    id: "wikimedia-afghan-hound-sannse",
+    name: "Wikimedia Commons - Afghan Hound.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Afghan_Hound.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Creator identified as Sannse; file page dates the photograph to 2003-08-29. The page lists CC BY-SA 3.0 and also references GNU Free Documentation License terms; recheck the original file page before release.",
+  },
+  "wikimedia-afghan-hound-bryan-ungard": {
+    id: "wikimedia-afghan-hound-bryan-ungard",
+    name: "Wikimedia Commons - AfghanHound.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:AfghanHound.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Creator identified as Bryan Ungard; uploaded to Commons on 2011-08-03. The page lists CC BY-SA 2.0.",
   },
 });
 

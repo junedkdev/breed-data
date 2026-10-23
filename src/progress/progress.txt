@@ -22,8 +22,7 @@
 19:grand_anglo-francais_blanc_et_orange - CG
 20:tornjak - CG
 21:bullmastiff - CG
-
-22:bucovina_shepherd_dog - CR
+22:bucovina_shepherd_dog - CG
 
 23:boykin_spaniel - C
 24:artois_hound - C
@@ -61,8 +60,8 @@
 56:yorkshire_terrier - C
 57:basset_griffon_vendeen,_petit - C
 58:gordon_setter - C
+59:afghan_hound - C
 
-59:afghan_hound
 60:chow_chow
 61:airedale_terrier
 62:doberman_pinscher
