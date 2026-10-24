@@ -7219,6 +7219,66 @@ export const sources = defineSources({
   accessedOn: "2026-10-24",
   note: "Photograph by Pleple2000, taken at an international dog show; CC BY-SA 3.0."
 },
+  "royal-kennel-club-english-toy-terrier-standard": {
+    id: "royal-kennel-club-english-toy-terrier-standard",
+    name: "Royal Kennel Club - English Toy Terrier (Black & Tan) Breed Standard",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/breed-standards/toy/english-toy-terrier-black-tan/",
+    type: "official_breed_standard",
+    publishedOn: "2025-08-01",
+    accessedOn: "2026-10-24",
+    note: "Official breed standard; page states it was last updated 1 August 2025."
+  },
+  "royal-kennel-club-english-toy-terrier-profile": {
+    id: "royal-kennel-club-english-toy-terrier-profile",
+    name: "Royal Kennel Club - English Toy Terrier (Black & Tan) Breed Profile",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/search/breeds-a-z/breeds/toy/english-toy-terrier-black-tan/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Breed history, characteristics, exercise, grooming, lifespan and vulnerable native breed status."
+  },
+  "english-toy-terrier-club-health-testing": {
+    id: "english-toy-terrier-club-health-testing",
+    name: "The English Toy Terrier (Black & Tan) Club - Health Testing",
+    publisher: "The English Toy Terrier (Black & Tan) Club",
+    url: "https://english-toy-terrier-club.com/health-hub/health-testing",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Breed club guidance on recommended pre-breeding tests and additional screening."
+  },
+  "wikimedia-english-toy-terrier-canarian": {
+    id: "wikimedia-english-toy-terrier-canarian",
+    name: "Wikimedia Commons - Englishtoyterrierb&t.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Englishtoyterrierb%26t.jpg",
+    type: "other",
+    publishedOn: "2025-12-22",
+    accessedOn: "2026-10-24",
+    note: "Photograph by Canarian; Creative Commons Attribution 4.0 International."
+  },
+  "wikimedia-english-toy-terrier-sannse": {
+    id: "wikimedia-english-toy-terrier-sannse",
+    name: "Wikimedia Commons - English Toy Terrier 600 01.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:English_Toy_Terrier_600_01.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Photograph by Sannse, with contrast adjustment by Pleple2000; CC BY-SA 3.0. The file history records the original upload on 24 July 2006."
+  },
+  "wikimedia-english-toy-terrier-puppy-akselhelp": {
+    id: "wikimedia-english-toy-terrier-puppy-akselhelp",
+    name: "Wikimedia Commons - English Toy Terrier (Black & Tan) puppy.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:English_Toy_Terrier_%28Black_%26_Tan%29_puppy.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Puppy photograph by AkselHelp; CC BY-SA 4.0. The file history records the Commons upload on 1 December 2018."
+  },
 });
 
 export type SourceId = keyof typeof sources;

@@ -77,6 +77,7 @@ import { griffon_bleu_de_gascogne } from "./griffon_bleu_de_gascogne";
 import { braque_saint_germain } from "./braque_saint_germain";
 import { schipperke } from "./schipperke";
 import { braque_d_auvergne } from "./braque_d_auvergne";
+import { english_toy_terrier_black_tan } from "./english_toy_terrier_black_tan";
 
 
 export const breedData: readonly Breed[] = [
@@ -153,4 +154,5 @@ export const breedData: readonly Breed[] = [
   braque_saint_germain,
   schipperke,
   braque_d_auvergne,
+  english_toy_terrier_black_tan,
 ];

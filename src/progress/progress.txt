@@ -31,7 +31,8 @@
 28:american_english_coonhound - CG
 29:english_setter - CG
 
-30:pyrenean_mastiff - C
+30:pyrenean_mastiff - CR
+
 31:tibetan_terrier - C
 32:blackmouth_cur - C
 33:german_rough-haired_pointer - C
@@ -74,10 +75,10 @@
 70:braque_saint-germain - C
 71:schipperke - C
 72:braque_d'auvergne - C
+73:english_toy_terrier_(black_&_tan) - C
 
-73:english_toy_terrier_(black_&_tan) - R
+74:clumber_spaniel - R
 
-74:clumber_spaniel
 75:broholmer
 76:manchester_terrier
 77:spinone_italiano
