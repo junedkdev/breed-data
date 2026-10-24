@@ -66,6 +66,9 @@ import { gordon_setter } from "./gordon_setter";
 import { afghan_hound } from "./afghan_hound";
 import { chow_chow } from "./chow_chow";
 import { airedale_terrier } from "./airedale_terrier";
+import { doberman_pinscher } from "./doberman_pinscher";
+import { welsh_terrier } from "./welsh_terrier";
+import { finnish_hound } from "./finnish_hound";
 
 
 export const breedData: readonly Breed[] = [
@@ -131,4 +134,7 @@ export const breedData: readonly Breed[] = [
   afghan_hound,
   chow_chow,
   airedale_terrier,
+  doberman_pinscher,
+  welsh_terrier,
+  finnish_hound,
 ];

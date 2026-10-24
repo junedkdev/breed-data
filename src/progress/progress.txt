@@ -24,9 +24,9 @@
 21:bullmastiff - CG
 22:bucovina_shepherd_dog - CG
 23:boykin_spaniel - CG
+24:artois_hound - CG
+25:old_danish_pointer - CG
 
-24:artois_hound - C
-25:old_danish_pointer - C
 26:maremma_sheepdog - C
 27:hovawart - C
 28:american_english_coonhound - C
@@ -63,10 +63,10 @@
 59:afghan_hound - C
 60:chow_chow - C
 61:airedale_terrier - C
+62:doberman_pinscher - C
+63:welsh_terrier - C
+64:finnish_hound - C
 
-62:doberman_pinscher
-63:welsh_terrier
-64:finnish_hound
 65:aidi
 66:puli
 67:portuguese_water_dog
