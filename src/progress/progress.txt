@@ -26,8 +26,7 @@
 23:boykin_spaniel - CG
 24:artois_hound - CG
 25:old_danish_pointer - CG
-
-26:maremma_sheepdog - CR
+26:maremma_sheepdog - CG
 
 27:hovawart - C
 28:american_english_coonhound - C
@@ -68,9 +67,10 @@
 63:welsh_terrier - C
 64:finnish_hound - C
 65:aidi - C
+66:puli - C
 
-66:puli
-67:portuguese_water_dog
+67:portuguese_water_dog - R
+
 68:chinese_crested_dog
 69:griffon_bleu_de_gascogne
 70:braque_saint-germain

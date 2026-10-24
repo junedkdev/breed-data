@@ -70,6 +70,7 @@ import { doberman_pinscher } from "./doberman_pinscher";
 import { welsh_terrier } from "./welsh_terrier";
 import { finnish_hound } from "./finnish_hound";
 import { aidi } from "./aidi";
+import { puli } from "./puli";
 
 
 export const breedData: readonly Breed[] = [
@@ -139,4 +140,5 @@ export const breedData: readonly Breed[] = [
   welsh_terrier,
   finnish_hound,
   aidi,
+  puli,
 ];

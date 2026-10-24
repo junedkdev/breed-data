@@ -2311,31 +2311,31 @@ export const sources = defineSources({
     accessedOn: "2026-10-20",
     note: "Goldstein et al. (2010) open-access study (CC BY) identifying the ~23-kb genomic deletion removing exons 15 and 16 of ADAM9 on CFA16 as the cause of crd3 in the Glen of Imaal Terrier."
   },
-  "fci-maremma-sheepdog-official-standard": {
+"fci-maremma-sheepdog-official-standard": {
     id: "fci-maremma-sheepdog-official-standard",
-    name: "FCI - Abruzzes and Maremma Shepherd Dog Official Standard No. 201",
+    name: "FCI - Abruzzes and Maremma Shepherd Dog (Cane da Pastore Abruzzese Maremmano) Official Standard No. 201",
     publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/nomenclature/Standards/201g01-en.pdf",
     type: "official_breed_standard",
     commercialUse: "reference_only",
     publishedOn: "2025-12-03",
-    accessedOn: "2026-10-20",
-    note: "The PDF is dated 2025-12-16 and states that the current official valid standard was published on 2025-12-03. Used for FCI classification, origin, working purpose, history, temperament, coat, colour, height and weight."
+    accessedOn: "2026-10-23",
+    note: "FCI Standard No. 201 (PDF dated 2025-12-16; official valid standard published 2025-12-03). Used to verify FCI Group 1 Section 1 classification without working trial, updated official Italian/English breed name (Cane da Pastore Abruzzese Maremmano / Abruzzes and Maremma Shepherd Dog), anatomical proportions (head 4/10 of withers height, body length 1/18 longer than withers height, chest depth 1/2 of withers height, back length 32% of withers height), polar-bear-like conical head, 12 cm maximum ear length, 8 cm outer coat length, solid white colour and disqualifying faults, and updated 2025 height (67–73.5 cm male, 62–70 cm female) and weight (40–52 kg male, 35–45 kg female)."
   },
 
-  "fci-maremma-sheepdog-nomenclature": {
+"fci-maremma-sheepdog-nomenclature": {
     id: "fci-maremma-sheepdog-nomenclature",
-    name: "FCI - Abruzzes and Maremma Shepherd Dog Nomenclature",
+    name: "FCI Breeds Nomenclature - Cane da Pastore Abruzzese Maremmano (201)",
     publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/en/nomenclature/ABRUZZES-AND-MAREMMA-SHEPHERD-DOG-201.html",
     type: "breed_registry",
     commercialUse: "reference_only",
     publishedOn: "2025-12-03",
-    accessedOn: "2026-10-20",
-    note: "FCI listing for breed No. 201, confirming Italian origin, classification, definitive recognition and standard publication information."
+    accessedOn: "2026-10-23",
+    note: "FCI nomenclature entry for breed No. 201, confirming definitive recognition on 1956-03-13, Italian origin, official valid standard date 2025-12-03, publication date 2025-12-16, and official English, French, German and Spanish titles."
   },
 
-  "maremma-sheepdog-club-of-america-faq": {
+"maremma-sheepdog-club-of-america-faq": {
     id: "maremma-sheepdog-club-of-america-faq",
     name: "Maremma Sheepdog Club of America - Breed FAQ",
     publisher: "Maremma Sheepdog Club of America",
@@ -2343,11 +2343,11 @@ export const sources = defineSources({
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed-club information on traditional flock-guarding work, attachment to familiar people, coat maintenance and suitability for different households."
+    accessedOn: "2026-10-23",
+    note: "US breed-club FAQ detailing working livestock-guardian behaviour vs. personal protection breeds, behaviour with children/strangers/animals, preference for outdoor vantage points over enclosed doghouses, sensitivity to heat vs. cold tolerance, sensitivity to barbiturate/intravenous/gas anaesthesia (requiring administration strictly to effect rather than by body weight), puppy growth nutrition targets (22–26% protein, 12–16% fat, 350–400 kcal/cup, 1.0–1.5% calcium, 1.3:1 Ca:P ratio, 2+ smaller daily meals), and twice-yearly spring/autumn coat shedding."
   },
 
-  "maremma-sheepdog-club-of-america-health-guidelines": {
+"maremma-sheepdog-club-of-america-health-guidelines": {
     id: "maremma-sheepdog-club-of-america-health-guidelines",
     name: "Maremma Sheepdog Club of America - Code of Ethics and Standards of Care",
     publisher: "Maremma Sheepdog Club of America",
@@ -2355,11 +2355,11 @@ export const sources = defineSources({
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed-club guidance for responsible breeding, hip and elbow considerations, veterinary evaluation of possible inherited or conformation-related concerns, and health screening."
+    accessedOn: "2026-10-23",
+    note: "US breed-club breeding and health standards recommending a minimum breeding age of 18 months (maximum 8 years for females, maximum 6 lifetime litters and no more than 3 litters in any 2-year period), hip evaluation via OFA (at >=24 months) or PennHIP (from 16 weeks, recommended >=9 months), veterinary checks for entropion, overbite, underbite, umbilical hernia and cryptorchidism, and genetic screening."
   },
 
-  "purina-uk-maremma-sheepdog": {
+"purina-uk-maremma-sheepdog": {
     id: "purina-uk-maremma-sheepdog",
     name: "Purina UK - Maremma Sheepdog Breed Profile",
     publisher: "Purina UK",
@@ -2367,11 +2367,11 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed profile consulted for reported lifespan, exercise, grooming, training, living environment and potential health concerns. Reported risks should not be treated as population-wide prevalence."
+    accessedOn: "2026-10-23",
+    note: "Veterinary-reviewed breed profile listing an 11–13 year lifespan, 1–2 hours of daily walking, some drooling, every-other-day grooming, UK historical milestones (late 1820s London Zoo 'Italian Wolf Dog' exhibit, Queen Victoria's pair Boldia and Ruffo, 1936 Kennel Club recognition, 1950 UK breed club), Middle Island penguin guardians, and predisposition to hip dysplasia, elbow dysplasia and gastric dilatation-volvulus."
   },
 
-  "zoetis-petcare-maremma-sheepdog": {
+"zoetis-petcare-maremma-sheepdog": {
     id: "zoetis-petcare-maremma-sheepdog",
     name: "Zoetis Petcare - Maremma Sheepdog Breed Explorer",
     publisher: "Zoetis Petcare",
@@ -2379,30 +2379,32 @@ export const sources = defineSources({
     type: "veterinary",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed profile listing a general lifespan estimate of 10–13 years. The profile notes that breed-level guidance does not replace veterinary advice for an individual dog."
+    accessedOn: "2026-10-23",
+    note: "Veterinary breed profile listing a general lifespan range of 10–13 years and baseline trait and health guidance."
   },
 
-  "wikimedia-maremma-sheepdog-acii-dman": {
+"wikimedia-maremma-sheepdog-acii-dman": {
     id: "wikimedia-maremma-sheepdog-acii-dman",
-    name: "Wikimedia Commons - The Maremma Sheepdog.jpg",
+    name: "Wikimedia Commons - File:The Maremma Sheepdog.jpg",
     publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:The_Maremma_Sheepdog.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Photograph by ACiiDMaN, dated and uploaded 2015-10-27, 960 × 720 pixels. Wikimedia Commons identifies the file as CC BY-SA 4.0. Attribution is required; adaptations must follow the applicable share-alike terms."
+    commercialUse: "commercial_use",
+    publishedOn: "2015-10-27",
+    accessedOn: "2026-10-23",
+    note: "Photograph of a 3-year-old male Maremma Sheepdog by ACiiDMaN, captured and uploaded 2015-10-27, 960 × 720 pixels, licensed under CC BY-SA 4.0 (commercial use permitted with attribution and share-alike)."
   },
 
-  "wikimedia-maremma-sheepdog-male-canarian": {
+"wikimedia-maremma-sheepdog-male-canarian": {
     id: "wikimedia-maremma-sheepdog-male-canarian",
-    name: "Wikimedia Commons - Maremma Sheepdog male.jpg",
+    name: "Wikimedia Commons - File:Maremma Sheepdog male.jpg",
     publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Maremma_Sheepdog_male.jpg",
     type: "other",
-    publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Photograph by Canarian, captured 2016-11-13 and uploaded 2016-11-14, 600 × 581 pixels. Wikimedia Commons identifies the file as CC BY-SA 4.0. Attribution is required; adaptations must follow the applicable share-alike terms."
+    commercialUse: "commercial_use",
+    publishedOn: "2016-11-14",
+    accessedOn: "2026-10-23",
+    note: "Photograph of a white adult male Maremma Sheepdog by Canarian, captured 2016-11-13 (Sony DSLR-A350) and uploaded 2016-11-14 at 600 × 581 pixels (EXIF pre-crop dimensions 1,619 × 1,568 pixels), licensed under CC BY-SA 4.0 (commercial use permitted with attribution and share-alike)."
   },
   "fci-pharaoh-hound-standard": {
     id: "fci-pharaoh-hound-standard",
@@ -6438,6 +6440,123 @@ export const sources = defineSources({
     publishedOn: "2022-09-24",
     accessedOn: "2026-10-24",
     note: "Study of 161 Atlas shepherd dogs in the Tiaret region of Algeria; findings are specific to the study population and location.",
+  },
+  "fci-puli-official-standard": {
+    id: "fci-puli-official-standard",
+    name: "FCI — Puli, Standard No. 55",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/055g01-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2013-10-29",
+    accessedOn: "2026-10-24",
+    note: "Official valid standard; FCI nomenclature lists 29 October 2013 as its publication date.",
+  },
+  "american-kennel-club-puli": {
+    id: "american-kennel-club-puli",
+    name: "American Kennel Club — Puli Breed Profile",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/puli/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Breed overview, coat care and recommended health tests.",
+  },
+  "puli-club-of-america-health-statement": {
+    id: "puli-club-of-america-health-statement",
+    name: "Puli Club of America — Health Statement",
+    publisher: "Puli Club of America",
+    url: "https://cdn.akc.org/Marketplace/Health-Statement/Puli.pdf",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Breed-club health-screening recommendations for breeding stock.",
+  },
+  "puli-club-of-america-faq": {
+    id: "puli-club-of-america-faq",
+    name: "Puli Club of America — Frequently Asked Questions",
+    publisher: "Puli Club of America",
+    url: "https://puliclub.org/wp/frequently-asked-questions/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Used for the club's published average lifespan estimate and health-screening information.",
+  },
+  "enci-cane-da-pastore-abruzzese-maremmano": {
+    id: "enci-cane-da-pastore-abruzzese-maremmano",
+    name: "ENCI - Cane da Pastore Abruzzese Maremmano (FCI 201)",
+    publisher: "Ente Nazionale della Cinofilia Italiana (ENCI)",
+    url: "https://www.enci.it/libro-genealogico/razze/cane-da-pastore-abruzzese-maremmano",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Italian national kennel club breed monograph and Riproduzione Selezionata requirements: minimum age 18 months, minimum conformation qualification Molto Buono at a breed specialty or gathering, CPMA morphological-character test (TEST T.M.C. CPMA), hip dysplasia grade HD A or B, and elbow dysplasia grade ED 0 or 1; also documents Roman and medieval historical sources, the 1952 Brescia specialty, the 1958-01-01 unified standard, foundational kennels, and puppy weaning/development."
+  },
+  "ukc-maremma-sheepdog-standard": {
+    id: "ukc-maremma-sheepdog-standard",
+    name: "United Kennel Club - Maremma Sheepdog Official Breed Standard",
+    publisher: "United Kennel Club (UKC)",
+    url: "https://www.ukcdogs.com/maremma-sheepdog",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2017-05-01",
+    accessedOn: "2026-10-23",
+    note: "UKC breed standard (recognized 2006-07-01, revised 2017-05-01) placing the breed in the Guardian Dog Group and recording the traditional pre-2025 size ranges (males 25.5–28.75 in / 77–100 lb; females 23.5–26.5 in / 66–88 lb) and tolerance of cropped ears only in working herd-guarding dogs."
+  },
+  "rkc-maremma-sheepdog-breed-information": {
+    id: "rkc-maremma-sheepdog-breed-information",
+    name: "The Royal Kennel Club - Maremma Sheepdog Breed Information & Health Standard",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/pastoral/maremma-sheepdog/",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "UK kennel club breed guide placing the Maremma Sheepdog in the Pastoral Group (Breed Watch Category 2), listing large size, over 2 hours of daily exercise, lifespan over 10 years, and Best Practice pre-breeding hip screening under the BVA/KC Hip Dysplasia Scheme."
+  },
+  "warrnambool-middle-island-maremma-project": {
+    id: "warrnambool-middle-island-maremma-project",
+    name: "Warrnambool Penguins - Maremma Dogs and the Middle Island Project",
+    publisher: "Warrnambool City Council",
+    url: "https://www.warrnamboolpenguins.com.au/maremma-dogs",
+    type: "other",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Official Warrnambool City Council conservation project documentation confirming that Maremma guardian dogs (beginning in 2006 with Eudy and Tula, named after Eudyptula minor) have protected Middle Island's Little Penguin colony from red foxes."
+  },
+  "talenti-2023-italian-lgd-herding-selection-signatures": {
+    id: "talenti-2023-italian-lgd-herding-selection-signatures",
+    name: "Selection Signatures in Italian Livestock Guardian and Herding Shepherd Dogs (Veterinary Sciences, 2023)",
+    publisher: "Veterinary Sciences / PubMed Central (PMCID: PMC9862740)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9862740/",
+    type: "scientific_publication",
+    commercialUse: "commercial_use",
+    publishedOn: "2023-01-11",
+    accessedOn: "2026-10-23",
+    note: "Open-access genomic study (170K canine SNP array across 158 dogs from 4 Italian livestock guardian and 5 herding shepherd breeds, including 20 Maremma and Abruzzi Sheepdogs) identifying selection signatures differentiating flock guardians from herding dogs around genes linked to body size/muscle development (MAP2K5, RYR3), drop vs. prick ear morphology (WIF1, MSRB3), behaviour (LLPH), and eye development."
+  },
+  "donner-2023-canine-mendelian-disease-variants": {
+    id: "donner-2023-canine-mendelian-disease-variants",
+    name: "Genetic prevalence and clinical relevance of canine Mendelian disease variants in over one million dogs (PLOS Genetics, 2023)",
+    publisher: "PLOS Genetics / PubMed Central (PMCID: PMC9997962)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9997962/",
+    type: "scientific_publication",
+    commercialUse: "commercial_use",
+    publishedOn: "2023-02-27",
+    accessedOn: "2026-10-23",
+    note: "Open-access study (Donner et al., 2023, Table 2) reporting the Collie Eye Anomaly (CEA, OMIA Variant ID 632 / NHEJ1 intronic deletion) disease-associated allele at a 2.7% variant frequency in screened Maremma Sheepdogs (N = 37 dogs)."
+  },
+  "rombola-2021-leishmania-lazio-dogs": {
+    id: "rombola-2021-leishmania-lazio-dogs",
+    name: "Seroprevalence and risk factors associated with exposure to Leishmania infantum in dogs, in an endemic Mediterranean region (PLOS ONE, 2021)",
+    publisher: "PLOS ONE / PubMed Central (PMCID: PMC7781377)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7781377/",
+    type: "scientific_publication",
+    commercialUse: "commercial_use",
+    publishedOn: "2021-01-04",
+    accessedOn: "2026-10-23",
+    note: "Open-access epidemiological study of 13,292 canine sera collected in Lazio, central Italy (2010–2014), finding that autochthonous Maremma Sheepdogs and long-coated dogs had significantly lower odds of Leishmania infantum seropositivity compared with non-autochthonous breeds (OR = 1.9 for other breeds vs. Maremma Sheepdog, p < 0.001)."
   },
 });
 
