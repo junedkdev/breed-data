@@ -3,50 +3,109 @@ import type { Breed } from "../schema/breed.types";
 export const english_setter: Breed = {
   slug: "english-setter",
   name: "English Setter",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Laverack Setter",
+    "Llewellin Setter",
+    "Lawerack Setter",
+    "Setting Spaniel",
     "English Setting Spaniel"
   ],
 
-  group: "AKC Sporting Group; UK Kennel Club Gundog Group; FCI Group 7 — Pointing Dogs",
+  group: "Sporting / Gundog / Pointing Dog",
 
   origin: {
     country: "England",
-    region: "United Kingdom"
+    region: "United Kingdom (particularly Northumberland and the Scottish Borders)"
   },
 
-  // No image is included until a specific original file's creator,
-  // license, commercial-use terms and attribution can be checked.
-  images: [],
+  images: [
+    {
+      url: "https://upload.wikimedia.org/wikipedia/commons/f/f0/English_Setter_R_01.JPG",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:English_Setter_R_01.JPG",
+      title: "File:English Setter R 01.JPG",
+      description:
+        "Adult orange belton English Setter at the Racibórz dog show, displaying the long lean head, dark oval eyes, low-set silky ears, and flecked white coat.",
+      creator: "Lilly M (Małgorzata Miłaszewska)",
+      uploader: "Lilly M",
+      capturedOn: "2007-06-10",
+      uploadedOn: "2007-06-27",
+      width: 2592,
+      height: 3872,
+      licenseId: "cc-by-sa-3.0",
+      attribution:
+        "Lilly M (Małgorzata Miłaszewska), via Wikimedia Commons, licensed under CC BY-SA 3.0",
+      restrictions:
+        "Requires creator attribution, a link to the CC BY-SA 3.0 license, and ShareAlike licensing for any derivative works.",
+      metadataCheckedOn: "2026-10-23"
+    },
+    {
+      url: "https://upload.wikimedia.org/wikipedia/commons/b/b8/English_Setter_running_through_grass.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:English_Setter_running_through_grass.jpg",
+      title: "File:English Setter running through grass.jpg",
+      description:
+        "An English Setter named Schatze running through tall grass in Alwalton, Cambridgeshire, England.",
+      creator: "Richard Gunn (Rjgunn007)",
+      uploader: "Rjgunn007",
+      capturedOn: "2013-08-23",
+      uploadedOn: "2013-08-23",
+      width: 5760,
+      height: 3840,
+      licenseId: "cc-by-sa-3.0",
+      attribution:
+        "Richard Gunn (Rjgunn007), via Wikimedia Commons, licensed under CC BY-SA 3.0",
+      restrictions:
+        "Requires creator attribution, a link to the CC BY-SA 3.0 license, and ShareAlike licensing for any derivative works.",
+      metadataCheckedOn: "2026-10-23"
+    },
+    {
+      url: "https://upload.wikimedia.org/wikipedia/commons/6/6b/English_Setter_agility.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:English_Setter_agility.jpg",
+      title: "File:English Setter agility.jpg",
+      description:
+        "A blue belton English Setter running an outdoor agility course, showing the breed's feathered legs and flagged tail in motion.",
+      creator: "PPEnSeK",
+      uploader: "PPEnSeK",
+      capturedOn: "2018-06-16",
+      uploadedOn: "2025-06-14",
+      width: 2000,
+      height: 1333,
+      licenseId: "cc-by-sa-4.0",
+      attribution:
+        "PPEnSeK, via Wikimedia Commons, licensed under CC BY-SA 4.0",
+      restrictions:
+        "Requires creator attribution, a link to the CC BY-SA 4.0 license, indication of any modifications, and ShareAlike licensing for derivative works.",
+      metadataCheckedOn: "2026-10-23"
+    }
+  ],
 
   overview: {
     summary:
-      "An elegant, friendly sporting dog with a feathered coat, a gentle expression and a strong instinct for locating game birds.",
+      "An elegant, sweet-tempered pointing gundog from England, distinguished by its silky feathered coat, speckled 'belton' markings, and keen instinct for locating upland game birds.",
 
     description:
-      "The English Setter is a medium-to-large sporting dog developed to search for game birds and indicate their location to a hunter. Its distinctive appearance combines a refined head, long silky feathering and a white coat patterned with fine flecks known as belton. At home, many English Setters are affectionate and sociable companions, while outdoors they can be energetic, curious and strongly interested in scents and birds. They usually do best with regular exercise, patient reward-based training, coat maintenance and close companionship. Their hunting instincts mean that a secure outdoor area and reliable recall training are especially important.",
+      "The English Setter is a medium-to-large sporting dog developed in Britain to quarter open terrain, locate upland game birds by airborne scent, and hold point until the hunter arrives. Beneath its flat, silky coat and graceful feathering on the ears, chest, undercarriage, legs, and tail is a balanced, enduring athlete with a long, lean head, parallel head planes, and dark, expressive eyes. Its white ground coat is distinctively flecked with coloured ticking known as 'belton'—occurring in blue (black and white), orange, lemon, liver, or tricolour patterns. Known for a gentle, merry, and sociable disposition indoors, the English Setter is energetic and scent-driven in the field. Bench-bred ('Laverack' type) dogs are typically taller with heavier feathering, whereas field-bred ('Llewellin' type) dogs are often slightly lighter in build with a more moderate coat.",
 
     history:
-      "The English Setter developed in England as a bird-finding dog. Earlier setters were trained to locate game and crouch or 'set' near it, allowing hunters to approach and use nets; later, the breed was adapted to work alongside firearms. Historical accounts describe the influence of older spaniel and pointer-type dogs, although the exact ancestry of the modern breed is not fully documented. Breeders in the nineteenth century helped establish recognisable lines for field work and exhibition. Today, English Setters continue to participate in hunting and field activities and are also kept as active companions.",
+      "Setting dogs were used on British country estates as early as the fourteenth and sixteenth centuries—before hunting firearms were widespread—to locate partridge and quail and crouch silently ('set') on their forelegs so fowlers could cast a wide net over both dog and birds. In 1570, physician John Caius described these silent bird-finding dogs under the Latin name 'Index' or 'Setter,' and early sportsmen attributed their ancestry to crosses of Spanish Pointers with large Water Spaniels and Springing Spaniels. The modern breed took shape in the nineteenth century through the work of two British breeders: Edward Laverack, who acquired the foundation pair 'Ponto' and 'Old Moll' around 1825 and popularized the term 'belton' (after a village in Northumberland) in his 1872 monograph, and Richard Purcell Llewellin, who outcrossed Laverack lines with working setters from northern England and Scotland to produce high-performing field-trial dogs. English Setters competed in the first formal British dog show at Newcastle upon Tyne on 28 January 1859 and were among the nine original breeds registered in North America in 1878.",
 
     originalPurpose:
-      "To search for game birds and indicate their location to hunters, historically by setting or crouching near the birds.",
+      "Locating upland game birds (such as partridge, grouse, and quail) by airborne scent and crouching ('setting') or standing on point for net fowlers and, later, firearm hunters.",
 
     currentRoles: [
-      "Hunting and bird-finding work where lawful",
-      "Field trials and gundog activities",
-      "Scent-based enrichment and outdoor exploration",
-      "Obedience, hiking and other suitable dog activities",
-      "Active family companion"
+      "Upland bird dog and pointing gundog",
+      "Field trial and hunting test competitor",
+      "Active family companion",
+      "Conformation, obedience, agility, and scent-work participant"
     ]
   },
 
   physical: {
     sizeCategory: "Medium to large",
 
-    // AKC profile ranges converted from inches to centimetres and rounded.
     height: {
       unit: "cm",
       male: {
@@ -55,11 +114,10 @@ export const english_setter: Breed = {
       },
       female: {
         min: 58,
-        max: 64
+        max: 65
       }
     },
 
-    // AKC profile ranges converted from pounds to kilograms and rounded.
     weight: {
       unit: "kg",
       male: {
@@ -78,56 +136,54 @@ export const english_setter: Breed = {
     },
 
     coatType:
-      "Flat-lying, soft and silky, with longer feathering on the ears, chest, underside, legs and tail. The coat may be slightly wavy but should not be curly.",
+      "Long, flat, soft, and silky from the back of the head in line with the ears, with slight wave permitted but never curly or woolly; well-feathered fringes cover the ears, chest, abdomen, breeches, backs of all legs, and tail.",
 
-    coatLength: "Medium to long, with feathering",
+    coatLength: "Medium to long, flat-lying with silky feathering",
 
     coatColors: [
-      "Blue belton (black flecking on white)",
-      "Orange belton (orange flecking on white)",
-      "Lemon belton (lemon-coloured flecking on white)",
-      "Liver belton (liver-coloured flecking on white)",
-      "Tricolour, commonly blue belton with tan markings"
+      "Blue belton (white ground flecked with black)",
+      "Orange belton (white ground flecked with orange)",
+      "Lemon belton (white ground flecked with lemon)",
+      "Liver belton (white ground flecked with liver)",
+      "Tricolour (blue belton and tan, or liver belton and tan, with tan markings over the eyes, on the muzzle, and on the legs)",
+      "White (Flecking all over is preferred over heavy solid body patches)"
     ],
 
     sheddingLevel:
-      "Moderate; loose hair and coat tangles are easier to manage with regular brushing.",
+      "Moderate; sheds year-round, and the long, silky feathering readily collects burrs and tangles without routine brushing and combing.",
 
-    // The consulted sources did not provide a consistent breed-specific rating.
-    droolingLevel: null,
+    droolingLevel:
+      "Low; the square flews are fairly pendant but dry enough not to cause heavy drooling.",
 
     distinctiveFeatures: [
-      "Long, narrow head with a gentle expression",
-      "Low-set hanging ears with silky feathering",
-      "White coat with distinctive flecked belton markings",
-      "Long feathering on the chest, legs and tail",
-      "Athletic, balanced build suited to sustained movement"
+      "White coat patterned with 'belton' flecking or roan ticking rather than heavy body patches",
+      "Long, lean head with parallel skull and muzzle planes, a well-defined stop, and a pronounced occipital protuberance",
+      "Dark brown to hazel oval eyes conveying a mild, gentle, and intelligent expression",
+      "Low-set hanging ears of moderate length covered in fine, velvety, silky hair",
+      "Level or slightly scimitar-shaped tail carried in line with the back and fringed with long, tapering pendant feathering ('flag')"
     ]
   },
 
   temperament: {
     traits: [
-      "Affectionate",
-      "Friendly",
-      "Gentle",
-      "Sociable",
-      "Energetic outdoors",
-      "Curious and scent-aware",
-      "Sensitive to harsh handling",
-      "Often companionable with familiar people and other dogs"
+      "Gentle and sweet-tempered",
+      "Intensely friendly and good-natured",
+      "Merry and affectionate with family",
+      "Sociable with other dogs and welcoming toward strangers",
+      "Energetic and keen-scented outdoors, yet calm indoors after exercise",
+      "Sensitive to harsh reprimands and responsive to gentle guidance"
     ],
 
-    // Editorial estimates on a 1–5 scale, not official measurements.
     scores: {
       affection: 5,
-      withChildren: 4,
-      withDogs: 4,
-      withStrangers: 4,
-      protectiveness: 2,
+      withChildren: 5,
+      withDogs: 5,
+      withStrangers: 5,
+      protectiveness: 3,
       independence: 3,
       trainability: 4,
       barking: 3,
-      energy: 5
+      energy: 4
     }
   },
 
@@ -135,18 +191,16 @@ export const english_setter: Breed = {
     exercise: {
       level: "High",
 
-      // Practical editorial estimate; individual needs vary by age and health.
       minutesPerDay: {
         min: 60,
         max: 120
       },
 
       activities: [
-        "Brisk walks and hikes",
-        "Supervised running in a securely enclosed area",
-        "Scent games and search activities",
-        "Reward-based recall and obedience practice",
-        "Age-appropriate field or gundog activities"
+        "Daily vigorous runs or play sessions in a large, securely fenced area",
+        "Long brisk walks, woodland hikes, or leashed jogging and cycling with mature adults",
+        "Upland bird-finding, field work, and scent-tracking games",
+        "Positive-reinforcement recall training, agility, and rally obedience"
       ]
     },
 
@@ -154,228 +208,222 @@ export const english_setter: Breed = {
       level: "Moderate to high",
 
       brushing:
-        "Brush thoroughly at least several times a week, increasing frequency when feathering tangles easily. Pay particular attention behind the ears, under the legs, on the chest and around the tail.",
+        "Brush thoroughly at least once to several times per week with a soft bristle brush and a long-toothed metal comb, working gently through tangles in the feathering behind the ears, under the forelegs, along the chest and breeches, and on the tail.",
 
       bathing:
-        "Bathe when needed with a dog-appropriate shampoo. The right interval depends on coat condition, outdoor activity and skin health.",
+        "Bathe every four to six weeks, or as needed after muddy field work, using a gentle dog-formulated shampoo and conditioner to keep the silky coat and skin clean.",
 
       notes: [
-        "Use a comb to check feathered areas for knots and mats.",
-        "Inspect ears regularly and keep them clean and dry as advised by a veterinarian.",
-        "Trim nails regularly so they do not become overgrown.",
-        "Check the coat and skin after outdoor walks for burrs, grass seeds and parasites.",
-        "Professional trimming may help maintain a manageable coat but is not a substitute for routine brushing."
+        "Inspect the coat, feet, and ear feathering after every countryside walk to remove burrs, foxtails, grass awns, and ticks.",
+        "Trim hair carefully around the face, neck, and between the foot pads and toes to keep the outline neat and prevent mud or ice balls from accumulating.",
+        "Check and clean the low-hanging ears weekly to reduce moisture build-up and ear infections.",
+        "Trim nails monthly so the feet remain tight and well arched."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; generally responsive to patient training, but outdoor scents and bird interest can compete for attention.",
+        "Moderate; eager to please and cooperative, though a soft, sensitive nature and a strong instinct to follow bird scents require patient, reward-based consistency.",
 
       tips: [
-        "Use rewards, praise and short, engaging training sessions.",
-        "Start recall and lead manners early and practise around gradually increasing distractions.",
-        "Teach calm greetings and settle behaviours as well as active skills.",
-        "Provide safe opportunities to sniff and explore instead of expecting the dog to ignore all scent interests.",
-        "Avoid harsh punishment, which can undermine confidence and cooperation.",
-        "Do not allow off-lead exercise in unsecured areas until recall is dependable and the environment is safe."
+        "Rely on positive reinforcement—praise, play, and food rewards—because English Setters are sensitive and shut down under harsh corrections.",
+        "Begin recall and impulse-control training early in puppyhood, as airborne bird scents can easily override attention outdoors.",
+        "Avoid high-impact jumping, forced road running, or strenuous repetitive exercise until skeletal growth plates mature around two years of age.",
+        "Prevent 'counter surfing' and food scavenging by keeping kitchen counters and dishwashers closed, as the breed's keen nose readily tracks household food.",
+        "Keep off-leash running confined to safely fenced areas unless the dog has reliable field recall."
       ],
 
       socialization:
-        "Introduce the dog gradually and positively to people, dogs, handling, household sounds and varied environments during puppyhood and continue throughout life."
+        "Provide calm, positive exposure to varied people, friendly dogs, household noises, grooming tools, and outdoor environments from puppyhood onward to nurture a confident, steady adult temperament."
     },
 
     livingEnvironment: {
-      apartmentSuitable: null,
+      apartmentSuitable: false,
       houseWithYardSuitable: true,
 
       climates: [
         "Temperate climates",
-        "Cool climates with suitable shelter",
-        "Warm climates when exercise is scheduled during cooler hours and shade and water are available"
+        "Cool climates with indoor family living",
+        "Warm climates when strenuous exercise is scheduled for cool morning or evening hours with ample shade and water"
       ],
 
-      aloneTimeTolerance: null
+      aloneTimeTolerance:
+        "Low to moderate; thrives on close human and canine companionship and can develop boredom or separation distress if left isolated for long workdays without exercise and enrichment."
     }
   },
 
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity level and veterinary needs.",
+      "A complete, balanced medium-to-large-breed diet formulated for the dog's life stage and workload, with careful portion control to prevent excess weight.",
 
     feedingFrequency: {
       puppy:
-        "Use a complete puppy diet and divide the daily amount into multiple meals according to age, product guidance and veterinary advice.",
+        "Feed small, measured meals three times daily until one year of age to support steady, moderate skeletal growth.",
 
       adult:
-        "Many adult dogs do well with two measured meals per day; adjust the amount to maintain a lean body condition.",
+        "Feed two measured meals per day from one year of age onward, adjusting caloric intake to match seasonal hunting or exercise demands.",
 
-      senior: null
+      senior:
+        "Feed two measured meals per day using an age-appropriate diet adjusted for metabolism, joint health, and veterinary recommendations."
     },
 
     guidelines:
-      "Choose a nutritionally complete diet appropriate for the dog's life stage and activity. Measure portions, monitor body condition and adjust food intake as exercise changes. Keep fresh water available at all times. Treats should be included in the overall daily calorie allowance.",
+      "Measure daily rations carefully and monitor body condition throughout life, as English Setters have a strong appetite and can easily become overweight if overfed. Keep counters, tables, and dishwashers secure because their scenting instinct makes them notorious food scavengers.",
 
     considerations: [
-      "Avoid overfeeding and monitor weight regularly.",
-      "Adjust food portions for working dogs and dogs with lower activity levels.",
-      "Introduce diet changes gradually unless a veterinarian directs otherwise.",
-      "Discuss growth, weight, allergies or digestive concerns with a veterinarian.",
-      "Ask a veterinarian about meal timing and exercise precautions if the dog has risk factors for bloat."
+      "Divide daily rations into two adult meals rather than a single large meal and avoid vigorous exercise immediately before or after eating to help reduce gastric dilatation-volvulus (bloat) risk.",
+      "Monitor weight and coat quality closely; unexplained weight gain accompanied by thinning hair or lethargy warrants veterinary evaluation for hypothyroidism.",
+      "Account for training treats within the daily calorie budget to maintain a lean waist and protect developing or aging joints.",
+      "Provide constant access to fresh, clean water, while avoiding excessive gulping immediately after hard running."
     ],
 
     note:
-      "Individual calorie needs vary. Follow the food's feeding guidance as a starting point and adjust with veterinary advice and body-condition monitoring."
+      "Caloric requirements vary substantially between bench companions and active field-trial or hunting dogs; adjust portions with veterinary guidance."
   },
 
   health: {
     overview:
-      "English Setters can live active lives with appropriate preventive care, weight management and veterinary checks. Breed-club and kennel-club guidance identifies hip and elbow evaluation, thyroid evaluation and BAER hearing testing among recommended screening areas. These recommendations support risk assessment; they do not mean that every dog will develop a condition.",
+      "The English Setter is generally a hardy, long-lived gundog with a typical lifespan of about 12 years, though several hereditary, immunologic, and orthopedic conditions are documented in veterinary literature and health surveys. Scientifically established autosomal recessive mutations in the breed include neuronal ceroid lipofuscinosis (NCL8, caused by a CLN8 gene mutation) and late-onset rod-cone dysplasia 4 progressive retinal atrophy (rcd4-PRA), alongside a well-documented predisposition to congenital sensorineural deafness. Clinical health management and pre-breeding screening prioritize hip and elbow radiographs, autoimmune thyroiditis panels, and brainstem auditory evoked response (BAER) hearing evaluation, while owners should also watch for atopic dermatitis and gastric dilatation-volvulus (bloat).",
 
     commonConditions: [
-      "Hip dysplasia: an inherited and developmental joint condition worth discussing with the breeder and veterinarian.",
-      "Elbow dysplasia: a developmental joint condition for which screening is recommended by the national breed club.",
-      "Congenital sensorineural deafness: research in a UK puppy cohort found both unilateral and bilateral cases; the study's results should not be treated as a universal prevalence estimate for every population.",
-      "Hypothyroidism: a possible endocrine concern that may be assessed when clinically appropriate.",
-      "Gastric dilatation-volvulus (bloat): a life-threatening emergency that requires immediate veterinary attention if suspected."
+      "Congenital sensorineural deafness (CSD): an inherited inner-ear deafness associated with white piebald/roan pigmentation; in a peer-reviewed study of 447 UK English Setter puppies from complete litters tested by BAER at 5–10 weeks of age, 3.6% were unilaterally deaf and 0.9% were bilaterally deaf (4.5% overall), with higher risk in females and litters from parents of unknown hearing status.",
+      "Hypothyroidism (autoimmune lymphocytic thyroiditis): an endocrine disorder marked by reduced thyroid hormone production, often presenting in middle-aged dogs with unexplained weight gain, lethargy, recurrent skin or ear infections, and coat thinning.",
+      "Hip and elbow dysplasia: polygenic developmental joint malformations that can lead to secondary osteoarthritis and lameness; radiographic screening of breeding stock is a core health requirement.",
+      "Atopic dermatitis and skin/ear allergies: an inherited immune hypersensitivity to environmental allergens (such as pollens, molds, fleas, or house dust mites) causing chronic pruritus and recurrent otitis externa in the pendulous ears.",
+      "Progressive retinal atrophy, rod-cone dysplasia 4 (rcd4-PRA): an autosomal recessive, late-onset retinal degeneration (averaging around 10 years of age at diagnosis) identified by DNA screening in English Setters.",
+      "Neuronal ceroid lipofuscinosis 8 (NCL8): a rare, fatal autosomal recessive neurodegenerative storage disorder caused by a c.491T>C (p.L164P) missense mutation in the CLN8 gene on chromosome 37, preventable through DNA carrier testing.",
+      "Gastric dilatation-volvulus (GDV / bloat): an acute, life-threatening distension and torsion of the stomach that can affect deep-chested gundogs and requires immediate emergency veterinary intervention."
     ],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and keep vaccinations and parasite prevention current.",
-      "Discuss hip and elbow evaluation, thyroid assessment and BAER hearing testing with a veterinarian or responsible breeder.",
-      "Maintain a lean body condition and age-appropriate exercise.",
-      "Seek veterinary care promptly for sudden abdominal swelling, repeated unproductive retching, collapse or marked distress.",
-      "Use a secure lead or fenced area because hunting interest can lead the dog to follow scents or birds."
+      "Verify that prospective puppies and breeding parents have undergone BAER hearing evaluation (ideally performed at 5 to 7+ weeks of age), hip and elbow radiographs, and thyroid panel screening.",
+      "Maintain a lean body weight and avoid high-impact exercise before skeletal maturity at approximately 24 months of age to minimize orthopedic strain.",
+      "Inspect and dry the hanging ears weekly, especially after swimming or wet field work, and consult a veterinarian promptly if redness, odor, head shaking, or chronic scratching develops.",
+      "Learn the emergency warning signs of bloat—unproductive retching, distended abdomen, restlessness, salivation, and sudden weakness—and seek immediate veterinary care if suspected."
     ],
 
     recommendedScreenings: [
-      "Hip evaluation",
-      "Elbow evaluation",
-      "Thyroid evaluation",
-      "BAER hearing testing"
+      "Hip dysplasia radiographic evaluation",
+      "Elbow dysplasia radiographic evaluation",
+      "Autoimmune thyroiditis panel (thyroid evaluation)",
+      "BAER (Brainstem Auditory Evoked Response) hearing test",
+      "DNA testing for rcd4 Progressive Retinal Atrophy (PRA-rcd4) and Neuronal Ceroid Lipofuscinosis (NCL8 / CLN8) where indicated",
+      "Periodic veterinary ophthalmologist eye examination"
     ],
 
     dentalCare:
-      "Brush the teeth regularly with dog-safe toothpaste and arrange veterinary dental assessment when needed. Do not use human toothpaste.",
+      "Brush the teeth several times a week with canine-specific toothpaste and schedule routine veterinary dental assessments to prevent tartar accumulation and periodontal disease.",
 
     earCare:
-      "Check the hanging ears regularly for redness, odour, discharge or discomfort. Clean only as advised by a veterinarian, and seek care if signs of infection appear.",
+      "Because the low-set, feathered ears hang close to the cheek and limit airflow, inspect them weekly for wax, debris, redness, or odor, and keep the ear canals clean and dry.",
 
     skinCare:
-      "Inspect the skin and feathering during brushing, particularly where mats can trap moisture or debris. Seek veterinary advice for persistent itching, redness, sores or hair loss."
+      "Comb through the silky feathering regularly to prevent moisture-trapping mats, check for ticks and grass awns after field outings, and seek veterinary care for persistent seasonal itching or hot spots."
   },
 
   suitability: {
-    firstTimeOwners: null,
+    firstTimeOwners: true,
     familiesWithChildren: true,
     seniorOwners: null,
     activeOwners: true,
-    apartmentLiving: null,
+    apartmentLiving: false,
 
     idealFor: [
-      "People who can provide daily exercise and mental enrichment",
-      "Households that enjoy outdoor activities and scent-based games",
-      "Owners willing to brush and maintain a feathered coat",
-      "Families prepared to supervise children and teach respectful dog handling",
-      "People who can provide companionship and consistent reward-based training"
+      "Active families and outdoor enthusiasts who enjoy daily brisk walks, hiking, running, or bird hunting",
+      "Households with a securely fenced yard where a scent-driven gundog can run safely",
+      "Owners who appreciate a gentle, affectionate, people-oriented indoor companion and are willing to brush a feathered coat several times a week",
+      "Handlers who use patient, reward-based training methods",
+      "Multi-dog households seeking a sociable, non-quarrelsome sporting breed"
     ],
 
     notIdealFor: [
-      "Households that expect a low-energy dog with minimal exercise needs",
-      "Owners who cannot provide regular coat care",
-      "People who need dependable off-lead reliability without training",
-      "Homes where the dog would be left alone for long periods without gradual preparation and suitable support"
+      "Sedentary households unable to provide at least an hour of vigorous daily exercise",
+      "Owners unwilling to deal with regular brushing, shedding, and outdoor mud or burrs carried in long feathering",
+      "Homes where the dog would be left alone for long workdays without companionship",
+      "Handlers who rely on harsh corrections or expect immediate off-leash reliability around birds and wildlife without training"
     ]
   },
 
   funFacts: [
-    "The name 'setter' refers to the historical behaviour of indicating game by crouching or setting near it.",
-    "The term 'belton' describes the characteristic flecked coat pattern associated with the breed.",
-    "English Setters were developed as bird-finding dogs and remain associated with field work.",
-    "The long feathering is visually distinctive and needs regular care to prevent tangles."
+    "The word 'belton'—used exclusively to describe the flecked coat pattern of the English Setter—comes from a village in Northumberland, England, and was popularized by nineteenth-century breeder Edward Laverack.",
+    "Before hunting firearms existed, early British setters were trained to creep forward and lie flat ('set') on their bellies when they scented partridge or quail so hunters could throw a large net right over the crouching dog and the birds.",
+    "In 1570, royal physician John Caius wrote the earliest detailed account of the setting dog in 'De Canibus Britannicis', referring to the breed by the Latin name 'Index' for the way it silently pointed out game.",
+    "Modern English Setters are often seen in two complementary types: the taller, more heavily feathered bench or 'Laverack' type, and the slightly smaller, lighter-coated field or 'Llewellin' type bred for upland hunting and field trials.",
+    "The English Setter competed at the very first formal British dog show held at Newcastle upon Tyne on 28 January 1859 and was one of the nine original charter breeds registered in the United States in 1878."
   ],
 
   faq: [
     {
-      question: "Is the English Setter a good family dog?",
+      question: "What does the term 'belton' mean in English Setters?",
       answer:
-        "Many English Setters are affectionate and sociable companions. As with any breed, children and dogs should be supervised together, and the individual dog's temperament, training and needs matter."
+        "Belton refers to the breed's signature coat pattern of coloured flecking or ticking blended through a white coat, occurring in blue (black on white), orange, lemon, liver, or tricolour. Named after a village in Northumberland, England, the term was popularized by nineteenth-century breeder Edward Laverack."
+    },
+    {
+      question: "What is the difference between a Laverack and a Llewellin English Setter?",
+      answer:
+        "Both belong to the same English Setter breed, but they reflect different nineteenth-century British breeding lines. Laverack lines form the foundation of modern conformation or show-type dogs, which are typically larger with longer, more profuse feathering, whereas Llewellin lines were developed by R. Purcell Llewellin for field trials and upland hunting and tend to be slightly lighter in frame and coat."
+    },
+    {
+      question: "Are English Setters good family dogs?",
+      answer:
+        "Yes. English Setters are widely known for a gentle, merry, and affectionate nature with family members, children, strangers, and other dogs. As with any medium-to-large active breed, interactions with young children should be supervised and the dog's daily exercise needs must be met."
     },
     {
       question: "How much exercise does an English Setter need?",
       answer:
-        "They are an active sporting breed and generally need substantial daily movement and mental enrichment. The 60–120 minutes listed here is a practical estimate, not a universal prescription; age, health and working activity change the amount needed."
+        "Adult English Setters generally need 60 to 120 minutes of daily physical activity and scent enrichment, such as brisk walks, hikes, or running in a securely fenced area. Once thoroughly exercised, they typically settle calmly indoors. High-impact exercise should be avoided until skeletal maturity around two years of age."
     },
     {
-      question: "Does an English Setter shed?",
+      question: "Why is BAER hearing testing important for English Setter puppies?",
       answer:
-        "Yes. Regular brushing helps remove loose hair and prevent tangles in the longer feathering."
+        "English Setters carry a predisposition to congenital sensorineural deafness associated with white piebald and roan pigmentation. A Brainstem Auditory Evoked Response (BAER) test—typically performed on puppies from 5 to 7 weeks of age onward—accurately identifies whether a puppy hears normally in both ears or has unilateral or bilateral deafness."
     },
     {
-      question: "How often should an English Setter be brushed?",
+      question: "What health screenings should I ask an English Setter breeder about?",
       answer:
-        "Brush several times a week as a starting point, checking the feathered areas for knots. Some coats need daily attention, especially after outdoor activity."
-    },
-    {
-      question: "What does belton mean?",
-      answer:
-        "Belton describes a flecked pattern on the coat, commonly seen as coloured speckling on a white ground."
-    },
-    {
-      question: "Are English Setters easy to train?",
-      answer:
-        "They can respond well to patient, reward-based training. Their interest in birds and scents can make recall and focus challenging outdoors, so practise gradually and use secure areas."
-    },
-    {
-      question: "What health tests should I ask a breeder about?",
-      answer:
-        "Ask about hip and elbow evaluation, thyroid evaluation and BAER hearing testing. Discuss the results and their relevance with a veterinarian; screening reduces uncertainty but cannot guarantee future health."
-    },
-    {
-      question: "Can an English Setter live in an apartment?",
-      answer:
-        "Apartment living suitability depends on the individual dog, daily exercise, training, noise and time spent alone. The catalog does not assign a definitive breed-wide yes or no."
-    },
-    {
-      question: "What colours do English Setters have?",
-      answer:
-        "Common recognised patterns include blue, orange, lemon and liver belton, along with tricolour patterns. Exact wording and acceptance can vary by registry."
-    },
-    {
-      question: "Are English Setters prone to bloat?",
-      answer:
-        "Bloat is a serious risk discussed in general breed-care guidance. Sudden abdominal swelling, unproductive retching, collapse or severe distress needs emergency veterinary care."
+        "Prospective owners should ask for documented hip and elbow radiographic evaluations, an autoimmune thyroiditis panel, and BAER hearing test results for both parents and puppies, as well as DNA test status for late-onset progressive retinal atrophy (rcd4-PRA) and neuronal ceroid lipofuscinosis (NCL8) where applicable."
     }
   ],
 
   references: [
     "akc-english-setter-profile",
-    "american-kennel-club-sporting-group-health-testing",
+    "akc-english-setter-standard",
+    "fci-english-setter-standard",
     "english-setter-association-breed-standard",
     "english-setter-association-health",
+    "esaa-health-genetics",
+    "esaa-breed-faqs",
+    "american-kennel-club-sporting-group-health-testing",
     "pubmed-english-setter-congenital-deafness",
+    "pubmed-english-setter-cln8-ncl",
+    "ofa-rcd4-pra",
     "akc-english-setter-history"
   ],
 
   evidence: {
+    scientificName: {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Left null because none of the cited breed standards or kennel club profiles explicitly print a binomial Latin species name."
+    },
+
     alternateNames: {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-english-setter-history",
           role: "verified",
-          locator: "Breed history and historical naming"
+          locator: "The Dogs of Laverack and Llewellin; Nets Before Guns"
+        },
+        {
+          id: "fci-english-setter-standard",
+          role: "verified",
+          locator: "Note of the Standards Commission — Edward Lavarack"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Historical alternate names are not necessarily formal registry names."
-    },
-
-    scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note: "Recorded as the conventional domestic-dog scientific designation; not independently verified for this catalog entry."
+      verifiedOn: "2026-10-23",
+      note: "Historical and bloodline names ('Laverack Setter', 'Llewellin Setter', and 'Setting Spaniel') are documented in historical breed accounts."
     },
 
     group: {
@@ -384,30 +432,41 @@ export const english_setter: Breed = {
         {
           id: "akc-english-setter-profile",
           role: "verified",
-          locator: "Breed group"
+          locator: "Sporting Group"
+        },
+        {
+          id: "fci-english-setter-standard",
+          role: "verified",
+          locator: "FCI-Classification: Group 7 Pointing Dogs, Section 2.2 British and Irish Pointers and Setters, Setter"
         },
         {
           id: "english-setter-association-breed-standard",
           role: "verified",
-          locator: "Breed standard"
+          locator: "Gundog Breed Standard"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Group labels depend on the registry; the record displays more than one registry classification."
+      verifiedOn: "2026-10-23",
+      note: "Classified in the Sporting Group (AKC), Gundog Group (RKC), and Group 7 Pointing Dogs, Section 2.2 British and Irish Pointers and Setters (FCI)."
     },
 
     origin: {
       reliability: "reliable_source",
       sources: [
         {
+          id: "fci-english-setter-standard",
+          role: "verified",
+          locator: "Origin: Great Britain; Note of the Standards Commission: Belton is a village in Northumberland"
+        },
+        {
           id: "akc-english-setter-history",
           role: "verified",
-          locator: "Breed history"
+          locator: "Nets Before Guns; The Dogs of Laverack and Llewellin"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "The breed was developed in England."
+      verifiedOn: "2026-10-23",
+      note: "Developed in England, with foundational 19th-century breeding centered in northern England (Northumberland/Cumberland) and the Scottish Borders."
     },
+
 
     overview: {
       reliability: "reliable_source",
@@ -415,21 +474,26 @@ export const english_setter: Breed = {
         {
           id: "akc-english-setter-profile",
           role: "verified",
-          locator: "About the breed, care and exercise"
+          locator: "About the Breed; History; Did You Know?"
         },
         {
           id: "akc-english-setter-history",
           role: "verified",
-          locator: "Breed history"
+          locator: "Nets Before Guns; First Reference to Setting (Dr. John Caius, 1570); The Dogs of Laverack and Llewellin"
+        },
+        {
+          id: "fci-english-setter-standard",
+          role: "verified",
+          locator: "Utilization, General Appearance, Behaviour/Temperament, Note of the Standards Commission"
         },
         {
           id: "english-setter-association-breed-standard",
           role: "verified",
-          locator: "Breed characteristics and historical function"
+          locator: "General Appearance, Characteristics, Temperament"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Descriptions are original summaries of the cited breed profile and standard."
+      verifiedOn: "2026-10-23",
+      note: "Synthesized in original wording from official standards and historical breed accounts."
     },
 
     physical: {
@@ -438,42 +502,26 @@ export const english_setter: Breed = {
         {
           id: "akc-english-setter-profile",
           role: "verified",
-          locator: "Height, weight, life expectancy and breed characteristics"
+          locator: "Height (25–27 in male, 23–25 in female), Weight (65–80 lb male, 45–55 lb female), Life Expectancy (12 years), Breed Traits"
+        },
+        {
+          id: "akc-english-setter-standard",
+          role: "verified",
+          locator: "Size (Dogs about 25 inches; bitches about 24 inches), Coat, Markings and Color"
+        },
+        {
+          id: "fci-english-setter-standard",
+          role: "verified",
+          locator: "Size (Males: 65–68 cm; Females: 61–65 cm), Coat, Colour"
         },
         {
           id: "english-setter-association-breed-standard",
           role: "verified",
-          locator: "General appearance, coat, colour and size"
+          locator: "Size (dogs: 65–69 cm / 25.5–27 in; bitches: 61–65 cm / 24–25.5 in), Coat, Colour"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "AKC profile measurements are used for height and weight; the UK standard has somewhat different height ranges."
-    },
-
-    "physical.weight.male.max": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "akc-english-setter-profile",
-          role: "verified",
-          locator: "Weight: males 65–80 pounds; converted to kilograms and rounded"
-        }
-      ],
-      verifiedOn: "2026-10-20",
-      note: "Converted from pounds and rounded to one decimal place."
-    },
-
-    "physical.weight.female.max": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "akc-english-setter-profile",
-          role: "verified",
-          locator: "Weight: females 45–55 pounds; converted to kilograms and rounded"
-        }
-      ],
-      verifiedOn: "2026-10-20",
-      note: "Converted from pounds and rounded to one decimal place."
+      verifiedOn: "2026-10-23",
+      note: "Height range spans the AKC profile (males 25–27 in / 63.5–68.6 cm, females 23–25 in / 58.4–63.5 cm), FCI Standard No. 2 (males 65–68 cm, females 61–65 cm), and RKC/ESA standard (males 65–69 cm, females 61–65 cm). Weight reflects AKC profile ranges converted from pounds to kilograms (males 65–80 lb = 29.5–36.3 kg; females 45–55 lb = 20.4–24.9 kg)."
     },
 
     "physical.sheddingLevel": {
@@ -482,43 +530,70 @@ export const english_setter: Breed = {
         {
           id: "akc-english-setter-profile",
           role: "verified",
-          locator: "Grooming and coat care"
+          locator: "Breed Traits & Characteristics — Shedding Level & Grooming"
+        },
+        {
+          id: "esaa-breed-faqs",
+          role: "verified",
+          locator: "Grooming and coat maintenance"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Qualitative description; not a measured shedding rate."
+      verifiedOn: "2026-10-23",
+      note: "Moderate year-round shedding requiring regular brushing and combing."
     },
 
     "physical.droolingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No sufficiently consistent breed-specific drooling rating was established from the consulted sources."
-    },
-
-    "temperament.traits": {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-english-setter-profile",
           role: "verified",
-          locator: "Breed traits and temperament"
+          locator: "Breed Traits & Characteristics — Drooling Level"
         },
         {
-          id: "english-setter-association-breed-standard",
+          id: "fci-english-setter-standard",
           role: "verified",
-          locator: "Characteristics and temperament"
+          locator: "Lips: Not too pendulous"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Traits describe common breed tendencies, not guarantees about an individual dog."
+      verifiedOn: "2026-10-23",
+      note: "Rated low on drooling tendency, with lips described as not overly pendulous."
+    },
+
+    temperament: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-setter-profile",
+          role: "verified",
+          locator: "Breed Traits & Characteristics; About the Breed; Training"
+        },
+        {
+          id: "akc-english-setter-standard",
+          role: "verified",
+          locator: "Temperament: Gentle, affectionate, friendly, without shyness, fear or viciousness"
+        },
+        {
+          id: "fci-english-setter-standard",
+          role: "verified",
+          locator: "Behaviour / Temperament: Very active with a keen game sense. Intensely friendly and good natured"
+        }
+      ],
+      verifiedOn: "2026-10-23",
+      note: "Trait descriptions and 1–5 scores align with AKC breed trait ratings (Affectionate With Family 5/5, Good With Young Children 5/5, Good With Other Dogs 5/5, Openness To Strangers 5/5, Watchdog/Protective Nature 3/5, Trainability 4/5, Energy Level 4/5, Barking Level 3/5)."
     },
 
     "temperament.scores": {
-      reliability: "estimate",
-      sources: [],
-      verifiedOn: null,
-      note: "DogLens editorial ratings on a 1–5 scale, not official or validated psychometric scores."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-setter-profile",
+          role: "verified",
+          locator: "Breed Traits & Characteristics 1–5 ratings"
+        }
+      ],
+      verifiedOn: "2026-10-23",
+      note: "Scores reflect published 1–5 trait ratings on the AKC breed profile alongside an editorial independence estimate (3/5) based on scent-driven field behavior."
     },
 
     care: {
@@ -527,83 +602,78 @@ export const english_setter: Breed = {
         {
           id: "akc-english-setter-profile",
           role: "verified",
-          locator: "Grooming, exercise, training and nutrition guidance"
+          locator: "Grooming, Exercise, and Training sections"
         },
         {
-          id: "english-setter-association-breed-standard",
-          role: "cited",
-          locator: "Activity and working characteristics"
+          id: "esaa-breed-faqs",
+          role: "verified",
+          locator: "Exercise, training, and coat care guidance"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Includes general care guidance; individual needs vary."
+      verifiedOn: "2026-10-23",
+      note: "Covers weekly brushing and combing, 4–6 week bathing intervals, monthly nail trimming, positive-reinforcement training, and avoiding high-impact exercise before two years of age."
     },
 
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
-      sources: [],
+      sources: [
+        {
+          id: "akc-english-setter-profile",
+          role: "cited",
+          locator: "Exercise section"
+        }
+      ],
       verifiedOn: null,
-      note: "A practical editorial range, not a formally published breed-specific minimum."
+      note: "Practical daily exercise duration range (60–120 minutes) estimated from the breed's high sporting energy and need for daily vigorous runs or long walks."
     },
 
-    "care.livingEnvironment.apartmentSuitable": {
-      reliability: "unavailable",
-      sources: [],
+    "care.livingEnvironment": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-english-setter-profile",
+          role: "cited",
+          locator: "Exercise and Training sections"
+        },
+        {
+          id: "esaa-breed-faqs",
+          role: "cited",
+          locator: "Living environment and fenced yard guidance"
+        }
+      ],
       verifiedOn: null,
-      note: "No categorical breed-wide apartment suitability rating was established."
-    },
-
-    "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No reliable quantified breed-specific alone-time tolerance was found."
+      note: "Derived from parent-club and kennel-club guidance emphasizing access to a large, securely fenced yard and close family companionship."
     },
 
     nutrition: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-setter-profile",
+          role: "verified",
+          locator: "Nutrition and Health sections"
+        },
+        {
+          id: "english-setter-association-health",
+          role: "verified",
+          locator: "Hypothyroidism and weight management"
+        }
+      ],
+      verifiedOn: "2026-10-23",
+      note: "Verifies three small daily meals for puppies up to 1 year of age, two measured daily meals for adults, tendency toward obesity and 'counter surfing' (including opening dishwashers), and bloat precautions."
+    },
+
+    "nutrition.feedingFrequency.senior": {
       reliability: "general_guidance",
       sources: [
         {
           id: "akc-english-setter-profile",
           role: "cited",
-          locator: "Nutrition guidance"
+          locator: "Nutrition section"
         }
       ],
       verifiedOn: null,
-      note: "General feeding advice; exact diet and quantity should be tailored to the individual dog."
-    },
-
-    "nutrition.feedingFrequency.puppy": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "akc-english-setter-profile",
-          role: "verified",
-          locator: "Nutrition: puppy feeding"
-        }
-      ],
-      verifiedOn: "2026-10-20",
-      note: "The profile advises multiple small meals for puppies; the record avoids prescribing a fixed quantity."
-    },
-
-    "nutrition.feedingFrequency.adult": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "akc-english-setter-profile",
-          role: "verified",
-          locator: "Nutrition: adult feeding"
-        }
-      ],
-      verifiedOn: "2026-10-20",
-      note: "The source recommends measured adult meals; exact needs vary."
-    },
-
-    "nutrition.feedingFrequency.senior": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No specific senior feeding frequency was established from the consulted breed-specific sources."
+      note: "General veterinary feeding guidance for senior sporting dogs."
     },
 
     health: {
@@ -612,57 +682,46 @@ export const english_setter: Breed = {
         {
           id: "akc-english-setter-profile",
           role: "verified",
-          locator: "Health and recommended national breed club tests"
+          locator: "Health section and Recommended Health Tests From the National Breed Club"
         },
-        {
-          id: "english-setter-association-health",
-          role: "verified",
-          locator: "Breed health information"
-        },
-        {
-          id: "pubmed-english-setter-congenital-deafness",
-          role: "verified",
-          locator: "Study abstract and reported results"
-        }
-      ],
-      verifiedOn: "2026-10-20",
-      note: "Health risks and screening guidance do not imply that every dog will develop these conditions."
-    },
-
-    "health.commonConditions": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "akc-english-setter-profile",
-          role: "verified",
-          locator: "Breed health and recommended screenings"
-        },
-        {
-          id: "english-setter-association-health",
-          role: "verified",
-          locator: "Health concerns and screening information"
-        },
-        {
-          id: "pubmed-english-setter-congenital-deafness",
-          role: "verified",
-          locator: "Study results on congenital sensorineural deafness"
-        }
-      ],
-      verifiedOn: "2026-10-20",
-      note: "Conditions are described as possible concerns, not as a prediction for an individual dog."
-    },
-
-    "health.recommendedScreenings": {
-      reliability: "reliable_source",
-      sources: [
         {
           id: "american-kennel-club-sporting-group-health-testing",
           role: "verified",
-          locator: "English Setter: recommended tests from the national breed club"
+          locator: "English Setter — Hip Evaluation, Elbow Evaluation, Thyroid Evaluation, BAER Testing"
+        },
+        {
+          id: "esaa-health-genetics",
+          role: "verified",
+          locator: "CHIC requirements (Hips, Elbows, Thyroid, BAER) and BAER testing protocol"
+        },
+        {
+          id: "esaa-breed-faqs",
+          role: "verified",
+          locator: "Hypothyroidism, allergies, and congenital deafness"
+        },
+        {
+          id: "english-setter-association-health",
+          role: "verified",
+          locator: "Breed Health & Conservation Plan: Hip Dysplasia, Atopic Dermatitis, Hypothyroidism, Deafness, PRA4 and NCL DNA tests"
+        },
+        {
+          id: "pubmed-english-setter-congenital-deafness",
+          role: "verified",
+          locator: "Marsh et al. 2020 (Vet Rec 186(17):e13): 447 UK puppies, 3.6% unilateral and 0.9% bilateral CSD (4.5% total)"
+        },
+        {
+          id: "pubmed-english-setter-cln8-ncl",
+          role: "verified",
+          locator: "Katz et al. 2005 (Biochem Biophys Res Commun 327(2):541-7): CLN8 c.491T>C (p.L164P) missense mutation in English Setter NCL"
+        },
+        {
+          id: "ofa-rcd4-pra",
+          role: "verified",
+          locator: "RCD4 Progressive Retinal Atrophy in English Setters"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Screening recommendations should be discussed with a veterinarian or responsible breeder."
+      verifiedOn: "2026-10-23",
+      note: "Distinguishes peer-reviewed epidemiological and molecular findings (congenital sensorineural deafness, CLN8 neuronal ceroid lipofuscinosis, rcd4-PRA) from parent-club CHIC screening requirements (hips, elbows, thyroid, BAER) and clinical conditions (atopic dermatitis, bloat/GDV)."
     },
 
     suitability: {
@@ -671,11 +730,16 @@ export const english_setter: Breed = {
         {
           id: "akc-english-setter-profile",
           role: "cited",
-          locator: "Breed characteristics and care requirements"
+          locator: "About the Breed, Breed Traits, Grooming, Exercise, and Training"
+        },
+        {
+          id: "esaa-breed-faqs",
+          role: "cited",
+          locator: "Owner suitability and activity expectations"
         }
       ],
       verifiedOn: null,
-      note: "Suitability statements are editorial guidance based on activity, grooming and training needs, not a guarantee."
+      note: "Suitability assessments synthesize verified temperament, exercise, and coat-maintenance requirements; seniorOwners is kept null as it depends on individual physical mobility."
     },
 
     "suitability.familiesWithChildren": {
@@ -684,50 +748,41 @@ export const english_setter: Breed = {
         {
           id: "akc-english-setter-profile",
           role: "verified",
-          locator: "Family life and child-supervision guidance"
+          locator: "Good With Young Children (5/5)"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "A positive general tendency does not remove the need to supervise children and dogs."
+      verifiedOn: "2026-10-23",
+      note: "Rated highest category for compatibility with young children, with standard adult supervision."
     },
 
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable breed-specific rating for suitability for senior owners was established."
+      note: "Left null because suitability for senior owners depends on the individual owner's activity level and ability to manage a vigorous 20–36 kg gundog."
     },
-
-    "suitability.apartmentLiving": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Suitability depends on the individual dog and household; no categorical breed-wide rating was established."
-    },
-
-    "suitability.firstTimeOwners": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "No reliable breed-specific rating for suitability for first-time owners was established."
-},
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-english-setter-history",
+          id: "akc-english-setter-profile",
           role: "verified",
-          locator: "Breed history"
+          locator: "Did You Know? (1859 Newcastle-On-Tyne dog show; 1825 Edward Laverack 'Ponto' and 'Old Moll')"
         },
         {
-          id: "english-setter-association-breed-standard",
+          id: "akc-english-setter-history",
           role: "verified",
-          locator: "Coat markings and breed function"
+          locator: "Nets Before Guns; First Reference to Setting (Dr. John Caius, 1570); The Dogs of Laverack and Llewellin; 1878 charter breed"
+        },
+        {
+          id: "fci-english-setter-standard",
+          role: "verified",
+          locator: "Note of the Standards Commission — Belton village in Northumberland and Edward Lavarack"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Historical and coat terminology facts are paraphrased."
+      verifiedOn: "2026-10-23",
+      note: "All historical facts and dates are verified against FCI Standard No. 2 and AKC historical documentation."
     },
 
     faq: {
@@ -736,23 +791,33 @@ export const english_setter: Breed = {
         {
           id: "akc-english-setter-profile",
           role: "verified",
-          locator: "Breed characteristics, care, exercise, grooming, nutrition and health"
+          locator: "About the Breed, Exercise, Grooming, Health"
         },
         {
-          id: "english-setter-association-breed-standard",
+          id: "akc-english-setter-history",
           role: "verified",
-          locator: "Breed standard"
+          locator: "The Dogs of Laverack and Llewellin"
         },
         {
-          id: "english-setter-association-health",
+          id: "fci-english-setter-standard",
           role: "verified",
-          locator: "Health guidance"
+          locator: "Note of the Standards Commission"
+        },
+        {
+          id: "esaa-health-genetics",
+          role: "verified",
+          locator: "CHIC and BAER testing requirements"
+        },
+        {
+          id: "pubmed-english-setter-congenital-deafness",
+          role: "verified",
+          locator: "BAER testing and congenital sensorineural deafness"
         }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Answers are original summaries. Exercise time is explicitly labelled as an estimate."
+      verifiedOn: "2026-10-23",
+      note: "FAQ answers are written in original wording and grounded in verified standards, parent-club guidance, and veterinary research."
     }
   },
 
-  updatedOn: "2026-10-20"
+  updatedOn: "2026-10-23"
 };

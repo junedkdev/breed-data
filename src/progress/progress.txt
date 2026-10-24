@@ -29,8 +29,7 @@
 26:maremma_sheepdog - CG
 27:hovawart - CG
 28:american_english_coonhound - CG
-
-29:english_setter - CR
+29:english_setter - CG
 
 30:pyrenean_mastiff - C
 31:tibetan_terrier - C

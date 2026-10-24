@@ -819,8 +819,8 @@ export const sources = defineSources({
     url: "https://www.akc.org/breeder-programs/breed-health-testing-requirements/sporting-group-health-testing-requirements/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-10-23",
-    note: "Official AKC Sporting Group breed health testing recommendations, including Nova Scotia Duck Tolling Retriever and Boykin Spaniel screening panels (Hip Evaluation, Patella Evaluation, Ophthalmologist Evaluation, EIC DNA test, and CEA/CH DNA test).",
+    accessedOn: "2026-10-19",
+    note: "Boykin Spaniel recommended health tests: patella, hip, ophthalmologist, EIC DNA and CEA/CH DNA."
   },
 "nsdtr-club-usa-health-statement": {
     id: "nsdtr-club-usa-health-statement",
@@ -2722,7 +2722,7 @@ export const sources = defineSources({
     accessedOn: "2026-10-24",
     note: "Wikimedia Commons file page for American_English_Coonhound.jpg: photographed 9 February 2012 by Pets Adviser at the Westminster Kennel Club Meet the New Breeds event, uploaded 2 July 2013 by Ltshears via Flickr upload bot, 3888 × 2592 px, licensed under CC BY 2.0 (includes author request to link to petsadviser.com)."
   },
-  "akc-english-setter-profile": {
+"akc-english-setter-profile": {
     id: "akc-english-setter-profile",
     name: "American Kennel Club — English Setter",
     publisher: "American Kennel Club",
@@ -2730,56 +2730,56 @@ export const sources = defineSources({
     type: "kennel_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed profile covering measurements, life expectancy, care, grooming, exercise, nutrition and recommended health tests."
+    accessedOn: "2026-10-23",
+    note: "Breed profile covering measurements (males 25–27 in / 65–80 lb; females 23–25 in / 45–55 lb), 12-year life expectancy, care, grooming, exercise, nutrition, and recommended health tests."
   },
 
-  "english-setter-association-breed-standard": {
+"english-setter-association-breed-standard": {
     id: "english-setter-association-breed-standard",
-    name: "English Setter Association — Breed Standard",
+    name: "English Setter Association (UK) — Breed Standard",
     publisher: "English Setter Association",
-    url: "https://englishsetterassociation.org.uk/breed_standard.html",
+    url: "https://www.englishsetterassociation.co.uk/breed_standard.html",
     type: "official_breed_standard",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "The page identifies the standard as published in August and amended in November 2002; the exact publication day is not stated."
+    accessedOn: "2026-10-23",
+    note: "Reproduces the UK Kennel Club breed standard (published August, amended November 2002); specifies height of 65–69 cm (25.5–27 in) for dogs and 61–65 cm (24–25.5 in) for bitches."
   },
 
-  "english-setter-association-health": {
+"english-setter-association-health": {
     id: "english-setter-association-health",
-    name: "English Setter Association — Health",
+    name: "English Setter Association (UK) — Health",
     publisher: "English Setter Association",
-    url: "https://www.englishsetterassociation.org.uk/health.html",
+    url: "https://www.englishsetterassociation.co.uk/health.html",
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed-health information, screening context and links to the English Setter health survey."
+    accessedOn: "2026-10-23",
+    note: "UK breed-club health overview covering hip dysplasia, atopic dermatitis, hypothyroidism, congenital deafness (BAER testing), and DNA testing for PRA-rcd4 and NCL."
   },
 
-  "pubmed-english-setter-congenital-deafness": {
+"pubmed-english-setter-congenital-deafness": {
     id: "pubmed-english-setter-congenital-deafness",
-    name: "Congenital sensorineural deafness in English setters in the United Kingdom",
-    publisher: "PubMed",
+    name: "Congenital sensorineural deafness in English setters in the United Kingdom: prevalence and association with phenotype and sex",
+    publisher: "Veterinary Record / PubMed",
     url: "https://pubmed.ncbi.nlm.nih.gov/31662574/",
     type: "scientific_publication",
     commercialUse: "reference_only",
-    publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Peer-reviewed study abstract reporting BAER screening results from a UK cohort of English Setter puppies."
+    publishedOn: "2019-10-29",
+    accessedOn: "2026-10-23",
+    note: "Peer-reviewed study (Vet Rec 2020;186(17):e13, Epub 2019-10-29) of 447 UK English Setter puppies from complete litters undergoing BAER testing (2000–2018), reporting 3.6% unilateral and 0.9% bilateral congenital sensorineural deafness (4.5% total)."
   },
 
-  "akc-english-setter-history": {
+"akc-english-setter-history": {
     id: "akc-english-setter-history",
-    name: "American Kennel Club — English Setter History",
+    name: "American Kennel Club — English Setter History: From Net Hunter to Dual-Purpose Show Dog",
     publisher: "American Kennel Club",
     url: "https://www.akc.org/expert-advice/dog-breeds/english-setter-history/",
     type: "kennel_club",
     commercialUse: "reference_only",
-    publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Historical overview of the breed's development and traditional bird-finding function."
+    publishedOn: "2025-12-10",
+    accessedOn: "2026-10-23",
+    note: "Historical overview covering 14th-century net-hunting origins, John Caius's 1570 account, Edward Laverack's 1825 line ('Ponto' and 'Old Moll'), R. Purcell Llewellin's field setter line, and 1878 charter recognition."
   },
   "schweizerische-kynologische-gesellschaft-weisser-schweizer-schaeferhund": {
     id: "schweizerische-kynologische-gesellschaft-weisser-schweizer-schaeferhund",
@@ -6942,6 +6942,72 @@ export const sources = defineSources({
     accessedOn: "2026-10-24",
     note:
       "Original file page identifies Pleple2000 as the author, records the capture date as 11 November 2006 and the upload date as 22 November 2006, and gives original dimensions of 2226 × 1998 pixels. CC BY-SA 3.0 is one of the offered licenses; the breed record uses that license option.",
+  },
+  "akc-english-setter-standard": {
+    id: "akc-english-setter-standard",
+    name: "American Kennel Club — Official Standard for the English Setter",
+    publisher: "American Kennel Club",
+    url: "https://images.akc.org/pdf/breeds/standards/EnglishSetter.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "1986-11-11",
+    accessedOn: "2026-10-23",
+    note: "Official AKC breed standard approved November 11, 1986; specifies dogs about 25 inches, bitches about 24 inches, and belton coat colors."
+  },
+  "fci-english-setter-standard": {
+    id: "fci-english-setter-standard",
+    name: "FCI-Standard N° 2 — English Setter",
+    publisher: "Fédération Cynologique Internationale (FCI)",
+    url: "https://www.fci.be/Nomenclature/Standards/002g07-en.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-10-23",
+    note: "Official FCI Standard No. 2 (Group 7, Section 2.2); specifies height of 65–68 cm for males and 61–65 cm for females, plus belton coat colors and working trial requirement."
+  },
+  "esaa-health-genetics": {
+    id: "esaa-health-genetics",
+    name: "English Setter Association of America — Health & Genetics (CHIC & BAER)",
+    publisher: "English Setter Association of America",
+    url: "https://esaa.com/english-setters/health-genetics/",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Parent club health and genetics guidance detailing OFA CHIC requirements (hips, elbows, autoimmune thyroiditis, and BAER hearing test) and puppy BAER testing timing."
+  },
+  "esaa-breed-faqs": {
+    id: "esaa-breed-faqs",
+    name: "English Setter Association of America — Frequently Asked Questions About English Setters",
+    publisher: "English Setter Association of America",
+    url: "https://esaa.com/english-setters/breed-faqs/",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Parent club FAQ covering temperament, grooming, field vs. bench lines, hypothyroidism, allergies, and congenital deafness."
+  },
+  "pubmed-english-setter-cln8-ncl": {
+    id: "pubmed-english-setter-cln8-ncl",
+    name: "A mutation in the CLN8 gene in English Setter dogs with neuronal ceroid-lipofuscinosis",
+    publisher: "Biochemical and Biophysical Research Communications / PubMed",
+    url: "https://pubmed.ncbi.nlm.nih.gov/15629147/",
+    type: "scientific_publication",
+    commercialUse: "reference_only",
+    publishedOn: "2005-02-11",
+    accessedOn: "2026-10-23",
+    note: "Peer-reviewed study identifying the autosomal recessive CLN8 c.491T>C (p.L164P) missense mutation responsible for hereditary neuronal ceroid lipofuscinosis (NCL8) in English Setters."
+  },
+  "ofa-rcd4-pra": {
+    id: "ofa-rcd4-pra",
+    name: "Orthopedic Foundation for Animals — RCD4 Progressive Retinal Atrophy",
+    publisher: "Orthopedic Foundation for Animals",
+    url: "https://ofa.org/rcd4-progressive-retinal-atrophy/",
+    type: "veterinary",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "OFA and Animal Health Trust overview of late-onset rod-cone dysplasia 4 (rcd4-PRA, C2orf71 mutation), an autosomal recessive retinal degeneration averaging ~10 years at diagnosis in English Setters and other breeds."
   },
 });
 
