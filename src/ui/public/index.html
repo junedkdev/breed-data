@@ -1,592 +1,90 @@
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Breed Data Manager</title>
-  <link rel="stylesheet" href="/app.css" />
-
-  <style>
-    :root {
-      --page-bg: #f5f3ed;
-      --card-bg: #fffdf8;
-      --border: #e4ddd1;
-      --text: #252720;
-      --muted: #69685f;
-      --accent: #3f604f;
-      --accent-hover: #304b3d;
-      --radius: 12px;
-      --gap: 12px;
-    }
-
-    * {
-      box-sizing: border-box;
-    }
-
-    html {
-      min-width: 320px;
-      min-height: 100%;
-    }
-
-    body {
-      width: 100% !important;
-      max-width: none !important;
-      min-width: 320px;
-      min-height: 100vh;
-      margin: 0 !important;
-      padding: 10px 12px;
-      color: var(--text);
-      background: var(--page-bg);
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-        sans-serif;
-      font-size: 13px;
-    }
-
-    /* Compact application header */
-
-    body > header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 16px;
-      margin: 0 0 10px;
-      padding: 0;
-    }
-
-    header h1 {
-      margin: 0;
-      font-size: 25px;
-      line-height: 1.2;
-      letter-spacing: -0.7px;
-    }
-
-    #counts {
-      margin: 5px 0 0;
-      color: var(--muted);
-      font-size: 12px;
-      line-height: 1.4;
-    }
-
-    button {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      width: fit-content;
-      max-width: 100%;
-      min-height: 32px;
-      padding: 7px 11px;
-      border: 1px solid transparent;
-      border-radius: 7px;
-      background: var(--accent);
-      color: white;
-      font: inherit;
-      font-weight: 600;
-      cursor: pointer;
-      transition: background 140ms ease, transform 140ms ease;
-    }
-
-    button:hover {
-      background: var(--accent-hover);
-    }
-
-    button:active {
-      transform: translateY(1px);
-    }
-
-    button:focus-visible,
-    input:focus-visible,
-    textarea:focus-visible,
-    summary:focus-visible {
-      outline: 2px solid #719b82;
-      outline-offset: 2px;
-    }
-
-    /* Two workflow panels fill the available width */
-
-    main {
-      display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: var(--gap);
-      width: 100%;
-      max-width: none !important;
-      margin: 0 !important;
-      padding: 0;
-      align-items: stretch;
-    }
-
-    main > section {
-      display: flex;
-      flex-direction: column;
-      min-width: 0;
-      min-height: 0;
-      margin: 0;
-      padding: 13px;
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      background: var(--card-bg);
-    }
-
-    /* Panel title and instructions */
-
-    .panel-heading {
-      flex: 0 0 auto;
-      min-width: 0;
-      margin-bottom: 10px;
-    }
-
-    .panel-heading h2 {
-      margin: 0 0 5px;
-      font-size: 20px;
-      line-height: 1.25;
-    }
-
-    .help {
-      margin: 0 0 9px;
-      color: var(--muted);
-      font-size: 12px;
-      line-height: 1.45;
-    }
-
-    .breed-toolbar {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 8px;
-      min-width: 0;
-    }
-
-    .current {
-      margin: 0;
-      min-width: 0;
-      overflow-wrap: anywhere;
-      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-      font-size: 12px;
-      font-weight: 700;
-    }
-
-    .breed-toolbar button {
-      flex: 0 0 auto;
-    }
-
-    /* Each workflow has its own two-column form */
-
-    .workflow-layout {
-      display: grid;
-      grid-template-columns: minmax(0, 0.88fr) minmax(0, 1.12fr);
-      gap: 12px;
-      flex: 1 1 auto;
-      min-width: 0;
-      min-height: 0;
-    }
-
-    .workflow-controls,
-    .workflow-editor {
-      display: flex;
-      flex-direction: column;
-      gap: 9px;
-      min-width: 0;
-      min-height: 0;
-    }
-
-    label {
-      display: flex;
-      flex-direction: column;
-      gap: 5px;
-      min-width: 0;
-      margin: 0;
-      color: var(--text);
-      font-size: 12px;
-      font-weight: 600;
-    }
-
-    input,
-    textarea {
-      display: block;
-      width: 100%;
-      min-width: 0;
-      margin: 0;
-      padding: 9px 10px;
-      border: 1px solid #d9d1c4;
-      border-radius: 7px;
-      background: #fff;
-      color: var(--text);
-      font: inherit;
-      font-weight: 400;
-    }
-
-    input {
-      height: 36px;
-    }
-
-    textarea {
-      min-height: 0;
-      resize: none;
-      overflow: auto;
-      tab-size: 2;
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-      font-size: 12px;
-      line-height: 1.5;
-    }
-
-    textarea::placeholder,
-    input::placeholder {
-      color: #85847e;
-      opacity: 1;
-    }
-
-    /* Shorter prompt, taller source and breed-file areas */
-
-    .prompt-field {
-      flex: 0 0 auto;
-    }
-
-    .prompt-field textarea {
-      height: clamp(65px, 10vh, 90px);
-      background: #faf9f5;
-    }
-
-    .filename-field {
-      flex: 0 0 auto;
-    }
-
-    .source-field {
-      display: flex;
-      flex: 1 1 100px;
-      flex-direction: column;
-      min-height: 90px;
-    }
-
-    .source-field textarea {
-      flex: 1 1 auto;
-      height: 100%;
-      min-height: 65px;
-    }
-
-    .workflow-editor .breed-field {
-      display: flex;
-      flex: 1 1 auto;
-      flex-direction: column;
-      min-height: 0;
-    }
-
-    .breed-field textarea {
-      flex: 1 1 auto;
-      width: 100%;
-      height: 100%;
-      min-height: 0;
-      background: #fff;
-    }
-
-    .field-actions {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      flex-wrap: wrap;
-    }
-
-    .message {
-      margin: 0;
-      overflow-wrap: anywhere;
-      font-size: 12px;
-      line-height: 1.4;
-    }
-
-    /* Validation and progress stay out of the main workflow */
-
-    .support-tools {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-      gap: 10px;
-      margin-top: 9px;
-      min-width: 0;
-    }
-
-    .mini-panel {
-      min-width: 0;
-      padding: 8px 11px;
-      border: 1px solid var(--border);
-      border-radius: 9px;
-      background: var(--card-bg);
-    }
-
-    .mini-panel summary {
-      color: var(--text);
-      font-size: 12px;
-      font-weight: 650;
-      cursor: pointer;
-    }
-
-    .mini-panel[open] {
-      max-height: 30vh;
-      overflow: auto;
-    }
-
-    .mini-panel label {
-      margin-top: 10px;
-    }
-
-    .mini-panel ul {
-      padding-left: 18px;
-    }
-
-    .mini-panel li {
-      margin: 5px 0;
-      overflow-wrap: anywhere;
-    }
-
-    /* Desktop: keep the application within the available viewport */
-
-    @media (min-width: 1050px) and (min-height: 700px) {
-      body {
-        height: 100vh;
-        height: 100dvh;
-        display: grid;
-        grid-template-rows: auto minmax(0, 1fr) auto;
-        gap: 0;
-        overflow: hidden;
-      }
-
-      body > header {
-        min-height: 55px;
-      }
-
-      main {
-        min-height: 0;
-      }
-
-      main > section {
-        height: 100%;
-        overflow: hidden;
-      }
-    }
-
-    /* Small screens: retain usability rather than squeezing the editors */
-
-    @media (max-width: 1049px) {
-      main {
-        grid-template-columns: 1fr;
-      }
-
-      main > section {
-        min-height: 540px;
-      }
-
-      .workflow-layout {
-        min-height: 400px;
-      }
-
-      .support-tools {
-        grid-template-columns: 1fr;
-      }
-    }
-
-    @media (max-width: 600px) {
-      body {
-        padding: 10px;
-      }
-
-      body > header {
-        align-items: flex-start;
-      }
-
-      header h1 {
-        font-size: 22px;
-      }
-
-      header #check {
-        padding: 7px 9px;
-        font-size: 12px;
-      }
-
-      main > section {
-        padding: 11px;
-      }
-
-      .workflow-layout {
-        grid-template-columns: 1fr;
-        min-height: 0;
-      }
-
-      .workflow-editor .breed-field {
-        min-height: 260px;
-      }
-
-      .workflow-controls {
-        min-height: 340px;
-      }
-
-      .source-field {
-        min-height: 100px;
-      }
-
-      .breed-toolbar {
-        align-items: flex-start;
-        flex-direction: column;
-      }
-    }
-  </style>
-</head>
-
-<body>
-  <header>
-    <div>
-      <h1>Breed Data Manager</h1>
-      <p id="counts">Loading progress…</p>
-    </div>
-    <button id="check" type="button">Check validation</button>
-  </header>
-
-  <main>
-    <!-- ChatGPT workflow -->
-    <section aria-labelledby="chatgpt-title">
-      <div class="panel-heading">
-        <h2 id="chatgpt-title">ChatGPT</h2>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Breed data</title>
+    <link rel="stylesheet" href="/app.css" />
+  </head>
+  <body>
+    <header>
+      <div>
+        <h1>Breed data</h1>
+        <p id="counts">Loading progress…</p>
+      </div>
+      <button id="check" type="button">Check validation</button>
+    </header>
+
+    <main>
+      <section>
+        <h2>ChatGPT</h2>
         <p class="help">
-          Copy the prompt for the next waiting breed. This marks it
-          <strong>R</strong>. Paste the response and add the record to mark it
-          <strong>C</strong>.
+          Copy the prompt for the next waiting breed. That marks it <strong>R</strong>.
+          Paste the reply below and add the record. That marks it <strong>C</strong>.
         </p>
+        <p id="chatgpt-breed" class="current">Loading…</p>
+        <button id="chatgpt-copy" type="button">Copy prompt for next breed</button>
+        <label>
+          Prompt
+          <textarea id="chatgpt-prompt" readonly rows="8"></textarea>
+        </label>
+        <label>
+          File name
+          <input id="chatgpt-file" type="text" spellcheck="false" placeholder="gascon_saintongeois" />
+        </label>
+        <button id="chatgpt-create" type="button">Create empty file</button>
+        <label>
+          Breed file
+          <textarea id="chatgpt-content" rows="12" spellcheck="false" placeholder="Paste the TypeScript file from ChatGPT"></textarea>
+        </label>
+        <label>
+          Sources
+          <textarea id="chatgpt-sources" rows="8" spellcheck="false" placeholder="Paste new or updated source entries. Leave empty if there are none."></textarea>
+        </label>
+        <button id="chatgpt-add" type="button">Add record</button>
+        <p id="chatgpt-message" class="message"></p>
+      </section>
 
-        <div class="breed-toolbar">
-          <p id="chatgpt-breed" class="current">Loading…</p>
-          <button id="chatgpt-copy" type="button">
-            Copy next prompt
-          </button>
-        </div>
-      </div>
-
-      <div class="workflow-layout">
-        <div class="workflow-controls">
-          <label class="prompt-field">
-            Prompt
-            <textarea id="chatgpt-prompt" readonly rows="4"></textarea>
-          </label>
-
-          <label class="filename-field">
-            File name
-            <input
-              id="chatgpt-file"
-              type="text"
-              spellcheck="false"
-              placeholder="gascon_saintongeois"
-            />
-          </label>
-
-          <div class="field-actions">
-            <button id="chatgpt-create" type="button">
-              Create empty file
-            </button>
-          </div>
-
-          <label class="source-field">
-            Sources
-            <textarea
-              id="chatgpt-sources"
-              spellcheck="false"
-              placeholder="Paste new or updated source entries, if any."
-            ></textarea>
-          </label>
-
-          <div class="field-actions">
-            <button id="chatgpt-add" type="button">Add record</button>
-          </div>
-
-          <p id="chatgpt-message" class="message" aria-live="polite"></p>
-        </div>
-
-        <div class="workflow-editor">
-          <label class="breed-field">
-            Breed file
-            <textarea
-              id="chatgpt-content"
-              spellcheck="false"
-              placeholder="Paste the TypeScript file from ChatGPT"
-            ></textarea>
-          </label>
-        </div>
-      </div>
-    </section>
-
-    <!-- Gemini workflow -->
-    <section aria-labelledby="gemini-title">
-      <div class="panel-heading">
-        <h2 id="gemini-title">Gemini</h2>
+      <section>
+        <h2>Gemini</h2>
         <p class="help">
-          Copy the prompt for the next breed under review. The existing file
-          is included and the breed is marked <strong>CR</strong>. Paste the
-          corrected file and update to mark it <strong>CG</strong>.
+          Copy the prompt for the next ChatGPT breed. The breed file is included, and the breed is marked
+          <strong>CR</strong>. Paste the corrected file and update. That marks it <strong>CG</strong>.
         </p>
+        <p id="gemini-breed" class="current">Loading…</p>
+        <button id="gemini-copy" type="button">Copy prompt for next breed</button>
+        <label>
+          Prompt
+          <textarea id="gemini-prompt" readonly rows="8"></textarea>
+        </label>
+        <label>
+          Breed file
+          <textarea id="gemini-content" rows="12" spellcheck="false" placeholder="Paste the corrected TypeScript file from Gemini"></textarea>
+        </label>
+        <label>
+          Sources
+          <textarea id="gemini-sources" rows="8" spellcheck="false" placeholder="Paste new or updated source entries. Leave empty if there are none."></textarea>
+        </label>
+        <button id="gemini-update" type="button">Update record</button>
+        <p id="gemini-message" class="message"></p>
+      </section>
+    </main>
 
-        <div class="breed-toolbar">
-          <p id="gemini-breed" class="current">Loading…</p>
-          <button id="gemini-copy" type="button">
-            Copy next prompt
-          </button>
-        </div>
-      </div>
-
-      <div class="workflow-layout">
-        <div class="workflow-controls">
-          <label class="prompt-field">
-            Prompt
-            <textarea id="gemini-prompt" readonly rows="4"></textarea>
-          </label>
-
-          <label class="source-field">
-            Sources
-            <textarea
-              id="gemini-sources"
-              spellcheck="false"
-              placeholder="Paste new or updated source entries, if any."
-            ></textarea>
-          </label>
-
-          <div class="field-actions">
-            <button id="gemini-update" type="button">Update record</button>
-          </div>
-
-          <p id="gemini-message" class="message" aria-live="polite"></p>
-        </div>
-
-        <div class="workflow-editor">
-          <label class="breed-field">
-            Breed file
-            <textarea
-              id="gemini-content"
-              spellcheck="false"
-              placeholder="Paste the corrected TypeScript file from Gemini"
-            ></textarea>
-          </label>
-        </div>
-      </div>
-    </section>
-  </main>
-
-  <div class="support-tools">
-    <details class="mini-panel">
-      <summary>Validation</summary>
-      <p id="check-summary">
-        Not checked yet. Saving a record runs this check. Commit still
-        rebuilds data.json.
-      </p>
+    <section class="panel">
+      <h2>Validation</h2>
+      <p id="check-summary">Not checked yet. Saving a record runs this check. Commit still rebuilds data.json.</p>
       <ul id="issues"></ul>
-    </details>
+    </section>
 
-    <details class="mini-panel">
-      <summary>Progress</summary>
+    <section class="panel">
+      <h2>Progress</h2>
       <label>
         Filter
-        <input
-          id="filter"
-          type="search"
-          placeholder="Breed name or number"
-        />
+        <input id="filter" type="search" placeholder="Breed name or number" />
       </label>
       <ul id="rows"></ul>
-    </details>
-  </div>
+    </section>
 
-  <script src="/app.js"></script>
-</body>
+    <script src="/app.js"></script>
+  </body>
 </html>
