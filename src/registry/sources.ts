@@ -2667,7 +2667,7 @@ export const sources = defineSources({
     publisher: "Club du Braque Français"
   },
 
-  "american-kennel-club-american-english-coonhound": {
+"american-kennel-club-american-english-coonhound": {
     id: "american-kennel-club-american-english-coonhound",
     name: "American Kennel Club — American English Coonhound",
     publisher: "American Kennel Club",
@@ -2675,52 +2675,52 @@ export const sources = defineSources({
     type: "kennel_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Official AKC breed profile; provides height, weight, lifespan, coat and colour information, working history, temperament, grooming, nutrition, and health guidance."
+    accessedOn: "2026-10-24",
+    note: "Official AKC breed profile; provides height (24–26 in male, 23–25 in female), weight (45–65 lbs), lifespan (11–12 years), coat and colour information, working history, temperament, grooming, nutrition, and health guidance."
   },
-  "american-kennel-club-american-english-coonhound-standard": {
+"american-kennel-club-american-english-coonhound-standard": {
     id: "american-kennel-club-american-english-coonhound-standard",
-    name: "Official Standard for the American English Coonhound",
+    name: "Regulations for AKC Coonhound Bench Shows, Field Trials, Nite Hunts and Water Races — History and Official Standard for the American English Coonhound",
     publisher: "American Kennel Club",
     url: "https://images.akc.org/pdf/rulebooks/RE9ACH.pdf",
     type: "official_breed_standard",
     commercialUse: "reference_only",
-    publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "American English Coonhound standard within the AKC Coonhound Rules and Breed Standards publication; used for height, body proportions, coat and colour patterns, head features, temperament and working purpose."
+    publishedOn: "2021-10-01",
+    accessedOn: "2026-10-24",
+    note: "AKC Coonhound Regulations (amended to October 2021) and History & Standards for Coonhound Breeds (Pages 60–63: American English Coonhound history and official standard, approved April 2009, effective 1 January 2010)."
   },
-  "united-kennel-club-english-coonhound-standard": {
+"united-kennel-club-english-coonhound-standard": {
     id: "united-kennel-club-english-coonhound-standard",
-    name: "United Kennel Club — English Coonhound Breed Standard",
+    name: "United Kennel Club — English Coonhound Official Breed Standard",
     publisher: "United Kennel Club",
     url: "https://www.ukcdogs.com/english-coonhound",
     type: "official_breed_standard",
     commercialUse: "reference_only",
     publishedOn: "2016-01-01",
-    accessedOn: "2026-10-20",
-    note: "UKC English Coonhound standard, revised 1 January 2016; documents alternate registry height limits, permitted colours, conformation, temperament and the breed's historical development."
+    accessedOn: "2026-10-24",
+    note: "Official UKC English Coonhound breed standard (revised 1 January 2016); documents 1905 registration as English Fox & Coonhound, 1945/1946 Walker and Bluetick separations, height limits (22–27 in males, 21–25 in females), permitted coat colours (including white and lemon), and disqualifications."
   },
-  "american-kennel-club-american-english-coonhound-history": {
+"american-kennel-club-american-english-coonhound-history": {
     id: "american-kennel-club-american-english-coonhound-history",
-    name: "American Kennel Club — American English Coonhound History",
+    name: "American Kennel Club — American English Coonhound History: Why Most Call Them 'English Dogs'",
     publisher: "American Kennel Club",
     url: "https://www.akc.org/expert-advice/dog-breeds/american-english-coonhound-history/",
     type: "kennel_club",
     commercialUse: "reference_only",
-    publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed-history feature covering English Foxhound ancestry, development in the American colonies and southern United States, naming and colour-pattern distinctions."
+    publishedOn: "2024-02-16",
+    accessedOn: "2026-10-24",
+    note: "AKC breed-history feature by Denise Flaim (updated 16 February 2024) covering British foxhound ancestry, 'English dogs' terminology, 'barking up the wrong tree' origin, bear/cougar baying, 1920s Leafy Oak winner 'Bones', and ticking distinctions from the Bluetick and Treeing Walker Coonhounds."
   },
-  "wikimedia-american-english-coonhound-pets-adviser": {
+"wikimedia-american-english-coonhound-pets-adviser": {
     id: "wikimedia-american-english-coonhound-pets-adviser",
-    name: "Wikimedia Commons — American English Coonhound.jpg",
+    name: "Wikimedia Commons — File:American English Coonhound.jpg",
     publisher: "Wikimedia Commons; original author Pets Adviser",
     url: "https://commons.wikimedia.org/wiki/File:American_English_Coonhound.jpg",
     type: "other",
-    commercialUse: "reference_only",
-    publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Original file page identifies Pets Adviser as author, capture date 9 February 2012, Commons upload date 2 July 2013, dimensions 3888 × 2592, and Creative Commons Attribution 2.0 Generic (CC BY 2.0), which allows commercial reuse with attribution."
+    commercialUse: "commercial_use",
+    publishedOn: "2012-02-09",
+    accessedOn: "2026-10-24",
+    note: "Wikimedia Commons file page for American_English_Coonhound.jpg: photographed 9 February 2012 by Pets Adviser at the Westminster Kennel Club Meet the New Breeds event, uploaded 2 July 2013 by Ltshears via Flickr upload bot, 3888 × 2592 px, licensed under CC BY 2.0 (includes author request to link to petsadviser.com)."
   },
   "akc-english-setter-profile": {
     id: "akc-english-setter-profile",
@@ -6689,6 +6689,259 @@ export const sources = defineSources({
     publishedOn: "2006-04-30",
     accessedOn: "2026-10-23",
     note: "Photograph of a black-and-gold (schwarzmarken) Hovawart by Ladislav Faigl (Faigl.ladislav), uploaded 2006-04-30, 640 × 480 pixels, licensed under CC BY-SA 3.0 Unported (and dual-licensed under GFDL 1.2+)."
+  },
+  "fci-chinese-crested-dog-standard": {
+    id: "fci-chinese-crested-dog-standard",
+    name: "FCI — Chinese Crested Dog Official Breed Standard No. 288",
+    publisher: "Fédération Cynologique Internationale (FCI)",
+    url: "https://www.fci.be/Nomenclature/Standards/288g09-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2021-07-27",
+    accessedOn: "2026-10-24",
+    note:
+      "Official English FCI Standard No. 288. The PDF is dated 15 September 2021 and states 27 July 2021 as the publication date of the official valid standard. Used for origin, classification, utilization, varieties, coat, temperament, dentition, and ideal height.",
+  },
+  "american-kennel-club-chinese-crested-dog": {
+    id: "american-kennel-club-chinese-crested-dog",
+    name: "American Kennel Club — Chinese Crested Dog",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/chinese-crested/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Breed profile consulted for life expectancy, grooming differences, skin care, and recommended breed health tests.",
+  },
+  "american-kennel-club-chinese-crested-history": {
+    id: "american-kennel-club-chinese-crested-history",
+    name: "American Kennel Club — Chinese Crested History",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/expert-advice/dog-breeds/chinese-crested-history/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Historical overview covering uncertainty around early origins, historical names, the work of Ida Garrett and Debra Woods, formation of the American Chinese Crested Club, and AKC recognition.",
+  },
+  "american-chinese-crested-club-health-statement": {
+    id: "american-chinese-crested-club-health-statement",
+    name: "American Chinese Crested Club — Health Statement",
+    publisher: "American Chinese Crested Club",
+    url: "https://images.akc.org/pdf/Chinese_Crested_health_statement_2018.pdf",
+    type: "breed_club",
+    publishedOn: "2018-10-01",
+    accessedOn: "2026-10-24",
+    note:
+      "Breed-club health statement approved on 1 October 2018. Lists recommended eye, cardiac, patella, prcd-PRA, primary lens luxation, and PRA-rcd3 screening.",
+  },
+  "ecvo-chinese-crested-hereditary-eye-diseases": {
+    id: "ecvo-chinese-crested-hereditary-eye-diseases",
+    name: "ECVO Manual — Chinese Crested Dog: Known and Presumed Hereditary Eye Diseases",
+    publisher: "European College of Veterinary Ophthalmologists (ECVO)",
+    url: "https://www.ecvo.eu/media/chinesecresteddog.pdf",
+    type: "veterinary_reference",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "The 2021 ECVO manual entry lists known or presumed inherited ocular disorders and distinguishes conditions with identified inheritance or genetic tests from those whose inheritance is unknown.",
+  },
+  "fci-griffon-bleu-de-gascogne-standard": {
+    id: "fci-griffon-bleu-de-gascogne-standard",
+    name: "FCI — Griffon Bleu de Gascogne Official Breed Standard No. 32",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/032g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2023-08-29",
+    accessedOn: "2026-10-24",
+    note:
+      "Official English FCI Standard No. 32. The PDF is dated 29 August 2023 and identifies 1 August 2023 as the publication date of the official valid standard. Used for classification, origin, historical summary, hunting purpose, temperament, coat, colour, and height.",
+  },
+  "vdh-griffon-bleu-de-gascogne": {
+    id: "vdh-griffon-bleu-de-gascogne",
+    name: "VDH — Griffon Bleu de Gascogne Breed Profile",
+    publisher: "Verband für das Deutsche Hundewesen",
+    url: "https://welpen.vdh.de/hunderassen/rasselexikon/ergebnis/griffon-bleu-de-gascogne",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "German kennel-club breed profile consulted to cross-check FCI classification, height, appearance, coat pattern, temperament, and historical origin.",
+  },
+  "united-kennel-club-griffon-bleu-de-gascogne-standard": {
+    id: "united-kennel-club-griffon-bleu-de-gascogne-standard",
+    name: "United Kennel Club — Griffon Bleu de Gascogne Breed Standard",
+    publisher: "United Kennel Club",
+    url: "https://www.ukcdogs.com/breed-standards/griffon-bleu-de-gascogne",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Breed standard consulted for a secondary comparison of coat, colour, head and body features, temperament, and height. Registry-specific wording and measurements should not be treated as interchangeable with every other standard.",
+  },
+  "wikimedia-griffon-bleu-de-gascogne-canarian-large": {
+    id: "wikimedia-griffon-bleu-de-gascogne-canarian-large",
+    name: "Wikimedia Commons — Griffon Bleu de Gascogne.JPG",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Griffon_Bleu_de_Gascogne.JPG",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Original file page identifies Canarian as the photographer and uploader, with a capture date of 21 September 2013, upload date of 23 September 2013, dimensions 2299 × 1678 pixels, and CC BY-SA 3.0 licensing.",
+  },
+  "wikimedia-griffon-bleu-de-gascogne-canarian-second": {
+    id: "wikimedia-griffon-bleu-de-gascogne-canarian-second",
+    name: "Wikimedia Commons — Blue Gascony Griffon or Griffon Bleu de Gascogne.JPG",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Blue_Gascony_Griffon_or_Griffon_Bleu_de_Gascogne.JPG",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Original file page describes a female Griffon Bleu de Gascogne at a show in France. It identifies Canarian as the photographer and uploader, gives the capture date as 21 September 2013 and upload date as 23 September 2013, records dimensions of 531 × 500 pixels, and states CC BY-SA 3.0 licensing.",
+  },
+  "wikimedia-griffon-bleu-de-gascogne-alephalpha": {
+    id: "wikimedia-griffon-bleu-de-gascogne-alephalpha",
+    name: "Wikimedia Commons — 04031124 Griffon Bleu de Gascogne.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:04031124_Griffon_Bleu_de_Gascogne.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Original file page identifies Alephalpha as author, gives the capture date as 27 March 2004 and upload date as 23 October 2008, and records dimensions of 1200 × 800 pixels. The page offers CC BY-SA 3.0 and GNU Free Documentation License terms; this catalog uses the CC BY-SA 3.0 option.",
+  },
+  "akc-american-english-coonhound-official-standard-pdf": {
+    id: "akc-american-english-coonhound-official-standard-pdf",
+    name: "American Kennel Club — Official Standard for the American English Coonhound (PDF)",
+    publisher: "American Kennel Club",
+    url: "https://images.akc.org/pdf/breeds/standards/AmericanEnglishCoonhound.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2010-01-01",
+    accessedOn: "2026-10-24",
+    note: "Standalone AKC Official Standard for the American English Coonhound (approved April 2009, effective 1 January 2010)."
+  },
+  "petmd-american-english-coonhound": {
+    id: "petmd-american-english-coonhound",
+    name: "PetMD — American English Coonhound Dog Breed Health and Care",
+    publisher: "PetMD",
+    url: "https://www.petmd.com/dog/breeds/american-english-coonhound",
+    type: "veterinary",
+    commercialUse: "reference_only",
+    publishedOn: "2024-12-24",
+    accessedOn: "2026-10-24",
+    note: "Veterinary breed health and care guide written by Erica Vasquez and reviewed by Jo Cornett, DVM (updated 24 December 2024); covers hip dysplasia, ear infections, hypothyroidism, progressive retinal atrophy, bloat/GDV, feeding frequency (2 meals/day adult, 3–4 meals/day puppy), and grooming."
+  },
+  "vcahospitals-american-english-coonhound": {
+    id: "vcahospitals-american-english-coonhound",
+    name: "VCA Animal Hospitals — American English Coonhound",
+    publisher: "VCA Animal Hospitals / LifeLearn",
+    url: "https://vcahospitals.com/know-your-pet/american-english-coonhound",
+    type: "veterinary",
+    commercialUse: "reference_only",
+    publishedOn: "2014-05-26",
+    accessedOn: "2026-10-24",
+    note: "Veterinary breed profile covering history, temperament, exercise, grooming, health concerns (hip dysplasia, patellar luxation, bloat, and summer overheating), and famous rescue coonhound Maddie."
+  },
+  "wikimedia-stacked-english-coonhound-dchounds": {
+    id: "wikimedia-stacked-english-coonhound-dchounds",
+    name: "Wikimedia Commons — File:Stacked English Coonhound.jpg",
+    publisher: "Wikimedia Commons; original author Dchounds",
+    url: "https://commons.wikimedia.org/wiki/File:Stacked_English_Coonhound.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2021-02-13",
+    accessedOn: "2026-10-24",
+    note: "Wikimedia Commons file page for Stacked_English_Coonhound.jpg: own work by Dchounds, captured 13 February 2021, uploaded 24 April 2021, 2048 × 1661 px, licensed under CC BY-SA 4.0."
+  },
+  "wikimedia-maddie-coonhound-burnaway": {
+    id: "wikimedia-maddie-coonhound-burnaway",
+    name: "Wikimedia Commons — File:Maddie (8416820450).jpg",
+    publisher: "Wikimedia Commons; original author BurnAway",
+    url: "https://commons.wikimedia.org/wiki/File:Maddie_(8416820450).jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2013-01-25",
+    accessedOn: "2026-10-24",
+    note: "Wikimedia Commons file page for Maddie_(8416820450).jpg: photographed 25 January 2013 by BurnAway, uploaded 21 March 2015 by Томасина and verified by FlickreviewR, 2048 × 1365 px, licensed under CC BY 2.0."
+  },
+  "fci-braque-saint-germain-standard": {
+    id: "fci-braque-saint-germain-standard",
+    name: "FCI — Braque Saint-Germain Official Breed Standard No. 115",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://fci.be/Nomenclature/Standards/115g07-fr.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2023-09-19",
+    accessedOn: "2026-10-24",
+    note:
+      "Official French FCI Standard No. 115. The PDF is dated 19 September 2023 and the FCI nomenclature lists 1 August 2023 as the publication date of the official valid standard. Used for origin, classification, historical summary, working purpose, temperament, coat, colour, and height.",
+  },
+  "fci-braque-saint-germain-nomenclature": {
+    id: "fci-braque-saint-germain-nomenclature",
+    name: "FCI — Braque Saint-Germain Breed Nomenclature",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/EN/nomenclature/BRAQUE-SAINT-GERMAIN-115.html",
+    type: "breed_registry",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Official breed registry entry confirming France as the country of origin, Group 7 classification, definitive recognition on 16 December 1954, and the current valid standard publication date.",
+  },
+  "vdh-braque-saint-germain": {
+    id: "vdh-braque-saint-germain",
+    name: "VDH — Braque Saint-Germain Breed Profile",
+    publisher: "Verband für das Deutsche Hundewesen",
+    url: "https://welpen.vdh.de/hunderassen/rasselexikon/ergebnis/braque-saint-germain",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Kennel-club breed profile used to cross-check height, appearance, coat colour, temperament, hunting use, and historical development.",
+  },
+  "ukc-braque-saint-germain-standard": {
+    id: "ukc-braque-saint-germain-standard",
+    name: "United Kennel Club — Braque Saint-Germain Breed Standard",
+    publisher: "United Kennel Club",
+    url: "https://www.ukcdogs.com/breed-groups/braque-saint-germain",
+    type: "kennel_club",
+    publishedOn: "2009-07-01",
+    accessedOn: "2026-10-24",
+    note:
+      "UKC breed standard revised 1 July 2009. Used as a secondary comparison for historical background, working role, coat, and temperament. Registry-specific descriptions are not treated as interchangeable with the FCI standard.",
+  },
+  "zoetis-braque-saint-germain": {
+    id: "zoetis-braque-saint-germain",
+    name: "Zoetis Petcare — Braque Saint-Germain Breed Profile",
+    publisher: "Zoetis Petcare",
+    url: "https://www.zoetispetcare.com/breed-explorer/breed/braque-saint-germain",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Veterinary-company breed profile reporting an estimated life-span range of 10–14 years and summarising broad health-topic categories. The categories are not treated as proof of breed-specific disease prevalence.",
+  },
+  "royal-canin-braque-saint-germain": {
+    id: "royal-canin-braque-saint-germain",
+    name: "Royal Canin — Braque Saint-Germain Breed Profile",
+    publisher: "Royal Canin",
+    url: "https://www.royalcanin.com/uk/dogs/breeds/braque-saint-germain",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Breed profile covering historical development, hunting role, temperament, and an estimated life expectancy of 12–13 years. Lifespan figures are presented as estimates rather than guaranteed outcomes.",
+  },
+  "wikimedia-braque-saint-germain-433": {
+    id: "wikimedia-braque-saint-germain-433",
+    name: "Wikimedia Commons — Braque saint-germain 433.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Braque_saint-germain_433.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Original file page identifies Pleple2000 as the author, records the capture date as 11 November 2006 and the upload date as 22 November 2006, and gives original dimensions of 2226 × 1998 pixels. CC BY-SA 3.0 is one of the offered licenses; the breed record uses that license option.",
   },
 });
 

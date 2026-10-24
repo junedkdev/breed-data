@@ -28,9 +28,10 @@
 25:old_danish_pointer - CG
 26:maremma_sheepdog - CG
 27:hovawart - CG
+28:american_english_coonhound - CG
 
-28:american_english_coonhound - C
-29:english_setter - C
+29:english_setter - CR
+
 30:pyrenean_mastiff - C
 31:tibetan_terrier - C
 32:blackmouth_cur - C
@@ -69,11 +70,12 @@
 65:aidi - C
 66:puli - C
 67:portuguese_water_dog - C
+68:chinese_crested_dog - C
+69:griffon_bleu_de_gascogne - C
+70:braque_saint-germain - C
 
-68:chinese_crested_dog
-69:griffon_bleu_de_gascogne
-70:braque_saint-germain
-71:schipperke
+71:schipperke - R
+
 72:braque_d'auvergne
 73:english_toy_terrier_(black_&_tan)
 74:clumber_spaniel

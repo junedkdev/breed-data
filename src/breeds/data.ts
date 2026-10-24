@@ -72,6 +72,9 @@ import { finnish_hound } from "./finnish_hound";
 import { aidi } from "./aidi";
 import { puli } from "./puli";
 import { portuguese_water_dog } from "./portuguese_water_dog";
+import { chinese_crested_dog } from "./chinese_crested_dog";
+import { griffon_bleu_de_gascogne } from "./griffon_bleu_de_gascogne";
+import { braque_saint_germain } from "./braque_saint_germain";
 
 
 export const breedData: readonly Breed[] = [
@@ -143,4 +146,7 @@ export const breedData: readonly Breed[] = [
   aidi,
   puli,
   portuguese_water_dog,
+  chinese_crested_dog,
+  griffon_bleu_de_gascogne,
+  braque_saint_germain,
 ];
