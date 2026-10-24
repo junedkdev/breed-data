@@ -7009,6 +7009,216 @@ export const sources = defineSources({
     accessedOn: "2026-10-23",
     note: "OFA and Animal Health Trust overview of late-onset rod-cone dysplasia 4 (rcd4-PRA, C2orf71 mutation), an autosomal recessive retinal degeneration averaging ~10 years at diagnosis in English Setters and other breeds."
   },
+  "fci-schipperke-standard": {
+  id: "fci-schipperke-standard",
+  name: "FCI Standard No. 83 - Schipperke",
+  publisher: "Fédération Cynologique Internationale",
+  url: "https://www.fci.be/Nomenclature/Standards/083g01-en.pdf",
+  type: "official_breed_standard",
+  publishedOn: "2010-01-20",
+  accessedOn: "2026-10-24",
+  note: "FCI Standard No. 83. The PDF is dated 20 January 2010 and identifies 28 July 2009 as the publication date of the official valid standard."
+},
+  "fci-schipperke-nomenclature": {
+  id: "fci-schipperke-nomenclature",
+  name: "FCI Breed Nomenclature - Schipperke No. 83",
+  publisher: "Fédération Cynologique Internationale",
+  url: "https://www.fci.be/en/nomenclature/SCHIPPERKE-83.html",
+  type: "breed_registry",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "FCI breed classification, origin, recognition and standard publication details."
+},
+  "american-kennel-club-schipperke": {
+  id: "american-kennel-club-schipperke",
+  name: "Schipperke - Dog Breed Information",
+  publisher: "American Kennel Club",
+  url: "https://www.akc.org/dog-breeds/schipperke/",
+  type: "kennel_club",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "Breed profile, size, life expectancy, grooming and recommended health tests."
+},
+  "american-kennel-club-schipperke-health-statement": {
+  id: "american-kennel-club-schipperke-health-statement",
+  name: "Health Testing Schipperkes",
+  publisher: "American Kennel Club / Schipperke Club of America health statement",
+  url: "https://cdn.akc.org/Marketplace/Health-Statement/Schipperke.pdf",
+  type: "breed_club",
+  publishedOn: "2014-11-01",
+  accessedOn: "2026-10-24",
+  note: "Breed-club health statement; the document says it was revised in November 2014. Its testing recommendations should be read alongside current breed-club guidance."
+},
+  "schipperke-club-of-america-health-foundation": {
+  id: "schipperke-club-of-america-health-foundation",
+  name: "Schipperke Health, Research and Preservation",
+  publisher: "Schipperke Club of America Rescue & Health Foundation",
+  url: "https://schipperkefoundation.org/health",
+  type: "breed_club",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "Breed health research and screening guidance, including CHIC-related eye, patella, thyroid and hip testing and MPS IIIB testing."
+},
+  "schipperke-club-uk-health": {
+  id: "schipperke-club-uk-health",
+  name: "General Health Information - The Schipperke Club",
+  publisher: "The Schipperke Club",
+  url: "https://www.schipperkeclub.co.uk/schipperke-health/general-health-information/",
+  type: "breed_club",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "Breed health information discussing MPS IIIB, epilepsy, Legg-Calve-Perthes disease, von Willebrand disease type 1 and the bobtail mutation."
+},
+  "vdh-schipperke": {
+  id: "vdh-schipperke",
+  name: "Schipperke - Breed Profile",
+  publisher: "Verband für das Deutsche Hundewesen (VDH)",
+  url: "https://welpen.vdh.de/hunderassen/rasselexikon/ergebnis/schipperke",
+  type: "kennel_club",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "German kennel-club breed profile covering FCI classification, weight, activity, temperament and coat care."
+},
+  "wikimedia-schipperke-jurriaan-schulman": {
+  id: "wikimedia-schipperke-jurriaan-schulman",
+  name: "Schipperke.jpg",
+  publisher: "Wikimedia Commons",
+  url: "https://commons.wikimedia.org/wiki/File:Schipperke.jpg",
+  type: "other",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "Photograph credited to Jurriaan Schulman; the file page lists CC BY-SA 3.0 and GFDL licensing."
+},
+  "wikimedia-schipperke-pair-pleple2000": {
+  id: "wikimedia-schipperke-pair-pleple2000",
+  name: "Schipperke dogs-pair.jpg",
+  publisher: "Wikimedia Commons",
+  url: "https://commons.wikimedia.org/wiki/File:Schipperke_dogs-pair.jpg",
+  type: "other",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "Photograph credited to Pleple2000; the file page lists CC BY-SA 3.0 and GFDL licensing."
+},
+  "wikimedia-schipperke-puppies-cinvic": {
+  id: "wikimedia-schipperke-puppies-cinvic",
+  name: "Schipperke puppies.jpg",
+  publisher: "Wikimedia Commons",
+  url: "https://commons.wikimedia.org/wiki/File:Schipperke_puppies.jpg",
+  type: "other",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "Photograph credited to Cinvic; the file page lists CC BY-SA 4.0 licensing."
+},
+  "fci-braque-d-auvergne-standard": {
+  id: "fci-braque-d-auvergne-standard",
+  name: "FCI Standard No. 180 - Braque d'Auvergne",
+  publisher: "Fédération Cynologique Internationale",
+  url: "https://www.fci.be/Nomenclature/Standards/180g07-en.pdf",
+  type: "official_breed_standard",
+  publishedOn: "2004-03-24",
+  accessedOn: "2026-10-24",
+  note: "Official valid standard publication date is 24 March 2004; the document is dated 2 April 2004."
+},
+  "fci-braque-d-auvergne-nomenclature": {
+  id: "fci-braque-d-auvergne-nomenclature",
+  name: "FCI Breed Nomenclature - Braque d'Auvergne No. 180",
+  publisher: "Fédération Cynologique Internationale",
+  url: "https://fci.be/en/nomenclature/AUVERGNE-POINTER-180.html",
+  type: "breed_registry",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "FCI classification, country of origin, recognition and standard publication details."
+},
+  "vdh-braque-d-auvergne": {
+  id: "vdh-braque-d-auvergne",
+  name: "Braque d'Auvergne - Breed Profile",
+  publisher: "Verband für das Deutsche Hundewesen",
+  url: "https://welpen.vdh.de/hunderassen/rasselexikon/ergebnis/braque-dauvergne",
+  type: "kennel_club",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "Breed profile with height, temperament, coat and historical information."
+},
+  "ukc-braque-d-auvergne-standard": {
+  id: "ukc-braque-d-auvergne-standard",
+  name: "Braque d'Auvergne - Official Breed Standard",
+  publisher: "United Kennel Club",
+  url: "https://www.ukcdogs.com/breed-standards/braque-d-auvergne",
+  type: "official_breed_standard",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "Breed standard and history, including working purpose, appearance and temperament."
+},
+  "royal-kennel-club-braque-d-auvergne-standard": {
+  id: "royal-kennel-club-braque-d-auvergne-standard",
+  name: "Braque d'Auvergne - Breed Standard",
+  publisher: "The Royal Kennel Club",
+  url: "https://www.royalkennelclub.com/breed-standards/gundog/braque-d-auvergne-imp/",
+  type: "kennel_club",
+  publishedOn: "2025-04-01",
+  accessedOn: "2026-10-24",
+  note: "Breed standard page marked as last updated 1 April 2025."
+},
+  "purina-braque-d-auvergne": {
+  id: "purina-braque-d-auvergne",
+  name: "Braque d'Auvergne - Breed Information",
+  publisher: "Purina UK",
+  url: "https://www.purina.co.uk/find-a-pet/dog-breeds/braque-dauvergne",
+  type: "other",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "Breed profile including reported lifespan, weight, activity, grooming, training and general health."
+},
+  "ecvo-braque-d-auvergne-eye-disorders": {
+  id: "ecvo-braque-d-auvergne-eye-disorders",
+  name: "ECVO Manual of Known and Presumed Hereditary Eye Diseases - Braque d'Auvergne",
+  publisher: "European College of Veterinary Ophthalmologists",
+  url: "https://www.ecvo.org/media/braqued-auvergne.pdf",
+  type: "veterinary_reference",
+  publishedOn: "2021-01-01",
+  accessedOn: "2026-10-24",
+  note: "2021 breed reference listing reported or presumed hereditary ocular disorders. The list does not establish prevalence."
+},
+  "braque-d-auvergne-association-uk": {
+  id: "braque-d-auvergne-association-uk",
+  name: "The Braque d'Auvergne Association - Breed Information",
+  publisher: "The Braque d'Auvergne Association",
+  url: "https://www.braquedauvergneassociation.co.uk/the-bd-a",
+  type: "breed_club",
+  publishedOn: null,
+  accessedOn: "2026-10-24",
+  note: "Breed-club information on working temperament, training, coat patterns and hip/eye health considerations."
+},
+  "wikimedia-braque-d-auvergne-desaix83": {
+  id: "wikimedia-braque-d-auvergne-desaix83",
+  name: "Braque D'Auvergne.jpg",
+  publisher: "Wikimedia Commons",
+  url: "https://commons.wikimedia.org/wiki/File:Braque_D%27Auvergne.jpg",
+  type: "other",
+  publishedOn: "2015-03-14",
+  accessedOn: "2026-10-24",
+  note: "Photograph by Desaix83, derived from Rzeszów Braque d'Auvergne 1pl.jpg; CC BY-SA 3.0."
+},
+  "wikimedia-auvergne-pointer-canarian": {
+  id: "wikimedia-auvergne-pointer-canarian",
+  name: "Auvergne Pointer Braque d'Auvergne 2.jpg",
+  publisher: "Wikimedia Commons",
+  url: "https://commons.wikimedia.org/wiki/File:Auvergne_Pointer_Braque_d%27Auvergne_2.jpg",
+  type: "other",
+  publishedOn: "2017-12-09",
+  accessedOn: "2026-10-24",
+  note: "Photograph by Canarian; CC BY-SA 4.0."
+},
+  "wikimedia-auvergne-pointer-pleple2000": {
+  id: "wikimedia-auvergne-pointer-pleple2000",
+  name: "Rzeszów Braque d'Auvergne 3pl.jpg",
+  publisher: "Wikimedia Commons",
+  url: "https://commons.wikimedia.org/wiki/File:Rzesz%C3%B3w_Braque_d%27Auvergne_3pl.jpg",
+  type: "other",
+  publishedOn: "2011-02-19",
+  accessedOn: "2026-10-24",
+  note: "Photograph by Pleple2000, taken at an international dog show; CC BY-SA 3.0."
+},
 });
 
 export type SourceId = keyof typeof sources;

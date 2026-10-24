@@ -72,11 +72,11 @@
 68:chinese_crested_dog - C
 69:griffon_bleu_de_gascogne - C
 70:braque_saint-germain - C
+71:schipperke - C
+72:braque_d'auvergne - C
 
-71:schipperke - R
+73:english_toy_terrier_(black_&_tan) - R
 
-72:braque_d'auvergne
-73:english_toy_terrier_(black_&_tan)
 74:clumber_spaniel
 75:broholmer
 76:manchester_terrier

@@ -6838,6 +6838,216 @@
       "publishedOn": null,
       "accessedOn": "2026-10-23",
       "note": "OFA and Animal Health Trust overview of late-onset rod-cone dysplasia 4 (rcd4-PRA, C2orf71 mutation), an autosomal recessive retinal degeneration averaging ~10 years at diagnosis in English Setters and other breeds."
+    },
+    "fci-schipperke-standard": {
+      "id": "fci-schipperke-standard",
+      "name": "FCI Standard No. 83 - Schipperke",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/Nomenclature/Standards/083g01-en.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2010-01-20",
+      "accessedOn": "2026-10-24",
+      "note": "FCI Standard No. 83. The PDF is dated 20 January 2010 and identifies 28 July 2009 as the publication date of the official valid standard."
+    },
+    "fci-schipperke-nomenclature": {
+      "id": "fci-schipperke-nomenclature",
+      "name": "FCI Breed Nomenclature - Schipperke No. 83",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/en/nomenclature/SCHIPPERKE-83.html",
+      "type": "breed_registry",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "FCI breed classification, origin, recognition and standard publication details."
+    },
+    "american-kennel-club-schipperke": {
+      "id": "american-kennel-club-schipperke",
+      "name": "Schipperke - Dog Breed Information",
+      "publisher": "American Kennel Club",
+      "url": "https://www.akc.org/dog-breeds/schipperke/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "Breed profile, size, life expectancy, grooming and recommended health tests."
+    },
+    "american-kennel-club-schipperke-health-statement": {
+      "id": "american-kennel-club-schipperke-health-statement",
+      "name": "Health Testing Schipperkes",
+      "publisher": "American Kennel Club / Schipperke Club of America health statement",
+      "url": "https://cdn.akc.org/Marketplace/Health-Statement/Schipperke.pdf",
+      "type": "breed_club",
+      "publishedOn": "2014-11-01",
+      "accessedOn": "2026-10-24",
+      "note": "Breed-club health statement; the document says it was revised in November 2014. Its testing recommendations should be read alongside current breed-club guidance."
+    },
+    "schipperke-club-of-america-health-foundation": {
+      "id": "schipperke-club-of-america-health-foundation",
+      "name": "Schipperke Health, Research and Preservation",
+      "publisher": "Schipperke Club of America Rescue & Health Foundation",
+      "url": "https://schipperkefoundation.org/health",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "Breed health research and screening guidance, including CHIC-related eye, patella, thyroid and hip testing and MPS IIIB testing."
+    },
+    "schipperke-club-uk-health": {
+      "id": "schipperke-club-uk-health",
+      "name": "General Health Information - The Schipperke Club",
+      "publisher": "The Schipperke Club",
+      "url": "https://www.schipperkeclub.co.uk/schipperke-health/general-health-information/",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "Breed health information discussing MPS IIIB, epilepsy, Legg-Calve-Perthes disease, von Willebrand disease type 1 and the bobtail mutation."
+    },
+    "vdh-schipperke": {
+      "id": "vdh-schipperke",
+      "name": "Schipperke - Breed Profile",
+      "publisher": "Verband für das Deutsche Hundewesen (VDH)",
+      "url": "https://welpen.vdh.de/hunderassen/rasselexikon/ergebnis/schipperke",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "German kennel-club breed profile covering FCI classification, weight, activity, temperament and coat care."
+    },
+    "wikimedia-schipperke-jurriaan-schulman": {
+      "id": "wikimedia-schipperke-jurriaan-schulman",
+      "name": "Schipperke.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Schipperke.jpg",
+      "type": "other",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "Photograph credited to Jurriaan Schulman; the file page lists CC BY-SA 3.0 and GFDL licensing."
+    },
+    "wikimedia-schipperke-pair-pleple2000": {
+      "id": "wikimedia-schipperke-pair-pleple2000",
+      "name": "Schipperke dogs-pair.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Schipperke_dogs-pair.jpg",
+      "type": "other",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "Photograph credited to Pleple2000; the file page lists CC BY-SA 3.0 and GFDL licensing."
+    },
+    "wikimedia-schipperke-puppies-cinvic": {
+      "id": "wikimedia-schipperke-puppies-cinvic",
+      "name": "Schipperke puppies.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Schipperke_puppies.jpg",
+      "type": "other",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "Photograph credited to Cinvic; the file page lists CC BY-SA 4.0 licensing."
+    },
+    "fci-braque-d-auvergne-standard": {
+      "id": "fci-braque-d-auvergne-standard",
+      "name": "FCI Standard No. 180 - Braque d'Auvergne",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/Nomenclature/Standards/180g07-en.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2004-03-24",
+      "accessedOn": "2026-10-24",
+      "note": "Official valid standard publication date is 24 March 2004; the document is dated 2 April 2004."
+    },
+    "fci-braque-d-auvergne-nomenclature": {
+      "id": "fci-braque-d-auvergne-nomenclature",
+      "name": "FCI Breed Nomenclature - Braque d'Auvergne No. 180",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://fci.be/en/nomenclature/AUVERGNE-POINTER-180.html",
+      "type": "breed_registry",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "FCI classification, country of origin, recognition and standard publication details."
+    },
+    "vdh-braque-d-auvergne": {
+      "id": "vdh-braque-d-auvergne",
+      "name": "Braque d'Auvergne - Breed Profile",
+      "publisher": "Verband für das Deutsche Hundewesen",
+      "url": "https://welpen.vdh.de/hunderassen/rasselexikon/ergebnis/braque-dauvergne",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "Breed profile with height, temperament, coat and historical information."
+    },
+    "ukc-braque-d-auvergne-standard": {
+      "id": "ukc-braque-d-auvergne-standard",
+      "name": "Braque d'Auvergne - Official Breed Standard",
+      "publisher": "United Kennel Club",
+      "url": "https://www.ukcdogs.com/breed-standards/braque-d-auvergne",
+      "type": "official_breed_standard",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "Breed standard and history, including working purpose, appearance and temperament."
+    },
+    "royal-kennel-club-braque-d-auvergne-standard": {
+      "id": "royal-kennel-club-braque-d-auvergne-standard",
+      "name": "Braque d'Auvergne - Breed Standard",
+      "publisher": "The Royal Kennel Club",
+      "url": "https://www.royalkennelclub.com/breed-standards/gundog/braque-d-auvergne-imp/",
+      "type": "kennel_club",
+      "publishedOn": "2025-04-01",
+      "accessedOn": "2026-10-24",
+      "note": "Breed standard page marked as last updated 1 April 2025."
+    },
+    "purina-braque-d-auvergne": {
+      "id": "purina-braque-d-auvergne",
+      "name": "Braque d'Auvergne - Breed Information",
+      "publisher": "Purina UK",
+      "url": "https://www.purina.co.uk/find-a-pet/dog-breeds/braque-dauvergne",
+      "type": "other",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "Breed profile including reported lifespan, weight, activity, grooming, training and general health."
+    },
+    "ecvo-braque-d-auvergne-eye-disorders": {
+      "id": "ecvo-braque-d-auvergne-eye-disorders",
+      "name": "ECVO Manual of Known and Presumed Hereditary Eye Diseases - Braque d'Auvergne",
+      "publisher": "European College of Veterinary Ophthalmologists",
+      "url": "https://www.ecvo.org/media/braqued-auvergne.pdf",
+      "type": "veterinary_reference",
+      "publishedOn": "2021-01-01",
+      "accessedOn": "2026-10-24",
+      "note": "2021 breed reference listing reported or presumed hereditary ocular disorders. The list does not establish prevalence."
+    },
+    "braque-d-auvergne-association-uk": {
+      "id": "braque-d-auvergne-association-uk",
+      "name": "The Braque d'Auvergne Association - Breed Information",
+      "publisher": "The Braque d'Auvergne Association",
+      "url": "https://www.braquedauvergneassociation.co.uk/the-bd-a",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-24",
+      "note": "Breed-club information on working temperament, training, coat patterns and hip/eye health considerations."
+    },
+    "wikimedia-braque-d-auvergne-desaix83": {
+      "id": "wikimedia-braque-d-auvergne-desaix83",
+      "name": "Braque D'Auvergne.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Braque_D%27Auvergne.jpg",
+      "type": "other",
+      "publishedOn": "2015-03-14",
+      "accessedOn": "2026-10-24",
+      "note": "Photograph by Desaix83, derived from Rzeszów Braque d'Auvergne 1pl.jpg; CC BY-SA 3.0."
+    },
+    "wikimedia-auvergne-pointer-canarian": {
+      "id": "wikimedia-auvergne-pointer-canarian",
+      "name": "Auvergne Pointer Braque d'Auvergne 2.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Auvergne_Pointer_Braque_d%27Auvergne_2.jpg",
+      "type": "other",
+      "publishedOn": "2017-12-09",
+      "accessedOn": "2026-10-24",
+      "note": "Photograph by Canarian; CC BY-SA 4.0."
+    },
+    "wikimedia-auvergne-pointer-pleple2000": {
+      "id": "wikimedia-auvergne-pointer-pleple2000",
+      "name": "Rzeszów Braque d'Auvergne 3pl.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Rzesz%C3%B3w_Braque_d%27Auvergne_3pl.jpg",
+      "type": "other",
+      "publishedOn": "2011-02-19",
+      "accessedOn": "2026-10-24",
+      "note": "Photograph by Pleple2000, taken at an international dog show; CC BY-SA 3.0."
     }
   },
   "licenses": {
@@ -17005,6 +17215,796 @@
         }
       },
       "updatedOn": "2026-10-23"
+    },
+    {
+      "slug": "braque-d-auvergne",
+      "name": "Braque d'Auvergne",
+      "scientificName": "Canis lupus familiaris",
+      "alternateNames": [
+        "Auvergne Pointer",
+        "Auvergne Shorthair Pointer",
+        "Braco de Auvernia"
+      ],
+      "group": "Pointing Dogs; Continental Pointing Dogs of Braque Type (FCI Group 7, Section 1.1)",
+      "origin": {
+        "country": "France",
+        "region": "Cantal, Auvergne"
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Braque_D%27Auvergne.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Braque_D%27Auvergne.jpg",
+          "title": "Braque D'Auvergne.jpg",
+          "description": "A Braque d'Auvergne pointing dog.",
+          "creator": "Desaix83, based on work by Pleple2000",
+          "uploader": "Desaix83",
+          "capturedOn": null,
+          "uploadedOn": "2015-03-14",
+          "width": 694,
+          "height": 495,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Desaix83, based on work by Pleple2000, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-24"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Auvergne_Pointer_Braque_d%27Auvergne_2.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Auvergne_Pointer_Braque_d%27Auvergne_2.jpg",
+          "title": "Auvergne Pointer Braque d'Auvergne 2.jpg",
+          "description": "An Auvergne Pointer photographed outdoors.",
+          "creator": "Canarian",
+          "uploader": "Canarian",
+          "capturedOn": "2017-12-09",
+          "uploadedOn": "2018-01-27",
+          "width": 2274,
+          "height": 1612,
+          "licenseId": "cc-by-sa-4.0",
+          "attribution": "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-24"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rzesz%C3%B3w_Braque_d%27Auvergne_3pl.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rzesz%C3%B3w_Braque_d%27Auvergne_3pl.jpg",
+          "title": "Rzeszów Braque d'Auvergne 3pl.jpg",
+          "description": "A Braque d'Auvergne shown at an international dog show in Rzeszów, Poland.",
+          "creator": "Pleple2000",
+          "uploader": "Pleple2000",
+          "capturedOn": "2011-02-19",
+          "uploadedOn": null,
+          "width": 2020,
+          "height": 2176,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Pleple2000, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-24"
+        }
+      ],
+      "overview": {
+        "summary": "The Braque d'Auvergne is a medium-to-large French pointing dog, known for its black-and-white ticked coat, powerful scenting ability, endurance and gentle nature with familiar people.",
+        "description": "Strongly built but not heavy, the Braque d'Auvergne has a balanced outline, a long head, soft pendant ears and a short, glossy coat. Its distinctive black-and-white markings may appear as dense ticking or a greying pattern, often giving the coat a blue-toned impression. Bred to search for game and point it for the hunter, this dog is designed for sustained movement over difficult ground. It is typically described as affectionate, intelligent and responsive, but its working instincts mean that an active household must provide regular exercise, scent-based enrichment and consistent training.",
+        "history": "The breed is associated with the Cantal area of the Auvergne region in central France, where it has been known for more than two centuries. Its precise ancestry is uncertain. The FCI historical account describes it as descending from a shared pointer ancestry and mentions a possible historical contribution from the Knights of Malta, but presents that connection as a possibility rather than a proven fact. Developed as a hunting dog, the breed retains a strong pointing instinct and the stamina needed for long days in the field.",
+        "originalPurpose": "A pointing gun dog developed to search for game, locate it by scent and indicate its position to the hunter.",
+        "currentRoles": [
+          "Hunting and pointing dog",
+          "Active family companion",
+          "Scent-work and tracking activities",
+          "Retrieving and suitable gundog sports",
+          "Outdoor exercise and training partner"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Medium to large",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 57,
+            "max": 63
+          },
+          "female": {
+            "min": 53,
+            "max": 59
+          }
+        },
+        "weight": {
+          "unit": null,
+          "male": null,
+          "female": null
+        },
+        "lifespanYears": {
+          "min": 12,
+          "max": 15
+        },
+        "coatType": "Short, glossy coat; not excessively fine or harsh.",
+        "coatLength": "Short and close-lying.",
+        "coatColors": [
+          "Black and white, with flecked or ticked markings",
+          "Black and white with a greying or roan appearance"
+        ],
+        "sheddingLevel": "Sheds; regular brushing helps remove loose hair. A precise breed-specific shedding rate has not been established.",
+        "droolingLevel": "Some drooling may occur.",
+        "distinctiveFeatures": [
+          "Robust, well-boned frame without a heavy or clumsy appearance",
+          "Long head with a broad, square-ended muzzle",
+          "Soft, pendant ears",
+          "Dark hazel eyes and a typically gentle expression",
+          "Black-and-white flecked or roan coat",
+          "Enduring, supple movement suited to covering ground",
+          "Natural tail normally reaches the hock; tail length and carriage may vary"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Affectionate with familiar people",
+          "Gentle and generally sociable",
+          "Intelligent and responsive to training",
+          "Strongly motivated by scent and hunting tasks",
+          "Energetic and enduring outdoors",
+          "Sensitive to harsh handling",
+          "May follow scents and pursue wildlife if not managed",
+          "Can be slow to mature and remain playful when young"
+        ],
+        "scores": {
+          "affection": 5,
+          "withChildren": 4,
+          "withDogs": 4,
+          "withStrangers": 3,
+          "protectiveness": 2,
+          "independence": 3,
+          "trainability": 4,
+          "barking": 3,
+          "energy": 5
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "High; suited to active homes and regular outdoor work",
+          "minutesPerDay": {
+            "min": 120,
+            "max": null
+          },
+          "activities": [
+            "Long daily walks and opportunities for sustained movement",
+            "Secure off-lead exercise where recall is reliable and legal",
+            "Scent work and tracking games",
+            "Retrieving and suitable gundog activities",
+            "Structured training and problem-solving games",
+            "Hiking or other suitable outdoor activities"
+          ]
+        },
+        "grooming": {
+          "level": "Low to moderate",
+          "brushing": "Brush approximately once a week with a suitable dog brush to remove loose hair and dirt. Increase checks after field work.",
+          "bathing": "Bathe when needed using a dog-appropriate shampoo. Avoid unnecessary frequent bathing.",
+          "notes": [
+            "Check the ears after outdoor activity for grass seeds, dirt or other debris.",
+            "Inspect the paws and coat after working in fields, woodland or dense vegetation.",
+            "Trim nails when needed and maintain routine dental care.",
+            "Check the lips and skin for irritation or foreign material after outdoor exercise."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate; sensitive, intelligent and working-oriented",
+          "tips": [
+            "Use patient, reward-based training rather than harsh corrections.",
+            "Build reliable recall gradually, starting in controlled environments.",
+            "Use scenting and retrieving activities to channel natural hunting instincts.",
+            "Practise loose-leash walking and calm behaviour around wildlife.",
+            "Keep sessions varied and engaging, especially while the dog is young.",
+            "Teach household manners consistently and reinforce desired behaviour."
+          ],
+          "socialization": "Introduce the dog positively and gradually to different people, calm dogs, everyday environments and common household situations. Supervise interactions with children and small pets, and train carefully around wildlife because the breed has a strong hunting background."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": false,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Can live in a range of climates when exercise, shelter and care are adapted to conditions.",
+            "In hot weather, provide shade, water, ventilation and exercise during cooler hours.",
+            "In cold or wet conditions, provide a dry resting area and monitor comfort after outdoor work."
+          ],
+          "aloneTimeTolerance": "May struggle with long periods of isolation without appropriate training and enrichment; build alone-time tolerance gradually."
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced diet appropriate to the dog's life stage, body condition, activity level and health.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": null,
+          "senior": null
+        },
+        "guidelines": "Select a complete food suitable for the dog's age and expected adult size. Measure portions, monitor body condition and adjust intake to activity and weight changes. Fresh water should always be available. A veterinarian can help determine calorie needs, particularly for dogs doing sustained field work or those with medical concerns.",
+        "considerations": [
+          "Working dogs may need different energy intake on active days than on rest days.",
+          "Avoid routinely feeding excess calories when exercise decreases.",
+          "Use treats in moderation and include them in daily intake.",
+          "Introduce food changes gradually unless a veterinarian advises otherwise.",
+          "Seek veterinary advice for persistent digestive signs, appetite changes or unexpected weight loss."
+        ],
+        "note": "No universal Braque d'Auvergne-specific feeding quantity or meal schedule was established in the consulted sources. Individual needs vary with age, activity, body condition and health."
+      },
+      "health": {
+        "overview": "The breed is described by some breed profiles as generally hardy, but veterinary ophthalmology references list several ocular disorders that have been reported or presumed to have an inherited component. Breed-club guidance also highlights hip scoring and attention to eyelid disorders. These sources do not provide a reliable prevalence estimate for the conditions listed below, so they should be treated as points for breeder discussion and veterinary assessment rather than predictions about an individual dog.",
+        "commonConditions": [
+          "Entropion, an inward rolling of an eyelid, reported in breed-specific veterinary eye references",
+          "Distichiasis, in which extra eyelashes may irritate the eye",
+          "Other reported eyelid or third-eyelid disorders described in veterinary ophthalmology references",
+          "Hip dysplasia, for which breed-club guidance recommends attention to parental screening"
+        ],
+        "preventiveCare": [
+          "Arrange regular veterinary examinations and age-appropriate preventive care.",
+          "Ask breeders for documented hip-screening results for both parents.",
+          "Seek veterinary assessment for squinting, eye discharge, redness or signs of ocular pain.",
+          "Maintain dental hygiene, nail care, parasite prevention and a healthy body condition.",
+          "After field exercise, check ears, paws and coat for grass seeds, ticks, cuts or other debris.",
+          "Discuss the individual dog's lifestyle and any family history with a veterinarian."
+        ],
+        "recommendedScreenings": [
+          "Hip evaluation or scoring, particularly when assessing breeding dogs",
+          "Veterinary eye examination when indicated by the dog's history, symptoms or breeding programme",
+          "Discuss breed-relevant ocular findings with the breeder and veterinarian",
+          "Confirm current recommended tests with the relevant national breed club or kennel club"
+        ],
+        "dentalCare": "Brush the teeth regularly with dog-specific toothpaste and arrange veterinary oral checks. Ask a veterinarian about a dental-care plan if there is persistent bad breath, gum inflammation, oral pain or difficulty eating.",
+        "earCare": "Inspect the pendant ears regularly, particularly after outdoor work. Clean only when needed with a veterinarian-approved product, and seek advice for redness, odour, discharge or persistent head shaking.",
+        "skinCare": "Inspect the short coat and skin after outdoor activity for parasites, cuts, irritation or plant material. Seek veterinary advice for persistent itching, sores, lumps or unusual hair loss."
+      },
+      "suitability": {
+        "firstTimeOwners": false,
+        "familiesWithChildren": true,
+        "seniorOwners": false,
+        "activeOwners": true,
+        "apartmentLiving": false,
+        "idealFor": [
+          "Active people who can provide substantial daily exercise",
+          "Owners interested in hunting, scent work or gundog activities",
+          "Households able to provide patient training and mental enrichment",
+          "Families prepared to supervise children and teach respectful dog handling",
+          "People who can manage a dog's interest in scents and wildlife"
+        ],
+        "notIdealFor": [
+          "People who prefer a low-exercise companion",
+          "Households unable to provide regular outdoor activity",
+          "Owners who cannot safely manage hunting instincts around wildlife or small pets",
+          "People who expect immediate obedience without consistent training",
+          "Homes where long daily periods alone are unavoidable and cannot be supported with suitable care"
+        ]
+      },
+      "funFacts": [
+        "The breed has been associated with the Cantal region of France for more than two centuries.",
+        "Its coat has two recognised marking patterns, commonly described as flecked or greying.",
+        "The breed was developed for hunting and pointing, and its stamina is an important part of its traditional function.",
+        "The FCI standard mentions a possible historical contribution from the Knights of Malta, but does not present that ancestry as certain.",
+        "The breed's black-and-white coat can create a blue-toned appearance at a distance."
+      ],
+      "faq": [
+        {
+          "question": "How tall is a Braque d'Auvergne?",
+          "answer": "The FCI standard gives a height of 57–63 cm for males and 53–59 cm for females. It also specifies a tolerance of +2 cm and −1 cm around those ranges, with ideal heights of 60 cm for males and 56 cm for females."
+        },
+        {
+          "question": "What colours does the Braque d'Auvergne come in?",
+          "answer": "The standard describes a black-and-white coat with variable white markings and two recognised patterns: flecked and greying. The head is generally black, often with a white blaze."
+        },
+        {
+          "question": "Is the Braque d'Auvergne a good family dog?",
+          "answer": "It can be affectionate and gentle with its household, but its working background creates substantial exercise and training needs. Families should supervise all interactions between children and dogs and consider whether they can meet the breed's activity requirements."
+        },
+        {
+          "question": "How much exercise does a Braque d'Auvergne need?",
+          "answer": "It is an active pointing breed designed for sustained work. Plan for substantial daily activity, including walks, training and scent-based enrichment. Some breed profiles recommend two hours or more of exercise a day, but individual needs depend on age, health and conditioning."
+        },
+        {
+          "question": "What health checks should I discuss with a breeder?",
+          "answer": "Ask for the parents' hip-screening records and discuss eye health with the breeder. Veterinary ophthalmology references list several reported or presumed inherited eye disorders, but they do not establish how frequently these occur across the breed."
+        },
+        {
+          "question": "Is the Braque d'Auvergne suitable for apartment living?",
+          "answer": "It is generally better suited to a home that can provide substantial exercise and easy access to outdoor activities. Apartment living may be difficult if the dog's daily exercise, scenting and training needs cannot be met."
+        }
+      ],
+      "references": [
+        "fci-braque-d-auvergne-standard",
+        "fci-braque-d-auvergne-nomenclature",
+        "vdh-braque-d-auvergne",
+        "ukc-braque-d-auvergne-standard",
+        "royal-kennel-club-braque-d-auvergne-standard",
+        "purina-braque-d-auvergne",
+        "ecvo-braque-d-auvergne-eye-disorders",
+        "braque-d-auvergne-association-uk",
+        "wsava-global-nutrition-guidelines",
+        "avma-pet-dental-care",
+        "wikimedia-braque-d-auvergne-desaix83",
+        "wikimedia-auvergne-pointer-canarian",
+        "wikimedia-auvergne-pointer-pleple2000"
+      ],
+      "evidence": {
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-braque-d-auvergne-nomenclature",
+              "role": "verified",
+              "locator": "English breed name: Auvergne Pointer"
+            },
+            {
+              "id": "vdh-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Breed name and breed profile"
+            },
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Breed name and alternative name Auvergne Pointer"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Recorded names are documented translations or alternative English/Spanish names used in breed references."
+        },
+        "scientificName": {
+          "reliability": "unverified",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Canis lupus familiaris is the general domestic-dog taxonomic name used by this catalog, not a breed-specific scientific designation."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "FCI Classification: Group 7, Section 1.1, Continental Pointing Dogs of Braque Type"
+            },
+            {
+              "id": "fci-braque-d-auvergne-nomenclature",
+              "role": "verified",
+              "locator": "Group 7, Pointing Dogs; Section: Continental Pointing Dogs; Subsection: Braque Type"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The breed is classified by the FCI as a continental pointing dog of Braque type, with a working trial."
+        },
+        "origin.country": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "Origin: France"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "France is the country of origin specified in the official standard."
+        },
+        "origin.region": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "Brief Historical Summary: Cantal region"
+            },
+            {
+              "id": "vdh-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Origin and historical summary"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The breed's historical association with Cantal in Auvergne is documented in the standard and kennel-club profile."
+        },
+        "overview": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "Utilization, Brief Historical Summary, General Appearance and Behaviour/Temperament"
+            },
+            {
+              "id": "ukc-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "History, General Appearance and Characteristics"
+            },
+            {
+              "id": "vdh-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Breed profile and history"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Overview content synthesises documented origin, working purpose, appearance and temperament. The possible Knights of Malta connection is explicitly presented as uncertain."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "General Appearance, Tail, Coat and Size"
+            },
+            {
+              "id": "royal-kennel-club-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "General appearance, coat, colour and size"
+            },
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "cited",
+              "locator": "Lifespan, weight and grooming profile"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Physical description follows the FCI standard. The lifespan range is sourced separately from a breed profile; the weight schema is left unavailable because reliable sex-specific ranges were not established."
+        },
+        "physical.weight": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted FCI standard does not give a weight range. A general range published by a breed profile is not converted into invented male and female ranges because the schema requires sex-specific values."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Lifespan: 12–15 years"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The 12–15 year range is a reported breed-profile estimate, not a guarantee of an individual dog's lifespan."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Sheds and weekly grooming guidance"
+            },
+            {
+              "id": "royal-kennel-club-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "Short coat"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The breed sheds and has a short coat. The precise shedding rate is not quantified in the consulted sources."
+        },
+        "physical.droolingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Breed characteristics: some drool"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The qualitative description reflects the breed-profile assessment; individual dogs can differ."
+        },
+        "temperament": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "Behaviour/Temperament"
+            },
+            {
+              "id": "ukc-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "Characteristics"
+            },
+            {
+              "id": "braque-d-auvergne-association-uk",
+              "role": "verified",
+              "locator": "Characteristics and training"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Temperament descriptions are based on the breed standard and breed-club information about sensitivity, affection, intelligence and hunting instinct."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-braque-d-auvergne-standard",
+              "role": "cited",
+              "locator": "Behaviour/Temperament and utilization"
+            },
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "cited",
+              "locator": "Breed characteristics and personality"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "The 1–5 scores are editorial estimates informed by qualitative breed descriptions, not measured or validated behavioural scores."
+        },
+        "care": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Exercise needs, grooming, training and space requirements"
+            },
+            {
+              "id": "vdh-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Activity and temperament"
+            },
+            {
+              "id": "braque-d-auvergne-association-uk",
+              "role": "verified",
+              "locator": "Characteristics, training and health"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Breed-care recommendations are grounded in kennel-club and breed-club descriptions of this active pointing dog."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Exercise Needs: two hours or more per day"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The lower bound reflects a published breed-care recommendation of two hours or more per day. It is guidance for a healthy adult, not a fixed prescription for puppies, older dogs or dogs with medical limitations."
+        },
+        "care.grooming": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Grooming: weekly brushing and daily field checks"
+            },
+            {
+              "id": "vdh-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Coat and appearance"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Grooming guidance reflects the short coat and recommendations for weekly brushing and post-field inspection."
+        },
+        "care.training": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Training Braque d'Auvergne Dogs"
+            },
+            {
+              "id": "braque-d-auvergne-association-uk",
+              "role": "verified",
+              "locator": "Characteristics and training"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Training advice is based on the breed's described sensitivity, intelligence, hunting drive and responsiveness to positive reinforcement."
+        },
+        "care.livingEnvironment": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "cited",
+              "locator": "Space requirements and ideal owner"
+            },
+            {
+              "id": "vdh-braque-d-auvergne",
+              "role": "cited",
+              "locator": "Activity and breed profile"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Environmental suitability is an editorial assessment based on size and exercise needs, not a universal rule. A sufficiently active household may adapt differently."
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "cited",
+              "locator": "Outdoor activity and coat care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Climate recommendations are general dog-care guidance; the sources do not establish a breed-specific temperature tolerance."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Breed characteristics: can be left occasionally with training"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The value is qualitative guidance from a breed profile and should not be interpreted as a guaranteed duration for any individual dog."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "wsava-global-nutrition-guidelines",
+              "role": "cited",
+              "locator": "Global nutrition guidelines and individual nutrition assessment"
+            },
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "cited",
+              "locator": "Nutrition and Feeding"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Nutrition guidance is general veterinary advice tailored to an active medium-to-large dog; no unique breed-specific feeding formula was established."
+        },
+        "nutrition.feedingFrequency": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific meal frequency for puppy, adult and senior life stages was established in the sources consulted."
+        },
+        "health": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "ecvo-braque-d-auvergne-eye-disorders",
+              "role": "verified",
+              "locator": "Known and Presumed Hereditary Eye Diseases: entropion, distichiasis and other ocular disorders"
+            },
+            {
+              "id": "braque-d-auvergne-association-uk",
+              "role": "verified",
+              "locator": "Health: hip scoring and eyelid disorders"
+            },
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "verified",
+              "locator": "General health profile"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Health information distinguishes reported ocular disorders and breed-club screening advice from the general observation that the breed is often described as hardy. Prevalence is not inferred."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "braque-d-auvergne-association-uk",
+              "role": "verified",
+              "locator": "Health: both parents should have hip scores"
+            },
+            {
+              "id": "ecvo-braque-d-auvergne-eye-disorders",
+              "role": "verified",
+              "locator": "Known and Presumed Hereditary Eye Diseases"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Hip scoring is directly recommended by the breed association. Eye assessment is listed for discussion because the veterinary reference records ocular disorders; the reference does not prescribe a universal screening interval."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "braque-d-auvergne-association-uk",
+              "role": "cited",
+              "locator": "Health information"
+            },
+            {
+              "id": "avma-pet-dental-care",
+              "role": "cited",
+              "locator": "Pet dental care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine preventive care is general veterinary guidance, supplemented by breed-specific hip and eye considerations."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "avma-pet-dental-care",
+              "role": "cited",
+              "locator": "Pet dental care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General preventive dental-care guidance; no breed-specific dental risk is claimed."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "cited",
+              "locator": "Grooming: check ears after outdoor work"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine ear inspection is general care advice, especially after outdoor work; no breed-specific ear-disease prevalence is claimed."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "cited",
+              "locator": "Grooming: check coat and paws for foreign material"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine skin and coat checks are general grooming advice for a dog that may work in fields and dense vegetation."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "cited",
+              "locator": "Ideal Owner, Exercise Needs, Space Requirements and Suitability for Family Life"
+            },
+            {
+              "id": "fci-braque-d-auvergne-standard",
+              "role": "cited",
+              "locator": "Behaviour/Temperament and Utilization"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability flags are editorial assessments based on exercise needs, working instincts, size and training requirements. They are not guarantees about individual dogs."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "Brief Historical Summary, Coat and Utilization"
+            },
+            {
+              "id": "vdh-braque-d-auvergne",
+              "role": "verified",
+              "locator": "History and coat patterns"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The historical, coat-pattern and working-purpose facts are grounded in the standard and kennel-club description."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-braque-d-auvergne-standard",
+              "role": "verified",
+              "locator": "Size, Coat, Behaviour/Temperament and Historical Summary"
+            },
+            {
+              "id": "purina-braque-d-auvergne",
+              "role": "verified",
+              "locator": "Lifespan, exercise, grooming, training and health"
+            },
+            {
+              "id": "ecvo-braque-d-auvergne-eye-disorders",
+              "role": "verified",
+              "locator": "Known and Presumed Hereditary Eye Diseases"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "FAQ answers are rewritten in original language from the referenced breed and veterinary resources. Health advice does not imply a diagnosis or predict individual risk."
+        }
+      },
+      "updatedOn": "2026-10-24"
     },
     {
       "slug": "braque-francais-gascogne",
@@ -55173,6 +56173,763 @@
         }
       },
       "updatedOn": "2026-10-21"
+    },
+    {
+      "slug": "schipperke",
+      "name": "Schipperke",
+      "scientificName": "Canis lupus familiaris",
+      "alternateNames": [],
+      "group": "Spitz-like small sheepdog; FCI Group 1, Section 1 (Sheepdogs)",
+      "origin": {
+        "country": "Belgium",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Schipperke.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Schipperke.jpg",
+          "title": "Schipperke.jpg",
+          "description": "Photograph of a Schipperke.",
+          "creator": "Jurriaan Schulman",
+          "uploader": "Denniss",
+          "capturedOn": null,
+          "uploadedOn": "2006-03-17",
+          "width": 600,
+          "height": 579,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Jurriaan Schulman, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-24"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Schipperke_dogs-pair.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Schipperke_dogs-pair.jpg",
+          "title": "Schipperke dogs-pair.jpg",
+          "description": "Two Schipperkes.",
+          "creator": "Pleple2000",
+          "uploader": "Masur",
+          "capturedOn": null,
+          "uploadedOn": "2009-09-25",
+          "width": 2250,
+          "height": 1780,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Pleple2000, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-24"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Schipperke_puppies.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Schipperke_puppies.jpg",
+          "title": "Schipperke puppies.jpg",
+          "description": "Schipperke puppies.",
+          "creator": "Cinvic",
+          "uploader": "Cinvic",
+          "capturedOn": "2023-06-11",
+          "uploadedOn": "2023-06-12",
+          "width": 2048,
+          "height": 2048,
+          "licenseId": "cc-by-sa-4.0",
+          "attribution": "Photo by Cinvic, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-24"
+        }
+      ],
+      "overview": {
+        "summary": "The Schipperke is a small, sturdy Belgian dog with a dense black coat, a distinctive neck ruff, a lively personality and a strong instinct to watch over its surroundings.",
+        "description": "Compact and nearly square in outline, the Schipperke combines the build of a small working sheepdog with the alert expression and energetic manner of a keen watchdog. Its pointed ears, wedge-shaped head, thick double coat and prominent ruff give it a recognisable silhouette. It is curious, quick to react to movement and often vocal when something unusual happens. Although small enough to fit many homes, it is an active dog that benefits from daily physical exercise, training and tasks that engage its mind.",
+        "history": "The breed developed in Belgium and has documented roots reaching back to the seventeenth century. Historical accounts associate it with working people in Brussels and describe its usefulness in catching rats and other vermin. It was exhibited in Spa in 1882, reached Britain and the United States in 1887, and had a breed standard drawn up in 1888. Its history connects small-scale guarding and vermin control with its later role as a household companion.",
+        "originalPurpose": "Small watchdog and companion, with a longstanding reputation for catching rats and other vermin.",
+        "currentRoles": [
+          "Companion dog",
+          "Watchdog and alert dog",
+          "Agility and other dog sports",
+          "Scent-based games and training activities",
+          "Household vermin hunter where appropriate"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Small",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 27.9,
+            "max": 33
+          },
+          "female": {
+            "min": 25.4,
+            "max": 30.5
+          }
+        },
+        "weight": {
+          "unit": null,
+          "male": null,
+          "female": null
+        },
+        "lifespanYears": {
+          "min": 12,
+          "max": 16
+        },
+        "coatType": "Dense double coat with a straight, firm outer coat and a thick, soft undercoat.",
+        "coatLength": "Short on the head and ears; medium and close-lying on the body, with longer hair forming a ruff, mane, frill and breeches.",
+        "coatColors": [
+          "Black (the FCI breed standard colour)"
+        ],
+        "sheddingLevel": "Seasonal shedding; shedding can become heavy once or twice a year.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Small, upright, triangular ears",
+          "Wedge-shaped head and alert expression",
+          "Compact, sturdy, nearly square body",
+          "Prominent ruff, mane and frill around the neck and chest",
+          "Longer coat over the hindquarters forming breeches",
+          "Natural tails may vary; some dogs are born with a short or absent tail"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Alert and watchful",
+          "Curious and inquisitive",
+          "Lively and energetic",
+          "Confident and independent-minded",
+          "Reserved with unfamiliar people",
+          "Often vocal when alerting to activity",
+          "Affectionate with familiar household members",
+          "May chase small animals because of its vermin-hunting background"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": 4,
+          "withDogs": 3,
+          "withStrangers": 2,
+          "protectiveness": 5,
+          "independence": 4,
+          "trainability": 3,
+          "barking": 5,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate to high for a small breed",
+          "minutesPerDay": null,
+          "activities": [
+            "Daily walks with opportunities to explore",
+            "Short training sessions and reward-based games",
+            "Agility or other suitable dog sports",
+            "Scent work and supervised search games",
+            "Trick training and interactive enrichment",
+            "Secure, supervised play"
+          ]
+        },
+        "grooming": {
+          "level": "Moderate; easy to maintain between seasonal sheds",
+          "brushing": "Brush at least weekly and more often when seasonal shedding increases. Check the ruff, breeches and undercoat for loose hair or tangles.",
+          "bathing": "Bathe when needed rather than on a rigid schedule, using a dog-appropriate shampoo and rinsing thoroughly.",
+          "notes": [
+            "The coat's natural texture should be maintained; routine brushing is preferable to unnecessary trimming.",
+            "Check nails regularly and trim them when needed.",
+            "Inspect ears, teeth, skin and paw pads during routine grooming.",
+            "Expect more loose coat during seasonal shedding periods."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate; the breed can be clever but independent",
+          "tips": [
+            "Use short, consistent, reward-based sessions.",
+            "Teach recall early and practise it in controlled environments before allowing greater freedom.",
+            "Train a reliable quiet or settle cue to help manage alert barking.",
+            "Provide puzzle games and tasks so the dog has appropriate outlets for its curiosity.",
+            "Use secure fencing and a leash where small-animal chasing could create a risk.",
+            "Avoid harsh handling; build cooperation through predictable, positive training."
+          ],
+          "socialization": "Introduce the dog gradually and positively to different people, calm dogs, household sounds and everyday environments. Supervise interactions with children and small animals, and allow the dog space when it appears uncomfortable."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": true,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Can live in a range of climates with suitable shelter and care.",
+            "In hot weather, provide shade, fresh water, ventilation and exercise during cooler parts of the day.",
+            "In cold weather, provide a dry, sheltered resting place and monitor comfort during outdoor activity."
+          ],
+          "aloneTimeTolerance": null
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced dog food appropriate to the dog's life stage, body condition and individual health needs.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": null,
+          "senior": null
+        },
+        "guidelines": "Choose food labelled complete and balanced for the appropriate life stage. Measure portions, monitor body condition and adjust intake to maintain a healthy weight. Fresh water should always be available. Ask a veterinarian for individual guidance if the dog has a medical condition, changes weight unexpectedly or needs a therapeutic diet.",
+        "considerations": [
+          "Adjust portions to activity level, age and body condition rather than relying on a generic amount.",
+          "Use treats in moderation and account for them in daily intake.",
+          "Introduce diet changes gradually unless a veterinarian advises otherwise.",
+          "Discuss any persistent digestive problems, appetite changes or weight changes with a veterinarian."
+        ],
+        "note": "The sources consulted do not establish a unique Schipperke-specific feeding formula or universal meal schedule. Individual calorie needs vary."
+      },
+      "health": {
+        "overview": "Schipperkes can live into their teens, but breed health resources identify several inherited or monitored conditions. These include mucopolysaccharidosis type IIIB (MPS IIIB), epilepsy and Legg-Calve-Perthes disease; breed-club resources also discuss von Willebrand disease type 1 and the bobtail-associated mutation. Listing a condition does not mean it is common in every line or that an individual dog is affected. Ask for relevant health records and consult a veterinarian about screening appropriate to the dog's age and family history.",
+        "commonConditions": [
+          "Mucopolysaccharidosis type IIIB (MPS IIIB), a serious inherited condition for which DNA testing is available",
+          "Epilepsy, reported in breed health resources",
+          "Legg-Calve-Perthes disease, a hip-joint condition discussed in breed health resources",
+          "Patellar luxation, a condition for which screening is recommended",
+          "Eye and thyroid disorders, addressed by breed screening guidance",
+          "Von Willebrand disease type 1, discussed in breed-club health information",
+          "Brachyury or bobtail-associated genetic variation, relevant to some breeding decisions"
+        ],
+        "preventiveCare": [
+          "Arrange routine veterinary examinations and age-appropriate preventive care.",
+          "Discuss breed-relevant eye, patella, thyroid and hip screening with the breeder and veterinarian.",
+          "Ask about MPS IIIB testing and the parents' results when considering a puppy or breeding dog.",
+          "Maintain dental hygiene, nail care, parasite prevention and a healthy body condition.",
+          "Seek veterinary advice promptly for changes in coordination, recurrent seizures, persistent lameness or unusual bleeding."
+        ],
+        "recommendedScreenings": [
+          "Eye examination by a qualified veterinary eye specialist",
+          "Patella evaluation",
+          "Thyroid evaluation",
+          "Hip evaluation",
+          "MPS IIIB DNA testing, particularly for breeding decisions",
+          "Discuss cardiac evaluation and broader genetic testing with the breeder and veterinarian where appropriate"
+        ],
+        "dentalCare": "Brush the teeth regularly with dog-specific toothpaste and arrange veterinary dental checks. Ask a veterinarian for a dental-care plan if there is persistent bad breath, gum redness, pain or difficulty eating.",
+        "earCare": "Check the ears regularly for redness, odour, discharge or irritation. Clean only when needed with a veterinarian-approved product, and seek advice if signs of discomfort or infection appear.",
+        "skinCare": "During brushing, check the skin and coat for irritation, parasites, lumps, debris or unusual hair loss. Seek veterinary advice for persistent itching, sores or changes in the coat."
+      },
+      "suitability": {
+        "firstTimeOwners": null,
+        "familiesWithChildren": true,
+        "seniorOwners": null,
+        "activeOwners": true,
+        "apartmentLiving": true,
+        "idealFor": [
+          "People who enjoy an alert, interactive and energetic small dog",
+          "Households able to provide daily walks, training and mental enrichment",
+          "Owners interested in agility, scent games or trick training",
+          "People who appreciate a watchdog and can manage alert barking",
+          "Homes prepared to manage a small dog's interest in chasing vermin"
+        ],
+        "notIdealFor": [
+          "People who require a consistently quiet dog and cannot work on barking",
+          "Households expecting a highly compliant dog without consistent training",
+          "Owners who cannot provide regular activity or mental stimulation",
+          "Homes where small pets cannot be safely separated from a dog with chasing instincts",
+          "People who plan to leave a dog alone for long periods without suitable care"
+        ]
+      },
+      "funFacts": [
+        "The breed's history reaches back to seventeenth-century Belgium.",
+        "Schipperkes were historically valued for catching rats and other vermin as well as guarding.",
+        "The characteristic neck ruff, mane, frill and breeches create much of the breed's distinctive outline.",
+        "Some Schipperkes are naturally born with a short or absent tail.",
+        "The FCI standard classifies the Schipperke as a sheepdog, even though it is small in stature."
+      ],
+      "faq": [
+        {
+          "question": "How big does a Schipperke get?",
+          "answer": "The AKC lists typical heights of 11–13 inches for males and 10–12 inches for females, equivalent to approximately 27.9–33.0 cm and 25.4–30.5 cm. The FCI standard gives an overall weight range of 3–9 kg, with 4–7 kg sought after, but does not provide separate male and female weight ranges."
+        },
+        {
+          "question": "Are Schipperkes good family dogs?",
+          "answer": "They can be affectionate and engaging with their household, and the FCI standard describes them as gentle with children. As with any breed, children and dogs should be supervised together, children should be taught respectful handling, and the individual dog's temperament should guide introductions."
+        },
+        {
+          "question": "Do Schipperkes bark a lot?",
+          "answer": "They are naturally alert watchdogs and can bark readily when they notice movement or unfamiliar activity. Early training, appropriate enrichment and teaching a calm response to triggers can help, but prospective owners should be comfortable living with a vocal dog."
+        },
+        {
+          "question": "How much grooming does a Schipperke need?",
+          "answer": "Regular brushing, at least weekly, helps remove loose hair and maintain the double coat. Brushing more frequently during seasonal shedding can help manage the extra hair. Bathe when needed and check nails, ears, teeth and skin routinely."
+        },
+        {
+          "question": "What health tests should I ask a breeder about?",
+          "answer": "Ask for documented eye, patella, thyroid and hip screening, and discuss MPS IIIB DNA testing. Breed-club health resources also discuss other inherited concerns. Recommendations can change, so confirm current requirements with the relevant breed club and your veterinarian."
+        },
+        {
+          "question": "Can a Schipperke live in an apartment?",
+          "answer": "It can adapt to apartment life if its exercise, training and enrichment needs are met. Alert barking may be challenging in shared buildings, so work on calm behaviour and consider neighbours when deciding whether this environment is suitable."
+        }
+      ],
+      "references": [
+        "fci-schipperke-standard",
+        "fci-schipperke-nomenclature",
+        "american-kennel-club-schipperke",
+        "american-kennel-club-schipperke-health-statement",
+        "schipperke-club-of-america-health-foundation",
+        "schipperke-club-uk-health",
+        "vdh-schipperke",
+        "wsava-global-nutrition-guidelines",
+        "avma-pet-dental-care",
+        "wikimedia-schipperke-jurriaan-schulman",
+        "wikimedia-schipperke-pair-pleple2000",
+        "wikimedia-schipperke-puppies-cinvic"
+      ],
+      "evidence": {
+        "alternateNames": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No separate alternate breed name was recorded because a sufficiently consistent alternate name was not established from the sources consulted."
+        },
+        "scientificName": {
+          "reliability": "unverified",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Canis lupus familiaris is used as the general domestic-dog taxonomic name in this catalog; it is not a Schipperke-specific taxonomic designation."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-schipperke-standard",
+              "role": "verified",
+              "locator": "FCI classification"
+            },
+            {
+              "id": "fci-schipperke-nomenclature",
+              "role": "verified",
+              "locator": "Group 1, Section 1: Sheepdogs"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The FCI classifies the Schipperke in Group 1, Sheepdogs and Cattledogs (except Swiss Cattledogs), Section 1, Sheepdogs, without a working trial."
+        },
+        "origin.country": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-schipperke-standard",
+              "role": "verified",
+              "locator": "Origin"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The official standard states Belgium as the country of origin."
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The official standard identifies Belgium but does not establish a single precise region of origin."
+        },
+        "overview": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-schipperke-standard",
+              "role": "verified",
+              "locator": "Utilization, Brief Historical Summary, General Appearance and Behaviour/Temperament"
+            },
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Breed profile and historical summary"
+            },
+            {
+              "id": "vdh-schipperke",
+              "role": "verified",
+              "locator": "Breed profile, personality, care and activity"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The overview combines the FCI standard's historical, physical and temperament descriptions with kennel-club information about the breed's working history and current activities."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-schipperke-standard",
+              "role": "verified",
+              "locator": "General Appearance, Tail, Coat and Size and Weight"
+            },
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Height, weight, life expectancy and grooming"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The overall conformation, coat and FCI-standard colour are based on Standard No. 83. Registry standards can differ on accepted colours, so the colour field explicitly describes the FCI standard."
+        },
+        "physical.height": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Average sizes: males 11–13 inches, females 10–12 inches"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The AKC height ranges have been converted from inches to centimetres and rounded to one decimal place."
+        },
+        "physical.weight": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The FCI gives a general range of 3–9 kg and says 4–7 kg is sought after, but does not give sex-specific ranges. The schema requires sex-specific ranges, so male and female values are left null rather than inferred."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Life expectancy"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The AKC profile lists a life expectancy of 12–16 years."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No sufficiently specific, reliable breed-level drooling assessment was established in the sources consulted."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Grooming"
+            },
+            {
+              "id": "vdh-schipperke",
+              "role": "verified",
+              "locator": "Care and coat"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The sources describe regular coat care and heavier seasonal shedding."
+        },
+        "temperament": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-schipperke-standard",
+              "role": "verified",
+              "locator": "Behaviour/Temperament"
+            },
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Breed profile"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Traits reflect the standard's descriptions of an alert, active, inquisitive watchdog that is reserved with strangers and gentle with children, alongside the AKC's general breed profile."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-schipperke-standard",
+              "role": "cited",
+              "locator": "Behaviour/Temperament"
+            },
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "cited",
+              "locator": "Breed traits and description"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "The 1–5 scores are editorial estimates informed by breed descriptions, not measured scientific values. Individual dogs may differ."
+        },
+        "care": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Grooming and breed description"
+            },
+            {
+              "id": "vdh-schipperke",
+              "role": "verified",
+              "locator": "Preferences, training, activity and coat care"
+            },
+            {
+              "id": "schipperke-club-of-america-health-foundation",
+              "role": "cited",
+              "locator": "Health and responsible ownership resources"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Breed-specific activity and grooming recommendations are informed by kennel-club descriptions. General care advice is identified separately where appropriate."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted breed sources describe the Schipperke as active and needing regular activity, but do not establish a reliable universal daily minute range."
+        },
+        "care.livingEnvironment": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "vdh-schipperke",
+              "role": "cited",
+              "locator": "Activity, personality and care"
+            },
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "cited",
+              "locator": "Breed description"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Environmental suitability is practical guidance based on the breed's size, activity and alert barking, not a guarantee that every Schipperke will suit a particular home."
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-schipperke-standard",
+              "role": "cited",
+              "locator": "Coat"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Climate advice is general canine-care guidance informed by the breed's double coat; a breed-specific temperature tolerance was not established."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A reliable breed-specific tolerance for time spent alone was not established in the sources consulted."
+        },
+        "care.grooming": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Grooming"
+            },
+            {
+              "id": "vdh-schipperke",
+              "role": "verified",
+              "locator": "Coat care"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Grooming guidance follows kennel-club descriptions of the coat and regular brushing needs."
+        },
+        "care.training": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "vdh-schipperke",
+              "role": "verified",
+              "locator": "Activity, training and personality"
+            },
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Breed profile"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Training guidance accounts for the breed's activity, alertness and independent character. Specific techniques are practical recommendations rather than requirements in the breed standard."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "wsava-global-nutrition-guidelines",
+              "role": "cited",
+              "locator": "Global nutrition guidelines"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Nutrition guidance is general veterinary nutrition advice; no unique Schipperke-specific diet or universal portion amount was established."
+        },
+        "nutrition.feedingFrequency": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No breed-specific puppy, adult or senior meal frequency was established. Individual feeding schedules depend on age, health, food and veterinary advice."
+        },
+        "health": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Health and recommended tests"
+            },
+            {
+              "id": "american-kennel-club-schipperke-health-statement",
+              "role": "verified",
+              "locator": "Health Testing Schipperkes"
+            },
+            {
+              "id": "schipperke-club-of-america-health-foundation",
+              "role": "verified",
+              "locator": "Health Testing Guidance and MPS IIIB Testing"
+            },
+            {
+              "id": "schipperke-club-uk-health",
+              "role": "verified",
+              "locator": "General Health Information and listed health conditions"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "Health information distinguishes conditions reported by breed-health resources from recommended screening. No prevalence estimates are inferred from the presence of a condition on a list."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "cited",
+              "locator": "Health and recommended health tests"
+            },
+            {
+              "id": "schipperke-club-of-america-health-foundation",
+              "role": "cited",
+              "locator": "Health Testing Guidance"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine preventive-care suggestions combine general veterinary practice with breed-club screening information."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "schipperke-club-of-america-health-foundation",
+              "role": "verified",
+              "locator": "Health Testing Guidance: eyes, patellas, thyroid, hips; MPS IIIB and cardiac testing"
+            },
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Recommended Health Tests From the National Breed Club"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The list reflects current breed-health guidance consulted for this record. Older health statements may differ in which tests they list as required or recommended; breeders should confirm current requirements."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "avma-pet-dental-care",
+              "role": "cited",
+              "locator": "Pet dental care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General preventive dental-care advice, not a Schipperke-specific dental diagnosis or risk claim."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "cited",
+              "locator": "Grooming"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine ear inspection and veterinary-approved cleaning guidance; no breed-specific ear-disease prevalence is claimed."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "vdh-schipperke",
+              "role": "cited",
+              "locator": "Coat care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine skin and coat checks are general grooming guidance."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-schipperke-standard",
+              "role": "cited",
+              "locator": "Behaviour/Temperament and Utilization"
+            },
+            {
+              "id": "vdh-schipperke",
+              "role": "cited",
+              "locator": "Personality, activity and care"
+            },
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "cited",
+              "locator": "Breed profile"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability values are practical editorial assessments based on the breed's size, activity, alert barking and independence; they are not guarantees for individual dogs."
+        },
+        "suitability.firstTimeOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted sources do not provide a definitive first-time-owner suitability rating."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted sources do not provide a definitive suitability rating for senior owners."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-schipperke-standard",
+              "role": "verified",
+              "locator": "Brief Historical Summary, Utilization, Coat and Tail"
+            },
+            {
+              "id": "vdh-schipperke",
+              "role": "verified",
+              "locator": "Breed profile"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "The listed facts are grounded in the FCI history, standard description and kennel-club breed information."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-schipperke-standard",
+              "role": "verified",
+              "locator": "Size and Weight, Behaviour/Temperament, Coat and Brief Historical Summary"
+            },
+            {
+              "id": "american-kennel-club-schipperke",
+              "role": "verified",
+              "locator": "Height, life expectancy, grooming and health"
+            },
+            {
+              "id": "schipperke-club-of-america-health-foundation",
+              "role": "verified",
+              "locator": "Health Testing Guidance"
+            }
+          ],
+          "verifiedOn": "2026-10-24",
+          "note": "FAQ answers synthesise the cited standard and breed-health resources; advice about individual dogs remains subject to veterinary guidance."
+        }
+      },
+      "updatedOn": "2026-10-24"
     },
     {
       "slug": "schweizer-laufhund",
