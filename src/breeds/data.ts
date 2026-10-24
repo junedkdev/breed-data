@@ -69,6 +69,7 @@ import { airedale_terrier } from "./airedale_terrier";
 import { doberman_pinscher } from "./doberman_pinscher";
 import { welsh_terrier } from "./welsh_terrier";
 import { finnish_hound } from "./finnish_hound";
+import { aidi } from "./aidi";
 
 
 export const breedData: readonly Breed[] = [
@@ -137,4 +138,5 @@ export const breedData: readonly Breed[] = [
   doberman_pinscher,
   welsh_terrier,
   finnish_hound,
+  aidi,
 ];

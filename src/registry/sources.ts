@@ -6399,6 +6399,46 @@ export const sources = defineSources({
     accessedOn: "2026-10-23",
     note: "Wikimedia Commons file page for 'File:Old Danish Pointer.jpg' (496 × 319 px), photographed by Canarian on 2008-10-31 and uploaded on 2013-10-23 under CC BY-SA 3.0."
   },
+  "fci-aidi-official-standard": {
+    id: "fci-aidi-official-standard",
+    name: "FCI — Atlas Mountain Dog (Aidi), Standard No. 247",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/247g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2003-05-05",
+    accessedOn: "2026-10-24",
+    note: "The standard PDF is dated 05.05.2003. The FCI nomenclature page separately lists 25.03.2003 as the publication date of the official valid standard.",
+  },
+  "united-kennel-club-aidi-standard": {
+    id: "united-kennel-club-aidi-standard",
+    name: "United Kennel Club — Aidi (Atlas Mountain Dog) Official Breed Standard",
+    publisher: "United Kennel Club",
+    url: "https://www.ukcdogs.com/docs/breeds/atlas-mountain-dog-aidi.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2008-01-01",
+    accessedOn: "2026-10-24",
+    note: "The PDF identifies itself as the official UKC breed standard, revised January 1, 2008.",
+  },
+  "royal-canin-aidi-profile": {
+    id: "royal-canin-aidi-profile",
+    name: "Royal Canin India — Aidi Breed Profile",
+    publisher: "Royal Canin",
+    url: "https://www.royalcanin.com/in/dogs/breeds/aidi",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Used for the published average life-expectancy estimate; not treated as an official breed standard.",
+  },
+  "pubmed-aidi-leishmaniasis-study": {
+    id: "pubmed-aidi-leishmaniasis-study",
+    name: "Diagnosis and Prevalence of Canine Leishmaniasis in the Atlas Shepherd Dog",
+    publisher: "PubMed / Veterinary Parasitology: Regional Studies and Reports",
+    url: "https://pubmed.ncbi.nlm.nih.gov/36436887/",
+    type: "scientific_publication",
+    publishedOn: "2022-09-24",
+    accessedOn: "2026-10-24",
+    note: "Study of 161 Atlas shepherd dogs in the Tiaret region of Algeria; findings are specific to the study population and location.",
+  },
 });
 
 export type SourceId = keyof typeof sources;
