@@ -3,31 +3,92 @@ import type { Breed } from "../schema/breed.types";
 export const hovawart: Breed = {
   slug: "hovawart",
   name: "Hovawart",
-  scientificName: "Canis lupus familiaris",
-  alternateNames: [],
+  scientificName: null,
+  alternateNames: [
+    "Hovie",
+    "Hofwart"
+  ],
   group:
-    "FCI Group 2 — Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattledogs; Section 2.2 — Molossoid breeds, Mountain type; working trial required.",
+    "Group 2 — Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattledogs; Section 2.2 — Molossoid breeds, Mountain type (with working trial)",
   origin: {
     country: "Germany",
     region:
-      "Historically associated with German farms and estates, including the Harz and Black Forest regions; the modern breed was reconstructed from 1922."
+      "Harz Mountains (especially around Thale), the Black Forest, and the Odenwald; modern reconstruction began in 1922"
   },
-  images: [],
+  images: [
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/The_three_colours_of_the_Hovawart.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:The_three_colours_of_the_Hovawart.jpg",
+      title: "The three colours of the Hovawart.jpg",
+      description:
+        "Three adult Hovawarts showing the breed's three permitted coat colours: black and gold, blond, and black.",
+      creator: "Oxborrow",
+      uploader: "Oxborrow~commonswiki",
+      capturedOn: "2009-03-03",
+      uploadedOn: "2009-06-13",
+      width: 3888,
+      height: 2592,
+      licenseId: "public-domain",
+      attribution:
+        "Photograph by Oxborrow, Wikimedia Commons (https://commons.wikimedia.org/wiki/File:The_three_colours_of_the_Hovawart.jpg), released into the public domain by the copyright holder.",
+      restrictions: null,
+      metadataCheckedOn: "2026-10-23"
+    },
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Hovawart-H%C3%BCndin_Lenka_IMG_9368.JPG",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Hovawart-H%C3%BCndin_Lenka_IMG_9368.JPG",
+      title: "Hovawart-Hündin Lenka IMG 9368.JPG",
+      description:
+        "Blond adult female Hovawart ('Lenka') standing outdoors in Isernhagen, Lower Saxony, Germany.",
+      creator: "losch (l.schmiegel)",
+      uploader: "Losch",
+      capturedOn: "2008-05-13",
+      uploadedOn: "2012-05-20",
+      width: 2000,
+      height: 1333,
+      licenseId: "cc-by-sa-3.0",
+      attribution:
+        "losch (l.schmiegel), “Hovawart-Hündin Lenka IMG 9368.JPG”, Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hovawart-H%C3%BCndin_Lenka_IMG_9368.JPG), licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). No changes made.",
+      restrictions: null,
+      metadataCheckedOn: "2026-10-23"
+    },
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Hovawart_black_and_tan.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Hovawart_black_and_tan.jpg",
+      title: "Hovawart black and tan.jpg",
+      description:
+        "Adult black-and-gold (schwarzmarken) Hovawart lying on grass.",
+      creator: "Faigl.ladislav",
+      uploader: "Faigl.ladislav",
+      capturedOn: null,
+      uploadedOn: "2006-04-30",
+      width: 640,
+      height: 480,
+      licenseId: "cc-by-sa-3.0",
+      attribution:
+        "Ladislav Faigl (Faigl.ladislav), “Hovawart black and tan.jpg”, Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hovawart_black_and_tan.jpg), licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). No changes made.",
+      restrictions: null,
+      metadataCheckedOn: "2026-10-23"
+    }
+  ],
   overview: {
     summary:
-      "A powerful German working dog bred to guard homes and property, the Hovawart is loyal to its family, self-confident, alert and happiest when given purposeful activity.",
+      "A powerful, medium-to-large German working and estate-guarding breed with a long, slightly wavy weather-resistant coat in black and gold, black, or blond, prized for its even nerve, fine scenting ability, defensive watchfulness, and deep family devotion.",
     description:
-      "The Hovawart is a substantial, long-haired working companion with a guarding instinct and a close bond with its household. Developed to watch over farms and property, it is capable of making decisions without constant direction. A well-raised Hovawart can be affectionate, composed and versatile, but its confidence, size and independent judgement call for consistent training, careful socialisation and daily engagement. It is not simply a yard dog: it needs to live as part of the family and have regular opportunities to use its body and mind.",
+      "The Hovawart is a powerful, medium-to-large long-haired working dog built on a slightly rectangular frame whose body length exceeds withers height by 10 to 15 percent. Marked sexual dimorphism distinguishes the broader-headed, more substantial male from the finer female. Developed to watch over German farmsteads and estates rather than herd stock, the breed combines an even-tempered, stress-resistant disposition with self-confidence, defensive watchfulness, and an exceptional sense of smell. Its dense, close-lying, slightly wavy coat—occurring in black and gold (black and tan), solid black, or medium blond, with all three colours able to appear in the same litter—has relatively sparse undercoat and longer feathering on the neck, chest, backs of the limbs, and bushy tail. Slow to mature and retaining playful puppy energy until at least two years of age, a Hovawart forms an intense bond with its family and must live indoors as part of the household rather than in a kennel, thriving when given patient, reward-based leadership and purposeful scent, tracking, rescue, or dog-sport work.",
     history:
-      "The Hovawart's name comes from older German words associated with a farm or estate and a watchman. Dogs of this type guarded homes, farms and livestock in Germany. The modern reconstruction of the breed began in 1922 using suitable farm dogs and carefully managed outcrosses, including German Shepherd Dogs, Newfoundlands and Leonbergers. The FCI records recognition as a breed in 1937 and working-dog status in 1964. Selection for hip health has been an important feature of the breed's modern development.",
+      "The name Hovawart derives from the Middle High German words Hova (Hof, meaning yard, farm, or estate) and wart (Wächter, meaning watchman or guardian), a term recorded in medieval German law codes and chronicles for dogs that defended homesteads, castles, and livestock. By the early twentieth century, this traditional farm guardian survived only as scattered regional working dogs. Beginning in 1922 in Thale in the Harz Mountains, zoologist Kurt König—who founded the Hovawart-Verein für Deutsche Schutzhunde in January 1924—set out to reconstruct a thoughtful, naturally defensive estate guardian without predatory drive toward domestic stock. While older accounts listed outcrosses to German Shepherd Dogs, Newfoundlands, Leonbergers, and Kuvaszok, archival studbook research by Dr. Jens Kerl demonstrated that pre-war Kuvasz crosses were lost during the First World War and that all modern Hovawarts descend from the 1932 black-and-gold prototype sire Castor Meyer-Busch, whose pedigree combined roughly 65 percent regional farm dogs (Typenhunde from the Harz and Odenwald), 20.2 percent early German Shepherd Dogs, and 14.8 percent Newfoundland (through the von Qualitz litter brothers Barry Busch and Bob Busch). Officially recognised in Germany in 1936–1937, the breed suffered heavy losses during the Second World War before enthusiasts reorganised breeding in 1947, leading to definitive international recognition in November 1955 and German working-dog status in 1964. Systematic breeding selection for hip health since the 1960s has reduced hip dysplasia incidence to under 5 percent.",
     originalPurpose:
-      "Guarding farms, estates, property and livestock, with the independence needed to watch over an area.",
+      "Guarding German farmsteads, estates, castles, and livestock independently through calm, defensive vigilance rather than herding.",
     currentRoles: [
-      "Family companion and home guardian",
-      "Watch and working dog",
-      "Tracking and scent-work partner",
-      "Search-and-rescue or other structured working activities when training and aptitude are suitable",
-      "Dog-sport partner for obedience, agility and working trials"
+      "Devoted family companion and defensive home or estate guardian",
+      "Search-and-rescue, mantrailing, and disaster-recovery dog",
+      "Tracking, scent-work, and working-trial competitor",
+      "Obedience, rally, agility, hoopers, canicross, and flyball partner",
+      "Therapy and service dog when appropriately selected and trained"
     ]
   },
   physical: {
@@ -44,33 +105,39 @@ export const hovawart: Breed = {
     },
     lifespanYears: { min: 10, max: 14 },
     coatType:
-      "Long, thick, slightly wavy hair that lies close to the body, with relatively little undercoat and feathering on the neck, underside, backs of the legs and tail.",
-    coatLength: "Long-haired, with shorter hair on the head and fronts of the legs.",
-    coatColors: ["Black and tan", "Black", "Blond"],
+      "Long, thick, slightly wavy, close-lying weather-resistant coat with sparse undercoat; short on the head and fronts of the limbs, with longer feathering on the front of the neck, chest, belly, backs of the forelegs, backs of the thighs, and underside of the tail.",
+    coatLength:
+      "Medium to long over the body and tail, with short hair on the skull, muzzle, and fronts of both forelegs and hindlegs.",
+    coatColors: [
+      "Black and gold (black and tan / schwarzmarken): shiny black coat with clearly outlined medium-blond markings below the nasal bridge around the mouth corners into the throat, distinct points above the eyes, two adjacent or joined chest patches, and markings on the lower forelegs, hindlegs, and beneath the tail root",
+      "Black (schwarz): shiny deep black coat with black pigment on eyelids, lips, paw pads, and nails",
+      "Blond (blonde): shiny medium-blond coat that lightens toward the legs and belly, with black or dark pigment on eyelids, lips, and pads (seasonal snow nose is permissible; across all three colours, a few small white chest spots under 8 cm and single white hairs on the toes and tail tip are tolerated)"
+    ],
     sheddingLevel:
-      "Moderate, with loose hair during seasonal shedding; the coat needs regular thorough brushing.",
-    droolingLevel: null,
+      "Moderate overall because the undercoat is sparse compared with heavy double-coated mountain breeds, with heavier seasonal shedding when the coat changes.",
+    droolingLevel:
+      "Low; tightly fitting lips prevent heavy drooling.",
     distinctiveFeatures: [
-      "Powerful, medium-large build with a slightly elongated body",
-      "Males and females differ in head shape and body build",
-      "Long, slightly wavy coat with feathering on the legs and tail",
-      "Black-and-tan dogs have defined tan markings on the face, chest and legs",
-      "Black dogs have a shiny black coat; blond dogs have a medium-blond coat that lightens toward the legs and belly",
-      "Triangular, hanging ears with gently rounded tips",
-      "Oval, dark- to medium-brown eyes",
-      "A bushy tail that reaches below the hock and changes carriage with the dog's mood"
+      "Powerful, medium-to-large slightly rectangular body in which body length equals 110% to 115% of height at the withers (ratios under 100% or over 120% are disqualifying faults)",
+      "Pronounced sexual dimorphism in both head shape and body substance between males (63–70 cm, 30–40 kg) and females (58–65 cm, 25–35 kg)",
+      "Strong, clean head with a broad, arched forehead, a well-defined stop, and a straight muzzle equal in length to the skull (1:1 ratio) with parallel cranio-facial planes and tight lips",
+      "Complete 42-tooth dentition meeting in a strong scissor bite with teeth set vertically in the jaw (pincer bite is tolerated)",
+      "Medium-to-large triangular hanging ears set high so they visually broaden the skull, with gently rounded tips reaching the corner of the mouth and carried slightly forward when alert",
+      "Oval, medium-to-dark brown eyes with close-fitting eyelids conveying a calm, composed, and intelligent expression",
+      "Tightly fitting skin that shows a bluish shimmer in black-and-gold and black dogs and a pinkish shimmer in blond dogs",
+      "Bushy tail reaching below the hock joint without touching the ground, hanging low at rest and raised curved over the back when alert or moving"
     ]
   },
   temperament: {
     traits: [
-      "Loyal and strongly devoted to familiar people",
-      "Self-confident and composed",
-      "Alert and naturally protective of home and family",
-      "Intelligent, with a strong sense of smell",
-      "Versatile and capable of learning varied working tasks",
-      "Independent enough to assess a situation without constant direction",
-      "May be strong-willed and intense in play, making training and socialisation important",
-      "Benefits from positive, consistent guidance rather than intimidation"
+      "Good-natured, even-tempered, and stress-resistant",
+      "Deeply devoted and loyal to its household ('pack')",
+      "Self-confident, courageous, and alert without nervousness",
+      "Defensive rather than aggressive guardian that assesses situations independently",
+      "Exceptional olfactory ability suited to tracking, mantrailing, and search-and-rescue",
+      "Slow-maturing, retaining lively puppy playfulness until at least two years of age",
+      "Reserved and discerning toward unfamiliar people until welcomed by the owner",
+      "Sensitive to handler trust; resists harsh compulsion and responds best to calm, consistent leadership"
     ],
     scores: {
       affection: 4,
@@ -87,171 +154,172 @@ export const hovawart: Breed = {
   care: {
     exercise: {
       level:
-        "High. Plan substantial daily exercise and mental work. The Royal Kennel Club lists more than two hours per day as a breed-profile guideline; adapt the routine to the dog's age, health and conditioning.",
+        "High. Requires substantial daily physical activity—typically at least one long walk of an hour or more plus several shorter outings, totalling two hours or more for mature adults—combined with nose-led mental work.",
       minutesPerDay: { min: 120, max: 150 },
       activities: [
-        "Brisk walks and age-appropriate hikes",
-        "Scent work, tracking games and nose-led exploration",
-        "Reward-based obedience and everyday skills",
-        "Agility, mantrailing or working trials after physical maturity and appropriate conditioning",
-        "Puzzle feeders and supervised problem-solving games",
-        "Controlled play with compatible dogs"
+        "Long daily countryside walks, woodland hikes, or canicross (once skeletally mature) totaling two hours or more per day for adults",
+        "Tracking, mantrailing, scent discrimination, and search-and-rescue exercises that harness the breed's keen nose",
+        "Working trials, reward-based obedience, rally, hoopers, and agility after joint growth plates close",
+        "Supervised free running and exploration in a large, securely fenced garden or paddock",
+        "Interactive problem-solving games and durable food puzzles (noting that some dogs prefer vigorous physical shaking over delicate pawing)",
+        "Carefully supervised play with compatible, resilient dogs, managing adolescent 'zoomies' and exuberant play styles"
       ]
     },
     grooming: {
       level:
-        "Moderate. Coat length and feathering can tangle if neglected.",
+        "Moderate; the close-lying coat has sparse undercoat and does not mat easily overall, but feathered zones require thorough weekly combing.",
       brushing:
-        "Brush thoroughly several times a week, combing through the whole coat rather than only its surface. Check behind the ears, around the elbows and the feathering on the backs of the legs for knots; increase brushing during shedding.",
+        "Brush and comb thoroughly down to the skin two to three times per week using a long-pinned slicker brush and a rotating-tooth metal comb, paying close attention to mat-prone feathering behind the ears, around the elbows, and down the backs of the hindlegs.",
       bathing:
-        "Bathe when dirty or needed, using a dog-safe shampoo and rinsing thoroughly. Dry the coat and paws after wet outdoor activity.",
+        "Bathe only when dirty using a mild, dog-safe shampoo, and dry wet coats and muddy paws thoroughly after winter or wet-weather walks.",
       notes: [
-        "Introduce brushing, paw handling, ear checks and tooth brushing early.",
-        "Check ears and paws for grass seeds, debris, redness or soreness after outdoor activity.",
-        "Inspect the skin while brushing, especially under feathering and around tangles.",
-        "Keep nails trimmed to a comfortable length.",
-        "Avoid clipping the coat close to the skin unless a veterinarian recommends it for a medical reason."
+        "Accustom puppies from an early age to all-over handling, brushing, paw drying, ear inspection, and tooth cleaning before they grow into strong adolescents.",
+        "Inspect the ears and interdigital paw spaces after woodland or field walks for grass awns (seeds), burrs, ticks, or cuts.",
+        "Trim excess hair around the feet and beneath the ears if desired to reduce mud tracking and prevent grass seeds from lodging.",
+        "Keep the strong, fast-growing nails trimmed regularly with large nail clippers or a grinder to prevent splitting or splaying.",
+        "Never shave or clip the weather-resistant coat close to the skin unless medically required by a veterinarian."
       ]
     },
     training: {
       difficulty:
-        "Moderate to challenging for inexperienced owners. The breed is intelligent and versatile but also confident, protective and capable of independent decisions.",
+        "Moderate to challenging for novice handlers. Intelligent and versatile, yet strong-willed, slow to mature (taking about two years), and bred to make independent defensive decisions if left without clear direction.",
       tips: [
-        "Begin reward-based training and calm, positive exposure to everyday life in puppyhood.",
-        "Teach loose-leash walking, recall, settling and reliable responses around visitors before the dog reaches full size.",
-        "Use short, varied sessions that give the dog a clear purpose.",
-        "Reward calm behaviour at doors, fences and when meeting unfamiliar people.",
-        "Avoid harsh or confrontational handling; build cooperation through consistency and trust.",
-        "Provide structured mental work as well as physical activity.",
-        "Choose dog sports or working activities that fit the dog's temperament and physical development."
+        "Build a relationship grounded in mutual trust, calm consistency, and positive reinforcement; harsh or confrontational methods undermine trust and provoke resistance.",
+        "Guide the dog's innate guarding instinct through structured exposure so it looks to the handler to decide how to respond to visitors rather than making autonomous guarding decisions.",
+        "Always greet guests at the door yourself rather than allowing visitors to walk in unannounced and surprise the dog.",
+        "Account for training treats within the daily food ration so reward-heavy training does not lead to excess weight.",
+        "Take young puppies to the veterinary clinic weekly for friendly weigh-ins and treats so adult veterinary examinations remain calm and stress-free.",
+        "Restrict high-impact jumping, repetitive stairs, and uncontrolled high-speed 'zoomies' during the first 18–24 months while bones and joints are maturing."
       ],
       socialization:
-        "Start in puppyhood and continue throughout life. Introduce people, dogs, places, sounds and handling in safe, positive, controlled situations. Socialisation should build calm judgement and confidence, not force the dog to welcome every stranger. Maintain supervision and secure management because the breed has a guarding background."
+        "Begin broad, positive socialisation in puppyhood and continue throughout the two-year maturation period. Expose the young dog to varied people, household visitors, traffic, sounds, veterinary handling, and polite dogs. Because Hovawarts play exuberantly and can be wilful or dominant toward unfamiliar dogs of the same sex, supervise canine interactions closely."
     },
     livingEnvironment: {
       apartmentSuitable: false,
       houseWithYardSuitable: true,
       climates: [
-        "Cool and temperate conditions",
-        "Variable weather when the dog has shelter, water and a suitable resting place",
-        "Warm weather with shade, ventilation, fresh water and exercise during cooler hours"
+        "Cool, wet, and snowy temperate or continental climates (for which the all-weather coat is naturally suited)",
+        "Warm weather when provided with ample shade, cool indoor resting areas, fresh water, and exercise scheduled during cooler morning and evening hours"
       ],
-      aloneTimeTolerance: null
+      aloneTimeTolerance:
+        "Low to moderate. Deeply attached to its family, the Hovawart must live indoors with its household and is completely unsuited to permanent kennel life, though a well-integrated adult can tolerate occasional short periods alone once exercised."
     }
   },
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate for the dog's life stage, body condition, activity level and veterinary needs.",
+      "Complete, balanced large-breed diet matched to the dog's life stage, growth rate, workload, and veterinary needs.",
     feedingFrequency: {
       puppy: null,
       adult:
-        "Use a predictable daily schedule, but choose meal count and portion size according to age, activity, body condition and the food being fed. Ask a veterinarian for an individual plan.",
+        "Feed measured portions on a consistent daily schedule—typically divided into two smaller meals for adults—adjusted for workload, body condition, and training-treat intake.",
       senior: null
     },
     guidelines:
-      "Feed a nutritionally complete diet in measured portions and monitor body condition as well as weight. Large-breed puppies grow in spurts, so adjust intake with veterinary guidance and avoid excessive exercise while joints are developing. Include training treats in the daily calorie allowance, keep fresh water available and make diet changes gradually.",
+      "Provide a high-quality, nutritionally complete large-breed ration in measured portions. Because Hovawart puppies grow rapidly and in uneven growth spurts, monitor body condition closely and adjust intake with veterinary guidance so the developing skeleton is not overloaded by excess weight. Deduct training treats from the daily calorie allowance, allow rest before and after meals to help reduce bloat risk, and keep clean water available at all times.",
     considerations: [
-      "Discuss an appropriate growth diet and healthy growth rate with a veterinarian when feeding a puppy.",
-      "Reassess portions when activity, age or body condition changes.",
-      "Do not add calcium, vitamins or supplements unless a veterinarian recommends them.",
-      "Use training treats sparingly and include them in the daily ration.",
-      "Ask the veterinarian whether individual health findings call for a specific diet."
+      "Adjust puppy rations carefully during growth spurts to maintain a lean, steady growth curve and protect developing hips and joints.",
+      "Do not add supplemental calcium, phosphorus, or vitamins to a balanced diet unless prescribed by a veterinarian.",
+      "Deduct training rewards from the daily meal portion, as training a working breed requires frequent food reinforcement.",
+      "Divide daily rations into smaller meals and avoid strenuous exercise immediately before or after eating to reduce the risk of gastric dilatation-volvulus (GDV).",
+      "Monitor weight and thyroid health in adulthood, as unexplained weight gain despite a normal appetite can be an early sign of hypothyroidism."
     ],
     note:
-      "No authoritative Hovawart-specific puppy or senior meal frequency was established in the reviewed sources. Nutrition guidance here is general advice, not a prescription for an individual dog."
+      "Specific numerical meal counts for puppies and seniors are not separately fixed; work with a veterinarian or breeder to set life-stage feeding frequency and portion sizes."
   },
   health: {
     overview:
-      "Hovawarts have benefited from deliberate selection for hip health, but that does not remove inherited risk in an individual dog. Breed-club guidance recommends hip scoring, thyroid testing and degenerative myelopathy DNA testing for breeding animals. These recommendations are most directly relevant when choosing a puppy or planning a breeding; they are not a diagnosis, and results vary by country, population and screening programme.",
+      "With a typical lifespan of 10 to 14 years, the Hovawart is one of the healthier large working breeds, largely thanks to mandatory pre-breeding hip evaluations begun in the 1960s that have reduced hip dysplasia incidence to under 5 percent in screened populations (with a UK five-year median hip score of 8–9 out of 106). Primary hereditary and clinical health priorities focus on three areas covered by pre-breeding screening: autoimmune lymphocytic thyroiditis leading to hypothyroidism (shown in a pedigree study of 4,953 Finnish Hovawarts to have a moderate-to-high heritability of 0.47–0.62, and detected at 13 percent prevalence in a Swedish serological survey), degenerative myelopathy (a late-onset progressive spinal cord neuropathy associated with homozygosity for the SOD1:c.118G>A mutation, confirmed neuropathologically in affected Hovawarts aged 9–12 years), and hip dysplasia. As a large, deep-chested breed, the Hovawart is also at risk for acute gastric dilatation-volvulus (bloat).",
     commonConditions: [
-      "Hip dysplasia — a developmental hip-joint condition that can affect mobility; the breed has long-running screening and selection programmes.",
-      "Hypothyroidism or thyroid dysfunction — thyroid testing is included in one Hovawart club's breeding-health guidance.",
-      "Degenerative myelopathy (DM) susceptibility — DNA testing can identify the SOD1 variant associated with risk, but a result does not guarantee clinical signs will develop.",
-      "Gastric dilatation-volvulus (bloat) — a life-threatening emergency possible in dogs, particularly large or deep-chested dogs. Sudden abdominal swelling, unproductive retching, restlessness or collapse require emergency veterinary care."
+      "Autoimmune lymphocytic thyroiditis and hypothyroidism — the most common hereditary endocrine disorder in the breed (estimated heritability h² = 0.47–0.62 in a cohort of 4,953 dogs), typically presenting after 2 to 4 years of age with lethargy, weight gain without increased appetite, cold intolerance, dry skin, symmetrical trunk or 'rat-tail' hair loss, slow heart rate, or behavioural changes",
+      "Degenerative myelopathy (DM) — adult-onset (typically 9 to 12 years of age) painless, progressive degeneration of thoracic spinal cord pathways associated with homozygosity for the SOD1:c.118G>A (p.E40K) mutation, causing hindlimb wobble and ataxia that progress to paraparesis",
+      "Hip dysplasia — developmental coxofemoral joint laxity and osteoarthritis; kept below 5% in screened populations through decades of mandatory radiographic selection",
+      "Gastric dilatation-volvulus (GDV / bloat) — life-threatening emergency in which the stomach fills with gas and twists on its axis, requiring immediate veterinary surgery"
     ],
     preventiveCare: [
-      "Arrange regular veterinary examinations and follow an appropriate vaccination and parasite-prevention plan.",
-      "Maintain a lean body condition and discuss lameness, stiffness or reluctance to exercise promptly.",
-      "Ask breeders for documented hip scores and relevant thyroid and DM screening results for breeding dogs.",
-      "Discuss the meaning and limitations of a DM DNA result with a veterinarian or knowledgeable breeder.",
-      "Learn the warning signs of bloat and identify an emergency veterinary service before one is needed.",
-      "Brush teeth regularly and include ears, skin, paws and nails in routine checks."
+      "Select puppies only from breeding parents that hold documented hip clearances, current full thyroid panels (including thyroglobulin autoantibodies), ophthalmic clearances, and SOD1 degenerative myelopathy DNA test results.",
+      "Plan matings using SOD1 DNA results so that two carriers or at-risk dogs are never bred together, preventing offspring homozygous for the mutated allele while preserving genetic diversity.",
+      "Monitor adult dogs from 2 years of age onward for subtle signs of hypothyroidism—such as unexplained weight gain, coat thinning on the tail or trunk, lethargy, or uncharacteristic anxiety or aggression—and request a full thyroid profile if signs appear.",
+      "Keep growing puppies lean, limit repetitive high-impact exercise until skeletal maturity at around 2 years of age, and maintain athletic body condition throughout life.",
+      "Learn the emergency warning signs of bloat (unproductive retching, distended abdomen, restlessness, collapse) and seek immediate emergency veterinary care if suspected.",
+      "Inspect ears, paws, skin, and teeth weekly, and avoid giving hard weight-bearing marrow bones that can slab-fracture canine or carnassial teeth."
     ],
     recommendedScreenings: [
-      "Hip scoring or hip-dysplasia assessment for breeding dogs, using an accepted national scheme.",
-      "Thyroid-function testing for breeding dogs as advised by the relevant breed club and veterinarian.",
-      "Degenerative myelopathy (SOD1 variant) DNA testing for breeding dogs, interpreted alongside the intended mating and applicable breed-club rules.",
-      "When buying a puppy, request written copies of the parents' screening results rather than relying only on verbal assurances."
+      "Radiographic hip dysplasia evaluation prior to breeding (such as national scoring schemes requiring an individual score of 20 or less and a combined parent score of 25 or less on a 0–106 scale, or a grade of Good or Excellent at 24 months of age or older)",
+      "Comprehensive pre-breeding thyroid blood panel—including Total T4, Free T4, canine thyroid-stimulating hormone (cTSH), and thyroglobulin autoantibodies (TgAA)—performed within 2 years prior to mating (tested midway between seasons in females and at least 30 to 45 days after any vaccination)",
+      "Degenerative myelopathy (SOD1:c.118G>A) DNA test prior to breeding so matings never produce homozygous at-risk (DM/DM) puppies",
+      "Ophthalmic examination by a board-certified veterinary ophthalmologist within 12 months prior to breeding",
+      "Formal breed temperament and conformation evaluation at 20 months of age or older prior to breeding"
     ],
     dentalCare:
-      "Brush the teeth regularly, ideally daily, with a dog-specific toothbrush and toothpaste. Arrange veterinary oral examinations and professional cleaning when recommended.",
+      "Brush the 42-tooth scissor bite regularly—ideally daily—beginning in puppyhood, inspect the mouth periodically for fractured teeth or hidden root abscesses (which can cause unexplained weight loss or subdued behaviour), and schedule veterinary dental checks as needed.",
     earCare:
-      "Check the ears routinely for redness, odour, discharge, debris or repeated head-shaking. Clean only when needed with a veterinarian-approved product; seek advice if irritation persists.",
+      "Inspect the high-set triangular drop ears weekly and after countryside walks for grass seeds, wax buildup, redness, or odour; chronic or recurrent ear infections should also prompt a veterinary check of thyroid function.",
     skinCare:
-      "Check the skin during brushing, paying attention to tangles, damp areas, parasites and irritation beneath the feathering. Dry wet coat and paws, and ask a veterinarian about persistent itching, hair loss or skin changes."
+      "Part the long, slightly wavy coat during brushing to check the skin (which naturally has a bluish shimmer in black and black-and-gold dogs and a pinkish shimmer in blond dogs) for ticks, grass awns, cuts, or dry patches, and dry the coat and feet thoroughly after wet walks."
   },
   suitability: {
     firstTimeOwners: false,
-    familiesWithChildren: null,
+    familiesWithChildren: true,
     seniorOwners: null,
     activeOwners: true,
     apartmentLiving: false,
     idealFor: [
-      "Active households that want a loyal companion and can invest in daily exercise and training",
-      "Owners who appreciate an alert, protective working breed",
-      "People interested in scent work, obedience, agility, tracking or suitable working activities",
-      "Homes that can provide regular companionship, structure and secure outdoor access"
+      "Experienced, active handlers who want a devoted working partner for tracking, mantrailing, search-and-rescue, working trials, obedience, or agility",
+      "Households with a spacious, securely fenced garden or rural access that include the dog indoors as a full family member",
+      "Owners who understand defensive guardian instincts and provide calm, consistent, reward-based leadership",
+      "People prepared to commit two hours or more per day to walking, training, and scent-based mental enrichment"
     ],
     notIdealFor: [
-      "People seeking a low-exercise or low-involvement dog",
-      "Owners unable to provide consistent training, socialisation and purposeful activities",
-      "Households expecting a dog to accept every visitor without management or training",
-      "Homes where a large, strong and protective dog cannot be supervised or handled safely",
-      "Owners who plan to leave the dog isolated outdoors for most of the day"
+      "First-time dog owners unprepared for a strong, 25–40 kg slow-maturing guardian breed with independent judgement",
+      "Apartment dwellers or homes without adequate outdoor space and secure fencing",
+      "Anyone intending to keep a dog in an outdoor kennel or use it as an isolated, aggressive 'junkyard' guard dog",
+      "Households where visitors frequently walk in unannounced without the owner managing introductions at the door",
+      "Handlers who use harsh, confrontational, or physical punishment"
     ]
   },
   funFacts: [
-    "The breed's name combines older German words associated with a farm or estate and a watchman.",
-    "The modern breed reconstruction began in 1922 and included managed outcrosses before a consistent working type was re-established.",
-    "The Hovawart is recognised in three standard colours: black and tan, black, and blond.",
-    "The breed standard describes a body slightly longer than the dog's height at the withers.",
-    "The Hovawart's nose and versatile working background suit activities such as tracking and scent work."
+    "The name Hovawart comes directly from Middle High German: Hova (Hof, meaning farmstead, yard, or estate) and wart (Wächter, meaning watchman or guardian).",
+    "All three coat colours—black and gold, solid black, and blond—can be born in the very same litter, depending on the recessive alleles carried by the parents.",
+    "Beneath the coat, the skin itself differs by colour variety: black-and-gold and black Hovawarts have skin with a distinct bluish shimmer, whereas blond Hovawarts have skin with a pinkish shimmer.",
+    "Archival studbook research presented for the breed's centenary showed that every modern Hovawart traces back to a single black-and-gold male registered in 1932 named Castor Meyer-Busch, whose genetic makeup was roughly 65% regional German farm dogs (Typenhunde), 20.2% early German Shepherd Dog, and 14.8% Newfoundland.",
+    "Thanks to mandatory pre-breeding hip-dysplasia selection introduced in the 1960s, the Hovawart has achieved a hip dysplasia rate below 5%—one of the lowest among large working breeds.",
+    "Hovawarts are famous for taking at least two full years to mature, retaining their exuberant puppy playfulness and fondness for high-speed 'zoomies' well into young adulthood."
   ],
   faq: [
     {
-      question: "Is the Hovawart a good dog for first-time owners?",
+      question: "Is the Hovawart suitable for a first-time dog owner?",
       answer:
-        "It is usually a better match for owners prepared for a large, intelligent and protective working breed. The Hovawart needs regular exercise, early socialisation and consistent training, so a first-time owner should seek experienced support and plan for a substantial daily commitment."
+        "Usually not. Because the Hovawart is a large, strong-willed, slow-maturing working dog with natural defensive guarding instincts and independent decision-making, it requires an owner who can provide calm, consistent leadership, early socialisation, and at least two hours of daily physical and mental activity."
     },
     {
-      question: "How big does a Hovawart get?",
+      question: "How big does a fully grown Hovawart get?",
       answer:
-        "The FCI standard gives a height of 63–70 cm for males and 58–65 cm for females. A UK breed-club profile reports typical weight ranges of 30–40 kg for males and 25–35 kg for females; individual dogs vary."
+        "Adult males stand 63–70 cm (25–27.5 in) at the withers and typically weigh 30–40 kg (66–88 lb), while females stand 58–65 cm (23–25.5 in) and weigh 25–35 kg (55–77 lb), with some large North American males reaching 28 inches and 90–100 pounds. Males and females show a clear difference in head breadth and body substance."
     },
     {
-      question: "What colours do Hovawarts come in?",
+      question: "What coat colours occur in the Hovawart, and can they appear in one litter?",
       answer:
-        "The three standard colours are black and tan, black, and blond. Black-and-tan dogs have clearly defined lighter markings, while blond dogs have a medium-blond coat that lightens toward the legs and belly."
+        "The three recognised colours are black and gold (shiny black with clearly defined medium-blond markings on the head, chest, legs, and under the tail), solid black, and medium blond (which pales softly toward the legs and belly). All three colours can be born in the same litter depending on the parents' genetics."
     },
     {
-      question: "How much exercise does a Hovawart need?",
+      question: "How much daily exercise and mental stimulation does a Hovawart need?",
       answer:
-        "It is an active working breed. The Royal Kennel Club's profile recommends more than two hours of exercise per day as a guide. Adapt the routine to the dog's age, health and fitness, and keep exercise controlled while a puppy is growing."
+        "A mature, healthy adult needs around two hours or more of daily exercise—such as a brisk walk or hike of at least an hour plus several shorter walks—combined with nose-led mental work like tracking, mantrailing, scent games, or obedience. Growing puppies require controlled, age-appropriate exercise to protect their developing joints."
     },
     {
-      question: "What health tests should I ask a Hovawart breeder about?",
+      question: "How does a Hovawart's guarding instinct work?",
       answer:
-        "Ask for documented hip scores, thyroid-function results and degenerative myelopathy DNA test results for the breeding dogs. Screening recommendations vary between countries and clubs, so ask how the results were assessed and discuss them with a veterinarian."
+        "The breed was selected to guard homesteads and families from a calm, defensive posture rather than through unprovoked aggression. However, if an owner does not provide clear direction and socialisation, a Hovawart will assess situations on its own. Owners should socialise puppies thoroughly and always greet visitors at the door themselves."
+    },
+    {
+      question: "What health screenings should I ask a Hovawart breeder to provide?",
+      answer:
+        "Ask for written proof of pre-breeding hip scores (confirming low hip-dysplasia risk), a comprehensive thyroid blood panel (including Total T4, Free T4, cTSH, and TgAA autoantibodies tested within two years of mating), a degenerative myelopathy (SOD1) DNA test result ensuring no puppies are homozygous at-risk, a current veterinary ophthalmologist eye certificate, and a passed adult temperament evaluation."
     },
     {
       question: "Is a Hovawart good with children and other dogs?",
       answer:
-        "There is no guarantee based on breed alone. Individual temperament, early positive socialisation, training and adult supervision matter, especially because Hovawarts are strong dogs with guarding instincts and can play intensely with other dogs."
-    },
-    {
-      question: "Does a Hovawart need a lot of grooming?",
-      answer:
-        "The long coat needs regular thorough brushing, especially behind the ears and around the feathering on the legs. Check the coat more carefully during seasonal shedding and dry the coat and paws after wet outdoor activity."
+        "When raised in the family and properly socialised, a Hovawart is affectionate, loyal, and tolerant with its household's children, though adults must always supervise interactions because an exuberant 30–40 kg dog can accidentally knock over a small child. With other dogs, Hovawarts play very boisterously and can be wilful or dominant toward same-sex dogs if not well socialised."
     }
   ],
   references: [
@@ -259,319 +327,687 @@ export const hovawart: Breed = {
     "fci-hovawart-nomenclature",
     "royal-kennel-club-hovawart-standard",
     "royal-kennel-club-hovawart-profile",
+    "american-kennel-club-hovawart",
     "hovawart-club-of-great-britain-breed-introduction",
+    "hovawart-club-of-great-britain-origins",
     "hovawart-club-of-great-britain-health",
     "hovawart-club-of-great-britain-care",
-    "hovawart-club-of-north-america-faq"
+    "hovawart-club-of-north-america-faq",
+    "mandrioli-2021-hovawart-degenerative-myelopathy",
+    "ahlgren-uimari-2016-hovawart-hypothyroidism",
+    "wikimedia-hovawart-three-colours-oxborrow",
+    "wikimedia-hovawart-lenka-losch",
+    "wikimedia-hovawart-black-and-tan-faigl"
   ],
   evidence: {
-    alternateNames: {
+    scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No distinct, currently recognised alternate breed name was established in the reviewed registry and breed-club sources."
+      note:
+        "Left null in accordance with catalog schema conventions; domestic dog breeds do not carry a distinct breed-specific scientific binomial."
     },
-    scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note: "Conventional species-level domestic-dog name; a breed-specific taxonomic designation was not verified."
+    alternateNames: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "hovawart-club-of-great-britain-health",
+          role: "verified",
+          locator: "2025 Health Survey & The importance of gathering health data ('Hovie')"
+        },
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "Brief Historical Summary (Middle High German Hova = Hof and wart = Wächter)"
+        }
+      ],
+      verifiedOn: "2026-10-23",
+      note: "Includes the widely used breed-club colloquialism 'Hovie' and the historical German form 'Hofwart'."
     },
     group: {
       reliability: "official_standard",
       sources: [
-        { id: "fci-hovawart-official-standard", role: "verified", locator: "FCI classification, Group 2, Section 2.2, with working trial" },
-        { id: "fci-hovawart-nomenclature", role: "verified", locator: "Breed No. 190, Group 2, Molossoid breeds, Mountain type, working trial" }
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "FCI-Classification: Group 2, Section 2.2 Molossoid breeds, Mountain type, With working trial"
+        },
+        {
+          id: "fci-hovawart-nomenclature",
+          role: "verified",
+          locator: "Group n°2, Section Molossian type, Subsection Mountain type, Subject to a working trial"
+        },
+        {
+          id: "royal-kennel-club-hovawart-standard",
+          role: "cited",
+          locator: "Working Group"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "cited",
+          locator: "Foundation Stock Service / Working Group designation"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: null
+      verifiedOn: "2026-10-23",
+      note: "Classified in FCI Group 2, Section 2.2 (Molossoid breeds, Mountain type, with working trial), and in the Working Group by both The Royal Kennel Club and the American Kennel Club (Foundation Stock Service)."
     },
     origin: {
       reliability: "official_standard",
       sources: [
-        { id: "fci-hovawart-official-standard", role: "verified", locator: "Origin and Brief Historical Summary" },
-        { id: "fci-hovawart-nomenclature", role: "verified", locator: "Country of origin: Germany" },
-        { id: "hovawart-club-of-great-britain-breed-introduction", role: "cited", locator: "Historical account of farms, estates and German regions" }
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "Origin: Germany; Brief Historical Summary (1922 reconstruction)"
+        },
+        {
+          id: "hovawart-club-of-great-britain-breed-introduction",
+          role: "verified",
+          locator: "History: Harz, Black Forest, and Odenwald regions of Germany"
+        },
+        {
+          id: "hovawart-club-of-great-britain-origins",
+          role: "verified",
+          locator: "Kurt König in Thale (Harz region) and 1922 studbook entries"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Germany is the official country of origin. Regional references summarise historical association rather than establish an exclusive place of origin."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     overview: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
-        { id: "fci-hovawart-official-standard", role: "verified", locator: "Utilization, Brief Historical Summary, General Appearance and Behaviour/Temperament" },
-        { id: "royal-kennel-club-hovawart-profile", role: "verified", locator: "Breed history, working roles, exercise and owner requirements" },
-        { id: "hovawart-club-of-great-britain-breed-introduction", role: "verified", locator: "Breed Introduction and History" },
-        { id: "hovawart-club-of-north-america-faq", role: "cited", locator: "Owner requirements and guardian background" }
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "Utilization, Brief Historical Summary, General Appearance, Important Proportions, and Behaviour/Temperament"
+        },
+        {
+          id: "fci-hovawart-nomenclature",
+          role: "verified",
+          locator: "Date of acceptance on a definitive basis by the FCI: 11/21/1955"
+        },
+        {
+          id: "hovawart-club-of-great-britain-breed-introduction",
+          role: "verified",
+          locator: "Breed Introduction, History (1947 German club, 1980 UK arrival, 1982 UK club), Description, and Characteristics"
+        },
+        {
+          id: "hovawart-club-of-great-britain-origins",
+          role: "verified",
+          locator: "Dr. Jens Kerl studbook research (Thale 1924 club, 1932 prototype sire Castor Meyer-Busch, 65% Typenhunde / 20.2% German Shepherd / 14.8% Newfoundland)"
+        },
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "verified",
+          locator: "FAQ: characteristics, roles (SAR, therapy, obedience, agility, flyball, service dog), <5% hip dysplasia rate, and defensive guarding"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "cited",
+          locator: "About the Breed and Did You Know? (October 2010 FSS recording)"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Original descriptions combine official working purpose, documented history and breed-club guidance without promising uniform behaviour in every individual."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     physical: {
       reliability: "official_standard",
       sources: [
-        { id: "fci-hovawart-official-standard", role: "verified", locator: "General Appearance, Head, Ears, Tail, Coat, Colour and Size" },
-        { id: "royal-kennel-club-hovawart-standard", role: "cited", locator: "General appearance, characteristics and temperament" }
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "General Appearance, Important Proportions (100:110 to 100:115), Head, Eyes, Ears, Neck, Body, Tail, Limbs, Skin (bluish vs. pink shimmer), Coat, Colour, Size (63–70 cm males, 58–65 cm females), and Disqualifying Faults"
+        },
+        {
+          id: "royal-kennel-club-hovawart-standard",
+          role: "verified",
+          locator: "General appearance, Head and skull, Mouth, Coat, Colour (Black, Blonde, Black/gold), and Size (63–70 cm / 30–40 kg dogs; 58–65 cm / 25–35 kg bitches)"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Height, coat structure, standard colours and conformation follow the current FCI standard. Weight and lifespan use separate claims."
+      verifiedOn: "2026-10-23",
+      note: "Height (63–70 cm males, 58–65 cm females), coat structure, and colour varieties follow FCI Standard No. 190 and The Royal Kennel Club standard."
     },
     "physical.weight": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
-        { id: "hovawart-club-of-great-britain-breed-introduction", role: "verified", locator: "Breed Introduction: males 30–40 kg, females 25–35 kg" }
+        {
+          id: "royal-kennel-club-hovawart-standard",
+          role: "verified",
+          locator: "Size: Weight: dogs: 30–40 kgs (66–88 lbs); bitches: 25–35 kgs (55–77 lbs)"
+        },
+        {
+          id: "hovawart-club-of-great-britain-breed-introduction",
+          role: "verified",
+          locator: "Description: Weight; Dogs 30–40 kg. Bitches 25–35 kg."
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "cited",
+          locator: "Weight: 65–90 pounds (29.5–40.8 kg)"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Breed-club reported weight ranges; the FCI standard itself specifies height, not weight. Individual body condition and build vary."
-    },
-    "physical.weight.male.max": {
-      reliability: "reliable_source",
-      sources: [
-        { id: "hovawart-club-of-great-britain-breed-introduction", role: "verified", locator: "Breed Introduction: male weight 30–40 kg" }
-      ],
-      verifiedOn: "2026-10-20",
-      note: "Maximum transcribed from the breed club's published typical male weight range."
-    },
-    "physical.weight.female.max": {
-      reliability: "reliable_source",
-      sources: [
-        { id: "hovawart-club-of-great-britain-breed-introduction", role: "verified", locator: "Breed Introduction: female weight 25–35 kg" }
-      ],
-      verifiedOn: "2026-10-20",
-      note: "Maximum transcribed from the breed club's published typical female weight range."
+      verifiedOn: "2026-10-23",
+      note: "Upgraded to official_standard: The Royal Kennel Club official breed standard explicitly specifies 30–40 kg (66–88 lbs) for males and 25–35 kg (55–77 lbs) for females."
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
-        { id: "hovawart-club-of-north-america-faq", role: "verified", locator: "FAQ: expected lifespan range of 10–14 years" }
+        {
+          id: "american-kennel-club-hovawart",
+          role: "verified",
+          locator: "Life Expectancy: 10–14 years"
+        },
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "verified",
+          locator: "FAQ: average lifespan in the 10 to 14-year range"
+        },
+        {
+          id: "royal-kennel-club-hovawart-profile",
+          role: "cited",
+          locator: "Breed characteristics: Lifespan Over 10 years"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "A broad 10–14 year estimate reported by a breed club, not a guaranteed lifespan or an independently measured population average."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     "physical.sheddingLevel": {
       reliability: "reliable_source",
       sources: [
-        { id: "royal-kennel-club-hovawart-profile", role: "verified", locator: "Breed characteristics: shedding and grooming requirements" },
-        { id: "hovawart-club-of-great-britain-care", role: "cited", locator: "Coat maintenance and regular brushing" }
+        {
+          id: "royal-kennel-club-hovawart-profile",
+          role: "verified",
+          locator: "Breed characteristics: Sheds Yes"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "verified",
+          locator: "Grooming: sparse undercoat, seasonal shedding period"
+        },
+        {
+          id: "hovawart-club-of-great-britain-care",
+          role: "cited",
+          locator: "Care and Grooming"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "The profile confirms shedding; the qualitative intensity varies by individual and season."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     "physical.droolingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No sufficiently reliable Hovawart-specific drooling level was established in the sources consulted."
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "Head — Lips: Tightly fitting"
+        },
+        {
+          id: "royal-kennel-club-hovawart-standard",
+          role: "verified",
+          locator: "Mouth: Tight lips; Neck: no dewlap"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "verified",
+          locator: "Breed Traits & Characteristics: Drooling Level (Less Likely to Drool)"
+        }
+      ],
+      verifiedOn: "2026-10-23",
+      note: "Populated from FCI Standard No. 190 and RKC standard ('Tightly fitting lips', 'no dewlap') and corroborated by the AKC breed profile."
     },
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
-        { id: "fci-hovawart-official-standard", role: "verified", locator: "Behaviour/Temperament and Utilization" },
-        { id: "royal-kennel-club-hovawart-standard", role: "verified", locator: "Characteristics and Temperament" },
-        { id: "hovawart-club-of-great-britain-breed-introduction", role: "cited", locator: "Temperament, independent judgement and activities" }
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "Behaviour / Temperament and Utilization"
+        },
+        {
+          id: "royal-kennel-club-hovawart-standard",
+          role: "verified",
+          locator: "Characteristics and Temperament"
+        },
+        {
+          id: "hovawart-club-of-great-britain-breed-introduction",
+          role: "cited",
+          locator: "Characteristics (2-year puppyhood maturation, stable temperament, unsuited to kennel life)"
+        },
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "cited",
+          locator: "Defensive guarding posture and owner guidance"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Breed tendencies are summarised from standards and breed-club information; individual temperament depends on genetics, upbringing, training and context."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     "temperament.scores": {
       reliability: "estimate",
       sources: [
-        { id: "fci-hovawart-official-standard", role: "cited", locator: "Behaviour/Temperament and working roles" },
-        { id: "hovawart-club-of-north-america-faq", role: "cited", locator: "Owner experience, guarding instinct and training demands" }
+        {
+          id: "fci-hovawart-official-standard",
+          role: "cited",
+          locator: "Behaviour / Temperament"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "cited",
+          locator: "Breed Traits & Characteristics"
+        },
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "cited",
+          locator: "Guarding instincts, children, and trainability"
+        }
       ],
       verifiedOn: null,
-      note: "DogLens editorial 1–5 estimates informed by breed descriptions; these are not standardised temperament-test scores."
+      note: "Editorial 1–5 ratings informed by official standards and breed-club guidance."
     },
     care: {
       reliability: "reliable_source",
       sources: [
-        { id: "royal-kennel-club-hovawart-profile", role: "verified", locator: "Exercise and grooming recommendations" },
-        { id: "hovawart-club-of-great-britain-care", role: "verified", locator: "Care and Grooming: coat maintenance, puppy exercise and enrichment" },
-        { id: "hovawart-club-of-great-britain-breed-introduction", role: "cited", locator: "Suitable activities and need for mental exercise" }
+        {
+          id: "royal-kennel-club-hovawart-profile",
+          role: "verified",
+          locator: "Breed characteristics: Exercise More than 2 hours per day; Grooming More than once a week"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "verified",
+          locator: "Exercise (at least a 1-hour walk plus 3–4 shorter walks daily), Grooming, and Training"
+        },
+        {
+          id: "hovawart-club-of-great-britain-care",
+          role: "verified",
+          locator: "Care and Grooming: long-pin slicker, rotating-tooth comb, mat-prone areas, puppy exercise, scent work, and weekly vet weigh-ins"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Care advice is breed-specific guidance that should be adapted to age, health, conditioning and the individual's temperament."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
       sources: [
-        { id: "royal-kennel-club-hovawart-profile", role: "cited", locator: "Breed characteristics: more than 2 hours of exercise per day" }
+        {
+          id: "royal-kennel-club-hovawart-profile",
+          role: "cited",
+          locator: "Breed characteristics: Exercise More than 2 hours per day"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "cited",
+          locator: "Exercise: at least a one-hour walk, plus 3 or 4 shorter walks daily"
+        }
       ],
       verifiedOn: null,
-      note: "The 120–150 minute range is an editorial planning estimate based on a breed-profile category of more than two hours, not a precise physiological requirement. Puppies need controlled age-appropriate exercise."
+      note: "The 120–150 minute range is an editorial planning estimate reflecting The Royal Kennel Club's '>2 hours per day' category and AKC's '1-hour walk plus 3–4 shorter daily walks' guideline for mature adults."
     },
     "care.grooming": {
       reliability: "reliable_source",
       sources: [
-        { id: "hovawart-club-of-great-britain-care", role: "verified", locator: "Regular thorough brushing; mat-prone areas behind ears, elbows and rear-leg feathering" },
-        { id: "royal-kennel-club-hovawart-profile", role: "cited", locator: "Grooming more than once a week and shedding" }
+        {
+          id: "hovawart-club-of-great-britain-care",
+          role: "verified",
+          locator: "Care and Grooming: long-pin slicker brush, rotating-tooth comb, mat-prone areas behind ears, elbows, and rear legs, and optional ear/foot trimming"
+        },
+        {
+          id: "royal-kennel-club-hovawart-profile",
+          role: "cited",
+          locator: "Breed characteristics: Grooming More than once a week"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "cited",
+          locator: "Grooming: fast-growing nails, ear checks, and tooth brushing"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Grooming descriptions reflect the long, feathered coat and practical breed-club maintenance advice."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     "care.training": {
       reliability: "reliable_source",
       sources: [
-        { id: "hovawart-club-of-north-america-faq", role: "verified", locator: "FAQ: owner experience, strong will and guarding instincts" },
-        { id: "hovawart-club-of-great-britain-care", role: "cited", locator: "Early handling, trust-building and mental enrichment" }
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "verified",
+          locator: "FAQ: guarding instincts, greeting visitors at the door, and 2-year maturation"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "verified",
+          locator: "Training: trust-based leadership and aversion to harsh methods"
+        },
+        {
+          id: "hovawart-club-of-great-britain-care",
+          role: "verified",
+          locator: "Care and Grooming: early handling, weekly vet weigh-ins, controlled puppy exercise, and full-on play style with other dogs"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Training guidance is tailored to the breed's size, intelligence and protective instincts."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     "care.livingEnvironment.apartmentSuitable": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
-        { id: "hovawart-club-of-north-america-faq", role: "cited", locator: "FAQ: space needs and preferred fenced running area" },
-        { id: "royal-kennel-club-hovawart-profile", role: "cited", locator: "Large home and garden guidance" }
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "verified",
+          locator: "FAQ: How much room does a hovawart need? ('Apartments are not typically large enough')"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "verified",
+          locator: "Exercise: 'Apartments are not typically large enough, or have room enough, for the desired activities.'"
+        },
+        {
+          id: "royal-kennel-club-hovawart-profile",
+          role: "cited",
+          locator: "Breed characteristics: Size of home Large house; Size of garden Large garden"
+        }
       ],
-      verifiedOn: null,
-      note: "Editorial assessment rather than a formal breed-standard restriction; space, exercise access and management matter."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
-        { id: "hovawart-club-of-north-america-faq", role: "cited", locator: "FAQ: preference for a large fenced yard or equivalent activities" }
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "verified",
+          locator: "FAQ: 'It is preferable to have a large fenced yard'"
+        },
+        {
+          id: "royal-kennel-club-hovawart-profile",
+          role: "verified",
+          locator: "Breed characteristics: Size of home Large house; Size of garden Large garden"
+        }
       ],
-      verifiedOn: null,
-      note: "A secure yard can help but does not replace companionship, training or daily activities."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     "care.livingEnvironment.climates": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
-        { id: "hovawart-club-of-great-britain-care", role: "cited", locator: "Coat, outdoor care and drying wet coats and paws" }
+        {
+          id: "hovawart-club-of-great-britain-breed-introduction",
+          role: "verified",
+          locator: "Characteristics: 'hardy dogs, inured to all weather'"
+        },
+        {
+          id: "hovawart-club-of-great-britain-care",
+          role: "verified",
+          locator: "Care and Grooming: 'very much an all-weather breed'"
+        }
       ],
-      verifiedOn: null,
-      note: "General management advice; heat tolerance varies by individual and climate."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No reliable quantitative breed-specific alone-time tolerance was established."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-hovawart",
+          role: "verified",
+          locator: "About the Breed: 'must be a part of the family life; it needs to bond closely with the owner/family. If it has been well integrated into the family, it does not mind spending the occasional hour in a kennel.'"
+        },
+        {
+          id: "hovawart-club-of-great-britain-breed-introduction",
+          role: "verified",
+          locator: "Characteristics: 'They are and should remain a family dog or working companion and are certainly not suited to a kennel life.'"
+        }
+      ],
+      verifiedOn: "2026-10-23",
+      note: null
     },
     nutrition: {
       reliability: "general_guidance",
       sources: [
-        { id: "hovawart-club-of-great-britain-care", role: "cited", locator: "Balanced diet, growth and weight management" }
+        {
+          id: "hovawart-club-of-great-britain-care",
+          role: "cited",
+          locator: "Care and Grooming: growth spurts, balanced diet, and accounting for training treats"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "cited",
+          locator: "Nutrition"
+        }
       ],
       verifiedOn: null,
-      note: "Nutritional advice is general guidance and should be individualised to age, body condition and veterinary needs."
+      note: null
     },
     "nutrition.feedingFrequency.puppy": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable Hovawart-specific puppy meal frequency was established."
+      note: "No fixed breed-specific puppy daily meal count is prescribed; breeders and veterinarians tailor puppy meal frequency to growth stage."
     },
     "nutrition.feedingFrequency.adult": {
       reliability: "general_guidance",
       sources: [
-        { id: "hovawart-club-of-great-britain-care", role: "cited", locator: "Balanced diet, treats and body-weight management" }
+        {
+          id: "hovawart-club-of-great-britain-care",
+          role: "cited",
+          locator: "Daily rations and weight management"
+        },
+        {
+          id: "hovawart-club-of-great-britain-health",
+          role: "cited",
+          locator: "Bloat (GDV) awareness and hypothyroidism weight gain"
+        }
       ],
       verifiedOn: null,
-      note: "No fixed number of meals is prescribed; use an individualised schedule and portion plan."
+      note: null
     },
     "nutrition.feedingFrequency.senior": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable Hovawart-specific senior meal frequency was established."
+      note: "No fixed breed-specific senior daily meal count is separately established."
     },
     health: {
       reliability: "reliable_source",
       sources: [
-        { id: "hovawart-club-of-great-britain-health", role: "verified", locator: "Health screening for hip dysplasia, thyroid function and degenerative myelopathy" },
-        { id: "royal-kennel-club-hovawart-profile", role: "cited", locator: "Pre-breeding health testing: hip dysplasia" },
-        { id: "hovawart-club-of-north-america-faq", role: "cited", locator: "General health and reported hip-health observations" }
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "Brief Historical Summary (selection since the 1960s on 'free of hip dysplasia')"
+        },
+        {
+          id: "hovawart-club-of-great-britain-health",
+          role: "verified",
+          locator: "Health tests for breeding (Hip Scores <=20 individual / <=25 combined, UK median 8/9; Thyroid panel Total T4, Free T4, cTSH, TgAA within 2 years; DM SOD1 DNA test) and Bloat (GDV)"
+        },
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "verified",
+          locator: "FAQ: hip dysplasia rate <5%, OFA Good/Excellent hips at >=24 months, annual eye exam, full thyroid panel, and temperament test at >=20 months"
+        },
+        {
+          id: "mandrioli-2021-hovawart-degenerative-myelopathy",
+          role: "verified",
+          locator: "Abstract: SOD1:c.118G>A (p.E40K) homozygosity and mutant SOD1 spinal cord accumulation in affected Hovawarts aged 9–12 years"
+        },
+        {
+          id: "ahlgren-uimari-2016-hovawart-hypothyroidism",
+          role: "verified",
+          locator: "Abstract & Background: heritability of hypothyroidism h² = 0.47–0.62 in 4,953 Finnish Hovawarts; 13% prevalence in Swedish Hovawarts (Ferm et al., 2009)"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "The listed items reflect screening and management topics in breed-club guidance. Reported hip-health outcomes differ by population and do not guarantee an individual dog's health."
-    },
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [
-        { id: "hovawart-club-of-great-britain-health", role: "cited", locator: "Health screening and early recognition guidance" },
-        { id: "hovawart-club-of-great-britain-care", role: "cited", locator: "Routine coat, ear, dental and body-condition checks" }
-      ],
-      verifiedOn: null,
-      note: "General preventive guidance combined with breed-specific screening recommendations."
+      verifiedOn: "2026-10-23",
+      note: "Combines FCI Standard No. 190, UK and North American breed-club screening rules (BVA/KC hip score <=20 / combined <=25 or OFA Good/Excellent, thyroid panel with TgAA, SOD1 DM DNA testing, and annual CAER/ophthalmologist eye exam), and peer-reviewed studies on hypothyroidism heritability (Åhlgren & Uimari, 2016) and degenerative myelopathy (Mandrioli et al., 2021)."
     },
     "health.dentalCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
-        { id: "hovawart-club-of-great-britain-care", role: "cited", locator: "Teeth cleaning as part of routine handling" }
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "Jaws/Teeth: strong scissor bite with 42 teeth"
+        },
+        {
+          id: "hovawart-club-of-great-britain-care",
+          role: "verified",
+          locator: "Care and Grooming: daily tooth-cleaning routine from puppyhood"
+        },
+        {
+          id: "hovawart-club-of-great-britain-health",
+          role: "cited",
+          locator: "Dental case reports (tooth fracture from knuckle bone and hidden root abscess)"
+        }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-23",
       note: null
     },
     "health.earCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
-        { id: "hovawart-club-of-great-britain-care", role: "cited", locator: "Routine ear checks and debris" }
+        {
+          id: "hovawart-club-of-great-britain-care",
+          role: "verified",
+          locator: "Care and Grooming: checking ears for grass seeds"
+        },
+        {
+          id: "hovawart-club-of-great-britain-health",
+          role: "verified",
+          locator: "Common Symptoms of Hypothyroidism: chronic ear infections"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "cited",
+          locator: "Grooming: regular ear checks for wax and debris"
+        }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-23",
       note: null
     },
     "health.skinCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
-        { id: "hovawart-club-of-great-britain-care", role: "cited", locator: "Skin checks during grooming and drying wet coats" }
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "Skin: bluish shimmer in black & tan and black dogs; pink shimmer in blond dogs"
+        },
+        {
+          id: "hovawart-club-of-great-britain-care",
+          role: "verified",
+          locator: "Care and Grooming: checking skin during grooming for cuts, bruises, dry skin, fleas, ticks, and grass seeds; drying wet coats and paws"
+        }
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-23",
       note: null
     },
     suitability: {
       reliability: "estimate",
       sources: [
-        { id: "hovawart-club-of-north-america-faq", role: "cited", locator: "Ideal owner and first-time owner advice" },
-        { id: "royal-kennel-club-hovawart-profile", role: "cited", locator: "Exercise, space and working-breed profile" }
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "cited",
+          locator: "FAQ: first-time owners, ideal owner, space needs, children, and guarding instincts"
+        },
+        {
+          id: "hovawart-club-of-great-britain-breed-introduction",
+          role: "cited",
+          locator: "Characteristics: family companion vs. unsuitability for kennel life"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "cited",
+          locator: "About the Breed and Exercise"
+        }
       ],
       verifiedOn: null,
-      note: "Suitability descriptions are editorial guidance; a dog's individual behaviour, household experience and management matter more than a general label."
+      note: "Suitability flags synthesize parent-club and kennel-club guidance; familiesWithChildren is true for well-socialised dogs in households that provide adult supervision."
     },
     "suitability.firstTimeOwners": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
-        { id: "hovawart-club-of-north-america-faq", role: "cited", locator: "FAQ: suitability for first-time owners" }
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "verified",
+          locator: "FAQ: 'We do not usually recommend them for first-time owners'"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "verified",
+          locator: "About the Breed: 'they are not recommended for first-time dog owners'"
+        }
       ],
-      verifiedOn: null,
-      note: "Set to false as an editorial caution because the club describes the breed as challenging for novice owners; exceptions depend on support and preparation."
-    },
-    "suitability.familiesWithChildren": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "A breed-wide boolean would overstate predictability; suitability depends on the individual dog, children, socialisation and adult supervision."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable breed-specific yes/no suitability value for senior owners was established."
+      note: "No blanket breed-specific boolean for senior owners is established; suitability depends on physical strength and activity level."
     },
     funFacts: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
-        { id: "fci-hovawart-official-standard", role: "verified", locator: "Brief Historical Summary, General Appearance, Coat and Colour" },
-        { id: "fci-hovawart-nomenclature", role: "cited", locator: "Breed recognition and colour varieties" },
-        { id: "hovawart-club-of-great-britain-breed-introduction", role: "cited", locator: "History and name meaning" }
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "Brief Historical Summary (Middle High German etymology, 1960s hip-dysplasia selection) and Skin (bluish vs. pink shimmer)"
+        },
+        {
+          id: "hovawart-club-of-great-britain-breed-introduction",
+          role: "verified",
+          locator: "Description (all three colours occurring in the same litter) and Characteristics (retaining puppyhood until at least 2 years old)"
+        },
+        {
+          id: "hovawart-club-of-great-britain-origins",
+          role: "verified",
+          locator: "Dr. Jens Kerl studbook findings (1932 sire Castor Meyer-Busch; 65% Typenhunde, 20.2% German Shepherd, 14.8% Newfoundland)"
+        },
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "verified",
+          locator: "FAQ: hip dysplasia rates calculated at less than 5%"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "Facts are checked against breed-standard and breed-club references and phrased in original wording."
+      verifiedOn: "2026-10-23",
+      note: null
     },
     faq: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
-        { id: "fci-hovawart-official-standard", role: "verified", locator: "Height, colour, coat and temperament" },
-        { id: "royal-kennel-club-hovawart-profile", role: "verified", locator: "Exercise and health-screening overview" },
-        { id: "hovawart-club-of-great-britain-breed-introduction", role: "cited", locator: "Height and weight" },
-        { id: "hovawart-club-of-great-britain-health", role: "cited", locator: "Breeding-health tests" },
-        { id: "hovawart-club-of-great-britain-care", role: "cited", locator: "Grooming and exercise advice" },
-        { id: "hovawart-club-of-north-america-faq", role: "cited", locator: "First-time owner advice and household behaviour" }
+        {
+          id: "fci-hovawart-official-standard",
+          role: "verified",
+          locator: "Colour and Size (63–70 cm males, 58–65 cm females)"
+        },
+        {
+          id: "royal-kennel-club-hovawart-standard",
+          role: "verified",
+          locator: "Size (63–70 cm / 30–40 kg dogs; 58–65 cm / 25–35 kg bitches)"
+        },
+        {
+          id: "hovawart-club-of-great-britain-breed-introduction",
+          role: "verified",
+          locator: "All three colours in the same litter; height and weight"
+        },
+        {
+          id: "hovawart-club-of-great-britain-health",
+          role: "verified",
+          locator: "Hip scoring, thyroid testing, and DM DNA testing"
+        },
+        {
+          id: "hovawart-club-of-north-america-faq",
+          role: "verified",
+          locator: "First-time owner guidance, size (up to 28 in / 100 lbs), defensive guarding, children, and pre-breeding screenings"
+        },
+        {
+          id: "american-kennel-club-hovawart",
+          role: "cited",
+          locator: "Exercise (1-hour walk plus 3–4 shorter daily walks)"
+        }
       ],
-      verifiedOn: "2026-10-20",
-      note: "FAQ answers summarise standard measurements and current club care/screening guidance without copying source prose."
+      verifiedOn: "2026-10-23",
+      note: null
     }
   },
-  updatedOn: "2026-10-20"
+  updatedOn: "2026-10-23"
 };

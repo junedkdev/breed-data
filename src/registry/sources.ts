@@ -2548,29 +2548,29 @@ export const sources = defineSources({
     note: "Genomic and mitochondrial study (PMID: 36669378) of eight Mediterranean hound breeds demonstrating that the Cirneco dell'Etna and Kelb tal-Fenek cluster with European/Mediterranean warren hounds and are genetically divergent from modern Egyptian street dogs.",
     publisher: "Research in Veterinary Science / PubMed"
   },
-  "fci-hovawart-official-standard": {
+"fci-hovawart-official-standard": {
     id: "fci-hovawart-official-standard",
     name: "FCI Standard No. 190 — Hovawart",
     publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/nomenclature/Standards/190g02-en.pdf",
     type: "official_breed_standard",
     commercialUse: "reference_only",
-    publishedOn: "2025-03-28",
-    accessedOn: "2026-10-20",
-    note: "Official valid FCI breed standard No. 190; used for classification, origin, history, temperament, coat colours, height and conformation."
+    publishedOn: "2025-03-21",
+    accessedOn: "2026-10-23",
+    note: "FCI Standard No. 190 (English PDF dated 2025-03-28; official valid standard published 2025-03-21). Used to verify FCI Group 2 Section 2.2 classification with working trial, German origin, Middle High German name etymology (Hova = Hof, wart = Wächter), 1922 reconstruction, 1937 breed recognition, 1964 working-dog recognition, 100:110–100:115 height-to-length ratio, 42-tooth scissor/pincer bite, skin shimmer (bluish in black/black-and-tan, pink in blond), three coat colour varieties, height (63–70 cm males, 58–65 cm females), and disqualifying faults."
   },
-  "fci-hovawart-nomenclature": {
+"fci-hovawart-nomenclature": {
     id: "fci-hovawart-nomenclature",
-    name: "FCI Nomenclature — Hovawart",
+    name: "FCI Nomenclature — Hovawart (190)",
     publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/en/nomenclature/HOVAWART-190.html",
     type: "breed_registry",
     commercialUse: "reference_only",
-    publishedOn: "2025-03-28",
-    accessedOn: "2026-10-20",
-    note: "FCI registry entry confirming Hovawart No. 190, German origin, classification, recognition history and the three standard colour varieties."
+    publishedOn: "2025-03-21",
+    accessedOn: "2026-10-23",
+    note: "FCI nomenclature entry for breed No. 190 confirming definitive recognition on 1955-11-21, German origin, official valid standard date 2025-03-21 (published 2025-03-28), working trial requirement, and three CACIB varieties (Black-Gold, Black, Blond)."
   },
-  "royal-kennel-club-hovawart-standard": {
+"royal-kennel-club-hovawart-standard": {
     id: "royal-kennel-club-hovawart-standard",
     name: "The Royal Kennel Club — Hovawart Breed Standard",
     publisher: "The Royal Kennel Club",
@@ -2578,10 +2578,10 @@ export const sources = defineSources({
     type: "official_breed_standard",
     commercialUse: "reference_only",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-10-20",
-    note: "UK breed standard last updated 1 April 2025; cross-checked conformation, temperament and working-dog characteristics."
+    accessedOn: "2026-10-23",
+    note: "Official UK breed standard (Working Group, last updated 2025-04-01), verifying conformation, temperament, colour markings (Black, Blonde, Black/gold), height (63–70 cm dogs, 58–65 cm bitches), and official weight ranges (30–40 kg / 66–88 lbs dogs; 25–35 kg / 55–77 lbs bitches)."
   },
-  "royal-kennel-club-hovawart-profile": {
+"royal-kennel-club-hovawart-profile": {
     id: "royal-kennel-club-hovawart-profile",
     name: "The Royal Kennel Club — Hovawart Breed Profile",
     publisher: "The Royal Kennel Club",
@@ -2589,10 +2589,10 @@ export const sources = defineSources({
     type: "kennel_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed profile with exercise, grooming, shedding, lifespan, colour and pre-breeding hip-screening guidance."
+    accessedOn: "2026-10-23",
+    note: "UK kennel-club breed profile confirming Working Group placement, Breed Watch Category 1 status, 1936 German Kennel Club recognition, exercise guideline (>2 hours/day), grooming (>once/week), shedding, lifespan (>10 years), and Best Practice BVA/KC Hip Dysplasia Scheme screening."
   },
-  "hovawart-club-of-great-britain-breed-introduction": {
+"hovawart-club-of-great-britain-breed-introduction": {
     id: "hovawart-club-of-great-britain-breed-introduction",
     name: "Hovawart Club of Great Britain — Breed Introduction",
     publisher: "Hovawart Club of Great Britain",
@@ -2600,21 +2600,21 @@ export const sources = defineSources({
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed-club account of historical development, guarding purpose, height and weight ranges, temperament and suitable activities."
+    accessedOn: "2026-10-23",
+    note: "UK breed-club introduction detailing Harz, Black Forest and Odenwald origins, Kurt König's post-WWI reconstruction, 1947 postwar club formation, 1980 UK arrival and 1982 UK club founding, all three colours occurring in a single litter, 2-year maturation, height (63–70 cm / 58–65 cm) and weight (30–40 kg / 25–35 kg)."
   },
-  "hovawart-club-of-great-britain-health": {
+"hovawart-club-of-great-britain-health": {
     id: "hovawart-club-of-great-britain-health",
-    name: "Hovawart Club of Great Britain — Health",
+    name: "Hovawart Club of Great Britain — Health & Breeding Code of Ethics",
     publisher: "Hovawart Club of Great Britain",
     url: "https://www.hovawart.org.uk/owning/health/",
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed-club health guidance covering hip scoring, thyroid testing and degenerative myelopathy DNA testing for breeding dogs."
+    accessedOn: "2026-10-23",
+    note: "UK breed-club health page and Code of Ethics (Clauses 15.3–15.5) requiring pre-breeding hip scoring (maximum individual BVA score 20, maximum combined parent score 25; UK breed median 8–9), thyroid testing within 2 years of mating (Total T4, Free T4, cTSH, and TgAA; tested halfway between seasons in bitches and >=30–45 days post-vaccination), and Degenerative Myelopathy (SOD1) DNA testing to avoid producing homozygous DM/DM offspring, plus GDV/bloat awareness."
   },
-  "hovawart-club-of-great-britain-care": {
+"hovawart-club-of-great-britain-care": {
     id: "hovawart-club-of-great-britain-care",
     name: "Hovawart Club of Great Britain — Care and Grooming",
     publisher: "Hovawart Club of Great Britain",
@@ -2622,19 +2622,19 @@ export const sources = defineSources({
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed-club care advice covering grooming, enrichment, controlled exercise during growth, coat checks, handling and dental routines."
+    accessedOn: "2026-10-23",
+    note: "UK breed-club care guide covering long-pin slicker and rotating-tooth comb brushing, mat-prone zones (behind ears, elbow feathers, rear-leg feathering), optional ear/foot hair trimming to reduce grass seeds and mud, growth-spurt nutrition, controlled puppy exercise, scent work, and weekly puppy veterinary weighing visits."
   },
-  "hovawart-club-of-north-america-faq": {
+"hovawart-club-of-north-america-faq": {
     id: "hovawart-club-of-north-america-faq",
     name: "Hovawart Club of North America — Frequently Asked Questions",
-    publisher: "Hovawart Club of North America",
+    publisher: "Hovawart Club of North America (HCNA)",
     url: "https://www.hovawartclub.org/hovawart-faq.html",
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Parent-club FAQ on owner experience, working and guarding instincts, space needs, common breed traits and reported hip-health observations."
+    accessedOn: "2026-10-23",
+    note: "North American parent-club FAQ covering suitability for first-time owners, space needs, defensive vs. aggressive guarding instincts, 10–14 year lifespan, <5% hip dysplasia rate, and HCNA breeding requirements (two Very Good/Excellent conformation ratings, temperament test at >=20 months, OFA Good or Excellent hips at >=24 months, annual eye exam, full thyroid panel, and Breeding Director approval for genetic diversity)."
   },
   "societe-centrale-canine-braque-francais-type-gascogne": {
     id: "societe-centrale-canine-braque-francais-type-gascogne",
@@ -6557,6 +6557,138 @@ export const sources = defineSources({
     publishedOn: "2021-01-04",
     accessedOn: "2026-10-23",
     note: "Open-access epidemiological study of 13,292 canine sera collected in Lazio, central Italy (2010–2014), finding that autochthonous Maremma Sheepdogs and long-coated dogs had significantly lower odds of Leishmania infantum seropositivity compared with non-autochthonous breeds (OR = 1.9 for other breeds vs. Maremma Sheepdog, p < 0.001)."
+  },
+  "fci-portuguese-water-dog-standard": {
+    id: "fci-portuguese-water-dog-standard",
+    name: "FCI — Standard No. 37: Portuguese Water Dog",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/037g08-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2008-11-04",
+    accessedOn: "2026-10-24",
+    note:
+      "Official valid standard publication date is 4 November 2008; the English PDF bears the date 30 March 2009.",
+  },
+  "portuguese-kennel-club-portuguese-water-dog": {
+    id: "portuguese-kennel-club-portuguese-water-dog",
+    name: "Clube Português de Canicultura — Portuguese Water Dog",
+    publisher: "Clube Português de Canicultura",
+    url: "https://www.cpc.pt/en/breeds/portuguese-breeds/portuguese-water-dog/",
+    type: "breed_registry",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Portuguese breed profile with FCI classification, measurements and historical summary.",
+  },
+  "american-kennel-club-portuguese-water-dog": {
+    id: "american-kennel-club-portuguese-water-dog",
+    name: "American Kennel Club — Portuguese Water Dog",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/portuguese-water-dog/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Breed overview, coat and grooming information, and national breed-club health-testing recommendations.",
+  },
+  "portuguese-water-dog-club-of-america-health": {
+    id: "portuguese-water-dog-club-of-america-health",
+    name: "Portuguese Water Dog Club of America — Health Overview",
+    publisher: "Portuguese Water Dog Club of America",
+    url: "https://www.pwdca.org/site_page.cfm?pk_association_webpage_menu=8889",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Breed-club overview of reported health issues and recommended pre-breeding evaluations and genetic tests.",
+  },
+  "portuguese-water-dog-club-of-america-care": {
+    id: "portuguese-water-dog-club-of-america-care",
+    name: "Portuguese Water Dog Club of America — Breed and Owner Guidance",
+    publisher: "Portuguese Water Dog Club of America",
+    url: "https://www.pwdca.org/site_page.cfm?pk_association_webpage=18419&pk_association_webpage_menu=8856",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note:
+      "Owner guidance on activity, training, family life, grooming, shedding and allergy considerations.",
+  },
+  "american-kennel-club-hovawart": {
+    id: "american-kennel-club-hovawart",
+    name: "American Kennel Club — Hovawart Breed Information",
+    publisher: "American Kennel Club (AKC)",
+    url: "https://www.akc.org/dog-breeds/hovawart/",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "AKC Foundation Stock Service breed profile (recorded in FSS since October 2010, assigned to the Working Group) listing height (23–28 in), weight (65–90 lbs), lifespan (10–14 years), low drooling level, exercise needs (at least a 1-hour walk plus 3–4 shorter daily walks), and hip dysplasia rates under 5%."
+  },
+  "hovawart-club-of-great-britain-origins": {
+    id: "hovawart-club-of-great-britain-origins",
+    name: "Hovawart Club of Great Britain — Origins of the Hovawart (Dr. Jens Kerl Studbook Research)",
+    publisher: "Hovawart Club of Great Britain",
+    url: "https://www.hovawart.org.uk/about/origins-of-the-hovawart/",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-23",
+    note: "Summary of archival studbook research by Dr. Jens Kerl presented at the International Hovawart Federation (IHF) centenary, showing that Kurt König founded the Hovawart-Verein für Deutsche Schutzhunde in Thale in January 1924, that all modern lines trace to the 1932 sire Castor Meyer-Busch, and that modern bloodlines comprise ~65% regional farm 'Typenhunde', 20.2% German Shepherd Dog, and 14.8% Newfoundland (with Kuvasz used only in pre-WWI trials lost in the war)."
+  },
+  "mandrioli-2021-hovawart-degenerative-myelopathy": {
+    id: "mandrioli-2021-hovawart-degenerative-myelopathy",
+    name: "Degenerative Myelopathy in Hovawart Dogs: Molecular Characterization, Pathological Features and Accumulation of Mutant Superoxide Dismutase 1 Protein (Journal of Comparative Pathology, 2021)",
+    publisher: "Journal of Comparative Pathology / PubMed (PMID: 33494906)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/33494906/",
+    type: "scientific_publication",
+    commercialUse: "reference_only",
+    publishedOn: "2021-01-15",
+    accessedOn: "2026-10-23",
+    note: "Mandrioli et al. (2021, doi:10.1016/j.jcpa.2020.11.006) molecular and neuropathological study of Hovawart dogs aged 9–12 years with progressive pelvic-limb ataxia and paraparesis, confirming homozygosity for SOD1:c.118G>A (p.E40K) and mutant SOD1 accumulation in spinal cord neurons and astrocytes without the SP110 risk haplotype."
+  },
+  "ahlgren-uimari-2016-hovawart-hypothyroidism": {
+    id: "ahlgren-uimari-2016-hovawart-hypothyroidism",
+    name: "Heritability of hypothyroidism in the Finnish Hovawart population (Acta Veterinaria Scandinavica, 2016)",
+    publisher: "Acta Veterinaria Scandinavica / PubMed Central (PMCID: PMC4897810; PMID: 27267591)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4897810/",
+    type: "scientific_publication",
+    commercialUse: "commercial_use",
+    publishedOn: "2016-06-07",
+    accessedOn: "2026-10-23",
+    note: "Open-access genetic study (Åhlgren & Uimari, 2016, CC BY 4.0) of 4,953 Finnish Hovawarts born 1990–2010 estimating moderate-to-high heritability for hypothyroidism (h² = 0.47 via REML to 0.62 via Bayesian Gibbs sampling) and noting a 13% prevalence of autoimmune lymphocytic thyroiditis markers in Swedish Hovawarts (Ferm et al., 2009)."
+  },
+  "wikimedia-hovawart-three-colours-oxborrow": {
+    id: "wikimedia-hovawart-three-colours-oxborrow",
+    name: "Wikimedia Commons — File:The three colours of the Hovawart.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:The_three_colours_of_the_Hovawart.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2009-06-13",
+    accessedOn: "2026-10-23",
+    note: "Photograph showing all three permitted coat colours of the Hovawart (black and gold, blond, and black) by Oxborrow, captured 2009-03-03 (Canon EOS 400D) and uploaded 2009-06-13, 3,888 × 2,592 pixels, released into the public domain worldwide."
+  },
+  "wikimedia-hovawart-lenka-losch": {
+    id: "wikimedia-hovawart-lenka-losch",
+    name: "Wikimedia Commons — File:Hovawart-Hündin Lenka IMG 9368.JPG",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Hovawart-H%C3%BCndin_Lenka_IMG_9368.JPG",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2012-05-20",
+    accessedOn: "2026-10-23",
+    note: "Photograph of blond adult female Hovawart 'Lenka' in Isernhagen, Germany, by losch (l.schmiegel), captured 2008-05-13 (Canon EOS 400D) and uploaded 2012-05-20 at 2,000 × 1,333 pixels (EXIF pre-resize dimensions 3,888 × 2,592 pixels), licensed under CC BY-SA 3.0 Unported."
+  },
+  "wikimedia-hovawart-black-and-tan-faigl": {
+    id: "wikimedia-hovawart-black-and-tan-faigl",
+    name: "Wikimedia Commons — File:Hovawart black and tan.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Hovawart_black_and_tan.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2006-04-30",
+    accessedOn: "2026-10-23",
+    note: "Photograph of a black-and-gold (schwarzmarken) Hovawart by Ladislav Faigl (Faigl.ladislav), uploaded 2006-04-30, 640 × 480 pixels, licensed under CC BY-SA 3.0 Unported (and dual-licensed under GFDL 1.2+)."
   },
 });
 

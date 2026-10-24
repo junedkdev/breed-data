@@ -27,8 +27,8 @@
 24:artois_hound - CG
 25:old_danish_pointer - CG
 26:maremma_sheepdog - CG
+27:hovawart - CG
 
-27:hovawart - C
 28:american_english_coonhound - C
 29:english_setter - C
 30:pyrenean_mastiff - C
@@ -68,8 +68,7 @@
 64:finnish_hound - C
 65:aidi - C
 66:puli - C
-
-67:portuguese_water_dog - R
+67:portuguese_water_dog - C
 
 68:chinese_crested_dog
 69:griffon_bleu_de_gascogne

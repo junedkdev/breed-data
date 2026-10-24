@@ -71,6 +71,7 @@ import { welsh_terrier } from "./welsh_terrier";
 import { finnish_hound } from "./finnish_hound";
 import { aidi } from "./aidi";
 import { puli } from "./puli";
+import { portuguese_water_dog } from "./portuguese_water_dog";
 
 
 export const breedData: readonly Breed[] = [
@@ -141,4 +142,5 @@ export const breedData: readonly Breed[] = [
   finnish_hound,
   aidi,
   puli,
+  portuguese_water_dog,
 ];
