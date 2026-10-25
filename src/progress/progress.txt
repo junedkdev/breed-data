@@ -32,8 +32,7 @@
 29:english_setter - CG
 30:pyrenean_mastiff - CG
 31:tibetan_terrier - CG
-
-32:blackmouth_cur - CR
+32:blackmouth_cur - CG
 
 33:german_rough-haired_pointer - C
 34:tyrolean_hound - C
@@ -78,8 +77,7 @@
 73:english_toy_terrier_(black_&_tan) - C
 74:clumber_spaniel - C
 75:broholmer - C
-
-76:manchester_terrier - R
+76:manchester_terrier - C
 
 77:spinone_italiano
 78:mudi

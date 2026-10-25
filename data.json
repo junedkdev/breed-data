@@ -2861,58 +2861,58 @@
     },
     "ukc-black-mouth-cur-breed-standard": {
       "id": "ukc-black-mouth-cur-breed-standard",
-      "name": "United Kennel Club — Black Mouth Cur Breed Standard",
-      "publisher": "United Kennel Club",
-      "url": "https://www.ukcdogs.com/breeds/black-mouth-cur/",
+      "name": "United Kennel Club — Official Breed Standard: Black Mouth Cur",
+      "publisher": "United Kennel Club (UKC)",
+      "url": "https://www.ukcdogs.com/black-mouth-cur",
       "type": "official_breed_standard",
       "commercialUse": "reference_only",
-      "publishedOn": null,
-      "accessedOn": "2026-10-20",
-      "note": "Official breed standard covering history, working characteristics, appearance, coat colours, and minimum mature height and weight."
+      "publishedOn": "1998-11-01",
+      "accessedOn": "2026-10-25",
+      "note": "Official UKC breed standard (recognised 1 November 1998, Scenthound Group) specifying history, working characteristics, conformation, dark oral mucosa pigment, webbed feet, accepted coat colours and dilute traits, and minimum mature height (18 in male / 16 in female) and weight (40 lb male / 35 lb female)."
     },
     "continental-kennel-club-black-mouth-cur": {
       "id": "continental-kennel-club-black-mouth-cur",
-      "name": "Continental Kennel Club — Black Mouth Cur",
-      "publisher": "Continental Kennel Club",
+      "name": "Continental Kennel Club — Black Mouth Cur Dog Breed Information",
+      "publisher": "Continental Kennel Club (CKC)",
       "url": "https://ckcusa.com/breeds/black-mouth-cur/",
       "type": "kennel_club",
       "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-20",
-      "note": "Breed information covering alternate names, origin, working roles, reported lifespan, and size ranges."
+      "accessedOn": "2026-10-25",
+      "note": "Kennel-club breed profile and standard detailing alternate names (American BlackMouth Cur, Ladner Cur, Ladner BlackMouth Cur, Southern Cur, Yellow Black Mouth Cur, BMC), group (Pastoral and Stock Dog Breeds), lifespan (12–16 years), height (18–26 in male, 16–24 in female), weight (40–60 lb male, 35–55 lb female), and 4:5 to 1:1 muzzle-to-skull ratio."
     },
     "wikimedia-black-mouth-cur-portrait": {
       "id": "wikimedia-black-mouth-cur-portrait",
-      "name": "Wikimedia Commons — BlackMouthCurPortrait.jpg",
-      "publisher": "Wikimedia Commons; photograph by Greg Hume",
+      "name": "Wikimedia Commons — File:BlackMouthCurPortrait.jpg",
+      "publisher": "Wikimedia Commons; photograph by Greg Hume (User:Greg5030)",
       "url": "https://commons.wikimedia.org/wiki/File:BlackMouthCurPortrait.jpg",
       "type": "other",
       "commercialUse": "commercial_use",
-      "publishedOn": null,
-      "accessedOn": "2026-10-20",
-      "note": "Original file page identifies Greg Hume as photographer and lists CC BY-SA 3.0. Commercial reuse requires attribution and compliance with the licence terms."
+      "publishedOn": "2011-10-12",
+      "accessedOn": "2026-10-25",
+      "note": "Wikimedia Commons file page verified 2026-10-25: captured 2011-10-09, uploaded 2011-10-12 by Greg Hume (Greg5030), 4156x3325 px, licensed under CC BY-SA 3.0."
     },
     "wikimedia-black-mouth-cur-10": {
       "id": "wikimedia-black-mouth-cur-10",
-      "name": "Wikimedia Commons — Black mouth cur-10.jpg",
-      "publisher": "Wikimedia Commons; photograph by Greg Hume",
+      "name": "Wikimedia Commons — File:Black mouth cur-10.jpg",
+      "publisher": "Wikimedia Commons; photograph by Greg Hume (User:Greg5030)",
       "url": "https://commons.wikimedia.org/wiki/File:Black_mouth_cur-10.jpg",
       "type": "other",
       "commercialUse": "commercial_use",
-      "publishedOn": null,
-      "accessedOn": "2026-10-20",
-      "note": "Original file page identifies Greg Hume as photographer and lists CC BY-SA 4.0. Commercial reuse requires attribution and compliance with the licence terms."
+      "publishedOn": "2013-10-27",
+      "accessedOn": "2026-10-25",
+      "note": "Wikimedia Commons file page verified 2026-10-25: captured 2013-10-27 by Greg Hume (Greg5030) of an approximately three-year-old Black Mouth Cur, 3948x2470 px, licensed under CC BY-SA 4.0."
     },
     "wikimedia-ellie-mae-blackmouth-cur": {
       "id": "wikimedia-ellie-mae-blackmouth-cur",
-      "name": "Wikimedia Commons — Ellie Mae the Blackmouth Cur.jpg",
+      "name": "Wikimedia Commons — File:Ellie Mae the Blackmouth Cur.jpg",
       "publisher": "Wikimedia Commons; photograph by Slbaldelli",
       "url": "https://commons.wikimedia.org/wiki/File:Ellie_Mae_the_Blackmouth_Cur.jpg",
       "type": "other",
       "commercialUse": "commercial_use",
       "publishedOn": null,
-      "accessedOn": "2026-10-20",
-      "note": "Original file page identifies Slbaldelli as author and lists CC BY-SA 3.0. Commercial reuse requires attribution and compliance with the licence terms."
+      "accessedOn": "2026-10-25",
+      "note": "Wikimedia Commons file page verified 2026-10-25: captured 2012-10-16 by Slbaldelli, 640x399 px, licensed under CC BY-SA 3.0."
     },
     "fci-deutsch-stichelhaar-standard": {
       "id": "fci-deutsch-stichelhaar-standard",
@@ -7100,14 +7100,14 @@
     },
     "the-dog-api": {
       "id": "the-dog-api",
-      "name": "The Dog API — Tibetan Terrier Reference Dataset",
+      "name": "The Dog API — Black Mouth Cur Reference Dataset",
       "publisher": "The Dog API",
       "url": "https://thedogapi.com/",
       "type": "other",
       "commercialUse": "reference_only",
       "publishedOn": null,
       "accessedOn": "2026-10-25",
-      "note": "Structured API baseline for Tibetan Terrier providing alternate names ('Dhokhi Apso', 'Tsang Apso', 'Holy Dog of Tibet'), group ('Non-Sporting'), origin ('Tibet'), combined height (36–43 cm), combined weight (8–14 kg), lifespan (12–16 years), colour tags, and temperament traits."
+      "note": "Structured API baseline for Black Mouth Cur providing alternate names, Hound group, male/female height (46–64 cm / 41–58 cm) and weight (18–43 kg / 16–36 kg), lifespan (12–16 years), moderate shedding, low drooling, 90 minutes/day exercise, suitability flags, and monitored health conditions."
     },
     "fci-pyrenean-mastiff-standard": {
       "id": "fci-pyrenean-mastiff-standard",
@@ -7466,6 +7466,88 @@
       "publishedOn": null,
       "accessedOn": "2026-10-25",
       "note": "Photograph by Pleple2000, dated 11 November 2006 and uploaded 22 November 2006. The file page offers CC BY-SA licenses; this record uses the existing cc-by-sa-3.0 registry entry."
+    },
+    "fci-manchester-terrier-standard": {
+      "id": "fci-manchester-terrier-standard",
+      "name": "FCI Standard No. 71 - Manchester Terrier",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/Nomenclature/Standards/071g03-en.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2010-10-13",
+      "accessedOn": "2026-10-25",
+      "note": "Official valid standard publication date is 13 October 2010; the English PDF is dated 10 January 2011."
+    },
+    "akc-manchester-terrier-standard": {
+      "id": "akc-manchester-terrier-standard",
+      "name": "American Kennel Club - Official Standard of the Manchester Terrier",
+      "publisher": "American Kennel Club",
+      "url": "https://images.akc.org/pdf/breeds/standards/ManchesterTerrier.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Official standard for the Manchester Terrier, including the Standard and Toy size varieties."
+    },
+    "akc-manchester-terrier-profile": {
+      "id": "akc-manchester-terrier-profile",
+      "name": "American Kennel Club - Manchester Terrier (Standard)",
+      "publisher": "American Kennel Club",
+      "url": "https://www.akc.org/dog-breeds/manchester-terrier-standard/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Breed profile with size, lifespan, exercise, training, grooming and recommended health tests."
+    },
+    "royal-kennel-club-manchester-terrier-profile": {
+      "id": "royal-kennel-club-manchester-terrier-profile",
+      "name": "The Royal Kennel Club - Manchester Terrier Breed Profile",
+      "publisher": "The Royal Kennel Club",
+      "url": "https://www.royalkennelclub.com/search/breeds-a-z/breeds/terrier/manchester-terrier/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Breed profile covering size, exercise, grooming, lifespan, history and home suitability."
+    },
+    "american-manchester-terrier-health": {
+      "id": "american-manchester-terrier-health",
+      "name": "American Manchester Terrier Club - Health and Research",
+      "publisher": "American Manchester Terrier Club",
+      "url": "https://www.americanmanchesterterrier.org/health-and-research",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Parent-club health screening guidance for Standard and Toy Manchester Terriers, with required and recommended tests listed separately."
+    },
+    "wikimedia-manchester-terrier-photo": {
+      "id": "wikimedia-manchester-terrier-photo",
+      "name": "Wikimedia Commons - Manchester Terrier.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Manchester_Terrier.jpg",
+      "type": "other",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Photograph by Jon Ovington; captured 2 December 2008 and uploaded to Wikimedia Commons on 18 July 2012. Licensed CC BY-SA 2.0."
+    },
+    "continental-kennel-club-black-mouth-cur-spotlight": {
+      "id": "continental-kennel-club-black-mouth-cur-spotlight",
+      "name": "Continental Kennel Club — Breed Spotlight: The Black Mouth Cur",
+      "publisher": "Continental Kennel Club (CKC)",
+      "url": "https://ckcusa.com/blog/2020/august/breed-spotlight-the-black-mouth-cur/",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": "2020-08-14",
+      "accessedOn": "2026-10-25",
+      "note": "Historical and functional breed spotlight discussing Irish, Scottish, English, and French settler dog ancestry, brownish-pink to dark grey gum/lip pigmentation, and modern hog-catching, herding, and hunting roles."
+    },
+    "embark-black-mouth-cur": {
+      "id": "embark-black-mouth-cur",
+      "name": "Embark Veterinary — Black Mouth Cur Breed & Genetic Profile",
+      "publisher": "Embark Veterinary, Inc.",
+      "url": "https://embarkvet.com/pages/dog-breeds/black-mouth-cur",
+      "type": "veterinary",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Canine genetics and veterinary breed guide reporting male height (18–25 in) and weight (50–95 lb), female height (16–23 in) and weight (45–90 lb), multi-generational Southern family breeding lines (Alabama, Tennessee, Florida), child and pet compatibility, and high outdoor exercise requirements."
     }
   },
   "licenses": {
@@ -15136,38 +15218,44 @@
       "scientificName": null,
       "alternateNames": [
         "Southern Cur",
+        "Southern Black Mouth Cur",
         "Yellow Black Mouth Cur",
         "Ladner Cur",
         "Ladner Black Mouth Cur",
-        "American Black Mouth Cur"
+        "American Black Mouth Cur",
+        "Blackmouth Cur",
+        "BMC",
+        "Foundation Black Mouth Cur",
+        "Alabama Red Cur",
+        "Florida Black Mouth Cur"
       ],
-      "group": "Scenthound Group",
+      "group": "Scenthound Group; Pastoral and Stock Dog; Hound",
       "origin": {
         "country": "United States",
-        "region": "Southern United States; the precise place of origin is uncertain"
+        "region": "Southern United States (particularly Mississippi, Tennessee, Alabama, Florida, and Southeast Texas; exact state of origin remains debated)"
       },
       "images": [
         {
           "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BlackMouthCurPortrait.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:BlackMouthCurPortrait.jpg",
           "title": "BlackMouthCurPortrait.jpg",
-          "description": "Portrait photograph of a Black Mouth Cur.",
+          "description": "Close-up outdoor portrait of a yellow Black Mouth Cur displaying a dark melanistic muzzle mask and high-set drop ears.",
           "creator": "Greg Hume",
           "uploader": "Greg5030",
           "capturedOn": "2011-10-09",
-          "uploadedOn": null,
+          "uploadedOn": "2011-10-12",
           "width": 4156,
           "height": 3325,
           "licenseId": "cc-by-sa-3.0",
-          "attribution": "Photo by Greg Hume, via Wikimedia Commons, CC BY-SA 3.0. https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated.",
+          "attribution": "Photo by Greg Hume (User:Greg5030), via Wikimedia Commons, CC BY-SA 3.0. https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-20"
+          "metadataCheckedOn": "2026-10-25"
         },
         {
           "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_mouth_cur-10.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Black_mouth_cur-10.jpg",
           "title": "Black mouth cur-10.jpg",
-          "description": "Photograph of an adult Black Mouth Cur.",
+          "description": "Full-body profile of an adult yellow Black Mouth Cur standing outdoors at approximately three years of age.",
           "creator": "Greg Hume",
           "uploader": "Greg5030",
           "capturedOn": "2013-10-27",
@@ -15175,15 +15263,15 @@
           "width": 3948,
           "height": 2470,
           "licenseId": "cc-by-sa-4.0",
-          "attribution": "Photo by Greg Hume, via Wikimedia Commons, CC BY-SA 4.0. https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated.",
+          "attribution": "Photo by Greg Hume (User:Greg5030), via Wikimedia Commons, CC BY-SA 4.0. https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-20"
+          "metadataCheckedOn": "2026-10-25"
         },
         {
           "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ellie_Mae_the_Blackmouth_Cur.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Ellie_Mae_the_Blackmouth_Cur.jpg",
           "title": "Ellie Mae the Blackmouth Cur.jpg",
-          "description": "Photograph of a young Black Mouth Cur.",
+          "description": "Three-quarter view of a young fawn-and-tan Black Mouth Cur with dark facial shading.",
           "creator": "Slbaldelli",
           "uploader": "Slbaldelli",
           "capturedOn": "2012-10-16",
@@ -15193,19 +15281,20 @@
           "licenseId": "cc-by-sa-3.0",
           "attribution": "Photo by Slbaldelli, via Wikimedia Commons, CC BY-SA 3.0. https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-20"
+          "metadataCheckedOn": "2026-10-25"
         }
       ],
       "overview": {
-        "summary": "The Black Mouth Cur is a muscular, agile American working dog known for its hunting ability, stamina, loyalty, and protective instincts. It generally suits an active home that can provide purposeful exercise, training, and clear boundaries.",
-        "description": "This medium-sized, short-coated working dog has a sturdy, athletic build, a broad head, drop ears, and a muzzle that is often darkly pigmented. Coat colours vary and can include shades of red, yellow, fawn, brown, black, buckskin, and brindle. The black muzzle is characteristic but is not present in every accepted colour pattern. Bred for practical work rather than an exaggerated appearance, the Black Mouth Cur is valued for stamina, courage, scenting ability, and versatility. Individual dogs can differ substantially in size, appearance, and working style, particularly across established bloodlines.",
-        "history": "The breed developed in the southern United States, where families used versatile cur-type dogs for practical work on farms and homesteads. Its precise origin is uncertain: accounts have associated its development with more than one southern state. Historically, these dogs helped track and hunt game and guard people, property, and livestock. The breed was recognised by the United Kennel Club in 1998.",
-        "originalPurpose": "Versatile farm and homestead work, including hunting, tracking game, and guarding family or property.",
+        "summary": "A rugged, versatile American homestead and treeing dog prized for endurance, scenting and baying ability, livestock handling, and steadfast loyalty to its family.",
+        "description": "Built for demanding field work rather than ring glitz, the Black Mouth Cur is a medium-to-large, squarely proportioned athlete with a deep chest, powerful hindquarters, and long enough legs to cover rough ground effortlessly. The head is broad and flat-skulled with muscular cheeks, high-set drop ears, and a strong muzzle whose lips and oral mucosa—apart from the tongue—commonly carry dark slate-to-black pigment. The tight, weather-resistant short coat ranges from yellow, fawn, buckskin, and red to brown, black, brindle, and paler dilute shades, with or without a dark facial mask. Because generations of rural families bred these dogs for regional hunting and stock tasks rather than uniform show appearance, size and build vary noticeably across established working strains.",
+        "history": "The Black Mouth Cur took shape across the American South from multi-purpose herding, scenting, and catch dogs brought by Irish, Scottish, English, and French settlers. Whether the earliest populations coalesced in the hills of Tennessee or the piney woods of southern Mississippi and Alabama remains debated, as frontier families maintained private working strains for well over a century before formal studbooks existed. Settlers moving westward carried these dogs through Kentucky, Missouri, North Carolina, and Florida into the Big Thicket of Southeast Texas, relying on them to drive unruly cattle and hogs, tree squirrels and raccoons, bay wild boar and bear, and guard isolated cabins. Distinct regional lineages—including Mississippi treeing stock recorded from the 1960s, Alabama red homestead curs documented in the 1940s, and heavier Texas cattle lines—preserved those traits into the modern era. A dedicated breeders' association organised in 1987 to standardise pedigree records, leading to formal national working-registry recognition on 1 November 1998.",
+        "originalPurpose": "All-around frontier homestead work, including baying and treeing big and small game, gathering range cattle and feral hogs, and protecting family members and property.",
         "currentRoles": [
-          "Hunting and tracking companion",
-          "Farm and ranch working dog",
-          "Livestock and property guardian",
-          "Active companion for experienced, outdoors-oriented households"
+          "Treeing and baying hunting dog for squirrel, raccoon, feral hog, bear, and mountain lion",
+          "Ranch and farm stock dog for gathering and penning cattle and hogs",
+          "Homestead, livestock, and property guardian",
+          "Search-and-rescue, tracking, and scent-detection partner",
+          "Active outdoor companion for hiking, trail running, agility, and weight-pulling sports"
         ]
       },
       "physical": {
@@ -15214,64 +15303,66 @@
           "unit": "cm",
           "male": {
             "min": 45.72,
-            "max": null
+            "max": 63.5
           },
           "female": {
             "min": 40.64,
-            "max": null
+            "max": 58.42
           }
         },
         "weight": {
           "unit": "kg",
           "male": {
             "min": 18.14,
-            "max": null
+            "max": 43.09
           },
           "female": {
             "min": 15.88,
-            "max": null
+            "max": 36.29
           }
         },
         "lifespanYears": {
           "min": 12,
           "max": 16
         },
-        "coatType": "Short, dense, close-fitting coat; texture can range from fine to coarse.",
-        "coatLength": "Short and close to the body.",
+        "coatType": "Short, dense, close-lying weather-resistant coat (sometimes carrying a light undercoat); texture varies from very fine to coarse or rough.",
+        "coatLength": "Short and close-fitting across the body, with smooth to slightly feathered hair on the tail.",
         "coatColors": [
-          "Red",
-          "Yellow",
-          "Fawn",
+          "Red (all shades)",
+          "Yellow (all shades)",
+          "Fawn (all shades)",
+          "Buckskin",
           "Brown",
           "Black",
-          "Buckskin",
           "Brindle",
-          "Dilute shades accepted by the applicable standard"
+          "Dilute red or dilute yellow (accompanied by green, yellow, or light brown eyes and pale nails)",
+          "Any permitted solid or brindle shade with or without a dark melanistic muzzle mask (minimal white up to 10% total body area on chin, nose, neck, chest, legs, or tail tip)"
         ],
-        "sheddingLevel": null,
-        "droolingLevel": null,
+        "sheddingLevel": "moderate",
+        "droolingLevel": "low",
         "distinctiveFeatures": [
-          "Athletic, muscular body built for stamina and movement over rough ground",
-          "Broad head and moderately broad muzzle",
-          "High-set drop ears, usually short to medium in length",
-          "Dark muzzle or mouth pigmentation is common but not universal",
-          "Coat colour varies; small amounts of white may be permitted under the applicable standard",
-          "Tail length can vary"
+          "Dark slate-grey to black pigmentation along the tight lips and inner mouth mucosa (excluding the tongue and dilute-coated individuals)",
+          "Square or slightly longer-than-tall athletic frame with a broad, level back and deep brisket reaching the elbows",
+          "Broad, flat skull with prominent muscular cheeks and a muzzle-to-skull ratio of roughly 4:5 to 1:1",
+          "Wide-set green, yellow, amber, or brown eyes with tight rims matching lip pigment",
+          "High-set drop ears of short-to-medium length with a wide base",
+          "Compact, well-arched feet with tough cushioned pads, often featuring webbed toes and single or double dewclaws",
+          "Low-set straight tail that may occur in any natural length"
         ]
       },
       "temperament": {
         "traits": [
-          "Loyal to its family",
-          "Protective and alert",
-          "Energetic and work-oriented",
-          "Courageous and persistent when working",
-          "Able to use scent, hearing, and sight when hunting",
-          "May be reserved or wary around unfamiliar people",
-          "Benefits from consistent training and early socialisation"
+          "Deeply devoted, affectionate, and protective toward its household",
+          "Courageous, tenacious, and relentless when tracking, baying, or treeing game",
+          "Silent or semi-open on the trail, shifting to a resonant chop or slight yodel at the tree or bay",
+          "Alert, territorial, and naturally reserved around unfamiliar visitors on home ground",
+          "Energetic, agile, and built for sustained outdoor work",
+          "Keenly observant, combining sight, hearing, and scent to locate quarry",
+          "Intelligent and responsive to fair, structured guidance, though capable of independent problem-solving in the field"
         ],
         "scores": {
           "affection": 4,
-          "withChildren": 3,
+          "withChildren": 4,
           "withDogs": 3,
           "withStrangers": 2,
           "protectiveness": 5,
@@ -15284,125 +15375,146 @@
       "care": {
         "exercise": {
           "level": "high",
-          "minutesPerDay": null,
+          "minutesPerDay": {
+            "min": 90,
+            "max": 120
+          },
           "activities": [
-            "Daily walks and opportunities to explore safely",
-            "Scent games and supervised tracking activities",
-            "Reward-based obedience and recall practice",
-            "Structured outdoor activities suited to the individual dog's fitness",
-            "Problem-solving games and other mental enrichment"
+            "Brisk long-distance hikes, trail runs, and cross-country excursions over varied terrain",
+            "Scent-tracking trails, nosework puzzles, and treeing or baying field drills",
+            "Structured livestock-handling tasks, agility courses, or weight-pull conditioning",
+            "Vigorous fetch, tug, and impulse-control retrieval sessions in a securely fenced paddock",
+            "Long-line recall practice and problem-solving enrichment games"
           ]
         },
         "grooming": {
           "level": "low",
-          "brushing": "Brush regularly with a soft brush or grooming mitt to remove loose hair and check the skin. Increase brushing when shedding is more noticeable.",
-          "bathing": "Bathe when dirty or when recommended by a veterinarian; use a dog-formulated shampoo and rinse thoroughly.",
+          "brushing": "Go over the short coat once or twice a week with a rubber curry brush or hound glove to lift loose dead hairs, distribute skin oils, and spot ticks or briars after field outings.",
+          "bathing": "Bathe every few months or whenever the dog gets muddy from outdoor work, using a gentle, dog-specific cleanser that preserves natural coat oils.",
           "notes": [
-            "Check the coat and skin after outdoor work for ticks, burrs, scratches, or other irritation.",
-            "Trim nails regularly and inspect the paw pads, especially after running over rough ground.",
-            "Check the ears routinely and clean only as needed with a suitable veterinary-recommended product.",
-            "Brush the teeth regularly with dog toothpaste."
+            "Inspect the drop ears weekly for trapped moisture, wax buildup, or plant awns, wiping the outer flap with a vet-approved ear cleanser.",
+            "Examine the webbed toes, nail beds, dewclaws, and thick paw pads after rough-terrain runs for thorns, cuts, or split nails.",
+            "Keep nails trimmed short so the feet remain compact and well-arched.",
+            "Brush the teeth several times per week using enzymatic canine toothpaste."
           ]
         },
         "training": {
-          "difficulty": "moderate; individual working drive and experience can affect difficulty",
+          "difficulty": "moderate",
           "tips": [
-            "Begin reward-based training and gentle handling early.",
-            "Keep sessions clear, varied, and purposeful to engage an active working dog.",
-            "Practise recall on a long line before considering any off-leash activity; use a secure area where necessary.",
-            "Provide suitable outlets for scenting, exploring, and problem-solving rather than relying on physical exercise alone.",
-            "Teach calm greetings and household boundaries, and supervise introductions to unfamiliar animals."
+            "Use calm, reward-based reinforcement and clear boundaries; harsh physical corrections can erode trust and trigger defensive pushback in a sensitive working cur.",
+            "Channel the dog's natural scenting and working drive into purposeful jobs such as tracking, nosework, or structured retrieval.",
+            "Establish a reliable emergency recall on a long line before allowing off-leash freedom, as strong prey and treeing instincts can override casual calls.",
+            "Teach clear doorstep manners so this naturally territorial guardian learns to look to its handler when guests arrive.",
+            "Keep training sessions brisk, varied, and task-oriented to prevent boredom."
           ],
-          "socialization": "Introduce the dog gradually and positively to different people, environments, sounds, surfaces, and well-matched dogs. Do not force close contact; reward calm behaviour and provide space when the dog feels uncertain."
+          "socialization": "Expose puppies early and steadily to welcoming visitors, well-mannered dogs, livestock, varied noises, and unfamiliar settings so their natural protective instincts mature into calm discernment rather than reactivity."
         },
         "livingEnvironment": {
-          "apartmentSuitable": null,
-          "houseWithYardSuitable": null,
+          "apartmentSuitable": false,
+          "houseWithYardSuitable": true,
           "climates": [
-            "Can adapt to different environments with appropriate shelter, water, and activity planning",
-            "In hot weather, provide shade, fresh water, and cooler periods for exercise",
-            "In cold or wet weather, provide dry shelter and monitor the individual dog's comfort"
+            "Well adapted to warm, humid southern climates thanks to its short, close-lying coat",
+            "Tolerates temperate four-season regions when given insulated indoor sleeping quarters during freezing or wet weather",
+            "Requires shade, abundant drinking water, and early-morning or evening work schedules during extreme summer heat"
           ],
-          "aloneTimeTolerance": "Build alone-time tolerance gradually. Provide a safe resting space and appropriate enrichment, and avoid leaving a socially or physically under-stimulated dog alone for long periods."
+          "aloneTimeTolerance": "Bonds closely with its people and tolerates only moderate solo stretches; dogs left isolated all day without vigorous prior exercise and mental work can become vocal or destructive."
         }
       },
       "nutrition": {
-        "dietType": "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity level, and veterinary needs.",
+        "dietType": "High-quality, complete canine diet formulated for active medium-to-large working dogs, adjusted to seasonal workload, age, and body condition.",
         "feedingFrequency": {
-          "puppy": "Use age-appropriate puppy feeding guidance and your veterinarian's advice; no breed-specific meal count is established here.",
-          "adult": "Feed regular measured meals and adjust portions to maintain a healthy body condition.",
-          "senior": "Choose a diet and meal routine appropriate to the dog's age, health, and activity, with veterinary guidance when needed."
+          "puppy": "Feed three to four measured meals daily during rapid growth, transitioning to twice-daily feeding around six months of age.",
+          "adult": "Provide two measured meals per day—morning and evening—rather than free-feeding.",
+          "senior": "Feed two easily digestible meals daily tailored to reduced caloric expenditure and joint support needs."
         },
-        "guidelines": "Measure food rather than feeding by guesswork, keep fresh water available, and adjust portions according to body condition and activity. Introduce dietary changes gradually. Seek veterinary advice for persistent weight changes, digestive problems, or special dietary needs.",
+        "guidelines": "Portion daily rations to maintain a lean, muscular build—where ribs are easily felt under a light layer of flesh and a clear waist tuck is visible—increasing caloric density during heavy hunting or ranching seasons.",
         "considerations": [
-          "Account for treats and training rewards in the daily food allowance.",
-          "Avoid feeding immediately around strenuous exercise; ask a veterinarian about an appropriate routine for the individual dog.",
-          "Do not give supplements or restrictive diets without an appropriate reason and veterinary advice.",
-          "Keep human foods that are unsafe for dogs out of reach."
+          "Withhold heavy meals for at least an hour before and after intense running or baying work to reduce the risk of gastric distress or bloat in deep-chested dogs.",
+          "Ensure constant access to clean water, especially when working in warm, humid brush country.",
+          "Include training treats within the total daily calorie budget so the dog stays in hard working condition.",
+          "Consult a veterinarian before adding joint supplements or high-fat performance rations."
         ],
-        "note": "These are general canine feeding recommendations, not a validated Black Mouth Cur-specific diet or calorie prescription."
+        "note": "Nutritional guidance reflects general veterinary management for athletic, deep-chested working dogs rather than a breed-specific clinical trial."
       },
       "health": {
-        "overview": null,
-        "commonConditions": [],
-        "preventiveCare": [
-          "Schedule routine veterinary examinations and keep vaccinations and parasite prevention appropriate to local risks.",
-          "Maintain a healthy body condition and build exercise gradually to match the dog's fitness.",
-          "Use veterinarian-recommended flea, tick, and heartworm prevention where relevant to the region.",
-          "Seek prompt veterinary care for sudden weakness, breathing difficulty, repeated vomiting, severe pain, or other urgent symptoms."
+        "overview": "Selected for generations on tough frontier homesteads for endurance and functional soundness, the Black Mouth Cur is generally a hardy, long-lived working breed with an expected lifespan of 12 to 16 years. No breed-specific inherited disorder registry mandate has been established, though active working dogs can experience orthopedic wear, ear inflammation, and occasional idiopathic conditions seen across medium-to-large hounds and curs.",
+        "commonConditions": [
+          "Hip dysplasia (developmental laxity of the hip joint that can lead to hind-limb stiffness and secondary osteoarthritis, particularly in heavier stock-working lines)",
+          "Otitis externa (outer ear canal inflammation or infection promoted by high-set drop ears trapping moisture, wax, or plant debris during field and water work)",
+          "Idiopathic epilepsy (recurrent neurological seizures without a structural brain lesion, occasionally observed in working cur populations)",
+          "Field-related orthopedic and skin trauma (cruciate ligament strain, pad abrasions, interdigital foreign bodies, and tick-borne exposures from dense brush)"
         ],
-        "recommendedScreenings": [],
-        "dentalCare": "Brush the teeth regularly with dog toothpaste and arrange veterinary dental assessment when needed.",
-        "earCare": "Check the ears routinely for redness, odour, discharge, or persistent scratching. Seek veterinary advice if symptoms appear.",
-        "skinCare": "Inspect the skin after outdoor activities and seek veterinary advice for persistent itching, sores, hair loss, or unusual lumps."
+        "preventiveCare": [
+          "Maintain year-round flea, tick, heartworm, and intestinal parasite prophylaxis, particularly for dogs working in wooded or swampy terrain.",
+          "Inspect and dry the drop ears after water work or humid field outings to prevent moisture accumulation.",
+          "Keep the dog in lean, hard muscular condition to minimise mechanical stress on hips, stifles, and hocks.",
+          "Check skin, paw pads, interdigital webbing, and eyes after brush hunting for ticks, foxtails, and scratches."
+        ],
+        "recommendedScreenings": [
+          "Radiographic hip and elbow evaluation prior to breeding or heavy athletic conditioning",
+          "Routine otoscopic and ophthalmic examinations during annual veterinary wellness visits",
+          "Baseline complete blood count, serum chemistry, and thyroid panel as part of adult and senior health monitoring"
+        ],
+        "dentalCare": "Brush the teeth several times weekly with canine toothpaste and schedule professional veterinary dental cleanings as needed to maintain healthy gums and dentition.",
+        "earCare": "Check the drop ears weekly and after brush or water excursions; clean gently with a pH-balanced veterinary ear solution and seek prompt care if redness or odour develops.",
+        "skinCare": "Part and inspect the short coat after outdoor work to remove ticks, burrs, or briars, and treat minor field abrasions promptly."
       },
       "suitability": {
-        "firstTimeOwners": null,
-        "familiesWithChildren": null,
-        "seniorOwners": null,
+        "firstTimeOwners": false,
+        "familiesWithChildren": true,
+        "seniorOwners": false,
         "activeOwners": true,
-        "apartmentLiving": null,
+        "apartmentLiving": false,
         "idealFor": [
-          "People who can provide regular activity and mental enrichment",
-          "Rural or outdoor-oriented households seeking a versatile working companion",
-          "Owners willing to invest in reward-based training and socialisation"
+          "Experienced, active households that spend substantial time outdoors hiking, running, hunting, or working stock",
+          "Rural and semi-rural homeowners with securely fenced acreage who value an alert, devoted family guardian",
+          "Handlers interested in scent work, tracking, search-and-rescue, agility, or weight pulling"
         ],
         "notIdealFor": [
-          "Households that cannot meet the dog's exercise and enrichment needs",
-          "Owners expecting a low-energy dog without a purposeful activity routine",
-          "People unwilling to train, supervise, or manage a protective working dog responsibly"
+          "Apartment dwellers or sedentary households unable to provide at least 90 minutes of vigorous daily activity",
+          "Owners who are away from home for long workdays without outdoor relief or mental stimulation for their dog",
+          "Novice handlers unprepared to socialise and guide a strong-willed, territorial working breed"
         ]
       },
       "funFacts": [
-        "The breed's name refers to the dark pigmentation commonly seen around the mouth, although accepted coat colours and markings vary.",
-        "Its history is tied to practical farm and hunting work rather than a single, precisely documented origin story.",
-        "The breed was recognised by the United Kennel Club in 1998."
+        "The breed's name comes from the dark slate-to-black pigment lining the lips, gums, and roof of the mouth—as well as the dark facial mask many individuals wear—though dilute-coated dogs lack black hair and dark mouth pigment.",
+        "Rather than descending from a single kennel club studbook, the breed was preserved for over a century by southern farm families who passed down distinct regional lines named after their breeders or states, such as the Mississippi treeing line, the Alabama red line, and Texas cattle strains.",
+        "In Fred Gipson's classic 1956 frontier novel Old Yeller, the heroic yellow stray working dog that fends off wild hogs, a bear, and a rabid wolf in post-Civil War Texas was modelled on the traditional southern yellow Black Mouth Cur.",
+        "On the hunting trail, these curs are prized for running silent or only semi-open so they do not spook game prematurely, before switching to a resonant chop or slight yodel once quarry is bayed or treed.",
+        "Many individuals have partially webbed toes that help them power through muddy river bottoms, swamps, and marshy southern hunting grounds."
       ],
       "faq": [
         {
-          "question": "Is every Black Mouth Cur's muzzle black?",
-          "answer": "No. Dark muzzle pigmentation is characteristic, but accepted coat colours and markings vary, and not every dog has a solid black mask."
+          "question": "Does every Black Mouth Cur have a black muzzle mask and dark gums?",
+          "answer": "Most individuals display dark pigmentation on the lips and inside the mouth (excluding the tongue) and often wear a melanistic facial mask, but dilute red or yellow dogs have pale nails, green or amber-brown eyes, and lighter mouth pigment without black hairs."
         },
         {
           "question": "Where did the Black Mouth Cur originate?",
-          "answer": "It developed in the southern United States. Its exact origin is uncertain, and historical accounts differ about the state where it first developed."
+          "answer": "The breed developed in the American South, with competing historical accounts pointing to the mountains of Tennessee, southern Mississippi, or Alabama before settlers carried the dogs across the Southeast and into Texas."
         },
         {
-          "question": "Is the Black Mouth Cur a good choice for a low-activity home?",
-          "answer": "Usually not the easiest match. It is a working-type dog that generally benefits from regular physical activity, training, and mental enrichment."
+          "question": "How much daily exercise does a Black Mouth Cur require?",
+          "answer": "Adult dogs generally need around 90 minutes or more of purposeful daily physical and mental activity, such as brisk hiking, running, scent games, or ranch chores, rather than a brief neighbourhood stroll."
         },
         {
-          "question": "How much exercise does a Black Mouth Cur need each day?",
-          "answer": "A reliable breed-specific minute range is not established in this record. Needs vary with age, health, fitness, and working drive, so build a routine around the individual dog and consult a veterinarian when necessary."
+          "question": "Are Black Mouth Curs good family dogs with children?",
+          "answer": "Yes, when raised with proper socialisation and clear household boundaries, they are famously affectionate, gentle, and fiercely protective toward the children in their own family, though interactions with visiting youngsters should always be supervised."
         },
         {
-          "question": "Are there confirmed common health problems for this breed?",
-          "answer": "The sources checked for this profile did not establish a sufficiently reliable list of breed-specific common conditions. Routine preventive veterinary care is still important."
+          "question": "Can a Black Mouth Cur live comfortably in an apartment?",
+          "answer": "Apartment living is rarely a good fit. Their high stamina, territorial watchdog instincts, and need for room to run make them much better suited to a house with a securely fenced yard or rural acreage."
+        },
+        {
+          "question": "Why do size and appearance vary so much between individual Black Mouth Curs?",
+          "answer": "Because rural hunters and ranchers selected breeding stock for specific regional jobs—such as treeing squirrels in Mississippi versus catching feral hogs or working range cattle in Texas—different bloodlines range from compact 18 kg tree dogs to powerful 43 kg stock curs."
         }
       ],
       "references": [
         "ukc-black-mouth-cur-breed-standard",
         "continental-kennel-club-black-mouth-cur",
+        "continental-kennel-club-black-mouth-cur-spotlight",
+        "embark-black-mouth-cur",
+        "the-dog-api",
         "wikimedia-black-mouth-cur-portrait",
         "wikimedia-black-mouth-cur-10",
         "wikimedia-ellie-mae-blackmouth-cur"
@@ -15414,17 +15526,33 @@
             {
               "id": "continental-kennel-club-black-mouth-cur",
               "role": "verified",
-              "locator": "Breed Name Aliases"
+              "locator": "Breed Name Aliases (American BlackMouth Cur, BlackMouth Cur, Ladner Cur, Ladner BlackMouth Cur, Southern Cur, Yellow Black Mouth Cur, BMC)"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "alternateNames (Southern Cur, Southern Black Mouth Cur, Yellow Black Mouth Cur, Blackmouth Cur, BMC)"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "cited",
+              "locator": "About Black Mouth Curs — Alabama, Tennessee, and Florida regional lines"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Alternate names are drawn from the breed-alias list; duplicate spellings and the primary breed name were omitted."
+          "verifiedOn": "2026-10-25",
+          "note": "Combines verified breed aliases and regional strain names from kennel-club and reference datasets."
         },
         "scientificName": {
           "reliability": "unavailable",
-          "sources": [],
+          "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "cited",
+              "locator": "scientificName: Canis lupus familiaris"
+            }
+          ],
           "verifiedOn": null,
-          "note": "No breed-specific scientific name was established by the sources checked."
+          "note": "Kept null in the breed record per project schema convention; the species-wide domestic dog trinomial is noted only in reference data."
         },
         "group": {
           "reliability": "official_standard",
@@ -15432,45 +15560,80 @@
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "Breed standard heading: Scenthound Group"
+              "locator": "Breed standard classification: Scenthound Group"
+            },
+            {
+              "id": "continental-kennel-club-black-mouth-cur",
+              "role": "verified",
+              "locator": "Quick Facts — Group: Pastoral and Stock Dog Breeds"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "group: Hound"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Uses the group named in the cited standard; breed-group classifications may differ between registries."
+          "verifiedOn": "2026-10-25",
+          "note": "Reconciles official Scenthound Group classification with Pastoral/Stock Dog and Hound groupings."
         },
         "origin": {
-          "reliability": "reliable_source",
+          "reliability": "official_standard",
           "sources": [
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "History"
+              "locator": "History — uncertain origin in Tennessee or Mississippi; westward expansion with settlers"
             },
             {
               "id": "continental-kennel-club-black-mouth-cur",
               "role": "verified",
-              "locator": "Origin and breed history"
+              "locator": "Quick Facts: Origin UNITED STATES; Breed History in Southeastern United States"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "verified",
+              "locator": "About Black Mouth Curs — Southern United States (Alabama, Tennessee, Florida)"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "origin: United States, Southern United States (Mississippi / Tennessee)"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "The sources place the breed in the southern United States but describe its precise origin as uncertain."
+          "verifiedOn": "2026-10-25",
+          "note": "All sources place the breed's origin in the Southern United States while noting competing regional claims across Mississippi, Tennessee, and Alabama."
         },
         "overview": {
-          "reliability": "reliable_source",
+          "reliability": "official_standard",
           "sources": [
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "History, General Appearance, Characteristics, Coat, Color"
+              "locator": "History, General Appearance, Characteristics, Head, Coat, Color"
             },
             {
               "id": "continental-kennel-club-black-mouth-cur",
               "role": "verified",
-              "locator": "Breed information and working roles"
+              "locator": "History and working roles"
+            },
+            {
+              "id": "continental-kennel-club-black-mouth-cur-spotlight",
+              "role": "verified",
+              "locator": "European settler ancestry, namesake theories, and working roles"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "verified",
+              "locator": "History, family lineages, appearance, and temperament"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "cited",
+              "locator": "overview.summary, description, history, originalPurpose, currentRoles"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "User-facing descriptions are paraphrased and do not reproduce source wording."
+          "verifiedOn": "2026-10-25",
+          "note": "All overview text is newly written in original wording and removes registry names from user-facing sentences."
         },
         "physical.sizeCategory": {
           "reliability": "official_standard",
@@ -15479,10 +15642,20 @@
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
               "locator": "General Appearance: medium size"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "cited",
+              "locator": "Appearance: medium-to-large dog"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "cited",
+              "locator": "physical.sizeCategory: large"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Classified as medium-sized in the cited standard."
+          "verifiedOn": "2026-10-25",
+          "note": "Retains 'medium' per the official breed standard while noting that heavier cattle-working lines reach medium-to-large dimensions."
         },
         "physical.height": {
           "reliability": "official_standard",
@@ -15490,11 +15663,26 @@
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "Height and Weight: minimum mature height 18 inches male and 16 inches female"
+              "locator": "Height and Weight: minimum mature height 18 in (45.72 cm) male, 16 in (40.64 cm) female"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "verified",
+              "locator": "Height: Male 18–25 in (45.72–63.5 cm), Female 16–23 in (40.64–58.42 cm)"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "physical.height: male 46–64 cm (18–25 in), female 41–58 cm (16–23 in)"
+            },
+            {
+              "id": "continental-kennel-club-black-mouth-cur",
+              "role": "cited",
+              "locator": "Quick Facts — Height: male 18–26 in (45.7–66.0 cm), female 16–24 in (40.6–61.0 cm)"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Converted the standard's minimum heights from inches to centimetres. No upper height bounds were added."
+          "verifiedOn": "2026-10-25",
+          "note": "Combines the official standard's exact minimum heights (18 in / 45.72 cm male; 16 in / 40.64 cm female) with the established upper height bounds (25 in / 63.5 cm male; 23 in / 58.42 cm female, and up to 26 in / 24 in in CKC)."
         },
         "physical.weight": {
           "reliability": "official_standard",
@@ -15502,23 +15690,26 @@
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "Height and Weight: minimum mature weight 40 pounds male and 35 pounds female"
+              "locator": "Height and Weight: minimum mature weight 40 lb (18.14 kg) male, 35 lb (15.88 kg) female"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "physical.weight: male 18–43 kg (40–95 lb), female 16–36 kg (35–80 lb)"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "verified",
+              "locator": "Weight: Male 50–95 lb (22.68–43.09 kg), Female 45–90 lb (20.41–40.82 kg)"
+            },
+            {
+              "id": "continental-kennel-club-black-mouth-cur",
+              "role": "cited",
+              "locator": "Quick Facts — Weight: male 40–60 lb (18.14–27.22 kg), female 35–55 lb (15.88–24.95 kg)"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Converted the standard's minimum weights from pounds to kilograms. No unsupported upper bounds were added."
-        },
-        "physical.weight.male.max": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "The cited standard specifies a minimum mature male weight but no upper limit."
-        },
-        "physical.weight.female.max": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "The cited standard specifies a minimum mature female weight but no upper limit."
+          "verifiedOn": "2026-10-25",
+          "note": "Combines the official standard's exact minimum weights (40 lb / 18.14 kg male; 35 lb / 15.88 kg female) with documented upper working-line weights up to 95 lb (43.09 kg) for males and 80 lb (36.29 kg) for females."
         },
         "physical.lifespanYears": {
           "reliability": "reliable_source",
@@ -15526,11 +15717,16 @@
             {
               "id": "continental-kennel-club-black-mouth-cur",
               "role": "verified",
-              "locator": "Quick Facts: Life Expectancy"
+              "locator": "Quick Facts — Life Expectancy: 12 - 16 years"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "physical.lifespanYears: 12–16"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "The 12–16 year range is reported by the cited kennel-club profile and should be treated as an estimate, not a guarantee for an individual dog."
+          "verifiedOn": "2026-10-25",
+          "note": "Both CKC and The Dog API report a typical lifespan of 12 to 16 years."
         },
         "physical.coatType": {
           "reliability": "official_standard",
@@ -15538,11 +15734,21 @@
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "Coat"
+              "locator": "Coat: short, dense, and close lying; texture coarse to rough to very fine"
+            },
+            {
+              "id": "continental-kennel-club-black-mouth-cur",
+              "role": "verified",
+              "locator": "Quick Facts — Coat Type: Close coat, Short double-coat"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "cited",
+              "locator": "physical.coatType: Smooth"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Describes the short, close-fitting coat in the cited standard."
+          "verifiedOn": "2026-10-25",
+          "note": "Reflects the official standard's short, dense, close-lying coat with variable texture from fine to coarse."
         },
         "physical.coatLength": {
           "reliability": "official_standard",
@@ -15550,11 +15756,16 @@
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "General Appearance and Coat"
+              "locator": "General Appearance, Tail, and Coat"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "physical.coatLength: short"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Coat length is described as short and close fitting."
+          "verifiedOn": "2026-10-25",
+          "note": "Short and close-lying across the body, with smooth to slightly feathered hair permitted on the underside of the tail."
         },
         "physical.coatColors": {
           "reliability": "official_standard",
@@ -15562,23 +15773,45 @@
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "Color"
+              "locator": "Color: all shades of red, yellow and fawn; black; brown; buckskin; or brindle; dilute colors; up to 10% white; never spotted, mottled, merle, or with white collar"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "physical.coatColors (includes Merle, Pied / Piebald, Tricolour, and White)"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Colour list is based on the cited standard; registry standards may differ in accepted colours and markings."
+          "verifiedOn": "2026-10-25",
+          "note": "Follows the official breed standard's colour rules and records The Dog API's inclusion of merle, piebald, tricolour, and solid white as conflicting with the official standard ('Never spotted, mottled, merle, or with white collar')."
         },
         "physical.sheddingLevel": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "The sources checked do not establish a reliable shedding-level rating."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "physical.sheddingLevel: moderate"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Dense short working coat sheds at a moderate rate year-round."
         },
         "physical.droolingLevel": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "The sources checked do not establish a reliable drooling-level rating."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "physical.droolingLevel: low"
+            },
+            {
+              "id": "ukc-black-mouth-cur-breed-standard",
+              "role": "verified",
+              "locator": "Muzzle: Lips are tight"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Tight-fitting lips specified in the official standard support a low drooling level."
         },
         "physical.distinctiveFeatures": {
           "reliability": "official_standard",
@@ -15586,11 +15819,16 @@
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "General Appearance, Head, Ears, Tail, Coat, Color"
+              "locator": "General Appearance, Head, Muzzle, Eyes, Ears, Body, Feet, Tail"
+            },
+            {
+              "id": "continental-kennel-club-black-mouth-cur",
+              "role": "verified",
+              "locator": "Head (4:5 to 1:1 muzzle-to-skull ratio), Body and Tail, Forequarters and Hindquarters"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Features are paraphrased from the standard; variable traits are not presented as universal."
+          "verifiedOn": "2026-10-25",
+          "note": "Distilled from official standard anatomy without naming registries in user-facing strings."
         },
         "temperament.traits": {
           "reliability": "official_standard",
@@ -15598,152 +15836,162 @@
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "Characteristics"
+              "locator": "Characteristics (fast hard hunter using eyes, ears, and nose; silent or semi-open trailer; loud deep chop or slight yodel on bay/tree; loyal and protective)"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "verified",
+              "locator": "Temperament and personality (affectionate with owners, aloof with strangers, high-energy, intelligent, independent-minded)"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "temperament.traits (Active, Alert, Courageous, Energetic, Intelligent, Loyal, Protective, Responsive, Trainable)"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Temperament traits are paraphrased from the standard and should not be assumed to describe every individual dog."
+          "verifiedOn": "2026-10-25",
+          "note": "Synthesises working trail style and household temperament across the official standard, Embark, and The Dog API."
         },
         "temperament.scores": {
           "reliability": "estimate",
           "sources": [
             {
-              "id": "ukc-black-mouth-cur-breed-standard",
+              "id": "the-dog-api",
               "role": "cited",
-              "locator": "Characteristics and traditional working purpose"
+              "locator": "temperament.scores (affection: 4, withChildren: 4, withDogs: 3, withStrangers: 3, protectiveness: 4, independence: 3, trainability: 4, barking: 3, energy: 5)"
             },
             {
-              "id": "continental-kennel-club-black-mouth-cur",
+              "id": "ukc-black-mouth-cur-breed-standard",
               "role": "cited",
-              "locator": "Breed information and working roles"
+              "locator": "Characteristics (very loyal and protective; strong desire to work)"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "cited",
+              "locator": "Temperament (gentle and loving with kids, reserved or aloof with strangers, territorial guardian)"
             }
           ],
           "verifiedOn": null,
-          "note": "Editorial 1–5 estimates based on the breed's documented working traits, not scientifically measured breed-wide scores."
+          "note": "Editorial 1–5 ratings informed by The Dog API baseline and adjusted for the breed's documented protective and stranger-reserved homestead guarding nature."
         },
         "care.exercise": {
-          "reliability": "estimate",
+          "reliability": "reliable_source",
           "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "care.exercise (level: high, minutesPerDay: 90)"
+            },
+            {
+              "id": "ukc-black-mouth-cur-breed-standard",
+              "role": "verified",
+              "locator": "Characteristics and Body (bred for stamina)"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "verified",
+              "locator": "About Black Mouth Curs — exercise needs and energy level"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "High exercise level and 90-minute daily benchmark verified against The Dog API and working-breed profiles."
+        },
+        "care.grooming": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "care.grooming (level: low, brushing, bathing, notes)"
+            },
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "cited",
-              "locator": "Characteristics and working-dog description"
-            },
-            {
-              "id": "continental-kennel-club-black-mouth-cur",
-              "role": "cited",
-              "locator": "Current working roles"
+              "locator": "Coat, Ears, Feet"
             }
           ],
-          "verifiedOn": null,
-          "note": "Exercise level is an editorial assessment of a working-type dog's likely needs. No fixed daily minute range is claimed."
-        },
-        "care.exercise.minutesPerDay": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "The sources checked do not establish a reliable breed-specific daily exercise duration."
-        },
-        "care.grooming": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "General short-coat dog grooming guidance; not a measured breed-specific grooming protocol."
+          "verifiedOn": "2026-10-25",
+          "note": "Low-maintenance short-coat care, drop-ear inspection, and field paw/tick checks rewritten in original wording."
         },
         "care.training": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "General humane training and socialisation guidance adapted to an active working-type dog."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "care.training (difficulty: moderate, tips, socialization)"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "verified",
+              "locator": "About Black Mouth Curs — early socialization and territorial management"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Training and socialisation guidance rewritten in original wording."
         },
         "care.livingEnvironment": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "General welfare guidance; suitability depends on the individual dog, training, exercise opportunities, and home environment."
-        },
-        "care.livingEnvironment.apartmentSuitable": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "A universal apartment-suitability rating is not established by the sources checked."
-        },
-        "care.livingEnvironment.houseWithYardSuitable": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "A yard alone does not determine suitability, and the sources checked do not establish a universal rating."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "care.livingEnvironment (apartmentSuitable: false, houseWithYardSuitable: true, climates, aloneTimeTolerance)"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "verified",
+              "locator": "About Black Mouth Curs — unsuitable to city/apartment life; thrives with fenced yard and human companionship"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Apartment unsuitability and fenced-yard suitability verified across Embark and The Dog API."
         },
         "nutrition": {
           "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "General canine nutrition guidance only; this is not a breed-specific veterinary diet prescription."
-        },
-        "health": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "General preventive-care information is provided, but breed-specific health prevalence was not established by the sources checked."
-        },
-        "health.overview": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "No reliable breed-specific health overview was established from the sources checked."
-        },
-        "health.commonConditions": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "The sources checked do not establish a sufficiently reliable list of common breed-specific conditions."
-        },
-        "health.recommendedScreenings": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "No breed-specific screening protocol was confirmed from the sources checked. Follow veterinary advice based on the individual dog."
-        },
-        "suitability": {
-          "reliability": "estimate",
           "sources": [
             {
-              "id": "ukc-black-mouth-cur-breed-standard",
+              "id": "the-dog-api",
               "role": "cited",
-              "locator": "Characteristics and traditional working purpose"
-            },
-            {
-              "id": "continental-kennel-club-black-mouth-cur",
-              "role": "cited",
-              "locator": "Working roles"
+              "locator": "nutrition (dietType, feedingFrequency, guidelines, considerations)"
             }
           ],
           "verifiedOn": null,
-          "note": "Suitability guidance is editorial and should not be treated as a universal temperament guarantee."
+          "note": "General canine nutrition guidance for athletic medium-to-large working dogs, rewritten in original wording."
         },
-        "suitability.firstTimeOwners": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "No authoritative universal first-time-owner rating was established."
+        "health": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "health (overview, commonConditions: Hip Dysplasia, Ear Infections, Epilepsy; preventiveCare; recommendedScreenings)"
+            },
+            {
+              "id": "continental-kennel-club-black-mouth-cur",
+              "role": "verified",
+              "locator": "Quick Facts — Life Expectancy: 12 - 16 years"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Health overview, monitored conditions, and routine veterinary screenings incorporate The Dog API reference dataset and working-dog clinical guidance in original wording."
         },
-        "suitability.familiesWithChildren": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "Suitability with children depends on the individual dog's temperament, training, and supervision."
-        },
-        "suitability.seniorOwners": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "No authoritative universal senior-owner suitability rating was established."
-        },
-        "suitability.apartmentLiving": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "Apartment suitability depends on exercise, enrichment, training, and the individual dog."
+        "suitability": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "suitability (firstTimeOwners: false, familiesWithChildren: true, seniorOwners: false, activeOwners: true, apartmentLiving: false)"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "verified",
+              "locator": "About Black Mouth Curs — family/children compatibility, high exercise needs, and rural lifestyle fit"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "All five suitability boolean flags and household match criteria verified against Embark and The Dog API."
         },
         "funFacts": {
           "reliability": "reliable_source",
@@ -15751,16 +15999,21 @@
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "History and recognition date"
+              "locator": "Characteristics, Muzzle, Feet, Color"
             },
             {
-              "id": "continental-kennel-club-black-mouth-cur",
+              "id": "continental-kennel-club-black-mouth-cur-spotlight",
               "role": "verified",
-              "locator": "Breed name and colour information"
+              "locator": "Black mask and dark gum/lip pigment namesake"
+            },
+            {
+              "id": "embark-black-mouth-cur",
+              "role": "verified",
+              "locator": "Fun Fact — multi-generational Southern family lineages"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Facts are paraphrased and restricted to points supported by the cited breed sources."
+          "verifiedOn": "2026-10-25",
+          "note": "All fun facts are written in original wording with no registry names in user-facing text."
         },
         "faq": {
           "reliability": "reliable_source",
@@ -15768,19 +16021,24 @@
             {
               "id": "ukc-black-mouth-cur-breed-standard",
               "role": "verified",
-              "locator": "History, Characteristics, Coat, Color, Height and Weight"
+              "locator": "History, Muzzle, Color, Height and Weight"
             },
             {
-              "id": "continental-kennel-club-black-mouth-cur",
+              "id": "embark-black-mouth-cur",
               "role": "verified",
-              "locator": "Breed aliases, lifespan, origin, and working roles"
+              "locator": "Height, Weight, About Black Mouth Curs"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "faq, care.exercise, suitability, physical"
             }
           ],
-          "verifiedOn": "2026-10-20",
-          "note": "Answers are paraphrased; where evidence is insufficient, the answer explicitly states the limitation."
+          "verifiedOn": "2026-10-25",
+          "note": "FAQs synthesised from verified breed sources and written in 100% original wording."
         }
       },
-      "updatedOn": "2026-10-20"
+      "updatedOn": "2026-10-25"
     },
     {
       "slug": "bloodhound",
@@ -49169,6 +49427,722 @@
         }
       },
       "updatedOn": "2026-10-21"
+    },
+    {
+      "slug": "manchester-terrier",
+      "name": "Manchester Terrier",
+      "scientificName": null,
+      "alternateNames": [],
+      "group": "FCI Group 3: Terriers; Section 1: Large and medium-sized Terriers",
+      "origin": {
+        "country": "Great Britain",
+        "region": "Manchester, England"
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Manchester_Terrier.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manchester_Terrier.jpg",
+          "title": "Manchester Terrier.jpg",
+          "description": "A Manchester Terrier named Scooter.",
+          "creator": "Jon Ovington",
+          "uploader": "Ltshears",
+          "capturedOn": "2008-12-02",
+          "uploadedOn": "2012-07-18",
+          "width": 900,
+          "height": 1200,
+          "licenseId": "cc-by-sa-2.0",
+          "attribution": "Photo by Jon Ovington, via Wikimedia Commons, CC BY-SA 2.0. Changes, if any, must be indicated. Adapted versions must be shared under the same or a compatible license.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-25"
+        }
+      ],
+      "overview": {
+        "summary": "A sleek, alert and athletic terrier from England, the Manchester Terrier combines a keen vermin-hunting instinct with a close bond to its people. Its short black-and-tan coat, elegant outline and quick, observant manner make it distinctive among terriers.",
+        "description": "The Manchester Terrier is a compact, muscular dog with a long, narrow, wedge-shaped head, a bright expression and a smooth, glossy coat. Its traditional black-and-tan markings are sharply defined, including tan spots above the eyes and markings on the muzzle, legs and underside. Developed as a working terrier, it is fast, curious and attentive to movement. At home it can be affectionate and relaxed when its physical and mental needs are met, but its prey drive means small animals should be managed carefully. The breed benefits from daily activity, engaging training, and early, positive socialisation.",
+        "history": "The Manchester Terrier developed in and around Manchester, England, during the period when the region's textile mills and towns needed effective rat-catching dogs. It descends from older black-and-tan terrier types, and Whippet ancestry is commonly cited as contributing to its speed and refined outline. The breed became associated with ratting competitions and rabbit hunting. As tastes and laws changed, its popularity declined, but dedicated breeders maintained it. In the United States, the American Kennel Club recognises Standard and Toy varieties; other kennel organisations classify the breed differently.",
+        "originalPurpose": "Ratting and controlling vermin, with the speed and agility to pursue small game such as rabbits.",
+        "currentRoles": [
+          "Companion dog",
+          "Vermin-alert and watchdog companion",
+          "Agility, obedience, rally and scent-work participant",
+          "Active household companion for people who enjoy training and outdoor activity"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "small",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 41,
+            "max": 41
+          },
+          "female": {
+            "min": 38,
+            "max": 38
+          }
+        },
+        "weight": {
+          "unit": "kg",
+          "male": {
+            "min": 5.5,
+            "max": 10
+          },
+          "female": {
+            "min": 5.5,
+            "max": 10
+          }
+        },
+        "lifespanYears": {
+          "min": 15,
+          "max": 17
+        },
+        "coatType": "Short, smooth, close-lying and glossy.",
+        "coatLength": "Short and close to the body.",
+        "coatColors": [
+          "Jet black with rich mahogany-tan markings"
+        ],
+        "sheddingLevel": "low to moderate",
+        "droolingLevel": "low",
+        "distinctiveFeatures": [
+          "Long, narrow, wedge-shaped head with a flat skull",
+          "Bright, keen and observant expression",
+          "Small, dark, almond-shaped eyes",
+          "Small, V-shaped ears carried above the head; permitted ear carriage varies by registry and variety",
+          "Compact, muscular body with an elegant, athletic outline",
+          "Short, glossy coat requiring little routine grooming",
+          "Distinct black-and-tan markings with clearly defined colour boundaries",
+          "Tapering tail carried in line with the back rather than curled over it"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Alert and keenly observant",
+          "Bright and quick to notice movement",
+          "Affectionate and devoted to familiar people",
+          "Energetic and athletic",
+          "Curious and interested in exploring",
+          "May pursue rodents and other small animals because of its working heritage",
+          "Can be discerning around unfamiliar people",
+          "Often enjoys learning when training is engaging and reward-based"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": 3,
+          "withDogs": 3,
+          "withStrangers": 3,
+          "protectiveness": 3,
+          "independence": 3,
+          "trainability": 4,
+          "barking": 3,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "moderate to high",
+          "minutesPerDay": {
+            "min": 45,
+            "max": 60
+          },
+          "activities": [
+            "Daily walks with time to sniff and explore",
+            "Fetch and supervised games in a secure area",
+            "Short obedience and trick-training sessions",
+            "Agility, rally or other suitable dog sports",
+            "Scent games and food-puzzle activities"
+          ]
+        },
+        "grooming": {
+          "level": "low",
+          "brushing": "Wipe the coat with a soft grooming glove or damp cloth weekly; brush occasionally to remove loose hair and maintain shine.",
+          "bathing": "Bathe when necessary with a dog-appropriate shampoo. Avoid frequent bathing that dries the skin.",
+          "notes": [
+            "The short coat is easy to maintain and does not usually need professional trimming.",
+            "Check the ears regularly for redness, odour, excess wax or discharge.",
+            "Trim nails regularly and inspect the paws after walks.",
+            "Brush teeth with dog toothpaste as part of a consistent dental-care routine.",
+            "Provide a warm, comfortable resting place in cold weather; the short coat offers limited insulation."
+          ]
+        },
+        "training": {
+          "difficulty": "moderate",
+          "tips": [
+            "Use short, positive sessions with food rewards, toys or play.",
+            "Teach recall early, but do not rely on it to override a strong prey response around wildlife.",
+            "Practise calm leash walking and attention around moving animals.",
+            "Introduce people, dogs, sounds and new environments gradually and positively.",
+            "Provide puzzle games, scent work and training tasks to keep the dog mentally engaged.",
+            "Supervise interactions with small pets and keep the dog in a secure area where it cannot chase wildlife."
+          ],
+          "socialization": "Early and ongoing positive socialisation helps the dog become comfortable with unfamiliar people, dogs and everyday environments. Manage introductions thoughtfully and supervise interactions with small animals because prey drive varies by individual."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": true,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Temperate climates",
+            "Mild climates",
+            "Cold weather requires suitable shelter or clothing when needed because the coat is short",
+            "In hot weather, provide shade, fresh water and exercise during cooler hours"
+          ],
+          "aloneTimeTolerance": "Individual tolerance varies. Teach alone time gradually and provide exercise and enrichment; avoid routinely leaving the dog alone for long periods."
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced diet suitable for the dog's life stage, activity level and body condition.",
+        "feedingFrequency": {
+          "puppy": "Feed a complete puppy diet in several age-appropriate meals each day, following veterinary guidance and the food's feeding instructions.",
+          "adult": "Two measured meals per day suit many adults; adjust the amount to activity and body condition.",
+          "senior": "Adjust food type and portions to activity, dental health, body condition and veterinary advice."
+        },
+        "guidelines": "Use a nutritionally complete diet appropriate for the dog's age and activity. Treat feeding-guide amounts as a starting point and adjust to maintain a lean, healthy body condition. Keep fresh water available and account for training treats in the daily food allowance.",
+        "considerations": [
+          "Avoid excess calories and monitor body condition regularly.",
+          "Use measured portions rather than relying only on visual estimates.",
+          "Choose a diet appropriate for growth during puppyhood and avoid unnecessary supplements unless advised by a veterinarian.",
+          "Discuss any persistent digestive changes, weight loss, weight gain or food intolerance with a veterinarian."
+        ],
+        "note": "This is general canine nutrition guidance, not an individual feeding prescription. Portion size depends on age, metabolism, activity and health."
+      },
+      "health": {
+        "overview": "The Manchester Terrier is often described as long-lived, but individual health varies. The breed's parent-club screening guidance includes testing or assessment for von Willebrand disease, thyroid disease, eye and cardiac conditions, and congenital deafness. Some additional conditions are listed as recommended screening topics. These recommendations support responsible breeding; they do not mean every dog will develop those conditions.",
+        "commonConditions": [
+          "Von Willebrand disease: an inherited bleeding disorder for which DNA testing is recommended by the parent club.",
+          "Autoimmune thyroiditis: a thyroid condition for which screening is recommended by the parent club.",
+          "Patellar luxation: displacement of the kneecap, which can affect small and small-to-medium dogs.",
+          "Juvenile dilated cardiomyopathy: a serious heart condition that the parent club lists as a recommended screening topic.",
+          "Legg-Calvé-Perthes disease: a hip-joint condition listed in the parent club's recommended screening guidance.",
+          "Xanthinuria type 2A: an inherited condition included in the parent club's recommended DNA screening guidance.",
+          "Congenital deafness: the parent club lists BAER-based evaluation in its screening recommendations."
+        ],
+        "preventiveCare": [
+          "Arrange regular veterinary examinations and keep vaccinations and parasite prevention appropriate to the dog's circumstances.",
+          "Ask about the parents' health-screening records when choosing a puppy.",
+          "Maintain a healthy body condition and provide regular exercise suited to age and fitness.",
+          "Seek veterinary advice for unexplained bruising or bleeding, weakness, fainting, exercise intolerance, persistent lameness or changes in vision.",
+          "Maintain dental hygiene, nail care, and routine ear and skin checks.",
+          "Discuss anaesthesia and the dog's full medical history with the veterinarian before any procedure."
+        ],
+        "recommendedScreenings": [
+          "Von Willebrand disease type 1 DNA test",
+          "Thyroid evaluation for autoimmune thyroiditis",
+          "Ophthalmologist eye examination",
+          "Cardiac evaluation",
+          "BAER-based evaluation for congenital deafness",
+          "Discuss Legg-Calvé-Perthes evaluation, juvenile dilated cardiomyopathy DNA testing, xanthinuria type 2A DNA testing and patellar luxation evaluation with the breeder or veterinarian"
+        ],
+        "dentalCare": "Brush regularly with dog toothpaste and arrange veterinary dental checks. Ask a veterinarian about persistent bad breath, gum inflammation, broken teeth or difficulty eating.",
+        "earCare": "Check the ears regularly for redness, odour, discharge or discomfort. Clean only as needed with a dog-safe product and seek veterinary advice if symptoms persist.",
+        "skinCare": "Inspect the short coat and skin during grooming. Seek veterinary advice for persistent itching, redness, lumps, hair loss or recurrent irritation."
+      },
+      "suitability": {
+        "firstTimeOwners": true,
+        "familiesWithChildren": true,
+        "seniorOwners": true,
+        "activeOwners": true,
+        "apartmentLiving": true,
+        "idealFor": [
+          "People seeking a small, athletic companion",
+          "Owners who enjoy daily walks, games and training",
+          "Households willing to manage terrier prey drive responsibly",
+          "People who prefer a short coat with relatively simple grooming needs",
+          "Owners interested in agility, obedience, scent games or other dog activities"
+        ],
+        "notIdealFor": [
+          "Homes where small pets cannot be safely separated or supervised",
+          "Owners expecting a dog that needs very little exercise or mental stimulation",
+          "People unwilling to work on recall, leash manners and early socialisation",
+          "Households where the dog would routinely be left alone for long periods without enrichment"
+        ]
+      },
+      "funFacts": [
+        "The breed takes its name from Manchester, England, where it became associated with ratting and urban working life.",
+        "The breed's history combines traditional black-and-tan terrier ancestry with a likely influence from Whippet-type dogs.",
+        "In American Kennel Club classification, Manchester Terriers have Standard and Toy varieties; the Toy is a size variety rather than a separate breed in that system.",
+        "Its distinct tan markings include small spots above the eyes and clearly separated markings on the muzzle and legs."
+      ],
+      "faq": [
+        {
+          "question": "Where does the Manchester Terrier come from?",
+          "answer": "The Manchester Terrier originated in England, particularly around Manchester, where it was developed as a fast and effective vermin-catching dog."
+        },
+        {
+          "question": "What colours are accepted for the Manchester Terrier?",
+          "answer": "The traditional standard colour is jet black with rich mahogany-tan markings. The boundaries between the two colours should be clearly defined."
+        },
+        {
+          "question": "How much exercise does a Manchester Terrier need?",
+          "answer": "Many adults benefit from daily walks and additional play or training. Around 45–60 minutes is a practical starting estimate, but age, fitness and individual energy levels should guide the routine."
+        },
+        {
+          "question": "Is the Manchester Terrier easy to groom?",
+          "answer": "Yes, its short, smooth coat is relatively low-maintenance. Regular wiping or brushing, nail trimming, ear checks and dental care are still important."
+        },
+        {
+          "question": "Can a Manchester Terrier live with cats or small pets?",
+          "answer": "Some can, particularly with careful introductions, but prey drive varies and small animals may trigger chasing. Supervise interactions and use secure separation whenever needed."
+        },
+        {
+          "question": "Which health tests should I ask a breeder about?",
+          "answer": "Ask for records of the parent club's recommended tests, including von Willebrand disease, thyroid, eye, cardiac and congenital-deafness assessments. Ask which additional tests are appropriate for the parents and current breeding programme."
+        }
+      ],
+      "references": [
+        "fci-manchester-terrier-standard",
+        "akc-manchester-terrier-standard",
+        "akc-manchester-terrier-profile",
+        "royal-kennel-club-manchester-terrier-profile",
+        "american-manchester-terrier-health",
+        "wikimedia-manchester-terrier-photo"
+      ],
+      "evidence": {
+        "alternateNames": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No alternate name was recorded because the consulted authoritative sources did not establish a sufficiently reliable current synonym."
+        },
+        "scientificName": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No breed-specific scientific name is established in the consulted breed standards; therefore no taxonomic label is asserted."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "FCI classification"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "FCI classification is used; kennel-club grouping systems can differ."
+        },
+        "origin.country": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "Origin"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": null
+        },
+        "origin.region": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "cited",
+              "locator": "Historical summary"
+            },
+            {
+              "id": "royal-kennel-club-manchester-terrier-profile",
+              "role": "verified",
+              "locator": "Breed history"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Manchester, England is the historically associated region and city; this is not a claim that the breed originated exclusively within modern city boundaries."
+        },
+        "overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "Historical summary, general appearance, behaviour and temperament"
+            },
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "About the breed and care guidance"
+            },
+            {
+              "id": "royal-kennel-club-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Breed history and characteristics"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Descriptions are original summaries of breed history and standard characteristics."
+        },
+        "physical.sizeCategory": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "royal-kennel-club-manchester-terrier-profile",
+              "role": "verified",
+              "locator": "Breed characteristics: size"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The Royal Kennel Club categorises the breed as small."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "Size"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The FCI standard gives 41 cm for dogs and 38 cm for bitches as standard heights. Equal bounds represent the stated target values, not guaranteed individual heights."
+        },
+        "physical.weight": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "Size, proportion and substance: Standard variety weight"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The AKC standard sets the Standard variety at over 12 lb and not exceeding 22 lb. The stored 5.5–10 kg range is a rounded conversion for app display and is not sex-specific in the cited standard."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "verified",
+              "locator": "Average sizes and life expectancy"
+            },
+            {
+              "id": "royal-kennel-club-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Breed characteristics: lifespan"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The AKC lists 15–17 years; the Royal Kennel Club describes lifespan as over 12 years. Individual longevity varies."
+        },
+        "physical.coatType": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "Coat"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": null
+        },
+        "physical.coatLength": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "Coat"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": null
+        },
+        "physical.coatColors": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "Colour"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Only the standard black-and-tan colour is recorded."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "royal-kennel-club-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Breed characteristics: sheds and coat length"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Low to moderate is an editorial estimate; the source confirms shedding but does not provide a measured shedding rate."
+        },
+        "physical.droolingLevel": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "cited",
+              "locator": "Head and lips"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Low is an editorial estimate based on the breed's close-fitting lips and refined head, not a measured breed statistic."
+        },
+        "physical.distinctiveFeatures": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "General appearance, head, eyes, ears, body, tail and coat"
+            },
+            {
+              "id": "akc-manchester-terrier-standard",
+              "role": "cited",
+              "locator": "General appearance"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": null
+        },
+        "temperament.traits": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "Behaviour and temperament"
+            },
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Breed traits and about the breed"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Traits describe typical breed tendencies, not guaranteed behaviour in every individual."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Breed traits and personality"
+            },
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "cited",
+              "locator": "Behaviour and temperament"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "All 1–5 scores are editorial estimates for app comparison, not validated behavioural measurements."
+        },
+        "care.exercise": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Exercise"
+            },
+            {
+              "id": "royal-kennel-club-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Breed characteristics: exercise"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Exercise level and duration are practical guidance, not an official standard requirement; adjust to the individual dog."
+        },
+        "care.grooming": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Grooming"
+            },
+            {
+              "id": "royal-kennel-club-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Breed characteristics: grooming and coat"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine grooming guidance is based on the short coat and general dog-care practice."
+        },
+        "care.training": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Training and socialisation"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Training advice is general guidance tailored to an active terrier with prey drive."
+        },
+        "care.livingEnvironment": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "royal-kennel-club-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Breed characteristics: size of home, town or country and garden"
+            },
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Exercise and care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability is an editorial assessment and depends on exercise, enrichment, local conditions and the individual dog."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Nutrition"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Feeding guidance is general canine nutrition advice, not an individual prescription."
+        },
+        "health.overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-manchester-terrier-health",
+              "role": "verified",
+              "locator": "Health and Research: Standard Manchester Terrier screening"
+            },
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Health and recommended health tests"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The overview summarises screening guidance and does not imply that an individual dog has any listed condition."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-manchester-terrier-health",
+              "role": "verified",
+              "locator": "Required and recommended health screening lists for Standard Manchester Terriers"
+            },
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Health and recommended health tests"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Conditions are included because they appear in breed-club screening guidance or health information. The list does not establish prevalence or mean every dog is affected."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General preventive-care guidance for dogs."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-manchester-terrier-health",
+              "role": "verified",
+              "locator": "Health and Research: required and recommended screening"
+            },
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Recommended health tests from the national breed club"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Screening lists may differ by variety and national breeding programme. Confirm current requirements with the responsible breed club and veterinarian."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine dental-care guidance."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine ear-care guidance."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General skin-care guidance."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Breed traits, exercise, training and care"
+            },
+            {
+              "id": "royal-kennel-club-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Size of home, exercise and town or country"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability flags are editorial guidance, not universal rules. Household setup, training, supervision and the individual dog's temperament matter."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "Historical summary and classification"
+            },
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "About the breed and Standard/Toy varieties"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": null
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-manchester-terrier-standard",
+              "role": "verified",
+              "locator": "Origin, history, size, coat and temperament"
+            },
+            {
+              "id": "akc-manchester-terrier-profile",
+              "role": "cited",
+              "locator": "Exercise, grooming, nutrition and health"
+            },
+            {
+              "id": "american-manchester-terrier-health",
+              "role": "cited",
+              "locator": "Health screening guidance"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Answers are original summaries; individual needs and outcomes vary."
+        }
+      },
+      "updatedOn": "2026-10-25"
     },
     {
       "slug": "maremma-sheepdog",

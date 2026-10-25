@@ -304,15 +304,21 @@ export interface NumericRange {
   max: number | null;
 }
 
-/** Stored height unit. Existing catalog values are centimetres. */
-export type HeightUnit = "cm" | "m" | "in";
+/**
+ * Stored height unit. Use the unit the source published.
+ * `mm` millimetres, `cm` centimetres, `m` metres, `in` inches, `ft` feet.
+ */
+export type HeightUnit = "mm" | "cm" | "m" | "in" | "ft";
 
-export const HEIGHT_UNITS = ["cm", "m", "in"] as const satisfies readonly HeightUnit[];
+export const HEIGHT_UNITS = ["mm", "cm", "m", "in", "ft"] as const satisfies readonly HeightUnit[];
 
-/** Stored weight unit. Existing catalog values are kilograms. `lb` is pounds. */
-export type WeightUnit = "kg" | "lb";
+/**
+ * Stored weight unit. Use the unit the source published.
+ * `g` grams, `kg` kilograms, `oz` ounces, `lb` pounds, `st` stone (14 pounds).
+ */
+export type WeightUnit = "g" | "kg" | "oz" | "lb" | "st";
 
-export const WEIGHT_UNITS = ["kg", "lb"] as const satisfies readonly WeightUnit[];
+export const WEIGHT_UNITS = ["g", "kg", "oz", "lb", "st"] as const satisfies readonly WeightUnit[];
 
 /**
  * Sex-specific numeric range plus the unit those numbers are stored in.

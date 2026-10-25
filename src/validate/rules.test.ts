@@ -168,8 +168,44 @@ test("a recorded measurement needs a unit", () => {
 
 test("measurement unit must be known", () => {
   const breed = unverified();
-  (breed.physical.height as { unit: string | null }).unit = "ft";
+  (breed.physical.height as { unit: string | null }).unit = "hands";
   assert.ok(errorsFor(breed).some((e) => e.includes("Unknown unit")));
+});
+
+test("height and weight accept the units breed sources publish", () => {
+  const cases = [
+    {
+      height: "mm" as const,
+      heightRange: { min: 480, max: 560 },
+      weight: "g" as const,
+      weightRange: { min: 18_000, max: 26_000 },
+    },
+    {
+      height: "ft" as const,
+      heightRange: { min: 1.5, max: 2 },
+      weight: "st" as const,
+      weightRange: { min: 3, max: 4 },
+    },
+    {
+      height: "in" as const,
+      heightRange: { min: 19, max: 22 },
+      weight: "oz" as const,
+      weightRange: { min: 640, max: 900 },
+    },
+  ];
+  for (const item of cases) {
+    const breed = unverified();
+    breed.physical.height.unit = item.height;
+    breed.physical.height.male = item.heightRange;
+    breed.physical.height.female = item.heightRange;
+    breed.physical.weight.unit = item.weight;
+    breed.physical.weight.male = item.weightRange;
+    breed.physical.weight.female = item.weightRange;
+    const measurementErrors = errorsFor(breed).filter(
+      (message) => message.includes("physical.height") || message.includes("physical.weight"),
+    );
+    assert.deepEqual(measurementErrors, [], `${item.height}/${item.weight}`);
+  }
 });
 
 test("evidence sources must be listed in references", () => {

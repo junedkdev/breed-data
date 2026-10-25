@@ -58,15 +58,22 @@ const LIMITS = {
   minutesPerDay: { min: 1, max: 600 },
 } as const;
 
+/** Adult dog bounds. Each unit covers the same span as 1–160 cm. */
 const HEIGHT_LIMITS: Record<HeightUnit, { min: number; max: number }> = {
+  mm: { min: 10, max: 1600 },
   cm: { min: 1, max: 160 },
   m: { min: 0.01, max: 1.6 },
   in: { min: 0.4, max: 63 },
+  ft: { min: 0.03, max: 5.3 },
 };
 
+/** Adult dog bounds. Each unit covers the same span as 0.1–120 kg. */
 const WEIGHT_LIMITS: Record<WeightUnit, { min: number; max: number }> = {
+  g: { min: 100, max: 120_000 },
   kg: { min: 0.1, max: 120 },
+  oz: { min: 3, max: 4240 },
   lb: { min: 0.2, max: 265 },
+  st: { min: 0.02, max: 19 },
 };
 
 /** Leaf fact paths: every path that is not a prefix of another path. */
