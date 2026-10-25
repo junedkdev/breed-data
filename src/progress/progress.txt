@@ -91,8 +91,8 @@
 86:lancashire_heeler - C
 87:german_spitz - C
 88:shiba_inu - C
+89:belgian_shepherd_dog_(malinois) - C
 
-89:belgian_shepherd_dog_(malinois)
 90:bulldog
 91:schapendoes
 92:toy_fox_terrier

@@ -93,6 +93,7 @@ import { ariegeois } from "./ariegeois";
 import { lancashire_heeler } from "./lancashire_heeler";
 import { german_spitz } from "./german_spitz";
 import { shiba_inu } from "./shiba_inu";
+import { belgian_shepherd_dog_malinois } from "./belgian_shepherd_dog_malinois";
 
 
 export const breedData: readonly Breed[] = [
@@ -185,4 +186,5 @@ export const breedData: readonly Breed[] = [
   lancashire_heeler,
   german_spitz,
   shiba_inu,
+  belgian_shepherd_dog_malinois,
 ];
