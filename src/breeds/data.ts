@@ -85,6 +85,12 @@ import { spinone_italiano } from "./spinone_italiano";
 import { mudi } from "./mudi";
 import { rafeiro_do_alentejo } from "./rafeiro_do_alentejo";
 import { polish_hound } from "./polish_hound";
+import { icelandic_sheepdog } from "./icelandic_sheepdog";
+import { old_english_sheepdog } from "./old_english_sheepdog";
+import { saluki } from "./saluki";
+import { grey_norwegian_elkhound } from "./grey_norwegian_elkhound";
+import { ariegeois } from "./ariegeois";
+import { lancashire_heeler } from "./lancashire_heeler";
 
 
 export const breedData: readonly Breed[] = [
@@ -169,4 +175,10 @@ export const breedData: readonly Breed[] = [
   mudi,
   rafeiro_do_alentejo,
   polish_hound,
+  icelandic_sheepdog,
+  old_english_sheepdog,
+  saluki,
+  grey_norwegian_elkhound,
+  ariegeois,
+  lancashire_heeler,
 ];

@@ -83,13 +83,13 @@
 78:mudi - C
 79:rafeiro_do_alentejo - C
 80:polish_hound - C
+81:icelandic_sheepdog - C
+82:old_english_sheepdog - C
+83:saluki - C
+84:grey_norwegian_elkhound - C
+85:ariegeois - C
+86:lancashire_heeler - C
 
-81:icelandic_sheepdog
-82:old_english_sheepdog
-83:saluki
-84:grey_norwegian_elkhound
-85:ariegeois
-86:lancashire_heeler
 87:german_spitz
 88:shiba_inu
 89:belgian_shepherd_dog_(malinois)
