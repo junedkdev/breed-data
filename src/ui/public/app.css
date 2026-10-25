@@ -75,9 +75,13 @@ button:disabled { opacity: 0.6; cursor: wait; }
 
 .help, #counts, #check-summary { color: #57534e; }
 .current { font-family: ui-monospace, Menlo, Consolas, monospace; }
-.message { min-height: 1.2em; }
-.message.error { color: #9f1239; }
-.message.warn { color: #92400e; }
+.message { min-height: 1.2em; color: #1c1917; }
+.message ul {
+  margin: 8px 0 0;
+  padding-left: 1.2em;
+}
+.message li { margin: 3px 0; line-height: 1.4; }
+.message li.error { color: #9f1239; }
 
 .choice { margin: 12px 0; }
 .choice h3, .choice h4 { margin: 12px 0 6px; font-size: 16px; }

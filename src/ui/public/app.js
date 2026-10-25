@@ -22,6 +22,8 @@ const geminiOurs = document.querySelector("#gemini-ours");
 const geminiCandidates = document.querySelector("#gemini-candidates");
 const geminiCopy = document.querySelector("#gemini-copy");
 const geminiRetry = document.querySelector("#gemini-retry");
+const geminiPhotos = document.querySelector("#gemini-photos");
+const geminiPhotoRow = document.querySelector("#gemini-photo-row");
 
 let suggestedFile = "";
 let progressRows = [];
@@ -133,7 +135,8 @@ async function chooseTheDog(breedId) {
 
 async function runGemini(url, label, body = {}) {
   clearMessage(geminiMessage);
-  geminiMessage.textContent = "Fetching The Dog API…";
+  hidePhotos();
+  showGeminiPoints([{ text: "Fetching The Dog API…" }]);
   geminiCopy.disabled = true;
   geminiRetry.disabled = true;
   try {
@@ -144,25 +147,53 @@ async function runGemini(url, label, body = {}) {
     }
     geminiPrompt.value = result.prompt;
     const breed = `${result.breed.index}:${result.breed.name}`;
+    const points = [{ text: `${label}. ${breed} is now CR.` }];
     if (result.thedog.status === "choose") {
       showChoice(result.thedog);
-      geminiMessage.textContent = `${breed} is now CR. ${result.thedog.message}`;
-      geminiMessage.classList.add("warn");
+      points[0] = { text: `${breed} is now CR.` };
+      points.push({ text: result.thedog.message });
     } else {
       hideChoice();
       if (result.copyPrompt) await copyText(result.prompt, geminiPrompt);
-      const detail = result.thedog.message || "";
-      geminiMessage.textContent = `${label}. ${breed} is now CR. ${detail}`;
-      if (result.thedog.status === "failed") geminiMessage.classList.add("error");
-      else if (result.thedog.status === "missing" || (result.thedog.warnings || []).length > 0) {
-        geminiMessage.classList.add("warn");
+      if (result.thedog.status === "ready") {
+        showPhotos(result.thedog.photos);
+        points.push(
+          { text: `The Dog API reference is at ${result.thedog.file}.` },
+          { text: "Attach that file in Gemini." },
+        );
+      } else if (result.thedog.message) {
+        points.push({
+          text: result.thedog.message,
+          tone: result.thedog.status === "failed" ? "error" : "",
+        });
+      }
+      for (const warning of result.thedog.warnings || []) {
+        if (isPlanLimit(warning)) continue;
+        points.push({ text: warning.endsWith(".") ? warning : `${warning}.` });
       }
     }
+    showGeminiPoints(points);
     await refresh();
   } finally {
     geminiCopy.disabled = false;
     geminiRetry.disabled = false;
   }
+}
+
+function showGeminiPoints(items) {
+  const list = document.createElement("ul");
+  for (const item of items) {
+    if (!item.text) continue;
+    const line = document.createElement("li");
+    line.textContent = item.text;
+    if (item.tone) line.classList.add(item.tone);
+    list.append(line);
+  }
+  geminiMessage.replaceChildren(list);
+}
+
+function isPlanLimit(warning) {
+  return /not available on free plan|enable_health_tips/i.test(warning);
 }
 
 function showChoice(thedog) {
@@ -212,6 +243,34 @@ function photo(url, alt) {
   return image;
 }
 
+function showPhotos(photos) {
+  geminiPhotos.hidden = false;
+  geminiPhotoRow.replaceChildren();
+  geminiPhotoRow.append(
+    photoCard("ChatGPT file", photos?.chatgpt, "The ChatGPT file has no photograph yet."),
+    photoCard("The Dog API", photos?.thedog, "No photograph from The Dog API."),
+  );
+}
+
+function photoCard(title, url, emptyText) {
+  const card = document.createElement("article");
+  const heading = document.createElement("p");
+  heading.textContent = title;
+  card.append(heading);
+  if (url) card.append(photo(url, title));
+  else {
+    const note = document.createElement("p");
+    note.textContent = emptyText;
+    card.append(note);
+  }
+  return card;
+}
+
+function hidePhotos() {
+  geminiPhotos.hidden = true;
+  geminiPhotoRow.replaceChildren();
+}
+
 function hideChoice() {
   geminiChoice.hidden = true;
   geminiOurs.replaceChildren();
@@ -225,10 +284,12 @@ async function updateRecord() {
     sources: geminiSources.value,
   });
   if (!result) return;
-  geminiMessage.textContent = result.message;
+  const points = result.points || [result.message];
+  showGeminiPoints(points.map((text) => ({ text })));
   geminiContent.value = "";
   geminiSources.value = "";
   hideChoice();
+  hidePhotos();
   showCheck(result.check);
   await refresh();
 }
@@ -281,15 +342,18 @@ async function getJson(url) {
 async function readResponse(response) {
   const body = await response.json();
   if (!response.ok) {
-    const target = response.url.includes("gemini") ? geminiMessage : chatgptMessage;
-    target.textContent = body.error || "Request failed.";
-    target.classList.add("error");
+    const text = body.error || "Request failed.";
+    if (response.url.includes("gemini")) showGeminiPoints([{ text, tone: "error" }]);
+    else {
+      chatgptMessage.textContent = text;
+      chatgptMessage.classList.add("error");
+    }
     return null;
   }
   return body;
 }
 
 function clearMessage(element) {
-  element.textContent = "";
-  element.classList.remove("error");
+  element.replaceChildren();
+  element.classList.remove("error", "warn");
 }

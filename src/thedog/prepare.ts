@@ -41,11 +41,17 @@ export interface TheDogChoice {
   candidates: MatchCandidate[];
 }
 
+export interface TheDogPhotos {
+  chatgpt: string | null;
+  thedog: string | null;
+}
+
 export interface TheDogReady {
   status: "ready";
   message: string;
   file: string;
   warnings: string[];
+  photos: TheDogPhotos;
 }
 
 export interface TheDogNotice {
@@ -169,13 +175,22 @@ async function writeBreed(
   );
   const path = writeCurrentFile(identity.exportName, renderBreedFile(breed, identity.exportName));
   const file = relativeToRoot(path);
-  const warningText = warnings.map((warning) => (warning.endsWith(".") ? warning : `${warning}.`)).join(" ");
+  const visible = warnings.filter(showWarning);
   return {
     status: "ready",
     file,
-    warnings,
-    message: `The Dog API reference is at ${file}. Attach that file in Gemini.${warningText ? ` ${warningText}` : ""}`,
+    warnings: visible,
+    photos: {
+      chatgpt: identity.images[0] ?? null,
+      thedog: detail.image?.url ?? listed.image?.url ?? null,
+    },
+    message: `The Dog API reference is at ${file}. Attach that file in Gemini.`,
   };
+}
+
+/** The free plan always refuses facts and health tips. Those refusals are not shown. */
+function showWarning(warning: string): boolean {
+  return !/not available on free plan|enable_health_tips/i.test(warning);
 }
 
 async function loadExtras(

@@ -33,7 +33,8 @@
 30:pyrenean_mastiff - CG
 31:tibetan_terrier - CG
 
-32:blackmouth_cur - C
+32:blackmouth_cur - CR
+
 33:german_rough-haired_pointer - C
 34:tyrolean_hound - C
 35:bernese_mountain_dog - C

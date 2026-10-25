@@ -56,6 +56,9 @@
         <p id="gemini-breed" class="current">Loading…</p>
         <button id="gemini-copy" type="button">Copy prompt for next breed</button>
         <button id="gemini-retry" type="button">Fetch The Dog API again</button>
+        <div id="gemini-photos" class="choice" hidden>
+          <div id="gemini-photo-row" class="choice-grid"></div>
+        </div>
         <div id="gemini-choice" class="choice" hidden>
           <h3>Choose the The Dog API breed</h3>
           <p id="gemini-choice-message"></p>
@@ -77,7 +80,7 @@
           <textarea id="gemini-sources" rows="8" spellcheck="false" placeholder="Paste new or updated source entries. Leave empty if there are none."></textarea>
         </label>
         <button id="gemini-update" type="button">Update record</button>
-        <p id="gemini-message" class="message"></p>
+        <div id="gemini-message" class="message"></div>
       </section>
     </main>
 

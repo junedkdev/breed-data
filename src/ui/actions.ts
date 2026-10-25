@@ -144,7 +144,10 @@ export async function chooseGeminiTheDog(breedId: string): Promise<GeminiPromptR
   };
 }
 
-export function updateGeminiRecord(input: { content: string; sources: string }): { message: string } {
+export function updateGeminiRecord(input: {
+  content: string;
+  sources: string;
+}): { message: string; points: string[] } {
   const rows = readRows();
   const breed = rows.find((row) => row.status === "CR");
   if (!breed) throw new UserError("Copy the Gemini prompt first. That marks the breed as CR.");
@@ -159,9 +162,13 @@ export function updateGeminiRecord(input: { content: string; sources: string }):
     ? `The Dog API reference is at ${relativeToRoot(archived)}.`
     : "src/thedog/current had no The Dog API reference for this breed.";
   saveRows(withStatus(rows, breed.index, "CG"));
-  return {
-    message: `Updated ${breed.index}:${breed.name} as CG. Wrote ${file}. ${sourceMessage} ${archiveMessage}`,
-  };
+  const points = [
+    `Updated ${breed.index}:${breed.name} as CG.`,
+    `Wrote ${file}.`,
+    sourceMessage,
+    archiveMessage,
+  ];
+  return { message: points.join(" "), points };
 }
 
 async function finishGemini(breed: ProgressBreed, fresh: boolean): Promise<GeminiPromptResult> {
