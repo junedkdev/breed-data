@@ -91,6 +91,8 @@ import { saluki } from "./saluki";
 import { grey_norwegian_elkhound } from "./grey_norwegian_elkhound";
 import { ariegeois } from "./ariegeois";
 import { lancashire_heeler } from "./lancashire_heeler";
+import { german_spitz } from "./german_spitz";
+import { shiba_inu } from "./shiba_inu";
 
 
 export const breedData: readonly Breed[] = [
@@ -181,4 +183,6 @@ export const breedData: readonly Breed[] = [
   grey_norwegian_elkhound,
   ariegeois,
   lancashire_heeler,
+  german_spitz,
+  shiba_inu,
 ];

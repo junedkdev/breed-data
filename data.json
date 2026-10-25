@@ -8376,6 +8376,127 @@
       "publishedOn": null,
       "accessedOn": "2026-10-25",
       "note": "Original file page records a photograph dated 12 November 2011, uploaded to Wikimedia Commons on 6 August 2012, at 1773 × 2559 pixels, under CC BY 2.0."
+    },
+    "fci-german-spitz-standard-97": {
+      "id": "fci-german-spitz-standard-97",
+      "name": "FCI Standard No. 97 — German Spitz",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/Nomenclature/Standards/097g05-en.pdf",
+      "type": "official_breed_standard",
+      "commercialUse": "reference_only",
+      "publishedOn": "2024-09-03",
+      "accessedOn": "2026-10-25",
+      "note": "Official English-language FCI Standard No. 97, dated 20 September 2024; the document states that the official valid standard was published on 3 September 2024. Covers origin, Group 5 Section 4 classification, five varieties, appearance, coat, colours and variety-specific size guidance."
+    },
+    "vdh-german-spitz-profile": {
+      "id": "vdh-german-spitz-profile",
+      "name": "Verband für das Deutsche Hundewesen (VDH) — German Spitz Breed Profile",
+      "publisher": "Verband für das Deutsche Hundewesen (VDH)",
+      "url": "https://welpen.vdh.de/hunderassen/rasselexikon/ergebnis/deutscher-spitz",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "German kennel-club profile covering the FCI classification, variety-specific height, double coat and permitted colours."
+    },
+    "american-kennel-club-german-spitz": {
+      "id": "american-kennel-club-german-spitz",
+      "name": "American Kennel Club — German Spitz",
+      "publisher": "American Kennel Club",
+      "url": "https://www.akc.org/dog-breeds/german-spitz/",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Breed profile covering general temperament, seasonal shedding, reported PRA, retinal dysplasia and patellar luxation, and breed health information."
+    },
+    "akc-german-spitz-health-testing": {
+      "id": "akc-german-spitz-health-testing",
+      "name": "American Kennel Club — German Spitz Health Testing Recommendations",
+      "publisher": "American Kennel Club",
+      "url": "https://www.akc.org/breeder-programs/breed-health-testing-requirements/miscellaneous-class-fss-health-testing-requirements/",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Lists German Spitz health tests recommended by the national breed club: patella, hip, elbow, ophthalmologist and multiplex DNA testing."
+    },
+    "gsboc-german-spitz-health-testing": {
+      "id": "gsboc-german-spitz-health-testing",
+      "name": "German Spitz Breeders and Owners Club — Health and Testing",
+      "publisher": "German Spitz Breeders and Owners Club",
+      "url": "https://www.gsboc.co.uk/pgsec.php?pgct=2",
+      "type": "breed_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Breed-club health guidance covering annual eye testing, patella testing and the possible value of hip scoring."
+    },
+    "wikimedia-german-spitz-savannahepryor": {
+      "id": "wikimedia-german-spitz-savannahepryor",
+      "name": "Wikimedia Commons — File:German spitz.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:German_spitz.jpg",
+      "type": "other",
+      "commercialUse": "commercial_use",
+      "publishedOn": "2016-03-16",
+      "accessedOn": "2026-10-25",
+      "note": "Photograph of a German Spitz Mittelspitz by Savannahepryor. Original file is 4592 × 3448 pixels; the file page records the photograph date as 17 July 2015 and the upload as 16 March 2016. Licensed CC BY-SA 4.0; attribution and share-alike conditions apply."
+    },
+    "fci-shiba-inu-standard-257": {
+      "id": "fci-shiba-inu-standard-257",
+      "name": "FCI Standard No. 257 — Shiba",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/Nomenclature/Standards/257g05-en.pdf",
+      "type": "official_breed_standard",
+      "commercialUse": "reference_only",
+      "publishedOn": "2017-02-09",
+      "accessedOn": "2026-10-25",
+      "note": "Official English-language breed standard. The FCI nomenclature lists the official valid standard publication date as 30 October 2016 and the English standard publication date as 9 February 2017. Covers Japanese origin, Group 5 Section 5 classification, history, hunting use, temperament, coat, colours and height."
+    },
+    "japan-kennel-club-shiba": {
+      "id": "japan-kennel-club-shiba",
+      "name": "Japan Kennel Club — Shiba",
+      "publisher": "Japan Kennel Club",
+      "url": "https://www.jkc.or.jp/breeds/shiba/",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": "2025-03-05",
+      "accessedOn": "2026-10-25",
+      "note": "Japanese kennel-club breed profile, updated 5 March 2025. Covers origin, breed history, behaviour, coat colours and male/female height."
+    },
+    "american-kennel-club-shiba-inu": {
+      "id": "american-kennel-club-shiba-inu",
+      "name": "American Kennel Club — Shiba Inu",
+      "publisher": "American Kennel Club",
+      "url": "https://www.akc.org/dog-breeds/shiba-inu/",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Breed profile covering appearance, general health concerns, recommended health tests, grooming, exercise, training and nutrition."
+    },
+    "national-shiba-club-health": {
+      "id": "national-shiba-club-health",
+      "name": "National Shiba Club of America — Shiba Health",
+      "publisher": "National Shiba Club of America",
+      "url": "https://www.shibas.org/health.html",
+      "type": "breed_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Breed-club health information covering reported health issues and parent-club health testing recommendations."
+    },
+    "wikimedia-shiba-inu-howyadointhere": {
+      "id": "wikimedia-shiba-inu-howyadointhere",
+      "name": "Wikimedia Commons — File:Shiba inu.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Shiba_inu.jpg",
+      "type": "other",
+      "commercialUse": "commercial_use",
+      "publishedOn": null,
+      "accessedOn": "2026-10-25",
+      "note": "Photograph of an 11-year-old Shiba Inu by Howyadointhere. The file page records a capture date of 9 March 2019, an upload on 31 March 2019 and original dimensions of 4032 × 3024 pixels. Licensed CC BY-SA 4.0; attribution and share-alike conditions apply."
     }
   },
   "licenses": {
@@ -39374,6 +39495,652 @@
       "updatedOn": "2026-10-21"
     },
     {
+      "slug": "german-spitz",
+      "name": "German Spitz",
+      "scientificName": null,
+      "alternateNames": [
+        "Deutscher Spitz"
+      ],
+      "group": "FCI Group 5 — Spitz and primitive types; Section 4 — European Spitz",
+      "origin": {
+        "country": "Germany",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/German_spitz.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:German_spitz.jpg",
+          "title": "German spitz.jpg",
+          "description": "German Spitz, Mittelspitz variety.",
+          "creator": "Savannahepryor",
+          "uploader": "Savannahepryor",
+          "capturedOn": "2015-07-17",
+          "uploadedOn": "2016-03-16",
+          "width": 4592,
+          "height": 3448,
+          "licenseId": "cc-by-sa-4.0",
+          "attribution": "Photo by Savannahepryor, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). No changes made. Adaptations must be distributed under the same or a compatible license.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-25"
+        }
+      ],
+      "overview": {
+        "summary": "The German Spitz is a German-origin breed family recognised in several size varieties. It is known for its upright pointed ears, foxy expression, abundant double coat and bushy tail carried over the back. Depending on the variety, a German Spitz can be a small companion or a noticeably larger watchdog. The breed is generally alert, lively and closely attached to its household, and its coat and tendency to notice unfamiliar activity are important considerations for prospective owners.",
+        "description": "German Spitz dogs have a distinctive outline created by a dense undercoat that lifts the longer outer coat away from the body. A mane-like ruff frames the neck and shoulders, while the tail is richly coated and carried curled over the back. The head tapers towards the nose, and the small triangular ears stand upright. Coat colours and size depend on the recognised variety. These dogs are often observant and responsive to activity around the home, so early training should include calm greetings and appropriate responses to sounds and visitors. Regular coat care, reward-based training and activities suited to the individual dog's size and age help support a comfortable home life.",
+        "history": "The FCI breed standard describes German Spitz dogs as descendants of ancient Central European Spitz-type dogs, including the peat-dog and lake-dwelling Spitz types. It notes that many other breeds developed from these dogs. The modern German Spitz standard groups five varieties under one breed standard: Wolfspitz/Keeshond, German Giant Spitz, German Medium Size Spitz, German Miniature Spitz and German Toy Spitz/Pomeranian. The varieties share a recognisable Spitz outline but differ in size and some permitted coat colours.",
+        "originalPurpose": "Watchdog and companion dog, as stated in the FCI breed standard.",
+        "currentRoles": [
+          "Companion dog",
+          "Household watchdog",
+          "Reward-based obedience and trick training",
+          "Suitable canine activities chosen for the dog's variety, age and fitness",
+          "Conformation showing"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Small to large depending on variety; the German Spitz is a family of five recognised size varieties.",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 18,
+            "max": 55
+          },
+          "female": {
+            "min": 18,
+            "max": 55
+          }
+        },
+        "weight": {
+          "unit": null,
+          "male": null,
+          "female": null
+        },
+        "lifespanYears": null,
+        "coatType": "Double coat with a long, straight, stand-off outer coat and a short, thick, soft undercoat.",
+        "coatLength": "Long and abundant over most of the body, with shorter, dense hair on the head, ears, front of the legs and feet.",
+        "coatColors": [
+          "White",
+          "Black",
+          "Brown",
+          "Orange",
+          "Grey-shaded",
+          "Other colours permitted by the standard, including orange-sable, cream, cream-sable, black-and-tan, black-and-silver, brown-and-tan and specified parti-colour patterns"
+        ],
+        "sheddingLevel": "Seasonal shedding can be substantial. The undercoat is shed heavily during coat changes, and more frequent brushing is useful during those periods.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Small, upright, triangular ears",
+          "Foxy, wedge-shaped head",
+          "Dense mane-like ruff around the neck and shoulders",
+          "Bushy tail carried over the back",
+          "Abundant double coat",
+          "Five recognised size varieties under the FCI German Spitz standard"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Alert and attentive",
+          "Lively",
+          "Usually closely attached to familiar people",
+          "Trainable with consistent, positive methods",
+          "Can be wary of unfamiliar people",
+          "Often quick to notice sounds and activity around the home",
+          "May bark to alert its household"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": 3,
+          "withDogs": 3,
+          "withStrangers": 3,
+          "protectiveness": 3,
+          "independence": 3,
+          "trainability": 4,
+          "barking": 4,
+          "energy": 3
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate as a general starting point; needs vary with variety, age, health and individual temperament.",
+          "minutesPerDay": null,
+          "activities": [
+            "Daily walks suited to the dog's size and fitness",
+            "Short reward-based training sessions",
+            "Scent games and food puzzles",
+            "Supervised play",
+            "Age-appropriate obedience and trick training",
+            "Secure outdoor exploration"
+          ]
+        },
+        "grooming": {
+          "level": "Moderate to high, especially during seasonal coat changes",
+          "brushing": "Brush through the coat regularly to help prevent tangles and remove loose undercoat. Increase brushing during heavier seasonal shedding. Work gently through the ruff, feathering and areas where the coat can become compacted. Avoid forceful brushing that can damage the coat or irritate the skin.",
+          "bathing": "Bathe when needed with a dog-appropriate shampoo, rinse thoroughly and dry the coat carefully. Avoid unnecessary frequent bathing and make sure the dense undercoat dries properly.",
+          "notes": [
+            "Expect more loose undercoat during seasonal coat changes.",
+            "Introduce brushing and handling gradually from puppyhood.",
+            "Check the skin while grooming for irritation, lumps or parasites.",
+            "Inspect the ears regularly and ask a veterinarian about redness, odour or discharge.",
+            "Trim nails as needed.",
+            "Brush teeth regularly using dog-specific dental products.",
+            "Do not shave the double coat as a routine grooming shortcut; discuss medical or coat-related concerns with a qualified groomer or veterinarian."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate. The breed is described as trainable, but alertness and barking may need consistent management.",
+          "tips": [
+            "Use reward-based training and short, engaging sessions.",
+            "Teach a reliable recall gradually in controlled environments.",
+            "Reward quiet behaviour and calm responses to household sounds.",
+            "Practise polite greetings with visitors rather than allowing repeated uncontrolled barking.",
+            "Provide suitable enrichment instead of relying on exercise alone.",
+            "Teach handling and grooming skills with rewards and patience.",
+            "Adapt activities to the dog's particular size variety and physical ability."
+          ],
+          "socialization": "Introduce the dog positively and gradually to different people, calm dogs, household sounds, handling and everyday environments. Reward relaxed behaviour around visitors and unfamiliar activity. Supervise children and dogs together, and allow the individual dog's comfort and behaviour to guide interactions."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": null,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Cool and temperate conditions",
+            "Cold weather with appropriate shelter and monitoring",
+            "Warm weather with shade, fresh water and exercise during cooler periods"
+          ],
+          "aloneTimeTolerance": null
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced dog food appropriate to life stage, body condition, activity and veterinary needs.",
+        "feedingFrequency": {
+          "puppy": "Feed an appropriate complete puppy diet in age-appropriate meals. Adjust portions as growth progresses and follow veterinary guidance and the food's feeding instructions.",
+          "adult": "Many adult dogs do well with measured meals on a consistent schedule. The appropriate amount depends on the dog's variety, size, activity, body condition and health.",
+          "senior": "Choose food and meal portions according to the senior dog's body condition, activity and medical needs, with veterinary advice where appropriate."
+        },
+        "guidelines": "Measure portions and monitor body condition rather than relying on a fixed amount for every German Spitz. Keep fresh water available, account for training treats in the daily food allowance and make dietary changes gradually unless a veterinarian advises otherwise. Puppies, adults and older dogs may have different nutritional needs.",
+        "considerations": [
+          "Adjust portions to the individual dog's size and activity.",
+          "Monitor body condition and avoid excess weight.",
+          "Keep fresh water available throughout the day.",
+          "Count treats and chews as part of the overall food allowance.",
+          "Use a diet appropriate to the dog's life stage.",
+          "Discuss persistent digestive, skin or weight concerns with a veterinarian."
+        ],
+        "note": "This is general canine nutrition guidance, not a German Spitz-specific feeding prescription. Exact portions and energy requirements cannot be established from breed-standard information alone."
+      },
+      "health": {
+        "overview": "The AKC breed profile reports that progressive retinal atrophy (PRA), retinal dysplasia (RD) and patellar luxation have been seen in some German Spitz dogs, while noting that most of the breed is generally healthy. These reports do not establish an individual dog's diagnosis or the prevalence of each condition across every variety. Discuss the health history of the particular variety and its family line with a veterinarian and responsible breeder.",
+        "commonConditions": [
+          "Progressive retinal atrophy (PRA) has been reported in the breed.",
+          "Retinal dysplasia (RD) has been reported in the breed.",
+          "Patellar luxation has been reported in the breed."
+        ],
+        "preventiveCare": [
+          "Arrange routine veterinary examinations and age-appropriate preventive care.",
+          "Maintain a healthy body condition and suitable daily activity.",
+          "Discuss eye health, mobility changes and any inherited conditions known in the dog's family line with a veterinarian.",
+          "Seek veterinary advice promptly for changes in vision, gait, comfort or behaviour.",
+          "Ask the breeder for documented health-screening results relevant to the dog's variety and family line."
+        ],
+        "recommendedScreenings": [
+          "Patella evaluation, listed in the AKC national breed-club health-testing recommendations.",
+          "Hip evaluation, listed in the AKC national breed-club health-testing recommendations.",
+          "Elbow evaluation, listed in the AKC national breed-club health-testing recommendations.",
+          "Ophthalmologist evaluation, listed in the AKC national breed-club health-testing recommendations.",
+          "Multiplex DNA testing, listed in the AKC national breed-club health-testing recommendations.",
+          "The German Spitz Breeders and Owners Club also advises consideration of eye testing and patella testing; hip scoring may help build a better picture of health in the population."
+        ],
+        "dentalCare": "Brush the teeth regularly with dog-specific toothpaste and a suitable toothbrush. Have the mouth and teeth checked during routine veterinary examinations, particularly if there is bad breath, discomfort or difficulty eating.",
+        "earCare": "Check the ears regularly for redness, odour, discharge or scratching. Clean only when needed using a product recommended for dogs, and seek veterinary advice if signs of inflammation occur.",
+        "skinCare": "Part the dense coat during grooming to check the skin. Pay attention to tangles, irritation, parasites and damp undercoat, and seek veterinary advice for persistent itching, hair loss or inflamed skin."
+      },
+      "suitability": {
+        "firstTimeOwners": null,
+        "familiesWithChildren": null,
+        "seniorOwners": null,
+        "activeOwners": true,
+        "apartmentLiving": null,
+        "idealFor": [
+          "People who want an alert, engaged companion",
+          "Owners willing to maintain a dense double coat",
+          "Households able to train and manage alert barking",
+          "People who enjoy reward-based training and enrichment",
+          "Owners prepared to choose a suitable variety for their home and lifestyle"
+        ],
+        "notIdealFor": [
+          "People who want a dog with minimal coat maintenance",
+          "Households unwilling to address persistent alert barking",
+          "People expecting all German Spitz varieties to have the same size or exercise needs",
+          "Owners who cannot provide regular interaction, training and grooming"
+        ]
+      },
+      "funFacts": [
+        "The FCI groups five varieties under the German Spitz standard: Wolfspitz/Keeshond, German Giant Spitz, German Medium Size Spitz, German Miniature Spitz and German Toy Spitz/Pomeranian.",
+        "The breed standard describes the German Spitz as a watchdog and companion dog.",
+        "The thick neck ruff and bushy tail carried over the back are characteristic features of the breed family.",
+        "The permitted colours differ among some German Spitz varieties."
+      ],
+      "faq": [
+        {
+          "question": "Is the German Spitz one size?",
+          "answer": "No. The FCI standard includes five varieties, from the German Toy Spitz/Pomeranian to the Wolfspitz/Keeshond. They do not all share the same height range."
+        },
+        {
+          "question": "How tall is a German Spitz?",
+          "answer": "The FCI standard lists variety-specific heights: German Toy Spitz/Pomeranian 21 ± 3 cm, German Miniature Spitz 27 ± 3 cm, German Medium Size Spitz 35 ± 5 cm, German Giant Spitz 45 ± 5 cm, and Wolfspitz/Keeshond 49 ± 6 cm. These are variety standards, not a single target height for every German Spitz."
+        },
+        {
+          "question": "How much does a German Spitz weigh?",
+          "answer": "The FCI standard says that each variety should have a weight appropriate to its size, but it does not provide a single numerical weight range for the whole breed. Ask about the particular variety and the individual dog's body condition."
+        },
+        {
+          "question": "Does a German Spitz shed?",
+          "answer": "Yes. The breed has a dense double coat, and seasonal shedding can be substantial. Regular brushing is important, with more frequent coat care during heavier shedding periods."
+        },
+        {
+          "question": "Which health problems should owners know about?",
+          "answer": "The AKC profile reports that progressive retinal atrophy, retinal dysplasia and patellar luxation have been seen in some German Spitz dogs. These reports are not a diagnosis or a statement that every dog will develop these conditions. Discuss appropriate screening with a veterinarian and responsible breeder."
+        },
+        {
+          "question": "Is the German Spitz suitable for apartment living?",
+          "answer": "It depends on the particular variety, the dog's temperament and how well its exercise, enrichment, grooming and barking are managed. The available sources do not establish a universal apartment-suitability rating for all five varieties."
+        },
+        {
+          "question": "What is the German Spitz's life expectancy?",
+          "answer": "A reliable breed-wide numerical life expectancy was not established from the sources reviewed. Lifespan can vary with variety, genetics, health care and individual circumstances, so this record does not assign an unsupported number."
+        }
+      ],
+      "references": [
+        "fci-german-spitz-standard-97",
+        "vdh-german-spitz-profile",
+        "american-kennel-club-german-spitz",
+        "akc-german-spitz-health-testing",
+        "gsboc-german-spitz-health-testing",
+        "wikimedia-german-spitz-savannahepryor"
+      ],
+      "evidence": {
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-german-spitz-standard-97",
+              "role": "verified",
+              "locator": "Title and nomenclature: German Spitz / Deutscher Spitz"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The German name is recorded as an alternate label for the breed."
+        },
+        "scientificName": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed breed standard does not establish a separate scientific name for the German Spitz breed."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-german-spitz-standard-97",
+              "role": "verified",
+              "locator": "FCI classification: Group 5, Section 4 European Spitz"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Uses the FCI classification."
+        },
+        "origin.country": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-german-spitz-standard-97",
+              "role": "verified",
+              "locator": "Origin: Germany"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": null
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The official standard identifies Germany as the country of origin but does not establish one specific region."
+        },
+        "overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-german-spitz-standard-97",
+              "role": "verified",
+              "locator": "Historical summary, utilization, general appearance and variety descriptions"
+            },
+            {
+              "id": "vdh-german-spitz-profile",
+              "role": "verified",
+              "locator": "Breed profile: appearance, coat and recognised varieties"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "User-facing text is an original summary of the standard and breed profile."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-german-spitz-standard-97",
+              "role": "verified",
+              "locator": "General appearance, coat, colours, size and weight by variety"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Physical descriptions follow the FCI standard. Variety-specific measurements are combined only where the schema cannot represent each variety separately."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-german-spitz-standard-97",
+              "role": "verified",
+              "locator": "Size and weight sections for all five varieties"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The combined envelope of 18–55 cm is derived from the FCI variety tolerances: Toy Spitz 21 ± 3 cm at the lower end and Wolfspitz/Keeshond 49 ± 6 cm at the upper end. The schema has only male/female ranges, whereas the standard publishes height by variety, so the same combined range is stored in both slots. This is not a claim that all varieties or sexes have the same target height."
+        },
+        "physical.weight": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The standard says weight should correspond to variety size but does not provide a numerical breed-wide range."
+        },
+        "physical.lifespanYears": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-wide numerical life expectancy was established in the sources reviewed."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-german-spitz",
+              "role": "verified",
+              "locator": "Grooming section: seasonal shedding and undercoat change"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Seasonal shedding and the need for increased brushing during coat changes are described in the breed profile."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A reliable breed-specific drooling assessment was not established."
+        },
+        "temperament.traits": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-german-spitz-standard-97",
+              "role": "verified",
+              "locator": "Behaviour and character sections for German Spitz varieties"
+            },
+            {
+              "id": "american-kennel-club-german-spitz",
+              "role": "verified",
+              "locator": "Breed profile summary"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Traits summarise breed-standard descriptions and are not guarantees about individual dogs."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial 1–5 estimates, not scores from a standardised behavioural assessment. Individual dogs and varieties may differ."
+        },
+        "care.exercise.level": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A broad editorial starting point for the breed family; the reviewed standard does not prescribe a daily exercise level."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A single breed-wide daily exercise duration was not established; requirements vary by variety, age, health and individual dog."
+        },
+        "care.exercise.activities": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine enrichment suggestions, not breed-standard requirements."
+        },
+        "care.grooming": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-german-spitz-standard-97",
+              "role": "verified",
+              "locator": "Coat sections describing the double coat and abundant furnishings"
+            },
+            {
+              "id": "american-kennel-club-german-spitz",
+              "role": "verified",
+              "locator": "Grooming section: coat maintenance and seasonal shedding"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Coat characteristics are verified; the grooming instructions are original practical guidance."
+        },
+        "care.grooming.bathing": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General dog-coat care advice, not a German Spitz-specific medical recommendation."
+        },
+        "care.grooming.notes": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Routine grooming and hygiene advice for dogs with a dense coat."
+        },
+        "care.training.difficulty": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-german-spitz-standard-97",
+              "role": "verified",
+              "locator": "Behaviour and character: attentiveness and trainability"
+            },
+            {
+              "id": "american-kennel-club-german-spitz",
+              "role": "verified",
+              "locator": "Breed profile summary"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The difficulty label is a practical interpretation of the breed's alertness and trainability, not a formal test score."
+        },
+        "care.training.tips": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General reward-based training advice."
+        },
+        "care.training.socialization": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General puppy and dog socialization guidance."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed sources do not establish one apartment-suitability value for all five size varieties."
+        },
+        "care.livingEnvironment.houseWithYardSuitable": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial suitability estimate. A yard does not replace walks, supervision, training or enrichment."
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General environmental guidance; individual heat and cold tolerance depends on health, coat, acclimatisation and conditions."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A reliable breed-wide tolerance for time alone was not established."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine nutrition advice; not a breed-specific feeding prescription."
+        },
+        "health.overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-german-spitz",
+              "role": "verified",
+              "locator": "Health section: reported PRA, retinal dysplasia and patella luxation"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Reported conditions are presented as concerns seen in some dogs, not as a diagnosis or a prevalence estimate."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-german-spitz",
+              "role": "verified",
+              "locator": "Health section: PRA, RD and patella luxation"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The list reflects conditions reported in the cited breed profile; it does not rank prevalence."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-german-spitz-health-testing",
+              "role": "verified",
+              "locator": "German Spitz: recommended patella, hip, elbow, ophthalmologist and multiplex DNA tests"
+            },
+            {
+              "id": "gsboc-german-spitz-health-testing",
+              "role": "verified",
+              "locator": "Health and testing: annual eye test, patella test and discussion of hip scoring"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Screening lists are recommendations from the cited organisations. Discuss which tests are appropriate for the individual dog's variety and family line."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General preventive veterinary care guidance."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine dental-care guidance."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine ear-care guidance."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General skin and coat observation advice."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial lifestyle guidance based on the breed's coat, alertness and variety-dependent size; not a validated suitability test."
+        },
+        "suitability.firstTimeOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A single first-time-owner suitability rating is not established for all German Spitz varieties and individual temperaments."
+        },
+        "suitability.familiesWithChildren": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A universal family-with-children rating is not established; individual temperament, socialization and supervision matter."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Suitability for senior owners depends on the variety, the individual dog's needs and the owner's circumstances."
+        },
+        "suitability.activeOwners": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial estimate that owners who can provide regular engagement and training may be a good match."
+        },
+        "suitability.apartmentLiving": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A single apartment-living rating would not accurately represent all five varieties."
+        },
+        "funFacts": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-german-spitz-standard-97",
+              "role": "verified",
+              "locator": "Historical summary, utilization and variety sections"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Facts are paraphrased from the FCI standard."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-german-spitz-standard-97",
+              "role": "verified",
+              "locator": "Variety descriptions, size and weight sections"
+            },
+            {
+              "id": "american-kennel-club-german-spitz",
+              "role": "verified",
+              "locator": "Health and grooming sections"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Answers distinguish variety-specific standard facts from information that was not established in the reviewed sources."
+        }
+      },
+      "updatedOn": "2026-10-25"
+    },
+    {
       "slug": "glen-of-imaal-terrier",
       "name": "Glen of Imaal Terrier",
       "scientificName": "Canis lupus familiaris",
@@ -69611,6 +70378,736 @@
         }
       },
       "updatedOn": "2026-10-21"
+    },
+    {
+      "slug": "shiba-inu",
+      "name": "Shiba Inu",
+      "scientificName": null,
+      "alternateNames": [
+        "Shiba",
+        "柴犬"
+      ],
+      "group": "FCI Group 5 — Spitz and primitive types; Section 5 — Asian Spitz and related breeds",
+      "origin": {
+        "country": "Japan",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiba_inu.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Shiba_inu.jpg",
+          "title": "Shiba inu.jpg",
+          "description": "An 11-year-old Shiba Inu.",
+          "creator": "Howyadointhere",
+          "uploader": "Howyadointhere",
+          "capturedOn": "2019-03-09",
+          "uploadedOn": "2019-03-31",
+          "width": 4032,
+          "height": 3024,
+          "licenseId": "cc-by-sa-4.0",
+          "attribution": "Photo by Howyadointhere, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). No changes made. Adaptations must be distributed under the same or a compatible license.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-25"
+        }
+      ],
+      "overview": {
+        "summary": "The Shiba Inu is a small, sturdy Japanese breed originally used to hunt birds and small animals. It has a compact, muscular build, upright triangular ears, dark eyes and a curled or sickle-shaped tail. Its dense double coat comes in several recognised colours, usually with pale markings called urajiro. Shibas are alert, independent-minded and often strongly attached to familiar people. Their hunting background makes secure outdoor management and patient, reward-based training especially important.",
+        "description": "The Shiba Inu combines a compact frame with well-developed muscles and quick, light movement. Its outer coat is straight and firm, while the soft undercoat provides insulation. The head has a broad forehead and a tapered muzzle, with small forward-tilting ears and a confident expression. Coat colours include red, black and tan, and sesame variations; the standard describes pale urajiro markings on characteristic areas of the body. Shibas are observant and can be self-directed, so reliable everyday manners are best built through consistency and rewards rather than force. Regular walks, mental enrichment, grooming during seasonal shedding and secure lead or fenced-area management help meet their needs.",
+        "history": "The Shiba is an indigenous Japanese breed with a long history in mountainous areas facing the Sea of Japan, where it was used to hunt birds and small animals. Regional populations developed slight differences. During the late nineteenth and early twentieth centuries, crossbreeding with imported hunting dogs contributed to a decline in pure Shiba populations. Preservation efforts began in earnest around the late 1920s, and a unified breed standard was established in 1934. In 1937, the Shiba was designated a natural monument in Japan, supporting the preservation and development of the breed known today.",
+        "originalPurpose": "Hunting birds and small animals, as well as serving as a companion dog.",
+        "currentRoles": [
+          "Companion dog",
+          "Reward-based obedience and trick training",
+          "Scent games and other enrichment activities",
+          "Conformation showing",
+          "Active outdoor companionship with secure management"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Small, compact and muscular",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 38,
+            "max": 41
+          },
+          "female": {
+            "min": 35,
+            "max": 38
+          }
+        },
+        "weight": {
+          "unit": null,
+          "male": null,
+          "female": null
+        },
+        "lifespanYears": null,
+        "coatType": "Double coat with a harsh, straight outer coat and a soft, dense undercoat.",
+        "coatLength": "Short to medium, with a dense undercoat and slightly longer hair on the tail.",
+        "coatColors": [
+          "Red",
+          "Black and tan",
+          "Sesame",
+          "Black sesame",
+          "Red sesame"
+        ],
+        "sheddingLevel": "Heavy seasonal shedding is common. Regular brushing during coat changes helps remove loose undercoat and reduce hair around the home.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Small, well-balanced and muscular body",
+          "Small triangular ears held upright and tilted slightly forward",
+          "Dark brown, somewhat triangular eyes",
+          "Thick tail carried curled or in a sickle shape over the back",
+          "Dense double coat",
+          "Urajiro pale markings on characteristic areas of the face, underside and limbs",
+          "Quick, free and light movement"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Alert and observant",
+          "Loyal to familiar people",
+          "Confident and self-possessed",
+          "Independent-minded",
+          "Active and agile",
+          "May show a strong interest in small animals",
+          "Can be reserved with unfamiliar people",
+          "May be difficult to recall reliably when off lead"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": 3,
+          "withDogs": 3,
+          "withStrangers": 3,
+          "protectiveness": 3,
+          "independence": 5,
+          "trainability": 3,
+          "barking": 3,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate to high for a healthy adult, depending on age, health and individual temperament.",
+          "minutesPerDay": null,
+          "activities": [
+            "Daily walks on a secure lead",
+            "Reward-based obedience practice",
+            "Scent games and food puzzles",
+            "Supervised play",
+            "Short training sessions with varied rewards",
+            "Exploration in secure, enclosed areas"
+          ]
+        },
+        "grooming": {
+          "level": "Moderate, increasing during seasonal coat changes",
+          "brushing": "Brush or comb the coat regularly, with more frequent sessions when the undercoat is shedding heavily. Gentle brushing helps remove loose hair and gives you an opportunity to check the skin. Introduce grooming gradually, as some Shibas may resist prolonged handling.",
+          "bathing": "Bathe when necessary with a dog-appropriate shampoo and rinse thoroughly. Avoid unnecessary frequent bathing, and dry the coat properly after bathing. Seek professional advice if there is persistent itching, skin irritation or an unusual coat change.",
+          "notes": [
+            "Expect loose undercoat during seasonal shedding.",
+            "Introduce brushing, nail care and handling early using rewards.",
+            "Check the skin during grooming for irritation, parasites or unusual changes.",
+            "Inspect the ears regularly and seek veterinary advice for redness, odour or discharge.",
+            "Trim nails as needed.",
+            "Brush teeth regularly with dog-specific dental products.",
+            "Use a secure lead or enclosed area outdoors because hunting instincts can make off-lead recall unreliable."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate to challenging for owners who expect consistent off-lead recall or a highly handler-focused dog. Shibas can learn well with rewards, but independence and interest in their surroundings may compete with a cue.",
+          "tips": [
+            "Use reward-based training with clear, consistent cues.",
+            "Keep sessions short, engaging and varied.",
+            "Practise recall in controlled, enclosed environments before increasing distractions.",
+            "Do not rely on off-lead recall in open or unsecured areas.",
+            "Reward calm behaviour around people, dogs and everyday sounds.",
+            "Use food puzzles and scent games to provide mental engagement.",
+            "Teach cooperative handling for brushing, nail trimming and veterinary checks.",
+            "Supervise interactions with small animals because the breed was developed for hunting."
+          ],
+          "socialization": "Introduce the puppy gradually and positively to people, calm dogs, handling, household sounds and different environments. Reward relaxed behaviour and give the dog room to disengage when uncomfortable. Continue training throughout adulthood, supervise interactions with children and other animals, and tailor introductions to the individual dog's responses."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": null,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Cool and temperate conditions",
+            "Cold weather with suitable shelter and monitoring",
+            "Warm weather with shade, fresh water and exercise during cooler periods"
+          ],
+          "aloneTimeTolerance": null
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity and veterinary needs.",
+        "feedingFrequency": {
+          "puppy": "Feed a complete puppy diet in age-appropriate meals. Adjust portions as the puppy grows and follow veterinary guidance and the food's feeding instructions.",
+          "adult": "Use measured meals on a consistent schedule. The right amount depends on body condition, activity, age and individual health; some Shibas may be selective eaters while others readily overeat.",
+          "senior": "Choose food and portions according to the older dog's body condition, activity and medical needs. Ask a veterinarian about adjustments when health or mobility changes."
+        },
+        "guidelines": "Measure portions and monitor body condition rather than feeding an unrestricted amount. Keep fresh water available, count training treats as part of the daily food allowance and change foods gradually unless a veterinarian advises otherwise. If weight, skin or digestive concerns persist, seek veterinary guidance.",
+        "considerations": [
+          "Adjust portions to activity, age and body condition.",
+          "Avoid excess weight that can add strain to joints.",
+          "Keep fresh water available throughout the day.",
+          "Count treats and chews as part of the daily food allowance.",
+          "Use a diet appropriate to the dog's life stage.",
+          "Discuss persistent itching, digestive changes or weight concerns with a veterinarian."
+        ],
+        "note": "This is general canine nutrition guidance, not a Shiba-specific feeding prescription. Exact portions depend on the individual dog."
+      },
+      "health": {
+        "overview": "Allergies are described as a common concern in Shibas and may cause itching or skin irritation. Breed-club and kennel-club guidance also recommends screening breeding dogs for hip health, eye disorders and patellar luxation. Screening recommendations do not mean every Shiba will develop these problems, and the sources reviewed do not establish reliable prevalence figures for each condition. A veterinarian and a responsible breeder can help interpret family history and the relevance of health tests.",
+        "commonConditions": [
+          "Allergies, which may cause itching and skin irritation.",
+          "Hip dysplasia is among the conditions for which breeding dogs are screened.",
+          "Eye disorders are among the conditions for which breeding dogs are screened.",
+          "Patellar luxation is among the conditions for which breeding dogs are screened."
+        ],
+        "preventiveCare": [
+          "Arrange routine veterinary examinations and age-appropriate preventive care.",
+          "Maintain a healthy body condition and suitable daily activity.",
+          "Discuss persistent itching, skin changes, mobility problems or changes in vision with a veterinarian.",
+          "Ask the breeder for documented health-screening results and information about relevant conditions in the family line.",
+          "Use screening recommendations as part of responsible breeding and health planning, not as a guarantee that a dog will remain disease-free."
+        ],
+        "recommendedScreenings": [
+          "Patella evaluation, recommended by the national breed club.",
+          "Hip evaluation, recommended by the national breed club.",
+          "Ophthalmologist evaluation, recommended by the national breed club."
+        ],
+        "dentalCare": "Brush the teeth regularly with dog-specific toothpaste and a suitable toothbrush. Have the mouth checked during routine veterinary examinations, especially if there is bad breath, discomfort or difficulty eating.",
+        "earCare": "Check the ears regularly for redness, odour, discharge or scratching. Clean only when needed using a dog-safe product, and seek veterinary advice if signs of inflammation occur.",
+        "skinCare": "Check the skin while brushing, especially during seasonal shedding. Seek veterinary advice for persistent itching, redness, recurrent skin irritation or unusual hair loss, as these signs can have different causes."
+      },
+      "suitability": {
+        "firstTimeOwners": null,
+        "familiesWithChildren": null,
+        "seniorOwners": null,
+        "activeOwners": true,
+        "apartmentLiving": null,
+        "idealFor": [
+          "Owners who enjoy training and interactive enrichment",
+          "People prepared to maintain a double coat during seasonal shedding",
+          "Households able to provide secure outdoor exercise",
+          "Owners willing to manage hunting instincts and off-lead safety",
+          "People who appreciate an alert and independent companion"
+        ],
+        "notIdealFor": [
+          "Owners who require dependable off-lead recall in open areas",
+          "People unwilling to manage seasonal shedding",
+          "Households expecting a dog that always responds immediately to commands",
+          "Owners unable to provide regular exercise, enrichment and training",
+          "Homes that cannot safely manage interactions with small animals"
+        ]
+      },
+      "funFacts": [
+        "The Shiba has a long history as a Japanese hunting dog for birds and small animals.",
+        "The breed was designated a natural monument in Japan in 1937.",
+        "The term urajiro describes pale markings found on characteristic areas of the Shiba's coat.",
+        "The breed standard describes both hunting and companion roles."
+      ],
+      "faq": [
+        {
+          "question": "Where does the Shiba Inu come from?",
+          "answer": "The Shiba Inu originated in Japan. It was traditionally used to hunt birds and small animals, particularly in mountainous areas facing the Sea of Japan."
+        },
+        {
+          "question": "How tall is a Shiba Inu?",
+          "answer": "The breed standard lists an ideal height of 39.5 cm for males and 36.5 cm for females, with a tolerance of ±1.5 cm for each."
+        },
+        {
+          "question": "How much does a Shiba Inu weigh?",
+          "answer": "The official standard reviewed for this record does not provide a numeric weight range. The appropriate weight depends on the individual dog's build and body condition."
+        },
+        {
+          "question": "Does a Shiba Inu shed a lot?",
+          "answer": "Yes. Shibas have a dense double coat and can shed heavily during seasonal coat changes. Regular brushing, especially during those periods, helps remove loose undercoat."
+        },
+        {
+          "question": "Is a Shiba Inu easy to train?",
+          "answer": "Shibas can learn well with consistent, reward-based training, but their independent nature and interest in their surroundings can make some tasks, especially recall, challenging. Training should be patient and ongoing."
+        },
+        {
+          "question": "Can a Shiba Inu walk off lead?",
+          "answer": "Off-lead reliability should not be assumed. Because of their hunting background and tendency to follow interesting sights or scents, a secure lead or enclosed area is the safer choice."
+        },
+        {
+          "question": "What health issues should owners know about?",
+          "answer": "Allergies are described as a common concern. Breeding guidance also recommends hip, eye and patella screening. These are health considerations, not a prediction that an individual dog will develop a condition."
+        },
+        {
+          "question": "How long does a Shiba Inu live?",
+          "answer": "A reliable numerical lifespan was not established from the primary sources reviewed for this record, so no specific lifespan range is assigned here."
+        }
+      ],
+      "references": [
+        "fci-shiba-inu-standard-257",
+        "japan-kennel-club-shiba",
+        "american-kennel-club-shiba-inu",
+        "akc-coton-de-tulear-health-testing-recommendations",
+        "national-shiba-club-health",
+        "wikimedia-shiba-inu-howyadointhere"
+      ],
+      "evidence": {
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "Standard title: Shiba; Japanese name 柴犬"
+            },
+            {
+              "id": "japan-kennel-club-shiba",
+              "role": "verified",
+              "locator": "Breed profile title and Japanese breed name"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Uses the standard name and its Japanese form."
+        },
+        "scientificName": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The breed standards reviewed do not establish a separate scientific name for this breed."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "FCI classification: Group 5, Section 5"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Uses the FCI classification."
+        },
+        "origin": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "Origin and historical summary"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The FCI standard identifies Japan as the country of origin."
+        },
+        "origin.country": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "Origin: Japan"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": null
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The breed's history mentions mountainous areas facing the Sea of Japan, but the reviewed standard does not establish a single formal region field suitable for this record."
+        },
+        "overview": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "Historical summary, utilization, general appearance, temperament and coat"
+            },
+            {
+              "id": "japan-kennel-club-shiba",
+              "role": "verified",
+              "locator": "Breed history, behaviour, colour and size sections"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Descriptions are original paraphrases of the official breed information."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "General appearance, coat, colour and size sections"
+            },
+            {
+              "id": "japan-kennel-club-shiba",
+              "role": "verified",
+              "locator": "General appearance, colour and size sections"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Physical characteristics follow the official standard."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "Size: males 39.5 cm and females 36.5 cm, each with ±1.5 cm tolerance"
+            },
+            {
+              "id": "japan-kennel-club-shiba",
+              "role": "verified",
+              "locator": "Size: height at withers, male and female"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The source publishes ideal heights and a tolerance of ±1.5 cm. The stored numeric ranges express those tolerances in the same published unit: male 38–41 cm and female 35–38 cm. No unit conversion is performed."
+        },
+        "physical.weight": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed official standards do not provide a numerical weight range."
+        },
+        "physical.lifespanYears": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A reliable breed-wide numerical lifespan was not established from the primary sources reviewed."
+        },
+        "physical.coatType": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "Coat: outer coat and undercoat"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": null
+        },
+        "physical.coatColors": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "Coat colour section"
+            },
+            {
+              "id": "japan-kennel-club-shiba",
+              "role": "verified",
+              "locator": "Coat colour section"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Colours are paraphrased from the official standard."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-shiba-inu",
+              "role": "verified",
+              "locator": "Grooming section: seasonal shedding and brushing"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Seasonal shedding is described in the breed profile."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A reliable breed-specific drooling assessment was not established."
+        },
+        "temperament": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "Behaviour and temperament"
+            },
+            {
+              "id": "japan-kennel-club-shiba",
+              "role": "verified",
+              "locator": "Behaviour and character"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Broad breed descriptions are not guarantees about individual dogs."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial 1–5 estimates, not scores from standardised behavioural testing. Individual dogs vary."
+        },
+        "care.exercise": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-shiba-inu",
+              "role": "cited",
+              "locator": "Exercise and training sections"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Care suggestions are general guidance informed by the breed's reported activity and hunting background."
+        },
+        "care.exercise.level": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial starting point for a healthy adult; individual exercise needs vary."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A single breed-wide daily exercise duration was not established by the reviewed sources."
+        },
+        "care.grooming": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "Coat section"
+            },
+            {
+              "id": "american-kennel-club-shiba-inu",
+              "role": "verified",
+              "locator": "Grooming section"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The coat type and seasonal shedding are source-backed; detailed instructions are original care guidance."
+        },
+        "care.grooming.bathing": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine grooming advice."
+        },
+        "care.grooming.notes": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General grooming, hygiene and outdoor-safety guidance."
+        },
+        "care.training.difficulty": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-shiba-inu",
+              "role": "cited",
+              "locator": "Training section: recall and secure management"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Practical editorial assessment informed by the breed profile; not a formal training test result."
+        },
+        "care.training.tips": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General reward-based training and safety guidance."
+        },
+        "care.training.socialization": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General dog socialization advice."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed sources do not establish a universal apartment-suitability rating."
+        },
+        "care.livingEnvironment.houseWithYardSuitable": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial suitability estimate. A yard must be secure and does not replace walks or enrichment."
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General environmental guidance; tolerance depends on individual health and conditions."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A reliable breed-wide tolerance for time alone was not established."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-shiba-inu",
+              "role": "cited",
+              "locator": "Nutrition section"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General canine nutrition guidance, not a breed-specific feeding prescription."
+        },
+        "health": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-shiba-inu",
+              "role": "verified",
+              "locator": "Health section"
+            },
+            {
+              "id": "national-shiba-club-health",
+              "role": "verified",
+              "locator": "Health overview and health-testing recommendations"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Health information is presented as screening guidance and reported concerns, not as prevalence estimates or individual diagnosis."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-shiba-inu",
+              "role": "verified",
+              "locator": "Health section: allergies, hip health, eye disorders and patella screening"
+            },
+            {
+              "id": "national-shiba-club-health",
+              "role": "verified",
+              "locator": "Health issues and recommended health testing"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The list distinguishes reported concerns from conditions for which screening is recommended. It does not assert a prevalence rate."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-coton-de-tulear-health-testing-recommendations",
+              "role": "verified",
+              "locator": "Non-Sporting Group Health Testing Requirements page, Shiba Inu row: patella, hip and ophthalmologist evaluation"
+            },
+            {
+              "id": "national-shiba-club-health",
+              "role": "verified",
+              "locator": "Parent-club health testing recommendations"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "The AKC testing page is an existing registry entry whose URL is shared by the breed-testing listing; the locator identifies the Shiba Inu row specifically."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General preventive veterinary care guidance."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine dental-care guidance."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine ear-care guidance."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General skin-care advice; persistent itching or irritation requires veterinary assessment."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial lifestyle guidance based on the breed's independence, hunting background and grooming needs; not a validated suitability test."
+        },
+        "suitability.firstTimeOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A universal first-time-owner rating is not established and depends on the owner and individual dog."
+        },
+        "suitability.familiesWithChildren": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A universal family-with-children rating is not established; temperament, socialization and supervision matter."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Suitability for senior owners depends on the dog's needs and the owner's circumstances."
+        },
+        "suitability.activeOwners": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial estimate that owners able to provide regular engagement may be a good match."
+        },
+        "suitability.apartmentLiving": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A universal apartment-living rating was not established by the reviewed sources."
+        },
+        "funFacts": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "Historical summary and utilization"
+            },
+            {
+              "id": "japan-kennel-club-shiba",
+              "role": "verified",
+              "locator": "Breed history and coat colour"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Facts are paraphrased from the breed standard and national kennel-club profile."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-shiba-inu-standard-257",
+              "role": "verified",
+              "locator": "Origin, historical summary, utilization, coat and size"
+            },
+            {
+              "id": "american-kennel-club-shiba-inu",
+              "role": "verified",
+              "locator": "Health, grooming, exercise and training"
+            }
+          ],
+          "verifiedOn": "2026-10-25",
+          "note": "Answers distinguish standard facts from health and care guidance."
+        }
+      },
+      "updatedOn": "2026-10-25"
     },
     {
       "slug": "skye-terrier",
