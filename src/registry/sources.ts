@@ -7478,6 +7478,106 @@ export const sources = defineSources({
     accessedOn: "2026-10-25",
     note: "Photograph of a black Tibetan Terrier standing in snow by Mr407SW, captured 8 March 2006 (Canon EOS 350D EXIF) and uploaded 19 March 2008 (1,728 × 1,152 px), released into the public domain ({{PD-self}})."
   },
+  "fci-clumber-spaniel-standard": {
+    id: "fci-clumber-spaniel-standard",
+    name: "FCI Standard No. 109 - Clumber Spaniel",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/109g08-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2010-10-13",
+    accessedOn: "2026-10-24",
+    note: "FCI Standard No. 109. The PDF also carries the date 12 January 2011."
+  },
+  "royal-kennel-club-clumber-spaniel-standard": {
+    id: "royal-kennel-club-clumber-spaniel-standard",
+    name: "Royal Kennel Club - Spaniel (Clumber) Breed Standard",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/breed-standards/gundog/spaniel-clumber/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-10-24",
+    note: "Official standard page states it was last updated 1 April 2025."
+  },
+  "royal-kennel-club-clumber-spaniel-profile": {
+    id: "royal-kennel-club-clumber-spaniel-profile",
+    name: "Royal Kennel Club - Spaniel (Clumber) Breed Profile",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/search/breeds-a-z/breeds/gundog/spaniel-clumber/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Breed history, lifespan, exercise, coat care and vulnerable native breed status."
+  },
+  "american-kennel-club-clumber-spaniel-standard": {
+    id: "american-kennel-club-clumber-spaniel-standard",
+    name: "American Kennel Club - Official Standard for the Clumber Spaniel",
+    publisher: "American Kennel Club",
+    url: "https://images.akc.org/pdf/breeds/standards/ClumberSpaniel.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Official breed standard used for the male and female height and weight ranges in this record."
+  },
+  "american-kennel-club-clumber-spaniel-profile": {
+    id: "american-kennel-club-clumber-spaniel-profile",
+    name: "American Kennel Club - Clumber Spaniel",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/clumber-spaniel/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Breed profile, life expectancy, reported health concerns and grooming guidance."
+  },
+  "royal-kennel-club-clumber-spaniel-health-standard": {
+    id: "royal-kennel-club-clumber-spaniel-health-standard",
+    name: "Royal Kennel Club - Health Standard",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/BreedSpecificRequirements",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Clumber Spaniel pre-breeding recommendations, including EIC and PDP1 testing, hip, elbow and eye screening."
+  },
+  "ecvo-clumber-spaniel-eye-conditions": {
+    id: "ecvo-clumber-spaniel-eye-conditions",
+    name: "ECVO Manual: Breeds - Clumber Spaniel",
+    publisher: "European College of Veterinary Ophthalmologists",
+    url: "https://www.ecvo.eu/media/clumberspaniel.pdf",
+    type: "veterinary_reference",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "2021 ECVO breed reference listing inherited, presumed inherited and other reported ocular disorders."
+  },
+  "wikimedia-clumber-spaniel-audrey-sel-2010": {
+    id: "wikimedia-clumber-spaniel-audrey-sel-2010",
+    name: "Wikimedia Commons - ClumberSpaniel.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:ClumberSpaniel.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Photograph by audrey_sel; CC BY-SA 2.0. Image metadata records 16 February 2010 as the capture date and 3 August 2011 as the initial Commons upload."
+  },
+  "wikimedia-clumber-spaniel-audrey-sel-2009": {
+    id: "wikimedia-clumber-spaniel-audrey-sel-2009",
+    name: "Wikimedia Commons - Clumber Spaniel.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Clumber_Spaniel.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Photograph by audrey_sel; CC BY-SA 2.0. Image metadata records 10 February 2009 as the capture date and 24 May 2009 as the Commons upload date."
+  },
+  "wikimedia-clumber-spaniel-canarian-2017": {
+    id: "wikimedia-clumber-spaniel-canarian-2017",
+    name: "Wikimedia Commons - Clumber Spaniel 4.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Clumber_Spaniel_4.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "Photograph by Canarian; CC BY-SA 4.0. Image metadata records 9 December 2017 as the capture date and 29 January 2018 as the Commons upload date."
+  },
 });
 
 export type SourceId = keyof typeof sources;

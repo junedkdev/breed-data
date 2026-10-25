@@ -76,8 +76,7 @@
 71:schipperke - C
 72:braque_d'auvergne - C
 73:english_toy_terrier_(black_&_tan) - C
-
-74:clumber_spaniel - R
+74:clumber_spaniel - C
 
 75:broholmer
 76:manchester_terrier
