@@ -2811,89 +2811,79 @@ export const sources = defineSources({
     note: null,
     publisher: "Dogs Australia"
   },
-  "fci-pyrenean-mastiff-nomenclature": {
+"fci-pyrenean-mastiff-nomenclature": {
     id: "fci-pyrenean-mastiff-nomenclature",
-    name: "FCI — Pyrenean Mastiff (Mastín del Pirineo)",
-    publisher: "Fédération Cynologique Internationale",
+    name: "FCI Breeds Nomenclature — Mastín del Pirineo (92)",
+    publisher: "Fédération Cynologique Internationale (FCI)",
     url: "https://fci.be/en/nomenclature/PYRENEAN-MASTIFF-92.html",
     type: "official_breed_standard",
     commercialUse: "reference_only",
-    publishedOn: "2002-08-30",
-    accessedOn: "2026-10-20",
-    note: "Official breed nomenclature. Lists Spain as the country of origin, FCI Group 2 and the standard publication date."
+    publishedOn: "1982-05-26",
+    accessedOn: "2026-10-24",
+    note: "Official FCI nomenclature entry for Standard No. 92 (Group 2, Section 2.2 Molossoid breeds, Mountain type); documents definitive FCI acceptance on 13 November 1954 and official standard publication on 26 May 1982."
   },
 
-  "uk-kennel-club-pyrenean-mastiff-standard": {
+"uk-kennel-club-pyrenean-mastiff-standard": {
     id: "uk-kennel-club-pyrenean-mastiff-standard",
-    name: "The Royal Kennel Club — Pyrenean Mastiff (Imported) Breed Standard",
+    name: "The Royal Kennel Club — Pyrenean Mastiff (Imp) Breed Information & Interim Standard",
     publisher: "The Royal Kennel Club",
-    url: "https://www.royalkennelclub.com/breed-standards/working/pyrenean-mastiff-imp/",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/working/pyrenean-mastiff-imp/",
     type: "official_breed_standard",
     commercialUse: "reference_only",
-    publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed standard page updated 1 October 2025; covers appearance, temperament, coat, colour and minimum height."
+    publishedOn: "2025-09-01",
+    accessedOn: "2026-10-24",
+    note: "Official UK Kennel Club breed profile and interim standard overview (Working Group, Imported Breed Register since 2001); documents historical name 'Navarra Mastiff', Aragon/Navarre origin, spiked collar history, ideal heights of 81 cm (32 in) for males and 73.5 cm (29 in) for females, and exercise/living space requirements."
   },
 
-  "akc-pyrenean-mastiff-profile": {
+"akc-pyrenean-mastiff-profile": {
     id: "akc-pyrenean-mastiff-profile",
     name: "American Kennel Club — Pyrenean Mastiff",
-    publisher: "American Kennel Club",
+    publisher: "American Kennel Club (AKC)",
     url: "https://www.akc.org/dog-breeds/pyrenean-mastiff/",
     type: "kennel_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed profile covering height, weight, life expectancy, temperament, care, grooming, nutrition and recommended health tests."
+    accessedOn: "2026-10-24",
+    note: "Official AKC breed profile; reports height (30–31 in males, 28–30 in females), weight (120–190 lbs / 54.4–86.2 kg), life expectancy (10–12 years), very low prey drive, puppy diet duration (18 months for females, 24 months for males), and recommended health tests."
   },
 
-  "pmaa-pyrenean-mastiff-standard": {
+"pmaa-pyrenean-mastiff-standard": {
     id: "pmaa-pyrenean-mastiff-standard",
-    name: "Pyrenean Mastiff Association of America — Breed Standard",
-    publisher: "Pyrenean Mastiff Association of America",
+    name: "Pyrenean Mastiff Association of America — Breed Standard & History",
+    publisher: "Pyrenean Mastiff Association of America (PMAA)",
     url: "https://www.pyreneanmastiffassociation.org/pyreneanmastiffstandard",
-    type: "breed_standard",
+    type: "official_breed_standard",
     commercialUse: "reference_only",
-    publishedOn: "2023-08-07",
-    accessedOn: "2026-10-20",
-    note: "Breed standard page states approval on 7 August 2023 and effectiveness on 26 June 2024."
+    publishedOn: null,
+    accessedOn: "2026-10-24",
+    note: "AKC parent club breed history and standard; documents 1970s breed rescue in Aragon by Rafael Malo Alcrudo (30 foundation dogs from ~100 survivors, 1977 CMPE founding), 1996 US introduction, minimum heights of 30 in (dogs) and 28 in (bitches) with no upper limit, 9:10 proportion, and accepted patch colours including brindle, agouti, sable, and badger."
   },
 
-  "pmaa-pyrenean-mastiff-health": {
+"pmaa-pyrenean-mastiff-health": {
     id: "pmaa-pyrenean-mastiff-health",
-    name: "Pyrenean Mastiff Association of America — Health Concerns",
-    publisher: "Pyrenean Mastiff Association of America",
+    name: "Pyrenean Mastiff Association of America — Health Conditions",
+    publisher: "Pyrenean Mastiff Association of America (PMAA)",
     url: "https://www.pyreneanmastiffassociation.org/healthconditions",
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed health information including hip data and cardiac concerns. Owner-reported and breed-population data should not be treated as a universal prevalence estimate."
+    accessedOn: "2026-10-24",
+    note: "Detailed parent-club health epidemiology covering international hip and elbow dysplasia screening data (Finland n=291, Spain n=82, US/Canada n=81), Finnish Kennel Club cardiac mortality records (1990–2025: 46 cardiac deaths = 6.25%, mean age 6y 10m; last 15 yrs = 6.61%, mean age 5y 10m), degenerative myelopathy, eye conditions (iris-to-iris PPM, entropion, ectropion, distichiasis/trichiasis), and spine conditions (spondylosis, LTV)."
   },
 
-  "petmd-pyrenean-mastiff-health": {
+"petmd-pyrenean-mastiff-health": {
     id: "petmd-pyrenean-mastiff-health",
     name: "PetMD — Pyrenean Mastiff Dog Breed Health and Care",
     publisher: "PetMD",
     url: "https://www.petmd.com/dog/breeds/pyrenean-mastiff",
     type: "veterinary",
     commercialUse: "reference_only",
-    publishedOn: "2024-10-18",
-    accessedOn: "2026-10-20",
-    note: "Veterinary-reviewed breed guide covering lifespan, size, health concerns and care."
-  },  "akc-tibetan-terrier-profile": {
-    id: "akc-tibetan-terrier-profile",
-    name: "American Kennel Club — Tibetan Terrier",
-    publisher: "American Kennel Club",
-    url: "https://www.akc.org/dog-breeds/tibetan-terrier/",
-    type: "kennel_club",
-    commercialUse: "reference_only",
-    publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed profile covering characteristics, history, coat colours and recommended health tests."
-  },
+    publishedOn: "2023-06-15",
+    accessedOn: "2026-10-24",
+    note: "Veterinary breed guide reviewed by Barri J. Morrison, DVM (featuring interviews with PMAA president Karina Whittington and board member Crystal Kaiser); verifies 120–190 lb adult weight, 8–12 year lifespan, DM, hip/elbow dysplasia, osteosarcoma, bloat/GDV precautions, feeding frequency (3 meals/day for puppies until ~2 years, 2 meals/day for adults), and grooming schedule."
+  }, 
 
-  "akc-tibetan-terrier-standard": {
+"akc-tibetan-terrier-standard": {
     id: "akc-tibetan-terrier-standard",
     name: "American Kennel Club — Official Standard of the Tibetan Terrier",
     publisher: "American Kennel Club",
@@ -2901,44 +2891,44 @@ export const sources = defineSources({
     type: "official_breed_standard",
     commercialUse: "reference_only",
     publishedOn: "1987-03-10",
-    accessedOn: "2026-10-20",
-    note: "Official standard approved on 10 March 1987; covers general appearance, coat, colours, size and temperament."
+    accessedOn: "2026-10-25",
+    note: "Official AKC breed standard approved 10 March 1987; specifies square proportions, large flat round snowshoe feet, fall of hair over eyes, double coat, any colour/combination with black nose and dark eye rims, average male height 15–16 inches (14–17 inches acceptable, females slightly smaller), and weight 18–30 pounds (14–30 pounds across 14–16 inch heights)."
   },
 
-  "ttca-tibetan-terrier-health-testing": {
+"ttca-tibetan-terrier-health-testing": {
     id: "ttca-tibetan-terrier-health-testing",
-    name: "Tibetan Terrier Club of America — Health Testing",
+    name: "Tibetan Terrier Club of America — Health Testing Recommendations",
     publisher: "Tibetan Terrier Club of America",
     url: "https://www.ttclubofamerica.org/health/health-testing.html",
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breeding health recommendations including hip and eye evaluation, NCL, PLL, PRA3, RCD4, BAER and patellar testing."
+    accessedOn: "2026-10-25",
+    note: "Parent-club breeding health recommendations covering hip evaluation, ACVO eye examination, DNA testing for NCL (ATP13A2), PLL (ADAMTS17), PRA3 (FAM161A), and RCD4 PRA (C2orf71), BAER hearing evaluation, and patellar luxation assessment. Note: TTCA has migrated active web operations to https://ttca-online.org/."
   },
 
-  "ttca-tibetan-terrier-health": {
+"ttca-tibetan-terrier-health": {
     id: "ttca-tibetan-terrier-health",
-    name: "Tibetan Terrier Club of America — Breed Health",
+    name: "Tibetan Terrier Club of America — Breed Health Overview",
     publisher: "Tibetan Terrier Club of America",
     url: "https://www.ttclubofamerica.org/health/breed-health.html",
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Breed-health overview, longevity information and inherited health concerns."
+    accessedOn: "2026-10-25",
+    note: "Parent-club overview of longevity (12–16 years) and hereditary ocular, orthopedic, neurological, auditory, and endocrine conditions."
   },
 
-  "wikimedia-tibetan-terrier-acid-pix": {
+"wikimedia-tibetan-terrier-acid-pix": {
     id: "wikimedia-tibetan-terrier-acid-pix",
-    name: "Wikimedia Commons — Tibetan Terrier.jpg",
+    name: "Wikimedia Commons — File:Tibetan Terrier.jpg",
     publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Tibetan_Terrier.jpg",
     type: "other",
-    commercialUse: "reference_only",
-    publishedOn: null,
-    accessedOn: "2026-10-20",
-    note: "Original file page identifies Acid Pix as the creator, records the 15 October 2012 capture date and 13 November 2012 upload date, and states CC BY 2.0 licensing."
+    commercialUse: "commercial_use",
+    publishedOn: "2012-10-15",
+    accessedOn: "2026-10-25",
+    note: "Photograph by Acid Pix, captured 15 October 2012 (Canon EOS 7D) and uploaded 13 November 2012 via Flickr upload bot by Ltshears (2,402 × 1,601 px), licensed under CC BY 2.0."
   },
   "federation-cynologique-internationale-fci-staffordshire-bull-terrier": {
     id: "federation-cynologique-internationale-fci-staffordshire-bull-terrier",
@@ -7278,6 +7268,215 @@ export const sources = defineSources({
     publishedOn: null,
     accessedOn: "2026-10-24",
     note: "Puppy photograph by AkselHelp; CC BY-SA 4.0. The file history records the Commons upload on 1 December 2018."
+  },
+"the-dog-api": {
+    id: "the-dog-api",
+    name: "The Dog API — Tibetan Terrier Reference Dataset",
+    publisher: "The Dog API",
+    url: "https://thedogapi.com/",
+    type: "other",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-25",
+    note: "Structured API baseline for Tibetan Terrier providing alternate names ('Dhokhi Apso', 'Tsang Apso', 'Holy Dog of Tibet'), group ('Non-Sporting'), origin ('Tibet'), combined height (36–43 cm), combined weight (8–14 kg), lifespan (12–16 years), colour tags, and temperament traits."
+  },
+  "fci-pyrenean-mastiff-standard": {
+    id: "fci-pyrenean-mastiff-standard",
+    name: "FCI-Standard N° 92 — Mastín del Pirineo (Pyrenean Mastiff)",
+    publisher: "Fédération Cynologique Internationale (FCI)",
+    url: "https://www.fci.be/Nomenclature/Standards/092g02-en.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "1992-08-30",
+    accessedOn: "2026-10-24",
+    note: "Official English translation of FCI Standard No. 92 (published 26 May 1982, English translation 30 August 1992); specifies Spain as country of origin, minimum height of 77 cm for dogs and 72 cm for bitches (desirable >81 cm and >75 cm) with no upper limit, 6–9 cm bristly coat, mandatory dark mask, and disqualifications."
+  },
+  "rsce-mastin-del-pirineo-standard": {
+    id: "rsce-mastin-del-pirineo-standard",
+    name: "Real Sociedad Canina de España — Mastín del Pirineo (Estándar FCI Nº 92)",
+    publisher: "Real Sociedad Canina de España (RSCE)",
+    url: "https://www.rsce.es/perro-mastin-del-pirineo/",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "1982-05-26",
+    accessedOn: "2026-10-24",
+    note: "Official Spanish national kennel club breed page and authentic Spanish text of FCI Standard No. 92 for the Mastín del Pirineo."
+  },
+  "ukc-pyrenean-mastiff-standard": {
+    id: "ukc-pyrenean-mastiff-standard",
+    name: "United Kennel Club — Pyrenean Mastiff Official Breed Standard",
+    publisher: "United Kennel Club (UKC)",
+    url: "https://www.ukcdogs.com/pyrenean-mastiff",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2006-07-01",
+    accessedOn: "2026-10-24",
+    note: "Official UKC breed standard (recognized 1 July 2006 in the Guardian Dog Group); specifies lowest allowable height limits of 30 inches for males and 28 inches for females (desirable at least 32 inches and 29.5 inches) with no upper height limit."
+  },
+  "pmaa-pyrenean-mastiff-health-testing": {
+    id: "pmaa-pyrenean-mastiff-health-testing",
+    name: "Pyrenean Mastiff Association of America — Health Testing & Official Health Statement",
+    publisher: "Pyrenean Mastiff Association of America (PMAA)",
+    url: "https://www.pyreneanmastiffassociation.org/healthtesting",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: "2024-11-24",
+    accessedOn: "2026-10-24",
+    note: "Official PMAA Health Statement (approved 24 November 2024); specifies mandatory CHIC pre-breeding screenings at ≥24 months (OFA Hips, OFA Elbows, OFA Basic/Advanced Cardiac, and Degenerative Myelopathy SOD1 DNA test) and optional screenings (Spine radiographs at ≥24 months and CAER Eye exam at >12 months)."
+  },
+  "akc-tibetan-terrier-profile": {
+    id: "akc-tibetan-terrier-profile",
+    name: "American Kennel Club — Tibetan Terrier Dog Breed Information",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/tibetan-terrier/",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-25",
+    note: "Breed profile covering Non-Sporting group placement, height (14–17 in), weight (18–30 lb), life expectancy (15–16 years), grooming, exercise, and national breed club health testing recommendations."
+  },
+  "fci-tibetan-terrier-standard": {
+    id: "fci-tibetan-terrier-standard",
+    name: "Fédération Cynologique Internationale — FCI-Standard N° 209: Tibetan Terrier",
+    publisher: "Fédération Cynologique Internationale (FCI)",
+    url: "http://www.fci.be/nomenclature/Standards/209g09-en.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2017-10-05",
+    accessedOn: "2026-10-25",
+    note: "Official FCI Standard No. 209 (Group 9 Companion and Toy Dogs, Section 5 Tibetan breeds, without working trial; origin Tibet [China], patronage Great Britain). Specifies male height at withers 36–41 cm (females slightly smaller) and permits any coat colour except chocolate, liver, or merle."
+  },
+  "fci-tibetan-terrier-nomenclature": {
+    id: "fci-tibetan-terrier-nomenclature",
+    name: "Fédération Cynologique Internationale — Tibetan Terrier (209) Nomenclature",
+    publisher: "Fédération Cynologique Internationale (FCI)",
+    url: "https://www.fci.be/en/nomenclature/TIBETAN-TERRIER-209.html",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-25",
+    note: "FCI nomenclature entry recording definitive recognition on 18 December 1957 under Group 9, Section 5 (Tibetan breeds)."
+  },
+  "rkc-tibetan-terrier-standard": {
+    id: "rkc-tibetan-terrier-standard",
+    name: "The Royal Kennel Club — Tibetan Terrier Breed Standard",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/breed-standards/utility/tibetan-terrier/",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2025-04-15",
+    accessedOn: "2026-10-25",
+    note: "Official UK Utility Group breed standard (updated April 2025); specifies male height 36–41 cm (14–16 in) with females slightly smaller, scissor or reverse scissor bite with slightly curved incisor arcade, flat round snowshoe feet without arch, and any colour permissible except chocolate, liver, or merle."
+  },
+  "ttca-tibetan-terrier-standard-guide": {
+    id: "ttca-tibetan-terrier-standard-guide",
+    name: "Tibetan Terrier Club of America — Illustrated Guide to the Tibetan Terrier Standard",
+    publisher: "Tibetan Terrier Club of America",
+    url: "https://ttca-online.org/wp-content/uploads/2019/04/TTCA_Illustrated_Guide_2011-1.pdf",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: "2011-01-01",
+    accessedOn: "2026-10-25",
+    note: "Parent-club illustrated commentary on the Tibetan Terrier standard explaining high-altitude adaptations, flat un-arched snowshoe foot anatomy vs. cat/hare feet, optional dewclaw removal and permissible double dewclaws, natural un-sculpted coat presentation, and acceptable scissor, reverse scissor, level, or slightly undershot bites."
+  },
+  "ttca-tibetan-terrier-history": {
+    id: "ttca-tibetan-terrier-history",
+    name: "Tibetan Terrier Club of America — Breed History",
+    publisher: "Tibetan Terrier Club of America",
+    url: "https://ttca-online.org/ol-history/",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-25",
+    note: "Parent-club historical account detailing Dr. Agnes R. H. Greig's 1922 gift of the gold-and-white female puppy Bunti in India, the 1924 Christmas Day first litter sired by Rajah, the Lamleh kennel prefix, 1930 renaming from Lhasa Terrier to Tibetan Terrier by the Kennel Club of India, 1937 UK recognition, 1956 US importation by Dr. Henry and Alice Murphy, and 1973 AKC recognition."
+  },
+  "ofa-tibetan-terrier-ncl": {
+    id: "ofa-tibetan-terrier-ncl",
+    name: "Orthopedic Foundation for Animals — Neuronal Ceroid Lipofuscinosis (NCL-TT)",
+    publisher: "Orthopedic Foundation for Animals (OFA)",
+    url: "https://ofa.org/neuronal-ceroid-lipofuscinosis/",
+    type: "veterinary",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-25",
+    note: "Clinical and genetic overview of Tibetan Terrier late-onset neuronal ceroid lipofuscinosis (NCL-TT), detailing progressive behavioral/anxiety changes, ataxia and difficulty with stairs/jumping, dim-light visual impairment, and late-stage seizures."
+  },
+  "petmd-tibetan-terrier": {
+    id: "petmd-tibetan-terrier",
+    name: "PetMD — Tibetan Terrier Dog Breed Health and Care",
+    publisher: "PetMD",
+    url: "https://www.petmd.com/dog/breeds/tibetan-terrier",
+    type: "veterinary",
+    commercialUse: "reference_only",
+    publishedOn: "2023-11-20",
+    accessedOn: "2026-10-25",
+    note: "Veterinary-reviewed breed guide covering height (14–17 in), weight (up to 30 lb), lifespan (15–16 years), exercise needs (at least 1 hour daily), grooming, separation anxiety sensitivity, and inherited conditions."
+  },
+  "pubmed-tibetan-terrier-ncl-atp13a2": {
+    id: "pubmed-tibetan-terrier-ncl-atp13a2",
+    name: "Wöhlke et al. (2011) — A One Base Pair Deletion in the Canine ATP13A2 Gene Causes Exon Skipping and Late-Onset Neuronal Ceroid Lipofuscinosis in the Tibetan Terrier",
+    publisher: "PLoS Genetics (PubMed PMID: 22022275)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/22022275/",
+    type: "scientific",
+    commercialUse: "reference_only",
+    publishedOn: "2011-10-13",
+    accessedOn: "2026-10-25",
+    note: "Identifies the autosomal recessive c.1620delG single-base deletion in exon 16 of ATP13A2 on CFA2 causing exon skipping (69-amino-acid loss) and adult/late-onset neuronal ceroid lipofuscinosis in Tibetan Terriers."
+  },
+  "pubmed-tibetan-terrier-ccl-selection": {
+    id: "pubmed-tibetan-terrier-ccl-selection",
+    name: "prim-vet / KTR Study (2014) — Selection Response to DNA Testing for Canine Ceroid Lipofuscinosis in Tibetan Terriers",
+    publisher: "The Veterinary Journal (PubMed PMID: 24929534)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/24929534/",
+    type: "scientific",
+    commercialUse: "reference_only",
+    publishedOn: "2014-06-13",
+    accessedOn: "2026-10-25",
+    note: "Genotyped 1,120 Tibetan Terriers (1987–2012), showing the ATP13A2 mutant allele frequency declined from 0.20–0.28 before 2010 DNA testing to 0.09–0.14 after DNA screening implementation."
+  },
+  "pubmed-tibetan-terrier-pra3-fam161a": {
+    id: "pubmed-tibetan-terrier-pra3-fam161a",
+    name: "Downs & Mellersh (2014) — An Intronic SINE Insertion in FAM161A That Causes Exon-Skipping Is Associated with Progressive Retinal Atrophy in Tibetan Spaniels and Tibetan Terriers",
+    publisher: "PLoS One (PubMed PMID: 24705771)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/24705771/",
+    type: "scientific",
+    commercialUse: "reference_only",
+    publishedOn: "2014-04-04",
+    accessedOn: "2026-10-25",
+    note: "Identifies the intronic SINE insertion in FAM161A on CFA10 causing exon skipping and progressive retinal atrophy type 3 (PRA3) in Tibetan Spaniels and Tibetan Terriers."
+  },
+  "pubmed-canine-pll-adamts17": {
+    id: "pubmed-canine-pll-adamts17",
+    name: "Gould et al. (2011) — ADAMTS17 Mutation Associated with Primary Lens Luxation Is Widespread Among Breeds",
+    publisher: "Veterinary Ophthalmology (PubMed PMID: 22050825)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/22050825/",
+    type: "scientific",
+    commercialUse: "reference_only",
+    publishedOn: "2011-11-15",
+    accessedOn: "2026-10-25",
+    note: "Demonstrates that the splice-donor mutation c.1473+1G>A in ADAMTS17 on CFA3 causes inherited primary lens luxation (PLL) across multiple terrier and Tibetan-derived breeds including the Tibetan Terrier, with carriers also having a small elevated risk."
+  },
+  "wikimedia-tibetan-terrier-8yo-male": {
+    id: "wikimedia-tibetan-terrier-8yo-male",
+    name: "Wikimedia Commons — File:8 year old male Tibetan Terrier.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:8_year_old_male_Tibetan_Terrier.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2019-12-14",
+    accessedOn: "2026-10-25",
+    note: "Photograph of an 8-year-old male Tibetan Terrier in a practical pet trim ('puppy cut') by Getsnarky, captured 14 December 2019 (iPhone XS Max) and uploaded 8 December 2020 (2,049 × 1,537 px), licensed under CC BY-SA 4.0."
+  },
+  "wikimedia-tibet-terrier-bennie": {
+    id: "wikimedia-tibet-terrier-bennie",
+    name: "Wikimedia Commons — File:Tibet Terrier Bennie.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Tibet_Terrier_Bennie.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2006-03-08",
+    accessedOn: "2026-10-25",
+    note: "Photograph of a black Tibetan Terrier standing in snow by Mr407SW, captured 8 March 2006 (Canon EOS 350D EXIF) and uploaded 19 March 2008 (1,728 × 1,152 px), released into the public domain ({{PD-self}})."
   },
 });
 

@@ -16,6 +16,12 @@ const geminiPrompt = document.querySelector("#gemini-prompt");
 const geminiContent = document.querySelector("#gemini-content");
 const geminiSources = document.querySelector("#gemini-sources");
 const geminiMessage = document.querySelector("#gemini-message");
+const geminiChoice = document.querySelector("#gemini-choice");
+const geminiChoiceMessage = document.querySelector("#gemini-choice-message");
+const geminiOurs = document.querySelector("#gemini-ours");
+const geminiCandidates = document.querySelector("#gemini-candidates");
+const geminiCopy = document.querySelector("#gemini-copy");
+const geminiRetry = document.querySelector("#gemini-retry");
 
 let suggestedFile = "";
 let progressRows = [];
@@ -32,8 +38,11 @@ document.querySelector("#chatgpt-create").addEventListener("click", () => {
 document.querySelector("#chatgpt-add").addEventListener("click", () => {
   void addRecord();
 });
-document.querySelector("#gemini-copy").addEventListener("click", () => {
+geminiCopy.addEventListener("click", () => {
   void copyGemini();
+});
+geminiRetry.addEventListener("click", () => {
+  void retryTheDog();
 });
 document.querySelector("#gemini-update").addEventListener("click", () => {
   void updateRecord();
@@ -111,13 +120,102 @@ async function addRecord() {
 }
 
 async function copyGemini() {
+  await runGemini("/api/gemini/prompt", "Copied");
+}
+
+async function retryTheDog() {
+  await runGemini("/api/gemini/thedog/retry", "Fetched again");
+}
+
+async function chooseTheDog(breedId) {
+  await runGemini("/api/gemini/thedog/choose", "Copied", { breedId });
+}
+
+async function runGemini(url, label, body = {}) {
   clearMessage(geminiMessage);
-  const result = await postJson("/api/gemini/prompt", {});
-  if (!result) return;
-  geminiPrompt.value = result.prompt;
-  await copyText(result.prompt, geminiPrompt);
-  geminiMessage.textContent = `Copied. ${result.breed.index}:${result.breed.name} is now CR.`;
-  await refresh();
+  geminiMessage.textContent = "Fetching The Dog API…";
+  geminiCopy.disabled = true;
+  geminiRetry.disabled = true;
+  try {
+    const result = await postJson(url, body);
+    if (!result) {
+      hideChoice();
+      return;
+    }
+    geminiPrompt.value = result.prompt;
+    const breed = `${result.breed.index}:${result.breed.name}`;
+    if (result.thedog.status === "choose") {
+      showChoice(result.thedog);
+      geminiMessage.textContent = `${breed} is now CR. ${result.thedog.message}`;
+      geminiMessage.classList.add("warn");
+    } else {
+      hideChoice();
+      if (result.copyPrompt) await copyText(result.prompt, geminiPrompt);
+      const detail = result.thedog.message || "";
+      geminiMessage.textContent = `${label}. ${breed} is now CR. ${detail}`;
+      if (result.thedog.status === "failed") geminiMessage.classList.add("error");
+      else if (result.thedog.status === "missing" || (result.thedog.warnings || []).length > 0) {
+        geminiMessage.classList.add("warn");
+      }
+    }
+    await refresh();
+  } finally {
+    geminiCopy.disabled = false;
+    geminiRetry.disabled = false;
+  }
+}
+
+function showChoice(thedog) {
+  geminiChoice.hidden = false;
+  geminiChoiceMessage.textContent = thedog.message;
+  geminiOurs.replaceChildren();
+  const ours = document.createElement("article");
+  ours.className = "ours-card";
+  const name = document.createElement("p");
+  name.textContent = thedog.ours.name;
+  ours.append(name);
+  if (thedog.ours.images.length === 0) {
+    const note = document.createElement("p");
+    note.textContent = "The ChatGPT file has no photograph yet.";
+    ours.append(note);
+  }
+  for (const url of thedog.ours.images) {
+    ours.append(photo(url, thedog.ours.name));
+  }
+  geminiOurs.append(ours);
+  geminiCandidates.replaceChildren();
+  for (const candidate of thedog.candidates) {
+    const card = document.createElement("article");
+    if (candidate.imageUrl) card.append(photo(candidate.imageUrl, candidate.name));
+    else {
+      const note = document.createElement("p");
+      note.textContent = "No photograph from The Dog API.";
+      card.append(note);
+    }
+    const label = document.createElement("p");
+    label.textContent = [candidate.name, candidate.group, candidate.origin].filter(Boolean).join(" · ");
+    const button = document.createElement("button");
+    button.type = "button";
+    button.textContent = "Use this breed";
+    button.addEventListener("click", () => {
+      void chooseTheDog(candidate.id);
+    });
+    card.append(label, button);
+    geminiCandidates.append(card);
+  }
+}
+
+function photo(url, alt) {
+  const image = document.createElement("img");
+  image.src = url;
+  image.alt = alt;
+  return image;
+}
+
+function hideChoice() {
+  geminiChoice.hidden = true;
+  geminiOurs.replaceChildren();
+  geminiCandidates.replaceChildren();
 }
 
 async function updateRecord() {
@@ -130,6 +228,7 @@ async function updateRecord() {
   geminiMessage.textContent = result.message;
   geminiContent.value = "";
   geminiSources.value = "";
+  hideChoice();
   showCheck(result.check);
   await refresh();
 }

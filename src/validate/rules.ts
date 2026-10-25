@@ -4,8 +4,8 @@
  * Runs on the TypeScript records before `data.json` is written. Every rule
  * here exists to stop a specific kind of dishonest data: a placeholder
  * instead of `null`, a "verified" claim with no source, a verification date
- * in the future, a null value presented as a fact, or an image whose license
- * terms would be claimed without a known license.
+ * in the future, a null value presented as a fact, or a photograph that is
+ * missing or lacks a license that clearly allows commercial use.
  */
 
 import {
@@ -102,7 +102,7 @@ export function validateCatalog(
       error(slug, "slug", `Slug must be kebab-case: ${JSON.stringify(slug)}`);
     }
     slugs.set(slug, (slugs.get(slug) ?? 0) + 1);
-    validateBreed(breed, slug, input, today, usedSources, error, warn);
+    validateBreed(breed, slug, input, today, usedSources, error);
   });
 
   for (const [slug, count] of slugs) {
@@ -190,7 +190,6 @@ function validateBreed(
   today: string,
   usedSources: Set<string>,
   error: Report,
-  warn: Report,
 ): void {
   requireText(breed.name, slug, "name", error);
   requireDate(breed.updatedOn, today, slug, "updatedOn", error);
@@ -242,7 +241,7 @@ function validateBreed(
     requireText(faq.answer, slug, `faq[${index}].answer`, error);
   });
 
-  validateImages(breed, slug, input.licenses, today, error, warn);
+  validateImages(breed, slug, input.licenses, today, error);
   validateReferences(breed, slug, input.sources, usedSources, error);
   validateEvidence(breed, slug, input.sources, today, error);
   validateCoverage(breed, slug, error);
@@ -254,8 +253,14 @@ function validateImages(
   licenses: Readonly<Record<string, License>>,
   today: string,
   error: Report,
-  warn: Report,
 ): void {
+  if (breed.images.length === 0) {
+    error(
+      slug,
+      "images",
+      "At least one photograph is required, and its license must clearly allow commercial use.",
+    );
+  }
   const urls = new Set<string>();
   breed.images.forEach((image, index) => {
     const at = `images[${index}]`;
@@ -285,10 +290,10 @@ function validateImages(
     optionalDate(image.metadataCheckedOn, today, slug, `${at}.metadataCheckedOn`, error);
 
     if (image.licenseId === null) {
-      warn(
+      error(
         slug,
         `${at}.licenseId`,
-        "No license recorded. The app will show no permission information for this photo.",
+        "No license recorded. Leave this photograph out unless commercial use is clearly allowed.",
       );
       return;
     }
@@ -296,6 +301,13 @@ function validateImages(
     if (!license) {
       error(slug, `${at}.licenseId`, `Unknown license "${image.licenseId}"`);
       return;
+    }
+    if (license.commercialUseAllowed !== true) {
+      error(
+        slug,
+        `${at}.licenseId`,
+        `License ${image.licenseId} does not clearly allow commercial use. Leave this photograph out.`,
+      );
     }
     if (license.attributionRequired === true && image.attribution === null) {
       error(

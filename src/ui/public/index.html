@@ -49,10 +49,21 @@
         <h2>Gemini</h2>
         <p class="help">
           Copy the prompt for the next ChatGPT breed. The breed file is included, and the breed is marked
-          <strong>CR</strong>. Paste the corrected file and update. That marks it <strong>CG</strong>.
+          <strong>CR</strong>. When The Dog API matches one breed, a reference file is written to
+          <strong>src/thedog/current</strong>. Attach that file in Gemini. Paste the corrected file and
+          update. That marks it <strong>CG</strong> and moves the reference file to <strong>src/thedog</strong>.
         </p>
         <p id="gemini-breed" class="current">Loading…</p>
         <button id="gemini-copy" type="button">Copy prompt for next breed</button>
+        <button id="gemini-retry" type="button">Fetch The Dog API again</button>
+        <div id="gemini-choice" class="choice" hidden>
+          <h3>Choose the The Dog API breed</h3>
+          <p id="gemini-choice-message"></p>
+          <h4>Photograph in the ChatGPT file</h4>
+          <div id="gemini-ours" class="choice-grid"></div>
+          <h4>The Dog API matches</h4>
+          <div id="gemini-candidates" class="choice-grid"></div>
+        </div>
         <label>
           Prompt
           <textarea id="gemini-prompt" readonly rows="8"></textarea>
