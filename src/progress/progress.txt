@@ -33,13 +33,14 @@
 30:pyrenean_mastiff - CG
 31:tibetan_terrier - CG
 32:blackmouth_cur - CG
+33:german_rough-haired_pointer - CG
+34:tyrolean_hound - CG
+35:bernese_mountain_dog - CG
+36:brittany - CG
+37:great_dane - CG
 
-33:german_rough-haired_pointer - C
-34:tyrolean_hound - C
-35:bernese_mountain_dog - C
-36:brittany - C
-37:great_dane - C
-38:gascon_saintongeois - C
+38:gascon_saintongeois - CR
+
 39:alpine_dachsbracke - C
 40:parson_russell_terrier - C
 41:german_shepherd_dog - C
@@ -78,11 +79,11 @@
 74:clumber_spaniel - C
 75:broholmer - C
 76:manchester_terrier - C
+77:spinone_italiano - C
+78:mudi - C
+79:rafeiro_do_alentejo - C
+80:polish_hound - C
 
-77:spinone_italiano
-78:mudi
-79:rafeiro_do_alentejo
-80:polish_hound
 81:icelandic_sheepdog
 82:old_english_sheepdog
 83:saluki

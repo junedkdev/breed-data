@@ -81,6 +81,10 @@ import { english_toy_terrier_black_tan } from "./english_toy_terrier_black_tan";
 import { clumber_spaniel } from "./clumber_spaniel";
 import { broholmer } from "./broholmer";
 import { manchester_terrier } from "./manchester_terrier";
+import { spinone_italiano } from "./spinone_italiano";
+import { mudi } from "./mudi";
+import { rafeiro_do_alentejo } from "./rafeiro_do_alentejo";
+import { polish_hound } from "./polish_hound";
 
 
 export const breedData: readonly Breed[] = [
@@ -161,4 +165,8 @@ export const breedData: readonly Breed[] = [
   clumber_spaniel,
   broholmer,
   manchester_terrier,
+  spinone_italiano,
+  mudi,
+  rafeiro_do_alentejo,
+  polish_hound,
 ];

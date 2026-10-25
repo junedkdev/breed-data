@@ -8,12 +8,15 @@ export const brittany: Breed = {
     "Brittany Spaniel",
     "Épagneul Breton",
     "Epagneul Breton",
+    "French Brittany",
+    "American Brittany",
   ],
   group:
-    "AKC Sporting Group; FCI Group 7 — Pointing Dogs, Section 1.2 — Continental Pointing Dogs, Spaniel type",
+    "Sporting Group; Pointing Dogs (Continental Pointing Dogs, Spaniel type)",
   origin: {
     country: "France",
-    region: "Brittany, western France",
+    region:
+      "Central Brittany (particularly the Callac and Loudéac districts of Côtes-d'Armor, formerly Côtes-du-Nord), northwestern France",
   },
   images: [
     {
@@ -22,7 +25,7 @@ export const brittany: Breed = {
         "https://commons.wikimedia.org/wiki/File:Aka_Brittany_Spaniel.jpg",
       title: "Aka Brittany Spaniel.jpg",
       description:
-        "A Brittany photographed at a dog show in Lansing, Michigan.",
+        "An orange-and-white Brittany photographed indoors at a dog show in Lansing, Michigan.",
       creator: "RLAMorgan",
       uploader: "RLAMorgan",
       capturedOn: "2017-02-15",
@@ -33,7 +36,7 @@ export const brittany: Breed = {
       attribution:
         "Photo by RLAMorgan, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-10-25",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Brittanyblackticked.jpg",
@@ -41,7 +44,7 @@ export const brittany: Breed = {
         "https://commons.wikimedia.org/wiki/File:Brittanyblackticked.jpg",
       title: "Brittanyblackticked.jpg",
       description:
-        "Photograph of a Brittany with a black-ticked coat pattern.",
+        "Full-body side profile of a Brittany displaying a black-and-white ticked and roan coat pattern.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: null,
@@ -52,14 +55,15 @@ export const brittany: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-10-25",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Brittany_Puppy_in_Play_Pen.jpg",
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Brittany_Puppy_in_Play_Pen.jpg",
       title: "Brittany Puppy in Play Pen.jpg",
-      description: "Photograph of a 14-week-old Brittany puppy in a playpen.",
+      description:
+        "An orange-and-white 14-week-old Brittany puppy looking up from inside an indoor playpen.",
       creator: "VeronicaNicole88",
       uploader: "VeronicaNicole88",
       capturedOn: "2015-09-25",
@@ -70,23 +74,23 @@ export const brittany: Breed = {
       attribution:
         "Photo by VeronicaNicole88, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-10-25",
     },
   ],
   overview: {
     summary:
-      "The Brittany is a medium-sized, energetic pointing dog developed in France to locate and work game birds. It combines an athletic build, a keen nose, quick movement, and a close working relationship with its handler. The breed generally suits people who enjoy outdoor activities and can provide consistent training, exercise, and mental enrichment.",
+      "Originating in northwestern France, the Brittany is a compact, long-legged pointing dog prized for locating, pointing, and retrieving upland game birds and waterfowl. Standing 48 to 51 cm at the withers in males and 47 to 50 cm in females and weighing 30 to 40 lb, it pairs tireless field stamina and keen scenting ability with an affectionate, cooperative disposition.",
     description:
-      "The Brittany is a compact, leggy sporting dog with an alert expression and an agile, balanced build. Its coat is relatively short to medium in appearance, usually flat or slightly wavy, with some feathering. Orange-and-white and liver-and-white patterns are familiar, while recognised colour descriptions can vary between kennel-club standards. Some Brittanys are naturally born with a very short tail or no visible tail. Bred for practical work in the field, the breed is known for its stamina, scenting ability, responsiveness, and enthusiasm for finding game. Those same qualities make structured activity and humane training important parts of life as a companion dog.",
+      "Smaller than traditional setters yet longer-legged than flushing spaniels, the Brittany is built on a square, cobby frame where height at the withers matches body length from shoulder point to buttocks. Its finely chiselled head features a rounded cranium, a moderate stop, a straight muzzle measuring roughly two-thirds the length of the skull, high-set triangular ears covered in wavy hair, and expressive amber to dark eyes shielded by protective brows. A tight, dry lip line prevents feathers from clinging when retrieving birds. The fine, dense coat lies flat or shows a slight wave without ever curling, carrying moderate feathering along the backs of the limbs. Familiar colourations include orange-and-white and liver-and-white in clear parti-colour, piebald, ticked, or roan patterns, while liver tricolour, black-and-white, and black tricolour coats differ in acceptability between Continental European and North American show rings. Some individuals are born naturally tailless or with a short bobtail, while others are born with a full-length tail.",
     history:
-      "The breed developed in the Brittany region of north-western France and became established as a versatile pointing dog. A breed-standard draft was prepared in 1907 and adopted at a breed-club meeting in 1908. The Brittany was later developed and recognised in different countries under slightly different naming and registration conventions. In the United States, the American Kennel Club registered it as the Brittany Spaniel for many years before changing the registered name to Brittany in 1982.",
+      "Bred for centuries across the wooded valleys and heathlands of central Brittany—especially around Callac and Loudéac—the breed descended from regional white-and-mahogany land spaniels selected for pointing and retrieving woodcock, partridge, and hare. During the mid-nineteenth century, visiting British sportsmen bred their pointers and setters with local French dogs, reinforcing scenting range, point intensity, and a natural short-tailed trait that appeared in the lines of a Pontivy hunter named Louis Champion. Veterinarian and breeder Arthur Énaud subsequently worked to unify the regional type, emphasizing a compact, short-coupled silhouette. Formal breed guidelines drafted in Nantes in 1907 were ratified on 7 June 1908 at a general assembly in Loudéac. First exported to Mexico and the United States in 1931 and formally registered in North America in 1934 as the Brittany Spaniel, the breed had the word 'Spaniel' dropped from its official American title on 1 September 1982 to reflect that it hunts by pointing rather than flushing game.",
     originalPurpose:
-      "Locating and pointing game birds for hunters, with a compact and agile build suited to working across varied field terrain.",
+      "Searching, pointing, and retrieving upland feathered game—particularly woodcock and partridge—and small ground game across dense brush, heather, and wetland cover in close cooperation with a foot hunter.",
     currentRoles: [
-      "Versatile hunting and pointing companion",
-      "Field-trial and other sporting-dog activities",
-      "Agility, obedience, and other structured canine sports",
-      "Active companion for households able to provide regular exercise and training",
+      "Versatile pointing and retrieving gundog for upland birds and waterfowl",
+      "Dual-purpose competitor in field trials, hunt tests, and conformation shows",
+      "High-drive participant in agility, obedience, dock diving, scent work, and lure coursing",
+      "Energetic outdoor companion for hikers, runners, and active households",
     ],
   },
   physical: {
@@ -94,23 +98,23 @@ export const brittany: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 47,
+        min: 48,
         max: 51,
       },
       female: {
-        min: 46,
+        min: 47,
         max: 50,
       },
     },
     weight: {
-      unit: "kg",
+      unit: "lb",
       male: {
-        min: 13.6,
-        max: 18.1,
+        min: 30,
+        max: 40,
       },
       female: {
-        min: 13.6,
-        max: 18.1,
+        min: 30,
+        max: 40,
       },
     },
     lifespanYears: {
@@ -118,44 +122,46 @@ export const brittany: Breed = {
       max: 14,
     },
     coatType:
-      "Fine, relatively short coat that lies flat or may be slightly wavy, with some feathering.",
+      "Fine, dense, flat or slightly wavy single coat that is neither silky nor wiry and never curly, with moderate feathering on the limbs.",
     coatLength:
-      "Short to medium; feathering may be present on areas such as the ears, legs, and underside.",
+      "Short on the head and fronts of the legs, medium on the trunk, with moderate fringe on the upper ears and feathering along the backs of the forelegs and thighs.",
     coatColors: [
-      "Orange and white",
-      "Liver and white",
-      "Roan patterns associated with recognised colour combinations",
-      "Other combinations described by particular kennel-club standards, including black-and-white or tricolour patterns under the FCI standard",
+      "Orange and white (clear parti-colour, piebald, ticked, or roan)",
+      "Liver and white (clear parti-colour, piebald, ticked, or roan)",
+      "Liver tricolour (liver and white with orange or tan markings over the eyes, on the muzzle and cheeks, inside the ears, on the limbs, and under the tail)",
+      "Black and white (clear parti-colour, piebald, ticked, or roan; accepted in Continental European breeding but disqualified in North American show rings)",
+      "Black tricolour (black and white with orange or tan markings; accepted in Continental European breeding but disqualified in North American show rings)",
     ],
-    sheddingLevel: null,
-    droolingLevel: null,
+    sheddingLevel:
+      "Moderate; the dense, flat or slightly wavy coat sheds moderately throughout the year and benefits from weekly brushing.",
+    droolingLevel:
+      "Low; the lips fit tightly and remain dry so bird feathers do not stick during retrieving, and heavy flews or drooling are penalized.",
     distinctiveFeatures: [
-      "Compact, athletic body with relatively long legs",
-      "Alert expression and high-set ears",
-      "Quick, agile movement suited to field work",
-      "Short or naturally absent tail in some individuals",
-      "Flat or slightly wavy coat with some feathering",
-      "Strong interest in scenting and finding game",
+      "Square, short-coupled proportions where shoulder height equals body length, paired with long legs that clear rough cover",
+      "Natural bobtail (anury or brachyury) present at birth in a substantial proportion of individuals, alongside tailed and docked dogs",
+      "High-set, relatively short triangular ears covered in wavy hair that lift attentively when the dog is working",
+      "Well-set amber to dark eyes protected from briars by a chiseled suborbital skull and expressive brow ridge",
+      "Fine, moderately loose skin over the trunk that rolls against thorns and brush to reduce punctures and tearing",
+      "Rapid, ground-covering collected canter in the field and clean, efficient trot where the hind paws step into or past the front tracks",
     ],
   },
   temperament: {
     traits: [
-      "Energetic and enthusiastic about activity",
-      "Alert and attentive to its surroundings",
-      "Intelligent and generally responsive to reward-based training",
-      "Athletic and well suited to structured outdoor activities",
-      "Strongly motivated by scenting and hunting-related tasks",
-      "Often sociable, while individual behaviour varies with breeding, experience, and socialisation",
-      "Likely to benefit from regular mental challenges as well as physical exercise",
+      "Energetic, tireless, and enthusiastic outdoors",
+      "Bright, alert, and responsive to handler cues",
+      "Affectionate, gentle, and people-oriented at home",
+      "Precocious and intensely focused on scenting and pointing birds",
+      "Sociable and adaptable across varied environments when well socialized",
+      "Sensitive to harsh corrections and best suited to patient, reward-based guidance",
     ],
     scores: {
       affection: 4,
-      withChildren: 3,
-      withDogs: 3,
-      withStrangers: 3,
-      protectiveness: 2,
+      withChildren: 4,
+      withDogs: 4,
+      withStrangers: 4,
+      protectiveness: 3,
       independence: 3,
-      trainability: 4,
+      trainability: 5,
       barking: 3,
       energy: 5,
     },
@@ -163,108 +169,108 @@ export const brittany: Breed = {
   care: {
     exercise: {
       level:
-        "High. The Brittany was developed as an active sporting dog and typically needs regular opportunities to move, explore, use its nose, and learn. The amount of activity should be adjusted to age, health, fitness, and the individual dog's behaviour.",
+        "High. Bred to cover extensive ground at a brisk canter or trot, the Brittany requires vigorous daily physical exertion paired with scent-based or problem-solving tasks, scaled to the individual dog's age, conditioning, and weather.",
       minutesPerDay: null,
       activities: [
-        "Brisk daily walks with controlled opportunities to sniff and explore",
-        "Secure-area running and play appropriate to the dog's fitness",
-        "Scent games and structured search activities",
-        "Reward-based recall practice in safe, enclosed spaces",
-        "Hiking or other outdoor activities with suitable conditioning",
-        "Agility, obedience, field work, or other supervised dog sports",
-        "Food puzzles and training games for mental enrichment",
+        "Long, brisk daily walks, trail hikes, or conditioned leashed running",
+        "Off-lead running and retrieving in securely fenced areas",
+        "Field work, bird-dog training, or nosework and tracking games",
+        "Canine sports such as agility, obedience, rally, flyball, or dock diving",
+        "Structured impulse-control and long-line recall drills around outdoor distractions",
+        "Interactive food puzzles and indoor scent-search games for rainy days",
       ],
     },
     grooming: {
       level:
-        "Low to moderate. The coat is relatively easy to maintain, but regular brushing and routine checks remain important.",
+        "Low to moderate. The flat or slightly wavy coat is straightforward to keep clean, though field dogs need thorough post-outing checks for burrs, seeds, and ticks.",
       brushing:
-        "Brush regularly with a suitable dog brush to remove loose hair and debris, check the skin, and maintain the coat. Pay attention to any feathering where tangles or outdoor debris can collect.",
+        "Brush once or twice a week with a soft bristle brush or hound glove, and comb through the leg and ear feathering to prevent tangles and remove plant debris.",
       bathing:
-        "Bathe when necessary, such as after muddy outdoor activity or when the coat is dirty. Use a dog-formulated shampoo and rinse thoroughly.",
+        "Bathe as needed when muddy or odorous using a mild, dog-formulated shampoo, rinsing thoroughly so soap residue does not irritate the skin.",
       notes: [
-        "Check the ears regularly for dirt, redness, odour, or discharge, especially after outdoor activity.",
-        "Inspect the coat and skin for ticks, burrs, scratches, and other debris after field walks.",
-        "Trim nails as needed and check paw pads after running or walking on rough ground.",
-        "Brush the teeth regularly with dog-safe toothpaste.",
-        "Increase coat checks when the dog spends a lot of time in dense grass or woodland.",
+        "Inspect the high-set ears weekly and after every field outing, wiping the underside clean and checking for trapped grass awns, wax buildup, redness, or odour.",
+        "Examine the interdigital spaces, paw pads, underarms, and groin after walks in tall grass or brush to remove burrs, thorns, and ticks.",
+        "Avoid encouraging heavy or profuse leg feathering, which traps mud and briars in working environments.",
+        "Trim nails monthly if regular running on firm surfaces does not wear them down naturally.",
+        "Brush the teeth several times per week using canine enzymatic toothpaste.",
       ],
     },
     training: {
       difficulty:
-        "Moderate. The breed is generally responsive to engaging training, but its energy and hunting interests mean that consistency and practical management are important.",
+        "Easy to moderate. Brittanys are perceptive, eager to cooperate, and quick to learn, but their soft temperament and strong bird drive call for gentle, reward-focused methods and steady impulse control.",
       tips: [
-        "Use reward-based training with clear, consistent cues.",
-        "Begin recall training early and practise it in gradually more distracting environments.",
-        "Teach calm behaviour as well as active skills so the dog can settle at home.",
-        "Use scent games and appropriate retrieving activities to channel natural working interests.",
-        "Keep sessions varied and engaging, with short repetitions and clear rewards.",
-        "Use a secure area or lead where wildlife, traffic, or other hazards make off-lead activity unsafe.",
+        "Rely on positive reinforcement, upbeat praise, and game-based rewards rather than heavy-handed corrections, which can cause shutting down or timidity.",
+        "Start recall and check-in habits in puppyhood using a long training line before allowing off-lead freedom around bird scent.",
+        "Channel natural pointing and retrieving instincts into structured fetch, hide-and-seek, and scent-detection exercises.",
+        "Teach an explicit 'settle on a mat' cue indoors so the dog learns to transition calmly from outdoor work to household rest.",
+        "Keep training sessions short, varied, and engaging to hold the attention of an observant, fast-thinking learner.",
       ],
       socialization:
-        "Introduce the dog gradually and positively to different people, environments, sounds, surfaces, and other suitable dogs. Continue training throughout adolescence and adulthood, and tailor introductions to the individual dog's comfort and behaviour.",
+        "Expose puppies early and positively to diverse people, calm dogs, children, household appliances, rural wildlife sights, and varied footing, while building confidence around novel sounds.",
     },
     livingEnvironment: {
       apartmentSuitable: null,
-      houseWithYardSuitable: null,
+      houseWithYardSuitable: true,
       climates: [
-        "Provide shade, fresh water, and rest breaks in warm weather.",
-        "Adjust exercise to temperature, humidity, age, and physical condition.",
-        "In cold or wet conditions, provide appropriate shelter and dry the coat when needed.",
+        "Adaptable to temperate climates when housed indoors with family and given adequate outdoor exercise.",
+        "In hot or humid weather, schedule strenuous running for early morning or evening and provide constant access to shade and cool water.",
+        "In cold, wet, or snowy conditions, towel-dry the coat and leg feathering after outings and provide a dry, draft-free resting area.",
       ],
       aloneTimeTolerance: null,
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity level, and individual health needs.",
+      "A complete, nutritionally balanced canine diet formulated for the dog's life stage and adjusted to match seasonal hunting or sport workload.",
     feedingFrequency: {
       puppy:
-        "Use age-appropriate puppy food and divide the daily amount into meals according to the food label and veterinary advice.",
+        "Feed three to four measured meals per day in early puppyhood, transitioning to two daily meals by six months of age.",
       adult:
-        "Feed measured portions of an appropriate adult diet, adjusting the amount to maintain a healthy body condition and support activity.",
+        "Feed two measured meals daily, adjusting caloric density during heavy field-work or training seasons.",
       senior:
-        "Choose a diet and feeding schedule suited to the dog's age, body condition, dental health, and any veterinary-identified needs.",
+        "Feed two daily meals tailored to senior energy expenditure, joint maintenance, and veterinary health assessments.",
     },
     guidelines:
-      "Base feeding amounts on the dog's age, weight, body condition, activity, and the calorie content of the food rather than a single breed-wide quantity. Measure meals, account for training treats, provide clean water at all times, and adjust portions if weight changes. Consult a veterinarian when selecting a therapeutic diet or when persistent digestive, skin, or weight concerns occur.",
+      "Portion sizes should reflect the individual dog's body condition score, age, and weekly mileage rather than a fixed breed-wide formula. Active hunting and agility dogs burn substantially more calories in season than companion pets during quieter months, so owners should monitor rib and waist definition closely, factor training treats into daily intake, and keep fresh water available at all times.",
     considerations: [
-      "Monitor body condition rather than relying on weight alone.",
-      "Account for treats and training rewards in the daily food allowance.",
-      "Provide fresh water, particularly after exercise and in warm weather.",
-      "Avoid sudden diet changes; transition foods gradually when practical.",
-      "Ask a veterinarian about nutrition for puppies, pregnancy, illness, or other special circumstances.",
+      "Adjust caloric intake upward during intense hunting or trial seasons and scale back during rest periods to prevent unwanted weight gain.",
+      "Avoid feeding large meals immediately before or after vigorous running to support comfortable digestion.",
+      "Count training treats within the daily calorie budget so reward-heavy sessions do not lead to excess weight.",
+      "Ensure continuous access to clean water, especially during warm-weather field work.",
+      "Transition between diets gradually over five to seven days to avoid gastrointestinal upset.",
     ],
     note:
-      "Individual calorie needs vary considerably. This record does not prescribe a fixed serving size or a breed-specific supplement.",
+      "Individual metabolic needs vary widely between hard-working gundogs and family companions; consult a veterinarian for tailored nutritional or therapeutic feeding plans.",
   },
   health: {
     overview:
-      "Brittanys are often described as generally healthy, but no breed is free of inherited or age-related health problems. Breed-club recommendations emphasise hip evaluation and eye examinations, alongside an additional screening selected from several health areas. These recommendations are intended to support responsible breeding and are not a diagnosis or a statement that every Brittany will develop these conditions.",
+      "The Brittany is generally a hardy, long-lived sporting breed with a typical life expectancy of 12 to 14 years. Responsible breeding programmes prioritize radiographic hip evaluation, regular veterinary ophthalmic examinations between ages two and eight, and at least one additional screening covering elbow conformation, patellar stability, cardiac health, or thyroid function. Radiographic and genetic studies have also examined spinal variations associated with the breed's natural bobtail trait and rare inherited immunological disorders.",
     commonConditions: [
-      "Hip dysplasia is an inherited joint-development concern for which screening is recommended.",
-      "Eye disorders are a recognised reason for breeder screening and veterinary eye examinations.",
-      "Epilepsy or other seizure disorders have been identified as concerns in breed-club breeding guidance.",
-      "Heart, elbow, patellar, and thyroid conditions are included among the additional screening areas recommended by the breed club.",
+      "Hip dysplasia, a developmental malformation and laxity of the coxofemoral joint that can lead to secondary osteoarthritis and hindlimb lameness.",
+      "Hereditary ocular disorders—including cataracts, progressive retinal atrophy, lens luxation, and eyelid conformation defects such as entropion or ectropion—for which periodic specialist eye examinations are advised.",
+      "Lumbosacral transitional vertebrae (LTV), a congenital spinal anomaly at the junction of the lumbar and sacral vertebrae; a 2026 radiographic study of 744 Brittanys found an overall LTV prevalence of 47.8% and demonstrated that naturally bobtailed dogs—particularly stump-tailed individuals—had significantly higher odds of LTV than full-tailed dogs.",
+      "Elbow dysplasia and patellar luxation, orthopedic conditions included among optional pre-breeding joint evaluations.",
+      "Autoimmune thyroiditis (hypothyroidism) and congenital or adult-onset cardiac disorders, both monitored through pre-breeding diagnostic panels.",
+      "Idiopathic epilepsy and rare inherited complement C3 deficiency, an autosomal recessive immune deficiency historically identified in a research colony of Brittanys that impairs bacterial opsonization and increases susceptibility to recurrent infections.",
     ],
     preventiveCare: [
-      "Arrange routine veterinary examinations and keep vaccinations appropriate to the dog's age and lifestyle.",
-      "Use veterinarian-recommended parasite prevention.",
-      "Maintain healthy body condition and adjust activity gradually to fitness.",
-      "Discuss any repeated lameness, changes in vision, unusual episodes, or reduced exercise tolerance with a veterinarian.",
-      "Ask breeders for documented health-screening results and the relevant details for the puppy's parents.",
+      "Schedule annual veterinary wellness exams, keep core and lifestyle-appropriate vaccinations current, and maintain year-round tick, flea, and heartworm prophylaxis.",
+      "Keep the dog in lean, athletic body condition (typically 30 to 40 lb in adults) to minimize mechanical stress on the hips, elbows, stifles, and lumbosacral spine.",
+      "Perform thorough post-field inspections of the ears, eyelids, interdigital webbing, and coat to remove plant awns, burrs, and ticks before they cause infection.",
+      "Request documented pre-breeding hip, ophthalmic, and elective cardiac, elbow, patellar, or thyroid screening records for both parents when selecting a puppy.",
+      "Seek prompt veterinary evaluation if the dog shows hindlimb stiffness, reluctance to jump, lower-back sensitivity, vision changes, or unexplained seizure activity.",
     ],
     recommendedScreenings: [
-      "Hip evaluation through an accepted scheme such as OFA or PennHIP.",
-      "Eye examination by a qualified veterinary ophthalmologist; the breed-club recommendation specifies annual examinations from 2 to 8 years of age.",
-      "One additional screening submitted to OFA, selected from cardiac evaluation, elbow dysplasia, patellar luxation, or thyroid evaluation from an approved laboratory.",
+      "Radiographic hip evaluation to assess coxofemoral joint conformation and screen for hip dysplasia.",
+      "Ophthalmic examination by a board-certified veterinary ophthalmologist, recommended annually from 2 to 8 years of age.",
+      "At least one additional pre-breeding evaluation selected from cardiac examination, radiographic elbow dysplasia evaluation, patellar luxation examination, or a complete thyroid panel from an approved laboratory.",
     ],
     dentalCare:
-      "Brush the teeth regularly with dog-safe toothpaste. Have the mouth checked during routine veterinary visits and seek advice about persistent bad breath, bleeding gums, pain, or difficulty eating.",
+      "Brush the teeth several times weekly with canine enzymatic toothpaste and schedule professional veterinary dental assessments to prevent periodontal disease.",
     earCare:
-      "Inspect the ears regularly, especially after field activity. Clean only as needed with a dog-safe product recommended by a veterinarian; seek advice for redness, discharge, odour, or repeated head shaking.",
+      "Inspect and gently clean the high-set ears after field or water work using a veterinarian-approved ear cleanser, watching closely for trapped grass seeds, redness, or odour.",
     skinCare:
-      "Check the skin and coat during grooming for parasites, scratches, irritation, or new lumps. Seek veterinary advice for persistent itching, hair loss, sores, or changes that do not resolve.",
+      "Check the fine skin and feathered areas after outdoor excursions for scratches, thorns, burrs, and attached ticks, bathing with a gentle dog shampoo only when needed.",
   },
   suitability: {
     firstTimeOwners: null,
@@ -273,62 +279,67 @@ export const brittany: Breed = {
     activeOwners: true,
     apartmentLiving: null,
     idealFor: [
-      "People who enjoy regular outdoor activity and structured training",
-      "Handlers interested in scent work, field work, or dog sports",
-      "Households prepared to provide daily exercise and mental enrichment",
-      "Owners willing to train reliable recall and manage hunting interests safely",
+      "Active individuals and families who hike, run, camp, or spend substantial time outdoors",
+      "Upland bird hunters and handlers seeking a versatile, close-working pointing and retrieving companion",
+      "Competitors in agility, obedience, scent work, dock diving, or field trials",
+      "Owners who enjoy positive, interactive training and daily mental enrichment",
     ],
     notIdealFor: [
-      "Households looking for a consistently low-energy dog with minimal activity needs",
-      "Owners who cannot provide regular exercise and enrichment",
-      "People who expect reliable off-lead behaviour without training and safe management",
-      "Homes where the dog would routinely be left without sufficient interaction or activity",
+      "Sedentary households unable to provide vigorous daily exercise and structured mental stimulation",
+      "Owners who leave their dog unattended for long workdays without companionship or activity breaks",
+      "Handlers who rely on harsh physical or verbal corrections rather than patient, reward-based training",
+      "People expecting reliable off-lead compliance around wildlife without dedicated recall training",
     ],
   },
   funFacts: [
-    "The breed takes its name from Brittany, the French region where it developed.",
-    "The Brittany is recognised as a pointing dog and is known for working closely with its handler in the field.",
-    "Some Brittanys are born with a naturally short tail or no visible tail.",
-    "The American Kennel Club changed the registered name from Brittany Spaniel to Brittany in 1982.",
-    "The breed's sporting abilities can also be channelled into activities such as agility, obedience, and scent-based games.",
+    "Named after the northwestern French peninsula of Brittany, the breed was formally standardized in 1908 at an assembly in Loudéac as a naturally short-tailed pointing spaniel.",
+    "Seventeenth-century Flemish and French tapestries and paintings depict white-and-liver bobtailed bird dogs closely resembling the modern breed.",
+    "Although historically called the Brittany Spaniel in English, its working style resembles a pointer or setter more than a flushing spaniel, prompting the removal of 'Spaniel' from its official American breed name on 1 September 1982.",
+    "Many Brittanys are born naturally tailless or with a short bobtail due to a dominant variant in the T-box transcription factor gene (TBXT).",
+    "Within the North American sporting dog community, the Brittany is celebrated for producing hundreds of 'Dual Champions' that earn top titles in both conformation show rings and field trials.",
   ],
   faq: [
     {
-      question: "How much exercise does a Brittany need?",
+      question: "Why is the breed called a Brittany instead of a Brittany Spaniel?",
       answer:
-        "Brittanys are active sporting dogs and generally need regular daily exercise plus mental enrichment. The right amount varies with age, health, fitness, and the individual dog, so this record does not prescribe a universal number of minutes.",
+        "In France and across Continental Europe the breed is still titled Épagneul Breton (Brittany Spaniel), reflecting its historical spaniel ancestry. However, because the dog locates and points feathered game rather than flushing birds like traditional spaniels, its official American name was shortened to Brittany in September 1982.",
     },
     {
-      question: "Is the Brittany easy to train?",
+      question: "Are all Brittanys born without a tail?",
       answer:
-        "Many Brittanys respond well to positive, engaging training. Their energy and interest in scent and wildlife make recall, lead skills, impulse control, and safe outdoor management especially useful.",
+        "No. Some Brittanys inherit a natural bobtail—ranging from complete absence of visible tail vertebrae to a short stump—while littermates may be born with a full-length tail. In regions where docking is practiced, long tails are traditionally docked to up to 10 cm (around 4 inches), whereas un-docked tails are seen where docking is restricted.",
     },
     {
-      question: "What is the typical lifespan of a Brittany?",
+      question: "Why are black-and-white Brittanys accepted in Europe but not in North American show rings?",
       answer:
-        "The American Kennel Club lists a typical life expectancy of 12–14 years. An individual dog's lifespan depends on genetics, healthcare, lifestyle, and other factors.",
+        "The earliest 1908 French standard allowed only white-and-orange and white-and-liver coats, which formed the basis for the North American standard when the breed was imported in the 1930s. France later broadened its standard in 1956 to admit black-and-white and tricolour coats, whereas the North American standard continues to disqualify black coat pigment and black noses.",
     },
     {
-      question: "What colours can a Brittany have?",
+      question: "How much exercise does a Brittany require?",
       answer:
-        "Orange-and-white and liver-and-white are familiar Brittany colours. Recognised colour descriptions differ between kennel-club standards, so the applicable registry standard should be checked when colour matters for registration or showing.",
+        "As a high-drive pointing breed, an adult Brittany needs substantial daily physical activity—such as brisk hikes, conditioned running, or secure off-lead retrieving—combined with scent games or training exercises. Because individual needs depend on age, health, and conditioning, no single minute-per-day quota applies to every dog.",
     },
     {
-      question: "What health checks should a Brittany breeder provide?",
+      question: "What health screenings should prospective Brittany puppy buyers ask for?",
       answer:
-        "Breed-club recommendations include hip evaluation, eye examinations, and an additional screening chosen from cardiac, elbow, patellar, or thyroid evaluation. Ask for actual results and discuss their meaning with a veterinarian.",
+        "Prospective owners should ask breeders for documented hip evaluation results, annual veterinary ophthalmologist clearances (recommended between ages two and eight), and at least one additional clearance covering cardiac health, elbow conformation, patellar stability, or thyroid function.",
     },
     {
-      question: "Can a Brittany live in an apartment?",
+      question: "Can a Brittany live happily as a family companion if it does not hunt?",
       answer:
-        "An apartment is not automatically suitable or unsuitable for every Brittany. Suitability depends on the dog's individual needs and whether the owner can provide enough exercise, enrichment, training, and opportunities to settle. The available sources do not establish a universal yes-or-no rule.",
+        "Yes, provided its physical energy and scenting instincts are given constructive outlets. Non-hunting Brittanys thrive when engaged in canine sports like agility, nosework, dock diving, or obedience alongside daily outdoor adventures and family companionship.",
     },
   ],
   references: [
     "fci-brittany-spaniel-standard",
+    "fci-brittany-spaniel-nomenclature",
     "american-kennel-club-brittany-standard",
     "american-kennel-club-brittany-profile",
     "american-brittany-club-health-testing",
+    "american-brittany-club-code-of-ethics",
+    "pubmed-brittany-natural-bobtail-ltv-2026",
+    "pubmed-brittany-complement-c3-deficiency-1981",
+    "the-dog-api",
     "wikimedia-brittany-aka-spaniel-rlamorgan",
     "wikimedia-brittany-blackticked-canarian",
     "wikimedia-brittany-puppy-veronicanicole88",
@@ -339,25 +350,30 @@ export const brittany: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A breed-specific scientific name was not established from the consulted breed standards and kennel-club sources.",
+        "Official breed standards and kennel-club profiles do not assign a breed-specific scientific trinomial.",
     },
     alternateNames: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-brittany-spaniel-standard",
           role: "verified",
-          locator: "Breed name and nomenclature",
+          locator: "Page 1–2: EPAGNEUL BRETON (Brittany Spaniel)",
         },
         {
           id: "american-kennel-club-brittany-profile",
           role: "verified",
-          locator: "Breed profile and history",
+          locator: "History and Did You Know: registered as Spaniel, Brittany until September 1, 1982",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names: Brittany Spaniel",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "The FCI uses Brittany Spaniel / Épagneul Breton, while the American Kennel Club uses Brittany.",
+        "FCI Standard No. 95 titles the breed Épagneul Breton (Brittany Spaniel), while the AKC shortened the registered name to Brittany in 1982; French Brittany and American Brittany are widely used informal subtype names.",
     },
     group: {
       reliability: "official_standard",
@@ -365,17 +381,22 @@ export const brittany: Breed = {
         {
           id: "fci-brittany-spaniel-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "Page 2, FCI-Classification: Group 7 Pointing Dogs and Setters, Section 1.2 Continental Pointing Dogs, Spaniel type",
         },
         {
-          id: "american-kennel-club-brittany-standard",
+          id: "american-kennel-club-brittany-profile",
           role: "verified",
-          locator: "Official breed standard and AKC group context",
+          locator: "Header: Sporting Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group: Sporting",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Both registry classifications are included because group labels differ by registry.",
+        "Combines the Sporting Group classification and the Continental Pointing Dogs (Spaniel type) classification without using registry acronyms in user-facing text.",
     },
     origin: {
       reliability: "official_standard",
@@ -383,12 +404,22 @@ export const brittany: Breed = {
         {
           id: "fci-brittany-spaniel-standard",
           role: "verified",
-          locator: "Origin and brief historical summary",
+          locator: "Page 2, Origin: France; Brief Historical Summary: centre of Brittany, Nantes (1907), Loudéac in Côtes d'Armor (1908)",
+        },
+        {
+          id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "History: Brittany, westernmost region of France",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Brittany (Bretagne), France",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "The standard identifies France as the country of origin and locates the breed's development in Brittany.",
+        "Separates France as the country of origin and central Brittany (Côtes-d'Armor) as the historical region, correcting The Dog API record where both were merged into country and region was null.",
     },
     overview: {
       reliability: "official_standard",
@@ -396,22 +427,27 @@ export const brittany: Breed = {
         {
           id: "fci-brittany-spaniel-standard",
           role: "verified",
-          locator: "Historical summary, general appearance, and utilization",
+          locator: "Pages 2–6: Brief Historical Summary, General Appearance, Important Proportions, Behaviour/Temperament, Coat, Size",
         },
         {
           id: "american-kennel-club-brittany-standard",
           role: "verified",
-          locator: "General appearance and size",
+          locator: "Pages 1–3: General Appearance, Size, Proportion, Substance, Head, Coat, Color, Gait, Temperament",
         },
         {
           id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "About the Breed, History, and Did You Know (1907 standard, 1931 US introduction, 1934 recognition, 1982 name change)",
+        },
+        {
+          id: "the-dog-api",
           role: "cited",
-          locator: "About the breed and history",
+          locator: "breed.description and breed.history",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Original wording summarises the standards and registry history; registry naming and descriptions are not identical in every country.",
+        "Completely rewritten in original wording synthesizing FCI Standard No. 95, the AKC Official Standard, and AKC historical milestones without registry names in user-facing prose.",
     },
     physical: {
       reliability: "official_standard",
@@ -419,30 +455,63 @@ export const brittany: Breed = {
         {
           id: "fci-brittany-spaniel-standard",
           role: "verified",
-          locator: "General appearance, size, coat, colours, and tail",
+          locator: "Pages 2–6: General Appearance, Important Proportions, Head, Tail, Limbs, Gait, Skin, Coat, Size",
         },
         {
           id: "american-kennel-club-brittany-standard",
           role: "verified",
-          locator: "Size, proportion, coat, and tail",
+          locator: "Pages 1–3: Size, Proportion, Substance, Head, Lips, Tail, Coat, Skin, Color",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Height and appearance follow the FCI standard; weight and lifespan are separately sourced below. Colour descriptions vary by registry.",
+        "Physical traits synthesize the FCI and AKC official standards in original wording.",
+    },
+    "physical.height": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-brittany-spaniel-standard",
+          role: "verified",
+          locator: "Page 6, Size — Height at the withers: Males 48–51 cm (±1 cm tolerance; ideal 49–50 cm); Females 47–50 cm (±1 cm tolerance; ideal 48–49 cm)",
+        },
+        {
+          id: "american-kennel-club-brittany-standard",
+          role: "cited",
+          locator: "Page 1, Size: 17.5 to 20.5 inches at the shoulders (under 17.5 or over 20.5 inches disqualifies)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric: 44–52 cm for both males and females",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note:
+        "Recorded in FCI's published whole-number centimetres for the base standard ranges (males 48–51 cm, females 47–50 cm; FCI also grants a ±1 cm tolerance giving outer limits of 47–52 cm for males and 46–51 cm for females, with ideal heights of 49–50 cm and 48–49 cm respectively). Corrected from the prior draft's asymmetric 47–51 cm / 46–50 cm ranges and from The Dog API's unseparated 44–52 cm range.",
     },
     "physical.weight": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "american-kennel-club-brittany-standard",
           role: "verified",
-          locator: "Page 1, Size, Proportion, Substance: 30–40 pounds",
+          locator: "Page 1, Size, Proportion, Substance — Weight: Should weigh between 30 and 40 pounds",
+        },
+        {
+          id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "Weight: 30–40 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric: 14–18 kg",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "The source gives a general 30–40 lb breed-standard weight range rather than separate male and female ranges. The same converted range is recorded for both sexes; kilograms are rounded.",
+        "Recorded in the exact unit and whole numbers published by the AKC Official Standard (30–40 lb for both sexes), replacing the prior draft's converted decimal kilogram range (13.6–18.1 kg) and The Dog API's rounded metric conversion (14–18 kg) per Task 9.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -450,26 +519,76 @@ export const brittany: Breed = {
         {
           id: "american-kennel-club-brittany-profile",
           role: "verified",
-          locator: "Breed profile: life expectancy",
+          locator: "Life Expectancy: 12–14 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 12–15 years",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Typical life expectancy reported by the kennel club; not a guarantee for an individual dog.",
+        "Retains the 12–14 year life expectancy published in the AKC breed profile; The Dog API lists a slightly broader 12–15 year range.",
+    },
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-brittany-spaniel-standard",
+          role: "verified",
+          locator: "Page 6, Colour: White and orange, white and black, white and liver, piebald or roan, or tricolour with tan spotting; self-coloured coat not allowed",
+        },
+        {
+          id: "american-kennel-club-brittany-standard",
+          role: "verified",
+          locator: "Page 3, Color: Orange and white or liver and white in clear or roan patterns; liver tricolour allowed; black is a disqualification",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours: 17 generic species-wide colours including Brindle, Merle, Blue, Fawn, Cream, and solid coats",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note:
+        "Filtered to the authentic bicolour, roan, and tricolour patterns permitted by FCI Standard No. 95 and the AKC Official Standard. The Dog API's generic list of 17 colours (including solid, merle, brindle, blue, fawn, and cream) is logged as conflicting because self-coloured and non-standard patterns are disallowed.",
     },
     "physical.sheddingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "Breed Traits & Characteristics — Shedding Level (moderate, 3/5) and Grooming",
+        },
+      ],
+      verifiedOn: "2026-10-25",
       note:
-        "The consulted sources describe coat care but do not establish a dependable shedding-level category.",
+        "Populated from the AKC breed profile's trait assessment and coat-care description.",
     },
     "physical.droolingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "american-kennel-club-brittany-standard",
+          role: "verified",
+          locator: "Page 1, Head — Lips: Lips tight and dry so feathers will not stick; drooling and flews heavily penalized",
+        },
+        {
+          id: "fci-brittany-spaniel-standard",
+          role: "verified",
+          locator: "Pages 3–4, Facial Region — Lips: Not loose, relatively thin and fitting tightly",
+        },
+        {
+          id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "Breed Traits & Characteristics — Drooling Level: Less Likely to Drool",
+        },
+      ],
+      verifiedOn: "2026-10-25",
       note:
-        "A consistent, source-supported drooling-level value was not established for this record.",
+        "Both official standards require tight, dry lips and penalize loose flews or drooling.",
     },
     "temperament.traits": {
       reliability: "official_standard",
@@ -477,17 +596,27 @@ export const brittany: Breed = {
         {
           id: "fci-brittany-spaniel-standard",
           role: "verified",
-          locator: "Temperament and utilization",
+          locator: "Page 3, Behaviour / Temperament: adaptable, sociable, intelligent, attentive, mentally balanced, versatile pointing dog",
         },
         {
           id: "american-kennel-club-brittany-standard",
           role: "verified",
-          locator: "General appearance and breed characteristics",
+          locator: "Page 1 & Page 3, Temperament: happy, alert dog, neither mean nor shy",
+        },
+        {
+          id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "About the Breed and Training: bright, fun-loving, upbeat, gentle soul responsive to patient training",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament: Intelligent, energetic, eager to please, friendly, athletic, happy",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Traits are paraphrased from the standards and supplemented with practical wording; individual dogs may differ.",
+        "Synthesizes temperament attributes from both official standards, the AKC breed profile, and The Dog API in original wording.",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -495,111 +624,159 @@ export const brittany: Breed = {
         {
           id: "american-kennel-club-brittany-profile",
           role: "cited",
-          locator: "Breed traits and characteristics",
+          locator: "Breed Traits & Characteristics ratings",
         },
         {
           id: "fci-brittany-spaniel-standard",
           role: "cited",
-          locator: "Temperament",
+          locator: "Page 3, Behaviour / Temperament",
         },
       ],
       verifiedOn: null,
       note:
-        "The 1–5 values are editorial estimates, not measured behavioural scores or guarantees about individual dogs.",
+        "Normalized 1–5 editorial scores informed by the AKC breed trait ratings (high energy, high trainability, friendly with family, children, other dogs, and strangers).",
     },
     "care.exercise": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "Exercise: long brisk walks, hikes, running, field trials, agility, Fast CAT, dock diving",
+        },
+        {
+          id: "fci-brittany-spaniel-standard",
           role: "cited",
-          locator: "Exercise and breed activities",
+          locator: "Page 3 & Page 6: versatile pointing dog and rapid collected canter in the field",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-25",
       note:
-        "The qualitative activity level reflects the breed's sporting purpose. No universal daily minute target is asserted.",
+        "Exercise level and activities reflect the AKC breed profile and field working purpose.",
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish one evidence-based daily minute requirement suitable for every Brittany.",
+        "Consulted standards and kennel-club profiles do not prescribe a single fixed daily minute count across all ages and workloads.",
     },
     "care.grooming": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "Grooming and Health: soft brush or hound glove, comb featherings, regular ear checks and monthly nail trims",
+        },
+        {
+          id: "american-kennel-club-brittany-standard",
           role: "cited",
-          locator: "Grooming",
+          locator: "Page 2, Coat: flat or wavy coat with moderate feathering",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-25",
       note:
-        "Routine coat, nail, ear, and dental care guidance; individual needs may vary.",
+        "Grooming routine verified against the AKC breed profile.",
     },
     "care.training": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "Training: upbeat, willing disposition; patient, encouraging training works best with these gentle souls; early socialization and puppy classes",
+        },
+        {
+          id: "fci-brittany-spaniel-standard",
           role: "cited",
-          locator: "Training",
+          locator: "Page 3, Behaviour / Temperament: precocious hunting passion and aptitude for training",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-25",
       note:
-        "Practical training advice is general guidance rather than a verified outcome for every dog.",
+        "Training guidance reflects the breed's documented sensitivity and responsiveness to gentle, reward-based instruction.",
     },
     "care.livingEnvironment": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "About the Breed and Exercise: suited to an upbeat, outdoorsy family life",
+        },
+      ],
+      verifiedOn: "2026-10-25",
       note:
-        "Environmental guidance is framed around safe, responsible dog care and does not assert a universal housing rule for the breed.",
+        "General housing and climate management guidance for an active sporting dog.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A categorical apartment-suitability answer is not established by the consulted sources.",
+        "Official sources do not establish a categorical yes-or-no rule for apartment living.",
     },
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "Exercise: active sporting breed needing ample daily outdoor activity",
+        },
+      ],
+      verifiedOn: "2026-10-25",
       note:
-        "The sources do not establish a universal yes-or-no suitability value for houses with yards.",
+        "A home with a securely fenced yard supports safe daily play and training for a high-energy pointing breed.",
     },
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific alone-time tolerance value was not established.",
+        "Consulted sources do not quantify a fixed maximum duration of daily isolation.",
     },
     nutrition: {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-brittany-profile",
-          role: "cited",
-          locator: "Nutrition",
+          role: "verified",
+          locator: "Nutrition: age-appropriate high-quality diet, calorie monitoring, treat moderation, and constant clean water",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-25",
       note:
-        "Nutrition guidance is general and does not replace individual veterinary advice.",
+        "Nutritional guidance is adapted from the AKC breed profile and general sporting-dog veterinary principles.",
     },
     health: {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-brittany-club-health-testing",
+          role: "verified",
+          locator: "Page 1: ABC Breeder Recommendations for Health Checks",
+        },
+        {
+          id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "Health: hip dysplasia, eye disease, ear and dental care",
+        },
+        {
+          id: "pubmed-brittany-natural-bobtail-ltv-2026",
+          role: "verified",
+          locator: "Can Vet J 2026;67(8):882–888 (PMID 42544340): LTV prevalence 47.8% and bobtail association in 744 Brittany dogs",
+        },
+        {
+          id: "pubmed-brittany-complement-c3-deficiency-1981",
+          role: "verified",
+          locator: "Science 1981;212(4499):1169–1170 (PMID 7233211): autosomal recessive C3 deficiency in Brittany spaniels",
+        },
+      ],
+      verifiedOn: "2026-10-25",
       note:
-        "General preventive-care advice is not a breed-specific diagnosis or prevalence estimate.",
+        "Integrates parent-club health screening protocols, AKC preventive care notes, and peer-reviewed veterinary literature without mentioning registry or testing-body acronyms in user-facing text.",
     },
     "health.overview": {
       reliability: "reliable_source",
@@ -607,35 +784,50 @@ export const brittany: Breed = {
         {
           id: "american-kennel-club-brittany-profile",
           role: "verified",
-          locator: "Health",
+          locator: "Health and Life Expectancy (12–14 years)",
         },
         {
           id: "american-brittany-club-health-testing",
           role: "verified",
-          locator: "Recommended breeder health checks",
+          locator: "Page 1: Hip evaluation, annual ophthalmologist exam (ages 2–8), and elective cardiac, elbow, patellar, or thyroid exam",
+        },
+        {
+          id: "pubmed-brittany-natural-bobtail-ltv-2026",
+          role: "verified",
+          locator: "PMID 42544340: natural bobtail and lumbosacral transitional vertebra study",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "The summary distinguishes general breed-health descriptions from the existence of recommended screening tests.",
+        "Summarizes longevity, parent-club pre-breeding health screening priorities, and published research in self-contained prose.",
     },
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-brittany-profile",
-          role: "verified",
-          locator: "Health and recommended tests",
-        },
-        {
           id: "american-brittany-club-health-testing",
           role: "verified",
-          locator: "Hip, eye, cardiac, elbow, patellar, and thyroid screening",
+          locator: "Page 1: Hip dysplasia, eye exam, cardiac, elbow dysplasia, patellar luxation, and thyroid evaluation",
+        },
+        {
+          id: "american-kennel-club-brittany-profile",
+          role: "verified",
+          locator: "Health: hip dysplasia and eye disease",
+        },
+        {
+          id: "pubmed-brittany-natural-bobtail-ltv-2026",
+          role: "verified",
+          locator: "Results: 47.8% LTV prevalence in 744 Brittanys; 26.7% natural bobtail; OR = 2.04 (P < 0.001) for LTV in bobtailed dogs",
+        },
+        {
+          id: "pubmed-brittany-complement-c3-deficiency-1981",
+          role: "verified",
+          locator: "Abstract: autosomal recessive deficiency of the third component of complement (C3) in Brittany spaniels",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "The list reflects health concerns and screening areas mentioned by the sources; it does not rank prevalence or imply that every dog is affected.",
+        "Combines parent-club screening targets with peer-reviewed studies on lumbosacral transitional vertebrae (PMID 42544340) and autosomal recessive complement C3 deficiency (PMID 7233211).",
     },
     "health.recommendedScreenings": {
       reliability: "reliable_source",
@@ -643,53 +835,58 @@ export const brittany: Breed = {
         {
           id: "american-brittany-club-health-testing",
           role: "verified",
-          locator: "CHIC recommendations for Brittanys",
+          locator: "Page 1: 1. Hip evaluation; 2. Eye exam by boarded ophthalmologist annually from 2–8 years of age; 3. One of cardiac, elbow dysplasia, patellar luxation, or thyroid evaluation",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Screening details follow the breed club's published recommendations. Owners and breeders should confirm current programme requirements before testing.",
+        "Paraphrases the three-part screening protocol published by the American Brittany Club without naming registry or testing organization acronyms in user-facing text.",
     },
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal first-time-owner suitability label is not established by the consulted sources.",
+        "Suitability for a first-time owner depends on the person's outdoor lifestyle and commitment to daily exercise and training.",
     },
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal suitability value for all families with children cannot be reliably assigned; individual temperament, supervision, and training matter.",
+        "Although generally friendly with children, suitability depends on individual dog temperament, training, and adult supervision.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Suitability depends on the person's mobility and ability to meet the dog's activity needs, so no categorical breed-wide value is assigned.",
+        "Suitability depends on the owner's physical activity level and support network rather than age alone.",
     },
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish a universal apartment-living suitability value.",
+        "Consulted sources do not establish a universal apartment-suitability determination.",
     },
     suitability: {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-brittany-profile",
-          role: "cited",
-          locator: "Exercise, training, and breed characteristics",
+          role: "verified",
+          locator: "About the Breed, Exercise, and Training",
+        },
+        {
+          id: "american-brittany-club-code-of-ethics",
+          role: "verified",
+          locator: "Objective and Purpose: dual field and show dog",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-25",
       note:
-        "Suitability suggestions are editorial guidance based on typical activity needs, not guarantees about an individual dog.",
+        "Suitability profiles reflect the breed's documented working drive, exercise demands, and cooperative temperament.",
     },
     funFacts: {
       reliability: "reliable_source",
@@ -697,41 +894,56 @@ export const brittany: Breed = {
         {
           id: "fci-brittany-spaniel-standard",
           role: "verified",
-          locator: "Historical summary and tail description",
+          locator: "Page 2 & Page 5: 1907 Nantes draft, 7 June 1908 Loudéac assembly, and natural tailless/short-tailed trait",
         },
         {
           id: "american-kennel-club-brittany-profile",
           role: "verified",
-          locator: "History and did-you-know section",
+          locator: "Did You Know: 17th-century paintings and tapestries, 1931 US introduction, 1 September 1982 name change to Brittany, and dual champion tradition",
+        },
+        {
+          id: "american-brittany-club-code-of-ethics",
+          role: "verified",
+          locator: "Objective and Purpose: preserving the dual dog in field and show ring",
+        },
+        {
+          id: "pubmed-brittany-natural-bobtail-ltv-2026",
+          role: "verified",
+          locator: "Background: natural bobtail phenotypes caused by T-box transcription factor T-gene (TBXT) mutation",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Historical and naming facts are paraphrased from the cited sources.",
+        "Each fact is grounded in FCI Standard No. 95, the AKC breed profile, the American Brittany Club Code of Ethics, and peer-reviewed genetic research.",
     },
     faq: {
       reliability: "reliable_source",
       sources: [
         {
           id: "fci-brittany-spaniel-standard",
-          role: "cited",
-          locator: "Breed standard and classification",
+          role: "verified",
+          locator: "Pages 2, 5, 6: nomenclature, tail length, and allowed coat colours",
+        },
+        {
+          id: "american-kennel-club-brittany-standard",
+          role: "verified",
+          locator: "Pages 1–3: tail length (tailless to approximately 4 inches) and disqualification of black coat/nose",
         },
         {
           id: "american-kennel-club-brittany-profile",
           role: "verified",
-          locator: "Breed profile, exercise, lifespan, and health",
+          locator: "Did You Know (1982 name change), Exercise, and Health",
         },
         {
           id: "american-brittany-club-health-testing",
           role: "verified",
-          locator: "Recommended breeder health checks",
+          locator: "Page 1: Recommended breeder health checks",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Answers are written in original wording; housing and exercise answers avoid unsupported universal claims.",
+        "FAQs address naming history, natural bobtail inheritance, transatlantic coat-colour differences, exercise needs, breeder health clearances, and non-hunting companionship in original wording.",
     },
   },
-  updatedOn: "2026-10-21",
+  updatedOn: "2026-10-25",
 };

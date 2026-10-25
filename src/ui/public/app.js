@@ -240,6 +240,7 @@ function photo(url, alt) {
   const image = document.createElement("img");
   image.src = url;
   image.alt = alt;
+  image.style.objectFit = "contain";
   return image;
 }
 

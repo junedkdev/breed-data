@@ -8,9 +8,11 @@ export const great_dane: Breed = {
     "Deutsche Dogge",
     "German Mastiff",
     "Dogue Allemand",
+    "Grand Danois",
+    "Apollo of Dogs",
   ],
   group:
-    "FCI Group 2 — Pinscher and Schnauzer type, Molossoid breeds and Swiss Mountain and Cattle Dogs; Section 2.1 — Molossoid breeds, Mastiff type",
+    "Group 2 — Pinscher and Schnauzer, Molossoid, and Swiss Mountain and Cattle Dogs; Section 2.1 — Molossoid Breeds, Mastiff Type (Working Group)",
   origin: {
     country: "Germany",
     region: null,
@@ -20,7 +22,7 @@ export const great_dane: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Great_Dane.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Blue_Great_Dane.jpg",
       title: "Blue Great Dane.jpg",
-      description: "Photograph of a blue Great Dane.",
+      description: "Outdoor profile portrait of a pure steel-blue Great Dane.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2018-09-08",
@@ -31,14 +33,14 @@ export const great_dane: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-10-25",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Dane_puppies.jpg",
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Great_Dane_puppies.jpg",
       title: "Great Dane puppies.jpg",
-      description: "Photograph of Great Dane puppies.",
+      description: "Photograph of young Great Dane puppies resting together.",
       creator: "Jvgrandblanc",
       uploader: "Jvgrandblanc",
       capturedOn: "2016-04-19",
@@ -49,7 +51,7 @@ export const great_dane: Breed = {
       attribution:
         "Photo by Jvgrandblanc, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-10-25",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Dane_Champion_Dog_Show.jpg",
@@ -57,34 +59,35 @@ export const great_dane: Breed = {
         "https://commons.wikimedia.org/wiki/File:Great_Dane_Champion_Dog_Show.jpg",
       title: "Great Dane Champion Dog Show.jpg",
       description:
-        "Photograph of a Great Dane with its handler at a dog show.",
+        "Full-body photograph of a fawn Great Dane posed with a handler at a conformation show.",
       creator: "Valenzuela400",
       uploader: "Valenzuela400",
-      capturedOn: null,
+      capturedOn: "2024-01-21",
       uploadedOn: "2024-01-22",
       width: 1854,
       height: 3523,
       licenseId: "cc-by-sa-4.0",
       attribution:
         "Photo by Valenzuela400, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
-      restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      restrictions:
+        "The photograph includes a visible dog-show handler; personality rights may apply in some jurisdictions depending on the commercial context.",
+      metadataCheckedOn: "2026-10-25",
     },
   ],
   overview: {
     summary:
-      "The Great Dane is a giant German dog breed recognised for its imposing height, powerful frame, and dignified appearance. Despite its size, the breed standard describes a dog intended to be confident, affectionate with its family, and manageable as a companion. Its size and strength make early training, responsible handling, adequate space, and careful health management especially important.",
+      "The Great Dane is a giant German dog breed celebrated for its towering stature, clean athletic outlines, and composed, affectionate nature with household members. Combining substantial bone with balanced elegance, a well-bred individual is steady, people-oriented, and alert without unprovoked aggression. Because adult dogs reach 80 to 90 cm (males) or 72 to 84 cm (females) at the withers and weigh 140 to 175 lb (males) or 110 to 140 lb (females), early manners training, spacious living arrangements, and proactive veterinary planning are essential.",
     description:
-      "The Great Dane has a tall, muscular, nearly square frame, a long and expressive head, a deep chest, and a short, glossy coat. Its height gives it a striking appearance, but correct proportions and balanced movement are important features of the breed. Recognised colour varieties include fawn, brindle, black, harlequin, merle, and blue, with detailed colour rules differing by variety and registry. Great Danes are often devoted to their families and may be reserved around unfamiliar people. Their giant size can affect everyday practicalities such as transport, equipment, exercise planning, and veterinary costs. They need consistent reward-based training and thoughtful management rather than being treated as a low-maintenance dog simply because they may be calm indoors.",
+      "Built on a nearly square, well-muscled frame, the Great Dane pairs impressive substance with smooth, ground-covering movement. The head is long, narrow, and finely chiselled, featuring parallel skull and muzzle planes of equal length, a clearly defined stop, dark almond-shaped eyes, and high-set pendant ears lying close to the cheeks. A long, arched neck flows into high withers, a short and firm back, a broad chest reaching the elbows, a well-tucked belly, and a tapering tail reaching the hocks. The single coat is very short, dense, smooth, and glossy, appearing in fawn, brindle, black, mantle, harlequin, merle, and steel blue. Indoors, mature dogs are typically calm and deeply attached to their families, though they can be reserved with strangers and physically overwhelming if not taught polite leash and greeting habits from puppyhood.",
     history:
-      "The modern Great Dane developed in Germany from large, powerful dogs associated with hunting and guarding. Historically, several regional names were used for related large dogs before breeders began classifying them together as Deutsche Doggen. A committee formed in Berlin in 1878 helped establish the breed as a distinct German type, and an initial standard was written in 1880. The breed was later refined through organised breeding and standard revisions.",
+      "Despite its English name, the Great Dane originated in Germany, evolving from ancient mastiff-like Bullenbeisser dogs and swift boar-hunting hounds (Hatz- und Saurüden) that combined the power of heavy molossoids with the agility of sighthounds. For centuries, German noble estates bred these large dogs to pursue wild boar and guard property under regional names such as Ulmer Dogge, Englische Dogge, Hatzrüde, Saupacker, and Grosse Dogge grouped by coat colour and stature. In 1878, a seven-member committee of breeders and judges chaired by Dr. Bodinus convened in Berlin and unified these regional types under the single national name Deutsche Dogge. The first formal written description was adopted at a Berlin exhibition in 1880, and dedicated club stewardship beginning in 1888 refined the breed from an aggressive big-game hunter into a poised, steady household guardian and companion.",
     originalPurpose:
-      "Large-game hunting and guarding roles in its historical development; the modern breed standard identifies companionship and watch or guard duties as its uses.",
+      "Pursuing and holding large wild game—particularly wild boar—on noble estates, followed by estate guarding and personal protection.",
     currentRoles: [
-      "Companion and family dog",
-      "Watchful household companion",
-      "Conformation shows",
-      "Obedience and other structured companion activities where suitable for the individual dog",
+      "Devoted family and household companion",
+      "Alert domestic watchdog and deterrent guardian",
+      "Conformation exhibition dog",
+      "Participant in obedience, rally, tracking, agility, and weight-pulling activities suited to individual orthopedic health",
     ],
   },
   physical: {
@@ -101,178 +104,173 @@ export const great_dane: Breed = {
       },
     },
     weight: {
-      unit: "kg",
+      unit: "lb",
       male: {
-        min: 63.5,
-        max: 79.4,
+        min: 140,
+        max: 175,
       },
       female: {
-        min: 49.9,
-        max: 63.5,
+        min: 110,
+        max: 140,
       },
     },
     lifespanYears: {
-      min: 8,
+      min: 7,
       max: 10,
     },
-    coatType: "Single coat; short, dense, smooth, close-lying, and glossy.",
-    coatLength: "Very short.",
+    coatType:
+      "Single coat; very short, dense, smooth, close-lying, and glossy without any undercoat.",
+    coatLength: "Very short",
     coatColors: [
-      "Fawn",
-      "Brindle",
-      "Black",
-      "Harlequin — white with black patches",
-      "Merle — grey with black patches",
-      "Blue",
+      "Fawn (light to deep golden yellow with a black mask)",
+      "Brindle (golden yellow base with clearly defined black chevron stripes and a black mask)",
+      "Black (glossy jet black)",
+      "Mantle (black and white with a solid black blanket over the body)",
+      "Harlequin (pure white base with irregular torn black patches)",
+      "Merle (pale to dark grey base with torn black patches, in solid or mantle pattern)",
+      "Blue (pure steel blue)",
     ],
     sheddingLevel: null,
     droolingLevel: null,
     distinctiveFeatures: [
-      "Very tall, powerful, and well-proportioned body",
-      "Nearly square outline, particularly in males",
-      "Long, narrow, expressive head",
-      "Deep chest and muscular limbs",
-      "Short, glossy coat",
-      "Naturally pendant ears",
-      "Long tail reaching toward the hocks",
-      "Recognised colour varieties with distinct pattern requirements",
+      "Towering, statue-like silhouette combining giant stature with clean, balanced proportions",
+      "Nearly square body outline in males, with females permitted slightly greater length",
+      "Long, narrow, finely chiselled rectangular head with parallel skull and muzzle planes in a 1:1 ratio",
+      "Clearly defined stop and well-developed superciliary ridges without protruding cheek muscles",
+      "High-set, medium-sized pendant ears with front edges lying close to the cheeks",
+      "Deep, broad chest reaching to the elbows with a pronounced abdominal tuck-up",
+      "Rounded, well-arched cat feet with short, strong nails",
+      "Long tail set high and broad at the base, tapering evenly to the hocks",
     ],
   },
   temperament: {
     traits: [
-      "Often devoted and affectionate with familiar people",
-      "Expected by the breed standard to be confident and manageable",
-      "May be reserved around unfamiliar people",
-      "Large and physically powerful, so controlled handling is important",
-      "Benefits from early, positive socialisation",
-      "Needs consistent training to develop safe everyday manners",
-      "Individual behaviour varies with genetics, health, experience, and training",
+      "Affectionate, loyal, and deeply people-oriented with household members",
+      "Confident, steady, and high in threshold against provocation",
+      "Naturally watchful and often politely reserved toward unfamiliar visitors",
+      "Gentle and patient indoors when daily physical and social needs are met",
+      "Responsive and eager to please with consistent, reward-based guidance",
+      "Physically immense, requiring early impulse control and polite leash habits",
     ],
     scores: {
-      affection: 4,
-      withChildren: 3,
+      affection: 5,
+      withChildren: 4,
       withDogs: 3,
       withStrangers: 3,
-      protectiveness: 3,
+      protectiveness: 4,
       independence: 2,
       trainability: 4,
-      barking: 2,
+      barking: 3,
       energy: 3,
     },
   },
   care: {
     exercise: {
       level:
-        "Moderate, adjusted for age, joint health, fitness, and body condition. Adults generally benefit from regular controlled walks and enrichment; growing puppies should not be pushed into strenuous or repetitive high-impact exercise.",
+        "Moderate and carefully tailored to life stage. Adult dogs thrive on two or three brisk, controlled leash walks per day, whereas rapidly growing puppies and adolescents under two years of age must avoid forced running, repetitive jumping, or strenuous high-impact workouts that strain developing joints.",
       minutesPerDay: null,
       activities: [
-        "Regular, controlled walks suited to the dog's fitness",
-        "Reward-based obedience and everyday manners practice",
-        "Calm sniffing and exploration on walks",
-        "Food puzzles and supervised enrichment activities",
-        "Low-impact play appropriate to age and physical condition",
-        "Gradual conditioning with veterinary guidance where health concerns exist",
+        "Brisk, structured leash walks two or three times daily",
+        "Low-impact sniffing and decompression walks in securely fenced areas",
+        "Reward-based obedience, rally, and impulse-control exercises",
+        "Scent-tracking games and interactive food-dispensing puzzles",
+        "Gentle hiking or jogging only after skeletal maturity at two years of age",
       ],
     },
     grooming: {
       level:
-        "Low to moderate. The short coat is straightforward to maintain, but routine grooming and skin checks are still needed.",
+        "Low to moderate. Although the smooth single coat is short and lies flat, the sheer surface area of a giant dog produces noticeable loose hair during seasonal coat changes.",
       brushing:
-        "Brush regularly with a soft-bristled brush or suitable grooming mitt to remove loose hair and inspect the skin. Grooming frequency can be increased when shedding is more noticeable.",
+        "Brush once a week with a rubber grooming mitt, hound glove, or soft-bristled brush to lift dead hair and distribute skin oils; increase to daily brushing during spring and autumn shedding periods.",
       bathing:
-        "Bathe when needed using a dog-formulated shampoo. Because of the breed's size, prepare a safe non-slip bathing area and rinse the coat thoroughly.",
+        "Bathe occasionally as needed using a mild, dog-formulated shampoo and a secure, non-slip surface to prevent slips in a heavy dog.",
       notes: [
-        "Check the skin for irritation, lumps, parasites, and wounds during grooming.",
-        "Trim nails as needed; long nails can affect comfort and movement.",
-        "Check the ears for redness, odour, discharge, or repeated scratching.",
-        "Brush the teeth regularly with dog-safe toothpaste.",
-        "Use appropriately sized, secure grooming and walking equipment.",
+        "Keep nails trimmed short so the cat-like feet remain well arched and comfortable under the dog's heavy frame.",
+        "Inspect the pendant ears weekly for wax buildup, redness, or odour, and wipe gently with a veterinarian-approved cleanser.",
+        "Check elbows, hocks, and bony prominences for calluses or pressure sores, providing thick orthopaedic bedding to protect joints.",
+        "Brush the teeth several times weekly using enzymatic canine toothpaste.",
       ],
     },
     training: {
       difficulty:
-        "Moderate. Great Danes can learn well with clear, reward-based instruction, but their adult size and strength make early training and safe handling particularly important.",
+        "Moderate. Great Danes are generally cooperative and sensitive to their handlers, but their rapid growth means fundamental manners must be established while the puppy is still small enough to manage safely.",
       tips: [
-        "Teach loose-leash walking before the dog becomes difficult to manage physically.",
-        "Use reward-based methods and consistent household rules.",
-        "Practise calm greetings and four-paws-on-the-floor behaviour.",
-        "Teach a reliable response to name, recall cues, and settling cues.",
-        "Socialise gradually and positively without forcing interactions.",
-        "Avoid harsh handling or training methods that could create fear or defensive behaviour.",
-        "Use suitable equipment and supervision around children and unfamiliar dogs.",
+        "Enroll in well-supervised puppy socialization and foundational obedience classes as soon as veterinary vaccination schedules allow.",
+        "Prioritise loose-leash walking, polite doorway waiting, and keeping all four paws on the floor during greetings.",
+        "Use positive reinforcement with food rewards, praise, and calm consistency rather than forceful corrections.",
+        "Practice calm settling on a designated mat so the dog learns to relax quietly around household activity.",
+        "Always walk on a secure leash in unfenced areas and provide a tall, sturdy perimeter fence at home, as many individuals will follow interesting scents.",
       ],
       socialization:
-        "Introduce the dog gradually to people, dogs, surfaces, sounds, transport, and everyday environments. Keep experiences positive and age-appropriate, and seek qualified help if fear, reactivity, or handling difficulties emerge.",
+        "Expose puppies gradually and positively to diverse people, calm dogs, household noises, veterinary handling, and vehicle travel so they mature into self-assured, non-reactive adults.",
     },
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: null,
       climates: [
-        "Provide shade, ventilation, and fresh water in warm weather.",
-        "Avoid strenuous activity during heat and adjust walks to local conditions.",
-        "Provide a comfortable resting surface with enough room for the dog to stretch out.",
-        "Use secure fencing and equipment suited to a very large, powerful dog.",
+        "Short single coat lacks insulating undercoat, requiring protection from freezing temperatures, cold rain, and icy winds.",
+        "Avoid midday heat and humid workouts, providing shade, ventilation, and cool drinking water in warm weather.",
+        "Supply wide, supportive orthopaedic beds in draft-free indoor living areas to cushion heavy joints.",
       ],
       aloneTimeTolerance: null,
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate for the dog's life stage, giant-breed growth needs, body condition, and health.",
+      "Complete, balanced commercial or veterinarian-formulated diet specifically designed for giant-breed dogs, with controlled energy and calcium-to-phosphorus ratios during puppyhood.",
     feedingFrequency: {
       puppy:
-        "Use a diet formulated for large or giant-breed puppy growth and follow the manufacturer's feeding guidance with veterinary oversight. Avoid adding calcium or other supplements unless a veterinarian specifically recommends them.",
+        "Three to four measured meals daily until four to six months of age, transitioning to two measured meals per day by six to nine months on a dedicated giant-breed growth formula.",
       adult:
-        "Feed measured portions of an appropriate complete adult diet. Adjust portions to maintain healthy body condition and avoid excess weight.",
+        "Two to three smaller measured meals per day rather than a single large daily ration to support digestion and help reduce gastric dilatation-volvulus risk.",
       senior:
-        "Select a diet according to body condition, activity, dental health, and any age-related medical needs, with veterinary advice when necessary.",
+        "Two to three measured meals daily adjusted for metabolic rate, lean muscle maintenance, and joint or cardiac health under veterinary supervision.",
     },
     guidelines:
-      "Great Danes have unusually large bodies and specific growth considerations. Feed a complete, balanced diet appropriate for life stage rather than improvising a homemade ration or adding supplements without advice. Monitor growth and body condition with a veterinarian, particularly during puppyhood. Discuss meal size, feeding frequency, and the risk of gastric dilatation-volvulus with the veterinary team. Avoid strenuous exercise around meals according to your veterinarian's advice, and keep fresh water available.",
+      "Slow, steady skeletal development is vital for Great Dane puppies; overfeeding calories or adding calcium supplements accelerates growth unevenly and increases the risk of developmental bone disorders such as hypertrophic osteodystrophy and osteochondrosis. Throughout adulthood, divide the daily ration into multiple smaller meals, encourage calm eating rather than gulping, and enforce a strict rest period of at least one hour before and after meals to reduce the danger of gastric dilatation-volvulus (bloat).",
     considerations: [
-      "Growing puppies need an appropriately formulated large- or giant-breed diet.",
-      "Do not add calcium supplements to a complete puppy diet unless specifically prescribed.",
-      "Avoid excessive weight gain because it adds stress to joints and mobility.",
-      "Discuss meal size, feeding routine, and bloat risk with a veterinarian.",
-      "Track body condition and adjust feeding as growth and activity change.",
-      "Account for treats when calculating daily food intake.",
+      "Feed only diets formulated for large or giant breeds during growth, and never add unprescribed calcium or mineral supplements.",
+      "Divide daily food intake into two or three smaller meals instead of one large meal.",
+      "Withhold vigorous running, rough play, and heavy exercise around mealtimes.",
+      "Discuss feeding bowl height and slow-feeder options with a veterinarian, as epidemiological studies have associated rapid eating and raised bowls with higher bloat risk.",
+      "Maintain a lean body condition score so excess weight does not accelerate osteoarthritis or strain the heart.",
     ],
     note:
-      "No universal calorie amount or serving size is provided because needs depend on age, body condition, food energy density, activity, and health.",
+      "Exact caloric requirements vary substantially by age, adult frame size, neuter status, and activity level; consult a veterinarian to set target body weights and portion sizes.",
   },
   health: {
     overview:
-      "Great Danes have several important health risks associated with their breed and giant size. Gastric dilatation-volvulus (GDV or bloat) is a potentially life-threatening emergency. Cardiac disease, hip problems, thyroid disorders, and some eye conditions are also described in breed-health resources. Screening can help identify some concerns in breeding dogs, but it cannot guarantee that a puppy or adult dog will remain free of disease.",
+      "Because of its extreme size, the Great Dane has a shorter average lifespan (typically 7 to 10 years) than smaller breeds and faces several serious, breed-associated health risks. Gastric dilatation-volvulus (GDV, or bloat) is the leading fatal emergency in the breed, with peer-reviewed epidemiological research estimating a 36.7% lifetime risk. Dilated cardiomyopathy (DCM), cervical spondylomyelopathy (Wobbler syndrome), hip dysplasia, developmental bone disorders in growing puppies, autoimmune thyroiditis, ocular conditions, and malignancies such as osteosarcoma and lymphoma are also major clinical concerns.",
     commonConditions: [
-      "Gastric dilatation-volvulus (GDV or bloat), a life-threatening emergency that requires immediate veterinary care.",
-      "Cardiomyopathy and other cardiac disorders.",
-      "Hip dysplasia and other mobility-related joint problems.",
-      "Hypothyroidism and autoimmune thyroiditis.",
-      "Eye disorders, including cataracts and eyelid abnormalities.",
-      "Other conditions may occur; this list is not a diagnosis or a complete list of every possible disease.",
+      "Gastric dilatation-volvulus (GDV / bloat) — acute, life-threatening distension and torsion of the stomach requiring immediate emergency surgery.",
+      "Dilated cardiomyopathy (DCM) — progressive, inherited degeneration and enlargement of the heart muscle leading to arrhythmias or congestive heart failure.",
+      "Cervical spondylomyelopathy (Wobbler syndrome) — compression of the cervical spinal cord from vertebral malformation or instability, causing an ataxic, wobbly gait and neck pain.",
+      "Hip dysplasia and secondary osteoarthritis — malformation and degenerative wear of the hip joints that impair mobility.",
+      "Developmental orthopaedic diseases — hypertrophic osteodystrophy (HOD) and panosteitis during rapid juvenile bone growth.",
+      "Autoimmune thyroiditis and hypothyroidism — immune-mediated destruction of the thyroid gland causing metabolic slowing, alongside occasional Addison's disease.",
+      "Ocular disorders — juvenile or adult cataracts and eyelid conformation defects such as entropion or ectropion.",
+      "Neoplasia — particularly appendicular osteosarcoma (bone cancer) and lymphoma.",
+      "Congenital sensorineural deafness and microphthalmia — strongly associated with homozygous merle or predominantly white (albinistic or porcelain) pigment patterns.",
     ],
     preventiveCare: [
-      "Schedule regular veterinary examinations and keep preventive care up to date.",
-      "Discuss the signs of GDV with a veterinarian and know how to access emergency veterinary care.",
-      "Ask a veterinarian whether prophylactic gastropexy is appropriate for the individual dog; it can reduce the risk of stomach twisting but does not remove every risk.",
-      "Maintain a healthy body condition and avoid excessive weight gain.",
-      "Use a veterinarian-approved nutrition plan during growth.",
-      "Ask breeders for documented hip, cardiac, eye, and thyroid screening results for breeding dogs.",
-      "Seek prompt veterinary advice for collapse, a swollen abdomen, unproductive retching, breathing difficulty, or sudden weakness.",
+      "Learn the early warning signs of gastric dilatation-volvulus (unproductive retching, restlessness, hypersalivation, and abdominal distension) and keep the nearest 24-hour emergency veterinary hospital contact accessible.",
+      "Discuss prophylactic gastropexy (preventive surgical stomach tacking, often performed laparoscopically or during spay/neuter) with a veterinarian; peer-reviewed modelling shows it reduces GDV mortality nearly thirty-fold.",
+      "Feed a giant-breed puppy ration without added calcium and prohibit forced jogging or jumping before 24 months of age to protect growth plates.",
+      "Repeat cardiac (echocardiogram) and thyroid evaluations every two to three years in adult dogs, as normal juvenile results do not rule out adult-onset disease.",
+      "Before any elective or emergency surgery, request giant-breed anaesthetic protocols including pre-surgical bloodwork with a clotting profile, intravenous fluid support, electrocardiographic monitoring, and active warming to guard against hypothermia and disseminated intravascular coagulopathy (DIC).",
     ],
     recommendedScreenings: [
-      "Hip evaluation through a recognised programme such as OFA or PennHIP.",
-      "Cardiac evaluation; the breed club recommends appropriate cardiac testing for breeding dogs.",
-      "Thyroid evaluation, including testing appropriate to the veterinarian's or screening programme's protocol.",
-      "Eye examination by a qualified veterinary ophthalmologist.",
-      "Confirm current screening recommendations and the interpretation of results with the breed club, screening programme, and veterinarian.",
+      "Hip joint radiographic evaluation (baseline screening at approximately 24 months of age)",
+      "Comprehensive cardiac evaluation including echocardiography by a veterinary cardiologist (baseline at two years and repeated every two to three years)",
+      "Complete thyroid hormone and thyroglobulin autoantibody panel (baseline at two years and repeated every two to three years)",
+      "Ophthalmologist evaluation for cataracts and eyelid conformation",
     ],
     dentalCare:
-      "Brush the teeth regularly using dog-safe toothpaste. Have the mouth checked during routine veterinary visits and seek advice for bad breath, bleeding gums, oral pain, or difficulty eating.",
+      "Brush the teeth several times per week with dog-safe toothpaste and schedule professional veterinary dental examinations during annual wellness visits.",
     earCare:
-      "Inspect the ears regularly for redness, discharge, odour, or discomfort. Clean only as needed with a veterinarian-recommended product and seek veterinary advice for persistent symptoms.",
+      "Inspect the folded ear canals weekly for moisture, debris, redness, or foul odour, cleaning gently with an ear solution recommended by a veterinarian.",
     skinCare:
-      "Check the coat and skin regularly for irritation, parasites, wounds, or new lumps. Ask a veterinarian about persistent itching, sores, hair loss, or any rapidly changing mass.",
+      "Check the short coat and skin during weekly brushing for calluses over bony joints, abrasions, parasites, or new cutaneous masses, and provide deep padded bedding to prevent elbow hygromas.",
   },
   suitability: {
     firstTimeOwners: null,
@@ -281,68 +279,73 @@ export const great_dane: Breed = {
     activeOwners: true,
     apartmentLiving: null,
     idealFor: [
-      "Owners prepared for the space, equipment, training, and financial needs of a giant dog",
-      "Households able to provide calm, consistent training and appropriate socialisation",
-      "People who can manage a large dog's walking, transport, and veterinary-care needs",
-      "Owners willing to plan carefully for breed-associated health risks",
+      "Households prepared for the space, vehicle capacity, and substantial food and veterinary budgets required by a giant dog",
+      "Owners committed to early reward-based obedience training, consistent household boundaries, and daily leash walks",
+      "Families seeking an affectionate, people-focused indoor companion who are willing to supervise interactions around young children",
+      "Proactive owners who will partner closely with a veterinarian experienced in giant-breed nutrition, bloat prevention, and cardiac care",
     ],
     notIdealFor: [
-      "Households unable to safely handle a very large and powerful dog",
-      "Owners who cannot budget for the food, equipment, and veterinary costs of a giant breed",
-      "People expecting a dog that requires no training because it may be calm indoors",
-      "Homes unable to provide sufficient resting space and safe day-to-day management",
+      "People unprepared for giant-breed medical expenses, adult-human-equivalent medication dosages, or emergency surgical costs",
+      "Households unable to physically manage or consistently train a dog weighing 110 to 175 lb",
+      "Homes where the dog would be left isolated for long workdays without companionship or bathroom breaks",
+      "Runners seeking an immediate high-mileage jogging partner before the puppy reaches two years of age",
     ],
   },
   funFacts: [
-    "The Great Dane is also known by the German name Deutsche Dogge.",
-    "The breed's modern development as a distinct German breed was formalised by breeders in the late nineteenth century.",
-    "The FCI standard recognises several distinct colour varieties, each with its own detailed markings.",
-    "The breed's height means ordinary equipment, transport, and resting spaces often need to be chosen specifically for giant dogs.",
-    "The nickname “Apollo of dogs” is commonly associated with the breed's tall, elegant appearance.",
+    "Despite the English name Great Dane—derived from the French phrase grand Danois—the breed has no documented historical connection to Denmark and was developed entirely in Germany, where it is called the Deutsche Dogge.",
+    "In 1878, a committee of seven breeders and judges in Berlin led by Dr. Bodinus replaced numerous regional names such as Ulmer Dogge, Saupacker, and Hatzrüde with the unified breed name Deutsche Dogge.",
+    "Standing on its hind legs, an adult Great Dane is taller than most humans, yet its balanced proportions and statue-like presence earned it the classic sobriquet 'Apollo of Dogs.'",
+    "Historically, German nobility selected the strongest, swiftest boarhounds to live inside the manor as personal bodyguards and estate protectors—a transition that shaped the modern breed's people-loving indoor temperament.",
+    "Standard colour breeding is strictly organised into compatible colour families so that distinct patterns such as fawn, brindle, harlequin, mantle, merle, black, and steel blue preserve clear pigment and avoid health-linked albinistic white coats.",
   ],
   faq: [
     {
-      question: "How tall is a Great Dane?",
+      question: "How tall and heavy is a fully grown Great Dane?",
       answer:
-        "The FCI standard gives a height at the withers of 80–90 cm for males and 72–84 cm for females. These are standard ranges, not a guarantee of an individual dog's adult height.",
+        "Adult males measure 80 to 90 cm at the withers and typically weigh 140 to 175 lb, while adult females measure 72 to 84 cm at the withers and weigh 110 to 140 lb.",
     },
     {
-      question: "How long does a Great Dane usually live?",
+      question: "What is the typical life expectancy of a Great Dane?",
       answer:
-        "The American Kennel Club lists a typical life expectancy of 8–10 years. Individual lifespan varies with genetics, healthcare, body condition, and other factors.",
+        "Most Great Danes live between 7 and 10 years (with many health guides citing 8 to 10 years as typical, some dogs living 6 to 7 years, and occasional individuals reaching 12 years). Maintaining a lean weight, scheduling regular cardiac and thyroid screenings, and planning for bloat prevention help support longevity.",
     },
     {
-      question: "Are Great Danes good family dogs?",
+      question: "Why is bloat such a serious concern for Great Danes, and can it be prevented?",
       answer:
-        "The breed standard describes a confident, devoted companion, but temperament varies between individuals. Because of their size and strength, interactions with children and other animals should be supervised and supported by training.",
+        "Gastric dilatation-volvulus (GDV, or bloat) occurs when the deep chest allows the stomach to fill with gas and twist on its axis, cutting off blood flow. Epidemiological research estimates a 36.7% lifetime risk in the breed. Owners can lower mortality risk by discussing prophylactic gastropexy surgery with their veterinarian, feeding two or three smaller meals daily, preventing rapid gulping, and avoiding vigorous exercise around mealtimes.",
     },
     {
-      question: "What health risks are especially important for Great Danes?",
+      question: "Are Great Danes safe around children?",
       answer:
-        "Important concerns include GDV or bloat, cardiac disease, hip problems, thyroid disorders, and some eye conditions. Ask a veterinarian about screening and preventive care, and treat suspected bloat as an emergency.",
+        "Well-socialised Great Danes are typically gentle, patient, and affectionate with family members. However, an exuberant puppy or wagging tail on a giant dog can easily knock over a toddler, so every interaction with young children must be actively supervised by an adult.",
     },
     {
-      question: "What colours do Great Danes come in?",
+      question: "What coat colours are recognised in the Great Dane?",
       answer:
-        "The FCI standard recognises fawn, brindle, black, harlequin, merle, and blue varieties. Exact marking requirements differ by variety, and registration rules can vary by kennel club.",
+        "Recognised varieties are fawn (golden yellow with a black mask), brindle (golden yellow with black chevron stripes), glossy black, mantle (black blanket over a white base), harlequin (white base with torn black patches), merle (grey base with torn black patches, solid or mantle), and pure steel blue.",
     },
     {
-      question: "Can a Great Dane live in an apartment?",
+      question: "When can a Great Dane start accompanying an owner on jogs or long hikes?",
       answer:
-        "There is no universal yes-or-no answer. Suitability depends on the individual dog, available indoor space, safe access outdoors, training, and the owner's ability to meet the dog's needs. Its giant size should be considered carefully before choosing a home.",
+        "You should wait until the dog is at least two years old before starting repetitive jogging, running on hard pavement, or strenuous hiking so that the growth plates and joints finish maturing safely.",
     },
     {
-      question: "What health tests should a Great Dane breeder provide?",
+      question: "What health screenings should prospective buyers request for the parents of a Great Dane puppy?",
       answer:
-        "Breed-club guidance recommends hip, cardiac, thyroid, and eye evaluations for breeding dogs. Ask for documented results and discuss what they mean with a veterinarian rather than relying only on verbal assurances.",
+        "Responsible breeders provide documented baseline clearances from approximately two years of age for hip conformation, veterinary ophthalmologist eye exams, thyroid function and autoantibodies, and cardiac health (including echocardiography), with heart and thyroid tests repeated every two to three years in breeding adults.",
     },
   ],
   references: [
     "fci-great-dane-standard",
+    "akc-great-dane-standard",
     "american-kennel-club-great-dane-profile",
     "american-kennel-club-great-dane-lifespan-health",
     "great-dane-club-america-health-research",
     "great-dane-club-america-owner-guide",
+    "pubmed-great-dane-gdv-risk-factors-2000",
+    "pubmed-great-dane-prophylactic-gastropexy-2003",
+    "pubmed-great-dane-dcm-expression-2009",
+    "the-dog-api",
     "wikimedia-great-dane-blue-canarian",
     "wikimedia-great-dane-puppies-jvgrandblanc",
     "wikimedia-great-dane-champion-show-valenzuela400",
@@ -353,20 +356,30 @@ export const great_dane: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A breed-specific scientific name was not established from the consulted breed standards and kennel-club sources.",
+        "Neither the consulted breed standards nor The Dog API assign a breed-specific scientific trinomial.",
     },
     alternateNames: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-great-dane-standard",
           role: "verified",
-          locator: "Breed nomenclature and historical summary",
+          locator: "Title and Brief Historical Summary",
+        },
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "About the Breed and Did You Know? (Deutsche Dogge, Dogue Allemand, Grand Danois, German Mastiff, Apollo of Dogs)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Deutsche Dogge, Apollo of Dogs)",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Deutsche Dogge is the German breed name used in the standard. Other names are common English-language labels.",
+        "FCI Standard No. 235 uses Deutsche Dogge as the official German breed name and notes the traditional epithet 'Apollo amongst all breeds'; AKC and The Dog API verify German Mastiff, Dogue Allemand, Grand Danois, and Apollo of Dogs.",
     },
     group: {
       reliability: "official_standard",
@@ -374,12 +387,22 @@ export const great_dane: Breed = {
         {
           id: "fci-great-dane-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI Classification — Group 2, Section 2.1 (Molossoid breeds, Mastiff type)",
+        },
+        {
+          id: "akc-great-dane-standard",
+          role: "verified",
+          locator: "General Appearance (Working breeds)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group (Working)",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "The classification follows the FCI standard; other kennel clubs may use different group systems.",
+        "Combines the international Group 2 Section 2.1 Molossoid/Mastiff classification with the Working Group designation used by North American registries and The Dog API.",
     },
     origin: {
       reliability: "official_standard",
@@ -387,36 +410,160 @@ export const great_dane: Breed = {
         {
           id: "fci-great-dane-standard",
           role: "verified",
-          locator: "Origin",
+          locator: "Origin (Germany)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (Germany)",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "The FCI identifies Germany as the country of origin. A more specific origin region was not established.",
+        "Both FCI Standard No. 235 and The Dog API identify Germany as the country of origin.",
+    },
+    "origin.country": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Origin (Germany)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (Germany)",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "origin.region": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "The consulted standard identifies Germany as the country of origin but does not establish a more specific origin region.",
-},
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Historical precursors were bred across multiple German principalities and estates (including Ulm and Berlin), so no single sub-national origin region is assigned.",
+    },
     overview: {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-great-dane-standard",
           role: "verified",
-          locator: "Historical summary, general appearance, temperament, and utilization",
+          locator: "Brief Historical Summary, General Appearance, Behaviour/Temperament, and Utilization",
+        },
+        {
+          id: "akc-great-dane-standard",
+          role: "verified",
+          locator: "General Appearance, Head, Neck, Topline, Body, and Temperament",
         },
         {
           id: "american-kennel-club-great-dane-profile",
-          role: "cited",
-          locator: "Breed profile",
+          role: "verified",
+          locator: "About the Breed and History",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Descriptions are paraphrased and distinguish historical roles from present-day companion roles.",
+        "All overview text is rewritten in original wording without naming source organisations inside user-facing fields.",
+    },
+    "overview.summary": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "General Appearance, Behaviour/Temperament, and Size",
+        },
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Breed overview and size/weight ranges",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "overview.description": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Important Proportions, Head, Body, Limbs, and Coat",
+        },
+        {
+          id: "akc-great-dane-standard",
+          role: "verified",
+          locator: "Size, Proportion, Substance, Head, Body, and Color",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "overview.history": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Brief Historical Summary (Bullenbeisser, Hatz- und Saurüden, 1878 Berlin committee under Dr. Bodinus, 1880 Berlin standard, 1888 club)",
+        },
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "History and Did You Know?",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.history",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note:
+        "The Dog API confirms the boar-hunting and estate-guardian heritage on German noble estates but states that the breed was standardized as 'Deutsche Dogge' in 1876; FCI Standard No. 235 documents that the seven-member Berlin committee chaired by Dr. Bodinus adopted the unified name 'Deutsche Dogge' in 1878 and laid down the first standard in 1880.",
+    },
+    "overview.originalPurpose": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Brief Historical Summary and Utilization",
+        },
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "History and Did You Know? (boar hound and estate guardian)",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "overview.currentRoles": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Utilization (Companion, watch- and guard dog)",
+        },
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "About the Breed and Exercise (companion, home guardian, agility, obedience, tracking, weight pulls)",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     physical: {
       reliability: "official_standard",
@@ -424,12 +571,62 @@ export const great_dane: Breed = {
         {
           id: "fci-great-dane-standard",
           role: "verified",
-          locator: "General appearance, coat, colour, size, and weight",
+          locator: "General Appearance, Coat, Colour, and Size",
+        },
+        {
+          id: "akc-great-dane-standard",
+          role: "verified",
+          locator: "Size, Proportion, Substance, Coat, and Color",
+        },
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Height, Weight, and Life Expectancy",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Height, coat, and recognised colours follow the 2024 FCI standard. Weight and lifespan use separate sources.",
+        "Height uses the published whole-number centimetre ranges from FCI Standard No. 235 (80–90 cm males, 72–84 cm females), and weight uses the published whole-number pound ranges from the AKC breed profile (140–175 lb males, 110–140 lb females) without unit conversion.",
+    },
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-great-dane-standard",
+          role: "verified",
+          locator: "General Appearance ('one of the giant working breeds')",
+        },
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "verified",
+          locator: "Is a Great Dane right for you? ('The Great Dane is a giant breed')",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "physical.height": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Size and Weight — Height at the withers (Males: 80–90 cm; Females: 72–84 cm)",
+        },
+        {
+          id: "akc-great-dane-standard",
+          role: "cited",
+          locator: "Size, Proportion, Substance (Males not less than 30 in, 32 in or more preferred; Females not less than 28 in, 30 in or more preferred)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (male 76–81 cm, female 71–76 cm)",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note:
+        "FCI Standard No. 235 specifies 80–90 cm for males and 72–84 cm for females. The Dog API reports 76–81 cm for males and 71–76 cm for females, which is a metric conversion of the AKC profile's 30–32 in and 28–30 in minimum/preferred thresholds.",
     },
     "physical.weight": {
       reliability: "reliable_source",
@@ -437,12 +634,53 @@ export const great_dane: Breed = {
         {
           id: "american-kennel-club-great-dane-profile",
           role: "verified",
-          locator: "Breed profile: weight",
+          locator: "Weight (140–175 pounds male; 110–140 pounds female)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (male 64–79 kg, female 50–64 kg)",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "Weight values are converted from the kennel-club's published pound ranges and rounded to one decimal place.",
+        "Neither FCI Standard No. 235 nor the AKC written standard specifies numerical weights. The AKC breed profile publishes whole-number pound ranges (140–175 lb for males, 110–140 lb for females), which are stored verbatim in lb without unit conversion. The Dog API lists 64–79 kg and 50–64 kg (a rounded metric conversion of the AKC pound ranges).",
+    },
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Weight (140–175 pounds male)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (79 kg)",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note:
+        "Stored in the AKC profile's published unit (175 lb) rather than The Dog API's converted metric value (79 kg).",
+    },
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Weight (110–140 pounds female)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (64 kg)",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note:
+        "Stored in the AKC profile's published unit (140 lb) rather than The Dog API's converted metric value (64 kg).",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -450,31 +688,105 @@ export const great_dane: Breed = {
         {
           id: "american-kennel-club-great-dane-profile",
           role: "verified",
-          locator: "Breed profile: life expectancy",
+          locator: "Life Expectancy (7–10 years)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (7–10 years)",
         },
         {
           id: "american-kennel-club-great-dane-lifespan-health",
-          role: "verified",
-          locator: "Life span and health issues",
+          role: "cited",
+          locator: "Why Are Great Dane Life Spans So Short? (8–10 years typical, some 6–7 years, rare individuals 12 years)",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-25",
       note:
-        "This is a typical lifespan range, not a guarantee for any individual dog.",
+        "Both the AKC breed profile and The Dog API list 7–10 years; the AKC health article notes 8–10 years as typical while observing that some Great Danes live only 6–7 years and a few reach 12.",
+    },
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Coat — Hair ('Very short, dense, smooth and close lying, glossy. Must never be coarse, dull or a double coat.')",
+        },
+        {
+          id: "akc-great-dane-standard",
+          role: "verified",
+          locator: "Coat ('short, thick and clean with a smooth glossy appearance')",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Coat — Hair ('Very short')",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Coat — Colour (Fawn, Brindle, Harlequin, Merle, Black including Mantel and Plattenhunde, Blue)",
+        },
+        {
+          id: "akc-great-dane-standard",
+          role: "verified",
+          locator: "Color, Markings and Patterns (Brindle, Fawn, Blue, Black, Harlequin, Mantle, Merle)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note:
+        "FCI Standard No. 235 and the AKC Official Standard recognise Fawn, Brindle, Black, Mantle, Harlequin, Merle, and Blue. The Dog API colour endpoint includes non-standard and disqualified colours such as Black and Tan, Brown / Chocolate, Cream, Liver, Red, Sable, Tan, Tricolour, and solid White.",
     },
     "physical.sheddingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources describe coat characteristics but do not establish a consistent shedding-level category.",
+        "Consulted official standards do not assign a categorical shedding-level value.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable, quantified drooling-level category was not established from the consulted sources.",
+        "Consulted official standards do not assign a categorical drooling-level value.",
+    },
+    "physical.distinctiveFeatures": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "General Appearance, Important Proportions, Head, Body, Tail, and Limbs",
+        },
+        {
+          id: "akc-great-dane-standard",
+          role: "verified",
+          locator: "General Appearance, Size, Proportion, Substance, Head, and Body",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "temperament.traits": {
       reliability: "official_standard",
@@ -482,12 +794,21 @@ export const great_dane: Breed = {
         {
           id: "fci-great-dane-standard",
           role: "verified",
-          locator: "Behaviour and temperament",
+          locator: "Behaviour / Temperament",
+        },
+        {
+          id: "akc-great-dane-standard",
+          role: "verified",
+          locator: "Temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament (Friendly, gentle, confident, loyal, affectionate)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Traits are paraphrased from the standard and qualified because behaviour varies by individual.",
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -495,174 +816,595 @@ export const great_dane: Breed = {
         {
           id: "fci-great-dane-standard",
           role: "cited",
-          locator: "Behaviour and temperament",
+          locator: "Behaviour / Temperament",
         },
         {
           id: "american-kennel-club-great-dane-profile",
           role: "cited",
-          locator: "Breed characteristics",
+          locator: "Breed Traits & Characteristics",
         },
       ],
       verifiedOn: null,
       note:
-        "Scores are editorial estimates on a 1–5 scale, not standardised behavioural measurements.",
+        "Normalized 1–5 scores informed by the AKC breed trait sliders and FCI/AKC temperament descriptions.",
     },
-    "care.exercise": {
-      reliability: "general_guidance",
+    "temperament.scores.affection": {
+      reliability: "estimate",
       sources: [
         {
           id: "american-kennel-club-great-dane-profile",
           role: "cited",
-          locator: "Care and breed characteristics",
-        },
-        {
-          id: "great-dane-club-america-owner-guide",
-          role: "cited",
-          locator: "Ownership considerations",
+          locator: "Affectionate With Family",
         },
       ],
       verifiedOn: null,
-      note:
-        "Activity guidance is qualitative and should be adapted to age, growth, fitness, and veterinary advice.",
+      note: null,
+    },
+    "temperament.scores.withChildren": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "cited",
+          locator: "Good With Young Children",
+        },
+      ],
+      verifiedOn: null,
+      note: null,
+    },
+    "temperament.scores.withDogs": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "cited",
+          locator: "Good With Other Dogs",
+        },
+      ],
+      verifiedOn: null,
+      note: null,
+    },
+    "temperament.scores.withStrangers": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "cited",
+          locator: "Behaviour / Temperament ('Might be reserved towards strangers')",
+        },
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "cited",
+          locator: "Openness To Strangers",
+        },
+      ],
+      verifiedOn: null,
+      note: null,
+    },
+    "temperament.scores.protectiveness": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "cited",
+          locator: "Watchdog/Protective Nature",
+        },
+      ],
+      verifiedOn: null,
+      note: null,
+    },
+    "temperament.scores.independence": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "cited",
+          locator: "How long will the puppy be alone? ('craves the companionship of other animals and people')",
+        },
+      ],
+      verifiedOn: null,
+      note: null,
+    },
+    "temperament.scores.trainability": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "cited",
+          locator: "Trainability Level",
+        },
+      ],
+      verifiedOn: null,
+      note: null,
+    },
+    "temperament.scores.barking": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "cited",
+          locator: "Barking Level",
+        },
+      ],
+      verifiedOn: null,
+      note: null,
+    },
+    "temperament.scores.energy": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "cited",
+          locator: "Energy Level",
+        },
+      ],
+      verifiedOn: null,
+      note: null,
+    },
+    "care.exercise": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Exercise (brisk walk two or three times a day; wait until 2 years old before jogging/hiking)",
+        },
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "verified",
+          locator: "Is a Great Dane right for you? (wait until after two years old before jogging)",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "care.exercise.level": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Exercise",
+        },
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "verified",
+          locator: "Is a Great Dane right for you?",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish one universal daily minute target suitable for all Great Danes.",
+        "Consulted kennel and breed club sources specify two to three brisk walks per day rather than a fixed daily minute count.",
     },
-    "care.grooming": {
-      reliability: "general_guidance",
+    "care.exercise.activities": {
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-great-dane-profile",
-          role: "cited",
-          locator: "Coat and grooming",
+          role: "verified",
+          locator: "Exercise (walks, jogging/hiking after age 2, agility, obedience, tracking, weight pulls, flyball)",
+        },
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "verified",
+          locator: "Is a Great Dane right for you?",
         },
       ],
-      verifiedOn: null,
-      note:
-        "Practical grooming advice is general guidance, not a quantified breed-specific requirement.",
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "care.grooming": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Grooming (weekly brushing, daily brushing during shedding season, occasional bathing, regular nail trimming)",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "care.grooming.level": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Grooming",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "care.grooming.brushing": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Grooming",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "care.grooming.bathing": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Grooming",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "care.grooming.notes": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Grooming",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "care.training": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-great-dane-standard",
-          role: "cited",
-          locator: "Temperament",
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Training and Exercise (early socialization, puppy training classes, leash and tall fence)",
         },
         {
           id: "great-dane-club-america-owner-guide",
-          role: "cited",
-          locator: "Responsible ownership",
+          role: "verified",
+          locator: "Is a Great Dane right for you? (obedience training, regular socialization, fenced yard)",
         },
       ],
-      verifiedOn: null,
-      note:
-        "Training suggestions emphasise safe handling and reward-based learning.",
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "care.training.difficulty": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Training",
+        },
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "verified",
+          locator: "Is a Great Dane right for you?",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "care.training.tips": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Training and Exercise",
+        },
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "verified",
+          locator: "Is a Great Dane right for you?",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "care.training.socialization": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Training",
+        },
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "verified",
+          locator: "Is a Great Dane right for you?",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "care.livingEnvironment": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "great-dane-club-america-owner-guide",
-          role: "cited",
-          locator: "Is a Great Dane for you?",
+          role: "verified",
+          locator: "Is a Great Dane right for you?",
+        },
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Coat — Hair (single, very short coat without undercoat)",
         },
       ],
-      verifiedOn: null,
-      note:
-        "Environmental guidance concerns responsible management of a giant dog and does not make a universal housing claim.",
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish a universal yes-or-no apartment-suitability value.",
+        "Consulted sources do not establish a universal boolean apartment-suitability value.",
     },
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish a universal yes-or-no value for houses with yards.",
+        "While a securely fenced yard is strongly recommended, consulted sources do not define a categorical boolean value.",
+    },
+    "care.livingEnvironment.climates": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Coat — Hair (single short coat without undercoat)",
+        },
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "verified",
+          locator: "Is a Great Dane right for you? and Where will your new puppy live?",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific alone-time tolerance value was not established.",
+        "Although the breed club notes that Great Danes do not do well when left alone for extended periods, no quantified hourly tolerance is established.",
     },
     nutrition: {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Nutrition",
+        },
+        {
+          id: "american-kennel-club-great-dane-lifespan-health",
+          role: "verified",
+          locator: "Healthy Diet and Preventative Care",
+        },
+        {
+          id: "pubmed-great-dane-gdv-risk-factors-2000",
+          role: "verified",
+          locator: "Abstract (eating speed and raised feeding bowl risk factors for GDV)",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "nutrition.dietType": {
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-great-dane-lifespan-health",
-          role: "cited",
-          locator: "Healthy diet and preventive care",
+          role: "verified",
+          locator: "Healthy Diet (large and giant breed nutrition to prevent rapid growth)",
         },
       ],
-      verifiedOn: null,
-      note:
-        "Nutrition advice is general and should be individualised with veterinary guidance, especially during giant-breed growth.",
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "nutrition.feedingFrequency.puppy": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-lifespan-health",
+          role: "verified",
+          locator: "Healthy Diet",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "nutrition.feedingFrequency.adult": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Nutrition (multiple small meals per day)",
+        },
+        {
+          id: "great-dane-club-america-health-research",
+          role: "verified",
+          locator: "GDV: Bloat (multiple small meals per day)",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "nutrition.feedingFrequency.senior": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Nutrition (age-appropriate diet and multiple small meals per day)",
+        },
+        {
+          id: "american-kennel-club-great-dane-lifespan-health",
+          role: "verified",
+          locator: "Healthy Diet and Preventative Care",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "nutrition.guidelines": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-lifespan-health",
+          role: "verified",
+          locator: "Healthy Diet and Preventative Care",
+        },
+        {
+          id: "great-dane-club-america-health-research",
+          role: "verified",
+          locator: "GDV: Bloat and HOD/Pano",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "nutrition.considerations": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-lifespan-health",
+          role: "verified",
+          locator: "Healthy Diet and Preventative Care",
+        },
+        {
+          id: "pubmed-great-dane-gdv-risk-factors-2000",
+          role: "verified",
+          locator: "Abstract (faster speed of eating and raised feeding bowl associated with increased GDV risk)",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "nutrition.note": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Nutrition",
+        },
+        {
+          id: "american-kennel-club-great-dane-lifespan-health",
+          role: "verified",
+          locator: "Healthy Diet",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     health: {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
+          id: "great-dane-club-america-health-research",
+          role: "verified",
+          locator: "Great Dane Health and Research and Surgical Guidelines",
+        },
+        {
           id: "american-kennel-club-great-dane-lifespan-health",
-          role: "cited",
-          locator: "Health concerns and preventive care",
+          role: "verified",
+          locator: "Giant Health Problems for Giant Dogs",
+        },
+        {
+          id: "pubmed-great-dane-prophylactic-gastropexy-2003",
+          role: "verified",
+          locator: "Abstract (36.7% lifetime risk of GDV and 29.6-fold mortality reduction with prophylactic gastropexy)",
+        },
+        {
+          id: "pubmed-great-dane-dcm-expression-2009",
+          role: "verified",
+          locator: "Abstract (dilated cardiomyopathy and altered triadin/calstabin2 expression in Great Danes)",
         },
       ],
-      verifiedOn: null,
-      note:
-        "Preventive advice does not replace a veterinary diagnosis or treatment plan.",
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-great-dane-lifespan-health",
-          role: "verified",
-          locator: "Life span and health issues",
-        },
-        {
           id: "great-dane-club-america-health-research",
           role: "verified",
-          locator: "Health and research information",
+          locator: "Great Dane Health and Research",
+        },
+        {
+          id: "american-kennel-club-great-dane-lifespan-health",
+          role: "verified",
+          locator: "Giant Health Problems for Giant Dogs",
+        },
+        {
+          id: "pubmed-great-dane-prophylactic-gastropexy-2003",
+          role: "verified",
+          locator: "Abstract (36.7% lifetime risk of GDV in the Great Dane)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "The overview describes documented breed concerns without claiming every dog will develop them.",
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-great-dane-lifespan-health",
+          id: "great-dane-club-america-health-research",
           role: "verified",
-          locator: "Bloat, cardiomyopathy, joint and bone disease, and thyroid problems",
+          locator: "DCM, K9HD, Hypothyroidism/Addison's, Cataracts/Entropion, GDV, Cancer (osteosarcoma/lymphoma), Wobblers Syndrome, HOD and Pano",
         },
         {
-          id: "american-kennel-club-great-dane-profile",
+          id: "american-kennel-club-great-dane-lifespan-health",
           role: "verified",
-          locator: "Health and recommended health tests",
+          locator: "Bloat, Cardiomyopathy, Joint & Bone Disease, Thyroid Problems",
         },
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Disqualifying Faults (Blind or deaf Danes; ectropion, entropion, macroblepharia; albinos/porcelain Danes)",
+        },
+        {
+          id: "pubmed-great-dane-dcm-expression-2009",
+          role: "verified",
+          locator: "Abstract",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "health.preventiveCare": {
+      reliability: "reliable_source",
+      sources: [
         {
           id: "great-dane-club-america-health-research",
           role: "verified",
-          locator: "GDV, cardiac, thyroid, and eye information",
+          locator: "Surgical Guidelines for the Great Dane, GDV: Bloat, and Recommended disease screenings",
+        },
+        {
+          id: "pubmed-great-dane-prophylactic-gastropexy-2003",
+          role: "verified",
+          locator: "Abstract (29.6-fold reduction in mortality with prophylactic gastropexy)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Conditions are included because the sources identify them as breed concerns; no prevalence ranking is implied.",
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "health.recommendedScreenings": {
       reliability: "reliable_source",
@@ -670,105 +1412,203 @@ export const great_dane: Breed = {
         {
           id: "american-kennel-club-great-dane-profile",
           role: "verified",
-          locator: "Recommended health tests from the national breed club",
+          locator: "Recommended Health Tests From the National Breed Club (Hip, Cardiac, Ophthalmologist, Thyroid)",
         },
         {
           id: "great-dane-club-america-health-research",
           role: "verified",
-          locator: "Recommended disease screenings",
+          locator: "Recommended disease screenings (baseline at ~2 years for hip, heart/echocardiogram, thyroid, and eye; repeat heart and thyroid every 2–3 years)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Screening recommendations are intended to inform responsible breeding and veterinary planning; current programme requirements should be confirmed before testing.",
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "health.dentalCare": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Grooming and Health",
+        },
+        {
+          id: "american-kennel-club-great-dane-lifespan-health",
+          role: "verified",
+          locator: "Preventative Care",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "health.earCare": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Grooming",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "health.skinCare": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Grooming",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    suitability: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "verified",
+          locator: "Is a Great Dane right for you? and Questions a Breeder May Ask",
+        },
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "About the Breed, Exercise, and Training",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal first-time-owner suitability label cannot be reliably assigned from the consulted sources.",
+        "While prior giant-breed experience is advantageous, consulted sources do not assign a universal boolean value for first-time owners.",
     },
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Family suitability depends on the individual dog, children's ages, supervision, training, and household circumstances.",
+        "Suitability depends on children's ages and strict adult supervision because a playful giant dog can unintentionally knock down small children.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Suitability depends on an owner's physical capacity and support; no universal value is assigned.",
+        "Suitability depends on individual physical strength, transport capability, and support.",
+    },
+    "suitability.activeOwners": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Exercise",
+        },
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "verified",
+          locator: "Is a Great Dane right for you?",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A categorical apartment-living suitability value is not established by the consulted sources.",
+        "No categorical boolean value is established across consulted sources.",
     },
-    suitability: {
-      reliability: "estimate",
+    "suitability.idealFor": {
+      reliability: "reliable_source",
       sources: [
         {
           id: "great-dane-club-america-owner-guide",
-          role: "cited",
-          locator: "Is a Great Dane for you?",
+          role: "verified",
+          locator: "Is a Great Dane right for you?",
         },
         {
           id: "american-kennel-club-great-dane-profile",
-          role: "cited",
-          locator: "Breed characteristics and ownership commitment",
+          role: "verified",
+          locator: "About the Breed, Care, and Health",
         },
       ],
-      verifiedOn: null,
-      note:
-        "Suitability guidance is editorial and based on the practical demands of giant-dog ownership.",
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    "suitability.notIdealFor": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "great-dane-club-america-owner-guide",
+          role: "verified",
+          locator: "Is a Great Dane right for you? and Questions a Breeder May Ask",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
     },
     funFacts: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-great-dane-standard",
           role: "verified",
-          locator: "Historical summary and colour varieties",
-        },
-      ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Historical and breed-standard facts are paraphrased.",
-    },
-    faq: {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-great-dane-standard",
-          role: "verified",
-          locator: "Size, colour, and temperament",
+          locator: "Brief Historical Summary, General Appearance, and Coat — Colour",
         },
         {
           id: "american-kennel-club-great-dane-profile",
           role: "verified",
-          locator: "Breed profile and recommended health tests",
+          locator: "About the Breed and Did You Know?",
+        },
+      ],
+      verifiedOn: "2026-10-25",
+      note: null,
+    },
+    faq: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-great-dane-standard",
+          role: "verified",
+          locator: "Size and Weight, Coat — Colour, and Behaviour / Temperament",
+        },
+        {
+          id: "akc-great-dane-standard",
+          role: "verified",
+          locator: "Color, Markings and Patterns",
+        },
+        {
+          id: "american-kennel-club-great-dane-profile",
+          role: "verified",
+          locator: "Weight, Life Expectancy, Exercise, and Recommended Health Tests",
         },
         {
           id: "american-kennel-club-great-dane-lifespan-health",
           role: "verified",
-          locator: "Life expectancy and health issues",
+          locator: "Life Span and Health Issues",
         },
         {
           id: "great-dane-club-america-health-research",
           role: "verified",
-          locator: "Health and screening guidance",
+          locator: "GDV: Bloat and Recommended disease screenings",
+        },
+        {
+          id: "pubmed-great-dane-prophylactic-gastropexy-2003",
+          role: "verified",
+          locator: "Abstract (36.7% lifetime risk of GDV)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Answers are paraphrased and avoid guaranteeing lifespan, behaviour, or health outcomes.",
+      verifiedOn: "2026-10-25",
+      note: null,
     },
   },
-  updatedOn: "2026-10-21",
+  updatedOn: "2026-10-25",
 };
