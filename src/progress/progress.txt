@@ -77,9 +77,10 @@
 72:braque_d'auvergne - C
 73:english_toy_terrier_(black_&_tan) - C
 74:clumber_spaniel - C
+75:broholmer - C
 
-75:broholmer
-76:manchester_terrier
+76:manchester_terrier - R
+
 77:spinone_italiano
 78:mudi
 79:rafeiro_do_alentejo

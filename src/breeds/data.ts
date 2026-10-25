@@ -79,6 +79,7 @@ import { schipperke } from "./schipperke";
 import { braque_d_auvergne } from "./braque_d_auvergne";
 import { english_toy_terrier_black_tan } from "./english_toy_terrier_black_tan";
 import { clumber_spaniel } from "./clumber_spaniel";
+import { broholmer } from "./broholmer";
 
 
 export const breedData: readonly Breed[] = [
@@ -157,4 +158,5 @@ export const breedData: readonly Breed[] = [
   braque_d_auvergne,
   english_toy_terrier_black_tan,
   clumber_spaniel,
+  broholmer,
 ];

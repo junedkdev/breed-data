@@ -7578,6 +7578,72 @@ export const sources = defineSources({
     accessedOn: "2026-10-24",
     note: "Photograph by Canarian; CC BY-SA 4.0. Image metadata records 9 December 2017 as the capture date and 29 January 2018 as the Commons upload date."
   },
+  "fci-broholmer-standard-2025": {
+    id: "fci-broholmer-standard-2025",
+    name: "FCI Standard No. 315 - Broholmer",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/315g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2025-05-03",
+    accessedOn: "2026-10-25",
+    note:
+      "Official valid standard published on 3 May 2025; English version dated 16 May 2025.",
+  },
+  "dkk-broholmer-profile": {
+    id: "dkk-broholmer-profile",
+    name: "Danish Kennel Club - Broholmer",
+    publisher: "Dansk Kennel Klub",
+    url: "https://www.dkk.dk/race/broholmer",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-25",
+    note:
+      "Breed profile covering size, temperament, coat care, activity, and everyday handling.",
+  },
+  "american-kennel-club-broholmer": {
+    id: "american-kennel-club-broholmer",
+    name: "American Kennel Club - Broholmer",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/broholmer/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-25",
+    note:
+      "Breed profile listing height, weight, and an 8–10 year life-expectancy range.",
+  },
+  "royal-canin-broholmer": {
+    id: "royal-canin-broholmer",
+    name: "Royal Canin India - Broholmer",
+    publisher: "Royal Canin",
+    url: "https://www.royalcanin.com/in/dogs/breeds/broholmer",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-25",
+    note:
+      "Breed profile; gives a broader 7–12 year average life-expectancy range.",
+  },
+  "broholmerselskabet-health": {
+    id: "broholmerselskabet-health",
+    name: "Broholmerselskabet - Health",
+    publisher: "Broholmerselskabet",
+    url: "https://www.broholmeren.dk/side.asp?ID=89921",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-10-25",
+    note:
+      "Breed-club health overview and links to resources on hip and elbow dysplasia, OCD, spondylosis, and aortic stenosis.",
+  },
+  "wikimedia-broholmer-634": {
+    id: "wikimedia-broholmer-634",
+    name: "Wikimedia Commons - Broholmer 634.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Broholmer_634.jpg",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-25",
+    note:
+      "Photograph by Pleple2000, dated 11 November 2006 and uploaded 22 November 2006. The file page offers CC BY-SA licenses; this record uses the existing cc-by-sa-3.0 registry entry.",
+  },
 });
 
 export type SourceId = keyof typeof sources;
