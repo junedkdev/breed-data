@@ -75,8 +75,32 @@ button:disabled { opacity: 0.6; cursor: wait; }
 
 .help, #counts, #check-summary { color: #57534e; }
 .current { font-family: ui-monospace, Menlo, Consolas, monospace; }
-.message { min-height: 1.2em; }
-.message.error { color: #9f1239; }
+.message { min-height: 1.2em; color: #1c1917; }
+.message ul {
+  margin: 8px 0 0;
+  padding-left: 1.2em;
+}
+.message li { margin: 3px 0; line-height: 1.4; }
+.message li.error { color: #9f1239; }
+
+.choice { margin: 12px 0; }
+.choice h3, .choice h4 { margin: 12px 0 6px; font-size: 16px; }
+.choice-grid { display: flex; flex-wrap: wrap; gap: 12px; }
+.choice article, .ours-card {
+  width: 180px;
+  border: 1px solid #e4ddd2;
+  border-radius: 8px;
+  padding: 8px;
+  background: #fff;
+}
+.choice img {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  background: #f6f3ee;
+}
+.choice article button, #gemini-retry { margin-top: 8px; margin-left: 8px; }
+#gemini-copy + #gemini-retry { margin-left: 8px; }
 
 #issues, #rows {
   list-style: none;

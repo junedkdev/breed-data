@@ -25,8 +25,18 @@ import {
   saveBreedFile,
   sourceSummary,
 } from "./records";
+import { archiveTheDogFile, prepareChosenTheDogFile, prepareTheDogFile, relativeToRoot, type TheDogResult } from "../thedog/prepare";
 import { chatgptPromptPath, geminiPromptPath, progressPath } from "./paths";
 import { parseSourcePaste, UserError } from "./sources";
+
+export interface GeminiPromptResult {
+  prompt: string;
+  breed: ProgressBreed;
+  file: string;
+  /** False while the user still has to choose between several The Dog API breeds. */
+  copyPrompt: boolean;
+  thedog: TheDogResult;
+}
 
 export interface PageState {
   counts: Record<string, number>;
@@ -97,23 +107,47 @@ export function addChatgptRecord(input: {
   };
 }
 
-/** Appends the current breed file and marks that breed CR, unless it is already CR. */
-export function copyGeminiPrompt(): { prompt: string; breed: ProgressBreed; file: string } {
+/** Appends the current breed file, marks that breed CR, and writes a The Dog API reference when one breed matches. */
+export async function copyGeminiPrompt(): Promise<GeminiPromptResult> {
   const rows = readRows();
   const breed = nextGemini(rows);
   if (!breed) throw new UserError("No ChatGPT breed is waiting for Gemini.");
-  const file = findBreedFile(breed.name);
-  if (!file) {
-    throw new UserError(
-      `No file found for ${breed.name}. Expected src/breeds/${fileKey(breed.name)}.ts.`,
-    );
-  }
   if (breed.status === "C") saveRows(withStatus(rows, breed.index, "CR"));
-  const prompt = `${readFileSync(geminiPromptPath, "utf8").trimEnd()}\n\n${readFileSync(file, "utf8")}`;
-  return { prompt, breed: { ...breed, status: "CR" }, file };
+  return finishGemini({ ...breed, status: "CR" }, false);
 }
 
-export function updateGeminiRecord(input: { content: string; sources: string }): { message: string } {
+/** Runs the The Dog API lookup again for the breed already marked CR. */
+export async function retryGeminiTheDog(): Promise<GeminiPromptResult> {
+  const breed = readRows().find((row) => row.status === "CR");
+  if (!breed) throw new UserError("Copy the Gemini prompt first. That marks the breed as CR.");
+  return finishGemini(breed, true);
+}
+
+/** Writes the reference file for the The Dog API breed the user picked, then the prompt can be copied. */
+export async function chooseGeminiTheDog(breedId: string): Promise<GeminiPromptResult> {
+  const id = breedId.trim();
+  if (!id) throw new UserError("Choose a breed first.");
+  const breed = readRows().find((row) => row.status === "CR");
+  if (!breed) throw new UserError("Copy the Gemini prompt first. That marks the breed as CR.");
+  const file = requireBreedFile(breed.name);
+  const thedog = await prepareChosenTheDogFile({
+    breedFile: file,
+    progressName: breed.name,
+    breedId: id,
+  });
+  return {
+    prompt: geminiPrompt(file),
+    breed,
+    file,
+    copyPrompt: thedog.status !== "choose",
+    thedog,
+  };
+}
+
+export function updateGeminiRecord(input: {
+  content: string;
+  sources: string;
+}): { message: string; points: string[] } {
   const rows = readRows();
   const breed = rows.find((row) => row.status === "CR");
   if (!breed) throw new UserError("Copy the Gemini prompt first. That marks the breed as CR.");
@@ -123,10 +157,46 @@ export function updateGeminiRecord(input: { content: string; sources: string }):
   parseSourcePaste(input.sources);
   replaceExistingBreedFile(file, input.content);
   const sourceMessage = sourceSummary(applySources(input.sources));
+  const archived = archiveTheDogFile(basename(file, ".ts"));
+  const archiveMessage = archived
+    ? `The Dog API reference is at ${relativeToRoot(archived)}.`
+    : "src/thedog/current had no The Dog API reference for this breed.";
   saveRows(withStatus(rows, breed.index, "CG"));
+  const points = [
+    `Updated ${breed.index}:${breed.name} as CG.`,
+    `Wrote ${file}.`,
+    sourceMessage,
+    archiveMessage,
+  ];
+  return { message: points.join(" "), points };
+}
+
+async function finishGemini(breed: ProgressBreed, fresh: boolean): Promise<GeminiPromptResult> {
+  const file = requireBreedFile(breed.name);
+  const thedog = await prepareTheDogFile({
+    breedFile: file,
+    progressName: breed.name,
+    fresh,
+  });
   return {
-    message: `Updated ${breed.index}:${breed.name} as CG. Wrote ${file}. ${sourceMessage}`,
+    prompt: geminiPrompt(file),
+    breed,
+    file,
+    copyPrompt: thedog.status !== "choose",
+    thedog,
   };
+}
+
+function requireBreedFile(name: string): string {
+  const file = findBreedFile(name);
+  if (!file) {
+    throw new UserError(`No file found for ${name}. Expected src/breeds/${fileKey(name)}.ts.`);
+  }
+  return file;
+}
+
+function geminiPrompt(file: string): string {
+  return `${readFileSync(geminiPromptPath, "utf8").trimEnd()}\n\n${readFileSync(file, "utf8")}`;
 }
 
 function readRows(): ProgressBreed[] {

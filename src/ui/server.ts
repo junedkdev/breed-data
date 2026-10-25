@@ -13,9 +13,11 @@ import { extname, join, normalize, sep } from "node:path";
 import {
   addChatgptRecord,
   copyChatgptPrompt,
+  chooseGeminiTheDog,
   copyGeminiPrompt,
   createBreedFile,
   loadState,
+  retryGeminiTheDog,
   updateGeminiRecord,
 } from "./actions";
 import { runCheck } from "./check";
@@ -63,7 +65,14 @@ async function handle(request: IncomingMessage, response: ServerResponse): Promi
       return send(response, 200, { ...saved, check: await runCheck() });
     }
     if (request.method === "POST" && url.pathname === "/api/gemini/prompt") {
-      return send(response, 200, copyGeminiPrompt());
+      return send(response, 200, await copyGeminiPrompt());
+    }
+    if (request.method === "POST" && url.pathname === "/api/gemini/thedog/retry") {
+      return send(response, 200, await retryGeminiTheDog());
+    }
+    if (request.method === "POST" && url.pathname === "/api/gemini/thedog/choose") {
+      const body = await readJson(request);
+      return send(response, 200, await chooseGeminiTheDog(textField(body, "breedId")));
     }
     if (request.method === "POST" && url.pathname === "/api/gemini/update") {
       const body = await readJson(request);

@@ -18,7 +18,7 @@ Research and data quality
 4. Clearly distinguish verified facts, estimates, general care advice and uncertain health information.
 5. Write original, natural user-facing descriptions in your own words. Do not copy source text or mention source names in the actual descriptions, summaries or FAQs.
 6. Add accurate source entries and evidence metadata. Every evidence source must be included in the breed's references array.
-7. Use images only after checking the original file page, creator, license and commercial-use conditions. Include complete required attribution and use only license IDs supported by my existing registry unless a new license is properly documented.
+7. Include at least one photograph. Do not leave `images` empty. Use a photograph only after checking the original file page, creator, license, and commercial-use conditions. If commercial-use permission is unclear, or the file has no license, do not include that photograph. Every included photograph must use a license id already in my registry whose terms clearly allow commercial use, with complete required attribution. A new license may be added only when its deed is documented and commercial use is clearly allowed.
 8. Use real research/access dates that are not in the future according to the catalog validator. Never invent verification dates, publication dates or image metadata.
 
 Implementation requirements

@@ -16,6 +16,14 @@ const geminiPrompt = document.querySelector("#gemini-prompt");
 const geminiContent = document.querySelector("#gemini-content");
 const geminiSources = document.querySelector("#gemini-sources");
 const geminiMessage = document.querySelector("#gemini-message");
+const geminiChoice = document.querySelector("#gemini-choice");
+const geminiChoiceMessage = document.querySelector("#gemini-choice-message");
+const geminiOurs = document.querySelector("#gemini-ours");
+const geminiCandidates = document.querySelector("#gemini-candidates");
+const geminiCopy = document.querySelector("#gemini-copy");
+const geminiRetry = document.querySelector("#gemini-retry");
+const geminiPhotos = document.querySelector("#gemini-photos");
+const geminiPhotoRow = document.querySelector("#gemini-photo-row");
 
 let suggestedFile = "";
 let progressRows = [];
@@ -32,8 +40,11 @@ document.querySelector("#chatgpt-create").addEventListener("click", () => {
 document.querySelector("#chatgpt-add").addEventListener("click", () => {
   void addRecord();
 });
-document.querySelector("#gemini-copy").addEventListener("click", () => {
+geminiCopy.addEventListener("click", () => {
   void copyGemini();
+});
+geminiRetry.addEventListener("click", () => {
+  void retryTheDog();
 });
 document.querySelector("#gemini-update").addEventListener("click", () => {
   void updateRecord();
@@ -111,13 +122,159 @@ async function addRecord() {
 }
 
 async function copyGemini() {
+  await runGemini("/api/gemini/prompt", "Copied");
+}
+
+async function retryTheDog() {
+  await runGemini("/api/gemini/thedog/retry", "Fetched again");
+}
+
+async function chooseTheDog(breedId) {
+  await runGemini("/api/gemini/thedog/choose", "Copied", { breedId });
+}
+
+async function runGemini(url, label, body = {}) {
   clearMessage(geminiMessage);
-  const result = await postJson("/api/gemini/prompt", {});
-  if (!result) return;
-  geminiPrompt.value = result.prompt;
-  await copyText(result.prompt, geminiPrompt);
-  geminiMessage.textContent = `Copied. ${result.breed.index}:${result.breed.name} is now CR.`;
-  await refresh();
+  hidePhotos();
+  showGeminiPoints([{ text: "Fetching The Dog API…" }]);
+  geminiCopy.disabled = true;
+  geminiRetry.disabled = true;
+  try {
+    const result = await postJson(url, body);
+    if (!result) {
+      hideChoice();
+      return;
+    }
+    geminiPrompt.value = result.prompt;
+    const breed = `${result.breed.index}:${result.breed.name}`;
+    const points = [{ text: `${label}. ${breed} is now CR.` }];
+    if (result.thedog.status === "choose") {
+      showChoice(result.thedog);
+      points[0] = { text: `${breed} is now CR.` };
+      points.push({ text: result.thedog.message });
+    } else {
+      hideChoice();
+      if (result.copyPrompt) await copyText(result.prompt, geminiPrompt);
+      if (result.thedog.status === "ready") {
+        showPhotos(result.thedog.photos);
+        points.push(
+          { text: `The Dog API reference is at ${result.thedog.file}.` },
+          { text: "Attach that file in Gemini." },
+        );
+      } else if (result.thedog.message) {
+        points.push({
+          text: result.thedog.message,
+          tone: result.thedog.status === "failed" ? "error" : "",
+        });
+      }
+      for (const warning of result.thedog.warnings || []) {
+        if (isPlanLimit(warning)) continue;
+        points.push({ text: warning.endsWith(".") ? warning : `${warning}.` });
+      }
+    }
+    showGeminiPoints(points);
+    await refresh();
+  } finally {
+    geminiCopy.disabled = false;
+    geminiRetry.disabled = false;
+  }
+}
+
+function showGeminiPoints(items) {
+  const list = document.createElement("ul");
+  for (const item of items) {
+    if (!item.text) continue;
+    const line = document.createElement("li");
+    line.textContent = item.text;
+    if (item.tone) line.classList.add(item.tone);
+    list.append(line);
+  }
+  geminiMessage.replaceChildren(list);
+}
+
+function isPlanLimit(warning) {
+  return /not available on free plan|enable_health_tips/i.test(warning);
+}
+
+function showChoice(thedog) {
+  geminiChoice.hidden = false;
+  geminiChoiceMessage.textContent = thedog.message;
+  geminiOurs.replaceChildren();
+  const ours = document.createElement("article");
+  ours.className = "ours-card";
+  const name = document.createElement("p");
+  name.textContent = thedog.ours.name;
+  ours.append(name);
+  if (thedog.ours.images.length === 0) {
+    const note = document.createElement("p");
+    note.textContent = "The ChatGPT file has no photograph yet.";
+    ours.append(note);
+  }
+  for (const url of thedog.ours.images) {
+    ours.append(photo(url, thedog.ours.name));
+  }
+  geminiOurs.append(ours);
+  geminiCandidates.replaceChildren();
+  for (const candidate of thedog.candidates) {
+    const card = document.createElement("article");
+    if (candidate.imageUrl) card.append(photo(candidate.imageUrl, candidate.name));
+    else {
+      const note = document.createElement("p");
+      note.textContent = "No photograph from The Dog API.";
+      card.append(note);
+    }
+    const label = document.createElement("p");
+    label.textContent = [candidate.name, candidate.group, candidate.origin].filter(Boolean).join(" · ");
+    const button = document.createElement("button");
+    button.type = "button";
+    button.textContent = "Use this breed";
+    button.addEventListener("click", () => {
+      void chooseTheDog(candidate.id);
+    });
+    card.append(label, button);
+    geminiCandidates.append(card);
+  }
+}
+
+function photo(url, alt) {
+  const image = document.createElement("img");
+  image.src = url;
+  image.alt = alt;
+  return image;
+}
+
+function showPhotos(photos) {
+  geminiPhotos.hidden = false;
+  geminiPhotoRow.replaceChildren();
+  geminiPhotoRow.append(
+    photoCard("ChatGPT file", photos?.chatgpt, "The ChatGPT file has no photograph yet."),
+    photoCard("The Dog API", photos?.thedog, "No photograph from The Dog API."),
+  );
+}
+
+function photoCard(title, url, emptyText) {
+  const card = document.createElement("article");
+  const heading = document.createElement("p");
+  heading.textContent = title;
+  card.append(heading);
+  if (url) card.append(photo(url, title));
+  else {
+    const note = document.createElement("p");
+    note.textContent = emptyText;
+    card.append(note);
+  }
+  return card;
+}
+
+function hidePhotos() {
+  geminiPhotos.hidden = true;
+  geminiPhotoRow.replaceChildren();
+}
+
+function hideChoice() {
+  geminiChoice.hidden = true;
+  geminiOurs.replaceChildren();
+  geminiCandidates.replaceChildren();
 }
 
 async function updateRecord() {
@@ -127,9 +284,12 @@ async function updateRecord() {
     sources: geminiSources.value,
   });
   if (!result) return;
-  geminiMessage.textContent = result.message;
+  const points = result.points || [result.message];
+  showGeminiPoints(points.map((text) => ({ text })));
   geminiContent.value = "";
   geminiSources.value = "";
+  hideChoice();
+  hidePhotos();
   showCheck(result.check);
   await refresh();
 }
@@ -182,15 +342,18 @@ async function getJson(url) {
 async function readResponse(response) {
   const body = await response.json();
   if (!response.ok) {
-    const target = response.url.includes("gemini") ? geminiMessage : chatgptMessage;
-    target.textContent = body.error || "Request failed.";
-    target.classList.add("error");
+    const text = body.error || "Request failed.";
+    if (response.url.includes("gemini")) showGeminiPoints([{ text, tone: "error" }]);
+    else {
+      chatgptMessage.textContent = text;
+      chatgptMessage.classList.add("error");
+    }
     return null;
   }
   return body;
 }
 
 function clearMessage(element) {
-  element.textContent = "";
-  element.classList.remove("error");
+  element.replaceChildren();
+  element.classList.remove("error", "warn");
 }

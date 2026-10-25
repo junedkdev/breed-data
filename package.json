@@ -11,7 +11,7 @@
     "validate:json": "tsx src/build/check-json.ts",
     "build": "tsx src/build/write-catalog.ts",
     "build:minify": "tsx src/build/write-catalog.ts --minify",
-    "test": "tsx --test src/validate/rules.test.ts src/progress/file.test.ts src/ui/sources.test.ts",
+    "test": "tsx --test src/validate/rules.test.ts src/progress/file.test.ts src/ui/sources.test.ts src/thedog/match.test.ts src/thedog/record.test.ts",
     "ui": "tsx src/ui/server.ts",
     "all": "npm run build && npm run check && npm test && npm run validate:json"
   },

@@ -1,5 +1,20 @@
 I have provided a detailed TypeScript breed object for my DogLens application. Please thoroughly verify every field using reliable sources such as official breed standards, reputable kennel clubs, veterinary organisations, and scientific publications.
 
+**Copyright — read this before anything else:**
+I am worried about copyright. Every fact must be thoroughly verified, every user-facing sentence must be converted into our own unique words, and the finished text must be double-checked so we do not face a copyright problem. Do not copy sentences, distinctive phrases, or paragraph structure from any source, including The Dog API.
+
+**Attached The Dog API file:**
+I will also attach a TypeScript file generated from The Dog API for this same breed. It follows my breed schema. Its wording is the API's wording, kept only so you can read the underlying facts. It is a reference, not a draft to return.
+
+When that file is attached:
+- Use it to fill gaps and to check the breed object below. Treat The Dog API values as a trusted factual starting point.
+- Rewrite every description, summary, history, FAQ, care note, health note, and other user-facing value in our own unique words. Do not reuse the API's sentences.
+- If an official kennel-club breed standard disagrees with The Dog API, keep the official standard. Record the disagreement in evidence when it matters.
+- Cite The Dog API only in `sources`, `references`, and `evidence`, using the source id `the-dog-api` when you rely on it. Do not mention it inside user-facing text.
+- The attached file contains no photographs. Do not invent image records from it.
+
+If no file is attached, verify the breed object below without that reference.
+
 **Your tasks:**
 1. Verify all existing values and correct any inaccurate, outdated, or unsupported information.
 2. Fill missing or `null` values only when you can verify them from trustworthy sources. Add useful details where appropriate.
