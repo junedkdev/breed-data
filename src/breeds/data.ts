@@ -108,6 +108,8 @@ import { papillon_and_phalene } from "./papillon_and_phalene";
 import { chien_francais_tricolore } from "./chien_francais_tricolore";
 import { shar_pei } from "./shar_pei";
 import { kai_ken } from "./kai_ken";
+import { german_longhaired_pointer } from "./german_longhaired_pointer";
+import { ibizan_hound } from "./ibizan_hound";
 
 
 export const breedData: readonly Breed[] = [
@@ -215,4 +217,6 @@ export const breedData: readonly Breed[] = [
   chien_francais_tricolore,
   shar_pei,
   kai_ken,
+  german_longhaired_pointer,
+  ibizan_hound,
 ];

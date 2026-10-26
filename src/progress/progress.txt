@@ -44,10 +44,10 @@
 41:german_shepherd_dog - CG
 42:drentse_patrijshond - CG
 43:stabyhoun - CG
+44:lowchen - CG
 
-44:lowchen - CR
+45:collie,_rough - CR
 
-45:collie,_rough - C
 46:japanese_chin - C
 47:petit_brabancon - C
 48:dutch_smoushond - C
@@ -106,10 +106,11 @@
 101:chien_francais_tricolore - C
 102:shar_pei - C
 103:kai_ken - C
+104:german_longhaired_pointer - C
+105:ibizan_hound - C
 
-104:german_longhaired_pointer
-105:ibizan_hound
-106:black_norwegian_elkhound
+106:black_norwegian_elkhound - R
+
 107:australian_silky_terrier
 108:american_bulldog
 109:cairn_terrier

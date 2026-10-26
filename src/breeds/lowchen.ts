@@ -5,43 +5,46 @@ export const lowchen: Breed = {
   name: "Löwchen",
   scientificName: null,
   alternateNames: [
-    "Lowchen",
     "Little Lion Dog",
     "Petit Chien Lion",
+    "Lowchen",
     "Bichon Petit Chien Lion",
   ],
   group:
-    "FCI Group 9 — Companion and Toy Dogs; Section 1.3 — Bichons and related breeds; without working trial",
+    "Companion and Toy Dogs — Bichons and related breeds (without working trial) / Non-Sporting Group / Toy Group",
   origin: {
     country: "France",
-    region: null,
+    region:
+      "Western and Mediterranean Europe (with early historical roots documented across France, Germany, Belgium, and Spain)",
   },
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Lowchen.jpg",
+      url: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lowchen.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Lowchen.jpg",
       title: "Lowchen.jpg",
-      description: "A Löwchen photographed for a breed reference image.",
+      description:
+        "Dark-and-tan Löwchen standing outdoors in the traditional lion clip, showing the full natural forequarter mane, closely clipped hindquarters, feathered leg cuffs, and plumed tail.",
       creator: "Ainos",
       uploader: "Hundar",
       capturedOn: "2009-05-13",
-      uploadedOn: "2009-05-13",
+      uploadedOn: "2011-08-24",
       width: 541,
       height: 425,
       licenseId: "cc-by-3.0",
       attribution:
-        "Photo by Ainos, via Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Indicate any changes made.",
+        "Photo by Ainos (uploaded by Hundar), via Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Indicate any changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-10-26",
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/LowchenFemale.jpg",
+      url: "https://upload.wikimedia.org/wikipedia/commons/9/93/LowchenFemale.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:LowchenFemale.jpg",
       title: "LowchenFemale.jpg",
-      description: "A female Löwchen.",
+      description:
+        "Female Löwchen in a traditional lion clip trotting across a grassy lawn, illustrating the proud head carriage, flowing mane, and arched plumed tail.",
       creator: "Jappitoo",
       uploader: "Jappitoo",
-      capturedOn: null,
+      capturedOn: "2010-07-18",
       uploadedOn: "2010-11-19",
       width: 600,
       height: 402,
@@ -49,15 +52,15 @@ export const lowchen: Breed = {
       attribution:
         "Photo by Jappitoo, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Indicate any changes made; adaptations must comply with applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-10-26",
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B6wchen_dog_%28Basil_Smile%29.jpg",
+      url: "https://upload.wikimedia.org/wikipedia/commons/9/93/L%C3%B6wchen_dog_%28Basil_Smile%29.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:L%C3%B6wchen_dog_%28Basil_Smile%29.jpg",
+        "https://commons.wikimedia.org/wiki/File:L%C3%B6wchen_dog_(Basil_Smile).jpg",
       title: "Löwchen dog (Basil Smile).jpg",
       description:
-        "Basil Smile, a Löwchen known as Ch Taywill Brillant Roman Basilia, photographed showing its face.",
+        "Close-up facial portrait of a Löwchen (Ch Taywill Brillant Roman Basilia, 'Basil Smile'), highlighting the broad skull, dark round eyes, and long silky head furnishings.",
       creator: "John M. P. Knox",
       uploader: "FlickreviewR",
       capturedOn: "2009-02-28",
@@ -68,24 +71,24 @@ export const lowchen: Breed = {
       attribution:
         "Photo by John M. P. Knox, via Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate any changes made; adaptations must comply with applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-10-26",
     },
   ],
   overview: {
     summary:
-      "The Löwchen, whose name means 'little lion' in German, is a small companion dog known for its lively expression, affectionate nature, and confident personality. It combines a sturdy build with an elegant outline and is often recognised by its traditional lion clip. It generally enjoys being involved in family life and benefits from positive training, play, and regular companionship.",
+      "The Löwchen, also known as the Little Lion Dog or Petit Chien Lion, is a compact, sturdily built companion breed belonging to the Bichon family. Traditionally groomed in a signature lion clip—with closely clipped hindquarters, a full natural mane over the forequarters, feathered leg cuffs, and a tufted tail plume—it pairs an affectionate, people-focused temperament with keen intelligence and agile athleticism.",
     description:
-      "The Löwchen is a compact, well-proportioned dog with a proud head carriage, dark expressive eyes, and pendant ears with long fringes. Its long, silky, wavy coat has no undercoat and can appear in many colours and combinations. The traditional lion clip leaves a mane around the front of the body while the hindquarters are clipped short; the unclipped coat should remain natural rather than sculpted. Despite its decorative appearance, the breed is robust and lively, and enjoys walks, games, and learning with its people.",
+      "Balanced and square to slightly off-square in outline, the Löwchen carries its short, broad head proudly above a firm, level topline and a well-defined abdominal tuck-up. Its round, dark, wide-set eyes and fringed pendant ears frame a straight muzzle measuring roughly two-thirds the length of the flat skull. The long, silky, gently wavy single coat combines finer and thicker non-shedding hairs without a woolly undercoat, falling naturally to either side without an artificial part. Whether clipped into the historic lion trim or kept in an even companion cut, the breed moves with a lively, ground-covering trot and brings comedic charm, steady nerves, and enthusiastic playfulness to daily household life.",
     history:
-      "The Löwchen has a long history as a European companion dog. Images resembling the breed appear in medieval and Renaissance art, including carvings and tapestries, and historical accounts describe its popularity among European court circles. Its early geographical origin has been debated, but the modern breed standard identifies France as its country of origin. By the twentieth century, numbers had become very low. Dedicated breeders, especially in Europe, worked to preserve and rebuild the breed population, and it later spread to the United Kingdom and North America.",
+      "Stone carvings at the thirteenth-century Amiens Cathedral and fifteenth-century European tapestries depict small companion dogs trimmed in the unmistakable silhouette of a miniature lion. Cherished by noblewomen at the court of Burgundy and across Renaissance Europe, the breed was portrayed by artists including Albrecht Dürer and Francisco de Goya, and formally described as the Petit Chien Lion in the eighteenth century by French naturalist Georges-Louis Leclerc, Comte de Buffon, as well as Carl Linnaeus. Folklore holds that court ladies tucked the closely clipped hindquarters beneath bedcovers for warmth while the long forequarter mane drew fleas away, and that lion-dog effigies were carved at the feet of knights' tombs to symbolize courage when a knight died peacefully rather than in battle. After populations declined sharply across Europe during the nineteenth century and both World Wars, Belgian fancier Madame Madelaine Bennert—who acquired her first specimen in 1897 from Maximillian de Conick—launched a dedicated post-1944 preservation program alongside German veterinarian Dr. Hans Rickert of the Von den Drei Löwen kennel. Although world records cited the Löwchen in 1969 as the rarest dog on earth when roughly forty registered individuals survived, imports to Great Britain in 1968 and to the United States in 1971 re-established a stable international population while France remained designated as the historical country of origin.",
     originalPurpose:
-      "A companion dog, historically kept for close human companionship.",
+      "Household companion and lapdog for European courts and homes, prized for affectionate company, warmth in bed, and alert indoor watchdog instincts.",
     currentRoles: [
-      "Companion dog",
-      "Family pet",
-      "Obedience and trick-training partner",
-      "Agility and other suitable small-dog sports",
-      "Alert household companion",
+      "Devoted household and family companion",
+      "Conformation exhibition dog shown in the traditional lion clip",
+      "Agility, rally, obedience, and flyball competitor",
+      "Barn hunt, trick dog, and scent-game participant",
+      "Attentive indoor watchdog",
     ],
   },
   physical: {
@@ -96,55 +99,53 @@ export const lowchen: Breed = {
       female: { min: 26, max: 32 },
     },
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: { min: 4, max: 8 },
+      female: { min: 4, max: 8 },
     },
     lifespanYears: { min: 13, max: 15 },
     coatType:
-      "Long, silky, dense, wavy coat without an undercoat.",
+      "Long, silky, dense, and gently wavy coat without a woolly undercoat, composed of finer and thicker non-shedding hair shafts that fall naturally without an artificial part; traditionally presented in the lion clip with the body from the last rib rearward, upper limbs, feet, and basal half of the tail clipped to roughly 3 mm while leaving an unsculpted mane, leg cuffs, and tail plume.",
     coatLength:
-      "Long coat throughout, with a traditional lion clip used in conformation showing. In the show clip, the hindquarters and part of the tail are clipped short while the front of the body retains a mane.",
+      "Long and untrimmed over the head, neck, shoulders, chest, lower leg cuffs, and terminal tail plume when in the traditional lion clip, and clipped close (roughly 3 mm) over the hindquarters, upper legs, feet, and base of the tail.",
     coatColors: [
-      "Black",
-      "White",
-      "Cream",
-      "Gold",
-      "Silver",
-      "Chocolate or brown",
-      "Blue",
-      "Parti-colour",
-      "Other colours and combinations permitted by the FCI standard",
+      "All solid colours and colour combinations (except merle and albinism, which are disallowed)",
+      "Black (solid or combined with tan, cream, gold, silver, or white)",
+      "White and particolour combinations",
+      "Cream, biscuit, gold, and fawn",
+      "Silver and blue",
+      "Brown and chocolate (solid or combined with cream or white)",
+      "Sable (cream sable, gold sable, or silver sable, often lightening as puppies mature)",
+      "Brindle",
     ],
     sheddingLevel:
-      "Often described as low-shedding, but loose hair and grooming needs vary by individual coat and maintenance routine.",
-    droolingLevel: null,
+      "Very low; the silky single coat is non-shedding and low in dander, though loose hairs trap within the long coat and require regular brushing.",
+    droolingLevel:
+      "Low; tight, close-fitting lips prevent drooling.",
     distinctiveFeatures: [
-      "Compact, square-proportioned body",
-      "Proud head carriage and lively, alert expression",
-      "Large, dark, round eyes",
-      "Pendant ears with long fringes",
-      "Long, silky, wavy coat without an undercoat",
-      "Traditional lion clip with a mane-like front coat and clipped hindquarters",
-      "Plumed tail carried in an elegant arch over the back",
+      "Signature lion clip leaving a natural, unsculpted mane to the last rib, closely clipped hindquarters, feathered cuffs on all four lower legs, clipped feet, and a terminal plume on the tail",
+      "Short, broad head carried proudly high with a flat skull as wide as it is long, a moderately defined stop, and a straight muzzle measuring about two-thirds the length of the skull",
+      "Large, round, dark, forward-looking eyes set well apart with fully pigmented rims that convey a forthright, affectionate expression",
+      "Pendant, well-fringed ears set at or slightly above eye level and reaching nearly to the midpoint of the muzzle when drawn forward",
+      "Square to slightly off-square, sturdily boned body with a level topline, pronounced abdominal tuck-up, and a medium-length tail arched over the back so only the plume touches the topline",
     ],
   },
   temperament: {
     traits: [
-      "Affectionate with familiar people",
-      "Lively and playful",
-      "Intelligent and observant",
-      "Alert to sounds and changes in the environment",
-      "Often receptive to positive training",
-      "Can be confident despite its small size",
-      "May bark to alert its household",
+      "Affectionate and deeply devoted to household members",
+      "Lively, cheerful, and comedic in daily interaction",
+      "Intelligent and quick to solve problems",
+      "Alert and observant around the home",
+      "Outgoing, confident, and steady-nerved in new surroundings",
+      "Playful and agile despite its compact stature",
+      "Occasionally independent or vocal when excited or demanding attention",
     ],
     scores: {
       affection: 5,
       withChildren: 4,
       withDogs: 4,
       withStrangers: 4,
-      protectiveness: 2,
+      protectiveness: 3,
       independence: 3,
       trainability: 4,
       barking: 3,
@@ -154,210 +155,211 @@ export const lowchen: Breed = {
   care: {
     exercise: {
       level: "Moderate",
-      minutesPerDay: null,
+      minutesPerDay: { min: 30, max: 60 },
       activities: [
-        "Daily walks suited to the dog's age and fitness",
-        "Interactive play with family members",
-        "Reward-based obedience and trick training",
-        "Food puzzles and scent-search games",
-        "Agility or other suitable small-dog activities",
-        "Short outdoor explorations with opportunities to sniff",
+        "Brisk daily neighborhood or park walks",
+        "Interactive indoor or fenced-yard fetch and agility games",
+        "Agility, rally, obedience, and flyball training",
+        "Barn hunt, trick training, and food-puzzle problem solving",
       ],
     },
     grooming: {
-      level: "Moderate to high, especially for a long coat or lion clip",
+      level: "Moderate to high",
       brushing:
-        "Brush and comb the coat several times a week to reduce tangles and mats, paying attention to the ears, legs, tail, and longer coat around the neck. Dogs kept in a full coat may need more frequent grooming than dogs kept in a shorter pet trim.",
+        "Brush thoroughly two to three times per week with a pin brush and comb to prevent tangles in the long silky hair, increasing to daily brushing for full show coats or during the adolescent coat transition around one year of age.",
       bathing:
-        "Bathe when needed with a dog-appropriate shampoo, rinse thoroughly, and gently dry and comb the coat to reduce tangling. A long coat or show-style lion clip may need more regular professional maintenance.",
+        "Bathe every two to four weeks with a gentle dog shampoo and conditioner, drying and combing the coat without sculpting or artificially parting the mane.",
       notes: [
-        "Plan regular coat trimming or professional grooming if maintaining the lion clip.",
-        "Check the skin beneath long hair for tangles, irritation, or trapped debris.",
-        "Inspect the ears regularly and clean only when needed with a dog-safe product.",
-        "Trim nails as required and check paws routinely.",
-        "Brush teeth with dog-specific toothpaste and arrange routine dental checks.",
-        "Introduce brushing, bathing, and clipping gradually so grooming becomes a familiar routine.",
+        "Refresh the traditional lion clip—or an even, easy-care companion puppy cut—every four to eight weeks.",
+        "Keep hair around the eyes tidy to prevent ocular irritation and tear staining.",
+        "Inspect and clean the fringed pendant ears weekly to prevent trapped moisture or wax buildup.",
+        "Trim nails regularly and keep the feet neatly clipped and free of matting between the toes.",
       ],
     },
     training: {
       difficulty:
-        "Usually responsive to positive training; consistency is important to prevent excessive barking and unwanted habits.",
+        "Easy to moderate; learns rapidly and enjoys mental challenges, though its cleverness and occasional independent streak call for clear, consistent boundaries.",
       tips: [
-        "Use rewards, play, and short training sessions.",
-        "Teach calm greetings and a reliable response to household sounds.",
-        "Reward quiet behaviour rather than repeatedly shouting at barking.",
-        "Practise recall and lead manners from an early age.",
-        "Provide mental enrichment as well as physical activity.",
-        "Use gentle handling and avoid harsh corrections.",
+        "Use upbeat, reward-based training with varied games so this quick-learning breed does not invent creative shortcuts during repetitive drills.",
+        "Avoid inadvertently rewarding demand barking or excited vocal chattering with attention or treats.",
+        "Establish gentle household rules early so the dog's bold, self-assured personality remains polite and cooperative.",
+        "Channel problem-solving curiosity into trick training, agility obstacles, rally courses, or scent games.",
       ],
       socialization:
-        "Introduce the puppy gradually and positively to different people, dogs, surfaces, sounds, handling, and everyday environments. Reward calm behaviour and allow the dog to approach new experiences at a comfortable pace. Continue practising polite greetings and settling skills throughout adulthood.",
+        "Introduce puppies steadily to diverse people, children, other dogs, grooming handling, and household noises from an early age, while gradually conditioning calm comfort during brief periods alone.",
     },
     livingEnvironment: {
       apartmentSuitable: true,
       houseWithYardSuitable: true,
       climates: [
-        "Provide shade, fresh water, and ventilation in warm weather.",
-        "Protect the dog from temperature extremes and adjust activity to conditions.",
-        "A long coat requires regular maintenance to prevent tangles and trapped debris.",
+        "Thrives in temperate indoor environments as a close household companion.",
+        "Dogs clipped in the traditional lion trim have exposed skin over the hindquarters and need a warm sweater or coat in cold or wet weather, as well as sun protection and shade in hot weather.",
       ],
-      aloneTimeTolerance: null,
+      aloneTimeTolerance:
+        "Low to moderate; bred for centuries specifically for human companionship and happiest when included in daily household routines, so prolonged isolation can trigger vocalizing or boredom unless accustomed gradually.",
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate to the dog's life stage, body condition, activity, and individual health needs.",
+      "Complete, nutrient-dense small-breed canine diet appropriate for the dog's life stage, activity level, and body condition.",
     feedingFrequency: {
       puppy:
-        "Puppies usually need several small, measured meals each day. Adjust the schedule to age, growth, the food's directions, and veterinary advice.",
+        "Feed three to four small measured meals daily to support steady growth and stable blood glucose in a small-breed puppy.",
       adult:
-        "Two measured meals per day can be a practical routine; portion size should reflect body condition, activity, and food energy density.",
+        "Feed two measured meals daily, adjusting portion sizes to activity level and body condition.",
       senior:
-        "Adjust the diet and portions to activity, body condition, dental health, appetite, and medical needs with veterinary guidance.",
+        "Feed two easily digestible measured meals daily formulated for senior small-breed metabolism and joint maintenance.",
     },
     guidelines:
-      "Measure food portions and monitor body condition rather than relying only on package estimates. Small dogs can gain excess weight when treats are frequent or portions are not adjusted. Provide fresh water at all times, count training treats in the daily allowance, and ask a veterinarian for individual guidance if weight or digestion changes.",
+      "Measure daily rations carefully, account for training treats within total daily calories, and provide continuous access to clean, fresh water.",
     considerations: [
-      "Use a complete diet appropriate for the dog's life stage.",
-      "Monitor body condition and adjust portions when activity changes.",
-      "Count treats and chews as part of daily food intake.",
-      "Avoid supplements or therapeutic diets unless there is a clear reason and veterinary guidance.",
-      "Discuss persistent dental, digestive, appetite, or weight concerns with a veterinarian.",
+      "Small-sized kibble suits the breed's compact jaw and dentition.",
+      "Maintain a lean, well-muscled body condition so excess weight does not place added mechanical strain on the patellae, hips, or intervertebral discs.",
+      "Transition between foods gradually over five to seven days to avoid gastrointestinal upset.",
     ],
     note:
-      "This is general canine nutrition guidance, not a breed-specific calorie prescription.",
+      "Individual caloric requirements vary with age, metabolism, and sporting activity; consult a veterinarian for personalized feeding advice.",
   },
   health: {
     overview:
-      "The Löwchen is generally described by breed and kennel-club sources as a healthy companion breed, but responsible breeders are advised to screen for certain inherited concerns. These include hip dysplasia, patellar luxation, and eye disorders such as cataracts or progressive retinal atrophy. Screening recommendations identify risks worth managing; they do not mean that every dog will develop these conditions or establish their prevalence in the population.",
+      "The Löwchen is a generally hardy, long-lived small companion breed with a typical life expectancy of 13 to 15 years and relatively few life-threatening breed-specific diseases. Responsible health management centers on orthopedic evaluations of the patellae and hips, annual veterinary ophthalmologist examinations for inherited eye conditions, and DNA screening for chondrodysplasia and chondrodystrophy-associated intervertebral disc disease risk.",
     commonConditions: [
-      "Hip dysplasia is a recognised screening concern.",
-      "Patellar luxation is included in breed-health screening recommendations.",
-      "Eye disorders, including cataracts and progressive retinal atrophy, are discussed in breed-health guidance.",
+      "Patellar Luxation — medial or lateral slippage of the kneecap out of the femoral trochlear groove, causing intermittent skipping lameness or hind-limb discomfort",
+      "Hip Dysplasia — developmental laxity and malformation of the coxofemoral joint that can lead to secondary osteoarthritis and hindquarter stiffness",
+      "Progressive Retinal Atrophy (PRA) — inherited degenerative photoreceptor disorder causing progressive night blindness followed by loss of daylight vision",
+      "Hereditary Cataracts — lens opacities that can develop in young or adult dogs and impair vision if extensive",
+      "Chondrodystrophy with Intervertebral Disc Disease Risk (CDDY with IVDD) and Chondrodysplasia (CDPA) — FGF4 retrogene insertions on chromosomes 12 and 18 identified in the breed's DNA testing profile; the chromosome 12 insertion predisposes intervertebral discs to premature calcification and herniation",
     ],
     preventiveCare: [
-      "Arrange routine veterinary examinations and maintain vaccination and parasite prevention appropriate to local risk.",
-      "Maintain a healthy body condition and age-appropriate exercise.",
-      "Ask breeders for documented parental health-screening results.",
-      "Seek veterinary advice for persistent lameness, eye changes, repeated slipping of a hind limb, or sustained changes in appetite or behaviour.",
-      "Keep up with dental care and coat maintenance, which are important parts of routine care for a small, long-coated dog.",
+      "Select puppies from parents with documented orthopedic clearances for patellar luxation and hip dysplasia as well as current veterinary ophthalmologist eye examination certificates.",
+      "Maintain lean body weight and provide non-slip flooring or ramps where needed to reduce mechanical stress on the knees, hips, and spine.",
+      "Keep facial hair around the eyes clean and neatly managed to prevent corneal irritation.",
+      "Provide routine vaccinations, parasite prevention, weekly ear checks, and consistent home and veterinary dental care.",
     ],
     recommendedScreenings: [
-      "Hip dysplasia evaluation",
-      "Patellar luxation evaluation",
-      "Eye examination by a qualified veterinary ophthalmologist",
-      "Ask the breeder and veterinarian whether any additional testing is appropriate for the dog's family line",
+      "Patellar Luxation Evaluation (veterinary orthopedic physical examination of the stifle joints prior to breeding)",
+      "Hip Dysplasia Radiographic Evaluation (extended-hip radiographic screening prior to breeding)",
+      "Annual Ophthalmologist Evaluation by a board-certified veterinary ophthalmologist (screening for progressive retinal atrophy, cataracts, and eyelid conformation)",
+      "DNA Testing for Intervertebral Disc Disease Risk Factor and Chondrodystrophy (CDDY with IVDD) and Chondrodysplasia (CDPA)",
     ],
     dentalCare:
-      "Brush teeth regularly with dog-specific toothpaste. Small dogs can develop dental problems, so have the mouth checked during veterinary visits and seek advice for persistent bad breath, pain, bleeding, or difficulty eating.",
+      "Brush the teeth several times weekly with canine enzymatic toothpaste and schedule periodic professional veterinary dental cleanings, as small breeds are predisposed to plaque accumulation and periodontal disease.",
     earCare:
-      "Check the pendant ears and fringes regularly for tangles, dirt, redness, odour, or discharge. Clean only when needed with a dog-safe product, and consult a veterinarian if discomfort or persistent signs occur.",
+      "Inspect the heavily fringed pendant ears weekly and after baths, keeping the ear canals clean and dry with a veterinarian-recommended cleanser.",
     skinCare:
-      "Inspect the skin while brushing, especially beneath long hair and around the ears, legs, and tail. Persistent itching, sores, unusual hair loss, or recurrent irritation should be assessed by a veterinarian rather than treated as a normal coat issue.",
+      "Part the silky coat down to the skin during regular brushing to check for tangles behind the ears, in the armpits, and around the groin, and protect closely clipped hindquarters from sunburn or winter chill.",
   },
   suitability: {
-    firstTimeOwners: null,
-    familiesWithChildren: null,
-    seniorOwners: null,
+    firstTimeOwners: true,
+    familiesWithChildren: true,
+    seniorOwners: true,
     activeOwners: true,
     apartmentLiving: true,
     idealFor: [
-      "People seeking a small, affectionate companion dog",
-      "Households that can provide daily walks, play, and interaction",
-      "Owners willing to maintain a long coat or arrange professional grooming",
-      "People interested in reward-based training and small-dog activities",
-      "Households that can teach alert barking appropriate limits",
+      "Attentive individuals, couples, seniors, or families seeking an affectionate, people-focused indoor companion",
+      "Apartment or house dwellers who can provide daily walks, interactive play, and regular companionship",
+      "Owners looking for a low-shedding, low-dander small breed who are happy to commit to regular brushing and clipping",
+      "Enthusiasts of positive-reinforcement dog sports such as agility, rally, obedience, flyball, or trick training",
     ],
     notIdealFor: [
-      "People unwilling to maintain a long coat or pay for regular grooming",
-      "Households expecting a dog that never barks to alert",
-      "People unable to provide regular companionship and interaction",
-      "Owners who rely on harsh corrections rather than patient training",
+      "Households that routinely leave a dog alone for long workdays with minimal human interaction",
+      "Owners unwilling to brush a long silky coat multiple times per week or schedule regular grooming trims",
+      "People seeking a completely silent dog who never barks or vocalizes when excited or alerted",
     ],
   },
   funFacts: [
-    "The name Löwchen means 'little lion' in German.",
-    "The traditional lion clip is a defining part of the breed's show presentation.",
-    "The FCI standard describes the coat as long, silky, wavy, and without an undercoat.",
-    "Historical depictions of dogs resembling the Löwchen appear in European art dating back several centuries.",
-    "The breed is classified as a companion dog rather than a working dog.",
+    "In 1969, when only around forty registered individuals survived worldwide, the breed was cited in world records as the rarest dog on earth.",
+    "Both the German name Löwchen and the French name Petit Chien Lion mean 'Little Lion Dog,' referring to the traditional lion trim rather than a fierce temperament.",
+    "Late-eighteenth-century German lore at Weilburg Castle on the Lahn River, a devoted particoloured Löwchen named Bijou leapt sixty feet from a castle window into the river rather than be left behind when his master departed for a hunt; a life-sized 1787 portrait of Bijou still hangs in the castle.",
+    "It is common for a Löwchen's coat to change colour substantially from puppyhood to adulthood, with dark or sable puppies frequently maturing into silver, cream, or pastel shades.",
   ],
   faq: [
     {
-      question: "Where does the Löwchen come from?",
+      question: "Where did the Löwchen originate?",
       answer:
-        "The FCI lists France as the breed's country of origin. Its early history has been debated, and historical depictions of similar dogs appear in several parts of Europe.",
+        "France is recognized internationally as the official country of origin, though pre-Renaissance and Renaissance historical records and artworks trace the breed across France, Germany, Belgium, Spain, and the Mediterranean region.",
     },
     {
-      question: "How big does a Löwchen get?",
+      question: "How big does an adult Löwchen get?",
       answer:
-        "The FCI standard gives a height of 26–32 cm at the withers, with a tolerance of 1 cm above or below that range. The standard describes weight as approximately 6 kg rather than providing separate male and female ranges.",
+        "Adults stand 26 to 32 cm at the withers (with a 1 cm tolerance) and typically weigh between 4 and 8 kg, averaging around 6 kg.",
     },
     {
-      question: "Why is the Löwchen called a Little Lion Dog?",
+      question: "Do Löwchen shed?",
       answer:
-        "The name means 'little lion' in German and refers to the traditional lion clip, which leaves a mane-like coat around the front of the body while the hindquarters are clipped short.",
+        "Their long, silky, wavy single coat is non-shedding and low in dander, making them popular with many allergy-conscious households, though loose hairs caught in the coat must be brushed out regularly to prevent mats.",
     },
     {
-      question: "How long does a Löwchen live?",
+      question: "What is the life expectancy of a Löwchen?",
       answer:
-        "The American Kennel Club lists a life expectancy of 13–15 years. This is a population-level estimate, not a guarantee for an individual dog.",
+        "The Löwchen is a long-lived breed with a typical life expectancy of 13 to 15 years.",
     },
     {
-      question: "Does a Löwchen shed?",
+      question: "Why is the Löwchen clipped to look like a miniature lion?",
       answer:
-        "The breed is often described as low-shedding, but loose hair can still occur. Regular brushing is important because the long coat can tangle or mat.",
+        "The traditional lion clip dates back to pre-Renaissance European courts, where clipping the hindquarters aided hygiene and allowed the warm bare skin to serve as a living bed warmer under blankets while the flowing forequarter mane symbolized leonine courage.",
     },
     {
-      question: "Is the Löwchen easy to train?",
+      question: "Are Löwchen good apartment dogs?",
       answer:
-        "It is intelligent and often responsive to positive training. Early work on recall, calm greetings, and barking helps establish good household habits.",
+        "Yes. Their compact stature and devotion to indoor family life suit apartments very well, provided they receive daily walks, play sessions, and positive training to manage alert vocalizing.",
     },
     {
-      question: "What health checks should I ask a breeder about?",
+      question: "What health screenings are recommended for Löwchen breeding dogs?",
       answer:
-        "Ask for documented hip and patellar evaluations and an eye examination by a qualified veterinary ophthalmologist. Discuss family health history and any additional tests with the breeder and veterinarian.",
+        "Responsible breeders screen breeding stock with orthopedic evaluations for patellar luxation and hip dysplasia, annual veterinary ophthalmologist eye exams, and DNA tests for chondrodystrophy with intervertebral disc disease risk (CDDY with IVDD) and chondrodysplasia (CDPA).",
     },
     {
-      question: "Does a Löwchen need the lion clip?",
+      question: "Does a pet Löwchen have to wear the lion clip?",
       answer:
-        "The FCI standard requires the lion clip for showing under that standard. A companion dog can be kept in a practical pet trim, provided its coat is cared for properly.",
+        "No. Although the traditional lion clip is required in conformation show rings, family companions are frequently kept in a full natural coat or a uniform, easy-care puppy cut.",
     },
   ],
   references: [
     "fci-lowchen-standard",
     "american-kennel-club-lowchen",
+    "akc-lowchen-breed-standard",
+    "royal-kennel-club-lowchen-standard",
+    "ukc-lowchen-standard",
     "lowchen-club-of-america-breed-health",
     "lowchen-club-of-america-about-breed",
+    "lowchen-club-of-america-history",
+    "akc-dna-testing-recommendations",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
+    "the-dog-api",
     "wikimedia-lowchen-ainos",
     "wikimedia-lowchen-jappitoo",
     "wikimedia-lowchen-basil-smile",
-    "wsava-global-nutrition-guidelines",
-    "avma-pet-dental-care",
   ],
   evidence: {
     alternateNames: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "Official standard title and historical name",
+          locator: "Title & Brief Historical Summary, p. 1 (Lowchen, Little Lion Dog, Petit Chien Lion, Bichon Little Lion Dog)",
         },
         {
-          id: "lowchen-club-of-america-about-breed",
+          id: "lowchen-club-of-america-history",
           role: "verified",
-          locator: "Breed names and historical terminology",
+          locator: "About the Breed (Bichon Petit Chien Lion, Little Lion Dog, Löwchen)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Little Lion Dog, Petit Chien Lion)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "Names are historical or translated names for the same breed.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The consulted breed standards do not establish a breed-specific scientific name.",
+      note: "Left null in accordance with catalog convention for domestic dog breeds.",
     },
     group: {
       reliability: "official_standard",
@@ -365,46 +367,146 @@ export const lowchen: Breed = {
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI-Classification, p. 1 (Group 9 Companion and toy dogs, Section 1.3 Bichons and related breeds, Without working trial)",
+        },
+        {
+          id: "american-kennel-club-lowchen",
+          role: "verified",
+          locator: "Breed group (Non-Sporting Group)",
+        },
+        {
+          id: "royal-kennel-club-lowchen-standard",
+          role: "verified",
+          locator: "Breed group (Toy Group)",
+        },
+        {
+          id: "ukc-lowchen-standard",
+          role: "verified",
+          locator: "Breed group (Companion Dog Group)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group (Non-Sporting)",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note: null,
     },
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "Country of origin",
+          locator: "Origin, p. 1 (France)",
+        },
+        {
+          id: "royal-kennel-club-lowchen-standard",
+          role: "verified",
+          locator: "Breed profile (French in origin)",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin (France/Germany)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "The modern FCI standard lists France; the breed's earlier geographical history has been debated.",
+      verifiedOn: "2026-10-26",
+      note: "FCI Standard No. 233 designates France as the official country of origin, while historical accounts also note early development in Germany, Belgium, Spain, and the Mediterranean.",
     },
     "origin.region": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No specific region of origin is established reliably enough to record.",
-    },
-    overview: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "Historical summary, utilisation, appearance, and temperament",
+          locator: "Brief Historical Summary, p. 1 (Amiens, court of Burgundy, France)",
+        },
+        {
+          id: "ukc-lowchen-standard",
+          role: "verified",
+          locator: "History (Europe, specifically Spain, France and Germany)",
+        },
+        {
+          id: "lowchen-club-of-america-history",
+          role: "verified",
+          locator: "About the Breed (France, Germany, Mediterranean region)",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: null,
+    },
+    "overview.summary": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-lowchen-standard",
+          role: "verified",
+          locator: "Utilization, Classification, General Appearance & Behaviour/Temperament, pp. 1–2",
+        },
+        {
+          id: "akc-lowchen-breed-standard",
+          role: "verified",
+          locator: "General Appearance, Coat (Lion Clip) & Temperament",
         },
         {
           id: "lowchen-club-of-america-about-breed",
           role: "verified",
-          locator: "Breed history and characteristics",
+          locator: "What is a Lowchen? & Sturdy and Agile",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "Descriptions are original paraphrases of the cited material.",
+      verifiedOn: "2026-10-26",
+      note: null,
+    },
+    "overview.description": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-lowchen-standard",
+          role: "verified",
+          locator: "General Appearance, Important Proportions, Head, Body, Tail, Gait & Coat, pp. 1–4",
+        },
+        {
+          id: "akc-lowchen-breed-standard",
+          role: "verified",
+          locator: "Size, Proportion, Substance, Head, Neck/Topline/Body, Coat & Gait",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: null,
+    },
+    "overview.history": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-lowchen-standard",
+          role: "verified",
+          locator: "Brief Historical Summary, p. 1 (13th-century Amiens Cathedral, 15th-century tapestries, court of Burgundy, Buffon, Linnaeus, 1947 French club)",
+        },
+        {
+          id: "lowchen-club-of-america-history",
+          role: "verified",
+          locator: "About the Breed, A Breed Symbolic of Courage, The Why of the Lion Cut & Madame Bennert's Mission (1897 purchase from Maximillian de Conick, post-1940s rescue with Dr. Hans Rickert's Von den Drei Löwen kennel, 1968 UK and 1971 US imports)",
+        },
+        {
+          id: "american-kennel-club-lowchen",
+          role: "verified",
+          locator: "History (Dürer and Goya artworks, Madame Madelaine Bennert and Dr. Hans Rickert)",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.history",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "overview.originalPurpose": {
       reliability: "official_standard",
@@ -412,47 +514,50 @@ export const lowchen: Breed = {
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "Utilisation",
+          locator: "Utilization, p. 1 (Companion dog)",
+        },
+        {
+          id: "lowchen-club-of-america-history",
+          role: "verified",
+          locator: "A Breed Particularly favored by Aristocracy and Royalty & The Why of the Lion Cut",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "The standard identifies the breed as a companion dog.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "overview.currentRoles": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "lowchen-club-of-america-about-breed",
+          role: "verified",
+          locator: "Sturdy and Agile (obedience, agility, flyball, rally) & Almost Too Smart (barn hunt)",
+        },
+        {
           id: "american-kennel-club-lowchen",
           role: "verified",
-          locator: "Exercise, training, and modern companion activities",
+          locator: "About the Breed & Exercise (companion, agility, obedience)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "These are possible activities and roles, not a claim that every individual dog performs each one.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
-    physical: {
+    "physical.sizeCategory": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "General appearance, proportions, coat, colour, size, and weight",
+          locator: "General Appearance ('A small intelligent dog'), p. 1 & Size and Weight (26–32 cm, ~6 kg), p. 5",
         },
-      ],
-      verifiedOn: "2026-10-21",
-      note: "Physical descriptions follow the FCI standard unless a more specific claim is provided.",
-    },
-    "physical.sizeCategory": {
-      reliability: "estimate",
-      sources: [
         {
-          id: "fci-lowchen-standard",
-          role: "cited",
-          locator: "Height at the withers",
+          id: "akc-lowchen-breed-standard",
+          role: "verified",
+          locator: "General Appearance ('A small, bright, and lively dog')",
         },
       ],
-      verifiedOn: null,
-      note: "Small is an app category inferred from the standard's measurements.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "physical.height": {
       reliability: "official_standard",
@@ -460,17 +565,73 @@ export const lowchen: Breed = {
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "Size: height at the withers and tolerance",
+          locator: "Size and Weight, p. 5 — Height: 26 to 32 cm at the withers, with a tolerance of +/- 1 cm",
+        },
+        {
+          id: "royal-kennel-club-lowchen-standard",
+          role: "verified",
+          locator: "Size — Height at withers 25–33 cms (10–13 ins)",
+        },
+        {
+          id: "akc-lowchen-breed-standard",
+          role: "verified",
+          locator: "Size — Ideally 11 to 13 inches at the withers (±1 inch tolerance)",
+        },
+        {
+          id: "american-kennel-club-lowchen",
+          role: "verified",
+          locator: "Height — 12–14 inches",
+        },
+        {
+          id: "ukc-lowchen-standard",
+          role: "verified",
+          locator: "Height & Weight — Preferred height range 10 to 12 inches at the withers",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric: 30 - 36 cm (12 - 14 in)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "The standard gives one height range rather than separate male and female ranges; the same range is stored for both sexes.",
+      verifiedOn: "2026-10-26",
+      note: "Recorded in the exact published FCI Standard No. 233 range of 26–32 cm for both sexes (±1 cm tolerance, matching the Royal Kennel Club's 25–33 cm and the AKC standard's 11–13 in ±1 in). The Dog API's 30–36 cm range reflects a rounded conversion of the AKC profile summary (12–14 in) and is logged as conflicting.",
     },
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "The FCI standard gives an approximate weight of 6 kg rather than a sex-specific range, so the numeric range fields are left null rather than inventing min–max bounds. The approximate value is explained in the FAQ.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "lowchen-club-of-america-history",
+          role: "verified",
+          locator: "General Breed Characteristics — Appearance: typically weighing 4–8 kg and standing 25–33 cm tall",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: 4 - 8 kg",
+        },
+        {
+          id: "fci-lowchen-standard",
+          role: "verified",
+          locator: "Size and Weight, p. 5 — Weight: 6 kgs approximately",
+        },
+        {
+          id: "american-kennel-club-lowchen",
+          role: "verified",
+          locator: "Weight — 15 pounds",
+        },
+        {
+          id: "ukc-lowchen-standard",
+          role: "verified",
+          locator: "Height & Weight — Approximate weight is 13 pounds",
+        },
+        {
+          id: "lowchen-club-of-america-about-breed",
+          role: "verified",
+          locator: "Sturdy and Agile — typically fall into the 10–17 lb range",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: "Populated with the 4–8 kg range published by The Löwchen Club of America (and matched in The Dog API), whose midpoint equals the FCI Standard No. 233 benchmark ('6 kgs approximately') and aligns with UKC ('13 pounds') and AKC ('15 pounds').",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -478,16 +639,16 @@ export const lowchen: Breed = {
         {
           id: "american-kennel-club-lowchen",
           role: "verified",
-          locator: "Average life expectancy",
+          locator: "Life Expectancy — 13–15 years",
         },
         {
-          id: "lowchen-club-of-america-about-breed",
+          id: "lowchen-club-of-america-history",
           role: "verified",
-          locator: "General breed characteristics and lifespan",
+          locator: "Health and Care — lifespan of 13 to 15 years",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "The 13–15 year range is a published life-expectancy estimate, not a guarantee for an individual dog.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "physical.coatType": {
       reliability: "official_standard",
@@ -495,10 +656,20 @@ export const lowchen: Breed = {
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "Coat: hair texture and undercoat",
+          locator: "General Appearance, p. 2 & Coat/Hair, p. 4 (silky, long, wavy, dense; without undercoat; obligatory lion clip)",
+        },
+        {
+          id: "akc-lowchen-breed-standard",
+          role: "verified",
+          locator: "Coat — hairs of varying diameters, slightly to moderately wavy, Lion Clip clipped to ~1/8 inch",
+        },
+        {
+          id: "ukc-lowchen-standard",
+          role: "verified",
+          locator: "Coat & Trim — Silky, long, dense and wavy, without undercoat; Lion Trim specifications",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note: null,
     },
     "physical.coatLength": {
@@ -507,11 +678,16 @@ export const lowchen: Breed = {
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "General appearance and coat clip",
+          locator: "Coat/Hair, p. 4 (long, silky, wavy)",
+        },
+        {
+          id: "akc-lowchen-breed-standard",
+          role: "verified",
+          locator: "Coat & Lion Clip",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "The show clip is described separately from the natural coat.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "physical.coatColors": {
       reliability: "official_standard",
@@ -519,11 +695,31 @@ export const lowchen: Breed = {
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "Colour",
+          locator: "Colour, p. 4 (All colours and combinations of colours are permitted)",
+        },
+        {
+          id: "akc-lowchen-breed-standard",
+          role: "verified",
+          locator: "Color (All colors and color combinations are acceptable with no preference given to any)",
+        },
+        {
+          id: "royal-kennel-club-lowchen-standard",
+          role: "verified",
+          locator: "Colour (Any colour or combination of colours, except merle which is unacceptable)",
+        },
+        {
+          id: "ukc-lowchen-standard",
+          role: "verified",
+          locator: "Color (All colors and color combinations acceptable; Disqualification: Albinism)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (includes 'Merle', which is explicitly unacceptable under the Royal Kennel Club standard)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "The FCI standard permits all colours and combinations; the list gives examples rather than an exhaustive registry-specific colour taxonomy.",
+      verifiedOn: "2026-10-26",
+      note: "All solid colours and combinations are accepted under FCI, AKC, and UKC standards (with albinism disqualified by UKC and merle explicitly excluded by the Royal Kennel Club). The Dog API's inclusion of 'Merle' in its generic species colour dump is logged as conflicting.",
     },
     "physical.sheddingLevel": {
       reliability: "reliable_source",
@@ -531,22 +727,38 @@ export const lowchen: Breed = {
         {
           id: "american-kennel-club-lowchen",
           role: "verified",
-          locator: "Breed description and coat care",
+          locator: "Shedding Level (1/5 — No Shedding) & Grooming",
         },
         {
           id: "lowchen-club-of-america-about-breed",
           role: "verified",
-          locator: "Coat and care",
+          locator: "What is a Lowchen? & Easy, Breezy Coat (non-shedding)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "Low-shedding is a qualitative breed description, not a measured shedding rate or a guarantee that the breed will not trigger allergies.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "physical.droolingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No reliable breed-specific drooling level was established.",
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "american-kennel-club-lowchen",
+          role: "verified",
+          locator: "Drooling Level (1/5 — Less Likely to Drool)",
+        },
+        {
+          id: "akc-lowchen-breed-standard",
+          role: "verified",
+          locator: "Head (The lips are tight)",
+        },
+        {
+          id: "ukc-lowchen-standard",
+          role: "verified",
+          locator: "Muzzle (tight lips)",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "physical.distinctiveFeatures": {
       reliability: "official_standard",
@@ -554,28 +766,48 @@ export const lowchen: Breed = {
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "General appearance, head, ears, tail, and coat",
+          locator: "General Appearance, Important Proportions, Head, Body, Tail & Coat, pp. 1–4",
+        },
+        {
+          id: "akc-lowchen-breed-standard",
+          role: "verified",
+          locator: "General Appearance, Head, Neck/Topline/Body & Coat (Lion Clip)",
+        },
+        {
+          id: "ukc-lowchen-standard",
+          role: "verified",
+          locator: "Head, Ears, Body, Tail & Trim",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note: null,
     },
-    temperament: {
-      reliability: "reliable_source",
+    "temperament.traits": {
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "Behaviour and temperament",
+          locator: "General Appearance & Behaviour/Temperament, pp. 1–2",
         },
         {
-          id: "american-kennel-club-lowchen",
+          id: "akc-lowchen-breed-standard",
           role: "verified",
-          locator: "Temperament, alertness, and training",
+          locator: "Temperament (alert, intelligent, affectionate, lively, outgoing, inquisitive)",
+        },
+        {
+          id: "lowchen-club-of-america-about-breed",
+          role: "verified",
+          locator: "Almost Too Smart, Independent Streak, Opinionated with a Passion & Furry Clowns",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament (Affectionate, outgoing, playful, intelligent, alert)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "Traits describe typical breed tendencies and do not guarantee an individual dog's behaviour.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -583,175 +815,187 @@ export const lowchen: Breed = {
         {
           id: "american-kennel-club-lowchen",
           role: "cited",
-          locator: "Breed traits and temperament",
+          locator: "Trait ratings (Affectionate With Family 5/5, Good With Young Children 4/5, Good With Other Dogs 4/5, Openness To Strangers 4/5, Watchdog/Protective Nature 3/5, Trainability Level 4/5, Energy Level 3/5, Barking Level 3/5)",
         },
         {
           id: "lowchen-club-of-america-about-breed",
           role: "cited",
-          locator: "General breed characteristics",
+          locator: "Independent Streak, Opinionated with a Passion & Tenacious Nerves",
         },
       ],
       verifiedOn: null,
-      note: "Scores are editorial estimates on a 1–5 scale, not standardised behavioural measurements.",
+      note: "1–5 scores are editorial estimates informed by AKC trait ratings and Löwchen Club of America temperament descriptions.",
     },
-    care: {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "american-kennel-club-lowchen",
-          role: "cited",
-          locator: "Grooming, exercise, training, and nutrition",
-        },
-      ],
-      verifiedOn: null,
-      note: "Care instructions are general guidance adapted to the breed's size, coat, and reported temperament.",
-    },
-    "care.exercise.level": {
+    "care.exercise": {
       reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-lowchen",
           role: "verified",
-          locator: "Exercise and activity recommendations",
+          locator: "Energy Level (3/5 — Regular Exercise) & Exercise section",
+        },
+        {
+          id: "lowchen-club-of-america-about-breed",
+          role: "verified",
+          locator: "Sturdy and Agile (obedience, agility, flyball, rally) & Almost Too Smart (barn hunt)",
+        },
+        {
+          id: "lowchen-club-of-america-history",
+          role: "verified",
+          locator: "Health and Care (require moderate exercise)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "Moderate is a qualitative activity category, not a measured daily requirement.",
-    },
-    "care.exercise.minutesPerDay": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "The consulted sources do not establish a universal daily exercise-minute target for all Löwchen.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "care.grooming": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-lowchen",
-          role: "verified",
-          locator: "Grooming requirements and coat trimming",
-        },
-        {
           id: "lowchen-club-of-america-about-breed",
           role: "verified",
-          locator: "Coat and care",
+          locator: "Easy, Breezy Coat (brushing every few days for companion cuts, adolescent coat change around 1 year old, show coat care)",
+        },
+        {
+          id: "american-kennel-club-lowchen",
+          role: "verified",
+          locator: "Grooming (brushing, bathing, lion clip maintenance, nail and ear care)",
+        },
+        {
+          id: "akc-lowchen-breed-standard",
+          role: "verified",
+          locator: "Coat — Lion Clip specifications",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "Grooming frequency varies with coat length, clip style, and individual coat condition.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "care.training": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "lowchen-club-of-america-about-breed",
+          role: "verified",
+          locator: "Almost Too Smart, Independent Streak, Opinionated with a Passion & Tenacious Nerves",
+        },
+        {
           id: "american-kennel-club-lowchen",
           role: "verified",
-          locator: "Training and barking",
+          locator: "Trainability Level (4/5) & Training section",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "The training assessment is qualitative and not a formal performance rating.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
-    "care.training.tips": {
-      reliability: "general_guidance",
+    "care.livingEnvironment": {
+      reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-lowchen",
-          role: "cited",
-          locator: "Positive training and alert barking",
+          id: "fci-lowchen-standard",
+          role: "verified",
+          locator: "Behaviour/Temperament, p. 2 (at ease in all circumstances; capable of being calm and discreet on command) & Coat/Hair, p. 4 (without undercoat)",
         },
-      ],
-      verifiedOn: null,
-      note: "These are practical training suggestions, not guarantees of behaviour.",
-    },
-    "care.training.socialization": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "Socialisation advice is general canine behavioural guidance.",
-    },
-    "care.livingEnvironment.apartmentSuitable": {
-      reliability: "estimate",
-      sources: [
+        {
+          id: "lowchen-club-of-america-about-breed",
+          role: "verified",
+          locator: "Sturdy and Agile & Independent Streak (designed for companionship, extremely attuned to their people)",
+        },
         {
           id: "american-kennel-club-lowchen",
-          role: "cited",
-          locator: "Small companion-dog characteristics and exercise needs",
+          role: "verified",
+          locator: "Adaptability Level (4/5)",
         },
       ],
-      verifiedOn: null,
-      note: "Apartment suitability is an estimate based on size and typical activity needs; barking, training, and individual temperament matter.",
-    },
-    "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "A secure yard can provide additional play space but does not replace walks, training, and companionship.",
-    },
-    "care.livingEnvironment.climates": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "Climate advice is general dog-care guidance, not a claim of measured breed-specific climate tolerance.",
-    },
-    "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No reliable breed-specific alone-time tolerance value was established.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     nutrition: {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "wsava-global-nutrition-guidelines",
-          role: "cited",
-          locator: "Nutritional assessment and individualised feeding guidance",
-        },
-      ],
-      verifiedOn: null,
-      note: "Nutrition advice is general guidance and should be adapted to the individual dog.",
-    },
-    health: {
       reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-lowchen",
           role: "verified",
-          locator: "Health and recommended health tests",
+          locator: "Nutrition (high-quality diet appropriate to life stage, calorie and weight monitoring, fresh water)",
         },
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "verified",
+          locator: "Global Nutrition Guidelines for life-stage feeding and body condition management",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: "Combines AKC Löwchen nutrition guidance with WSAVA veterinary life-stage feeding recommendations.",
+    },
+    "health.overview": {
+      reliability: "reliable_source",
+      sources: [
         {
           id: "lowchen-club-of-america-breed-health",
           role: "verified",
-          locator: "Breed-specific recommended health screenings",
+          locator: "Breed Health & CHIC Recommended Health Tests (ACVO Eye Exam, Hip Dysplasia, Patellar Luxation)",
+        },
+        {
+          id: "lowchen-club-of-america-about-breed",
+          role: "verified",
+          locator: "Strong like Ox (relatively free of health maladies; patella exams, yearly eye exams, hip conformation)",
+        },
+        {
+          id: "american-kennel-club-lowchen",
+          role: "verified",
+          locator: "Health (Life Expectancy 13–15 years; Patella Evaluation, Hip Evaluation, Ophthalmologist Evaluation)",
+        },
+        {
+          id: "akc-dna-testing-recommendations",
+          role: "verified",
+          locator: "Löwchen — Other DNA Tests Identified in Breed: Chondrodysplasia (CDPA) and Intervertebral Disc Disease Risk Factor and Chondrodystrophy (CDDY with IVDD)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "Health concerns are presented as reported screening risks, not as prevalence estimates or predictions for an individual dog.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "lowchen-club-of-america-breed-health",
+          role: "verified",
+          locator: "Löwchen recommended health tests (ACVO Eye Exam, Hip Dysplasia, Patellar Luxation)",
+        },
+        {
+          id: "lowchen-club-of-america-history",
+          role: "verified",
+          locator: "Health and Care (Common health concerns include hip dysplasia, luxating patella, and progressive retinal atrophy)",
+        },
+        {
           id: "american-kennel-club-lowchen",
           role: "verified",
-          locator: "Health concerns and recommended tests",
+          locator: "Health (cataracts, progressive retinal atrophy, patellar luxation, hip dysplasia)",
         },
+        {
+          id: "akc-dna-testing-recommendations",
+          role: "verified",
+          locator: "Löwchen — Chondrodysplasia (CDPA) and Intervertebral Disc Disease Risk Factor and Chondrodystrophy (CDDY with IVDD)",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: null,
+    },
+    "health.preventiveCare": {
+      reliability: "reliable_source",
+      sources: [
         {
           id: "lowchen-club-of-america-breed-health",
           role: "verified",
-          locator: "Hip, patella, and eye screening recommendations",
+          locator: "Breed Health & CHIC protocol",
+        },
+        {
+          id: "american-kennel-club-lowchen",
+          role: "verified",
+          locator: "Health & Grooming sections",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "These are health concerns identified by breed-health sources; this list does not claim population prevalence.",
-    },
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "Preventive-care advice is general guidance and does not replace a veterinary care plan.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "health.recommendedScreenings": {
       reliability: "reliable_source",
@@ -759,158 +1003,139 @@ export const lowchen: Breed = {
         {
           id: "lowchen-club-of-america-breed-health",
           role: "verified",
-          locator: "Recommended health tests: ACVO eye exam, hip dysplasia, and patellar luxation",
+          locator: "CHIC Recommended Health Tests — ACVO Eye Exam, Hip Dysplasia, Patellar Luxation",
         },
         {
           id: "american-kennel-club-lowchen",
           role: "verified",
-          locator: "Recommended health tests from the national breed club",
+          locator: "Recommended Health Tests from the National Breed Club — Patella Evaluation, Hip Evaluation, Ophthalmologist Evaluation",
+        },
+        {
+          id: "akc-dna-testing-recommendations",
+          role: "verified",
+          locator: "Löwchen — Other DNA Tests Identified in Breed: CDPA and CDDY with IVDD",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "Confirm current recommendations and the applicable testing programme with the breed club and veterinarian.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "health.dentalCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "avma-pet-dental-care",
-          role: "cited",
-          locator: "Preventive dental care",
+          role: "verified",
+          locator: "Pet Dental Care preventive brushing and veterinary cleaning guidelines",
+        },
+        {
+          id: "american-kennel-club-lowchen",
+          role: "verified",
+          locator: "Grooming & Health sections",
         },
       ],
-      verifiedOn: null,
-      note: "General veterinary dental guidance, not a breed-specific medical claim.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "health.earCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "Routine ear-care advice is general dog-care guidance.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-lowchen",
+          role: "verified",
+          locator: "Grooming (check and clean ears regularly)",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "Routine skin and coat checks are general dog-care guidance.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "lowchen-club-of-america-about-breed",
+          role: "verified",
+          locator: "Easy, Breezy Coat (preventing matting during coat change and maintaining clipped and unclipped areas)",
+        },
+        {
+          id: "american-kennel-club-lowchen",
+          role: "verified",
+          locator: "Grooming section",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     suitability: {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "american-kennel-club-lowchen",
-          role: "cited",
-          locator: "Size, exercise, grooming, and temperament",
-        },
-      ],
-      verifiedOn: null,
-      note: "Suitability guidance is an editorial estimate based on typical breed characteristics and is not a guarantee for an individual dog.",
-    },
-    "suitability.firstTimeOwners": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "A universal first-time-owner suitability label cannot be established; experience, time, and grooming support vary.",
-    },
-    "suitability.familiesWithChildren": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Family suitability depends on the individual dog, children's ages, supervision, and household circumstances.",
-    },
-    "suitability.seniorOwners": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "A universal senior-owner suitability label is not established by the consulted sources.",
-    },
-    "suitability.activeOwners": {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "american-kennel-club-lowchen",
-          role: "cited",
-          locator: "Exercise, walks, and suitable activities",
-        },
-      ],
-      verifiedOn: null,
-      note: "This is a practical owner-fit estimate, not a formal breed rating.",
-    },
-    "suitability.apartmentLiving": {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "american-kennel-club-lowchen",
-          role: "cited",
-          locator: "Small companion-dog characteristics and exercise needs",
-        },
-      ],
-      verifiedOn: null,
-      note: "Apartment living may work if exercise, training, grooming, and barking are managed.",
-    },
-    "suitability.idealFor": {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "american-kennel-club-lowchen",
-          role: "cited",
-          locator: "Companion temperament, grooming, and activity",
-        },
-      ],
-      verifiedOn: null,
-      note: "These are practical owner-fit suggestions, not guarantees of individual temperament.",
-    },
-    "suitability.notIdealFor": {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "american-kennel-club-lowchen",
-          role: "cited",
-          locator: "Grooming, barking, and companionship needs",
-        },
-      ],
-      verifiedOn: null,
-      note: "These are practical ownership considerations, not a formal behavioural assessment.",
-    },
-    funFacts: {
       reliability: "reliable_source",
       sources: [
         {
           id: "fci-lowchen-standard",
           role: "verified",
-          locator: "Historical summary, coat, and utilisation",
+          locator: "Behaviour/Temperament, p. 2 (Very affectionate and obedient with its masters, attentive and receptive, at ease in all circumstances)",
         },
         {
           id: "lowchen-club-of-america-about-breed",
           role: "verified",
-          locator: "Breed history and name",
-        },
-      ],
-      verifiedOn: "2026-10-21",
-      note: "Facts are paraphrased from breed standards and historical references.",
-    },
-    faq: {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-lowchen-standard",
-          role: "verified",
-          locator: "Origin, classification, size, weight, coat, and colour",
+          locator: "What is a Lowchen?, Sturdy and Agile, Opinionated with a Passion & Easy, Breezy Coat",
         },
         {
           id: "american-kennel-club-lowchen",
           role: "verified",
-          locator: "Life expectancy, grooming, health, exercise, and training",
+          locator: "About the Breed, Temperament, Adaptability & Grooming",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: null,
+    },
+    funFacts: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-lowchen-standard",
+          role: "verified",
+          locator: "Title & Brief Historical Summary, p. 1",
+        },
+        {
+          id: "lowchen-club-of-america-history",
+          role: "verified",
+          locator: "About the Breed & The Legend of Bijou (1787 portrait at Weilburg Castle)",
+        },
+        {
+          id: "lowchen-club-of-america-about-breed",
+          role: "verified",
+          locator: "What is a Lowchen? (common for Löwchen to change colors throughout their lives)",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: null,
+    },
+    faq: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-lowchen-standard",
+          role: "verified",
+          locator: "Origin, Brief Historical Summary, General Appearance (obligatory lion clip for showing), Coat & Size and Weight (26–32 cm ±1 cm, ~6 kg), pp. 1–2, 4–5",
+        },
+        {
+          id: "lowchen-club-of-america-history",
+          role: "verified",
+          locator: "About the Breed, The Why of the Lion Cut, General Breed Characteristics (4–8 kg) & Health and Care (13–15 years)",
         },
         {
           id: "lowchen-club-of-america-breed-health",
           role: "verified",
-          locator: "Breed-specific health screening recommendations",
+          locator: "Löwchen recommended health tests (ACVO Eye Exam, Hip Dysplasia, Patellar Luxation)",
+        },
+        {
+          id: "akc-dna-testing-recommendations",
+          role: "verified",
+          locator: "Löwchen — CDPA and CDDY with IVDD",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "Answers are paraphrased and distinguish published estimates from breed-standard measurements.",
+      verifiedOn: "2026-10-26",
+      note: null,
     },
   },
-  updatedOn: "2026-10-21",
+  updatedOn: "2026-10-26",
 };
