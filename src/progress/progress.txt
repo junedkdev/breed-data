@@ -96,8 +96,7 @@
 92:toy_fox_terrier - C
 93:sabueso_espanol - C
 94:american_akita - C
-
-95:golden_retriever - R
+95:golden_retriever - C
 
 96:bull_terrier
 97:austrian_pinscher
