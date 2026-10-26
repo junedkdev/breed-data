@@ -101,9 +101,10 @@
 97:austrian_pinscher - C
 98:swedish_lapphund - C
 99:lhasa_apso - C
+100:papillon_and_phalene - C
 
-100:papillon_and_phalene
-101:chien_francais_tricolore
+101:chien_francais_tricolore - R
+
 102:shar_pei
 103:kai_ken
 104:german_longhaired_pointer

@@ -9688,6 +9688,72 @@ export const sources = defineSources({
     accessedOn: "2026-10-26",
     note: "File page identifies Lhasaapso as the author, gives the date 26 December 2011 and specifies CC BY-SA 3.0."
   },
+  "fci-continental-toy-spaniel-standard": {
+    id: "fci-continental-toy-spaniel-standard",
+    name: "FCI Standard No. 77 - Continental Toy Spaniel",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/077g09-en.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Official standard for the Continental Toy Spaniel, including Papillon and Phalène varieties, origin, classification, coat, colour, size and weight."
+  },
+  "american-kennel-club-papillon-standard": {
+    id: "american-kennel-club-papillon-standard",
+    name: "American Kennel Club - Official Papillon Standard",
+    publisher: "American Kennel Club",
+    url: "https://images.akc.org/pdf/breeds/standards/Papillon.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Official breed standard describing the Papillon and drop-eared Phalène variety, including height, appearance, coat and temperament."
+  },
+  "american-kennel-club-papillon": {
+    id: "american-kennel-club-papillon",
+    name: "American Kennel Club - Papillon",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/papillon/",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Breed profile covering typical characteristics, lifespan, grooming, exercise, training and health considerations."
+  },
+  "papillon-club-of-america-health-statement": {
+    id: "papillon-club-of-america-health-statement",
+    name: "Papillon Club of America - Health Statement",
+    publisher: "Papillon Club of America",
+    url: "https://cdn.akc.org/Marketplace/Health-Statement/Papillon.pdf",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: "2016-07-12",
+    accessedOn: "2026-10-26",
+    note: "Parent-club health statement covering longevity and recommended eye, patella and cardiac evaluations for breeding dogs."
+  },
+  "vca-papillon-breed-profile": {
+    id: "vca-papillon-breed-profile",
+    name: "VCA Animal Hospitals - Papillon",
+    publisher: "VCA Animal Hospitals",
+    url: "https://vcahospitals.com/know-your-pet/papillon",
+    type: "veterinary",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Veterinary breed profile covering lifespan, grooming, exercise, training, dental care and potential health concerns."
+  },
+  "commons-phalen-papillon-with-drop-ears": {
+    id: "commons-phalen-papillon-with-drop-ears",
+    name: "Wikimedia Commons - Papillon with drop ears.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Papillon_with_drop_ears.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Original file page credits Dzhermanotta-royals and specifies Creative Commons Attribution-ShareAlike 4.0 International."
+  },
 });
 
 export type SourceId = keyof typeof sources;
