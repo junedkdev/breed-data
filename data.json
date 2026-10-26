@@ -9325,6 +9325,116 @@
       "publishedOn": null,
       "accessedOn": "2026-10-26",
       "note": "Original file page identifies Canarian as author and specifies CC BY-SA 4.0."
+    },
+    "fci-swedish-lapphund-standard": {
+      "id": "fci-swedish-lapphund-standard",
+      "name": "FCI Standard No. 135 - Swedish Lapphund",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/nomenclature/Standards/135g05-en.pdf",
+      "type": "official_breed_standard",
+      "commercialUse": "reference_only",
+      "publishedOn": "2012-02-22",
+      "accessedOn": "2026-10-26",
+      "note": "Official standard covering origin, history, temperament, coat, colour, and ideal height."
+    },
+    "swedish-kennel-club-swedish-lapphund-en": {
+      "id": "swedish-kennel-club-swedish-lapphund-en",
+      "name": "Swedish Kennel Club - Swedish Lapphund",
+      "publisher": "Svenska Kennelklubben",
+      "url": "https://www.skk.se/en/swedish-dog-breeds/svensk-lapphund/",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "English breed profile covering history, appearance, activity, and alternate names."
+    },
+    "swedish-kennel-club-swedish-lapphund": {
+      "id": "swedish-kennel-club-swedish-lapphund",
+      "name": "Swedish Kennel Club - Svensk lapphund",
+      "publisher": "Svenska Kennelklubben",
+      "url": "https://www.skk.se/hundraser/svensk-lapphund/",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Swedish breed profile covering size, weight, lifespan, and breed-health information."
+    },
+    "ukc-swedish-lapphund-standard": {
+      "id": "ukc-swedish-lapphund-standard",
+      "name": "United Kennel Club - Swedish Lapphund Breed Standard",
+      "publisher": "United Kennel Club",
+      "url": "https://www.ukcdogs.com/breed-standards/swedish-lapphund",
+      "type": "official_breed_standard",
+      "commercialUse": "reference_only",
+      "publishedOn": "2020-01-01",
+      "accessedOn": "2026-10-26",
+      "note": "Official UKC breed standard; revised January 1, 2020."
+    },
+    "commons-swedish-lapphund-canarian-2017": {
+      "id": "commons-swedish-lapphund-canarian-2017",
+      "name": "Wikimedia Commons - Swedish Lapphund.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Swedish_Lapphund.jpg",
+      "type": "other",
+      "commercialUse": "commercial_use",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Original file page credits Canarian and specifies CC BY-SA 4.0 for the photograph."
+    },
+    "fci-lhasa-apso-standard": {
+      "id": "fci-lhasa-apso-standard",
+      "name": "FCI Standard No. 227 - Lhasa Apso",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/Nomenclature/Standards/227g09-en.pdf",
+      "type": "official_breed_standard",
+      "commercialUse": "reference_only",
+      "publishedOn": "2015-06-24",
+      "accessedOn": "2026-10-26",
+      "note": "Official breed standard covering origin, historical background, classification, appearance, temperament, coat, colours, and ideal height."
+    },
+    "american-kennel-club-lhasa-apso": {
+      "id": "american-kennel-club-lhasa-apso",
+      "name": "American Kennel Club - Lhasa Apso",
+      "publisher": "American Kennel Club",
+      "url": "https://www.akc.org/dog-breeds/lhasa-apso/",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Breed profile covering size, lifespan, health concerns, grooming, exercise, training, nutrition, and history."
+    },
+    "american-lhasa-apso-club-faqs": {
+      "id": "american-lhasa-apso-club-faqs",
+      "name": "American Lhasa Apso Club - Frequently Asked Questions",
+      "publisher": "American Lhasa Apso Club",
+      "url": "https://lhasaapso.org/faqs/",
+      "type": "breed_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Parent-club guidance on watchdog barking, hereditary renal dysplasia, temperament, and breed care."
+    },
+    "american-lhasa-apso-club-health-statement": {
+      "id": "american-lhasa-apso-club-health-statement",
+      "name": "American Lhasa Apso Club Health Statement",
+      "publisher": "American Lhasa Apso Club",
+      "url": "https://cdn.akc.org/Marketplace/Health-Statement/Lhasa-Apso.pdf",
+      "type": "breed_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Parent-club health statement listing reported health concerns; it does not establish prevalence or rank conditions by frequency."
+    },
+    "commons-lhasaapso-photo-2011": {
+      "id": "commons-lhasaapso-photo-2011",
+      "name": "Wikimedia Commons - Lhasaapso.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Lhasaapso.jpg",
+      "type": "other",
+      "commercialUse": "commercial_use",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "File page identifies Lhasaapso as the author, gives the date 26 December 2011 and specifies CC BY-SA 3.0."
     }
   },
   "licenses": {
@@ -60255,6 +60365,686 @@
       "updatedOn": "2026-10-25"
     },
     {
+      "slug": "lhasa-apso",
+      "name": "Lhasa Apso",
+      "scientificName": null,
+      "alternateNames": [],
+      "group": "Group 9: Companion and Toy Dogs; Section 5: Tibetan breeds (FCI)",
+      "origin": {
+        "country": "Tibet (China)",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lhasaapso.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Lhasaapso.jpg",
+          "title": "Lhasaapso.jpg",
+          "description": "Lhasa apso dog",
+          "creator": "Lhasaapso",
+          "uploader": "Lhasaapso~commonswiki",
+          "capturedOn": "2011-12-26",
+          "uploadedOn": "2011-12-26",
+          "width": 1200,
+          "height": 800,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Lhasaapso, Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-26"
+        }
+      ],
+      "overview": {
+        "summary": "A small, sturdy Tibetan companion breed known for its long, dense coat, independent nature, and alert watchdog instincts.",
+        "description": "The Lhasa Apso is a compact, rectangular dog with a level back, a heavily furnished head, dark eyes, feathered pendant ears, and a plume-like tail carried over the back. Its long, straight, hard-textured outer coat and moderate undercoat are distinctive features, but the coat requires consistent care to prevent tangles and matting. Lhasa Apsos are generally confident, intelligent, playful with familiar people, and reserved around strangers. Their historic role as indoor sentinels is reflected in their alertness and tendency to announce unfamiliar activity. Although small, they are not simply decorative lap dogs: they benefit from daily walks, mental enrichment, positive training, and respectful handling.",
+        "history": "The Lhasa Apso developed in Tibet, where a hardy coat helped it cope with severe high-altitude conditions. The breed was traditionally kept as an indoor sentinel in homes and religious establishments. The first Lhasa Apsos reached Britain in the early 1920s, where they were initially grouped with other long-coated Asian dogs under broad names such as Lhasa Terrier. Breed distinctions became clearer over time, and a British breed club was established in 1933. The American Kennel Club recognised the breed in 1935.",
+        "originalPurpose": "Indoor watchdog and companion in Tibetan households and religious establishments.",
+        "currentRoles": [
+          "Family companion",
+          "Indoor watchdog",
+          "Companion for households able to maintain its coat",
+          "Participant in obedience, agility, scent work, and other reward-based activities",
+          "Therapy or visiting companion where an individual dog's temperament and training are suitable"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Small",
+        "height": {
+          "unit": "in",
+          "male": {
+            "min": 10,
+            "max": 11
+          },
+          "female": null
+        },
+        "weight": {
+          "unit": "lb",
+          "male": {
+            "min": 12,
+            "max": 18
+          },
+          "female": {
+            "min": 12,
+            "max": 18
+          }
+        },
+        "lifespanYears": {
+          "min": 12,
+          "max": 15
+        },
+        "coatType": "Long, heavy, straight, hard-textured double coat with a moderate undercoat; the top coat should not be woolly or silky.",
+        "coatLength": "Long and abundant, with a fall of hair over the head and eyes, a beard and moustache, heavily feathered ears and legs, and a well-feathered tail. The coat should not impede movement.",
+        "coatColors": [
+          "Golden",
+          "Sandy",
+          "Honey",
+          "Dark grizzle",
+          "Slate",
+          "Smoke",
+          "Parti-colour",
+          "Black",
+          "White",
+          "Brown"
+        ],
+        "sheddingLevel": "Generally low compared with many shedding breeds, but loose hair can remain caught in the long coat. Regular brushing is still essential.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Small, sturdy, well-balanced body that is longer than it is tall",
+          "Long, straight, hard-textured coat with a moderate undercoat",
+          "Heavy facial furnishings, including a moustache and beard",
+          "Dark, medium-sized oval eyes",
+          "Pendant ears covered in long hair",
+          "High-set, well-feathered tail carried over the back, sometimes with a kink near the tip",
+          "Round, cat-like feet with firm pads and feathering",
+          "Alert, self-possessed expression and a confident bearing"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Alert and observant",
+          "Confident and assertive",
+          "Intelligent and capable of independent decision-making",
+          "Playful and entertaining with familiar people",
+          "Often reserved or cautious with strangers",
+          "Can be persistent when a task or reward interests them",
+          "May bark to announce unfamiliar sounds or activity",
+          "Responds best to consistent, patient, reward-based training"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": 3,
+          "withDogs": 3,
+          "withStrangers": 2,
+          "protectiveness": 4,
+          "independence": 5,
+          "trainability": 3,
+          "barking": 4,
+          "energy": 3
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate. Daily walks, play, and mental activity are important even though the breed is small and can entertain itself indoors.",
+          "minutesPerDay": null,
+          "activities": [
+            "Daily walks suited to the individual dog's age and fitness",
+            "Short reward-based training sessions",
+            "Food puzzles and scent-search games",
+            "Interactive play with family members",
+            "Agility or other low-impact dog sports when appropriate for the individual"
+          ]
+        },
+        "grooming": {
+          "level": "High for a full-length coat; a shorter pet clip reduces coat work but does not remove the need for regular grooming.",
+          "brushing": "Brush and comb thoroughly at least between baths, and more often whenever the coat begins to tangle. Work in sections down to the skin, paying particular attention to the ears, legs, facial furnishings, armpits, and areas where harnesses or collars rub.",
+          "bathing": "For a long coat, bathing about every two weeks is a useful starting point; adjust the schedule to the dog's coat, skin, and lifestyle. Rinse shampoo thoroughly, then dry and brush the coat completely to help prevent mats.",
+          "notes": [
+            "Choose a full-length coat or a shorter pet trim based on the time available for maintenance.",
+            "Do not brush only the surface of a long coat; tangles can form close to the skin and remain hidden.",
+            "Keep facial hair clean and arranged so it does not obstruct vision.",
+            "Check the skin, ears, nails, paw pads, and spaces between toes during routine grooming.",
+            "Introduce grooming gradually and reward calm cooperation, particularly in puppies.",
+            "Seek professional grooming help if mats are tight or close to the skin rather than pulling them painfully."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate to challenging for people expecting automatic obedience. The breed is intelligent but independent and can lose interest in repetitive exercises.",
+          "tips": [
+            "Use small rewards, play, and brief sessions to keep training worthwhile.",
+            "Be consistent with household rules and reward the behaviour you want to see.",
+            "Avoid harsh corrections, intimidation, or repetitive drilling.",
+            "Teach a reliable response to barking cues and reward calm behaviour around everyday sounds.",
+            "Practise recall in secure areas before considering off-leash activity.",
+            "Use gentle handling exercises to make brushing, bathing, nail care, and veterinary checks easier."
+          ],
+          "socialization": "Introduce puppies gradually and positively to different people, sounds, environments, handling, and well-matched dogs. Allow the dog space to observe unfamiliar people and reward calm responses; do not force contact. Continue practising throughout adulthood."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": true,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Cold and temperate conditions with appropriate shelter",
+            "Warm climates with shade, fresh water, cool indoor resting areas, and exercise during cooler hours"
+          ],
+          "aloneTimeTolerance": null
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced commercial or veterinarian-formulated diet appropriate to the dog's life stage, body condition, activity, and medical needs.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": "Once or twice daily may suit an adult; choose a consistent schedule and follow the food's feeding guidance and the dog's body condition.",
+          "senior": null
+        },
+        "guidelines": "Choose a nutritionally complete diet suitable for the dog's age and condition. Measure portions, account for treats, maintain a healthy body condition, and keep fresh water available. Food type and portion size should be adjusted to the individual rather than relying on a breed-wide recipe.",
+        "considerations": [
+          "Avoid overfeeding and monitor body condition regularly.",
+          "Introduce dietary changes gradually to reduce the chance of digestive upset.",
+          "Discuss persistent appetite changes, excessive thirst, or changes in urination with a veterinarian, as these may need medical assessment.",
+          "Ask a veterinarian before using supplements or a therapeutic diet."
+        ],
+        "note": "The available breed sources do not establish a single ideal food, calorie target, or meal count for every Lhasa Apso. Individual needs vary with age, activity, body condition, and health."
+      },
+      "health": {
+        "overview": "Lhasa Apsos are often described as hardy and long-lived, but the breed is not free from inherited or acquired health problems. Breed-club and kennel-club sources discuss hereditary renal dysplasia, eye disorders, patellar luxation, and other conditions. These reports identify issues to discuss with a responsible breeder and veterinarian; they do not mean that every Lhasa Apso will develop them or establish how common each condition is.",
+        "commonConditions": [
+          "Renal dysplasia or hereditary kidney dysfunction",
+          "Dry eye (keratoconjunctivitis sicca)",
+          "Progressive retinal atrophy (PRA)",
+          "Patellar luxation",
+          "Hip dysplasia",
+          "Cherry eye",
+          "Corneal ulcers",
+          "Bladder stones",
+          "Umbilical or inguinal hernias",
+          "Allergies or other skin problems"
+        ],
+        "preventiveCare": [
+          "Arrange regular veterinary wellness examinations and keep vaccinations and parasite prevention current.",
+          "Monitor drinking, urination, appetite, weight, mobility, and vision; discuss persistent changes with a veterinarian.",
+          "Keep the coat, skin, eyes, ears, nails, and teeth in good condition.",
+          "Maintain a healthy body condition and use exercise appropriate to the dog's age and fitness.",
+          "Ask breeders for available health history for the puppy's parents and close relatives."
+        ],
+        "recommendedScreenings": [
+          "The AKC parent-club health-testing listing currently reports no formal breed-specific health tests recommended by the national breed club.",
+          "Discuss family history and appropriate eye, kidney, and joint evaluation with a veterinarian or responsible breeder; screening decisions should be based on current clinical guidance and individual risk."
+        ],
+        "dentalCare": "Brush the teeth regularly with dog-safe toothpaste and arrange veterinary dental assessment when needed. Ask a veterinarian about persistent bad breath, oral pain, broken teeth, or difficulty eating.",
+        "earCare": "Check the pendant, feathered ears regularly for redness, odour, discharge, or discomfort. Clean only as advised by a veterinary professional and keep the ear area dry during grooming.",
+        "skinCare": "Part the coat during brushing to check the skin for redness, irritation, parasites, and hidden mats. Seek veterinary advice for persistent itching, sores, unusual odour, or recurrent skin problems."
+      },
+      "suitability": {
+        "firstTimeOwners": null,
+        "familiesWithChildren": null,
+        "seniorOwners": null,
+        "activeOwners": null,
+        "apartmentLiving": true,
+        "idealFor": [
+          "Households that want a small but alert companion",
+          "Owners who enjoy a dog with an independent personality",
+          "People able to provide regular coat care or maintain a shorter pet trim",
+          "Homes that can offer daily walks, enrichment, and patient training",
+          "Apartment dwellers who can meet the dog's exercise, grooming, and companionship needs"
+        ],
+        "notIdealFor": [
+          "People who cannot commit to regular brushing, bathing, and coat maintenance",
+          "Owners who expect instant obedience or a dog that welcomes every stranger",
+          "Households unable to provide consistent training and suitable daily activity",
+          "Homes where young children and dogs would be left together without adult supervision"
+        ]
+      },
+      "funFacts": [
+        "The breed's long, hard outer coat and undercoat developed in a region known for severe high-altitude conditions.",
+        "Lhasa Apsos historically served as indoor sentinels, while larger dogs were used for guarding outside.",
+        "The breed reached Britain in the early 1920s and was initially confused with other long-coated Asian breeds.",
+        "The tail is carried over the back and may have a kink near the tip.",
+        "Despite their small size, Lhasa Apsos are often confident and watchful rather than indiscriminately sociable."
+      ],
+      "faq": [
+        {
+          "question": "How big is a Lhasa Apso?",
+          "answer": "The AKC lists a typical male height of 10–11 inches and a breed-wide weight range of 12–18 pounds. Its profile says females are slightly smaller but does not provide a separate numeric female height range."
+        },
+        {
+          "question": "How long does a Lhasa Apso usually live?",
+          "answer": "The AKC gives a life expectancy of 12–15 years. An individual dog's lifespan depends on factors including genetics, health care, diet, body condition, and living conditions."
+        },
+        {
+          "question": "Does a Lhasa Apso need a lot of grooming?",
+          "answer": "Yes, especially when the coat is kept long. Regular brushing and combing, periodic bathing, thorough drying, and careful attention to the face and legs help prevent tangles and mats. A shorter trim can reduce the workload."
+        },
+        {
+          "question": "Is a Lhasa Apso suitable for an apartment?",
+          "answer": "It can adapt well to apartment life if it receives daily walks, mental stimulation, training, and close companionship. Its alert watchdog nature means that barking should be guided through consistent training."
+        },
+        {
+          "question": "Are Lhasa Apsos friendly with strangers?",
+          "answer": "Many are affectionate and playful with familiar people but more reserved around strangers. Positive socialization helps them learn to handle new people and environments calmly."
+        },
+        {
+          "question": "Which health problems should prospective owners ask about?",
+          "answer": "Breed sources discuss hereditary kidney dysfunction, eye conditions such as dry eye and progressive retinal atrophy, and joint concerns such as patellar luxation. Ask for the family health history and discuss suitable veterinary checks; the conditions listed are risks to be aware of, not a prediction for an individual dog."
+        }
+      ],
+      "references": [
+        "fci-lhasa-apso-standard",
+        "american-kennel-club-lhasa-apso",
+        "american-lhasa-apso-club-faqs",
+        "american-lhasa-apso-club-health-statement",
+        "commons-lhasaapso-photo-2011"
+      ],
+      "evidence": {
+        "alternateNames": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No additional alternate name is recorded because the consulted authoritative sources did not establish a separate name suitable for this field."
+        },
+        "scientificName": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The breed standards and breed profiles consulted do not establish a breed-specific scientific name. No taxonomic value has been inferred."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-lhasa-apso-standard",
+              "role": "verified",
+              "locator": "FCI classification: Group 9, Companion and Toy Dogs; Section 5, Tibetan breeds"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Uses the FCI classification and explicitly identifies it as the FCI grouping."
+        },
+        "origin.country": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-lhasa-apso-standard",
+              "role": "verified",
+              "locator": "Origin: Tibet (China)"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The standard states Tibet (China) as the origin; the record separates the geographic region from the country field."
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The standard identifies Tibet (China) as the origin but does not establish a more specific region."
+        },
+        "overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-lhasa-apso-standard",
+              "role": "verified",
+              "locator": "Brief Historical Summary, Utilization, General Appearance, and Behaviour/Temperament"
+            },
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "About the Breed, History, Exercise, and Training"
+            },
+            {
+              "id": "american-lhasa-apso-club-faqs",
+              "role": "verified",
+              "locator": "Frequently Asked Questions: watchdog barking and temperament"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Overview is a fresh synthesis of the breed standard and club/kennel-club profiles; the user-facing prose is not copied from the sources."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-lhasa-apso-standard",
+              "role": "verified",
+              "locator": "General Appearance, Important Proportions, Head, Ears, Tail, Feet, Coat, and Colour"
+            },
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "Height, Weight, Life Expectancy, Breed Colors & Markings, and About the Breed"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Standard-based physical features are verified against FCI; lifespan, general weight range, and shedding notes are supported by the AKC profile."
+        },
+        "physical.weight": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "Average sizes and life expectancy: Weight 12–18 pounds"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The source gives a breed-wide range rather than separate male and female ranges. The same published range is used for both schema slots solely to represent that breed-wide range; it is not evidence of distinct sex-specific measurements."
+        },
+        "physical.height": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "Average sizes and life expectancy: Height"
+            },
+            {
+              "id": "fci-lhasa-apso-standard",
+              "role": "cited",
+              "locator": "Size"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The AKC publishes a male height of 10–11 inches and describes females as slightly smaller without giving a separate numeric female range."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "Average sizes and life expectancy: Life Expectancy 12–15 years"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The 12–15 year range is reported by the AKC breed profile."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "Grooming and coat-care guidance"
+            },
+            {
+              "id": "american-lhasa-apso-club-faqs",
+              "role": "verified",
+              "locator": "FAQ: suitability for people with allergies or asthma"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The breed is described as a relatively low shedder, but this does not mean the coat is low-maintenance."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The sources consulted did not provide a sufficiently reliable drooling-level rating."
+        },
+        "temperament.traits": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-lhasa-apso-standard",
+              "role": "verified",
+              "locator": "Behaviour/Temperament"
+            },
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "About the Breed and Breed Traits & Characteristics"
+            },
+            {
+              "id": "american-lhasa-apso-club-faqs",
+              "role": "verified",
+              "locator": "FAQs on barking and personality"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Traits reflect the standard's confident, alert temperament and the breed club's descriptions of independence and watchdog behaviour."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "cited",
+              "locator": "Breed Traits & Characteristics and About the Breed"
+            },
+            {
+              "id": "american-lhasa-apso-club-faqs",
+              "role": "cited",
+              "locator": "FAQs on personality and barking"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "The 1–5 scores are editorial estimates for app comparison, not clinical measurements or official breed-standard ratings. Independence and alert barking are scored relatively high, while stranger sociability is lower."
+        },
+        "care": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "Grooming, Exercise, Training, and Nutrition"
+            },
+            {
+              "id": "american-lhasa-apso-club-faqs",
+              "role": "verified",
+              "locator": "FAQs on barking, personality, and health"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Care information is based on the breed profile and parent-club guidance, with practical phrasing written for the DogLens app."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted authoritative breed sources recommend walks and mental activity but do not specify a verified daily minute range."
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "cited",
+              "locator": "Exercise and coat information"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Climate guidance is general advice based on the breed's coat and normal dog-welfare precautions, not a formal climate tolerance test."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The sources consulted do not establish a reliable breed-specific alone-time duration."
+        },
+        "nutrition": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "Nutrition"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Nutrition guidance is based on the breed profile and avoids inventing a fixed calorie or macronutrient prescription."
+        },
+        "nutrition.feedingFrequency.puppy": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No breed-specific puppy meal frequency was established from the sources consulted."
+        },
+        "nutrition.feedingFrequency.senior": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No breed-specific senior meal frequency was established from the sources consulted."
+        },
+        "health": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "Health and What to Expect When Caring for a Lhasa Apso"
+            },
+            {
+              "id": "american-lhasa-apso-club-faqs",
+              "role": "verified",
+              "locator": "FAQ: hereditary diseases"
+            },
+            {
+              "id": "american-lhasa-apso-club-health-statement",
+              "role": "verified",
+              "locator": "Health statement: reported conditions"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The condition list is a cautious synthesis of conditions named by the breed sources. It does not imply that all listed conditions are equally frequent or that every dog is affected."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "cited",
+              "locator": "Health and Grooming"
+            },
+            {
+              "id": "american-lhasa-apso-club-faqs",
+              "role": "cited",
+              "locator": "FAQ: hereditary disease"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General veterinary prevention and monitoring advice; it is not a substitute for an individual veterinarian's recommendations."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "Recommended Health Tests From the National Breed Club"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The AKC listing says no formal health tests are recommended by the national breed club, while the profile names health concerns worth discussing. The object distinguishes that published status from general veterinary assessment."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Routine dental care advice is general dog-care guidance rather than a claimed Lhasa Apso-specific predisposition."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Routine ear inspection advice is general care guidance."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Routine coat and skin inspection advice is general care guidance."
+        },
+        "suitability": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "Exercise, Training, and About the Breed"
+            },
+            {
+              "id": "american-lhasa-apso-club-faqs",
+              "role": "verified",
+              "locator": "FAQs on personality and barking"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "General suitability guidance is based on exercise needs, independence, watchdog behaviour, and grooming demands; it does not claim that one lifestyle is right for every individual."
+        },
+        "suitability.firstTimeOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The sources consulted do not establish a reliable yes/no rating for first-time owners."
+        },
+        "suitability.familiesWithChildren": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Family suitability depends on the individual dog, children's ages, supervision, and training; the consulted sources do not support a universal boolean."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The sources consulted do not establish a universal yes/no suitability rating for senior owners."
+        },
+        "suitability.activeOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The sources consulted do not establish a universal yes/no suitability rating for active owners."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-lhasa-apso-standard",
+              "role": "verified",
+              "locator": "Brief Historical Summary, Utilization, Tail, and Coat"
+            },
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "History, About the Breed, and breed characteristics"
+            },
+            {
+              "id": "american-lhasa-apso-club-faqs",
+              "role": "verified",
+              "locator": "Frequently Asked Questions: temperament and watchdog behaviour"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The breed's historical role, physical traits, and watchdog characteristics are checked against the cited breed standard and breed-profile sources."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-lhasa-apso-standard",
+              "role": "verified",
+              "locator": "Origin, Size, Coat, and Behaviour/Temperament"
+            },
+            {
+              "id": "american-kennel-club-lhasa-apso",
+              "role": "verified",
+              "locator": "Height, Weight, Life Expectancy, Grooming, Exercise, and Health"
+            },
+            {
+              "id": "american-lhasa-apso-club-faqs",
+              "role": "verified",
+              "locator": "Frequently Asked Questions: temperament, barking, and hereditary health"
+            },
+            {
+              "id": "american-lhasa-apso-club-health-statement",
+              "role": "verified",
+              "locator": "Health statement: reported breed health concerns"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "FAQ answers are supported by the cited breed-standard, kennel-club, and breed-club sources. Health conditions are described as possible risks, not as guaranteed outcomes for an individual dog."
+        }
+      },
+      "updatedOn": "2026-10-26"
+    },
+    {
       "slug": "lowchen",
       "name": "Löwchen",
       "scientificName": null,
@@ -82709,6 +83499,705 @@
         }
       },
       "updatedOn": "2026-10-20"
+    },
+    {
+      "slug": "swedish-lapphund",
+      "name": "Swedish Lapphund",
+      "scientificName": null,
+      "alternateNames": [
+        "Svensk lapphund",
+        "Schwedischer Lapphund",
+        "Perro Sueco de Laponia",
+        "Lapphund Suedois",
+        "Ruotsinlapinkoira"
+      ],
+      "group": "FCI Group 5: Spitz and Primitive Types; Section 3: Nordic Watchdogs and Herders",
+      "origin": {
+        "country": "Sweden",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swedish_Lapphund.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Swedish_Lapphund.jpg",
+          "title": "Swedish Lapphund.jpg",
+          "description": "A Swedish Lapphund, male dog.",
+          "creator": "Canarian",
+          "uploader": "Canarian",
+          "capturedOn": "2017-12-08",
+          "uploadedOn": null,
+          "width": 2115,
+          "height": 1769,
+          "licenseId": "cc-by-sa-4.0",
+          "attribution": "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated. Adapted material must be distributed under the same or a compatible license.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-26"
+        }
+      ],
+      "overview": {
+        "summary": "A lively, intelligent Nordic spitz breed with a dense black double coat, a strong working heritage, and an affectionate, alert nature.",
+        "description": "The Swedish Lapphund is a slightly smaller-than-medium, rectangularly built spitz with erect ears, a profuse weather-resistant double coat, and a bushy tail carried curled over the back when moving. Traditionally valued for herding reindeer, hunting, and watching over people and property, it remains an adaptable companion for households that can give it regular activity and purposeful interaction. The breed is generally described as affectionate, attentive, willing to work, and responsive to training. Its thick coat needs routine care, and its alert nature makes early training and considerate management of barking useful.",
+        "history": "The Swedish Lapphund is an old Nordic breed associated with the Sami people and the northern Scandinavian region. It was used historically for hunting and watching, and later became closely associated with reindeer herding. As traditional Lapphund numbers declined during the early twentieth century, enthusiasts worked to find and preserve dogs that retained the breed's characteristic type. The breed is now kept mainly as a versatile companion, although its working heritage remains evident in its alertness, stamina, and willingness to take part in activities.",
+        "originalPurpose": "Reindeer herding, hunting, and watchdog duties; now mainly a versatile companion.",
+        "currentRoles": [
+          "Family companion",
+          "Reindeer herding where the work is still practised",
+          "Watchdog",
+          "Obedience and rally activities",
+          "Agility",
+          "Tracking and scent-based activities",
+          "Other suitable dog sports and enrichment work"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Medium, slightly less than medium in the FCI description",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 45,
+            "max": 51
+          },
+          "female": {
+            "min": 40,
+            "max": 46
+          }
+        },
+        "weight": {
+          "unit": "kg",
+          "male": {
+            "min": 16,
+            "max": 20
+          },
+          "female": {
+            "min": 14,
+            "max": 16
+          }
+        },
+        "lifespanYears": {
+          "min": 12,
+          "max": 14
+        },
+        "coatType": "Profuse, weather-resistant double coat with straight, stand-off outer hair and a dense, finely curled undercoat",
+        "coatLength": "Short on the head and front of the legs; longer on the chest, backs of the legs, tail, and around the neck, where it forms a ruff",
+        "coatColors": [
+          "Usually solid black",
+          "Black with typical bronzing or bear-brown shading",
+          "White markings on the chest, feet, or tail tip are permitted"
+        ],
+        "sheddingLevel": "Seasonal shedding is expected from the dense double coat; the amount varies with the individual and season.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Slightly less than medium-sized, with a rectangular body shape",
+          "Proud head carriage and a rounded forehead",
+          "Small, triangular, erect ears with slightly rounded tips",
+          "Brown, round, fairly large eyes that are not protruding",
+          "Strong, evenly tapering muzzle",
+          "Profuse double coat that stands away from the body",
+          "Long, bushy tail carried curled over the back when moving",
+          "Oval feet with closely knit toes and protective hair between the pads",
+          "Usually black coat, often with bronzing and sometimes small white markings"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Lively",
+          "Alert",
+          "Kind and affectionate",
+          "Attentive and receptive",
+          "Willing to work",
+          "Enduring and robust",
+          "Responsive to training",
+          "Versatile in suitable canine activities",
+          "Likely to notice unfamiliar activity around the home"
+        ],
+        "scores": {
+          "affection": 5,
+          "withChildren": 4,
+          "withDogs": 3,
+          "withStrangers": 3,
+          "protectiveness": 4,
+          "independence": 3,
+          "trainability": 4,
+          "barking": 4,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Active. Regular physical exercise and mental work help meet the needs of this alert, willing-to-work breed.",
+          "minutesPerDay": null,
+          "activities": [
+            "Daily walks and opportunities to explore safely",
+            "Reward-based obedience training",
+            "Agility or rally-style activities where suitable",
+            "Tracking and scent games",
+            "Herding activities with appropriate instruction",
+            "Interactive play and problem-solving games"
+          ]
+        },
+        "grooming": {
+          "level": "Moderate, with extra attention during seasonal coat changes",
+          "brushing": "Brush regularly to remove loose hair and prevent tangles, paying particular attention to the ruff, tail, and longer feathering.",
+          "bathing": "Bathe when needed rather than on a rigid schedule; use a dog-safe shampoo and dry the dense coat thoroughly.",
+          "notes": [
+            "The double coat is dense and weather-resistant.",
+            "Check the coat and skin routinely, including areas with longer hair.",
+            "During heavier shedding, more frequent brushing may help remove loose undercoat.",
+            "Inspect the ears and trim nails as part of routine care.",
+            "Avoid shaving the double coat unless a veterinarian recommends clipping for a medical reason."
+          ]
+        },
+        "training": {
+          "difficulty": "Generally described as responsive and willing to learn; consistency is still important for a lively, alert dog.",
+          "tips": [
+            "Use reward-based methods and keep sessions engaging.",
+            "Teach calm behaviour around doors, visitors, and outdoor distractions.",
+            "Build reliable recall and loose-leash walking from an early age.",
+            "Provide regular opportunities to learn new tasks.",
+            "Use enrichment to channel attention and working drive constructively."
+          ],
+          "socialization": "Introduce puppies and newly adopted dogs positively to a variety of people, environments, sounds, and well-matched dogs. Reward calm behaviour and avoid overwhelming the dog."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": null,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "The dense coat is described as weather-resistant.",
+            "In hot weather, provide shade, fresh water, ventilation, and exercise during cooler hours."
+          ],
+          "aloneTimeTolerance": null
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced diet appropriate for the dog's life stage, activity level, body condition, and health.",
+        "feedingFrequency": {
+          "puppy": "Feed a complete puppy diet in age-appropriate meals, following the product guidance and veterinary advice.",
+          "adult": "Provide measured portions of a complete adult diet and adjust the amount to maintain a healthy body condition.",
+          "senior": "Review portion size, body condition, and any age-related dietary needs with a veterinarian."
+        },
+        "guidelines": "Use a nutritionally complete food suitable for the dog's life stage. Base portions on the food's feeding guide, activity, body condition, and veterinary advice rather than assuming all dogs of this breed need the same quantity. Keep fresh water available and transition foods gradually.",
+        "considerations": [
+          "Monitor body condition and adjust portions if weight changes.",
+          "Include treats in the overall daily food allowance.",
+          "Avoid foods known to be toxic to dogs.",
+          "Discuss persistent digestive issues, allergies, or unexplained weight changes with a veterinarian."
+        ],
+        "note": "No verified breed-specific daily food quantity was established in the sources reviewed; individual needs vary."
+      },
+      "health": {
+        "overview": "The breed is generally described as healthy, but hip dysplasia can occur. Swedish breed guidance also describes DNA testing for prcd-PRA in dogs used for breeding. These points do not establish that every dog will develop a condition or that the breed is free from other health problems.",
+        "commonConditions": [
+          "Hip dysplasia (HD) can occur."
+        ],
+        "preventiveCare": [
+          "Arrange regular veterinary wellness examinations.",
+          "Ask the breeder for relevant health records and information about the parents.",
+          "Discuss appropriate eye-health and hip-health information with the breeder and veterinarian.",
+          "Keep vaccinations and parasite prevention current according to local veterinary advice.",
+          "Maintain dental hygiene and monitor body condition, mobility, skin, coat, eyes, and ears.",
+          "Seek veterinary advice promptly for new or persistent symptoms."
+        ],
+        "recommendedScreenings": [
+          "Ask about hip-health history and any relevant hip dysplasia screening.",
+          "Swedish breed guidance reports DNA testing for prcd-PRA in breeding dogs; ask the breeder for the parents' relevant test results."
+        ],
+        "dentalCare": "Brush the teeth regularly with a dog-specific toothbrush and toothpaste where possible. Have the mouth and teeth checked during routine veterinary visits.",
+        "earCare": "Inspect the ears regularly. Clean only when needed with a dog-safe product recommended by a veterinary professional, and seek advice for redness, odour, discharge, or persistent scratching.",
+        "skinCare": "Check the skin and coat during brushing, especially beneath the dense undercoat. Ask a veterinarian about persistent itching, redness, sores, unusual lumps, or hair loss."
+      },
+      "suitability": {
+        "firstTimeOwners": null,
+        "familiesWithChildren": null,
+        "seniorOwners": null,
+        "activeOwners": true,
+        "apartmentLiving": null,
+        "idealFor": [
+          "People who enjoy regular walks, training, and interactive activities",
+          "Households able to provide both exercise and mental enrichment",
+          "Owners interested in suitable dog sports, tracking, or other structured activities",
+          "Families seeking an affectionate companion and prepared to teach calm household behaviour"
+        ],
+        "notIdealFor": [
+          "Households that cannot provide regular activity and engagement",
+          "People seeking a reliably quiet dog without training for alert barking",
+          "Owners unwilling to maintain a dense double coat, especially during seasonal shedding"
+        ]
+      },
+      "funFacts": [
+        "The Swedish Lapphund has a long history in northern Scandinavia and is closely associated with Sami culture.",
+        "Its traditional work included hunting and watchdog duties as well as herding reindeer.",
+        "The breed's profuse double coat is described as weather-resistant.",
+        "The Swedish Lapphund is versatile and can take part in activities such as obedience, agility, tracking, and herding.",
+        "A Lapphund was the first dog registered by the Swedish Kennel Club in 1893, according to the club's breed history."
+      ],
+      "faq": [
+        {
+          "question": "Where does the Swedish Lapphund originate?",
+          "answer": "The breed originates in Sweden and has a long history in northern Scandinavia, where it was associated with Sami communities and traditional working life."
+        },
+        {
+          "question": "How tall is a Swedish Lapphund?",
+          "answer": "The FCI standard gives an ideal height of 48 cm for males and 43 cm for females, with an allowance of 3 cm either way."
+        },
+        {
+          "question": "How much does a Swedish Lapphund weigh?",
+          "answer": "The Swedish Kennel Club's breed profile lists 16–20 kg for males and 14–16 kg for females."
+        },
+        {
+          "question": "What is the Swedish Lapphund's temperament?",
+          "answer": "It is generally described as lively, alert, affectionate, attentive, and willing to work. Individual behaviour varies with genetics, socialisation, training, and experience."
+        },
+        {
+          "question": "What kind of exercise does a Swedish Lapphund need?",
+          "answer": "It benefits from regular daily exercise and activities that engage its mind. Walking, training, scent games, tracking, and suitable dog sports are options; the right amount depends on the individual dog."
+        },
+        {
+          "question": "Does the Swedish Lapphund shed?",
+          "answer": "It has a dense double coat and can shed seasonally. Regular brushing, with extra attention during coat changes, helps remove loose hair."
+        },
+        {
+          "question": "What health issues should owners ask about?",
+          "answer": "Hip dysplasia can occur, and Swedish breed guidance reports prcd-PRA DNA testing in breeding dogs. Ask a responsible breeder for relevant health records and discuss an individual dog's needs with a veterinarian."
+        },
+        {
+          "question": "Is the Swedish Lapphund suitable for apartment living?",
+          "answer": "There is no reliable universal yes-or-no answer. Suitability depends on the individual dog's exercise, enrichment, barking, training, and the household's ability to meet those needs."
+        }
+      ],
+      "references": [
+        "fci-swedish-lapphund-standard",
+        "swedish-kennel-club-swedish-lapphund-en",
+        "swedish-kennel-club-swedish-lapphund",
+        "ukc-swedish-lapphund-standard",
+        "commons-swedish-lapphund-canarian-2017"
+      ],
+      "evidence": {
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "Breed title and nomenclature"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund-en",
+              "role": "verified",
+              "locator": "Also known as"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Alternate names are drawn from breed registry and kennel club terminology."
+        },
+        "scientificName": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A breed-specific scientific name was not established from the sources reviewed."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "FCI classification: Group 5, Section 3"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Uses the FCI classification."
+        },
+        "origin.country": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "Origin"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": null
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The standard identifies Sweden as the country of origin but does not define a more specific region as the breed's origin."
+        },
+        "overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "Utilization, Brief Historical Summary, General Appearance, and Behaviour / Temperament"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund-en",
+              "role": "verified",
+              "locator": "About the breed, Appearance, Personality and activity level, and History"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Overview and history are original paraphrases of breed-standard and kennel-club information."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "Size and Weight: ideal height and allowance of +/- 3 cm"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Stored as the FCI ideal height plus its published 3 cm allowance; no unit conversion was performed."
+        },
+        "physical.weight": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "swedish-kennel-club-swedish-lapphund",
+              "role": "verified",
+              "locator": "Storlek och utseende: vikt for males and females"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Uses the Swedish Kennel Club's published weight ranges in kg."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "swedish-kennel-club-swedish-lapphund",
+              "role": "verified",
+              "locator": "Hälsa: commonly reaches 12–14 years"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Published breed lifespan range."
+        },
+        "physical": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "General Appearance, Head, Tail, Coat, Colour, and Size"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund-en",
+              "role": "verified",
+              "locator": "Appearance, coat and size"
+            },
+            {
+              "id": "ukc-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "General appearance, coat, colour, and tail"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Physical details follow the breed standards; sourced measurements have their own claims."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A reliable breed-specific drooling level was not established."
+        },
+        "temperament": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "Behaviour / Temperament"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund-en",
+              "role": "verified",
+              "locator": "Personality and activity level"
+            },
+            {
+              "id": "ukc-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "Characteristics"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Traits paraphrase the sources' qualitative descriptions of the breed."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "cited",
+              "locator": "Behaviour / Temperament"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund-en",
+              "role": "cited",
+              "locator": "Personality and activity level"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Scores are editorial 1–5 estimates from qualitative breed descriptions, not results of validated behavioural testing."
+        },
+        "care.exercise": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "cited",
+              "locator": "Utilization and Behaviour / Temperament"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund-en",
+              "role": "cited",
+              "locator": "Personality and activity level; listed dog sports"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "The active-care description and activity suggestions are practical guidance based on the breed's working background, not a prescribed exercise quota."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific daily exercise duration was established."
+        },
+        "care.grooming": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "Coat and Colour"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund-en",
+              "role": "verified",
+              "locator": "Appearance, coat and size; grooming information"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The grooming description is based on the coat type and published care information; the bathing advice is general guidance."
+        },
+        "care.grooming.bathing": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General dog-grooming advice; a breed-specific bathing interval was not established."
+        },
+        "care.training": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Training suggestions are general reward-based dog-care guidance rather than a breed-specific protocol."
+        },
+        "care.training.difficulty": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "cited",
+              "locator": "Behaviour / Temperament: willing to work and described as easy to train"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Qualitative editorial assessment; individual dogs vary."
+        },
+        "care.livingEnvironment": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "cited",
+              "locator": "Coat, Utilization, and Behaviour / Temperament"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund-en",
+              "role": "cited",
+              "locator": "About the breed and activity level"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Living-environment guidance is conditional and does not claim a universal housing fit."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The sources do not establish a reliable universal apartment-suitability boolean."
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Weather-resistant coat information comes from the breed standard; hot-weather precautions are general canine welfare guidance."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A dependable breed-specific alone-time tolerance was not established."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Nutrition advice is general canine-care guidance and does not assert a breed-specific food quantity."
+        },
+        "health": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Routine preventive care is general guidance. Breed-specific health information is recorded separately where supported."
+        },
+        "health.overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "swedish-kennel-club-swedish-lapphund",
+              "role": "verified",
+              "locator": "Hälsa: general health, hip dysplasia, and prcd-PRA testing in breeding dogs"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Health summary is limited to issues explicitly mentioned in breed guidance."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "swedish-kennel-club-swedish-lapphund",
+              "role": "verified",
+              "locator": "Hälsa: hip dysplasia can occur"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Only hip dysplasia is included because it is explicitly identified in the consulted source."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "swedish-kennel-club-swedish-lapphund",
+              "role": "verified",
+              "locator": "Hälsa: breeding dogs are DNA-tested for prcd-PRA; hip dysplasia information"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Breeding-related test information is reported as such; it is not presented as a universal diagnostic requirement for every pet dog."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General preventive-care advice for dogs."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine dental-care guidance."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine ear-care guidance."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General skin and coat-care guidance."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "cited",
+              "locator": "Utilization and Behaviour / Temperament"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund-en",
+              "role": "cited",
+              "locator": "Personality and activity level"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability recommendations are editorial guidance based on activity and working traits, not a guarantee for every household."
+        },
+        "suitability.firstTimeOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The sources do not establish a reliable universal first-time-owner suitability classification."
+        },
+        "suitability.familiesWithChildren": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The sources do not establish a universal family-with-children suitability boolean; individual temperament and supervision matter."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Suitability depends on the individual dog's activity and behaviour and the owner's circumstances."
+        },
+        "suitability.apartmentLiving": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The sources do not establish a reliable universal apartment-living suitability boolean."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "Brief Historical Summary and Utilization"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund-en",
+              "role": "verified",
+              "locator": "History and listed activities"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Historical details and activity examples are paraphrased."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-swedish-lapphund-standard",
+              "role": "verified",
+              "locator": "Origin, historical summary, temperament, coat, and size"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund",
+              "role": "verified",
+              "locator": "Weight, lifespan, and health information"
+            },
+            {
+              "id": "swedish-kennel-club-swedish-lapphund-en",
+              "role": "verified",
+              "locator": "Also known as, activities, grooming, and breed history"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "FAQ answers paraphrase the cited information and qualify health claims to avoid implying that every individual dog will be affected."
+        }
+      },
+      "updatedOn": "2026-10-26"
     },
     {
       "slug": "tibetan-terrier",

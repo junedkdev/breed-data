@@ -102,6 +102,8 @@ import { american_akita } from "./american_akita";
 import { golden_retriever } from "./golden_retriever";
 import { bull_terrier } from "./bull_terrier";
 import { austrian_pinscher } from "./austrian_pinscher";
+import { swedish_lapphund } from "./swedish_lapphund";
+import { lhasa_apso } from "./lhasa_apso";
 
 
 export const breedData: readonly Breed[] = [
@@ -203,4 +205,6 @@ export const breedData: readonly Breed[] = [
   golden_retriever,
   bull_terrier,
   austrian_pinscher,
+  swedish_lapphund,
+  lhasa_apso,
 ];

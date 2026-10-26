@@ -99,9 +99,9 @@
 95:golden_retriever - C
 96:bull_terrier - C
 97:austrian_pinscher - C
+98:swedish_lapphund - C
+99:lhasa_apso - C
 
-98:swedish_lapphund
-99:lhasa_apso
 100:papillon_and_phalene
 101:chien_francais_tricolore
 102:shar_pei
