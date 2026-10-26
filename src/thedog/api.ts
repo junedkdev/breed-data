@@ -158,9 +158,11 @@ async function getJson<T>(path: string): Promise<T> {
     try {
       body = JSON.parse(text) as unknown;
     } catch {
+      logResponse(path, response.status, text);
       throw new TheDogError("The Dog API returned a response that was not JSON.", response.status);
     }
   }
+  logResponse(path, response.status, body);
   if (!response.ok) {
     const message =
       body !== null && typeof body === "object" && "message" in body
@@ -169,6 +171,16 @@ async function getJson<T>(path: string): Promise<T> {
     throw new TheDogError(message || `The Dog API returned ${response.status}.`, response.status);
   }
   return body as T;
+}
+
+/** Prints each response in the `npm run ui` terminal. The full breed list is summarised. */
+function logResponse(path: string, status: number, body: unknown): void {
+  const label = `[The Dog API] GET ${path} -> ${status}`;
+  if (path.startsWith("/breeds?") && Array.isArray(body)) {
+    console.log(`${label}: ${body.length} breeds`);
+    return;
+  }
+  console.log(`${label}\n${JSON.stringify(body, null, 2)}`);
 }
 
 function isBreed(value: unknown): value is DogApiBreed {

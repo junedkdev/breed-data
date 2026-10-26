@@ -74,6 +74,7 @@ export async function prepareTheDogFile(input: {
       country: identity.country,
       group: identity.group,
     });
+    logMatch(identity.name, match);
     if (match.status === "none") {
       clearCurrent();
       return {
@@ -272,6 +273,16 @@ function clearCurrent(): void {
   for (const entry of readdirSync(thedogCurrentDir)) {
     if (entry.endsWith(".ts")) unlinkSync(join(thedogCurrentDir, entry));
   }
+}
+
+function logMatch(name: string, match: ReturnType<typeof matchBreeds>): void {
+  const found =
+    match.status === "one"
+      ? `${match.breed.name} (id ${match.breed.id})`
+      : match.status === "many"
+        ? match.candidates.map((candidate) => `${candidate.name} (id ${candidate.id})`).join(", ")
+        : "nothing";
+  console.log(`[The Dog API] ${name}: ${match.status} match -> ${found}`);
 }
 
 function messageOf(error: unknown): string {

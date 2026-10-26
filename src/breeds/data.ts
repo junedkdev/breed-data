@@ -100,6 +100,7 @@ import { toy_fox_terrier } from "./toy_fox_terrier";
 import { sabueso_espanol } from "./sabueso_espanol";
 import { american_akita } from "./american_akita";
 import { golden_retriever } from "./golden_retriever";
+import { bull_terrier } from "./bull_terrier";
 
 
 export const breedData: readonly Breed[] = [
@@ -199,4 +200,5 @@ export const breedData: readonly Breed[] = [
   sabueso_espanol,
   american_akita,
   golden_retriever,
+  bull_terrier,
 ];

@@ -13,6 +13,7 @@
     "build:minify": "tsx src/build/write-catalog.ts --minify",
     "test": "tsx --test src/validate/rules.test.ts src/progress/file.test.ts src/ui/sources.test.ts src/thedog/match.test.ts src/thedog/record.test.ts",
     "ui": "tsx src/ui/server.ts",
+    "ui:watch": "tsx watch --clear-screen=false --exclude \"src/breeds/**\" --exclude \"src/registry/**\" src/ui/server.ts",
     "all": "npm run build && npm run check && npm test && npm run validate:json"
   },
   "devDependencies": {

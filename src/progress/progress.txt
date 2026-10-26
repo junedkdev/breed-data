@@ -42,7 +42,8 @@
 39:alpine_dachsbracke - CG
 40:parson_russell_terrier - CG
 
-41:german_shepherd_dog - C
+41:german_shepherd_dog - CR
+
 42:drentse_patrijshond - C
 43:stabyhoun - C
 44:lowchen - C
@@ -97,8 +98,8 @@
 93:sabueso_espanol - C
 94:american_akita - C
 95:golden_retriever - C
+96:bull_terrier - C
 
-96:bull_terrier
 97:austrian_pinscher
 98:swedish_lapphund
 99:lhasa_apso
