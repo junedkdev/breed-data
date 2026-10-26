@@ -1,4 +1,4 @@
-import type { Breed } from "../../schema/breed.types";
+import type { Breed } from "../schema/breed.types";
 
 export const collie_rough: Breed = {
   slug: "collie-rough",

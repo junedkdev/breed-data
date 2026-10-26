@@ -110,6 +110,7 @@ import { shar_pei } from "./shar_pei";
 import { kai_ken } from "./kai_ken";
 import { german_longhaired_pointer } from "./german_longhaired_pointer";
 import { ibizan_hound } from "./ibizan_hound";
+import { black_norwegian_elkhound } from "./black_norwegian_elkhound";
 
 
 export const breedData: readonly Breed[] = [
@@ -219,4 +220,5 @@ export const breedData: readonly Breed[] = [
   kai_ken,
   german_longhaired_pointer,
   ibizan_hound,
+  black_norwegian_elkhound,
 ];
