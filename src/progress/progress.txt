@@ -43,10 +43,10 @@
 40:parson_russell_terrier - CG
 41:german_shepherd_dog - CG
 42:drentse_patrijshond - CG
+43:stabyhoun - CG
 
-43:stabyhoun - CR
+44:lowchen - CR
 
-44:lowchen - C
 45:collie,_rough - C
 46:japanese_chin - C
 47:petit_brabancon - C
@@ -105,8 +105,8 @@
 100:papillon_and_phalene - C
 101:chien_francais_tricolore - C
 102:shar_pei - C
+103:kai_ken - C
 
-103:kai_ken
 104:german_longhaired_pointer
 105:ibizan_hound
 106:black_norwegian_elkhound
