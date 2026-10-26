@@ -9501,6 +9501,171 @@
       "publishedOn": null,
       "accessedOn": "2026-10-26",
       "note": "Original file page credits Dzhermanotta-royals and specifies Creative Commons Attribution-ShareAlike 4.0 International."
+    },
+    "fci-francais-tricolore-standard-2023": {
+      "id": "fci-francais-tricolore-standard-2023",
+      "name": "FCI Standard No. 219 - Français Tricolore",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/Nomenclature/Standards/219g06-en.pdf",
+      "type": "official_breed_standard",
+      "commercialUse": "reference_only",
+      "publishedOn": "2023-10-06",
+      "accessedOn": "2026-10-26",
+      "note": "Official English-language breed standard, including origin, FCI classification, intended use, appearance, coat, colour and sex-specific height."
+    },
+    "fci-francais-tricolore-nomenclature": {
+      "id": "fci-francais-tricolore-nomenclature",
+      "name": "FCI Nomenclature - French Tricolour Hound No. 219",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/en/nomenclature/FRENCH-TRICOLOUR-HOUND-219.html",
+      "type": "breed_registry",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Official breed nomenclature entry confirming the international name, origin, group, section, recognition and working-trial status."
+    },
+    "ukc-chien-francais-tricolore-standard": {
+      "id": "ukc-chien-francais-tricolore-standard",
+      "name": "United Kennel Club - Chien Français Tricolore Breed Standard",
+      "publisher": "United Kennel Club",
+      "url": "https://www.ukcdogs.com/chien-francais-tricolore",
+      "type": "official_breed_standard",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Kennel-club standard covering history, working-hound appearance, coat, colour, height and conformation."
+    },
+    "venerie-chien-francais-tricolore": {
+      "id": "venerie-chien-francais-tricolore",
+      "name": "Société de Vénerie - Le Chien Français Tricolore",
+      "publisher": "Société de Vénerie",
+      "url": "https://www.venerie.org/chiens-de-chasse-a-courre/races-le-chien-francais-tricolore.html",
+      "type": "other",
+      "commercialUse": "reference_only",
+      "publishedOn": "1997-09-15",
+      "accessedOn": "2026-10-26",
+      "note": "Supplementary French-language description reproducing an older FCI standard and documenting traditional pack-hunting use."
+    },
+    "commons-frenchhound-tricolore-canarian-2022": {
+      "id": "commons-frenchhound-tricolore-canarian-2022",
+      "name": "Wikimedia Commons - Frenchhound-tricolore.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Frenchhound-tricolore.jpg",
+      "type": "other",
+      "commercialUse": "commercial_use",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Original file page identifies Canarian as the author, dates the photograph to 23 April 2022 and specifies CC BY-SA 4.0."
+    },
+    "fci-shar-pei-standard-1999": {
+      "id": "fci-shar-pei-standard-1999",
+      "name": "FCI Standard No. 309 - Shar Pei",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://fci.be/Nomenclature/Standards/309g02-en.pdf",
+      "type": "official_breed_standard",
+      "commercialUse": "reference_only",
+      "publishedOn": "1999-08-09",
+      "accessedOn": "2026-10-26",
+      "note": "Official English-language standard covering origin, classification, appearance, temperament, coat and colour."
+    },
+    "fci-shar-pei-nomenclature": {
+      "id": "fci-shar-pei-nomenclature",
+      "name": "FCI Nomenclature - Shar Pei No. 309",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/en/nomenclature/SHAR-PEI-309.html",
+      "type": "breed_registry",
+      "commercialUse": "reference_only",
+      "publishedOn": "1999-08-09",
+      "accessedOn": "2026-10-26",
+      "note": "Official nomenclature entry confirming FCI group, section, origin country, recognition status and valid-standard date."
+    },
+    "akc-chinese-shar-pei-profile": {
+      "id": "akc-chinese-shar-pei-profile",
+      "name": "American Kennel Club - Chinese Shar-Pei",
+      "publisher": "American Kennel Club",
+      "url": "https://www.akc.org/dog-breeds/chinese-shar-pei/",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Breed profile and colour listings covering appearance, temperament and AKC group."
+    },
+    "akc-chinese-shar-pei-standard": {
+      "id": "akc-chinese-shar-pei-standard",
+      "name": "American Kennel Club - Official Standard of the Chinese Shar-Pei",
+      "publisher": "American Kennel Club",
+      "url": "https://images.akc.org/pdf/breeds/standards/ChineseSharPei.pdf",
+      "type": "official_breed_standard",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Official standard including the stated 18–20 inch height range and 45–60 pound overall weight range."
+    },
+    "canadian-kennel-club-chinese-shar-pei": {
+      "id": "canadian-kennel-club-chinese-shar-pei",
+      "name": "Canadian Kennel Club - Chinese Shar-Pei",
+      "publisher": "Canadian Kennel Club",
+      "url": "https://www.ckc.ca/en/Choosing-a-Dog/Choosing-a-Breed/Non-Sporting-Dogs/Chinese-Shar-Pei",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Breed profile covering origin, temperament, activity, coat, colour and grooming."
+    },
+    "vca-chinese-shar-pei": {
+      "id": "vca-chinese-shar-pei",
+      "name": "VCA Animal Hospitals - Chinese Shar-Pei",
+      "publisher": "VCA Animal Hospitals / LifeLearn",
+      "url": "https://vcahospitals.com/know-your-pet/chinese-shar-pei",
+      "type": "veterinary_reference",
+      "commercialUse": "reference_only",
+      "publishedOn": "2014-05-28",
+      "accessedOn": "2026-10-26",
+      "note": "Veterinary-authored breed reference covering history, temperament, grooming, lifespan, exercise and health concerns."
+    },
+    "oneill-et-al-shar-pei-health-2023": {
+      "id": "oneill-et-al-shar-pei-health-2023",
+      "name": "Is it now time to iron out the wrinkles? Health of Shar Pei dogs under primary veterinary care in the UK",
+      "publisher": "Canine Medicine and Genetics / Springer Nature",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38093396/",
+      "type": "scientific_publication",
+      "commercialUse": "reference_only",
+      "publishedOn": "2023-12-14",
+      "accessedOn": "2026-10-26",
+      "note": "Peer-reviewed VetCompass study of UK primary-care records from 2013, reporting common disorders and longevity measures in Shar Pei."
+    },
+    "merck-veterinary-manual-shar-pei-fever": {
+      "id": "merck-veterinary-manual-shar-pei-fever",
+      "name": "Merck Veterinary Manual - Shar-Pei Fever",
+      "publisher": "Merck Veterinary Manual",
+      "url": "https://www.merckvetmanual.com/immune-system/immunologic-diseases/shar-pei-fever",
+      "type": "veterinary_reference",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Veterinary-reviewed reference describing familial Shar-Pei fever, recurrent fever and inflammation, renal amyloidosis, and urinary-protein monitoring."
+    },
+    "chinese-shar-pei-club-health-statement": {
+      "id": "chinese-shar-pei-club-health-statement",
+      "name": "Chinese Shar-Pei Club of America - Health Statement",
+      "publisher": "Chinese Shar-Pei Club of America",
+      "url": "https://cdn.akc.org/Marketplace/Health-Statement/Chinese-Shar-Pei.pdf",
+      "type": "breed_club",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Breed-club health statement listing recommended screening for hip dysplasia, elbow dysplasia, autoimmune thyroiditis, patellar luxation and eye abnormalities."
+    },
+    "commons-traditional-shar-pei-canarian-2016": {
+      "id": "commons-traditional-shar-pei-canarian-2016",
+      "name": "Wikimedia Commons - Traditional Shar Pei.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Traditional_Shar_Pei.jpg",
+      "type": "other",
+      "commercialUse": "commercial_use",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "File page identifies Canarian as author and provides the CC BY-SA 4.0 license; commercial reuse is permitted subject to attribution and share-alike terms."
     }
   },
   "licenses": {
@@ -30675,6 +30840,476 @@
         }
       },
       "updatedOn": "2026-10-21"
+    },
+    {
+      "slug": "chien-francais-tricolore",
+      "name": "Chien Français Tricolore",
+      "scientificName": null,
+      "alternateNames": [
+        "Français Tricolore",
+        "French Tricolour Hound",
+        "French Tricolor Hound"
+      ],
+      "group": "FCI Group 6: Scenthounds and Related Breeds; Section 1.1: Large-sized Hounds (with working trial)",
+      "origin": {
+        "country": "France",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Frenchhound-tricolore.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Frenchhound-tricolore.jpg",
+          "title": "Frenchhound-tricolore.jpg",
+          "description": "A French Tricolour Hound photographed outdoors.",
+          "creator": "Canarian",
+          "uploader": "Canarian",
+          "capturedOn": "2022-04-23",
+          "uploadedOn": "2022-04-23",
+          "width": 2135,
+          "height": 2179,
+          "licenseId": "cc-by-sa-4.0",
+          "attribution": "Photo by Canarian, via Wikimedia Commons, licensed under CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Frenchhound-tricolore.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Provide appropriate credit, link to the license, indicate changes, and comply with the applicable share-alike terms for adaptations.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-26"
+        }
+      ],
+      "overview": {
+        "summary": "A large, elegant French pack hound developed for hunting large game, recognised by its tricolour coat and strong scent-hound construction.",
+        "description": "The Chien Français Tricolore is a large, athletic scent hound bred to work in a pack. The FCI standard describes an elegant but strongly built dog with good bone and muscle, a long head, low-set ears, a deep chest, a long tail carried high, and short, rather fine hair. Its working heritage means it is best understood as an active hunting hound rather than a companion breed bred primarily for sedentary life.",
+        "history": "The breed was developed in France as a pack hound for big-game hunting. The FCI lists definitive recognition on 15 December 1959. The reviewed sources do not establish a sufficiently detailed, verified account of its earlier development to state more specific ancestry claims.",
+        "originalPurpose": "Pack hunting of large game using scent and sustained movement.",
+        "currentRoles": [
+          "Pack hunting and scent-hound work",
+          "Active working-dog life with experienced handlers"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Large",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 62,
+            "max": 72
+          },
+          "female": {
+            "min": 60,
+            "max": 68
+          }
+        },
+        "weight": {
+          "unit": null,
+          "male": null,
+          "female": null
+        },
+        "lifespanYears": null,
+        "coatType": "Short, rather fine hair",
+        "coatLength": "Short",
+        "coatColors": [
+          "Tricolour",
+          "Black mantle with bright tan markings",
+          "Copper tan markings",
+          "Grizzled or wolf-grey colouring is admitted by the standard"
+        ],
+        "sheddingLevel": null,
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Large, elegant, strongly boned and muscular frame",
+          "Elongated head and black nose with open nostrils",
+          "Brown eyes",
+          "Ears set at eye level and slightly curled",
+          "Deep chest and long tail carried high",
+          "Short, rather fine coat with tricolour patterning"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Active working scent hound",
+          "Bred to work with other hounds in a pack",
+          "Purpose-built for following scent during hunting",
+          "Likely to need consistent handling and outlets for working behaviour"
+        ],
+        "scores": {
+          "affection": null,
+          "withChildren": null,
+          "withDogs": null,
+          "withStrangers": null,
+          "protectiveness": null,
+          "independence": null,
+          "trainability": null,
+          "barking": null,
+          "energy": null
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "High; provide regular, purposeful activity appropriate to the individual dog",
+          "minutesPerDay": null,
+          "activities": [
+            "Long walks in secure areas",
+            "Scent games and tracking-style enrichment",
+            "Structured outdoor activity with reliable containment"
+          ]
+        },
+        "grooming": {
+          "level": "Low to moderate",
+          "brushing": "Brush periodically to remove loose hair and check the skin.",
+          "bathing": "Bathe when needed, using a dog-appropriate shampoo.",
+          "notes": [
+            "The short coat generally does not require complex styling.",
+            "Check ears regularly, especially after outdoor activity.",
+            "Keep nails trimmed and maintain routine dental care."
+          ]
+        },
+        "training": {
+          "difficulty": "Best suited to a patient, consistent handler familiar with scent hounds and working dogs.",
+          "tips": [
+            "Use reward-based training and short, consistent sessions.",
+            "Build recall gradually and practise in secure areas because scent can be highly motivating.",
+            "Provide structured scent work and appropriate mental enrichment.",
+            "Introduce calm lead manners and household routines early."
+          ],
+          "socialization": "Provide gradual, positive exposure to people, dogs, environments, handling and everyday sounds from an appropriate age."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": false,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Provide secure shelter, shade and constant access to fresh water.",
+            "Adjust activity during hot, cold or severe weather."
+          ],
+          "aloneTimeTolerance": null
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced diet appropriate to the dog's life stage, body condition and activity level.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": null,
+          "senior": null
+        },
+        "guidelines": "Choose a nutritionally complete diet and tailor portions to age, activity, body condition and veterinary advice. Keep fresh water available and monitor body condition rather than relying on a fixed portion for every dog.",
+        "considerations": [
+          "Working activity can change energy needs; adjust portions to actual workload and body condition.",
+          "Introduce diet changes gradually.",
+          "Discuss persistent weight changes or digestive problems with a veterinarian."
+        ],
+        "note": "No breed-specific feeding quantities or verified feeding-frequency schedule were established by the sources reviewed."
+      },
+      "health": {
+        "overview": "The reviewed breed standards describe conformation and intended function, but do not provide a reliable breed-specific disease prevalence profile or a definitive screening protocol. Do not infer that the breed is free from inherited disease from this absence of data.",
+        "commonConditions": [],
+        "preventiveCare": [
+          "Arrange routine veterinary examinations and vaccinations appropriate to local guidance.",
+          "Maintain parasite prevention, dental care, nail care and a healthy body condition.",
+          "Seek veterinary advice for persistent lameness, changes in stamina, appetite or behaviour."
+        ],
+        "recommendedScreenings": [],
+        "dentalCare": "Brush the teeth regularly where tolerated and follow veterinary dental-care advice.",
+        "earCare": "Inspect ears regularly and seek veterinary advice for redness, odour, discharge or repeated head-shaking.",
+        "skinCare": "Check the skin and coat during routine grooming for wounds, parasites, irritation or unusual changes."
+      },
+      "suitability": {
+        "firstTimeOwners": false,
+        "familiesWithChildren": null,
+        "seniorOwners": false,
+        "activeOwners": true,
+        "apartmentLiving": false,
+        "idealFor": [
+          "Experienced, active owners familiar with hounds or working dogs",
+          "Homes able to provide regular outdoor activity, scent enrichment and secure management",
+          "Appropriate pack-hunting or scent-hound working environments where legal and humane"
+        ],
+        "notIdealFor": [
+          "People seeking a low-exercise companion dog",
+          "Homes unable to provide secure containment and regular activity",
+          "Owners who expect reliable off-leash recall without extensive training"
+        ]
+      },
+      "funFacts": [
+        "The FCI classifies the breed among large-sized hounds in Group 6 and records a working trial.",
+        "The FCI standard permits a grizzled wolf-colour appearance in addition to the characteristic tricolour pattern.",
+        "The FCI records definitive recognition of the breed on 15 December 1959."
+      ],
+      "faq": [
+        {
+          "question": "What was the Chien Français Tricolore bred to do?",
+          "answer": "It was developed as a pack hound for hunting large game."
+        },
+        {
+          "question": "How tall is a Chien Français Tricolore?",
+          "answer": "The FCI standard gives 62–72 cm for males and 60–68 cm for females."
+        },
+        {
+          "question": "What coat does the breed have?",
+          "answer": "The FCI standard describes short, rather fine hair and a tricolour coat; black mantle and bright or copper tan markings are described, and grizzled wolf colour is admitted."
+        },
+        {
+          "question": "Is this breed suitable for apartment living?",
+          "answer": "It is generally a poor fit for a typical low-activity apartment lifestyle because it is a large working scent hound that needs purposeful activity and secure management. This is a practical suitability assessment, not a formal breed-standard rule."
+        },
+        {
+          "question": "What is the breed's typical lifespan or weight?",
+          "answer": "The reliable sources reviewed for this record did not establish a breed-specific lifespan or weight range, so these values are left unrecorded rather than guessed."
+        }
+      ],
+      "references": [
+        "fci-francais-tricolore-standard-2023",
+        "fci-francais-tricolore-nomenclature",
+        "ukc-chien-francais-tricolore-standard",
+        "venerie-chien-francais-tricolore",
+        "commons-frenchhound-tricolore-canarian-2022"
+      ],
+      "evidence": {
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-francais-tricolore-nomenclature",
+              "role": "verified",
+              "locator": "Official breed nomenclature entry"
+            },
+            {
+              "id": "ukc-chien-francais-tricolore-standard",
+              "role": "verified",
+              "locator": "Breed name and standard heading"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Names are restricted to the FCI name and English-language variants used by the consulted kennel-club source."
+        },
+        "scientificName": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed breed sources do not specify a breed-specific scientific name."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-francais-tricolore-standard-2023",
+              "role": "verified",
+              "locator": "FCI classification section"
+            },
+            {
+              "id": "fci-francais-tricolore-nomenclature",
+              "role": "verified",
+              "locator": "Group and section listing"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "FCI Group 6, Section 1.1, with working trial."
+        },
+        "origin": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-francais-tricolore-standard-2023",
+              "role": "verified",
+              "locator": "Origin"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The breed's country of origin is France; no more specific region is stated."
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed sources do not identify a specific French region of origin."
+        },
+        "overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-francais-tricolore-standard-2023",
+              "role": "verified",
+              "locator": "General appearance, use, coat and colour sections"
+            },
+            {
+              "id": "ukc-chien-francais-tricolore-standard",
+              "role": "verified",
+              "locator": "History and breed standard"
+            },
+            {
+              "id": "venerie-chien-francais-tricolore",
+              "role": "cited",
+              "locator": "French-language breed description"
+            },
+            {
+              "id": "fci-francais-tricolore-nomenclature",
+              "role": "verified",
+              "locator": "Definitive recognition date"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Summary, description and purpose follow the official standard and kennel-club description; detailed early ancestry is deliberately not asserted."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-francais-tricolore-standard-2023",
+              "role": "verified",
+              "locator": "General appearance, head, body, tail, coat, colour and size"
+            },
+            {
+              "id": "ukc-chien-francais-tricolore-standard",
+              "role": "verified",
+              "locator": "Breed standard"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Standard-derived appearance and coat details. Unpublished weight, lifespan and grooming-related numeric ratings are not inferred."
+        },
+        "physical.weight": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted standards do not provide a reliable weight range."
+        },
+        "physical.lifespanYears": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific lifespan figure was established from the reviewed sources."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The coat description does not establish a verified shedding-level rating."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed sources do not establish a verified drooling-level rating."
+        },
+        "temperament": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-francais-tricolore-standard-2023",
+              "role": "verified",
+              "locator": "Use and general appearance"
+            },
+            {
+              "id": "ukc-chien-francais-tricolore-standard",
+              "role": "verified",
+              "locator": "History and working-hound description"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Only working role and pack-hound context are stated as breed facts; no unsupported numeric temperament ratings are supplied."
+        },
+        "temperament.scores": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No source reviewed supplies validated numerical temperament scores for this breed."
+        },
+        "care": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Practical care guidance based on general dog-care principles and the breed's documented working-hound role; not a claim from the breed standard."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No verified breed-specific daily exercise-minute recommendation was found."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed sources do not establish a breed-specific alone-time tolerance."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine nutrition guidance only; no breed-specific feeding amounts are asserted."
+        },
+        "nutrition.feedingFrequency": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No verified breed-specific puppy, adult or senior feeding frequency was found."
+        },
+        "health": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General preventive-care advice only; the reviewed standards do not establish breed-specific disease prevalence or screening recommendations."
+        },
+        "health.commonConditions": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No sufficiently reliable breed-specific common-condition list was established from the reviewed sources."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No verified breed-specific screening protocol was established from the reviewed sources."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Suitability recommendations are editorial estimates based on the documented large working scent-hound role, not verified temperament testing."
+        },
+        "suitability.familiesWithChildren": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed sources do not establish a reliable breed-specific family-with-children suitability assessment."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-francais-tricolore-standard-2023",
+              "role": "verified",
+              "locator": "Classification and colour sections"
+            },
+            {
+              "id": "fci-francais-tricolore-nomenclature",
+              "role": "verified",
+              "locator": "Definitive recognition date"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Facts are drawn from the FCI standard and official nomenclature listing."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-francais-tricolore-standard-2023",
+              "role": "verified",
+              "locator": "Use, size, coat and colour sections"
+            },
+            {
+              "id": "fci-francais-tricolore-nomenclature",
+              "role": "verified",
+              "locator": "Recognition date"
+            },
+            {
+              "id": "ukc-chien-francais-tricolore-standard",
+              "role": "verified",
+              "locator": "Breed description"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Answers are limited to information supported by the consulted breed sources or clearly labelled practical suitability guidance."
+        }
+      },
+      "updatedOn": "2026-10-26"
     },
     {
       "slug": "chinese-crested-dog",
@@ -79741,6 +80376,887 @@
         }
       },
       "updatedOn": "2026-10-21"
+    },
+    {
+      "slug": "shar-pei",
+      "name": "Shar Pei",
+      "scientificName": null,
+      "alternateNames": [
+        "Chinese Shar-Pei",
+        "Chinese Shar Pei",
+        "Shar-Pei"
+      ],
+      "group": "FCI Group 2: Pinscher and Schnauzer – Molossoid and Swiss Mountain and Cattledogs; Section 2.1: Molossian type, Mastiff type. The AKC places the breed in its Non-Sporting Group.",
+      "origin": {
+        "country": "China",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Traditional_Shar_Pei.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Traditional_Shar_Pei.jpg",
+          "title": "Traditional Shar Pei.jpg",
+          "description": "A brown, traditional-type male Chinese Shar Pei.",
+          "creator": "Canarian",
+          "uploader": "Canarian",
+          "capturedOn": null,
+          "uploadedOn": "2016-11-25",
+          "width": 697,
+          "height": 675,
+          "licenseId": "cc-by-sa-4.0",
+          "attribution": "Photo by Canarian, via Wikimedia Commons, licensed under CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Traditional_Shar_Pei.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. No changes made. Provide appropriate credit and the license link; any adaptation must be shared under the same or a compatible license.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-26"
+        }
+      ],
+      "overview": {
+        "summary": "The Shar Pei is a compact, medium-sized Chinese breed recognised by its loose folds of skin, small ears, broad muzzle and short, harsh coat. It is typically devoted to familiar people and reserved with strangers, so thoughtful socialisation and consistent handling matter.",
+        "description": "A sturdy, squarely built dog, the Shar Pei has a distinctive head and muzzle, a high-set tail and a coat that feels rough rather than soft. Puppies usually have more pronounced folds than adults. The breed is often independent and self-possessed; its calm appearance should not be mistaken for a lack of need for training, enrichment or veterinary care.",
+        "history": "The breed developed in China and historically worked around farms, including guarding homes and livestock and assisting with hunting. Its population declined sharply in the twentieth century, and enthusiasts in Hong Kong, Taiwan and North America helped preserve it. Modern dogs can differ in the amount of facial and body skin they carry, making responsible breeding and attention to comfort especially important.",
+        "originalPurpose": "Farm work, including guarding property and livestock and assisting with hunting; historical accounts also describe use in dog fighting.",
+        "currentRoles": [
+          "Companion dog",
+          "Household and property watchdog",
+          "Show and breed-competition dog"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Medium-sized",
+        "height": {
+          "unit": "in",
+          "male": {
+            "min": 18,
+            "max": 20
+          },
+          "female": {
+            "min": 18,
+            "max": 20
+          }
+        },
+        "weight": {
+          "unit": "lb",
+          "male": {
+            "min": 45,
+            "max": 60
+          },
+          "female": {
+            "min": 45,
+            "max": 60
+          }
+        },
+        "lifespanYears": {
+          "min": 8,
+          "max": 12
+        },
+        "coatType": "A single, short, straight, harsh-textured coat that stands away from the body; the breed has no soft, dense undercoat in the standard description.",
+        "coatLength": "Very short 'horse coat' or a somewhat longer 'brush coat'; the FCI standard limits the coat to no more than 2.5 cm.",
+        "coatColors": [
+          "Black",
+          "Blue",
+          "Brown",
+          "Chocolate",
+          "Cream",
+          "Apricot",
+          "Red",
+          "Fawn",
+          "Sable",
+          "Dilute shades of accepted solid colours"
+        ],
+        "sheddingLevel": "Moderate. The coat is short and easy to brush, but short hair can still shed.",
+        "droolingLevel": "Moderate; individual dogs vary, and lip shape can affect drooling.",
+        "distinctiveFeatures": [
+          "Loose, folded skin, especially prominent in puppies and often more limited to the head, neck and withers in adults",
+          "Broad muzzle often described as hippopotamus-like",
+          "Small, triangular ears set high and close to the head",
+          "Blue-black tongue in most accepted solid-colour dogs; some dilute colours may have a lighter or lavender tongue",
+          "High-set tail that curves over or to one side of the back",
+          "Short, bristly coat with horse-coat and brush-coat varieties"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Loyal and strongly attached to familiar people",
+          "Independent and self-possessed",
+          "Often reserved or aloof with unfamiliar people",
+          "Alert and naturally watchful",
+          "May be selective or intolerant with unfamiliar dogs without suitable socialisation",
+          "Can be strong-willed and benefits from calm, consistent handling"
+        ],
+        "scores": {
+          "affection": 3,
+          "withChildren": 3,
+          "withDogs": 2,
+          "withStrangers": 2,
+          "protectiveness": 5,
+          "independence": 5,
+          "trainability": 3,
+          "barking": 3,
+          "energy": 3
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate",
+          "minutesPerDay": null,
+          "activities": [
+            "Daily walks at a comfortable pace",
+            "Short play sessions and supervised sniffing games",
+            "Reward-based training and food-puzzle enrichment"
+          ]
+        },
+        "grooming": {
+          "level": "Low to moderate, with extra attention to skin folds and ears",
+          "brushing": "Brush about once a week with a soft brush or grooming mitt, and check the skin while grooming.",
+          "bathing": "Bathe when needed with a dog-appropriate shampoo; rinse thoroughly and dry all skin folds carefully.",
+          "notes": [
+            "Check skin folds regularly for redness, odour, moisture or discharge; clean and dry them gently as needed.",
+            "Inspect ears regularly and seek veterinary advice for odour, discharge, redness, head-shaking or discomfort.",
+            "Trim nails as needed and maintain routine dental care.",
+            "Avoid vigorous exercise in hot weather and provide shade and fresh water."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate to challenging for inexperienced handlers because the breed can be independent and reserved.",
+          "tips": [
+            "Use short, consistent, reward-based sessions and clear household rules.",
+            "Introduce people, dogs, handling and everyday environments gradually and positively from puppyhood.",
+            "Teach reliable leash manners and calm responses to visitors before guarding behaviour becomes rehearsed.",
+            "Avoid intimidation or physical punishment; seek a qualified reward-based trainer if reactivity develops."
+          ],
+          "socialization": "Early, ongoing, positive socialisation is important, particularly around unfamiliar people, dogs and routine veterinary handling."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": true,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Provide shade, ventilation and fresh water in warm weather.",
+            "Avoid strenuous activity during hot or humid conditions.",
+            "Keep the dog indoors with the family rather than leaving it isolated outdoors for long periods."
+          ],
+          "aloneTimeTolerance": "Often limited: this breed may bond closely with its household and can struggle if left alone for long periods. Build alone-time skills gradually and arrange companionship when needed."
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced diet appropriate to the dog's life stage, body condition and activity level.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": null,
+          "senior": null
+        },
+        "guidelines": "Choose a nutritionally complete food and measure portions against body condition rather than relying only on package estimates. Keep fresh water available, introduce diet changes gradually and ask a veterinarian to tailor feeding to age, activity, weight and medical needs.",
+        "considerations": [
+          "Monitor body condition and adjust portions to prevent excess weight.",
+          "If recurrent itching, ear disease or skin problems occur, discuss possible allergy evaluation with a veterinarian rather than changing diets repeatedly without guidance.",
+          "Do not use supplements or restrictive diets as a substitute for veterinary assessment."
+        ],
+        "note": "No fixed breed-specific meal count is recorded here because the sources reviewed do not establish a universal schedule for every life stage."
+      },
+      "health": {
+        "overview": "Shar Pei need particular attention to their eyes, ears and skin folds. A UK primary-care study using clinical records from 2013 found entropion, an inward-turning eyelid, in 17.88% of recorded Shar Pei; otitis externa in 16.36%; and pyoderma, a skin infection, in 4.29%. These figures describe that study population and period, not the probability for every individual dog. The same study reported a median longevity of 7.28 years among 190 dogs that died during the study period, which is a different measure from a general breed-profile lifespan estimate.",
+        "commonConditions": [
+          "Entropion and related eye irritation",
+          "Otitis externa and other ear disorders",
+          "Skin-fold inflammation and bacterial skin infection (pyoderma)",
+          "Allergic skin disease",
+          "Hip dysplasia",
+          "Hypothyroidism",
+          "Kidney disorders, including concerns associated with Shar Pei fever and amyloidosis"
+        ],
+        "preventiveCare": [
+          "Arrange regular veterinary examinations and seek prompt care for squinting, eye discharge, painful eyes, ear odour, persistent itching or inflamed skin folds.",
+          "Keep skin folds clean and dry without harsh scrubbing or unprescribed products.",
+          "Maintain a healthy body condition, routine parasite prevention, vaccination and dental care with veterinary guidance.",
+          "Discuss the breed's eye, ear, skin and kidney risks with a veterinarian when choosing a puppy and during routine wellness visits.",
+          "Ask a veterinarian whether periodic urinalysis or urine-protein monitoring is appropriate, particularly if there is concern about Shar Pei fever or kidney disease."
+        ],
+        "recommendedScreenings": [
+          "Veterinary eye examination, with particular attention to entropion and signs of irritation.",
+          "For breeding dogs, discuss recognised eye and hip screening with a veterinarian and responsible breeder.",
+          "Prompt veterinary assessment of recurrent ear or skin disease and any episodes of fever, joint pain, vomiting, loss of appetite or marked lethargy."
+        ],
+        "dentalCare": "Brush teeth regularly with dog-specific toothpaste and arrange dental checks as part of routine veterinary care.",
+        "earCare": "Check ears frequently and clean only with a veterinarian-recommended product when needed. Seek advice for odour, discharge, redness, head-shaking or pain; the breed's narrow, folded ear structure can make ear problems important to catch early.",
+        "skinCare": "Inspect folds and areas around the face, neck and tail for moisture, redness, odour or sores. Gently clean when needed and dry thoroughly; persistent irritation requires veterinary assessment rather than repeated home treatment."
+      },
+      "suitability": {
+        "firstTimeOwners": false,
+        "familiesWithChildren": null,
+        "seniorOwners": null,
+        "activeOwners": true,
+        "apartmentLiving": null,
+        "idealFor": [
+          "Owners who appreciate an independent, loyal companion and can provide consistent training",
+          "Households prepared for regular skin-fold, ear and eye checks",
+          "People able to provide daily walks, enrichment and early socialisation"
+        ],
+        "notIdealFor": [
+          "Owners expecting every dog to be immediately sociable with unfamiliar people or dogs",
+          "Households unable to provide routine skin-fold and ear care or prompt veterinary attention",
+          "People who leave a dog alone for long periods every day without a gradual plan or companionship"
+        ]
+      },
+      "funFacts": [
+        "Shar Pei puppies usually have more extensive skin folds than adults; the folds often become less pronounced as the dog matures.",
+        "The breed is recognised by its short, coarse coat and distinctive broad muzzle.",
+        "The name Shar Pei is commonly translated as referring to a sandy or sandpaper-like coat texture.",
+        "The breed's international FCI recognition became definitive in 1981."
+      ],
+      "faq": [
+        {
+          "question": "Are Shar Pei good family dogs?",
+          "answer": "They can be loyal companions in a well-managed household, but temperament varies. Early positive socialisation, supervision around children and consistent training are important; do not assume every individual will welcome unfamiliar people or dogs."
+        },
+        {
+          "question": "Do Shar Pei need special skin care?",
+          "answer": "Yes. Check the folds regularly, keep them clean and dry, and contact a veterinarian if you notice redness, odour, discharge or persistent itching. Excessive folds can be associated with painful skin and eye problems."
+        },
+        {
+          "question": "What health problems deserve particular attention?",
+          "answer": "Eye problems such as entropion, ear disease and skin infections are important concerns. The breed has also been associated with kidney disorders and hip dysplasia. A veterinarian can advise on examinations and screening appropriate to the individual dog."
+        },
+        {
+          "question": "How much exercise does a Shar Pei need?",
+          "answer": "Many do well with daily walks and moderate activity, combined with enrichment and training. There is no single evidence-based number of minutes that suits every Shar Pei; adjust activity for age, fitness, health and weather."
+        },
+        {
+          "question": "How often should a Shar Pei be brushed?",
+          "answer": "A weekly brushing is a reasonable starting point for the short coat. Skin-fold and ear checks need to be more frequent than coat brushing."
+        },
+        {
+          "question": "What size is a Shar Pei?",
+          "answer": "The American Kennel Club standard lists a height of 18–20 inches at the withers and an overall weight range of 45–60 pounds. Those are standard figures, not a guarantee of an individual dog's adult size."
+        }
+      ],
+      "references": [
+        "fci-shar-pei-standard-1999",
+        "fci-shar-pei-nomenclature",
+        "akc-chinese-shar-pei-profile",
+        "akc-chinese-shar-pei-standard",
+        "canadian-kennel-club-chinese-shar-pei",
+        "vca-chinese-shar-pei",
+        "merck-veterinary-manual-shar-pei-fever",
+        "chinese-shar-pei-club-health-statement",
+        "oneill-et-al-shar-pei-health-2023",
+        "commons-traditional-shar-pei-canarian-2016"
+      ],
+      "evidence": {
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-chinese-shar-pei-profile",
+              "role": "verified",
+              "locator": "Breed name and opening breed description"
+            },
+            {
+              "id": "canadian-kennel-club-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Breed name and breed overview"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Alternate spellings and the Chinese Shar-Pei name are confirmed by kennel-club breed profiles."
+        },
+        "scientificName": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No breed-specific scientific-name claim was needed for this record, so the field is left null."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shar-pei-standard-1999",
+              "role": "verified",
+              "locator": "Cover and FCI classification"
+            },
+            {
+              "id": "fci-shar-pei-nomenclature",
+              "role": "verified",
+              "locator": "Group, section, subsection and country of origin"
+            },
+            {
+              "id": "akc-chinese-shar-pei-profile",
+              "role": "verified",
+              "locator": "Breed group"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "FCI classification and the separate AKC group are both recorded to avoid implying that kennel-club grouping systems are identical."
+        },
+        "origin.country": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shar-pei-standard-1999",
+              "role": "verified",
+              "locator": "Heading: Country of origin"
+            },
+            {
+              "id": "fci-shar-pei-nomenclature",
+              "role": "verified",
+              "locator": "Country of origin of the breed"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The official FCI standard and nomenclature identify China as the breed's country of origin."
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The sources reviewed do not establish a single precise region as the definitive origin for this breed record."
+        },
+        "overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-shar-pei-standard-1999",
+              "role": "verified",
+              "locator": "General appearance, temperament, origin and historical use"
+            },
+            {
+              "id": "canadian-kennel-club-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Origin, temperament and breed overview"
+            },
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "History, temperament and appearance"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Overview fields synthesise official-standard and kennel-club/veterinary descriptions in original wording."
+        },
+        "physical.sizeCategory": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-chinese-shar-pei-standard",
+              "role": "verified",
+              "locator": "Size, proportion and substance"
+            },
+            {
+              "id": "fci-shar-pei-standard-1999",
+              "role": "verified",
+              "locator": "General appearance"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The standard describes a medium-sized, compact dog."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-chinese-shar-pei-standard",
+              "role": "verified",
+              "locator": "Size, proportion and substance: height at the withers"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Height is stored in inches, the unit printed in the selected AKC standard. The same standard range is recorded for both sexes because it does not give separate sex-specific height ranges."
+        },
+        "physical.weight": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-chinese-shar-pei-standard",
+              "role": "verified",
+              "locator": "Size, proportion and substance: weight"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Weight is stored in pounds, the unit printed in the selected AKC standard. Its single overall breed range is recorded for both sexes because the standard does not give separate sex-specific ranges."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Breed overview: lifespan 8 to 12 years"
+            },
+            {
+              "id": "oneill-et-al-shar-pei-health-2023",
+              "role": "verified",
+              "locator": "Results: median longevity among 190 deaths in the study cohort"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The general profile estimate is 8–12 years. The cited UK cohort's median longevity of 7.28 years is noted separately in health.overview because it describes a specific study population and is not directly interchangeable with a breed-profile lifespan range."
+        },
+        "physical.coatType": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shar-pei-standard-1999",
+              "role": "verified",
+              "locator": "Coat"
+            },
+            {
+              "id": "akc-chinese-shar-pei-standard",
+              "role": "verified",
+              "locator": "Coat"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The standards describe a short, harsh, straight coat with a distinctive bristly texture."
+        },
+        "physical.coatLength": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shar-pei-standard-1999",
+              "role": "verified",
+              "locator": "Coat: horse coat and brush coat lengths"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The FCI standard describes horse-coat and brush-coat varieties and sets a maximum coat length of 2.5 cm; that measurement is retained only in the descriptive text as printed by the standard."
+        },
+        "physical.coatColors": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shar-pei-standard-1999",
+              "role": "verified",
+              "locator": "Colour"
+            },
+            {
+              "id": "akc-chinese-shar-pei-profile",
+              "role": "verified",
+              "locator": "Breed colours and markings"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Listed colours are examples of accepted solid colours and dilute shades; white is not represented as an accepted solid colour under the FCI standard."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Breed overview: shedding level"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The veterinary breed profile characterises shedding as moderate."
+        },
+        "physical.droolingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Breed overview: drooling level"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The veterinary breed profile characterises drooling as moderate; individual dogs vary."
+        },
+        "physical.distinctiveFeatures": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-shar-pei-standard-1999",
+              "role": "verified",
+              "locator": "General appearance, head, ears, tail and coat"
+            },
+            {
+              "id": "akc-chinese-shar-pei-standard",
+              "role": "verified",
+              "locator": "General appearance, head, tongue, skin and coat"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Distinctive features are paraphrased from the official standards."
+        },
+        "temperament.traits": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-chinese-shar-pei-profile",
+              "role": "verified",
+              "locator": "Breed overview and temperament"
+            },
+            {
+              "id": "canadian-kennel-club-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Temperament"
+            },
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Temperament and training"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Trait descriptions reflect recurring source descriptions of loyalty, independence, reserve and guarding instincts without claiming every individual behaves identically."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-chinese-shar-pei-profile",
+              "role": "cited",
+              "locator": "Breed overview and temperament"
+            },
+            {
+              "id": "canadian-kennel-club-chinese-shar-pei",
+              "role": "cited",
+              "locator": "Temperament and activity level"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "The 1–5 scores are editorial estimates informed by descriptions of loyalty, independence, reserve and guarding tendencies; they are not measured behavioural test results."
+        },
+        "care.exercise.level": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Breed overview: energy level"
+            },
+            {
+              "id": "canadian-kennel-club-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Activity level"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Sources describe the breed as moderate or relatively calm in activity needs."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed breed standards and veterinary/kennel-club profiles do not establish a reliable universal daily minute range."
+        },
+        "care.exercise.activities": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Walks, play and enrichment are practical general recommendations, not a breed-specific measured prescription."
+        },
+        "care.grooming": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Grooming and care: weekly brushing and ear care"
+            },
+            {
+              "id": "canadian-kennel-club-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Coat and grooming"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Weekly coat brushing and additional attention to skin folds are supported by veterinary and kennel-club guidance."
+        },
+        "care.training": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Temperament and training"
+            },
+            {
+              "id": "akc-chinese-shar-pei-profile",
+              "role": "verified",
+              "locator": "Temperament and socialisation"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Training and socialisation guidance reflects the breed's independent temperament and reserve with unfamiliar people and dogs."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "canadian-kennel-club-chinese-shar-pei",
+              "role": "cited",
+              "locator": "Activity level"
+            },
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "cited",
+              "locator": "Breed overview and care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Apartment suitability is an editorial estimate conditional on daily exercise, training, companionship and routine skin/ear care; individual dogs and housing rules differ."
+        },
+        "care.livingEnvironment.houseWithYardSuitable": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "cited",
+              "locator": "Breed overview and care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "A home with a secure yard can be suitable but is not a substitute for companionship, walks or training."
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Shade, water, ventilation and avoiding strenuous activity in heat are general canine welfare advice rather than a claim that the breed has a precisely measured climate tolerance."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Temperament: caution about being left alone for long periods"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The veterinary breed profile notes that the breed may be a poor fit for being left alone for long periods."
+        },
+        "nutrition.dietType": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A complete and balanced diet tailored to life stage and body condition is general veterinary nutrition guidance."
+        },
+        "nutrition.feedingFrequency": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The sources reviewed do not establish fixed puppy, adult and senior meal counts that apply to every Shar Pei."
+        },
+        "nutrition.guidelines": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Portion measurement, body-condition monitoring, gradual diet changes and access to fresh water are general canine nutrition guidance."
+        },
+        "nutrition.considerations": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Veterinary evaluation is preferable to repeated unsupervised diet changes when skin, ear or suspected food-allergy symptoms occur."
+        },
+        "nutrition.note": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal meal schedule is asserted because age, activity, health and food formulation affect feeding needs."
+        },
+        "health.overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "oneill-et-al-shar-pei-health-2023",
+              "role": "verified",
+              "locator": "Results and conclusions: UK primary-care records from 2013"
+            },
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Health concerns"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Health text distinguishes findings from a defined UK clinical-record cohort from general veterinary breed guidance."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "oneill-et-al-shar-pei-health-2023",
+              "role": "verified",
+              "locator": "Results: entropion, otitis externa and pyoderma prevalence"
+            },
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Health concerns: eye, skin, ear, hip, thyroid and kidney problems"
+            },
+            {
+              "id": "merck-veterinary-manual-shar-pei-fever",
+              "role": "verified",
+              "locator": "Clinical findings and key points: familial fever syndrome and renal amyloidosis"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Conditions are supported by a population study and veterinary references; inclusion does not mean every dog will develop them."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Routine veterinary care and early assessment of concerning symptoms are general preventive-care guidance, tailored here to the breed's documented risk areas."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Health concerns: recommended pre-breeding OFA and CERF screenings"
+            },
+            {
+              "id": "oneill-et-al-shar-pei-health-2023",
+              "role": "verified",
+              "locator": "Conclusions: welfare relevance of entropion and skin/ear disease"
+            },
+            {
+              "id": "merck-veterinary-manual-shar-pei-fever",
+              "role": "verified",
+              "locator": "Diagnosis: routine screening for urinary protein loss is recommended in Shar Pei"
+            },
+            {
+              "id": "chinese-shar-pei-club-health-statement",
+              "role": "verified",
+              "locator": "Recommended CHIC health screenings"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Eye checks, recognised pre-breeding screening and veterinary discussion of urinary protein monitoring are supported; the record does not invent a universal screening panel for every pet."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Routine tooth brushing and veterinary dental checks are general canine preventive-care advice."
+        },
+        "health.earCare": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Grooming and care: regular ear cleaning"
+            },
+            {
+              "id": "oneill-et-al-shar-pei-health-2023",
+              "role": "verified",
+              "locator": "Results: otitis externa and other ear disorders"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Regular inspection and prompt attention to ear symptoms are supported by veterinary guidance and breed-specific epidemiology."
+        },
+        "health.skinCare": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "canadian-kennel-club-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Grooming: skin-fold care"
+            },
+            {
+              "id": "oneill-et-al-shar-pei-health-2023",
+              "role": "verified",
+              "locator": "Results: pyoderma and dermatological disorders"
+            },
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Grooming and health concerns"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Skin-fold checks and attention to inflammation or infection are supported by breed-care guidance and population-level health findings."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-chinese-shar-pei-profile",
+              "role": "cited",
+              "locator": "Temperament and breed overview"
+            },
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "cited",
+              "locator": "Temperament, training and care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability descriptions are editorial guidance based on the breed's independence, reserve, training needs and care requirements; they are not a validated behavioural or household assessment."
+        },
+        "suitability.familiesWithChildren": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed sources do not support a universal yes/no rating for every family with children; supervision and the individual dog's temperament matter."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed sources do not establish a reliable breed-wide yes/no rating for senior owners."
+        },
+        "suitability.apartmentLiving": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The reviewed sources do not establish a universal yes/no rating for apartment living; the answer depends on the individual dog and its care plan."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-shar-pei-standard-1999",
+              "role": "verified",
+              "locator": "General appearance, coat and colour"
+            },
+            {
+              "id": "fci-shar-pei-nomenclature",
+              "role": "verified",
+              "locator": "Recognition status and date"
+            },
+            {
+              "id": "akc-chinese-shar-pei-profile",
+              "role": "verified",
+              "locator": "Breed description and coat"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Fun facts are paraphrased from official and kennel-club material."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-shar-pei-standard-1999",
+              "role": "verified",
+              "locator": "General appearance, coat and colour"
+            },
+            {
+              "id": "akc-chinese-shar-pei-standard",
+              "role": "verified",
+              "locator": "Size, proportion and substance"
+            },
+            {
+              "id": "vca-chinese-shar-pei",
+              "role": "verified",
+              "locator": "Breed overview, grooming and health concerns"
+            },
+            {
+              "id": "oneill-et-al-shar-pei-health-2023",
+              "role": "verified",
+              "locator": "Results and conclusions"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "FAQ answers summarise sourced facts and clearly distinguish general guidance from study-specific statistics."
+        }
+      },
+      "updatedOn": "2026-10-26"
     },
     {
       "slug": "shiba-inu",

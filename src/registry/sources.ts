@@ -9754,6 +9754,171 @@ export const sources = defineSources({
     accessedOn: "2026-10-26",
     note: "Original file page credits Dzhermanotta-royals and specifies Creative Commons Attribution-ShareAlike 4.0 International."
   },
+  "fci-francais-tricolore-standard-2023": {
+    id: "fci-francais-tricolore-standard-2023",
+    name: "FCI Standard No. 219 - Français Tricolore",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/219g06-en.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2023-10-06",
+    accessedOn: "2026-10-26",
+    note: "Official English-language breed standard, including origin, FCI classification, intended use, appearance, coat, colour and sex-specific height."
+  },
+  "fci-francais-tricolore-nomenclature": {
+    id: "fci-francais-tricolore-nomenclature",
+    name: "FCI Nomenclature - French Tricolour Hound No. 219",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/en/nomenclature/FRENCH-TRICOLOUR-HOUND-219.html",
+    type: "breed_registry",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Official breed nomenclature entry confirming the international name, origin, group, section, recognition and working-trial status."
+  },
+  "ukc-chien-francais-tricolore-standard": {
+    id: "ukc-chien-francais-tricolore-standard",
+    name: "United Kennel Club - Chien Français Tricolore Breed Standard",
+    publisher: "United Kennel Club",
+    url: "https://www.ukcdogs.com/chien-francais-tricolore",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Kennel-club standard covering history, working-hound appearance, coat, colour, height and conformation."
+  },
+  "venerie-chien-francais-tricolore": {
+    id: "venerie-chien-francais-tricolore",
+    name: "Société de Vénerie - Le Chien Français Tricolore",
+    publisher: "Société de Vénerie",
+    url: "https://www.venerie.org/chiens-de-chasse-a-courre/races-le-chien-francais-tricolore.html",
+    type: "other",
+    commercialUse: "reference_only",
+    publishedOn: "1997-09-15",
+    accessedOn: "2026-10-26",
+    note: "Supplementary French-language description reproducing an older FCI standard and documenting traditional pack-hunting use."
+  },
+  "commons-frenchhound-tricolore-canarian-2022": {
+    id: "commons-frenchhound-tricolore-canarian-2022",
+    name: "Wikimedia Commons - Frenchhound-tricolore.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Frenchhound-tricolore.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Original file page identifies Canarian as the author, dates the photograph to 23 April 2022 and specifies CC BY-SA 4.0."
+  },
+  "fci-shar-pei-standard-1999": {
+    id: "fci-shar-pei-standard-1999",
+    name: "FCI Standard No. 309 - Shar Pei",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://fci.be/Nomenclature/Standards/309g02-en.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "1999-08-09",
+    accessedOn: "2026-10-26",
+    note: "Official English-language standard covering origin, classification, appearance, temperament, coat and colour."
+  },
+  "fci-shar-pei-nomenclature": {
+    id: "fci-shar-pei-nomenclature",
+    name: "FCI Nomenclature - Shar Pei No. 309",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/en/nomenclature/SHAR-PEI-309.html",
+    type: "breed_registry",
+    commercialUse: "reference_only",
+    publishedOn: "1999-08-09",
+    accessedOn: "2026-10-26",
+    note: "Official nomenclature entry confirming FCI group, section, origin country, recognition status and valid-standard date."
+  },
+  "akc-chinese-shar-pei-profile": {
+    id: "akc-chinese-shar-pei-profile",
+    name: "American Kennel Club - Chinese Shar-Pei",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/dog-breeds/chinese-shar-pei/",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Breed profile and colour listings covering appearance, temperament and AKC group."
+  },
+  "akc-chinese-shar-pei-standard": {
+    id: "akc-chinese-shar-pei-standard",
+    name: "American Kennel Club - Official Standard of the Chinese Shar-Pei",
+    publisher: "American Kennel Club",
+    url: "https://images.akc.org/pdf/breeds/standards/ChineseSharPei.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Official standard including the stated 18–20 inch height range and 45–60 pound overall weight range."
+  },
+  "canadian-kennel-club-chinese-shar-pei": {
+    id: "canadian-kennel-club-chinese-shar-pei",
+    name: "Canadian Kennel Club - Chinese Shar-Pei",
+    publisher: "Canadian Kennel Club",
+    url: "https://www.ckc.ca/en/Choosing-a-Dog/Choosing-a-Breed/Non-Sporting-Dogs/Chinese-Shar-Pei",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Breed profile covering origin, temperament, activity, coat, colour and grooming."
+  },
+  "vca-chinese-shar-pei": {
+    id: "vca-chinese-shar-pei",
+    name: "VCA Animal Hospitals - Chinese Shar-Pei",
+    publisher: "VCA Animal Hospitals / LifeLearn",
+    url: "https://vcahospitals.com/know-your-pet/chinese-shar-pei",
+    type: "veterinary_reference",
+    commercialUse: "reference_only",
+    publishedOn: "2014-05-28",
+    accessedOn: "2026-10-26",
+    note: "Veterinary-authored breed reference covering history, temperament, grooming, lifespan, exercise and health concerns."
+  },
+  "oneill-et-al-shar-pei-health-2023": {
+    id: "oneill-et-al-shar-pei-health-2023",
+    name: "Is it now time to iron out the wrinkles? Health of Shar Pei dogs under primary veterinary care in the UK",
+    publisher: "Canine Medicine and Genetics / Springer Nature",
+    url: "https://pubmed.ncbi.nlm.nih.gov/38093396/",
+    type: "scientific_publication",
+    commercialUse: "reference_only",
+    publishedOn: "2023-12-14",
+    accessedOn: "2026-10-26",
+    note: "Peer-reviewed VetCompass study of UK primary-care records from 2013, reporting common disorders and longevity measures in Shar Pei."
+  },
+  "merck-veterinary-manual-shar-pei-fever": {
+    id: "merck-veterinary-manual-shar-pei-fever",
+    name: "Merck Veterinary Manual - Shar-Pei Fever",
+    publisher: "Merck Veterinary Manual",
+    url: "https://www.merckvetmanual.com/immune-system/immunologic-diseases/shar-pei-fever",
+    type: "veterinary_reference",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Veterinary-reviewed reference describing familial Shar-Pei fever, recurrent fever and inflammation, renal amyloidosis, and urinary-protein monitoring."
+  },
+  "chinese-shar-pei-club-health-statement": {
+    id: "chinese-shar-pei-club-health-statement",
+    name: "Chinese Shar-Pei Club of America - Health Statement",
+    publisher: "Chinese Shar-Pei Club of America",
+    url: "https://cdn.akc.org/Marketplace/Health-Statement/Chinese-Shar-Pei.pdf",
+    type: "breed_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "Breed-club health statement listing recommended screening for hip dysplasia, elbow dysplasia, autoimmune thyroiditis, patellar luxation and eye abnormalities."
+  },
+  "commons-traditional-shar-pei-canarian-2016": {
+    id: "commons-traditional-shar-pei-canarian-2016",
+    name: "Wikimedia Commons - Traditional Shar Pei.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Traditional_Shar_Pei.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-26",
+    note: "File page identifies Canarian as author and provides the CC BY-SA 4.0 license; commercial reuse is permitted subject to attribution and share-alike terms."
+  },
 });
 
 export type SourceId = keyof typeof sources;

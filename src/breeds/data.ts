@@ -105,6 +105,8 @@ import { austrian_pinscher } from "./austrian_pinscher";
 import { swedish_lapphund } from "./swedish_lapphund";
 import { lhasa_apso } from "./lhasa_apso";
 import { papillon_and_phalene } from "./papillon_and_phalene";
+import { chien_francais_tricolore } from "./chien_francais_tricolore";
+import { shar_pei } from "./shar_pei";
 
 
 export const breedData: readonly Breed[] = [
@@ -209,4 +211,6 @@ export const breedData: readonly Breed[] = [
   swedish_lapphund,
   lhasa_apso,
   papillon_and_phalene,
+  chien_francais_tricolore,
+  shar_pei,
 ];
