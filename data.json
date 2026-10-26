@@ -10086,6 +10086,106 @@
       "publishedOn": "2009-12-01",
       "accessedOn": "2026-10-26",
       "note": "Peer-reviewed retrospective ophthalmic study (PMID 19946851) of 3,527 eye examinations showing 36.9% choroidal hypoplasia and 2.8% choroidal hypoplasia plus coloboma in examined Rough Collies, and confirming significantly higher detection before 8 weeks of age prior to retinal pigmentation masking mild lesions."
+    },
+    "fci-australian-silky-terrier-standard-236": {
+      "id": "fci-australian-silky-terrier-standard-236",
+      "name": "FCI - Australian Silky Terrier Standard No. 236",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/Nomenclature/Standards/236g03-en.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2012-12-05",
+      "accessedOn": "2026-10-26",
+      "note": "Official breed standard; origin, classification, history, appearance, coat, colour, and height."
+    },
+    "dogs-australia-australian-silky-terrier-standard": {
+      "id": "dogs-australia-australian-silky-terrier-standard",
+      "name": "Dogs Australia - Australian Silky Terrier Breed Standard",
+      "publisher": "Dogs Australia",
+      "url": "https://www.dogsaustralia.org.au/members/breeds/breed-standards/Australian-Silky-Terrier",
+      "type": "official_breed_standard",
+      "publishedOn": "2009-05-22",
+      "accessedOn": "2026-10-26",
+      "note": "Breed standard last updated 22 May 2009."
+    },
+    "royal-kennel-club-australian-silky-terrier-standard": {
+      "id": "royal-kennel-club-australian-silky-terrier-standard",
+      "name": "The Royal Kennel Club - Australian Silky Terrier Breed Standard",
+      "publisher": "The Royal Kennel Club",
+      "url": "https://www.royalkennelclub.com/breed-standards/toy/australian-silky-terrier/",
+      "type": "official_breed_standard",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "The page states that it was last updated in April 2025; no exact publication day is recorded."
+    },
+    "dogs-victoria-australian-silky-terrier-profile": {
+      "id": "dogs-victoria-australian-silky-terrier-profile",
+      "name": "Dogs Victoria - Australian Silky Terrier Breed Profile",
+      "publisher": "Dogs Victoria",
+      "url": "https://www.dogsvictoria.org.au/choosing-a-breed/browse-all-breeds/43/Australian-Silky-Terrier/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Breed profile including lifespan and reported health concerns."
+    },
+    "canadian-kennel-club-silky-terrier-profile": {
+      "id": "canadian-kennel-club-silky-terrier-profile",
+      "name": "Canadian Kennel Club - Silky Terrier Breed Profile",
+      "publisher": "Canadian Kennel Club",
+      "url": "https://www.ckc.ca/en/Choosing-a-Dog/Choosing-a-Breed/Toy-Dogs/Silky-Terrier",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Breed profile covering origin, temperament, activity, and historical naming."
+    },
+    "commons-australian-silky-terrier-jenna-timonen": {
+      "id": "commons-australian-silky-terrier-jenna-timonen",
+      "name": "Silkkiterrieri.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Silkkiterrieri.jpg",
+      "type": "other",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Original file page identifies Jenna-timonen as author and documents the CC BY-SA 3.0 license."
+    },
+    "united-kennel-club-american-bulldog-standard": {
+      "id": "united-kennel-club-american-bulldog-standard",
+      "name": "United Kennel Club - American Bulldog Official Breed Standard",
+      "publisher": "United Kennel Club",
+      "url": "https://www.ukcdogs.com/docs/breeds/american-bulldog.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2023-09-12",
+      "accessedOn": "2026-10-26",
+      "note": "Official standard updated September 12, 2023; history, classification, characteristics, height, coat, and colour."
+    },
+    "petmd-american-bulldog": {
+      "id": "petmd-american-bulldog",
+      "name": "PetMD - American Bulldog Dog Breed Health and Care",
+      "publisher": "PetMD",
+      "url": "https://www.petmd.com/dog/breeds/american-bulldog",
+      "type": "veterinary",
+      "publishedOn": "2025-02-21",
+      "accessedOn": "2026-10-26",
+      "note": "Veterinary-reviewed breed profile covering lifespan, care, exercise, hip and elbow dysplasia, allergies, and ichthyosis."
+    },
+    "zoetis-american-bulldog-profile": {
+      "id": "zoetis-american-bulldog-profile",
+      "name": "Zoetis Petcare - American Bulldog Breed Explorer",
+      "publisher": "Zoetis Petcare",
+      "url": "https://www.zoetispetcare.com/breed-explorer/breed/american-bulldog",
+      "type": "veterinary",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Breed profile with lifespan and general temperament, activity, and health context."
+    },
+    "commons-american-bulldog-jrs0301": {
+      "id": "commons-american-bulldog-jrs0301",
+      "name": "American Bulldog.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:American_Bulldog.jpg",
+      "type": "other",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Original file page names JR Strecker (Jrs0301), gives the photo date as 31 January 2011, records 2560 × 1920 pixels, and offers the image under CC BY-SA 3.0."
     }
   },
   "licenses": {
@@ -14026,6 +14126,703 @@
       "updatedOn": "2026-10-26"
     },
     {
+      "slug": "american-bulldog",
+      "name": "American Bulldog",
+      "scientificName": null,
+      "alternateNames": [
+        "AmBull"
+      ],
+      "group": "Guardian Dog Group",
+      "origin": {
+        "country": "United States",
+        "region": "American South (historical development)"
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/American_Bulldog.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:American_Bulldog.jpg",
+          "title": "American Bulldog.jpg",
+          "description": "Photograph identified on the file page as an American Bulldog.",
+          "creator": "JR Strecker",
+          "uploader": "Jrs0301",
+          "capturedOn": "2011-01-31",
+          "uploadedOn": "2011-02-08",
+          "width": 2560,
+          "height": 1920,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by JR Strecker (Jrs0301), via Wikimedia Commons, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-26"
+        }
+      ],
+      "overview": {
+        "summary": "The American Bulldog is a powerful, athletic working breed with a short coat, a broad head, and a confident, people-oriented nature. It can be a devoted family companion, but its strength, energy, and guardian instincts make early training and thoughtful socialization especially important.",
+        "description": "American Bulldogs are muscular, strong-boned dogs built for active work rather than a purely ornamental role. Their body is slightly longer than tall, with a broad head and substantial muzzle. Different lines can look noticeably different: some are more athletic and moderate, while others are heavier and more muscular. A short coat is relatively easy to maintain, but responsible ownership still requires regular exercise, grooming checks, training, and preventive veterinary care.",
+        "history": "The breed descends from working bulldogs brought by immigrants to the American South. Farmers and ranchers used these dogs for varied jobs, including managing livestock and guarding property. After the Second World War, the breed was close to disappearing, and breeders including John D. Johnson and Alan Scott helped rebuild its numbers. Over time, distinct heavier and more athletic types developed, and many modern dogs combine features of more than one line.",
+        "originalPurpose": "All-purpose farm work, livestock catching and handling, and property protection.",
+        "currentRoles": [
+          "Active household companion",
+          "Farm and property dog in appropriately managed settings",
+          "Participant in suitable obedience and canine sports",
+          "Working dog for experienced handlers where legal, ethical, and appropriate"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Large",
+        "height": {
+          "unit": "in",
+          "male": {
+            "min": 22,
+            "max": 27
+          },
+          "female": {
+            "min": 20,
+            "max": 25
+          }
+        },
+        "weight": {
+          "unit": null,
+          "male": null,
+          "female": null
+        },
+        "lifespanYears": {
+          "min": 10,
+          "max": 12
+        },
+        "coatType": "Short, close-lying coat that may feel soft or stiff.",
+        "coatLength": "The UKC standard specifies a coat one inch or less in length, with no feathering or waviness.",
+        "coatColors": [
+          "White with coloured patches",
+          "Brindle",
+          "Other solid colours and colour combinations permitted by the applicable registry standard"
+        ],
+        "sheddingLevel": "Low to moderate; seasonal shedding may occur despite the short coat.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Powerful, athletic, strongly muscled body with substantial bone.",
+          "Body slightly longer than tall.",
+          "Large, broad head and wide muzzle.",
+          "Natural ears may be drop, semi-prick, or rose-shaped.",
+          "Natural tail is preferred in the UKC standard.",
+          "Two commonly described line types are the more athletic Scott type and the heavier Johnson type, with many dogs showing mixed characteristics."
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Confident and courageous",
+          "Loyal and closely bonded to its household",
+          "Athletic and energetic",
+          "Intelligent and capable of learning",
+          "May be reserved around unfamiliar people, especially when young",
+          "Can show strong guardian instincts",
+          "Needs structured introductions and management around unfamiliar dogs and animals"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": 3,
+          "withDogs": 2,
+          "withStrangers": 3,
+          "protectiveness": 5,
+          "independence": 3,
+          "trainability": 4,
+          "barking": 3,
+          "energy": 5
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "High. Provide regular walks, play, training, and suitable outlets for the breed's working energy. Build activity gradually, particularly during growth, and tailor exercise to the dog's health and fitness.",
+          "minutesPerDay": null,
+          "activities": [
+            "Daily walks using secure, well-fitted equipment",
+            "Reward-based obedience and impulse-control training",
+            "Interactive play and structured tug games with clear rules",
+            "Scent-search and problem-solving games",
+            "Appropriate canine sports for dogs whose health and structure suit them",
+            "Supervised activity in a securely fenced area"
+          ]
+        },
+        "grooming": {
+          "level": "Low coat-maintenance needs, with routine attention to skin, ears, nails, and teeth.",
+          "brushing": "Brush regularly with a soft brush or grooming mitt to remove loose hair and check the skin. Increase brushing during seasonal shedding.",
+          "bathing": "Bathe when dirty or when advised by a veterinarian. Use a dog-appropriate shampoo and dry thoroughly, especially if the dog has skin folds or recurrent irritation.",
+          "notes": [
+            "Inspect the skin for redness, itchiness, flaking, sores, or recurring irritation.",
+            "Trim nails as needed and check the paws after outdoor activity.",
+            "Check the ears regularly and clean only as recommended by a veterinarian.",
+            "Brush teeth regularly with dog-specific toothpaste.",
+            "Short fur does not remove the need to monitor skin health."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate to challenging for an inexperienced handler because the dog is powerful, energetic, and can be independent. Consistent, humane training is important from puppyhood.",
+          "tips": [
+            "Start reward-based training and household rules early.",
+            "Prioritise loose-leash walking, recall, calm greetings, and reliable disengagement from distractions.",
+            "Reward calm behaviour around visitors and unfamiliar dogs rather than relying on intimidation or punishment.",
+            "Use secure equipment and management appropriate to the dog's strength.",
+            "Keep sessions structured and mentally engaging.",
+            "Avoid high-impact repetitive exercise for growing puppies; ask a veterinarian about age-appropriate activity."
+          ],
+          "socialization": "Arrange gradual, positive exposure to different people, calm dogs, everyday environments, and handling. Supervise interactions, assess each dog's comfort, and do not force greetings. Because individual dog tolerance varies, use controlled introductions and separate dogs when needed."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": null,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Can live in a range of climates with suitable shelter and monitoring.",
+            "In hot weather, provide shade, water, ventilation, and exercise during cooler hours.",
+            "Avoid leaving the dog outdoors without secure shelter or supervision."
+          ],
+          "aloneTimeTolerance": "Individual tolerance varies. Build alone time gradually and provide exercise, training, and enrichment. Long periods of isolation may lead to frustration or unwanted behaviour."
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced diet appropriate to life stage, body condition, activity level, and veterinary needs.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": null,
+          "senior": null
+        },
+        "guidelines": "Use the food manufacturer's feeding guide as a starting point and adjust portions based on body condition, activity, age, and veterinary advice. Keep fresh water available and include treats in the daily calorie allowance.",
+        "considerations": [
+          "Maintain a lean, well-muscled body condition rather than feeding for maximum bulk.",
+          "Use a diet suitable for the dog's age and expected adult size.",
+          "Make diet changes gradually unless a veterinarian recommends otherwise.",
+          "Seek veterinary advice for persistent digestive problems, unexplained weight change, or suspected food-related skin symptoms.",
+          "Do not use supplements or restrictive diets as treatment without veterinary guidance."
+        ],
+        "note": "A single meal count or portion size cannot be reliably prescribed for every American Bulldog; individual needs depend on age, food energy density, health, and activity."
+      },
+      "health": {
+        "overview": "American Bulldogs can be active, robust dogs, but breed and veterinary references report concerns involving joints and skin. These reports describe possible risks, not a diagnosis or a prediction for every dog. Responsible breeders should provide relevant health information and screening records, while owners should arrange routine veterinary care and seek advice when symptoms appear.",
+        "commonConditions": [
+          "Hip dysplasia, a developmental joint condition that can cause pain and later arthritis.",
+          "Elbow dysplasia, a group of developmental elbow disorders.",
+          "Allergic skin disease, which may cause itching, redness, hair loss, or recurrent ear and skin infections.",
+          "Ichthyosis, a rare inherited skin disorder reported in the breed."
+        ],
+        "preventiveCare": [
+          "Arrange routine veterinary examinations and follow the veterinarian's vaccination and parasite-prevention advice.",
+          "Ask breeders for documented hip and elbow screening information and any relevant inherited-disease testing.",
+          "Monitor the skin for persistent itching, scaling, redness, or recurrent infections.",
+          "Maintain a healthy body condition and use age-appropriate exercise.",
+          "Seek veterinary assessment for lameness, joint pain, persistent skin symptoms, or unexpected changes in activity."
+        ],
+        "recommendedScreenings": [
+          "Discuss hip and elbow evaluations for breeding dogs with a veterinarian and the relevant screening organisation.",
+          "Ask the breeder about screening for ichthyosis and the health history of related dogs.",
+          "Select any additional screening based on family history, clinical findings, and veterinary advice."
+        ],
+        "dentalCare": "Brush the teeth regularly with dog-specific toothpaste and arrange veterinary dental checks. Seek advice for bad breath, oral discomfort, bleeding gums, or difficulty eating.",
+        "earCare": "Check the ears for redness, odour, discharge, or repeated scratching. Clean them only with an appropriate product and technique recommended by a veterinarian.",
+        "skinCare": "Check the short coat and skin regularly. Persistent itching, scaling, redness, hair loss, or recurrent infections warrant veterinary assessment; rare inherited skin disorders have been reported in this breed."
+      },
+      "suitability": {
+        "firstTimeOwners": false,
+        "familiesWithChildren": true,
+        "seniorOwners": null,
+        "activeOwners": true,
+        "apartmentLiving": null,
+        "idealFor": [
+          "Experienced or well-prepared owners able to train and safely manage a powerful dog",
+          "Active households that can provide regular exercise and mental engagement",
+          "Owners committed to early socialization, supervision, and consistent reward-based training",
+          "Homes with secure fencing and a plan for controlled introductions to visitors and other animals"
+        ],
+        "notIdealFor": [
+          "Owners unable to manage a strong, energetic dog safely",
+          "Households unwilling to invest in early training and ongoing socialization",
+          "Homes where the dog would be left without adequate activity or companionship for long periods",
+          "Situations where the dog cannot be safely separated from unfamiliar animals when needed"
+        ]
+      },
+      "funFacts": [
+        "The breed was developed from working bulldogs brought to the American South.",
+        "The Scott and Johnson names are commonly used for two historical types within the breed.",
+        "The breed's working history includes livestock handling and property protection.",
+        "The UKC recognised the American Bulldog on January 1, 1999."
+      ],
+      "faq": [
+        {
+          "question": "How tall is an American Bulldog?",
+          "answer": "The UKC standard gives a desirable height of 22–27 inches for mature males and 20–25 inches for mature females."
+        },
+        {
+          "question": "What is the American Bulldog's weight range?",
+          "answer": "The UKC standard says weight should be proportionate to height rather than giving a single numeric range. For that reason, this catalogue does not record a numeric weight range."
+        },
+        {
+          "question": "How long do American Bulldogs live?",
+          "answer": "A veterinary-reviewed breed profile gives an average lifespan of 10–12 years. Individual lifespan varies with genetics, health, and care."
+        },
+        {
+          "question": "Is the American Bulldog suitable for a first-time owner?",
+          "answer": "It may be challenging for an inexperienced owner because of its strength, energy, and guardian instincts. Consistent reward-based training, careful socialization, and safe management are important."
+        },
+        {
+          "question": "Does the American Bulldog need a lot of grooming?",
+          "answer": "The short coat is relatively easy to brush, but the skin, ears, nails, and teeth still need routine care. Skin irritation should not be dismissed as ordinary shedding."
+        },
+        {
+          "question": "Which health concerns should owners discuss with a veterinarian?",
+          "answer": "Reported concerns include hip and elbow dysplasia, allergic skin disease, and the rare inherited condition ichthyosis. Ask a veterinarian or responsible breeder which screening and preventive care are appropriate."
+        },
+        {
+          "question": "Are all American Bulldogs built the same way?",
+          "answer": "No. Dogs from more athletic lines may look leaner, while heavier lines tend to have more bone and a bulkier head. Many dogs show a mixture of these traits."
+        }
+      ],
+      "references": [
+        "united-kennel-club-american-bulldog-standard",
+        "petmd-american-bulldog",
+        "zoetis-american-bulldog-profile",
+        "commons-american-bulldog-jrs0301"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No breed-specific scientific name is required or established by the consulted breed references."
+        },
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "zoetis-american-bulldog-profile",
+              "role": "verified",
+              "locator": "Breed profile: nickname"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The short nickname is recorded as a common alternate name."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "verified",
+              "locator": "Standard heading: Guardian Dog Group"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Group follows the cited registry's classification."
+        },
+        "origin.country": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "verified",
+              "locator": "History: working dogs brought by immigrants to the American South"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The breed was developed in the United States."
+        },
+        "origin.region": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "verified",
+              "locator": "History: working dogs preserved by immigrants in the American South"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Historical development is associated with the American South; no single state is asserted."
+        },
+        "overview": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "verified",
+              "locator": "History, general appearance, and characteristics"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Original prose summarises the working history, physical type, and temperament described in the standard."
+        },
+        "physical.sizeCategory": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "cited",
+              "locator": "Breed overview and body size"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Large is a catalogue category rather than a formal standard measurement."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "verified",
+              "locator": "Height and weight: mature males 22–27 inches; mature females 20–25 inches"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Numbers and units are retained exactly as published in the UKC standard; no conversion was made."
+        },
+        "physical.weight": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted official standard states that weight should be proportionate to height and does not set a numeric weight range."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "verified",
+              "locator": "Health section: average lifespan"
+            },
+            {
+              "id": "zoetis-american-bulldog-profile",
+              "role": "cited",
+              "locator": "Breed profile: life span"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The 10–12 year range follows the veterinary-reviewed profile; another breed profile gives a broader estimate."
+        },
+        "physical.coatType": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "verified",
+              "locator": "Coat"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Coat description paraphrased from the standard."
+        },
+        "physical.coatLength": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "verified",
+              "locator": "Coat: one inch or less"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The source's original unit is retained."
+        },
+        "physical.coatColors": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "verified",
+              "locator": "Colour: permitted colours and disqualifications"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The applicable registry's exclusions are detailed in its standard; registry rules may differ."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "verified",
+              "locator": "General care: coat and shedding"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Qualitative description; individual shedding and seasonal changes vary."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No sufficiently reliable breed-specific drooling rating was established."
+        },
+        "physical.distinctiveFeatures": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "verified",
+              "locator": "General appearance, ears, tail, and historical types"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Features are paraphrased from the official standard."
+        },
+        "temperament.traits": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "verified",
+              "locator": "Characteristics and history"
+            },
+            {
+              "id": "petmd-american-bulldog",
+              "role": "cited",
+              "locator": "Breed overview and training"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Traits describe general tendencies and are not guarantees about an individual dog."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "cited",
+              "locator": "Characteristics"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Scores are editorial comparison estimates, not scientific measurements or official ratings."
+        },
+        "care.exercise.level": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "cited",
+              "locator": "General care and exercise"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Exercise needs vary by age, health, and individual temperament."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No single verified daily exercise-minute range is asserted."
+        },
+        "care.exercise.activities": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Activities are general enrichment suggestions and should be adapted to the individual dog."
+        },
+        "care.grooming": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "cited",
+              "locator": "General care and skin care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine grooming suggestions are general care guidance."
+        },
+        "care.training": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "cited",
+              "locator": "Training and socialization"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Recommendations are general welfare and safety guidance."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal apartment-suitability boolean is assigned because housing suitability depends on the individual dog, available exercise, noise tolerance, and local rules."
+        },
+        "care.livingEnvironment": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "cited",
+              "locator": "General care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Environmental and alone-time guidance is general advice rather than a formal breed-standard claim."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "cited",
+              "locator": "What to feed an American Bulldog"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Nutrition guidance is general and is not a veterinary prescription."
+        },
+        "nutrition.feedingFrequency.puppy": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed puppy feeding frequency is asserted; needs vary with age, diet, and veterinary advice."
+        },
+        "nutrition.feedingFrequency.adult": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed adult feeding frequency is asserted; needs vary by individual."
+        },
+        "nutrition.feedingFrequency.senior": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed senior feeding frequency is asserted; needs vary by individual."
+        },
+        "health.overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "verified",
+              "locator": "Health issues and preventive care"
+            },
+            {
+              "id": "zoetis-american-bulldog-profile",
+              "role": "cited",
+              "locator": "Breed health overview"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Summarises reported risks without implying every dog will develop them."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "verified",
+              "locator": "Hip and elbow dysplasia, allergies, and ichthyosis"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Reported conditions are possible concerns, not prevalence estimates."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "cited",
+              "locator": "General health care and screening"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Preventive-care guidance should be adapted by the dog's veterinarian."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "verified",
+              "locator": "Hip and elbow dysplasia and ichthyosis screening discussion"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Screening is framed as a discussion with a breeder and veterinarian rather than a universal test panel."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General preventive dental advice."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General ear-care advice."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "petmd-american-bulldog",
+              "role": "cited",
+              "locator": "Allergies and ichthyosis"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General advice; persistent skin symptoms need veterinary assessment."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "cited",
+              "locator": "Characteristics and traditional work"
+            },
+            {
+              "id": "petmd-american-bulldog",
+              "role": "cited",
+              "locator": "Training, exercise, and family suitability"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability is an editorial estimate and depends on the individual dog and household."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal senior-owner suitability rating is assigned because ability to handle a strong dog varies by person and support available."
+        },
+        "suitability.apartmentLiving": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal apartment-living rating is assigned; housing suitability depends on the dog, household, exercise opportunities, and local rules."
+        },
+        "funFacts": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "verified",
+              "locator": "History and recognition date"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Facts paraphrased from the standard's historical section."
+        },
+        "faq": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "united-kennel-club-american-bulldog-standard",
+              "role": "cited",
+              "locator": "Height, weight, and historical types"
+            },
+            {
+              "id": "petmd-american-bulldog",
+              "role": "cited",
+              "locator": "Lifespan, grooming, and health"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "FAQ combines standard-backed details and general care information."
+        }
+      },
+      "updatedOn": "2026-10-26"
+    },
+    {
       "slug": "american-cocker-spaniel",
       "name": "American Cocker Spaniel",
       "scientificName": null,
@@ -16954,6 +17751,739 @@
         }
       },
       "updatedOn": "2026-10-23"
+    },
+    {
+      "slug": "australian-silky-terrier",
+      "name": "Australian Silky Terrier",
+      "scientificName": null,
+      "alternateNames": [
+        "Silky Terrier",
+        "Sydney Silky"
+      ],
+      "group": "FCI Group 3 — Terriers; Section 4 — Toy Terriers",
+      "origin": {
+        "country": "Australia",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Silkkiterrieri.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Silkkiterrieri.jpg",
+          "title": "Silkkiterrieri.jpg",
+          "description": "Photograph of an Australian Silky Terrier.",
+          "creator": "Jenna-timonen",
+          "uploader": "Jenna-timonen",
+          "capturedOn": null,
+          "uploadedOn": "2011-05-10",
+          "width": 1208,
+          "height": 950,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Jenna-timonen, via Wikimedia Commons, licensed under CC BY-SA 3.0. Include a link to the license and indicate if changes were made.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-26"
+        }
+      ],
+      "overview": {
+        "summary": "The Australian Silky Terrier is a small, lively companion dog with a fine, glossy coat and an alert terrier expression. Its compact build should not be mistaken for a low-energy temperament: it enjoys exploring, playing, learning, and staying involved in household life.",
+        "description": "This Australian breed combines a neat, moderately low-set body with a straight, silky coat that is parted along the back. Its characteristic adult colouring is blue and tan, with clear boundaries between the colours. Although bred in a toy-sized format, it retains the curiosity, alertness, and confidence associated with terriers. Regular coat care, consistent reward-based training, and daily engagement are important parts of responsible ownership.",
+        "history": "The breed developed in Australia through the work of breeders who combined local terrier stock with Yorkshire Terriers to establish a distinctive silky coat and blue-and-tan appearance. The breed was also known historically as the Sydney Silky. A national standard was agreed in the mid-twentieth century, and the Australian Silky Terrier became established as a distinct breed.",
+        "originalPurpose": "A small terrier developed as a companion while retaining the ability and structure to hunt domestic rodents.",
+        "currentRoles": [
+          "Household companion",
+          "Companion for owners who enjoy training and interactive play",
+          "Participation in suitable obedience, trick-training, and other dog activities",
+          "Show-ring and conformation competitor"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Small",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 23,
+            "max": 26
+          },
+          "female": null
+        },
+        "weight": {
+          "unit": null,
+          "male": null,
+          "female": null
+        },
+        "lifespanYears": {
+          "min": 10,
+          "max": 15
+        },
+        "coatType": "Straight, flat, fine, glossy hair with a silky texture, parted along the back.",
+        "coatLength": "The Royal Kennel Club standard describes a desirable coat length of 13–15 cm from behind the ears to the tail set-on. The coat should not be so long that it interferes with movement, and the feet should remain free of long coat.",
+        "coatColors": [
+          "Blue and tan",
+          "Silver-blue and tan",
+          "Other shades of blue and tan recognised by the applicable breed standard"
+        ],
+        "sheddingLevel": "Generally described as a relatively low shedder, though individual coat condition and grooming routines affect how much loose hair is noticed.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Small, compact, moderately low-set body.",
+          "Straight, glossy, silky coat parted along the back.",
+          "Adult coat with clearly defined blue-and-tan colouring.",
+          "Small, high-set, V-shaped ears that are carried erect.",
+          "Alert expression and lively terrier character.",
+          "Movement should be free and true, without obvious looseness."
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Alert and observant",
+          "Active and curious",
+          "Confident for its size",
+          "Friendly and responsive with familiar people",
+          "Intelligent and capable of learning through positive training",
+          "May bark to alert its household",
+          "May chase small moving animals because of its terrier background"
+        ],
+        "scores": {
+          "affection": 5,
+          "withChildren": 3,
+          "withDogs": 3,
+          "withStrangers": 3,
+          "protectiveness": 3,
+          "independence": 3,
+          "trainability": 4,
+          "barking": 4,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate. Provide daily walks, interactive play, opportunities to sniff and explore safely, and short training sessions. Adapt the amount and intensity of activity to the individual dog's age, health, and fitness.",
+          "minutesPerDay": null,
+          "activities": [
+            "Daily walks on a well-fitted harness and leash",
+            "Interactive games with toys",
+            "Reward-based training",
+            "Scent and search games",
+            "Supervised exploration in a secure area",
+            "Age-appropriate obedience or trick training"
+          ]
+        },
+        "grooming": {
+          "level": "High coat-maintenance needs when the coat is kept long. Frequent brushing and combing help prevent tangles and matting.",
+          "brushing": "Brush and comb the coat frequently, often daily when it is kept long. Work gently through tangles, and check behind the ears, under the legs, and around areas where a collar or harness may rub.",
+          "bathing": "Bathe as needed with a dog-appropriate shampoo, rinse thoroughly, and dry the coat carefully. Brush out tangles before they tighten during drying.",
+          "notes": [
+            "Inspect the skin while brushing and look for irritation, redness, or unusual lumps.",
+            "Keep nails at a suitable length and check the paws regularly.",
+            "Check the ears and eyes during routine grooming.",
+            "Brush the teeth regularly and arrange veterinary dental care as needed.",
+            "A shorter pet trim can reduce coat maintenance, although it changes the breed's characteristic appearance."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate. The breed is alert and capable of learning, but its terrier independence can make consistent, engaging training important.",
+          "tips": [
+            "Use reward-based methods and short, interesting sessions.",
+            "Teach recall in a secure, low-distraction area before practising around distractions.",
+            "Reward calm behaviour to help manage alert barking.",
+            "Introduce grooming, tooth brushing, nail care, and gentle handling gradually.",
+            "Teach loose-leash walking and reinforce attention around moving animals.",
+            "Keep training consistent across household members."
+          ],
+          "socialization": "Introduce the dog gradually and positively to people, calm dogs, everyday sounds, surfaces, travel, and handling. Continue socialization as the dog matures, and avoid forcing interactions that appear frightening or overwhelming."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": true,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Can live in a range of climates when given appropriate shelter and care.",
+            "In hot weather, provide shade, water, ventilation, and cooler times for exercise.",
+            "In cold or wet weather, monitor comfort and dry the coat when needed."
+          ],
+          "aloneTimeTolerance": "Individual tolerance varies. Build up time alone gradually and provide appropriate enrichment. Long periods without interaction or activity may contribute to boredom or barking."
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced commercial or veterinarian-formulated diet appropriate to the dog's life stage, body condition, and health.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": null,
+          "senior": null
+        },
+        "guidelines": "Use the food's feeding guide as a starting point and adjust portions according to body condition, activity, age, and veterinary advice. Keep fresh water available. Account for treats as part of the overall daily intake.",
+        "considerations": [
+          "Choose a diet appropriate for the dog's life stage.",
+          "Monitor body condition and adjust portions when needed.",
+          "Avoid allowing treats to displace a substantial share of a balanced diet.",
+          "Make dietary changes gradually unless a veterinarian advises otherwise.",
+          "Ask a veterinarian for individual guidance if the dog has a diagnosed health condition or persistent digestive signs."
+        ],
+        "note": "No single portion size or meal frequency is suitable for every Australian Silky Terrier. Individual needs depend on age, activity, food energy density, and health."
+      },
+      "health": {
+        "overview": "Australian Silky Terriers should receive routine preventive veterinary care throughout life. Breed profiles report some concerns involving the knees and eyes, but such reports do not mean that every dog will develop these conditions or establish their prevalence. Ask breeders about the health of related dogs and discuss suitable screening with a veterinarian.",
+        "commonConditions": [
+          "Patellar luxation, a condition in which the kneecap moves out of its normal position.",
+          "Eye disorders, including conditions for which veterinary eye assessment may be appropriate.",
+          "Legg-Calvé-Perthes disease, a hip condition reported among possible concerns in small breeds.",
+          "Juvenile cataracts, reported as a possible eye concern in breed information.",
+          "Dental and periodontal disease, which can affect dogs of any breed and deserves routine preventive attention."
+        ],
+        "preventiveCare": [
+          "Arrange routine veterinary examinations and follow local advice for vaccinations and parasite prevention.",
+          "Discuss patellar and eye screening with a responsible breeder and veterinarian.",
+          "Maintain a healthy body condition through appropriate feeding and activity.",
+          "Brush the teeth regularly and seek veterinary advice for persistent bad breath, oral pain, or difficulty eating.",
+          "Seek veterinary assessment for repeated skipping, limping, eye cloudiness, vision changes, or persistent discomfort."
+        ],
+        "recommendedScreenings": [
+          "Discuss patellar evaluation with the veterinarian or breeder.",
+          "Ask whether a formal eye examination is appropriate for the individual dog and its breeding background.",
+          "Request documented health information about the puppy's parents and close relatives."
+        ],
+        "dentalCare": "Small dogs can develop plaque and periodontal disease. Regular tooth brushing with dog-specific toothpaste and veterinary dental checks can help maintain oral health.",
+        "earCare": "Check the ears regularly for redness, odour, discharge, or persistent scratching. Ask a veterinarian for advice if signs of irritation or infection appear.",
+        "skinCare": "Inspect the skin during brushing, especially in areas where the coat tangles or equipment rubs. Seek veterinary advice for persistent itching, redness, sores, or hair loss."
+      },
+      "suitability": {
+        "firstTimeOwners": true,
+        "familiesWithChildren": true,
+        "seniorOwners": true,
+        "activeOwners": true,
+        "apartmentLiving": true,
+        "idealFor": [
+          "Households looking for a small but lively companion",
+          "Owners willing to provide frequent coat care",
+          "People who enjoy short training sessions, play, and daily walks",
+          "Apartment or house residents who can provide engagement and manage barking",
+          "Families prepared to supervise children and teach gentle handling"
+        ],
+        "notIdealFor": [
+          "Households unable to maintain the coat or arrange suitable grooming",
+          "Owners expecting a dog that needs little interaction or training",
+          "Homes where a small dog would be left unsupervised with rough-playing children or much larger dogs",
+          "Households unable to manage chasing behaviour around small animals"
+        ]
+      },
+      "funFacts": [
+        "The breed was developed in Australia.",
+        "The breed has also been known historically as the Sydney Silky.",
+        "The adult coat is characteristically blue and tan.",
+        "The breed's elegant coat coexists with an active terrier temperament.",
+        "The breed standard emphasises free movement and a coat that does not obstruct the dog's action."
+      ],
+      "faq": [
+        {
+          "question": "Is the Australian Silky Terrier suitable for apartment living?",
+          "answer": "It can adapt to apartment life when its exercise, training, grooming, and companionship needs are met. Teaching a reliable quiet cue and rewarding calm behaviour can help manage alert barking."
+        },
+        {
+          "question": "How much grooming does an Australian Silky Terrier need?",
+          "answer": "A long coat needs frequent brushing and combing, often daily, to prevent tangles and matting. The amount of work depends on coat length and the dog's routine."
+        },
+        {
+          "question": "What is the Australian Silky Terrier's recognised height?",
+          "answer": "The breed standard gives a height of 23–26 cm for dogs. It says bitches can be slightly less but does not specify a separate numeric female range."
+        },
+        {
+          "question": "What is the breed's expected lifespan?",
+          "answer": "A breed profile gives a broad lifespan range of 10–15 years. This is a general guide rather than a guarantee for an individual dog."
+        },
+        {
+          "question": "Does the Australian Silky Terrier shed?",
+          "answer": "It is generally described as a relatively low shedder, but the long coat still needs regular grooming to prevent tangles and maintain its condition."
+        },
+        {
+          "question": "Is the Australian Silky Terrier good with children?",
+          "answer": "It can be a family companion, but children should be taught gentle handling. Supervise interactions, particularly with young children, because a small dog can be injured by rough play or accidental falls."
+        },
+        {
+          "question": "Which health concerns should owners discuss with a veterinarian?",
+          "answer": "Reported concerns include patellar luxation and eye disorders. Ask a veterinarian or responsible breeder about suitable screening and seek advice if you notice limping, repeated skipping, or changes in the eyes or vision."
+        }
+      ],
+      "references": [
+        "fci-australian-silky-terrier-standard-236",
+        "dogs-australia-australian-silky-terrier-standard",
+        "royal-kennel-club-australian-silky-terrier-standard",
+        "dogs-victoria-australian-silky-terrier-profile",
+        "canadian-kennel-club-silky-terrier-profile",
+        "commons-australian-silky-terrier-jenna-timonen"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No breed-specific scientific name is recorded; a generic domestic-dog taxonomic label is not needed for this catalog entry."
+        },
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "canadian-kennel-club-silky-terrier-profile",
+              "role": "verified",
+              "locator": "Breed profile and historical naming"
+            },
+            {
+              "id": "dogs-australia-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "Australian Silky Terrier breed standard"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Alternate names are limited to names supported by the consulted breed references."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "FCI classification: Group 3, Section 4"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "FCI classification is recorded as the primary group."
+        },
+        "origin.country": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "Standard heading: country of origin"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Country of origin stated in the official breed standard."
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No single region is asserted as the definitive place of origin."
+        },
+        "overview.summary": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "General appearance and behaviour/temperament"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Original summary based on the standard's description of build, coat, and temperament."
+        },
+        "overview.description": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "General appearance, head, ears, coat, colour, and movement"
+            },
+            {
+              "id": "royal-kennel-club-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "General appearance, coat, colour, and size"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Paraphrased description of standard characteristics."
+        },
+        "overview.history": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "Brief historical summary"
+            },
+            {
+              "id": "canadian-kennel-club-silky-terrier-profile",
+              "role": "cited",
+              "locator": "Origin and historical breed naming"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Historical account paraphrased from breed references."
+        },
+        "overview.originalPurpose": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "Utilization and general appearance"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The standard identifies the breed as a toy terrier/companion and describes its original rodent-hunting function."
+        },
+        "overview.currentRoles": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "royal-kennel-club-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "Breed standard and characteristics"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Current roles describe plausible companion and activity uses, not formal working qualifications."
+        },
+        "physical.sizeCategory": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "royal-kennel-club-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "Height and general appearance"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Small is a catalog category, not a formal numeric standard."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "Height at the withers"
+            },
+            {
+              "id": "dogs-australia-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "Sizes: height"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The standard gives 23–26 cm for dogs and says bitches can be slightly less. No numeric female range is inferred."
+        },
+        "physical.weight": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted official standards say weight should be proportionate to height but do not provide a numeric weight range."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "dogs-victoria-australian-silky-terrier-profile",
+              "role": "verified",
+              "locator": "Average life span"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The 10–15 year range is the breed profile's stated estimate, not a guarantee."
+        },
+        "physical.coatType": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "Coat"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Coat description paraphrased from the standard."
+        },
+        "physical.coatLength": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "royal-kennel-club-australian-silky-terrier-standard",
+              "role": "verified",
+              "locator": "Coat length"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The published centimetre measurement is retained without adding a converted figure."
+        },
+        "physical.coatColors": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "Colour"
+            },
+            {
+              "id": "dogs-australia-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "Colour"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Adult blue-and-tan colour is standard-based. Colour terminology can differ slightly between registries."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "royal-kennel-club-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "Coat description"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Shedding level is a qualitative estimate rather than a formal breed-standard measurement."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No sufficiently reliable breed-specific drooling rating was established."
+        },
+        "physical.distinctiveFeatures": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "General appearance, head, ears, coat, colour, and movement"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Features are paraphrased from the official standard."
+        },
+        "temperament.traits": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "Behaviour and temperament"
+            },
+            {
+              "id": "royal-kennel-club-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "Characteristics and temperament"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "General breed tendencies are not guarantees about every individual dog."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "cited",
+              "locator": "Behaviour and temperament"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Scores are editorial estimates for app comparison, not scientific measurements or official ratings."
+        },
+        "care.exercise.level": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "royal-kennel-club-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "Breed characteristics and movement"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Exercise guidance should be adapted to the individual dog."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No single verified daily exercise-minute range was recorded for this breed."
+        },
+        "care.exercise.activities": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Activities are general enrichment suggestions suitable for many small, active dogs."
+        },
+        "care.grooming": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "royal-kennel-club-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "Coat description and length"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Grooming frequency is practical care advice, not a mandatory standard requirement."
+        },
+        "care.training": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "royal-kennel-club-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "Characteristics and temperament"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Training recommendations are general welfare guidance."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "canadian-kennel-club-silky-terrier-profile",
+              "role": "verified",
+              "locator": "Temperament and activity level"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Apartment suitability depends on providing exercise, training, and interaction."
+        },
+        "care.livingEnvironment": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Environmental and alone-time advice is general dog-care guidance."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Nutrition guidance is general advice and is not a breed-specific veterinary prescription."
+        },
+        "nutrition.feedingFrequency.puppy": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed puppy feeding frequency is asserted; it should be tailored to age, diet, and veterinary guidance."
+        },
+        "nutrition.feedingFrequency.adult": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed adult feeding frequency is asserted; individual needs vary."
+        },
+        "nutrition.feedingFrequency.senior": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed senior feeding frequency is asserted; individual needs vary."
+        },
+        "health.overview": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "dogs-victoria-australian-silky-terrier-profile",
+              "role": "cited",
+              "locator": "Breed profile and health information"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Health advice is informational and cannot diagnose an individual dog."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "dogs-victoria-australian-silky-terrier-profile",
+              "role": "verified",
+              "locator": "Reported health concerns"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "These are reported possible concerns, not prevalence estimates or predictions for an individual dog."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "dogs-victoria-australian-silky-terrier-profile",
+              "role": "cited",
+              "locator": "Breed health information"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Preventive-care recommendations are general guidance; individual screening should be discussed with a veterinarian."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "dogs-victoria-australian-silky-terrier-profile",
+              "role": "cited",
+              "locator": "Reported health concerns"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suggested screening discussions should be tailored to the dog's family history and veterinary advice."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General preventive dental advice."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General ear-care advice."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General skin-care advice."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "canadian-kennel-club-silky-terrier-profile",
+              "role": "cited",
+              "locator": "Temperament and activity level"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability flags are practical editorial estimates, not guarantees for every dog or household."
+        },
+        "funFacts": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "verified",
+              "locator": "Origin, classification, utilization, coat, and colour"
+            },
+            {
+              "id": "dogs-australia-australian-silky-terrier-standard",
+              "role": "cited",
+              "locator": "Breed history and colour"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Facts are paraphrased from breed standards and history references."
+        },
+        "faq": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-australian-silky-terrier-standard-236",
+              "role": "cited",
+              "locator": "Breed standard"
+            },
+            {
+              "id": "dogs-victoria-australian-silky-terrier-profile",
+              "role": "cited",
+              "locator": "Average life span and health information"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "FAQ answers combine standard-backed facts with clearly generalised care advice."
+        }
+      },
+      "updatedOn": "2026-10-26"
     },
     {
       "slug": "austrian-pinscher",

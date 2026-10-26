@@ -111,6 +111,8 @@ import { kai_ken } from "./kai_ken";
 import { german_longhaired_pointer } from "./german_longhaired_pointer";
 import { ibizan_hound } from "./ibizan_hound";
 import { black_norwegian_elkhound } from "./black_norwegian_elkhound";
+import { australian_silky_terrier } from "./australian_silky_terrier";
+import { american_bulldog } from "./american_bulldog";
 
 
 export const breedData: readonly Breed[] = [
@@ -221,4 +223,6 @@ export const breedData: readonly Breed[] = [
   german_longhaired_pointer,
   ibizan_hound,
   black_norwegian_elkhound,
+  australian_silky_terrier,
+  american_bulldog,
 ];
