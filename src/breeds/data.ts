@@ -101,6 +101,7 @@ import { sabueso_espanol } from "./sabueso_espanol";
 import { american_akita } from "./american_akita";
 import { golden_retriever } from "./golden_retriever";
 import { bull_terrier } from "./bull_terrier";
+import { austrian_pinscher } from "./austrian_pinscher";
 
 
 export const breedData: readonly Breed[] = [
@@ -201,4 +202,5 @@ export const breedData: readonly Breed[] = [
   american_akita,
   golden_retriever,
   bull_terrier,
+  austrian_pinscher,
 ];

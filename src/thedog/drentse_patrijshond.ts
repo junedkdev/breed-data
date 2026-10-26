@@ -1,25 +1,23 @@
-import type { Breed } from "../../schema/breed.types";
+import type { Breed } from "../schema/breed.types";
 
-export const german_shepherd_dog: Breed = {
-  slug: "german-shepherd-dog",
-  name: "German Shepherd Dog",
+export const drentse_patrijshond: Breed = {
+  slug: "drentse-patrijshond",
+  name: "Drentsche Patrijshond",
   scientificName: null,
   alternateNames: [
-    "German Shepherd",
-    "GSD",
-    "Alsatian",
-    "Deutscher Schäferhund",
+    "Drentse Patrijshond",
+    "Drentsche Partridge Dog",
   ],
-  group: "Herding",
+  group: "Sporting",
   origin: {
-    country: "Germany",
+    country: "Drenthe province, Netherlands",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "Large, athletic working dog with erect ears, noble expression, and confident bearing. Known for high intelligence, loyalty, courage, and versatility in herding and working roles.",
-    history: "Developed in 1899 by Captain Max von Stephanitz to create the ideal herding dog, standardized from local shepherd dogs. Intelligence and trainability led to worldwide use in police and military roles.",
+    description: "Medium-sized versatile hunting dog from the Netherlands with distinctive white coat and orange/brown markings, known for pointing and retrieving abilities. This intelligent spaniel-type breed serves as both an excellent gundog and devoted family companion.",
+    history: "Ancient Dutch breed originating in the 16th century from Spioenen dogs from Spain, developed in Drenthe province as versatile farm and hunting dog for pointing, tracking and retrieving game birds. Nearly extinct after WWII but successfully revived.",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -28,35 +26,33 @@ export const german_shepherd_dog: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 61,
-        max: 66,
+        min: 57,
+        max: 63,
       },
       female: {
-        min: 56,
-        max: 61,
+        min: 55,
+        max: 60,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 29,
-        max: 41,
+        min: 23,
+        max: 33,
       },
       female: {
-        min: 23,
-        max: 32,
+        min: 22,
+        max: 25,
       },
     },
     lifespanYears: {
-      min: 9,
-      max: 13,
+      min: 11,
+      max: 14,
     },
     coatType: null,
     coatLength: null,
     coatColors: [
-      "Bi-Color (Black and Red/Tan)",
-      "Black and Red",
-      "Black and Silver",
+      "Black",
       "Black and Tan",
       "Blue",
       "Brindle",
@@ -70,7 +66,6 @@ export const german_shepherd_dog: Breed = {
       "Pied / Piebald",
       "Red",
       "Sable",
-      "Solid Black",
       "Tan",
       "Tricolour",
       "White",
@@ -81,11 +76,12 @@ export const german_shepherd_dog: Breed = {
   },
   temperament: {
     traits: [
-      "Confident",
-      "courageous",
+      "Friendly",
       "intelligent",
       "loyal",
-      "protective",
+      "gentle",
+      "energetic",
+      "alert",
     ],
     scores: {
       affection: null,

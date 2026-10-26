@@ -41,10 +41,9 @@
 38:gascon_saintongeois - CG
 39:alpine_dachsbracke - CG
 40:parson_russell_terrier - CG
+41:german_shepherd_dog - CG
+42:drentse_patrijshond - CG
 
-41:german_shepherd_dog - CR
-
-42:drentse_patrijshond - C
 43:stabyhoun - C
 44:lowchen - C
 45:collie,_rough - C
@@ -99,8 +98,8 @@
 94:american_akita - C
 95:golden_retriever - C
 96:bull_terrier - C
+97:austrian_pinscher - C
 
-97:austrian_pinscher
 98:swedish_lapphund
 99:lhasa_apso
 100:papillon_and_phalene
