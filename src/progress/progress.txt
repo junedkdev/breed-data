@@ -38,11 +38,10 @@
 35:bernese_mountain_dog - CG
 36:brittany - CG
 37:great_dane - CG
+38:gascon_saintongeois - CG
+39:alpine_dachsbracke - CG
+40:parson_russell_terrier - CG
 
-38:gascon_saintongeois - CR
-
-39:alpine_dachsbracke - C
-40:parson_russell_terrier - C
 41:german_shepherd_dog - C
 42:drentse_patrijshond - C
 43:stabyhoun - C
@@ -92,13 +91,14 @@
 87:german_spitz - C
 88:shiba_inu - C
 89:belgian_shepherd_dog_(malinois) - C
+90:bulldog - C
+91:schapendoes - C
+92:toy_fox_terrier - C
+93:sabueso_espanol - C
+94:american_akita - C
 
-90:bulldog
-91:schapendoes
-92:toy_fox_terrier
-93:sabueso_espanol
-94:american_akita
-95:golden_retriever
+95:golden_retriever - R
+
 96:bull_terrier
 97:austrian_pinscher
 98:swedish_lapphund

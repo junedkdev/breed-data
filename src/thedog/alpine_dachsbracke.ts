@@ -1,20 +1,22 @@
-import type { Breed } from "../../schema/breed.types";
+import type { Breed } from "../schema/breed.types";
 
-export const gascon_saintongeois: Breed = {
-  slug: "gascon-saintongeois",
-  name: "Gascon Saintongeois",
+export const alpine_dachsbracke: Breed = {
+  slug: "alpine-dachsbracke",
+  name: "Alpine Dachsbracke",
   scientificName: null,
-  alternateNames: [],
+  alternateNames: [
+    "Alpenländische Dachsbracke",
+  ],
   group: "Hound",
   origin: {
-    country: "Saintonge, France",
+    country: "Austria",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "Large, noble and powerfully built French scenthound with distinctive tricolor coat and elegant appearance. Known for its superb nose, melodious voice, and pack-hunting endurance, this athletic breed was developed for hunting large game in southwestern France.",
-    history: "Developed in the mid-19th century by Comte Joseph de Carayon-Latour, who crossed the last remaining Saintonge Hounds with the Grand Bleu de Gascogne. Originally used for hunting wolves, now used for hunting deer and wild boar. FCI recognized.",
+    description: "Sturdy, short-legged Austrian scent hound with dense double coat, originally bred for tracking wounded game in high-altitude Alpine terrain. Built low-to-the-ground with a robust, weather-resistant build designed for rugged mountainous conditions.",
+    history: "Developed in the Austrian Alps during the mid-19th century as a durable scent hound for tracking wounded deer, boar, and hare over rugged terrain. Descended from larger Austrian hounds crossed with Dachshunds, it was a favorite of Crown Prince Rudolf of Habsburg and is officially recognized by the FCI.",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -23,28 +25,28 @@ export const gascon_saintongeois: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 65,
-        max: 71,
+        min: 34,
+        max: 42,
       },
       female: {
-        min: 61,
-        max: 67,
+        min: 34,
+        max: 42,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 30,
-        max: 35,
+        min: 15,
+        max: 18,
       },
       female: {
-        min: 26,
-        max: 30,
+        min: 15,
+        max: 18,
       },
     },
     lifespanYears: {
-      min: 11,
-      max: 13,
+      min: 12,
+      max: 14,
     },
     coatType: null,
     coatLength: null,
@@ -73,12 +75,11 @@ export const gascon_saintongeois: Breed = {
   },
   temperament: {
     traits: [
-      "Gentle",
-      "calm",
-      "affectionate",
+      "Intelligent",
+      "courageous",
       "loyal",
-      "intelligent",
       "work-focused",
+      "energetic",
     ],
     scores: {
       affection: null,
@@ -152,10 +153,16 @@ export const gascon_saintongeois: Breed = {
   ],
   evidence: {
     alternateNames: {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "The Dog API response did not include this.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note: null,
     },
     scientificName: {
       reliability: "unavailable",
@@ -172,7 +179,7 @@ export const gascon_saintongeois: Breed = {
           locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-10-26",
       note: null,
     },
     "origin.country": {
@@ -184,7 +191,7 @@ export const gascon_saintongeois: Breed = {
           locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-10-26",
       note: null,
     },
     "origin.region": {
@@ -208,7 +215,7 @@ export const gascon_saintongeois: Breed = {
           locator: "breed.description",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-10-26",
       note: null,
     },
     "overview.history": {
@@ -220,7 +227,7 @@ export const gascon_saintongeois: Breed = {
           locator: "breed.history",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-10-26",
       note: null,
     },
     "overview.originalPurpose": {
@@ -250,8 +257,8 @@ export const gascon_saintongeois: Breed = {
           locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-10-26",
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -262,7 +269,7 @@ export const gascon_saintongeois: Breed = {
           locator: "breed.life_span",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-10-26",
       note: null,
     },
     "physical.coatType": {
@@ -286,7 +293,7 @@ export const gascon_saintongeois: Breed = {
           locator: "GET /breeds/{id}/colours",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-10-26",
       note: "The colour endpoint lists variants registered for this breed, including variants applied across the species. Keep only the colours that belong to this breed.",
     },
     "physical.sheddingLevel": {
@@ -316,7 +323,7 @@ export const gascon_saintongeois: Breed = {
           locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-10-26",
       note: null,
     },
     "temperament.scores.affection": {
@@ -604,8 +611,8 @@ export const gascon_saintongeois: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-10-26",
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
     "physical.weight.female.max": {
       reliability: "reliable_source",
@@ -616,9 +623,9 @@ export const gascon_saintongeois: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-10-26",
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
   },
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-10-26",
 };

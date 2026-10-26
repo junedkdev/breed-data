@@ -425,7 +425,7 @@ export const tibetan_terrier: Breed = {
     "pubmed-tibetan-terrier-ncl-atp13a2",
     "pubmed-tibetan-terrier-ccl-selection",
     "pubmed-tibetan-terrier-pra3-fam161a",
-    "pubmed-canine-pll-adamts17",
+    "pubmed-gould-2011-adamts17-lens-luxation",
     "the-dog-api",
     "wikimedia-tibetan-terrier-acid-pix",
     "wikimedia-tibetan-terrier-8yo-male",
@@ -989,7 +989,7 @@ export const tibetan_terrier: Breed = {
           locator: "Downs & Mellersh (2014, PMID: 24705771): intronic SINE insertion in FAM161A on CFA10 causing PRA3 in Tibetan Spaniels and Tibetan Terriers"
         },
         {
-          id: "pubmed-canine-pll-adamts17",
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
           role: "verified",
           locator: "Gould et al. (2011, PMID: 22050825): ADAMTS17 c.1473+1G>A mutation on CFA3 causing primary lens luxation (PLL)"
         }

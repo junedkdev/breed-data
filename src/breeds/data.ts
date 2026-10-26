@@ -94,6 +94,11 @@ import { lancashire_heeler } from "./lancashire_heeler";
 import { german_spitz } from "./german_spitz";
 import { shiba_inu } from "./shiba_inu";
 import { belgian_shepherd_dog_malinois } from "./belgian_shepherd_dog_malinois";
+import { bulldog } from "./bulldog";
+import { schapendoes } from "./schapendoes";
+import { toy_fox_terrier } from "./toy_fox_terrier";
+import { sabueso_espanol } from "./sabueso_espanol";
+import { american_akita } from "./american_akita";
 
 
 export const breedData: readonly Breed[] = [
@@ -187,4 +192,9 @@ export const breedData: readonly Breed[] = [
   german_spitz,
   shiba_inu,
   belgian_shepherd_dog_malinois,
+  bulldog,
+  schapendoes,
+  toy_fox_terrier,
+  sabueso_espanol,
+  american_akita,
 ];

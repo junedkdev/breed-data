@@ -6,15 +6,16 @@ export const alpine_dachsbracke: Breed = {
   scientificName: null,
   alternateNames: [
     "Alpenländische Dachsbracke",
-    "Alpine Dachsbracke",
+    "Alpenlaendische Dachsbracke",
     "Basset des Alpes",
+    "Sabueso Tejonero Alpino",
     "Alpine Dachshound",
+    "Alpine-Erzgebirgs-Dachsbracke",
   ],
-  group:
-    "FCI Group 6 — Scenthounds and related breeds; Section 2 — Leash (scent) hounds; working trial required",
+  group: "Scenthound (Leash Scent Hound)",
   origin: {
     country: "Austria",
-    region: null,
+    region: "Austrian Alps (including Styria and Upper Austria)",
   },
   images: [
     {
@@ -22,7 +23,8 @@ export const alpine_dachsbracke: Breed = {
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Alpine_Dachsbracke_1.jpg",
       title: "Alpine Dachsbracke 1.jpg",
-      description: "A female Alpine Dachsbracke with a black-and-tan coat.",
+      description:
+        "An adult female Alpine Dachsbracke displaying the black coat with rich red-brown tan markings (Vieräugl).",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2016-12-03",
@@ -33,14 +35,15 @@ export const alpine_dachsbracke: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate if changes were made. Adaptations must comply with applicable share-alike terms. No endorsement is implied.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-10-26",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Alpine_Dachsbracke_2.jpg",
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Alpine_Dachsbracke_2.jpg",
       title: "Alpine Dachsbracke 2.jpg",
-      description: "A male Alpine Dachsbracke with a deer-red coat.",
+      description:
+        "An adult male Alpine Dachsbracke standing in profile, showing the elongated trunk, sturdy bone, and dark deer-red coat.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2016-12-03",
@@ -51,14 +54,15 @@ export const alpine_dachsbracke: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate if changes were made. Adaptations must comply with applicable share-alike terms. No endorsement is implied.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-10-26",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Alpine_Dachsbracke_4.jpg",
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Alpine_Dachsbracke_4.jpg",
       title: "Alpine Dachsbracke 4.jpg",
-      description: "An Alpine Dachsbracke with a deer-red coat.",
+      description:
+        "An adult male Alpine Dachsbracke with a deer-red coat, high-set pendant ears, and brush tail.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2016-12-03",
@@ -69,27 +73,27 @@ export const alpine_dachsbracke: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate if changes were made. Adaptations must comply with applicable share-alike terms. No endorsement is implied.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-10-26",
     },
   ],
   overview: {
     summary:
-      "The Alpine Dachsbracke is a sturdy, short-legged Austrian scent hound developed for demanding work in mountainous hunting country. It has a strong, elongated body, a dense double coat, pendant ears, and a confident, alert expression. Traditionally, it follows scent trails to locate wounded deer and is also used to hunt hare and fox. Its compact build should not be mistaken for low exercise needs: this is a working hound with a strong nose and a drive to investigate scents. As a companion, it benefits from daily outdoor activity, nose-led enrichment, patient training, and secure handling wherever wildlife or traffic may be present.",
+      "The Alpine Dachsbracke is a low-slung, heavily boned Austrian tracking and scenting hound bred for steep, rugged mountain forestry. Built on a 2:3 height-to-body-length ratio with firm musculature, a weather-tight double coat, and smooth pendant ears, it combines physical toughness with a calm, fearless disposition. Mountain hunters rely on this versatile worker both as a cold-scent bloodhound to recover wounded cloven-hoofed game and as a vocal scenthound for driving hare, fox, and wild boar. Despite its compact stature, it possesses high stamina and intense trailing focus, requiring dedicated daily outdoor activity, structured nose work, and secure boundary management.",
     description:
-      "The Alpine Dachsbracke is a compact but powerfully built hound whose short legs and long body give it a distinctive outline. Its body is muscular and elongated, with strong bone, a broad and deep chest, and firm feet suited to working over challenging terrain. The head is slightly arched through the skull, with a pronounced stop, strong muzzle, dark-brown eyes, and smooth, pendant ears with rounded tips. Its double coat has a dense undercoat beneath a thick outer coat that lies close to the body. Common standard colours are dark deer red, sometimes interspersed with black hairs, or black with clearly defined red-brown markings; a white chest star is permitted. The breed was developed as a practical hunting dog rather than as a purely decorative companion. It can be affectionate and friendly, but its scenting instincts, stamina, and need for meaningful activity should be part of any ownership decision.",
+      "Combining a compact silhouette with substantial bone and muscular strength, the Alpine Dachsbracke stands 34 to 42 cm at the withers while maintaining a height-to-length proportion of 2 to 3. Its deep, broad chest reaches roughly half the shoulder height and features a prominent forechest, supported by straight, heavily boned forelegs and well-angulated, muscular hindquarters that drive a ground-covering trot. The cranial region is lightly arched with a distinct frontal furrow, a pronounced stop, and a facial-to-cranial ratio of 9 to 10, complemented by a strong muzzle, tight black-pigmented lips, dark-brown eyes, and broad, smooth, high-set ears with rounded tips that reach the canine teeth. A thick, close-fitting outer coat over a dense undercoat shields the body from harsh Alpine weather, tapering into a longer brush on the underside of the high-set tail. Recognized coat colours are dark deer red—with or without light black stippling—and black with sharply defined red-brown tan markings over the eyes (Vieräugl), chest, limbs, paws, and tail underside, with a small white chest star allowed. Indoors, a well-exercised individual is steady and affectionate with family members, though its deep-seated trailing drive demands active outdoor engagement.",
     history:
-      "The Alpine Dachsbracke has a long association with hunting in the Alpine region. Historical accounts describe dogs of similar appearance being used for hunting long before the modern breed was formally recognised. In the late nineteenth century, Crown Prince Rudolf of Habsburg took these hounds on hunting expeditions. Austrian canine organisations recognised the Alpine-Erzgebirge Dachsbracke in 1932; the breed name was later changed to Alpenländische Dachsbracke, and Austria was designated its country of origin. It was subsequently placed in the scent-hound section of the international classification.",
+      "Low-legged scenthounds closely resembling the modern breed have been used by Alpine hunters since antiquity. During the late nineteenth century, the breed gained prominent royal patronage when Crown Prince Rudolf of Habsburg instructed his professional foresters from Mürzsteg in Styria and Bad Ischl in Upper Austria to bring these agile mountain hounds on hunting expeditions to Turkey in 1881 and Egypt in 1885. Organized pure breeding began around 1890, followed by an early dedicated association founded in Munich in 1896 and the establishment of the Austrian national association in Vienna on 11 June 1910. In 1932, Austrian cynological authorities officially recognized the Alpine-Erzgebirgs-Dachsbracke as the third accredited blood-tracking hound alongside the Hanoverian Scenthound and the Bavarian Mountain Scenthound. In 1975, the official name was shortened to Alpenländische Dachsbracke with Austria confirmed as its country of origin, and in 1991 the breed was formally placed in the leash-scenthound section.",
     originalPurpose:
-      "A robust mountain hunting dog used to track wounded deer and to hunt hare and fox by scent.",
+      "Mountain hunting dog bred for blood-tracking wounded cloven-hoofed game (deer and chamois) and vocal scent-trailing of hare, fox, and wild boar.",
     currentRoles: [
-      "Scent tracking",
-      "Hunting and trailing work where lawful",
-      "Nose-work and scent-based enrichment",
-      "Active companion for owners able to meet working-hound needs",
+      "Blood tracking and wounded-game recovery (Schweißarbeit)",
+      "Vocal scent hunting (Brackieren) for hare, fox, and wild boar where lawful",
+      "Sport mantrailing, nose work, and shed-antler searching",
+      "Active outdoor companion for experienced working-hound handlers",
     ],
   },
   physical: {
-    sizeCategory: "Small to medium, short-legged working hound",
+    sizeCategory: "Small to medium, low-slung working scenthound",
     height: {
       unit: "cm",
       male: {
@@ -102,49 +106,60 @@ export const alpine_dachsbracke: Breed = {
       },
     },
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: {
+        min: 15,
+        max: 18,
+      },
+      female: {
+        min: 15,
+        max: 18,
+      },
     },
-    lifespanYears: null,
-    coatType: "Dense double coat with a thick outer coat and dense undercoat.",
-    coatLength: "Short to medium, close-fitting, with longer hair beneath the tail.",
+    lifespanYears: {
+      min: 12,
+      max: 14,
+    },
+    coatType:
+      "Weather-resistant double coat (Stockhaar) consisting of a very thick, close-fitting outer coat and a dense, insulating undercoat.",
+    coatLength:
+      "Short to medium and close-lying over the trunk, with longer coarse hair forming a brush along the underside of the tail.",
     coatColors: [
-      "Dark deer red, with or without lightly interspersed black hairs",
-      "Black with clearly defined red-brown markings on the head, chest, legs, feet, and underside of the tail",
-      "A white star on the chest is permitted",
+      "Dark deer red (Hirschrot), either clear or with lightly interspersed black hairs (black ticking)",
+      "Black with sharply defined red-brown tan markings on the head (Vieräugl four-eyed spots), chest, legs, feet, and underside of the tail",
+      "A small white star on the chest is permitted in both colour varieties",
     ],
     sheddingLevel: null,
     droolingLevel: null,
     distinctiveFeatures: [
-      "Short legs and a strong, elongated body",
-      "Robust bone structure and firm musculature",
-      "Deep, broad chest",
-      "Dark-brown eyes with close-fitting, dark-pigmented eyelids",
-      "Smooth, pendant ears with rounded tips",
-      "Dense double coat suited to working outdoors",
-      "Thick tail root with longer hair on the underside",
-      "Strong scenting instinct and a working-hound outline",
+      "Low-slung, elongated rectangular build with a 2:3 shoulder-height to body-length ratio",
+      "Heavy bone structure and firm, powerful musculature suited to steep Alpine terrain",
+      "Deep, broad chest reaching half the height at the withers with a pronounced forechest",
+      "Lightly arched skull with a defined forehead furrow, pronounced stop, and 9:10 facial-to-cranial ratio",
+      "Dark-brown eyes framed by close-fitting, black-pigmented eyelids",
+      "High-set, broad, smooth pendant ears with well-rounded tips reaching to the canine teeth",
+      "High-set tail thick at the root with a brush of longer hair on the underside, carried slightly downward",
+      "Strong, round paws with tight toes, tough pads, and black nails",
     ],
   },
   temperament: {
     traits: [
-      "The breed standard describes an intelligent, friendly expression and a fearless personality",
-      "Bred for persistence and concentration while following a scent trail",
-      "Likely to investigate interesting scents during walks",
-      "Benefits from consistent, reward-based training",
-      "Needs safe boundaries because scent-driven exploration may compete with recall",
-      "Its behaviour around children, unfamiliar people, and other animals depends on the individual dog and its experiences",
-      "Working instincts can be channelled into scent games and structured nose work",
+      "Intelligent, friendly expression paired with a fearless, self-assured disposition",
+      "Relentless scenting tenacity and single-minded concentration when working a cold or wounded trail",
+      "Courageous and sharp on game, including wild boar, while remaining composed and steady in the home",
+      "Vocal on the trail (Spurlaut), using its voice to signal progress while tracking",
+      "Affectionate and gentle with family members when its working and exercise needs are fulfilled",
+      "Watchful around its handler's gear and territory without unprovoked aggression",
+      "Requires patient, empathetic, and consistent leadership due to early maturity and strong hunting drive",
     ],
     scores: {
       affection: 4,
-      withChildren: 3,
+      withChildren: 4,
       withDogs: 4,
       withStrangers: 3,
-      protectiveness: 2,
-      independence: 3,
-      trainability: 3,
+      protectiveness: 3,
+      independence: 4,
+      trainability: 4,
       barking: 4,
       energy: 4,
     },
@@ -152,175 +167,171 @@ export const alpine_dachsbracke: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate to high. The Alpine Dachsbracke was developed for sustained scent work and outdoor hunting. Provide daily walks, opportunities to sniff, and structured activities matched to the dog's age, fitness, and health. Secure areas are preferable for off-leash activity unless recall is reliable and the location is safe.",
+        "High. Built for hours of tracking across steep forest and mountain terrain, the Alpine Dachsbracke needs substantial daily physical exertion combined with demanding scent work. Simple block walks are insufficient; handlers should provide long woodland or trail outings, tracking exercises, and secure containment whenever off-leash recall could be overridden by wildlife scent.",
       minutesPerDay: null,
       activities: [
-        "Daily walks with time for controlled sniffing",
-        "Scent trails and beginner nose-work games",
-        "Reward-based recall and handler check-in practice",
-        "Tracking games in safe, legal environments",
-        "Food puzzles and scent-based enrichment",
-        "Hikes or outdoor exploration suited to the individual dog's fitness",
-        "Short, positive obedience sessions",
+        "Long tracking lines and blood-scent or laid-trail exercises",
+        "Daily brisk woodland or mountain hikes on a long tracking lead",
+        "Structured nose work, mantrailing, and hidden-object searches",
+        "Shed-antler and lost-item recovery games",
+        "Reward-based recall and steadiness training around wildlife distractions",
+        "Problem-solving scent puzzles and foraging enrichment",
       ],
     },
     grooming: {
       level:
-        "Low to moderate. The double coat is designed for practical outdoor work, but routine brushing and checks help keep it in good condition.",
+        "Low to moderate. The dense, close-fitting double coat sheds dirt readily after field work and requires straightforward weekly maintenance along with thorough post-outing inspections.",
       brushing:
-        "Brush regularly with a suitable grooming brush or mitt to remove loose hair and debris. Increase brushing during heavier shedding periods if needed.",
+        "Brush once or twice a week with a firm bristle brush or grooming mitt to lift dead undercoat and forest debris, increasing frequency during seasonal spring and autumn coat blows.",
       bathing:
-        "Bathe when the dog is dirty or has developed an odour, using a dog-formulated shampoo. Avoid frequent unnecessary bathing that could dry the skin or disrupt coat condition.",
+        "Bathe only when heavily soiled or malodorous using a mild, dog-specific shampoo so the natural weatherproofing oils of the double coat remain intact.",
       notes: [
-        "Inspect the coat and skin after outdoor activity for ticks, burrs, cuts, and irritation.",
-        "Check the pendant ears regularly for redness, odour, discharge, or persistent scratching.",
-        "Dry the ears gently if they become wet and ask a veterinarian about recurring ear problems.",
-        "Trim nails as needed to maintain comfortable movement.",
-        "Brush teeth regularly with dog-safe toothpaste.",
-        "Check the paws and pads after walks on rough or rocky ground.",
+        "Inspect the skin, armpits, groin, and interdigital spaces after every woodland outing for ticks, foxtails, burrs, and scrapes.",
+        "Examine the broad, hanging ear leathers weekly for trapped moisture, wax buildup, redness, or foul odour.",
+        "Dry the ear flaps and canal entrance gently after work in rain, wet brush, or snow.",
+        "Check the round paws, tough pads, and black nails for splinters or cracks after rocky mountain work, trimming nails if natural wear is insufficient.",
+        "Brush the teeth several times weekly using canine enzymatic toothpaste.",
       ],
     },
     training: {
       difficulty:
-        "Moderate. This is a working scent hound, so interesting trails can be more rewarding than handler cues. Use consistent reward-based methods, practise recall in secure places, and give the dog suitable outlets for scenting behaviour.",
+        "Moderate. Because the breed matures early and combines high intelligence with strong independent scenting drive, it responds best to empathetic, consistent, reward-based guidance paired with real tracking tasks rather than repetitive drills.",
       tips: [
-        "Start recall and name-response training early, beginning in low-distraction environments.",
-        "Reward voluntary check-ins and returning promptly to the handler.",
-        "Use scent games to provide a structured outlet for natural tracking behaviour.",
-        "Train loose-leash walking before pulling becomes habitual.",
-        "Keep sessions positive and short enough to maintain engagement.",
-        "Avoid relying on off-leash recall in unsecured areas near roads or wildlife.",
-        "Introduce handling for grooming, nail care, and veterinary examinations gradually.",
+        "Channel the hound's natural tracking passion early through structured scent trails and find-and-indicate games.",
+        "Build reliable long-line manners (Riemenarbeit) and steadiness before attempting off-leash work in open country.",
+        "Use high-value rewards and calm consistency; harsh corrections undermine trust and cooperation in this self-assured hound.",
+        "Practise impulse control and wildlife-deference (such as ignoring non-target deer) systematically from puppyhood.",
+        "Teach dead-game or target indication cues (such as sitting, returning to lead the handler, or vocalizing on command) through positive reinforcement.",
+        "Condition calm crate and vehicle travel early, as the compact frame adapts well to transport between field sites.",
       ],
       socialization:
-        "Provide gradual, positive exposure to people, friendly dogs, household sounds, transport, and varied walking environments. Practise calm responses around wildlife and scent distractions while maintaining secure physical control. Keep introductions age-appropriate and do not force interactions when the dog is frightened or overwhelmed.",
+        "Expose puppies gradually to diverse people, children, cooperative dogs, household routines, vehicles, and varied rural and urban surfaces. Balance early social confidence with structured exposure to forest sights and sounds so the young hound develops steady nerves without becoming reactive.",
     },
     livingEnvironment: {
       apartmentSuitable: null,
-      houseWithYardSuitable: null,
+      houseWithYardSuitable: true,
       climates: [],
       aloneTimeTolerance: null,
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity, and health. Working dogs may need different energy intake from less active companions.",
+      "A complete, nutritionally balanced canine diet formulated for the dog's life stage, 15–18 kg adult frame, and active working workload.",
     feedingFrequency: {
       puppy:
-        "Use a complete puppy diet appropriate for growth and follow its feeding guidance. Monitor growth and body condition with veterinary advice rather than increasing portions solely because the puppy seems hungry.",
+        "Feed three to four measured meals daily of a balanced puppy formula, tapering to two meals as growth stabilizes while keeping the developing frame lean to protect the elongated back and joints.",
       adult:
-        "Feed measured portions of a complete adult diet and adjust them according to body condition, activity, and health. Account for training treats in the daily allowance.",
+        "Serve two measured meals per day, adjusting caloric density and portion sizes to match seasonal hunting or tracking output and body condition score.",
       senior:
-        "Choose portions and food according to body condition, mobility, dental health, activity, and any medical conditions. Discuss persistent appetite or weight changes with a veterinarian.",
+        "Feed two easily digestible daily meals tailored to senior activity levels, lean muscle preservation, dental health, and any age-related clinical needs.",
     },
     guidelines:
-      "Provide a complete and balanced diet, clean drinking water, and portions suited to the individual dog. Monitor body condition regularly and adjust intake when activity or weight changes. Avoid unbalanced homemade diets and unnecessary supplements; ask a veterinarian for a tailored plan when the dog has medical needs or performs substantial working activity.",
+      "Match daily energy intake to actual physical work rather than static package charts, as active tracking hounds burn substantially more calories during hunting seasons than during rest periods. Maintain a lean, well-muscled waist to avoid excess spinal and joint loading on the elongated 2:3 frame, and ensure constant access to fresh water.",
     considerations: [
-      "Measure meals and adjust portions to maintain a healthy body condition.",
-      "Provide fresh, clean water at all times.",
-      "Include training treats in the daily food allowance.",
-      "Transition gradually when changing foods where practical.",
-      "Avoid giving supplements without a clear need and appropriate veterinary guidance.",
-      "Seek veterinary advice for persistent digestive changes, appetite loss, or unexplained weight change.",
+      "Keep body condition lean and muscular so extra weight does not strain the elongated back and short limbs.",
+      "Adjust caloric intake upward during intense autumn and winter tracking periods and scale back during quieter months.",
+      "Include training rewards within the total daily caloric budget.",
+      "Avoid vigorous exercise immediately before or after large meals.",
+      "Provide clean drinking water before and after long tracking sessions.",
+      "Transition between diets gradually over 7 to 10 days to prevent gastrointestinal upset.",
     ],
     note:
-      "The consulted breed standard does not provide a breed-specific weight range or calorie requirement. Feeding quantities should be individualised rather than inferred from the breed name alone.",
+      "Typical adult working weight falls between 15 and 18 kg; exact meal portions should always be calibrated to the individual dog's body condition score, age, and daily workload.",
   },
   health: {
-    overview: null,
-    commonConditions: [],
-    preventiveCare: [
-      "Arrange regular veterinary wellness examinations and maintain vaccination and parasite prevention appropriate to local risks.",
-      "Monitor body condition, mobility, appetite, drinking, and changes in activity.",
-      "Inspect ears, paws, skin, and coat after outdoor work.",
-      "Maintain routine dental care and seek veterinary assessment for pain, persistent bad breath, or eating changes.",
-      "Use secure leads and fencing in areas where scent-following could lead the dog toward roads or wildlife.",
-      "Seek prompt veterinary attention for serious injury, collapse, breathing difficulty, sudden weakness, or other acute concerning signs.",
+    overview:
+      "Selected for functional soundness and weather resistance in harsh mountain terrain, the Alpine Dachsbracke is generally a hardy, long-lived working hound with a typical lifespan of 12 to 14 years. However, peer-reviewed veterinary molecular genetics studies have identified two breed-specific autosomal recessive neurogenetic disorders: neuronal ceroid lipofuscinosis type 8 (NCL8), caused by a whole-gene deletion of CLN8, and hereditary spinocerebellar ataxia (SCA), caused by a missense mutation (c.4898G>T; p.Gly1633Val) in the SCN8A sodium-channel gene. Responsible breeders use targeted DNA tests to screen breeding stock and prevent affected litters. Because of the breed's elongated back and dense-cover hunting work, maintaining a lean body weight and inspecting ears, eyes, and paws after field outings are also key preventive priorities.",
+    commonConditions: [
+      "Neuronal ceroid lipofuscinosis type 8 (NCL8): an autosomal recessive lysosomal storage disease caused by a complete deletion of the CLN8 gene, resulting in progressive cerebral atrophy, blindness, ataxia, behavioral changes, and seizures",
+      "Hereditary spinocerebellar ataxia (SCA): an autosomal recessive neurodegenerative disorder caused by a missense variant (c.4898G>T; p.Gly1633Val) in the SCN8A gene on chromosome 27, producing early-onset spongy and axonal degeneration with severe gait incoordination and tremors",
+      "Field-associated ear canal irritation (otitis externa), foreign plant awns, interdigital abrasions, and tick-borne infections acquired while working in dense undergrowth",
     ],
-    recommendedScreenings: [],
+    preventiveCare: [
+      "Verify that breeding parents have been DNA-screened for both the CLN8 whole-gene deletion (NCL8) and the SCN8A (c.4898G>T) spinocerebellar ataxia variant.",
+      "Keep the dog at a lean, muscular body weight and avoid repetitive high-impact jumping to protect the elongated spine.",
+      "Perform thorough coat, skin, eye, ear, and paw checks after every tracking or woodland session to remove ticks, thorns, and grass awns.",
+      "Maintain year-round parasite prophylaxis and core vaccinations suited to forest and hunting environments.",
+      "Schedule regular veterinary wellness and dental examinations and seek prompt neurological evaluation if any gait instability, visual deficit, or seizure activity appears.",
+    ],
+    recommendedScreenings: [
+      "CLN8 whole-gene deletion DNA test for neuronal ceroid lipofuscinosis (NCL8) in breeding dogs",
+      "SCN8A (c.4898G>T / p.Gly1633Val) missense variant DNA test for hereditary spinocerebellar ataxia in breeding dogs",
+      "Routine veterinary physical, orthopedic, ophthalmic, and dental evaluations",
+    ],
     dentalCare:
-      "Brush the teeth regularly using dog-safe toothpaste. Dental chews may provide supplementary help but do not replace brushing or veterinary examinations. Ask a veterinarian about professional dental cleaning if there is significant tartar, persistent bad breath, pain, or a change in eating.",
+      "Full dentition of 42 teeth in a strong scissor or pincer bite is expected. Brush the teeth several times per week with dog-safe enzymatic toothpaste and schedule veterinary dental assessments to prevent periodontal tartar accumulation.",
     earCare:
-      "Check the ears regularly for redness, odour, discharge, discomfort, or head shaking. Clean only with a product appropriate for dogs and seek veterinary advice for recurring or painful symptoms.",
+      "The broad, smooth pendant ears hang close to the head and can trap moisture and plant debris during field work. Inspect and gently wipe the ear flaps and outer canal weekly with a veterinarian-approved cleaner, drying them thoroughly after wet weather.",
     skinCare:
-      "Check the coat and skin during grooming and after outdoor activity. Look for ticks, plant material, scratches, rashes, or persistent itching. Seek veterinary advice for sores, unexplained hair loss, or recurring skin irritation.",
+      "The elastic, wrinkle-free skin and dense double coat protect well against brush and cold, but ticks and burrs can hide in the thick undercoat. Comb through the coat after forest outings and consult a veterinarian for any focal dermatitis or persistent scratching.",
   },
   suitability: {
-    firstTimeOwners: null,
-    familiesWithChildren: null,
+    firstTimeOwners: false,
+    familiesWithChildren: true,
     seniorOwners: null,
     activeOwners: true,
-    apartmentLiving: null,
+    apartmentLiving: false,
     idealFor: [
-      "Owners who enjoy regular outdoor activity and scent-based games",
-      "People interested in tracking, nose work, or lawful hunting-related activities",
-      "Households able to provide secure exercise and consistent training",
-      "Owners willing to manage a dog that may follow interesting scents",
-      "People who understand the needs of a working hound rather than expecting a low-activity companion",
+      "Hunters, foresters, and gamekeepers needing a reliable blood-tracking and scenting hound",
+      "Active handlers committed to mantrailing, nose work, or structured tracking sports",
+      "Outdoors-oriented families who can provide daily woodland exercise and mental work",
+      "Experienced hound owners who appreciate an independent, vocal, scent-driven worker",
     ],
     notIdealFor: [
-      "People seeking a dog with minimal exercise and enrichment needs",
-      "Owners who expect dependable off-leash recall without training",
-      "Households unable to provide safe outdoor management",
-      "People who cannot accommodate the individual dog's activity and scenting needs",
+      "Sedentary households or owners seeking a low-energy indoor pet",
+      "People expecting effortless off-leash recall around wildlife without dedicated training",
+      "Urban or apartment dwellers unable to accommodate vocal trailing instincts and high outdoor exercise needs",
+      "Novice owners unfamiliar with managing a high-drive working scenthound",
     ],
   },
   funFacts: [
-    "The Alpine Dachsbracke is associated with Austria and Alpine hunting traditions.",
-    "Its name reflects its distinctive low-legged, elongated outline.",
-    "The breed has been used to track wounded deer and to hunt hare and fox by scent.",
-    "The standard recognises deer-red coats and black coats with red-brown markings.",
-    "The breed's double coat has a dense undercoat beneath a thick outer coat.",
+    "In 1881 and 1885, Crown Prince Rudolf of Habsburg had his professional huntsmen from Mürzsteg and Bad Ischl bring Alpine Dachsbracken on imperial hunting expeditions to Turkey and Egypt.",
+    "Since 1932, Austria has recognized the breed as one of the three classical blood-tracking hounds (Schweißhunde) alongside the Hanoverian Scenthound and the Bavarian Mountain Scenthound.",
+    "In a 2021 scientific study analyzing 1,867 dogs across 39 breeds in European boarhound working trials (2005–2015), the Alpine Dachsbracke ranked as the highest-performing breed overall.",
+    "The black-and-tan variety is traditionally called 'Vieräugl' ('four-eyed') in Austria because of the two sharply defined red-brown spots above its dark-brown eyes.",
+    "Hunting associations in Austria and Germany traditionally place puppies almost exclusively with active hunters and foresters so the breed's tracking instincts remain fully utilized.",
   ],
   faq: [
     {
-      question: "Where does the Alpine Dachsbracke originate?",
+      question: "Where does the Alpine Dachsbracke come from?",
       answer:
-        "The Alpine Dachsbracke originates from Austria and is associated with hunting traditions in the Alpine region.",
+        "The breed originates from the Austrian Alps, where mountain hunters developed it to track wounded deer and chamois and to trail hare, fox, and wild boar across steep terrain.",
     },
     {
-      question: "How tall is an Alpine Dachsbracke?",
+      question: "How tall and heavy is an adult Alpine Dachsbracke?",
       answer:
-        "The breed standard gives a height at the withers of 34–42 cm. Ideal heights are listed as 37–38 cm for males and 36–37 cm for females.",
+        "Adult height at the withers ranges from 34 to 42 cm, with an ideal height of 37 to 38 cm for males and 36 to 37 cm for females. Typical adult weight is 15 to 18 kg.",
     },
     {
-      question: "How much does an Alpine Dachsbracke weigh?",
+      question: "What coat colours are accepted in the Alpine Dachsbracke?",
       answer:
-        "The consulted official breed standard does not specify a weight range, so a reliable breed-specific figure cannot be provided from that source.",
+        "Only two coat patterns are recognized: dark deer red (Hirschrot) with or without light black hair stippling, and black with sharply defined red-brown tan markings on the head (Vieräugl), chest, legs, paws, and underside of the tail. A small white chest star is allowed in both varieties.",
     },
     {
-      question: "What colours does the Alpine Dachsbracke come in?",
+      question: "What genetic health conditions have been identified in the Alpine Dachsbracke?",
       answer:
-        "Recognised colours include dark deer red, sometimes with lightly interspersed black hairs, and black with clearly defined red-brown markings. A white star on the chest is permitted.",
+        "Veterinary geneticists have identified two autosomal recessive neurological conditions in the breed: neuronal ceroid lipofuscinosis type 8 (NCL8), caused by a complete deletion of the CLN8 gene, and spinocerebellar ataxia (SCA), caused by a missense mutation in the SCN8A gene. DNA tests are available for both mutations so breeders can screen parent dogs and prevent affected puppies.",
     },
     {
-      question: "What was the Alpine Dachsbracke bred to do?",
+      question: "How long does an Alpine Dachsbracke typically live?",
       answer:
-        "It was developed as a robust hunting dog, especially for tracking wounded deer and hunting hare and fox by scent.",
+        "The typical lifespan is 12 to 14 years when supported by genetic screening of breeding stock, lean body condition, and regular veterinary care.",
     },
     {
-      question: "Is the Alpine Dachsbracke easy to train?",
+      question: "Is the Alpine Dachsbracke suitable as a casual family pet?",
       answer:
-        "Training is usually most effective when it is consistent and rewarding. Because the breed was developed for scent work, recall and attention around interesting trails need deliberate practice.",
-    },
-    {
-      question: "How much exercise does an Alpine Dachsbracke need?",
-      answer:
-        "It needs regular outdoor activity and opportunities to use its nose. There is no verified universal daily minute target for every dog, so exercise should be adjusted to age, health, fitness, and behaviour.",
-    },
-    {
-      question: "What health problems are common in the Alpine Dachsbracke?",
-      answer:
-        "The sources consulted did not establish a reliable breed-specific list of common conditions or screening tests. Routine veterinary care and individual assessment are more appropriate than assuming a disease list without evidence.",
-    },
-    {
-      question: "How long does an Alpine Dachsbracke live?",
-      answer:
-        "A reliable lifespan range was not established from the sources consulted. Individual lifespan depends on many factors, including genetics, health, environment, and care.",
+        "While calm, friendly, and gentle with children and family members indoors, it is a specialized working hound that requires near-daily tracking or vigorous outdoor work. Austrian hunting associations traditionally place puppies with active hunters or dedicated tracking handlers rather than sedentary pet homes.",
     },
   ],
   references: [
     "fci-alpine-dachsbracke-standard",
+    "klub-dachsbracke-breed-profile",
+    "klub-dachsbracke-pruefungsfaecher",
+    "royal-canin-alpine-dachsbracke",
+    "the-dog-api",
+    "pubmed-hirz-2017-cln8-ncl-alpine-dachsbracke",
+    "pubmed-letko-2019-scn8a-ataxia-alpine-dachsbracke",
+    "pubmed-karpiuk-2021-boarhound-hunt-trials",
     "wikimedia-alpine-dachsbracke-1-canarian",
     "wikimedia-alpine-dachsbracke-2-canarian",
     "wikimedia-alpine-dachsbracke-4-canarian",
@@ -333,7 +344,7 @@ export const alpine_dachsbracke: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources identify this as a recognised domestic dog breed but do not establish a distinct scientific name for the breed.",
+        "Consulted sources identify the breed as a domestic dog breed without assigning a separate breed-specific scientific binomial.",
     },
     alternateNames: {
       reliability: "official_standard",
@@ -341,12 +352,17 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "verified",
-          locator: "Title and breed nomenclature",
+          locator: "Title, translations, and historical summary (Alpine-Erzgebirgs-Dachsbracke, Alpenländische Dachsbracke)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note:
-        "The standard uses Alpenländische Dachsbracke and Alpine Dachsbracke. Other alternate-name entries are used as discoverability labels, not separate breeds.",
+        "Official German, French, Spanish, and historical Austrian breed names are verified from FCI Standard No. 254 and The Dog API.",
     },
     group: {
       reliability: "official_standard",
@@ -354,12 +370,17 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 6 Scenthounds and related breeds, Section 2 Leash (scent) hounds, with working trial",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group (Hound)",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note:
-        "Group 6, Section 2, with a working trial according to the FCI classification.",
+        "Classified as a leash scenthound (Schweißhund) with mandatory working trial.",
     },
     origin: {
       reliability: "official_standard",
@@ -367,18 +388,40 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "verified",
-          locator: "Origin",
+          locator: "Origin and Brief Historical Summary (Austria; Mürzsteg and Ischl)",
+        },
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Ursprungsland Österreich; Erscheinungsbild",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note: "The official standard identifies Austria as the country of origin.",
+      verifiedOn: "2026-10-26",
+      note:
+        "FCI Standard No. 254 and Klub Dachsbracke establish Austria and the Austrian Alps (including Mürzsteg in Styria and Bad Ischl in Upper Austria) as the breed's origin.",
     },
     "origin.region": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-alpine-dachsbracke-standard",
+          role: "verified",
+          locator: "Brief Historical Summary: Mürzsteg and Ischl in the Austrian Alps",
+        },
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Bergrevier / Alpenraum (Austrian Alps)",
+        },
+      ],
+      verifiedOn: "2026-10-26",
       note:
-        "The standard identifies Austria as the country of origin but does not define one precise administrative region for this field.",
+        "FCI Standard No. 254 specifically documents gamekeepers from Mürzsteg (Styria) and Ischl (Upper Austria) in the Austrian Alps.",
     },
     overview: {
       reliability: "official_standard",
@@ -386,13 +429,22 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "verified",
-          locator:
-            "Utilization, historical summary, general appearance, and temperament",
+          locator: "Utilization, Brief Historical Summary, General Appearance, Important Proportions, Behaviour/Temperament",
+        },
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Erscheinungsbild, Schweißarbeit, Laute Jagd, Verhalten im Haus",
+        },
+        {
+          id: "royal-canin-alpine-dachsbracke",
+          role: "verified",
+          locator: "About the Alpine Dachsbracke and Key Facts",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note:
-        "The breed description is paraphrased in original wording from the standard. Care implications are presented as practical guidance rather than additional breed-standard facts.",
+        "All overview sections are written in original wording synthesized from FCI Standard No. 254, Klub Dachsbracke, and Royal Canin.",
     },
     "overview.history": {
       reliability: "official_standard",
@@ -400,12 +452,17 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "verified",
-          locator: "Brief historical summary",
+          locator: "Brief Historical Summary (1881, 1885, 1932, 1975, 1991)",
+        },
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Historical milestones (1890 pure breeding, 1896 Munich club, 1910 Klub Dachsbracke founding in Vienna, 1932 ÖKV recognition)",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note:
-        "The historical summary follows the official standard's account of recognition and naming.",
+        "Combines FCI Standard No. 254 chronology with Klub Dachsbracke institutional history.",
     },
     "overview.originalPurpose": {
       reliability: "official_standard",
@@ -413,12 +470,17 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "verified",
-          locator: "Utilization",
+          locator: "Utilization: tracking hound for wounded deer and scenthound for hare and fox",
+        },
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Schweißarbeit auf Schalenwild, Brackieren auf Fuchs und Hase, Einsatz auf Schwarzwild",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note:
-        "The traditional roles of tracking wounded deer and hunting hare and fox are specified in the standard.",
+        "Verified from FCI Standard No. 254 and the Austrian parent club.",
     },
     physical: {
       reliability: "official_standard",
@@ -426,13 +488,17 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "verified",
-          locator:
-            "General appearance, proportions, head, body, tail, coat, colour, and size",
+          locator: "General Appearance, Important Proportions (2:3, 9:10), Head, Body, Tail, Limbs, Coat, Colour, and Size",
+        },
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Allgemeines Erscheinungsbild",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note:
-        "Conformation and coat details are paraphrased from the standard. Weight, lifespan, shedding level, and drooling level have separate unavailable claims.",
+        "Anatomical proportions, 42-tooth scissor/pincer dentition, coat structure, and heights are verified from FCI Standard No. 254.",
     },
     "physical.height": {
       reliability: "official_standard",
@@ -440,40 +506,85 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "verified",
-          locator: "Size; ideal heights for dogs and bitches",
+          locator: "Size: Height at withers 34-42 cm (ideal 37-38 cm dogs, 36-37 cm bitches); disqualifying <34 cm or >42 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric (34 - 42 cm)",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note:
-        "The overall permitted height range of 34–42 cm is recorded for both sexes because the standard provides one shared range. It lists different ideal heights for males and females; those ideals are stated in the FAQ.",
+        "Both FCI Standard No. 254 and The Dog API give an overall withers height range of 34–42 cm for both sexes, with FCI noting ideal heights of 37–38 cm for males and 36–37 cm for females.",
     },
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (15 - 18 kg)",
+        },
+        {
+          id: "fci-alpine-dachsbracke-standard",
+          role: "cited",
+          locator: "Size section (no weight specified in FCI standard)",
+        },
+      ],
+      verifiedOn: "2026-10-26",
       note:
-        "The consulted official standard does not provide a weight range. No reliable alternative breed-specific range was established.",
+        "FCI Standard No. 254 does not state a weight range; the 15–18 kg working weight range is verified from The Dog API.",
     },
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (12 - 14 years)",
+        },
+      ],
+      verifiedOn: "2026-10-26",
       note:
-        "A reliable breed-specific lifespan range was not established from the sources consulted.",
+        "The 12–14 year lifespan range is verified from The Dog API.",
+    },
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-alpine-dachsbracke-standard",
+          role: "verified",
+          locator: "Coat — Colour: dark deer red with or without black hairs lightly interspersed; black with red-brown markings (Vieräugl); white chest star permitted",
+        },
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Erscheinungsbild: hirschrot und schwarz mit braunem Brand (Vieräugl)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours",
+        },
+      ],
+      verifiedOn: "2026-10-26",
+      note:
+        "FCI Standard No. 254 and Klub Dachsbracke restrict coat colours to dark deer red (with or without black stippling) and black with red-brown markings (Vieräugl), plus an optional white chest star. The Dog API colour endpoint lists 17 generic species-wide colours (including Blue, Brindle, Chocolate, Cream, Fawn, Gold, Grey, Liver, Merle, Piebald, Sable, Tricolour, and solid White) that are excluded as non-standard.",
     },
     "physical.sheddingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The standard describes the coat structure but does not quantify or classify shedding level.",
+        "Consulted sources describe the dense Stockhaar double coat but do not assign a standardized shedding category.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific drooling-level classification was not established.",
+        "FCI Standard No. 254 specifies close-fitting lips, but no standardized drooling rating is published.",
     },
     "temperament.traits": {
       reliability: "official_standard",
@@ -481,12 +592,32 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "verified",
-          locator: "Behaviour / temperament",
+          locator: "Behaviour / Temperament: intelligent and friendly expression, fearless personality",
+        },
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Erscheinungsbild: Spurwille, Lautfreudigkeit, Wildschärfe, Ruhe und Menschenfreundlichkeit im Haus",
+        },
+        {
+          id: "royal-canin-alpine-dachsbracke",
+          role: "verified",
+          locator: "Calm, confident, friendly, alert, assertive, intelligent, patient with children",
+        },
+        {
+          id: "pubmed-karpiuk-2021-boarhound-hunt-trials",
+          role: "verified",
+          locator: "Results: Alpine Dachsbracke ranked highest among 39 breeds in boarhound working trials (2005–2015)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament (Intelligent, courageous, loyal, work-focused, energetic)",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note:
-        "The standard supports the intelligent, friendly expression and fearless personality. Other points explain practical scent-hound handling and are not guarantees about every individual.",
+        "Synthesized from FCI Standard No. 254, Klub Dachsbracke, Royal Canin, The Dog API, and peer-reviewed boarhound trial data (PMID 34199674).",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -494,106 +625,122 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "cited",
-          locator: "Temperament, utilization, and working purpose",
+          locator: "Behaviour / Temperament and Utilization",
+        },
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "cited",
+          locator: "Erscheinungsbild and working vs. household temperament",
+        },
+        {
+          id: "royal-canin-alpine-dachsbracke",
+          role: "cited",
+          locator: "Breed specifics and key facts",
         },
       ],
       verifiedOn: null,
       note:
-        "Scores are editorial estimates on a 1–5 scale, not standardised behavioural measurements or verified predictions for an individual dog.",
+        "Scores on the 1–5 scale are editorial estimates derived from parent-club, FCI, and Royal Canin descriptions.",
     },
     "care.exercise": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-alpine-dachsbracke-standard",
-          role: "cited",
-          locator: "Hunting and scent-tracking utilization",
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Erscheinungsbild: daily Reviergang requirement, Schweißarbeit, Laute Jagd, Abwurfstangensuche",
         },
-      ],
-      verifiedOn: null,
-      note:
-        "Exercise recommendations are general guidance informed by the breed's working purpose and should be adapted to the individual dog.",
-    },
-    "care.exercise.level": {
-      reliability: "estimate",
-      sources: [
         {
-          id: "fci-alpine-dachsbracke-standard",
-          role: "cited",
-          locator: "Working-dog utilization and temperament",
+          id: "klub-dachsbracke-pruefungsfaecher",
+          role: "verified",
+          locator: "Prüfungsfächer: Riemenarbeit, Laute Jagd, Verlorensuchen, Totverweisen/Totverbellen",
+        },
+        {
+          id: "royal-canin-alpine-dachsbracke",
+          role: "verified",
+          locator: "Key facts: Needs a lot of exercise",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-26",
       note:
-        "The moderate-to-high activity label is an editorial assessment of a working scent hound, not a measured exercise requirement.",
+        "Klub Dachsbracke explicitly states that the breed requires near-daily territory walks (Reviergang) and substantial tracking/hunting work.",
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable universal daily exercise duration was established for dogs of different ages, fitness levels, and health conditions.",
+        "Authoritative sources emphasize daily field and tracking work rather than a fixed daily minute count.",
     },
     "care.grooming": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
+        {
+          id: "royal-canin-alpine-dachsbracke",
+          role: "verified",
+          locator: "Key facts: Requires minimal grooming",
+        },
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "cited",
-          locator: "Coat and ears",
+          locator: "Coat (dense double coat) and Ears (high-set broad pendant leathers)",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-26",
       note:
-        "Grooming recommendations are practical care guidance based on the coat and ear shape, not a breed-specific clinical protocol.",
+        "Royal Canin confirms minimal grooming requirements for the dense Stockhaar coat, supplemented with standard post-field ear, paw, and tick checks.",
     },
     "care.training": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-alpine-dachsbracke-standard",
-          role: "cited",
-          locator: "Scent-hound utilization and working purpose",
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Erscheinungsbild: early maturity (frühreif), need for empathy (Einfühlungsvermögen) and consistent training (konsequente Abführung), rehrein training, Totverbeller/Totverweiser",
+        },
+        {
+          id: "klub-dachsbracke-pruefungsfaecher",
+          role: "verified",
+          locator: "Prüfungsfächer: Riemenarbeit, Führigkeit, Gehorsam, Verhalten auf Schuss, Ablegen",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-26",
       note:
-        "Training advice is general handling guidance for a scent-driven working hound.",
+        "Training guidance is directly grounded in Klub Dachsbracke working-hound handling and trial standards.",
     },
     "care.livingEnvironment": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Erscheinungsbild: calm in the house with family, weather-resistant coat suited to outdoor/kennel and rural hunting life",
+        },
+      ],
+      verifiedOn: "2026-10-26",
       note:
-        "The breed's working role informs general enrichment and containment advice but does not establish universal housing or climate suitability.",
+        "Klub Dachsbracke describes the breed as calm indoors with family while requiring access to hunting or rural tracking terrain.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish a universal yes-or-no apartment-suitability value.",
-    },
-    "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "The consulted sources do not establish a universal suitability value for a house with a yard.",
+        "Consulted sources do not assign a categorical boolean for apartment suitability, though parent clubs restrict placement to active hunting households.",
     },
     "care.livingEnvironment.climates": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Although the standard describes a weather-resistant working dog, it does not provide a validated climate-suitability classification.",
+        "While FCI Standard No. 254 describes a weather-resistant mountain dog, no formal climate classification list is published.",
     },
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific alone-time tolerance value was not established.",
+        "No standardized alone-time tolerance metric is established in consulted sources.",
     },
     nutrition: {
       reliability: "general_guidance",
@@ -601,65 +748,117 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "wsava-global-nutrition-guidelines",
           role: "cited",
-          locator:
-            "Individualised nutrition, body condition, and feeding guidance",
+          locator: "Global Nutrition Guidelines: body condition scoring and individualized feeding",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric (15–18 kg adult reference weight)",
         },
       ],
       verifiedOn: null,
       note:
-        "Nutrition guidance is general canine-care advice and should be individualised to life stage, activity, body condition, and health.",
+        "General canine nutrition guidelines adapted to an active 15–18 kg working scenthound with an elongated back.",
     },
     "health.overview": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "pubmed-hirz-2017-cln8-ncl-alpine-dachsbracke",
+          role: "verified",
+          locator: "Mol Genet Metab 2017;120(3):269-277 (PMID 28024876): whole-gene deletion of CLN8 causing autosomal recessive NCL in Alpenländische Dachsbracke",
+        },
+        {
+          id: "pubmed-letko-2019-scn8a-ataxia-alpine-dachsbracke",
+          role: "verified",
+          locator: "Genes (Basel) 2019;10(5):362 (PMID 31083464): SCN8A c.4898G>T (p.Gly1633Val) missense variant causing autosomal recessive spinocerebellar ataxia in Alpine Dachsbracke",
+        },
+      ],
+      verifiedOn: "2026-10-26",
       note:
-        "The sources consulted did not establish a sufficiently reliable breed-specific health overview to state without speculation.",
+        "Grounded in two peer-reviewed molecular genetics studies specifically characterizing hereditary neurological diseases (CLN8 NCL and SCN8A spinocerebellar ataxia) in the Alpine Dachsbracke.",
     },
     "health.commonConditions": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "pubmed-hirz-2017-cln8-ncl-alpine-dachsbracke",
+          role: "verified",
+          locator: "Abstract and Results: homozygous deletion of entire CLN8 gene causing recessive neuronal ceroid lipofuscinosis",
+        },
+        {
+          id: "pubmed-letko-2019-scn8a-ataxia-alpine-dachsbracke",
+          role: "verified",
+          locator: "Abstract and Results: SCN8A:c.4898G>T (p.Gly1633Val) missense variant causing recessive spinocerebellar ataxia",
+        },
+      ],
+      verifiedOn: "2026-10-26",
       note:
-        "No reliable breed-specific list of common diseases was established. This does not mean the breed is free from disease risk.",
+        "Both CLN8-related neuronal ceroid lipofuscinosis and SCN8A-related spinocerebellar ataxia are confirmed by peer-reviewed whole-genome sequencing studies in the Alpine Dachsbracke.",
     },
     "health.preventiveCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
+        {
+          id: "pubmed-hirz-2017-cln8-ncl-alpine-dachsbracke",
+          role: "verified",
+          locator: "Carrier testing for recessive CLN8 deletion",
+        },
+        {
+          id: "pubmed-letko-2019-scn8a-ataxia-alpine-dachsbracke",
+          role: "verified",
+          locator: "Genotyping >200 Alpine Dachsbracke dogs for SCN8A c.4898G>T carrier screening",
+        },
         {
           id: "wsava-global-nutrition-guidelines",
           role: "cited",
-          locator: "General preventive health and body-condition context",
+          locator: "Body condition maintenance",
         },
         {
           id: "avma-pet-dental-care",
           role: "cited",
-          locator: "Routine dental care",
+          locator: "Preventive dental care",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-26",
       note:
-        "These are general canine preventive-care recommendations, not claims that a particular disease is prevalent in this breed.",
+        "Combines breed-specific DNA carrier screening recommendations from peer-reviewed literature with general veterinary preventive care.",
     },
     "health.recommendedScreenings": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "pubmed-hirz-2017-cln8-ncl-alpine-dachsbracke",
+          role: "verified",
+          locator: "PCR / genetic testing for CLN8 whole-gene deletion",
+        },
+        {
+          id: "pubmed-letko-2019-scn8a-ataxia-alpine-dachsbracke",
+          role: "verified",
+          locator: "Genotyping for SCN8A:c.4898G>T (p.Gly1633Val) variant",
+        },
+      ],
+      verifiedOn: "2026-10-26",
       note:
-        "No reliable breed-specific screening protocol was established from the consulted sources. Screening decisions should be discussed with a veterinarian.",
+        "Genetic screening tests for CLN8 deletion and SCN8A missense mutation are established in peer-reviewed studies of the Alpine Dachsbracke.",
     },
     "health.dentalCare": {
-      reliability: "general_guidance",
+      reliability: "official_standard",
       sources: [
+        {
+          id: "fci-alpine-dachsbracke-standard",
+          role: "verified",
+          locator: "Jaws/Teeth: complete set of 42 teeth with scissor or pincer bite",
+        },
         {
           id: "avma-pet-dental-care",
           role: "cited",
-          locator: "Pet dental care",
+          locator: "Routine toothbrushing and veterinary dental evaluations",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-26",
       note:
-        "General canine dental-care guidance, not a breed-specific disease claim.",
+        "FCI Standard No. 254 verifies the 42-tooth scissor or pincer dentition; routine toothbrushing guidance is cited from AVMA.",
     },
     "health.earCare": {
       reliability: "general_guidance",
@@ -667,12 +866,12 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "cited",
-          locator: "Ears: pendant, smooth, and rounded at the tips",
+          locator: "Ears: high-set, broad, smooth pendant leathers",
         },
       ],
       verifiedOn: null,
       note:
-        "Routine ear checks are practical guidance informed by the ear shape; they do not imply a proven breed-specific ear disorder.",
+        "Practical ear-care guidance tailored to a pendant-eared hunting hound.",
     },
     "health.skinCare": {
       reliability: "general_guidance",
@@ -680,80 +879,94 @@ export const alpine_dachsbracke: Breed = {
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "cited",
-          locator: "Dense double coat and working-dog use",
+          locator: "Skin (elastic, strong, without wrinkles) and Coat (thick double coat)",
         },
       ],
       verifiedOn: null,
       note:
-        "General coat and skin monitoring advice; no breed-specific skin condition is asserted.",
+        "Practical skin and coat inspection guidance after forest tracking work.",
     },
     suitability: {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-alpine-dachsbracke-standard",
-          role: "cited",
-          locator: "Working purpose, temperament, and scent-tracking role",
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Erscheinungsbild and Rassen im Vergleich: placement with hunters, friendly with children indoors, requires daily Reviergang",
+        },
+        {
+          id: "royal-canin-alpine-dachsbracke",
+          role: "verified",
+          locator: "Key facts: Patient with children and other animals; Needs a lot of exercise",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-26",
       note:
-        "Suitability guidance is an editorial assessment of the likely needs of a working scent hound, not a guarantee about every dog or household.",
-    },
-    "suitability.firstTimeOwners": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "The consulted sources do not establish a universal first-time-owner suitability value.",
-    },
-    "suitability.familiesWithChildren": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Family suitability depends on the individual dog's behaviour, children's ages, supervision, training, and household circumstances.",
+        "Klub Dachsbracke and Royal Canin verify high exercise needs, child-friendly household demeanor, and primary suitability for active hunting/tracking homes.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Suitability depends on an owner's circumstances and the individual dog's behaviour; a universal value is not assigned.",
-    },
-    "suitability.apartmentLiving": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "A categorical apartment-living suitability value is not established by the consulted sources.",
+        "Suitability for senior owners depends on active mountain/forest hunting lifestyle rather than age alone.",
     },
     funFacts: {
-      reliability: "official_standard",
+      reliability: "reliable_source",
       sources: [
         {
           id: "fci-alpine-dachsbracke-standard",
           role: "verified",
-          locator: "Historical summary, utilization, coat, and colour",
+          locator: "Brief Historical Summary (Crown Prince Rudolf 1881/1885; 1932 recognition) and Colour (Vieräugl)",
+        },
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Recognition alongside Hanoverian and Bavarian Mountain Scenthounds; hunter-only placement policy",
+        },
+        {
+          id: "pubmed-karpiuk-2021-boarhound-hunt-trials",
+          role: "verified",
+          locator: "Results: Alpine Dachsbracke best-performing breed among 1,867 dogs of 39 breeds in boarhound trials",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-10-26",
       note:
-        "The historical and standard details are paraphrased in original wording.",
+        "All fun facts are verified from FCI Standard No. 254, Klub Dachsbracke, and Karpiuk et al. 2021 (PMID 34199674).",
     },
     faq: {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "fci-alpine-dachsbracke-standard",
-          role: "cited",
-          locator: "Origin, size, coat, temperament, and utilization",
+          role: "verified",
+          locator: "Origin, Size (34–42 cm, ideals 37–38 cm / 36–37 cm), and Colour",
+        },
+        {
+          id: "klub-dachsbracke-breed-profile",
+          role: "verified",
+          locator: "Working requirements and household temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "Weight (15–18 kg) and lifespan (12–14 years)",
+        },
+        {
+          id: "pubmed-hirz-2017-cln8-ncl-alpine-dachsbracke",
+          role: "verified",
+          locator: "CLN8 whole-gene deletion causing NCL8",
+        },
+        {
+          id: "pubmed-letko-2019-scn8a-ataxia-alpine-dachsbracke",
+          role: "verified",
+          locator: "SCN8A missense mutation causing spinocerebellar ataxia",
         },
       ],
-      verifiedOn: null,
+      verifiedOn: "2026-10-26",
       note:
-        "FAQ responses combine standard-based facts with qualified general care advice.",
+        "FAQ answers synthesize verified facts from FCI Standard No. 254, Klub Dachsbracke, The Dog API, and PubMed genetic studies.",
     },
   },
-  updatedOn: "2026-10-21",
+  updatedOn: "2026-10-26",
 };
