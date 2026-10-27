@@ -1713,9 +1713,10 @@
       "publisher": "American Veterinary Medical Association",
       "url": "https://www.avma.org/resources-tools/pet-owners/petcare/pet-dental-care",
       "type": "veterinary",
+      "commercialUse": "reference_only",
       "publishedOn": null,
       "accessedOn": "2026-10-26",
-      "note": "Veterinary preventive dental hygiene and routine oral health guidance for companion dogs."
+      "note": "General preventive oral health and tooth-brushing guidance for dogs."
     },
     "wikimedia-bucovina-shepherd-canarian-2019": {
       "id": "wikimedia-bucovina-shepherd-canarian-2019",
@@ -1978,9 +1979,10 @@
       "publisher": "World Small Animal Veterinary Association",
       "url": "https://wsava.org/global-guidelines/global-nutrition-guidelines/",
       "type": "veterinary",
+      "commercialUse": "reference_only",
       "publishedOn": null,
       "accessedOn": "2026-10-26",
-      "note": "Veterinary clinical nutrition guidelines for life-stage diet selection, portion control, body condition scoring, and hydration."
+      "note": "General veterinary nutritional assessment and individualized feeding guidelines for companion dogs."
     },
     "fci-old-danish-pointing-dog-standard": {
       "id": "fci-old-danish-pointing-dog-standard",
@@ -4249,25 +4251,25 @@
     },
     "fci-japanese-chin-standard": {
       "id": "fci-japanese-chin-standard",
-      "name": "FCI — Japanese Chin Official Breed Standard No. 206",
+      "name": "FCI — Japanese Chin (Chin) Official Breed Standard No. 206",
       "publisher": "Fédération Cynologique Internationale",
       "url": "https://www.fci.be/Nomenclature/Standards/206g09-en.pdf",
       "type": "official_breed_standard",
       "commercialUse": "reference_only",
       "publishedOn": "2016-04-04",
-      "accessedOn": "2026-10-21",
-      "note": "Official valid standard published 4 April 2016."
+      "accessedOn": "2026-10-26",
+      "note": "Official FCI Standard No. 206 (Chin / Japanese Chin), approved 4 April 2016 (English translation published 3 June 2016)."
     },
     "japanese-chin-club-of-america-akc-standard": {
       "id": "japanese-chin-club-of-america-akc-standard",
-      "name": "Japanese Chin Club of America — AKC Breed Standard",
-      "publisher": "Japanese Chin Club of America",
+      "name": "Japanese Chin Club of America — Official AKC Breed Standard of the Japanese Chin",
+      "publisher": "Japanese Chin Club of America / American Kennel Club",
       "url": "https://japanesechinclubofamerica.org/akc-breed-standard/",
       "type": "official_breed_standard",
       "commercialUse": "reference_only",
       "publishedOn": "2011-11-30",
-      "accessedOn": "2026-10-21",
-      "note": "Standard approved 11 October 2011 and effective 30 November 2011."
+      "accessedOn": "2026-10-26",
+      "note": "Official AKC standard of the Japanese Chin, approved 11 October 2011 and effective 30 November 2011."
     },
     "american-kennel-club-japanese-chin": {
       "id": "american-kennel-club-japanese-chin",
@@ -4277,8 +4279,8 @@
       "type": "kennel_club",
       "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Breed profile and health information."
+      "accessedOn": "2026-10-26",
+      "note": "Breed profile covering height (8–11 inches), weight (7–11 pounds), life expectancy (10–12 years), drooling level (1/5), 1888 recognition as Japanese Spaniel and 1977 renaming to Japanese Chin, and recommended health evaluations."
     },
     "japanese-chin-club-of-america-faq": {
       "id": "japanese-chin-club-of-america-faq",
@@ -4288,30 +4290,30 @@
       "type": "breed_club",
       "commercialUse": "reference_only",
       "publishedOn": "2023-05-02",
-      "accessedOn": "2026-10-21",
-      "note": "Breed traits, grooming, lifespan, and heat-care guidance."
+      "accessedOn": "2026-10-26",
+      "note": "Parent-club FAQ covering size, coat maturation ('teen' coat drop at 5–12 months), grooming, shedding, lifespan (10–12 years, sometimes 15+), reverse sneezing ('snizzling'), heat sensitivity, and harness use."
     },
     "japanese-chin-club-of-america-health-testing": {
       "id": "japanese-chin-club-of-america-health-testing",
-      "name": "Japanese Chin Club of America — Health Testing Recommendations",
+      "name": "Japanese Chin Club of America — JCCA Health Testing Recommendations",
       "publisher": "Japanese Chin Club of America",
       "url": "https://japanesechinclubofamerica.org/jcca-health-testing-recommendations/",
       "type": "breed_club",
       "commercialUse": "reference_only",
       "publishedOn": "2023-06-24",
-      "accessedOn": "2026-10-21",
-      "note": "Breed-club recommendations covering eyes, patellas, heart, and GM2 gangliosidosis."
+      "accessedOn": "2026-10-26",
+      "note": "Parent-club health screening recommendations covering board-certified ophthalmologist eye exams (distichiasis, KCS, corneal endothelial degeneration, cataracts), patellar luxation grading, cardiac auscultation/cardiologist follow-up, and GM2 gangliosidosis DNA testing."
     },
     "royal-kennel-club-japanese-chin-health-standard": {
       "id": "royal-kennel-club-japanese-chin-health-standard",
-      "name": "The Royal Kennel Club — Japanese Chin Health Standard",
+      "name": "The Royal Kennel Club — Japanese Chin Breed Profile & Health Standard",
       "publisher": "The Royal Kennel Club",
       "url": "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/toy/japanese-chin/",
       "type": "kennel_club",
       "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Health testing guidance, including eye testing and BOAS respiratory assessment."
+      "accessedOn": "2026-10-26",
+      "note": "Breed profile and health standard guidance covering up to 30 minutes of daily exercise, eye testing, and Respiratory Function Grading Scheme (RFGS) assessment for brachycephalic obstructive airway syndrome."
     },
     "wikimedia-japanese-chin-dog-pointer8": {
       "id": "wikimedia-japanese-chin-dog-pointer8",
@@ -4320,8 +4322,8 @@
       "url": "https://commons.wikimedia.org/wiki/File:Japanese_Chin_dog.jpg",
       "type": "other",
       "commercialUse": "commercial_use",
-      "publishedOn": null,
-      "accessedOn": "2026-10-21",
+      "publishedOn": "2009-04-24",
+      "accessedOn": "2026-10-26",
       "note": "Creator: Pointer8. CC BY-SA 3.0; commercial reuse requires attribution and compliance with share-alike terms."
     },
     "wikimedia-japanese-chin-tom-mooring": {
@@ -4331,9 +4333,9 @@
       "url": "https://commons.wikimedia.org/wiki/File:Japanese_Chin.jpg",
       "type": "other",
       "commercialUse": "commercial_use",
-      "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Photographer: Tom Mooring. CC BY-SA 2.0; commercial reuse requires attribution and compliance with share-alike terms."
+      "publishedOn": "2012-09-14",
+      "accessedOn": "2026-10-26",
+      "note": "Photographer: Tom Mooring (captured 1 September 2012 at Peckham Rye Fete Dog Show). CC BY-SA 2.0; commercial reuse requires attribution and compliance with share-alike terms."
     },
     "wikimedia-japan-chin-arek-malyska": {
       "id": "wikimedia-japan-chin-arek-malyska",
@@ -4342,9 +4344,9 @@
       "url": "https://commons.wikimedia.org/wiki/File:Japan_chin.jpg",
       "type": "other",
       "commercialUse": "commercial_use",
-      "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Creator: Arek Małyska. CC BY-SA 4.0; commercial reuse requires attribution and compliance with share-alike terms."
+      "publishedOn": "2023-08-13",
+      "accessedOn": "2026-10-26",
+      "note": "Creator: Arek Małyska (captured and uploaded 13 August 2023). CC BY-SA 4.0; commercial reuse requires attribution and compliance with share-alike terms."
     },
     "fci-petit-brabancon-standard": {
       "id": "fci-petit-brabancon-standard",
@@ -7109,13 +7111,13 @@
     "the-dog-api": {
       "id": "the-dog-api",
       "name": "The Dog API",
-      "publisher": "That API Company",
+      "publisher": "The Dog API (That API Company)",
       "url": "https://thedogapi.com/",
       "type": "other",
       "commercialUse": "reference_only",
       "publishedOn": null,
       "accessedOn": "2026-10-26",
-      "note": "Structured breed reference dataset consulted to verify baseline height, weight, coat colour list, and temperament tags."
+      "note": "Structured breed reference dataset used to cross-check baseline physical, historical, and temperament fields."
     },
     "fci-pyrenean-mastiff-standard": {
       "id": "fci-pyrenean-mastiff-standard",
@@ -9243,13 +9245,14 @@
     },
     "akc-dna-testing-recommendations": {
       "id": "akc-dna-testing-recommendations",
-      "name": "AKC DNA Testing Recommendations by Breed — Collie",
+      "name": "American Kennel Club — Breed Health Testing Requirements & DNA Testing Recommendations",
       "publisher": "American Kennel Club",
-      "url": "https://www.akc.org/breeder-programs/dna/dna-resource-center/akc-dna-testing-recommendations/dna-testing-recommendations-by-breed/",
+      "url": "https://www.akc.org/breeder-programs/dna/dna-resource-center/breed-health-testing-requirements/",
       "type": "kennel_club",
+      "commercialUse": "reference_only",
       "publishedOn": null,
       "accessedOn": "2026-10-26",
-      "note": "Official AKC DNA Resource Center chart listing Collie Eye Anomaly (CEA/CH), Dermatomyositis (DMS), Multidrug Resistance 1 (MDR1), and Progressive Retinal Atrophy Rod-Cone Dysplasia 2 (PRA-rcd2) as Recommended/Required tests for the Collie, alongside Cyclic Neutropenia, Degenerative Myelopathy (DM), Hyperuricosuria (HUU), and Recurrent Inflammatory Pulmonary Disease under Other DNA Tests Identified in Breed."
+      "note": "Lists GM2 Gangliosidosis (Japanese Chin Type) DNA testing as recommended/required for the Japanese Chin."
     },
     "licg-drentsche-patrijshond": {
       "id": "licg-drentsche-patrijshond",
@@ -10186,6 +10189,89 @@
       "publishedOn": null,
       "accessedOn": "2026-10-26",
       "note": "Original file page names JR Strecker (Jrs0301), gives the photo date as 31 January 2011, records 2560 × 1920 pixels, and offers the image under CC BY-SA 3.0."
+    },
+    "united-kennel-club-cairn-terrier-standard": {
+      "id": "united-kennel-club-cairn-terrier-standard",
+      "name": "United Kennel Club - Cairn Terrier Breed Standard",
+      "publisher": "United Kennel Club",
+      "url": "https://www.ukcdogs.com/cairn-terrier",
+      "type": "official_breed_standard",
+      "publishedOn": "2007-04-15",
+      "accessedOn": "2026-10-26",
+      "note": "Official breed standard revised April 15, 2007; history, appearance, coat, colour, height, and weight."
+    },
+    "american-kennel-club-cairn-terrier": {
+      "id": "american-kennel-club-cairn-terrier",
+      "name": "American Kennel Club - Cairn Terrier",
+      "publisher": "American Kennel Club",
+      "url": "https://www.akc.org/dog-breeds/cairn-terrier/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Breed profile covering life expectancy, size, history, temperament, exercise, training, and nutrition."
+    },
+    "royal-kennel-club-cairn-terrier-standard": {
+      "id": "royal-kennel-club-cairn-terrier-standard",
+      "name": "Royal Kennel Club - Cairn Terrier Breed Standard",
+      "publisher": "Royal Kennel Club",
+      "url": "https://www.royalkennelclub.com/breed-standards/terrier/cairn-terrier/",
+      "type": "official_breed_standard",
+      "publishedOn": "2025-01-01",
+      "accessedOn": "2026-10-26",
+      "note": "Breed standard last updated January 1, 2025; coat, colour, size, and breed characteristics."
+    },
+    "cairn-terrier-club-of-america-health-guidelines": {
+      "id": "cairn-terrier-club-of-america-health-guidelines",
+      "name": "Cairn Terrier Club of America - Suggested Minimal Health Testing Guidelines",
+      "publisher": "Cairn Terrier Club of America",
+      "url": "https://cdn.akc.org/Marketplace/Health-Statement/Cairn-Terrier.pdf",
+      "type": "breed_club",
+      "publishedOn": "2016-04-27",
+      "accessedOn": "2026-10-26",
+      "note": "Breed-club health-testing guidelines approved April 27, 2016; includes GCL, liver vascular conditions, kidney ultrasound, ocular melanosis, cardiac examination, and patella screening."
+    },
+    "commons-cairn-terrier-rockytopscott": {
+      "id": "commons-cairn-terrier-rockytopscott",
+      "name": "Cairn terrier.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Cairn_terrier.jpg",
+      "type": "other",
+      "publishedOn": null,
+      "accessedOn": "2026-10-26",
+      "note": "Original file page credits Rockytopscott and states CC BY 3.0. Original dimensions are 1944 × 2592 pixels. The page's file history records November 7, 2008."
+    },
+    "fci-japanese-chin-nomenclature": {
+      "id": "fci-japanese-chin-nomenclature",
+      "name": "FCI Breeds Nomenclature — CHIN (206)",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/en/nomenclature/CHIN-206.html",
+      "type": "kennel_club",
+      "commercialUse": "reference_only",
+      "publishedOn": "2016-04-04",
+      "accessedOn": "2026-10-26",
+      "note": "FCI nomenclature entry for Chin (No. 206; official valid standard dated 4 April 2016, definitive FCI acceptance 2 December 1957); lists Group 9, Section 8 (Japan Chin and Pekingese), without working trial, and multilingual breed names."
+    },
+    "royal-kennel-club-japanese-chin-standard": {
+      "id": "royal-kennel-club-japanese-chin-standard",
+      "name": "The Royal Kennel Club — Japanese Chin Breed Standard",
+      "publisher": "The Royal Kennel Club",
+      "url": "https://www.royalkennelclub.com/breed-standards/toy/japanese-chin/",
+      "type": "official_breed_standard",
+      "commercialUse": "reference_only",
+      "publishedOn": "2025-04-01",
+      "accessedOn": "2026-10-26",
+      "note": "Official UK Toy Group breed standard for the Japanese Chin (updated April 2025), specifying ideal weight 1.8–3.2 kgs (4–7 lbs), square cobby build, characteristic 'look of astonishment', hare feet, and black-and-white or red-and-white colouration."
+    },
+    "pubmed-japanese-chin-gm2-hexa-23266199": {
+      "id": "pubmed-japanese-chin-gm2-hexa-23266199",
+      "name": "PubMed (PMID 23266199) — GM2 gangliosidosis associated with a HEXA missense mutation in Japanese Chin dogs: a potential model for Tay Sachs disease",
+      "publisher": "Molecular Genetics and Metabolism / National Library of Medicine (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23266199/",
+      "type": "scientific",
+      "commercialUse": "reference_only",
+      "publishedOn": "2012-11-27",
+      "accessedOn": "2026-10-26",
+      "note": "Peer-reviewed study by Sanders et al. (2013; Epub 2012 Nov 27) identifying the homozygous autosomal recessive HEXA:c.967G>A (p.Glu323Lys / p.E323K) missense mutation responsible for GM2 gangliosidosis in Japanese Chin dogs."
     }
   },
   "licenses": {
@@ -32788,6 +32874,736 @@
         }
       },
       "updatedOn": "2026-10-22"
+    },
+    {
+      "slug": "cairn-terrier",
+      "name": "Cairn Terrier",
+      "scientificName": "Canis lupus familiaris",
+      "alternateNames": [
+        "Cairn"
+      ],
+      "group": "Terrier Group",
+      "origin": {
+        "country": "Scotland",
+        "region": "Western Highlands and the Isle of Skye"
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Cairn_terrier.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairn_terrier.jpg",
+          "title": "Cairn terrier.jpg",
+          "description": "Photograph identified on the file page as a Cairn Terrier.",
+          "creator": "Rockytopscott",
+          "uploader": "Rockytopscott",
+          "capturedOn": null,
+          "uploadedOn": "2008-11-07",
+          "width": 1944,
+          "height": 2592,
+          "licenseId": "cc-by-3.0",
+          "attribution": "Photo by Rockytopscott, via Wikimedia Commons, licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Changes, if any, must be indicated.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-26"
+        }
+      ],
+      "overview": {
+        "summary": "The Cairn Terrier is a small, sturdy Scottish working terrier known for its weather-resistant double coat, alert expression, curiosity, and confident personality. Originally developed to pursue small quarry among rocky ground, it remains an energetic companion that benefits from daily activity, engaging training, and secure opportunities to explore.",
+        "description": "Compact but not delicate, the Cairn Terrier has a strong body, short legs, erect pointed ears, dark expressive eyes, and a shaggy outer coat over a soft undercoat. Its natural appearance and practical coat reflect its working origins. Cairns are often lively, independent-minded, and interested in movement and scents around them. They can be affectionate household companions, but their hunting heritage may show up as digging, chasing small animals, or barking at activity. Consistent, reward-based training and sensible supervision help channel these instincts.",
+        "history": "The Cairn Terrier developed in Scotland, particularly in the Western Highlands and around the Isle of Skye. Small working terriers were used to locate and pursue foxes, otters, and other quarry among rocky piles and rough terrain. The name refers to the stone heaps that provided cover for small animals. Cairns share historical ancestry with other Scottish terrier breeds, including the West Highland White Terrier and the Scottish Terrier. The breed later became established in dog shows and companion homes while retaining the robust, active character associated with its working past.",
+        "originalPurpose": "Hunting and flushing small quarry and vermin from rocky ground and stone piles in Scotland.",
+        "currentRoles": [
+          "Companion dog",
+          "Family household dog",
+          "Participant in obedience and agility activities",
+          "Scent-work and earthdog activity partner",
+          "Small working terrier where suitable opportunities and humane handling are available"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Small",
+        "height": {
+          "unit": "in",
+          "male": {
+            "min": 11,
+            "max": 12
+          },
+          "female": {
+            "min": 11,
+            "max": 12
+          }
+        },
+        "weight": {
+          "unit": "lb",
+          "male": {
+            "min": 14,
+            "max": 16
+          },
+          "female": {
+            "min": 14,
+            "max": 16
+          }
+        },
+        "lifespanYears": {
+          "min": 13,
+          "max": 15
+        },
+        "coatType": "Double coat with a harsh, weather-resistant outer coat and a short, soft, close undercoat.",
+        "coatLength": "Shaggy, medium-length outer coat that protects the body from weather; the coat should remain practical and natural rather than soft, silky, or heavily sculpted.",
+        "coatColors": [
+          "Cream",
+          "Wheaten",
+          "Red",
+          "Grey",
+          "Nearly black",
+          "Brindle variations of the accepted colours"
+        ],
+        "sheddingLevel": "Sheds. Regular brushing helps remove loose hair; shedding varies with the individual and coat cycle.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Small, strongly built body with short legs and a workmanlike outline.",
+          "Broad head with a short, powerful muzzle and a somewhat foxy expression.",
+          "Small, pointed, erect ears.",
+          "Medium-sized, widely set, dark hazel eyes with shaggy eyebrows.",
+          "Double coat with a harsh, weather-resistant outer layer and a soft undercoat.",
+          "Short tail carried upright or gaily without curling over the back.",
+          "Strong feet and muscular hindquarters suited to moving over rough terrain.",
+          "Coat colours commonly include cream, wheaten, red, grey, and nearly black, with brindling permitted by the cited UK standard."
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Alert and observant",
+          "Active and playful",
+          "Confident and often fearless",
+          "Curious and exploratory",
+          "Independent-minded",
+          "Intelligent and capable of learning",
+          "Can be persistent when following a scent",
+          "May dig or chase small animals",
+          "May bark to alert its household",
+          "Often affectionate with familiar people"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": 3,
+          "withDogs": 3,
+          "withStrangers": 3,
+          "protectiveness": 3,
+          "independence": 4,
+          "trainability": 3,
+          "barking": 4,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate to high for a small breed. Daily walks, active play, and mental enrichment are important; exercise needs vary by age, health, and individual temperament.",
+          "minutesPerDay": null,
+          "activities": [
+            "Daily walks using a secure lead or harness",
+            "Supervised exploration in a securely fenced area",
+            "Scent games and food-search activities",
+            "Reward-based obedience training",
+            "Agility or other suitable low-impact dog sports",
+            "Earthdog activities where available and safely managed",
+            "Interactive play that channels chasing and hunting instincts appropriately"
+          ]
+        },
+        "grooming": {
+          "level": "Moderate. Regular brushing is needed, and maintaining the traditional harsh coat may require hand-stripping by a knowledgeable groomer.",
+          "brushing": "Brush and comb regularly to remove loose hair and prevent tangles, especially around the furnishings and areas where debris collects. Check the coat and skin after outdoor adventures.",
+          "bathing": "Bathe when genuinely needed, using a dog-appropriate shampoo and drying the coat thoroughly. Frequent unnecessary bathing can affect the texture and condition of a harsh double coat.",
+          "notes": [
+            "Ask a groomer familiar with wire-coated terriers about hand-stripping if maintaining the traditional coat texture is a priority.",
+            "Clipping can change the texture and appearance of the outer coat; discuss grooming goals with an experienced groomer.",
+            "Check the ears, eyes, paws, nails, and skin regularly.",
+            "Remove burrs, seeds, and other debris caught in the coat after outdoor activity.",
+            "Brush the teeth regularly with dog-specific toothpaste.",
+            "Adjust grooming frequency to coat condition and the dog's lifestyle."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate. Cairn Terriers are intelligent, but their independent working instincts can make them selective about repetitive exercises. Short, varied, reward-based sessions are generally more productive than harsh corrections.",
+          "tips": [
+            "Begin training and household routines early, using rewards and clear, consistent cues.",
+            "Practise recall in secure areas before considering any off-leash activity.",
+            "Use lead management where wildlife or unfamiliar small animals may trigger chasing.",
+            "Provide legal, safe outlets for sniffing, searching, and problem-solving.",
+            "Teach calm greetings and reinforce quiet behaviour where barking is a concern.",
+            "Use appropriate barriers and supervision around small pets.",
+            "Keep sessions brief and engaging, and gradually increase distractions."
+          ],
+          "socialization": "Introduce the puppy gradually and positively to different people, environments, everyday sounds, handling, and suitable dogs. Keep encounters controlled and pleasant. Continue social learning into adulthood, and do not assume that every Cairn will be comfortable with unfamiliar dogs or small animals."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": true,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Cool and temperate climates",
+            "Cold weather with suitable shelter and monitoring",
+            "Warmer climates when shade, fresh water, ventilation, and cooler exercise times are provided"
+          ],
+          "aloneTimeTolerance": "Individual tolerance varies. Build alone time gradually and provide activity and enrichment before departures. Long, routine periods without companionship or stimulation may contribute to boredom, barking, or destructive behaviour."
+        }
+      },
+      "nutrition": {
+        "dietType": "Complete and balanced dog food appropriate for the dog's life stage, body condition, activity level, and veterinary needs.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": null,
+          "senior": null
+        },
+        "guidelines": "Use the food manufacturer's feeding guide as a starting point, then adjust portions to maintain a healthy body condition. Fresh water should always be available. A veterinarian can help tailor the diet to the dog's age, activity, dental health, and medical history.",
+        "considerations": [
+          "Monitor body condition and avoid excess treats, which can contribute to weight gain in a small dog.",
+          "Choose food appropriate for the dog's life stage and health status.",
+          "Use measured portions rather than estimating by eye.",
+          "Introduce diet changes gradually unless a veterinarian advises otherwise.",
+          "Include training treats in the daily calorie allowance.",
+          "Seek veterinary advice for persistent digestive problems, appetite changes, or unexplained weight change."
+        ],
+        "note": "The consulted breed sources do not establish one feeding schedule or portion size suitable for every Cairn Terrier. Individual requirements depend on age, body condition, activity, food energy density, and health."
+      },
+      "health": {
+        "overview": "Cairn Terriers are often described as hardy and long-lived, but inherited and developmental health conditions can occur. Breed-club health guidance identifies several areas for screening, including globoid cell leukodystrophy, liver vascular abnormalities, kidney abnormalities, ocular melanosis, cardiac health, and patellar luxation. These are screening priorities rather than a claim that an individual dog has, or will develop, any of these conditions. Discuss family history and suitable testing with a veterinarian and responsible breeder.",
+        "commonConditions": [
+          "Globoid cell leukodystrophy (GCL), an inherited neurological disorder for which breed-club guidance recommends DNA testing of breeding dogs that have not already been cleared by test or parentage.",
+          "Portosystemic vascular anomaly (PSVA) and microvascular dysplasia (MVD), liver-related vascular conditions for which the breed-club guidance describes testing.",
+          "Renal aplasia or renal dysplasia, developmental kidney abnormalities addressed in the breed-club screening recommendations.",
+          "Ocular melanosis (OM), an eye condition for which breed-club guidance recommends regular eye examination in adult Cairns.",
+          "Cardiac abnormalities, which the breed-club guidance includes in its recommended adult health evaluation.",
+          "Patellar luxation, a kneecap condition included in the breed-club's pre-breeding examination recommendations."
+        ],
+        "preventiveCare": [
+          "Ask the breeder for relevant parental health screening records and family history.",
+          "Discuss breed-relevant screening with a veterinarian rather than assuming every dog requires an identical test panel.",
+          "Arrange routine veterinary examinations and follow the veterinarian's vaccination and parasite-prevention recommendations.",
+          "Maintain a healthy body condition and age-appropriate exercise.",
+          "Arrange prompt veterinary assessment for persistent changes in gait, vision, energy, appetite, or behaviour.",
+          "Keep routine dental care, nail trimming, ear checks, and skin checks part of regular care."
+        ],
+        "recommendedScreenings": [
+          "Globoid cell leukodystrophy (GCL) DNA testing for breeding dogs not already cleared by testing or parentage.",
+          "Veterinary assessment for portosystemic vascular anomaly (PSVA) and microvascular dysplasia (MVD) according to breed-club guidance.",
+          "Kidney ultrasound screening for renal aplasia or dysplasia according to breed-club guidance.",
+          "Ophthalmic examination for ocular melanosis, with the breed-club guidance recommending annual examinations from 3 years of age.",
+          "Cardiac examination by a veterinarian.",
+          "Patellar examination before breeding."
+        ],
+        "dentalCare": "Brush the teeth regularly with dog-specific toothpaste and arrange veterinary dental checks. Ask a veterinarian to assess persistent bad breath, gum redness, oral discomfort, or difficulty chewing.",
+        "earCare": "Check the ears regularly for redness, odour, discharge, or repeated scratching. Clean only when needed and use products and techniques recommended by a veterinarian.",
+        "skinCare": "Inspect the coat and skin during brushing, especially after outdoor activity. Watch for persistent itching, redness, scaling, sores, or hair loss, and seek veterinary advice if these occur."
+      },
+      "suitability": {
+        "firstTimeOwners": true,
+        "familiesWithChildren": true,
+        "seniorOwners": null,
+        "activeOwners": true,
+        "apartmentLiving": true,
+        "idealFor": [
+          "Households that enjoy daily walks, play, and training games",
+          "Owners who appreciate a lively, curious dog with an independent streak",
+          "People willing to manage digging, barking, and chasing instincts",
+          "Families prepared to supervise children and teach respectful dog handling",
+          "Owners who can provide secure outdoor activity and regular companionship",
+          "People willing to maintain a double coat and arrange suitable grooming"
+        ],
+        "notIdealFor": [
+          "Households that expect a reliably quiet dog without training",
+          "Owners who need dependable off-leash recall around wildlife without gradual training",
+          "Homes where small pets cannot be safely separated or supervised",
+          "People unable to provide daily activity and mental enrichment",
+          "Owners unwilling to manage a terrier's digging or prey-drive behaviours"
+        ]
+      },
+      "funFacts": [
+        "The breed's name comes from stone piles called cairns, where small quarry could hide.",
+        "Cairn Terriers were developed as working dogs in Scotland rather than solely as lapdogs.",
+        "The breed shares historical ancestry with several other Scottish terriers.",
+        "Cairn Terriers have a weather-resistant double coat with a harsh outer layer and a soft undercoat.",
+        "A Cairn Terrier named Terry played Toto in the 1939 film The Wizard of Oz."
+      ],
+      "faq": [
+        {
+          "question": "Where did the Cairn Terrier originate?",
+          "answer": "The Cairn Terrier developed in Scotland, particularly the Western Highlands and the Isle of Skye, where small working terriers were used to pursue quarry among rocky ground."
+        },
+        {
+          "question": "How tall is a Cairn Terrier?",
+          "answer": "The cited UKC standard gives a height of 11 to 12 inches. Other registries publish different ideal measurements, so a dog's standard may depend on the registry being used."
+        },
+        {
+          "question": "How much does a Cairn Terrier weigh?",
+          "answer": "The cited UKC standard gives a weight of 14 to 16 pounds. The ideal weight should also be considered in proportion to the dog's build and condition."
+        },
+        {
+          "question": "How long does a Cairn Terrier live?",
+          "answer": "The AKC breed profile lists a life expectancy of 13–15 years. Individual lifespan varies with genetics, health, and care."
+        },
+        {
+          "question": "Does a Cairn Terrier need a lot of exercise?",
+          "answer": "Cairn Terriers are active working terriers and benefit from daily walks, play, and mental enrichment. Their needs vary by age, health, and individual temperament."
+        },
+        {
+          "question": "Is a Cairn Terrier easy to train?",
+          "answer": "Cairns can learn quickly, but they may also be independent and strongly interested in scents or moving animals. Short, varied reward-based sessions and secure recall practice are useful."
+        },
+        {
+          "question": "Does a Cairn Terrier shed?",
+          "answer": "Yes. Regular brushing helps remove loose hair and keep the coat in good condition. Owners who want to maintain the traditional harsh coat may wish to consult a groomer experienced with hand-stripping."
+        },
+        {
+          "question": "What health screenings should I ask a breeder about?",
+          "answer": "Breed-club guidance includes screening for globoid cell leukodystrophy, liver vascular abnormalities, kidney abnormalities, ocular melanosis, cardiac health, and patellar luxation. Ask the breeder for documented results and discuss individual needs with a veterinarian."
+        },
+        {
+          "question": "Can a Cairn Terrier live in an apartment?",
+          "answer": "Apartment living can work if the dog receives daily exercise, training, and enrichment. Barking, digging instincts, and access to safe outdoor activity should be considered when planning the home environment."
+        }
+      ],
+      "references": [
+        "united-kennel-club-cairn-terrier-standard",
+        "american-kennel-club-cairn-terrier",
+        "royal-kennel-club-cairn-terrier-standard",
+        "cairn-terrier-club-of-america-health-guidelines",
+        "commons-cairn-terrier-rockytopscott"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The catalogue uses the conventional domestic-dog scientific designation; it is not a breed-specific taxonomic distinction."
+        },
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "Breed heading and history"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The registered breed name is Cairn Terrier; Cairn is used as a shortened common name."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "Standard heading: Terrier Group"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Group classification follows the cited registry."
+        },
+        "origin": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "History"
+            },
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "cited",
+              "locator": "Breed history"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Historical origin is described at the country and regional level without asserting a single place of creation."
+        },
+        "overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "History, general appearance, characteristics, and coat"
+            },
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "cited",
+              "locator": "About the Breed; exercise, training, and nutrition"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Original prose summarises breed history, working role, and general care considerations."
+        },
+        "physical.sizeCategory": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "verified",
+              "locator": "Breed profile: size"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Small is the catalogue's size category."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "Height & Weight: 11 to 12 inches"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The source does not give sex-specific height ranges; the published standard range is used for both sex slots without conversion."
+        },
+        "physical.weight": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "Height & Weight: 14 to 16 pounds"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The source does not give sex-specific weight ranges; the published standard range is used for both sex slots without conversion."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "verified",
+              "locator": "Breed profile: life expectancy 13–15 years"
+            },
+            {
+              "id": "cairn-terrier-club-of-america-health-guidelines",
+              "role": "cited",
+              "locator": "Page 1: average lifespan 13–14 years"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "The displayed range follows the AKC profile. The breed-club health guidance gives a slightly narrower average, so lifespan should be understood as an estimate."
+        },
+        "physical.coatType": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "Coat"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Coat description is paraphrased from the standard."
+        },
+        "physical.coatLength": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "General appearance and coat"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Describes the functional, natural coat rather than a show-grooming style."
+        },
+        "physical.coatColors": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "Color"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Colour list follows the cited UKC standard; colour acceptance differs between registries."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "verified",
+              "locator": "Breed traits and care"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Qualitative shedding description; individual coat cycles vary."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable source consulted provided a sufficiently grounded breed-specific drooling rating."
+        },
+        "physical.distinctiveFeatures": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "General appearance, head, ears, body, coat, and tail"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Features are paraphrased from the official breed standard."
+        },
+        "temperament": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "Characteristics and history"
+            },
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "cited",
+              "locator": "Breed traits and training"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Traits describe common breed tendencies; individual temperament depends on genetics, socialization, and experience."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "cited",
+              "locator": "Breed traits and characteristics"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Scores are editorial estimates for app comparison, not scientific measurements or official registry ratings."
+        },
+        "care.exercise": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "cited",
+              "locator": "What to Expect When Caring for a Cairn Terrier: Exercise"
+            },
+            {
+              "id": "royal-kennel-club-cairn-terrier-standard",
+              "role": "cited",
+              "locator": "Breed A-Z: exercise and activity"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Care advice is general guidance and should be adapted to the dog's age and health."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No exact daily exercise-minute range is recorded because the consulted sources do not establish one universal number."
+        },
+        "care.grooming": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "royal-kennel-club-cairn-terrier-standard",
+              "role": "cited",
+              "locator": "Breed A-Z: grooming"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Grooming advice is general and depends on coat condition and whether the owner maintains a traditional hand-stripped coat."
+        },
+        "care.training": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "cited",
+              "locator": "What to Expect When Caring for a Cairn Terrier: Training"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Recommendations are general training and welfare guidance."
+        },
+        "care.livingEnvironment": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "cited",
+              "locator": "Exercise and general breed care"
+            },
+            {
+              "id": "royal-kennel-club-cairn-terrier-standard",
+              "role": "cited",
+              "locator": "Breed A-Z: home and garden suitability"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Housing suitability is conditional on exercise, enrichment, management, and the individual dog's behaviour."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "cited",
+              "locator": "What to Expect When Caring for a Cairn Terrier: Nutrition"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General feeding guidance, not an individual veterinary diet prescription."
+        },
+        "nutrition.feedingFrequency.puppy": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed puppy feeding frequency is prescribed; needs vary by age, food, and veterinary advice."
+        },
+        "nutrition.feedingFrequency.adult": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed adult feeding frequency is prescribed; individual requirements vary."
+        },
+        "nutrition.feedingFrequency.senior": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed senior feeding frequency is prescribed; individual requirements vary."
+        },
+        "health.overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "cairn-terrier-club-of-america-health-guidelines",
+              "role": "verified",
+              "locator": "Page 1: suggested minimal health testing guidelines"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Health overview reflects the breed-club's stated screening guidance and does not claim every dog will develop these conditions."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "cairn-terrier-club-of-america-health-guidelines",
+              "role": "verified",
+              "locator": "Page 1: GCL, PSVA/MVD, kidney ultrasound, ocular melanosis, cardiac exam, and patella exam"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "These are conditions or screening priorities named in breed-club guidance, not prevalence rankings."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "cairn-terrier-club-of-america-health-guidelines",
+              "role": "cited",
+              "locator": "Page 1: recommended testing and veterinary evaluation"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Preventive care should be tailored with a veterinarian."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "cairn-terrier-club-of-america-health-guidelines",
+              "role": "verified",
+              "locator": "Page 1: suggested minimal health testing guidelines"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Screenings are transcribed as recommendations from the cited breed-club guidance; confirm current advice with a veterinarian."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine dental-care guidance."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine ear-care guidance."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General coat and skin-care guidance."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "cited",
+              "locator": "Breed profile: exercise, training, and home life"
+            },
+            {
+              "id": "royal-kennel-club-cairn-terrier-standard",
+              "role": "cited",
+              "locator": "Breed A-Z: size of home and activity"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability is an editorial estimate; household compatibility depends on training, supervision, and the individual dog."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal senior-owner suitability value is assigned because mobility, activity level, and support vary between people."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "verified",
+              "locator": "History and Did You Know?"
+            },
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "cited",
+              "locator": "History"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Historical facts are paraphrased from the breed references."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "united-kennel-club-cairn-terrier-standard",
+              "role": "verified",
+              "locator": "Height & Weight, History, and Coat"
+            },
+            {
+              "id": "american-kennel-club-cairn-terrier",
+              "role": "verified",
+              "locator": "Life expectancy, exercise, training, and nutrition"
+            },
+            {
+              "id": "cairn-terrier-club-of-america-health-guidelines",
+              "role": "cited",
+              "locator": "Page 1: health-testing recommendations"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "FAQs summarise registry measurements and general care guidance; measurements may vary between registries."
+        }
+      },
+      "updatedOn": "2026-10-26"
     },
     {
       "slug": "canadian-eskimo-dog",
@@ -63160,9 +63976,12 @@
       "scientificName": null,
       "alternateNames": [
         "Chin",
-        "Japanese Spaniel"
+        "Japanese Spaniel",
+        "Épagneul Japonais",
+        "Japan-Chin",
+        "Spaniel Japonés"
       ],
-      "group": "FCI Group 9 — Companion and Toy Dogs; Section 8 — Japan Chin and Pekingese; no working trial",
+      "group": "Companion and Toy Dogs — Section 8: Japan Chin and Pekingese (without working trial)",
       "origin": {
         "country": "Japan",
         "region": null
@@ -63172,7 +63991,7 @@
           "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese_Chin_dog.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Chin_dog.jpg",
           "title": "Japanese Chin dog.jpg",
-          "description": "Young male Japanese Chin.",
+          "description": "Young black-and-white male Japanese Chin standing indoors.",
           "creator": "Pointer8",
           "uploader": "Pointer8",
           "capturedOn": null,
@@ -63182,13 +64001,13 @@
           "licenseId": "cc-by-sa-3.0",
           "attribution": "Photo by Pointer8, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Indicate any changes made; adaptations must comply with applicable share-alike terms.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-21"
+          "metadataCheckedOn": "2026-10-26"
         },
         {
           "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese_Chin.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Chin.jpg",
           "title": "Japanese Chin.jpg",
-          "description": "Japanese Chin at a dog show.",
+          "description": "Black-and-white Japanese Chin photographed outdoors at Peckham Rye Fete Dog Show.",
           "creator": "Tom Mooring",
           "uploader": "Ltshears",
           "capturedOn": "2012-09-01",
@@ -63198,34 +64017,34 @@
           "licenseId": "cc-by-sa-2.0",
           "attribution": "Photo by Tom Mooring, via Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate any changes made; adaptations must comply with applicable share-alike terms.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-21"
+          "metadataCheckedOn": "2026-10-26"
         },
         {
           "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Japan_chin.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Japan_chin.jpg",
           "title": "Japan chin.jpg",
-          "description": "Japanese Chin photographed by the original uploader.",
+          "description": "Adult black-and-white Japanese Chin standing on grass.",
           "creator": "Arek Małyska",
           "uploader": "Arek Małyska",
-          "capturedOn": null,
+          "capturedOn": "2023-08-13",
           "uploadedOn": "2023-08-13",
           "width": 2244,
           "height": 1402,
           "licenseId": "cc-by-sa-4.0",
           "attribution": "Photo by Arek Małyska, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate any changes made; adaptations must comply with applicable share-alike terms.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-21"
+          "metadataCheckedOn": "2026-10-26"
         }
       ],
       "overview": {
-        "summary": "The Japanese Chin is a small companion dog with a broad face, large expressive eyes, and a long, silky coat. Often graceful and quietly amusing, it tends to enjoy close company while also showing an independent, cat-like curiosity. Its short muzzle means owners should take particular care in hot or humid weather and watch for breathing or eye discomfort.",
-        "description": "Compact and balanced, the Japanese Chin has a broad rounded head, short muzzle, wide-set dark eyes, feathered hanging ears, and a plume-like tail carried over the back. The coat is long, straight, and silky, with especially noticeable feathering around the neck, ears, thighs, and tail. Chin are usually kept as close household companions rather than working dogs. Many are affectionate and playful, though individual dogs differ in confidence and sociability. Gentle handling, reward-based training, routine coat care, and attention to heat tolerance support their wellbeing.",
-        "history": "The breed's history is closely connected with East Asian court life. The FCI standard recounts historical accounts of dogs arriving at the Japanese court from the Korean peninsula and of further exchanges with China and Korea. In Japan, the Chin became an indoor companion associated with aristocratic households, later spreading to Europe and North America. The precise early ancestry is historical rather than fully documented by modern genetic evidence.",
-        "originalPurpose": "A small indoor companion dog, historically kept in Japanese court and aristocratic households.",
+        "summary": "Graceful, compact, and aristocratic in bearing, the Japanese Chin is a small toy companion distinguished by a broad flat face, wide-set dark eyes showing a faint crescent of white at the inner corners, and a flowing silky coat. Known for quiet indoor manners and agile, feline-like habits—such as perching on sofa backs and wiping its face with its paws—this sensitive companion thrives on close human company while requiring careful protection from heat and humidity.",
+        "description": "Built on a square, fine-boned frame whose body length matches its height at the withers, the Japanese Chin combines refinement with substance. Its large, broad skull rounds forward toward a deep stop and a very short, wide, cushioned muzzle where the forehead and muzzle meet on the same vertical plane in profile. Large, lustrous dark eyes set wide apart reveal a tiny rim of white sclera at the inner corners, creating the breed's signature look of mild astonishment. Small, V-shaped hanging ears framed in long feathering blend into the rounded outline of the head, while the high-set tail arches over the back in a rich plume curving to either side. An abundant, straight, single silky coat stands slightly off the neck, shoulders, and chest to form a full ruff and shapes thick breeches ('culottes') on the hindquarters, contrasting with short, smooth hair over the face and front of the forelegs. In the home, the Chin is affectionate, observant, and lively with trusted family members yet often dignified or reserved around unfamiliar guests.",
+        "history": "Rooted in the diplomatic gift exchanges of East Asian royal courts, early ancestors of the Japanese Chin arrived in Japan from the Korean peninsula and mainland China as treasured imperial tributes—including documented gifts presented to the Japanese court by rulers of Korea's Silla dynasty in 732 CE and subsequent exchanges with Tang-era China and Bohai (Po H'ai). Within Japan's aristocratic households under shogunate patronage, breeders isolated and refined these diminutive dogs into a distinct indoor lap companion prized for its serene temperament and ornate coat. Although English sea captain John Saris brought specimens to Britain as early as 1613, the breed gained wider Western recognition after United States Navy Commodore Matthew Calbraith Perry received several dogs during his 1853 expedition to open Japanese ports, presenting a pair to Queen Victoria. Celebrated across late-nineteenth-century Europe and North America—where it was long exhibited under the name Japanese Spaniel before adopting the name Japanese Chin in 1977—the breed survived post-World War II scarcity through dedicated preservation efforts in Japan and abroad.",
+        "originalPurpose": "Bred exclusively as a cherished royal and aristocratic indoor lap companion in Japanese noble households.",
         "currentRoles": [
-          "Companion dog",
-          "Lapdog and household companion",
-          "Participation in suitable low-impact canine activities"
+          "Indoor family and lap companion",
+          "Conformation show dog",
+          "Participant in low-impact companion events such as rally, trick training, and therapy visits"
         ]
       },
       "physical": {
@@ -63239,40 +64058,47 @@
           "female": null
         },
         "weight": {
-          "unit": null,
-          "male": null,
-          "female": null
+          "unit": "kg",
+          "male": {
+            "min": 1.8,
+            "max": 3.2
+          },
+          "female": {
+            "min": 1.8,
+            "max": 3.2
+          }
         },
         "lifespanYears": {
           "min": 10,
           "max": 12
         },
-        "coatType": "Single-looking, silky, straight, long outer coat; the breed standard describes profuse hair over the body apart from the face.",
-        "coatLength": "Long, with prominent feathering on the ears, neck, thighs, and tail.",
+        "coatType": "Abundant, straight, single, and silky coat with a resilient texture that stands slightly off the neck, shoulders, and chest to form a thick mane, while the face remains covered in short smooth hair.",
+        "coatLength": "Long across the body, neck ruff, ears, thigh culottes, and tail plume; short and smooth over the skull, cheeks, and muzzle.",
         "coatColors": [
           "White with black markings",
-          "White with red markings"
+          "White with red markings (spanning red, orange, lemon, and black-overlaid sable shades)",
+          "Black and white with tan points (tricolour)"
         ],
-        "sheddingLevel": "Moderate; loose hair is noticeable and brushing may need to increase during shedding periods.",
-        "droolingLevel": null,
+        "sheddingLevel": "Moderate; sheds noticeably throughout the year with heavier coat drops during seasonal changes, adolescent coat transition between five and twelve months of age, and post-estrus cycles in intact females.",
+        "droolingLevel": "Low",
         "distinctiveFeatures": [
-          "Broad, rounded head and very short, broad muzzle",
-          "Large, wide-set, dark eyes",
-          "Long feathered ears",
-          "Silky coat with a neck ruff and feathered thighs",
-          "Plumed tail carried over the back",
-          "Light, elegant movement"
+          "Characteristic 'look of astonishment' produced by a small crescent of white sclera visible at the inner corners of the large, wide-set dark eyes",
+          "Broad, rounded skull and very short, wide muzzle meeting on the same vertical plane in profile, with wide nostrils set level with the mid-eye line",
+          "Small, V-shaped hanging ears set wide apart and covered in long feathering that follows the rounded contour of the head",
+          "Square, fine-boned body with a thick neck ruff, heavily coated thigh culottes ('pants'), and a profusely plumed tail arched over the back",
+          "Elongated hare-shaped feet with mature toe feathering that forms a neat tuft",
+          "Light, stylish, straight-tracking gait with proud head carriage"
         ]
       },
       "temperament": {
         "traits": [
-          "Affectionate",
-          "Bright and observant",
-          "Gentle",
-          "Playful",
-          "Often quiet indoors",
-          "Curious and sometimes cat-like in movement",
-          "May be reserved when first meeting unfamiliar people"
+          "Affectionate and devoted with familiar people",
+          "Bright, observant, and inquisitive",
+          "Sensitive to household mood and tone of voice",
+          "Agile and feline-like in perching and self-grooming habits",
+          "Generally quiet and well-mannered indoors",
+          "Playful and quietly comical",
+          "Politely reserved with strangers or in unfamiliar settings"
         ],
         "scores": {
           "affection": 5,
@@ -63288,35 +64114,35 @@
       },
       "care": {
         "exercise": {
-          "level": "Low to moderate; regular gentle walks and short play sessions are generally more suitable than strenuous exercise, especially in warm weather.",
+          "level": "Low to moderate (up to 30 minutes per day); short, unhurried daily walks and indoor play satisfy physical needs without taxing the shortened upper airway.",
           "minutesPerDay": null,
           "activities": [
-            "Short, comfortable walks",
-            "Indoor play and simple games",
-            "Reward-based trick training",
-            "Gentle sniffing and exploration in safe conditions"
+            "Gentle neighbourhood walks on a body harness during cool hours",
+            "Interactive indoor games and soft-toy retrieval",
+            "Reward-based trick and rally exercises",
+            "Supervised exploration and scent games in a securely fenced garden"
           ]
         },
         "grooming": {
           "level": "Moderate",
-          "brushing": "Brush and comb several times a week, paying attention to the ears, feathering, and areas where friction can form tangles; increase frequency when shedding.",
-          "bathing": "Bathe when needed with a dog-appropriate shampoo, dry thoroughly, and avoid overheating during drying.",
+          "brushing": "Brush and comb once or twice a week—and more frequently during seasonal shedding—working gently through the ear fringes, neck ruff, tail plume, and rear culottes; because the coat is single-layered and silky, it resists heavy matting when conditioned regularly.",
+          "bathing": "Bathe as needed using a mild canine shampoo followed by a conditioning creme rinse to prevent static and tangles, drying thoroughly on a cool setting.",
           "notes": [
-            "Check behind the ears and around the trousers and tail feathering for tangles.",
-            "Keep nails trimmed and the hair under the feet neat.",
-            "Check the eyes regularly for redness, discharge, or signs of irritation.",
-            "A harness is often preferable to attaching a lead to a collar, because small dogs may have delicate necks and airways."
+            "Puppies typically shed most of their juvenile coat between five and twelve months of age ('teen' stage), and full adult feathering often takes two to three years to mature.",
+            "Trim the nails regularly and neaten the hair between the footpads while preserving the natural hare-foot tuft on the ends of the toes; no body scissoring is needed.",
+            "Wipe the nasal crease and inner eye corners gently with a soft damp cloth to prevent tear accumulation or skin fold irritation.",
+            "Always attach a walking lead to a well-fitted body harness rather than a neck collar to protect the delicate cervical spine and trachea."
           ]
         },
         "training": {
-          "difficulty": "Usually manageable with patient, gentle, consistent training; harsh methods can undermine confidence.",
+          "difficulty": "Moderate; intelligent and eager to please when motivated by gentle praise and treats, though an independent streak and high sensitivity to harsh correction require patient, upbeat handling.",
           "tips": [
-            "Use short sessions and reward desired behaviour promptly.",
-            "Teach handling, grooming, and cooperative veterinary-care skills gradually.",
-            "Keep training sessions engaging and stop before the dog becomes tired.",
-            "Use secure leads and enclosed areas outdoors; do not rely on obedience alone near traffic."
+            "Keep training sessions brief, varied, and reward-based so the dog stays engaged without feeling pressured.",
+            "Condition calm tolerance for gentle facial, paw, and oral handling early, as many individuals are naturally sensitive about having their mouth examined.",
+            "Use indoor litter-box or pad setups alongside frequent positive outdoor trips to support reliable house-training in inclement weather.",
+            "Understanding that occasional 'snizzling' (blowing a fine mist through the nose) or brief reverse sneezing comes from the short soft palate helps owners stay calm and gently stroke the throat until the dog swallows."
           ],
-          "socialization": "Introduce people, calm dogs, everyday sounds, and handling gradually and positively during puppyhood, while respecting the dog's comfort and vaccination guidance."
+          "socialization": "Provide gradual, positive introductions to gentle visitors, calm dogs, varied household surfaces, and grooming routines during puppyhood so natural reserve with strangers remains poised confidence rather than shyness."
         },
         "livingEnvironment": {
           "apartmentSuitable": true,
@@ -63329,45 +64155,46 @@
         }
       },
       "nutrition": {
-        "dietType": "A complete and balanced diet appropriate to the dog's life stage, body condition, and health needs.",
+        "dietType": "Complete and balanced small-breed canine diet formulated for the dog's life stage, activity level, and dental profile.",
         "feedingFrequency": {
-          "puppy": "Several small meals daily, following the food's feeding guide and veterinary advice.",
-          "adult": "Often two measured meals daily; adjust portions to body condition, activity, and the specific food.",
-          "senior": "Individualize meal size and frequency to appetite, body condition, dental health, and veterinary advice."
+          "puppy": "Three to four small, measured meals daily to maintain steady blood glucose in a toy-sized puppy.",
+          "adult": "Two measured meals per day, adjusted to preserve a trim waistline and palpable ribs.",
+          "senior": "Two easily chewed meals daily tailored to metabolic changes, dental comfort, and cardiac or renal guidance from a veterinarian."
         },
-        "guidelines": "Choose a complete diet appropriate for the dog's life stage. Measure portions, keep fresh water available, and adjust feeding to maintain a lean body condition. Ask a veterinarian before making major dietary changes or adding supplements.",
+        "guidelines": "Select a small-kibble or moist complete diet meeting established veterinary nutritional profiles, measure daily portions by weight rather than free-feeding, and ensure constant access to fresh water. Consult a veterinarian before introducing supplements or therapeutic diets.",
         "considerations": [
-          "Small dogs can gain excess weight when treats and table scraps are not counted.",
-          "Use appropriately sized food and treats.",
-          "Monitor body condition and dental health, and seek veterinary advice if chewing or eating changes."
+          "Even slight excess weight places added mechanical strain on toy-breed kneecaps and increases respiratory effort in flat-faced dogs.",
+          "Small kibble dimensions suited to a short, wide jaw and slightly undershot bite make prehension and chewing easier.",
+          "Frequent self-grooming of the paws and coat can occasionally lead to ingested hair; regular brushing reduces hairball irritation."
         ],
-        "note": "These are general feeding principles, not a breed-specific prescription; caloric needs vary by individual."
+        "note": "Caloric requirements vary by age, neuter status, and metabolism; adjust portions using regular body-condition scoring."
       },
       "health": {
-        "overview": "Japanese Chin health discussions commonly emphasize eye health, kneecaps, cardiac screening, and the inherited GM2 gangliosidosis condition. Their short muzzle and relatively prominent eyes also make heat management and eye protection important. A condition being reported in the breed does not mean every dog will develop it; individual risk depends on genetics, conformation, and other factors.",
+        "overview": "Although many Japanese Chin live ten to twelve years or longer—with some reaching fifteen years—breed health priorities focus on ophthalmic disorders linked to large prominent eyes, patellar luxation, early-onset cardiac murmurs (such as myxomatous mitral valve disease), and inherited GM2 gangliosidosis. Because of the brachycephalic skull and short muzzle, owners and breeders must also monitor upper-airway comfort, dental crowding, and strict protection from heat and humidity.",
         "commonConditions": [
-          "Patellar luxation",
-          "Eye disorders, including cataracts and corneal or eyelid-related problems",
-          "Heart murmurs or congenital heart disease concerns",
-          "GM2 gangliosidosis (a serious inherited neurological disease)",
-          "Brachycephalic airway and heat-tolerance concerns associated with a short muzzle"
+          "GM2 gangliosidosis (an autosomal recessive fatal lysosomal storage disorder caused by a homozygous HEXA:c.967G>A [p.Glu323Lys] missense mutation, producing progressive cerebellar ataxia, head tremors, and cognitive decline around 12 to 18 months of age)",
+          "Ophthalmic conditions including cataracts, distichiasis (aberrant eyelashes from the Meibomian glands), keratoconjunctivitis sicca (dry eye), corneal endothelial degeneration, and corneal abrasions",
+          "Patellar luxation (medial or lateral slippage of the kneecap)",
+          "Cardiac murmurs, congenital heart defects, and myxomatous mitral valve endocardiosis",
+          "Brachycephalic upper-airway sensitivity, reverse sneezing, and heat intolerance associated with a shortened muzzle",
+          "Primary (idiopathic) epilepsy and atlantoaxial subluxation"
         ],
         "preventiveCare": [
-          "Arrange regular veterinary examinations and keep vaccinations and parasite prevention current.",
-          "Seek prompt veterinary advice for laboured breathing, collapse, persistent coughing, eye pain, sudden vision changes, or abnormal gait.",
-          "Avoid strenuous activity and never leave the dog in a hot vehicle; provide shade, ventilation, and water in warm or humid conditions.",
-          "Maintain a healthy body condition and provide routine dental care."
+          "Schedule comprehensive veterinary wellness, dental, and cardiac auscultation checks at least once a year, increasing to twice yearly for seniors.",
+          "Keep walks to cool morning or evening hours during warm weather, provide air-conditioned rest areas, and never leave a Japanese Chin in a warm car or unventilated space.",
+          "Inspect the prominent eyes daily for squinting, cloudiness, redness, or discharge, and seek immediate veterinary care for suspected corneal scratches.",
+          "Walk the dog on a padded Y-front or step-in chest harness rather than a neck collar to avoid tracheal or cervical pressure."
         ],
         "recommendedScreenings": [
-          "Eye examination by a qualified veterinary ophthalmologist",
-          "Patellar (kneecap) evaluation",
-          "Veterinary cardiac examination, with further testing if indicated",
-          "GM2 gangliosidosis DNA testing and informed breeding decisions",
-          "Discuss breathing and airway assessment with a veterinarian, especially for dogs with noisy or effortful breathing"
+          "DNA test for GM2 gangliosidosis (HEXA:c.967G>A mutation) prior to breeding so two carriers are never mated",
+          "Ophthalmologist evaluation by a board-certified veterinary specialist to screen for cataracts, distichiasis, dry eye, and corneal endothelial degeneration",
+          "Orthopaedic patellar evaluation (eligible for formal orthopaedic health certification from 12 months of age)",
+          "Veterinary cardiac auscultation, followed by a specialist echocardiogram if a heart murmur is detected",
+          "Respiratory function grading assessment for brachycephalic obstructive airway syndrome in breeding stock"
         ],
-        "dentalCare": "Brush teeth regularly with dog-safe toothpaste and arrange veterinary dental assessment as recommended. Small dogs may need particular attention to oral health.",
-        "earCare": "Check the hanging ears routinely for redness, odour, discharge, or discomfort. Clean only as advised by a veterinarian and do not insert cotton swabs into the ear canal.",
-        "skinCare": "Part the long coat during grooming to check the skin for irritation, parasites, or mats. Keep facial folds and the area around the eyes clean and dry without using irritating products."
+        "dentalCare": "A shortened maxilla and wide, slightly undershot mandible can predispose toy dogs to tooth crowding, retained deciduous teeth, and early periodontal disease; brush the teeth daily or several times a week with canine enzymatic toothpaste and schedule professional veterinary dental cleanings as needed.",
+        "earCare": "Lift and inspect the feathered, V-shaped hanging ears weekly for wax buildup, redness, or odour, drying the ear leather after baths and cleaning only with a veterinarian-approved solution.",
+        "skinCare": "Part the long coat during weekly brushing to check the skin for dryness or external parasites, and keep the shallow nasal fold and lower-eye margin clean and dry."
       },
       "suitability": {
         "firstTimeOwners": true,
@@ -63376,70 +64203,76 @@
         "activeOwners": false,
         "apartmentLiving": true,
         "idealFor": [
-          "People seeking a small indoor companion",
-          "Households able to provide companionship and gentle daily activity",
-          "Apartment residents who can maintain grooming and safe exercise routines",
-          "Families with calm, dog-aware children and adult supervision"
+          "Apartment and condo dwellers seeking a quiet, devoted indoor companion",
+          "Seniors, retirees, and remote workers who enjoy calm daily routines and lap company",
+          "First-time dog owners prepared for gentle reward-based training and weekly coat and eye care",
+          "Households with older, considerate children who understand how to handle a delicate toy breed safely"
         ],
         "notIdealFor": [
-          "People wanting a jogging or strenuous outdoor sports partner",
-          "Homes where the dog would be left alone for long periods without gradual training or support",
-          "Households unable to manage heat exposure or routine coat and eye care",
-          "Very young children who may handle a small dog roughly"
+          "Runners, hikers, or cyclists looking for a high-endurance athletic partner",
+          "Households in hot, humid climates without reliable indoor air conditioning",
+          "Homes where the dog would be left alone for long workdays without companionship",
+          "Families with boisterous toddlers who might accidentally drop or step on a fine-boned toy dog"
         ]
       },
       "funFacts": [
-        "The FCI classifies the Japanese Chin among companion and toy dogs and does not require a working trial.",
-        "Its tail is characteristically carried over the back and covered in long, profuse hair.",
-        "Owners often describe its movements and self-grooming habits as cat-like, although individual dogs vary.",
-        "The breed standard describes a white coat with black or red markings."
+        "Historical chronicles trace early ancestors of the breed to diplomatic gifts sent from the Korean kingdom of Silla to the Japanese imperial court in 732 CE, followed by centuries of selective refinement within Japanese noble residences.",
+        "In 1853, United States Navy Commodore Matthew Calbraith Perry received several pairs of these dogs when opening trade with Japan and presented a pair to Queen Victoria of the United Kingdom.",
+        "French Impressionist painter Édouard Manet immortalized a black-and-white Japanese Chin named Tama in his circa-1875 oil portrait.",
+        "A signature facial hallmark of the breed is a small crescent of white sclera showing at the inner corners of its wide-set dark eyes, giving the dog an endearing expression of perpetual astonishment.",
+        "Because of its flat face and elongated soft palate, the breed is famous for 'snizzling'—blowing a quick puff of air and fine mist through the nose—as well as washing its face with its paws and perching on the backs of armchairs like a cat."
       ],
       "faq": [
         {
-          "question": "Where does the Japanese Chin come from?",
-          "answer": "Japan is the recognised country of origin. Its early history is connected with court life in East Asia, although accounts of its earliest arrival rely partly on historical records rather than modern documentation."
+          "question": "Where did the Japanese Chin originate?",
+          "answer": "While its earliest ancestors arrived from ancient Chinese and Korean imperial courts—including documented diplomatic tributes from Korea's Silla dynasty in 732 CE—the breed was selectively developed and standardized over centuries within Japanese noble households, making Japan its recognized country of origin."
         },
         {
-          "question": "How big is a Japanese Chin?",
-          "answer": "The FCI standard gives males an approximate height of 25 cm at the withers and says females are slightly smaller. It does not establish a formal sex-specific weight range, so this record does not invent one."
+          "question": "How large does a full-grown Japanese Chin get?",
+          "answer": "Males stand approximately 25 cm at the withers, with females slightly smaller, and ideal adult weight typically ranges from 1.8 to 3.2 kg, though sturdy pet individuals in some lines can weigh a bit more in proportion to their frame."
         },
         {
-          "question": "What coat colours are accepted?",
-          "answer": "The FCI standard describes a white coat with black or red markings. Markings are ideally balanced around the eyes and ears and across the body."
+          "question": "What coat colours are seen in the Japanese Chin?",
+          "answer": "Accepted patterns include white with black markings and white with red markings—where red encompasses shades from lemon and orange to deep mahogany and black-overlaid sable—as well as black and white with tan points (tricolour) in North American show rings."
         },
         {
-          "question": "How much grooming does it need?",
-          "answer": "Brush and comb the silky coat several times a week, paying special attention to the ears and feathering. Check the eyes and keep nails trimmed as part of routine care."
+          "question": "Why does a young Japanese Chin lose so much coat between five and twelve months of age?",
+          "answer": "Juveniles normally go through a sparse adolescent 'teen' coat stage between five and twelve months of age as they shed their puppy fluff; full adult feathering, mane, and breeches often take two to three years to reach maximum volume."
         },
         {
-          "question": "Is the Japanese Chin suitable for apartment living?",
-          "answer": "Often, yes: it is a small companion breed that can do well indoors when given company, gentle activity, and regular care. Housing suitability still depends on the individual dog's needs and daily routine."
+          "question": "What causes a Japanese Chin to 'snizzle' or reverse sneeze?",
+          "answer": "Because the skull is brachycephalic with a very short muzzle, the soft palate is relatively long compared with the nasal passage. Brief episodes of 'snizzling' (exhaling sharply with a fine mist) or honking reverse sneezes are common and usually resolve as soon as the dog swallows to equalize airway pressure."
         },
         {
-          "question": "What health issues should I discuss with a breeder?",
-          "answer": "Ask for documented eye, patella, and cardiac evaluations and discuss GM2 gangliosidosis DNA testing. A veterinarian can also assess breathing, particularly if the dog snores loudly or shows effort when breathing."
+          "question": "What is GM2 gangliosidosis in the Japanese Chin, and can breeders test for it?",
+          "answer": "GM2 gangliosidosis is a fatal autosomal recessive lysosomal storage disorder—analogous to human Tay-Sachs disease—caused by a homozygous HEXA:c.967G>A (p.Glu323Lys) missense mutation. A one-time cheek-swab DNA test identifies healthy carriers so breeders can avoid mating two carriers and completely prevent affected litters."
         },
         {
-          "question": "Does the Japanese Chin tolerate hot weather?",
-          "answer": "Its short muzzle can make heat and humidity harder to manage. Provide shade, ventilation, and fresh water, avoid strenuous activity in hot conditions, and seek veterinary help for signs of heat stress or breathing difficulty."
+          "question": "How much daily exercise and grooming does a Japanese Chin require?",
+          "answer": "Up to 30 minutes of gentle daily walking on a body harness combined with indoor play keeps an adult fit, and brushing the single silky coat once or twice a week (more often during seasonal sheds) prevents tangles in the ear fringes, neck ruff, and tail plume."
         },
         {
-          "question": "How long does a Japanese Chin live?",
-          "answer": "The breed club gives a typical life expectancy of about 10–12 years, though individual lifespan varies with genetics, health, and care."
+          "question": "How long does a Japanese Chin typically live?",
+          "answer": "Typical life expectancy is 10 to 12 years, and well-cared-for individuals from health-screened lines not uncommonly reach 15 years or more."
         }
       ],
       "references": [
         "fci-japanese-chin-standard",
+        "fci-japanese-chin-nomenclature",
         "japanese-chin-club-of-america-akc-standard",
+        "royal-kennel-club-japanese-chin-standard",
         "american-kennel-club-japanese-chin",
+        "akc-dna-testing-recommendations",
         "japanese-chin-club-of-america-faq",
         "japanese-chin-club-of-america-health-testing",
         "royal-kennel-club-japanese-chin-health-standard",
+        "pubmed-japanese-chin-gm2-hexa-23266199",
         "wikimedia-japanese-chin-dog-pointer8",
         "wikimedia-japanese-chin-tom-mooring",
         "wikimedia-japan-chin-arek-malyska",
         "wsava-global-nutrition-guidelines",
-        "avma-pet-dental-care"
+        "avma-pet-dental-care",
+        "the-dog-api"
       ],
       "evidence": {
         "alternateNames": {
@@ -63448,22 +64281,32 @@
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "Official breed name and historical summary"
+              "locator": "Official breed title: Chin (Japanese Chin)"
             },
             {
-              "id": "japanese-chin-club-of-america-faq",
+              "id": "fci-japanese-chin-nomenclature",
               "role": "verified",
-              "locator": "Breed names and historical context"
+              "locator": "Multilingual names: Chin, Japanese Chin, Épagneul Japonais, Japan-Chin, Spaniel Japonés"
+            },
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "verified",
+              "locator": "History: recognized in 1888 as Japanese Spaniel; renamed Japanese Chin in 1977"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.alt_names ('Chin')"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Japanese Spaniel is a historical/alternate name used in breed material."
+          "verifiedOn": "2026-10-26",
+          "note": "Combines official FCI multilingual names with the historical English breed name Japanese Spaniel used prior to 1977."
         },
         "scientificName": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No distinct breed-specific scientific name is established by the consulted breed sources."
+          "note": "No distinct breed-specific scientific binomial name exists beyond Canis lupus familiaris."
         },
         "group": {
           "reliability": "official_standard",
@@ -63471,23 +64314,53 @@
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "FCI classification, Group 9 and Section 8"
+              "locator": "FCI classification: Group 9 Companion and Toy Dogs, Section 8 Japan Chin and Pekingese, without working trial"
+            },
+            {
+              "id": "fci-japanese-chin-nomenclature",
+              "role": "verified",
+              "locator": "Group 9, Section 8"
+            },
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "verified",
+              "locator": "Group: Toy Group"
+            },
+            {
+              "id": "royal-kennel-club-japanese-chin-standard",
+              "role": "verified",
+              "locator": "Group: Toy"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.breed_group ('Toy')"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-26",
           "note": null
         },
         "origin": {
-          "reliability": "reliable_source",
+          "reliability": "official_standard",
           "sources": [
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "Country of origin and historical summary"
+              "locator": "Origin: Japan; Brief Historical Summary"
+            },
+            {
+              "id": "fci-japanese-chin-nomenclature",
+              "role": "verified",
+              "locator": "Country of origin: Japan"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.origin ('China/Japan')"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The FCI identifies Japan as the country of origin; early ancestry accounts are historical."
+          "verifiedOn": "2026-10-26",
+          "note": "Official standards designate Japan as the country of origin where the modern breed was selectively developed, while historical accounts and The Dog API note ancient imperial court roots in China and Korea."
         },
         "origin.country": {
           "reliability": "official_standard",
@@ -63495,80 +64368,120 @@
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "FCI breed nomenclature: country of origin"
+              "locator": "Origin: Japan"
+            },
+            {
+              "id": "fci-japanese-chin-nomenclature",
+              "role": "verified",
+              "locator": "Country of origin: Japan"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.origin ('China/Japan')"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": null
+          "verifiedOn": "2026-10-26",
+          "note": "Kept 'Japan' per official FCI designation; The Dog API's combined 'China/Japan' string reflects pre-Japanese imperial gift origins."
         },
         "origin.region": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "A specific region within Japan was not established by the sources consulted."
+          "note": "Official standards associate the breed with the Japanese imperial court and noble residences nationwide rather than a single geographic province."
         },
         "overview": {
-          "reliability": "reliable_source",
+          "reliability": "official_standard",
           "sources": [
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "Historical summary, general appearance, temperament, coat"
+              "locator": "Brief Historical Summary, General Appearance, Important Proportions, Head, Body, Limbs, Coat, Behaviour/Temperament"
             },
             {
               "id": "japanese-chin-club-of-america-akc-standard",
               "role": "verified",
-              "locator": "General appearance, size, coat, colours, temperament"
+              "locator": "General Appearance, Size/Proportion/Substance, Head, Body, Coat, Color, Gait, Temperament"
+            },
+            {
+              "id": "royal-kennel-club-japanese-chin-standard",
+              "role": "verified",
+              "locator": "General appearance, characteristics, head and skull, eyes, coat, size"
             },
             {
               "id": "american-kennel-club-japanese-chin",
               "role": "verified",
-              "locator": "Breed profile and general characteristics"
+              "locator": "About the Breed and History (1853 Commodore Perry, 1888 recognition, 1977 name change)"
             },
             {
               "id": "japanese-chin-club-of-america-faq",
               "role": "verified",
-              "locator": "Breed history, temperament, and care"
+              "locator": "Breed traits, cat-like climbing and paw-licking habits, heat sensitivity"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.description and breed.history"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "User-facing descriptions are original paraphrases; early historical accounts are presented as historical rather than certain ancestry."
+          "verifiedOn": "2026-10-26",
+          "note": "All overview prose is written in original wording synthesizing official standards and parent-club historical documentation."
         },
         "overview.originalPurpose": {
-          "reliability": "reliable_source",
+          "reliability": "official_standard",
           "sources": [
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "Utilization and historical summary"
+              "locator": "Utilization: Companion dog; Brief Historical Summary"
+            },
+            {
+              "id": "japanese-chin-club-of-america-akc-standard",
+              "role": "verified",
+              "locator": "Temperament: 'whose only purpose is to serve man as a companion'"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-26",
           "note": null
         },
         "overview.currentRoles": {
           "reliability": "reliable_source",
           "sources": [
             {
+              "id": "fci-japanese-chin-standard",
+              "role": "verified",
+              "locator": "Utilization: Companion dog"
+            },
+            {
               "id": "american-kennel-club-japanese-chin",
               "role": "verified",
-              "locator": "Companion breed profile"
+              "locator": "Toy Group companion and show profile"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Roles are typical uses and not a guarantee of individual aptitude."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "physical.sizeCategory": {
-          "reliability": "estimate",
+          "reliability": "reliable_source",
           "sources": [
             {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "verified",
+              "locator": "Toy Group classification and 8–11 in / 7–11 lb dimensions"
+            },
+            {
+              "id": "royal-kennel-club-japanese-chin-standard",
+              "role": "verified",
+              "locator": "Toy Group standard (ideal weight 1.8–3.2 kg)"
+            },
+            {
               "id": "fci-japanese-chin-standard",
-              "role": "cited",
-              "locator": "General appearance and approximate male height"
+              "role": "verified",
+              "locator": "Group 9 Companion and Toy Dogs; approximate male height 25 cm"
             }
           ],
-          "verifiedOn": null,
-          "note": "Toy is a practical catalogue category based on the breed's small size and companion classification."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "physical.height": {
           "reliability": "official_standard",
@@ -63576,34 +64489,70 @@
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "Size and weight: approximate male height and female comparison"
+              "locator": "Size and Weight — Height at the withers: Males approximately 25 cm; Females slightly smaller than males"
             },
             {
               "id": "japanese-chin-club-of-america-akc-standard",
-              "role": "verified",
-              "locator": "Size, proportion, substance: ideal height 8–11 inches; sexes not separated"
+              "role": "conflicting",
+              "locator": "Size: Ideal size is 8 inches to 11 inches at the highest point of the withers (sexes not separated)"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.height.metric ('20 - 28' cm for both sexes)"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The male value is recorded as 25 cm to represent the standard's approximate figure, not a precise universal measurement; the standard only says females are slightly smaller."
+          "verifiedOn": "2026-10-26",
+          "note": "Retained FCI Standard No. 206 metric male height of 25 cm (with female left null because FCI states only 'slightly smaller than males'). The AKC standard specifies 8–11 inches across both sexes, and The Dog API gives 20–28 cm (corresponding to ~8–11 inches)."
         },
         "physical.weight": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "The consulted FCI and AKC breed standards do not provide a numerical weight range; no numerical range is stored."
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "royal-kennel-club-japanese-chin-standard",
+              "role": "verified",
+              "locator": "Size: 'Ideal weight 1.8-3.2 kgs (4-7 lbs)'"
+            },
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "conflicting",
+              "locator": "Breed profile: Weight 7–11 pounds"
+            },
+            {
+              "id": "japanese-chin-club-of-america-faq",
+              "role": "conflicting",
+              "locator": "FAQ: 'can be as small as four pounds or as much as fifteen pounds'"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.weight.metric ('1.8 - 5' kg)"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Populated with the Royal Kennel Club official breed standard's first-stated metric ideal weight range of 1.8–3.2 kg (4–7 lb). Neither FCI Standard No. 206 nor the AKC written standard specifies a numerical weight range, while the AKC breed profile lists 7–11 lb, the JCCA FAQ notes a broad 4–15 lb span across pet lines, and The Dog API gives 1.8–5 kg."
         },
         "physical.lifespanYears": {
           "reliability": "reliable_source",
           "sources": [
             {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "verified",
+              "locator": "Life Expectancy: 10–12 years"
+            },
+            {
               "id": "japanese-chin-club-of-america-faq",
               "role": "verified",
-              "locator": "FAQ: typical life expectancy"
+              "locator": "FAQ — How long do Chin live?: typical life expectancy of 10–12 years with some living 15 years or more"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.life_span ('10 - 12 years')"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "This is a breed-club typical range, not a guarantee for an individual dog."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "physical.coatType": {
           "reliability": "official_standard",
@@ -63611,15 +64560,15 @@
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "Coat: hair"
+              "locator": "Coat — Hair: Silky, straight and long; whole body except face covered with profuse hair"
             },
             {
               "id": "japanese-chin-club-of-america-akc-standard",
               "role": "verified",
-              "locator": "Coat: texture and distribution"
+              "locator": "Coat: Abundant, straight, single, and silky; resilient texture standing out on neck, shoulders, and chest"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-26",
           "note": null
         },
         "physical.coatLength": {
@@ -63628,15 +64577,15 @@
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "Coat: hair and feathering"
+              "locator": "Coat — Hair: long body coat with profuse feathering on ears, neck, thighs, and tail; short hair on face"
             },
             {
               "id": "japanese-chin-club-of-america-akc-standard",
               "role": "verified",
-              "locator": "Coat: ruff, plume, and feathering"
+              "locator": "Coat: thick mane or ruff, plumed tail, rump culottes, feathered ears and legs, short hair on head and muzzle"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-26",
           "note": null
         },
         "physical.coatColors": {
@@ -63645,34 +64594,60 @@
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "Coat: colour"
+              "locator": "Coat — Colour: White with markings of black or red; Disqualifying faults: Tricolour"
+            },
+            {
+              "id": "royal-kennel-club-japanese-chin-standard",
+              "role": "verified",
+              "locator": "Colour: Black and white or red and white (red includes all shades of sable, lemon or orange). Never tricolour"
             },
             {
               "id": "japanese-chin-club-of-america-akc-standard",
               "role": "verified",
-              "locator": "Color: black and white, red and white, black and white with tan points"
+              "locator": "Color: Either black and white, red and white (all shades of red, orange, lemon, and sable), or black and white with tan points"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "GET /breeds/{id}/colours (lists 17 generic colours including Blue, Brindle, Brown / Chocolate, Cream, Fawn, Grey, Liver, Merle)"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Colours follow the FCI standard; some other registry descriptions may differ in detail."
+          "verifiedOn": "2026-10-26",
+          "note": "FCI No. 206 and the Royal Kennel Club standard accept only white with black markings and white with red markings (disqualifying tricolour), whereas the official AKC standard also accepts black and white with tan points (tricolour). Unaccepted species-wide colours returned by The Dog API colour endpoint were excluded."
         },
         "physical.sheddingLevel": {
-          "reliability": "estimate",
+          "reliability": "reliable_source",
           "sources": [
             {
               "id": "japanese-chin-club-of-america-faq",
-              "role": "cited",
-              "locator": "FAQ: coat care and shedding"
+              "role": "verified",
+              "locator": "FAQ — Grooming and coat maturation: seasonal shedding, 5–12 month puppy coat drop, and post-season shedding in intact females"
+            },
+            {
+              "id": "royal-kennel-club-japanese-chin-health-standard",
+              "role": "verified",
+              "locator": "Breed characteristics: Sheds — Yes"
+            },
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "verified",
+              "locator": "Shedding Level: 3/5"
             }
           ],
-          "verifiedOn": null,
-          "note": "Qualitative level inferred from breed-club coat-care guidance; no standardized shedding measurement is available."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "physical.droolingLevel": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "No reliable breed-specific drooling level was established."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "verified",
+              "locator": "Drooling Level: 1/5 (Less Likely to Drool)"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": "Populated as 'Low' based on the AKC breed profile's lowest drooling rating (1/5) and official standard requirements for closed lips covering the teeth and tongue."
         },
         "physical.distinctiveFeatures": {
           "reliability": "official_standard",
@@ -63680,38 +64655,48 @@
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "General appearance, head, ears, tail, coat, movement"
+              "locator": "General Appearance, Head, Eyes, Ears, Body, Tail, Feet, Gait"
             },
             {
               "id": "japanese-chin-club-of-america-akc-standard",
               "role": "verified",
-              "locator": "General appearance, head, body, tail, coat, movement"
+              "locator": "Head ('look of astonishment'), Skull (vertical plane), Body (square, culottes), Feet (hare-shaped), Tail, Gait"
+            },
+            {
+              "id": "royal-kennel-club-japanese-chin-standard",
+              "role": "verified",
+              "locator": "Eyes ('look of astonishment'), Feet (hare-footed with feathered tufts)"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-26",
           "note": null
         },
         "temperament.traits": {
-          "reliability": "reliable_source",
+          "reliability": "official_standard",
           "sources": [
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "Behaviour and temperament"
+              "locator": "Behaviour / Temperament: Wise, mild and endearing"
             },
             {
-              "id": "american-kennel-club-japanese-chin",
+              "id": "japanese-chin-club-of-america-akc-standard",
               "role": "verified",
-              "locator": "Breed profile"
+              "locator": "Temperament: Sensitive, intelligent, responsive and affectionate with family, reserved with strangers"
             },
             {
               "id": "japanese-chin-club-of-america-faq",
               "role": "verified",
-              "locator": "FAQ: breed traits"
+              "locator": "FAQ — Breed traits: noble air, reflects household atmosphere, cat-like climbing and self-grooming"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.temperament ('Alert, intelligent, affectionate, independent, playful, calm')"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Traits describe common tendencies, not guaranteed behaviour in every individual."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "temperament.scores": {
           "reliability": "estimate",
@@ -63719,40 +64704,61 @@
             {
               "id": "american-kennel-club-japanese-chin",
               "role": "cited",
-              "locator": "Breed profile and general characteristics"
+              "locator": "Trait ratings (Affectionate With Family 5/5, Good With Young Children 3/5, Good With Other Dogs 4/5, Openness to Strangers 3/5, Watchdog/Protective 3/5, Trainability 3/5, Energy 3/5, Barking 1/5)"
             },
             {
               "id": "japanese-chin-club-of-america-faq",
               "role": "cited",
-              "locator": "FAQ: breed traits"
+              "locator": "FAQ: breed traits and indoor demeanour"
             }
           ],
           "verifiedOn": null,
-          "note": "Scores are editorial estimates on a 1–5 scale, not standardized behavioural measurements."
+          "note": "Normalized 1–5 editorial scores synthesizing kennel-club trait ratings and parent-club temperament descriptions."
         },
         "care.exercise.level": {
-          "reliability": "estimate",
+          "reliability": "reliable_source",
           "sources": [
             {
+              "id": "royal-kennel-club-japanese-chin-health-standard",
+              "role": "verified",
+              "locator": "Breed characteristics: Exercise — Up to 30 minutes per day"
+            },
+            {
               "id": "american-kennel-club-japanese-chin",
-              "role": "cited",
-              "locator": "Companion breed profile and care overview"
+              "role": "verified",
+              "locator": "Exercise guide: short walks and indoor/backyard play"
+            },
+            {
+              "id": "japanese-chin-club-of-america-faq",
+              "role": "verified",
+              "locator": "Heat and humidity precautions and harness walking"
             }
           ],
-          "verifiedOn": null,
-          "note": "Qualitative guidance for a small companion breed; adapt activity to age, health, and breathing comfort."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "care.exercise.minutesPerDay": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No dependable breed-specific universal daily exercise-minute target was established."
+          "note": "Set to null because The Royal Kennel Club states only an upper bound ('Up to 30 minutes per day') without a minimum daily minute figure, and FCI, AKC, and JCCA do not publish a numerical daily minute range."
         },
         "care.exercise.activities": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "Activities are general suggestions and should be adapted to the individual dog, weather, and health."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "verified",
+              "locator": "Exercise and companion activity recommendations"
+            },
+            {
+              "id": "japanese-chin-club-of-america-faq",
+              "role": "verified",
+              "locator": "Harness walks and indoor activity"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "care.grooming": {
           "reliability": "reliable_source",
@@ -63760,59 +64766,90 @@
             {
               "id": "japanese-chin-club-of-america-faq",
               "role": "verified",
-              "locator": "FAQ: grooming and coat care"
+              "locator": "FAQ — Grooming, brushing 1–2 times weekly, conditioning creme rinse, cool blow-drying, puppy 'teen' coat stage, nail and footpad hair trimming, harness recommendation"
+            },
+            {
+              "id": "royal-kennel-club-japanese-chin-health-standard",
+              "role": "verified",
+              "locator": "Breed characteristics: Grooming — More than once a week"
+            },
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "verified",
+              "locator": "Grooming: weekly brushing, bath, ear and eye checks"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Grooming frequency should be adapted to coat condition and shedding."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "care.training": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "Training suggestions are general humane-dog-training advice rather than a measured breed-specific rating."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "japanese-chin-club-of-america-akc-standard",
+              "role": "verified",
+              "locator": "Bite/Temperament: sensitivity to oral examination and reserved nature in new situations"
+            },
+            {
+              "id": "japanese-chin-club-of-america-faq",
+              "role": "verified",
+              "locator": "FAQ: sensitive temperament, reverse sneezing ('snizzling') management, and harness guidance"
+            },
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "verified",
+              "locator": "Training and socialization guidance"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "care.livingEnvironment.apartmentSuitable": {
-          "reliability": "estimate",
+          "reliability": "reliable_source",
           "sources": [
             {
+              "id": "royal-kennel-club-japanese-chin-health-standard",
+              "role": "verified",
+              "locator": "Breed characteristics: Size of home — Flat/Apartment; Town or country — Either"
+            },
+            {
               "id": "american-kennel-club-japanese-chin",
-              "role": "cited",
-              "locator": "Small companion breed profile"
+              "role": "verified",
+              "locator": "Adaptability and apartment suitability"
             }
           ],
-          "verifiedOn": null,
-          "note": "Likely to adapt to apartment living if companionship, safe exercise, and care needs are met."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "care.livingEnvironment.houseWithYardSuitable": {
-          "reliability": "estimate",
+          "reliability": "reliable_source",
           "sources": [
             {
-              "id": "american-kennel-club-japanese-chin",
-              "role": "cited",
-              "locator": "Small companion breed profile"
+              "id": "royal-kennel-club-japanese-chin-health-standard",
+              "role": "verified",
+              "locator": "Breed characteristics: Size of garden — Small/medium garden"
             }
           ],
-          "verifiedOn": null,
-          "note": "A house can suit the breed; any yard must be secure and does not replace supervised walks and companionship."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "care.livingEnvironment.climates": {
-          "reliability": "general_guidance",
+          "reliability": "reliable_source",
           "sources": [
             {
               "id": "japanese-chin-club-of-america-faq",
-              "role": "cited",
-              "locator": "FAQ: heat and humidity sensitivity"
+              "role": "verified",
+              "locator": "FAQ: 'very sensitive to heat and humidity'"
             }
           ],
-          "verifiedOn": null,
-          "note": "Climate guidance is cautious care advice related to the short muzzle, not a measured tolerance test."
+          "verifiedOn": "2026-10-26",
+          "note": "Shortened brachycephalic upper airways reduce evaporative cooling efficiency in hot or humid weather."
         },
         "care.livingEnvironment.aloneTimeTolerance": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No reliable breed-specific alone-time tolerance range was established."
+          "note": "No quantified maximum alone-time hours are established by official or veterinary sources."
         },
         "nutrition": {
           "reliability": "general_guidance",
@@ -63820,50 +64857,75 @@
             {
               "id": "wsava-global-nutrition-guidelines",
               "role": "cited",
-              "locator": "Nutritional assessment and individualized feeding"
+              "locator": "Individualized nutritional assessment and body-condition monitoring"
+            },
+            {
+              "id": "japanese-chin-club-of-america-faq",
+              "role": "cited",
+              "locator": "Self-grooming and occasional hairball note"
             }
           ],
           "verifiedOn": null,
-          "note": "Feeding advice is general veterinary guidance and should be tailored to the individual dog."
+          "note": "Combines general WSAVA small-breed feeding principles with breed-specific jaw and self-grooming considerations."
         },
         "health": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "american-kennel-club-japanese-chin",
-              "role": "verified",
-              "locator": "Health and recommended breed-club screening tests"
-            },
-            {
               "id": "japanese-chin-club-of-america-health-testing",
               "role": "verified",
-              "locator": "Health-testing recommendations: eyes, patellas, heart, GM2"
+              "locator": "Eyes (distichiasis, KCS, CED, cataracts), Patellas, Heart (auscultation/cardiologist), and GM2 gangliosidosis"
+            },
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "verified",
+              "locator": "Health: patella evaluation, cardiac exam, ophthalmologist evaluation, GM2 gangliosidosis DNA test, epilepsy"
+            },
+            {
+              "id": "akc-dna-testing-recommendations",
+              "role": "verified",
+              "locator": "Japanese Chin: GM2 Gangliosidosis (Japanese Chin Type)"
+            },
+            {
+              "id": "royal-kennel-club-japanese-chin-health-standard",
+              "role": "verified",
+              "locator": "Pre-breeding health screening: BVA/KC/ISDS eye scheme and Respiratory Function Grading Scheme (BOAS)"
+            },
+            {
+              "id": "pubmed-japanese-chin-gm2-hexa-23266199",
+              "role": "verified",
+              "locator": "Sanders et al. 2013 (PMID 23266199): homozygous HEXA:c.967G>A (p.E323K) missense mutation causing GM2 gangliosidosis in Japanese Chin dogs"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "These are health concerns and screening topics reported by breed sources; this is not a statement of prevalence or a diagnosis for an individual dog."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "health.commonConditions": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "american-kennel-club-japanese-chin",
+              "id": "pubmed-japanese-chin-gm2-hexa-23266199",
               "role": "verified",
-              "locator": "Health concerns: patellar luxation, cataracts, epilepsy, heart murmurs, GM2 gangliosidosis"
+              "locator": "Abstract & results: HEXA:c.967G>A (p.Glu323Lys) mutation in Japanese Chin GM2 gangliosidosis"
             },
             {
               "id": "japanese-chin-club-of-america-health-testing",
               "role": "verified",
-              "locator": "Health-testing recommendations: eye conditions, patellas, heart, GM2"
+              "locator": "Distichiasis, KCS, corneal endothelial degeneration, cataracts, patellar luxation, heart murmurs, GM2 clinical progression (1–1.5 years onset)"
+            },
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "verified",
+              "locator": "Luxating patellas, cataracts, epilepsy, early-onset heart murmurs, GM2 gangliosidosis"
             },
             {
               "id": "royal-kennel-club-japanese-chin-health-standard",
               "role": "verified",
-              "locator": "Breed health standard: eye testing and breathing assessment for BOAS"
+              "locator": "Brachycephalic breathing difficulties and dental crowding"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "These are reported concerns, not prevalence estimates or predictions for an individual dog."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "health.recommendedScreenings": {
           "reliability": "reliable_source",
@@ -63871,63 +64933,111 @@
             {
               "id": "japanese-chin-club-of-america-health-testing",
               "role": "verified",
-              "locator": "Recommended eye, patella, cardiac, and GM2 screening"
+              "locator": "Recommended screenings: board-certified ophthalmologist eye exam, patella grading (from 12 months), cardiac auscultation/cardiologist exam, GM2 DNA test"
+            },
+            {
+              "id": "akc-dna-testing-recommendations",
+              "role": "verified",
+              "locator": "GM2 Gangliosidosis (Japanese Chin Type) DNA test"
             },
             {
               "id": "royal-kennel-club-japanese-chin-health-standard",
               "role": "verified",
-              "locator": "Eye testing and BOAS respiratory function grading guidance"
+              "locator": "Eye testing and Respiratory Function Grading Scheme (RFGS) for BOAS"
+            },
+            {
+              "id": "pubmed-japanese-chin-gm2-hexa-23266199",
+              "role": "verified",
+              "locator": "Molecular screening for HEXA:c.967G>A"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Screening programmes vary by country and can change; confirm current recommendations with the breed organisation and veterinarian."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "health.preventiveCare": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "General preventive care; veterinary advice should be individualized."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "japanese-chin-club-of-america-faq",
+              "role": "verified",
+              "locator": "Heat/humidity protection and harness recommendation"
+            },
+            {
+              "id": "japanese-chin-club-of-america-health-testing",
+              "role": "verified",
+              "locator": "Routine ophthalmic, patellar, and cardiac monitoring"
+            }
+          ],
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "health.dentalCare": {
-          "reliability": "general_guidance",
+          "reliability": "reliable_source",
           "sources": [
+            {
+              "id": "royal-kennel-club-japanese-chin-health-standard",
+              "role": "verified",
+              "locator": "Teeth problems in flat-faced dogs: shortened jaw and dental overcrowding"
+            },
+            {
+              "id": "japanese-chin-club-of-america-akc-standard",
+              "role": "verified",
+              "locator": "Bite: wide, slightly undershot jaw; sensitivity to oral examination"
+            },
             {
               "id": "avma-pet-dental-care",
               "role": "cited",
-              "locator": "Preventive oral health and dental care"
+              "locator": "Routine tooth brushing and professional veterinary dental care"
             }
           ],
-          "verifiedOn": null,
-          "note": "General veterinary dental guidance."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "health.earCare": {
           "reliability": "general_guidance",
-          "sources": [],
+          "sources": [
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "cited",
+              "locator": "Grooming: routine ear inspection and cleaning"
+            }
+          ],
           "verifiedOn": null,
-          "note": "Routine ear-care advice, not a breed-specific medical claim."
+          "note": "General preventive ear-care guidance for feathered drop ears."
         },
         "health.skinCare": {
           "reliability": "general_guidance",
-          "sources": [],
+          "sources": [
+            {
+              "id": "american-kennel-club-japanese-chin",
+              "role": "cited",
+              "locator": "Grooming: checking skin and eye/facial margins"
+            }
+          ],
           "verifiedOn": null,
-          "note": "Routine skin and coat-care advice, not a breed-specific medical claim."
+          "note": "General skin and facial-fold hygiene guidance for a long-coated brachycephalic toy breed."
         },
         "suitability": {
           "reliability": "estimate",
           "sources": [
             {
+              "id": "royal-kennel-club-japanese-chin-health-standard",
+              "role": "cited",
+              "locator": "Breed characteristics: Flat/Apartment, up to 30 min exercise"
+            },
+            {
               "id": "american-kennel-club-japanese-chin",
               "role": "cited",
-              "locator": "Small companion breed profile"
+              "locator": "Toy companion profile and family/stranger trait scores"
             },
             {
               "id": "japanese-chin-club-of-america-faq",
               "role": "cited",
-              "locator": "Temperament, children, and heat-care notes"
+              "locator": "Breed traits, sensitivity to household atmosphere, and heat precautions"
             }
           ],
           "verifiedOn": null,
-          "note": "Suitability labels are editorial owner-fit estimates; individual temperament, training, health, and household context matter."
+          "note": "Suitability booleans and owner profiles are editorial assessments derived from breed temperament, size, and brachycephalic care requirements."
         },
         "funFacts": {
           "reliability": "reliable_source",
@@ -63935,11 +65045,21 @@
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "Classification, historical summary, tail, coat colour"
+              "locator": "Brief Historical Summary (732 CE Korean Silla dynasty gifts, 1613 Britain, 1853 Commodore Perry and Queen Victoria)"
+            },
+            {
+              "id": "japanese-chin-club-of-america-akc-standard",
+              "role": "verified",
+              "locator": "Eyes: 'look of astonishment' from small amount of white showing in inner eye corners"
+            },
+            {
+              "id": "japanese-chin-club-of-america-faq",
+              "role": "verified",
+              "locator": "FAQ: cat-like climbing, paw face-washing, and 'snizzling'"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Facts are paraphrased from the official standard and do not imply that every dog behaves identically."
+          "verifiedOn": "2026-10-26",
+          "note": null
         },
         "faq": {
           "reliability": "reliable_source",
@@ -63947,24 +65067,34 @@
             {
               "id": "fci-japanese-chin-standard",
               "role": "verified",
-              "locator": "Origin, size, coat and colour"
+              "locator": "Origin, 732 CE history, 25 cm male height, and coat colours"
+            },
+            {
+              "id": "royal-kennel-club-japanese-chin-standard",
+              "role": "verified",
+              "locator": "Ideal weight 1.8–3.2 kg and colour rules"
+            },
+            {
+              "id": "japanese-chin-club-of-america-akc-standard",
+              "role": "verified",
+              "locator": "Accepted colours including black and white with tan points"
             },
             {
               "id": "japanese-chin-club-of-america-faq",
               "role": "verified",
-              "locator": "Grooming, lifespan, temperament, and heat care"
+              "locator": "5–12 month adolescent coat drop, 'snizzling'/reverse sneezing, grooming, and 10–12 (up to 15+) year lifespan"
             },
             {
-              "id": "japanese-chin-club-of-america-health-testing",
+              "id": "pubmed-japanese-chin-gm2-hexa-23266199",
               "role": "verified",
-              "locator": "Recommended health screening topics"
+              "locator": "HEXA:c.967G>A (p.Glu323Lys) mutation in GM2 gangliosidosis"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Answers are paraphrased and distinguish standard measurements from club guidance and general care."
+          "verifiedOn": "2026-10-26",
+          "note": null
         }
       },
-      "updatedOn": "2026-10-21"
+      "updatedOn": "2026-10-26"
     },
     {
       "slug": "kai-ken",
