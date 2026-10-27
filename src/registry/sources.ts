@@ -10734,6 +10734,40 @@ export const sources = defineSources({
   accessedOn: "2026-10-27",
   note: "File page identifies Hegedustaypan as creator, gives the date as 6 April 2025 and original dimensions as 1284 × 2021 pixels. The creator explicitly dedicated the photograph under CC0 1.0, which permits commercial use.",
 },
+  "fci-drever-standard-130": {
+    id: "fci-drever-standard-130",
+    name: "FCI - Drever Standard No. 130",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/130g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2021-07-27",
+    accessedOn: "2026-10-27",
+    note:
+      "Official English-language FCI Standard No. 130. Covers origin, use, history, temperament, coat, colour, and height.",
+  },
+  "swedish-kennel-club-drever-profile": {
+    id: "swedish-kennel-club-drever-profile",
+    name: "Swedish Kennel Club - Drever",
+    publisher: "Svenska Kennelklubben (Swedish Kennel Club)",
+    url: "https://www.skk.se/en/nku-home/nordic-dog-breeds/sweden/drever/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-27",
+    note:
+      "Breed profile covering alternate names, history, height, coat colours, activity, hunting behaviour, and reported health concerns.",
+  },
+  "commons-docfile-drever-canarian": {
+    id: "commons-docfile-drever-canarian",
+    name: "Wikimedia Commons - DocFile Drever.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:DocFile_Drever.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: null,
+    accessedOn: "2026-10-27",
+    note:
+      "Photograph by Canarian. The file page states that the image is licensed under CC BY-SA 4.0; the image record includes attribution and a link to the license deed.",
+  },
 });
 
 export type SourceId = keyof typeof sources;

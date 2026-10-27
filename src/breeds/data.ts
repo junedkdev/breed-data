@@ -117,6 +117,7 @@ import { cairn_terrier } from "./cairn_terrier";
 import { kooikerhondje } from "./kooikerhondje";
 import { norfolk_terrier } from "./norfolk_terrier";
 import { central_asian_shepherd_dog } from "./central_asian_shepherd_dog";
+import { drever } from "./drever";
 
 
 export const breedData: readonly Breed[] = [
@@ -233,4 +234,5 @@ export const breedData: readonly Breed[] = [
   kooikerhondje,
   norfolk_terrier,
   central_asian_shepherd_dog,
+  drever,
 ];

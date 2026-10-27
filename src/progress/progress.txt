@@ -50,7 +50,8 @@
 47:petit_brabancon - CG
 48:dutch_smoushond - CG
 
-49:dalmatian - C
+49:dalmatian - CR
+
 50:samoyed - C
 51:jack_russell_terrier - C
 52:american_cocker_spaniel - C
@@ -114,8 +115,7 @@
 110:kooikerhondje - C
 111:norfolk_terrier - C
 112:central_asian_shepherd_dog - C
-
-113:drever - R
+113:drever - C
 
 114:perro_de_presa_mallorquin
 115:epagneul_bleu_de_picardie
