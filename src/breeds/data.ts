@@ -118,6 +118,7 @@ import { kooikerhondje } from "./kooikerhondje";
 import { norfolk_terrier } from "./norfolk_terrier";
 import { central_asian_shepherd_dog } from "./central_asian_shepherd_dog";
 import { drever } from "./drever";
+import { perro_de_presa_mallorquin } from "./perro_de_presa_mallorquin";
 
 
 export const breedData: readonly Breed[] = [
@@ -235,4 +236,5 @@ export const breedData: readonly Breed[] = [
   norfolk_terrier,
   central_asian_shepherd_dog,
   drever,
+  perro_de_presa_mallorquin,
 ];

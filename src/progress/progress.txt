@@ -116,8 +116,7 @@
 111:norfolk_terrier - C
 112:central_asian_shepherd_dog - C
 113:drever - C
-
-114:perro_de_presa_mallorquin - R
+114:perro_de_presa_mallorquin - C
 
 115:epagneul_bleu_de_picardie
 116:posavac_hound

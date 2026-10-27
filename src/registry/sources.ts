@@ -10822,6 +10822,50 @@ export const sources = defineSources({
     accessedOn: "2026-10-27",
     note: "Genomic association investigation by Denyer et al. demonstrating significant risk associations between specific DLA class II immune-response haplotypes and canine diabetes mellitus susceptibility in Samoyeds.",
   },
+  "fci-majorca-mastiff-standard-249": {
+    id: "fci-majorca-mastiff-standard-249",
+    name: "FCI - Majorca Mastiff Official Standard No. 249",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/Nomenclature/Standards/249g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1997-06-13",
+    accessedOn: "2026-10-27",
+    note:
+      "English-language FCI Standard No. 249. The PDF lists the official valid standard publication date as 11 December 1996 and contains height, weight, coat-colour, history, and temperament information.",
+  },
+  "fci-majorca-mastiff-nomenclature-249": {
+    id: "fci-majorca-mastiff-nomenclature-249",
+    name: "FCI - Perro Dogo Mallorquín Nomenclature No. 249",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://fci.be/en/nomenclature/MAJORCA-MASTIFF-249.html",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-10-27",
+    note:
+      "Official breed nomenclature listing the breed's English, French, German, and Spanish names, origin, classification, and recognition details.",
+  },
+  "rsce-dogo-mallorquin-standard": {
+    id: "rsce-dogo-mallorquin-standard",
+    name: "Real Sociedad Canina de España - Dogo Mallorquín (Ca de Bou)",
+    publisher: "Real Sociedad Canina de España (RSCE)",
+    url: "https://www.rsce.es/razas-espanolas-dogo-mallorquin/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-10-27",
+    note:
+      "Spanish breed profile presenting a newer FCI No. 249/2017/E standard version, with history, temperament, coat colour, height, and weight details.",
+  },
+  "commons-ca-de-bou-animaisa": {
+    id: "commons-ca-de-bou-animaisa",
+    name: "Wikimedia Commons - Ca de bou.JPG",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Ca_de_bou.JPG",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-10-27",
+    note:
+      "Photograph by Animaisa. The file page states CC BY-SA 3.0; commercial reuse is allowed with attribution and share-alike conditions.",
+  },
 });
 
 export type SourceId = keyof typeof sources;
