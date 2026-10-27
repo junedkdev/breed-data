@@ -48,8 +48,7 @@
 45:collie,_rough - CG
 46:japanese_chin - CG
 47:petit_brabancon - CG
-
-48:dutch_smoushond - CR
+48:dutch_smoushond - CG
 
 49:dalmatian - C
 50:samoyed - C
@@ -114,9 +113,10 @@
 109:cairn_terrier - C
 110:kooikerhondje - C
 111:norfolk_terrier - C
+112:central_asian_shepherd_dog - C
 
-112:central_asian_shepherd_dog
-113:drever
+113:drever - R
+
 114:perro_de_presa_mallorquin
 115:epagneul_bleu_de_picardie
 116:posavac_hound

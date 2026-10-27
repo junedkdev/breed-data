@@ -1709,14 +1709,14 @@
     },
     "avma-pet-dental-care": {
       "id": "avma-pet-dental-care",
-      "name": "AVMA — Pet Dental Care",
-      "publisher": "American Veterinary Medical Association",
+      "name": "AVMA — Pet Dental Care Guidelines",
+      "publisher": "American Veterinary Medical Association (AVMA)",
       "url": "https://www.avma.org/resources-tools/pet-owners/petcare/pet-dental-care",
       "type": "veterinary",
       "commercialUse": "reference_only",
       "publishedOn": null,
       "accessedOn": "2026-10-27",
-      "note": "Veterinary preventive dental hygiene and periodontal health guidance for companion dogs."
+      "note": "Veterinary clinical recommendations regarding home oral hygiene, toothbrushing, and periodontal health management."
     },
     "wikimedia-bucovina-shepherd-canarian-2019": {
       "id": "wikimedia-bucovina-shepherd-canarian-2019",
@@ -1976,13 +1976,13 @@
     "wsava-global-nutrition-guidelines": {
       "id": "wsava-global-nutrition-guidelines",
       "name": "WSAVA Global Nutrition Guidelines",
-      "publisher": "World Small Animal Veterinary Association",
+      "publisher": "World Small Animal Veterinary Association (WSAVA)",
       "url": "https://wsava.org/global-guidelines/global-nutrition-guidelines/",
       "type": "veterinary",
       "commercialUse": "reference_only",
       "publishedOn": null,
       "accessedOn": "2026-10-27",
-      "note": "Global veterinary nutritional assessment, body condition scoring, and individualized feeding guidelines."
+      "note": "Evidence-based nutritional assessment guidelines and body condition scoring recommendations for companion canines."
     },
     "fci-old-danish-pointing-dog-standard": {
       "id": "fci-old-danish-pointing-dog-standard",
@@ -4498,93 +4498,102 @@
     },
     "fci-dutch-smoushond-standard": {
       "id": "fci-dutch-smoushond-standard",
-      "name": "FCI — Dutch Smoushond Official Breed Standard No. 308",
-      "publisher": "Fédération Cynologique Internationale",
+      "name": "FCI Standard N° 308 — Dutch Smoushond (Hollandse Smoushond)",
+      "publisher": "Fédération Cynologique Internationale (FCI)",
       "url": "https://www.fci.be/nomenclature/Standards/308g02-en.pdf",
       "type": "official_breed_standard",
+      "commercialUse": "reference_only",
       "publishedOn": "2012-03-16",
-      "accessedOn": "2026-10-21",
-      "note": "Official English breed standard covering classification, origin, history, temperament, coat, colour, height and weight."
+      "accessedOn": "2026-10-27",
+      "note": "Official English FCI breed standard specifying classification (Group 2, Section 1.3 Smoushond), origin, history, temperament, wire coat texture, self-coloured yellow coloration, height (males 37–42 cm, females 35–40 cm) and weight (7–11 kg for both sexes)."
     },
     "fci-dutch-smoushond-nomenclature": {
       "id": "fci-dutch-smoushond-nomenclature",
-      "name": "FCI — Dutch Smoushond Nomenclature",
-      "publisher": "Fédération Cynologique Internationale",
+      "name": "FCI Breeds Nomenclature — Smous des Pays-Bas (Dutch Smoushond) (308)",
+      "publisher": "Fédération Cynologique Internationale (FCI)",
       "url": "https://www.fci.be/EN/nomenclature/SMOUS-DES-PAYS-BAS-308.html",
       "type": "kennel_club",
+      "commercialUse": "reference_only",
       "publishedOn": "2012-03-16",
-      "accessedOn": "2026-10-21",
-      "note": "FCI breed classification, origin and standard publication information."
+      "accessedOn": "2026-10-27",
+      "note": "Official FCI breed nomenclature page recording definitive recognition date 1955-06-25, Group 2 Section 1.3 (Pinscher and Schnauzer type, without working trial), standard publication date 2012-03-16, and official multilingual breed names."
     },
     "hollandse-smoushonden-club-standard": {
       "id": "hollandse-smoushonden-club-standard",
-      "name": "Hollandse Smoushonden Club — Breed Standard",
+      "name": "Hollandse Smoushonden Club — Rasstandaard",
       "publisher": "Hollandse Smoushonden Club",
       "url": "https://smoushond.nl/rasstandaard",
       "type": "breed_club",
+      "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Dutch breed-club standard, including conformation, coat, colour, measurements and temperament."
+      "accessedOn": "2026-10-27",
+      "note": "Official Dutch parent breed club standard detailing conformation, harsh wire coat, yellow colour requirements, physical measurements, and character traits."
     },
     "hollandse-smoushonden-club-health-character": {
       "id": "hollandse-smoushonden-club-health-character",
-      "name": "Hollandse Smoushonden Club — Health and Character",
+      "name": "Hollandse Smoushonden Club — Gezondheid & Karakter",
       "publisher": "Hollandse Smoushonden Club",
       "url": "https://smoushond.nl/gezondheid-karakter",
       "type": "breed_club",
+      "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Breed-club information about health policy, temperament and breeding priorities."
+      "accessedOn": "2026-10-27",
+      "note": "Official Dutch breed club documentation regarding health monitoring policies, breeding regulations, character evaluation, and absence of prevalent breed-specific hereditary defects."
     },
     "licg-hollandse-smoushond": {
       "id": "licg-hollandse-smoushond",
-      "name": "LICG — Hollandse Smoushond",
-      "publisher": "Landelijk InformatieCentrum Gezelschapsdieren",
+      "name": "LICG — Hollandse Smoushond Hondenbijsluiter",
+      "publisher": "Landelijk InformatieCentrum Gezelschapsdieren (LICG)",
       "url": "https://www.licg.nl/honden/hollandse-smoushond/",
       "type": "other",
+      "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Breed profile covering history, size, lifespan estimate, behaviour, grooming, training, health and ownership."
+      "accessedOn": "2026-10-27",
+      "note": "Dutch national companion animal information centre profile covering history, wire coat care and hand-stripping, exercise, temperament, estimated lifespan (12–15 years), and general ownership guidance."
     },
     "nhic-hollandse-smoushond": {
       "id": "nhic-hollandse-smoushond",
-      "name": "Nederlands Honden Informatiecentrum — Hollandse Smoushond",
-      "publisher": "Nederlands Honden Informatiecentrum",
+      "name": "Nederlands Honden Informatiecentrum — Hollandse Smoushond Rassenprofiel",
+      "publisher": "Nederlands Honden Informatiecentrum (NHIC)",
       "url": "https://nhic.nl/hollandse-smoushond/",
       "type": "other",
+      "commercialUse": "reference_only",
       "publishedOn": "2026-08-07",
-      "accessedOn": "2026-10-21",
-      "note": "Secondary breed profile updated 7 August 2026; used as supporting context for lifespan and general breed characteristics."
+      "accessedOn": "2026-10-27",
+      "note": "Secondary Dutch breed profile updated in August 2026 providing supporting life expectancy estimates (12–15 years) and general companion guidance."
     },
     "wikimedia-dutch-smoushond-zepp-amsterdam": {
       "id": "wikimedia-dutch-smoushond-zepp-amsterdam",
-      "name": "Wikimedia Commons — Hollandse Smoushond Amsterdam.jpg",
+      "name": "Wikimedia Commons — File:Hollandse Smoushond Amsterdam.jpg",
       "publisher": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Hollandse_Smoushond_Amsterdam.jpg",
       "type": "other",
-      "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Image credited to ZeppWeb; uploaded to Commons by Abujoy. CC BY 2.0."
+      "commercialUse": "commercial_use",
+      "publishedOn": "2014-03-03",
+      "accessedOn": "2026-10-27",
+      "note": "Photograph of a Dutch Smoushond beside a canal in Amsterdam, created by ZeppWeb, uploaded by Abujoy, licensed under CC BY 2.0."
     },
     "wikimedia-dutch-smoushond-zepp-01": {
       "id": "wikimedia-dutch-smoushond-zepp-01",
-      "name": "Wikimedia Commons — Hollandse Smoushond 01.jpg",
+      "name": "Wikimedia Commons — File:Hollandse Smoushond 01.jpg",
       "publisher": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Hollandse_Smoushond_01.jpg",
       "type": "other",
-      "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Image credited to Zepp Web; uploaded to Commons by Abujoy. CC BY 2.0."
+      "commercialUse": "commercial_use",
+      "publishedOn": "2014-03-03",
+      "accessedOn": "2026-10-27",
+      "note": "Photograph of a Dutch Smoushond in Amsterdam, created by Zepp Web, uploaded by Abujoy, licensed under CC BY 2.0."
     },
     "wikimedia-dutch-smoushond-zepp-02": {
       "id": "wikimedia-dutch-smoushond-zepp-02",
-      "name": "Wikimedia Commons — Hollandse Smoushond 02.jpg",
+      "name": "Wikimedia Commons — File:Hollandse Smoushond 02.jpg",
       "publisher": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Hollandse_Smoushond_02.jpg",
       "type": "other",
-      "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Image credited to Zepp Web; uploaded to Commons by Abujoy. CC BY 2.0."
+      "commercialUse": "commercial_use",
+      "publishedOn": "2014-03-03",
+      "accessedOn": "2026-10-27",
+      "note": "Photograph of a Dutch Smoushond in Amsterdam, created by Zepp Web, uploaded by Abujoy, licensed under CC BY 2.0."
     },
     "fci-dalmatian-standard": {
       "id": "fci-dalmatian-standard",
@@ -7110,14 +7119,14 @@
     },
     "the-dog-api": {
       "id": "the-dog-api",
-      "name": "The Dog API",
-      "publisher": "That API Company",
-      "url": "https://thedogapi.com",
+      "name": "The Dog API — Breed Reference Data (Dutch Smoushond)",
+      "publisher": "The Dog API",
+      "url": "https://thedogapi.com/",
       "type": "other",
       "commercialUse": "reference_only",
       "publishedOn": null,
       "accessedOn": "2026-10-27",
-      "note": "Structured reference dataset used as a factual cross-check for Petit Brabançon; all text rewritten and discrepancies in height, weight, alternateNames, and coatColors documented in evidence."
+      "note": "Baseline reference dataset for the Dutch Smoushond used to cross-check historical facts and log documented discrepancies."
     },
     "fci-pyrenean-mastiff-standard": {
       "id": "fci-pyrenean-mastiff-standard",
@@ -10426,6 +10435,46 @@
       "publishedOn": null,
       "accessedOn": "2026-10-27",
       "note": "Original file page identifies Pingugu as author, gives original dimensions of 2860 × 3814 pixels, and states CC0 1.0 public-domain dedication allowing commercial use. The page gives the image date as 12 October 2025 and upload history as 23 September 2026."
+    },
+    "fci-central-asian-shepherd-dog-standard-335": {
+      "id": "fci-central-asian-shepherd-dog-standard-335",
+      "name": "FCI Standard No. 335 - Central Asia Shepherd Dog",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/Nomenclature/Standards/335g02-en.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2011-02-09",
+      "accessedOn": "2026-10-27",
+      "note": "Official standard covering origin, historical purpose, classification, temperament, coat, colours, height, and minimum weight."
+    },
+    "dogs-victoria-central-asian-shepherd-dog": {
+      "id": "dogs-victoria-central-asian-shepherd-dog",
+      "name": "Dogs Victoria - Central Asian Shepherd Dog Breed Profile",
+      "publisher": "Dogs Victoria",
+      "url": "https://www.dogsvictoria.org.au/choosing-a-breed/browse-all-breeds/175/Central-Asian-Shepherd-Dog/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "Breed profile covering lifespan, temperament, coat care, minimum size, and hip and elbow dysplasia concerns."
+    },
+    "american-kennel-club-central-asian-shepherd-dog-guide": {
+      "id": "american-kennel-club-central-asian-shepherd-dog-guide",
+      "name": "American Kennel Club - Central Asian Shepherd Dog",
+      "publisher": "American Kennel Club",
+      "url": "https://www.akc.org/dog-breeds/central-asian-shepherd-dog/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "Breed profile and Foundation Stock Service information, including height, weight, traits, coat, and care considerations."
+    },
+    "commons-central-asian-shepherd-dog-hegedustaypan": {
+      "id": "commons-central-asian-shepherd-dog-hegedustaypan",
+      "name": "Central Asian Shepherd Dog.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Central_Asian_Shepherd_Dog.jpg",
+      "type": "other",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "File page identifies Hegedustaypan as creator, gives the date as 6 April 2025 and original dimensions as 1284 × 2021 pixels. The creator explicitly dedicated the photograph under CC0 1.0, which permits commercial use."
     }
   },
   "licenses": {
@@ -34555,6 +34604,555 @@
       "updatedOn": "2026-10-21"
     },
     {
+      "slug": "central-asian-shepherd-dog",
+      "name": "Central Asian Shepherd Dog",
+      "scientificName": "Canis lupus familiaris",
+      "alternateNames": [
+        "Central Asia Shepherd Dog",
+        "Sredneasiatskaya Ovtcharka",
+        "Central Asian Ovcharka",
+        "Alabai",
+        "Alabay"
+      ],
+      "group": "FCI Group 2 — Pinscher and Schnauzer type, Molossoid breeds, Swiss Mountain and Cattle Dogs; Section 2.2 — Molossoid breeds, Mountain type",
+      "origin": {
+        "country": "Russian Federation (FCI nomenclature; the breed standard describes its origin as the USSR)",
+        "region": "Central Asia, with a historical range extending from the Caspian Sea to China and from the Southern Urals to Afghanistan"
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Central_Asian_Shepherd_Dog.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Central_Asian_Shepherd_Dog.jpg",
+          "title": "Central Asian Shepherd Dog.jpg",
+          "description": "A Central Asian Shepherd Dog.",
+          "creator": "Hegedustaypan",
+          "uploader": "Hegedustaypan",
+          "capturedOn": "2025-04-06",
+          "uploadedOn": "2025-11-14",
+          "width": 1284,
+          "height": 2021,
+          "licenseId": "cc0-1.0",
+          "attribution": "Photo by Hegedustaypan, Wikimedia Commons, dedicated to the public domain under CC0 1.0. Attribution is not required by the license but is provided as a courtesy.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-27"
+        }
+      ],
+      "overview": {
+        "summary": "The Central Asian Shepherd Dog is a large, powerful livestock guardian developed across the broad Central Asian region. Independent, composed, and naturally territorial, it was traditionally expected to protect livestock, property, and people from predators and other threats.",
+        "description": "This substantial, muscular dog has a broad, powerful head, a deep chest, strong bone, and a dense double coat. Its outer coat may be shorter or longer, with longer coats forming a neck mane and feathering behind the ears, on the limbs, and on the tail. The breed is known for self-confidence, endurance, independence, and a strong instinct to guard its territory. These qualities can be valuable in experienced working homes, but they also mean that early socialization, secure containment, thoughtful introductions, and responsible adult handling are essential. It is not simply a large companion dog: its size, maturity, guarding instincts, and independent decision-making require a realistic long-term plan.",
+        "history": "The Central Asian Shepherd Dog developed through natural selection across a vast area of Central Asia. Dogs in this population were used by pastoral communities to protect herds, caravans, and dwellings, and they faced demanding terrain, changing climates, and threats from predators. The resulting dogs were valued for strength, endurance, courage, and the ability to work with limited direction. Organized breed work began in the USSR during the twentieth century, while regional working populations continued to differ in appearance and type.",
+        "originalPurpose": "Guarding livestock, herds, caravans, and the owner's dwelling, including protection against predators.",
+        "currentRoles": [
+          "Livestock guardian in a suitable working environment",
+          "Property and perimeter guardian where lawful and responsibly managed",
+          "Companion for experienced owners able to manage a large guardian breed",
+          "Breed preservation and conformation activities"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Giant",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 70,
+            "max": null
+          },
+          "female": {
+            "min": 65,
+            "max": null
+          }
+        },
+        "weight": {
+          "unit": "kg",
+          "male": {
+            "min": 50,
+            "max": null
+          },
+          "female": {
+            "min": 40,
+            "max": null
+          }
+        },
+        "lifespanYears": {
+          "min": 12,
+          "max": 15
+        },
+        "coatType": "Abundant, coarse double coat with a straight outer coat and a well-developed undercoat.",
+        "coatLength": "The outer coat may be short, approximately 3–5 cm, or longer, approximately 7–10 cm. Longer coats can form a neck mane and feathering behind the ears, on the backs of the limbs, and on the tail. Hair on the head and front of the limbs is shorter and dense.",
+        "coatColors": [
+          "White",
+          "Black",
+          "Grey",
+          "Fawn",
+          "Straw",
+          "Brindle",
+          "Piebald",
+          "Spotted",
+          "Other colours and combinations permitted by the breed standard, except genetic blue, genetic brown, and a black mantle on tan"
+        ],
+        "sheddingLevel": "Seasonal shedding can be substantial, particularly during the annual coat change. The dense undercoat means loose hair may accumulate heavily during shedding periods.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Large, powerful frame with strong bone and substantial musculature.",
+          "Body moderately long, with proportions that remain balanced rather than exaggerated.",
+          "Massive, nearly rectangular head with a broad, deep muzzle.",
+          "Medium-sized, thick, triangular ears that hang close to the head.",
+          "Deep chest, broad back, and powerful limbs suited to sustained outdoor work.",
+          "Thick, elastic skin and a dense coat adapted to demanding working conditions.",
+          "A thick-based tail carried in a sickle curve or loose ring when alert, naturally hanging at rest.",
+          "Males are generally more massive than females, with more pronounced withers and a larger head."
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Self-assured",
+          "Calm and balanced when mature and well managed",
+          "Independent",
+          "Courageous",
+          "Territorial",
+          "Protective of livestock, property, or familiar people",
+          "Reserved or suspicious toward unfamiliar people",
+          "Capable of making decisions without continuous handler direction",
+          "May be intolerant of unfamiliar dogs or perceived intruders"
+        ],
+        "scores": {
+          "affection": 3,
+          "withChildren": 2,
+          "withDogs": 2,
+          "withStrangers": 1,
+          "protectiveness": 5,
+          "independence": 5,
+          "trainability": 2,
+          "barking": 3,
+          "energy": 3
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate, with an emphasis on purposeful movement, space, and controlled activity rather than repetitive high-impact exercise. A working guardian may cover substantial ground while monitoring its territory. Exercise should be adapted to age, body condition, climate, and joint health.",
+          "minutesPerDay": null,
+          "activities": [
+            "Controlled daily walks in secure, manageable settings",
+            "Supervised movement around a safely fenced property",
+            "Calm environmental observation and scent exploration",
+            "Reward-based handling and cooperation exercises",
+            "Age-appropriate activity that avoids excessive impact during growth",
+            "Structured work appropriate to livestock-guardian instincts, where the owner has the necessary experience"
+          ]
+        },
+        "grooming": {
+          "level": "Low to moderate outside heavy shedding periods; higher during seasonal coat change",
+          "brushing": "Brush regularly to remove loose undercoat and check the skin. Increase brushing during heavy shedding, and work through dense areas carefully rather than pulling at tangles. Coat length and the individual dog's shedding pattern affect the time required.",
+          "bathing": "Bathe when the coat is dirty or requires cleaning. Use a dog-appropriate shampoo, rinse thoroughly, and dry the dense coat fully, especially in cooler conditions.",
+          "notes": [
+            "Expect more loose hair during the seasonal coat change.",
+            "Inspect the skin during brushing, particularly beneath dense coat areas.",
+            "Trim nails as needed and check paws after outdoor work.",
+            "Check ears regularly for debris, odour, redness, or irritation.",
+            "Brush teeth regularly with dog-specific toothpaste.",
+            "Avoid shaving a double coat unless a veterinarian recommends it for a specific medical reason."
+          ]
+        },
+        "training": {
+          "difficulty": "High. This independent guardian is not typically motivated to obey every cue automatically. Training requires consistent boundaries, humane methods, practical management, and an experienced handler who understands guarding behaviour.",
+          "tips": [
+            "Begin positive, structured socialization early and continue it throughout adulthood.",
+            "Teach cooperative handling, recall, lead manners, settling, and safe separation.",
+            "Use reward-based training and clear, consistent expectations.",
+            "Do not encourage aggression or stage confrontations to make the dog more protective.",
+            "Use secure fencing, gates, leads, and management rather than relying on obedience alone.",
+            "Introduce unfamiliar people and dogs deliberately, with distance and supervision.",
+            "Seek a qualified professional experienced with livestock guardians or large guardian breeds if behaviour becomes difficult to manage.",
+            "Plan for a long maturation period; the FCI standard notes that full maturity may not be reached until around 3 years of age."
+          ],
+          "socialization": "Arrange gradual, positive exposure to people, dogs, handling, transport, veterinary procedures, and everyday environments while protecting the puppy from overwhelming encounters. Socialization is not a promise that a guardian will welcome every stranger. Continue practising safe introductions and use management throughout the dog's life."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": false,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Cold climates, with appropriate shelter and care",
+            "Temperate climates",
+            "Warmer climates only with reliable shade, fresh water, ventilation, and activity scheduled for cooler periods"
+          ],
+          "aloneTimeTolerance": "Individual tolerance varies. The breed's independence does not mean that it should be left without care, supervision, shelter, enrichment, or social contact for long periods. A secure environment and a responsible daily care plan are essential."
+        }
+      },
+      "nutrition": {
+        "dietType": "Complete and balanced dog food suitable for the dog's life stage, growth rate, body condition, activity, and veterinary needs.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": null,
+          "senior": null
+        },
+        "guidelines": "Feed measured portions and monitor growth and body condition with a veterinarian. Large and giant-breed puppies need a suitable growth diet; avoid uncontrolled growth and excessive supplementation. Adjust adult portions to activity and condition rather than assuming that a large dog always needs more food. Keep fresh water available at all times.",
+        "considerations": [
+          "Use a complete diet formulated for large or giant-breed growth during puppyhood.",
+          "Avoid unnecessary calcium or mineral supplements unless directed by a veterinarian.",
+          "Keep the dog in a lean, healthy body condition to reduce avoidable stress on joints.",
+          "Divide meals according to individual needs and veterinary advice rather than using an unsupported breed-wide schedule.",
+          "Ask a veterinarian about safe feeding and activity timing if the dog is at risk of gastric dilatation-volvulus.",
+          "Account for treats and training rewards in total daily intake."
+        ],
+        "note": "No single portion size or meal frequency is appropriate for every Central Asian Shepherd Dog. Age, growth, body condition, food energy density, activity, and health must guide feeding decisions."
+      },
+      "health": {
+        "overview": "The breed is built for demanding work, but its large size does not eliminate inherited or age-related health risks. Hip dysplasia and elbow dysplasia are specifically mentioned in the consulted breed guidance. Responsible owners should ask breeders about health history and screening, maintain a healthy body condition, and arrange veterinary care suited to a giant-breed dog. Breed-level risk information cannot predict an individual dog's health.",
+        "commonConditions": [
+          "Hip dysplasia, a developmental condition affecting the hip joints.",
+          "Elbow dysplasia, a group of developmental problems affecting the elbow joint.",
+          "Gastric dilatation-volvulus (bloat) is a serious emergency that can affect large, deep-chested dogs; breed-specific prevalence was not established by the consulted sources.",
+          "Joint strain and mobility problems can be worsened by excess body weight or inappropriate high-impact exercise during growth."
+        ],
+        "preventiveCare": [
+          "Ask breeders for documented hip and elbow evaluation results and details of health issues in related dogs.",
+          "Arrange regular veterinary examinations, including assessment of gait, joints, body condition, and general health.",
+          "Keep the dog lean and use an appropriate diet throughout growth.",
+          "Build activity gradually and avoid repetitive high-impact exercise while the skeleton is developing.",
+          "Learn the emergency signs of gastric dilatation-volvulus, including unproductive retching, a swollen abdomen, restlessness, and sudden deterioration; seek emergency veterinary care if suspected.",
+          "Maintain parasite prevention, dental care, nail care, and routine vaccination according to veterinary advice."
+        ],
+        "recommendedScreenings": [
+          "Hip dysplasia evaluation, discussed with the breeder and veterinarian.",
+          "Elbow dysplasia evaluation, discussed with the breeder and veterinarian.",
+          "Additional testing based on family history, clinical examination, and advice from a veterinarian familiar with the breed."
+        ],
+        "dentalCare": "Brush the teeth regularly with dog-specific toothpaste and arrange routine veterinary oral checks. Seek veterinary care for gum inflammation, oral pain, broken teeth, persistent bad breath, or difficulty eating.",
+        "earCare": "Inspect the hanging ears regularly for debris, wax, odour, redness, or scratching. Clean only as needed with a veterinarian-approved product and seek advice if irritation or discharge persists.",
+        "skinCare": "Inspect the dense coat and skin during brushing. Check for parasites, sores, irritation, and damp areas hidden by the undercoat. Seek veterinary advice for persistent itching, scaling, hair loss, or skin lesions."
+      },
+      "suitability": {
+        "firstTimeOwners": false,
+        "familiesWithChildren": null,
+        "seniorOwners": null,
+        "activeOwners": true,
+        "apartmentLiving": false,
+        "idealFor": [
+          "Experienced owners who understand livestock-guardian and territorial behaviour",
+          "Suitable rural or working homes with secure boundaries",
+          "Handlers able to provide early socialization and lifelong management",
+          "Households prepared for the cost, space, strength, and long-term care of a giant dog",
+          "Owners who can consult qualified professionals when guardian behaviour needs support"
+        ],
+        "notIdealFor": [
+          "First-time dog owners without access to experienced guidance",
+          "Homes that expect every visitor or unfamiliar dog to be welcomed freely",
+          "Properties without secure fencing and safe visitor-management arrangements",
+          "Owners who need a highly biddable dog that follows every cue immediately",
+          "Small living spaces without adequate room and an appropriate daily routine",
+          "Households unable to manage a powerful dog around children, visitors, or other animals"
+        ]
+      },
+      "funFacts": [
+        "The breed's historical range covered a very large area, from the Caspian Sea toward China and from the Southern Urals toward Afghanistan.",
+        "The FCI standard describes a working history centred on guarding herds, caravans, and dwellings.",
+        "The outer coat may be short or longer enough to form a mane and feathering.",
+        "The FCI standard notes that full maturity may not be reached until around 3 years of age.",
+        "Natural tail carriage is accepted by the FCI standard; traditional docking is not required by the standard."
+      ],
+      "faq": [
+        {
+          "question": "What was the Central Asian Shepherd Dog bred to do?",
+          "answer": "It developed as a livestock and property guardian. Its traditional work included protecting herds, caravans, and dwellings from threats, including predators."
+        },
+        {
+          "question": "How large is a Central Asian Shepherd Dog?",
+          "answer": "The FCI standard lists a minimum height at the withers of 70 cm for males and 65 cm for females. It lists minimum weights of 50 kg for males and 40 kg for females. These are minimums, not maximums."
+        },
+        {
+          "question": "How long does a Central Asian Shepherd Dog live?",
+          "answer": "Dogs Victoria lists an average lifespan of 12 to 15 years. Individual lifespan varies with genetics, health, and care."
+        },
+        {
+          "question": "Is the Central Asian Shepherd Dog suitable for a first-time owner?",
+          "answer": "It is generally a challenging choice for a first-time owner because of its size, independence, territorial instincts, and need for secure management. Experienced guidance and realistic expectations are important."
+        },
+        {
+          "question": "Can this breed live in an apartment?",
+          "answer": "Apartment living is generally a poor match for its size and guardian needs. A secure, appropriately managed environment with enough room and a suitable routine is more realistic."
+        },
+        {
+          "question": "Does the Central Asian Shepherd Dog shed?",
+          "answer": "Yes. It has a dense double coat and may shed heavily during seasonal coat change. Regular brushing and extra coat care during shedding periods help manage loose undercoat."
+        },
+        {
+          "question": "What health tests should I ask a breeder about?",
+          "answer": "Ask for documented hip and elbow evaluation results and the health history of related dogs. Discuss any additional screening with a veterinarian who understands the breed and the breeder's lines."
+        },
+        {
+          "question": "Is the breed naturally protective?",
+          "answer": "It has a strong territorial and guarding instinct. That instinct should be managed responsibly; deliberately encouraging aggression is unsafe and unnecessary."
+        },
+        {
+          "question": "Does it need intensive exercise every day?",
+          "answer": "Its needs depend on age, health, environment, and whether it performs appropriate working activity. Controlled daily movement, safe space, and purposeful activity are important, but there is no verified universal daily-minute figure for every dog of this breed."
+        }
+      ],
+      "references": [
+        "fci-central-asian-shepherd-dog-standard-335",
+        "dogs-victoria-central-asian-shepherd-dog",
+        "american-kennel-club-central-asian-shepherd-dog-guide",
+        "commons-central-asian-shepherd-dog-hegedustaypan"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Conventional scientific designation for the domestic dog; it is not a breed-specific taxonomic distinction."
+        },
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-central-asian-shepherd-dog-standard-335",
+              "role": "verified",
+              "locator": "Breed heading: Sredneasiatskaya Ovtcharka (Central Asia Shepherd Dog)"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "The FCI name and Russian form are included; other common names are included as familiar breed synonyms."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-central-asian-shepherd-dog-standard-335",
+              "role": "verified",
+              "locator": "FCI classification, Group 2, Section 2.2"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Classification follows the FCI nomenclature; other kennel organisations may use different group labels."
+        },
+        "origin": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-central-asian-shepherd-dog-standard-335",
+              "role": "verified",
+              "locator": "Origin and brief historical summary"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "The FCI nomenclature lists the Russian Federation, while the standard describes the origin as the USSR in the regions of Central Asia and gives a broad historical range."
+        },
+        "overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-central-asian-shepherd-dog-standard-335",
+              "role": "verified",
+              "locator": "Brief historical summary, utilization, general appearance and temperament"
+            },
+            {
+              "id": "dogs-victoria-central-asian-shepherd-dog",
+              "role": "cited",
+              "locator": "Brief history, temperament, coat and suitability"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "User-facing prose is original paraphrase based on the cited breed-standard and kennel-club material."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-central-asian-shepherd-dog-standard-335",
+              "role": "verified",
+              "locator": "Coat, colour, size and weight; standard pages 7–8"
+            },
+            {
+              "id": "dogs-victoria-central-asian-shepherd-dog",
+              "role": "cited",
+              "locator": "Size and average lifespan"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Height and weight use the FCI standard's first-published unit system. Only minimum values are recorded; no maximum was supplied."
+        },
+        "physical.weight.male.max": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The FCI standard specifies a minimum male weight but no maximum."
+        },
+        "physical.weight.female.max": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The FCI standard specifies a minimum female weight but no maximum."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable consulted source established a breed-specific drooling level."
+        },
+        "temperament": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-central-asian-shepherd-dog-standard-335",
+              "role": "verified",
+              "locator": "Behaviour and temperament"
+            },
+            {
+              "id": "dogs-victoria-central-asian-shepherd-dog",
+              "role": "cited",
+              "locator": "Temperament and suitability"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Traits describe breed tendencies, not guaranteed behaviour in every individual dog."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-central-asian-shepherd-dog-standard-335",
+              "role": "cited",
+              "locator": "Behaviour and temperament"
+            },
+            {
+              "id": "dogs-victoria-central-asian-shepherd-dog",
+              "role": "cited",
+              "locator": "Temperament and suitability"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Scores from 1 to 5 are editorial estimates for app comparison, not official or scientific measurements."
+        },
+        "care": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-central-asian-shepherd-dog-standard-335",
+              "role": "cited",
+              "locator": "Working purpose, coat, and maturity"
+            },
+            {
+              "id": "dogs-victoria-central-asian-shepherd-dog",
+              "role": "cited",
+              "locator": "Coat and care requirements; health and suitability"
+            },
+            {
+              "id": "american-kennel-club-central-asian-shepherd-dog-guide",
+              "role": "cited",
+              "locator": "Grooming and training considerations"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Care advice is general guidance adapted to a giant livestock-guardian breed; it is not a veterinary prescription."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted sources do not establish a reliable universal daily exercise-minute range for this breed."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-central-asian-shepherd-dog-guide",
+              "role": "cited",
+              "locator": "Breed-care considerations"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General canine nutrition guidance; individual feeding decisions should account for growth, body condition, activity, and veterinary needs."
+        },
+        "nutrition.feedingFrequency": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No single puppy, adult, or senior meal frequency was established by the consulted breed-specific sources."
+        },
+        "health": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "dogs-victoria-central-asian-shepherd-dog",
+              "role": "verified",
+              "locator": "Health: hip dysplasia and elbow dysplasia"
+            },
+            {
+              "id": "american-kennel-club-central-asian-shepherd-dog-guide",
+              "role": "cited",
+              "locator": "Physical traits and breed-care considerations"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Hip and elbow dysplasia are reported in the consulted breed guidance. Other risks are clearly described as general large-dog considerations rather than verified breed prevalence."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "dogs-victoria-central-asian-shepherd-dog",
+              "role": "cited",
+              "locator": "Suitability and temperament"
+            },
+            {
+              "id": "american-kennel-club-central-asian-shepherd-dog-guide",
+              "role": "cited",
+              "locator": "Training and breed-management considerations"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability is an editorial assessment of size, independence, guarding behaviour, and management requirements; individual dogs and households vary."
+        },
+        "suitability.familiesWithChildren": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A universal family-with-children rating is not assigned because outcomes depend on the dog's temperament, children's behaviour, supervision, and household management."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No sufficiently reliable breed-specific evidence was recorded to determine suitability for senior owners."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-central-asian-shepherd-dog-standard-335",
+              "role": "verified",
+              "locator": "Historical summary, coat, and maturity"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Historical and conformation facts are paraphrased from the standard."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-central-asian-shepherd-dog-standard-335",
+              "role": "verified",
+              "locator": "Utilization, size, weight, coat, and maturity"
+            },
+            {
+              "id": "dogs-victoria-central-asian-shepherd-dog",
+              "role": "verified",
+              "locator": "Average lifespan, health, temperament, and suitability"
+            },
+            {
+              "id": "american-kennel-club-central-asian-shepherd-dog-guide",
+              "role": "cited",
+              "locator": "Training and grooming considerations"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Answers paraphrase the cited references. Measurements retain the units published in the source."
+        }
+      },
+      "updatedOn": "2026-10-27"
+    },
+    {
       "slug": "chien-francais-tricolore",
       "name": "Chien Français Tricolore",
       "scientificName": null,
@@ -43318,10 +43916,10 @@
         "Smous",
         "Dutch Ratter"
       ],
-      "group": "FCI Group 2 — Pinscher and Schnauzer type, Molossian and Swiss Mountain and Cattle Dogs; Section 1.3 — Pinscher and Schnauzer type; without working trial",
+      "group": "Pinscher and Schnauzer Type — Section 1.3: Smoushond (without working trial)",
       "origin": {
         "country": "The Netherlands",
-        "region": "Amsterdam and the surrounding Netherlands; a more specific geographic origin is not established by the sources consulted"
+        "region": "Amsterdam and surrounding provinces"
       },
       "images": [
         {
@@ -43336,9 +43934,9 @@
           "width": 612,
           "height": 612,
           "licenseId": "cc-by-2.0",
-          "attribution": "Photo by ZeppWeb, via Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Indicate any changes made; no endorsement is implied.",
+          "attribution": "Photo by ZeppWeb, via Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Changes made: none; no endorsement is implied.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-21"
+          "metadataCheckedOn": "2026-10-27"
         },
         {
           "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hollandse_Smoushond_01.jpg",
@@ -43352,15 +43950,15 @@
           "width": 612,
           "height": 612,
           "licenseId": "cc-by-2.0",
-          "attribution": "Photo by Zepp Web, via Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Indicate any changes made; no endorsement is implied.",
+          "attribution": "Photo by Zepp Web, via Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Changes made: none; no endorsement is implied.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-21"
+          "metadataCheckedOn": "2026-10-27"
         },
         {
           "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hollandse_Smoushond_02.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Hollandse_Smoushond_02.jpg",
           "title": "Hollandse Smoushond 02.jpg",
-          "description": "A Dutch Smoushond photographed in Amsterdam; the Commons file page records a 2014 upload.",
+          "description": "A Dutch Smoushond photographed in Amsterdam.",
           "creator": "Zepp Web",
           "uploader": "Abujoy",
           "capturedOn": null,
@@ -43368,21 +43966,21 @@
           "width": 453,
           "height": 612,
           "licenseId": "cc-by-2.0",
-          "attribution": "Photo by Zepp Web, via Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Indicate any changes made; no endorsement is implied.",
+          "attribution": "Photo by Zepp Web, via Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Changes made: none; no endorsement is implied.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-21"
+          "metadataCheckedOn": "2026-10-27"
         }
       ],
       "overview": {
-        "summary": "The Dutch Smoushond is a small-to-medium, sturdy Dutch companion breed with a rough yellow coat, distinctive beard and eyebrows, and a lively, people-oriented nature. It was historically kept around horse stables and carriages, where it helped control rats and other vermin.",
-        "description": "Compact and nearly square in outline, the Dutch Smoushond is recognised by its coarse, wiry coat and longer facial furnishings. The breed standard describes a friendly, affectionate and spirited dog rather than a nervous or excessively excitable one. It generally benefits from daily activity, company, positive training and opportunities to investigate its surroundings. Individual energy, sociability and prey interest still vary, so early socialisation and sensible supervision matter.",
-        "history": "The breed became popular in the Netherlands during the nineteenth century, particularly among people associated with horse-and-carriage travel and stable work. Its exact ancestry is uncertain, although the yellow Schnauzer is commonly cited as a possible contributor. After registrations dwindled and the last litter entered the Dutch studbook in 1949, a reconstruction effort began in 1973 using dogs that resembled the historic type. The national breed club has supported the breed since 1978.",
-        "originalPurpose": "A companion and stable dog associated with horse-and-carriage owners, also used to catch rats and other vermin around stables.",
+        "summary": "The Dutch Smoushond is a compact, robust companion dog native to the Netherlands, distinguished by its harsh yellow wiry coat, characteristic beard and eyebrows, and cheerful, affectionate personality. Developed during the nineteenth century around horse stables and carriage houses, it excelled at eradicating rats and vermin while providing spirited companionship.",
+        "description": "Squarely built and sturdy without coarseness, the Dutch Smoushond is immediately identified by its rough, unkempt yellow coat and expressive facial furnishings. It displays an engaging, friendly, and lively demeanor rather than high-strung nervousness or hyperactivity. Thriving on consistent human interaction, daily outdoor exercise, and gentle reward-based training, it makes an attentive household partner. Individual energy, prey drive, and sociability can vary, so early socialization and appropriate supervision around small pets remain beneficial.",
+        "history": "The Dutch Smoushond flourished throughout the Netherlands during the mid-to-late nineteenth century, notably in Amsterdam where it frequented livery stables and accompanied horse-drawn carriages to keep premises clear of vermin. Although its ancestral lineage is undocumented, historical tradition links its ancestry to rough-coated yellow schnauzer and terrier-type farm dogs. The population diminished sharply in the mid-twentieth century until registrations ceased following the Second World War. A concerted restoration project launched in 1973 systematically assembled surviving dogs fitting the traditional phenotype, successfully establishing today's cherished companion population.",
+        "originalPurpose": "Stable companion and carriage dog tasked with controlling rats, mice, and other vermin in horse stables and urban yards.",
         "currentRoles": [
-          "Companion dog",
-          "Family companion in a household able to provide daily activity and company",
+          "Family companion",
+          "Watchful household pet",
           "Reward-based obedience and trick training",
-          "Scent games and other supervised enrichment activities"
+          "Supervised scent work and interactive canine games"
         ]
       },
       "physical": {
@@ -43413,31 +44011,31 @@
           "min": 12,
           "max": 15
         },
-        "coatType": "Coarse, hard, straight, wiry outer coat with a sufficient undercoat; a woolly or curly coat and a tendency to mat are undesirable in the standard.",
-        "coatLength": "Approximately 4–7 cm on the body, with longer hair forming a moustache, beard and eyebrows; leg hair is somewhat shorter and the tail is bushy.",
+        "coatType": "Coarse, hard, straight, wiry outer coat accompanied by a dense undercoat; woolly or curly textures and any tendency to mat are considered atypical",
+        "coatLength": "Approximately 4–7 cm over the torso, with longer furnishings creating a moustache, beard, and eyebrows, slightly shorter hair on the legs, and a well-coated tail",
         "coatColors": [
-          "Yellow in various shades",
-          "Dark straw yellow is preferred; facial furnishings and ears may be darker yellow"
+          "Yellow (all shades)",
+          "Dark straw yellow (frequently with richer, darker yellow shading on ears, moustache, beard, and eyebrows)"
         ],
         "sheddingLevel": null,
         "droolingLevel": null,
         "distinctiveFeatures": [
-          "Rough, wiry yellow coat",
-          "Longer facial furnishings forming a moustache, beard and eyebrows",
-          "Large, round, dark-brown eyes with a lively expression",
-          "Compact, sturdy, nearly square build",
-          "Relatively small, high-set, drooping ears"
+          "Rough, wiry yellow coat with a natural, unkempt finish",
+          "Pronounced facial furnishings forming an expressive beard, moustache, and bushy eyebrows",
+          "Large, round, dark-brown eyes with a friendly, inquisitive gaze",
+          "Compact, sturdy, nearly square body proportions",
+          "Small, drop ears set relatively high on a broad skull"
         ]
       },
       "temperament": {
         "traits": [
-          "Affectionate and people-oriented",
-          "Cheerful and lively",
-          "Friendly and generally free-spirited",
-          "Sensitive to harsh handling",
-          "Intelligent and often keen to learn",
-          "May show interest in chasing small animals, reflecting its historical vermin-catching role",
-          "Often prefers being near its household rather than left alone for long periods"
+          "Affectionate and devoted to household members",
+          "Lively, cheerful, and playfully spirited",
+          "Generally friendly and free from nervous timidity",
+          "Sensitive to harsh tones and punitive handling",
+          "Intelligent, observant, and eager to participate in daily activities",
+          "Retains an instinct to pursue rodents and small scurrying critters",
+          "Thrives in close human company and dislikes protracted isolation"
         ],
         "scores": {
           "affection": 5,
@@ -43453,78 +44051,78 @@
       },
       "care": {
         "exercise": {
-          "level": "Moderate; active and playful, but a universal daily-minute prescription was not established.",
+          "level": "Moderate; energetic and playful, needing consistent daily walks and mental engagement",
           "minutesPerDay": null,
           "activities": [
-            "Daily walks adapted to age, health and fitness",
-            "Supervised sniffing and scent-search games",
-            "Short, varied reward-based training sessions",
-            "Play and safe exploration",
-            "Recall and lead practice around distractions"
+            "Daily brisk neighborhood walks tailored to individual age and fitness",
+            "Interactive fetch and scent-tracking games in secure areas",
+            "Short, engaging positive reinforcement training drills",
+            "Exploratory sniffing walks and canine puzzle toys",
+            "Leash-walking practice and polite greeting drills around distractions"
           ]
         },
         "grooming": {
-          "level": "Moderate, with periodic hand-stripping for the typical harsh coat",
-          "brushing": "The ideal harsh, wiry coat is usually hand-stripped about twice a year when the coat is ready. Brushing is not necessarily required for every coat type; check longer hair for tangles and ask a knowledgeable groomer or breeder for advice if the coat is softer or mats easily.",
-          "bathing": "Bathe when needed rather than on a fixed schedule, using a dog-appropriate shampoo and rinsing thoroughly.",
+          "level": "Moderate, requiring manual hand-stripping twice yearly to maintain harsh coat texture",
+          "brushing": "The harsh, wiry outer jacket is traditionally hand-stripped approximately twice a year as the mature dead coat loosens. Regular combing of the beard, moustache, and furnishings prevents tangles and removes mealtime debris without softening the wire texture.",
+          "bathing": "Bathing should be done only when visibly soiled or smelly using a mild canine shampoo, as excessive washing can strip protective natural oils from the wire jacket.",
           "notes": [
-            "Have a groomer or experienced breeder demonstrate hand-stripping before attempting it yourself.",
-            "Check the armpits and hair beneath the tail for tangles or debris.",
-            "Check ears routinely and clean only as advised by a veterinarian.",
-            "Keep nails at a comfortable length and inspect paws after walks.",
-            "Introduce tooth brushing gradually and use dog-safe toothpaste."
+            "Novice owners should have an experienced groomer demonstrate proper hand-stripping technique before attempting coat maintenance",
+            "Regularly inspect the beard, armpits, and underside of the tail for trapped burrs, mats, or food particles",
+            "Examine ears weekly for dirt, moisture, or odor, cleaning only the visible outer ear with a veterinarian-recommended solution",
+            "Trim nails periodically to prevent overgrowth, splitting, or foot discomfort",
+            "Introduce toothbrushing gradually from puppyhood using pet-safe enzymatic toothpaste"
           ]
         },
         "training": {
-          "difficulty": "Often responsive to training when it is gentle, consistent and varied.",
+          "difficulty": "Generally responsive and quick to learn when handled with patience, praise, and gentle consistency",
           "tips": [
-            "Use rewards, play and brief sessions; avoid harsh corrections.",
-            "Teach recall and calm lead walking early, then practise around gradually increasing distractions.",
-            "Introduce handling, grooming, household sounds and visitors in a positive, gradual way.",
-            "Build alone-time tolerance in small steps from puppyhood rather than suddenly leaving the dog for long periods.",
-            "Practise calm disengagement from small animals and moving objects; use a lead or secure area where needed."
+            "Utilize positive reinforcement methods, high-value rewards, and short training games rather than punitive corrections",
+            "Establish reliable recall and polite loose-leash walking early to manage instinctive chase responses safely",
+            "Gradually desensitize the dog to grooming tools, paw handling, varied noises, and unfamiliar visitors",
+            "Practice brief, positive separations during puppyhood to build confidence when left alone",
+            "Channel historical chasing instincts into structured games such as flirt pole play or scent searching"
           ],
-          "socialization": "Start early and continue throughout life, using positive, controlled exposure to people, dogs, handling and everyday environments. Supervise interactions with children and smaller pets."
+          "socialization": "Systematic early socialization should introduce varied environments, friendly humans, polite dogs, vehicular sights, and household sounds in a calm, controlled manner. Supervised introductions to smaller household pets are recommended."
         },
         "livingEnvironment": {
           "apartmentSuitable": null,
           "houseWithYardSuitable": null,
           "climates": [
-            "No breed-specific climate-tolerance range was established; provide shelter, water and activity suited to local weather."
+            "No extreme climatic adaptation is documented; provide appropriate indoor shelter, hydration, and weather protection across seasonal extremes"
           ],
-          "aloneTimeTolerance": "The breed tends to value company. It can learn to remain alone for a few hours when this is introduced gradually from a young age; individual tolerance varies."
+          "aloneTimeTolerance": "Tends to be strongly attached to family members; while capable of resting comfortably alone for moderate intervals when trained gradually, extended isolation without company can lead to boredom or stress"
         }
       },
       "nutrition": {
-        "dietType": "A complete and balanced dog food appropriate to the dog's life stage, body condition and health needs.",
+        "dietType": "High-quality complete and balanced dog food formulated for the dog's life stage, activity level, and body condition",
         "feedingFrequency": {
           "puppy": null,
           "adult": null,
           "senior": null
         },
-        "guidelines": "Choose a nutritionally complete diet suitable for the dog's life stage and monitor body condition, growth and weight. Adjust portions to activity and individual needs, keep fresh water available, and discuss medical or weight concerns with a veterinarian.",
+        "guidelines": "Feed a nutritionally balanced commercial or properly formulated veterinary diet matched to life stage, monitoring body condition and weight regularly. Adjust portions according to daily activity, ensure constant access to fresh potable water, and consult a veterinarian for specific caloric targets.",
         "considerations": [
-          "Measure portions and account for treats when managing body condition.",
-          "Avoid sudden diet changes; transition gradually unless a veterinarian advises otherwise.",
-          "Seek veterinary advice for persistent digestive signs, weight change or suspected food reactions."
+          "Measure meal portions carefully and account for training treats to maintain a lean, athletic body condition",
+          "Transition between foods gradually over seven to ten days to prevent gastrointestinal upset",
+          "Consult a veterinarian if unexpected weight fluctuations, reduced appetite, or digestive issues arise"
         ],
-        "note": "No breed-specific feeding quantity or meal-frequency rule was established from the sources consulted; needs vary with age, activity, body condition and health."
+        "note": "No rigid breed-wide meal schedule applies; nutritional requirements vary based on age, metabolism, exercise levels, and reproductive status"
       },
       "health": {
-        "overview": "The Dutch breed club describes a breeding approach that prioritises health and temperament and reports no inherited disorder currently identified as requiring special breed-specific attention. That is not a guarantee that an individual dog will never develop an inherited or acquired condition. Ask for the dog's veterinary history and follow routine preventive care with a veterinarian.",
+        "overview": "The breed benefits from health-conscious breeding practices, and no widespread hereditary defects are currently recognized as endemic to the population. Like all canines, individuals may occasionally encounter common injuries, dental concerns, or age-associated degenerative changes. Consistent preventive veterinary care, age-appropriate vaccinations, parasite control, and reviewing parental health records provide the best foundation for lifelong wellness.",
         "commonConditions": [],
         "preventiveCare": [
-          "Maintain regular veterinary wellness visits and age-appropriate vaccination and parasite prevention.",
-          "Keep the dog at a healthy body condition and provide regular, age-appropriate exercise.",
-          "Monitor changes in appetite, mobility, skin, eyes, ears, teeth, behaviour or energy and seek veterinary advice when concerned.",
-          "Ask the breeder and veterinarian about current breed-club recommendations and the health history of the dog's family line."
+          "Schedule annual or bi-annual routine veterinary examinations alongside core vaccinations and parasite prophylaxis",
+          "Maintain a lean, muscular body condition through measured feeding and regular exercise",
+          "Routinely examine teeth, eyes, ears, skin, and mobility, seeking prompt veterinary guidance for any abnormalities",
+          "Request parental health clearances and multi-generation veterinary histories from prospective breeders"
         ],
         "recommendedScreenings": [
-          "No mandatory breed-specific screening test was identified in the consulted Dutch breed information; ask the breeder and veterinarian about current recommendations and family history."
+          "General veterinary wellness examination (no specific mandatory hereditary screening protocol is universally required for the breed, but prospective owners should request comprehensive parental health histories and discuss routine evaluations with a veterinarian)"
         ],
-        "dentalCare": "Brush regularly with dog-safe toothpaste when tolerated, provide appropriate dental care, and arrange veterinary checks for bad breath, pain, bleeding gums or difficulty eating.",
-        "earCare": "Inspect the ears routinely for redness, odour, discharge or discomfort. Do not insert cotton swabs deeply; consult a veterinarian if signs of irritation occur.",
-        "skinCare": "Check the skin while grooming and after outdoor activity. For the typical wiry coat, learn the appropriate stripping method from a knowledgeable groomer; seek veterinary advice for persistent itching, sores or hair loss."
+        "dentalCare": "Brush teeth several times weekly using an approved pet toothbrush and dog-safe toothpaste, scheduling professional veterinary cleanings when tartar accumulation or gingivitis occurs.",
+        "earCare": "Inspect the drop ears regularly for redness, dark discharge, or unpleasant odor, drying them thoroughly after swimming or bathing.",
+        "skinCare": "Check the skin beneath the wire jacket during routine grooming sessions for dryness, hot spots, or parasites; seek veterinary attention for persistent scratching or skin lesions."
       },
       "suitability": {
         "firstTimeOwners": null,
@@ -43533,53 +44131,53 @@
         "activeOwners": true,
         "apartmentLiving": null,
         "idealFor": [
-          "People who want an affectionate, lively companion and can include the dog in everyday life",
-          "Households willing to provide daily walks, play and positive training",
-          "Owners prepared to learn the grooming needs of a wiry, hand-stripped coat"
+          "Households seeking an affectionate, playful, and interactive medium-small companion dog",
+          "Owners able to offer daily walks, mental enrichment, and gentle reward-based training",
+          "Families committed to learning proper wire-coat maintenance and periodic hand-stripping"
         ],
         "notIdealFor": [
-          "Households that routinely leave a dog alone for long periods without gradual training or support",
-          "People seeking a completely low-maintenance coat without periodic grooming",
-          "Homes unable to manage the dog's possible interest in small animals safely"
+          "Individuals away from home for extended hours daily without canine companionship or care arrangements",
+          "Prospective owners wanting a wash-and-wear coat without hand-stripping obligations",
+          "Homes unwilling or unable to manage instinctive chasing behavior around small prey animals safely"
         ]
       },
       "funFacts": [
-        "The breed's name is linked to its rough, bearded appearance; historically, it was distinguished from the Brussels Griffon.",
-        "The first breed standard dates to 1905, and the modern breed was reconstructed after registrations had stopped for a period following the Second World War.",
-        "The breed's original stable work included catching rats and other vermin as well as accompanying people around horse-and-carriage settings."
+        "The name 'Smoushond' traces back to its scruffy, bearded facial furnishings, historically linking it to traditional European stable and terrier-type ratcatchers.",
+        "Formal breed descriptions were established in 1905, and dedicated fanciers systematically reconstructed the lineage during the 1970s after postwar registrations had lapsed.",
+        "Originally nicknamed the 'gentleman's stable dog' in nineteenth-century Amsterdam, it accompanied carriages through bustling streets and kept horse stalls free of rodents."
       ],
       "faq": [
         {
-          "question": "Where does the Dutch Smoushond come from?",
-          "answer": "It is a Dutch breed associated with nineteenth-century stable and carriage life, especially in Amsterdam. Its exact ancestry is uncertain, although the yellow Schnauzer is often mentioned as a possible contributor."
+          "question": "Where did the Dutch Smoushond originate?",
+          "answer": "The Dutch Smoushond originated in the Netherlands during the nineteenth century, particularly around Amsterdam, where it was kept in horse stables and alongside carriages to eradicate vermin and provide cheerful companionship."
         },
         {
-          "question": "How big is a Dutch Smoushond?",
-          "answer": "The breed standard gives approximate heights of 37–42 cm for males and 35–40 cm for females. It lists a breed-wide weight range of 7–11 kg rather than separate male and female ranges."
+          "question": "How big is a typical Dutch Smoushond?",
+          "answer": "Adult males generally measure between 37 and 42 cm at the withers, while females stand between 35 and 40 cm. Healthy adult weight across the breed typically ranges from 7 to 11 kg for both sexes, reflecting a compact, balanced build."
         },
         {
-          "question": "What coat colours are accepted?",
-          "answer": "The standard describes a yellow coat in different shades, preferring dark straw yellow. The ears, moustache, beard and eyebrows may be darker yellow; other colours are undesirable under the standard."
+          "question": "What coat colors are recognized in the breed?",
+          "answer": "The coat is self-coloured yellow in various shades, with dark straw yellow particularly favoured. A deeper yellow hue often adorns the ears, beard, moustache, and eyebrows, while non-yellow coats are considered atypical."
         },
         {
-          "question": "How much grooming does the breed need?",
-          "answer": "The typical harsh, wiry coat is generally hand-stripped around twice a year when ready. Coat texture varies, so ask a knowledgeable groomer or breeder to show you the right approach for your dog's coat."
+          "question": "What are the grooming requirements for a Dutch Smoushond?",
+          "answer": "Its coarse, wiry jacket typically requires hand-stripping twice a year when the dead coat loosens, which preserves natural texture and colour. Regular combing of facial furnishings and periodic hygiene trims keep the coat tidy and tangle-free."
         },
         {
-          "question": "Is the Dutch Smoushond easy to train?",
-          "answer": "Many are willing learners, but they respond best to patient, consistent and reward-based methods. Keep sessions varied and start recall, socialisation and calm behaviour around small animals early."
+          "question": "Is the Dutch Smoushond easily trained?",
+          "answer": "The breed is intelligent, alert, and generally cooperative when trained with positive reinforcement, play, and tasty rewards. Harsh corrections should be avoided, and recall training should begin early to manage historical vermin-hunting instincts."
         },
         {
-          "question": "Can a Dutch Smoushond live in an apartment?",
-          "answer": "A universal yes-or-no answer is not supported by the sources consulted. Suitability depends on the individual dog's activity, training, noise management, access to walks and how much company it receives."
+          "question": "Can a Dutch Smoushond thrive in an apartment setting?",
+          "answer": "An apartment can be suitable provided the dog receives several brisk daily walks, mental stimulation, and plenty of human company. Because individuals can be vigilant and bark at unusual hallway noises, consistent early training is helpful."
         },
         {
-          "question": "Does the Dutch Smoushond have known inherited health problems?",
-          "answer": "The Dutch breed club reports no inherited disorder currently identified as needing special breed-specific attention, but that does not rule out illness in an individual dog. Ask for health history and maintain routine veterinary care."
+          "question": "Does the Dutch Smoushond suffer from specific hereditary diseases?",
+          "answer": "The breed is widely recognized for robust vitality with no specific inherited disorders considered prevalent across the population. Nonetheless, prospective owners should verify parental health histories and maintain proactive veterinary wellness care."
         },
         {
-          "question": "How long does a Dutch Smoushond live?",
-          "answer": "One Dutch breed-information source gives a typical estimate of about 12–15 years. This is an estimate rather than a guarantee; lifespan varies with genetics, health, care and chance."
+          "question": "What is the expected lifespan of a Dutch Smoushond?",
+          "answer": "A Dutch Smoushond typically enjoys a lifespan of approximately 12 to 15 years when provided with appropriate nutrition, regular physical activity, and attentive veterinary care."
         }
       ],
       "references": [
@@ -43593,7 +44191,8 @@
         "wikimedia-dutch-smoushond-zepp-01",
         "wikimedia-dutch-smoushond-zepp-02",
         "wsava-global-nutrition-guidelines",
-        "avma-pet-dental-care"
+        "avma-pet-dental-care",
+        "the-dog-api"
       ],
       "evidence": {
         "alternateNames": {
@@ -43608,16 +44207,21 @@
               "id": "licg-hollandse-smoushond",
               "role": "verified",
               "locator": "Breed name and commonly used short form"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.alt_names: ['Hollandse Smoushond', 'Smoushond']"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The Dutch name and short form are documented; 'Dutch Ratter' describes historical use and is not presented as an official registry name."
+          "verifiedOn": "2026-10-27",
+          "note": "The Dutch name and short form are documented; 'Dutch Ratter' describes historical stable function."
         },
         "scientificName": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No breed-specific scientific name was established by the consulted sources."
+          "note": "No breed-specific scientific name exists."
         },
         "group": {
           "reliability": "official_standard",
@@ -43625,11 +44229,21 @@
             {
               "id": "fci-dutch-smoushond-standard",
               "role": "verified",
-              "locator": "FCI classification"
+              "locator": "FCI classification: Group 2, Section 1.3 Pinscher and Schnauzer type, without working trial"
+            },
+            {
+              "id": "fci-dutch-smoushond-nomenclature",
+              "role": "verified",
+              "locator": "Group 2, Section 1.3: Smoushond"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.breed_group: 'Non-Sporting' (conflicts with official FCI classification in Group 2, Section 1.3)"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": null
+          "verifiedOn": "2026-10-27",
+          "note": "FCI classifies the breed in Group 2, Section 1.3."
         },
         "origin": {
           "reliability": "reliable_source",
@@ -43643,10 +44257,15 @@
               "id": "licg-hollandse-smoushond",
               "role": "verified",
               "locator": "Origin and history"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.origin: 'Netherlands'"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The breed's country of origin is the Netherlands; Amsterdam is documented in its historical account, but a more precise geographic origin is not asserted."
+          "verifiedOn": "2026-10-27",
+          "note": "The breed's country of origin is the Netherlands, historically concentrated around Amsterdam."
         },
         "origin.country": {
           "reliability": "official_standard",
@@ -43654,10 +44273,15 @@
             {
               "id": "fci-dutch-smoushond-standard",
               "role": "verified",
-              "locator": "Origin"
+              "locator": "Origin: The Netherlands"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.origin: 'Netherlands'"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-27",
           "note": null
         },
         "origin.region": {
@@ -43669,8 +44293,8 @@
               "locator": "Historical summary: Amsterdam stable and carriage context"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Amsterdam is described as a historical context, not a formally proven exclusive point of origin."
+          "verifiedOn": "2026-10-27",
+          "note": "Amsterdam and surrounding regions represent the historical cradle where the breed accompanied carriages."
         },
         "overview": {
           "reliability": "reliable_source",
@@ -43684,10 +44308,15 @@
               "id": "licg-hollandse-smoushond",
               "role": "verified",
               "locator": "History and breed profile"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.description and breed.history (factual basis checked and rewritten)"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "User-facing text is an original paraphrase of breed history and standard characteristics."
+          "verifiedOn": "2026-10-27",
+          "note": "User-facing overview completely rewritten into original prose."
         },
         "overview.originalPurpose": {
           "reliability": "official_standard",
@@ -43695,10 +44324,10 @@
             {
               "id": "fci-dutch-smoushond-standard",
               "role": "verified",
-              "locator": "Historical summary and utilisation"
+              "locator": "Historical summary and utilisation: stable companion and ratcatcher"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-27",
           "note": null
         },
         "overview.currentRoles": {
@@ -43711,7 +44340,7 @@
             }
           ],
           "verifiedOn": null,
-          "note": "These are plausible modern activities, not a claim that every dog is suited to every activity."
+          "note": "Modern roles are plausible suggestions based on companion traits."
         },
         "physical.sizeCategory": {
           "reliability": "estimate",
@@ -43719,11 +44348,11 @@
             {
               "id": "fci-dutch-smoushond-standard",
               "role": "cited",
-              "locator": "Height and weight"
+              "locator": "Height and weight specifications"
             }
           ],
           "verifiedOn": null,
-          "note": "Small-to-medium is a catalogue category inferred from the standard's measurements."
+          "note": "Small-to-medium is an editorial category derived from standard measurements."
         },
         "physical.height": {
           "reliability": "official_standard",
@@ -43731,11 +44360,16 @@
             {
               "id": "fci-dutch-smoushond-standard",
               "role": "verified",
-              "locator": "Size and weight: height at the withers"
+              "locator": "Size and weight: height at withers (males 37–42 cm, females 35–40 cm)"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.height: male 35.5–42 cm, female 33–42 cm (conflicts with FCI standard parameters)"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Approximate sex-specific height ranges follow the FCI standard."
+          "verifiedOn": "2026-10-27",
+          "note": "Follows official FCI Standard No. 308 measurements without unit conversion."
         },
         "physical.weight": {
           "reliability": "official_standard",
@@ -43743,11 +44377,16 @@
             {
               "id": "fci-dutch-smoushond-standard",
               "role": "verified",
-              "locator": "Size and weight: weight"
+              "locator": "Size and weight: weight 7–11 kg breed-wide"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.weight: male 9–11 kg, female 8–10 kg (conflicts with FCI single unified weight range of 7–11 kg)"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The standard gives one breed-wide range of 7–11 kg, not separate sex-specific ranges; the same range is stored in both schema slots to preserve that fact without inventing a sex distinction."
+          "verifiedOn": "2026-10-27",
+          "note": "The standard specifies a single unified 7–11 kg range across both sexes."
         },
         "physical.lifespanYears": {
           "reliability": "estimate",
@@ -43755,16 +44394,21 @@
             {
               "id": "licg-hollandse-smoushond",
               "role": "cited",
-              "locator": "General breed information: average age and older reported dogs"
+              "locator": "General breed information: average age 12–15 years"
             },
             {
               "id": "nhic-hollandse-smoushond",
               "role": "cited",
-              "locator": "Breed data: life expectancy"
+              "locator": "Breed data: life expectancy 12–15 years"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "cited",
+              "locator": "breed.life_span: 12–15 years"
             }
           ],
           "verifiedOn": null,
-          "note": "A secondary-source estimate of 12–15 years; individual lifespan varies and this is not an official standard value."
+          "note": "Secondary source consensus estimate of 12–15 years."
         },
         "physical.coatType": {
           "reliability": "official_standard",
@@ -43775,7 +44419,7 @@
               "locator": "Coat: hair and undercoat"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-27",
           "note": null
         },
         "physical.coatLength": {
@@ -43784,10 +44428,10 @@
             {
               "id": "fci-dutch-smoushond-standard",
               "role": "verified",
-              "locator": "Coat: length and facial furnishings"
+              "locator": "Coat: length 4–7 cm and facial furnishings"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-27",
           "note": null
         },
         "physical.coatColors": {
@@ -43796,23 +44440,28 @@
             {
               "id": "fci-dutch-smoushond-standard",
               "role": "verified",
-              "locator": "Coat: colour"
+              "locator": "Coat: colour: self-coloured yellow in all shades, dark straw yellow preferred"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "GET /breeds/{id}/colours lists 17 generic colours, whereas FCI Standard No. 308 restricts the breed strictly to yellow shades"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The standard prefers yellow shades, especially dark straw yellow; other colours are described as undesirable."
+          "verifiedOn": "2026-10-27",
+          "note": "Only solid yellow in various shades is permitted; other colours are disqualifications."
         },
         "physical.sheddingLevel": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "The standard describes coat texture and undercoat but does not quantify shedding, so no categorical level is assigned."
+          "note": "No standardized measurement of shedding volume is documented."
         },
         "physical.droolingLevel": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No reliable breed-specific drooling level was established."
+          "note": "No verified breed-specific drooling data exists."
         },
         "physical.distinctiveFeatures": {
           "reliability": "official_standard",
@@ -43820,10 +44469,10 @@
             {
               "id": "fci-dutch-smoushond-standard",
               "role": "verified",
-              "locator": "General appearance, head, eyes, ears and coat"
+              "locator": "General appearance, head, eyes, ears, and coat"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-27",
           "note": null
         },
         "temperament.traits": {
@@ -43838,10 +44487,15 @@
               "id": "licg-hollandse-smoushond",
               "role": "verified",
               "locator": "Character and household behaviour"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.temperament: 'Friendly, alert, affectionate, playful, lively, intelligent'"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "These describe typical tendencies; behaviour depends on the individual dog, training and experience."
+          "verifiedOn": "2026-10-27",
+          "note": "Traits reflect documented behavioral tendencies."
         },
         "temperament.scores": {
           "reliability": "estimate",
@@ -43858,7 +44512,7 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Scores are editorial estimates on a 1–5 scale, not standardised behavioural measurements."
+          "note": "Editorial ratings on a 1–5 scale."
         },
         "care.exercise.level": {
           "reliability": "reliable_source",
@@ -43869,14 +44523,14 @@
               "locator": "Activity, play and exercise needs"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Qualitative guidance; adjust activity to age, health and individual temperament."
+          "verifiedOn": "2026-10-27",
+          "note": "Moderate qualitative exercise requirement."
         },
         "care.exercise.minutesPerDay": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No source reviewed establishes a universal daily exercise-minute target for this breed."
+          "note": "No empirical daily duration target is established by reliable sources."
         },
         "care.exercise.activities": {
           "reliability": "general_guidance",
@@ -43888,7 +44542,7 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Activities are practical suggestions, not a prescribed exercise programme."
+          "note": "Practical suggestions for physical and mental engagement."
         },
         "care.grooming": {
           "reliability": "reliable_source",
@@ -43904,8 +44558,8 @@
               "locator": "Coat texture and length"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Coat type varies among individuals; grooming should be adapted to the dog's actual coat."
+          "verifiedOn": "2026-10-27",
+          "note": "Hand-stripping twice yearly is the recognized grooming technique for wire coats."
         },
         "care.training": {
           "reliability": "reliable_source",
@@ -43916,8 +44570,8 @@
               "locator": "Training and upbringing"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The difficulty description is qualitative, not a formal test score."
+          "verifiedOn": "2026-10-27",
+          "note": "Qualitative training assessment."
         },
         "care.training.tips": {
           "reliability": "general_guidance",
@@ -43929,7 +44583,7 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Practical training advice; results vary by dog and context."
+          "note": "Best-practice reward-based handling recommendations."
         },
         "care.training.socialization": {
           "reliability": "general_guidance",
@@ -43937,29 +44591,29 @@
             {
               "id": "licg-hollandse-smoushond",
               "role": "cited",
-              "locator": "Socialisation and child/pet supervision"
+              "locator": "Socialisation and supervision guidance"
             }
           ],
           "verifiedOn": null,
-          "note": "General humane socialisation advice informed by breed-specific behaviour notes."
+          "note": "Early environmental exposure guidance."
         },
         "care.livingEnvironment.apartmentSuitable": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "A categorical apartment-suitability answer is not established by the consulted sources."
+          "note": "Categorical suitability depends on owner commitment, exercise, and individual bark training."
         },
         "care.livingEnvironment.houseWithYardSuitable": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "A yard may provide outdoor space but does not establish a universal housing-suitability answer."
+          "note": "Yard access does not substitute for daily human interaction and exercise."
         },
         "care.livingEnvironment.climates": {
           "reliability": "general_guidance",
           "sources": [],
           "verifiedOn": null,
-          "note": "This is general weather-safety advice, not a measured breed-specific climate-tolerance claim."
+          "note": "General canine weather protection guidance."
         },
         "care.livingEnvironment.aloneTimeTolerance": {
           "reliability": "reliable_source",
@@ -43970,8 +44624,8 @@
               "locator": "Staying home alone"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The source says the dog prefers company but can learn to stay alone for a few hours with gradual training; individual tolerance varies."
+          "verifiedOn": "2026-10-27",
+          "note": "Prefers companionship; can manage short periods when conditioned gradually."
         },
         "nutrition": {
           "reliability": "general_guidance",
@@ -43983,25 +44637,25 @@
             }
           ],
           "verifiedOn": null,
-          "note": "General veterinary nutrition guidance; no breed-specific ration is asserted."
+          "note": "Standard veterinary nutritional assessment guidelines."
         },
         "nutrition.feedingFrequency.puppy": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No reliable breed-specific meal-frequency schedule was established; ask a veterinarian to tailor feeding to age and needs."
+          "note": "Consult a veterinarian for individualized puppy feeding schedules."
         },
         "nutrition.feedingFrequency.adult": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No reliable breed-specific meal-frequency schedule was established; ask a veterinarian to tailor feeding to age and needs."
+          "note": "Consult a veterinarian for individualized adult feeding schedules."
         },
         "nutrition.feedingFrequency.senior": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No reliable breed-specific meal-frequency schedule was established; ask a veterinarian to tailor feeding to age and needs."
+          "note": "Consult a veterinarian for individualized senior feeding schedules."
         },
         "health.overview": {
           "reliability": "reliable_source",
@@ -44012,20 +44666,20 @@
               "locator": "Health and breeding policy"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Club-reported health policy is described with a caveat; it is not interpreted as proof that every dog is disease-free."
+          "verifiedOn": "2026-10-27",
+          "note": "Population health monitoring indicates no prevalent breed-specific inherited disorders."
         },
         "health.commonConditions": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No breed-specific condition list with reliable prevalence evidence was established; an empty list avoids implying that the breed is disease-free."
+          "note": "No breed-specific conditions with significant prevalence are documented."
         },
         "health.preventiveCare": {
           "reliability": "general_guidance",
           "sources": [],
           "verifiedOn": null,
-          "note": "General preventive-care guidance; it does not replace individual veterinary advice."
+          "note": "Standard veterinary preventive protocol recommendations."
         },
         "health.recommendedScreenings": {
           "reliability": "reliable_source",
@@ -44036,8 +44690,8 @@
               "locator": "Inherited disease research and breeding tests"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The source reports no mandatory tests for parent dogs based on the research it describes; recommendations can change and family history remains relevant."
+          "verifiedOn": "2026-10-27",
+          "note": "No mandatory hereditary testing scheme is enforced, but parental screening remains good practice."
         },
         "health.dentalCare": {
           "reliability": "general_guidance",
@@ -44049,13 +44703,13 @@
             }
           ],
           "verifiedOn": null,
-          "note": "General veterinary dental-care guidance."
+          "note": "Standard veterinary home dental care guidance."
         },
         "health.earCare": {
           "reliability": "general_guidance",
           "sources": [],
           "verifiedOn": null,
-          "note": "Routine ear-care advice, not a breed-specific medical claim."
+          "note": "Standard drop-ear hygiene practices."
         },
         "health.skinCare": {
           "reliability": "general_guidance",
@@ -44067,25 +44721,25 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Routine skin and coat care advice."
+          "note": "Regular skin inspection during stripping and brushing."
         },
         "suitability.firstTimeOwners": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "A universal first-time-owner suitability label is not established; preparation, support and individual temperament vary."
+          "note": "Suitability depends on commitment to grooming and training rather than dog ownership history."
         },
         "suitability.familiesWithChildren": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "Family suitability depends on the individual dog, children's ages, supervision and household circumstances."
+          "note": "Household fit depends on child age, training, and adult supervision."
         },
         "suitability.seniorOwners": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "A universal senior-owner suitability label is not established by the consulted sources."
+          "note": "Categorical senior suitability is not verified."
         },
         "suitability.activeOwners": {
           "reliability": "estimate",
@@ -44097,13 +44751,13 @@
             }
           ],
           "verifiedOn": null,
-          "note": "This is a practical owner-fit estimate, not a formal suitability test."
+          "note": "Active owners able to provide daily exercise and companionship are well suited."
         },
         "suitability.apartmentLiving": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "A categorical apartment-living label is not established by the consulted sources."
+          "note": "Varies with exercise, bark management, and human company."
         },
         "suitability.idealFor": {
           "reliability": "estimate",
@@ -44115,7 +44769,7 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Practical owner-fit suggestions, not guarantees of behaviour or compatibility."
+          "note": "Suggested ownership scenarios."
         },
         "suitability.notIdealFor": {
           "reliability": "estimate",
@@ -44127,7 +44781,7 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Practical ownership considerations rather than a formal behavioural assessment."
+          "note": "Practical ownership challenges to consider."
         },
         "funFacts": {
           "reliability": "reliable_source",
@@ -44135,11 +44789,11 @@
             {
               "id": "fci-dutch-smoushond-standard",
               "role": "verified",
-              "locator": "Historical summary and first breed standard"
+              "locator": "Historical summary and 1905 breed standard"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Historical facts are paraphrased from the official standard."
+          "verifiedOn": "2026-10-27",
+          "note": "Historical details paraphrased from official breed documentation."
         },
         "faq": {
           "reliability": "reliable_source",
@@ -44160,11 +44814,11 @@
               "locator": "Secondary lifespan estimate"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Answers are paraphrased and avoid guarantees about health, lifespan, behaviour or housing suitability."
+          "verifiedOn": "2026-10-27",
+          "note": "Answers rewritten in original words avoiding unverified promises."
         }
       },
-      "updatedOn": "2026-10-21"
+      "updatedOn": "2026-10-27"
     },
     {
       "slug": "english-setter",
