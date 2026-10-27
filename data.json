@@ -94,12 +94,12 @@
     "american-kennel-club-terrier-group-health-testing-requirements": {
       "id": "american-kennel-club-terrier-group-health-testing-requirements",
       "name": "American Kennel Club - Terrier Group Health Testing Requirements",
+      "publisher": "American Kennel Club",
       "url": "https://www.akc.org/breeder-programs/breed-health-testing-requirements/terrier-group-health-testing-requirements/",
       "type": "kennel_club",
       "publishedOn": null,
-      "accessedOn": "2026-10-15",
-      "note": null,
-      "publisher": null
+      "accessedOn": "2026-10-27",
+      "note": "Norfolk Terrier section lists patella evaluation, cardiac examination and ophthalmologist examination."
     },
     "american-kennel-club-wirehaired-vizsla": {
       "id": "american-kennel-club-wirehaired-vizsla",
@@ -1715,8 +1715,8 @@
       "type": "veterinary",
       "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-26",
-      "note": "General preventive oral health and tooth-brushing guidance for dogs."
+      "accessedOn": "2026-10-27",
+      "note": "Veterinary preventive dental hygiene and periodontal health guidance for companion dogs."
     },
     "wikimedia-bucovina-shepherd-canarian-2019": {
       "id": "wikimedia-bucovina-shepherd-canarian-2019",
@@ -1981,8 +1981,8 @@
       "type": "veterinary",
       "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-26",
-      "note": "General veterinary nutritional assessment and individualized feeding guidelines for companion dogs."
+      "accessedOn": "2026-10-27",
+      "note": "Global veterinary nutritional assessment, body condition scoring, and individualized feeding guidelines."
     },
     "fci-old-danish-pointing-dog-standard": {
       "id": "fci-old-danish-pointing-dog-standard",
@@ -4350,36 +4350,36 @@
     },
     "fci-petit-brabancon-standard": {
       "id": "fci-petit-brabancon-standard",
-      "name": "FCI — Petit Brabançon Official Breed Standard",
-      "publisher": "Fédération Cynologique Internationale",
+      "name": "FCI Standard N° 82 — Petit Brabançon (published with N° 80 Griffon Bruxellois and N° 81 Griffon Belge)",
+      "publisher": "Fédération Cynologique Internationale (FCI)",
       "url": "https://www.fci.be/nomenclature/Standards/080g09-en.pdf",
       "type": "official_breed_standard",
       "commercialUse": "reference_only",
       "publishedOn": "2003-03-25",
-      "accessedOn": "2026-10-21",
-      "note": "Official standard covering the three closely related Belgian Griffon varieties."
+      "accessedOn": "2026-10-27",
+      "note": "Official FCI breed standard covering the three Small Belgian Dogs (Griffon Bruxellois No. 80, Griffon Belge No. 81, and Petit Brabançon No. 82), specifying Belgium origin, Smousje / Ruby King Charles Spaniel / Pug history, 1883 L.O.S.H. registrations, Queen Marie-Henriette patronage, max 1.5 cm foreface, max 2 cm smooth coat, accepted colours with dark mask, and 3.5–6 kg weight range."
     },
     "fci-petit-brabancon-nomenclature": {
       "id": "fci-petit-brabancon-nomenclature",
-      "name": "FCI — Petit Brabançon Breed Nomenclature",
-      "publisher": "Fédération Cynologique Internationale",
+      "name": "FCI Breeds Nomenclature — Petit Brabançon (82)",
+      "publisher": "Fédération Cynologique Internationale (FCI)",
       "url": "https://www.fci.be/en/nomenclature/PETIT-BRABANCON-82.html",
       "type": "kennel_club",
       "commercialUse": "reference_only",
-      "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Breed recognition, country of origin, and classification."
+      "publishedOn": "2003-05-05",
+      "accessedOn": "2026-10-27",
+      "note": "Official FCI nomenclature entry recording definitive recognition on 1954-10-26, Group 9 Section 3 (Small Belgian Dogs, without working trial), valid standard date 2003-03-25, and English standard publication date 2003-05-05."
     },
     "american-kennel-club-brussels-griffon": {
       "id": "american-kennel-club-brussels-griffon",
-      "name": "American Kennel Club — Brussels Griffon",
+      "name": "American Kennel Club — Brussels Griffon Breed Profile",
       "publisher": "American Kennel Club",
       "url": "https://www.akc.org/dog-breeds/brussels-griffon/",
       "type": "kennel_club",
       "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Related breed profile; identifies the smooth-coated variety as the Brabançon."
+      "accessedOn": "2026-10-27",
+      "note": "Official AKC breed profile covering both rough and smooth (Brabançon) varieties, reporting height (7–10 in), weight (8–10 lb, max 12 lb), lifespan (12–15 years), low drooling, smooth-coat shedding and grooming, exercise, and health care."
     },
     "american-brussels-griffon-association-health": {
       "id": "american-brussels-griffon-association-health",
@@ -4389,8 +4389,8 @@
       "type": "breed_club",
       "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Health concerns and accepted screening programme for the related Brussels Griffon population."
+      "accessedOn": "2026-10-27",
+      "note": "Parent club health and screening guidance covering patellar luxation, ophthalmologist eye exams, Chiari-like malformation and syringomyelia MRI screening, cardiac and hip evaluations, and brachycephalic respiratory health."
     },
     "american-brussels-griffon-association-owner-guide": {
       "id": "american-brussels-griffon-association-owner-guide",
@@ -4400,41 +4400,41 @@
       "type": "breed_club",
       "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Owner guidance, housetraining, and lifespan information for the related breed."
+      "accessedOn": "2026-10-27",
+      "note": "Parent club owner guide covering 12–15 year lifespan, smooth vs rough coat shedding and grooming, house-training patience, high companionship needs, and caution around young children."
     },
     "wikimedia-petit-brabancon-lusadi": {
       "id": "wikimedia-petit-brabancon-lusadi",
-      "name": "Wikimedia Commons — Petit brabancon.JPG",
+      "name": "Wikimedia Commons — File:Petit brabancon.JPG",
       "publisher": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Petit_brabancon.JPG",
       "type": "other",
       "commercialUse": "commercial_use",
-      "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Creator Lusadi released the photograph into the public domain."
+      "publishedOn": "2008-09-20",
+      "accessedOn": "2026-10-27",
+      "note": "Photograph of a red Petit Brabançon by Lusadi (captured 2008-07-27, uploaded 2008-09-20, 2592×3214), released into the public domain by the copyright holder."
     },
     "wikimedia-petit-brabancon-ger-dekker": {
       "id": "wikimedia-petit-brabancon-ger-dekker",
-      "name": "Wikimedia Commons — Petit Brabançon.jpg",
+      "name": "Wikimedia Commons — File:Petit Brabançon.jpg",
       "publisher": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Petit_Braban%C3%A7on.jpg",
       "type": "other",
       "commercialUse": "commercial_use",
-      "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Photo by Ger Dekker; CC BY-SA 2.0. Attribution and share-alike terms apply."
+      "publishedOn": "2014-03-06",
+      "accessedOn": "2026-10-27",
+      "note": "Photograph of a red Petit Brabançon by Ger Dekker (captured 2012-06-05, uploaded 2014-03-06, 3233×2021), licensed under CC BY-SA 2.0."
     },
     "wikimedia-petit-brabancon-canarian": {
       "id": "wikimedia-petit-brabancon-canarian",
-      "name": "Wikimedia Commons — Smallbrabanconpetit-black&tan1.jpg",
+      "name": "Wikimedia Commons — File:Smallbrabanconpetit-black&tan1.jpg",
       "publisher": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Smallbrabanconpetit-black%26tan1.jpg",
       "type": "other",
       "commercialUse": "commercial_use",
-      "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Photo by Canarian; CC BY-SA 4.0. Attribution and share-alike terms apply."
+      "publishedOn": "2023-10-08",
+      "accessedOn": "2026-10-27",
+      "note": "Photograph of a black-and-tan Petit Brabançon by Canarian (captured 2023-10-08, 1088×1245), licensed under CC BY-SA 4.0."
     },
     "scc-grand-anglo-francais-blanc-et-orange": {
       "id": "scc-grand-anglo-francais-blanc-et-orange",
@@ -7111,13 +7111,13 @@
     "the-dog-api": {
       "id": "the-dog-api",
       "name": "The Dog API",
-      "publisher": "The Dog API (That API Company)",
-      "url": "https://thedogapi.com/",
+      "publisher": "That API Company",
+      "url": "https://thedogapi.com",
       "type": "other",
       "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-26",
-      "note": "Structured breed reference dataset used to cross-check baseline physical, historical, and temperament fields."
+      "accessedOn": "2026-10-27",
+      "note": "Structured reference dataset used as a factual cross-check for Petit Brabançon; all text rewritten and discrepancies in height, weight, alternateNames, and coatColors documented in evidence."
     },
     "fci-pyrenean-mastiff-standard": {
       "id": "fci-pyrenean-mastiff-standard",
@@ -10272,6 +10272,160 @@
       "publishedOn": "2012-11-27",
       "accessedOn": "2026-10-26",
       "note": "Peer-reviewed study by Sanders et al. (2013; Epub 2012 Nov 27) identifying the homozygous autosomal recessive HEXA:c.967G>A (p.Glu323Lys / p.E323K) missense mutation responsible for GM2 gangliosidosis in Japanese Chin dogs."
+    },
+    "fci-kooikerhondje-breed-standard": {
+      "id": "fci-kooikerhondje-breed-standard",
+      "name": "FCI - Nederlandse Kooikerhondje Nomenclature and Standard",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/en/nomenclature/NEDERLANDSE-KOOIKERHONDJE-314.html",
+      "type": "official_breed_standard",
+      "publishedOn": "2011-01-19",
+      "accessedOn": "2026-10-27",
+      "note": "FCI Standard No. 314; definitive recognition accepted 1990-01-31; valid standard published 2010-10-13 and English nomenclature page dated 2011-01-19."
+    },
+    "royal-kennel-club-kooikerhondje-standard": {
+      "id": "royal-kennel-club-kooikerhondje-standard",
+      "name": "Royal Kennel Club - Kooikerhondje Breed Standard",
+      "publisher": "Royal Kennel Club",
+      "url": "https://www.royalkennelclub.com/breed-standards/utility/kooikerhondje/",
+      "type": "official_breed_standard",
+      "publishedOn": "2025-11-01",
+      "accessedOn": "2026-10-27",
+      "note": "Page states it was last updated 1 November 2025; includes history, temperament, coat, colour, size and lifespan profile information."
+    },
+    "american-kennel-club-nederlandse-kooikerhondje": {
+      "id": "american-kennel-club-nederlandse-kooikerhondje",
+      "name": "American Kennel Club - Nederlandse Kooikerhondje",
+      "publisher": "American Kennel Club",
+      "url": "https://www.akc.org/dog-breeds/nederlandse-kooikerhondje/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "Breed profile covering temperament, grooming, exercise and national breed club health-testing recommendations."
+    },
+    "american-kennel-club-kooikerhondje-health-statement": {
+      "id": "american-kennel-club-kooikerhondje-health-statement",
+      "name": "Nederlandse Kooikerhondje Club of the USA - Health Statement",
+      "publisher": "Nederlandse Kooikerhondje Club of the USA; hosted by American Kennel Club",
+      "url": "https://www.akc.org/wp-content/uploads/2020/09/Nederlandse-Kooikerhondje-Health-Statement.pdf",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "Breed-club health statement hosted by AKC; recommends screening for VWD, ENM, eyes, patellas and hips, and discusses polymyositis, renal disorders and epilepsy with stated uncertainty."
+    },
+    "commons-kooikerhondje-puppy-jeroenzwaan": {
+      "id": "commons-kooikerhondje-puppy-jeroenzwaan",
+      "name": "Kooikerhondje puppy.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kooikerhondje_puppy.jpg",
+      "type": "other",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "Original file page names Jeroenzwaan as author, dates the photograph 2018-01-10, gives original dimensions 4032 × 3024, and states CC0 1.0 public-domain dedication allowing commercial use."
+    },
+    "royal-club-griffons-petit-brabancon-standard": {
+      "id": "royal-club-griffons-petit-brabancon-standard",
+      "name": "Royal Club of Griffons, Brabants, Papillons and Phalènes (Belgium) — FCI Standard No. 82: Petit Brabançon (Klein Brabandertje)",
+      "publisher": "Koninklijke Club der Griffons, Brabantjes, Papillons en Phalènes (SRSH/KMSH No. 10)",
+      "url": "https://www.griffonpapillon.be/en/our-breeds/petit-brabancon/standard",
+      "type": "breed_club",
+      "commercialUse": "reference_only",
+      "publishedOn": "2003-03-25",
+      "accessedOn": "2026-10-27",
+      "note": "Official Belgian parent club publication of FCI Standard No. 82 for the Petit Brabançon (Klein Brabandertje)."
+    },
+    "royal-kennel-club-griffon-bruxellois": {
+      "id": "royal-kennel-club-griffon-bruxellois",
+      "name": "The Royal Kennel Club — Griffon Bruxellois Breed Standard (Rough and Smooth / Petit Brabançon Varieties)",
+      "publisher": "The Royal Kennel Club",
+      "url": "https://www.royalkennelclub.com/breed-standards/toy/griffon-bruxellois/",
+      "type": "official_breed_standard",
+      "commercialUse": "reference_only",
+      "publishedOn": "2025-04-15",
+      "accessedOn": "2026-10-27",
+      "note": "Official UK breed standard covering both the rough-coated Griffon Bruxellois and smooth-coated Petit Brabançon varieties, specifying weight 3.2–5 kg (7–11 lb), most desirable 3.6–4.5 kg (8–10 lb), and clear red, black, or black and rich tan coat colours."
+    },
+    "ofa-brachycephalic-rfgs": {
+      "id": "ofa-brachycephalic-rfgs",
+      "name": "Orthopedic Foundation for Animals (OFA) — Respiratory Function Grading Scheme (RFGS) for Brachycephalic Breeds",
+      "publisher": "Orthopedic Foundation for Animals",
+      "url": "https://ofa.org/diseases/rfgs/",
+      "type": "veterinary",
+      "commercialUse": "reference_only",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "Veterinary clinical overview of Brachycephalic Obstructive Airway Syndrome (BOAS), heat and exercise intolerance, and objective respiratory function grading."
+    },
+    "rusbridge-2009-griffon-chiari-jsap": {
+      "id": "rusbridge-2009-griffon-chiari-jsap",
+      "name": "Rusbridge C, Knowler SP, Pieterse L, McFadyen AK — Chiari-like malformation in the Griffon Bruxellois (J Small Anim Pract. 2009;50(8):386–393, PMID 19689665)",
+      "publisher": "Journal of Small Animal Practice / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19689665/",
+      "type": "scientific",
+      "commercialUse": "reference_only",
+      "publishedOn": "2009-08-15",
+      "accessedOn": "2026-10-27",
+      "note": "Peer-reviewed MRI and radiographic study of 56 Griffon Bruxellois dogs documenting Chiari-like malformation (60.7%) and syringomyelia (37.5% with CM and 8.9% without CM) and describing basicranial shortening."
+    },
+    "american-kennel-club-norfolk-terrier-standard": {
+      "id": "american-kennel-club-norfolk-terrier-standard",
+      "name": "American Kennel Club - Official Norfolk Terrier Standard",
+      "publisher": "American Kennel Club",
+      "url": "https://images.akc.org/pdf/breeds/standards/NorfolkTerrier.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "Official standard covering general appearance, working purpose, height, weight, coat and accepted colours."
+    },
+    "american-kennel-club-norfolk-terrier": {
+      "id": "american-kennel-club-norfolk-terrier",
+      "name": "American Kennel Club - Norfolk Terrier Breed Profile",
+      "publisher": "American Kennel Club",
+      "url": "https://www.akc.org/dog-breeds/norfolk-terrier/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "Breed profile covering height, weight, life expectancy, temperament, exercise, grooming and health screening."
+    },
+    "royal-kennel-club-norfolk-terrier-standard": {
+      "id": "royal-kennel-club-norfolk-terrier-standard",
+      "name": "Royal Kennel Club - Norfolk Terrier Breed Standard",
+      "publisher": "The Royal Kennel Club",
+      "url": "https://www.royalkennelclub.com/breed-standards/terrier/norfolk-terrier/",
+      "type": "official_breed_standard",
+      "publishedOn": "2025-08-01",
+      "accessedOn": "2026-10-27",
+      "note": "Breed standard last updated 1 August 2025; covers appearance, temperament, coat, colour and ideal height."
+    },
+    "royal-kennel-club-norfolk-terrier-profile": {
+      "id": "royal-kennel-club-norfolk-terrier-profile",
+      "name": "Royal Kennel Club - Norfolk Terrier Breed Profile",
+      "publisher": "The Royal Kennel Club",
+      "url": "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/terrier/norfolk-terrier/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "Breed history, exercise, grooming, size and home suitability information."
+    },
+    "norfolk-terrier-club-health-statement": {
+      "id": "norfolk-terrier-club-health-statement",
+      "name": "Norfolk Terrier Club - Health Statement",
+      "publisher": "The Norfolk Terrier Club; hosted by the American Kennel Club",
+      "url": "https://cdn.akc.org/Marketplace/Health-Statement/Norfolk-Terrier.pdf",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "Breed-club statement discusses inherited eye disease, mitral valve heart disease, patellar luxation, optional hip dysplasia screening and optional ichthyosis DNA testing."
+    },
+    "commons-picture-of-norfolk-terrier-pingugu": {
+      "id": "commons-picture-of-norfolk-terrier-pingugu",
+      "name": "Picture of Norfolk Terrier",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Picture_of_Norfolk_Terrier.jpg",
+      "type": "other",
+      "publishedOn": null,
+      "accessedOn": "2026-10-27",
+      "note": "Original file page identifies Pingugu as author, gives original dimensions of 2860 × 3814 pixels, and states CC0 1.0 public-domain dedication allowing commercial use. The page gives the image date as 12 October 2025 and upload history as 23 September 2026."
     }
   },
   "licenses": {
@@ -65865,6 +66019,664 @@
       "updatedOn": "2026-10-26"
     },
     {
+      "slug": "kooikerhondje",
+      "name": "Nederlandse Kooikerhondje",
+      "scientificName": "Canis lupus familiaris",
+      "alternateNames": [
+        "Kooikerhondje",
+        "Dutch Decoy Dog"
+      ],
+      "group": "Sporting Group (AKC); Utility Group (Royal Kennel Club); Retrievers, Flushing Dogs and Water Dogs (FCI)",
+      "origin": {
+        "country": "The Netherlands",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kooikerhondje_puppy.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Kooikerhondje_puppy.jpg",
+          "title": "Kooikerhondje puppy.jpg",
+          "description": "A Kooikerhondje puppy, described on the original file page as a Dutch Decoy Dog puppy.",
+          "creator": "Jeroenzwaan",
+          "uploader": "Jeroenzwaan",
+          "capturedOn": "2018-01-10",
+          "uploadedOn": "2018-01-10",
+          "width": 4032,
+          "height": 3024,
+          "licenseId": "cc0-1.0",
+          "attribution": "Photo by Jeroenzwaan, Wikimedia Commons; dedicated to the public domain under CC0 1.0 (credit appreciated but not required).",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-27"
+        }
+      ],
+      "overview": {
+        "summary": "The Nederlandse Kooikerhondje is a small, lively Dutch sporting dog with an orange-red and white coat, a plumed tail, and a distinctive alert expression. Historically, it helped lure ducks into decoy traps by moving around the water with its waving tail. Today it can be an affectionate companion for people who can provide activity, training, and thoughtful socialisation.",
+        "description": "Nearly square in outline and agile in movement, the Kooikerhondje has a medium-length coat, well-feathered tail, hanging ears that may develop black feathering at the tips, and clear orange-red patches on white. The breed is typically lively, alert, and persistent, while often being friendly with familiar people and reserved around strangers. It is a sporting dog rather than a low-activity ornament: regular exercise, scent and training games, and gradual exposure to varied everyday situations help meet its needs. Temperament and sociability still vary between individuals.",
+        "history": "The breed is associated with the Netherlands and duck-decoy work, in which a dog drew ducks toward a capture area by moving near the water and attracting their curiosity with its tail. The type is described in historical accounts dating back several centuries. Numbers declined, and Baroness van Hardenbroek van Ammerstol began a recovery effort during the Second World War. The Dutch kennel organisation adopted an interim breed in 1966, and official recognition followed in 1971. Modern Kooikerhondjes retain the alertness and stamina associated with that working role.",
+        "originalPurpose": "To help lure ducks into traditional Dutch duck-decoy traps by attracting their curiosity and leading them along the decoy channel; the dog did not retrieve or hunt the ducks directly.",
+        "currentRoles": [
+          "Companion dog",
+          "Sporting and activity partner",
+          "Obedience and rally participant",
+          "Agility and scent-work participant",
+          "Participant in suitable retriever or flushing-dog activities where available"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Small",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 37,
+            "max": 42
+          },
+          "female": {
+            "min": 35,
+            "max": 40
+          }
+        },
+        "weight": {
+          "unit": null,
+          "male": null,
+          "female": null
+        },
+        "lifespanYears": {
+          "min": 12,
+          "max": null
+        },
+        "coatType": "Medium-length, close-fitting coat that is straight or slightly wavy, with a well-developed undercoat and feathering on the tail and selected areas of the body.",
+        "coatLength": "Medium length. Hair is shorter on the head, front of the legs, and feet; feathering is visible on the tail, throat, forechest, and rear of the legs, without long feathering below the hocks.",
+        "coatColors": [
+          "Clear orange-red patches on a white ground",
+          "Orange-red should predominate over the body",
+          "A white facial blaze is preferred",
+          "Black feathering at the ear tips (earrings) is desirable",
+          "Some intermingled black hairs, slight ticking, or a black tail ring are accepted by the cited standard, though some are less desirable"
+        ],
+        "sheddingLevel": "Sheds; regular brushing helps manage loose coat, with seasonal variation between individuals.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Small sporting dog with a nearly square outline and slightly longer body than height at the withers.",
+          "Orange-red patches on a white coat.",
+          "Medium-length coat with a developed undercoat and moderate feathering.",
+          "Well-feathered tail with a white plume, carried at or above the level of the back.",
+          "Hanging ears that may have distinctive black feathering at the tips.",
+          "Lively, springy movement with good reach and rear drive."
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Lively and agile",
+          "Alert and observant",
+          "Self-confident",
+          "Friendly and easy-going with familiar people",
+          "May be reserved around unfamiliar people",
+          "Persistent and energetic when working",
+          "Generally not intended to be excessively noisy",
+          "Often enjoys learning and shared activities",
+          "May be sensitive to abrupt handling or chaotic situations"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": 3,
+          "withDogs": 3,
+          "withStrangers": 2,
+          "protectiveness": 2,
+          "independence": 3,
+          "trainability": 4,
+          "barking": 3,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate to high. This active sporting breed benefits from daily walks plus opportunities for training, play, and mental work; the right amount depends on age and health.",
+          "minutesPerDay": null,
+          "activities": [
+            "Daily walks with opportunities for calm sniffing and exploration",
+            "Reward-based obedience and recall practice",
+            "Scent-search games and food puzzles",
+            "Agility, rally, or other suitable dog sports",
+            "Fetch or retrieving games with appropriate breaks",
+            "Swimming or water-based play for dogs that enjoy it and can do so safely"
+          ]
+        },
+        "grooming": {
+          "level": "Moderate",
+          "brushing": "Brush thoroughly at least weekly, paying attention to the feathering behind the ears, on the tail, and on the backs of the legs. Increase grooming when shedding or when the coat collects debris.",
+          "bathing": "Occasional bathing as needed is generally sufficient. Use dog-appropriate products and dry the coat well after swimming or bathing.",
+          "notes": [
+            "The coat is intended to be natural and untrimmed; avoid unnecessary shaping that changes its characteristic outline.",
+            "Check ears regularly for wax, debris, odour, redness, or irritation.",
+            "Trim fast-growing nails as needed to prevent splitting and overgrowth.",
+            "Brush teeth regularly with dog-specific toothpaste.",
+            "Check the coat and skin after outdoor activity and remove plant material promptly."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate. The breed is intelligent and active, but may be alert or reserved in unfamiliar situations. Use short, consistent, reward-based sessions and build confidence without forcing interactions.",
+          "tips": [
+            "Start with simple reward-based routines and increase distractions gradually.",
+            "Teach recall and loose-lead walking early, practising first in secure environments.",
+            "Use scent games, retrieving activities, and problem-solving tasks to engage the sporting instinct.",
+            "Reward calm behaviour around visitors, dogs, birds, and other distractions.",
+            "Avoid harsh corrections; build reliable responses through consistency and motivation.",
+            "Supervise around water and wildlife, and use a lead where recall is not dependable."
+          ],
+          "socialization": "Provide gradual, positive exposure to people, dogs, handling, sounds, transport, and new environments from puppyhood onward. Respect signs of uncertainty and allow the dog time to observe rather than pushing it into close contact. Continue confidence-building throughout adulthood."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": true,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Temperate climates",
+            "Cool climates with ordinary outdoor protection as needed",
+            "Warmer climates when shade, fresh water, ventilation, and cooler exercise times are provided"
+          ],
+          "aloneTimeTolerance": "Individual tolerance varies. Gradually teach comfortable alone time and provide exercise and enrichment. A home routine with long, frequent periods of isolation may not suit a dog that needs regular interaction and activity."
+        }
+      },
+      "nutrition": {
+        "dietType": "Complete and balanced dog food appropriate for life stage, body condition, activity, and veterinary needs.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": null,
+          "senior": null
+        },
+        "guidelines": "Use the food's feeding guide as a starting point and adjust portions according to body condition, activity, and veterinary advice. Keep fresh water available. A veterinarian can help choose a suitable diet for growth, adulthood, ageing, or a medical condition.",
+        "considerations": [
+          "Measure portions and monitor body condition to reduce the risk of excess weight.",
+          "Include training treats in the daily food allowance.",
+          "Introduce diet changes gradually unless a veterinarian advises otherwise.",
+          "Choose a diet appropriate to the dog's age, activity, and medical needs.",
+          "Seek veterinary advice for persistent digestive problems, appetite changes, or unexpected weight change."
+        ],
+        "note": "The consulted sources do not establish a single feeding frequency or portion size suitable for every Kooikerhondje; requirements depend on age, diet energy density, activity, and health."
+      },
+      "health": {
+        "overview": "The breed is often described as generally healthy, but inherited disorders are documented and responsible breeding relies on health screening and pedigree information. Breed-club and kennel-club guidance highlights von Willebrand disease type III, hereditary necrotizing myelopathy (ENM), eye disease, patellar luxation, and hip dysplasia as screening priorities. Polymyositis, epilepsy, and kidney disorders have also been reported; their frequency, inheritance, and individual risk are not fully established in all cases. These are breed-level considerations, not a prediction that a particular dog will develop a condition.",
+        "commonConditions": [
+          "Von Willebrand disease type III (VWDIII), an inherited blood-clotting disorder for which breed-specific testing has been recommended.",
+          "Hereditary necrotizing myelopathy (ENM), an inherited neurological condition associated with progressive movement impairment.",
+          "Patellar luxation, in which the kneecap can move out of its normal position.",
+          "Hip dysplasia, a developmental condition affecting the hip joints.",
+          "Hereditary eye conditions, including cataracts and distichiasis, which may be detected during ophthalmic examination.",
+          "Polymyositis, an inflammatory muscle condition reported in the breed; current individual risk cannot be inferred from breed alone.",
+          "Epilepsy and kidney disorders have been reported, but available sources do not establish a reliable prevalence estimate for the breed."
+        ],
+        "preventiveCare": [
+          "Ask the breeder for documented health-screening results for the puppy's parents and relevant relatives.",
+          "Discuss eye, patella, and hip evaluations and appropriate DNA tests with a veterinarian or knowledgeable breed specialist.",
+          "Keep routine veterinary examinations and vaccinations up to date.",
+          "Maintain a healthy body condition and suitable conditioning for exercise.",
+          "Seek prompt veterinary advice for unexplained bleeding, weakness, altered gait, seizures, eye changes, or persistent muscle pain.",
+          "Do not treat breed-level risk information as a diagnosis; assessment should be based on the individual dog."
+        ],
+        "recommendedScreenings": [
+          "Ophthalmologist evaluation for hereditary eye disease.",
+          "Patella evaluation for patellar luxation.",
+          "Hip evaluation for hip dysplasia.",
+          "DNA testing for von Willebrand disease type III (VWDIII), as recommended in breed-club guidance.",
+          "DNA testing for hereditary necrotizing myelopathy (ENM), as recommended in breed-club guidance.",
+          "Ask the breed club and veterinarian about newer or additional testing recommendations, including polymyositis, because guidance may change."
+        ],
+        "dentalCare": "Brush teeth regularly with dog-specific toothpaste and arrange veterinary dental checks. Seek advice for persistent bad breath, gum inflammation, oral discomfort, or difficulty chewing.",
+        "earCare": "Inspect the hanging ears regularly for wax, debris, odour, redness, or repeated scratching. Clean only as needed with a veterinarian-approved product and seek advice if irritation persists.",
+        "skinCare": "Check the coat and skin during brushing, especially after outdoor activity. Seek veterinary advice for persistent itching, redness, sores, scaling, or hair loss."
+      },
+      "suitability": {
+        "firstTimeOwners": null,
+        "familiesWithChildren": true,
+        "seniorOwners": null,
+        "activeOwners": true,
+        "apartmentLiving": true,
+        "idealFor": [
+          "Owners who enjoy regular walks, training, and shared activities",
+          "Households able to provide consistent positive training and enrichment",
+          "People who appreciate an alert, active sporting companion",
+          "Families willing to supervise dog-child interactions and teach respectful handling",
+          "Owners prepared to manage a dog that may be reserved around strangers"
+        ],
+        "notIdealFor": [
+          "Households looking for a very low-energy dog with minimal daily activity needs",
+          "People unable to provide training, enrichment, and gradual socialisation",
+          "Homes where the dog would routinely be left alone for long periods without support",
+          "Owners expecting every individual to be immediately sociable with unfamiliar people or dogs"
+        ]
+      },
+      "funFacts": [
+        "The Dutch word 'kooiker' refers to a person who operates a duck decoy; the dog helped lure ducks into the decoy channel.",
+        "The breed's waving, white-plumed tail was part of its traditional working role around duck decoys.",
+        "The breed was revived in the twentieth century after its numbers had declined.",
+        "The black feathering at the tips of the ears is often called 'earrings'."
+      ],
+      "faq": [
+        {
+          "question": "Where does the Kooikerhondje come from?",
+          "answer": "The Kooikerhondje comes from the Netherlands and was developed for traditional duck-decoy work. A dog moved near the water and used its presence and waving tail to attract ducks toward a capture area."
+        },
+        {
+          "question": "How tall is a Kooikerhondje?",
+          "answer": "The Royal Kennel Club standard lists dogs at 37–42 cm and bitches at 35–40 cm. Other registries may describe ideal heights differently."
+        },
+        {
+          "question": "How much does a Kooikerhondje weigh?",
+          "answer": "The consulted official standards do not provide a numeric weight range that I could reliably use here. A veterinarian can assess whether an individual dog has a healthy body condition."
+        },
+        {
+          "question": "How long does a Kooikerhondje live?",
+          "answer": "The Royal Kennel Club describes the breed's lifespan as over 12 years. Lifespan varies with genetics, health, and care."
+        },
+        {
+          "question": "Does a Kooikerhondje need a lot of exercise?",
+          "answer": "It is an active sporting breed and generally benefits from daily walks, training, play, and mental enrichment. The exact amount should be adjusted for age and health."
+        },
+        {
+          "question": "Is the Kooikerhondje friendly with strangers?",
+          "answer": "The breed standard describes the dog as friendly with familiar people but potentially aloof with strangers. Positive, gradual socialisation is helpful, and individual temperaments differ."
+        },
+        {
+          "question": "What health tests should I ask a breeder about?",
+          "answer": "Breed-club and kennel-club guidance includes eye, patella, and hip evaluations, plus DNA tests for von Willebrand disease type III and hereditary necrotizing myelopathy. Ask for documented results and confirm current recommendations with a veterinarian or breed club."
+        },
+        {
+          "question": "Can a Kooikerhondje live in an apartment?",
+          "answer": "It can adapt to apartment living if it receives adequate daily activity, training, and enrichment. Access to safe outdoor exercise and the dog's individual barking and alone-time behaviour should be considered."
+        }
+      ],
+      "references": [
+        "fci-kooikerhondje-breed-standard",
+        "royal-kennel-club-kooikerhondje-standard",
+        "american-kennel-club-nederlandse-kooikerhondje",
+        "american-kennel-club-kooikerhondje-health-statement",
+        "commons-kooikerhondje-puppy-jeroenzwaan"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Conventional scientific designation for the domestic dog; not a breed-specific taxonomic distinction."
+        },
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-kooikerhondje-breed-standard",
+              "role": "verified",
+              "locator": "Breed name and nomenclature"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Nederlandse Kooikerhondje is the formal name; Kooikerhondje and Dutch Decoy Dog are common names used in breed references."
+        },
+        "group": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-kooikerhondje-breed-standard",
+              "role": "verified",
+              "locator": "FCI group and section"
+            },
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "Breed standard classification"
+            },
+            {
+              "id": "american-kennel-club-nederlandse-kooikerhondje",
+              "role": "verified",
+              "locator": "AKC breed profile"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Group labels differ by registry; the value lists the registry-specific classifications rather than asserting one universal group."
+        },
+        "origin": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-kooikerhondje-breed-standard",
+              "role": "verified",
+              "locator": "Country of origin: The Netherlands"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "The country is stated by the FCI. No narrower region is asserted."
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted official source identifies the country of origin but does not establish a narrower geographic region."
+        },
+        "overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "Historical summary, general appearance, temperament, coat and traditional duck-decoy role"
+            },
+            {
+              "id": "fci-kooikerhondje-breed-standard",
+              "role": "cited",
+              "locator": "Country of origin and standard publication details"
+            },
+            {
+              "id": "american-kennel-club-nederlandse-kooikerhondje",
+              "role": "cited",
+              "locator": "Breed profile and temperament"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Original summary of registry history and standard characteristics; descriptions are paraphrased."
+        },
+        "physical.sizeCategory": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "General appearance and breed profile size classification"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Small is the catalogue's broad size category."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "Size: dogs 37–42 cm; bitches 35–40 cm"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Uses the centimetre values printed first by this standard; no unit conversion was applied."
+        },
+        "physical.weight": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted official standards do not establish a numeric weight range suitable for this record; both ranges and the unit are null."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "Breed A to Z: lifespan over 12 years"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "The source describes lifespan as over 12 years; no upper bound is asserted."
+        },
+        "physical.coatType": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "Coat"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Paraphrased from the breed standard."
+        },
+        "physical.coatLength": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "Coat and feathering"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Paraphrased from the breed standard."
+        },
+        "physical.coatColors": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "Colour"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Colour descriptions follow the cited standard; permitted details can differ by registry."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "Breed A to Z: sheds"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Qualitative description; amount varies by individual and season."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable consulted source established a breed-specific drooling rating."
+        },
+        "physical.distinctiveFeatures": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "General appearance, tail, coat, colour and movement"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Features are paraphrased from the standard."
+        },
+        "temperament": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "Temperament"
+            },
+            {
+              "id": "american-kennel-club-nederlandse-kooikerhondje",
+              "role": "cited",
+              "locator": "Breed profile"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Describes breed tendencies, not a guarantee of an individual dog's behaviour."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-nederlandse-kooikerhondje",
+              "role": "cited",
+              "locator": "Breed profile traits"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "All 1–5 scores are editorial estimates for app comparison, not scientific measurements or official ratings."
+        },
+        "care": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-nederlandse-kooikerhondje",
+              "role": "cited",
+              "locator": "Exercise, training, grooming and nutrition"
+            },
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "cited",
+              "locator": "Breed A to Z: exercise and grooming"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Care guidance is general and should be adjusted for age, health, environment, and the individual dog."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal daily exercise-minute figure is stored; published advice is qualitative or uses broader activity categories."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-nederlandse-kooikerhondje",
+              "role": "cited",
+              "locator": "Nutrition and general care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General canine feeding advice, not an individual veterinary diet prescription."
+        },
+        "nutrition.feedingFrequency.puppy": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed puppy meal frequency is prescribed; requirements vary by age, food, and veterinary advice."
+        },
+        "nutrition.feedingFrequency.adult": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed adult meal frequency is prescribed; requirements vary by individual."
+        },
+        "nutrition.feedingFrequency.senior": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No fixed senior meal frequency is prescribed; requirements vary by individual."
+        },
+        "health": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-kooikerhondje-health-statement",
+              "role": "verified",
+              "locator": "Recommended screening tests and reported breed health concerns"
+            },
+            {
+              "id": "american-kennel-club-nederlandse-kooikerhondje",
+              "role": "cited",
+              "locator": "National breed club health testing recommendations"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Health information distinguishes screening priorities from reported conditions; prevalence is not inferred where sources do not establish it."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-kooikerhondje-health-statement",
+              "role": "cited",
+              "locator": "Breeding health tests and general pedigree advice"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General preventive advice; individual screening plans should be confirmed with a veterinarian."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine dental-care guidance, not a breed-specific medical claim."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-nederlandse-kooikerhondje",
+              "role": "cited",
+              "locator": "Grooming: ear checks"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General ear-care advice aligned with breed-profile grooming guidance."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General coat and skin-care advice."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-nederlandse-kooikerhondje",
+              "role": "cited",
+              "locator": "Activity and temperament description"
+            },
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "cited",
+              "locator": "Size, exercise and home guidance"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability values are editorial assessments, not guarantees; household fit depends on management, training, and the individual dog."
+        },
+        "suitability.firstTimeOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal first-time-owner suitability rating is assigned; experience, support, and activity expectations vary."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal senior-owner suitability rating is assigned because mobility, activity, and support needs differ."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "Historical summary and tail description"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Historical and conformation facts are paraphrased from the breed standard."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "royal-kennel-club-kooikerhondje-standard",
+              "role": "verified",
+              "locator": "Size, lifespan, history and temperament"
+            },
+            {
+              "id": "american-kennel-club-kooikerhondje-health-statement",
+              "role": "cited",
+              "locator": "Health-screening recommendations"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "FAQs paraphrase the cited standards and screening guidance; the lifespan answer preserves the source's open-ended wording."
+        }
+      },
+      "updatedOn": "2026-10-27"
+    },
+    {
       "slug": "kromfohrlander",
       "name": "Kromfohrländer",
       "scientificName": "Canis lupus familiaris",
@@ -71592,6 +72404,546 @@
       "updatedOn": "2026-10-25"
     },
     {
+      "slug": "norfolk-terrier",
+      "name": "Norfolk Terrier",
+      "scientificName": "Canis lupus familiaris",
+      "alternateNames": [
+        "Norfolk"
+      ],
+      "group": "Terrier Group",
+      "origin": {
+        "country": "England",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Picture_of_Norfolk_Terrier.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Picture_of_Norfolk_Terrier.jpg",
+          "title": "Picture of Norfolk Terrier",
+          "description": "A photograph of a Norfolk Terrier.",
+          "creator": "Pingugu",
+          "uploader": "Pingugu",
+          "capturedOn": "2025-10-12",
+          "uploadedOn": "2026-09-23",
+          "width": 2860,
+          "height": 3814,
+          "licenseId": "cc0-1.0",
+          "attribution": "Photograph by Pingugu, Wikimedia Commons; dedicated to the public domain under CC0 1.0. Credit is appreciated but not required.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-10-27"
+        }
+      ],
+      "overview": {
+        "summary": "The Norfolk Terrier is a small, sturdy British working terrier with folded ears, a weather-resistant wiry coat, and a bold, lively personality. It was developed to work around farms and pursue small vermin, and it still combines a companionable nature with strong curiosity and hunting instincts.",
+        "description": "Compact and low to the ground, the Norfolk Terrier has a broad head, small dark eyes, forward-folding V-shaped ears, short powerful legs, and a hard outer coat over a softer undercoat. Its appearance is practical rather than delicate: the breed was developed to move confidently over rough ground and tackle small quarry. Norfolk Terriers are commonly described as alert, fearless, affectionate, and fun-loving. They can be sociable for terriers, but their prey drive means that reliable management around wildlife and small animals remains important. Daily activity, reward-based training, regular coat care, and close family contact help this energetic little dog thrive.",
+        "history": "The Norfolk Terrier developed in Britain as a small working terrier used around farms and stables to control rats and other small vermin. For many years, Norfolk and Norwich Terriers were shown together as varieties of the Norwich Terrier, distinguished chiefly by ear carriage. The drop-eared variety became the Norfolk Terrier after the two types were separated and cross-breeding was discouraged during the twentieth century. The breed retains the compact build, hardy coat, and tenacious working character associated with its terrier origins.",
+        "originalPurpose": "Working terrier used to pursue and control rats, foxes, and other small vermin, both alone and in groups.",
+        "currentRoles": [
+          "Family companion",
+          "Small-dog activity and walking partner",
+          "Earthdog and other suitable terrier activities",
+          "Obedience and agility participant",
+          "Alert household watchdog"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Small",
+        "height": {
+          "unit": "in",
+          "male": {
+            "min": 9,
+            "max": 10
+          },
+          "female": {
+            "min": 9,
+            "max": 10
+          }
+        },
+        "weight": {
+          "unit": "lb",
+          "male": {
+            "min": 11,
+            "max": 12
+          },
+          "female": {
+            "min": 11,
+            "max": 12
+          }
+        },
+        "lifespanYears": {
+          "min": 12,
+          "max": 16
+        },
+        "coatType": "Double coat with a hard, wiry, straight outer coat and a soft insulating undercoat.",
+        "coatLength": "Medium length. The coat lies close to the body, is longer and rougher around the neck and shoulders, and is shorter and smoother on the head and ears, with modest eyebrows and whiskers.",
+        "coatColors": [
+          "All shades of red",
+          "Wheaten",
+          "Black and tan",
+          "Grizzle"
+        ],
+        "sheddingLevel": "Sheds. Regular brushing and appropriate hand-stripping help manage loose coat and preserve the characteristic wiry texture.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Small, compact, low-set body with good bone and substance.",
+          "Distinctive V-shaped ears that fold forward close to the cheeks.",
+          "Broad skull, strong wedge-shaped muzzle, and alert dark eyes.",
+          "Short, powerful legs suited to moving through rough terrain.",
+          "Hard, wiry outer coat with a softer insulating undercoat.",
+          "A lively, fearless expression and confident working-terrier character."
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Alert",
+          "Fearless",
+          "Lively and fun-loving",
+          "Affectionate with familiar people",
+          "Confident and determined",
+          "Curious and active",
+          "Often more sociable than some terrier breeds",
+          "May pursue small animals because of its prey drive",
+          "Can be persistent when interested in a scent or moving target"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": 3,
+          "withDogs": 3,
+          "withStrangers": 3,
+          "protectiveness": 3,
+          "independence": 3,
+          "trainability": 4,
+          "barking": 3,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate to high for its size. Daily walks, sniffing opportunities, play, and short training sessions help satisfy the breed's active working-terrier nature. The Royal Kennel Club lists exercise needs of up to one hour per day.",
+          "minutesPerDay": null,
+          "activities": [
+            "Daily walks with time to sniff and explore",
+            "Reward-based obedience and recall practice",
+            "Scent-search and food-puzzle games",
+            "Fetch and interactive play in a secure area",
+            "Agility or other suitable small-dog sports",
+            "Earthdog or terrier activities where available and appropriate"
+          ]
+        },
+        "grooming": {
+          "level": "Moderate to high",
+          "brushing": "Brush and comb the coat regularly, at least weekly, paying attention to the wiry outer coat and softer undercoat. Hand-stripping at suitable intervals helps remove dead outer hairs and preserve coat texture; seek an experienced groomer if you are unfamiliar with the technique.",
+          "bathing": "Bathe when necessary rather than on a rigid schedule. Frequent unnecessary bathing or inappropriate clipping may affect the natural texture of the wiry coat.",
+          "notes": [
+            "Hand-stripping is commonly used to maintain the traditional hard coat.",
+            "Routine clipping can soften the coat and alter its texture and colour appearance.",
+            "Check ears regularly for wax, odour, redness, or irritation.",
+            "Trim nails as needed to prevent overgrowth and discomfort.",
+            "Brush teeth regularly using dog-specific toothpaste.",
+            "Check the coat and skin after outdoor activity for debris, ticks, or irritation."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate. Norfolk Terriers are intelligent and can respond well to positive training, but their curiosity and hunting instincts can compete with handler attention.",
+          "tips": [
+            "Use short, upbeat sessions with food rewards, play, and clear criteria.",
+            "Practise recall in secure areas before relying on it near wildlife or moving animals.",
+            "Teach loose-lead walking and attention cues early.",
+            "Reward calm greetings and reinforce appropriate behaviour around other dogs.",
+            "Provide legal outlets for digging, searching, and terrier-style problem-solving.",
+            "Avoid harsh corrections; use consistency, management, and rewards to build reliable habits."
+          ],
+          "socialization": "Introduce puppies gradually and positively to different people, dogs, surfaces, sounds, handling, and everyday environments. Supervise interactions with children and other animals, and allow the dog space to disengage. Continue practising calm behaviour and confidence throughout adulthood."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": true,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Temperate climates",
+            "Cool climates with ordinary protection from severe weather",
+            "Warmer climates when shade, fresh water, ventilation, and cooler exercise times are provided"
+          ],
+          "aloneTimeTolerance": "Individual tolerance varies. Gradually teach calm alone time and provide exercise and enrichment before departures. A routine involving prolonged isolation every day may be unsuitable for a dog that expects regular activity and companionship."
+        }
+      },
+      "nutrition": {
+        "dietType": "Complete and balanced dog food appropriate to life stage, body condition, activity, and veterinary needs.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": null,
+          "senior": null
+        },
+        "guidelines": "Use the chosen food's feeding guide as a starting point and adjust portions for the dog's body condition, activity, and health. Measure meals, account for training treats, and keep fresh water available. Ask a veterinarian for advice when changing diets or managing a medical condition.",
+        "considerations": [
+          "Monitor body condition and adjust portions to avoid excess weight.",
+          "Include treats in the daily calorie allowance.",
+          "Choose food suitable for the dog's life stage and activity.",
+          "Introduce food changes gradually unless veterinary advice indicates otherwise.",
+          "Seek veterinary advice for persistent digestive problems, appetite changes, or unexplained weight changes."
+        ],
+        "note": "A single meal frequency or portion size cannot be reliably prescribed for every Norfolk Terrier; needs depend on age, food energy density, activity, body condition, and health."
+      },
+      "health": {
+        "overview": "Norfolk Terriers are often described as hardy, but inherited health concerns can occur. Breed-club guidance recommends screening for inherited eye disease, mitral valve heart disease, and patellar luxation. Hip dysplasia screening is also discussed, while ichthyosis DNA testing is described as optional in the cited breed-club statement. These recommendations are intended to support responsible breeding and do not mean an individual dog has or will develop a condition.",
+        "commonConditions": [
+          "Patellar luxation, in which the kneecap can move out of its normal position.",
+          "Mitral valve heart disease, which affects a heart valve and should be assessed by a veterinarian.",
+          "Inherited eye diseases; a specialist ophthalmic examination can help identify relevant abnormalities.",
+          "Hip dysplasia, a developmental joint condition for which the breed-club statement describes screening as optional.",
+          "Ichthyosis, a skin disorder for which the cited breed-club statement mentions optional DNA testing."
+        ],
+        "preventiveCare": [
+          "Ask breeders for documented cardiac, eye, and patella screening results for the parents.",
+          "Ask whether hip evaluations and ichthyosis DNA testing are appropriate for the specific breeding lines.",
+          "Keep regular veterinary examinations and parasite prevention up to date.",
+          "Maintain a healthy body condition and provide regular, age-appropriate exercise.",
+          "Seek veterinary advice for a new heart murmur, lameness, persistent skin scaling, or changes in vision.",
+          "Treat screening recommendations as risk management, not as a diagnosis or guarantee of future health."
+        ],
+        "recommendedScreenings": [
+          "Cardiac examination, including assessment appropriate for mitral valve disease.",
+          "Ophthalmologist examination for inherited eye disease.",
+          "Patella evaluation for patellar luxation.",
+          "Hip evaluation may be discussed with the breeder and veterinarian; the cited breed-club statement describes this as optional.",
+          "Ask whether ichthyosis DNA testing is appropriate; the cited breed-club statement describes it as optional."
+        ],
+        "dentalCare": "Brush teeth regularly with dog-specific toothpaste and arrange routine veterinary dental checks. Seek advice for persistent bad breath, gum inflammation, oral pain, or difficulty chewing.",
+        "earCare": "Check the folded ears regularly for wax, debris, odour, redness, or repeated scratching. Clean only as needed with a veterinarian-approved product and seek advice if irritation persists.",
+        "skinCare": "Check skin and coat during brushing, especially after outdoor activity. Seek veterinary advice for persistent itching, redness, sores, or scaling that does not resolve."
+      },
+      "suitability": {
+        "firstTimeOwners": true,
+        "familiesWithChildren": true,
+        "seniorOwners": null,
+        "activeOwners": true,
+        "apartmentLiving": true,
+        "idealFor": [
+          "Owners who enjoy daily walks, play, and training",
+          "Households looking for a small but robust companion",
+          "People willing to manage terrier instincts and practise recall",
+          "Families prepared to supervise children and teach respectful handling",
+          "Owners who can provide regular coat maintenance"
+        ],
+        "notIdealFor": [
+          "Households that expect a low-energy dog with little need for activity",
+          "Owners who need a dog to roam off-lead around wildlife without reliable recall",
+          "Homes with small animals where prey-drive management is not feasible",
+          "People unwilling to maintain a wiry coat or arrange appropriate grooming",
+          "Households where the dog would routinely be left alone for long periods without enrichment"
+        ]
+      },
+      "funFacts": [
+        "The Norfolk Terrier is distinguished from its close relative, the Norwich Terrier, by its folded ears; the Norwich Terrier has erect ears.",
+        "Norfolk and Norwich Terriers were once treated as two ear varieties of the same breed.",
+        "Its hard coat and short legs reflect its origins as a practical working terrier.",
+        "Although small, the Norfolk Terrier was bred for demanding work involving small vermin and rough terrain."
+      ],
+      "faq": [
+        {
+          "question": "Where does the Norfolk Terrier come from?",
+          "answer": "The Norfolk Terrier developed in Britain as a small working terrier used around farms and stables to control small vermin."
+        },
+        {
+          "question": "How can I distinguish a Norfolk Terrier from a Norwich Terrier?",
+          "answer": "The clearest distinction is ear carriage: Norfolk Terriers have ears that fold forward, while Norwich Terriers have erect ears."
+        },
+        {
+          "question": "How tall is a Norfolk Terrier?",
+          "answer": "The American Kennel Club standard lists a mature height of 9 to 10 inches at the withers. Individual dogs may vary."
+        },
+        {
+          "question": "How much does a Norfolk Terrier weigh?",
+          "answer": "The American Kennel Club standard gives a general weight of 11 to 12 pounds, or a weight appropriate to the individual dog's structure and balance. It does not publish a separate male and female range."
+        },
+        {
+          "question": "How long does a Norfolk Terrier live?",
+          "answer": "The American Kennel Club lists a life expectancy of 12 to 16 years. An individual dog's lifespan depends on genetics, health, and care."
+        },
+        {
+          "question": "Does a Norfolk Terrier need a lot of exercise?",
+          "answer": "It is an active working terrier and benefits from daily walks, play, sniffing, and training. The Royal Kennel Club lists exercise needs of up to one hour per day; adjust activity for age and health."
+        },
+        {
+          "question": "Does the Norfolk Terrier shed?",
+          "answer": "Yes. Regular brushing and appropriate hand-stripping help manage the coat and maintain its traditional wiry texture."
+        },
+        {
+          "question": "What health tests should I ask a breeder about?",
+          "answer": "Ask for documented cardiac, eye, and patella screening. The breed-club health statement also discusses optional hip evaluation and ichthyosis DNA testing. Confirm the current recommendations with a veterinarian or the national breed club."
+        },
+        {
+          "question": "Can a Norfolk Terrier live in an apartment?",
+          "answer": "It can adapt to apartment living if it receives daily activity, training, and enrichment. Barking, prey-drive management, and the dog's individual ability to settle indoors should also be considered."
+        }
+      ],
+      "references": [
+        "american-kennel-club-norfolk-terrier-standard",
+        "american-kennel-club-norfolk-terrier",
+        "royal-kennel-club-norfolk-terrier-standard",
+        "royal-kennel-club-norfolk-terrier-profile",
+        "american-kennel-club-terrier-group-health-testing-requirements",
+        "norfolk-terrier-club-health-statement",
+        "commons-picture-of-norfolk-terrier-pingugu"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Conventional scientific designation for the domestic dog; it is not a breed-specific taxonomic distinction."
+        },
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "royal-kennel-club-norfolk-terrier-standard",
+              "role": "verified",
+              "locator": "Breed name and historical description"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Norfolk is used as a shortened common name; Norfolk Terrier is the formal breed name used in the cited standard."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "american-kennel-club-norfolk-terrier-standard",
+              "role": "verified",
+              "locator": "Official standard and Terrier Group classification"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Uses the AKC group label; classifications can differ between registries."
+        },
+        "origin": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "royal-kennel-club-norfolk-terrier-profile",
+              "role": "verified",
+              "locator": "Historical account of the Norfolk and Norwich Terrier varieties"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "England is used as the country of origin in breed references; no narrower origin region is asserted."
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The consulted sources did not establish a single specific region suitable for this field."
+        },
+        "overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-norfolk-terrier-standard",
+              "role": "verified",
+              "locator": "General appearance, working purpose, size, coat and temperament"
+            },
+            {
+              "id": "royal-kennel-club-norfolk-terrier-standard",
+              "role": "cited",
+              "locator": "General appearance, characteristics, temperament and coat"
+            },
+            {
+              "id": "royal-kennel-club-norfolk-terrier-profile",
+              "role": "cited",
+              "locator": "Breed history and characteristics"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Descriptions are original paraphrases of breed-standard and kennel-club information."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "american-kennel-club-norfolk-terrier-standard",
+              "role": "verified",
+              "locator": "Size, proportion, substance, coat and colour"
+            },
+            {
+              "id": "american-kennel-club-norfolk-terrier",
+              "role": "cited",
+              "locator": "Breed profile: height, weight and life expectancy"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Measurement values follow the AKC-published units. The weight standard is general rather than sex-specific, so the same range is displayed for both sexes."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable consulted source established a breed-specific drooling rating."
+        },
+        "temperament": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-norfolk-terrier",
+              "role": "verified",
+              "locator": "Breed profile and description"
+            },
+            {
+              "id": "royal-kennel-club-norfolk-terrier-standard",
+              "role": "cited",
+              "locator": "Characteristics and temperament"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Traits describe common breed tendencies, not guaranteed behaviour in every individual."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-norfolk-terrier",
+              "role": "cited",
+              "locator": "Breed traits, exercise and temperament description"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Scores from 1 to 5 are editorial estimates for app comparison, not official or scientific measurements."
+        },
+        "care": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-norfolk-terrier",
+              "role": "cited",
+              "locator": "Exercise, grooming, training and nutrition"
+            },
+            {
+              "id": "royal-kennel-club-norfolk-terrier-profile",
+              "role": "cited",
+              "locator": "Exercise and grooming guidance"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Care recommendations are general guidance and should be adapted to the individual dog's age, health and behaviour."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The source provides a qualitative recommendation of up to one hour per day, not a precise universal exercise-minute range."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "american-kennel-club-norfolk-terrier",
+              "role": "cited",
+              "locator": "Breed care guidance"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General canine nutrition guidance, not an individual veterinary diet prescription."
+        },
+        "nutrition.feedingFrequency.puppy": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal puppy meal frequency was established by the consulted breed-specific sources."
+        },
+        "nutrition.feedingFrequency.adult": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal adult meal frequency was established by the consulted breed-specific sources."
+        },
+        "nutrition.feedingFrequency.senior": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal senior meal frequency was established by the consulted breed-specific sources."
+        },
+        "health": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "norfolk-terrier-club-health-statement",
+              "role": "verified",
+              "locator": "Recommended inherited-condition screening and optional tests"
+            },
+            {
+              "id": "american-kennel-club-terrier-group-health-testing-requirements",
+              "role": "verified",
+              "locator": "Norfolk Terrier recommended tests: patella, cardiac and ophthalmologist examinations"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Screening guidance and reported inherited conditions are presented as risk-management information, not as claims that every dog is affected."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-norfolk-terrier",
+              "role": "cited",
+              "locator": "Activity, temperament, exercise and breed traits"
+            },
+            {
+              "id": "royal-kennel-club-norfolk-terrier-profile",
+              "role": "cited",
+              "locator": "Exercise, home size and breed characteristics"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability is an editorial assessment based on typical breed needs; individual dogs and households vary."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal senior-owner suitability rating is assigned because owner mobility, support, and dog activity needs vary."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "royal-kennel-club-norfolk-terrier-profile",
+              "role": "verified",
+              "locator": "History of Norfolk and Norwich Terrier recognition"
+            },
+            {
+              "id": "american-kennel-club-norfolk-terrier-standard",
+              "role": "cited",
+              "locator": "Working terrier description and ear carriage"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Historical and conformation details are paraphrased from the cited references."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-norfolk-terrier",
+              "role": "verified",
+              "locator": "Height, weight, lifespan and care profile"
+            },
+            {
+              "id": "norfolk-terrier-club-health-statement",
+              "role": "cited",
+              "locator": "Health-screening guidance"
+            },
+            {
+              "id": "royal-kennel-club-norfolk-terrier-profile",
+              "role": "cited",
+              "locator": "Breed history and exercise profile"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": "Answers paraphrase the cited sources and retain the units those sources publish."
+        }
+      },
+      "updatedOn": "2026-10-27"
+    },
+    {
       "slug": "nova-scotia-duck-tolling-retriever",
       "name": "Nova Scotia Duck Tolling Retriever",
       "scientificName": "Canis lupus familiaris",
@@ -75893,20 +77245,23 @@
       "scientificName": null,
       "alternateNames": [
         "Petit Brabancon",
+        "Brabançon",
         "Brabant Griffon",
+        "Small Brabant Griffon",
+        "Klein Brabandertje",
         "Smooth-coated Brussels Griffon"
       ],
-      "group": "FCI Group 9 — Companion and Toy Dogs; Section 3 — Small Belgian Dogs; without working trial",
+      "group": "Companion and Toy Dogs — Small Belgian Dogs (without working trial)",
       "origin": {
         "country": "Belgium",
-        "region": "Brussels area"
+        "region": "Brussels and historical Duchy of Brabant"
       },
       "images": [
         {
           "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Petit%20brabancon.JPG",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Petit_brabancon.JPG",
           "title": "Petit brabancon.JPG",
-          "description": "Petit Brabançon photographed by the original uploader.",
+          "description": "Red smooth-coated Petit Brabançon standing outdoors on grass, displaying the dark facial mask, short upturned foreface, and compact square build.",
           "creator": "Lusadi",
           "uploader": "Lusadi",
           "capturedOn": "2008-07-27",
@@ -75916,13 +77271,13 @@
           "licenseId": "public-domain",
           "attribution": "Photo by Lusadi, released into the public domain by the copyright holder via Wikimedia Commons. Attribution is not required by the release; credit is retained here for provenance.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-21"
+          "metadataCheckedOn": "2026-10-27"
         },
         {
           "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Petit%20Braban%C3%A7on.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Petit_Braban%C3%A7on.jpg",
           "title": "Petit Brabançon.jpg",
-          "description": "A Petit Brabançon dog photographed in 2012.",
+          "description": "Red Petit Brabançon standing on a green lawn, showing the smooth gleaming coat, broad rounded head, dark round eyes, and dark mask.",
           "creator": "Ger Dekker",
           "uploader": "Frei sein (Flickr upload bot attribution record)",
           "capturedOn": "2012-06-05",
@@ -75932,13 +77287,13 @@
           "licenseId": "cc-by-sa-2.0",
           "attribution": "Photo by Ger Dekker, via Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate any changes made; adaptations must comply with applicable share-alike terms.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-21"
+          "metadataCheckedOn": "2026-10-27"
         },
         {
           "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Smallbrabanconpetit-black%26tan1.jpg",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:Smallbrabanconpetit-black%26tan1.jpg",
           "title": "Smallbrabanconpetit-black&tan1.jpg",
-          "description": "A black-and-tan Petit Brabançon.",
+          "description": "Black-and-tan Petit Brabançon showing the smooth close-lying coat and warm tan markings on the cheeks, chin, chest, eyebrows, and lower limbs.",
           "creator": "Canarian",
           "uploader": "Canarian",
           "capturedOn": "2023-10-08",
@@ -75948,19 +77303,19 @@
           "licenseId": "cc-by-sa-4.0",
           "attribution": "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate any changes made; adaptations must comply with applicable share-alike terms.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-21"
+          "metadataCheckedOn": "2026-10-27"
         }
       ],
       "overview": {
-        "summary": "The Petit Brabançon is a small, short-coated Belgian companion dog with a sturdy, nearly square build, a short muzzle, and an alert, expressive face. It is closely related to the rough-coated Brussels Griffon and Belgian Griffon; the smooth coat distinguishes this variety. Typically people-focused and watchful, it thrives with kind training, close companionship, and care that takes its compact size and short face into account.",
-        "description": "Compact but not delicate in build, the Petit Brabançon has a broad head, large dark eyes, a short nose, and a smooth coat that lies close to the body. The breed standard describes a confident, attentive dog strongly attached to its owner, without timidity or aggression. Many enjoy being involved in household routines and short play or training sessions. Because the muzzle is short and the body is small, owners should watch for breathing difficulty in heat, avoid rough handling, and protect the dog from falls or play that could cause injury.",
-        "history": "The Petit Brabançon shares its origins with the Brussels Griffon and Belgian Griffon. The FCI breed history traces the three varieties to small rough-coated dogs known as Smousje in the Brussels area. In the nineteenth century, crosses involving King Charles Spaniels and Pugs helped shape the modern type, including the short-coated variety. These small dogs were used around stables and carriages, including for alerting people and controlling rodents, and later became companion dogs.",
-        "originalPurpose": "A small alert companion and watchdog, historically kept around Brussels stables and carriages and used to help control rodents.",
+        "summary": "The Petit Brabançon is the smooth-coated member of Belgium's trio of small companion griffons, pairing a sturdy, cob-like square frame with an expressive, almost human-looking face. Distinguished from its wire-haired relatives by a sleek, flat coat no longer than 2 cm and an un-bearded chin that reveals its upturned lower jaw in profile, this observant and deeply devoted companion thrives on close household involvement, gentle reward-based training, and attentive care for its short muzzle and prominent dark eyes.",
+        "description": "Substantial in bone despite its diminutive stature, the Petit Brabançon is built on a practically square outline in which body length from shoulder point to buttock matches height at the withers. Its broad, rounded skull—proportionally large for its body without appearing domed—drops through a deep stop to an extremely short foreface measuring at most 1.5 cm. Because the tip of the wide-nostriled black nose tilts slightly backward and the broad, upturned lower jaw projects ahead of the upper jaw in an undershot bite, the chin, nose leather, and forehead align along the same plane when viewed from the side. Without rough facial furnishings or eyebrows, the smooth-coated face looks slightly longer in the foreface than that of its rough-coated cousins and highlights a dark facial mask alongside large, round, wide-set dark brown eyes rimmed in black. A straight, short back, broad chest reaching the elbows, well-sprung ribs, and parallel, well-boned limbs produce a balanced, purposeful trot with strong rear drive. Indoors, the breed is affectionate, comical, and intently watchful without nervousness or hostility, bonding closely with its people while needing sensible protection against overheating, rough play, and high jumps.",
+        "history": "Together with its rough-coated Belgian siblings—the red Griffon Bruxellois and the black or black-and-tan Griffon Belge—the Petit Brabançon traces its roots to a small, wiry-coated working dog called the Smousje that had lived around the Brussels region for centuries. Throughout the nineteenth century, Brussels coachmen and stable hands kept these agile little dogs in cab yards to guard carriages and clear stables of rats. To refine the local stable dog's head type and coat, nineteenth-century breeders introduced crosses with the Ruby King Charles Spaniel and the Pug; the Pug outcross in particular introduced the short, smooth coat alongside the broadened skull, upturned jaw, and dark mask that define the Petit Brabançon. Early foundation dogs named Topsy and Foxine entered the Belgian national studbook in 1883, and around 1900 the trio gained international prominence across Europe and overseas after Queen Marie-Henriette of Belgium became an enthusiastic patron and breeder. Named after the historical Belgian province and duchy of Brabant, the smooth-coated variety achieved definitive international recognition as a distinct breed in October 1954, even as several English-speaking countries continued to judge smooth and rough coats as varieties of a single breed.",
+        "originalPurpose": "Carriage guardian, stable ratter, and alert small companion dog in nineteenth-century Brussels.",
         "currentRoles": [
-          "Companion dog",
-          "Household watchdog",
-          "Obedience and trick-training partner",
-          "Suitable low-impact canine activities"
+          "Devoted indoor household and family companion",
+          "Alert domestic watchdog",
+          "Conformation show dog",
+          "Participant in low-impact canine sports such as rally, obedience, trick training, and scent games"
         ]
       },
       "physical": {
@@ -75985,39 +77340,39 @@
           "min": 12,
           "max": 15
         },
-        "coatType": "Short, smooth, close-lying coat.",
-        "coatLength": "Short and close to the body, without the longer facial furnishings of the rough-coated Griffon varieties.",
+        "coatType": "Short, smooth, harsh-textured, flat, and glossy coat lying close to the body, without a beard, moustache, or eyebrow furnishings.",
+        "coatLength": "Short and close-lying across the entire body and head, measuring at most 2 cm in length.",
         "coatColors": [
-          "Red",
+          "Red or reddish with a dark mask",
           "Black",
-          "Black and tan",
+          "Black and tan (with rich, sustained tan markings on the cheeks, chin, eyebrows, inside the ears, chest, lower limbs, and beneath the tail)",
           "Black mixed with reddish-brown (belge)"
         ],
-        "sheddingLevel": "Low to moderate; some seasonal loose hair is possible.",
-        "droolingLevel": null,
+        "sheddingLevel": "Low to moderate; unlike the hand-stripped rough varieties, the smooth coat sheds short hairs throughout the year with heavier seasonal coat drops.",
+        "droolingLevel": "Low",
         "distinctiveFeatures": [
-          "Compact, nearly square body",
-          "Large, broad head relative to the body",
-          "Very short muzzle and black nose",
-          "Large, round, dark eyes",
-          "Short, smooth coat",
-          "Slightly undershot jaw is characteristic of the breed standard"
+          "Expressive, almost human-looking face with the chin, tilted black nose, and rounded forehead aligned on the same plane in profile",
+          "Extremely short foreface (at most 1.5 cm including the nose) with wide-open nostrils and a pronounced stop",
+          "Broad, upwardly curved undershot lower jaw with a prominent chin and tightly closed black lips that conceal both teeth and tongue",
+          "Large, round, wide-set dark brown eyes rimmed in black that do not bulge or show white sclera",
+          "Harsh, flat, gleaming short coat (maximum 2 cm long) with a dark facial mask and no beard or eyebrow furnishings",
+          "Compact, well-boned, practically square body with a broad chest and small, round cat-like feet"
         ]
       },
       "temperament": {
         "traits": [
-          "Strongly attached to familiar people",
-          "Alert and watchful",
-          "Confident and proud in carriage",
-          "Intelligent and responsive",
-          "Can be sensitive to harsh handling",
-          "May be reserved with unfamiliar people",
-          "Often playful and people-oriented"
+          "Deeply devoted and attached to its household",
+          "Alert, observant, and watchful",
+          "Proud, confident, and self-assured in bearing",
+          "Intelligent, curious, and quick to learn",
+          "Playful and comical with familiar people",
+          "Sensitive to harsh voices or rough handling",
+          "Often polite or aloof with unfamiliar visitors"
         ],
         "scores": {
           "affection": 5,
           "withChildren": 3,
-          "withDogs": 3,
+          "withDogs": 4,
           "withStrangers": 3,
           "protectiveness": 3,
           "independence": 2,
@@ -76028,161 +77383,162 @@
       },
       "care": {
         "exercise": {
-          "level": "Low to moderate",
+          "level": "Moderate",
           "minutesPerDay": {
             "min": 30,
             "max": 45
           },
           "activities": [
-            "Daily walks adapted to age and breathing comfort",
-            "Short reward-based training sessions",
-            "Indoor play and food-puzzle games",
-            "Supervised sniffing and exploration",
-            "Low-impact play in safe, temperate conditions"
+            "Brisk daily walks on a comfortable body harness during cool or temperate hours",
+            "Short, upbeat reward-based trick, rally, or obedience practice",
+            "Indoor fetch, hide-and-seek, and interactive food-puzzle toys",
+            "Controlled nosework and sniffing games in a secure yard or living room"
           ]
         },
         "grooming": {
           "level": "Low",
-          "brushing": "Brush the short coat once or twice a week with a soft brush or grooming mitt to remove loose hair and check the skin.",
-          "bathing": "Bathe when needed using a dog-appropriate shampoo, and dry thoroughly. Avoid getting shampoo or water into the eyes and ears.",
+          "brushing": "Brush once or twice weekly with a soft bristle brush, rubber curry pad, or hound glove to lift loose hair, distribute skin oils, and maintain the coat's natural sheen.",
+          "bathing": "Bathe every few weeks or when dirty using a mild canine shampoo, rinsing and drying thoroughly while shielding the large eyes and ear canals from water.",
           "notes": [
-            "Wipe facial folds gently when needed and dry them to reduce moisture build-up.",
-            "Check eyes regularly because prominent eyes can be vulnerable to irritation or injury.",
-            "Trim nails routinely and inspect paws.",
-            "Brush teeth with dog-safe toothpaste; small companion breeds can need particular attention to dental health."
+            "Unlike its rough-coated Belgian relatives, the Petit Brabançon never requires hand-stripping or beard trimming, though its smooth coat sheds more noticeably during seasonal transitions.",
+            "Gently wipe the shallow nasal and facial creases with a soft damp cloth and dry them completely to prevent moisture build-up or skin irritation.",
+            "Inspect the large, prominent eyes daily for dust, redness, squinting, or tear staining.",
+            "Keep the black nails trimmed short so the small, round feet maintain proper posture and traction."
           ]
         },
         "training": {
-          "difficulty": "Moderate; generally responsive to gentle, consistent training, though house-training may take patience.",
+          "difficulty": "Moderate; bright and eager to engage with its owner, though sensitive to stern corrections and occasionally slow to master house-training.",
           "tips": [
-            "Use short, upbeat, reward-based sessions.",
-            "Keep house-training routines predictable and provide frequent toilet breaks, especially for puppies.",
-            "Teach calm handling and cooperative care early.",
-            "Avoid harsh corrections, which can undermine confidence.",
-            "Use secure equipment and supervise around larger dogs because of the breed's small size."
+            "Use short, varied training sessions built around praise, play, and tiny high-value food rewards.",
+            "Establish a strict, frequent outdoor schedule—or an indoor litter/pad system during extreme weather—because toy breeds have small bladders and require patience during house-training.",
+            "Practice gradual departures and calm crate or pen rest from puppyhood to prevent separation distress in this velcro-like companion.",
+            "Fit a well-padded Y-front body harness rather than attaching a leash to a neck collar, protecting the airway and cervical spine."
           ],
-          "socialization": "Introduce the dog gradually and positively to people, calm dogs, handling, sounds, and everyday environments during puppyhood and continue throughout life."
+          "socialization": "Provide calm, positive introductions to varied people, gentle dogs of different sizes, household noises, car travel, and veterinary or grooming handling throughout puppyhood and adult life."
         },
         "livingEnvironment": {
           "apartmentSuitable": true,
           "houseWithYardSuitable": true,
           "climates": [
-            "Temperate conditions are generally easier to manage",
-            "Use extra caution in hot or humid weather because of the short muzzle",
-            "Provide warmth and shelter in cold weather"
+            "Thrives best in temperate indoor environments",
+            "Highly sensitive to hot or humid weather due to its very short brachycephalic airway",
+            "Needs a warm sweater or coat during cold, wet, or windy winter walks because of its short single coat"
           ],
-          "aloneTimeTolerance": "Often companionship-oriented; build alone time gradually and avoid routinely leaving the dog alone for long periods."
+          "aloneTimeTolerance": "Low; bonds intensely with its people and dislikes prolonged isolation, making it best suited to households where someone is home much of the day."
         }
       },
       "nutrition": {
-        "dietType": "A complete and balanced dog food appropriate to life stage, body condition, and veterinary needs.",
+        "dietType": "Complete, balanced commercial or veterinary-formulated small-breed diet matched to life stage, activity level, and body condition.",
         "feedingFrequency": {
-          "puppy": "Usually 3–4 small meals daily, adjusted to age and the food's directions.",
-          "adult": "Usually 2 measured meals daily.",
-          "senior": "Often 2 measured meals daily; adjust energy intake and diet to health, appetite, and body condition."
+          "puppy": "Three to four small, scheduled meals per day in early puppyhood to support steady growth and help prevent juvenile hypoglycaemia, tapering to two or three meals as growth slows.",
+          "adult": "Two measured meals per day.",
+          "senior": "Two measured meals per day, adjusted for senior energy requirements, dental comfort, and any concurrent medical needs."
         },
-        "guidelines": "Choose a complete diet appropriate for the dog's age and condition. Measure portions, account for treats, provide fresh water, and adjust intake to maintain a lean body condition. Ask a veterinarian to advise on individual calorie needs, dental issues, or medical diets.",
+        "guidelines": "Select a nutrient-dense diet with small kibble geometry suited to a short, undershot jaw. Weigh daily portions on a kitchen scale rather than estimating by volume, deduct training treats from the daily calorie allowance, and keep clean water accessible at all times. Aim for a palpable ribcage and visible waist so excess weight never adds strain to the airway or kneecaps.",
         "considerations": [
-          "Small dogs can gain excess weight when treats and portions are not measured.",
-          "Use small, appropriately sized treats during training.",
-          "Monitor eating comfort and dental health; consult a veterinarian if chewing or swallowing changes."
+          "Even slight weight gain noticeably worsens respiratory effort in short-muzzled dogs and increases mechanical stress on the patellae and hips.",
+          "Small, flat-faced dogs may swallow air while eating rapidly; shallow, wide dishes or slow-feeder mats can make mealtime more comfortable.",
+          "Crowded teeth in a shortened jaw predispose the breed to plaque accumulation, so pair appropriate diet texture with daily toothbrushing."
         ],
-        "note": "Feeding amounts vary with age, activity, metabolism, body condition, and food energy density; no single gram amount is appropriate for every dog."
+        "note": "Calorie needs vary according to age, metabolism, neuter status, and activity; consult a veterinarian for individualized portion targets."
       },
       "health": {
-        "overview": "The breed's very short face and prominent eyes deserve particular attention. Related Brussels Griffon health programmes identify patellar luxation, eye disorders, cardiac concerns, hip dysplasia, and respiratory function among issues that may be screened in breeding dogs. These are potential concerns, not a diagnosis or a statement that every Petit Brabançon will develop them. Seek veterinary assessment for noisy or laboured breathing, exercise intolerance, eye pain, limping, or fainting.",
+        "overview": "While generally a hardy and long-lived toy breed, the Petit Brabançon carries health vulnerabilities linked to its brachycephalic skull conformation and diminutive frame. Peer-reviewed magnetic resonance imaging (MRI) studies of the Griffon Bruxellois and Petit Brabançon population have documented a high prevalence of Chiari-like malformation (characterised by a shortened basicranium and supraoccipital bone) and syringomyelia (fluid-filled cavities within the spinal cord), which can occur both with and without outward pain or neurological signs. In addition, the extremely short muzzle and large, round eyes increase susceptibility to brachycephalic obstructive airway syndrome (BOAS), heat stress, and corneal trauma or inherited eye disorders, while orthopaedic issues such as patellar luxation, hip dysplasia, and Legg-Calvé-Perthes disease also occur in the breed population.",
         "commonConditions": [
-          "Brachycephalic airway or heat-intolerance concerns associated with a short muzzle",
-          "Patellar luxation",
-          "Eye disorders, including cataracts or other inherited eye defects",
-          "Cardiac conditions",
-          "Hip dysplasia",
-          "Potential spinal or neurological conditions reported in the related Brussels Griffon population; breed-specific prevalence is uncertain"
+          "Chiari-like malformation (CM) and syringomyelia (SM)",
+          "Brachycephalic obstructive airway syndrome (BOAS) and heat intolerance",
+          "Patellar luxation (slipping kneecaps)",
+          "Inherited and conformational eye conditions (including cataracts, progressive retinal atrophy, distichiasis, corneal ulceration, and dry eye)",
+          "Hip dysplasia and Legg-Calvé-Perthes disease",
+          "Congenital or acquired cardiac conditions",
+          "Dental crowding, retained deciduous teeth, and early periodontal disease",
+          "Dystocia (whelping difficulties associated with the puppy's broad skull and the dam's compact pelvis)"
         ],
         "preventiveCare": [
-          "Arrange routine veterinary wellness examinations and keep vaccinations and parasite prevention current.",
-          "Maintain a lean body condition and avoid strenuous exercise in hot or humid weather.",
-          "Seek prompt veterinary advice for noisy breathing, open-mouth breathing at rest, blue or pale gums, collapse, eye squinting, or sudden lameness.",
-          "Use a harness that does not put pressure on the neck, and supervise jumping from furniture.",
-          "Maintain regular dental care and monitor the eyes for redness, discharge, cloudiness, or injury."
+          "Keep the dog in lean body condition and restrict outdoor exercise to cool morning or evening hours during warm weather.",
+          "Walk the dog on a chest harness rather than a neck collar to avoid tracheal and cervical pressure.",
+          "Use pet stairs or ramps beside beds and sofas so the dog does not jump down onto hard floors.",
+          "Monitor closely for signs of neuropathic pain or syringomyelia—such as phantom scratching toward the neck or shoulder without touching the skin, unprovoked yelping, neck stiffness, or limb weakness—and seek veterinary neurological evaluation promptly.",
+          "Schedule regular veterinary wellness exams, vaccinations, parasite prevention, and professional dental assessments, including checking puppies for retained baby teeth."
         ],
         "recommendedScreenings": [
-          "Veterinary patellar luxation assessment",
-          "Ophthalmologist eye examination",
-          "Cardiac examination as advised by the veterinarian or breeding programme",
-          "Hip evaluation where recommended",
-          "Respiratory function assessment for breeding dogs where an appropriate scheme is available",
-          "Discuss relevant family history and any additional tests with a breed-informed veterinarian"
+          "Ophthalmologist eye examination (annual screening for cataracts and other inherited ocular disorders)",
+          "Veterinary patellar luxation evaluation (performed at 12 months of age or older)",
+          "Magnetic resonance imaging (MRI) screening of the craniocervical junction and spine for Chiari-like malformation and syringomyelia in breeding stock",
+          "Respiratory function grading assessment for brachycephalic airway obstruction",
+          "Radiographic hip evaluation and veterinary cardiac auscultation or echocardiogram as advised for breeding lines"
         ],
-        "dentalCare": "Brush teeth regularly with dog-safe toothpaste and arrange veterinary dental checks. Ask a veterinarian to assess retained teeth, crowding, bad breath, oral pain, or difficulty chewing.",
-        "earCare": "Check the ears regularly and clean only when needed with a veterinary-recommended product. Seek advice for persistent odour, redness, discharge, or head-shaking.",
-        "skinCare": "Inspect the short coat and skin during grooming. Keep facial folds clean and dry, and consult a veterinarian about persistent itching, redness, sores, or unusual hair loss."
+        "dentalCare": "Brush the teeth daily using a soft finger brush or toy-breed toothbrush and veterinary enzymatic toothpaste. Because the shortened, undershot jaws often crowd the incisors and premolars, check young dogs for retained deciduous teeth that may require extraction and schedule regular veterinary dental cleanings.",
+        "earCare": "Inspect the high-set semi-erect ears weekly for wax build-up, redness, or odour, and wipe the inner pinna gently with a veterinarian-approved ear cleanser after baths.",
+        "skinCare": "Wipe the shallow nasal fold and chin area clean with a soft cloth, dry thoroughly, and inspect the short coat during weekly brushing for dry skin, redness, or external parasites."
       },
       "suitability": {
         "firstTimeOwners": true,
-        "familiesWithChildren": true,
+        "familiesWithChildren": false,
         "seniorOwners": true,
         "activeOwners": true,
         "apartmentLiving": true,
         "idealFor": [
-          "People who want a small, people-oriented companion",
-          "Households able to provide daily interaction and gentle training",
-          "Apartment dwellers who can provide walks and enrichment",
-          "Owners willing to monitor breathing, heat tolerance, and eye health"
+          "Adults, seniors, or families with gentle older children seeking an affectionate indoor companion",
+          "Apartment and condominium residents who enjoy daily walks and indoor interactive play",
+          "Work-from-home owners or households where someone is present for most of the day",
+          "Enthusiasts who appreciate the expressive personality of the Belgian griffon family but prefer a low-maintenance smooth coat over a hand-stripped wire coat"
         ],
         "notIdealFor": [
-          "People seeking a dog that can be left alone for long periods",
-          "Households where small dogs may be handled roughly or exposed to unsafe play",
-          "Owners who expect vigorous outdoor exercise in hot or humid conditions",
-          "People unwilling to budget for routine dental and veterinary care"
+          "Households where the dog would routinely be left alone for long workdays",
+          "Families with toddlers or boisterous young children who might accidentally drop, step on, or roughly handle a toy dog",
+          "Owners looking for a running partner in hot or humid climates",
+          "Buyers unwilling to verify parent health screenings for eyes, patellae, airway function, and neurological health"
         ]
       },
       "funFacts": [
-        "The Petit Brabançon is the smooth-coated variety among three closely related Belgian breeds described together in the FCI standard.",
-        "Its name refers to Brabant, the historical region associated with the breed name.",
-        "The breed's ancestors were used around stables and carriages before becoming popular companion dogs."
+        "Although recognised internationally as a distinct breed from the rough-coated Griffon Bruxellois and Griffon Belge, all three Belgian varieties share the same ancestry and can be born in the very same litter.",
+        "Because the Petit Brabançon lacks a beard and eyebrows, its short muzzle actually looks slightly longer to the eye than the furnished muzzle of its rough-coated siblings—even though their underlying skull measurements are identical.",
+        "Nineteenth-century Brussels cabbies perched these fearless little dogs on their coach boxes to watch over horses and carriages between fares while keeping the stables free of rodents.",
+        "Queen Marie-Henriette of Belgium became so devoted to the Belgian griffons in the late nineteenth century that royal patronage turned the once-humble Brussels stable ratter into an international society favourite by 1900."
       ],
       "faq": [
         {
-          "question": "What is a Petit Brabançon?",
-          "answer": "It is a small Belgian companion breed and the short-coated variety among the Petit Brabançon, Brussels Griffon, and Belgian Griffon group described by the FCI."
+          "question": "How does the Petit Brabançon differ from the Griffon Bruxellois and Griffon Belge?",
+          "answer": "All three share the same body proportions, weight range, and nineteenth-century Brussels origin, but differ in coat texture and colour. The Griffon Bruxellois has a rough, wiry red coat with a beard and eyebrows; the Griffon Belge has that same rough, bearded coat in black or black-and-tan; and the Petit Brabançon has a short, smooth, glossy coat (at most 2 cm long) with no facial furnishings in red, black, black-and-tan, or belge, accented by a dark facial mask."
         },
         {
-          "question": "How much does a Petit Brabançon weigh?",
-          "answer": "The FCI standard gives a weight range of 3.5–6 kg. Individual dogs should be assessed by body condition and veterinary advice rather than weight alone."
+          "question": "How much does an adult Petit Brabançon weigh?",
+          "answer": "Adult males and females typically weigh between 3.5 and 6 kg, with some populations favouring a slightly lighter target of 3.2 to 5 kg. Regardless of the reading on the scale, an individual dog should have a firm, well-muscled body with easily felt ribs and a clear waist."
         },
         {
-          "question": "What colours can it have?",
-          "answer": "The standard accepts red, black, black-and-tan, and belge colouring, with a dark facial mask. The exact wording and acceptance of colours should be checked against the registry standard being used."
+          "question": "Does the smooth coat mean the Petit Brabançon sheds less than the rough varieties?",
+          "answer": "No—in practice, the smooth-coated Petit Brabançon sheds more noticeably around the house than a properly hand-stripped rough griffon. While the rough coat holds dead hairs until they are stripped or brushed out, the Petit Brabançon releases short hairs year-round and goes through heavier seasonal sheds, though weekly brushing with a rubber curry mit keeps loose fur easy to manage."
         },
         {
-          "question": "Is the Petit Brabançon good for apartment living?",
-          "answer": "Its small size can suit apartment life when it receives daily walks, enrichment, companionship, and training. The owner must also manage its short-muzzle sensitivity to heat."
+          "question": "What health screenings should prospective owners ask breeders to provide?",
+          "answer": "Ask to see documented veterinary ophthalmologist eye clearances and patellar luxation evaluations for both parents, and inquire about magnetic resonance imaging (MRI) screening for Chiari-like malformation and syringomyelia as well as respiratory function grading, cardiac exams, and hip evaluations."
         },
         {
-          "question": "Does it need a lot of grooming?",
-          "answer": "Its short, smooth coat usually needs less grooming than the rough-coated related varieties. Regular brushing, nail care, dental care, and attention to facial hygiene are still important."
+          "question": "Is the Petit Brabançon a good choice for apartment living?",
+          "answer": "Yes, its compact toy stature and moderate exercise needs fit apartment life very well, provided the owner supplies daily walks, mental enrichment, consistent reward-based training, and plenty of human company so the dog is not left isolated for long hours."
         },
         {
-          "question": "What health checks should I ask a breeder about?",
-          "answer": "Ask for documented eye and patella screening, discuss cardiac and hip evaluation where appropriate, and ask what respiratory or other tests are advised for the family line. A veterinarian can help interpret results."
-        },
-        {
-          "question": "Can it tolerate hot weather?",
-          "answer": "A short muzzle can make heat and humidity harder to manage. Keep activity gentle in warm weather, provide shade and water, and seek urgent veterinary help for distress or laboured breathing."
+          "question": "Why does the Petit Brabançon need special care in warm weather?",
+          "answer": "Its extremely short muzzle (at most 1.5 cm) reduces the nasal surface area that normally cools inhaled air, making the dog vulnerable to overheating and airway distress. Walk during cool morning or evening hours, provide air-conditioning or shade in summer, and use a body harness instead of a collar."
         }
       ],
       "references": [
         "fci-petit-brabancon-standard",
         "fci-petit-brabancon-nomenclature",
+        "royal-club-griffons-petit-brabancon-standard",
+        "royal-kennel-club-griffon-bruxellois",
         "american-kennel-club-brussels-griffon",
         "american-brussels-griffon-association-health",
         "american-brussels-griffon-association-owner-guide",
+        "ofa-brachycephalic-rfgs",
+        "rusbridge-2009-griffon-chiari-jsap",
         "wikimedia-petit-brabancon-lusadi",
         "wikimedia-petit-brabancon-ger-dekker",
         "wikimedia-petit-brabancon-canarian",
         "wsava-global-nutrition-guidelines",
-        "avma-pet-dental-care"
+        "avma-pet-dental-care",
+        "the-dog-api"
       ],
       "evidence": {
         "alternateNames": {
@@ -76191,22 +77547,43 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "Breed name and varieties"
+              "locator": "Breed title and smooth-coated variety description"
+            },
+            {
+              "id": "royal-club-griffons-petit-brabancon-standard",
+              "role": "verified",
+              "locator": "Dutch and English breed titles: Klein Brabandertje / Petit Brabançon / Small Brabant"
             },
             {
               "id": "american-kennel-club-brussels-griffon",
               "role": "verified",
-              "locator": "Breed profile; smooth-coated variety"
+              "locator": "Breed profile: smooth-coated variety known as Brabançon / Smooth-coated Brussels Griffon"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.alt_names lists 'Griffon Bruxellois', 'Brussels Griffon', 'Griffon belge', and 'Petit Brabançon'; under FCI nomenclature Griffon Bruxellois (No. 80) and Griffon Belge (No. 81) are separate rough-coated breeds, and 'Petit Brabançon' duplicates the canonical breed name."
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Alternate names describe the breed or its smooth-coated variety; terminology varies by registry."
+          "verifiedOn": "2026-10-27",
+          "note": "Includes English, French, and Dutch names used for the smooth-coated breed while excluding the canonical name and rough-coated sister breed names."
         },
         "scientificName": {
           "reliability": "unavailable",
-          "sources": [],
+          "sources": [
+            {
+              "id": "fci-petit-brabancon-standard",
+              "role": "cited",
+              "locator": "Standard header (no scientific binomial recorded)"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "cited",
+              "locator": "breed.scientificName (null)"
+            }
+          ],
           "verifiedOn": null,
-          "note": "No breed-specific scientific name is used in the official breed standard."
+          "note": "Neither the official breed standard nor The Dog API specifies a breed-specific scientific binomial."
         },
         "group": {
           "reliability": "official_standard",
@@ -76214,11 +77591,26 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "FCI classification"
+              "locator": "Classification: Group 9 Companion and Toy Dogs, Section 3 Small Belgian Dogs, without working trial"
+            },
+            {
+              "id": "fci-petit-brabancon-nomenclature",
+              "role": "verified",
+              "locator": "Group n°9 - Companion and Toy Dogs, Section Small Belgian Dogs"
+            },
+            {
+              "id": "royal-kennel-club-griffon-bruxellois",
+              "role": "verified",
+              "locator": "Toy Group"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.breed_group: 'Toy'"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": null
+          "verifiedOn": "2026-10-27",
+          "note": "Expressed without registry acronyms in user-facing text."
         },
         "origin": {
           "reliability": "official_standard",
@@ -76226,11 +77618,21 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "Origin and historical summary"
+              "locator": "Origin: Belgium; Brief historical summary: Brussels area"
+            },
+            {
+              "id": "fci-petit-brabancon-nomenclature",
+              "role": "verified",
+              "locator": "Country of origin of the breed: BELGIUM"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.origin: 'Brussels, Belgium'"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": null
+          "verifiedOn": "2026-10-27",
+          "note": "The Dog API combines city and country in its origin string ('Brussels, Belgium'); separated here into country and region."
         },
         "origin.country": {
           "reliability": "official_standard",
@@ -76238,10 +77640,20 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "Origin"
+              "locator": "Origin: Belgium"
+            },
+            {
+              "id": "fci-petit-brabancon-nomenclature",
+              "role": "verified",
+              "locator": "Country of origin: BELGIUM"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.origin: 'Brussels, Belgium'"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-27",
           "note": null
         },
         "origin.region": {
@@ -76250,11 +77662,16 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "Brief historical summary: Brussels area"
+              "locator": "Brief historical summary: Brussels area and Brabant name"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.origin: 'Brussels, Belgium'"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The standard links the shared varieties to the Brussels area."
+          "verifiedOn": "2026-10-27",
+          "note": "Links the breed's development to Brussels and the surrounding Brabant region."
         },
         "overview": {
           "reliability": "official_standard",
@@ -76262,29 +77679,80 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "Historical summary, general appearance, and temperament"
+              "locator": "Utilisation, Brief historical summary, General appearance, Important proportions, Behaviour/temperament, Head, Body, Limbs, Coat"
+            },
+            {
+              "id": "royal-club-griffons-petit-brabancon-standard",
+              "role": "verified",
+              "locator": "Complete English text of Standard No. 82 (Smousje ancestry, Ruby King Charles Spaniel and Pug crosses, 1883 L.O.S.H. registrations Topsy No. 163 and Foxine No. 164, Queen Marie-Henriette)"
+            },
+            {
+              "id": "fci-petit-brabancon-nomenclature",
+              "role": "verified",
+              "locator": "Date of acceptance on a definitive basis: 26/10/1954"
+            },
+            {
+              "id": "american-kennel-club-brussels-griffon",
+              "role": "verified",
+              "locator": "About the Breed, History, and current companion/sporting roles"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.description and breed.history (facts cross-checked and completely rewritten)"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "User-facing text is an original paraphrase of breed history and characteristics."
+          "verifiedOn": "2026-10-27",
+          "note": "All user-facing prose is written in original wording with registry names omitted."
         },
         "physical.sizeCategory": {
-          "reliability": "estimate",
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-petit-brabancon-standard",
+              "role": "verified",
+              "locator": "Group 9 Companion and Toy Dogs; Weight 3.5–6 kg"
+            },
+            {
+              "id": "royal-kennel-club-griffon-bruxellois",
+              "role": "verified",
+              "locator": "Toy Group; Size 3.2–5 kg"
+            },
+            {
+              "id": "american-kennel-club-brussels-griffon",
+              "role": "verified",
+              "locator": "Toy Group"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": null
+        },
+        "physical.height": {
+          "reliability": "unavailable",
           "sources": [
             {
               "id": "fci-petit-brabancon-standard",
               "role": "cited",
-              "locator": "General appearance and weight"
+              "locator": "Important proportions & Weight (defines square body proportions and 3.5–6 kg weight without a numerical height range)"
+            },
+            {
+              "id": "royal-kennel-club-griffon-bruxellois",
+              "role": "cited",
+              "locator": "Size section (specifies weight 3.2–5 kg only, with no numerical height range)"
+            },
+            {
+              "id": "american-kennel-club-brussels-griffon",
+              "role": "conflicting",
+              "locator": "Breed profile header lists 'Height: 7–10 inches' whereas the official breed standard specifies weight only"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.height.metric: 18–25 cm (derived from the non-standard 7–10 in profile estimate rather than the official FCI standard)"
             }
           ],
           "verifiedOn": null,
-          "note": "Toy is the catalogue's descriptive size category, not a formal FCI category."
-        },
-        "physical.height": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "The FCI standard does not provide a numeric height range for this breed."
+          "note": "Kept null because neither FCI Standard No. 82 nor the Royal Kennel Club standard specifies a numerical height at the withers; The Dog API's 18–25 cm and AKC profile's 7–10 in are recorded as conflicting non-standard figures."
         },
         "physical.weight": {
           "reliability": "official_standard",
@@ -76292,23 +77760,53 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "Weight: 3.5–6 kg"
+              "locator": "WEIGHT: Varies from 3.5 to 6 kg"
+            },
+            {
+              "id": "royal-club-griffons-petit-brabancon-standard",
+              "role": "verified",
+              "locator": "Weight: Varies from 3.5 kg to 6 kg"
+            },
+            {
+              "id": "royal-kennel-club-griffon-bruxellois",
+              "role": "conflicting",
+              "locator": "Size: 3.2–5 kgs (7–11 lbs); most desirable 3.6–4.5 kgs (8–10 lbs)"
+            },
+            {
+              "id": "american-kennel-club-brussels-griffon",
+              "role": "conflicting",
+              "locator": "Weight: 8–10 pounds (standard states usually 8 to 10 pounds, not to exceed 12 pounds)"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.weight.metric: 4–5 kg (narrower than the FCI official standard range of 3.5–6 kg)"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The standard gives one range for the breed rather than separate male and female ranges."
+          "verifiedOn": "2026-10-27",
+          "note": "Retains the exact FCI Standard No. 82 range of 3.5–6 kg in kilograms without unit conversion, while logging The Dog API (4–5 kg), RKC (3.2–5 kg), and AKC (8–10 lb, max 12 lb) differences."
         },
         "physical.lifespanYears": {
           "reliability": "reliable_source",
           "sources": [
             {
+              "id": "american-kennel-club-brussels-griffon",
+              "role": "verified",
+              "locator": "Life Expectancy: 12–15 years"
+            },
+            {
               "id": "american-brussels-griffon-association-owner-guide",
               "role": "verified",
-              "locator": "FAQ: expected age span for Brussels Griffons"
+              "locator": "Expected lifespan: 12–15 years"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.life_span: 12–15 years"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The 12–15 year range is from the related Brussels Griffon population; it is not a guarantee or a precise Petit Brabançon-specific survival estimate."
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "physical.coatType": {
           "reliability": "official_standard",
@@ -76316,10 +77814,15 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "General appearance and coat distinction"
+              "locator": "Coat — Quality of coat: 'The Petit Brabançon is short-coated. The hair is harsh, flat and gleaming, and at most 2 cm long.'"
+            },
+            {
+              "id": "royal-club-griffons-petit-brabancon-standard",
+              "role": "verified",
+              "locator": "Coat quality and absence of head furnishings in Petit Brabançon"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-27",
           "note": null
         },
         "physical.coatLength": {
@@ -76328,11 +77831,16 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "The Petit Brabançon is short-coated"
+              "locator": "Coat — Quality of coat: short-coated, at most 2 cm long"
+            },
+            {
+              "id": "royal-club-griffons-petit-brabancon-standard",
+              "role": "verified",
+              "locator": "Coat: at most 2 cm long"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": null
+          "verifiedOn": "2026-10-27",
+          "note": "Exact 2 cm maximum length preserved in centimetres per the official standard."
         },
         "physical.coatColors": {
           "reliability": "official_standard",
@@ -76340,29 +77848,55 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "Colour: Petit Brabançon"
+              "locator": "Colour: Petit Brabançon accepts the same colours as the Griffons (red/reddish, black, black and tan, black mixed with red-brown) with a dark mask; grey/frosting on mask in older dogs not penalised; disqualifies grey, blue and tan, brown and tan, liver, and white patches."
+            },
+            {
+              "id": "royal-kennel-club-griffon-bruxellois",
+              "role": "verified",
+              "locator": "Colour: Clear red, black or black and rich tan without white markings; frosting on muzzles of mature smooths permissible."
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "GET /breeds/{id}/colours lists 17 generic colours including Blue, Brindle, Brown/Chocolate, Cream, Fawn, Gold/Yellow, Grey, Liver, Merle, Pied/Piebald, Tricolour, and White, which are explicitly disqualified by FCI Standard No. 82."
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Colour names are paraphrased from the standard."
+          "verifiedOn": "2026-10-27",
+          "note": "Filtered to the four colours accepted by the official standard (red/reddish, black, black and tan, and black mixed with reddish-brown/belge, with a dark mask)."
         },
         "physical.sheddingLevel": {
-          "reliability": "estimate",
+          "reliability": "reliable_source",
           "sources": [
             {
               "id": "american-kennel-club-brussels-griffon",
-              "role": "cited",
-              "locator": "Smooth coat grooming guidance"
+              "role": "verified",
+              "locator": "Grooming: smooth coat shedding and seasonal coat drop compared with rough coat"
+            },
+            {
+              "id": "american-brussels-griffon-association-owner-guide",
+              "role": "verified",
+              "locator": "Smooth coat shedding characteristics"
             }
           ],
-          "verifiedOn": null,
-          "note": "The displayed shedding category is a practical estimate, not a measured breed-specific rate."
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "physical.droolingLevel": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "No reliable breed-specific drooling level was established."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-brussels-griffon",
+              "role": "verified",
+              "locator": "Breed traits: Drooling Level (Less Likely to Drool)"
+            },
+            {
+              "id": "fci-petit-brabancon-standard",
+              "role": "verified",
+              "locator": "Lips: top and bottom lips in close contact and close-fitting; upper lip does not form flews"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "physical.distinctiveFeatures": {
           "reliability": "official_standard",
@@ -76370,10 +77904,15 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "General appearance, head, eyes, muzzle, and jaw"
+              "locator": "General appearance, Head, Stop, Nose, Muzzle (max 1.5 cm), Lips, Jaws/teeth, Eyes, Body, Feet, Coat (max 2 cm, dark mask)"
+            },
+            {
+              "id": "royal-club-griffons-petit-brabancon-standard",
+              "role": "verified",
+              "locator": "Head, facial region, body, limbs, and coat sections"
             }
           ],
-          "verifiedOn": "2026-10-21",
+          "verifiedOn": "2026-10-27",
           "note": null
         },
         "temperament.traits": {
@@ -76382,16 +77921,21 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "Behaviour and temperament"
+              "locator": "General appearance & Behaviour/temperament: intelligent, well-balanced, alert, proud, very attached to its owner, very watchful, neither timid nor aggressive"
             },
             {
               "id": "american-kennel-club-brussels-griffon",
               "role": "verified",
-              "locator": "Personality and training"
+              "locator": "About the Breed & Personality: smart, devoted, sensitive, affectionate"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.temperament: 'Alert, intelligent, loyal, confident'"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Typical tendencies do not guarantee an individual dog's behaviour."
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "temperament.scores": {
           "reliability": "estimate",
@@ -76399,28 +77943,28 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "cited",
-              "locator": "Temperament description"
+              "locator": "Behaviour/temperament"
             },
             {
               "id": "american-kennel-club-brussels-griffon",
               "role": "cited",
-              "locator": "Breed traits and owner guidance"
+              "locator": "Trait ratings (Affectionate With Family, Good With Young Children, Good With Other Dogs, Openness To Strangers, Watchdog/Protective Nature, Trainability, Energy, Barking)"
             }
           ],
           "verifiedOn": null,
-          "note": "Scores are editorial estimates on a 1–5 scale, not standardised behavioural measurements."
+          "note": "Normalized to the DogLens 1–5 integer scale from kennel club trait profiles and official temperament descriptions."
         },
         "care.exercise.level": {
-          "reliability": "estimate",
+          "reliability": "reliable_source",
           "sources": [
             {
               "id": "american-kennel-club-brussels-griffon",
-              "role": "cited",
-              "locator": "Exercise guidance for the related smooth-coated Griffon variety"
+              "role": "verified",
+              "locator": "Exercise section & Energy Level rating"
             }
           ],
-          "verifiedOn": null,
-          "note": "Activity level is a practical estimate for a small companion dog and should be adjusted to individual health and breathing."
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "care.exercise.minutesPerDay": {
           "reliability": "estimate",
@@ -76428,17 +77972,23 @@
             {
               "id": "american-kennel-club-brussels-griffon",
               "role": "cited",
-              "locator": "Exercise guidance recommends at least half an hour for Brussels Griffons"
+              "locator": "Exercise section (daily brisk walk and indoor play, at least 30 minutes of activity adapted to weather)"
             }
           ],
           "verifiedOn": null,
-          "note": "The range is an approximate starting point adapted conservatively for a short-muzzled small dog, not a universal prescription."
+          "note": "Estimated daily activity window of 30–45 minutes split across walks and indoor play in temperate conditions."
         },
         "care.exercise.activities": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "Activities are general suggestions; intensity must suit the individual dog's fitness and breathing."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-brussels-griffon",
+              "role": "verified",
+              "locator": "Exercise and companion sport activities"
+            }
+          ],
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "care.grooming": {
           "reliability": "reliable_source",
@@ -76446,11 +77996,16 @@
             {
               "id": "american-kennel-club-brussels-griffon",
               "role": "verified",
-              "locator": "Grooming: smooth-coated Griffon"
+              "locator": "Grooming section: smooth-coated variety maintenance, weekly brushing, nail and dental care"
+            },
+            {
+              "id": "american-brussels-griffon-association-owner-guide",
+              "role": "verified",
+              "locator": "Smooth coat vs rough coat grooming differences"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Guidance is adapted for the smooth coat."
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "care.training": {
           "reliability": "reliable_source",
@@ -76458,58 +78013,62 @@
             {
               "id": "american-kennel-club-brussels-griffon",
               "role": "verified",
-              "locator": "Training and housetraining"
+              "locator": "Training section: sensitivity to harsh methods, reward-based training, and companionship needs"
             },
             {
               "id": "american-brussels-griffon-association-owner-guide",
               "role": "verified",
-              "locator": "Housetraining and kind, consistent routines"
+              "locator": "Housetraining guidance and positive training approach"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Individual learning speed varies; house-training can require patience."
-        },
-        "care.training.socialization": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "General canine socialisation guidance."
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "care.livingEnvironment.apartmentSuitable": {
-          "reliability": "estimate",
+          "reliability": "reliable_source",
           "sources": [
             {
               "id": "american-kennel-club-brussels-griffon",
-              "role": "cited",
-              "locator": "Toy companion dog and exercise needs"
+              "role": "verified",
+              "locator": "Urban and apartment suitability for this compact toy companion"
+            },
+            {
+              "id": "american-brussels-griffon-association-owner-guide",
+              "role": "verified",
+              "locator": "Living environment and indoor companionship"
             }
           ],
-          "verifiedOn": null,
-          "note": "Suitability depends on routine, noise management, enrichment, and individual temperament."
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "care.livingEnvironment.houseWithYardSuitable": {
-          "reliability": "estimate",
+          "reliability": "reliable_source",
           "sources": [
             {
-              "id": "fci-petit-brabancon-standard",
-              "role": "cited",
-              "locator": "Small companion dog"
+              "id": "american-brussels-griffon-association-owner-guide",
+              "role": "verified",
+              "locator": "Fenced yard safety and supervision for small dogs"
             }
           ],
-          "verifiedOn": null,
-          "note": "A secure yard can be useful but is not required and does not replace walks or supervision."
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "care.livingEnvironment.climates": {
-          "reliability": "general_guidance",
+          "reliability": "reliable_source",
           "sources": [
             {
+              "id": "ofa-brachycephalic-rfgs",
+              "role": "verified",
+              "locator": "Heat and exercise intolerance in brachycephalic breeds"
+            },
+            {
               "id": "american-kennel-club-brussels-griffon",
-              "role": "cited",
-              "locator": "Health: short-faced dogs and hot or humid weather"
+              "role": "verified",
+              "locator": "Precautions in hot/humid and cold weather"
             }
           ],
-          "verifiedOn": null,
-          "note": "Heat precautions are general welfare advice informed by the short muzzle."
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "care.livingEnvironment.aloneTimeTolerance": {
           "reliability": "reliable_source",
@@ -76517,11 +78076,16 @@
             {
               "id": "american-kennel-club-brussels-griffon",
               "role": "verified",
-              "locator": "Training: companionship and extended time alone"
+              "locator": "Training & Personality: dislikes being left alone for long periods"
+            },
+            {
+              "id": "american-brussels-griffon-association-owner-guide",
+              "role": "verified",
+              "locator": "Strong need for human companionship"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Companionship needs vary by individual; gradual training is recommended."
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "nutrition": {
           "reliability": "general_guidance",
@@ -76529,176 +78093,65 @@
             {
               "id": "wsava-global-nutrition-guidelines",
               "role": "cited",
-              "locator": "Nutritional assessment and individualised feeding"
+              "locator": "Global Nutrition Guidelines: body condition scoring and individualized feeding"
+            },
+            {
+              "id": "american-kennel-club-brussels-griffon",
+              "role": "cited",
+              "locator": "Nutrition section: weight management and life-stage diet"
             }
           ],
           "verifiedOn": null,
-          "note": "Feeding guidance is general and should be individualised."
+          "note": "Combines general veterinary nutrition principles with small, brachycephalic breed considerations."
         },
-        "health.overview": {
+        "health": {
           "reliability": "reliable_source",
           "sources": [
             {
+              "id": "rusbridge-2009-griffon-chiari-jsap",
+              "role": "verified",
+              "locator": "PMID 19689665: Chiari-like malformation (60.7% of study sample) and syringomyelia (37.5% with CM, 8.9% without CM) in Griffon Bruxellois"
+            },
+            {
               "id": "american-brussels-griffon-association-health",
               "role": "verified",
-              "locator": "Health issues and accepted health tests"
+              "locator": "Health research and screening tests: patellar luxation, ACVO eye exam, Chiari-like malformation / syringomyelia MRI, hip dysplasia, cardiac, and respiratory function"
+            },
+            {
+              "id": "ofa-brachycephalic-rfgs",
+              "role": "verified",
+              "locator": "Brachycephalic Obstructive Airway Syndrome (BOAS) clinical signs and Respiratory Function Grading Scheme (RFGS)"
             },
             {
               "id": "american-kennel-club-brussels-griffon",
               "role": "verified",
-              "locator": "Health: eyes, heart, orthopaedic issues, and short-face concerns"
-            }
-          ],
-          "verifiedOn": "2026-10-21",
-          "note": "Health concerns are drawn from related Brussels Griffon guidance; prevalence specific to Petit Brabançon is not established here."
-        },
-        "health.commonConditions": {
-          "reliability": "reliable_source",
-          "sources": [
-            {
-              "id": "american-brussels-griffon-association-health",
-              "role": "verified",
-              "locator": "Health issues and health-testing programme"
+              "locator": "Health section: patellae, eyes (cataracts, lens luxation), hip dysplasia, syringomyelia, brachycephalic airway care, and whelping/cesarean considerations"
             },
-            {
-              "id": "american-kennel-club-brussels-griffon",
-              "role": "verified",
-              "locator": "Health section"
-            }
-          ],
-          "verifiedOn": "2026-10-21",
-          "note": "Potential concerns, not a diagnosis or a prevalence ranking; several sources cover the closely related Brussels Griffon population."
-        },
-        "health.preventiveCare": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "General veterinary care advice; not a substitute for examination by a veterinarian."
-        },
-        "health.recommendedScreenings": {
-          "reliability": "reliable_source",
-          "sources": [
-            {
-              "id": "american-brussels-griffon-association-health",
-              "role": "verified",
-              "locator": "Accepted program health tests"
-            },
-            {
-              "id": "american-kennel-club-brussels-griffon",
-              "role": "verified",
-              "locator": "Recommended health tests"
-            }
-          ],
-          "verifiedOn": "2026-10-21",
-          "note": "Discuss which tests apply to the particular dog and family line with a veterinarian and responsible breeder."
-        },
-        "health.dentalCare": {
-          "reliability": "general_guidance",
-          "sources": [
             {
               "id": "avma-pet-dental-care",
-              "role": "cited",
-              "locator": "Preventive dental care"
+              "role": "verified",
+              "locator": "Preventive dental care and periodontal disease prevention in small breeds"
             }
           ],
-          "verifiedOn": null,
-          "note": "General veterinary dental guidance."
+          "verifiedOn": "2026-10-27",
+          "note": "Synthesizes peer-reviewed veterinary neurology research (Rusbridge et al. 2009), OFA airway grading guidance, and parent-club health testing protocols."
         },
-        "health.earCare": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "General ear-care advice."
-        },
-        "health.skinCare": {
-          "reliability": "general_guidance",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "General skin and coat care advice."
-        },
-        "suitability.firstTimeOwners": {
+        "suitability": {
           "reliability": "estimate",
           "sources": [
+            {
+              "id": "american-brussels-griffon-association-owner-guide",
+              "role": "cited",
+              "locator": "Suitability for adults, apartment dwellers, and cautions regarding young children and long absences"
+            },
             {
               "id": "american-kennel-club-brussels-griffon",
               "role": "cited",
-              "locator": "Training and care needs"
+              "locator": "About the Breed ('A sensitive companion for discerning grownups') and family/child compatibility"
             }
           ],
           "verifiedOn": null,
-          "note": "Owner-fit estimate; experience and available support matter."
-        },
-        "suitability.familiesWithChildren": {
-          "reliability": "estimate",
-          "sources": [
-            {
-              "id": "american-kennel-club-brussels-griffon",
-              "role": "cited",
-              "locator": "Family life and small-dog handling"
-            }
-          ],
-          "verifiedOn": null,
-          "note": "Suitability depends on children's behaviour, supervision, and the individual dog."
-        },
-        "suitability.seniorOwners": {
-          "reliability": "estimate",
-          "sources": [
-            {
-              "id": "fci-petit-brabancon-standard",
-              "role": "cited",
-              "locator": "Small companion dog"
-            }
-          ],
-          "verifiedOn": null,
-          "note": "Can suit some older owners if care and exercise needs are manageable."
-        },
-        "suitability.activeOwners": {
-          "reliability": "estimate",
-          "sources": [
-            {
-              "id": "american-kennel-club-brussels-griffon",
-              "role": "cited",
-              "locator": "Exercise needs"
-            }
-          ],
-          "verifiedOn": null,
-          "note": "Appropriate for active owners who keep exercise moderate and avoid heat stress."
-        },
-        "suitability.apartmentLiving": {
-          "reliability": "estimate",
-          "sources": [
-            {
-              "id": "american-kennel-club-brussels-griffon",
-              "role": "cited",
-              "locator": "Small companion dog and exercise needs"
-            }
-          ],
-          "verifiedOn": null,
-          "note": "Practical estimate, not a guarantee of suitability for every apartment or dog."
-        },
-        "suitability.idealFor": {
-          "reliability": "estimate",
-          "sources": [
-            {
-              "id": "fci-petit-brabancon-standard",
-              "role": "cited",
-              "locator": "Companion and watchdog utilisation"
-            }
-          ],
-          "verifiedOn": null,
-          "note": "Practical owner-fit suggestions, not guaranteed behaviour."
-        },
-        "suitability.notIdealFor": {
-          "reliability": "estimate",
-          "sources": [
-            {
-              "id": "american-kennel-club-brussels-griffon",
-              "role": "cited",
-              "locator": "Heat, exercise, and companionship considerations"
-            }
-          ],
-          "verifiedOn": null,
-          "note": "Practical cautions based on care needs."
+          "note": "familiesWithChildren is set to false because both parent-club guidance and kennel club profiles caution against placing this tiny, fragile toy breed in homes with rough toddlers or very young children."
         },
         "funFacts": {
           "reliability": "official_standard",
@@ -76706,11 +78159,16 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "Historical summary and variety distinction"
+              "locator": "Brief historical summary (Smousje, Brussels carriages and stables, Queen Marie-Henriette) and Muzzle ('For the Petit Brabançon a correct foreface appears longer because it has no furnishing')"
+            },
+            {
+              "id": "royal-club-griffons-petit-brabancon-standard",
+              "role": "verified",
+              "locator": "Historical summary and muzzle appearance comparison"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Paraphrased breed-history details."
+          "verifiedOn": "2026-10-27",
+          "note": null
         },
         "faq": {
           "reliability": "reliable_source",
@@ -76718,24 +78176,34 @@
             {
               "id": "fci-petit-brabancon-standard",
               "role": "verified",
-              "locator": "Classification, weight, colour, coat, and history"
+              "locator": "Varieties, coat length (max 2 cm), muzzle (max 1.5 cm), weight (3.5–6 kg), and colours"
+            },
+            {
+              "id": "royal-kennel-club-griffon-bruxellois",
+              "role": "verified",
+              "locator": "Size (3.2–5 kg / 7–11 lb, most desirable 3.6–4.5 kg / 8–10 lb) and varieties"
             },
             {
               "id": "american-kennel-club-brussels-griffon",
               "role": "verified",
-              "locator": "Care and health guidance"
+              "locator": "Weight (8–10 lb, max 12 lb), smooth-coat shedding, and apartment care"
             },
             {
               "id": "american-brussels-griffon-association-health",
               "role": "verified",
-              "locator": "Health testing"
+              "locator": "Recommended health screenings (eyes, patellae, MRI for CM/SM, airway, cardiac, hips)"
+            },
+            {
+              "id": "rusbridge-2009-griffon-chiari-jsap",
+              "role": "verified",
+              "locator": "MRI screening for Chiari-like malformation and syringomyelia"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Answers are paraphrased; health and temperament statements are not guarantees."
+          "verifiedOn": "2026-10-27",
+          "note": null
         }
       },
-      "updatedOn": "2026-10-21"
+      "updatedOn": "2026-10-27"
     },
     {
       "slug": "pharaoh-hound",

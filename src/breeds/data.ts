@@ -114,6 +114,8 @@ import { black_norwegian_elkhound } from "./black_norwegian_elkhound";
 import { australian_silky_terrier } from "./australian_silky_terrier";
 import { american_bulldog } from "./american_bulldog";
 import { cairn_terrier } from "./cairn_terrier";
+import { kooikerhondje } from "./kooikerhondje";
+import { norfolk_terrier } from "./norfolk_terrier";
 
 
 export const breedData: readonly Breed[] = [
@@ -227,4 +229,6 @@ export const breedData: readonly Breed[] = [
   australian_silky_terrier,
   american_bulldog,
   cairn_terrier,
+  kooikerhondje,
+  norfolk_terrier,
 ];

@@ -47,9 +47,10 @@
 44:lowchen - CG
 45:collie,_rough - CG
 46:japanese_chin - CG
+47:petit_brabancon - CG
 
-47:petit_brabancon - C
-48:dutch_smoushond - C
+48:dutch_smoushond - CR
+
 49:dalmatian - C
 50:samoyed - C
 51:jack_russell_terrier - C
@@ -111,9 +112,9 @@
 107:australian_silky_terrier - C
 108:american_bulldog - C
 109:cairn_terrier - C
+110:kooikerhondje - C
+111:norfolk_terrier - C
 
-110:kooikerhondje
-111:norfolk_terrier
 112:central_asian_shepherd_dog
 113:drever
 114:perro_de_presa_mallorquin
