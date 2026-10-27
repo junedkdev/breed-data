@@ -10,10 +10,10 @@ export const dalmatian: Breed = {
     "Dalmatien",
     "Coach Dog"
   ],
-  "group": "FCI Group 6 — Scenthounds and related breeds; Section 3 — Related breeds; no working trial. The American Kennel Club places the breed in the Non-Sporting Group.",
+  "group": "Scenthounds and Related Breeds — Section 3: Related Breeds (without working trial); Non-Sporting",
   "origin": {
     "country": "Croatia",
-    "region": "The historic region of Dalmatia, on the eastern Adriatic coast"
+    "region": "The historic coastal region of Dalmatia, along the eastern Adriatic Sea"
   },
   "images": [
     {
@@ -30,7 +30,7 @@ export const dalmatian: Breed = {
       "licenseId": "cc-by-sa-4.0",
       "attribution": "Photo by Bradlien, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate any changes; adaptations must be distributed under the same or a compatible license.",
       "restrictions": null,
-      "metadataCheckedOn": "2026-10-21"
+      "metadataCheckedOn": "2026-10-27"
     },
     {
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dalmatian_puppy,_four_months.png",
@@ -46,7 +46,7 @@ export const dalmatian: Breed = {
       "licenseId": "cc-by-sa-4.0",
       "attribution": "Photo by Rsur6933, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate any changes; adaptations must be distributed under the same or a compatible license.",
       "restrictions": null,
-      "metadataCheckedOn": "2026-10-21"
+      "metadataCheckedOn": "2026-10-27"
     },
     {
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DalmatianBlackSpotted.jpg",
@@ -62,21 +62,21 @@ export const dalmatian: Breed = {
       "licenseId": "cc-by-sa-4.0",
       "attribution": "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate any changes; adaptations must be distributed under the same or a compatible license.",
       "restrictions": null,
-      "metadataCheckedOn": "2026-10-21"
+      "metadataCheckedOn": "2026-10-27"
     }
   ],
   "overview": {
-    "summary": "The Dalmatian is an athletic, spotted dog with a short, close coat, notable stamina and an alert, people-oriented nature. It usually thrives with daily exercise, training and company, rather than a sedentary routine.",
-    "description": "Dalmatians are medium-to-large, muscular dogs built for efficient movement over distance. Their distinctive coat has a white ground with clearly separated black or liver-brown spots. Many are lively, curious and eager to join family activities; their stamina and strong interest in the environment mean that exercise, recall training and enrichment should be part of everyday life. Temperament and energy vary between individuals, so socialisation and positive training matter.",
-    "history": "The breed is associated with Croatia and the historic region of Dalmatia. Written records and artworks from the early modern period document spotted dogs in the region. In Britain and elsewhere, Dalmatians later became well known for accompanying horse-drawn carriages, including fire-service vehicles. The breed is now kept as a companion and also participates in obedience, scent work, agility and other suitable dog sports.",
-    "originalPurpose": "Historically used as a hunting and carriage dog; later known for accompanying horse-drawn coaches and fire-service vehicles.",
+    "summary": "Distinguished by an unmistakable spotted coat and enduring stamina, the Dalmatian is a spirited, medium-to-large athlete built for sustained movement. Renowned historically as a carriage companion, this alert and devoted dog excels in active homes offering vigorous daily exercise, interactive training, and constant human companionship.",
+    "description": "Characterised by clean, symmetrical proportions and a balanced, muscular frame, the Dalmatian moves with a rhythmic, ground-covering trot. The dense, glossy coat displays rounded, clearly demarcated spots in either deep black or warm liver-brown set against a snow-white ground. Naturally inquisitive and lively, they possess high energy levels and a deep desire to participate in household activities. Their remarkable endurance and natural vigilance call for structured mental puzzles, dependable recall work, and abundant physical exertion. With positive, reward-based training and broad early socialisation, they develop into charismatic, well-mannered companions.",
+    "history": "Rooted along the eastern Adriatic shoreline in the historical Croatian province of Dalmatia, spotted canines appear in ecclesiastical chronicles and regional artwork dating back centuries. During the Regency and Victorian eras, their remarkable rapport with horses and natural endurance led to widespread employment as coach dogs, trotting alongside horse-drawn carriages to deter highway robbers and clear thoroughfares. They later achieved iconic status running alongside horse-drawn fire apparatus to guard equipment and calm draft teams. In modern times, their versatile athleticism shines across canine sports such as agility, rally, obedience, and tracking, as well as in dedicated family life.",
+    "originalPurpose": "Bred historically as an all-around utility and carriage dog; widely employed to clear paths for horse-drawn coaches and guard fire-service vehicles.",
     "currentRoles": [
-      "Companion dog",
-      "Running and hiking partner for appropriately conditioned adults",
-      "Obedience and rally",
-      "Agility and other canine sports",
-      "Scent work and tracking",
-      "Family activity companion"
+      "Companion animal",
+      "Running and hiking partner for conditioned adult dogs",
+      "Obedience, rally, and canine performance sports",
+      "Agility, flyball, and lure coursing competitor",
+      "Scent work, tracking, and nosework",
+      "Active family member"
     ]
   },
   "physical": {
@@ -95,43 +95,43 @@ export const dalmatian: Breed = {
     "weight": {
       "unit": "kg",
       "male": {
-        "min": 20.4,
-        "max": 31.8
+        "min": 27,
+        "max": 32
       },
       "female": {
-        "min": 20.4,
-        "max": 31.8
+        "min": 24,
+        "max": 29
       }
     },
     "lifespanYears": {
       "min": 11,
       "max": 13
     },
-    "coatType": "Short, dense, hard, smooth and glossy coat that lies close to the body.",
-    "coatLength": "Short all over; the coat has no long feathering.",
+    "coatType": "Dense, short, hard, and sleek coat that lies flat and shines naturally with good health.",
+    "coatLength": "Short and uniform across the entire body, without feathering, fringe, or long guard hairs.",
     "coatColors": [
       "White with black spots",
       "White with liver-brown spots"
     ],
-    "sheddingLevel": "Moderate to high; short hairs may shed throughout the year and can be noticeable on clothing and furniture.",
+    "sheddingLevel": "Moderate to high; the stiff, short hairs shed continuously and easily weave into upholstery, carpets, and fabrics.",
     "droolingLevel": null,
     "distinctiveFeatures": [
-      "Distinct, separate spots on a white ground colour",
-      "Black or liver-brown spot varieties",
-      "Athletic, rectangular outline with strong musculature",
-      "Short, close-fitting coat and hanging ears",
-      "Long, efficient stride suited to sustained movement"
+      "Eye-catching coat of clearly demarcated round spots scattered evenly across a pure white ground",
+      "Two distinct pigmentation varieties: pure black spots or warm liver-brown spots",
+      "Balanced, muscular conformation slightly longer than tall with high endurance",
+      "Sleek, short, dense coat with velvety drop ears set moderately high",
+      "Smooth, effortless, rhythmically balanced trot with powerful rear drive"
     ]
   },
   "temperament": {
     "traits": [
-      "Lively and athletic",
-      "Generally outgoing and friendly when well socialised",
-      "Alert and observant",
-      "Often enjoys being involved in family activities",
-      "Intelligent and capable of learning varied skills",
-      "May be independent or distracted by scents and movement",
-      "Needs regular outlets for energy and mental activity"
+      "Spirited, energetic, and highly athletic",
+      "Outgoing, demonstrative, and deeply attached to family members",
+      "Alert, curious, and keenly observant of environmental changes",
+      "Intelligent, quick-witted, and responsive to engaging training",
+      "Independent-minded with potential to pursue interesting scents or distractions",
+      "Possesses extraordinary stamina requiring vigorous physical and mental outlets",
+      "Thrives when actively included in daily household activities and adventures"
     ],
     "scores": {
       "affection": 4,
@@ -153,83 +153,85 @@ export const dalmatian: Breed = {
         "max": 120
       },
       "activities": [
-        "Brisk walks and age-appropriate hikes",
-        "Running only after suitable maturity and conditioning",
-        "Reward-based obedience and recall practice",
-        "Scent games and food-puzzle activities",
-        "Agility or other structured dog sports when physically suitable",
-        "Safe play with regular rest and access to water"
+        "Lengthy daily aerobic walks, trail hikes, and jogging sessions once physically mature",
+        "Structured obedience drills, rally routines, and interactive training sessions",
+        "Canine sports such as agility, flyball, disc dog, and scent work",
+        "Scent-tracking games and mentally demanding puzzle toys",
+        "Supervised off-lead play in securely fenced paddocks or private areas",
+        "Calm, structured cool-downs paired with continuous hydration"
       ]
     },
     "grooming": {
       "level": "Low to moderate effort, with frequent shedding",
-      "brushing": "Brush with a rubber grooming mitt or soft brush several times a week to remove loose hair; more frequent brushing may be useful during heavier shedding.",
-      "bathing": "Bathe when dirty or needed, using a dog-appropriate shampoo and rinsing well. Avoid unnecessary frequent bathing that may dry the skin.",
+      "brushing": "Groom two to three times weekly using a rubber curry brush, hound glove, or soft bristle brush to lift shed hair; increase frequency during seasonal shed periods.",
+      "bathing": "Bathe occasionally when soiled or after muddy outings using a mild, canine-specific moisturising shampoo to protect natural skin oils.",
       "notes": [
-        "A short coat still sheds and may leave fine hairs on fabrics.",
-        "Check ears regularly and clean only as advised by a veterinarian.",
-        "Trim nails as needed and inspect paws after exercise.",
-        "Brush teeth with dog-safe toothpaste and arrange routine oral checks."
+        "Stiff, shed white hairs easily cling to clothing and furniture, making regular brushing the best preventative management.",
+        "Inspect drop ears weekly for wax buildup, moisture, or signs of irritation, gently cleaning only the external ear canal as recommended by a vet.",
+        "Trim strong, fast-growing claws every few weeks to maintain proper paw structure and comfortable locomotion.",
+        "Perform routine toothbrushing several times a week using veterinary-approved dog toothpaste to preserve oral and periodontal health."
       ]
     },
     "training": {
-      "difficulty": "Moderate; consistent, engaging training is important for an energetic and sometimes independent dog.",
+      "difficulty": "Moderate; their bright intelligence and boundless enthusiasm require clear consistency, patience, and engaging reward-based methods to hold focus.",
       "tips": [
-        "Use reward-based training and short, varied sessions.",
-        "Build recall gradually around distractions and use a lead or secure area until reliable.",
-        "Teach calm behaviour and settling as well as active skills.",
-        "Introduce visitors, dogs, sounds and environments positively and at the dog's pace.",
-        "Provide mental tasks as well as physical exercise."
+        "Use positive reinforcement, food rewards, and enthusiastic play while keeping training sessions upbeat and varied.",
+        "Build reliable recall early using a long training line in secure locations before granting greater freedom.",
+        "Incorporate regular relaxation protocols to help this high-energy dog learn to switch off indoors.",
+        "Introduce a wide variety of sounds, sights, unfamiliar people, and stable dogs steadily during puppyhood.",
+        "Channel natural drive into structured tasks and games rather than allowing boredom to manifest as destructive behaviours."
       ],
-      "socialization": "Start positive, age-appropriate socialisation early and continue throughout life. Avoid forcing interactions; reward calm observation and allow the dog space to disengage."
+      "socialization": "Expose puppies systematically and gently to novel environments, different footings, diverse people, and friendly dogs. Reward neutral, calm observation and never force nervous interactions, ensuring positive associations throughout development."
     },
     "livingEnvironment": {
       "apartmentSuitable": null,
       "houseWithYardSuitable": null,
       "climates": [
-        "Adapt activity to temperature; provide shade and water in warm weather and suitable shelter in cold or wet conditions."
+        "Adapt outdoor workouts to weather extremes; offer shade and ample fresh water in hot conditions, and provide a protective coat or reduce exposure in freezing, wet weather due to their single, short coat."
       ],
       "aloneTimeTolerance": null
     }
   },
   "nutrition": {
-    "dietType": "A complete and balanced diet appropriate to life stage, body condition and activity; urinary-health needs should be assessed individually.",
+    "dietType": "A complete and balanced canine diet tailored to life stage, physical condition, and activity level; purine and urinary profiles should be evaluated with a veterinarian.",
     "feedingFrequency": {
       "puppy": null,
       "adult": null,
       "senior": null
     },
-    "guidelines": "Choose a complete diet suitable for the dog's age and workload, measure portions, monitor body condition and keep fresh water available. Because Dalmatians can be prone to urate urinary stones, discuss diet composition, hydration and urinary monitoring with a veterinarian rather than starting a restrictive diet without individual advice.",
+    "guidelines": "Provide a nutritionally complete and balanced canine diet formulated for the dog's life stage, body condition, and activity level. Because Dalmatians possess a unique uric acid metabolism predisposing them to ammonium urate bladder stones, carefully review protein sources, purine concentrations, and feeding regimens with a veterinary surgeon. Ensure constant, unrestricted access to clean drinking water and frequent opportunities for outdoor urination to keep the urinary tract well-flushed.",
     "considerations": [
-      "Provide constant access to fresh water and regular opportunities to urinate.",
-      "Urate-stone risk and dietary needs vary; follow veterinary advice based on the dog's history and test results.",
-      "Avoid overfeeding and adjust portions to maintain a lean, athletic body condition.",
-      "Use a veterinarian for any therapeutic or low-purine diet decision."
+      "Maintain continuous access to fresh drinking water and provide frequent, regular outdoor bathroom breaks to dilute urine and flush crystals.",
+      "Work closely with a veterinarian to select diets low in organ meats, yeast, and high-purine seafood if managing traditional high uric acid lines.",
+      "Feed measured meals twice daily and monitor body condition score regularly to prevent excess weight gain that stresses joints.",
+      "Consult veterinary professionals before introducing supplements, therapeutic diets, or urine-alkalinising protocols."
     ],
-    "note": "This is general feeding information, not a prescription. Dogs with a history of urinary stones or relevant test results may need an individually planned diet and monitoring with a veterinarian."
+    "note": "This dietary advice serves general informational purposes. Individual nutritional requirements vary significantly, and dogs with a personal or familial history of urate urolithiasis require tailored veterinary dietary planning and regular urinalysis."
   },
   "health": {
-    "overview": "Dalmatians can be athletic and long-lived, but breed-associated concerns include inherited hearing impairment and urate urinary stones; copper-associated liver disease is also reported. These risks do not mean an individual dog will necessarily develop a condition. Preventive care, responsible breeding and early veterinary assessment are important.",
+    "overview": "While Dalmatians are typically robust and athletic dogs with an average lifespan of 11 to 13 years, the breed has well-documented hereditary predispositions to congenital sensorineural deafness and hyperuricosuria with urate stone formation. Copper-associated hepatopathy and orthopedic concerns such as hip dysplasia can also occur. Proactive veterinary wellness exams, early diagnostic screening, and attentive daily care are vital to preserving lifelong health.",
     "commonConditions": [
-      "Inherited hearing impairment, including unilateral or bilateral deafness",
-      "Urate urinary crystals or stones, which can sometimes cause a life-threatening urinary blockage",
-      "Copper-associated liver disease has been reported in the breed; individual risk and significance require veterinary assessment"
+      "Congenital sensorineural deafness (CSD), which can present as unilateral (one ear) or bilateral (both ears) permanent hearing loss linked to pigmentation genetics",
+      "Hyperuricosuria and urate urolithiasis, an inborn metabolic trait leading to elevated urinary uric acid that can precipitate into painful and potentially obstructive bladder or urethral stones",
+      "Copper storage disease (copper-associated hepatopathy), an inherited defect in copper metabolism causing progressive hepatic accumulation and potential liver damage",
+      "Canine hip dysplasia, an abnormal formation of the coxofemoral joints that may lead to secondary osteoarthritis"
     ],
     "preventiveCare": [
-      "Arrange regular veterinary examinations and keep vaccinations and parasite prevention appropriate to local risk.",
-      "Provide fresh water and frequent opportunities to urinate; seek urgent veterinary care for straining, inability to pass urine, pain or blood in urine.",
-      "Discuss diet and urinary monitoring with a veterinarian, especially if there is a history of stones.",
-      "Monitor hearing and behaviour; discuss testing if hearing is uncertain.",
-      "Maintain a lean body condition and increase exercise gradually."
+      "Schedule routine annual or bi-annual veterinary wellness examinations alongside core vaccinations and comprehensive parasite prevention.",
+      "Encourage generous water intake and frequent urination breaks; seek immediate emergency veterinary attention if a dog shows straining, discomfort, weakness, or inability to urinate.",
+      "Partner with a veterinarian to monitor urine sediment and specific gravity, adjusting dietary purine intake as medically indicated.",
+      "Have hearing evaluated early via objective clinical testing if auditory responsiveness seems questionable.",
+      "Condition growing puppies gradually to avoid repetitive concussive impact on immature growth plates."
     ],
     "recommendedScreenings": [
-      "BAER hearing test for puppies or breeding dogs, according to veterinary and breed-club guidance.",
-      "Hip evaluation for breeding dogs, consistent with parent-club screening recommendations.",
-      "Discuss baseline blood testing and any liver or urinary monitoring with the veterinarian based on age, family history and clinical findings."
+      "Brainstem Auditory Evoked Response (BAER) hearing evaluation for all puppies prior to placement to objectively determine unilateral or bilateral hearing status.",
+      "Hip radiography evaluation (such as OFA or PennHIP) to assess joint congruity and rule out hip dysplasia before breeding.",
+      "Baseline serum biochemistry, urinalysis, and hepatic function or copper screening as advised by a veterinarian based on individual and lineage history.",
+      "DNA testing for the SLC2A9 mutation when evaluating Low Uric Acid (LUA) backcross breeding stock."
     ],
-    "dentalCare": "Brush regularly with dog-safe toothpaste and arrange dental checks as part of routine veterinary care.",
-    "earCare": "Check ears routinely for redness, odour, discharge or discomfort; seek veterinary advice for symptoms rather than inserting objects into the ear canal.",
-    "skinCare": "Inspect the skin for irritation or unusual lesions. A short coat is easy to check, but short hairs may shed heavily; seek veterinary advice for persistent itching, redness or hair loss."
+    "dentalCare": "Brush teeth several times weekly using soft bristles and veterinary-formulated enzymatic toothpaste, accompanied by regular professional oral examinations to prevent periodontal inflammation.",
+    "earCare": "Check the hanging ear flaps weekly for moisture, wax accumulation, unusual odor, or erythema, cleaning gently with a veterinarian-recommended ear cleanser when necessary.",
+    "skinCare": "Examine the skin during regular brushing sessions for redness, flakiness, hives, or flea dirt. Because their single coat offers minimal barrier protection, address sudden itching or skin lesions promptly with a veterinarian."
   },
   "suitability": {
     "firstTimeOwners": null,
@@ -238,54 +240,54 @@ export const dalmatian: Breed = {
     "activeOwners": true,
     "apartmentLiving": null,
     "idealFor": [
-      "People who can provide substantial daily activity and training",
-      "Households that enjoy outdoor activities and structured dog sports",
-      "Owners willing to manage shedding and pay attention to urinary-health guidance"
+      "Active households and individuals capable of dedicating 1 to 2 hours daily to exercise, training, and shared activities",
+      "Enthusiasts seeking a companion for outdoor jogging, hiking, or canine performance sports",
+      "Dedicated caregivers willing to manage steady shedding and maintain attentive urinary-health routines"
     ],
     "notIdealFor": [
-      "People seeking a low-energy dog with minimal exercise needs",
-      "Households unable to provide regular companionship, enrichment and training",
-      "Owners unwilling to plan for possible breed-associated urinary or hearing concerns"
+      "Sedentary individuals or households seeking a calm lap dog with minimal physical demands",
+      "Homes where the dog would be left alone for extended periods without companionship or exercise",
+      "Prospective owners unwilling to commit to proactive health screening, specialized dietary awareness, or daily shed cleanup"
     ]
   },
   "funFacts": [
-    "The breed is officially associated with Croatia and the historic region of Dalmatia.",
-    "The Dalmatian became widely recognised as a coach dog, accompanying horse-drawn carriages and fire-service vehicles.",
-    "Each dog's spot pattern is individual, and puppies are born white before their spots become visible.",
-    "The breed standard recognises both black-spotted and liver-brown-spotted varieties."
+    "The breed traces its heritage to the historical coastal region of Dalmatia in modern-day Croatia.",
+    "Dalmatians earned fame as carriage and firehouse dogs, prized for their affinity with horses and their ability to clear streets ahead of horse-drawn engines.",
+    "Dalmatian puppies are born pure white; their distinctive dark spots begin developing beneath the fur and emerge distinctly over the first few weeks of life.",
+    "The breed occurs naturally in two distinct colour varieties: white with jet-black spots and white with rich liver-brown spots."
   ],
   "faq": [
     {
       "question": "Where does the Dalmatian come from?",
-      "answer": "The breed is recognised as originating in Croatia and is historically associated with the region of Dalmatia."
+      "answer": "The breed traces its historical roots to the Adriatic coastal region of Dalmatia in modern Croatia, where speckled dogs were documented in art and church records centuries ago."
     },
     {
-      "question": "How tall is a Dalmatian?",
-      "answer": "The FCI standard gives a height of 56–62 cm for males and 54–60 cm for females, measured at the withers."
+      "question": "How tall is an adult Dalmatian?",
+      "answer": "Adult males typically stand between 56 and 62 cm at the withers, while adult females measure between 54 and 60 cm."
     },
     {
       "question": "How much does a Dalmatian weigh?",
-      "answer": "One kennel-club profile gives a broad breed-wide range of about 45–70 lb (20.4–31.8 kg), rather than separate male and female ranges. Individual healthy weight depends on build and body condition."
+      "answer": "Adult males generally weigh between 27 and 32 kg, while adult females typically weigh between 24 and 29 kg. Ideal weight depends on individual skeletal frame and lean muscle condition."
     },
     {
-      "question": "How long does a Dalmatian live?",
-      "answer": "A breed foundation reports an average lifespan of about 11–13 years, although individual lifespan varies with genetics, care and health."
+      "question": "What is the life expectancy of a Dalmatian?",
+      "answer": "Most Dalmatians enjoy an average lifespan of approximately 11 to 13 years with quality preventative healthcare, balanced nutrition, and regular exercise."
     },
     {
-      "question": "Do Dalmatians need a lot of exercise?",
-      "answer": "Usually, yes. They are athletic dogs that benefit from regular walks, training and enrichment. Increase exercise gradually and tailor it to age, health and fitness."
+      "question": "Do Dalmatians require a lot of daily exercise?",
+      "answer": "Yes. As energetic canine athletes with remarkable endurance, they thrive on 60 to 120 minutes of daily physical and mental exercise, including brisk walks, jogging, and interactive games."
     },
     {
-      "question": "What health concerns are important for Dalmatians?",
-      "answer": "Inherited hearing impairment and urate urinary stones are notable breed-associated concerns. Copper-associated liver disease is also reported. A veterinarian can advise on appropriate testing and prevention for an individual dog."
+      "question": "What are the primary health concerns in Dalmatians?",
+      "answer": "The most prominent hereditary concerns are congenital sensorineural deafness and hyperuricosuria, an inherited metabolic variation that predisposes dogs to urate bladder stones. Copper-associated liver disease and hip dysplasia are also recognized."
     },
     {
-      "question": "Are Dalmatians always black and white?",
-      "answer": "No. The recognised standard varieties are black spots on white or liver-brown spots on white."
+      "question": "Are all Dalmatians black and white?",
+      "answer": "No. While black spots on a white ground are the most familiar, Dalmatians also naturally feature liver-brown spots on white. Both coat variations are equally authentic."
     },
     {
-      "question": "Do Dalmatians shed?",
-      "answer": "Yes. Their short coat can shed considerably, so brushing several times a week may help manage loose hair."
+      "question": "Do Dalmatians shed heavily?",
+      "answer": "Yes. Dalmatians shed short, stiff hairs continuously throughout the year. Regular brushing two to three times a week helps remove loose hair and keep the sleek coat in prime condition."
     }
   ],
   "references": [
@@ -317,7 +319,7 @@ export const dalmatian: Breed = {
           "locator": "Breed standard"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "Alternate names are documented names or historical descriptors; 'Coach Dog' is a historical common name, not a separate breed."
     },
     "scientificName": {
@@ -335,7 +337,7 @@ export const dalmatian: Breed = {
           "locator": "Relevant breed-standard section"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "FCI classification is stated first; the AKC group is included as a registry-specific alternative."
     },
     "origin": {
@@ -352,7 +354,7 @@ export const dalmatian: Breed = {
           "locator": "Breed classification and country of origin"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "Historical origin is associated with Croatia and Dalmatia; exact ancient breed formation is not fully documented."
     },
     "origin.country": {
@@ -369,7 +371,7 @@ export const dalmatian: Breed = {
           "locator": "Breed classification and country of origin"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": null
     },
     "origin.region": {
@@ -381,7 +383,7 @@ export const dalmatian: Breed = {
           "locator": "Relevant breed-standard section"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "The FCI history links the breed to the historic region of Dalmatia; this is a historical region rather than a modern administrative boundary."
     },
     "overview": {
@@ -403,7 +405,7 @@ export const dalmatian: Breed = {
           "locator": "Breed standard"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "Original paraphrase based on breed standard and kennel-club information."
     },
     "overview.originalPurpose": {
@@ -420,7 +422,7 @@ export const dalmatian: Breed = {
           "locator": "Breed profile"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": null
     },
     "overview.currentRoles": {
@@ -437,7 +439,7 @@ export const dalmatian: Breed = {
           "locator": "Breed standard"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "These are suitable contemporary roles, not a claim that every individual dog performs them."
     },
     "physical.sizeCategory": {
@@ -463,23 +465,28 @@ export const dalmatian: Breed = {
         {
           "id": "fci-dalmatian-standard",
           "role": "verified",
-          "locator": "Relevant breed-standard section"
+          "locator": "Standard No. 153 — Height at the withers"
         }
       ],
-      "verifiedOn": "2026-10-21",
-      "note": "FCI height ranges at the withers."
+      "verifiedOn": "2026-10-27",
+      "note": "Official FCI Standard No. 153 specifies height at the withers: males 56–62 cm (ideal 58–60 cm), females 54–60 cm (ideal 56–58 cm)."
     },
     "physical.weight": {
-      "reliability": "reliable_source",
+      "reliability": "official_standard",
       "sources": [
         {
-          "id": "american-kennel-club-dalmatian",
+          "id": "fci-dalmatian-standard",
           "role": "verified",
-          "locator": "Breed profile"
+          "locator": "Standard No. 153 — Weight"
+        },
+        {
+          "id": "american-kennel-club-dalmatian",
+          "role": "cited",
+          "locator": "Breed traits — Weight: 45-70 pounds"
         }
       ],
-      "verifiedOn": "2026-10-21",
-      "note": "The cited profile gives a breed-wide range of 45–70 lb; converted to kg and repeated in the sex-specific schema slots because the source does not provide separate sex ranges."
+      "verifiedOn": "2026-10-27",
+      "note": "Official FCI Standard No. 153 specifies adult male weight as approximately 27–32 kg and adult female weight as approximately 24–29 kg."
     },
     "physical.lifespanYears": {
       "reliability": "reliable_source",
@@ -495,7 +502,7 @@ export const dalmatian: Breed = {
           "locator": "Breed profile"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "11–13 years is a published population estimate, not a guarantee for an individual dog."
     },
     "physical.coatType": {
@@ -507,7 +514,7 @@ export const dalmatian: Breed = {
           "locator": "Relevant breed-standard section"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": null
     },
     "physical.coatLength": {
@@ -519,7 +526,7 @@ export const dalmatian: Breed = {
           "locator": "Relevant breed-standard section"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": null
     },
     "physical.coatColors": {
@@ -531,7 +538,7 @@ export const dalmatian: Breed = {
           "locator": "Relevant breed-standard section"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "The FCI standard recognises black-spotted and liver-brown-spotted varieties on white; other unusual colours are not listed as standard varieties."
     },
     "physical.sheddingLevel": {
@@ -566,7 +573,7 @@ export const dalmatian: Breed = {
           "locator": "Relevant breed-standard section"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": null
     },
     "temperament.traits": {
@@ -588,7 +595,7 @@ export const dalmatian: Breed = {
           "locator": "Breed profile"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "Typical tendencies, not a guarantee of individual behaviour."
     },
     "temperament.scores": {
@@ -622,7 +629,7 @@ export const dalmatian: Breed = {
           "locator": "Breed standard"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "High activity is a breed-informed qualitative assessment; adapt to age and health."
     },
     "care.exercise.minutesPerDay": {
@@ -668,7 +675,7 @@ export const dalmatian: Breed = {
           "locator": "Breed standard"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "Practical coat-care summary; grooming needs vary by dog and season."
     },
     "care.training": {
@@ -685,7 +692,7 @@ export const dalmatian: Breed = {
           "locator": "Breed profile"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "Training difficulty is a qualitative editorial description, not a formal rating."
     },
     "care.training.tips": {
@@ -774,7 +781,7 @@ export const dalmatian: Breed = {
           "locator": "Individualised feeding guidance"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "Urate-stone prevention and diet choices must be individualised with a veterinarian; this is not a prescription."
     },
     "nutrition.considerations": {
@@ -791,7 +798,7 @@ export const dalmatian: Breed = {
           "locator": "Breed health overview"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "The breed has a documented urate-stone concern, but not every dog develops stones and diet should be veterinarian-guided."
     },
     "nutrition.note": {
@@ -825,7 +832,7 @@ export const dalmatian: Breed = {
           "locator": "Urinary stone health information"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "Describes reported breed-associated concerns without implying every Dalmatian is affected."
     },
     "health.commonConditions": {
@@ -847,7 +854,7 @@ export const dalmatian: Breed = {
           "locator": "Urinary stone health information"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "Conditions are reported breed-associated concerns, not prevalence predictions for an individual dog."
     },
     "health.preventiveCare": {
@@ -886,7 +893,7 @@ export const dalmatian: Breed = {
           "locator": "Breed standard"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "BAER hearing assessment is supported by breed-club guidance; hip evaluation is a recognised screening discussion for breeding dogs. Additional tests depend on the individual and family history."
     },
     "health.dentalCare": {
@@ -1007,7 +1014,7 @@ export const dalmatian: Breed = {
           "locator": "Breed profile"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "Historical and coat facts are paraphrased from the breed standard and kennel-club history."
     },
     "faq": {
@@ -1039,9 +1046,9 @@ export const dalmatian: Breed = {
           "locator": "Breed standard"
         }
       ],
-      "verifiedOn": "2026-10-21",
+      "verifiedOn": "2026-10-27",
       "note": "Answers are paraphrased and distinguish breed-wide estimates from individual outcomes."
     }
   },
-  "updatedOn": "2026-10-21"
+  "updatedOn": "2026-10-27"
 };

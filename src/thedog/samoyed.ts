@@ -1,24 +1,24 @@
-import type { Breed } from "../../schema/breed.types";
+import type { Breed } from "../schema/breed.types";
 
-export const dalmatian: Breed = {
-  slug: "dalmatian",
-  name: "Dalmatian",
+export const samoyed: Breed = {
+  slug: "samoyed",
+  name: "Samoyed",
   scientificName: null,
   alternateNames: [
-    "Spotted Coach Dog",
-    "Firehouse Dog",
-    "Plum Pudding Dog",
+    "Sammy",
+    "Bjelkier",
+    "Nenets Herding Laika",
   ],
-  group: "Non-Sporting",
+  group: "Working",
   origin: {
-    country: "Dalmatia, Croatia",
+    country: "Siberia",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "Medium-sized, athletic dog with distinctive black or liver spotted white coat and elegant build, originally bred as a carriage dog with exceptional endurance",
-    history: "Ancient breed with roots in Dalmatia, Croatia, originally bred as carriage dogs to run for miles alongside horse-drawn coaches, guarding horses and coaches. Also served as circus performers and iconic firehouse mascots, particularly associated with American fire departments. Recognized by AKC in 1888.",
+    description: "A powerful and graceful medium to large Arctic spitz breed with a thick, all-white double coat and distinctive 'Samoyed smile' created by the upturned corners of the mouth",
+    history: "Ancient breed developed by the nomadic Samoyede people of Siberia over 3,000 years ago for herding reindeer, pulling sleds, and companionship. Their thick coats protected them from brutal climate, and they often slept with families for warmth. Brought out of Siberia in late 19th and early 20th centuries. Recognized by AKC in 1906.",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -27,32 +27,33 @@ export const dalmatian: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 58,
-        max: 61,
+        min: 53,
+        max: 60,
       },
       female: {
-        min: 56,
-        max: 58,
+        min: 48,
+        max: 53,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 25,
-        max: 32,
+        min: 20,
+        max: 29,
       },
       female: {
-        min: 20,
-        max: 27,
+        min: 16,
+        max: 23,
       },
     },
     lifespanYears: {
-      min: 11,
-      max: 13,
+      min: 12,
+      max: 14,
     },
     coatType: null,
     coatLength: null,
     coatColors: [
+      "Biscuit",
       "Black",
       "Black and Tan",
       "Blue",
@@ -65,13 +66,11 @@ export const dalmatian: Breed = {
       "Liver",
       "Merle",
       "Pied / Piebald",
+      "Pure White",
       "Red",
       "Sable",
       "Tan",
       "Tricolour",
-      "White",
-      "White with Black Spots",
-      "White with Liver Spots",
     ],
     sheddingLevel: null,
     droolingLevel: null,
@@ -79,11 +78,12 @@ export const dalmatian: Breed = {
   },
   temperament: {
     traits: [
-      "Energetic",
-      "outgoing",
-      "intelligent",
+      "Friendly",
+      "gentle",
+      "adaptable",
       "alert",
-      "athletic",
+      "intelligent",
+      "playful",
     ],
     scores: {
       affection: null,

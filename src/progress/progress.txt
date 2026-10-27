@@ -49,11 +49,11 @@
 46:japanese_chin - CG
 47:petit_brabancon - CG
 48:dutch_smoushond - CG
+49:dalmatian - CG
+50:samoyed - CG
 
-49:dalmatian - CR
+51:jack_russell_terrier - CR
 
-50:samoyed - C
-51:jack_russell_terrier - C
 52:american_cocker_spaniel - C
 53:canadian_eskimo_dog - C
 54:scottish_deerhound - C
@@ -117,7 +117,8 @@
 112:central_asian_shepherd_dog - C
 113:drever - C
 
-114:perro_de_presa_mallorquin
+114:perro_de_presa_mallorquin - R
+
 115:epagneul_bleu_de_picardie
 116:posavac_hound
 117:beauceron
