@@ -119,6 +119,10 @@ import { norfolk_terrier } from "./norfolk_terrier";
 import { central_asian_shepherd_dog } from "./central_asian_shepherd_dog";
 import { drever } from "./drever";
 import { perro_de_presa_mallorquin } from "./perro_de_presa_mallorquin";
+import { epagneul_bleu_de_picardie } from "./epagneul_bleu_de_picardie";
+import { posavac_hound } from "./posavac_hound";
+import { beauceron } from "./beauceron";
+import { berger_picard } from "./berger_picard";
 
 
 export const breedData: readonly Breed[] = [
@@ -237,4 +241,8 @@ export const breedData: readonly Breed[] = [
   central_asian_shepherd_dog,
   drever,
   perro_de_presa_mallorquin,
+  epagneul_bleu_de_picardie,
+  posavac_hound,
+  beauceron,
+  berger_picard,
 ];

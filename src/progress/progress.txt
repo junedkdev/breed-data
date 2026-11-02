@@ -51,10 +51,9 @@
 48:dutch_smoushond - CG
 49:dalmatian - CG
 50:samoyed - CG
+51:jack_russell_terrier - CG
+52:american_cocker_spaniel - CG
 
-51:jack_russell_terrier - CR
-
-52:american_cocker_spaniel - C
 53:canadian_eskimo_dog - C
 54:scottish_deerhound - C
 55:skye_terrier - C
@@ -117,11 +116,11 @@
 112:central_asian_shepherd_dog - C
 113:drever - C
 114:perro_de_presa_mallorquin - C
+115:epagneul_bleu_de_picardie - C
+116:posavac_hound - C
+117:beauceron - C
+118:berger_picard - C
 
-115:epagneul_bleu_de_picardie
-116:posavac_hound
-117:beauceron
-118:berger_picard
 119:podenco_canario
 120:sussex_spaniel
 121:cesky_fousek
