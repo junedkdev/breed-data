@@ -11,6 +11,8 @@ Before creating the object, read the current versions of these files in the bree
 - At least one existing detailed breed object in src/breeds
 - The catalog checks in src/validate and the build in src/build
 
+also you can read all source code from @GitHub in https://github.com/junedkdev/breed-data repository.
+
 Research and data quality
 1. Research the breed using reliable, current sources, prioritising official breed standards, reputable kennel clubs, veterinary organisations and scientific publications.
 2. Verify existing facts and provide detailed, useful values wherever trustworthy evidence supports them.

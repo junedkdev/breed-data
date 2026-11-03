@@ -55,8 +55,7 @@
 52:american_cocker_spaniel - CG
 53:canadian_eskimo_dog - CG
 54:scottish_deerhound - CG
-
-55:skye_terrier - CR
+55:skye_terrier - CG
 
 56:yorkshire_terrier - C
 57:basset_griffon_vendeen,_petit - C
@@ -123,9 +122,10 @@
 118:berger_picard - C
 119:podenco_canario - C
 120:sussex_spaniel - C
+121:cesky_fousek - C
 
-121:cesky_fousek
-122:bull_terrier_(miniature)
+122:bull_terrier_(miniature) - R
+
 123:akita_inu
 124:schweizerischer_niederlaufhund
 125:boxer

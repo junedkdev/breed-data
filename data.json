@@ -5178,43 +5178,47 @@
     },
     "american-kennel-club-skye-terrier": {
       "id": "american-kennel-club-skye-terrier",
-      "name": "American Kennel Club - Skye Terrier",
+      "name": "American Kennel Club — Skye Terrier",
       "publisher": "American Kennel Club",
       "url": "https://www.akc.org/dog-breeds/skye-terrier/",
       "type": "kennel_club",
+      "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Breed profile, size, life expectancy, care and health information."
+      "accessedOn": "2026-11-03",
+      "note": "Breed profile covering typical height (10 in males, 9.5 in females), weight (35–45 lb males), 12–14 years life expectancy, temperament, grooming, and musculoskeletal care."
     },
     "american-kennel-club-skye-terrier-history": {
       "id": "american-kennel-club-skye-terrier-history",
-      "name": "American Kennel Club - Skye Terrier History",
+      "name": "American Kennel Club — Skye Terrier History",
       "publisher": "American Kennel Club",
       "url": "https://www.akc.org/expert-advice/dog-breeds/skye-terrier-history/",
       "type": "kennel_club",
+      "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Historical overview of the breed's development on the Isle of Skye and its original working role."
+      "accessedOn": "2026-11-03",
+      "note": "Historical documentation detailing the breed's origins on the Isle of Skye, working earthdog purpose, Victorian royal patronage, and Greyfriars Bobby."
     },
     "united-kennel-club-skye-terrier-standard": {
       "id": "united-kennel-club-skye-terrier-standard",
-      "name": "United Kennel Club - Skye Terrier Breed Standard",
-      "publisher": "United Kennel Club",
-      "url": "https://www.ukcdogs.com/breed-standards/skye-terrier",
+      "name": "United Kennel Club — Skye Terrier Breed Standard",
+      "publisher": "United Kennel Club (UKC)",
+      "url": "https://www.ukcdogs.com/skye-terrier",
       "type": "official_breed_standard",
+      "commercialUse": "reference_only",
       "publishedOn": "2017-05-01",
-      "accessedOn": "2026-10-21",
-      "note": "Official UKC breed standard; page states that the standard was revised May 1, 2017."
+      "accessedOn": "2026-11-03",
+      "note": "Official breed standard specifying ideal wither height (10 in males, 9.5 in females), proportions (2:1 length to height ratio), double coat structure, prick and drop ear varieties, and permitted colours."
     },
     "skye-terrier-club-uk-health": {
       "id": "skye-terrier-club-uk-health",
-      "name": "The Skye Terrier Club - Breed Health",
+      "name": "The Skye Terrier Club — Breed Health",
       "publisher": "The Skye Terrier Club",
       "url": "https://www.skyeterrierclub.org.uk/breed-health/",
       "type": "breed_club",
+      "commercialUse": "reference_only",
       "publishedOn": null,
-      "accessedOn": "2026-10-21",
-      "note": "Breed health committee information about conditions being monitored and ongoing health research."
+      "accessedOn": "2026-11-03",
+      "note": "Parent breed-club health overview detailing conditions monitored by the health committee, including puppy limp, renal dysplasia, hepatitis, and oncology research."
     },
     "american-kennel-club-yorkshire-terrier": {
       "id": "american-kennel-club-yorkshire-terrier",
@@ -7137,7 +7141,7 @@
       "commercialUse": "reference_only",
       "publishedOn": null,
       "accessedOn": "2026-11-03",
-      "note": "Structured baseline breed record providing historical context, baseline metrics, and cross-referenced trait profiles."
+      "note": "Structured baseline breed record providing historical context, baseline metrics, alternate names, and cross-referenced trait profiles."
     },
     "fci-pyrenean-mastiff-standard": {
       "id": "fci-pyrenean-mastiff-standard",
@@ -10958,6 +10962,77 @@
       "publishedOn": null,
       "accessedOn": "2026-11-03",
       "note": "Original file page identifies photographer Dan Bennett, capture date 14 August 2009, upload date 18 February 2012, dimensions 3872 × 2592, and CC BY 2.0 licensing."
+    },
+    "fci-cesky-fousek-standard-245": {
+      "id": "fci-cesky-fousek-standard-245",
+      "name": "FCI Standard No. 245 — Cesky Fousek",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/Nomenclature/Standards/245g07-en.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2013-08-07",
+      "accessedOn": "2026-11-03",
+      "note": "English FCI Standard No. 245; document dated 07.08.2013. The standard itself states that the official valid standard was originally published on 21.05.1963."
+    },
+    "fci-cesky-fousek-nomenclature-245": {
+      "id": "fci-cesky-fousek-nomenclature-245",
+      "name": "FCI Breed Nomenclature — Cesky Fousek (245)",
+      "publisher": "Fédération Cynologique Internationale",
+      "url": "https://www.fci.be/en/nomenclature/BOHEMIAN-WIRE-HAIRED-POINTING-GRIFFON-245.html",
+      "type": "breed_registry",
+      "publishedOn": null,
+      "accessedOn": "2026-11-03",
+      "note": "Official breed status, classification, language names and country of origin."
+    },
+    "ukc-cesky-fousek-standard": {
+      "id": "ukc-cesky-fousek-standard",
+      "name": "United Kennel Club — Cesky Fousek Breed Standard",
+      "publisher": "United Kennel Club",
+      "url": "https://www.ukcdogs.com/docs/breeds/cesky-fousek.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": null,
+      "accessedOn": "2026-11-03",
+      "note": "UKC breed standard; the PDF identifies the standard as copyrighted 1996."
+    },
+    "cfna-cesky-fousek-health-survey": {
+      "id": "cfna-cesky-fousek-health-survey",
+      "name": "Cesky Fousek North America — Health Survey",
+      "publisher": "Cesky Fousek North America",
+      "url": "https://ceskyfousekna.org/resources/health-survey/",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-03",
+      "note": "Breed-club survey for collecting health information from Cesky Fouseks; survey data are reported publicly only in summary form."
+    },
+    "cfna-cesky-fousek-health-monitoring": {
+      "id": "cfna-cesky-fousek-health-monitoring",
+      "name": "Cesky Fousek North America — Health and Genetics Monitoring",
+      "publisher": "Cesky Fousek North America",
+      "url": "https://ceskyfousekna.org/resources/",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-03",
+      "note": "Breed-club information on health data collection and PennHIP evaluation for dogs considered for its breeding programme."
+    },
+    "neradilova-2022-cesky-fousek-flank-alopecia": {
+      "id": "neradilova-2022-cesky-fousek-flank-alopecia",
+      "name": "Genomic and Transcriptomic Characterization of Atypical Recurrent Flank Alopecia in the Cesky Fousek",
+      "publisher": "Genes (MDPI); authors include Silvie Neradilová et al.",
+      "url": "https://www.mdpi.com/2073-4425/13/4/650",
+      "type": "scientific_publication",
+      "publishedOn": "2022-04-07",
+      "accessedOn": "2026-11-03",
+      "note": "Peer-reviewed study using 216 phenotyped Cesky Fouseks; the authors report a complex genetic contribution and note that further research is needed."
+    },
+    "commons-cesky-fousek-flickr-photo": {
+      "id": "commons-cesky-fousek-flickr-photo",
+      "name": "Wikimedia Commons — Cesky Fousek Flickr.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Cesky_Fousek_Flickr.jpg",
+      "type": "other",
+      "commercialUse": "commercial_use",
+      "publishedOn": null,
+      "accessedOn": "2026-11-03",
+      "note": "File page identifies the photograph as a Český Fousek, credits Flickr user Srinayan Puppala (TigerPuppala), gives capture date 8 May 2005 and dimensions 800 × 571, and states CC BY-SA 2.0. Commercial reuse is allowed subject to attribution and share-alike terms."
     }
   },
   "licenses": {
@@ -37526,6 +37601,761 @@
         }
       },
       "updatedOn": "2026-10-27"
+    },
+    {
+      "slug": "cesky-fousek",
+      "name": "Cesky Fousek",
+      "scientificName": null,
+      "alternateNames": [
+        "Český fousek",
+        "Bohemian Wire-Haired Pointing Griffon",
+        "Bohemian Wire-Haired Pointing Dog",
+        "Barbu Tchèque"
+      ],
+      "group": "FCI Group 7 — Pointing Dogs; Section 1.3 — Continental Pointing Dogs, Griffon type",
+      "origin": {
+        "country": "Czech Republic",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cesky_Fousek_Flickr.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cesky_Fousek_Flickr.jpg",
+          "title": "Cesky Fousek Flickr.jpg",
+          "description": "A Český Fousek.",
+          "creator": "Srinayan Puppala (Flickr username: TigerPuppala)",
+          "uploader": null,
+          "capturedOn": "2005-05-08",
+          "uploadedOn": null,
+          "width": 800,
+          "height": 571,
+          "licenseId": "cc-by-sa-2.0",
+          "attribution": "Photo by Srinayan Puppala (TigerPuppala), via Wikimedia Commons, licensed under CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate any changes; adaptations must be distributed under the same or a compatible license.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-11-03"
+        }
+      ],
+      "overview": {
+        "summary": "The Cesky Fousek is a medium-sized, versatile wire-haired pointing dog from the Czech Republic. Bred to work across fields, woodland and water, it combines stamina and a weather-resistant coat with an alert, cooperative nature. Its characteristic beard and expressive eyebrows frame a practical working-dog appearance. This is an active hunting breed that needs purposeful exercise, training and close involvement with its household.",
+        "description": "Strong and athletic without being heavy, the Cesky Fousek has a firm body, a long, relatively narrow head and a distinctive three-part coat. A soft dense undercoat protects the skin, while a coarse close-fitting topcoat and harsher guard hairs provide a rugged outer covering. Longer, softer hair on the lips and lower jaw forms the beard, and the eyebrows are prominent. The breed was developed as an all-round pointing dog able to search and work on land and in water. It is generally described in its breed standard as trainable and devoted to its handler, but its working instincts and stamina mean it is best suited to people who can provide regular activity and structured outlets for its abilities.",
+        "history": "The Cesky Fousek was historically a widely kept wire-haired pointing dog in the area of present-day Czechia and Slovakia before the First World War. The war and its aftermath brought the breed close to extinction during the 1920s. A recovery programme used surviving typical dogs and planned breeding to re-establish the modern breed. The FCI recognises it as a Czech breed and classifies it among continental pointing dogs of the Griffon type. The FCI standard describes it as a versatile working dog and subjects the breed to a working trial.",
+        "originalPurpose": "A versatile pointing and hunting dog developed for work in fields, woodland and water.",
+        "currentRoles": [
+          "Versatile hunting and pointing dog",
+          "Field, woodland and water work",
+          "Hunting-dog trials and working tests",
+          "Active companion for experienced outdoor households",
+          "Scent work, retrieving and structured gundog activities"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Medium-sized",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 60,
+            "max": 66
+          },
+          "female": {
+            "min": 58,
+            "max": 62
+          }
+        },
+        "weight": {
+          "unit": "kg",
+          "male": {
+            "min": 28,
+            "max": 34
+          },
+          "female": {
+            "min": 22,
+            "max": 28
+          }
+        },
+        "lifespanYears": null,
+        "coatType": "Three-part, weather-resistant coat consisting of a soft dense undercoat, a harsh coarse topcoat and longer, straight guard hairs.",
+        "coatLength": "The FCI standard describes an undercoat about 1,5 cm long, a topcoat 3 to 4 cm long and guard hairs 5 to 7 cm long. Hair is longer on the rear sides of the legs, forming feathering; the head has a beard and prominent eyebrows.",
+        "coatColors": [
+          "Dark roan, with or without brown patches",
+          "Brown with ticked markings on the forechest and lower part of the limbs",
+          "Brown without markings"
+        ],
+        "sheddingLevel": "Seasonal shedding is expected; the FCI standard notes that the dense undercoat is almost completely shed in summer. Individual shedding varies.",
+        "droolingLevel": null,
+        "distinctiveFeatures": [
+          "Medium-sized, strong and enduring pointing-dog build",
+          "Long, relatively narrow head with a moderately arched nasal bridge",
+          "Dark-brown nose and deep-set amber to chestnut eyes",
+          "High-set, broad-based ears that narrow towards rounded tips",
+          "Characteristic beard formed by longer, softer hair on the lips and lower jaw",
+          "Pronounced eyebrows pointing upwards",
+          "Three-layer coat with a dense undercoat and harsh outer hair",
+          "Compact feet with thick, coarse pads and a remnant of webbing between the toes"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Devoted and cooperative with its handler",
+          "Generally described as readily trainable for a working dog",
+          "Alert, energetic and purposeful when working",
+          "Has an innate hunting response and may be sharp towards vermin",
+          "Built for sustained activity across varied terrain",
+          "Needs early, positive socialisation and consistent boundaries"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": null,
+          "withDogs": null,
+          "withStrangers": null,
+          "protectiveness": null,
+          "independence": 3,
+          "trainability": 4,
+          "barking": null,
+          "energy": 5
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "High. This is a versatile working pointer with substantial stamina and a need for purposeful daily activity. Leisurely walks alone are unlikely to meet the needs of a fit working-line dog.",
+          "minutesPerDay": null,
+          "activities": [
+            "Long, varied walks and hikes appropriate to age and fitness",
+            "Structured gundog training and field exercises",
+            "Scent work, tracking and searching games",
+            "Retrieving practice on land and, where safe, in water",
+            "Swimming in safe, supervised conditions",
+            "Recall and off-lead skills practised in secure areas",
+            "Mental enrichment and calm settling exercises between active periods"
+          ]
+        },
+        "grooming": {
+          "level": "Moderate. The harsh working coat is practical, but it still needs regular inspection and maintenance, particularly after outdoor work.",
+          "brushing": "Brush and comb regularly to remove debris and loose undercoat, paying attention to the beard, feathering and areas where burrs or vegetation can collect. Increase coat checks after field or woodland outings. The breed's dense undercoat sheds heavily in summer, so more frequent grooming may be needed during that period.",
+          "bathing": "Bathe when genuinely dirty or after exposure to substances that should be washed from the coat. Use a dog-safe shampoo, rinse thoroughly and dry the coat well, especially after swimming or wet-weather work. Avoid excessive bathing that strips the coat unnecessarily.",
+          "notes": [
+            "Inspect the beard and leg feathering after walks for seeds, burrs and tangles.",
+            "Check the coat and skin after hunting or woodland work for ticks, cuts and foreign material.",
+            "Dry the ears and coat after swimming or prolonged wet-weather activity.",
+            "Trim nails as needed and check pads for cracks or injuries.",
+            "Brush teeth regularly with dog-specific toothpaste.",
+            "The standard describes a dense undercoat that is almost completely shed in summer; plan for seasonal coat maintenance."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate to demanding for a pet-only home; the breed is described as trainable, but its working drive, stamina and hunting instincts call for consistent handling and meaningful activities.",
+          "tips": [
+            "Begin reward-based training, recall and lead manners early.",
+            "Use short, purposeful sessions and build skills gradually around real-world distractions.",
+            "Provide structured scent, search and retrieving activities rather than relying only on free exercise.",
+            "Train a reliable recall before allowing off-lead freedom in unfenced areas.",
+            "Teach calm behaviour and settling as deliberately as active working skills.",
+            "Manage access to wildlife and small animals; a strong hunting response should not be assumed to disappear through obedience training.",
+            "Introduce grooming, ear checks, paw handling and post-outing inspections from puppyhood."
+          ],
+          "socialization": "Introduce the puppy positively and progressively to different people, stable dogs, surfaces, sounds, vehicles and outdoor environments. Practise calm behaviour around livestock and wildlife at a safe distance, and supervise all interactions with children and other animals. Socialisation should build confidence without forcing close contact or overwhelming the dog."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": null,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "The dense undercoat and harsh outer coat are described as protective against dampness and suited to demanding outdoor work.",
+            "Provide shade, ventilation and fresh water in hot weather, and avoid strenuous activity during the hottest part of the day.",
+            "In cold or wet conditions, dry the dog after work and check for chill, skin irritation and trapped moisture."
+          ],
+          "aloneTimeTolerance": null
+        }
+      },
+      "nutrition": {
+        "dietType": "A complete and balanced dog food appropriate to the dog's life stage, body condition, workload and veterinary needs.",
+        "feedingFrequency": {
+          "puppy": null,
+          "adult": null,
+          "senior": null
+        },
+        "guidelines": "Adjust food quantity to age, body condition and activity rather than assuming every dog has the same calorie requirement. Working dogs may need different energy intake on demanding days than during rest periods. Measure meals, account for training rewards, provide constant access to clean water and ask a veterinarian to assess body condition and diet when workload changes.",
+        "considerations": [
+          "Match energy intake to actual workload; activity can vary substantially between working and rest days.",
+          "Maintain a lean, fit body condition without underfeeding a growing puppy or active adult.",
+          "Count training treats and food rewards as part of the daily ration.",
+          "Provide water before, during suitable breaks and after exercise, with care taken around strenuous work and feeding routines.",
+          "Discuss any persistent digestive signs, weight changes or supplements with a veterinarian."
+        ],
+        "note": "The breed standards and breed-club resources reviewed do not establish a universal calorie target or feeding schedule for all Cesky Fouseks."
+      },
+      "health": {
+        "overview": "Published breed research has identified atypical recurrent flank alopecia (aRFA) as a notable health concern in the Cesky Fousek. A 2022 study examined 216 dogs and reported seasonal, non-inflammatory hair-loss patterns, with a complex genetic contribution suggested by the findings; the specific causal variants were not established. This does not mean every Cesky Fousek will develop the condition, and the study does not provide a simple predictive test. The breed club in North America also collects health information to monitor the population. Ask breeders about family history, skin or coat changes and the health information available for the parents. Routine veterinary care remains important for all dogs.",
+        "commonConditions": [
+          "Atypical recurrent flank alopecia (aRFA): a breed-associated, often seasonal pattern of non-inflammatory hair loss studied in Cesky Fouseks. Its genetic basis appears complex and is not fully resolved."
+        ],
+        "preventiveCare": [
+          "Ask the breeder about aRFA or recurrent seasonal hair loss in the puppy's parents, close relatives and previous litters.",
+          "Request available health records and ask how the breeder participates in breed-club health monitoring.",
+          "Arrange routine veterinary examinations and locally appropriate parasite prevention.",
+          "Check the skin and coat regularly, especially after field work, and seek veterinary advice for persistent or recurring hair loss.",
+          "Maintain a healthy body condition and condition the dog gradually for demanding work.",
+          "Check ears, paws and coat after swimming, hunting or woodland activity."
+        ],
+        "recommendedScreenings": [
+          "Discuss hip evaluation with the breeder and veterinarian; the Cesky Fousek North America breeding programme states that dogs considered for breeding undergo PennHIP evaluation.",
+          "Ask whether the breeder has documented aRFA history in the family and participates in the breed-club health survey.",
+          "No validated, universally recommended genetic screening test for aRFA was established by the study reviewed; do not treat a research association as a clinical diagnostic test."
+        ],
+        "dentalCare": "Brush the teeth regularly with dog-specific toothpaste and arrange veterinary dental checks as advised. Do not use human toothpaste.",
+        "earCare": "The ears are pendant and should be checked routinely, especially after swimming or work in wet vegetation. Keep them dry and seek veterinary advice for persistent redness, odour, discharge, head-shaking or discomfort.",
+        "skinCare": "Inspect the skin during regular grooming for ticks, wounds, irritation and recurring areas of hair loss. Seasonal or persistent coat loss should be assessed by a veterinarian rather than assumed to be aRFA, since other skin and endocrine conditions can look similar."
+      },
+      "suitability": {
+        "firstTimeOwners": null,
+        "familiesWithChildren": null,
+        "seniorOwners": null,
+        "activeOwners": true,
+        "apartmentLiving": null,
+        "idealFor": [
+          "Experienced owners who enjoy training and outdoor activities",
+          "People who can provide sustained daily exercise and mental work",
+          "Hunting households seeking a versatile pointing dog for field, woodland and water",
+          "Owners interested in scent work, retrieving and gundog activities",
+          "Homes able to provide companionship, structure and regular coat and health checks"
+        ],
+        "notIdealFor": [
+          "Households seeking a low-energy or mostly sedentary companion",
+          "Owners unable to provide purposeful activity and consistent training",
+          "Homes that cannot safely manage strong interest in wildlife and small animals",
+          "People who expect the dog to exercise itself in a yard without interaction",
+          "Households wanting a breed with a well-established, simple health-screening profile and no known breed-specific research concerns"
+        ]
+      },
+      "funFacts": [
+        "The FCI lists the Cesky Fousek as breed number 245.",
+        "The breed's name is commonly rendered in English as Bohemian Wire-Haired Pointing Griffon.",
+        "Its coat has three distinct hair types: undercoat, topcoat and guard hair.",
+        "The beard is formed by longer, softer hair on the lower jaw and lips.",
+        "The breed standard describes the dog as a versatile worker in fields, woodland and water.",
+        "A 2022 study investigated atypical recurrent flank alopecia using data from 216 Cesky Fouseks."
+      ],
+      "faq": [
+        {
+          "question": "Where does the Cesky Fousek come from?",
+          "answer": "The Cesky Fousek originates in the Czech Republic. It was historically common in the area of present-day Czechia and Slovakia before the First World War and was later restored through planned breeding."
+        },
+        {
+          "question": "What was the Cesky Fousek bred to do?",
+          "answer": "It was developed as a versatile pointing and hunting dog for work in fields, woodland and water. The FCI classifies it among continental pointing dogs and requires a working trial for the breed."
+        },
+        {
+          "question": "How tall is a Cesky Fousek?",
+          "answer": "The FCI standard gives a height of 60 to 66 cm for dogs and 58 to 62 cm for bitches, measured at the withers."
+        },
+        {
+          "question": "How much does a Cesky Fousek weigh?",
+          "answer": "The FCI standard gives 28 to 34 kg for dogs and 22 to 28 kg for bitches."
+        },
+        {
+          "question": "What coat colours are accepted?",
+          "answer": "The accepted colours are dark roan with or without brown patches, brown with ticked markings on the forechest and lower limbs, and brown without markings."
+        },
+        {
+          "question": "Does the Cesky Fousek need a lot of exercise?",
+          "answer": "Yes. It is a high-stamina working pointer bred for varied outdoor tasks. It needs regular purposeful exercise and mental work such as scent activities, retrieving and gundog training. A universal daily minute target is not established by the breed sources reviewed."
+        },
+        {
+          "question": "Does the Cesky Fousek have any known health concerns?",
+          "answer": "Research has identified atypical recurrent flank alopecia, a seasonal pattern of hair loss, as a breed-associated concern. Its genetic basis appears complex and is not fully understood. Ask breeders about family history and discuss recurring coat changes with a veterinarian."
+        },
+        {
+          "question": "Is the Cesky Fousek suitable for apartment living?",
+          "answer": "A reliable breed-specific rating for apartment living was not established in the sources reviewed. Its high activity needs mean that any home must be able to provide substantial daily exercise, training and enrichment."
+        }
+      ],
+      "references": [
+        "fci-cesky-fousek-standard-245",
+        "fci-cesky-fousek-nomenclature-245",
+        "ukc-cesky-fousek-standard",
+        "cfna-cesky-fousek-health-survey",
+        "cfna-cesky-fousek-health-monitoring",
+        "neradilova-2022-cesky-fousek-flank-alopecia",
+        "commons-cesky-fousek-flickr-photo"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A breed-specific scientific name is not applicable or established in the breed standards reviewed."
+        },
+        "alternateNames": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "Breed title and recognised alternative English name"
+            },
+            {
+              "id": "fci-cesky-fousek-nomenclature-245",
+              "role": "verified",
+              "locator": "Breed nomenclature and language names"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Includes the Czech name and standard English or French names shown by the breed registries."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "FCI classification"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": null
+        },
+        "origin": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "Origin"
+            },
+            {
+              "id": "fci-cesky-fousek-nomenclature-245",
+              "role": "verified",
+              "locator": "Country of origin"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "The current country of origin is recorded as the Czech Republic; the standard notes the former Czechoslovak context."
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "The official standard identifies the country but does not establish a narrower region of origin."
+        },
+        "overview": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "General appearance, utilization and brief historical summary"
+            },
+            {
+              "id": "fci-cesky-fousek-nomenclature-245",
+              "role": "verified",
+              "locator": "Breed status, group and country of origin"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Descriptions are original summaries of the breed standard and official registry information."
+        },
+        "overview.history": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "Brief historical summary"
+            },
+            {
+              "id": "ukc-cesky-fousek-standard",
+              "role": "cited",
+              "locator": "History"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Historical account is limited to details stated by the breed standards."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "General appearance, coat, colour, size and weight"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Breed-standard physical characteristics and measurements."
+        },
+        "physical.lifespanYears": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific lifespan range was established in the sources reviewed."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "Coat, undercoat description"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Seasonal undercoat shedding is explicitly described in the standard; overall shedding intensity is not quantified."
+        },
+        "physical.droolingLevel": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific drooling level was established."
+        },
+        "temperament": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "General appearance and working characteristics"
+            },
+            {
+              "id": "ukc-cesky-fousek-standard",
+              "role": "verified",
+              "locator": "Characteristics"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Breed-level working temperament; individual behaviour varies with genetics, training and experience."
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "cited",
+              "locator": "Trainability, devotion and hunting characteristics"
+            },
+            {
+              "id": "ukc-cesky-fousek-standard",
+              "role": "cited",
+              "locator": "Characteristics"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Scores are editorial 1–5 estimates, not validated behavioural measurements. Unknown dimensions remain null."
+        },
+        "temperament.scores.withChildren": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific evidence establishes a with-children score."
+        },
+        "temperament.scores.withDogs": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific evidence establishes a with-dogs score."
+        },
+        "temperament.scores.withStrangers": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific evidence establishes a with-strangers score."
+        },
+        "temperament.scores.protectiveness": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific evidence establishes a protectiveness score."
+        },
+        "temperament.scores.barking": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific evidence establishes a barking score."
+        },
+        "care": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Care recommendations combine the breed's documented working characteristics with general responsible dog-care guidance."
+        },
+        "care.exercise": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "Utilization and field, water and woodland working abilities"
+            },
+            {
+              "id": "cfna-cesky-fousek-health-monitoring",
+              "role": "cited",
+              "locator": "Working tests and breeding programme"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "High activity needs are inferred from the breed's stated working purpose and abilities; no universal daily duration is asserted."
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable universal daily exercise duration in minutes was found."
+        },
+        "care.grooming": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "Coat structure and seasonal undercoat shedding"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Grooming advice is tailored to the documented three-part coat; frequency recommendations are practical care guidance."
+        },
+        "care.training": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "Trainability and pointing-dog working purpose"
+            },
+            {
+              "id": "ukc-cesky-fousek-standard",
+              "role": "verified",
+              "locator": "Characteristics and working-dog description"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Training advice reflects the breed's working instincts; individual training outcomes vary."
+        },
+        "care.livingEnvironment": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Housing suitability depends on the dog's activity needs, routine and individual behaviour."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific source establishes apartment suitability as a universal yes-or-no rating."
+        },
+        "care.livingEnvironment.houseWithYardSuitable": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "cited",
+              "locator": "Working-dog activity and outdoor purpose"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "A secure yard can be useful for an active dog but does not replace daily exercise, training or supervision."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable breed-specific alone-time duration was established."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine nutrition guidance; no breed-specific calorie target or feeding schedule is asserted."
+        },
+        "nutrition.feedingFrequency.puppy": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal breed-specific puppy feeding schedule was established."
+        },
+        "nutrition.feedingFrequency.adult": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal breed-specific adult feeding schedule was established."
+        },
+        "nutrition.feedingFrequency.senior": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No universal breed-specific senior feeding schedule was established."
+        },
+        "health": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "neradilova-2022-cesky-fousek-flank-alopecia",
+              "role": "verified",
+              "locator": "Abstract, results and conclusions: atypical recurrent flank alopecia in the Cesky Fousek"
+            },
+            {
+              "id": "cfna-cesky-fousek-health-survey",
+              "role": "cited",
+              "locator": "Breed health survey and monitoring rationale"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Health information is limited to a published breed-specific research finding and the breed club's monitoring programme; it is not a complete disease-prevalence profile."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "neradilova-2022-cesky-fousek-flank-alopecia",
+              "role": "verified",
+              "locator": "Abstract and conclusions: atypical recurrent flank alopecia"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "aRFA is a documented breed-associated research concern, not a claim that all dogs are affected or that prevalence is known for every population."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "cfna-cesky-fousek-health-monitoring",
+              "role": "verified",
+              "locator": "PennHIP evaluation stated for dogs considered for the breeding programme"
+            },
+            {
+              "id": "cfna-cesky-fousek-health-survey",
+              "role": "verified",
+              "locator": "Health survey categories and monitoring programme"
+            },
+            {
+              "id": "neradilova-2022-cesky-fousek-flank-alopecia",
+              "role": "verified",
+              "locator": "Discussion of aRFA research limitations and genetic uncertainty"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "PennHIP is described as part of the CFNA breeding programme, not as a universal requirement in every country. aRFA family-history discussion is not a validated screening test."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General veterinary preventive-care guidance."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General canine dental-care guidance."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "General ear-care guidance, with routine checks after water work."
+        },
+        "health.skinCare": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "neradilova-2022-cesky-fousek-flank-alopecia",
+              "role": "verified",
+              "locator": "Clinical description of seasonal hair-loss patterns"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Advice to investigate recurrent hair loss reflects the published breed-specific aRFA research; other causes must be ruled out by a veterinarian."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "cited",
+              "locator": "Versatile pointing-dog working purpose and stamina"
+            },
+            {
+              "id": "cfna-cesky-fousek-health-monitoring",
+              "role": "cited",
+              "locator": "Working tests and breeding programme"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Household-fit guidance is an editorial assessment based on the documented working purpose and activity needs, not a validated suitability test."
+        },
+        "suitability.firstTimeOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable source establishes a universal first-time-owner rating."
+        },
+        "suitability.familiesWithChildren": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable source establishes a universal suitability rating for families with children."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable source establishes a universal senior-owner suitability rating."
+        },
+        "suitability.activeOwners": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "cited",
+              "locator": "Versatile working and pointing-dog purpose"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Editorial fit assessment based on the breed's documented working role and stamina."
+        },
+        "suitability.apartmentLiving": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "No reliable source establishes a universal apartment-living suitability rating."
+        },
+        "funFacts": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "FCI breed number, coat, history and utilization"
+            },
+            {
+              "id": "neradilova-2022-cesky-fousek-flank-alopecia",
+              "role": "verified",
+              "locator": "Study population and research findings"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Facts are drawn from the official standard and published research."
+        },
+        "faq": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-cesky-fousek-standard-245",
+              "role": "verified",
+              "locator": "Origin, history, utilization, measurements and colours"
+            },
+            {
+              "id": "fci-cesky-fousek-nomenclature-245",
+              "role": "verified",
+              "locator": "Breed classification and origin"
+            },
+            {
+              "id": "neradilova-2022-cesky-fousek-flank-alopecia",
+              "role": "verified",
+              "locator": "aRFA findings"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Answers summarise verified breed-standard facts and published health research; care recommendations are qualified where evidence is limited."
+        }
+      },
+      "updatedOn": "2026-11-03"
     },
     {
       "slug": "chien-francais-tricolore",
@@ -97045,8 +97875,10 @@
       "slug": "skye-terrier",
       "name": "Skye Terrier",
       "scientificName": null,
-      "alternateNames": [],
-      "group": "Terrier Group",
+      "alternateNames": [
+        "Cloak Terrier"
+      ],
+      "group": "Terriers; Small Working Terriers",
       "origin": {
         "country": "United Kingdom",
         "region": "Isle of Skye, Inner Hebrides, Scotland"
@@ -97060,44 +97892,46 @@
           "creator": "Pleple2000",
           "uploader": "Pleple2000",
           "capturedOn": "2007-03-16",
-          "uploadedOn": null,
+          "uploadedOn": "2007-03-27",
           "width": 1804,
           "height": 1012,
           "licenseId": "cc-by-sa-3.0",
-          "attribution": "Photo by Pleple2000, via Wikimedia Commons, CC BY-SA 3.0. Changes, if any, must be indicated. Adaptations must comply with the applicable share-alike terms.",
+          "attribution": "Photo by Pleple2000, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Indicate any changes made; adaptations must comply with applicable share-alike terms.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-10-21"
+          "metadataCheckedOn": "2026-11-03"
         }
       ],
       "overview": {
-        "summary": "The Skye Terrier is a sturdy, low-set Scottish terrier known for its long, straight coat, strong attachment to its family, and independent character. Though relatively short in stature, it has substantial bone, a long body, and the courage of a traditional working terrier.",
-        "description": "The Skye Terrier has a distinctive long-and-low outline, short muscular legs, a deep body, and a straight double coat that falls along both sides. Long hair frames the head and may partly cover the eyes; the ears can be erect or drop-eared. The breed is generally loyal and sensitive with its household, while often reserved around unfamiliar people. It benefits from consistent reward-based training, regular coat care, daily activity, and careful management during puppy growth because of its long-backed structure.",
-        "history": "The breed developed on Scotland's Isle of Skye and surrounding areas, where working terriers were used to control animals such as foxes and badgers. Its protective coat and compact, low body suited work around rocky terrain and animal dens. The breed later became fashionable among British nobility, particularly during the Victorian era. Modern Skye Terriers are primarily companions and show dogs, although their alertness and working-terrier instincts remain part of their character.",
-        "originalPurpose": "Working terrier used to control foxes, badgers, and other vermin.",
+        "summary": "A distinguished, low-set Scottish earthdog native to the Isle of Skye, the Skye Terrier is renowned for its long, parting double coat, lavishly fringed ears, and fiercely loyal disposition. Despite its short stature, this courageous working terrier possesses immense bone strength, a long back, and a substantial, muscular frame historically built to pursue foxes and badgers into rocky dens.",
+        "description": "Exhibiting an unmistakable long-and-low silhouette, the Skye Terrier stands twice as long as it is tall, with short, powerful limbs, a deep chest, and an elegant flat-falling coat that parts cleanly along the spine. The head features abundant hair forming a protective veil across the eyes and forehead, while symmetrical ears are carried either in an alert prick posture or flat against the skull in the drop-ear variety. Deeply devoted and protective with its immediate human family, the breed is naturally reserved and cautious around unfamiliar people. Responsible ownership involves gentle, reward-based training, regular coat line-brushing, and strict precautions against high-impact jumping during puppyhood to protect the elongated spine.",
+        "history": "Originating in the rugged terrain of the Isle of Skye in Scotland's Inner Hebrides, this ancient terrier was developed as a formidable earthdog to flush badgers, otters, and foxes from rocky cairns and subterranean burrows. Its dense, weather-resistant double coat and low center of gravity provided vital protection against harsh Hebridean weather and abrasive rocks. In the nineteenth century, the breed gained international aristocratic acclaim after Queen Victoria became an avid fancier, and its legendary fidelity was epitomised by Greyfriars Bobby, who guarded his deceased master's grave in Edinburgh for fourteen years. Today, it remains a rare and treasured heritage companion.",
+        "originalPurpose": "Earthdog work, tracking and bolting foxes, otters, badgers, and vermin among rocky Highland cairns and burrows.",
         "currentRoles": [
           "Family companion",
           "Conformation show dog",
-          "Obedience and other suitable dog-sport participant"
+          "Obedience and rally participant",
+          "Scent work and earthdog sports partner",
+          "Heritage preservation breed"
         ]
       },
       "physical": {
-        "sizeCategory": "Small, long-bodied terrier",
+        "sizeCategory": "Small",
         "height": {
-          "unit": "cm",
+          "unit": "in",
           "male": {
-            "min": 25.4,
-            "max": 25.4
+            "min": 10,
+            "max": 10
           },
           "female": {
-            "min": 24.13,
-            "max": 24.13
+            "min": 9.5,
+            "max": 9.5
           }
         },
         "weight": {
-          "unit": "kg",
+          "unit": "lb",
           "male": {
-            "min": 15.9,
-            "max": 20.4
+            "min": 35,
+            "max": 45
           },
           "female": null
         },
@@ -97105,37 +97939,38 @@
           "min": 12,
           "max": 14
         },
-        "coatType": "Double coat with a short, soft undercoat and a long, straight, firm outer coat.",
-        "coatLength": "Long body coat that falls straight down either side; hair on the head forms a veil, with feathering around the ears and tail.",
+        "coatType": "Harsh, straight, flat-falling outer coat over a short, soft, woolly undercoat, providing comprehensive weatherproofing and thermal insulation.",
+        "coatLength": "Long, straight coat falling flat along each side of the body, featuring a veiling fringe across the forehead and lavish feathering on the ears and tail.",
         "coatColors": [
           "Black",
           "Blue",
-          "Dark gray",
-          "Light gray",
-          "Silver or platinum",
+          "Dark grey",
+          "Light grey",
+          "Silver platinum",
           "Fawn",
           "Cream"
         ],
-        "sheddingLevel": "Not quantified consistently in the consulted sources; regular brushing is needed to manage the long coat.",
-        "droolingLevel": "Generally expected to be low; this is a qualitative breed-profile estimate rather than a measured statistic.",
+        "sheddingLevel": "Moderate; regular seasonal shedding requiring consistent combing to manage undercoat and prevent matting.",
+        "droolingLevel": "Low; tight flews and clean muzzle prevent noticeable drooling.",
         "distinctiveFeatures": [
-          "Long, low body with short, muscular legs.",
-          "Strong bone and a sturdy frame despite relatively short stature.",
-          "Long, straight double coat that parts along the body.",
-          "Hair on the head that can veil the forehead and eyes.",
-          "Both erect and drop-ear forms are recognised.",
-          "A long, well-feathered tail."
+          "Elongated, low-slung silhouette measuring twice as long as its shoulder height",
+          "Heavily boned, muscular frame with short forelegs slightly curving around a deep chest",
+          "Straight, flowing double coat that parts symmetrically along the spine",
+          "Head crowned with a veiling topknot of long hair framing the eyes and muzzle",
+          "Symmetrical ears presented in either erect prick or flat drop varieties with lavish feathering",
+          "Long, well-feathered tail carried in alignment with the topline"
         ]
       },
       "temperament": {
         "traits": [
-          "Loyal and strongly attached to familiar people.",
-          "Courageous and alert.",
-          "Intelligent and capable of learning.",
-          "Independent and sometimes strong-willed.",
-          "Often reserved with unfamiliar people.",
-          "Sensitive to harsh correction.",
-          "Retains working-terrier instincts."
+          "Fiercely loyal and intensely bonded to family members",
+          "Courageous, confident, and fearless",
+          "Dignified, calm, and composed indoors",
+          "Independent-minded with strong terrier tenacity",
+          "Politely reserved and observant with unfamiliar people",
+          "Sensitive to voice inflection and harsh handling",
+          "Alert with enduring predatory drive toward small burrowing animals",
+          "Requires patient, reward-based training and consistent leadership"
         ],
         "scores": {
           "affection": 5,
@@ -97151,94 +97986,94 @@
       },
       "care": {
         "exercise": {
-          "level": "Moderate. Daily walks, play, and short training activities usually provide a practical starting point; individual needs vary with age, health, and conditioning.",
+          "level": "Moderate. Daily leashed walks and structured indoor or yard play provide sufficient exercise, with care taken to avoid high-impact jumping during growth.",
           "minutesPerDay": null,
           "activities": [
-            "Daily leash walks.",
-            "Supervised play and exploration.",
-            "Reward-based obedience practice.",
-            "Scent games and other mentally engaging activities.",
-            "Suitable low-impact activities adjusted for age and fitness."
+            "Daily leashed neighborhood walks on level surfaces",
+            "Supervised indoor retrieval and interactive toy play",
+            "Reward-based obedience and trick training sessions",
+            "Gentle scent games and problem-solving puzzles",
+            "Low-impact exploratory sniff sessions in secure areas"
           ]
         },
         "grooming": {
-          "level": "Moderate to high because the long double coat can tangle and collect debris.",
-          "brushing": "Brush and comb the coat regularly, paying attention to the areas behind the ears, under the legs, around the chest, and wherever friction can create mats. Check that the comb reaches through the coat rather than only smoothing its surface.",
-          "bathing": "Bathe when needed with dog-appropriate shampoo. Work gently through the coat and dry it thoroughly to reduce tangling and retained moisture.",
+          "level": "Moderate to high. The long double coat requires regular line-brushing to prevent matting, especially in friction areas.",
+          "brushing": "Comb thoroughly two to three times weekly with a wide-toothed metal comb and pin brush, parting the coat in sections to reach down to the skin and prevent undercoat tangles.",
+          "bathing": "Bathe every three to six weeks with gentle canine shampoo and conditioner, pressing the water out gently and blow-drying flat without friction that encourages mats.",
           "notes": [
-            "Inspect the coat frequently for tangles, mats, seeds, and debris.",
-            "Check the ears and the skin beneath the long coat during grooming.",
-            "Keep nails trimmed and check the paws routinely.",
-            "Avoid unnecessary clipping if maintaining the natural coat is important to you.",
-            "Introduce grooming gradually so the dog learns to tolerate handling."
+            "Inspect friction zones behind the ears, armpits, and groin weekly for early knot formation.",
+            "Check erect or dropped ears routinely for moisture, wax accumulation, or debris hidden by long feathering.",
+            "Keep toenails clipped short to maintain proper paw structure on short, heavy-boned legs.",
+            "Never clip or shave the coat unless medically required, as clipping alters the straight texture.",
+            "Brush teeth regularly with pet-safe enzymatic toothpaste."
           ]
         },
         "training": {
-          "difficulty": "Moderate. Intelligence and attachment to the owner can support learning, while independence and sensitivity make patient consistency important.",
+          "difficulty": "Moderate. Quick to learn and devoted, but exhibits an independent streak and sensitive nature that shuts down under harsh corrections.",
           "tips": [
-            "Use reward-based training with clear, consistent cues.",
-            "Keep sessions short, engaging, and predictable.",
-            "Avoid harsh physical correction or intimidation.",
-            "Teach reliable recall, but remember that terrier instincts can compete with recall around wildlife.",
-            "Reward calm behaviour around unfamiliar people and dogs.",
-            "Teach cooperative handling for brushing, ear checks, and veterinary examinations."
+            "Utilise positive reinforcement with small treats, gentle praise, and play rewards.",
+            "Keep training sessions short, focused, and predictable to avoid stubborn disinterest.",
+            "Teach early cooperative handling for brushing, paw wiping, and ear cleaning.",
+            "Instil reliable recall in enclosed areas, bearing in mind that prey drive can compete with focus.",
+            "Reward calm, neutral behavior when encountering unfamiliar people.",
+            "Strictly avoid harsh reprimands, which foster distrust in sensitive terriers."
           ],
-          "socialization": "Introduce the puppy gradually and positively to different people, sounds, surfaces, handling, and suitable dogs. Aim for calm, safe experiences rather than forcing close contact with unfamiliar people or animals."
+          "socialization": "Introduce puppies gradually and positively to diverse people, sounds, novel environments, and calm dogs. Thoughtful exposure fosters quiet self-confidence and prevents excessive aloofness or wariness."
         },
         "livingEnvironment": {
           "apartmentSuitable": true,
           "houseWithYardSuitable": true,
           "climates": [
-            "Temperate climates.",
-            "Cool weather with appropriate shelter and comfort.",
-            "Warm weather with shade, ventilation, water, and avoidance of strenuous activity during heat."
+            "Adapts well to temperate and cool-weather climates where its double coat provides protection.",
+            "In warm weather, provide shade, ventilation, air-conditioning, and fresh water, exercising during cool dawn or dusk hours.",
+            "Avoid prolonged exposure to extreme heat and humidity, monitoring for signs of overheating."
           ],
-          "aloneTimeTolerance": "Variable. Build alone-time tolerance gradually; avoid assuming that an individual dog will comfortably manage long periods alone simply because the breed is independent."
+          "aloneTimeTolerance": "Moderate. They settle calmly as adults, but build alone-time tolerance gradually to prevent separation distress."
         }
       },
       "nutrition": {
-        "dietType": "A complete and balanced dog food appropriate to the dog's life stage, body condition, and activity level. Home-prepared diets should be formulated with veterinary nutritional guidance.",
+        "dietType": "A high-quality, complete and balanced commercial or veterinary-formulated diet tailored to small-breed adult or puppy life stages.",
         "feedingFrequency": {
           "puppy": null,
           "adult": null,
           "senior": null
         },
-        "guidelines": "Measure food portions and adjust them according to growth, activity, body condition, and veterinary advice. Keep fresh drinking water available. Avoid allowing excess weight to accumulate, because unnecessary weight can increase mechanical load on the dog's long body and joints.",
+        "guidelines": "Measure daily portions precisely with a standard measuring cup or kitchen scale, adjusting amounts based on age, metabolism, and activity level. Avoid overfeeding, as excess body weight places unnecessary mechanical load on the elongated spine and low-set joints. Ensure clean, fresh water is available at all times.",
         "considerations": [
-          "Choose a diet formulated for the dog's current life stage.",
-          "Monitor body condition and adjust portions when weight changes.",
-          "Count treats as part of the daily food allowance.",
-          "Discuss growth and feeding amounts with a veterinarian, especially during puppyhood.",
-          "Seek veterinary advice before making major dietary changes or adding supplements."
+          "Monitor body condition score closely to prevent excess weight gain that stresses the back.",
+          "Factor all training rewards and treats into daily caloric intake totals.",
+          "Use low-rimmed feeding dishes to accommodate facial hair and mustache comfortably.",
+          "Transition between diets gradually across 7 to 10 days to avert gastrointestinal upset.",
+          "Consult a veterinarian before introducing any joint or dietary supplements."
         ],
-        "note": "The consulted breed sources do not establish a universal meal count or precise daily calorie target for every Skye Terrier. Feeding amounts should be individualised."
+        "note": "Feeding requirements should be customized to the individual dog's life stage, body condition, and activity level."
       },
       "health": {
-        "overview": "The Skye Terrier is generally described as a robust breed, but breed-club health monitoring and veterinary breed guidance identify concerns worth discussing with a breeder and veterinarian. Reported or monitored issues include puppy limp, renal dysplasia, hepatitis, and cancer. The AKC also cautions about spinal or disc injuries associated with the breed's long, low structure and mentions conditions such as mammary cancer and hemangiosarcoma. These concerns should not be interpreted as a diagnosis or as proof that an individual dog will develop them.",
+        "overview": "A hardy and historically robust breed with an average lifespan of 12 to 14 years. However, its unique chondrodysplastic, long-and-low conformation and small gene pool require careful attention to juvenile growth-plate health, spinal integrity, renal function, and hepatic conditions.",
         "commonConditions": [
-          "Puppy limp, sometimes referred to by breed enthusiasts as Skye limp; persistent or painful limping needs veterinary assessment.",
-          "Renal dysplasia, a kidney-development condition monitored by the breed health community.",
-          "Hepatitis and other liver-related concerns reported in breed health monitoring.",
-          "Cancer, including types mentioned in breed-health discussions; an individual dog's risk cannot be inferred from breed membership alone.",
-          "Spinal or intervertebral disc problems, a concern to discuss because of the breed's long-backed structure.",
-          "Other conditions may occur as in any dog; the list is not exhaustive and does not establish prevalence."
+          "Puppy limp (painful distal radial/ulnar physeal growth disturbance during rapid juvenile development, often termed Skye limp)",
+          "Intervertebral disc disease (IVDD) and spinal strain associated with the elongated, low-slung frame",
+          "Renal dysplasia, a developmental malformation of the renal cortex monitored in breed health registries",
+          "Chronic hepatitis and copper-associated liver disease",
+          "Mammary neoplasia and hemangiosarcoma",
+          "Hypothyroidism and autoimmune thyroiditis"
         ],
         "preventiveCare": [
-          "Arrange routine veterinary examinations and keep vaccinations and parasite prevention appropriate to local risks.",
-          "Discuss persistent limping, weakness, back pain, reluctance to jump, or changes in movement promptly with a veterinarian.",
-          "Avoid repeatedly encouraging puppies to jump from heights or take stairs excessively during growth.",
-          "Ask breeders about relevant family health history, including concerns monitored by the breed health committee.",
-          "Maintain a healthy body condition and regular, age-appropriate activity.",
-          "Keep up with dental care, ear checks, nail trimming, and skin inspection beneath the coat."
+          "Strictly prohibit puppies from jumping off furniture or navigating steep stairs during their first year of skeletal growth.",
+          "Schedule regular veterinary wellness exams, including periodic renal and hepatic blood panels.",
+          "Seek veterinary evaluation immediately for persistent lameness, reluctance to move, or spinal discomfort.",
+          "Review prospective breeding pedigrees for family histories of juvenile lameness and renal dysplasia.",
+          "Maintain a lean, muscular body condition to prevent downward mechanical torque on the spine.",
+          "Perform routine tooth brushing and inspect skin beneath long coat hair."
         ],
         "recommendedScreenings": [
-          "Ask the breeder and veterinarian about family history of puppy limp, renal dysplasia, hepatitis, and cancer.",
-          "Discuss whether kidney imaging, elbow evaluation, or other investigations are appropriate for the individual dog or breeding plan.",
-          "Do not interpret the absence of a formal recommended screening panel on a kennel-club page as proof that no health evaluation is useful."
+          "Inquire with breeders about multi-generational family histories of puppy limp, renal dysplasia, hepatitis, and neoplasia",
+          "Annual comprehensive physical examination assessing spinal flexibility and orthopaedic comfort",
+          "Baseline biochemical screening and urinalysis to monitor kidney and liver values"
         ],
-        "dentalCare": "Brush the teeth regularly with dog-appropriate products and arrange veterinary dental checks as advised. Dental disease can affect dogs of any breed.",
-        "earCare": "Check the ears regularly, especially where long hair can conceal debris or irritation. Clean only as advised by a veterinary professional and seek advice for odour, redness, discharge, or persistent scratching.",
-        "skinCare": "Part the long coat during grooming to inspect the skin for redness, parasites, sores, or mats that pull on the skin. Seek veterinary advice for persistent itching, hair loss, or recurring skin changes."
+        "dentalCare": "Brush teeth regularly with dog-safe enzymatic toothpaste and arrange routine professional cleanings to prevent tartar buildup and periodontal disease.",
+        "earCare": "Inspect prick or dropped ears weekly for trapped dirt, wax accumulation, or irritation concealed beneath the lavish feathering.",
+        "skinCare": "Part the long coat to inspect the skin for mats pulling on tissue, localized dermatitis, or external parasites during routine grooming."
       },
       "suitability": {
         "firstTimeOwners": false,
@@ -97247,76 +98082,110 @@
         "activeOwners": true,
         "apartmentLiving": true,
         "idealFor": [
-          "Owners who value a loyal companion and can provide patient, consistent training.",
-          "Households prepared for regular coat maintenance.",
-          "People able to supervise interactions with children and other animals.",
-          "Owners who can manage exercise safely and avoid excessive impact during puppy growth."
+          "Owners who appreciate profound one-family loyalty and practice patient, gentle training methods",
+          "Households committed to regular line-combing and dedicated long-coat maintenance",
+          "Apartment or home dwellers able to provide daily moderate walks without high-impact jumping",
+          "Families who respect a terrier's reserved dignity with strangers and provide calm domestic routines"
         ],
         "notIdealFor": [
-          "People who want a wash-and-go coat requiring little maintenance.",
-          "Owners expecting immediate, reliable off-leash recall around wildlife.",
-          "Households unable to provide patient training or routine grooming.",
-          "People who plan to encourage frequent high-impact jumping during puppyhood."
+          "Owners seeking a low-maintenance 'wash-and-wear' coat",
+          "Households encouraging frequent high-impact jumping from heights during puppyhood",
+          "Handlers expecting immediate, unreserved sociability with all strangers and strange animals",
+          "Owners who use harsh verbal reprimands or physical corrections"
         ]
       },
       "funFacts": [
-        "The breed takes its name from the Isle of Skye in Scotland.",
-        "Skye Terriers can have erect ears or drop ears.",
-        "The breed's long, low outline and protective coat reflect its working-terrier background.",
-        "The breed became fashionable among British nobility during the Victorian era."
+        "The breed takes its name from the rugged Isle of Skye in Scotland's Inner Hebrides, where it was developed nearly four centuries ago.",
+        "Skye Terriers occur in two distinct ear carriage varieties—erect prick ears and flat drop ears—both having lavish feathering.",
+        "The breed became an international sensation during the Victorian era after Queen Victoria kept and bred Skye Terriers at Windsor Castle.",
+        "Edinburgh's most famous canine legend, Greyfriars Bobby, was a faithful Skye Terrier who spent 14 years guarding his deceased master's grave in Greyfriars Kirkyard."
       ],
       "faq": [
         {
           "question": "Is the Skye Terrier a good family dog?",
-          "answer": "It can be a devoted family companion, but children should be taught respectful handling and interactions should be supervised. Individual temperament, socialization, and training matter more than breed label alone."
+          "answer": "Yes. They are extraordinarily loyal and devoted to their family, though children should be taught respectful handling and adult supervision should be maintained."
         },
         {
-          "question": "How much grooming does a Skye Terrier need?",
-          "answer": "The long double coat needs regular brushing and combing to prevent mats and remove debris. Check the coat, ears, skin, paws, and nails as part of the routine."
+          "question": "How tall and heavy is a Skye Terrier?",
+          "answer": "The ideal shoulder height is 10 inches for adult males and 9.5 inches for adult females. Adult males typically weigh 35 to 45 pounds, with females weighing slightly less in proportion."
         },
         {
-          "question": "How much exercise does a Skye Terrier need?",
-          "answer": "Daily walks and play are a useful starting point, adjusted for age, health, and individual energy. The consulted sources do not establish one exact daily-minute target for every dog."
+          "question": "What is the typical lifespan of a Skye Terrier?",
+          "answer": "The breed typically enjoys a life expectancy of 12 to 14 years when provided with conscientious preventive healthcare, proper nutrition, and careful musculoskeletal management."
         },
         {
-          "question": "What health issues should prospective owners ask about?",
-          "answer": "Ask about family history of puppy limp, renal dysplasia, hepatitis, cancer, and spinal or disc concerns. These are topics for discussion, not a prediction that an individual dog will develop a condition."
+          "question": "How demanding is the grooming routine?",
+          "answer": "Grooming requires a moderate to high commitment. The straight, flowing double coat should be thoroughly brushed and combed two to three times a week down to the skin to prevent matting and remove debris."
+        },
+        {
+          "question": "Why is puppy exercise management so important?",
+          "answer": "Because of their long back and short legs, puppies are susceptible to juvenile growth-plate strain (often termed puppy limp) and spinal injury. Jumping from furniture, bounding down steep stairs, and high-impact agility should be strictly avoided until bone growth is complete."
         },
         {
           "question": "Can a Skye Terrier live in an apartment?",
-          "answer": "Apartment living can work when the dog receives daily activity, training, enrichment, grooming, and appropriate opportunities to toilet. The suitability of a specific home depends on the individual dog and its routine."
+          "answer": "Yes. Due to their compact height and calm indoor manners, they adapt well to apartment living provided they receive daily leashed walks and mental enrichment."
+        },
+        {
+          "question": "What is the temperament of a Skye Terrier like?",
+          "answer": "They are renowned for profound loyalty and affection toward their family, paired with a calm, dignified nature. They tend to be reserved with strangers and sensitive to their handler's moods, responding best to gentle, consistent guidance."
         }
       ],
       "references": [
         "american-kennel-club-skye-terrier",
         "american-kennel-club-skye-terrier-history",
         "united-kennel-club-skye-terrier-standard",
-        "skye-terrier-club-uk-health"
+        "skye-terrier-club-uk-health",
+        "the-dog-api",
+        "wsava-global-nutrition-guidelines",
+        "avma-pet-dental-care"
       ],
       "evidence": {
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.alt_names: Cloak Terrier"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Historical alternative designation recorded in baseline breed reference datasets."
+        },
         "scientificName": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "A breed-specific scientific name was not established from the consulted breed sources; no taxonomic value is recorded."
-        },
-        "alternateNames": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "No additional alternate name was sufficiently established from the consulted sources."
+          "note": "No distinct breed-specific scientific name was established in the consulted references."
         },
         "group": {
-          "reliability": "reliable_source",
+          "reliability": "official_standard",
           "sources": [
+            {
+              "id": "united-kennel-club-skye-terrier-standard",
+              "role": "verified",
+              "locator": "Terrier Group"
+            },
             {
               "id": "american-kennel-club-skye-terrier",
               "role": "verified",
-              "locator": "Breed group classification"
+              "locator": "Breed group: Terrier Group"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The American Kennel Club places the Skye Terrier in the Terrier Group."
+          "verifiedOn": "2026-11-03",
+          "note": "Classified under working terriers and earthdogs."
+        },
+        "origin": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-skye-terrier-history",
+              "role": "verified",
+              "locator": "Opening section on the Isle of Skye"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "The breed originated on the Isle of Skye in Scotland, part of the United Kingdom."
         },
         "origin.country": {
           "reliability": "reliable_source",
@@ -97325,10 +98194,15 @@
               "id": "american-kennel-club-skye-terrier-history",
               "role": "verified",
               "locator": "Historical overview of the breed's origin"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.origin"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The breed originated in Scotland, part of the United Kingdom."
+          "verifiedOn": "2026-11-03",
+          "note": "Origin is documented in Scotland within the United Kingdom."
         },
         "origin.region": {
           "reliability": "reliable_source",
@@ -97339,8 +98213,8 @@
               "locator": "Opening section on the Isle of Skye"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The breed is associated with the Isle of Skye in Scotland."
+          "verifiedOn": "2026-11-03",
+          "note": "Specifically associated with the Isle of Skye in Scotland's Inner Hebrides."
         },
         "overview": {
           "reliability": "reliable_source",
@@ -97361,8 +98235,8 @@
               "locator": "General Appearance; Characteristics"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Overview facts were checked against breed-profile, historical, and standard information; descriptions are original wording."
+          "verifiedOn": "2026-11-03",
+          "note": "Original narrative synthesising historical earthdog origins, physical conformation, and domestic temperament."
         },
         "physical.sizeCategory": {
           "reliability": "estimate",
@@ -97379,7 +98253,7 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Editorial size label based on the breed's height and weight; it is not a formal registry category."
+          "note": "Classified as small based on adult wither height of 9.5 to 10 inches."
         },
         "physical.height": {
           "reliability": "official_standard",
@@ -97387,11 +98261,16 @@
             {
               "id": "united-kennel-club-skye-terrier-standard",
               "role": "verified",
-              "locator": "Height, Weight and Proportions"
+              "locator": "Height, Weight and Proportions: males 10 inches; bitches 9.5 inches"
+            },
+            {
+              "id": "american-kennel-club-skye-terrier",
+              "role": "verified",
+              "locator": "Height: 10 inches (male), 9.5 inches (female)"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "UKC ideal height is 10 inches for males and 9.5 inches for females; values are converted to centimetres."
+          "verifiedOn": "2026-11-03",
+          "note": "Stored in published source inches: ideal height is 10 inches for males and 9.5 inches for females."
         },
         "physical.weight": {
           "reliability": "reliable_source",
@@ -97399,17 +98278,17 @@
             {
               "id": "american-kennel-club-skye-terrier",
               "role": "verified",
-              "locator": "Average sizes and life expectancy"
+              "locator": "Weight: 35-45 pounds (male), slightly lighter (female)"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The male range is converted from the AKC profile's 35–45 pounds. The profile describes females as slightly lighter but does not provide a numeric female range."
+          "verifiedOn": "2026-11-03",
+          "note": "Stored in published source pounds: males 35 to 45 pounds; females are described as slightly lighter without a fixed numeric range."
         },
         "physical.weight.female.max": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "The consulted profile says females are slightly lighter but does not specify a numeric female weight range; no number is inferred."
+          "note": "Consulted standards state females are slightly lighter in proportion without specifying a numeric maximum weight; no number is inferred."
         },
         "physical.lifespanYears": {
           "reliability": "reliable_source",
@@ -97417,11 +98296,16 @@
             {
               "id": "american-kennel-club-skye-terrier",
               "role": "verified",
-              "locator": "Average sizes and life expectancy"
+              "locator": "Life Expectancy: 12–14 years"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.life_span: 12 - 14 years"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The AKC profile lists life expectancy as 12–14 years."
+          "verifiedOn": "2026-11-03",
+          "note": "Published life expectancy range of 12 to 14 years."
         },
         "physical.coatType": {
           "reliability": "official_standard",
@@ -97429,11 +98313,11 @@
             {
               "id": "united-kennel-club-skye-terrier-standard",
               "role": "verified",
-              "locator": "Coat"
+              "locator": "Coat: soft, woolly undercoat and hard, straight outer coat"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The standard describes a soft, woolly undercoat and a hard, straight, long outer coat."
+          "verifiedOn": "2026-11-03",
+          "note": "Standard describes a short, soft undercoat and a long, hard, straight, flat outer coat."
         },
         "physical.coatLength": {
           "reliability": "official_standard",
@@ -97441,11 +98325,11 @@
             {
               "id": "united-kennel-club-skye-terrier-standard",
               "role": "verified",
-              "locator": "Coat"
+              "locator": "Coat: long, straight body coat with veil over forehead and feathering on ears and tail"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Coat-length description paraphrases the standard."
+          "verifiedOn": "2026-11-03",
+          "note": "Long coat falling flat along either side with characteristic facial veiling."
         },
         "physical.coatColors": {
           "reliability": "official_standard",
@@ -97453,16 +98337,16 @@
             {
               "id": "united-kennel-club-skye-terrier-standard",
               "role": "verified",
-              "locator": "Color"
+              "locator": "Color: black, blue, dark or light gray, silver platinum, fawn and cream; all with dark points"
             },
             {
               "id": "american-kennel-club-skye-terrier",
               "role": "verified",
-              "locator": "Breed colors and markings"
+              "locator": "Colors and markings"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Listed colors are drawn from the UKC standard and AKC breed profile. The UKC standard also describes dark points."
+          "verifiedOn": "2026-11-03",
+          "note": "Standard colours include black, blue, dark grey, light grey, silver platinum, fawn, and cream, all with dark points."
         },
         "physical.sheddingLevel": {
           "reliability": "estimate",
@@ -97474,13 +98358,13 @@
             }
           ],
           "verifiedOn": null,
-          "note": "The sources reviewed do not provide a consistent measured shedding level; the field is phrased qualitatively."
+          "note": "Qualitative estimate of moderate shedding requiring regular line-brushing to manage undercoat."
         },
         "physical.droolingLevel": {
-          "reliability": "estimate",
+          "reliability": "general_guidance",
           "sources": [],
           "verifiedOn": null,
-          "note": "No reliable breed-specific drooling measurement was found; this is a qualitative estimate."
+          "note": "Tight lip conformation prevents noticeable drooling."
         },
         "physical.distinctiveFeatures": {
           "reliability": "official_standard",
@@ -97491,10 +98375,10 @@
               "locator": "General Appearance; Coat; Characteristics"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Physical features are paraphrased from the breed standard."
+          "verifiedOn": "2026-11-03",
+          "note": "Features synthesised from standard: 2:1 length-to-height ratio, heavy bone, parted coat, facial veil, and prick or drop ears."
         },
-        "temperament.traits": {
+        "temperament": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -97506,10 +98390,15 @@
               "id": "united-kennel-club-skye-terrier-standard",
               "role": "verified",
               "locator": "Characteristics"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.temperament"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Traits are general breed descriptions, not a guarantee about an individual dog's behaviour."
+          "verifiedOn": "2026-11-03",
+          "note": "Documented traits highlighting deep family loyalty, courage, reserved dignity with strangers, and independence."
         },
         "temperament.scores": {
           "reliability": "estimate",
@@ -97521,9 +98410,39 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Scores are editorial 1–5 estimates for app comparison, not validated behavioural test results or official breed-standard values."
+          "note": "Comparative scores reflecting high family affection, protective instincts, and independent working disposition."
         },
-        "care.exercise.level": {
+        "temperament.scores.withChildren": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-skye-terrier",
+              "role": "cited",
+              "locator": "Family Life"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Tolerant with family children when respectful handling is maintained."
+        },
+        "temperament.scores.withDogs": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-skye-terrier",
+              "role": "cited",
+              "locator": "Family Life"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Moderate score reflecting natural terrier assertiveness around unfamiliar dogs."
+        },
+        "care": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Care guidance tailored to a long-backed, low-set terrier requiring spinal protection and regular coat care."
+        },
+        "care.exercise": {
           "reliability": "reliable_source",
           "sources": [
             {
@@ -97532,14 +98451,14 @@
               "locator": "Exercise"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The AKC describes the breed's exercise needs as relatively modest; individual requirements still vary."
+          "verifiedOn": "2026-11-03",
+          "note": "Moderate daily exercise requirements reflecting steady endurance rather than high-intensity jumping."
         },
         "care.exercise.minutesPerDay": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "The consulted sources do not establish a reliable universal number of exercise minutes per day."
+          "note": "No universal daily minute target is established across official breed documentation."
         },
         "care.exercise.activities": {
           "reliability": "general_guidance",
@@ -97551,7 +98470,7 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Activities are practical suggestions adapted from general breed exercise and training guidance."
+          "note": "Practical activity suggestions including leashed walking on level ground and mental enrichment."
         },
         "care.grooming": {
           "reliability": "reliable_source",
@@ -97567,8 +98486,8 @@
               "locator": "Coat"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Grooming advice is based on the long double coat and breed-profile guidance."
+          "verifiedOn": "2026-11-03",
+          "note": "Regular thorough line-brushing is confirmed to keep the long double coat free of mats and debris."
         },
         "care.training": {
           "reliability": "reliable_source",
@@ -97579,8 +98498,8 @@
               "locator": "Training"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Training guidance reflects the breed profile's description of an intelligent, independent, sensitive terrier."
+          "verifiedOn": "2026-11-03",
+          "note": "Positive, reward-based training is essential for this intelligent, sensitive, and independent terrier."
         },
         "care.livingEnvironment": {
           "reliability": "estimate",
@@ -97592,31 +98511,67 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Living-environment fields are practical estimates, not official suitability certifications."
+          "note": "Practical environmental guidance emphasizing indoor companionship, temperature management, and avoidance of stairs."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-skye-terrier",
+              "role": "cited",
+              "locator": "Breed profile and exercise"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Well-suited to apartment life provided daily outdoor walking needs are fulfilled."
+        },
+        "care.livingEnvironment.houseWithYardSuitable": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "A securely fenced yard provides safe exploration opportunities but does not substitute for structured walks."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Moderate alone-time tolerance; build tolerance gradually to prevent separation distress."
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "wsava-global-nutrition-guidelines",
+              "role": "cited",
+              "locator": "Global Nutrition Guidelines"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General canine nutritional guidelines; portion sizes should be adapted to prevent obesity that stresses the elongated spine."
         },
         "nutrition.dietType": {
           "reliability": "general_guidance",
           "sources": [],
           "verifiedOn": null,
-          "note": "General canine nutrition guidance; diet choice should be appropriate to life stage and individual health."
+          "note": "Complete and balanced canine diet appropriate for life stage, body condition, and metabolic health."
         },
         "nutrition.feedingFrequency.puppy": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No single breed-specific puppy feeding frequency was established from the consulted sources."
+          "note": "No single breed-specific puppy feeding frequency is established across consulted breed sources."
         },
         "nutrition.feedingFrequency.adult": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No single breed-specific adult feeding frequency was established from the consulted sources."
+          "note": "No single breed-specific adult feeding frequency is established across consulted breed sources."
         },
         "nutrition.feedingFrequency.senior": {
           "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "No single breed-specific senior feeding frequency was established from the consulted sources."
+          "note": "No single breed-specific senior feeding frequency is established across consulted breed sources."
         },
         "nutrition.guidelines": {
           "reliability": "general_guidance",
@@ -97628,13 +98583,13 @@
             }
           ],
           "verifiedOn": null,
-          "note": "General nutrition guidance is adapted into original wording; portion sizes must be individualised."
+          "note": "Portion control is emphasized to prevent weight gain that exacerbates intervertebral disc stress."
         },
         "nutrition.considerations": {
           "reliability": "general_guidance",
           "sources": [],
           "verifiedOn": null,
-          "note": "General preventive nutrition recommendations, not breed-specific medical claims."
+          "note": "Practical dietary considerations including treat accounting and low-rimmed bowl usage."
         },
         "nutrition.note": {
           "reliability": "reliable_source",
@@ -97645,8 +98600,25 @@
               "locator": "Nutrition"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "No universal breed-specific meal frequency is asserted."
+          "verifiedOn": "2026-11-03",
+          "note": "Feeding amounts should be customized to the individual dog's metabolic rate and condition."
+        },
+        "health": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-skye-terrier",
+              "role": "verified",
+              "locator": "Health"
+            },
+            {
+              "id": "skye-terrier-club-uk-health",
+              "role": "verified",
+              "locator": "Conditions currently being monitored"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Breed health concerns reflect conditions monitored by parent breed clubs, including puppy limp, renal dysplasia, and hepatitis."
         },
         "health.overview": {
           "reliability": "reliable_source",
@@ -97662,8 +98634,8 @@
               "locator": "Conditions currently being monitored"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Health concerns are presented as reported or monitored issues, not as a prediction for an individual dog."
+          "verifiedOn": "2026-11-03",
+          "note": "Health summary emphasizing the breed's achondroplastic spinal risks, juvenile lameness, and monitoring registries."
         },
         "health.commonConditions": {
           "reliability": "reliable_source",
@@ -97679,8 +98651,8 @@
               "locator": "Puppy Limp; Renal Dysplasia; Hepatitis; Other Research"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "This list combines concerns named by the AKC and the breed health committee; it does not rank prevalence."
+          "verifiedOn": "2026-11-03",
+          "note": "Documented health vulnerabilities verified across parent-club and kennel-club health committees."
         },
         "health.preventiveCare": {
           "reliability": "general_guidance",
@@ -97697,7 +98669,7 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Preventive-care recommendations are general advice and do not replace veterinary assessment."
+          "note": "Preventive care recommendations highlighting restricted jumping during growth to protect developing growth plates."
         },
         "health.recommendedScreenings": {
           "reliability": "reliable_source",
@@ -97713,26 +98685,32 @@
               "locator": "Renal Dysplasia; Finnish Skye Elbow Project; Health Committee"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "The AKC page lists no recommended health tests from the national breed club; the UK breed club describes health monitoring and research. The object therefore recommends discussion with a veterinarian rather than claiming a mandatory screening protocol."
+          "verifiedOn": "2026-11-03",
+          "note": "Recommended screenings focus on pedigree verification for renal and hepatic disease, along with orthopaedic evaluation."
         },
         "health.dentalCare": {
           "reliability": "general_guidance",
-          "sources": [],
+          "sources": [
+            {
+              "id": "avma-pet-dental-care",
+              "role": "cited",
+              "locator": "Pet Dental Care"
+            }
+          ],
           "verifiedOn": null,
-          "note": "General canine dental-care guidance."
+          "note": "Routine tooth brushing with enzymatic toothpaste to preserve oral health."
         },
         "health.earCare": {
           "reliability": "general_guidance",
           "sources": [],
           "verifiedOn": null,
-          "note": "General canine ear-care guidance."
+          "note": "Routine weekly ear checks for wax or debris concealed beneath heavy ear feathering."
         },
         "health.skinCare": {
           "reliability": "general_guidance",
           "sources": [],
           "verifiedOn": null,
-          "note": "General canine skin and coat-care guidance."
+          "note": "Skin checks beneath long double coat to detect mats, localized dermatitis, or parasites early."
         },
         "suitability": {
           "reliability": "estimate",
@@ -97744,7 +98722,73 @@
             }
           ],
           "verifiedOn": null,
-          "note": "Suitability fields are editorial estimates based on the care and temperament described in breed sources; they are not guarantees."
+          "note": "Editorial suitability assessment based on independent temperament and coat care commitments."
+        },
+        "suitability.firstTimeOwners": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-skye-terrier",
+              "role": "cited",
+              "locator": "Breed traits and training"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Not generally recommended for novice owners due to independent nature, sensitivity, and grooming demands."
+        },
+        "suitability.familiesWithChildren": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-skye-terrier",
+              "role": "cited",
+              "locator": "Family Life"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Affectionate and devoted with family children when respectful handling is taught and practiced."
+        },
+        "suitability.seniorOwners": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-skye-terrier",
+              "role": "cited",
+              "locator": "Exercise and temperament"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Well-suited for active seniors who can manage moderate walks and regular coat brushing."
+        },
+        "suitability.activeOwners": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Appeals to active owners who appreciate a dedicated, courageous companion on moderate outings."
+        },
+        "suitability.apartmentLiving": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "american-kennel-club-skye-terrier",
+              "role": "cited",
+              "locator": "Size and exercise"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Adapts well to apartment life when daily walking and mental enrichment are provided."
+        },
+        "suitability.idealFor": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial assessment reflecting loyalty, low-impact exercise, and dedicated coat maintenance."
+        },
+        "suitability.notIdealFor": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Identifies environments conflicting with breed needs, including homes encouraging rough high-impact jumping."
         },
         "funFacts": {
           "reliability": "reliable_source",
@@ -97760,8 +98804,8 @@
               "locator": "General Appearance; Coat"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "Facts are paraphrased from breed history and standard material."
+          "verifiedOn": "2026-11-03",
+          "note": "Historical Hebridean origins, prick/drop ear varieties, royal patronage, and Greyfriars Bobby verified."
         },
         "faq": {
           "reliability": "reliable_source",
@@ -97775,13 +98819,35 @@
               "id": "skye-terrier-club-uk-health",
               "role": "verified",
               "locator": "Breed health information"
+            },
+            {
+              "id": "united-kennel-club-skye-terrier-standard",
+              "role": "verified",
+              "locator": "Height, Weight and Proportions"
             }
           ],
-          "verifiedOn": "2026-10-21",
-          "note": "FAQ answers summarise the record's cited breed and care information in original wording."
+          "verifiedOn": "2026-11-03",
+          "note": "FAQ responses synthesize standard dimensions, coat care, puppy growth-plate precautions, and temperament."
+        },
+        "physical.weight.male.max": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "american-kennel-club-skye-terrier",
+              "role": "verified",
+              "locator": "Weight: 35-45 pounds (male)"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.weight.metric"
+            }
+          ],
+          "verifiedOn": "2026-11-03",
+          "note": "Maximum male weight recorded as 45 lb (20 kg in metric references)."
         }
       },
-      "updatedOn": "2026-10-21"
+      "updatedOn": "2026-11-03"
     },
     {
       "slug": "slovak-cuvac",

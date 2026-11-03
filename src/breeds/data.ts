@@ -125,6 +125,7 @@ import { beauceron } from "./beauceron";
 import { berger_picard } from "./berger_picard";
 import { podenco_canario } from "./podenco_canario";
 import { sussex_spaniel } from "./sussex_spaniel";
+import { cesky_fousek } from "./cesky_fousek";
 
 
 export const breedData: readonly Breed[] = [
@@ -249,4 +250,5 @@ export const breedData: readonly Breed[] = [
   berger_picard,
   podenco_canario,
   sussex_spaniel,
+  cesky_fousek,
 ];
