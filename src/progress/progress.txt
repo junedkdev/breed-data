@@ -53,10 +53,11 @@
 50:samoyed - CG
 51:jack_russell_terrier - CG
 52:american_cocker_spaniel - CG
+53:canadian_eskimo_dog - CG
+54:scottish_deerhound - CG
 
-53:canadian_eskimo_dog - C
-54:scottish_deerhound - C
-55:skye_terrier - C
+55:skye_terrier - CR
+
 56:yorkshire_terrier - C
 57:basset_griffon_vendeen,_petit - C
 58:gordon_setter - C
@@ -120,9 +121,9 @@
 116:posavac_hound - C
 117:beauceron - C
 118:berger_picard - C
+119:podenco_canario - C
+120:sussex_spaniel - C
 
-119:podenco_canario
-120:sussex_spaniel
 121:cesky_fousek
 122:bull_terrier_(miniature)
 123:akita_inu

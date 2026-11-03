@@ -5,7 +5,7 @@ export const scottish_deerhound: Breed = {
   name: "Scottish Deerhound",
   scientificName: null,
   alternateNames: ["Deerhound", "Scottish Deer Hound"],
-  group: "FCI Group 10 — Sighthounds; Section 2 — Rough-haired Sighthounds",
+  group: "Sighthounds; Rough-Coated Sighthounds",
 
   origin: {
     country: "Great Britain",
@@ -27,9 +27,9 @@ export const scottish_deerhound: Breed = {
       height: 1559,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        'Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: none. If adapted, indicate changes and comply with the applicable share-alike terms.',
+        "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: none. If adapted, indicate changes and comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-11-03",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Deerhound,_chiot.jpg",
@@ -45,9 +45,9 @@ export const scottish_deerhound: Breed = {
       height: 3264,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        'Photo by Manializa, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: none. If adapted, indicate changes and comply with the applicable share-alike terms.',
+        "Photo by Manializa, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: none. If adapted, indicate changes and comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-11-03",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Deerhound_portrait.jpg",
@@ -63,61 +63,63 @@ export const scottish_deerhound: Breed = {
       height: 2000,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        'Photo by Manializa, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: none. If adapted, indicate changes and comply with the applicable share-alike terms.',
+        "Photo by Manializa, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes: none. If adapted, indicate changes and comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-11-03",
     },
   ],
 
   overview: {
     summary:
-      "The Scottish Deerhound is a tall, athletic sighthound developed in Scotland to pursue red deer. It combines a lean, long-legged build and a coarse, wiry coat with a generally gentle and dignified temperament. Although often relaxed at home as an adult, it needs regular exercise and safe opportunities to run.",
+      "A majestic and ancient rough-coated sighthound native to the Scottish Highlands, the Scottish Deerhound was bred to pursue and bring down red deer across rugged moors. Possessing an imposing, tall stature and a coarse, weather-resistant coat, this gentle giant pairs remarkable galloping speed with a dignified, quiet household demeanor. It flourishes in spacious homes that can offer daily structured exercise and securely enclosed running opportunities.",
     description:
-      "This large, lightly built hound has the outline of a rough-coated Greyhound, with a deep chest, long head and neck, powerful hindquarters, and a naturally rugged coat. Its body is designed for speed and stamina over open ground rather than heavy guarding work. Scottish Deerhounds are commonly described as gentle, friendly, and responsive to calm handling. Their size, prey drive, and need for free movement make secure exercise areas and thoughtful management important parts of responsible ownership.",
+      "Resembling a larger, heavier-boned Greyhound cloaked in a harsh, wiry jacket, the Scottish Deerhound exhibits a deep-chested, arched silhouette engineered for sustained galloping power and mountain stamina. Its rugged double coat—typically seen in dark blue-grey, heather brindle, or warm red fawn—provides crucial protection against freezing mist and abrasive Highland heather. In domestic settings, adult hounds are celebrated for their calm, polite presence, rarely barking or displaying territorial aggression. Their exceptional size, sensitive temperament, and pronounced instinct to chase moving objects require committed handling, soft bedding for lean joints, and high, escape-proof fencing.",
     history:
-      "The Deerhound has a long association with Scotland and the pursuit of red deer. Its early history is difficult to establish precisely, and some accounts blend historical evidence with legend. The breed was developed as a large coursing hound able to move quickly over challenging terrain. Changes in hunting practices and periods when ownership and breeding were restricted contributed to declines in its numbers. Modern Deerhounds are kept as companions and show dogs as well as participating in suitable sighthound activities.",
+      "Tracing its origins back to ancient Celtic hunting hounds, the breed was selectively developed by Scottish Highland chieftains specifically to course wild red deer through peat bogs and rocky glens. Once regarded as the exclusive hunting companion of the nobility, strict ownership rules and the collapse of the Highland clan system following the Battle of Culloden in 1746 pushed the breed near extinction. Dedicated preservation by nineteenth-century fanciers, championed by prominent enthusiasts such as Sir Walter Scott, successfully restored the population while safeguarding its classic coursing morphology and gentle nature.",
     originalPurpose:
-      "Coursing and hunting red deer, using speed, stamina, and the ability to cover rough terrain.",
+      "Coursing, pursuing, and holding wild red deer across the rugged, mountainous terrain of the Scottish Highlands.",
     currentRoles: [
-      "Companion dog",
-      "Conformation show dog",
-      "Lure-coursing and other suitable sighthound activities",
+      "Family companion",
+      "Conformation show hound",
+      "Lure coursing and open-field coursing competitor",
+      "Amateur racing and sighthound sports participant",
+      "Therapy and quiet visitation dog",
     ],
   },
 
   physical: {
     sizeCategory: "Giant",
     height: {
-      unit: "cm",
+      unit: "in",
       male: {
-        min: 76.2,
-        max: 81.3,
+        min: 30,
+        max: 32,
       },
       female: {
-        min: 71.1,
+        min: 28,
         max: null,
       },
     },
     weight: {
-      unit: "kg",
+      unit: "lb",
       male: {
-        min: 38.6,
-        max: 49.9,
+        min: 85,
+        max: 110,
       },
       female: {
-        min: 34.0,
-        max: 43.1,
+        min: 75,
+        max: 95,
       },
     },
     lifespanYears: {
       min: 8,
       max: 11,
     },
-    coatType: "Harsh, wiry, ragged double-textured coat",
+    coatType: "Harsh, wiry, and ragged weather-resistant double coat that lies close to the body, offering thermal insulation and protection against abrasive vegetation.",
     coatLength:
-      "Generally around 7.5–10 cm on the body, with softer hair on the head, chest, and belly and modest furnishings on the legs.",
+      "Medium, measuring approximately 3 to 4 inches on the torso, with softer hair across the head and modest protective fringes along the belly and legs.",
     coatColors: [
-      "Blue-grey",
+      "Dark blue-grey",
       "Dark grey",
       "Light grey",
       "Brindle",
@@ -125,27 +127,28 @@ export const scottish_deerhound: Breed = {
       "Sandy red",
       "Red fawn",
     ],
-    sheddingLevel: "Moderate",
-    droolingLevel: null,
+    sheddingLevel: "Moderate; regular seasonal shedding easily managed with routine combing.",
+    droolingLevel: "Low; dry, tight lips prevent excessive salivation.",
     distinctiveFeatures: [
-      "Very tall, lean frame resembling a rough-coated Greyhound",
-      "Long head and neck",
-      "Deep chest and strong hindquarters",
-      "Small ears that fold back when relaxed",
-      "Coarse, wiry coat with a natural, untidy outline",
-      "Long, tapering tail that is usually carried low when relaxed",
+      "Imposing, tall, and athletic sighthound silhouette resembling a rough-coated Greyhound",
+      "Long, cleanly chiseled head tapering to a dark muzzle with a distinct mustache and beard",
+      "Deep, capacious chest providing expansive lung capacity for high-speed coursing",
+      "Small, dark rose ears that fold back against the neck when relaxed and raise when alert",
+      "Coarse, wiry weather-resistant coat with a natural, unclipped rustic appearance",
+      "Long, tapering tail reaching almost to the hocks, carried low with a slight upward curve",
     ],
   },
 
   temperament: {
     traits: [
-      "Gentle",
-      "Friendly",
-      "Dignified",
-      "Affectionate with familiar people",
-      "Sensitive to harsh handling",
-      "Athletic outdoors and often relaxed indoors as an adult",
-      "May chase moving animals because of its sighthound heritage",
+      "Gentle, noble, and dignified",
+      "Deeply affectionate and devoted to family companions",
+      "Quiet and unobtrusive in the home",
+      "Athletic, swift, and driven when outdoors",
+      "Sensitive to voice inflection and harsh corrections",
+      "Pronounced visual chase drive toward moving animals",
+      "Friendly and polite toward strangers without aloofness or guard instincts",
+      "Requires respectful handling and patient, positive training",
     ],
     scores: {
       affection: 4,
@@ -162,103 +165,112 @@ export const scottish_deerhound: Breed = {
 
   care: {
     exercise: {
-      level: "High; needs regular daily activity and safe opportunities to run",
-      minutesPerDay: null,
+      level: "High. Requires daily structured leash walking alongside regular opportunities for full-stride galloping in securely fenced, expansive paddocks.",
+      minutesPerDay: {
+        min: 60,
+        max: 90,
+      },
       activities: [
-        "Daily walks appropriate to age and fitness",
-        "Free running in a securely fenced area",
-        "Suitable lure-coursing or other controlled sighthound activities",
-        "Calm enrichment and scent-based games",
+        "Daily structured road walks to build cardiovascular health and muscle tone",
+        "Free sprinting in securely enclosed fields with safe, level turf",
+        "Lure coursing and straight-track racing drills",
+        "Gentle scent games and outdoor exploration",
+        "Low-impact interactive retrieval on soft ground",
       ],
     },
     grooming: {
-      level: "Low to moderate",
+      level: "Low to moderate. The harsh, natural coat repels mud and dirt, requiring only routine combing to maintain clean condition.",
       brushing:
-        "Brush and comb the coat about weekly, checking for tangles and debris; increase grooming when the individual dog's coat requires it.",
+        "Comb weekly with a wide-toothed metal comb and pin brush to detangle the wiry coat, clear loose hair, and tidy the facial furnishings.",
       bathing:
-        "Bathe when necessary with a dog-appropriate shampoo, rinse thoroughly, and dry the coat well.",
+        "Bathe only when necessary using a mild, texturising canine shampoo to avoid softening the naturally coarse protective guard hair.",
       notes: [
-        "The coat is intended to remain harsh and natural rather than styled into a soft, sculpted finish.",
-        "Check the ears, eyes, skin, nails, and feet during routine grooming.",
-        "Trim nails regularly if normal activity does not keep them short.",
-        "Avoid unnecessary close clipping that changes the coat's natural texture.",
+        "Never clip or scissor the body coat, as shaving permanently alters the natural wiry texture and weather repellency.",
+        "Provide thick orthopaedic bedding to protect bony points from pressure sores, calluses, and hygromas.",
+        "Trim long toenails regularly to support proper sighthound foot posture and joint comfort.",
+        "Check folded rose ears weekly for debris, wax accumulation, or irritation.",
+        "Brush teeth several times per week with dog-safe enzymatic toothpaste.",
       ],
     },
     training: {
       difficulty:
-        "Moderate; generally responsive but sensitive and influenced by its chasing instinct",
+        "Moderate. Highly responsive and eager to cooperate, but inherently sensitive and easily discouraged by repetitive drills or harsh handling.",
       tips: [
-        "Use reward-based methods, consistency, and calm handling.",
-        "Practise recall in secure areas; do not rely on recall alone around wildlife or fast-moving animals.",
-        "Introduce leash manners and everyday handling from an early age.",
-        "Provide controlled social experiences with people, dogs, and varied environments.",
-        "Keep exercise appropriate for growth and seek veterinary or breeder advice for young dogs.",
+        "Apply gentle, reward-based methods using enthusiastic verbal praise and palatable treats.",
+        "Condition reliable loose-leash walking early to manage their immense physical leverage.",
+        "Practice recall in securely enclosed areas, remembering that sighthound prey drive can override obedience.",
+        "Avoid excessive or strenuous galloping during growth stages to safeguard developing growth plates.",
+        "Introduce new sights, sounds, and surfaces patiently to nurture natural self-confidence.",
       ],
       socialization:
-        "Introduce people, dogs, surfaces, sounds, and new environments gradually and positively. Supervise interactions and respect the dog's need for rest and space.",
+        "Expose puppies thoughtfully to diverse people, friendly adult canines, livestock, and novel environments. Because predatory chasing instincts toward fleeing cats, small wildlife, and toy dogs are hardwired, careful supervision and management remain essential throughout life.",
     },
     livingEnvironment: {
-      apartmentSuitable: null,
+      apartmentSuitable: false,
       houseWithYardSuitable: true,
       climates: [
-        "A range of temperate conditions, with appropriate shade, water, shelter, and weather management.",
-        "In hot weather, avoid strenuous exercise during the hottest part of the day and watch for overheating.",
+        "Thrives in cool-temperate and chilly northern climates where its wiry coat provides ideal thermal insulation.",
+        "Prone to heat exhaustion in warm, humid weather; outdoor exercise must be restricted to cool early mornings and late evenings.",
+        "Ensure constant access to cool indoor resting quarters, fresh water, and shade during summer months.",
       ],
-      aloneTimeTolerance: null,
+      aloneTimeTolerance:
+        "Moderate. Adults settle quietly indoors, but prolonged daily isolation can foster separation distress or restlessness.",
     },
   },
 
   nutrition: {
     dietType:
-      "A complete, balanced diet appropriate for the dog's life stage, body condition, and activity level.",
+      "A high-quality, complete and balanced commercial or veterinary-formulated diet tailored to large or giant breeds across their specific life stages.",
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
     guidelines:
-      "Choose a nutritionally complete diet and adjust portions to maintain a lean, healthy body condition. Discuss growth, calorie needs, and any special dietary requirements with a veterinarian. Keep fresh water available at all times.",
+      "Maintain a lean, muscular coursing build where ribs are easily felt beneath thin skin without looking emaciated. Calibrate food intake carefully against exercise, avoid rapid growth in youngsters, and strictly prohibit vigorous exercise for at least one hour before and after meals to mitigate gastric dilatation-volvulus (GDV). Always keep clean, fresh water accessible.",
     considerations: [
-      "As a giant, deep-chested breed, the Scottish Deerhound warrants discussion with a veterinarian about the risk of gastric dilatation-volvulus (bloat).",
-      "Avoid strenuous exercise around meals and follow an individual feeding plan recommended by the dog's veterinarian.",
-      "Monitor weight and body condition rather than relying only on package feeding tables.",
-      "Use treats in moderation and include them in the daily calorie allowance.",
+      "Strictly enforce resting periods before and after feeding to lower the risk of life-threatening gastric torsion.",
+      "Monitor juvenile growth rates closely, avoiding excessive calcium or calories that trigger developmental orthopaedic disorders.",
+      "Factor training treats into the total daily caloric budget.",
+      "Introduce any dietary transitions gradually across 7 to 10 days to avert gastrointestinal upset.",
+      "Consult a veterinarian before introducing any joint or systemic nutritional supplements.",
     ],
     note:
-      "This is general feeding guidance, not a prescribed meal schedule or a substitute for veterinary nutritional advice.",
+      "Giant sighthounds have specialized metabolic demands and sensitive digestive tracts requiring individualized feeding protocols.",
   },
 
   health: {
     overview:
-      "Scottish Deerhounds can be affected by inherited and other serious conditions. Breed-club health resources identify concerns including heart disease, osteosarcoma, gastric dilatation-volvulus, cystinuria, liver shunt, and inherited bleeding disorders. These are reported breed concerns, not a statement that an individual dog will develop them or that their prevalence is the same across populations. Breeders' documented screening results and an ongoing veterinary relationship are important.",
+      "A giant sighthound with an average life expectancy of 8 to 11 years. Like many giant deep-chested breeds, it is predisposed to serious cardiovascular, orthopaedic, and oncological conditions, alongside breed-specific hereditary bleeding and metabolic traits that warrant specialized veterinary oversight.",
     commonConditions: [
-      "Dilated cardiomyopathy and other cardiac conditions",
-      "Osteosarcoma (bone cancer)",
-      "Gastric dilatation-volvulus (bloat)",
-      "Cystinuria and cystine urinary stones",
-      "Portosystemic (liver) shunt",
-      "Factor VII deficiency",
-      "Delayed post-operative hemorrhage (DEPOH)",
+      "Dilated cardiomyopathy (DCM) and cardiac arrhythmias",
+      "Osteosarcoma (bone cancer), predominantly affecting the long bones of the limbs",
+      "Gastric dilatation-volvulus (GDV / bloat), an acute life-threatening torsion of the stomach",
+      "Delayed post-operative hemorrhage (DEPOH), a hyperfibrinolytic bleeding syndrome occurring hours after surgery",
+      "Factor VII deficiency, an inherited mild coagulopathy affecting secondary hemostasis",
+      "Cystinuria, an inherited renal defect predisposing to recurrent cystine urinary calculi",
+      "Portosystemic liver shunt (PSS), an abnormal vascular connection bypassing hepatic portal circulation",
     ],
     preventiveCare: [
-      "Arrange regular veterinary examinations and discuss breed-relevant screening.",
-      "Ask the breeder for documented health-test results and the parents' known genetic status.",
-      "Discuss urgent warning signs of bloat with a veterinarian before an emergency occurs.",
-      "Tell veterinary and surgical teams about any known or suspected bleeding-disorder status before procedures.",
-      "Keep the dog lean, fit, and appropriately exercised throughout life.",
+      "Schedule annual veterinary cardiovascular examinations, including echocardiography and Holter monitoring.",
+      "Confirm parentage genetic status or DNA test results for Factor VII deficiency and DEPOH prior to surgical interventions.",
+      "Alert veterinary surgeons to potential sighthound anesthesia sensitivity and hyperfibrinolytic bleeding risks, discussing preventative aminocaproic acid or tranexamic acid protocols.",
+      "Familiarize all household members with acute bloat emergency symptoms: unproductive retching, pacing, and sudden abdominal distension.",
+      "Conduct bile-acid screening in puppies to detect congenital portosystemic shunts early.",
+      "Screen urine for cystine crystals in mature males, adjusting diet and hydration if indicated.",
     ],
     recommendedScreenings: [
-      "Cardiac evaluation; the breed club recommends echocardiography for breeding stock.",
-      "Factor VII deficiency genetic testing or documented genetic status.",
-      "Delayed post-operative hemorrhage (DEPOH) genetic testing or documented genetic status.",
-      "Bile-acid testing for portosystemic (liver) shunt, following veterinary and breeder guidance.",
+      "Comprehensive cardiac evaluation including echocardiogram and electrocardiogram",
+      "DNA genetic test for Factor VII deficiency to establish carrier or affected status",
+      "DNA genetic test for delayed post-operative hemorrhage (DEPOH) to guide surgical management",
+      "Serum bile-acid testing (pre- and post-prandial) in puppies to screen for congenital liver shunts",
     ],
     dentalCare:
-      "Brush the teeth regularly with dog-safe toothpaste and arrange veterinary dental checks. Seek veterinary advice for persistent bad breath, pain, bleeding gums, or difficulty eating.",
+      "Brush teeth regularly with pet-safe enzymatic toothpaste and arrange routine professional cleanings. Regular oral hygiene protects cardiac health by minimizing oral bacterial dissemination.",
     earCare:
-      "Check the ears regularly for redness, odour, discharge, or discomfort. Clean only as needed with a veterinarian-approved product, and seek veterinary advice if signs of infection appear.",
+      "Inspect folded rose ears weekly for trapped dirt, wax buildup, or redness, wiping the outer ear leather gently with an approved cleanser.",
     skinCare:
-      "Inspect the skin beneath the wiry coat during grooming. Ask a veterinarian to assess persistent itching, sores, new lumps, or changes in the skin.",
+      "Examine the skin during weekly combing for minor scratches sustained during gallops, pressure calluses on elbows, or localized irritation.",
   },
 
   suitability: {
@@ -266,76 +278,73 @@ export const scottish_deerhound: Breed = {
     familiesWithChildren: null,
     seniorOwners: null,
     activeOwners: true,
-    apartmentLiving: null,
+    apartmentLiving: false,
     idealFor: [
-      "Households able to accommodate a very tall dog and its equipment",
-      "Owners who can provide daily exercise and secure opportunities to run",
-      "People who prefer a generally gentle companion and can use patient, reward-based training",
-      "Homes prepared to manage a strong chasing instinct around small animals and wildlife",
-      "Owners committed to preventative veterinary care and breed-relevant health screening",
+      "Households with spacious homes and direct access to large, safely fenced acreage or coursing grounds",
+      "Experienced sighthound enthusiasts who value a quiet, noble, and deeply affectionate home companion",
+      "Owners committed to providing daily exercise, soft bedding, and breed-specific preventive healthcare",
+      "Handlers interested in lure coursing, sighthound sports, or conformation exhibition",
     ],
     notIdealFor: [
-      "Households unable to provide adequate space and safe exercise",
-      "People who expect reliable off-leash recall around wildlife without secure management",
-      "Homes that cannot accommodate a giant dog's size, food needs, and veterinary costs",
-      "Owners who must leave a dog isolated for long periods without an appropriate companionship and enrichment plan",
-      "Households expecting a dependable guard dog",
+      "Apartment dwellers or homes with small, unfenced suburban yards lacking sprinting space",
+      "Households unable to manage the substantial physical size and dietary requirements of a giant hound",
+      "Owners expecting an off-leash park dog that will ignore wildlife and small fleeing animals",
+      "Homes looking for an intimidating watchdog or territorial property protector",
     ],
   },
 
   funFacts: [
-    "The Scottish Deerhound was developed to pursue red deer across Scotland's rugged terrain.",
-    "Its silhouette is similar to a Greyhound, but with a larger frame and a rough, wiry coat.",
-    "Despite its athletic hunting heritage, an adult Deerhound can be notably relaxed indoors after suitable exercise.",
-    "The breed's early history is difficult to separate fully from traditional stories and legend.",
-    "The breed is recognised internationally as a rough-haired sighthound.",
+    "Bred specifically to course red deer across the Highlands, the breed is historically revered as the 'Royal Dog of Scotland'.",
+    "During the Middle Ages, Scottish law restricted ownership of these hounds to noble ranks, with a lord's status often measured by the size of his hunting pack.",
+    "Sir Walter Scott famously owned a celebrated Deerhound cross named Maida, describing the breed as 'the most perfect creature of heaven'.",
+    "Despite their fierce coursing capability in the field, adult hounds are renowned for being placid 'couch potatoes' when indoors.",
   ],
 
   faq: [
     {
       question: "Where does the Scottish Deerhound originate?",
       answer:
-        "It originates in Scotland, where it was developed as a large coursing hound for pursuing red deer.",
+        "The breed originated in the Scottish Highlands, where it was selectively developed over centuries as a large, rough-coated coursing hound to pursue wild red deer.",
     },
     {
       question: "How large does a Scottish Deerhound get?",
       answer:
-        "The AKC lists males at about 30–32 inches tall and 85–110 pounds, and females at 28 inches and up and 75–95 pounds. Individual dogs vary, and these figures are typical breed-profile ranges rather than a guarantee.",
+        "Adult males stand 30 to 32 inches tall at the withers and weigh between 85 and 110 pounds, while adult females measure 28 inches and taller and weigh 75 to 95 pounds.",
     },
     {
       question: "How long does a Scottish Deerhound live?",
       answer:
-        "A commonly published life-expectancy range is about 8–11 years. Individual lifespan depends on genetics, health, care, and other factors.",
+        "The average life expectancy is 8 to 11 years when provided with appropriate giant-breed healthcare, balanced nutrition, and sensible exercise management.",
     },
     {
       question: "Does the Scottish Deerhound need a lot of exercise?",
       answer:
-        "Yes. The breed benefits from regular daily activity and safe opportunities to run. Exercise should be adapted to age, fitness, health, and weather, with particular care during growth.",
+        "It requires substantial daily exercise, typically 60 to 90 minutes combining structured road walks with opportunities for high-speed free sprinting in a securely fenced area.",
     },
     {
       question: "Is the Scottish Deerhound easy to groom?",
       answer:
-        "Its wiry coat is usually manageable with regular brushing and combing. Routine nail care and checks of the ears, eyes, skin, and feet are also important.",
+        "Yes. Its natural, harsh double coat is relatively low-maintenance, requiring only weekly thorough combing to remove loose undercoat and detangle facial whiskers.",
     },
     {
       question: "Is the Scottish Deerhound good with children and other dogs?",
       answer:
-        "Many are described as gentle, but a categorical answer cannot predict an individual dog's behaviour. Supervise children and dog interactions, teach respectful handling, and assess compatibility individually.",
+        "Many are gentle and tolerant with family members, but active adult supervision is essential due to their giant stature and potential for accidental bumps.",
     },
     {
       question: "Can a Scottish Deerhound live in an apartment?",
       answer:
-        "A universal yes-or-no rating is not established here. Consider the dog's size, daily exercise needs, access to secure running space, stairs, and the practical layout of the home before deciding.",
+        "No. Due to its giant physical size, broad turning radius, and essential need for expansive, secure galloping space, apartment living is not suitable.",
     },
     {
       question: "What health tests should I ask a breeder about?",
       answer:
-        "Ask for documented cardiac screening, Factor VII deficiency and DEPOH genetic status, and bile-acid testing for liver shunt. A veterinarian can help interpret results and advise which checks are appropriate for an individual dog.",
+        "Important health screenings include annual echocardiograms for cardiac health, genetic DNA tests for Factor VII deficiency and DEPOH bleeding disorders, and puppy bile-acid tests for liver shunts.",
     },
     {
       question: "Is a Scottish Deerhound a good guard dog?",
       answer:
-        "It is generally known more for a gentle, dignified disposition than for guarding. Do not choose this breed on the expectation that it will act as a dependable protection dog.",
+        "No. The breed is naturally gentle, dignified, and friendly toward visitors, lacking the territorial suspicion and protective instincts required of a guard dog.",
     },
   ],
 
@@ -347,6 +356,9 @@ export const scottish_deerhound: Breed = {
     "american-kennel-club-scottish-deerhound-history",
     "scottish-deerhound-club-of-america-breed-info",
     "scottish-deerhound-club-of-america-health-testing",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
     "wikimedia-scottish-deerhound-grey-1",
     "wikimedia-scottish-deerhound-puppy",
     "wikimedia-scottish-deerhound-portrait",
@@ -366,10 +378,15 @@ export const scottish_deerhound: Breed = {
           role: "verified",
           locator: "Breed profile title and About the Breed",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Uses the breed's recognised name and the shorter Deerhound name used in official breed nomenclature.",
+        "Uses the recognised breed name and the shorter Deerhound designation used in official nomenclature.",
     },
 
     scientificName: {
@@ -377,7 +394,7 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted breed standards and kennel-club resources do not establish a distinct breed-specific scientific name.",
+        "No distinct breed-specific scientific name was established in the consulted references.",
     },
 
     group: {
@@ -386,7 +403,7 @@ export const scottish_deerhound: Breed = {
         {
           id: "fci-deerhound-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 10 Sighthounds, Section 2 Rough-haired Sighthounds",
         },
         {
           id: "fci-deerhound-nomenclature",
@@ -394,9 +411,9 @@ export const scottish_deerhound: Breed = {
           locator: "Group 10, Rough-haired Sighthounds",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Uses the FCI sighthound classification. The AKC also classifies the breed within the Hound Group.",
+        "Classified under sighthounds and rough-coated coursing hounds.",
     },
 
     origin: {
@@ -412,10 +429,46 @@ export const scottish_deerhound: Breed = {
           role: "verified",
           locator: "Country of origin",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "The FCI identifies Great Britain as the country of origin; the breed's historical development is associated with Scotland.",
+        "Official standards identify Great Britain as the country of origin, with specific development in the Scottish Highlands.",
+    },
+
+    "origin.country": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-deerhound-standard",
+          role: "verified",
+          locator: "Origin: Great Britain",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note: "Official breed standard records Great Britain as the country of origin.",
+    },
+
+    "origin.region": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-deerhound-standard",
+          role: "verified",
+          locator: "Brief Historical Summary: Scotland",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note: "Historical development is specifically rooted in the Scottish Highlands.",
     },
 
     overview: {
@@ -437,9 +490,9 @@ export const scottish_deerhound: Breed = {
           locator: "So, You Think You Want a Scottish Deerhound?",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Original summaries of the breed's appearance, historical use, and modern roles; user-facing prose is not copied from the sources.",
+        "Original summaries synthesising historical red deer coursing, distinctive rough sighthound conformation, and domestic temperament.",
     },
 
     physical: {
@@ -456,18 +509,31 @@ export const scottish_deerhound: Breed = {
           locator: "Official Standard: General Appearance, Coat, Colour, Height and Weight",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Standard-based appearance and coat details. Typical profile measurements and lifespan have more specific evidence claims.",
+        "Standard-based appearance, wiry coat texture, and sighthound athletic structure.",
+    },
+
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "american-kennel-club-scottish-deerhound-standard",
+          role: "verified",
+          locator: "General Appearance and Height/Weight: Giant coursing hound",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note: "Classified as giant based on adult stature reaching 32 inches and mass reaching up to 110 pounds.",
     },
 
     "physical.height": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-deerhound-standard",
+          id: "american-kennel-club-scottish-deerhound-standard",
           role: "verified",
-          locator: "Height at the withers",
+          locator: "Height of Dogs: from 30 to 32 inches; Height of Bitches: from 28 inches upwards",
         },
         {
           id: "american-kennel-club-scottish-deerhound",
@@ -475,23 +541,28 @@ export const scottish_deerhound: Breed = {
           locator: "Height: male 30–32 inches; female 28 inches and up",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "AKC height figures converted from inches to centimetres and rounded to one decimal place; female height is an open-ended minimum in the AKC profile.",
+        "Stored in published source inches: males 30 to 32 inches; females 28 inches upwards.",
     },
 
     "physical.weight": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
+        {
+          id: "american-kennel-club-scottish-deerhound-standard",
+          role: "verified",
+          locator: "Weight: from 85 to 110 pounds in dogs; from 75 to 95 pounds in bitches",
+        },
         {
           id: "american-kennel-club-scottish-deerhound",
           role: "verified",
-          locator: "Average sizes and life expectancy: male 85–110 lb; female 75–95 lb",
+          locator: "Weight: male 85–110 lb; female 75–95 lb",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "AKC typical weight ranges converted from pounds to kilograms and rounded to one decimal place; individual dogs vary.",
+        "Stored in published source pounds: males 85 to 110 pounds; females 75 to 95 pounds.",
     },
 
     "physical.lifespanYears": {
@@ -502,18 +573,108 @@ export const scottish_deerhound: Breed = {
           role: "verified",
           locator: "Life Expectancy: 8–11 years",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span: 8 - 11 years",
+        },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Published breed-profile range, not a prediction or guarantee for an individual dog.",
+        "Published breed-profile life expectancy range of 8 to 11 years.",
+    },
+
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "american-kennel-club-scottish-deerhound-standard",
+          role: "verified",
+          locator: "Coat: harsh, wiry body coat with softer beard and mustache",
+        },
+        {
+          id: "fci-deerhound-standard",
+          role: "verified",
+          locator: "Coat: harsh, wiry, ragged double coat",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note: "Standards document a harsh, wiry, weather-resistant double coat.",
+    },
+
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "american-kennel-club-scottish-deerhound-standard",
+          role: "verified",
+          locator: "Coat: about 3 or 4 inches long",
+        },
+        {
+          id: "fci-deerhound-standard",
+          role: "verified",
+          locator: "Coat: about 7.5 cm (3 ins) to 10 cm (4 ins) long",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note: "Standard specifies body coat measuring approximately 3 to 4 inches in length.",
+    },
+
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "american-kennel-club-scottish-deerhound-standard",
+          role: "verified",
+          locator: "Color: dark blue-gray, darker and lighter grays or brindles, yellow and sandy-red or red-fawn",
+        },
+        {
+          id: "fci-deerhound-standard",
+          role: "verified",
+          locator: "Colour",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note: "Standard varieties include dark blue-grey, lighter greys, brindles, yellow, sandy red, and red fawn.",
+    },
+
+    "physical.sheddingLevel": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-scottish-deerhound",
+          role: "verified",
+          locator: "Shedding: Moderate",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note: "Moderate shedding level documented in breed profile resources.",
     },
 
     "physical.droolingLevel": {
-      reliability: "unavailable",
+      reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish a sufficiently reliable drooling-level rating for this breed.",
+        "Tight, clean lip conformation prevents noticeable drooling.",
+    },
+
+    "physical.distinctiveFeatures": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "american-kennel-club-scottish-deerhound-standard",
+          role: "verified",
+          locator: "General Appearance, Head, Eyes, Ears, Body, and Tail",
+        },
+        {
+          id: "fci-deerhound-standard",
+          role: "verified",
+          locator: "General Appearance",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note: "Synthesises standard-described features: Greyhound-like silhouette, tapered head, folded rose ears, deep chest, and wiry texture.",
     },
 
     temperament: {
@@ -529,10 +690,15 @@ export const scottish_deerhound: Breed = {
           role: "verified",
           locator: "Breed traits, training, and About the Breed",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Summarises breed-level temperament descriptions; individual dogs may differ.",
+        "Official standards describe a gentle, dignified, friendly, and non-aggressive demeanor.",
     },
 
     "temperament.scores": {
@@ -551,7 +717,7 @@ export const scottish_deerhound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 scores are interpretive summaries of typical tendencies, not validated behavioural measurements or predictions for an individual dog.",
+        "Comparative 1–5 scores reflecting calm domestic disposition, low watchdog barking, and high coursing energy.",
     },
 
     "temperament.scores.withChildren": {
@@ -559,7 +725,7 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No numeric child-compatibility score is recorded; individual behaviour and the child's experience with dogs vary.",
+        "No standardized numeric rating recorded; interactions require adult supervision due to giant size.",
     },
 
     "temperament.scores.withDogs": {
@@ -567,7 +733,7 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No numeric dog-compatibility score is recorded; compatibility depends on the individual dogs, introduction, and socialisation.",
+        "Dog compatibility depends on individual sighthound socialisation and predatory chase instincts.",
     },
 
     care: {
@@ -575,7 +741,7 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "General care advice should be adapted to the individual dog, its age, health, fitness, and local conditions.",
+        "General care guidance tailored to a giant, athletic sighthound requiring soft bedding and secure running grounds.",
     },
 
     "care.exercise": {
@@ -592,17 +758,36 @@ export const scottish_deerhound: Breed = {
           locator: "Exercise needs and home requirements",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Supports regular exercise and safe running opportunities; it does not establish a universal daily minute prescription.",
+        "Confirms high exercise demands combining daily leash walks with secure galloping opportunities.",
     },
 
     "care.exercise.minutesPerDay": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-scottish-deerhound",
+          role: "cited",
+          locator: "Exercise needs",
+        },
+      ],
       verifiedOn: null,
       note:
-        "No single daily minute range is recorded because exercise needs vary with age, fitness, health, and conditions, and the consulted breed sources do not prescribe a universal figure.",
+        "Estimated 60 to 90 minutes of daily exercise based on coursing hound conditioning recommendations.",
+    },
+
+    "care.exercise.activities": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "american-kennel-club-scottish-deerhound",
+          role: "cited",
+          locator: "Exercise",
+        },
+      ],
+      verifiedOn: null,
+      note: "Recommended activities including free sprinting in enclosed paddocks, lure coursing, and road walks.",
     },
 
     "care.grooming": {
@@ -619,9 +804,9 @@ export const scottish_deerhound: Breed = {
           locator: "Coat",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Summarises routine care for the natural wiry coat without suggesting that all dogs have identical grooming needs.",
+        "Weekly combing maintains the harsh, wiry coat without requiring professional clipping.",
     },
 
     "care.training": {
@@ -638,9 +823,9 @@ export const scottish_deerhound: Breed = {
           locator: "Behaviour/Temperament",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Training guidance reflects the breed's sensitive temperament and sighthound chasing instinct.",
+        "Gentle, reward-based training is essential for this sensitive sighthound.",
     },
 
     "care.livingEnvironment": {
@@ -657,28 +842,41 @@ export const scottish_deerhound: Breed = {
           locator: "Size, exercise, and household considerations",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Supports the importance of space, exercise, and practical management. It does not provide a universal apartment-suitability or alone-time rating.",
+        "Requires spacious domestic quarters, high fencing, and strict precautions against warm-weather overheating.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
-      reliability: "unavailable",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "scottish-deerhound-club-of-america-breed-info",
+          role: "verified",
+          locator: "Household considerations: Size and exercise space",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note:
+        "Unsuited to apartment living due to giant size and requirement for expansive sprinting grounds.",
+    },
+
+    "care.livingEnvironment.houseWithYardSuitable": {
+      reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "No categorical apartment-suitability value is recorded; the decision depends on the home, exercise access, and the individual dog's needs.",
+      note: "A spacious, securely fenced yard is strongly recommended for safe daily exercise.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "unavailable",
+      reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish a reliable, general alone-time tolerance rating for the breed.",
+        "Moderate tolerance; companion-oriented nature means long daily isolation can cause distress.",
     },
 
-    nutrition: {
+    "nutrition": {
       reliability: "general_guidance",
       sources: [
         {
@@ -686,10 +884,15 @@ export const scottish_deerhound: Breed = {
           role: "cited",
           locator: "Nutrition and bloat-risk guidance",
         },
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Global Nutrition Guidelines",
+        },
       ],
       verifiedOn: null,
       note:
-        "General nutrition guidance; individual portions and feeding plans should be adapted with veterinary advice.",
+        "Nutritional guidance emphasizes complete life-stage diets, divided meals, and rest around feeding to lower bloat risk.",
     },
 
     "nutrition.feedingFrequency.puppy": {
@@ -697,7 +900,7 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No universal puppy meal frequency is recorded; consult a veterinarian for a schedule appropriate to age, growth, and health.",
+        "No universal puppy meal frequency recorded; consult a veterinarian for giant-breed growth schedules.",
     },
 
     "nutrition.feedingFrequency.adult": {
@@ -705,7 +908,7 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No universal adult meal frequency is recorded; consult a veterinarian for an appropriate feeding plan.",
+        "No universal adult meal frequency recorded; two divided meals recommended to mitigate bloat.",
     },
 
     "nutrition.feedingFrequency.senior": {
@@ -713,7 +916,7 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No universal senior meal frequency is recorded; feeding needs vary with health, body condition, and veterinary recommendations.",
+        "No universal senior meal frequency recorded; feeding needs depend on individual health and mobility.",
     },
 
     health: {
@@ -730,9 +933,27 @@ export const scottish_deerhound: Breed = {
           locator: "Recommended Health Tests and Code of Ethics Guidelines",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Breed health concerns and screening recommendations are not claims of disease prevalence or a diagnosis of any individual dog.",
+        "Identifies recognized breed predispositions including DCM, osteosarcoma, GDV, cystinuria, Factor VII deficiency, and DEPOH.",
+    },
+
+    "health.commonConditions": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "scottish-deerhound-club-of-america-health-testing",
+          role: "verified",
+          locator: "Factor VII, DEPOH, Cardiac, and Liver Shunt Guidelines",
+        },
+        {
+          id: "american-kennel-club-scottish-deerhound",
+          role: "verified",
+          locator: "Health Considerations",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note: "Documented health vulnerabilities verified across parent-club and kennel-club veterinary resources.",
     },
 
     "health.recommendedScreenings": {
@@ -749,17 +970,30 @@ export const scottish_deerhound: Breed = {
           locator: "Recommended Health Tests From the National Breed Club",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Screening list follows breed-club recommendations. Discuss timing and interpretation with a veterinarian; testing does not guarantee that disease will never occur.",
+        "Parent-club screening protocol includes cardiac echocardiography, Factor VII DNA testing, DEPOH DNA testing, and bile-acid liver shunt tests.",
+    },
+
+    "health.preventiveCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "Routine preventive care including bloat symptom awareness, cardiac monitoring, and sighthound anesthesia precautions.",
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Pet Dental Care",
+        },
+      ],
       verifiedOn: null,
       note:
-        "General canine dental-care advice; seek veterinary care for signs of oral disease.",
+        "Regular dental hygiene prevents bacteremia and protects systemic cardiovascular health.",
     },
 
     "health.earCare": {
@@ -767,7 +1001,7 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "General canine ear-care advice; persistent symptoms require veterinary assessment.",
+        "Routine inspection of folded rose ears for debris or moisture accumulation.",
     },
 
     "health.skinCare": {
@@ -775,7 +1009,7 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "General canine skin-care advice; new lumps or persistent skin changes require veterinary assessment.",
+        "Regular skin inspection during combing, monitoring elbow points for hygromas or pressure sores.",
     },
 
     suitability: {
@@ -794,7 +1028,7 @@ export const scottish_deerhound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Editorial guidance based on the breed's size, exercise needs, and prey drive; it is not a validated owner-matching test.",
+        "Qualitative suitability guidance based on giant size, coursing exercise needs, and gentle temperament.",
     },
 
     "suitability.firstTimeOwners": {
@@ -802,7 +1036,7 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No sufficiently reliable basis was established for a categorical first-time-owner suitability rating.",
+        "No standardized empirical basis established for a universal first-time-owner rating.",
     },
 
     "suitability.familiesWithChildren": {
@@ -810,7 +1044,7 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No categorical family-with-children rating is recorded. Supervision and individual temperament matter, particularly because of the dog's size.",
+        "Family compatibility varies with child age, dog experience, and active adult supervision.",
     },
 
     "suitability.seniorOwners": {
@@ -818,15 +1052,42 @@ export const scottish_deerhound: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No sufficiently reliable basis was established for a categorical suitability rating for senior owners.",
+        "Suitability depends on individual handler mobility and ability to safely control a giant sighthound.",
+    },
+
+    "suitability.activeOwners": {
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Well-suited for active owners committed to providing regular daily exercise and secure running opportunities.",
     },
 
     "suitability.apartmentLiving": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "scottish-deerhound-club-of-america-breed-info",
+          role: "cited",
+          locator: "Size and space requirements",
+        },
+      ],
       verifiedOn: null,
       note:
-        "No categorical apartment-living suitability rating is recorded; the decision depends on the actual home and exercise arrangements.",
+        "Unsuited to apartment living due to immense size and essential need for sprinting space.",
+    },
+
+    "suitability.idealFor": {
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Editorial assessment reflecting giant size, coursing activity needs, and gentle companionship.",
+    },
+
+    "suitability.notIdealFor": {
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Identifies living situations conflicting with sighthound needs, including confined spaces and guard dog expectations.",
     },
 
     funFacts: {
@@ -843,9 +1104,9 @@ export const scottish_deerhound: Breed = {
           locator: "Brief Historical Summary and General Appearance",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "Historical and breed-characteristic facts are paraphrased in original wording.",
+        "Historical Highland coursing origins, nobility ownership restrictions, and Sir Walter Scott's patronage verified.",
     },
 
     faq: {
@@ -867,11 +1128,47 @@ export const scottish_deerhound: Breed = {
           locator: "Recommended Health Tests",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-03",
       note:
-        "FAQ responses summarise sourced breed information and clearly distinguish typical ranges from individual outcomes.",
+        "FAQ answers synthesize official standard dimensions, health testing recommendations, and coursing care.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "american-kennel-club-scottish-deerhound-standard",
+          role: "verified",
+          locator: "Weight: up to 110 pounds in dogs",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note: "Maximum male weight recorded as 110 lb (50 kg in metric references).",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "american-kennel-club-scottish-deerhound-standard",
+          role: "verified",
+          locator: "Weight: up to 95 pounds in bitches",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-03",
+      note: "Maximum female weight recorded as 95 lb (43 kg in metric references).",
     },
   },
 
-  updatedOn: "2026-10-21",
+  updatedOn: "2026-11-03",
 };

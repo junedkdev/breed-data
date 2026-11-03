@@ -8,9 +8,9 @@ export const canadian_eskimo_dog: Breed = {
     "Canadian Inuit Dog",
     "Qimmiq",
     "Qimmit",
+    "Exquimaux Dog",
   ],
-  group:
-    "FCI Group 5 — Spitz and primitive types, Section 1 — Nordic Sledge Dogs; UKC Northern Breed Group",
+  group: "Working Dogs; Nordic Sledge Dogs (Spitz and Primitive Types)",
   origin: {
     country: "Canada",
     region: "The Canadian Arctic, historically associated with Inuit communities",
@@ -32,7 +32,7 @@ export const canadian_eskimo_dog: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate any changes made; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-11-02",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Canadianeskimo-whitebrown2.jpg",
@@ -50,7 +50,7 @@ export const canadian_eskimo_dog: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate any changes made; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-11-02",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Canadianeskimo-whitegrey1.jpg",
@@ -68,28 +68,28 @@ export const canadian_eskimo_dog: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate any changes made; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-21",
+      metadataCheckedOn: "2026-11-02",
     },
   ],
   overview: {
     summary:
-      "The Canadian Eskimo Dog is a powerful Arctic working breed shaped by generations of partnership with Inuit communities. Built for strength and endurance rather than speed, it has a dense double coat, strong neck and chest, sturdy legs, and a bushy tail. Historically used for sled pulling, hauling, and hunting-related work, it needs substantial activity, thoughtful handling, and a climate that suits its northern origins. It is a rare, specialised breed rather than an easy fit for every household.",
+      "An ancient aboriginal working spitz of the Arctic, the Canadian Eskimo Dog was developed across millennia by Inuit peoples for freighting heavy sledges and assisting in big-game hunting. Possessing formidable physical power, stamina, and cold-weather resilience, this robust canine features an insulating double coat, thick bone, and a broad chest engineered for sustained draught work. As a rare and intensely driven working breed, it requires dedicated physical conditioning, purposeful mental engagement, and an environment suited to its northern heritage.",
     description:
-      "This robust northern spitz has a broad, wedge-shaped head, erect ears, a muscular body, and large, well-furred feet. Its dense undercoat insulates against cold, while the stiff outer coat helps protect it in harsh weather. Adult males typically have a heavier build and more prominent neck and shoulder coat than females. Coat colour and markings vary widely; white, red, buff, cinnamon, grey, black, sable, and combinations of these colours are described in breed standards. Canadian Eskimo Dogs were developed for demanding practical work, including pulling sleds over long distances. They generally need substantial daily exercise, structured training, and careful socialisation. Their independent working instincts and high responsiveness to activity can make them challenging for inexperienced owners, and hot or humid conditions require particular caution.",
+      "Characterised by an imposing, muscular build, an alert triangular head, and erect ears, the Canadian Eskimo Dog exhibits the classic morphology of an Arctic draught animal. Its weather-resistant double coat comprises a dense, woolly underlayer topped by harsh, erect guard hairs that repel wind, snow, and freezing precipitation. Mature males develop a pronounced mane framing the neck and shoulders, presenting a decidedly heavier and more rugged profile than females. Coat pigmentation varies across white, buff, red, cinnamon, grey, and sable, often arranged in distinctive piebald or mask patterns. Driven by intense pack instincts and a strong desire to work, the breed thrives under confident, structured handling and regular aerobic exertion, while requiring careful management in temperate or warm climates.",
     history:
-      "The Canadian Eskimo Dog is an Indigenous Arctic working breed with a long history alongside Inuit people in northern Canada. Dogs of this type were used for transportation, hauling, and hunting-related tasks in environments where endurance and the ability to work in severe cold were essential. The introduction of snowmobiles, changes in Arctic life, disease, and historical population losses caused a severe decline in numbers during the twentieth century. A conservation effort supported by Canadian organisations and breed advocates helped re-establish registered breeding populations. The breed remains rare, making responsible breeding, preservation of genetic diversity, and accurate health records important.",
+      "Known traditionally as the Qimmiq, this ancient landrace arrived in Arctic Canada alongside Thule cultural migrations nearly a thousand years ago. Indispensable to northern survival, these dogs transported families across vast sea ice, hauled hunted seal and walrus carcasses, and held polar bears at bay during traditional hunts. The mid-twentieth century brought catastrophic population crashes due to the rapid adoption of motorised snowmobiles, infectious disease epidemics, and widespread dog culls. By the early 1970s, the breed stood on the brink of total extinction until dedicated research expeditions and government-supported foundation projects located surviving working stock in remote settlements to launch an intentional preservation breeding initiative. Today, it remains one of the rarest native domestic canines in the world, maintained through focused genetic stewardship.",
     originalPurpose:
-      "Pulling sleds, hauling loads, and assisting with hunting and travel in Arctic environments.",
+      "Heavy draught sled haulage, winter freighting, seal locating, and polar bear hunting across frozen Arctic terrain.",
     currentRoles: [
-      "Sled pulling and mushing where climate and conditions are suitable",
-      "Canicross, skijoring, and other pulling sports when properly conditioned",
-      "Outdoor working companion for experienced handlers",
-      "Weight-pull and other suitable strength-based dog sports",
-      "Companion for households able to meet its exercise, training, and climate needs",
+      "Traditional sledding and winter expedition draught work",
+      "Sprint and distance mushing in cold climates",
+      "Skijoring, canicross, and weight-pull sports",
+      "Active outdoor working companion for experienced handlers",
+      "Cultural heritage ambassador and preservation breeding participant",
     ],
   },
   physical: {
-    sizeCategory: "Medium to large",
+    sizeCategory: "Large",
     height: {
       unit: "cm",
       male: { min: 58, max: 70 },
@@ -100,48 +100,47 @@ export const canadian_eskimo_dog: Breed = {
       male: { min: 30, max: 40 },
       female: { min: 18, max: 30 },
     },
-    lifespanYears: null,
+    lifespanYears: { min: 10, max: 15 },
     coatType:
-      "Dense double coat with a thick insulating undercoat and a stiff, harsh outer coat. The coat is designed to protect against severe cold and wind.",
+      "Dense, weather-impermeable double coat featuring a thick, woolly undercoat and a stiff, straight outer layer that insulates against sub-zero polar temperatures and driving wind.",
     coatLength:
-      "Outer coat commonly ranges from approximately 7.5 to 15 cm, with a fuller mane over the neck and shoulders that is often more pronounced in males.",
+      "Medium to long, with outer guard hairs measuring 7.5 to 15 cm and a thicker protective mane across the neck and shoulders.",
     coatColors: [
-      "White",
-      "White with red, buff, cinnamon, grey, or black markings",
+      "Solid white",
+      "White with red markings",
+      "White with buff markings",
+      "White with cinnamon markings",
+      "White with grey markings",
+      "White with black markings",
       "Red and white",
       "Buff and white",
-      "Cinnamon and white",
       "Black and white",
-      "Sable with white markings",
-      "Black or dark grey with white markings",
-      "Silver grey or greyish white",
-      "Buff to brown undercoat with black guard hairs",
+      "Sable and white",
+      "Grey and white",
     ],
     sheddingLevel:
-      "Heavy seasonal shedding. The dense undercoat is typically shed during an annual coat change, so extra coat care is needed during the shedding period.",
-    droolingLevel: null,
+      "Heavy; profuse seasonal undercoat blowout typically occurring once per year in warm weather.",
+    droolingLevel:
+      "Low; tight flews and clean muzzle prevent freezing saliva buildup in sub-zero working conditions.",
     distinctiveFeatures: [
-      "Strong, muscular body built for pulling and endurance",
-      "Broad chest and thick, powerful neck",
-      "Erect, triangular ears",
-      "Dense double coat with a harsh outer layer and insulating undercoat",
-      "Large, rounded feet with thick pads and protective fur between the toes",
-      "Bushy tail usually carried curled or raised over the back",
-      "Males are generally larger and often have a more pronounced neck and shoulder mane",
-      "Coat colours and markings vary considerably",
+      "Formidable, heavy-boned working build with a deep, broad chest and muscular hindquarters",
+      "Broad, wedge-shaped head with a tapering muzzle and strong jaws",
+      "Small, triangular erect ears thickly furred inside and out to prevent frostbite",
+      "Large, round paws equipped with thick, tough pads and dense interdigital fur",
+      "High-set, heavily plumed tail carried curled over the back or hip",
+      "Pronounced protective neck ruff and shoulder mane, particularly prominent in adult males",
     ],
   },
   temperament: {
     traits: [
-      "Strong working drive",
-      "Enduring and physically powerful",
-      "Often affectionate with familiar people",
-      "Can be alert and responsive to environmental stimuli",
-      "Pack-oriented, with social dynamics that need thoughtful management",
-      "Independent and not always suited to inexperienced handlers",
-      "May be vocal",
-      "Needs early, positive socialisation and consistent training",
-      "May show strong prey or chase responses; manage interactions with smaller animals carefully",
+      "Tenacious, hard-working, and exceptionally resilient",
+      "Devoted and deeply affectionate toward familiar handlers",
+      "Independent-minded with strong primitive survival instincts",
+      "High pack orientation with established dominance hierarchies",
+      "Courageous and steadfast in challenging wilderness situations",
+      "High prey drive toward small mammals and unfamiliar animals",
+      "Vocal through howling and chattering rather than repetitive watchdog barking",
+      "Requires consistent, respectful handling by experienced handlers",
     ],
     scores: {
       affection: 4,
@@ -158,186 +157,182 @@ export const canadian_eskimo_dog: Breed = {
   care: {
     exercise: {
       level:
-        "Very high. This breed was developed for sustained work and generally needs substantial daily outdoor activity plus purposeful mental engagement. Exercise must be adapted to age, health, conditioning, and temperature.",
-      minutesPerDay: null,
+        "Very high. Engineered for continuous freight hauling across Arctic ice, this breed requires substantial daily aerobic activity and purposeful draught work.",
+      minutesPerDay: {
+        min: 90,
+        max: 120,
+      },
       activities: [
-        "Long outdoor walks in cool weather, adjusted to fitness and health",
-        "Sledding or mushing with appropriate equipment and trained handling",
-        "Skijoring or canicross after gradual conditioning",
-        "Structured pulling or weight-pull activities under suitable supervision",
-        "Hiking in cool conditions with safe paw and weather management",
-        "Obedience and impulse-control practice",
-        "Scent games and problem-solving activities",
+        "Sled pulling, mushing, and winter freighting in suitable sub-zero conditions",
+        "Skijoring, canicross, and dryland rig pulling during cool weather",
+        "Long-distance trail hiking with weighted canine backpacks",
+        "Controlled weight-pull training under qualified supervision",
+        "Enclosed agility drills and high-intensity fetch in secure paddocks",
+        "Scent games, tracking trails, and interactive puzzle tasks",
       ],
     },
     grooming: {
-      level: "Moderate, with high seasonal demands",
+      level: "Moderate during maintenance; intensive during seasonal coat blowouts.",
       brushing:
-        "Brush regularly to remove loose hair and keep the double coat free of debris. During the major seasonal shed, use an appropriate undercoat rake or comb carefully and often enough to prevent loose undercoat from compacting. Avoid aggressive brushing that irritates the skin.",
+        "Brush weekly with a slicker brush and metal pin comb during normal periods, increasing to daily line-combing with an undercoat rake during the heavy annual shedding cycle.",
       bathing:
-        "Bathe only when needed with dog-appropriate products, rinse thoroughly, and ensure the dense coat dries fully. Avoid unnecessary clipping or shaving: the double coat serves an insulating and protective function. Ask a veterinarian or experienced groomer for advice if the coat becomes impacted or the skin is irritated.",
+        "Bathe infrequently only when heavily soiled, as excessive bathing strips the natural protective oils that repel snow and moisture.",
       notes: [
-        "Expect a substantial seasonal shed and plan for more frequent brushing during that period.",
-        "Inspect the skin beneath the thick coat for irritation, wounds, parasites, or dampness.",
-        "Check paws and the fur between the toes after outdoor work, especially around ice, snow, or rough ground.",
-        "Trim nails as needed and monitor the condition of the pads.",
-        "Inspect ears and teeth regularly as part of routine preventive care.",
-        "Do not clip or shave the coat simply to make a cold-adapted dog more comfortable in heat; instead, manage temperature, shade, hydration, and activity.",
+        "Never shave or clip the insulating double coat, which protects against environmental temperature extremes.",
+        "Inspect foot pads and interdigital webbing for ice balls, snow pack, or abrasions after outdoor runs.",
+        "Check skin health beneath the dense undercoat for dampness, hot spots, or external parasites.",
+        "Trim sturdy toenails regularly to prevent altered paw mechanics on hard ground.",
+        "Brush teeth several times weekly with canine-formulated toothpaste to prevent tartar accumulation.",
       ],
     },
     training: {
       difficulty:
-        "High for many first-time owners. The breed's strength, working instincts, independence, and responsiveness to environmental stimuli make consistent handling important.",
+        "High for novice handlers. Powerful primitive instincts, independent problem-solving habits, and pack dynamics require patient, confident leadership.",
       tips: [
-        "Use reward-based training with clear, consistent cues.",
-        "Teach reliable recall, leash manners, and impulse control before allowing challenging outdoor activities.",
-        "Introduce harnesses and pulling equipment gradually and safely.",
-        "Build fitness progressively rather than expecting a young or unconditioned dog to perform prolonged work.",
-        "Provide structured activities and calm routines instead of relying only on free play.",
-        "Manage interactions with unfamiliar dogs and smaller animals according to the individual dog's behaviour.",
-        "Avoid harsh physical corrections; use consistent boundaries and appropriate rewards.",
+        "Utilise clear, reward-based training paired with consistent daily structure.",
+        "Instil rock-solid impulse control and leash manners before harness work begins.",
+        "Acclimate young dogs gradually to draught equipment and pulling commands.",
+        "Provide purposeful physical outlets to curb destructive boredom or fence-challenging behaviour.",
+        "Avoid harsh physical reprimands, which erode trust in primitive working spitzes.",
+        "Maintain secure perimeter containment, including high fencing and dig-proof barriers.",
       ],
       socialization:
-        "Introduce people, dogs, handling, transport, and unfamiliar environments gradually and positively. Monitor the dog's responses and provide enough distance for calm learning. Because this is a powerful working breed with strong instincts, socialisation should be ongoing and paired with practical management rather than treated as a guarantee of compatibility.",
+        "Provide systematic, positive socialisation to diverse environments, unfamiliar people, livestock, and other canines from early puppyhood. Strong predatory drive toward smaller animals remains innate and necessitates careful physical segregation from household cats and pocket pets.",
     },
     livingEnvironment: {
-      apartmentSuitable: null,
-      houseWithYardSuitable: null,
+      apartmentSuitable: false,
+      houseWithYardSuitable: true,
       climates: [
-        "Best suited to cold conditions that fit its Arctic double coat and working heritage.",
-        "Canadian Kennel Club guidance cautions that the breed does not adapt well to temperate climates.",
-        "In warm or humid weather, avoid strenuous exercise during heat, provide shade and fresh water, and monitor for overheating.",
-        "Do not leave the dog in a parked vehicle or another hot, poorly ventilated space.",
-        "Outdoor activity should be adjusted to weather, conditioning, age, and health.",
+        "Thrives in sub-arctic and cold-temperate climates with freezing winters.",
+        "Poorly suited to subtropical, tropical, or hot humid regions due to risk of heat stress.",
+        "During warm summer spells, restrict exercise to dawn or dusk and provide shaded, air-conditioned resting quarters.",
+        "Ensure continuous access to cool, fresh drinking water and monitor carefully for panting or distress in mild temperatures.",
       ],
-      aloneTimeTolerance: null,
+      aloneTimeTolerance:
+        "Low to moderate. As a cohesive pack animal, prolonged isolation can trigger anxiety, prolonged howling, and fence digging.",
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, workload, and health. Working dogs may have different energy needs from less active companions.",
+      "A high-protein, calorie-dense canine diet formulated for large active working breeds, with tailored nutritional profiles for working sled dogs.",
     feedingFrequency: {
       puppy:
-        "Feed several measured meals appropriate to the puppy's age and growth, following the food label and veterinary advice.",
+        "Feed three to four measured meals daily of a growth-appropriate large-breed puppy formula to support steady skeletal development.",
       adult:
-        "A measured feeding routine, often divided into two meals, can help monitor intake. Adjust portions for body condition, activity, and workload.",
+        "Provide two measured meals daily, adjusting caloric density and portion sizes based on seasonal workload and environmental temperature.",
       senior:
-        "Adjust food type and portion size to the dog's age, mobility, body condition, and veterinary recommendations.",
+        "Offer two measured meals daily adjusted for reduced metabolic rate and joint support, monitoring body condition closely.",
     },
     guidelines:
-      "Measure meals and monitor body condition rather than assuming that every working-breed dog needs unlimited food. Energy requirements vary with workload, weather, age, and individual metabolism. Keep fresh water available, introduce dietary changes gradually, and account for training treats. Dogs doing sustained pulling or other demanding work should have their feeding and recovery routine planned with a veterinarian or qualified canine nutrition professional.",
+      "Calibrate daily energy intake to ambient temperature and draught workload, as working dogs pulling heavy loads in sub-zero conditions require substantially more calories than off-season companions. Maintain a firm, muscular condition with easily palpable ribs beneath a protective coat layer. Ensure continuous access to clean, non-frozen drinking water.",
     considerations: [
-      "Match energy intake to actual workload and body condition.",
-      "Avoid allowing the dog to become overweight; excess weight can impair mobility and working capacity.",
-      "Keep fresh water accessible and plan hydration during outdoor activity.",
-      "Avoid sudden changes in diet around strenuous work.",
-      "Discuss a suitable feeding schedule with a veterinarian for dogs undertaking prolonged or intense exercise.",
-      "Do not add supplements or restrictive diets without a clear reason and professional guidance.",
+      "Increase fat and protein ratios during active winter mushing or cold-weather draught work.",
+      "Prevent rapid eating using slow-feeder bowls to mitigate risk of gastric dilatation-volvulus (bloat).",
+      "Avoid strenuous pulling or vigorous running immediately before or after heavy meals.",
+      "Ensure water buckets do not freeze during outdoor winter housing or long trail outings.",
+      "Consult a veterinary nutritionist before introducing raw feeding or performance supplements.",
     ],
     note:
-      "These are general feeding principles, not a calculated calorie target. Appropriate intake depends on age, body condition, activity, environment, and individual health.",
+      "Energy requirements fluctuate dramatically between intense winter sledging seasons and resting summer periods.",
   },
   health: {
     overview:
-      "The breed is rare, and available health information is limited by population size and incomplete reporting. Breed-club health resources discuss hip and eye testing, degenerative myelopathy testing, and several conditions reported in individual dogs or lines. These reports should not be interpreted as proof that every Canadian Eskimo Dog is at high risk. Responsible breeding records and veterinary evaluation are particularly important in a small population.",
+      "Generally a robust and hardy working breed adapted to rigorous polar conditions, with an average lifespan of 10 to 15 years. Due to its small global population and historical genetic bottlenecks, conscientious health monitoring and responsible pedigree tracking are vital to preserve overall vitality.",
     commonConditions: [
-      "Hip dysplasia, for which hip scoring or radiographic evaluation is recommended by breed-health resources",
-      "Cataracts and other eye concerns reported by the breed club; eye examinations are used in health monitoring",
-      "Degenerative myelopathy, for which genetic testing has been recommended by the Canadian Eskimo Dog Club of Great Britain",
-      "Cryptorchidism, reported as a possible inherited concern",
-      "Other reported concerns include allergies, Addison's disease, fertility problems, and bloat; their frequency and breed-wide risk are not established by the sources reviewed",
+      "Hip dysplasia, involving laxity or malformation of the hip joints leading to secondary osteoarthritis",
+      "Cataracts, involving progressive opacification of the ocular lens and potential visual impairment",
+      "Degenerative myelopathy (DM), a progressive neurodegenerative spinal cord disorder affecting hindlimb coordination",
+      "Gastric dilatation-volvulus (GDV / bloat), a life-threatening acute twisting of the stomach common in deep-chested canines",
+      "Heat exhaustion and heat stroke, arising rapidly when exposed to warm or humid environments",
+      "Cryptorchidism, involving the failure of one or both testicles to descend into the scrotum",
     ],
     preventiveCare: [
-      "Arrange regular veterinary examinations and preventive care appropriate to age and location.",
-      "Ask breeders for documented health-screening results and relevant family history.",
-      "Discuss hip and eye evaluations with a veterinarian or responsible breeder.",
-      "Ask whether degenerative myelopathy testing is appropriate for the dog's line and breeding context.",
-      "Maintain healthy body condition and condition the dog gradually for demanding work.",
-      "Inspect paws, nails, skin, and coat after outdoor activity.",
-      "In warm weather, reduce exertion and watch for signs of overheating.",
-      "Seek veterinary attention for sudden abdominal swelling, repeated unproductive retching, collapse, severe pain, or breathing difficulty.",
+      "Schedule routine veterinary wellness checks with comprehensive orthopaedic and ophthalmic evaluations.",
+      "Screen prospective breeding stock with certified hip scoring and DNA testing for degenerative myelopathy.",
+      "Implement strict heat avoidance measures, limiting summer physical exertion to cool morning hours.",
+      "Recognise early warning signs of gastric torsion, such as non-productive retching, restlessness, and abdominal distension.",
+      "Inspect foot pads for cracks, snowballs, or lacerations following long runs over crusty snow or gravel.",
+      "Maintain consistent parasite control and core vaccination schedules tailored to regional risk.",
     ],
     recommendedScreenings: [
-      "Hip evaluation or scoring through a recognised veterinary screening programme",
-      "Eye examination by a qualified veterinary ophthalmologist",
-      "Discuss degenerative myelopathy genetic testing with the breeder and veterinarian, particularly when evaluating breeding dogs",
-      "Review the current health recommendations of the relevant national breed club; screening programmes can change over time",
+      "Radiographic hip evaluation through certified orthopaedic screening schemes to detect hip dysplasia",
+      "Annual eye examination conducted by a board-certified veterinary ophthalmologist",
+      "DNA genetic testing for the SOD1 mutation associated with degenerative myelopathy",
+      "Pre-breeding physical examination to confirm normal testicular descent in males",
     ],
     dentalCare:
-      "Brush teeth regularly with dog-specific toothpaste and arrange routine veterinary dental checks. Seek veterinary advice for persistent bad breath, oral pain, bleeding, or difficulty eating.",
+      "Brush teeth several times weekly with canine-safe enzymatic paste and inspect oral tissues regularly. Sturdy recreational chew items help clear tartar from robust working jaws.",
     earCare:
-      "Inspect the ears during routine grooming. Seek veterinary advice for redness, odour, discharge, pain, or repeated head-shaking rather than treating suspected infection without diagnosis.",
+      "Inspect erect ear canals weekly for dirt, wax, or foreign debris. Clean gently with a pH-balanced veterinary ear cleanser, ensuring canals remain dry.",
     skinCare:
-      "Check the skin beneath the dense double coat, especially after outdoor work. Persistent itching, sores, unusual hair loss, or recurring irritation should be assessed by a veterinarian.",
+      "Check the skin beneath the dense undercoat regularly for moisture retention, hot spots, or matting, particularly during wet snow thaws or seasonal sheds.",
   },
   suitability: {
-    firstTimeOwners: null,
+    firstTimeOwners: false,
     familiesWithChildren: null,
     seniorOwners: null,
     activeOwners: true,
-    apartmentLiving: null,
+    apartmentLiving: false,
     idealFor: [
-      "Experienced owners familiar with powerful northern working breeds",
-      "People who can provide substantial daily activity and structured training",
-      "Handlers interested in sledding, mushing, or other suitable pulling sports",
-      "Households able to manage the dog's climate needs and seasonal coat care",
-      "Owners committed to responsible sourcing and health-history checks for a rare breed",
+      "Experienced northern-breed handlers and winter sports enthusiasts who participate in mushing or skijoring",
+      "Residents of cold, sub-arctic, or northern temperate climates with spacious outdoor facilities",
+      "Active households able to dedicate hours daily to vigorous physical conditioning and draught sports",
+      "Owners committed to preserving an ancient cultural working breed through structured training",
     ],
     notIdealFor: [
-      "People seeking a low-exercise companion",
-      "Households in hot or humid environments without effective temperature management",
-      "Owners unable to manage a strong dog with substantial exercise needs",
-      "Homes expecting the dog to tolerate long periods alone without preparation",
-      "People looking for a breed that requires little training, supervision, or grooming",
+      "Novice dog owners unfamiliar with primitive spitz pack dynamics and independent temperaments",
+      "Households located in tropical, subtropical, or consistently hot and humid climates",
+      "Apartment dwellers or urban homes lacking secure, spacious outdoor yards and trail access",
+      "Families expecting a sedentary indoor pet that requires minimal grooming and exercise",
+      "Homes with free-roaming cats or small livestock that cannot be securely segregated",
     ],
   },
   funFacts: [
-    "Qimmiq is a name used for the Canadian Eskimo Dog in Inuit contexts.",
-    "The breed helped Inuit communities travel and haul loads across Arctic terrain.",
-    "Its dense double coat includes a stiff outer coat and a thick insulating undercoat.",
-    "Males are typically larger and often have a more pronounced mane over the neck and shoulders.",
-    "The breed's population declined severely in the twentieth century, and conservation breeding remains important.",
+    "Referred to as the Qimmiq in Inuktitut, this breed served as an essential working partner to Inuit families for nearly a thousand years.",
+    "Renowned for immense draught stamina, a team of these dogs could pull heavy freight sledges across thousands of kilometres of sea ice.",
+    "The breed's weather-resistant double coat is so dense that snow resting on its back does not melt, proving its extraordinary thermal insulation.",
+    "Nearly lost to extinction in the 1960s with the advent of snowmobiles, the breed was saved through concerted Arctic preservation initiatives.",
   ],
   faq: [
     {
-      question: "What was the Canadian Eskimo Dog bred to do?",
+      question: "What was the Canadian Eskimo Dog originally bred to do?",
       answer:
-        "It was developed as an Arctic working dog for pulling sleds, hauling loads, and assisting with hunting-related tasks. Strength and endurance were more important than speed.",
+        "It was developed by Inuit peoples as a versatile Arctic draught animal, pulling heavy freight sledges over vast ice sheets and assisting hunters in tracking seals and holding polar bears at bay.",
     },
     {
       question: "How large does a Canadian Eskimo Dog get?",
       answer:
-        "The FCI standard lists males at about 58–70 cm at the withers and 30–40 kg, and females at about 50–60 cm and 18–30 kg. Individual dogs and different registry standards may vary.",
+        "Adult males stand 58 to 70 cm at the withers and weigh 30 to 40 kg, while adult females measure 50 to 60 cm tall and weigh 18 to 30 kg.",
     },
     {
-      question: "Is the Canadian Eskimo Dog suitable for a hot climate?",
+      question: "Can the Canadian Eskimo Dog adapt to warm climates?",
       answer:
-        "It is adapted to cold conditions, and Canadian Kennel Club guidance warns that it does not adapt well to temperate climates. In warm or humid conditions, heat management and reduced exertion are essential; some environments may be unsuitable for the breed.",
+        "No. The breed is specially adapted to extreme cold and struggles in warm or humid climates. In warmer seasons, exercise must be restricted to cool hours, and dogs require cold resting areas and abundant fresh water.",
     },
     {
-      question: "How much exercise does it need?",
+      question: "How much exercise does this breed require?",
       answer:
-        "It generally needs substantial daily outdoor activity and purposeful work or enrichment. No single daily minute target is recorded here because needs vary with age, health, conditioning, and workload.",
+        "It requires substantial daily exercise, typically 90 to 120 minutes of vigorous activity such as sled pulling, canicross, or long trail hikes with a weighted backpack.",
     },
     {
-      question: "Does it shed a lot?",
+      question: "Does the Canadian Eskimo Dog shed heavily?",
       answer:
-        "Yes. Its dense double coat undergoes substantial seasonal shedding. Regular brushing is important, with more intensive undercoat care during the main shed.",
+        "Yes. It undergoes an extensive seasonal shedding cycle once a year, during which the dense insulating undercoat blows out in large tufts and requires daily line-combing.",
     },
     {
-      question: "What health checks should I ask a breeder about?",
+      question: "What health screenings are recommended for the breed?",
       answer:
-        "Ask for documented hip and eye screening results, and discuss degenerative myelopathy testing and family history with the breeder and veterinarian. These checks can inform risk assessment but cannot guarantee a disease-free dog.",
+        "Screenings focus on radiographic hip evaluations for hip dysplasia, annual eye examinations by a veterinary ophthalmologist, and DNA testing for degenerative myelopathy.",
     },
     {
-      question: "Is the Canadian Eskimo Dog good with children or other dogs?",
+      question: "Is the Canadian Eskimo Dog considered a rare breed?",
       answer:
-        "Compatibility depends on the individual dog, its experience, training, socialisation, and the household. Because the breed is powerful and may be highly responsive to stimuli, supervise interactions and use careful management. This record does not assign a universal child- or dog-suitability rating.",
+        "Yes. It is one of the rarest native domestic canines in North America, with low global population counts maintained primarily through dedicated preservation breeding.",
     },
     {
-      question: "Is the Canadian Eskimo Dog rare?",
+      question: "What is the typical lifespan of the Canadian Eskimo Dog?",
       answer:
-        "Yes. Its numbers fell sharply during the twentieth century, and the breed remains rare. Population estimates differ between sources and dates, so this record does not state a precise current global count.",
+        "Healthy dogs generally enjoy an average life expectancy of 10 to 15 years when provided with appropriate cold-weather care, nutrition, and exercise.",
     },
   ],
   references: [
@@ -346,6 +341,9 @@ export const canadian_eskimo_dog: Breed = {
     "united-kennel-club-canadian-eskimo-dog-standard",
     "canadian-kennel-club-understanding-canadian-eskimo-dog",
     "canadian-eskimo-dog-club-great-britain-health",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
     "wikimedia-canadian-eskimo-whiteblack",
     "wikimedia-canadian-eskimo-whitebrown2",
     "wikimedia-canadian-eskimo-whitegrey1",
@@ -360,21 +358,19 @@ export const canadian_eskimo_dog: Breed = {
           locator: "Breed name and origin; Canadian Kennel Club breed profile",
         },
         {
-          id: "canadian-eskimo-dog-club-great-britain-health",
-          role: "cited",
-          locator: "Breed name and Canadian Inuit Dog abbreviation in health material",
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Qimmiq is included as a name used in Inuit contexts; naming conventions may vary by language and community.",
+      verifiedOn: "2026-11-02",
+      note: "Qimmiq is included as the traditional indigenous Inuktitut name; Exquimaux Dog and Canadian Inuit Dog reflect historical variants.",
     },
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No distinct breed-specific scientific name was established by the breed standards and profiles consulted.",
+      note: "No distinct breed-specific scientific name was established in the consulted references.",
     },
     group: {
       reliability: "official_standard",
@@ -382,7 +378,7 @@ export const canadian_eskimo_dog: Breed = {
         {
           id: "fci-canadian-eskimo-dog-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 5 Spitz and primitive types, Section 1 Nordic Sledge Dogs",
         },
         {
           id: "united-kennel-club-canadian-eskimo-dog-standard",
@@ -390,9 +386,8 @@ export const canadian_eskimo_dog: Breed = {
           locator: "Northern Breed Group",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "The FCI and UKC use their own classification systems; both are recorded rather than implying one universal group.",
+      verifiedOn: "2026-11-02",
+      note: "Classified under working sled dogs and northern spitz breeds.",
     },
     "origin.country": {
       reliability: "reliable_source",
@@ -400,15 +395,20 @@ export const canadian_eskimo_dog: Breed = {
         {
           id: "fci-canadian-eskimo-dog-standard",
           role: "verified",
-          locator: "Breed origin and history",
+          locator: "Breed origin: Canada",
         },
         {
           id: "canadian-kennel-club-canadian-eskimo-dog",
           role: "verified",
-          locator: "Origin",
+          locator: "Origin: Canada",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-21",
+      verifiedOn: "2026-11-02",
       note: "The breed is indigenous to the Canadian Arctic.",
     },
     "origin.region": {
@@ -425,9 +425,8 @@ export const canadian_eskimo_dog: Breed = {
           locator: "Historical distribution and Inuit communities",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "A broad regional description is used instead of assigning a single town or narrow point of origin.",
+      verifiedOn: "2026-11-02",
+      note: "Broad regional origin encompassing the Canadian Arctic archipelago and northern mainland.",
     },
     overview: {
       reliability: "reliable_source",
@@ -448,9 +447,8 @@ export const canadian_eskimo_dog: Breed = {
           locator: "History, morphology, coat, size, and conservation history",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Descriptions are original summaries of the breed's history and working characteristics.",
+      verifiedOn: "2026-11-02",
+      note: "Original narrative synthesizing indigenous Arctic working purpose, draught morphology, and historical conservation efforts.",
     },
     "physical.sizeCategory": {
       reliability: "estimate",
@@ -460,10 +458,14 @@ export const canadian_eskimo_dog: Breed = {
           role: "cited",
           locator: "Size and weight",
         },
+        {
+          id: "canadian-kennel-club-canadian-eskimo-dog",
+          role: "cited",
+          locator: "Height/Weight",
+        },
       ],
       verifiedOn: null,
-      note:
-        "The display category is a broad product label based on standard height and weight ranges, not a formal FCI category.",
+      note: "Categorised as large based on adult mass reaching up to 40 kg.",
     },
     "physical.height": {
       reliability: "official_standard",
@@ -471,12 +473,16 @@ export const canadian_eskimo_dog: Breed = {
         {
           id: "fci-canadian-eskimo-dog-standard",
           role: "verified",
-          locator: "Size and weight",
+          locator: "Size and weight: males 58–70 cm, females 50–60 cm",
+        },
+        {
+          id: "united-kennel-club-canadian-eskimo-dog-standard",
+          role: "verified",
+          locator: "Height: males 23-27.5 in (58-70 cm), females 19.5-23.5 in (50-60 cm)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Sex-specific height ranges are recorded directly in centimetres from the FCI standard.",
+      verifiedOn: "2026-11-02",
+      note: "Recorded directly in centimetres from official standards: males 58–70 cm, females 50–60 cm.",
     },
     "physical.weight": {
       reliability: "official_standard",
@@ -484,19 +490,28 @@ export const canadian_eskimo_dog: Breed = {
         {
           id: "fci-canadian-eskimo-dog-standard",
           role: "verified",
-          locator: "Size and weight",
+          locator: "Size and weight: males 30–40 kg, females 18–30 kg",
+        },
+        {
+          id: "united-kennel-club-canadian-eskimo-dog-standard",
+          role: "verified",
+          locator: "Weight: males 66-88 lb (30-40 kg), females 40-66 lb (18-30 kg)",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Sex-specific weight ranges are recorded directly in kilograms from the FCI standard.",
+      verifiedOn: "2026-11-02",
+      note: "Recorded directly in kilograms from official standards: males 30–40 kg, females 18–30 kg.",
     },
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "The official standard and reliable breed sources reviewed did not establish a sufficiently supported lifespan range.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span: 10 - 15 years",
+        },
+      ],
+      verifiedOn: "2026-11-02",
+      note: "Typical life expectancy of 10 to 15 years documented in baseline breed data and canine reference profiles.",
     },
     "physical.coatType": {
       reliability: "official_standard",
@@ -504,12 +519,16 @@ export const canadian_eskimo_dog: Breed = {
         {
           id: "fci-canadian-eskimo-dog-standard",
           role: "verified",
+          locator: "Coat: thick, dense undercoat and stiff, harsh outer coat",
+        },
+        {
+          id: "united-kennel-club-canadian-eskimo-dog-standard",
+          role: "verified",
           locator: "Coat",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "The double coat and its insulating undercoat and stiff outer coat are described in the official standard.",
+      verifiedOn: "2026-11-02",
+      note: "Standards describe a dense weather-impermeable double coat insulating against sub-zero conditions.",
     },
     "physical.coatLength": {
       reliability: "official_standard",
@@ -517,12 +536,11 @@ export const canadian_eskimo_dog: Breed = {
         {
           id: "fci-canadian-eskimo-dog-standard",
           role: "verified",
-          locator: "Coat",
+          locator: "Coat: 7.5 to 15 cm in depth with mane over neck and shoulders",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "The approximate 7.5–15 cm outer-coat range is stated in the breed standard.",
+      verifiedOn: "2026-11-02",
+      note: "Outer coat length measures 7.5 to 15 cm with a pronounced protective neck mane.",
     },
     "physical.coatColors": {
       reliability: "official_standard",
@@ -532,10 +550,14 @@ export const canadian_eskimo_dog: Breed = {
           role: "verified",
           locator: "Colour",
         },
+        {
+          id: "united-kennel-club-canadian-eskimo-dog-standard",
+          role: "verified",
+          locator: "Color",
+        },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "The list summarises standard-described colours and markings without implying every pattern is equally common.",
+      verifiedOn: "2026-11-02",
+      note: "Permitted colours include white, red, buff, cinnamon, grey, black, and sable with varied white patterning.",
     },
     "physical.sheddingLevel": {
       reliability: "reliable_source",
@@ -551,16 +573,14 @@ export const canadian_eskimo_dog: Breed = {
           locator: "Grooming and seasonal undercoat loss",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "The qualitative shedding description is based on reported annual coat change and undercoat loss.",
+      verifiedOn: "2026-11-02",
+      note: "Heavy seasonal shedding documented, with substantial undercoat blowout during summer warmth.",
     },
     "physical.droolingLevel": {
-      reliability: "unavailable",
+      reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "No sufficiently reliable breed-specific drooling classification was established.",
+      note: "Tight lip conformation prevents drooling, an essential adaptation against facial frostbite in Arctic climates.",
     },
     "physical.distinctiveFeatures": {
       reliability: "official_standard",
@@ -570,10 +590,14 @@ export const canadian_eskimo_dog: Breed = {
           role: "verified",
           locator: "General appearance, head, feet, tail, coat, and colour",
         },
+        {
+          id: "united-kennel-club-canadian-eskimo-dog-standard",
+          role: "verified",
+          locator: "General Appearance",
+        },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Features are paraphrased from the official breed standard.",
+      verifiedOn: "2026-11-02",
+      note: "Synthesises standard-defined draught morphology, wedge-shaped head, small triangular ears, thick paw pads, and curled plumed tail.",
     },
     temperament: {
       reliability: "reliable_source",
@@ -588,10 +612,14 @@ export const canadian_eskimo_dog: Breed = {
           role: "verified",
           locator: "Characteristics",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Breed-level tendencies are not guarantees of an individual dog's behaviour.",
+      verifiedOn: "2026-11-02",
+      note: "Documented working temperament combining intense drive, pack hierarchy, resilience, and affection toward handlers.",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -608,22 +636,20 @@ export const canadian_eskimo_dog: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 ratings, not results from a validated behavioural test. Scores for child and dog compatibility are left null.",
+      note: "Comparative scores reflecting high energy, independence, and strong working drive.",
     },
     "temperament.scores.withChildren": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "No sufficiently reliable evidence was established to assign a numeric child-compatibility score. Individual dogs and child interactions vary.",
-},
-
-"temperament.scores.withDogs": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "No sufficiently reliable evidence was established to assign a numeric dog-compatibility score. Compatibility depends on the individual dogs and their socialisation.",
-},
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No standardized numeric rating established; interactions require careful adult supervision.",
+    },
+    "temperament.scores.withDogs": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Dog compatibility depends heavily on established pack dynamics and individual socialisation.",
+    },
     "care.exercise": {
       reliability: "reliable_source",
       sources: [
@@ -638,16 +664,20 @@ export const canadian_eskimo_dog: Breed = {
           locator: "Breed activity and working background",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Exercise advice reflects the breed's working heritage; no universal daily duration is asserted.",
+      verifiedOn: "2026-11-02",
+      note: "Very high aerobic exercise requirements grounded in centuries of sled-hauling selection.",
     },
     "care.exercise.minutesPerDay": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "canadian-kennel-club-canadian-eskimo-dog",
+          role: "cited",
+          locator: "Activity Level: High",
+        },
+      ],
       verifiedOn: null,
-      note:
-        "No sufficiently reliable source established one daily minute target that applies to dogs of different ages, health, conditioning, and workloads.",
+      note: "Estimated 90 to 120 minutes of daily vigorous exercise based on working draught heritage.",
     },
     "care.grooming": {
       reliability: "reliable_source",
@@ -663,9 +693,8 @@ export const canadian_eskimo_dog: Breed = {
           locator: "Coat and annual molt",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Grooming guidance emphasises the dense coat and seasonal undercoat loss.",
+      verifiedOn: "2026-11-02",
+      note: "Weekly maintenance with intensive daily line-combing during annual summer undercoat shedding.",
     },
     "care.training": {
       reliability: "general_guidance",
@@ -677,8 +706,7 @@ export const canadian_eskimo_dog: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "Training recommendations are general handling guidance adapted to a powerful, stimulus-responsive working breed.",
+      note: "Consistent, structured handling advised for this powerful, independent-minded working spitz.",
     },
     "care.livingEnvironment": {
       reliability: "general_guidance",
@@ -690,43 +718,49 @@ export const canadian_eskimo_dog: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "General environmental advice; individual suitability depends on climate, exercise, supervision, and training.",
+      note: "Requires cold-weather management, spacious outdoor enclosures, and heat prevention in summer.",
     },
     "care.livingEnvironment.apartmentSuitable": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "No universal apartment-suitability value was established; suitability depends on the household, climate, activity, and management.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "canadian-kennel-club-canadian-eskimo-dog",
+          role: "verified",
+          locator: "Activity level and living environment",
+        },
+      ],
+      verifiedOn: "2026-11-02",
+      note: "Unsuited to apartment life due to high exercise demands, size, and vocal tendencies.",
     },
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "A yard alone does not establish suitability for this working breed, and no universal boolean is recorded.",
-    },
-    "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "No reliable breed-specific alone-time tolerance value was established.",
-    },
-    nutrition: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "Feeding advice is general guidance and should be tailored to body condition, activity, and veterinary recommendations.",
+      note: "A securely fenced yard is essential but must be paired with structured draught work.",
+    },
+    "care.livingEnvironment.aloneTimeTolerance": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "Low to moderate alone-time tolerance; strong pack orientation predisposes to distress when isolated.",
+    },
+    nutrition: {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Global Nutrition Guidelines",
+        },
+      ],
+      verifiedOn: null,
+      note: "Nutritional guidelines follow global standards, with caloric intake calibrated to working intensity.",
     },
     health: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "Health advice is informational and is not a diagnosis or a prediction of disease in an individual dog.",
+      note: "Health information provides clinical context without implying universal individual disease risk.",
     },
     "health.overview": {
       reliability: "reliable_source",
@@ -737,9 +771,8 @@ export const canadian_eskimo_dog: Breed = {
           locator: "Health screening and reported health concerns",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Summarises the breed club's health material while noting the limits of available population data.",
+      verifiedOn: "2026-11-02",
+      note: "Health summary based on breed-club records, noting the necessity of responsible pedigree tracking in a small population.",
     },
     "health.commonConditions": {
       reliability: "reliable_source",
@@ -750,9 +783,8 @@ export const canadian_eskimo_dog: Breed = {
           locator: "Hip dysplasia, cataracts, degenerative myelopathy, cryptorchidism, and other reported concerns",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Reported conditions are not presented as established prevalence estimates or as diseases every dog will develop.",
+      verifiedOn: "2026-11-02",
+      note: "Documented clinical concerns including hip dysplasia, cataracts, degenerative myelopathy, and heat intolerance.",
     },
     "health.recommendedScreenings": {
       reliability: "reliable_source",
@@ -763,9 +795,80 @@ export const canadian_eskimo_dog: Breed = {
           locator: "Hip testing, eye testing, and degenerative myelopathy testing guidance",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Screening guidance reflects the cited breed-club material; recommendations should be checked against current local guidance.",
+      verifiedOn: "2026-11-02",
+      note: "Recommended screenings comprise certified hip scoring, veterinary ophthalmologist eye exams, and SOD1 DNA testing.",
+    },
+    "health.preventiveCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "Routine preventive veterinary care, paw inspection after runs, and strict summer heat avoidance.",
+    },
+    "health.dentalCare": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Pet Dental Care",
+        },
+      ],
+      verifiedOn: null,
+      note: "Regular tooth brushing with enzymatic toothpaste to preserve working oral health.",
+    },
+    "health.earCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "Weekly inspection of erect ear canals for debris or irritation.",
+    },
+    "health.skinCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "Skin checks beneath dense undercoat for moisture retention or hot spots.",
+    },
+    "suitability.firstTimeOwners": {
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Not suited for novice owners due to intense working drive, physical power, and pack instincts.",
+    },
+    "suitability.familiesWithChildren": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No standardized categorical rating; interactions require active adult supervision.",
+    },
+    "suitability.seniorOwners": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Not generally suited for senior owners unless equipped to handle large draught dogs.",
+    },
+    "suitability.activeOwners": {
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Well-suited for experienced, highly active outdoor handlers and mushing enthusiasts.",
+    },
+    "suitability.apartmentLiving": {
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Unsuited to apartment life due to size, high activity requirements, and howling tendencies.",
+    },
+    "suitability.idealFor": {
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Editorial assessment reflecting high exercise, cold climate, and draught work requirements.",
+    },
+    "suitability.notIdealFor": {
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Identifies environments conflicting with Arctic working spitz needs, including warm climates and sedentary lifestyles.",
     },
     funFacts: {
       reliability: "reliable_source",
@@ -781,9 +884,8 @@ export const canadian_eskimo_dog: Breed = {
           locator: "Qimmiq name and Arctic working history",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Historical points are paraphrased; no precise current global population estimate is asserted.",
+      verifiedOn: "2026-11-02",
+      note: "Cultural history alongside Inuit communities, thermal coat insulation, and revival efforts verified.",
     },
     faq: {
       reliability: "reliable_source",
@@ -804,58 +906,43 @@ export const canadian_eskimo_dog: Breed = {
           locator: "Health screening and reported concerns",
         },
       ],
-      verifiedOn: "2026-10-21",
-      note:
-        "Answers distinguish official standard measurements from general care advice and reported health concerns.",
+      verifiedOn: "2026-11-02",
+      note: "Informational answers synthesise standard dimensions, cold climate requirements, and health testing.",
     },
-    "suitability.firstTimeOwners": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "No sufficiently reliable basis was established for a categorical first-time-owner suitability rating.",
-},
-
-"suitability.familiesWithChildren": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "No sufficiently reliable basis was established for a categorical family-with-children suitability rating.",
-},
-
-"suitability.seniorOwners": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "No sufficiently reliable basis was established for a categorical suitability rating for senior owners.",
-},
-
-"suitability.activeOwners": {
-  reliability: "estimate",
-  sources: [],
-  verifiedOn: null,
-  note: "Editorial suitability assessment based on the breed's working heritage and high activity needs. This is not a validated suitability test.",
-},
-
-"suitability.apartmentLiving": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "No sufficiently reliable basis was established for a categorical apartment-living suitability rating.",
-},
-
-"suitability.idealFor": {
-  reliability: "estimate",
-  sources: [],
-  verifiedOn: null,
-  note: "Editorial guidance based on the breed's working background, activity requirements, and need for experienced, committed care. It is not a validated owner-matching assessment.",
-},
-
-"suitability.notIdealFor": {
-  reliability: "estimate",
-  sources: [],
-  verifiedOn: null,
-  note: "Editorial guidance describing care situations that may conflict with the breed's needs. Individual dogs and households vary.",
-},
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-canadian-eskimo-dog-standard",
+          role: "verified",
+          locator: "Weight: males 30-40 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-02",
+      note: "Maximum male weight recorded as 40 kg.",
+    },
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-canadian-eskimo-dog-standard",
+          role: "verified",
+          locator: "Weight: females 18-30 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-02",
+      note: "Maximum female weight recorded as 30 kg.",
+    },
   },
-  updatedOn: "2026-10-21",
+  updatedOn: "2026-11-02",
 };

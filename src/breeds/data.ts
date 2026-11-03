@@ -123,6 +123,8 @@ import { epagneul_bleu_de_picardie } from "./epagneul_bleu_de_picardie";
 import { posavac_hound } from "./posavac_hound";
 import { beauceron } from "./beauceron";
 import { berger_picard } from "./berger_picard";
+import { podenco_canario } from "./podenco_canario";
+import { sussex_spaniel } from "./sussex_spaniel";
 
 
 export const breedData: readonly Breed[] = [
@@ -245,4 +247,6 @@ export const breedData: readonly Breed[] = [
   posavac_hound,
   beauceron,
   berger_picard,
+  podenco_canario,
+  sussex_spaniel,
 ];
