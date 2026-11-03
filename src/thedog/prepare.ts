@@ -3,14 +3,14 @@
  * under `src/thedog/current`. A successful Gemini update moves that file to `src/thedog`.
  */
 
-import { existsSync, mkdirSync, readdirSync, readFileSync, unlinkSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readdirSync, unlinkSync, writeFileSync } from "node:fs";
 import { basename, join, relative } from "node:path";
 import { pathToFileURL } from "node:url";
 
 import type { Breed } from "../schema/breed.types";
-import { isoToday } from "../validate/rules";
 import { rootDir } from "../ui/paths";
 import { UserError } from "../ui/sources";
+import { isoToday } from "../validate/rules";
 import {
   collectPages,
   getBreed,
@@ -24,11 +24,9 @@ import {
 import { matchBreeds, toCandidate, type MatchCandidate } from "./match";
 import {
   buildTheDogBreed,
-  CURRENT_IMPORT,
   factLine,
   healthTipLine,
-  renderBreedFile,
-  STORED_IMPORT,
+  renderBreedFile
 } from "./record";
 
 export const thedogDir = join(rootDir, "src/thedog");
@@ -131,19 +129,12 @@ export async function prepareChosenTheDogFile(input: {
   }
 }
 
-/** Moves `src/thedog/current/<name>.ts` to `src/thedog/<name>.ts` and fixes its import. */
+/** deletes `src/thedog/current/<name>.ts` */
 export function archiveTheDogFile(exportName: string): string | null {
   const from = join(thedogCurrentDir, `${exportName}.ts`);
   if (!existsSync(from)) return null;
-  mkdirSync(thedogDir, { recursive: true });
-  const to = join(thedogDir, `${exportName}.ts`);
-  const text = readFileSync(from, "utf8").replaceAll(
-    `from "${CURRENT_IMPORT}"`,
-    `from "${STORED_IMPORT}"`,
-  );
-  writeFileSync(to, text.endsWith("\n") ? text : `${text}\n`);
   unlinkSync(from);
-  return to;
+  return from;
 }
 
 export function relativeToRoot(path: string): string {

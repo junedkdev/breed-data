@@ -14,6 +14,8 @@ import {
   writeProgress,
   type ProgressBreed,
 } from "../progress/file";
+import { archiveTheDogFile, prepareChosenTheDogFile, prepareTheDogFile, type TheDogResult } from "../thedog/prepare";
+import { chatgptPromptPath, geminiPromptPath, progressPath } from "./paths";
 import {
   applySources,
   cleanFileName,
@@ -25,8 +27,6 @@ import {
   saveBreedFile,
   sourceSummary,
 } from "./records";
-import { archiveTheDogFile, prepareChosenTheDogFile, prepareTheDogFile, relativeToRoot, type TheDogResult } from "../thedog/prepare";
-import { chatgptPromptPath, geminiPromptPath, progressPath } from "./paths";
 import { parseSourcePaste, UserError } from "./sources";
 
 export interface GeminiPromptResult {
@@ -159,7 +159,7 @@ export function updateGeminiRecord(input: {
   const sourceMessage = sourceSummary(applySources(input.sources));
   const archived = archiveTheDogFile(basename(file, ".ts"));
   const archiveMessage = archived
-    ? `The Dog API reference is at ${relativeToRoot(archived)}.`
+    ? `The Dog API reference file was deleted from current.`
     : "src/thedog/current had no The Dog API reference for this breed.";
   saveRows(withStatus(rows, breed.index, "CG"));
   const points = [

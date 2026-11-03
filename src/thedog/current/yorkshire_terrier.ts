@@ -1,22 +1,22 @@
-import type { Breed } from "../schema/breed.types";
+import type { Breed } from "../../schema/breed.types";
 
-export const skye_terrier: Breed = {
-  slug: "skye-terrier",
-  name: "Skye Terrier",
+export const yorkshire_terrier: Breed = {
+  slug: "yorkshire-terrier",
+  name: "Yorkshire Terrier",
   scientificName: null,
   alternateNames: [
-    "Cloak Terrier",
+    "Yorkie",
   ],
-  group: "Terrier",
+  group: "Toy",
   origin: {
-    country: "Isle of Skye, Scotland",
+    country: "Yorkshire, England",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "Long, low-built terrier with flowing double coat that parts down the middle and distinctive feathered ears. Despite its elegant, stylish appearance, this is a hardy and courageous working dog with a dignified demeanor, originally bred for hunting vermin on the Isle of Skye.",
-    history: "Developed on the Isle of Skye in Scotland for hunting fox, otter, and vermin in rocky terrain. Gained popularity in the 19th century when Queen Victoria became a fancier. Made famous by Greyfriars Bobby in Edinburgh. Recognized by AKC in 1887.",
+    description: "Small toy terrier with long, silky steel blue and golden tan coat and confident, spirited personality. Despite their tiny size, these feisty dogs possess the bold terrier temperament in a compact package.",
+    history: "Developed during the Industrial Revolution in Yorkshire and Lancashire by Scottish weavers and mill workers. Bred to catch rats in textile mills and mines, combining various terrier breeds including the now-extinct Paisley and Clydesdale Terriers.",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -25,28 +25,28 @@ export const skye_terrier: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 24,
-        max: 27,
+        min: 18,
+        max: 20,
       },
       female: {
-        min: 23,
-        max: 25.5,
+        min: 18,
+        max: 20,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 16,
-        max: 20,
+        min: 1.8,
+        max: 3.2,
       },
       female: {
-        min: 11,
-        max: 18,
+        min: 1.8,
+        max: 3.2,
       },
     },
     lifespanYears: {
       min: 12,
-      max: 14,
+      max: 16,
     },
     coatType: null,
     coatLength: null,
@@ -75,11 +75,12 @@ export const skye_terrier: Breed = {
   },
   temperament: {
     traits: [
-      "Loyal",
+      "Confident",
       "courageous",
+      "energetic",
+      "affectionate",
+      "alert",
       "intelligent",
-      "calm",
-      "confident",
     ],
     scores: {
       affection: null,
@@ -258,7 +259,7 @@ export const skye_terrier: Breed = {
         },
       ],
       verifiedOn: "2026-11-03",
-      note: null,
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -612,7 +613,7 @@ export const skye_terrier: Breed = {
         },
       ],
       verifiedOn: "2026-11-03",
-      note: null,
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
     "physical.weight.female.max": {
       reliability: "reliable_source",
@@ -624,7 +625,7 @@ export const skye_terrier: Breed = {
         },
       ],
       verifiedOn: "2026-11-03",
-      note: null,
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
   },
   updatedOn: "2026-11-03",
