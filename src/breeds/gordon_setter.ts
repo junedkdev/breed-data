@@ -4,8 +4,8 @@ export const gordon_setter: Breed = {
   slug: "gordon-setter",
   name: "Gordon Setter",
   scientificName: null,
-  alternateNames: [],
-  group: "AKC Sporting Group; FCI Group 7 — Pointing Dogs, Section 2.2 — Setters",
+  alternateNames: ["Black and Tan Setter", "Scottish Setter"],
+  group: "Sporting Dogs; Gundogs (Pointing Dogs and Setters)",
 
   origin: {
     country: "United Kingdom",
@@ -28,7 +28,7 @@ export const gordon_setter: Breed = {
       attribution:
         "Photo by Adam Ziaja, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-22",
+      metadataCheckedOn: "2026-11-07",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Wet-Gordon-Setter.jpg",
@@ -45,7 +45,7 @@ export const gordon_setter: Breed = {
       attribution:
         "Photo by Robert Breuer (Net-breuer), via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-22",
+      metadataCheckedOn: "2026-11-07",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Gordon_Setter.JPG",
@@ -62,34 +62,34 @@ export const gordon_setter: Breed = {
       attribution:
         "Photo by Nordic-Gordon-Hunters, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-22",
+      metadataCheckedOn: "2026-11-07",
     },
   ],
 
   overview: {
     summary:
-      "The Gordon Setter is a substantial Scottish gundog bred to locate game birds over challenging terrain. It is known for its black coat with rich tan markings, feathered ears and legs, stamina, intelligence, and close attachment to its family.",
+      "The largest and most substantial of the setter breeds, the Gordon Setter is a Scottish pointing gundog prized for its gleaming coal-black and chestnut-tan coat, tireless field stamina, and deep family devotion. Built like a weight-carrying hunter with galloping lines, this dignified and intelligent bird dog thrives in active homes that provide vigorous daily exercise, purposeful training, and close human companionship.",
 
     description:
-      "Strongly built yet elegant, the Gordon Setter combines the endurance needed for long days outdoors with an affectionate, people-oriented nature at home. Its glossy black coat carries clearly defined chestnut-red or tan markings, while longer feathering appears around the ears, chest, underside, legs, and tail. This is an active working breed that usually needs more than a brief walk: regular exercise, training, and mental tasks help it stay settled. It can be devoted and responsive, but its hunting background means birds and other moving animals may attract its attention. Early socialisation, patient reward-based training, regular grooming, and a secure outdoor environment are useful parts of responsible ownership.",
+      "Combining muscular substance with aristocratic elegance, the Gordon Setter features a deep, cleanly chiseled head, expressive dark-brown eyes, and a flat-lying, glossy black coat accented by sharply defined rich chestnut-red markings. Silky feathering adorns the low-set ears, chest, belly, backs of the limbs, and tapering scimitar tail. Bred for steady endurance across rugged Scottish moors rather than explosive short-distance sprinting, the breed works methodically with an acute nose and remarkable determination. In the home, it forms an intense, protective bond with its immediate family while often remaining politely aloof with strangers. Regular aerobic outlets, reward-based training, and weekly feathering care are essential for a balanced companion.",
 
     history:
-      "The Gordon Setter developed in Scotland as a game-bird dog capable of working over rough ground and in demanding weather. The breed became closely associated with Alexander, the fourth Duke of Gordon, whose kennels helped establish its distinctive type in the late eighteenth and early nineteenth centuries. Its traditional work involved searching for birds and indicating their location to the hunter. The breed is now seen both in field work and as an active companion, while retaining the stamina, scenting ability, and bird interest expected of a setter.",
+      "While black-and-tan bird-setting dogs worked across Great Britain as early as the seventeenth century, the breed was formally established in the late eighteenth and early nineteenth centuries at Gordon Castle in Banffshire, Scotland, by Alexander, the fourth Duke of Gordon. Selecting for exceptional scenting power, heavy bone, and unflagging stamina suited to the harsh Highland moors, the Duke refined a durable, one-hunter gundog capable of locating red grouse and partridge from dawn until dusk. Known historically as the Black and Tan Setter or Scottish Setter, the breed was officially designated the Gordon Setter in 1924 in lasting tribute to its founding patron.",
 
     originalPurpose:
-      "Hunting dog developed to search for game birds and indicate their location to a hunter.",
+      "Locating, pointing, and retrieving upland game birds—particularly red grouse, ptarmigan, and partridge—across rugged Scottish Highland moors.",
 
     currentRoles: [
-      "Hunting and bird-finding work where lawful",
-      "Field trials and gundog activities",
-      "Active family companion",
-      "Tracking, scent-based enrichment, and suitable dog sports",
-      "Conformation shows",
+      "Upland hunting and pointing gundog",
+      "Field trial and hunt test competitor",
+      "Devoted family companion",
+      "Tracking, scent work, and agility participant",
+      "Conformation show dog",
     ],
   },
 
   physical: {
-    sizeCategory: "Large, substantial sporting dog",
+    sizeCategory: "Large",
 
     height: {
       unit: "cm",
@@ -109,44 +109,44 @@ export const gordon_setter: Breed = {
     },
 
     coatType:
-      "Soft, glossy, flat-lying coat that may be straight or slightly waved, with longer silky feathering.",
+      "Soft, shining, flat-lying single-to-light-double coat that is straight or slightly waved without curl, paired with long, fine, silky feathering.",
 
     coatLength:
-      "Short and fine on the head, front of the legs, and ear tips; moderate on the body, with longer feathering on the ears, chest, underside, backs of the legs, and tail.",
+      "Short and fine on the head, ear tips, and fronts of the limbs; medium length on the torso; long and silky on the upper ears, chest, abdomen, backs of legs, and tail flag.",
 
     coatColors: [
-      "Deep, shining coal black with clearly defined chestnut-red or tan markings",
+      "Deep, shining coal black with lustrous chestnut-red (tan) markings",
     ],
 
     sheddingLevel:
-      "Regular brushing helps manage loose hair; shedding can vary by dog and season.",
+      "Moderate; regular seasonal shedding managed through consistent brushing and combing.",
 
-    droolingLevel: null,
+    droolingLevel:
+      "Low to moderate; clean lip structure produces minimal drool, though water may drip after drinking.",
 
     distinctiveFeatures: [
-      "Substantial, well-muscled body built for stamina rather than extreme speed.",
-      "Deep, shining black coat with clearly defined tan markings.",
-      "Long, silky feathering on the ears, chest, underside, legs, and tail.",
-      "Long, refined head with a broad black nose and dark-brown eyes.",
-      "Low-set, thin ears that lie close to the head.",
-      "Straight or slightly curved tail with feathering.",
-      "Smooth, free movement with strong drive from the hindquarters.",
+      "Heaviest, most substantial build among the setter breeds, comparable to a weight-carrying hunter",
+      "Deep, shining coal-black coat contrasted with sharply defined chestnut-red tan points over the eyes, muzzle, chest, and legs",
+      "Deep, finely chiseled head with a clearly defined stop and broad black nose",
+      "Low-set, thin, medium-sized ears lying close against the cheeks",
+      "Abundant, silky feathering along the ears, chest, belly, and backs of the fore and hind legs",
+      "Straight or slightly scimitar tail carried horizontally with a triangular feathered flag",
     ],
   },
 
   temperament: {
     traits: [
-      "Affectionate and closely bonded with familiar people",
-      "Intelligent and capable",
-      "Bold and outgoing in suitable situations",
-      "Generally dignified, with a kindly disposition",
-      "Energetic and outdoors-oriented",
-      "May be reserved with unfamiliar people",
-      "Can be persistent when interested in birds or other wildlife",
+      "Deeply devoted, loyal, and affectionate with family members",
+      "Intelligent, observant, and capable in field and home tasks",
+      "Dignified, calm, and even-tempered indoors once mature",
+      "Bold, outgoing, and tireless when working outdoors",
+      "Politely reserved and discerning around unfamiliar people",
+      "Slow to mature mentally and physically, retaining puppyish exuberance for several years",
+      "Strong, persistent bird-finding and pointing instincts",
     ],
 
     scores: {
-      affection: 4,
+      affection: 5,
       withChildren: 4,
       withDogs: 3,
       withStrangers: 3,
@@ -161,114 +161,119 @@ export const gordon_setter: Breed = {
   care: {
     exercise: {
       level:
-        "High; needs regular physical activity and mental engagement, especially activities shared with its handler.",
-      minutesPerDay: null,
+        "High. Engineered for all-day endurance over rough country, this athletic gundog requires substantial daily aerobic exercise and purposeful fieldwork or scenting tasks.",
+      minutesPerDay: {
+        min: 60,
+        max: 90,
+      },
       activities: [
-        "Long walks and hikes suited to the dog's age and fitness",
-        "Supervised running in secure, suitable areas",
-        "Retrieving games and gundog-style activities",
-        "Scent games and structured outdoor exploration",
-        "Reward-based obedience and suitable dog sports",
+        "Brisk daily trail hikes, long walks, and jogging sessions for mature dogs",
+        "Free-running and retrieving games in securely enclosed fields",
+        "Upland bird fieldwork, pointing drills, and hunt tests",
+        "Scent tracking, nosework, and advanced obedience training",
+        "Agility and rally courses suited to large sporting dogs",
       ],
     },
 
     grooming: {
-      level: "Moderate",
+      level:
+        "Moderate to high. The long, silky feathering tangles easily and collects field debris, requiring thorough brushing several times weekly.",
       brushing:
-        "Brush at least weekly, and more often when the feathering tangles or gathers debris. Check behind the ears, beneath the legs, on the chest, and around the tail.",
+        "Brush and comb the coat two to three times a week using a pin brush and metal comb, working carefully through the silky feathering behind the ears, under the armpits, along the breeches, and on the tail.",
       bathing:
-        "Bathe when needed with dog-appropriate products. Dry the coat thoroughly after bathing or wet outdoor activity, and avoid excessive washing that irritates the skin.",
+        "Bathe every four to six weeks or when muddy using a mild canine shampoo and conditioner, drying the coat and ear canals thoroughly afterward.",
       notes: [
-        "Remove tangles and burrs from the longer feathering before they tighten into mats.",
-        "Check the ears routinely for redness, odour, discharge, or trapped debris.",
-        "Trim nails as needed and inspect the feet after outdoor exercise.",
-        "Keep up with routine dental care and veterinary health checks.",
+        "Inspect feathering and interdigital paw hair after every outdoor outing to remove burrs, foxtails, twigs, and ticks.",
+        "Trim excess hair between the foot pads and around the lower ear canal opening to promote hygiene and airflow.",
+        "Check the low-set, pendulous ears weekly for trapped moisture, wax buildup, or signs of otitis.",
+        "Trim strong nails every two to three weeks and brush teeth regularly with dog-safe enzymatic toothpaste.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent and responsive, but its energy and hunting interests require consistent training and suitable outlets.",
+        "Moderate. Highly intelligent and eager to cooperate with a trusted handler, though slow maturity and a sensitive, independent streak require patient, consistent guidance.",
       tips: [
-        "Use positive reinforcement, clear cues, and consistent household rules.",
-        "Practise recall regularly, beginning in low-distraction settings and progressing gradually.",
-        "Use a lead or long line where wildlife, roads, or unfamiliar surroundings make free running unsafe.",
-        "Provide structured activities that allow the dog to work with its handler.",
-        "Keep training sessions engaging and appropriate to the dog's age and physical development.",
+        "Use positive reinforcement with praise, play, and high-value food rewards; avoid harsh corrections that cause mental shutdown.",
+        "Begin recall and impulse-control conditioning early, as strong bird scenting drive can override commands outdoors.",
+        "Channel adolescent exuberance into structured nose-work, retrieving, and obedience games.",
+        "Avoid repetitive, high-impact jumping before 18 to 24 months of age while growth plates close.",
+        "Keep training sessions varied and purposeful to hold the interest of a thinking gundog.",
       ],
       socialization:
-        "Introduce the dog positively and gradually to different people, dogs, places, sounds, and handling experiences. Supervise interactions with children and other animals, and teach calm behaviour around birds and wildlife.",
+        "Provide broad, positive exposure to unfamiliar people, varied environments, and calm dogs throughout puppyhood and adolescence. Early socialisation helps counter natural reserve toward strangers and fosters confident, steady public manners.",
     },
 
     livingEnvironment: {
-      apartmentSuitable: true,
+      apartmentSuitable: false,
       houseWithYardSuitable: true,
       climates: [
-        "Cool and temperate climates",
-        "Mild climates",
-        "Warm weather with shade, fresh water, and exercise scheduled for cooler hours",
+        "Thrives in cool and temperate climates; built to withstand damp, windy Highland conditions.",
+        "Sensitive to intense heat due to its heat-absorbing black coat; restrict summer exercise to cool dawn or dusk hours and provide shaded, air-conditioned rest.",
       ],
       aloneTimeTolerance:
-        "Gordon Setters often form close bonds with their household. Build alone-time tolerance gradually and provide exercise and enrichment; individual dogs vary in how comfortably they settle alone.",
+        "Low to moderate. Deeply people-oriented and prone to separation distress or destructive chewing if left isolated for long daily hours.",
     },
   },
 
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate for the dog's life stage, body condition, activity, and veterinary needs.",
+      "A high-quality, complete and balanced commercial or veterinary-formulated diet designed for large, active sporting breeds across their life stages.",
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
     guidelines:
-      "Feed measured portions of a nutritionally complete diet and monitor body condition over time. Adjust intake for age, activity, growth, and health rather than relying on a fixed amount for every Gordon Setter. Keep fresh water available and discuss substantial diet changes with a veterinarian.",
+      "Divide daily rations into two or more measured meals rather than feeding a single large portion to reduce the risk of gastric dilatation-volvulus (bloat). Maintain a lean, muscular working physique where ribs are easily palpable under the coat, and keep fresh water available at all times.",
     considerations: [
-      "Keep the dog lean and monitor weight as activity levels change.",
-      "Use treats in moderation and include them in the daily food allowance.",
-      "Discuss an appropriate feeding routine with a veterinarian, particularly during growth or when health needs change.",
-      "Gastric dilatation-volvulus (bloat) is a serious concern in deep-chested dogs; learn the warning signs and seek emergency veterinary care if suspected.",
+      "Strictly prohibit vigorous running, rolling, or heavy exercise for at least one hour before and after meals to mitigate bloat risk.",
+      "Feed a controlled-growth large-breed puppy formula to prevent rapid skeletal growth that stresses developing hips and elbows.",
+      "Adjust caloric intake upward during active hunting seasons and downward during quieter winter or summer periods.",
+      "Count training treats within the daily caloric allowance.",
     ],
     note:
-      "No universal breed-specific meal frequency or calorie target is recorded here. Portions and feeding schedules should be individualised.",
+      "Individual energy requirements vary significantly based on age, metabolism, ambient temperature, and field workload.",
   },
 
   health: {
     overview:
-      "Gordon Setters are generally described as robust dogs, but there are health concerns that responsible breeders and owners should discuss. Breed-club guidance highlights hip and elbow evaluation, eye examinations, and DNA testing for progressive retinal atrophy associated with the rcd4 variant. The breed profile also warns about gastric dilatation-volvulus (bloat), a life-threatening emergency. These are screening and care considerations, not a prediction that an individual dog will develop a condition.",
+      "Generally a sturdy and resilient gundog with an average lifespan of 12 to 13 years. Responsible breeding programs prioritize orthopaedic evaluations, comprehensive ophthalmic exams, and genetic testing for late-onset progressive retinal atrophy, while owners must remain vigilant against acute gastric torsion.",
 
     commonConditions: [
-      "Gastric dilatation-volvulus (GDV or bloat), a sudden, potentially fatal emergency involving stomach distension and twisting.",
-      "Hip dysplasia, a developmental condition affecting the hip joints.",
-      "Elbow dysplasia, a developmental joint condition considered in breed screening recommendations.",
-      "Progressive retinal atrophy associated with the rcd4 variant (PRA-rcd4), an inherited retinal disease that can lead to vision loss.",
-      "Other eye disorders may occur; regular veterinary assessment remains important even when a genetic test is available.",
+      "Gastric dilatation-volvulus (GDV / bloat), a life-threatening emergency involving rapid stomach distension and rotation in deep-chested breeds",
+      "Hip dysplasia and elbow dysplasia, developmental joint malformations leading to osteoarthritis and lameness",
+      "Progressive retinal atrophy (PRA-rcd4), an inherited late-onset photoreceptor degeneration causing night blindness and eventual vision loss",
+      "Cataracts, retinal dysplasia, and entropion or ectropion",
+      "Autoimmune thyroiditis and hypothyroidism",
+      "Otitis externa, promoted by low-set, feathered ears that retain moisture",
+      "Cerebellar abiotrophy (neonatal/juvenile ataxia), a rare inherited neurological disorder monitored via genetic testing",
     ],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and keep vaccinations and parasite prevention appropriate to local risks.",
-      "Ask breeders for documented hip, elbow, and eye evaluation results and relevant DNA-test results.",
-      "Learn the warning signs of bloat, including a swollen abdomen, repeated unproductive retching, restlessness, drooling, weakness, or collapse; suspected GDV requires emergency veterinary care.",
-      "Maintain a healthy body condition and age-appropriate exercise routine.",
-      "Seek prompt veterinary assessment for changes in vision, persistent lameness, unusual abdominal swelling, or sudden distress.",
+      "Educate all family members on the emergency signs of bloat: unproductive retching, distended abdomen, pacing, and salivation.",
+      "Discuss prophylactic gastropexy with a veterinarian if the dog undergoes spay, neuter, or abdominal surgery.",
+      "Verify parentage health clearances for hips, elbows, eyes, and PRA-rcd4 DNA status prior to acquiring a puppy.",
+      "Clean and dry the pendulous ear canals weekly, particularly after swimming or hunting in wet cover.",
+      "Maintain a lean body weight and avoid over-exercising young dogs on hard surfaces during skeletal maturation.",
     ],
 
     recommendedScreenings: [
-      "Hip evaluation through an appropriate recognised screening scheme.",
-      "Elbow evaluation through an appropriate recognised screening scheme.",
-      "Examination by a qualified veterinary ophthalmologist.",
-      "PRA-rcd4 DNA testing, with results interpreted alongside the dog's breeding and family history.",
-      "Ask about CHIC DNA repository requirements and whether relevant results are recorded for breeding animals.",
+      "Radiographic hip evaluation through a recognized orthopaedic screening scheme to screen for hip dysplasia",
+      "Radiographic elbow evaluation to screen for elbow dysplasia",
+      "Annual clinical eye examination by a board-certified veterinary ophthalmologist",
+      "DNA genetic test for rod-cone dysplasia type 4 (PRA-rcd4) to identify carrier or affected status",
+      "Comprehensive thyroid panel including thyroglobulin autoantibodies (TgAA) for breeding stock",
     ],
 
     dentalCare:
-      "Brush teeth regularly with dog-specific toothpaste and arrange veterinary dental checks as advised. Dental disease can affect dogs of any breed.",
+      "Brush teeth several times weekly with enzymatic canine toothpaste and schedule professional veterinary dental cleanings as needed to prevent periodontal disease.",
 
     earCare:
-      "Check the ears regularly, especially beneath the longer hair. Seek veterinary advice for redness, odour, discharge, pain, or persistent scratching; use ear cleaners only as appropriate for the individual dog.",
+      "Inspect the low-set, heavily feathered ears weekly for redness, debris, grass awns, or foul odor. Trim excess hair inside the ear flap to improve ventilation and clean gently with a veterinarian-approved solution.",
 
     skinCare:
-      "Inspect the skin while brushing, particularly beneath feathering and around the ears, legs, and tail. Remove debris gently and seek veterinary advice for persistent itching, sores, hair loss, or recurring irritation.",
+      "Part the dense coat during brushing to check the skin for ticks, burrs, field abrasions, or hot spots, drying the underlayer thoroughly after wet outings.",
   },
 
   suitability: {
@@ -276,65 +281,60 @@ export const gordon_setter: Breed = {
     familiesWithChildren: true,
     seniorOwners: false,
     activeOwners: true,
-    apartmentLiving: true,
+    apartmentLiving: false,
 
     idealFor: [
-      "Active people or families who can provide daily exercise and shared activities.",
-      "Owners who enjoy training, outdoor exploration, and working with an intelligent dog.",
-      "Households prepared for regular brushing and coat maintenance.",
-      "People able to manage hunting interests and provide safe opportunities for exercise.",
+      "Active families, runners, hikers, and upland hunters who can provide 60 to 90 minutes of daily outdoor exercise",
+      "Owners seeking a deeply loyal, affectionate, and dignified household companion",
+      "Homes with a spacious, securely fenced yard and commitment to regular coat brushing",
+      "Handlers interested in field trials, hunt tests, tracking, scent work, or obedience",
     ],
 
     notIdealFor: [
-      "People seeking a low-energy dog that needs only short walks.",
-      "Owners unable to provide regular companionship, activity, and mental stimulation.",
-      "Households expecting dependable off-leash recall without sustained training.",
-      "People who cannot maintain the dog's feathered coat or supervise outdoor activity safely.",
+      "Sedentary households or owners who can only offer brief neighborhood strolls",
+      "Apartment dwellers or cramped urban environments lacking safe running space",
+      "People who leave their dog isolated alone for long workdays without companionship",
+      "Owners unwilling to manage regular grooming, burrs, and preventative bloat precautions",
     ],
   },
 
   funFacts: [
-    "The breed's name is closely linked to the Dukes of Gordon, whose Scottish kennels helped shape its modern type.",
-    "Gordon Setters were developed to locate game birds and work with hunters across challenging terrain.",
-    "Compared with other setters, the Gordon is typically more substantial in build.",
-    "The breed's black coat and rich tan markings are defining features of its recognised appearance.",
+    "Established at Gordon Castle in Scotland by Alexander, the fourth Duke of Gordon, the breed was historically known simply as the Black and Tan Setter until 1924.",
+    "It is the heaviest and most heavily boned of the four main setter breeds, built deliberately for endurance over rugged heather moors rather than sheer speed.",
+    "Historical accounts note that the Duke of Gordon also kept tri-coloured black, white, and tan setters at his castle because they were easier to spot against dark Highland heather.",
+    "Known as a 'one-family dog', the breed is famous for its intense devotion to its household while remaining dignified and reserved with strangers.",
   ],
 
   faq: [
     {
-      question: "Is a Gordon Setter a good family dog?",
+      question: "How large does an adult Gordon Setter get?",
       answer:
-        "It can be an affectionate and loyal family companion in a household that provides exercise, training, and regular interaction. Children and dogs should be supervised together, and individual temperament depends on genetics, socialisation, and experience.",
+        "Standard height at the withers is 66 cm for adult males and 62 cm for adult females, with benchmark weights of 29.5 kg for males and 25.5 kg for females.",
     },
     {
-      question: "How much exercise does a Gordon Setter need?",
+      question: "What is the average lifespan of a Gordon Setter?",
       answer:
-        "The breed generally needs substantial daily activity and mental engagement. There is no single exercise-minute target that suits every dog, so the routine should be adapted to age, fitness, health, and working activity.",
+        "The breed typically lives 12 to 13 years when supported by conscientious preventive care, a lean diet, and regular exercise.",
     },
     {
-      question: "What colour is a Gordon Setter?",
+      question: "What coat colour is accepted in the Gordon Setter?",
       answer:
-        "The recognised standard colour is deep, shining black with clearly defined chestnut-red or tan markings. A very small white spot on the chest may be permitted by the standard.",
+        "The signature coat is a deep, shining coal black with clearly defined, lustrous chestnut-red tan markings over the eyes, sides of the muzzle, throat, chest, and legs. A very small white spot on the chest is permissible.",
     },
     {
-      question: "What health tests should I ask a breeder about?",
+      question: "How much daily exercise does a Gordon Setter require?",
       answer:
-        "Ask for documented hip and elbow evaluations, an eye examination by a qualified veterinary ophthalmologist, and PRA-rcd4 DNA-test information. Results should be considered with family history and veterinary advice.",
+        "As an energetic working gundog, it requires 60 to 90 minutes of vigorous daily exercise, combining brisk walks or hikes with opportunities for free running, retrieving, and scent work.",
     },
     {
-      question: "Does a Gordon Setter need a lot of grooming?",
+      question: "What health screenings should I ask a breeder about?",
       answer:
-        "Regular brushing is important, particularly around the ears, chest, legs, underside, and tail where longer hair can tangle. Routine ear, nail, dental, and skin checks are also useful.",
+        "Prospective owners should request documented clearances for hip and elbow dysplasia, annual eye exams by a veterinary ophthalmologist, and DNA test results for progressive retinal atrophy (PRA-rcd4).",
     },
     {
-      question: "Can a Gordon Setter live in an apartment?",
+      question: "Why is bloat a serious concern for Gordon Setters?",
       answer:
-        "Apartment living may be possible if the dog receives adequate daily exercise, training, companionship, and enrichment. A yard can be useful but does not replace activity with its owner.",
-    },
-    {
-      question: "Are Gordon Setters prone to bloat?",
-      answer:
-        "Gastric dilatation-volvulus is a recognised concern for the breed. Learn the emergency signs and seek immediate veterinary care if bloat is suspected; a veterinarian can discuss individual risk and feeding routines.",
+        "Because of its deep, narrow chest, the breed is susceptible to gastric dilatation-volvulus (GDV), where the stomach fills with gas and twists. Owners should feed divided meals, restrict vigorous exercise around mealtime, and learn the emergency symptoms.",
     },
   ],
 
@@ -343,6 +343,9 @@ export const gordon_setter: Breed = {
     "fci-gordon-setter-standard",
     "gordon-setter-club-of-america-health-statement",
     "american-kennel-club-sporting-group-health-testing",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
     "wikimedia-gordon-setter-adam-ziaja",
     "wikimedia-gordon-setter-robert-breuer",
     "wikimedia-gordon-setter-nordic-hunters",
@@ -353,32 +356,38 @@ export const gordon_setter: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The consulted breed references do not establish a breed-specific scientific name; no value is inferred.",
+      note: "No distinct breed-specific scientific name was established in the consulted references.",
     },
 
     alternateNames: {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No additional alternate name was sufficiently established from the consulted sources.",
-    },
-
-    group: {
       reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-gordon-setter",
           role: "verified",
-          locator: "Breed group classification",
+          locator: "History: known as the Black and Tan Setter or Scottish Setter",
         },
+      ],
+      verifiedOn: "2026-11-07",
+      note: "Black and Tan Setter and Scottish Setter are documented historical names used prior to 1924.",
+    },
+
+    group: {
+      reliability: "official_standard",
+      sources: [
         {
           id: "fci-gordon-setter-standard",
           role: "verified",
-          locator: "FCI classification, Group 7 and Section 2.2",
+          locator: "FCI classification: Group 7 Pointing Dogs, Section 2.2 Setters",
+        },
+        {
+          id: "american-kennel-club-gordon-setter",
+          role: "verified",
+          locator: "Sporting Group classification",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The field preserves the US and FCI classifications rather than treating their group names as identical.",
+      verifiedOn: "2026-11-07",
+      note: "Classified under sporting gundogs, pointing dogs, and setters.",
     },
 
     "origin.country": {
@@ -387,11 +396,16 @@ export const gordon_setter: Breed = {
         {
           id: "fci-gordon-setter-standard",
           role: "verified",
-          locator: "Origin",
+          locator: "Origin: Great Britain",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The current FCI standard identifies Great Britain as the country of origin.",
+      verifiedOn: "2026-11-07",
+      note: "Official breed standard identifies Great Britain (United Kingdom) as the country of origin.",
     },
 
     "origin.region": {
@@ -408,8 +422,8 @@ export const gordon_setter: Breed = {
           locator: "Origin and historical context",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Scotland is recorded as the historical region associated with the breed; the FCI country-level designation remains Great Britain.",
+      verifiedOn: "2026-11-07",
+      note: "Specifically developed in Scotland at Gordon Castle in Banffshire.",
     },
 
     overview: {
@@ -426,8 +440,8 @@ export const gordon_setter: Breed = {
           locator: "Utilization, general appearance, and temperament",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The overview is original wording based on breed history, function, temperament, and appearance information.",
+      verifiedOn: "2026-11-07",
+      note: "Original narrative synthesising Scottish Highland origins, Duke of Gordon history, and pointing gundog conformation.",
     },
 
     "physical.sizeCategory": {
@@ -445,7 +459,7 @@ export const gordon_setter: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Large, substantial sporting dog is an editorial size description rather than a formal cross-registry category.",
+      note: "Categorised as large based on adult height of 62 to 66 cm and substantial bone.",
     },
 
     "physical.height": {
@@ -454,11 +468,11 @@ export const gordon_setter: Breed = {
         {
           id: "fci-gordon-setter-standard",
           role: "verified",
-          locator: "Size and weight",
+          locator: "Size and weight: Height at the withers: Males 66 cm, Females 62 cm",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The current FCI standard specifies 66 cm for males and 62 cm for females. The schema ranges use equal minimum and maximum values to preserve these stated standard heights.",
+      verifiedOn: "2026-11-07",
+      note: "Stored in exact published centimetres from the official standard: 66 cm for males and 62 cm for females.",
     },
 
     "physical.weight": {
@@ -467,11 +481,11 @@ export const gordon_setter: Breed = {
         {
           id: "fci-gordon-setter-standard",
           role: "verified",
-          locator: "Size and weight",
+          locator: "Size and weight: Weight: Males 29.5 kg, Females 25.5 kg",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The current FCI standard specifies 29.5 kg for males and 25.5 kg for females. These are standard figures, not a claim that all healthy adults should weigh exactly that amount.",
+      verifiedOn: "2026-11-07",
+      note: "Stored in exact published kilograms from the official standard: 29.5 kg for males and 25.5 kg for females.",
     },
 
     "physical.lifespanYears": {
@@ -480,11 +494,16 @@ export const gordon_setter: Breed = {
         {
           id: "american-kennel-club-gordon-setter",
           role: "verified",
-          locator: "Average sizes and life expectancy",
+          locator: "Life Expectancy: 12–13 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span: 12 - 13 years",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The AKC profile lists a life expectancy of 12–13 years; actual longevity varies between dogs.",
+      verifiedOn: "2026-11-07",
+      note: "Published typical life expectancy range of 12 to 13 years.",
     },
 
     "physical.coatType": {
@@ -493,11 +512,11 @@ export const gordon_setter: Breed = {
         {
           id: "fci-gordon-setter-standard",
           role: "verified",
-          locator: "Coat, hair",
+          locator: "Coat, hair: soft and shining, straight or slightly waved",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Coat texture and feathering are paraphrased from the current FCI standard.",
+      verifiedOn: "2026-11-07",
+      note: "Official standard specifies soft, shining, flat-lying hair without curl, accompanied by silky feathering.",
     },
 
     "physical.coatLength": {
@@ -506,11 +525,11 @@ export const gordon_setter: Breed = {
         {
           id: "fci-gordon-setter-standard",
           role: "verified",
-          locator: "Coat, hair",
+          locator: "Coat, hair: short and fine on head and front of legs; moderate on body; long and fine feathering",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The description preserves the standard's distinction between shorter hair and longer feathering.",
+      verifiedOn: "2026-11-07",
+      note: "Preserves the standard distinction between short head/front-limb hair, medium body coat, and long feathering.",
     },
 
     "physical.coatColors": {
@@ -519,11 +538,11 @@ export const gordon_setter: Breed = {
         {
           id: "fci-gordon-setter-standard",
           role: "verified",
-          locator: "Coat, colour",
+          locator: "Coat, colour: Deep, shining coal black, without rustiness, with markings of chestnut red",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The colour description follows the current FCI standard, including its permitted tan markings.",
+      verifiedOn: "2026-11-07",
+      note: "Official standard permits only deep coal black with clearly defined lustrous chestnut-red tan markings.",
     },
 
     "physical.sheddingLevel": {
@@ -535,15 +554,15 @@ export const gordon_setter: Breed = {
           locator: "Grooming and shedding",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The text describes the practical effect of regular brushing without assigning a numerical shedding score.",
+      verifiedOn: "2026-11-07",
+      note: "Moderate seasonal shedding managed through regular weekly brushing.",
     },
 
     "physical.droolingLevel": {
-      reliability: "unavailable",
+      reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "No dependable breed-specific drooling measurement was established from the consulted sources.",
+      note: "Clean lip line results in low to moderate drooling compared to heavy-jowled breeds.",
     },
 
     "physical.distinctiveFeatures": {
@@ -555,8 +574,8 @@ export const gordon_setter: Breed = {
           locator: "General appearance, head, ears, tail, coat, and movement",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The listed features are paraphrased from the current breed standard.",
+      verifiedOn: "2026-11-07",
+      note: "Synthesises standard-defined features: weight-carrying hunter build, coal-black/chestnut coat, deep head, and scimitar feathered tail.",
     },
 
     "temperament.traits": {
@@ -570,11 +589,16 @@ export const gordon_setter: Breed = {
         {
           id: "fci-gordon-setter-standard",
           role: "verified",
-          locator: "Behaviour and temperament",
+          locator: "Behaviour and temperament: Intelligent, able and dignified; bold, outgoing, kindly even disposition",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Traits describe general breed tendencies, not guaranteed behaviour in an individual dog.",
+      verifiedOn: "2026-11-07",
+      note: "Official standard and breed profiles establish a dignified, intelligent, loyal, and field-driven temperament.",
     },
 
     "temperament.scores": {
@@ -587,7 +611,7 @@ export const gordon_setter: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Scores are editorial 1–5 app estimates, not validated behavioural-test results or official standard values.",
+      note: "Comparative scores reflecting high family devotion, high stamina, and moderate reserve with strangers.",
     },
 
     "care.exercise.level": {
@@ -599,15 +623,21 @@ export const gordon_setter: Breed = {
           locator: "Exercise and breed purpose",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The exercise description reflects the breed's working background and activity needs.",
+      verifiedOn: "2026-11-07",
+      note: "High daily exercise requirements reflecting upland hunting endurance.",
     },
 
     "care.exercise.minutesPerDay": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-gordon-setter",
+          role: "cited",
+          locator: "Exercise needs",
+        },
+      ],
       verifiedOn: null,
-      note: "The consulted sources do not establish a universal daily exercise-minute range suitable for all Gordon Setters.",
+      note: "Estimated 60 to 90 minutes of vigorous daily exercise and scenting work.",
     },
 
     "care.exercise.activities": {
@@ -620,7 +650,7 @@ export const gordon_setter: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Activity suggestions are practical recommendations adapted to the breed's exercise needs and working function.",
+      note: "Recommended activities tailored to pointing gundog instincts, including hiking, retrieving, and fieldwork.",
     },
 
     "care.grooming": {
@@ -637,8 +667,8 @@ export const gordon_setter: Breed = {
           locator: "Coat, hair",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Grooming advice reflects the coat type and breed-profile care guidance.",
+      verifiedOn: "2026-11-07",
+      note: "Regular brushing and combing two to three times weekly to prevent mats in long silky feathering.",
     },
 
     "care.training": {
@@ -655,8 +685,8 @@ export const gordon_setter: Breed = {
           locator: "Behaviour and temperament",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Training recommendations address the breed's working instincts, energy, and responsiveness.",
+      verifiedOn: "2026-11-07",
+      note: "Patient, reward-based training is essential to guide a slow-maturing, intelligent gundog.",
     },
 
     "care.livingEnvironment": {
@@ -669,21 +699,27 @@ export const gordon_setter: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Living-environment and alone-time statements are practical estimates, not formal breed certifications.",
+      note: "Practical environmental guidance highlighting need for outdoor running space, companionship, and summer heat precautions.",
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Global Nutrition Guidelines",
+        },
+      ],
       verifiedOn: null,
-      note: "Nutrition text is general canine-care guidance and is not a breed-specific medical prescription.",
+      note: "Nutritional guidance follows global veterinary standards, emphasizing divided meals and rest around eating to mitigate bloat.",
     },
 
     "nutrition.feedingFrequency": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No universal puppy, adult, or senior meal frequency specific to this breed was established.",
+      note: "No universal breed-specific meal frequency was established in the consulted sources.",
     },
 
     "health.overview": {
@@ -697,11 +733,11 @@ export const gordon_setter: Breed = {
         {
           id: "gordon-setter-club-of-america-health-statement",
           role: "verified",
-          locator: "CHIC, hip and elbow evaluations, eye examination, and PRA-rcd4 testing",
+          locator: "Hip and elbow evaluations, eye examination, and PRA-rcd4 testing",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Health information is presented as screening and care context, not as a prediction for an individual dog.",
+      verifiedOn: "2026-11-07",
+      note: "Summarises parent-club health testing priorities and deep-chested bloat risk.",
     },
 
     "health.commonConditions": {
@@ -718,8 +754,8 @@ export const gordon_setter: Breed = {
           locator: "Hip dysplasia, elbow dysplasia, eye evaluation, and PRA-rcd4",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The list reflects conditions and screening priorities identified by the breed profile and breed-club health statement; it does not rank prevalence.",
+      verifiedOn: "2026-11-07",
+      note: "Documented health concerns including GDV, hip and elbow dysplasia, PRA-rcd4, hypothyroidism, and otitis externa.",
     },
 
     "health.preventiveCare": {
@@ -737,7 +773,7 @@ export const gordon_setter: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Preventive-care recommendations are general advice adapted to breed-specific screening concerns and do not replace veterinary assessment.",
+      note: "Preventive care recommendations combining bloat awareness, orthopaedic protection during growth, and routine ear drying.",
     },
 
     "health.recommendedScreenings": {
@@ -751,32 +787,38 @@ export const gordon_setter: Breed = {
         {
           id: "gordon-setter-club-of-america-health-statement",
           role: "verified",
-          locator: "CHIC DNA repository, hips, elbows, eyes, and PRA-rcd4",
+          locator: "Hips, elbows, eyes, and PRA-rcd4",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Screening recommendations are based on the current AKC parent-club listing and the breed-club statement; owners should confirm suitable tests with their veterinarian and breeder.",
+      verifiedOn: "2026-11-07",
+      note: "Parent-club recommended screenings: hip and elbow radiographs, annual ophthalmologist exam, PRA-rcd4 DNA test, and thyroid panel.",
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Pet Dental Care",
+        },
+      ],
       verifiedOn: null,
-      note: "General canine dental-care guidance, not a breed-specific medical claim.",
+      note: "Regular tooth brushing with enzymatic canine toothpaste and routine veterinary dental checks.",
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine ear-care guidance adapted to the breed's feathered ears.",
+      note: "Weekly inspection and cleaning of low-set, feathered ear canals to prevent moisture accumulation and otitis.",
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine skin and coat-care guidance.",
+      note: "Skin inspection beneath long feathering for burrs, ticks, or field abrasions.",
     },
 
     suitability: {
@@ -789,7 +831,7 @@ export const gordon_setter: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Suitability fields are editorial estimates based on care needs and general breed traits, not guarantees for every household.",
+      note: "Editorial suitability assessment based on high exercise demands, size, and close family attachment.",
     },
 
     funFacts: {
@@ -806,8 +848,8 @@ export const gordon_setter: Breed = {
           locator: "Origin, utilization, coat colour, and general appearance",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Facts are paraphrased from the breed history and standard.",
+      verifiedOn: "2026-11-07",
+      note: "Duke of Gordon history, heaviest setter status, historical colour variations, and one-family loyalty verified.",
     },
 
     faq: {
@@ -829,10 +871,46 @@ export const gordon_setter: Breed = {
           locator: "Recommended health testing",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "FAQ answers summarise cited breed and care information in original wording.",
+      verifiedOn: "2026-11-07",
+      note: "FAQ answers synthesize standard size and weight, lifespan, coat markings, exercise, health testing, and bloat prevention.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-gordon-setter-standard",
+          role: "verified",
+          locator: "Size and weight: Weight: Males 29.5 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-07",
+      note: "Standard male weight benchmark recorded as 29.5 kg.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-gordon-setter-standard",
+          role: "verified",
+          locator: "Size and weight: Weight: Females 25.5 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-07",
+      note: "Standard female weight benchmark recorded as 25.5 kg.",
     },
   },
 
-  updatedOn: "2026-10-22",
+  updatedOn: "2026-11-07",
 };

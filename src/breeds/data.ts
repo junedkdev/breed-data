@@ -128,6 +128,13 @@ import { sussex_spaniel } from "./sussex_spaniel";
 import { cesky_fousek } from "./cesky_fousek";
 import { bull_terrier_miniature } from "./bull_terrier_miniature";
 import { akita_inu } from "./akita_inu";
+import { schweizerischer_niederlaufhund } from "./schweizerischer_niederlaufhund";
+import { boxer } from "./boxer";
+import { pug } from "./pug";
+import { segugio_italiano_a_pelo_forte } from "./segugio_italiano_a_pelo_forte";
+import { kuvasz } from "./kuvasz";
+import { schillerstovare } from "./schillerstovare";
+import { american_staffordshire_terrier } from "./american_staffordshire_terrier";
 
 
 export const breedData: readonly Breed[] = [
@@ -255,4 +262,11 @@ export const breedData: readonly Breed[] = [
   cesky_fousek,
   bull_terrier_miniature,
   akita_inu,
+  schweizerischer_niederlaufhund,
+  boxer,
+  pug,
+  segugio_italiano_a_pelo_forte,
+  kuvasz,
+  schillerstovare,
+  american_staffordshire_terrier,
 ];

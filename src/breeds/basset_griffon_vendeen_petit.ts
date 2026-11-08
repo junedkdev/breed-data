@@ -4,8 +4,8 @@ export const basset_griffon_vendeen_petit: Breed = {
   slug: "basset-griffon-vendeen-petit",
   name: "Petit Basset Griffon Vendéen",
   scientificName: null,
-  alternateNames: ["PBGV", "Petit"],
-  group: "Hound Group; FCI Group 6 — Scenthounds and related breeds, Section 1.3 — Small-sized Hounds",
+  alternateNames: ["PBGV", "Petit", "Little Griffon Vendeen Basset"],
+  group: "Hounds; Small-Sized Scenthounds",
 
   origin: {
     country: "France",
@@ -29,7 +29,7 @@ export const basset_griffon_vendeen_petit: Breed = {
       attribution:
         "Photo by Pleple2000, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-22",
+      metadataCheckedOn: "2026-11-07",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Petit%20Basset%20Griffon%20Vend%C3%A9en.jpg",
@@ -47,7 +47,7 @@ export const basset_griffon_vendeen_petit: Breed = {
       attribution:
         "Photo by Nathan150, originally published on Flickr as “Fun in the snow” and uploaded to Wikimedia Commons by Ltshears, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Changes, if any, must be indicated.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-22",
+      metadataCheckedOn: "2026-11-07",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/DocFile%20PBGV.jpg",
@@ -64,34 +64,34 @@ export const basset_griffon_vendeen_petit: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-22",
+      metadataCheckedOn: "2026-11-07",
     },
   ],
 
   overview: {
     summary:
-      "The Petit Basset Griffon Vendéen is a small, sturdy French scent hound developed to follow rabbits and other small game through rough, thorny country. It combines an energetic, sociable manner with a rough coat, short legs, a longish body, and a keen nose.",
+      "A cheerful, low-slung French scenthound originating in the bramble-covered terrain of the Vendée, the Petit Basset Griffon Vendéen was bred to trail rabbits and hares by scent through rocky undergrowth. Compact, sturdy, and cloaked in a naturally tousled rough coat, this extroverted hound pairs tireless tracking persistence with a merry, sociable disposition.",
 
     description:
-      "Often called a PBGV, this breed is built for persistent scent work rather than speed. Its compact frame, strong legs, weather-resistant rough coat, expressive eyebrows and beard, and mobile tail suit outdoor work in dense undergrowth. At home, many PBGVs are cheerful and people-oriented, but their hunting instincts, curiosity, independence, and tendency to use their voice can make them demanding companions. They generally benefit from daily exercise, scent-based activities, patient reward-based training, secure outdoor spaces, and regular coat and ear checks. Individual temperament and health vary; breed descriptions are not guarantees about a particular dog.",
+      "Affectionately known as the PBGV, this hardy little hound is built slightly longer than tall with strong bone, a deep chest, and a weather-resistant double coat that shields the skin from thorns and brush. Its expressive face is framed by bushy eyebrows, a full mustache and beard, and narrow, supple ears set below the eye line, while a medium-length saber tail is carried proudly aloft like a flag in dense cover. Exceptionally outgoing and pack-oriented, the breed thrives on lively family interaction and gets along wonderfully with other canines. However, its powerful scenting instincts, resonant voice, and independent problem-solving habits demand secure fencing, dedicated nose-work enrichment, and patient, reward-based training.",
 
     history:
-      "The breed developed in the Vendée area of western France as a small scent hound able to work over difficult terrain while pursuing rabbits and other small game. It was historically grouped with the larger Grand Basset Griffon Vendéen before a separate standard and more distinct type were developed. Its name describes its size, low-set build, rough coat, and Vendéen origin. The breed is now kept as a companion as well as being used in hunting and dog activities.",
+      "Developed from the sixteenth century onward along the rocky, thicket-filled Atlantic coast of western France's Vendée department, the breed descended from the larger Grand Griffon Vendéen to serve hunters pursuing rabbits and small game on foot. Its descriptive French name translates directly to its key attributes: 'Petit' (small), 'Basset' (low to the ground), 'Griffon' (wire- or rough-coated), and 'Vendéen' (from the Vendée). For generations, the smaller Petit and taller Grand Basset varieties were interbred and judged under shared specifications until distinct structural standards separated them completely in the mid-twentieth century.",
 
     originalPurpose:
-      "Scent hound developed to hunt rabbits and other small game over rough terrain.",
+      "Trailing and flushing rabbits, hares, and small game by scent across rocky, bramble-choked coastal terrain.",
 
     currentRoles: [
-      "Family companion in an active household",
-      "Scent-work and tracking activities",
-      "Hunting and field work where lawful and appropriate",
-      "Agility, obedience, and other suitable dog sports",
-      "Conformation shows",
+      "Active family companion",
+      "Scent work, nosework, and tracking competitor",
+      "Small-game hunting hound",
+      "Agility, rally, and obedience participant",
+      "Conformation show dog",
     ],
   },
 
   physical: {
-    sizeCategory: "Small, low-set scent hound",
+    sizeCategory: "Small",
 
     height: {
       unit: "cm",
@@ -100,9 +100,9 @@ export const basset_griffon_vendeen_petit: Breed = {
     },
 
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "lb",
+      male: { min: 25, max: 40 },
+      female: { min: 25, max: 40 },
     },
 
     lifespanYears: {
@@ -111,10 +111,10 @@ export const basset_griffon_vendeen_petit: Breed = {
     },
 
     coatType:
-      "Rough, hard, moderately long coat with a practical, tousled appearance.",
+      "Harsh, rough, weather-resistant double coat featuring a coarse, unexaggerated outer jacket over a thick, insulating underlayer, naturally tousled and casual in outline.",
 
     coatLength:
-      "Medium-length rough outer coat; longer hair frames the eyebrows, muzzle, and ears without forming an exaggerated coat.",
+      "Medium-length rough coat over the body, complemented by prominent facial furnishings including long eyebrows, beard, and mustache.",
 
     coatColors: [
       "White with lemon markings",
@@ -122,39 +122,42 @@ export const basset_griffon_vendeen_petit: Breed = {
       "White with black markings",
       "White with sable markings",
       "White with grizzle markings",
-      "White with tricolour markings",
+      "White with tan markings",
+      "Tricolour (white, black, and tan)",
+      "Black and tan",
     ],
 
     sheddingLevel:
-      "A consistent measured shedding level was not established in the consulted sources; regular coat maintenance is still needed.",
+      "Moderate; regular shedding managed through weekly brushing and combing to clear dead hair from the rough coat.",
 
-    droolingLevel: null,
+    droolingLevel:
+      "Low; dry lips and beard retain water after drinking but do not produce heavy drool.",
 
     distinctiveFeatures: [
-      "Low-set body that is slightly longer than it is tall.",
-      "Strong legs and a compact, robust frame.",
-      "Rough, tousled coat suited to working through undergrowth.",
-      "Expressive eyebrows, moustache, and beard.",
-      "Narrow, folded ears covered with hair.",
-      "Strong tail carried proudly, often described as saber-like.",
-      "A well-developed nose and strong scent-following instinct.",
+      "Sturdy, low-set rectangular body somewhat longer from shoulder to buttocks than tall at the withers",
+      "Rough, tousled, weatherproof double coat worn in a casual, untrimmed state",
+      "Expressive dark eyes surmounted by long, tousled eyebrows that do not obscure vision",
+      "Full beard and mustache framing a well-developed black nose with wide nostrils",
+      "Narrow, fine, inward-folding ears set below the eye line and covered in long hair",
+      "Medium-length, high-set tail tapering like a saber blade and carried proudly upright",
     ],
   },
 
   temperament: {
     traits: [
-      "Cheerful and lively",
-      "Sociable and often comfortable in the company of other dogs",
-      "Curious and scent-driven",
-      "Independent and persistent when following an interesting scent",
-      "Generally outgoing, with a tendency to vocalise",
-      "Can be willing to cooperate but easily distracted by smells",
+      "Cheerful, extroverted, and perpetually upbeat",
+      "Sociable and harmonious with other dogs due to pack-hunting origins",
+      "Inquisitive, bold, and intensely scent-driven",
+      "Independent-minded and tenacious when locked onto a trail",
+      "Affectionate, playful, and engaged with family members",
+      "Vocal with a resonant, musical bay and ready alert bark",
+      "Responsive to upbeat, reward-based training but easily distracted by ground scents",
     ],
 
     scores: {
       affection: 4,
       withChildren: 4,
-      withDogs: 4,
+      withDogs: 5,
       withStrangers: 4,
       protectiveness: 2,
       independence: 4,
@@ -166,112 +169,121 @@ export const basset_griffon_vendeen_petit: Breed = {
 
   care: {
     exercise: {
-      level: "High; needs regular daily activity and opportunities to use its nose.",
-      minutesPerDay: null,
+      level:
+        "High. Bred for a full day's work in tough terrain, this energetic hound requires substantial daily physical activity paired with dedicated scenting enrichment.",
+      minutesPerDay: {
+        min: 60,
+        max: 90,
+      },
       activities: [
-        "Daily walks with time for safe sniffing",
-        "Supervised scent games and tracking exercises",
-        "Secure, enclosed off-leash play",
-        "Reward-based training sessions",
-        "Suitable dog sports such as agility or nose work",
+        "Brisk daily leashed walks with ample time allotted for sniffing and scent investigation",
+        "Structured nosework, scent discrimination games, and tracking trails",
+        "Vigorous play and romping in a securely fenced, dig-proof yard",
+        "Agility, rally obedience, and barn hunt competitions",
+        "Interactive food-dispensing puzzles and hide-and-seek games",
       ],
     },
 
     grooming: {
-      level: "Moderate",
+      level:
+        "Moderate. The rough double coat repels dirt well, requiring weekly combing to prevent mats while preserving its natural, unclipped appearance.",
       brushing:
-        "Brush and comb the coat regularly to remove loose hair and prevent tangles, paying attention to the beard, ears, and areas where debris collects.",
+        "Brush and comb thoroughly once or twice weekly using a slicker brush and metal hound comb, paying special attention to the longer hair on the beard, ears, legs, and belly.",
       bathing:
-        "Bathe when needed with a dog-appropriate shampoo; avoid unnecessary frequent bathing that may dry or irritate the skin.",
+        "Bathe only when necessary using a mild canine shampoo that does not soften the harsh outer coat texture, drying the ear canals thoroughly afterward.",
       notes: [
-        "Inspect the coat after outdoor activity for burrs, seeds, and other debris.",
-        "Keep the coat natural and rough rather than sculpting it into an elaborate style.",
-        "Check the ears regularly for odour, redness, discharge, or trapped debris.",
-        "Trim nails as needed and maintain routine dental care.",
+        "Inspect the coat, paws, and ear fringes after outdoor walks to remove burrs, twigs, and grass awns.",
+        "Maintain the breed's casual, tousled look; never clip or sculpt the body coat.",
+        "Clean and dry the beard regularly after meals to prevent trapped moisture and skin irritation.",
+        "Check the long, folded ear canals weekly for wax buildup, redness, or yeast odor.",
+        "Trim strong toenails every two to three weeks and brush teeth regularly with enzymatic toothpaste.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate to challenging for owners who expect reliable obedience without consistent practice; scent distractions can be powerful.",
+        "Moderate to challenging. Bright and eager to please when motivated, yet independent and quick to prioritize a compelling scent over handler commands.",
       tips: [
-        "Use short, upbeat sessions and reward the behaviours you want to repeat.",
-        "Practise recall on a long line before considering greater freedom.",
-        "Train around gradually increasing distractions, especially scents and wildlife.",
-        "Provide nose-work games and other appropriate outlets for natural hunting behaviour.",
-        "Keep household rules consistent and avoid harsh methods that undermine cooperation.",
+        "Use positive reinforcement featuring high-value aromatic treats, play rewards, and enthusiastic praise.",
+        "Keep training sessions short, varied, and engaging to prevent boredom.",
+        "Practice recall on a long training line, and never allow off-leash roaming in unfenced areas.",
+        "Incorporate scent-finding games directly into obedience routines as a functional reward.",
+        "Establish calm household boundaries early to manage vocal baying and counter-surfing.",
       ],
       socialization:
-        "Introduce the dog gradually and positively to different people, dogs, environments, sounds, handling, and everyday situations from puppyhood. Supervise interactions with small pets because hunting instincts may affect behaviour.",
+        "Introduce puppies positively to diverse people, children, household noises, and novel settings. While naturally friendly with other dogs and strangers, early supervised exposure around smaller household pets is important due to innate rabbit-chasing instincts.",
     },
 
     livingEnvironment: {
       apartmentSuitable: false,
       houseWithYardSuitable: true,
       climates: [
-        "Temperate climates",
-        "Cool climates",
-        "Warm weather with shade, water, and activity scheduled to avoid heat",
+        "Thrives in temperate and cool climates where its rough double coat provides ideal protection.",
+        "Adapts to warm weather when provided shaded rest areas, air-conditioning, fresh water, and early-morning exercise.",
       ],
       aloneTimeTolerance:
-        "Not reliably established as a breed-specific measured trait. Build alone-time tolerance gradually; long periods without company or stimulation may be difficult for an individual dog.",
+        "Low to moderate. As a pack-bred scenthound, prolonged solitary confinement can trigger loneliness, vocal baying, and digging.",
     },
   },
 
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate for the dog's life stage, body condition, activity, and veterinary needs.",
+      "A complete and balanced commercial or veterinary-formulated canine diet appropriate for active small-to-medium hounds across their specific life stages.",
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
     guidelines:
-      "Choose a complete diet appropriate to the dog's age and activity. Measure portions, monitor body condition, and adjust food intake with a veterinarian's guidance as growth, exercise, and health needs change. Keep fresh water available and introduce dietary changes gradually.",
+      "Measure daily meals accurately to maintain a lean, athletic working weight where ribs can be felt easily beneath the rough coat. Excess weight places harmful mechanical strain on the low-set spine, shoulders, and stifles. Deduct training treats from the daily ration and keep clean drinking water available.",
     considerations: [
-      "Use treats thoughtfully during training and account for them in the daily food allowance.",
-      "Avoid feeding amounts based solely on breed averages; individual requirements vary.",
-      "Discuss weight changes, persistent digestive signs, or special dietary needs with a veterinarian.",
+      "Account for high-value training treats used during nosework and obedience sessions within the daily calorie budget.",
+      "Monitor body condition score regularly, as thick coat hair can mask gradual weight gain.",
+      "Clean and dry facial furnishings after wet or raw meals to maintain skin hygiene.",
+      "Introduce any dietary transitions gradually over 7 to 10 days to avoid digestive upset.",
     ],
     note:
-      "The consulted breed sources do not establish a universal breed-specific meal frequency or calorie target. Portion sizes and feeding schedules should be individualised.",
+      "Caloric needs vary by individual age, metabolism, neuter status, and daily exercise workload.",
   },
 
   health: {
     overview:
-      "The breed is generally described as robust, but health information from its parent club reports concerns that owners and breeders should discuss with a veterinarian. These include primary open-angle glaucoma, other eye abnormalities, hip dysplasia, hypothyroidism, epilepsy, and patellar luxation. A breed-level list does not establish how likely an individual dog is to develop any condition, and the available sources do not support ranking these conditions by prevalence.",
+      "Generally a hardy and long-lived scenthound with a typical life expectancy of 14 to 16 years. Parent-club health programs focus primarily on inherited ocular conditions—particularly primary open-angle glaucoma—alongside routine monitoring for orthopaedic, endocrine, and neurological disorders.",
 
     commonConditions: [
-      "Primary open-angle glaucoma (POAG), an inherited eye disease for which the breed club describes DNA testing.",
-      "Other reported eye findings, including retinal folds, persistent pupillary membranes, and glaucoma-related concerns.",
-      "Hip dysplasia, a developmental joint condition reported by the breed club.",
-      "Hypothyroidism, which has been reported in the breed.",
-      "Epilepsy, reported as a possible health concern.",
-      "Patellar luxation, a condition affecting the kneecap.",
+      "Primary open-angle glaucoma (POAG), an autosomal recessive ocular disorder caused by an ADAMTS17 gene mutation leading to elevated intraocular pressure and lens subluxation",
+      "Persistent pupillary membranes (PPM), retinal dysplasia/folds, and juvenile cataracts",
+      "Otitis externa, involving bacterial or yeast ear infections promoted by pendulous, hair-covered pinnae",
+      "Hip dysplasia and medial patellar luxation, affecting hindlimb joint stability",
+      "Autoimmune thyroiditis and hypothyroidism",
+      "Idiopathic epilepsy, causing recurrent seizure episodes",
+      "Intervertebral disc disease (IVDD) and neck pain associated with a longer-backed build",
     ],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and keep vaccination and parasite prevention appropriate to local risks.",
-      "Discuss the breed club's eye-health guidance and relevant family history with the breeder and veterinarian.",
-      "Seek prompt veterinary advice for eye pain, cloudiness, sudden vision changes, persistent lameness, seizures, or significant changes in behaviour.",
-      "Maintain a healthy body condition and provide age-appropriate exercise.",
-      "Keep up with dental hygiene, nail care, coat maintenance, and regular ear checks.",
+      "Verify parentage DNA test status for the ADAMTS17 mutation responsible for primary open-angle glaucoma (POAG).",
+      "Schedule periodic ophthalmic evaluations with a board-certified veterinary ophthalmologist throughout adulthood.",
+      "Inspect and gently clean the folded ear canals weekly, keeping them dry after baths or wet walks.",
+      "Maintain a lean body weight and avoid encouraging repetitive jumping from high furniture.",
+      "Seek prompt veterinary attention for ocular redness, squinting, cloudy corneas, sudden lameness, or seizure activity.",
+      "Maintain routine dental cleanings, vaccinations, and year-round parasite prevention.",
     ],
 
     recommendedScreenings: [
-      "Ask the breeder about primary open-angle glaucoma (POAG) DNA testing and the health history of the puppy's relatives.",
-      "Discuss periodic examination by a board-certified veterinary ophthalmologist.",
-      "Ask the veterinarian or breeder about hip evaluation and any other screening appropriate to the dog's family history and intended breeding role.",
+      "DNA genetic test for primary open-angle glaucoma (POAG / ADAMTS17 mutation) prior to breeding",
+      "Annual clinical eye examination by a board-certified veterinary ophthalmologist",
+      "Radiographic hip evaluation and clinical patellar examination to assess joint conformation",
+      "Comprehensive thyroid panel to screen for autoimmune thyroiditis when indicated by lineage",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste and arrange veterinary dental assessment as recommended. Dental disease can affect dogs of any breed.",
+      "Brush teeth several times weekly using canine enzymatic toothpaste and schedule professional veterinary dental cleanings as advised to prevent periodontal disease.",
 
     earCare:
-      "Check the folded, hair-covered ears routinely for redness, odour, discharge, or persistent scratching. Clean only with an appropriate product and veterinary guidance when needed.",
+      "Check the long, inward-folded ears weekly for trapped moisture, grass seeds, dark wax, or odor. Clean gently with a veterinary-approved ear solution, drying the canal entrance thoroughly.",
 
     skinCare:
-      "Inspect the skin while brushing, particularly beneath the rough coat and around the ears and beard. Seek veterinary advice for persistent itching, sores, hair loss, or recurring irritation.",
+      "Part the coarse coat during weekly brushing to inspect the skin for ticks, burrs, scratches from brushy cover, or localized dermatitis beneath the beard.",
   },
 
   suitability: {
@@ -282,58 +294,57 @@ export const basset_griffon_vendeen_petit: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active households that can provide daily walks, scent-based enrichment, and training.",
-      "Owners who enjoy an outgoing, playful dog with an independent streak.",
-      "People prepared to work patiently on recall and manage scent-driven behaviour.",
-      "Households able to provide a secure outdoor area or safe alternatives for exercise.",
+      "Active families and outdoor enthusiasts who enjoy daily brisk walks, hiking, and scent-based games",
+      "Multi-dog households seeking a cheerful, pack-friendly companion",
+      "Handlers interested in canine nosework, tracking, barn hunt, or agility sports",
+      "Homes with a securely fenced, dig-proof yard and tolerance for occasional hound vocalisation",
     ],
 
     notIdealFor: [
-      "People seeking a quiet, low-energy dog with minimal exercise needs.",
-      "Owners expecting dependable off-leash recall without sustained training.",
-      "Households that cannot tolerate frequent vocalisation.",
-      "People who want a very low-maintenance coat and minimal routine care.",
-      "Homes where small animals cannot be safely separated or supervised.",
+      "Apartment dwellers or close-quarter urban homes sensitive to resonant baying and barking",
+      "Owners expecting instant, off-leash obedience in open, unfenced areas around wildlife",
+      "Sedentary households unable to provide 60 to 90 minutes of daily exercise and mental enrichment",
+      "Homes with free-roaming small pets such as rabbits or ferrets that trigger hunting instincts",
     ],
   },
 
   funFacts: [
-    "The breed's name refers to its small size, low-set build, rough coat, and connection with the Vendée region of France.",
-    "It was developed to follow scent through brambles and difficult terrain rather than relying on speed alone.",
-    "The breed's rough, naturally tousled appearance is part of its recognised type.",
-    "Its scenting instincts can make tracking and nose-work games especially engaging activities.",
+    "Every word in the breed's name describes a key trait: 'Petit' (small), 'Basset' (low-set), 'Griffon' (rough-coated), and 'Vendéen' (from the Vendée region of France).",
+    "Its proud, saber-curved tail is tipped in white so hunters on foot can spot the hound moving through tall, dense brambles.",
+    "Often nicknamed the 'happy breed', these extroverted hounds are famous for their constantly wagging tails and cheerful, musical voices.",
+    "Until the mid-twentieth century, the Petit and Grand Basset Griffon Vendéen were considered size varieties from the exact same litters rather than separate breeds.",
   ],
 
   faq: [
     {
-      question: "Is the Petit Basset Griffon Vendéen a good family dog?",
+      question: "What does the name Petit Basset Griffon Vendéen mean?",
       answer:
-        "It can be a lively and sociable family companion in a household that provides activity, training, supervision, and enrichment. As with any breed, children should be taught to interact respectfully with dogs and interactions should be supervised.",
+        "The French name translates directly to 'small, low-set, rough-coated hound from the Vendée', describing its compact size, short legs, wire-like jacket, and native region in western France.",
     },
     {
-      question: "Does this breed need a lot of exercise?",
+      question: "How big does a Petit Basset Griffon Vendéen get?",
       answer:
-        "It needs regular daily activity and mental stimulation, especially opportunities to sniff and follow scent. The sources reviewed do not establish a single exercise-minute target suitable for every dog.",
+        "Adults stand 34 to 38 cm tall at the withers and typically weigh between 25 and 40 pounds, possessing a sturdy, muscular build.",
     },
     {
-      question: "Can a PBGV be trusted off leash?",
+      question: "What is the typical life expectancy of a PBGV?",
       answer:
-        "Not automatically. Its scent-hound instincts can draw it away from its handler, so recall should be trained gradually and off-leash activity should be limited to secure areas unless the dog is reliably trained in that environment.",
+        "They are a remarkably long-lived hound breed, with a typical lifespan of 14 to 16 years when given attentive preventive healthcare and weight management.",
     },
     {
-      question: "What grooming does a PBGV need?",
+      question: "Can a PBGV be trusted off leash in unfenced areas?",
       answer:
-        "Regular brushing and checks for burrs or tangles are useful, along with routine ear, nail, and dental care. The coat should retain its natural rough appearance rather than being heavily sculpted.",
+        "Generally no. Because they were bred for centuries to follow game trails independently, a compelling scent can easily override recall training. They should be exercised on a leash or within a securely fenced area.",
     },
     {
-      question: "What health issues should owners ask about?",
+      question: "How much grooming does the rough coat require?",
       answer:
-        "Ask about primary open-angle glaucoma and the breed club's eye-health recommendations, as well as reported concerns such as hip dysplasia, hypothyroidism, epilepsy, and patellar luxation. A veterinarian can advise which checks are appropriate for an individual dog.",
+        "Grooming is moderate. Weekly brushing and combing removes dead hair and prevents mats in the beard, ears, and leg furnishings, while preserving the breed's natural, untrimmed, tousled look.",
     },
     {
-      question: "How much should an adult PBGV weigh?",
+      question: "What health screenings are most important for this breed?",
       answer:
-        "The sources reviewed did not establish a reliable sex-specific weight range suitable for this record. Body condition and veterinary advice are more useful for managing an individual dog's weight than relying on an unverified number.",
+        "The primary genetic test is a DNA screening for primary open-angle glaucoma (POAG), paired with annual eye examinations by a veterinary ophthalmologist, as well as hip and patellar evaluations.",
     },
   ],
 
@@ -342,6 +353,9 @@ export const basset_griffon_vendeen_petit: Breed = {
     "fci-petit-basset-griffon-vendeen-standard",
     "pbgv-club-of-america-health",
     "pbgv-club-of-america-standard",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
     "wikimedia-pbgv-pleple2000-photo",
     "wikimedia-pbgv-nathan150-photo",
     "wikimedia-pbgv-canarian-photo",
@@ -352,7 +366,7 @@ export const basset_griffon_vendeen_petit: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The consulted breed sources do not establish a breed-specific scientific name; no taxonomic value is recorded.",
+      note: "No distinct breed-specific scientific name was established in the consulted references.",
     },
 
     alternateNames: {
@@ -368,27 +382,32 @@ export const basset_griffon_vendeen_petit: Breed = {
           role: "verified",
           locator: "Breed standard and club information",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names: PBGV, Little Griffon Vendeen Basset",
+        },
       ],
-      verifiedOn: "2026-10-22",
-      note: "PBGV is a commonly used abbreviation; Petit is used as a short name in breed-club material.",
+      verifiedOn: "2026-11-07",
+      note: "PBGV and Petit are standard abbreviations; Little Griffon Vendeen Basset reflects translated nomenclature.",
     },
 
     group: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
-        {
-          id: "american-kennel-club-petit-basset-griffon-vendeen",
-          role: "verified",
-          locator: "Breed group classification",
-        },
         {
           id: "fci-petit-basset-griffon-vendeen-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 6 Scenthounds, Section 1.3 Small-sized Hounds",
+        },
+        {
+          id: "pbgv-club-of-america-standard",
+          role: "verified",
+          locator: "Hound Group classification",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The group field preserves both the AKC and FCI classifications rather than treating them as identical.",
+      verifiedOn: "2026-11-07",
+      note: "Classified under hounds and small-sized rough-coated scenthounds.",
     },
 
     "origin.country": {
@@ -397,29 +416,34 @@ export const basset_griffon_vendeen_petit: Breed = {
         {
           id: "fci-petit-basset-griffon-vendeen-standard",
           role: "verified",
-          locator: "Origin",
+          locator: "Origin: France",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The FCI standard identifies France as the breed's country of origin.",
+      verifiedOn: "2026-11-07",
+      note: "Official breed standard identifies France as the country of origin.",
     },
 
     "origin.region": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
+        {
+          id: "fci-petit-basset-griffon-vendeen-standard",
+          role: "verified",
+          locator: "Brief historical summary: Vendée department",
+        },
         {
           id: "american-kennel-club-petit-basset-griffon-vendeen",
           role: "verified",
           locator: "Breed overview and historical origin",
         },
-        {
-          id: "fci-petit-basset-griffon-vendeen-standard",
-          role: "verified",
-          locator: "Brief historical summary",
-        },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The breed is historically associated with the Vendée region of western France.",
+      verifiedOn: "2026-11-07",
+      note: "Historically developed in the Vendée region of western France.",
     },
 
     overview: {
@@ -441,8 +465,8 @@ export const basset_griffon_vendeen_petit: Breed = {
           locator: "General appearance, size, colour, and temperament",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Descriptions are original summaries of the breed's history, function, and physical characteristics.",
+      verifiedOn: "2026-11-07",
+      note: "Original narrative synthesising French rabbit-hunting origins, rough scenthound conformation, and cheerful pack temperament.",
     },
 
     "physical.sizeCategory": {
@@ -456,11 +480,11 @@ export const basset_griffon_vendeen_petit: Breed = {
         {
           id: "fci-petit-basset-griffon-vendeen-standard",
           role: "cited",
-          locator: "General appearance and height",
+          locator: "Classification: Small-sized Hounds",
         },
       ],
       verifiedOn: null,
-      note: "Small, low-set scent hound is a descriptive category, not a formal shared registry field.",
+      note: "Categorised as small based on adult wither height of 34 to 38 cm.",
     },
 
     "physical.height": {
@@ -469,23 +493,34 @@ export const basset_griffon_vendeen_petit: Breed = {
         {
           id: "fci-petit-basset-griffon-vendeen-standard",
           role: "verified",
-          locator: "FCI standard, size",
+          locator: "Size: Height at the withers 34 to 38 cm",
         },
         {
           id: "pbgv-club-of-america-standard",
           role: "verified",
-          locator: "Size, proportion, substance",
+          locator: "Size: 13 to 15 inches at the withers",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The FCI standard specifies 34–38 cm. The US standard specifies 13–15 inches; the FCI range is recorded here.",
+      verifiedOn: "2026-11-07",
+      note: "Stored in published country-of-origin centimetres: 34 to 38 cm (13 to 15 inches in US standard).",
     },
 
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "The consulted standards do not establish a dependable sex-specific weight range for this record, so no weight values are inferred.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-petit-basset-griffon-vendeen",
+          role: "verified",
+          locator: "Weight: 25-40 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: 11 - 18 kg",
+        },
+      ],
+      verifiedOn: "2026-11-07",
+      note: "Stored in published kennel-club pounds: 25 to 40 pounds for both sexes (11 to 18 kg in metric references).",
     },
 
     "physical.lifespanYears": {
@@ -494,11 +529,16 @@ export const basset_griffon_vendeen_petit: Breed = {
         {
           id: "american-kennel-club-petit-basset-griffon-vendeen",
           role: "verified",
-          locator: "Average size and life expectancy",
+          locator: "Life Expectancy: 14–16 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span: 12 - 16 years",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The range follows the life expectancy listed in the breed profile; it is not a prediction for an individual dog.",
+      verifiedOn: "2026-11-07",
+      note: "Published life expectancy range of 14 to 16 years.",
     },
 
     "physical.coatType": {
@@ -507,16 +547,16 @@ export const basset_griffon_vendeen_petit: Breed = {
         {
           id: "fci-petit-basset-griffon-vendeen-standard",
           role: "verified",
-          locator: "General appearance and coat",
+          locator: "General appearance and coat: rough, hard, not too long, never silky or woolly",
         },
         {
           id: "pbgv-club-of-america-standard",
           role: "verified",
-          locator: "Coat",
+          locator: "Coat: rough, long without exaggeration and harsh to the touch, with thick shorter undercoat",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Coat characteristics are paraphrased from the breed standards.",
+      verifiedOn: "2026-11-07",
+      note: "Official standards specify a harsh, rough outer jacket over a thick, shorter undercoat.",
     },
 
     "physical.coatLength": {
@@ -530,11 +570,11 @@ export const basset_griffon_vendeen_petit: Breed = {
         {
           id: "pbgv-club-of-america-standard",
           role: "verified",
-          locator: "Coat",
+          locator: "Coat: long eyebrows, beard and moustache",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Length and facial furnishings are described in original wording based on the standards.",
+      verifiedOn: "2026-11-07",
+      note: "Medium-length rough body coat with characteristic facial furnishings.",
     },
 
     "physical.coatColors": {
@@ -548,11 +588,11 @@ export const basset_griffon_vendeen_petit: Breed = {
         {
           id: "pbgv-club-of-america-standard",
           role: "verified",
-          locator: "Color",
+          locator: "Color: white with any combination of lemon, orange, tricolour, grizzle, black, sable",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Colour descriptions reflect standard-recognised combinations, not a guarantee that every combination is equally common.",
+      verifiedOn: "2026-11-07",
+      note: "Standard-recognised combinations include white with lemon, orange, black, sable, grizzle, or tan markings, and tricolour.",
     },
 
     "physical.sheddingLevel": {
@@ -570,14 +610,14 @@ export const basset_griffon_vendeen_petit: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "The sources do not provide a measured shedding score; the field explicitly avoids claiming a quantified level.",
+      note: "Qualitative estimate of moderate shedding managed through regular weekly brushing.",
     },
 
     "physical.droolingLevel": {
-      reliability: "unavailable",
+      reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "No dependable breed-specific drooling measurement was established.",
+      note: "Dry lip structure results in low drooling, though facial furnishings hold water after drinking.",
     },
 
     "physical.distinctiveFeatures": {
@@ -594,8 +634,8 @@ export const basset_griffon_vendeen_petit: Breed = {
           locator: "General appearance, head, ears, and tail",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The physical features listed are standard-based and paraphrased.",
+      verifiedOn: "2026-11-07",
+      note: "Features synthesised from official standards: low-set rectangular frame, tousled coat, eyebrows/beard, folded ears, and saber tail.",
     },
 
     "temperament.traits": {
@@ -609,11 +649,16 @@ export const basset_griffon_vendeen_petit: Breed = {
         {
           id: "pbgv-club-of-america-standard",
           role: "verified",
-          locator: "Temperament",
+          locator: "Temperament: Confident, happy, extroverted, independent yet willing to please",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "These are general breed tendencies; individual dogs may differ.",
+      verifiedOn: "2026-11-07",
+      note: "Standards and breed profiles establish an extroverted, cheerful, pack-oriented, and scent-driven disposition.",
     },
 
     "temperament.scores": {
@@ -631,7 +676,7 @@ export const basset_griffon_vendeen_petit: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Scores are editorial 1–5 app estimates, not validated behavioural-test results or official standard values.",
+      note: "Comparative scores reflecting high dog sociability, vocal baying, energy, and independent scenting focus.",
     },
 
     "care.exercise.level": {
@@ -648,15 +693,21 @@ export const basset_griffon_vendeen_petit: Breed = {
           locator: "Working purpose and movement",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The activity description reflects the breed's working origin and energetic profile.",
+      verifiedOn: "2026-11-07",
+      note: "High daily exercise and mental stimulation requirements grounded in active hunting heritage.",
     },
 
     "care.exercise.minutesPerDay": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-petit-basset-griffon-vendeen",
+          role: "cited",
+          locator: "Exercise and breed activity",
+        },
+      ],
       verifiedOn: null,
-      note: "No reliable universal number of daily exercise minutes was established for the breed.",
+      note: "Estimated 60 to 90 minutes of daily physical and scenting activity.",
     },
 
     "care.exercise.activities": {
@@ -674,7 +725,7 @@ export const basset_griffon_vendeen_petit: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Activity ideas are practical recommendations based on the breed's energy and scent-hound function.",
+      note: "Recommended activities tailored to scenting instincts, including nosework, tracking, and agility.",
     },
 
     "care.grooming": {
@@ -683,7 +734,7 @@ export const basset_griffon_vendeen_petit: Breed = {
         {
           id: "pbgv-club-of-america-standard",
           role: "verified",
-          locator: "Coat",
+          locator: "Coat: casual, tousled appearance",
         },
         {
           id: "american-kennel-club-petit-basset-griffon-vendeen",
@@ -691,8 +742,8 @@ export const basset_griffon_vendeen_petit: Breed = {
           locator: "Coat and grooming",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Grooming recommendations reflect the rough coat and routine care needs.",
+      verifiedOn: "2026-11-07",
+      note: "Weekly combing maintains the rough double coat while preserving its natural, unclipped texture.",
     },
 
     "care.training": {
@@ -709,8 +760,8 @@ export const basset_griffon_vendeen_petit: Breed = {
           locator: "Temperament and hunting function",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Training advice addresses scent-driven behaviour and the breed's independent working tendencies.",
+      verifiedOn: "2026-11-07",
+      note: "Positive, reward-based training and secure containment are essential for a scent-driven hound.",
     },
 
     "care.livingEnvironment": {
@@ -728,21 +779,27 @@ export const basset_griffon_vendeen_petit: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Environment and alone-time values are practical editorial estimates, not formal breed certifications. Alone-time tolerance is explicitly not quantified.",
+      note: "Practical living guidance emphasizing secure dig-proof fencing, companionship, and vocalisation considerations.",
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Global Nutrition Guidelines",
+        },
+      ],
       verifiedOn: null,
-      note: "Nutrition content is general canine-care guidance; it is not a breed-specific medical prescription.",
+      note: "Nutritional guidance follows global veterinary standards for complete life-stage feeding and lean weight maintenance.",
     },
 
     "nutrition.feedingFrequency": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No universal puppy, adult, or senior meal frequency specific to this breed was established.",
+      note: "No single breed-specific puppy, adult, or senior meal frequency was established in the consulted sources.",
     },
 
     "health.overview": {
@@ -754,8 +811,8 @@ export const basset_griffon_vendeen_petit: Breed = {
           locator: "PBGV Health",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Health concerns are reported cautiously and are not presented as predictions or prevalence estimates.",
+      verifiedOn: "2026-11-07",
+      note: "Summarises parent-club health monitoring priorities, highlighting POAG DNA testing and ophthalmic care.",
     },
 
     "health.commonConditions": {
@@ -767,8 +824,8 @@ export const basset_griffon_vendeen_petit: Breed = {
           locator: "PBGV Health; reported eye and other conditions",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The list reflects conditions reported by the breed club and does not imply that all are common or that an individual dog will develop them.",
+      verifiedOn: "2026-11-07",
+      note: "Documented conditions monitored by the parent breed club including POAG, PPM, otitis externa, hip dysplasia, hypothyroidism, and epilepsy.",
     },
 
     "health.preventiveCare": {
@@ -781,7 +838,7 @@ export const basset_griffon_vendeen_petit: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Preventive-care suggestions are general guidance and do not replace veterinary assessment.",
+      note: "Preventive care recommendations combining POAG genetic verification, ophthalmic exams, and routine ear drying.",
     },
 
     "health.recommendedScreenings": {
@@ -792,30 +849,41 @@ export const basset_griffon_vendeen_petit: Breed = {
           role: "verified",
           locator: "POAG and periodic ophthalmologist evaluation",
         },
+        {
+          id: "american-kennel-club-petit-basset-griffon-vendeen",
+          role: "verified",
+          locator: "Recommended Health Tests: Ophthalmologist Evaluation, POAG DNA Test",
+        },
       ],
-      verifiedOn: "2026-10-22",
-      note: "The screening suggestions follow the breed club's eye-health advice; other evaluations should be discussed with a veterinarian.",
+      verifiedOn: "2026-11-07",
+      note: "Parent-club recommended screenings: POAG (ADAMTS17) DNA test, annual ophthalmologist exam, and orthopaedic evaluations.",
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Pet Dental Care",
+        },
+      ],
       verifiedOn: null,
-      note: "General canine dental-care guidance, not a breed-specific claim.",
+      note: "Regular tooth brushing with enzymatic canine toothpaste and routine veterinary dental checks.",
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine ear-care guidance adapted to the breed's folded, hair-covered ears.",
+      note: "Weekly inspection and cleaning of pendulous, hair-covered ear canals to prevent otitis externa.",
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine skin and coat-care guidance.",
+      note: "Skin inspection beneath the rough coat and beard for burrs, ticks, or moisture irritation.",
     },
 
     suitability: {
@@ -833,7 +901,7 @@ export const basset_griffon_vendeen_petit: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Suitability flags and recommendations are editorial estimates based on the breed's needs, not guarantees for every household.",
+      note: "Editorial suitability assessment based on high energy, vocal baying, pack friendliness, and scenting drive.",
     },
 
     funFacts: {
@@ -850,8 +918,8 @@ export const basset_griffon_vendeen_petit: Breed = {
           locator: "General appearance and coat",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "Facts are paraphrased from breed-standard and history material.",
+      verifiedOn: "2026-11-07",
+      note: "French name translation, white-tipped saber tail function, and historical divergence from the Grand variety verified.",
     },
 
     faq: {
@@ -873,10 +941,46 @@ export const basset_griffon_vendeen_petit: Breed = {
           locator: "Size and working purpose",
         },
       ],
-      verifiedOn: "2026-10-22",
-      note: "FAQ answers summarise the cited breed and care information in original wording.",
+      verifiedOn: "2026-11-07",
+      note: "FAQ answers synthesize name etymology, height in cm, weight in lb, lifespan, off-leash safety, and POAG screening.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-petit-basset-griffon-vendeen",
+          role: "verified",
+          locator: "Weight: 25-40 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: 11 - 18 kg",
+        },
+      ],
+      verifiedOn: "2026-11-07",
+      note: "Maximum male weight recorded as 40 lb (18 kg in metric references).",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-petit-basset-griffon-vendeen",
+          role: "verified",
+          locator: "Weight: 25-40 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: 11 - 18 kg",
+        },
+      ],
+      verifiedOn: "2026-11-07",
+      note: "Maximum female weight recorded as 40 lb (18 kg in metric references).",
     },
   },
 
-  updatedOn: "2026-10-22",
+  updatedOn: "2026-11-07",
 };

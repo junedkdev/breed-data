@@ -1,13 +1,15 @@
 import type { Breed } from "../../schema/breed.types";
 
-export const yorkshire_terrier: Breed = {
-  slug: "yorkshire-terrier",
-  name: "Yorkshire Terrier",
+export const airedale_terrier: Breed = {
+  slug: "airedale-terrier",
+  name: "Airedale Terrier",
   scientificName: null,
   alternateNames: [
-    "Yorkie",
+    "King of Terriers",
+    "Waterside Terrier",
+    "Bingley Terrier",
   ],
-  group: "Toy",
+  group: "Terrier",
   origin: {
     country: "Yorkshire, England",
     region: null,
@@ -15,8 +17,8 @@ export const yorkshire_terrier: Breed = {
   images: [],
   overview: {
     summary: null,
-    description: "Small toy terrier with long, silky steel blue and golden tan coat and confident, spirited personality. Despite their tiny size, these feisty dogs possess the bold terrier temperament in a compact package.",
-    history: "Developed during the Industrial Revolution in Yorkshire and Lancashire by Scottish weavers and mill workers. Bred to catch rats in textile mills and mines, combining various terrier breeds including the now-extinct Paisley and Clydesdale Terriers.",
+    description: "The largest of all terrier breeds, the Airedale is a large, athletic dog with a distinctive wiry black and tan coat and confident, alert demeanor. Known as the 'King of Terriers', this highly intelligent and versatile breed combines courage with an outgoing temperament.",
+    history: "Developed in the Aire Valley of Yorkshire, England, by crossing Otterhounds with various terrier breeds. Originally bred by working-class fanciers to hunt otters and rats, their intelligence and courage led to their use as police dogs, war dogs, and all-around companions.",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -25,28 +27,28 @@ export const yorkshire_terrier: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 18,
-        max: 20,
+        min: 58,
+        max: 61,
       },
       female: {
-        min: 18,
-        max: 20,
+        min: 56,
+        max: 58,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 1.8,
-        max: 3.2,
+        min: 23,
+        max: 32,
       },
       female: {
-        min: 1.8,
-        max: 3.2,
+        min: 18,
+        max: 25,
       },
     },
     lifespanYears: {
-      min: 12,
-      max: 16,
+      min: 11,
+      max: 14,
     },
     coatType: null,
     coatLength: null,
@@ -76,11 +78,11 @@ export const yorkshire_terrier: Breed = {
   temperament: {
     traits: [
       "Confident",
-      "courageous",
-      "energetic",
-      "affectionate",
-      "alert",
       "intelligent",
+      "courageous",
+      "alert",
+      "energetic",
+      "outgoing",
     ],
     scores: {
       affection: null,
@@ -162,7 +164,7 @@ export const yorkshire_terrier: Breed = {
           locator: "breed.alt_names",
         },
       ],
-      verifiedOn: "2026-11-03",
+      verifiedOn: "2026-11-08",
       note: null,
     },
     scientificName: {
@@ -180,7 +182,7 @@ export const yorkshire_terrier: Breed = {
           locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-11-03",
+      verifiedOn: "2026-11-08",
       note: null,
     },
     "origin.country": {
@@ -192,7 +194,7 @@ export const yorkshire_terrier: Breed = {
           locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-11-03",
+      verifiedOn: "2026-11-08",
       note: null,
     },
     "origin.region": {
@@ -216,7 +218,7 @@ export const yorkshire_terrier: Breed = {
           locator: "breed.description",
         },
       ],
-      verifiedOn: "2026-11-03",
+      verifiedOn: "2026-11-08",
       note: null,
     },
     "overview.history": {
@@ -228,7 +230,7 @@ export const yorkshire_terrier: Breed = {
           locator: "breed.history",
         },
       ],
-      verifiedOn: "2026-11-03",
+      verifiedOn: "2026-11-08",
       note: null,
     },
     "overview.originalPurpose": {
@@ -258,8 +260,8 @@ export const yorkshire_terrier: Breed = {
           locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The Dog API gave one range for the breed and did not separate males and females.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -270,7 +272,7 @@ export const yorkshire_terrier: Breed = {
           locator: "breed.life_span",
         },
       ],
-      verifiedOn: "2026-11-03",
+      verifiedOn: "2026-11-08",
       note: null,
     },
     "physical.coatType": {
@@ -294,7 +296,7 @@ export const yorkshire_terrier: Breed = {
           locator: "GET /breeds/{id}/colours",
         },
       ],
-      verifiedOn: "2026-11-03",
+      verifiedOn: "2026-11-08",
       note: "The colour endpoint lists variants registered for this breed, including variants applied across the species. Keep only the colours that belong to this breed.",
     },
     "physical.sheddingLevel": {
@@ -324,7 +326,7 @@ export const yorkshire_terrier: Breed = {
           locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-11-03",
+      verifiedOn: "2026-11-08",
       note: null,
     },
     "temperament.scores.affection": {
@@ -612,8 +614,8 @@ export const yorkshire_terrier: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The Dog API gave one range for the breed and did not separate males and females.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
     "physical.weight.female.max": {
       reliability: "reliable_source",
@@ -624,9 +626,9 @@ export const yorkshire_terrier: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The Dog API gave one range for the breed and did not separate males and females.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
   },
-  updatedOn: "2026-11-03",
+  updatedOn: "2026-11-08",
 };

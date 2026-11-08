@@ -4,8 +4,12 @@ export const chow_chow: Breed = {
   slug: "chow-chow",
   name: "Chow Chow",
   scientificName: null,
-  alternateNames: [],
-  group: "AKC Non-Sporting Group; FCI Group 5 — Spitz and primitive types, Section 5 — Asian Spitz and related breeds",
+  alternateNames: [
+    "Chow",
+    "Tang Quan",
+    "Canton Dog",
+  ],
+  group: "Non-Sporting; Asian Spitz and Related Breeds",
 
   origin: {
     country: "China",
@@ -17,7 +21,7 @@ export const chow_chow: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Chow_Chow_dog.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Chow_Chow_dog.jpg",
       title: "Chow Chow dog.jpg",
-      description: "Adult female Chow Chow.",
+      description: "Adult female Chow Chow with a dense rough coat.",
       creator: "Andrea Papaccio",
       uploader: "Andrea Papaccio",
       capturedOn: "2025-10-24",
@@ -28,13 +32,13 @@ export const chow_chow: Breed = {
       attribution:
         "Photo by Andrea Papaccio, via Wikimedia Commons; dedicated to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Credit provided voluntarily.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-23",
+      metadataCheckedOn: "2026-11-07",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/01_Chow_Chow.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:01_Chow_Chow.jpg",
       title: "01 Chow Chow.jpg",
-      description: "Chow Chow dog.",
+      description: "Red rough-coated Chow Chow standing outdoors.",
       creator: "Prayitno",
       uploader: "Frei sein (Flickr upload bot)",
       capturedOn: "2013-02-09",
@@ -45,13 +49,13 @@ export const chow_chow: Breed = {
       attribution:
         "Photo by Prayitno, via Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Changes, if any, must be indicated.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-23",
+      metadataCheckedOn: "2026-11-07",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/02_-_Chow-chow.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:02_-_Chow-chow.jpg",
       title: "02 - Chow-chow.jpg",
-      description: "Chow Chow dog.",
+      description: "Adult Chow Chow standing in three-quarter profile.",
       creator: "Olga Filonenko",
       uploader: "Frei sein (Flickr upload bot)",
       capturedOn: "2012-10-20",
@@ -62,49 +66,45 @@ export const chow_chow: Breed = {
       attribution:
         "Photo by Olga Filonenko, via Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Changes, if any, must be indicated; adaptations must comply with the same or a compatible share-alike license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-23",
+      metadataCheckedOn: "2026-11-07",
     },
   ],
 
   overview: {
     summary:
-      "The Chow Chow is a sturdy, compact dog known for its dense coat, lion-like ruff, small upright ears and distinctive blue-black tongue. Typically dignified and independent, it often forms close bonds with its household while remaining reserved around unfamiliar people.",
+      "Instantly recognisable by its lion-like ruff, square spitz silhouette, small rounded ears, and solid blue-black tongue, the Chow Chow is a sturdy, self-contained dog of Chinese origin. It pairs quiet devotion to its immediate household with a dignified, discerning reserve toward strangers.",
 
     description:
-      "Recognisable by its broad head, deep-set eyes, plush coat and tail carried over the back, the Chow Chow has a strong, squarely built frame. It occurs in rough-coated and smooth-coated varieties. Despite its substantial coat, it should be able to move freely and should not be burdened by excess hair in hot weather. Chow Chows are often self-possessed and loyal, but they may not welcome every stranger or unfamiliar dog. Early, positive socialisation, respectful handling and consistent reward-based training help owners manage these tendencies. Grooming is a major part of care: the dense undercoat can tangle or mat if it is not thoroughly brushed. Owners must also take heat management seriously, especially in warm or humid conditions.",
+      "Built on a compact, muscular, squarely proportioned frame with heavy bone, the Chow Chow carries its tail high and close to the back and moves with a characteristic short, pendulum-like stride produced by minimally angled hind legs. The breed comes in both rough and smooth double-coated varieties, neither of which should ever be so excessive in coat volume that movement or heat tolerance is compromised. Because the almond-shaped eyes sit deeply within the skull, peripheral vision is naturally restricted, so handlers and visitors should approach calmly from the front rather than startling the dog from the side or rear. Indoors, a well-adjusted adult is typically clean, quiet, and fastidious, yet strong personal boundaries and watchful instincts require early socialisation, respectful handling, thorough undercoat maintenance, and diligent protection from warm or humid weather.",
 
     history:
-      "The Chow Chow is an old Chinese breed associated with guarding and hunting. Its history has been documented over many centuries, although detailed accounts of its earliest ancestry should be treated cautiously. The breed became known in Britain after dogs arrived there in the late eighteenth century, and it gained wider public recognition in the twentieth century. Today it is kept mainly as a companion and household watchdog.",
+      "With roots in China stretching back more than two millennia—including depictions from the Han and Tang dynasties—ancestral dogs of this spitz type fulfilled diverse roles ranging from guarding estates and hauling loads to hunting game. Maritime trade introduced examples of the breed to Great Britain during the late eighteenth and nineteenth centuries, where dedicated kennel breeding refined its modern presentation prior to formal recognition in Europe and North America around the turn of the twentieth century. In contemporary homes, the breed is kept primarily as a steadfast companion, household sentinel, and show dog.",
 
     originalPurpose:
-      "A versatile dog historically used for guarding and hunting; modern roles commonly include companionship and watchfulness.",
+      "Guarding property, hunting, and general utility work in China; today kept primarily for companionship and household watchfulness.",
 
     currentRoles: [
-      "Companion dog",
-      "Household watchdog",
-      "Conformation showing",
-      "Reward-based training and enrichment activities",
-      "Leashed walks and moderate outdoor activity",
+      "Loyal household companion",
+      "Alert domestic watchdog",
+      "Conformation show competitor",
+      "Participant in calm, reward-based training and scent enrichment",
+      "Steady walking partner during cool weather",
     ],
   },
 
   physical: {
-    sizeCategory: "Medium-sized, compact and sturdy",
+    sizeCategory: "Medium-sized, squarely built, heavy-boned spitz",
 
-    // FCI standard measurements in centimetres.
     height: {
       unit: "cm",
       male: { min: 48, max: 56 },
       female: { min: 46, max: 51 },
     },
 
-    // AKC publishes an overall breed weight range, not sex-specific ranges.
-    // The same overall range is recorded for both sexes because the schema
-    // requires a BySex structure; it should not be read as a sex-specific norm.
     weight: {
-      unit: "kg",
-      male: { min: 20.4, max: 31.8 },
-      female: { min: 20.4, max: 31.8 },
+      unit: "lb",
+      male: { min: 45, max: 70 },
+      female: { min: 45, max: 70 },
     },
 
     lifespanYears: {
@@ -113,48 +113,48 @@ export const chow_chow: Breed = {
     },
 
     coatType:
-      "A dense double coat in either rough or smooth form. The rough coat has a coarse, profuse outer coat and soft woolly undercoat, with a fuller mane or ruff around the neck. The smooth coat is shorter, dense and plush-like.",
+      "Dense double coat occurring in two distinct varieties: a rough coat with a profuse, coarse, off-standing outer jacket, soft woolly undercoat, thick neck ruff, and thigh breeching; and a smooth coat with a short, dense, straight, plush-textured outer layer over a definite undercoat.",
 
-    coatLength: "Rough: long and profuse; smooth: short and dense",
+    coatLength: "Rough variety: long, abundant, and off-standing; Smooth variety: short, dense, and plush",
 
     coatColors: [
       "Black",
       "Red",
       "Blue",
       "Fawn",
+      "Cinnamon",
       "Cream",
       "White",
     ],
 
     sheddingLevel:
-      "High, with noticeable seasonal shedding. The dense undercoat needs thorough brushing to remove loose hair and prevent mats.",
+      "High, with heavy seasonal coat blows in spring and autumn that require thorough line-brushing down to the skin to clear trapped undercoat and prevent matting.",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Blue-black tongue, a characteristic feature of the breed",
-      "Broad, flat skull and a broad muzzle",
-      "Small, thick, upright ears with rounded tips",
-      "Deep-set, oval eyes that contribute to a serious expression",
-      "Dense double coat, often forming a mane-like ruff",
-      "Compact, sturdy body with a tail carried high over the back",
-      "Distinctive short-striding, pendulum-like movement",
+      "Solid blue-black tongue and dark-pigmented mouth tissues",
+      "Broad, flat skull paired with a short, wide, square muzzle",
+      "Small, thick, stiffly erect ears with slightly rounded tips set wide apart and tilted slightly forward",
+      "Deep-set, obliquely placed almond eyes that narrow peripheral vision and create a serious, dignified expression",
+      "Profuse lion-like neck ruff and feathering in the rough-coated variety, or dense velvety plush in the smooth variety",
+      "Short, compact, square body with a high-set tail resting closely over the back",
+      "Straight-hocked hindquarters producing a short, brisk, pendulum-like gait",
     ],
   },
 
   temperament: {
     traits: [
-      "Independent",
-      "Loyal to familiar people",
-      "Dignified and serious-minded",
-      "Often reserved with strangers",
-      "Alert and watchful",
-      "Can be selective about unfamiliar dogs",
-      "May dislike rough or intrusive handling",
-      "Benefits from calm, consistent boundaries",
+      "Dignified and self-possessed",
+      "Deeply loyal to household members",
+      "Independent-minded",
+      "Aloof and discerning with strangers",
+      "Alert and naturally watchful",
+      "Selective toward unfamiliar dogs",
+      "Fastidious and quiet indoors",
+      "Dislikes intrusive or forceful handling",
     ],
 
-    // Editorial estimates on a 1–5 scale, not standardised test results.
     scores: {
       affection: 3,
       withChildren: 2,
@@ -172,18 +172,17 @@ export const chow_chow: Breed = {
     exercise: {
       level: "Moderate",
 
-      // Practical estimate for a healthy adult; individual needs vary.
       minutesPerDay: {
         min: 45,
         max: 60,
       },
 
       activities: [
-        "Daily walks during cooler parts of the day",
-        "Calm sniffing walks and controlled outdoor exploration",
-        "Short reward-based training sessions",
-        "Food puzzles and low-impact enrichment",
-        "Gentle play in a cool, safe environment",
+        "Steady lead walks scheduled during the coolest morning and evening hours",
+        "Unrushed sniffing strolls in shaded parks or quiet neighbourhoods",
+        "Brief, reward-based obedience and cooperative-care exercises",
+        "Indoor scent games and food-dispensing puzzles",
+        "Moderate off-lead exploration inside a securely fenced private yard",
       ],
     },
 
@@ -191,37 +190,36 @@ export const chow_chow: Breed = {
       level: "High",
 
       brushing:
-        "Brush thoroughly at least twice a week, increasing frequency during heavy shedding or when the coat tangles easily. Work through the outer coat and undercoat rather than brushing only the surface. Pay particular attention behind the ears, around the ruff, under the legs and near the hindquarters.",
+        "Line-brush thoroughly two to three times per week—and daily during seasonal shedding—parting the coat in sections down to the skin with a slicker brush and metal comb so impacted undercoat does not mat behind the ears, around the collar ruff, in the armpits, or along the breeches.",
 
       bathing:
-        "Bathe when needed with dog-appropriate products, rinse thoroughly and dry the dense coat completely. A cool-air dryer can help remove moisture from the undercoat. Avoid leaving the coat damp against the skin, and seek professional grooming help if mats are difficult to remove safely.",
+        "Bathe every 4 to 6 weeks or as needed with a gentle canine shampoo, rinse completely, and dry all the way to the skin using a high-velocity cool-air dryer so trapped dampness does not trigger hot spots.",
 
       notes: [
-        "Check the coat down to the skin for mats, trapped debris and irritation.",
-        "Inspect the eyes and ears during routine grooming.",
-        "Trim nails regularly and brush teeth with dog-specific dental products.",
-        "Monitor the skin for redness, persistent itching or sores hidden under the coat.",
-        "Do not shave the coat solely to make the dog cooler without veterinary or professional grooming advice; focus on shade, water and avoiding heat exposure.",
-        "Take extra care during seasonal shedding, when loose undercoat can accumulate quickly.",
+        "Always part the dense undercoat to the skin to check for hidden tangles, grass seeds, parasites, or early redness.",
+        "Wipe the facial folds and eye corners gently and check the small upright ears for wax or debris during weekly brushing.",
+        "Keep nails trimmed short so the round, cat-like feet maintain proper posture.",
+        "Never shave the double coat in an effort to cool the dog unless medically directed by a veterinarian, as the coat insulates and shields skin; rely instead on air conditioning, shade, and thorough undercoat removal.",
+        "Leave the natural outline intact rather than scissoring or sculpting the coat, tidying only the feet if needed.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate to challenging; the breed's independent temperament can make repetitive or forceful training ineffective.",
+        "Moderate to challenging; intelligent and quick to housebreak, yet strongly independent and unresponsive to harsh corrections or repetitive drilling.",
 
       tips: [
-        "Use rewards, praise and short, clear training sessions.",
-        "Teach handling, grooming and veterinary-care routines gradually and positively.",
-        "Practise calm greetings and give the dog space when it appears uncomfortable.",
-        "Introduce unfamiliar people and dogs in controlled, low-pressure settings.",
-        "Teach loose-leash walking and reliable responses before increasing distractions.",
-        "Avoid physical punishment, forced greetings and confrontational handling.",
-        "Supervise interactions with children and teach them not to hug, climb on or disturb a resting dog.",
+        "Keep sessions short, calm, and purposeful, rewarding cooperation with high-value treats and quiet praise.",
+        "Because deep-set eyes limit side vision, always speak to the dog and approach from the front before touching or attaching a lead.",
+        "Condition cooperative grooming, paw handling, eye inspection, and veterinary examinations from early puppyhood.",
+        "Establish polite doorway and visitor routines so the dog can relax in its own space rather than feeling pressured to greet strangers.",
+        "Practise loose-lead walking and neutral passing around unfamiliar dogs before visiting busy public areas.",
+        "Never use physical intimidation or confrontational corrections, which erode trust and provoke defensive resistance.",
+        "Ensure children understand never to hug, corner, or disturb a resting dog.",
       ],
 
       socialization:
-        "Begin early, using calm and positive introductions to people, dogs, handling, sounds and everyday settings. Continue throughout adulthood, without forcing close contact. Reward relaxed behaviour and respect the dog's signals when it needs space.",
+        "Start structured, low-pressure socialisation early in puppyhood and maintain it throughout life—rewarding calm observation of diverse people, polite dogs, grooming tools, and everyday environments without forcing unsolicited physical contact from strangers.",
     },
 
     livingEnvironment: {
@@ -230,8 +228,8 @@ export const chow_chow: Breed = {
 
       climates: [
         "Cool and temperate climates",
-        "Warm climates only with careful heat management, shade, ventilation and constant access to water",
-        "Avoid strenuous exercise during hot or humid weather",
+        "Warm climates only when reliable indoor air conditioning, shade, and strict heat-avoidance routines are maintained",
+        "Avoid midday heat, high humidity, and strenuous warm-weather exertion",
       ],
 
       aloneTimeTolerance: null,
@@ -240,73 +238,73 @@ export const chow_chow: Breed = {
 
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate to the dog's life stage, body condition, activity level and veterinary needs.",
+      "Complete, balanced canine diet tailored to the dog's life stage, activity level, coat health, and veterinary needs.",
 
     feedingFrequency: {
       puppy:
-        "Feed a complete puppy diet in age-appropriate meals, following the food manufacturer's instructions and veterinary advice.",
+        "Feed a balanced medium-to-large puppy ration divided into 3 meals daily during early growth, transitioning to 2 meals daily as maturity approaches.",
 
       adult:
-        "Many adult dogs do well with two measured meals a day. Adjust portions to maintain a healthy body condition and account for activity changes.",
+        "Two measured meals per day, adjusted to preserve a firm, muscular build without excess weight over the ribs and joints.",
 
       senior: null,
     },
 
     guidelines:
-      "Measure food portions, provide fresh water at all times and monitor body condition regularly. Choose a complete diet appropriate for the dog's age and health. Treats count toward daily intake. Ask a veterinarian for individual advice if weight changes, skin problems or digestive symptoms persist.",
+      "Weigh or measure daily rations, keep clean drinking water accessible at all times, and assess body condition by feeling the ribs and waist beneath the thick coat rather than judging by visual bulk alone.",
 
     considerations: [
-      "Avoid overfeeding and monitor weight and body condition.",
-      "Adjust portions for age, activity and veterinary needs.",
-      "Introduce diet changes gradually unless a veterinarian recommends otherwise.",
-      "Discuss persistent itching, recurrent skin problems or suspected food reactions with a veterinarian rather than changing diets repeatedly without guidance.",
-      "In hot weather, ensure fresh water is always available and avoid exercising immediately in the heat.",
+      "Excess weight places avoidable strain on the hips, elbows, stifles, and straight hock joints, so keep body condition lean and well muscled.",
+      "Count training treats within the daily calorie budget.",
+      "Transition between foods gradually over 7 to 10 days unless a veterinarian directs otherwise.",
+      "Consult a veterinarian if recurrent skin itchiness, ear inflammation, dull coat quality, or digestive upset develops.",
+      "Ensure cool, fresh water is constantly available, especially after walks or during warm weather.",
     ],
 
     note:
-      "Individual calorie requirements vary. Use feeding guidance as a starting point and adjust with body-condition monitoring and veterinary advice.",
+      "Calorie needs vary with age, coat variety, climate, and activity; confirm portion sizes and any dietary supplements with a veterinarian.",
   },
 
   health: {
     overview:
-      "Chow Chows benefit from routine veterinary care and attention to their eyes, joints, skin, weight and heat tolerance. Breed-club screening guidance includes eye, hip, elbow, patellar and autoimmune thyroiditis evaluations. These recommendations help breeders and owners assess selected risks; they do not guarantee that a dog will be free of inherited or later-developing conditions.",
+      "The Chow Chow generally lives 8 to 12 years and benefits from proactive attention to joint soundness, eyelid conformation, thyroid function, skin hygiene beneath the heavy double coat, and heat safety. Parent-club health programs recommend pre-breeding evaluations of the hips, elbows, patellas, eyes, and thyroid to help reduce inherited disease risk, though screening clearances cannot guarantee that an individual dog will remain free of orthopedic, ophthalmic, or endocrine conditions throughout life.",
 
     commonConditions: [
-      "Hip dysplasia: a developmental joint condition for which screening is recommended.",
-      "Elbow dysplasia: a developmental joint concern included in breed screening recommendations.",
-      "Patellar luxation: displacement of the kneecap, for which screening is recommended.",
-      "Eye disorders: eye examinations are included in breed screening recommendations; seek veterinary assessment for squinting, discharge, redness or discomfort.",
-      "Autoimmune thyroiditis: a thyroid-related concern included in breed screening guidance.",
-      "Skin and coat problems: dense undercoat and mats can hide irritation or contribute to discomfort if grooming is neglected.",
-      "Heat-related illness: a potentially serious risk when a heavily coated dog is exposed to high temperatures or strenuous exercise in hot weather.",
+      "Eyelid entropion and other ocular disorders: inward-rolling eyelids can rub the cornea and cause squinting, tearing, or ulceration; veterinary ophthalmologist screening is recommended.",
+      "Hip dysplasia: abnormal hip joint development included in parent-club orthopedic screening guidance.",
+      "Elbow dysplasia: developmental elbow joint incongruity monitored through radiographic screening programs.",
+      "Patellar luxation: slippage of the kneecap in the hind limb, for which veterinary physical evaluation is recommended.",
+      "Autoimmune thyroiditis (hypothyroidism): immune-mediated thyroid disease tracked through breed health-testing panels.",
+      "Skin irritation and acute moist dermatitis (hot spots): dense, unbrushed or damp undercoat can trap moisture and conceal localized skin inflammation.",
+      "Heat-related illness (heatstroke): heavy double coats and stout build increase vulnerability to overheating in warm or humid conditions.",
     ],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and keep vaccinations and parasite prevention appropriate to local risks.",
-      "Ask the breeder for documented health screening results and discuss their meaning with a veterinarian.",
-      "Maintain a healthy body condition and adjust exercise and feeding as the dog ages.",
-      "Monitor the eyes, skin, ears, mobility and general behaviour for changes.",
-      "Provide shade, ventilation and fresh water, and avoid strenuous exercise in hot or humid conditions.",
-      "Seek urgent veterinary care for breathing difficulty, collapse, marked weakness or suspected heatstroke.",
+      "Schedule regular veterinary wellness checks, vaccinations, and parasite control suited to local risks.",
+      "Review documented parent-dog screening clearances for eyes, hips, elbows, patellas, and thyroid when selecting a puppy.",
+      "Keep the dog at a lean, muscular weight to reduce mechanical stress on the hips, elbows, and stifles.",
+      "Inspect the eyes for tearing or squinting and part the coat weekly to check the skin and ears.",
+      "Restrict outdoor exercise to cool hours, provide air conditioning or shade, and never leave the dog in a warm vehicle or unshaded yard.",
+      "Seek immediate emergency veterinary care for heavy panting that does not subside, noisy breathing, weakness, or collapse.",
     ],
 
     recommendedScreenings: [
-      "Eye examination by a qualified veterinary ophthalmologist",
-      "Hip dysplasia evaluation",
-      "Elbow dysplasia evaluation",
-      "Patellar luxation evaluation",
-      "Autoimmune thyroiditis evaluation",
-      "Optional cardiac evaluation where advised by the breeder's veterinarian or relevant health program",
+      "Comprehensive eye examination by a board-certified veterinary ophthalmologist",
+      "Radiographic hip dysplasia evaluation",
+      "Radiographic elbow dysplasia evaluation",
+      "Patellar luxation physical evaluation",
+      "Autoimmune thyroiditis laboratory panel",
+      "Optional cardiac evaluation when advised by a veterinarian or breeding program",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste and a suitable toothbrush. Arrange veterinary dental checks and do not use human toothpaste.",
+      "Brush teeth several times a week using canine-formulated toothpaste and schedule routine veterinary dental assessments.",
 
     earCare:
-      "Check the ears regularly for redness, odour, discharge or discomfort. Clean only as advised by a veterinarian and seek care if signs of infection appear.",
+      "Inspect the small, thickly furred upright ears weekly for redness, wax accumulation, odour, or sensitivity, cleaning gently only with veterinarian-approved solutions.",
 
     skinCare:
-      "Part the coat to inspect the skin during grooming. Check for mats, moisture, parasites, redness and persistent itching. Dense fur can conceal skin changes, so seek veterinary advice if irritation, sores or hair loss persist.",
+      "Part the coat down to the skin during brushing to detect mats, trapped moisture, parasites, or hot spots early, and always dry the undercoat completely after bathing or rain.",
   },
 
   suitability: {
@@ -317,65 +315,65 @@ export const chow_chow: Breed = {
     apartmentLiving: null,
 
     idealFor: [
-      "Owners who appreciate an independent, dignified companion",
-      "Households prepared for frequent, thorough coat care",
-      "People willing to socialise carefully and respect the dog's boundaries",
-      "Owners who can provide regular moderate exercise and heat-safe routines",
-      "People comfortable with consistent, reward-based training",
+      "Experienced, patient owners who respect an independent, cat-like canine temperament",
+      "Households committed to thorough weekly line-brushing and seasonal undercoat care",
+      "People who value a quiet, discerning companion and natural household watchdog",
+      "Owners able to provide climate-controlled indoor living and cool-weather walking routines",
+      "Handlers skilled in calm, reward-based training and structured boundary management",
     ],
 
     notIdealFor: [
-      "People seeking a low-grooming dog",
-      "Households expecting every dog to welcome frequent handling or unfamiliar visitors",
-      "Owners unable to manage introductions and interactions responsibly",
-      "People who cannot provide safe, cool conditions during hot weather",
-      "Households unwilling to maintain regular grooming and preventive veterinary care",
+      "Anyone wanting a low-shedding or low-maintenance coat",
+      "Households expecting an effusive, stranger-loving dog that welcomes constant petting from visitors",
+      "Novice owners unprepared to manage guardian instincts and selective dog-to-dog sociability",
+      "Homes in hot or humid regions without reliable indoor cooling and heat-safe daily routines",
+      "People who rely on forceful or confrontational training methods",
     ],
   },
 
   funFacts: [
-    "The Chow Chow is classified by the FCI among Asian Spitz and related breeds.",
-    "Its blue-black tongue is one of its best-known physical characteristics.",
-    "The breed has both rough-coated and smooth-coated varieties.",
-    "The Chow Chow's tail is carried high and rests over the back.",
-    "The breed's short-striding gait is a recognised part of its characteristic movement.",
+    "Along with the Chinese Shar-Pei, the Chow Chow is famous for its solid blue-black tongue and dark-pigmented mouth tissues—a trait that develops after birth as puppies mature.",
+    "The breed exists in two distinct double-coated varieties: the familiar rough coat with its lion-like mane, and a sleeker smooth coat with a dense, plush texture.",
+    "Because its almond-shaped eyes are set deeply in the skull, a Chow Chow has limited peripheral vision and is most comfortable when approached calmly from the front.",
+    "Minimal angulation in the hind legs and hocks aligned directly beneath the hips create the breed's signature short, pendulum-like gait.",
+    "Many owners compare the breed's fastidious indoor habits, quiet demeanour, and self-contained personality to those of a cat.",
   ],
 
   faq: [
     {
       question: "Are Chow Chows good family dogs?",
       answer:
-        "They can form close bonds with their household, but their independent nature and personal boundaries mean that family suitability depends on the individual dog, socialisation and supervision. Children should be taught to handle dogs respectfully, and interactions should be supervised.",
+        "They can be deeply devoted to their immediate household, but they are dignified and value personal space. They generally do best in calm homes where children are old enough to respect a dog's boundaries and where all interactions are supervised.",
     },
     {
       question: "How much grooming does a Chow Chow need?",
       answer:
-        "Regular, thorough grooming is essential. Brush through the dense outer coat and undercoat at least twice a week, and more often during heavy shedding or when tangles develop. Check the skin as well as the visible coat.",
+        "Substantial, ongoing coat care is essential. Plan to line-brush through both the outer coat and dense undercoat two to three times a week—and daily during spring and autumn coat blows—paying extra attention to the neck ruff, behind the ears, and the hindquarters.",
     },
     {
       question: "Are Chow Chows easy to train?",
       answer:
-        "They can learn with patient, consistent, reward-based training, but they may be independent and less willing to repeat exercises without a clear benefit. Avoid forceful methods and make handling practice part of everyday training.",
+        "They typically housebreak quickly and learn household routines well, but they are independent thinkers that see little point in repetitive obedience drills. Short, respectful, reward-based sessions succeed far better than forceful methods.",
     },
     {
-      question: "Can a Chow Chow live in a hot climate?",
+      question: "Why should you approach a Chow Chow from the front?",
       answer:
-        "Extra care is needed because of the dense double coat. Provide shade, ventilation and fresh water, exercise during cooler hours and avoid strenuous activity in hot or humid weather. Seek veterinary care promptly if heat illness is suspected.",
+        "The breed's deep-set eyes narrow its side vision, meaning a sudden touch or approach from behind or the side can startle the dog. Speaking softly and letting the dog see you from the front makes greetings much more comfortable.",
     },
     {
-      question: "What health tests should I ask a breeder about?",
+      question: "Can a Chow Chow live in a warm climate?",
       answer:
-        "Ask for documented eye, hip, elbow, patellar and autoimmune thyroiditis screening results. A veterinarian can help interpret the results and advise whether additional tests are appropriate for the individual dog.",
+        "Only with strict heat precautions. The thick double coat traps body heat, so the dog needs air-conditioned indoor quarters, constant access to cool water, and walks restricted to early morning or late evening.",
     },
     {
-      question: "What colours can Chow Chows have?",
+      question: "What colours do Chow Chows come in?",
       answer:
-        "Recognised colours include black, red, blue, fawn, cream and white. The coat may have shading, but the FCI standard does not permit patchy or parti-coloured coats.",
+        "Recognised whole colours include black, red, blue, fawn or cinnamon, cream, and white, often with lighter shading under the tail and along the back of the thighs, but never in patchy or parti-coloured patterns.",
     },
     {
-      question: "What is a Chow Chow's life expectancy?",
+      question: "What is a Chow Chow's typical lifespan and what health tests matter most?",
       answer:
-        "The AKC breed profile lists a life expectancy of 8–12 years. An individual dog's lifespan varies with genetics, health, preventive care and living conditions.",
+        "Typical life expectancy is 8 to 12 years. Prospective buyers should ask breeders for documented eye, hip, elbow, patellar, and autoimmune thyroiditis screening results for both parents.",
     },
   ],
 
@@ -386,6 +384,7 @@ export const chow_chow: Breed = {
     "wikimedia-chow-chow-andrea-papaccio",
     "wikimedia-chow-chow-prayitno",
     "wikimedia-chow-chow-olga-filonenko",
+    "the-dog-api",
   ],
 
   evidence: {
@@ -393,32 +392,43 @@ export const chow_chow: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No breed-specific scientific name is recorded; a formal taxonomy value was not required for the breed profile.",
+      note: "Left null in accordance with the repository schema convention when no formal taxonomic string is populated.",
     },
 
     alternateNames: {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No additional alternate name is recorded because a reliable, distinct alternative name was not established from the consulted breed authorities.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
+      ],
+      verifiedOn: "2026-11-07",
+      note: "Historical and common names (Chow, Tang Quan, Canton Dog) verified from the structured reference record.",
     },
 
     group: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-chow-chow-standard",
           role: "verified",
-          locator: "FCI standard: classification",
+          locator: "Classification: Group 5 Spitz and primitive types, Section 5 Asian Spitz and related breeds",
         },
         {
           id: "american-kennel-club-chow-chow",
           role: "verified",
           locator: "Breed profile: Non-Sporting Group",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group (Non-Sporting)",
+        },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Group labels differ by registry.",
+      verifiedOn: "2026-11-07",
+      note: "Combines the Non-Sporting and Asian Spitz classifications without embedding registry acronyms in user-facing text.",
     },
 
     "origin.country": {
@@ -427,49 +437,75 @@ export const chow_chow: Breed = {
         {
           id: "fci-chow-chow-standard",
           role: "verified",
-          locator: "FCI standard: origin",
+          locator: "Origin: China (Patronage: Great Britain)",
+        },
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "verified",
+          locator: "About the Breed and History: ancient breed of northern Chinese origin",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-07",
       note: null,
     },
 
     "origin.region": {
       reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "The consulted official standard identifies China as the country of origin but does not establish a single specific region.",
-    },
-
-    overview: {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-chow-chow-standard",
-          role: "verified",
-          locator: "FCI standard: historical summary, appearance and temperament",
-        },
-        {
-          id: "american-kennel-club-chow-chow",
-          role: "verified",
-          locator: "Breed profile: appearance, temperament and grooming",
-        },
-      ],
-      verifiedOn: "2026-10-23",
-      note: "User-facing descriptions are original synthesis; uncertain early ancestry is not presented as established fact.",
-    },
-
-    "physical.sizeCategory": {
-      reliability: "estimate",
       sources: [
         {
           id: "fci-chow-chow-standard",
           role: "cited",
-          locator: "FCI standard: height and general appearance",
+          locator: "Origin: China",
         },
       ],
       verifiedOn: null,
-      note: "Editorial size description based on standard height and build.",
+      note: "Kept null because the official standard identifies China broadly without designating a single specific province.",
+    },
+
+    overview: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-chow-chow-standard",
+          role: "verified",
+          locator: "Brief Historical Summary, General Appearance, Behaviour/Temperament, and Coat sections",
+        },
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "verified",
+          locator: "About the Breed, History, Grooming, Exercise, and linked AKC breed standard",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
+      ],
+      verifiedOn: "2026-11-07",
+      note: "All overview fields are written in original wording synthesising the official standard and kennel-club reference.",
+    },
+
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-chow-chow-standard",
+          role: "verified",
+          locator: "General Appearance and Size sections",
+        },
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "cited",
+          locator: "Breed profile and standard: medium in size, squarely built, heavy bone",
+        },
+      ],
+      verifiedOn: "2026-11-07",
+      note: null,
     },
 
     "physical.height": {
@@ -478,11 +514,21 @@ export const chow_chow: Breed = {
         {
           id: "fci-chow-chow-standard",
           role: "verified",
-          locator: "FCI standard: size",
+          locator: "Size — Height at the withers: Males 48-56 cm; Females 46-51 cm",
+        },
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "conflicting",
+          locator: "Breed profile — Height: 17-20 inches",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (43-51 cm overall for both sexes)",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Measurements are stored in centimetres.",
+      verifiedOn: "2026-11-07",
+      note: "Stored in exact published FCI metric centimetres (males 48-56 cm, females 46-51 cm). The AKC profile and standard give an overall adult average of 17-20 inches (which The Dog API reflects as 43-51 cm for both sexes).",
     },
 
     "physical.weight": {
@@ -491,11 +537,52 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "verified",
-          locator: "Breed profile: average weight",
+          locator: "Breed profile — Weight: 45-70 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (20-32 kg for both sexes)",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "The published 45–70 lb range is for the breed overall, not separated by sex. It is converted to kilograms and repeated in both schema sex slots solely because the current schema requires a BySex structure; it is not a claim of sex-specific weight ranges.",
+      verifiedOn: "2026-11-07",
+      note: "Stored in the exact unit and whole numbers published by the AKC breed profile (45-70 lb) rather than decimal kilogram conversions (20.4-31.8 kg). Repeated in both male and female schema slots because neither AKC nor FCI publishes separate sex-specific weight ranges.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "verified",
+          locator: "Breed profile — Weight: 45-70 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (20-32 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-07",
+      note: "Uses the exact published AKC upper bound of 70 lb; The Dog API reports 20-32 kg.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "verified",
+          locator: "Breed profile — Weight: 45-70 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (20-32 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-07",
+      note: "Uses the exact published AKC upper bound of 70 lb; The Dog API reports 20-32 kg.",
     },
 
     "physical.lifespanYears": {
@@ -504,11 +591,16 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "verified",
-          locator: "Breed profile: life expectancy",
+          locator: "Breed profile — Life Expectancy: 8-12 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (8-12 years)",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Published life-expectancy estimate, not a guarantee for an individual dog.",
+      verifiedOn: "2026-11-07",
+      note: null,
     },
 
     "physical.coatType": {
@@ -517,15 +609,15 @@ export const chow_chow: Breed = {
         {
           id: "fci-chow-chow-standard",
           role: "verified",
-          locator: "FCI standard: coat",
+          locator: "Coat — Hair: Rough or smooth double coat",
         },
         {
           id: "american-kennel-club-chow-chow",
           role: "cited",
-          locator: "Breed profile: rough and smooth coats",
+          locator: "Breed profile: rough and smooth double coats",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-07",
       note: null,
     },
 
@@ -535,10 +627,10 @@ export const chow_chow: Breed = {
         {
           id: "fci-chow-chow-standard",
           role: "verified",
-          locator: "FCI standard: rough and smooth coat descriptions",
+          locator: "Coat — Hair: Rough and Smooth descriptions",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-07",
       note: null,
     },
 
@@ -548,16 +640,21 @@ export const chow_chow: Breed = {
         {
           id: "fci-chow-chow-standard",
           role: "verified",
-          locator: "FCI standard: colour",
+          locator: "Colour: Whole coloured black, red, blue, fawn, cream or white, frequently shaded but not in patches or parti-coloured",
         },
         {
           id: "american-kennel-club-chow-chow",
+          role: "verified",
+          locator: "Breed profile — Colors: Red, Black, Blue, Cinnamon, Cream",
+        },
+        {
+          id: "the-dog-api",
           role: "cited",
-          locator: "Breed profile: breed colours",
+          locator: "GET /breeds/{id}/colours",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Colours follow the FCI standard; shading may occur, but patchy or parti-coloured coats are not accepted by that standard.",
+      verifiedOn: "2026-11-07",
+      note: "Includes the whole colours recognised across FCI (black, red, blue, fawn, cream, white) and AKC (which uses cinnamon alongside red, black, blue, and cream). Non-standard species-wide entries from The Dog API colour endpoint (such as merle, brindle, piebald, tricolour, and black-and-tan) are excluded.",
     },
 
     "physical.sheddingLevel": {
@@ -566,18 +663,18 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "verified",
-          locator: "Breed profile: grooming and coat care",
+          locator: "Breed profile — Grooming and Shedding Level",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Describes coat-maintenance and shedding expectations, not a measured shedding rate.",
+      verifiedOn: "2026-11-07",
+      note: null,
     },
 
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No consistent, authoritative breed-specific drooling rating was established.",
+      note: "Kept null because official breed standards do not specify a drooling rating.",
     },
 
     "physical.distinctiveFeatures": {
@@ -586,29 +683,39 @@ export const chow_chow: Breed = {
         {
           id: "fci-chow-chow-standard",
           role: "verified",
-          locator: "FCI standard: general appearance, tongue, ears, tail and movement",
-        },
-      ],
-      verifiedOn: "2026-10-23",
-      note: null,
-    },
-
-    "temperament.traits": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-chow-chow-standard",
-          role: "verified",
-          locator: "FCI standard: behaviour and temperament",
+          locator: "General Appearance, Head, Mouth (blue-black tongue), Ears, Tail, Hindquarters, and Movement sections",
         },
         {
           id: "american-kennel-club-chow-chow",
           role: "verified",
-          locator: "Breed profile: temperament and personality",
+          locator: "Breed profile and standard: blue-black tongue, deep-set eyes with limited peripheral vision, lion-like ruff, square build, and stilted gait",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "These are general breed tendencies, not a prediction about every individual dog.",
+      verifiedOn: "2026-11-07",
+      note: null,
+    },
+
+    "temperament.traits": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-chow-chow-standard",
+          role: "verified",
+          locator: "Behaviour / Temperament: Quiet dog, good guardian; independent, loyal, yet aloof",
+        },
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "verified",
+          locator: "Breed profile — Temperament and Personality",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
+      ],
+      verifiedOn: "2026-11-07",
+      note: null,
     },
 
     "temperament.scores": {
@@ -617,11 +724,16 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "cited",
-          locator: "Breed profile: trait descriptions",
+          locator: "Breed profile — Trait ratings and temperament description",
+        },
+        {
+          id: "fci-chow-chow-standard",
+          role: "cited",
+          locator: "Behaviour / Temperament",
         },
       ],
       verifiedOn: null,
-      note: "All 1–5 ratings are editorial estimates, not standardised behavioural test results.",
+      note: "All 1-5 temperament scores are editorial estimates informed by kennel-club and standard descriptions.",
     },
 
     "care.exercise.level": {
@@ -630,10 +742,10 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "verified",
-          locator: "Breed profile: exercise needs",
+          locator: "Breed profile — Exercise section",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-07",
       note: null,
     },
 
@@ -643,18 +755,24 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "cited",
-          locator: "Breed profile: daily exercise",
+          locator: "Breed profile — Exercise needs",
         },
       ],
       verifiedOn: null,
-      note: "Practical estimate for a healthy adult; age, health, weather and individual needs vary.",
+      note: "Practical daily exercise estimate (45-60 minutes) for a healthy adult in cool or temperate conditions.",
     },
 
     "care.exercise.activities": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "cited",
+          locator: "Breed profile — Exercise section",
+        },
+      ],
       verifiedOn: null,
-      note: "Suggested activities are general care advice and should be adapted to the individual dog.",
+      note: "General activity suggestions tailored to a heavy-coated, moderate-energy breed.",
     },
 
     "care.grooming.level": {
@@ -663,10 +781,10 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "verified",
-          locator: "Breed profile: grooming",
+          locator: "Breed profile — Grooming section",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-07",
       note: null,
     },
 
@@ -676,25 +794,42 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "verified",
-          locator: "Breed profile: brushing and undercoat care",
+          locator: "Breed profile — Grooming (thorough brushing multiple times weekly and during seasonal shedding)",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "The routine should be adjusted for coat type and seasonal shedding.",
+      verifiedOn: "2026-11-07",
+      note: null,
     },
 
     "care.grooming.bathing": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "cited",
+          locator: "Breed profile — Grooming section",
+        },
+      ],
       verifiedOn: null,
-      note: "General grooming guidance; drying needs depend on coat density and condition.",
+      note: "General double-coat bathing and complete undercoat drying guidance.",
     },
 
     "care.grooming.notes": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "fci-chow-chow-standard",
+          role: "cited",
+          locator: "Coat — Any artificial shortening of the coat which alters the natural outline or expression should be penalised, with the exception of feet which may be tidied",
+        },
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "cited",
+          locator: "Breed profile — Grooming section",
+        },
+      ],
       verifiedOn: null,
-      note: "Routine grooming and coat-maintenance guidance.",
+      note: "Routine double-coat maintenance and natural-outline preservation guidance.",
     },
 
     "care.training.difficulty": {
@@ -703,37 +838,49 @@ export const chow_chow: Breed = {
         {
           id: "fci-chow-chow-standard",
           role: "verified",
-          locator: "FCI standard: temperament",
+          locator: "Behaviour / Temperament",
         },
         {
           id: "american-kennel-club-chow-chow",
-          role: "cited",
-          locator: "Breed profile: personality",
+          role: "verified",
+          locator: "Breed profile — Training and Personality sections",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Training difficulty is descriptive and varies with the individual dog and method.",
+      verifiedOn: "2026-11-07",
+      note: null,
     },
 
     "care.training.tips": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "cited",
+          locator: "Breed profile and standard — Training section and limited peripheral vision guidance",
+        },
+      ],
       verifiedOn: null,
-      note: "Reward-based training and safe interaction guidance.",
+      note: "Combines reward-based training advice with guidance on approaching from the front due to deep-set eyes and limited peripheral vision.",
     },
 
     "care.training.socialization": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "cited",
+          locator: "Breed profile — Early socialization and training recommendations",
+        },
+      ],
       verifiedOn: null,
-      note: "General socialisation guidance; introductions should be gradual and should respect the dog's comfort.",
+      note: "General socialisation guidance adapted to an aloof, guardian-type breed.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "Apartment suitability cannot be reduced to a universal yes/no; the individual dog, exercise, temperature and management matter.",
+      note: "Left null because suitability for apartment living depends heavily on climate control, elevator access, and individual management.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -742,11 +889,11 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "cited",
-          locator: "Breed profile: exercise and care",
+          locator: "Breed profile — Exercise and care",
         },
       ],
       verifiedOn: null,
-      note: "Editorial assessment; a yard does not replace walks, interaction or heat management.",
+      note: "Editorial assessment; a securely fenced yard is helpful when combined with cool indoor living quarters and daily walks.",
     },
 
     "care.livingEnvironment.climates": {
@@ -755,32 +902,38 @@ export const chow_chow: Breed = {
         {
           id: "fci-chow-chow-standard",
           role: "cited",
-          locator: "FCI standard: coat must not impede activity or cause distress in hot weather",
+          locator: "Coat: profuse coat must never impede activity or cause distress in hot weather",
         },
       ],
       verifiedOn: null,
-      note: "General heat-safety guidance informed by the standard's warning about excess coat and hot weather.",
+      note: "Heat-safety and climate guidance informed by the breed's dense Arctic-type double coat.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable breed-specific duration for being left alone was established.",
+      note: "No authoritative breed-specific duration for alone-time tolerance was established.",
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "cited",
+          locator: "Breed profile — Nutrition section",
+        },
+      ],
       verifiedOn: null,
-      note: "General canine nutrition guidance; feeding should be adapted to the individual dog's age, body condition and veterinary needs.",
+      note: "General canine nutrition guidance tailored to maintaining lean body condition underneath a heavy double coat.",
     },
 
     "nutrition.feedingFrequency.senior": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No breed-specific senior feeding frequency was established.",
+      note: "No breed-specific senior feeding schedule was established.",
     },
 
     health: {
@@ -789,23 +942,34 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "verified",
-          locator: "Breed profile: recommended health tests",
+          locator: "Breed profile — Health and Recommended Health Tests",
         },
         {
           id: "chow-chow-health-screening-chic",
           role: "verified",
-          locator: "OFA-CHIC breed-specific screening recommendations",
+          locator: "OFA-CHIC breed-specific screening requirements (eyes, hips, elbows, patellas, thyroid; optional cardiac)",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Screening recommendations identify areas for assessment; they do not establish that every dog will develop a condition.",
+      verifiedOn: "2026-11-07",
+      note: "Distinguishes parent-club recommended screenings and recognized breed predispositions (such as entropion, joint dysplasia, patellar luxation, and autoimmune thyroiditis) from general coat/heat management risks.",
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "cited",
+          locator: "Breed profile — Health and Grooming sections",
+        },
+        {
+          id: "chow-chow-health-screening-chic",
+          role: "cited",
+          locator: "Health screening recommendations",
+        },
+      ],
       verifiedOn: null,
-      note: "General preventive veterinary and heat-safety guidance.",
+      note: "General veterinary preventive care and heatstroke prevention guidance.",
     },
 
     "health.recommendedScreenings": {
@@ -814,37 +978,43 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "verified",
-          locator: "Breed profile: recommended health tests from the national breed club",
+          locator: "Breed profile — Recommended Health Tests from the National Breed Club",
         },
         {
           id: "chow-chow-health-screening-chic",
           role: "verified",
-          locator: "Breed-specific CHIC screening requirements",
+          locator: "Required screenings: Eye exam, Hip evaluation, Elbow evaluation, Patellar evaluation, Autoimmune thyroiditis panel; Optional: Cardiac evaluation",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Screening guidance can change; confirm current requirements with the breed club and veterinarian. A CHIC number does not mean every result is normal.",
+      verifiedOn: "2026-11-07",
+      note: null,
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine dental care advice.",
+      note: "General canine dental care guidance.",
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General ear monitoring guidance.",
+      note: "General canine ear care guidance.",
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "cited",
+          locator: "Breed profile — Grooming section",
+        },
+      ],
       verifiedOn: null,
-      note: "General skin and coat inspection guidance.",
+      note: "Skin and undercoat inspection guidance for a densely double-coated breed.",
     },
 
     "suitability.firstTimeOwners": {
@@ -853,25 +1023,25 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "cited",
-          locator: "Breed profile: temperament and grooming needs",
+          locator: "Breed profile — Temperament, Training, and Grooming sections",
         },
       ],
       verifiedOn: null,
-      note: "Editorial assessment; an experienced, well-supported first-time owner may still be successful.",
+      note: "Editorial assessment reflecting the breed's strong independence, guardian instincts, and intensive grooming demands.",
     },
 
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "Suitability with children depends on the individual dog, child behaviour, supervision and household experience; no universal yes/no value is recorded.",
+      note: "Kept null because suitability with children depends heavily on child age, respectful handling, individual temperament, and adult supervision.",
     },
 
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "Suitability for senior owners depends on mobility, support, grooming capacity and the individual dog.",
+      note: "Kept null because suitability for senior owners depends on physical strength, grooming support, and individual dog temperament.",
     },
 
     "suitability.activeOwners": {
@@ -880,18 +1050,18 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "cited",
-          locator: "Breed profile: exercise needs",
+          locator: "Breed profile — Exercise section",
         },
       ],
       verifiedOn: null,
-      note: "Editorial assessment based on the breed's moderate exercise needs.",
+      note: "Editorial assessment based on daily walking and outdoor enrichment needs during cool hours.",
     },
 
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "Apartment suitability depends on temperature, exercise, coat care and the individual dog's behaviour; no universal value is recorded.",
+      note: "Aligned with care.livingEnvironment.apartmentSuitable.",
     },
 
     "suitability.idealFor": {
@@ -900,11 +1070,11 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "cited",
-          locator: "Breed profile: temperament, grooming and exercise",
+          locator: "Breed profile — Temperament, Grooming, and Exercise sections",
         },
       ],
       verifiedOn: null,
-      note: "Editorial matching guidance, not a guarantee of compatibility.",
+      note: "Synthesised owner-matching guidance.",
     },
 
     "suitability.notIdealFor": {
@@ -913,11 +1083,11 @@ export const chow_chow: Breed = {
         {
           id: "american-kennel-club-chow-chow",
           role: "cited",
-          locator: "Breed profile: temperament, grooming and exercise",
+          locator: "Breed profile — Temperament, Grooming, and Exercise sections",
         },
       ],
       verifiedOn: null,
-      note: "Editorial matching guidance, not a guarantee of incompatibility.",
+      note: "Synthesised owner-matching caveats.",
     },
 
     funFacts: {
@@ -926,10 +1096,15 @@ export const chow_chow: Breed = {
         {
           id: "fci-chow-chow-standard",
           role: "verified",
-          locator: "FCI standard: classification, tongue, coat, tail and movement",
+          locator: "Mouth (blue-black tongue), Coat (rough and smooth), Hindquarters, and Movement sections",
+        },
+        {
+          id: "american-kennel-club-chow-chow",
+          role: "verified",
+          locator: "About the Breed and standard (deep-set eyes with limited peripheral vision; cat-like fastidious indoor nature)",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-07",
       note: null,
     },
 
@@ -939,23 +1114,23 @@ export const chow_chow: Breed = {
         {
           id: "fci-chow-chow-standard",
           role: "verified",
-          locator: "FCI standard: temperament, colour and coat",
+          locator: "Temperament, Coat, and Colour sections",
         },
         {
           id: "american-kennel-club-chow-chow",
           role: "verified",
-          locator: "Breed profile: lifespan, grooming, exercise and health tests",
+          locator: "Breed profile — Lifespan (8-12 years), Grooming, Training, Health, and standard (limited peripheral vision)",
         },
         {
           id: "chow-chow-health-screening-chic",
           role: "verified",
-          locator: "Breed-specific health screening recommendations",
+          locator: "Recommended health screenings",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Answers are original summaries and distinguish general breed guidance from individual outcomes.",
+      verifiedOn: "2026-11-07",
+      note: null,
     },
   },
 
-  updatedOn: "2026-10-23",
+  updatedOn: "2026-11-07",
 };

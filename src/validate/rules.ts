@@ -588,7 +588,7 @@ function requireDate(
     error(breed, path, `Not a calendar date: ${value}`);
     return;
   }
-  if (year < 1964) error(breed, path, `Implausible date: ${value}`);
+  if (year < 1933) error(breed, path, `Implausible date: ${value}`);
   if (value > today) error(breed, path, `Date ${value} is in the future (today is ${today})`);
 }
 

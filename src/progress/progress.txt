@@ -56,14 +56,14 @@
 53:canadian_eskimo_dog - CG
 54:scottish_deerhound - CG
 55:skye_terrier - CG
+56:yorkshire_terrier - CG
+57:basset_griffon_vendeen,_petit - CG
+58:gordon_setter - CG
+59:afghan_hound - CG
+60:chow_chow - CG
 
-56:yorkshire_terrier - CR
+61:airedale_terrier - CR
 
-57:basset_griffon_vendeen,_petit - C
-58:gordon_setter - C
-59:afghan_hound - C
-60:chow_chow - C
-61:airedale_terrier - C
 62:doberman_pinscher - C
 63:welsh_terrier - C
 64:finnish_hound - C
@@ -126,14 +126,14 @@
 121:cesky_fousek - C
 122:bull_terrier_(miniature) - C
 123:akita_inu - C
+124:schweizerischer_niederlaufhund - C
+125:boxer - C
+126:pug - C
+127:segugio_italiano_a_pelo_forte - C
+128:kuvasz - C
+129:schillerstovare - C
+130:american_staffordshire_terrier - C
 
-124:schweizerischer_niederlaufhund
-125:boxer
-126:pug
-127:segugio_italiano_a_pelo_forte
-128:kuvasz
-129:schillerstovare
-130:american_staffordshire_terrier
 131:beagle-harrier
 132:treeing_walker_coonhound
 133:segugio_italiano_a_pelo_raso
