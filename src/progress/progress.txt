@@ -71,15 +71,14 @@
 68:chinese_crested_dog - CG
 69:griffon_bleu_de_gascogne - CG
 70:braque_saint-germain - CG
+71:schipperke - CG
+72:braque_d'auvergne - CG
+73:english_toy_terrier_(black_&_tan) - CG
+74:clumber_spaniel - CG
+75:broholmer - CG
+76:manchester_terrier - CG
+77:spinone_italiano - CG
 
-71:schipperke - CR
-
-72:braque_d'auvergne - C
-73:english_toy_terrier_(black_&_tan) - C
-74:clumber_spaniel - C
-75:broholmer - C
-76:manchester_terrier - C
-77:spinone_italiano - C
 78:mudi - C
 79:rafeiro_do_alentejo - C
 80:polish_hound - C
@@ -144,14 +143,14 @@
 139:basset_hound - C
 140:greenland_dog - C
 141:estrela_mountain_dog - C
+142:west_highland_white_terrier - C
+143:patterdale_terrier - C
+144:istrian_coarse-haired_hound - C
+145:appenzeller_sennenhund - C
+146:azawakh - C
 
-142:west_highland_white_terrier - R
+147:english_cocker_spaniel - R
 
-143:patterdale_terrier
-144:istrian_coarse-haired_hound
-145:appenzeller_sennenhund
-146:azawakh
-147:english_cocker_spaniel
 148:danish_swedish_farmdog
 149:griffon_bruxellois_80
 150:barbet

@@ -4,8 +4,11 @@ export const manchester_terrier: Breed = {
   slug: "manchester-terrier",
   name: "Manchester Terrier",
   scientificName: null,
-  alternateNames: [],
-  group: "FCI Group 3: Terriers; Section 1: Large and medium-sized Terriers",
+  alternateNames: [
+    "Black and Tan Terrier",
+    "Gentleman's Terrier",
+  ],
+  group: "Terrier Group; Medium and Large Terriers",
   origin: {
     country: "Great Britain",
     region: "Manchester, England",
@@ -13,9 +16,11 @@ export const manchester_terrier: Breed = {
   images: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Manchester_Terrier.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Manchester_Terrier.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Manchester_Terrier.jpg",
       title: "Manchester Terrier.jpg",
-      description: "A Manchester Terrier named Scooter.",
+      description:
+        "Manchester Terrier standing alertly, showing sleek black coat and mahogany-tan markings.",
       creator: "Jon Ovington",
       uploader: "Ltshears",
       capturedOn: "2008-12-02",
@@ -26,23 +31,23 @@ export const manchester_terrier: Breed = {
       attribution:
         "Photo by Jon Ovington, via Wikimedia Commons, CC BY-SA 2.0. Changes, if any, must be indicated. Adapted versions must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-09",
     },
   ],
   overview: {
     summary:
-      "A sleek, alert and athletic terrier from England, the Manchester Terrier combines a keen vermin-hunting instinct with a close bond to its people. Its short black-and-tan coat, elegant outline and quick, observant manner make it distinctive among terriers.",
+      "A sleek, agile, and athletic British terrier recognized for its glossy jet-black coat, rich mahogany markings, keen vermin-hunting drive, and devoted companionship.",
     description:
-      "The Manchester Terrier is a compact, muscular dog with a long, narrow, wedge-shaped head, a bright expression and a smooth, glossy coat. Its traditional black-and-tan markings are sharply defined, including tan spots above the eyes and markings on the muzzle, legs and underside. Developed as a working terrier, it is fast, curious and attentive to movement. At home it can be affectionate and relaxed when its physical and mental needs are met, but its prey drive means small animals should be managed carefully. The breed benefits from daily activity, engaging training, and early, positive socialisation.",
+      "The Manchester Terrier is an elegant, compact canine with a long, wedge-shaped head, keen almond eyes, and a smooth, reflective single coat. Developed through crosses between ancient black-and-tan ratters and coursing Whippets, it pairs blistering speed and acute sensory awareness with an affectionate, graceful indoor presence. While spirited and intensely curious about moving prey outdoors, it settles comfortably at home alongside an active family. Fostering a confident, well-mannered companion requires regular exercise, constructive mental games, and early positive socialization.",
     history:
-      "The Manchester Terrier developed in and around Manchester, England, during the period when the region's textile mills and towns needed effective rat-catching dogs. It descends from older black-and-tan terrier types, and Whippet ancestry is commonly cited as contributing to its speed and refined outline. The breed became associated with ratting competitions and rabbit hunting. As tastes and laws changed, its popularity declined, but dedicated breeders maintained it. In the United States, the American Kennel Club recognises Standard and Toy varieties; other kennel organisations classify the breed differently.",
+      "The Manchester Terrier originated in nineteenth-century England amidst the burgeoning textile communities of Lancashire, where mill owners and workers sought swift, effective vermin hunters. Bred by crossing traditional black-and-tan ratting terriers with Whippets, the resulting dog gained speed, athletic refinement, and coursing agility. Known historically as the 'Gentleman's Terrier' and prized in rat pits and rabbit coursing, the breed saw declining numbers by the mid-twentieth century before devoted preservationists stabilized its lineage. Conformation classifications sometimes recognize both Standard and Toy size varieties, while other traditions maintain them as distinct breeds.",
     originalPurpose:
-      "Ratting and controlling vermin, with the speed and agility to pursue small game such as rabbits.",
+      "Ratting, vermin eradication, rabbit coursing, and gentleman's companion dog.",
     currentRoles: [
-      "Companion dog",
-      "Vermin-alert and watchdog companion",
-      "Agility, obedience, rally and scent-work participant",
-      "Active household companion for people who enjoy training and outdoor activity",
+      "Devoted household companion",
+      "Agility, rally, and obedience competitor",
+      "Barn hunt and scent work participant",
+      "Attentive alert and watchdog companion",
     ],
   },
   physical: {
@@ -59,21 +64,21 @@ export const manchester_terrier: Breed = {
       },
     },
     weight: {
-      unit: "kg",
+      unit: "lb",
       male: {
-        min: 5.5,
-        max: 10,
+        min: 12,
+        max: 22,
       },
       female: {
-        min: 5.5,
-        max: 10,
+        min: 12,
+        max: 22,
       },
     },
     lifespanYears: {
       min: 15,
       max: 17,
     },
-    coatType: "Short, smooth, close-lying and glossy.",
+    coatType: "Short, smooth, close-lying, firm, and glossy.",
     coatLength: "Short and close to the body.",
     coatColors: [
       "Jet black with rich mahogany-tan markings",
@@ -84,7 +89,7 @@ export const manchester_terrier: Breed = {
       "Long, narrow, wedge-shaped head with a flat skull",
       "Bright, keen and observant expression",
       "Small, dark, almond-shaped eyes",
-      "Small, V-shaped ears carried above the head; permitted ear carriage varies by registry and variety",
+      "Small, V-shaped ears carried naturally folded above the skull or erect depending on variety",
       "Compact, muscular body with an elegant, athletic outline",
       "Short, glossy coat requiring little routine grooming",
       "Distinct black-and-tan markings with clearly defined colour boundaries",
@@ -93,14 +98,14 @@ export const manchester_terrier: Breed = {
   },
   temperament: {
     traits: [
-      "Alert and keenly observant",
-      "Bright and quick to notice movement",
-      "Affectionate and devoted to familiar people",
-      "Energetic and athletic",
-      "Curious and interested in exploring",
-      "May pursue rodents and other small animals because of its working heritage",
-      "Can be discerning around unfamiliar people",
-      "Often enjoys learning when training is engaging and reward-based",
+      "Alert",
+      "Keen",
+      "Affectionate",
+      "Devoted",
+      "Energetic",
+      "Intelligent",
+      "Curious",
+      "Spirited",
     ],
     scores: {
       affection: 4,
@@ -122,48 +127,46 @@ export const manchester_terrier: Breed = {
         max: 60,
       },
       activities: [
-        "Daily walks with time to sniff and explore",
-        "Fetch and supervised games in a secure area",
-        "Short obedience and trick-training sessions",
-        "Agility, rally or other suitable dog sports",
-        "Scent games and food-puzzle activities",
+        "Brisk daily neighborhood walks and exploratory jogs",
+        "Interactive fetch and chase sessions in securely fenced areas",
+        "Reward-based obedience drills and trick training",
+        "Agility obstacle courses and flyball",
+        "Scent work, barn hunt trials, and food puzzle challenges",
       ],
     },
     grooming: {
       level: "low",
       brushing:
-        "Wipe the coat with a soft grooming glove or damp cloth weekly; brush occasionally to remove loose hair and maintain shine.",
+        "Wipe weekly with a rubber hound mitt or soft chamois cloth to remove stray hairs and maintain a glossy finish.",
       bathing:
-        "Bathe when necessary with a dog-appropriate shampoo. Avoid frequent bathing that dries the skin.",
+        "Bathe periodically as required using a gentle canine shampoo, avoiding excessive washings that strip natural coat oils.",
       notes: [
-        "The short coat is easy to maintain and does not usually need professional trimming.",
-        "Check the ears regularly for redness, odour, excess wax or discharge.",
-        "Trim nails regularly and inspect the paws after walks.",
-        "Brush teeth with dog toothpaste as part of a consistent dental-care routine.",
-        "Provide a warm, comfortable resting place in cold weather; the short coat offers limited insulation.",
+        "The short smooth coat requires minimal maintenance and dries quickly.",
+        "Inspect drop or erect ears weekly for wax buildup or irritation.",
+        "Trim claws regularly to support correct upright foot structure.",
+        "Brush teeth daily with dog-safe enzymatic toothpaste to combat tartar.",
+        "Provide warm clothing during winter walks, as the single short coat provides minimal insulation.",
       ],
     },
     training: {
       difficulty: "moderate",
       tips: [
-        "Use short, positive sessions with food rewards, toys or play.",
-        "Teach recall early, but do not rely on it to override a strong prey response around wildlife.",
-        "Practise calm leash walking and attention around moving animals.",
-        "Introduce people, dogs, sounds and new environments gradually and positively.",
-        "Provide puzzle games, scent work and training tasks to keep the dog mentally engaged.",
-        "Supervise interactions with small pets and keep the dog in a secure area where it cannot chase wildlife.",
+        "Employ positive, reward-based methods with high-value treats and lively play.",
+        "Keep sessions brief, dynamic, and engaging to prevent boredom.",
+        "Establish dependable recall early, while maintaining long-line safety around wildlife.",
+        "Reinforce calm leash manners when passing small moving animals to counter prey drive.",
+        "Acclimate puppies early to gentle handling and cooperative nail trims.",
       ],
       socialization:
-        "Early and ongoing positive socialisation helps the dog become comfortable with unfamiliar people, dogs and everyday environments. Manage introductions thoughtfully and supervise interactions with small animals because prey drive varies by individual.",
+        "Introduce puppies gradually to various people, friendly dogs, urban sounds, and new environments to prevent excessive wariness.",
     },
     livingEnvironment: {
       apartmentSuitable: true,
       houseWithYardSuitable: true,
       climates: [
-        "Temperate climates",
-        "Mild climates",
-        "Cold weather requires suitable shelter or clothing when needed because the coat is short",
-        "In hot weather, provide shade, fresh water and exercise during cooler hours",
+        "Well-suited to temperate and indoor home environments",
+        "Cool or wet weather requires protective canine coats outdoors",
+        "Ensure shade and fresh water during hot weather, avoiding midday exertion",
       ],
       aloneTimeTolerance:
         "Individual tolerance varies. Teach alone time gradually and provide exercise and enrichment; avoid routinely leaving the dog alone for long periods.",
@@ -171,53 +174,47 @@ export const manchester_terrier: Breed = {
   },
   nutrition: {
     dietType:
-      "A complete and balanced diet suitable for the dog's life stage, activity level and body condition.",
+      "Nutritionally complete commercial or veterinary-formulated diet suited for active small-to-medium terriers.",
     feedingFrequency: {
-      puppy:
-        "Feed a complete puppy diet in several age-appropriate meals each day, following veterinary guidance and the food's feeding instructions.",
-      adult:
-        "Two measured meals per day suit many adults; adjust the amount to activity and body condition.",
-      senior:
-        "Adjust food type and portions to activity, dental health, body condition and veterinary advice.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
     guidelines:
-      "Use a nutritionally complete diet appropriate for the dog's age and activity. Treat feeding-guide amounts as a starting point and adjust to maintain a lean, healthy body condition. Keep fresh water available and account for training treats in the daily food allowance.",
+      "Provide measured rations divided into two daily meals. Scale caloric intake to match activity levels and maintain a lean, tuck-up profile.",
     considerations: [
-      "Avoid excess calories and monitor body condition regularly.",
-      "Use measured portions rather than relying only on visual estimates.",
-      "Choose a diet appropriate for growth during puppyhood and avoid unnecessary supplements unless advised by a veterinarian.",
-      "Discuss any persistent digestive changes, weight loss, weight gain or food intolerance with a veterinarian.",
+      "Avoid excess calorie consumption to prevent weight gain that compromises agility.",
+      "Incorporate training treats into the calculated daily food allowance.",
+      "Ensure continuous access to clean drinking water.",
     ],
     note:
       "This is general canine nutrition guidance, not an individual feeding prescription. Portion size depends on age, metabolism, activity and health.",
   },
   health: {
     overview:
-      "The Manchester Terrier is often described as long-lived, but individual health varies. The breed's parent-club screening guidance includes testing or assessment for von Willebrand disease, thyroid disease, eye and cardiac conditions, and congenital deafness. Some additional conditions are listed as recommended screening topics. These recommendations support responsible breeding; they do not mean every dog will develop those conditions.",
+      "The Manchester Terrier is a robust, long-lived breed with an average lifespan of 15 to 17 years. National parent club health protocols emphasize pre-breeding screening for von Willebrand disease type 1, autoimmune thyroiditis, cardiac conditions, patellar luxation, and congenital deafness.",
     commonConditions: [
-      "Von Willebrand disease: an inherited bleeding disorder for which DNA testing is recommended by the parent club.",
-      "Autoimmune thyroiditis: a thyroid condition for which screening is recommended by the parent club.",
-      "Patellar luxation: displacement of the kneecap, which can affect small and small-to-medium dogs.",
-      "Juvenile dilated cardiomyopathy: a serious heart condition that the parent club lists as a recommended screening topic.",
-      "Legg-Calvé-Perthes disease: a hip-joint condition listed in the parent club's recommended screening guidance.",
-      "Xanthinuria type 2A: an inherited condition included in the parent club's recommended DNA screening guidance.",
-      "Congenital deafness: the parent club lists BAER-based evaluation in its screening recommendations.",
+      "Von Willebrand disease type 1 (inherited bleeding disorder managed via DNA testing)",
+      "Autoimmune thyroiditis (hypothyroidism)",
+      "Patellar luxation (slipping kneecaps)",
+      "Juvenile dilated cardiomyopathy (JDCM)",
+      "Legg-Calvé-Perthes disease (avascular necrosis of the femoral head)",
+      "Xanthinuria type 2A (metabolic enzyme deficiency predisposing to urinary calculi)",
+      "Congenital sensorineural deafness evaluated via BAER testing",
     ],
     preventiveCare: [
-      "Arrange regular veterinary examinations and keep vaccinations and parasite prevention appropriate to the dog's circumstances.",
-      "Ask about the parents' health-screening records when choosing a puppy.",
-      "Maintain a healthy body condition and provide regular exercise suited to age and fitness.",
-      "Seek veterinary advice for unexplained bruising or bleeding, weakness, fainting, exercise intolerance, persistent lameness or changes in vision.",
-      "Maintain dental hygiene, nail care, and routine ear and skin checks.",
-      "Discuss anaesthesia and the dog's full medical history with the veterinarian before any procedure.",
+      "Verify parental DNA testing for von Willebrand disease and xanthinuria before acquiring a puppy.",
+      "Obtain veterinary clearances for thyroid, cardiac, and patellar health.",
+      "Maintain active dental hygiene with daily brushing to prevent periodontal disease.",
+      "Inform veterinary surgeons of the dog's von Willebrand status prior to surgical procedures.",
     ],
     recommendedScreenings: [
       "Von Willebrand disease type 1 DNA test",
-      "Thyroid evaluation for autoimmune thyroiditis",
+      "Thyroid evaluation (free T4, cTSH, and autoantibodies)",
+      "Veterinary cardiac evaluation",
       "Ophthalmologist eye examination",
-      "Cardiac evaluation",
-      "BAER-based evaluation for congenital deafness",
-      "Discuss Legg-Calvé-Perthes evaluation, juvenile dilated cardiomyopathy DNA testing, xanthinuria type 2A DNA testing and patellar luxation evaluation with the breeder or veterinarian",
+      "BAER hearing test for congenital deafness",
+      "Patellar luxation clinical evaluation",
     ],
     dentalCare:
       "Brush regularly with dog toothpaste and arrange veterinary dental checks. Ask a veterinarian about persistent bad breath, gum inflammation, broken teeth or difficulty eating.",
@@ -233,23 +230,22 @@ export const manchester_terrier: Breed = {
     activeOwners: true,
     apartmentLiving: true,
     idealFor: [
-      "People seeking a small, athletic companion",
-      "Owners who enjoy daily walks, games and training",
-      "Households willing to manage terrier prey drive responsibly",
-      "People who prefer a short coat with relatively simple grooming needs",
-      "Owners interested in agility, obedience, scent games or other dog activities",
+      "Active individuals and families seeking an athletic, compact indoor companion",
+      "Apartment or townhouse residents who provide dedicated daily exercise and mental enrichment",
+      "Owners who enjoy agility, trick training, and canine sports",
+      "Handlers who appreciate a low-maintenance, clean-coated companion",
     ],
     notIdealFor: [
-      "Homes where small pets cannot be safely separated or supervised",
-      "Owners expecting a dog that needs very little exercise or mental stimulation",
-      "People unwilling to work on recall, leash manners and early socialisation",
-      "Households where the dog would routinely be left alone for long periods without enrichment",
+      "Homes with free-roaming rodents or pocket pets where prey drive poses risks",
+      "Households seeking a placid, low-energy lap pet requiring minimal activity",
+      "Handlers who rely on harsh or punitive correction methods",
+      "Owners unwilling to supervise outdoor areas against tunneling or small-animal chasing",
     ],
   },
   funFacts: [
     "The breed takes its name from Manchester, England, where it became associated with ratting and urban working life.",
     "The breed's history combines traditional black-and-tan terrier ancestry with a likely influence from Whippet-type dogs.",
-    "In American Kennel Club classification, Manchester Terriers have Standard and Toy varieties; the Toy is a size variety rather than a separate breed in that system.",
+    "Certain canine organizations classify the Manchester Terrier in two distinct size divisions—Standard and Toy—while others recognize the toy variety as an independent breed.",
     "Its distinct tan markings include small spots above the eyes and clearly separated markings on the muzzle and legs.",
   ],
   faq: [
@@ -261,7 +257,7 @@ export const manchester_terrier: Breed = {
     {
       question: "What colours are accepted for the Manchester Terrier?",
       answer:
-        "The traditional standard colour is jet black with rich mahogany-tan markings. The boundaries between the two colours should be clearly defined.",
+        "The accepted coat coloration is jet black with rich mahogany-tan points. The boundaries between the black and tan hairs must remain sharply defined without smudging.",
     },
     {
       question: "How much exercise does a Manchester Terrier need?",
@@ -291,21 +287,28 @@ export const manchester_terrier: Breed = {
     "royal-kennel-club-manchester-terrier-profile",
     "american-manchester-terrier-health",
     "wikimedia-manchester-terrier-photo",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
   evidence: {
     alternateNames: {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "No alternate name was recorded because the consulted authoritative sources did not establish a sufficiently reliable current synonym.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
+      ],
+      verifiedOn: "2026-11-09",
+      note: "Traditional names documented across reference databases.",
     },
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No breed-specific scientific name is established in the consulted breed standards; therefore no taxonomic label is asserted.",
+      note: "No breed-specific scientific name is established in the consulted breed standards; therefore no taxonomic label is asserted.",
     },
     group: {
       reliability: "official_standard",
@@ -315,10 +318,26 @@ export const manchester_terrier: Breed = {
           role: "verified",
           locator: "FCI classification",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "FCI classification is used; kennel-club grouping systems can differ.",
+      verifiedOn: "2026-11-09",
+      note: "FCI classification is used; kennel-club grouping systems can differ.",
+    },
+    origin: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-manchester-terrier-standard",
+          role: "verified",
+          locator: "Origin",
+        },
+      ],
+      verifiedOn: "2026-11-09",
+      note: null,
     },
     "origin.country": {
       reliability: "official_standard",
@@ -328,8 +347,13 @@ export const manchester_terrier: Breed = {
           role: "verified",
           locator: "Origin",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-09",
       note: null,
     },
     "origin.region": {
@@ -346,9 +370,8 @@ export const manchester_terrier: Breed = {
           locator: "Breed history",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Manchester, England is the historically associated region and city; this is not a claim that the breed originated exclusively within modern city boundaries.",
+      verifiedOn: "2026-11-09",
+      note: "Manchester, England is the historically associated region and city; this is not a claim that the breed originated exclusively within modern city boundaries.",
     },
     overview: {
       reliability: "reliable_source",
@@ -368,10 +391,31 @@ export const manchester_terrier: Breed = {
           role: "cited",
           locator: "Breed history and characteristics",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.description",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Descriptions are original summaries of breed history and standard characteristics.",
+      verifiedOn: "2026-11-09",
+      note: "Descriptions are original summaries of breed history and standard characteristics.",
+    },
+    physical: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-manchester-terrier-standard",
+          role: "verified",
+          locator: "Size, coat and colour",
+        },
+        {
+          id: "akc-manchester-terrier-standard",
+          role: "verified",
+          locator: "Size, proportion and substance",
+        },
+      ],
+      verifiedOn: "2026-11-09",
+      note: null,
     },
     "physical.sizeCategory": {
       reliability: "reliable_source",
@@ -382,7 +426,7 @@ export const manchester_terrier: Breed = {
           locator: "Breed characteristics: size",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-09",
       note: "The Royal Kennel Club categorises the breed as small.",
     },
     "physical.height": {
@@ -391,12 +435,16 @@ export const manchester_terrier: Breed = {
         {
           id: "fci-manchester-terrier-standard",
           role: "verified",
-          locator: "Size",
+          locator: "Size: Dogs 41 cm, Bitches 38 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "The FCI standard gives 41 cm for dogs and 38 cm for bitches as standard heights. Equal bounds represent the stated target values, not guaranteed individual heights.",
+      verifiedOn: "2026-11-09",
+      note: "The FCI standard gives 41 cm for dogs and 38 cm for bitches as standard heights. Equal bounds represent the stated target values, not guaranteed individual heights.",
     },
     "physical.weight": {
       reliability: "official_standard",
@@ -404,12 +452,40 @@ export const manchester_terrier: Breed = {
         {
           id: "akc-manchester-terrier-standard",
           role: "verified",
-          locator: "Size, proportion and substance: Standard variety weight",
+          locator: "Size, proportion and substance: Standard variety over 12 lb and not exceeding 22 lb",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "The AKC standard sets the Standard variety at over 12 lb and not exceeding 22 lb. The stored 5.5–10 kg range is a rounded conversion for app display and is not sex-specific in the cited standard.",
+      verifiedOn: "2026-11-09",
+      note: "The AKC standard specifies the Standard variety as over 12 lb and not exceeding 22 lb.",
+    },
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-manchester-terrier-standard",
+          role: "verified",
+          locator: "Size, proportion and substance: Standard variety weight not exceeding 22 lb",
+        },
+      ],
+      verifiedOn: "2026-11-09",
+      note: "Maximum weight bound of 22 pounds established by official standard.",
+    },
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-manchester-terrier-standard",
+          role: "verified",
+          locator: "Size, proportion and substance: Standard variety weight not exceeding 22 lb",
+        },
+      ],
+      verifiedOn: "2026-11-09",
+      note: "Maximum weight bound of 22 pounds established by official standard.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -424,10 +500,14 @@ export const manchester_terrier: Breed = {
           role: "cited",
           locator: "Breed characteristics: lifespan",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "The AKC lists 15–17 years; the Royal Kennel Club describes lifespan as over 12 years. Individual longevity varies.",
+      verifiedOn: "2026-11-09",
+      note: "The AKC lists 15-17 years; the Royal Kennel Club describes lifespan as over 12 years. Individual longevity varies.",
     },
     "physical.coatType": {
       reliability: "official_standard",
@@ -438,7 +518,7 @@ export const manchester_terrier: Breed = {
           locator: "Coat",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-09",
       note: null,
     },
     "physical.coatLength": {
@@ -450,7 +530,7 @@ export const manchester_terrier: Breed = {
           locator: "Coat",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-09",
       note: null,
     },
     "physical.coatColors": {
@@ -462,7 +542,7 @@ export const manchester_terrier: Breed = {
           locator: "Colour",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-09",
       note: "Only the standard black-and-tan colour is recorded.",
     },
     "physical.sheddingLevel": {
@@ -475,8 +555,7 @@ export const manchester_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "Low to moderate is an editorial estimate; the source confirms shedding but does not provide a measured shedding rate.",
+      note: "Low to moderate is an editorial estimate; the source confirms shedding but does not provide a measured shedding rate.",
     },
     "physical.droolingLevel": {
       reliability: "estimate",
@@ -488,8 +567,7 @@ export const manchester_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "Low is an editorial estimate based on the breed's close-fitting lips and refined head, not a measured breed statistic.",
+      note: "Low is an editorial estimate based on the breed's close-fitting lips and refined head, not a measured breed statistic.",
     },
     "physical.distinctiveFeatures": {
       reliability: "official_standard",
@@ -505,7 +583,7 @@ export const manchester_terrier: Breed = {
           locator: "General appearance",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-09",
       note: null,
     },
     "temperament.traits": {
@@ -521,10 +599,14 @@ export const manchester_terrier: Breed = {
           role: "cited",
           locator: "Breed traits and about the breed",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Traits describe typical breed tendencies, not guaranteed behaviour in every individual.",
+      verifiedOn: "2026-11-09",
+      note: "Traits describe typical breed tendencies, not guaranteed behaviour in every individual.",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -541,8 +623,7 @@ export const manchester_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "All 1–5 scores are editorial estimates for app comparison, not validated behavioural measurements.",
+      note: "All 1-5 scores are editorial estimates for app comparison, not validated behavioural measurements.",
     },
     "care.exercise": {
       reliability: "general_guidance",
@@ -559,8 +640,7 @@ export const manchester_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "Exercise level and duration are practical guidance, not an official standard requirement; adjust to the individual dog.",
+      note: "Exercise level and duration are practical guidance, not an official standard requirement; adjust to the individual dog.",
     },
     "care.grooming": {
       reliability: "general_guidance",
@@ -577,8 +657,7 @@ export const manchester_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "Routine grooming guidance is based on the short coat and general dog-care practice.",
+      note: "Routine grooming guidance is based on the short coat and general dog-care practice.",
     },
     "care.training": {
       reliability: "general_guidance",
@@ -590,8 +669,7 @@ export const manchester_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "Training advice is general guidance tailored to an active terrier with prey drive.",
+      note: "Training advice is general guidance tailored to an active terrier with prey drive.",
     },
     "care.livingEnvironment": {
       reliability: "estimate",
@@ -608,8 +686,7 @@ export const manchester_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "Suitability is an editorial assessment and depends on exercise, enrichment, local conditions and the individual dog.",
+      note: "Suitability is an editorial assessment and depends on exercise, enrichment, local conditions and the individual dog.",
     },
     nutrition: {
       reliability: "general_guidance",
@@ -619,12 +696,22 @@ export const manchester_terrier: Breed = {
           role: "cited",
           locator: "Nutrition",
         },
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Global nutrition guidelines",
+        },
       ],
       verifiedOn: null,
-      note:
-        "Feeding guidance is general canine nutrition advice, not an individual prescription.",
+      note: "Feeding guidance is general canine nutrition advice, not an individual prescription.",
     },
-    "health.overview": {
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No single puppy, adult, and senior meal frequency was established.",
+    },
+    health: {
       reliability: "reliable_source",
       sources: [
         {
@@ -638,9 +725,8 @@ export const manchester_terrier: Breed = {
           locator: "Health and recommended health tests",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "The overview summarises screening guidance and does not imply that an individual dog has any listed condition.",
+      verifiedOn: "2026-11-09",
+      note: "The overview summarises screening guidance and does not imply that an individual dog has any listed condition.",
     },
     "health.commonConditions": {
       reliability: "reliable_source",
@@ -656,9 +742,8 @@ export const manchester_terrier: Breed = {
           locator: "Health and recommended health tests",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Conditions are included because they appear in breed-club screening guidance or health information. The list does not establish prevalence or mean every dog is affected.",
+      verifiedOn: "2026-11-09",
+      note: "Conditions are included because they appear in breed-club screening guidance or health information. The list does not establish prevalence or mean every dog is affected.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
@@ -680,13 +765,18 @@ export const manchester_terrier: Breed = {
           locator: "Recommended health tests from the national breed club",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Screening lists may differ by variety and national breeding programme. Confirm current requirements with the responsible breed club and veterinarian.",
+      verifiedOn: "2026-11-09",
+      note: "Screening lists may differ by variety and national breeding programme. Confirm current requirements with the responsible breed club and veterinarian.",
     },
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Pet dental care",
+        },
+      ],
       verifiedOn: null,
       note: "General canine dental-care guidance.",
     },
@@ -717,8 +807,7 @@ export const manchester_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "Suitability flags are editorial guidance, not universal rules. Household setup, training, supervision and the individual dog's temperament matter.",
+      note: "Suitability flags are editorial guidance, not universal rules. Household setup, training, supervision and the individual dog's temperament matter.",
     },
     funFacts: {
       reliability: "reliable_source",
@@ -734,7 +823,7 @@ export const manchester_terrier: Breed = {
           locator: "About the breed and Standard/Toy varieties",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-09",
       note: null,
     },
     faq: {
@@ -755,11 +844,15 @@ export const manchester_terrier: Breed = {
           role: "cited",
           locator: "Health screening guidance",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric, breed.weight.metric",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Answers are original summaries; individual needs and outcomes vary.",
+      verifiedOn: "2026-11-09",
+      note: "Answers are original summaries; individual needs and outcomes vary.",
     },
   },
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-09",
 };

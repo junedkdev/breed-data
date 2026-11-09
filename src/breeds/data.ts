@@ -146,6 +146,11 @@ import { hamiltonstovare } from "./hamiltonstovare";
 import { basset_hound } from "./basset_hound";
 import { greenland_dog } from "./greenland_dog";
 import { estrela_mountain_dog } from "./estrela_mountain_dog";
+import { west_highland_white_terrier } from "./west_highland_white_terrier";
+import { patterdale_terrier } from "./patterdale_terrier";
+import { istrian_coarse_haired_hound } from "./istrian_coarse_haired_hound";
+import { appenzeller_sennenhund } from "./appenzeller_sennenhund";
+import { azawakh } from "./azawakh";
 
 
 export const breedData: readonly Breed[] = [
@@ -291,4 +296,9 @@ export const breedData: readonly Breed[] = [
   basset_hound,
   greenland_dog,
   estrela_mountain_dog,
+  west_highland_white_terrier,
+  patterdale_terrier,
+  istrian_coarse_haired_hound,
+  appenzeller_sennenhund,
+  azawakh,
 ];
