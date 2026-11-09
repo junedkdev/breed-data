@@ -135,6 +135,17 @@ import { segugio_italiano_a_pelo_forte } from "./segugio_italiano_a_pelo_forte";
 import { kuvasz } from "./kuvasz";
 import { schillerstovare } from "./schillerstovare";
 import { american_staffordshire_terrier } from "./american_staffordshire_terrier";
+import { beagle_harrier } from "./beagle_harrier";
+import { treeing_walker_coonhound } from "./treeing_walker_coonhound";
+import { segugio_italiano_a_pelo_raso } from "./segugio_italiano_a_pelo_raso";
+import { cao_de_castro_laboreiro } from "./cao_de_castro_laboreiro";
+import { american_eskimo_dog } from "./american_eskimo_dog";
+import { finnish_spitz } from "./finnish_spitz";
+import { transylvanian_hound } from "./transylvanian_hound";
+import { hamiltonstovare } from "./hamiltonstovare";
+import { basset_hound } from "./basset_hound";
+import { greenland_dog } from "./greenland_dog";
+import { estrela_mountain_dog } from "./estrela_mountain_dog";
 
 
 export const breedData: readonly Breed[] = [
@@ -269,4 +280,15 @@ export const breedData: readonly Breed[] = [
   kuvasz,
   schillerstovare,
   american_staffordshire_terrier,
+  beagle_harrier,
+  treeing_walker_coonhound,
+  segugio_italiano_a_pelo_raso,
+  cao_de_castro_laboreiro,
+  american_eskimo_dog,
+  finnish_spitz,
+  transylvanian_hound,
+  hamiltonstovare,
+  basset_hound,
+  greenland_dog,
+  estrela_mountain_dog,
 ];

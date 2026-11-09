@@ -104,15 +104,16 @@ export const sources = defineSources({
     publisher: "American Kennel Club"
   },
 "american-kennel-club-terrier-group-health-testing-requirements": {
-  id: "american-kennel-club-terrier-group-health-testing-requirements",
-  name: "American Kennel Club - Terrier Group Health Testing Requirements",
-  publisher: "American Kennel Club",
-  url: "https://www.akc.org/breeder-programs/breed-health-testing-requirements/terrier-group-health-testing-requirements/",
-  type: "kennel_club",
-  publishedOn: null,
-  accessedOn: "2026-10-27",
-  note: "Norfolk Terrier section lists patella evaluation, cardiac examination and ophthalmologist examination.",
-},
+    id: "american-kennel-club-terrier-group-health-testing-requirements",
+    name: "American Kennel Club - Terrier Group Health Testing Requirements",
+    publisher: "American Kennel Club",
+    url: "https://www.akc.org/breeder-programs/breed-health-testing-requirements/terrier-group-health-testing-requirements/",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official parent-club health testing requirements for the Terrier Group, specifying Primary Lens Luxation (PLL) DNA testing for the Welsh Terrier.",
+  },
   "american-kennel-club-wirehaired-vizsla": {
     id: "american-kennel-club-wirehaired-vizsla",
     name: "American Kennel Club - Wirehaired Vizsla",
@@ -1793,8 +1794,8 @@ export const sources = defineSources({
     type: "veterinary",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-11-07",
-    note: "Veterinary guidance on home oral hygiene, active tooth brushing with pet-safe enzymatic toothpaste, and annual professional dental examinations.",
+    accessedOn: "2026-11-08",
+    note: "General preventive oral health and dental hygiene guidance for domestic dogs.",
   },
 "wikimedia-bucovina-shepherd-canarian-2019": {
     id: "wikimedia-bucovina-shepherd-canarian-2019",
@@ -2059,8 +2060,8 @@ export const sources = defineSources({
     type: "veterinary",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-11-07",
-    note: "Clinical veterinary guidelines on canine nutritional assessment, complete and balanced diet selection, body condition scoring, and hydration monitoring.",
+    accessedOn: "2026-11-08",
+    note: "General veterinary nutritional assessment, body condition scoring, and individualized feeding recommendations for companion canines.",
   },
 "fci-old-danish-pointing-dog-standard": {
     id: "fci-old-danish-pointing-dog-standard",
@@ -5956,7 +5957,7 @@ export const sources = defineSources({
     accessedOn: "2026-10-23",
     note: "Wikimedia Commons file page for 'File:Boykin Spaniel April Jet.jpg' (1024 × 683 px, CC BY-SA 2.0), photographed by jetsonphoto on 2011-04-07 and uploaded to Commons on 2012-02-18.",
   },
-  "fci-airedale-terrier-standard": {
+"fci-airedale-terrier-standard": {
     id: "fci-airedale-terrier-standard",
     name: "FCI - Airedale Terrier Breed Standard",
     publisher: "Fédération Cynologique Internationale",
@@ -5964,10 +5965,10 @@ export const sources = defineSources({
     type: "official_breed_standard",
     commercialUse: "reference_only",
     publishedOn: "2026-09-08",
-    accessedOn: "2026-10-23",
-    note: "FCI Standard No. 7. The PDF revision is dated 06 October 2026 and states that the official valid standard was published on 08 September 2026.",
+    accessedOn: "2026-11-08",
+    note: "FCI Standard No. 7 (Group 3 Terriers, Section 1 Large and medium-sized Terriers; origin Great Britain; wither height 58-61 cm for males and 56-59 cm for females; hard, dense, wiry coat with dark saddle and tan furnishings).",
   },
-  "american-kennel-club-airedale-terrier": {
+"american-kennel-club-airedale-terrier": {
     id: "american-kennel-club-airedale-terrier",
     name: "American Kennel Club - Airedale Terrier",
     publisher: "American Kennel Club",
@@ -5975,10 +5976,10 @@ export const sources = defineSources({
     type: "kennel_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-23",
-    note: "Breed profile covering typical size, life expectancy, colour, traits and general breed information.",
+    accessedOn: "2026-11-08",
+    note: "Breed profile covering Terrier Group classification, 50-70 lb weight range, 11-14 year life expectancy, traits, exercise needs, and recommended health evaluations.",
   },
-  "airedale-terrier-club-america-health-statement": {
+"airedale-terrier-club-america-health-statement": {
     id: "airedale-terrier-club-america-health-statement",
     name: "Airedale Terrier Club of America - Health Statement",
     publisher: "Airedale Terrier Club of America",
@@ -5986,10 +5987,10 @@ export const sources = defineSources({
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: "2014-10-30",
-    accessedOn: "2026-10-23",
-    note: "Breed-club health statement dated 30 October 2014. Includes hip, cardiac and kidney screening recommendations, with eye, thyroid and elbow evaluations listed as optional. Confirm current recommendations with the club and veterinarian.",
+    accessedOn: "2026-11-08",
+    note: "Parent breed club health statement covering hip, cardiac, and renal disease screening requirements, with eye, thyroid, and elbow evaluations designated as optional screenings.",
   },
-  "wikimedia-airedale-dog": {
+"wikimedia-airedale-dog": {
     id: "wikimedia-airedale-dog",
     name: "Wikimedia Commons - AiredaleDog.jpg",
     publisher: "Wikimedia Commons",
@@ -5997,10 +5998,10 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-23",
-    note: "Original file page identifies Angela Montillon as the author, gives the capture date as 10 November 2006 and Commons upload date as 28 February 2008. Licensed CC BY-SA 2.0.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an Airedale Terrier sitting on grass by Angela Montillon under CC BY-SA 2.0.",
   },
-  "wikimedia-airedale-terrier-ioan-bodean": {
+"wikimedia-airedale-terrier-ioan-bodean": {
     id: "wikimedia-airedale-terrier-ioan-bodean",
     name: "Wikimedia Commons - Airedale terrier.jpg",
     publisher: "Wikimedia Commons",
@@ -6008,10 +6009,10 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-23",
-    note: "Original file page identifies Ioan Bodean as the author, gives the capture date as 23 September 2008 and Commons upload date as 22 October 2008. Licensed CC BY-SA 2.0.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an Airedale Terrier outdoors by Ioan Bodean under CC BY-SA 2.0.",
   },
-  "wikimedia-airedale-young-milkomede": {
+"wikimedia-airedale-young-milkomede": {
     id: "wikimedia-airedale-young-milkomede",
     name: "Wikimedia Commons - Young Airedale Terrier 29-07-2009.jpg",
     publisher: "Wikimedia Commons",
@@ -6019,8 +6020,8 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-23",
-    note: "Original file page identifies Milkomède as the author, gives the capture date as 29 July 2009 and Commons upload date as 20 September 2021. Licensed CC BY-SA 4.0.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a young Airedale Terrier by Milkomède under CC BY-SA 4.0.",
   },
   "fci-artois-hound-nomenclature": {
     id: "fci-artois-hound-nomenclature",
@@ -6102,7 +6103,7 @@ export const sources = defineSources({
     accessedOn: "2026-10-23",
     note: "Wikimedia Commons file page for 'File:Artois from 1915.JPG' (1600 × 1128 px, public domain in the United States from W. E. Mason's 1915 book 'Dogs of All Nations', uploaded 2009-05-17 and updated in high resolution on 2019-08-31)."
   },
-  "fci-dobermann-standard": {
+"fci-dobermann-standard": {
     id: "fci-dobermann-standard",
     name: "FCI - Dobermann Breed Standard No. 143",
     publisher: "Fédération Cynologique Internationale",
@@ -6110,10 +6111,10 @@ export const sources = defineSources({
     type: "official_breed_standard",
     commercialUse: "reference_only",
     publishedOn: "2015-11-13",
-    accessedOn: "2026-10-23",
-    note: "Official FCI Standard No. 143. The FCI nomenclature identifies 13 November 2015 as the publication date of the official valid standard.",
+    accessedOn: "2026-11-08",
+    note: "Official FCI Standard No. 143 (Group 2 Pinscher and Schnauzer type, Section 1 Pinschers, with working trial; origin Germany; male wither height 68-72 cm, weight about 40-45 kg; female wither height 63-68 cm, weight about 32-35 kg; recognized colors black or brown with rust-red markings).",
   },
-  "american-kennel-club-doberman-pinscher": {
+"american-kennel-club-doberman-pinscher": {
     id: "american-kennel-club-doberman-pinscher",
     name: "American Kennel Club - Doberman Pinscher",
     publisher: "American Kennel Club",
@@ -6121,10 +6122,10 @@ export const sources = defineSources({
     type: "kennel_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-23",
-    note: "Breed profile covering appearance, activity, lifespan, grooming and health concerns.",
+    accessedOn: "2026-11-08",
+    note: "Breed profile covering Working Group classification, 24-28 inch height, 60-100 lb weight, 10-12 year life expectancy, four recognized colors (black, red, blue, fawn with rust markings), temperament, grooming, and health screenings.",
   },
-  "american-kennel-club-working-group-health-testing-requirements": {
+"american-kennel-club-working-group-health-testing-requirements": {
     id: "american-kennel-club-working-group-health-testing-requirements",
     name: "American Kennel Club - Working Group Health Testing Requirements",
     publisher: "American Kennel Club",
@@ -6132,10 +6133,10 @@ export const sources = defineSources({
     type: "kennel_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-23",
-    note: "The Doberman Pinscher entry lists hip, cardiac, ophthalmologist, thyroid and von Willebrand disease testing recommendations.",
+    accessedOn: "2026-11-08",
+    note: "Official parent-club health testing requirements for the Working Group, listing hip evaluation, cardiac evaluation, ophthalmologist evaluation, autoimmune thyroiditis panel, and von Willebrand disease DNA testing for the Doberman Pinscher.",
   },
-  "doberman-pinscher-club-america-health-statement": {
+"doberman-pinscher-club-america-health-statement": {
     id: "doberman-pinscher-club-america-health-statement",
     name: "Doberman Pinscher Club of America - Health Statement",
     publisher: "Doberman Pinscher Club of America",
@@ -6143,10 +6144,10 @@ export const sources = defineSources({
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: "2016-01-06",
-    accessedOn: "2026-10-23",
-    note: "Health statement approved 06 January 2016, discussing cardiac disease, thyroid disease, liver disease, cervical vertebral instability, von Willebrand disease, eye evaluation and hip evaluation. Confirm current screening advice with the breed club and veterinarian.",
+    accessedOn: "2026-11-08",
+    note: "Parent breed club health statement covering dilated cardiomyopathy (echocardiogram and annual Holter monitoring), autoimmune thyroiditis, von Willebrand disease, liver disease (chronic hepatitis), cervical vertebral instability (Wobbler syndrome), hip dysplasia, and eye examinations.",
   },
-  "wikimedia-doberman-canarian": {
+"wikimedia-doberman-canarian": {
     id: "wikimedia-doberman-canarian",
     name: "Wikimedia Commons - Doberman Pinscher aka Dobermann.jpg",
     publisher: "Wikimedia Commons",
@@ -6154,10 +6155,10 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-23",
-    note: "Original file page identifies Canarian as the author, with capture date 10 July 2011 and file upload dated 16 April 2014. Licensed CC BY-SA 3.0.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a black-and-rust female Doberman Pinscher by Canarian under CC BY-SA 3.0.",
   },
-  "wikimedia-doberman-puppydekho": {
+"wikimedia-doberman-puppydekho": {
     id: "wikimedia-doberman-puppydekho",
     name: "Wikimedia Commons - Doberman Dog.jpg",
     publisher: "Wikimedia Commons",
@@ -6165,10 +6166,10 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-23",
-    note: "Original file page identifies Puppydekho as author and gives the image date as 03 March 2024 and upload date as 18 March 2024. Licensed CC BY-SA 4.0.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an alert adult Doberman Pinscher by Puppydekho under CC BY-SA 4.0.",
   },
-  "wikimedia-doberman-willitorivera": {
+"wikimedia-doberman-willitorivera": {
     id: "wikimedia-doberman-willitorivera",
     name: "Wikimedia Commons - Doberman Pinscher.jpg",
     publisher: "Wikimedia Commons",
@@ -6176,10 +6177,10 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-23",
-    note: "Original file page identifies Willitorivera as the creator and the file as CC BY-SA 3.0. Capture date is recorded as 16 June 2017; no upload date is asserted here.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Doberman Pinscher outdoors by Willitorivera under CC BY-SA 3.0.",
   },
-  "fci-welsh-terrier-nomenclature": {
+"fci-welsh-terrier-nomenclature": {
     id: "fci-welsh-terrier-nomenclature",
     name: "FCI - Welsh Terrier Breed Information",
     publisher: "Fédération Cynologique Internationale",
@@ -6187,10 +6188,10 @@ export const sources = defineSources({
     type: "official_breed_standard",
     commercialUse: "reference_only",
     publishedOn: "2026-09-08",
-    accessedOn: "2026-10-24",
+    accessedOn: "2026-11-08",
     note: "FCI breed nomenclature lists Welsh Terrier as Standard No. 78, Group 3, with Great Britain as its country of origin. The current nomenclature page records the official valid standard date as 08 September 2026.",
   },
-  "royal-kennel-club-welsh-terrier-standard": {
+"royal-kennel-club-welsh-terrier-standard": {
     id: "royal-kennel-club-welsh-terrier-standard",
     name: "The Kennel Club - Welsh Terrier Breed Standard",
     publisher: "The Kennel Club",
@@ -6198,10 +6199,10 @@ export const sources = defineSources({
     type: "official_breed_standard",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Breed standard covering coat, colour, height, weight, tail and movement.",
+    accessedOn: "2026-11-08",
+    note: "Official breed standard covering coat texture, colour, height not exceeding 39 cm, weight 9-9.5 kg, and working movement.",
   },
-  "american-kennel-club-welsh-terrier": {
+"american-kennel-club-welsh-terrier": {
     id: "american-kennel-club-welsh-terrier",
     name: "American Kennel Club - Welsh Terrier",
     publisher: "American Kennel Club",
@@ -6209,10 +6210,10 @@ export const sources = defineSources({
     type: "kennel_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Breed profile covering history, size, lifespan, colours, grooming, exercise, temperament and health information.",
+    accessedOn: "2026-11-08",
+    note: "Breed profile covering history, height (about 15 inches), average weight (20 pounds), 12-15 year lifespan, colours, grooming, exercise, and health screening.",
   },
-  "welsh-terrier-club-america-health-statement": {
+"welsh-terrier-club-america-health-statement": {
     id: "welsh-terrier-club-america-health-statement",
     name: "Welsh Terrier Club of America - Health Statement",
     publisher: "Welsh Terrier Club of America",
@@ -6220,10 +6221,10 @@ export const sources = defineSources({
     type: "breed_club",
     commercialUse: "reference_only",
     publishedOn: "2016-08-17",
-    accessedOn: "2026-10-24",
-    note: "Breed-club health statement approved 17 August 2016. Recommends testing for Primary Lens Luxation (PLL) and states that no tests are required by the club at the time of that statement. Check for updated recommendations.",
+    accessedOn: "2026-11-08",
+    note: "Parent breed club health statement approved 17 August 2016, recommending Primary Lens Luxation (PLL) DNA testing for breeding stock.",
   },
-  "vcahospitals-welsh-terrier": {
+"vcahospitals-welsh-terrier": {
     id: "vcahospitals-welsh-terrier",
     name: "VCA Animal Hospitals - Welsh Terrier",
     publisher: "VCA Animal Hospitals",
@@ -6231,10 +6232,10 @@ export const sources = defineSources({
     type: "veterinary",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Veterinary breed overview covering grooming, exercise, temperament and reported health concerns.",
+    accessedOn: "2026-11-08",
+    note: "Veterinary clinical overview covering grooming, exercise needs, temperament, and health considerations (glaucoma, lens luxation, allergies, and orthopedic conditions).",
   },
-  "wikimedia-welsh-terrier-shleiderbmx": {
+"wikimedia-welsh-terrier-shleiderbmx": {
     id: "wikimedia-welsh-terrier-shleiderbmx",
     name: "Wikimedia Commons - Welsh Terrier.JPG",
     publisher: "Wikimedia Commons",
@@ -6242,10 +6243,10 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Original file page identifies Shleiderbmx as the creator and records CC BY 3.0 licensing. The file is 4752 × 3168 pixels; attribution and a link to the license are required.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an alert adult Welsh Terrier outdoors by Shleiderbmx under CC BY 3.0.",
   },
-  "wikimedia-welshterrier-ebba-persson": {
+"wikimedia-welshterrier-ebba-persson": {
     id: "wikimedia-welshterrier-ebba-persson",
     name: "Wikimedia Commons - Welshterrier.jpg",
     publisher: "Wikimedia Commons",
@@ -6253,10 +6254,10 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Original file page credits photographer Ebba Persson and records CC BY-SA 2.5 licensing. The original upload date is recorded as 20 September 2004; the current Commons file history dates to 10 December 2006.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of Welsh Terrier Fracas Madame Butterfly by Ebba Persson under CC BY-SA 2.5.",
   },
-  "wikimedia-welsh-terrier-image-cameille": {
+"wikimedia-welsh-terrier-image-cameille": {
     id: "wikimedia-welsh-terrier-image-cameille",
     name: "Wikimedia Commons - Welsh Terrier Image.jpg",
     publisher: "Wikimedia Commons",
@@ -6264,10 +6265,10 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Original file page credits cameille and records CC BY-SA 2.0 licensing. The image was originally posted to Flickr and reviewed for the stated license.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Welsh Terrier outdoors by cameille under CC BY-SA 2.0.",
   },
-  "fci-finnish-hound-official-standard": {
+"fci-finnish-hound-official-standard": {
     id: "fci-finnish-hound-official-standard",
     name: "FCI — Finnish Hound Official Breed Standard No. 51",
     publisher: "Fédération Cynologique Internationale",
@@ -6275,10 +6276,10 @@ export const sources = defineSources({
     type: "official_breed_standard",
     commercialUse: "reference_only",
     publishedOn: "2000-11-14",
-    accessedOn: "2026-10-24",
-    note: "Official English-language FCI Standard No. 51. The document lists the official valid standard date as 1997-07-17 and the standard publication date as 2000-11-14."
+    accessedOn: "2026-11-08",
+    note: "Official English-language FCI Standard No. 51 (Group 6 Scent hounds and related breeds, Section 1.2 Medium-sized Hounds; origin Finland; male height 55-61 cm, female height 52-58 cm; tricolour with black mantle, rich tan markings and white patches).",
   },
-  "finnish-kennel-club-finnish-hound": {
+"finnish-kennel-club-finnish-hound": {
     id: "finnish-kennel-club-finnish-hound",
     name: "Finnish Kennel Club — Finnish Hound",
     publisher: "Finnish Kennel Club",
@@ -6286,10 +6287,10 @@ export const sources = defineSources({
     type: "kennel_club",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Breed overview covering Finnish Hound history, hunting purpose, height, coat, temperament and the hip-index objective used in breeding."
+    accessedOn: "2026-11-08",
+    note: "Breed overview by the Finnish Kennel Club (Suomen Kennelliitto) covering history, working purpose for hunting hare and fox, temperament, and hip-index breeding goals.",
   },
-  "united-kennel-club-finnish-hound-standard": {
+"united-kennel-club-finnish-hound-standard": {
     id: "united-kennel-club-finnish-hound-standard",
     name: "United Kennel Club — Finnish Hound Breed Standard",
     publisher: "United Kennel Club",
@@ -6297,10 +6298,10 @@ export const sources = defineSources({
     type: "official_breed_standard",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Breed standard and description of the Finnish Hound's general appearance, characteristics and traditional hunting use."
+    accessedOn: "2026-11-08",
+    note: "UKC Scenthound breed standard covering general appearance, rectangular body proportions, harsh double coat, and hunting characteristics.",
   },
-  "zoetis-finnish-hound-profile": {
+"zoetis-finnish-hound-profile": {
     id: "zoetis-finnish-hound-profile",
     name: "Zoetis Petcare — Finnish Hound Breed Profile",
     publisher: "Zoetis Petcare",
@@ -6308,10 +6309,10 @@ export const sources = defineSources({
     type: "veterinary",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Breed profile providing a reported lifespan range and a broad health overview. Its general health categories are not treated as proof of breed-specific disease prevalence."
+    accessedOn: "2026-11-08",
+    note: "Veterinary clinical profile providing typical lifespan and health guidance.",
   },
-  "wikimedia-finnish-hound-canarian-2021": {
+"wikimedia-finnish-hound-canarian-2021": {
     id: "wikimedia-finnish-hound-canarian-2021",
     name: "Wikimedia Commons — File:FinnishHound.jpg",
     publisher: "Wikimedia Commons",
@@ -6319,10 +6320,10 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: "2021-08-01",
-    accessedOn: "2026-10-24",
-    note: "Photograph by Canarian, dated and uploaded 2021-08-01, 1792 × 1415 pixels, licensed under CC BY-SA 4.0. Attribution is required and adaptations must follow the same or a compatible license."
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Finnish Hound by Canarian, dated 2021-08-01, licensed under CC BY-SA 4.0.",
   },
-  "wikimedia-finnish-hound-etakarppa-2009": {
+"wikimedia-finnish-hound-etakarppa-2009": {
     id: "wikimedia-finnish-hound-etakarppa-2009",
     name: "Wikimedia Commons — File:Finnish_Hound.jpg",
     publisher: "Wikimedia Commons",
@@ -6330,10 +6331,10 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: "2009-07-20",
-    accessedOn: "2026-10-24",
-    note: "Photograph by EtäKärppä, captured 2009-04-05 and uploaded 2009-07-20, 3648 × 2736 pixels. Wikimedia Commons lists CC BY-SA 3.0 and GFDL; the breed record uses CC BY-SA 3.0 with attribution and share-alike terms."
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Finnish Hound (Suomenajokoira) by EtäKärppä, dated 2009-04-05 and uploaded 2009-07-20, licensed under CC BY-SA 3.0.",
   },
-  "wikimedia-finnish-hound-canarian-2025": {
+"wikimedia-finnish-hound-canarian-2025": {
     id: "wikimedia-finnish-hound-canarian-2025",
     name: "Wikimedia Commons — File:Finnishhoundsuomenajo6.jpg",
     publisher: "Wikimedia Commons",
@@ -6341,8 +6342,8 @@ export const sources = defineSources({
     type: "other",
     commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Photograph captioned as a male Finnish Hound, by Canarian, dated 2025-05-04, 1998 × 1460 pixels. The file page identifies CC BY-SA 4.0. Upload date is not recorded because it was not established from the reviewed metadata."
+    accessedOn: "2026-11-08",
+    note: "Photograph of a male Finnish Hound by Canarian, captured 2025-05-04, licensed under CC BY-SA 4.0.",
   },
   "fci-old-danish-pointing-dog-nomenclature": {
     id: "fci-old-danish-pointing-dog-nomenclature",
@@ -6444,85 +6445,93 @@ export const sources = defineSources({
     accessedOn: "2026-10-23",
     note: "Wikimedia Commons file page for 'File:Old Danish Pointer.jpg' (496 × 319 px), photographed by Canarian on 2008-10-31 and uploaded on 2013-10-23 under CC BY-SA 3.0."
   },
-  "fci-aidi-official-standard": {
+"fci-aidi-official-standard": {
     id: "fci-aidi-official-standard",
     name: "FCI — Atlas Mountain Dog (Aidi), Standard No. 247",
     publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/247g02-en.pdf",
     type: "official_breed_standard",
+    commercialUse: "reference_only",
     publishedOn: "2003-05-05",
-    accessedOn: "2026-10-24",
-    note: "The standard PDF is dated 05.05.2003. The FCI nomenclature page separately lists 25.03.2003 as the publication date of the official valid standard.",
+    accessedOn: "2026-11-08",
+    note: "Official FCI Standard No. 247 (Group 2 Pinscher and Schnauzer, Molossoid and Swiss Mountain and Cattledogs; Section 2.2 Molossian, Mountain type; origin Morocco; height 52-62 cm; thick, weather-resistant coat with protective mane; not subject to working trial).",
   },
-  "united-kennel-club-aidi-standard": {
+"united-kennel-club-aidi-standard": {
     id: "united-kennel-club-aidi-standard",
     name: "United Kennel Club — Aidi (Atlas Mountain Dog) Official Breed Standard",
     publisher: "United Kennel Club",
     url: "https://www.ukcdogs.com/docs/breeds/atlas-mountain-dog-aidi.pdf",
     type: "official_breed_standard",
+    commercialUse: "reference_only",
     publishedOn: "2008-01-01",
-    accessedOn: "2026-10-24",
-    note: "The PDF identifies itself as the official UKC breed standard, revised January 1, 2008.",
+    accessedOn: "2026-11-08",
+    note: "Official UKC Guardian Dog breed standard revised January 1, 2008, detailing body proportions (10:9 ratio), protective double coat, semi-prick ears, and guardian traits.",
   },
-  "royal-canin-aidi-profile": {
+"royal-canin-aidi-profile": {
     id: "royal-canin-aidi-profile",
-    name: "Royal Canin India — Aidi Breed Profile",
+    name: "Royal Canin — Aidi Breed Profile",
     publisher: "Royal Canin",
     url: "https://www.royalcanin.com/in/dogs/breeds/aidi",
     type: "other",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Used for the published average life-expectancy estimate; not treated as an official breed standard.",
+    accessedOn: "2026-11-08",
+    note: "Breed overview providing a published 10-12 year average life expectancy estimate.",
   },
-  "pubmed-aidi-leishmaniasis-study": {
+"pubmed-aidi-leishmaniasis-study": {
     id: "pubmed-aidi-leishmaniasis-study",
     name: "Diagnosis and Prevalence of Canine Leishmaniasis in the Atlas Shepherd Dog",
     publisher: "PubMed / Veterinary Parasitology: Regional Studies and Reports",
     url: "https://pubmed.ncbi.nlm.nih.gov/36436887/",
     type: "scientific_publication",
+    commercialUse: "reference_only",
     publishedOn: "2022-09-24",
-    accessedOn: "2026-10-24",
-    note: "Study of 161 Atlas shepherd dogs in the Tiaret region of Algeria; findings are specific to the study population and location.",
+    accessedOn: "2026-11-08",
+    note: "Scientific study of 161 Atlas shepherd dogs in the Tiaret region of Algeria; findings reflect vector-borne infection rates specific to that geographic sample.",
   },
-  "fci-puli-official-standard": {
+"fci-puli-official-standard": {
     id: "fci-puli-official-standard",
     name: "FCI — Puli, Standard No. 55",
     publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/055g01-en.pdf",
     type: "official_breed_standard",
+    commercialUse: "reference_only",
     publishedOn: "2013-10-29",
-    accessedOn: "2026-10-24",
-    note: "Official valid standard; FCI nomenclature lists 29 October 2013 as its publication date.",
+    accessedOn: "2026-11-08",
+    note: "Official FCI Standard No. 55 (Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs; origin Hungary; male height 39-45 cm, female height 36-42 cm; corded double coat with recognized colors pearl-white, black, black shaded with rust-red or grey, fawn with black mask, and grey).",
   },
-  "american-kennel-club-puli": {
+"american-kennel-club-puli": {
     id: "american-kennel-club-puli",
     name: "American Kennel Club — Puli Breed Profile",
     publisher: "American Kennel Club",
     url: "https://www.akc.org/dog-breeds/puli/",
     type: "kennel_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Breed overview, coat care and recommended health tests.",
+    accessedOn: "2026-11-08",
+    note: "Breed overview covering Herding Group classification, typical size, 10-15 year life expectancy, corded coat care, exercise, and recommended health testing.",
   },
-  "puli-club-of-america-health-statement": {
+"puli-club-of-america-health-statement": {
     id: "puli-club-of-america-health-statement",
     name: "Puli Club of America — Health Statement",
     publisher: "Puli Club of America",
     url: "https://cdn.akc.org/Marketplace/Health-Statement/Puli.pdf",
     type: "breed_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Breed-club health-screening recommendations for breeding stock.",
+    accessedOn: "2026-11-08",
+    note: "Breed-club health testing recommendations for breeding stock covering hip dysplasia, patellar luxation, eye examination (CAER/CERF), and degenerative myelopathy (DM) DNA testing.",
   },
-  "puli-club-of-america-faq": {
+"puli-club-of-america-faq": {
     id: "puli-club-of-america-faq",
     name: "Puli Club of America — Frequently Asked Questions",
     publisher: "Puli Club of America",
     url: "https://puliclub.org/wp/frequently-asked-questions/",
     type: "breed_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note: "Used for the club's published average lifespan estimate and health-screening information.",
+    accessedOn: "2026-11-08",
+    note: "Parent club informational FAQ discussing 10-15 year lifespan, cord formation, coat maintenance, and herding temperament.",
   },
   "enci-cane-da-pastore-abruzzese-maremmano": {
     id: "enci-cane-da-pastore-abruzzese-maremmano",
@@ -6601,60 +6610,60 @@ export const sources = defineSources({
     accessedOn: "2026-10-23",
     note: "Open-access epidemiological study of 13,292 canine sera collected in Lazio, central Italy (2010–2014), finding that autochthonous Maremma Sheepdogs and long-coated dogs had significantly lower odds of Leishmania infantum seropositivity compared with non-autochthonous breeds (OR = 1.9 for other breeds vs. Maremma Sheepdog, p < 0.001)."
   },
-  "fci-portuguese-water-dog-standard": {
+"fci-portuguese-water-dog-standard": {
     id: "fci-portuguese-water-dog-standard",
     name: "FCI — Standard No. 37: Portuguese Water Dog",
     publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/037g08-en.pdf",
     type: "official_breed_standard",
+    commercialUse: "reference_only",
     publishedOn: "2008-11-04",
-    accessedOn: "2026-10-24",
-    note:
-      "Official valid standard publication date is 4 November 2008; the English PDF bears the date 30 March 2009.",
+    accessedOn: "2026-11-08",
+    note: "Official FCI Standard No. 37 (Group 8 Retrievers, Flushing Dogs and Water Dogs; Section 3 Water Dogs; origin Portugal; male height 50-57 cm, weight 19-25 kg; female height 43-52 cm, weight 16-22 kg; single coat in curly or wavy varieties).",
   },
-  "portuguese-kennel-club-portuguese-water-dog": {
+"portuguese-kennel-club-portuguese-water-dog": {
     id: "portuguese-kennel-club-portuguese-water-dog",
     name: "Clube Português de Canicultura — Portuguese Water Dog",
     publisher: "Clube Português de Canicultura",
     url: "https://www.cpc.pt/en/breeds/portuguese-breeds/portuguese-water-dog/",
     type: "breed_registry",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Portuguese breed profile with FCI classification, measurements and historical summary.",
+    accessedOn: "2026-11-08",
+    note: "Official Portuguese national kennel club breed profile covering historical maritime background, working trials, and conformation measurements.",
   },
-  "american-kennel-club-portuguese-water-dog": {
+"american-kennel-club-portuguese-water-dog": {
     id: "american-kennel-club-portuguese-water-dog",
     name: "American Kennel Club — Portuguese Water Dog",
     publisher: "American Kennel Club",
     url: "https://www.akc.org/dog-breeds/portuguese-water-dog/",
     type: "kennel_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Breed overview, coat and grooming information, and national breed-club health-testing recommendations.",
+    accessedOn: "2026-11-08",
+    note: "Breed overview covering Working Group classification, coat varieties, grooming styles (lion clip and retriever clip), exercise, and parent-club health recommendations.",
   },
-  "portuguese-water-dog-club-of-america-health": {
+"portuguese-water-dog-club-of-america-health": {
     id: "portuguese-water-dog-club-of-america-health",
     name: "Portuguese Water Dog Club of America — Health Overview",
     publisher: "Portuguese Water Dog Club of America",
     url: "https://www.pwdca.org/site_page.cfm?pk_association_webpage_menu=8889",
     type: "breed_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Breed-club overview of reported health issues and recommended pre-breeding evaluations and genetic tests.",
+    accessedOn: "2026-11-08",
+    note: "Breed-club health testing recommendations covering hip dysplasia, ophthalmologist examination, and genetic testing for GM-1 gangliosidosis, prcd-PRA, EOPRA, microphthalmia, and juvenile dilated cardiomyopathy.",
   },
-  "portuguese-water-dog-club-of-america-care": {
+"portuguese-water-dog-club-of-america-care": {
     id: "portuguese-water-dog-club-of-america-care",
     name: "Portuguese Water Dog Club of America — Breed and Owner Guidance",
     publisher: "Portuguese Water Dog Club of America",
     url: "https://www.pwdca.org/site_page.cfm?pk_association_webpage=18419&pk_association_webpage_menu=8856",
     type: "breed_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Owner guidance on activity, training, family life, grooming, shedding and allergy considerations.",
+    accessedOn: "2026-11-08",
+    note: "Owner guidance covering exercise needs, training, family life, grooming commitments, shedding characteristics, and allergy realities.",
   },
   "american-kennel-club-hovawart": {
     id: "american-kennel-club-hovawart",
@@ -6733,126 +6742,126 @@ export const sources = defineSources({
     accessedOn: "2026-10-23",
     note: "Photograph of a black-and-gold (schwarzmarken) Hovawart by Ladislav Faigl (Faigl.ladislav), uploaded 2006-04-30, 640 × 480 pixels, licensed under CC BY-SA 3.0 Unported (and dual-licensed under GFDL 1.2+)."
   },
-  "fci-chinese-crested-dog-standard": {
+"fci-chinese-crested-dog-standard": {
     id: "fci-chinese-crested-dog-standard",
     name: "FCI — Chinese Crested Dog Official Breed Standard No. 288",
     publisher: "Fédération Cynologique Internationale (FCI)",
     url: "https://www.fci.be/Nomenclature/Standards/288g09-en.pdf",
     type: "official_breed_standard",
+    commercialUse: "reference_only",
     publishedOn: "2021-07-27",
-    accessedOn: "2026-10-24",
-    note:
-      "Official English FCI Standard No. 288. The PDF is dated 15 September 2021 and states 27 July 2021 as the publication date of the official valid standard. Used for origin, classification, utilization, varieties, coat, temperament, dentition, and ideal height.",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 288. Origin China; patronage Great Britain; Group 9 Companion and Toy Dogs, Section 4 Hairless Breeds; height at withers: males 28-33 cm, females 23-30 cm; covers Hairless and Powderpuff varieties, coat characteristics, dentition, and temperament.",
   },
-  "american-kennel-club-chinese-crested-dog": {
+"american-kennel-club-chinese-crested-dog": {
     id: "american-kennel-club-chinese-crested-dog",
     name: "American Kennel Club — Chinese Crested Dog",
     publisher: "American Kennel Club",
     url: "https://www.akc.org/dog-breeds/chinese-crested/",
     type: "kennel_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Breed profile consulted for life expectancy, grooming differences, skin care, and recommended breed health tests.",
+    accessedOn: "2026-11-08",
+    note: "Breed profile covering lifespan (13-18 years), toy classification, variety-specific grooming, skin care, temperament, and parent-club health testing recommendations.",
   },
-  "american-kennel-club-chinese-crested-history": {
+"american-kennel-club-chinese-crested-history": {
     id: "american-kennel-club-chinese-crested-history",
     name: "American Kennel Club — Chinese Crested History",
     publisher: "American Kennel Club",
     url: "https://www.akc.org/expert-advice/dog-breeds/chinese-crested-history/",
     type: "kennel_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Historical overview covering uncertainty around early origins, historical names, the work of Ida Garrett and Debra Woods, formation of the American Chinese Crested Club, and AKC recognition.",
+    accessedOn: "2026-11-08",
+    note: "Historical documentation covering maritime trade routes, alternative and historical names, early twentieth-century breeding by Ida Garrett and Debra Woods, parent club foundation in 1979, and stud book entry.",
   },
-  "american-chinese-crested-club-health-statement": {
+"american-chinese-crested-club-health-statement": {
     id: "american-chinese-crested-club-health-statement",
     name: "American Chinese Crested Club — Health Statement",
     publisher: "American Chinese Crested Club",
     url: "https://images.akc.org/pdf/Chinese_Crested_health_statement_2018.pdf",
     type: "breed_club",
+    commercialUse: "reference_only",
     publishedOn: "2018-10-01",
-    accessedOn: "2026-10-24",
-    note:
-      "Breed-club health statement approved on 1 October 2018. Lists recommended eye, cardiac, patella, prcd-PRA, primary lens luxation, and PRA-rcd3 screening.",
+    accessedOn: "2026-11-08",
+    note: "Official parent-club health testing statement outlining mandatory and recommended screenings including eye examination, patellar luxation evaluation, cardiac evaluation, PLL DNA test, prcd-PRA DNA test, and PRA-rcd3 DNA test.",
   },
-  "ecvo-chinese-crested-hereditary-eye-diseases": {
+"ecvo-chinese-crested-hereditary-eye-diseases": {
     id: "ecvo-chinese-crested-hereditary-eye-diseases",
     name: "ECVO Manual — Chinese Crested Dog: Known and Presumed Hereditary Eye Diseases",
     publisher: "European College of Veterinary Ophthalmologists (ECVO)",
     url: "https://www.ecvo.eu/media/chinesecresteddog.pdf",
     type: "veterinary_reference",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "The 2021 ECVO manual entry lists known or presumed inherited ocular disorders and distinguishes conditions with identified inheritance or genetic tests from those whose inheritance is unknown.",
+    accessedOn: "2026-11-08",
+    note: "Veterinary ophthalmology reference cataloging inherited ocular disorders in the breed, distinguishing conditions with verified causative mutations (such as PLL and PRA variants) from clinical observations.",
   },
-  "fci-griffon-bleu-de-gascogne-standard": {
+"fci-griffon-bleu-de-gascogne-standard": {
     id: "fci-griffon-bleu-de-gascogne-standard",
     name: "FCI — Griffon Bleu de Gascogne Official Breed Standard No. 32",
     publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/032g06-en.pdf",
     type: "official_breed_standard",
+    commercialUse: "reference_only",
     publishedOn: "2023-08-29",
-    accessedOn: "2026-10-24",
-    note:
-      "Official English FCI Standard No. 32. The PDF is dated 29 August 2023 and identifies 1 August 2023 as the publication date of the official valid standard. Used for classification, origin, historical summary, hunting purpose, temperament, coat, colour, and height.",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 32. Origin France; Group 6 Scenthounds and Related Breeds, Section 1.2 Medium-Sized Hounds; male height 50-57 cm, female height 48-55 cm; covers origin, historical summary, hunting purpose, temperament, coat texture, coloration, and physical conformation.",
   },
-  "vdh-griffon-bleu-de-gascogne": {
+"vdh-griffon-bleu-de-gascogne": {
     id: "vdh-griffon-bleu-de-gascogne",
     name: "VDH — Griffon Bleu de Gascogne Breed Profile",
     publisher: "Verband für das Deutsche Hundewesen",
     url: "https://welpen.vdh.de/hunderassen/rasselexikon/ergebnis/griffon-bleu-de-gascogne",
     type: "kennel_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "German kennel-club breed profile consulted to cross-check FCI classification, height, appearance, coat pattern, temperament, and historical origin.",
+    accessedOn: "2026-11-08",
+    note: "German kennel-club breed profile consulted to cross-check classification, height, appearance, coat pattern, temperament, and historical Pyrenean origin.",
   },
-  "united-kennel-club-griffon-bleu-de-gascogne-standard": {
+"united-kennel-club-griffon-bleu-de-gascogne-standard": {
     id: "united-kennel-club-griffon-bleu-de-gascogne-standard",
     name: "United Kennel Club — Griffon Bleu de Gascogne Breed Standard",
     publisher: "United Kennel Club",
     url: "https://www.ukcdogs.com/breed-standards/griffon-bleu-de-gascogne",
     type: "kennel_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Breed standard consulted for a secondary comparison of coat, colour, head and body features, temperament, and height. Registry-specific wording and measurements should not be treated as interchangeable with every other standard.",
+    accessedOn: "2026-11-08",
+    note: "Breed standard consulted for secondary verification of coat texture, color distribution, head and body features, temperament, and movement.",
   },
-  "wikimedia-griffon-bleu-de-gascogne-canarian-large": {
+"wikimedia-griffon-bleu-de-gascogne-canarian-large": {
     id: "wikimedia-griffon-bleu-de-gascogne-canarian-large",
     name: "Wikimedia Commons — Griffon Bleu de Gascogne.JPG",
     publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Griffon_Bleu_de_Gascogne.JPG",
     type: "other",
+    commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Original file page identifies Canarian as the photographer and uploader, with a capture date of 21 September 2013, upload date of 23 September 2013, dimensions 2299 × 1678 pixels, and CC BY-SA 3.0 licensing.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Griffon Bleu de Gascogne by Canarian, captured 2013-09-21 and uploaded 2013-09-23, dimensions 2299 × 1678 pixels, licensed under CC BY-SA 3.0.",
   },
-  "wikimedia-griffon-bleu-de-gascogne-canarian-second": {
+"wikimedia-griffon-bleu-de-gascogne-canarian-second": {
     id: "wikimedia-griffon-bleu-de-gascogne-canarian-second",
     name: "Wikimedia Commons — Blue Gascony Griffon or Griffon Bleu de Gascogne.JPG",
     publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Blue_Gascony_Griffon_or_Griffon_Bleu_de_Gascogne.JPG",
     type: "other",
+    commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Original file page describes a female Griffon Bleu de Gascogne at a show in France. It identifies Canarian as the photographer and uploader, gives the capture date as 21 September 2013 and upload date as 23 September 2013, records dimensions of 531 × 500 pixels, and states CC BY-SA 3.0 licensing.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a female Griffon Bleu de Gascogne at a French dog show by Canarian, captured 2013-09-21 and uploaded 2013-09-23, dimensions 531 × 500 pixels, licensed under CC BY-SA 3.0.",
   },
-  "wikimedia-griffon-bleu-de-gascogne-alephalpha": {
+"wikimedia-griffon-bleu-de-gascogne-alephalpha": {
     id: "wikimedia-griffon-bleu-de-gascogne-alephalpha",
     name: "Wikimedia Commons — 04031124 Griffon Bleu de Gascogne.jpg",
     publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:04031124_Griffon_Bleu_de_Gascogne.jpg",
     type: "other",
+    commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Original file page identifies Alephalpha as author, gives the capture date as 27 March 2004 and upload date as 23 October 2008, and records dimensions of 1200 × 800 pixels. The page offers CC BY-SA 3.0 and GNU Free Documentation License terms; this catalog uses the CC BY-SA 3.0 option.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Griffon Bleu de Gascogne by Alephalpha, captured 2004-03-27 and uploaded 2008-10-23, dimensions 1200 × 800 pixels, licensed under CC BY-SA 3.0.",
   },
   "akc-american-english-coonhound-official-standard-pdf": {
     id: "akc-american-english-coonhound-official-standard-pdf",
@@ -6909,82 +6918,82 @@ export const sources = defineSources({
     accessedOn: "2026-10-24",
     note: "Wikimedia Commons file page for Maddie_(8416820450).jpg: photographed 25 January 2013 by BurnAway, uploaded 21 March 2015 by Томасина and verified by FlickreviewR, 2048 × 1365 px, licensed under CC BY 2.0."
   },
-  "fci-braque-saint-germain-standard": {
+"fci-braque-saint-germain-standard": {
     id: "fci-braque-saint-germain-standard",
     name: "FCI — Braque Saint-Germain Official Breed Standard No. 115",
     publisher: "Fédération Cynologique Internationale",
     url: "https://fci.be/Nomenclature/Standards/115g07-fr.pdf",
     type: "official_breed_standard",
+    commercialUse: "reference_only",
     publishedOn: "2023-09-19",
-    accessedOn: "2026-10-24",
-    note:
-      "Official French FCI Standard No. 115. The PDF is dated 19 September 2023 and the FCI nomenclature lists 1 August 2023 as the publication date of the official valid standard. Used for origin, classification, historical summary, working purpose, temperament, coat, colour, and height.",
+    accessedOn: "2026-11-08",
+    note: "Official French FCI Standard No. 115. Origin France; Group 7 Pointing Dogs, Section 1.1 Continental Pointing Dogs, Braque type; withers height: males 56-62 cm, females 54-59 cm (with a 2 cm tolerance for exceptional individuals); covers origin, historical summary, working characteristics, temperament, coat, and coloration.",
   },
-  "fci-braque-saint-germain-nomenclature": {
+"fci-braque-saint-germain-nomenclature": {
     id: "fci-braque-saint-germain-nomenclature",
     name: "FCI — Braque Saint-Germain Breed Nomenclature",
     publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/EN/nomenclature/BRAQUE-SAINT-GERMAIN-115.html",
     type: "breed_registry",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Official breed registry entry confirming France as the country of origin, Group 7 classification, definitive recognition on 16 December 1954, and the current valid standard publication date.",
+    accessedOn: "2026-11-08",
+    note: "Official breed registry entry confirming France as country of origin, Group 7 classification, definitive recognition on 16 December 1954, and publication dates.",
   },
-  "vdh-braque-saint-germain": {
+"vdh-braque-saint-germain": {
     id: "vdh-braque-saint-germain",
     name: "VDH — Braque Saint-Germain Breed Profile",
     publisher: "Verband für das Deutsche Hundewesen",
     url: "https://welpen.vdh.de/hunderassen/rasselexikon/ergebnis/braque-saint-germain",
     type: "kennel_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Kennel-club breed profile used to cross-check height, appearance, coat colour, temperament, hunting use, and historical development.",
+    accessedOn: "2026-11-08",
+    note: "Kennel club breed profile consulted to cross-check height, general appearance, coat coloration, temperament, hunting utility, and historical background.",
   },
-  "ukc-braque-saint-germain-standard": {
+"ukc-braque-saint-germain-standard": {
     id: "ukc-braque-saint-germain-standard",
     name: "United Kennel Club — Braque Saint-Germain Breed Standard",
     publisher: "United Kennel Club",
     url: "https://www.ukcdogs.com/breed-groups/braque-saint-germain",
     type: "kennel_club",
+    commercialUse: "reference_only",
     publishedOn: "2009-07-01",
-    accessedOn: "2026-10-24",
-    note:
-      "UKC breed standard revised 1 July 2009. Used as a secondary comparison for historical background, working role, coat, and temperament. Registry-specific descriptions are not treated as interchangeable with the FCI standard.",
+    accessedOn: "2026-11-08",
+    note: "UKC breed standard consulted for comparative verification of historical background, working role, coat texture, and temperament.",
   },
-  "zoetis-braque-saint-germain": {
+"zoetis-braque-saint-germain": {
     id: "zoetis-braque-saint-germain",
     name: "Zoetis Petcare — Braque Saint-Germain Breed Profile",
     publisher: "Zoetis Petcare",
     url: "https://www.zoetispetcare.com/breed-explorer/breed/braque-saint-germain",
     type: "veterinary",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Veterinary-company breed profile reporting an estimated life-span range of 10–14 years and summarising broad health-topic categories. The categories are not treated as proof of breed-specific disease prevalence.",
+    accessedOn: "2026-11-08",
+    note: "Veterinary company breed profile documenting an estimated lifespan range of 10-14 years, sociability characteristics, and general health topics.",
   },
-  "royal-canin-braque-saint-germain": {
+"royal-canin-braque-saint-germain": {
     id: "royal-canin-braque-saint-germain",
     name: "Royal Canin — Braque Saint-Germain Breed Profile",
     publisher: "Royal Canin",
     url: "https://www.royalcanin.com/uk/dogs/breeds/braque-saint-germain",
     type: "other",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Breed profile covering historical development, hunting role, temperament, and an estimated life expectancy of 12–13 years. Lifespan figures are presented as estimates rather than guaranteed outcomes.",
+    accessedOn: "2026-11-08",
+    note: "Breed profile covering historical development, hunting role, temperament, and life expectancy estimates.",
   },
-  "wikimedia-braque-saint-germain-433": {
+"wikimedia-braque-saint-germain-433": {
     id: "wikimedia-braque-saint-germain-433",
     name: "Wikimedia Commons — Braque saint-germain 433.jpg",
     publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Braque_saint-germain_433.jpg",
     type: "other",
+    commercialUse: "commercial_use",
     publishedOn: null,
-    accessedOn: "2026-10-24",
-    note:
-      "Original file page identifies Pleple2000 as the author, records the capture date as 11 November 2006 and the upload date as 22 November 2006, and gives original dimensions of 2226 × 1998 pixels. CC BY-SA 3.0 is one of the offered licenses; the breed record uses that license option.",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Braque Saint-Germain by Pleple2000, captured 2006-11-11 and uploaded 2006-11-22, dimensions 2226 × 1998 pixels, licensed under CC BY-SA 3.0.",
   },
   "akc-english-setter-standard": {
     id: "akc-english-setter-standard",
@@ -7325,13 +7334,13 @@ export const sources = defineSources({
 "the-dog-api": {
     id: "the-dog-api",
     name: "The Dog API",
-    publisher: "The Dog API",
+    publisher: "The Dog API (That API Company)",
     url: "https://thedogapi.com/",
     type: "other",
     commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-11-07",
-    note: "Used as a structured reference for historical and regional alternate names, baseline physical figures, coat colours, and temperament keywords; all user-facing prose is independently written.",
+    accessedOn: "2026-11-08",
+    note: "Structured reference dataset used to cross-check baseline physical measurements (including weight range 18-26 kg and lifespan estimates), coat colors, and temperament keywords; all user-facing text has been independently rewritten.",
   },
   "fci-pyrenean-mastiff-standard": {
     id: "fci-pyrenean-mastiff-standard",
@@ -12042,6 +12051,988 @@ export const sources = defineSources({
     publishedOn: "2008-10-18",
     accessedOn: "2026-10-24",
     note: "Photograph (2400 x 1795 px) of an American Staffordshire Terrier at the National Dog Show in Rybnik, Poland, by Pleple2000. Published under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-beagle-harrier-official-standard": {
+    id: "fci-beagle-harrier-official-standard",
+    name: "FCI - Beagle-Harrier Official Breed Standard No. 290",
+    url: "https://www.fci.be/Nomenclature/Standards/290g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1974-05-18",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 290 (valid standard dated 1974-05-18). Covers French origin, Group 6 Section 1.2 Medium-sized Hounds classification, Baron Gérard Grandin de l'Éprevier foundation, intermediate size between Beagle and Harrier, tricolour coat, conformation ratios, and withers height (45 to 50 cm with +/- 1 cm tolerance).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-beagle-harrier-nomenclature": {
+    id: "fci-beagle-harrier-nomenclature",
+    name: "FCI - Beagle-Harrier Breed Nomenclature (No. 290)",
+    url: "https://www.fci.be/en/nomenclature/BEAGLE-HARRIER-290.html",
+    type: "official_breed_standard",
+    publishedOn: "1974-05-18",
+    accessedOn: "2026-11-08",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.2 classification with working trial, official multilingual names, and definitive recognition.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "scc-beagle-harrier-standard": {
+    id: "scc-beagle-harrier-standard",
+    name: "Société Centrale Canine - Standard et Profil du Beagle-Harrier",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/beagle-harrier",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official French kennel club breed profile confirming historical origins under Baron Gérard Grandin de l'Éprevier, average weight (approximately 19 to 21 kg), height (45-50 cm), hunting attributes on hare and wild boar, and health screening.",
+    publisher: "Société Centrale Canine"
+  },
+  "club-du-beagle-harrier-et-harrier-profile": {
+    id: "club-du-beagle-harrier-et-harrier-profile",
+    name: "Club du Beagle, Beagle-Harrier et Harrier - Le Beagle-Harrier",
+    url: "https://www.club-beagle.com/le-beagle-harrier/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official French parent breed club portal documenting the creation of the breed by Baron Gérard in the early 20th century, pack hunting utilization, coat care, exercise requirements, and health vitality.",
+    publisher: "Club du Beagle, Beagle-Harrier et Harrier"
+  },
+  "ukc-beagle-harrier-standard": {
+    id: "ukc-beagle-harrier-standard",
+    name: "United Kennel Club - Beagle-Harrier Breed Standard",
+    url: "https://www.ukcdogs.com/beagle-harrier",
+    type: "official_breed_standard",
+    publishedOn: "1996-12-01",
+    accessedOn: "2026-11-08",
+    note: "Official UKC breed standard (Scenthound Group, recognized 1996) covering conformation, height (17.5 to 20 inches / 45-50 cm), weight (42 to 46 lbs / approx. 19-21 kg), tricolour coat, and hunting behavior.",
+    publisher: "United Kennel Club"
+  },
+  "wikimedia-beagle-harrier-pleple2000": {
+    id: "wikimedia-beagle-harrier-pleple2000",
+    name: "Wikimedia Commons - File:Beagle-Harrier.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Beagle-Harrier.JPG",
+    type: "other",
+    publishedOn: "2008-10-18",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a tricolour Beagle-Harrier standing outdoors by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18, 2400 x 1800 px). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-treeing-walker-coonhound-official-standard": {
+    id: "fci-treeing-walker-coonhound-official-standard",
+    name: "FCI - Treeing Walker Coonhound Official Breed Standard No. 359",
+    url: "https://www.fci.be/Nomenclature/Standards/359g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2019-11-04",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 359 (provisional acceptance date 2019-11-04). Covers origin in the United States, Group 6 Section 1.1 Large-sized Hounds classification, general appearance, working temperament, tricolor/bicolor coat, conformation, and withers height (males 56-69 cm / 22-27 inches; females 51-64 cm / 20-25 inches).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-treeing-walker-coonhound-nomenclature": {
+    id: "fci-treeing-walker-coonhound-nomenclature",
+    name: "FCI - Treeing Walker Coonhound Breed Nomenclature (No. 359)",
+    url: "https://www.fci.be/en/nomenclature/TREEING-WALKER-COONHOUND-359.html",
+    type: "official_breed_standard",
+    publishedOn: "2019-11-04",
+    accessedOn: "2026-11-08",
+    note: "Official FCI breed nomenclature record confirming United States as country of origin, Group 6 Section 1.1 Large-sized Hounds classification with working trial, and provisional international recognition on 2019-11-04.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-treeing-walker-coonhound-breed-standard": {
+    id: "akc-treeing-walker-coonhound-breed-standard",
+    name: "American Kennel Club - Official Standard of the Treeing Walker Coonhound",
+    url: "https://images.akc.org/pdf/breeds/standards/TreeingWalkerCoonhound.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2012-01-01",
+    accessedOn: "2026-11-08",
+    note: "Official AKC breed standard (effective January 1, 2012) establishing height (males 22 to 27 inches, females 20 to 25 inches), working weight in proportion to height, head and skull proportions, medium pendant ears, scissor bite, sabre tail, and tricolor/bicolor markings.",
+    publisher: "American Kennel Club"
+  },
+  "akc-treeing-walker-coonhound-breed-profile": {
+    id: "akc-treeing-walker-coonhound-breed-profile",
+    name: "American Kennel Club - Treeing Walker Coonhound Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/treeing-walker-coonhound/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official AKC breed profile covering history (George Washington foxhounds, Tennessee Lead, Thomas Walker and George Washington Maupin), height (22-27 in males, 20-25 in females), weight (50-70 lbs), lifespan (12-13 years), temperament, grooming, and care.",
+    publisher: "American Kennel Club"
+  },
+  "ukc-treeing-walker-coonhound-breed-standard": {
+    id: "ukc-treeing-walker-coonhound-breed-standard",
+    name: "United Kennel Club - Treeing Walker Coonhound Breed Standard",
+    url: "https://www.ukcdogs.com/treeing-walker-coonhound",
+    type: "official_breed_standard",
+    publishedOn: "2011-05-01",
+    accessedOn: "2026-11-08",
+    note: "Official UKC breed standard (Scenthound Group, recognized 1945) covering conformation, height (males 22 to 27 inches; females 20 to 25 inches), proportional weight (typically 50-70 lbs for males, 45-65 lbs for females), hunting voice, and trailing behavior.",
+    publisher: "United Kennel Club"
+  },
+  "ofa-treeing-walker-coonhound-health-screenings": {
+    id: "ofa-treeing-walker-coonhound-health-screenings",
+    name: "Orthopedic Foundation for Animals - Treeing Walker Coonhound Health Screening Guidelines",
+    url: "https://ofa.org/browse-by-breed/?breed=TWC",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Orthopedic Foundation for Animals health screening database and veterinary guidance for the Treeing Walker Coonhound, documenting evaluations for hip dysplasia, elbow dysplasia, and eye health.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-treeing-walker-coonhound-bullmaster": {
+    id: "wikimedia-treeing-walker-coonhound-bullmaster",
+    name: "Wikimedia Commons - File:Treeing Walker Coonhound.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Treeing_Walker_Coonhound.jpg",
+    type: "other",
+    publishedOn: "2008-01-20",
+    accessedOn: "2026-11-08",
+    note: "High-resolution photograph (1600 x 1200 px) of a tricolor Treeing Walker Coonhound standing outdoors by BullMaster. Published under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-segugio-italiano-pelo-raso-standard": {
+    id: "fci-segugio-italiano-pelo-raso-standard",
+    name: "FCI - Segugio Italiano a pelo raso Official Breed Standard No. 337",
+    url: "https://www.fci.be/Nomenclature/Standards/337g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2015-12-17",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 337 (valid standard dated 2015-12-17). Covers Italian origin, Group 6 Section 1.2 Medium-sized Hounds classification, square proportions, Roman nose, dense horse-hair texture smooth coat, fawn and black-and-tan colors, height (males 52-58 cm, females 48-56 cm, tolerance +/- 2 cm), and weight (18-28 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-segugio-italiano-pelo-raso-nomenclature": {
+    id: "fci-segugio-italiano-pelo-raso-nomenclature",
+    name: "FCI - Segugio Italiano a pelo raso Breed Nomenclature (No. 337)",
+    url: "https://www.fci.be/en/nomenclature/SEGUGIO-ITALIANO-A-PELO-RASO-337.html",
+    type: "official_breed_standard",
+    publishedOn: "2015-12-17",
+    accessedOn: "2026-11-08",
+    note: "Official FCI breed nomenclature record confirming Italy as country of origin, Group 6 Section 1.2 classification with working trial, official multilingual names (Chien Courant Italien à Poil Ras, Kurzhaariger Italienischer Laufhund, Sabueso Italiano de Pelo Raso), and definitive recognition.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "enci-segugio-italiano-pelo-raso-standard": {
+    id: "enci-segugio-italiano-pelo-raso-standard",
+    name: "ENCI - Standard del Segugio Italiano a pelo raso",
+    url: "https://www.enci.it/libro-genealogico/razze/segugio-italiano-a-pelo-raso",
+    type: "official_breed_standard",
+    publishedOn: "2015-12-17",
+    accessedOn: "2026-11-08",
+    note: "Official Italian national kennel club (Ente Nazionale della Cinofilia Italiana) breed standard and profile for Segugio Italiano a pelo raso, confirming origin, morphological proportions (square build, 4/10 neck ratio, 1:1 skull-to-muzzle ratio), height (52-58 cm males, 48-56 cm females), weight (18-28 kg), working trial traits, and health screening.",
+    publisher: "Ente Nazionale della Cinofilia Italiana"
+  },
+  "wikimedia-segugio-italiano-nero-focato-curzio-cavicchioli": {
+    id: "wikimedia-segugio-italiano-nero-focato-curzio-cavicchioli",
+    name: "Wikimedia Commons - File:Segugio italiano nero focato.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Segugio_italiano_nero_focato.jpg",
+    type: "other",
+    publishedOn: "2024-07-06",
+    accessedOn: "2026-11-08",
+    note: "High-resolution photograph (3426 x 3072 px) of a black and tan Short-haired Italian Hound by Curzio Cavicchioli (captured 2024-03-30, uploaded 2024-07-06). Licensed under CC BY-SA 4.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-segugio-italiano-pelo-raso-canarian": {
+    id: "wikimedia-segugio-italiano-pelo-raso-canarian",
+    name: "Wikimedia Commons - File:Segugio italiano a pelo raso aka Short-haired Italian Hound.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Segugio_italiano_a_pelo_raso_aka_Short-haired_Italian_Hound.JPG",
+    type: "other",
+    publishedOn: "2014-04-16",
+    accessedOn: "2026-11-08",
+    note: "Photograph (650 x 477 px) of a red-fawn female Segugio Italiano a pelo raso by Canarian (captured 2013-12-13, uploaded 2014-04-16). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-segugio-italiano-pelo-raso-fulvo-cyberjobe": {
+    id: "wikimedia-segugio-italiano-pelo-raso-fulvo-cyberjobe",
+    name: "Wikimedia Commons - File:Segugioitalianopelorasofulvo.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Segugioitalianopelorasofulvo.JPG",
+    type: "other",
+    publishedOn: "2008-09-28",
+    accessedOn: "2026-11-08",
+    note: "Photograph (2240 x 1680 px) of a fawn male Segugio Italiano a pelo raso by Cyberjobe (captured 2006-10-08, uploaded 2008-09-28). Released into Public Domain.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-cao-de-castro-laboreiro-official-standard": {
+    id: "fci-cao-de-castro-laboreiro-official-standard",
+    name: "FCI - Cão de Castro Laboreiro Official Breed Standard No. 170",
+    url: "https://www.fci.be/Nomenclature/Standards/170g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2011-01-05",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 170 (valid standard dated 2008-11-04, published 2011-01-05). Covers Portuguese origin in Castro Laboreiro, Melgaço, Group 2 Section 2.2 Mountain type Molossoids classification without working trial, unique rising alarm bark, coat without undercoat, mountain colour (cor do monte) brindle, withers height (males 58-64 cm, females 55-61 cm, +2 cm tolerance), and weight (males 30-40 kg, females 25-35 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-cao-de-castro-laboreiro-nomenclature": {
+    id: "fci-cao-de-castro-laboreiro-nomenclature",
+    name: "FCI - Cão de Castro Laboreiro Breed Nomenclature (No. 170)",
+    url: "https://www.fci.be/en/nomenclature/CAO-DE-CASTRO-LABOREIRO-170.html",
+    type: "official_breed_standard",
+    publishedOn: "2011-01-05",
+    accessedOn: "2026-11-08",
+    note: "Official FCI breed nomenclature record confirming Portugal as country of origin, Group 2 Section 2.2 classification without working trial, definitive recognition date (1955-05-24), and official multilingual names (Chien de Castro Laboreiro, Castro-Laboreiro-Hund, Perro de Castro Laboreiro).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "cpc-cao-de-castro-laboreiro-standard": {
+    id: "cpc-cao-de-castro-laboreiro-standard",
+    name: "Clube Português de Canicultura - Estalão do Cão de Castro Laboreiro",
+    url: "https://www.cpc.pt/racas/racas-portuguesas/cao-de-castro-laboreiro/",
+    type: "official_breed_standard",
+    publishedOn: "2008-11-04",
+    accessedOn: "2026-11-08",
+    note: "Official Portuguese Kennel Club (CPC) breed standard and profile for Cão de Castro Laboreiro, confirming native origin, transhumance heritage between brandas and inverneiras, morphological proportions (7:6 length to height ratio), height, weight, lack of undercoat, cor do monte coloration, and health screening.",
+    publisher: "Clube Português de Canicultura"
+  },
+  "ukc-castro-laboreiro-dog-standard": {
+    id: "ukc-castro-laboreiro-dog-standard",
+    name: "United Kennel Club - Castro Laboreiro Dog Breed Standard",
+    url: "https://www.ukcdogs.com/castro-laboreiro-dog",
+    type: "official_breed_standard",
+    publishedOn: "2006-07-01",
+    accessedOn: "2026-11-08",
+    note: "Official UKC breed standard (Guardian Dog Group, recognized 2006) covering conformation, height (males 23-25.5 inches / 58-64 cm; females 21.5-24 inches / 55-61 cm), weight (males 66-88 lbs / 30-40 kg; females 55-77 lbs / 25-35 kg), mountain colour brindle, and livestock guardian behavior.",
+    publisher: "United Kennel Club"
+  },
+  "wikimedia-castro-laboreiro-entalada-maria-lemos": {
+    id: "wikimedia-castro-laboreiro-entalada-maria-lemos",
+    name: "Wikimedia Commons - File:Cão de Castro Laboreiro em Entalada, Castro Laboreiro.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:C%C3%A3o_de_Castro_Laboreiro_em_Entalada,_Castro_Laboreiro.jpg",
+    type: "other",
+    publishedOn: "2009-12-23",
+    accessedOn: "2026-11-08",
+    note: "High-resolution photograph (2816 x 2112 px) of a Cão de Castro Laboreiro standing in snow in Entalada, Castro Laboreiro by Maria Lemos (captured 2006-01-28, uploaded 2009-12-23). Licensed under CC BY-SA 2.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-castrolaboreiro1-canarian": {
+    id: "wikimedia-castrolaboreiro1-canarian",
+    name: "Wikimedia Commons - File:Castrolaboreiro1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Castrolaboreiro1.jpg",
+    type: "other",
+    publishedOn: "2022-04-24",
+    accessedOn: "2026-11-08",
+    note: "Photograph (1795 x 1706 px) of a Castro Laboreiro Dog by Canarian (captured and uploaded 2022-04-24). Licensed under CC BY-SA 4.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "akc-american-eskimo-dog-breed-standard": {
+    id: "akc-american-eskimo-dog-breed-standard",
+    name: "American Kennel Club - Official Standard of the American Eskimo Dog",
+    url: "https://images.akc.org/pdf/breeds/standards/AmericanEskimoDog.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1993-06-08",
+    accessedOn: "2026-11-08",
+    note: "Official AKC breed standard detailing three size varieties (Toy: 9–12 in, Miniature: over 12–15 in, Standard: over 15–19 in), proportion, pure white and biscuit cream colors, double coat, erect triangular ears, black pigmentation, and alert temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-american-eskimo-dog-breed-profile": {
+    id: "akc-american-eskimo-dog-breed-profile",
+    name: "American Kennel Club - American Eskimo Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/american-eskimo-dog/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official AKC breed profile covering German Spitz heritage, Barnum & Bailey circus history, weight across varieties (6–10 lbs toy, 10–20 lbs miniature, 25–35 lbs standard), lifespan (13–15 years), temperament, and care.",
+    publisher: "American Kennel Club"
+  },
+  "ukc-american-eskimo-dog-breed-standard": {
+    id: "ukc-american-eskimo-dog-breed-standard",
+    name: "United Kennel Club - American Eskimo Dog Breed Standard",
+    url: "https://www.ukcdogs.com/american-eskimo-dog",
+    type: "official_breed_standard",
+    publishedOn: "2012-05-01",
+    accessedOn: "2026-11-08",
+    note: "Official UKC breed standard (Northern Breed Group, recognized 1913 as American Spitz, revised 2012) covering conformation, size varieties, white and cream coloration, gait, and companion/watchdog temperament.",
+    publisher: "United Kennel Club"
+  },
+  "american-eskimo-dog-club-of-america-health": {
+    id: "american-eskimo-dog-club-of-america-health",
+    name: "American Eskimo Dog Club of America - Health & Genetics",
+    url: "https://www.aedca.org/health",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official national parent club health portal covering progressive retinal atrophy (prcd-PRA), primary lens luxation (PLL), patellar luxation, hip dysplasia, eye certifications, and pre-breeding screening guidelines.",
+    publisher: "American Eskimo Dog Club of America"
+  },
+  "ofa-american-eskimo-dog-chic-requirements": {
+    id: "ofa-american-eskimo-dog-chic-requirements",
+    name: "Orthopedic Foundation for Animals - American Eskimo Dog CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=AED",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the American Eskimo Dog, mandating prcd-PRA DNA test, eye examination by an ACVO ophthalmologist, patellar luxation clinical evaluation, and hip evaluation (for standard and miniature varieties).",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "american-eskimo-dog-prcd-pra-study-2006": {
+    id: "american-eskimo-dog-prcd-pra-study-2006",
+    name: "Progressive Rod-Cone Degeneration (prcd) in Dogs: An Inherited Neuroretinal Disease Mutation",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC1464436/",
+    type: "scientific",
+    publishedOn: "2006-03-21",
+    accessedOn: "2026-11-08",
+    note: "Peer-reviewed scientific study (Zangerl et al., Genomics 2006;88(5):551-563, PMID 16580796) establishing that an autosomal recessive mutation in the PRCD gene causes progressive retinal atrophy across multiple canine breeds, including the American Eskimo Dog.",
+    publisher: "Genomics / PubMed Central"
+  },
+  "wikimedia-american-eskimo-dog-1-timquinn": {
+    id: "wikimedia-american-eskimo-dog-1-timquinn",
+    name: "Wikimedia Commons - File:American Eskimo Dog 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:American_Eskimo_Dog_1.jpg",
+    type: "other",
+    publishedOn: "2007-07-28",
+    accessedOn: "2026-11-08",
+    note: "High-resolution photograph (2816 x 2112 px) of an American Eskimo Dog standing outdoors by timquinn. Published under CC BY 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-american-eskimo-dog-2-timquinn": {
+    id: "wikimedia-american-eskimo-dog-2-timquinn",
+    name: "Wikimedia Commons - File:American Eskimo Dog 2.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:American_Eskimo_Dog_2.jpg",
+    type: "other",
+    publishedOn: "2007-07-28",
+    accessedOn: "2026-11-08",
+    note: "High-resolution photograph (2816 x 2112 px) of an American Eskimo Dog in profile outdoors by timquinn. Published under CC BY 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-aidi-canarian-2013": {
+    id: "wikimedia-aidi-canarian-2013",
+    name: "Wikimedia Commons — File:Atlas_Mountain_Dog.JPG",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Atlas_Mountain_Dog.JPG",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2013-10-13",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an Atlas Mountain Dog outdoors by Canarian, captured 2013-08-17 and uploaded 2013-10-13, licensed under CC BY-SA 3.0.",
+  },
+  "wikimedia-aidi-canarian-2023": {
+    id: "wikimedia-aidi-canarian-2023",
+    name: "Wikimedia Commons — File:Atlasmountainaidi.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Atlasmountainaidi.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2023-08-27",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an Atlas Mountain Dog outdoors by Canarian, captured 2023-08-26 and uploaded 2023-08-27, licensed under CC BY-SA 4.0.",
+  },
+  "wikimedia-aidi-hichamb-2021": {
+    id: "wikimedia-aidi-hichamb-2021",
+    name: "Wikimedia Commons — File:Aidi_Atlas.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Aidi_Atlas.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2021-08-19",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an Aidi in Morocco by HichamB (uploader Hichamalemdar), captured and uploaded 2021-08-19, licensed under CC BY-SA 4.0.",
+  },
+  "fci-finnish-spitz-official-standard": {
+    id: "fci-finnish-spitz-official-standard",
+    name: "FCI - Finnish Spitz Official Breed Standard No. 49",
+    url: "https://www.fci.be/Nomenclature/Standards/049g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2026-03-20",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 49 (valid standard dated 2026-02-11, published 2026-03-20). Covers origin in Finland, Group 5 Spitz and primitive types, Section 2 Nordic Hunting Dogs, almost square proportions (1:1 body length to withers height), 3:4 muzzle-to-skull ratio, red-gold stand-off coat, plumed curved tail, and withers height (males 44-50 cm, ideal 47 cm; females 39-45 cm, ideal 42 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-finnish-spitz-nomenclature": {
+    id: "fci-finnish-spitz-nomenclature",
+    name: "FCI - Finnish Spitz Breed Nomenclature (No. 49)",
+    url: "https://www.fci.be/en/nomenclature/FINNISH-SPITZ-49.html",
+    type: "official_breed_standard",
+    publishedOn: "2026-03-20",
+    accessedOn: "2026-11-08",
+    note: "Official FCI breed nomenclature record confirming Finland as country of origin, Group 5 Section 2 classification with working trial for Nordic countries, definitive recognition date (1954-08-03), and multilingual names (Suomenpystykorva, Spitz Finlandais, Finnen-Spitz, Spitz Finlandés).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "suomen-kennelliitto-suomenpystykorva-profile": {
+    id: "suomen-kennelliitto-suomenpystykorva-profile",
+    name: "Suomen Kennelliitto - Suomenpystykorva Rotuesittely ja PEVISA",
+    url: "https://www.kennelliitto.fi/koirarotu/suomenpystykorva/",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official Finnish Kennel Club (Suomen Kennelliitto) breed profile for Finland's national dog, confirming height (males 44-50 cm, females 39-45 cm), weight (males 15-17 kg, females 10-12 kg), lifespan (12-15 years), bark-pointing bird hunting role, and mandatory PEVISA screening for patellas and eyes.",
+    publisher: "Suomen Kennelliitto - Finska Kennelklubben ry"
+  },
+  "akc-finnish-spitz-breed-standard": {
+    id: "akc-finnish-spitz-breed-standard",
+    name: "American Kennel Club - Official Standard of the Finnish Spitz",
+    url: "https://images.akc.org/pdf/breeds/standards/FinnishSpitz.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1988-08-09",
+    accessedOn: "2026-11-08",
+    note: "Official AKC breed standard (effective August 9, 1988, reformatted 1993) detailing general appearance, square proportions, 7:4 skull ratio, 4:3 skull-to-muzzle ratio, height (17.5-20 inches for males, 15.5-18 inches for females), stand-off coat, and lively temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-finnish-spitz-breed-profile": {
+    id: "akc-finnish-spitz-breed-profile",
+    name: "American Kennel Club - Finnish Spitz Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/finnish-spitz/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official AKC breed profile covering ancient Suomenpystykorva history, national dog of Finland designation in 1979, barking bird dog traits, published weight (25-33 lbs males, 20-28 lbs females), lifespan (13-15 years), and exercise needs.",
+    publisher: "American Kennel Club"
+  },
+  "the-kennel-club-finnish-spitz-breed-standard": {
+    id: "the-kennel-club-finnish-spitz-breed-standard",
+    name: "The Royal Kennel Club - Finnish Spitz Breed Standard",
+    url: "https://www.thekennelclub.org.uk/breed-standards/hound/finnish-spitz/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-08",
+    note: "Official Royal Kennel Club breed standard (Hound Group, updated April 2025) confirming height (dogs 43-50 cm / 17-20 in; bitches 39-45 cm / 15.5-18 in), weight (14-16 kg / 31-35 lbs), coat characteristics, and hunting temperament.",
+    publisher: "The Royal Kennel Club"
+  },
+  "finnish-spitz-epilepsy-adam23-study-2015": {
+    id: "finnish-spitz-epilepsy-adam23-study-2015",
+    name: "Identification of a Common Risk Haplotype for Canine Idiopathic Epilepsy in the ADAM23 Gene (BMC Genomics 2015)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4472398/",
+    type: "scientific",
+    publishedOn: "2015-06-18",
+    accessedOn: "2026-11-08",
+    note: "Peer-reviewed scientific study (Koskinen et al., BMC Genomics 2015;16:465, PMID 26084559) identifying a shared risk haplotype on chromosome 37 in the ADAM23 gene associated with idiopathic epilepsy across four breeds including the Finnish Spitz.",
+    publisher: "BMC Genomics / PubMed Central"
+  },
+  "finnish-spitz-epilepsy-phenotype-study-2006": {
+    id: "finnish-spitz-epilepsy-phenotype-study-2006",
+    name: "Phenotype, Inheritance Characteristics, and Risk Factors for Idiopathic Epilepsy in Finnish Spitz Dogs (JVIM 2006)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/16538965/",
+    type: "scientific",
+    publishedOn: "2006-03-01",
+    accessedOn: "2026-11-08",
+    note: "Peer-reviewed study (Viitmaa et al., J Vet Intern Med 2006;20(2):305-310, PMID 16538965) analyzing idiopathic epilepsy in Finnish Spitz dogs, demonstrating a high proportion of focal-onset seizures and estimated heritability.",
+    publisher: "Journal of Veterinary Internal Medicine / PubMed"
+  },
+  "wikimedia-finnish-spitz-przemekl": {
+    id: "wikimedia-finnish-spitz-przemekl",
+    name: "Wikimedia Commons - File:Finnish Spitz.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Finnish_Spitz.jpg",
+    type: "other",
+    publishedOn: "2006-11-14",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an adult Finnish Spitz at the World Dog Show 2006 in Poznań by PrzemekL (captured 2006-11-09, uploaded 2006-11-14, 2048 x 1536 px). Released into the public domain.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-finnish-spitz-gch-rocket-pets-adviser": {
+    id: "wikimedia-finnish-spitz-gch-rocket-pets-adviser",
+    name: "Wikimedia Commons - File:Finnish Spitz - GCH Dv9k9's Red Hot Star aka Rocket 2 (16576435166).jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Finnish_Spitz_-_GCH_Dv9k9%27s_Red_Hot_Star_aka_Rocket_2_(16576435166).jpg",
+    type: "other",
+    publishedOn: "2015-03-21",
+    accessedOn: "2026-11-08",
+    note: "Photograph of Finnish Spitz GCH Dv9k9's Red Hot Star at the Westminster Kennel Club Dog Show 2015 by Pets Adviser (captured 2015-02-16, uploaded 2015-03-21, 3008 x 2000 px). Licensed under CC BY 2.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-puli-steve-jurvetson": {
+    id: "wikimedia-puli-steve-jurvetson",
+    name: "Wikimedia Commons — File:PuliDog.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:PuliDog.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2008-02-28",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a corded Hungarian Puli by Steve Jurvetson, captured 2007-09-23 and uploaded 2008-02-28, licensed under CC BY 2.0.",
+  },
+  "wikimedia-puli-white-canarian": {
+    id: "wikimedia-puli-white-canarian",
+    name: "Wikimedia Commons — File:Puli_white.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Puli_white.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2016-11-14",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a white male Puli by Canarian, captured 2016-11-13 and uploaded 2016-11-14, licensed under CC BY-SA 4.0.",
+  },
+  "wikimedia-puli-grey-sminthopsis84": {
+    id: "wikimedia-puli-grey-sminthopsis84",
+    name: "Wikimedia Commons — File:Ziggy_the_Puli_(cropped).jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Ziggy_the_Puli_(cropped).jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2014-08-21",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an adult grey Puli by Sminthopsis84 (uploader Sagaciousphil), captured 2008-05-27 and uploaded 2014-08-21, licensed under CC BY-SA 4.0.",
+  },
+  "fci-transylvanian-hound-official-standard": {
+    id: "fci-transylvanian-hound-official-standard",
+    name: "FCI - Transylvanian Hound Official Breed Standard No. 241",
+    url: "https://www.fci.be/Nomenclature/Standards/241g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2000-09-13",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 241 (valid standard dated 2000-04-06, published 2000-09-13). Covers Hungarian origin, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, historical big game and small game hunting roles, rectangular build, black and tan coloration with eyebrow spots, withers height (55 to 65 cm, ideal 58 to 62 cm), and minimum weight (25 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-transylvanian-hound-nomenclature": {
+    id: "fci-transylvanian-hound-nomenclature",
+    name: "FCI - Transylvanian Hound Breed Nomenclature (No. 241)",
+    url: "https://www.fci.be/en/nomenclature/TRANSYLVANIAN-HOUND-241.html",
+    type: "official_breed_standard",
+    publishedOn: "2000-09-13",
+    accessedOn: "2026-11-08",
+    note: "Official FCI breed nomenclature record confirming Hungary as country of origin, Group 6 Section 1.2 classification with working trial, official multilingual names (Erdélyi Kopó, Chien Courant Transylvanien, Transylvanischer Laufhund, Sabueso de Transilvania), and definitive recognition date (1963-03-30).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "meoesz-erdelyi-kopo-breed-profile": {
+    id: "meoesz-erdelyi-kopo-breed-profile",
+    name: "Magyar Ebtenyésztők Országos Egyesülete - Erdélyi Kopó Fajtaleírás",
+    url: "https://www.kennelclub.hu/fajtak/erdelyi-kopo",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official Hungarian Kennel Club (MEOESZ) breed profile and history for the Erdélyi Kopó, detailing its historical role under the Hungarian royalty, 1968 rescue in Transylvania, working trial standards, height (55-65 cm), weight (25-35 kg), and health screening requirements.",
+    publisher: "Magyar Ebtenyésztők Országos Egyesületeinek Szövetsége"
+  },
+  "ukc-transylvanian-hound-breed-standard": {
+    id: "ukc-transylvanian-hound-breed-standard",
+    name: "United Kennel Club - Transylvanian Hound Breed Standard",
+    url: "https://www.ukcdogs.com/transylvanian-hound",
+    type: "official_breed_standard",
+    publishedOn: "2006-11-01",
+    accessedOn: "2026-11-08",
+    note: "Official UKC breed standard (Scenthound Group, recognized 2006) covering conformation, rectangular proportions, black and tan coloration, height (21.5 to 25.5 inches / 55 to 65 cm), minimum weight (55 lbs / 25 kg, typically 25 to 35 kg), and hunting behavior.",
+    publisher: "United Kennel Club"
+  },
+  "akc-transylvanian-hound-breed-profile": {
+    id: "akc-transylvanian-hound-breed-profile",
+    name: "American Kennel Club - Transylvanian Hound Breed Information",
+    url: "https://www.akc.org/dog-breeds/transylvanian-hound/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official AKC breed profile (Foundation Stock Service, Hound Group) covering historical background, height (21.5 to 25.5 inches), weight (55 to 77 pounds), lifespan (10 to 12 years), temperament, grooming, and exercise needs.",
+    publisher: "American Kennel Club"
+  },
+  "wikimedia-erdelyi-kopo-canarian": {
+    id: "wikimedia-erdelyi-kopo-canarian",
+    name: "Wikimedia Commons - File:Erdélyi kopó.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Erd%C3%A9lyi_kop%C3%B3.jpg",
+    type: "other",
+    publishedOn: "2013-05-18",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an adult Erdélyi kopó (Transylvanian Hound) standing in profile outdoors by Canarian. Published under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-transylvanian-hound-denesferi": {
+    id: "wikimedia-transylvanian-hound-denesferi",
+    name: "Wikimedia Commons - File:Erdélyi kopó - 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Erd%C3%A9lyi_kop%C3%B3_-_1.jpg",
+    type: "other",
+    publishedOn: "2019-09-23",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an Erdélyi kopó in Ópusztaszer, Hungary, by DenesFeri (captured 2019-09-11, uploaded 2019-09-23). Published under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-pwd-canarian-2018": {
+    id: "wikimedia-pwd-canarian-2018",
+    name: "Wikimedia Commons — File:Portuguese water dog.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Portuguese_water_dog.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2018-03-02",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Portuguese Water Dog by Canarian, captured and uploaded 2018-03-02, licensed under CC BY-SA 4.0.",
+  },
+  "wikimedia-pwd-canarian-2025": {
+    id: "wikimedia-pwd-canarian-2025",
+    name: "Wikimedia Commons — File:Portugalinvesi.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Portugalinvesi.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2025-09-01",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Portuguese Water Dog by Canarian, captured 2025-08-15 and uploaded 2025-09-01, licensed under CC BY 4.0.",
+  },
+  "wikimedia-pwd-state-farm-2013": {
+    id: "wikimedia-pwd-state-farm-2013",
+    name: "Wikimedia Commons — File:A Portuguese Water Dog.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:A_Portuguese_Water_Dog.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2014-03-08",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Portuguese Water Dog by State Farm (Flickr upload bot Frei sein), captured 2013-02-23 and uploaded 2014-03-08, licensed under CC BY 2.0.",
+  },
+  "fci-hamiltonstovare-official-standard": {
+    id: "fci-hamiltonstovare-official-standard",
+    name: "FCI - Hamiltonstövare Official Breed Standard No. 132",
+    url: "https://www.fci.be/Nomenclature/Standards/132g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2017-09-25",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 132 (valid standard dated 2017-09-25, publication date 2017-10-30). Covers Swedish origin, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, rectangular proportions, tricolour coat pattern (black mantle, golden-tan ground, white markings), withers height (males 53-61 cm, ideal 57 cm; females 49-57 cm, ideal 53 cm), and hunting utility on hare and fox.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-hamiltonstovare-nomenclature": {
+    id: "fci-hamiltonstovare-nomenclature",
+    name: "FCI - Hamiltonstövare Breed Nomenclature (No. 132)",
+    url: "https://www.fci.be/en/nomenclature/HAMILTONSTOVARE-132.html",
+    type: "official_breed_standard",
+    publishedOn: "2017-09-25",
+    accessedOn: "2026-11-08",
+    note: "Official FCI breed nomenclature record confirming Sweden as country of origin, Group 6 Section 1.2 classification with working trial, official multilingual names (Chien Courant Hamilton, Hamilton-Bracke, Sabueso de Hamilton), and definitive recognition date (1954-11-25).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "skk-hamiltonstovare-breed-standard": {
+    id: "skk-hamiltonstovare-breed-standard",
+    name: "Svenska Kennelklubben - Rasstandard för Hamiltonstövare (FCI 132)",
+    url: "https://www.skk.se/hundraser/hamiltonstovare/",
+    type: "official_breed_standard",
+    publishedOn: "2017-09-25",
+    accessedOn: "2026-11-08",
+    note: "Official Swedish Kennel Club (SKK) breed standard and profile for Hamiltonstövare, confirming Swedish origin, Count Adolf Patrik Hamilton heritage, hunting traits on hare and fox, height limits, weight range (approx. 23-27 kg), and health screening.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "svenska-hamiltonstovareklubben-breed-profile": {
+    id: "svenska-hamiltonstovareklubben-breed-profile",
+    name: "Svenska Hamiltonstövareklubben - Om Hamiltonstövaren",
+    url: "https://www.hamiltonstovare.se/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official Swedish Hamiltonstövare breed club portal documenting the 1886 Stockholm show foundation (Pang and Stella), 1889 SKK founding by Count A.P. Hamilton, weight ranges (25-27 kg males, 23-25 kg females), lifespan (12-14 years), hunting traits, and hip dysplasia health screening.",
+    publisher: "Svenska Hamiltonstövareklubben"
+  },
+  "the-kennel-club-hamiltonstovare-breed-standard": {
+    id: "the-kennel-club-hamiltonstovare-breed-standard",
+    name: "The Royal Kennel Club - Hamiltonstovare Breed Standard",
+    url: "https://www.thekennelclub.org.uk/breed-standards/hound/hamiltonstovare/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-08",
+    note: "Official Royal Kennel Club breed standard (Hound Group, updated April 2025) confirming height (dogs 53-61 cm / 21-24 in; bitches 49-57 cm / 19.5-22.5 in), rectangular proportions, tricolour coat, and hunting temperament.",
+    publisher: "The Royal Kennel Club"
+  },
+  "ukc-hamiltonstovare-breed-standard": {
+    id: "ukc-hamiltonstovare-breed-standard",
+    name: "United Kennel Club - Hamiltonstovare Breed Standard",
+    url: "https://www.ukcdogs.com/hamiltonstovare",
+    type: "official_breed_standard",
+    publishedOn: "2006-05-01",
+    accessedOn: "2026-11-08",
+    note: "Official UKC breed standard (Scenthound Group, recognized 2006) covering conformation, rectangular proportions, tricolour markings, height (males 21-24 in / 53-61 cm; females 19.5-22.5 in / 49-57 cm), weight (males 55-60 lbs / approx. 25-27 kg; females 50-55 lbs / approx. 23-25 kg), and hunting behavior.",
+    publisher: "United Kennel Club"
+  },
+  "wikimedia-hamiltonstovare-lilly-m": {
+    id: "wikimedia-hamiltonstovare-lilly-m",
+    name: "Wikimedia Commons - File:Hamiltonstövare.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Hamiltonst%C3%B6vare.jpg",
+    type: "other",
+    publishedOn: "2007-06-25",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an adult Hamiltonstövare standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25, 2604 x 1952 px). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-hamiltonstovare-600-tomasz-sienicki": {
+    id: "wikimedia-hamiltonstovare-600-tomasz-sienicki",
+    name: "Wikimedia Commons - File:Hamiltonstovare 600.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Hamiltonstovare_600.jpg",
+    type: "other",
+    publishedOn: "2006-05-21",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Hamiltonstövare standing outdoors by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-basset-hound-official-standard": {
+    id: "fci-basset-hound-official-standard",
+    name: "FCI - Basset Hound Official Breed Standard No. 163",
+    url: "https://www.fci.be/Nomenclature/Standards/163g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2011-01-24",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 163 (valid standard dated 2010-10-13, publication date 2011-01-24). Covers Great Britain origin, Group 6 Section 1.3 Small-sized Hounds classification with working trial, general appearance, low-slung achondroplastic build, loose skin, coat, colours (tricolour, lemon and white), and withers height (33-38 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-basset-hound-nomenclature": {
+    id: "fci-basset-hound-nomenclature",
+    name: "FCI - Basset Hound Breed Nomenclature (No. 163)",
+    url: "https://www.fci.be/en/nomenclature/BASSET-HOUND-163.html",
+    type: "official_breed_standard",
+    publishedOn: "2011-01-24",
+    accessedOn: "2026-11-08",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 6 Section 1.3 classification with working trial, and definitive recognition date (1955-01-18).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "the-kennel-club-basset-hound-breed-standard": {
+    id: "the-kennel-club-basset-hound-breed-standard",
+    name: "The Royal Kennel Club - Basset Hound Breed Standard",
+    url: "https://www.thekennelclub.org.uk/breed-standards/hound/basset-hound/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-08",
+    note: "Official Royal Kennel Club breed standard (Hound Group) confirming withers height (33-38 cm / 13-15 in), weight guide (dogs 25-30 kg / 55-66 lbs, bitches 20-25 kg / 44-55 lbs), head structure, and hunting characteristics.",
+    publisher: "The Royal Kennel Club"
+  },
+  "akc-basset-hound-breed-standard": {
+    id: "akc-basset-hound-breed-standard",
+    name: "American Kennel Club - Official Standard of the Basset Hound",
+    url: "https://images.akc.org/pdf/breeds/standards/BassetHound.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1964-01-14",
+    accessedOn: "2026-11-08",
+    note: "Official AKC breed standard establishing height not to exceed 14 inches at withers (over 15 inches disqualified), heavy bone, chest, ears, loose skin, and tricolor/bicolor coat patterns.",
+    publisher: "American Kennel Club"
+  },
+  "akc-basset-hound-breed-profile": {
+    id: "akc-basset-hound-breed-profile",
+    name: "American Kennel Club - Basset Hound Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/basset-hound/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official AKC breed profile covering French St. Hubert ancestry, Lord Galway and Everett Millais development in Britain, weight (40-65 lbs), lifespan (12-13 years), drooling, shedding, and health.",
+    publisher: "American Kennel Club"
+  },
+  "basset-hound-club-of-america-health": {
+    id: "basset-hound-club-of-america-health",
+    name: "Basset Hound Club of America - Health & Research",
+    url: "https://basset-bhca.org/health-welfare/health-research/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official national parent club health portal covering thrombopathia (CTP), primary glaucoma, intervertebral disc disease (IVDD), bloat, elbow dysplasia, and CHIC screening protocols.",
+    publisher: "Basset Hound Club of America"
+  },
+  "ofa-basset-hound-chic-requirements": {
+    id: "ofa-basset-hound-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Basset Hound CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=BAS",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Basset Hound, mandating thrombopathia DNA test, primary glaucoma DNA test or gonioscopy eye exam, and optional hip, elbow, and cardiac evaluations.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "basset-hound-thrombopathia-rasgrp1-study-2006": {
+    id: "basset-hound-thrombopathia-rasgrp1-study-2006",
+    name: "A Mutation in the RASGRP1 Gene Causes Thrombopathia in Basset Hounds (AJVR / Blood 2006)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/16478850/",
+    type: "scientific",
+    publishedOn: "2006-02-01",
+    accessedOn: "2026-11-08",
+    note: "Peer-reviewed scientific study (Boudreaux et al., 2006) identifying the causal RASGRP1 gene mutation responsible for inherited canine thrombopathia, a severe platelet aggregation defect in Basset Hounds.",
+    publisher: "American Journal of Veterinary Research / PubMed"
+  },
+  "basset-hound-glaucoma-adamts17-study-2015": {
+    id: "basset-hound-glaucoma-adamts17-study-2015",
+    name: "An ADAMTS17 Mutation Is Associated with Primary Glaucoma in the Basset Hound (PLoS ONE 2015)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4532454/",
+    type: "scientific",
+    publishedOn: "2015-08-11",
+    accessedOn: "2026-11-08",
+    note: "Peer-reviewed study (Oliver et al., PLoS ONE 2015;10(8):e0133939, PMID 26262981) identifying a 19-bp deletion in the ADAMTS17 gene associated with primary closed-angle glaucoma in Basset Hounds.",
+    publisher: "PLoS ONE / PubMed Central"
+  },
+  "wikimedia-basset-hound-lilly-m": {
+    id: "wikimedia-basset-hound-lilly-m",
+    name: "Wikimedia Commons - File:Basset Hound.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Basset_Hound.jpg",
+    type: "other",
+    publishedOn: "2007-06-25",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a tricolour Basset Hound standing outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25, 2592 x 1944 px). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-basset-hound-pleple2000": {
+    id: "wikimedia-basset-hound-pleple2000",
+    name: "Wikimedia Commons - File:Basset hound.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Basset_hound.JPG",
+    type: "other",
+    publishedOn: "2008-10-18",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Basset Hound at a dog show by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18, 2400 x 1800 px). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-chinese-crested-pets-adviser-2014": {
+    id: "wikimedia-chinese-crested-pets-adviser-2014",
+    name: "Wikimedia Commons — File:Chinese Crested Dog (12482544324).jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Chinese_Crested_Dog_(12482544324).jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2015-03-21",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Hairless Chinese Crested Dog by Pets Adviser, captured 2014-02-10 and uploaded 2015-03-21, CC BY 2.0.",
+  },
+  "wikimedia-chinese-crested-powderpuff-sciencia58-2022": {
+    id: "wikimedia-chinese-crested-powderpuff-sciencia58-2022",
+    name: "Wikimedia Commons — File:Chinese crested dog - Powder Puff.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Chinese_crested_dog_-_Powder_Puff.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2022-05-02",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Powderpuff Chinese Crested Dog by Sciencia58, captured and uploaded 2022-05-02, CC BY-SA 4.0.",
+  },
+  "wikimedia-chinese-crested-sannse-2003": {
+    id: "wikimedia-chinese-crested-sannse-2003",
+    name: "Wikimedia Commons — File:Chinese Crested Dog 600.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Chinese_Crested_Dog_600.jpg",
+    type: "other",
+    commercialUse: "commercial_use",
+    publishedOn: "2006-01-12",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Chinese Crested Dog by sannse, captured 2003-08-29 and uploaded 2006-01-12, CC BY-SA 3.0.",
+  },
+  "fci-greenland-dog-official-standard": {
+    id: "fci-greenland-dog-official-standard",
+    name: "FCI - Greenland Dog (Grønlandshund) Official Breed Standard No. 274",
+    url: "https://www.fci.be/Nomenclature/Standards/274g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2015-05-05",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 274 (valid standard dated 2003-03-25, publication date 2015-05-05). Covers Greenland origin, Denmark patronage, Group 5 Spitz and primitive types, Section 1 Nordic Sledge Dogs classification without working trial, wedge-shaped head, dense double coat, all colors except albinos, and withers height (males 60 cm and upwards, females 55 cm and upwards).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-greenland-dog-nomenclature": {
+    id: "fci-greenland-dog-nomenclature",
+    name: "FCI - Greenland Dog Breed Nomenclature (No. 274)",
+    url: "https://www.fci.be/en/nomenclature/GREENLAND-DOG-274.html",
+    type: "official_breed_standard",
+    publishedOn: "2015-05-05",
+    accessedOn: "2026-11-08",
+    note: "Official FCI breed nomenclature record confirming Greenland as country of origin, Denmark as country of patronage, Group 5 Section 1 classification without working trial, official multilingual names (Grønlandshund, Chien du Groenland, Grönlandhund, Perro de Groenlandia), and definitive recognition date (1967-08-01).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "dansk-kennel-klub-groenlandshund-breed-standard": {
+    id: "dansk-kennel-klub-groenlandshund-breed-standard",
+    name: "Dansk Kennel Klub - Racebeskrivelse for Grønlandshund",
+    url: "https://www.dkk.dk/hunde-i-danmark/k%C3%B8b-af-hund/racebeskrivelser/gr%C3%B8nlandshund",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official Danish Kennel Club (Dansk Kennel Klub / DKK) breed profile and standard for Grønlandshund, detailing Greenland heritage, legal protection north of the Arctic circle, sledge dog function, height (males 60+ cm, females 55+ cm), weight ranges (approx. 30-40 kg for males, 25-35 kg for females), and pack behavior.",
+    publisher: "Dansk Kennel Klub"
+  },
+  "the-kennel-club-greenland-dog-breed-standard": {
+    id: "the-kennel-club-greenland-dog-breed-standard",
+    name: "The Royal Kennel Club - Greenland Dog Breed Standard",
+    url: "https://www.thekennelclub.org.uk/breed-standards/working/greenland-dog/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-08",
+    note: "Official Royal Kennel Club breed standard (Working Group) confirming height (dogs 60 cm / 23.5 in minimum; bitches 55 cm / 21.5 in minimum), weight guide (approx. 34-47.5 kg / 75-105 lbs for dogs; 27-41 kg / 60-90 lbs for bitches), coat characteristics, and working sledge temperament.",
+    publisher: "The Royal Kennel Club"
+  },
+  "ukc-greenland-dog-breed-standard": {
+    id: "ukc-greenland-dog-breed-standard",
+    name: "United Kennel Club - Greenland Dog Breed Standard",
+    url: "https://www.ukcdogs.com/greenland-dog",
+    type: "official_breed_standard",
+    publishedOn: "2012-05-01",
+    accessedOn: "2026-11-08",
+    note: "Official UKC breed standard (Northern Breed Group, recognized 1996) covering Arctic conformation, height (males 23.5 in / 60 cm and up; females 21.5 in / 55 cm and up), sledging endurance, and pack behavior.",
+    publisher: "United Kennel Club"
+  },
+  "greenland-dog-holocene-origins-study-2020": {
+    id: "greenland-dog-holocene-origins-study-2020",
+    name: "Arctic-Adapted Dogs Emerged at the Beginning of the Holocene (Science 2020)",
+    url: "https://www.science.org/doi/10.1126/science.abb8548",
+    type: "scientific",
+    publishedOn: "2020-06-26",
+    accessedOn: "2026-11-08",
+    note: "Peer-reviewed landmark scientific study (Sinding et al., Science 2020;368(6498):1495-1499, PMID 32587019) demonstrating genetic continuity between 9,500-year-old Siberian sled dogs from Zhokhov Island and modern Greenland Dogs, identifying specific adaptations to a high-fat diet, oxygen uptake, and cold-climate endurance.",
+    publisher: "Science / American Association for the Advancement of Science"
+  },
+  "wikimedia-groenlandshund-lilly-m": {
+    id: "wikimedia-groenlandshund-lilly-m",
+    name: "Wikimedia Commons - File:Grønlandshund.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Gr%C3%B8nlandshund.jpg",
+    type: "other",
+    publishedOn: "2007-06-25",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an adult Greenland Dog (Grønlandshund) standing outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25, 2472 x 1854 px). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-greenland-dog-thomas-schoch": {
+    id: "wikimedia-greenland-dog-thomas-schoch",
+    name: "Wikimedia Commons - File:Greenland Dog.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Greenland_Dog.jpg",
+    type: "other",
+    publishedOn: "2006-04-12",
+    accessedOn: "2026-11-08",
+    note: "Photograph of a Greenland Dog standing in the snow by Thomas Schoch (uploaded 2006-04-12, 2048 x 1536 px). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-estrela-mountain-dog-official-standard": {
+    id: "fci-estrela-mountain-dog-official-standard",
+    name: "FCI - Cão da Serra da Estrela Official Breed Standard No. 173",
+    url: "https://www.fci.be/Nomenclature/Standards/173g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2009-03-30",
+    accessedOn: "2026-11-08",
+    note: "Official English FCI Standard No. 173 (valid standard dated 2008-11-04, publication date 2009-03-30). Covers Portuguese origin in Serra da Estrela, Group 2 Section 2.2 Mountain type Molossoids classification without working trial, historical background, both long and short coat varieties, black mask, hooked tail tip, withers height (males 65-73 cm, females 62-69 cm, +2 cm tolerance), and weight (males 45-60 kg, females 35-45 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-estrela-mountain-dog-nomenclature": {
+    id: "fci-estrela-mountain-dog-nomenclature",
+    name: "FCI - Cão da Serra da Estrela Breed Nomenclature (No. 173)",
+    url: "https://www.fci.be/en/nomenclature/CAO-DA-SERRA-DA-ESTRELA-173.html",
+    type: "official_breed_standard",
+    publishedOn: "2009-03-30",
+    accessedOn: "2026-11-08",
+    note: "Official FCI breed nomenclature record confirming Portugal as country of origin, Group 2 Section 2.2 classification without working trial, definitive recognition date (1955-01-18), and official multilingual names (Chien de la Serra da Estrela, Estrela-Berghund, Perro de la Sierra de la Estrela).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "cpc-cao-da-serra-da-estrela-standard": {
+    id: "cpc-cao-da-serra-da-estrela-standard",
+    name: "Clube Português de Canicultura - Estalão do Cão da Serra da Estrela",
+    url: "https://www.cpc.pt/racas/racas-portuguesas/cao-da-serra-da-estrela/",
+    type: "official_breed_standard",
+    publishedOn: "2008-11-04",
+    accessedOn: "2026-11-08",
+    note: "Official Portuguese Kennel Club (CPC) breed standard and profile for Cão da Serra da Estrela, detailing historical origin in the Serra da Estrela, 1922 and 1934 historical standards, morphological proportions, height, weight, long and short coat varieties, and health screening.",
+    publisher: "Clube Português de Canicultura"
+  },
+  "apcse-cao-da-serra-da-estrela-profile": {
+    id: "apcse-cao-da-serra-da-estrela-profile",
+    name: "Associação Portuguesa do Cão da Serra da Estrela - A Raça e História",
+    url: "https://www.apcse.pt/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official Portuguese parent breed club portal documenting the 1983 club founding, pastoral transhumance history, spiked collar protection against wolves, long and short hair varieties, and pre-breeding health testing.",
+    publisher: "Associação Portuguesa do Cão da Serra da Estrela"
+  },
+  "ukc-estrela-mountain-dog-standard": {
+    id: "ukc-estrela-mountain-dog-standard",
+    name: "United Kennel Club - Estrela Mountain Dog Breed Standard",
+    url: "https://www.ukcdogs.com/estrela-mountain-dog",
+    type: "official_breed_standard",
+    publishedOn: "2006-07-01",
+    accessedOn: "2026-11-08",
+    note: "Official UKC breed standard (Guardian Dog Group, recognized 1996, revised 2006) covering conformation, height (males 25.5-29 inches / 65-73 cm; females 24.5-27 inches / 62-69 cm), weight (males 99-132 lbs / 45-60 kg; females 77-99 lbs / 35-45 kg), long and short coats, and guardian behavior.",
+    publisher: "United Kennel Club"
+  },
+  "akc-estrela-mountain-dog-breed-profile": {
+    id: "akc-estrela-mountain-dog-breed-profile",
+    name: "American Kennel Club - Estrela Mountain Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/estrela-mountain-dog/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-08",
+    note: "Official AKC breed profile (Foundation Stock Service, Working Group) covering Portuguese mountain origin, height, weight, lifespan (10-14 years), temperament, and care.",
+    publisher: "American Kennel Club"
+  },
+  "estrela-mountain-dog-cardiac-health-study-2019": {
+    id: "estrela-mountain-dog-cardiac-health-study-2019",
+    name: "Echocardiographic Reference Values and Screening in Portuguese Mountain Breeds (Veterinary Cardiology)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/30852179/",
+    type: "scientific",
+    publishedOn: "2019-02-15",
+    accessedOn: "2026-11-08",
+    note: "Peer-reviewed veterinary cardiology study evaluating echocardiographic parameters and screening for dilated cardiomyopathy in Portuguese mountain guardian dogs including the Cão da Serra da Estrela.",
+    publisher: "Journal of Veterinary Cardiology / PubMed"
+  },
+  "wikimedia-cao-da-serra-da-estrela-600-tomasz-sienicki": {
+    id: "wikimedia-cao-da-serra-da-estrela-600-tomasz-sienicki",
+    name: "Wikimedia Commons - File:Cao da Serra da Estrela 600.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Cao_da_Serra_da_Estrela_600.jpg",
+    type: "other",
+    publishedOn: "2006-05-21",
+    accessedOn: "2026-11-08",
+    note: "Photograph of an adult long-haired Estrela Mountain Dog by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
 });

@@ -1,24 +1,24 @@
 import type { Breed } from "../../schema/breed.types";
 
-export const airedale_terrier: Breed = {
-  slug: "airedale-terrier",
-  name: "Airedale Terrier",
+export const schipperke: Breed = {
+  slug: "schipperke",
+  name: "Schipperke",
   scientificName: null,
   alternateNames: [
-    "King of Terriers",
-    "Waterside Terrier",
-    "Bingley Terrier",
+    "Little Black Devil",
+    "Belgian Barge Dog",
+    "Spitske",
   ],
-  group: "Terrier",
+  group: "Non-Sporting",
   origin: {
-    country: "Yorkshire, England",
+    country: "Belgium",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "The largest of all terrier breeds, the Airedale is a large, athletic dog with a distinctive wiry black and tan coat and confident, alert demeanor. Known as the 'King of Terriers', this highly intelligent and versatile breed combines courage with an outgoing temperament.",
-    history: "Developed in the Aire Valley of Yorkshire, England, by crossing Otterhounds with various terrier breeds. Originally bred by working-class fanciers to hunt otters and rats, their intelligence and courage led to their use as police dogs, war dogs, and all-around companions.",
+    description: "Small, compact, tailless spitz-type dog with a distinctive fox-like face, thick double coat, and abundant ruff around the neck. Known as the 'little captain', this agile black dog has a confident demeanor and alert expression.",
+    history: "Developed in the Flemish regions of Belgium as a canal barge watchdog and ratter. The name means 'little captain' and the breed served as an adept guardian and vermin hunter on Belgian waterways for centuries.",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -27,27 +27,27 @@ export const airedale_terrier: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 58,
-        max: 61,
+        min: 25,
+        max: 33,
       },
       female: {
-        min: 56,
-        max: 58,
+        min: 25,
+        max: 33,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 23,
-        max: 32,
+        min: 4.5,
+        max: 7,
       },
       female: {
-        min: 18,
-        max: 25,
+        min: 4.5,
+        max: 7,
       },
     },
     lifespanYears: {
-      min: 11,
+      min: 12,
       max: 14,
     },
     coatType: null,
@@ -77,12 +77,12 @@ export const airedale_terrier: Breed = {
   },
   temperament: {
     traits: [
-      "Confident",
-      "intelligent",
-      "courageous",
-      "alert",
+      "Alert",
+      "confident",
       "energetic",
-      "outgoing",
+      "intelligent",
+      "independent",
+      "curious",
     ],
     scores: {
       affection: null,
@@ -261,7 +261,7 @@ export const airedale_terrier: Breed = {
         },
       ],
       verifiedOn: "2026-11-08",
-      note: null,
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -615,7 +615,7 @@ export const airedale_terrier: Breed = {
         },
       ],
       verifiedOn: "2026-11-08",
-      note: null,
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
     "physical.weight.female.max": {
       reliability: "reliable_source",
@@ -627,7 +627,7 @@ export const airedale_terrier: Breed = {
         },
       ],
       verifiedOn: "2026-11-08",
-      note: null,
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
   },
   updatedOn: "2026-11-08",

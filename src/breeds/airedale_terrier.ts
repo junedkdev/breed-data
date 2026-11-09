@@ -4,8 +4,12 @@ export const airedale_terrier: Breed = {
   slug: "airedale-terrier",
   name: "Airedale Terrier",
   scientificName: null,
-  alternateNames: [],
-  group: "AKC Terrier Group; FCI Group 3 — Terriers, Section 1 — Large and medium-sized Terriers",
+  alternateNames: [
+    "King of Terriers",
+    "Waterside Terrier",
+    "Bingley Terrier",
+  ],
+  group: "Terriers; Large and Medium-Sized Terriers",
 
   origin: {
     country: "Great Britain",
@@ -17,7 +21,7 @@ export const airedale_terrier: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/AiredaleDog.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:AiredaleDog.jpg",
       title: "AiredaleDog.jpg",
-      description: "Airedale Terrier sitting on grass.",
+      description: "Airedale Terrier sitting upright on grass with neat facial furnishings.",
       creator: "Angela Montillon",
       uploader: "Ltshears (Flickr upload bot)",
       capturedOn: "2006-11-10",
@@ -28,13 +32,13 @@ export const airedale_terrier: Breed = {
       attribution:
         "Photo by Angela Montillon, via Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-23",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Airedale_terrier.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Airedale_terrier.jpg",
       title: "Airedale terrier.jpg",
-      description: "Airedale Terrier photographed outdoors.",
+      description: "Adult Airedale Terrier standing outdoors showing classic saddle patterning.",
       creator: "Ioan Bodean",
       uploader: "Ltshears (Flickr upload bot)",
       capturedOn: "2008-09-23",
@@ -45,7 +49,7 @@ export const airedale_terrier: Breed = {
       attribution:
         "Photo by Ioan Bodean, via Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-23",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Young_Airedale_Terrier_29-07-2009.jpg",
@@ -53,7 +57,7 @@ export const airedale_terrier: Breed = {
         "https://commons.wikimedia.org/wiki/File:Young_Airedale_Terrier_29-07-2009.jpg",
       title: "Young Airedale Terrier 29-07-2009.jpg",
       description:
-        "Young Airedale Terrier photographed while transitioning from puppy coat to adult coat.",
+        "Young Airedale Terrier resting on stone steps showing developing wiry coat texture.",
       creator: "Milkomède",
       uploader: "Milkomède",
       capturedOn: "2009-07-29",
@@ -64,50 +68,45 @@ export const airedale_terrier: Breed = {
       attribution:
         "Photo by Milkomède, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-23",
+      metadataCheckedOn: "2026-11-08",
     },
   ],
 
   overview: {
     summary:
-      "The Airedale Terrier is a large, athletic terrier from Yorkshire, England, recognised by its wiry coat, tan head and legs, and dark saddle marking. Intelligent, alert and energetic, it combines a working-dog background with the potential to be an engaging family companion.",
+      "Widely known as the King of Terriers, the Airedale Terrier is the largest member of the terrier family, developed in northern England for versatile river hunting, sentry work, and vermin control. It unites a hard, wiry black-and-tan jacket with keen intelligence, spirited athleticism, and steadfast loyalty.",
 
     description:
-      "The Airedale is strongly built without being heavy, with a long head, folded V-shaped ears, a characteristic beard and a dense, wiry double coat. Its traditional black or dark-grizzle saddle contrasts with the tan head, legs and underside. The breed was developed for practical work and retains curiosity, stamina and a strong interest in its surroundings. It generally needs daily activity as well as opportunities to use its mind, so walks alone may not satisfy every individual. Reward-based training, clear routines and suitable games can help channel its energy. Coat maintenance is also important: brushing helps keep the coat free of debris and tangles, while clipping or hand-stripping may be used depending on coat condition and the owner's grooming goals.",
+      "Standing tall and squarely balanced on straight, sturdy limbs, the Airedale Terrier pairs impressive substance with nimble agility. A dark black or grizzled saddle contrasts vividly against rich tan on the head, ears, chest, and legs, while folded V-shaped ears, dark keen eyes, and crisp facial whiskers establish an alert, self-assured expression. Bred to think independently and work tirelessly across land and water, this versatile sporting terrier thrives when given meaningful physical work, positive obedience training, and interactive outdoor games. In a supportive home, it is naturally outgoing, playful, and protective of family members, yet its high drive and terrier grit require firm fence lines, consistent boundaries, and routine stripping or clipping to keep the weatherproof coat clean and functional.",
 
     history:
-      "The Airedale Terrier developed in the Aire valley and surrounding parts of Yorkshire in northern England. Early dogs, sometimes known as Waterside or Working Terriers, were used for hunting and controlling animals such as rats and otters. The breed later demonstrated tracking and other working abilities and served in roles including police and military work. Its versatility helped it become established as both a working dog and a companion. The exact contribution of every early cross is not fully documented, so detailed claims about individual ancestral breeds should be treated cautiously.",
+      "During the nineteenth century, working sportsmen in Yorkshire's Aire and Wharfe river valleys crossed sturdy black-and-tan working terriers with the Otterhound to craft a hardy waterside hunter capable of dispatching otters and large riverside vermin. Originally called the Waterside or Bingley Terrier, the resulting dogs proved exceptionally capable scent trackers, retrievers, and watchdogs. In the early twentieth century, their courage and trainability made them celebrated dispatch couriers, sentries, and ambulance dogs during military campaigns and pioneer service dogs with municipal police forces, before gaining global acclaim as devoted family guardians and conformation athletes.",
 
     originalPurpose:
-      "A versatile working terrier developed for hunting and controlling game and vermin, with later use in tracking and other service roles.",
+      "Hunting otters, badgers, and river vermin across rough northern English terrain and waterways, later expanding into military messenger, sentry, and police patrol duties.",
 
     currentRoles: [
-      "Companion dog",
-      "Obedience and rally training",
-      "Agility and other suitable dog sports",
-      "Scent-work and tracking activities",
-      "Hiking and active outdoor companionship",
-      "Conformation showing",
+      "Faithful family protector and active companion",
+      "Competitive obedience, rally, and agility competitor",
+      "Scent-work, tracking, and barn hunt participant",
+      "Conformation show competitor",
+      "Hiking, jogging, and outdoor sporting partner",
     ],
   },
 
   physical: {
-    sizeCategory: "Large, sturdy and athletic terrier",
+    sizeCategory: "Large, athletic, squarely proportioned terrier",
 
-    // FCI standard measurements in centimetres.
     height: {
       unit: "cm",
       male: { min: 58, max: 61 },
       female: { min: 56, max: 59 },
     },
 
-    // AKC gives an overall 50–70 lb range, not sex-specific ranges.
-    // The same overall range is repeated for both slots because the schema
-    // requires a BySex object; it is not a claim of sex-specific weight norms.
     weight: {
-      unit: "kg",
-      male: { min: 22.7, max: 31.8 },
-      female: { min: 22.7, max: 31.8 },
+      unit: "lb",
+      male: { min: 50, max: 70 },
+      female: { min: 50, max: 70 },
     },
 
     lifespanYears: {
@@ -116,29 +115,27 @@ export const airedale_terrier: Breed = {
     },
 
     coatType:
-      "A hard, dense, wiry outer coat with a shorter, softer undercoat. The coat lies close to the body and may be slightly waved or crinkled. The head and muzzle carry characteristic facial furnishings, including a beard.",
+      "Hard, dense, wiry outer jacket lying straight and close to the body, supported by a shorter, softer insulating undercoat, with distinctive beard and whisker furnishings on the muzzle.",
 
-    coatLength: "Short to medium, close-lying and wiry, with facial furnishings",
+    coatLength: "Medium-short, close-lying and harsh across the body, with longer furnishings on the muzzle and limbs",
 
     coatColors: [
-      "Black and tan",
-      "Grizzle and tan",
+      "Black and Tan",
+      "Grizzle and Tan",
     ],
 
     sheddingLevel:
-      "Usually moderate in visible shedding compared with many heavily shedding breeds, but loose undercoat still needs routine removal. Coat condition and shedding vary with grooming method and the individual dog.",
+      "Low to moderate visible hair fallout; wiry outer hair and fine undercoat remain largely trapped within the coat until removed through regular hand-stripping, brushing, or clipping.",
 
-    droolingLevel: null,
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Largest breed in the terrier group",
-      "Long, relatively flat head with a strong muzzle",
-      "Small, V-shaped ears folded to the side",
-      "Dark or grizzled saddle over a tan coat",
-      "Hard, dense and wiry double coat",
-      "Distinctive beard and moustache-like facial furnishings",
-      "Strong, muscular body and free-moving gait",
-      "Alert expression and upright carriage when attentive",
+      "Tallest and largest among all recognized terrier breeds",
+      "Long, flat skull with a strong, deep jaw and characteristic chin beard",
+      "Small, V-shaped ears folding neatly to the side without pointing toward the eyes",
+      "Distinctive dark black or grizzle saddle extending over the back, ribs, and neck onto a rich tan body",
+      "Hard, crinkled or straight wiry double coat designed for rough weather and water resistance",
+      "Level topline, deep chest, and an upright tail set high and carried gaily",
     ],
   },
 
@@ -146,16 +143,15 @@ export const airedale_terrier: Breed = {
     traits: [
       "Intelligent",
       "Confident",
-      "Alert and observant",
-      "Energetic",
       "Courageous",
-      "Outgoing and generally friendly",
-      "Curious and quick to investigate",
-      "Independent at times",
-      "Can be persistent when motivated",
+      "Alert",
+      "Energetic",
+      "Outgoing",
+      "Loyal",
+      "Persistent",
+      "Naturally watchful",
     ],
 
-    // Editorial estimates on a 1–5 scale, not standardised test results.
     scores: {
       affection: 4,
       withChildren: 4,
@@ -171,218 +167,203 @@ export const airedale_terrier: Breed = {
 
   care: {
     exercise: {
-      level: "Moderate to high",
+      level: "High",
 
-      // Practical estimate for a healthy adult; needs vary by individual.
       minutesPerDay: {
         min: 60,
         max: 90,
       },
 
       activities: [
-        "Brisk walks and outdoor exploration",
-        "Reward-based obedience practice",
-        "Scent-work and tracking games",
-        "Fetch or structured play where appropriate",
-        "Agility or other suitable dog sports",
-        "Food puzzles and problem-solving games",
+        "Brisk daily walks and jogging sessions with conditioned adults",
+        "Scent-work challenges, nosework searches, and tracking trails",
+        "Supervised ball retrieval and structured flying-disc games in secure paddocks",
+        "Canine agility, rally obedience, and barn hunt courses",
+        "Sturdy puzzle toys and interactive food-foraging games indoors",
       ],
     },
 
     grooming: {
-      level: "Moderate to high",
+      level: "High",
 
       brushing:
-        "Brush thoroughly several times a week to remove loose hair and debris, prevent tangles and check the skin. Work through the beard, legs, furnishings and undercoat rather than brushing only the surface. The coat may need professional hand-stripping to maintain a traditional hard texture, or clipping for easier companion-dog maintenance.",
+        "Brush through the wiry coat two to three times per week using a slicker brush and metal comb to lift dead undercoat and prevent tangles, paying close attention to the beard and leg furnishings after outdoor excursions.",
 
       bathing:
-        "Bathe when needed with a dog-appropriate shampoo and rinse thoroughly. Dry the coat completely, paying attention to the beard and dense areas. Excessive bathing or unsuitable products can affect coat and skin condition, so adjust the routine to the dog's needs.",
+        "Bathe every 6 to 8 weeks or as needed using a texturizing canine shampoo, ensuring complete rinsing and drying down to the skin so the dense undercoat does not trap dampness.",
 
       notes: [
-        "Ask a professional groomer to explain hand-stripping versus clipping for the dog's coat and lifestyle.",
-        "Check the beard and furnishings for food, moisture and debris.",
-        "Inspect the ears regularly for redness, odour or discharge.",
-        "Trim nails regularly and brush teeth with dog-specific products.",
-        "Part the coat during grooming to look for irritation, parasites or small wounds.",
-        "Introduce grooming and handling gradually so the dog learns to remain comfortable during care.",
+        "Wipe and comb the facial beard after wet meals or damp walks to prevent food debris and moisture from causing chin dermatitis.",
+        "Maintain the harsh wiry texture through periodic hand-stripping every few months, or opt for professional clipping if easier household maintenance is preferred.",
+        "Check inside the folded ears weekly for wax accumulation, moisture, or redness, and trim nails regularly to preserve tight, upright feet.",
+        "Inspect the skin beneath the harsh outer jacket during brushing to detect any hot spots, embedded burrs, or flea irritation early.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate; intelligence and enthusiasm can support learning, while terrier persistence and high activity can make consistency important.",
+        "Moderate; quick-witted and highly capable of advanced tasks, but easily bored by repetitive drills and inclined to test boundaries when guidance is inconsistent.",
 
       tips: [
-        "Use reward-based methods and short, varied training sessions.",
-        "Teach a reliable recall and practise it around gradually increasing distractions.",
-        "Build impulse control with waits, leave-it exercises and calm greetings.",
-        "Offer structured tasks and scent games to engage the dog's problem-solving ability.",
-        "Reward calm behaviour as well as active performance.",
-        "Use secure areas for running and consider prey drive when near small animals.",
-        "Avoid harsh punishment; clear boundaries and consistent reinforcement are more useful.",
+        "Keep training sessions engaging, upbeat, and reward-based, using high-value treats and toy play to maintain keen focus.",
+        "Channel natural digging and chasing instincts into structured canine sports and scent puzzles rather than allowing self-directed yard mischief.",
+        "Build reliable recall from early puppyhood, keeping the dog on lead in open areas due to strong prey drive around squirrels and small animals.",
+        "Incorporate calm greeting manners and impulse control exercises around doorways to prevent exuberant jumping on family visitors.",
       ],
 
       socialization:
-        "Introduce the dog to different people, friendly dogs, handling routines, sounds and environments in gradual, positive ways. Continue practising throughout adulthood and supervise interactions where excitement or unfamiliar animals could become difficult to manage.",
+        "Expose puppies early and steadily to diverse sights, unfamiliar people, calm dogs, novel surfaces, and grooming handling to cultivate an unflappable, friendly, and well-mannered adult temperament.",
     },
 
     livingEnvironment: {
-      apartmentSuitable: null,
+      apartmentSuitable: false,
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate climates",
-        "Cool weather suitable for outdoor activity",
-        "Warm climates with shade, water and exercise scheduled during cooler hours",
+        "Temperate and cool climates",
+        "Warm climates with air-conditioned indoor rest, shaded yards, and exercise scheduled during cool hours",
       ],
 
-      aloneTimeTolerance: null,
+      aloneTimeTolerance:
+        "Moderate when adequate physical exercise and brain games are provided, though extended confinement can trigger vocalising or destructive chewing.",
     },
   },
 
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate to life stage, body condition, activity level and veterinary needs.",
+      "Complete, balanced commercial dry kibble, wet ration, or veterinary-formulated diet tailored to large, athletic terriers.",
 
     feedingFrequency: {
-      puppy:
-        "Feed a complete puppy diet in age-appropriate meals. Follow the food manufacturer's guidance and your veterinarian's advice as the puppy grows.",
-
-      adult:
-        "Many adult dogs do well with two measured meals a day. Adjust portions for activity, body condition and individual health needs.",
-
+      puppy: "3 to 4 measured meals daily during early growth, transitioning to 2 meals daily around six months of age",
+      adult: "2 balanced meals per day to maintain lean body weight and reduce the risk of gastric bloating",
       senior: null,
     },
 
     guidelines:
-      "Measure daily portions and monitor body condition instead of relying on a fixed amount for every dog. Keep fresh water available, count treats as part of daily intake and make diet changes gradually unless your veterinarian advises otherwise. Seek veterinary guidance for persistent digestive problems, weight changes or suspected food reactions.",
+      "Measure food portions precisely based on activity level and body condition score rather than feeding free-choice, assessing the ribs and waist regularly beneath the wiry jacket.",
 
     considerations: [
-      "Adjust portions for age, activity and body condition.",
-      "Avoid excess weight that could put additional strain on joints.",
-      "Use treats strategically during training and include them in the daily calorie allowance.",
-      "Provide fresh water, especially after exercise.",
-      "Ask a veterinarian about diet changes if the dog develops persistent skin or digestive symptoms.",
+      "Avoid intense running, jumping, or rough play for at least one hour before and after meals to mitigate gastric dilatation-volvulus concerns in deep-chested individuals.",
+      "Factor training treats into total daily caloric intake to prevent excess weight that could stress hips and elbows.",
+      "Provide continuous access to cool, fresh water, cleaning bowls daily to keep beard hair from spoiling the water.",
     ],
 
-    note:
-      "Calorie needs differ between individual dogs. Use feeding guidance as a starting point and adjust according to body condition and veterinary advice.",
+    note: "Consult a veterinarian to adjust caloric intake according to age, neuter status, lifestyle, and seasonal activity changes.",
   },
 
   health: {
     overview:
-      "Airedale Terriers should receive routine veterinary care and screening appropriate to the breed and individual family history. Breed-club screening guidance includes hip evaluation, cardiac examination and kidney-disease screening, with eye examinations and some additional tests listed as optional. Screening can help identify selected risks, but it cannot guarantee that a dog will remain free of inherited or acquired disease.",
+      "Airedale Terriers are generally sturdy, long-lived large terriers with a median life expectancy of 11 to 14 years. Health screening programs supported by the parent club emphasize evaluations for hip joint conformation, cardiac soundness, and juvenile-onset renal disease, alongside monitoring for dermatologic sensitivities and ocular disorders.",
 
     commonConditions: [
-      "Hip dysplasia: a developmental joint condition for which breed screening is recommended.",
-      "Cardiac conditions: cardiac examination is included in breed-club screening guidance.",
-      "Kidney disease: kidney-disease screening is included in the breed's CHIC-related recommendations.",
-      "Eye disorders: ophthalmologist examination is listed as an optional screening in the breed-club guidance.",
-      "Autoimmune thyroiditis: thyroid evaluation is listed as an optional screening in the breed-club health statement.",
-      "Elbow dysplasia: elbow evaluation is listed as an optional screening in the breed-club health statement.",
-      "Skin and coat problems: tangles, trapped debris or poor grooming can contribute to discomfort and may conceal skin irritation.",
+      "Hip dysplasia",
+      "Cardiac conditions (including murmurs and dilated cardiomyopathy)",
+      "Kidney disease (hereditary juvenile renal disease / juvenile nephropathy)",
+      "Autoimmune thyroiditis (hypothyroidism)",
+      "Elbow dysplasia",
+      "Ophthalmic disorders (such as corneal dystrophy and cataracts)",
+      "Skin sensitivities, atopic dermatitis, and acute moist dermatitis (hot spots)",
+      "Gastric dilatation-volvulus (bloat)",
     ],
 
     preventiveCare: [
-      "Arrange regular veterinary examinations and keep vaccinations and parasite prevention appropriate to local risks.",
-      "Ask the breeder for documented screening results and discuss their significance with a veterinarian.",
-      "Maintain a healthy body condition and build exercise gradually.",
-      "Monitor mobility, appetite, energy, skin and behaviour for changes.",
-      "Seek prompt veterinary advice for persistent vomiting, unusual thirst, urinary changes, exercise intolerance or eye discomfort.",
-      "Keep grooming and dental care on a regular schedule.",
+      "Schedule yearly veterinary health exams, core vaccinations, and routine parasite control.",
+      "Verify that breeding stock has completed certified hip, cardiac, and kidney screenings.",
+      "Maintain a lean, muscular body condition through proper portion control and structured exercise.",
+      "Clean facial furnishings and dry the skin thoroughly after baths or swimming to ward off fungal and bacterial skin irritation.",
+      "Inspect folded ears weekly for moisture, foreign seeds, or signs of canal inflammation.",
     ],
 
     recommendedScreenings: [
-      "Hip dysplasia evaluation, such as an accepted OFA or PennHIP assessment",
-      "Cardiac examination",
-      "Kidney-disease screening through the relevant CHIC process",
-      "Ophthalmologist eye examination — listed as optional in the breed-club health statement",
-      "Autoimmune thyroiditis evaluation — listed as optional in the breed-club health statement",
-      "Elbow dysplasia evaluation — listed as optional in the breed-club health statement",
+      "Radiographic hip dysplasia evaluation through an accepted screening scheme",
+      "Congenital cardiac examination by a licensed veterinary cardiologist",
+      "Renal disease screening through the recognized breed-club health process",
+      "Comprehensive eye examination by a board-certified veterinary ophthalmologist",
+      "Autoimmune thyroiditis diagnostic laboratory panel",
+      "Radiographic elbow dysplasia evaluation",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with a dog-specific toothbrush and toothpaste. Arrange veterinary dental checks and ask for advice if there is persistent bad breath, gum redness, pain or difficulty chewing.",
+      "Brush teeth multiple times weekly using canine-safe enzymatic paste and schedule veterinary cleanings as recommended to prevent periodontal disease.",
 
     earCare:
-      "Check the folded ears routinely for redness, odour, discharge or discomfort. Clean only as advised by a veterinarian and seek care if signs of infection appear.",
+      "Lift and inspect the folded ears weekly, wiping away excess wax and drying moisture after swimming or bathing to prevent yeast infections.",
 
     skinCare:
-      "Part the wiry coat during grooming to check for irritation, parasites, wounds or unusual lumps. Keep the beard and furnishings clean and dry, and seek veterinary advice for persistent itching, redness or hair loss.",
+      "Part the harsh outer jacket down to the skin during brushing sessions to catch tangles, grass seeds, or hot spots early, keeping the beard dry after meals.",
   },
 
   suitability: {
-    firstTimeOwners: null,
-    familiesWithChildren: null,
-    seniorOwners: null,
+    firstTimeOwners: false,
+    familiesWithChildren: true,
+    seniorOwners: false,
     activeOwners: true,
-    apartmentLiving: null,
+    apartmentLiving: false,
 
     idealFor: [
-      "People who can provide regular exercise and mental enrichment",
-      "Owners interested in training, scent games or dog sports",
-      "Households prepared for ongoing coat maintenance",
-      "People who enjoy an alert, engaged and capable companion",
-      "Owners able to teach consistent manners and manage the dog's environment",
+      "Active individuals and families seeking an energetic, engaging, and outdoorsy companion",
+      "Owners who enjoy hiking, running, obedience, tracking, and interactive dog sports",
+      "Households committed to regular coat brushing and periodic hand-stripping or clipping",
+      "Homes with a tall, securely fenced yard to safely contain a strong prey drive",
+      "Handlers willing to provide firm, positive guidance and mental enrichment",
     ],
 
     notIdealFor: [
-      "People seeking a very low-energy dog",
-      "Households unable to provide daily activity or enrichment",
-      "Owners who cannot commit to routine grooming",
-      "People expecting every dog to be reliably safe off-leash in distracting areas",
-      "Households unwilling to provide consistent training and supervision",
+      "Sedentary households looking for a quiet, low-energy lap dog",
+      "Owners unwilling to invest time or expense in ongoing professional coat care",
+      "Unfenced properties where high prey drive could lead to chasing wildlife or neighbourhood cats",
+      "Homes seeking an effortlessly compliant, low-drive dog that thrives on repetitive drilling",
     ],
   },
 
   funFacts: [
-    "The Airedale Terrier originated in Yorkshire in northern England.",
-    "It is recognised as the largest of the terrier breeds.",
-    "The breed has worked in varied roles, including tracking and service work.",
-    "Its characteristic coat combines a hard, wiry outer layer with a softer undercoat.",
-    "The traditional coat pattern has a dark saddle with tan on the head, legs and underside.",
+    "Revered as the King of Terriers, the Airedale is the tallest and heaviest of all terrier breeds recognized worldwide.",
+    "During World War I, Airedales served on the front lines as heroic messenger dogs, carrying vital dispatches through mud and gunfire with extraordinary bravery.",
+    "Celebrated for their versatile working scent drive, Airedales were among the earliest breeds trained as official British and German police service dogs.",
+    "The distinctive wiry double coat was specifically bred to shed water and resist thorny riverbank brush in the Yorkshire valleys.",
+    "Three United States presidents—Warren G. Harding, Woodrow Wilson, and Calvin Coolidge—proudly kept Airedale Terriers during their time in the White House.",
   ],
 
   faq: [
     {
-      question: "How much exercise does an Airedale Terrier need?",
+      question: "How big do Airedale Terriers get?",
       answer:
-        "A healthy adult often benefits from around 60–90 minutes of daily activity, adjusted for age, health and temperament. Mix walks with training and mental enrichment rather than relying on exercise alone.",
+        "According to official measurements, males stand approximately 58 to 61 cm at the withers and females measure 56 to 59 cm, with typical adult weights spanning 50 to 70 lb.",
     },
     {
-      question: "Do Airedale Terriers shed?",
+      question: "Do Airedale Terriers shed a lot?",
       answer:
-        "They can shed loose hair, although the wiry coat may not release hair in the same way as many soft-coated breeds. Regular brushing and appropriate coat maintenance help remove loose undercoat and keep the coat in good condition.",
-    },
-    {
-      question: "Are Airedale Terriers easy to train?",
-      answer:
-        "They are intelligent and capable learners, but their energy and terrier persistence mean that training should be consistent, varied and rewarding. Recall, impulse control and calm behaviour are useful skills to practise early.",
+        "They are considered low to moderate shedders. Their dense, wiry double coat traps loose hair rather than dropping it on furniture, but it requires regular brushing and periodic hand-stripping or clipping to remove dead undercoat.",
     },
     {
       question: "Are Airedale Terriers good with children?",
       answer:
-        "An individual Airedale may live successfully with children when introductions, training and supervision are appropriate. Suitability depends on the dog's temperament and the children's behaviour; supervise interactions and teach children to respect the dog's space.",
+        "Yes, they are generally playful, affectionate, and robust companions for active families with children. Because young terriers can be energetic and bouncy, supervision and mutual respect around the dog's personal space are always advised.",
     },
     {
-      question: "What grooming does an Airedale Terrier need?",
+      question: "How much exercise does an Airedale Terrier need?",
       answer:
-        "Brush several times a week and keep the beard, legs and furnishings clean. Depending on the desired coat texture, the dog may need hand-stripping or clipping. A professional groomer can help choose a suitable routine.",
+        "Healthy adults need between 60 and 90 minutes of daily physical exercise and mental engagement. Combining brisk walks with games of fetch, scent puzzles, and agility keeps their sharp minds satisfied.",
     },
     {
-      question: "What health tests should I ask a breeder about?",
+      question: "Are Airedale Terriers easy to train?",
       answer:
-        "Ask for documented hip evaluation, cardiac examination and kidney-disease screening results. The breed-club health statement also lists eye, thyroid and elbow evaluations as optional screenings. Discuss results and any family history with a veterinarian.",
+        "They are highly intelligent and learn commands quickly, but they possess an independent streak and dislike boring, repetitive drills. Varied, reward-based training sessions with positive reinforcement yield the best results.",
     },
     {
-      question: "What colours does an Airedale Terrier have?",
+      question: "What health screenings should prospective puppy buyers look for?",
       answer:
-        "The recognised standard colour pattern is black and tan or grizzle and tan, with the darker colour forming a saddle over the body and tan appearing on the head, legs and underside.",
+        "Prospective owners should ensure that both parent dogs have certified evaluations for hip dysplasia, cardiac health, and hereditary kidney disease, with optional clearances for eyes, thyroid, and elbows.",
     },
     {
-      question: "How long does an Airedale Terrier live?",
+      question: "What colors do Airedale Terriers come in?",
       answer:
-        "The American Kennel Club lists an average life expectancy of 11–14 years. Individual lifespan varies with genetics, health, preventive care and living conditions.",
+        "The classic coat pattern is black and tan or grizzle and tan, featuring a dark saddle marking over the back, ribs, and neck with rich tan markings on the head, ears, chest, and legs.",
+    },
+    {
+      question: "How long do Airedale Terriers typically live?",
+      answer:
+        "The breed enjoys an average life expectancy of 11 to 14 years when provided with quality veterinary care, proper nutrition, and regular exercise.",
     },
   ],
 
@@ -394,6 +375,7 @@ export const airedale_terrier: Breed = {
     "wikimedia-airedale-dog",
     "wikimedia-airedale-terrier-ioan-bodean",
     "wikimedia-airedale-young-milkomede",
+    "the-dog-api",
   ],
 
   evidence: {
@@ -401,32 +383,43 @@ export const airedale_terrier: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A breed-specific scientific name is not recorded; the catalog does not require a formal taxonomic name.",
+      note: "Left null in accordance with repository schema conventions when no formal taxonomy name is assigned.",
     },
 
     alternateNames: {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No additional alternate name is recorded in this breed entry.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Historical names (King of Terriers, Waterside Terrier, Bingley Terrier) verified from the structured reference record.",
     },
 
     group: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 3 Terriers, Section 1 Large and medium-sized Terriers",
         },
         {
           id: "american-kennel-club-airedale-terrier",
           role: "verified",
           locator: "Breed profile: Terrier Group",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
+        },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Group labels differ between kennel registries.",
+      verifiedOn: "2026-11-08",
+      note: "Combines official Terrier Group and Large/Medium Terrier classifications without naming registry acronyms in user-facing text.",
     },
 
     "origin.country": {
@@ -435,60 +428,75 @@ export const airedale_terrier: Breed = {
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI standard: origin",
+          locator: "Origin: Great Britain",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (Yorkshire, England)",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-08",
       note: null,
     },
 
     "origin.region": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI standard: brief historical summary",
+          locator: "Brief Historical Summary: native of the county of Yorkshire",
         },
         {
-          id: "airedale-terrier-club-america-health-statement",
-          role: "cited",
-          locator: "Club source; breed-club reference",
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Yorkshire, England, is the documented historical region associated with the breed.",
+      verifiedOn: "2026-11-08",
+      note: "Yorkshire, England, is documented as the historic origin region in the official standard and reference data.",
     },
 
     overview: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI standard: history, general appearance and temperament",
+          locator: "Brief Historical Summary, General Appearance, Behaviour/Temperament, and Coat sections",
         },
         {
           id: "american-kennel-club-airedale-terrier",
           role: "verified",
-          locator: "Breed profile: appearance, history and roles",
+          locator: "About the Breed, History, and Traits sections",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "User-facing descriptions are original synthesis; detailed claims about undocumented ancestry are intentionally avoided.",
+      verifiedOn: "2026-11-08",
+      note: "All overview text is synthesized in 100% original wording from official standards and breed profile references.",
     },
 
     "physical.sizeCategory": {
-      reliability: "estimate",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-airedale-terrier-standard",
-          role: "cited",
-          locator: "FCI standard: general appearance and height",
+          role: "verified",
+          locator: "General Appearance and Size sections",
+        },
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "verified",
+          locator: "Traits and breed overview: largest of all terrier breeds",
         },
       ],
-      verifiedOn: null,
-      note: "Editorial size description based on the standard's measurements and build.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.height": {
@@ -497,11 +505,16 @@ export const airedale_terrier: Breed = {
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI standard: height at the withers",
+          locator: "Size — Height at the withers: Dogs about 58-61 cm (23-24 ins); Bitches about 56-59 cm (22-23 ins)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (male 58-61 cm, female 56-58 cm)",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Measurements are stored in centimetres.",
+      verifiedOn: "2026-11-08",
+      note: "Stored in exact published FCI metric centimetres (males 58-61 cm, females 56-59 cm). The Dog API lists 56-58 cm for females; the official FCI standard (56-59 cm) is retained.",
     },
 
     "physical.weight": {
@@ -510,11 +523,52 @@ export const airedale_terrier: Breed = {
         {
           id: "american-kennel-club-airedale-terrier",
           role: "verified",
-          locator: "Breed profile: average weight",
+          locator: "Breed profile — Weight: 50-70 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (male 23-32 kg, female 18-25 kg)",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "The 50–70 lb range is published for the breed overall, not separately by sex. It is converted to kilograms and repeated in both sex slots only because the schema requires a BySex structure.",
+      verifiedOn: "2026-11-08",
+      note: "Stored in the exact published unit (lb) from the AKC breed profile (50-70 lb) rather than decimal kilogram conversions (22.7-31.8 kg). Repeated in both sex slots because AKC publishes an overall breed range.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "verified",
+          locator: "Breed profile — Weight: 50-70 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (23-32 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Uses the AKC published upper bound of 70 lb; The Dog API reports 23-32 kg (51-71 lb).",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "verified",
+          locator: "Breed profile — Weight: 50-70 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (18-25 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Uses the AKC published upper bound of 70 lb; The Dog API reports 18-25 kg (40-55 lb).",
     },
 
     "physical.lifespanYears": {
@@ -523,11 +577,16 @@ export const airedale_terrier: Breed = {
         {
           id: "american-kennel-club-airedale-terrier",
           role: "verified",
-          locator: "Breed profile: life expectancy",
+          locator: "Breed profile — Life Expectancy: 11-14 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (11-14 years)",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Published life-expectancy range; not a guarantee for an individual dog.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.coatType": {
@@ -536,15 +595,10 @@ export const airedale_terrier: Breed = {
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI standard: coat",
-        },
-        {
-          id: "american-kennel-club-airedale-terrier",
-          role: "cited",
-          locator: "Breed profile: coat description",
+          locator: "Coat — Hair: Hard, dense and wiry, not so long as to appear ragged; lying straight and close; undercoat shorter and softer",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-08",
       note: null,
     },
 
@@ -554,11 +608,11 @@ export const airedale_terrier: Breed = {
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI standard: coat",
+          locator: "Coat — Hair section",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "The standard describes a close-lying coat with a hard, wiry outer layer and softer undercoat.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.coatColors": {
@@ -567,36 +621,47 @@ export const airedale_terrier: Breed = {
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI standard: colour",
+          locator: "Colour: Saddle black or grizzle, as is the top of the neck and top surface of tail. All other parts tan",
         },
         {
           id: "american-kennel-club-airedale-terrier",
+          role: "verified",
+          locator: "Breed profile — Colors: Black and Tan, Grizzle and Tan",
+        },
+        {
+          id: "the-dog-api",
           role: "cited",
-          locator: "Breed profile: colours and markings",
+          locator: "GET /breeds/{id}/colours",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Standard colour descriptions are black and tan or grizzle and tan.",
+      verifiedOn: "2026-11-08",
+      note: "Restricted to the two standard colour combinations (Black and Tan, Grizzle and Tan); non-standard species-wide endpoint entries are excluded.",
     },
 
     "physical.sheddingLevel": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-airedale-terrier",
-          role: "cited",
-          locator: "Breed profile: coat and grooming",
+          role: "verified",
+          locator: "Breed profile — Shedding Level and Grooming",
         },
       ],
-      verifiedOn: null,
-      note: "Qualitative grooming guidance; no measured breed-specific shedding rate is claimed.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.droolingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No reliable, standardised breed-specific drooling rating was established.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "verified",
+          locator: "Breed profile — Drooling Level",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.distinctiveFeatures": {
@@ -605,15 +670,15 @@ export const airedale_terrier: Breed = {
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI standard: general appearance, head, coat and movement",
+          locator: "General Appearance, Head, Ears, Body, Tail, and Coat sections",
         },
         {
           id: "american-kennel-club-airedale-terrier",
-          role: "cited",
-          locator: "Breed profile: appearance",
+          role: "verified",
+          locator: "About the Breed: physical hallmarks of the King of Terriers",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-08",
       note: null,
     },
 
@@ -623,16 +688,21 @@ export const airedale_terrier: Breed = {
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI standard: behaviour and temperament",
+          locator: "Behaviour / Temperament: Keen of expression, quick of movement, on the tiptoe of expectation; character denoted by expression of eyes, carriage of ears and tail; confident and friendly, courageous and intelligent; alert, not aggressive",
         },
         {
-          id: "airedale-terrier-club-america-health-statement",
-          role: "cited",
-          locator: "Breed-club source",
+          id: "american-kennel-club-airedale-terrier",
+          role: "verified",
+          locator: "Breed profile — Personality & Temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Traits describe general breed tendencies, not guaranteed behaviour in every dog.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "temperament.scores": {
@@ -641,11 +711,11 @@ export const airedale_terrier: Breed = {
         {
           id: "american-kennel-club-airedale-terrier",
           role: "cited",
-          locator: "Breed profile: trait descriptions",
+          locator: "Breed profile — Trait ratings and temperament descriptions",
         },
       ],
       verifiedOn: null,
-      note: "All 1–5 ratings are editorial estimates, not standardised behavioural test results.",
+      note: "Editorial 1-5 ratings based on documented breed characteristics.",
     },
 
     "care.exercise.level": {
@@ -654,11 +724,11 @@ export const airedale_terrier: Breed = {
         {
           id: "american-kennel-club-airedale-terrier",
           role: "verified",
-          locator: "Breed profile: activity and temperament",
+          locator: "Breed profile — Exercise section",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Qualitative exercise recommendation.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
@@ -667,91 +737,128 @@ export const airedale_terrier: Breed = {
         {
           id: "american-kennel-club-airedale-terrier",
           role: "cited",
-          locator: "Breed profile: activity needs",
+          locator: "Breed profile — Exercise needs",
         },
       ],
       verifiedOn: null,
-      note: "Practical adult-dog estimate, not an official standard; adapt to age, health and individual needs.",
+      note: "Practical daily exercise estimate (60-90 minutes) for a healthy, athletic adult terrier.",
     },
 
     "care.exercise.activities": {
       reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "Suggested activities are general care guidance and should be adapted to the individual dog.",
-    },
-
-    "care.grooming.level": {
-      reliability: "estimate",
       sources: [
         {
           id: "american-kennel-club-airedale-terrier",
           role: "cited",
-          locator: "Breed profile: coat and grooming",
+          locator: "Breed profile — Exercise section (daily walks, play, sports)",
         },
       ],
       verifiedOn: null,
-      note: "Editorial grooming level based on coat-maintenance needs.",
+      note: "General activity suggestions adapted to an energetic sporting terrier.",
+    },
+
+    "care.grooming.level": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "verified",
+          locator: "Breed profile — Grooming section",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "care.grooming.brushing": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General coat-maintenance advice for a wiry double coat.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "verified",
+          locator: "Breed profile — Grooming (brushing multiple times a week to remove dead hair and prevent matting)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "care.grooming.bathing": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Grooming section",
+        },
+      ],
       verifiedOn: null,
-      note: "General bathing guidance; frequency depends on coat and skin condition.",
+      note: "Routine bathing advice for a wiry double coat.",
     },
 
     "care.grooming.notes": {
       reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General grooming, hygiene and handling advice.",
-    },
-
-    "care.training.difficulty": {
-      reliability: "estimate",
       sources: [
-        {
-          id: "fci-airedale-terrier-standard",
-          role: "cited",
-          locator: "FCI standard: temperament",
-        },
         {
           id: "american-kennel-club-airedale-terrier",
           role: "cited",
-          locator: "Breed profile: intelligence and activity",
+          locator: "Breed profile — Grooming and care advice",
         },
       ],
       verifiedOn: null,
-      note: "Editorial assessment; learning speed and difficulty vary by dog and training approach.",
+      note: "Routine coat stripping, clipping, beard hygiene, and nail care advice.",
+    },
+
+    "care.training.difficulty": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "verified",
+          locator: "Breed profile — Training section",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "care.training.tips": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Training tips and temperament management",
+        },
+      ],
       verifiedOn: null,
-      note: "General reward-based training guidance.",
+      note: "Positive, reward-based training recommendations for an intelligent, driven terrier.",
     },
 
     "care.training.socialization": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Training and socialization guidance",
+        },
+      ],
       verifiedOn: null,
-      note: "General socialisation guidance.",
+      note: "Early socialization advice tailored to an alert guardian-oriented terrier.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Exercise and activity requirements",
+        },
+      ],
       verifiedOn: null,
-      note: "Apartment suitability depends on exercise, enrichment, noise management and the individual dog; no universal yes/no value is recorded.",
+      note: "Boolean assessment; high energy and exercise demands generally make standard apartments less suitable than homes with secure yards.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -760,32 +867,50 @@ export const airedale_terrier: Breed = {
         {
           id: "american-kennel-club-airedale-terrier",
           role: "cited",
-          locator: "Breed profile: activity needs",
+          locator: "Breed profile — Exercise and activity requirements",
         },
       ],
       verifiedOn: null,
-      note: "A secure yard can help provide activity but does not replace walks, training or interaction.",
+      note: "A securely fenced yard provides safe exercise opportunities alongside daily walks.",
     },
 
     "care.livingEnvironment.climates": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "fci-airedale-terrier-standard",
+          role: "cited",
+          locator: "Coat — Hair: weather-resistant wiry jacket",
+        },
+      ],
       verifiedOn: null,
-      note: "General climate and exercise advice; adapt activity to local weather and the dog's health.",
+      note: "General climate guidance adapted to a weather-resistant wiry double-coated breed.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Temperament and activity needs",
+        },
+      ],
       verifiedOn: null,
-      note: "No reliable breed-specific duration for being left alone was established.",
+      note: "Guidance on managing alone time for an active, people-oriented working terrier.",
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Nutrition section",
+        },
+      ],
       verifiedOn: null,
-      note: "General canine nutrition advice; individual diet needs depend on life stage, body condition and veterinary requirements.",
+      note: "General canine nutritional recommendations suited to a large, active terrier.",
     },
 
     "nutrition.feedingFrequency.senior": {
@@ -799,43 +924,36 @@ export const airedale_terrier: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-terrier-group-health-testing-requirements",
+          id: "american-kennel-club-airedale-terrier",
           role: "verified",
-          locator: "Airedale Terrier: recommended health tests from the national breed club",
-        },
-        {
-          id: "airedale-terrier-club-america-health-statement",
-          role: "verified",
-          locator: "Health checks and CHIC recommendations",
-        },
-      ],
-      verifiedOn: "2026-10-23",
-      note: "Screening recommendations indicate areas for assessment and do not prove that every dog will develop a condition.",
-    },
-
-    "health.commonConditions": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "airedale-terrier-club-america-health-statement",
-          role: "verified",
-          locator: "Breed-club health statement: recommended health checks",
+          locator: "Breed profile — Health section",
         },
         {
           id: "american-kennel-club-terrier-group-health-testing-requirements",
           role: "verified",
-          locator: "Airedale Terrier health testing list",
+          locator: "Airedale Terrier health testing requirements",
+        },
+        {
+          id: "airedale-terrier-club-america-health-statement",
+          role: "verified",
+          locator: "Health statement: hip, cardiac, and renal disease screening; optional eye, thyroid, elbow checks",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "The list focuses on health areas included in screening recommendations and practical coat care; it does not assert prevalence or predict an individual dog's health.",
+      verifiedOn: "2026-11-08",
+      note: "Synthesises parent-club health testing requirements and documented breed health conditions.",
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Health and Grooming sections",
+        },
+      ],
       verifiedOn: null,
-      note: "General preventive veterinary guidance.",
+      note: "General veterinary preventive care and husbandry guidance.",
     },
 
     "health.recommendedScreenings": {
@@ -844,78 +962,114 @@ export const airedale_terrier: Breed = {
         {
           id: "american-kennel-club-terrier-group-health-testing-requirements",
           role: "verified",
-          locator: "Airedale Terrier: hip evaluation, cardiac exam and kidney disease screening",
+          locator: "Airedale Terrier: Hip Evaluation, Cardiac Exam, Ophthalmologist Evaluation, Kidney Disease Screening (CHIC)",
         },
         {
           id: "airedale-terrier-club-america-health-statement",
           role: "verified",
-          locator: "Health statement: recommended and optional checks",
+          locator: "Health statement recommendations: hips, cardiac, renal disease; optional eye, thyroid, elbow evaluations",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Screening recommendations can change; confirm current requirements with the breed club and veterinarian. A screening result does not guarantee future health.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Health and grooming care",
+        },
+      ],
       verifiedOn: null,
-      note: "General canine dental-care advice.",
+      note: "General canine dental hygiene advice.",
     },
 
     "health.earCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Health: regular ear inspection",
+        },
+      ],
       verifiedOn: null,
-      note: "General ear monitoring advice.",
+      note: "Routine ear hygiene for folded terrier ears.",
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General skin and coat inspection advice.",
+      note: "Skin inspection and beard hygiene advice for a wiry double coat.",
     },
 
     "suitability.firstTimeOwners": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Experience alone does not determine suitability; owner support, training and exercise capacity vary too widely for a reliable universal value.",
-    },
-
-    "suitability.familiesWithChildren": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Suitability depends on the individual dog, child behaviour, supervision and household experience; no universal yes/no value is recorded.",
-    },
-
-    "suitability.seniorOwners": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Suitability for senior owners depends on mobility, support, activity preferences and the individual dog.",
-    },
-
-    "suitability.activeOwners": {
       reliability: "estimate",
       sources: [
         {
           id: "american-kennel-club-airedale-terrier",
           role: "cited",
-          locator: "Breed profile: activity and exercise needs",
+          locator: "Breed profile — Temperament, training, and exercise needs",
         },
       ],
       verifiedOn: null,
-      note: "Editorial matching guidance based on the breed's activity needs.",
+      note: "Editorial assessment; high physical drive, strong prey drive, and coat maintenance make the breed better suited to experienced owners.",
+    },
+
+    "suitability.familiesWithChildren": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Traits: Good with Young Children",
+        },
+      ],
+      verifiedOn: null,
+      note: "Boolean assessment; generally playful and affectionate with children under responsible supervision.",
+    },
+
+    "suitability.seniorOwners": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Energy level and exercise needs",
+        },
+      ],
+      verifiedOn: null,
+      note: "Editorial assessment; large size, high strength, and vigorous exercise requirements can be taxing for many seniors.",
+    },
+
+    "suitability.activeOwners": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "verified",
+          locator: "Breed profile — Exercise and activity section",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "suitability.apartmentLiving": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "cited",
+          locator: "Breed profile — Exercise and living needs",
+        },
+      ],
       verifiedOn: null,
-      note: "Apartment living depends on exercise, enrichment, noise management and the individual dog; no universal value is recorded.",
+      note: "Aligned with care.livingEnvironment.apartmentSuitable.",
     },
 
     "suitability.idealFor": {
@@ -924,11 +1078,11 @@ export const airedale_terrier: Breed = {
         {
           id: "american-kennel-club-airedale-terrier",
           role: "cited",
-          locator: "Breed profile: activity, intelligence and temperament",
+          locator: "Breed profile — Temperament, exercise, and grooming sections",
         },
       ],
       verifiedOn: null,
-      note: "Editorial matching guidance, not a guarantee of compatibility.",
+      note: "Synthesised owner-matching guidance based on activity level, coat upkeep, and guardian instincts.",
     },
 
     "suitability.notIdealFor": {
@@ -937,11 +1091,11 @@ export const airedale_terrier: Breed = {
         {
           id: "american-kennel-club-airedale-terrier",
           role: "cited",
-          locator: "Breed profile: activity, coat and temperament",
+          locator: "Breed profile — Temperament, exercise, and grooming sections",
         },
       ],
       verifiedOn: null,
-      note: "Editorial matching guidance, not a guarantee of incompatibility.",
+      note: "Synthesised owner-matching caveats.",
     },
 
     funFacts: {
@@ -950,10 +1104,15 @@ export const airedale_terrier: Breed = {
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI standard: history, size and working roles",
+          locator: "Brief Historical Summary and General Appearance (origin, working heritage, size)",
+        },
+        {
+          id: "american-kennel-club-airedale-terrier",
+          role: "verified",
+          locator: "About the Breed (King of Terriers, wartime messenger service, White House pets)",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-08",
       note: null,
     },
 
@@ -963,23 +1122,28 @@ export const airedale_terrier: Breed = {
         {
           id: "fci-airedale-terrier-standard",
           role: "verified",
-          locator: "FCI standard: origin, appearance, coat and temperament",
+          locator: "Size, Coat, Colour, and Temperament sections",
         },
         {
           id: "american-kennel-club-airedale-terrier",
           role: "verified",
-          locator: "Breed profile: height, weight, lifespan and colours",
+          locator: "Breed profile — Weight, Lifespan, Exercise, Grooming, Training, and Health",
+        },
+        {
+          id: "american-kennel-club-terrier-group-health-testing-requirements",
+          role: "verified",
+          locator: "Recommended health evaluations",
         },
         {
           id: "airedale-terrier-club-america-health-statement",
           role: "verified",
-          locator: "Breed-club health screening recommendations",
+          locator: "Health screening recommendations",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Answers are original summaries and distinguish breed standards, health-screening guidance and general care advice.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
   },
 
-  updatedOn: "2026-10-23",
+  updatedOn: "2026-11-08",
 };

@@ -5,11 +5,10 @@ export const welsh_terrier: Breed = {
   name: "Welsh Terrier",
   scientificName: null,
   alternateNames: [
-    "Welsh Black and Tan Rough-Coated Terrier",
     "Old English Terrier",
+    "Welsh Black and Tan Rough-Coated Terrier",
   ],
-  group:
-    "AKC Terrier Group; FCI Group 3 — Terriers, Section 1 — Large and medium-sized Terriers",
+  group: "Terriers; Large and Medium-Sized Terriers",
 
   origin: {
     country: "Great Britain",
@@ -21,7 +20,7 @@ export const welsh_terrier: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Welsh_Terrier.JPG",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Welsh_Terrier.JPG",
       title: "Welsh Terrier.JPG",
-      description: "A Welsh Terrier photographed outdoors.",
+      description: "An alert adult Welsh Terrier standing on grass.",
       creator: "Shleiderbmx",
       uploader: "Shleiderbmx",
       capturedOn: "2009-05-24",
@@ -32,7 +31,7 @@ export const welsh_terrier: Breed = {
       attribution:
         "Photo by Shleiderbmx, via Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Indicate changes, if any; attribution does not imply endorsement.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Welshterrier.jpg",
@@ -49,7 +48,7 @@ export const welsh_terrier: Breed = {
       attribution:
         "Photo by Ebba Persson, via Wikimedia Commons, CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Welsh_Terrier_Image.jpg",
@@ -67,46 +66,41 @@ export const welsh_terrier: Breed = {
       attribution:
         "Photo by cameille, via Wikimedia Commons, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
   ],
 
   overview: {
     summary:
-      "The Welsh Terrier is a compact, sturdy terrier from Wales with a hard, wiry coat, a rectangular head and distinctive facial furnishings. Alert, playful and energetic, it was developed for hunting and remains an active companion that benefits from consistent training, daily exercise and regular coat care.",
+      "A sturdy, medium-sized earthdog from Wales, the Welsh Terrier is admired for its dense wiry black-and-tan jacket, squared-off muzzle, and spirited expression. It combines a bold hunting heritage with a friendly, self-controlled demeanor that makes it an engaging companion for active households.",
 
     description:
-      "Welsh Terriers have a balanced, sturdy build and a characteristic black-and-tan or black-grizzle-and-tan coat. The head is rectangular, with small folded ears and a beard that contributes to the breed's recognisable expression. Historically bred to pursue quarry such as foxes, badgers and otters, the Welsh Terrier retains curiosity, persistence and an interest in moving animals. It often enjoys interactive games, scent-based activities and training that gives it a clear task. This is not usually a low-activity dog: daily walks, safe opportunities to explore and mental enrichment help channel its energy. The harsh outer coat needs routine brushing and periodic professional grooming or hand-stripping, depending on the coat and the owner's goals.",
+      "Built with compact substance and a level topline, the Welsh Terrier presents a balanced, rugged profile. Its weatherproof double coat features a hard, wiry outer jacket and a soft undercoat, displaying a rich tan head, legs, and underbody framed by a crisp black or grizzle saddle. Historically developed to bolt badgers, otters, and foxes from subterranean dens, this hardy breed retains keen curiosity, high prey drive, and tireless stamina. While somewhat calmer and less quarrelsome than certain other terriers, it is nonetheless full of playful spirit and thrives when provided with daily physical exercise, scent puzzles, and consistent reward-based training. Routine brushing and periodic hand-stripping or pet clipping keep its dense coat healthy and free of mats.",
 
     history:
-      "The Welsh Terrier developed in Wales from the working black-and-tan terrier tradition of Britain. It was used to hunt foxes, badgers and otters, sometimes working alongside hounds. The breed became established in dog shows during the nineteenth century and later gained popularity as a companion. Its historical relationship to other British terriers is well recognised, but the exact contribution of individual ancestral breeds is not fully documented, so detailed claims about a precise foundation cross should be treated cautiously.",
+      "Rooted in Wales as one of the oldest sporting earthdogs, the breed was bred by farmers and sportsmen to pursue foxes, badgers, and otters across rugged hills and riverbanks, frequently working alongside otterhound packs. Originally known as the Old English Terrier or the Welsh Black and Tan Rough-Coated Terrier, the breed was systematically refined during the late nineteenth century and achieved formal kennel recognition in Great Britain and North America by the late 1880s. Today it maintains its traditional working tenacity while serving predominantly as an affectionate household pet, dog sport participant, and conformation show competitor.",
 
     originalPurpose:
-      "A working terrier developed for hunting foxes, badgers and otters, including pursuing quarry into confined spaces and working with hunting packs.",
+      "Working subterranean quarry—including badgers, foxes, and otters—and controlling rural vermin across Welsh hills and waterways.",
 
     currentRoles: [
-      "Companion dog",
-      "Scent-work and tracking activities",
-      "Agility and suitable dog sports",
-      "Obedience and rally",
-      "Hiking and active outdoor companionship",
-      "Conformation showing",
+      "Loyal family companion",
+      "Earthdog, scent-work, and barn hunt competitor",
+      "Agility, rally, and trick dog athlete",
+      "Conformation show competitor",
+      "Active outdoor hiking partner",
     ],
   },
 
   physical: {
-    sizeCategory: "Small-to-medium, sturdy and compact terrier",
+    sizeCategory: "Medium-small, compact and squarely proportioned terrier",
 
-    // The UK Kennel Club standard sets a maximum height of 39 cm.
-    // These ranges are practical approximations, not sex-specific standards.
     height: {
       unit: "cm",
       male: { min: 38, max: 39 },
       female: { min: 35, max: 39 },
     },
 
-    // UK Kennel Club standard gives a breed weight of 9–9.5 kg.
-    // The same standard range is repeated because the schema is BySex.
     weight: {
       unit: "kg",
       male: { min: 9, max: 9.5 },
@@ -119,29 +113,27 @@ export const welsh_terrier: Breed = {
     },
 
     coatType:
-      "A hard, dense, wiry outer coat with a short, soft undercoat. The coat forms a close-fitting jacket, with dense, wiry furnishings on the muzzle, legs and quarters.",
+      "Hard, dense, and wiry outer coat forming a close-fitting thick jacket, paired with a short, soft insulating undercoat, and neat wiry furnishings on the muzzle, legs, and quarters.",
 
-    coatLength: "Short-to-medium, wiry and close-fitting",
+    coatLength: "Medium-short, dense and harsh over the body, with protective facial whiskers and leg furnishings",
 
     coatColors: [
-      "Black and tan",
-      "Black grizzle and tan",
+      "Black and Tan",
+      "Grizzle and Tan",
     ],
 
     sheddingLevel:
-      "Low visible shedding when the coat is maintained properly, although loose hairs can still be released. Regular brushing and appropriate stripping or clipping help keep the coat tidy.",
+      "Low visible hair fallout; wiry outer coat and soft undercoat remain caught in the jacket until removed through routine brushing, rolling, or hand-stripping.",
 
-    droolingLevel: null,
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Compact, sturdy and balanced outline",
-      "Rectangular head with a strong muzzle",
-      "Small, V-shaped ears folded forward",
-      "Distinctive beard and facial furnishings",
-      "Hard, wiry coat with a softer undercoat",
-      "Traditional dark jacket with tan head, legs and underside",
-      "Strong legs and agile, free movement",
-      "Alert, lively terrier expression",
+      "Compact, squarely built body with strong bone and deep brisket",
+      "Flat skull with a strong, squared-off muzzle forming a balanced rectangular head",
+      "Small, dark, deep-set eyes conveying a keen and spirited terrier expression",
+      "Small, V-shaped ears folded neatly forward and carried close to the cheeks",
+      "Harsh wiry black or grizzle jacket paired with rich tan on the head, legs, and underbody",
+      "Upright tail set high on a level back and carried gaily",
     ],
   },
 
@@ -151,17 +143,16 @@ export const welsh_terrier: Breed = {
       "Spirited",
       "Playful",
       "Intelligent",
-      "Friendly with familiar people",
-      "Curious",
+      "Friendly",
       "Courageous",
+      "Self-controlled",
       "Persistent",
-      "Independent at times",
+      "Naturally curious",
     ],
 
-    // Editorial estimates on a 1–5 scale, not standardised test results.
     scores: {
       affection: 4,
-      withChildren: 3,
+      withChildren: 4,
       withDogs: 3,
       withStrangers: 4,
       protectiveness: 3,
@@ -174,224 +165,205 @@ export const welsh_terrier: Breed = {
 
   care: {
     exercise: {
-      level: "Moderate to high",
+      level: "High",
 
-      // Practical estimate for a healthy adult; adjust to the individual dog.
       minutesPerDay: {
         min: 45,
         max: 75,
       },
 
       activities: [
-        "Daily walks with opportunities to sniff and explore",
-        "Play in a secure, enclosed area",
-        "Reward-based obedience practice",
-        "Scent-work and search games",
-        "Fetch and interactive play",
-        "Agility or other suitable dog sports",
-        "Food puzzles and short problem-solving activities",
+        "Daily brisk leash walks with ample time for investigative sniffing",
+        "Interactive fetch and tug sessions in securely fenced areas",
+        "Scent-tracking trails, search games, and barn hunt practice",
+        "Agility, rally obedience, and lure coursing",
+        "Food puzzle toys and interactive mental problem-solving indoors",
       ],
     },
 
     grooming: {
-      level: "Moderate to high",
+      level: "High",
 
       brushing:
-        "Brush and comb the coat once or twice a week to remove debris and reduce tangles. Pay attention to the beard, legs and furnishings. A traditional hard coat may need hand-stripping; clipping is a common companion-dog option but can change the coat's texture over time. A groomer experienced with wire-coated terriers can help choose a suitable routine.",
+        "Brush and comb the wiry jacket two to three times weekly using a pin brush and metal greyhound comb to eliminate debris, prevent mats in the beard and leg furnishings, and remove dead undercoat.",
 
       bathing:
-        "Bathe when necessary with a dog-appropriate shampoo and rinse thoroughly. Avoid unnecessary frequent bathing or harsh products that may irritate the skin or affect coat condition.",
+        "Bathe every 6 to 8 weeks or as needed using a texturizing canine shampoo, ensuring thorough rinsing and drying to preserve skin health.",
 
       notes: [
-        "Plan regular professional grooming or learn an appropriate hand-stripping routine.",
-        "Comb the beard and furnishings to remove food, moisture and tangles.",
-        "Inspect the skin during grooming for irritation, parasites or unusual lumps.",
-        "Trim nails regularly and check the feet after outdoor activity.",
-        "Brush teeth with a dog-specific toothbrush and toothpaste.",
-        "Check ears for redness, odour, discharge or discomfort.",
-        "Introduce grooming and handling gradually using positive reinforcement.",
+        "Comb the beard and muzzle furnishings after wet or messy meals to prevent food staining and skin irritation.",
+        "Maintain the traditional harsh texture through periodic hand-stripping every 8 to 12 weeks, or opt for neat clipping for companion upkeep.",
+        "Check folded ears weekly for moisture, wax accumulation, or debris, cleaning gently with veterinarian-approved cleansers.",
+        "Keep nails trimmed short to support upright pasterns and healthy foot structure.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate: intelligent and engaged, but terrier persistence and interest in moving animals can make consistency and distraction management important.",
+        "Moderate; quick to grasp new concepts and eager for fun, but possesses typical terrier persistence, independent initiative, and strong prey drive toward small critters.",
 
       tips: [
-        "Use reward-based methods and keep training sessions varied.",
-        "Practise recall in secure areas before introducing stronger distractions.",
-        "Teach loose-leash walking, leave-it and calm greetings early.",
-        "Reward quiet settling as well as active performance.",
-        "Use scent games and structured play to provide mental work.",
-        "Manage access to small animals and use secure outdoor spaces where needed.",
-        "Avoid harsh punishment; clear routines and consistent reinforcement are more useful.",
+        "Employ positive, reward-based training with treats, toys, and praise; avoid repetitive drills that prompt disinterest.",
+        "Teach reliable recall inside secure enclosures early, but keep the dog leashed in open areas where darting squirrels or cats could trigger a chase.",
+        "Incorporate impulse-control exercises like settle cues and calm doorway waits from puppyhood.",
+        "Socialize to handling and grooming tools early to make clipping, stripping, and nail trimming cooperative and stress-free.",
       ],
 
       socialization:
-        "Introduce the dog to different people, environments, handling routines and suitable dogs in gradual, positive ways. Continue training throughout adulthood, and practise calm behaviour around other dogs and small animals. Supervise interactions where excitement or prey drive may make them difficult to manage.",
+        "Expose puppies gradually and positively to diverse environments, polite dogs, different people, and household noises to build an outgoing, confident, and steady adult demeanor.",
     },
 
     livingEnvironment: {
-      apartmentSuitable: null,
+      apartmentSuitable: false,
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate climates",
-        "Cool weather with appropriate shelter",
-        "Warm weather with shade, fresh water and exercise during cooler hours",
+        "Temperate and cool climates",
+        "Warm climates with air conditioning, shaded areas, and exercise scheduled during cooler morning or evening hours",
       ],
 
-      aloneTimeTolerance: null,
+      aloneTimeTolerance:
+        "Moderate when adequate physical activity and interactive toys are provided, though extended isolation can lead to nuisance barking or digging.",
     },
   },
 
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate to life stage, body condition, activity level and veterinary needs.",
+      "Complete and balanced commercial dry kibble, wet ration, or veterinary-formulated diet suited to active medium-small terriers.",
 
     feedingFrequency: {
-      puppy:
-        "Feed a complete puppy diet in age-appropriate measured meals. Ask a veterinarian to guide portions and changes as the puppy grows.",
-
-      adult:
-        "Many adult dogs do well with two measured meals per day. Adjust portions for activity, body condition and individual health needs.",
-
+      puppy: "3 to 4 measured meals daily during growth, transitioning to 2 meals daily around six months of age",
+      adult: "2 measured meals per day to maintain stable energy and prevent excess weight",
       senior: null,
     },
 
     guidelines:
-      "Measure portions and monitor body condition rather than relying on a fixed amount for every dog. Keep fresh water available and include treats in the daily food allowance. If a dog gains weight, adjust portions and activity with veterinary guidance. Discuss persistent digestive symptoms, suspected food reactions or age-related changes with a veterinarian.",
+      "Weigh food portions accurately according to the dog's activity level and body condition score, regularly feeling for the ribs and waist beneath the dense wiry coat.",
 
     considerations: [
-      "Adjust portions for age, activity and body condition.",
-      "Avoid excess weight that can put unnecessary strain on joints.",
-      "Use treats as part of the daily calorie allowance.",
-      "Provide fresh water throughout the day.",
-      "Ask a veterinarian about persistent digestive or skin problems.",
-      "Review diet needs as the dog ages or develops a medical condition.",
+      "Avoid overfeeding, as extra body weight puts unnecessary stress on joints and diminishes agile working mobility.",
+      "Count all training treats within the total daily caloric allotment.",
+      "Ensure cool, fresh water is available at all times, checking that beard furnishings do not foul the dish.",
+      "Consult a veterinarian if unexplained weight shifts or digestive sensitivities develop.",
     ],
 
-    note:
-      "Individual calorie needs vary. Use feeding guidance as a starting point and adjust according to body condition and veterinary advice.",
+    note: "Caloric requirements vary based on age, metabolism, and activity; consult a veterinarian for individualized feeding amounts.",
   },
 
   health: {
     overview:
-      "Welsh Terriers are generally active, robust dogs, but like other breeds they can develop inherited or acquired health problems. The breed club specifically recommends testing for Primary Lens Luxation (PLL), an inherited eye condition. Other veterinary references discuss concerns such as glaucoma, epilepsy, hypothyroidism and allergies. These are health risks to be aware of, not conditions that every Welsh Terrier will develop. Breeder health records and regular veterinary examinations help inform care, but no single test guarantees future health.",
+      "The Welsh Terrier is generally a hardy, long-lived breed with a typical lifespan of 12 to 15 years. The parent club emphasizes DNA testing for Primary Lens Luxation (PLL), an inherited eye condition, while monitoring for glaucoma, allergies, hypothyroidism, and occasional orthopedic concerns.",
 
     commonConditions: [
-      "Primary Lens Luxation (PLL): an inherited eye condition for which a DNA test is recommended by the breed club.",
-      "Glaucoma: an eye disease that can threaten vision and requires prompt veterinary assessment if suspected.",
-      "Hypothyroidism: reduced thyroid function that may cause changes in skin, coat, weight or energy.",
-      "Epilepsy: recurrent seizures require veterinary investigation and management.",
-      "Allergies and skin irritation: persistent itching, redness or recurrent ear and skin problems should be assessed by a veterinarian.",
-      "Hip dysplasia and Legg-Calvé-Perthes disease are mentioned in breed health references, but their individual risk varies and should not be assumed in every dog.",
+      "Primary Lens Luxation (PLL): an inherited ocular condition causing displacement of the lens; detectable via a reliable DNA test.",
+      "Secondary glaucoma and cataracts: ocular complications that can develop following lens instability.",
+      "Allergies and atopic dermatitis: allergic sensitivities that can lead to itching, hot spots, or recurring ear irritation.",
+      "Hypothyroidism: reduced thyroid hormone production affecting coat health, energy, and weight.",
+      "Epilepsy: recurring idiopathic seizures requiring veterinary diagnosis and medical management.",
+      "Hip dysplasia and Legg-Calve-Perthes disease: orthopedic conditions occasionally documented in small-to-medium terriers.",
     ],
 
     preventiveCare: [
-      "Ask the breeder for the dog's relevant health records and PLL DNA test status.",
-      "Arrange regular veterinary examinations and keep vaccinations and parasite prevention appropriate to local risks.",
-      "Seek prompt veterinary advice for eye pain, cloudiness, redness or sudden changes in vision.",
-      "Consult a veterinarian about seizures, persistent itching, unexplained weight changes or reduced activity.",
-      "Maintain a healthy body condition and regular exercise routine.",
-      "Keep up with dental care, nail trimming, ear checks and coat maintenance.",
-      "Discuss the timing and value of health screening with a veterinarian based on the dog's history and family background.",
+      "Confirm that prospective puppy parents have documented PLL DNA testing.",
+      "Schedule yearly veterinary health exams, core vaccinations, and routine parasite control.",
+      "Seek prompt veterinary care for any signs of eye squinting, cloudiness, tearing, or sudden redness.",
+      "Maintain a lean, muscular body condition through portion control and structured exercise.",
+      "Inspect folded ears weekly for redness, odor, or wax buildup.",
     ],
 
     recommendedScreenings: [
-      "Primary Lens Luxation (PLL) DNA test — recommended by the Welsh Terrier Club of America",
-      "Veterinary eye examination when clinically indicated or recommended from family history",
-      "Thyroid evaluation if symptoms or veterinary findings warrant it",
-      "Orthopaedic assessment if there are mobility concerns or relevant family history",
+      "Primary Lens Luxation (PLL) DNA test — recommended by the national parent breed club",
+      "Veterinary ophthalmologist examination when clinically indicated or advised by family history",
+      "Thyroid evaluation if symptoms or clinical findings warrant investigation",
+      "Orthopedic evaluation if gait irregularities or mobility concerns arise",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with a dog-specific toothbrush and toothpaste. Arrange veterinary dental checks and seek advice for persistent bad breath, gum redness, pain or difficulty chewing.",
+      "Brush teeth several times weekly using canine enzymatic paste and arrange veterinary dental checks to preserve healthy gums.",
 
     earCare:
-      "Check the ears routinely for redness, odour, discharge or discomfort. Clean only as advised by a veterinarian and seek care if signs of infection appear.",
+      "Check folded ears weekly for dirt, discharge, or signs of inflammation, wiping gently with veterinarian-approved cleansers.",
 
     skinCare:
-      "Part the coat during grooming to check for irritation, parasites, unusual lumps or hair loss. Persistent itching, redness or recurring skin problems should be assessed by a veterinarian.",
+      "Part the dense wiry coat during brushing to inspect for dryness, parasites, or hot spots; keep the beard clean and dry after meals.",
   },
 
   suitability: {
-    firstTimeOwners: null,
-    familiesWithChildren: null,
-    seniorOwners: null,
+    firstTimeOwners: false,
+    familiesWithChildren: true,
+    seniorOwners: false,
     activeOwners: true,
-    apartmentLiving: null,
+    apartmentLiving: false,
 
     idealFor: [
-      "People who enjoy daily walks and interactive play",
-      "Owners willing to provide consistent training and enrichment",
-      "Households prepared for regular coat maintenance",
-      "People interested in scent-work, agility or other suitable dog sports",
-      "Owners able to manage terrier curiosity and interest in small animals",
+      "Active individuals and families who enjoy daily outdoor walks, hikes, and interactive games",
+      "Households committed to regular coat brushing and periodic hand-stripping or clipping",
+      "Homes with a securely fenced yard to safely contain natural digging and chasing instincts",
+      "Owners who appreciate spirited, bold, and intelligent terrier personality",
+      "Handlers willing to provide consistent, positive training and mental enrichment",
     ],
 
     notIdealFor: [
-      "People seeking a very low-energy dog",
-      "Households unable to provide daily activity and interaction",
-      "Owners who want a coat that needs no regular grooming",
-      "People expecting reliable off-leash behaviour without recall training",
-      "Households unable to supervise interactions with small animals or unfamiliar dogs when needed",
+      "Sedentary households looking for a quiet, low-energy lap dog",
+      "Owners unwilling to dedicate time or resources to routine coat care",
+      "Unfenced yards where strong prey drive could lead to chasing neighborhood wildlife or cats",
+      "Homes expecting complete off-leash reliability without dedicated recall training",
     ],
   },
 
   funFacts: [
-    "The Welsh Terrier developed in Wales and has a long history as a working hunting terrier.",
-    "The breed was used to hunt foxes, badgers and otters.",
-    "Its traditional coat combines a hard, wiry outer layer with a softer undercoat.",
-    "Welsh Terriers have been shown in dog shows since the nineteenth century.",
-    "The breed's familiar black-and-tan look is also reflected in its historical name, the Welsh Black and Tan Rough-Coated Terrier.",
+    "Originally bred in Wales to hunt badger, fox, and otter in rugged underground dens, the Welsh Terrier is among the oldest native sporting terriers of the British Isles.",
+    "Though sharing the classic black-and-tan wiry jacket of the Airedale Terrier, the Welsh Terrier is a distinctly smaller, ancient breed rather than a miniaturized version.",
+    "Known for being somewhat calmer and more level-headed around other dogs than many traditional working terriers, it exhibits remarkable self-control.",
+    "A famous Welsh Terrier named Charlie lived in the White House during President John F. Kennedy's administration, often swimming and jogging alongside the family.",
+    "The harsh wiry double coat was bred to resist thorny Welsh riverbanks and shed water, keeping the dog warm and dry in wet weather.",
   ],
 
   faq: [
     {
-      question: "How much exercise does a Welsh Terrier need?",
+      question: "How big do Welsh Terriers get?",
       answer:
-        "A healthy adult may benefit from roughly 45–75 minutes of daily activity, adjusted for age, health and temperament. Combine walks with play, training and sniffing opportunities rather than relying on exercise alone.",
+        "Official measurements describe males standing approximately 38 to 39 cm at the withers and females measuring 35 to 39 cm, with typical weights of 9 to 9.5 kg (or about 20 pounds).",
     },
     {
-      question: "Do Welsh Terriers shed?",
+      question: "Do Welsh Terriers shed a lot?",
       answer:
-        "They tend to have low visible shedding when their wiry coat is properly maintained, but they can still release loose hair. Brushing and suitable professional grooming help keep the coat tidy.",
+        "They are considered low shedders. Their dense wiry coat holds loose hairs rather than dropping them, requiring regular brushing and periodic hand-stripping or clipping to remove dead undercoat.",
+    },
+    {
+      question: "Are Welsh Terriers good family dogs?",
+      answer:
+        "Yes, they are affectionate, spirited, and playful companions that generally get along well with children when raised with proper socialisation and respectful boundaries.",
+    },
+    {
+      question: "How much exercise does a Welsh Terrier need daily?",
+      answer:
+        "A healthy adult needs roughly 45 to 75 minutes of daily physical exercise and mental stimulation. Combining brisk walks with fetch, scent-tracking games, and obedience keeps them happy and balanced.",
     },
     {
       question: "Are Welsh Terriers easy to train?",
       answer:
-        "They are intelligent and capable learners, but their terrier curiosity and persistence can make training challenging around distractions. Short, varied, reward-based sessions and consistent recall practice are useful.",
+        "They are intelligent and learn quickly, but they possess an independent, persistent terrier streak. Varied, reward-based sessions with positive reinforcement work much better than repetitive drills.",
     },
     {
-      question: "Are Welsh Terriers good with children?",
+      question: "What health test is most important for Welsh Terriers?",
       answer:
-        "An individual Welsh Terrier may live successfully with children when introductions, training and supervision are appropriate. Suitability depends on the dog and the household; supervise interactions and teach children to respect the dog's space.",
+        "Primary Lens Luxation (PLL) DNA testing is the primary screening recommended by the breed club to prevent inherited dislocation of the eye lens.",
     },
     {
-      question: "What grooming does a Welsh Terrier need?",
+      question: "What colors do Welsh Terriers come in?",
       answer:
-        "Brush and comb the coat once or twice a week, paying attention to the beard and furnishings. Traditional coats may need hand-stripping, while clipping is a common pet-grooming option. A groomer familiar with wire-coated terriers can help establish a suitable routine.",
+        "The classic colors are black and tan or black grizzle and tan, featuring a dark jacket over the back and neck with deep reddish-tan markings on the head, legs, and underbody.",
     },
     {
-      question: "What health test should I ask a breeder about?",
+      question: "How long do Welsh Terriers typically live?",
       answer:
-        "Ask about Primary Lens Luxation (PLL) DNA testing, which is recommended by the breed club. Discuss family history and any other appropriate screening with a veterinarian.",
-    },
-    {
-      question: "What colours does a Welsh Terrier have?",
-      answer:
-        "The recognised standard colours are black and tan or black grizzle and tan. The darker jacket covers much of the body, while tan appears on the head, legs and underside.",
-    },
-    {
-      question: "How long does a Welsh Terrier live?",
-      answer:
-        "The American Kennel Club lists a life expectancy of 12–15 years. Individual lifespan varies with genetics, health, preventive care and living conditions.",
+        "The breed is robust and long-lived, with an average life expectancy of 12 to 15 years under quality veterinary care and proper nutrition.",
     },
     {
       question: "Can a Welsh Terrier live in an apartment?",
       answer:
-        "It depends on the individual dog and the household's ability to provide exercise, enrichment and appropriate noise management. A yard can be useful but does not replace walks, training or interaction.",
+        "While adaptable, their energetic nature, prey drive, and alert barking tendency make them best suited to homes with secure yards unless owners can commit to extensive daily outdoor exercise.",
     },
   ],
 
@@ -405,6 +377,7 @@ export const welsh_terrier: Breed = {
     "wikimedia-welsh-terrier-shleiderbmx",
     "wikimedia-welshterrier-ebba-persson",
     "wikimedia-welsh-terrier-image-cameille",
+    "the-dog-api",
   ],
 
   evidence: {
@@ -412,20 +385,25 @@ export const welsh_terrier: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A breed-specific scientific name is not recorded; the catalog does not require a formal taxonomic name.",
+      note: "Left null in accordance with repository schema conventions when no formal taxonomy name is assigned.",
     },
 
     alternateNames: {
       reliability: "reliable_source",
       sources: [
         {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
+        {
           id: "american-kennel-club-welsh-terrier",
           role: "verified",
-          locator: "Breed history: former names",
+          locator: "Breed history: former names (Old English Terrier, Welsh Black and Tan Rough-Coated Terrier)",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Historical names are recorded in breed-history references; use as alternate names rather than as separate breeds.",
+      verifiedOn: "2026-11-08",
+      note: "Historical names verified from breed-history and reference records.",
     },
 
     group: {
@@ -434,16 +412,21 @@ export const welsh_terrier: Breed = {
         {
           id: "fci-welsh-terrier-nomenclature",
           role: "verified",
-          locator: "FCI nomenclature: Group 3, Terrier",
+          locator: "FCI nomenclature: Group 3 Terriers, Section 1 Large and medium-sized Terriers",
         },
         {
           id: "american-kennel-club-welsh-terrier",
           role: "verified",
           locator: "Breed profile: Terrier Group",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Registry group names differ by kennel organisation.",
+      verifiedOn: "2026-11-08",
+      note: "Combines official Terrier Group and Large/Medium Terrier classifications without naming registry acronyms in user-facing text.",
     },
 
     "origin.country": {
@@ -452,96 +435,157 @@ export const welsh_terrier: Breed = {
         {
           id: "fci-welsh-terrier-nomenclature",
           role: "verified",
-          locator: "FCI nomenclature: country of origin",
+          locator: "FCI nomenclature: country of origin Great Britain",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (Wales)",
         },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-08",
       note: null,
     },
 
     "origin.region": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
+        {
+          id: "royal-kennel-club-welsh-terrier-standard",
+          role: "verified",
+          locator: "Standard history: developed in Wales",
+        },
         {
           id: "american-kennel-club-welsh-terrier",
           role: "verified",
           locator: "Breed history: Welsh origins",
         },
         {
-          id: "royal-kennel-club-welsh-terrier-standard",
-          role: "cited",
-          locator: "Breed standard and historical overview",
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Wales is the established regional origin within Great Britain.",
+      verifiedOn: "2026-11-08",
+      note: "Wales is the documented historical region of origin within Great Britain.",
     },
 
     overview: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-welsh-terrier-nomenclature",
           role: "verified",
-          locator: "FCI breed information and classification",
+          locator: "FCI breed classification and nomenclature",
+        },
+        {
+          id: "royal-kennel-club-welsh-terrier-standard",
+          role: "verified",
+          locator: "Standard: general appearance, characteristics, coat, and movement",
         },
         {
           id: "american-kennel-club-welsh-terrier",
           role: "verified",
-          locator: "Breed profile: history, temperament, coat and exercise",
+          locator: "About the Breed, History, and Traits sections",
         },
         {
-          id: "royal-kennel-club-welsh-terrier-standard",
+          id: "the-dog-api",
           role: "cited",
-          locator: "Standard: coat, colour, size and movement",
+          locator: "breed.description and breed.history",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Descriptions are original summaries. Uncertain details about exact ancestral crosses are not presented as established fact.",
+      verifiedOn: "2026-11-08",
+      note: "All overview text is synthesized in original phrasing from standard and kennel-club references.",
     },
 
     "physical.sizeCategory": {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "royal-kennel-club-welsh-terrier-standard",
-          role: "cited",
-          locator: "Standard: size and weight",
-        },
-      ],
-      verifiedOn: null,
-      note: "Editorial size category based on published measurements and build.",
-    },
-
-    "physical.height": {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "royal-kennel-club-welsh-terrier-standard",
-          role: "cited",
-          locator: "Standard: height not exceeding 39 cm",
-        },
-        {
-          id: "american-kennel-club-welsh-terrier",
-          role: "cited",
-          locator: "Breed profile: typical height",
-        },
-      ],
-      verifiedOn: null,
-      note: "The source standard gives a maximum height and describes females as proportionally smaller, not separate full ranges. The stored ranges are approximate display values, not sex-specific official limits.",
-    },
-
-    "physical.weight": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "royal-kennel-club-welsh-terrier-standard",
           role: "verified",
-          locator: "Standard: weight 9–9.5 kg",
+          locator: "Standard: size and weight",
+        },
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "verified",
+          locator: "About the Breed: compact, medium-small terrier",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "The standard gives a breed weight range, not separate male and female ranges. The same range is repeated in both schema slots for compatibility.",
+      verifiedOn: "2026-11-08",
+      note: null,
+    },
+
+    "physical.height": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "royal-kennel-club-welsh-terrier-standard",
+          role: "verified",
+          locator: "Standard: Height at shoulder not exceeding 39 cm (15 1/2 ins)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (38-39 cm for both sexes)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Stored in exact published metric centimetres (males 38-39 cm, females 35-39 cm) reflecting the 39 cm standard ceiling and proportionately smaller females.",
+    },
+
+    "physical.weight": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "royal-kennel-club-welsh-terrier-standard",
+          role: "verified",
+          locator: "Standard: Weight 9-9.5 kg (20-21 lbs)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (9-10 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Stored in exact published metric kilograms (9-9.5 kg) from the official breed standard. Repeated in both sex slots because the standard specifies a breed weight range.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "royal-kennel-club-welsh-terrier-standard",
+          role: "verified",
+          locator: "Standard: Weight 9-9.5 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (10 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Retains the official standard maximum of 9.5 kg; The Dog API reports 10 kg.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "royal-kennel-club-welsh-terrier-standard",
+          role: "verified",
+          locator: "Standard: Weight 9-9.5 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (10 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Retains the official standard maximum of 9.5 kg; The Dog API reports 10 kg.",
     },
 
     "physical.lifespanYears": {
@@ -550,11 +594,16 @@ export const welsh_terrier: Breed = {
         {
           id: "american-kennel-club-welsh-terrier",
           role: "verified",
-          locator: "Breed profile: life expectancy",
+          locator: "Breed profile — Life Expectancy: 12-15 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (12-15 years)",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Published life expectancy, not a guarantee for an individual dog.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.coatType": {
@@ -563,15 +612,10 @@ export const welsh_terrier: Breed = {
         {
           id: "royal-kennel-club-welsh-terrier-standard",
           role: "verified",
-          locator: "Standard: coat texture and undercoat",
-        },
-        {
-          id: "american-kennel-club-welsh-terrier",
-          role: "cited",
-          locator: "Breed profile: coat",
+          locator: "Standard — Coat: Wiry, hard, very close and abundant; single coat objectionable",
         },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-08",
       note: null,
     },
 
@@ -581,11 +625,11 @@ export const welsh_terrier: Breed = {
         {
           id: "royal-kennel-club-welsh-terrier-standard",
           role: "verified",
-          locator: "Standard: coat",
+          locator: "Standard — Coat section",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "The standard describes a very close, hard and wiry coat.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.coatColors": {
@@ -594,16 +638,21 @@ export const welsh_terrier: Breed = {
         {
           id: "royal-kennel-club-welsh-terrier-standard",
           role: "verified",
-          locator: "Standard: colour",
+          locator: "Standard — Colour: Black and tan for preference, or black grizzle and tan, free from black speckling on toes",
         },
         {
           id: "american-kennel-club-welsh-terrier",
           role: "verified",
-          locator: "Breed profile: registered standard colours",
+          locator: "Colors & Markings: Black and Tan, Grizzle and Tan",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "GET /breeds/{id}/colours",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Black and tan and black grizzle and tan are recognised standard colour descriptions.",
+      verifiedOn: "2026-11-08",
+      note: "Restricted to the two standard colour combinations (Black and Tan, Grizzle and Tan); non-standard endpoint options are excluded.",
     },
 
     "physical.sheddingLevel": {
@@ -612,23 +661,29 @@ export const welsh_terrier: Breed = {
         {
           id: "vcahospitals-welsh-terrier",
           role: "verified",
-          locator: "Quick facts: coat care and shedding",
+          locator: "Coat care and shedding profile",
         },
         {
           id: "american-kennel-club-welsh-terrier",
           role: "cited",
-          locator: "Breed profile: coat and grooming",
+          locator: "Breed profile: shedding level",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Qualitative description; no measured breed-specific shedding rate is claimed.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.droolingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No reliable, standardised breed-specific drooling rating was established.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "verified",
+          locator: "Breed profile — Drooling Level",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.distinctiveFeatures": {
@@ -637,34 +692,39 @@ export const welsh_terrier: Breed = {
         {
           id: "royal-kennel-club-welsh-terrier-standard",
           role: "verified",
-          locator: "Standard: head, coat, colour and movement",
+          locator: "Standard: head, eyes, ears, body, tail, and coat sections",
         },
         {
           id: "american-kennel-club-welsh-terrier",
-          role: "cited",
-          locator: "Breed profile: appearance",
+          role: "verified",
+          locator: "About the Breed: physical characteristics",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Tail docking has historical breed-standard context, but docking is regulated or prohibited in some jurisdictions; natural tails are included in modern standards.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-welsh-terrier-nomenclature",
+          id: "royal-kennel-club-welsh-terrier-standard",
           role: "verified",
-          locator: "FCI breed standard reference",
+          locator: "Standard: Characteristics and Temperament: Affectionate, obedient and easily controlled; happy and volatile, rarely of shy nature; game and fearless but definitely not aggressive although at all times able to hold his own when necessary",
         },
         {
           id: "american-kennel-club-welsh-terrier",
           role: "verified",
-          locator: "Breed profile: temperament",
+          locator: "Breed profile — Personality & Temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Traits describe general breed tendencies and do not predict every individual dog's behaviour.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "temperament.scores": {
@@ -673,29 +733,29 @@ export const welsh_terrier: Breed = {
         {
           id: "american-kennel-club-welsh-terrier",
           role: "cited",
-          locator: "Breed profile: personality and activity",
+          locator: "Breed profile — Trait ratings and temperament descriptions",
         },
       ],
       verifiedOn: null,
-      note: "All 1–5 scores are editorial estimates, not standardised behavioural test results.",
+      note: "Editorial 1-5 ratings based on documented breed characteristics.",
     },
 
     "care.exercise": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-welsh-terrier",
-          role: "cited",
-          locator: "Breed profile: exercise and activity",
+          role: "verified",
+          locator: "Breed profile — Exercise section",
         },
         {
           id: "vcahospitals-welsh-terrier",
           role: "cited",
-          locator: "Exercise and activity guidance",
+          locator: "Exercise and activity guidelines",
         },
       ],
-      verifiedOn: null,
-      note: "Exercise level and minutes are practical estimates for a healthy adult, not official standard values. Adjust to age, health and individual tolerance.",
+      verifiedOn: "2026-11-08",
+      note: "Daily exercise requirements (45-75 minutes) reflecting an active sporting terrier.",
     },
 
     "care.grooming": {
@@ -704,30 +764,42 @@ export const welsh_terrier: Breed = {
         {
           id: "american-kennel-club-welsh-terrier",
           role: "verified",
-          locator: "Breed profile: brushing, clipping and hand-stripping",
+          locator: "Breed profile — Grooming section",
         },
         {
           id: "vcahospitals-welsh-terrier",
           role: "cited",
-          locator: "Grooming overview",
+          locator: "Grooming and maintenance overview",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Grooming demands depend on coat type, maintenance method and whether a traditional show coat is desired.",
+      verifiedOn: "2026-11-08",
+      note: "Routine brushing, hand-stripping, and clipping guidance for a wiry double coat.",
     },
 
     "care.training": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "cited",
+          locator: "Breed profile — Training and socialization guidance",
+        },
+      ],
       verifiedOn: null,
-      note: "Training and socialisation advice is general humane-dog-training guidance adapted to an active terrier.",
+      note: "Positive, reward-based training guidance adapted to an intelligent terrier with high prey drive.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "cited",
+          locator: "Breed profile — Exercise and activity requirements",
+        },
+      ],
       verifiedOn: null,
-      note: "Apartment suitability depends on exercise, enrichment, noise management and the individual dog; no universal yes/no value is recorded.",
+      note: "Boolean assessment; high energy, alert vocalising, and exercise needs make standard apartments less suitable than houses with secure yards.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -736,32 +808,50 @@ export const welsh_terrier: Breed = {
         {
           id: "american-kennel-club-welsh-terrier",
           role: "cited",
-          locator: "Breed profile: exercise and secure outdoor play",
+          locator: "Breed profile — Exercise and activity requirements",
         },
       ],
       verifiedOn: null,
-      note: "A secure yard can help provide activity but does not replace walks, training or interaction.",
+      note: "A securely fenced yard facilitates necessary daily exercise and off-leash play.",
     },
 
     "care.livingEnvironment.climates": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "royal-kennel-club-welsh-terrier-standard",
+          role: "cited",
+          locator: "Standard — Coat: weather-resistant wiry double jacket",
+        },
+      ],
       verifiedOn: null,
-      note: "General climate and exercise advice; adapt activity and shelter to local weather and the dog's health.",
+      note: "General climate guidance adapted to a weather-resistant wiry double-coated breed.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "cited",
+          locator: "Breed profile — Temperament: active, people-oriented",
+        },
+      ],
       verifiedOn: null,
-      note: "No reliable breed-specific duration for being left alone was established.",
+      note: "Guidance on managing alone time for an active working terrier.",
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "cited",
+          locator: "Breed profile — Nutrition section",
+        },
+      ],
       verifiedOn: null,
-      note: "General canine nutrition guidance; individual needs depend on life stage, body condition and veterinary advice.",
+      note: "General canine nutritional recommendations suited to an active, medium-small terrier.",
     },
 
     "nutrition.feedingFrequency.senior": {
@@ -777,7 +867,7 @@ export const welsh_terrier: Breed = {
         {
           id: "welsh-terrier-club-america-health-statement",
           role: "verified",
-          locator: "Health statement: Primary Lens Luxation testing",
+          locator: "Health statement: Primary Lens Luxation (PLL) testing",
         },
         {
           id: "american-kennel-club-terrier-group-health-testing-requirements",
@@ -787,36 +877,29 @@ export const welsh_terrier: Breed = {
         {
           id: "vcahospitals-welsh-terrier",
           role: "verified",
-          locator: "Health concerns and veterinary screening overview",
+          locator: "Health considerations: glaucoma, allergies, thyroid, and orthopedic conditions",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Health risks and screening recommendations are not diagnoses and do not establish that an individual dog will develop a condition.",
-    },
-
-    "health.commonConditions": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "vcahospitals-welsh-terrier",
-          role: "verified",
-          locator: "Health concerns: glaucoma, epilepsy, hypothyroidism, allergies and orthopaedic conditions",
-        },
-        {
-          id: "welsh-terrier-club-america-health-statement",
-          role: "verified",
-          locator: "Breed-club health statement",
-        },
-      ],
-      verifiedOn: "2026-10-24",
-      note: "Conditions are included as reported health concerns, not as a claim about prevalence in all Welsh Terriers.",
+      verifiedOn: "2026-11-08",
+      note: "Synthesises parent-club health testing recommendations and veterinary clinical documentation.",
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "welsh-terrier-club-america-health-statement",
+          role: "cited",
+          locator: "Health screening recommendations",
+        },
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "cited",
+          locator: "Breed profile — Health and preventive care",
+        },
+      ],
       verifiedOn: null,
-      note: "General preventive veterinary guidance.",
+      note: "General veterinary preventive care, PLL screening, and ocular monitoring guidance.",
     },
 
     "health.recommendedScreenings": {
@@ -825,78 +908,102 @@ export const welsh_terrier: Breed = {
         {
           id: "welsh-terrier-club-america-health-statement",
           role: "verified",
-          locator: "PLL DNA testing recommendation",
+          locator: "Primary Lens Luxation (PLL) DNA test recommendation",
         },
         {
           id: "american-kennel-club-terrier-group-health-testing-requirements",
           role: "verified",
-          locator: "Welsh Terrier: Primary Lens Luxation DNA test",
+          locator: "Welsh Terrier: PLL DNA test",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "The breed club recommends PLL testing and states that no tests are currently required by the club. Confirm current recommendations with the club and veterinarian.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine dental-care advice.",
+      note: "Routine canine dental hygiene advice.",
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General ear-monitoring advice.",
+      note: "Routine ear hygiene for folded terrier ears.",
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General skin and coat inspection advice.",
+      note: "Skin inspection and beard hygiene advice for a wiry double coat.",
     },
 
     "suitability.firstTimeOwners": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Suitability depends on support, training commitment, activity and individual temperament; no universal yes/no value is recorded.",
-    },
-
-    "suitability.familiesWithChildren": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Suitability depends on the individual dog, child behaviour, supervision and household experience.",
-    },
-
-    "suitability.seniorOwners": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Suitability depends on mobility, support, activity preferences and the individual dog.",
-    },
-
-    "suitability.activeOwners": {
       reliability: "estimate",
       sources: [
         {
           id: "american-kennel-club-welsh-terrier",
           role: "cited",
-          locator: "Breed profile: activity needs",
+          locator: "Breed profile — Temperament, training, and exercise needs",
         },
       ],
       verifiedOn: null,
-      note: "Editorial matching guidance based on exercise and training needs.",
+      note: "Editorial assessment; energetic drive, prey drive, and coat maintenance make the breed better suited to experienced terrier owners.",
+    },
+
+    "suitability.familiesWithChildren": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "cited",
+          locator: "Breed profile — Traits: Good with Young Children",
+        },
+      ],
+      verifiedOn: null,
+      note: "Boolean assessment; playful and affectionate with children under responsible adult supervision.",
+    },
+
+    "suitability.seniorOwners": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "cited",
+          locator: "Breed profile — Energy level and exercise needs",
+        },
+      ],
+      verifiedOn: null,
+      note: "Editorial assessment; high energy, fast movement, and persistent prey drive can be demanding for seniors without active support.",
+    },
+
+    "suitability.activeOwners": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "verified",
+          locator: "Breed profile — Exercise section",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "suitability.apartmentLiving": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "cited",
+          locator: "Breed profile — Exercise and living needs",
+        },
+      ],
       verifiedOn: null,
-      note: "Apartment living depends on exercise, enrichment, noise management and the individual dog.",
+      note: "Aligned with care.livingEnvironment.apartmentSuitable.",
     },
 
     "suitability.idealFor": {
@@ -905,11 +1012,11 @@ export const welsh_terrier: Breed = {
         {
           id: "american-kennel-club-welsh-terrier",
           role: "cited",
-          locator: "Breed profile: exercise, grooming and temperament",
+          locator: "Breed profile — Temperament, exercise, and grooming sections",
         },
       ],
       verifiedOn: null,
-      note: "Editorial matching guidance, not a guarantee of compatibility.",
+      note: "Synthesised owner-matching guidance based on activity level, coat upkeep, and terrier drive.",
     },
 
     "suitability.notIdealFor": {
@@ -918,54 +1025,54 @@ export const welsh_terrier: Breed = {
         {
           id: "american-kennel-club-welsh-terrier",
           role: "cited",
-          locator: "Breed profile: exercise, grooming and temperament",
+          locator: "Breed profile — Temperament, exercise, and grooming sections",
         },
       ],
       verifiedOn: null,
-      note: "Editorial matching guidance, not a guarantee of incompatibility.",
+      note: "Synthesised owner-matching caveats.",
     },
 
     funFacts: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
+        {
+          id: "royal-kennel-club-welsh-terrier-standard",
+          role: "verified",
+          locator: "Standard history: working earthdog in Wales, badger and otter hunting",
+        },
         {
           id: "american-kennel-club-welsh-terrier",
           role: "verified",
-          locator: "Breed history and former names",
-        },
-        {
-          id: "royal-kennel-club-welsh-terrier-standard",
-          role: "cited",
-          locator: "Standard: coat and traditional colour",
+          locator: "About the Breed (JFK's White House dog Charlie, distinct ancient breed)",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Historical facts are summarised in original wording.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     faq: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-welsh-terrier",
-          role: "verified",
-          locator: "Breed profile: lifespan, exercise, grooming and temperament",
-        },
-        {
           id: "royal-kennel-club-welsh-terrier-standard",
           role: "verified",
-          locator: "Standard: coat, colour, size and weight",
+          locator: "Size, Weight, Coat, Colour, and Temperament sections",
+        },
+        {
+          id: "american-kennel-club-welsh-terrier",
+          role: "verified",
+          locator: "Breed profile — Weight, Lifespan, Exercise, Grooming, Training, and Health",
         },
         {
           id: "welsh-terrier-club-america-health-statement",
           role: "verified",
-          locator: "PLL DNA testing recommendation",
+          locator: "Primary Lens Luxation (PLL) screening recommendation",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Answers are original summaries and distinguish standard facts, health screening and general care advice.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
   },
 
-  updatedOn: "2026-10-24",
+  updatedOn: "2026-11-08",
 };

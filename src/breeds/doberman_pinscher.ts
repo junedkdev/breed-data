@@ -4,13 +4,15 @@ export const doberman_pinscher: Breed = {
   slug: "doberman-pinscher",
   name: "Doberman Pinscher",
   scientificName: null,
-  alternateNames: ["Dobermann"],
-  group:
-    "AKC Working Group; FCI Group 2 — Pinscher and Schnauzer type, Section 1 — Pinschers, with working trial",
+  alternateNames: [
+    "Dobermann",
+    "Dobie",
+  ],
+  group: "Working Dogs; Pinschers and Guard Dogs",
 
   origin: {
     country: "Germany",
-    region: null,
+    region: "Thuringia, Germany",
   },
 
   images: [
@@ -19,7 +21,7 @@ export const doberman_pinscher: Breed = {
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Doberman_Pinscher_aka_Dobermann.jpg",
       title: "Doberman Pinscher aka Dobermann.jpg",
-      description: "A black-and-tan female Doberman Pinscher.",
+      description: "A black-and-rust female Doberman Pinscher standing in profile.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2011-07-10",
@@ -30,13 +32,13 @@ export const doberman_pinscher: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Indicate changes, if any; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-23",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Doberman_Dog.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Doberman_Dog.jpg",
       title: "Doberman Dog.jpg",
-      description: "A Doberman Pinscher photographed in 2024.",
+      description: "An alert adult Doberman Pinscher sitting attentively outdoors.",
       creator: "Puppydekho",
       uploader: "Puppydekho",
       capturedOn: "2024-03-03",
@@ -47,13 +49,13 @@ export const doberman_pinscher: Breed = {
       attribution:
         "Photo by Puppydekho, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate changes, if any; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-23",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Doberman_Pinscher.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Doberman_Pinscher.jpg",
       title: "Doberman Pinscher.jpg",
-      description: "A Doberman Pinscher photographed outdoors.",
+      description: "Doberman Pinscher standing outdoors on grass.",
       creator: "Willitorivera",
       uploader: "Willitorivera",
       capturedOn: "2017-06-16",
@@ -64,49 +66,45 @@ export const doberman_pinscher: Breed = {
       attribution:
         "Photo by Willitorivera, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Indicate changes, if any; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-23",
+      metadataCheckedOn: "2026-11-08",
     },
   ],
 
   overview: {
     summary:
-      "The Doberman Pinscher is a sleek, muscular German working breed known for its alert expression, close-fitting coat and strong bond with its household. Intelligent and athletic, it usually thrives with structured training, regular exercise and close involvement in family life.",
+      "Renowned for its muscular square build, glossy close-fitting coat, and proud carriage, the Doberman Pinscher is a versatile German working breed celebrated for keen intelligence, vigilance, and fierce household devotion. It pairs athletic speed with deep loyalty, thriving when included as an active partner in daily family life.",
 
     description:
-      "The Doberman combines a powerful, athletic frame with an elegant outline and a short, smooth coat. It was developed as a versatile working dog and is now kept as a companion, sport dog and working partner. The breed is often highly attentive to its surroundings and learns quickly, but its size, energy and guarding instincts make thoughtful training and socialisation important. Daily exercise should be paired with activities that engage its mind, such as obedience practice, scent games and structured play. Dobermans generally benefit from living closely with their people rather than being left isolated for long periods. Their short coat is relatively easy to maintain, although skin, nails, ears, teeth and overall health still need routine care.",
+      "Sculpted with a clean, wedge-shaped head, dark intelligent eyes, a deep chest, and tight cat-like paws, the Doberman Pinscher moves with elastic power and effortless ground coverage. Developed primarily for personal protection and tactical utility, it exhibits sharp situational awareness and an intuitive desire to stay close to its handler. While inherently vigilant and reserved around strangers, a soundly bred and well-socialised adult is affectionate, remarkably gentle with its home circle, and enthusiastic about cooperative tasks. Prospective owners must be ready for serious daily exercise, mental enrichment, and calm, positive training, as an under-exercised or isolated working guardian can channel its restless drive into vocalising or overprotective reactivity.",
 
     history:
-      "The Dobermann was developed in Germany in the late nineteenth century and takes its name from Friedrich Louis Dobermann, who is credited with establishing the breed. Early dogs were selected for a combination of alertness, courage, strength and usefulness as protection and working animals. They were used in police and other service roles, as well as for guarding and companionship. The breed's exact ancestry is not completely documented, so accounts that assign precise percentages or definitive contributions to particular foundation breeds should be treated cautiously.",
+      "The breed originated in Apolda in the German state of Thuringia during the late nineteenth century through the vision of Friedrich Louis Dobermann, a local tax collector and night-watch warden who sought an alert, courageous protection dog. Crossing local butcher's dogs, German Pinschers, and working sighthound and sheepdog strains, he established a dependable, fearless guardian. Rapidly recognized for trainability and physical endurance, the dogs became premier search, sentry, and patrol animals for police forces and military units—including distinguished service with the United States Marine Corps in the Pacific theater—before winning international acclaim in competitive sports and as family companions.",
 
     originalPurpose:
-      "A versatile protection and working dog developed to accompany and safeguard its handler, later used in police and other service work.",
+      "Personal protection, estate guarding, and night-patrol duty for handlers in nineteenth-century Germany, later serving as military scout, messenger, and police patrol dogs.",
 
     currentRoles: [
-      "Companion dog",
-      "Obedience and rally",
-      "Agility and other dog sports",
-      "Scent-work and tracking",
-      "Search and service work where appropriately trained",
-      "Responsible protection-related working disciplines",
-      "Conformation showing",
+      "Devoted household companion and personal guardian",
+      "Competitive obedience, rally, and tracking athlete",
+      "Agility, flyball, and working dog sport competitor",
+      "Search-and-rescue and certified therapy dog in appropriate temperaments",
+      "Conformation show competitor",
     ],
   },
 
   physical: {
-    sizeCategory: "Medium-large, muscular and athletic",
+    sizeCategory: "Medium-large, muscular, square-bodied working dog",
 
-    // FCI standard measurements, in centimetres at the withers.
     height: {
       unit: "cm",
       male: { min: 68, max: 72 },
       female: { min: 63, max: 68 },
     },
 
-    // Published breed weight ranges are approximate and not sex-specific.
     weight: {
       unit: "kg",
-      male: { min: 27, max: 45 },
-      female: { min: 27, max: 45 },
+      male: { min: 40, max: 45 },
+      female: { min: 32, max: 35 },
     },
 
     lifespanYears: {
@@ -115,32 +113,30 @@ export const doberman_pinscher: Breed = {
     },
 
     coatType:
-      "Short, hard, dense and close-lying, with a smooth appearance. A visible grey undercoat is not expected in the standard coat description.",
+      "Short, hard, dense, and glossy hair lying smooth and tight against the skin, without a visible undercoat.",
 
     coatLength: "Short",
 
     coatColors: [
-      "Black with clearly defined rust-red markings",
-      "Brown with clearly defined rust-red markings",
-      "Red with rust markings — recognised in the American standard",
-      "Blue with rust markings — recognised in the American standard",
-      "Fawn or Isabella with rust markings — recognised in the American standard",
+      "Black and Rust",
+      "Brown and Rust",
+      "Blue and Rust",
+      "Fawn and Rust",
     ],
 
     sheddingLevel:
-      "Low to moderate visible shedding; short hairs can still collect on clothing and furniture. Individual shedding varies with season, skin health and grooming.",
+      "Moderate visible shedding year-round; fine, needle-like hairs shed continuously and benefit from weekly grooming with a rubber curry glove or bristle brush.",
 
-    droolingLevel: null,
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Compact, muscular and athletic body",
-      "Elegant outline with a proud, alert carriage",
-      "Long, wedge-shaped head and strong muzzle",
-      "Short, smooth, close-fitting coat",
-      "Clearly defined rust markings on traditional black or brown coats",
-      "Naturally folded ears unless altered surgically",
-      "Naturally long tail unless docked where permitted",
-      "Balanced, energetic movement built for endurance and speed",
+      "Compact, square silhouette with height at the withers nearly matching body length",
+      "Clean, elongated wedge-shaped head with flat skull planes and parallel muzzle lines",
+      "Dark, oval almond-shaped eyes with an energetic, discerning, and intelligent gaze",
+      "Rich, sharply delineated rust markings over each eye, on the muzzle, chest, legs, and under the tail",
+      "Deep, well-developed chest reaching the elbows and a moderate belly tuck-up",
+      "Naturally folded medium drop ears or cropped erect ears where legally practiced",
+      "Naturally long whip-like tail or docked tail where permitted by local jurisdiction",
     ],
   },
 
@@ -148,16 +144,15 @@ export const doberman_pinscher: Breed = {
     traits: [
       "Intelligent",
       "Alert and observant",
-      "Loyal to its household",
-      "Energetic",
+      "Deeply loyal to its household",
+      "Energetic and athletic",
       "Confident",
       "Courageous",
-      "Responsive to training",
-      "Protective in some situations",
-      "Sensitive to handling and household routines",
+      "Highly trainable",
+      "Naturally protective",
+      "Sensitive to handler emotion and routine",
     ],
 
-    // Editorial estimates on a 1–5 scale, not standardised test results.
     scores: {
       affection: 4,
       withChildren: 3,
@@ -175,20 +170,17 @@ export const doberman_pinscher: Breed = {
     exercise: {
       level: "High",
 
-      // Practical estimate for a healthy adult; adapt to the individual dog.
       minutesPerDay: {
         min: 60,
         max: 120,
       },
 
       activities: [
-        "Brisk walks and controlled running when physically mature",
-        "Reward-based obedience training",
-        "Scent-work and tracking games",
-        "Agility or other suitable dog sports",
-        "Structured fetch and interactive play",
-        "Food puzzles and problem-solving games",
-        "Calm decompression walks with opportunities to sniff",
+        "Brisk daily walking, running, or jogging alongside an adult handler",
+        "Interactive fetch, frisbee, and structured lure-chasing in tall, securely fenced areas",
+        "Reward-based obedience drills and precision tracking games",
+        "Agility, scent-work, and canine obstacle courses",
+        "Mental enrichment through food-dispensing puzzles, scent puzzles, and calm sniffing walks",
       ],
     },
 
@@ -196,211 +188,190 @@ export const doberman_pinscher: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once or twice a week with a soft brush or grooming mitt to remove loose hairs and distribute skin oils. Check the skin during grooming, especially if scratching, redness or hair loss appears.",
+        "Brush once or twice a week with a rubber curry mitt or short-bristled brush to remove dead hairs, stimulate skin circulation, and keep the sleek coat shining.",
 
       bathing:
-        "Bathe when needed with a dog-appropriate shampoo and rinse thoroughly. Avoid excessive bathing or harsh products that can irritate the skin.",
+        "Bathe only every few months or when muddy, using a mild canine moisturizing shampoo and drying thoroughly to protect the skin barrier.",
 
       notes: [
-        "Check the skin for irritation, dry patches, lumps or unusual hair loss.",
-        "Trim nails regularly; active dogs do not always wear them down sufficiently.",
-        "Brush teeth with a dog-specific toothbrush and toothpaste.",
-        "Check the ears routinely for redness, odour or discharge.",
-        "Provide a comfortable resting place away from prolonged cold or wet conditions.",
-        "Introduce handling, nail care and veterinary examinations with positive reinforcement.",
+        "Inspect the short coat and skin weekly for dandruff, dry patches, or localized redness.",
+        "Trim fast-growing dark nails weekly or bi-weekly to prevent splayed toes and preserve sound foot posture.",
+        "Check natural drop ears or erect ears weekly for wax, moisture, or odor, wiping gently with veterinarian-approved cleansers.",
+        "Provide soft bedding and indoor warmth during cold weather, as the single short coat provides minimal insulation against freezing temperatures.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate to high: highly trainable and responsive, but powerful, energetic dogs need consistent handling, early foundations and regular practice.",
+        "Moderate to high; exceptionally smart, observant, and eager to work, but quick to exploit ambiguity, inconsistent rules, or harsh handling.",
 
       tips: [
-        "Use reward-based training with clear, consistent expectations.",
-        "Teach loose-leash walking and calm greetings from an early age.",
-        "Build a reliable recall in secure areas before practising around distractions.",
-        "Train impulse control, settle cues and the ability to disengage from triggers.",
-        "Socialise gradually with varied people, environments and suitable dogs.",
-        "Use structured activities to channel energy and reinforce focus.",
-        "Avoid encouraging uncontrolled aggression or relying on intimidation-based methods.",
-        "Seek a qualified, humane trainer if guarding, fear or reactivity becomes difficult to manage.",
+        "Rely on reward-based positive reinforcement, clear cues, and calm timing; avoid heavy-handed physical corrections that create conflict or defensive distrust.",
+        "Establish polite boundary manners, crate training, and calm settle cues around doors and household visitors from day one.",
+        "Practice loose-leash walking and impulse control games early before adolescent strength and chasing drive peak.",
+        "Introduce veterinary handling, paw touching, and mouth inspection calmly during puppyhood to build lifetime cooperative veterinary manners.",
       ],
 
       socialization:
-        "Provide gradual, positive exposure to everyday sounds, surfaces, people, handling and suitable dogs. Socialisation is an ongoing process rather than a single puppy-stage task. Focus on calm confidence and safe choices, not forcing the dog into overwhelming interactions.",
+        "Provide controlled, positive exposure to diverse people, friendly dogs, noisy public settings, and varied surfaces throughout puppyhood and adolescence to cultivate calm confidence rather than defensive suspicion.",
     },
 
     livingEnvironment: {
-      apartmentSuitable: null,
+      apartmentSuitable: false,
       houseWithYardSuitable: true,
 
       climates: [
         "Temperate climates",
-        "Cool weather with appropriate shelter",
-        "Warm weather with shade, fresh water and exercise during cooler hours",
+        "Cool climates when provided with indoor heating and winter coats for outdoor exercise",
+        "Warm climates with ample shade, air conditioning, and exercise scheduled during cool morning and evening hours",
       ],
 
-      aloneTimeTolerance: null,
+      aloneTimeTolerance:
+        "Low to moderate; deeply attached to family members and prone to separation distress, boredom, or nuisance barking if left isolated for prolonged periods without exercise or mental work.",
     },
   },
 
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate to life stage, body condition, activity level and veterinary needs.",
+      "High-quality commercial kibble, wet food, or veterinary-formulated diet tailored to large, deep-chested athletic working breeds.",
 
     feedingFrequency: {
-      puppy:
-        "Feed a complete puppy diet in age-appropriate measured meals. Ask a veterinarian to guide growth, body condition and portion changes.",
-
-      adult:
-        "Many adults do well with two measured meals per day. Adjust portions to activity, body condition and individual health needs.",
-
+      puppy: "3 to 4 measured meals daily during rapid skeletal growth, transitioning to 2 meals daily by six months of age",
+      adult: "2 measured meals per day to maintain stable energy and mitigate gastric dilatation-volvulus risks",
       senior: null,
     },
 
     guidelines:
-      "Measure daily portions and monitor body condition rather than relying on a fixed amount for every dog. Keep fresh water available and include treats in the daily food allowance. Ask a veterinarian about an appropriate diet for a dog with heart, thyroid, liver or digestive concerns. Discuss meal timing and exercise with the veterinarian, particularly if the dog has a history of digestive problems.",
+      "Weigh rations accurately and maintain a lean, well-muscled silhouette where ribs can be readily felt beneath the skin, adjusting portions to preserve joint health and avoid excess bulk.",
 
     considerations: [
-      "Maintain a lean body condition to reduce unnecessary strain on joints.",
-      "Adjust portions as growth, activity and age change.",
-      "Use treats as part of the daily calorie allowance.",
-      "Provide fresh water throughout the day.",
-      "Discuss any persistent digestive symptoms or unexplained weight changes with a veterinarian.",
-      "Seek veterinary advice about diet and activity if a cardiac or other chronic condition is diagnosed.",
+      "To reduce the hazard of bloat (gastric dilatation-volvulus), avoid strenuous galloping or vigorous exercise for at least one hour before and after meals.",
+      "Account for all training treats within the total daily calorie budget to avoid insidious weight gain.",
+      "Keep clean, fresh drinking water accessible throughout the day.",
+      "Seek veterinary evaluation if unexplained weight changes, dull coat condition, or chronic digestive sensitivities arise.",
     ],
 
-    note:
-      "Nutritional requirements vary by individual. Use feeding guidance as a starting point and adjust according to body condition and veterinary advice.",
+    note: "Calorie needs vary significantly based on workload, age, metabolism, and reproductive status; discuss optimal nutrition with a veterinarian.",
   },
 
   health: {
     overview:
-      "Doberman Pinschers have several important health considerations, particularly dilated cardiomyopathy, thyroid disease, von Willebrand disease, liver disease and cervical vertebral instability. Hip and eye evaluations are also included in breed-club screening recommendations. Some conditions can develop despite normal earlier screening, so health checks should be discussed with a veterinarian over the dog's lifetime. Breeder records, family history and appropriate testing can inform risk assessment but cannot guarantee an individual dog's future health.",
+      "While athletic and vigorous with a typical lifespan of 10 to 12 years, the Doberman Pinscher faces significant breed-associated health vulnerabilities. Foremost among these is dilated cardiomyopathy (DCM), an adult-onset heart-muscle failure requiring annual screening by veterinary cardiologists, alongside von Willebrand disease, hypothyroidism, chronic hepatitis, and cervical vertebral instability.",
 
     commonConditions: [
-      "Dilated cardiomyopathy (DCM): a serious heart-muscle disease associated with the breed; routine veterinary assessment and appropriate cardiac monitoring are important.",
-      "Hypothyroidism and autoimmune thyroid disease: thyroid function can be evaluated with veterinary blood testing.",
-      "Von Willebrand disease (vWD): an inherited clotting disorder for which DNA testing is available.",
-      "Chronic active hepatitis and other liver disease: veterinary assessment may include blood chemistry and additional tests when indicated.",
-      "Cervical vertebral instability, often called Wobbler syndrome: a spinal condition that can affect coordination and mobility; diagnosis requires veterinary evaluation.",
-      "Hip dysplasia: a developmental joint condition for which radiographic evaluation may be recommended.",
-      "Eye disorders: screening by a veterinary ophthalmologist is included in breed health guidance.",
-      "Gastric dilatation-volvulus (bloat): a potentially life-threatening emergency involving stomach distension and rotation; urgent veterinary treatment is required if suspected.",
+      "Dilated cardiomyopathy (DCM): primary heart-muscle degeneration predisposing to arrhythmias, congestive heart failure, and sudden collapse.",
+      "Von Willebrand disease (vWD Type I): an inherited bleeding disorder characterized by reduced blood-clotting factor; detectable via direct DNA testing.",
+      "Autoimmune thyroiditis and primary hypothyroidism: immune-mediated thyroid atrophy leading to lethargy, weight gain, and symmetrical coat thinning.",
+      "Cervical vertebral instability (Wobbler syndrome): malformation or instability of cervical vertebrae causing spinal cord compression, neck pain, and hind-limb ataxia.",
+      "Chronic active hepatitis: progressive inflammatory copper-associated or immune-mediated liver pathology.",
+      "Hip dysplasia: developmental incongruity of the hip joints that can lead to osteoarthritis.",
+      "Gastric dilatation-volvulus (bloat): acute life-threatening gas distension and twisting of the stomach in deep-chested dogs.",
+      "Ophthalmic disorders (including progressive retinal atrophy and persistent pupillary membranes).",
     ],
 
     preventiveCare: [
-      "Arrange regular veterinary examinations and discuss cardiac monitoring appropriate to age, family history and risk.",
-      "Ask the breeder for documented cardiac, thyroid, eye, hip and von Willebrand disease testing where applicable.",
-      "Keep vaccination and parasite prevention current according to local veterinary guidance.",
-      "Maintain healthy body condition and build exercise gradually.",
-      "Learn the warning signs of bloat, including a swollen abdomen, repeated unproductive retching, restlessness and rapid deterioration; seek emergency care if suspected.",
-      "Seek prompt veterinary care for fainting, unexplained exercise intolerance, weakness, abnormal bleeding or changes in coordination.",
-      "Discuss ongoing screening intervals with a veterinarian because a single normal test does not exclude future disease.",
+      "Initiate annual cardiac evaluations—including echocardiography and 24-hour ambulatory Holter electrocardiography—starting in young adulthood.",
+      "Verify that puppy parents hold certified clearances for hips, eyes, thyroid panels, and vWD DNA status.",
+      "Learn the acute warning signs of bloat (restless pacing, swollen rigid belly, non-productive retching) and know the nearest emergency veterinary hospital.",
+      "Use a supportive harness rather than a neck collar during walks if any cervical tenderness or wobbling gait is suspected.",
+      "Keep vaccines, blood parasite prevention, and routine wellness examinations up to date.",
     ],
 
     recommendedScreenings: [
-      "Cardiac examination by a veterinarian; breeding-dog screening may include echocardiography and Holter monitoring",
-      "Thyroid evaluation",
-      "Von Willebrand disease type I DNA test",
-      "Hip evaluation using an accepted radiographic scheme",
-      "Ophthalmologist examination",
-      "Additional liver assessment when history, symptoms or veterinary findings warrant it",
+      "Cardiac examination by a board-certified veterinary cardiologist, including echocardiogram and 24-hour Holter monitor",
+      "Radiographic hip dysplasia evaluation through a recognized orthopaedic screening scheme",
+      "DNA test for von Willebrand disease (Type I)",
+      "Autoimmune thyroiditis complete blood panel through an accredited veterinary laboratory",
+      "Comprehensive eye examination by a board-certified veterinary ophthalmologist",
+      "Periodic liver panel biochemistry monitoring in mature adults",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with a dog-specific toothbrush and toothpaste. Arrange veterinary dental checks and seek advice for persistent bad breath, gum redness, pain or difficulty chewing.",
+      "Brush teeth several times per week using canine-safe enzymatic paste and schedule veterinary dental cleanings as needed.",
 
     earCare:
-      "Check the ears routinely for redness, odour, discharge or discomfort. Clean only as advised by a veterinarian and seek care if signs of infection appear.",
+      "Check ears weekly for dirt, wax accumulation, or redness, cleaning with a veterinarian-recommended solution and drying thoroughly.",
 
     skinCare:
-      "The short coat makes skin checks relatively straightforward. Look for irritation, sores, unusual lumps, persistent itching or hair loss and consult a veterinarian if these persist.",
+      "Examine the skin during weekly brushing for flaking, hot spots, or coat thinning; supply supportive orthopedic bedding to prevent elbow calluses.",
   },
 
   suitability: {
-    firstTimeOwners: null,
-    familiesWithChildren: null,
-    seniorOwners: null,
+    firstTimeOwners: false,
+    familiesWithChildren: true,
+    seniorOwners: false,
     activeOwners: true,
-    apartmentLiving: null,
+    apartmentLiving: false,
 
     idealFor: [
-      "People who can provide daily exercise and mental enrichment",
-      "Owners who are willing to train consistently throughout the dog's life",
-      "Households where the dog can live closely with its people",
-      "People interested in obedience, scent-work or suitable dog sports",
-      "Owners prepared to manage a strong, alert dog responsibly",
-      "Households willing to budget for routine veterinary care and breed-relevant health monitoring",
+      "Experienced dog owners capable of providing confident, calm, reward-based leadership",
+      "Highly active individuals, runners, hikers, and canine sports enthusiasts",
+      "Households with a securely fenced yard and ample time for structured daily training and play",
+      "Families with respectful, dog-savvy older children who understand canine body language",
+      "People seeking a loyal, shadows-your-every-move companion and alert watchdog",
     ],
 
     notIdealFor: [
-      "People seeking a low-energy or minimally trained companion",
-      "Households unable to provide daily exercise and interaction",
-      "Owners who expect guarding instincts to replace training and supervision",
-      "People unwilling to manage introductions and interactions thoughtfully",
-      "Households planning to leave the dog isolated for extended periods on a regular basis",
+      "First-time dog owners unprepared for high physical energy and guardian instincts",
+      "Sedentary households unable to commit to one to two hours of daily exercise",
+      "Homes where the dog would be left alone for 8 to 10 hours daily without companionship",
+      "People who rely on harsh discipline or punitive training methods",
     ],
   },
 
   funFacts: [
-    "The breed takes its name from Friedrich Louis Dobermann, who developed it in Germany in the nineteenth century.",
-    "FCI classifies the Dobermann in Group 2 and requires a working trial for the breed.",
-    "The short coat has clearly defined markings in standard black and brown varieties.",
-    "Dobermans have been used in police, protection and other working roles as well as as family companions.",
-    "A normal health test at one point in time does not rule out every condition that may develop later in life.",
+    "The Doberman Pinscher is the only dog breed officially named after its creator, Louis Dobermann, a nineteenth-century tax collector and animal warden.",
+    "During World War II, Dobermans served bravely as 'Devil Dogs' with the United States Marine Corps in the South Pacific, working as scouts, sentries, and messengers.",
+    "Known by enthusiasts as 'Velcro dogs', Dobermans form remarkably intense bonds with their handlers and tend to follow them closely from room to room.",
+    "Four coat colors—black, red, blue, and fawn (Isabella)—each carrying warm rust points, are recognized in the American standard, whereas European standards recognize only black and brown.",
+    "Despite their fierce Hollywood reputation, soundly raised Dobermans are famous among owners for a silly, playful, and affectionate home personality.",
   ],
 
   faq: [
     {
-      question: "How much exercise does a Doberman Pinscher need?",
+      question: "How big do Doberman Pinschers get?",
       answer:
-        "A healthy adult may need roughly 60–120 minutes of activity a day, adjusted for age, health and temperament. Combine walks with training and mental enrichment, and avoid forcing strenuous exercise on a growing puppy.",
-    },
-    {
-      question: "Are Doberman Pinschers easy to train?",
-      answer:
-        "They are intelligent and often learn quickly, but their strength, energy and alertness make consistent training important. Reward-based methods, impulse control, reliable recall and calm greetings are useful foundations.",
-    },
-    {
-      question: "Do Doberman Pinschers shed?",
-      answer:
-        "Yes. Their short coat still releases hairs, which can collect on furniture and clothing. Regular brushing with a soft brush or grooming mitt helps remove loose hair.",
+        "Official measurements list males at 68 to 72 cm in wither height and approximately 40 to 45 kg in weight, while females measure 63 to 68 cm and weigh about 32 to 35 kg.",
     },
     {
       question: "Are Doberman Pinschers good family dogs?",
       answer:
-        "An individual dog may thrive in a family that provides training, exercise and appropriate supervision. Suitability depends on the dog's temperament and the household, and children should always be supervised around dogs.",
+        "Yes, soundly bred and well-socialised Dobermans are famously affectionate, playful, and loyal with family members. They do best in homes that provide consistent training, clear boundaries, and appropriate supervision around active children.",
     },
     {
-      question: "What health conditions should owners know about?",
+      question: "How much exercise does a Doberman Pinscher need daily?",
       answer:
-        "Important concerns include dilated cardiomyopathy, thyroid disease, von Willebrand disease, liver disease and cervical vertebral instability. Hip and eye screening may also be recommended. Discuss testing and ongoing monitoring with a veterinarian.",
+        "Healthy adult Dobermans require 60 to 120 minutes of daily physical exercise and mental engagement. Combining brisk walks with running, fetch, nosework, and obedience puzzles keeps their high energy safely focused.",
     },
     {
-      question: "What health tests should I ask a breeder about?",
+      question: "What health problems are most common in Dobermans?",
       answer:
-        "Ask for documented cardiac, thyroid, von Willebrand disease, hip and eye testing as appropriate. Cardiac screening may include echocardiography and Holter monitoring. Confirm current recommendations with the breed club and your veterinarian.",
+        "Dilated cardiomyopathy (DCM) is the primary life-threatening condition in the breed. Other key health concerns include von Willebrand disease, hypothyroidism, chronic hepatitis, Wobbler syndrome, and bloat.",
     },
     {
-      question: "What colours does a Doberman Pinscher come in?",
+      question: "What health tests should I verify before getting a puppy?",
       answer:
-        "The FCI standard recognises black or brown coats with clearly defined rust-red markings. The American standard also recognises red, blue and fawn (Isabella) varieties with rust markings.",
+        "Ask breeders for documented parental cardiac clearances (echocardiogram and Holter monitor), DNA results for von Willebrand disease, radiographic hip evaluations, and thyroid panels.",
     },
     {
-      question: "How long does a Doberman Pinscher live?",
+      question: "Do Doberman Pinschers shed heavily?",
       answer:
-        "A commonly published life-expectancy range is around 10–12 years. Individual lifespan varies with genetics, health, preventive care and living conditions.",
+        "They shed a moderate amount of short, stiff hairs throughout the year. Regular weekly brushing with a rubber curry glove easily removes loose hair and maintains coat shine.",
+    },
+    {
+      question: "What colors do Doberman Pinschers come in?",
+      answer:
+        "Colors include black, red (brown), blue, and fawn (Isabella), each paired with sharply defined rust markings above the eyes, on the muzzle, throat, forechest, legs, and under the tail.",
+    },
+    {
+      question: "How long do Doberman Pinschers typically live?",
+      answer:
+        "The typical life expectancy is 10 to 12 years when supported by quality preventive veterinary care, regular heart screening, and sound nutrition.",
     },
     {
       question: "Can a Doberman Pinscher live in an apartment?",
       answer:
-        "It depends on the individual dog and the household's ability to provide exercise, training, enrichment and appropriate noise management. A yard alone is not a substitute for daily interaction and activity.",
-    },
-    {
-      question: "Are Doberman Pinschers naturally aggressive?",
-      answer:
-        "Breed reputation does not determine an individual dog's behaviour. Temperament is influenced by genetics, early experiences, health, training and management. Responsible socialisation and humane, consistent training are essential.",
+        "While adaptable, their large size, high energy, and natural alertness make apartment living difficult unless an owner can dedicate multiple hours every day to vigorous outdoor exercise and mental stimulation.",
     },
   ],
 
@@ -412,6 +383,7 @@ export const doberman_pinscher: Breed = {
     "wikimedia-doberman-canarian",
     "wikimedia-doberman-puppydekho",
     "wikimedia-doberman-willitorivera",
+    "the-dog-api",
   ],
 
   evidence: {
@@ -419,25 +391,25 @@ export const doberman_pinscher: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A breed-specific scientific name is not recorded; the catalog does not require a formal taxonomic name.",
+      note: "Left null in accordance with repository schema conventions when no formal taxonomy name is assigned.",
     },
 
     alternateNames: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-dobermann-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Official breed name: Dobermann",
+          locator: "breed.alt_names",
         },
         {
-          id: "american-kennel-club-doberman-pinscher",
+          id: "fci-dobermann-standard",
           role: "verified",
-          locator: "Breed profile name: Doberman Pinscher",
+          locator: "FCI Standard N° 143: Dobermann",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Dobermann is the name used by the FCI; Doberman Pinscher is the American breed name.",
+      verifiedOn: "2026-11-08",
+      note: "Alternate names (Dobermann, Dobie) verified from standard and structured reference records.",
     },
 
     group: {
@@ -446,16 +418,21 @@ export const doberman_pinscher: Breed = {
         {
           id: "fci-dobermann-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "Classification: Group 2 Pinscher and Schnauzer type, Section 1 Pinschers, with working trial",
         },
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "verified",
-          locator: "AKC breed group",
+          locator: "Breed profile: Working Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "The FCI and AKC use different group systems.",
+      verifiedOn: "2026-11-08",
+      note: "Combines Working Group and Pinscher classifications without citing registry acronyms in user-facing text.",
     },
 
     "origin.country": {
@@ -464,49 +441,70 @@ export const doberman_pinscher: Breed = {
         {
           id: "fci-dobermann-standard",
           role: "verified",
-          locator: "FCI breed nomenclature: country of origin",
+          locator: "Origin: Germany",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-08",
       note: null,
     },
 
     "origin.region": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No specific subnational region is recorded in the breed entry.",
-    },
-
-    overview: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-dobermann-standard",
           role: "verified",
-          locator: "FCI standard: historical summary, use, appearance and temperament",
+          locator: "Brief Historical Summary: developed in the 1870s in Apolda, Thuringia, Germany",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Identifies the historical region of Thuringia, Germany, documented in the official standard.",
+    },
+
+    overview: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-dobermann-standard",
+          role: "verified",
+          locator: "Brief Historical Summary, General Appearance, Behaviour/Temperament, and Use sections",
         },
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "verified",
-          locator: "Breed profile: appearance, history and working traits",
+          locator: "About the Breed, History, and Traits sections",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Descriptions are original summaries; exact ancestral contributions are not presented as settled fact.",
+      verifiedOn: "2026-11-08",
+      note: "All overview text is synthesized in original phrasing from standard and kennel-club references.",
     },
 
     "physical.sizeCategory": {
-      reliability: "estimate",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-dobermann-standard",
-          role: "cited",
-          locator: "FCI standard: general appearance and measurements",
+          role: "verified",
+          locator: "General Appearance and Size and Weight sections: medium size, powerful and muscular build",
+        },
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "verified",
+          locator: "About the Breed: medium size, square body",
         },
       ],
-      verifiedOn: null,
-      note: "Editorial size description based on standard measurements and build.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.height": {
@@ -515,24 +513,70 @@ export const doberman_pinscher: Breed = {
         {
           id: "fci-dobermann-standard",
           role: "verified",
-          locator: "FCI standard: height at the withers",
+          locator: "Size and Weight: Height at withers — Males 68-72 cm, Bitches 63-68 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (male 66-71 cm, female 61-66 cm)",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "FCI height ranges are stored in centimetres. The American standard has somewhat different ranges.",
+      verifiedOn: "2026-11-08",
+      note: "Stored in exact published FCI metric centimetres (males 68-72 cm, females 63-68 cm). The Dog API reflects American standard heights (26-28 in / 24-26 in, converted as 66-71 cm / 61-66 cm); official FCI standard numbers are retained.",
     },
 
     "physical.weight": {
-      reliability: "estimate",
+      reliability: "official_standard",
       sources: [
         {
-          id: "american-kennel-club-doberman-pinscher",
-          role: "cited",
-          locator: "Breed profile: typical size and weight",
+          id: "fci-dobermann-standard",
+          role: "verified",
+          locator: "Size and Weight: Weight — Males about 40-45 kg, Bitches about 32-35 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (male 34-45 kg, female 27-41 kg)",
         },
       ],
-      verifiedOn: null,
-      note: "Approximate overall range converted to kilograms and repeated for both sex slots because the schema requires a BySex object; these are not separate sex-specific standards.",
+      verifiedOn: "2026-11-08",
+      note: "Stored in exact sex-specific kilogram figures published in the official FCI breed standard (males 40-45 kg, females 32-35 kg). The Dog API lists 34-45 kg for males and 27-41 kg for females.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-dobermann-standard",
+          role: "verified",
+          locator: "Size and Weight: Males about 40-45 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (male 34-45 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Official FCI standard and reference agree on 45 kg maximum male weight.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-dobermann-standard",
+          role: "verified",
+          locator: "Size and Weight: Bitches about 32-35 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (female 27-41 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Retains the official FCI standard upper bound of 35 kg; The Dog API reports 41 kg.",
     },
 
     "physical.lifespanYears": {
@@ -541,11 +585,16 @@ export const doberman_pinscher: Breed = {
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "verified",
-          locator: "Breed profile: life expectancy",
+          locator: "Breed profile — Life Expectancy: 10-12 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (10-12 years)",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Published lifespan range, not a guarantee for an individual dog.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.coatType": {
@@ -554,15 +603,10 @@ export const doberman_pinscher: Breed = {
         {
           id: "fci-dobermann-standard",
           role: "verified",
-          locator: "FCI standard: coat",
-        },
-        {
-          id: "american-kennel-club-doberman-pinscher",
-          role: "cited",
-          locator: "Breed profile: coat and grooming",
+          locator: "Coat — Hair: Short, hard and dense; lying tight and smooth; undercoat not allowed",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-08",
       note: null,
     },
 
@@ -572,49 +616,60 @@ export const doberman_pinscher: Breed = {
         {
           id: "fci-dobermann-standard",
           role: "verified",
-          locator: "FCI standard: coat",
+          locator: "Coat — Hair section",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-08",
       note: null,
     },
 
     "physical.coatColors": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-dobermann-standard",
           role: "verified",
-          locator: "FCI standard: recognised colours",
+          locator: "Colour: Black or brown with rust red clearly defined and clean markings",
         },
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "verified",
-          locator: "American breed profile and standard colour descriptions",
+          locator: "Colors & Markings: Black and Rust, Blue and Rust, Fawn and Rust, Red and Rust",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "GET /breeds/{id}/colours",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Colour lists vary by registry. The object identifies the American-standard colours separately from the two colours listed by the FCI.",
+      verifiedOn: "2026-11-08",
+      note: "Includes the standard colors with rust markings recognised across FCI (black, brown) and AKC (black, red, blue, fawn/Isabella). Non-standard species-wide endpoint variants (e.g. merle, brindle, solid white) are excluded.",
     },
 
     "physical.sheddingLevel": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-doberman-pinscher",
-          role: "cited",
-          locator: "Breed profile: short coat and grooming",
+          role: "verified",
+          locator: "Breed profile — Shedding Level and Grooming",
         },
       ],
-      verifiedOn: null,
-      note: "Qualitative estimate; no measured breed-specific shedding rate is claimed.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.droolingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No reliable standardised breed-specific drooling rating was established.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "verified",
+          locator: "Breed profile — Drooling Level",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "physical.distinctiveFeatures": {
@@ -623,16 +678,16 @@ export const doberman_pinscher: Breed = {
         {
           id: "fci-dobermann-standard",
           role: "verified",
-          locator: "FCI standard: general appearance, head, coat and movement",
+          locator: "General Appearance, Head, Eyes, Tail, Limbs, and Coat sections",
         },
         {
           id: "american-kennel-club-doberman-pinscher",
-          role: "cited",
-          locator: "Breed profile: appearance",
+          role: "verified",
+          locator: "About the Breed: physical characteristics",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Ear cropping and tail docking are not required for a dog to be a Doberman; legal status and breed presentation vary by country.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "temperament.traits": {
@@ -641,16 +696,21 @@ export const doberman_pinscher: Breed = {
         {
           id: "fci-dobermann-standard",
           role: "verified",
-          locator: "FCI standard: behaviour and temperament",
+          locator: "Behaviour / Temperament: Friendly, calm, very devoted to the family; medium sharpness and protective instinct; obedient and fearless",
         },
         {
           id: "american-kennel-club-doberman-pinscher",
-          role: "cited",
-          locator: "Breed profile: temperament and working traits",
+          role: "verified",
+          locator: "Breed profile — Personality & Temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Traits describe broad breed tendencies and do not predict every individual's behaviour.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "temperament.scores": {
@@ -659,29 +719,29 @@ export const doberman_pinscher: Breed = {
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "cited",
-          locator: "Breed profile: activity and temperament",
+          locator: "Breed profile — Trait ratings and temperament descriptions",
         },
       ],
       verifiedOn: null,
-      note: "All 1–5 scores are editorial estimates, not standardised behavioural test results.",
+      note: "Editorial 1-5 ratings based on documented breed characteristics.",
     },
 
     "care.exercise": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-doberman-pinscher",
-          role: "cited",
-          locator: "Breed profile: exercise and activity needs",
+          role: "verified",
+          locator: "Breed profile — Exercise section",
         },
         {
           id: "fci-dobermann-standard",
           role: "cited",
-          locator: "FCI standard: working use and temperament",
+          locator: "Utilization: working trial dog",
         },
       ],
-      verifiedOn: null,
-      note: "Exercise level and minutes are practical estimates for healthy adult dogs. Adjust for age, health and individual tolerance.",
+      verifiedOn: "2026-11-08",
+      note: "Daily exercise requirements (60-120 minutes) reflecting an athletic, high-energy working breed.",
     },
 
     "care.grooming": {
@@ -690,25 +750,37 @@ export const doberman_pinscher: Breed = {
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "verified",
-          locator: "Breed profile: short coat and routine grooming",
+          locator: "Breed profile — Grooming section",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Coat grooming is relatively simple, but routine hygiene remains important.",
+      verifiedOn: "2026-11-08",
+      note: "Low grooming requirement for a short, single-coated breed, along with routine nail and dental care.",
     },
 
     "care.training": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "cited",
+          locator: "Breed profile — Training and socialization guidance",
+        },
+      ],
       verifiedOn: null,
-      note: "Training and socialisation suggestions are general humane-dog-training guidance, adapted to a strong, alert working breed.",
+      note: "Humane, reward-based training guidance adapted to a powerful, intelligent protection breed.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "cited",
+          locator: "Breed profile — Exercise and activity requirements",
+        },
+      ],
       verifiedOn: null,
-      note: "Suitability depends on the individual dog, exercise, enrichment and household management; no universal yes/no value is recorded.",
+      note: "Boolean assessment; large size, high energy, and guarding alertness generally make standard apartments less suitable than homes with secure yards.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -717,32 +789,50 @@ export const doberman_pinscher: Breed = {
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "cited",
-          locator: "Breed profile: activity and working traits",
+          locator: "Breed profile — Exercise and activity requirements",
         },
       ],
       verifiedOn: null,
-      note: "A secure yard can be useful but does not replace exercise, training or family interaction.",
+      note: "A securely fenced yard facilitates necessary daily exercise and off-leash play.",
     },
 
     "care.livingEnvironment.climates": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "fci-dobermann-standard",
+          role: "cited",
+          locator: "Coat — Hair: short, single coat without undercoat",
+        },
+      ],
       verifiedOn: null,
-      note: "General climate advice for a short-coated dog; adapt activity and shelter to local weather and individual health.",
+      note: "Guidance on shelter and winter protection due to the lack of an insulating undercoat.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "cited",
+          locator: "Breed profile — Temperament: deeply attached, people-oriented",
+        },
+      ],
       verifiedOn: null,
-      note: "No reliable breed-specific duration for being left alone was established.",
+      note: "Guidance on separation and alone-time management for family-attached working dogs.",
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "cited",
+          locator: "Breed profile — Nutrition section",
+        },
+      ],
       verifiedOn: null,
-      note: "General canine nutrition guidance; individual needs depend on life stage, body condition and veterinary advice.",
+      note: "General canine nutritional recommendations suited to a deep-chested, muscular working breed.",
     },
 
     "nutrition.feedingFrequency.senior": {
@@ -758,46 +848,39 @@ export const doberman_pinscher: Breed = {
         {
           id: "doberman-pinscher-club-america-health-statement",
           role: "verified",
-          locator: "Club health statement: cardiac, thyroid, liver, cervical instability, vWD, eye and hip concerns",
+          locator: "DPCA Health Statement: dilated cardiomyopathy, thyroid, vWD, liver disease, cervical vertebral instability, hips, eyes",
         },
         {
           id: "american-kennel-club-working-group-health-testing-requirements",
           role: "verified",
-          locator: "Doberman Pinscher: recommended health tests",
-        },
-        {
-          id: "american-kennel-club-doberman-pinscher",
-          role: "cited",
-          locator: "Breed profile: health concerns",
-        },
-      ],
-      verifiedOn: "2026-10-23",
-      note: "Health risks and screening recommendations are not a diagnosis and do not establish that an individual dog will develop a condition.",
-    },
-
-    "health.commonConditions": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "doberman-pinscher-club-america-health-statement",
-          role: "verified",
-          locator: "Club health statement: cardiomyopathy, thyroid, liver, cervical instability, von Willebrand disease, eye and hip concerns",
+          locator: "Doberman Pinscher health testing requirements",
         },
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "verified",
-          locator: "Breed profile: health concerns including DCM, vWD, hip dysplasia, progressive retinal atrophy and hypothyroidism",
+          locator: "Breed profile — Health section",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Conditions are included as recognised concerns, not as a claim about prevalence in all Dobermans.",
+      verifiedOn: "2026-11-08",
+      note: "Synthesises parent-club health testing requirements and scientifically documented breed health conditions.",
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "doberman-pinscher-club-america-health-statement",
+          role: "cited",
+          locator: "Health testing protocol: annual cardiac screening",
+        },
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "cited",
+          locator: "Breed profile — Health and preventive care",
+        },
+      ],
       verifiedOn: null,
-      note: "General veterinary prevention guidance. Breed-specific screening should be discussed with a veterinarian.",
+      note: "Proactive veterinary preventive care, annual cardiac monitoring, and bloat emergency readiness.",
     },
 
     "health.recommendedScreenings": {
@@ -806,78 +889,102 @@ export const doberman_pinscher: Breed = {
         {
           id: "american-kennel-club-working-group-health-testing-requirements",
           role: "verified",
-          locator: "Doberman Pinscher: hip, cardiac, ophthalmologist, thyroid and vWD tests",
+          locator: "Doberman Pinscher: Cardiac Evaluation, Hip Evaluation, Ophthalmologist Evaluation, Thyroid Evaluation, Von Willebrand's Disease DNA Test",
         },
         {
           id: "doberman-pinscher-club-america-health-statement",
           role: "verified",
-          locator: "Club health statement: cardiac, thyroid, vWD, eye and hip screening guidance",
+          locator: "Recommended health testing protocol",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Screening recommendations can change; confirm current requirements with the breed club and veterinarian. A normal result does not guarantee future health.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine dental-care advice.",
+      note: "Routine canine dental hygiene advice.",
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General ear monitoring advice.",
+      note: "Routine ear hygiene for natural and cropped ears.",
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General skin inspection advice.",
+      note: "Skin inspection and callus prevention advice for short-coated breeds.",
     },
 
     "suitability.firstTimeOwners": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Suitability depends on support, training commitment, activity and individual temperament; no universal yes/no value is recorded.",
-    },
-
-    "suitability.familiesWithChildren": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Suitability depends on the individual dog, child behaviour, supervision and household experience.",
-    },
-
-    "suitability.seniorOwners": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Suitability depends on mobility, support, activity preferences and the individual dog.",
-    },
-
-    "suitability.activeOwners": {
       reliability: "estimate",
       sources: [
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "cited",
-          locator: "Breed profile: exercise and working traits",
+          locator: "Breed profile — Temperament, training, and exercise needs",
         },
       ],
       verifiedOn: null,
-      note: "Editorial matching guidance based on activity and training needs.",
+      note: "Editorial assessment; high physical power, sharp intelligence, and guarding drives make the breed better suited to experienced owners.",
+    },
+
+    "suitability.familiesWithChildren": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "cited",
+          locator: "Breed profile — Traits: Good with Young Children",
+        },
+      ],
+      verifiedOn: null,
+      note: "Boolean assessment; affectionate and playful with household children under responsible adult supervision.",
+    },
+
+    "suitability.seniorOwners": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "cited",
+          locator: "Breed profile — Energy level and exercise needs",
+        },
+      ],
+      verifiedOn: null,
+      note: "Editorial assessment; high strength, size, and exercise demands can be challenging for seniors without active support.",
+    },
+
+    "suitability.activeOwners": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "verified",
+          locator: "Breed profile — Exercise section",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "suitability.apartmentLiving": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "cited",
+          locator: "Breed profile — Exercise and living needs",
+        },
+      ],
       verifiedOn: null,
-      note: "Apartment living depends on exercise, enrichment, noise management and the individual dog.",
+      note: "Aligned with care.livingEnvironment.apartmentSuitable.",
     },
 
     "suitability.idealFor": {
@@ -886,11 +993,11 @@ export const doberman_pinscher: Breed = {
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "cited",
-          locator: "Breed profile: activity and working traits",
+          locator: "Breed profile — Temperament, exercise, and training needs",
         },
       ],
       verifiedOn: null,
-      note: "Editorial matching guidance, not a guarantee of compatibility.",
+      note: "Synthesised owner-matching guidance based on activity level, guardian instincts, and mental enrichment needs.",
     },
 
     "suitability.notIdealFor": {
@@ -899,23 +1006,28 @@ export const doberman_pinscher: Breed = {
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "cited",
-          locator: "Breed profile: activity and training needs",
+          locator: "Breed profile — Temperament, exercise, and training needs",
         },
       ],
       verifiedOn: null,
-      note: "Editorial matching guidance, not a guarantee of incompatibility.",
+      note: "Synthesised owner-matching caveats.",
     },
 
     funFacts: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-dobermann-standard",
           role: "verified",
-          locator: "FCI standard: history, classification and working use",
+          locator: "Brief Historical Summary and General Appearance (creator, working trial, origins)",
+        },
+        {
+          id: "american-kennel-club-doberman-pinscher",
+          role: "verified",
+          locator: "About the Breed (military Devil Dogs, Velcro nature, playful temperament)",
         },
       ],
-      verifiedOn: "2026-10-23",
+      verifiedOn: "2026-11-08",
       note: null,
     },
 
@@ -925,23 +1037,28 @@ export const doberman_pinscher: Breed = {
         {
           id: "fci-dobermann-standard",
           role: "verified",
-          locator: "FCI standard: classification, colour and temperament",
+          locator: "Size, Weight, Coat, Colour, and Temperament sections",
         },
         {
           id: "american-kennel-club-doberman-pinscher",
           role: "verified",
-          locator: "Breed profile: lifespan, coat, health and activity",
+          locator: "Breed profile — Weight, Lifespan, Exercise, Grooming, Training, and Health",
+        },
+        {
+          id: "american-kennel-club-working-group-health-testing-requirements",
+          role: "verified",
+          locator: "Recommended health evaluations",
         },
         {
           id: "doberman-pinscher-club-america-health-statement",
           role: "verified",
-          locator: "Breed-club health guidance",
+          locator: "Parent-club health statement: DCM, vWD, thyroid, Wobbler syndrome",
         },
       ],
-      verifiedOn: "2026-10-23",
-      note: "Answers are original summaries and distinguish registry standards, health guidance and general care advice.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
   },
 
-  updatedOn: "2026-10-23",
+  updatedOn: "2026-11-08",
 };

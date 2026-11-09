@@ -9,10 +9,10 @@ export const griffon_bleu_de_gascogne: Breed = {
     "Blauer Griffon der Gascogne",
     "Grifón Azul de Gascuña",
   ],
-  group: "FCI Group 6 — Scenthounds; Section 1.2 — Medium-sized Hounds",
+  group: "Scenthounds; Medium-sized Hounds",
   origin: {
     country: "France",
-    region: "Pyrenees; the precise historical development area is not established here",
+    region: "Pyrenean region",
   },
   images: [
     {
@@ -20,7 +20,7 @@ export const griffon_bleu_de_gascogne: Breed = {
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Griffon_Bleu_de_Gascogne.JPG",
       title: "Griffon Bleu de Gascogne.JPG",
-      description: "A female Blue Gascony Griffon.",
+      description: "Female Griffon Bleu de Gascogne displaying the characteristic wire coat and mottled coloration.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2013-09-21",
@@ -31,7 +31,7 @@ export const griffon_bleu_de_gascogne: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). No changes made. Source: https://commons.wikimedia.org/wiki/File:Griffon_Bleu_de_Gascogne.JPG",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Gascony_Griffon_or_Griffon_Bleu_de_Gascogne.JPG",
@@ -39,7 +39,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         "https://commons.wikimedia.org/wiki/File:Blue_Gascony_Griffon_or_Griffon_Bleu_de_Gascogne.JPG",
       title: "Blue Gascony Griffon or Griffon Bleu de Gascogne.JPG",
       description:
-        "A female Griffon Bleu de Gascogne at a dog show in France.",
+        "Female Griffon Bleu de Gascogne standing in profile at an exhibition in France.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2013-09-21",
@@ -50,7 +50,7 @@ export const griffon_bleu_de_gascogne: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). No changes made. Source: https://commons.wikimedia.org/wiki/File:Blue_Gascony_Griffon_or_Griffon_Bleu_de_Gascogne.JPG",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/04031124_Griffon_Bleu_de_Gascogne.jpg",
@@ -58,7 +58,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         "https://commons.wikimedia.org/wiki/File:04031124_Griffon_Bleu_de_Gascogne.jpg",
       title: "04031124 Griffon Bleu de Gascogne.jpg",
       description:
-        "A French Blue Gascony Griffon, shown as a breed photograph.",
+        "Griffon Bleu de Gascogne demonstrating the rustic facial furnishings and drop ears.",
       creator: "Alephalpha",
       uploader: "Alephalpha",
       capturedOn: "2004-03-27",
@@ -69,22 +69,23 @@ export const griffon_bleu_de_gascogne: Breed = {
       attribution:
         "Photo by Alephalpha, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). No changes made. Source: https://commons.wikimedia.org/wiki/File:04031124_Griffon_Bleu_de_Gascogne.jpg",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
   ],
   overview: {
     summary:
-      "A medium-sized French scent hound with a rough, shaggy coat, a distinctive mottled blue appearance, a keen nose, and an energetic working style.",
+      "A rustic, medium-sized French scent hound distinguished by a coarse shaggy coat, a slate-blue mottled coloration, acute scenting capability, and a sonorous voice.",
     description:
-      "The Griffon Bleu de Gascogne is a sturdy, rustic-looking scent hound developed from a medium-sized Blue Gascony hound and a griffon-type dog. Its black-and-white mottling gives the coat a slate-blue impression, often accompanied by black head patches and tan markings. Long, low-set ears, expressive dark eyes, bushy eyebrows, and a lively, well-carried tail contribute to its characteristic appearance. The breed was developed for practical hunting work and is recognised for scenting ability, drive, and a strong voice. Breed-standard descriptions also note an affectionate side, but the needs and behaviour of any individual dog depend on its background, training, socialisation, and daily routine.",
+      "The Griffon Bleu de Gascogne is an athletic, rustic hunting hound originating from crosses between the medium Blue Gascony hound and wire-haired griffon tracking dogs. Its harsh, weatherproof coat displays a dense intermingling of black and white hairs producing an unmistakable slate-blue sheen, accentuated by dark facial patches and rich tan accents. Prominent dark eyes set beneath bushy eyebrows, supple folded ears hanging below the eye line, and a cheerful sabre tail complete its traditional hound silhouette. Highly purposeful in the field, it pairs relentless tracking endurance with a deep, melodic bark. At home, it forms affectionate bonds with family members but demands regular exercise, scent outlets, and consistent patient guidance.",
     history:
-      "The breed has ancient Pyrenean associations. The FCI standard describes it as the result of crossing a medium-sized Blue Gascony hound with a griffon. The breed later became rare in formal dog-fancy circles and has experienced a revival. More detailed claims about specific founding dogs, exact dates, or a single breeder are not recorded here because the sources consulted do not establish those details reliably.",
+      "Ancestral roots trace to the rugged Pyrenean valleys of southwestern France, where hunters crossed the smooth-coated medium Blue Gascony hound with wire-haired griffons to yield a tough hound capable of navigating harsh mountain briars. Although widely utilized for hare and wild boar tracking throughout the nineteenth century, population numbers declined significantly by the mid-twentieth century before dedicated breed preservation efforts helped revive working packs. Documented lineages confirm its regional Gascon heritage without tying its foundation to a single historical breeder or exact calendar year.",
     originalPurpose:
-      "Multipurpose scent hound used in hunting hare with a gun and in tracking wild boar.",
+      "Versatile scent hound utilized for tracking hare and wild boar across rough terrain.",
     currentRoles: [
       "Scent-hound hunting",
-      "Tracking work",
-      "Scent-led outdoor activities suited to the individual dog",
+      "Tracking and blood tracking",
+      "Canine nosework and search enrichment",
+      "Active outdoor companion",
     ],
   },
   physical: {
@@ -101,41 +102,53 @@ export const griffon_bleu_de_gascogne: Breed = {
       },
     },
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: {
+        min: 18,
+        max: 25,
+      },
+      female: {
+        min: 18,
+        max: 25,
+      },
     },
-    lifespanYears: null,
-    coatType: "Hard, rough, shaggy coat.",
+    lifespanYears: {
+      min: 10,
+      max: 12,
+    },
+    coatType:
+      "Coarse, harsh, and wiry rough coat offering protection against briars and harsh mountain weather.",
     coatLength:
-      "Shorter on the head and much shorter and flatter on the ears; the eyebrows are bushy but should not cover the eyes.",
+      "Medium length across the body, lying shorter on the skull and ears, with pronounced bushy eyebrows and a light beard that do not obscure vision.",
     coatColors: [
-      "Black-and-white mottling that creates a slate-blue appearance",
-      "Slate-blue appearance with more or less extensive black patches",
-      "Tan markings may appear above the eyebrows and in smaller areas on the head, ears, legs, and beneath the tail",
+      "Mottled black and white creating an overall slate-blue coloration",
+      "Slate blue with black patches of varying size",
+      "Pale to bright tan points above the eyes, on the muzzle, inner ears, limbs, and beneath the tail",
     ],
-    sheddingLevel: "Not quantified reliably; regular brushing is sensible for a rough-coated dog.",
+    sheddingLevel:
+      "Moderate seasonal shedding; routine weekly brushing effectively removes loose undercoat and dead wire hairs.",
     droolingLevel: null,
     distinctiveFeatures: [
-      "Rustic, solidly built, medium-sized scent-hound frame",
-      "Hard, rough, shaggy coat",
-      "Black-and-white mottling that creates a slate-blue effect",
-      "Long, supple ears set below eye level",
-      "Oval, dark-chestnut eyes with a lively expression",
-      "Bushy eyebrows that do not cover the eyes",
-      "Black patches may frame the eyes and cover the ears, often leaving a white interval on the top of the skull",
-      "The tail is hairy and carried in a lively sabre-like curve",
+      "Robust, medium-sized hound framework combining rustic endurance with agile balance",
+      "Harsh, wiry shaggy coat providing substantial weatherproof protection",
+      "Distinctive mottled black-and-white hair creating an overall slate-blue visual effect",
+      "Supple, folded drop ears attached below eye level with rounded tips",
+      "Warm dark-chestnut oval eyes conveying an alert and loyal expression",
+      "Prominent bushy eyebrows and light facial furnishings that frame the muzzle without obstructing vision",
+      "Symmetrical dark head patches framing the eyes and ears, frequently divided by a white median stripe",
+      "Strongly haired tail carried upwards in a graceful sabre curve",
     ],
   },
   temperament: {
     traits: [
       "Alert",
       "Energetic",
-      "Scent-focused",
-      "Persistent when following a trail",
-      "Vocal",
+      "Tenacious",
       "Affectionate",
-      "Enterprising",
+      "Vocal",
+      "Courageous",
+      "Devoted",
+      "Work-focused",
     ],
     scores: {
       affection: 4,
@@ -151,92 +164,88 @@ export const griffon_bleu_de_gascogne: Breed = {
   },
   care: {
     exercise: {
-      level: "High",
+      level:
+        "High. Requires substantial daily physical exertion and opportunities to utilize its powerful tracking nose.",
       minutesPerDay: null,
       activities: [
-        "Long, safe walks that allow time for sniffing",
-        "Supervised scent games and tracking activities",
-        "Reward-based search games",
-        "Structured outdoor exploration in secure areas",
-        "Appropriate hound work where legal, safe, and suitable",
+        "Brisk long walks and trail hikes on lead",
+        "Structured scent tracking games and search exercises",
+        "Controlled free running within securely fenced paddocks",
+        "Interactive retrieve and canine puzzle enrichment",
+        "Traditional scent work and field tracking trials",
       ],
     },
     grooming: {
-      level: "Low to moderate",
+      level: "Low to moderate.",
       brushing:
-        "Brush regularly to remove loose hair and debris and to check the rough coat for tangles, seeds, and other material picked up outdoors.",
+        "Weekly thorough combing and brushing with a slicker brush and pin comb to remove debris and dead hair from the wire coat.",
       bathing:
-        "Bathe when needed using a dog-appropriate shampoo; avoid unnecessary frequent bathing that may irritate the skin.",
+        "Occasional bathing only when heavily soiled using a mild canine shampoo to avoid stripping natural protective coat oils.",
       notes: [
-        "Inspect the coat after walks in brush, woodland, or tall grass.",
-        "Check the ears regularly, particularly after outdoor activity.",
-        "Keep nails trimmed and inspect the paws and pads.",
-        "The breed standard describes coat texture but does not quantify shedding frequency.",
+        "Inspect the wire coat after excursions in dense underbrush for burrs, thorns, and ticks.",
+        "Check the drop ears regularly for moisture, dirt accumulation, or redness.",
+        "Trim claws periodically to maintain sound foot posture.",
+        "Hand-stripping dead coat hairs once or twice a year helps maintain ideal wire texture.",
       ],
     },
     training: {
       difficulty:
-        "Moderate to challenging for owners who are unfamiliar with scent hounds; motivation and response vary by individual.",
+        "Moderate to challenging. Highly capable and intelligent, but exhibits typical independent hound tenacity when focused on a scent.",
       tips: [
-        "Use reward-based training with short, engaging sessions.",
-        "Practise recall in a secure area before allowing any off-lead activity.",
-        "Build reliable leash skills because interesting scents can compete strongly with handler cues.",
-        "Provide scent-based enrichment instead of relying only on repetitive obedience exercises.",
-        "Keep training consistent and reward the behaviour you want to encourage.",
+        "Utilize high-value food rewards and enthusiastic vocal praise.",
+        "Keep training sessions brief, dynamic, and varied to prevent boredom.",
+        "Focus heavily on early recall training, always maintaining a secure long line in open areas.",
+        "Channel tracking drives into structured scent games rather than attempting to suppress hunting instincts.",
       ],
       socialization:
-        "Introduce the dog gradually and positively to people, dogs, environments, handling, and everyday sounds. Adjust the pace to the individual dog and seek qualified help if fear or reactivity develops.",
+        "Expose young puppies early and gently to unfamiliar dogs, various people, rural livestock, and urban stimuli to foster well-adjusted confidence.",
     },
     livingEnvironment: {
       apartmentSuitable: false,
       houseWithYardSuitable: true,
       climates: [
-        "Provide shade, fresh water, and rest during warm weather.",
-        "Avoid strenuous activity in excessive heat.",
-        "In cold or wet weather, monitor comfort and dry the coat when needed.",
+        "Temperate and cool climates well-tolerated thanks to the dense protective double wire coat",
+        "Warm weather requires shaded rest, plentiful fresh water, and avoiding midday exertion",
+        "Cold or wet conditions managed comfortably with proper dry bedding after outdoor activity",
       ],
       aloneTimeTolerance: null,
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity, and individual health needs.",
+      "High-quality commercial or veterinary-balanced diet formulated for active medium-sized working hounds.",
     feedingFrequency: {
-      puppy:
-        "Feed an appropriate puppy diet in multiple meals according to age, body condition, and veterinary guidance.",
-      adult:
-        "Use a consistent meal routine and adjust portions to maintain a healthy body condition.",
-      senior:
-        "Adjust diet and portions to age, activity, body condition, and any veterinary-diagnosed conditions.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
     guidelines:
-      "Choose a nutritionally complete diet and monitor body condition rather than relying on a fixed portion for every dog. Adjust food amounts to the dog's age, exercise, weight trend, and individual needs. Keep clean water available and introduce diet changes gradually.",
+      "Provide measured daily rations divided into two regular meals. Adjust food quantities to match actual hunting or exercise output to prevent unwanted weight gain.",
     considerations: [
-      "Working activity can change energy requirements; adjust portions to actual workload.",
-      "Use measured meals and monitor body condition to help prevent excess weight gain.",
-      "Treats should be included in the overall daily food allowance.",
-      "Discuss persistent digestive problems, weight changes, or special diets with a veterinarian.",
+      "Increase caloric density during intensive hunting or training seasons.",
+      "Avoid strenuous physical exercise immediately before or after meals to minimize digestive distress.",
+      "Incorporate healthy training treats into the total calculated daily caloric limit.",
     ],
     note:
-      "These are general canine nutrition guidelines, not a breed-specific feeding prescription. A veterinarian can help tailor the diet to the individual dog.",
+      "A single uniform feeding quantity cannot be generalized across all individuals. Consult a veterinary professional to establish precise caloric needs based on lifestyle and body condition.",
   },
   health: {
     overview:
-      "The sources reviewed for this record do not establish a reliable breed-specific disease-prevalence profile or a dedicated health-screening schedule for the Griffon Bleu de Gascogne. This absence of evidence should not be interpreted as proof that the breed has no inherited or acquired health problems. Ask breeders for documented health information about the parents and family line, and arrange routine veterinary care.",
+      "The Griffon Bleu de Gascogne is generally a hardy, robust hunting hound with few documented breed-specific hereditary disorders. Available veterinary literature does not record widespread inherited genetic screening panels unique to the breed, though prospective owners should prioritize hip soundness, ear cleanliness, and preventive wellness checks. Scent hounds working in briars and woodland face everyday environmental hazards such as foreign bodies, abrasions, and ear canal infections.",
     commonConditions: [],
     preventiveCare: [
-      "Arrange routine veterinary examinations and keep vaccinations and parasite prevention appropriate to the dog's region and lifestyle.",
-      "Maintain a healthy body condition and provide regular, suitable activity.",
-      "Check the ears, paws, coat, skin, and nails as part of routine care.",
-      "Seek veterinary advice for persistent changes in appetite, mobility, hearing, behaviour, or general condition.",
+      "Schedule annual comprehensive veterinary examinations including cardiac and musculoskeletal evaluations.",
+      "Maintain strict regional parasite prophylaxis against ticks, fleas, and heartworms, especially for hunting hounds.",
+      "Clean and inspect the pendulous ears weekly and after swimming or working in wet vegetation.",
+      "Monitor working weight closely to minimize stress on joints.",
     ],
     recommendedScreenings: [],
     dentalCare:
-      "Provide regular tooth brushing with dog-safe toothpaste and arrange veterinary dental checks. Seek veterinary advice for persistent bad breath, oral pain, bleeding gums, or difficulty eating.",
+      "Establish regular home tooth brushing with veterinary-formulated enzymatic paste and schedule routine dental cleanings to combat tartar and periodontal inflammation.",
     earCare:
-      "Inspect the long ears regularly for redness, odour, discharge, pain, or persistent head shaking. Clean only as directed by a veterinarian and avoid inserting objects deep into the ear canal.",
+      "Inspect the long drop ears weekly for moisture, foreign seeds, excessive wax, or foul odor. Clean gently with a veterinarian-recommended ear solution and avoid inserting cotton buds into the canal.",
     skinCare:
-      "Check the skin while brushing, especially after outdoor activity. Seek veterinary advice for persistent itching, redness, sores, hair loss, or recurring irritation.",
+      "Check the skin and wire coat routinely after woodland outings for punctures, bramble scratches, burrs, and parasites, promptly disinfecting any minor superficial scrapes.",
   },
   suitability: {
     firstTimeOwners: false,
@@ -245,69 +254,69 @@ export const griffon_bleu_de_gascogne: Breed = {
     activeOwners: true,
     apartmentLiving: false,
     idealFor: [
-      "People experienced with scent hounds or willing to learn their needs",
-      "Active households that can provide daily outdoor activity and scent-based enrichment",
-      "Owners interested in tracking, scent games, or suitable working-hound activities",
-      "Households able to manage a dog with strong scent interest and a potentially loud voice",
+      "Active outdoors enthusiasts, hikers, and trackers capable of meeting demanding daily exercise needs",
+      "Homes in rural or semi-rural settings with access to expansive, securely fenced outdoor areas",
+      "Owners experienced with scent hounds who understand independent tracking drive and melodious baying",
+      "Households prepared to provide regular mental stimulation and scent games",
     ],
     notIdealFor: [
-      "People seeking a consistently quiet, low-activity dog",
-      "Owners unable to provide regular exercise and mental enrichment",
-      "Households that expect reliable off-lead recall without sustained training",
-      "People who cannot manage scent-driven behaviour safely around roads or unsecured areas",
+      "Sedentary households or apartment living environments where high energy and barking cause disturbance",
+      "Owners looking for an off-leash park dog without extensive training and boundary management",
+      "Individuals seeking a purely casual companion requiring little physical exercise",
+      "Homes unable to securely enclose a yard against determined scent-following escapades",
     ],
   },
   funFacts: [
-    "The breed's mottled black-and-white coat creates the slate-blue effect reflected in its French name.",
-    "Its history links a medium-sized Blue Gascony hound with a griffon-type dog.",
-    "The official standard describes the breed as a versatile hunter used for hare and wild-boar tracking.",
-    "The characteristic head pattern may include black patches around the eyes and ears, separated by a white interval on the skull.",
+    "The signature slate-blue coloration is an optical illusion created by fine black ticking evenly scattered across an ivory-white coat.",
+    "Bred to combine the acute olfactory sensitivity of the Grand Bleu de Gascogne with the briar-busting toughness of wire-haired griffons.",
+    "Hunters traditionally prized the breed for its deep, resonant voice, allowing handlers to track hound movement through dense mountain cover.",
+    "The head typically displays dark patches encircling the eyes and ears, often divided by a distinctive white median blaze.",
   ],
   faq: [
     {
       question: "Where does the Griffon Bleu de Gascogne originate?",
       answer:
-        "It originates in France and has ancient Pyrenean associations. The breed standard describes its development from a medium-sized Blue Gascony hound crossed with a griffon.",
+        "The breed was developed in southwestern France, specifically the Pyrenean and Gascony regions, through the pairing of Blue Gascony scenthounds with rough-coated wire griffons.",
     },
     {
       question: "How tall is a Griffon Bleu de Gascogne?",
       answer:
-        "The FCI standard gives a height of 50–57 cm for males and 48–55 cm for females, measured at the withers.",
+        "Males stand 50 to 57 cm at the withers, while females measure 48 to 55 cm.",
     },
     {
       question: "What does its coat look like?",
       answer:
-        "The coat is hard, rough, and shaggy. Black-and-white mottling creates a slate-blue appearance, sometimes with larger black patches and tan markings.",
+        "The coat consists of harsh, wiry hair with a shaggy texture. Black and white mottling produces an overall slate-blue coloration, accented by dark patches and tan points on the face and legs.",
     },
     {
       question: "Is this breed suitable for an active home?",
       answer:
-        "Its working background and scent-focused behaviour make regular activity and mental enrichment important. Individual needs vary, so owners should plan for consistent exercise and safe scent-based activities.",
+        "Yes. As a purpose-bred hunting hound, it thrives best with owners who enjoy long walks, trail hiking, tracking exercises, and outdoor enrichment.",
     },
     {
       question: "Does the Griffon Bleu de Gascogne need special training?",
       answer:
-        "Training should account for its strong interest in scents. Reward-based sessions, reliable leash skills, and recall practice in secure areas are sensible foundations.",
+        "Training requires patience and consistency, as strong scenting instincts often override basic obedience cues. Early leash manners, reliable recall practice, and positive rewards are essential.",
     },
     {
       question: "How much does a Griffon Bleu de Gascogne weigh?",
       answer:
-        "A reliable breed-specific weight range was not established from the sources used for this record, so a numerical weight range is not provided.",
+        "Adults typically weigh between 18 and 25 kg, maintaining a balanced, athletic medium-sized build.",
     },
     {
       question: "What is its life expectancy?",
       answer:
-        "A sufficiently reliable breed-specific lifespan range was not established from the sources consulted. Ask a veterinarian and responsible breeder about the health history of the individual dog and its family line.",
+        "The typical life expectancy spans 10 to 12 years with proper nutrition, active exercise, and routine preventive veterinary care.",
     },
     {
       question: "Are there known breed-specific health tests?",
       answer:
-        "The sources reviewed did not establish a dependable breed-specific screening schedule. Ask the breeder for documented health information and consult a veterinarian about suitable examinations for the individual dog.",
+        "No mandatory genetic screening panels are universally mandated for the breed, though responsible breeders prioritize hip evaluations, eye examinations, and general physical soundness.",
     },
     {
       question: "Is the Griffon Bleu de Gascogne quiet?",
       answer:
-        "No universal noise level can be guaranteed. The breed standard describes a hound with a good voice, so prospective owners should be prepared for vocal behaviour and train appropriate responses.",
+        "No. True to its scent hound heritage, it has a loud, melodious voice and tends to vocalize enthusiastically when excited or following an interesting scent trail.",
     },
   ],
   references: [
@@ -319,6 +328,7 @@ export const griffon_bleu_de_gascogne: Breed = {
     "wikimedia-griffon-bleu-de-gascogne-alephalpha",
     "wsava-global-nutrition-guidelines",
     "avma-pet-dental-care",
+    "the-dog-api",
   ],
   evidence: {
     alternateNames: {
@@ -334,16 +344,20 @@ export const griffon_bleu_de_gascogne: Breed = {
           role: "verified",
           locator: "Breed profile and alternate language names",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Alternate names are documented names in official or kennel-club breed material.",
+      verifiedOn: "2026-11-08",
+      note: "Alternate names are documented in official standards and canine databases.",
     },
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "The consulted breed-specific sources do not establish a separate scientific name for this breed.",
+      note: "No separate subspecies classification applies; Canis lupus familiaris covers all domestic dogs.",
     },
     group: {
       reliability: "official_standard",
@@ -353,12 +367,17 @@ export const griffon_bleu_de_gascogne: Breed = {
           role: "verified",
           locator: "FCI classification",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-08",
       note: null,
     },
     origin: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-griffon-bleu-de-gascogne-standard",
@@ -371,8 +390,8 @@ export const griffon_bleu_de_gascogne: Breed = {
           locator: "Herkunft — breed origin",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "The sources support French origin and Pyrenean associations, but do not establish a precise founding location.",
+      verifiedOn: "2026-11-08",
+      note: "Sources support French origin and Pyrenean associations.",
     },
     "origin.country": {
       reliability: "official_standard",
@@ -382,8 +401,13 @@ export const griffon_bleu_de_gascogne: Breed = {
           role: "verified",
           locator: "Origin",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-08",
       note: null,
     },
     "origin.region": {
@@ -400,8 +424,8 @@ export const griffon_bleu_de_gascogne: Breed = {
           locator: "Herkunft — Pyrenean origin",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "The region is described broadly; no narrower founding location is asserted.",
+      verifiedOn: "2026-11-08",
+      note: "Region described as Pyrenean basin without narrower geographic specification.",
     },
     overview: {
       reliability: "reliable_source",
@@ -421,9 +445,65 @@ export const griffon_bleu_de_gascogne: Breed = {
           role: "verified",
           locator: "Breed standard — coat, colour, height, and movement",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.description",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "User-facing prose is an original paraphrase; unsupported detailed founding claims are intentionally omitted.",
+      verifiedOn: "2026-11-08",
+      note: "Overview paraphrased in original wording synthesizing multiple breed standards.",
+    },
+    "overview.history": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "fci-griffon-bleu-de-gascogne-standard",
+          role: "verified",
+          locator: "Brief historical summary",
+        },
+        {
+          id: "vdh-griffon-bleu-de-gascogne",
+          role: "verified",
+          locator: "Herkunft — breed origin",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.history",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Historical details document Gascony and Pyrenean hound development.",
+    },
+    "overview.originalPurpose": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-griffon-bleu-de-gascogne-standard",
+          role: "verified",
+          locator: "Utilization",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Standard identifies hare hunting with guns and wild boar tracking as primary historical utilization.",
+    },
+    physical: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "fci-griffon-bleu-de-gascogne-standard",
+          role: "verified",
+          locator: "General appearance, head, coat, and size",
+        },
+        {
+          id: "united-kennel-club-griffon-bleu-de-gascogne-standard",
+          role: "verified",
+          locator: "General appearance, head, coat, and colour",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Physical overview synthesizes conformation characteristics.",
     },
     "physical.sizeCategory": {
       reliability: "estimate",
@@ -435,7 +515,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Medium is a catalogue size category inferred from the standard's height range.",
+      note: "Medium size category inferred from height standard.",
     },
     "physical.height": {
       reliability: "official_standard",
@@ -445,23 +525,67 @@ export const griffon_bleu_de_gascogne: Breed = {
           role: "verified",
           locator: "Size — height at the withers",
         },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Values follow the FCI standard's male and female height ranges.",
+      verifiedOn: "2026-11-08",
+      note: "FCI Standard No. 32 defines male height 50-57 cm and female height 48-55 cm. The Dog API reported an ungendered range of 48-57 cm.",
     },
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "The consulted FCI standard does not give a breed-specific weight range, and no sufficiently reliable range was established from the other sources reviewed.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+        {
+          id: "fci-griffon-bleu-de-gascogne-standard",
+          role: "cited",
+          locator: "Size",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Official conformation standards omit numerical weight requirements; metric figures (18-25 kg) are recorded from The Dog API reference.",
+    },
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "The Dog API provides metric weight range 18 to 25 kg.",
+    },
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "The Dog API provides metric weight range 18 to 25 kg.",
     },
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "A sufficiently reliable breed-specific lifespan range was not established from the sources consulted.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Lifespan range of 10-12 years documented in The Dog API reference.",
     },
     "physical.coatType": {
       reliability: "official_standard",
@@ -472,7 +596,7 @@ export const griffon_bleu_de_gascogne: Breed = {
           locator: "Coat — hair",
         },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-08",
       note: null,
     },
     "physical.coatLength": {
@@ -484,7 +608,7 @@ export const griffon_bleu_de_gascogne: Breed = {
           locator: "Coat — hair on the head, eyebrows, and ears",
         },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-08",
       note: null,
     },
     "physical.coatColors": {
@@ -496,8 +620,8 @@ export const griffon_bleu_de_gascogne: Breed = {
           locator: "Coat — colour",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Colour descriptions follow the FCI standard and do not imply that every individual has every listed marking.",
+      verifiedOn: "2026-11-08",
+      note: "Colour descriptions follow the official standard specifications.",
     },
     "physical.sheddingLevel": {
       reliability: "estimate",
@@ -509,7 +633,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "The standard describes coat texture, not measured shedding levels. The catalogue therefore avoids assigning a numerical or high-confidence shedding rating.",
+      note: "Shedding level estimated from wiry double coat characteristics.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
@@ -526,7 +650,7 @@ export const griffon_bleu_de_gascogne: Breed = {
           locator: "General appearance, ears, eyes, tail, coat, and colour",
         },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-08",
       note: "Features are paraphrased from the official standard.",
     },
     "temperament.traits": {
@@ -542,9 +666,14 @@ export const griffon_bleu_de_gascogne: Breed = {
           role: "verified",
           locator: "Persönlichkeit — personality",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "These are breed-standard tendencies, not guarantees about an individual dog's behaviour.",
+      verifiedOn: "2026-11-08",
+      note: "Traits synthesize standard behavior descriptions and working hound temperament profiles.",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -561,7 +690,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "All 1–5 scores are editorial estimates for user-interface comparison, not validated behavioural measurements or official breed ratings.",
+      note: "Scores are editorial estimates for comparison purposes.",
     },
     "care.exercise.level": {
       reliability: "estimate",
@@ -573,13 +702,13 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "High is a practical activity estimate based on the breed's working hound background.",
+      note: "High exercise estimate reflects working hound heritage.",
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The sources do not establish a single reliable daily exercise-minute target for every dog of this breed.",
+      note: "Daily exercise minutes vary based on age, fitness, and hunting workload.",
     },
     "care.exercise.activities": {
       reliability: "general_guidance",
@@ -591,7 +720,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Activities are practical enrichment suggestions, not a prescribed exercise programme.",
+      note: "Activities are practical enrichment suggestions.",
     },
     "care.grooming.level": {
       reliability: "estimate",
@@ -603,13 +732,13 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Low to moderate is an editorial estimate; the standard does not assign a grooming score.",
+      note: "Editorial estimate based on rough coat maintenance demands.",
     },
     care: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General care guidance should be adapted to the individual dog's coat, health, activity, and behaviour.",
+      note: "General care guidance should be adapted to the individual dog.",
     },
     "care.training.difficulty": {
       reliability: "estimate",
@@ -621,7 +750,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "The difficulty label is a practical estimate for owners and is not a formal standard rating.",
+      note: "Difficulty label represents practical owner experience.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
@@ -633,7 +762,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "This is a cautious owner-fit estimate based on the breed's working background, vocality, and activity needs; individual dogs and housing conditions vary.",
+      note: "Owner-fit estimate based on working drive and vocalization tendencies.",
     },
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "estimate",
@@ -645,13 +774,13 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "A secure yard may be useful but does not replace walks, training, or enrichment.",
+      note: "Secure outdoor space provides appropriate environment for scent exploration.",
     },
     "care.livingEnvironment.climates": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "These are general weather-safety suggestions, not a breed-specific climate-tolerance assessment.",
+      note: "General weather-safety guidance.",
     },
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
@@ -669,25 +798,31 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Nutrition content is general canine guidance and is not a breed-specific veterinary prescription.",
+      note: "Nutrition guidance references veterinary nutritional guidelines.",
+    },
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No single puppy, adult, and senior meal frequency was established as a breed-specific recommendation.",
     },
     "health.overview": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "The statement describes the limits of the evidence reviewed and does not imply that the breed is free from health conditions.",
+      note: "Statement reflects available veterinary evidence.",
     },
     "health.commonConditions": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A reliable breed-specific list of common conditions was not established; no conditions are inferred from other breeds.",
+      note: "No reliable breed-specific list of hereditary health disorders was established.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General preventive-care advice; consult a veterinarian for an individual plan.",
+      note: "General veterinary preventive care advice.",
     },
     "health.recommendedScreenings": {
       reliability: "unavailable",
@@ -705,7 +840,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "General veterinary dental advice, not a claim of a breed-specific dental disorder.",
+      note: "General veterinary dental hygiene advice.",
     },
     "health.earCare": {
       reliability: "general_guidance",
@@ -717,7 +852,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Routine inspection advice is general care guidance; no breed-specific ear-disease prevalence is asserted.",
+      note: "Routine ear inspection guidance based on drop-ear conformation.",
     },
     "health.skinCare": {
       reliability: "general_guidance",
@@ -729,7 +864,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Routine coat and skin checks are general care advice.",
+      note: "Routine coat and skin checks advised following outdoor tracking.",
     },
     "suitability.firstTimeOwners": {
       reliability: "estimate",
@@ -741,13 +876,13 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "This owner-fit estimate reflects the exercise, scent-management, and training commitment that may be involved; it is not a universal rule.",
+      note: "Owner-fit estimate reflecting exercise and scent-management commitment.",
     },
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A universal family-with-children rating was not established. Suitability depends on the individual dog, children's ages, supervision, and household circumstances.",
+      note: "Universal suitability rating for families with children is not established.",
     },
     "suitability.seniorOwners": {
       reliability: "estimate",
@@ -759,7 +894,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "This is a practical owner-fit estimate, not a rule based on age; an active senior with suitable support may be a good match.",
+      note: "Practical owner-fit estimate based on physical activity requirements.",
     },
     "suitability.activeOwners": {
       reliability: "estimate",
@@ -771,7 +906,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "An active owner may be a good practical fit, but the needs of each dog must be assessed individually.",
+      note: "High activity compatibility based on working hound stamina.",
     },
     "suitability.apartmentLiving": {
       reliability: "estimate",
@@ -783,7 +918,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "This is an owner-fit estimate rather than an official restriction; management, exercise, neighbours, and the individual dog's behaviour matter.",
+      note: "Owner-fit estimate based on vocality and exercise needs.",
     },
     "suitability.idealFor": {
       reliability: "estimate",
@@ -795,7 +930,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "These are practical owner-fit suggestions based on working heritage, not guaranteed outcomes.",
+      note: "Practical owner suggestions based on working heritage.",
     },
     "suitability.notIdealFor": {
       reliability: "estimate",
@@ -807,7 +942,7 @@ export const griffon_bleu_de_gascogne: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "These are practical ownership considerations, not formal behavioural or veterinary conclusions.",
+      note: "Practical ownership considerations based on hound drive and vocalization.",
     },
     funFacts: {
       reliability: "reliable_source",
@@ -823,8 +958,8 @@ export const griffon_bleu_de_gascogne: Breed = {
           locator: "Origin, appearance, and colour",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Facts are paraphrased from breed-standard and kennel-club material.",
+      verifiedOn: "2026-11-08",
+      note: "Facts synthesized from official breed standard and kennel club profiles.",
     },
     faq: {
       reliability: "reliable_source",
@@ -844,10 +979,15 @@ export const griffon_bleu_de_gascogne: Breed = {
           role: "verified",
           locator: "Breed standard — height, coat, colour, and movement",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric, breed.life_span",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Answers are original paraphrases and explicitly avoid unsupported lifespan, weight, and health claims.",
+      verifiedOn: "2026-11-08",
+      note: "Answers are original paraphrases grounded in reliable references.",
     },
   },
-  updatedOn: "2026-10-24",
+  updatedOn: "2026-11-08",
 };

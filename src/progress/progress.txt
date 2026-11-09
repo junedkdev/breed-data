@@ -61,19 +61,19 @@
 58:gordon_setter - CG
 59:afghan_hound - CG
 60:chow_chow - CG
+61:airedale_terrier - CG
+62:doberman_pinscher - CG
+63:welsh_terrier - CG
+64:finnish_hound - CG
+65:aidi - CG
+66:puli - CG
+67:portuguese_water_dog - CG
+68:chinese_crested_dog - CG
+69:griffon_bleu_de_gascogne - CG
+70:braque_saint-germain - CG
 
-61:airedale_terrier - CR
+71:schipperke - CR
 
-62:doberman_pinscher - C
-63:welsh_terrier - C
-64:finnish_hound - C
-65:aidi - C
-66:puli - C
-67:portuguese_water_dog - C
-68:chinese_crested_dog - C
-69:griffon_bleu_de_gascogne - C
-70:braque_saint-germain - C
-71:schipperke - C
 72:braque_d'auvergne - C
 73:english_toy_terrier_(black_&_tan) - C
 74:clumber_spaniel - C
@@ -133,19 +133,20 @@
 128:kuvasz - C
 129:schillerstovare - C
 130:american_staffordshire_terrier - C
+131:beagle-harrier - C
+132:treeing_walker_coonhound - C
+133:segugio_italiano_a_pelo_raso - C
+134:cao_de_castro_laboreiro - C
+135:american_eskimo_dog - C
+136:finnish_spitz - C
+137:transylvanian_hound - C
+138:hamiltonstovare - C
+139:basset_hound - C
+140:greenland_dog - C
+141:estrela_mountain_dog - C
 
-131:beagle-harrier
-132:treeing_walker_coonhound
-133:segugio_italiano_a_pelo_raso
-134:cao_de_castro_laboreiro
-135:american_eskimo_dog
-136:finnish_spitz
-137:transylvanian_hound
-138:hamiltonstovare
-139:basset_hound
-140:greenland_dog
-141:estrela_mountain_dog
-142:west_highland_white_terrier
+142:west_highland_white_terrier - R
+
 143:patterdale_terrier
 144:istrian_coarse-haired_hound
 145:appenzeller_sennenhund

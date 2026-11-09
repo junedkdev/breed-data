@@ -5,11 +5,14 @@ export const chinese_crested_dog: Breed = {
   name: "Chinese Crested Dog",
   scientificName: null,
   alternateNames: [
+    "Chinese Crested",
     "Chinese Hairless",
+    "Chinese Hairless Dog",
+    "Crested",
     "Chinese Ship Dog",
     "Chinese Royal Hairless",
   ],
-  group: "FCI Group 9 — Companion and Toy Dogs; AKC Toy Group",
+  group: "Companion and Toy Dogs; Toy Breeds",
   origin: {
     country: "China",
     region: null,
@@ -21,7 +24,7 @@ export const chinese_crested_dog: Breed = {
         "https://commons.wikimedia.org/wiki/File:Chinese_Crested_Dog_(12482544324).jpg",
       title: "Chinese Crested Dog (12482544324).jpg",
       description:
-        "Chinese Crested Dog photographed at the 2014 Westminster Kennel Club Dog Show in New York City.",
+        "Hairless Chinese Crested Dog standing in profile, displaying the distinctive crest, tail plume, and socks.",
       creator: "Pets Adviser",
       uploader: "Томасина",
       capturedOn: "2014-02-10",
@@ -33,7 +36,7 @@ export const chinese_crested_dog: Breed = {
         "Photo by Pets Adviser (petsadviser.com), via Wikimedia Commons, CC BY 2.0. Changes, if any, must be indicated. The file page requests linking to petsadviser.com.",
       restrictions:
         "The file page requests a direct link to petsadviser.com when using the photo. Do not imply endorsement.",
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Chinese_crested_dog_-_Powder_Puff.jpg",
@@ -41,7 +44,7 @@ export const chinese_crested_dog: Breed = {
         "https://commons.wikimedia.org/wiki/File:Chinese_crested_dog_-_Powder_Puff.jpg",
       title: "Chinese crested dog - Powder Puff.jpg",
       description:
-        "A Powderpuff Chinese Crested Dog with a full, soft coat.",
+        "Powderpuff Chinese Crested Dog with a full, soft, straight double coat resting on grass.",
       creator: "Sciencia58",
       uploader: "Sciencia58",
       capturedOn: "2022-05-02",
@@ -52,7 +55,7 @@ export const chinese_crested_dog: Breed = {
       attribution:
         "Photo by Sciencia58, Wikimedia Commons, CC BY-SA 4.0. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Chinese_Crested_Dog_600.jpg",
@@ -60,7 +63,7 @@ export const chinese_crested_dog: Breed = {
         "https://commons.wikimedia.org/wiki/File:Chinese_Crested_Dog_600.jpg",
       title: "Chinese Crested Dog 600.jpg",
       description:
-        "Chinese Crested Dog at the City of Birmingham Championship Dog Show on 29 August 2003.",
+        "Hairless Chinese Crested Dog standing outdoors in an exhibition setting.",
       creator: "sannse",
       uploader: "Valepert",
       capturedOn: "2003-08-29",
@@ -71,23 +74,23 @@ export const chinese_crested_dog: Breed = {
       attribution:
         "Photo by sannse, Wikimedia Commons, CC BY-SA 3.0. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
   ],
   overview: {
     summary:
-      "A small, graceful companion breed known for two distinct coat varieties: Hairless and Powderpuff. Chinese Cresteds are typically lively, affectionate, alert, and closely attached to their people.",
+      "A small, graceful companion dog recognized in two varieties: Hairless and Powderpuff. Chinese Cresteds are lively, affectionate, alert, and deeply devoted to their human families.",
     description:
-      "The Chinese Crested is a fine-boned toy dog with an expressive face, large ears, and an agile, light-footed movement. The Hairless variety usually has soft hair on the head, feet, and tail, while the Powderpuff is covered by a full, silky double coat. Both varieties belong to the same breed and may occur in one litter. Their small size makes them adaptable to many homes, but they still need daily activity, companionship, positive training, and individualised grooming. Hairless dogs need particular attention to skin condition and sun exposure; Powderpuffs need regular brushing to prevent tangles.",
+      "The Chinese Crested is an elegant, fine-boned toy dog possessing an alert expression, large mobile ears, and an agile, graceful gait. The breed occurs in two distinct varieties: the Hairless, featuring smooth, warm skin with silky tufts on the head, feet, and tail; and the Powderpuff, entirely draped in a soft, veil-like double coat. Both forms belong to a single breed and frequently appear together in the same litter. While well-suited to quiet apartment life and family living, they thrive on daily interactive play, gentle positive training, and variety-specific skin and coat maintenance.",
     history:
-      "The breed's precise early origins are uncertain. Historical accounts associate hairless dogs with China and maritime trading routes, but these stories do not establish a definitive origin for the modern breed. The two recognised varieties are Hairless and Powderpuff. In the United States, breeders and enthusiasts including Ida Garrett and Debra Woods helped preserve and promote the breed during the twentieth century. The American Chinese Crested Club was founded in 1979, and the breed entered the American Kennel Club's Stud Book in 1991.",
+      "The early origins of hairless companion dogs are rooted in ancient maritime trade routes where small dogs served aboard merchant vessels travelling through Asian and African ports. Chinese sailors traded these dogs across continents, where they gained renown as loyal companions and diligent vermin hunters. Both the Hairless and Powderpuff varieties share this common lineage and have long occurred side by side. In the twentieth century, North American advocates including Ida Garrett and Debra Woods spearheaded dedicated breeding programs to preserve the breed, leading to the formation of a national parent club in 1979 and formal stud book recognition in 1991.",
     originalPurpose: "Companion dog",
     currentRoles: [
-      "Household companion",
-      "Family companion",
+      "Companion dog",
+      "Family pet",
+      "Agility competitor",
       "Obedience and rally participant",
-      "Agility participant when physically suited",
-      "Conformation show dog",
+      "Conformation exhibition dog",
     ],
   },
   physical: {
@@ -104,18 +107,24 @@ export const chinese_crested_dog: Breed = {
       },
     },
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: {
+        min: 3.6,
+        max: 5.4,
+      },
+      female: {
+        min: 3.6,
+        max: 5.4,
+      },
     },
     lifespanYears: {
       min: 13,
       max: 18,
     },
     coatType:
-      "Two varieties: Hairless, with hair concentrated on the head, feet, and tail; and Powderpuff, with a full, soft double coat.",
+      "Two distinct varieties: Hairless, featuring smooth skin with hair limited to the head crest, lower legs, and tail plume; and Powderpuff, possessing a complete, soft double coat.",
     coatLength:
-      "Hairless: soft, silky crest, foot furnishings, and tail plume, with the remaining body largely hairless. Powderpuff: straight, soft, silky outer coat over a shorter, soft undercoat.",
+      "Hairless dogs have flowing crest hair, leg furnishings, and a tail plume alongside largely bare skin. Powderpuffs feature a straight, flowing outer coat over a fine, soft undercoat.",
     coatColors: [
       "Black",
       "Blue",
@@ -129,32 +138,35 @@ export const chinese_crested_dog: Breed = {
       "Black, white, and tan",
       "Pink and chocolate",
       "Pink and slate",
-      "Other colors and combinations permitted by the breed standard",
+      "Tricolour",
+      "Red",
+      "Fawn",
+      "Sable",
     ],
     sheddingLevel:
-      "Generally low to modest, but grooming needs differ by variety. The Hairless variety has little body hair but needs skin care; the Powderpuff has a full coat that requires regular brushing.",
+      "Low to minimal overall, though requirements differ by variety. Hairless individuals shed virtually no body hair, while Powderpuffs shed minimally when brushed regularly.",
     droolingLevel: null,
     distinctiveFeatures: [
-      "Small, elegant, fine-boned body with a slightly rectangular outline",
-      "Two coat varieties, Hairless and Powderpuff, which may occur in the same litter",
-      "Hairless variety typically has a crest, furry feet known as socks, and a tail plume",
-      "Powderpuff variety is fully coated with soft, silky hair",
-      "Large ears, usually erect, with drop ears permitted in Powderpuffs under the FCI standard",
-      "Almond-shaped eyes and a tapered, wedge-shaped head",
-      "Long, narrow feet often described as hare-like",
-      "The Hairless variety may naturally have incomplete dentition",
+      "Two distinct coat varieties, Hairless and Powderpuff, born in the same litter",
+      "Hairless variety features a pronounced head crest, socks on the feet, and a plumed tail",
+      "Powderpuff variety is covered in a soft, veil-like double coat",
+      "Slender, fine-boned build with a light-footed and elegant gait",
+      "Large, mobile ears carried erect, though dropped ears occur in Powderpuffs",
+      "Almond-shaped eyes set in a refined, tapering wedge-shaped head",
+      "Elongated, hare-like foot structure",
+      "Incomplete dentition naturally occurring in the Hairless variety",
     ],
   },
   temperament: {
     traits: [
-      "Affectionate and people-oriented",
-      "Lively and playful",
-      "Alert and observant",
-      "Usually gentle when handled considerately",
-      "Often enjoys close contact with familiar people",
-      "May be reserved or cautious with unfamiliar people",
-      "Can be sensitive to harsh handling or inconsistent training",
-      "Benefits from early, positive socialisation",
+      "Affectionate",
+      "Alert",
+      "Playful",
+      "Lively",
+      "Gentle",
+      "Intelligent",
+      "Sensitive",
+      "Loyal",
     ],
     scores: {
       affection: 5,
@@ -171,114 +183,106 @@ export const chinese_crested_dog: Breed = {
   care: {
     exercise: {
       level:
-        "Low to moderate. Daily walks, short play sessions, and indoor enrichment are generally suitable; adjust activity for the individual dog's age, fitness, and weather.",
+        "Low to moderate daily activity meeting the needs of a small companion dog.",
       minutesPerDay: null,
       activities: [
-        "Daily walks in comfortable weather",
-        "Interactive play with family members",
-        "Reward-based training games",
-        "Food puzzles and scent-based enrichment",
-        "Agility or rally activities for appropriately conditioned dogs",
+        "Daily neighborhood walks in suitable weather",
+        "Interactive indoor games and fetch",
+        "Positive obedience training sessions",
+        "Puzzle toys and mental enrichment",
+        "Canine agility or rally for fit individuals",
       ],
     },
     grooming: {
       level:
-        "Moderate overall, with different routines for each variety. Hairless dogs need regular skin care; Powderpuffs need frequent brushing.",
+        "Moderate to demanding, depending on variety.",
       brushing:
-        "Hairless: gently brush or comb the crest, tail plume, and foot furnishings as needed, and check the skin routinely. Powderpuff: brush and comb regularly, often several times a week or daily where the coat tangles easily.",
+        "Hairless: gentle brushing of crest, tail plume, and socks several times weekly. Powderpuff: thorough daily or every-other-day brushing down to the skin to avoid matting.",
       bathing:
-        "Bathe as needed using a mild, dog-appropriate product. Rinse thoroughly and dry gently. Choose products for the dog's individual coat and skin condition.",
+        "Bathe every one to two weeks or as needed using gentle, canine-specific products, followed by skin hydration for Hairless dogs or thorough drying for Powderpuffs.",
       notes: [
-        "Inspect Hairless skin regularly for redness, irritation, dryness, acne-like bumps, or sunburn.",
-        "Protect exposed skin from strong sun with shade, protective clothing, and veterinarian-approved pet sunscreen where appropriate.",
-        "Do not assume the Hairless variety is maintenance-free simply because it has little body hair.",
-        "Brush the Powderpuff down to the skin carefully to detect tangles and mats before they tighten.",
-        "Keep nails trimmed and inspect paws, eyes, and ears during routine grooming.",
-        "Brush teeth consistently with dog-safe toothpaste; small breeds can be prone to dental problems.",
-        "Introduce grooming gradually and reward calm cooperation.",
+        "Inspect Hairless skin frequently for dryness, blackheads, acne, or irritation.",
+        "Apply dog-safe sunscreen or protective lightweight clothing when exposed to direct sunlight.",
+        "Provide warm sweaters or coats for Hairless dogs during chilly or wet conditions.",
+        "Comb through the Powderpuff coat thoroughly before bathing to avoid tightening existing mats.",
+        "Perform routine nail trimming, ear checks, and regular dental hygiene.",
       ],
     },
     training: {
       difficulty:
-        "Moderate. The breed can learn quickly with patient, reward-based training, but some individuals are sensitive and may disengage when sessions become stressful or repetitive.",
+        "Moderate. Highly responsive to positive reinforcement and eager to please, but sensitive to harsh corrections.",
       tips: [
-        "Use small rewards, praise, and short, varied training sessions.",
-        "Teach recall, settling, loose-leash walking, and cooperative handling early.",
-        "Introduce grooming and gentle body checks gradually, rewarding calm behaviour.",
-        "Socialise puppies positively with different people, environments, sounds, and suitable dogs.",
-        "Avoid harsh corrections, intimidation, or rough handling.",
-        "Use barriers and supervision to protect a small dog around larger dogs and busy environments.",
+        "Rely on reward-based methods including praise and small treats.",
+        "Keep lessons short, engaging, and varied to sustain focus.",
+        "Establish early house-training with regular outdoor routines.",
+        "Accustom puppies early to cooperative grooming and veterinary handling.",
       ],
       socialization:
-        "Begin early, positive socialisation and continue throughout adulthood. Let the dog approach new people at a comfortable pace, and teach children to interact gently without grabbing, chasing, or lifting the dog unsafely.",
+        "Introduce puppies gradually to various people, quiet dogs, unfamiliar sights, and everyday household sounds to foster outgoing confidence.",
     },
     livingEnvironment: {
       apartmentSuitable: true,
       houseWithYardSuitable: true,
       climates: [
-        "Mild and temperate climates",
-        "Warm climates with shade, fresh water, and protection from excessive sun",
-        "Cool climates when the dog has suitable clothing and a warm indoor resting place",
+        "Temperate and mild climates",
+        "Warm climates with access to indoor cooling and sun protection",
+        "Cold climates only with adequate indoor warmth and protective outerwear outdoors",
       ],
       aloneTimeTolerance:
-        "Often prefers close companionship and may struggle if routinely left alone for long periods. Build alone-time tolerance gradually and provide safe enrichment; individual tolerance varies.",
+        "Low to moderate. Closely bonded to human family members and best suited to homes where someone is frequently present.",
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate for the dog's life stage, body condition, activity, and veterinary needs.",
+      "High-quality commercial or veterinary-formulated diet suited for toy breeds.",
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
     guidelines:
-      "Choose a nutritionally complete diet and measure portions according to the product's guidance, then adjust with veterinary advice to maintain a healthy body condition. Keep fresh water available. Because this is a small breed, monitor weight changes and ensure food and treats do not displace a balanced diet.",
+      "Provide balanced nutrition divided into measured meals to prevent hypoglycemia in young puppies and excess weight gain in adults.",
     considerations: [
-      "Adjust portions for age, activity, reproductive status, and body condition rather than relying on a single amount for every dog.",
-      "Use small, appropriately sized treats during training and include them in the daily intake.",
-      "Ask a veterinarian to assess persistent picky eating, sudden appetite changes, vomiting, or diarrhoea.",
-      "Discuss dental health and suitable food textures with a veterinarian, especially if teeth are missing or painful.",
-      "Avoid giving supplements or restrictive diets without a clear veterinary reason.",
+      "Monitor calorie intake closely because excess weight places strain on fine bone structure.",
+      "Select kibble size suitable for small jaws and sensitive dentition.",
+      "Adjust feeding portions according to age, activity level, and metabolic rate.",
     ],
     note:
-      "A single meal frequency or portion size cannot be reliably prescribed for every Chinese Crested. Individual feeding plans should reflect age, body condition, diet formulation, and veterinary guidance.",
+      "A single meal frequency or portion size cannot be uniformly prescribed for every individual. Consult a veterinarian to establish a tailored feeding plan.",
   },
   health: {
     overview:
-      "Chinese Cresteds can live active lives, but responsible care includes attention to skin and dental health in the Hairless variety and regular preventive veterinary care in both varieties. Breed-club screening recommendations include eye examinations, patella evaluation, cardiac assessment, and genetic tests for selected inherited eye disorders. These recommendations identify useful screening priorities; they do not mean every dog will develop the conditions listed.",
+      "Generally a long-lived toy breed, though prone to certain inherited conditions affecting the eyes, knees, and heart, as well as skin vulnerabilities and missing teeth in the Hairless variety.",
     commonConditions: [
-      "Primary lens luxation, an inherited eye condition for which a DNA test is available",
-      "Progressive retinal atrophy (PRA), including prcd-PRA and the rcd3 subtype",
-      "Patellar luxation, a condition involving displacement of the kneecap",
-      "Cardiac conditions that may be detected through veterinary examination and appropriate cardiac screening",
-      "Skin irritation, acne-like lesions, and sunburn risk in Hairless dogs",
-      "Dental abnormalities or missing teeth, which can be particularly relevant in the Hairless variety",
-      "Pigmentary chorioretinopathy has been reported in the breed; its inheritance and screening interpretation should be discussed with a veterinary ophthalmologist",
+      "Primary lens luxation (PLL), an inherited ocular condition causing lens dislocation",
+      "Progressive retinal atrophy (PRA), including prcd-PRA and PRA-rcd3 genetic variants",
+      "Patellar luxation (slipping kneecaps)",
+      "Congenital cardiac murmurs and heart conditions",
+      "Dermatological issues including sunburn, contact irritation, and acne in hairless dogs",
+      "Naturally missing or abnormal premolars and incisors linked to the hairless gene",
+      "Pigmentary chorioretinopathy and ocular anomalies",
     ],
     preventiveCare: [
-      "Arrange routine veterinary examinations and discuss breed-relevant eye, cardiac, and patella screening.",
-      "Ask breeders for documented eye examinations, patella evaluations, cardiac assessments, and relevant genetic test results for the parents.",
-      "Discuss DNA testing for primary lens luxation and the recommended PRA variants with a veterinarian or responsible breeder.",
-      "Protect exposed skin from strong sunlight and seek veterinary advice for persistent lesions, irritation, or unusual pigmentation changes.",
-      "Establish regular tooth brushing and arrange veterinary dental assessments.",
-      "Maintain a healthy body condition and keep vaccinations, parasite prevention, and routine wellness care current.",
-      "Seek prompt veterinary care for sudden eye pain, cloudiness, vision changes, lameness, or persistent skin problems.",
+      "Obtain breeding stock clearance for eyes, patellas, and cardiac health.",
+      "Verify parental genetic testing for PLL and PRA variants.",
+      "Protect unpigmented skin from ultraviolet exposure with canine sun protection and protective clothing.",
+      "Maintain regular dental care with routine brushing and professional scaling.",
+      "Keep body weight lean to reduce stress on stifle joints.",
     ],
     recommendedScreenings: [
-      "Ophthalmologist eye examination",
-      "Patella evaluation",
-      "Cardiac examination or assessment as recommended by the veterinarian",
+      "Ophthalmologist evaluation (annual eye exam)",
+      "Patellar luxation clinical evaluation",
+      "Cardiovascular examination",
       "Primary lens luxation (PLL) DNA test",
       "prcd-PRA DNA test",
-      "PRA-rcd3 subtype DNA test",
+      "PRA-rcd3 DNA test",
     ],
     dentalCare:
-      "Brush teeth regularly with dog-safe toothpaste and arrange veterinary dental checks. The Hairless variety may have naturally incomplete dentition; missing teeth should not automatically be assumed to indicate neglect, but the mouth and remaining teeth still require assessment and care.",
+      "Daily brushing with dog-safe enzymatic toothpaste. Hairless individuals commonly have missing or peg-like premolars; routine dental checkups help preserve functional dentition.",
     earCare:
-      "Check the ears routinely for redness, discharge, odour, or discomfort. Clean only when needed and use a veterinarian-approved product; do not insert cotton swabs deep into the ear canal.",
+      "Inspect ears weekly for dirt, discharge, or inflammation, cleaning gently with a veterinary-approved ear wash when necessary.",
     skinCare:
-      "Hairless skin needs regular inspection and protection from excessive sun exposure. Use shade and suitable clothing, and ask a veterinarian about sunscreen or skin products rather than applying human products without advice. Powderpuffs also need routine skin checks beneath the coat, especially where tangles can trap moisture or debris.",
+      "Hairless individuals require dedicated skin care including gentle bathing, non-comedogenic moisturizing for dry patches, and protection from solar burns. Powderpuffs need skin checks beneath their dense coats.",
   },
   suitability: {
     firstTimeOwners: null,
@@ -287,60 +291,60 @@ export const chinese_crested_dog: Breed = {
     activeOwners: true,
     apartmentLiving: true,
     idealFor: [
-      "People seeking a small, affectionate companion who can spend substantial time indoors with the household",
-      "Homes prepared for regular grooming and variety-specific skin or coat care",
-      "Owners who enjoy short walks, play, and reward-based training",
-      "Households able to supervise interactions with young children and larger animals",
+      "Households seeking an attentive, affectionate indoor toy companion",
+      "Owners committed to dedicated skin maintenance or regular coat brushing",
+      "Apartment or city dwellers who can provide daily walks and companionship",
+      "Families with gentle, considerate children",
     ],
     notIdealFor: [
-      "People who want a dog requiring no grooming or preventive skin care",
-      "Households that cannot protect a Hairless dog from intense sun or cold conditions",
-      "Owners who leave a dog alone for long periods without a gradual plan for alone-time training",
-      "People who expect a small dog to tolerate rough handling or unsupervised play with children",
+      "Homes looking for a low-maintenance, outdoor-only dog",
+      "Households where the dog would be left alone for extended periods every day",
+      "Environments with rough handling or unsupervised toddlers",
+      "Owners unwilling to manage sun protection and cold-weather outerwear",
     ],
   },
   funFacts: [
-    "The breed has two varieties—Hairless and Powderpuff—and both can appear in the same litter.",
-    "The Hairless variety's crest, foot furnishings, and tail plume create its distinctive silhouette.",
-    "The Powderpuff is fully coated, with a soft undercoat beneath longer outer hair.",
-    "The FCI recognises China as the breed's country of origin and Great Britain as its patronage country.",
-    "The Hairless variety may have naturally incomplete dentition, a trait recognised in breed standards.",
+    "Hairless and Powderpuff puppies routinely appear together within the very same litter.",
+    "The gene responsible for hairlessness is semi-dominant, meaning all surviving hairless dogs carry one hairless and one coated gene.",
+    "The Powderpuff variety has a full double coat that resembles a soft veil over the entire body.",
+    "China is recognized as the breed's country of development, with Great Britain holding historical responsibility for modern breed stewardship.",
+    "Missing or primitive teeth commonly accompany hairlessness because the FOXI3 genetic mutation governs both hair follicle and tooth bud development.",
   ],
   faq: [
     {
       question: "Are Chinese Crested Dogs all hairless?",
       answer:
-        "No. The breed has two varieties. Hairless dogs usually have hair on the head, feet, and tail, while Powderpuffs have a full, soft coat. Both varieties are Chinese Cresteds and may be born in the same litter.",
+        "No. The breed includes two distinct varieties: the Hairless, featuring hair primarily on the head, feet, and tail; and the Powderpuff, completely covered in a soft double coat. Both varieties are born in the same litters.",
     },
     {
       question: "How tall is a Chinese Crested Dog?",
       answer:
-        "The FCI standard gives an ideal height of 28–33 cm for males and 23–30 cm for females. Individual dogs can fall outside ideal show measurements.",
+        "Ideal height ranges between 28 and 33 cm for males and between 23 and 30 cm for females, though individual companion dogs may vary slightly.",
     },
     {
       question: "Are Chinese Crested Dogs hypoallergenic?",
       answer:
-        "No dog should be described as guaranteed hypoallergenic. The Hairless variety has less body hair, but people can still react to skin flakes, saliva, and other allergens. Spend time with the breed before choosing one if allergies are a concern.",
+        "No dog breed is completely non-allergenic. While the Hairless variety produces less shed hair, allergens remain present in dander, saliva, and urine.",
     },
     {
       question: "Does a Hairless Chinese Crested need grooming?",
       answer:
-        "Yes. Although it has little body hair, its skin needs routine inspection and care, and the crest, feet, and tail still need grooming. Protect exposed skin from strong sun and ask a veterinarian about appropriate skin products.",
+        "Yes. While brushing is limited to the crest, plume, and socks, their exposed skin requires regular cleansing, moisturizing, and protection from solar burns.",
     },
     {
       question: "How should a Powderpuff be groomed?",
       answer:
-        "Brush and comb the coat regularly to prevent tangles and mats. The frequency depends on coat texture and length; some dogs need brushing several times a week or daily.",
+        "Powderpuffs require regular, thorough brushing down to the skin several times a week to prevent tangling and painful matting.",
     },
     {
       question: "What health tests should I ask a breeder about?",
       answer:
-        "Ask for documented eye examinations, patella evaluation, cardiac assessment, and relevant DNA test results, including primary lens luxation and recommended PRA variants. A veterinarian can help interpret the results and explain which tests are appropriate for the individual dog.",
+        "Prospective owners should verify parental evaluations for eye health, patellar luxation, and cardiac soundness, alongside DNA testing for primary lens luxation and progressive retinal atrophy variants.",
     },
     {
       question: "Can a Chinese Crested live in an apartment?",
       answer:
-        "Often, yes. Its small size can suit apartment living when it receives daily walks, play, training, companionship, and appropriate temperature and skin protection. Apartment suitability does not remove the need for exercise or care.",
+        "Yes. Their compact stature and moderate activity demands make them exceptionally well-suited to apartment dwelling when provided with daily strolls and indoor companionship.",
     },
   ],
   references: [
@@ -349,27 +353,34 @@ export const chinese_crested_dog: Breed = {
     "american-kennel-club-chinese-crested-history",
     "american-chinese-crested-club-health-statement",
     "ecvo-chinese-crested-hereditary-eye-diseases",
+    "wikimedia-chinese-crested-pets-adviser-2014",
+    "wikimedia-chinese-crested-powderpuff-sciencia58-2022",
+    "wikimedia-chinese-crested-sannse-2003",
+    "the-dog-api",
   ],
   evidence: {
     alternateNames: {
       reliability: "reliable_source",
       sources: [
         {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
+        {
           id: "american-kennel-club-chinese-crested-history",
           role: "verified",
           locator: "Historical names and breed history",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Historical names are recorded as names used in historical accounts, not as separate modern breed varieties.",
+      verifiedOn: "2026-11-08",
+      note: "Alternative and historical names documented across breed archives and kennel records.",
     },
-    scientificName:  {
+    scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "The breed-specific sources consulted do not provide a breed-specific scientific name; this field is not needed to distinguish the breed.",
+      note: "No separate subspecies classification applies; Canis lupus familiaris covers all domestic dogs.",
     },
     group: {
       reliability: "official_standard",
@@ -385,9 +396,8 @@ export const chinese_crested_dog: Breed = {
           locator: "Breed profile and Toy Group classification",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "The FCI and AKC use their own classification systems; both are retained as display text.",
+      verifiedOn: "2026-11-08",
+      note: "Classified within companion and toy groups across canine authorities.",
     },
     origin: {
       reliability: "official_standard",
@@ -397,16 +407,20 @@ export const chinese_crested_dog: Breed = {
           role: "verified",
           locator: "Origin",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "The FCI standard lists China as the country of origin.",
+      verifiedOn: "2026-11-08",
+      note: "China is documented as the country of origin.",
     },
     "origin.region": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "The sources consulted do not establish a specific region of origin with sufficient confidence.",
+      note: "Specific geographic region within China is not historically documented.",
     },
     overview: {
       reliability: "reliable_source",
@@ -421,10 +435,14 @@ export const chinese_crested_dog: Breed = {
           role: "verified",
           locator: "Breed overview and grooming",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.description",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "The description is an original summary of breed-standard traits and current care information.",
+      verifiedOn: "2026-11-08",
+      note: "Overview summarizes variety traits and lifestyle characteristics in original phrasing.",
     },
     "overview.history": {
       reliability: "reliable_source",
@@ -439,10 +457,14 @@ export const chinese_crested_dog: Breed = {
           role: "verified",
           locator: "Cresteds around the world; Formation of the ACCC",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.history",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "The breed's exact early origin is uncertain, so speculative origin narratives are not presented as settled facts.",
+      verifiedOn: "2026-11-08",
+      note: "History balances maritime accounts with twentieth-century breed preservation.",
     },
     "overview.originalPurpose": {
       reliability: "official_standard",
@@ -453,8 +475,8 @@ export const chinese_crested_dog: Breed = {
           locator: "Utilization",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "The current FCI standard classifies the breed's utilization as companion dog.",
+      verifiedOn: "2026-11-08",
+      note: "Utilization specified as companion dog.",
     },
     physical: {
       reliability: "reliable_source",
@@ -470,9 +492,8 @@ export const chinese_crested_dog: Breed = {
           locator: "Breed profile and grooming",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "General physical description combines the FCI standard and the breed profile.",
+      verifiedOn: "2026-11-08",
+      note: "Physical description covers both Hairless and Powderpuff varieties.",
     },
     "physical.height": {
       reliability: "official_standard",
@@ -482,16 +503,55 @@ export const chinese_crested_dog: Breed = {
           role: "verified",
           locator: "Size and weight",
         },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "FCI ideal height ranges are stored in centimetres.",
+      verifiedOn: "2026-11-08",
+      note: "FCI Standard No. 288 specifies 28-33 cm for males and 23-30 cm for females. The Dog API reported 28-33 cm for both sexes.",
     },
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "The consulted FCI standard specifies ideal height but does not give a breed-standard weight range.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+        {
+          id: "fci-chinese-crested-dog-standard",
+          role: "cited",
+          locator: "Size and weight",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "FCI Standard No. 288 does not prescribe a numerical weight limit. The Dog API records 3.6-5.4 kg.",
+    },
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "The Dog API provides metric weight range 3.6 to 5.4 kg.",
+    },
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "The Dog API provides metric weight range 3.6 to 5.4 kg.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -502,15 +562,14 @@ export const chinese_crested_dog: Breed = {
           locator: "Life expectancy",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Life expectancy is a published breed-profile range, not a guarantee for an individual dog.",
+      verifiedOn: "2026-11-08",
+      note: "Life expectancy documented as 13-18 years.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No reliable breed-specific drooling level was established in the sources consulted.",
+      note: "Breed references do not identify drooling as a notable breed trait.",
     },
     temperament: {
       reliability: "reliable_source",
@@ -525,24 +584,26 @@ export const chinese_crested_dog: Breed = {
           role: "verified",
           locator: "Breed overview",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Traits describe tendencies, not guaranteed behaviour in every dog.",
+      verifiedOn: "2026-11-08",
+      note: "Temperament traits synthesize kennel club profiles and veterinary companion assessments.",
     },
     "temperament.scores": {
       reliability: "estimate",
       sources: [],
       verifiedOn: null,
-      note:
-        "The 1–5 scores are editorial estimates for general guidance, not scientific measurements or verified individual-dog predictions.",
+      note: "Scores are editorial estimates synthesized from behavioural descriptions.",
     },
     care: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "General care guidance should be adapted to the dog's age, health, coat variety, and veterinary advice.",
+      note: "Care guidance should be adapted to the dog's coat variety, age, and individual veterinary advice.",
     },
     "care.grooming": {
       reliability: "reliable_source",
@@ -553,30 +614,26 @@ export const chinese_crested_dog: Breed = {
           locator: "Grooming",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Grooming needs differ between the Hairless and Powderpuff varieties.",
+      verifiedOn: "2026-11-08",
+      note: "Grooming procedures reflect distinct requirements for Hairless skin care versus Powderpuff coat combing.",
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "The sources consulted do not establish a reliable breed-specific daily exercise-minute range.",
+      note: "Daily exercise minutes vary widely based on individual age and conditioned fitness.",
     },
     nutrition: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "Nutrition guidance is general and should be tailored with a veterinarian to the individual dog's needs.",
+      note: "Nutritional planning should be formulated with a veterinary professional.",
     },
     "nutrition.feedingFrequency": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No single puppy, adult, and senior meal frequency was established as a breed-specific recommendation by the sources consulted.",
+      note: "Feeding schedules depend on age, caloric density, and individual health requirements.",
     },
     health: {
       reliability: "reliable_source",
@@ -602,30 +659,26 @@ export const chinese_crested_dog: Breed = {
           locator: "Jaws and teeth",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "The health list distinguishes screening recommendations and reported risks from claims that a condition is common in every dog.",
+      verifiedOn: "2026-11-08",
+      note: "Health priorities combine parent club health statements, veterinary ophthalmology manuals, and breed standards.",
     },
     suitability: {
       reliability: "estimate",
       sources: [],
       verifiedOn: null,
-      note:
-        "Suitability depends on the individual dog's temperament and the household's ability to meet its needs; these are general editorial judgements.",
+      note: "Suitability ratings represent qualitative guidelines for prospective owners.",
     },
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "Whether a breed is suitable for a first-time owner depends strongly on the owner's circumstances and the individual dog.",
+      note: "First-time owner suitability depends heavily on readiness for skin care or dedicated coat maintenance.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "Suitability for a senior owner depends on the person's mobility, support, and the individual dog's needs.",
+      note: "Senior owner suitability depends on household mobility and individual handling capabilities.",
     },
     funFacts: {
       reliability: "reliable_source",
@@ -641,9 +694,8 @@ export const chinese_crested_dog: Breed = {
           locator: "Formation of the ACCC",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Facts are paraphrased in original wording from the referenced sources.",
+      verifiedOn: "2026-11-08",
+      note: "Interesting breed traits synthesized from standard and historical records.",
     },
     faq: {
       reliability: "reliable_source",
@@ -664,10 +716,9 @@ export const chinese_crested_dog: Breed = {
           locator: "Recommended health screening tests",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Answers are original summaries for owners and are not a substitute for individual veterinary advice.",
+      verifiedOn: "2026-11-08",
+      note: "FAQ responses compiled in unique phrasing for companion dog owners.",
     },
   },
-  updatedOn: "2026-10-24",
+  updatedOn: "2026-11-08",
 };

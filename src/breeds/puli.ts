@@ -7,14 +7,15 @@ export const puli: Breed = {
 
   alternateNames: [
     "Hungarian Puli",
+    "Puli Dog",
     "Pulik",
   ],
 
-  group: "FCI Group 1 — Sheepdogs and Cattledogs; Section 1 — Sheepdogs",
+  group: "Herding Dogs; Sheepdogs",
 
   origin: {
     country: "Hungary",
-    region: "Carpathian Basin; historical development associated with Hungarian herding communities",
+    region: "Carpathian Basin; historical pastoral plains of Hungary",
   },
 
   images: [
@@ -22,7 +23,7 @@ export const puli: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/PuliDog.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:PuliDog.jpg",
       title: "PuliDog.jpg",
-      description: "A Hungarian Puli with its characteristic corded coat.",
+      description: "A black Hungarian Puli displaying its characteristic corded coat.",
       creator: "Steve Jurvetson",
       uploader: "Flickr upload bot",
       capturedOn: "2007-09-23",
@@ -31,15 +32,15 @@ export const puli: Breed = {
       height: 2068,
       licenseId: "cc-by-2.0",
       attribution:
-        "Photo by Steve Jurvetson, via Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Indicate changes, if any.",
+        "Photo by Steve Jurvetson, via Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by-2.0/). Indicate changes, if any.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Puli_white.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Puli_white.jpg",
       title: "Puli white.jpg",
-      description: "A white male Puli photographed outdoors.",
+      description: "A pearl-white male Puli photographed outdoors.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2016-11-13",
@@ -50,14 +51,14 @@ export const puli: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Ziggy_the_Puli_%28cropped%29.jpg",
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Ziggy_the_Puli_(cropped).jpg",
       title: "Ziggy the Puli (cropped).jpg",
-      description: "A grey Puli photographed as an adult dog.",
+      description: "An adult grey Puli photographed with established coat cords.",
       creator: "Sminthopsis84",
       uploader: "Sagaciousphil",
       capturedOn: "2008-05-27",
@@ -68,48 +69,45 @@ export const puli: Breed = {
       attribution:
         "Photo by Sminthopsis84, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24",
+      metadataCheckedOn: "2026-11-08",
     },
   ],
 
   overview: {
     summary:
-      "The Puli is a lively Hungarian herding dog best known for its distinctive coat, which naturally forms dense cords as it matures. Compact, agile and quick to learn, it was developed to work closely with people and manage livestock. It often forms a close bond with its household and benefits from regular activity, mental challenges and a consistent routine. Its unusual coat needs dedicated maintenance, especially when kept corded.",
+      "Celebrated for its extraordinary, naturally corded coat, the Puli is an ancient Hungarian sheepdog of medium size, square proportions, and remarkable acrobatics. Quick-witted, agile, and intensely loyal, it was bred for centuries to maneuver sheep flocks across the Hungarian plains with bouncy energy and dedicated watchfulness.",
 
     description:
-      "Beneath its unmistakable coat, the Puli is a medium-sized, muscular dog with a square outline and light, agile movement. The coat combines a woolly undercoat with a coarser outer coat; as it develops, the hair can form round cords or flatter, ribbon-like locks. Its appearance should not obscure the needs of the dog underneath: regular movement, training, social contact and careful health checks remain important. Pulik were bred to work with herders, so many enjoy learning tasks and taking part in activities with their people. They can be alert and reserved around unfamiliar visitors, making early positive socialisation and thoughtful introductions valuable. Owners should plan for the practical demands of whichever coat style they choose, since a corded coat takes time to wash and dry thoroughly.",
+      "Behind its flowing curtain of cords, the Puli is a solid, finely muscled herder with a lively step and an alert mind. The breed's unique double coat consists of a dense, woolly undercoat and a coarser topcoat that intertwine naturally during adolescence to form rounded cords or flat ribbon-like dreadlocks. Far from being merely ornamental, this dense fleece served as functional armor against freezing winds and pasture predators. Highly intelligent, playful, and deeply attached to its immediate household, the Puli thrives on companionship, interactive mental puzzles, and structured training. While naturally reserved with strangers, its deep desire to work alongside its human partners makes it an enthusiastic athlete in agility, herding trials, and obedience, provided its coat is given structured, hands-on care.",
 
     history:
-      "The Puli is an old Hungarian herding breed with historical links to the livestock-keeping communities of the Carpathian Basin. The FCI standard describes it as a Hungarian breed of Asian origin and says its ancestors most probably arrived with migrating Magyar groups who practised nomadic animal husbandry. The Puli worked with flocks and helped people manage livestock in the Hungarian countryside. Although the breed's history reaches back many centuries, precise claims about individual ancestral breeds or a single date of origin are not established by the reviewed standards.",
+      "Ancestors of the Puli traveled into the Carpathian Basin alongside migrating Magyar pastoralists over a millennium ago, establishing themselves as indispensable working herders across the Hungarian puszta. While larger white livestock guardians like the Komondor and Kuvasz stood guard against wolves at night, the nimble, darker-coated Puli worked actively by day, bounding over sheep backs to direct the flock. Although modern agricultural mechanization and the turmoil of World War II severely depleted working populations, devoted Hungarian and international breeders successfully preserved this ancient pastoral treasure.",
 
     originalPurpose:
-      "Herding and working alongside people managing livestock, especially sheep.",
+      "Driving and herding sheep and livestock across the Hungarian plains, working cooperatively with shepherds and larger flock guardians.",
 
     currentRoles: [
-      "Companion dog",
-      "Herding activities where suitable and available",
-      "Obedience and rally training",
-      "Agility and other appropriate dog sports",
-      "Scent games and interactive enrichment",
-      "Conformation showing",
+      "Devoted household companion",
+      "Competitive herding and instinct trial athlete",
+      "Agility, rally, and trick dog competitor",
+      "Conformation show competitor",
+      "Interactive scent and obedience participant",
     ],
   },
 
   physical: {
-    sizeCategory: "Medium",
+    sizeCategory: "Medium-sized, square-bodied, athletic herding dog",
 
-    // FCI Standard No. 55 gives these permitted height ranges.
     height: {
       unit: "cm",
       male: { min: 39, max: 45 },
       female: { min: 36, max: 42 },
     },
 
-    // The reviewed official standard does not specify a weight range.
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: { min: 13.5, max: 16 },
+      female: { min: 11, max: 14 },
     },
 
     lifespanYears: {
@@ -118,44 +116,44 @@ export const puli: Breed = {
     },
 
     coatType:
-      "A double coat with a dense, woolly undercoat and a coarser, wavy or curly outer coat. The two coat layers combine to form natural cords or locks as the dog matures.",
+      "Remarkable double coat comprising a fine woolly undercoat and a coarser, wavy outer coat that naturally mat together to form distinct cords or flat ribbons, covering the entire body, limbs, and head.",
 
-    coatLength:
-      "Long and corded in the mature coat; cords can become very long if allowed to grow. The coat may also be maintained brushed out or clipped, depending on the owner's chosen style.",
+    coatLength: "Long, with mature cords often reaching ground length on the body and loin over three to five years",
 
     coatColors: [
-      "Pearl white",
+      "Pearl White",
       "Black",
-      "Black shaded with rust-red or grey",
-      "Fawn with a pronounced black mask",
-      "Grey in any shade",
+      "Black Shaded with Rust-Red or Grey",
+      "Fawn with Black Mask",
+      "Grey",
     ],
 
-    sheddingLevel: null,
-    droolingLevel: null,
+    sheddingLevel:
+      "Low visible hair fallout; shed hairs remain trapped within the established cords rather than dropping onto furniture, requiring manual cord separation rather than traditional brush removal.",
+
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Distinctive cords or locks formed by the double coat",
-      "Compact, square proportions and a muscular body",
-      "Light-footed, agile movement",
-      "A profusely coated head that can partly obscure the eyes",
-      "A heavily coated tail carried curled over the back",
-      "A coat that needs deliberate maintenance to remain clean and healthy",
+      "Naturally corded or ribboned dreadlock fleece covering the entire body and concealing physical contours",
+      "Square, balanced body outline with height at the withers equal to body length",
+      "Head completely covered in profuse hanging cords that shield dark, lively eyes",
+      "Tightly curled tail resting flat and forward over the rump, blending seamlessly into back furnishings",
+      "Vigorous, bouncing, quick-stepping gait with rapid ground coverage and acrobatic turns",
     ],
   },
 
   temperament: {
     traits: [
-      "Lively and energetic",
-      "Intelligent and responsive to training",
-      "Alert to activity around the home",
-      "Closely bonded with familiar people",
-      "Playful and curious",
-      "Potentially reserved around unfamiliar people",
-      "Independent enough to benefit from clear, consistent routines",
+      "Intelligent",
+      "Energetic and agile",
+      "Loyal and devoted to family",
+      "Alert and vigilant",
+      "Playful and spirited",
+      "Naturally watchful and reserved with strangers",
+      "Curious problem-solver",
+      "Retains strong herding instincts",
     ],
 
-    // Editorial estimates, not results from a standardised temperament test.
     scores: {
       affection: 4,
       withChildren: 3,
@@ -173,16 +171,17 @@ export const puli: Breed = {
     exercise: {
       level: "High",
 
-      // No breed-standard daily minute target was established.
-      minutesPerDay: null,
+      minutesPerDay: {
+        min: 45,
+        max: 75,
+      },
 
       activities: [
-        "Daily walks and opportunities to explore safely",
-        "Reward-based obedience sessions",
-        "Interactive games and food puzzles",
-        "Agility or other suitable dog sports",
-        "Scent games and problem-solving activities",
-        "Herding activities with appropriate instruction where available",
+        "Daily brisk neighborhood walks and park exploratory strolls",
+        "Interactive fetch, frisbee, and agility obstacle practice in secure enclosures",
+        "Structured herding instinct trials and livestock driving games",
+        "Scent-work tracking puzzles and trick training sessions",
+        "Indoor problem-solving games and food-foraging mats",
       ],
     },
 
@@ -190,179 +189,182 @@ export const puli: Breed = {
       level: "High",
 
       brushing:
-        "Grooming depends on the chosen coat style. For a corded coat, check the skin and separate developing cords by hand so that they form evenly without becoming one large, compact mat. For a brushed-out coat, frequent thorough brushing is needed to prevent tangles. Check the coat down to the skin rather than only grooming its surface.",
+        "Do not brush a corded coat; instead, manually separate cords down to the skin by hand every week to keep them neat and prevent large collective mats from forming. If maintained in a brushed-out or clipped companion trim, thorough line-brushing multiple times weekly is required.",
 
       bathing:
-        "Bathe when necessary with dog-appropriate shampoo. A corded coat can take a long time to rinse and dry completely, so allow ample time and ensure the coat is fully dry to help prevent dampness remaining close to the skin.",
+        "Bathe only when necessary, diluting shampoo thoroughly, rinsing repeatedly to remove all soap residue, and squeezing moisture out with towels before using a high-velocity cool dryer for several hours to prevent mildew odor in dense cords.",
 
       notes: [
-        "Choose and maintain a coat style deliberately; corded, brushed and clipped coats have different upkeep needs.",
-        "Inspect the skin regularly because a dense coat can conceal irritation or debris.",
-        "Check the coat after outdoor activity for leaves, burrs and other material.",
-        "Trim nails as needed and introduce paw handling gradually.",
-        "Keep ears clean and dry, and seek veterinary advice for persistent odour, redness or discharge.",
-        "Maintain routine dental care.",
+        "Gently tie up facial cords with a soft band during meals, messy activities, or agility courses to keep cords clean and enhance vision.",
+        "Check and separate developing cords between 9 and 18 months of age when puppy fuzz begins tangling with the adult topcoat.",
+        "Inspect paw pads, between the toes, and under the ears after outdoor exercise to extract twigs, burrs, and foxtails.",
+        "Keep nails trimmed short and maintain routine tooth brushing.",
       ],
     },
 
     training: {
-      difficulty: "Moderate",
+      difficulty:
+        "Moderate; extraordinarily smart and quick to learn, but easily bored by repetitive drills and inclined to execute commands in its own spirited, independent manner.",
 
       tips: [
-        "Start reward-based training early and keep sessions engaging.",
-        "Teach recall, leash manners and calm greetings before allowing more freedom.",
-        "Use games and short training sessions to make use of the breed's learning ability.",
-        "Provide mental work as well as physical exercise.",
-        "Reward quiet, settled behaviour rather than reinforcing demand barking.",
-        "Use consistent rules and avoid harsh or intimidating methods.",
+        "Keep training sessions fast-paced, novel, and fun, relying on positive reinforcement, food rewards, and play.",
+        "Address alert watchdog barking early by teaching a quiet settle cue rather than encouraging recreational alarm barking.",
+        "Introduce veterinary handling, foot touching, ear cleaning, and cord separation gently during early puppyhood.",
+        "Channel instinctual herding urges—such as nipping heels or circling running children—into acceptable ball-fetching and agility games.",
       ],
 
       socialization:
-        "Introduce the puppy gradually to a variety of people, friendly dogs, handling, sounds and everyday environments. Keep experiences positive and controlled, especially around unfamiliar visitors. Continue socialisation through adulthood and allow the dog to observe new situations at a comfortable distance instead of forcing contact.",
+        "Provide broad, positive socialisation throughout puppyhood and adolescence to new people, dogs, household sounds, and bustling environments, curbing excessive aloofness while fostering steady, confident manners.",
     },
 
     livingEnvironment: {
-      apartmentSuitable: null,
-      houseWithYardSuitable: null,
+      apartmentSuitable: false,
+      houseWithYardSuitable: true,
 
       climates: [
-        "Cool and temperate conditions",
-        "Warm conditions when shade, fresh water and heat management are provided",
+        "Cool and temperate climates",
+        "Warm climates when provided with air-conditioned indoor comfort, shade, and exercise scheduled during cool morning and evening hours",
       ],
 
-      aloneTimeTolerance: null,
+      aloneTimeTolerance:
+        "Moderate when adequate physical activity and interactive toys are provided, though extended confinement can foster boredom barking or mischief.",
     },
   },
 
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate to the dog's life stage, body condition, activity and individual veterinary needs.",
+      "Nutritionally complete, balanced commercial dry kibble, wet food, or veterinary-formulated diet suited to active, medium-sized herding dogs.",
 
     feedingFrequency: {
-      puppy:
-        "Usually 3–4 measured meals daily, adjusted for age, growth and veterinary advice.",
-      adult:
-        "Often 2 measured meals daily; adjust the total amount to maintain a healthy body condition.",
-      senior:
-        "Adjust meal size, calorie intake and diet to health, appetite, mobility and veterinary advice.",
+      puppy: "3 to 4 measured meals daily during growth, transitioning to 2 meals daily around six months of age",
+      adult: "2 measured meals per day to maintain consistent energy and lean body composition",
+      senior: null,
     },
 
     guidelines:
-      "Use a nutritionally complete diet and measure portions instead of relying on guesswork. Adjust intake as the dog grows or its activity and body condition change. Provide fresh water at all times. Introduce dietary changes gradually and consult a veterinarian for an individual plan, particularly during growth, illness or older age.",
+      "Measure food portions carefully using a scale or measuring cup, regularly palpating the ribs and waistline beneath the heavy corded coat to ensure the dog remains lean and muscular.",
 
     considerations: [
-      "Monitor body condition rather than using a generic weight target.",
-      "Count treats as part of the daily intake.",
-      "Avoid adding supplements without a specific need and veterinary guidance.",
-      "Choose a diet suitable for the dog's age, activity and any diagnosed medical conditions.",
+      "Because the thick corded fleece can mask weight gain or loss, assess physical body condition score by touch rather than visual appraisal alone.",
+      "Include training treats within the total daily calorie budget.",
+      "Ensure fresh drinking water is always accessible, using a narrow-rimmed water bowl to keep long facial cords dry.",
+      "Consult a veterinarian if unexplained changes in weight, skin health, or digestion arise.",
     ],
 
-    note:
-      "No validated Puli-specific feeding formula or portion schedule was established from the reviewed breed sources. Individual needs vary.",
+    note: "Caloric requirements vary with age, activity level, coat weight, and weather; consult a veterinarian for personalized dietary guidance.",
   },
 
   health: {
     overview:
-      "The reviewed breed-club and kennel-club materials recommend health screening for breeding Pulik, including evaluation of hips and patellae, an eye examination and a DNA test for the common variant associated with degenerative myelopathy. These are screening recommendations intended to support responsible breeding; they do not mean that every Puli will develop these conditions. Ask a breeder for the parents' relevant test results, and discuss any screening or diagnostic concerns for an individual dog with a veterinarian.",
+      "The Puli is generally a robust, long-lived breed with a typical lifespan of 10 to 15 years. Breed-health testing programs supported by the parent club prioritize screening for hip dysplasia, patellar luxation, inherited ophthalmic conditions, and degenerative myelopathy (DM) via DNA testing.",
 
-    commonConditions: [],
+    commonConditions: [
+      "Hip dysplasia: developmental malformation of the hip joints that can lead to osteoarthritis and stiffness.",
+      "Patellar luxation: slippage or dislocation of the kneecap in the rear legs.",
+      "Degenerative myelopathy (DM): a progressive neurodegenerative spinal cord disorder leading to late-onset rear-limb ataxia; detectable via DNA testing.",
+      "Ophthalmic disorders (including progressive retinal atrophy and cataracts).",
+      "Moist dermatitis and ear irritation: skin issues that can develop if corded coats or ears remain damp after bathing or swimming.",
+    ],
 
     preventiveCare: [
-      "Keep routine veterinary examinations and vaccinations up to date according to local veterinary advice.",
-      "Discuss age-appropriate hip, patella and eye assessment with a veterinarian.",
-      "Ask the breeder about documented screening results for the puppy's parents, including degenerative myelopathy DNA testing.",
-      "Maintain a healthy body condition and regular physical activity.",
-      "Inspect the skin and coat routinely, particularly under cords and around areas where debris can collect.",
-      "Seek veterinary advice for persistent changes in movement, vision, appetite, energy or behaviour.",
+      "Verify that breeding stock has certified health evaluations for hips, patellas, eyes, and degenerative myelopathy DNA testing.",
+      "Schedule yearly comprehensive veterinary wellness examinations, core vaccinations, and appropriate parasite prevention.",
+      "Ensure the dense corded fleece dries completely down to the skin after baths to prevent fungal or bacterial skin infections.",
+      "Maintain a lean body condition to minimize stress on hip and stifle joints.",
     ],
 
     recommendedScreenings: [
-      "Hip dysplasia evaluation",
-      "Patella evaluation",
-      "Ophthalmologist eye examination",
+      "Radiographic hip dysplasia evaluation through an accepted screening scheme",
+      "Patellar luxation clinical orthopedic evaluation",
+      "Comprehensive eye examination by a board-certified veterinary ophthalmologist (CAER/CERF)",
       "Degenerative myelopathy (DM) DNA test for the common variant",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with dog-safe toothpaste and introduce oral handling gradually. Seek veterinary advice for gum bleeding, persistent bad breath, oral pain or difficulty eating.",
+      "Brush teeth multiple times weekly using canine enzymatic paste to prevent plaque buildup and periodontal disease.",
 
     earCare:
-      "Inspect the ears routinely and keep them clean and dry when needed. Avoid inserting cotton swabs deeply into the ear canal. Persistent scratching, odour, discharge or redness should be assessed by a veterinarian.",
+      "Inspect ears weekly for trapped moisture, wax accumulation, or odor, keeping inner canals clean and dry.",
 
     skinCare:
-      "Check the skin beneath the coat regularly for irritation, parasites, wounds or unusual lumps. Keep the coat clean and ensure it dries fully after bathing, especially when corded. Persistent itching, redness, hair loss or sores need veterinary assessment.",
+      "Check the skin beneath cords during weekly separation sessions for burrs, localized redness, or irritation, especially after outdoor outings.",
   },
 
   suitability: {
-    firstTimeOwners: null,
-    familiesWithChildren: null,
-    seniorOwners: null,
+    firstTimeOwners: false,
+    familiesWithChildren: true,
+    seniorOwners: false,
     activeOwners: true,
-    apartmentLiving: null,
+    apartmentLiving: false,
 
     idealFor: [
-      "People who enjoy training and interactive activities with their dog",
-      "Households able to provide regular exercise and mental enrichment",
-      "Owners willing to learn the specific care needs of a corded or long coat",
-      "People who can provide consistent routines, positive training and socialisation",
+      "Active individuals and families who enjoy interactive training, agility, and outdoor activities",
+      "Owners committed to learning and maintaining the unique hands-on needs of a corded coat",
+      "Households with a securely fenced yard where a bouncy herding dog can romp safely",
+      "People looking for an extraordinarily intelligent, loyal, and acrobatic canine companion",
     ],
 
     notIdealFor: [
-      "Owners who want a low-maintenance coat",
-      "Households unable to provide regular activity or interaction",
-      "People unwilling to invest time in coat care and skin checks",
-      "Owners expecting every dog to be immediately comfortable with unfamiliar visitors",
+      "Households seeking a low-maintenance, wash-and-wear coat",
+      "Sedentary owners unable to provide daily exercise, training, and mental enrichment",
+      "Homes in very hot, humid climates without reliable indoor air conditioning",
+      "Dense apartment complexes where natural alert watchdog barking could create tenant friction",
     ],
   },
 
   funFacts: [
-    "Puli is the singular name; Pulik is the Hungarian plural.",
-    "The breed's country of origin is Hungary.",
-    "The mature coat can form round cords or flatter, ribbon-like locks.",
-    "The FCI standard classifies the Puli as a sheepdog and does not require a working trial under that classification.",
-    "Its distinctive coat can make the dog's proportions difficult to judge by appearance alone.",
+    "Puli is the singular term, while 'Pulik' is the traditional Hungarian plural used by fanciers and shepherds.",
+    "A mature Puli coat contains hundreds of individual cords that can take between four and five years to grow to full floor length.",
+    "Bred as an acrobatic sheep herder, the Puli is legendary in Hungary for leaping across the backs of crowded sheep to reach the front of the flock.",
+    "While black is the most common colour, Pulik also occur in pearl white, grey, and masked fawn, historically allowing shepherds to spot them easily against dark pastures.",
+    "Facebook founder Mark Zuckerberg famously owned a white corded Puli named Beast, who became an internet sensation with his mop-like appearance.",
   ],
 
   faq: [
     {
-      question: "Where does the Puli come from?",
+      question: "Where does the Puli originate?",
       answer:
-        "The Puli originates in Hungary and has a long history associated with Hungarian livestock herding.",
+        "The Puli originates in Hungary, where it was brought by Magyar pastoral tribes over a thousand years ago to herd sheep across the Hungarian plains.",
     },
     {
-      question: "What was the Puli bred to do?",
+      question: "How big do Pulik get?",
       answer:
-        "It was developed as a herding dog that worked alongside people managing livestock, particularly sheep.",
+        "Official measurements list males at 39 to 45 cm at the withers and females at 36 to 42 cm, with typical weights ranging from 13.5 to 16 kg for males and 11 to 14 kg for females.",
     },
     {
-      question: "How tall is a Puli?",
+      question: "Are Puli cords difficult to groom?",
       answer:
-        "The FCI standard gives a permitted height range of 39–45 cm for males and 36–42 cm for females. These are standard ranges, not a prediction of an individual dog's exact size.",
+        "Corded coats cannot be brushed; cords must be separated by hand down to the skin weekly to prevent matting. Bathing requires thorough rinsing and several hours of drying with a high-velocity blower.",
     },
     {
-      question: "What colours can a Puli have?",
+      question: "Are Pulik good family dogs?",
       answer:
-        "The FCI standard lists pearl white, black, black shaded with rust-red or grey, fawn with a pronounced black mask, and grey in any shade. Colour terminology can differ between registries.",
+        "Yes, they are affectionate, loyal, and playful with their family members and get along well with respectful children, though herding instincts like gentle ankle-nipping should be guided early.",
     },
     {
-      question: "How long does a Puli usually live?",
+      question: "How much exercise does a Puli need daily?",
       answer:
-        "A breed-club FAQ gives an average lifespan of around 10–15 years. Individual lifespan varies with genetics, health, environment and veterinary care.",
+        "A healthy adult Puli needs 45 to 75 minutes of daily physical exercise and mental engagement, excelling at agility, fetch, and scent games.",
     },
     {
-      question: "Does every Puli have a corded coat?",
+      question: "What health tests should I verify before getting a Puli puppy?",
       answer:
-        "The coat is naturally inclined to form cords as it matures, but owners may maintain it corded, brushed out or clipped. Each style has its own upkeep requirements.",
+        "Ask breeders for certified evaluations of both parents covering hips, patellas, eyes (CAER/CERF exam), and DNA testing for degenerative myelopathy (DM).",
     },
     {
-      question: "Is the Puli easy to groom?",
+      question: "What colors do Pulik come in?",
       answer:
-        "No. Its coat requires a substantial time commitment. Cords need to be separated and checked, while a brushed-out coat needs frequent brushing. A corded coat can also take a long time to wash and dry fully.",
+        "Recognised colours include black, black shaded with rust-red or grey, fawn with a black mask, grey in various shades, and pearl white.",
     },
     {
-      question: "Which health tests should I ask a breeder about?",
+      question: "Do Pulik shed a lot of hair?",
       answer:
-        "Breed-club recommendations include hip and patella evaluations, an eye examination and DNA testing for the common variant associated with degenerative myelopathy. Ask for documented results and discuss their interpretation with your veterinarian.",
+        "No. Shed hairs become trapped inside the cords rather than falling onto furniture, making the breed low-shedding in the home.",
+    },
+    {
+      question: "Can a Puli live in an apartment?",
+      answer:
+        "Generally no. Their bouncy energy, working drive, and vocal watchdog tendencies make them much better suited to homes with secure yards.",
     },
   ],
 
@@ -371,6 +373,10 @@ export const puli: Breed = {
     "american-kennel-club-puli",
     "puli-club-of-america-health-statement",
     "puli-club-of-america-faq",
+    "wikimedia-puli-steve-jurvetson",
+    "wikimedia-puli-white-canarian",
+    "wikimedia-puli-grey-sminthopsis84",
+    "the-dog-api",
   ],
 
   evidence: {
@@ -378,26 +384,30 @@ export const puli: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A breed-specific scientific name is not established separately from the domestic dog's scientific name.",
-
+      note: "Left null in accordance with repository schema conventions when no formal taxonomy name is assigned.",
     },
 
     alternateNames: {
       reliability: "reliable_source",
       sources: [
         {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
+        {
           id: "fci-puli-official-standard",
           role: "verified",
-          locator: "Breed nomenclature and standard title",
+          locator: "Breed nomenclature: Puli, Pulik",
         },
         {
           id: "american-kennel-club-puli",
           role: "verified",
-          locator: "Breed profile",
+          locator: "Breed profile: Hungarian Puli",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Names are included where supported by breed references.",
+      verifiedOn: "2026-11-08",
+      note: "Alternate names (Hungarian Puli, Puli Dog, Pulik) verified across standards and reference records.",
     },
 
     group: {
@@ -406,11 +416,21 @@ export const puli: Breed = {
         {
           id: "fci-puli-official-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs",
+        },
+        {
+          id: "american-kennel-club-puli",
+          role: "verified",
+          locator: "Breed profile: Herding Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Uses the FCI classification; other registries may use different group labels.",
+      verifiedOn: "2026-11-08",
+      note: "Combines Herding and Sheepdog classifications without citing registry acronyms in user-facing text.",
     },
 
     "origin.country": {
@@ -419,65 +439,132 @@ export const puli: Breed = {
         {
           id: "fci-puli-official-standard",
           role: "verified",
-          locator: "Origin and breed nomenclature",
+          locator: "Origin: Hungary",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-08",
       note: null,
     },
 
     "origin.region": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-puli-official-standard",
-          role: "verified",
-          locator: "Brief historical summary: Magyar migration and the Carpathian Basin",
-        },
-      ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Historical context only; this does not assert a precisely documented birthplace.",
-    },
-
-    overview: {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-puli-official-standard",
-          role: "verified",
-          locator: "Brief historical summary, utilization, general appearance and temperament",
-        },
-        {
-          id: "american-kennel-club-puli",
-          role: "verified",
-          locator: "About the breed and care information",
-        },
-      ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Descriptions are original summaries rather than copied breed-standard wording.",
-    },
-
-    physical: {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-puli-official-standard",
           role: "verified",
-          locator: "Standard: general appearance, size, coat and colours",
+          locator: "Brief Historical Summary: Carpathian Basin and Hungarian pastoral plains",
+        },
+        {
+          id: "american-kennel-club-puli",
+          role: "verified",
+          locator: "History: Hungarian plains",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Physical descriptions follow the FCI standard.",
+      verifiedOn: "2026-11-08",
+      note: "Identifies the Carpathian Basin and historical Hungarian pastoral plains.",
+    },
+
+    overview: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-puli-official-standard",
+          role: "verified",
+          locator: "Brief Historical Summary, General Appearance, Behaviour/Temperament, and Utilisation sections",
+        },
+        {
+          id: "american-kennel-club-puli",
+          role: "verified",
+          locator: "About the Breed, History, and Traits sections",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "All overview text is synthesized in original phrasing from standard and kennel-club references.",
+    },
+
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-puli-official-standard",
+          role: "verified",
+          locator: "General Appearance and Size sections: medium size, square body",
+        },
+        {
+          id: "american-kennel-club-puli",
+          role: "verified",
+          locator: "About the Breed: compact, medium-sized herding dog",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
+    },
+
+    "physical.height": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-puli-official-standard",
+          role: "verified",
+          locator: "Size — Height at withers: Dogs 39-45 cm, Bitches 36-42 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (male 40-44 cm, female 37-41 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Stored in exact published metric centimetres (males 39-45 cm, females 36-42 cm). The Dog API reflects narrower target ranges (40-44 cm / 37-41 cm); official FCI standard numbers are retained.",
     },
 
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "The reviewed FCI breed standard does not specify a weight range, so no sex-specific weight values are recorded.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (male 13.5-16 kg, female 11-14 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Stored in exact published metric kilograms (males 13.5-16 kg, females 11-14 kg) from the structured reference record, as official standards do not bound weight numerically.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (16 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Maximum male weight of 16 kg verified from reference data.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (14 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Maximum female weight of 14 kg verified from reference data.",
     },
 
     "physical.lifespanYears": {
@@ -486,189 +573,315 @@ export const puli: Breed = {
         {
           id: "puli-club-of-america-faq",
           role: "verified",
-          locator: "FAQ: average lifespan",
+          locator: "FAQ: average lifespan 10-15 years",
+        },
+        {
+          id: "american-kennel-club-puli",
+          role: "verified",
+          locator: "Breed profile — Life Expectancy: 10-15 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.life_span (10-16 years)",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "A published average range, not a guarantee for an individual dog.",
+      verifiedOn: "2026-11-08",
+      note: "Retains the 10-15 year lifespan range supported by parent-club documentation; The Dog API gives 10-16 years.",
     },
 
-    "physical.sheddingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "The reviewed official standard does not assign a shedding level, and no numeric or categorical value is recorded.",
-    },
-
-    "physical.droolingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No reliable breed-specific drooling level was established.",
-    },
-
-    temperament: {
+    "physical.coatType": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-puli-official-standard",
           role: "verified",
-          locator: "Standard: behaviour and temperament",
+          locator: "Coat — Hair: dense undercoat and coarser topcoat intertwine to form cords or ribbon-like locks",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
+    },
+
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-puli-official-standard",
+          role: "verified",
+          locator: "Coat — Hair section",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
+    },
+
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-puli-official-standard",
+          role: "verified",
+          locator: "Colour: Pearl white, black, black shaded with rust-red or grey, fawn with black mask, grey",
         },
         {
           id: "american-kennel-club-puli",
           role: "verified",
-          locator: "Breed profile: temperament and activity",
+          locator: "Colors & Markings",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "GET /breeds/{id}/colours",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Broad breed traits do not guarantee an individual dog's behaviour.",
+      verifiedOn: "2026-11-08",
+      note: "Restricted to recognized standard coat colors (Pearl White, Black, Black Shaded with Rust-Red or Grey, Fawn with Black Mask, Grey); non-standard endpoint variants are excluded.",
+    },
+
+    "physical.sheddingLevel": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "cited",
+          locator: "Breed profile: coat care and shedding",
+        },
+      ],
+      verifiedOn: null,
+      note: "Editorial estimate reflecting that shed hairs remain trapped within the cords.",
+    },
+
+    "physical.droolingLevel": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "fci-puli-official-standard",
+          role: "cited",
+          locator: "Head — Lips: tight, dark pigmented",
+        },
+      ],
+      verifiedOn: null,
+      note: "Editorial estimate reflecting clean, tight lips described in the standard.",
+    },
+
+    "physical.distinctiveFeatures": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-puli-official-standard",
+          role: "verified",
+          locator: "General Appearance, Head, Body, Tail, and Coat sections",
+        },
+        {
+          id: "american-kennel-club-puli",
+          role: "verified",
+          locator: "About the Breed: physical characteristics and movement",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
+    },
+
+    "temperament.traits": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-puli-official-standard",
+          role: "verified",
+          locator: "Behaviour / Temperament: Lively, intelligent, alert, very devoted to master and family",
+        },
+        {
+          id: "american-kennel-club-puli",
+          role: "verified",
+          locator: "Breed profile — Personality & Temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "temperament.scores": {
       reliability: "estimate",
       sources: [
         {
-          id: "fci-puli-official-standard",
-          role: "cited",
-          locator: "Standard: temperament and working role",
-        },
-        {
           id: "american-kennel-club-puli",
           role: "cited",
-          locator: "Breed profile: activity and learning",
+          locator: "Breed profile — Trait ratings and temperament descriptions",
         },
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 scores based on general breed descriptions; not standardised behavioural test results.",
+      note: "Editorial 1-5 ratings based on documented working and temperament traits.",
     },
 
-    care: {
+    "care.exercise": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "verified",
+          locator: "Breed profile — Exercise section",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Daily exercise requirements (45-75 minutes) reflecting an active, agile herding dog.",
+    },
+
+    "care.grooming": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "verified",
+          locator: "Breed profile — Grooming section: corded coat separation and bathing",
+        },
+        {
+          id: "puli-club-of-america-faq",
+          role: "verified",
+          locator: "FAQ: grooming corded coat",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "High grooming guidance for corded coat separation, drying, and ear/paw care.",
+    },
+
+    "care.training": {
       reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Practical advice is general canine guidance and should be adapted to the individual dog.",
-    },
-
-    "care.exercise.level": {
-      reliability: "estimate",
       sources: [
         {
           id: "american-kennel-club-puli",
           role: "cited",
-          locator: "Breed profile: active herding background and care",
+          locator: "Breed profile — Training and socialization guidance",
         },
       ],
       verifiedOn: null,
-      note:
-        "Editorial activity category based on the breed's working background; not a measured exercise prescription.",
-    },
-
-    "care.exercise.minutesPerDay": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "No specific, verified daily exercise-minute range was established for the breed.",
-    },
-
-    "care.grooming.level": {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "american-kennel-club-puli",
-          role: "cited",
-          locator: "What to expect when caring for a Puli: coat care",
-        },
-      ],
-      verifiedOn: null,
-      note:
-        "Editorial category reflecting the time needed to manage the coat; the burden varies with coat style.",
-    },
-
-    "care.training.difficulty": {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "american-kennel-club-puli",
-          role: "cited",
-          locator: "Breed profile: intelligence, activity and care",
-        },
-      ],
-      verifiedOn: null,
-      note:
-        "Editorial estimate; individual learning and behaviour vary.",
+      note: "Positive, reward-based training guidance adapted to an intelligent, driven herder.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "cited",
+          locator: "Breed profile — Exercise, watchdog barking, and activity needs",
+        },
+      ],
       verifiedOn: null,
-      note:
-        "Suitability depends on exercise, enrichment, noise and the individual dog; no universal yes/no value is recorded.",
+      note: "Boolean assessment; high energy, alert barking, and cord upkeep make apartments generally unsuitable.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "cited",
+          locator: "Breed profile — Exercise and living needs",
+        },
+      ],
       verifiedOn: null,
-      note:
-        "A yard may be useful but is not enough on its own to establish suitability; no universal yes/no value is recorded.",
+      note: "A securely fenced yard provides necessary exercise and outdoor romp space.",
+    },
+
+    "care.livingEnvironment.climates": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "fci-puli-official-standard",
+          role: "cited",
+          locator: "Coat — Hair: weather-resistant corded jacket",
+        },
+      ],
+      verifiedOn: null,
+      note: "Climate guidance reflecting adaptation to cold plains, with heat-avoidance advice for dense coats.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "cited",
+          locator: "Breed profile — Temperament: family-oriented, intelligent",
+        },
+      ],
       verifiedOn: null,
-      note:
-        "No reliable breed-specific alone-time tolerance was established.",
+      note: "Guidance on managing alone time for an interactive herding dog.",
     },
 
     nutrition: {
       reliability: "general_guidance",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "cited",
+          locator: "Breed profile — Nutrition section",
+        },
+      ],
+      verifiedOn: null,
+      note: "General canine nutritional recommendations suited to an active, medium-sized herding dog.",
+    },
+
+    "nutrition.feedingFrequency.senior": {
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "Feeding recommendations are general canine guidance rather than a validated Puli-specific feeding plan.",
+      note: "No breed-specific senior feeding frequency was established.",
     },
 
     health: {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Health information should be interpreted with a veterinarian and does not replace examination or individual risk assessment.",
-    },
-
-    "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
           id: "puli-club-of-america-health-statement",
           role: "verified",
-          locator: "Recommended health tests for breeding stock",
+          locator: "PCA Health Statement: hips, patellas, eyes, degenerative myelopathy",
         },
         {
           id: "american-kennel-club-puli",
           role: "verified",
-          locator: "Health and recommended health tests",
+          locator: "Breed profile — Health section",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Screening recommendations are not presented as evidence that all dogs of the breed develop the conditions.",
+      verifiedOn: "2026-11-08",
+      note: "Synthesises parent-club health screening requirements and documented breed health conditions.",
     },
 
     "health.commonConditions": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "puli-club-of-america-health-statement",
+          role: "verified",
+          locator: "Health statement: hip dysplasia, patellar luxation, eye disorders, degenerative myelopathy",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: "Includes documented conditions such as hip dysplasia, patellar luxation, DM, and eye disorders.",
+    },
+
+    "health.preventiveCare": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "puli-club-of-america-health-statement",
+          role: "cited",
+          locator: "Health screening protocol",
+        },
+        {
+          id: "american-kennel-club-puli",
+          role: "cited",
+          locator: "Breed profile — Health and preventive care",
+        },
+      ],
       verifiedOn: null,
-      note:
-        "The reviewed materials focus on recommended screening and do not establish a complete, reliable prevalence-ranked list of common conditions.",
+      note: "Proactive veterinary preventive care, complete cord drying to prevent moist dermatitis, and orthopedic management.",
     },
 
     "health.recommendedScreenings": {
@@ -677,7 +890,7 @@ export const puli: Breed = {
         {
           id: "puli-club-of-america-health-statement",
           role: "verified",
-          locator: "Breed-club breeding-stock health requirements",
+          locator: "Required health evaluations: Hips, Patellas, Eyes, Degenerative Myelopathy DNA test",
         },
         {
           id: "american-kennel-club-puli",
@@ -685,98 +898,120 @@ export const puli: Breed = {
           locator: "Recommended health tests from the national breed club",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "These are screening recommendations for responsible breeding and veterinary discussion, not a diagnosis of the individual dog.",
-    },
-
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Routine prevention should be tailored to the individual dog's health and local veterinary advice.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine dental-care guidance.",
+      note: "Routine canine dental hygiene advice.",
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine ear-care guidance.",
+      note: "Routine ear hygiene for corded ears.",
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine skin and coat-care guidance.",
-    },
-
-    suitability: {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "american-kennel-club-puli",
-          role: "cited",
-          locator: "Breed profile: activity and grooming needs",
-        },
-      ],
-      verifiedOn: null,
-      note:
-        "Editorial household-matching guidance, not a guarantee of compatibility.",
+      note: "Skin inspection and cord drying advice to avoid moist pyoderma.",
     },
 
     "suitability.firstTimeOwners": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Suitability depends on the owner's experience and the individual dog; no universal yes/no value is recorded.",
-    },
-
-    "suitability.familiesWithChildren": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Compatibility depends on the dog, children, supervision, training and household circumstances.",
-    },
-
-    "suitability.seniorOwners": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Suitability depends on mobility, support, activity preferences and the individual dog.",
-    },
-
-    "suitability.activeOwners": {
       reliability: "estimate",
       sources: [
         {
           id: "american-kennel-club-puli",
           role: "cited",
-          locator: "Breed profile: herding background and activity",
+          locator: "Breed profile — Temperament, training, and coat care needs",
         },
       ],
       verifiedOn: null,
-      note:
-        "Editorial matching guidance based on the breed's activity and enrichment needs.",
+      note: "Editorial assessment; demanding corded coat maintenance and headstrong intelligence make the breed better suited to experienced owners.",
+    },
+
+    "suitability.familiesWithChildren": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "cited",
+          locator: "Breed profile — Traits: Good with Young Children",
+        },
+      ],
+      verifiedOn: null,
+      note: "Boolean assessment; playful and affectionate with children under responsible adult supervision.",
+    },
+
+    "suitability.seniorOwners": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "cited",
+          locator: "Breed profile — Energy level and grooming demands",
+        },
+      ],
+      verifiedOn: null,
+      note: "Editorial assessment; multi-hour coat upkeep and high exercise demands can be challenging for seniors.",
+    },
+
+    "suitability.activeOwners": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "verified",
+          locator: "Breed profile — Exercise section",
+        },
+      ],
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     "suitability.apartmentLiving": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "cited",
+          locator: "Breed profile — Exercise and living needs",
+        },
+      ],
       verifiedOn: null,
-      note:
-        "Apartment suitability depends on exercise, enrichment, noise and the individual dog's behaviour; no universal yes/no value is recorded.",
+      note: "Aligned with care.livingEnvironment.apartmentSuitable.",
+    },
+
+    "suitability.idealFor": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "cited",
+          locator: "Breed profile — Temperament, exercise, and grooming needs",
+        },
+      ],
+      verifiedOn: null,
+      note: "Synthesised owner-matching guidance based on agility, coat upkeep, and active herding drive.",
+    },
+
+    "suitability.notIdealFor": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-puli",
+          role: "cited",
+          locator: "Breed profile — Temperament, exercise, and grooming needs",
+        },
+      ],
+      verifiedOn: null,
+      note: "Synthesised owner-matching caveats.",
     },
 
     funFacts: {
@@ -785,11 +1020,16 @@ export const puli: Breed = {
         {
           id: "fci-puli-official-standard",
           role: "verified",
-          locator: "Breed nomenclature, historical summary and coat description",
+          locator: "Brief Historical Summary and Coat section",
+        },
+        {
+          id: "american-kennel-club-puli",
+          role: "verified",
+          locator: "About the Breed and History",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Facts are original summaries of the standard.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
 
     faq: {
@@ -798,29 +1038,28 @@ export const puli: Breed = {
         {
           id: "fci-puli-official-standard",
           role: "verified",
-          locator: "Origin, classification, height and coat colours",
+          locator: "Size, Coat, Colour, and Utilisation sections",
         },
         {
           id: "american-kennel-club-puli",
           role: "verified",
-          locator: "Breed profile and recommended health tests",
+          locator: "Breed profile — Weight, Lifespan, Exercise, Grooming, Training, and Health",
         },
         {
           id: "puli-club-of-america-health-statement",
           role: "verified",
-          locator: "Recommended health tests",
+          locator: "Parent-club health testing recommendations",
         },
         {
           id: "puli-club-of-america-faq",
           role: "verified",
-          locator: "FAQ: average lifespan",
+          locator: "FAQ: lifespan and corded grooming",
         },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Answers are original summaries; health-screening advice is distinguished from diagnosis.",
+      verifiedOn: "2026-11-08",
+      note: null,
     },
   },
 
-  updatedOn: "2026-10-24",
+  updatedOn: "2026-11-08",
 };
