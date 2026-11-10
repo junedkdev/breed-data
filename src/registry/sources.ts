@@ -13458,6 +13458,226 @@ export const sources = defineSources({
     note: "Photograph (1567 x 1462 px) of an adult Azawakh standing in profile outdoors by Canarian (captured 2018-09-08, uploaded 2018-09-17). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
+  "fci-english-cocker-spaniel-official-standard": {
+    id: "fci-english-cocker-spaniel-official-standard",
+    name: "FCI - English Cocker Spaniel Official Breed Standard No. 5",
+    url: "https://www.fci.be/Nomenclature/Standards/005g08-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2003-10-29",
+    accessedOn: "2026-11-09",
+    note: "Official English FCI Standard No. 5 (valid standard dated 2002-11-28, published 2003-10-29). Covers Great Britain origin, Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 2 Flushing Dogs classification with working trial, general appearance, rectangular build, silky flat coat with feathering, weight (approx. 13-14.5 kg), and withers height (males 39-41 cm, females 38-39 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-english-cocker-spaniel-nomenclature": {
+    id: "fci-english-cocker-spaniel-nomenclature",
+    name: "FCI - English Cocker Spaniel Breed Nomenclature (No. 5)",
+    url: "https://www.fci.be/en/nomenclature/ENGLISH-COCKER-SPANIEL-5.html",
+    type: "official_breed_standard",
+    publishedOn: "2003-10-29",
+    accessedOn: "2026-11-09",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 8 Section 2 classification with working trial, definitive recognition date (1954-08-03), and official multilingual names (Cocker Spaniel Anglais, Englischer Cocker Spaniel).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "the-kennel-club-english-cocker-spaniel-breed-standard": {
+    id: "the-kennel-club-english-cocker-spaniel-breed-standard",
+    name: "The Royal Kennel Club - English Cocker Spaniel Breed Standard",
+    url: "https://www.thekennelclub.org.uk/breed-standards/gundog/cocker-spaniel/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-09",
+    note: "Official Royal Kennel Club breed standard (Gundog Group, country of origin standard) establishing withers height (dogs 39-41 cm / 15.5-16 in; bitches 38-39 cm / 15-15.5 in), weight (13-14.5 kg / 28-32 lbs), flat silky coat, feathering, and merry sporting temperament.",
+    publisher: "The Royal Kennel Club"
+  },
+  "akc-english-cocker-spaniel-breed-standard": {
+    id: "akc-english-cocker-spaniel-breed-standard",
+    name: "American Kennel Club - Official Standard of the English Cocker Spaniel",
+    url: "https://images.akc.org/pdf/breeds/standards/EnglishCockerSpaniel.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1973-05-08",
+    accessedOn: "2026-11-09",
+    note: "Official AKC breed standard establishing ideal height of 17 inches for dogs and 16 inches for bitches (acceptable range 16-17 in and 15-16 in), proportions, head type, level or scissor bite, and coat characteristics.",
+    publisher: "American Kennel Club"
+  },
+  "akc-english-cocker-spaniel-breed-profile": {
+    id: "akc-english-cocker-spaniel-breed-profile",
+    name: "American Kennel Club - English Cocker Spaniel Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/english-cocker-spaniel/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-09",
+    note: "Official AKC breed profile covering history (woodcock flushing, 1946 Westminster Best in Show, Lady and the Tramp), height, weight (26-34 lbs), lifespan (12-15 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "english-cocker-spaniel-club-health": {
+    id: "english-cocker-spaniel-club-health",
+    name: "The English Cocker Spaniel Club - Health and Genetics",
+    url: "https://thecockerspanielclub.co.uk/health/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-09",
+    note: "Official national parent breed club health guide covering DNA testing for prcd-PRA, familial nephropathy (FN), and adult-onset neuropathy (AN), alongside hip dysplasia, eye exams, and ear care.",
+    publisher: "The English Cocker Spaniel Club"
+  },
+  "ofa-english-cocker-spaniel-chic-requirements": {
+    id: "ofa-english-cocker-spaniel-chic-requirements",
+    name: "Orthopedic Foundation for Animals - English Cocker Spaniel CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=ECS",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-09",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the English Cocker Spaniel, mandating DNA tests for prcd-PRA, Familial Nephropathy (FN), and Adult-Onset Neuropathy (AN), alongside CAER eye examination and radiographic hip evaluation.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "english-cocker-spaniel-genetic-disorders-study-2006": {
+    id: "english-cocker-spaniel-genetic-disorders-study-2006",
+    name: "Genetic Testing and Prevalence of Hereditary Disorders in English Cocker Spaniels (J Vet Intern Med)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/16734105/",
+    type: "scientific",
+    publishedOn: "2006-05-01",
+    accessedOn: "2026-11-09",
+    note: "Peer-reviewed scientific study evaluating the prevalence and molecular characterization of progressive retinal atrophy (prcd-PRA), familial nephropathy (COL4A4 mutation), and adult-onset neuropathy in English Cocker Spaniels.",
+    publisher: "Journal of Veterinary Internal Medicine / PubMed"
+  },
+  "wikimedia-english-cocker-spaniel-blue-roan-pleple2000": {
+    id: "wikimedia-english-cocker-spaniel-blue-roan-pleple2000",
+    name: "Wikimedia Commons - File:English Cocker Spaniel blue roan.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_blue_roan.jpg",
+    type: "other",
+    publishedOn: "2008-10-18",
+    accessedOn: "2026-11-09",
+    note: "Photograph of an adult blue roan English Cocker Spaniel standing outdoors by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18, 2400 x 1800 px). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-english-cocker-spaniel-red-pleple2000": {
+    id: "wikimedia-english-cocker-spaniel-red-pleple2000",
+    name: "Wikimedia Commons - File:English Cocker Spaniel red.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_red.jpg",
+    type: "other",
+    publishedOn: "2008-10-18",
+    accessedOn: "2026-11-09",
+    note: "Photograph of an adult red English Cocker Spaniel standing outdoors by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18, 2400 x 1785 px). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-danish-swedish-farmdog-official-standard": {
+    id: "fci-danish-swedish-farmdog-official-standard",
+    name: "FCI - Danish-Swedish Farmdog (Dansk-svensk gårdshund) Official Breed Standard No. 356",
+    url: "https://www.fci.be/Nomenclature/Standards/356g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2019-05-16",
+    accessedOn: "2026-11-10",
+    note: "Official English FCI Standard No. 356 (valid standard dated 2019-05-07, published 2019-05-16). Covers Denmark/Sweden origin, Group 2 Section 1.1 Pinscher classification without working trial, rectangular proportions (10:9), rose/button ears, natural bobtail or long tail, pied coat, and withers height (males 34-37 cm, females 32-35 cm, +/- 2 cm tolerance).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-danish-swedish-farmdog-nomenclature": {
+    id: "fci-danish-swedish-farmdog-nomenclature",
+    name: "FCI - Danish-Swedish Farmdog Breed Nomenclature (No. 356)",
+    url: "https://www.fci.be/en/nomenclature/DANISH-SWEDISH-FARMDOG-356.html",
+    type: "official_breed_standard",
+    publishedOn: "2019-05-16",
+    accessedOn: "2026-11-10",
+    note: "Official FCI breed nomenclature record confirming Denmark and Sweden as countries of origin, Group 2 Section 1.1 classification without working trial, definitive recognition date (2019-04-29), and multilingual names (Chien de ferme dano-suédois, Dänisch-Schwedischer Farmhund, Perro de granja danés-sueco).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "dansk-kennel-klub-dansk-svensk-gaardshund-standard": {
+    id: "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+    name: "Dansk Kennel Klub - Racebeskrivelse for Dansk-Svensk Gårdshund",
+    url: "https://www.dkk.dk/hunde-i-danmark/k%C3%B8b-af-hund/racebeskrivelser/dansk-svensk-g%C3%A5rdshund",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-10",
+    note: "Official Danish Kennel Club (Dansk Kennel Klub / DKK) breed profile and standard for Dansk-svensk gårdshund, documenting farm heritage, 1987 joint recognition, ratting traits, height, and health screening.",
+    publisher: "Dansk Kennel Klub"
+  },
+  "skk-dansk-svensk-gardshund-breed-standard": {
+    id: "skk-dansk-svensk-gardshund-breed-standard",
+    name: "Svenska Kennelklubben - Rasstandard för Dansk-Svensk Gårdshund (FCI 356)",
+    url: "https://www.skk.se/hundraser/dansk-svensk-gardshund/",
+    type: "official_breed_standard",
+    publishedOn: "2019-05-07",
+    accessedOn: "2026-11-10",
+    note: "Official Swedish Kennel Club (Svenska Kennelklubben / SKK) breed standard for Dansk-svensk gårdshund, confirming Scanian roots, proportions, coat, colours, height limits, and health management.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "akc-danish-swedish-farmdog-breed-standard": {
+    id: "akc-danish-swedish-farmdog-breed-standard",
+    name: "American Kennel Club - Official Standard of the Danish-Swedish Farmdog",
+    url: "https://images.akc.org/pdf/breeds/standards/DanishSwedishFarmdog.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2011-01-01",
+    accessedOn: "2026-11-10",
+    note: "Official AKC breed standard establishing height (males 13.5-14.5 in, females 12.5-13.5 in / 34-37 cm and 32-35 cm), compact substance, scissor bite, rose/button ears, and white-dominated pied coloration.",
+    publisher: "American Kennel Club"
+  },
+  "akc-danish-swedish-farmdog-breed-profile": {
+    id: "akc-danish-swedish-farmdog-breed-profile",
+    name: "American Kennel Club - Danish-Swedish Farmdog Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/danish-swedish-farmdog/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-10",
+    note: "Official AKC breed profile covering Scandinavian history, pinscher classification, published weight (15-26 lbs / 7-12 kg), lifespan (13-15 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "ukc-danish-swedish-farmdog-breed-standard": {
+    id: "ukc-danish-swedish-farmdog-breed-standard",
+    name: "United Kennel Club - Danish-Swedish Farmdog Breed Standard",
+    url: "https://www.ukcdogs.com/danish-swedish-farmdog",
+    type: "official_breed_standard",
+    publishedOn: "2008-01-01",
+    accessedOn: "2026-11-10",
+    note: "Official UKC breed standard (Terrier Group, recognized 2008) covering conformation, rectangular proportions, height, weight (approx. 15-25 lbs), natural bobtail, and ratter behavior.",
+    publisher: "United Kennel Club"
+  },
+  "danish-swedish-farmdog-club-of-america-health": {
+    id: "danish-swedish-farmdog-club-of-america-health",
+    name: "Danish-Swedish Farmdog Club of America - Health and Genetics",
+    url: "https://www.danishefclub.org/health",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-10",
+    note: "Official national parent club health portal covering hip dysplasia, patellar luxation, primary lens luxation (PLL) DNA testing, and CHIC screening protocols.",
+    publisher: "Danish-Swedish Farmdog Club of America"
+  },
+  "ofa-danish-swedish-farmdog-chic-requirements": {
+    id: "ofa-danish-swedish-farmdog-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Danish-Swedish Farmdog CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=DSF",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-10",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Danish-Swedish Farmdog, mandating radiographic hip dysplasia evaluation, patellar luxation clinical evaluation, PLL DNA test, and CAER eye examination.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "danish-swedish-farmdog-pll-adamts17-study-2011": {
+    id: "danish-swedish-farmdog-pll-adamts17-study-2011",
+    name: "An ADAMTS17 Mutation Is Associated with Primary Lens Luxation in the Danish-Swedish Farmdog and Sighthounds",
+    url: "https://pubmed.ncbi.nlm.nih.gov/19814769/",
+    type: "scientific",
+    publishedOn: "2010-01-01",
+    accessedOn: "2026-11-10",
+    note: "Peer-reviewed study (Farias et al., Invest Ophthalmol Vis Sci 2010;51(1):224-230, PMID 19814769) identifying the causal mutation in the ADAMTS17 gene responsible for primary lens luxation across terrier and northern breeds including the Danish-Swedish Farmdog.",
+    publisher: "Investigative Ophthalmology & Visual Science / PubMed"
+  },
+  "wikimedia-dansk-svensk-gaardshund-front-lilly-m": {
+    id: "wikimedia-dansk-svensk-gaardshund-front-lilly-m",
+    name: "Wikimedia Commons - File:Dansk-svensk gårdshund front.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Dansk-svensk_g%C3%A5rdshund_front.jpg",
+    type: "other",
+    publishedOn: "2007-06-25",
+    accessedOn: "2026-11-10",
+    note: "Photograph of an adult tricolour Danish-Swedish Farmdog standing outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25, 1788 x 1968 px). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-dansk-svensk-gaardshund-side-lilly-m": {
+    id: "wikimedia-dansk-svensk-gaardshund-side-lilly-m",
+    name: "Wikimedia Commons - File:Dansk-svensk gårdshund side.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Dansk-svensk_g%C3%A5rdshund_side.jpg",
+    type: "other",
+    publishedOn: "2007-06-25",
+    accessedOn: "2026-11-10",
+    note: "Photograph of a Danish-Swedish Farmdog in side profile by Lilly M (captured 2007-06-16, uploaded 2007-06-25, 2548 x 1792 px). Licensed under CC BY-SA 3.0.",
+    publisher: "Wikimedia Commons"
+  },
 });
 
 export type SourceId = keyof typeof sources;

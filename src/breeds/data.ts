@@ -151,6 +151,8 @@ import { patterdale_terrier } from "./patterdale_terrier";
 import { istrian_coarse_haired_hound } from "./istrian_coarse_haired_hound";
 import { appenzeller_sennenhund } from "./appenzeller_sennenhund";
 import { azawakh } from "./azawakh";
+import { english_cocker_spaniel } from "./english_cocker_spaniel";
+import { danish_swedish_farmdog } from "./danish_swedish_farmdog";
 
 
 export const breedData: readonly Breed[] = [
@@ -301,4 +303,6 @@ export const breedData: readonly Breed[] = [
   istrian_coarse_haired_hound,
   appenzeller_sennenhund,
   azawakh,
+  english_cocker_spaniel,
+  danish_swedish_farmdog,
 ];

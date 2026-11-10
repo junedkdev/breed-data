@@ -79,7 +79,8 @@
 76:manchester_terrier - CG
 77:spinone_italiano - CG
 
-78:mudi - C
+78:mudi - CR
+
 79:rafeiro_do_alentejo - C
 80:polish_hound - C
 81:icelandic_sheepdog - C
@@ -148,10 +149,9 @@
 144:istrian_coarse-haired_hound - C
 145:appenzeller_sennenhund - C
 146:azawakh - C
+147:english_cocker_spaniel - C
+148:danish_swedish_farmdog - C
 
-147:english_cocker_spaniel - R
-
-148:danish_swedish_farmdog
 149:griffon_bruxellois_80
 150:barbet
 151:scottish_terrier

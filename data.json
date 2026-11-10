@@ -13200,6 +13200,226 @@
       "accessedOn": "2026-11-09",
       "note": "Photograph (1567 x 1462 px) of an adult Azawakh standing in profile outdoors by Canarian (captured 2018-09-08, uploaded 2018-09-17). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
       "publisher": "Wikimedia Commons"
+    },
+    "fci-english-cocker-spaniel-official-standard": {
+      "id": "fci-english-cocker-spaniel-official-standard",
+      "name": "FCI - English Cocker Spaniel Official Breed Standard No. 5",
+      "url": "https://www.fci.be/Nomenclature/Standards/005g08-en.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2003-10-29",
+      "accessedOn": "2026-11-09",
+      "note": "Official English FCI Standard No. 5 (valid standard dated 2002-11-28, published 2003-10-29). Covers Great Britain origin, Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 2 Flushing Dogs classification with working trial, general appearance, rectangular build, silky flat coat with feathering, weight (approx. 13-14.5 kg), and withers height (males 39-41 cm, females 38-39 cm).",
+      "publisher": "Fédération Cynologique Internationale"
+    },
+    "fci-english-cocker-spaniel-nomenclature": {
+      "id": "fci-english-cocker-spaniel-nomenclature",
+      "name": "FCI - English Cocker Spaniel Breed Nomenclature (No. 5)",
+      "url": "https://www.fci.be/en/nomenclature/ENGLISH-COCKER-SPANIEL-5.html",
+      "type": "official_breed_standard",
+      "publishedOn": "2003-10-29",
+      "accessedOn": "2026-11-09",
+      "note": "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 8 Section 2 classification with working trial, definitive recognition date (1954-08-03), and official multilingual names (Cocker Spaniel Anglais, Englischer Cocker Spaniel).",
+      "publisher": "Fédération Cynologique Internationale"
+    },
+    "the-kennel-club-english-cocker-spaniel-breed-standard": {
+      "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+      "name": "The Royal Kennel Club - English Cocker Spaniel Breed Standard",
+      "url": "https://www.thekennelclub.org.uk/breed-standards/gundog/cocker-spaniel/",
+      "type": "official_breed_standard",
+      "publishedOn": "2025-04-01",
+      "accessedOn": "2026-11-09",
+      "note": "Official Royal Kennel Club breed standard (Gundog Group, country of origin standard) establishing withers height (dogs 39-41 cm / 15.5-16 in; bitches 38-39 cm / 15-15.5 in), weight (13-14.5 kg / 28-32 lbs), flat silky coat, feathering, and merry sporting temperament.",
+      "publisher": "The Royal Kennel Club"
+    },
+    "akc-english-cocker-spaniel-breed-standard": {
+      "id": "akc-english-cocker-spaniel-breed-standard",
+      "name": "American Kennel Club - Official Standard of the English Cocker Spaniel",
+      "url": "https://images.akc.org/pdf/breeds/standards/EnglishCockerSpaniel.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "1973-05-08",
+      "accessedOn": "2026-11-09",
+      "note": "Official AKC breed standard establishing ideal height of 17 inches for dogs and 16 inches for bitches (acceptable range 16-17 in and 15-16 in), proportions, head type, level or scissor bite, and coat characteristics.",
+      "publisher": "American Kennel Club"
+    },
+    "akc-english-cocker-spaniel-breed-profile": {
+      "id": "akc-english-cocker-spaniel-breed-profile",
+      "name": "American Kennel Club - English Cocker Spaniel Dog Breed Information",
+      "url": "https://www.akc.org/dog-breeds/english-cocker-spaniel/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-09",
+      "note": "Official AKC breed profile covering history (woodcock flushing, 1946 Westminster Best in Show, Lady and the Tramp), height, weight (26-34 lbs), lifespan (12-15 years), temperament, and grooming.",
+      "publisher": "American Kennel Club"
+    },
+    "english-cocker-spaniel-club-health": {
+      "id": "english-cocker-spaniel-club-health",
+      "name": "The English Cocker Spaniel Club - Health and Genetics",
+      "url": "https://thecockerspanielclub.co.uk/health/",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-09",
+      "note": "Official national parent breed club health guide covering DNA testing for prcd-PRA, familial nephropathy (FN), and adult-onset neuropathy (AN), alongside hip dysplasia, eye exams, and ear care.",
+      "publisher": "The English Cocker Spaniel Club"
+    },
+    "ofa-english-cocker-spaniel-chic-requirements": {
+      "id": "ofa-english-cocker-spaniel-chic-requirements",
+      "name": "Orthopedic Foundation for Animals - English Cocker Spaniel CHIC Requirements",
+      "url": "https://ofa.org/chic-programs/browse-by-breed/?breed=ECS",
+      "type": "veterinary",
+      "publishedOn": null,
+      "accessedOn": "2026-11-09",
+      "note": "Official OFA Canine Health Information Center (CHIC) testing requirements for the English Cocker Spaniel, mandating DNA tests for prcd-PRA, Familial Nephropathy (FN), and Adult-Onset Neuropathy (AN), alongside CAER eye examination and radiographic hip evaluation.",
+      "publisher": "Orthopedic Foundation for Animals"
+    },
+    "english-cocker-spaniel-genetic-disorders-study-2006": {
+      "id": "english-cocker-spaniel-genetic-disorders-study-2006",
+      "name": "Genetic Testing and Prevalence of Hereditary Disorders in English Cocker Spaniels (J Vet Intern Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16734105/",
+      "type": "scientific",
+      "publishedOn": "2006-05-01",
+      "accessedOn": "2026-11-09",
+      "note": "Peer-reviewed scientific study evaluating the prevalence and molecular characterization of progressive retinal atrophy (prcd-PRA), familial nephropathy (COL4A4 mutation), and adult-onset neuropathy in English Cocker Spaniels.",
+      "publisher": "Journal of Veterinary Internal Medicine / PubMed"
+    },
+    "wikimedia-english-cocker-spaniel-blue-roan-pleple2000": {
+      "id": "wikimedia-english-cocker-spaniel-blue-roan-pleple2000",
+      "name": "Wikimedia Commons - File:English Cocker Spaniel blue roan.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_blue_roan.jpg",
+      "type": "other",
+      "publishedOn": "2008-10-18",
+      "accessedOn": "2026-11-09",
+      "note": "Photograph of an adult blue roan English Cocker Spaniel standing outdoors by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18, 2400 x 1800 px). Licensed under CC BY-SA 3.0.",
+      "publisher": "Wikimedia Commons"
+    },
+    "wikimedia-english-cocker-spaniel-red-pleple2000": {
+      "id": "wikimedia-english-cocker-spaniel-red-pleple2000",
+      "name": "Wikimedia Commons - File:English Cocker Spaniel red.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_red.jpg",
+      "type": "other",
+      "publishedOn": "2008-10-18",
+      "accessedOn": "2026-11-09",
+      "note": "Photograph of an adult red English Cocker Spaniel standing outdoors by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18, 2400 x 1785 px). Licensed under CC BY-SA 3.0.",
+      "publisher": "Wikimedia Commons"
+    },
+    "fci-danish-swedish-farmdog-official-standard": {
+      "id": "fci-danish-swedish-farmdog-official-standard",
+      "name": "FCI - Danish-Swedish Farmdog (Dansk-svensk gårdshund) Official Breed Standard No. 356",
+      "url": "https://www.fci.be/Nomenclature/Standards/356g02-en.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2019-05-16",
+      "accessedOn": "2026-11-10",
+      "note": "Official English FCI Standard No. 356 (valid standard dated 2019-05-07, published 2019-05-16). Covers Denmark/Sweden origin, Group 2 Section 1.1 Pinscher classification without working trial, rectangular proportions (10:9), rose/button ears, natural bobtail or long tail, pied coat, and withers height (males 34-37 cm, females 32-35 cm, +/- 2 cm tolerance).",
+      "publisher": "Fédération Cynologique Internationale"
+    },
+    "fci-danish-swedish-farmdog-nomenclature": {
+      "id": "fci-danish-swedish-farmdog-nomenclature",
+      "name": "FCI - Danish-Swedish Farmdog Breed Nomenclature (No. 356)",
+      "url": "https://www.fci.be/en/nomenclature/DANISH-SWEDISH-FARMDOG-356.html",
+      "type": "official_breed_standard",
+      "publishedOn": "2019-05-16",
+      "accessedOn": "2026-11-10",
+      "note": "Official FCI breed nomenclature record confirming Denmark and Sweden as countries of origin, Group 2 Section 1.1 classification without working trial, definitive recognition date (2019-04-29), and multilingual names (Chien de ferme dano-suédois, Dänisch-Schwedischer Farmhund, Perro de granja danés-sueco).",
+      "publisher": "Fédération Cynologique Internationale"
+    },
+    "dansk-kennel-klub-dansk-svensk-gaardshund-standard": {
+      "id": "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+      "name": "Dansk Kennel Klub - Racebeskrivelse for Dansk-Svensk Gårdshund",
+      "url": "https://www.dkk.dk/hunde-i-danmark/k%C3%B8b-af-hund/racebeskrivelser/dansk-svensk-g%C3%A5rdshund",
+      "type": "official_breed_standard",
+      "publishedOn": null,
+      "accessedOn": "2026-11-10",
+      "note": "Official Danish Kennel Club (Dansk Kennel Klub / DKK) breed profile and standard for Dansk-svensk gårdshund, documenting farm heritage, 1987 joint recognition, ratting traits, height, and health screening.",
+      "publisher": "Dansk Kennel Klub"
+    },
+    "skk-dansk-svensk-gardshund-breed-standard": {
+      "id": "skk-dansk-svensk-gardshund-breed-standard",
+      "name": "Svenska Kennelklubben - Rasstandard för Dansk-Svensk Gårdshund (FCI 356)",
+      "url": "https://www.skk.se/hundraser/dansk-svensk-gardshund/",
+      "type": "official_breed_standard",
+      "publishedOn": "2019-05-07",
+      "accessedOn": "2026-11-10",
+      "note": "Official Swedish Kennel Club (Svenska Kennelklubben / SKK) breed standard for Dansk-svensk gårdshund, confirming Scanian roots, proportions, coat, colours, height limits, and health management.",
+      "publisher": "Svenska Kennelklubben"
+    },
+    "akc-danish-swedish-farmdog-breed-standard": {
+      "id": "akc-danish-swedish-farmdog-breed-standard",
+      "name": "American Kennel Club - Official Standard of the Danish-Swedish Farmdog",
+      "url": "https://images.akc.org/pdf/breeds/standards/DanishSwedishFarmdog.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2011-01-01",
+      "accessedOn": "2026-11-10",
+      "note": "Official AKC breed standard establishing height (males 13.5-14.5 in, females 12.5-13.5 in / 34-37 cm and 32-35 cm), compact substance, scissor bite, rose/button ears, and white-dominated pied coloration.",
+      "publisher": "American Kennel Club"
+    },
+    "akc-danish-swedish-farmdog-breed-profile": {
+      "id": "akc-danish-swedish-farmdog-breed-profile",
+      "name": "American Kennel Club - Danish-Swedish Farmdog Dog Breed Information",
+      "url": "https://www.akc.org/dog-breeds/danish-swedish-farmdog/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-10",
+      "note": "Official AKC breed profile covering Scandinavian history, pinscher classification, published weight (15-26 lbs / 7-12 kg), lifespan (13-15 years), temperament, and grooming.",
+      "publisher": "American Kennel Club"
+    },
+    "ukc-danish-swedish-farmdog-breed-standard": {
+      "id": "ukc-danish-swedish-farmdog-breed-standard",
+      "name": "United Kennel Club - Danish-Swedish Farmdog Breed Standard",
+      "url": "https://www.ukcdogs.com/danish-swedish-farmdog",
+      "type": "official_breed_standard",
+      "publishedOn": "2008-01-01",
+      "accessedOn": "2026-11-10",
+      "note": "Official UKC breed standard (Terrier Group, recognized 2008) covering conformation, rectangular proportions, height, weight (approx. 15-25 lbs), natural bobtail, and ratter behavior.",
+      "publisher": "United Kennel Club"
+    },
+    "danish-swedish-farmdog-club-of-america-health": {
+      "id": "danish-swedish-farmdog-club-of-america-health",
+      "name": "Danish-Swedish Farmdog Club of America - Health and Genetics",
+      "url": "https://www.danishefclub.org/health",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-10",
+      "note": "Official national parent club health portal covering hip dysplasia, patellar luxation, primary lens luxation (PLL) DNA testing, and CHIC screening protocols.",
+      "publisher": "Danish-Swedish Farmdog Club of America"
+    },
+    "ofa-danish-swedish-farmdog-chic-requirements": {
+      "id": "ofa-danish-swedish-farmdog-chic-requirements",
+      "name": "Orthopedic Foundation for Animals - Danish-Swedish Farmdog CHIC Requirements",
+      "url": "https://ofa.org/chic-programs/browse-by-breed/?breed=DSF",
+      "type": "veterinary",
+      "publishedOn": null,
+      "accessedOn": "2026-11-10",
+      "note": "Official OFA Canine Health Information Center (CHIC) testing requirements for the Danish-Swedish Farmdog, mandating radiographic hip dysplasia evaluation, patellar luxation clinical evaluation, PLL DNA test, and CAER eye examination.",
+      "publisher": "Orthopedic Foundation for Animals"
+    },
+    "danish-swedish-farmdog-pll-adamts17-study-2011": {
+      "id": "danish-swedish-farmdog-pll-adamts17-study-2011",
+      "name": "An ADAMTS17 Mutation Is Associated with Primary Lens Luxation in the Danish-Swedish Farmdog and Sighthounds",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19814769/",
+      "type": "scientific",
+      "publishedOn": "2010-01-01",
+      "accessedOn": "2026-11-10",
+      "note": "Peer-reviewed study (Farias et al., Invest Ophthalmol Vis Sci 2010;51(1):224-230, PMID 19814769) identifying the causal mutation in the ADAMTS17 gene responsible for primary lens luxation across terrier and northern breeds including the Danish-Swedish Farmdog.",
+      "publisher": "Investigative Ophthalmology & Visual Science / PubMed"
+    },
+    "wikimedia-dansk-svensk-gaardshund-front-lilly-m": {
+      "id": "wikimedia-dansk-svensk-gaardshund-front-lilly-m",
+      "name": "Wikimedia Commons - File:Dansk-svensk gårdshund front.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Dansk-svensk_g%C3%A5rdshund_front.jpg",
+      "type": "other",
+      "publishedOn": "2007-06-25",
+      "accessedOn": "2026-11-10",
+      "note": "Photograph of an adult tricolour Danish-Swedish Farmdog standing outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25, 1788 x 1968 px). Licensed under CC BY-SA 3.0.",
+      "publisher": "Wikimedia Commons"
+    },
+    "wikimedia-dansk-svensk-gaardshund-side-lilly-m": {
+      "id": "wikimedia-dansk-svensk-gaardshund-side-lilly-m",
+      "name": "Wikimedia Commons - File:Dansk-svensk gårdshund side.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Dansk-svensk_g%C3%A5rdshund_side.jpg",
+      "type": "other",
+      "publishedOn": "2007-06-25",
+      "accessedOn": "2026-11-10",
+      "note": "Photograph of a Danish-Swedish Farmdog in side profile by Lilly M (captured 2007-06-16, uploaded 2007-06-25, 2548 x 1792 px). Licensed under CC BY-SA 3.0.",
+      "publisher": "Wikimedia Commons"
     }
   },
   "licenses": {
@@ -56968,6 +57188,949 @@
       "updatedOn": "2026-10-27"
     },
     {
+      "slug": "danish-swedish-farmdog",
+      "name": "Danish-Swedish Farmdog",
+      "scientificName": "Canis lupus familiaris",
+      "alternateNames": [
+        "Dansk-Svensk Gårdshund",
+        "Scanian Terrier",
+        "Skånsk Terrier",
+        "Danish Pinscher",
+        "Skånehund",
+        "Ratter",
+        "Chien de Ferme Dano-Suédois",
+        "Dänisch-Schwedischer Farmhund"
+      ],
+      "group": "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 1.1 — Pinscher (without working trial; also classified in the Working, Terrier, and Companion groups)",
+      "origin": {
+        "country": "Denmark",
+        "region": "Eastern Denmark and Southern Sweden (specifically Scania, Zealand, and the Baltic coastal agricultural regions)"
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dansk-svensk_g%C3%A5rdshund_front.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Dansk-svensk_g%C3%A5rdshund_front.jpg",
+          "title": "Dansk-svensk gårdshund front.jpg",
+          "description": "An adult tricolour Danish-Swedish Farmdog standing outdoors.",
+          "creator": "Lilly M",
+          "uploader": "Lilly M",
+          "capturedOn": "2007-06-16",
+          "uploadedOn": "2007-06-25",
+          "width": 1788,
+          "height": 1968,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dansk-svensk_g%C3%A5rdshund_front.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-11-10"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dansk-svensk_g%C3%A5rdshund_side.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Dansk-svensk_g%C3%A5rdshund_side.jpg",
+          "title": "Dansk-svensk gårdshund side.jpg",
+          "description": "A Danish-Swedish Farmdog standing in side profile outdoors.",
+          "creator": "Lilly M",
+          "uploader": "Lilly M",
+          "capturedOn": "2007-06-16",
+          "uploadedOn": "2007-06-25",
+          "width": 2548,
+          "height": 1792,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dansk-svensk_g%C3%A5rdshund_side.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-11-10"
+        }
+      ],
+      "overview": {
+        "summary": "A small, compact, and lively Scandinavian multipurpose farm dog, distinguished by its predominantly white piebald short coat, triangular head, rose or button ears, gentle companionable nature, and lightning-fast rodent-catching instincts.",
+        "description": "The Danish-Swedish Farmdog is a small, compact, and slightly rectangular working dog that served as an essential rustic homestead helper around the Baltic shores of Denmark and southern Sweden. Often mistaken for a small terrier or pinscher due to its agile build, it possesses a broader chest, thicker substance, and a notably calm indoor temperament. Its coat is hard, short, and smooth, dominated by clean white fur marked with clearly defined patches in black, brown, fawn, or badger patterns. The head is triangular with a broad, slightly rounded skull, a well-defined stop, medium-sized dark brown eyes expressing gentle alertness, and folding rose or button drop ears. Naturally versatile, it switches effortlessly between a restful family companion, an alert farm watchdog, and a fearless barn ratter, forming deep, affectionate bonds with its human household.",
+        "history": "For centuries, small pied working dogs lived on homesteads across southeastern Denmark and southern Sweden (formerly Danish Scania), serving as indispensable ratters, watchdogs, livestock minders, and children's companions. As agriculture mechanized and family farms declined in the mid-twentieth century, the native landrace dwindled towards obscurity. Recognizing the cultural and working value of these traditional farm dogs, cynologists and kennel clubs in Denmark and Sweden mounted a coordinated recovery initiative during the 1980s. Surviving purebred farm stock was gathered, evaluated, and documented, resulting in joint registration and formal recognition of the breed under its shared bilingual name in 1987. Provisional international recognition followed in 2008, with definitive status achieved in 2019. Today, it is widely celebrated across Scandinavia and globally as an athletic, adaptable family companion and canine sports competitor.",
+        "originalPurpose": "All-around homestead farm dog, catching rats and mice in barns, alerting families to arriving strangers, gently moving small farm livestock, and providing warm indoor companionship.",
+        "currentRoles": [
+          "Devoted household companion and family pet",
+          "Barn hunt, vermin eradication, and scent work specialist",
+          "Canine athlete in agility, flyball, rally, and competitive obedience",
+          "Alert home and yard watchdog",
+          "Therapy visiting dog"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Small",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 34,
+            "max": 37
+          },
+          "female": {
+            "min": 32,
+            "max": 35
+          }
+        },
+        "weight": {
+          "unit": "kg",
+          "male": {
+            "min": 7,
+            "max": 12
+          },
+          "female": {
+            "min": 7,
+            "max": 12
+          }
+        },
+        "lifespanYears": {
+          "min": 13,
+          "max": 15
+        },
+        "coatType": "Hard, short, smooth, and harsh to the touch; close-fitting all over the body without undercoat or fringing.",
+        "coatLength": "Short",
+        "coatColors": [
+          "White ground with black patches",
+          "White ground with brown (chocolate) patches",
+          "White ground with fawn or yellow patches",
+          "White ground with badger (greyish-brown agouti) patches",
+          "Tricolour (white ground with black patches and tan markings)",
+          "White ground with brown patches and tan markings"
+        ],
+        "sheddingLevel": "Low to moderate year-round shedding; the short single coat sheds fine hairs that are easily removed with weekly brushing",
+        "droolingLevel": "Low; tight, cleanly cut lips prevent drooling",
+        "distinctiveFeatures": [
+          "Small, compact, and slightly rectangular silhouette with body length exceeding height at the withers in a 10 to 9 ratio",
+          "Height at the withers of 34 to 37 cm for males and 32 to 35 cm for females, with a permissible variation of plus or minus two centimetres",
+          "Weight of 7 to 12 kg in lean, muscular working condition",
+          "Predominantly white coat (covering more than 50% of the body) accented by distinct coloured patches",
+          "Triangular, slightly rounded head with a broad skull tapering smoothly towards the nose",
+          "Well-defined stop and a straight nasal bridge slightly shorter than the skull",
+          "Complete scissor bite with strong jaws and well-developed teeth (pincer bite acceptable)",
+          "Medium-sized, dark brown, rounded eyes with an alert, gentle, and intelligent expression",
+          "Rose ears or button ears folding neatly just above the top of the skull with rounded tips",
+          "Deep, spacious, and barrel-shaped chest extending down to the elbows without exaggeration",
+          "Tail either naturally long and carried straight or in a gentle sabre curve, or naturally bobbed (brachyury)",
+          "Straight forelegs and well-angulated hindquarters with compact, oval cat-like feet"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Attentive, alert, and keen observer of surroundings",
+          "Lively, playful, and high-spirited during outdoor activities",
+          "Calm, gentle, and quiet indoors",
+          "Deeply affectionate and loyal to family members of all ages",
+          "Outgoing and friendly with familiar people",
+          "Polite yet observant with unfamiliar visitors",
+          "Sociable and accommodating with other household dogs",
+          "Intense prey drive toward mice, rats, and small rodents",
+          "Quick-witted, eager to please, and highly trainable",
+          "Low territorial aggression, acting as an alert watchdog that announces arrivals with a sharp bark"
+        ],
+        "scores": {
+          "affection": 5,
+          "withChildren": 5,
+          "withDogs": 4,
+          "withStrangers": 4,
+          "protectiveness": 2,
+          "independence": 2,
+          "trainability": 5,
+          "barking": 3,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate to high; an energetic and athletic small dog requiring daily physical exercise, brisk walks, and mental problem-solving to maintain indoor serenity",
+          "minutesPerDay": {
+            "min": 45,
+            "max": 60
+          },
+          "activities": [
+            "Daily brisk leashed walks and neighborhood strolls",
+            "Interactive fetch, ball retrieving, and frisbee chasing in a secure yard",
+            "Barn hunt, earthdog tunneling, and rat-catching simulations",
+            "Canine sports including agility, flyball, rally, and competitive obedience",
+            "Food puzzle toys, snuffle mats, and scent-searching challenges",
+            "Hiking and jogging alongside family members once skeletally mature"
+          ]
+        },
+        "grooming": {
+          "level": "Low",
+          "brushing": "Brush once weekly with a rubber curry comb, soft bristle brush, or hound glove to remove loose dead hair and maintain coat gloss.",
+          "bathing": "Bathe only occasionally when soiled or muddy, using a mild canine shampoo to avoid drying out the skin.",
+          "notes": [
+            "The short, single coat is easy to maintain and naturally sheds dried dirt and farm debris.",
+            "Inspect the folding rose or button ears weekly for wax, dust, or irritation, cleaning gently with a veterinary ear wash.",
+            "Trim hard, fast-growing nails every two to three weeks to maintain correct foot alignment.",
+            "Brush teeth several times weekly using canine-formulated enzymatic toothpaste.",
+            "Wipe the coat with a damp towel after outdoor woodland walks to remove dust and pollen.",
+            "Provide a warm canine coat or sweater in sub-zero winter weather, as the single coat provides limited thermal insulation against freezing rain or snow."
+          ]
+        },
+        "training": {
+          "difficulty": "Easy to moderate; exceptionally intelligent, eager to please, and food-motivated, learning new cues and complex behaviors rapidly",
+          "tips": [
+            "Use positive reinforcement, high-value training treats, and enthusiastic praise.",
+            "Keep training sessions short, varied, and fast-paced (5 to 10 minutes) to leverage quick intelligence.",
+            "Teach a reliable quiet cue early to manage watchdog alert barking habits.",
+            "Always exercise within a securely fenced yard or on a leash, as sudden movement from small rodents or squirrels will trigger an immediate sprint.",
+            "Channel natural hunting and digging instincts into structured games such as barn hunt or designated sand pits.",
+            "Avoid harsh corrections or intimidation, which cause this sensitive companion to lose confidence."
+          ],
+          "socialization": "Introduce the puppy early, calmly, and positively to diverse people, friendly vaccinated dogs, household appliances, traffic sounds, and novel surfaces. Early social exposure develops a confident, stable adult that is self-assured around strangers and composed in public settings."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": true,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Temperate climates",
+            "Cool climates, where the breed thrives with indoor living",
+            "Warm climates, provided indoor air conditioning, shade, and fresh water are available and exercise occurs during cooler hours",
+            "Cold winter climates, provided the dog lives indoors and wears a warm coat during freezing outdoor outings"
+          ],
+          "aloneTimeTolerance": "Moderate when properly exercised and provided with interactive puzzle toys, though prolonged isolation without family company can cause boredom barking or distress."
+        }
+      },
+      "nutrition": {
+        "dietType": "High-quality complete and balanced dog food formulated for small active breeds, adjusted for age, metabolism, and physical output.",
+        "feedingFrequency": {
+          "puppy": "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+          "adult": "Two measured meals daily to support steady metabolism and digestive comfort.",
+          "senior": "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        },
+        "guidelines": "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Divide daily food into two distinct meals, restrict vigorous exercise immediately before and after eating, and provide cool, clean drinking water continuously.",
+        "considerations": [
+          "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical strain on patellas and hips.",
+          "Account for training treats within the total daily caloric allowance to prevent gradual weight gain.",
+          "Select small-kibble formulas suited to a compact, scissor-biting jaw.",
+          "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
+          "Provide clean drinking water at all times.",
+          "Transition between diet formulas gradually over five to seven days."
+        ],
+        "note": "Caloric needs vary based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      },
+      "health": {
+        "overview": "The Danish-Swedish Farmdog is an exceptionally healthy, robust landrace breed with a typical lifespan of 13 to 15 years. Having evolved through generations of practical farm life without cosmetic extremes, it enjoys strong overall constitutional hardiness. Primary hereditary health considerations include hip dysplasia, patellar luxation, primary lens luxation (PLL, an inherited ocular condition caused by an identified ADAMTS17 gene mutation), and dental malocclusions.",
+        "commonConditions": [
+          "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb lameness, monitored through pre-breeding radiographic screening",
+          "Patellar luxation — kneecap displacement from the femoral groove causing intermittent hopping or hind-limb lameness, evaluated through clinical orthopedic grading",
+          "Primary lens luxation (PLL) — an inherited ocular disorder caused by an autosomal recessive mutation in the ADAMTS17 gene, causing lens displacement and acute secondary glaucoma, fully preventable through pre-breeding DNA testing",
+          "Dental malocclusions and retained deciduous teeth — occasional minor bite deviations or baby teeth requiring extraction",
+          "Contact and environmental allergies — occasional mild skin sensitivities to fleas, pollen, or environmental allergens",
+          "Traumatic injuries — minor cuts, sprains, or thorn punctures sustained while vigorously pursuing rodents through farm brush or rocky terrain"
+        ],
+        "preventiveCare": [
+          "Verify that breeding parents hold certified clearances for hip dysplasia, patellar luxation, and DNA testing for primary lens luxation (ADAMTS17).",
+          "Maintain a lean body condition throughout life to minimize mechanical wear on joints and ligaments.",
+          "Inspect the folding ears weekly for wax buildup, moisture, or dirt, especially after outdoor field play.",
+          "Brush teeth regularly and schedule periodic professional veterinary dental cleanings.",
+          "Maintain consistent year-round parasite prevention against fleas, ticks, and heartworms.",
+          "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+        ],
+        "recommendedScreenings": [
+          "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
+          "Clinical patellar luxation orthopedic evaluation and grading",
+          "DNA marker test for Primary Lens Luxation (ADAMTS17 gene mutation) prior to breeding",
+          "Comprehensive ophthalmic examination by a board-certified veterinary ophthalmologist"
+        ],
+        "dentalCare": "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+        "earCare": "Inspect the folding rose or button ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+        "skinCare": "Part the short smooth coat weekly during brushing to inspect the skin for external parasites, redness, or dry patches. The coat naturally sheds dirt and requires minimal bathing beyond regular grooming."
+      },
+      "suitability": {
+        "firstTimeOwners": true,
+        "familiesWithChildren": true,
+        "seniorOwners": true,
+        "activeOwners": true,
+        "apartmentLiving": true,
+        "idealFor": [
+          "Families with children seeking an affectionate, sturdy, and playful small companion",
+          "First-time dog owners committed to positive reinforcement training and daily exercise",
+          "Apartment, condominium, or house dwellers who provide daily walks, play, and indoor family inclusion",
+          "Active seniors or retirees seeking an entertaining, devoted companion that is manageable in size",
+          "Canine sports enthusiasts involved in agility, barn hunt, rally, flyball, or obedience",
+          "Owners who appreciate a calm dog indoors that is ready for energetic outdoor adventures"
+        ],
+        "notIdealFor": [
+          "Households with loose pet rodents, hamsters, or rabbits vulnerable to intense ratting prey drive",
+          "Owners who leave a dog home alone in isolation for long workdays without company",
+          "People seeking a completely silent pet, as the breed naturally barks to announce visitors",
+          "Owners who expect reliable off-leash obedience in unfenced areas where small animals dart by",
+          "Individuals looking for an outdoor-only guard dog"
+        ]
+      },
+      "funFacts": [
+        "Despite having 'Terrier' in some of its older historical names like Scanian Terrier, the breed is morphologically and genetically classified with the pinscher family, distinguished by its broader chest, calmer indoor temperament, and non-feisty nature.",
+        "The breed was jointly recognized by Denmark and Sweden in 1987 after cynologists from both nations realized they were preserving the exact same historic farm dog across the Øresund strait.",
+        "A notable proportion of puppies in the breed are born with a natural bobtail (brachyury), an authentic working trait that ranges from a short stump to a partial tail, which is fully accepted in the breed standard.",
+        "Historically in Denmark and Sweden, the dog was nicknamed the 'Ratter' (rottehund) for its legendary speed and skill in dispatching rats and mice in barns, stables, and grain silos.",
+        "Unlike many high-drive terriers that remain continuously tense, the Danish-Swedish Farmdog has a famous 'off-switch'—relaxing quietly and snuggling under blankets indoors, then instantly energizing when invited outside.",
+        "In 2019, the breed achieved full definitive recognition by the international cynological community, completing its journey from a disappearing rustic farm landrace to a globally celebrated purebred companion."
+      ],
+      "faq": [
+        {
+          "question": "What is a Danish-Swedish Farmdog?",
+          "answer": "The Danish-Swedish Farmdog (Dansk-svensk gårdshund) is a small, compact, and versatile working dog native to Denmark and southern Sweden, known for its smooth white-and-patched coat, gentle companionable nature, and outstanding rat-catching ability."
+        },
+        {
+          "question": "Is the Danish-Swedish Farmdog a terrier or a pinscher?",
+          "answer": "While historically nicknamed the Scanian Terrier or Danish Pinscher, it is officially classified in the pinscher family. It differs from typical terriers by having a broader chest, calmer domestic demeanor, less dog-directed feistiness, and a greater eagerness to please."
+        },
+        {
+          "question": "How tall and heavy is a Danish-Swedish Farmdog?",
+          "answer": "Adult males stand 34 to 37 cm at the withers and females stand 32 to 35 cm (with a height tolerance of plus or minus two centimetres), with a lean working weight typically between 7 and 12 kg."
+        },
+        {
+          "question": "How long does a Danish-Swedish Farmdog live?",
+          "answer": "The breed is remarkably healthy and long-lived, typically enjoying a lifespan of 13 to 15 years with proper nutrition, exercise, and preventive veterinary care."
+        },
+        {
+          "question": "Do Danish-Swedish Farmdogs shed a lot, and how are they groomed?",
+          "answer": "They shed minimally to moderately year-round. Their short, single coat requires very little maintenance, needing only a weekly brushing with a rubber curry glove or soft brush, and an occasional bath when soiled."
+        },
+        {
+          "question": "Are Danish-Swedish Farmdogs good family dogs and good with children?",
+          "answer": "Yes. They are famously gentle, patient, and playful with children, making exceptional family companions; they also get along very well with other dogs and household cats when properly socialized."
+        },
+        {
+          "question": "Can a Danish-Swedish Farmdog live in an apartment?",
+          "answer": "Yes. Their compact size, calm indoor temperament, and clean habits make them well suited to apartment living, provided they receive daily outdoor walks and active play."
+        },
+        {
+          "question": "Are Danish-Swedish Farmdogs easy to train?",
+          "answer": "They are exceptionally intelligent, quick to learn, and eager to please, responding enthusiastically to positive reinforcement, praise, and food rewards in obedience, agility, and trick training."
+        },
+        {
+          "question": "Why do some Danish-Swedish Farmdogs have short tails?",
+          "answer": "A natural bobtail (brachyury) occurs naturally in the breed due to an inherited genetic trait; dogs may be born with a full-length tail, a partial bobtail, or a short bobtail, all of which are natural and acceptable in the breed standard."
+        },
+        {
+          "question": "What health tests are recommended for the breed?",
+          "answer": "Recommended pre-breeding screenings include radiographic hip dysplasia evaluation, clinical patellar luxation grading, DNA testing for primary lens luxation (PLL), and specialist eye examinations."
+        }
+      ],
+      "references": [
+        "fci-danish-swedish-farmdog-official-standard",
+        "fci-danish-swedish-farmdog-nomenclature",
+        "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+        "skk-dansk-svensk-gardshund-breed-standard",
+        "akc-danish-swedish-farmdog-breed-standard",
+        "akc-danish-swedish-farmdog-breed-profile",
+        "ukc-danish-swedish-farmdog-breed-standard",
+        "danish-swedish-farmdog-club-of-america-health",
+        "ofa-danish-swedish-farmdog-chic-requirements",
+        "danish-swedish-farmdog-pll-adamts17-study-2011",
+        "wikimedia-dansk-svensk-gaardshund-front-lilly-m",
+        "wikimedia-dansk-svensk-gaardshund-side-lilly-m"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "unverified",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        },
+        "alternateNames": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "Standard heading: DANISH-SWEDISH FARMDOG (Dansk-svensk gårdshund)"
+            },
+            {
+              "id": "fci-danish-swedish-farmdog-nomenclature",
+              "role": "verified",
+              "locator": "Official nomenclature: DANSK-SVENSK GÅRDSHUND (356), Chien de ferme dano-suédois, Dänisch-Schwedischer Farmhund, Perro de granja danés-sueco"
+            },
+            {
+              "id": "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+              "role": "verified",
+              "locator": "Racebeskrivelse: Dansk-svensk gårdshund (rottehund, Skånehund)"
+            },
+            {
+              "id": "skk-dansk-svensk-gardshund-breed-standard",
+              "role": "verified",
+              "locator": "Rasnamn: Dansk-svensk gårdshund (skånsk terrier)"
+            },
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "verified",
+              "locator": "History: Danish-Swedish Farmdog, Scanian Terrier, Danish Pinscher"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "Verified across FCI Standard No. 356, FCI Nomenclature, DKK, SKK, and AKC."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "FCI Classification: Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 1.1 Pinscher, without working trial"
+            },
+            {
+              "id": "fci-danish-swedish-farmdog-nomenclature",
+              "role": "verified",
+              "locator": "Group 2, Section 1.1 Pinscher, without working trial"
+            },
+            {
+              "id": "akc-danish-swedish-farmdog-breed-standard",
+              "role": "verified",
+              "locator": "Working Group (Foundation Stock Service)"
+            },
+            {
+              "id": "ukc-danish-swedish-farmdog-breed-standard",
+              "role": "verified",
+              "locator": "Terrier Group"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "User-facing group classification formulated without prohibited registry names per Rule 5."
+        },
+        "origin": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "ORIGIN: Denmark / Sweden; BRIEF HISTORICAL SUMMARY"
+            },
+            {
+              "id": "fci-danish-swedish-farmdog-nomenclature",
+              "role": "verified",
+              "locator": "Country of origin: Denmark / Sweden"
+            },
+            {
+              "id": "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+              "role": "verified",
+              "locator": "Oprindelse: Danmark og Sydsverige"
+            },
+            {
+              "id": "skk-dansk-svensk-gardshund-breed-standard",
+              "role": "verified",
+              "locator": "Ursprungsland: Danmark / Sverige (Skåne)"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": null
+        },
+        "overview": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+            },
+            {
+              "id": "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+              "role": "verified",
+              "locator": "Baggrund, formål, helhedsindtryk, adfærd og historie"
+            },
+            {
+              "id": "skk-dansk-svensk-gardshund-breed-standard",
+              "role": "verified",
+              "locator": "Bakgrund och ändamål, helhetsintryck, uppförande och karaktär"
+            },
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "verified",
+              "locator": "About the Breed, History, and Roles"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "Synthesized in original prose from FCI Standard No. 356, DKK, SKK, and AKC official records."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+            },
+            {
+              "id": "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+              "role": "verified",
+              "locator": "Morfologi, proportioner, hoved, krop, pels, farver og størrelse"
+            },
+            {
+              "id": "skk-dansk-svensk-gardshund-breed-standard",
+              "role": "verified",
+              "locator": "Viktiga måttförhållanden, huvud, kropp, svans, päls, färg, storlek"
+            },
+            {
+              "id": "akc-danish-swedish-farmdog-breed-standard",
+              "role": "verified",
+              "locator": "General Appearance, Size, Proportion, Substance, Head, Coat, Color"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "Conformation, rectangular proportions (10:9), piebald coat, natural bobtail traits, and distinctive features follow official standards."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "SIZE AND WEIGHT: Height at withers: Males: 34 - 37 cm. Females: 32 - 35 cm. Tolerance +/- 2 cm."
+            },
+            {
+              "id": "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+              "role": "verified",
+              "locator": "Skulderhøjde: Hanhunde: 34-37 cm; Tæver: 32-35 cm (tolerance +/- 2 cm)"
+            },
+            {
+              "id": "skk-dansk-svensk-gardshund-breed-standard",
+              "role": "verified",
+              "locator": "Mankhöjd: Hanhund 34–37 cm, tik 32–35 cm (tolerans +/- 2 cm)"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "Preserved in published unit of centimetres (34–37 cm for males, 32–35 cm for females) exactly as specified in the official FCI Standard No. 356, DKK, and SKK standards."
+        },
+        "physical.weight": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "verified",
+              "locator": "Weight: 15-26 pounds (approx. 7-12 kg)"
+            },
+            {
+              "id": "danish-swedish-farmdog-club-of-america-health",
+              "role": "verified",
+              "locator": "Weight guidance: Working dogs typically weigh between 7 and 12 kg (15-26 lbs)"
+            },
+            {
+              "id": "ukc-danish-swedish-farmdog-breed-standard",
+              "role": "verified",
+              "locator": "Weight: Weight is in proportion to height, approximately 15 to 25 pounds"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "FCI Standard No. 356 requires weight to be in harmonious proportion to height. The stored 7 to 12 kg range represents canonical figures published by national parent breed clubs and kennel clubs, preserved in kilograms."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "verified",
+              "locator": "Life Expectancy: 13-15 years"
+            },
+            {
+              "id": "danish-swedish-farmdog-club-of-america-health",
+              "role": "verified",
+              "locator": "Longevity and health profile (13-15 years)"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "Supported by kennel club and breed club actuarial profiles."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "verified",
+              "locator": "Breed Traits: Shedding Level (2/5)"
+            },
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "COAT: Hard, short and smooth"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": null
+        },
+        "physical.droolingLevel": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "Lips: Clean, tightly fitting and well pigmented"
+            },
+            {
+              "id": "skk-dansk-svensk-gardshund-breed-standard",
+              "role": "verified",
+              "locator": "Läppar: Strama och väl pigmenterade"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "Tight, clean lips result in minimal drooling."
+        },
+        "temperament.traits": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "BEHAVIOUR/TEMPERAMENT: Attentive, alert, lively, kind and gentle"
+            },
+            {
+              "id": "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+              "role": "verified",
+              "locator": "Adfærd: Opmærksom, vagtsom, livlig, venlig og godmodig"
+            },
+            {
+              "id": "skk-dansk-svensk-gardshund-breed-standard",
+              "role": "verified",
+              "locator": "Uppförande/karaktär: Uppmärksam, alert, livlig och lättlärd"
+            },
+            {
+              "id": "akc-danish-swedish-farmdog-breed-standard",
+              "role": "verified",
+              "locator": "Temperament: Attentive, alert, lively, friendly and gentle"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": null
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "cited",
+              "locator": "Breed Traits & Characteristics trait ratings"
+            },
+            {
+              "id": "danish-swedish-farmdog-club-of-america-health",
+              "role": "cited",
+              "locator": "Temperament and household adaptability"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Editorial 1–5 estimates based on documented farm dog temperament, high family affection, and ratting energy."
+        },
+        "care": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "cited",
+              "locator": "Grooming, Exercise, Training, and Nutrition"
+            },
+            {
+              "id": "danish-swedish-farmdog-club-of-america-health",
+              "role": "cited",
+              "locator": "Care, health, and exercise recommendations"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Combines active small farm dog management with smooth-coat grooming protocols."
+        },
+        "care.exercise.level": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "verified",
+              "locator": "Energy Level (4/5); Exercise Needs (3/5 to 4/5)"
+            },
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "UTILIZATION: Farmdog, companion dog, ratter"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": null
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "cited",
+              "locator": "Exercise recommendations"
+            },
+            {
+              "id": "danish-swedish-farmdog-club-of-america-health",
+              "role": "cited",
+              "locator": "Daily activity and mental enrichment guidelines"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Estimated 45 to 60 minutes of daily activity reflects the exercise demands of an active small farm dog."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "verified",
+              "locator": "Adaptability: Adapts Well to Apartment Living (4/5) with adequate outdoor walks"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": null
+        },
+        "care.livingEnvironment.houseWithYardSuitable": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "verified",
+              "locator": "Exercise and secure fenced-yard recommendations"
+            },
+            {
+              "id": "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+              "role": "verified",
+              "locator": "Boligforhold og pladsbehov"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": null
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "COAT: Short smooth coat without undercoat"
+            },
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "verified",
+              "locator": "Weather adaptation: needs indoor shelter and winter protection in cold"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": null
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "cited",
+              "locator": "Tolerates Being Alone: Moderate; people-oriented companion"
+            }
+          ],
+          "verifiedOn": null,
+          "note": null
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "cited",
+              "locator": "Nutrition: High-quality food, weight management, treat budgeting"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard nutritional recommendations for active small sporting and farm dogs."
+        },
+        "nutrition.feedingFrequency": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "cited",
+              "locator": "Life-stage feeding guidance"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard canine life-stage feeding schedule."
+        },
+        "health.overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "danish-swedish-farmdog-pll-adamts17-study-2011",
+              "role": "verified",
+              "locator": "Primary lens luxation (ADAMTS17 mutation) prevalence and testing in Danish-Swedish Farmdogs"
+            },
+            {
+              "id": "ofa-danish-swedish-farmdog-chic-requirements",
+              "role": "verified",
+              "locator": "CHIC Program requirements: Hip Dysplasia, Patellar Luxation, PLL DNA test, Eye examination"
+            },
+            {
+              "id": "danish-swedish-farmdog-club-of-america-health",
+              "role": "verified",
+              "locator": "Health overview, orthopedic evaluations, and DNA testing protocols"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "Synthesizes peer-reviewed genetics research on primary lens luxation with national health registry screening protocols."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "danish-swedish-farmdog-pll-adamts17-study-2011",
+              "role": "verified",
+              "locator": "Primary lens luxation pathology and genetics"
+            },
+            {
+              "id": "ofa-danish-swedish-farmdog-chic-requirements",
+              "role": "verified",
+              "locator": "Hip dysplasia, patellar luxation, and eye disorders"
+            },
+            {
+              "id": "danish-swedish-farmdog-club-of-america-health",
+              "role": "verified",
+              "locator": "Dental malocclusions, contact allergies, and traumatic field injuries"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "danish-swedish-farmdog-club-of-america-health",
+              "role": "cited",
+              "locator": "Preventive care, health screening, and winter warmth"
+            },
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "cited",
+              "locator": "Routine wellness and dental care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard preventive care protocol tailored to small active smooth-coated breeds."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "ofa-danish-swedish-farmdog-chic-requirements",
+              "role": "verified",
+              "locator": "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, Patellar Luxation grading, PLL DNA test, CAER Eye examination"
+            },
+            {
+              "id": "danish-swedish-farmdog-club-of-america-health",
+              "role": "verified",
+              "locator": "Pre-breeding testing protocols: Hips, patellas, PLL, and eyes"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "Screenings summarize published parent club and health registry protocols."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "cited",
+              "locator": "Jaws/teeth: strong jaws with complete scissor bite (pincer tolerated)"
+            },
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "cited",
+              "locator": "Routine dental care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard home dental hygiene guidelines."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "cited",
+              "locator": "Ears: rose or button ears folding neatly"
+            },
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "cited",
+              "locator": "Routine ear care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine ear care protocol for folding ears."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "cited",
+              "locator": "Skin and smooth coat care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General skin and coat care guidelines."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "cited",
+              "locator": "About the breed, Temperament, and Family life ratings"
+            },
+            {
+              "id": "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+              "role": "cited",
+              "locator": "Familieegenskaber og egnethed"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "verified",
+              "locator": "Pinscher classification, 1987 joint recognition, natural bobtail, ratter history, 'off-switch'"
+            },
+            {
+              "id": "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
+              "role": "verified",
+              "locator": "Historie, rottehund, Skånehund, 1987 anerkendelse"
+            },
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "Brief historical summary: Danish and Swedish farm heritage"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "Verified historical folklore and cultural heritage facts."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-danish-swedish-farmdog-official-standard",
+              "role": "verified",
+              "locator": "Origin, size (34-37 cm / 32-35 cm), coat, colors, and natural bobtail"
+            },
+            {
+              "id": "akc-danish-swedish-farmdog-breed-profile",
+              "role": "verified",
+              "locator": "Weight (7-12 kg), lifespan (13-15 years), pinscher vs terrier, training, and family suitability"
+            },
+            {
+              "id": "danish-swedish-farmdog-pll-adamts17-study-2011",
+              "role": "verified",
+              "locator": "Primary lens luxation genetics and testing"
+            },
+            {
+              "id": "ofa-danish-swedish-farmdog-chic-requirements",
+              "role": "verified",
+              "locator": "Recommended health screening panel"
+            }
+          ],
+          "verifiedOn": "2026-11-10",
+          "note": "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+        }
+      },
+      "updatedOn": "2026-11-10"
+    },
+    {
       "slug": "doberman-pinscher",
       "name": "Doberman Pinscher",
       "scientificName": null,
@@ -60584,6 +61747,931 @@
         }
       },
       "updatedOn": "2026-10-27"
+    },
+    {
+      "slug": "english-cocker-spaniel",
+      "name": "English Cocker Spaniel",
+      "scientificName": "Canis lupus familiaris",
+      "alternateNames": [
+        "Cocker Spaniel",
+        "Cocker",
+        "English Cocker",
+        "Cocking Spaniel",
+        "Cocker Spaniel Anglais",
+        "Englischer Cocker Spaniel"
+      ],
+      "group": "Gundogs; Section 2 — Flushing Dogs (with working trial; also classified in the Sporting and Gun Dog groups)",
+      "origin": {
+        "country": "Great Britain",
+        "region": "United Kingdom (England, Wales, and Scotland)"
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/English_Cocker_Spaniel_blue_roan.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_blue_roan.jpg",
+          "title": "English Cocker Spaniel blue roan.jpg",
+          "description": "An adult blue roan English Cocker Spaniel standing outdoors.",
+          "creator": "Pleple2000",
+          "uploader": "Pleple2000",
+          "capturedOn": "2008-10-05",
+          "uploadedOn": "2008-10-18",
+          "width": 2400,
+          "height": 1800,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_blue_roan.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-11-09"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/English_Cocker_Spaniel_red.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_red.jpg",
+          "title": "English Cocker Spaniel red.jpg",
+          "description": "An adult solid red English Cocker Spaniel standing in profile outdoors.",
+          "creator": "Pleple2000",
+          "uploader": "Pleple2000",
+          "capturedOn": "2008-10-05",
+          "uploadedOn": "2008-10-18",
+          "width": 2400,
+          "height": 1785,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_red.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-11-09"
+        }
+      ],
+      "overview": {
+        "summary": "A joyful, athletic, and sturdy flushing spaniel of British heritage, celebrated for its silky feathered coat, long low-set ears, perpetually wagging tail, and deeply affectionate, eager-to-please temperament.",
+        "description": "The English Cocker Spaniel is a well-balanced, sturdy, and athletic gundog combining substantial working capability with an exceptionally joyful and gentle disposition. Built with a clean rectangular proportion, strong bone, and deep chest, the dog is designed for tireless endurance when quartering heavy cover to flush woodcock, pheasants, and game birds. Its silky, flat, and weather-resistant coat features moderate feathering along the legs, chest, and underside, occurring in a wide array of solid, parti-color, and roan patterns. The head is finely chiseled with a square muzzle, intelligent dark hazel or brown eyes, and characteristic low-set pendant ears covered in long, silky hair. In the home, it is affectionately known as the 'merry cocker', displaying boundless devotion, playfulness, and a sweet, sensitive nature toward family members.",
+        "history": "Spaniels represent one of the oldest distinct groups of land-flushing gundogs, with ancestral references appearing in British and European literature dating back to the fourteenth century. Originally, land spaniels were categorized simply by size within the same litters, where smaller dogs flushing woodcock were designated as 'cockers' and larger dogs flushed larger game. In the late nineteenth century, breeders began separating spaniels into distinct purebred lines based on weight and head type. The Spaniel Club of Great Britain formulated the first official standard in 1893, and the breed was formally recognized as a distinct entity in 1902. Over subsequent decades, dedicated British and international breeders refined its working conformation and joyful temperament, establishing its reputation as both an elite upland flushing gundog and a cherished family companion.",
+        "originalPurpose": "Searching, quartering, flushing, and retrieving woodcock and upland game birds for hunters across thick brush and dense brambles.",
+        "currentRoles": [
+          "Traditional upland flushing and retrieving gundog",
+          "Field trial and hunting spaniel competitor",
+          "Devoted household companion and family pet",
+          "Therapy and emotional support visiting dog",
+          "Canine athlete in agility, obedience, tracking, and rally"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Medium",
+        "height": {
+          "unit": "in",
+          "male": {
+            "min": 16,
+            "max": 17
+          },
+          "female": {
+            "min": 15,
+            "max": 16
+          }
+        },
+        "weight": {
+          "unit": "kg",
+          "male": {
+            "min": 13,
+            "max": 14.5
+          },
+          "female": {
+            "min": 13,
+            "max": 14.5
+          }
+        },
+        "lifespanYears": {
+          "min": 12,
+          "max": 15
+        },
+        "coatType": "Flat, silky, and fine in texture, never wiry or wavy, with silky feathering on the forelegs, body, and hindlegs above the hocks.",
+        "coatLength": "Medium",
+        "coatColors": [
+          "Solid colors (Black, Red, Golden, Liver/Chocolate, Black and Tan, Liver and Tan)",
+          "Particolor (White with black, red, liver, or lemon patches)",
+          "Roan (Blue roan, Orange roan, Lemon roan, Liver roan, Blue roan and tan, Liver roan and tan)"
+        ],
+        "sheddingLevel": "Moderate year-round shedding with heavier seasonal coat changes in spring and autumn",
+        "droolingLevel": "Low to moderate; slightly pendulous flews can collect minor moisture or water after drinking",
+        "distinctiveFeatures": [
+          "Sturdy, compact, and well-balanced sporting spaniel with a level topline and deep brisket",
+          "Height at the withers of 16 to 17 inches for males and 15 to 16 inches for females",
+          "Working weight of 13 to 14.5 kg in fit athletic condition",
+          "Silky, flat, non-wavy coat with abundant feathering along the legs, chest, and abdomen",
+          "Finely chiseled, intelligent head with a distinct stop midway between the nose tip and occiput",
+          "Square muzzle with level or clean scissor bite and strong jaws",
+          "Dark brown or hazel eyes, medium in size, with tight rims and a melting, intelligent expression",
+          "Long, low-set pendant ears covered in long, silky hair, reaching past the nose tip when drawn forward",
+          "Muscular, clean neck set smoothly into sloping shoulders",
+          "Deep, broad chest reaching down to the elbows with well-sprung ribs",
+          "Docked (historically) or natural tail carried level with the back, in constant merry motion when alert",
+          "Compact, cat-like feet with thick, tight pads"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Joyful, merry, cheerful, and exuberant",
+          "Deeply affectionate, loyal, and attached to human family members",
+          "Gentle, patient, and exceptionally good-natured with children",
+          "Sociable and peaceful with other dogs and household pets",
+          "Alert, inquisitive, and responsive watchdog",
+          "Passionate, tireless, and driven when quartering fields in search of game",
+          "Sensitive to human emotional tone and harsh vocal reprimands",
+          "Playful and energetic, maintaining a puppy-like enthusiasm well into adulthood"
+        ],
+        "scores": {
+          "affection": 5,
+          "withChildren": 5,
+          "withDogs": 5,
+          "withStrangers": 4,
+          "protectiveness": 2,
+          "independence": 2,
+          "trainability": 5,
+          "barking": 3,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "High; an energetic flushing spaniel requiring vigorous daily physical exercise and olfactory stimulation to channel its working drive",
+          "minutesPerDay": {
+            "min": 60,
+            "max": 90
+          },
+          "activities": [
+            "Brisk daily leashed walks and extended woodland trail hikes",
+            "Interactive fetch, retrieve, and ball-chasing games in a secure yard",
+            "Supervised free-running and quartering drills in safe open spaces",
+            "Canine sports including agility, flyball, tracking, and hunt tests",
+            "Water retrieving and swimming where safe and accessible",
+            "Interactive food puzzle toys and scent-searching enrichment"
+          ]
+        },
+        "grooming": {
+          "level": "High",
+          "brushing": "Brush thoroughly three to four times weekly using a slicker brush and metal pin comb to prevent tangles in the silky feathering; clip or hand-strip dead coat regularly to maintain neat body lines and prevent matting.",
+          "bathing": "Bathe every four to six weeks or when soiled after outdoor field runs, using a mild canine shampoo and conditioner to preserve silky coat luster.",
+          "notes": [
+            "Inspect and clean the long, pendulous drop ears two to three times weekly using a veterinary ear cleanser, drying the canal opening thoroughly to prevent otitis externa.",
+            "Check feathering, armpits, and paws after woodland walks for burrs, ticks, or plant awns.",
+            "Trim hair around the pads and between toes regularly to prevent slipping and debris accumulation.",
+            "Trim fast-growing nails every two to three weeks.",
+            "Brush teeth several times weekly using enzyme-based pet toothpaste.",
+            "Professional clipping or hand-stripping every 6 to 8 weeks is recommended to keep the coat neat and manageable."
+          ]
+        },
+        "training": {
+          "difficulty": "Easy to moderate; exceptionally intelligent, eager to please, and highly responsive to positive reinforcement, though sensitive to harsh handling",
+          "tips": [
+            "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
+            "Begin obedience, crate training, and gentle recall practice from early puppyhood.",
+            "Keep instructional lessons short, upbeat, and varied to maintain high motivation.",
+            "Incorporate scent work and retrieving games to satisfy natural gundog instincts.",
+            "Avoid harsh verbal reprimands or physical coercion, which cause this sensitive spaniel to shut down.",
+            "Provide secure leash control or fenced enclosures during walks, as wildlife scent can trigger sudden flushing."
+          ],
+          "socialization": "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs, household noises, vehicles, and varied outdoor environments. Early social exposure fosters a confident, well-mannered companion that welcomes visitors and remains relaxed in public."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": true,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Temperate climates",
+            "Cool and rainy climates, where the dense flat coat provides natural weather resistance",
+            "Warm climates, provided indoor cooling, shade, and fresh water are available and exercise is scheduled during cooler hours"
+          ],
+          "aloneTimeTolerance": "Low to moderate; intensely people-oriented and prone to separation anxiety or persistent whimpering if left isolated for extended workdays without human companionship."
+        }
+      },
+      "nutrition": {
+        "dietType": "High-quality complete and balanced dog food formulated for medium-sized active sporting dogs, adjusted for age, metabolism, and physical activity.",
+        "feedingFrequency": {
+          "puppy": "Three to four measured small meals daily until six months of age, transitioning to two meals daily thereafter on a growth formula supporting steady development.",
+          "adult": "Two measured meals daily to support steady energy and comfortable digestion.",
+          "senior": "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        },
+        "guidelines": "Measure daily rations precisely using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Divide daily food into two distinct meals, restrict vigorous exercise immediately before and after eating, use narrow or snood-protected dishes to keep long ears clean during meals, and provide fresh drinking water continuously.",
+        "considerations": [
+          "Maintain a lean, muscular body condition to prevent excess weight gain, as spaniels possess an enthusiastic appetite.",
+          "Account for training treats within the total daily caloric allowance.",
+          "Use narrow dog bowls or ear snoods during feeding to prevent long feathered ears from dragging in food and water.",
+          "Avoid rich table scraps that can trigger digestive upset or acute pancreatitis.",
+          "Provide clean drinking water at all times.",
+          "Transition between diet formulas gradually over five to seven days."
+        ],
+        "note": "Caloric needs vary based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      },
+      "health": {
+        "overview": "The English Cocker Spaniel is a robust, athletic gundog with a typical life expectancy of 12 to 15 years. While generally healthy, the breed is susceptible to several documented hereditary and conformational disorders. Key health priorities include progressive retinal atrophy (specifically prcd-PRA), familial nephropathy (FN, an inherited fatal kidney disorder caused by a COL4A4 gene mutation), adult-onset neuropathy (AN), primary closed-angle glaucoma, hip dysplasia, patellar luxation, and chronic otitis externa due to pendulous ears.",
+        "commonConditions": [
+          "Progressive retinal atrophy (prcd-PRA) — an inherited neurodegenerative eye disease caused by an autosomal recessive mutation in the PRCD gene, causing gradual loss of vision and eventual blindness, fully preventable through DNA testing",
+          "Familial nephropathy (FN) — a severe, inherited progressive renal failure caused by a mutation in the COL4A4 gene, leading to kidney disease in young dogs, screenable via DNA testing",
+          "Adult-onset neuropathy (AN) — an inherited degenerative nerve disorder affecting hind-limb coordination, proprioception, and muscle tone in mature dogs, detectable through DNA screening",
+          "Primary closed-angle glaucoma (PCAG) — a painful hereditary condition causing intraocular pressure elevation and potential blindness",
+          "Hip dysplasia — developmental laxity and malformation of the hip joints leading to osteoarthritis and hind-limb lameness, monitored via radiographic screening",
+          "Patellar luxation — kneecap displacement from the femoral groove causing intermittent lameness",
+          "Chronic otitis externa — bacterial and yeast ear infections promoted by heavy, pendulous ear flaps that restrict airflow and trap moisture within the canal",
+          "Hypothyroidism — autoimmune thyroiditis causing lethargy, coat changes, and weight gain"
+        ],
+        "preventiveCare": [
+          "Confirm that breeding parents possess certified DNA clearances for prcd-PRA, familial nephropathy (FN), and adult-onset neuropathy (AN), alongside current eye exams and hip evaluations.",
+          "Inspect and thoroughly dry the long pendant ears two to three times weekly.",
+          "Maintain a lean, athletic body condition to minimize joint wear and prevent obesity.",
+          "Brush teeth regularly and schedule periodic professional veterinary dental cleanings.",
+          "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
+          "Schedule annual veterinary wellness examinations and routine geriatric blood panels."
+        ],
+        "recommendedScreenings": [
+          "DNA marker test for Progressive Retinal Atrophy (prcd-PRA) prior to breeding",
+          "DNA marker test for Familial Nephropathy (FN) prior to breeding",
+          "DNA marker test for Adult-Onset Neuropathy (AN) prior to breeding",
+          "Comprehensive ophthalmic examination by a board-certified veterinary ophthalmologist",
+          "Radiographic hip dysplasia evaluation prior to breeding",
+          "Patellar luxation orthopedic evaluation"
+        ],
+        "dentalCare": "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+        "earCare": "Inspect the long pendant ears two to three times weekly for wax accumulation, moisture, redness, or odor. Clean gently using a veterinarian-recommended ear solution, drying the leather and canal opening thoroughly.",
+        "skinCare": "Part the silky coat weekly during grooming to inspect the skin for parasites, redness, or mats. Regular brushing and prompt drying after swimming prevent moisture-trapped skin irritation."
+      },
+      "suitability": {
+        "firstTimeOwners": true,
+        "familiesWithChildren": true,
+        "seniorOwners": true,
+        "activeOwners": true,
+        "apartmentLiving": true,
+        "idealFor": [
+          "Families with children seeking an affectionate, playful, and gentle small-to-medium companion",
+          "Active individuals and runners wanting an enthusiastic outdoor hiking and walking partner",
+          "First-time dog owners committed to positive training, consistent grooming, and companionship",
+          "Apartment or house dwellers who provide daily walks, play, and indoor family inclusion",
+          "Gundog and field sports enthusiasts looking for an authentic flushing spaniel"
+        ],
+        "notIdealFor": [
+          "Owners who leave a dog home alone in isolation for long workdays without human company",
+          "People seeking a low-maintenance pet that requires no brushing or professional coat trimming",
+          "Individuals intolerant of moderate shedding and routine ear cleaning",
+          "Homes with free-roaming pet birds or small rodents vulnerable to spaniel flushing instinct"
+        ]
+      },
+      "funFacts": [
+        "The breed is affectionately known worldwide as the 'merry cocker' due to its constantly wagging tail and perpetually joyful, upbeat personality.",
+        "Historically, 'cocker' spaniels were named for their exceptional skill in flushing woodcock out of dense undergrowth for hunters.",
+        "In 1946, an English Cocker Spaniel named Ch. Shikarilee's Bright Star won Best in Show at the prestigious Westminster Kennel Club Dog Show.",
+        "The famous Disney animated classic Lady and the Tramp features an iconic English Cocker Spaniel named Lady as its beloved protagonist.",
+        "Unlike the American Cocker Spaniel, which was bred with a domed skull, shorter muzzle, and heavier coat for the show ring, the English Cocker Spaniel maintains a more athletic, functional working conformation.",
+        "Their long, silky ears act as natural scent-traps, sweeping ground odors directly toward their sensitive nose as they quarter fields."
+      ],
+      "faq": [
+        {
+          "question": "What is an English Cocker Spaniel?",
+          "answer": "The English Cocker Spaniel is a medium-sized, athletic flushing gundog known for its silky feathered coat, long drooping ears, constantly wagging tail, and deeply affectionate, merry temperament."
+        },
+        {
+          "question": "What is the difference between an English Cocker Spaniel and an American Cocker Spaniel?",
+          "answer": "While they share common ancestral roots, the English Cocker Spaniel is slightly taller, has a longer muzzle, a flatter skull, and a more athletic working build, whereas the American Cocker Spaniel features a shorter muzzle, a more domed skull, and a heavier, more abundant show coat."
+        },
+        {
+          "question": "How tall and heavy is an English Cocker Spaniel?",
+          "answer": "Adult males stand 16 to 17 inches at the shoulder and females stand 15 to 16 inches, with both sexes typically weighing between 13 and 14.5 kg in athletic working condition."
+        },
+        {
+          "question": "How long does an English Cocker Spaniel live?",
+          "answer": "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+        },
+        {
+          "question": "Do English Cocker Spaniels shed a lot, and how are they groomed?",
+          "answer": "They shed moderately year-round. Their silky coat requires thorough brushing three to four times a week to prevent mats, along with professional clipping or hand-stripping every 6 to 8 weeks and regular ear cleaning."
+        },
+        {
+          "question": "Are English Cocker Spaniels good family pets and good with children?",
+          "answer": "Yes. They are famously gentle, patient, and good-natured with children, making exceptional family companions; they also get along wonderfully with other dogs and household pets."
+        },
+        {
+          "question": "Can an English Cocker Spaniel live in an apartment?",
+          "answer": "Yes. They adapt very well to apartment living provided they receive adequate daily exercise, play, and close human companionship, as they dislike being left alone for long periods."
+        },
+        {
+          "question": "Are English Cocker Spaniels easy to train?",
+          "answer": "They are exceptionally intelligent, eager to please, and highly responsive to positive reinforcement training, making them quick learners in obedience, agility, and field work."
+        },
+        {
+          "question": "Why do English Cocker Spaniels need special care for their ears?",
+          "answer": "Their long, heavy, pendulous ears cover the ear canal and restrict airflow, trapping moisture and warmth that easily lead to bacterial and yeast ear infections (otitis externa); routine cleaning and drying are essential."
+        },
+        {
+          "question": "What hereditary health tests should breeding parents undergo?",
+          "answer": "Responsible breeding stock should be DNA tested for progressive retinal atrophy (prcd-PRA), familial nephropathy (FN), and adult-onset neuropathy (AN), alongside certified veterinary eye exams and hip dysplasia evaluations."
+        }
+      ],
+      "references": [
+        "fci-english-cocker-spaniel-official-standard",
+        "fci-english-cocker-spaniel-nomenclature",
+        "the-kennel-club-english-cocker-spaniel-breed-standard",
+        "akc-english-cocker-spaniel-breed-standard",
+        "akc-english-cocker-spaniel-breed-profile",
+        "english-cocker-spaniel-club-health",
+        "ofa-english-cocker-spaniel-chic-requirements",
+        "english-cocker-spaniel-genetic-disorders-study-2006",
+        "wikimedia-english-cocker-spaniel-blue-roan-pleple2000",
+        "wikimedia-english-cocker-spaniel-red-pleple2000"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "unverified",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        },
+        "alternateNames": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "Standard heading: ENGLISH COCKER SPANIEL"
+            },
+            {
+              "id": "fci-english-cocker-spaniel-nomenclature",
+              "role": "verified",
+              "locator": "Official nomenclature: ENGLISH COCKER SPANIEL (5), Cocker Spaniel Anglais, Englischer Cocker Spaniel"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Breed name: English Cocker Spaniel"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "History: Cocker Spaniel, English Cocker"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "Verified across FCI Standard No. 5, FCI Nomenclature, The Royal Kennel Club, and AKC."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "FCI Classification: Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 2 Flushing Dogs, with working trial"
+            },
+            {
+              "id": "fci-english-cocker-spaniel-nomenclature",
+              "role": "verified",
+              "locator": "Group 8, Section 2 Flushing Dogs, with working trial"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Gundog Group"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Sporting Group"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "User-facing group classification formulated without prohibited registry names per Rule 5."
+        },
+        "origin": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "ORIGIN: Great Britain; BRIEF HISTORICAL SUMMARY"
+            },
+            {
+              "id": "fci-english-cocker-spaniel-nomenclature",
+              "role": "verified",
+              "locator": "Country of origin: Great Britain"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Origin and development in Great Britain"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": null
+        },
+        "overview": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "General Appearance, Characteristics, Temperament"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "About the Breed, History, and Roles"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "Synthesized in original prose from FCI Standard No. 5, The Royal Kennel Club, and AKC official records."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Head and Skull, Eyes, Ears, Mouth, Neck, Forequarters, Body, Hindquarters, Feet, Tail, Gait/Movement, Coat, Colour, Size"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "General Appearance, Size, Proportion, Substance, Head, Neck, Topline, Body, Tail, Forequarters, Hindquarters, Coat, Color"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "Conformation, rectangular build, silky coat, feathering, and distinctive features follow official standards."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "SIZE: Height at withers: Males: 39-41 cm (15.5-16 ins). Females: 38-39 cm (15-15.5 ins)."
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Height: dogs 39-41 cms (15.5-16 ins); bitches 38-39 cms (15-15.5 ins)"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Height: Ideal height at the withers for dogs is 17 inches; for bitches, 16 inches. Acceptable range: dogs 16-17 inches; bitches 15-16 inches."
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "Preserved in published unit of inches (16 to 17 in for males, 15 to 16 in for females) exactly as specified in the AKC standard (and corresponding to 39-41 cm / 38-39 cm in the UK/FCI standard)."
+        },
+        "physical.weight": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "Weight: Approximately 13.0 - 14.5 kg (28-32 lbs)."
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Weight: Approximately 13.0-14.5 kgs (28-32 lbs)"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "Weight: 28-34 pounds (males), 26-32 pounds (females)"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "Preserved in published unit of kilograms (13.0 to 14.5 kg) as specified in FCI Standard No. 5 and The Royal Kennel Club standard."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "Life Expectancy: 12-15 years"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Longevity and health actuarial profile (12-15 years)"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "Supported by kennel club and breed club actuarial profiles."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "Breed Traits: Shedding Level (3/5)"
+            },
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "COAT: Flat, silky, and fine in texture"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": null
+        },
+        "physical.droolingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "Breed Traits: Drooling Level (2/5)"
+            },
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "Lips: Square, jaw moderately square with clean flews"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "Clean flews result in low to moderate drooling."
+        },
+        "temperament.traits": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "BEHAVIOUR/TEMPERAMENT: Merry, affectionate, full of life; sporting, balanced"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Characteristics and Temperament: Merry, affectionate, robust, sporting, well balanced"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Temperament: Merry, affectionate, adaptable, enthusiastic sporting dog"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": null
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "cited",
+              "locator": "Breed Traits & Characteristics trait ratings"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "cited",
+              "locator": "Temperament and behavior guidance"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Editorial 1–5 estimates based on documented spaniel temperament, high affection, and eager trainability."
+        },
+        "care": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "cited",
+              "locator": "Grooming, Exercise, Training, and Nutrition"
+            },
+            {
+              "id": "english-cocker-spaniel-club-health",
+              "role": "cited",
+              "locator": "Coat maintenance, ear care, and exercise management"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Combines active flushing spaniel care with silky coat grooming and ear hygiene protocols."
+        },
+        "care.exercise.level": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "Energy Level (4/5); Exercise Needs (4/5)"
+            },
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "UTILIZATION: Flushing dog with great stamina"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": null
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "cited",
+              "locator": "Exercise: Up to 1 hour or more per day"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "cited",
+              "locator": "Exercise recommendations"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an energetic sporting spaniel."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "Adaptability: Adapts Well to Apartment Living (4/5) with adequate outdoor exercise"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Living environment: Flat/Apartment suitable with regular daily walks"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": null
+        },
+        "care.livingEnvironment.houseWithYardSuitable": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "Exercise and secure fenced-yard recommendations"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Living environment: Small or large garden suitable"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": null
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "COAT: Flat, silky feathering adapted to British woodland weather"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "Weather tolerance: adaptable to cool and temperate climates"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": null
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "Tolerates Being Alone: Low rating; highly people-oriented companion"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": null
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "cited",
+              "locator": "Nutrition: High-quality food, portion control, treat budgeting"
+            },
+            {
+              "id": "english-cocker-spaniel-club-health",
+              "role": "cited",
+              "locator": "Weight management and spaniel appetite control"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard nutritional recommendations for active sporting dogs prone to weight gain."
+        },
+        "nutrition.feedingFrequency": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "cited",
+              "locator": "Life-stage feeding guidance"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard canine life-stage feeding schedule."
+        },
+        "health.overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "english-cocker-spaniel-genetic-disorders-study-2006",
+              "role": "verified",
+              "locator": "Prevalence of prcd-PRA, familial nephropathy (COL4A4), and adult-onset neuropathy in English Cocker Spaniels"
+            },
+            {
+              "id": "ofa-english-cocker-spaniel-chic-requirements",
+              "role": "verified",
+              "locator": "CHIC Program requirements: prcd-PRA DNA test, Familial Nephropathy DNA test, Adult-Onset Neuropathy DNA test, Eye exam, Hip evaluation"
+            },
+            {
+              "id": "english-cocker-spaniel-club-health",
+              "role": "verified",
+              "locator": "Health priorities: DNA screening, hip dysplasia, eye disorders, and ear care"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "Synthesizes peer-reviewed genetics research on prcd-PRA, FN, and AN with health registry screening protocols."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "english-cocker-spaniel-genetic-disorders-study-2006",
+              "role": "verified",
+              "locator": "Clinical and molecular characterization of prcd-PRA, familial nephropathy, and adult-onset neuropathy"
+            },
+            {
+              "id": "ofa-english-cocker-spaniel-chic-requirements",
+              "role": "verified",
+              "locator": "Hip dysplasia, patellar luxation, and primary glaucoma"
+            },
+            {
+              "id": "english-cocker-spaniel-club-health",
+              "role": "verified",
+              "locator": "Chronic otitis externa and hypothyroidism"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "english-cocker-spaniel-club-health",
+              "role": "cited",
+              "locator": "Preventive care, DNA testing verification, ear hygiene, and weight control"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "cited",
+              "locator": "Routine care and veterinary wellness"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard preventive care protocol tailored to feathered drop-eared gundogs."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "ofa-english-cocker-spaniel-chic-requirements",
+              "role": "verified",
+              "locator": "CHIC Program required screenings: prcd-PRA DNA test, Familial Nephropathy (FN) DNA test, Adult-Onset Neuropathy (AN) DNA test, CAER Eye examination, Hip Dysplasia evaluation"
+            },
+            {
+              "id": "english-cocker-spaniel-club-health",
+              "role": "verified",
+              "locator": "Pre-breeding health screening protocol: DNA testing, eye exams, hips, and gonioscopy"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "Screenings summarize published parent club and health registry protocols."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "cited",
+              "locator": "Jaws/teeth: strong jaws with complete regular scissor bite"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "cited",
+              "locator": "Routine dental care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard home dental hygiene guidelines."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "cited",
+              "locator": "Ears: lobular, set low, covered with long silky hair"
+            },
+            {
+              "id": "english-cocker-spaniel-club-health",
+              "role": "cited",
+              "locator": "Ear canal cleaning and infection prevention"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Ear maintenance protocol for long pendant drop ears."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "cited",
+              "locator": "Skin and flat silky coat care"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General skin and coat care guidelines."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "cited",
+              "locator": "About the breed, Temperament, and Family life ratings"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "cited",
+              "locator": "Characteristics, lifestyle suitability, and exercise"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "Nickname 'merry cocker', Westminster Best in Show 1946 (Ch. Shikarilee's Bright Star), Lady and the Tramp Disney movie"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "History: 1893 Spaniel Club standard, woodcock flushing origin"
+            },
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "Brief historical summary: land spaniels separation"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "Verified historical folklore and cultural heritage facts."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-english-cocker-spaniel-official-standard",
+              "role": "verified",
+              "locator": "Origin, size (38-41 cm), coat, and colors"
+            },
+            {
+              "id": "the-kennel-club-english-cocker-spaniel-breed-standard",
+              "role": "verified",
+              "locator": "Weight (13-14.5 kg), longevity (12-15 years), and temperament"
+            },
+            {
+              "id": "akc-english-cocker-spaniel-breed-profile",
+              "role": "verified",
+              "locator": "Comparison with American Cocker Spaniel, grooming, family suitability, and training"
+            },
+            {
+              "id": "english-cocker-spaniel-genetic-disorders-study-2006",
+              "role": "verified",
+              "locator": "DNA testing for prcd-PRA, familial nephropathy, and adult-onset neuropathy"
+            },
+            {
+              "id": "ofa-english-cocker-spaniel-chic-requirements",
+              "role": "verified",
+              "locator": "Recommended health screening panel"
+            }
+          ],
+          "verifiedOn": "2026-11-09",
+          "note": "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+        }
+      },
+      "updatedOn": "2026-11-09"
     },
     {
       "slug": "english-setter",
