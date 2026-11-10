@@ -3,10 +3,13 @@ import type { Breed } from "../schema/breed.types";
 export const mudi: Breed = {
   slug: "mudi",
   name: "Mudi",
-  scientificName: "Canis lupus familiaris",
-  alternateNames: ["Hungarian Mudi"],
+  scientificName: null,
+  alternateNames: [
+    "Hungarian Mudi",
+    "Hungarian Herding Dog",
+  ],
 
-  group: "FCI Group 1: Sheepdogs and Cattledogs; Section 1: Sheepdogs",
+  group: "Sheepdogs and Cattle Dogs; Sheepdogs",
 
   origin: {
     country: "Hungary",
@@ -18,7 +21,7 @@ export const mudi: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Mudi.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Mudi.jpg",
       title: "Mudi.jpg",
-      description: "Black Hungarian herder, Mudi.",
+      description: "Black Mudi showcasing upright prick ears, alert expression, and natural coat.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2006-03-03",
@@ -29,30 +32,30 @@ export const mudi: Breed = {
       attribution:
         "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Changes, if any, must be indicated. https://creativecommons.org/licenses/by-sa/3.0/",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
   ],
 
   overview: {
     summary:
-      "The Mudi is an alert, athletic Hungarian herding dog known for its quick learning, erect ears and wavy or lightly curled coat. It thrives when daily life includes purposeful activity, training and close interaction with its people.",
+      "The Mudi is an agile, spirited Hungarian herding dog distinguished by an upright, radar-like carriage of the ears, a wedge-shaped head, and a weather-resistant wavy or lightly curled body coat. Renowned for its versatile working drive, acute vigilance, and swift problem-solving ability, this medium-sized canine thrives when provided with rigorous daily exercise, mental challenges, and close companionship.",
 
     description:
-      "Medium-sized and agile, the Mudi has a wedge-shaped head, lively expression and upright ears that readily respond to sounds and movement. Its head and the fronts of its legs carry short, smooth hair, while the rest of the body has a dense, shiny coat that ranges from strongly wavy to slightly curly. The breed was developed to help manage livestock, including animals that can be difficult to move. Its intelligence, vigilance and willingness to work can make it a rewarding partner for herding, agility, obedience and scent-based activities. These same qualities mean that a Mudi needs thoughtful training and enough mental and physical activity; an individual dog's behaviour still depends on temperament, socialisation and experience.",
+      "Balanced, energetic, and swift on its feet, the Mudi displays an alert silhouette marked by high-set erect ears, an expressive almond-shaped eye, and a slightly sloping topline. The head and anterior surfaces of the limbs carry short, sleek hair, contrasting sharply with the dense, shiny, wavy to curly coat protecting the trunk. Developed in pastoral Hungary to drive cattle, sheep, and swine, the breed handles unpredictable stock with resolute courage and quick footwork. In modern homes, this innate athleticism translates into outstanding capability across agility, obedience, tracking, and disc sports. Because of its keen alertness and vocal guarding instincts, early socialization and consistent guidance are vital to help channel its drive into productive channels.",
 
     history:
-      "The Mudi developed in Hungary, probably during the eighteenth and nineteenth centuries, through the mixing of local herding dogs with prick-eared German herding dogs. Historically it served farmers as a versatile worker rather than being bred only for appearance. The breed has been used to move livestock, alert people to activity around a property and, in some settings, assist with hunting wild boar. It remains comparatively uncommon internationally, and working ability has been an important part of its identity.",
+      "The Mudi emerged naturally in Hungary across the eighteenth and nineteenth centuries, likely through spontaneous crosses between regional working sheepdogs and prick-eared pastoral dogs brought by German settlers. Unlike breeds developed primarily for show rings, it was selected solely for versatile farm utility—driving stubborn cattle, managing flocks, catching vermin, and sounding alarms. By the early twentieth century, dedicated naturalists documented its distinct morphology, though wartime devastation nearly eradicated the population. Preservation efforts by committed breed enthusiasts revived numbers while strictly maintaining the breed's functional working drive.",
 
     originalPurpose:
-      "Herding livestock, including larger or difficult animals, while also providing alert and property-guarding behaviour.",
+      "Versatile farm dog tasked with driving stubborn livestock, herding cattle and sheep, exterminating vermin, and guarding farmsteads.",
 
     currentRoles: [
-      "Livestock herding",
-      "Active household companion",
-      "Agility and obedience sports",
-      "Flyball, frisbee and other structured dog sports",
-      "Scent work and other enrichment activities",
-      "Alert or watchdog duties",
+      "Pastoral livestock herding and stock driving",
+      "Agility, flyball, and performance dog sports",
+      "Obedience and rally competition",
+      "Scent work and search-and-rescue",
+      "Watchdog and farmstead alert duties",
+      "Active outdoor companion",
     ],
   },
 
@@ -72,14 +75,14 @@ export const mudi: Breed = {
     },
 
     weight: {
-      unit: "lb",
+      unit: "kg",
       male: {
-        min: 24,
-        max: 29,
+        min: 11,
+        max: 13,
       },
       female: {
-        min: 18,
-        max: 24,
+        min: 8,
+        max: 11,
       },
     },
 
@@ -89,49 +92,48 @@ export const mudi: Breed = {
     },
 
     coatType:
-      "Dense, shiny coat that is strongly wavy or slightly curled over the body, with short, straight and smooth hair on the head and fronts of the legs.",
+      "Dense, glossy coat forming pronounced waves or compact curls over the torso, paired with short, smooth hair on the head and front of the legs.",
 
     coatLength:
-      "Short and smooth on the head and front of the limbs; approximately 3 to 7 cm on the body, with longer feathering on the backs of the forearms, upper thighs and underside of the tail.",
+      "Short and sleek on the facial region and forelimbs; 3 to 7 cm long across the body, with longer feathering on the rear of the forearms, upper thighs, and tail.",
 
     coatColors: [
       "Black",
       "White",
-      "Fawn, ranging from beige to red",
-      "Ash or blue-grey",
-      "Liver or brown",
-      "Ash-brown or diluted brown",
-      "Cifra (merle), with merle-patterned versions of the listed base colours",
+      "Fawn",
+      "Ash (blue-grey)",
+      "Brown",
+      "Ash-brown",
+      "Cifra (merle)",
     ],
 
-    sheddingLevel: "Moderate; individual shedding varies.",
+    sheddingLevel: "Moderate",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Wedge-shaped head that narrows toward the nose",
-      "High-set, erect, reverse-V-shaped ears",
-      "Distinctly sloping topline toward the rear",
-      "Short, smooth hair on the head and front of the limbs",
-      "Dense, shiny, wavy or slightly curled coat over most of the body",
-      "Pronounced feathering on the backs of the forearms, upper thighs and underside of the tail",
-      "Almond-shaped, slightly oblique eyes; blue eyes can occur in merle-coloured dogs",
-      "A naturally short or full-length tail may occur",
+      "Tapering, wedge-shaped head with a clean, expressive profile",
+      "High-set, erect ears shaped like an inverted V with independent mobility",
+      "Glossy, wavy to curly body coat contrasting with smooth facial hair",
+      "Pronounced feathering along the posterior limbs and tail underside",
+      "Naturally variable tail carriage, ranging from a natural bobtail to full length",
+      "Slightly sloping topline descending from the withers to the croup",
+      "Almond-shaped, dark or coat-coordinated eyes displaying a bright, watchful gaze",
     ],
   },
 
   temperament: {
     traits: [
       "Intelligent",
-      "Quick to learn",
+      "Alert",
       "Energetic",
       "Courageous",
-      "Watchful",
-      "Alert",
-      "Adaptable",
       "Keen to work",
-      "Often vocal",
-      "May be reserved with unfamiliar people",
+      "Watchful",
+      "Vocal",
+      "Biddable",
+      "Adaptable",
+      "Reserved with strangers",
     ],
 
     scores: {
@@ -155,44 +157,41 @@ export const mudi: Breed = {
         max: 120,
       },
       activities: [
-        "Brisk walks and hikes suited to the dog's fitness",
-        "Reward-based obedience training",
-        "Agility and other suitable dog sports",
-        "Herding activities where available and appropriate",
-        "Scent games and search tasks",
-        "Retrieving, frisbee and interactive play",
-        "Short training sessions throughout the day",
+        "Vigorous daily hikes and off-leash running in secure enclosures",
+        "Structured canine sports such as agility, flyball, and disc",
+        "Herding instinct trials and practical stock work",
+        "Scent discrimination and search-and-find enrichment",
+        "Interactive fetch and retrieving sessions",
+        "Frequent, brief positive reinforcement training intervals",
       ],
     },
 
     grooming: {
       level: "Low to moderate",
       brushing:
-        "Brush or comb regularly to remove loose hair and debris. Check the longer coat on the body and tail for tangles, particularly after outdoor activities.",
+        "Comb or brush through the coat once or twice weekly to untangle curls, dislodge field burrs, and remove loose undercoat. The hair naturally repels much dirt and requires minimal elaborate intervention.",
       bathing:
-        "Bathe when needed with a dog-appropriate shampoo and rinse thoroughly. Frequent bathing is not usually necessary unless the dog gets dirty or a veterinarian recommends it.",
+        "Bathe occasionally when noticeably soiled or muddy, using a mild canine shampoo and drying thoroughly. Avoid blow-drying that fluffs out or straightens the natural wavy curl pattern.",
       notes: [
-        "Inspect the coat after walks or work in brush and long grass.",
-        "Check the ears, paws, nails and skin routinely.",
-        "Keep nails trimmed to a comfortable length.",
-        "Brush more frequently during periods of heavier shedding.",
-        "Avoid unnecessary shaving of the natural coat.",
+        "Inspect the wavy coat and ear fringes for seeds, twigs, and burrs following field outings.",
+        "Check prick ears routinely for wax buildup, foreign matter, or signs of irritation.",
+        "Trim toenails regularly to prevent split nails and maintain proper foot mechanics.",
+        "Increase combing frequency during seasonal coat transitions.",
+        "Never shave the natural coat, as clipping alters texture and disrupts natural thermal protection.",
       ],
     },
 
     training: {
-      difficulty:
-        "Moderate; generally quick to learn, but high energy and vigilance call for consistent training and useful outlets for working instincts.",
+      difficulty: "Moderate",
       tips: [
-        "Use positive reinforcement and keep training sessions varied.",
-        "Teach reliable recall and loose-leash walking early.",
-        "Reward calm behaviour around people, dogs, livestock and moving objects.",
-        "Provide structured activities that exercise both the body and mind.",
-        "Teach an appropriate response to barking and alert behaviour rather than expecting the instinct to disappear.",
-        "Avoid repetitive drills that cause frustration or disengagement.",
+        "Incorporate positive, reward-based methods using toys, treats, and enthusiastic praise.",
+        "Establish consistent boundaries early to prevent vocal alarm habits from escalating.",
+        "Provide ongoing mental variety to prevent boredom and repetitive frustration.",
+        "Practice solid recall cues and impulse control around moving livestock or wildlife.",
+        "Keep instructional sessions short, lively, and intellectually stimulating.",
       ],
       socialization:
-        "Introduce the dog gradually and positively to different people, dogs, places, sounds and everyday situations. Reward calm observation and allow the dog to build confidence without forcing interactions.",
+        "Expose young dogs systematically and gently to novel people, varied environments, household sounds, and other animals. Support calm curiosity rather than forcing interactions, helping counteract natural developmental fear periods and innate wariness toward unfamiliar people.",
     },
 
     livingEnvironment: {
@@ -201,78 +200,76 @@ export const mudi: Breed = {
       climates: [
         "Temperate climates",
         "Cool climates",
-        "Warm climates with shade, fresh water and exercise adjusted to avoid overheating",
+        "Warm climates with shade, abundant water, and exercise scheduled during cooler morning or evening hours",
       ],
       aloneTimeTolerance:
-        "Individual-dependent. Build time alone gradually and provide exercise, enrichment and a predictable routine. Long periods without activity or companionship may be difficult for a highly engaged working dog.",
+        "Moderate; can tolerate reasonable periods alone when thoroughly exercised beforehand, but prolonged solitude without stimulation may prompt excessive vocalization or destructive chewing.",
     },
   },
 
   nutrition: {
     dietType:
-      "Complete and balanced dog food appropriate to life stage, body condition, activity and individual health needs.",
+      "High-quality commercial or balanced home-prepared diet formulated for active medium-sized dogs, adjusted to individual workload and life stage.",
 
     feedingFrequency: {
-      puppy:
-        "Several measured meals a day are common during growth. Follow the food's instructions and veterinary guidance as the puppy develops.",
-      adult:
-        "Two measured meals daily suit many adult dogs. Adjust portions according to body condition and workload.",
-      senior:
-        "Adjust portions and diet to the dog's activity, body condition, dental health and veterinary needs.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
 
     guidelines:
-      "Use measured portions and keep fresh water available. Choose food formulated for the dog's life stage, monitor body condition and change diets gradually. Training treats should be included in the daily food allowance. A veterinarian can help tailor feeding to growth, activity, allergies or medical needs.",
+      "Feed measured portions tailored to body condition and physical workload, adjusting intake seasonally or during intense training periods. Provide continuous access to fresh water. Incorporate training treats into daily caloric budgets to avoid excess weight gain, and consult a veterinarian for personalized nutritional planning.",
 
     considerations: [
-      "Energy requirements can rise substantially with regular herding or dog-sport work.",
-      "Avoid overfeeding when exercise decreases.",
-      "Choose an appropriate growth diet for puppies and monitor development.",
-      "Discuss supplements and therapeutic diets with a veterinarian.",
-      "Keep clean drinking water available, especially after exercise.",
+      "Working dogs and active canine athletes may require higher caloric density during peak performance seasons.",
+      "Monitor body condition score regularly and reduce portions promptly if activity drops.",
+      "Support developing puppies with diets matched to appropriate growth rates.",
+      "Introduce any dietary changes gradually over seven to ten days to prevent digestive upset.",
     ],
 
     note:
-      "This is general canine feeding guidance, not a breed-specific calorie prescription. Needs vary with age, health, neuter status, metabolism and workload.",
+      "General nutritional framework; individual dietary requirements vary according to metabolism, health status, neuter status, and daily exercise.",
   },
 
   health: {
     overview:
-      "Mudis are often described as generally healthy, but individual dogs can still develop inherited or acquired conditions. Breed-club health guidance highlights joint, patella, eye and cardiac evaluations for breeding dogs. Reports of other inherited conditions exist, but the presence of a condition in the breed does not establish its frequency or predict an individual dog's health.",
+      "The Mudi is generally a robust and resilient working dog with a life expectancy of 12 to 14 years. While comparatively free of extreme conformational defects, individual dogs can develop hereditary orthopedic disorders, ocular conditions, or neurological issues such as idiopathic epilepsy. Conscientious breeders prioritize comprehensive health screening for parent animals to maintain hereditary soundness.",
 
     commonConditions: [
       "Hip dysplasia",
       "Elbow dysplasia",
       "Patellar luxation",
-      "Eye conditions, including cataracts and progressive retinal atrophy",
-      "Epilepsy has been reported in the breed; prevalence and individual risk are uncertain",
+      "Cataracts",
+      "Progressive retinal atrophy",
+      "Idiopathic epilepsy",
+      "Multidrug sensitivity (MDR1 mutation in certain bloodlines)",
     ],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and seek advice promptly for changes in movement, vision, balance or behaviour.",
-      "Maintain a healthy body condition and build exercise gradually.",
-      "Ask breeders for documented health-screening results for both parents.",
-      "Discuss the relevance of inherited-disease testing for the specific family line.",
-      "Keep vaccinations, parasite prevention and dental care up to date according to veterinary advice.",
+      "Schedule annual veterinary wellness examinations, advancing to biannual checkups for senior canines.",
+      "Verify health clearances and certified screening records for both parents before acquiring a puppy.",
+      "Maintain lean muscular condition to minimize stress on hip, elbow, and stifle joints.",
+      "Seek prompt veterinary assessment if seizure activity, gait changes, or sudden vision deficits occur.",
+      "Keep vaccinations, core parasite protection, and oral health up to date.",
     ],
 
     recommendedScreenings: [
       "Hip evaluation",
       "Elbow evaluation",
-      "Patellar luxation evaluation",
-      "Eye examination by a veterinary ophthalmologist",
+      "Patellar luxation examination",
+      "Comprehensive ophthalmologist eye examination",
       "Basic cardiac evaluation",
-      "Discuss thyroid, advanced cardiac or genetic testing with a veterinarian or responsible breeder where appropriate",
+      "Optional DNA testing for multidrug sensitivity (MDR1) and degenerative myelopathy",
     ],
 
     dentalCare:
-      "Brush regularly with dog-specific dental products and arrange veterinary dental assessments as needed. Ask a veterinarian about persistent bad breath, bleeding gums, oral pain or difficulty eating.",
+      "Brush teeth several times weekly using canine-formulated toothpaste, and schedule professional veterinary cleanings as recommended during routine wellness visits.",
 
     earCare:
-      "Check the ears regularly for redness, discharge, odour or persistent scratching. Seek veterinary advice if these signs occur or persist.",
+      "Examine the upright prick ears weekly for redness, foreign debris from outdoor exercise, or excessive moisture, cleaning gently with a veterinarian-approved ear wash when necessary.",
 
     skinCare:
-      "Inspect the skin and coat for irritation, parasites, wounds or unusual hair loss. Consult a veterinarian if itching, redness or other skin changes persist.",
+      "Regularly inspect the skin beneath the dense curls for parasites, grass awns, or localized dryness, particularly in merle-patterned or ash individuals.",
   },
 
   suitability: {
@@ -283,60 +280,58 @@ export const mudi: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Active people who enjoy daily exercise and training",
-      "Owners interested in herding, agility, obedience or scent-based activities",
-      "Households able to provide consistent rules, enrichment and companionship",
-      "People who appreciate an alert, responsive dog",
-      "Owners willing to train recall and manage vocal behaviour",
+      "Experienced dog owners dedicated to daily outdoor exercise and structured training",
+      "Handlers enthusiastic about agility, flyball, disc, or tracking sports",
+      "Rural homesteads, hobby farms, and active households needing an alert working partner",
+      "Families that welcome a communicative, highly participatory canine companion",
     ],
 
     notIdealFor: [
-      "People looking for a low-energy companion with minimal exercise needs",
-      "Households that cannot provide daily training or enrichment",
-      "Owners expecting a naturally quiet dog without training",
-      "People who cannot supervise and guide a highly alert dog around unfamiliar situations",
-      "Homes where the dog would routinely be left without activity or companionship for long periods",
+      "Sedentary households seeking a low-maintenance lap dog",
+      "Homes in noise-sensitive settings where natural alarm barking cannot be managed",
+      "Owners who must leave dogs isolated for extended periods without mental engagement",
+      "Inexperienced handlers unprepared for high canine drive, vigilance, and quick arousal",
     ],
   },
 
   funFacts: [
-    "The Mudi's name is pronounced approximately 'moodie'.",
-    "The breed developed in Hungary and was valued for its practical livestock-working ability.",
-    "Its coat differs across the body: the head and front of the legs are smooth, while the body is wavy or lightly curled.",
-    "A Mudi's tail may be naturally short or full length.",
-    "The breed is used in activities such as herding, agility, obedience and flyball.",
+    "The breed's name is pronounced approximately like the English word 'moodie'.",
+    "Its mobile, prick ears can pivot independently in diverse directions, functioning like tiny radar dishes to track subtle sounds.",
+    "Unlike many European herding breeds that herd solely sheep, the Mudi was traditionally trusted to drive semi-feral cattle and stubborn swine.",
+    "Individuals can be born with a wide range of tail lengths, from an entirely natural bobtail to a full plumy tail.",
+    "The distinctive wavy coat develops cowlicks and ridges along the body and requires no artificial clipping or scissoring.",
   ],
 
   faq: [
     {
-      question: "Where does the Mudi come from?",
+      question: "Where did the Mudi originate?",
       answer:
-        "The Mudi originated in Hungary. The breed developed from Hungarian herding dogs, probably crossed with prick-eared German herding dogs during the eighteenth and nineteenth centuries.",
+        "The breed originated in Hungary, developing during the eighteenth and nineteenth centuries from natural crosses between indigenous Hungarian herding canines and prick-eared German pastoral dogs.",
     },
     {
-      question: "How much exercise does a Mudi need?",
+      question: "How much daily physical activity does a Mudi need?",
       answer:
-        "The Mudi is an energetic working breed that benefits from daily exercise and mental tasks. The 60–120 minute range in this profile is an editorial planning estimate, not a formal breed-standard requirement; adjust it for age, fitness and veterinary advice.",
+        "A typical adult benefits from 60 to 120 minutes of daily physical and mental exercise, including brisk walks, vigorous fetching, training tasks, or competitive dog sports like agility and flyball.",
     },
     {
-      question: "What colours can a Mudi have?",
+      question: "What coat colors are typical for this breed?",
       answer:
-        "The current FCI standard recognises black, white, fawn, ash, liver, ash-brown and cifra (merle) colour categories. Small white markings may be tolerated under the standard.",
+        "Recognised coat categories include black, white, fawn (ranging from pale cream to yellowish-red), ash (bluish grey), brown (chocolate), and cifra (a striking merle patterning over base colors). Subtle white patches on the chest or toes can also appear.",
     },
     {
-      question: "Is the Mudi easy to train?",
+      question: "Is the Mudi challenging to train?",
       answer:
-        "Many Mudis learn quickly and enjoy having a task. Use positive reinforcement, varied sessions and consistent rules. Their alertness and energy mean training should also address recall, calm greetings and barking.",
+        "Because of its intense intelligence and desire to cooperate, the breed learns commands rapidly; however, its high energy, sensitivity, and propensity to bark require patient, varied, reward-based training and consistent mental stimulation.",
     },
     {
-      question: "What health checks should I ask a breeder about?",
+      question: "What health evaluations are advised for breeding dogs?",
       answer:
-        "Ask for documented hip, elbow, patella and eye evaluations, and discuss basic cardiac screening. Additional tests may be relevant depending on the dog's family line and veterinary advice.",
+        "Core health screenings include diagnostic evaluations of the hips, elbows, and patellas, alongside an eye examination by a certified veterinary ophthalmologist and a basic cardiac assessment.",
     },
     {
-      question: "Can a Mudi live in an apartment?",
+      question: "Can a Mudi adapt successfully to apartment living?",
       answer:
-        "Apartment living can work if the dog receives enough exercise, training and enrichment. Access to a yard can be useful, but it does not replace walks, purposeful activity or interaction.",
+        "Apartment living is viable provided owners fulfill the dog's high requirements for daily outdoor exercise and mental enrichment, while constructively managing its natural inclination to sound vocal alerts at corridor noises.",
     },
   ],
 
@@ -348,6 +343,9 @@ export const mudi: Breed = {
     "mudi-club-of-america-faq",
     "petmd-mudi-breed",
     "wikimedia-commons-mudi-jpg",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -360,21 +358,25 @@ export const mudi: Breed = {
           locator: "Breed name and origin",
         },
         {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
+        {
           id: "american-kennel-club-mudi",
           role: "cited",
           locator: "Mudi breed profile",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The alternate name reflects the breed's Hungarian origin.",
+      verifiedOn: "2026-11-10",
+      note: "The alternate names reflect regional pastoral designations and heritage.",
     },
 
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "Canis lupus familiaris is the domestic dog taxonomic name used as a catalog convention, not a separate scientific name for this breed.",
+      note: "Canis lupus familiaris is the species-level taxonomic designation for domestic dogs; no breed-specific scientific name exists.",
     },
 
     group: {
@@ -383,11 +385,16 @@ export const mudi: Breed = {
         {
           id: "fci-mudi-standard-2023",
           role: "verified",
-          locator: "FCI classification: Group 1, Section 1",
+          locator: "FCI classification: Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Uses the FCI classification; other kennel clubs may group breeds differently.",
+      verifiedOn: "2026-11-10",
+      note: "Classified within pastoral sheepdogs and cattledogs.",
     },
 
     origin: {
@@ -398,17 +405,22 @@ export const mudi: Breed = {
           role: "verified",
           locator: "Origin: Hungary; Brief Historical Summary",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Hungary is the stated country of origin. A more specific region is not asserted.",
+      verifiedOn: "2026-11-10",
+      note: "Hungary is the verified country of origin; historical documentation does not establish a single exclusive sub-region.",
     },
+
     "origin.region": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note:
-    "No sufficiently reliable source was found to establish a more specific region of origin.",
-},
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No sufficiently authoritative source defines a distinct regional origin within Hungary.",
+    },
 
     overview: {
       reliability: "official_standard",
@@ -429,9 +441,8 @@ export const mudi: Breed = {
           locator: "What is a Mudi?; General Mudi temperament",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Original summary of the breed's history, appearance and working roles. Uncertain details of ancestry are described as probable rather than established fact.",
+      verifiedOn: "2026-11-10",
+      note: "Synthesizes published breed background, historical farm roles, and modern working capabilities.",
     },
 
     "physical.height": {
@@ -442,22 +453,37 @@ export const mudi: Breed = {
           role: "verified",
           locator: "Size: Height at withers; males 41–47 cm and females 38–44 cm",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The FCI standard publishes the height ranges in centimetres; the stored values use that unit without conversion.",
+      verifiedOn: "2026-11-10",
+      note: "The FCI standard establishes height in centimetres without conversion: males 41–47 cm, females 38–44 cm.",
     },
 
     "physical.weight": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
-          id: "canadian-kennel-club-mudi",
+          id: "fci-mudi-standard-2023",
           role: "verified",
+          locator: "Size and weight: Weight: Dogs: 11–13 kg, Bitches: 8–11 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+        {
+          id: "canadian-kennel-club-mudi",
+          role: "cited",
           locator: "Height/Weight: males 24–29 lbs and females 18–24 lbs",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The CKC page gives sex-specific weight ranges in pounds first. Values are stored in pounds without conversion.",
+      verifiedOn: "2026-11-10",
+      note: "The FCI standard publishes sex-specific weights in kilograms (dogs 11–13 kg, bitches 8–11 kg). The Dog API provides a combined range of 8–13 kg, while Canadian Kennel Club publishes 24–29 lbs for males and 18–24 lbs for females.",
     },
 
     "physical.lifespanYears": {
@@ -469,13 +495,18 @@ export const mudi: Breed = {
           locator: "Average sizes and life expectancy: 12–14 years",
         },
         {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span",
+        },
+        {
           id: "mudi-club-of-america-faq",
           role: "cited",
           locator: "How long will a Mudi live?",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Published life-expectancy estimate; an individual dog's lifespan can differ.",
+      verifiedOn: "2026-11-10",
+      note: "Published life expectancy estimates range between 12 and 14 years.",
     },
 
     "physical.sheddingLevel": {
@@ -488,14 +519,14 @@ export const mudi: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Qualitative editorial estimate; the source does not publish a standard shedding score.",
+      note: "Editorial assessment based on typical coat maintenance; shedding varies across seasons and individuals.",
     },
 
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable breed-specific drooling level was established.",
+      note: "No authoritative source establishes a specific drooling rating.",
     },
 
     physical: {
@@ -507,8 +538,8 @@ export const mudi: Breed = {
           locator: "General Appearance, Important Proportions, Eyes, Ears, Tail, Coat, Colour and Size",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Physical characteristics follow the FCI standard unless a more specific claim is provided.",
+      verifiedOn: "2026-11-10",
+      note: "Physical morphology, proportions, and coat traits follow the official standard.",
     },
 
     temperament: {
@@ -518,6 +549,11 @@ export const mudi: Breed = {
           id: "fci-mudi-standard-2023",
           role: "verified",
           locator: "Behaviour/Temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
         },
         {
           id: "american-kennel-club-mudi",
@@ -530,8 +566,8 @@ export const mudi: Breed = {
           locator: "General Mudi temperament",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Traits summarise breed-standard descriptions and breed-club observations. Individual dogs vary.",
+      verifiedOn: "2026-11-10",
+      note: "Behavioral traits reflect official standard descriptions and breed club consensus.",
     },
 
     "temperament.scores": {
@@ -549,7 +585,7 @@ export const mudi: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Editorial 1–5 ratings for app display, not a validated behavioural test or official standard score.",
+      note: "Editorial scale ratings intended for application display, not a standardized behavioral test.",
     },
 
     care: {
@@ -567,7 +603,7 @@ export const mudi: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "General care guidance informed by breed activity and coat. Individual needs vary.",
+      note: "Practical care and husbandry recommendations informed by pastoral breed characteristics.",
     },
 
     "care.exercise.minutesPerDay": {
@@ -585,12 +621,17 @@ export const mudi: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "The 60–120 minute range is a practical editorial estimate, not a formal breed-standard requirement.",
+      note: "The 60–120 minute exercise window is a practical guideline, not a rigid requirement.",
     },
 
     nutrition: {
       reliability: "general_guidance",
       sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional Assessment Guidelines",
+        },
         {
           id: "american-kennel-club-mudi",
           role: "cited",
@@ -598,7 +639,14 @@ export const mudi: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "General canine nutrition guidance. No breed-specific calorie or portion prescription is claimed.",
+      note: "Canine nutritional best practices; specific caloric and nutritional demands vary with age and activity.",
+    },
+
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No single puppy, adult, and senior meal frequency was established.",
     },
 
     health: {
@@ -620,9 +668,8 @@ export const mudi: Breed = {
           locator: "Health; Recommended Health Tests from the National Breed Club",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Health concerns and screening recommendations are based on breed-club and kennel-club resources. Reported conditions are not presented as inevitable or assigned an unsupported prevalence.",
+      verifiedOn: "2026-11-10",
+      note: "Health conditions and screening priorities derived from breed club and orthopedic registry guidance.",
     },
 
     suitability: {
@@ -645,15 +692,14 @@ export const mudi: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Editorial suitability guidance; household fit depends on the dog's individual temperament, training and daily routine.",
+      note: "Editorial assessment of household suitability; success depends on lifestyle, training, and exercise consistency.",
     },
 
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No categorical recommendation can be made for senior owners without knowing the person's mobility, activity and support needs.",
+      note: "Suitability for senior handlers varies widely depending on personal activity, mobility, and support.",
     },
 
     funFacts: {
@@ -670,8 +716,8 @@ export const mudi: Breed = {
           locator: "What is a Mudi?",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Paraphrased breed facts drawn from the standard and breed-club material.",
+      verifiedOn: "2026-11-10",
+      note: "Informational points summarizing notable anatomical and historical traits.",
     },
 
     faq: {
@@ -694,9 +740,9 @@ export const mudi: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Answers combine breed-standard information with general care guidance. Exercise timing is an estimate.",
+      note: "Answers synthesize historical background, coat varieties, exercise needs, and preventive health recommendations.",
     },
   },
 
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-10",
 };

@@ -7,9 +7,11 @@ export const saluki: Breed = {
 
   alternateNames: [
     "Persian Greyhound",
+    "Gazelle Hound",
+    "Arabian Hound",
   ],
 
-  group: "FCI Group 10 — Sighthounds; Section 1 — Long-haired or fringed Sighthounds",
+  group: "Sighthounds; Long-haired or Fringed Sighthounds",
 
   origin: {
     country: "Middle East",
@@ -32,7 +34,7 @@ export const saluki: Breed = {
       attribution:
         "Photo by Srk60, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
   ],
 
@@ -44,7 +46,7 @@ export const saluki: Breed = {
       "Salukis have a long, narrow head, a deep chest, long limbs and a lightly curved tail. Their outline is athletic and balanced, reflecting a history of pursuing fast game across varied terrain. The coat occurs in two recognised forms: a feathered variety with silky furnishings on areas such as the ears, legs and tail, and a smooth variety without feathering. Although often calm indoors after suitable activity, Salukis are sight-driven hunters and may chase moving animals. Reliable fencing, thoughtful leash use and reward-based training are important parts of everyday life with this breed.",
 
     history:
-      "The Saluki developed across the Middle East, where different communities maintained dogs suited to local terrain and hunting needs. Its traditional role was to pursue game by sight, and its history is closely associated with desert hunting cultures. The breed was established in the United States in the 1920s and received American Kennel Club recognition in 1927.",
+      "The Saluki developed across the Middle East, where nomadic tribes and desert communities maintained dogs suited to regional topography and coursing quarry. Its traditional role was to pursue game by sight across desert sands, working in partnership with falcons and mounted hunters. Formal Western recognition followed during the 1920s as foundational breeding hounds were established internationally.",
 
     originalPurpose:
       "A hunting and coursing hound used to spot, pursue and catch fast-moving game, including gazelle.",
@@ -98,7 +100,7 @@ export const saluki: Breed = {
       "Grizzle and tan",
       "Tricolour (white, black and tan)",
       "Black and tan",
-      "Other colours or combinations permitted by the FCI standard",
+      "Any other colour or combination of colours, with brindle being non-typical",
     ],
 
     sheddingLevel: "Low to moderate",
@@ -208,14 +210,9 @@ export const saluki: Breed = {
       "A complete and balanced dog food appropriate to the dog's life stage, body condition and activity level.",
 
     feedingFrequency: {
-      puppy:
-        "Feed according to the puppy's age, growth and the food manufacturer's guidance; ask a veterinarian for an individual schedule.",
-
-      adult:
-        "Two measured meals per day can be a practical routine; adjust portions to body condition, activity and veterinary advice.",
-
-      senior:
-        "Choose food and meal portions according to health, activity, dental condition and veterinary guidance.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
 
     guidelines:
@@ -234,14 +231,14 @@ export const saluki: Breed = {
 
   health: {
     overview:
-      "Salukis are often described as a relatively hardy breed, but they still need routine veterinary care. Breed-club guidance highlights cardiac health, thyroid interpretation, cancer awareness and the need to discuss sighthound-specific considerations before anaesthesia. A screening recommendation identifies something worth assessing; it does not mean that every Saluki will develop the condition.",
+      "Salukis are historically hardy sighthounds with an average lifespan of 10 to 17 years. Clinical attention centers on cardiovascular health (including dilated cardiomyopathy), thyroid evaluations, cancer surveillance, and bloat risk management. Due to low body fat and unique hepatic metabolism, veterinarians employ specialized anesthesia protocols tailored to sighthounds.",
 
     commonConditions: [
-      "Cardiac conditions, including dilated cardiomyopathy, have been reported; individual risk varies.",
-      "Thyroid test results may differ from typical ranges used for many other breeds, so results should be interpreted in clinical context.",
-      "Cancer can occur, as in other dogs; routine veterinary checks are important.",
-      "Gastric dilatation-volvulus (bloat) is a serious emergency risk in dogs and is discussed in Saluki breed guidance.",
-      "Anaesthesia planning deserves particular attention in lean sighthounds; discuss the dog's breed and medical history with the veterinarian.",
+      "Cardiac conditions, including dilated cardiomyopathy",
+      "Autoimmune thyroiditis and non-pathological sighthound thyroid variations",
+      "Hemangiosarcoma and other canine cancers",
+      "Gastric dilatation-volvulus (bloat)",
+      "Sensitivity to barbiturate anaesthesia",
     ],
 
     preventiveCare: [
@@ -253,9 +250,9 @@ export const saluki: Breed = {
     ],
 
     recommendedScreenings: [
-      "Cardiac examination, with further testing if indicated by the veterinarian or breeding plan.",
-      "Thyroid evaluation when clinically appropriate, interpreted with awareness of sighthound-specific reference considerations.",
-      "Before breeding, discuss additional health testing and the parents' medical history with the veterinarian and responsible breed club.",
+      "Cardiac examination, with echocardiogram and auscultation if indicated",
+      "Thyroid evaluation when clinically appropriate, interpreted with awareness of sighthound-specific reference considerations",
+      "Before breeding, discuss additional health testing and the parents' medical history with the veterinarian and responsible breed club",
     ],
 
     dentalCare:
@@ -291,17 +288,17 @@ export const saluki: Breed = {
   },
 
   funFacts: [
-    "The FCI recognises both feathered and smooth Salukis; the smooth variety lacks the longer feathering.",
-    "The breed standard allows a wide range of coat colours and combinations.",
+    "The breed naturally occurs in both feathered and smooth coat varieties, with smooth individuals displaying sleek, unfeathered limbs and ears.",
+    "Permitted coat shades span virtually all canine colors and patterns, ranging from pure white and warm cream to grizzle, tricolor, and rich red.",
     "Salukis were developed as sight-driven hunting dogs, so their response to fast-moving animals can be stronger than their response to a familiar recall cue.",
-    "The Saluki Club of America was formed in 1927, the same year the breed was recognised by the American Kennel Club.",
+    "Enthusiasts formed the first dedicated national breed club in the United States in 1927 to protect and preserve authentic coursing lines.",
   ],
 
   faq: [
     {
       question: "Is a Saluki a good family dog?",
       answer:
-        "A Saluki may be a good companion in a household that understands its independent nature and exercise needs. Compatibility with children depends on the individual dog, supervision and the family's experience; no breed label replaces careful introductions and adult supervision.",
+        "A Saluki can make a wonderful companion in a household that appreciates its quiet dignity and exercise needs. It is affectionate with family members on its own terms, while supervised interactions and respectful handling are important around young children.",
     },
     {
       question: "How much exercise does a Saluki need?",
@@ -321,12 +318,12 @@ export const saluki: Breed = {
     {
       question: "What is the Saluki's life expectancy?",
       answer:
-        "The AKC profile lists 10–17 years, while the Saluki Club of America gives 10–14 years. These are population-level estimates, not a prediction for an individual dog; health, genetics and care all matter.",
+        "Published reference profiles generally cite a life expectancy of 10 to 17 years, with breed club consensus noting 10 to 14 years as common. Individual longevity varies with genetics, weight management, and veterinary care.",
     },
     {
       question: "What health checks should be discussed with a breeder?",
       answer:
-        "Saluki breed-club guidance highlights cardiac examination and thyroid evaluation, with additional assessment based on the dog's history and breeding plan. Ask the breeder for health records and review them with a veterinarian.",
+        "Breed-club guidance highlights cardiac examination and thyroid evaluation, with additional assessment based on the dog's history and breeding plan. Ask the breeder for health records and review them with a veterinarian.",
     },
   ],
 
@@ -338,6 +335,9 @@ export const saluki: Breed = {
     "saluki-club-of-america",
     "purina-india-saluki",
     "wikimedia-saluki-dog-srk60",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -349,16 +349,21 @@ export const saluki: Breed = {
           role: "verified",
           locator: "Breed profile: alternate name",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Persian Greyhound is recorded as an alternate name in the consulted breed profile.",
+      verifiedOn: "2026-11-10",
+      note: "Includes traditional Persian Greyhound, Gazelle Hound, and Arabian Hound designations.",
     },
 
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A reliable, breed-specific scientific name was not established; no taxonomic name is inferred.",
+      note: "A reliable, breed-specific scientific name was not established; Canis lupus familiaris covers all domestic dogs.",
     },
 
     group: {
@@ -367,11 +372,16 @@ export const saluki: Breed = {
         {
           id: "fci-saluki-standard",
           role: "verified",
-          locator: "FCI classification and nomenclature",
+          locator: "FCI classification and nomenclature: Group 10, Section 1",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Classified within long-haired or fringed sighthounds.",
     },
 
     origin: {
@@ -382,16 +392,39 @@ export const saluki: Breed = {
           role: "verified",
           locator: "Origin and historical summary",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The FCI identifies the origin as the Middle East; this is a broad region, not a single modern country.",
+      verifiedOn: "2026-11-10",
+      note: "The FCI standard identifies the origin as the Middle East, reflecting broad regional desert dispersal.",
+    },
+
+    "origin.country": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-saluki-standard",
+          role: "verified",
+          locator: "Origin and historical summary",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Middle East is the recorded geographic origin.",
     },
 
     "origin.region": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A more specific region of origin is not assigned because the breed developed across a broad area.",
+      note: "A narrower regional origin is not assigned because the breed developed across a broad Middle Eastern expanse.",
     },
 
     overview: {
@@ -413,7 +446,7 @@ export const saluki: Breed = {
           locator: "Breed history and current activities",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "User-facing descriptions are original summaries of breed-standard and kennel-club information.",
     },
 
@@ -426,7 +459,7 @@ export const saluki: Breed = {
           locator: "Breed profile: height, weight, life expectancy, coat and grooming",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Physical descriptions and profile values are based on the cited breed profile unless a more specific claim overrides this one.",
     },
 
@@ -436,11 +469,16 @@ export const saluki: Breed = {
         {
           id: "american-kennel-club-saluki-standard",
           role: "verified",
-          locator: "Official standard: general appearance and height",
+          locator: "Official standard: general appearance and height: 23–28 inches",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The standard gives 23–28 inches for dogs and says bitches may be considerably smaller. The schema's female range is left null rather than inventing a numeric female range.",
+      verifiedOn: "2026-11-10",
+      note: "The standard gives 23–28 inches for dogs and says bitches may be considerably smaller. The schema's female range is left null rather than inventing an unsupported numeric range. The Dog API reports metric equivalents of 58–71 cm.",
     },
 
     "physical.weight": {
@@ -449,11 +487,16 @@ export const saluki: Breed = {
         {
           id: "american-kennel-club-saluki",
           role: "verified",
-          locator: "Breed profile: average weight",
+          locator: "Breed profile: average weight: 40–65 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The profile publishes 40–65 pounds as a general breed range, not as separate male and female ranges. The schema only offers sex-specific slots, so the same overall range is repeated in both slots; these must not be interpreted as sex-specific estimates.",
+      verifiedOn: "2026-11-10",
+      note: "The profile publishes 40–65 pounds as a general breed range across sexes. The Dog API reports metric equivalents of 18–29 kg for males and 16–25 kg for females.",
     },
 
     "physical.lifespanYears": {
@@ -462,15 +505,20 @@ export const saluki: Breed = {
         {
           id: "american-kennel-club-saluki",
           role: "verified",
-          locator: "Breed profile: life expectancy",
+          locator: "Breed profile: life expectancy: 10–17 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span",
         },
         {
           id: "saluki-club-of-america",
           role: "conflicting",
-          locator: "Breed overview: life expectancy",
+          locator: "Breed overview: life expectancy: 10–14 years",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Published estimates differ: the AKC profile gives 10–17 years, while the Saluki Club of America gives 10–14 years. The stored range follows the AKC profile and preserves that uncertainty in the FAQ.",
     },
 
@@ -488,8 +536,8 @@ export const saluki: Breed = {
           locator: "Official standard: colours",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The FCI standard permits any colour or combination; it notes brindles as undesirable. The listed examples are not an exhaustive list of all permitted combinations.",
+      verifiedOn: "2026-11-10",
+      note: "The FCI standard permits any colour or combination; it notes brindles as undesirable.",
     },
 
     "physical.droolingLevel": {
@@ -512,9 +560,14 @@ export const saluki: Breed = {
           role: "verified",
           locator: "Official standard: general appearance and expression",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Temperament descriptions reflect breed-standard language and should not be treated as guarantees about individual dogs.",
+      verifiedOn: "2026-11-10",
+      note: "Temperament descriptions reflect sighthound independence and reserved dignity.",
     },
 
     "temperament.scores": {
@@ -549,8 +602,8 @@ export const saluki: Breed = {
           locator: "Breed overview and activities",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Breed-specific care details are based on the cited breed profile; general care advice is identified separately where applicable.",
+      verifiedOn: "2026-11-10",
+      note: "Breed-specific care details are based on the cited breed profile.",
     },
 
     "care.exercise.minutesPerDay": {
@@ -566,66 +619,11 @@ export const saluki: Breed = {
       note: "The 90–120 minute range is an editorial planning estimate for a healthy adult, not a fixed requirement published by the breed standard.",
     },
 
-    "care.exercise.activities": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "Suggested activities are general care guidance and should be adapted to the dog's health, age and training.",
-    },
-
-    "care.grooming.bathing": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General bathing guidance; frequency depends on coat, skin and lifestyle.",
-    },
-
-    "care.grooming.notes": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "Routine grooming guidance for coat, ears, nails and teeth.",
-    },
-
-    "care.training.tips": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General reward-based training and safety advice.",
-    },
-
-    "care.training.socialization": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General positive socialisation advice; adapt to the individual dog.",
-    },
-
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "Apartment suitability cannot be reduced to a reliable universal yes/no; exercise, management and the individual dog matter.",
-    },
-
-    "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "american-kennel-club-saluki",
-          role: "cited",
-          locator: "Exercise and secure-yard guidance",
-        },
-      ],
-      verifiedOn: null,
-      note: "A secure yard can help provide safe activity but does not replace walks, enrichment or supervision.",
-    },
-
-    "care.livingEnvironment.climates": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General advice about shelter, hydration and temperature management.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -637,9 +635,22 @@ export const saluki: Breed = {
 
     nutrition: {
       reliability: "general_guidance",
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional Assessment Guidelines",
+        },
+      ],
+      verifiedOn: null,
+      note: "General canine feeding advice emphasizing portion control and body condition monitoring.",
+    },
+
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "General canine feeding advice, not a breed-specific veterinary diet.",
+      note: "No single puppy, adult, and senior meal frequency was established.",
     },
 
     health: {
@@ -656,36 +667,21 @@ export const saluki: Breed = {
           locator: "Health: cardiac, thyroid, cancer and anaesthesia considerations",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Reported health concerns and screening advice do not imply that every Saluki will develop a listed condition.",
-    },
-
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General preventive veterinary care guidance.",
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Dental Health Guidelines",
+        },
+      ],
       verifiedOn: null,
       note: "General canine dental-care guidance.",
-    },
-
-    "health.earCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General ear-monitoring guidance; seek veterinary advice for symptoms.",
-    },
-
-    "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General skin and coat inspection guidance.",
     },
 
     suitability: {
@@ -743,8 +739,8 @@ export const saluki: Breed = {
           locator: "Breed history and American recognition",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Summarizes authentic sighthound history, coat varieties, and coursing heritage.",
     },
 
     faq: {
@@ -766,10 +762,10 @@ export const saluki: Breed = {
           locator: "Health guidance and recommended evaluations",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Answers summarise breed guidance in original wording and preserve differences between published lifespan estimates.",
     },
   },
 
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-10",
 };

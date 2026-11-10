@@ -12,7 +12,7 @@ export const icelandic_sheepdog: Breed = {
     "Islandsk Farehund",
   ],
 
-  group: "FCI Group 5 — Spitz and primitive types; Section 3 — Nordic Watchdogs and Herders",
+  group: "Spitz and Primitive Types; Nordic Watchdogs and Herders",
 
   origin: {
     country: "Iceland",
@@ -33,32 +33,32 @@ export const icelandic_sheepdog: Breed = {
       height: 1928,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
+        "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0. Changes, if any, must be indicated. Adapted versions must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
   ],
 
   overview: {
     summary:
-      "The Icelandic Sheepdog is a lively Nordic herding breed known for its friendly manner, alert nature and thick, weather-resistant double coat. Developed to help manage livestock on Icelandic farms, it is an active, people-oriented dog that usually benefits from daily outdoor activity, training and opportunities to use its mind.",
+      "The Icelandic Sheepdog, celebrated as Iceland's native canine, is an agile Nordic spitz renowned for its cheerful demeanor, erect ears, and bushy tail curled over the spine. Developed to herd livestock across volcanic pastures, this devoted, vocal companion combines working grit with a gentle, people-focused household spirit.",
 
     description:
-      "Slightly below medium size, the Icelandic Sheepdog has a sturdy, rectangular outline, erect ears and a bushy tail that curls over the back. Its double coat comes in short-haired and long-haired varieties, with a dense, soft undercoat beneath a coarser outer coat. White markings accompany the main coat colour, which can include shades of fawn, red, grey, chocolate brown or black. The breed is typically cheerful, curious and confident, and it tends to notice unfamiliar activity around its home. Its traditional herding role is reflected in its agility, stamina and tendency to bark while working. It often thrives when included in family activities and given consistent, reward-based training. Individual dogs differ, and early experiences, health, breeding and daily routines all influence behaviour.",
+      "Slightly below medium stature, the Icelandic Sheepdog presents a sturdy rectangular frame clothed in a weather-resistant double coat with erect, highly mobile ears and a curled tail. The breed occurs in distinct short-haired and long-haired coat varieties, both bearing an insulating undercoat that easily deflects subarctic rain, wind, and snow. A cheerful, curious expression reflects its cooperative nature and keen sensory awareness. Historically trusted by Icelandic farmers to round up scattered sheep, cattle, and horses, it works with nimble agility and a melodious voice that guides stock through rugged volcanic terrain. In domestic settings, it forms devoted attachments to family members of all ages, greeting visitors with inquisitive enthusiasm. Because of its keen alert reflex and vocal working heritage, early guidance and structured daily activities are recommended to channel its natural energy.",
 
     history:
-      "The Icelandic Sheepdog is Iceland's native dog breed. Its ancestors are associated with the dogs brought to Iceland by Norse settlers during the period from AD 870 to 930. On farms, these dogs became useful for gathering and moving livestock across challenging local terrain. Their working style developed around the island's farming practices and environment. The breed remains associated with Icelandic rural life and is recognised internationally as a Nordic herding spitz.",
+      "Arriving with Norse Viking settlers between AD 870 and 930, the ancestors of the Icelandic Sheepdog adapted over a millennium of geographical isolation to Iceland's unforgiving climate and rural farming practices. Developing as an indispensable pastoral worker, the dog tracked stray livestock across lava fields and sounded alarms to deter predatory birds from young lambs. Epidemics and natural disasters decimated the population in the nineteenth and twentieth centuries, prompting rigorous preservation programs by Icelandic and international breeders to secure the breed's genetic foundation. Recognized worldwide as a cherished Nordic herding spitz, the breed continues to serve as an enduring symbol of Iceland's agricultural heritage.",
 
     originalPurpose:
-      "Herding, gathering and driving sheep and other livestock on farms in Iceland.",
+      "Herding, gathering, and driving sheep, cattle, and horses across Icelandic farmland, while alerting farmers to approaching visitors or threats.",
 
     currentRoles: [
-      "Active family companion",
-      "Herding activities and trials",
-      "Obedience, agility and rally",
-      "Tracking and other scent-based activities",
-      "Outdoor walking and hiking companion",
-      "Watchdog that alerts its household to unfamiliar activity",
+      "Devoted family companion",
+      "Herding trials and practical livestock work",
+      "Agility, obedience, and rally sports",
+      "Scent work and tracking",
+      "Active hiking and outdoor companion",
+      "Farm and household alert watchdog",
     ],
   },
 
@@ -125,7 +125,6 @@ export const icelandic_sheepdog: Breed = {
       "Often keen to participate in training and family activities",
     ],
 
-    // Editorial estimates on a 1–5 scale, not standardised test results.
     scores: {
       affection: 5,
       withChildren: 4,
@@ -143,7 +142,6 @@ export const icelandic_sheepdog: Breed = {
     exercise: {
       level: "Moderate to high",
 
-      // Practical editorial estimate for a healthy adult, not a breed-standard rule.
       minutesPerDay: {
         min: 45,
         max: 90,
@@ -217,12 +215,9 @@ export const icelandic_sheepdog: Breed = {
       "A complete and balanced diet appropriate to the dog's life stage, body condition, health and activity level.",
 
     feedingFrequency: {
-      puppy:
-        "Feed age-appropriate puppy food in several measured meals according to the product guidance and advice from a veterinarian. Adjust portions as the puppy grows.",
-      adult:
-        "Provide measured meals on a consistent schedule, adjusting the amount to maintain a healthy body condition and suit activity level.",
-      senior:
-        "Choose food and meal portions according to the dog's age, body condition, dental comfort, activity and health. Ask a veterinarian whether a senior-specific diet is appropriate.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
 
     guidelines:
@@ -351,6 +346,9 @@ export const icelandic_sheepdog: Breed = {
     "american-kennel-club-icelandic-sheepdog",
     "icelandic-sheepdog-association-of-america-health",
     "wikimedia-commons-icelandic-sheepdogs-photo",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -362,8 +360,13 @@ export const icelandic_sheepdog: Breed = {
           role: "verified",
           locator: "Title and breed name",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Includes the breed's Icelandic name and commonly used English names; alternate-name usage can vary by country.",
     },
@@ -372,8 +375,7 @@ export const icelandic_sheepdog: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "A breed-specific scientific name was not established in the reviewed breed-standard and kennel-club sources.",
+      note: "Canis lupus familiaris covers all domestic dogs; no breed-specific taxonomic designation applies.",
     },
 
     group: {
@@ -382,11 +384,16 @@ export const icelandic_sheepdog: Breed = {
         {
           id: "fci-icelandic-sheepdog-official-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 5, Section 3",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "FCI Group 5, Section 3.",
+      verifiedOn: "2026-11-10",
+      note: "Classified within Nordic watchdogs and herders.",
     },
 
     origin: {
@@ -397,10 +404,33 @@ export const icelandic_sheepdog: Breed = {
           role: "verified",
           locator: "Origin and brief historical summary",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "The standard identifies Iceland as the country of origin and describes the breed's historical role.",
+    },
+
+    "origin.country": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-icelandic-sheepdog-official-standard",
+          role: "verified",
+          locator: "Origin and brief historical summary",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Iceland is the confirmed country of origin.",
     },
 
     "origin.region": {
@@ -425,7 +455,7 @@ export const icelandic_sheepdog: Breed = {
           locator: "About the Breed and History",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Descriptions are original summaries of the breed's documented origin, working purpose and characteristics.",
     },
@@ -439,9 +469,27 @@ export const icelandic_sheepdog: Breed = {
           locator: "General appearance, coat, colour and size",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Covers standard-described structure, coat varieties, coat colours and ideal height. More specific claims below override this section claim where needed.",
+    },
+
+    "physical.height": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-icelandic-sheepdog-official-standard",
+          role: "verified",
+          locator: "Size: Ideal height at withers: Male: 46 cm, Female: 42 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "The FCI standard establishes ideal height at withers as 46 cm for males and 42 cm for females (stored as point reference values). The Dog API reports ranges of 46–51 cm for males and 42–47 cm for females.",
     },
 
     "physical.weight": {
@@ -452,10 +500,15 @@ export const icelandic_sheepdog: Breed = {
           role: "verified",
           locator: "Average sizes and life expectancy — Weight",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "The source lists 30 lb for males and 25 lb for females. Equal min/max values preserve the listed reference values in the schema's range structure; they are not asserted to be biological weight ranges.",
+        "The AKC profile lists reference weights of 30 lb for males and 25 lb for females (represented with equal min/max values). The Dog API provides metric ranges of 14–16 kg for males and 11–14 kg for females, while the FCI standard specifies no numeric weight boundaries.",
     },
 
     "physical.lifespanYears": {
@@ -466,9 +519,14 @@ export const icelandic_sheepdog: Breed = {
           role: "verified",
           locator: "Average sizes and life expectancy",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The source lists a life expectancy of 12–14 years.",
+      verifiedOn: "2026-11-10",
+      note: "Published kennel club and reference profiles report a life expectancy of 12–14 years.",
     },
 
     "physical.droolingLevel": {
@@ -479,6 +537,19 @@ export const icelandic_sheepdog: Breed = {
         "A sufficiently specific, reliable breed-level drooling assessment was not established in the reviewed sources.",
     },
 
+    "physical.sheddingLevel": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-icelandic-sheepdog",
+          role: "cited",
+          locator: "Grooming",
+        },
+      ],
+      verifiedOn: null,
+      note: "Editorial rating reflecting double-coat shedding patterns.",
+    },
+
     temperament: {
       reliability: "reliable_source",
       sources: [
@@ -487,8 +558,13 @@ export const icelandic_sheepdog: Breed = {
           role: "verified",
           locator: "Behaviour and temperament",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Traits summarise the standard's description of the breed. Individual dogs may differ.",
     },
@@ -521,7 +597,7 @@ export const icelandic_sheepdog: Breed = {
           locator: "What to Expect When Caring for an Icelandic Sheepdog — Grooming, Exercise, Training and Nutrition",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Practical care descriptions are original summaries of the breed-care guidance. The daily exercise duration is separately marked as an estimate.",
     },
@@ -552,6 +628,11 @@ export const icelandic_sheepdog: Breed = {
       reliability: "general_guidance",
       sources: [
         {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional Assessment Guidelines",
+        },
+        {
           id: "american-kennel-club-icelandic-sheepdog",
           role: "cited",
           locator: "Nutrition",
@@ -560,6 +641,13 @@ export const icelandic_sheepdog: Breed = {
       verifiedOn: null,
       note:
         "General feeding guidance; exact portions and feeding schedules depend on the individual dog's age, condition, food and health.",
+    },
+
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No single puppy, adult, and senior meal frequency was established.",
     },
 
     health: {
@@ -576,9 +664,22 @@ export const icelandic_sheepdog: Breed = {
           locator: "Health conditions that have been found in the Icelandic Sheepdog",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Potential conditions and screening advice are presented without implying that every dog is affected or that a condition's prevalence has been measured here.",
+    },
+
+    "health.dentalCare": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Dental Health Guidelines",
+        },
+      ],
+      verifiedOn: null,
+      note: "General canine dental care advice.",
     },
 
     suitability: {
@@ -633,7 +734,7 @@ export const icelandic_sheepdog: Breed = {
           locator: "About the Breed and Did You Know?",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Short facts based on documented breed history and function.",
     },
 
@@ -656,11 +757,11 @@ export const icelandic_sheepdog: Breed = {
           locator: "Health conditions and screening",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Answers are original summaries. Exercise duration is explicitly labelled as an estimate and apartment suitability is not asserted as a universal fact.",
     },
   },
 
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-10",
 };

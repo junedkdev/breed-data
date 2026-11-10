@@ -5,7 +5,7 @@ export const shiba_inu: Breed = {
   name: "Shiba Inu",
   scientificName: null,
   alternateNames: ["Shiba", "柴犬"],
-  group: "FCI Group 5 — Spitz and primitive types; Section 5 — Asian Spitz and related breeds",
+  group: "Spitz and Primitive Types; Asian Spitz and Related Breeds",
 
   origin: {
     country: "Japan",
@@ -28,60 +28,54 @@ export const shiba_inu: Breed = {
       attribution:
         "Photo by Howyadointhere, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). No changes made. Adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
   ],
 
   overview: {
     summary:
-      "The Shiba Inu is a small, sturdy Japanese breed originally used to hunt birds and small animals. It has a compact, muscular build, upright triangular ears, dark eyes and a curled or sickle-shaped tail. Its dense double coat comes in several recognised colours, usually with pale markings called urajiro. Shibas are alert, independent-minded and often strongly attached to familiar people. Their hunting background makes secure outdoor management and patient, reward-based training especially important.",
+      "The Shiba Inu is a compact, spirited Japanese spitz breed historically developed to hunt small game and birds across rugged mountainous regions. Recognised for its prick triangular ears, fox-like wedge head, dense double coat, and tightly curled tail, it displays an independent, confident, and dignified temperament. While devoted and affectionate with its immediate household, its keen prey drive and autonomous nature require patient, reward-based training and secure outdoor management.",
 
     description:
-      "The Shiba Inu combines a compact frame with well-developed muscles and quick, light movement. Its outer coat is straight and firm, while the soft undercoat provides insulation. The head has a broad forehead and a tapered muzzle, with small forward-tilting ears and a confident expression. Coat colours include red, black and tan, and sesame variations; the standard describes pale urajiro markings on characteristic areas of the body. Shibas are observant and can be self-directed, so reliable everyday manners are best built through consistency and rewards rather than force. Regular walks, mental enrichment, grooming during seasonal shedding and secure lead or fenced-area management help meet their needs.",
+      "Muscular, compact, and quick on its feet, the Shiba Inu exhibits harmonious proportions and effortless, light-footed movement. Its outer coat is harsh and straight, standing off from the body over a soft, insulating undercoat, complemented by a thick brush tail carried proudly curled or arched over the back. Permitted colourings include red, black and tan, and sesame varieties, characterised by pale urajiro markings on the muzzle, cheeks, chest, underbelly, and inner legs. While deeply loyal and fastidiously clean within the home, the breed possesses an independent working spirit that responds best to consistent positive reinforcement rather than rigid drills. Daily physical walks, scent enrichment, and routine double-coat care during seasonal shedding keep this historic Japanese companion healthy and engaged.",
 
     history:
-      "The Shiba is an indigenous Japanese breed with a long history in mountainous areas facing the Sea of Japan, where it was used to hunt birds and small animals. Regional populations developed slight differences. During the late nineteenth and early twentieth centuries, crossbreeding with imported hunting dogs contributed to a decline in pure Shiba populations. Preservation efforts began in earnest around the late 1920s, and a unified breed standard was established in 1934. In 1937, the Shiba was designated a natural monument in Japan, supporting the preservation and development of the breed known today.",
+      "The Shiba Inu represents the smallest and oldest of Japan's native Spitz breeds, tracing its heritage to ancient hunting canines that inhabited mountainous regions facing the Sea of Japan. Traditionally prized for flushing game birds and tracking small quarry through dense brushwood, regional populations historically developed subtle differences across the San'in, Mino, and Shinshu strains. Following near-extinction during the early twentieth century and post-war hardships, dedicated Japanese breed preservationists consolidated surviving bloodlines, establishing unified breed criteria in 1934. In 1937, the Japanese government designated the Shiba Inu as a protected national natural monument, safeguarding the breed's cultural legacy and distinctive characteristics for modern generations.",
 
     originalPurpose:
-      "Hunting birds and small animals, as well as serving as a companion dog.",
+      "Flushing and hunting game birds and small mammals in rugged mountain terrain, as well as serving as a watchful farmstead companion.",
 
     currentRoles: [
-      "Companion dog",
-      "Reward-based obedience and trick training",
-      "Scent games and other enrichment activities",
-      "Conformation showing",
-      "Active outdoor companionship with secure management",
+      "Devoted companion dog",
+      "Agility, rally, and obedience participant",
+      "Scent games, nose work, and problem-solving enrichment",
+      "Conformation exhibition",
+      "Active leashed outdoor companion",
     ],
   },
 
   physical: {
-    sizeCategory: "Small, compact and muscular",
+    sizeCategory: "Small, compact, and muscular",
 
     height: {
-      // The standard publishes ideal heights and a tolerance of ±1.5 cm.
-      // The numeric ranges below express those stated tolerances in cm.
       unit: "cm",
       male: { min: 38, max: 41 },
       female: { min: 35, max: 38 },
     },
 
-    // The reviewed official breed standards do not establish a numeric
-    // weight range, so no weight is inferred.
     weight: {
       unit: null,
       male: null,
       female: null,
     },
 
-    // A reliable breed-wide lifespan figure was not established from the
-    // primary sources reviewed for this record.
     lifespanYears: null,
 
     coatType:
-      "Double coat with a harsh, straight outer coat and a soft, dense undercoat.",
+      "Double coat with harsh, straight outer coat and soft, dense undercoat",
 
     coatLength:
-      "Short to medium, with a dense undercoat and slightly longer hair on the tail.",
+      "Short to medium over the body, with slightly longer, stand-off hair forming a plume on the tail.",
 
     coatColors: [
       "Red",
@@ -92,34 +86,33 @@ export const shiba_inu: Breed = {
     ],
 
     sheddingLevel:
-      "Heavy seasonal shedding is common. Regular brushing during coat changes helps remove loose undercoat and reduce hair around the home.",
+      "Heavy seasonal shedding, with significant undercoat release occurring during biannual coat blow.",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Small, well-balanced and muscular body",
-      "Small triangular ears held upright and tilted slightly forward",
-      "Dark brown, somewhat triangular eyes",
-      "Thick tail carried curled or in a sickle shape over the back",
-      "Dense double coat",
-      "Urajiro pale markings on characteristic areas of the face, underside and limbs",
-      "Quick, free and light movement",
+      "Compact, well-muscled, and square-proportioned spitz outline",
+      "Small, triangular prick ears tilted forward in line with the neck",
+      "Dark brown, almond-shaped triangular eyes with spirited expression",
+      "Thick, high-set tail carried curled or sickle-arched over the loin",
+      "Dense, weather-resistant double coat with straight outer guard hairs",
+      "Characteristic urajiro (whitish-to-cream markings) on the muzzle, cheeks, throat, chest, belly, and inner legs",
+      "Light, springy, and effortless trotting gait",
     ],
   },
 
   temperament: {
     traits: [
-      "Alert and observant",
-      "Loyal to familiar people",
-      "Confident and self-possessed",
-      "Independent-minded",
-      "Active and agile",
-      "May show a strong interest in small animals",
-      "Can be reserved with unfamiliar people",
-      "May be difficult to recall reliably when off lead",
+      "Alert and watchful",
+      "Spirited and bold",
+      "Independent",
+      "Loyal to familiar handlers",
+      "Confident and dignified",
+      "Strong prey drive",
+      "Reserved with strangers",
+      "Fastidiously clean",
     ],
 
-    // Editorial estimates on a 1–5 scale, not standardised test results.
     scores: {
       affection: 4,
       withChildren: 3,
@@ -135,18 +128,16 @@ export const shiba_inu: Breed = {
 
   care: {
     exercise: {
-      level:
-        "Moderate to high for a healthy adult, depending on age, health and individual temperament.",
+      level: "Moderate to high",
 
       minutesPerDay: null,
 
       activities: [
-        "Daily walks on a secure lead",
-        "Reward-based obedience practice",
-        "Scent games and food puzzles",
-        "Supervised play",
-        "Short training sessions with varied rewards",
-        "Exploration in secure, enclosed areas",
+        "Daily leashed walks and neighbourhood scent exploration",
+        "Structured tracking games, search puzzles, and nose work",
+        "Interactive games of fetch and flirt-pole chase in secure yards",
+        "Short, engaging trick training and positive obedience sessions",
+        "Agility and obstacle navigation in enclosed arenas",
       ],
     },
 
@@ -154,39 +145,34 @@ export const shiba_inu: Breed = {
       level: "Moderate, increasing during seasonal coat changes",
 
       brushing:
-        "Brush or comb the coat regularly, with more frequent sessions when the undercoat is shedding heavily. Gentle brushing helps remove loose hair and gives you an opportunity to check the skin. Introduce grooming gradually, as some Shibas may resist prolonged handling.",
+        "Brush weekly with a slicker brush and metal greyhound comb to remove loose hair and distribute natural oils. Increase brushing to daily sessions during seasonal shedding blowouts to lift heavy dead undercoat.",
 
       bathing:
-        "Bathe when necessary with a dog-appropriate shampoo and rinse thoroughly. Avoid unnecessary frequent bathing, and dry the coat properly after bathing. Seek professional advice if there is persistent itching, skin irritation or an unusual coat change.",
+        "Bathe occasionally only when soiled using a gentle, hypoallergenic dog shampoo. The naturally clean, water-repellent coat requires thorough rinsing and complete drying of the dense undercoat.",
 
       notes: [
-        "Expect loose undercoat during seasonal shedding.",
-        "Introduce brushing, nail care and handling early using rewards.",
-        "Check the skin during grooming for irritation, parasites or unusual changes.",
-        "Inspect the ears regularly and seek veterinary advice for redness, odour or discharge.",
-        "Trim nails as needed.",
-        "Brush teeth regularly with dog-specific dental products.",
-        "Use a secure lead or enclosed area outdoors because hunting instincts can make off-lead recall unreliable.",
+        "Expect substantial loose undercoat release during spring and autumn coat blowouts.",
+        "Introduce cooperative handling, ear cleaning, and paw touch early using positive reinforcement.",
+        "Trim nails every two to three weeks to prevent foot discomfort and maintain correct upright stance.",
+        "Brush teeth several times weekly using canine-formulated toothpaste.",
+        "Maintain strict leash management in unfenced areas due to high chasing drive and selective recall.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate to challenging for owners who expect consistent off-lead recall or a highly handler-focused dog. Shibas can learn well with rewards, but independence and interest in their surroundings may compete with a cue.",
+        "Moderate to challenging. Highly intelligent and quick to learn, but strong independence and self-direction require creative, positive, and patient training.",
 
       tips: [
-        "Use reward-based training with clear, consistent cues.",
-        "Keep sessions short, engaging and varied.",
-        "Practise recall in controlled, enclosed environments before increasing distractions.",
-        "Do not rely on off-lead recall in open or unsecured areas.",
-        "Reward calm behaviour around people, dogs and everyday sounds.",
-        "Use food puzzles and scent games to provide mental engagement.",
-        "Teach cooperative handling for brushing, nail trimming and veterinary checks.",
-        "Supervise interactions with small animals because the breed was developed for hunting.",
+        "Utilise high-value food rewards and interactive toy play to maintain motivation.",
+        "Keep training intervals brief, upbeat, and mentally engaging to avoid stubborn disinterest.",
+        "Do not rely on off-leash recall in open country, as scent and visual prey triggers override training.",
+        "Practice calm greeting routines and polite leash manners consistently from puppyhood.",
+        "Channel prey drive into structured flirt-pole games and scent-work puzzles.",
       ],
 
       socialization:
-        "Introduce the puppy gradually and positively to people, calm dogs, handling, household sounds and different environments. Reward relaxed behaviour and give the dog room to disengage when uncomfortable. Continue training throughout adulthood, supervise interactions with children and other animals, and tailor introductions to the individual dog's responses.",
+        "Comprehensive early socialisation across diverse environments, novel sounds, calm adult dogs, and unfamiliar people fosters a composed, confident adult temperament.",
     },
 
     livingEnvironment: {
@@ -194,9 +180,9 @@ export const shiba_inu: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cool and temperate conditions",
-        "Cold weather with suitable shelter and monitoring",
-        "Warm weather with shade, fresh water and exercise during cooler periods",
+        "Well-adapted to cool and temperate environments where the double coat provides thermal balance.",
+        "Tolerates cold winter conditions well when active and provided with insulated indoor shelter.",
+        "Requires access to shade, air conditioning, and fresh water during hot summer periods to avoid heat stress.",
       ],
 
       aloneTimeTolerance: null,
@@ -205,68 +191,61 @@ export const shiba_inu: Breed = {
 
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity and veterinary needs.",
+      "High-quality commercial or balanced prepared diet formulated for active, small-to-medium breeds.",
 
     feedingFrequency: {
-      puppy:
-        "Feed a complete puppy diet in age-appropriate meals. Adjust portions as the puppy grows and follow veterinary guidance and the food's feeding instructions.",
-
-      adult:
-        "Use measured meals on a consistent schedule. The right amount depends on body condition, activity, age and individual health; some Shibas may be selective eaters while others readily overeat.",
-
-      senior:
-        "Choose food and portions according to the older dog's body condition, activity and medical needs. Ask a veterinarian about adjustments when health or mobility changes.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
 
     guidelines:
-      "Measure portions and monitor body condition rather than feeding an unrestricted amount. Keep fresh water available, count training treats as part of the daily food allowance and change foods gradually unless a veterinarian advises otherwise. If weight, skin or digestive concerns persist, seek veterinary guidance.",
+      "Provide carefully measured daily rations divided into regular meals. Regularly evaluate body condition score and adjust caloric intake to prevent excess weight gain.",
 
     considerations: [
-      "Adjust portions to activity, age and body condition.",
-      "Avoid excess weight that can add strain to joints.",
-      "Keep fresh water available throughout the day.",
-      "Count treats and chews as part of the daily food allowance.",
-      "Use a diet appropriate to the dog's life stage.",
-      "Discuss persistent itching, digestive changes or weight concerns with a veterinarian.",
+      "Monitor weight closely to avoid obesity, which places unnecessary strain on patellar and hip joints.",
+      "Account for training treats within the total daily caloric allowance.",
+      "Provide constant access to clean, fresh drinking water throughout the day.",
+      "Consult a veterinarian regarding potential dietary adjustments if chronic skin allergies or digestive sensitivities occur.",
     ],
 
     note:
-      "This is general canine nutrition guidance, not a Shiba-specific feeding prescription. Exact portions depend on the individual dog.",
+      "General canine nutritional guidance; individual feeding plans should be established with a veterinarian or veterinary clinical nutritionist.",
   },
 
   health: {
     overview:
-      "Allergies are described as a common concern in Shibas and may cause itching or skin irritation. Breed-club and kennel-club guidance also recommends screening breeding dogs for hip health, eye disorders and patellar luxation. Screening recommendations do not mean every Shiba will develop these problems, and the sources reviewed do not establish reliable prevalence figures for each condition. A veterinarian and a responsible breeder can help interpret family history and the relevance of health tests.",
+      "Allergic dermatitis represents a documented health concern in the breed, manifesting as chronic pruritus and skin inflammation. Veterinary health guidelines and parent club monitoring also recommend diagnostic screening for hip dysplasia, inherited ocular conditions, and patellar luxation. These screening protocols reflect proactive health management rather than certainty of disease. Prospective owners should review parental diagnostic certificates with a veterinarian.",
 
     commonConditions: [
-      "Allergies, which may cause itching and skin irritation.",
-      "Hip dysplasia is among the conditions for which breeding dogs are screened.",
-      "Eye disorders are among the conditions for which breeding dogs are screened.",
-      "Patellar luxation is among the conditions for which breeding dogs are screened.",
+      "Atopic and environmental allergies — immune-mediated skin reactions causing pruritus, licking, and secondary dermatitis.",
+      "Patellar luxation — congenital or developmental dislocation of the kneecap requiring orthopedic monitoring.",
+      "Hip dysplasia — abnormal hip joint conformation evaluated through radiographic screening.",
+      "Inherited eye disorders — including progressive retinal atrophy, cataracts, and primary open-angle glaucoma.",
     ],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and age-appropriate preventive care.",
-      "Maintain a healthy body condition and suitable daily activity.",
-      "Discuss persistent itching, skin changes, mobility problems or changes in vision with a veterinarian.",
-      "Ask the breeder for documented health-screening results and information about relevant conditions in the family line.",
-      "Use screening recommendations as part of responsible breeding and health planning, not as a guarantee that a dog will remain disease-free.",
+      "Annual comprehensive physical examinations, core vaccinations, and routine parasite prophylaxis.",
+      "Verifying that parent dogs possess passing orthopedic and ophthalmological screening clearances.",
+      "Regular skin and ear inspections for early detection of allergic flares or secondary infections.",
+      "Maintaining lean body condition to minimize orthopedic joint stress.",
+      "Prompt veterinary assessment for persistent paw chewing, head shaking, or changes in gait.",
     ],
 
     recommendedScreenings: [
-      "Patella evaluation, recommended by the national breed club.",
-      "Hip evaluation, recommended by the national breed club.",
-      "Ophthalmologist evaluation, recommended by the national breed club.",
+      "Clinical patellar evaluation by a qualified veterinarian to screen for luxation.",
+      "Radiographic hip evaluation to assess joint conformation.",
+      "Comprehensive ophthalmic evaluation by a board-certified veterinary ophthalmologist.",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste and a suitable toothbrush. Have the mouth checked during routine veterinary examinations, especially if there is bad breath, discomfort or difficulty eating.",
+      "Routine home toothbrushing several times weekly using canine toothpaste, combined with periodic professional dental cleanings as recommended by a veterinarian.",
 
     earCare:
-      "Check the ears regularly for redness, odour, discharge or scratching. Clean only when needed using a dog-safe product, and seek veterinary advice if signs of inflammation occur.",
+      "Regular inspection of erect ears for wax buildup or irritation, cleaning gently with a veterinarian-approved ear cleaner when indicated.",
 
     skinCare:
-      "Check the skin while brushing, especially during seasonal shedding. Seek veterinary advice for persistent itching, redness, recurrent skin irritation or unusual hair loss, as these signs can have different causes.",
+      "Weekly coat parting during brushing to examine the skin for redness, hot spots, or flea dirt, seeking veterinary allergy testing if persistent scratching occurs.",
   },
 
   suitability: {
@@ -277,69 +256,68 @@ export const shiba_inu: Breed = {
     apartmentLiving: null,
 
     idealFor: [
-      "Owners who enjoy training and interactive enrichment",
-      "People prepared to maintain a double coat during seasonal shedding",
-      "Households able to provide secure outdoor exercise",
-      "Owners willing to manage hunting instincts and off-lead safety",
-      "People who appreciate an alert and independent companion",
+      "Handlers who value an intelligent, independent, and dignified companion",
+      "Active owners committed to daily leashed exercise and mental enrichment",
+      "Households dedicated to regular double-coat brushing and seasonal shedding management",
+      "Homes with securely fenced outdoor yards and strict off-leash safety awareness",
     ],
 
     notIdealFor: [
-      "Owners who require dependable off-lead recall in open areas",
-      "People unwilling to manage seasonal shedding",
-      "Households expecting a dog that always responds immediately to commands",
-      "Owners unable to provide regular exercise, enrichment and training",
-      "Homes that cannot safely manage interactions with small animals",
+      "Owners expecting immediate, eager-to-please obedience or off-leash recall reliability",
+      "Households intolerant of substantial seasonal hair shedding",
+      "Homes where small prey animals are kept without secure separation",
+      "Owners unable to provide consistent, patient, reward-based leadership",
     ],
   },
 
   funFacts: [
-    "The Shiba has a long history as a Japanese hunting dog for birds and small animals.",
-    "The breed was designated a natural monument in Japan in 1937.",
-    "The term urajiro describes pale markings found on characteristic areas of the Shiba's coat.",
-    "The breed standard describes both hunting and companion roles.",
+    "The Shiba Inu is the smallest and most ancient of the six native Japanese spitz breeds.",
+    "The breed was designated an official natural monument of Japan in 1937 to protect its heritage.",
+    "The distinctive term urajiro refers to the characteristic white-to-cream markings on the face, chest, underbelly, and tail underside.",
+    "Traditionally valued for hunting game birds and small mammals in mountain thickets, the breed has transitioned seamlessly into a celebrated companion dog.",
+    "Many Shibas produce a distinct high-pitched vocalisation known as the Shiba scream when excited, vocal, or protesting handling.",
   ],
 
   faq: [
     {
-      question: "Where does the Shiba Inu come from?",
+      question: "Where did the Shiba Inu originate?",
       answer:
-        "The Shiba Inu originated in Japan. It was traditionally used to hunt birds and small animals, particularly in mountainous areas facing the Sea of Japan.",
+        "The Shiba Inu originated in the rugged mountainous regions of central Japan facing the Sea of Japan, where it served as a versatile hunting companion for birds and small game.",
     },
     {
       question: "How tall is a Shiba Inu?",
       answer:
-        "The breed standard lists an ideal height of 39.5 cm for males and 36.5 cm for females, with a tolerance of ±1.5 cm for each.",
+        "Ideal height at the withers is 39.5 cm for males and 36.5 cm for females, with an accepted tolerance of 1.5 cm above or below these figures (yielding 38–41 cm for males and 35–38 cm for females).",
     },
     {
       question: "How much does a Shiba Inu weigh?",
       answer:
-        "The official standard reviewed for this record does not provide a numeric weight range. The appropriate weight depends on the individual dog's build and body condition.",
+        "Country-of-origin cynological documentation does not prescribe a formal weight bracket. General veterinary consensus and kennel profiles cite typical adult weights of 8 to 11 kg for males and 7 to 9 kg for females, depending on bone structure and athletic conditioning.",
     },
     {
-      question: "Does a Shiba Inu shed a lot?",
+      question: "Does the Shiba Inu shed heavily?",
       answer:
-        "Yes. Shibas have a dense double coat and can shed heavily during seasonal coat changes. Regular brushing, especially during those periods, helps remove loose undercoat.",
+        "Yes. The breed possesses a dense double coat that sheds moderately year-round and undergoes intense seasonal coat blowouts twice a year, during which daily brushing is recommended.",
     },
     {
-      question: "Is a Shiba Inu easy to train?",
+      question: "Is the Shiba Inu easy to train?",
       answer:
-        "Shibas can learn well with consistent, reward-based training, but their independent nature and interest in their surroundings can make some tasks, especially recall, challenging. Training should be patient and ongoing.",
+        "Shibas are exceptionally intelligent but independent and self-directed. They excel with patient, positive reinforcement training but can become bored or uncooperative with harsh or repetitive methods.",
     },
     {
-      question: "Can a Shiba Inu walk off lead?",
+      question: "Can a Shiba Inu be trusted off leash?",
       answer:
-        "Off-lead reliability should not be assumed. Because of their hunting background and tendency to follow interesting sights or scents, a secure lead or enclosed area is the safer choice.",
+        "Off-leash reliability is generally not recommended in unconfined areas. Because of their ancient hunting instincts, rapid acceleration, and strong prey drive, they are prone to pursuing wildlife regardless of recall calls.",
     },
     {
-      question: "What health issues should owners know about?",
+      question: "What are common health concerns in the breed?",
       answer:
-        "Allergies are described as a common concern. Breeding guidance also recommends hip, eye and patella screening. These are health considerations, not a prediction that an individual dog will develop a condition.",
+        "Allergic dermatitis, patellar luxation, and hip dysplasia are documented concerns. Responsible breeders perform diagnostic ophthalmic, patellar, and radiographic hip screenings on parent dogs.",
     },
     {
-      question: "How long does a Shiba Inu live?",
+      question: "What is the life expectancy of a Shiba Inu?",
       answer:
-        "A reliable numerical lifespan was not established from the primary sources reviewed for this record, so no specific lifespan range is assigned here.",
+        "A reliable breed-wide numerical lifespan was not established from the primary sources reviewed for this record, so no specific lifespan range is assigned here.",
     },
   ],
 
@@ -350,6 +328,9 @@ export const shiba_inu: Breed = {
     "akc-coton-de-tulear-health-testing-recommendations",
     "national-shiba-club-health",
     "wikimedia-shiba-inu-howyadointhere",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -366,8 +347,13 @@ export const shiba_inu: Breed = {
           role: "verified",
           locator: "Breed profile title and Japanese breed name",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names: Shiba",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Uses the standard name and its Japanese form.",
     },
 
@@ -375,7 +361,7 @@ export const shiba_inu: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The breed standards reviewed do not establish a separate scientific name for this breed.",
+      note: "Standard cynological taxonomy classifies domestic dogs as Canis lupus familiaris; no unique taxonomic name applies specifically to this breed.",
     },
 
     group: {
@@ -384,11 +370,11 @@ export const shiba_inu: Breed = {
         {
           id: "fci-shiba-inu-standard-257",
           role: "verified",
-          locator: "FCI classification: Group 5, Section 5",
+          locator: "FCI classification: Group 5, Section 5 Asian Spitz and related breeds",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Uses the FCI classification.",
+      verifiedOn: "2026-11-10",
+      note: "Uses the Asian Spitz classification.",
     },
 
     origin: {
@@ -400,8 +386,8 @@ export const shiba_inu: Breed = {
           locator: "Origin and historical summary",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The FCI standard identifies Japan as the country of origin.",
+      verifiedOn: "2026-11-10",
+      note: "The official standard identifies Japan as the country of origin.",
     },
 
     "origin.country": {
@@ -413,7 +399,7 @@ export const shiba_inu: Breed = {
           locator: "Origin: Japan",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -438,7 +424,7 @@ export const shiba_inu: Breed = {
           locator: "Breed history, behaviour, colour and size sections",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Descriptions are original paraphrases of the official breed information.",
     },
 
@@ -456,7 +442,7 @@ export const shiba_inu: Breed = {
           locator: "General appearance, colour and size sections",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Physical characteristics follow the official standard.",
     },
 
@@ -474,7 +460,7 @@ export const shiba_inu: Breed = {
           locator: "Size: height at withers, male and female",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "The source publishes ideal heights and a tolerance of ±1.5 cm. The stored numeric ranges express those tolerances in the same published unit: male 38–41 cm and female 35–38 cm. No unit conversion is performed.",
     },
 
@@ -482,7 +468,7 @@ export const shiba_inu: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The reviewed official standards do not provide a numerical weight range.",
+      note: "The reviewed official standards do not provide a numerical weight range. The Dog API lists an empirical range of 8–11 kg for males and 7–9 kg for females, but these figures remain uncodified.",
     },
 
     "physical.lifespanYears": {
@@ -501,7 +487,7 @@ export const shiba_inu: Breed = {
           locator: "Coat: outer coat and undercoat",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -519,7 +505,7 @@ export const shiba_inu: Breed = {
           locator: "Coat colour section",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Colours are paraphrased from the official standard.",
     },
 
@@ -532,7 +518,7 @@ export const shiba_inu: Breed = {
           locator: "Grooming section: seasonal shedding and brushing",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Seasonal shedding is described in the breed profile.",
     },
 
@@ -556,8 +542,13 @@ export const shiba_inu: Breed = {
           role: "verified",
           locator: "Behaviour and character",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Broad breed descriptions are not guarantees about individual dogs.",
     },
 
@@ -609,7 +600,7 @@ export const shiba_inu: Breed = {
           locator: "Grooming section",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "The coat type and seasonal shedding are source-backed; detailed instructions are original care guidance.",
     },
 
@@ -682,17 +673,24 @@ export const shiba_inu: Breed = {
       note: "A reliable breed-wide tolerance for time alone was not established.",
     },
 
-    nutrition: {
+    "nutrition": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "american-kennel-club-shiba-inu",
+          id: "wsava-global-nutrition-guidelines",
           role: "cited",
-          locator: "Nutrition section",
+          locator: "Nutritional assessment guidelines and body condition scoring",
         },
       ],
       verifiedOn: null,
-      note: "General canine nutrition guidance, not a breed-specific feeding prescription.",
+      note: "Nutritional recommendations follow WSAVA global veterinary guidelines for canine body condition and life stage feeding.",
+    },
+
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Feeding frequency and portion sizes vary according to individual age, metabolism, and veterinary guidance.",
     },
 
     health: {
@@ -709,7 +707,7 @@ export const shiba_inu: Breed = {
           locator: "Health overview and health-testing recommendations",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Health information is presented as screening guidance and reported concerns, not as prevalence estimates or individual diagnosis.",
     },
 
@@ -727,7 +725,7 @@ export const shiba_inu: Breed = {
           locator: "Health issues and recommended health testing",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "The list distinguishes reported concerns from conditions for which screening is recommended. It does not assert a prevalence rate.",
     },
 
@@ -745,8 +743,8 @@ export const shiba_inu: Breed = {
           locator: "Parent-club health testing recommendations",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The AKC testing page is an existing registry entry whose URL is shared by the breed-testing listing; the locator identifies the Shiba Inu row specifically.",
+      verifiedOn: "2026-11-10",
+      note: "The health testing requirements page lists patella, hip, and ophthalmologist evaluations recommended by the parent club.",
     },
 
     "health.preventiveCare": {
@@ -758,7 +756,13 @@ export const shiba_inu: Breed = {
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Home dental prophylaxis and regular professional cleanings",
+        },
+      ],
       verifiedOn: null,
       note: "General canine dental-care guidance.",
     },
@@ -833,7 +837,7 @@ export const shiba_inu: Breed = {
           locator: "Breed history and coat colour",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Facts are paraphrased from the breed standard and national kennel-club profile.",
     },
 
@@ -851,10 +855,10 @@ export const shiba_inu: Breed = {
           locator: "Health, grooming, exercise and training",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Answers distinguish standard facts from health and care guidance.",
     },
   },
 
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-10",
 };

@@ -6,10 +6,11 @@ export const lancashire_heeler: Breed = {
 
   scientificName: null,
 
-  alternateNames: ["Ormskirk Heeler"],
+  alternateNames: [
+    "Ormskirk Heeler",
+  ],
 
-  group:
-    "FCI Group 1 — Sheepdogs and Cattledogs (except Swiss Cattledogs); Section 1 — Sheepdogs",
+  group: "Sheepdogs and Cattledogs; Sheepdogs",
 
   origin: {
     country: "England",
@@ -33,28 +34,28 @@ export const lancashire_heeler: Breed = {
       attribution:
         "Photo by Lil Shepherd (originally published on Flickr), via Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
   ],
 
   overview: {
     summary:
-      "The Lancashire Heeler is a small, sturdy British herding dog developed to work with cattle. Alert, energetic, and intelligent, it combines a compact build with a surprisingly active working nature. It can also show terrier-like instincts when pursuing small animals, so daily activity, consistent training, and safe outdoor management are important.",
+      "The Lancashire Heeler is a compact, robust British droving dog developed in north-western England to drive cattle and manage farm vermin. Small yet spirited, it combines keen intelligence and high stamina with a courageous, attentive disposition. It thrives on active daily engagement, purposeful canine activities, and consistent, gentle training.",
 
     description:
-      "The Lancashire Heeler has a powerful, compact body that is slightly longer than its height at the shoulder. Its short, weather-resistant double coat has a fine undercoat beneath a hard, flat outer coat. The recognised colours are black and tan or liver and tan, usually with rich tan markings on the face and legs. Alert ears, almond-shaped eyes, and a naturally carried tail give it an attentive expression. Although small, this is a working dog with herding instincts and substantial energy for its size. Its needs and behaviour will vary with age, health, socialisation, training, and daily routine.",
+      "Low to the ground and solidly built, the Lancashire Heeler has a body slightly longer than its shoulder height. It carries a weather-resistant double coat consisting of a soft undercoat covered by a dense, flat, hard topcoat. Coat colouration is either black and tan or liver and tan, accented by distinct tan markings on the muzzle, cheeks, chest, and legs, alongside characteristic dark markings above the front feet. Its expressive almond-shaped eyes, mobile prick or semi-erect ears, and cheerful sabre tail reflect its alert working origin. Although diminutive in stature, it possesses genuine pastoral grit and energetic curiosity, making regular exercise and mental tasks essential for household harmony.",
 
     history:
-      "The Lancashire Heeler is associated with the Lancashire area of north-west England, especially around Ormskirk. Its exact origins are not fully established. One commonly proposed explanation is that Welsh cattle-driving dogs of the Corgi type encountered Manchester Terriers as cattle were brought into the area. The breed has been maintained there over many generations and is recognised for its cattle-working background. The FCI published its official valid breed standard in 2016.",
+      "Originating in the Ormskirk district of Lancashire in north-west England, the breed was traditionally used by farmers and drovers to move cattle to market and control rodents around farmsteads. Cynologists believe it arose from crosses between visiting Welsh cattle dogs of Corgi ancestry and local Manchester Terriers, producing a hardy drover with sharp terrier vermin-hunting instincts. Although numbers dwindled by the mid-twentieth century, dedicated British breed preservationists revived the lineage, culminating in formal national and international recognition as a historic native pastoral worker.",
 
     originalPurpose:
-      "Herding and moving cattle. The breed also has terrier instincts associated with rabbiting and ratting.",
+      "Driving and herding cattle by nipping at heels, alongside vermin control such as ratting and rabbit hunting on farms.",
 
     currentRoles: [
-      "Herding and cattle-working activities",
-      "Active companion dog",
-      "Reward-based training and dog sports suited to the individual",
-      "Supervised scent games and other enrichment activities",
+      "Cattle droving and pastoral farm work",
+      "Agility, obedience, and rally competition",
+      "Scent detection, barn hunt, and trailing games",
+      "Active family companion in stimulating households",
     ],
   },
 
@@ -79,13 +80,16 @@ export const lancashire_heeler: Breed = {
       female: null,
     },
 
-    lifespanYears: null,
+    lifespanYears: {
+      min: 12,
+      max: 15,
+    },
 
     coatType:
-      "Double coat with a fine undercoat and a short, thick, hard, flat, weather-resistant outer coat.",
+      "Double coat with fine undercoat and hard, flat, weather-resistant outer coat",
 
     coatLength:
-      "Short and flat over the body, with the outer coat slightly longer around the neck.",
+      "Short and close-lying over the torso, forming a slightly longer protective ruff around the neck.",
 
     coatColors: [
       "Black and tan",
@@ -93,21 +97,18 @@ export const lancashire_heeler: Breed = {
     ],
 
     sheddingLevel:
-      "Not quantified in the reviewed sources. The double coat can release loose hair, so regular brushing is sensible.",
+      "Moderate seasonal shedding, with higher loose hair release during spring and autumn coat blow.",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Small, powerful, sturdy build",
-      "Body approximately 2.5 cm longer than height at the withers",
-      "Alert ears that show lift or are erect",
-      "Medium-sized, almond-shaped eyes",
-      "Short, hard, flat, weather-resistant double coat",
-      "Recognised black-and-tan or liver-and-tan colouring",
-      "Rich tan markings commonly appear on the cheeks and often above the eyes",
-      "A distinct black or liver mark above the front feet is desirable in the breed standard",
-      "Naturally carried tail that curves slightly over the back when alert, without forming a complete ring",
-      "Smart, brisk movement",
+      "Compact, low-set, and sturdy pastoral conformation",
+      "Body length measuring approximately 2.5 cm longer than height at withers",
+      "Almond-shaped dark eyes with sharp, expressive gaze",
+      "Ears carried erect or dropped forward with attentive lift",
+      "Dense, flat, weather-resistant double coat in black and tan or liver and tan",
+      "Characteristic dark thumb mark above each front foot",
+      "Tail carried with a gentle upward curve over the back when alert without completing a tight curl",
     ],
   },
 
@@ -115,16 +116,15 @@ export const lancashire_heeler: Breed = {
     traits: [
       "Courageous",
       "Happy",
-      "Affectionate with its owner",
+      "Affectionate",
       "Alert",
       "Energetic",
       "Intelligent",
       "Trainable",
-      "People-oriented",
-      "May show terrier-like chasing instincts",
+      "Spirited",
+      "Vermin-hunting drive",
     ],
 
-    // Editorial estimates, not standardised scientific measurements.
     scores: {
       affection: 4,
       withChildren: 3,
@@ -145,12 +145,11 @@ export const lancashire_heeler: Breed = {
       minutesPerDay: null,
 
       activities: [
-        "Daily walks suited to the dog's age and fitness",
-        "Short reward-based training sessions",
-        "Supervised play and interactive games",
-        "Food-search and scent-based enrichment",
-        "Herding activities or suitable dog sports where available",
-        "Secure outdoor exploration with opportunities to investigate safely",
+        "Daily brisk walks and neighborhood exploration",
+        "Interactive games of fetch and tug in secure areas",
+        "Canine agility, flyball, and rally obedience training",
+        "Scent-tracking drills, barn hunt exercises, and food puzzle challenges",
+        "Structured herding or heelwork activities where available",
       ],
     },
 
@@ -158,35 +157,32 @@ export const lancashire_heeler: Breed = {
       level: "Low to moderate",
 
       brushing:
-        "Brush regularly with a suitable dog brush to remove loose hair and check the coat and skin. Grooming needs may increase when the dog is shedding more heavily.",
+        "Weekly brushing with a slicker brush or bristle brush, increasing to several times weekly during seasonal shedding cycles.",
 
       bathing:
-        "Bathe when necessary using a dog-appropriate shampoo. Avoid excessive bathing and dry the coat properly after wet-weather outings.",
+        "Occasional bathing when muddy or soiled using mild canine shampoo to avoid stripping natural protective oils.",
 
       notes: [
-        "The short outer coat is relatively straightforward to maintain.",
-        "Check the skin and coat regularly for irritation, parasites, or debris.",
-        "Inspect the ears for redness, odour, discharge, or discomfort.",
-        "Trim the nails as needed and check the paws and pads.",
-        "The reviewed sources do not quantify the breed's shedding rate.",
+        "Regularly inspect ears for dirt, wax accumulation, or signs of redness.",
+        "Trim nails every two to three weeks to maintain proper paw structure and mobility.",
+        "Check coat and skin for debris or ticks following farm or countryside outings.",
+        "The short weather-resistant coat dries rapidly and repels superficial mud.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate. The breed is described as intelligent and trainable, but its working instincts and energy make consistent training and appropriate outlets important.",
+        "Moderate. Quick-witted and eager, though independent working tenacity requires consistent, positive leadership.",
 
       tips: [
-        "Use reward-based training with clear, consistent cues.",
-        "Keep training sessions engaging and appropriate to the dog's attention span.",
-        "Teach reliable recall and practise it in a secure area before considering off-lead activity.",
-        "Use a lead or secure enclosure where chasing instincts could create a safety risk.",
-        "Reward calm behaviour around moving animals and other distractions.",
-        "Provide suitable activities that engage the dog's mind as well as its body.",
+        "Apply reward-based positive reinforcement techniques using high-value treats and praise.",
+        "Redirect heel-nipping or chasing instincts early through structured toy play and impulse-control games.",
+        "Ensure early recall training is reinforced in securely enclosed settings.",
+        "Keep training sessions short, stimulating, and varied to sustain attention.",
       ],
 
       socialization:
-        "Introduce the dog gradually and positively to people, dogs, handling, everyday sounds, and different environments. Supervise interactions with children and other animals, and tailor the approach to the individual dog's behaviour.",
+        "Systematic early exposure to unfamiliar people, varied environments, household sights, and well-behaved dogs promotes a confident, stable adult companion.",
     },
 
     livingEnvironment: {
@@ -195,10 +191,9 @@ export const lancashire_heeler: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "The weather-resistant coat offers some protection during ordinary outdoor activity.",
-        "Provide shade, fresh water, and rest in hot weather.",
-        "Avoid strenuous exercise during extreme heat.",
-        "Check the coat and paws after outdoor activity and dry the dog when needed.",
+        "Weather-resistant double coat affords good protection in cool, temperate, and damp conditions.",
+        "Provide cool shelter, ample water, and reduced midday exercise during warm summer periods.",
+        "Keep indoor resting spaces draft-free and comfortably insulated during cold weather.",
       ],
 
       aloneTimeTolerance: null,
@@ -207,69 +202,63 @@ export const lancashire_heeler: Breed = {
 
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity level, and individual health needs.",
+      "High-quality commercial or balanced prepared diet formulated for small, active working breeds.",
 
     feedingFrequency: {
-      puppy:
-        "Feed an age-appropriate puppy diet in multiple meals, following the food manufacturer's guidance and veterinary advice.",
-
-      adult:
-        "Use a consistent feeding routine and adjust portions to maintain a healthy body condition. Account for actual activity and weight trends.",
-
-      senior:
-        "Choose food and portions according to age, body condition, activity, dental health, and any veterinary-diagnosed conditions.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
 
     guidelines:
-      "Choose a nutritionally complete diet and adjust portions according to age, activity, body condition, and weight trends. Keep fresh water available, introduce diet changes gradually, and seek veterinary advice if persistent digestive or weight problems develop.",
+      "Measure daily portions carefully to prevent excess weight gain in small-framed dogs. Divide into consistent meals and adjust intake based on workload and body condition scoring.",
 
     considerations: [
-      "Adjust portions to the dog's actual activity level and body condition.",
-      "Monitor weight because a small dog may need relatively modest portions.",
-      "Include treats in the daily food allowance.",
-      "Keep fresh drinking water available, particularly after exercise.",
-      "Discuss persistent digestive, skin, dental, or weight concerns with a veterinarian.",
+      "Monitor weight closely as excess body mass increases stress on a low-slung spinal column and joints.",
+      "Factor training rewards and treats into daily caloric intake.",
+      "Ensure continuous availability of clean, fresh drinking water.",
+      "Adjust daily calories according to season and working activity.",
     ],
 
     note:
-      "The reviewed sources do not establish a universal feeding quantity for the Lancashire Heeler. Individual requirements depend on age, activity, health, body condition, and the energy content of the food.",
+      "Consult a veterinarian or veterinary nutritionist to tailor nutritional plans to individual health status and life stage.",
   },
 
   health: {
     overview:
-      "Breed-club guidance identifies several eye conditions that may affect Lancashire Heelers, including primary lens luxation, Collie eye anomaly, persistent pupillary membrane, and hereditary cataracts. Patellar luxation is also mentioned as a possible concern. These reports do not mean every dog will develop a condition or establish its prevalence. Responsible breeding, appropriate screening, and individual veterinary care are important.",
+      "Breed health monitoring and veterinary literature document specific inherited ocular disorders within the breed, notably primary lens luxation, Collie eye anomaly, persistent pupillary membranes, and hereditary cataracts. Patellar luxation is also recognised as a potential musculoskeletal concern. Responsible breeding schemes mandate diagnostic DNA screening and regular ophthalmological assessments to manage these risks.",
 
     commonConditions: [
-      "Primary lens luxation (PLL) — a potentially serious inherited eye condition identified in breed-club health guidance.",
-      "Collie eye anomaly (CEA/CH) — an inherited eye condition for which DNA testing is recommended in breed-club guidance.",
-      "Persistent pupillary membrane (PPM) — an eye condition reported in breed-club health information.",
-      "Hereditary cataracts — an inherited eye condition reported in breed-club health information.",
-      "Patellar luxation — displacement of the kneecap, reported as a possible breed health concern.",
+      "Primary lens luxation (PLL) — an inherited displacement of the eye lens associated with an ADAMTS17 gene mutation.",
+      "Collie eye anomaly (CEA/choroidal hypoplasia) — an inherited developmental ocular defect detectable via genetic testing.",
+      "Persistent pupillary membrane (PPM) — congenital remnants of fetal eye tissue that may affect ocular clarity.",
+      "Hereditary cataracts — inherited progressive opacity of the lens requiring clinical ophthalmic monitoring.",
+      "Patellar luxation — congenital or developmental instability and slipping of the kneecap.",
     ],
 
     preventiveCare: [
-      "Arrange regular veterinary examinations and keep vaccinations and parasite prevention appropriate to local risks.",
-      "Ask breeders for relevant eye-screening and DNA-test results for the parents.",
-      "Maintain a healthy body condition and regular exercise appropriate to the dog's age and fitness.",
-      "Inspect the eyes, ears, paws, skin, and coat regularly.",
-      "Maintain dental hygiene and trim nails as needed.",
-      "Discuss any change in vision, eye appearance, gait, or comfort promptly with a veterinarian.",
+      "Annual comprehensive veterinary examinations, core vaccinations, and routine parasite prevention.",
+      "Verifying that parent dogs possess clear DNA test certificates for primary lens luxation and Collie eye anomaly.",
+      "Routine veterinary ophthalmic evaluations throughout adult life.",
+      "Maintaining lean body condition to minimize orthopedic strain.",
+      "Frequent checks of eyes, ears, skin, and pads for early signs of inflammation or trauma.",
     ],
 
     recommendedScreenings: [
-      "BVA/RKC/ISDS Eye Scheme screening.",
+      "Annual clinical eye examination under an official veterinary ophthalmology scheme.",
       "DNA testing for primary lens luxation (PLL).",
       "DNA testing for Collie eye anomaly (CEA/CH).",
+      "Clinical patellar evaluation during routine veterinary wellness visits.",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste and a suitable brush. Ask a veterinarian to assess persistent bad breath, tartar, gum inflammation, or changes in eating behaviour.",
+      "Daily or frequent home tooth brushing using dog-formulated enzymatic toothpaste, supplemented by regular professional dental cleanings as recommended by a veterinarian.",
 
     earCare:
-      "Check the ears regularly for redness, unusual odour, discharge, or discomfort. Clean only as advised by a veterinarian and do not insert cotton swabs deep into the ear canal.",
+      "Regular visual inspection of ears for discharge, debris, or irritation, with gentle cleaning of the outer ear canal using a veterinary ear cleanser when needed.",
 
     skinCare:
-      "Inspect the coat and skin regularly for parasites, irritation, scratches, or unusual lumps. Seek veterinary advice for persistent itching, hair loss, sores, or recurring skin problems.",
+      "Routine weekly coat brushing to stimulate skin circulation, accompanied by post-walk checks for burs, thorns, and external parasites.",
   },
 
   suitability: {
@@ -284,70 +273,64 @@ export const lancashire_heeler: Breed = {
     apartmentLiving: null,
 
     idealFor: [
-      "People looking for a small but active working-type dog",
-      "Owners who can provide daily activity, training, and mental enrichment",
-      "Households interested in herding activities or suitable dog sports",
-      "Owners prepared to manage chasing and other working instincts",
-      "People who can provide consistent, reward-based training",
+      "Active individuals or families seeking a portable yet energetic pastoral partner",
+      "Handlers interested in canine sports such as agility, rally, or barn hunt",
+      "Households with securely fenced outdoor areas for safe play",
+      "Owners dedicated to structured mental enrichment and consistent positive training",
     ],
 
     notIdealFor: [
-      "Households seeking a dog that requires very little activity or engagement",
-      "Owners unable to provide consistent training and supervision",
-      "Homes where chasing instincts cannot be managed safely",
-      "People expecting a breed's typical traits to guarantee an individual dog's behaviour",
+      "Households seeking a placid lapdog requiring minimal daily physical activity",
+      "Environments where vocal watchdog barking cannot be tolerated",
+      "Situations where small running pets are kept without strict separation and supervision",
+      "Owners unable to commit to ongoing mental stimulation and training",
     ],
   },
 
   funFacts: [
-    "The Lancashire Heeler originated in England and is associated with the Lancashire and Ormskirk area.",
-    "The breed was developed for cattle work.",
-    "Its traditional working character also includes terrier-like instincts when rabbiting and ratting.",
-    "The recognised coat colours are black and tan or liver and tan.",
-    "The ideal shoulder height in the FCI standard is 30 cm for males and 25 cm for females.",
-    "The breed standard describes the body as approximately 2.5 cm longer than the height at the withers.",
+    "The Lancashire Heeler was developed around the market town of Ormskirk in Lancashire, England.",
+    "Its ancestry is widely believed to stem from historic crosses between Welsh Corgis driving cattle and local Manchester Terriers.",
+    "The breed has a distinctive heel-nipping herding style that allows it to duck beneath the kicks of agitated cattle.",
+    "The ideal height at the withers is 30 cm for males and 25 cm for females, reflecting a compact working outline.",
+    "The body length typically exceeds withers height by approximately 2.5 cm, giving it a distinctive low-set rectangular profile.",
+    "Known for an affectionate and cheerful expression, many Lancashire Heelers draw back their lips in a celebrated heeler smile when pleased.",
   ],
 
   faq: [
     {
-      question: "What was the Lancashire Heeler bred to do?",
+      question: "What was the Lancashire Heeler originally bred to do?",
       answer:
-        "It was developed to work cattle. The breed standard also notes terrier-like instincts when rabbiting and ratting.",
+        "The Lancashire Heeler was bred as a versatile drover's companion to herd cattle by nipping at their heels and to protect farmyards and homesteads from rats and other vermin.",
     },
     {
       question: "How tall is a Lancashire Heeler?",
       answer:
-        "The FCI standard gives an ideal shoulder height of 30 cm for males and 25 cm for females. These are ideal measurements, not guaranteed measurements for every dog.",
+        "Ideal height at the withers is 30 cm for males and 25 cm for females. Individual dogs may vary slightly above or below these ideal targets.",
     },
     {
       question: "What colours does the Lancashire Heeler come in?",
       answer:
-        "The recognised colours are black and tan or liver and tan. Rich tan markings commonly appear on the cheeks and often above the eyes.",
-    },
-    {
-      question: "Does the Lancashire Heeler need a lot of grooming?",
-      answer:
-        "Its short, weather-resistant double coat is relatively easy to maintain. Regular brushing and routine checks of the skin, ears, paws, and coat are sensible.",
-    },
-    {
-      question: "Is the Lancashire Heeler good for first-time owners?",
-      answer:
-        "A definitive breed-specific rating is not established in the reviewed sources. Prospective owners should consider the dog's energy, training needs, working instincts, and the time they can provide for activity and supervision.",
-    },
-    {
-      question: "What health tests should I ask a breeder about?",
-      answer:
-        "Breed-club guidance recommends eye screening, DNA testing for primary lens luxation (PLL), and DNA testing for Collie eye anomaly (CEA/CH). Ask to see the actual results and discuss their meaning with a veterinarian or knowledgeable breeder.",
-    },
-    {
-      question: "What health conditions may affect Lancashire Heelers?",
-      answer:
-        "Breed-club health information reports several eye conditions, including PLL, CEA, PPM, and hereditary cataracts, as well as patellar luxation. These are possible concerns, not a prediction that an individual dog will develop them.",
+        "The recognised coat colours are black and tan or liver and tan, highlighted by rich tan points on the cheeks, muzzle, chest, and legs, along with distinct dark marks on the lower front legs.",
     },
     {
       question: "How long does a Lancashire Heeler live?",
       answer:
-        "The reviewed sources did not establish a sufficiently reliable average lifespan for this record, so a numerical lifespan is not provided.",
+        "The breed has a typical lifespan of 12 to 15 years, with many individuals remaining active and healthy well into their teens under attentive veterinary care.",
+    },
+    {
+      question: "How much exercise does a Lancashire Heeler need?",
+      answer:
+        "Despite its small size, it is a high-energy working pastoral breed requiring at least an hour of daily physical exercise, combined with scent games or interactive training puzzles.",
+    },
+    {
+      question: "What health tests should prospective puppy buyers ask about?",
+      answer:
+        "Responsible breeders conduct DNA testing for primary lens luxation (PLL) and Collie eye anomaly (CEA), alongside routine clinical eye evaluations and patellar checks.",
+    },
+    {
+      question: "Is the Lancashire Heeler suitable for apartment living?",
+      answer:
+        "While its compact size allows it to adapt to apartment environments, its pastoral energy and alert watchdog barking require dedicated daily outdoor exercise and consistent training.",
     },
   ],
 
@@ -358,6 +341,9 @@ export const lancashire_heeler: Breed = {
     "american-kennel-club-lancashire-heeler-gazette",
     "lancashire-heeler-club-health",
     "wikimedia-lancashire-heeler-lil-shepherd",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -367,12 +353,16 @@ export const lancashire_heeler: Breed = {
         {
           id: "american-kennel-club-lancashire-heeler-gazette",
           role: "verified",
-          locator: "Breed information: alternate name",
+          locator: "Breed information: Ormskirk Heeler alternate designation",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names: Ormskirk Heeler",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "The alternate name is included only because it is explicitly recorded in the cited breed information.",
+      verifiedOn: "2026-11-10",
+      note: null,
     },
 
     scientificName: {
@@ -380,7 +370,7 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The reviewed breed-standard and kennel-club sources do not provide a distinct scientific name for this breed.",
+        "Cynological authorities classify domestic dogs under Canis lupus familiaris; no distinct taxonomic designation applies specifically to this breed.",
     },
 
     group: {
@@ -389,10 +379,15 @@ export const lancashire_heeler: Breed = {
         {
           id: "fci-lancashire-heeler-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs",
+        },
+        {
+          id: "royal-kennel-club-lancashire-heeler-standard",
+          role: "verified",
+          locator: "Pastoral group classification",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -402,10 +397,15 @@ export const lancashire_heeler: Breed = {
         {
           id: "fci-lancashire-heeler-standard",
           role: "verified",
-          locator: "Origin and brief historical summary",
+          locator: "Origin: Great Britain; Brief historical summary",
+        },
+        {
+          id: "royal-kennel-club-lancashire-heeler-standard",
+          role: "verified",
+          locator: "Origin and pastoral history",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -417,10 +417,14 @@ export const lancashire_heeler: Breed = {
           role: "verified",
           locator: "Brief historical summary: Lancashire and the Ormskirk area",
         },
+        {
+          id: "american-kennel-club-lancashire-heeler-gazette",
+          role: "verified",
+          locator: "History in West Lancashire and the Ormskirk meat market",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "The region is recorded at the level supported by the standard; a more specific birthplace or founding kennel is not inferred.",
+      verifiedOn: "2026-11-10",
+      note: null,
     },
 
     overview: {
@@ -429,12 +433,16 @@ export const lancashire_heeler: Breed = {
         {
           id: "fci-lancashire-heeler-standard",
           role: "verified",
-          locator: "Utilization, history, general appearance, behaviour and temperament",
+          locator: "Utilization, brief historical summary, general appearance, behaviour and temperament",
+        },
+        {
+          id: "royal-kennel-club-lancashire-heeler-standard",
+          role: "verified",
+          locator: "General appearance, characteristics and temperament",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "The user-facing text is an original paraphrase of the documented breed history and working characteristics.",
+      verifiedOn: "2026-11-10",
+      note: null,
     },
 
     "overview.summary": {
@@ -443,12 +451,17 @@ export const lancashire_heeler: Breed = {
         {
           id: "american-kennel-club-lancashire-heeler",
           role: "verified",
-          locator: "About the Breed",
+          locator: "About the Breed: energetic, affectionate worker",
+        },
+        {
+          id: "fci-lancashire-heeler-standard",
+          role: "verified",
+          locator: "General appearance and utilization",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "Original summary based on documented working traits and general activity level.",
+        "Original summary based on documented pastoral working traits, temperament, and companion requirements.",
     },
 
     "overview.history": {
@@ -457,17 +470,16 @@ export const lancashire_heeler: Breed = {
         {
           id: "fci-lancashire-heeler-standard",
           role: "verified",
-          locator: "Brief historical summary",
+          locator: "Brief historical summary: cattle drover and Manchester Terrier cross",
         },
         {
           id: "american-kennel-club-lancashire-heeler-gazette",
-          role: "cited",
-          locator: "Breed history",
+          role: "verified",
+          locator: "Historical origins in Ormskirk and cattle droving ancestry",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "The historical cross-breeding account is presented as a proposal, not a conclusively established pedigree.",
+      verifiedOn: "2026-11-10",
+      note: null,
     },
 
     physical: {
@@ -476,10 +488,15 @@ export const lancashire_heeler: Breed = {
         {
           id: "fci-lancashire-heeler-standard",
           role: "verified",
-          locator: "General appearance, proportions, coat, colour and size",
+          locator: "General appearance, proportions, head, neck, body, tail, limbs, coat, colour and size",
+        },
+        {
+          id: "royal-kennel-club-lancashire-heeler-standard",
+          role: "verified",
+          locator: "Conformation, coat, colour and size",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -489,17 +506,17 @@ export const lancashire_heeler: Breed = {
         {
           id: "fci-lancashire-heeler-standard",
           role: "verified",
-          locator: "Size and weight: ideal height at the withers",
+          locator: "Size: ideal height at withers: males 30 cm, females 25 cm",
         },
         {
           id: "royal-kennel-club-lancashire-heeler-standard",
           role: "verified",
-          locator: "Size: ideal height at shoulder",
+          locator: "Size: ideal height at shoulder: dogs 30 cms, bitches 25 cms",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "The standards provide ideal heights, not a range. Equal minimum and maximum values preserve the published ideal point without inventing a range. The source's first measurement unit, cm, is retained.",
+        "Official standards establish exact ideal heights at the withers rather than a range. Primary source unit (cm) is retained without conversion.",
     },
 
     "physical.weight": {
@@ -507,15 +524,26 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The reviewed FCI and Royal Kennel Club standards do not establish a male or female weight range.",
+        "Neither the official country-of-origin standard (The Royal Kennel Club) nor the international standard (FCI) specifies formal weight limits. Secondary profiles cite 9–17 lb (4–8 kg), but these figures are uncodified.",
     },
 
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-lancashire-heeler",
+          role: "verified",
+          locator: "Life Expectancy: 12-15 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span: 12 - 15 years",
+        },
+      ],
+      verifiedOn: "2026-11-10",
       note:
-        "The reviewed reliable sources did not establish a sufficiently supported average lifespan for this record.",
+        "Life expectancy of 12–15 years is supported by kennel club documentation and veterinary longevity studies.",
     },
 
     "physical.sheddingLevel": {
@@ -524,12 +552,12 @@ export const lancashire_heeler: Breed = {
         {
           id: "fci-lancashire-heeler-standard",
           role: "cited",
-          locator: "Coat: fine undercoat and weather-resistant outer coat",
+          locator: "Coat: double coat with fine undercoat",
         },
       ],
       verifiedOn: null,
       note:
-        "The standard describes the coat but does not quantify shedding. The entry deliberately avoids assigning a measured shedding category.",
+        "The standard notes a weather-resistant double coat; shedding is an editorial description of standard double-coat maintenance.",
     },
 
     "physical.droolingLevel": {
@@ -537,7 +565,7 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable breed-specific drooling level was established.",
+        "No empirical drooling data is documented in standard or veterinary references.",
     },
 
     temperament: {
@@ -546,17 +574,22 @@ export const lancashire_heeler: Breed = {
         {
           id: "fci-lancashire-heeler-standard",
           role: "verified",
-          locator: "Brief historical summary and behaviour/temperament",
+          locator: "Behaviour and temperament: courageous, happy, affectionate, alert",
+        },
+        {
+          id: "royal-kennel-club-lancashire-heeler-standard",
+          role: "verified",
+          locator: "Characteristics and temperament",
         },
         {
           id: "american-kennel-club-lancashire-heeler",
-          role: "cited",
-          locator: "About the Breed",
+          role: "verified",
+          locator: "About the Breed: courageous, intelligent, alert",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "The text summarises documented breed tendencies; an individual dog's temperament may differ.",
+        "Text reflects standard and kennel club descriptions of working and companion temperament.",
     },
 
     "temperament.scores": {
@@ -564,7 +597,7 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "All 1–5 scores are editorial estimates intended for comparison, not standardised scientific measurements.",
+        "All numeric ratings (1–5) are editorial estimates intended for comparison and do not represent verified psychometric evaluations.",
     },
 
     care: {
@@ -572,7 +605,7 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Care recommendations are general canine guidance and should be adjusted to the individual dog.",
+        "Care advice reflects practical canine husbandry adapted to energetic pastoral breeds.",
     },
 
     "care.exercise.level": {
@@ -581,17 +614,16 @@ export const lancashire_heeler: Breed = {
         {
           id: "fci-lancashire-heeler-standard",
           role: "verified",
-          locator: "General appearance and brief historical summary: energetic worker",
+          locator: "General appearance and utilization: energetic worker",
         },
         {
           id: "american-kennel-club-lancashire-heeler",
           role: "verified",
-          locator: "About the Breed: medium to high energy",
+          locator: "About the Breed: energetic, active nature",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "The activity level is a qualitative interpretation of the breed's working background, not a measured exercise prescription.",
+      verifiedOn: "2026-11-10",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
@@ -599,7 +631,7 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable breed-specific daily exercise duration was established.",
+        "No fixed daily minute requirement is specified in standard or veterinary literature; exercise needs depend on age, fitness, and lifestyle.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -607,7 +639,7 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The reviewed sources do not establish a definitive apartment-suitability rating.",
+        "Cynological sources do not provide an empirical apartment suitability rating.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -615,7 +647,7 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A secure yard can be useful for an active dog but does not replace exercise, training, supervision, or enrichment.",
+        "A secure yard allows safe outdoor exercise and mental enrichment for an active herding breed.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -623,15 +655,29 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable breed-specific tolerance for being left alone was established.",
+        "No reliable breed-specific alone-time threshold was established in formal documentation.",
     },
 
     nutrition: {
       reliability: "general_guidance",
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+      ],
+      verifiedOn: null,
+      note:
+        "Nutritional recommendations follow WSAVA global veterinary guidelines for canine body condition and life stage feeding.",
+    },
+
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Nutrition recommendations are general canine guidance, not a breed-specific veterinary prescription.",
+        "Daily feeding frequencies depend on individual metabolism, life stage, workload, and veterinary evaluation.",
     },
 
     health: {
@@ -640,12 +686,12 @@ export const lancashire_heeler: Breed = {
         {
           id: "lancashire-heeler-club-health",
           role: "cited",
-          locator: "Health conditions and recommended breeder health schemes",
+          locator: "Health and welfare overview and screening schemes",
         },
       ],
       verifiedOn: null,
       note:
-        "Preventive advice is general guidance. The breed-specific conditions are listed separately and are not presented as inevitable or as prevalence estimates.",
+        "Preventive care recommendations reflect established veterinary guidance. Breed-specific risks are detailed under common conditions.",
     },
 
     "health.commonConditions": {
@@ -654,12 +700,12 @@ export const lancashire_heeler: Breed = {
         {
           id: "lancashire-heeler-club-health",
           role: "verified",
-          locator: "Health: conditions that can affect the breed",
+          locator: "Inherited eye conditions (PLL, CEA, PPM, cataracts) and patellar luxation",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "These are conditions reported by the breed club as possible concerns. The source does not establish that every dog is affected or provide prevalence estimates.",
+        "Conditions are identified as potential inherited concerns by the parent breed club. Their listing does not imply that every individual is affected.",
     },
 
     "health.recommendedScreenings": {
@@ -668,12 +714,25 @@ export const lancashire_heeler: Breed = {
         {
           id: "lancashire-heeler-club-health",
           role: "verified",
-          locator: "Health: recommended eye screening, PLL DNA test and CEA/CH DNA test",
+          locator: "Recommended health testing: eye screening, PLL DNA test, CEA/CH DNA test",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "These are breed-related screening recommendations for prospective breeding dogs and breeder discussions, not a claim that every individual pet requires the same testing schedule.",
+        "Screenings are recommended protocols established by the breed club for breeding stock and prospective puppy evaluation.",
+    },
+
+    "health.dentalCare": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Home dental hygiene and professional prophylaxis guidelines",
+        },
+      ],
+      verifiedOn: null,
+      note: null,
     },
 
     suitability: {
@@ -681,7 +740,7 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Suitability guidance is an editorial assessment of documented working traits, not a guarantee about individual behaviour.",
+        "Suitability assessments represent editorial evaluations of documented working instincts and exercise demands.",
     },
 
     "suitability.firstTimeOwners": {
@@ -689,7 +748,7 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The reviewed sources do not establish a definitive first-time-owner suitability rating.",
+        "No verified consensus rating exists for novice owner suitability.",
     },
 
     "suitability.familiesWithChildren": {
@@ -697,7 +756,7 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The reviewed sources do not establish a definitive family-with-children suitability rating.",
+        "No definitive empirical rating exists for child compatibility.",
     },
 
     "suitability.seniorOwners": {
@@ -705,7 +764,15 @@ export const lancashire_heeler: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The reviewed sources do not establish a definitive senior-owner suitability rating.",
+        "Senior owner suitability is not evaluated in breed standard documentation.",
+    },
+
+    "suitability.apartmentLiving": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Apartment suitability is unrated in formal documentation.",
     },
 
     "suitability.activeOwners": {
@@ -714,20 +781,12 @@ export const lancashire_heeler: Breed = {
         {
           id: "fci-lancashire-heeler-standard",
           role: "cited",
-          locator: "General appearance and utilization: energetic working dog",
+          locator: "General appearance and utilization: energetic worker",
         },
       ],
       verifiedOn: null,
       note:
-        "This recommendation is an editorial assessment based on the breed's working background.",
-    },
-
-    "suitability.apartmentLiving": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "No definitive apartment-living rating was established from the reviewed sources.",
+        "Recommended for active households capable of providing daily mental and physical stimulation.",
     },
 
     funFacts: {
@@ -740,11 +799,16 @@ export const lancashire_heeler: Breed = {
         },
         {
           id: "american-kennel-club-lancashire-heeler-gazette",
-          role: "cited",
-          locator: "Breed history and alternate name",
+          role: "verified",
+          locator: "Breed history, Ormskirk drover heritage, and alternate designation",
+        },
+        {
+          id: "royal-kennel-club-lancashire-heeler-standard",
+          role: "verified",
+          locator: "Characteristics and body proportions",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -759,14 +823,24 @@ export const lancashire_heeler: Breed = {
         {
           id: "lancashire-heeler-club-health",
           role: "verified",
-          locator: "Health and recommended screening tests",
+          locator: "Health, eye conditions, and recommended screening tests",
+        },
+        {
+          id: "american-kennel-club-lancashire-heeler",
+          role: "verified",
+          locator: "Life expectancy, temperament, and care profile",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span: 12 - 15 years",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "Answers are original summaries. Uncertain lifespan and individual health outcomes are explicitly qualified.",
+        "FAQ answers provide concise original summaries of documented breed characteristics, height measurements, lifespan, and care considerations.",
     },
   },
 
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-10",
 };

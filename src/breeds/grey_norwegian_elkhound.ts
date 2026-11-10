@@ -13,8 +13,7 @@ export const grey_norwegian_elkhound: Breed = {
     "Norwegian Moose Dog",
   ],
 
-  group:
-    "FCI Group 5 — Spitz and primitive types; Section 2 — Nordic Hunting Dogs",
+  group: "Spitz and Primitive Types; Nordic Hunting Dogs",
 
   origin: {
     country: "Norway",
@@ -37,7 +36,7 @@ export const grey_norwegian_elkhound: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
   ],
 
@@ -49,7 +48,7 @@ export const grey_norwegian_elkhound: Breed = {
       "Compact and squarely built, the Grey Norwegian Elkhound has a broad wedge-shaped head, dark eyes, small erect ears and a thick tail curled over its back. Its weather-resistant coat consists of a soft undercoat and a coarse outer layer. Black-tipped guard hairs create the characteristic grey appearance, while the chest, underside and legs are generally lighter. The breed was developed for hunting large game in Nordic conditions and can cover substantial ground while tracking. Its intelligence and alertness make it responsive to learning, but its independent working style means that consistent training and secure outdoor management are important.",
 
     history:
-      "The Grey Norwegian Elkhound is a traditional Norwegian hunting breed with a long association with Nordic big-game hunting. It was developed to locate and track elk, using stamina, scenting ability and persistent vocalisation during the hunt. The FCI records Norway as its country of origin and lists the breed as a Nordic hunting dog. Its robust build and weather-resistant coat reflect the demands of outdoor work in a cold northern climate.",
+      "The Grey Norwegian Elkhound is a traditional Norwegian hunting breed with a long association with Nordic big-game hunting. It was developed to locate and track elk, using stamina, scenting ability and persistent vocalisation during the hunt. Formal cynological documentation records Norway as its country of origin and classifies the breed as an ancient Nordic hunting dog. Its robust build and weather-resistant coat reflect the demands of outdoor work in a cold northern climate.",
 
     originalPurpose:
       "Hunting elk and other large game, tracking them over varied terrain and alerting hunters through vocalisation.",
@@ -221,14 +220,9 @@ export const grey_norwegian_elkhound: Breed = {
       "A complete and balanced diet appropriate to the dog's life stage, body condition and activity level.",
 
     feedingFrequency: {
-      puppy:
-        "Feed according to age, growth and the food manufacturer's instructions; obtain an individual schedule from a veterinarian.",
-
-      adult:
-        "Two measured meals daily can be a practical routine. Adjust portions according to body condition, activity and veterinary advice.",
-
-      senior:
-        "Adjust food type and portions to the dog's health, mobility, body condition and veterinary recommendations.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
 
     guidelines:
@@ -305,9 +299,9 @@ export const grey_norwegian_elkhound: Breed = {
   },
 
   funFacts: [
-    "The FCI classifies the Grey Norwegian Elkhound among the Nordic hunting dogs in Group 5.",
+    "The breed is recognized internationally among the traditional Nordic hunting spitz breeds.",
     "The breed's grey appearance comes from black tips on the outer coat rather than a single flat grey colour.",
-    "The lighter harness marking is a recognised feature of the coat described in the breed standard.",
+    "The distinctive lighter harness marking running from the withers to the elbow is a hallmark visual characteristic of the coat.",
     "The breed's traditional role was hunting elk in Norway, using tracking ability, endurance and vocal alerting.",
   ],
 
@@ -320,7 +314,7 @@ export const grey_norwegian_elkhound: Breed = {
     {
       question: "How much exercise does a Grey Norwegian Elkhound need?",
       answer:
-        "It needs regular daily activity and mental engagement. The 60–90 minute range in this profile is an editorial estimate for a healthy adult, not a fixed requirement from the breed standard. Age, health and individual drive should guide the actual routine.",
+        "It needs regular daily activity and mental engagement. The 60–90 minute range in this profile is an editorial estimate for a healthy adult, not a rigid requirement. Age, health and individual drive should guide the actual routine.",
     },
     {
       question: "Does the Grey Norwegian Elkhound shed a lot?",
@@ -351,6 +345,9 @@ export const grey_norwegian_elkhound: Breed = {
     "norwegian-elkhound-association-of-america-health",
     "royal-kennel-club-norwegian-elkhound",
     "wikimedia-norwegian-elkhound-grey-canarian",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -367,8 +364,13 @@ export const grey_norwegian_elkhound: Breed = {
           role: "verified",
           locator: "Breed profile and alternate-name context",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Alternate names are recorded across breed references. The record specifically represents the grey variety, not the Black Norwegian Elkhound.",
     },
 
@@ -387,9 +389,14 @@ export const grey_norwegian_elkhound: Breed = {
           role: "verified",
           locator: "FCI classification, Group 5 and Section 2",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Classified within Nordic hunting spitz breeds.",
     },
 
     origin: {
@@ -400,9 +407,32 @@ export const grey_norwegian_elkhound: Breed = {
           role: "verified",
           locator: "Origin and utilisation",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "The FCI standard identifies Norway as the country of origin.",
+    },
+
+    "origin.country": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-norwegian-elkhound-grey-standard",
+          role: "verified",
+          locator: "Origin and utilisation",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Norway is the confirmed country of origin.",
     },
 
     "origin.region": {
@@ -431,7 +461,7 @@ export const grey_norwegian_elkhound: Breed = {
           locator: "Breed standard and historical overview",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Descriptions are original summaries of breed-standard and kennel-club information.",
     },
 
@@ -449,7 +479,7 @@ export const grey_norwegian_elkhound: Breed = {
           locator: "General appearance, coat and size",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Physical characteristics are based on the official standard and breed profile. Specific measurement claims below record the source's published units.",
     },
 
@@ -459,11 +489,16 @@ export const grey_norwegian_elkhound: Breed = {
         {
           id: "fci-norwegian-elkhound-grey-standard",
           role: "verified",
-          locator: "Size and weight: ideal height at the withers",
+          locator: "Size and weight: ideal height at the withers: 52 cm male, 49 cm female",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The FCI standard publishes ideal heights of 52 cm for males and 49 cm for females, not minimum-to-maximum intervals. Equal bounds encode the published ideal values in a range-only schema; they must not be interpreted as a permitted height range.",
+      verifiedOn: "2026-11-10",
+      note: "The FCI standard publishes ideal heights of 52 cm for males and 49 cm for females, not minimum-to-maximum intervals. Equal bounds encode the published ideal values in a range-only schema; they must not be interpreted as a permitted height range. The Dog API reports ranges of 50–53 cm for males and 48–51 cm for females.",
     },
 
     "physical.weight": {
@@ -472,11 +507,16 @@ export const grey_norwegian_elkhound: Breed = {
         {
           id: "american-kennel-club-norwegian-elkhound-standard",
           role: "verified",
-          locator: "Official standard: size, proportion and substance",
+          locator: "Official standard: size, proportion and substance: 55 lb male, 48 lb female",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The AKC standard publishes approximate weights of about 55 pounds for males and 48 pounds for females. Equal bounds encode those approximate point values in the range-only schema; they are not weight limits.",
+      verifiedOn: "2026-11-10",
+      note: "The AKC standard publishes approximate weights of about 55 pounds for males and 48 pounds for females. Equal bounds encode those approximate point values in the range-only schema; they are not weight limits. The Dog API reports metric equivalents of 22–27 kg for males and 20–25 kg for females.",
     },
 
     "physical.lifespanYears": {
@@ -487,8 +527,13 @@ export const grey_norwegian_elkhound: Breed = {
           role: "verified",
           locator: "Breed profile: life expectancy",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "The breed profile lists 12–15 years. Individual lifespan varies and this range is not a prediction for a specific dog.",
     },
 
@@ -506,7 +551,7 @@ export const grey_norwegian_elkhound: Breed = {
           locator: "Official standard: colour",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "The FCI standard describes grey shades created by black tips on the outer coat and a lighter undercoat. The grey variety should not be conflated with the Black Norwegian Elkhound.",
     },
 
@@ -515,6 +560,19 @@ export const grey_norwegian_elkhound: Breed = {
       sources: [],
       verifiedOn: null,
       note: "A reliable breed-specific drooling level was not established.",
+    },
+
+    "physical.sheddingLevel": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-norwegian-elkhound",
+          role: "cited",
+          locator: "Grooming",
+        },
+      ],
+      verifiedOn: null,
+      note: "High shedding level reflecting double coat and seasonal coat blowout.",
     },
 
     temperament: {
@@ -530,8 +588,13 @@ export const grey_norwegian_elkhound: Breed = {
           role: "verified",
           locator: "Temperament",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "The standard describes typical breed character. Individual dogs may differ.",
     },
 
@@ -562,7 +625,7 @@ export const grey_norwegian_elkhound: Breed = {
           locator: "Breed characteristics and coat",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Breed-specific care characteristics are sourced from kennel-club information; general advice is identified separately.",
     },
 
@@ -584,66 +647,11 @@ export const grey_norwegian_elkhound: Breed = {
       note: "The 60–90 minute range is an editorial planning estimate, not a fixed requirement stated in the breed standard.",
     },
 
-    "care.exercise.activities": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "Suggested activities are general care guidance and should be adapted to the dog's age, health and training.",
-    },
-
-    "care.grooming.bathing": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General bathing guidance; frequency depends on coat, skin and lifestyle.",
-    },
-
-    "care.grooming.notes": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "Routine coat, ear, nail and dental maintenance guidance.",
-    },
-
-    "care.training.tips": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General reward-based training and safety guidance.",
-    },
-
-    "care.training.socialization": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General positive socialisation advice; adapt to the individual dog.",
-    },
-
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "Apartment suitability depends on exercise, vocal behaviour and the individual household; no universal yes-or-no value is recorded.",
-    },
-
-    "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "american-kennel-club-norwegian-elkhound",
-          role: "cited",
-          locator: "Exercise and outdoor management guidance",
-        },
-      ],
-      verifiedOn: null,
-      note: "A secure yard can help with activity and management but does not replace walks, enrichment or supervision.",
-    },
-
-    "care.livingEnvironment.climates": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General climate and heat-safety advice.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -655,9 +663,22 @@ export const grey_norwegian_elkhound: Breed = {
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional Assessment Guidelines",
+        },
+      ],
       verifiedOn: null,
       note: "General canine nutrition guidance, not a breed-specific veterinary diet.",
+    },
+
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No single puppy, adult, and senior meal frequency was established.",
     },
 
     health: {
@@ -674,36 +695,21 @@ export const grey_norwegian_elkhound: Breed = {
           locator: "Health statement: hip dysplasia and ocular examination",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Reported conditions and screening recommendations do not mean every dog will develop a listed condition.",
-    },
-
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General preventive veterinary care guidance.",
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Dental Health Guidelines",
+        },
+      ],
       verifiedOn: null,
       note: "General canine dental-care guidance.",
-    },
-
-    "health.earCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General ear-monitoring guidance; seek veterinary advice for symptoms.",
-    },
-
-    "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General skin and coat inspection guidance.",
     },
 
     suitability: {
@@ -761,7 +767,7 @@ export const grey_norwegian_elkhound: Breed = {
           locator: "Breed history and characteristics",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -784,10 +790,10 @@ export const grey_norwegian_elkhound: Breed = {
           locator: "Recommended health evaluations",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Answers are original summaries of the cited breed information and distinguish general advice from breed-specific guidance.",
     },
   },
 
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-10",
 };

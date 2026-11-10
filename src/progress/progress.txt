@@ -78,19 +78,18 @@
 75:broholmer - CG
 76:manchester_terrier - CG
 77:spinone_italiano - CG
+78:mudi - CG
+79:rafeiro_do_alentejo - CG
+80:polish_hound - CG
+81:icelandic_sheepdog - CG
+82:old_english_sheepdog - CG
+83:saluki - CG
+84:grey_norwegian_elkhound - CG
+85:ariegeois - CG
+86:lancashire_heeler - CG
+87:german_spitz - CG
+88:shiba_inu - CG
 
-78:mudi - CR
-
-79:rafeiro_do_alentejo - C
-80:polish_hound - C
-81:icelandic_sheepdog - C
-82:old_english_sheepdog - C
-83:saluki - C
-84:grey_norwegian_elkhound - C
-85:ariegeois - C
-86:lancashire_heeler - C
-87:german_spitz - C
-88:shiba_inu - C
 89:belgian_shepherd_dog_(malinois) - C
 90:bulldog - C
 91:schapendoes - C
@@ -151,20 +150,20 @@
 146:azawakh - C
 147:english_cocker_spaniel - C
 148:danish_swedish_farmdog - C
+149:griffon_bruxellois_80 - C
+150:barbet - C
+151:scottish_terrier - C
+152:briard - C
+153:weimaraner - C
+154:curly_coated_retriever - C
+155:spanish_mastiff - C
+156:norrbottenspets - C
+157:rhodesian_ridgeback - C
+158:whippet - C
+159:fox_terrier_(smooth) - C
+160:bolognese - C
+161:belgian_shepherd_dog_(groenendael) - C
 
-149:griffon_bruxellois_80
-150:barbet
-151:scottish_terrier
-152:briard
-153:weimaraner
-154:curly_coated_retriever
-155:spanish_mastiff
-156:norrbottenspets
-157:rhodesian_ridgeback
-158:whippet
-159:fox_terrier_(smooth)
-160:bolognese
-161:belgian_shepherd_dog_(groenendael)
 162:basset_bleu_de_gascogne
 163:croatian_sheepdog
 164:harrier

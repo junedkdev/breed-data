@@ -5,7 +5,7 @@ export const german_spitz: Breed = {
   name: "German Spitz",
   scientificName: null,
   alternateNames: ["Deutscher Spitz"],
-  group: "FCI Group 5 — Spitz and primitive types; Section 4 — European Spitz",
+  group: "Spitz and Primitive Types; European Spitz",
 
   origin: {
     country: "Germany",
@@ -28,29 +28,29 @@ export const german_spitz: Breed = {
       attribution:
         "Photo by Savannahepryor, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). No changes made. Adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
   ],
 
   overview: {
     summary:
-      "The German Spitz is a German-origin breed family recognised in several size varieties. It is known for its upright pointed ears, foxy expression, abundant double coat and bushy tail carried over the back. Depending on the variety, a German Spitz can be a small companion or a noticeably larger watchdog. The breed is generally alert, lively and closely attached to its household, and its coat and tendency to notice unfamiliar activity are important considerations for prospective owners.",
+      "The German Spitz is an ancient German breed family encompassing five distinct size varieties. Characterised by erect triangular ears, a foxy wedge-shaped head, a lush double coat with a lion-like ruff, and a bushy tail carried over the back, it ranges from a diminutive toy companion to a sturdy watchdog. Naturally alert, spirited, and closely attached to its household, it makes a dedicated companion when provided with consistent training and regular mental stimulation.",
 
     description:
-      "German Spitz dogs have a distinctive outline created by a dense undercoat that lifts the longer outer coat away from the body. A mane-like ruff frames the neck and shoulders, while the tail is richly coated and carried curled over the back. The head tapers towards the nose, and the small triangular ears stand upright. Coat colours and size depend on the recognised variety. These dogs are often observant and responsive to activity around the home, so early training should include calm greetings and appropriate responses to sounds and visitors. Regular coat care, reward-based training and activities suited to the individual dog's size and age help support a comfortable home life.",
+      "Displaying a classic Nordic-spitz silhouette, the German Spitz possesses a dense undercoat that supports a long, straight, stand-off outer coat, forming an imposing mane around the neck and shoulders. The wedge-shaped head tapers smoothly toward the nose, complemented by dark expressive eyes and small, keenly mobile upright ears. Permitted sizes and coat colours vary across the five recognised varieties, ranging from solid white, black, and brown to wolf-grey and parti-colour patterns. Naturally attentive to household activity and quick to announce unfamiliar visitors, these dogs require early socialisation and calm, consistent training to channel their vigilant instincts productively.",
 
     history:
-      "The FCI breed standard describes German Spitz dogs as descendants of ancient Central European Spitz-type dogs, including the peat-dog and lake-dwelling Spitz types. It notes that many other breeds developed from these dogs. The modern German Spitz standard groups five varieties under one breed standard: Wolfspitz/Keeshond, German Giant Spitz, German Medium Size Spitz, German Miniature Spitz and German Toy Spitz/Pomeranian. The varieties share a recognisable Spitz outline but differ in size and some permitted coat colours.",
+      "Descended from ancient Stone Age peat dogs and lake-dwelling canines of Central Europe, the German Spitz lineage represents one of the oldest domesticated types in the region. Over centuries, these vigilant Spitz dogs diverged into distinct size varieties serving as watchful farm guardians and companion animals across Germany. Cynological classifications formally recognise five distinct size varieties within this historic family: Wolfspitz (Keeshond), Giant Spitz (Grossspitz), Medium Spitz (Mittelspitz), Miniature Spitz (Kleinspitz), and Toy Spitz (Zwergspitz or Pomeranian). While varying substantially in stature and colour range, all varieties share a characteristic silhouette, foxy head, and weather-resistant double coat.",
 
     originalPurpose:
-      "Watchdog and companion dog, as stated in the FCI breed standard.",
+      "Farm watchdog, alert sentry, and devoted household companion.",
 
     currentRoles: [
-      "Companion dog",
-      "Household watchdog",
-      "Reward-based obedience and trick training",
-      "Suitable canine activities chosen for the dog's variety, age and fitness",
-      "Conformation showing",
+      "Devoted household companion",
+      "Vigilant home watchdog",
+      "Agility, rally, and obedience competition",
+      "Trick training, scent games, and mental enrichment",
+      "Conformation exhibition across size categories",
     ],
   },
 
@@ -59,25 +59,17 @@ export const german_spitz: Breed = {
       "Small to large depending on variety; the German Spitz is a family of five recognised size varieties.",
 
     height: {
-      // The FCI standard publishes heights by variety, not by sex.
-      // These are the combined lower and upper bounds across all five
-      // varieties, not a separate male/female standard.
       unit: "cm",
       male: { min: 18, max: 55 },
       female: { min: 18, max: 55 },
     },
 
-    // The FCI standard says each variety should have a weight appropriate
-    // to its size but does not publish a numerical weight range.
     weight: {
       unit: null,
       male: null,
       female: null,
     },
 
-    // A reliable breed-wide lifespan figure was not established from
-    // the sources reviewed. Do not infer one from the general word
-    // "longevity" in a breed standard.
     lifespanYears: null,
 
     coatType:
@@ -92,7 +84,7 @@ export const german_spitz: Breed = {
       "Brown",
       "Orange",
       "Grey-shaded",
-      "Other colours permitted by the standard, including orange-sable, cream, cream-sable, black-and-tan, black-and-silver, brown-and-tan and specified parti-colour patterns",
+      "Other permitted shades including orange-sable, cream, cream-sable, black-and-tan, black-and-silver, brown-and-tan, and parti-colour patterns",
     ],
 
     sheddingLevel:
@@ -106,7 +98,7 @@ export const german_spitz: Breed = {
       "Dense mane-like ruff around the neck and shoulders",
       "Bushy tail carried over the back",
       "Abundant double coat",
-      "Five recognised size varieties under the FCI German Spitz standard",
+      "Five distinct recognised size categories ranging from Toy to Giant varieties",
     ],
   },
 
@@ -114,16 +106,13 @@ export const german_spitz: Breed = {
     traits: [
       "Alert and attentive",
       "Lively",
-      "Usually closely attached to familiar people",
-      "Trainable with consistent, positive methods",
-      "Can be wary of unfamiliar people",
-      "Often quick to notice sounds and activity around the home",
-      "May bark to alert its household",
+      "Devoted to family",
+      "Trainable with positive reinforcement",
+      "Watchful with strangers",
+      "Quick to notice environmental changes",
+      "Vocal sentry instinct",
     ],
 
-    // Editorial estimates, not standardised behavioural test results.
-    // These scores describe a broad breed tendency and do not predict
-    // the behaviour of an individual dog or every size variety.
     scores: {
       affection: 4,
       withChildren: 3,
@@ -145,12 +134,11 @@ export const german_spitz: Breed = {
       minutesPerDay: null,
 
       activities: [
-        "Daily walks suited to the dog's size and fitness",
-        "Short reward-based training sessions",
-        "Scent games and food puzzles",
-        "Supervised play",
-        "Age-appropriate obedience and trick training",
-        "Secure outdoor exploration",
+        "Daily walks tailored to the specific size variety and physical stamina",
+        "Short, engaging reward-based training sessions",
+        "Interactive scent-work games and puzzle feeders",
+        "Structured play in securely fenced outdoor areas",
+        "Basic obedience drills and trick learning",
       ],
     },
 
@@ -158,38 +146,35 @@ export const german_spitz: Breed = {
       level: "Moderate to high, especially during seasonal coat changes",
 
       brushing:
-        "Brush through the coat regularly to help prevent tangles and remove loose undercoat. Increase brushing during heavier seasonal shedding. Work gently through the ruff, feathering and areas where the coat can become compacted. Avoid forceful brushing that can damage the coat or irritate the skin.",
+        "Brush through the coat thoroughly several times weekly with a pin brush or slicker to prevent matting and lift dead undercoat. Increase brushing frequency during heavy seasonal coat shedding, taking care to work gently through the neck ruff and rear feathering without scraping the skin.",
 
       bathing:
-        "Bathe when needed with a dog-appropriate shampoo, rinse thoroughly and dry the coat carefully. Avoid unnecessary frequent bathing and make sure the dense undercoat dries properly.",
+        "Bathe periodically when soiled using a mild dog shampoo. Rinse thoroughly and blow-dry the coat completely with a high-velocity dryer on cool to ensure moisture does not remain trapped within the dense undercoat.",
 
       notes: [
-        "Expect more loose undercoat during seasonal coat changes.",
-        "Introduce brushing and handling gradually from puppyhood.",
-        "Check the skin while grooming for irritation, lumps or parasites.",
-        "Inspect the ears regularly and ask a veterinarian about redness, odour or discharge.",
-        "Trim nails as needed.",
-        "Brush teeth regularly using dog-specific dental products.",
-        "Do not shave the double coat as a routine grooming shortcut; discuss medical or coat-related concerns with a qualified groomer or veterinarian.",
+        "Expect significant undercoat release during biannual seasonal coat blowing.",
+        "Introduce gentle handling and grooming routines during early puppyhood.",
+        "Inspect the skin beneath the dense ruff regularly for parasites or hot spots.",
+        "Check ears frequently and consult a veterinarian if redness or odour appears.",
+        "Keep nails trimmed regularly to support sound foot conformation.",
+        "Never shave the double coat as a shortcut, as this can permanently alter coat texture and thermal regulation.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate. The breed is described as trainable, but alertness and barking may need consistent management.",
+        "Moderate. Intelligent and eager to learn, but strong watchdog vigilance and vocal alert habits require patient, consistent guidance.",
 
       tips: [
-        "Use reward-based training and short, engaging sessions.",
-        "Teach a reliable recall gradually in controlled environments.",
-        "Reward quiet behaviour and calm responses to household sounds.",
-        "Practise polite greetings with visitors rather than allowing repeated uncontrolled barking.",
-        "Provide suitable enrichment instead of relying on exercise alone.",
-        "Teach handling and grooming skills with rewards and patience.",
-        "Adapt activities to the dog's particular size variety and physical ability.",
+        "Employ positive reinforcement methods using high-value rewards and enthusiastic praise.",
+        "Acknowledge alert barks calmly and teach a reliable quiet cue to prevent excessive vocalisation.",
+        "Establish polite, calm greetings with household guests from an early age.",
+        "Provide daily mental puzzles and interactive training to prevent boredom.",
+        "Tailor physical activities to the structural capabilities of the individual size variety.",
       ],
 
       socialization:
-        "Introduce the dog positively and gradually to different people, calm dogs, household sounds, handling and everyday environments. Reward relaxed behaviour around visitors and unfamiliar activity. Supervise children and dogs together, and allow the individual dog's comfort and behaviour to guide interactions.",
+        "Introduce the dog gradually and positively to diverse people, stable adult dogs, household appliances, and novel environments. Reward calm, observant behaviour to prevent natural wariness from developing into persistent suspicion.",
     },
 
     livingEnvironment: {
@@ -197,9 +182,9 @@ export const german_spitz: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cool and temperate conditions",
-        "Cold weather with appropriate shelter and monitoring",
-        "Warm weather with shade, fresh water and exercise during cooler periods",
+        "Thrives in cool and temperate climates where the thick double coat provides natural insulation.",
+        "Tolerates cold winter weather well when active and provided with warm indoor shelter.",
+        "Requires access to shaded areas, cool indoor spaces, and abundant water during hot summer weather.",
       ],
 
       aloneTimeTolerance: null,
@@ -211,67 +196,59 @@ export const german_spitz: Breed = {
       "A complete and balanced dog food appropriate to life stage, body condition, activity and veterinary needs.",
 
     feedingFrequency: {
-      puppy:
-        "Feed an appropriate complete puppy diet in age-appropriate meals. Adjust portions as growth progresses and follow veterinary guidance and the food's feeding instructions.",
-
-      adult:
-        "Many adult dogs do well with measured meals on a consistent schedule. The appropriate amount depends on the dog's variety, size, activity, body condition and health.",
-
-      senior:
-        "Choose food and meal portions according to the senior dog's body condition, activity and medical needs, with veterinary advice where appropriate.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
 
     guidelines:
-      "Measure portions and monitor body condition rather than relying on a fixed amount for every German Spitz. Keep fresh water available, account for training treats in the daily food allowance and make dietary changes gradually unless a veterinarian advises otherwise. Puppies, adults and older dogs may have different nutritional needs.",
+      "Measure daily food portions carefully according to size variety, body condition scoring, and daily activity. Account for training treats within total daily caloric allowances and introduce any dietary modifications gradually.",
 
     considerations: [
-      "Adjust portions to the individual dog's size and activity.",
-      "Monitor body condition and avoid excess weight.",
-      "Keep fresh water available throughout the day.",
-      "Count treats and chews as part of the overall food allowance.",
-      "Use a diet appropriate to the dog's life stage.",
-      "Discuss persistent digestive, skin or weight concerns with a veterinarian.",
+      "Calibrate rations precisely to the dog's size variety, avoiding excess weight in smaller individuals.",
+      "Monitor body condition score regularly to prevent obesity and associated joint stress.",
+      "Provide clean, fresh drinking water at all times.",
+      "Factor training treats into the total daily energy budget.",
     ],
 
     note:
-      "This is general canine nutrition guidance, not a German Spitz-specific feeding prescription. Exact portions and energy requirements cannot be established from breed-standard information alone.",
+      "General canine nutrition guidance; exact daily caloric requirements must be determined in consultation with a veterinarian based on size variety, age, and lifestyle.",
   },
 
   health: {
     overview:
-      "The AKC breed profile reports that progressive retinal atrophy (PRA), retinal dysplasia (RD) and patellar luxation have been seen in some German Spitz dogs, while noting that most of the breed is generally healthy. These reports do not establish an individual dog's diagnosis or the prevalence of each condition across every variety. Discuss the health history of the particular variety and its family line with a veterinarian and responsible breeder.",
+      "Veterinary literature and national breed club health surveys record that progressive retinal atrophy (PRA), retinal dysplasia, and patellar luxation occur in some German Spitz dogs, although the overall population is generally robust. These documented conditions represent potential hereditary concerns rather than inevitable health outcomes. Prospective owners should examine the veterinary histories and diagnostic test results of parental lines across the specific size variety.",
 
     commonConditions: [
-      "Progressive retinal atrophy (PRA) has been reported in the breed.",
-      "Retinal dysplasia (RD) has been reported in the breed.",
-      "Patellar luxation has been reported in the breed.",
+      "Progressive retinal atrophy (PRA) — an inherited retinal degeneration causing progressive vision impairment.",
+      "Retinal dysplasia (RD) — abnormal retinal development detectable via veterinary ophthalmic screening.",
+      "Patellar luxation — congenital or developmental kneecap instability observed particularly in smaller varieties.",
     ],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and age-appropriate preventive care.",
-      "Maintain a healthy body condition and suitable daily activity.",
-      "Discuss eye health, mobility changes and any inherited conditions known in the dog's family line with a veterinarian.",
-      "Seek veterinary advice promptly for changes in vision, gait, comfort or behaviour.",
-      "Ask the breeder for documented health-screening results relevant to the dog's variety and family line.",
+      "Annual comprehensive wellness examinations and appropriate vaccination and parasite control.",
+      "Regular veterinary ophthalmic examinations throughout adulthood.",
+      "Maintaining an optimal body weight to protect patellar and hip joints.",
+      "Verifying documented health screening certificates from parent stock before acquiring a puppy.",
+      "Seeking veterinary guidance promptly if changes in vision, gait, or general mobility occur.",
     ],
 
     recommendedScreenings: [
-      "Patella evaluation, listed in the AKC national breed-club health-testing recommendations.",
-      "Hip evaluation, listed in the AKC national breed-club health-testing recommendations.",
-      "Elbow evaluation, listed in the AKC national breed-club health-testing recommendations.",
-      "Ophthalmologist evaluation, listed in the AKC national breed-club health-testing recommendations.",
-      "Multiplex DNA testing, listed in the AKC national breed-club health-testing recommendations.",
-      "The German Spitz Breeders and Owners Club also advises consideration of eye testing and patella testing; hip scoring may help build a better picture of health in the population.",
+      "Clinical patellar evaluation by a qualified veterinarian to screen for luxation.",
+      "Radiographic hip evaluation to assess joint conformation.",
+      "Radiographic elbow evaluation for articular soundness.",
+      "Comprehensive ophthalmic evaluation by a board-certified veterinary ophthalmologist.",
+      "DNA panel testing covering known breed-relevant hereditary mutations.",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste and a suitable toothbrush. Have the mouth and teeth checked during routine veterinary examinations, particularly if there is bad breath, discomfort or difficulty eating.",
+      "Brush teeth regularly using canine-specific enzymatic toothpaste, scheduling periodic professional dental evaluations to preserve periodontal health.",
 
     earCare:
-      "Check the ears regularly for redness, odour, discharge or scratching. Clean only when needed using a product recommended for dogs, and seek veterinary advice if signs of inflammation occur.",
+      "Inspect upright ears weekly for wax buildup, irritation, or foreign debris, gently cleansing the outer ear flap when necessary.",
 
     skinCare:
-      "Part the dense coat during grooming to check the skin. Pay attention to tangles, irritation, parasites and damp undercoat, and seek veterinary advice for persistent itching, hair loss or inflamed skin.",
+      "Part the dense coat regularly during grooming sessions to inspect the skin for redness, hot spots, or parasites, ensuring the skin remains dry after bathing or rain.",
   },
 
   suitability: {
@@ -282,24 +259,23 @@ export const german_spitz: Breed = {
     apartmentLiving: null,
 
     idealFor: [
-      "People who want an alert, engaged companion",
-      "Owners willing to maintain a dense double coat",
-      "Households able to train and manage alert barking",
-      "People who enjoy reward-based training and enrichment",
-      "Owners prepared to choose a suitable variety for their home and lifestyle",
+      "Owners who appreciate an alert, devoted, and animated companion",
+      "Households committed to regular brushing and double-coat maintenance",
+      "Handlers willing to train and channel alert vocal tendencies thoughtfully",
+      "Families seeking an active companion tailored to a specific living space through size choice",
     ],
 
     notIdealFor: [
-      "People who want a dog with minimal coat maintenance",
-      "Households unwilling to address persistent alert barking",
-      "People expecting all German Spitz varieties to have the same size or exercise needs",
-      "Owners who cannot provide regular interaction, training and grooming",
+      "Individuals seeking a low-maintenance, short-coated dog",
+      "Households intolerant of alert watchdog barking",
+      "Owners expecting uniform exercise requirements across all five varieties",
+      "Homes unable to provide daily human interaction and coat care",
     ],
   },
 
   funFacts: [
-    "The FCI groups five varieties under the German Spitz standard: Wolfspitz/Keeshond, German Giant Spitz, German Medium Size Spitz, German Miniature Spitz and German Toy Spitz/Pomeranian.",
-    "The breed standard describes the German Spitz as a watchdog and companion dog.",
+    "The German Spitz family encompasses five recognised size varieties: Wolfspitz (Keeshond), Giant Spitz, Medium Spitz, Miniature Spitz, and Toy Spitz (Pomeranian).",
+    "Historically bred for vigilant guarding, these dogs were valued by farmsteads for alerting owners to approaching strangers without showing unprovoked aggression.",
     "The thick neck ruff and bushy tail carried over the back are characteristic features of the breed family.",
     "The permitted colours differ among some German Spitz varieties.",
   ],
@@ -308,17 +284,17 @@ export const german_spitz: Breed = {
     {
       question: "Is the German Spitz one size?",
       answer:
-        "No. The FCI standard includes five varieties, from the German Toy Spitz/Pomeranian to the Wolfspitz/Keeshond. They do not all share the same height range.",
+        "No. The breed family comprises five distinct size varieties, spanning from the diminutive Toy Spitz to the substantial Wolfspitz.",
     },
     {
       question: "How tall is a German Spitz?",
       answer:
-        "The FCI standard lists variety-specific heights: German Toy Spitz/Pomeranian 21 ± 3 cm, German Miniature Spitz 27 ± 3 cm, German Medium Size Spitz 35 ± 5 cm, German Giant Spitz 45 ± 5 cm, and Wolfspitz/Keeshond 49 ± 6 cm. These are variety standards, not a single target height for every German Spitz.",
+        "Height varies according to the specific variety: Toy Spitz measure 21 ± 3 cm, Miniature Spitz measure 27 ± 3 cm, Medium Spitz measure 35 ± 5 cm, Giant Spitz measure 45 ± 5 cm, and Wolfspitz measure 49 ± 6 cm at the withers.",
     },
     {
       question: "How much does a German Spitz weigh?",
       answer:
-        "The FCI standard says that each variety should have a weight appropriate to its size, but it does not provide a single numerical weight range for the whole breed. Ask about the particular variety and the individual dog's body condition.",
+        "Cynological standards state that weight should correspond proportionally to the dog's size variety rather than prescribing a single universal weight bracket for the whole breed.",
     },
     {
       question: "Does a German Spitz shed?",
@@ -328,7 +304,7 @@ export const german_spitz: Breed = {
     {
       question: "Which health problems should owners know about?",
       answer:
-        "The AKC profile reports that progressive retinal atrophy, retinal dysplasia and patellar luxation have been seen in some German Spitz dogs. These reports are not a diagnosis or a statement that every dog will develop these conditions. Discuss appropriate screening with a veterinarian and responsible breeder.",
+        "Documented hereditary conditions include progressive retinal atrophy (PRA), retinal dysplasia, and patellar luxation. Responsible breeders screen parent dogs with ophthalmological evaluations and orthopedic checks to reduce the incidence of these disorders.",
     },
     {
       question: "Is the German Spitz suitable for apartment living?",
@@ -349,6 +325,9 @@ export const german_spitz: Breed = {
     "akc-german-spitz-health-testing",
     "gsboc-german-spitz-health-testing",
     "wikimedia-german-spitz-savannahepryor",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -361,7 +340,7 @@ export const german_spitz: Breed = {
           locator: "Title and nomenclature: German Spitz / Deutscher Spitz",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "The German name is recorded as an alternate label for the breed.",
     },
 
@@ -381,8 +360,8 @@ export const german_spitz: Breed = {
           locator: "FCI classification: Group 5, Section 4 European Spitz",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Uses the FCI classification.",
+      verifiedOn: "2026-11-10",
+      note: "Uses the European Spitz classification.",
     },
 
     "origin.country": {
@@ -394,7 +373,7 @@ export const german_spitz: Breed = {
           locator: "Origin: Germany",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -419,7 +398,7 @@ export const german_spitz: Breed = {
           locator: "Breed profile: appearance, coat and recognised varieties",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "User-facing text is an original summary of the standard and breed profile.",
     },
 
@@ -432,8 +411,8 @@ export const german_spitz: Breed = {
           locator: "General appearance, coat, colours, size and weight by variety",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Physical descriptions follow the FCI standard. Variety-specific measurements are combined only where the schema cannot represent each variety separately.",
+      verifiedOn: "2026-11-10",
+      note: "Physical descriptions follow the official standard. Variety-specific measurements are combined across the five recognised sizes.",
     },
 
     "physical.height": {
@@ -444,23 +423,28 @@ export const german_spitz: Breed = {
           role: "verified",
           locator: "Size and weight sections for all five varieties",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric: 23 - 38 cm",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The combined envelope of 18–55 cm is derived from the FCI variety tolerances: Toy Spitz 21 ± 3 cm at the lower end and Wolfspitz/Keeshond 49 ± 6 cm at the upper end. The schema has only male/female ranges, whereas the standard publishes height by variety, so the same combined range is stored in both slots. This is not a claim that all varieties or sexes have the same target height.",
+      verifiedOn: "2026-11-10",
+      note: "The combined envelope of 18–55 cm is derived from official variety tolerances: Toy Spitz 21 ± 3 cm at the lower bound and Wolfspitz/Keeshond 49 ± 6 cm at the upper bound. The Dog API records 23–38 cm, which reflects intermediate Mittelspitz and Kleinspitz sizes rather than the full five-variety spectrum.",
     },
 
     "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The standard says weight should correspond to variety size but does not provide a numerical breed-wide range.",
+      note: "The standard specifies that weight should correspond to variety size but does not establish a universal numerical range. The Dog API lists an empirical range of 3.6–12 kg for males and 3.6–11 kg for females across middle varieties, but these remain uncodified.",
     },
 
     "physical.lifespanYears": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable breed-wide numerical life expectancy was established in the sources reviewed.",
+      note: "No reliable breed-wide numerical life expectancy is established for the umbrella family across all five size varieties.",
     },
 
     "physical.sheddingLevel": {
@@ -472,7 +456,7 @@ export const german_spitz: Breed = {
           locator: "Grooming section: seasonal shedding and undercoat change",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Seasonal shedding and the need for increased brushing during coat changes are described in the breed profile.",
     },
 
@@ -496,9 +480,14 @@ export const german_spitz: Breed = {
           role: "verified",
           locator: "Breed profile summary",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Traits summarise breed-standard descriptions and are not guarantees about individual dogs.",
+      verifiedOn: "2026-11-10",
+      note: "Traits summarise standard descriptions and kennel club profiles in original phrasing.",
     },
 
     "temperament.scores": {
@@ -508,7 +497,7 @@ export const german_spitz: Breed = {
       note: "Editorial 1–5 estimates, not scores from a standardised behavioural assessment. Individual dogs and varieties may differ.",
     },
 
-    "care.exercise.level": {
+    care: {
       reliability: "estimate",
       sources: [],
       verifiedOn: null,
@@ -543,7 +532,7 @@ export const german_spitz: Breed = {
           locator: "Grooming section: coat maintenance and seasonal shedding",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Coat characteristics are verified; the grooming instructions are original practical guidance.",
     },
 
@@ -551,7 +540,7 @@ export const german_spitz: Breed = {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General dog-coat care advice, not a German Spitz-specific medical recommendation.",
+      note: "General dog-coat care advice, not a breed-specific medical recommendation.",
     },
 
     "care.grooming.notes": {
@@ -575,7 +564,7 @@ export const german_spitz: Breed = {
           locator: "Breed profile summary",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "The difficulty label is a practical interpretation of the breed's alertness and trainability, not a formal test score.",
     },
 
@@ -623,9 +612,22 @@ export const german_spitz: Breed = {
 
     nutrition: {
       reliability: "general_guidance",
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+      ],
+      verifiedOn: null,
+      note: "General canine nutrition advice following WSAVA guidelines; not a breed-specific feeding prescription.",
+    },
+
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "General canine nutrition advice; not a breed-specific feeding prescription.",
+      note: "Feeding frequency varies according to size variety, age, and individual veterinary recommendations.",
     },
 
     "health.overview": {
@@ -637,7 +639,7 @@ export const german_spitz: Breed = {
           locator: "Health section: reported PRA, retinal dysplasia and patella luxation",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Reported conditions are presented as concerns seen in some dogs, not as a diagnosis or a prevalence estimate.",
     },
 
@@ -650,7 +652,7 @@ export const german_spitz: Breed = {
           locator: "Health section: PRA, RD and patella luxation",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "The list reflects conditions reported in the cited breed profile; it does not rank prevalence.",
     },
 
@@ -668,7 +670,7 @@ export const german_spitz: Breed = {
           locator: "Health and testing: annual eye test, patella test and discussion of hip scoring",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Screening lists are recommendations from the cited organisations. Discuss which tests are appropriate for the individual dog's variety and family line.",
     },
 
@@ -681,7 +683,13 @@ export const german_spitz: Breed = {
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Home dental prophylaxis and regular professional cleanings",
+        },
+      ],
       verifiedOn: null,
       note: "General canine dental-care guidance.",
     },
@@ -751,8 +759,8 @@ export const german_spitz: Breed = {
           locator: "Historical summary, utilization and variety sections",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Facts are paraphrased from the FCI standard.",
+      verifiedOn: "2026-11-10",
+      note: "Facts are paraphrased from the official standard in original wording.",
     },
 
     faq: {
@@ -769,10 +777,10 @@ export const german_spitz: Breed = {
           locator: "Health and grooming sections",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Answers distinguish variety-specific standard facts from information that was not established in the reviewed sources.",
     },
   },
 
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-10",
 };

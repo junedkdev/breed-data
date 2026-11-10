@@ -153,6 +153,19 @@ import { appenzeller_sennenhund } from "./appenzeller_sennenhund";
 import { azawakh } from "./azawakh";
 import { english_cocker_spaniel } from "./english_cocker_spaniel";
 import { danish_swedish_farmdog } from "./danish_swedish_farmdog";
+import { griffon_bruxellois_80 } from "./griffon_bruxellois_80";
+import { barbet } from "./barbet";
+import { scottish_terrier } from "./scottish_terrier";
+import { briard } from "./briard";
+import { weimaraner } from "./weimaraner";
+import { curly_coated_retriever } from "./curly_coated_retriever";
+import { spanish_mastiff } from "./spanish_mastiff";
+import { norrbottenspets } from "./norrbottenspets";
+import { rhodesian_ridgeback } from "./rhodesian_ridgeback";
+import { whippet } from "./whippet";
+import { fox_terrier_smooth } from "./fox_terrier_smooth";
+import { bolognese } from "./bolognese";
+import { belgian_shepherd_dog_groenendael } from "./belgian_shepherd_dog_groenendael";
 
 
 export const breedData: readonly Breed[] = [
@@ -305,4 +318,17 @@ export const breedData: readonly Breed[] = [
   azawakh,
   english_cocker_spaniel,
   danish_swedish_farmdog,
+  griffon_bruxellois_80,
+  barbet,
+  scottish_terrier,
+  briard,
+  weimaraner,
+  curly_coated_retriever,
+  spanish_mastiff,
+  norrbottenspets,
+  rhodesian_ridgeback,
+  whippet,
+  fox_terrier_smooth,
+  bolognese,
+  belgian_shepherd_dog_groenendael,
 ];

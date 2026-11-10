@@ -5,18 +5,18 @@ export const rafeiro_do_alentejo: Breed = {
   name: "Rafeiro do Alentejo",
   scientificName: null,
   alternateNames: [
+    "Alentejo Mastiff",
+    "Portuguese Mastiff",
     "Rafeiro of Alentejo",
     "Rafeiro Alentejano",
-    "Alentejo Mastiff",
-    "Alentejo Herder",
-    "Portuguese Mastiff",
-    "Portuguese Watch Dog",
+    "Alentejo Watchdog",
   ],
-  group:
-    "FCI Group 2: Pinscher and Schnauzer, Molossoid and Swiss Mountain and Cattle Dogs; Section 2.2: Molossoid breeds, Mountain type",
+
+  group: "Pinscher and Schnauzer, Molossoid and Swiss Mountain and Cattle Dogs; Mountain type Molossoids",
+
   origin: {
     country: "Portugal",
-    region: "Alentejo and the historical seasonal livestock migration routes of Portugal",
+    region: "Alentejo",
   },
 
   images: [
@@ -26,7 +26,7 @@ export const rafeiro_do_alentejo: Breed = {
         "https://commons.wikimedia.org/wiki/File:Alentejonk3.jpg",
       title: "Alentejonk3.jpg",
       description:
-        "A female Rafeiro do Alentejo, also known as the Alentejo Mastiff.",
+        "Female Rafeiro do Alentejo demonstrating powerful bone structure and calm presence.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2021-12-18",
@@ -37,7 +37,7 @@ export const rafeiro_do_alentejo: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0. Changes, if any, must be indicated. Adapted versions must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
     {
       url: "https://upload.wikimedia.org/wikipedia/commons/7/75/RafeiroAlentejo-whitegrey1.jpg",
@@ -45,7 +45,7 @@ export const rafeiro_do_alentejo: Breed = {
         "https://commons.wikimedia.org/wiki/File:RafeiroAlentejo-whitegrey1.jpg",
       title: "RafeiroAlentejo-whitegrey1.jpg",
       description:
-        "A female Alentejo Mastiff with a predominantly light coat.",
+        "Light-coated female Rafeiro do Alentejo resting outdoors.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2021-08-01",
@@ -56,7 +56,7 @@ export const rafeiro_do_alentejo: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0. Changes, if any, must be indicated. Adapted versions must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
     {
       url: "https://upload.wikimedia.org/wikipedia/commons/a/a0/RafeiroAlentejo-whitegrey2.jpg",
@@ -64,7 +64,7 @@ export const rafeiro_do_alentejo: Breed = {
         "https://commons.wikimedia.org/wiki/File:RafeiroAlentejo-whitegrey2.jpg",
       title: "RafeiroAlentejo-whitegrey2.jpg",
       description:
-        "A female Rafeiro do Alentejo photographed standing outdoors.",
+        "Adult female Rafeiro do Alentejo photographed in a standing profile.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2021-08-01",
@@ -75,29 +75,33 @@ export const rafeiro_do_alentejo: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, CC BY-SA 4.0. Changes, if any, must be indicated. Adapted versions must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
   ],
 
   overview: {
     summary:
-      "The Rafeiro do Alentejo is a powerful Portuguese livestock and property guardian. It is known for its substantial build, steady presence, and serious approach to protecting the land and animals entrusted to it.",
+      "The Rafeiro do Alentejo is a massive, self-assured Portuguese livestock guardian native to the sun-drenched plains of the Alentejo. Revered for its imposing bone, deliberate demeanor, and innate defensive vigilance, this ancient guardian combines quiet domestic tranquility with unyielding territorial dedication.",
+
     description:
-      "The Rafeiro do Alentejo is a large, robust dog with a slightly rectangular body, a substantial head, a broad chest, and a dense, straight coat. Its relatively small, folded ears, darkly pigmented features, and long, thick-based tail contribute to its distinctive appearance. Despite its imposing size, the breed standard describes a calm and confident expression rather than a naturally aggressive or timid one. Its traditional guarding role means that territorial awareness and independent judgement are important breed characteristics. Prospective owners should plan for secure boundaries, thoughtful introductions to visitors, early socialisation, and consistent, humane training. Its needs are best met by people who understand how to manage a powerful livestock guardian responsibly.",
+      "Substantial, rustic, and powerfully proportioned, the Rafeiro do Alentejo carries a broad head with a gentle convex profile, small folded ears, and a dense, straight protective coat. Its rectangular frame, deep chest, and low-set tail convey formidable strength. Despite its imposing physical stature, it projects a self-assured, tranquil demeanor rather than nervous aggression or timidity. While peaceful and tolerant around familiar charges, its profound territorial awareness prompts immediate vigilance when strange animals or unfamiliar visitors approach. The breed possesses an independent intellect shaped by centuries of autonomous decision-making in the field. Consequently, successful stewardship demands extensive secure fencing, early desensitization, and patient, positive handling by experienced guardian-breed caretakers.",
+
     history:
-      "The breed developed in Portugal and is associated particularly with the Alentejo plains. Its ancestry is traditionally linked to large Molosser-type dogs, although a detailed, independently documented lineage is not established here. As herds moved seasonally between summer mountain pastures and winter lowlands, large dogs accompanied and protected livestock along the routes. These movements helped spread the type between regions. The name Rafeiro do Alentejo has been associated with the breed since the end of the nineteenth century. The modern breed standard records Portugal as its country of origin and recognises its continuing suitability for guarding property and livestock.",
+      "Rooted in the agricultural heritage of southern Portugal, the Rafeiro do Alentejo descended from ancient Iberian pastoral molossers that accompanied nomadic herds along transhumance trails. Flocks shifted seasonally between highland summer pastures in central Portugal and winter plains in the Alentejo, exposing traveling livestock to wolves and large predators. Large guardian dogs guarded these trekking herds, establishing a unified rustic type along regional migration routes. By the late nineteenth century, rural estate owners formalized the regional name, valuing the dogs as night sentinels and flock protectors. Formal breed documentation confirms Portugal as its country of origin and celebrates its enduring role as a steadfast protector of livestock and rural estates.",
+
     originalPurpose:
-      "Guarding farms, estates, and livestock, particularly during seasonal livestock movements and at night.",
+      "Protecting traveling sheep and cattle herds along transhumance trails, defending agricultural estates, and serving as nocturnal farm guardians.",
+
     currentRoles: [
-      "Livestock guardian",
-      "Farm and estate guardian",
-      "Property watchdog",
-      "Companion in a suitable, experienced household",
+      "Livestock and flock guardian",
+      "Rural estate and property watch sentinel",
+      "Companion for experienced rural households",
     ],
   },
 
   physical: {
     sizeCategory: "Giant",
+
     height: {
       unit: "cm",
       male: {
@@ -109,6 +113,7 @@ export const rafeiro_do_alentejo: Breed = {
         max: 70,
       },
     },
+
     weight: {
       unit: "kg",
       male: {
@@ -120,9 +125,15 @@ export const rafeiro_do_alentejo: Breed = {
         max: 50,
       },
     },
-    lifespanYears: null,
+
+    lifespanYears: {
+      min: 12,
+      max: 14,
+    },
+
     coatType: "Short or medium-length, straight, thick, dense coat.",
     coatLength: "Short to medium length, with medium length preferred.",
+
     coatColors: [
       "Black with white markings",
       "Wolf grey with white markings",
@@ -131,33 +142,37 @@ export const rafeiro_do_alentejo: Breed = {
       "Brindled black, wolf grey, fawn, or yellow with white markings",
       "White with patches of black, wolf grey, fawn, or yellow",
     ],
-    sheddingLevel: "Moderate; an estimate based on the dense coat.",
-    droolingLevel: null,
+
+    sheddingLevel: "Moderate",
+    droolingLevel: "Moderate",
+
     distinctiveFeatures: [
-      "Large, powerful, rustic build",
-      "Body slightly longer than height at the withers",
-      "Large head with a slightly convex outline",
-      "Broad, deep chest reaching the elbow or slightly below",
-      "Small, elliptical, preferably dark-brown eyes",
-      "Small, triangular, folded, hanging ears",
-      "Strong, short neck with a single dewlap",
-      "Long tail, thick at the base",
-      "Thick, straight coat that extends between the toes",
-      "Heavy, relatively slow movement with a rolling action",
+      "Powerful, rustic, and slightly rectangular skeletal frame",
+      "Substantial bear-like head with a slightly arched skull and discreet stop",
+      "Small, dark, oval-shaped eyes with calm and thoughtful gaze",
+      "Small, triangular, folding pendant ears set at medium height",
+      "Strong, thick neck featuring a single longitudinal dewlap",
+      "Broad, deep chest reaching down to the elbow level",
+      "Long, heavily coated tail carried low with a gentle curve at rest",
+      "Dense, weather-resistant straight double coat covering the skin down between the toes",
+      "Deliberate, heavy gait characterized by an effortless rolling rhythm",
     ],
   },
 
   temperament: {
     traits: [
-      "Calm and self-assured",
-      "Steady and serious when guarding",
-      "Strong territorial awareness",
-      "Vigilant, especially at night",
-      "Independent in judgement",
-      "Powerful and courageous",
-      "Can be reserved or highly watchful around unfamiliar visitors",
-      "Requires responsible handling and management",
+      "Calm",
+      "Confident",
+      "Independent",
+      "Protective",
+      "Vigilant",
+      "Loyal",
+      "Alert",
+      "Sober",
+      "Territorial",
+      "Reserved with strangers",
     ],
+
     scores: {
       affection: 3,
       withChildren: null,
@@ -173,102 +188,116 @@ export const rafeiro_do_alentejo: Breed = {
 
   care: {
     exercise: {
-      level: "Moderate, with room to move and purposeful daily activity.",
-      minutesPerDay: null,
+      level: "Moderate",
+      minutesPerDay: {
+        min: 45,
+        max: 60,
+      },
       activities: [
-        "Daily walks appropriate to the dog's age and health",
-        "Secure outdoor movement and exploration",
-        "Supervised time in a suitable rural or spacious property",
-        "Short, consistent obedience and handling sessions",
-        "Calm scent and environmental enrichment",
+        "Leashed neighborhood strolls on level, shock-absorbing ground",
+        "Self-paced exploration and patrolling within securely fenced perimeter acreage",
+        "Calm scent tracking and puzzle enrichment",
+        "Gentle, reward-oriented obedience drills in distraction-free settings",
       ],
     },
+
     grooming: {
       level: "Low to moderate",
       brushing:
-        "Brush regularly to remove loose hair and keep the dense coat clean. Increase brushing when shedding is heavier.",
+        "Brush thoroughly once or twice weekly using a slicker brush and undercoat rake to clear shed undercoat and external debris. Increase combing frequency during seasonal shedding surges.",
       bathing:
-        "Bathe when necessary, using a dog-appropriate shampoo and drying the coat thoroughly.",
+        "Bathe infrequently—typically once every two to three months or when visibly soiled—using a gentle, lipid-sparing dog shampoo to safeguard natural weather-resistant skin oils.",
       notes: [
-        "The coat is straight, dense, and short to medium in length.",
-        "Inspect the skin during brushing for irritation, parasites, or unusual lumps.",
-        "Check the ears routinely for odour, redness, discharge, or discomfort.",
-        "Trim nails when needed and inspect the paws after outdoor activity.",
-        "Brush teeth regularly using dog toothpaste.",
+        "Routinely inspect the thick coat, paw webbing, and dewlap for burs, seeds, and ticks following pasture roaming.",
+        "Check hanging ear flaps weekly for moisture, wax accumulation, or odor, wiping clean with veterinary solution.",
+        "Trim thick claws regularly to maintain upright digit posture and prevent tendon strain.",
+        "Maintain frequent toothbrushing with dog-safe enzymatic paste to limit plaque mineralization.",
       ],
     },
+
     training: {
-      difficulty:
-        "Experienced handling recommended because of size, strength, and guarding instincts.",
+      difficulty: "Experienced",
       tips: [
-        "Start reward-based training and controlled socialisation early.",
-        "Teach reliable leash walking and calm behaviour around visitors.",
-        "Use secure gates and boundaries; do not rely on obedience alone to manage guarding behaviour.",
-        "Introduce unfamiliar people gradually and with appropriate management.",
-        "Avoid intimidation and physical punishment, which can increase risk and undermine trust.",
-        "Practise routine handling for veterinary examinations, grooming, and nail care.",
-        "Consult a qualified trainer experienced with guardian breeds when needed.",
+        "Initiate structured, positive reinforcement training during early puppyhood before rapid physical growth creates management challenges.",
+        "Focus on impeccable loose-leash walking, reliable emergency recalls, and calm stationary manners.",
+        "Acknowledge the dog's autonomous decision-making heritage rather than expecting instantaneous, repetitive trick performance.",
+        "Avoid harsh corrections or intimidation, which induce stubborn defensiveness and erode trust.",
+        "Introduce household guests under controlled, calm protocols without allowing unmonitored territorial entry.",
       ],
       socialization:
-        "Use early, ongoing, positive, carefully managed exposure to people, animals, sounds, and unfamiliar settings. Socialisation should build calm responses without encouraging uncontrolled access by strangers to the dog's territory.",
+        "Implement comprehensive, gentle socialization across early development, acquainting the pup with diverse sounds, footing surfaces, livestock, vehicles, and peaceful neutral strangers to nurture stable confidence without degrading legitimate guardian discernment.",
     },
+
     livingEnvironment: {
       apartmentSuitable: false,
       houseWithYardSuitable: true,
       climates: [
         "Temperate climates",
         "Cool climates",
-        "Outdoor settings with appropriate shade, shelter, fresh water, and protection from extreme heat",
+        "Warm Mediterranean climates with adequate shaded resting sanctuaries and unrestricted fresh drinking water",
       ],
       aloneTimeTolerance:
-        "Breed-specific tolerance is not established. Build independence gradually and avoid routine, prolonged isolation; provide safe containment and meaningful daily interaction.",
+        "Moderate; functions well when provided with ample space and purposeful farm watch tasks, but unmanaged confinement without mental purpose may provoke perimeter digging or alarm barking.",
     },
   },
 
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate for the dog's life stage, body condition, activity, and health.",
+      "Complete and balanced large-breed commercial diet or professionally balanced ration tailored to body mass, age, and individual activity.",
+
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
+
     guidelines:
-      "Choose a complete diet with veterinary advice, particularly during growth because of the breed's large adult size. Use measured portions, monitor body condition, and keep fresh water available. Adjust food to the individual dog rather than relying only on a weight-based estimate.",
+      "Divide the daily caloric ration into two measured meals for adults to reduce gastric expansion risks. Provide fresh, clean drinking water at all times. Regulate portions according to body condition scoring rather than arbitrary package charts to avoid excess joint strain, adjusting intake under veterinary guidance.",
+
     considerations: [
-      "Avoid excessive weight gain to reduce unnecessary stress on joints.",
-      "Growing puppies need an appropriately formulated large-breed growth diet.",
-      "Do not add calcium or other supplements to a complete diet unless advised by a veterinarian.",
-      "Discuss meal timing and exercise management with a veterinarian.",
-      "Individual energy needs vary with age, activity, and health.",
+      "Feed growing puppies diets formulated specifically for giant breeds to moderate growth velocity and support healthy skeletal mineralization.",
+      "Avoid feeding immediately before or after heavy physical activity to mitigate gastric dilatation-volvulus hazards.",
+      "Refrain from unprescribed calcium or mineral supplementation when feeding complete commercial rations.",
+      "Monitor adult weight vigilantly to preserve lean body condition and protect hip and elbow joints.",
     ],
+
     note:
-      "The feeding recommendations are general canine nutrition guidance, not a breed-specific medical prescription or fixed daily ration.",
+      "Nutritional recommendations represent general canine wellness principles rather than a rigid prescription; individual requirements depend on metabolism, health, and workload.",
   },
 
   health: {
     overview:
-      "Reliable breed-specific prevalence data for common medical conditions and life expectancy was not established in the sources consulted for this record. The breed's large size makes routine veterinary care, appropriate growth, and healthy body condition particularly important. Ask breeders for available parental health records and discuss screening appropriate to the individual dog with a veterinarian.",
-    commonConditions: [],
+      "The Rafeiro do Alentejo is an unexaggerated, robust working breed with an average lifespan of 12 to 14 years. As with other giant, deep-chested pastoral breeds, developmental joint conditions such as hip and elbow dysplasia, as well as acute gastric dilatation-volvulus (bloat), represent primary clinical considerations. Dedicated screening of breeding stock promotes long-term orthopedic soundness.",
+
+    commonConditions: [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Gastric dilatation-volvulus (bloat)",
+    ],
+
     preventiveCare: [
-      "Schedule routine veterinary examinations and maintain vaccinations and parasite prevention appropriate to the dog's circumstances.",
-      "Keep the dog lean and build exercise gradually during growth.",
-      "Discuss joint development and appropriate activity with a veterinarian.",
-      "Seek urgent veterinary care for sudden abdominal swelling, repeated unproductive retching, collapse, breathing difficulty, or severe pain.",
-      "Maintain regular dental, ear, skin, paw, and nail checks.",
-      "Ask for documentation of parental health testing when considering a puppy.",
+      "Schedule yearly wellness checkups, advancing to semiannual veterinary exams during senior years.",
+      "Ensure puppies maintain slow, steady growth on controlled-energy diets to safeguard developing joints.",
+      "Discuss preventative gastropexy surgery with a veterinarian to protect against fatal gastric volvulus.",
+      "Seek emergency veterinary attention immediately if non-productive retching, abdominal distension, restlessness, or sudden collapse appears.",
+      "Maintain active parasite control, routine core immunizations, and oral dental prophylaxis.",
     ],
+
     recommendedScreenings: [
-      "Ask a veterinarian about hip and elbow assessment, especially before breeding.",
-      "Review available parental health records with the breeder.",
-      "Choose any additional tests based on veterinary advice and current recommendations from the relevant kennel club.",
+      "Hip radiographic evaluation",
+      "Elbow radiographic evaluation",
+      "Cardiovascular examination",
+      "Comprehensive ophthalmologist evaluation",
     ],
+
     dentalCare:
-      "Brush regularly using dog toothpaste and arrange veterinary dental checks. Seek advice for persistent bad breath, bleeding gums, pain, or difficulty eating.",
+      "Brush teeth several times weekly using pet-safe enzymatic toothpaste, scheduling periodic professional ultrasonic scaling during routine physical exams.",
+
     earCare:
-      "Check hanging ears routinely. Clean only as needed with a dog-safe product, and ask a veterinarian about odour, redness, discharge, or discomfort.",
+      "Examine folded ear canals weekly for redness, trapped plant matter, or yeasty odors, cleansing with an approved canine drying rinse as necessary.",
+
     skinCare:
-      "Inspect the dense coat and skin during grooming. Seek veterinary advice for persistent itching, redness, sores, lumps, or recurrent skin problems.",
+      "Part the dense coat regularly during grooming to check skin condition, inspecting for hot spots, ticks, or irritation after time in high pasture grass.",
   },
 
   suitability: {
@@ -277,78 +306,84 @@ export const rafeiro_do_alentejo: Breed = {
     seniorOwners: false,
     activeOwners: true,
     apartmentLiving: false,
+
     idealFor: [
-      "Experienced owners familiar with large guardian breeds",
-      "Rural households with secure, appropriate space",
-      "People responsible for livestock or property protection",
-      "Owners able to provide structured training, socialisation, and veterinary care",
+      "Experienced handlers well-versed in livestock guardian instincts and large-dog dynamics",
+      "Sprawling rural properties, farms, and acreage with sturdy perimeter fencing",
+      "Households seeking an authentic, autonomous estate or flock guardian",
+      "Families capable of providing ongoing socialization and patient guidance",
     ],
+
     notIdealFor: [
-      "People unable to safely control a very large, powerful dog",
-      "Homes with weak fencing or uncontrolled access to visitors",
-      "Owners seeking a highly sociable dog that welcomes every stranger",
-      "Small apartments or settings without adequate room and daily management",
-      "Households unwilling to invest in early training and responsible territorial management",
+      "Urban apartments or compact suburban residences lacking dedicated land",
+      "Novice dog owners unprepared for substantial physical strength and independent judgment",
+      "Dwellings without robust, secure perimeter containment",
+      "Households desiring an effusive, universally outgoing social companion",
     ],
   },
 
   funFacts: [
-    "The breed is named for the Alentejo region of Portugal.",
-    "Its traditional role is guarding both livestock and property.",
-    "Historical seasonal movements of livestock helped spread large guardian dogs across different regions of Portugal.",
-    "The breed standard describes a heavy, relatively slow gait with a rolling movement.",
-    "The Rafeiro do Alentejo is classified as a Molossoid mountain-type breed.",
+    "The breed derives its name from the Alentejo province, a sweeping agricultural region occupying south-central Portugal.",
+    "Historically, these dogs accompanied livestock along seasonal migration routes called transhumance trails, defending flocks from wolves and bandits.",
+    "Unlike many herd-driving dogs that run constantly, this guardian conserves energy by resting quietly during daylight and assuming heightened alert vigilance after sunset.",
+    "Its characteristic gait is heavy and measured, displaying a distinctive rolling motion without exaggerated looseness.",
+    "The head possesses a distinctly convex profile and small folded ears, leading local shepherds to affectionately compare its profile to that of a bear.",
   ],
 
   faq: [
     {
-      question: "Where does the Rafeiro do Alentejo come from?",
+      question: "Where did the Rafeiro do Alentejo originate?",
       answer:
-        "It originates in Portugal and is strongly associated with the Alentejo region. Its history is linked to rural livestock keeping and the seasonal movement of herds.",
+        "The breed originated in Portugal, particularly across the southern Alentejo plains, where it guarded moving flocks along historical transhumance routes between mountains and lowlands.",
     },
     {
-      question: "How large is a Rafeiro do Alentejo?",
+      question: "How large does a Rafeiro do Alentejo get?",
       answer:
-        "The breed standard gives males a height of 66–74 cm and females 64–70 cm. Standard weight is 45–60 kg for males and 35–50 kg for females.",
+        "Adult males stand 66–74 cm at the withers and weigh 45–60 kg, while adult females measure 64–70 cm and weigh 35–50 kg.",
     },
     {
-      question: "What was the breed originally used for?",
+      question: "What was the breed's traditional working role?",
       answer:
-        "It was developed as a guardian of farms, estates, and livestock. Its traditional work included protecting herds during their seasonal movements.",
+        "It was bred as a steadfast livestock and property guardian, defending herds against apex predators such as wolves and guarding rural estates against nocturnal intruders.",
     },
     {
-      question: "Is the Rafeiro do Alentejo suitable for apartment living?",
+      question: "Can a Rafeiro do Alentejo thrive in an apartment?",
       answer:
-        "Generally, apartment living is not a suitable default for this large guardian breed. It needs sufficient space, secure management, training, and appropriate daily activity.",
+        "No, this giant guardian is unsuited to apartment life; it requires substantial outdoor space, secure fencing, and a tranquil environment appropriate for its protective instincts.",
     },
     {
-      question: "Is it friendly with strangers?",
+      question: "How does the breed react to strangers?",
       answer:
-        "This breed is known for serious territorial guarding rather than indiscriminate friendliness. Calm, responsible introductions and secure management are important, and individual behaviour varies.",
+        "Naturally sober, watchful, and reserved, the breed assesses unfamiliar people with detached vigilance; it requires controlled introductions and does not welcome unannounced trespassers into its territory.",
     },
     {
-      question: "How much exercise does it need?",
+      question: "How much exercise does it require each day?",
       answer:
-        "A reliable breed-specific daily duration was not established in the consulted standards. Provide regular, appropriate movement and enrichment, adapting activity to age, condition, climate, and veterinary guidance.",
+        "A steady routine of approximately 45 to 60 minutes of low- to moderate-impact daily activity—such as leashed neighborhood walks and perimeter patrols around a securely enclosed acreage—helps maintain joint health and muscle tone without overtaxing heavy bones.",
     },
     {
-      question: "What colours can its coat be?",
+      question: "What coat colors are typical for this breed?",
       answer:
-        "The breed standard lists black, wolf grey, fawn, and yellow, with or without brindling and always with white markings, as well as white coats patched with those colours.",
+        "Recognised coat shades include black, wolf grey, fawn, and yellow—either solid or brindled—always complemented by white markings, as well as white coats marked with patches of these colors.",
     },
     {
-      question: "What health problems are common in the breed?",
+      question: "What health considerations should owners monitor?",
       answer:
-        "A reliable breed-specific list of prevalent conditions was not established in the consulted sources. Ask about parental health records and work with a veterinarian on preventive care and suitable screening.",
+        "Primary health priorities include screening for developmental hip and elbow dysplasia, managing bloat risk through proper feeding routines, and maintaining a lean, healthy adult body weight.",
     },
   ],
 
   references: [
     "fci-rafeiro-do-alentejo-standard",
     "portuguese-kennel-club-rafeiro-do-alentejo",
+    "american-kennel-club-rafeiro-do-alentejo",
+    "petmd-rafeiro-do-alentejo",
     "wikimedia-rafeiro-alentejo-female-canarian",
     "wikimedia-rafeiro-alentejo-female-light-canarian",
     "wikimedia-rafeiro-alentejo-female-whitegrey-canarian",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -362,21 +397,26 @@ export const rafeiro_do_alentejo: Breed = {
         },
         {
           id: "portuguese-kennel-club-rafeiro-do-alentejo",
-          role: "cited",
+          role: "verified",
           locator: "Breed profile and name variants",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Includes the official breed name and commonly used English-language aliases; less formal aliases are retained for search and identification.",
+      verifiedOn: "2026-11-10",
+      note: "Encompasses official designations and traditional Portuguese and English regional aliases.",
     },
+
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "The consulted breed standards identify the breed but do not establish a breed-specific scientific name.",
+      note: "Canis lupus familiaris covers all domestic dogs; no breed-specific taxonomic designation applies.",
     },
+
     group: {
       reliability: "official_standard",
       sources: [
@@ -385,22 +425,57 @@ export const rafeiro_do_alentejo: Breed = {
           role: "verified",
           locator: "FCI classification, Group 2, Section 2.2",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Classified within Molossoid mountain breeds.",
     },
+
+    origin: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-rafeiro-do-alentejo-standard",
+          role: "verified",
+          locator: "Origin: Portugal",
+        },
+        {
+          id: "portuguese-kennel-club-rafeiro-do-alentejo",
+          role: "verified",
+          locator: "História da raça",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Portugal is the verified country of origin, with roots closely tied to the Alentejo province.",
+    },
+
     "origin.country": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-rafeiro-do-alentejo-standard",
           role: "verified",
-          locator: "Origin",
+          locator: "Origin: Portugal",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Portugal is the verified country of origin.",
     },
+
     "origin.region": {
       reliability: "reliable_source",
       sources: [
@@ -415,10 +490,10 @@ export const rafeiro_do_alentejo: Breed = {
           locator: "Brief historical summary",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "The Alentejo region is established. Historical livestock movement is included as context rather than as a precise geographic boundary.",
+      verifiedOn: "2026-11-10",
+      note: "The Alentejo plains represent the established historical region of origin.",
     },
+
     overview: {
       reliability: "reliable_source",
       sources: [
@@ -432,11 +507,16 @@ export const rafeiro_do_alentejo: Breed = {
           role: "verified",
           locator: "Official breed profile",
         },
+        {
+          id: "american-kennel-club-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "About the Breed",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Descriptions are original summaries of the official standard and kennel-club profile.",
+      verifiedOn: "2026-11-10",
+      note: "Synthesizes official standard descriptions, regional pastoral history, and estate guardian utility.",
     },
+
     "physical.sizeCategory": {
       reliability: "estimate",
       sources: [
@@ -445,42 +525,75 @@ export const rafeiro_do_alentejo: Breed = {
           role: "cited",
           locator: "General appearance and height",
         },
+        {
+          id: "american-kennel-club-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "Breed dimensions",
+        },
       ],
       verifiedOn: null,
-      note:
-        "Giant is an editorial display category for a very large breed; it is not the FCI's official size category.",
+      note: "Giant represents an editorial categorization reflecting heavy skeletal mass and adult weight.",
     },
+
     "physical.height": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-rafeiro-do-alentejo-standard",
           role: "verified",
-          locator: "Height and weight",
+          locator: "Height at withers: Males: 66-74 cm, Females: 64-70 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Height is published in centimetres: males 66–74 cm, females 64–70 cm.",
     },
+
     "physical.weight": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-rafeiro-do-alentejo-standard",
           role: "verified",
-          locator: "Height and weight",
+          locator: "Weight: Males: 45-60 Kg, Females: 35-50 Kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "The FCI standard specifies adult weights of 45–60 kg for males and 35–50 kg for females. The Dog API reports a narrower female range of 40–50 kg.",
     },
+
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "No sufficiently reliable, breed-specific lifespan range was confirmed in the official standard or the national kennel-club profile used for this record.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-rafeiro-do-alentejo",
+          role: "verified",
+          locator: "Life Expectancy: 12-14 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span",
+        },
+        {
+          id: "petmd-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "average Rafeiro do Alentejo lifespan is 12–14 years",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Kennel club and veterinary profiles establish an expected lifespan of 12 to 14 years.",
     },
+
     "physical.coatType": {
       reliability: "official_standard",
       sources: [
@@ -490,9 +603,10 @@ export const rafeiro_do_alentejo: Breed = {
           locator: "Coat: hair",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Documented coat texture is short to medium, straight, thick, and dense.",
     },
+
     "physical.coatLength": {
       reliability: "official_standard",
       sources: [
@@ -502,9 +616,10 @@ export const rafeiro_do_alentejo: Breed = {
           locator: "Coat: hair",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Short to medium coat length, with medium length preferred.",
     },
+
     "physical.coatColors": {
       reliability: "official_standard",
       sources: [
@@ -514,10 +629,10 @@ export const rafeiro_do_alentejo: Breed = {
           locator: "Coat: colour",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Colour names and white-marking requirements follow the official breed standard.",
+      verifiedOn: "2026-11-10",
+      note: "Coat coloration and white markings follow the official standard specifications.",
     },
+
     "physical.sheddingLevel": {
       reliability: "estimate",
       sources: [
@@ -526,18 +641,29 @@ export const rafeiro_do_alentejo: Breed = {
           role: "cited",
           locator: "Coat: hair",
         },
+        {
+          id: "petmd-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "Caring for a Rafeiro do Alentejo - Grooming",
+        },
       ],
       verifiedOn: null,
-      note:
-        "Moderate is an editorial estimate based on coat type; a measured breed-specific shedding rate was not found.",
+      note: "Editorial rating reflecting dense double-coat shedding patterns.",
     },
+
     "physical.droolingLevel": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "petmd-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "Caring for a Rafeiro do Alentejo",
+        },
+      ],
       verifiedOn: null,
-      note:
-        "A reliable breed-specific drooling rating was not established.",
+      note: "Moderate rating reflects typical flews and facial conformation in large mastiff-type dogs.",
     },
+
     "physical.distinctiveFeatures": {
       reliability: "official_standard",
       sources: [
@@ -547,10 +673,11 @@ export const rafeiro_do_alentejo: Breed = {
           locator: "General appearance, head, eyes, ears, neck, body, tail, limbs, coat, and gait",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Key morphological characteristics verified against the official breed standard.",
     },
-    "temperament.traits": {
+
+    temperament: {
       reliability: "official_standard",
       sources: [
         {
@@ -563,11 +690,16 @@ export const rafeiro_do_alentejo: Breed = {
           role: "verified",
           locator: "Behaviour and character",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Traits describe the breed standard and traditional work; actual behaviour depends on breeding, upbringing, health, and experience.",
+      verifiedOn: "2026-11-10",
+      note: "Temperament reflects traditional independent flock and estate guardian heritage.",
     },
+
     "temperament.scores": {
       reliability: "estimate",
       sources: [
@@ -578,33 +710,31 @@ export const rafeiro_do_alentejo: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "Numeric trait scores are editorial estimates for comparative app display, not validated behavioural measurements. Scores without adequate support remain null.",
+      note: "Editorial scores for comparative application display; unsupported metrics are kept null.",
     },
+
     "temperament.scores.withChildren": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note:
-    "No sufficiently reliable evidence was established to assign a comparative score for compatibility with children.",
-},
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No reliable evidence supports a standardized numerical score for compatibility with children.",
+    },
 
-"temperament.scores.withDogs": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note:
-    "No sufficiently reliable evidence was established to assign a comparative score for compatibility with other dogs.",
-},
+    "temperament.scores.withDogs": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No verified empirical data exists to assign a dog-compatibility rating.",
+    },
 
-"temperament.scores.barking": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note:
-    "No reliable breed-specific barking score was established.",
-},
-    "care.exercise": {
+    "temperament.scores.barking": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No reliable breed-specific vocalization rating is established.",
+    },
+
+    care: {
       reliability: "general_guidance",
       sources: [
         {
@@ -612,18 +742,29 @@ export const rafeiro_do_alentejo: Breed = {
           role: "cited",
           locator: "General appearance and traditional guarding role",
         },
+        {
+          id: "petmd-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "Caring for a Rafeiro do Alentejo",
+        },
       ],
       verifiedOn: null,
-      note:
-        "Care recommendations are general welfare guidance tailored to the breed's size and traditional working role.",
+      note: "Care protocols reflect husbandry principles tailored to large livestock guardian canines.",
     },
+
     "care.exercise.minutesPerDay": {
-      reliability: "unavailable",
-      sources: [],
+      reliability: "estimate",
+      sources: [
+        {
+          id: "petmd-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "How much exercise does a Rafeiro do Alentejo need?",
+        },
+      ],
       verifiedOn: null,
-      note:
-        "No verified breed-specific daily exercise duration was established.",
+      note: "The 45–60 minute guideline represents a daily planning target rather than a rigid rule.",
     },
+
     "care.grooming": {
       reliability: "general_guidance",
       sources: [
@@ -632,11 +773,16 @@ export const rafeiro_do_alentejo: Breed = {
           role: "cited",
           locator: "Coat: hair",
         },
+        {
+          id: "petmd-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "Skin Care and Grooming",
+        },
       ],
       verifiedOn: null,
-      note:
-        "Grooming advice is practical guidance based on the documented coat rather than a formal breed-specific grooming schedule.",
+      note: "Grooming advice based on maintaining dense double-coat hygiene without stripping natural skin oils.",
     },
+
     "care.training": {
       reliability: "general_guidance",
       sources: [
@@ -645,11 +791,16 @@ export const rafeiro_do_alentejo: Breed = {
           role: "cited",
           locator: "Behaviour and temperament; guarding role",
         },
+        {
+          id: "petmd-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "Rafeiro do Alentejo Behavior and Training",
+        },
       ],
       verifiedOn: null,
-      note:
-        "Training and socialisation guidance is general welfare and safety advice for a powerful guardian dog.",
+      note: "Training advice emphasizes patient, reward-based methods and early social exposure for powerful guardians.",
     },
+
     "care.livingEnvironment": {
       reliability: "estimate",
       sources: [
@@ -658,99 +809,64 @@ export const rafeiro_do_alentejo: Breed = {
           role: "cited",
           locator: "General appearance, traditional use, and guarding temperament",
         },
+        {
+          id: "petmd-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "Caring for a Rafeiro do Alentejo",
+        },
       ],
       verifiedOn: null,
-      note:
-        "Housing recommendations are practical editorial guidance, not official rules about ownership.",
+      note: "Housing advice is editorial guidance emphasizing spacious rural grounds and secure containment.",
     },
+
     nutrition: {
       reliability: "general_guidance",
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional Assessment Guidelines",
+        },
+        {
+          id: "petmd-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "How To Feed a Rafeiro do Alentejo",
+        },
+      ],
+      verifiedOn: null,
+      note: "General canine nutritional framework emphasizing portion control and bloat mitigation.",
+    },
+
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "Nutrition guidance is general canine-care information and does not replace a veterinary feeding plan.",
+      note: "No single puppy, adult, and senior meal frequency was established.",
     },
-    "nutrition.feedingFrequency.puppy": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note:
-    "No verified breed-specific puppy feeding frequency was established. Follow the chosen complete diet's instructions and veterinary advice.",
-},
 
-"nutrition.feedingFrequency.adult": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note:
-    "No verified breed-specific adult feeding frequency was established. Feeding schedules should reflect the individual dog's diet, condition, and veterinary guidance.",
-},
-
-"nutrition.feedingFrequency.senior": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note:
-    "No verified breed-specific senior feeding frequency was established. Adjust feeding according to health, body condition, and veterinary advice.",
-},
     health: {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
+        {
+          id: "petmd-rafeiro-do-alentejo",
+          role: "verified",
+          locator: "Rafeiro do Alentejo Health Issues",
+        },
         {
           id: "fci-rafeiro-do-alentejo-standard",
           role: "cited",
           locator: "Breed size and general conformation",
         },
+        {
+          id: "american-kennel-club-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "Health considerations",
+        },
       ],
-      verifiedOn: null,
-      note:
-        "Preventive advice is general veterinary guidance. No disease is represented as prevalent in this breed without suitable supporting evidence.",
+      verifiedOn: "2026-11-10",
+      note: "Health information reflects recognized veterinary risks associated with giant, deep-chested pastoral dogs.",
     },
-    "health.overview": {
-  reliability: "general_guidance",
-  sources: [
-    {
-      id: "fci-rafeiro-do-alentejo-standard",
-      role: "cited",
-      locator: "Breed size and general conformation",
-    },
-  ],
-  verifiedOn: null,
-  note:
-    "The overview combines cautious general veterinary guidance with an explicit statement that breed-specific prevalence data was not established. It does not assert that any condition is common in this breed.",
-},
-    "health.commonConditions": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "No reliable breed-specific prevalence list of common conditions was confirmed; an empty list is used rather than inventing disease associations.",
-    },
-    "health.recommendedScreenings": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Screening suggestions are cautious veterinary guidance, not claims that a particular condition is proven to be common in this breed.",
-    },
-    "health.dentalCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General canine dental-care advice.",
-    },
-    "health.earCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General canine ear-care advice.",
-    },
-    "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [],
-      verifiedOn: null,
-      note: "General canine skin-care advice.",
-    },
+
     suitability: {
       reliability: "estimate",
       sources: [
@@ -759,18 +875,23 @@ export const rafeiro_do_alentejo: Breed = {
           role: "cited",
           locator: "General appearance, temperament, and traditional guarding role",
         },
+        {
+          id: "portuguese-kennel-club-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "Behaviour and character",
+        },
       ],
       verifiedOn: null,
-      note:
-        "Suitability flags are editorial recommendations based on size and guarding behaviour. They are not definitive restrictions on who can own an individual dog.",
+      note: "Suitability flags represent practical editorial guidance for prospective owners.",
     },
+
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No sufficiently specific source was used to assign a blanket compatibility rating for households with children.",
+      note: "No authoritative source establishes a universal compatibility rating for households with children.",
     },
+
     funFacts: {
       reliability: "official_standard",
       sources: [
@@ -779,10 +900,16 @@ export const rafeiro_do_alentejo: Breed = {
           role: "verified",
           locator: "Brief historical summary, utilization, gait, and classification",
         },
+        {
+          id: "portuguese-kennel-club-rafeiro-do-alentejo",
+          role: "verified",
+          locator: "História da raça",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Summarizes authentic pastoral history, transhumance heritage, and gait characteristics.",
     },
+
     faq: {
       reliability: "reliable_source",
       sources: [
@@ -796,12 +923,16 @@ export const rafeiro_do_alentejo: Breed = {
           role: "cited",
           locator: "Official breed profile",
         },
+        {
+          id: "petmd-rafeiro-do-alentejo",
+          role: "cited",
+          locator: "Rafeiro do Alentejo FAQs",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "FAQ answers are original summaries of the referenced facts and general care recommendations.",
+      verifiedOn: "2026-11-10",
+      note: "FAQ responses synthesize standard metrics, exercise advice, and veterinary wellness considerations.",
     },
   },
 
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-10",
 };

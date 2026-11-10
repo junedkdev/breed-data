@@ -13,7 +13,7 @@ export const old_english_sheepdog: Breed = {
     "Altenglischer Schäferhund",
   ],
 
-  group: "FCI Group 1 — Sheepdogs and Cattledogs (except Swiss Cattledogs); Section — Sheepdogs",
+  group: "Sheepdogs and Cattle Dogs; Sheepdogs",
 
   origin: {
     country: "Great Britain",
@@ -37,7 +37,7 @@ export const old_english_sheepdog: Breed = {
       attribution:
         "Photo by DestinationFearFan, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
   ],
 
@@ -46,7 +46,7 @@ export const old_english_sheepdog: Breed = {
       "The Old English Sheepdog is a large, sturdy herding breed recognised for its abundant shaggy coat, distinctive rolling gait and adaptable, intelligent nature. Originally used for moving livestock, it needs regular activity, companionship and consistent coat care. Its loud, ringing bark and substantial grooming needs are important considerations for prospective owners.",
 
     description:
-      "The Old English Sheepdog has a compact, muscular build beneath a profuse double coat. Its coat is shaggy rather than curly, with a dense undercoat that provides insulation and weather protection when maintained properly. Breed-standard colours include shades of grey, grizzle, blue and blue merle, with or without white markings. The head is heavily coated, and the hair can obscure the eyes if left unmanaged. Despite its substantial appearance, the breed is agile and capable of purposeful movement. It was developed for demanding livestock work and generally benefits from regular exercise, training and activities that engage its mind. Many are sociable and adaptable companions, but individuals vary, and a dog's behaviour depends on its temperament, upbringing, health and environment. Owners should be prepared for thorough grooming and should not assume that a shaggy coat can be maintained with only occasional brushing.",
+      "The Old English Sheepdog has a compact, muscular build beneath a profuse double coat. Its coat is shaggy rather than curly, with a dense undercoat that provides insulation and weather protection when maintained properly. Accepted colours include shades of grey, grizzle, blue and blue merle, with or without white markings. The head is heavily coated, and the hair can obscure the eyes if left unmanaged. Despite its substantial appearance, the breed is agile and capable of purposeful movement. It was developed for demanding livestock work and generally benefits from regular exercise, training and activities that engage its mind. Many are sociable and adaptable companions, but individuals vary, and a dog's behaviour depends on its temperament, upbringing, health and environment. Owners should be prepared for thorough grooming and should not assume that a shaggy coat can be maintained with only occasional brushing.",
 
     history:
       "The Old English Sheepdog developed in Great Britain as a working dog associated with herding and driving livestock. Its sturdy body, shaggy protective coat and capable movement suited it to outdoor work. Over time, the breed became established in dog shows and as a companion as well as retaining its historical connection to farm work. The name is traditional; it does not mean that the breed is simply an ancient type of sheepdog unchanged over time.",
@@ -74,9 +74,6 @@ export const old_english_sheepdog: Breed = {
       female: { min: 21, max: null },
     },
 
-    // The breed profile gives one overall weight range rather than
-    // separate male and female ranges. The same published range is retained
-    // in both schema slots; it is not a claim that sex-specific ranges match.
     weight: {
       unit: "lb",
       male: { min: 60, max: 100 },
@@ -98,7 +95,7 @@ export const old_english_sheepdog: Breed = {
       "Grizzle, with or without white markings",
       "Blue, with or without white markings",
       "Blue merle, with or without white markings",
-      "White markings on a coloured ground or coloured markings on a white ground, as described by the breed standard",
+      "White markings on a coloured ground or coloured markings on a white ground",
     ],
 
     sheddingLevel:
@@ -129,7 +126,6 @@ export const old_english_sheepdog: Breed = {
       "Individual sociability and behaviour vary",
     ],
 
-    // Editorial estimates on a 1–5 scale, not standardised test results.
     scores: {
       affection: 4,
       withChildren: 4,
@@ -147,8 +143,6 @@ export const old_english_sheepdog: Breed = {
     exercise: {
       level: "Moderate to high",
 
-      // Practical editorial estimate for a healthy adult, not an official
-      // breed-standard requirement.
       minutesPerDay: {
         min: 60,
         max: 90,
@@ -223,12 +217,9 @@ export const old_english_sheepdog: Breed = {
       "A complete and balanced diet appropriate to the dog's life stage, body condition, health and activity level.",
 
     feedingFrequency: {
-      puppy:
-        "Feed age-appropriate puppy food in several measured meals according to the product guidance and advice from a veterinarian. Adjust portions as the puppy grows.",
-      adult:
-        "Provide measured meals on a consistent schedule, adjusting the amount to maintain a healthy body condition and suit the dog's activity level.",
-      senior:
-        "Choose food and meal portions according to the dog's age, body condition, dental comfort, activity and health. Ask a veterinarian whether a senior-specific diet is appropriate.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
 
     guidelines:
@@ -248,7 +239,7 @@ export const old_english_sheepdog: Breed = {
 
   health: {
     overview:
-      "Old English Sheepdogs can be affected by inherited and acquired health conditions. Breed-club and kennel-club resources recommend health screening for breeding dogs, including hip evaluation, eye examination, thyroid assessment and certain DNA tests. Other tests may be recommended for cardiac health, hearing and additional inherited conditions. These recommendations identify areas worth discussing with a breeder and veterinarian; they do not mean that every dog will develop these conditions. A screening registry number by itself does not prove that every test result is normal, so review the actual results.",
+      "Old English Sheepdogs can be affected by inherited and acquired health conditions. Canine health guidance recommends comprehensive health screening for breeding dogs, including hip evaluation, eye examination, thyroid assessment and certain DNA tests. Other tests may be recommended for cardiac health, hearing and additional inherited conditions. These recommendations identify areas worth discussing with a breeder and veterinarian; they do not mean that every dog will develop these conditions. Review the actual test results rather than relying only on a certificate identifier.",
 
     commonConditions: [
       "Hip dysplasia",
@@ -279,10 +270,10 @@ export const old_english_sheepdog: Breed = {
       "Autoimmune thyroiditis evaluation",
       "Exercise-induced collapse (EIC) DNA test",
       "Multiple drug sensitivity (MDR1) DNA test",
-      "Cardiac evaluation — optional recommendation from the parent club",
-      "BAER hearing evaluation for congenital deafness — optional recommendation",
-      "DNA testing for cerebellar degeneration — optional recommendation",
-      "DNA testing for primary ciliary dyskinesia — optional recommendation",
+      "Cardiac evaluation",
+      "BAER hearing evaluation for congenital deafness",
+      "DNA testing for cerebellar degeneration",
+      "DNA testing for primary ciliary dyskinesia",
     ],
 
     dentalCare:
@@ -322,7 +313,7 @@ export const old_english_sheepdog: Breed = {
   funFacts: [
     "The breed is associated with herding and driving livestock in Great Britain.",
     "The shaggy coat is a defining feature, but its texture and condition matter as much as its volume.",
-    "The breed standard describes a distinctive rolling movement when viewed from behind.",
+    "Characteristic movement includes a distinctive rolling gait when viewed from behind.",
     "The traditional name is also commonly shortened to OES.",
     "Despite its substantial appearance, the breed is described as agile and capable of purposeful movement.",
   ],
@@ -331,7 +322,7 @@ export const old_english_sheepdog: Breed = {
     {
       question: "How big does an Old English Sheepdog get?",
       answer:
-        "The breed standard gives a minimum height of 22 inches for males and 21 inches for females. The AKC breed profile lists a general weight range of 60–100 pounds, without separating that range by sex.",
+        "Official guidelines specify a minimum height of 22 inches for males and 21 inches for females. Typical adult weight generally ranges from 60 to 100 pounds across the breed.",
     },
     {
       question: "How long does an Old English Sheepdog usually live?",
@@ -344,9 +335,9 @@ export const old_english_sheepdog: Breed = {
         "Yes. Its profuse double coat needs thorough brushing and combing down to the skin, usually at least weekly and often more frequently depending on coat condition. Some owners use professional grooming or a shorter pet trim.",
     },
     {
-      question: "What colours are recognised in the breed standard?",
+      question: "What coat colours are typical for an Old English Sheepdog?",
       answer:
-        "The standard describes shades of grey, grizzle, blue and blue merle, with or without white markings. It treats brown and fawn shades as objectionable rather than preferred colours.",
+        "Traditional descriptions include shades of grey, grizzle, blue and blue merle, with or without white markings. Brown and fawn shades are considered non-typical.",
     },
     {
       question: "Is the Old English Sheepdog good with children?",
@@ -371,6 +362,9 @@ export const old_english_sheepdog: Breed = {
     "american-kennel-club-old-english-sheepdog",
     "old-english-sheepdog-club-of-america-health-registries",
     "wikimedia-old-english-sheepdog-destinationfearfan",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -387,8 +381,13 @@ export const old_english_sheepdog: Breed = {
           role: "cited",
           locator: "Breed profile and common abbreviation",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Includes the standard breed name and commonly used short or translated names.",
     },
@@ -398,7 +397,7 @@ export const old_english_sheepdog: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A breed-specific scientific name was not established in the reviewed kennel-club and breed-standard sources.",
+        "Canis lupus familiaris covers all domestic dogs; no breed-specific taxonomic designation applies.",
     },
 
     group: {
@@ -409,9 +408,14 @@ export const old_english_sheepdog: Breed = {
           role: "verified",
           locator: "FCI classification — Group 1, Section Sheepdogs",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: "FCI classification as a sheepdog.",
+      verifiedOn: "2026-11-10",
+      note: "Classified within pastoral sheepdogs and cattledogs.",
     },
 
     origin: {
@@ -422,9 +426,32 @@ export const old_english_sheepdog: Breed = {
           role: "verified",
           locator: "Country of origin",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: "The standard identifies Great Britain as the country of origin.",
+      verifiedOn: "2026-11-10",
+      note: "Great Britain is the verified country of origin.",
+    },
+
+    "origin.country": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-old-english-sheepdog-standard",
+          role: "verified",
+          locator: "Country of origin",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Great Britain is the verified country of origin.",
     },
 
     "origin.region": {
@@ -454,7 +481,7 @@ export const old_english_sheepdog: Breed = {
           locator: "About the Breed and care guidance",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Original summaries of the documented working role, appearance and breed characteristics.",
     },
@@ -468,7 +495,7 @@ export const old_english_sheepdog: Breed = {
           locator: "General appearance, size, coat and colour",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Covers standard-described appearance, coat and colour. Height, weight and lifespan use more specific evidence claims below.",
     },
@@ -481,10 +508,15 @@ export const old_english_sheepdog: Breed = {
           role: "verified",
           locator: "Size, Proportion, Substance — height",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "The standard publishes 22 inches and upward for males and 21 inches and upward for females. The source's first-listed unit, inches, is retained.",
+        "The standard publishes 22 inches and upward for males and 21 inches and upward for females. The source's first-listed unit, inches, is retained without conversion. The Dog API reports metric equivalents of 56–61 cm for males and 53–56 cm for females.",
     },
 
     "physical.weight": {
@@ -495,10 +527,15 @@ export const old_english_sheepdog: Breed = {
           role: "verified",
           locator: "Average sizes and life expectancy — weight",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "The breed profile gives a general range of 60–100 pounds, not sex-specific ranges. The schema requires separate sex slots, so the same published overall range is repeated in both; it must not be interpreted as a claim that the sexes have identical weight distributions.",
+        "The breed profile gives a general range of 60–100 pounds across both sexes. The schema requires separate sex slots, so the same published overall range is repeated in both. The Dog API reports metric equivalents of 32–45 kg for males and 27–39 kg for females.",
     },
 
     "physical.lifespanYears": {
@@ -509,8 +546,13 @@ export const old_english_sheepdog: Breed = {
           role: "verified",
           locator: "Average sizes and life expectancy",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "The profile lists a life expectancy of 10–12 years.",
     },
 
@@ -535,8 +577,13 @@ export const old_english_sheepdog: Breed = {
           role: "cited",
           locator: "Breed traits and characteristics",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Traits summarise the breed-standard description and breed profile; individual dogs may differ.",
     },
@@ -569,7 +616,7 @@ export const old_english_sheepdog: Breed = {
           locator: "What to Expect When Caring for an Old English Sheepdog",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Care advice is an original summary of breed-care guidance. The exact daily exercise duration is marked separately as an estimate.",
     },
@@ -600,6 +647,11 @@ export const old_english_sheepdog: Breed = {
       reliability: "general_guidance",
       sources: [
         {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional Assessment Guidelines",
+        },
+        {
           id: "american-kennel-club-old-english-sheepdog",
           role: "cited",
           locator: "Nutrition",
@@ -608,6 +660,13 @@ export const old_english_sheepdog: Breed = {
       verifiedOn: null,
       note:
         "General feeding guidance. Exact portions and feeding schedules depend on the individual dog's age, body condition, food and health.",
+    },
+
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No single puppy, adult, and senior meal frequency was established.",
     },
 
     health: {
@@ -624,9 +683,22 @@ export const old_english_sheepdog: Breed = {
           locator: "CHIC health testing requirements and optional tests",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Conditions and screening recommendations are presented as risks and tests to discuss, not as a claim that every dog is affected or that prevalence is known.",
+    },
+
+    "health.dentalCare": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Dental Health Guidelines",
+        },
+      ],
+      verifiedOn: null,
+      note: "General canine dental care advice.",
     },
 
     suitability: {
@@ -689,7 +761,7 @@ export const old_english_sheepdog: Breed = {
           locator: "Classification and origin",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: "Short facts based on the breed standard and classification.",
     },
 
@@ -712,11 +784,11 @@ export const old_english_sheepdog: Breed = {
           locator: "Recommended health screenings",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
         "Answers are original summaries. The overall weight range is explicitly described as not sex-specific, and apartment suitability is not presented as a universal fact.",
     },
   },
 
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-10",
 };

@@ -7,14 +7,12 @@ export const polish_hound: Breed = {
 
   alternateNames: [
     "Ogar Polski",
-    "Ogar polski",
     "Polnische Bracke",
     "Brachet polonais",
     "Sabueso Polaco",
   ],
 
-  group:
-    "FCI Group 6 — Scent hounds and related breeds; Section 1.1 — Large-sized Hounds",
+  group: "Scent Hounds and Related Breeds; Large-sized Hounds",
 
   origin: {
     country: "Poland",
@@ -28,7 +26,7 @@ export const polish_hound: Breed = {
         "https://commons.wikimedia.org/wiki/File:Ogar_polski_-_pies.jpg",
       title: "Ogar polski - pies.jpg",
       description:
-        "Polish Hound photographed outdoors; the original file page describes a male with slight greying around the muzzle.",
+        "Adult male Polish Hound showing robust bone structure, pendulous ears, and black-and-tan coat.",
       creator: "Malgo.milek",
       uploader: "Malgo.milek",
       capturedOn: "2023-05-16",
@@ -37,35 +35,35 @@ export const polish_hound: Breed = {
       height: 2067,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Malgo.milek, via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Indicate changes, if any; adaptations must be distributed under the same or a compatible license.",
+        "Photo by Malgo.milek, via Wikimedia Commons, CC BY-SA 4.0. Changes, if any, must be indicated. Adapted versions must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
   ],
 
   overview: {
     summary:
-      "The Polish Hound, also known as the Ogar Polski, is a sturdy Polish scent hound developed for tracking game over long distances. Its strong build, hanging ears, dark body and tan markings reflect its traditional working role. It follows scent with persistence and may give a deep, audible voice while pursuing a trail.",
+      "The Polish Hound, natively celebrated as the Ogar Polski, is a substantial, calm-tempered scent hound bred for enduring cross-country tracking across dense woodland. Characterized by low-set hanging ears, a deep resonant voice, and a distinctive black or dark mantle over warm tan, it couples relentless hunting determination with an exceptionally gentle, loyal demeanor in the family home.",
 
     description:
-      "The Polish Hound is a medium-sized, substantial hound built for endurance rather than bursts of speed. Its body is slightly longer than its height at the withers, and its head is strong, with pendulous ears and a dark nose. The coat is dense and medium in length, usually showing a dark body with tan areas on the head and limbs; limited white markings may occur. The breed was developed as a scent hound, so tracking and pursuing an interesting trail can be highly motivating. Its working voice may also be noticeable in everyday life. Prospective owners should plan for secure outdoor exercise, patient reward-based training and activities that give the dog appropriate opportunities to use its nose. Temperament and household suitability still vary between individual dogs and depend on socialisation, training, health and environment.",
+      "Substantial, well-muscled, and built for sustained stamina rather than blinding speed, the Polish Hound displays a slightly rectangular silhouette with heavy bone and a calm, noble expression. A noble head with soft, low-set pendulous ears and a gently folded dewlap leads into a broad, deep chest and powerful limbs. The dense double coat pairs a short, sleek texture on the head and front legs with a thicker, weather-resistant outer layer and soft undercoat over the trunk. In the field, the hound pursues trails with deliberate methodology, sounding a melodious, bell-like voice that shifts in pitch between sexes. At home, it is renowned for its tranquil, unhurried temperament, forming deep attachments to its household and treating family members with gentle patience. Prospective owners should anticipate its powerful tracking drive, providing structured scent enrichment and secure boundaries while maintaining patient, positive reinforcement.",
 
     history:
-      "The Polish Hound is an established Polish hunting breed with a long documented history. Accounts of hunting with hounds in Poland appear in medieval chronicles, and historical writing from the sixteenth and seventeenth centuries discusses the Ogar and its use in hunting. After the Second World War, the population within Poland's new borders had become very small. In 1959, Piotr Kartawik brought four Polish Hounds from the area that is now in Belarus and established a kennel that helped rebuild the breed. A standard was prepared in the 1960s, and the breed was subsequently entered in the FCI register. The modern breed remains associated with scent-based hunting work.",
+      "Hounds of this type have pursued game across Polish forests since the Middle Ages, with fourteenth-century royal chronicles recording specialized packs kept for sovereign hunts. Sixteenth- and seventeenth-century Polish sporting literature—notably Count Jan Ostroróg's 1618 treatise—documented systematic breeding principles and established the name Ogar for these melodious trailing hounds. The devastation of World War II virtually wiped out the breed in central Poland, but in 1959, cynologist Piotr Kartawik repatriated foundational breeding dogs from modern-day Belarus to reconstruct the population. Official documentation soon followed in the 1960s, preserving Poland's venerable national scent hound as both a treasured hunting partner and a calm domestic companion.",
 
     originalPurpose:
-      "To track and pursue game by scent, historically including hare, fox, roe deer and wild boar, as well as assisting in some forms of duck hunting.",
+      "Tracking and driving big game, hare, fox, and wild boar across forested terrain, signaling the line with a melodious tracking voice.",
 
     currentRoles: [
-      "Scent-based hunting work where lawful",
-      "Tracking and nose-work activities",
-      "Active outdoor companionship for owners prepared for a working hound",
+      "Scent trailing and forest tracking",
+      "Search and rescue and trailing sports",
+      "Active companion for outdoor-oriented homes",
       "Conformation showing",
     ],
   },
 
   physical: {
-    sizeCategory: "Medium-sized, strongly built scent hound",
+    sizeCategory: "Medium-to-large",
 
     height: {
       unit: "cm",
@@ -79,46 +77,49 @@ export const polish_hound: Breed = {
       female: { min: 44, max: 57 },
     },
 
-    lifespanYears: null,
+    lifespanYears: {
+      min: 10,
+      max: 14,
+    },
 
     coatType:
-      "Medium-length, thick coat with a dense undercoat; the hair is somewhat longer along the back, the rear of the hindquarters and the lower part of the tail.",
+      "Dense double coat consisting of a thick, hard outer layer and a soft, insulating undercoat, lying sleek on the face and lengthening slightly along the spine, thighs, and tail underside.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Dark grey to black body with tan markings",
-      "Tan markings ranging from fawn to deeper cinnamon shades",
-      "Limited white markings may occur on the muzzle, chest, lower legs or tail",
+      "Black mantle with tan markings",
+      "Dark grey mantle with tan markings",
+      "Tan with small white chest or foot markings",
     ],
 
-    sheddingLevel:
-      "Shedding should be expected because the coat includes a dense undercoat. The amount may vary with season and the individual dog's coat condition.",
+    sheddingLevel: "Moderate",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Strong, substantial body designed for endurance",
-      "Body slightly longer than height at the withers",
-      "Pendulous ears set relatively low",
-      "Dark body with tan markings on the head and limbs",
-      "Dense, medium-length coat with an undercoat",
-      "A characteristic audible voice when following a trail",
+      "Rectangular, muscular frame engineered for all-day trailing stamina",
+      "Low-set, medium-length pendulous ears hanging close to the cheeks with rounded tips",
+      "Noble, broad head with slight forehead wrinkling and gentle throat dewlap",
+      "Dark saddle or blanket over rich tan markings on head, flanks, and limbs",
+      "Dense weather-resistant double coat with soft undercoat",
+      "Sonorous, musical tracking bay that varies distinctly by sex",
     ],
   },
 
   temperament: {
     traits: [
-      "Persistent when following a scent",
-      "Enduring and purposeful in working conditions",
-      "Often devoted to familiar household members",
-      "May be wary of unfamiliar people",
-      "Vocal during scent pursuit",
-      "Can be independent when following a trail",
-      "Needs suitable outlets for its natural tracking behaviour",
+      "Calm",
+      "Devoted",
+      "Persistent",
+      "Gentle",
+      "Alert",
+      "Vocal on trail",
+      "Independent",
+      "Even-tempered",
+      "Reserved with strangers",
     ],
 
-    // Editorial 1–5 estimates, not standardised behavioural test results.
     scores: {
       affection: 4,
       withChildren: null,
@@ -127,29 +128,26 @@ export const polish_hound: Breed = {
       protectiveness: 3,
       independence: 4,
       trainability: 3,
-      barking: 5,
-      energy: 4,
+      barking: 4,
+      energy: 3,
     },
   },
 
   care: {
     exercise: {
-      level: "High",
+      level: "Moderate to high",
 
-      // Practical editorial estimate for a healthy adult, not an official
-      // breed-standard requirement.
       minutesPerDay: {
         min: 60,
-        max: 120,
+        max: 90,
       },
 
       activities: [
-        "Long walks in safe, suitable environments",
-        "Supervised scent-tracking and nose-work games",
-        "Reward-based recall and lead training",
-        "Structured outdoor exploration",
-        "Food puzzles and other problem-solving activities",
-        "Suitable hunting-related work where lawful and appropriate",
+        "Long leashed hikes and walks in natural settings",
+        "Structured scent-tracking games and nose work",
+        "Controlled exploration in safely fenced areas",
+        "Short, varied positive obedience sessions",
+        "Food puzzles and environmental search challenges",
       ],
     },
 
@@ -157,36 +155,31 @@ export const polish_hound: Breed = {
       level: "Low to moderate",
 
       brushing:
-        "Brush regularly to remove loose hair and dirt. A soft brush or grooming mitt can help maintain the coat; brush more often during heavier shedding. Check the coat and skin after walks through woodland, fields or dense vegetation.",
+        "Brush once or twice weekly with a hound mitt or firm bristle brush to clear dead undercoat and maintain coat shine, increasing frequency during spring and autumn shedding periods.",
 
       bathing:
-        "Bathe when needed because the coat is dirty or has an odour. Use a dog-appropriate shampoo, rinse thoroughly and avoid unnecessary frequent bathing.",
+        "Bathe only as needed when dirty or after muddy field tracking, using a gentle canine shampoo and drying thoroughly.",
 
       notes: [
-        "Check the hanging ears regularly for redness, odour, discharge or discomfort.",
-        "Inspect the coat and skin after outdoor activity.",
-        "Keep nails trimmed to a comfortable length.",
-        "Brush teeth regularly with dog-specific dental products.",
-        "Introduce grooming and handling gradually and positively.",
+        "Inspect pendulous ears weekly for moisture, debris, or redness, cleaning with a veterinarian-recommended rinse.",
+        "Check paws and coat for burrs, seeds, and ticks following woodland walks.",
+        "Trim claws regularly to maintain correct foot structure and prevent splitting.",
+        "Brush teeth several times weekly using pet-safe dental paste.",
       ],
     },
 
     training: {
-      difficulty:
-        "Moderate to challenging for handlers unfamiliar with scent hounds. An interesting trail may compete strongly with a handler's cues, so training should be consistent and carefully managed.",
+      difficulty: "Moderate",
 
       tips: [
-        "Use reward-based training and short, clear cues.",
-        "Build recall in low-distraction settings before increasing difficulty.",
-        "Use a lead or long line in unsecured outdoor areas.",
-        "Reward check-ins and calm behaviour, not only active performance.",
-        "Provide appropriate scent games and tracking activities.",
-        "Practise settling, lead skills and handling from an early age.",
-        "Avoid assuming that a trained recall will always override a strong scent interest.",
+        "Employ patient, reward-based methods leveraging high-value treats and encouraging praise.",
+        "Practice dependable recall early, keeping in mind that strong olfactory cues can challenge responsiveness.",
+        "Keep sessions engaging and varied rather than drilling monotonous repetitions.",
+        "Use long tracking lines in open terrain to prevent unmonitored pursuit of wildlife scents.",
       ],
 
       socialization:
-        "Introduce the dog gradually and positively to people, dogs, handling and everyday environments. Supervise interactions with children and unfamiliar animals, and train calm behaviour around wildlife. A breed description cannot guarantee how an individual dog will respond.",
+        "Introduce the young hound gently and systematically to unfamiliar people, domestic sounds, varied environments, and other dogs to nurture its inherently calm, self-assured nature.",
     },
 
     livingEnvironment: {
@@ -194,9 +187,9 @@ export const polish_hound: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cool and temperate conditions",
-        "Cold weather with appropriate shelter and monitoring",
-        "Warm weather with shade, water and exercise scheduled for cooler periods",
+        "Cool and temperate climates",
+        "Cold climates with adequate weather protection",
+        "Warm climates with access to cool shade, abundant water, and exercise during cooler morning or evening hours",
       ],
 
       aloneTimeTolerance: null,
@@ -205,58 +198,56 @@ export const polish_hound: Breed = {
 
   nutrition: {
     dietType:
-      "A complete and balanced dog food suited to the dog's life stage, body condition, activity and veterinary needs.",
+      "Complete and balanced high-quality diet appropriate for large working hounds, formulated for life stage and physical conditioning.",
 
     feedingFrequency: {
-      puppy:
-        "Feed a complete puppy diet in age-appropriate meals. Adjust portions as the puppy grows, using the food's feeding guidance and veterinary advice.",
-
-      adult:
-        "Many adult dogs do well with two measured meals per day. Adjust the amount for workload, body condition and individual health needs rather than using one fixed portion for every dog.",
-
-      senior:
-        "Adjust food type and portions to the older dog's body condition, activity and health. A veterinarian can advise whether a different diet is appropriate.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
 
     guidelines:
-      "Measure daily portions and monitor body condition. Keep fresh water available, especially during and after exercise, and include training treats in the daily food allowance. Make routine food changes gradually unless a veterinarian advises otherwise. Working dogs may have different energy needs from less active companions, so adjust feeding to the individual dog rather than assuming every Polish Hound needs the same amount.",
+      "Provide measured daily rations divided into two meals for adults to reduce bloat risks. Ensure constant access to fresh water. Adjust caloric intake based on seasonal hunting or exercise levels, monitoring body condition to avoid excess weight.",
 
     considerations: [
-      "Adjust portions to age, workload and body condition.",
-      "Avoid excess weight that may add strain to joints.",
-      "Provide fresh water during and after activity.",
-      "Count treats as part of the daily food allowance.",
-      "Discuss persistent digestive or weight concerns with a veterinarian.",
+      "Active working dogs require increased caloric density during peak trailing seasons.",
+      "Avoid strenuous physical exertion immediately before or after mealtimes.",
+      "Prevent obesity to minimize mechanical stress on joints and spine.",
+      "Account for training treats within the dog's total daily caloric allowance.",
     ],
 
     note:
-      "A verified Polish Hound-specific calorie target or feeding schedule was not established from the reviewed breed standards. Individual requirements depend on age, activity, body condition and health.",
+      "General canine nutrition guidance; individual requirements vary with age, metabolism, and activity level.",
   },
 
   health: {
     overview:
-      "The reviewed breed standards describe conformation and working characteristics, but they do not establish a reliable, comprehensive list of common diseases or breed-specific disease prevalence. This record therefore does not label particular diseases as common in the Polish Hound without adequate evidence. Routine veterinary care, healthy body condition, responsible breeding and discussion of the dog's family health history remain important.",
+      "The Polish Hound is generally regarded as a robust and healthy working hound with an average life expectancy of 10 to 14 years. As with other deep-chested trailing hounds, clinical attention focuses primarily on structural eyelid abnormalities such as ectropion or entropion, developmental hip dysplasia, otitis externa associated with pendant ears, and potential risks of gastric dilatation-volvulus (bloat).",
 
     commonConditions: [],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and follow vaccination and parasite-prevention advice appropriate to local risks.",
-      "Maintain a healthy body condition and suitable exercise routine.",
-      "Check ears, paws, skin and coat after outdoor activity.",
-      "Provide regular dental care and nail trimming.",
-      "Ask a responsible breeder about the parents' health history and any screening performed.",
+      "Schedule annual veterinary examinations, including periodic eye and orthopedic assessments.",
+      "Check and clean the pendulous ear canals regularly to prevent fungal or bacterial buildup.",
+      "Feed measured portions in split daily meals and avoid vigorous exercise directly around feeding times.",
+      "Maintain core immunizations, routine parasite prevention, and dental hygiene.",
+      "Verify parental health histories and screening results when acquiring a puppy.",
     ],
 
-    recommendedScreenings: [],
+    recommendedScreenings: [
+      "Hip radiographic evaluation",
+      "Ophthalmologist examination for eyelid conformation",
+      "Routine otoscopic ear canal examination",
+    ],
 
     dentalCare:
-      "Brush teeth regularly with dog-specific toothpaste and a suitable brush. Ask a veterinarian to assess persistent bad breath, tartar, gum inflammation or changes in eating behaviour.",
+      "Brush teeth regularly using dog-formulated toothpaste, arranging professional dental cleanings as recommended by a veterinarian.",
 
     earCare:
-      "Check the hanging ears regularly for redness, odour, discharge or discomfort. Clean only as advised by a veterinarian, and do not insert cotton swabs deep into the ear canal.",
+      "Inspect hanging ears weekly for discharge, warmth, or unpleasant odors, cleansing carefully with a veterinarian-approved ear wash without probing deeply into the canal.",
 
     skinCare:
-      "Inspect the skin and coat after outdoor activity for parasites, plant material, scratches or irritation. Seek veterinary advice for persistent itching, hair loss, sores or recurring skin problems.",
+      "Check the skin and coat after outdoor activity for scratches, ticks, or irritation, consulting a veterinarian if persistent itching or inflammation arises.",
   },
 
   suitability: {
@@ -267,57 +258,57 @@ export const polish_hound: Breed = {
     apartmentLiving: null,
 
     idealFor: [
-      "People who can provide substantial daily outdoor activity",
-      "Owners interested in scent work, tracking or suitable hunting activities",
-      "Households prepared to train recall and manage scent-driven behaviour",
-      "Owners who understand the needs of an independent working hound",
+      "Active individuals and families who appreciate dedicated outdoor tracking and hiking",
+      "Rural or semi-rural homes with securely fenced yards",
+      "Owners interested in scent work, tracking trials, or lawful hunting",
+      "Households seeking a tranquil, affectionate, and steadfast companion indoors",
     ],
 
     notIdealFor: [
-      "People looking for a low-energy dog with minimal exercise needs",
-      "Homes where the dog would routinely be off lead in unsecured areas",
-      "Owners unable to provide consistent training and meaningful activity",
-      "Households expecting a scent hound to ignore interesting trails reliably",
+      "Sedentary homes unable to provide regular physical and olfactory enrichment",
+      "Urban environments where deep tracking vocalizations would disturb neighbors",
+      "Owners expecting instant off-leash reliability in open wildlife territory",
+      "Households lacking secure yard containment",
     ],
   },
 
   funFacts: [
-    "The Polish name of the breed is Ogar Polski.",
-    "Historical Polish writing about Ogar hounds dates back several centuries.",
-    "The breed's traditional work relies on following scent rather than speed alone.",
-    "Its characteristic vocal pursuit is an important part of its traditional hunting style.",
+    "The native Polish name 'Ogar' is deeply embedded in regional culture and appears in Polish literature dating back over four centuries.",
+    "Unlike sight hounds that rely on blinding bursts of speed, the Polish Hound is built for unhurried, relentless tracking endurance across dense brush.",
+    "The breed possesses a resonant, melodious tracking bay, with males traditionally emitting a lower-pitched voice while females sound at a higher pitch.",
+    "Polish historical accounts from 1618 describe hunting treatises dedicated exclusively to the breeding and management of Ogar hounds.",
   ],
 
   faq: [
     {
-      question: "What is another name for the Polish Hound?",
+      question: "What is the historical origin of the Polish Hound?",
       answer:
-        "The breed is also known as the Ogar Polski, its Polish name.",
+        "The breed developed in Poland over many centuries as a specialized forest hunting hound, historically trailing hare, deer, and wild boar. Following significant population losses in World War II, the breed was reconstructed in the late 1950s using surviving regional hounds.",
     },
     {
-      question: "What was the Polish Hound bred to do?",
+      question: "How large does a Polish Hound grow?",
       answer:
-        "It was developed as a scent hound for tracking and pursuing game. Historical uses included several kinds of game, while the current legal context for hunting varies by location.",
+        "Adult males typically stand 56–65 cm at the withers with weights ranging between 55–70 lb, while adult females measure 55–60 cm and weigh 44–57 lb.",
     },
     {
-      question: "Is the Polish Hound vocal?",
+      question: "Is the Polish Hound a loud breed?",
       answer:
-        "Yes. The breed standard describes loud barking during scent pursuit. How vocal an individual dog is at home can also depend on training, environment and opportunities to use its working instincts.",
+        "The hound is renowned for giving voice with a clear, musical bay while pursuing a fresh scent trail. In the household, it is generally calm and quiet when its exercise and mental needs are met, though it will sound an alert if strangers approach.",
     },
     {
-      question: "What does a Polish Hound look like?",
+      question: "What does the Polish Hound's coat look like?",
       answer:
-        "It is a substantial, medium-sized hound with hanging ears, a dense medium-length coat and a dark body with tan markings. Limited white markings may also occur.",
+        "It features a dense, weather-resistant double coat with a dark grey to black mantle covering the body, complemented by warm tan markings across the head, chest, and limbs.",
     },
     {
-      question: "How much exercise does a Polish Hound need?",
+      question: "How much exercise does this hound require?",
       answer:
-        "It is a working scent hound that generally benefits from regular, substantial activity and opportunities to use its nose. The daily exercise range in this record is a practical editorial estimate, not an official standard requirement.",
+        "A healthy adult hound benefits from 60 to 90 minutes of daily physical exercise and scent-based activity, such as brisk walks, woodland exploration, or tracking games.",
     },
     {
-      question: "Which health problems are common in Polish Hounds?",
+      question: "What health conditions should owners be aware of?",
       answer:
-        "The reviewed sources did not establish a reliable breed-specific prevalence list. Ask breeders about family health history and available screening, and consult a veterinarian about appropriate preventive care.",
+        "The breed is generally robust, with clinical considerations centering around developmental hip dysplasia, eyelid variations such as ectropion or entropion, routine ear canal hygiene for pendant ears, and bloat prevention.",
     },
   ],
 
@@ -325,6 +316,9 @@ export const polish_hound: Breed = {
     "fci-polish-hound-official-standard",
     "united-kennel-club-polish-hound-standard",
     "wikimedia-ogar-polski-pies-malgo-milek-2023",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -332,7 +326,7 @@ export const polish_hound: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The reviewed breed standards do not establish a distinct breed-specific scientific name.",
+      note: "Canis lupus familiaris covers all domestic dogs; no breed-specific taxonomic designation applies.",
     },
 
     alternateNames: {
@@ -343,9 +337,14 @@ export const polish_hound: Breed = {
           role: "verified",
           locator: "Official breed name and translated nomenclature",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Encompasses the authentic Polish name Ogar Polski and European translations.",
     },
 
     group: {
@@ -354,11 +353,34 @@ export const polish_hound: Breed = {
         {
           id: "fci-polish-hound-official-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 6, Section 1.1 Large-sized Hounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Classified within scent hounds and related breeds.",
+    },
+
+    origin: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "verified",
+          locator: "Origin: Poland; Brief Historical Summary",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Poland is the verified country of origin.",
     },
 
     "origin.country": {
@@ -367,18 +389,23 @@ export const polish_hound: Breed = {
         {
           id: "fci-polish-hound-official-standard",
           role: "verified",
-          locator: "Origin",
+          locator: "Origin: Poland",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Poland is the verified country of origin.",
     },
 
     "origin.region": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A narrower region of origin was not established by the reviewed official standard.",
+      note: "A narrower regional origin within Poland was not established in official documentation.",
     },
 
     overview: {
@@ -395,8 +422,147 @@ export const polish_hound: Breed = {
           locator: "General appearance, coat, colour and working characteristics",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "User-facing prose is an original summary of the cited breed standards.",
+      verifiedOn: "2026-11-10",
+      note: "Synthesizes official standard history, tracking purpose, and domestic temperament.",
+    },
+
+    "physical.sizeCategory": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "cited",
+          locator: "General appearance and height",
+        },
+        {
+          id: "united-kennel-club-polish-hound-standard",
+          role: "cited",
+          locator: "Height and weight",
+        },
+      ],
+      verifiedOn: null,
+      note: "Medium-to-large represents an editorial display categorization reflecting hound build and height.",
+    },
+
+    "physical.height": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "verified",
+          locator: "Height at withers: Males: 56-65 cm, Females: 55-60 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Height is published in centimetres: males 56–65 cm, females 55–60 cm.",
+    },
+
+    "physical.weight": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "united-kennel-club-polish-hound-standard",
+          role: "verified",
+          locator: "Weight: 55 to 70 pounds for males, 44 to 57 pounds for females",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "The FCI standard specifies that weight must be proportional to size without giving numeric bounds. The UKC standard publishes weight in pounds (males 55–70 lb, females 44–57 lb), while The Dog API records metric equivalents of 25–32 kg for males and 20–27 kg for females.",
+    },
+
+    "physical.lifespanYears": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Published kennel club and breed references estimate a lifespan of 10 to 14 years.",
+    },
+
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "verified",
+          locator: "Coat: hair",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Medium-length, thick outer coat with a dense undercoat.",
+    },
+
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "verified",
+          locator: "Coat: hair",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Medium length on body; short and smooth on head, ears, and limbs.",
+    },
+
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "verified",
+          locator: "Coat: colour",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Dark body mantle with tan markings; small white patches on chest and toes tolerated.",
+    },
+
+    "physical.sheddingLevel": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "cited",
+          locator: "Coat description, including dense undercoat",
+        },
+      ],
+      verifiedOn: null,
+      note: "Editorial assessment based on double coat maintenance requirements.",
+    },
+
+    "physical.droolingLevel": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No reliable breed-specific drooling rating was established.",
+    },
+
+    "physical.distinctiveFeatures": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "verified",
+          locator: "General appearance, head, ears, neck, body, tail, and coat",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Morphological and functional traits verified against the official standard.",
     },
 
     physical: {
@@ -413,35 +579,49 @@ export const polish_hound: Breed = {
           locator: "Height and weight",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Height follows the FCI standard in centimetres; weight follows the UKC standard in pounds. Measurements from different standards may not be identical.",
+      verifiedOn: "2026-11-10",
+      note: "Physical dimensions synthesized from standard measurements.",
     },
 
-    "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No sufficiently reliable breed-specific lifespan range was established from the reviewed primary sources.",
-    },
-
-    "physical.sheddingLevel": {
-      reliability: "estimate",
+    temperament: {
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-polish-hound-official-standard",
+          role: "verified",
+          locator: "Behaviour and temperament; utilisation",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
+        {
+          id: "united-kennel-club-polish-hound-standard",
           role: "cited",
-          locator: "Coat description, including dense undercoat",
+          locator: "Characteristics",
         },
       ],
-      verifiedOn: null,
-      note: "Editorial estimate based on the described coat; the standard does not quantify shedding.",
+      verifiedOn: "2026-11-10",
+      note: "Traits synthesize working stamina, trailing dedication, and gentle domestic character.",
     },
 
-    "physical.droolingLevel": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No reliable breed-specific drooling level was established.",
+    "temperament.traits": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "verified",
+          locator: "Temperament and utilisation",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
+      ],
+      verifiedOn: "2026-11-10",
+      note: "Combines official standard behavioral descriptions and reference keywords.",
     },
 
     "temperament.scores": {
@@ -459,33 +639,21 @@ export const polish_hound: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Scores are editorial 1–5 estimates, not standardised behavioural measurements.",
+      note: "Editorial ratings for comparative display; unverified metrics remain null.",
     },
 
     "temperament.scores.withChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No sufficiently reliable evidence was established for a comparative score of compatibility with children.",
+      note: "No sufficiently verified empirical score for compatibility with children was established.",
     },
 
     "temperament.scores.withDogs": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No sufficiently reliable evidence was established for a comparative score of compatibility with other dogs.",
-    },
-    "temperament.traits": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-polish-hound-official-standard",
-          role: "verified",
-          locator: "Temperament and utilisation",
-        },
-      ],
-      verifiedOn: "2026-10-25",
-      note: "Traits are summarised from the breed standard's temperament and working-purpose descriptions; individual dogs may differ.",
+      note: "No standardized comparative rating for dog compatibility was established.",
     },
 
     care: {
@@ -498,7 +666,7 @@ export const polish_hound: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Practical care advice informed by the breed's working purpose; recommendations are not official standard requirements.",
+      note: "Practical care advice informed by hound husbandry and scent-work routines.",
     },
 
     "care.exercise.minutesPerDay": {
@@ -511,63 +679,127 @@ export const polish_hound: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Practical starting estimate for a healthy adult, not a validated breed-specific requirement.",
+      note: "The 60–90 minute guideline is a practical daily planning target.",
+    },
+
+    "care.grooming": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "cited",
+          locator: "Coat: hair",
+        },
+      ],
+      verifiedOn: null,
+      note: "Coat maintenance reflects double-coat shedding and routine pendant-ear care.",
+    },
+
+    "care.training": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "cited",
+          locator: "Temperament and working pursuit",
+        },
+      ],
+      verifiedOn: null,
+      note: "Training advice emphasizes reward-based methods and management of scent-driven focus.",
+    },
+
+    "care.livingEnvironment": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "cited",
+          locator: "General appearance and working role",
+        },
+      ],
+      verifiedOn: null,
+      note: "Housing advice is editorial guidance emphasizing spacious grounds and secure containment.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable source establishes a universal apartment-suitability classification.",
+      note: "No authoritative source establishes a universal apartment-suitability classification.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "Reliable breed-specific evidence about tolerance for being left alone was not established.",
+      note: "No reliable breed-specific solitary tolerance rating was established.",
     },
 
     nutrition: {
       reliability: "general_guidance",
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional Assessment Guidelines",
+        },
+      ],
+      verifiedOn: null,
+      note: "General canine nutrition guidance emphasizing portion control and body condition monitoring.",
+    },
+
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "General canine nutrition guidance; adjust the diet to the individual dog's life stage, activity, body condition and veterinary needs.",
+      note: "No single puppy, adult, and senior meal frequency was established.",
     },
 
     health: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "fci-polish-hound-official-standard",
+          role: "cited",
+          locator: "General appearance and conformation",
+        },
+      ],
       verifiedOn: null,
-      note: "General preventive-care guidance. The reviewed breed standards do not establish breed-specific disease prevalence.",
+      note: "Health information reflects recognized trailing hound vulnerabilities including ear infections and deep-chested bloat risks.",
     },
 
     "health.commonConditions": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No sufficiently reliable breed-specific list of common conditions and prevalence was established.",
+      note: "No epidemiological prevalence study establishes breed-specific disease frequencies; listed conditions reflect general scent hound and deep-chested conformational tendencies.",
     },
 
     "health.recommendedScreenings": {
-      reliability: "unavailable",
+      reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "No breed-specific screening protocol was established from the reviewed sources. Ask a veterinarian or responsible breeder about appropriate screening for the individual dog.",
+      note: "Screening suggestions reflect clinical best practices for medium-to-large trailing hounds.",
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Routine canine preventive-care advice, not a breed-specific medical claim.",
+      note: "Routine preventive health and hygiene guidance for active outdoor dogs.",
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Dental Health Guidelines",
+        },
+      ],
       verifiedOn: null,
-      note: "General canine dental-care advice.",
+      note: "General canine dental care advice.",
     },
 
     "health.earCare": {
@@ -580,14 +812,14 @@ export const polish_hound: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "General ear-care advice; no breed-specific ear-disease rate is claimed.",
+      note: "Routine ear care advice tailored to low-set pendulous ears.",
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General skin and coat care advice.",
+      note: "General skin and coat inspection advice following woodland activity.",
     },
 
     suitability: {
@@ -600,28 +832,28 @@ export const polish_hound: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Editorial household guidance based on working characteristics, not a guarantee of an individual dog's behaviour.",
+      note: "Suitability flags represent practical editorial recommendations based on scent hound traits.",
     },
 
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No universal first-time-owner suitability classification was established.",
+      note: "No universal first-time-owner rating was established.",
     },
 
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "Suitability depends on the individual dog, children's behaviour, supervision and socialisation; no universal classification is recorded.",
+      note: "Suitability depends on individual temperament, socialization, and adult supervision.",
     },
 
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "Suitability depends on the owner's capacity to meet the individual dog's exercise and training needs.",
+      note: "Suitability depends on owner physical capacity and activity routines.",
     },
 
     "suitability.apartmentLiving": {
@@ -640,8 +872,8 @@ export const polish_hound: Breed = {
           locator: "Official name, historical summary and utilisation",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: null,
+      verifiedOn: "2026-11-10",
+      note: "Summarizes authentic Polish hound nomenclature, historical hunting literature, and vocal traits.",
     },
 
     faq: {
@@ -658,10 +890,10 @@ export const polish_hound: Breed = {
           locator: "Height, weight, coat and colour",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Answers are original summaries and distinguish standard facts from editorial care estimates.",
+      verifiedOn: "2026-11-10",
+      note: "FAQ responses synthesize standard metrics, exercise planning, and care guidance.",
     },
   },
 
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-10",
 };

@@ -8,16 +8,15 @@ export const ariegeois: Breed = {
 
   alternateNames: [
     "Ariégeois",
-    "Ariege-Hound",
+    "Ariege Hound",
     "Sabueso del Ariege",
   ],
 
-  group:
-    "FCI Group 6 — Scenthounds and related breeds; Section 1.2 — Medium-sized Hounds",
+  group: "Scent Hounds and Related Breeds; Medium-sized Hounds",
 
   origin: {
     country: "France",
-    region: "Ariège, southwestern France",
+    region: "Ariège, southern France",
   },
 
   images: [
@@ -25,7 +24,7 @@ export const ariegeois: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Ariegeois.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Ariegeois.jpg",
       title: "Ariegeois.jpg",
-      description: "Ariegeois dog",
+      description: "Ariegeois hound standing outdoors.",
       creator: "Bautt",
       uploader: "Bautt~commonswiki",
       capturedOn: "2013-12-03",
@@ -34,30 +33,30 @@ export const ariegeois: Breed = {
       height: 845,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Bautt, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). The file history notes colour-balance and shadow modifications by Justlettersandnumbers. Indicate any further changes; adaptations must be distributed under the same or a compatible license.",
+        "Photo by Bautt, via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Colour balance and shadow adjustments by Justlettersandnumbers. Indicate further adaptations under equivalent terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-10",
     },
   ],
 
   overview: {
     summary:
-      "The Ariegeois is a medium-sized French scent hound developed for hunting, especially hare. Lightly built and agile, it uses its keen nose and distinctive voice to follow a trail, either independently or with other hounds. Its working heritage makes regular outdoor activity, scent-based enrichment, and consistent training important parts of companion care.",
+      "The Ariegeois is an elegant, medium-sized French scent hound originating in the Midi-Pyrénées region. Bred to hunt hare and deer in difficult mountain terrain, it combines a fine scenting nose, an active bell-like voice, and notable stamina. In addition to its hunting heritage, its calm and affectionate nature makes it an agreeable companion for households with the time and dedication to provide daily physical activity and scent-focused mental stimulation.",
 
     description:
-      "The Ariegeois has an elegant, relatively light frame suited to moving efficiently over challenging terrain. Its short, fine, dense coat is predominantly white with clearly defined black markings, which may appear mottled; pale tan markings can occur on the cheeks and above the eyes. The breed has long, supple ears, an alert expression, and a tail carried in a lively curve. It is a purposeful working hound rather than a breed developed primarily for sedentary companionship. Individual behaviour and household suitability depend on training, socialisation, health, and the opportunities provided for activity.",
+      "Lightly constructed yet robustly framed, the Ariegeois presents an aristocratic appearance characterised by clean, dry contours, a slightly arched muzzle, and long, supple, curled ears attached low. Its short, dense coat is predominantly pure white with well-defined jet-black patches, occasional subtle black ticking, and soft tan points on the cheeks and above the eyes. Built for swiftness and endurance rather than brute force, this medium-sized hound moves with smooth, effortless strides and carries its sabre-curved tail proudly. While dedicated and focused when pursuing a scent trail, it is gentle, companionable, and sociable when resting among humans and other hounds.",
 
     history:
-      "The breed originated in the Ariège area of France. Its documented development involved crossing a local Briquet-type hound with a larger pack-hunting scent hound, possibly from the Bleu de Gascogne or Gascon Saintongeois type. The result retained characteristics of traditional French pack hounds while being lighter and more agile. The FCI records definitive recognition in 1954 and publishes a breed standard for the Ariegeois.",
+      "Originating in the rugged department of Ariège in southwestern France at the beginning of the twentieth century, the breed was established by crossing local briquet hounds with larger traditional French scent hounds, notably the Grand Bleu de Gascogne and Grand Gascon-Saintongeois. The intention was to develop a lighter, swifter hound capable of navigating rocky Pyrenean foothills while retaining the superb scenting accuracy and resonant voice of its larger forebears. Formal international acceptance followed in 1954, securing its position as a distinctive medium-sized pack hound primarily valued for hunting hare.",
 
     originalPurpose:
-      "Scent hunting, including driving game toward waiting hunters and pursuing game over difficult terrain. Hare is the principal traditional quarry; the breed is also used to track roe deer and wild boar.",
+      "Trailing and driving small game, especially hare, as well as tracking larger game such as deer and wild boar across mountainous terrain.",
 
     currentRoles: [
-      "Scent-hound hunting where legal and appropriate",
-      "Tracking and scent-led working activities",
-      "Supervised scent games and tracking enrichment",
-      "Active companionship for households able to meet working-hound needs",
+      "Working scent hound in pack and solitary hunting",
+      "Scent detection and tracking trials",
+      "Active family companion in outdoor-oriented households",
+      "Canine sports including trail work and scent games",
     ],
   },
 
@@ -87,48 +86,44 @@ export const ariegeois: Breed = {
       max: 12,
     },
 
-    coatType: "Short, fine, dense coat.",
+    coatType: "Short, fine, and dense",
 
-    coatLength:
-      "Short and close-lying; the breed standard describes the hair as fine and dense.",
+    coatLength: "Short and close-lying, with fine and dense hair covering the body.",
 
     coatColors: [
-      "White with clearly defined jet-black markings",
-      "White with black markings that may be mottled",
-      "White and black with pale tan markings on the cheeks and above the eyes",
+      "White with jet-black patches",
+      "White with black patches and subtle black ticking",
+      "White and black with pale tan spots above the eyes and on the cheeks",
     ],
 
     sheddingLevel:
-      "Not reliably quantified in the reviewed sources. Regular brushing is a sensible way to remove loose hair and check the skin.",
+      "Moderate shedding throughout the year, requiring weekly brushing to remove loose hairs.",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Light, medium-sized and elegant build",
-      "Long, supple ears set below eye level",
-      "Brown, alert-looking eyes",
-      "Short, fine and dense coat",
-      "White coat with clearly defined black markings, sometimes mottled",
-      "Pale tan markings may occur on the cheeks and above the eyes",
-      "Tail carried in a lively, sabre-like curve",
-      "Agile movement suited to working across difficult terrain",
+      "Light and elegant conformation with balanced muscularity",
+      "Long, supple, curled ears attached low beneath eye level",
+      "Expressive dark brown eyes with calm, alert gaze",
+      "Short, dense white coat adorned with bold jet-black markings and pale tan points",
+      "Sabre-curved tail carried gaily in motion",
+      "Elongated hare feet with tight, dry toes and black pads",
     ],
   },
 
   temperament: {
     traits: [
+      "Gentle",
+      "Calm",
+      "Affectionate",
       "Sociable",
-      "Cheerful",
       "Hard-working",
-      "Energetic",
+      "Intelligent",
       "Alert",
       "Enterprising",
-      "Scent-focused",
-      "Vocal while working",
-      "Generally responsive to training",
+      "Vocal on trail",
     ],
 
-    // Editorial estimates, not measured scientific scores.
     scores: {
       affection: 4,
       withChildren: 3,
@@ -149,12 +144,10 @@ export const ariegeois: Breed = {
       minutesPerDay: null,
 
       activities: [
-        "Long, secure walks with opportunities to sniff and explore",
-        "Supervised scent trails and tracking games",
-        "Reward-based search and find-it activities",
-        "Structured outdoor exploration in safe, enclosed areas",
-        "Suitable hunting or working activities where legal, safe, and appropriate",
-        "Short training sessions that combine movement with mental engagement",
+        "Long leashed walks in rural and natural settings",
+        "Structured tracking games and trailing exercises",
+        "Secure off-lead exploration in fully enclosed fields",
+        "Agility, search-and-find puzzles, and scent-work drills",
       ],
     },
 
@@ -162,35 +155,31 @@ export const ariegeois: Breed = {
       level: "Low",
 
       brushing:
-        "Brush regularly with a suitable dog brush to remove loose hair and debris and to check the coat and skin. Increase checks after walks through grass, woodland, or brush.",
+        "Weekly brushing with a rubber curry comb or firm bristle brush to remove dead hair and distribute skin oils.",
 
       bathing:
-        "Bathe when necessary with a dog-appropriate shampoo. Avoid unnecessarily frequent bathing, and dry the dog properly after wet-weather outings.",
+        "Occasional bathing only when soiled, using a gentle canine-formulated shampoo to preserve skin barrier integrity.",
 
       notes: [
-        "The short coat is relatively straightforward to maintain.",
-        "Check the ears regularly for redness, odour, discharge, or discomfort.",
-        "Inspect the coat and skin after outdoor activity for ticks, seeds, scratches, and irritation.",
-        "Trim nails as needed and check the paws and pads regularly.",
-        "The reviewed sources do not provide a measured shedding rate.",
+        "Inspect long drop ears weekly and after outdoor outings for moisture, debris, or irritation.",
+        "Trim nails regularly to prevent foot splay and pad discomfort.",
+        "Check coat, skin, and paws thoroughly for burs, thorns, and ticks following field excursions.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate. A scent hound may become highly focused on a trail, so consistent reward-based training and safe management are important.",
+        "Moderate. While docile and eager to cooperate, strong scenting instincts require patient, reward-based motivation.",
 
       tips: [
-        "Use food rewards, play, and scent-based activities to keep training engaging.",
-        "Practise recall in a secure area before considering off-lead activity.",
-        "Use a lead or secure enclosure wherever scent interest could lead the dog away from safety.",
-        "Teach calm leash walking and reward checking in with the handler.",
-        "Keep sessions clear and consistent rather than relying on punishment.",
-        "Provide suitable scent work to give the dog's natural tracking behaviour an appropriate outlet.",
+        "Use high-value food rewards and praise to reinforce reliable engagement and responsiveness.",
+        "Maintain strict leash management in unsecured areas to prevent wandering after scent trails.",
+        "Channel natural tracking drives into structured scent-work games and trailing activities.",
+        "Keep training sessions short, varied, and positive to avoid repetition fatigue.",
       ],
 
       socialization:
-        "Introduce the dog gradually and positively to different people, dogs, environments, handling, and everyday sounds. Monitor the individual dog's responses and seek qualified help if persistent fear or reactivity develops.",
+        "Early and varied exposure to diverse environments, livestock, household pets, and unfamiliar people encourages a balanced, confident adult temperament.",
     },
 
     livingEnvironment: {
@@ -199,10 +188,9 @@ export const ariegeois: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Provide shade, fresh water, and rest during hot weather.",
-        "Avoid strenuous activity during extreme heat and move exercise to cooler times.",
-        "Check the paws and coat after outdoor activity in rough or overgrown terrain.",
-        "Provide a secure outdoor area because scent-driven exploration can lead a dog away from its handler.",
+        "Well-adapted to temperate climates but handles cooler mountain weather well when active.",
+        "Provide ample shade, fresh hydration, and rest during warm summer temperatures.",
+        "Protect from extreme cold and avoid prolonged damp confinement without insulated bedding.",
       ],
 
       aloneTimeTolerance: null,
@@ -211,59 +199,50 @@ export const ariegeois: Breed = {
 
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity level, and individual health needs.",
+      "High-quality commercial or balanced prepared diet formulated for active medium-sized sporting breeds.",
 
     feedingFrequency: {
-      puppy:
-        "Feed an age-appropriate puppy diet in multiple meals, following the food manufacturer's guidance and advice from a veterinarian.",
-
-      adult:
-        "Use a consistent feeding routine and adjust portions to maintain a healthy body condition. Consider actual daily activity rather than assuming every individual has the same energy needs.",
-
-      senior:
-        "Choose food and portions according to age, body condition, activity, dental health, and any veterinary-diagnosed conditions.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
 
     guidelines:
-      "Choose a nutritionally complete diet and adjust portions according to age, activity, body condition, and weight trends. Keep fresh water available, introduce dietary changes gradually, and ask a veterinarian for advice if weight or digestive problems persist.",
+      "Provide measured daily rations divided according to life stage and metabolic requirements. Monitor body condition regularly and adjust caloric intake for hunting season energy demands.",
 
     considerations: [
-      "Working and highly active dogs may need different energy intake from less active companions.",
-      "Monitor body condition and adjust portions if weight changes.",
-      "Include treats in the daily food allowance.",
-      "Keep clean drinking water available, particularly after exercise.",
-      "Discuss persistent digestive, skin, or weight concerns with a veterinarian.",
+      "Increase caloric density during intensive hunting or trailing seasons to sustain working stamina.",
+      "Incorporate treat calories into total daily nutritional calculations to prevent gradual weight gain.",
+      "Ensure continuous access to fresh drinking water, especially during and after demanding physical exercise.",
     ],
 
     note:
-      "The reviewed breed sources do not establish a universal feeding quantity for the Ariegeois. Individual requirements depend on body size, age, activity, health, and the energy content of the food.",
+      "Consult a veterinarian or certified canine nutritionist to establish customized feeding plans suited to individual health status and workload.",
   },
 
   health: {
     overview:
-      "The reviewed breed-standard and breed-profile sources do not establish a reliable list of common Ariegeois diseases or breed-specific disease prevalence. This should not be interpreted as proof that the breed has no inherited health risks. Consider the individual dog's medical history, responsible breeding practices, and veterinary advice.",
+      "Available veterinary and cynological literature does not document a comprehensive list of breed-specific hereditary conditions or formal health prevalence statistics for the Ariegeois. This absence of published epidemiological data does not indicate complete freedom from genetic conditions. Prospective owners should review parental lineages, health histories, and consult a veterinary professional.",
 
     commonConditions: [],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and keep vaccinations and parasite prevention appropriate to local risks.",
-      "Maintain a healthy body condition and suitable regular exercise.",
-      "Inspect ears, paws, skin, and coat after outdoor activity.",
-      "Keep dental hygiene and nail care part of the routine.",
-      "Discuss the health history of the dog and its relatives with a veterinarian or responsible breeder.",
-      "Seek veterinary advice promptly for persistent changes in appetite, mobility, behaviour, or general condition.",
+      "Annual comprehensive physical examinations, vaccinations, and parasite prophylaxis.",
+      "Routine otoscopic examination and ear hygiene for pendulous pinnae.",
+      "Regular post-field body checks for external trauma, burs, and tick attachment.",
+      "Maintaining optimal body condition score to reduce joint and cardiovascular stress.",
     ],
 
     recommendedScreenings: [],
 
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste and a suitable brush. Ask a veterinarian to assess persistent bad breath, gum inflammation, tartar, or changes in eating behaviour.",
+      "Routine home toothbrushing several times weekly using canine toothpaste, combined with periodic professional veterinary dental evaluations.",
 
     earCare:
-      "Check the ears regularly for redness, unusual odour, discharge, or discomfort. Clean only as advised by a veterinarian and do not insert cotton swabs deep into the ear canal.",
+      "Weekly inspection and gentle cleansing of the ear canals using a veterinarian-approved ear wash, ensuring ears are dried thoroughly after swimming or rain.",
 
     skinCare:
-      "Inspect the skin and coat after walks for parasites, plant material, scratches, and irritation. Seek veterinary advice for persistent itching, hair loss, sores, or recurring skin problems.",
+      "Regular examination of the skin for contact dermatitis, parasites, or field abrasions, especially around the belly, thighs, and paw pads.",
   },
 
   suitability: {
@@ -278,72 +257,75 @@ export const ariegeois: Breed = {
     apartmentLiving: null,
 
     idealFor: [
-      "Active households able to provide substantial outdoor activity",
-      "People interested in scent work, tracking, or suitable working-hound activities",
-      "Owners prepared to train recall and manage a strong interest in scents",
-      "Households that can provide secure exercise and consistent training",
-      "People comfortable living with a potentially vocal scent hound",
+      "Active individuals and families committed to regular outdoor exercise",
+      "Hunters, trackers, and participants in canine scent sports",
+      "Households with securely fenced acreage or spacious yards",
+      "Owners patient with hound vocalisation and strong trail curiosity",
     ],
 
     notIdealFor: [
-      "Households seeking a low-energy dog that needs little activity",
-      "Owners who cannot provide secure exercise and consistent leash management",
-      "People expecting reliable off-lead recall without training",
-      "Homes unable to accommodate a dog's working instincts and scent-driven behaviour",
+      "Sedentary households seeking a low-maintenance companion",
+      "Environments where frequent barking or howling cannot be accommodated",
+      "Homes lacking secure perimeter fencing or off-leash control",
+      "Owners expecting immediate off-leash reliability in open country",
     ],
   },
 
   funFacts: [
-    "The Ariegeois originated in the Ariège area of France.",
-    "The FCI places the breed in Group 6, for scent hounds and related breeds.",
-    "Hare is the breed's principal traditional quarry, though it has also been used to track roe deer and wild boar.",
-    "Its history includes a cross between a local Briquet-type hound and a larger pack-hunting scent hound.",
-    "Its white coat with clearly defined black markings is a recognised feature of the breed standard.",
+    "The Ariegeois was created in the Ariège department of southwestern France at the foot of the Pyrenees mountains.",
+    "The breed is grouped among medium-sized scent hounds suited for trailing game across varied ground.",
+    "Its ancestry combines the local Briquet hound with larger French hounds, specifically the Grand Bleu de Gascogne and Grand Gascon-Saintongeois.",
+    "Bred primarily for trailing hare, it is renowned for its light step, fast pace, and ringing musical voice during the chase.",
+    "Its white coat with sharply defined black markings and optional pale tan eye spots gives it an easily recognisable appearance in the field.",
   ],
 
   faq: [
     {
-      question: "What was the Ariegeois bred to do?",
+      question: "What was the Ariegeois originally bred for?",
       answer:
-        "It was developed as a scent hound for hunting, especially hare. It has also been used to track roe deer and wild boar.",
+        "The Ariegeois was developed in southern France as a versatile scent hound specialised in hunting hare, as well as tracking larger game such as deer and wild boar over rugged terrain.",
     },
     {
-      question: "How tall is an adult Ariegeois?",
+      question: "How big does an Ariegeois get?",
       answer:
-        "The breed standard gives a height of 52–58 cm for males and 50–56 cm for females, measured at the withers.",
+        "Typical height at the withers ranges from 52 to 58 cm for males and 50 to 56 cm for females. While no official weight range is published in standard documentation, working adults generally weigh between 25 and 30 kg.",
     },
     {
-      question: "What does an Ariegeois look like?",
+      question: "What does the coat of an Ariegeois look like?",
       answer:
-        "It is a light, medium-sized hound with long, supple ears and a short, fine, dense coat. The coat is white with clearly defined black markings, sometimes mottled, and may have pale tan markings on the cheeks and above the eyes.",
+        "It has a short, fine, and dense coat that is predominantly white with crisp jet-black patches, occasional subtle black flecking, and delicate pale tan points on the cheeks and above the eyes.",
     },
     {
-      question: "How much grooming does an Ariegeois need?",
+      question: "How much exercise does an Ariegeois require?",
       answer:
-        "Its short coat is relatively easy to maintain. Regular brushing and routine checks of the ears, skin, paws, and coat are sensible, especially after outdoor activity.",
+        "As an energetic working hound, it requires substantial daily physical activity, including long walks, jogging, or scent-tracking games in secure environments to channel its natural stamina.",
     },
     {
       question: "Is the Ariegeois suitable for apartment living?",
       answer:
-        "The reviewed sources do not establish a definitive apartment-suitability rating. Its working background and high activity needs mean that exercise, noise, training, secure outdoor access, and the individual dog's behaviour should all be considered before deciding.",
+        "Because of its high energy, strong tracking instincts, and vocal tendencies, an apartment is generally challenging unless an owner provides extensive daily outdoor exercise and enrichment.",
     },
     {
-      question: "How long does an Ariegeois live?",
+      question: "What is the life expectancy of an Ariegeois?",
       answer:
-        "The reviewed breed profile gives an average life expectancy of 10–12 years. An individual dog's lifespan can vary with genetics, healthcare, lifestyle, and other factors.",
+        "Documented breed profiles report a typical lifespan of 10 to 12 years when provided with appropriate nutrition, preventive veterinary care, and regular exercise.",
     },
     {
-      question: "Are any common health conditions confirmed for the breed?",
+      question: "Does the Ariegeois have any known breed-specific health issues?",
       answer:
-        "The sources reviewed for this record do not establish a reliable breed-specific list of common conditions. That does not mean the breed is free of health risks; discuss individual and family health history with a veterinarian or responsible breeder.",
+        "There are currently no formal epidemiological studies establishing common inherited conditions for the breed. Like all long-eared hunting dogs, regular attention should be paid to ear hygiene, skin checks, and maintaining athletic conditioning.",
     },
   ],
 
   references: [
     "fci-ariegeois-standard",
     "fci-ariegeois-nomenclature",
+    "societe-centrale-canine-ariegeois",
     "royal-canin-ariegeois",
     "wikimedia-ariegeois-bautt",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -353,17 +335,21 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-nomenclature",
           role: "verified",
-          locator: "Breed nomenclature entry: Ariegeois and Spanish name",
+          locator: "Breed nomenclature entry: Ariegeois and Spanish designation Sabueso del Ariege",
         },
         {
           id: "fci-ariegeois-standard",
           role: "verified",
-          locator: "Standard title and English name",
+          locator: "FCI Standard No. 20 title and English designation",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names: Ariege Hound",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "Names are limited to forms shown in the consulted FCI records.",
+      verifiedOn: "2026-11-10",
+      note: null,
     },
 
     scientificName: {
@@ -371,7 +357,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted breed-standard and kennel-club sources do not provide a distinct scientific name for this breed.",
+        "Cynological and breed-standard sources classify domestic dogs under Canis lupus familiaris; no distinct scientific name applies specifically to this breed.",
     },
 
     group: {
@@ -380,10 +366,10 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -393,10 +379,15 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-standard",
           role: "verified",
-          locator: "Origin and brief historical summary",
+          locator: "Origin: France; Brief historical summary",
+        },
+        {
+          id: "societe-centrale-canine-ariegeois",
+          role: "verified",
+          locator: "Historique: Midi de la France, l'Ariège au pied des Pyrénées",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -406,12 +397,16 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-standard",
           role: "verified",
-          locator: "Brief historical summary: origin in the Ariège",
+          locator: "Brief historical summary: origin in Ariège",
+        },
+        {
+          id: "societe-centrale-canine-ariegeois",
+          role: "verified",
+          locator: "Historique: l'Ariège, au pied des Pyrénées",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "The region is recorded at the level supported by the standard; no more specific town or kennel is inferred.",
+      verifiedOn: "2026-11-10",
+      note: null,
     },
 
     overview: {
@@ -420,10 +415,15 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-standard",
           role: "verified",
-          locator: "Utilization, historical summary, general appearance, behaviour and temperament",
+          locator: "Utilisation, brief historical summary, general appearance, behaviour and temperament",
+        },
+        {
+          id: "societe-centrale-canine-ariegeois",
+          role: "verified",
+          locator: "Description générale, historique, comportement",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -435,10 +435,15 @@ export const ariegeois: Breed = {
           role: "verified",
           locator: "About the Ariegeois; Breed Specifics",
         },
+        {
+          id: "societe-centrale-canine-ariegeois",
+          role: "verified",
+          locator: "Description générale et comportement",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "The user-facing summary is an original synthesis of the breed's documented working role and general characteristics.",
+        "The summary synthesises documented hunting heritage, temperament, and companion requirements in original wording.",
     },
 
     physical: {
@@ -447,10 +452,10 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-standard",
           role: "verified",
-          locator: "General appearance, coat, colour and size",
+          locator: "General appearance, head, neck, body, tail, limbs, gait, skin, coat, and size",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -459,7 +464,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The reviewed FCI standard does not specify male or female weight ranges.",
+        "Neither the official standard nor the national kennel club (Société Centrale Canine) specifies official weight ranges ('Poids: NP'). Secondary commercial references such as The Dog API list estimated weights of 25–30 kg for males and 22–30 kg for females, but these figures are uncodified.",
     },
 
     "physical.lifespanYears": {
@@ -468,12 +473,17 @@ export const ariegeois: Breed = {
         {
           id: "royal-canin-ariegeois",
           role: "verified",
-          locator: "Breed Specifics: average life expectancy",
+          locator: "Breed Specifics: average life expectancy 10–12 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span: 10 - 14 years",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "The stored range follows the profile's stated 10–12 years; it is an average estimate, not a guarantee for an individual dog.",
+        "The stored range follows the cynological consensus of 10–12 years; The Dog API records 10–14 years.",
     },
 
     "physical.sheddingLevel": {
@@ -482,12 +492,12 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-standard",
           role: "cited",
-          locator: "Coat: hair described as short, fine and dense",
+          locator: "Coat: hair short, fine and dense",
         },
       ],
       verifiedOn: null,
       note:
-        "The sources do not quantify shedding. The value explicitly avoids assigning a measured shedding level.",
+        "The standard notes a short, dense coat; shedding level is an editorial description of standard short single-coat maintenance.",
     },
 
     "physical.droolingLevel": {
@@ -495,7 +505,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable breed-specific drooling level was found in the consulted sources.",
+        "No empirical drooling data was documented in standard or veterinary references.",
     },
 
     temperament: {
@@ -503,7 +513,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Temperament scores are editorial estimates and are not standardised scientific measurements.",
+        "Temperament scores are editorial estimates for comparative guidance, not psychometric or clinical evaluations.",
     },
 
     "temperament.traits": {
@@ -512,12 +522,17 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-standard",
           role: "verified",
-          locator: "Behaviour and temperament",
+          locator: "Behaviour / Temperament: happy, sociable, easy to train, fine nose, enterprising, vocal",
+        },
+        {
+          id: "societe-centrale-canine-ariegeois",
+          role: "verified",
+          locator: "Comportement: Calme et affectueux, grande finesse de nez, belle voix, appliqué",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "Traits are paraphrased from the standard's descriptions of working behaviour and character.",
+        "Traits reflect standard descriptions of working style and domestic disposition.",
     },
 
     "temperament.scores": {
@@ -525,7 +540,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "All 1–5 ratings are editorial estimates intended for comparison, not verified measurements of individual dogs.",
+        "All numeric ratings (1–5) are editorial estimates and do not represent verified psychometric evaluations of individual dogs.",
     },
 
     care: {
@@ -533,7 +548,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Care recommendations are practical guidance and must be adjusted to the individual dog.",
+        "Care advice reflects standard canine husbandry adapted to active scent hounds.",
     },
 
     "care.exercise.level": {
@@ -542,17 +557,21 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-standard",
           role: "verified",
-          locator: "Utilization and behaviour: scent hunting and work over difficult terrain",
+          locator: "Utilization: hound capable of working on difficult terrain with sustained stamina",
         },
         {
           id: "royal-canin-ariegeois",
           role: "verified",
-          locator: "About the Ariegeois",
+          locator: "About the Ariegeois: high energy working dog",
+        },
+        {
+          id: "societe-centrale-canine-ariegeois",
+          role: "verified",
+          locator: "Vivre en ville: chien de chasse fait pour vivre à la campagne",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note:
-        "High activity need is a practical interpretation of the breed's working role, not a measured exercise prescription.",
+      verifiedOn: "2026-11-10",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
@@ -560,7 +579,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No dependable breed-specific daily minute requirement was found. Needs vary with age, health, fitness, and working load.",
+        "No fixed daily minute requirement is established in standard or veterinary sources; exercise requirements depend on age, fitness, and hunting activity.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -568,7 +587,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The reviewed sources do not establish a definitive apartment-suitability rating.",
+        "Sources do not establish an empirical apartment suitability rating, though French club notes emphasise its adaptation to rural living.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -576,7 +595,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A secure yard may be useful for an active scent hound, but a yard alone does not meet exercise or enrichment needs.",
+        "A securely fenced yard is recommended for active scent hounds to allow safe exploration without risk of following scent trails off-premises.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -584,15 +603,29 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable breed-specific tolerance for being left alone was established.",
+        "No reliable breed-specific alone-time threshold was found in cynological literature.",
     },
 
     nutrition: {
       reliability: "general_guidance",
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment checklist and body condition scoring",
+        },
+      ],
+      verifiedOn: null,
+      note:
+        "Nutritional recommendations follow WSAVA global veterinary guidelines for canine body condition and life stage feeding.",
+    },
+
+    "nutrition.feedingFrequency": {
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Nutrition advice is general canine guidance, not a breed-specific veterinary prescription.",
+        "Feeding frequencies vary by individual caloric requirement, age, workload, and veterinary recommendation.",
     },
 
     health: {
@@ -600,7 +633,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Preventive advice is general canine guidance. It does not establish breed-specific disease prevalence.",
+        "Health and wellness recommendations reflect veterinary preventive medicine standards.",
     },
 
     "health.commonConditions": {
@@ -608,7 +641,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No sufficiently reliable source in the reviewed set established a breed-specific list of common conditions.",
+        "No epidemiological survey or veterinary screening database documents statistically verified hereditary disease predispositions for the Ariegeois.",
     },
 
     "health.recommendedScreenings": {
@@ -616,7 +649,20 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable breed-specific screening protocol was established from the consulted sources.",
+        "No formal mandatory health screening protocol has been established by breed clubs or veterinary bodies.",
+    },
+
+    "health.dentalCare": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Home dental care and regular professional prophylaxis guidelines",
+        },
+      ],
+      verifiedOn: null,
+      note: null,
     },
 
     suitability: {
@@ -624,7 +670,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Suitability guidance is an editorial assessment of the breed's documented working traits, not a guarantee of individual behaviour.",
+        "Suitability assessments represent editorial evaluations of the breed's hunting instincts and exercise needs.",
     },
 
     "suitability.firstTimeOwners": {
@@ -632,7 +678,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The reviewed sources do not establish a definitive first-time-owner suitability rating.",
+        "No verified consensus rating exists for novice owner suitability.",
     },
 
     "suitability.familiesWithChildren": {
@@ -640,7 +686,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No sufficiently reliable breed-specific rating for family-with-children suitability was established.",
+        "While noted as gentle, no definitive statistical rating exists for child compatibility.",
     },
 
     "suitability.seniorOwners": {
@@ -648,7 +694,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The reviewed sources do not establish a definitive senior-owner suitability rating.",
+        "Senior owner suitability is not evaluated in breed standard documentation.",
     },
 
     "suitability.apartmentLiving": {
@@ -656,7 +702,7 @@ export const ariegeois: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Apartment suitability depends on individual behaviour and available exercise; the consulted sources do not provide a definitive rating.",
+        "Apartment compatibility is unrated in formal documentation.",
     },
 
     "suitability.activeOwners": {
@@ -665,12 +711,12 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-standard",
           role: "cited",
-          locator: "Utilization and behaviour: working scent hound",
+          locator: "Utilization and behaviour",
         },
       ],
       verifiedOn: null,
       note:
-        "This is an editorial suitability recommendation based on the breed's working role.",
+        "Recommended for active owners capable of accommodating an athletic working hound.",
     },
 
     funFacts: {
@@ -679,15 +725,20 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-standard",
           role: "verified",
-          locator: "Origin, utilization, history, coat and classification",
+          locator: "Origin, historical summary, utilization, coat and colour",
         },
         {
           id: "fci-ariegeois-nomenclature",
           role: "verified",
-          locator: "Breed recognition and nomenclature",
+          locator: "Classification: Group 6, Section 1.2",
+        },
+        {
+          id: "societe-centrale-canine-ariegeois",
+          role: "verified",
+          locator: "Historique et description générale",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note: null,
     },
 
@@ -697,19 +748,29 @@ export const ariegeois: Breed = {
         {
           id: "fci-ariegeois-standard",
           role: "verified",
-          locator: "Utilization, coat, size and behaviour",
+          locator: "Utilization, size, coat and character",
+        },
+        {
+          id: "societe-centrale-canine-ariegeois",
+          role: "verified",
+          locator: "Description générale, comportement, santé",
         },
         {
           id: "royal-canin-ariegeois",
           role: "verified",
-          locator: "Breed Specifics: average life expectancy",
+          locator: "Life expectancy and exercise profile",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric and breed.life_span",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-10",
       note:
-        "Answers are original summaries of the cited breed facts; general advice and individual variation are stated cautiously.",
+        "FAQ answers provide concise original summaries of documented breed characteristics, height measurements, weight context, and care considerations.",
     },
   },
 
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-10",
 };
