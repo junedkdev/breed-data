@@ -3,17 +3,21 @@ import type { Breed } from "../schema/breed.types";
 export const austrian_pinscher: Breed = {
   slug: "austrian-pinscher",
   name: "Austrian Pinscher",
-  scientificName:null,
+  scientificName: null,
+
   alternateNames: [
     "Österreichischer Pinscher",
     "Austrian Shorthaired Pinscher",
     "Österreichischer kurzhaariger Pinscher",
   ],
-  group: "Group 2: Pinscher and Schnauzer type; Section 1.1: Pinscher",
+
+  group: "Pinscher and Schnauzer type; Pinscher",
+
   origin: {
     country: "Austria",
     region: null,
   },
+
   images: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Austrianpinscherosterreich1.jpg",
@@ -31,26 +35,33 @@ export const austrian_pinscher: Breed = {
       attribution:
         "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated. Adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-11",
     },
   ],
+
   overview: {
     summary:
       "A medium-sized Austrian farm-dog breed known for its lively, alert nature, close attachment to familiar people, and instinct to watch over its home.",
+
     description:
       "The Austrian Pinscher is a sturdy, short-coated dog with a compact build and an attentive expression. It was developed from traditional Austrian country dogs that worked around farms, and its character reflects that practical background: it is lively and playful with familiar people while tending to be wary of strangers. Its strong watchdog instincts make early socialisation, thoughtful introductions, secure boundaries, and consistent training important parts of everyday life. The breed's dense double coat is relatively straightforward to maintain, but its activity and alertness call for regular exercise and engagement.",
+
     history:
-      "The breed descends from traditional Austrian country Pinschers that were widespread in rural areas during the second half of the nineteenth century. Systematic pure breeding began in 1921. The Austrian kennel organisation recognised it in 1928 under the name Austrian Shorthaired Pinscher; the name was shortened to Austrian Pinscher in 2000.",
+      "The breed descends from traditional Austrian country Pinschers that were widespread in rural areas during the second half of the nineteenth century. Systematic pure breeding began in 1921. National cynological recognition arrived in 1928 under the designation Austrian Shorthaired Pinscher, before the name was formally shortened to Austrian Pinscher in 2000.",
+
     originalPurpose: "Versatile farm dog, watchdog, and companion",
+
     currentRoles: [
       "Family companion",
-      "Watchdog",
-      "Rural or farm companion",
-      "Participant in suitable canine activities",
+      "Watchdog and farm guardian",
+      "Rural estate and farm companion",
+      "Participant in agility, obedience, and tracking sports",
     ],
   },
+
   physical: {
     sizeCategory: "Medium",
+
     height: {
       unit: "cm",
       male: {
@@ -62,49 +73,58 @@ export const austrian_pinscher: Breed = {
         max: 48,
       },
     },
+
     weight: {
       unit: null,
       male: null,
       female: null,
     },
+
     lifespanYears: {
       min: 12,
       max: 14,
     },
+
     coatType:
       "Dense double coat with a thick, close-lying outer coat and a short, thick undercoat",
+
     coatLength:
       "Short to medium-long; the coat lies close to the body, with slightly longer hair around the hindquarters",
+
     coatColors: [
       "Russet gold",
       "Brownish yellow",
       "Stag red",
       "Black with tan markings",
     ],
+
     sheddingLevel: null,
     droolingLevel: null,
+
     distinctiveFeatures: [
-      "Sturdy, medium-sized build",
-      "Body slightly longer than the height at the withers",
-      "Pear-shaped head with a broad, rounded skull",
-      "Large, round eyes with dark-pigmented rims",
-      "Small, high-set button ears",
-      "Strong muzzle and darkly pigmented lips",
-      "High-set, strong tail of medium length",
-      "Dense double coat, sometimes with white markings on the chest, muzzle, neck, throat, nape, feet, or tail tip",
+      "Sturdy, medium-sized build with a well-balanced silhouette",
+      "Body length slightly exceeding height at the withers in a ten-to-nine ratio",
+      "Characteristic pear-shaped head with a broad, rounded skull and strong zygomatic arches",
+      "Large, round dark eyes with black-pigmented lids",
+      "Small, high-set button or drop ears carried close to the head",
+      "Well-developed second thigh and strong limbs built for endurance",
+      "High-set, strong tail carried curved over the back",
+      "Dense double coat, often with white markings on the chest, muzzle, neck, feet, or tail tip",
     ],
   },
+
   temperament: {
     traits: [
       "Lively",
       "Alert and watchful",
       "Playful",
       "Self-assured",
-      "Devoted and friendly with familiar people",
+      "Devoted and affectionate with familiar people",
       "Wary or suspicious of strangers",
-      "Naturally inclined to guard its surroundings",
-      "Generally described as having a limited hunting instinct",
+      "Naturally inclined to watch over its surroundings",
+      "Low hunting drive",
     ],
+
     scores: {
       affection: 4,
       withChildren: 3,
@@ -117,10 +137,11 @@ export const austrian_pinscher: Breed = {
       energy: 4,
     },
   },
+
   care: {
     exercise: {
       level:
-        "Regular daily exercise and mental engagement are important for this lively, alert farm-dog breed.",
+        "High. Regular daily exercise and mental engagement are essential for this lively, alert farm-dog breed.",
       minutesPerDay: null,
       activities: [
         "Daily walks",
@@ -130,6 +151,7 @@ export const austrian_pinscher: Breed = {
         "Exploration in a securely fenced area",
       ],
     },
+
     grooming: {
       level: "Low to moderate",
       brushing:
@@ -142,6 +164,7 @@ export const austrian_pinscher: Breed = {
         "Increase brushing when seasonal shedding is noticeable.",
       ],
     },
+
     training: {
       difficulty:
         "Consistent, reward-based training is recommended; the breed's alertness and independent judgement may require patience.",
@@ -155,6 +178,7 @@ export const austrian_pinscher: Breed = {
       socialization:
         "Introduce the dog gradually and positively to different people, environments, sounds, and well-matched dogs. Because the breed can be wary of strangers, avoid forcing interactions and reward calm behaviour.",
     },
+
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: true,
@@ -162,28 +186,31 @@ export const austrian_pinscher: Breed = {
       aloneTimeTolerance: null,
     },
   },
+
   nutrition: {
     dietType:
       "A complete and balanced diet appropriate to the dog's life stage, body condition, activity, and individual health needs.",
+
     feedingFrequency: {
-      puppy:
-        "Use a puppy-formulated complete diet and follow the feeding guidance for the puppy's age and expected adult size; confirm the plan with a veterinarian.",
-      adult:
-        "Feed measured portions of a complete adult diet and adjust them to maintain a healthy body condition.",
-      senior:
-        "Review calorie needs, body condition, and any medical dietary requirements with a veterinarian as the dog ages.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
+
     guidelines:
       "Choose a nutritionally complete diet suitable for the dog's life stage. Base portions on the food's feeding guide, activity, body condition, and veterinary advice rather than a breed-wide fixed amount. Keep fresh water available and introduce dietary changes gradually.",
+
     considerations: [
       "Monitor body condition and adjust portions if weight changes.",
       "Include treats in the overall daily food allowance.",
       "Avoid feeding human foods that are toxic to dogs.",
       "Discuss persistent digestive problems, allergies, or weight concerns with a veterinarian.",
     ],
+
     note:
       "A reliable breed-specific feeding quantity was not established in the sources reviewed; individual needs vary with age, activity, body condition, and health.",
   },
+
   health: {
     overview: null,
     commonConditions: [],
@@ -202,30 +229,35 @@ export const austrian_pinscher: Breed = {
     skinCare:
       "Check the skin and coat during brushing. Ask a veterinarian about persistent itching, redness, sores, unusual lumps, or hair loss.",
   },
+
   suitability: {
     firstTimeOwners: null,
     familiesWithChildren: null,
     seniorOwners: null,
     activeOwners: true,
     apartmentLiving: null,
+
     idealFor: [
       "People who enjoy regular walks, training, and interactive activities",
       "Households prepared to socialise and train an alert watchdog",
       "Owners who can provide consistent boundaries and supervised introductions to visitors",
       "Rural or suburban homes where the dog can have appropriate activity and secure outdoor access",
     ],
+
     notIdealFor: [
       "People who want a dog that welcomes every unfamiliar person without careful introductions",
       "Households unable to provide regular activity, training, and mental engagement",
       "Owners who cannot manage or safely contain a naturally watchful dog",
     ],
   },
+
   funFacts: [
     "The Austrian Pinscher descends from traditional Austrian country dogs that worked as versatile farm dogs.",
     "Systematic pure breeding began in 1921.",
     "The breed was first recognised under the name Austrian Shorthaired Pinscher before its name was shortened in 2000.",
     "Its traditional work included watching over people and property, alongside its role as a farm companion.",
   ],
+
   faq: [
     {
       question: "Where does the Austrian Pinscher come from?",
@@ -235,12 +267,12 @@ export const austrian_pinscher: Breed = {
     {
       question: "How tall is an Austrian Pinscher?",
       answer:
-        "The breed standard gives a height of 44–50 cm for males and 42–48 cm for females, measured at the withers.",
+        "Males measure 44 to 50 cm at the withers, while females typically stand 42 to 48 cm.",
     },
     {
       question: "How much does an Austrian Pinscher weigh?",
       answer:
-        "A dependable breed-standard weight range was not found in the sources reviewed, so a fixed figure is not provided here.",
+        "Official publications do not specify a mandatory adult weight range, focusing instead on balanced proportions and functional substance relative to height.",
     },
     {
       question: "What is the Austrian Pinscher's temperament like?",
@@ -263,12 +295,17 @@ export const austrian_pinscher: Breed = {
         "The sources reviewed did not establish a sufficiently reliable list of common breed-specific conditions or screening recommendations. A veterinarian and a responsible breeder can advise on health information relevant to an individual dog.",
     },
   ],
+
   references: [
     "fci-austrian-pinscher-standard",
     "ukc-austrian-pinscher-standard",
     "royal-canin-austrian-pinscher",
     "commons-austrian-pinscher-canarian-2023",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
+
   evidence: {
     alternateNames: {
       reliability: "official_standard",
@@ -278,42 +315,49 @@ export const austrian_pinscher: Breed = {
           role: "verified",
           locator: "Title and Brief Historical Summary; former breed name",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Names are based on the official breed-standard title and its historical account.",
     },
+
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "A breed-specific scientific name was not established from the sources reviewed.",
     },
-    
-   
+
     group: {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-austrian-pinscher-standard",
           role: "verified",
-          locator: "FCI classification, Group 2, Section 1.1",
+          locator: "Classification: Group 2, Section 1.1",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Uses the FCI classification.",
+      verifiedOn: "2026-11-11",
+      note: null,
     },
-    "origin.country": {
+
+    origin: {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-austrian-pinscher-standard",
           role: "verified",
-          locator: "Origin",
+          locator: "Origin: Austria",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
+
     "origin.region": {
       reliability: "unavailable",
       sources: [],
@@ -321,6 +365,7 @@ export const austrian_pinscher: Breed = {
       note:
         "The consulted standard identifies Austria as the country of origin but does not establish a more specific region.",
     },
+
     overview: {
       reliability: "reliable_source",
       sources: [
@@ -340,10 +385,11 @@ export const austrian_pinscher: Breed = {
           locator: "About the Austrian Pinscher",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
         "Overview and history are paraphrased from breed-standard and breed-profile material.",
     },
+
     physical: {
       reliability: "reliable_source",
       sources: [
@@ -363,17 +409,45 @@ export const austrian_pinscher: Breed = {
           locator: "Breed specifics",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
         "Physical description and height use breed-standard details. Lifespan has its own more specific claim; weight is explicitly unavailable.",
     },
+
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-austrian-pinscher-standard",
+          role: "verified",
+          locator: "General Appearance",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+
+    "physical.height": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-austrian-pinscher-standard",
+          role: "verified",
+          locator: "Size: Height at withers: Males 44–50 cm, Females 42–48 cm",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Preserved in published metric units (cm): males 44–50 cm, females 42–48 cm.",
+    },
+
     "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted official standards do not provide a dependable weight range; no value is inferred.",
+        "The consulted official standards do not provide a dependable weight range; no value is inferred. The Dog API lists an empirical range of 12–18 kg, but weight remains uncodified in official standards.",
     },
+
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
@@ -382,23 +456,82 @@ export const austrian_pinscher: Breed = {
           role: "verified",
           locator: "Breed specifics: average life expectancy",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "The published lifespan range is 12–14 years.",
     },
+
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-austrian-pinscher-standard",
+          role: "verified",
+          locator: "Coat: Hair",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-austrian-pinscher-standard",
+          role: "verified",
+          locator: "Coat: Hair",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-austrian-pinscher-standard",
+          role: "verified",
+          locator: "Coat: Colour",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+
     "physical.sheddingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "A reliable breed-specific shedding level was not established.",
     },
-    
+
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "A reliable breed-specific drooling level was not established.",
     },
+
+    "physical.distinctiveFeatures": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-austrian-pinscher-standard",
+          role: "verified",
+          locator: "General Appearance, Important Proportions, Head, Tail, Coat",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+
     temperament: {
       reliability: "reliable_source",
       sources: [
@@ -417,10 +550,16 @@ export const austrian_pinscher: Breed = {
           role: "verified",
           locator: "About the Austrian Pinscher",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Traits summarise the sources' descriptions of the breed's behaviour.",
     },
+
     "temperament.scores": {
       reliability: "estimate",
       sources: [
@@ -439,6 +578,7 @@ export const austrian_pinscher: Breed = {
       note:
         "The 1–5 scores are editorial estimates based on general breed descriptions, not measured behavioural-test results or a validated scoring system.",
     },
+
     "care.exercise": {
       reliability: "estimate",
       sources: [
@@ -457,6 +597,7 @@ export const austrian_pinscher: Breed = {
       note:
         "Activity level and example activities are practical guidance inferred from the breed's lively farm-dog background; no fixed daily exercise duration is asserted.",
     },
+
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
@@ -464,6 +605,7 @@ export const austrian_pinscher: Breed = {
       note:
         "No dependable breed-specific daily exercise duration was found in the consulted sources.",
     },
+
     "care.grooming": {
       reliability: "reliable_source",
       sources: [
@@ -478,9 +620,10 @@ export const austrian_pinscher: Breed = {
           locator: "Key facts: grooming",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Grooming level reflects the short-to-medium dense double coat.",
     },
+
     "care.grooming.bathing": {
       reliability: "unavailable",
       sources: [],
@@ -488,6 +631,7 @@ export const austrian_pinscher: Breed = {
       note:
         "No reliable breed-specific bathing interval was established; bathing frequency depends on the individual dog's needs.",
     },
+
     "care.training": {
       reliability: "general_guidance",
       sources: [],
@@ -495,6 +639,7 @@ export const austrian_pinscher: Breed = {
       note:
         "Training suggestions are general welfare-oriented advice, not a verified breed-specific training protocol.",
     },
+
     "care.training.difficulty": {
       reliability: "estimate",
       sources: [
@@ -508,6 +653,7 @@ export const austrian_pinscher: Breed = {
       note:
         "The qualitative difficulty description is an editorial estimate, not a measured breed rating.",
     },
+
     "care.livingEnvironment": {
       reliability: "estimate",
       sources: [
@@ -526,6 +672,7 @@ export const austrian_pinscher: Breed = {
       note:
         "Housing guidance depends on the dog's individual behaviour, daily routine, and environment; unknown fields are left unavailable.",
     },
+
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
@@ -533,6 +680,20 @@ export const austrian_pinscher: Breed = {
       note:
         "The sources do not establish a reliable universal apartment-suitability boolean.",
     },
+
+    "care.livingEnvironment.houseWithYardSuitable": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "fci-austrian-pinscher-standard",
+          role: "cited",
+          locator: "Utilization and Behaviour / Character",
+        },
+      ],
+      verifiedOn: null,
+      note: "Farm dog ancestry suits homes with yards.",
+    },
+
     "care.livingEnvironment.climates": {
       reliability: "unavailable",
       sources: [],
@@ -540,6 +701,7 @@ export const austrian_pinscher: Breed = {
       note:
         "No sufficiently specific, reliable climate-suitability guidance was established.",
     },
+
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
       sources: [],
@@ -547,13 +709,41 @@ export const austrian_pinscher: Breed = {
       note:
         "A dependable breed-specific alone-time tolerance was not established.",
     },
+
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+      ],
       verifiedOn: null,
       note:
         "Nutrition advice is general canine-care guidance. It does not assert a breed-specific food quantity or diet prescription.",
     },
+    "nutrition.feedingFrequency.puppy": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No breed-specific puppy feeding frequency published in official breed standards."
+    },
+
+    "nutrition.feedingFrequency.adult": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No breed-specific adult feeding frequency published in official breed standards."
+    },
+
+    "nutrition.feedingFrequency.senior": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No breed-specific senior feeding frequency published in official breed standards."
+    },
+
     health: {
       reliability: "general_guidance",
       sources: [],
@@ -561,6 +751,7 @@ export const austrian_pinscher: Breed = {
       note:
         "Preventive-care advice is general guidance. Breed-specific disease prevalence and screening recommendations are not inferred without supporting evidence.",
     },
+
     "health.overview": {
       reliability: "unavailable",
       sources: [],
@@ -568,6 +759,7 @@ export const austrian_pinscher: Breed = {
       note:
         "The sources reviewed did not establish a sufficiently reliable breed-specific health overview.",
     },
+
     "health.commonConditions": {
       reliability: "unavailable",
       sources: [],
@@ -575,6 +767,14 @@ export const austrian_pinscher: Breed = {
       note:
         "No reliable breed-specific list of common conditions was established in the sources reviewed.",
     },
+
+    "health.preventiveCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General canine wellness recommendations.",
+    },
+
     "health.recommendedScreenings": {
       reliability: "unavailable",
       sources: [],
@@ -582,6 +782,34 @@ export const austrian_pinscher: Breed = {
       note:
         "No dependable breed-specific screening protocol was established in the sources reviewed.",
     },
+
+    "health.dentalCare": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Routine teeth-brushing and professional prophylaxis advice",
+        },
+      ],
+      verifiedOn: null,
+      note: "Routine canine dental care.",
+    },
+
+    "health.earCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General canine ear care advice.",
+    },
+
+    "health.skinCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General canine skin care advice.",
+    },
+
     suitability: {
       reliability: "estimate",
       sources: [
@@ -600,6 +828,7 @@ export const austrian_pinscher: Breed = {
       note:
         "Suitability descriptions are editorial guidance based on the breed's alertness, activity, and wariness; they are not guarantees about individual dogs.",
     },
+
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
       sources: [],
@@ -607,6 +836,7 @@ export const austrian_pinscher: Breed = {
       note:
         "A reliable universal first-time-owner suitability classification was not established.",
     },
+
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
@@ -614,6 +844,7 @@ export const austrian_pinscher: Breed = {
       note:
         "The sources reviewed do not establish a universal suitability boolean for every household with children; individual temperament and supervision matter.",
     },
+
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
@@ -621,6 +852,20 @@ export const austrian_pinscher: Breed = {
       note:
         "Suitability depends on the owner's circumstances and the individual dog's behaviour and activity needs.",
     },
+
+    "suitability.activeOwners": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "fci-austrian-pinscher-standard",
+          role: "cited",
+          locator: "Utilization and Behaviour / Character",
+        },
+      ],
+      verifiedOn: null,
+      note: "Well-suited to active households.",
+    },
+
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
@@ -628,6 +873,7 @@ export const austrian_pinscher: Breed = {
       note:
         "A reliable universal apartment-living suitability boolean was not established.",
     },
+
     funFacts: {
       reliability: "reliable_source",
       sources: [
@@ -642,9 +888,10 @@ export const austrian_pinscher: Breed = {
           locator: "History",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Historical facts are paraphrased from the breed histories.",
     },
+
     faq: {
       reliability: "reliable_source",
       sources: [
@@ -664,10 +911,11 @@ export const austrian_pinscher: Breed = {
           locator: "Breed specifics and grooming key fact",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
         "Answers are paraphrased. Unknown weight and health details are explicitly presented as not established in the sources reviewed.",
     },
   },
-  updatedOn: "2026-10-26",
+
+  updatedOn: "2026-11-11",
 };

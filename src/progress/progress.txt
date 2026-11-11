@@ -96,10 +96,11 @@
 93:sabueso_espanol - CG
 94:american_akita - CG
 95:golden_retriever - CG
+96:bull_terrier - CG
+97:austrian_pinscher - CG
 
-96:bull_terrier - C
-97:austrian_pinscher - C
-98:swedish_lapphund - C
+98:swedish_lapphund - CR
+
 99:lhasa_apso - C
 100:papillon_and_phalene - C
 101:chien_francais_tricolore - C
@@ -168,11 +169,10 @@
 164:harrier - C
 165:peruvian_hairless_dog - C
 166:montenegrin_mountain_hound - C
+167:halden_hound - C
+168:caucasian_shepherd_dog - C
+169:english_springer_spaniel - C
 
-167:halden_hound - R
-
-168:caucasian_shepherd_dog
-169:english_springer_spaniel
 170:alaskan_malamute
 171:landseer
 172:welsh_corgi,_cardigan

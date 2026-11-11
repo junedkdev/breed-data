@@ -171,6 +171,9 @@ import { croatian_sheepdog } from "./croatian_sheepdog";
 import { harrier } from "./harrier";
 import { peruvian_hairless_dog } from "./peruvian_hairless_dog";
 import { montenegrin_mountain_hound } from "./montenegrin_mountain_hound";
+import { halden_hound } from "./halden_hound";
+import { caucasian_shepherd_dog } from "./caucasian_shepherd_dog";
+import { english_springer_spaniel } from "./english_springer_spaniel";
 
 
 export const breedData: readonly Breed[] = [
@@ -341,4 +344,7 @@ export const breedData: readonly Breed[] = [
   harrier,
   peruvian_hairless_dog,
   montenegrin_mountain_hound,
+  halden_hound,
+  caucasian_shepherd_dog,
+  english_springer_spaniel,
 ];

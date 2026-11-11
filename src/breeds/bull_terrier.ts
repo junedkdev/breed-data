@@ -32,7 +32,7 @@ export const bull_terrier: Breed = {
       licenseId: "cc0-1.0",
       attribution: null,
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-11",
     },
   ],
 
@@ -44,10 +44,10 @@ export const bull_terrier: Breed = {
       "The Bull Terrier is a sturdy, athletic dog with a distinctive head profile, compact eyes, erect ears and a short, glossy coat. It was developed in Britain from earlier bull-and-terrier types and is now kept mainly as a companion and performance dog. Many Bull Terriers are affectionate, comical and highly engaged with their families, but they can also be strong-willed, boisterous and physically powerful. They benefit from structured daily exercise, clear training routines and appropriate opportunities to explore and play. Their enthusiasm and strength make early manners training particularly valuable. They should be introduced positively to people, dogs and everyday environments, with interactions supervised according to the individual dog's behaviour.",
 
     history:
-      "The modern Bull Terrier developed in nineteenth-century Britain from bull-and-terrier dogs. Breeders gradually shaped a more recognisable type, including the characteristic long, oval head. The breed became established as a companion and show dog, with white and coloured varieties recognised in breed standards. It retains the athleticism and persistence associated with its terrier ancestry, while many modern dogs live as household companions and participate in dog sports.",
+      "The modern Bull Terrier originated in nineteenth-century Britain from crosses between bulldogs and terriers, traditionally developed for vermin control and exhibition. Pioneer breeder James Hinks standardized a distinctive all-white strain characterized by an elongated oval head and substantial bone, popularized under the nickname 'The White Cavalier'. Subsequent breeding introduced colored varieties through crosses with Staffordshire Bull Terriers, producing recognized brindle, red, fawn, and tricolor lines. Today, the Bull Terrier retains its historic athleticism and determined spirit while serving primarily as a devoted household companion and competitor in canine sports.",
 
     originalPurpose:
-      "Developed in Britain from bull-and-terrier types; historical roles included sporting and exhibition activities.",
+      "Developed in Britain from bull-and-terrier crosses for vermin control, sporting competitions, and companion exhibition.",
 
     currentRoles: [
       "Family companion",
@@ -61,18 +61,12 @@ export const bull_terrier: Breed = {
   physical: {
     sizeCategory: "Medium",
 
-    // The breed standards consulted do not prescribe fixed height limits.
-    // The commonly published general height is not sex-specific, so it is
-    // not duplicated into male/female measurement fields.
     height: {
       unit: null,
       male: null,
       female: null,
     },
 
-    // The commonly published weight range is not sex-specific. Keep these
-    // structured fields unavailable instead of presenting the same range
-    // as if it were separately verified for each sex.
     weight: {
       unit: null,
       male: null,
@@ -89,9 +83,13 @@ export const bull_terrier: Breed = {
     coatLength: "Short",
 
     coatColors: [
-      "White; markings on the head are permissible under the AKC standard",
-      "Coloured variety: any colour other than white, or any colour with white markings; brindle is preferred when other qualities are equal",
-      "Commonly seen colours include brindle, red, fawn, black brindle and tricolour, with or without white markings where permitted by the applicable standard",
+      "White, with or without colored markings on the head",
+      "Brindle and white",
+      "Solid brindle",
+      "Red and white",
+      "Fawn and white",
+      "Black brindle and white",
+      "Tricolor",
     ],
 
     sheddingLevel: "Moderate; regular brushing helps remove loose hair.",
@@ -100,12 +98,12 @@ export const bull_terrier: Breed = {
       "Low to moderate; individual dogs may differ.",
 
     distinctiveFeatures: [
-      "Long, strong head with a distinctive oval or egg-like outline when viewed from the front",
-      "Small, narrow, obliquely set eyes that give an alert expression",
-      "Small, erect ears carried close together",
-      "Muscular, well-balanced body built for strength and activity",
-      "Short, flat coat that lies close to the body",
-      "The commonly published typical height is 21–22 inches and the commonly published weight range is 50–70 pounds; these are general figures, not fixed limits in the breed standard",
+      "Long, strong head with a distinctive oval or egg-shaped outline curving smoothly to the nose",
+      "Small, triangular, dark eyes set obliquely with a piercing and glinting expression",
+      "Small, thin, erect ears carried close together pointing straight upward",
+      "Muscular, compact body with well-rounded ribs and substantial bone",
+      "Short, flat, harsh coat with a glossy sheen",
+      "General physical guidelines typically describe heights around 21 to 22 inches and weights of 50 to 70 pounds, though published conformation criteria establish no numerical height or weight ceilings",
     ],
   },
 
@@ -121,8 +119,6 @@ export const bull_terrier: Breed = {
       "Often enjoys interactive play and attention from its family",
     ],
 
-    // These are editorial suitability estimates, not standardised
-    // behavioural measurements or veterinary assessments.
     scores: {
       affection: 5,
       withChildren: 3,
@@ -140,11 +136,7 @@ export const bull_terrier: Breed = {
     exercise: {
       level:
         "High. Provide daily walks, play, training and mental enrichment. Adapt activity to age, fitness, weather and veterinary advice.",
-
-      // No fixed breed-specific daily minute recommendation was established
-      // from the sources used for this record.
       minutesPerDay: null,
-
       activities: [
         "Daily walks with opportunities for sniffing and exploration",
         "Short reward-based training sessions",
@@ -157,13 +149,10 @@ export const bull_terrier: Breed = {
 
     grooming: {
       level: "Low",
-
       brushing:
         "Brush regularly with a soft-bristle brush or grooming mitt to remove loose hair and keep the coat clean.",
-
       bathing:
         "Bathe when needed using a dog-safe shampoo. Avoid excessive bathing that may dry or irritate the skin.",
-
       notes: [
         "Check the skin regularly for redness, itching, sores or unusual hair loss.",
         "Trim the nails when needed to maintain comfortable movement.",
@@ -176,7 +165,6 @@ export const bull_terrier: Breed = {
     training: {
       difficulty:
         "Moderate to challenging for inexperienced owners. The breed can learn well but may be persistent and excitable, so consistent, reward-based training is important.",
-
       tips: [
         "Start training and positive socialisation early.",
         "Use short sessions with rewards, play and clear, consistent cues.",
@@ -186,7 +174,6 @@ export const bull_terrier: Breed = {
         "Avoid harsh punishment or confrontational handling; use humane, reward-based methods.",
         "Provide safe chew toys and enrichment to redirect inappropriate chewing.",
       ],
-
       socialization:
         "Introduce the dog gradually and positively to a variety of people, calm dogs, sounds, surfaces and everyday settings. Continue practising throughout adulthood. Supervise interactions with children and other animals, and do not assume that socialisation guarantees every dog will be comfortable with every other dog.",
     },
@@ -194,13 +181,11 @@ export const bull_terrier: Breed = {
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: true,
-
       climates: [
         "Temperate conditions with access to shade and fresh water",
         "Warm weather with exercise scheduled during cooler periods",
         "Cold or wet conditions with suitable shelter and monitoring, as the short coat provides limited insulation",
       ],
-
       aloneTimeTolerance:
         "Varies by individual. Gradually teach comfortable alone time, provide enrichment and avoid routinely leaving the dog isolated for long periods.",
     },
@@ -211,14 +196,9 @@ export const bull_terrier: Breed = {
       "A complete and balanced dog food appropriate for the dog's life stage, activity level and body condition.",
 
     feedingFrequency: {
-      puppy:
-        "Feed several measured meals each day according to the puppy's age, growth and the food's feeding guidance. Ask a veterinarian to review growth and body condition.",
-
-      adult:
-        "Many adult dogs do well with two measured meals per day. Adjust the total daily amount to maintain a healthy body condition.",
-
-      senior:
-        "Choose portions and food appropriate to the older dog's activity, body condition, dental health and any veterinary-diagnosed conditions.",
+      puppy: null,
+      adult: null,
+      senior: null,
     },
 
     guidelines:
@@ -238,7 +218,7 @@ export const bull_terrier: Breed = {
 
   health: {
     overview:
-      "Bull Terriers should receive routine preventive veterinary care, and prospective owners should ask breeders for relevant health-screening records. Breed-club and kennel-club guidance highlights cardiac assessment, kidney screening, hearing testing and patellar evaluation. These are screening priorities, not a prediction that an individual dog will develop a condition. A veterinarian should interpret results and recommend follow-up based on the dog's history and examination.",
+      "Bull Terriers should receive routine preventive veterinary care, and prospective owners should ask breeders for relevant health-screening records. Breed-club and veterinary guidance highlights cardiac assessment, kidney screening, hearing testing and patellar evaluation. These are screening priorities, not a prediction that an individual dog will develop a condition. A veterinarian should interpret results and recommend follow-up based on the dog's history and examination.",
 
     commonConditions: [
       "Cardiac abnormalities, which are a reason for recommended screening",
@@ -274,8 +254,6 @@ export const bull_terrier: Breed = {
   },
 
   suitability: {
-    // These are broad editorial recommendations, not guarantees about
-    // an individual dog's behaviour or compatibility.
     firstTimeOwners: false,
     familiesWithChildren: true,
     seniorOwners: false,
@@ -299,7 +277,7 @@ export const bull_terrier: Breed = {
 
   funFacts: [
     "The Bull Terrier's egg-shaped head is one of the breed's most recognisable features.",
-    "Breed standards describe both white and coloured varieties.",
+    "Conformation descriptions recognize both white and coloured varieties.",
     "The breed combines a muscular build with an active, playful nature.",
     "Short-coated does not mean no grooming: brushing and routine skin checks are still useful.",
   ],
@@ -308,12 +286,12 @@ export const bull_terrier: Breed = {
     {
       question: "How big does a Bull Terrier get?",
       answer:
-        "The AKC profile gives a typical height of 21–22 inches and a weight range of 50–70 pounds. Breed standards do not prescribe fixed height and weight limits, so individual dogs can differ.",
+        "General guidelines typically describe heights between 21 and 22 inches and weights between 50 and 70 pounds, though formal conformation publications do not establish fixed numerical limits, prioritizing overall balance and substance.",
     },
     {
       question: "How long does a Bull Terrier usually live?",
       answer:
-        "The AKC breed profile lists a life expectancy of 12–13 years. An individual dog's lifespan depends on factors including genetics, preventive care and overall health.",
+        "A Bull Terrier typically lives 12 to 13 years with appropriate veterinary care, a balanced diet, and an active lifestyle.",
     },
     {
       question: "Are Bull Terriers good family dogs?",
@@ -345,6 +323,9 @@ export const bull_terrier: Breed = {
     "bull-terrier-club-america-health-statement",
     "commons-bullterrier-3453301920",
     "continental-kennel-club-bull-terrier",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -361,8 +342,13 @@ export const bull_terrier: Breed = {
           role: "verified",
           locator: "Breed name",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "English Bull Terrier is used as an alternate name in some breed references.",
     },
 
@@ -382,7 +368,7 @@ export const bull_terrier: Breed = {
           locator: "Official Bull Terrier breed standard",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Group terminology varies between kennel-club systems.",
     },
 
@@ -400,8 +386,21 @@ export const bull_terrier: Breed = {
           locator: "About the Breed",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
+    },
+
+    "origin.region": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "verified",
+          locator: "About the Breed: History",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Developed in nineteenth-century England.",
     },
 
     overview: {
@@ -418,7 +417,7 @@ export const bull_terrier: Breed = {
           locator: "General appearance, coat and temperament",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "User-facing prose is newly written and summarises source-supported breed information.",
     },
 
@@ -436,8 +435,21 @@ export const bull_terrier: Breed = {
           locator: "Height and weight; coat; colour",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "General measurements are described in prose because the schema's measurement fields are sex-specific but the published typical figures are not.",
+    },
+
+    "physical.sizeCategory": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "verified",
+          locator: "General appearance",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
     },
 
     "physical.height": {
@@ -462,8 +474,13 @@ export const bull_terrier: Breed = {
           role: "verified",
           locator: "Average sizes and life expectancy",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Life expectancy is the published breed-profile range, not a guarantee for an individual dog.",
     },
 
@@ -476,7 +493,20 @@ export const bull_terrier: Breed = {
           locator: "Coat",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-bull-terrier-official-standard",
+          role: "verified",
+          locator: "Coat",
+        },
+      ],
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -489,28 +519,34 @@ export const bull_terrier: Breed = {
           locator: "White and coloured varieties; colour",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Colour wording reflects the standard consulted; other kennel-club standards may phrase accepted colours differently.",
     },
 
     "physical.sheddingLevel": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "akc-bull-terrier-profile",
-          role: "cited",
+          role: "verified",
           locator: "Grooming",
         },
       ],
-      verifiedOn: null,
-      note: "Qualitative editorial estimate; shedding varies between individuals and seasons.",
+      verifiedOn: "2026-11-11",
+      note: "Moderate shedding described in profile grooming resources.",
     },
 
     "physical.droolingLevel": {
-      reliability: "estimate",
-      sources: [],
-      verifiedOn: null,
-      note: "Qualitative editorial estimate; drooling varies between individuals.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "verified",
+          locator: "Breed traits",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Described as low to moderate in profile summaries.",
     },
 
     "physical.distinctiveFeatures": {
@@ -527,7 +563,7 @@ export const bull_terrier: Breed = {
           locator: "Head; height and weight",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "The typical height and weight figures are general breed-profile figures, not official limits.",
     },
 
@@ -544,8 +580,13 @@ export const bull_terrier: Breed = {
           role: "verified",
           locator: "About the Breed",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Breed tendencies do not predict every individual dog's behaviour.",
     },
 
@@ -565,6 +606,123 @@ export const bull_terrier: Breed = {
       ],
       verifiedOn: null,
       note: "The 1–5 values are editorial estimates, not scores published by the cited organisations.",
+    },
+
+    "temperament.scores.affection": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Personality traits",
+        },
+      ],
+      verifiedOn: null,
+      note: "Reflects deep attachment to family.",
+    },
+
+    "temperament.scores.withChildren": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Family life compatibility",
+        },
+      ],
+      verifiedOn: null,
+      note: "Playful but boisterous; requires supervision.",
+    },
+
+    "temperament.scores.withDogs": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Dog-to-dog friendliness",
+        },
+      ],
+      verifiedOn: null,
+      note: "Can be reactive toward other canines without careful management.",
+    },
+
+    "temperament.scores.withStrangers": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Social traits",
+        },
+      ],
+      verifiedOn: null,
+      note: "Generally outgoing or polite with visitors.",
+    },
+
+    "temperament.scores.protectiveness": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Watchdog tendencies",
+        },
+      ],
+      verifiedOn: null,
+      note: "Moderate protective instincts; formidable presence.",
+    },
+
+    "temperament.scores.independence": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Trainability and personality",
+        },
+      ],
+      verifiedOn: null,
+      note: "Strong-willed and independent mindset.",
+    },
+
+    "temperament.scores.trainability": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Trainability rating",
+        },
+      ],
+      verifiedOn: null,
+      note: "Intelligent but requires creative reward-based handling.",
+    },
+
+    "temperament.scores.barking": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Vocal behavior",
+        },
+      ],
+      verifiedOn: null,
+      note: "Generally quiet; barks primarily when alerted.",
+    },
+
+    "temperament.scores.energy": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Activity level",
+        },
+      ],
+      verifiedOn: null,
+      note: "High energy requiring regular physical and mental exercise.",
     },
 
     care: {
@@ -588,8 +746,15 @@ export const bull_terrier: Breed = {
           locator: "Activity Level",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Activity recommendations are qualitative and should be adjusted to age, health and fitness.",
+    },
+
+    "care.exercise.level": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "High exercise need characteristic of an athletic terrier.",
     },
 
     "care.exercise.minutesPerDay": {
@@ -613,7 +778,7 @@ export const bull_terrier: Breed = {
           locator: "Grooming",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -631,7 +796,7 @@ export const bull_terrier: Breed = {
           locator: "Activity Level",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Training suggestions are practical guidance, not a guarantee of behaviour.",
     },
 
@@ -647,18 +812,92 @@ export const bull_terrier: Breed = {
       verifiedOn: null,
       note: "Environmental suitability varies by household, dog, training and daily routine.",
     },
+
     "care.livingEnvironment.apartmentSuitable": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "Apartment suitability cannot be reliably reduced to a breed-wide boolean.",
-},
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Apartment suitability cannot be reliably reduced to a breed-wide boolean.",
+    },
+
+    "care.livingEnvironment.houseWithYardSuitable": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Care and exercise information",
+        },
+      ],
+      verifiedOn: null,
+      note: "Well-suited to homes with secure yards.",
+    },
+
+    "care.livingEnvironment.climates": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Care and exercise information",
+        },
+      ],
+      verifiedOn: null,
+      note: "Short coat requires caution in extreme cold or heat.",
+    },
+
+    "care.livingEnvironment.aloneTimeTolerance": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Care and exercise information",
+        },
+      ],
+      verifiedOn: null,
+      note: "Social breed prone to distress when isolated.",
+    },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+      ],
       verifiedOn: null,
       note: "Nutrition guidance is general and not a veterinary diet prescription.",
+    },
+
+    "nutrition.dietType": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "Nutritionally complete diet formulated for medium active dogs.",
+    },
+
+    "nutrition.feedingFrequency.puppy": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Feeding frequency varies by puppy growth rate and veterinary recommendation.",
+    },
+
+    "nutrition.feedingFrequency.adult": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Adult feeding frequency depends on individual activity and dietary routine.",
+    },
+
+    "nutrition.feedingFrequency.senior": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Senior feeding frequency depends on metabolism, health, and appetite.",
     },
 
     health: {
@@ -675,7 +914,7 @@ export const bull_terrier: Breed = {
           locator: "Heart, kidney, hearing and patella screening guidance",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Health-screening priorities are not a claim that every dog will develop the listed conditions.",
     },
 
@@ -688,8 +927,15 @@ export const bull_terrier: Breed = {
           locator: "Heart, kidney, hearing and patella screening guidance",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "This list highlights breed-relevant screening concerns; it does not rank disease prevalence.",
+    },
+
+    "health.preventiveCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General preventive care guidance.",
     },
 
     "health.recommendedScreenings": {
@@ -706,8 +952,35 @@ export const bull_terrier: Breed = {
           locator: "Heart, kidney, hearing and patella screening guidance",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Discuss the relevance and timing of each test with a veterinarian and breeder.",
+    },
+
+    "health.dentalCare": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Routine teeth-brushing and professional prophylaxis advice",
+        },
+      ],
+      verifiedOn: null,
+      note: "General canine dental care advice.",
+    },
+
+    "health.earCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General canine ear care advice.",
+    },
+
+    "health.skinCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General canine skin care advice.",
     },
 
     suitability: {
@@ -727,12 +1000,65 @@ export const bull_terrier: Breed = {
       verifiedOn: null,
       note: "These are broad editorial recommendations and not guarantees of compatibility.",
     },
+
+    "suitability.firstTimeOwners": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Personality and training",
+        },
+      ],
+      verifiedOn: null,
+      note: "Challenging for novices due to high strength and stubbornness.",
+    },
+
+    "suitability.familiesWithChildren": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Family life compatibility",
+        },
+      ],
+      verifiedOn: null,
+      note: "Affectionate but boisterous; requires adult supervision.",
+    },
+
+    "suitability.seniorOwners": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Activity requirements",
+        },
+      ],
+      verifiedOn: null,
+      note: "Physical strength and activity demands may challenge less mobile handlers.",
+    },
+
+    "suitability.activeOwners": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-bull-terrier-profile",
+          role: "cited",
+          locator: "Activity requirements",
+        },
+      ],
+      verifiedOn: null,
+      note: "Well-suited to active handlers.",
+    },
+
     "suitability.apartmentLiving": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "Suitability depends on the individual dog, exercise, training and housing conditions.",
-},
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Suitability depends on the individual dog, exercise, training and housing conditions.",
+    },
 
     funFacts: {
       reliability: "reliable_source",
@@ -748,7 +1074,7 @@ export const bull_terrier: Breed = {
           locator: "Coat and colour",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -766,10 +1092,10 @@ export const bull_terrier: Breed = {
           locator: "Recommended health screening",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Answers summarise sourced facts and general care guidance in original wording.",
     },
   },
 
-  updatedOn: "2026-10-26",
+  updatedOn: "2026-11-11",
 };
