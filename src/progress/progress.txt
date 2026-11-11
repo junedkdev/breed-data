@@ -92,11 +92,11 @@
 89:belgian_shepherd_dog_(malinois) - CG
 90:bulldog - CG
 91:schapendoes - CG
+92:toy_fox_terrier - CG
+93:sabueso_espanol - CG
+94:american_akita - CG
+95:golden_retriever - CG
 
-92:toy_fox_terrier - C
-93:sabueso_espanol - C
-94:american_akita - C
-95:golden_retriever - C
 96:bull_terrier - C
 97:austrian_pinscher - C
 98:swedish_lapphund - C
@@ -165,11 +165,12 @@
 161:belgian_shepherd_dog_(groenendael) - C
 162:basset_bleu_de_gascogne - C
 163:croatian_sheepdog - C
+164:harrier - C
+165:peruvian_hairless_dog - C
+166:montenegrin_mountain_hound - C
 
-164:harrier
-165:peruvian_hairless_dog
-166:montenegrin_mountain_hound
-167:halden_hound
+167:halden_hound - R
+
 168:caucasian_shepherd_dog
 169:english_springer_spaniel
 170:alaskan_malamute

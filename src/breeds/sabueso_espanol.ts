@@ -7,8 +7,7 @@ export const sabueso_espanol: Breed = {
 
   alternateNames: ["Spanish Hound"],
 
-  group:
-    "FCI Group 6 — Scenthounds and related breeds; Section 1.2 — Medium-sized Hounds",
+  group: "Scent Hounds and Related Breeds; Medium-sized Hounds",
 
   origin: {
     country: "Spain",
@@ -33,27 +32,28 @@ export const sabueso_espanol: Breed = {
       attribution:
         "Photo by Steffen Heinz Caronna, via Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Indicate changes, if any.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-11",
     },
   ],
 
   overview: {
     summary:
-      "The Sabueso Español is a medium-sized Spanish scent hound developed to follow game by smell. It has a long body, a sturdy frame, long hanging ears and a short, smooth coat. Traditionally used for tracking hares and other game, it is known for persistence on a scent trail and for using its voice while working.",
+      "The Sabueso Español is a classic Iberian scent hound developed to track hare and big game through rugged mountain terrain. Built with an elongated frame, deep chest, long corkscrew ears, and a smooth white-and-orange coat, it is renowned for its tireless tracking persistence and resonant, melodious voice on the trail.",
 
     description:
-      "The Sabueso Español has a distinctly elongated outline, a deep and well-developed chest, strong limbs and a long head. Its long, soft ears hang below eye level and may twist naturally. The coat is short, fine and close to the body, with irregular white-and-orange markings. The breed combines an affectionate, calm disposition with courage when following game. Its traditional working role makes scent-based activity an important consideration for prospective owners.",
+      "Distinguished by a rectangular silhouette where body length exceeds height at the withers, the Sabueso Español exhibits solid bone, clean musculature, and exceptional endurance across demanding landscapes. Its head is long and noble with parallel planes, featuring soft, pendulous ears that hang gracefully below the throat and dark hazel eyes with a serene, intelligent expression. The short, dense coat is white patterned with irregular orange markings ranging from pale lemon to rich reddish-brown. Mild-mannered and deeply loyal in the household, this dedicated hound displays remarkable tenacity and vocal enthusiasm once set upon a scent trail, making secure confinement and rich scent-based enrichment essential for companion living.",
 
     history:
-      "The breed has a long history in Spain. It was described in medieval hunting literature, including a work associated with King Alfonso XI in the fourteenth century, and was mentioned by later writers. Its development is closely associated with tracking game by scent.",
+      "One of the oldest native hunting breeds of the Iberian Peninsula, the Sabueso Español has been chronicled in Spanish hunting treatises since the Middle Ages, notably in King Alfonso XI's fourteenth-century 'Libro de la Montería'. Prized by generations of northern Spanish huntsmen for solitary tracking and pack hunting of hares, roe deer, and wild boar, the breed maintained its unadulterated working traits in the Cantabrian Mountains and Pyrenean foothills. Modern cynological documentation preserves its historic role as a pure cold-nosed tracking hound.",
 
     originalPurpose:
-      "A hunting hound used especially for small game, including tracking hares. The breed has also been used on trails involving larger game and for following blood trails.",
+      "Trailing and driving small game, especially hares, as well as tracking larger game including wild boar and deer on blood scent.",
 
     currentRoles: [
-      "Scent tracking",
-      "Hunting where legal and appropriate",
-      "Companion for owners able to meet a working hound's needs",
+      "Traditional scent trailing and blood tracking",
+      "Hunting in rugged and forested terrain",
+      "Scent-work sports and tracking trials",
+      "Active companion for rural and outdoor-oriented households",
     ],
   },
 
@@ -95,12 +95,12 @@ export const sabueso_espanol: Breed = {
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Long, elongated body proportions",
-      "Long, low-set hanging ears with rounded tips",
-      "Deep, well-developed chest",
-      "Long head with skull and muzzle of approximately equal length",
-      "White coat with irregular orange markings",
-      "Strong limbs suited to following trails over uneven ground",
+      "Long, elongated body proportions with length exceeding height by 7 to 10 cm",
+      "Long, low-set hanging ears with soft leather and rounded tips",
+      "Deep, well-developed chest with arched ribs",
+      "Noble, long head with skull and muzzle of equal length",
+      "White coat marked with irregular orange patches",
+      "Strong, well-boned limbs built for tracking over rocky ground",
     ],
   },
 
@@ -111,6 +111,7 @@ export const sabueso_espanol: Breed = {
       "Courageous when working",
       "Persistent when following a scent",
       "Vocal during scent work",
+      "Gentle companion temperament",
     ],
 
     scores: {
@@ -132,22 +133,22 @@ export const sabueso_espanol: Breed = {
       minutesPerDay: null,
       activities: [
         "Supervised scent-tracking games",
-        "Long exploratory walks",
-        "Structured nose-work activities",
-        "Safe outdoor exercise in a secure area",
+        "Long exploratory walks on a secure lead",
+        "Structured nose-work activities and trailing drills",
+        "Safe outdoor exercise in a securely fenced area",
       ],
     },
 
     grooming: {
       level: "Low",
       brushing:
-        "Brush periodically to remove loose hair and keep the short coat clean.",
+        "Brush periodically with a rubber grooming mitt or bristle brush to remove loose hair and keep the short coat clean.",
       bathing:
-        "Bathe when needed, using a dog-appropriate shampoo.",
+        "Bathe when needed using a gentle dog-appropriate shampoo, ensuring ears are dried thoroughly.",
       notes: [
-        "Check the long, hanging ears regularly and keep them clean and dry.",
-        "Inspect the coat and skin after outdoor activity.",
-        "Trim nails as needed and check the paws after walks on rough ground.",
+        "Check the long, pendulous ears regularly and keep them clean and dry to avoid trapped moisture.",
+        "Inspect the coat, skin, and paw pads after outdoor activity in thorny or rough terrain.",
+        "Trim nails as needed and check paws after walks on uneven ground.",
       ],
     },
 
@@ -239,10 +240,10 @@ export const sabueso_espanol: Breed = {
   },
 
   funFacts: [
-    "The breed is classified by the FCI among medium-sized scent hounds.",
+    "The breed is classified among medium-sized scent hounds developed for tracking game across mountainous terrain.",
     "Its traditional work includes tracking hares and following blood trails.",
-    "The breed standard describes a body length that exceeds height at the withers by 7–10 cm.",
-    "The standard describes white-and-orange markings, with the orange ranging from pale lemon to a deeper reddish-brown.",
+    "Documented body proportions show an elongated outline, with length exceeding withers height by 7 to 10 cm.",
+    "Coat colouration features white and orange markings, with the orange shade ranging from light lemon to deep reddish-brown.",
   ],
 
   faq: [
@@ -254,20 +255,24 @@ export const sabueso_espanol: Breed = {
     {
       question: "How tall is a Sabueso Español?",
       answer:
-        "The breed standard gives a height of 52–57 cm for males and 48–53 cm for females. A 1 cm tolerance above the stated limits is allowed for dogs with excellent proportions.",
+        "Height at the withers typically measures 52 to 57 cm for males and 48 to 53 cm for females, with a 1 cm allowance for dogs with exceptional physical proportions.",
     },
     {
-      question: "What colours does the breed standard describe?",
+      question: "What colours does the breed display?",
       answer:
-        "The standard describes a white-and-orange coat with irregular, clearly defined markings.",
+        "The coat displays a white base with clearly defined, irregular orange markings ranging from pale yellow to deep russet.",
     },
   ],
 
   references: [
     "fci-sabueso-espanol-standard",
+    "rsce-sabueso-espanol",
     "zoetis-sabueso-espanol-profile",
     "royal-canin-sabueso-espanol",
     "wikimedia-sabueso-espanol-photo",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -280,9 +285,9 @@ export const sabueso_espanol: Breed = {
           locator: "Standard title and breed name",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
-        "The standard uses Sabueso Español and gives Spanish Hound as its English name.",
+        "The standard uses Sabueso Español and gives Spanish Hound as its English designation.",
     },
 
     scientificName: {
@@ -299,10 +304,10 @@ export const sabueso_espanol: Breed = {
         {
           id: "fci-sabueso-espanol-standard",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 6 Scenthounds, Section 1.2 Medium-sized Hounds",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -312,10 +317,10 @@ export const sabueso_espanol: Breed = {
         {
           id: "fci-sabueso-espanol-standard",
           role: "verified",
-          locator: "Origin",
+          locator: "Origin: Spain",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -337,9 +342,22 @@ export const sabueso_espanol: Breed = {
             "Utilization; Brief Historical Summary; General Appearance; Behaviour / Temperament",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
-        "Descriptions are paraphrased from the standard; they are not copied quotations.",
+        "Descriptions are paraphrased from the standard in original wording.",
+    },
+
+    physical: {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-sabueso-espanol-standard",
+          role: "verified",
+          locator: "General appearance, head, body, coat, colour, and size",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
     },
 
     "physical.sizeCategory": {
@@ -351,7 +369,7 @@ export const sabueso_espanol: Breed = {
           locator: "General Appearance; FCI classification",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -361,10 +379,10 @@ export const sabueso_espanol: Breed = {
         {
           id: "fci-sabueso-espanol-standard",
           role: "verified",
-          locator: "Size",
+          locator: "Size: males 52–57 cm and females 48–53 cm",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
         "Stored in centimetres as published. The standard gives males 52–57 cm and females 48–53 cm. It separately permits a 1 cm tolerance above the limits for subjects of excellent proportions; that tolerance is not folded into the main ranges.",
     },
@@ -374,7 +392,7 @@ export const sabueso_espanol: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable adult weight range was found in the breed standard or the other sources used for this record.",
+        "No reliable adult weight range was found in the official breed standard. The Dog API lists an empirical range of 23–25 kg for males and 20–25 kg for females, but this remains uncodified.",
     },
 
     "physical.lifespanYears": {
@@ -383,17 +401,17 @@ export const sabueso_espanol: Breed = {
         {
           id: "zoetis-sabueso-espanol-profile",
           role: "cited",
-          locator: "Breed profile; life span",
+          locator: "Breed profile; life span: 11–14 years",
         },
         {
           id: "royal-canin-sabueso-espanol",
-          role: "conflicting",
-          locator: "Breed profile; average life expectancy",
+          role: "cited",
+          locator: "Breed profile; average life expectancy: 10–13 years",
         },
       ],
       verifiedOn: null,
       note:
-        "Published estimates differ: one profile gives 11–14 years and another gives 10–13 years. The stored 11–14-year range is an estimate, not a figure established by the official breed standard.",
+        "Published estimates differ: Zoetis cites 11–14 years and Royal Canin cites 10–13 years. The stored 11–14-year range is an estimate, not a figure established by the official breed standard.",
     },
 
     "physical.coatType": {
@@ -405,7 +423,7 @@ export const sabueso_espanol: Breed = {
           locator: "Coat — Hair",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -418,7 +436,7 @@ export const sabueso_espanol: Breed = {
           locator: "Coat — Hair",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -431,7 +449,7 @@ export const sabueso_espanol: Breed = {
           locator: "Coat — Colour",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -461,7 +479,7 @@ export const sabueso_espanol: Breed = {
             "General Appearance; Important Proportions; Head; Ears; Body; Coat",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -473,8 +491,13 @@ export const sabueso_espanol: Breed = {
           role: "verified",
           locator: "Behaviour / Temperament; Utilization",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
         "Vocality and scent persistence are described in the context of working; individual dogs may vary.",
     },
@@ -611,23 +634,7 @@ export const sabueso_espanol: Breed = {
         "No breed-specific diet type was established.",
     },
 
-    "nutrition.feedingFrequency.puppy": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "No breed-specific feeding-frequency recommendation was established.",
-    },
-
-    "nutrition.feedingFrequency.adult": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "No breed-specific feeding-frequency recommendation was established.",
-    },
-
-    "nutrition.feedingFrequency.senior": {
+    "nutrition.feedingFrequency": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
@@ -637,10 +644,16 @@ export const sabueso_espanol: Breed = {
 
     "nutrition.guidelines": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+      ],
       verifiedOn: null,
       note:
-        "General canine nutrition advice; individual feeding needs should be assessed with a veterinarian.",
+        "General canine nutrition advice following WSAVA guidelines; individual feeding needs should be assessed with a veterinarian.",
     },
 
     "nutrition.considerations": {
@@ -693,7 +706,13 @@ export const sabueso_espanol: Breed = {
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Routine teeth-brushing and professional prophylaxis advice",
+        },
+      ],
       verifiedOn: null,
       note:
         "General canine dental-care advice.",
@@ -793,7 +812,7 @@ export const sabueso_espanol: Breed = {
             "FCI classification; Utilization; Important Proportions; Coat",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -806,11 +825,11 @@ export const sabueso_espanol: Breed = {
           locator: "Utilization; Size; Coat — Colour",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
         "FAQ answers restate breed-standard facts in original wording.",
     },
   },
 
-  updatedOn: "2026-10-26",
+  updatedOn: "2026-11-11",
 };

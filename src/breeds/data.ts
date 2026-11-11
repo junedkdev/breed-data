@@ -168,6 +168,9 @@ import { bolognese } from "./bolognese";
 import { belgian_shepherd_dog_groenendael } from "./belgian_shepherd_dog_groenendael";
 import { basset_bleu_de_gascogne } from "./basset_bleu_de_gascogne";
 import { croatian_sheepdog } from "./croatian_sheepdog";
+import { harrier } from "./harrier";
+import { peruvian_hairless_dog } from "./peruvian_hairless_dog";
+import { montenegrin_mountain_hound } from "./montenegrin_mountain_hound";
 
 
 export const breedData: readonly Breed[] = [
@@ -335,4 +338,7 @@ export const breedData: readonly Breed[] = [
   belgian_shepherd_dog_groenendael,
   basset_bleu_de_gascogne,
   croatian_sheepdog,
+  harrier,
+  peruvian_hairless_dog,
+  montenegrin_mountain_hound,
 ];

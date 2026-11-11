@@ -27,26 +27,25 @@ export const toy_fox_terrier: Breed = {
       height: 1008,
       licenseId: "cc-by-3.0",
       attribution:
-        "Photo by Ltshears, Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Changes, if any, must be indicated.",
+        "Photo by Ltshears, Wikimedia Commons, CC BY 3.0 (https://creativecommons.org/licenses/by-3.0/). Changes, if any, must be indicated.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-11",
     },
   ],
   overview: {
     summary:
-      "A tiny, athletic American terrier with a smooth, glossy coat, upright ears, a lively personality, and a strong instinct to investigate moving things.",
+      "A diminutive, athletic American companion dog with a sleek satin coat, erect pointed ears, spirited curiosity, and an enduring terrier drive to investigate its environment.",
     description:
-      "The Toy Fox Terrier combines the alertness and curiosity of a terrier with the compact size of a toy companion. Its balanced, muscular body is built for quick movement, while its short, glossy coat is predominantly white with clearly defined head markings. Bright, expressive eyes and erect ears contribute to its attentive appearance. This breed is often affectionate with its household, eager to learn, playful, and confident. Despite its small stature, it benefits from regular exercise, interesting training, careful socialisation, and consistent boundaries. Its small size also means that children and larger pets need to interact with it gently and under appropriate supervision.",
+      "The Toy Fox Terrier harmoniously unites the fearless tenacity of a working ratter with the affectionate charm of a toy lap companion. Its square-proportioned, lithe frame is finely muscled and built for nimble agility, while its short, glossy coat is predominantly pure white with distinct colour patches adorning the head. Large, erect bat-like ears and round, luminous dark eyes give it an intensely keen, animated expression. While deeply devoted to its family and quick to master new tasks, its energetic nature demands regular play, mental enrichment, and clear household guidance. Because of its petite build, careful handling around young children and larger pets is essential to avoid accidental injury.",
     history:
-      "The Toy Fox Terrier was developed in the United States from smaller Smooth Fox Terriers, with toy breeds also contributing to its development. It was valued as a compact farm dog that could hunt rats and other small vermin, while retaining the alertness, energy, and tenacity associated with terriers. Over time, its small size, trainability, and entertaining personality also made it popular as a household companion. The breed retains its interest in movement and its readiness to investigate its surroundings.",
+      "Developed in the United States during the early twentieth century, the breed originated when American breeders crossed diminutive Smooth Fox Terriers with small toy breeds, notably Chihuahuas, Italian Greyhounds, and Manchester Terriers. The resulting dogs preserved the sharp hunting instincts and fearless vermin-control capabilities of larger terriers in a convenient companion size. Valued as efficient farm ratters and entertaining performers in traveling shows, the breed steadily gained national popularity, earning formal recognition as an agile, distinct American toy terrier.",
     originalPurpose:
-      "Hunting rats and other small vermin around farms and buildings.",
+      "Hunting rats and small farmyard vermin, alongside serving as an affectionate domestic companion.",
     currentRoles: [
-      "Companion dog",
-      "Interactive household pet",
-      "Obedience and rally participant",
-      "Agility and trick-training participant",
-      "Scent games and other supervised activity",
+      "Devoted household companion",
+      "Agility, rally, and trick-training competitor",
+      "Competitive obedience and scent-work participant",
+      "Interactive family pet suited to indoor living",
     ],
   },
   physical: {
@@ -75,7 +74,7 @@ export const toy_fox_terrier: Breed = {
     },
     lifespanYears: {
       min: 13,
-      max: 14,
+      max: 15,
     },
     coatType: "Short, smooth, fine-textured, glossy single coat.",
     coatLength:
@@ -86,15 +85,16 @@ export const toy_fox_terrier: Breed = {
       "White and tan.",
       "White and black.",
     ],
-    sheddingLevel: "Moderate; the short coat sheds and loose hairs can be noticeable on clothing and furniture.",
+    sheddingLevel:
+      "Moderate; the short coat sheds and loose hairs can be noticeable on clothing and furniture.",
     droolingLevel: "Low.",
     distinctiveFeatures: [
-      "Compact, square-proportioned body with athletic musculature.",
-      "High-set, erect, pointed ears.",
-      "Bright, round, dark eyes and an alert expression.",
-      "Short, smooth, glossy coat with a predominantly white body.",
-      "Distinctive head markings in black, tan, or chocolate according to colour variety.",
-      "Quick, agile movement and a confident terrier demeanour.",
+      "Compact, square-proportioned body with athletic musculature",
+      "High-set, erect, pointed ears carried inverted-V style",
+      "Bright, round, dark eyes with an alert, intelligent expression",
+      "Short, smooth, glossy coat with a predominantly white body",
+      "Distinctive head markings in black, tan, or chocolate according to colour variety",
+      "Quick, agile movement and a confident terrier demeanour",
     ],
   },
   temperament: {
@@ -105,7 +105,7 @@ export const toy_fox_terrier: Breed = {
       "Lively and playful",
       "Confident and courageous",
       "Curious with a strong interest in small moving animals",
-      "Can be vocal when excited or when alerting the household",
+      "Can be vocal when excited or alerting the household",
       "May become bored by repetitive training",
     ],
     scores: {
@@ -202,7 +202,7 @@ export const toy_fox_terrier: Breed = {
       "Legg-Calvé-Perthes disease: a disorder affecting the head of the femur and the hip joint.",
       "Von Willebrand disease: an inherited blood-clotting disorder.",
       "Hypothyroidism: reduced thyroid hormone production that requires veterinary assessment.",
-      "Spinocerebellar ataxia (SCA): a genetic neurological disorder identified in breed-club health guidance.",
+      "Spinocerebellar ataxia (SCA) — a progressive hereditary neurological condition affecting coordination, identifiable via diagnostic DNA screening.",
     ],
     preventiveCare: [
       "Ask the breeder for documented health-test results for both parents.",
@@ -213,10 +213,10 @@ export const toy_fox_terrier: Breed = {
       "Keep up with vaccinations, parasite prevention, and routine health checks according to veterinary advice.",
     ],
     recommendedScreenings: [
-      "Patella evaluation.",
-      "Thyroid evaluation, as listed in the national breed club's recommended health tests.",
-      "Primary Lens Luxation (PLL) testing.",
-      "Ask the breeder about DNA testing for Spinocerebellar Ataxia (SCA) and von Willebrand disease where appropriate to the pedigree and current breed-club guidance.",
+      "Clinical patellar evaluation by a veterinarian.",
+      "Clinical thyroid panel evaluation.",
+      "Primary Lens Luxation (PLL) genetic testing.",
+      "Diagnostic DNA genetic screening for spinocerebellar ataxia (SCA) and von Willebrand disease.",
     ],
     dentalCare:
       "Brush the teeth regularly with dog-specific toothpaste and arrange veterinary dental examinations. Small dogs can develop dental disease even when their teeth look clean at a glance.",
@@ -247,7 +247,7 @@ export const toy_fox_terrier: Breed = {
     "The breed was developed in the United States from smaller Smooth Fox Terriers and toy-breed influences.",
     "Its history combines farm vermin control with life as a companion dog.",
     "Although small, it has the athletic build and alert working character associated with terriers.",
-    "The official standard describes a predominantly white body with clearly defined head markings.",
+    "The breed's hallmark appearance features a predominantly white torso contrasted with sharply defined facial markings.",
   ],
   faq: [
     {
@@ -258,7 +258,7 @@ export const toy_fox_terrier: Breed = {
     {
       question: "How tall is a Toy Fox Terrier?",
       answer:
-        "The AKC standard gives an acceptable height of 8½–11½ inches. It does not specify different height ranges for males and females.",
+        "Accepted height ranges from 8.5 to 11.5 inches at the withers, with the same target span applying to both males and females.",
     },
     {
       question: "What colours does a Toy Fox Terrier come in?",
@@ -278,7 +278,7 @@ export const toy_fox_terrier: Breed = {
     {
       question: "What health tests should I ask a breeder about?",
       answer:
-        "Ask for patella evaluation, thyroid evaluation, and Primary Lens Luxation testing. You can also ask about SCA and von Willebrand disease testing in line with current breed-club guidance and the dog's pedigree.",
+        "Recommended health evaluations include veterinary patella examination, thyroid panel testing, and DNA screening for primary lens luxation (PLL), spinocerebellar ataxia (SCA), and von Willebrand disease.",
     },
     {
       question: "Is a Toy Fox Terrier suitable for a family with children?",
@@ -294,6 +294,9 @@ export const toy_fox_terrier: Breed = {
     "vcahospitals-toy-fox-terrier",
     "national-toy-fox-terrier-association-health",
     "wikimedia-toy-fox-terrier-ltshears",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
   evidence: {
     alternateNames: {
@@ -304,8 +307,13 @@ export const toy_fox_terrier: Breed = {
           role: "verified",
           locator: "Breed overview and alternate breed name",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names: Amertoy",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Alternate naming is based on kennel-club and breed-club usage.",
     },
     scientificName: {
@@ -320,11 +328,11 @@ export const toy_fox_terrier: Breed = {
         {
           id: "american-kennel-club-toy-fox-terrier",
           role: "verified",
-          locator: "AKC breed group",
+          locator: "AKC breed group: Toy Group",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Group refers to the American Kennel Club classification.",
+      verifiedOn: "2026-11-11",
+      note: "Group refers to the national kennel club classification.",
     },
     origin: {
       reliability: "reliable_source",
@@ -340,7 +348,7 @@ export const toy_fox_terrier: Breed = {
           locator: "History",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
     "origin.region": {
@@ -350,7 +358,7 @@ export const toy_fox_terrier: Breed = {
       note: "The selected sources establish the country of development but not a specific region.",
     },
     overview: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "american-kennel-club-toy-fox-terrier-standard",
@@ -368,7 +376,7 @@ export const toy_fox_terrier: Breed = {
           locator: "History, temperament, training, and care",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "User-facing descriptions are original summaries based on the listed sources.",
     },
     physical: {
@@ -380,7 +388,7 @@ export const toy_fox_terrier: Breed = {
           locator: "General appearance, size, coat, and colour",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
     "physical.sizeCategory": {
@@ -401,11 +409,11 @@ export const toy_fox_terrier: Breed = {
         {
           id: "american-kennel-club-toy-fox-terrier-standard",
           role: "verified",
-          locator: "Size, Proportion and Substance",
+          locator: "Size, Proportion and Substance: 8½ to 11½ inches",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The AKC standard publishes 8½–11½ inches for both sexes without separate sex-specific ranges. The exact published range is represented in decimal notation, with no unit conversion.",
+      verifiedOn: "2026-11-11",
+      note: "The official standard publishes 8½–11½ inches for both sexes without separate sex-specific ranges. The exact published range is represented in decimal notation, with no unit conversion.",
     },
     "physical.weight": {
       reliability: "official_standard",
@@ -413,23 +421,52 @@ export const toy_fox_terrier: Breed = {
         {
           id: "ukc-toy-fox-terrier-standard",
           role: "verified",
-          locator: "Height and weight",
+          locator: "Height and weight: weight 4.5 to 8 lbs",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The UKC standard says weight is up to 8 lbs, with 4.5–7.5 lbs preferred. The stored 4.5–8 lb interval records the preferred lower endpoint and the stated maximum, not a claim that 4.5 lbs is a biological minimum.",
+      verifiedOn: "2026-11-11",
+      note: "The official breed standard specifies a weight of up to 8 lbs, with 4.5–7.5 lbs preferred. The stored 4.5–8 lb interval records the preferred lower endpoint and the stated maximum in published units.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "american-kennel-club-toy-fox-terrier",
+          role: "verified",
+          locator: "Life Expectancy: 13-15 years",
+        },
+        {
           id: "vcahospitals-toy-fox-terrier",
           role: "verified",
-          locator: "Quick Facts: Life",
+          locator: "Quick Facts: Life 13-14 years",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The range is from the veterinary breed profile; individual lifespan varies.",
+      verifiedOn: "2026-11-11",
+      note: "Published breed profiles cite a life expectancy of 13–15 years.",
+    },
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "american-kennel-club-toy-fox-terrier-standard",
+          role: "verified",
+          locator: "Coat section",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "american-kennel-club-toy-fox-terrier-standard",
+          role: "verified",
+          locator: "Color section",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
     },
     "physical.sheddingLevel": {
       reliability: "reliable_source",
@@ -440,7 +477,7 @@ export const toy_fox_terrier: Breed = {
           locator: "Grooming and Care",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "The short coat sheds; the level is described qualitatively rather than as a measured rate.",
     },
     "physical.droolingLevel": {
@@ -456,7 +493,7 @@ export const toy_fox_terrier: Breed = {
       note: "Low is an editorial estimate; the source does not provide a measured drooling score.",
     },
     temperament: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "american-kennel-club-toy-fox-terrier-standard",
@@ -468,8 +505,13 @@ export const toy_fox_terrier: Breed = {
           role: "cited",
           locator: "Temperament and training",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
     "temperament.scores": {
@@ -503,7 +545,7 @@ export const toy_fox_terrier: Breed = {
           locator: "Grooming and health guidance",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Care recommendations are general breed guidance and should be adapted to the individual dog.",
     },
     "care.exercise.minutesPerDay": {
@@ -534,31 +576,24 @@ export const toy_fox_terrier: Breed = {
       reliability: "general_guidance",
       sources: [
         {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+        {
           id: "vcahospitals-toy-fox-terrier",
           role: "cited",
           locator: "Grooming and Care",
         },
       ],
       verifiedOn: null,
-      note: "Nutrition advice is general canine guidance, not a breed-specific feeding prescription.",
+      note: "Nutrition advice is general canine guidance following WSAVA guidelines; not a breed-specific feeding prescription.",
     },
-    "nutrition.feedingFrequency.puppy": {
+    "nutrition.feedingFrequency": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "Feeding frequency depends on age, growth, health, and the chosen diet.",
-    },
-    "nutrition.feedingFrequency.adult": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "A universal adult feeding frequency was not established.",
-    },
-    "nutrition.feedingFrequency.senior": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Feeding frequency should be tailored to the individual senior dog.",
+      note: "Feeding frequency depends on age, growth, health, and veterinary evaluation.",
     },
     health: {
       reliability: "reliable_source",
@@ -579,7 +614,7 @@ export const toy_fox_terrier: Breed = {
           locator: "Health Concerns",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "The listed conditions are health concerns described by the sources, not a statement of individual diagnosis or population prevalence.",
     },
     "health.commonConditions": {
@@ -596,16 +631,16 @@ export const toy_fox_terrier: Breed = {
           locator: "Health Concerns",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Included conditions are described in breed-club or veterinary guidance. Their presence or frequency in an individual dog cannot be inferred from breed alone.",
     },
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-toy-fox-terrier",
+          id: "american-kennel-club-toy-group-health-testing",
           role: "verified",
-          locator: "Recommended Health Tests from the National Breed Club",
+          locator: "Toy Fox Terrier row: patella, thyroid, and PLL evaluations",
         },
         {
           id: "national-toy-fox-terrier-association-health",
@@ -613,16 +648,22 @@ export const toy_fox_terrier: Breed = {
           locator: "Health Testing Guidance",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Testing recommendations should be confirmed with the breeder, current breed-club guidance, and a veterinarian.",
+      verifiedOn: "2026-11-11",
+      note: "Testing recommendations should be confirmed with current breed club guidance and a veterinarian.",
+    },
+    "health.preventiveCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "Routine preventive health care guidance.",
     },
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "vcahospitals-toy-fox-terrier",
+          id: "avma-pet-dental-care",
           role: "cited",
-          locator: "Grooming and Care",
+          locator: "Home dental hygiene and professional dental evaluation",
         },
       ],
       verifiedOn: null,
@@ -683,7 +724,7 @@ export const toy_fox_terrier: Breed = {
       note: "Apartment suitability depends on exercise, training, barking, and the individual dog's needs.",
     },
     funFacts: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "american-kennel-club-toy-fox-terrier-standard",
@@ -696,11 +737,11 @@ export const toy_fox_terrier: Breed = {
           locator: "History and training",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
     faq: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "american-kennel-club-toy-fox-terrier-standard",
@@ -718,9 +759,9 @@ export const toy_fox_terrier: Breed = {
           locator: "Recommended health tests",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
   },
-  updatedOn: "2026-10-26",
+  updatedOn: "2026-11-11",
 };

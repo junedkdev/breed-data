@@ -4,16 +4,21 @@ export const golden_retriever: Breed = {
   slug: "golden-retriever",
   name: "Golden Retriever",
   scientificName: null,
-  alternateNames: ["Golden", "Golden Retriever"],
+
+  alternateNames: ["Golden"],
+
   group: "Sporting Group",
+
   origin: {
     country: "United Kingdom",
     region: "Scotland",
   },
+
   images: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Golden-retriever-dog.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Golden-retriever-dog.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Golden-retriever-dog.jpg",
       title: "Golden-retriever-dog.jpg",
       description: "Photograph of a Golden Retriever.",
       creator: "Karen Arnold",
@@ -23,30 +28,38 @@ export const golden_retriever: Breed = {
       width: 1920,
       height: 1440,
       licenseId: "cc0-1.0",
-      attribution: "Photo by Karen Arnold, via Wikimedia Commons; CC0 1.0. Attribution is provided voluntarily.",
+      attribution:
+        "Photo by Karen Arnold, via Wikimedia Commons; CC0 1.0. Attribution is provided voluntarily.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-11",
     },
   ],
+
   overview: {
     summary:
-      "A friendly, athletic Scottish gundog known for its golden coat, willingness to work with people, and enthusiasm for retrieving, swimming, training, and outdoor activities.",
+      "A gentle, athletic gundog developed in the Scottish Highlands, celebrated for its golden water-repellent coat, amiable disposition, and eagerness to work closely with humans in retrieving, service roles, and family life.",
+
     description:
-      "The Golden Retriever is a medium-to-large, powerfully built sporting dog with a balanced frame, kind expression, drop ears, and a dense double coat that protects it during outdoor work. Goldens are typically sociable, responsive to training, and keen to participate in family life. They were developed as retrieving dogs, and many retain a strong interest in carrying objects, fetching, swimming, and scent-based games. Their friendly reputation does not remove the need for early training, supervision around children, regular exercise, and a long-term grooming commitment. This breed generally suits households that can provide daily interaction and activity rather than leaving the dog isolated or under-stimulated for long periods.",
+      "The Golden Retriever is a well-proportioned, powerful sporting dog distinguished by a broad skull, kind and intelligent eyes, short drop ears, and a dense, water-repellent double coat. Highly social and responsive to positive training methods, Goldens thrive on active participation in household routines and purposeful outdoor activities. Bred to retrieve waterfowl and upland game across rugged land and cold water, they possess an innate desire to carry objects, swim, and explore scents. While renowned for their patient and cheerful nature, they require consistent early guidance, ample daily exercise, and regular grooming to prevent matting and manage seasonal shedding.",
+
     history:
-      "The breed was developed in Scotland as a gundog for retrieving game, particularly in settings where a capable land-and-water retriever was useful. Historical records from the Guisachan estate in Inverness-shire document the development of the breed during the nineteenth century. The Golden Retriever later became established as both a working dog and a companion, and is now also seen in assistance work, search activities, field sports, and canine competitions.",
+      "The breed originated in mid-nineteenth-century Scotland at the Guisachan estate in Glen Affric, Inverness-shire, founded by Dudley Marjoribanks (later Lord Tweedmouth). Seeking a superior retriever suited to the wet, mountainous Scottish terrain, Marjoribanks crossed a yellow wavy-coated retriever named Nous with a Tweed Water Spaniel bitch named Belle. Subsequent deliberate crosses introduced Irish Setter, Bloodhound, and wavy- and flat-coated retrievers to refine tracking ability, nose sensitivity, and biddability. Today, the Golden Retriever excels not only as a classic hunting retriever but also as a premier guide dog, search-and-rescue canine, and cherished household companion.",
+
     originalPurpose:
-      "Retrieving shot game for hunters, including work on land and around water.",
+      "Locating and retrieving waterfowl and upland game undamaged from land and water during shooting excursions.",
+
     currentRoles: [
       "Family companion",
       "Hunting and field retriever",
-      "Assistance and guide-dog work",
-      "Search and rescue work",
-      "Obedience, agility, tracking, and other canine sports",
+      "Assistance and guide dog for individuals with disabilities",
+      "Search and rescue detection dog",
+      "Canine performance sports including agility, obedience, and tracking",
     ],
   },
+
   physical: {
-    sizeCategory: "Medium to large",
+    sizeCategory: "Large",
+
     height: {
       unit: "in",
       male: {
@@ -58,6 +71,7 @@ export const golden_retriever: Breed = {
         max: 22.5,
       },
     },
+
     weight: {
       unit: "lb",
       male: {
@@ -69,47 +83,56 @@ export const golden_retriever: Breed = {
         max: 65,
       },
     },
+
     lifespanYears: {
       min: 10,
       max: 12,
     },
+
     coatType:
-      "Dense double coat with a water-resistant outer coat and insulating undercoat.",
+      "Dense, water-repellent double coat with a straight or wavy firm outer layer and a thick undercoat",
+
     coatLength:
-      "Medium-length, straight or wavy outer coat with feathering on the neck, legs, underside, and tail.",
+      "Medium",
+
     coatColors: [
-      "Dark golden",
+      "Dark Golden",
       "Golden",
-      "Light golden",
+      "Light Golden",
     ],
+
     sheddingLevel:
-      "Moderate throughout much of the year, with heavier seasonal shedding that may require daily brushing.",
+      "Moderate throughout the year, with heavy seasonal shedding in spring and autumn",
+
     droolingLevel:
-      "Usually low to moderate, although individual dogs may drool more around food, after exercise, or in warm weather.",
+      "Low to moderate, primarily observed after vigorous exertion, excitement, or around food",
+
     distinctiveFeatures: [
-      "Balanced, athletic body suited to sustained retrieving work.",
-      "Broad head with a friendly, intelligent expression.",
-      "Medium-sized drop ears set near eye level.",
-      "Dense double coat with feathering on the body and tail.",
-      "Strong, muscular tail carried with a lively action.",
-      "Webbed-feeling, well-padded feet that support outdoor activity and swimming.",
+      "Broad, well-chiselled head with a friendly, eager facial expression",
+      "Medium-sized drop ears lying close to the cheeks and set just above eye level",
+      "Dense, water-resistant double coat with distinctive feathering on the neck, thighs, legs, and tail",
+      "Substantial bone and muscular, balanced frame built for sustained swimming and retrieving",
+      "Thick, muscular tail carried level with the back with a characteristic lively action",
+      "Round, compact feet with thick pads suited to diverse hunting terrain",
     ],
   },
+
   temperament: {
     traits: [
-      "Typically friendly and sociable",
-      "Affectionate with familiar people",
-      "Intelligent and responsive to reward-based training",
-      "Usually eager to cooperate with a handler",
-      "Playful and often enthusiastic about retrieving",
-      "Energetic and suited to active households",
-      "Often welcoming toward unfamiliar people",
-      "May remain excitable and mouthy during adolescence",
+      "Friendly",
+      "Intelligent",
+      "Devoted",
+      "Reliable",
+      "Eager to please",
+      "Confident",
+      "Gentle-natured",
+      "Enthusiastic retriever",
     ],
+
     scores: {
       affection: 5,
       withChildren: 5,
-      withDogs: 4,
+      withDogs: 5,
       withStrangers: 5,
       protectiveness: 2,
       independence: 2,
@@ -118,180 +141,203 @@ export const golden_retriever: Breed = {
       energy: 4,
     },
   },
+
   care: {
     exercise: {
       level:
-        "Moderate to high. Adult dogs generally need daily walks, active play, and opportunities to use their retrieving and problem-solving skills. Exercise needs vary with age, health, fitness, and individual temperament.",
+        "High — adult dogs require regular daily physical exertion and purposeful mental stimulation to stay healthy and contented.",
       minutesPerDay: null,
       activities: [
-        "Brisk walks and hikes appropriate to the dog's fitness",
-        "Fetch and controlled retrieving games",
-        "Swimming where safe and supervised",
-        "Reward-based obedience and trick training",
-        "Scent games and tracking activities",
-        "Agility or other suitable canine sports",
+        "Brisk daily walks and trail hikes",
+        "Supervised swimming and water-retrieving sessions",
+        "Interactive games of fetch with balls or dummies",
+        "Positive-reinforcement obedience and trick routines",
+        "Scent-tracking exercises and food-dispensing puzzle toys",
+        "Dog sports including agility, rally, and dock diving",
       ],
     },
+
     grooming: {
       level:
-        "Moderate, increasing during seasonal shedding.",
+        "Moderate, requiring daily attention during heavy seasonal coat transitions.",
       brushing:
-        "Brush thoroughly once or twice a week in ordinary periods and more frequently during heavy shedding. Check behind the ears, feathering, tail, and other areas where tangles can form.",
+        "Brush two to three times weekly with a slicker brush and undercoat rake, increasing to daily sessions during shedding seasons to remove dead fur and prevent mats behind the ears and feathering.",
       bathing:
-        "Bathe when needed using a dog-appropriate shampoo. Dry the coat thoroughly, especially after swimming or bathing, and avoid excessive bathing that irritates the skin.",
+        "Bathe every few months or as needed when soiled, using a gentle canine shampoo and drying the thick coat thoroughly to prevent skin irritation.",
       notes: [
-        "Expect loose hair around the home, especially during seasonal coat changes.",
-        "Use a suitable brush or comb to remove loose undercoat and prevent tangles.",
-        "Check the ears regularly, particularly after swimming, and seek veterinary advice if there is redness, odour, discharge, or persistent scratching.",
-        "Trim nails as needed and brush teeth regularly.",
-        "Inspect the skin beneath the coat during grooming for irritation, lumps, parasites, or developing hot spots.",
-        "Avoid shaving the double coat unless a veterinarian recommends clipping for a specific medical reason.",
+        "Routinely inspect and dry the drop ears, especially after swimming, to minimize the risk of trapped moisture and ear infections.",
+        "Regularly trim nails to prevent splaying and discomfort during walking.",
+        "Maintain daily dental hygiene using canine-formulated toothpaste and arrange professional dental assessments as advised by a veterinarian.",
+        "Never shave the insulating double coat unless specifically directed by a veterinarian for medical intervention.",
+        "Examine the skin and coat for hot spots, burrs, ticks, or irritation after field excursions.",
       ],
     },
+
     training: {
       difficulty:
-        "Generally responsive to training, especially when lessons are positive, consistent, and rewarding. Their enthusiasm can lead to jumping, pulling, or over-excitement if calm behaviour is not taught.",
+        "Easy to moderate — highly biddable and responsive to positive reinforcement, though exuberant adolescent energy requires consistent boundaries.",
       tips: [
-        "Start reward-based training and household routines early.",
-        "Teach loose-leash walking, recall, settling, and polite greetings before the dog becomes large and strong.",
-        "Use retrieving games, food puzzles, and scent activities to provide mental engagement.",
-        "Keep sessions varied and short enough to maintain interest, then gradually increase distractions.",
-        "Reward calm behaviour as well as active performance so the dog learns to relax indoors.",
-        "Supervise play and teach a reliable drop or trade cue to manage objects safely.",
+        "Emphasize reward-based training techniques utilizing treats, play, and praise rather than harsh corrections.",
+        "Establish loose-leash walking, reliable recall, and four-paws-on-the-floor greetings early to manage exuberant growth.",
+        "Direct natural mouthing and carrying instincts toward appropriate toys and safe chews.",
+        "Incorporate calm settling routines indoors alongside energetic outdoor activities.",
+        "Maintain mental challenge through progressive scent games, retrieval drills, and obedience sequences.",
       ],
       socialization:
-        "Introduce the puppy gradually and positively to different people, friendly dogs, handling, household sounds, transport, and everyday environments. Continue practising throughout adulthood, and supervise interactions with children and unfamiliar dogs rather than assuming every individual will behave identically.",
+        "Introduce young dogs gently to varied environments, diverse people, respectful dogs, and novel sights and sounds, continuing positive exposure through maturity to foster balanced confidence.",
     },
+
     livingEnvironment: {
       apartmentSuitable: true,
       houseWithYardSuitable: true,
       climates: [
-        "Cool climates",
         "Temperate climates",
-        "Warm climates with shade, ventilation, fresh water, and exercise scheduled for cooler parts of the day",
+        "Cool and cold climates with ample outdoor protection",
+        "Warm climates with air conditioning, plentiful shade, fresh water, and exercise scheduled during cooler morning and evening hours",
       ],
       aloneTimeTolerance:
-        "Often prefers company and regular participation in family activities. Gradual alone-time training is important; prolonged isolation or insufficient enrichment may contribute to distress or unwanted behaviour.",
+        "Low to moderate — thrives on human companionship and can develop separation anxiety or destructive chewing habits if left alone for prolonged periods without enrichment.",
     },
   },
+
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity, and health needs.",
+      "High-quality commercial or balanced home-prepared diet formulated for large sporting breeds",
+
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
+
     guidelines:
-      "Set portions according to the food's energy content, the dog's age, activity, and body condition, then adjust with veterinary guidance. Measure meals rather than relying on free-feeding, monitor weight regularly, and keep clean drinking water available. Nutritional needs change during growth, adulthood, pregnancy, ageing, and illness.",
+      "Provide a nutritionally complete diet tailored to the dog's life stage, activity demands, and physical condition. Accurately measure meals rather than free-feeding, and ensure constant access to clean, fresh water.",
+
     considerations: [
-      "Monitor body condition and weight because excess weight can increase strain on joints.",
-      "Account for training treats and chews when calculating daily food intake.",
-      "Choose a diet labelled complete and balanced for the appropriate life stage.",
-      "Avoid abrupt diet changes unless medically indicated; transition foods gradually when possible.",
-      "Ask a veterinarian before using supplements or therapeutic diets.",
-      "Discuss an appropriate feeding and activity routine with a veterinarian if the dog is gaining weight or has digestive symptoms.",
+      "Carefully monitor caloric intake and body condition score to prevent obesity, which places excess stress on joints and exacerbates dysplasia.",
+      "Feed large-breed puppy formulations that regulate calcium and phosphorus levels to support steady skeletal growth.",
+      "Factor all training treats into the total daily caloric allowance to avoid unintended weight gain.",
+      "Avoid vigorous exercise immediately before or after substantial meals to help mitigate gastric dilatation-volvulus risks.",
+      "Consult a veterinarian regarding diet modifications or nutritional adjustments as the dog ages or health needs shift.",
     ],
+
     note:
-      "There is no single meal count or portion size that is correct for every Golden Retriever. Establish an individual feeding plan with a veterinarian, particularly during puppy growth or when managing weight or disease.",
+      "These suggestions provide general nutritional guidance; specific caloric targets and feeding routines should be customized with a veterinary professional.",
   },
+
   health: {
     overview:
-      "Golden Retrievers can live active lives, but responsible care includes routine veterinary examinations and attention to inherited and acquired conditions. Breed-club screening guidance highlights hip and elbow health, heart examinations, eye examinations, and specific inherited disease testing for breeding dogs. Screening reduces some breeding risks but cannot guarantee that an individual dog will remain free of disease.",
+      "While Golden Retrievers are active and resilient dogs, they are predisposed to specific hereditary conditions including joint dysplasias, cardiac disorders, hereditary eye diseases, and certain cancers. Health screening of breeding parents significantly reduces hereditary risks, and proactive veterinary care helps ensure early detection and management.",
+
     commonConditions: [
-      "Hip dysplasia, a developmental joint condition that can contribute to pain and arthritis.",
-      "Elbow dysplasia, a group of developmental elbow disorders.",
-      "Eye conditions, including inherited or juvenile eye disease; specific risks vary by line and diagnosis.",
-      "Cardiac disease, including subvalvular aortic stenosis.",
-      "Neuronal ceroid lipofuscinosis 5 (NCL5), an inherited neurological condition for which DNA testing is recommended in breeding guidance.",
-      "Skin and ear problems, which may include irritation or infection and should be assessed when persistent.",
-      "Obesity, which can worsen mobility and general health when energy intake consistently exceeds requirements.",
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Subvalvular aortic stenosis (SAS)",
+      "Hereditary eye conditions including pigmentary uveitis, cataracts, and progressive retinal atrophy (PRA)",
+      "Neuronal ceroid lipofuscinosis 5 (NCL5)",
+      "Skin conditions and atopic allergies",
+      "Hypothyroidism",
+      "Gastric dilatation-volvulus (bloat)",
     ],
+
     preventiveCare: [
-      "Arrange regular veterinary wellness examinations and keep vaccinations and parasite prevention appropriate to local risk.",
-      "Maintain a healthy body condition and increase exercise gradually, particularly during growth.",
-      "Discuss hip, elbow, eye, cardiac, and relevant DNA screening records when selecting a puppy or evaluating a breeding dog.",
-      "Seek veterinary assessment for persistent lameness, exercise intolerance, eye changes, recurrent ear problems, or skin irritation.",
-      "Learn the signs of an emergency, including sudden abdominal swelling, repeated unproductive retching, collapse, or severe breathing difficulty.",
-      "Use age-appropriate dental care, parasite control, and screening based on the dog's individual history.",
+      "Schedule regular veterinary wellness checkups and maintain current vaccinations and parasite prevention.",
+      "Keep the dog at a lean, healthy body condition throughout life to protect orthopedic joint health.",
+      "Discuss documented hip, elbow, cardiac, and ophthalmologic evaluations of both parents when acquiring a puppy.",
+      "Familiarize yourself with the clinical signs of gastric dilatation-volvulus and seek immediate emergency veterinary attention if suspected.",
+      "Maintain consistent dental brushing, ear hygiene, and routine monitoring of skin and lumps.",
     ],
+
     recommendedScreenings: [
-      "Hip evaluation for breeding dogs",
-      "Elbow evaluation for breeding dogs",
-      "Cardiac examination for breeding dogs",
-      "Ophthalmologist examination for breeding dogs",
-      "NCL5 DNA test as recommended by breed-club health guidance",
+      "Radiographic hip evaluation for joint conformation",
+      "Radiographic elbow evaluation for developmental dysplasia",
+      "Cardiovascular examination by a board-certified veterinary cardiologist",
+      "Comprehensive eye examination by a board-certified veterinary ophthalmologist",
+      "DNA testing for neuronal ceroid lipofuscinosis 5 (NCL5) and progressive retinal atrophy mutations",
     ],
+
     dentalCare:
-      "Brush the teeth regularly with dog-safe toothpaste. Dental chews may supplement but should not replace brushing or professional examinations. Ask a veterinarian to assess persistent bad breath, gum bleeding, oral pain, or difficulty eating.",
+      "Brush teeth daily with dog-specific enzymatic toothpaste, provide approved dental chews, and arrange professional dental cleanings as recommended by a veterinarian.",
+
     earCare:
-      "Inspect the drop ears regularly, especially after swimming or bathing. Keep them dry and clean only with products recommended for dogs; seek veterinary care for odour, redness, discharge, head shaking, or persistent scratching.",
+      "Inspect and clean the pendulous ears weekly and dry them thoroughly after swimming or bathing; seek prompt veterinary attention for redness, foul odour, or frequent head-shaking.",
+
     skinCare:
-      "Part the coat during grooming to check for redness, parasites, lumps, damp or irritated areas, and mats. Persistent itching, recurrent hot spots, hair loss, or inflamed skin warrant veterinary assessment rather than repeated home treatment.",
+      "Regularly part the coat to check for hot spots, damp eczema, parasites, or inflammation, and consult a veterinarian for persistent scratching, hair loss, or recurrent ear or skin infections.",
   },
+
   suitability: {
     firstTimeOwners: true,
     familiesWithChildren: true,
     seniorOwners: null,
     activeOwners: true,
     apartmentLiving: true,
+
     idealFor: [
-      "Households that want a sociable companion and can provide daily activity.",
-      "People interested in retrieving games, swimming, hiking, training, or canine sports.",
-      "Owners willing to manage regular brushing, seasonal shedding, and routine veterinary care.",
-      "Families prepared to teach manners, supervise child-dog interactions, and provide consistent training.",
+      "Active households seeking a sociable, affectionate companion for outdoor activities and family life",
+      "Owners enthusiastic about participating in retrieving games, swimming, hiking, or canine performance sports",
+      "Families prepared to commit to regular brushing, coat maintenance, and vacuuming loose seasonal hair",
+      "Handlers who enjoy positive-reinforcement training and daily interactive engagement",
     ],
+
     notIdealFor: [
-      "People who need a low-shedding dog or cannot tolerate loose hair around the home.",
-      "Households unable to provide regular exercise, training, and companionship.",
-      "Owners who expect a puppy to be calm and self-sufficient without structured training.",
-      "People unwilling to budget for routine veterinary care and potential breed-associated health screening.",
+      "Households seeking a hypoallergenic dog or individuals unwilling to tolerate regular shedding and pet hair",
+      "Owners who cannot provide consistent daily exercise and interactive companionship",
+      "Environments where the dog would be isolated outdoors or left alone for extended periods without mental stimulation",
+      "Individuals looking for an aggressive protection dog or detached guardian",
     ],
   },
+
   funFacts: [
-    "The breed was developed in Scotland for retrieving game, including work around water.",
-    "The Golden Retriever's soft mouth and retrieving motivation are useful working traits when properly trained.",
-    "Goldens can work as companions, sporting dogs, assistance dogs, and participants in search activities.",
-    "Their dense double coat helps protect them outdoors but also means regular grooming and seasonal shedding.",
+    "The foundation of the breed trace to Guisachan in Scotland, where a yellow wavy-coated retriever was bred to a Tweed Water Spaniel in 1868.",
+    "Their gentle soft mouth was selectively developed so they could retrieve waterfowl without causing damage to the game.",
+    "Beyond their sporting heritage, their exceptional trainability and empathy make them among the most widely deployed service and guide dogs globally.",
+    "Their dense double coat features water-repellent properties that allow them to swim comfortably in chilly Scottish lochs and rivers.",
   ],
+
   faq: [
     {
-      question: "How long does a Golden Retriever usually live?",
+      question: "How long does a Golden Retriever typically live?",
       answer:
-        "A commonly published life-expectancy range is 10 to 12 years. Individual lifespan varies with genetics, health, weight, environment, and veterinary care.",
+        "A healthy Golden Retriever has an expected lifespan of 10 to 12 years, supported by proactive veterinary care, healthy weight management, and responsible breeding.",
     },
     {
-      question: "Do Golden Retrievers shed a lot?",
+      question: "Do Golden Retrievers shed heavily?",
       answer:
-        "Yes. They shed throughout the year and can shed much more heavily during seasonal coat changes. Regular brushing helps remove loose hair and reduce tangles.",
+        "Yes, they shed moderately year-round and experience substantial seasonal coat blows in spring and autumn, requiring regular brushing to control loose fur.",
     },
     {
-      question: "Are Golden Retrievers easy to train?",
+      question: "Are Golden Retrievers suitable for first-time dog owners?",
       answer:
-        "They are generally eager to learn and respond well to consistent, reward-based training. Early work on recall, leash manners, calm greetings, and settling is especially helpful.",
+        "Yes, their biddable temperament, high intelligence, and gentle nature make them well-suited for beginners who can meet their exercise and grooming needs.",
     },
     {
-      question: "Are Golden Retrievers suitable for families with children?",
+      question: "How much daily exercise does a Golden Retriever require?",
       answer:
-        "Many are affectionate and sociable family companions, but every dog is an individual. Adults should supervise interactions, teach children respectful handling, and provide the dog with a safe place to rest.",
+        "Adult dogs thrive with at least one to two hours of daily physical activity, including brisk walks, games of fetch, swimming, and mental enrichment.",
     },
     {
-      question: "Can a Golden Retriever live in an apartment?",
+      question: "Are Golden Retrievers good with young children?",
       answer:
-        "Apartment living can work if the dog receives sufficient daily exercise, training, enrichment, and companionship. Access to a yard does not replace walks or mental activity.",
+        "They are generally remarkably patient, friendly, and gentle around children, though adult supervision is always recommended during interactions.",
     },
     {
-      question: "What health checks should I ask a breeder about?",
+      question: "What health screenings should prospective owners check for?",
       answer:
-        "Ask for verifiable hip and elbow evaluations, cardiac and eye examinations, and relevant DNA testing recommended for the breed. Screening records are useful risk information, not a guarantee of future health.",
+        "Prospective owners should verify documented evaluations for hips, elbows, cardiovascular health, and hereditary eye diseases, alongside relevant genetic tests.",
     },
   ],
+
   references: [
     "akc-golden-retriever-official-standard",
     "akc-golden-retriever-profile",
     "grca-golden-retriever-health-screening",
     "wikimedia-golden-retriever-karen-arnold",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
+
   evidence: {
     alternateNames: {
       reliability: "reliable_source",
@@ -299,107 +345,162 @@ export const golden_retriever: Breed = {
         {
           id: "akc-golden-retriever-profile",
           role: "verified",
-          locator: "Breed name and breed overview",
+          locator: "Breed name and overview",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The alternate label 'Golden' is a commonly used shortened name; the registered breed name is Golden Retriever.",
+      verifiedOn: "2026-11-11",
+      note:
+        "The informal designation 'Golden' is a ubiquitous colloquial shortening; the registered breed name is Golden Retriever.",
     },
+
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No breed-specific scientific name is recorded; a general domestic-dog binomial is omitted.",
+      note:
+        "No breed-specific scientific name is recognized; general domestic-dog binomials are omitted.",
     },
+
     group: {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-golden-retriever-profile",
           role: "verified",
-          locator: "Breed group",
+          locator: "Breed group classification",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Uses the American Kennel Club group classification.",
+      verifiedOn: "2026-11-11",
+      note: "Classified within the sporting category.",
     },
+
     origin: {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-golden-retriever-profile",
           role: "verified",
-          locator: "About the Breed and historical development",
+          locator: "About the Breed: History",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The breed was developed in Scotland, part of the United Kingdom.",
+      verifiedOn: "2026-11-11",
+      note:
+        "The breed was established in nineteenth-century Scotland, part of the United Kingdom.",
     },
+
+    "origin.region": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "verified",
+          locator: "About the Breed: History",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Developed in the Scottish Highlands at Guisachan estate.",
+    },
+
     overview: {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-golden-retriever-profile",
           role: "verified",
-          locator: "About the Breed; grooming, exercise, training, and nutrition sections",
+          locator:
+            "About the Breed; grooming, exercise, training, and nutrition",
         },
         {
           id: "akc-golden-retriever-official-standard",
           role: "cited",
-          locator: "Official Standard for the Golden Retriever",
+          locator: "General Appearance",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "User-facing descriptions are original summaries of the breed profile and standard.",
+      verifiedOn: "2026-11-11",
+      note:
+        "User-facing descriptions are original summaries synthesizing breed history and conformation documentation.",
     },
+
     physical: {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-golden-retriever-profile",
           role: "verified",
-          locator: "Height, weight, life expectancy, coat, and grooming sections",
+          locator:
+            "Height, weight, life expectancy, coat, and grooming sections",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Physical traits not covered by a more specific standard claim are based on the breed profile.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Physical traits not covered by a more specific standard claim are based on verified breed profile documentation.",
     },
+
+    "physical.sizeCategory": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "verified",
+          locator: "General appearance and size",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+
     "physical.height": {
       reliability: "official_standard",
       sources: [
         {
           id: "akc-golden-retriever-official-standard",
           role: "verified",
-          locator: "Size, Proportion, Substance",
+          locator: "Size, Proportion, Substance: Height at withers",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Measurements are recorded in inches, as published in the standard.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Recorded in whole and half inches as published in the official standard: males 23–24 inches, females 21.5–22.5 inches. Dogs deviating more than one inch from these limits are disqualified.",
     },
+
     "physical.weight": {
       reliability: "official_standard",
       sources: [
         {
           id: "akc-golden-retriever-official-standard",
           role: "verified",
-          locator: "Size, Proportion, Substance",
+          locator: "Size, Proportion, Substance: Weight",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Measurements are recorded in pounds, as published in the standard.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Recorded in pounds as published in the official standard: males 65–75 lb, females 55–65 lb.",
     },
+
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-golden-retriever-profile",
           role: "verified",
-          locator: "Life expectancy",
+          locator: "Life expectancy: 10–12 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Published breed-profile range; an individual dog's lifespan may differ.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Published life-expectancy range of 10 to 12 years; individual longevity varies based on genetics, weight management, and health care.",
     },
+
     "physical.coatType": {
       reliability: "official_standard",
       sources: [
@@ -409,9 +510,11 @@ export const golden_retriever: Breed = {
           locator: "Coat",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Summarizes the standard's coat description.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Summarizes the official standard description of a dense, water-repellent double coat.",
     },
+
     "physical.coatLength": {
       reliability: "official_standard",
       sources: [
@@ -421,9 +524,11 @@ export const golden_retriever: Breed = {
           locator: "Coat",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Summarizes the standard's coat length and feathering description.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Summarizes the official standard description of medium length and moderate feathering.",
     },
+
     "physical.coatColors": {
       reliability: "official_standard",
       sources: [
@@ -438,93 +543,349 @@ export const golden_retriever: Breed = {
           locator: "Breed colors and markings",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Uses the breed profile's named gold color categories.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Reflects the three recognized shades of lustrous golden coat: Dark Golden, Golden, and Light Golden.",
     },
+
+    "physical.sheddingLevel": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "verified",
+          locator: "Grooming traits",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note:
+        "Described in breed profile resources as moderate throughout the year with seasonal spikes.",
+    },
+
+    "physical.droolingLevel": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "verified",
+          locator: "Breed traits",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Described as low to moderate in profile summaries.",
+    },
+
     "physical.distinctiveFeatures": {
       reliability: "official_standard",
       sources: [
         {
           id: "akc-golden-retriever-official-standard",
           role: "verified",
-          locator: "General Appearance; Head; Ears; Tail; Coat",
+          locator: "General Appearance; Head; Ears; Body; Tail; Feet",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Concise paraphrases of standard characteristics.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Original paraphrases of conformation hallmarks described in the official standard.",
     },
+
     temperament: {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-golden-retriever-profile",
           role: "verified",
-          locator: "About the Breed and breed traits",
+          locator: "About the Breed: Personality and traits",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Traits describe common breed tendencies, not guaranteed behaviour in every dog.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Traits describe typical breed tendencies; individual canine temperaments can vary.",
     },
+
     "temperament.scores": {
       reliability: "estimate",
       sources: [
         {
           id: "akc-golden-retriever-profile",
           role: "cited",
-          locator: "Breed traits and temperament descriptions",
+          locator: "Breed traits and temperament evaluations",
         },
       ],
       verifiedOn: null,
-      note: "Editorial 1–5 estimates derived from qualitative breed tendencies; these are not standardized test results.",
+      note:
+        "Editorial 1–5 estimates synthesized from qualitative behavioral descriptions.",
     },
+
+    "temperament.scores.affection": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Personality traits",
+        },
+      ],
+      verifiedOn: null,
+      note: "Reflects profound affection for human companions.",
+    },
+
+    "temperament.scores.withChildren": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Family life compatibility",
+        },
+      ],
+      verifiedOn: null,
+      note: "Known for patient and gentle demeanor around children.",
+    },
+
+    "temperament.scores.withDogs": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Dog-to-dog friendliness",
+        },
+      ],
+      verifiedOn: null,
+      note: "Generally very sociable and peaceable with other canines.",
+    },
+
+    "temperament.scores.withStrangers": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Social traits",
+        },
+      ],
+      verifiedOn: null,
+      note: "Typically welcomes unfamiliar people warmly.",
+    },
+
+    "temperament.scores.protectiveness": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Watchdog tendencies",
+        },
+      ],
+      verifiedOn: null,
+      note: "Low guardian instincts; friendly toward visitors.",
+    },
+
+    "temperament.scores.independence": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Trainability and responsiveness",
+        },
+      ],
+      verifiedOn: null,
+      note: "Low independence; highly attached and eager to please handlers.",
+    },
+
+    "temperament.scores.trainability": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Trainability rating",
+        },
+      ],
+      verifiedOn: null,
+      note: "Exceptionally biddable, intelligent, and responsive.",
+    },
+
+    "temperament.scores.barking": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Vocal behavior",
+        },
+      ],
+      verifiedOn: null,
+      note: "Generally quiet; barks primarily to alert or in play.",
+    },
+
+    "temperament.scores.energy": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Activity level",
+        },
+      ],
+      verifiedOn: null,
+      note: "High energy requiring purposeful daily outlets.",
+    },
+
     care: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Grooming, exercise, and training guidance",
+        },
+      ],
       verifiedOn: null,
-      note: "General practical dog-care guidance adapted to the breed's coat, activity, and social needs.",
+      note:
+        "General practical dog-care recommendations adapted to a sporting retriever.",
     },
+
+    "care.exercise.level": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Exercise section",
+        },
+      ],
+      verifiedOn: null,
+      note:
+        "High exercise demand characteristic of an athletic gundog.",
+    },
+
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No single evidence-based daily minute range applies to all ages, fitness levels, and health conditions.",
+      note:
+        "No single evidence-based daily minute figure applies across all life stages and health conditions.",
     },
+
     "care.livingEnvironment": {
       reliability: "estimate",
       sources: [
         {
           id: "akc-golden-retriever-profile",
           role: "cited",
-          locator: "Exercise, temperament, and grooming guidance",
+          locator: "Exercise and temperament descriptions",
         },
       ],
       verifiedOn: null,
-      note: "Lifestyle suitability is an editorial assessment and depends on the household and individual dog.",
+      note:
+        "Adaptable to varied homes provided exercise and enrichment needs are met.",
     },
+
+    "care.livingEnvironment.apartmentSuitable": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Exercise and lifestyle adaptability",
+        },
+      ],
+      verifiedOn: null,
+      note: "Can adapt to apartment living with dedicated outdoor activity.",
+    },
+
+    "care.livingEnvironment.houseWithYardSuitable": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Exercise guidance",
+        },
+      ],
+      verifiedOn: null,
+      note: "Well suited to homes with secure outdoor yard space.",
+    },
+
+    "care.livingEnvironment.climates": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Coat and care",
+        },
+      ],
+      verifiedOn: null,
+      note: "Dense double coat provides insulation in temperate and cold climates.",
+    },
+
+    "care.livingEnvironment.aloneTimeTolerance": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Temperament and socialization",
+        },
+      ],
+      verifiedOn: null,
+      note: "Sociable nature predisposes breed to distress when left isolated.",
+    },
+
     nutrition: {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+      ],
+      verifiedOn: null,
+      note:
+        "General nutritional principles; feeding portions and schedules should be customized with veterinary guidance.",
+    },
+
+    "nutrition.dietType": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General nutrition guidance; portions and feeding routines should be individualized.",
+      note: "General sporting breed nutritional guidance.",
     },
+
     "nutrition.feedingFrequency.puppy": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A fixed meal frequency is not specified because needs vary with age, growth, food, and veterinary advice.",
+      note:
+        "A fixed meal frequency is not specified because needs vary with puppy age and growth rate.",
     },
+
     "nutrition.feedingFrequency.adult": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A fixed meal frequency is not specified because needs vary with the individual dog and feeding plan.",
+      note:
+        "A fixed meal frequency is not specified because individual caloric requirements vary.",
     },
+
     "nutrition.feedingFrequency.senior": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A fixed meal frequency is not specified because needs vary with health, appetite, and veterinary advice.",
+      note:
+        "A fixed meal frequency is not specified because metabolic rates vary in aging canines.",
     },
+
     health: {
       reliability: "reliable_source",
       sources: [
@@ -539,34 +900,133 @@ export const golden_retriever: Breed = {
           locator: "Health screenings for the parents of a litter",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Health risks and screening guidance are summarized conservatively. The list is not exhaustive and does not predict an individual dog's diagnosis.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Hereditary risks and screening recommendations reflect parent club guidance and veterinary health surveys.",
     },
+
+    "health.preventiveCare": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "grca-golden-retriever-health-screening",
+          role: "cited",
+          locator: "General health advice",
+        },
+      ],
+      verifiedOn: null,
+      note: "General preventive care recommendations.",
+    },
+
+    "health.dentalCare": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Routine teeth-brushing and professional prophylaxis advice",
+        },
+      ],
+      verifiedOn: null,
+      note: "General canine dental-care advice.",
+    },
+
+    "health.earCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General ear hygiene advice for drop-eared retrieving dogs.",
+    },
+
+    "health.skinCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General skin and coat inspection guidance.",
+    },
+
     suitability: {
       reliability: "estimate",
       sources: [
         {
           id: "akc-golden-retriever-profile",
           role: "cited",
-          locator: "Breed temperament, exercise, training, and grooming descriptions",
+          locator:
+            "Breed temperament, exercise, training, and grooming descriptions",
         },
       ],
       verifiedOn: null,
-      note: "Lifestyle recommendations are editorial assessments, not guarantees of compatibility.",
+      note:
+        "Lifestyle suitability recommendations are editorial assessments, not definitive guarantees of compatibility.",
     },
+
+    "suitability.firstTimeOwners": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Personality and trainability",
+        },
+      ],
+      verifiedOn: null,
+      note: "Highly recommended for novice owners willing to provide exercise and training.",
+    },
+
+    "suitability.familiesWithChildren": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Family compatibility",
+        },
+      ],
+      verifiedOn: null,
+      note: "Excellent family companion with proven gentleness around children.",
+    },
+
     "suitability.seniorOwners": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: null,
-},
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "No standardized rating; suitability depends heavily on the individual dog's energy and the owner's mobility.",
+    },
+
+    "suitability.activeOwners": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Activity and exercise",
+        },
+      ],
+      verifiedOn: null,
+      note: "Ideal companion for outdoor and active lifestyles.",
+    },
+
+    "suitability.apartmentLiving": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "akc-golden-retriever-profile",
+          role: "cited",
+          locator: "Lifestyle adaptability",
+        },
+      ],
+      verifiedOn: null,
+      note: "Can thrive in apartments when exercise commitments are met.",
+    },
+
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-golden-retriever-profile",
           role: "verified",
-          locator: "About the Breed",
+          locator: "About the Breed: History",
         },
         {
           id: "akc-golden-retriever-official-standard",
@@ -574,16 +1034,19 @@ export const golden_retriever: Breed = {
           locator: "General Appearance and Coat",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Short, original summaries of documented working and physical characteristics.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Original summaries of documented breed history, physical attributes, and working roles.",
     },
+
     faq: {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-golden-retriever-profile",
           role: "verified",
-          locator: "Life expectancy, health, grooming, exercise, training, and nutrition",
+          locator:
+            "Life expectancy, health, grooming, exercise, training, and nutrition",
         },
         {
           id: "grca-golden-retriever-health-screening",
@@ -591,9 +1054,11 @@ export const golden_retriever: Breed = {
           locator: "Health screenings for the parents of a litter",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Answers summarize source-backed breed information and general ownership guidance.",
+      verifiedOn: "2026-11-11",
+      note:
+        "Answers synthesize verified breed information and general veterinary care advice.",
     },
   },
-  updatedOn: "2026-10-26",
+
+  updatedOn: "2026-11-11",
 };
