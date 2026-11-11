@@ -400,8 +400,8 @@ export const belgian_shepherd_dog_groenendael: Breed = {
     }
   ],
 
-  references: [
-    "fci-belgian-shepherd-dog-official-standard",
+references: [
+    "fci-belgian-shepherd-dog-standard-15",
     "fci-belgian-shepherd-dog-nomenclature",
     "srhk-belgian-shepherd-breed-standard",
     "akc-belgian-sheepdog-breed-standard",

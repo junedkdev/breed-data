@@ -166,6 +166,8 @@ import { whippet } from "./whippet";
 import { fox_terrier_smooth } from "./fox_terrier_smooth";
 import { bolognese } from "./bolognese";
 import { belgian_shepherd_dog_groenendael } from "./belgian_shepherd_dog_groenendael";
+import { basset_bleu_de_gascogne } from "./basset_bleu_de_gascogne";
+import { croatian_sheepdog } from "./croatian_sheepdog";
 
 
 export const breedData: readonly Breed[] = [
@@ -331,4 +333,6 @@ export const breedData: readonly Breed[] = [
   fox_terrier_smooth,
   bolognese,
   belgian_shepherd_dog_groenendael,
+  basset_bleu_de_gascogne,
+  croatian_sheepdog,
 ];

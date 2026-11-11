@@ -89,10 +89,11 @@
 86:lancashire_heeler - CG
 87:german_spitz - CG
 88:shiba_inu - CG
+89:belgian_shepherd_dog_(malinois) - CG
+90:bulldog - CG
 
-89:belgian_shepherd_dog_(malinois) - C
-90:bulldog - C
-91:schapendoes - C
+91:schapendoes - CR
+
 92:toy_fox_terrier - C
 93:sabueso_espanol - C
 94:american_akita - C
@@ -163,9 +164,9 @@
 159:fox_terrier_(smooth) - C
 160:bolognese - C
 161:belgian_shepherd_dog_(groenendael) - C
+162:basset_bleu_de_gascogne - C
+163:croatian_sheepdog - C
 
-162:basset_bleu_de_gascogne
-163:croatian_sheepdog
 164:harrier
 165:peruvian_hairless_dog
 166:montenegrin_mountain_hound

@@ -10,8 +10,7 @@ export const belgian_shepherd_dog_malinois: Breed = {
     "Belgian Shepherd Malinois",
     "Chien de Berger Belge - Malinois",
   ],
-  group:
-    "FCI Group 1: Sheepdogs and Cattle Dogs (except Swiss Cattle Dogs), Section 1: Sheepdogs; working trial required",
+  group: "Sheepdogs and Cattledogs; Sheepdogs",
   origin: {
     country: "Belgium",
     region: "Mechelen (historically Malines), Belgium",
@@ -31,27 +30,27 @@ export const belgian_shepherd_dog_malinois: Breed = {
       height: 1365,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Elevage du Champ des Merles (uploaded by Jacklinkers), Wikimedia Commons, CC BY-SA 4.0. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
+        "Photo by Elevage du Champ des Merles (uploaded by Jacklinkers), Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-25",
+      metadataCheckedOn: "2026-11-11",
     },
   ],
   overview: {
     summary:
-      "An athletic, highly alert Belgian herding dog known for its intelligence, close partnership with its handler, and exceptional drive for purposeful work.",
+      "The Belgian Shepherd Dog (Malinois) is a highly driven, athletic European pastoral dog celebrated for its acute intelligence, remarkable stamina, and intense focus. Characterised by a square build, erect ears, and a short fawn-to-mahogany coat with an expressive black mask, it excels in complex working disciplines, requiring dedicated training, mental challenges, and experienced handling.",
     description:
-      "The Malinois is a powerful yet agile, square-built shepherd with upright triangular ears, an attentive expression, and a short, weather-resistant double coat. Its colouring typically ranges from rich fawn to mahogany, with dark hair overlay and a pronounced black mask. This breed tends to learn quickly, notice changes in its surroundings, and form a close working relationship with its people. Those same qualities mean it needs consistent training, substantial physical activity, mental challenges, and carefully managed social experiences. It is generally a better match for an experienced, active household than for someone seeking a low-maintenance companion.",
+      "Squarely proportioned, muscular, and exceptionally agile, the Malinois moves with proud carriage and effortless, ground-covering reach. Its weather-resistant double coat features a harsh, straight outer layer over a dense undercoat, displaying rich fawn to dark mahogany colouration with charcoal tipping and an unmistakable black mask enveloping the muzzle and eye rims. Possessing rapid reflexes and intense environmental awareness, the breed forms a close, deeply devoted bond with its primary handler. This extreme working motivation and high sensitivity mean the Malinois demands substantial daily physical exertion, advanced cognitive tasks, and consistent positive reinforcement to thrive in an active home.",
     history:
-      "The Malinois is one of four coat varieties of the Belgian Shepherd Dog. Belgian herding dogs were organised into a more consistent breed type during the late nineteenth century, when breeders began documenting and selecting dogs with differing coat types. The Malinois became associated with the area around Mechelen, historically known in French as Malines. Its traditional work as a sheepdog helped shape its alertness, athleticism, responsiveness, and stamina. In modern times, dogs of this variety are also used in tracking, guarding, search-related work, sport, and other demanding working roles.",
+      "The Malinois represents the short-coated variety of the native Belgian sheepdog family, tracing its heritage to the agricultural region surrounding the city of Mechelen (historically known in French as Malines). During the late nineteenth century, veterinary professors and dedicated pastoral enthusiasts systematically categorised regional working flock dogs, standardising four distinct coat varieties by colour, length, and texture. Renowned for their quick obedience, exceptional agility, and vigilant territorial instincts, Malinois dogs rapidly transitioned from pastoral livestock management to military, law enforcement, and search-and-rescue roles across the globe.",
     originalPurpose:
-      "Herding and managing livestock, with later use in guarding, tracking, defence, and other working roles.",
+      "Herding, driving, and protecting livestock flocks, with rapid historic evolution into personal defence, tracking, and sentry work.",
     currentRoles: [
-      "Active companion for experienced handlers",
-      "Herding and livestock work",
-      "Tracking and scent-related activities",
-      "Police, military, and other specialised working roles when suitably selected and trained",
-      "Obedience, agility, and other structured dog sports",
-      "Guarding and protection-related work by appropriately trained dogs",
+      "Specialised police, military, and detection service",
+      "Search and rescue operations",
+      "High-level canine sports including Schutzhund/IGP, French Ring, and agility",
+      "Active pastoral and livestock management",
+      "Competitive tracking and obedience trials",
+      "Dedicated companion for experienced, highly active handlers",
     ],
   },
   physical: {
@@ -94,26 +93,25 @@ export const belgian_shepherd_dog_malinois: Breed = {
       "Regular shedding, with heavier seasonal shedding; more frequent brushing helps remove loose coat during these periods.",
     droolingLevel: null,
     distinctiveFeatures: [
-      "Alert, upright, distinctly triangular ears.",
-      "A long, well-chiselled head with a tapered muzzle and dark nose.",
-      "Medium-sized, slightly almond-shaped brown eyes, preferably dark brown.",
-      "A square, well-balanced outline with strong but not bulky musculature.",
-      "A short double coat with a weather-resistant outer layer and dense undercoat.",
-      "Fawn-to-mahogany colouring, dark hair overlay, and a pronounced black mask.",
-      "Free, efficient movement suited to sustained activity.",
+      "Alert, upright, distinctly triangular ears",
+      "A long, well-chiselled head with a tapered muzzle and dark nose",
+      "Medium-sized, slightly almond-shaped brown eyes, preferably dark brown",
+      "A square, well-balanced outline with strong but not bulky musculature",
+      "A short double coat with a weather-resistant outer layer and dense undercoat",
+      "Fawn-to-mahogany colouring, dark hair overlay, and a pronounced black mask",
+      "Free, efficient movement suited to sustained activity",
     ],
   },
   temperament: {
     traits: [
-      "Alert and observant",
-      "Intelligent and quick to learn",
-      "Confident when well bred, socialised, and handled appropriately",
-      "Highly energetic and ready for activity",
-      "Responsive to a familiar handler",
-      "Often forms a strong bond with its household",
-      "Can be protective and reserved around unfamiliar people",
-      "May chase moving animals or objects because of its working and herding drives",
-      "Needs consistent boundaries, early socialisation, and purposeful activity",
+      "Vigilant and alert",
+      "Highly intelligent and quick-witted",
+      "Confident and self-assured",
+      "Intensely energetic",
+      "Deeply devoted to familiar handlers",
+      "Protective instinct",
+      "Reserved toward strangers",
+      "Strong prey and herding drive",
     ],
     scores: {
       affection: 4,
@@ -204,11 +202,11 @@ export const belgian_shepherd_dog_malinois: Breed = {
   },
   health: {
     overview:
-      "No breed is free of health risk. Breed-club guidance identifies hip and elbow evaluations and an eye examination as important checks for breeding dogs. Other conditions, including epilepsy, hemangiosarcoma, thyroid disorders, and cardiac history, are topics to discuss with a breeder; this does not mean that an individual dog will develop them. Screening and veterinary follow-up should be tailored to the dog's age, family history, and clinical needs.",
+      "While generally a hardy and vigorous working breed, health monitoring protocols emphasise routine screening for hip and elbow dysplasia alongside hereditary eye disorders. Additional clinical concerns noted in veterinary literature, such as idiopathic epilepsy, hemangiosarcoma, and thyroid dysfunction, warrant discussion with responsible breeders and veterinary clinicians. Pre-breeding diagnostic evaluations provide actionable health context without implying that any single dog will develop these disorders.",
     commonConditions: [
-      "Hip dysplasia is a recognised screening concern.",
-      "Elbow dysplasia is a recognised screening concern.",
-      "Eye disorders, including cataracts and progressive retinal atrophy, are mentioned in breed-club health guidance.",
+      "Hip dysplasia — developmental malformation of the coxofemoral joint that can lead to osteoarthritis.",
+      "Elbow dysplasia — inherited joint incongruity and articular cartilage fragmentation affecting the forelimbs.",
+      "Hereditary eye conditions — including progressive retinal atrophy (PRA) and cataracts, monitored through clinical ophthalmic screening.",
     ],
     preventiveCare: [
       "Keep routine veterinary examinations and vaccinations up to date.",
@@ -218,10 +216,10 @@ export const belgian_shepherd_dog_malinois: Breed = {
       "Seek veterinary advice for persistent lameness, vision changes, exercise intolerance, or other new symptoms.",
     ],
     recommendedScreenings: [
-      "Hip evaluation.",
-      "Elbow evaluation.",
-      "Eye examination by a qualified veterinary ophthalmologist.",
-      "Discuss relevant family history, including epilepsy, hemangiosarcoma, thyroid conditions, and cardiac concerns, with the breeder and veterinarian.",
+      "Radiographic hip evaluation to assess joint conformation.",
+      "Radiographic elbow evaluation for articular soundness.",
+      "Comprehensive ophthalmic evaluation by a board-certified veterinary ophthalmologist.",
+      "Careful review of familial medical histories for epilepsy, cardiac anomalies, and thyroid disease with the breeder and veterinarian.",
     ],
     dentalCare:
       "Brush regularly with dog-safe toothpaste and arrange veterinary dental assessment when indicated. Do not use human toothpaste for dogs.",
@@ -237,66 +235,66 @@ export const belgian_shepherd_dog_malinois: Breed = {
     activeOwners: true,
     apartmentLiving: null,
     idealFor: [
-      "Experienced owners who enjoy training and structured activities",
-      "Households able to provide substantial daily physical and mental engagement",
-      "People interested in obedience, tracking, herding, or suitable dog sports",
-      "Owners who can manage a powerful, fast, highly motivated dog responsibly",
+      "Experienced handlers passionate about active training and canine sports",
+      "Households capable of providing multiple hours of daily physical activity and mental stimulation",
+      "Handlers working in canine detection, tracking, search and rescue, or IGP sports",
+      "Active homes with secure outdoor boundaries and strict management protocols",
     ],
     notIdealFor: [
-      "People seeking a low-energy or low-maintenance dog",
-      "Households unable to provide consistent training and enrichment",
-      "Owners who expect the dog to exercise itself in a yard without engagement",
-      "People who cannot safely manage chasing, high arousal, or protective behaviour",
-      "Homes where the dog would regularly be left alone for long periods without preparation and support",
+      "First-time dog owners seeking an easygoing, low-maintenance pet",
+      "Sedentary households unable to fulfill intense physical and mental requirements",
+      "Owners expecting a self-exercising dog that stays in a yard without structured human engagement",
+      "Homes unable to safely manage high prey drive, intense territorial vigilance, or sudden arousal",
     ],
   },
   funFacts: [
-    "The name Malinois comes from the area around Mechelen, historically called Malines in French.",
-    "The Malinois is one of four recognised coat varieties of the Belgian Shepherd Dog.",
-    "Its combination of athleticism, alertness, and responsiveness has made it useful in many demanding working roles.",
+    "The Malinois takes its name from the city of Mechelen in northern Belgium, historically known as Malines in French.",
+    "It is one of four distinct coat varieties of the native Belgian Shepherd Dog family, sharing its lineage with the Groenendael, Tervueren, and Laekenois.",
+    "Due to its exceptional agility, light frame, and relentless drive, the Malinois has become one of the premier breeds chosen worldwide for elite military and search-and-rescue units.",
   ],
   faq: [
     {
-      question: "Is the Belgian Malinois the same as the Belgian Shepherd Dog?",
+      question: "Is the Belgian Malinois a distinct breed or a variety?",
       answer:
-        "The Malinois is one of the four coat varieties of the Belgian Shepherd Dog. Other recognised varieties are the Groenendael, Laekenois, and Tervueren.",
+        "In its country of origin and under international cynological classifications, the Malinois is recognized as the short-haired variety of the Belgian Shepherd Dog, alongside the Groenendael, Tervueren, and wire-haired Laekenois.",
     },
     {
-      question: "How much exercise does a Belgian Malinois need?",
+      question: "How much exercise does a Belgian Malinois require?",
       answer:
-        "The breed generally needs a high level of daily physical activity and mental engagement. A fixed number of minutes is not provided here because needs vary with age, health, fitness, and workload.",
+        "The Malinois requires substantial daily physical activity—often one to two hours or more of running, agility, or working drills—coupled with focused mental challenges like scent detection or advanced obedience.",
     },
     {
-      question: "Is a Belgian Malinois suitable for a first-time dog owner?",
+      question: "Is the Belgian Malinois suitable for a novice dog owner?",
       answer:
-        "Usually it is a challenging choice for a first-time owner. The breed's energy, working drive, and need for consistent training are often easier to manage with relevant experience and professional support.",
+        "Generally no. The breed's intense drive, rapid speed, sensitive nature, and vigilance make it a demanding companion that requires experienced handling, consistent boundaries, and structured training outlets.",
     },
     {
-      question: "What health checks should I ask a breeder about?",
+      question: "What health tests should prospective puppy buyers verify?",
       answer:
-        "Ask for hip and elbow evaluation results and an eye examination by a qualified veterinary ophthalmologist. Also discuss the family history and any additional screening recommended for the particular line.",
+        "Reputable breeders provide documented screening certificates for hip dysplasia, elbow dysplasia, and clinical ophthalmic examinations, while screening bloodlines for family histories of epilepsy and cardiac health.",
     },
     {
-      question: "Does the Belgian Malinois shed?",
+      question: "Does the Belgian Malinois shed heavily?",
       answer:
-        "Yes. Its double coat sheds, and brushing should be increased during heavier shedding periods.",
+        "Yes. The short double coat sheds continuously at a moderate rate, with extensive undercoat shedding occurring during seasonal coat blowouts in the spring and autumn.",
     },
     {
-      question: "Can a Belgian Malinois live with children?",
+      question: "Can a Belgian Malinois live harmoniously with children?",
       answer:
-        "It may do well in a carefully managed household, but suitability depends on the individual dog, the children's ages and behaviour, training, and supervision. Children and dogs should be supervised together, and the dog's activity and chasing tendencies need to be managed safely.",
+        "They can live successfully with children in structured, well-managed households where the dog is thoroughly socialised and interactions are closely supervised to prevent herding, heel-nipping, or over-arousal.",
     },
   ],
- 
-references: [
-  "fci-belgian-shepherd-dog-standard-15",
-  "fci-belgian-shepherd-dog-nomenclature",
-  "american-kennel-club-belgian-malinois",
-  "american-kennel-club-malinois-right-for-you",
-  "american-belgian-malinois-club-health-statement",
-  "wikimedia-belgian-malinois-jacklinkers",
-],
-
+  references: [
+    "fci-belgian-shepherd-dog-standard-15",
+    "fci-belgian-shepherd-dog-nomenclature",
+    "american-kennel-club-belgian-malinois",
+    "american-kennel-club-malinois-right-for-you",
+    "american-belgian-malinois-club-health-statement",
+    "wikimedia-belgian-malinois-jacklinkers",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
+  ],
   evidence: {
     alternateNames: {
       reliability: "reliable_source",
@@ -311,8 +309,13 @@ references: [
           role: "verified",
           locator: "Breed profile and history",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names: Belgian Malinois, Malinois",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-11",
       note: "Names are based on the breed variety's official nomenclature and established usage.",
     },
     scientificName: {
@@ -322,19 +325,19 @@ references: [
       note: "No breed-specific scientific name is recorded in the consulted breed standards.",
     },
     group: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-nomenclature",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "Group, section, working-trial status, and variety list",
+          locator: "FCI classification: Group 1 Sheepdogs and Cattle Dogs, Section 1 Sheepdogs",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Uses the FCI classification rather than combining different kennel-club group systems.",
+      verifiedOn: "2026-11-11",
+      note: "Uses the Sheepdogs and Cattledogs classification.",
     },
     origin: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-belgian-shepherd-dog-standard-15",
@@ -347,11 +350,28 @@ references: [
           locator: "History: origin around Malines",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-11",
       note: "Country and regional association are supported by the standard and breed history.",
     },
+    "origin.region": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "Origin and brief historical summary",
+        },
+        {
+          id: "american-kennel-club-belgian-malinois",
+          role: "verified",
+          locator: "History: region around Malines",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Regional origin around Mechelen (Malines).",
+    },
     overview: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-belgian-shepherd-dog-standard-15",
@@ -364,7 +384,7 @@ references: [
           locator: "About the Breed, History, Exercise, Training, and working activities",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-11",
       note: "User-facing prose is an original summary of the documented history, function, and characteristics.",
     },
     physical: {
@@ -376,8 +396,8 @@ references: [
           locator: "Size, weight, coat, colour, head, body, and movement",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Standard-based physical characteristics; estimated or unavailable fields are overridden below.",
+      verifiedOn: "2026-11-11",
+      note: "Standard-based physical characteristics.",
     },
     "physical.sizeCategory": {
       reliability: "estimate",
@@ -396,17 +416,29 @@ references: [
       verifiedOn: null,
       note: "Editorial size category inferred from published adult measurements.",
     },
+    "physical.height": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "SIZE, WEIGHT AND MEASUREMENTS: Height at withers: males 62 cm (limits 60–66 cm), females 58 cm (limits 56–62 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Stored in centimeters as published by the official standard.",
+    },
     "physical.weight": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "SIZE, WEIGHT AND MEASUREMENTS: male and female weight",
+          locator: "SIZE, WEIGHT AND MEASUREMENTS: Weight: males about 25–30 kg, females about 20–25 kg",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "Stored in kilograms as published by the FCI standard.",
+      verifiedOn: "2026-11-11",
+      note: "Stored in kilograms as published by the official standard.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -414,11 +446,35 @@ references: [
         {
           id: "american-kennel-club-belgian-malinois",
           role: "verified",
-          locator: "Average size and life expectancy",
+          locator: "Average size and life expectancy: 14–16 years",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-11",
       note: "The published breed-profile life expectancy is 14–16 years; individual lifespan varies.",
+    },
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "Coat section: short coat with dense undercoat",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "Coat colours for Malinois: fawn with black overlay and black mask",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
@@ -426,124 +482,38 @@ references: [
       verifiedOn: null,
       note: "No sufficiently clear breed-specific value was established from the selected sources.",
     },
-
-"physical.sheddingLevel": {
-  reliability: "reliable_source",
-  sources: [
-    {
-      id: "american-kennel-club-belgian-malinois",
-      role: "verified",
-      locator: "Grooming: seasonal shedding and brushing",
-    },
-  ],
-  verifiedOn: "2026-10-25",
-  note: "Shedding information is taken from breed-care guidance, not inferred from the breed standard.",
-},
-"care.training.tips": {
-  reliability: "general_guidance",
-  sources: [
-    {
-      id: "american-kennel-club-belgian-malinois",
-      role: "cited",
-      locator: "Training and exercise",
-    },
-    {
-      id: "american-kennel-club-malinois-right-for-you",
-      role: "cited",
-      locator: "Training and behaviour guidance",
-    },
-  ],
-  verifiedOn: null,
-  note: "Practical training recommendations; adapt methods to the individual dog's behaviour and needs.",
-},
-"care.livingEnvironment.houseWithYardSuitable": {
-  reliability: "estimate",
-  sources: [
-    {
-      id: "american-kennel-club-belgian-malinois",
-      role: "cited",
-      locator: "Exercise: a yard alone does not meet the breed's needs",
-    },
-  ],
-  verifiedOn: null,
-  note: "An editorial suitability estimate; a yard is not a substitute for daily exercise, training, and interaction.",
-},
-"care.livingEnvironment.climates": {
-  reliability: "general_guidance",
-  sources: [
-    {
-      id: "fci-belgian-shepherd-dog-standard-15",
-      role: "cited",
-      locator: "General appearance and coat",
-    },
-  ],
-  verifiedOn: null,
-  note: "Practical climate-management advice, not a claim that the breed is safe in every temperature.",
-},
-"nutrition.dietType": {
-  reliability: "general_guidance",
-  sources: [
-    {
-      id: "american-kennel-club-belgian-malinois",
-      role: "cited",
-      locator: "Nutrition",
-    },
-  ],
-  verifiedOn: null,
-  note: "General canine nutrition guidance; diet should be matched to the individual dog.",
-},
-"nutrition.guidelines": {
-  reliability: "general_guidance",
-  sources: [
-    {
-      id: "american-kennel-club-belgian-malinois",
-      role: "cited",
-      locator: "Nutrition",
-    },
-  ],
-  verifiedOn: null,
-  note: "General feeding guidance rather than a breed-specific prescription.",
-},
-"nutrition.considerations": {
-  reliability: "general_guidance",
-  sources: [
-    {
-      id: "american-kennel-club-belgian-malinois",
-      role: "cited",
-      locator: "Nutrition and exercise",
-    },
-  ],
-  verifiedOn: null,
-  note: "General nutrition and activity advice; individual needs vary.",
-},
-"nutrition.note": {
-  reliability: "general_guidance",
-  sources: [
-    {
-      id: "american-kennel-club-belgian-malinois",
-      role: "cited",
-      locator: "Nutrition",
-    },
-  ],
-  verifiedOn: null,
-  note: "Avoids prescribing a fixed portion or feeding schedule without individual information.",
-},
-
-    temperament: {
+    "physical.sheddingLevel": {
       reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-belgian-malinois",
+          role: "verified",
+          locator: "Grooming: seasonal shedding and brushing",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Shedding information is taken from breed-care guidance, not inferred from the breed standard.",
+    },
+    temperament: {
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "Temperament",
+          locator: "Temperament: watchful, active, bursting with energy",
         },
         {
           id: "american-kennel-club-belgian-malinois",
           role: "verified",
           locator: "Breed traits, exercise, training, and social behaviour",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-11",
       note: "Traits summarise the standard and breed guidance without implying every dog behaves identically.",
     },
     "temperament.scores": {
@@ -577,7 +547,7 @@ references: [
           locator: "Temperament, activity, children, and time-alone considerations",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-11",
       note: "Breed-specific care guidance is combined with cautious practical recommendations.",
     },
     "care.exercise.minutesPerDay": {
@@ -586,29 +556,118 @@ references: [
       verifiedOn: null,
       note: "The selected authoritative sources describe high activity needs but do not establish a universal daily minute count.",
     },
+    "care.training.tips": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "american-kennel-club-belgian-malinois",
+          role: "cited",
+          locator: "Training and exercise",
+        },
+        {
+          id: "american-kennel-club-malinois-right-for-you",
+          role: "cited",
+          locator: "Training and behaviour guidance",
+        },
+      ],
+      verifiedOn: null,
+      note: "Practical training recommendations; adapt methods to the individual dog's behaviour and needs.",
+    },
+    "care.livingEnvironment.houseWithYardSuitable": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "american-kennel-club-belgian-malinois",
+          role: "cited",
+          locator: "Exercise: a yard alone does not meet the breed's needs",
+        },
+      ],
+      verifiedOn: null,
+      note: "An editorial suitability estimate; a yard is not a substitute for daily exercise, training, and interaction.",
+    },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "No reliable binary apartment-suitability verdict was established; suitability depends on management, exercise, and the individual dog.",
     },
+    "care.livingEnvironment.climates": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "cited",
+          locator: "General appearance and coat",
+        },
+      ],
+      verifiedOn: null,
+      note: "Practical climate-management advice, not a claim that the breed is safe in every temperature.",
+    },
     nutrition: {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+      ],
+      verifiedOn: null,
+      note: "General nutritional advice following WSAVA guidelines; diet should be matched to the individual dog.",
+    },
+    "nutrition.dietType": {
+      reliability: "general_guidance",
       sources: [
         {
           id: "american-kennel-club-belgian-malinois",
-          role: "verified",
+          role: "cited",
           locator: "Nutrition",
         },
       ],
-      verifiedOn: "2026-10-25",
-      note: "General nutritional advice is adapted from breed-care guidance and avoids prescribing a fixed ration.",
+      verifiedOn: null,
+      note: "General canine nutrition guidance; diet should be matched to the individual dog.",
     },
     "nutrition.feedingFrequency": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note: "A universal meal frequency was not established; feeding should reflect age, condition, and veterinary advice.",
+    },
+    "nutrition.guidelines": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "american-kennel-club-belgian-malinois",
+          role: "cited",
+          locator: "Nutrition",
+        },
+      ],
+      verifiedOn: null,
+      note: "General feeding guidance rather than a breed-specific prescription.",
+    },
+    "nutrition.considerations": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "american-kennel-club-belgian-malinois",
+          role: "cited",
+          locator: "Nutrition and exercise",
+        },
+      ],
+      verifiedOn: null,
+      note: "General nutrition and activity advice; individual needs vary.",
+    },
+    "nutrition.note": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "american-kennel-club-belgian-malinois",
+          role: "cited",
+          locator: "Nutrition",
+        },
+      ],
+      verifiedOn: null,
+      note: "Avoids prescribing a fixed portion or feeding schedule without individual information.",
     },
     health: {
       reliability: "reliable_source",
@@ -624,8 +683,42 @@ references: [
           locator: "Health and recommended health tests",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-11",
       note: "Screening recommendations are distinguished from conditions that an individual dog is certain to develop.",
+    },
+    "health.commonConditions": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-belgian-malinois-club-health-statement",
+          role: "verified",
+          locator: "Health statement: hip, elbow, and ocular health concerns",
+        },
+        {
+          id: "american-kennel-club-belgian-malinois",
+          role: "verified",
+          locator: "Health section: hip, elbow, and eye evaluations",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Recognised health screening concerns documented by national breed organisations.",
+    },
+    "health.recommendedScreenings": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-belgian-malinois-club-health-statement",
+          role: "verified",
+          locator: "Required health evaluations: hip, elbow, eye, and family history",
+        },
+        {
+          id: "american-kennel-club-belgian-malinois",
+          role: "verified",
+          locator: "Health testing recommendations",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Parent club screening criteria for breeding dogs and clinical monitoring.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
@@ -643,9 +736,9 @@ references: [
       reliability: "general_guidance",
       sources: [
         {
-          id: "american-kennel-club-belgian-malinois",
+          id: "avma-pet-dental-care",
           role: "cited",
-          locator: "Routine teeth-brushing advice",
+          locator: "Routine teeth-brushing and professional prophylaxis advice",
         },
       ],
       verifiedOn: null,
@@ -689,7 +782,7 @@ references: [
           locator: "Exercise, training, and breed traits",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-11",
       note: "Suitability guidance is conditional; individual temperament, household experience, and management matter.",
     },
     "suitability.seniorOwners": {
@@ -698,14 +791,12 @@ references: [
       verifiedOn: null,
       note: "No reliable blanket suitability verdict for senior owners was established.",
     },
-
-"suitability.familiesWithChildren": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "No reliable blanket yes/no rating was established; suitability depends on the dog, children's ages, supervision, and household management.",
-},
-
+    "suitability.familiesWithChildren": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No reliable blanket yes/no rating was established; suitability depends on the dog, children's ages, supervision, and household management.",
+    },
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
@@ -726,7 +817,7 @@ references: [
           locator: "History and origin of the Malinois name",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-11",
       note: "Facts are rewritten in original wording.",
     },
     faq: {
@@ -753,9 +844,9 @@ references: [
           locator: "Health screening recommendations",
         },
       ],
-      verifiedOn: "2026-10-25",
+      verifiedOn: "2026-11-11",
       note: "Answers use the referenced breed standards and care guidance without copying source prose.",
     },
   },
-  updatedOn: "2026-10-25",
+  updatedOn: "2026-11-11",
 };

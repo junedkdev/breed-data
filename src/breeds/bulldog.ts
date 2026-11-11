@@ -4,9 +4,8 @@ export const bulldog: Breed = {
   slug: "bulldog",
   name: "Bulldog",
   scientificName: null,
-  alternateNames: ["English Bulldog"],
-  group:
-    "FCI Group 2: Pinscher and Schnauzer - Molossoid and Swiss Mountain and Cattle Dogs; Section 2.1: Molossoid breeds, Mastiff type",
+  alternateNames: ["English Bulldog", "British Bulldog"],
+  group: "Molossoid Breeds, Mastiff Type",
   origin: {
     country: "Great Britain",
     region: null,
@@ -27,22 +26,22 @@ export const bulldog: Breed = {
       attribution:
         "Photo by Oxfordian Kissuth, Wikimedia Commons, CC BY-SA 3.0. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-11",
     },
   ],
   overview: {
     summary:
-      "A compact, muscular British companion breed recognised for its broad head, short smooth coat, distinctive face, and generally calm, affectionate character.",
+      "A heavy-set, low-slung British companion dog known for its broad shoulders, distinctive wrinkled brow, pushed-in muzzle, and gentle, steadfast temperament.",
     description:
-      "The Bulldog is a low-set, sturdy dog with a broad chest, strong limbs, a short smooth coat, and a large head with a short muzzle. Its loose facial skin, undershot jaw, small rose-shaped ears, and characteristic rolling movement make it easy to recognise. Well-socialised Bulldogs are often steady, loyal companions that enjoy being close to their families. Their body shape also requires thoughtful care: breathing, heat tolerance, skin-fold hygiene, body condition, and sound movement deserve particular attention. Choose a dog for health and functional comfort rather than exaggerated facial or body features.",
+      "Characterised by a wide, compact frame and powerful muscularity, the Bulldog presents an unmistakable silhouette with strong limbs, a deep chest, and a wide-set front. Its short, glossy coat lies close to the body, complementing a massive head featuring loose facial creases, an undershot lower jaw, small rose-shaped ears, and a characteristic rolling gait. Despite a formidable historical origin, modern dogs are typically calm, loyal, and quietly affectionate companions that enjoy close contact with their families. Because of their brachycephalic facial structure and heavy body plan, owners must pay diligent attention to respiratory ease, heat avoidance, weight management, and daily hygiene of facial and tail folds.",
     history:
-      "The Bulldog developed in Great Britain and was historically used in bull-baiting. After that practice was outlawed in the nineteenth century, breeders increasingly developed the dog as a companion and show breed. Its appearance and role changed substantially over time, and modern breed standards emphasise a balanced body, sound movement, and the importance of health and welfare.",
+      "Originating in Great Britain from ancient mastiff-type war and guarding dogs, the breed was historically used in bull-baiting arenas. Following the legal prohibition of animal baiting sports in 1835, dedicated breeders transformed the Bulldog from an aggressive working fighter into a gentle, mild-mannered household companion and show exhibition dog. Twentieth- and twenty-first-century breeding guidelines have increasingly prioritised physical soundness, free breathing, and overall welfare to counteract exaggerated anatomical traits.",
     originalPurpose:
-      "Historically used in bull-baiting; later developed as a companion and show dog.",
+      "Bull-baiting and arena combat; subsequently refined as a calm domestic companion and exhibition dog.",
     currentRoles: [
-      "Family companion",
-      "Companion for households seeking a generally calm dog",
-      "Conformation and breed events",
+      "Devoted family companion",
+      "Calm household pet suited to gentle routines",
+      "Conformation exhibition",
     ],
   },
   physical: {
@@ -85,26 +84,25 @@ export const bulldog: Breed = {
       "Regular shedding; brushing several times a week helps remove loose hair and keep the coat in good condition.",
     droolingLevel: null,
     distinctiveFeatures: [
-      "Broad, square head with prominent cheeks.",
-      "Short, broad muzzle and an undershot lower jaw.",
-      "Large, broad, black nose with open nostrils preferred by the breed standard.",
-      "Small, thin rose-shaped ears.",
-      "Round, wide-set, very dark eyes.",
-      "Broad chest, compact body, and strong, muscular limbs.",
-      "Loose skin and facial folds that need regular checking and careful drying.",
-      "Short, smooth coat with a range of recognised solid, brindle, and pied colours.",
-      "Distinctive short-stepped movement; soundness of movement is important.",
+      "Broad, square head with prominent cheeks",
+      "Short, broad muzzle and an undershot lower jaw",
+      "Large, broad black nose with wide, open nostrils to facilitate unobstructed airflow",
+      "Small, thin rose-shaped ears set high and wide",
+      "Round, wide-set, dark eyes with no visible white when looking forward",
+      "Broad chest, compact torso, and heavy, muscular front quarters",
+      "Loose skin and facial folds requiring regular hygiene and drying",
+      "Short, smooth coat in solid, brindle, or pied variations",
+      "Characteristic short, rolling gait resulting from wide front and narrower rear assembly",
     ],
   },
   temperament: {
     traits: [
-      "Generally affectionate with familiar people",
-      "Often calm and companionable",
-      "Alert and courageous",
+      "Affectionate and companionable",
+      "Calm and steady",
+      "Courageous and resolute",
       "Loyal and dependable",
-      "Can be determined or strong-willed",
-      "May be less tolerant of heat and strenuous exercise than many longer-muzzled breeds",
-      "Individual temperament varies with genetics, health, socialisation, and experience",
+      "Determined and deliberate",
+      "Sensitive to heat and strenuous exertion",
     ],
     scores: {
       affection: 4,
@@ -124,51 +122,49 @@ export const bulldog: Breed = {
         "Low to moderate. Provide regular, gentle activity suited to the individual dog. Avoid forcing exercise in hot or humid conditions, and stop if breathing becomes difficult or the dog shows signs of overheating.",
       minutesPerDay: null,
       activities: [
-        "Short, relaxed walks in cool conditions",
-        "Gentle play with frequent opportunities to rest",
-        "Reward-based indoor training games",
-        "Low-impact enrichment and food-puzzle activities",
-        "Calm sniffing walks adapted to the dog's breathing and fitness",
+        "Short, relaxed walks during the cooler morning or evening hours",
+        "Gentle indoor playtime with frequent rest pauses",
+        "Reward-based training games focused on basic manners",
+        "Low-impact mental enrichment and puzzle feeders",
+        "Leisurely sniffing walks tailored to personal breathing comfort",
       ],
     },
     grooming: {
       level:
         "Low coat-maintenance needs, with extra routine attention required for skin folds, paws, and the area beneath the tail.",
       brushing:
-        "Brush the short coat several times a week with a soft brush or grooming mitt, increasing as needed during shedding.",
+        "Brush the short coat several times a week with a soft rubber curry brush or grooming mitt to remove loose hair and stimulate natural oils.",
       bathing:
-        "Bathe when necessary using a dog-appropriate shampoo. Dry the skin thoroughly afterward, especially in skin folds.",
+        "Bathe when necessary using a gentle, hypoallergenic dog shampoo. Dry all skin folds and body creases completely to avoid moisture buildup.",
       notes: [
-        "Inspect facial folds and other skin creases regularly; gently clean and dry them as needed.",
-        "Moisture and debris trapped in skin folds can contribute to irritation and infection.",
-        "Check the area around and beneath the tail for trapped moisture, redness, or soreness.",
-        "Keep nails at a comfortable length and check paws for redness or interdigital irritation.",
-        "Brush teeth regularly with dog-safe dental products.",
-        "Avoid heavy exercise in heat and humidity, and provide shade, ventilation, and fresh water.",
+        "Inspect facial wrinkles and nose ropes daily; clean and dry them thoroughly to prevent moisture accumulation.",
+        "Check beneath the tail pocket regularly for redness, debris, or dampness.",
+        "Maintain comfortable nail length to support correct foot placement.",
+        "Brush teeth routinely with canine-specific dental products.",
+        "Avoid vigorous exercise in hot or humid weather, providing immediate access to air conditioning and fresh water.",
       ],
     },
     training: {
       difficulty:
-        "Moderate. Consistent, patient, reward-based sessions are preferable to long or physically demanding drills.",
+        "Moderate. Responds best to patient, reward-based sessions rather than repetitive or physically demanding drills.",
       tips: [
-        "Start with short, positive sessions and reward calm, useful behaviour.",
-        "Practise basic cues, gentle handling, and cooperative grooming from an early age.",
-        "Use food rewards or play when appropriate, while monitoring body condition and total daily food intake.",
-        "Avoid training in hot or humid conditions.",
-        "Do not force exercise or continued activity when breathing becomes noisy, laboured, or unusually rapid.",
-        "Ask a veterinarian about exercise limits if the dog has breathing, joint, cardiac, or other health problems.",
+        "Keep training intervals short, positive, and focused on essential manners.",
+        "Utilise high-value food rewards while monitoring overall caloric intake.",
+        "Practice gentle handling and cooperative care for wrinkle and paw cleaning from puppyhood.",
+        "Never train outdoors in warm, humid weather.",
+        "Cease exercise immediately if breathing becomes raspy, laboured, or unusually loud.",
       ],
       socialization:
-        "Use gradual, positive introductions to people, places, sounds, and suitable dogs. Supervise interactions with children and other animals, and allow the dog to rest or disengage.",
+        "Introduce puppies gradually to various people, quiet surfaces, and well-mannered dogs to foster a confident, unflappable adult temperament.",
     },
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: null,
       climates: [
-        "Heat and humidity require particular caution because short-muzzled dogs may have difficulty cooling themselves through panting.",
-        "Provide shade, fresh water, good ventilation, and access to a cool indoor space.",
-        "Avoid leaving the dog in a parked vehicle, even for a short period in warm conditions.",
-        "Adjust walks and outdoor activity to the weather and the individual dog's breathing and fitness.",
+        "Highly vulnerable to warm, humid conditions due to compromised panting efficiency.",
+        "Requires reliable indoor temperature regulation and shade during summer months.",
+        "Never leave in a parked vehicle or poorly ventilated environment.",
+        "Tolerates cool temperate weather well, but protect from freezing dampness.",
       ],
       aloneTimeTolerance: null,
     },
@@ -182,48 +178,45 @@ export const bulldog: Breed = {
       senior: null,
     },
     guidelines:
-      "Measure portions and adjust them according to body condition, age, activity, and veterinary advice. Avoid overfeeding and monitor weight regularly, as excess body weight can add strain and complicate mobility and breathing. Fresh drinking water should always be available.",
+      "Measure food portions carefully to maintain a lean body condition score. Because excess weight exacerbates respiratory and orthopedic difficulties, calorie intake should be strictly monitored in consultation with a veterinarian.",
     considerations: [
-      "Bulldogs can gain excess weight if food portions and treats are not managed carefully.",
-      "Count treats as part of the daily food allowance.",
-      "Discuss persistent digestive symptoms, food reactions, or unexplained weight changes with a veterinarian.",
-      "Ask a veterinarian to recommend a suitable diet for puppies, older dogs, or dogs with diagnosed health conditions.",
+      "Bulldogs readily gain excess body mass, which significantly impairs breathing and mobility.",
+      "Factor training treats directly into the total daily food allocation.",
+      "Ensure clean drinking water is accessible at all times in a wide, shallow bowl suited to a flat face.",
+      "Avoid strenuous physical exertion immediately before and after meal times.",
     ],
     note:
-      "A single calorie target or meal schedule cannot be reliably assigned to every Bulldog. Needs vary with age, body condition, health, and activity.",
+      "Individual caloric requirements depend on age, metabolic rate, and physical soundness; consult a veterinarian for tailored nutritional plans.",
   },
   health: {
     overview:
-      "Bulldogs have important health and welfare considerations associated with their short muzzle and compact body shape. Research on UK veterinary records has reported increased odds of several disorders in English Bulldogs, including brachycephalic obstructive airway syndrome (BOAS), skin-fold dermatitis, cherry eye, entropion, dry eye, and interdigital cysts. These are population-level findings, not a diagnosis for an individual dog. Breathing comfort, heat tolerance, skin condition, eyes, paws, mobility, and body condition deserve particular attention. Seek veterinary advice early if breathing is noisy or laboured, exercise tolerance changes, or skin and eye problems recur.",
+      "Bulldogs have important health and welfare considerations associated with their brachycephalic skull and compact conformation. Epidemiological research on clinical veterinary records documents increased relative risks for brachycephalic obstructive airway syndrome (BOAS), skin-fold dermatitis, cherry eye, entropion, dry eye, and interdigital cysts. Pre-breeding diagnostic examinations assess airway dimensions, cardiac function, and joint integrity to inform responsible breeding and preventive management.",
     commonConditions: [
-      "Brachycephalic obstructive airway syndrome (BOAS), which can impair breathing and heat regulation.",
-      "Skin-fold dermatitis, particularly where skin remains damp or irritated.",
-      "Cherry eye (prolapse of the gland of the third eyelid).",
-      "Entropion and other eyelid or eye-surface problems, including dry eye.",
-      "Interdigital cysts or inflammation between the toes.",
-      "Tracheal hypoplasia is a recognised breed-club screening concern.",
-      "Patellar luxation and cardiac conditions are included in breed-club screening recommendations.",
+      "Brachycephalic obstructive airway syndrome (BOAS) — upper airway stenosis and elongated soft palate impairing respiration and heat regulation.",
+      "Skin-fold dermatitis — bacterial or fungal intertrigo within facial creases and tail pockets.",
+      "Ophthalmic disorders — including prolapse of the third eyelid gland (cherry eye), entropion, and keratoconjunctivitis sicca.",
+      "Tracheal hypoplasia — congenital narrowing of the windpipe requiring radiographic evaluation.",
+      "Patellar luxation and congenital heart anomalies — musculoskeletal and cardiovascular conditions monitored through clinical health screening.",
+      "Interdigital furunculosis — inflammatory cysts developing between the toes.",
     ],
     preventiveCare: [
-      "Arrange regular veterinary examinations and discuss breathing, eyes, skin folds, mobility, and body condition.",
-      "Seek veterinary advice for persistent snoring with effort, noisy breathing, fainting, blue or grey gums, or reduced exercise tolerance.",
-      "Avoid heat exposure and never leave the dog in a parked vehicle.",
-      "Keep skin folds and the area beneath the tail clean and dry.",
-      "Maintain a healthy body condition and avoid strenuous exercise in warm or humid weather.",
-      "Keep vaccinations and parasite prevention appropriate to the dog's location and lifestyle.",
-      "Seek veterinary care for recurring skin inflammation, eye discharge, lameness, or paw lesions.",
+      "Schedule regular veterinary examinations focusing on respiratory airflow, eyes, skin folds, and weight management.",
+      "Seek prompt medical advice for loud breathing, persistent snoring with effort, exercise intolerance, or blueish gums.",
+      "Practice strict heat prevention, ensuring cool indoor environments during warm seasons.",
+      "Cleanse and dry facial wrinkles and the tail pocket daily.",
+      "Maintain a strictly controlled, lean body weight to alleviate joint and airway stress.",
     ],
     recommendedScreenings: [
-      "Patella evaluation.",
-      "Cardiac examination.",
+      "Clinical patellar evaluation by a veterinarian.",
+      "Comprehensive cardiac examination.",
       "Radiographic evaluation for tracheal hypoplasia.",
     ],
     dentalCare:
-      "Brush the teeth regularly with dog-safe toothpaste and arrange veterinary dental checks as recommended. Seek advice about difficulty chewing, oral pain, or changes in eating.",
+      "Brush teeth regularly using dog-formulated enzymatic toothpaste, arranging veterinary dental evaluations to manage crowded incisors resulting from an undershot jaw.",
     earCare:
-      "Check the ears routinely for redness, odour, discharge, or persistent scratching. Use only a suitable ear-cleaning product as advised by a veterinarian.",
+      "Inspect rose ears weekly for redness, discharge, or odor, cleansing gently with a veterinarian-approved ear solution when needed.",
     skinCare:
-      "Check facial folds, other skin creases, paws, and the area beneath the tail. Keep affected areas clean and dry, and consult a veterinarian for redness, odour, soreness, discharge, or recurrent irritation.",
+      "Perform daily inspection and gentle drying of facial folds, tail base, and interdigital spaces, applying veterinary-prescribed topical cleansers if irritation emerges.",
   },
   suitability: {
     firstTimeOwners: null,
@@ -232,58 +225,58 @@ export const bulldog: Breed = {
     activeOwners: null,
     apartmentLiving: null,
     idealFor: [
-      "Households looking for a companion that enjoys being near its people",
-      "Owners able to maintain regular skin-fold and general health care",
-      "People who can provide gentle, consistent exercise and manage hot-weather risks",
-      "Households prepared for potentially significant veterinary needs",
+      "Households seeking a calm, loyal companion that enjoys indoor family relaxation",
+      "Owners prepared to perform daily skin-fold hygiene and wrinkle drying",
+      "People who can provide temperature-controlled living spaces and gentle exercise",
+      "Owners willing to manage potential ongoing veterinary requirements responsibly",
     ],
     notIdealFor: [
-      "People seeking a dog for running, strenuous hiking, or sustained outdoor exercise",
-      "Households unable to provide a cool, well-ventilated environment in hot weather",
-      "Owners unable to manage routine skin-fold hygiene and veterinary follow-up",
-      "Anyone selecting primarily for an extremely flat face, exaggerated wrinkles, or other features that compromise comfort or function",
+      "People seeking a companion for running, hiking, or sustained outdoor recreation",
+      "Households unable to provide cool air conditioning during warm weather",
+      "Owners unable to maintain meticulous daily skin-fold care",
+      "Anyone prioritising exaggerated facial flatness or extreme wrinkles over health and comfort",
     ],
   },
   funFacts: [
-    "The Bulldog was historically associated with bull-baiting; after the practice was outlawed, the breed's role shifted toward companionship and showing.",
-    "Its distinctive short-stepped movement is often described as a rolling gait, but sound and comfortable movement remain important.",
-    "The breed's facial folds need practical care rather than being treated as purely decorative features.",
+    "The Bulldog was historically developed in Great Britain for arena bull-baiting before transitioning into a companion breed following nineteenth-century animal welfare reforms.",
+    "Its distinct rolling gait originates from a broad, heavy front combined with a lighter, slightly narrower hind assembly.",
+    "Facial wrinkles and skin folds are functional anatomical features that require dedicated daily cleansing and drying.",
   ],
   faq: [
     {
       question: "How much does a Bulldog weigh?",
       answer:
-        "The FCI standard lists a weight of 25 kg for males and 23 kg for females. These are standard figures, not a guarantee that every individual dog will have that weight.",
+        "Codified target weights are 25 kg for adult males and 23 kg for adult females. An individual dog's healthy weight depends on frame size and muscular conditioning.",
     },
     {
-      question: "How long does a Bulldog usually live?",
+      question: "What is the typical lifespan of a Bulldog?",
       answer:
-        "The published breed profile gives a life expectancy of 8–10 years. Individual lifespan varies with health, genetics, care, and other factors.",
+        "Published kennel club breed profiles cite an average life expectancy of 8 to 10 years, with individual longevity influenced by respiratory health, weight management, and preventive veterinary care.",
     },
     {
-      question: "Does a Bulldog need a lot of exercise?",
+      question: "How much exercise does a Bulldog need?",
       answer:
-        "Most need regular gentle activity rather than sustained strenuous exercise. Adjust activity to the individual dog and avoid heat, humidity, and any exercise that causes breathing difficulty.",
+        "Most Bulldogs thrive on gentle, low-impact exercise, such as two short daily walks during the cool hours, avoiding heat, humidity, and any activity that induces respiratory strain.",
     },
     {
-      question: "Why is Bulldog health screening important?",
+      question: "Why is health screening essential for Bulldogs?",
       answer:
-        "The breed has documented health concerns involving breathing, skin folds, eyes, and other conditions. Breed-club screening recommendations include a patella evaluation, cardiac examination, and radiographic evaluation for tracheal hypoplasia. Discuss the individual dog's health with a veterinarian.",
+        "Health monitoring protocols recommend clinical patella evaluation, comprehensive cardiac examination, and radiographic evaluation for tracheal hypoplasia. Prospective owners should discuss diagnostic clearances with a veterinarian.",
     },
     {
-      question: "How should I care for a Bulldog's facial wrinkles?",
+      question: "How should an owner care for a Bulldog's facial wrinkles?",
       answer:
-        "Check the folds regularly and keep them clean and dry. Persistent redness, odour, moisture, discharge, or soreness should be assessed by a veterinarian rather than treated only with home cleaning.",
+        "Facial folds and the tail pocket should be inspected daily, wiped clean of debris, and dried thoroughly to prevent bacterial and fungal skin-fold infections.",
     },
     {
-      question: "Can Bulldogs live in hot climates?",
+      question: "Can Bulldogs tolerate hot weather?",
       answer:
-        "They need careful heat management. Short-muzzled dogs can struggle to cool themselves, especially in hot or humid weather. Provide shade, fresh water, ventilation, and a cool indoor area, and avoid strenuous outdoor activity during heat.",
+        "No. Due to their shortened facial anatomy, Bulldogs have difficulty dissipating body heat through panting and are highly susceptible to fatal heat stroke. They require air-conditioned indoor environments during warm weather.",
     },
     {
-      question: "Are Bulldogs good with children?",
+      question: "Are Bulldogs suitable for households with children?",
       answer:
-        "Some are affectionate family companions, but no breed is automatically suitable for every child or household. Supervise all interactions and consider the individual dog's health, temperament, and comfort around children.",
+        "Many Bulldogs are gentle and patient with children, but all interactions should be supervised, and children should be taught to respect the dog's resting needs and exercise limitations.",
     },
   ],
   references: [
@@ -295,6 +288,9 @@ export const bulldog: Breed = {
     "bulldog-club-of-america-health-testing",
     "rvc-vetcompass-english-bulldog-study",
     "wikimedia-english-bulldog-oxfordian-kissuth",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
   evidence: {
     alternateNames: {
@@ -305,48 +301,58 @@ export const bulldog: Breed = {
           role: "verified",
           locator: "Breed profile: English Bulldog alternate name",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names: English Bulldog, British Bulldog",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Uses a documented alternate name.",
+      verifiedOn: "2026-11-11",
+      note: "Uses documented alternate designations.",
     },
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No breed-specific scientific name is recorded in the selected breed sources.",
+      note: "Standard taxonomy classifies domestic dogs as Canis lupus familiaris; no unique taxonomic name applies specifically to this breed.",
     },
     group: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-bulldog-nomenclature-149",
           role: "verified",
-          locator: "Group 2, Section 2.1, Mastiff type",
+          locator: "Group 2, Section 2.1 Molossoid breeds, Mastiff type",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Uses the FCI classification.",
+      verifiedOn: "2026-11-11",
+      note: "Uses the Molossoid Mastiff-type classification.",
     },
     origin: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-bulldog-standard-149",
           role: "verified",
-          locator: "Origin and brief historical summary",
+          locator: "Origin: Great Britain; Brief historical summary",
+        },
+        {
+          id: "royal-kennel-club-bulldog-standard",
+          role: "verified",
+          locator: "Country of origin: Great Britain",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The standard identifies Great Britain as the origin.",
+      verifiedOn: "2026-11-11",
+      note: "The official breed standard identifies Great Britain as the origin.",
     },
     "origin.region": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The selected official standard does not specify a more precise region of origin.",
+      note: "Official breed standards identify Great Britain as the country of origin without establishing a single regional subdivision.",
     },
     overview: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-bulldog-standard-149",
@@ -354,18 +360,18 @@ export const bulldog: Breed = {
           locator: "General appearance, temperament, historical summary, and utilisation",
         },
         {
+          id: "royal-kennel-club-bulldog-standard",
+          role: "verified",
+          locator: "General appearance, temperament, and characteristics",
+        },
+        {
           id: "american-kennel-club-bulldog",
           role: "verified",
           locator: "About the Breed and History",
         },
-        {
-          id: "royal-kennel-club-bulldog-standard",
-          role: "verified",
-          locator: "General appearance, temperament, movement, and coat",
-        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "User-facing descriptions are original summaries of the breed's history and characteristics.",
+      verifiedOn: "2026-11-11",
+      note: "Descriptions are original summaries of documented history, characteristics, and welfare priorities.",
     },
     physical: {
       reliability: "official_standard",
@@ -378,11 +384,11 @@ export const bulldog: Breed = {
         {
           id: "royal-kennel-club-bulldog-standard",
           role: "verified",
-          locator: "General appearance, coat, colours, and size",
+          locator: "General appearance, head and skull, coat, colours, and size",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Standard-based physical description; unavailable and estimated fields are overridden below.",
+      verifiedOn: "2026-11-11",
+      note: "Physical descriptions follow official breed standards.",
     },
     "physical.sizeCategory": {
       reliability: "estimate",
@@ -394,13 +400,13 @@ export const bulldog: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Editorial category inferred from the compact build and standard weight figures.",
+      note: "Editorial size classification inferred from adult weight standards and compact stature.",
     },
     "physical.height": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The FCI standard gives no height measurement. The general height range on the AKC profile is not sex-specific, so it is not forced into the schema's male/female measurement fields.",
+      note: "Neither the country-of-origin standard (Royal Kennel Club) nor international standard (FCI) specifies a numeric height range. The Dog API records an empirical range of 36–38 cm, but this remains uncodified.",
     },
     "physical.weight": {
       reliability: "official_standard",
@@ -408,11 +414,16 @@ export const bulldog: Breed = {
         {
           id: "fci-bulldog-standard-149",
           role: "verified",
-          locator: "WEIGHT: Males 25 kgs; Females 23 kgs",
+          locator: "WEIGHT: Dogs 25 kgs; Bitches 23 kgs",
+        },
+        {
+          id: "royal-kennel-club-bulldog-standard",
+          role: "verified",
+          locator: "Weight: Dogs: 25 kgs (55 lbs); Bitches: 23 kgs (50 lbs)",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The standard's exact kilogram figures are stored as single-value ranges without unit conversion.",
+      verifiedOn: "2026-11-11",
+      note: "The official breed standards specify discrete target weights of 25 kg for males and 23 kg for females. Kilograms are retained without conversion.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -420,11 +431,45 @@ export const bulldog: Breed = {
         {
           id: "american-kennel-club-bulldog",
           role: "verified",
-          locator: "Average sizes and life expectancy",
+          locator: "Average sizes and life expectancy: 8–10 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span: 8 - 10 years",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Published life expectancy is 8–10 years; individual lifespan varies.",
+      verifiedOn: "2026-11-11",
+      note: "Published breed profiles cite a life expectancy of 8–10 years.",
+    },
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-bulldog-standard-149",
+          role: "verified",
+          locator: "Coat: hair short, close, smooth",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-bulldog-standard-149",
+          role: "verified",
+          locator: "Colour section",
+        },
+        {
+          id: "royal-kennel-club-bulldog-standard",
+          role: "verified",
+          locator: "Colour section",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Colours follow the official standards.",
     },
     "physical.sheddingLevel": {
       reliability: "reliable_source",
@@ -435,31 +480,36 @@ export const bulldog: Breed = {
           locator: "Grooming: brushing and heavier shedding periods",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Describes routine coat shedding and grooming needs.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable breed-specific drooling level was established from the selected sources.",
+      note: "No reliable breed-specific drooling measurement was established.",
     },
     temperament: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-bulldog-standard-149",
           role: "verified",
-          locator: "Behaviour and temperament",
+          locator: "Behaviour / Temperament",
         },
         {
-          id: "american-kennel-club-bulldog",
+          id: "royal-kennel-club-bulldog-standard",
           role: "verified",
-          locator: "Breed profile and temperament summary",
+          locator: "Characteristics and temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Temperament traits describe common breed tendencies, not guaranteed individual behaviour.",
+      verifiedOn: "2026-11-11",
+      note: "Temperament traits describe common breed tendencies.",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -469,14 +519,9 @@ export const bulldog: Breed = {
           role: "cited",
           locator: "Breed traits and characteristics",
         },
-        {
-          id: "fci-bulldog-standard-149",
-          role: "cited",
-          locator: "Behaviour and temperament",
-        },
       ],
       verifiedOn: null,
-      note: "Editorial 1–5 scores based on general breed descriptions, not official measurements or predictions for an individual dog.",
+      note: "Editorial 1–5 scores based on general breed descriptions.",
     },
     care: {
       reliability: "reliable_source",
@@ -492,14 +537,14 @@ export const bulldog: Breed = {
           locator: "Breed health resources and screening recommendations",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Breed-specific care advice is combined with cautious, practical guidance.",
+      verifiedOn: "2026-11-11",
+      note: "Care advice reflects practical husbandry tailored to brachycephalic dogs.",
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No single daily minute range is assigned because exercise tolerance varies and can be limited by breathing, heat, age, and health.",
+      note: "No single daily minute range is assigned because exercise tolerance varies significantly based on respiratory function, temperature, and age.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
@@ -511,7 +556,7 @@ export const bulldog: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A yard alone does not establish suitability; the individual dog's health, supervision, and environment matter.",
+      note: "A yard alone does not establish suitability; individual health, temperature regulation, and supervision matter.",
     },
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
@@ -523,36 +568,24 @@ export const bulldog: Breed = {
       reliability: "general_guidance",
       sources: [
         {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+        {
           id: "american-kennel-club-bulldog",
           role: "cited",
           locator: "Nutrition and maintaining a healthy body condition",
         },
-        {
-          id: "bulldog-club-of-america-health-testing",
-          role: "cited",
-          locator: "Breed health and welfare resources",
-        },
       ],
       verifiedOn: null,
-      note: "General feeding advice is not a breed-specific prescription.",
+      note: "General feeding advice following WSAVA guidelines; not a breed-specific prescription.",
     },
-    "nutrition.feedingFrequency.puppy": {
+    "nutrition.feedingFrequency": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A universal puppy feeding frequency is not assigned; follow age-appropriate veterinary guidance.",
-    },
-    "nutrition.feedingFrequency.adult": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "A universal adult feeding frequency is not assigned; follow the dog's individual needs and veterinary advice.",
-    },
-    "nutrition.feedingFrequency.senior": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "A universal senior feeding frequency is not assigned; follow the dog's individual needs and veterinary advice.",
+      note: "Feeding frequency and portion sizes vary according to individual age, metabolism, and veterinary guidance.",
     },
     health: {
       reliability: "reliable_source",
@@ -573,8 +606,8 @@ export const bulldog: Breed = {
           locator: "Health and heat precautions",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Separates population-level disorder associations and breeding-screening recommendations from an individual dog's diagnosis.",
+      verifiedOn: "2026-11-11",
+      note: "Separates population-level disorder associations and pre-breeding screening recommendations from an individual dog's diagnosis.",
     },
     "health.commonConditions": {
       reliability: "reliable_source",
@@ -590,8 +623,25 @@ export const bulldog: Breed = {
           locator: "Patella, cardiac, and tracheal hypoplasia screening",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "The study reports population-level associations; it does not imply that every Bulldog will develop these conditions.",
+    },
+    "health.recommendedScreenings": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-coton-de-tulear-health-testing-recommendations",
+          role: "verified",
+          locator: "Bulldog: patella evaluation, cardiac exam, and tracheal hypoplasia radiographic evaluation",
+        },
+        {
+          id: "bulldog-club-of-america-health-testing",
+          role: "verified",
+          locator: "Recommended Bulldog health tests",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: "Lists screening recommendations established by national breed clubs.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
@@ -610,30 +660,13 @@ export const bulldog: Breed = {
       verifiedOn: null,
       note: "Practical preventive advice; veterinary care should be tailored to the individual dog.",
     },
-    "health.recommendedScreenings": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "akc-coton-de-tulear-health-testing-recommendations",
-          role: "verified",
-          locator: "Bulldog: patella evaluation, cardiac exam, and tracheal hypoplasia radiographic evaluation",
-        },
-        {
-          id: "bulldog-club-of-america-health-testing",
-          role: "verified",
-          locator: "Recommended Bulldog health tests",
-        },
-      ],
-      verifiedOn: "2026-10-26",
-      note: "Lists breed-club screening recommendations; discuss individual testing decisions with a veterinarian.",
-    },
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "american-kennel-club-bulldog",
+          id: "avma-pet-dental-care",
           role: "cited",
-          locator: "General care and health guidance",
+          locator: "Home dental hygiene and professional dental evaluation",
         },
       ],
       verifiedOn: null,
@@ -682,7 +715,7 @@ export const bulldog: Breed = {
           locator: "Health and welfare resources",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Suitability lists reflect care demands and welfare considerations rather than a guarantee about any individual dog.",
     },
     "suitability.firstTimeOwners": {
@@ -729,7 +762,7 @@ export const bulldog: Breed = {
           locator: "History and breed profile",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Facts are paraphrased in original wording.",
     },
     faq: {
@@ -756,9 +789,9 @@ export const bulldog: Breed = {
           locator: "Health findings and population-level limitations",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Answers are original summaries of the referenced standards, health guidance, and research.",
     },
   },
-  updatedOn: "2026-10-26",
+  updatedOn: "2026-11-11",
 };
