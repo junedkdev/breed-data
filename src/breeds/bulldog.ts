@@ -320,13 +320,18 @@ export const bulldog: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-bulldog-nomenclature-149",
+          id: "fci-bulldog-standard-149",
           role: "verified",
-          locator: "Group 2, Section 2.1 Molossoid breeds, Mastiff type",
+          locator: "FCI classification: Group 2, Section 2.1 Molossoid breeds, Mastiff type",
+        },
+        {
+          id: "royal-kennel-club-bulldog-standard",
+          role: "verified",
+          locator: "Utility group classification",
         },
       ],
       verifiedOn: "2026-11-11",
-      note: "Uses the Molossoid Mastiff-type classification.",
+      note: "Uses the official breed standard classifications.",
     },
     origin: {
       reliability: "official_standard",

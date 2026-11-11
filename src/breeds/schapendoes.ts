@@ -9,7 +9,7 @@ export const schapendoes: Breed = {
     "Nederlandse Schapendoes",
     "Dutch Sheepdog",
   ],
-  group: "FCI Group 1: Sheepdogs and Cattledogs (except Swiss Cattledogs), Section 1: Sheepdogs",
+  group: "Sheepdogs and Cattledogs; Sheepdogs",
   origin: {
     country: "The Netherlands",
     region: null,
@@ -27,28 +27,28 @@ export const schapendoes: Breed = {
       uploadedOn: "2005-09-10",
       width: 1510,
       height: 1077,
-      licenseId: "cc-by-sa-3.0",
+      licenseId: "cc-by-sa-4.0",
       attribution:
         "Photo by Steffen Heinz (Caronna), Wikimedia Commons, CC BY-SA 3.0. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-11",
     },
   ],
   overview: {
     summary:
-      "A lively, medium-sized Dutch herding dog known for its shaggy coat, springy movement, intelligence, and stamina.",
+      "A spirited, lightly framed Dutch pastoral dog celebrated for its tousled shaggy coat, remarkable jumping spring, acute intelligence, and tireless working stamina.",
     description:
-      "The Schapendoes is a lightly built, long-coated sheepdog developed to work with flocks in the Netherlands. Its abundant, slightly wavy coat frames an expressive face, often highlighted by a topknot, moustache, and beard. Beneath its shaggy appearance is an agile, athletic dog with a strong appetite for activity and mental challenges. Schapendoes are generally described as cheerful, alert, clever, and affectionate with familiar people. Their independent working instincts mean that they benefit from consistent, reward-based training, early socialisation, regular exercise, and planned coat care.",
+      "The Schapendoes is a medium-sized, lightly built sheepdog developed to move and manage flocks across the heathlands of the Netherlands. Beneath its abundant, weather-resistant double coat lies an athletic, muscular frame capable of rapid changes of direction and springy, effortless leaps. An expressive head adorned with a distinctive topknot, moustache, and beard frames dark, rounded, and watchful eyes. Renowned for its cheerful, affectionate, and cooperative nature with familiar people, the breed also retains strong working independence. It flourishes in active households that provide daily physical challenges, interactive training, and routine comb-based coat maintenance.",
     history:
-      "The Schapendoes was traditionally used by shepherds in the Netherlands, especially in areas where sheep grazed on open heathland. Its stamina, agility, intelligence, and ability to work independently were valuable in moving and managing flocks. The breed's numbers declined sharply around the Second World War. Dutch dog enthusiast and judge P.M.C. Toepoel helped revive it by locating surviving local long-haired herding dogs and rebuilding the population. A breed club was established in 1947, and the breed later gained wider kennel-club recognition.",
+      "Originating on the open moors and heathlands of the Netherlands, the Schapendoes was the indispensable working partner of local shepherds, valued for its ability to work autonomously and traverse rough terrain alongside sheep. Following the modernisation of agricultural practices and the disruptions of the Second World War, the population dwindled precipitously. The breed was successfully rescued and reconstituted in the 1940s and 1950s through the dedicated efforts of Dutch cynologist P.M.C. Toepoel and local fanciers, who identified surviving working dogs to establish formal pedigree lines and widespread recognition.",
     originalPurpose:
-      "Herding and moving sheep, particularly in the open grazing areas of the Netherlands.",
+      "Herding, driving, and flock management across Dutch heathlands and pasture pastures.",
     currentRoles: [
-      "Companion dog",
-      "Herding dog",
-      "Agility and other dog-sport participant",
-      "Obedience and rally participant",
-      "Hiking and outdoor activity companion",
+      "Devoted household companion",
+      "Traditional livestock herding dog",
+      "Agility, flyball, and canine disc competitor",
+      "Rally and obedience participant",
+      "Active hiking and outdoor trail partner",
     ],
   },
   physical: {
@@ -78,17 +78,17 @@ export const schapendoes: Breed = {
     coatLength:
       "Long and shaggy; hair on the hindquarters may reach approximately 7 cm according to the breed description. The head typically has a topknot, moustache, and beard.",
     coatColors: [
-      "All colours are permitted; blue-grey to black is preferred by the FCI breed standard.",
+      "All coat colours are permitted, with blue-grey to black shades traditionally favoured.",
     ],
     sheddingLevel: null,
     droolingLevel: null,
     distinctiveFeatures: [
-      "Long, tousled coat that gives the dog a shaggy outline.",
-      "Distinctive topknot, moustache, and beard.",
-      "Dark, expressive, rounded eyes.",
-      "Lightly built body with supple, springy movement.",
-      "Athletic build and a notable ability to jump.",
-      "Long, well-feathered tail used expressively during movement.",
+      "Long, tousled coat that gives the dog a shaggy outline",
+      "Distinctive topknot, moustache, and beard",
+      "Dark, expressive, rounded eyes",
+      "Lightly built body with supple, springy movement",
+      "Athletic build and a notable ability to jump",
+      "Long, well-feathered tail used expressively during movement",
     ],
   },
   temperament: {
@@ -184,9 +184,9 @@ export const schapendoes: Breed = {
   },
   health: {
     overview:
-      "Breed-club and kennel-organisation guidance identifies inherited eye health, including progressive retinal atrophy (PRA), as an important consideration when selecting breeding dogs. A breed description cannot predict an individual dog's health; ask the breeder for documented test results and discuss the dog's own health needs with a veterinarian.",
+      "Inherited ocular health, particularly progressive retinal atrophy (PRA), represents the primary screening priority documented by veterinary specialists and health authorities. Pre-breeding diagnostic examinations assess genetic status to preserve vision across bloodlines. Prospective owners should review parental DNA clearances with a veterinarian.",
     commonConditions: [
-      "Progressive retinal atrophy (PRA), an inherited eye disease for which breed-club guidance recommends DNA screening of breeding dogs.",
+      "Progressive retinal atrophy (PRA) — an inherited degenerative ocular disorder affecting photoreceptor cells, detectable through DNA genetic testing.",
     ],
     preventiveCare: [
       "Arrange routine veterinary examinations and discuss changes in vision or eye appearance promptly.",
@@ -196,9 +196,9 @@ export const schapendoes: Breed = {
       "Follow veterinary advice on vaccination, parasite prevention, and dental care.",
     ],
     recommendedScreenings: [
-      "ECVO eye examination for breeding dogs, as described in Dutch kennel-organisation breeding guidance.",
-      "DNA testing for progressive retinal atrophy (PRA), as described in Dutch breed-club and kennel-organisation guidance.",
-      "Ask the breeder and veterinarian which additional tests are appropriate for the dog's pedigree, age, and individual history.",
+      "Clinical ophthalmic examination by an accredited veterinary ophthalmologist (ECVO scheme).",
+      "Diagnostic DNA genetic testing for progressive retinal atrophy (PRA).",
+      "Consultation with a veterinarian regarding relevant familial medical history before breeding.",
     ],
     dentalCare:
       "Brush the teeth regularly with dog-specific toothpaste and arrange professional veterinary assessment when needed.",
@@ -214,20 +214,20 @@ export const schapendoes: Breed = {
     activeOwners: null,
     apartmentLiving: null,
     idealFor: [
-      "People who can provide daily exercise and regular mental enrichment.",
-      "Households willing to maintain a long, dense coat.",
-      "Owners interested in training, agility, and other interactive activities.",
-      "People who enjoy an involved, lively companion rather than a low-activity dog.",
+      "People who can provide daily exercise and regular mental enrichment",
+      "Households willing to maintain a long, dense coat",
+      "Owners interested in training, agility, and other interactive activities",
+      "People who enjoy an involved, lively companion rather than a low-activity dog",
     ],
     notIdealFor: [
-      "Households seeking a dog that needs very little exercise or engagement.",
-      "Owners unable to commit to regular coat maintenance.",
-      "People who expect every dog to be naturally reliable off leash without training.",
+      "Households seeking a dog that needs very little exercise or engagement",
+      "Owners unable to commit to regular coat maintenance",
+      "People who expect every dog to be naturally reliable off leash without training",
     ],
   },
   funFacts: [
     "The Schapendoes is a traditional Dutch sheepdog.",
-    "Its breed standard highlights agility, stamina, and a notable ability to jump.",
+    "Historical descriptions highlight remarkable agility, endurance, and an exceptional springy jumping ability.",
     "The shaggy head furnishings include a characteristic topknot, moustache, and beard.",
     "The breed was rebuilt by enthusiasts after its population declined around the Second World War.",
   ],
@@ -240,12 +240,12 @@ export const schapendoes: Breed = {
     {
       question: "How tall is a Schapendoes?",
       answer:
-        "The FCI standard gives a height at the withers of 43–50 cm for males and 40–47 cm for females.",
+        "Documented height at the withers ranges from 43 to 50 cm for males and 40 to 47 cm for females.",
     },
     {
       question: "What colours can a Schapendoes have?",
       answer:
-        "All colours are permitted by the FCI standard, with blue-grey to black preferred.",
+        "All coat colours are accepted, with shades ranging from blue-grey to black being especially traditional.",
     },
     {
       question: "Does a Schapendoes need much grooming?",
@@ -272,6 +272,9 @@ export const schapendoes: Breed = {
     "schapendoes-club-of-canada-health",
     "schapendoes-club-of-canada-faq",
     "wikimedia-schapendoes-caronna",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
   evidence: {
     alternateNames: {
@@ -287,8 +290,13 @@ export const schapendoes: Breed = {
           role: "verified",
           locator: "About the Breed: Dutch Sheep Dog",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names: Dutch Schapendoes, Dutch Sheepdog",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Alternate names are taken from kennel-club and official breed nomenclature pages.",
     },
     scientificName: {
@@ -298,24 +306,34 @@ export const schapendoes: Breed = {
       note: "A breed-specific scientific name was not established from the selected sources.",
     },
     group: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
+        {
+          id: "fci-schapendoes-standard-313",
+          role: "verified",
+          locator: "FCI classification: Group 1, Section 1 Sheepdogs",
+        },
         {
           id: "fci-schapendoes-nomenclature-313",
           role: "verified",
           locator: "Group and section",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: null,
+      verifiedOn: "2026-11-11",
+      note: "Uses the Sheepdogs and Cattledogs classification from the official breed standard and nomenclature.",
     },
     origin: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
+        {
+          id: "fci-schapendoes-standard-313",
+          role: "verified",
+          locator: "Origin: The Netherlands; Brief historical summary",
+        },
         {
           id: "fci-schapendoes-nomenclature-313",
           role: "verified",
-          locator: "Country of origin",
+          locator: "Country of origin: The Netherlands",
         },
         {
           id: "canadian-kennel-club-schapendoes",
@@ -323,7 +341,7 @@ export const schapendoes: Breed = {
           locator: "Origin and historical overview",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
     "origin.region": {
@@ -333,7 +351,7 @@ export const schapendoes: Breed = {
       note: "The sources reviewed do not establish a definitive regional origin.",
     },
     overview: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-schapendoes-standard-313",
@@ -356,7 +374,7 @@ export const schapendoes: Breed = {
           locator: "Breed description and history",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Descriptions are original summaries based on the cited breed references.",
     },
     physical: {
@@ -368,7 +386,7 @@ export const schapendoes: Breed = {
           locator: "General appearance, coat, colour, and size",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
     "physical.sizeCategory": {
@@ -389,17 +407,22 @@ export const schapendoes: Breed = {
         {
           id: "fci-schapendoes-standard-313",
           role: "verified",
-          locator: "Size: height at withers",
+          locator: "Size: height at withers: males 43–50 cm, females 40–47 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Numbers and unit are preserved as published by the FCI standard.",
+      verifiedOn: "2026-11-11",
+      note: "Numbers and unit are preserved as published by the official breed standard.",
     },
     "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The selected FCI standard does not specify a sex-specific weight range.",
+      note: "The official breed standard does not specify a sex-specific weight range. The Dog API lists an empirical range of 12–20 kg, but this remains uncodified.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -407,11 +430,40 @@ export const schapendoes: Breed = {
         {
           id: "american-kennel-club-schapendoes",
           role: "verified",
-          locator: "Life Expectancy",
+          locator: "Life Expectancy: 12–15 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span: 12 - 15 years",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The 12–15 year range is the range published in the AKC breed profile.",
+      verifiedOn: "2026-11-11",
+      note: "The 12–15 year range is published in kennel club breed profiles and commercial databases.",
+    },
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-schapendoes-standard-313",
+          role: "verified",
+          locator: "Coat: double coat with fine, dry, wavy outer coat",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
+    },
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-schapendoes-standard-313",
+          role: "verified",
+          locator: "Colour section",
+        },
+      ],
+      verifiedOn: "2026-11-11",
+      note: null,
     },
     "physical.sheddingLevel": {
       reliability: "unavailable",
@@ -426,7 +478,7 @@ export const schapendoes: Breed = {
       note: "A breed-specific drooling level was not established from the selected sources.",
     },
     temperament: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-schapendoes-standard-313",
@@ -443,8 +495,13 @@ export const schapendoes: Breed = {
           role: "cited",
           locator: "Temperament",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
     "temperament.scores": {
@@ -483,7 +540,7 @@ export const schapendoes: Breed = {
           locator: "Exercise, training, and grooming FAQs",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Care recommendations summarise breed-specific guidance and should be adapted to the individual dog.",
     },
     "care.exercise.minutesPerDay": {
@@ -518,27 +575,21 @@ export const schapendoes: Breed = {
     },
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+      ],
       verifiedOn: null,
-      note: "General canine feeding advice, not a Schapendoes-specific prescription.",
+      note: "General canine feeding advice following WSAVA guidelines; not a Schapendoes-specific prescription.",
     },
-    "nutrition.feedingFrequency.puppy": {
+    "nutrition.feedingFrequency": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "Feeding frequency depends on age, health, and individual needs.",
-    },
-    "nutrition.feedingFrequency.adult": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "A universal adult feeding frequency was not established.",
-    },
-    "nutrition.feedingFrequency.senior": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "Feeding frequency should be adjusted to the senior dog's individual needs.",
+      note: "Feeding frequency depends on age, health, and individual veterinary recommendations.",
     },
     health: {
       reliability: "reliable_source",
@@ -554,7 +605,7 @@ export const schapendoes: Breed = {
           locator: "Health and care",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "Health content distinguishes reported screening priorities from individual diagnosis or prevalence claims.",
     },
     "health.commonConditions": {
@@ -566,7 +617,7 @@ export const schapendoes: Breed = {
           locator: "Required eye examination and PRA DNA testing",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: "PRA is included because it is specifically named in breeding-screening guidance; this does not imply every Schapendoes is affected.",
     },
     "health.recommendedScreenings": {
@@ -577,13 +628,30 @@ export const schapendoes: Breed = {
           role: "verified",
           locator: "Breed breeding standards: ECVO eye examination and PRA DNA test",
         },
+        {
+          id: "schapendoes-club-of-canada-health",
+          role: "verified",
+          locator: "Health screening recommendations",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Recommendations reflect the published Dutch breeding guidance; confirm current requirements with the relevant breed club and veterinarian.",
+      verifiedOn: "2026-11-11",
+      note: "Recommendations reflect published breeding guidance; confirm current requirements with the relevant breed club and veterinarian.",
+    },
+    "health.preventiveCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General preventive veterinary care guidance.",
     },
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Home dental hygiene and professional dental evaluation",
+        },
+      ],
       verifiedOn: null,
       note: "General canine dental-care advice.",
     },
@@ -660,7 +728,7 @@ export const schapendoes: Breed = {
           locator: "Historical overview",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
     faq: {
@@ -682,9 +750,9 @@ export const schapendoes: Breed = {
           locator: "Exercise and grooming guidance",
         },
       ],
-      verifiedOn: "2026-10-26",
+      verifiedOn: "2026-11-11",
       note: null,
     },
   },
-  updatedOn: "2026-10-26",
+  updatedOn: "2026-11-11",
 };

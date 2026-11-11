@@ -427,7 +427,7 @@ references: [
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "Standard heading: CHIEN DE BERGER BELGE (Groenendael)"
         },
@@ -455,7 +455,7 @@ references: [
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattle Dogs), Section 1 Sheepdogs, with working trial"
         },
@@ -489,7 +489,7 @@ references: [
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "ORIGIN: Belgium; BRIEF HISTORICAL SUMMARY"
         },
@@ -512,7 +512,7 @@ references: [
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
         },
@@ -536,7 +536,7 @@ references: [
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
         },
@@ -560,7 +560,7 @@ references: [
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "SIZE: Height at withers: Males: 62 cm (ideal), 60-66 cm (limits). Females: 58 cm (ideal), 56-62 cm (limits)."
         },
@@ -584,7 +584,7 @@ references: [
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "Weight: Males: about 25-30 kg. Females: about 20-25 kg."
         },
@@ -631,7 +631,7 @@ references: [
           locator: "Breed Traits: Shedding Level (3/5)"
         },
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "COAT: Long, straight, abundant double coat with dense undercoat"
         }
@@ -644,7 +644,7 @@ references: [
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "Lips: Thin, tight and strongly pigmented"
         },
@@ -662,7 +662,7 @@ references: [
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "BEHAVIOUR/TEMPERAMENT: Watchful and active, bursting with energy, vigilant guard dog, affectionate, courageous"
         },
@@ -728,7 +728,7 @@ references: [
           locator: "Energy Level (5/5); Exercise Needs (5/5)"
         },
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "UTILIZATION: Working dog of great stamina"
         }
@@ -797,7 +797,7 @@ references: [
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "COAT: Dense double coat adapted to withstand Belgian climate"
         },
@@ -930,7 +930,7 @@ references: [
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "cited",
           locator: "Jaws/teeth: strong jaws with complete scissor bite (42 teeth)"
         },
@@ -948,7 +948,7 @@ references: [
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "cited",
           locator: "Ears: distinctly triangular, stiffly erect, set high"
         },
@@ -966,7 +966,7 @@ references: [
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "cited",
           locator: "Skin: elastic, taut over whole body"
         }
@@ -1008,7 +1008,7 @@ references: [
           locator: "Historique, Duc de Groenendael et fondation de la race"
         },
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "Brief historical summary: Belgian Shepherd history"
         }
@@ -1021,7 +1021,7 @@ references: [
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "Origin, size (60-66 cm / 56-62 cm), weight (25-30 kg / 20-25 kg), coat, and color"
         },
