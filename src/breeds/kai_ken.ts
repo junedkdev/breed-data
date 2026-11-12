@@ -4,9 +4,23 @@ export const kai_ken: Breed = {
   slug: "kai-ken",
   name: "Kai Ken",
   scientificName: null,
-  alternateNames: ["Kai", "Tora Inu", "Kai Tora", "Kai Inu"],
-  group: "Japanese medium-sized Spitz-type hunting dog; the AKC lists the breed in its Foundation Stock Service, and the UKC recognises it in its Northern Breeds group.",
-  origin: { country: "Japan", region: "Kai Province, now Yamanashi Prefecture" },
+
+  alternateNames: [
+    "Kai",
+    "Tora Inu",
+    "Kai Tora",
+    "Kai Inu",
+    "Kai Dog",
+  ],
+
+  group:
+    "Japanese medium-sized Spitz-type hunting dog (Foundation Stock Service / Northern Breeds)",
+
+  origin: {
+    country: "Japan",
+    region: "Kai Province, now Yamanashi Prefecture",
+  },
+
   images: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Kai_Ken.jpg",
@@ -20,49 +34,89 @@ export const kai_ken: Breed = {
       width: 600,
       height: 449,
       licenseId: "cc-by-sa-4.0",
-      attribution: "Photo by Canarian, via Wikimedia Commons, licensed under CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Kai_Ken.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. No changes made. If adapted, share the adaptation under the same or a compatible license.",
+      attribution:
+        "Photo by Canarian, via Wikimedia Commons, licensed under CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Kai_Ken.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Provide appropriate credit, link to the license, indicate changes, and comply with the applicable share-alike terms for adaptations.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-12",
     },
   ],
+
   overview: {
-    summary: "The Kai Ken is a rare, medium-sized Japanese hunting breed known for its brindle coat, upright ears, athletic build and close bond with its household. Developed in mountainous terrain, it is agile, alert and capable of making independent decisions while tracking game.",
-    description: "The Kai Ken is a sturdy Spitz-type dog with a wedge-shaped head, prick ears, a thick double coat and a tail carried in a curl or sickle shape over the back. Its brindle pattern—dark stripes over a lighter ground—is the defining feature of the breed. Kai Kens often form a particularly strong relationship with their family and can be reserved around unfamiliar people. Their hunting instincts and quick reactions mean that exercise, secure management and positive lifelong socialisation are important.",
-    history: "The breed originated in the mountainous Kai region of Japan, now part of Yamanashi Prefecture. It was developed as a hunting dog for game including deer and wild boar, with its agility and sure-footedness suited to steep, wooded terrain. A preservation society was established in 1931, and the breed was designated a Japanese Natural Monument in 1934. It remains comparatively uncommon outside Japan.",
-    originalPurpose: "Hunting game such as deer and wild boar in mountainous terrain.",
-    currentRoles: ["Companion dog", "Hunting dog", "Watchdog and household guardian", "Dog sports and outdoor activities"],
+    summary:
+      "A rare, medium-sized Japanese mountain hunting dog prized for its brindle tiger-striped coat, nimble athleticism, and deep devotion to its household.",
+
+    description:
+      "Built on a compact, slightly longer-than-tall Spitz frame, the Kai Ken pairs a wedge-shaped skull and forward-tilted prick ears with a dense double coat and a thick tail carried curled or curved like a sickle over the back. Its hallmark brindle striping—dark bands over black, medium, or reddish ground tones—sets it apart among native Japanese breeds. Deeply loyal at home yet naturally cautious around strangers, the Kai Ken retains keen tracking instincts and benefits from daily purposeful activity, secure containment, and patient lifelong socialization.",
+
+    history:
+      "Raised for centuries in the steep, forested valleys of Japan's former Kai Province (modern Yamanashi Prefecture), the breed worked alongside hunters to pursue deer and wild boar across rugged mountain slopes. Geographic isolation helped preserve its distinct lineage, and dedicated enthusiasts formed a preservation society in 1931 before the Japanese government named the Kai Ken a Natural Monument in 1934. Even today, the breed remains scarce outside Japan.",
+
+    originalPurpose:
+      "Mountain hunting of wild boar and deer across steep, wooded terrain.",
+
+    currentRoles: [
+      "Devoted family companion and alert household watchdog",
+      "Active outdoor partner for hiking, tracking, and canine sports",
+      "Occasional hunting dog in regions where permitted",
+    ],
   },
+
   physical: {
     sizeCategory: "Medium",
+
     height: {
       unit: "in",
       male: { min: 18.5, max: 21 },
       female: { min: 15.75, max: 18.25 },
     },
-    weight: { unit: null, male: null, female: null },
-    lifespanYears: { min: 14, max: 16 },
-    coatType: "Harsh, straight outer coat with a dense undercoat; the coat is double-layered and may form a noticeable ruff.",
-    coatLength: "Short to medium length, with a dense undercoat and a somewhat longer outer coat around the neck and tail.",
-    coatColors: ["Black brindle (kuro-tora)", "Medium brindle (chu-tora)", "Red brindle (aka-tora)"],
-    sheddingLevel: "Seasonal shedding can be heavy, particularly during coat changes.",
+
+    weight: {
+      unit: "kg",
+      male: { min: 14, max: 20 },
+      female: { min: 11, max: 16 },
+    },
+
+    lifespanYears: {
+      min: 14,
+      max: 16,
+    },
+
+    coatType:
+      "Weather-resistant double coat featuring a harsh, straight outer layer over a thick, soft undercoat.",
+
+    coatLength:
+      "Short to medium length overall, with slightly longer guard hairs forming a fuller ruff around the neck and along the tail.",
+
+    coatColors: [
+      "Black brindle (kuro-tora)",
+      "Medium brindle (chu-tora)",
+      "Red brindle (aka-tora)",
+    ],
+
+    sheddingLevel:
+      "Moderate overall, with heavy seasonal coat blows twice a year.",
+
     droolingLevel: null,
+
     distinctiveFeatures: [
-      "Brindle striping, the breed's most distinctive feature",
-      "Prick triangular ears and a wedge-shaped head",
-      "Strong, agile limbs and well-developed hocks suited to steep terrain",
-      "Thick tail carried curled or in a sickle shape over the back",
-      "Compact, slightly longer-than-tall body",
+      "Tiger-striped brindle coat pattern in black, medium, or red tones",
+      "Wedge-shaped head topped by thick, triangular erect ears angled slightly forward",
+      "Strong, well-angulated hindquarters and springy catlike feet built for mountain climbing",
+      "Thick tail carried in a tight curl or sickle arch over the back",
+      "Compact, slightly rectangular body proportions",
     ],
   },
+
   temperament: {
     traits: [
-      "Strongly attached and loyal to familiar people",
-      "Alert, watchful and quick to notice changes",
-      "Independent-minded and capable of working at a distance",
-      "Often reserved with unfamiliar people",
-      "Retains a strong hunting and prey drive",
-      "Athletic, agile and curious",
+      "Devoted and closely bonded to household members",
+      "Keenly observant and alert to surroundings",
+      "Self-reliant and capable of independent decision-making",
+      "Naturally reserved with unfamiliar people",
+      "Strong-willed with an enduring prey and tracking drive",
+      "Agile, curious, and energetic outdoors",
     ],
+
     scores: {
       affection: 4,
       withChildren: null,
@@ -75,133 +129,178 @@ export const kai_ken: Breed = {
       energy: 4,
     },
   },
+
   care: {
     exercise: {
-      level: "High; regular daily exercise and mental enrichment are important.",
+      level:
+        "High — thrives on vigorous daily walks, trail hikes, and structured mental enrichment.",
       minutesPerDay: { min: 60, max: 120 },
       activities: [
-        "Brisk walks and hikes in safe areas",
-        "Scent games and structured tracking activities",
-        "Reward-based obedience and recall training",
-        "Securely enclosed play and age-appropriate canine sports",
+        "Brisk daily walks and mountain or wooded trail hikes on a secure lead",
+        "Nose-work, scent trailing, and interactive problem-solving games",
+        "Reward-based obedience, agility, or recall practice in fenced areas",
       ],
     },
+
     grooming: {
-      level: "Low to moderate, increasing during seasonal shedding.",
-      brushing: "Brush regularly and more frequently when the dense undercoat is being shed. Check the coat and skin during grooming.",
-      bathing: "Bathe when necessary with a dog-appropriate shampoo and dry the coat thoroughly.",
+      level: "Low to moderate, rising noticeably during seasonal coat blows",
+      brushing:
+        "Brush weekly to keep the harsh coat clean, increasing to several times a week with an undercoat rake during seasonal shedding.",
+      bathing:
+        "Bathe only occasionally using a gentle canine shampoo and dry the dense undercoat thoroughly.",
       notes: [
-        "Expect increased coat loss during seasonal shedding periods.",
-        "Check ears, nails, teeth and skin routinely.",
-        "Use a secure lead or enclosed area outdoors because hunting instincts may lead the dog to pursue wildlife.",
+        "Expect heavy undercoat shedding during spring and autumn coat changes.",
+        "Check ears, nails, teeth, and skin during routine grooming.",
+        "Always use a sturdy leash or tall, secure fencing outdoors to prevent wildlife chasing.",
       ],
     },
+
     training: {
-      difficulty: "Moderate to challenging for novice handlers because the breed can be independent and strongly motivated by scent or movement.",
+      difficulty:
+        "Moderate to challenging for inexperienced owners due to independent judgment and strong prey instincts.",
       tips: [
-        "Use short, consistent, reward-based training sessions.",
-        "Build recall gradually in low-distraction environments; do not rely on off-leash recall around wildlife.",
-        "Introduce varied people, dogs, surfaces and environments in a calm, positive way from puppyhood.",
-        "Provide scent work and problem-solving tasks to channel natural hunting behaviour.",
+        "Keep training sessions brief, upbeat, and reward-driven rather than repetitive.",
+        "Practise recall diligently in enclosed spaces; wildlife scents can easily override off-leash cues.",
+        "Channel natural hunting focus into structured scent work and puzzle tasks.",
       ],
-      socialization: "Early and ongoing positive socialisation is important. Respect the dog's tendency to be reserved with strangers and avoid forcing interactions.",
+      socialization:
+        "Provide calm, positive exposure to varied people, unfamiliar dogs, handling, and noisy settings from puppyhood without forcing interactions.",
     },
+
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: true,
       climates: [
-        "Provide fresh water, shade and ventilation during warm weather.",
-        "Avoid strenuous exercise during heat and humidity.",
-        "A secure fence is important because the breed may chase wildlife.",
+        "Dense double coat handles cool mountain weather well; provide shade, ventilation, and fresh water in warm months.",
+        "Shift vigorous outings to cooler morning or evening hours during hot, humid weather.",
+        "Maintain secure perimeter fencing to prevent climbing or pursuing passing wildlife.",
       ],
-      aloneTimeTolerance: "Individual tolerance varies. Build alone time gradually and provide exercise and enrichment before leaving the dog; do not assume that a strong bond means the dog will comfortably tolerate long periods alone.",
+      aloneTimeTolerance:
+        "Moderate with gradual conditioning — pairs best with households that provide adequate exercise and enrichment before departures.",
     },
   },
+
   nutrition: {
-    dietType: "Complete and balanced dog food appropriate to age, activity level, body condition and health.",
-    feedingFrequency: { puppy: null, adult: null, senior: null },
-    guidelines: "Measure portions, monitor body condition and adjust food to the individual dog's activity and life stage. Keep fresh water available and introduce diet changes gradually.",
+    dietType:
+      "A complete and balanced commercial diet formulated for medium-sized, active dogs according to life stage.",
+
+    feedingFrequency: {
+      puppy: null,
+      adult: null,
+      senior: null,
+    },
+
+    guidelines:
+      "Measure daily meals to maintain a lean, athletic body condition, adjusting portions for age and activity level while keeping fresh water available.",
+
     considerations: [
-      "Athletic dogs may need portions adjusted to activity, but avoid overfeeding.",
-      "Persistent itching, gastrointestinal signs or suspected food reactions should be assessed by a veterinarian rather than managed through repeated unsupervised diet changes.",
-      "Discuss any supplements or special diets with a veterinarian.",
+      "Adjust caloric intake during periods of intense hiking or lower winter activity to prevent weight gain.",
+      "Transition food formulas gradually over several days to avoid digestive upset.",
+      "Consult a veterinarian for persistent itching or gastrointestinal signs rather than rotating diets repeatedly on your own.",
     ],
-    note: "A universal meal count or calorie prescription is not established for all Kai Kens; age, body condition, health and workload affect feeding needs.",
+
+    note:
+      "No single meal schedule or calorie target fits every Kai Ken; consult a veterinarian to tailor portions to individual metabolism and workload.",
   },
+
   health: {
-    overview: "The Kai Ken is often described as a generally healthy breed, but the population is small and published breed-specific epidemiological evidence is limited. Breed-club health guidance recommends screening for progressive retinal atrophy, cardiac disease and selected additional conditions such as hip or elbow dysplasia, patellar luxation, eye disease and autoimmune thyroiditis. These are screening priorities, not a claim that every Kai Ken will develop these disorders.",
+    overview:
+      "Widely regarded as a hardy native breed, the Kai Ken has a small global population and limited large-scale epidemiological data. Breed-club health programmes prioritize screening for progressive retinal atrophy (PRA) and cardiac disorders alongside elective checks for hip and elbow dysplasia, patellar luxation, eye abnormalities, and autoimmune thyroiditis.",
+
     commonConditions: [
-      "Progressive retinal atrophy (PRA), an inherited retinal disorder",
-      "Patellar luxation",
-      "Allergic skin disease",
-      "Seizure disorders",
-      "Hip or elbow dysplasia",
-      "Cardiac disorders and autoimmune thyroiditis are included in some breeding-health screening recommendations",
+      "Progressive retinal atrophy (PRA) — an inherited retinal condition targeted by DNA screening.",
+      "Patellar luxation — intermittent slipping of the kneecap reported in breed health profiles.",
+      "Allergic skin disease — environmental or seasonal skin sensitivities noted in companion records.",
+      "Seizure disorders — reported occasionally within the breed.",
+      "Hip and elbow dysplasia — developmental joint conditions monitored through elective breeding screenings.",
+      "Cardiac disorders and autoimmune thyroiditis — included in breed-club preventive health screening programmes.",
     ],
+
     preventiveCare: [
-      "Choose breeders who can provide documented health-screening results for the parents.",
-      "Maintain routine veterinary examinations, vaccination and parasite prevention.",
-      "Seek veterinary assessment for changes in vision, recurrent itching, lameness, collapse or seizure-like episodes.",
-      "Keep the dog at a healthy body condition and provide regular, suitable activity.",
+      "Request documented parental health-screening results when selecting a puppy.",
+      "Keep routine veterinary checkups, vaccinations, and parasite prevention current.",
+      "Seek prompt veterinary care for vision changes, persistent scratching, lameness, or seizure-like episodes.",
+      "Maintain a lean body weight and steady, joint-friendly exercise.",
     ],
+
     recommendedScreenings: [
-      "Progressive retinal atrophy DNA testing as recommended by the breed health programme.",
-      "Cardiac evaluation through an appropriate veterinary professional.",
-      "Discuss hip, elbow, eye, patella and autoimmune thyroiditis evaluations with the breeder and veterinarian, based on current breed-club guidance and family history.",
+      "Progressive retinal atrophy (PRA) DNA test from an approved laboratory",
+      "Veterinary cardiac evaluation (congenital, basic, or advanced exam)",
+      "Elective hip and elbow dysplasia radiographic evaluations",
+      "Patellar luxation clinical examination and ophthalmologist eye exam",
+      "Autoimmune thyroiditis blood panel",
     ],
-    dentalCare: "Brush teeth regularly with dog-specific toothpaste and arrange veterinary dental checks.",
-    earCare: "Inspect ears regularly and seek veterinary advice for redness, odour, discharge, head-shaking or discomfort.",
-    skinCare: "Check skin during grooming, especially during coat changes. Persistent itching, redness or hair loss warrants veterinary assessment.",
+
+    dentalCare:
+      "Brush teeth regularly with dog-safe toothpaste and schedule routine veterinary oral exams.",
+
+    earCare:
+      "Inspect the upright ears periodically for wax, redness, odour, or debris, seeking veterinary care if head-shaking develops.",
+
+    skinCare:
+      "Check the skin beneath the dense double coat during brushing, especially during seasonal coat blows, and consult a veterinarian for persistent irritation.",
   },
+
   suitability: {
     firstTimeOwners: false,
     familiesWithChildren: null,
     seniorOwners: null,
     activeOwners: true,
     apartmentLiving: null,
+
     idealFor: [
-      "Active owners who enjoy hiking, training and outdoor enrichment",
-      "Households prepared to manage hunting instincts and provide secure exercise",
-      "People willing to socialise a naturally reserved dog patiently",
+      "Active individuals or families who enjoy daily trail walks, hiking, and structured training",
+      "Experienced handlers comfortable managing strong prey drive and secure containment",
+      "Patient owners who appreciate a loyal, naturally reserved companion",
     ],
+
     notIdealFor: [
-      "Owners expecting reliable off-leash behaviour around wildlife without extensive training",
-      "Households unable to provide daily activity and mental stimulation",
-      "People who expect the dog to greet every stranger enthusiastically",
+      "Handlers expecting reliable off-leash recall around deer, squirrels, or other wildlife",
+      "Sedentary households unable to provide daily physical and mental stimulation",
+      "Owners wanting an outgoing dog that eagerly greets every stranger",
     ],
   },
+
   funFacts: [
-    "The breed is sometimes called the tiger dog because of its striped brindle coat.",
-    "Japan designated the Kai Ken a Natural Monument in 1934.",
-    "The breed developed in mountainous terrain and is known for agility and sure-footed movement.",
-    "Traditional Japanese breed descriptions distinguish black, medium and red brindle shades.",
+    "In Japan, the Kai Ken is nicknamed 'Tora Inu'—meaning 'Tiger Dog'—after its distinctive brindle stripes.",
+    "The Japanese government designated the Kai Ken a Natural Monument in 1934 to safeguard its native bloodlines.",
+    "Traditional preservation lines recognize three brindle shades: black brindle (kuro-tora), medium brindle (chu-tora), and red brindle (aka-tora).",
+    "Historic hunters prized the breed's agility on steep mountain ledges and its willingness to swim across rivers while tracking game.",
   ],
+
   faq: [
     {
-      question: "What is the Kai Ken known for?",
-      answer: "The Kai Ken is best known for its brindle coat, agility, hunting background and close bond with familiar people. It can be reserved with strangers and often retains a strong prey drive.",
+      question: "What makes the Kai Ken unique among Japanese breeds?",
+      answer:
+        "Its signature tiger-striped brindle coat, mountain-climbing agility, and intense loyalty to its own household distinguish it from Japan's other native Spitz breeds.",
     },
     {
-      question: "Are Kai Kens good off leash?",
-      answer: "Their hunting instincts can make chasing wildlife highly rewarding, so off-leash freedom should be limited to safe, enclosed areas unless recall has been carefully trained and the setting is appropriate.",
+      question: "Can a Kai Ken be trusted off leash?",
+      answer:
+        "Because the breed retains a strong hunting instinct toward wildlife, off-leash freedom is safest inside securely fenced areas rather than open, unfenced terrain.",
     },
     {
-      question: "What colours are accepted for the Kai Ken?",
-      answer: "The traditional coat is brindle, commonly described as black brindle, medium brindle and red brindle. Solid white or cream coats are not accepted in the breed standard.",
+      question: "What coat colours occur in the Kai Ken?",
+      answer:
+        "Only brindle coats are traditional—classified as black brindle, medium brindle, and red brindle—while solid white or cream coats are not accepted.",
     },
     {
-      question: "How much exercise does a Kai Ken need?",
-      answer: "The breed is athletic and generally benefits from substantial daily activity, often around an hour or more depending on age, fitness and health. Hiking, scent games and training can help meet both physical and mental needs.",
+      question: "How much daily exercise does a Kai Ken need?",
+      answer:
+        "An athletic adult typically benefits from 60 to 120 minutes of daily activity, combining brisk walks or hikes with scent games and training.",
     },
     {
-      question: "What health tests should I ask a breeder about?",
-      answer: "Ask for documented results for progressive retinal atrophy DNA testing and cardiac evaluation, and discuss eye, patella, hip, elbow and thyroid screening with the breeder and veterinarian. Recommended tests can change as breed health programmes evolve.",
+      question: "Which health screenings are recommended for Kai Kens?",
+      answer:
+        "Breed-club guidance emphasizes progressive retinal atrophy (PRA) DNA testing and cardiac exams, alongside elective evaluations for hips, elbows, patellas, eyes, and autoimmune thyroiditis.",
     },
     {
-      question: "Is the Kai Ken suitable for a first-time owner?",
-      answer: "It may be challenging for a first-time owner because of its independence, hunting drive and need for thoughtful socialisation. An owner prepared to train consistently and manage the dog securely may be a better match.",
+      question: "Is the Kai Ken a good choice for first-time dog owners?",
+      answer:
+        "Its independent thinking, strong prey drive, and reserve with strangers make it better suited to confident, consistent handlers rather than most first-time owners.",
     },
   ],
+
   references: [
     "akc-kai-ken-profile",
     "akc-kai-ken-standard-2025",
@@ -212,59 +311,566 @@ export const kai_ken: Breed = {
     "royal-canin-kai-ken",
     "ukc-kai-ken-standard",
     "commons-kai-ken-canarian-2016",
+    "the-dog-api",
   ],
+
   evidence: {
-    alternateNames: { reliability: "reliable_source", sources: [{ id: "nihonken-hozonkai-kai-ken", role: "verified", locator: "Kai Ken breed overview and alternate name Kai Tora" }, { id: "kai-ken-society-america-standard", role: "verified", locator: "History and name Tora Inu" }], verifiedOn: "2026-10-26", note: "Alternate names are recorded only where used in breed or preservation references." },
-    scientificName: { reliability: "unavailable", sources: [], verifiedOn: null, note: "A distinct scientific name is not applicable to this domestic dog breed." },
-    group: { reliability: "reliable_source", sources: [{ id: "akc-kai-ken-profile", role: "verified", locator: "Breed recognition and programme status" }, { id: "ukc-kai-ken-standard", role: "verified", locator: "Breed group and general appearance" }], verifiedOn: "2026-10-26", note: "Registry groupings differ; the description names the relevant registry rather than implying one universal group." },
-    origin: { reliability: "reliable_source", sources: [{ id: "akc-kai-ken-standard-2025", role: "verified", locator: "History: Kai province and mountainous regions" }, { id: "nihonken-hozonkai-kai-ken", role: "verified", locator: "Origin and preservation in Yamanashi" }], verifiedOn: "2026-10-26", note: "Origin is supported by breed history and Japanese preservation information." },
-    overview: { reliability: "reliable_source", sources: [{ id: "akc-kai-ken-standard-2025", role: "verified", locator: "History and general appearance" }, { id: "nihonken-hozonkai-kai-ken", role: "verified", locator: "Origin, hunting use and coat colour" }, { id: "ukc-kai-ken-standard", role: "verified", locator: "Characteristics and historical purpose" }], verifiedOn: "2026-10-26", note: "Overview text is an original synthesis of standard and preservation sources." },
-    "physical.sizeCategory": { reliability: "official_standard", sources: [{ id: "akc-kai-ken-standard-2025", role: "verified", locator: "General appearance: medium-sized Spitz-type dog" }], verifiedOn: "2026-10-26", note: "The standard describes a medium-sized dog." },
-    "physical.height": { reliability: "official_standard", sources: [{ id: "akc-kai-ken-standard-2025", role: "verified", locator: "Size, Proportion, Substance: height and sex-specific limits" }], verifiedOn: "2026-10-26", note: "The source publishes inches; the listed lower and upper limits are retained in inches without unit conversion." },
-    "physical.weight": { reliability: "unavailable", sources: [], verifiedOn: null, note: "The selected official standard does not provide a reliable sex-specific weight range; no weight is recorded." },
-    "physical.lifespanYears": { reliability: "reliable_source", sources: [{ id: "royal-canin-kai-ken", role: "verified", locator: "Breed specifics: average life expectancy" }], verifiedOn: "2026-10-26", note: "The 14–16 year figure is a published breed-profile estimate, not a guarantee for an individual dog." },
-    "physical.coatType": { reliability: "official_standard", sources: [{ id: "akc-kai-ken-standard-2025", role: "verified", locator: "General appearance and coat" }, { id: "ukc-kai-ken-standard", role: "verified", locator: "General appearance" }], verifiedOn: "2026-10-26", note: "The standards describe a harsh outer coat and brindle colouring." },
-    "physical.coatLength": { reliability: "official_standard", sources: [{ id: "ukc-kai-ken-standard", role: "verified", locator: "General appearance: harsh, straight brindle coat of medium length" }, { id: "kai-ken-society-america-standard", role: "verified", locator: "Coat and mane" }], verifiedOn: "2026-10-26", note: "Coat length and texture follow breed-standard descriptions." },
-    "physical.coatColors": { reliability: "official_standard", sources: [{ id: "nihonken-hozonkai-kai-ken", role: "verified", locator: "Coat colour: kuro-tora, chu-tora and aka-tora" }, { id: "kai-ken-society-america-standard", role: "verified", locator: "Colour and disqualifying colours" }], verifiedOn: "2026-10-26", note: "Only the three traditional brindle shades are listed as standard colours." },
-    "physical.distinctiveFeatures": { reliability: "official_standard", sources: [{ id: "akc-kai-ken-standard-2025", role: "verified", locator: "General appearance and structure" }, { id: "ukc-kai-ken-standard", role: "verified", locator: "General appearance and characteristics" }], verifiedOn: "2026-10-26", note: "Physical traits are paraphrased from breed standards." },
-    "physical.sheddingLevel": { reliability: "reliable_source", sources: [{ id: "akc-kai-ken-profile", role: "verified", locator: "Grooming and seasonal coat blowing" }, { id: "kai-ken-club-great-britain-health", role: "verified", locator: "Breed information: coat and grooming" }], verifiedOn: "2026-10-26", note: "Seasonal shedding is described by breed care sources." },
-    "physical.droolingLevel": { reliability: "unavailable", sources: [], verifiedOn: null, note: "A reliable breed-specific drooling level was not established in the sources reviewed." },
-    "temperament.traits": { reliability: "reliable_source", sources: [{ id: "kai-ken-society-america-standard", role: "verified", locator: "Temperament" }, { id: "ukc-kai-ken-standard", role: "verified", locator: "Characteristics" }, { id: "akc-kai-ken-profile", role: "verified", locator: "Temperament and breed overview" }], verifiedOn: "2026-10-26", note: "Temperament descriptions reflect standard and breed-profile accounts; individual dogs vary." },
-    "temperament.scores": { reliability: "estimate", sources: [{ id: "kai-ken-society-america-standard", role: "cited", locator: "Temperament and working characteristics" }, { id: "ukc-kai-ken-standard", role: "cited", locator: "Characteristics" }], verifiedOn: null, note: "Scores are editorial 1–5 estimates, not results of a validated temperament test." },
-    "temperament.scores.withChildren": { reliability: "unavailable", sources: [], verifiedOn: null, note: "A reliable breed-wide score for behaviour with children was not established." },
-    "temperament.scores.barking": { reliability: "unavailable", sources: [], verifiedOn: null, note: "A reliable breed-wide barking score was not established." },
-    "care.exercise": { reliability: "reliable_source", sources: [{ id: "kai-ken-club-great-britain-health", role: "verified", locator: "Breed overview: exercise recommendation" }, { id: "akc-kai-ken-profile", role: "verified", locator: "Care and exercise" }], verifiedOn: "2026-10-26", note: "Exercise guidance reflects breed-care recommendations; individual needs vary." },
-    "care.grooming": { reliability: "reliable_source", sources: [{ id: "akc-kai-ken-profile", role: "verified", locator: "Grooming and seasonal coat blowing" }, { id: "kai-ken-club-great-britain-health", role: "verified", locator: "Coat care" }], verifiedOn: "2026-10-26", note: "Grooming advice reflects the double coat and seasonal shedding." },
-    "care.training": { reliability: "reliable_source", sources: [{ id: "kai-ken-society-america-standard", role: "verified", locator: "Temperament: independent thinker, hunting drive and devotion" }, { id: "ukc-kai-ken-standard", role: "verified", locator: "Characteristics and hunting background" }], verifiedOn: "2026-10-26", note: "Training guidance accounts for independence and hunting instincts." },
+    alternateNames: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "nihonken-hozonkai-kai-ken",
+          role: "verified",
+          locator: "Kai Ken breed overview and alternate name Kai Tora",
+        },
+        {
+          id: "kai-ken-society-america-standard",
+          role: "verified",
+          locator: "History and alternate name Tora Inu",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names (Tora Inu, Kai Dog)",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: "Alternate names cross-referenced across Japanese preservation, breed club, and The Dog API records.",
+    },
+    scientificName: {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "A distinct scientific name is not applicable beyond domestic dog (Canis lupus familiaris).",
+    },
+    group: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-kai-ken-profile",
+          role: "verified",
+          locator: "Foundation Stock Service listing",
+        },
+        {
+          id: "ukc-kai-ken-standard",
+          role: "verified",
+          locator: "Northern Breeds group classification",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: "Kennel club groupings vary across registries.",
+    },
+    origin: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-kai-ken-standard-2025",
+          role: "verified",
+          locator: "History — Kai province and mountainous regions",
+        },
+        {
+          id: "nihonken-hozonkai-kai-ken",
+          role: "verified",
+          locator: "Origin in Yamanashi Prefecture",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Kai Province, Yamanashi Prefecture, Japan",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    overview: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-kai-ken-standard-2025",
+          role: "verified",
+          locator: "History and General Appearance",
+        },
+        {
+          id: "nihonken-hozonkai-kai-ken",
+          role: "verified",
+          locator: "Origin, 1934 Natural Monument status, hunting purpose, and coat colour",
+        },
+        {
+          id: "ukc-kai-ken-standard",
+          role: "verified",
+          locator: "Characteristics and historical purpose",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-kai-ken-standard-2025",
+          role: "verified",
+          locator: "General Appearance — medium-sized Spitz-type dog",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    "physical.height": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-kai-ken-standard-2025",
+          role: "verified",
+          locator: "Size, Proportion, Substance — 18.5–21 in (males), 15.75–18.25 in (females)",
+        },
+        {
+          id: "kai-ken-society-america-standard",
+          role: "verified",
+          locator: "Size, Proportion, Substance — height limits in inches",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: 46–56 cm (males), 39–50 cm (females)",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: "Official standard height in inches is retained without unit conversion; The Dog API lists 46–56 cm (males) and 39–50 cm (females).",
+    },
+    "physical.weight": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: 14–20 kg (males), 11–16 kg (females)",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: "Official breed standards reviewed do not specify weight; metric weight range is sourced from The Dog API.",
+    },
+    "physical.lifespanYears": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "royal-canin-kai-ken",
+          role: "verified",
+          locator: "Breed specifics — average life expectancy 14–16 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.life_span: 12–16 years",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: "Royal Canin reports 14–16 years, whereas The Dog API lists 12–16 years.",
+    },
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-kai-ken-standard-2025",
+          role: "verified",
+          locator: "Coat — harsh straight outer coat with dense undercoat",
+        },
+        {
+          id: "ukc-kai-ken-standard",
+          role: "verified",
+          locator: "Coat",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "ukc-kai-ken-standard",
+          role: "verified",
+          locator: "General Appearance — medium length harsh coat",
+        },
+        {
+          id: "kai-ken-society-america-standard",
+          role: "verified",
+          locator: "Coat and mane",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "kai-ken-society-america-standard",
+          role: "verified",
+          locator: "Color — kuro-tora, chu-tora, aka-tora",
+        },
+        {
+          id: "nihonken-hozonkai-kai-ken",
+          role: "cited",
+          locator: "Coat colour descriptions",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: "Only the three traditional brindle shades are listed; generic species-wide colours from The Dog API are excluded.",
+    },
+    "physical.sheddingLevel": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-kai-ken-profile",
+          role: "verified",
+          locator: "Grooming and seasonal shedding",
+        },
+        {
+          id: "kai-ken-club-great-britain-health",
+          role: "verified",
+          locator: "Coat and grooming",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    "physical.droolingLevel": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "A reliable breed-specific drooling level was not established in the sources reviewed.",
+    },
+    "physical.distinctiveFeatures": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-kai-ken-standard-2025",
+          role: "verified",
+          locator: "General Appearance and Structure",
+        },
+        {
+          id: "ukc-kai-ken-standard",
+          role: "verified",
+          locator: "General Appearance and Characteristics",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    "temperament.traits": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "kai-ken-society-america-standard",
+          role: "verified",
+          locator: "Temperament",
+        },
+        {
+          id: "ukc-kai-ken-standard",
+          role: "verified",
+          locator: "Characteristics",
+        },
+        {
+          id: "akc-kai-ken-profile",
+          role: "verified",
+          locator: "Temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    "temperament.scores": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "kai-ken-society-america-standard",
+          role: "cited",
+          locator: "Temperament and working characteristics",
+        },
+        {
+          id: "ukc-kai-ken-standard",
+          role: "cited",
+          locator: "Characteristics",
+        },
+      ],
+      verifiedOn: null,
+      note: "Editorial 1–5 estimates based on breed-standard temperament descriptions.",
+    },
+    "temperament.scores.withChildren": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No reliable breed-wide score for behaviour with children was established.",
+    },
+    "temperament.scores.barking": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No reliable breed-wide barking score was established.",
+    },
+    "care.exercise": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "kai-ken-club-great-britain-health",
+          role: "verified",
+          locator: "Breed overview — exercise recommendation",
+        },
+        {
+          id: "akc-kai-ken-profile",
+          role: "verified",
+          locator: "Exercise and Energy",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    "care.grooming": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-kai-ken-profile",
+          role: "verified",
+          locator: "Grooming",
+        },
+        {
+          id: "kai-ken-club-great-britain-health",
+          role: "verified",
+          locator: "Coat care",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    "care.training": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "kai-ken-society-america-standard",
+          role: "verified",
+          locator: "Temperament — independence and hunting drive",
+        },
+        {
+          id: "ukc-kai-ken-standard",
+          role: "verified",
+          locator: "Characteristics and hunting background",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
     "care.livingEnvironment": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Housing and climate recommendations are general welfare guidance and should be adapted to the individual dog.",
+      note: "Housing and climate recommendations are general canine welfare guidance.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The sources reviewed do not establish a universal apartment-suitability rating.",
+      note: "Reviewed sources do not establish a universal apartment-suitability rating.",
     },
-    "nutrition": { reliability: "general_guidance", sources: [], verifiedOn: null, note: "Nutrition advice is general canine care guidance; no breed-specific meal count or calorie prescription is asserted." },
-    "nutrition.feedingFrequency.puppy": { reliability: "unavailable", sources: [], verifiedOn: null, note: "A universal breed-specific puppy meal schedule was not established." },
-    "nutrition.feedingFrequency.adult": { reliability: "unavailable", sources: [], verifiedOn: null, note: "A universal breed-specific adult meal schedule was not established." },
-    "nutrition.feedingFrequency.senior": { reliability: "unavailable", sources: [], verifiedOn: null, note: "A universal breed-specific senior meal schedule was not established." },
-    "health.overview": { reliability: "reliable_source", sources: [{ id: "kai-ken-society-america-health", role: "verified", locator: "OFA-CHIC health testing requirements" }, { id: "akc-kai-ken-profile", role: "verified", locator: "Health" }, { id: "kai-ken-club-great-britain-health", role: "verified", locator: "Health screening" }], verifiedOn: "2026-10-26", note: "Health text distinguishes recommended screening from disease prevalence; reliable breed-wide prevalence estimates were not found." },
-    "health.commonConditions": { reliability: "reliable_source", sources: [{ id: "akc-kai-ken-profile", role: "verified", locator: "Health: allergies, luxating patella and seizures" }, { id: "kai-ken-society-america-health", role: "verified", locator: "Health testing recommendations" }, { id: "kai-ken-club-great-britain-health", role: "verified", locator: "Health screening" }], verifiedOn: "2026-10-26", note: "Conditions are included as reported concerns or screening targets, not as inevitable outcomes." },
-    "health.preventiveCare": { reliability: "general_guidance", sources: [], verifiedOn: null, note: "Preventive care is general veterinary guidance adapted to the screening concerns identified by breed health sources." },
-    "health.recommendedScreenings": { reliability: "reliable_source", sources: [{ id: "kai-ken-society-america-health", role: "verified", locator: "OFA-CHIC Health Testing Requirements" }, { id: "kai-ken-club-great-britain-health", role: "verified", locator: "Recommended screening tests" }], verifiedOn: "2026-10-26", note: "Screening recommendations follow breed-club guidance and should be reconfirmed with a veterinarian or breeder." },
-    "health.dentalCare": { reliability: "general_guidance", sources: [], verifiedOn: null, note: "Routine dental care is general canine preventive guidance." },
-    "health.earCare": { reliability: "general_guidance", sources: [], verifiedOn: null, note: "Routine ear inspection and veterinary assessment of symptoms are general canine care guidance." },
-    "health.skinCare": { reliability: "general_guidance", sources: [], verifiedOn: null, note: "Skin checks during grooming and veterinary evaluation of persistent symptoms are general care guidance." },
-    suitability: { reliability: "estimate", sources: [{ id: "kai-ken-society-america-standard", role: "cited", locator: "Temperament" }, { id: "ukc-kai-ken-standard", role: "cited", locator: "Characteristics" }], verifiedOn: null, note: "Suitability statements are editorial guidance based on hunting drive, activity needs and temperament descriptions, not a validated household assessment." },
-    "suitability.familiesWithChildren": { reliability: "unavailable", sources: [], verifiedOn: null, note: "The sources reviewed do not establish a universal suitability rating for all families with children." },
-    "suitability.seniorOwners": { reliability: "unavailable", sources: [], verifiedOn: null, note: "The sources reviewed do not establish a universal suitability rating for senior owners." },
-    "suitability.apartmentLiving": { reliability: "unavailable", sources: [], verifiedOn: null, note: "The sources reviewed do not establish a universal apartment-suitability rating." },
-    funFacts: { reliability: "reliable_source", sources: [{ id: "nihonken-hozonkai-kai-ken", role: "verified", locator: "Natural Monument status and brindle colour" }, { id: "kai-ken-society-america-standard", role: "verified", locator: "History and coat pattern" }], verifiedOn: "2026-10-26", note: "Facts are paraphrased from breed preservation sources." },
-    faq: { reliability: "reliable_source", sources: [{ id: "akc-kai-ken-standard-2025", role: "verified", locator: "History and size" }, { id: "nihonken-hozonkai-kai-ken", role: "verified", locator: "Coat colour and recognition" }, { id: "kai-ken-society-america-health", role: "verified", locator: "Health screening" }, { id: "ukc-kai-ken-standard", role: "verified", locator: "Hunting instincts and temperament" }], verifiedOn: "2026-10-26", note: "FAQ answers summarise sourced information and clearly qualify individual variation." },
+    nutrition: {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General canine nutrition guidance; no breed-specific calorie target is asserted.",
+    },
+    "nutrition.feedingFrequency.puppy": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No breed-specific puppy feeding frequency was established.",
+    },
+    "nutrition.feedingFrequency.adult": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No breed-specific adult feeding frequency was established.",
+    },
+    "nutrition.feedingFrequency.senior": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No breed-specific senior feeding frequency was established.",
+    },
+    "health.overview": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "kai-ken-society-america-health",
+          role: "verified",
+          locator: "Health testing programme",
+        },
+        {
+          id: "akc-kai-ken-profile",
+          role: "verified",
+          locator: "Health",
+        },
+        {
+          id: "kai-ken-club-great-britain-health",
+          role: "verified",
+          locator: "Health screening",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: "Distinguishes screening priorities from breed-wide disease prevalence.",
+    },
+    "health.commonConditions": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-kai-ken-profile",
+          role: "verified",
+          locator: "Health — allergies, luxating patella, PRA, seizures",
+        },
+        {
+          id: "kai-ken-society-america-health",
+          role: "verified",
+          locator: "Recommended and elective health tests",
+        },
+        {
+          id: "kai-ken-club-great-britain-health",
+          role: "verified",
+          locator: "Health screening",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    "health.preventiveCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General preventive veterinary guidance adapted to breed screening priorities.",
+    },
+    "health.recommendedScreenings": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "kai-ken-society-america-health",
+          role: "verified",
+          locator: "PRA DNA test, Cardiac evaluation, and Health Electives",
+        },
+        {
+          id: "kai-ken-club-great-britain-health",
+          role: "verified",
+          locator: "Recommended screening tests",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    "health.dentalCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "Routine dental hygiene is general canine care guidance.",
+    },
+    "health.earCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "Routine ear inspection is general canine care guidance.",
+    },
+    "health.skinCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "Routine skin inspection during grooming is general canine care guidance.",
+    },
+    suitability: {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "kai-ken-society-america-standard",
+          role: "cited",
+          locator: "Temperament",
+        },
+        {
+          id: "ukc-kai-ken-standard",
+          role: "cited",
+          locator: "Characteristics",
+        },
+      ],
+      verifiedOn: null,
+      note: "Editorial suitability assessment based on activity needs, hunting drive, and temperament.",
+    },
+    "suitability.familiesWithChildren": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Reviewed sources do not establish a universal rating for families with children.",
+    },
+    "suitability.seniorOwners": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Reviewed sources do not establish a universal rating for senior owners.",
+    },
+    "suitability.apartmentLiving": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Reviewed sources do not establish a universal apartment-living rating.",
+    },
+    funFacts: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "nihonken-hozonkai-kai-ken",
+          role: "verified",
+          locator: "1934 Natural Monument status and brindle shades",
+        },
+        {
+          id: "kai-ken-society-america-standard",
+          role: "verified",
+          locator: "Tora Inu nickname and mountain hunting history",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
+    faq: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-kai-ken-standard-2025",
+          role: "verified",
+          locator: "History, coat, and temperament",
+        },
+        {
+          id: "nihonken-hozonkai-kai-ken",
+          role: "verified",
+          locator: "Coat colours and Natural Monument status",
+        },
+        {
+          id: "kai-ken-society-america-health",
+          role: "verified",
+          locator: "Health screening recommendations",
+        },
+        {
+          id: "ukc-kai-ken-standard",
+          role: "verified",
+          locator: "Hunting instincts and temperament",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: null,
+    },
   },
-  updatedOn: "2026-10-26",
+
+  updatedOn: "2026-11-12",
 };

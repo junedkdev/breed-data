@@ -10,11 +10,11 @@ export const black_norwegian_elkhound: Breed = {
     "Norsk Elghund Sort",
     "Norsk Elghund Svart",
     "Svarthunden",
+    "Svart Elghund",
     "Black Elkhound",
   ],
 
-  group:
-    "FCI Group 5 — Spitz and primitive types; Section 2 — Nordic Hunting Dogs",
+  group: "Spitz and primitive types; Nordic Hunting Dogs",
 
   origin: {
     country: "Norway",
@@ -38,29 +38,27 @@ export const black_norwegian_elkhound: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Changes, if any, must be indicated. Adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-12",
     },
   ],
 
   overview: {
     summary:
-      "The Black Norwegian Elkhound is a compact, athletic Nordic hunting Spitz from Norway. Its glossy black coat, upright pointed ears and tightly curled tail give it a distinctive outline. Bred to work with a handler while tracking large game, it is energetic, alert and courageous, and benefits from regular outdoor activity, consistent training and a close relationship with its household.",
+      "A compact, athletic Nordic Spitz from Norway recognized by its glossy black coat, upright pointed ears, and tightly curled tail, bred for quiet, cooperative big-game tracking.",
 
     description:
-      "Squarely built and agile, the Black Norwegian Elkhound has a wedge-shaped head, erect pointed ears, a firm neck and a short, tightly curled tail carried over the back. Its dense coat lies close to the body and is predominantly glossy black, with a soft black undercoat; a little white on the chest and feet is permitted by the breed standard. The breed was developed for Nordic hunting, particularly work on elk and deer in which the dog stays connected to its handler. It is a purposeful working dog rather than a breed whose needs are met by companionship alone. Daily walks, opportunities to use its nose, thoughtful training and safe outdoor management help support its physical and mental well-being.",
+      "Squarely proportioned and nimble, the Black Norwegian Elkhound pairs a wedge-shaped head, dark eyes, and erect triangular ears with a short, tightly curled tail held over the back. Its close-lying double coat is predominantly shining black over a soft black undercoat, with only minor white markings on the chest or feet tolerated. Developed specifically to track elk and deer silently on a lead alongside its handler, it is a purposeful working partner rather than a low-demand lapdog and thrives on daily outdoor walks, nose-work, and steady training.",
 
     history:
-      "The Black Norwegian Elkhound, known in Norway as Norsk Elghund Sort, developed from local Spitz-type dogs in the border regions between Norway and Sweden. It has been maintained as a distinct breed since the mid-nineteenth century. Historically used for hunting elk and bear, it became especially valued for working on a lead with the handler close by. During the early twentieth century, breeding attention shifted more strongly toward the Grey Norwegian Elkhound, and the black variety became scarce. Dedicated breeders later helped rebuild its population while preserving its characteristic appearance and hunting ability.",
+      "Known in Norway as Norsk Elghund Sort, the breed emerged from native Spitz populations along the Norway–Sweden border and has been kept distinct since the mid-nineteenth century. Valued for hunting bear and elk—especially as a quiet, lead-guided tracker—it declined in numbers during the early twentieth century as attention shifted to its larger grey cousin, before dedicated Norwegian breeders rebuilt the population.",
 
     originalPurpose:
-      "Hunting elk and other large game, especially as a lead hunting dog that works in close cooperation with its handler.",
+      "Tracking elk, deer, and large game quietly on a lead in close partnership with a hunter.",
 
     currentRoles: [
-      "Hunting dog for elk and deer where legally permitted",
-      "Search and tracking work",
-      "Active outdoor companion",
-      "Scent-work and other suitable dog sports",
-      "Obedience and reward-based training activities",
+      "Leashed elk and deer tracking dog where permitted",
+      "Search, trailing, and scent-work partner",
+      "Active outdoor companion for hikers and handlers",
     ],
   },
 
@@ -69,14 +67,8 @@ export const black_norwegian_elkhound: Breed = {
 
     height: {
       unit: "cm",
-      male: {
-        min: 46,
-        max: 49,
-      },
-      female: {
-        min: 43,
-        max: 46,
-      },
+      male: { min: 46, max: 49 },
+      female: { min: 43, max: 46 },
     },
 
     weight: {
@@ -91,43 +83,38 @@ export const black_norwegian_elkhound: Breed = {
     },
 
     coatType:
-      "Dense, rough-textured topcoat that lies close to the body, with a soft, woolly black undercoat.",
+      "Dense, rough-textured, close-lying outer coat paired with a soft, woolly black undercoat.",
 
     coatLength:
-      "Short and smooth on the head and front of the legs; longer on the chest, neck, backs of the legs and underside of the tail.",
+      "Short and smooth over the head and front of the legs; longer around the neck, chest, backs of the legs, and underside of the tail.",
 
     coatColors: [
       "Glossy black",
-      "A small amount of white on the chest may be tolerated",
-      "A small amount of white on the feet may be tolerated",
+      "Minor white markings on the chest (tolerated)",
+      "Minor white markings on the feet (tolerated)",
     ],
 
     sheddingLevel:
-      "Breed-specific shedding intensity is not quantified in the sources reviewed. Regular brushing helps remove loose hair and maintain the coat.",
+      "Moderate overall with seasonal coat shedding; regular brushing removes loose undercoat.",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Compact, square body with an athletic build",
-      "Wedge-shaped head that narrows toward the nose",
-      "High-set, erect and pointed ears",
-      "Preferably dark brown eyes",
-      "Glossy black coat with a soft black undercoat",
-      "Short, thick tail tightly curled over the back",
-      "Strong legs and light, effortless movement",
+      "Compact, square-framed athletic silhouette",
+      "Wedge-shaped skull tapering cleanly toward the muzzle",
+      "High-set, stiffly erect pointed ears and dark brown eyes",
+      "Shining black double coat lying close to the body",
+      "Short, thick tail curled tightly over the back",
     ],
   },
 
   temperament: {
     traits: [
       "Fearless and courageous",
-      "Energetic and alert",
-      "Intelligent and observant",
-      "Often strongly attached to familiar people",
-      "Developed to work closely with a handler",
-      "Persistent and focused during outdoor tracking",
-      "Can be independent when following interesting scents",
-      "Benefits from consistent boundaries and purposeful activity",
+      "Energetic, alert, and keenly observant",
+      "Intelligent and strongly handler-oriented",
+      "Focused and persistent when following scent",
+      "Independent-minded around intriguing wildlife scents",
     ],
 
     scores: {
@@ -146,76 +133,57 @@ export const black_norwegian_elkhound: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate to high. This is a working hunting breed that needs regular outdoor exercise and opportunities for scent-based activity. Individual requirements depend on age, health, conditioning and workload.",
-
+        "Moderate to high — a working hunting Spitz needing regular daily outdoor walks and scent-based enrichment.",
       minutesPerDay: null,
-
       activities: [
-        "Daily walks in varied outdoor environments",
-        "Supervised exploration and sniffing opportunities",
-        "Tracking and scent-work games",
+        "Daily brisk walks through wooded or varied terrain",
+        "Structured tracking, trailing, and nose-work games",
         "Reward-based obedience and recall practice",
-        "Hiking on suitable terrain",
-        "Hunting or structured working activities where legal and appropriate",
-        "Interactive games and problem-solving enrichment",
+        "Hiking on lead or in secure environments",
       ],
     },
 
     grooming: {
-      level:
-        "Low to moderate. The coat is close-lying, but regular care is still needed to remove loose hair and check the skin.",
-
+      level: "Low to moderate",
       brushing:
-        "Brush regularly with a suitable dog brush to remove loose hair and debris. Increase brushing when the individual dog sheds more heavily.",
-
+        "Brush weekly to clear loose hair and forest debris, increasing frequency during seasonal undercoat shedding.",
       bathing:
-        "Bathe when needed with a dog-safe shampoo. Rinse thoroughly and dry the coat well; avoid unnecessary clipping of the natural coat.",
-
+        "Bathe only occasionally with a mild canine shampoo and dry thoroughly; avoid clipping or shaving the natural coat.",
       notes: [
-        "The coat is dense but lies relatively close to the body.",
-        "Check the skin after hunting, hiking or running through brush.",
-        "Inspect the ears regularly for dirt, redness or odour.",
-        "Trim nails as needed and maintain routine dental care.",
-        "Avoid unnecessary shaving or clipping of the coat.",
+        "Inspect skin, coat, and paws after walks through dense brush.",
+        "Check upright ears periodically for wax, redness, or debris.",
+        "Keep nails trimmed and maintain regular dental brushing.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate. The breed was developed for purposeful hunting work and close handler cooperation. Consistency, motivation and clear communication are important.",
-
+        "Moderate — responsive to clear, cooperative handling, though strong scent drive demands patient consistency.",
       tips: [
-        "Use reward-based training and short, purposeful sessions.",
-        "Begin recall and leash training early, practising in gradually more distracting environments.",
-        "Use secure areas for off-leash exercise unless the individual dog is reliably safe in the setting.",
-        "Provide scent games and tracking tasks that engage the dog's working instincts.",
-        "Reward calm attention and voluntary check-ins with the handler.",
-        "Practise settling and impulse control as well as active skills.",
+        "Use upbeat, reward-based sessions kept brief and purposeful.",
+        "Practise leash manners and recall early in gradually busier settings.",
+        "Channel natural tracking instincts into structured nose-work tasks.",
       ],
-
       socialization:
-        "Introduce the dog gradually and positively to different people, dogs, sounds and environments. Use rewards and allow the dog time to observe unfamiliar situations without forcing interactions.",
+        "Provide calm, positive exposure to varied people, unfamiliar dogs, and everyday sounds from puppyhood without forcing interactions.",
     },
 
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: null,
-
       climates: [
-        "The dense coat provides some natural protection in cool outdoor conditions.",
-        "Provide shade, ventilation and fresh water in warm weather.",
-        "Avoid strenuous activity during peak heat and adapt exercise to the individual dog.",
-        "After wet or cold-weather activity, check the coat, paws and skin.",
+        "Dense double coat suits cool Nordic and temperate climates well.",
+        "Provide shade, ventilation, and fresh water in warm weather, shifting vigorous outings to cooler hours.",
+        "Check paws and coat after wet or snowy outings.",
       ],
-
       aloneTimeTolerance:
-        "A reliable breed-specific duration was not established. Build alone time gradually and provide adequate exercise, companionship and enrichment rather than routinely leaving the dog alone for long periods.",
+        "Moderate when conditioned gradually — prefers regular companionship and structured exercise before departures.",
     },
   },
 
   nutrition: {
     dietType:
-      "Complete and balanced dog food appropriate to the dog's age, body condition, activity level and health.",
+      "A complete and balanced commercial diet tailored to a medium-sized, active dog's life stage.",
 
     feedingFrequency: {
       puppy: null,
@@ -224,56 +192,52 @@ export const black_norwegian_elkhound: Breed = {
     },
 
     guidelines:
-      "Use the food manufacturer's feeding guidance as a starting point, then adjust portions according to body condition, activity and veterinary advice. Keep fresh water available and review feeding needs as the dog matures or its workload changes.",
+      "Measure daily portions against body condition score and actual outdoor workload, keeping fresh water available at all times.",
 
     considerations: [
-      "Adjust food intake to the dog's activity and body condition rather than assuming all dogs need the same portions.",
-      "Monitor body condition during periods of increased hunting or outdoor exercise.",
-      "Introduce diet changes gradually unless a veterinarian advises otherwise.",
-      "Discuss persistent digestive issues, unexplained weight changes or supplements with a veterinarian.",
+      "Adjust caloric intake during active hunting or hiking seasons versus quieter periods.",
+      "Introduce diet changes gradually to minimize digestive upset.",
+      "Consult a veterinarian for persistent gastrointestinal signs, weight changes, or skin irritation.",
     ],
 
     note:
-      "No universal breed-specific calorie target or meal schedule was established in the sources reviewed.",
+      "No universal meal count or calorie target applies to every Black Norwegian Elkhound; individual needs vary.",
   },
 
   health: {
     overview:
-      "The Norwegian breeding programme includes screening for hip dysplasia, hereditary glaucoma and hereditary ataxia. It also sets breeding rules concerning epilepsy and recommends considering regular eye examinations. These are screening priorities and reported health topics, not evidence that an individual dog will develop a condition. Ask for documented test results and discuss them with a veterinarian familiar with the breed.",
+      "Organized Norwegian breeding programmes screen for hip dysplasia, hereditary glaucoma (ADAMTS10), and hereditary ataxia (HACE1), alongside rules addressing epilepsy and recommendations for periodic eye exams. Insurance data also note skin injuries as a common reason for veterinary visits among active working dogs.",
 
     commonConditions: [
-      "Hip dysplasia is included in the breed's breeding-screening requirements.",
-      "Hereditary glaucoma associated with the ADAMTS10 gene is included in DNA-testing requirements.",
-      "Hereditary ataxia associated with the HACE1 gene is included in DNA-testing requirements.",
-      "Epilepsy is addressed in the breed's breeding rules.",
-      "Skin injuries are reported as a reason for veterinary visits in breed health information.",
+      "Hip dysplasia — monitored through radiographic hip evaluations in breeding programmes.",
+      "Hereditary glaucoma (ADAMTS10) — screened via mandatory DNA testing in breeding stock.",
+      "Hereditary ataxia (HACE1) — screened via mandatory DNA testing in breeding stock.",
+      "Epilepsy — monitored under breeding restrictions.",
+      "Skin injuries — reported in veterinary insurance data, often linked to outdoor brush work.",
     ],
 
     preventiveCare: [
-      "Ask the breeder for documented hip status and the recommended genetic test results for both parents.",
-      "Discuss eye examinations and relevant screening schedules with a veterinarian.",
-      "Maintain routine veterinary examinations and locally recommended preventive care.",
-      "Check the skin and paws after work in brush, forest or rough terrain.",
-      "Keep the dog fit without sudden increases in exercise intensity.",
-      "Seek veterinary advice promptly for changes in gait, balance, vision or neurological function.",
+      "Request documented parental hip scores and ADAMTS10 / HACE1 DNA test results from breeders.",
+      "Maintain routine veterinary wellness checks, vaccinations, and parasite control.",
+      "Inspect skin and paws after forest or field outings and seek prompt care for gait, balance, vision, or neurological changes.",
     ],
 
     recommendedScreenings: [
-      "Hip dysplasia evaluation and documented hip status",
-      "DNA testing for hereditary glaucoma associated with ADAMTS10",
-      "DNA testing for hereditary ataxia associated with HACE1",
-      "Eye examinations as recommended by the breed programme and veterinarian",
-      "Review of epilepsy history in the dog and its close relatives",
+      "Hip dysplasia radiographic evaluation",
+      "DNA test for hereditary glaucoma (ADAMTS10)",
+      "DNA test for hereditary ataxia (HACE1)",
+      "Periodic veterinary eye examinations",
+      "Review of family epilepsy history",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste and arrange veterinary dental checks as needed.",
+      "Brush teeth regularly with dog-safe toothpaste and schedule routine veterinary oral exams.",
 
     earCare:
-      "Inspect the ears routinely for dirt, redness, discharge or odour. Use a dog-safe cleaner only when needed and ask a veterinarian about persistent irritation.",
+      "Inspect the erect ears periodically for dirt, redness, or odour, cleaning gently only when needed.",
 
     skinCare:
-      "Check the skin and coat after outdoor activity, particularly after hunting or travelling through dense vegetation. Seek veterinary advice for wounds, persistent itching, redness or hair loss.",
+      "Check the skin and coat after brush or forest outings for scratches, ticks, or persistent irritation.",
   },
 
   suitability: {
@@ -284,69 +248,66 @@ export const black_norwegian_elkhound: Breed = {
     apartmentLiving: null,
 
     idealFor: [
-      "Active households that enjoy regular outdoor exercise",
-      "Owners interested in tracking, scent work or appropriate hunting activities",
-      "People willing to build a consistent training routine",
-      "Homes able to provide companionship, enrichment and safe exercise",
-      "Handlers who value a close working relationship with their dog",
+      "Active owners who enjoy daily forest walks, hiking, and outdoor exploration",
+      "Handlers interested in tracking, nose-work, or leashed hunting",
+      "Owners willing to provide steady, cooperative training and companionship",
     ],
 
     notIdealFor: [
-      "Households seeking a dog that needs very little daily activity",
-      "Owners unable to provide regular training and outdoor engagement",
-      "Homes that cannot safely manage the dog's hunting interests",
-      "People expecting a breed-specific off-leash recall guarantee without training",
+      "Sedentary households seeking a low-exercise companion",
+      "Owners unable to manage strong scent and tracking instincts safely",
+      "Homes expecting effortless off-leash recall around wildlife without training",
     ],
   },
 
   funFacts: [
-    "The breed's Norwegian name is Norsk Elghund Sort.",
+    "In Norway, the breed is known as Norsk Elghund Sort.",
     "It has been maintained as a distinct breed since the mid-nineteenth century.",
-    "It is especially associated with hunting while working closely with its handler.",
-    "The breed's standard describes a glossy black coat and allows a small amount of white on the chest and feet.",
-    "The Black and Grey Norwegian Elkhounds are separate FCI-recognised breeds with different standards.",
+    "Unlike loose-hunting Spitz breeds that bark to hold game at bay, it was bred to track quietly on a lead beside its handler.",
+    "A glossy black coat with only minimal white on the chest and feet is characteristic of the breed.",
+    "The Black and Grey Norwegian Elkhounds are separate, independently recognized breeds.",
   ],
 
   faq: [
     {
       question: "Where does the Black Norwegian Elkhound come from?",
       answer:
-        "The breed comes from Norway and developed from local Spitz-type dogs in the border regions between Norway and Sweden. It has been maintained as a distinct breed since the mid-nineteenth century.",
+        "It originated in Norway from local Spitz dogs along the Norway–Sweden border and has been maintained as a distinct breed since the mid-nineteenth century.",
     },
     {
       question: "What was the Black Norwegian Elkhound bred to do?",
       answer:
-        "It was developed for hunting large game, especially elk and deer. Its traditional work places importance on tracking and cooperation with the handler.",
+        "It was developed for hunting large game such as elk and deer, specializing in quiet, leashed tracking alongside the hunter.",
     },
     {
       question: "How tall is a Black Norwegian Elkhound?",
       answer:
-        "The FCI standard gives a height of 46–49 cm for males, with an ideal height of 47 cm. For females it gives 43–46 cm, with an ideal height of 44 cm.",
+        "Males typically measure 46–49 cm at the withers (ideally 47 cm), and females 43–46 cm (ideally 44 cm).",
     },
     {
       question: "How much does a Black Norwegian Elkhound weigh?",
       answer:
-        "The FCI standard does not specify a weight range. Norwegian breed information gives approximate figures of around 15 kg for males and 13 kg for females; these are reference figures rather than an official weight range.",
+        "Nordic breed profiles cite roughly 15 kg for males and 13 kg for females (around 13–20 kg overall), though some international references list 18–25 kg.",
     },
     {
       question: "What colour is the Black Norwegian Elkhound?",
       answer:
-        "Its coat is predominantly glossy black, with a soft black undercoat. The breed standard allows a small amount of white on the chest and feet.",
+        "Its coat is predominantly glossy black over a soft black undercoat, though a small amount of white on the chest and feet is tolerated.",
     },
     {
       question: "How much exercise does it need?",
       answer:
-        "It needs regular outdoor exercise and activities that use its nose and working instincts. The exact daily amount depends on the dog's age, health, fitness and workload.",
+        "It needs regular daily outdoor walks and scent-based activities, with total duration tailored to age, fitness, and workload.",
     },
     {
       question: "What health tests should I ask a breeder about?",
       answer:
-        "Ask for documented hip status and results of DNA testing for hereditary glaucoma and hereditary ataxia. Discuss eye examinations and family history of epilepsy with the breeder and your veterinarian.",
+        "Ask for documented hip status and DNA test results for hereditary glaucoma (ADAMTS10) and hereditary ataxia (HACE1), plus eye exams and epilepsy history.",
     },
     {
       question: "Is the Black Norwegian Elkhound the same as the Grey Norwegian Elkhound?",
       answer:
-        "No. They are separate recognised breeds. The black variety has a predominantly glossy black coat, while the grey variety has its own standard and coat description.",
+        "No—they are separate recognized breeds, with the black variety being smaller, shorter-coated, and bred specifically for leashed tracking.",
     },
   ],
 
@@ -357,6 +318,7 @@ export const black_norwegian_elkhound: Breed = {
     "norwegian-kennel-club-black-elkhound-breeding-program",
     "norwegian-hunters-and-anglers-association-black-elkhound",
     "commons-black-norwegian-elkhound-canarian",
+    "the-dog-api",
   ],
 
   evidence: {
@@ -371,41 +333,40 @@ export const black_norwegian_elkhound: Breed = {
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "verified",
-          locator: "Breed profile heading and breed information",
+          locator: "Breed profile heading",
         },
         {
           id: "norwegian-elkhound-clubs-federation-black-elkhound-profile",
           role: "verified",
-          locator: "Breed information: Norsk Elghund Sort",
+          locator: "Norsk Elghund Sort",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names (Svart Elghund, Norsk Elghund Sort)",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Alternate names are based on official and Norwegian breed-club terminology.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No breed-specific scientific name is supplied by the consulted breed standards; this field is left null.",
+      note: "No separate scientific binomial is assigned beyond domestic dog (Canis lupus familiaris).",
     },
-
     group: {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-norwegian-elkhound-black-standard",
           role: "verified",
-          locator: "FCI classification: Group 5, Section 2, Nordic Hunting Dogs",
+          locator: "Classification — Group 5, Section 2, Nordic Hunting Dogs",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Classification follows the official FCI standard.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     origin: {
       reliability: "official_standard",
       sources: [
@@ -414,209 +375,215 @@ export const black_norwegian_elkhound: Breed = {
           role: "verified",
           locator: "Origin: Norway",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Norway",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "The official standard identifies Norway as the country of origin.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     "origin.region": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "A more specific official region of origin is not stated in the consulted standard.",
+      note: "No specific official region of origin is stated in the consulted standard.",
     },
-
     overview: {
       reliability: "reliable_source",
       sources: [
         {
           id: "fci-norwegian-elkhound-black-standard",
           role: "verified",
-          locator: "Origin, utilization, general appearance and temperament",
+          locator: "Origin, utilization, general appearance, and temperament",
         },
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "verified",
-          locator: "Breed profile, use, appearance and history",
+          locator: "Breed profile, use, appearance, and history",
         },
         {
           id: "norwegian-elkhound-clubs-federation-black-elkhound-profile",
           role: "verified",
           locator: "Breed information and historical summary",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "User-facing descriptions are original summaries of the breed's history, appearance and working purpose.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     physical: {
       reliability: "reliable_source",
       sources: [
         {
           id: "fci-norwegian-elkhound-black-standard",
           role: "verified",
-          locator: "General appearance, coat and body proportions",
+          locator: "General appearance, coat, and proportions",
         },
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "verified",
-          locator: "Size, appearance and coat care",
+          locator: "Size, appearance, and coat care",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Physical descriptions are based on the breed standard and official breed profile; unavailable measurements are explicitly overridden below.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     "physical.sizeCategory": {
       reliability: "reliable_source",
       sources: [
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "verified",
-          locator: "Breed characteristics: size listed as medium",
+          locator: "Size listed as medium",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Size category follows the Norwegian Kennel Club profile.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     "physical.height": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-norwegian-elkhound-black-standard",
           role: "verified",
-          locator: "Size: males 46–49 cm, ideal 47 cm; females 43–46 cm, ideal 44 cm",
+          locator: "Size — males 46–49 cm (ideal 47 cm); females 43–46 cm (ideal 44 cm)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric: 46–50 cm (males), 43–47 cm (females)",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Measurements are stored in the centimetres published by the standard, without conversion.",
+      verifiedOn: "2026-11-12",
+      note: "Official standard height (46–49 cm males, 43–46 cm females) is retained; The Dog API lists 46–50 cm and 43–47 cm.",
     },
-
     "physical.weight": {
       reliability: "unavailable",
-      sources: [],
+      sources: [
+        {
+          id: "norwegian-elkhound-clubs-federation-black-elkhound-profile",
+          role: "cited",
+          locator: "Approximate weights: ~15 kg (males), ~13 kg (females)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric: 20–25 kg (males), 18–23 kg (females)",
+        },
+      ],
       verifiedOn: null,
-      note:
-        "The official FCI standard does not specify a weight range. Approximate point weights in secondary Norwegian breed information are not represented as a fabricated range in this field.",
+      note: "Official standard does not specify weight; Norwegian club figures (~15 kg / ~13 kg) conflict with The Dog API (20–25 kg / 18–23 kg), so the field is left null.",
     },
-
     "physical.lifespanYears": {
       reliability: "estimate",
       sources: [
         {
           id: "norwegian-hunters-and-anglers-association-black-elkhound",
           role: "cited",
-          locator: "Breed information: lifespan listed as 10–12 years",
+          locator: "Lifespan listed as 10–12 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.life_span: 12–15 years",
         },
       ],
       verifiedOn: null,
-      note:
-        "The 10–12 year range is an estimate from breed information, not a guarantee or a population-wide scientific estimate.",
+      note: "NJFF lists 10–12 years, whereas The Dog API lists 12–15 years.",
     },
-
     "physical.coatType": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-norwegian-elkhound-black-standard",
           role: "verified",
-          locator: "Coat: dense, rough, close-lying topcoat and soft black undercoat",
+          locator: "Coat — dense, rough, close-lying topcoat and soft black undercoat",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Coat description is paraphrased from the standard.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     "physical.coatLength": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-norwegian-elkhound-black-standard",
           role: "verified",
-          locator: "Coat: hair length on head, legs, chest, neck and tail",
+          locator: "Coat — length distribution",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Length distribution is summarised from the standard.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     "physical.coatColors": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-norwegian-elkhound-black-standard",
           role: "verified",
-          locator: "Coat colour: shining black; a little white on chest and feet may be tolerated",
+          locator: "Coat colour — shining black; minor white on chest and feet tolerated",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Colour wording preserves the standard's qualification about limited white markings.",
+      verifiedOn: "2026-11-12",
+      note: "Generic species-wide colours from The Dog API are excluded.",
     },
-
     "physical.sheddingLevel": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "Breed-specific shedding intensity is not quantified; the text gives conservative coat-maintenance guidance.",
+      note: "Breed-specific shedding quantity is not quantified in reviewed sources.",
     },
-
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No reliable breed-specific drooling measurement was established.",
+      note: "No reliable breed-specific drooling measurement was established.",
     },
-
     "physical.distinctiveFeatures": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-norwegian-elkhound-black-standard",
           role: "verified",
-          locator: "General appearance, head, ears, body, tail, coat and gait",
+          locator: "General Appearance, Head, Ears, Body, Tail, Coat",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Distinctive features are original summaries of the official standard.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     temperament: {
       reliability: "reliable_source",
       sources: [
         {
           id: "fci-norwegian-elkhound-black-standard",
           role: "verified",
-          locator: "Behaviour and temperament: fearless, energetic and brave",
+          locator: "Behaviour / Temperament",
         },
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "verified",
-          locator: "Breed temperament, handler cooperation and family suitability",
+          locator: "Temperament and handler cooperation",
         },
         {
           id: "norwegian-elkhound-clubs-federation-black-elkhound-profile",
           role: "verified",
           locator: "Temperament and relationship with owners",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Temperament descriptions reflect breed-level guidance and do not guarantee an individual dog's behaviour.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     "temperament.scores": {
       reliability: "estimate",
       sources: [
@@ -628,49 +595,41 @@ export const black_norwegian_elkhound: Breed = {
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "cited",
-          locator: "Activity level, cooperation and breed temperament",
+          locator: "Activity level and cooperation",
         },
       ],
       verifiedOn: null,
-      note:
-        "The 1–5 ratings are editorial estimates based on qualitative breed descriptions, not validated behavioural test scores.",
+      note: "Editorial 1–5 estimates based on qualitative breed descriptions.",
     },
-
     care: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "General dog-care advice is adapted to the breed's working background.",
+      note: "General dog-care advice adapted to the breed's working background.",
     },
-
     "care.exercise": {
       reliability: "reliable_source",
       sources: [
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "verified",
-          locator: "Breed activity and recommendation for regular walks in forest and countryside",
+          locator: "Activity and regular walks in forest and countryside",
         },
         {
           id: "norwegian-elkhound-clubs-federation-black-elkhound-profile",
           role: "verified",
-          locator: "Hunting role and working activities",
+          locator: "Working activities",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Activity guidance is breed-specific, but no fixed daily minute target is claimed.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "The consulted sources do not establish a reliable daily exercise duration in minutes.",
+      note: "Reviewed sources do not establish a fixed daily exercise duration in minutes.",
     },
-
     "care.grooming": {
       reliability: "reliable_source",
       sources: [
@@ -682,175 +641,143 @@ export const black_norwegian_elkhound: Breed = {
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "verified",
-          locator: "Coat care: little grooming required",
+          locator: "Coat care",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Grooming recommendations reflect the close-lying coat and the kennel club's low-maintenance description.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     "care.training": {
       reliability: "reliable_source",
       sources: [
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "verified",
-          locator: "Breed use and cooperation with the handler",
+          locator: "Handler cooperation",
         },
         {
           id: "norwegian-elkhound-clubs-federation-black-elkhound-profile",
           role: "verified",
-          locator: "Lead-hunting work and handler relationship",
+          locator: "Lead-hunting work",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Training advice is tailored to the documented working role and supplemented with general reward-based methods.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     "care.livingEnvironment": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "General welfare advice; housing suitability depends on the individual dog, daily routine and opportunities for exercise.",
+      note: "General welfare guidance; housing suitability depends on daily exercise and enrichment.",
     },
-
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No reliable source establishes a universal apartment-suitability answer for this breed.",
+      note: "No reliable source establishes a universal apartment-suitability rating.",
     },
-
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No reliable source establishes a universal house-with-yard suitability answer; exercise and enrichment matter more than a single housing label.",
+      note: "No reliable source establishes a universal house-with-yard rating.",
     },
-
     nutrition: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "General canine nutrition guidance; no breed-specific calorie prescription is asserted.",
+      note: "General canine nutrition guidance; no breed-specific calorie target is asserted.",
     },
-
     "nutrition.feedingFrequency.puppy": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No universal breed-specific puppy feeding frequency was established.",
+      note: "No breed-specific puppy meal schedule was established.",
     },
-
     "nutrition.feedingFrequency.adult": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No universal breed-specific adult feeding frequency was established.",
+      note: "No breed-specific adult meal schedule was established.",
     },
-
     "nutrition.feedingFrequency.senior": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No universal breed-specific senior feeding frequency was established.",
+      note: "No breed-specific senior meal schedule was established.",
     },
-
     health: {
       reliability: "reliable_source",
       sources: [
         {
           id: "norwegian-kennel-club-black-elkhound-breeding-program",
           role: "verified",
-          locator: "Breeding requirements, health recommendations and health summary",
+          locator: "Breeding requirements and health summary",
         },
         {
           id: "norwegian-elkhound-clubs-federation-black-elkhound-profile",
           role: "verified",
-          locator: "Breed health information and links to breed health resources",
+          locator: "Breed health information",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Health information is based on breed-specific screening and breeding guidance; it is not a diagnosis or a claim that every listed condition is prevalent.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
           id: "norwegian-kennel-club-black-elkhound-breeding-program",
           role: "verified",
-          locator: "Hip dysplasia, hereditary glaucoma, hereditary ataxia, epilepsy and veterinary-visit summary",
+          locator: "Hip dysplasia, ADAMTS10 glaucoma, HACE1 ataxia, epilepsy, skin injuries",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "These are health topics addressed in the breed programme, not a ranked prevalence list.",
+      verifiedOn: "2026-11-12",
+      note: "Topics addressed in the breed programme rather than a ranked prevalence list.",
     },
-
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
           id: "norwegian-kennel-club-black-elkhound-breeding-program",
           role: "verified",
-          locator: "Breeding requirements effective 1 April 2026: hip status, ADAMTS10 glaucoma DNA test and HACE1 ataxia DNA test; eye examinations recommended",
+          locator: "Hip status, ADAMTS10 glaucoma DNA test, HACE1 ataxia DNA test, eye exams",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Screening requirements and recommendations should be reconfirmed with the breed club before breeding decisions.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "General preventive care guidance adapted to the breed's documented screening priorities.",
+      note: "General preventive veterinary guidance adapted to breed screening priorities.",
     },
-
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "Routine dental-care guidance for dogs.",
+      note: "Routine canine dental care guidance.",
     },
-
     "health.earCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "Routine ear inspection and care guidance for dogs.",
+      note: "Routine ear inspection guidance.",
     },
-
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note:
-        "General skin-care guidance with attention to outdoor working activity.",
+      note: "Routine skin-care guidance for active outdoor dogs.",
     },
-
     suitability: {
       reliability: "estimate",
       sources: [
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "cited",
-          locator: "Activity, working role and companionship",
+          locator: "Activity, working role, and companionship",
         },
         {
           id: "norwegian-elkhound-clubs-federation-black-elkhound-profile",
@@ -859,34 +786,26 @@ export const black_norwegian_elkhound: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "Suitability guidance is an editorial assessment of activity and training needs, not a validated household-fit test.",
+      note: "Editorial suitability assessment based on activity and working demands.",
     },
-
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No reliable source establishes a universal first-time-owner suitability rating.",
+      note: "No reliable source establishes a universal first-time-owner rating.",
     },
-
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No reliable source establishes a universal suitability rating for all families with children.",
+      note: "No reliable source establishes a universal rating for families with children.",
     },
-
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No reliable source establishes a universal senior-owner suitability rating.",
+      note: "No reliable source establishes a universal senior-owner rating.",
     },
-
     "suitability.activeOwners": {
       reliability: "estimate",
       sources: [
@@ -897,76 +816,69 @@ export const black_norwegian_elkhound: Breed = {
         },
       ],
       verifiedOn: null,
-      note:
-        "This suitability assessment is based on the breed's working background and need for regular activity.",
+      note: "Based on the breed's working background and regular exercise needs.",
     },
-
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "No reliable source establishes a universal apartment-living suitability rating.",
+      note: "No reliable source establishes a universal apartment-living rating.",
     },
-
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "verified",
-          locator: "Breed history and distinctive appearance",
+          locator: "Breed history and appearance",
         },
         {
           id: "norwegian-elkhound-clubs-federation-black-elkhound-profile",
           role: "verified",
-          locator: "Breed history and working role",
+          locator: "Working role and history",
         },
         {
           id: "fci-norwegian-elkhound-black-standard",
           role: "verified",
-          locator: "Breed name, colour and classification",
+          locator: "Breed name, colour, and classification",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Facts are paraphrased from official breed and kennel-club material.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
-
     faq: {
       reliability: "reliable_source",
       sources: [
         {
           id: "fci-norwegian-elkhound-black-standard",
           role: "verified",
-          locator: "Classification, size, coat and colour",
+          locator: "Classification, height, coat, and colour",
         },
         {
           id: "norwegian-kennel-club-black-norwegian-elkhound",
           role: "verified",
-          locator: "Breed history, size, coat, temperament and use",
+          locator: "History, coat, temperament, and use",
         },
         {
           id: "norwegian-elkhound-clubs-federation-black-elkhound-profile",
           role: "verified",
-          locator: "Approximate weight information and breed background",
+          locator: "Approximate weight and background",
         },
         {
           id: "norwegian-kennel-club-black-elkhound-breeding-program",
           role: "verified",
-          locator: "Breed health screening requirements",
+          locator: "Health screening requirements",
         },
         {
           id: "norwegian-hunters-and-anglers-association-black-elkhound",
           role: "verified",
-          locator: "Breed profile and lifespan estimate",
+          locator: "Lifespan estimate",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note:
-        "Answers are original summaries. Measurements retain the units used in the cited sources.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
   },
 
-  updatedOn: "2026-10-26",
+  updatedOn: "2026-11-12",
 };

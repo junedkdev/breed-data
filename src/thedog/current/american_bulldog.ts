@@ -1,24 +1,24 @@
 import type { Breed } from "../../schema/breed.types";
 
-export const shar_pei: Breed = {
-  slug: "shar-pei",
-  name: "Shar Pei",
+export const american_bulldog: Breed = {
+  slug: "american-bulldog",
+  name: "American Bulldog",
   scientificName: null,
   alternateNames: [
-    "Chinese Shar-Pei",
-    "Shar-Pei",
-    "Chinese Fighting Dog",
+    "AmBull",
+    "Southern White",
+    "White English Bulldog",
   ],
-  group: "Non-Sporting",
+  group: "Working",
   origin: {
-    country: "China",
+    country: "United States",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "An ancient Chinese breed known for its distinctive deep wrinkles, hippopotamus-like muzzle, blue-black tongue, and compact, medium-sized build with a calm, independent temperament",
-    history: "Ancient Chinese breed from southern provinces dating back to the Han Dynasty, originally used as all-purpose farm dog for hunting, herding, guarding, and farm work. Nearly extinct in mid-20th century but revived from very small population by dedicated breeders in 1970s",
+    description: "A powerful, athletic, short-coated dog of the molosser type with a broad head and muscular build, known for its confidence, strength, and loyalty as a family companion and guardian. Originally bred for farm work and protection.",
+    history: "Descended from Old English Bulldogs brought by working-class immigrants to the American South. Developed as versatile all-around farm utility dogs for guarding property, catching livestock, and protection. The breed was preserved from near extinction after WWII by breeders John D. Johnson and Alan Scott.",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -27,27 +27,27 @@ export const shar_pei: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 46,
-        max: 51,
+        min: 56,
+        max: 64,
       },
       female: {
-        min: 46,
-        max: 51,
+        min: 51,
+        max: 58,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 20,
-        max: 27,
+        min: 34,
+        max: 45,
       },
       female: {
-        min: 20,
-        max: 27,
+        min: 27,
+        max: 36,
       },
     },
     lifespanYears: {
-      min: 8,
+      min: 10,
       max: 12,
     },
     coatType: null,
@@ -77,12 +77,12 @@ export const shar_pei: Breed = {
   },
   temperament: {
     traits: [
-      "Loyal",
-      "independent",
-      "calm",
-      "alert",
+      "Confident",
+      "loyal",
       "protective",
-      "intelligent",
+      "energetic",
+      "affectionate",
+      "courageous",
     ],
     scores: {
       affection: null,
@@ -261,7 +261,7 @@ export const shar_pei: Breed = {
         },
       ],
       verifiedOn: "2026-11-12",
-      note: "The Dog API gave one range for the breed and did not separate males and females.",
+      note: null,
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -615,7 +615,7 @@ export const shar_pei: Breed = {
         },
       ],
       verifiedOn: "2026-11-12",
-      note: "The Dog API gave one range for the breed and did not separate males and females.",
+      note: null,
     },
     "physical.weight.female.max": {
       reliability: "reliable_source",
@@ -627,7 +627,7 @@ export const shar_pei: Breed = {
         },
       ],
       verifiedOn: "2026-11-12",
-      note: "The Dog API gave one range for the breed and did not separate males and females.",
+      note: null,
     },
   },
   updatedOn: "2026-11-12",

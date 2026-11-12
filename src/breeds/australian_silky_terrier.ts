@@ -4,15 +4,19 @@ export const australian_silky_terrier: Breed = {
   slug: "australian-silky-terrier",
   name: "Australian Silky Terrier",
   scientificName: null,
+
   alternateNames: [
     "Silky Terrier",
     "Sydney Silky",
   ],
-  group: "FCI Group 3 — Terriers; Section 4 — Toy Terriers",
+
+  group: "Terriers; Toy Terriers",
+
   origin: {
     country: "Australia",
     region: null,
   },
+
   images: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Silkkiterrieri.jpg",
@@ -29,75 +33,86 @@ export const australian_silky_terrier: Breed = {
       attribution:
         "Photo by Jenna-timonen, via Wikimedia Commons, licensed under CC BY-SA 3.0. Include a link to the license and indicate if changes were made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-12",
     },
   ],
+
   overview: {
     summary:
-      "The Australian Silky Terrier is a small, lively companion dog with a fine, glossy coat and an alert terrier expression. Its compact build should not be mistaken for a low-energy temperament: it enjoys exploring, playing, learning, and staying involved in household life.",
+      "A compact, spirited Australian toy terrier distinguished by its straight, glossy blue-and-tan silky coat and keen, alert expression, packing genuine terrier energy into a small frame.",
+
     description:
-      "This Australian breed combines a neat, moderately low-set body with a straight, silky coat that is parted along the back. Its characteristic adult colouring is blue and tan, with clear boundaries between the colours. Although bred in a toy-sized format, it retains the curiosity, alertness, and confidence associated with terriers. Regular coat care, consistent reward-based training, and daily engagement are important parts of responsible ownership.",
+      "Moderately low-set and slightly longer than tall, the Australian Silky Terrier wears a fine, straight, parted coat in crisp shades of blue and tan. Though sized as a household companion, it carries the bold curiosity, quickness, and rodent-hunting heritage of its terrier forebears. Owners should expect daily interactive play, consistent reward-based training, and frequent brushing to keep the silky coat tangle-free.",
+
     history:
-      "The breed developed in Australia through the work of breeders who combined local terrier stock with Yorkshire Terriers to establish a distinctive silky coat and blue-and-tan appearance. The breed was also known historically as the Sydney Silky. A national standard was agreed in the mid-twentieth century, and the Australian Silky Terrier became established as a distinct breed.",
+      "Bred in Australia—historically around Sydney, earning the early nickname Sydney Silky—the breed emerged from crosses between local Australian Terriers and imported Yorkshire Terriers in the late nineteenth and early twentieth centuries. Breeders aimed to pair the Yorkshire Terrier's glossy blue-and-tan coat with sturdier terrier substance, achieving a unified national breed type by the mid-twentieth century.",
+
     originalPurpose:
-      "A small terrier developed as a companion while retaining the ability and structure to hunt domestic rodents.",
+      "A small companion terrier capable of keeping homes and yards clear of domestic rodents.",
+
     currentRoles: [
-      "Household companion",
-      "Companion for owners who enjoy training and interactive play",
-      "Participation in suitable obedience, trick-training, and other dog activities",
-      "Show-ring and conformation competitor",
+      "Lively household companion",
+      "Obedience, agility, rally, and trick-training partner",
+      "Conformation show dog",
     ],
   },
+
   physical: {
     sizeCategory: "Small",
+
     height: {
       unit: "cm",
-      male: {
-        min: 23,
-        max: 26,
-      },
+      male: { min: 23, max: 26 },
       female: null,
     },
+
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: { min: 3.5, max: 5 },
+      female: { min: 3.5, max: 5 },
     },
+
     lifespanYears: {
       min: 10,
       max: 15,
     },
+
     coatType:
-      "Straight, flat, fine, glossy hair with a silky texture, parted along the back.",
+      "Straight, flat, fine, glossy single coat with a silky texture parted cleanly along the spine.",
+
     coatLength:
-      "The Royal Kennel Club standard describes a desirable coat length of 13–15 cm from behind the ears to the tail set-on. The coat should not be so long that it interferes with movement, and the feet should remain free of long coat.",
+      "Desirable body coat length is 13–15 cm from behind the ears to the tail set-on, stopping clear of the ground so movement is unobstructed and the feet remain free of long hair.",
+
     coatColors: [
       "Blue and tan",
       "Silver-blue and tan",
-      "Other shades of blue and tan recognised by the applicable breed standard",
+      "Any rich, clearly defined shade of blue and tan",
     ],
+
     sheddingLevel:
-      "Generally described as a relatively low shedder, though individual coat condition and grooming routines affect how much loose hair is noticed.",
+      "Low — sheds minimally, though regular brushing is needed to remove loose strands and prevent mats.",
+
     droolingLevel: null,
+
     distinctiveFeatures: [
-      "Small, compact, moderately low-set body.",
-      "Straight, glossy, silky coat parted along the back.",
-      "Adult coat with clearly defined blue-and-tan colouring.",
-      "Small, high-set, V-shaped ears that are carried erect.",
-      "Alert expression and lively terrier character.",
-      "Movement should be free and true, without obvious looseness.",
+      "Compact, moderately low-set body slightly longer than tall",
+      "Straight, glossy, parted blue-and-tan silky coat",
+      "Small, high-set, V-shaped ears carried cleanly erect",
+      "Keen, alert terrier expression with small, dark oval eyes",
+      "Free, true movement without coat dragging on the floor",
     ],
   },
+
   temperament: {
     traits: [
-      "Alert and observant",
-      "Active and curious",
-      "Confident for its size",
-      "Friendly and responsive with familiar people",
-      "Intelligent and capable of learning through positive training",
-      "May bark to alert its household",
-      "May chase small moving animals because of its terrier background",
+      "Alert and keenly observant",
+      "Lively, playful, and curious",
+      "Confident and bold for its small size",
+      "Affectionate and responsive with family members",
+      "Intelligent and quick to learn through positive reinforcement",
+      "Vocal watchdog with lingering small-prey chase instincts",
     ],
+
     scores: {
       affection: 5,
       withChildren: 3,
@@ -110,174 +125,179 @@ export const australian_silky_terrier: Breed = {
       energy: 4,
     },
   },
+
   care: {
     exercise: {
       level:
-        "Moderate. Provide daily walks, interactive play, opportunities to sniff and explore safely, and short training sessions. Adapt the amount and intensity of activity to the individual dog's age, health, and fitness.",
+        "Moderate — satisfied by daily walks, interactive toy play, sniffing, and brief training games tailored to age and fitness.",
       minutesPerDay: null,
       activities: [
-        "Daily walks on a well-fitted harness and leash",
-        "Interactive games with toys",
-        "Reward-based training",
-        "Scent and search games",
-        "Supervised exploration in a secure area",
-        "Age-appropriate obedience or trick training",
+        "Daily leashed walks on a well-fitted harness",
+        "Interactive indoor fetch and puzzle-toy play",
+        "Reward-based trick, obedience, or nose-work sessions",
+        "Supervised yard exploration inside secure fencing",
       ],
     },
+
     grooming: {
-      level:
-        "High coat-maintenance needs when the coat is kept long. Frequent brushing and combing help prevent tangles and matting.",
+      level: "High when kept in full coat; moderate with a shorter pet trim",
       brushing:
-        "Brush and comb the coat frequently, often daily when it is kept long. Work gently through tangles, and check behind the ears, under the legs, and around areas where a collar or harness may rub.",
+        "Brush and comb several times a week—ideally daily in full coat—paying close attention behind the ears, under the legs, and around harness contact points.",
       bathing:
-        "Bathe as needed with a dog-appropriate shampoo, rinse thoroughly, and dry the coat carefully. Brush out tangles before they tighten during drying.",
+        "Bathe periodically with a gentle canine shampoo, conditioning and drying carefully while combing out tangles before they set.",
       notes: [
-        "Inspect the skin while brushing and look for irritation, redness, or unusual lumps.",
-        "Keep nails at a suitable length and check the paws regularly.",
-        "Check the ears and eyes during routine grooming.",
-        "Brush the teeth regularly and arrange veterinary dental care as needed.",
-        "A shorter pet trim can reduce coat maintenance, although it changes the breed's characteristic appearance.",
+        "Check skin, ears, eyes, and paws during routine brushing.",
+        "Keep nails trimmed and brush teeth regularly.",
+        "A practical puppy or pet trim reduces daily combing while altering the traditional long silhouette.",
       ],
     },
+
     training: {
       difficulty:
-        "Moderate. The breed is alert and capable of learning, but its terrier independence can make consistent, engaging training important.",
+        "Moderate — bright and eager to engage, though terrier independence benefits from upbeat consistency.",
       tips: [
-        "Use reward-based methods and short, interesting sessions.",
-        "Teach recall in a secure, low-distraction area before practising around distractions.",
-        "Reward calm behaviour to help manage alert barking.",
-        "Introduce grooming, tooth brushing, nail care, and gentle handling gradually.",
-        "Teach loose-leash walking and reinforce attention around moving animals.",
-        "Keep training consistent across household members.",
+        "Keep sessions short, varied, and reward-based.",
+        "Teach a calm 'quiet' cue early to manage alert barking.",
+        "Practise recall in secure spaces before trusting off-leash cues around small animals.",
       ],
       socialization:
-        "Introduce the dog gradually and positively to people, calm dogs, everyday sounds, surfaces, travel, and handling. Continue socialization as the dog matures, and avoid forcing interactions that appear frightening or overwhelming.",
+        "Provide gradual, positive exposure to varied people, calm dogs, grooming handling, and everyday noises from puppyhood.",
     },
+
     livingEnvironment: {
       apartmentSuitable: true,
       houseWithYardSuitable: true,
       climates: [
-        "Can live in a range of climates when given appropriate shelter and care.",
-        "In hot weather, provide shade, water, ventilation, and cooler times for exercise.",
-        "In cold or wet weather, monitor comfort and dry the coat when needed.",
+        "Adapts well to most climates indoors with appropriate shelter.",
+        "Provide shade, fresh water, and cooler walking hours in hot weather.",
+        "Dry the fine single coat thoroughly after rain or cold, damp outings.",
       ],
       aloneTimeTolerance:
-        "Individual tolerance varies. Build up time alone gradually and provide appropriate enrichment. Long periods without interaction or activity may contribute to boredom or barking.",
+        "Moderate when conditioned gradually — prefers regular company and enrichment, as prolonged boredom can trigger barking.",
     },
   },
+
   nutrition: {
     dietType:
-      "A complete and balanced commercial or veterinarian-formulated diet appropriate to the dog's life stage, body condition, and health.",
+      "A complete and balanced commercial diet formulated for small-breed dogs according to life stage and body condition.",
+
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
+
     guidelines:
-      "Use the food's feeding guide as a starting point and adjust portions according to body condition, activity, age, and veterinary advice. Keep fresh water available. Account for treats as part of the overall daily intake.",
+      "Measure daily portions by body condition score rather than guesswork, keeping treats modest and fresh water available at all times.",
+
     considerations: [
-      "Choose a diet appropriate for the dog's life stage.",
-      "Monitor body condition and adjust portions when needed.",
-      "Avoid allowing treats to displace a substantial share of a balanced diet.",
-      "Make dietary changes gradually unless a veterinarian advises otherwise.",
-      "Ask a veterinarian for individual guidance if the dog has a diagnosed health condition or persistent digestive signs.",
+      "Small-breed formulas offer appropriately sized kibble and calorie density.",
+      "Avoid overfeeding, as excess weight strains knees and joints.",
+      "Introduce food transitions gradually and consult a veterinarian for persistent digestive signs.",
     ],
+
     note:
-      "No single portion size or meal frequency is suitable for every Australian Silky Terrier. Individual needs depend on age, activity, food energy density, and health.",
+      "No universal meal frequency or gram ration applies to every Australian Silky Terrier; tailor portions with veterinary guidance.",
   },
+
   health: {
     overview:
-      "Australian Silky Terriers should receive routine preventive veterinary care throughout life. Breed profiles report some concerns involving the knees and eyes, but such reports do not mean that every dog will develop these conditions or establish their prevalence. Ask breeders about the health of related dogs and discuss suitable screening with a veterinarian.",
+      "Australian Silky Terriers are generally long-lived companions, though breed profiles note concerns involving the kneecaps, hip joints, eyes, and teeth. These represent potential risks to monitor rather than inevitable conditions, so routine veterinary exams and responsible breeder health checks are essential.",
+
     commonConditions: [
-      "Patellar luxation, a condition in which the kneecap moves out of its normal position.",
-      "Eye disorders, including conditions for which veterinary eye assessment may be appropriate.",
-      "Legg-Calvé-Perthes disease, a hip condition reported among possible concerns in small breeds.",
-      "Juvenile cataracts, reported as a possible eye concern in breed information.",
-      "Dental and periodontal disease, which can affect dogs of any breed and deserves routine preventive attention.",
+      "Patellar luxation — slipping of the kneecap reported as a concern in small terriers.",
+      "Legg-Calvé-Perthes disease — a developmental hip-joint disorder noted in toy breeds.",
+      "Eye disorders including juvenile cataracts — monitored through veterinary eye exams.",
+      "Dental and periodontal disease — common in small breeds without regular oral care.",
     ],
+
     preventiveCare: [
-      "Arrange routine veterinary examinations and follow local advice for vaccinations and parasite prevention.",
-      "Discuss patellar and eye screening with a responsible breeder and veterinarian.",
-      "Maintain a healthy body condition through appropriate feeding and activity.",
-      "Brush the teeth regularly and seek veterinary advice for persistent bad breath, oral pain, or difficulty eating.",
-      "Seek veterinary assessment for repeated skipping, limping, eye cloudiness, vision changes, or persistent discomfort.",
+      "Schedule routine veterinary wellness exams, vaccinations, and parasite control.",
+      "Ask breeders about parental patella and eye health history.",
+      "Maintain lean body weight and seek veterinary care promptly for skipping gaits, limping, or eye cloudiness.",
     ],
+
     recommendedScreenings: [
-      "Discuss patellar evaluation with the veterinarian or breeder.",
-      "Ask whether a formal eye examination is appropriate for the individual dog and its breeding background.",
-      "Request documented health information about the puppy's parents and close relatives.",
+      "Veterinary patellar luxation evaluation",
+      "Periodic veterinary eye examination",
+      "Review of parental and close-relative health records",
     ],
+
     dentalCare:
-      "Small dogs can develop plaque and periodontal disease. Regular tooth brushing with dog-specific toothpaste and veterinary dental checks can help maintain oral health.",
+      "Brush teeth several times a week with canine toothpaste and arrange periodic professional veterinary dental cleanings.",
+
     earCare:
-      "Check the ears regularly for redness, odour, discharge, or persistent scratching. Ask a veterinarian for advice if signs of irritation or infection appear.",
+      "Inspect the small upright ears regularly for wax, redness, or odour, seeking veterinary advice if irritation appears.",
+
     skinCare:
-      "Inspect the skin during brushing, especially in areas where the coat tangles or equipment rubs. Seek veterinary advice for persistent itching, redness, sores, or hair loss.",
+      "Check the skin beneath the parted coat during brushing for tangles, harness rubbing, redness, or itching.",
   },
+
   suitability: {
     firstTimeOwners: true,
     familiesWithChildren: true,
     seniorOwners: true,
     activeOwners: true,
     apartmentLiving: true,
+
     idealFor: [
-      "Households looking for a small but lively companion",
-      "Owners willing to provide frequent coat care",
-      "People who enjoy short training sessions, play, and daily walks",
-      "Apartment or house residents who can provide engagement and manage barking",
-      "Families prepared to supervise children and teach gentle handling",
+      "Apartment or house dwellers seeking a compact, lively companion",
+      "Owners willing to commit to frequent coat brushing or routine grooming trims",
+      "Families with older or gently supervised children and active seniors",
     ],
+
     notIdealFor: [
-      "Households unable to maintain the coat or arrange suitable grooming",
-      "Owners expecting a dog that needs little interaction or training",
-      "Homes where a small dog would be left unsupervised with rough-playing children or much larger dogs",
-      "Households unable to manage chasing behaviour around small animals",
+      "Homes unwilling to maintain a fine, tangle-prone coat",
+      "Households with unsupervised toddlers or rough-playing large dogs",
+      "Owners expecting a completely silent dog or effortless off-leash reliability around small pets",
     ],
   },
+
   funFacts: [
-    "The breed was developed in Australia.",
-    "The breed has also been known historically as the Sydney Silky.",
-    "The adult coat is characteristically blue and tan.",
-    "The breed's elegant coat coexists with an active terrier temperament.",
-    "The breed standard emphasises free movement and a coat that does not obstruct the dog's action.",
+    "The Australian Silky Terrier was developed in Australia and was known early on as the Sydney Silky.",
+    "Puppies are born black and tan, gradually developing their signature blue-and-tan adult coat by around 18 months of age.",
+    "Though grouped with toy breeds, it retains the alert confidence and rodent-hunting spirit of a true terrier.",
+    "Despite its glamorous silky coat, the breed is built for free, unobstructed movement rather than floor-length dragging hair.",
   ],
+
   faq: [
     {
-      question: "Is the Australian Silky Terrier suitable for apartment living?",
+      question: "Is the Australian Silky Terrier suited to apartment living?",
       answer:
-        "It can adapt to apartment life when its exercise, training, grooming, and companionship needs are met. Teaching a reliable quiet cue and rewarding calm behaviour can help manage alert barking.",
+        "Yes—its compact size and moderate exercise needs fit apartment life well when paired with daily walks, play, and gentle quiet-cue training.",
     },
     {
       question: "How much grooming does an Australian Silky Terrier need?",
       answer:
-        "A long coat needs frequent brushing and combing, often daily, to prevent tangles and matting. The amount of work depends on coat length and the dog's routine.",
+        "A full-length coat requires frequent—often daily—brushing and combing to stay tangle-free, though a shorter pet trim simplifies upkeep.",
     },
     {
-      question: "What is the Australian Silky Terrier's recognised height?",
+      question: "How tall and heavy is an Australian Silky Terrier?",
       answer:
-        "The breed standard gives a height of 23–26 cm for dogs. It says bitches can be slightly less but does not specify a separate numeric female range.",
+        "Males typically stand 23–26 cm at the withers (with females slightly smaller), and adults generally weigh around 3.5–5 kg.",
     },
     {
       question: "What is the breed's expected lifespan?",
       answer:
-        "A breed profile gives a broad lifespan range of 10–15 years. This is a general guide rather than a guarantee for an individual dog.",
+        "Australian Silky Terriers typically live about 10–15 years with attentive veterinary and dental care.",
     },
     {
-      question: "Does the Australian Silky Terrier shed?",
+      question: "Do Australian Silky Terriers shed heavily?",
       answer:
-        "It is generally described as a relatively low shedder, but the long coat still needs regular grooming to prevent tangles and maintain its condition.",
+        "No—they are generally low shedders, though their fine single coat still needs regular brushing to prevent mats.",
     },
     {
-      question: "Is the Australian Silky Terrier good with children?",
+      question: "Are Australian Silky Terriers good with children?",
       answer:
-        "It can be a family companion, but children should be taught gentle handling. Supervise interactions, particularly with young children, because a small dog can be injured by rough play or accidental falls.",
+        "They can be affectionate family companions when children are taught gentle handling and interactions are supervised to protect their small frame.",
     },
     {
-      question: "Which health concerns should owners discuss with a veterinarian?",
+      question: "Which health issues should owners watch for?",
       answer:
-        "Reported concerns include patellar luxation and eye disorders. Ask a veterinarian or responsible breeder about suitable screening and seek advice if you notice limping, repeated skipping, or changes in the eyes or vision.",
+        "Watch for skipping or limping (which can signal patellar luxation or hip issues), eye cloudiness, and dental tartar buildup, scheduling regular veterinary checkups.",
     },
   ],
+
   references: [
     "fci-australian-silky-terrier-standard-236",
     "dogs-australia-australian-silky-terrier-standard",
@@ -285,13 +305,15 @@ export const australian_silky_terrier: Breed = {
     "dogs-victoria-australian-silky-terrier-profile",
     "canadian-kennel-club-silky-terrier-profile",
     "commons-australian-silky-terrier-jenna-timonen",
+    "the-dog-api",
   ],
+
   evidence: {
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No breed-specific scientific name is recorded; a generic domestic-dog taxonomic label is not needed for this catalog entry.",
+      note: "No separate scientific binomial is assigned beyond domestic dog (Canis lupus familiaris).",
     },
     alternateNames: {
       reliability: "reliable_source",
@@ -299,16 +321,21 @@ export const australian_silky_terrier: Breed = {
         {
           id: "canadian-kennel-club-silky-terrier-profile",
           role: "verified",
-          locator: "Breed profile and historical naming",
+          locator: "Breed profile and historical Sydney Silky name",
         },
         {
           id: "dogs-australia-australian-silky-terrier-standard",
           role: "cited",
           locator: "Australian Silky Terrier breed standard",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names (Sydney Silky)",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Alternate names are limited to names supported by the consulted breed references.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     group: {
       reliability: "official_standard",
@@ -316,11 +343,11 @@ export const australian_silky_terrier: Breed = {
         {
           id: "fci-australian-silky-terrier-standard-236",
           role: "verified",
-          locator: "FCI classification: Group 3, Section 4",
+          locator: "Classification — Group 3, Section 4",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "FCI classification is recorded as the primary group.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "origin.country": {
       reliability: "official_standard",
@@ -328,17 +355,22 @@ export const australian_silky_terrier: Breed = {
         {
           id: "fci-australian-silky-terrier-standard-236",
           role: "verified",
-          locator: "Standard heading: country of origin",
+          locator: "Country of origin: Australia",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Australia",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Country of origin stated in the official breed standard.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "origin.region": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No single region is asserted as the definitive place of origin.",
+      note: "No single official region is asserted as the exclusive origin.",
     },
     "overview.summary": {
       reliability: "reliable_source",
@@ -349,8 +381,8 @@ export const australian_silky_terrier: Breed = {
           locator: "General appearance and behaviour/temperament",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Original summary based on the standard's description of build, coat, and temperament.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "overview.description": {
       reliability: "official_standard",
@@ -358,16 +390,21 @@ export const australian_silky_terrier: Breed = {
         {
           id: "fci-australian-silky-terrier-standard-236",
           role: "verified",
-          locator: "General appearance, head, ears, coat, colour, and movement",
+          locator: "General appearance, coat, colour, and movement",
         },
         {
           id: "royal-kennel-club-australian-silky-terrier-standard",
           role: "cited",
           locator: "General appearance, coat, colour, and size",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Paraphrased description of standard characteristics.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "overview.history": {
       reliability: "reliable_source",
@@ -380,11 +417,16 @@ export const australian_silky_terrier: Breed = {
         {
           id: "canadian-kennel-club-silky-terrier-profile",
           role: "cited",
-          locator: "Origin and historical breed naming",
+          locator: "Origin and Sydney Silky name",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.history",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Historical account paraphrased from breed references.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "overview.originalPurpose": {
       reliability: "official_standard",
@@ -392,11 +434,11 @@ export const australian_silky_terrier: Breed = {
         {
           id: "fci-australian-silky-terrier-standard-236",
           role: "verified",
-          locator: "Utilization and general appearance",
+          locator: "Utilization and rodent-hunting heritage",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The standard identifies the breed as a toy terrier/companion and describes its original rodent-hunting function.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "overview.currentRoles": {
       reliability: "general_guidance",
@@ -404,11 +446,11 @@ export const australian_silky_terrier: Breed = {
         {
           id: "royal-kennel-club-australian-silky-terrier-standard",
           role: "cited",
-          locator: "Breed standard and characteristics",
+          locator: "Breed characteristics",
         },
       ],
       verifiedOn: null,
-      note: "Current roles describe plausible companion and activity uses, not formal working qualifications.",
+      note: "Plausible companion and activity roles.",
     },
     "physical.sizeCategory": {
       reliability: "estimate",
@@ -420,7 +462,7 @@ export const australian_silky_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Small is a catalog category, not a formal numeric standard.",
+      note: "Broad catalog size label.",
     },
     "physical.height": {
       reliability: "official_standard",
@@ -428,22 +470,38 @@ export const australian_silky_terrier: Breed = {
         {
           id: "fci-australian-silky-terrier-standard-236",
           role: "verified",
-          locator: "Height at the withers",
+          locator: "Height at withers — males 23–26 cm; females slightly less",
         },
         {
           id: "dogs-australia-australian-silky-terrier-standard",
           role: "cited",
-          locator: "Sizes: height",
+          locator: "Sizes",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: 23–25 cm",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The standard gives 23–26 cm for dogs and says bitches can be slightly less. No numeric female range is inferred.",
+      verifiedOn: "2026-11-12",
+      note: "Official standard specifies 23–26 cm for males without a separate numeric female range; The Dog API lists 23–25 cm.",
     },
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "The consulted official standards say weight should be proportionate to height but do not provide a numeric weight range.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: 3.5–5 kg",
+        },
+        {
+          id: "fci-australian-silky-terrier-standard-236",
+          role: "cited",
+          locator: "Weight in proportion to height",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: "Official standards state weight proportionate to height without a numeric range; metric range is sourced from The Dog API.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -451,11 +509,11 @@ export const australian_silky_terrier: Breed = {
         {
           id: "dogs-victoria-australian-silky-terrier-profile",
           role: "verified",
-          locator: "Average life span",
+          locator: "Average life span: 10–15 years",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The 10–15 year range is the breed profile's stated estimate, not a guarantee.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.coatType": {
       reliability: "official_standard",
@@ -463,11 +521,11 @@ export const australian_silky_terrier: Breed = {
         {
           id: "fci-australian-silky-terrier-standard-236",
           role: "verified",
-          locator: "Coat",
+          locator: "Coat — flat, fine, glossy, silky",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Coat description paraphrased from the standard.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.coatLength": {
       reliability: "official_standard",
@@ -475,11 +533,11 @@ export const australian_silky_terrier: Breed = {
         {
           id: "royal-kennel-club-australian-silky-terrier-standard",
           role: "verified",
-          locator: "Coat length",
+          locator: "Coat length — 13–15 cm",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The published centimetre measurement is retained without adding a converted figure.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.coatColors": {
       reliability: "official_standard",
@@ -487,7 +545,7 @@ export const australian_silky_terrier: Breed = {
         {
           id: "fci-australian-silky-terrier-standard-236",
           role: "verified",
-          locator: "Colour",
+          locator: "Colour — blue and tan",
         },
         {
           id: "dogs-australia-australian-silky-terrier-standard",
@@ -495,8 +553,8 @@ export const australian_silky_terrier: Breed = {
           locator: "Colour",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Adult blue-and-tan colour is standard-based. Colour terminology can differ slightly between registries.",
+      verifiedOn: "2026-11-12",
+      note: "Generic species-wide colours from The Dog API are excluded.",
     },
     "physical.sheddingLevel": {
       reliability: "estimate",
@@ -504,17 +562,17 @@ export const australian_silky_terrier: Breed = {
         {
           id: "royal-kennel-club-australian-silky-terrier-standard",
           role: "cited",
-          locator: "Coat description",
+          locator: "Single silky coat description",
         },
       ],
       verifiedOn: null,
-      note: "Shedding level is a qualitative estimate rather than a formal breed-standard measurement.",
+      note: "Qualitative shedding estimate.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No sufficiently reliable breed-specific drooling rating was established.",
+      note: "No reliable breed-specific drooling measurement was established.",
     },
     "physical.distinctiveFeatures": {
       reliability: "official_standard",
@@ -522,11 +580,11 @@ export const australian_silky_terrier: Breed = {
         {
           id: "fci-australian-silky-terrier-standard-236",
           role: "verified",
-          locator: "General appearance, head, ears, coat, colour, and movement",
+          locator: "General Appearance, Head, Ears, Coat, Colour, Movement",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Features are paraphrased from the official standard.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "temperament.traits": {
       reliability: "official_standard",
@@ -541,9 +599,14 @@ export const australian_silky_terrier: Breed = {
           role: "cited",
           locator: "Characteristics and temperament",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "General breed tendencies are not guarantees about every individual dog.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -555,7 +618,7 @@ export const australian_silky_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Scores are editorial estimates for app comparison, not scientific measurements or official ratings.",
+      note: "Editorial 1–5 estimates for comparison.",
     },
     "care.exercise.level": {
       reliability: "general_guidance",
@@ -567,19 +630,19 @@ export const australian_silky_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Exercise guidance should be adapted to the individual dog.",
+      note: null,
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No single verified daily exercise-minute range was recorded for this breed.",
+      note: "No fixed daily exercise-minute target was established.",
     },
     "care.exercise.activities": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Activities are general enrichment suggestions suitable for many small, active dogs.",
+      note: "General enrichment suggestions for small active dogs.",
     },
     "care.grooming": {
       reliability: "general_guidance",
@@ -591,7 +654,7 @@ export const australian_silky_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Grooming frequency is practical care advice, not a mandatory standard requirement.",
+      note: null,
     },
     "care.training": {
       reliability: "general_guidance",
@@ -603,7 +666,7 @@ export const australian_silky_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Training recommendations are general welfare guidance.",
+      note: null,
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "reliable_source",
@@ -611,41 +674,41 @@ export const australian_silky_terrier: Breed = {
         {
           id: "canadian-kennel-club-silky-terrier-profile",
           role: "verified",
-          locator: "Temperament and activity level",
+          locator: "Temperament and apartment adaptability",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Apartment suitability depends on providing exercise, training, and interaction.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "care.livingEnvironment": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Environmental and alone-time advice is general dog-care guidance.",
+      note: "General environmental and alone-time guidance.",
     },
     nutrition: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Nutrition guidance is general advice and is not a breed-specific veterinary prescription.",
+      note: "General canine nutrition guidance.",
     },
     "nutrition.feedingFrequency.puppy": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No fixed puppy feeding frequency is asserted; it should be tailored to age, diet, and veterinary guidance.",
+      note: "No fixed puppy meal frequency is asserted.",
     },
     "nutrition.feedingFrequency.adult": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No fixed adult feeding frequency is asserted; individual needs vary.",
+      note: "No fixed adult meal frequency is asserted.",
     },
     "nutrition.feedingFrequency.senior": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No fixed senior feeding frequency is asserted; individual needs vary.",
+      note: "No fixed senior meal frequency is asserted.",
     },
     "health.overview": {
       reliability: "general_guidance",
@@ -657,7 +720,7 @@ export const australian_silky_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Health advice is informational and cannot diagnose an individual dog.",
+      note: null,
     },
     "health.commonConditions": {
       reliability: "reliable_source",
@@ -668,8 +731,8 @@ export const australian_silky_terrier: Breed = {
           locator: "Reported health concerns",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "These are reported possible concerns, not prevalence estimates or predictions for an individual dog.",
+      verifiedOn: "2026-11-12",
+      note: "Reported concerns rather than population prevalence estimates.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
@@ -681,7 +744,7 @@ export const australian_silky_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Preventive-care recommendations are general guidance; individual screening should be discussed with a veterinarian.",
+      note: null,
     },
     "health.recommendedScreenings": {
       reliability: "general_guidance",
@@ -693,25 +756,25 @@ export const australian_silky_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Suggested screening discussions should be tailored to the dog's family history and veterinary advice.",
+      note: null,
     },
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General preventive dental advice.",
+      note: "General preventive dental care guidance.",
     },
     "health.earCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General ear-care advice.",
+      note: "General ear-care guidance.",
     },
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General skin-care advice.",
+      note: "General skin-care guidance.",
     },
     suitability: {
       reliability: "estimate",
@@ -723,7 +786,7 @@ export const australian_silky_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Suitability flags are practical editorial estimates, not guarantees for every dog or household.",
+      note: "Editorial suitability estimates.",
     },
     funFacts: {
       reliability: "official_standard",
@@ -731,7 +794,7 @@ export const australian_silky_terrier: Breed = {
         {
           id: "fci-australian-silky-terrier-standard-236",
           role: "verified",
-          locator: "Origin, classification, utilization, coat, and colour",
+          locator: "Origin, classification, coat, and colour",
         },
         {
           id: "dogs-australia-australian-silky-terrier-standard",
@@ -739,8 +802,8 @@ export const australian_silky_terrier: Breed = {
           locator: "Breed history and colour",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Facts are paraphrased from breed standards and history references.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     faq: {
       reliability: "general_guidance",
@@ -757,8 +820,9 @@ export const australian_silky_terrier: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "FAQ answers combine standard-backed facts with clearly generalised care advice.",
+      note: "Combines standard-backed facts with general care guidance.",
     },
   },
-  updatedOn: "2026-10-26",
+
+  updatedOn: "2026-11-12",
 };

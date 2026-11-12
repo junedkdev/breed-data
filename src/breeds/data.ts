@@ -176,6 +176,12 @@ import { caucasian_shepherd_dog } from "./caucasian_shepherd_dog";
 import { english_springer_spaniel } from "./english_springer_spaniel";
 import { alaskan_malamute } from "./alaskan_malamute";
 import { landseer } from "./landseer";
+import { welsh_corgi_cardigan } from "./welsh_corgi_cardigan";
+import { carpathian_shepherd_dog } from "./carpathian_shepherd_dog";
+import { kerry_blue_terrier } from "./kerry_blue_terrier";
+import { basset_griffon_vendeen_grand } from "./basset_griffon_vendeen_grand";
+import { irish_water_spaniel } from "./irish_water_spaniel";
+import { belgian_shepherd_dog_laekenois } from "./belgian_shepherd_dog_laekenois";
 
 
 export const breedData: readonly Breed[] = [
@@ -351,4 +357,10 @@ export const breedData: readonly Breed[] = [
   english_springer_spaniel,
   alaskan_malamute,
   landseer,
+  welsh_corgi_cardigan,
+  carpathian_shepherd_dog,
+  kerry_blue_terrier,
+  basset_griffon_vendeen_grand,
+  irish_water_spaniel,
+  belgian_shepherd_dog_laekenois,
 ];

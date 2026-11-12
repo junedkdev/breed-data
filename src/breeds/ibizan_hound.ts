@@ -4,19 +4,25 @@ export const ibizan_hound: Breed = {
   slug: "ibizan-hound",
   name: "Ibizan Hound",
   scientificName: null,
+
   alternateNames: [
     "Podenco Ibicenco",
     "Ibizan Podenco",
     "Podenco d'Ibiza",
     "Ca Eivissec",
     "Ibizan Warren Hound",
+    "Beezer",
   ],
+
   group:
-    "FCI Group 5 — Spitz and primitive types; Section 7 — Primitive type hunting dogs; also classified in the Hound group by some kennel clubs",
+    "Spitz and primitive types; Primitive type hunting dogs (also placed in Hound groupings)",
+
   origin: {
     country: "Spain",
-    region: "Balearic Islands, especially Ibiza and neighbouring islands including Mallorca, Menorca and Formentera",
+    region:
+      "Balearic Islands, particularly Ibiza, Formentera, Mallorca, and Menorca",
   },
+
   images: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Ibizan_Hound.jpg",
@@ -33,68 +39,87 @@ export const ibizan_hound: Breed = {
       attribution:
         "Photo by sean mason, originally posted to Flickr and shared via Wikimedia Commons, licensed under CC BY 2.0. https://creativecommons.org/licenses/by/2.0/. Changes, if any, must be indicated.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-12",
     },
   ],
+
   overview: {
     summary:
-      "The Ibizan Hound is an agile, long-legged rabbit hunter from Spain's Balearic Islands, recognised by its tall mobile ears, lean outline and remarkable jumping ability. It is an athletic, alert and independent dog that needs daily activity, secure exercise areas and thoughtful recall training.",
+      "A swift, deer-like rabbit hunter from Spain's Balearic Islands, instantly recognized by its tall, mobile ears, lean athletic frame, and remarkable standing-jump agility.",
+
     description:
-      "Elegant but athletic, the Ibizan Hound has a narrow head, amber-toned eyes, long legs and large erect ears that move expressively when the dog is alert. Its body is slightly longer than it is tall, with lean muscle and a deep chest. The breed occurs in smooth and wire-haired varieties; both have a hard-textured coat and may be white, red or a combination of those colours. Bred to hunt rabbits, it combines speed, agility, stamina and a strong chase instinct. Many are affectionate with their own people, while some may be reserved with unfamiliar people. Individual behaviour varies, and a high prey drive makes safe containment and carefully built recall important.",
+      "Sleek yet muscular, the Ibizan Hound pairs a finely chiseled head and clear amber eyes with long limbs and large, stiffly upright ears that swivel toward every sound. Its slightly rectangular frame carries a deep chest and comes in two hard-textured coat varieties—smooth or wire-haired—in shades of white, red, or both combined. Affectionate and playful with its household yet often politely aloof with newcomers, this agile hunter combines sight, scent, and hearing to pursue fast-moving quarry, making high, secure fencing and dedicated recall training essential.",
+
     history:
-      "The Ibizan Hound developed in Spain's Balearic Islands and is known locally by names including Podenco Ibicenco and Ca Eivissec. It has a long association with rabbit hunting, often working over rocky terrain and in cover. Its breed type is traditionally linked with the islands of Ibiza, Mallorca, Menorca and Formentera. Although its appearance is sometimes compared with ancient Mediterranean hunting dogs, direct ancestry claims beyond the documented breed history should be treated cautiously.",
+      "Shaped over generations in Spain's Balearic Islands—especially Ibiza, Formentera, Mallorca, and Menorca—the breed is known locally as Podenco Ibicenco or Ca Eivissec. Island hunters relied on its speed, endurance, and extraordinary leaping ability to flush and catch rabbits across rocky, scrub-covered hillsides. While its silhouette echoes ancient Mediterranean hunting dogs, documented breed lineage centers on its sustained island development.",
+
     originalPurpose:
-      "Hunting rabbits and other quarry, using agility, scent and hearing to locate and pursue game, sometimes in coordinated groups.",
+      "Hunting rabbits and small game over rugged island terrain using sight, scent, and acute hearing.",
+
     currentRoles: [
-      "Rabbit and small-game hunting where legally permitted",
-      "Lure coursing and other suitable sighthound activities",
-      "Agility, tracking and reward-based training activities",
-      "Active companion in a home that can safely manage its speed and prey drive",
+      "Rabbit and small-game hunting where permitted",
+      "Lure coursing, racing, agility, and tracking competitor",
+      "Active family companion in securely fenced homes",
     ],
   },
+
   physical: {
     sizeCategory: "Large",
+
     height: {
       unit: "in",
       male: { min: 23, max: 27 },
       female: { min: 22, max: 26 },
     },
+
     weight: {
       unit: "lb",
       male: { min: 46, max: 55 },
       female: { min: 40, max: 50 },
     },
-    lifespanYears: { min: 11, max: 14 },
+
+    lifespanYears: {
+      min: 11,
+      max: 14,
+    },
+
     coatType:
-      "Hard-textured coat in two varieties: smooth and wire-haired. The smooth coat is short and close; the wire coat is rougher and may include a moustache.",
+      "Hard-textured coat occurring in two varieties: short, close-lying smooth or rougher wire-haired with facial furnishings.",
+
     coatLength:
-      "The smooth coat is shortest on the head and ears and longer at the back of the thighs and beneath the tail. The wire coat can be 1–3 inches long on all or part of the body, depending on the individual and registry standard.",
+      "Smooth coats lie shortest on the head and ears and lengthen slightly behind the thighs and beneath the tail; wire coats measure roughly 1–3 inches.",
+
     coatColors: [
       "White",
-      "Red, from light yellowish-red often called lion to deeper red",
+      "Red, ranging from pale lion-gold to deep chestnut-red",
       "White and red in combination",
     ],
+
     sheddingLevel:
-      "Sheds; the short coat is easy to maintain, while the wire-haired variety may need extra brushing to remove loose hair and debris.",
+      "Low to moderate — smooth coats need minimal upkeep, while wire coats benefit from extra brushing to clear loose hair and burrs.",
+
     droolingLevel: null,
+
     distinctiveFeatures: [
-      "Very large, naturally erect and highly mobile ears",
-      "Long, narrow head and clear amber-to-caramel eyes",
-      "Lean, fine-boned, athletic body with a deep chest",
-      "Long legs and exceptional agility and jumping ability",
-      "Smooth and wire-haired coat varieties",
-      "Light, springy movement with a brief suspended phase at the trot",
+      "Very large, thin, upright ears that pivot expressively when alert",
+      "Long, narrow skull with clear amber-to-caramel eyes",
+      "Lean, fine-boned, deep-chested build engineered for speed",
+      "Extraordinary vertical jumping ability from a standing start",
+      "Smooth and wire-haired coat varieties in white, red, or white-and-red",
+      "Light, springy, suspended trot",
     ],
   },
+
   temperament: {
     traits: [
-      "Alert, intelligent and observant",
-      "Often affectionate and loyal with familiar people",
-      "Independent-minded and capable of making decisions while hunting",
-      "Athletic, fast and persistent when pursuing moving quarry",
-      "May be reserved with strangers without being nervous or aggressive",
-      "Often responds well to patient, reward-based training",
+      "Alert, perceptive, and quick to react",
+      "Warm, playful, and loyal with family members",
+      "Independent-minded in the field",
+      "Intensely driven to chase fast-moving animals",
+      "Politely reserved with unfamiliar people without shyness",
+      "Responsive to patient, reward-based training",
     ],
+
     scores: {
       affection: 4,
       withChildren: 3,
@@ -107,172 +132,183 @@ export const ibizan_hound: Breed = {
       energy: 5,
     },
   },
+
   care: {
     exercise: {
       level:
-        "Very high. This is a fast, athletic hunting breed that needs substantial daily exercise and opportunities for safe running. The Royal Kennel Club recommends more than two hours per day.",
+        "Very high — a swift, athletic hunting breed needing over two hours of daily exercise and safe running.",
       minutesPerDay: { min: 120, max: null },
       activities: [
-        "Long walks and hikes suited to the dog's age and conditioning",
-        "Securely fenced running and play areas",
-        "Lure coursing or other appropriate sighthound sports",
-        "Scent-based search games and tracking",
-        "Reward-based obedience and recall practice",
-        "Interactive enrichment that engages the dog's attention without encouraging unsafe chasing",
+        "Extended brisk walks and trail hikes suited to fitness",
+        "Free running inside tall, securely enclosed areas",
+        "Lure coursing, agility, or tracking sports",
+        "Structured nose-work games and reward-based recall drills",
       ],
     },
+
     grooming: {
-      level: "Low to moderate; needs differ between smooth and wire coats.",
+      level: "Low to moderate depending on coat variety",
       brushing:
-        "Brush the smooth coat about weekly with a soft brush or grooming mitt. Brush the wire coat more thoroughly as needed, checking for tangles, burrs and debris without trimming the coat unnecessarily.",
+        "Brush smooth coats weekly with a soft bristle brush or rubber mitt; comb wire coats thoroughly as needed to remove tangles and field debris without unnecessary clipping.",
       bathing:
-        "Bathe when needed with a mild dog shampoo and dry thoroughly. Avoid over-bathing, which may dry or irritate the skin.",
+        "Bathe only occasionally with a mild canine shampoo and dry thoroughly to prevent skin dryness.",
       notes: [
-        "Check the large upright ears weekly for wax, debris, redness or odour.",
-        "Inspect skin and paws after outdoor exercise.",
-        "Trim nails as needed and maintain routine dental care.",
-        "The two coat varieties are traditionally shown untrimmed; seek experienced grooming advice if the wire coat becomes tangled.",
+        "Check the large upright ears weekly for wax, debris, redness, or odour.",
+        "Inspect paws and thin skin after runs through brush or rocky ground.",
+        "Keep nails trimmed and maintain routine dental brushing.",
       ],
     },
+
     training: {
       difficulty:
-        "Moderate to challenging for off-leash reliability because hunting motivation and independence can compete with handler cues. The breed can learn well with consistent, reward-based methods.",
+        "Moderate — quick to learn with upbeat, reward-based methods, though off-leash recall competes with strong prey drive.",
       tips: [
-        "Start recall training early and practise first in low-distraction, enclosed spaces.",
-        "Use a secure fenced area for running; do not assume recall will override the urge to chase wildlife.",
-        "Reward attention, check-ins and calm behaviour around moving animals at a safe distance.",
-        "Keep sessions varied and positive, with opportunities for safe running and scent work.",
-        "Socialise gradually and positively with people, dogs and new environments.",
+        "Start recall games early inside low-distraction, fenced spaces.",
+        "Rely on leashes or tall secure fencing outdoors rather than assuming recall will override wildlife instincts.",
+        "Keep training sessions varied, brief, and positive.",
       ],
       socialization:
-        "Provide early, ongoing positive exposure to a range of people, dogs, sounds and environments. Pair new experiences with rewards and allow the dog space to observe rather than forcing interactions.",
+        "Offer calm, positive introductions to unfamiliar people, dogs, and novel sights from puppyhood, letting the dog observe at its own pace.",
     },
+
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: true,
       climates: [
-        "Provide shade, ventilation and fresh water during hot weather.",
-        "Avoid strenuous exercise in peak heat and adjust activity to the individual dog.",
-        "In cold or wet weather, monitor comfort, particularly for lean dogs with a short coat.",
-        "A securely fenced yard is useful, but does not replace walks, training and enrichment.",
+        "Provide shade, ventilation, and fresh water in warm weather, avoiding peak midday heat for hard runs.",
+        "Use a well-fitted coat in cold or damp weather if a lean, short-coated dog shows discomfort.",
+        "Fencing should be tall and secure due to the breed's remarkable standing-jump capability.",
       ],
       aloneTimeTolerance:
-        "A reliable breed-wide duration is not established. Build alone time gradually and provide exercise and enrichment; avoid routinely leaving the dog alone for long periods.",
+        "Moderate when conditioned gradually — pair departures with prior exercise and enrichment, avoiding routine long-day isolation.",
     },
   },
+
   nutrition: {
     dietType:
-      "Complete and balanced dog food appropriate to the dog's life stage, body condition, activity level and health.",
+      "A complete and balanced commercial diet suited to a large, athletic dog's life stage and activity level.",
+
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
+
     guidelines:
-      "Use the food manufacturer's guidance as a starting point and adjust portions according to body condition, activity and veterinary advice. Keep fresh water available and review the diet as the dog grows older or its workload changes.",
+      "Measure daily meals against body condition score rather than relying on a naturally lean outline alone, keeping fresh water accessible.",
+
     considerations: [
-      "A lean outline is characteristic, but the dog should not be underweight; assess body condition rather than appearance alone.",
-      "Adjust food intake to exercise and body condition instead of assuming every dog has the same calorie requirement.",
-      "Discuss supplements, special diets and persistent digestive or skin symptoms with a veterinarian.",
-      "Avoid vigorous exercise around meals if your veterinarian advises this for the individual dog.",
+      "Adjust caloric intake to match seasonal running or coursing workloads.",
+      "Avoid vigorous exercise immediately around large meals if advised by a veterinarian for deep-chested dogs.",
+      "Consult a veterinarian for persistent digestive upset, skin irritation, or unexplained weight loss.",
     ],
+
     note:
-      "No universal breed-specific calorie target or feeding schedule is recorded; needs vary with age, workload, body condition and health.",
+      "No fixed calorie target or meal schedule applies to every Ibizan Hound; individual needs vary with age, fitness, and metabolism.",
   },
+
   health: {
     overview:
-      "The breed parent club identifies hip dysplasia, eye disorders, congenital deafness and autoimmune thyroiditis among the health concerns for which breeding-dog screening is recommended. Seizures and bloat are also discussed as concerns, but the available sources do not establish that every listed condition is common or inevitable in the breed. Screening results should be reviewed individually; completion of a health-screening programme is not a guarantee that a dog is free from disease.",
+      "Parent-club health programmes prioritize screening breeding stock for hip dysplasia, inherited eye disorders, congenital deafness, autoimmune thyroiditis, and cardiac conditions. Seizures and gastric dilatation-volvulus (bloat) are also noted as concerns, though published sources do not establish breed-wide prevalence rates for every condition.",
+
     commonConditions: [
-      "Hip dysplasia",
-      "Eye disorders",
-      "Congenital deafness",
-      "Autoimmune thyroiditis",
-      "Seizure disorders have been reported; causes vary and may not always be hereditary",
-      "Gastric dilatation-volvulus (bloat) is a serious general canine emergency; breed-specific prevalence is not established here",
+      "Hip dysplasia — monitored through radiographic hip evaluations.",
+      "Eye disorders — screened via regular veterinary ophthalmologist exams.",
+      "Congenital deafness — screened using BAER hearing testing.",
+      "Autoimmune thyroiditis — evaluated through specialized thyroid blood panels.",
+      "Seizure disorders — reported occasionally; causes may vary.",
+      "Gastric dilatation-volvulus (bloat) — an acute emergency risk in deep-chested breeds.",
     ],
+
     preventiveCare: [
-      "Ask the breeder for documented results of the health tests recommended by the relevant breed club.",
-      "Maintain regular veterinary examinations, vaccinations and parasite prevention.",
-      "Monitor hearing, vision, mobility, body condition and changes in behaviour.",
-      "Learn the warning signs of gastric dilatation-volvulus and seek emergency veterinary care if suspected.",
-      "Keep the dog lean and fit without abruptly increasing exercise intensity.",
+      "Request documented parental health-screening results before acquiring a puppy.",
+      "Maintain routine veterinary wellness exams, vaccinations, and parasite control.",
+      "Learn the early warning signs of bloat and seek emergency veterinary care immediately if suspected.",
     ],
+
     recommendedScreenings: [
-      "Hip evaluation using an accepted programme such as OFA or PennHIP",
-      "Eye examination by a qualified veterinary ophthalmologist",
+      "Hip dysplasia evaluation through an accepted orthopaedic programme",
+      "Annual veterinary ophthalmologist eye examination",
       "BAER hearing test for congenital deafness",
-      "Autoimmune thyroiditis evaluation through an approved laboratory",
-      "Cardiac evaluation as included in the current parent-club CHIC screening protocol",
+      "Autoimmune thyroiditis blood panel from an approved laboratory",
+      "Cardiac evaluation as included in current parent-club screening protocols",
     ],
+
     dentalCare:
-      "Brush teeth regularly with dog-specific toothpaste and arrange routine veterinary dental checks.",
+      "Brush teeth several times a week with dog-safe toothpaste and schedule routine veterinary oral checks.",
+
     earCare:
-      "Inspect the upright ears weekly for wax, dirt, redness, discharge or odour. Clean only with a dog-safe product when needed, and consult a veterinarian if irritation or infection is suspected.",
+      "Inspect the upright ears weekly for wax, dirt, redness, or discharge, cleaning gently only when needed with a canine ear cleanser.",
+
     skinCare:
-      "Check the skin and coat during grooming, especially after outdoor activity. Seek veterinary advice for persistent itching, redness, sores or hair loss.",
+      "Check thin skin and coat during weekly brushing for scrapes, sun sensitivity on pale areas, or persistent itching.",
   },
+
   suitability: {
     firstTimeOwners: null,
     familiesWithChildren: null,
     seniorOwners: null,
     activeOwners: true,
     apartmentLiving: null,
+
     idealFor: [
-      "Active owners who can provide substantial daily exercise and safe running opportunities",
-      "People interested in lure coursing, tracking, scent games or other structured activities",
-      "Handlers willing to train recall patiently and manage a strong prey drive",
-      "Homes with secure fencing and a plan for enrichment and companionship",
+      "Active owners ready to provide over two hours of daily exercise and safe running",
+      "Handlers interested in lure coursing, agility, tracking, or long hikes",
+      "Homes with tall, secure fencing and consistent, reward-based training",
     ],
+
     notIdealFor: [
-      "Households looking for a low-energy dog with minimal exercise needs",
-      "Owners who expect dependable off-leash behaviour around wildlife without extensive training",
-      "Homes without safe containment or secure opportunities for running",
-      "People unable to provide daily activity, training and companionship",
+      "Sedentary households seeking a low-exercise companion",
+      "Owners expecting reliable off-leash freedom in unfenced areas near wildlife",
+      "Homes lacking secure containment for a high-jumping sighthound",
     ],
   },
+
   funFacts: [
-    "The breed's Spanish name, Podenco Ibicenco, reflects its association with Ibiza.",
-    "The breed was developed to hunt rabbits and can use scent and hearing as well as sight to locate quarry.",
-    "Ibizan Hounds are known for their ability to jump from a standing start, so secure fencing matters.",
-    "Both smooth and wire-haired coats are recognised, and neither is universally preferred in the American standard.",
+    "In Spain's Balearic Islands, the breed is traditionally called Podenco Ibicenco or Ca Eivissec.",
+    "Unlike pure sighthounds, it hunts rabbits using acute hearing and scent alongside keen eyesight.",
+    "Ibizan Hounds are famous for clearing tall fences from a standing start with little or no running approach.",
+    "Both smooth and wire-haired coat varieties are recognized equally in show and field circles.",
   ],
+
   faq: [
     {
-      question: "What was the Ibizan Hound bred for?",
+      question: "What was the Ibizan Hound bred to do?",
       answer:
-        "It was developed in Spain's Balearic Islands to hunt rabbits and other quarry. The breed combines speed, agility and a strong instinct to pursue moving animals.",
+        "It was developed on Spain's Balearic Islands to hunt rabbits across rocky terrain using sight, scent, and hearing.",
     },
     {
       question: "How tall is an Ibizan Hound?",
       answer:
-        "The United Kennel Club standard lists males at 23–27 inches and females at 22–26 inches at the withers. Other registries may use slightly different ranges.",
+        "Males typically stand 23–27 inches at the withers and females 22–26 inches, though published ranges can vary slightly by region.",
     },
     {
       question: "How much does an Ibizan Hound weigh?",
       answer:
-        "The United Kennel Club standard lists a weight range of 46–55 pounds for males and 40–50 pounds for females. Individual healthy weight depends on build and body condition.",
+        "Adult males typically weigh 46–55 pounds and females 40–50 pounds, depending on individual build and body condition.",
     },
     {
       question: "How much exercise does an Ibizan Hound need?",
       answer:
-        "The breed needs substantial daily exercise and safe opportunities to run. The Royal Kennel Club recommends more than two hours per day, adjusted for the dog's age, health and fitness.",
+        "Adult Ibizan Hounds generally need more than two hours of daily exercise and safe running opportunities, adjusted for age, health, and fitness.",
     },
     {
-      question: "Does an Ibizan Hound need a lot of grooming?",
+      question: "Does an Ibizan Hound need much grooming?",
       answer:
-        "The smooth coat is relatively easy to maintain and usually needs weekly brushing. The wire-haired coat may need more attention to remove loose hair, burrs and debris.",
+        "Smooth coats usually need only weekly brushing, while wire-haired coats benefit from extra combing to clear loose hair and field debris.",
     },
     {
-      question: "Can an Ibizan Hound be trusted off leash?",
+      question: "Can an Ibizan Hound go off leash?",
       answer:
-        "Not automatically. The breed has a strong hunting and chasing instinct, so recall should be trained gradually and exercise should take place in secure areas unless the individual dog is reliably safe in that setting.",
+        "Its strong instinct to chase moving animals means off-leash running is safest inside tall, securely fenced enclosures.",
     },
     {
       question: "Which health tests should I ask a breeder about?",
       answer:
-        "Ask for results of hip evaluation, eye examination, BAER hearing testing and autoimmune thyroiditis evaluation. The current parent-club screening protocol also includes a cardiac evaluation. Review the results with a veterinarian rather than treating a screening certificate as a guarantee of future health.",
+        "Ask for documented hip, eye, BAER hearing, autoimmune thyroiditis, and cardiac evaluations, reviewing any results with your veterinarian.",
     },
   ],
+
   references: [
     "fci-podenco-ibicenco-standard-089",
     "united-kennel-club-ibizan-hound-standard",
@@ -281,7 +317,9 @@ export const ibizan_hound: Breed = {
     "ibizan-hound-club-us-health",
     "royal-kennel-club-ibizan-hound",
     "commons-ibizan-hound-sean-mason",
+    "the-dog-api",
   ],
+
   evidence: {
     alternateNames: {
       reliability: "official_standard",
@@ -289,22 +327,27 @@ export const ibizan_hound: Breed = {
         {
           id: "fci-podenco-ibicenco-standard-089",
           role: "verified",
-          locator: "Breed nomenclature and brief historical summary; Podenco Ibicenco / Ca Eivissec",
+          locator: "Breed nomenclature and brief historical summary — Podenco Ibicenco / Ca Eivissec",
         },
         {
           id: "royal-kennel-club-ibizan-hound",
           role: "verified",
-          locator: "Breed overview: Podenco Ibicenco",
+          locator: "Breed overview — Podenco Ibicenco",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names (Podenco Ibicenco, Beezer)",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Names are limited to terms found in kennel-club and breed references.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No breed-specific scientific name is recorded; this field is left null rather than asserting a taxonomic label.",
+      note: "No separate scientific binomial is assigned beyond domestic dog (Canis lupus familiaris).",
     },
     group: {
       reliability: "official_standard",
@@ -312,16 +355,21 @@ export const ibizan_hound: Breed = {
         {
           id: "fci-podenco-ibicenco-standard-089",
           role: "verified",
-          locator: "FCI classification: Group 5, Section 7, primitive type hunting dogs",
+          locator: "Classification — Group 5, Section 7, primitive type hunting dogs",
         },
         {
           id: "royal-kennel-club-ibizan-hound",
           role: "cited",
           locator: "Hound breed group",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Hound",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Group descriptions differ between registries; the FCI classification is stated first and the other grouping is noted.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     origin: {
       reliability: "official_standard",
@@ -329,11 +377,16 @@ export const ibizan_hound: Breed = {
         {
           id: "fci-podenco-ibicenco-standard-089",
           role: "verified",
-          locator: "Origin: Spain (Balearic Islands); brief historical summary",
+          locator: "Origin: Spain (Balearic Islands)",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Balearic Islands, Spain",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The region reflects the documented Balearic Islands origin.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     overview: {
       reliability: "reliable_source",
@@ -346,16 +399,21 @@ export const ibizan_hound: Breed = {
         {
           id: "ibizan-hound-club-us-akc-standard",
           role: "verified",
-          locator: "General appearance, movement and temperament",
+          locator: "General appearance, movement, and temperament",
         },
         {
           id: "royal-kennel-club-ibizan-hound",
           role: "verified",
-          locator: "About this breed and breed characteristics",
+          locator: "About this breed and characteristics",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Original summary of the breed's island origin, hunting role and physical type.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.sizeCategory": {
       reliability: "reliable_source",
@@ -363,11 +421,11 @@ export const ibizan_hound: Breed = {
         {
           id: "royal-kennel-club-ibizan-hound",
           role: "verified",
-          locator: "Breed characteristics: size listed as Large",
+          locator: "Breed characteristics — size listed as Large",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Broad size category follows the kennel-club profile.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.height": {
       reliability: "official_standard",
@@ -375,11 +433,16 @@ export const ibizan_hound: Breed = {
         {
           id: "united-kennel-club-ibizan-hound-standard",
           role: "verified",
-          locator: "Height & Weight: dogs 23–27 inches; bitches 22–26 inches",
+          locator: "Height & Weight — dogs 23–27 inches; bitches 22–26 inches",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: 60–70 cm (males), 57–66 cm (females)",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Values are copied in inches from the published UKC standard; no unit conversion was performed.",
+      verifiedOn: "2026-11-12",
+      note: "Published inches from the UKC standard are retained without unit conversion; The Dog API lists 60–70 cm (males) and 57–66 cm (females).",
     },
     "physical.weight": {
       reliability: "official_standard",
@@ -387,11 +450,16 @@ export const ibizan_hound: Breed = {
         {
           id: "united-kennel-club-ibizan-hound-standard",
           role: "verified",
-          locator: "Height & Weight: male range 46–55 pounds; female range 40–50 pounds",
+          locator: "Height & Weight — males 46–55 lb; females 40–50 lb",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric: 23–29 kg (males), 20–25 kg (females)",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Values are copied in pounds from the published UKC standard; no unit conversion was performed.",
+      verifiedOn: "2026-11-12",
+      note: "Published pounds from the UKC standard are retained without unit conversion; The Dog API lists 23–29 kg (males) and 20–25 kg (females).",
     },
     "physical.lifespanYears": {
       reliability: "estimate",
@@ -399,16 +467,21 @@ export const ibizan_hound: Breed = {
         {
           id: "american-kennel-club-ibizan-hound",
           role: "cited",
-          locator: "Breed profile: life expectancy",
+          locator: "Breed profile — life expectancy",
         },
         {
           id: "royal-kennel-club-ibizan-hound",
           role: "cited",
-          locator: "Breed characteristics: lifespan over 10 years",
+          locator: "Breed characteristics — lifespan over 10 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 11–14 years",
         },
       ],
       verifiedOn: null,
-      note: "A practical lifespan estimate based on breed-profile guidance, not a guarantee or a population study.",
+      note: "Published breed-profile lifespan estimate.",
     },
     "physical.coatType": {
       reliability: "official_standard",
@@ -416,16 +489,16 @@ export const ibizan_hound: Breed = {
         {
           id: "ibizan-hound-club-us-akc-standard",
           role: "verified",
-          locator: "Coat: smooth and wire-haired varieties, both hard in texture",
+          locator: "Coat — smooth and wire-haired varieties",
         },
         {
           id: "united-kennel-club-ibizan-hound-standard",
           role: "verified",
-          locator: "Coat: smooth and rough/long-haired varieties",
+          locator: "Coat — smooth and rough varieties",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Coat varieties are described without treating one as universally preferable.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.coatLength": {
       reliability: "official_standard",
@@ -433,11 +506,11 @@ export const ibizan_hound: Breed = {
         {
           id: "ibizan-hound-club-us-akc-standard",
           role: "verified",
-          locator: "Coat: smooth coat distribution and wire coat 1–3 inches",
+          locator: "Coat — smooth coat distribution and wire coat 1–3 inches",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The published wire-coat length is retained in inches.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.coatColors": {
       reliability: "official_standard",
@@ -445,7 +518,7 @@ export const ibizan_hound: Breed = {
         {
           id: "ibizan-hound-club-us-akc-standard",
           role: "verified",
-          locator: "Color: white or red, solid or in combination",
+          locator: "Color — white, red, or combination",
         },
         {
           id: "royal-kennel-club-ibizan-hound",
@@ -453,8 +526,8 @@ export const ibizan_hound: Breed = {
           locator: "Breed standard colours",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Colour descriptions are paraphrased from standards; registry wording can vary.",
+      verifiedOn: "2026-11-12",
+      note: "Generic species-wide colours from The Dog API are excluded.",
     },
     "physical.sheddingLevel": {
       reliability: "reliable_source",
@@ -462,16 +535,16 @@ export const ibizan_hound: Breed = {
         {
           id: "royal-kennel-club-ibizan-hound",
           role: "verified",
-          locator: "Breed characteristics: sheds and grooming once a week",
+          locator: "Breed characteristics — sheds and grooming once a week",
         },
         {
           id: "american-kennel-club-ibizan-hound",
           role: "verified",
-          locator: "Grooming: smooth and wire coat varieties",
+          locator: "Grooming — smooth and wire coat varieties",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Describes shedding and maintenance qualitatively; no measured shedding quantity is claimed.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
@@ -485,11 +558,11 @@ export const ibizan_hound: Breed = {
         {
           id: "ibizan-hound-club-us-akc-standard",
           role: "verified",
-          locator: "General appearance, head, ears, body, coat and gait",
+          locator: "General Appearance, Head, Ears, Body, Coat, Gait",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Features are original summaries of the standard's appearance description.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "temperament.traits": {
       reliability: "reliable_source",
@@ -497,16 +570,21 @@ export const ibizan_hound: Breed = {
         {
           id: "ibizan-hound-club-us-akc-standard",
           role: "verified",
-          locator: "Temperament: even-tempered, affectionate, loyal, trainable, hunting instinct",
+          locator: "Temperament",
         },
         {
           id: "royal-kennel-club-ibizan-hound",
           role: "verified",
-          locator: "Breed standard: reserved with strangers, dignified, intelligent and independent",
+          locator: "Breed standard — reserved, dignified, intelligent, independent",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Breed-level descriptions are not guarantees about an individual dog's behaviour.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -523,7 +601,7 @@ export const ibizan_hound: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Editorial 1–5 scores inferred from qualitative descriptions; they are not validated behavioural test results.",
+      note: "Editorial 1–5 estimates based on published qualitative descriptions.",
     },
     "care.exercise": {
       reliability: "reliable_source",
@@ -531,16 +609,16 @@ export const ibizan_hound: Breed = {
         {
           id: "royal-kennel-club-ibizan-hound",
           role: "verified",
-          locator: "Breed characteristics: more than 2 hours of exercise per day",
+          locator: "More than 2 hours of exercise per day",
         },
         {
           id: "american-kennel-club-ibizan-hound",
           role: "verified",
-          locator: "Breed overview: athletic sprinter and jumper requiring space",
+          locator: "Athletic sprinter and jumper requiring space",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The lower bound reflects the kennel-club recommendation; the dog's age, health and fitness should guide actual exercise.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "care.grooming": {
       reliability: "reliable_source",
@@ -548,7 +626,7 @@ export const ibizan_hound: Breed = {
         {
           id: "royal-kennel-club-ibizan-hound",
           role: "verified",
-          locator: "Breed characteristics: grooming once a week and short coat",
+          locator: "Grooming once a week",
         },
         {
           id: "american-kennel-club-ibizan-hound",
@@ -556,8 +634,8 @@ export const ibizan_hound: Breed = {
           locator: "Grooming and ear-care guidance",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Practical advice accounts for both recognised coat types.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "care.training": {
       reliability: "reliable_source",
@@ -573,44 +651,44 @@ export const ibizan_hound: Breed = {
           locator: "Hunting function and breed characteristics",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Training advice addresses the documented hunting drive and is supplemented with general reward-based practice.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "care.livingEnvironment": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General welfare guidance adapted for a fast, athletic dog; individual housing suitability depends on daily routine and secure exercise options.",
+      note: "General welfare guidance adapted for an agile, high-jumping sighthound.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable source establishes a universal apartment-suitability answer for all dogs of this breed.",
+      note: "Reviewed sources do not establish a universal apartment-suitability rating.",
     },
     nutrition: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine nutrition guidance; no universal breed-specific calorie prescription is asserted.",
+      note: "General canine nutrition guidance; no breed-specific calorie target is asserted.",
     },
     "nutrition.feedingFrequency.puppy": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A universal breed-specific puppy meal schedule was not established.",
+      note: "No breed-specific puppy meal schedule was established.",
     },
     "nutrition.feedingFrequency.adult": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A universal breed-specific adult meal schedule was not established.",
+      note: "No breed-specific adult meal schedule was established.",
     },
     "nutrition.feedingFrequency.senior": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A universal breed-specific senior meal schedule was not established.",
+      note: "No breed-specific senior meal schedule was established.",
     },
     "health.overview": {
       reliability: "reliable_source",
@@ -626,8 +704,8 @@ export const ibizan_hound: Breed = {
           locator: "Health and recommended parent-club tests",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Distinguishes reported concerns and screening recommendations from certainty about individual dogs.",
+      verifiedOn: "2026-11-12",
+      note: "Distinguishes screening priorities from breed-wide disease prevalence.",
     },
     "health.commonConditions": {
       reliability: "reliable_source",
@@ -635,17 +713,17 @@ export const ibizan_hound: Breed = {
         {
           id: "ibizan-hound-club-us-health",
           role: "verified",
-          locator: "Concerns and health tests: deafness, vision, thyroid, hip dysplasia, seizures and bloat",
+          locator: "Deafness, eye disease, thyroiditis, hip dysplasia, seizures, and bloat",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "These are concerns described by the parent club, not a ranked prevalence list; the list does not imply every condition is common.",
+      verifiedOn: "2026-11-12",
+      note: "Conditions listed reflect parent-club concerns and screening targets rather than a population prevalence ranking.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General preventive veterinary guidance informed by the breed's published screening priorities.",
+      note: "General preventive veterinary guidance informed by breed screening priorities.",
     },
     "health.recommendedScreenings": {
       reliability: "reliable_source",
@@ -653,7 +731,7 @@ export const ibizan_hound: Breed = {
         {
           id: "ibizan-hound-club-us-health",
           role: "verified",
-          locator: "CHIC screening requirements: hips, eyes, BAER hearing, thyroid and cardiac evaluation",
+          locator: "Recommended screenings — hips, eyes, BAER hearing, thyroid, cardiac",
         },
         {
           id: "american-kennel-club-ibizan-hound",
@@ -661,14 +739,14 @@ export const ibizan_hound: Breed = {
           locator: "Recommended health tests from the national breed club",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Confirm current requirements with the parent club and relevant local screening programme.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Routine dental care guidance for dogs.",
+      note: "Routine canine dental care guidance.",
     },
     "health.earCare": {
       reliability: "reliable_source",
@@ -676,17 +754,17 @@ export const ibizan_hound: Breed = {
         {
           id: "american-kennel-club-ibizan-hound",
           role: "verified",
-          locator: "Grooming: weekly ear checks for wax and debris",
+          locator: "Grooming — weekly ear checks for wax and debris",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Advice reflects the breed profile's ear-care recommendation.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General skin and coat monitoring guidance.",
+      note: "Routine skin and coat monitoring guidance.",
     },
     suitability: {
       reliability: "estimate",
@@ -694,40 +772,40 @@ export const ibizan_hound: Breed = {
         {
           id: "royal-kennel-club-ibizan-hound",
           role: "cited",
-          locator: "Exercise, home and garden size guidance",
+          locator: "Exercise, home, and garden size guidance",
         },
         {
           id: "american-kennel-club-ibizan-hound",
           role: "cited",
-          locator: "Breed overview: need for ample space and athletic activity",
+          locator: "Need for ample space and athletic activity",
         },
       ],
       verifiedOn: null,
-      note: "Suitability guidance is editorial and based on activity and prey-drive needs, not a validated household assessment.",
+      note: "Editorial suitability assessment based on exercise and prey-drive demands.",
     },
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable source establishes a universal first-time-owner suitability rating.",
+      note: "No reliable source establishes a universal first-time-owner rating.",
     },
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable source establishes a universal suitability rating for all families with children.",
+      note: "No reliable source establishes a universal rating for families with children.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable source establishes a universal senior-owner suitability rating.",
+      note: "No reliable source establishes a universal senior-owner rating.",
     },
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable source establishes a universal apartment-living suitability rating.",
+      note: "No reliable source establishes a universal apartment-living rating.",
     },
     funFacts: {
       reliability: "reliable_source",
@@ -735,16 +813,16 @@ export const ibizan_hound: Breed = {
         {
           id: "fci-podenco-ibicenco-standard-089",
           role: "verified",
-          locator: "Origin and utilization",
+          locator: "Origin and rabbit-hunting utilization",
         },
         {
           id: "ibizan-hound-club-us-akc-standard",
           role: "verified",
-          locator: "General appearance, coat varieties and jumping ability",
+          locator: "Coat varieties and jumping ability",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Facts are paraphrased from official breed and kennel-club material.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     faq: {
       reliability: "reliable_source",
@@ -757,7 +835,7 @@ export const ibizan_hound: Breed = {
         {
           id: "royal-kennel-club-ibizan-hound",
           role: "verified",
-          locator: "Exercise, grooming and breed overview",
+          locator: "Exercise and grooming",
         },
         {
           id: "ibizan-hound-club-us-health",
@@ -765,9 +843,10 @@ export const ibizan_hound: Breed = {
           locator: "Health tests and concerns",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Answers are original summaries; measurement values follow the cited standard's own units.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
   },
-  updatedOn: "2026-10-26",
+
+  updatedOn: "2026-11-12",
 };

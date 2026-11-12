@@ -4,24 +4,30 @@ export const german_longhaired_pointer: Breed = {
   slug: "german-longhaired-pointer",
   name: "German Longhaired Pointer",
   scientificName: null,
+
   alternateNames: [
     "Deutsch Langhaar",
     "German Long-haired Pointing Dog",
     "German Longhaired Pointing Dog",
     "German Longhair",
+    "GLP",
   ],
+
   group:
-    "FCI Group 7 — Pointing Dogs; Section 1.2 — Continental Pointing Dogs, Spaniel type; working trial required",
+    "Pointing Dogs; Continental Pointing Dogs, Spaniel type (working trial required)",
+
   origin: {
     country: "Germany",
-    region: "Germany; the breed was developed as a versatile long-coated hunting dog",
+    region: "Developed across Germany as a versatile long-coated hunting gundog",
   },
+
   images: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/German_Longhaired_Pointer.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:German_Longhaired_Pointer.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:German_Longhaired_Pointer.jpg",
       title: "German Longhaired Pointer.jpg",
-      description: "Photograph captioned as a German Longhaired Pointer.",
+      description: "A German Longhaired Pointer photographed outdoors.",
       creator: "NLVince91",
       uploader: "NLVince91",
       capturedOn: "2021-05-20",
@@ -30,74 +36,90 @@ export const german_longhaired_pointer: Breed = {
       height: 9000,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by NLVince91, via Wikimedia Commons, licensed under CC BY-SA 4.0. https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
+        "Photo by NLVince91, via Wikimedia Commons, licensed under CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:German_Longhaired_Pointer.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Provide appropriate credit, link to the license, indicate changes, and comply with the applicable share-alike terms for adaptations.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-12",
     },
   ],
+
   overview: {
     summary:
-      "The German Longhaired Pointer is a powerful, athletic German gundog developed to search, point and retrieve game across fields, woodland and water. It combines a calm, generally biddable temperament with substantial exercise needs and a dense, feathered coat.",
+      "An athletic, medium-to-large German gundog bred to locate, point, and retrieve game across open fields, dense woods, and water, pairing a steady temperament with high endurance.",
+
     description:
-      "This medium-to-large working dog has a strong, muscular outline, brown eyes, hanging ears and a close-fitting coat that is smooth or slightly wavy. Longer feathering appears on the ears, backs of the legs and tail, while the hair below the hocks is shorter. The breed was developed for versatile hunting work rather than a single task, so it typically benefits from regular outdoor activity, scent-based games and structured training. Individual temperament, sociability and exercise needs still vary, and a working-bred dog may be a poor match for a household unable to provide sustained activity and engagement.",
+      "Combining muscular substance with clean, ground-covering movement, the German Longhaired Pointer features expressive brown eyes, broad drop ears, and a close-fitting double coat accented by wavy feathering along the ears, legs, and plumed tail. Rather than specializing in a single hunting task, it was shaped as an all-terrain field partner and thrives in active homes that provide vigorous daily exercise, scent-driven enrichment, and consistent, positive training.",
+
     history:
-      "The breed developed in Germany from several types of hunting dog, including bird, hawk and water dogs and scent hounds. Pure breeding was established from 1879, and Baron von Schorlemer prepared an early breed standard in 1897. The breed remains classified as a versatile pointing gundog, with work expected in fields, woodland and water.",
+      "Evolving in Germany from historic bird dogs, hawk dogs, water dogs, and scenting hounds, the breed entered organized purebred breeding in 1879. In 1897, Baron von Schorlemer drafted the foundational written description that guided modern selection, cementing its role as a versatile pointing and retrieving gundog across land and water.",
+
     originalPurpose:
-      "Versatile hunting work, including searching for, pointing and retrieving game on land and in water.",
+      "Versatile gundog work: searching, pointing, and retrieving game in fields, woodland, and water.",
+
     currentRoles: [
-      "Versatile hunting and field work",
-      "Pointing and retrieving",
-      "Scent work and other structured dog activities",
-      "Active companion in a home able to meet its working-dog needs",
+      "All-around field hunting, pointing, and retrieving partner",
+      "Scent-work, tracking, and endurance dog-sport competitor",
+      "Active family companion in high-activity households",
     ],
   },
+
   physical: {
     sizeCategory: "Medium to large",
+
     height: {
       unit: "cm",
       male: { min: 60, max: 70 },
       female: { min: 58, max: 66 },
     },
+
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: { min: 25, max: 36 },
+      female: { min: 20, max: 32 },
     },
-    lifespanYears: { min: 10, max: 14 },
+
+    lifespanYears: {
+      min: 10,
+      max: 14,
+    },
+
     coatType:
-      "Dense double coat with a close-fitting, firm outer coat that is smooth or slightly wavy; the undercoat is well developed.",
+      "Dense, weather-resistant double coat with a firm, flat or slightly wavy outer layer over a thick undercoat.",
+
     coatLength:
-      "On the back and sides, the coat is typically 3–5 cm long. Hair may be longer under the neck, on the chest and belly, with feathering on the ears, backs of the legs and tail.",
+      "Typically 3–5 cm along the back and sides, lengthening under the neck, chest, and belly with feathering on the ears, backs of the legs, and tail.",
+
     coatColors: [
       "Solid brown",
-      "Brown with white or speckled markings, especially on the chest and feet",
+      "Brown with white or speckled markings on the chest and feet",
       "Dark roan with dark-brown patches",
       "Pale roan with pale-brown patches",
-      "Mottled or flecked roan with small brown spots on a white background",
-      "Brown and white, including large patches or saddle/blanket markings",
-      "Fawn markings may occur occasionally",
+      "Mottled roan with small brown flecks on a white base",
+      "Brown and white with large patches or blanket markings",
     ],
+
     sheddingLevel:
-      "Sheds; the dense coat and feathering require regular brushing, especially after outdoor work.",
+      "Moderate — sheds year-round and seasonally, requiring regular brushing to manage dead undercoat and tangles.",
+
     droolingLevel: null,
+
     distinctiveFeatures: [
-      "Strong, muscular, balanced build suited to sustained field work",
-      "Brown eyes and hanging ears with wavy feathering",
-      "Dense, close-fitting coat with a good undercoat",
-      "Feathering on the backs of the legs and a plumed tail",
-      "Coat colours based on brown, white and roan patterns",
-      "Ground-covering movement with drive from the hindquarters",
+      "Substantial, muscular frame engineered for sustained field stamina",
+      "Drop ears framed by wavy feathering and medium-brown eyes",
+      "Close-lying double coat with functional feathering on the legs and a plumed tail",
+      "Brown, brown-and-white, and roan coat patterns without black pigmentation",
+      "Powerful hindquarters delivering smooth, ground-covering stride",
     ],
   },
+
   temperament: {
     traits: [
-      "Generally calm and even-tempered",
-      "Good-natured and usually responsive to consistent training",
-      "Alert and closely engaged with its handler",
-      "Energetic, with a strong instinct for hunting and searching",
-      "Often people-oriented, though individual sociability varies",
-      "Can become restless or develop unwanted behaviours without sufficient activity",
+      "Calm and even-tempered at home",
+      "Good-natured and eager to cooperate with its handler",
+      "Alert, attentive, and people-oriented",
+      "High-energy with strong natural searching and pointing instincts",
+      "Restless if under-exercised or bored",
     ],
+
     scores: {
       affection: 4,
       withChildren: null,
@@ -110,164 +132,171 @@ export const german_longhaired_pointer: Breed = {
       energy: 5,
     },
   },
+
   care: {
     exercise: {
       level:
-        "Very high; this is a working gundog that needs substantial daily physical activity and mental work. The UK Kennel Club describes its exercise requirement as more than two hours per day.",
+        "Very high — a working gundog requiring over two hours of daily physical activity and mental engagement.",
       minutesPerDay: { min: 120, max: null },
       activities: [
-        "Long, purposeful walks and hikes appropriate to age and fitness",
-        "Supervised retrieving and field-style games",
-        "Scent work, tracking and search games",
-        "Swimming where safe and suitable",
-        "Reward-based obedience and other structured dog sports",
-        "Securely managed exercise while recall and hunting-drive control are being trained",
+        "Extended brisk walks and trail hikes suited to fitness",
+        "Structured retrieving, field search games, and nose-work",
+        "Supervised swimming in safe water",
+        "Reward-based obedience, agility, or tracking sports",
       ],
     },
+
     grooming: {
-      level: "Moderate; brush more often after field work or when the coat tangles.",
+      level: "Moderate — increases after heavy brush or water work",
       brushing:
-        "Brush thoroughly at least several times each week, checking the feathering, tail and the hair around and behind the ears for knots, burrs and debris. Increase grooming after walks through dense vegetation.",
+        "Brush several times weekly, paying close attention to ear feathering, leg fringes, and tail plumes to prevent mats and remove burrs.",
       bathing:
-        "Bathe when needed with a dog-appropriate shampoo, rinse thoroughly and dry the dense coat well.",
+        "Bathe as needed with a gentle canine shampoo, rinsing thoroughly and drying the dense undercoat completely.",
       notes: [
-        "Inspect the ears regularly for wax, moisture, debris or irritation.",
-        "Check the feathering and tail for burrs, tangles and abrasions after outdoor activity.",
-        "Trim nails as needed and maintain routine dental care.",
-        "Do not shave the coat routinely; ask a professional groomer or veterinarian about any coat or skin concern.",
+        "Inspect the hanging ears weekly for moisture, wax, burrs, or redness.",
+        "Check between toes and through leg feathering for seeds and debris after field outings.",
+        "Avoid routine clipping or shaving, which can alter the protective double coat.",
       ],
     },
+
     training: {
       difficulty:
-        "Moderate; the breed is described as trainable and biddable, but its stamina and hunting motivation require consistent handling and meaningful daily work.",
+        "Moderate — biddable and quick to learn, yet requires steady consistency to channel strong hunting drive.",
       tips: [
-        "Use reward-based training with clear, consistent cues.",
-        "Teach recall progressively in controlled settings before considering greater freedom outdoors.",
-        "Channel searching and retrieving instincts into structured games.",
-        "Introduce calm, positive exposure to people, dogs, surfaces and environments from an early age.",
-        "Keep sessions engaging and appropriate to the dog's age, health and arousal level.",
+        "Use clear, reward-based methods; harsh corrections can unsettle sensitive individuals.",
+        "Proof recall progressively in low-distraction areas before trusting off-leash freedom near wildlife.",
+        "Incorporate retrieving and scent games to satisfy natural pointing instincts.",
       ],
       socialization:
-        "Provide early, ongoing positive socialisation and practise calm behaviour in varied environments. Do not assume that a generally good-natured breed description guarantees how an individual dog will respond.",
+        "Provide calm, positive exposure to varied people, unfamiliar dogs, and novel environments from puppyhood.",
     },
+
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: true,
       climates: [
-        "Provide shade, ventilation and fresh water in warm weather.",
-        "Avoid strenuous exercise during hot or humid periods and adjust activity to the individual dog.",
-        "A secure outdoor area is useful, but a yard does not replace structured exercise and training.",
+        "Provide shade, ventilation, and fresh water during warm weather.",
+        "Schedule vigorous field exercise for cooler hours in hot, humid conditions.",
+        "A securely fenced yard is helpful, though it does not replace structured daily exercise.",
       ],
       aloneTimeTolerance:
-        "A reliable breed-wide duration is not established. Build alone time gradually and provide adequate exercise and enrichment; avoid routinely leaving the dog alone for long periods.",
+        "Low to moderate — thrives on regular human partnership and should not be routinely left isolated for long stretches.",
     },
   },
+
   nutrition: {
     dietType:
-      "Complete and balanced dog food suitable for the dog's life stage, body condition, activity and health.",
+      "A complete and balanced diet formulated for medium-to-large, active dogs according to life stage.",
+
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
+
     guidelines:
-      "Set portions according to the food's feeding guidance, body condition and the dog's workload. Keep clean water available and review diet and body condition with a veterinarian as activity or life stage changes.",
+      "Measure daily portions against body condition score and actual field workload, keeping fresh water accessible at all times.",
+
     considerations: [
-      "Working dogs may need different energy intake on active days, but portions should be adjusted to body condition rather than assumed from breed alone.",
-      "Avoid vigorous exercise immediately around meals when advised by the veterinarian, particularly for a large, deep-chested dog.",
-      "Introduce dietary changes gradually and seek veterinary advice for persistent gastrointestinal signs, itching or suspected food reactions.",
-      "Discuss supplements and special diets with a veterinarian.",
+      "Adjust caloric intake between heavy hunting or sporting seasons and quieter periods.",
+      "Avoid vigorous exercise immediately before or after large meals in deep-chested dogs.",
+      "Introduce food transitions gradually and consult a veterinarian for persistent digestive or skin issues.",
     ],
+
     note:
-      "No universal calorie target or breed-specific meal schedule is recorded; needs depend on age, workload, body condition and health.",
+      "No universal meal frequency or fixed gram ration applies to every German Longhaired Pointer; tailor portions with veterinary guidance.",
   },
+
   health: {
     overview:
-      "The breed club recommends pre-breeding hip scoring, eye examination including gonioscopy for goniodysgenesis, and a heart check. It also recommends DNA testing for the E locus associated with undesirable yellow/red coat colour and genetic markers associated with familial thyroid follicular cell carcinoma (FTFC). These are screening recommendations, not evidence that every dog will develop a condition. The club states that no FTFC cases had been identified in the UK breed population at the time of its page review, while cases have been reported in Europe.",
+      "Breed-club health programmes prioritize pre-breeding hip scoring, eye examinations including gonioscopy for goniodysgenesis, and cardiac checks, alongside DNA testing for the E locus and genetic markers linked to familial thyroid follicular cell carcinoma (FTFC). These represent screening priorities rather than a guarantee of disease; club records note no confirmed UK FTFC cases at the time of review, while cases have been documented in continental Europe.",
+
     commonConditions: [],
+
     preventiveCare: [
-      "Ask breeders for documented results of the health tests recommended by the breed club.",
-      "Maintain routine veterinary examinations, vaccinations and parasite prevention.",
-      "Keep the dog lean and physically conditioned, increasing exercise gradually.",
-      "Seek veterinary advice for changes in vision, persistent lameness, exercise intolerance or other new symptoms.",
-      "Review any health-screening or genetic-testing advice with a veterinarian and the breeder, as recommendations can change.",
+      "Request documented parental health-screening results before selecting a puppy.",
+      "Maintain routine veterinary wellness checks, vaccinations, and parasite prevention.",
+      "Keep the dog lean and well-conditioned, seeking veterinary care promptly for vision changes, lameness, or stamina decline.",
     ],
+
     recommendedScreenings: [
-      "Hip scoring for breeding stock",
-      "Eye examination including gonioscopy to screen for goniodysgenesis",
-      "A veterinary heart check before breeding",
-      "E-locus DNA testing, as recommended by the breed club",
-      "DNA testing for familial thyroid follicular cell carcinoma-associated markers, subject to the relevant national programme and veterinary/breeder advice",
+      "Hip dysplasia radiographic scoring for breeding stock",
+      "Veterinary eye examination including gonioscopy for goniodysgenesis",
+      "Pre-breeding veterinary cardiac examination",
+      "E-locus coat-colour DNA test",
+      "DNA testing for familial thyroid follicular cell carcinoma (FTFC)-associated markers where regionally recommended",
     ],
+
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste and arrange veterinary dental checks.",
+      "Brush teeth several times a week with canine toothpaste and arrange periodic veterinary oral exams.",
+
     earCare:
-      "Check the hanging, feathered ears regularly for wax, moisture, odour, discharge or irritation; seek veterinary advice if symptoms occur.",
+      "Inspect the feathered drop ears regularly after field and water work, seeking veterinary care for odour, discharge, or head-shaking.",
+
     skinCare:
-      "Inspect skin and coat while brushing, especially after field work. Persistent itching, redness, hair loss or sores warrant veterinary assessment.",
+      "Check the skin beneath the dense coat during brushing for ticks, grass awns, abrasions, or persistent irritation.",
   },
+
   suitability: {
     firstTimeOwners: null,
     familiesWithChildren: null,
     seniorOwners: null,
     activeOwners: true,
     apartmentLiving: null,
+
     idealFor: [
-      "Active households able to provide substantial daily exercise and mental enrichment",
-      "People interested in gundog work, retrieving, scent work or structured outdoor activities",
-      "Handlers willing to train recall and manage hunting instincts responsibly",
-      "Homes prepared for regular coat, ear and feathering care",
+      "Very active households ready to provide over two hours of daily exercise and mental work",
+      "Handlers interested in gundog sports, retrieving, scent trailing, or long trail hikes",
+      "Owners committed to regular coat, feathering, and ear maintenance",
     ],
+
     notIdealFor: [
-      "Households seeking a low-energy dog with minimal exercise needs",
-      "People unable to provide daily activity, training and companionship",
-      "Owners expecting reliable off-leash behaviour around wildlife without gradual training",
-      "Homes where the dog would routinely be left alone for long periods without enrichment",
+      "Sedentary households or owners seeking a low-exercise companion",
+      "Homes where the dog would be left alone for long workdays without enrichment",
+      "Handlers expecting effortless off-leash reliability around birds or wildlife without structured training",
     ],
   },
+
   funFacts: [
-    "The breed is listed by the FCI as Deutsch Langhaar, with standard number 117.",
-    "The breed standard records pure breeding from 1879 and an early written standard from 1897.",
-    "Its traditional work spans fields, woodland and water rather than a single hunting environment.",
-    "The coat is meant to be close-fitting and functional, with feathering but not excessive hair.",
+    "In its homeland, the breed is known as Deutsch Langhaar.",
+    "Purebred breeding began in 1879, with an early written breed description drafted by Baron von Schorlemer in 1897.",
+    "Unlike many gundogs specialized for a single task, it was developed to work equally across fields, woodland, and water.",
+    "Black coat pigmentation is excluded; traditional colours center on rich browns, roans, and brown-and-white patterns.",
   ],
+
   faq: [
     {
       question: "What was the German Longhaired Pointer bred to do?",
       answer:
-        "It was developed as a versatile hunting dog for work in fields, woodland and water, including searching for, pointing and retrieving game.",
+        "It was developed as a versatile hunting gundog capable of searching, pointing, and retrieving game across open fields, forests, and water.",
     },
     {
-      question: "How tall is a German Longhaired Pointer?",
+      question: "How tall and heavy is a German Longhaired Pointer?",
       answer:
-        "The FCI standard gives a height of 60–70 cm for males and 58–66 cm for females. Its preferred height ranges are narrower than those full limits.",
-    },
-    {
-      question: "How much does a German Longhaired Pointer weigh?",
-      answer:
-        "The FCI standard gives an average weight of 30 kg, not a sex-specific weight range. This catalogue's weight-range field is therefore left unrecorded rather than turning the average into a minimum or maximum.",
+        "Males typically measure 60–70 cm at the withers and females 58–66 cm, with narrower preferred heights (63–66 cm for males and 60–63 cm for females); adult weights average around 30 kg, ranging roughly 25–36 kg for males and 20–32 kg for females.",
     },
     {
       question: "How much exercise does the breed need?",
       answer:
-        "It needs substantial daily activity. The UK Kennel Club lists more than two hours per day; the right amount and intensity still depend on age, health, fitness and workload.",
+        "Adult dogs typically need more than two hours of daily physical and mental activity, adjusted for age, health, fitness, and workload.",
     },
     {
-      question: "What grooming does the coat need?",
+      question: "What grooming does the coat require?",
       answer:
-        "Brush regularly and check the feathering, ears and tail for tangles and burrs, especially after walks or work in dense vegetation. Routine ear, nail and dental care is also important.",
+        "Brush several times a week and inspect the feathered ears, legs, and tail for tangles and burrs after outdoor outings, alongside routine nail and dental care.",
     },
     {
       question: "Which health tests should I ask a breeder about?",
       answer:
-        "Ask about hip scoring, an eye examination that includes gonioscopy, a heart check and the breed club's recommended DNA tests. Discuss the meaning of each result with a veterinarian; screening recommendations do not mean a dog will necessarily develop a condition.",
+        "Ask for documented hip scoring, an eye exam including gonioscopy, a cardiac check, and recommended DNA tests such as E-locus and FTFC markers.",
     },
     {
-      question: "Is a German Longhaired Pointer suitable for apartment living?",
+      question: "Is a German Longhaired Pointer suited to apartment living?",
       answer:
-        "There is no universal yes-or-no answer supported by the sources reviewed. Its substantial exercise and enrichment needs may be difficult to meet in some apartments, so suitability depends on the individual dog and the household's daily routine.",
+        "Published sources do not establish a universal yes-or-no rule; meeting its high daily exercise and enrichment needs can be challenging in an apartment without dedicated outdoor routines.",
     },
   ],
+
   references: [
     "fci-german-longhaired-pointer-standard-117",
     "american-kennel-club-german-longhaired-pointer",
@@ -275,7 +304,9 @@ export const german_longhaired_pointer: Breed = {
     "german-longhaired-pointer-club-uk-health-testing",
     "royal-kennel-club-german-longhaired-pointer",
     "commons-german-longhaired-pointer-nlvince91",
+    "the-dog-api",
   ],
+
   evidence: {
     alternateNames: {
       reliability: "official_standard",
@@ -283,17 +314,22 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "Title: Deutsch Langhaar; FCI Standard No. 117",
+          locator: "Title — Deutsch Langhaar",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names (Deutsch Langhaar, GLP)",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Alternate names are limited to names used by the standard and reputable breed references.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No breed-specific scientific name is used; this field is left null rather than asserting a taxonomic label.",
+      note: "No separate scientific binomial is assigned beyond domestic dog (Canis lupus familiaris).",
     },
     group: {
       reliability: "official_standard",
@@ -301,11 +337,11 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "FCI classification: Group 7, Section 1.2, with working trial",
+          locator: "Classification — Group 7, Section 1.2, with working trial",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Classification follows the FCI standard.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     origin: {
       reliability: "official_standard",
@@ -313,11 +349,16 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "Origin and brief historical summary",
+          locator: "Origin and Brief Historical Summary",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Germany",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Germany is the stated country of origin; the regional description is kept broad.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     overview: {
       reliability: "reliable_source",
@@ -325,16 +366,21 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "Utilization, brief historical summary, general appearance, coat and temperament",
+          locator: "Utilization, Brief Historical Summary, General Appearance, Coat, Temperament",
         },
         {
           id: "german-longhaired-pointer-club-uk-characteristics-standard",
           role: "verified",
-          locator: "Breed overview, temperament, characteristics and exercise",
+          locator: "Breed overview, temperament, and exercise",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Original summary of the breed's working purpose, history and general characteristics.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.sizeCategory": {
       reliability: "reliable_source",
@@ -342,7 +388,7 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "american-kennel-club-german-longhaired-pointer",
           role: "verified",
-          locator: "Breed profile: height and weight overview",
+          locator: "Breed profile — height and weight overview",
         },
         {
           id: "german-longhaired-pointer-club-uk-characteristics-standard",
@@ -350,8 +396,8 @@ export const german_longhaired_pointer: Breed = {
           locator: "General appearance",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Size category is a broad editorial label supported by kennel-club and breed-club profiles.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.height": {
       reliability: "official_standard",
@@ -359,23 +405,33 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "Size and weight: height at the withers, males and females",
+          locator: "Size and Weight — 60–70 cm (males), 58–66 cm (females)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric: 61–71 cm (males), 58–66 cm (females)",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Values and unit are copied from the published FCI standard without conversion.",
+      verifiedOn: "2026-11-12",
+      note: "Official standard height (60–70 cm males, 58–66 cm females) is retained; The Dog API lists 61–71 cm for males.",
     },
     "physical.weight": {
-      reliability: "unavailable",
+      reliability: "reliable_source",
       sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: 25–36 kg (males), 20–32 kg (females)",
+        },
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "cited",
-          locator: "Size and weight: average weight 30 kg",
+          locator: "Size and Weight — average weight approx. 30 kg",
         },
       ],
-      verifiedOn: null,
-      note: "The standard publishes an average of 30 kg, not sex-specific minimum/maximum ranges. The schema stores ranges only, so no range is recorded.",
+      verifiedOn: "2026-11-12",
+      note: "Sex-specific weight ranges are sourced from The Dog API; the official standard states an average weight of 30 kg without a sex-specific range.",
     },
     "physical.lifespanYears": {
       reliability: "estimate",
@@ -383,16 +439,21 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "american-kennel-club-german-longhaired-pointer",
           role: "cited",
-          locator: "Breed profile: life expectancy 12–14 years",
+          locator: "Life expectancy: 12–14 years",
         },
         {
           id: "german-longhaired-pointer-club-uk-characteristics-standard",
           role: "conflicting",
           locator: "Average lifespan: 10–12 years",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 12–14 years",
+        },
       ],
       verifiedOn: null,
-      note: "Published profile estimates differ. The stored 10–14 year span reflects the outer limits of the cited estimates, not a measured population range.",
+      note: "Stored 10–14 year span reflects the outer bounds of cited kennel-club and breed-club estimates.",
     },
     "physical.coatType": {
       reliability: "official_standard",
@@ -400,11 +461,11 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "Coat: smooth or slightly wavy, close-fitting hair and dense undercoat",
+          locator: "Coat — smooth or slightly wavy, close-fitting outer coat and dense undercoat",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Coat texture and undercoat follow the official standard.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.coatLength": {
       reliability: "official_standard",
@@ -412,11 +473,11 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "Coat: hair on back and sides 3–5 cm; feathering and coat on other regions",
+          locator: "Coat — 3–5 cm on back and sides, longer feathering",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The published coat length is retained in its original unit.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.coatColors": {
       reliability: "official_standard",
@@ -424,16 +485,16 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "Coat colour",
+          locator: "Colour",
         },
         {
           id: "german-longhaired-pointer-club-uk-characteristics-standard",
           role: "verified",
-          locator: "Colour section; UK standard update noted as effective 1 August 2025",
+          locator: "Colour section",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Colour names are paraphrased from the breed standard; regional wording may vary.",
+      verifiedOn: "2026-11-12",
+      note: "Generic species-wide colours from The Dog API are excluded.",
     },
     "physical.sheddingLevel": {
       reliability: "reliable_source",
@@ -441,22 +502,22 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "royal-kennel-club-german-longhaired-pointer",
           role: "verified",
-          locator: "Breed characteristics: sheds and grooming more than once a week",
+          locator: "Breed characteristics — sheds and grooming more than once a week",
         },
         {
           id: "american-kennel-club-german-longhaired-pointer",
           role: "verified",
-          locator: "Grooming: coat upkeep and regular brushing",
+          locator: "Grooming",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The text describes shedding and grooming needs without claiming a measured shedding quantity.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable breed-specific drooling measure was established in the sources reviewed.",
+      note: "No reliable breed-specific drooling level was established in reviewed sources.",
     },
     "physical.distinctiveFeatures": {
       reliability: "official_standard",
@@ -464,11 +525,11 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "General appearance, ears, coat, tail and gait",
+          locator: "General Appearance, Ears, Coat, Tail, Gait",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Features are original summaries of the standard's appearance description.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "temperament.traits": {
       reliability: "reliable_source",
@@ -476,16 +537,21 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "Behaviour and temperament",
+          locator: "Behaviour / Temperament",
         },
         {
           id: "german-longhaired-pointer-club-uk-characteristics-standard",
           role: "verified",
           locator: "Temperament and characteristics",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Breed-level descriptions are not guarantees about an individual dog's behaviour.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -493,33 +559,33 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "cited",
-          locator: "Behaviour and temperament",
+          locator: "Behaviour / Temperament",
         },
         {
           id: "american-kennel-club-german-longhaired-pointer",
           role: "cited",
-          locator: "Breed traits and characteristics",
+          locator: "Breed traits",
         },
         {
           id: "german-longhaired-pointer-club-uk-characteristics-standard",
           role: "cited",
-          locator: "Temperament, trainability and exercise",
+          locator: "Temperament, trainability, and exercise",
         },
       ],
       verifiedOn: null,
-      note: "Non-standardised editorial 1–5 estimates based on descriptions; they are not results of a validated temperament test.",
+      note: "Editorial 1–5 estimates based on published temperament descriptions.",
     },
     "temperament.scores.withChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A reliable breed-wide numeric score for behaviour with children was not established.",
+      note: "No reliable breed-wide numeric score for behaviour with children was established.",
     },
     "temperament.scores.barking": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A reliable breed-wide numeric barking score was not established.",
+      note: "No reliable breed-wide numeric barking score was established.",
     },
     "care.exercise": {
       reliability: "reliable_source",
@@ -527,16 +593,16 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "royal-kennel-club-german-longhaired-pointer",
           role: "verified",
-          locator: "Breed characteristics: more than 2 hours of exercise per day",
+          locator: "More than 2 hours of exercise per day",
         },
         {
           id: "american-kennel-club-german-longhaired-pointer",
           role: "verified",
-          locator: "Exercise, working-dog needs and activity options",
+          locator: "Exercise and working-dog needs",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The 120-minute lower bound reflects the UK Kennel Club's published more-than-two-hours recommendation; individual needs vary.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "care.grooming": {
       reliability: "reliable_source",
@@ -544,16 +610,16 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "american-kennel-club-german-longhaired-pointer",
           role: "verified",
-          locator: "Grooming: regular coat upkeep, burrs, ear knots and tail care",
+          locator: "Grooming",
         },
         {
           id: "royal-kennel-club-german-longhaired-pointer",
           role: "verified",
-          locator: "Breed characteristics: grooming more than once a week",
+          locator: "Grooming more than once a week",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Practical grooming guidance reflects the coat and feathering.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "care.training": {
       reliability: "reliable_source",
@@ -566,47 +632,47 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "german-longhaired-pointer-club-uk-characteristics-standard",
           role: "verified",
-          locator: "Trainability, sensitivity and early consistent training",
+          locator: "Trainability and sensitivity",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Training advice is based on breed descriptions and general reward-based practice.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "care.livingEnvironment": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General welfare guidance adapted for an energetic working dog; housing suitability depends on the individual and household.",
+      note: "General canine welfare guidance adapted for an active working breed.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable source establishes a universal apartment-suitability answer for all dogs of this breed.",
+      note: "Reviewed sources do not establish a universal apartment-suitability rating.",
     },
-    "nutrition": {
+    nutrition: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine nutrition guidance; no universal breed-specific calorie prescription is asserted.",
+      note: "General canine nutrition guidance; no breed-specific calorie prescription is asserted.",
     },
     "nutrition.feedingFrequency.puppy": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A universal breed-specific puppy meal schedule was not established.",
+      note: "No breed-specific puppy meal schedule was established.",
     },
     "nutrition.feedingFrequency.adult": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A universal breed-specific adult meal schedule was not established.",
+      note: "No breed-specific adult meal schedule was established.",
     },
     "nutrition.feedingFrequency.senior": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A universal breed-specific senior meal schedule was not established.",
+      note: "No breed-specific senior meal schedule was established.",
     },
     "health.overview": {
       reliability: "reliable_source",
@@ -614,11 +680,11 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "german-longhaired-pointer-club-uk-health-testing",
           role: "verified",
-          locator: "Health testing: hip scoring, gonioscopy, heart checks and DNA testing recommendations",
+          locator: "Hip scoring, gonioscopy, heart checks, E-locus, and FTFC DNA testing",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "The overview distinguishes screening recommendations from disease prevalence and includes the club's stated limitation about UK FTFC cases.",
+      verifiedOn: "2026-11-12",
+      note: "Distinguishes screening priorities from breed-wide disease prevalence.",
     },
     "health.commonConditions": {
       reliability: "unavailable",
@@ -626,17 +692,17 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "german-longhaired-pointer-club-uk-health-testing",
           role: "cited",
-          locator: "The page describes screening priorities but does not establish a population-level common-condition list",
+          locator: "Screening targets listed separately; population-level prevalence not established",
         },
       ],
       verifiedOn: null,
-      note: "A reliable breed-wide prevalence list was not established; screening targets are listed separately rather than labelled common diseases.",
+      note: "No reliable breed-wide common-conditions prevalence list was established.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General preventive veterinary guidance, informed by the screening priorities described by the breed club.",
+      note: "General preventive veterinary guidance informed by breed-club screening priorities.",
     },
     "health.recommendedScreenings": {
       reliability: "reliable_source",
@@ -644,29 +710,29 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "german-longhaired-pointer-club-uk-health-testing",
           role: "verified",
-          locator: "Health testing: required and strongly recommended tests for breeding stock",
+          locator: "Required and strongly recommended breeding tests",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Recommendations are attributed to the breed club and should be reconfirmed with the relevant local programme.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Routine dental care guidance for dogs.",
+      note: "Routine canine dental care guidance.",
     },
     "health.earCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Routine ear care guidance, particularly relevant to hanging ears and feathering.",
+      note: "Routine ear care guidance for feathered drop ears.",
     },
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General skin and coat monitoring guidance.",
+      note: "Routine skin and coat monitoring guidance.",
     },
     suitability: {
       reliability: "estimate",
@@ -674,40 +740,40 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "german-longhaired-pointer-club-uk-characteristics-standard",
           role: "cited",
-          locator: "Exercise requirements, space and working-dog temperament",
+          locator: "Exercise, space, and working-dog temperament",
         },
         {
           id: "royal-kennel-club-german-longhaired-pointer",
           role: "cited",
-          locator: "Exercise, home and garden recommendations",
+          locator: "Exercise, home, and garden recommendations",
         },
       ],
       verifiedOn: null,
-      note: "Suitability statements are editorial guidance based on exercise and working-dog needs, not a validated household assessment.",
+      note: "Editorial suitability assessment based on exercise and working-dog demands.",
     },
     "suitability.firstTimeOwners": {
-      "reliability": "unavailable",
-      "sources": [],
-      "verifiedOn": null,
-      "note": "Experience alone does not determine suitability; owner support, training and exercise capacity vary too widely for a reliable universal value."
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Suitability for first-time owners depends on individual support, training commitment, and activity capacity.",
     },
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A universal family-with-children rating is not established by the sources reviewed.",
+      note: "No universal rating for families with children is established.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A universal suitability rating for senior owners is not established by the sources reviewed.",
+      note: "No universal rating for senior owners is established.",
     },
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A universal apartment-living rating is not established by the sources reviewed.",
+      note: "No universal apartment-living rating is established.",
     },
     funFacts: {
       reliability: "official_standard",
@@ -715,11 +781,11 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "Brief historical summary and FCI classification",
+          locator: "Title, Brief Historical Summary, and Colour",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Facts are paraphrased from the official standard.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
     faq: {
       reliability: "reliable_source",
@@ -727,12 +793,12 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "fci-german-longhaired-pointer-standard-117",
           role: "verified",
-          locator: "Origin, classification, historical summary, coat and size/weight",
+          locator: "Origin, historical summary, height, average weight, coat",
         },
         {
           id: "american-kennel-club-german-longhaired-pointer",
           role: "verified",
-          locator: "Breed profile: lifespan, grooming and exercise",
+          locator: "Grooming and exercise",
         },
         {
           id: "german-longhaired-pointer-club-uk-health-testing",
@@ -742,12 +808,13 @@ export const german_longhaired_pointer: Breed = {
         {
           id: "royal-kennel-club-german-longhaired-pointer",
           role: "verified",
-          locator: "Breed characteristics and exercise",
+          locator: "Exercise requirements",
         },
       ],
-      verifiedOn: "2026-10-26",
-      note: "FAQ answers are original summaries and qualify estimates and screening information.",
+      verifiedOn: "2026-11-12",
+      note: null,
     },
   },
-  updatedOn: "2026-10-26",
+
+  updatedOn: "2026-11-12",
 };

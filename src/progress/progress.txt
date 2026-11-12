@@ -102,15 +102,15 @@
 99:lhasa_apso - CG
 100:papillon_and_phalene - CG
 101:chien_francais_tricolore - CG
+102:shar_pei - CG
+103:kai_ken - CG
+104:german_longhaired_pointer - CG
+105:ibizan_hound - CG
+106:black_norwegian_elkhound - CG
+107:australian_silky_terrier - CG
 
-102:shar_pei - CR
+108:american_bulldog - CR
 
-103:kai_ken - C
-104:german_longhaired_pointer - C
-105:ibizan_hound - C
-106:black_norwegian_elkhound - C
-107:australian_silky_terrier - C
-108:american_bulldog - C
 109:cairn_terrier - C
 110:kooikerhondje - C
 111:norfolk_terrier - C
@@ -174,14 +174,13 @@
 169:english_springer_spaniel - C
 170:alaskan_malamute - C
 171:landseer - C
+172:welsh_corgi,_cardigan - C
+173:carpathian_shepherd_dog - C
+174:kerry_blue_terrier - C
+175:basset_griffon_vendeen,_grand - C
+176:irish_water_spaniel - C
+177:belgian_shepherd_dog_(laekenois) - C
 
-172:welsh_corgi,_cardigan - R
-
-173:carpathian_shepherd_dog
-174:kerry_blue_terrier
-175:basset_griffon_vendeen,_grand
-176:irish_water_spaniel
-177:belgian_shepherd_dog_(laekenois)
 178:bouvier_des_flandres
 179:basset_fauve_de_bretagne
 180:australian_cattle_dog
