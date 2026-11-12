@@ -174,6 +174,8 @@ import { montenegrin_mountain_hound } from "./montenegrin_mountain_hound";
 import { halden_hound } from "./halden_hound";
 import { caucasian_shepherd_dog } from "./caucasian_shepherd_dog";
 import { english_springer_spaniel } from "./english_springer_spaniel";
+import { alaskan_malamute } from "./alaskan_malamute";
+import { landseer } from "./landseer";
 
 
 export const breedData: readonly Breed[] = [
@@ -347,4 +349,6 @@ export const breedData: readonly Breed[] = [
   halden_hound,
   caucasian_shepherd_dog,
   english_springer_spaniel,
+  alaskan_malamute,
+  landseer,
 ];

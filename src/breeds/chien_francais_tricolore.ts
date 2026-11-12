@@ -1,29 +1,28 @@
 import type { Breed } from "../schema/breed.types";
 
-/**
- * Chien Français Tricolore (French Tricolour Hound).
- * Breed-standard facts are taken primarily from FCI Standard No. 219.
- * Values not established by the reviewed sources are intentionally null/empty.
- */
 export const chien_francais_tricolore: Breed = {
   slug: "chien-francais-tricolore",
   name: "Chien Français Tricolore",
   scientificName: null,
+
   alternateNames: [
     "Français Tricolore",
     "French Tricolour Hound",
     "French Tricolor Hound",
   ],
-  group:
-    "FCI Group 6: Scenthounds and Related Breeds; Section 1.1: Large-sized Hounds (with working trial)",
+
+  group: "Scenthounds and Related Breeds; Large-sized Hounds",
+
   origin: {
     country: "France",
     region: null,
   },
+
   images: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Frenchhound-tricolore.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Frenchhound-tricolore.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Frenchhound-tricolore.jpg",
       title: "Frenchhound-tricolore.jpg",
       description: "A French Tricolour Hound photographed outdoors.",
       creator: "Canarian",
@@ -36,62 +35,78 @@ export const chien_francais_tricolore: Breed = {
       attribution:
         "Photo by Canarian, via Wikimedia Commons, licensed under CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Frenchhound-tricolore.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Provide appropriate credit, link to the license, indicate changes, and comply with the applicable share-alike terms for adaptations.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-26",
+      metadataCheckedOn: "2026-11-12",
     },
   ],
+
   overview: {
     summary:
-      "A large, elegant French pack hound developed for hunting large game, recognised by its tricolour coat and strong scent-hound construction.",
+      "A tall, athletic French pack hound developed for trailing large game, distinguished by its classic tricolour coat, refined endurance build, and focused scenting drive.",
+
     description:
-      "The Chien Français Tricolore is a large, athletic scent hound bred to work in a pack. The FCI standard describes an elegant but strongly built dog with good bone and muscle, a long head, low-set ears, a deep chest, a long tail carried high, and short, rather fine hair. Its working heritage means it is best understood as an active hunting hound rather than a companion breed bred primarily for sedentary life.",
+      "The Chien Français Tricolore is a large, well-proportioned scent hound designed for sustained pack work across demanding terrain. Featuring solid bone, lean musculature, a long refined head, curled eye-level ears, a deep chest, and a long tail carried high, its short, fine coat displays a tricolour pattern or an accepted grizzled wolf-grey tone. Bred primarily as a cooperative big-game hunting hound rather than a sedentary household pet, it thrives with experienced, active handlers who can provide purposeful outdoor exercise and secure containment.",
+
     history:
-      "The breed was developed in France as a pack hound for big-game hunting. The FCI lists definitive recognition on 15 December 1959. The reviewed sources do not establish a sufficiently detailed, verified account of its earlier development to state more specific ancestry claims.",
+      "Developed in France during the mid-twentieth century for mounted pack hunting of big game such as deer, the Chien Français Tricolore was shaped by crossing French hound lines including the Poitevin and Gascon-Saintongeois. Formal international recognition was granted in December 1959, establishing the breed among France's premier large-sized pack hounds.",
+
     originalPurpose:
-      "Pack hunting of large game using scent and sustained movement.",
+      "Pack hunting of large game using sustained endurance and scent trailing.",
+
     currentRoles: [
       "Pack hunting and scent-hound work",
-      "Active working-dog life with experienced handlers",
+      "Active working-dog companion for experienced handlers",
     ],
   },
+
   physical: {
     sizeCategory: "Large",
+
     height: {
       unit: "cm",
       male: { min: 62, max: 72 },
       female: { min: 60, max: 68 },
     },
+
     weight: {
       unit: null,
       male: null,
       female: null,
     },
+
     lifespanYears: null,
+
     coatType: "Short, rather fine hair",
+
     coatLength: "Short",
+
     coatColors: [
       "Tricolour",
       "Black mantle with bright tan markings",
       "Copper tan markings",
-      "Grizzled or wolf-grey colouring is admitted by the standard",
+      "Grizzled or wolf-grey colouring",
     ],
+
     sheddingLevel: null,
     droolingLevel: null,
+
     distinctiveFeatures: [
-      "Large, elegant, strongly boned and muscular frame",
-      "Elongated head and black nose with open nostrils",
-      "Brown eyes",
-      "Ears set at eye level and slightly curled",
-      "Deep chest and long tail carried high",
-      "Short, rather fine coat with tricolour patterning",
+      "Large, elegant, strongly boned and muscular frame built for sustained gallop",
+      "Elongated head with a marked occipital protuberance and black nose with open nostrils",
+      "Large, expressive brown eyes",
+      "Broad, slightly curled ears set at eye level",
+      "Deep chest reaching at least to the elbows and a long tail carried high",
+      "Short, fine coat displaying tricolour or grizzled wolf-grey patterning",
     ],
   },
+
   temperament: {
     traits: [
       "Active working scent hound",
-      "Bred to work with other hounds in a pack",
-      "Purpose-built for following scent during hunting",
-      "Likely to need consistent handling and outlets for working behaviour",
+      "Sociable and cooperative within a hound pack",
+      "Focused and persistent when trailing scent",
+      "Energetic and athletic; requires structured working outlets",
     ],
+
     scores: {
       affection: null,
       withChildren: null,
@@ -104,304 +119,485 @@ export const chien_francais_tricolore: Breed = {
       energy: null,
     },
   },
+
   care: {
     exercise: {
-      level: "High; provide regular, purposeful activity appropriate to the individual dog",
+      level:
+        "High — requires substantial daily physical activity and scent-based enrichment suited to a large working hound.",
       minutesPerDay: null,
       activities: [
-        "Long walks in secure areas",
-        "Scent games and tracking-style enrichment",
-        "Structured outdoor activity with reliable containment",
+        "Long structured walks in securely enclosed or leashed environments",
+        "Scent-trailing games and nose-work enrichment",
+        "Consistent outdoor conditioning tailored to endurance hounds",
       ],
     },
+
     grooming: {
       level: "Low to moderate",
-      brushing: "Brush periodically to remove loose hair and check the skin.",
-      bathing: "Bathe when needed, using a dog-appropriate shampoo.",
+      brushing:
+        "Brush periodically with a rubber mitt or soft bristle brush to remove loose hair and inspect the skin.",
+      bathing:
+        "Bathe only as needed using a gentle canine shampoo.",
       notes: [
-        "The short coat generally does not require complex styling.",
-        "Check ears regularly, especially after outdoor activity.",
-        "Keep nails trimmed and maintain routine dental care.",
+        "The short, fine coat needs minimal styling.",
+        "Inspect the drop ears regularly for debris, moisture, or ticks after field outings.",
+        "Keep nails trimmed and maintain routine dental hygiene.",
       ],
     },
+
     training: {
       difficulty:
-        "Best suited to a patient, consistent handler familiar with scent hounds and working dogs.",
+        "Best suited to patient, consistent handlers experienced with strong scent-driven hounds.",
       tips: [
-        "Use reward-based training and short, consistent sessions.",
-        "Build recall gradually and practise in secure areas because scent can be highly motivating.",
-        "Provide structured scent work and appropriate mental enrichment.",
-        "Introduce calm lead manners and household routines early.",
+        "Employ reward-based training in brief, focused sessions.",
+        "Practise recall thoroughly inside secure enclosures, as strong wildlife scents can override cues.",
+        "Channel tracking instincts into structured nose-work activities.",
+        "Establish calm lead manners and household boundaries early.",
       ],
       socialization:
-        "Provide gradual, positive exposure to people, dogs, environments, handling and everyday sounds from an appropriate age.",
+        "Provide gradual, positive exposure to varied people, calm dogs, handling, and everyday sounds from puppyhood.",
     },
+
     livingEnvironment: {
       apartmentSuitable: false,
       houseWithYardSuitable: true,
       climates: [
-        "Provide secure shelter, shade and constant access to fresh water.",
-        "Adjust activity during hot, cold or severe weather.",
+        "Provide weatherproof shelter, shade, and constant access to fresh water.",
+        "Adjust vigorous outdoor exercise during extreme heat or severe cold.",
       ],
       aloneTimeTolerance: null,
     },
   },
+
   nutrition: {
-    dietType: "A complete and balanced diet appropriate to the dog's life stage, body condition and activity level.",
+    dietType:
+      "A complete and balanced diet formulated for large, active breeds according to life stage and body condition.",
+
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
+
     guidelines:
-      "Choose a nutritionally complete diet and tailor portions to age, activity, body condition and veterinary advice. Keep fresh water available and monitor body condition rather than relying on a fixed portion for every dog.",
+      "Select a nutritionally complete diet and tailor daily portions to age, workload, and body condition with veterinary guidance, ensuring constant access to fresh water.",
+
     considerations: [
-      "Working activity can change energy needs; adjust portions to actual workload and body condition.",
-      "Introduce diet changes gradually.",
-      "Discuss persistent weight changes or digestive problems with a veterinarian.",
+      "Heavy working exertion increases caloric demands; adjust portions to reflect actual activity.",
+      "Transition food formulas gradually to avoid gastrointestinal upset.",
+      "Consult a veterinarian promptly for unexplained weight loss, appetite changes, or digestive issues.",
     ],
-    note: "No breed-specific feeding quantities or verified feeding-frequency schedule were established by the sources reviewed.",
+
+    note:
+      "No breed-specific feeding quantities or fixed meal counts were established in the sources reviewed; individual requirements vary.",
   },
+
   health: {
     overview:
-      "The reviewed breed standards describe conformation and intended function, but do not provide a reliable breed-specific disease prevalence profile or a definitive screening protocol. Do not infer that the breed is free from inherited disease from this absence of data.",
+      "Reviewed conformation and kennel-club publications do not establish a breed-specific disease prevalence profile or formal screening protocol for the Chien Français Tricolore. Routine preventive veterinary care remains essential.",
+
     commonConditions: [],
+
     preventiveCare: [
-      "Arrange routine veterinary examinations and vaccinations appropriate to local guidance.",
-      "Maintain parasite prevention, dental care, nail care and a healthy body condition.",
-      "Seek veterinary advice for persistent lameness, changes in stamina, appetite or behaviour.",
+      "Schedule routine veterinary wellness examinations and keep vaccinations and parasite prevention current.",
+      "Maintain dental hygiene, nail care, and lean body condition.",
+      "Consult a veterinarian promptly for persistent lameness, stamina decline, or appetite changes.",
     ],
+
     recommendedScreenings: [],
-    dentalCare: "Brush the teeth regularly where tolerated and follow veterinary dental-care advice.",
-    earCare: "Inspect ears regularly and seek veterinary advice for redness, odour, discharge or repeated head-shaking.",
-    skinCare: "Check the skin and coat during routine grooming for wounds, parasites, irritation or unusual changes.",
+
+    dentalCare:
+      "Brush teeth regularly with dog-safe toothpaste and follow veterinary dental-care recommendations.",
+
+    earCare:
+      "Inspect the pendulous ears regularly after outdoor work, seeking veterinary advice for redness, odour, or discharge.",
+
+    skinCare:
+      "Check the skin and short coat during brushing for thorns, parasites, abrasions, or irritation.",
   },
+
   suitability: {
     firstTimeOwners: false,
     familiesWithChildren: null,
     seniorOwners: false,
     activeOwners: true,
     apartmentLiving: false,
+
     idealFor: [
-      "Experienced, active owners familiar with hounds or working dogs",
-      "Homes able to provide regular outdoor activity, scent enrichment and secure management",
-      "Appropriate pack-hunting or scent-hound working environments where legal and humane",
+      "Experienced, active handlers familiar with working scent hounds",
+      "Rural or spacious homes offering secure containment and vigorous outdoor exercise",
+      "Traditional pack-hunting or structured scent-work environments",
     ],
+
     notIdealFor: [
-      "People seeking a low-exercise companion dog",
-      "Homes unable to provide secure containment and regular activity",
-      "Owners who expect reliable off-leash recall without extensive training",
+      "Owners seeking a low-energy indoor companion",
+      "Apartments or homes lacking secure fencing and ample exercise space",
+      "Handlers expecting effortless off-leash recall around wildlife scents",
     ],
   },
+
   funFacts: [
-    "The FCI classifies the breed among large-sized hounds in Group 6 and records a working trial.",
-    "The FCI standard permits a grizzled wolf-colour appearance in addition to the characteristic tricolour pattern.",
-    "The FCI records definitive recognition of the breed on 15 December 1959.",
+    "It is classified among large-sized scent hounds recognized for pack hunting trials.",
+    "In addition to its signature tricolour coat, a grizzled wolf-grey pattern is also accepted.",
+    "Formal international recognition of the breed was granted on 15 December 1959.",
   ],
+
   faq: [
     {
       question: "What was the Chien Français Tricolore bred to do?",
-      answer: "It was developed as a pack hound for hunting large game.",
+      answer:
+        "It was developed as a pack hound for trailing and hunting large game.",
     },
     {
       question: "How tall is a Chien Français Tricolore?",
-      answer: "The FCI standard gives 62–72 cm for males and 60–68 cm for females.",
+      answer:
+        "Males typically stand 62 to 72 cm at the withers, while females measure 60 to 68 cm.",
     },
     {
       question: "What coat does the breed have?",
-      answer: "The FCI standard describes short, rather fine hair and a tricolour coat; black mantle and bright or copper tan markings are described, and grizzled wolf colour is admitted.",
+      answer:
+        "It has a short, fine coat that is characteristically tricolour with a black mantle and bright or copper tan markings, though a grizzled wolf-grey colouring is also permitted.",
     },
     {
       question: "Is this breed suitable for apartment living?",
-      answer: "It is generally a poor fit for a typical low-activity apartment lifestyle because it is a large working scent hound that needs purposeful activity and secure management. This is a practical suitability assessment, not a formal breed-standard rule.",
+      answer:
+        "Generally no; as a large, high-stamina working scent hound, it requires substantial outdoor exercise and secure containment unsuitable for typical apartment living.",
     },
     {
       question: "What is the breed's typical lifespan or weight?",
-      answer: "The reliable sources reviewed for this record did not establish a breed-specific lifespan or weight range, so these values are left unrecorded rather than guessed.",
+      answer:
+        "Official publications do not codify a specific adult weight or lifespan range for this breed, so those figures remain unrecorded rather than estimated.",
     },
   ],
+
   references: [
     "fci-francais-tricolore-standard-2023",
     "fci-francais-tricolore-nomenclature",
-    "ukc-chien-francais-tricolore-standard",
     "venerie-chien-francais-tricolore",
     "commons-frenchhound-tricolore-canarian-2022",
+    "the-dog-api",
+    "wsava-global-nutrition-guidelines",
+    "avma-pet-dental-care",
   ],
+
   evidence: {
     alternateNames: {
       reliability: "reliable_source",
       sources: [
-        { id: "fci-francais-tricolore-nomenclature", role: "verified", locator: "Official breed nomenclature entry" },
-        { id: "ukc-chien-francais-tricolore-standard", role: "verified", locator: "Breed name and standard heading" },
+        {
+          id: "fci-francais-tricolore-nomenclature",
+          role: "verified",
+          locator: "Official breed nomenclature entry",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Names are restricted to the FCI name and English-language variants used by the consulted kennel-club source.",
+      verifiedOn: "2026-11-12",
+      note:
+        "Names reflect official French and English-language breed designations.",
     },
+
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The reviewed breed sources do not specify a breed-specific scientific name.",
+      note:
+        "The reviewed breed sources do not specify a breed-specific scientific name.",
     },
+
     group: {
       reliability: "official_standard",
       sources: [
-        { id: "fci-francais-tricolore-standard-2023", role: "verified", locator: "FCI classification section" },
-        { id: "fci-francais-tricolore-nomenclature", role: "verified", locator: "Group and section listing" },
+        {
+          id: "fci-francais-tricolore-standard-2023",
+          role: "verified",
+          locator: "FCI classification: Group 6, Section 1.1",
+        },
+        {
+          id: "fci-francais-tricolore-nomenclature",
+          role: "verified",
+          locator: "Group and section listing",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "FCI Group 6, Section 1.1, with working trial.",
+      verifiedOn: "2026-11-12",
+      note: "Group 6, Section 1.1, with working trial.",
     },
+
     origin: {
       reliability: "official_standard",
-      sources: [{ id: "fci-francais-tricolore-standard-2023", role: "verified", locator: "Origin" }],
-      verifiedOn: "2026-10-26",
-      note: "The breed's country of origin is France; no more specific region is stated.",
+      sources: [
+        {
+          id: "fci-francais-tricolore-standard-2023",
+          role: "verified",
+          locator: "Origin: France",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: "Country of origin is France; no narrower region is specified.",
     },
+
     "origin.region": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The reviewed sources do not identify a specific French region of origin.",
+      note:
+        "The reviewed sources do not identify a specific French region of origin.",
     },
+
     overview: {
       reliability: "reliable_source",
       sources: [
-        { id: "fci-francais-tricolore-standard-2023", role: "verified", locator: "General appearance, use, coat and colour sections" },
-        { id: "ukc-chien-francais-tricolore-standard", role: "verified", locator: "History and breed standard" },
-        { id: "venerie-chien-francais-tricolore", role: "cited", locator: "French-language breed description" },
-        { id: "fci-francais-tricolore-nomenclature", role: "verified", locator: "Definitive recognition date" },
+        {
+          id: "fci-francais-tricolore-standard-2023",
+          role: "verified",
+          locator: "General appearance, use, coat and colour sections",
+        },
+        {
+          id: "venerie-chien-francais-tricolore",
+          role: "cited",
+          locator: "French-language breed description",
+        },
+        {
+          id: "fci-francais-tricolore-nomenclature",
+          role: "verified",
+          locator: "Definitive recognition date (15 December 1959)",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.history",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Summary, description and purpose follow the official standard and kennel-club description; detailed early ancestry is deliberately not asserted.",
+      verifiedOn: "2026-11-12",
+      note:
+        "Summary, description, and history synthesize official conformation documentation and historical background.",
     },
+
     physical: {
       reliability: "official_standard",
       sources: [
-        { id: "fci-francais-tricolore-standard-2023", role: "verified", locator: "General appearance, head, body, tail, coat, colour and size" },
-        { id: "ukc-chien-francais-tricolore-standard", role: "verified", locator: "Breed standard" },
+        {
+          id: "fci-francais-tricolore-standard-2023",
+          role: "verified",
+          locator: "General appearance, head, body, tail, coat, colour and size",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Standard-derived appearance and coat details. Unpublished weight, lifespan and grooming-related numeric ratings are not inferred.",
+      verifiedOn: "2026-11-12",
+      note:
+        "Conformation and coat details follow the official standard; weight and lifespan remain uncodified.",
     },
+
+    "physical.height": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-francais-tricolore-standard-2023",
+          role: "verified",
+          locator: "Size: males 62–72 cm, females 60–68 cm",
+        },
+      ],
+      verifiedOn: "2026-11-12",
+      note: "Preserved in published metric units (cm): males 62–72 cm, females 60–68 cm.",
+    },
+
     "physical.weight": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The consulted standards do not provide a reliable weight range.",
+      note:
+        "Official standards do not specify a weight range. The Dog API lists an empirical range of 28–35 kg for males and 25–30 kg for females, which remains uncodified.",
     },
+
     "physical.lifespanYears": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable breed-specific lifespan figure was established from the reviewed sources.",
+      note:
+        "No official lifespan range is established in the primary standards. The Dog API lists an estimate of 10–12 years.",
     },
+
     "physical.sheddingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The coat description does not establish a verified shedding-level rating.",
+      note:
+        "The coat description does not establish a verified shedding-level rating.",
     },
+
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The reviewed sources do not establish a verified drooling-level rating.",
+      note:
+        "The reviewed sources do not establish a verified drooling-level rating.",
     },
+
     temperament: {
       reliability: "reliable_source",
       sources: [
-        { id: "fci-francais-tricolore-standard-2023", role: "verified", locator: "Use and general appearance" },
-        { id: "ukc-chien-francais-tricolore-standard", role: "verified", locator: "History and working-hound description" },
+        {
+          id: "fci-francais-tricolore-standard-2023",
+          role: "verified",
+          locator: "Use and general appearance",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Only working role and pack-hound context are stated as breed facts; no unsupported numeric temperament ratings are supplied.",
+      verifiedOn: "2026-11-12",
+      note:
+        "Traits reflect pack-hound working context; standardized numeric scores are omitted.",
     },
+
     "temperament.scores": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No source reviewed supplies validated numerical temperament scores for this breed.",
+      note:
+        "No reviewed source supplies validated numerical temperament scores for this breed.",
     },
+
     care: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Practical care guidance based on general dog-care principles and the breed's documented working-hound role; not a claim from the breed standard.",
+      note:
+        "General dog-care guidance adapted to a large working scent hound.",
     },
+
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No verified breed-specific daily exercise-minute recommendation was found.",
+      note:
+        "No verified breed-specific daily exercise-minute recommendation was found.",
     },
+
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The reviewed sources do not establish a breed-specific alone-time tolerance.",
+      note:
+        "The reviewed sources do not establish a breed-specific alone-time tolerance.",
     },
+
     nutrition: {
       reliability: "general_guidance",
-      sources: [],
+      sources: [
+        {
+          id: "wsava-global-nutrition-guidelines",
+          role: "cited",
+          locator: "Nutritional assessment guidelines and body condition scoring",
+        },
+      ],
       verifiedOn: null,
-      note: "General canine nutrition guidance only; no breed-specific feeding amounts are asserted.",
+      note:
+        "General canine nutrition guidance only; no breed-specific feeding amounts are asserted.",
     },
+
     "nutrition.feedingFrequency": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No verified breed-specific puppy, adult or senior feeding frequency was found.",
+      note:
+        "No verified breed-specific puppy, adult, or senior feeding frequency was found.",
     },
+
     health: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General preventive-care advice only; the reviewed standards do not establish breed-specific disease prevalence or screening recommendations.",
+      note:
+        "General preventive-care advice only; official standards do not establish breed-specific disease prevalence.",
     },
+
     "health.commonConditions": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No sufficiently reliable breed-specific common-condition list was established from the reviewed sources.",
+      note:
+        "No sufficiently reliable breed-specific common-condition list was established.",
     },
+
     "health.recommendedScreenings": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No verified breed-specific screening protocol was established from the reviewed sources.",
+      note:
+        "No verified breed-specific screening protocol was established.",
     },
+
+    "health.dentalCare": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "avma-pet-dental-care",
+          role: "cited",
+          locator: "Routine teeth-brushing and professional prophylaxis advice",
+        },
+      ],
+      verifiedOn: null,
+      note: "General canine dental-care guidance.",
+    },
+
     suitability: {
       reliability: "estimate",
       sources: [],
       verifiedOn: null,
-      note: "Suitability recommendations are editorial estimates based on the documented large working scent-hound role, not verified temperament testing.",
+      note:
+        "Editorial suitability recommendations based on the large working scent-hound role.",
     },
+
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The reviewed sources do not establish a reliable breed-specific family-with-children suitability assessment.",
+      note:
+        "The reviewed sources do not establish a reliable breed-specific family-with-children rating.",
     },
+
     funFacts: {
       reliability: "reliable_source",
       sources: [
-        { id: "fci-francais-tricolore-standard-2023", role: "verified", locator: "Classification and colour sections" },
-        { id: "fci-francais-tricolore-nomenclature", role: "verified", locator: "Definitive recognition date" },
+        {
+          id: "fci-francais-tricolore-standard-2023",
+          role: "verified",
+          locator: "Classification and colour sections",
+        },
+        {
+          id: "fci-francais-tricolore-nomenclature",
+          role: "verified",
+          locator: "Definitive recognition date",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Facts are drawn from the FCI standard and official nomenclature listing.",
+      verifiedOn: "2026-11-12",
+      note: "Facts are drawn from official conformation and nomenclature listings.",
     },
+
     faq: {
       reliability: "reliable_source",
       sources: [
-        { id: "fci-francais-tricolore-standard-2023", role: "verified", locator: "Use, size, coat and colour sections" },
-        { id: "fci-francais-tricolore-nomenclature", role: "verified", locator: "Recognition date" },
-        { id: "ukc-chien-francais-tricolore-standard", role: "verified", locator: "Breed description" },
+        {
+          id: "fci-francais-tricolore-standard-2023",
+          role: "verified",
+          locator: "Use, size, coat and colour sections",
+        },
+        {
+          id: "fci-francais-tricolore-nomenclature",
+          role: "verified",
+          locator: "Recognition date",
+        },
       ],
-      verifiedOn: "2026-10-26",
-      note: "Answers are limited to information supported by the consulted breed sources or clearly labelled practical suitability guidance.",
+      verifiedOn: "2026-11-12",
+      note:
+        "Answers reflect verified conformation facts and conservative suitability guidance.",
     },
   },
-  updatedOn: "2026-10-26",
+
+  updatedOn: "2026-11-12",
 };

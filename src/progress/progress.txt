@@ -98,13 +98,13 @@
 95:golden_retriever - CG
 96:bull_terrier - CG
 97:austrian_pinscher - CG
+98:swedish_lapphund - CG
+99:lhasa_apso - CG
+100:papillon_and_phalene - CG
+101:chien_francais_tricolore - CG
 
-98:swedish_lapphund - CR
+102:shar_pei - CR
 
-99:lhasa_apso - C
-100:papillon_and_phalene - C
-101:chien_francais_tricolore - C
-102:shar_pei - C
 103:kai_ken - C
 104:german_longhaired_pointer - C
 105:ibizan_hound - C
@@ -172,10 +172,11 @@
 167:halden_hound - C
 168:caucasian_shepherd_dog - C
 169:english_springer_spaniel - C
+170:alaskan_malamute - C
+171:landseer - C
 
-170:alaskan_malamute
-171:landseer
-172:welsh_corgi,_cardigan
+172:welsh_corgi,_cardigan - R
+
 173:carpathian_shepherd_dog
 174:kerry_blue_terrier
 175:basset_griffon_vendeen,_grand

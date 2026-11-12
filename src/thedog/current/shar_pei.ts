@@ -1,22 +1,24 @@
 import type { Breed } from "../../schema/breed.types";
 
-export const swedish_lapphund: Breed = {
-  slug: "swedish-lapphund",
-  name: "Swedish Lapphund",
+export const shar_pei: Breed = {
+  slug: "shar-pei",
+  name: "Shar Pei",
   scientificName: null,
   alternateNames: [
-    "Svensk Lapphund",
+    "Chinese Shar-Pei",
+    "Shar-Pei",
+    "Chinese Fighting Dog",
   ],
-  group: "Herding",
+  group: "Non-Sporting",
   origin: {
-    country: "Sweden",
+    country: "China",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "Medium-sized spitz-type herding dog with dense black double coat and curled tail, bred by the Sami people for reindeer herding. Known for its lively expression, intelligence, and versatile working ability as both herder and guardian.",
-    history: "Ancient Nordic spitz breed developed by the Sami people for herding and guarding reindeer in Arctic regions of Sweden. One of Sweden's three national breeds and oldest spitz breeds, officially recognized by Swedish Kennel Club in 1944.",
+    description: "An ancient Chinese breed known for its distinctive deep wrinkles, hippopotamus-like muzzle, blue-black tongue, and compact, medium-sized build with a calm, independent temperament",
+    history: "Ancient Chinese breed from southern provinces dating back to the Han Dynasty, originally used as all-purpose farm dog for hunting, herding, guarding, and farm work. Nearly extinct in mid-20th century but revived from very small population by dedicated breeders in 1970s",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -25,28 +27,28 @@ export const swedish_lapphund: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 43,
+        min: 46,
         max: 51,
       },
       female: {
-        min: 40,
-        max: 47,
+        min: 46,
+        max: 51,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 19,
-        max: 30,
+        min: 20,
+        max: 27,
       },
       female: {
-        min: 17,
-        max: 25,
+        min: 20,
+        max: 27,
       },
     },
     lifespanYears: {
-      min: 12,
-      max: 14,
+      min: 8,
+      max: 12,
     },
     coatType: null,
     coatLength: null,
@@ -75,12 +77,12 @@ export const swedish_lapphund: Breed = {
   },
   temperament: {
     traits: [
-      "Alert",
+      "Loyal",
+      "independent",
+      "calm",
+      "alert",
+      "protective",
       "intelligent",
-      "affectionate",
-      "friendly",
-      "energetic",
-      "loyal",
     ],
     scores: {
       affection: null,
@@ -162,7 +164,7 @@ export const swedish_lapphund: Breed = {
           locator: "breed.alt_names",
         },
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-12",
       note: null,
     },
     scientificName: {
@@ -180,7 +182,7 @@ export const swedish_lapphund: Breed = {
           locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-12",
       note: null,
     },
     "origin.country": {
@@ -192,7 +194,7 @@ export const swedish_lapphund: Breed = {
           locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-12",
       note: null,
     },
     "origin.region": {
@@ -216,7 +218,7 @@ export const swedish_lapphund: Breed = {
           locator: "breed.description",
         },
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-12",
       note: null,
     },
     "overview.history": {
@@ -228,7 +230,7 @@ export const swedish_lapphund: Breed = {
           locator: "breed.history",
         },
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-12",
       note: null,
     },
     "overview.originalPurpose": {
@@ -258,8 +260,8 @@ export const swedish_lapphund: Breed = {
           locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-11-11",
-      note: null,
+      verifiedOn: "2026-11-12",
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -270,7 +272,7 @@ export const swedish_lapphund: Breed = {
           locator: "breed.life_span",
         },
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-12",
       note: null,
     },
     "physical.coatType": {
@@ -294,7 +296,7 @@ export const swedish_lapphund: Breed = {
           locator: "GET /breeds/{id}/colours",
         },
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-12",
       note: "The colour endpoint lists variants registered for this breed, including variants applied across the species. Keep only the colours that belong to this breed.",
     },
     "physical.sheddingLevel": {
@@ -324,7 +326,7 @@ export const swedish_lapphund: Breed = {
           locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-12",
       note: null,
     },
     "temperament.scores.affection": {
@@ -612,8 +614,8 @@ export const swedish_lapphund: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-11-11",
-      note: null,
+      verifiedOn: "2026-11-12",
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
     "physical.weight.female.max": {
       reliability: "reliable_source",
@@ -624,9 +626,9 @@ export const swedish_lapphund: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-11-11",
-      note: null,
+      verifiedOn: "2026-11-12",
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
   },
-  updatedOn: "2026-11-11",
+  updatedOn: "2026-11-12",
 };
