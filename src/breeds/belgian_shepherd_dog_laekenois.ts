@@ -403,9 +403,9 @@ export const belgian_shepherd_dog_laekenois: Breed = {
   ],
 
   references: [
-    "fci-belgian-shepherd-dog-official-standard",
+    "fci-belgian-shepherd-dog-standard-15",
     "fci-belgian-shepherd-dog-nomenclature",
-    "srsh-berger-belge-laekenois-standard",
+    "srhk-belgian-shepherd-breed-standard",
     "akc-belgian-laekenois-breed-standard",
     "akc-belgian-laekenois-breed-profile",
     "the-kennel-club-belgian-shepherd-dog-laekenois-standard",
@@ -427,7 +427,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "Standard heading: CHIEN DE BERGER BELGE (Belgian Shepherd Dog) — Variety: Laekenois"
         },
@@ -437,7 +437,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
           locator: "Official nomenclature: BELGIAN SHEPHERD DOG (15), Berger Belge, Belgischer Schäferhund, Perro de Pastor Belga"
         },
         {
-          id: "srsh-berger-belge-laekenois-standard",
+          id: "srhk-belgian-shepherd-breed-standard",
           role: "verified",
           locator: "Variété: Berger Belge Laekenois / Lakense Herder"
         },
@@ -455,7 +455,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 Sheepdogs; with working trial"
         },
@@ -484,7 +484,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "ORIGIN: Belgium; BRIEF HISTORICAL SUMMARY (Laeken)"
         },
@@ -494,7 +494,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
           locator: "Country of origin: Belgium"
         },
         {
-          id: "srsh-berger-belge-laekenois-standard",
+          id: "srhk-belgian-shepherd-breed-standard",
           role: "verified",
           locator: "Origine: Belgique (Château Royal de Laeken)"
         }
@@ -507,12 +507,12 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, VARIETIES (Laekenois)"
         },
         {
-          id: "srsh-berger-belge-laekenois-standard",
+          id: "srhk-belgian-shepherd-breed-standard",
           role: "verified",
           locator: "Historique (Professeur Adolphe Reul 1891, Laeken), utilisation et caractère"
         },
@@ -531,12 +531,12 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT (Rough-haired / Laekenois), COLOUR, SIZE"
         },
         {
-          id: "srsh-berger-belge-laekenois-standard",
+          id: "srhk-belgian-shepherd-breed-standard",
           role: "verified",
           locator: "Morphologie carrée, poil dur de 6 cm, garniture du museau, couleur fauve charbonné"
         },
@@ -555,12 +555,12 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "SIZE, WEIGHT AND MEASUREMENTS: Ideal height at withers: 62 cm for males, 58 cm for females. Limits: 2 cm less, 4 cm more (60-66 cm males, 56-62 cm females)."
         },
         {
-          id: "srsh-berger-belge-laekenois-standard",
+          id: "srhk-belgian-shepherd-breed-standard",
           role: "verified",
           locator: "Taille au garrot: Mâles idéal 62 cm (60-66 cm); Femelles idéal 58 cm (56-62 cm)"
         },
@@ -579,12 +579,12 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "Weight: Males about 25-30 kg; Females about 20-25 kg."
         },
         {
-          id: "srsh-berger-belge-laekenois-standard",
+          id: "srhk-belgian-shepherd-breed-standard",
           role: "verified",
           locator: "Poids: Mâles environ 25 à 30 kg; Femelles environ 20 à 25 kg"
         },
@@ -608,7 +608,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
           locator: "Life Expectancy: 10-12 years (up to 14 years in European health records)"
         },
         {
-          id: "srsh-berger-belge-laekenois-standard",
+          id: "srhk-belgian-shepherd-breed-standard",
           role: "verified",
           locator: "Longévité moyenne de la race (12-14 ans)"
         }
@@ -626,7 +626,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
           locator: "Breed Traits: Shedding Level (3/5)"
         },
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "COAT: Rough, harsh, dry double coat with woolly undercoat"
         }
@@ -639,7 +639,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "Lips: Thin, well-tightened and strongly pigmented"
         },
@@ -657,7 +657,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "BEHAVIOUR/TEMPERAMENT: Watchful and active, bursting with energy, always ready to act; innate sheepdog guarding ability, defender of master"
         },
@@ -699,7 +699,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
           locator: "Grooming, Exercise, Training, and Nutrition"
         },
         {
-          id: "srsh-berger-belge-laekenois-standard",
+          id: "srhk-belgian-shepherd-breed-standard",
           role: "cited",
           locator: "Entretien du poil dur et besoins d'activité"
         }
@@ -718,7 +718,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
           locator: "Energy Level (5/5); Exercise Needs (5/5)"
         },
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "UTILIZATION: Working sheepdog and guard dog bursting with energy"
         }
@@ -777,7 +777,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "COAT: Weather-resistant rough double coat adapted to Belgian climate"
         },
@@ -900,7 +900,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "cited",
           locator: "Jaws/teeth: strong white teeth, scissor bite, complete dentition"
         },
@@ -918,7 +918,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "cited",
           locator: "Ears: rather small, set high, distinctly triangular, stiffly erect"
         },
@@ -936,7 +936,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "cited",
           locator: "Skin: elastic, well stretched over the body; rough dry coat"
         }
@@ -973,7 +973,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
           locator: "Rarity (~1,000-1,500 worldwide), Royal Castle of Laeken & Queen Marie Henriette, linen bleaching field guard role, World War messenger service"
         },
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "Brief historical summary: Four Belgian varieties classified as one breed in FCI vs separate breeds in North America"
         }
@@ -986,7 +986,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-official-standard",
+          id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
           locator: "Origin, height (60-66 cm / 56-62 cm), weight (25-30 kg / 20-25 kg), coat, and differences from Malinois/Tervueren/Groenendael"
         },

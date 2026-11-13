@@ -172,6 +172,8 @@ export const FACT_PATHS = [
   "physical.sizeCategory",
   "physical.height",
   "physical.weight",
+  "physical.height.male.max",
+  "physical.height.female.max",
   "physical.lifespanYears",
   "physical.coatType",
   "physical.coatLength",

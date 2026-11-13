@@ -182,6 +182,11 @@ import { kerry_blue_terrier } from "./kerry_blue_terrier";
 import { basset_griffon_vendeen_grand } from "./basset_griffon_vendeen_grand";
 import { irish_water_spaniel } from "./irish_water_spaniel";
 import { belgian_shepherd_dog_laekenois } from "./belgian_shepherd_dog_laekenois";
+import { bouvier_des_flandres } from "./bouvier_des_flandres";
+import { basset_fauve_de_bretagne } from "./basset_fauve_de_bretagne";
+import { australian_cattle_dog } from "./australian_cattle_dog";
+import { grand_anglo_francais_blanc_et_noir } from "./grand_anglo_francais_blanc_et_noir";
+import { picardy_spaniel } from "./picardy_spaniel";
 
 
 export const breedData: readonly Breed[] = [
@@ -363,4 +368,9 @@ export const breedData: readonly Breed[] = [
   basset_griffon_vendeen_grand,
   irish_water_spaniel,
   belgian_shepherd_dog_laekenois,
+  bouvier_des_flandres,
+  basset_fauve_de_bretagne,
+  australian_cattle_dog,
+  grand_anglo_francais_blanc_et_noir,
+  picardy_spaniel,
 ];

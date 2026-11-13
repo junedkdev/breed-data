@@ -108,13 +108,12 @@
 105:ibizan_hound - CG
 106:black_norwegian_elkhound - CG
 107:australian_silky_terrier - CG
+108:american_bulldog - CG
+109:cairn_terrier - CG
+110:kooikerhondje - CG
+111:norfolk_terrier - CG
+112:central_asian_shepherd_dog - CG
 
-108:american_bulldog - CR
-
-109:cairn_terrier - C
-110:kooikerhondje - C
-111:norfolk_terrier - C
-112:central_asian_shepherd_dog - C
 113:drever - C
 114:perro_de_presa_mallorquin - C
 115:epagneul_bleu_de_picardie - C
@@ -180,12 +179,12 @@
 175:basset_griffon_vendeen,_grand - C
 176:irish_water_spaniel - C
 177:belgian_shepherd_dog_(laekenois) - C
+178:bouvier_des_flandres - C
+179:basset_fauve_de_bretagne - C
+180:australian_cattle_dog - C
+181:grand_anglo-francais_blanc_et_noir - C
+182:picardy_spaniel - C
 
-178:bouvier_des_flandres
-179:basset_fauve_de_bretagne
-180:australian_cattle_dog
-181:grand_anglo-francais_blanc_et_noir
-182:picardy_spaniel
 183:dogo_argentino
 184:greater_swiss_mountain_dog
 185:greyhound

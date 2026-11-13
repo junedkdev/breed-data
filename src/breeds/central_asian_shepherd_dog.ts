@@ -7,51 +7,53 @@ export const central_asian_shepherd_dog: Breed = {
   alternateNames: [
     "Central Asia Shepherd Dog",
     "Sredneasiatskaya Ovtcharka",
+    "Sredneaziatskaïa Ovtcharka",
     "Central Asian Ovcharka",
+    "Central Asian Ovtcharka",
     "Alabai",
     "Alabay",
   ],
   group:
     "FCI Group 2 — Pinscher and Schnauzer type, Molossoid breeds, Swiss Mountain and Cattle Dogs; Section 2.2 — Molossoid breeds, Mountain type",
   origin: {
-    country: "Russian Federation (FCI nomenclature; the breed standard describes its origin as the USSR)",
+    country: "Russian Federation (patronage country; historically developed across the former USSR)",
     region:
-      "Central Asia, with a historical range extending from the Caspian Sea to China and from the Southern Urals to Afghanistan",
+      "Central Asia, spanning a historical range from the Caspian Sea to China and from the Southern Urals to Afghanistan",
   },
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Central_Asian_Shepherd_Dog.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Central_Asian_Shepherd_Dog._New.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Central_Asian_Shepherd_Dog.jpg",
-      title: "Central Asian Shepherd Dog.jpg",
+        "https://commons.wikimedia.org/wiki/File:Central_Asian_Shepherd_Dog._New.jpg",
+      title: "Central Asian Shepherd Dog. New.jpg",
       description: "A Central Asian Shepherd Dog.",
       creator: "Hegedustaypan",
       uploader: "Hegedustaypan",
       capturedOn: "2025-04-06",
       uploadedOn: "2025-11-14",
       width: 1284,
-      height: 2021,
+      height: 2020,
       licenseId: "cc0-1.0",
       attribution:
-        "Photo by Hegedustaypan, Wikimedia Commons, dedicated to the public domain under CC0 1.0. Attribution is not required by the license but is provided as a courtesy.",
+        "Photo by Hegedustaypan, Wikimedia Commons, dedicated to the public domain under CC0 1.0. Attribution is not required by the license, though provided as a courtesy.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-27",
+      metadataCheckedOn: "2026-11-13",
     },
   ],
   overview: {
     summary:
-      "The Central Asian Shepherd Dog is a large, powerful livestock guardian developed across the broad Central Asian region. Independent, composed, and naturally territorial, it was traditionally expected to protect livestock, property, and people from predators and other threats.",
+      "The Central Asian Shepherd Dog is a massive, powerful guardian breed shaped over millennia across Central Asia. Calm, self-reliant, and strongly territorial, it was bred to defend livestock, caravans, and homesteads against predators and intruders.",
     description:
-      "This substantial, muscular dog has a broad, powerful head, a deep chest, strong bone, and a dense double coat. Its outer coat may be shorter or longer, with longer coats forming a neck mane and feathering behind the ears, on the limbs, and on the tail. The breed is known for self-confidence, endurance, independence, and a strong instinct to guard its territory. These qualities can be valuable in experienced working homes, but they also mean that early socialization, secure containment, thoughtful introductions, and responsible adult handling are essential. It is not simply a large companion dog: its size, maturity, guarding instincts, and independent decision-making require a realistic long-term plan.",
+      "Built with heavy bone, deep chest capacity, and balanced musculature, this giant guardian carries a broad, nearly rectangular head and a thick double coat. Its outer hair may be shorter or longer, with longer coats forming a neck mane and feathering on the ears, backs of the legs, and tail. Composed and confident around familiar people, the breed combines endurance with an innate drive to patrol and protect its territory. Because of its strength, slow maturation, and independent judgment, it requires early socialization, secure fencing, and an experienced handler committed to lifelong management.",
     history:
-      "The Central Asian Shepherd Dog developed through natural selection across a vast area of Central Asia. Dogs in this population were used by pastoral communities to protect herds, caravans, and dwellings, and they faced demanding terrain, changing climates, and threats from predators. The resulting dogs were valued for strength, endurance, courage, and the ability to work with limited direction. Organized breed work began in the USSR during the twentieth century, while regional working populations continued to differ in appearance and type.",
+      "Shaped by thousands of years of natural selection across harsh climates from the Caspian Sea to China and from the Southern Urals to Afghanistan, the Central Asian Shepherd Dog shares ancient roots with Tibetan and Mongolian guardian lineages. Pastoral communities relied on these dogs to protect herds, trade caravans, and dwellings against large predators with minimal human direction. Formal breeding programs began in the Soviet Union during the 1930s, while regional working populations continued to reflect local conditions.",
     originalPurpose:
-      "Guarding livestock, herds, caravans, and the owner's dwelling, including protection against predators.",
+      "Protecting herds, livestock, caravans, and family dwellings against predators and intruders.",
     currentRoles: [
-      "Livestock guardian in a suitable working environment",
-      "Property and perimeter guardian where lawful and responsibly managed",
-      "Companion for experienced owners able to manage a large guardian breed",
-      "Breed preservation and conformation activities",
+      "Livestock and flock guardian in working rural settings",
+      "Property and perimeter guardian where lawful and securely contained",
+      "Companion for experienced handlers prepared for a large guardian breed",
+      "Conformation and breed preservation",
     ],
   },
   physical: {
@@ -83,9 +85,9 @@ export const central_asian_shepherd_dog: Breed = {
       max: 15,
     },
     coatType:
-      "Abundant, coarse double coat with a straight outer coat and a well-developed undercoat.",
+      "Thick, straight, coarse double coat paired with a dense, well-developed undercoat.",
     coatLength:
-      "The outer coat may be short, approximately 3–5 cm, or longer, approximately 7–10 cm. Longer coats can form a neck mane and feathering behind the ears, on the backs of the limbs, and on the tail. Hair on the head and front of the limbs is shorter and dense.",
+      "Outer coat length occurs in two varieties: shorter hair measuring roughly 3–5 cm across the body, or longer hair measuring 7–10 cm that creates a mane around the neck and feathering behind the ears, on the rear of the legs, and on the tail. Hair on the head and front of the limbs stays short and dense.",
     coatColors: [
       "White",
       "Black",
@@ -95,33 +97,32 @@ export const central_asian_shepherd_dog: Breed = {
       "Brindle",
       "Piebald",
       "Spotted",
-      "Other colours and combinations permitted by the breed standard, except genetic blue, genetic brown, and a black mantle on tan",
+      "Other colours and combinations, except genetic blue, genetic brown, and a black mantle on tan",
     ],
     sheddingLevel:
-      "Seasonal shedding can be substantial, particularly during the annual coat change. The dense undercoat means loose hair may accumulate heavily during shedding periods.",
+      "Seasonal shedding is heavy during annual coat blowouts, when the thick undercoat releases substantial loose hair.",
     droolingLevel: null,
     distinctiveFeatures: [
-      "Large, powerful frame with strong bone and substantial musculature.",
-      "Body moderately long, with proportions that remain balanced rather than exaggerated.",
-      "Massive, nearly rectangular head with a broad, deep muzzle.",
-      "Medium-sized, thick, triangular ears that hang close to the head.",
-      "Deep chest, broad back, and powerful limbs suited to sustained outdoor work.",
-      "Thick, elastic skin and a dense coat adapted to demanding working conditions.",
-      "A thick-based tail carried in a sickle curve or loose ring when alert, naturally hanging at rest.",
-      "Males are generally more massive than females, with more pronounced withers and a larger head.",
+      "Massive, muscular build with heavy bone and slightly longer-than-tall proportions.",
+      "Broad, nearly rectangular head with a deep, blunt muzzle and strong jaws.",
+      "Medium-sized, thick, triangular ears set low and hanging close to the cheeks.",
+      "Deep, broad chest reaching at least to the elbows and a muscular, low-set neck with a dewlap.",
+      "Thick, loose, elastic skin that helps shield the body during confrontations with predators.",
+      "High-set, thick-based tail carried in a sickle curve or loose ring when alert and hanging at rest.",
+      "Marked sexual dimorphism, with males noticeably heavier, larger-headed, and more pronounced at the withers than females.",
     ],
   },
   temperament: {
     traits: [
-      "Self-assured",
-      "Calm and balanced when mature and well managed",
+      "Self-confident",
+      "Calm and steady when mature",
       "Independent",
-      "Courageous",
-      "Territorial",
-      "Protective of livestock, property, or familiar people",
-      "Reserved or suspicious toward unfamiliar people",
-      "Capable of making decisions without continuous handler direction",
-      "May be intolerant of unfamiliar dogs or perceived intruders",
+      "Fearless",
+      "Strongly territorial",
+      "Protective of family, livestock, and property",
+      "Wary or reserved with unfamiliar people",
+      "Makes autonomous guarding decisions without constant cues",
+      "May show intolerance toward unfamiliar dogs or perceived intruders",
     ],
     scores: {
       affection: 3,
@@ -138,109 +139,109 @@ export const central_asian_shepherd_dog: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate, with an emphasis on purposeful movement, space, and controlled activity rather than repetitive high-impact exercise. A working guardian may cover substantial ground while monitoring its territory. Exercise should be adapted to age, body condition, climate, and joint health.",
+        "Moderate, favouring steady, purposeful movement and secure patrolling space over repetitive high-impact drills. Daily activity should match the dog's age, joint development, weight, and local weather.",
       minutesPerDay: null,
       activities: [
-        "Controlled daily walks in secure, manageable settings",
-        "Supervised movement around a safely fenced property",
-        "Calm environmental observation and scent exploration",
-        "Reward-based handling and cooperation exercises",
-        "Age-appropriate activity that avoids excessive impact during growth",
-        "Structured work appropriate to livestock-guardian instincts, where the owner has the necessary experience",
+        "Structured daily walks on a sturdy lead in controlled settings",
+        "Supervised patrolling and exploration inside securely fenced grounds",
+        "Low-impact scent work and calm environmental enrichment",
+        "Reward-based handling, gating, and cooperative care practice",
+        "Gradual, joint-friendly movement for growing puppies",
+        "Structured livestock-guarding work under experienced management",
       ],
     },
     grooming: {
-      level: "Low to moderate outside heavy shedding periods; higher during seasonal coat change",
+      level: "Low to moderate most of the year; high during seasonal coat blowouts",
       brushing:
-        "Brush regularly to remove loose undercoat and check the skin. Increase brushing during heavy shedding, and work through dense areas carefully rather than pulling at tangles. Coat length and the individual dog's shedding pattern affect the time required.",
+        "Brush weekly during normal periods to clear loose hair and inspect the skin, increasing to frequent sessions during seasonal shedding to work gently through the dense undercoat.",
       bathing:
-        "Bathe when the coat is dirty or requires cleaning. Use a dog-appropriate shampoo, rinse thoroughly, and dry the dense coat fully, especially in cooler conditions.",
+        "Bathe only when soiled using a canine-safe shampoo, then rinse and dry the thick undercoat completely to prevent trapped moisture.",
       notes: [
-        "Expect more loose hair during the seasonal coat change.",
-        "Inspect the skin during brushing, particularly beneath dense coat areas.",
-        "Trim nails as needed and check paws after outdoor work.",
-        "Check ears regularly for debris, odour, redness, or irritation.",
-        "Brush teeth regularly with dog-specific toothpaste.",
-        "Avoid shaving a double coat unless a veterinarian recommends it for a specific medical reason.",
+        "Plan for heavy hair release during annual coat changes.",
+        "Part the coat while brushing to check the skin for irritation or parasites.",
+        "Trim nails regularly and inspect paw pads after outdoor patrols.",
+        "Check hanging ears routinely for wax buildup, odour, or redness.",
+        "Brush teeth regularly with dog-safe toothpaste.",
+        "Do not shave the double coat unless advised by a veterinarian for medical care.",
       ],
     },
     training: {
       difficulty:
-        "High. This independent guardian is not typically motivated to obey every cue automatically. Training requires consistent boundaries, humane methods, practical management, and an experienced handler who understands guarding behaviour.",
+        "High. Bred to think and act independently, this guardian rarely responds with automatic obedience. Successful training relies on patient, reward-based leadership, clear boundaries, and reliable physical management.",
       tips: [
-        "Begin positive, structured socialization early and continue it throughout adulthood.",
-        "Teach cooperative handling, recall, lead manners, settling, and safe separation.",
-        "Use reward-based training and clear, consistent expectations.",
-        "Do not encourage aggression or stage confrontations to make the dog more protective.",
-        "Use secure fencing, gates, leads, and management rather than relying on obedience alone.",
-        "Introduce unfamiliar people and dogs deliberately, with distance and supervision.",
-        "Seek a qualified professional experienced with livestock guardians or large guardian breeds if behaviour becomes difficult to manage.",
-        "Plan for a long maturation period; the FCI standard notes that full maturity may not be reached until around 3 years of age.",
+        "Start structured, positive socialization early in puppyhood and maintain it into adulthood.",
+        "Prioritize practical skills such as recall, loose-lead walking, settling on cue, and cooperative veterinary handling.",
+        "Use consistent, humane reinforcement rather than harsh corrections.",
+        "Never encourage aggression or stage protective scenarios.",
+        "Rely on secure perimeter fencing, locked gates, and sturdy leads rather than voice control alone.",
+        "Manage introductions to unfamiliar guests and dogs calmly, with ample distance and supervision.",
+        "Consult a qualified behaviour professional experienced with livestock guardians if challenges arise.",
+        "Allow for slow development, as full physical and behavioural maturity may not arrive until around 3 years of age.",
       ],
       socialization:
-        "Arrange gradual, positive exposure to people, dogs, handling, transport, veterinary procedures, and everyday environments while protecting the puppy from overwhelming encounters. Socialization is not a promise that a guardian will welcome every stranger. Continue practising safe introductions and use management throughout the dog's life.",
+        "Provide calm, positive exposure to varied people, animals, surfaces, transport, and veterinary handling without overwhelming the young dog. Even well-socialized adults remain naturally selective toward strangers, so lifelong supervision and visitor management remain essential.",
     },
     livingEnvironment: {
       apartmentSuitable: false,
       houseWithYardSuitable: true,
       climates: [
-        "Cold climates, with appropriate shelter and care",
+        "Cold climates, with dry, insulated shelter",
         "Temperate climates",
-        "Warmer climates only with reliable shade, fresh water, ventilation, and activity scheduled for cooler periods",
+        "Warm climates only with reliable shade, fresh water, ventilation, and cooler-hour exercise",
       ],
       aloneTimeTolerance:
-        "Individual tolerance varies. The breed's independence does not mean that it should be left without care, supervision, shelter, enrichment, or social contact for long periods. A secure environment and a responsible daily care plan are essential.",
+        "Moderate in familiar territory, though independence does not replace daily care, social bond, shelter, and supervision. Secure containment and structured daily routines are essential.",
     },
   },
   nutrition: {
     dietType:
-      "Complete and balanced dog food suitable for the dog's life stage, growth rate, body condition, activity, and veterinary needs.",
+      "Complete, balanced canine diet formulated for large or giant breeds and matched to life stage, body condition, and activity level.",
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
     guidelines:
-      "Feed measured portions and monitor growth and body condition with a veterinarian. Large and giant-breed puppies need a suitable growth diet; avoid uncontrolled growth and excessive supplementation. Adjust adult portions to activity and condition rather than assuming that a large dog always needs more food. Keep fresh water available at all times.",
+      "Measure every meal and monitor growth rate and rib cover with a veterinarian. Growing puppies require balanced large-breed formulas to avoid overly rapid skeletal growth or excess mineral supplementation. Adjust adult portions to keep the dog lean rather than overfeeding based on size alone, and keep fresh water available at all times.",
     considerations: [
-      "Use a complete diet formulated for large or giant-breed growth during puppyhood.",
-      "Avoid unnecessary calcium or mineral supplements unless directed by a veterinarian.",
-      "Keep the dog in a lean, healthy body condition to reduce avoidable stress on joints.",
-      "Divide meals according to individual needs and veterinary advice rather than using an unsupported breed-wide schedule.",
-      "Ask a veterinarian about safe feeding and activity timing if the dog is at risk of gastric dilatation-volvulus.",
-      "Account for treats and training rewards in total daily intake.",
+      "Feed a complete large- or giant-breed puppy diet during growth rather than adult or all-life-stage formulas without veterinary guidance.",
+      "Avoid adding extra calcium or mineral supplements unless prescribed by a veterinarian.",
+      "Maintain a lean body condition to protect developing and adult joints.",
+      "Set meal schedules with veterinary guidance rather than following a rigid breed-wide rule.",
+      "Discuss bloat-prevention feeding and rest routines around meals with a veterinarian.",
+      "Count training treats toward total daily calories.",
     ],
     note:
-      "No single portion size or meal frequency is appropriate for every Central Asian Shepherd Dog. Age, growth, body condition, food energy density, activity, and health must guide feeding decisions.",
+      "Exact portion sizes and meal counts vary by age, growth stage, metabolism, food calorie density, and workload.",
   },
   health: {
     overview:
-      "The breed is built for demanding work, but its large size does not eliminate inherited or age-related health risks. Hip dysplasia and elbow dysplasia are specifically mentioned in the consulted breed guidance. Responsible owners should ask breeders about health history and screening, maintain a healthy body condition, and arrange veterinary care suited to a giant-breed dog. Breed-level risk information cannot predict an individual dog's health.",
+      "While natural selection produced a hardy working dog with fewer inherited disorders than many heavily modified breeds, its giant frame still carries orthopedic and age-related risks. Hip dysplasia and elbow dysplasia are documented concerns in breed guidance, and deep-chested proportions warrant awareness of gastric dilatation-volvulus. Prospective owners should review parental health clearances and maintain lean weight throughout life.",
     commonConditions: [
-      "Hip dysplasia, a developmental condition affecting the hip joints.",
-      "Elbow dysplasia, a group of developmental problems affecting the elbow joint.",
-      "Gastric dilatation-volvulus (bloat) is a serious emergency that can affect large, deep-chested dogs; breed-specific prevalence was not established by the consulted sources.",
-      "Joint strain and mobility problems can be worsened by excess body weight or inappropriate high-impact exercise during growth.",
+      "Hip dysplasia, a developmental malformation of the hip joint that can lead to arthritis.",
+      "Elbow dysplasia, a developmental abnormality of the elbow joint causing lameness and joint wear.",
+      "Gastric dilatation-volvulus (bloat), a life-threatening stomach twist that poses a risk to deep-chested giant dogs, though breed-specific prevalence is not established.",
+      "Secondary joint strain or osteoarthritis aggravated by excess weight or heavy impact during growth.",
     ],
     preventiveCare: [
-      "Ask breeders for documented hip and elbow evaluation results and details of health issues in related dogs.",
-      "Arrange regular veterinary examinations, including assessment of gait, joints, body condition, and general health.",
-      "Keep the dog lean and use an appropriate diet throughout growth.",
-      "Build activity gradually and avoid repetitive high-impact exercise while the skeleton is developing.",
-      "Learn the emergency signs of gastric dilatation-volvulus, including unproductive retching, a swollen abdomen, restlessness, and sudden deterioration; seek emergency veterinary care if suspected.",
-      "Maintain parasite prevention, dental care, nail care, and routine vaccination according to veterinary advice.",
+      "Request documented hip and elbow screening results and multi-generation health history from breeders.",
+      "Schedule routine veterinary exams to monitor gait, joint comfort, teeth, and body condition.",
+      "Keep the dog lean and feed a controlled-growth diet during puppyhood.",
+      "Avoid repetitive jumping or forced running on hard surfaces until skeletal maturity.",
+      "Learn emergency signs of bloat—such as unproductive retching, abdominal swelling, and sudden restlessness—and seek immediate veterinary care if they appear.",
+      "Keep vaccinations, parasite control, nail trims, and dental hygiene up to date.",
     ],
     recommendedScreenings: [
-      "Hip dysplasia evaluation, discussed with the breeder and veterinarian.",
-      "Elbow dysplasia evaluation, discussed with the breeder and veterinarian.",
-      "Additional testing based on family history, clinical examination, and advice from a veterinarian familiar with the breed.",
+      "Hip dysplasia radiographic evaluation.",
+      "Elbow dysplasia radiographic evaluation.",
+      "Additional targeted screenings guided by family history and veterinary advice.",
     ],
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste and arrange routine veterinary oral checks. Seek veterinary care for gum inflammation, oral pain, broken teeth, persistent bad breath, or difficulty eating.",
+      "Brush teeth regularly using canine toothpaste and schedule periodic veterinary oral exams. Have red gums, broken teeth, persistent bad breath, or chewing reluctance checked promptly.",
     earCare:
-      "Inspect the hanging ears regularly for debris, wax, odour, redness, or scratching. Clean only as needed with a veterinarian-approved product and seek advice if irritation or discharge persists.",
+      "Check the hanging ears weekly for wax, debris, odour, or redness. Clean gently with a veterinarian-approved solution when needed and seek care for ongoing irritation.",
     skinCare:
-      "Inspect the dense coat and skin during brushing. Check for parasites, sores, irritation, and damp areas hidden by the undercoat. Seek veterinary advice for persistent itching, scaling, hair loss, or skin lesions.",
+      "Inspect beneath the dense undercoat during brushing for hotspots, parasites, sores, or trapped dampness. Consult a veterinarian for persistent itching, hair loss, or skin lesions.",
   },
   suitability: {
     firstTimeOwners: false,
@@ -249,73 +250,73 @@ export const central_asian_shepherd_dog: Breed = {
     activeOwners: true,
     apartmentLiving: false,
     idealFor: [
-      "Experienced owners who understand livestock-guardian and territorial behaviour",
-      "Suitable rural or working homes with secure boundaries",
-      "Handlers able to provide early socialization and lifelong management",
-      "Households prepared for the cost, space, strength, and long-term care of a giant dog",
-      "Owners who can consult qualified professionals when guardian behaviour needs support",
+      "Experienced owners familiar with livestock-guardian instincts and territorial behaviour",
+      "Rural or spacious properties equipped with tall, secure perimeter fencing",
+      "Handlers committed to early socialization and lifelong visitor management",
+      "Households prepared for the physical strength, food cost, and veterinary care of a giant breed",
+      "Owners willing to work with qualified guardian-breed trainers when needed",
     ],
     notIdealFor: [
-      "First-time dog owners without access to experienced guidance",
-      "Homes that expect every visitor or unfamiliar dog to be welcomed freely",
-      "Properties without secure fencing and safe visitor-management arrangements",
-      "Owners who need a highly biddable dog that follows every cue immediately",
-      "Small living spaces without adequate room and an appropriate daily routine",
-      "Households unable to manage a powerful dog around children, visitors, or other animals",
+      "First-time dog owners without experienced support",
+      "Households expecting a dog that welcomes all guests and unfamiliar dogs",
+      "Properties lacking secure fencing or safe separation areas for visitors",
+      "Owners seeking a highly biddable dog for off-lead obedience",
+      "Apartments or cramped urban living spaces",
+      "Homes unable to supervise and physically manage a powerful giant dog",
     ],
   },
   funFacts: [
-    "The breed's historical range covered a very large area, from the Caspian Sea toward China and from the Southern Urals toward Afghanistan.",
-    "The FCI standard describes a working history centred on guarding herds, caravans, and dwellings.",
-    "The outer coat may be short or longer enough to form a mane and feathering.",
-    "The FCI standard notes that full maturity may not be reached until around 3 years of age.",
-    "Natural tail carriage is accepted by the FCI standard; traditional docking is not required by the standard.",
+    "Its ancestral range stretched across vast terrain from the Caspian Sea toward China and from the Southern Urals toward Afghanistan.",
+    "Traditional duties centred on guarding nomadic livestock herds, trade caravans, and family homesteads against large predators.",
+    "The double coat occurs in both a shorter 3–5 cm variety and a longer 7–10 cm variety with a neck mane and leg feathering.",
+    "Unlike faster-maturing breeds, this giant guardian may take around 3 years to reach full physical and behavioural maturity.",
+    "Natural, uncropped ears and natural sickle- or ring-carried tails are fully accepted in modern breed standards.",
   ],
   faq: [
     {
       question: "What was the Central Asian Shepherd Dog bred to do?",
       answer:
-        "It developed as a livestock and property guardian. Its traditional work included protecting herds, caravans, and dwellings from threats, including predators.",
+        "It developed as an independent guardian of livestock, caravans, and homesteads, prized for deterring large predators across harsh Central Asian terrain.",
     },
     {
       question: "How large is a Central Asian Shepherd Dog?",
       answer:
-        "The FCI standard lists a minimum height at the withers of 70 cm for males and 65 cm for females. It lists minimum weights of 50 kg for males and 40 kg for females. These are minimums, not maximums.",
+        "Males stand at least 70 cm at the withers and weigh at least 50 kg, while females stand at least 65 cm and weigh at least 40 kg. These figures represent minimums rather than upper limits.",
     },
     {
       question: "How long does a Central Asian Shepherd Dog live?",
       answer:
-        "Dogs Victoria lists an average lifespan of 12 to 15 years. Individual lifespan varies with genetics, health, and care.",
+        "Average lifespan is typically 12 to 15 years, though individual longevity depends on genetics, nutrition, weight management, and veterinary care.",
     },
     {
       question: "Is the Central Asian Shepherd Dog suitable for a first-time owner?",
       answer:
-        "It is generally a challenging choice for a first-time owner because of its size, independence, territorial instincts, and need for secure management. Experienced guidance and realistic expectations are important.",
+        "Generally no. Its immense strength, independent decision-making, and territorial instincts require an experienced handler and secure property management.",
     },
     {
       question: "Can this breed live in an apartment?",
       answer:
-        "Apartment living is generally a poor match for its size and guardian needs. A secure, appropriately managed environment with enough room and a suitable routine is more realistic.",
+        "Apartment living is poorly suited to a giant territorial guardian. It thrives best in a spacious, securely fenced home with room to move and clear boundaries.",
     },
     {
       question: "Does the Central Asian Shepherd Dog shed?",
       answer:
-        "Yes. It has a dense double coat and may shed heavily during seasonal coat change. Regular brushing and extra coat care during shedding periods help manage loose undercoat.",
+        "Yes. Its dense double coat sheds moderately year-round and heavily during seasonal coat changes, requiring thorough brushing during blowouts.",
     },
     {
       question: "What health tests should I ask a breeder about?",
       answer:
-        "Ask for documented hip and elbow evaluation results and the health history of related dogs. Discuss any additional screening with a veterinarian who understands the breed and the breeder's lines.",
+        "Request official hip and elbow dysplasia evaluations for both parents along with health records from related dogs, and review any line-specific concerns with your veterinarian.",
     },
     {
       question: "Is the breed naturally protective?",
       answer:
-        "It has a strong territorial and guarding instinct. That instinct should be managed responsibly; deliberately encouraging aggression is unsafe and unnecessary.",
+        "Yes. Territorial vigilance and protective instincts are deeply ingrained, so owners should focus on calm socialization and safe containment rather than encouraging aggression.",
     },
     {
       question: "Does it need intensive exercise every day?",
       answer:
-        "Its needs depend on age, health, environment, and whether it performs appropriate working activity. Controlled daily movement, safe space, and purposeful activity are important, but there is no verified universal daily-minute figure for every dog of this breed.",
+        "It needs steady, purposeful daily movement and space to patrol rather than frantic high-impact exercise, with exact duration tailored to age, weather, and joint health.",
     },
   ],
   references: [
@@ -323,6 +324,7 @@ export const central_asian_shepherd_dog: Breed = {
     "dogs-victoria-central-asian-shepherd-dog",
     "american-kennel-club-central-asian-shepherd-dog-guide",
     "commons-central-asian-shepherd-dog-hegedustaypan",
+    "the-dog-api",
   ],
   evidence: {
     scientificName: {
@@ -330,7 +332,7 @@ export const central_asian_shepherd_dog: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Conventional scientific designation for the domestic dog; it is not a breed-specific taxonomic distinction.",
+        "Conventional scientific name for the domestic dog; not a breed-specific classification.",
     },
     alternateNames: {
       reliability: "reliable_source",
@@ -340,10 +342,15 @@ export const central_asian_shepherd_dog: Breed = {
           role: "verified",
           locator: "Breed heading: Sredneasiatskaya Ovtcharka (Central Asia Shepherd Dog)",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "The FCI name and Russian form are included; other common names are included as familiar breed synonyms.",
+        "Includes official standard transliteration alongside spellings from The Dog API and common regional synonyms.",
     },
     group: {
       reliability: "official_standard",
@@ -351,12 +358,12 @@ export const central_asian_shepherd_dog: Breed = {
         {
           id: "fci-central-asian-shepherd-dog-standard-335",
           role: "verified",
-          locator: "FCI classification, Group 2, Section 2.2",
+          locator: "FCI-Classification: Group 2, Section 2.2",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Classification follows the FCI nomenclature; other kennel organisations may use different group labels.",
+        "Follows FCI Group 2 Section 2.2 classification; Dogs Victoria places the breed in Group 6 (Utility) and The Dog API lists Working.",
     },
     origin: {
       reliability: "reliable_source",
@@ -364,12 +371,17 @@ export const central_asian_shepherd_dog: Breed = {
         {
           id: "fci-central-asian-shepherd-dog-standard-335",
           role: "verified",
-          locator: "Origin and brief historical summary",
+          locator: "Origin and brief historical summary, page 3",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "The FCI nomenclature lists the Russian Federation, while the standard describes the origin as the USSR in the regions of Central Asia and gives a broad historical range.",
+        "FCI lists origin as USSR (Regions of Central Asia) under Russian patronage, spanning the Caspian Sea to China and Southern Urals to Afghanistan.",
     },
     overview: {
       reliability: "reliable_source",
@@ -377,17 +389,22 @@ export const central_asian_shepherd_dog: Breed = {
         {
           id: "fci-central-asian-shepherd-dog-standard-335",
           role: "verified",
-          locator: "Brief historical summary, utilization, general appearance and temperament",
+          locator: "Brief historical summary, utilization, general appearance, and temperament",
         },
         {
           id: "dogs-victoria-central-asian-shepherd-dog",
           role: "cited",
-          locator: "Brief history, temperament, coat and suitability",
+          locator: "Brief history, temperament, and suitability",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "User-facing prose is original paraphrase based on the cited breed-standard and kennel-club material.",
+        "All user-facing text is newly written original prose synthesizing the official standard, kennel-club guidance, and factual background.",
     },
     physical: {
       reliability: "official_standard",
@@ -395,31 +412,55 @@ export const central_asian_shepherd_dog: Breed = {
         {
           id: "fci-central-asian-shepherd-dog-standard-335",
           role: "verified",
-          locator: "Coat, colour, size and weight; standard pages 7–8",
+          locator: "Coat, colour, size and weight, pages 7–8",
         },
         {
           id: "dogs-victoria-central-asian-shepherd-dog",
+          role: "verified",
+          locator: "Average lifespan (12 to 15 years)",
+        },
+        {
+          id: "the-dog-api",
           role: "cited",
-          locator: "Size and average lifespan",
+          locator: "breed.life_span, breed.height.metric, breed.weight.metric",
+        },
+        {
+          id: "american-kennel-club-central-asian-shepherd-dog-guide",
+          role: "cited",
+          locator: "Physical traits and grooming",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Height and weight use the FCI standard's first-published unit system. Only minimum values are recorded; no maximum was supplied.",
+        "Height (min 70 cm male, min 65 cm female) and weight (min 50 kg male, min 40 kg female) follow the FCI standard's published cm/kg units without maximums. Note: The Dog API lists 69–81 cm / 50–80 kg (male) and 61–69 cm / 40–65 kg (female), and AKC lists 25.5–27 in / 88–110 lb; official FCI minimums are retained. Coat colours exclude genetic blue, genetic brown, and black mantle on tan per FCI disqualifying faults (unlike generic colours listed in The Dog API).",
+    },
+    "physical.height.male.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "The official FCI standard specifies a minimum male height (70 cm) with no upper limit; The Dog API estimates 81 cm.",
+    },
+    "physical.height.female.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "The official FCI standard specifies a minimum female height (65 cm) with no upper limit; The Dog API estimates 69 cm.",
     },
     "physical.weight.male.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The FCI standard specifies a minimum male weight but no maximum.",
+        "The official FCI standard specifies a minimum male weight (50 kg) with no upper limit; The Dog API estimates 80 kg.",
     },
     "physical.weight.female.max": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The FCI standard specifies a minimum female weight but no maximum.",
+        "The official FCI standard specifies a minimum female weight (40 kg) with no upper limit; The Dog API estimates 65 kg.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
@@ -434,17 +475,22 @@ export const central_asian_shepherd_dog: Breed = {
         {
           id: "fci-central-asian-shepherd-dog-standard-335",
           role: "verified",
-          locator: "Behaviour and temperament",
+          locator: "Behaviour and temperament, page 4",
         },
         {
           id: "dogs-victoria-central-asian-shepherd-dog",
           role: "cited",
           locator: "Temperament and suitability",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Traits describe breed tendencies, not guaranteed behaviour in every individual dog.",
+        "Describes typical breed tendencies; individual temperament varies with genetics and management.",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -470,29 +516,29 @@ export const central_asian_shepherd_dog: Breed = {
         {
           id: "fci-central-asian-shepherd-dog-standard-335",
           role: "cited",
-          locator: "Working purpose, coat, and maturity",
+          locator: "Working purpose, coat, and maturity at 3 years",
         },
         {
           id: "dogs-victoria-central-asian-shepherd-dog",
           role: "cited",
-          locator: "Coat and care requirements; health and suitability",
+          locator: "Coat care and suitability",
         },
         {
           id: "american-kennel-club-central-asian-shepherd-dog-guide",
           role: "cited",
-          locator: "Grooming and training considerations",
+          locator: "Grooming, exercise, and training considerations",
         },
       ],
       verifiedOn: null,
       note:
-        "Care advice is general guidance adapted to a giant livestock-guardian breed; it is not a veterinary prescription.",
+        "General care guidance adapted to a giant livestock-guardian breed; not a veterinary prescription.",
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish a reliable universal daily exercise-minute range for this breed.",
+        "Consulted sources do not establish a universal daily exercise-minute target.",
     },
     nutrition: {
       reliability: "general_guidance",
@@ -505,14 +551,14 @@ export const central_asian_shepherd_dog: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General canine nutrition guidance; individual feeding decisions should account for growth, body condition, activity, and veterinary needs.",
+        "General giant-breed nutrition guidance; consult a veterinarian for individual feeding plans.",
     },
     "nutrition.feedingFrequency": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "No single puppy, adult, or senior meal frequency was established by the consulted breed-specific sources.",
+        "No single puppy, adult, or senior meal frequency was established by consulted breed-specific sources.",
     },
     health: {
       reliability: "reliable_source",
@@ -520,17 +566,17 @@ export const central_asian_shepherd_dog: Breed = {
         {
           id: "dogs-victoria-central-asian-shepherd-dog",
           role: "verified",
-          locator: "Health: hip dysplasia and elbow dysplasia",
+          locator: "Health: Hip Dysplasia (HD) and Elbow Dysplasia (ED)",
         },
         {
           id: "american-kennel-club-central-asian-shepherd-dog-guide",
           role: "cited",
-          locator: "Physical traits and breed-care considerations",
+          locator: "Health section: hip dysplasia clearances",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Hip and elbow dysplasia are reported in the consulted breed guidance. Other risks are clearly described as general large-dog considerations rather than verified breed prevalence.",
+        "Hip and elbow dysplasia are cited in kennel-club guidance; bloat (GDV) is noted as a general large deep-chested dog risk without established breed-specific prevalence.",
     },
     suitability: {
       reliability: "estimate",
@@ -543,25 +589,26 @@ export const central_asian_shepherd_dog: Breed = {
         {
           id: "american-kennel-club-central-asian-shepherd-dog-guide",
           role: "cited",
-          locator: "Training and breed-management considerations",
+          locator: "Training and household suitability",
         },
       ],
       verifiedOn: null,
       note:
-        "Suitability is an editorial assessment of size, independence, guarding behaviour, and management requirements; individual dogs and households vary.",
+        "Editorial suitability assessment based on size, independence, and guarding instincts; individual dogs and homes differ.",
     },
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal family-with-children rating is not assigned because outcomes depend on the dog's temperament, children's behaviour, supervision, and household management.",
+        "No universal rating is assigned because outcomes depend on individual temperament, supervision, and household management.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No sufficiently reliable breed-specific evidence was recorded to determine suitability for senior owners.",
+      note:
+        "No reliable breed-specific evidence establishes suitability for senior owners.",
     },
     funFacts: {
       reliability: "reliable_source",
@@ -569,12 +616,12 @@ export const central_asian_shepherd_dog: Breed = {
         {
           id: "fci-central-asian-shepherd-dog-standard-335",
           role: "verified",
-          locator: "Historical summary, coat, and maturity",
+          locator: "Historical summary, coat, tail, and maturity",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Historical and conformation facts are paraphrased from the standard.",
+        "Facts paraphrased from the official FCI standard.",
     },
     faq: {
       reliability: "reliable_source",
@@ -595,10 +642,10 @@ export const central_asian_shepherd_dog: Breed = {
           locator: "Training and grooming considerations",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Answers paraphrase the cited references. Measurements retain the units published in the source.",
+        "Original answers synthesizing the cited references; measurements retain published source units.",
     },
   },
-  updatedOn: "2026-10-27",
+  updatedOn: "2026-11-13",
 };
