@@ -32,29 +32,28 @@ export const sussex_spaniel: Breed = {
       attribution:
         'Dan Bennett, "Sussex spaniels at dog show.jpg", via Wikimedia Commons, licensed under CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). No changes made.',
       restrictions: null,
-      metadataCheckedOn: "2026-11-03",
+      metadataCheckedOn: "2026-11-13",
     },
   ],
 
   overview: {
     summary:
-      "The Sussex Spaniel is a strongly built, low-set British flushing spaniel known for its rich golden-liver coat, steady working style and distinctive rolling movement. It was developed to work through dense cover, where its compact strength and willingness to give tongue while following game helped hunters keep track of it. At home, it is generally described as kindly and friendly, but it remains an active sporting dog with natural scenting and hunting instincts.",
+      "The Sussex Spaniel is a sturdy, low-set British flushing spaniel instantly recognizable by its rich golden-liver coat and deliberate, rolling stride. Bred to push through dense undergrowth and give tongue on a scent trail, it pairs steady field determination with a kindly, cheerful home temperament.",
 
     description:
-      "The Sussex Spaniel has a long, low outline, a deep chest and a substantial, muscular body supported by relatively short, strong legs. Its abundant coat is rich golden liver, with hair that shades towards gold at the tips. The ears carry soft, wavy hair, while the legs have moderate feathering. A broad head, hazel eyes and a serious-looking expression give the breed a distinctive appearance. Its movement has a characteristic rolling quality. The breed was developed as a flushing dog for dense cover and is known for giving voice while working on scent. Individual temperament, exercise needs and behaviour vary with age, health, training and environment.",
+      "Long-bodied and low to the ground with heavy bone, a deep chest, and short, strong legs, the Sussex Spaniel carries an abundant, flat golden-liver coat whose hair tips shade toward gold. Soft, wavy hair covers its lobular ears, while moderate feathering frames the legs beneath a broad head and soft hazel eyes that lend a deceptively solemn expression. Calm and affectionate indoors, it remains a true sporting spaniel with strong scenting instincts and a characteristic rolling gait.",
 
     history:
-      "The Sussex Spaniel takes its name from the English county of Sussex, where it was developed as a field and hunting dog. The breed was established by the eighteenth century and became valued for working through thick undergrowth. Its relatively short legs, strong body and habit of giving tongue when following scent suited hunters who moved on foot. It was among the first breeds recorded by the American Kennel Club when the organisation was formed in 1884. The breed has remained uncommon, and its traditional working character and distinctive appearance continue to be important parts of its identity.",
+      "Named for the English county of Sussex, the breed emerged in the eighteenth century among landowners seeking a strong, low-slung spaniel able to work heavy clay soil and thick hedgerows on foot. Its habit of giving voice on scent helped hunters track it through tall cover. Registered among the earliest sporting breeds in 1870s Britain and 1884 North America, it survived near-extinction after World War II thanks to dedicated breeders and remains a rare native breed today.",
 
     originalPurpose:
-      "A flushing spaniel developed to search dense cover, locate game birds and flush them within range of the hunter. Its habit of giving tongue while working on scent helped hunters follow its progress.",
+      "Flushing game birds from dense undergrowth and giving tongue on scent trails so hunters on foot could follow.",
 
     currentRoles: [
-      "Flushing and finding game birds in dense cover",
-      "Working gundog for suitable field activities",
-      "Scent-based games and supervised tracking activities",
-      "Companion for households able to provide regular activity, training and coat care",
-      "Conformation showing",
+      "Flushing and hunting gundog in dense cover",
+      "Scent-work, tracking, and field-trial partner",
+      "Active companion for households ready for daily walks and coat care",
+      "Conformation showing and rare-breed preservation",
     ],
   },
 
@@ -73,46 +72,49 @@ export const sussex_spaniel: Breed = {
       female: { min: null, max: 23 },
     },
 
-    lifespanYears: null,
+    lifespanYears: {
+      min: 12,
+      max: 15,
+    },
 
     coatType:
-      "Abundant, flat coat with a substantial undercoat that provides weather resistance. The ears are covered with soft, wavy hair, and the forequarters and hindquarters have moderate feathering.",
+      "Abundant, flat double coat with ample weather-resistant undercoat; soft, wavy hair on the ears and moderate feathering on the forelegs and hindlegs.",
 
     coatLength:
-      "Medium-length and abundant over the body, with soft, wavy hair on the ears and moderate feathering on the legs. The coat should lie flat rather than curl.",
+      "Medium-length and abundant across the body, lying flat without curl, with wavy ear hair and moderate leg feathering.",
 
     coatColors: [
-      "Rich golden liver, with the hair shading to golden at the tips and gold predominating.",
+      "Rich golden liver, shading to gold at the hair tips with gold predominating",
     ],
 
     sheddingLevel:
-      "The breed has an abundant double coat with undercoat. Regular brushing is needed to remove loose hair and prevent tangles; a precise breed-specific shedding rating is not established here.",
+      "Moderate; the abundant double coat sheds steadily and needs regular brushing to clear loose undercoat, though no exact numerical rating is established.",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Long, low-set and strongly built body.",
-      "Short, strong and well-boned legs.",
-      "Deep, well-developed chest and muscular back and loin.",
-      "Characteristic rolling movement.",
-      "Broad head with a pronounced stop and a slightly frowning brow.",
-      "Fairly large hazel eyes with a soft expression.",
-      "Thick, fairly large, low-set lobular ears.",
-      "Rich golden-liver coat with golden shading at the hair tips.",
-      "Lively tail action.",
-      "A tendency to give tongue while working in thick cover.",
+      "Long, low-set, heavily boned and muscular body",
+      "Short, strong legs suited to dense cover",
+      "Deep, wide chest and muscular back and loin",
+      "Distinctive rolling gait",
+      "Broad head with pronounced stop and slightly frowning brow",
+      "Fairly large hazel eyes with a gentle, serious expression",
+      "Thick, low-set lobular ears with soft wavy hair",
+      "Rich golden-liver coat shading to gold at the tips",
+      "Lively tail action kept below back level",
+      "Tendency to give tongue while working scent in cover",
     ],
   },
 
   temperament: {
     traits: [
-      "Kindly disposition",
-      "Friendly and generally cheerful nature",
-      "Steady working character",
-      "Natural interest in scent and game",
-      "Active and energetic when working",
-      "Can be vocal while following scent or working in cover",
-      "May show persistence when engaged in an interesting scent",
+      "Kindly and gentle",
+      "Friendly and cheerful despite a solemn expression",
+      "Steady and loyal companion",
+      "Keenly interested in scent and game",
+      "Deliberate yet energetic in the field",
+      "Vocal when trailing scent or excited",
+      "Persistent once locked onto an interesting scent",
     ],
 
     scores: {
@@ -131,18 +133,17 @@ export const sussex_spaniel: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate to high. The Sussex Spaniel is an active working gundog and benefits from daily walks, outdoor exploration and activities that engage its nose. Exercise should be adapted to the dog's age, fitness, body condition and health.",
+        "Moderate to high. An active sporting gundog that thrives on daily walks, swimming, and scent-based exploration, adjusted for slow puppy growth, age, and joint health.",
 
       minutesPerDay: null,
 
       activities: [
-        "Daily walks with opportunities to explore and sniff.",
-        "Supervised scent games and food-search activities.",
-        "Reward-based retrieving games suited to the individual dog.",
-        "Hikes and outdoor walks on suitable routes.",
-        "Field activities where lawful, safe and appropriate.",
-        "Short training sessions that combine movement and mental engagement.",
-        "Secure off-lead play only where recall and surroundings make it safe.",
+        "Daily walks with ample sniffing time",
+        "Supervised scent-search and tracking games",
+        "Reward-based retrieving exercises",
+        "Steady hikes on varied trails",
+        "Swimming for fit adult dogs",
+        "Short training sessions combining movement and nose work",
       ],
     },
 
@@ -150,38 +151,36 @@ export const sussex_spaniel: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush and comb the coat several times a week, paying particular attention to the ears, feathering, chest, legs and areas where friction can create tangles.",
+        "Brush and comb several times weekly, focusing on the wavy ears, chest, belly, and leg feathering to prevent mats and clear burrs.",
 
       bathing:
-        "Bathe when the coat is dirty or needs freshening. Use a dog-specific shampoo, rinse thoroughly and dry the dense coat properly.",
+        "Bathe only when soiled using a canine-safe shampoo, rinsing and drying the dense coat and undercoat thoroughly.",
 
       notes: [
-        "The abundant coat and undercoat need regular brushing to remove loose hair and reduce tangles.",
-        "Check the feathering on the legs and underside after walks for burrs, seeds and debris.",
-        "Inspect the ears regularly and keep them clean and dry.",
-        "Trim nails when needed to maintain comfortable movement.",
-        "Brush teeth regularly with dog-specific toothpaste.",
-        "Check the skin during grooming for irritation, parasites or unusual changes.",
-        "A professional groomer can help maintain the coat where the owner is unfamiliar with spaniel coat care.",
+        "Regular brushing clears loose undercoat and prevents tangles in feathered areas.",
+        "Check leg and underside feathering for burrs, mud, and grass seeds after walks.",
+        "Inspect the heavy, hairy ears weekly and keep them clean and dry.",
+        "Trim nails regularly to support comfortable movement.",
+        "Brush teeth routinely with dog-safe toothpaste.",
+        "Part the coat during brushing to check skin for irritation or parasites.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate. The breed was developed to work as a flushing spaniel and can become focused on scent and cover. Patient, consistent and reward-based training is a sensible approach.",
+        "Moderate. Cheerful and willing to cooperate, though strong scenting instincts can compete with recall. Patient, reward-based training works best.",
 
       tips: [
-        "Use food, toys or play rewards that motivate the individual dog.",
-        "Keep training sessions clear, positive and consistent.",
-        "Build recall gradually and practise around increasing levels of distraction.",
-        "Use a lead or long line in areas where wildlife or scent may draw the dog away.",
-        "Introduce retrieving and scent games as structured outlets for natural working interests.",
-        "Reward calm behaviour and attention around people, dogs and outdoor distractions.",
-        "Avoid harsh handling; use predictable cues and reward-based methods.",
+        "Use high-value food or play rewards to keep sessions upbeat.",
+        "Keep cues clear, patient, and consistent.",
+        "Build recall steadily in enclosed spaces before trusting off-lead near wildlife.",
+        "Use a lead or long line in open areas with heavy game scent.",
+        "Channel working drive into structured retrieving and tracking games.",
+        "Avoid harsh corrections; steady, positive guidance suits its sensitive nature.",
       ],
 
       socialization:
-        "Introduce puppies gradually and positively to different people, dogs, sounds, surfaces, handling and everyday environments. Continue practising calm greetings, lead skills and recall throughout adulthood. Supervise interactions with children and other animals, as with any breed.",
+        "Provide gradual, positive exposure to varied people, dogs, sounds, surfaces, and handling from puppyhood onward, supervising all interactions with children and other animals.",
     },
 
     livingEnvironment: {
@@ -189,9 +188,9 @@ export const sussex_spaniel: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate climates.",
-        "Cool conditions, with appropriate shelter and routine care.",
-        "Warmer conditions when shade, fresh water, ventilation and cooler exercise times are provided.",
+        "Temperate climates",
+        "Cool weather with dry shelter and routine coat care",
+        "Warm weather only with reliable shade, fresh water, and cooler-hour exercise",
       ],
 
       aloneTimeTolerance: null,
@@ -200,7 +199,7 @@ export const sussex_spaniel: Breed = {
 
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate to the dog's life stage, body condition, activity level and individual veterinary needs.",
+      "Complete, balanced dog food matched to life stage, body condition, activity level, and veterinary guidance.",
 
     feedingFrequency: {
       puppy: null,
@@ -209,48 +208,48 @@ export const sussex_spaniel: Breed = {
     },
 
     guidelines:
-      "Choose a nutritionally complete food suitable for the dog's age and condition. Use the manufacturer's feeding guide as a starting point, measure portions and adjust according to body condition, activity and veterinary advice. Keep fresh water available and include treats in the daily food allowance.",
+      "Use the manufacturer's feeding guide as a starting point, then adjust measured portions to maintain a healthy, well-muscled frame without excess weight on its long back and short legs. Keep fresh water available and count treats toward daily calories.",
 
     considerations: [
-      "Monitor body condition and avoid excess weight, which can place additional strain on the dog's frame.",
-      "Adjust portions to the dog's actual activity, age and individual metabolism.",
-      "Account for training treats and chews when calculating daily food intake.",
-      "Make food changes gradually unless a veterinarian advises otherwise.",
-      "Seek veterinary advice for persistent digestive problems, appetite changes or unexplained weight change.",
+      "Prevent excess weight to reduce avoidable strain on the spine and joints.",
+      "Match daily portions to actual activity level and metabolism.",
+      "Include training rewards and chews within total daily intake.",
+      "Transition diets gradually unless advised otherwise by a veterinarian.",
+      "Consult a veterinarian for persistent digestive upset or weight changes.",
     ],
 
     note:
-      "A universal portion size or meal frequency cannot be established for every Sussex Spaniel. Requirements depend on age, body condition, food energy density, activity and health.",
+      "Exact portions and meal counts depend on age, calorie density, activity, and veterinary advice.",
   },
 
   health: {
     overview:
-      "The available breed-club guidance identifies PDP1-related pyruvate dehydrogenase deficiency and cardiac abnormalities as health topics to discuss with breeders. The club describes DNA testing for PDP1 and cardiac assessment in young puppies, with further investigation when an abnormality is detected. These recommendations should not be interpreted as a complete list of conditions affecting every Sussex Spaniel. Ask breeders for relevant health records and consult a veterinarian about screening for an individual dog.",
+      "Breed-club health guidance highlights PDP1-related pyruvate dehydrogenase deficiency (for which DNA testing is available) and puppy cardiac checks as key considerations to discuss with breeders, alongside general monitoring for hip dysplasia and eye conditions. Request documented parental test results and keep up routine veterinary care.",
 
     commonConditions: [],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and keep vaccinations and parasite prevention appropriate to the dog's lifestyle and location.",
-      "Discuss the breed-club's PDP1 DNA testing guidance with the breeder when considering a puppy.",
-      "Ask what cardiac checks have been performed and whether any abnormal findings required further investigation.",
-      "Maintain a healthy body condition and provide regular, age-appropriate activity.",
-      "Keep ears, teeth, nails, skin and coat under routine observation.",
-      "Seek veterinary advice promptly if exercise tolerance, breathing, energy or general behaviour changes.",
+      "Schedule routine veterinary exams and keep vaccinations and parasite prevention current.",
+      "Ask breeders for documented PDP1 DNA test status when selecting a puppy.",
+      "Ask about puppy cardiac auscultation results and any follow-up evaluations.",
+      "Maintain a lean body weight and avoid strenuous jumping or forced exercise in slow-growing puppies under a year old.",
+      "Check ears, teeth, nails, skin, and coat routinely.",
+      "Seek prompt veterinary care for changes in stamina, breathing, or gait.",
     ],
 
     recommendedScreenings: [
-      "PDP1 DNA testing, following the Sussex Spaniel Club of America's breed-health guidance.",
-      "Cardiac auscultation in puppies at approximately eight weeks, as described by the breed club; echocardiography may be appropriate if an abnormality is detected.",
+      "PDP1 DNA testing for pyruvate dehydrogenase phosphatase 1 deficiency.",
+      "Cardiac auscultation in puppies around eight weeks of age, with echocardiography if an abnormality is heard.",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste. Arrange veterinary dental checks and seek advice for persistent bad breath, gum redness, pain or difficulty eating.",
+      "Brush teeth regularly with canine toothpaste and arrange periodic veterinary oral checks. Have bad breath, gum redness, or chewing discomfort assessed promptly.",
 
     earCare:
-      "The ears are fairly large and covered with hair. Check them regularly for wax build-up, redness, odour or irritation, and keep them dry after bathing or swimming. Ask a veterinarian about any persistent signs of discomfort.",
+      "Check the large, hairy, low-set ears weekly for wax, redness, odour, or moisture—especially after swimming or wet walks—and clean gently with a veterinarian-approved solution when needed.",
 
     skinCare:
-      "Brush the abundant coat regularly and inspect the skin while grooming. Check feathered areas for trapped debris, mats, parasites or irritation. Seek veterinary advice for persistent itching, redness, sores or hair loss.",
+      "Inspect skin during regular brushing for trapped debris, mats, parasites, or persistent itching.",
   },
 
   suitability: {
@@ -261,58 +260,58 @@ export const sussex_spaniel: Breed = {
     apartmentLiving: null,
 
     idealFor: [
-      "People interested in gundog activities, scent games or other structured outdoor activities.",
-      "Households able to provide daily exercise, training and regular coat maintenance.",
-      "Owners who appreciate a substantial, low-set spaniel with a distinctive coat and working heritage.",
-      "People prepared to manage scent-driven behaviour and possible vocalisation during work or play.",
+      "Handlers interested in gundog work, tracking, or scent-search games",
+      "Households ready for daily walks and regular spaniel coat grooming",
+      "Owners who appreciate a sturdy, cheerful, low-set sporting breed",
+      "People prepared to manage vocal trailing behaviour and scent drive",
     ],
 
     notIdealFor: [
-      "Households unable to provide regular activity and mental engagement.",
-      "Owners who want a very low-maintenance coat.",
-      "People who require a dog that is reliably quiet in every setting.",
-      "Homes where the dog's natural interest in scent and game cannot be managed safely.",
+      "Households unable to provide daily outdoor activity and mental stimulation",
+      "Owners wanting a wash-and-wear coat needing minimal brushing",
+      "Homes requiring complete quiet in every situation",
+      "Settings where strong scenting instincts cannot be safely managed",
     ],
   },
 
   funFacts: [
-    "The breed takes its name from Sussex, the English county where it was developed.",
-    "The Sussex Spaniel is known for giving tongue while working in thick cover.",
-    "Its distinctive rolling movement is a recognised feature of the breed.",
-    "The rich golden-liver coat, with golden shading at the hair tips, is a defining feature.",
-    "The breed was among the first ten breeds admitted to the American Kennel Club Stud Book in 1884.",
+    "Named for the English county of Sussex, it was bred in the 1700s to push through thick hedgerows and heavy clay soil.",
+    "Unlike most silent-trailing spaniels, it is famous for giving tongue while following scent in dense cover.",
+    "Its low-slung, muscular build produces a signature rolling gait.",
+    "Its rich golden-liver coat—shading to gold at the hair tips—is unique among spaniels.",
+    "It was among the first ten breeds admitted to North American kennel-club stud books in 1884.",
   ],
 
   faq: [
     {
       question: "What was the Sussex Spaniel originally bred to do?",
       answer:
-        "It was developed as a flushing spaniel for dense cover, finding game birds and flushing them within range of the hunter. It is also known for giving tongue while working on scent.",
+        "It was bred as a flushing spaniel for dense undergrowth, locating game birds and flushing them within range while giving tongue on scent trails.",
     },
     {
       question: "What colour is a Sussex Spaniel?",
       answer:
-        "The recognised colour is rich golden liver, with the hair shading towards gold at the tips and gold predominating.",
+        "The only accepted colour is rich golden liver, with hair shading toward gold at the tips and gold predominating.",
     },
     {
       question: "How large is a Sussex Spaniel?",
       answer:
-        "The FCI standard gives an ideal height of 38–41 cm at the withers and an approximate weight of 23 kg. Individual dogs may differ.",
+        "Ideal height at the withers is 38–41 cm and approximate weight is around 23 kg, though individual dogs vary.",
     },
     {
       question: "Does a Sussex Spaniel need regular grooming?",
       answer:
-        "Yes. Its abundant coat and undercoat need regular brushing and combing, especially around the ears and feathered areas where tangles and debris can collect.",
+        "Yes. Its abundant coat and undercoat need brushing and combing several times a week, especially around the wavy ears and leg feathering.",
     },
     {
       question: "Is the Sussex Spaniel a quiet breed?",
       answer:
-        "Not necessarily. The breed is known for giving tongue while working in thick cover, so owners should be prepared for some vocal behaviour, particularly around scent and exciting activities.",
+        "Not always. Known for giving tongue while working in thick cover, it can be more vocal than many other spaniels around exciting scents.",
     },
     {
       question: "What health checks should prospective owners discuss with a breeder?",
       answer:
-        "The Sussex Spaniel Club of America discusses PDP1 DNA testing and cardiac assessment. Ask the breeder for the dog's relevant test records and discuss individual screening needs with a veterinarian.",
+        "Ask breeders for PDP1 DNA test results and puppy cardiac check records, and discuss individual screening needs with your veterinarian.",
     },
   ],
 
@@ -324,6 +323,7 @@ export const sussex_spaniel: Breed = {
     "canadian-kennel-club-sussex-spaniel",
     "sussex-spaniel-club-of-america-health",
     "commons-sussex-spaniels-dog-show",
+    "the-dog-api",
   ],
 
   evidence: {
@@ -338,7 +338,7 @@ export const sussex_spaniel: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No additional established breed name is recorded in the consulted registry and breed-club material.",
+      note: "No additional established breed name is recorded in consulted registry and breed-club material.",
     },
 
     group: {
@@ -347,11 +347,11 @@ export const sussex_spaniel: Breed = {
         {
           id: "fci-sussex-spaniel-standard-127",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 8, Section 2, with working trial",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "FCI Group 8, Section 2, with working trial.",
+      verifiedOn: "2026-11-13",
+      note: "Follows FCI Group 8, Section 2; The Dog API lists Sporting.",
     },
 
     origin: {
@@ -360,16 +360,21 @@ export const sussex_spaniel: Breed = {
         {
           id: "fci-sussex-spaniel-standard-127",
           role: "verified",
-          locator: "Origin",
+          locator: "Origin: Great Britain",
         },
         {
           id: "royal-kennel-club-sussex-spaniel-standard",
           role: "verified",
-          locator: "Breed standard and breed name",
+          locator: "Breed standard and breed name (Sussex, England)",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The breed originates in Great Britain and is associated with Sussex, England.",
+      verifiedOn: "2026-11-13",
+      note: "Originates in Great Britain, specifically Sussex, England.",
     },
 
     overview: {
@@ -378,7 +383,7 @@ export const sussex_spaniel: Breed = {
         {
           id: "sussex-spaniel-club-of-america-health",
           role: "cited",
-          locator: "Breed club website navigation and breed information",
+          locator: "Breed club breed information",
         },
         {
           id: "american-kennel-club-sussex-spaniel",
@@ -390,9 +395,14 @@ export const sussex_spaniel: Breed = {
           role: "verified",
           locator: "General appearance, characteristics and temperament",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Historical and descriptive information is paraphrased from breed-club and kennel-club material.",
+      verifiedOn: "2026-11-13",
+      note: "All user-facing text is newly written original prose paraphrasing breed-club and kennel-club sources.",
     },
 
     physical: {
@@ -401,7 +411,7 @@ export const sussex_spaniel: Breed = {
         {
           id: "fci-sussex-spaniel-standard-127",
           role: "verified",
-          locator: "General appearance, limbs, coat, colour, size and weight",
+          locator: "General appearance, limbs, coat, colour, size and weight (38–41 cm, approx. 23 kg)",
         },
         {
           id: "royal-kennel-club-sussex-spaniel-standard",
@@ -409,22 +419,28 @@ export const sussex_spaniel: Breed = {
           locator: "General appearance, body, coat, colour and size",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Height and approximate weight follow the FCI standard's published metric units.",
+      verifiedOn: "2026-11-13",
+      note: "Height (38–41 cm) and approximate weight (23 kg) follow FCI Standard No. 127. Note: The Dog API lists 33–38 cm and 16–20 kg, and AKC lists 13–15 in and up to 45 lb; official FCI standard values are retained. Coat colour follows FCI/RKC rather than The Dog API's species-wide colour list.",
     },
 
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No lifespan range was established from the consulted primary breed sources.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (12–15 years)",
+        },
+      ],
+      verifiedOn: "2026-11-13",
+      note: "FCI Standard No. 127 and RKC do not publish a lifespan; 12–15 years is sourced from The Dog API.",
     },
 
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A reliable breed-specific drooling rating was not found.",
+      note: "No reliable breed-specific drooling rating was found.",
     },
 
     temperament: {
@@ -440,9 +456,14 @@ export const sussex_spaniel: Breed = {
           role: "verified",
           locator: "Characteristics and temperament",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Traits describe the breed standard and working character, not a guarantee about every individual dog.",
+      verifiedOn: "2026-11-13",
+      note: "Traits reflect official standard and working character; individual dogs vary.",
     },
 
     "temperament.scores": {
@@ -460,34 +481,35 @@ export const sussex_spaniel: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Scores are editorial estimates, not measured behavioural statistics. Unsupported dimensions are null.",
+      note: "Editorial estimates on a 1–5 scale, not measured behavioural statistics; unsupported dimensions remain null.",
     },
+
     "temperament.scores.withChildren": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "Reliable breed-specific evidence for a with-children temperament score was not found.",
-},
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Reliable breed-specific evidence for a with-children score was not found.",
+    },
 
-"temperament.scores.withDogs": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "Reliable breed-specific evidence for a with-dogs temperament score was not found.",
-},
+    "temperament.scores.withDogs": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Reliable breed-specific evidence for a with-dogs score was not found.",
+    },
 
-"temperament.scores.protectiveness": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "Reliable breed-specific evidence for a protectiveness score was not found.",
-},
+    "temperament.scores.protectiveness": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Reliable breed-specific evidence for a protectiveness score was not found.",
+    },
 
     care: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General dog-care guidance adapted to the breed's coat and working background.",
+      note: "General dog-care guidance adapted to coat type and sporting background.",
     },
 
     "care.exercise": {
@@ -504,8 +526,8 @@ export const sussex_spaniel: Breed = {
           locator: "General appearance and characteristics",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The breed is described as active and as having natural working ability; no fixed daily minute requirement is claimed.",
+      verifiedOn: "2026-11-13",
+      note: "Active gundog heritage supports regular daily activity without a fixed minute quota.",
     },
 
     "care.exercise.minutesPerDay": {
@@ -529,15 +551,15 @@ export const sussex_spaniel: Breed = {
           locator: "Coat",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The coat description supports regular brushing; the exact routine is practical care guidance.",
+      verifiedOn: "2026-11-13",
+      note: "Abundant double coat supports regular brushing and ear care.",
     },
 
     "care.training": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Reward-based training and gradual socialisation are general welfare recommendations, not breed-specific test results.",
+      note: "Reward-based training and gradual socialization are general welfare recommendations.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -557,14 +579,14 @@ export const sussex_spaniel: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "A secure yard may be useful for an active dog, but it does not replace walks, training or supervision.",
+      note: "A secure yard is useful for an active dog but does not replace walks or supervision.",
     },
 
     "care.livingEnvironment.climates": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Climate advice is general dog-welfare guidance, not a verified breed-specific tolerance range.",
+      note: "General dog-welfare climate guidance.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -578,7 +600,7 @@ export const sussex_spaniel: Breed = {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Nutrition guidance is general and should be adjusted to the individual dog's life stage, condition and veterinary needs.",
+      note: "General nutrition guidance tailored to life stage, condition, and veterinary advice.",
     },
 
     "nutrition.feedingFrequency.puppy": {
@@ -611,8 +633,8 @@ export const sussex_spaniel: Breed = {
           locator: "PDP1 testing and cardiac abnormalities",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The health summary is limited to the breed-club guidance consulted; it is not a complete prevalence study.",
+      verifiedOn: "2026-11-13",
+      note: "Health summary reflects breed-club guidance consulted; not a complete prevalence study.",
     },
 
     "health.commonConditions": {
@@ -631,8 +653,8 @@ export const sussex_spaniel: Breed = {
           locator: "PDP1 testing and cardiac abnormalities",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "These are screening recommendations described by the breed club; recommendations may vary by country and veterinary context.",
+      verifiedOn: "2026-11-13",
+      note: "Screening recommendations from the breed club.",
     },
 
     "health.preventiveCare": {
@@ -646,21 +668,21 @@ export const sussex_spaniel: Breed = {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine dental-care advice.",
+      note: "General canine dental-care guidance.",
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General ear-care advice, with attention to the breed's pendulous, hair-covered ears.",
+      note: "General ear-care guidance for pendulous, hair-covered ears.",
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General coat and skin-care advice.",
+      note: "General coat and skin-care guidance.",
     },
 
     suitability: {
@@ -678,7 +700,7 @@ export const sussex_spaniel: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Suitability statements are cautious editorial guidance and cannot predict the behaviour of an individual dog.",
+      note: "Cautious editorial suitability guidance.",
     },
 
     "suitability.firstTimeOwners": {
@@ -723,8 +745,8 @@ export const sussex_spaniel: Breed = {
           locator: "Behaviour and temperament; gait and movement",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Historical and breed-character facts are paraphrased.",
+      verifiedOn: "2026-11-13",
+      note: "Historical and breed-character facts written in original wording.",
     },
 
     faq: {
@@ -746,10 +768,10 @@ export const sussex_spaniel: Breed = {
           locator: "Characteristics and coat",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Answers are original summaries of the cited breed-standard and breed-club material.",
+      verifiedOn: "2026-11-13",
+      note: "Original summaries of cited breed-standard and breed-club material.",
     },
   },
 
-  updatedOn: "2026-11-03",
+  updatedOn: "2026-11-13",
 };

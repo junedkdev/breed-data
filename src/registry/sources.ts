@@ -17259,6 +17259,196 @@ export const sources = defineSources({
     note: "Photograph (3872 x 2592 px) of a large male Cane Corso standing outdoors by Wili15 (captured 2014-04-17, uploaded 2014-04-18). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
+  "fci-lagotto-romagnolo-official-standard": {
+    id: "fci-lagotto-romagnolo-official-standard",
+    name: "FCI - Lagotto Romagnolo (Romagna Water Dog) Official Breed Standard No. 298",
+    url: "https://www.fci.be/Nomenclature/Standards/298g08-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2016-01-06",
+    accessedOn: "2026-11-13",
+    note: "Official English FCI Standard No. 298. Covers Italian origin, Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 3 Water Dogs classification, nearly square proportions, dense woolly curly coat, cancelled hunting instinct for truffle searching, webbed paws, withers height (males 43-48 cm, females 41-46 cm, +/- 1 cm tolerance), and weight (males 13-16 kg, females 11-14 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-lagotto-romagnolo-nomenclature": {
+    id: "fci-lagotto-romagnolo-nomenclature",
+    name: "FCI - Lagotto Romagnolo Breed Nomenclature (No. 298)",
+    url: "https://www.fci.be/en/nomenclature/ROMAGNA-WATER-DOG-298.html",
+    type: "official_breed_standard",
+    publishedOn: "2016-01-06",
+    accessedOn: "2026-11-13",
+    note: "Official FCI breed nomenclature record confirming Italy as country of origin, Group 8 Section 3 classification, definitive recognition date (2005-07-06), and official multilingual name (Lagotto Romagnolo).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "dogs-australia-lagotto-romagnolo-standard": {
+    id: "dogs-australia-lagotto-romagnolo-standard",
+    name: "Dogs Australia (ANKC) - Lagotto Romagnolo Breed Standard",
+    url: "https://dogsaustralia.org.au/members/breeds/breed-standards/Lagotto-Romagnolo",
+    type: "official_breed_standard",
+    publishedOn: "2019-11-12",
+    accessedOn: "2026-11-13",
+    note: "Official Australian National Kennel Council (Dogs Australia / ANKC) breed standard detailing Comacchio and Ravenna marshlands history, height limits (males 43-48 cm, females 41-46 cm), weight range (13-16 kg males, 11-14 kg females), and modified/cancelled hunting instinct for truffle searching.",
+    publisher: "Dogs Australia"
+  },
+  "akc-lagotto-romagnolo-breed-standard": {
+    id: "akc-lagotto-romagnolo-breed-standard",
+    name: "American Kennel Club - Official Standard of the Lagotto Romagnolo",
+    url: "https://images.akc.org/pdf/breeds/standards/LagottoRomagnolo.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed standard (Sporting Group) establishing proportions, rustic appearance, dense woolly curly coat, scissor/pincer/reverse-scissor bite, and truffle-searching temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-lagotto-romagnolo-breed-profile": {
+    id: "akc-lagotto-romagnolo-breed-profile",
+    name: "American Kennel Club - Lagotto Romagnolo Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/lagotto-romagnolo/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed profile covering Italian water dog history, truffle specialization, lifespan, temperament, and hypoallergenic grooming requirements.",
+    publisher: "American Kennel Club"
+  },
+  "lrca-lagotto-romagnolo-health": {
+    id: "lrca-lagotto-romagnolo-health",
+    name: "Lagotto Romagnolo Club of America - Breed Education and Health",
+    url: "https://lagottoromagnoloclubofamerica.org/breed-education/",
+    type: "breed_club",
+    publishedOn: "2026-01-21",
+    accessedOn: "2026-11-13",
+    note: "Official national parent club health and education portal documenting a 15 to 17-year lifespan, genetic diversity, Benign Familial Juvenile Epilepsy (BFJE), Lagotto Storage Disease (LSD), and mandatory pre-breeding CHIC screening protocols.",
+    publisher: "Lagotto Romagnolo Club of America"
+  },
+  "ofa-lagotto-romagnolo-chic-requirements": {
+    id: "ofa-lagotto-romagnolo-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Lagotto Romagnolo CHIC Requirements",
+    url: "https://lagottoromagnoloclubofamerica.org/obtaining-a-chic-number/",
+    type: "veterinary",
+    publishedOn: "2025-11-25",
+    accessedOn: "2026-11-13",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Lagotto Romagnolo as mandated by the LRCA, requiring Radiographic Hip Dysplasia evaluation, CAER Eye examination, Patellar Luxation, Benign Familial Juvenile Epilepsy (BFJE) DNA test, and Lagotto Storage Disease (LSD) DNA test.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "lagotto-romagnolo-bfje-lgi2-study": {
+    id: "lagotto-romagnolo-bfje-lgi2-study",
+    name: "LGI2 Truncation Causes a Remitting Focal Epilepsy in Dogs (PLoS Genet 2011)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/21829378/",
+    type: "scientific",
+    publishedOn: "2011-08-01",
+    accessedOn: "2026-11-13",
+    note: "Peer-reviewed scientific study (Seppälä et al., PLoS Genet 2011;7(7):e1002194, PMID 21829378) identifying an autosomal recessive mutation in the LGI2 gene responsible for Benign Familial Juvenile Epilepsy (BFJE) in Lagotto Romagnolo dogs.",
+    publisher: "PLoS Genetics / PubMed"
+  },
+  "wikimedia-lagotto-romagnolo-xty78": {
+    id: "wikimedia-lagotto-romagnolo-xty78",
+    name: "Wikimedia Commons - File:Lagotto-romagnolo.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Lagotto-romagnolo.jpg",
+    type: "other",
+    publishedOn: "2021-11-11",
+    accessedOn: "2026-11-13",
+    note: "High-resolution photograph (4032 x 3024 px) of an adult Lagotto Romagnolo with a typical dense, curly coat outdoors by XTY78 (captured and uploaded 2021-11-11). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-lagotto-romagnolo-sandra-schmidt": {
+    id: "wikimedia-lagotto-romagnolo-sandra-schmidt",
+    name: "Wikimedia Commons - File:Lagotto Romagnolo.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Lagotto_Romagnolo.jpg",
+    type: "other",
+    publishedOn: "2005-08-06",
+    accessedOn: "2026-11-13",
+    note: "Photograph (450 x 425 px) providing a close-up view of a Lagotto Romagnolo's distinctive woolly curls by Sandra Schmidt (uploaded by Canecorsodog, 2005-08-06). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-slovakian-rough-haired-pointer-official-standard": {
+    id: "fci-slovakian-rough-haired-pointer-official-standard",
+    name: "FCI - Slovakian Wire-haired Pointing Dog (Slovenský hrubosrstý stavač) Official Breed Standard No. 320",
+    url: "http://www.fci.be/nomenclature/Standards/320g07-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1996-07-24",
+    accessedOn: "2026-11-13",
+    note: "Official English FCI Standard No. 320 (valid standard dated 1995-01-06, published 1996-07-24). Covers Slovakian origin, Group 7 Pointing Dogs, Section 1.1 Continental Pointing Dogs ('Braque' type) classification with working trial, rectangular proportions, harsh 'grey' wire coat with moustache, withers height (males 62-68 cm, females 57-64 cm), and versatile gundog utility.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-slovakian-rough-haired-pointer-nomenclature": {
+    id: "fci-slovakian-rough-haired-pointer-nomenclature",
+    name: "FCI - Slovakian Wire-haired Pointing Dog Breed Nomenclature (No. 320)",
+    url: "https://www.fci.be/en/nomenclature/WIREHAIRED-SLOVAKIAN-POINTER-320.html",
+    type: "official_breed_standard",
+    publishedOn: "1996-07-24",
+    accessedOn: "2026-11-13",
+    note: "Official FCI breed nomenclature record confirming Slovakia as country of origin, Group 7 Section 1.1 classification with working trial, definitive recognition date (1982-02-17), and official multilingual names (Slovenský hrubosrstý stavač, Wirehaired Slovakian Pointer, Braque Slovaque à poil dur).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-slovakian-wirehaired-pointer-breed-profile": {
+    id: "akc-slovakian-wirehaired-pointer-breed-profile",
+    name: "American Kennel Club - Slovakian Wirehaired Pointer Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/slovakian-wirehaired-pointer/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed profile (Foundation Stock Service) covering Czechoslovakian post-WWII history, weight (50-65 lbs / approx. 22-30 kg), lifespan (12-15 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "wikimedia-slovakian-wire-haired-pointing-dog-rybnik": {
+    id: "wikimedia-slovakian-wire-haired-pointing-dog-rybnik",
+    name: "Wikimedia Commons - File:Wyzel slowacki szorstkowlosy rybnik-kamien pl.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Wyzel_slowacki_szorstkowlosy_rybnik-kamien_pl.jpg",
+    type: "other",
+    publishedOn: "2008-02-04",
+    accessedOn: "2026-11-13",
+    note: "High-resolution photograph (2588 x 2208 px) of a Slovakian Wire-haired Pointing Dog standing outdoors at a dog show in Rybnik-Kamień, Poland, by Pleple2000 (captured 2007-10-07, uploaded 2008-02-04). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-slovakian-wire-haired-pointing-dog-bella": {
+    id: "wikimedia-slovakian-wire-haired-pointing-dog-bella",
+    name: "Wikimedia Commons - File:Bella z Milhostovskych poli.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Bella_z_Milhostovskych_poli.jpg",
+    type: "other",
+    publishedOn: "2006-06-01",
+    accessedOn: "2026-11-13",
+    note: "High-resolution photograph (2560 x 1920 px) of a Slovakian Wire-haired Pointing Dog (Bella z Milhostovských polí) by Martina Vernerová / Ing. Urban Michal (captured 2005-10-09, uploaded 2006-06-01). Released into the Public Domain on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-thai-bangkaew-dog-official-standard": {
+    id: "fci-thai-bangkaew-dog-official-standard",
+    name: "FCI - Thai Bangkaew Dog Official Breed Standard No. 358",
+    url: "https://www.fci.be/Nomenclature/Standards/358g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2022-07-04",
+    accessedOn: "2026-11-13",
+    note: "Official English FCI Standard No. 358 (valid standard dated 2022-07-04). Covers Thai origin, Group 5 Spitz and primitive type, Section 5 Asian Spitzes and related breeds classification without working trial, square proportions, double coat with neck ruff, and withers height (males 46-55 cm, females 41-50 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-thai-bangkaew-dog-nomenclature": {
+    id: "fci-thai-bangkaew-dog-nomenclature",
+    name: "FCI - Thai Bangkaew Dog Breed Nomenclature (No. 358)",
+    url: "https://www.fci.be/en/nomenclature/THAI-BANGKAEW-DOG-358.html",
+    type: "official_breed_standard",
+    publishedOn: "2022-07-04",
+    accessedOn: "2026-11-13",
+    note: "Official FCI breed nomenclature record confirming Thailand as country of origin, Group 5 Section 5 classification without working trial, definitive recognition date (2022-06-21), and official multilingual name (Thai Bangkaew Dog).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "kath-thai-bangkaew-dog-breed-standard": {
+    id: "kath-thai-bangkaew-dog-breed-standard",
+    name: "Kennel Club of Thailand (KATH) - Thai Bangkaew Dog Breed Standard",
+    url: "https://kathailand.org/thaibangkaew/?lang=en",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official country-of-origin breed standard and profile published by the Kennel Club of Thailand, confirming Phitsanulok heritage, square proportions, protective temperament, and coat color patch requirements.",
+    publisher: "Kennel Association of Thailand"
+  },
+  "wikimedia-thai-bangkaew-dog-1-canarian": {
+    id: "wikimedia-thai-bangkaew-dog-1-canarian",
+    name: "Wikimedia Commons - File:Thai Bangkaew Dog 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Thai_Bangkaew_Dog_1.jpg",
+    type: "other",
+    publishedOn: "2016-12-04",
+    accessedOn: "2026-11-13",
+    note: "Photograph (600 x 545 px) of an adult male Thai Bangkaew Dog standing outdoors by Canarian (captured and uploaded 2016-12-04). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
 });
 
 export type SourceId = keyof typeof sources;

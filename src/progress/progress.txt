@@ -117,11 +117,11 @@
 114:perro_de_presa_mallorquin - CG
 115:epagneul_bleu_de_picardie - CG
 116:posavac_hound - CG
+117:beauceron - CG
+118:berger_picard - CG
+119:podenco_canario - CG
+120:sussex_spaniel - CG
 
-117:beauceron - C
-118:berger_picard - C
-119:podenco_canario - C
-120:sussex_spaniel - C
 121:cesky_fousek - C
 122:bull_terrier_(miniature) - C
 123:akita_inu - C
@@ -188,12 +188,12 @@
 184:greater_swiss_mountain_dog - C
 185:greyhound - C
 186:cane_corso - C
+187:lagotto_romagnolo - C
+188:slovakian_rough-haired_pointer - C
+189:thai_bangkaew_dog - C
 
-187:lagotto_romagnolo - R
+190:shih_tzu - R
 
-188:slovakian_rough-haired_pointer
-189:thai_bangkaew_dog
-190:shih_tzu
 191:perro_de_presa_canario
 192:belgian_shepherd_dog_(tervuren)
 193:pekingese

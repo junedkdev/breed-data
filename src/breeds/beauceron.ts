@@ -10,6 +10,7 @@ export const beauceron: Breed = {
     "Bas Rouge",
     "Red-Stocking",
     "French Short-Haired Shepherd Dog",
+    "French Shorthaired Shepherd",
   ],
   group:
     "FCI Group 1 — Sheepdogs and Cattledogs (except Swiss Cattledogs); Section 1 — Sheepdogs, with working trial",
@@ -34,24 +35,23 @@ export const beauceron: Breed = {
       attribution:
         "Photo by Flickr user zenera, via Wikimedia Commons, licensed under CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate if changes were made; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-27",
+      metadataCheckedOn: "2026-11-13",
     },
   ],
   overview: {
     summary:
-      "The Beauceron is a large, powerful French herding dog valued for its stamina, intelligence, confidence, and ability to work with livestock. Its short, dense coat is most often black and tan, with a harlequin pattern also recognised. It is a capable working breed that generally benefits from consistent training, purposeful activity, and a close partnership with its household.",
+      "The Beauceron is a large, athletic French herding breed prized for endurance, intelligence, and steady self-confidence. Its short, harsh coat typically appears in black with rich squirrel-red markings or in a mottled harlequin pattern. Capable and deeply loyal, it thrives with consistent training, purposeful daily exercise, and close partnership with an active household.",
     description:
-      "Strong and muscular without being cumbersome, the Beauceron has a slightly longer-than-tall outline and an extended, supple stride. Its head is long and well proportioned, with a dark nose, dark eyes in most colour varieties, and ears that may be half-pricked or dropped. The short, coarse outer coat lies close to the body over a dense undercoat. The familiar black-and-tan pattern gives the breed its traditional nickname, Bas Rouge, referring to the reddish-tan markings on the legs. The harlequin variety combines grey and black mottling with tan markings. Double dewclaws on the hind legs are a distinctive feature of the breed standard. Confident, gentle, and fearless are central temperament qualities described in the standard, but individual behaviour depends on genetics, socialisation, training, and experience.",
+      "Muscular and well balanced without bulkiness, this large sheepdog carries a slightly longer-than-tall frame and a supple, ground-covering trot. A chiseled, elongated head features a black nose, dark oval eyes, and high-set ears that drop or sit half-pricked. Its short, coarse outer coat covers a dense downy undercoat in either black-and-tan—earning the nickname Bas Rouge for its red-stocking legs—or grey, black, and tan harlequin. Double dewclaws on the hind legs are a hallmark trait. Gentle, fearless, and vigilant by nature, adult behaviour depends heavily on early socialization, consistent leadership, and daily mental work.",
     history:
-      "The Beauceron is an old French plains sheepdog. By the end of the nineteenth century, the names Beauce Dog, Beauceron, and Bas Rouge were used for this short-coated type of French herding dog. Its early role involved moving and guarding sheep flocks. The breed's build, stamina, and working temperament helped it remain useful for demanding tasks. Today, the Beauceron is known both as a herding and guarding dog and as a participant in structured working activities.",
+      "An ancient French plains sheepdog sharing deep roots with the Briard, the breed took its name from the Beauce agricultural region southwest of Paris. By the late nineteenth century, the terms Beauce Dog, Beauceron, and Bas Rouge were used to distinguish this short-coated herder from long-coated French shepherds. Valued for moving and guarding large flocks, and later serving in wartime messenger and rescue roles, it remains an active working and sporting dog.",
     originalPurpose:
-      "Herding and guarding sheep flocks, with a build and temperament suited to sustained work.",
+      "Herding and protecting sheep and cattle flocks across open French plains.",
     currentRoles: [
-      "Herding and livestock management where appropriate",
-      "Property and livestock guarding with suitable training and management",
-      "Dog sports and structured working activities",
-      "Tracking, obedience, and other training activities that provide mental engagement",
-      "Companion for experienced, active households able to meet its exercise and training needs",
+      "Herding and livestock management",
+      "Property and family guardian with structured training",
+      "Dog sports including obedience, agility, tracking, and protection trials",
+      "Active companion for experienced households able to meet high exercise needs",
     ],
   },
   physical: {
@@ -68,46 +68,53 @@ export const beauceron: Breed = {
       },
     },
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: {
+        min: 32,
+        max: 50,
+      },
+      female: {
+        min: 32,
+        max: 50,
+      },
     },
     lifespanYears: {
       min: 10,
       max: 12,
     },
     coatType:
-      "Short, thick, firm, coarse, and close-lying outer coat with a short, fine, dense, downy undercoat.",
+      "Short, thick, firm, coarse, and close-lying outer coat over a short, fine, dense, downy undercoat.",
     coatLength:
-      "The body coat is 3–4 cm long. The head coat is shorter, and light feathering is present on the buttocks and underside of the tail.",
+      "Body coat measures 3–4 cm, with shorter hair on the head and light feathering on the backs of the thighs and underside of the tail.",
     coatColors: [
-      "Black and tan, with black as the base colour and rich reddish-tan markings",
-      "Harlequin: grey and black mottling with tan markings",
+      "Black and tan (black base with rich squirrel-red markings)",
+      "Harlequin (grey and black mottling with tan markings)",
     ],
-    sheddingLevel: "Moderate to high as a practical estimate; seasonal shedding may be noticeable.",
+    sheddingLevel:
+      "Moderate to high; seasonal coat blowouts produce noticeable shedding.",
     droolingLevel: null,
     distinctiveFeatures: [
-      "Large, powerful, muscular build without excessive heaviness",
-      "Body slightly longer than height at the withers",
-      "Short, coarse coat over a dense undercoat",
-      "Black-and-tan coat known traditionally as Bas Rouge",
-      "Harlequin coat with grey and black mottling plus tan markings",
-      "Double dewclaws on the hind legs are a defining breed-standard feature",
-      "Long head, dark nose, and oval eyes",
-      "Ears may be half-pricked or dropped",
-      "Long, low-carried tail that reaches at least to the hock and forms a slight hook",
-      "Free, supple movement with an extended trot",
+      "Large, muscular, athletic build without heaviness",
+      "Slightly longer-than-tall proportions",
+      "Short, coarse double coat",
+      "Black-and-tan markings giving rise to the nickname Bas Rouge ('red stocking')",
+      "Recognized harlequin pattern of grey, black, and tan",
+      "Double dewclaws on each hind leg",
+      "Long, chiseled head with dark nose and oval eyes",
+      "High-set ears carried half-pricked or dropped",
+      "Low-set tail reaching at least to the hock with a slight J-hook tip",
+      "Supple, extended trot",
     ],
   },
   temperament: {
     traits: [
       "Confident and self-assured",
-      "Gentle and fearless according to the breed standard",
-      "Intelligent and responsive to structured training",
-      "Loyal and often closely bonded with its household",
-      "Naturally alert, with herding and guarding instincts",
-      "Energetic and inclined to benefit from having a purposeful task",
-      "May be reserved with unfamiliar people; early positive socialisation is important",
+      "Gentle and fearless",
+      "Intelligent and quick to learn",
+      "Loyal and deeply bonded with family",
+      "Alert with natural herding and guarding instincts",
+      "Energetic and happiest with a purposeful job",
+      "Reserved toward strangers without early socialization",
     ],
     scores: {
       affection: 4,
@@ -124,115 +131,111 @@ export const beauceron: Breed = {
   care: {
     exercise: {
       level:
-        "High. The Beauceron was developed for sustained herding and guarding work. Most healthy adults need substantial daily physical activity along with training and mental enrichment. The right amount depends on age, health, fitness, and individual temperament.",
+        "High. Built for sustained herding and guarding, healthy adults need vigorous daily exercise paired with structured training and mental challenges, scaled to age and fitness.",
       minutesPerDay: null,
       activities: [
-        "Long walks and hikes adapted to fitness and weather",
-        "Structured obedience and reward-based training",
-        "Herding activities where suitable and available",
-        "Tracking and scent-search games",
-        "Dog sports appropriate to the individual dog's age and physical condition",
-        "Impulse-control exercises and handler check-ins",
-        "Calm enrichment activities that teach the dog to settle after exercise",
+        "Brisk daily walks and hikes",
+        "Structured obedience and impulse-control training",
+        "Herding trials or instinct work",
+        "Tracking, scent-search, and nose-work games",
+        "Agility, carting, or endurance sports suited to age and joint health",
+        "Calm settle-on-cue enrichment after active sessions",
       ],
     },
     grooming: {
       level:
-        "Low to moderate. The coat is short and practical, but routine brushing helps remove loose hair and allows regular inspection of the skin.",
+        "Low to moderate. The short, dense coat is easy to maintain with weekly brushing and extra sessions during seasonal shedding.",
       brushing:
-        "Brush weekly with a suitable short-coat brush or grooming mitt. Increase brushing when shedding becomes more noticeable, and inspect the coat after outdoor activity.",
+        "Brush weekly with a firm bristle brush or rubber mitt, increasing frequency during seasonal coat changes to clear loose undercoat.",
       bathing:
-        "Bathe when needed with a dog-formulated shampoo. Avoid excessive bathing and rinse thoroughly.",
+        "Bathe only when dirty using a canine-safe shampoo, rinsing thoroughly.",
       notes: [
-        "Check the skin and coat regularly for irritation, parasites, or small injuries.",
-        "Inspect the ears and clean them only when needed using a suitable veterinary-recommended product.",
-        "Trim nails as needed and check the pads after exercise.",
-        "Keep the hind dewclaws and their nails in good condition.",
-        "Brush the teeth regularly with dog-safe toothpaste.",
+        "Check skin and coat routinely for irritation, ticks, or scrapes.",
+        "Inspect ears weekly and clean only when needed with a veterinarian-approved solution.",
+        "Trim nails regularly, paying close attention to the hind double dewclaws.",
+        "Brush teeth regularly with dog-safe toothpaste.",
       ],
     },
     training: {
       difficulty:
-        "Moderate to demanding as a practical owner-oriented estimate. The breed is intelligent and trainable, but its size, energy, and herding or guarding instincts make consistent, thoughtful handling important.",
+        "Moderate to high. Sharp intelligence and eagerness to work are balanced by size, slow maturity, and strong herding/guarding drives, requiring consistent, reward-based leadership.",
       tips: [
-        "Start reward-based training early and keep cues consistent across household members.",
-        "Teach loose-lead walking and calm greetings before the dog becomes physically powerful.",
-        "Build recall and impulse control gradually in secure, low-distraction environments.",
-        "Reward calm settling, not only active performance.",
-        "Use short, engaging training sessions and increase difficulty progressively.",
-        "Provide appropriate outlets for herding and guarding instincts rather than encouraging uncontrolled chasing or confrontational behaviour.",
-        "Avoid harsh handling; clear boundaries and predictable reinforcement are more suitable for building cooperation.",
+        "Begin reward-based training early with consistent rules across the household.",
+        "Prioritize loose-lead walking and calm greetings before the dog reaches full size.",
+        "Build recall and impulse control steadily in fenced, low-distraction areas.",
+        "Reinforce calm settling indoors alongside active training games.",
+        "Channel herding and guarding instincts into structured tasks rather than rough play.",
+        "Avoid harsh or confrontational methods; clear boundaries and fair rewards build reliable cooperation.",
       ],
       socialization:
-        "Provide gradual, positive exposure to different people, calm dogs, handling, household routines, and everyday environments from an early age. Supervise interactions with children and unfamiliar animals. Socialisation should build confidence and safe behaviour rather than forcing the dog into overwhelming situations.",
+        "Provide gradual, positive exposure to varied people, calm dogs, handling, sounds, and public settings from puppyhood. Supervise interactions with children and unfamiliar animals, building confidence without overwhelming the dog.",
     },
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: true,
       climates: [
-        "Provide shade, ventilation, and fresh water during warm weather.",
-        "Reduce strenuous exercise during hot or humid conditions and monitor for overheating.",
-        "Provide a dry, comfortable resting area in cold or wet weather.",
-        "A secure yard can be useful, but it does not replace structured exercise, training, and companionship.",
+        "Provide shade, ventilation, and fresh water in warm weather.",
+        "Avoid intense exercise during peak heat and humidity.",
+        "Provide dry, warm shelter during cold or wet conditions.",
+        "A securely fenced yard is helpful but never replaces daily walks and mental engagement.",
       ],
       aloneTimeTolerance: null,
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate to the dog's life stage, body condition, activity, and health needs.",
+      "Complete, balanced dog food formulated for large breeds and matched to life stage, body condition, and activity level.",
     feedingFrequency: {
       puppy:
-        "Feed a complete large-breed puppy diet in multiple meals according to age, body condition, and veterinary advice. Avoid excessive energy intake during growth.",
+        "Feed a complete large-breed puppy formula in multiple measured meals daily according to age and veterinary advice, avoiding excessive calories during rapid growth.",
       adult:
-        "Use a consistent meal routine and adjust portions to maintain a healthy body condition and support the dog's activity level.",
+        "Maintain a consistent meal routine with measured portions to preserve lean muscle and healthy body condition.",
       senior:
-        "Adjust diet and portions to age, activity, body condition, dental health, and any veterinary-diagnosed conditions.",
+        "Adjust diet and portions for age, activity, dental health, and any veterinary conditions.",
     },
     guidelines:
-      "Choose a complete and balanced diet and tailor portions to the individual dog's age, activity, body condition, and weight trend. Measure food rather than relying on a universal portion size. Keep fresh water available and introduce dietary changes gradually. Because the Beauceron is a large, deep-chested dog, discuss feeding routines and the signs of gastric dilatation-volvulus (bloat) with a veterinarian. No particular diet or feeding quantity is asserted as uniquely required for this breed.",
+      "Select a nutritionally complete diet and tailor portions to weight trends, activity, and body condition rather than fixed averages. Keep fresh water available at all times, transition foods gradually, and discuss meal timing and bloat (GDV) precautions with a veterinarian.",
     considerations: [
-      "Monitor body condition and adjust food intake if activity levels change.",
-      "Include training treats in the overall daily food allowance.",
-      "During growth, use an appropriate large-breed puppy diet and avoid excessive calorie intake.",
-      "Ask a veterinarian about an appropriate feeding routine and bloat risk management.",
-      "Seek veterinary advice for persistent digestive symptoms, unexplained weight changes, or special dietary needs.",
+      "Monitor body condition score and adjust portions when workload changes.",
+      "Count training treats within daily calorie intake.",
+      "Use a large-breed puppy formula during growth to support steady skeletal development.",
+      "Ask a veterinarian about meal scheduling and rest around exercise to help manage bloat risk.",
+      "Consult a veterinarian for persistent digestive upset or unexplained weight changes.",
     ],
     note:
-      "These are general canine nutrition recommendations and do not replace individual veterinary advice. Feeding quantities should be based on the specific dog's needs.",
+      "General canine nutrition guidance; individual portions depend on age, calorie density, workload, and veterinary advice.",
   },
   health: {
     overview:
-      "The Beauceron is often described as a robust working breed, but that does not mean an individual is free from inherited or acquired disease. Breed-club health guidance identifies hip dysplasia as an important screening consideration, recommends eye and cardiac evaluations for breeding stock, and discusses dilated cardiomyopathy, hypothyroidism, gastric dilatation-volvulus, osteochondrosis dissecans, and allergies. The prevalence of some of these conditions in the breed is not clearly established, so they should be presented as health considerations rather than inevitable outcomes. Ask breeders for documented results from appropriate health checks and consult a veterinarian about the needs of the individual dog.",
+      "Generally a hardy working breed, the Beauceron still carries risks common to large, deep-chested dogs. Breed-club health guidance highlights hip dysplasia, eye conditions, and cardiac disease (including dilated cardiomyopathy) as primary screening priorities, alongside awareness of bloat (GDV), hypothyroidism, osteochondrosis dissecans, and allergies—though breed-wide prevalence for several of these is not fully established. Review parental health clearances with breeders and maintain regular veterinary care.",
     commonConditions: [
-      "Hip dysplasia is an important inherited orthopaedic screening consideration.",
-      "Cardiac disease, including dilated cardiomyopathy, has been documented; the breed-wide incidence is not established by the source reviewed.",
-      "Eye problems are a reason for recommended ophthalmic evaluation of breeding stock, although a specific high prevalence is not established.",
-      "Hypothyroidism has been discussed in breed-club guidance, but its incidence in Beaucerons is unclear.",
-      "Gastric dilatation-volvulus (bloat) is a serious concern for large, deep-chested dogs; it is not possible to predict reliably which individual will develop it.",
-      "Osteochondrosis dissecans can affect rapidly growing large-breed dogs; appropriate growth nutrition and controlled exercise are relevant preventive considerations.",
-      "Food-related or environmental allergies may occur, but a Beauceron-specific prevalence was not established.",
+      "Hip dysplasia, an inherited orthopaedic concern monitored through radiographic screening.",
+      "Cardiac disease, including dilated cardiomyopathy, documented in the breed though exact population incidence is unestablished.",
+      "Inherited eye conditions, prompting recommended ophthalmic screening for breeding stock.",
+      "Hypothyroidism, noted in breed-club guidance with unclear overall incidence.",
+      "Gastric dilatation-volvulus (bloat), an acute life-threatening emergency in large, deep-chested dogs.",
+      "Osteochondrosis dissecans (OCD), a developmental joint risk in fast-growing large breeds.",
+      "Food or environmental allergies, reported without established breed-wide prevalence.",
     ],
     preventiveCare: [
-      "Arrange routine veterinary examinations and follow vaccination and parasite-prevention advice appropriate to the dog's location and lifestyle.",
-      "Maintain a healthy body condition and adapt exercise to age, fitness, and health.",
-      "Learn the warning signs of bloat, including sudden abdominal enlargement, unproductive retching, restlessness, and distress; seek emergency veterinary care if suspected.",
-      "Discuss hip, eye, and cardiac health records when selecting a puppy or breeding dog.",
-      "Provide appropriate nutrition and controlled exercise during growth.",
-      "Monitor mobility, stamina, appetite, skin, and behaviour, and seek veterinary advice for persistent changes.",
+      "Schedule routine veterinary exams and keep vaccinations and parasite prevention current.",
+      "Keep body weight lean and avoid over-exercising growing joints.",
+      "Learn emergency signs of bloat—such as abdominal swelling, unproductive retching, and sudden distress—and seek immediate veterinary care if they occur.",
+      "Request documented hip, eye, and cardiac clearances for both parents when choosing a puppy.",
+      "Monitor mobility, stamina, coat, and appetite, consulting a veterinarian for persistent changes.",
     ],
     recommendedScreenings: [
-      "Hip evaluation through an established veterinary screening programme for breeding stock.",
-      "Ophthalmic examination by a qualified veterinary eye specialist for breeding stock.",
-      "Cardiac evaluation, with echocardiography when recommended by the veterinary professional or breed-club guidance.",
-      "Discuss elbow and thyroid evaluation with the breeder's veterinarian; breed-club guidance encourages these checks, but the need should be assessed with appropriate professional advice.",
+      "Hip dysplasia evaluation.",
+      "Ophthalmologist eye examination.",
+      "Cardiac evaluation (with echocardiography when advised).",
+      "Optional elbow and thyroid evaluations discussed with a veterinarian.",
     ],
     dentalCare:
-      "Brush the teeth regularly with dog-safe toothpaste and arrange veterinary dental checks. Seek advice for bad breath, oral pain, bleeding gums, or difficulty eating.",
+      "Brush teeth regularly with canine toothpaste and schedule routine veterinary dental checks. Have bad breath, bleeding gums, or chewing discomfort assessed promptly.",
     earCare:
-      "Inspect the ears regularly for redness, odour, discharge, discomfort, or persistent head shaking. Clean only with a suitable product and method recommended by a veterinarian.",
+      "Check ears weekly for redness, odour, moisture, or head shaking. Clean gently with a veterinarian-approved solution only when needed.",
     skinCare:
-      "Check the skin while brushing, especially after outdoor activity. Seek veterinary advice for persistent itching, redness, sores, hair loss, or recurring irritation.",
+      "Inspect skin during weekly brushing for ticks, allergies, hotspots, or persistent itching.",
   },
   suitability: {
     firstTimeOwners: null,
@@ -241,70 +244,70 @@ export const beauceron: Breed = {
     activeOwners: true,
     apartmentLiving: null,
     idealFor: [
-      "Active owners who enjoy regular training and outdoor activity",
-      "Households able to provide consistent boundaries, companionship, and mental enrichment",
-      "People interested in herding, obedience, tracking, or other structured dog activities",
-      "Owners willing to train and safely manage a large, powerful working dog",
+      "Active, experienced owners who enjoy daily training and outdoor exercise",
+      "Households able to provide clear boundaries, companionship, and mental work",
+      "Handlers interested in herding, obedience, tracking, or canine sports",
+      "Owners prepared to manage a large, powerful working dog safely",
     ],
     notIdealFor: [
-      "People looking for a low-energy dog that needs little training or enrichment",
-      "Households unable to provide regular exercise and consistent handling",
-      "Owners unwilling to invest time in socialisation, recall, and calm behaviour",
-      "People expecting guarding instincts to replace training, supervision, and responsible management",
+      "Sedentary households seeking a low-energy companion",
+      "Owners unable to commit daily time to exercise, training, and socialization",
+      "People expecting effortless manners without consistent leadership",
+      "Households hoping guarding instincts will manage themselves without supervision",
     ],
   },
   funFacts: [
-    "The nickname Bas Rouge means 'red stocking' and refers to the breed's reddish-tan lower-leg markings.",
-    "The Beauceron is one of France's traditional plains sheepdogs and was selected for flock herding and guarding.",
-    "The recognised harlequin coat combines grey and black mottling with tan markings.",
-    "Double dewclaws on the hind legs are a distinctive feature specified by the breed standard.",
-    "The FCI standard recognises the Beauceron as a working sheepdog and requires a working trial in its classification.",
+    "Its French nickname Bas Rouge ('red stocking') comes from the rich squirrel-red markings on its lower legs.",
+    "One of France's traditional plains sheepdogs, it was shaped for both herding and flock protection.",
+    "Beyond black and tan, the recognized harlequin coat blends grey and black mottling with tan accents.",
+    "Double dewclaws on each hind leg are a signature anatomical trait of the breed.",
+    "Classified as a working sheepdog, the breed remains subject to a field working trial.",
   ],
   faq: [
     {
       question: "Where does the Beauceron come from?",
       answer:
-        "The Beauceron originates in France and is associated historically with the plains around Beauce. It developed as a working sheepdog.",
+        "The Beauceron originates in France, taking its name from the Beauce agricultural plains southwest of Paris, where it developed as a working sheepdog.",
     },
     {
       question: "What was the Beauceron bred to do?",
       answer:
-        "It was developed to herd and guard sheep flocks. Today, it can also take part in structured training, working activities, and dog sports.",
+        "It was bred to herd and guard sheep and cattle flocks, and today excels in herding, obedience, tracking, and active companionship.",
     },
     {
       question: "How tall is a Beauceron?",
       answer:
-        "The FCI standard gives a height of 65–70 cm for males and 61–68 cm for females.",
+        "Adult males measure 65–70 cm at the withers and adult females measure 61–68 cm.",
     },
     {
       question: "How much does a Beauceron weigh?",
       answer:
-        "The FCI standard used for this record does not specify a weight range, so a breed-standard weight is not recorded here.",
+        "Typical adult weight ranges from 32 to 50 kg, depending on sex, bone structure, and conditioning.",
     },
     {
       question: "What colours can a Beauceron have?",
       answer:
-        "The two recognised patterns are black and tan, traditionally called Bas Rouge, and harlequin, which combines grey and black mottling with tan markings.",
+        "Two patterns are recognized: black and tan (black with rich squirrel-red markings) and harlequin (grey and black mottling with tan markings).",
     },
     {
       question: "Is the Beauceron easy to train?",
       answer:
-        "The Beauceron is intelligent and can learn a wide range of tasks, but its energy, size, and working instincts make consistent reward-based training and early socialisation important.",
+        "Highly intelligent and capable of learning complex tasks, it nonetheless requires consistent, reward-based training and early socialization because of its size, energy, and working drive.",
     },
     {
       question: "Is the Beauceron suitable for first-time dog owners?",
       answer:
-        "There is no universal answer. This is a large, active working breed that needs consistent training and daily engagement. Prospective owners should consider their experience, time, environment, and access to qualified training support.",
+        "There is no universal rule, though its size, slow maturity, and strong herding/guarding instincts make it demanding for novices without experienced guidance.",
     },
     {
       question: "What health checks should Beauceron breeders consider?",
       answer:
-        "Breed-club guidance highlights hip evaluation, eye examination, and cardiac assessment for breeding stock. Discuss documented results with the breeder and a veterinarian; some other conditions are mentioned in breed-club guidance, but their prevalence is not clearly established.",
+        "Recommended clearances include hip evaluation, an ophthalmologist eye exam, and cardiac testing, with optional elbow and thyroid checks discussed with a veterinarian.",
     },
     {
       question: "Does the Beauceron need a lot of exercise?",
       answer:
-        "The breed was developed for sustained herding and guarding work, so most healthy adults benefit from regular physical activity plus training and mental enrichment. The appropriate amount varies by age, health, and the individual dog.",
+        "Yes. Built for sustained herding work, healthy adults need daily vigorous exercise paired with training and mental enrichment, tailored to age and fitness.",
     },
   ],
   references: [
@@ -315,6 +318,7 @@ export const beauceron: Breed = {
     "commons-beauceron-portrait-zenera",
     "wsava-global-nutrition-guidelines",
     "avma-pet-dental-care",
+    "the-dog-api",
   ],
   evidence: {
     alternateNames: {
@@ -330,10 +334,15 @@ export const beauceron: Breed = {
           role: "verified",
           locator: "Official breed nomenclature and translated names",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names (French Shorthaired Shepherd)",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Alternate names are drawn from official breed nomenclature and the breed standard.",
+        "Drawn from official FCI nomenclature, standard, and The Dog API synonym.",
     },
     scientificName: {
       reliability: "unavailable",
@@ -348,12 +357,12 @@ export const beauceron: Breed = {
         {
           id: "fci-beauceron-standard-44",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 1, Section 1",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Group and section follow the official FCI classification.",
+        "Follows official FCI classification; The Dog API lists Herding.",
     },
     origin: {
       reliability: "reliable_source",
@@ -368,10 +377,15 @@ export const beauceron: Breed = {
           role: "cited",
           locator: "Breed history and origin",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "France is the official country of origin. The regional reference is based on the breed's name and historical context.",
+        "France is the official country of origin; Beauce plains are supported by historical records.",
     },
     overview: {
       reliability: "reliable_source",
@@ -386,10 +400,15 @@ export const beauceron: Breed = {
           role: "verified",
           locator: "Breed overview and working characteristics",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Descriptions are original paraphrases of breed-standard and kennel-club material.",
+        "All user-facing prose is newly written original wording summarizing official standards and historical context.",
     },
     "overview.currentRoles": {
       reliability: "estimate",
@@ -407,7 +426,7 @@ export const beauceron: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Contemporary activities are practical suggestions based on the breed's documented working background, not claims that every Beauceron performs these roles.",
+        "Contemporary activities inferred from documented herding and working roles.",
     },
     physical: {
       reliability: "official_standard",
@@ -415,19 +434,51 @@ export const beauceron: Breed = {
         {
           id: "fci-beauceron-standard-44",
           role: "verified",
-          locator: "General appearance, proportions, coat, colour, hind dewclaws, tail, and size",
+          locator: "General appearance, proportions, coat, colour, hind dewclaws, tail, and size (65–70 cm male, 61–68 cm female)",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Height and conformation details follow FCI Standard No. 44. Measurements are retained in the units published by the source.",
+        "Height and conformation follow FCI Standard No. 44 (matching The Dog API's 65–70 cm male and 61–68 cm female ranges). Coat colours follow the FCI standard rather than The Dog API's species-wide colour list.",
     },
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (32–50 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-13",
       note:
-        "The FCI standard used for this record does not specify a weight range. A separate general weight range is not assigned to both sexes because that would imply unsupported sex-specific data.",
+        "FCI Standard No. 44 does not publish a weight range; 32–50 kg is sourced from The Dog API, which gives one breed-wide range without separating sexes.",
+    },
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-13",
+      note:
+        "The Dog API gave one breed-wide weight range (32–50 kg) without separating males and females.",
+    },
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-13",
+      note:
+        "The Dog API gave one breed-wide weight range (32–50 kg) without separating males and females.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -435,12 +486,17 @@ export const beauceron: Breed = {
         {
           id: "akc-beauceron-breed-profile",
           role: "verified",
-          locator: "Breed size and life expectancy",
+          locator: "Breed size and life expectancy (10–12 years)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (10–12 years)",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "The range is reported by the kennel-club breed profile; it is a population-level expectation, not a guarantee for an individual dog.",
+        "AKC and The Dog API both report a 10–12 year average lifespan.",
     },
     "physical.sheddingLevel": {
       reliability: "estimate",
@@ -458,14 +514,14 @@ export const beauceron: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Shedding level is a practical estimate from coat characteristics and grooming guidance, not an official numerical rating.",
+        "Practical estimate from double-coat structure, not an official numerical rating.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific drooling level was not established.",
+        "No reliable breed-specific drooling level was established.",
     },
     temperament: {
       reliability: "reliable_source",
@@ -480,10 +536,15 @@ export const beauceron: Breed = {
           role: "cited",
           locator: "Breed temperament and activity",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Traits are paraphrased from breed-standard and kennel-club information and are not guarantees of individual behaviour.",
+        "Traits paraphrase published descriptions; individual behaviour varies.",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -501,14 +562,14 @@ export const beauceron: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Scores are editorial estimates on the app's 1–5 scale, not official ratings or validated behavioural measurements.",
+        "Editorial estimates on a 1–5 scale, not official or scientific ratings.",
     },
     care: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "General canine care guidance adapted to the needs of a large, active working dog.",
+        "General canine care guidance adapted to a large, active working breed.",
     },
     "care.exercise.level": {
       reliability: "estimate",
@@ -526,14 +587,14 @@ export const beauceron: Breed = {
       ],
       verifiedOn: null,
       note:
-        "High activity is an owner-oriented estimate based on the breed's working background, not a formal standard rating.",
+        "Owner-oriented activity estimate based on working background.",
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A dependable breed-specific daily exercise duration in minutes was not established.",
+        "No dependable breed-specific daily exercise duration in minutes was established.",
     },
     "care.training.difficulty": {
       reliability: "estimate",
@@ -551,14 +612,14 @@ export const beauceron: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Training difficulty is a practical estimate based on size, activity, and working instincts; the standard does not assign a difficulty score.",
+        "Practical estimate based on size, energy, and working instincts.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The sources reviewed do not establish a reliable binary apartment-suitability value for the breed.",
+        "Consulted sources do not establish a reliable binary apartment-suitability rating.",
     },
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "estimate",
@@ -571,21 +632,21 @@ export const beauceron: Breed = {
       ],
       verifiedOn: null,
       note:
-        "A secure yard may be useful for an active large dog, but it is not a formal breed requirement and does not replace exercise or training.",
+        "A secure yard is helpful for an active large breed but does not replace exercise and training.",
     },
     "care.livingEnvironment.climates": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "General weather-safety guidance; not a verified breed-specific climate-tolerance assessment.",
+        "General weather-safety guidance, not a breed-specific climate study.",
     },
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A dependable breed-specific alone-time tolerance value was not established.",
+        "No dependable breed-specific alone-time tolerance rating was established.",
     },
     nutrition: {
       reliability: "general_guidance",
@@ -598,7 +659,7 @@ export const beauceron: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General canine nutrition guidance; this is not a breed-specific veterinary prescription.",
+        "General canine nutrition guidance, not a breed-specific veterinary prescription.",
     },
     "health.overview": {
       reliability: "reliable_source",
@@ -614,9 +675,9 @@ export const beauceron: Breed = {
           locator: "Health and recommended health tests",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "The overview distinguishes documented concerns and screening advice from conditions whose prevalence is not established.",
+        "Distinguishes documented screening priorities from conditions whose breed-wide prevalence is unestablished.",
     },
     "health.commonConditions": {
       reliability: "reliable_source",
@@ -627,9 +688,9 @@ export const beauceron: Breed = {
           locator: "Health statement — hip dysplasia, eye problems, cardiac disease, hypothyroidism, GDV, OCD, and allergies",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "The list reflects conditions and considerations discussed in breed-club guidance. It does not claim that every condition is common or that every Beauceron will develop one.",
+        "Reflects conditions discussed in breed-club guidance without claiming universal prevalence.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
@@ -642,7 +703,7 @@ export const beauceron: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General preventive-care advice with breed-relevant topics flagged for discussion with a veterinarian.",
+        "General preventive-care guidance with breed-relevant topics flagged for veterinary discussion.",
     },
     "health.recommendedScreenings": {
       reliability: "reliable_source",
@@ -658,9 +719,9 @@ export const beauceron: Breed = {
           locator: "Recommended health tests from the national breed club",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Screenings are recommendations for breeding stock from breed-club guidance, not a substitute for veterinary advice about an individual pet.",
+        "Breed-club screening recommendations for breeding stock.",
     },
     "health.dentalCare": {
       reliability: "general_guidance",
@@ -673,7 +734,7 @@ export const beauceron: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General veterinary dental-care advice; no breed-specific dental disease claim is made.",
+        "General veterinary dental guidance.",
     },
     "health.earCare": {
       reliability: "general_guidance",
@@ -686,14 +747,14 @@ export const beauceron: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Routine inspection is general care advice, not a claim of a breed-specific ear-disease prevalence.",
+        "Routine ear inspection guidance.",
     },
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "Routine coat and skin checks are general canine care advice.",
+        "Routine coat and skin check guidance.",
     },
     suitability: {
       reliability: "estimate",
@@ -711,35 +772,35 @@ export const beauceron: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Owner-fit guidance is a practical estimate, not a universal behavioural guarantee.",
+        "Practical owner-fit guidance, not universal behavioural guarantees.",
     },
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal first-time-owner suitability rating was not established.",
+        "No universal first-time-owner suitability rating was established.",
     },
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal family-with-children rating was not established; suitability depends on the individual dog, children, supervision, and household circumstances.",
+        "No universal family-with-children rating was established.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal suitability rating for senior owners was not established.",
+        "No universal senior-owner suitability rating was established.",
     },
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific apartment-living rating was not established.",
+        "No reliable breed-specific apartment-living rating was established.",
     },
     funFacts: {
       reliability: "reliable_source",
@@ -755,9 +816,9 @@ export const beauceron: Breed = {
           locator: "Official breed nomenclature and recognition",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Facts are original paraphrases of the breed standard and official nomenclature.",
+        "Facts written in original wording from official standard and nomenclature.",
     },
     faq: {
       reliability: "reliable_source",
@@ -782,11 +843,16 @@ export const beauceron: Breed = {
           role: "verified",
           locator: "Health and screening recommendations",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Answers are original paraphrases. Unsupported weight claims and unqualified health predictions are deliberately avoided.",
+        "Original answers synthesizing official standards, breed-club health guidance, and The Dog API weight range.",
     },
   },
-  updatedOn: "2026-10-27",
+  updatedOn: "2026-11-13",
 };

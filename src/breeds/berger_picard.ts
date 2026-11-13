@@ -34,24 +34,24 @@ export const berger_picard: Breed = {
       attribution:
         "Photo by Cufleadh, via Wikimedia Commons, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Indicate if changes were made; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-02",
+      metadataCheckedOn: "2026-11-13",
     },
   ],
   overview: {
     summary:
-      "The Berger Picard is a medium-sized French herding dog recognised by its rough, tousled coat, naturally erect ears, athletic build, and alert expression. Developed to move and protect livestock, it is an active, intelligent, and independent worker that generally thrives with regular exercise, thoughtful training, and close companionship.",
+      "The Berger Picard is a medium-sized French herding dog known for its tousled, crisp coat, high-set erect ears, and lively expression. Bred to drive and guard sheep flocks, this athletic, independent-minded worker thrives with daily physical exercise, consistent reward-based training, and close family involvement.",
     description:
-      "The Berger Picard has a sturdy but unheavy frame, with a body slightly longer than its height at the withers. Its rustic appearance comes from a harsh, semi-long outer coat and a fine, dense undercoat. Distinctive eyebrows, a beard, and a moustache frame its face, while its naturally erect ears give it an attentive expression. The breed's movement is free and supple, reflecting its original role as a working sheepdog. Picards are often lively, observant, and confident, although some can be reserved around unfamiliar people. Their independent working background makes early socialisation, consistent positive training, and daily mental and physical activity important.",
+      "Solidly built without heaviness, the Berger Picard has a slightly longer-than-tall frame and effortless, supple movement. Its rugged look comes from a harsh, semi-long outer coat over a fine, dense undercoat, accented by distinct eyebrows, a beard, and a moustache beneath naturally upright ears. Observant, energetic, and deeply loyal to its household, it can be reserved with unfamiliar people, making early socialization and engaging daily mental work essential.",
     history:
-      "The Berger Picard is an old French sheepdog associated with the Picardy region, although its exact place of origin is not certain. Harsh-coated sheep and cattle dogs were historically found across north-western Europe, and the Picard may have developed from this wider working-dog population. Dogs of this type were shown alongside Beaucerons and Briards in 1863. The breed became more clearly established as a distinct type by 1898, and Paul Megnin drafted an early breed standard in 1922. It received definitive recognition in France in 1925. World War II severely affected the breed, and later enthusiasts worked to rebuild its population and preserve its traditional working characteristics.",
+      "Among the oldest French herding breeds, the Berger Picard is traditionally linked to the Picardy region of northern France, though its exact origins among northwestern European rough-coated flock dogs remain uncertain. Exhibited alongside Beaucerons and Briards in 1863, the breed gained clearer definition by 1898, received a formal draft standard in 1922, and earned official recognition in France in 1925. Nearly wiped out during both World Wars, it was rebuilt by dedicated breeders.",
     originalPurpose:
-      "Driving and guarding flocks of sheep, with a practical role as a farm and home guardian.",
+      "Driving and guarding sheep flocks, alongside general farm and homestead watchdog work.",
     currentRoles: [
       "Sheep herding and livestock management",
-      "Farm and property watchdog duties with appropriate training",
-      "Companion for active households",
-      "Agility, tracking, obedience, and other dog sports",
-      "Hiking, running, and other outdoor activities with an active owner",
+      "Farm and property watchdog with appropriate training",
+      "Active family companion",
+      "Agility, tracking, obedience, rally, and herding trials",
+      "Hiking, running, and outdoor endurance partner",
     ],
   },
   physical: {
@@ -68,18 +68,24 @@ export const berger_picard: Breed = {
       },
     },
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: {
+        min: 23,
+        max: 32,
+      },
+      female: {
+        min: 23,
+        max: 32,
+      },
     },
     lifespanYears: {
       min: 12,
       max: 13,
     },
     coatType:
-      "Harsh, crisp, semi-long double coat with a fine, dense undercoat.",
+      "Harsh, crisp, semi-long double coat paired with a fine, dense undercoat.",
     coatLength:
-      "The FCI standard specifies approximately 5–6 cm over the body, including the tail. The coat on the head forms distinct eyebrows, a beard, and a moustache.",
+      "Measures approximately 5–6 cm over the body and tail, while forming distinct eyebrows, a beard, and a moustache on the head.",
     coatColors: [
       "Fawn",
       "Fawn with a dark overlay",
@@ -87,30 +93,30 @@ export const berger_picard: Breed = {
       "Grey, generally remaining dark",
     ],
     sheddingLevel:
-      "Moderate as a practical estimate. Seasonal shedding can be more noticeable because the breed has a dense undercoat.",
+      "Moderate; seasonal coat changes release noticeable loose undercoat.",
     droolingLevel: null,
     distinctiveFeatures: [
-      "Medium-sized, sturdy, athletic frame without excessive heaviness",
-      "Body slightly longer than height at the withers",
-      "Naturally erect ears with slightly rounded tips",
-      "Distinctive rough eyebrows, beard, and moustache",
-      "Harsh, crisp, semi-long outer coat with a dense undercoat",
-      "Naturally long tail that reaches the hock and has a slight curve at the tip",
-      "Free, supple movement with moderate reach",
+      "Medium-sized, solid, athletic build without heaviness",
+      "Body length slightly exceeding height at the withers",
+      "Naturally erect, high-set ears with slightly rounded tips",
+      "Rugged facial hair forming eyebrows, beard, and moustache",
+      "Harsh, crisp, semi-long double coat",
+      "Long tail reaching the hock with a slight upward curve at the tip",
+      "Free, supple stride",
       "Black nose and dark eyes",
-      "No dewclaws or supernumerary digits on the hind feet under the FCI standard",
+      "Hind feet free of dewclaws or extra digits",
     ],
   },
   temperament: {
     traits: [
       "Lively and alert",
-      "Observant and attentive to its surroundings",
-      "Generally even-tempered",
-      "Confident without being expected to be aggressive",
-      "May be reserved or aloof with unfamiliar people",
-      "Intelligent and capable of independent problem-solving",
-      "Active and inclined to enjoy purposeful work",
-      "Often forms close relationships with its household",
+      "Observant and attentive",
+      "Even-tempered",
+      "Confident and fearless without unwarranted aggression",
+      "Reserved or aloof toward strangers",
+      "Intelligent, independent problem-solver",
+      "Energetic and happiest with a purposeful task",
+      "Affectionate and closely bonded with family",
     ],
     scores: {
       affection: 4,
@@ -127,122 +133,115 @@ export const berger_picard: Breed = {
   care: {
     exercise: {
       level:
-        "High. The Berger Picard was developed as a working sheepdog and has considerable stamina. Most healthy adults need daily physical activity together with mental challenges and opportunities to use their working instincts. Exercise should be adapted to age, health, fitness, and weather.",
+        "High. Built for sustained herding work, healthy adults need vigorous daily physical exercise plus mental enrichment, scaled to age, fitness, and weather.",
       minutesPerDay: null,
       activities: [
         "Long daily walks",
-        "Hiking and outdoor exploration",
-        "Running with a fit adult dog after appropriate conditioning",
-        "Herding activities where available and suitable",
-        "Agility and other structured dog sports",
-        "Tracking and scent-based games",
-        "Obedience training and problem-solving games",
-        "Swimming when the individual dog enjoys it and can do so safely",
+        "Hiking and trail exploration",
+        "Conditioned running with a mature adult dog",
+        "Herding instinct and livestock work",
+        "Agility, rally, and structured dog sports",
+        "Tracking and scent-search games",
+        "Obedience and puzzle-solving sessions",
+        "Supervised swimming when enjoyed",
       ],
     },
     grooming: {
       level:
-        "Low to moderate. The rustic double coat is relatively practical, but it needs regular attention, especially when the undercoat is shedding.",
+        "Low to moderate. The rustic double coat stays relatively tidy with routine brushing, needing more frequent care during seasonal shedding.",
       brushing:
-        "Brush approximately weekly as a practical routine. During heavier seasonal shedding, increase brushing frequency to remove loose undercoat. Check for tangles and debris in the beard, eyebrows, and feathered areas.",
+        "Brush weekly (or monthly outside shedding, increasing to every day or two during seasonal blowouts) using a slicker brush and rake, checking the beard, eyebrows, and feathering for tangles and burrs.",
       bathing:
-        "Bathe occasionally or when genuinely dirty. Use a dog-formulated shampoo suitable for a harsh or crisp coat and rinse thoroughly.",
+        "Bathe occasionally when soiled using a shampoo formulated for crisp coats, rinsing thoroughly.",
       notes: [
-        "The coat is intended to retain its natural rustic texture; avoid unnecessary trimming or styling.",
-        "Inspect the coat after outdoor activity for burrs, seeds, and debris.",
-        "Trim nails regularly and check the paw pads.",
-        "Inspect the ears regularly and clean only when needed with an appropriate product.",
-        "Brush the teeth regularly using dog-safe toothpaste.",
-        "During seasonal shedding, more frequent brushing helps remove loose undercoat.",
+        "Preserve the natural rustic coat texture without unnecessary clipping or styling.",
+        "Check coat and paws for burrs, grass seeds, and ticks after outdoor runs.",
+        "Trim nails regularly.",
+        "Inspect the upright ears routinely and clean only when needed with a veterinarian-approved solution.",
+        "Brush teeth regularly with dog-safe toothpaste.",
       ],
     },
     training: {
       difficulty:
-        "Moderate to demanding as a practical owner-oriented estimate. The breed is intelligent and capable, but its independent herding background means it benefits from patient, consistent training and a clear relationship with its handler.",
+        "Moderate to high. Sharp intelligence and problem-solving drive can look like stubbornness if sessions are repetitive, so patient, varied, reward-based training works best.",
       tips: [
-        "Begin reward-based training and household routines early.",
-        "Use consistent cues and short, engaging training sessions.",
-        "Teach reliable recall gradually and practise in secure environments before allowing off-lead freedom.",
-        "Reward calm behaviour around unfamiliar people, dogs, livestock, and moving objects.",
-        "Provide activities that use the dog's problem-solving and scenting abilities.",
-        "Build loose-lead walking and impulse control before the dog develops strong pulling habits.",
-        "Avoid relying on repetitive drills alone; vary activities to maintain engagement.",
-        "Use calm, predictable handling rather than harsh corrections.",
+        "Start reward-based training and household routines early.",
+        "Keep cues consistent and sessions short, varied, and engaging.",
+        "Build reliable recall in fenced areas before allowing off-lead freedom.",
+        "Reinforce calm focus around unfamiliar people, dogs, livestock, and moving cyclists.",
+        "Provide scent-work and puzzle games to satisfy herding-dog curiosity.",
+        "Establish loose-lead walking and impulse control early.",
+        "Use calm, fair rewards rather than harsh corrections.",
       ],
       socialization:
-        "Introduce the puppy gradually and positively to different people, calm dogs, everyday sounds, handling, surfaces, and environments. Continue socialisation into adulthood. Some Picards can become reserved around unfamiliar people, so regular, comfortable exposure and reward-based training are useful. Do not force interactions when the dog is worried.",
+        "Provide gradual, positive exposure to varied people, calm dogs, sounds, surfaces, and public settings from puppyhood into adulthood. Because Picards can be reserved with strangers, let the dog approach at its own comfort level without forcing close contact.",
     },
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: true,
       climates: [
-        "Provide shade, ventilation, and fresh water during hot weather.",
-        "Avoid strenuous exercise during the hottest part of the day.",
-        "Monitor for overheating during warm or humid conditions.",
-        "Provide a dry, comfortable resting place in cold or wet weather.",
-        "A secure outdoor area can be useful, but it does not replace walks, training, and companionship.",
+        "Provide shade, ventilation, and fresh water in warm weather.",
+        "Schedule vigorous exercise during cooler hours in summer.",
+        "Provide a dry, comfortable shelter in cold or wet conditions.",
+        "A securely fenced yard is helpful but never replaces daily walks and mental engagement.",
       ],
       aloneTimeTolerance: null,
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate to the dog's life stage, body condition, activity level, and health needs.",
+      "Complete, balanced dog food matched to life stage, body condition, activity level, and health needs.",
     feedingFrequency: {
       puppy:
-        "Feed a complete puppy diet in multiple meals according to age, growth, body condition, and veterinary advice. Avoid excessive calorie intake during development.",
+        "Feed a complete puppy formula in multiple measured meals daily according to age and veterinary guidance, avoiding excessive calories during growth.",
       adult:
-        "Use a consistent meal routine and adjust portions to maintain a healthy body condition and support the dog's activity level.",
+        "Maintain a consistent meal schedule with measured portions to keep a lean, athletic build.",
       senior:
-        "Adjust food portions and nutrient profile to age, activity, body condition, dental health, and any veterinary-diagnosed conditions.",
+        "Adjust portions and nutrient balance for age, activity, dental health, and any veterinary conditions.",
     },
     guidelines:
-      "Choose a complete and balanced food appropriate for the dog's life stage. Measure portions and adjust them according to body condition, activity, and weight trends rather than relying on a fixed amount for every Berger Picard. Keep fresh water available and introduce dietary changes gradually. Ask a veterinarian for individual advice if the dog has digestive problems, allergies, a medical condition, or an unexpected change in weight.",
+      "Select a nutritionally complete diet and tailor portions to weight trends, activity, and body condition rather than fixed averages. Keep fresh water available at all times, transition foods gradually, and consult a veterinarian for digestive issues, allergies, or weight changes.",
     considerations: [
-      "Monitor body condition regularly and adjust portions when activity changes.",
-      "Include training treats in the dog's overall daily food allowance.",
-      "Avoid excessive feeding during puppy growth.",
-      "Provide fresh water at all times.",
-      "Discuss persistent digestive symptoms, skin problems, or food sensitivities with a veterinarian.",
-      "Do not assume that a grain-free or other specialised diet is necessary without a clinical reason.",
+      "Monitor body condition score regularly and adjust portions when activity shifts.",
+      "Count training treats within total daily calories.",
+      "Avoid overfeeding during puppyhood.",
+      "Keep fresh water accessible at all times.",
+      "Consult a veterinarian before adopting specialized or grain-free diets.",
     ],
     note:
-      "These are general canine nutrition recommendations, not a breed-specific prescription. Feeding quantities should be individualised with veterinary guidance where needed.",
+      "General canine nutrition guidance; individual portions depend on age, calorie density, workload, and veterinary advice.",
   },
   health: {
     overview:
-      "The Berger Picard is often described as a generally healthy breed, but the available health picture is still developing because the breed is relatively rare in North America. Breed-club guidance identifies eye disease, including progressive retinal atrophy (PRA), cardiac disease such as dilated cardiomyopathy, joint conditions, cancer, seizures and other neurological concerns, and hypothyroidism as issues worth discussing with breeders and veterinarians. The club notes that more data is needed to understand the overall frequency of these conditions. Health screening and access to family health history are therefore important when selecting a puppy or planning a breeding.",
+      "Generally a hardy breed, the Berger Picard has a relatively small North American population, so comprehensive breed-wide incidence data is still developing. Breed-club health guidance highlights eye disorders (including progressive retinal atrophy), hip dysplasia, cardiac disease (such as dilated cardiomyopathy), cancer, seizures, hypothyroidism, and osteochondritis dissecans as topics to review with breeders and veterinarians. Request documented parental health clearances before selecting a puppy.",
     commonConditions: [
-      "Hip dysplasia and other joint concerns have been reported and are reasons to review parental screening results.",
-      "Progressive retinal atrophy (PRA) and other eye disorders are recognised health concerns in breed-club guidance.",
-      "Cardiac disease, including dilated cardiomyopathy, has been reported; the overall prevalence in the breed is not established.",
-      "Cancer, including squamous cell carcinoma, is identified as a serious concern in breed-club health information.",
-      "Seizures and other neurological conditions have been reported, but breed-wide incidence is not established.",
-      "Hypothyroidism is mentioned in breed-club health guidance; its frequency in the breed is not clearly established.",
-      "Osteochondritis dissecans has been reported as an occasional joint concern, particularly affecting younger dogs.",
+      "Hip dysplasia and joint issues, monitored via radiographic screening.",
+      "Progressive retinal atrophy (PRA) and other inherited eye disorders.",
+      "Cardiac disease, including dilated cardiomyopathy, reported without established breed-wide prevalence.",
+      "Cancers, including squamous cell carcinoma, noted as a serious concern in breed-club guidance.",
+      "Seizures and neurological disorders, reported with unclear overall incidence.",
+      "Hypothyroidism, noted in breed-club guidance with unestablished frequency.",
+      "Osteochondritis dissecans (OCD), an occasional developmental joint issue in young dogs.",
     ],
     preventiveCare: [
-      "Choose breeders who can provide documented hip and eye screening results and a family health history.",
-      "Discuss cardiac evaluation and other relevant screening with the breeder and veterinarian.",
-      "Arrange routine veterinary examinations and follow locally appropriate vaccination and parasite-prevention advice.",
-      "Maintain a healthy body condition and adapt exercise to age and fitness.",
-      "Monitor vision, mobility, exercise tolerance, skin, and behaviour for changes.",
-      "Seek veterinary advice for unexplained lameness, exercise intolerance, fainting, seizures, or changes in vision.",
-      "Ask a veterinarian about the appropriate timing of health checks as the dog ages.",
+      "Request documented hip and eye clearances and multi-generation health history from breeders.",
+      "Discuss cardiac evaluation and relevant screenings with breeders and your veterinarian.",
+      "Keep routine veterinary exams, vaccinations, and parasite prevention current.",
+      "Maintain a lean body weight and scale exercise to age and joint comfort.",
+      "Monitor vision, stamina, mobility, skin, and behaviour, seeking veterinary care for unexplained lameness, fainting, seizures, or vision changes.",
     ],
     recommendedScreenings: [
-      "Hip evaluation through an established screening programme such as OFA or PennHIP, particularly for breeding stock.",
-      "Ophthalmologist evaluation for inherited eye disorders.",
-      "Cardiac evaluation, including advanced echocardiography where recommended by the breed-club CHIC guidance and veterinary professional.",
-      "Discuss elbow dysplasia or thyroid evaluation as additional health electives under breed-club guidance.",
-      "Ask the breeder for public health-testing records and family health history.",
+      "Hip dysplasia evaluation (e.g., OFA or PennHIP).",
+      "Ophthalmologist eye examination.",
+      "Cardiac evaluation (including echocardiography where advised by veterinary specialists).",
+      "Elective elbow and thyroid evaluations discussed with a veterinarian.",
     ],
     dentalCare:
-      "Brush the teeth regularly with dog-safe toothpaste and arrange routine veterinary dental checks. Seek veterinary advice for persistent bad breath, gum bleeding, oral pain, or difficulty eating.",
+      "Brush teeth regularly with canine toothpaste and arrange periodic veterinary oral checks. Have bad breath, bleeding gums, or chewing discomfort evaluated promptly.",
     earCare:
-      "The ears are naturally erect, but they should still be inspected regularly for redness, odour, discharge, discomfort, or persistent head shaking. Clean only when needed and use a veterinary-recommended product.",
+      "Inspect the upright ears regularly for redness, odour, wax, or head shaking, cleaning gently with a veterinarian-approved solution only when needed.",
     skinCare:
-      "Inspect the skin while brushing, particularly beneath the dense coat and around the ears, legs, and tail. Seek veterinary advice for persistent itching, sores, lumps, hair loss, or changes in skin colour or texture.",
+      "Inspect skin during brushing for ticks, sores, lumps, hair loss, or persistent itching.",
   },
   suitability: {
     firstTimeOwners: null,
@@ -251,83 +250,80 @@ export const berger_picard: Breed = {
     activeOwners: true,
     apartmentLiving: null,
     idealFor: [
-      "Active owners who can provide daily exercise and mental stimulation",
-      "Households interested in herding, tracking, agility, or other structured activities",
-      "Owners who enjoy training an intelligent and independent working dog",
-      "People able to provide regular companionship and ongoing socialisation",
-      "Rural or suburban households that can safely accommodate an energetic dog",
+      "Active owners ready for daily vigorous exercise and mental challenges",
+      "Handlers interested in herding, agility, tracking, rally, or obedience",
+      "People who enjoy training an intelligent, independent-thinking partner",
+      "Households able to provide close companionship and ongoing socialization",
     ],
     notIdealFor: [
-      "People looking for a low-energy dog with minimal exercise needs",
-      "Households unable to provide consistent training and socialisation",
-      "Owners who expect a naturally outgoing dog with every unfamiliar person",
-      "People who leave a dog alone for long periods without companionship or enrichment",
-      "Households unwilling to manage an active dog with herding instincts",
+      "Sedentary homes seeking a low-exercise companion",
+      "Owners unable to commit time to consistent training and socialization",
+      "People expecting a dog that greets every stranger with instant enthusiasm",
+      "Households leaving a dog alone for long hours without enrichment",
     ],
   },
   funFacts: [
-    "The Berger Picard is one of France's traditional sheepdog breeds.",
-    "Dogs of this type were shown alongside Beaucerons and Briards in 1863.",
-    "An early breed standard was drafted in 1922, and the breed received definitive recognition in France in 1925.",
-    "Its rough eyebrows, beard, and moustache are important parts of its characteristic rustic expression.",
-    "The FCI standard describes a coat that is harsh and semi-long, with a fine, dense undercoat.",
-    "The breed's name refers to its traditional association with the Picardy region, although its exact historical origin is uncertain.",
+    "One of France's oldest traditional sheepdogs, it was exhibited alongside Beaucerons and Briards in 1863.",
+    "A draft breed standard was written in 1922, and France granted official recognition in 1925.",
+    "Its rough eyebrows, beard, and moustache create a signature tousled, expressive face.",
+    "The harsh, semi-long double coat measures roughly 5–6 cm over the body and pairs a crisp outer layer with a dense undercoat.",
+    "Although traditionally linked to Picardy in northern France, its exact historical origin among northwestern European herding dogs remains uncertain.",
   ],
   faq: [
     {
       question: "Where does the Berger Picard come from?",
       answer:
-        "The Berger Picard comes from France and is traditionally associated with the Picardy region in the north. Its precise historical origin is uncertain because similar rough-coated sheepdogs were found across north-western Europe.",
+        "It comes from France and is traditionally linked to the northern region of Picardy, though its exact origin among northwestern European rough-coated sheepdogs is uncertain.",
     },
     {
       question: "What was the Berger Picard bred for?",
       answer:
-        "It was developed as a working sheepdog used to drive and protect flocks. It also served as a farm and home guardian.",
+        "It was bred to drive and guard sheep flocks and serve as an alert farm and homestead watchdog.",
     },
     {
       question: "How tall is a Berger Picard?",
       answer:
-        "The FCI standard gives a height of 60–65 cm for males and 55–60 cm for females, with a stated tolerance of 1 cm.",
+        "Adult males typically measure 60–65 cm at the withers and females 55–60 cm (with a 1 cm tolerance).",
     },
     {
       question: "How much does a Berger Picard weigh?",
       answer:
-        "The FCI standard used for this record does not specify a weight range, so a breed-standard weight is not recorded.",
+        "Typical adult weight ranges from 23 to 32 kg, depending on sex, bone structure, and conditioning.",
     },
     {
       question: "What colours does a Berger Picard come in?",
       answer:
-        "The FCI standard lists fawn, fawn with a dark overlay, fawn brindle, and grey that generally remains dark. Large white patches are not accepted under the standard.",
+        "Accepted colours are fawn, fawn with a dark overlay, fawn brindle, and dark grey, without large white patches.",
     },
     {
       question: "How long does a Berger Picard live?",
       answer:
-        "A commonly reported life expectancy is 12–13 years. Individual lifespan varies with genetics, health, diet, and care.",
+        "Average life expectancy is around 12–13 years, varying with genetics, diet, and veterinary care.",
     },
     {
       question: "Does the Berger Picard need a lot of exercise?",
       answer:
-        "Yes. It is an active working sheepdog with good stamina. Most healthy adults benefit from daily walks, structured activity, and mental enrichment. The right amount depends on age, health, and fitness.",
+        "Yes. As an athletic working sheepdog, healthy adults need daily long walks or hikes alongside mental stimulation such as training, scent games, or dog sports.",
     },
     {
       question: "Is the Berger Picard easy to groom?",
       answer:
-        "Its rough double coat is relatively low-maintenance compared with many long-coated breeds. Regular brushing is useful, with more frequent attention during seasonal shedding.",
+        "Its rough double coat is relatively low-maintenance, needing periodic brushing and more frequent sessions during seasonal shedding.",
     },
     {
       question: "Is the Berger Picard good with children?",
       answer:
-        "The breed standard describes the Picard as a family dog that enjoys close contact with children. As with any dog, interactions should be supervised, children should be taught safe handling, and suitability depends on the individual dog's temperament and upbringing.",
+        "Generally affectionate and family-oriented with familiar children, though all interactions should be supervised and suitability depends on individual temperament and upbringing.",
     },
     {
       question: "What health tests should Berger Picard breeders consider?",
       answer:
-        "Breed-club guidance recommends hip evaluation and an ophthalmologist examination. It also discusses cardiac evaluation and additional elbow or thyroid testing. Ask breeders for documented results and discuss the appropriate checks with a veterinarian.",
+        "Recommended tests include hip evaluation and an ophthalmologist eye exam, alongside cardiac evaluation and optional elbow or thyroid checks.",
     },
     {
       question: "Can a Berger Picard live in an apartment?",
       answer:
-        "Living arrangements depend on the individual dog and the owner's ability to provide sufficient exercise, training, and companionship. The breed's high activity needs make daily engagement essential, regardless of home size.",
+        "Suitability depends on the individual dog and the owner's commitment to daily vigorous exercise, training, and companionship regardless of home size.",
     },
   ],
   references: [
@@ -340,6 +336,7 @@ export const berger_picard: Breed = {
     "commons-picard-delice-stacked",
     "wsava-global-nutrition-guidelines",
     "avma-pet-dental-care",
+    "the-dog-api",
   ],
   evidence: {
     alternateNames: {
@@ -355,10 +352,15 @@ export const berger_picard: Breed = {
           role: "verified",
           locator: "Official breed nomenclature and translated names",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "Alternate names are taken from official breed nomenclature and established English-language breed references.",
+        "Alternate names follow official FCI nomenclature and established English-language references.",
     },
     scientificName: {
       reliability: "unavailable",
@@ -376,9 +378,9 @@ export const berger_picard: Breed = {
           locator: "FCI classification — Group 1, Section 1, working trial",
         },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "Group and section follow the official FCI classification.",
+        "Follows official FCI classification; The Dog API lists Herding.",
     },
     origin: {
       reliability: "reliable_source",
@@ -393,10 +395,15 @@ export const berger_picard: Breed = {
           role: "cited",
           locator: "Breed history and Picardy association",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "France is the official country of origin. The Picardy region is described as a traditional association, not a proven exclusive origin.",
+        "France is the official country of origin; Picardy is a traditional association rather than a proven exclusive origin.",
     },
     overview: {
       reliability: "reliable_source",
@@ -416,10 +423,15 @@ export const berger_picard: Breed = {
           role: "cited",
           locator: "Breed overview and care",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "Overview text is original paraphrase. Historical uncertainty is retained rather than assigning an unsupported exact origin.",
+        "All user-facing prose is newly written original wording preserving historical uncertainty.",
     },
     "overview.currentRoles": {
       reliability: "estimate",
@@ -437,7 +449,7 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Current activity examples are practical suggestions based on the breed's working background, not claims that every individual performs these roles.",
+        "Contemporary activities inferred from documented herding and sporting background.",
     },
     physical: {
       reliability: "official_standard",
@@ -445,19 +457,51 @@ export const berger_picard: Breed = {
         {
           id: "fci-berger-picard-standard-176",
           role: "verified",
-          locator: "General appearance, proportions, coat, colour, height, tail, and movement",
+          locator: "General appearance, proportions, coat, colour, height (60–65 cm male, 55–60 cm female), tail, and movement",
         },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "Conformation and height are based on FCI Standard No. 176. Height is kept in the unit published by the source.",
+        "Height and conformation follow FCI Standard No. 176 (matching The Dog API's 60–65 cm male and 55–60 cm female ranges). Coat colours follow the FCI standard rather than The Dog API's species-wide colour list.",
     },
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (23–32 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-13",
       note:
-        "The FCI standard used for this record does not publish a weight range. No unsupported sex-specific range has been added.",
+        "FCI Standard No. 176 does not publish a weight range; 23–32 kg is sourced from The Dog API, which gives one breed-wide range without separating sexes.",
+    },
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-13",
+      note:
+        "The Dog API gave one breed-wide weight range (23–32 kg) without separating males and females.",
+    },
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-13",
+      note:
+        "The Dog API gave one breed-wide weight range (23–32 kg) without separating males and females.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -465,17 +509,22 @@ export const berger_picard: Breed = {
         {
           id: "petmd-berger-picard-health-care",
           role: "verified",
-          locator: "Life expectancy",
+          locator: "Life expectancy (12–13 years)",
         },
         {
           id: "akc-berger-picard-profile",
           role: "cited",
           locator: "Breed life expectancy and health context",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (12–13 years)",
+        },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "The lifespan range is a reported population-level estimate, not a guarantee for an individual dog.",
+        "PetMD and The Dog API both report a 12–13 year average lifespan.",
     },
     "physical.sheddingLevel": {
       reliability: "estimate",
@@ -493,14 +542,14 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Shedding level is an editorial estimate based on the coat and grooming descriptions; it is not an official rating.",
+        "Editorial estimate based on double-coat structure, not an official rating.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A dependable breed-specific drooling level was not established.",
+        "No dependable breed-specific drooling level was established.",
     },
     temperament: {
       reliability: "reliable_source",
@@ -520,10 +569,15 @@ export const berger_picard: Breed = {
           role: "cited",
           locator: "Behaviour and owner considerations",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "Traits describe breed tendencies and do not guarantee the behaviour of an individual dog.",
+        "Traits describe breed tendencies; individual behaviour varies.",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -541,7 +595,7 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Scores are editorial estimates on the app's 1–5 scale, not official ratings or validated behavioural measurements.",
+        "Editorial estimates on a 1–5 scale, not official or validated behavioural measurements.",
     },
     care: {
       reliability: "general_guidance",
@@ -559,7 +613,7 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General canine care guidance adapted to the needs of an active herding dog.",
+        "General canine care guidance adapted to an active herding dog.",
     },
     "care.exercise.level": {
       reliability: "estimate",
@@ -582,14 +636,14 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "High activity is a practical estimate based on the breed's working background and care guidance; it is not a formal standard rating.",
+        "Practical activity estimate based on working background, not a formal standard rating.",
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A dependable breed-specific daily exercise duration in minutes was not established.",
+        "No dependable breed-specific daily exercise duration in minutes was established.",
     },
     "care.grooming": {
       reliability: "reliable_source",
@@ -605,9 +659,9 @@ export const berger_picard: Breed = {
           locator: "Grooming and coat maintenance",
         },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "Grooming guidance is paraphrased. Brushing frequency may vary with season, coat condition, and the individual dog.",
+        "Grooming guidance paraphrased from kennel-club and veterinary care references.",
     },
     "care.training.difficulty": {
       reliability: "estimate",
@@ -625,14 +679,14 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Training difficulty is a practical estimate based on independence and working instincts, not an official rating.",
+        "Practical estimate based on independence and working instincts.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The sources reviewed do not establish a reliable binary apartment-suitability value.",
+        "Consulted sources do not establish a reliable binary apartment-suitability rating.",
     },
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "estimate",
@@ -650,21 +704,21 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "A secure yard can be useful for an active dog but is not a formal breed requirement and does not replace walks or training.",
+        "A secure yard is useful for an active dog but does not replace walks or training.",
     },
     "care.livingEnvironment.climates": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "Weather-safety advice is general canine guidance; no precise breed-specific climate tolerance is claimed.",
+        "General weather-safety guidance, not a breed-specific climate study.",
     },
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific alone-time tolerance value was not established.",
+        "No reliable breed-specific alone-time tolerance rating was established.",
     },
     nutrition: {
       reliability: "general_guidance",
@@ -677,7 +731,7 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General canine nutrition guidance; no breed-specific feeding quantity or special diet is claimed.",
+        "General canine nutrition guidance, not a breed-specific prescription.",
     },
     "health.overview": {
       reliability: "reliable_source",
@@ -693,9 +747,9 @@ export const berger_picard: Breed = {
           locator: "Health conditions and veterinary-reviewed care information",
         },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "The overview distinguishes reported health concerns from established prevalence and reflects the breed club's caution about limited population data.",
+        "Distinguishes reported health concerns from established prevalence given limited population data.",
     },
     "health.commonConditions": {
       reliability: "reliable_source",
@@ -716,9 +770,9 @@ export const berger_picard: Breed = {
           locator: "Progressive retinal atrophy and other health concerns",
         },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "The conditions are reported concerns, not claims that all are common or that every Berger Picard will develop them. Reliable breed-wide prevalence is not established for several listed conditions.",
+        "Reported concerns from breed-club and veterinary references without claiming universal prevalence.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
@@ -736,7 +790,7 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Preventive advice combines general veterinary care with breed-relevant screening considerations.",
+        "General preventive-care guidance combined with breed-relevant screening considerations.",
     },
     "health.recommendedScreenings": {
       reliability: "reliable_source",
@@ -757,9 +811,9 @@ export const berger_picard: Breed = {
           locator: "Hip and elbow evaluation guidance",
         },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "Screening guidance is intended for responsible breeding and puppy selection. The specific checks for an individual dog should be discussed with a veterinarian.",
+        "Screening guidance for breeding stock and puppy selection.",
     },
     "health.dentalCare": {
       reliability: "general_guidance",
@@ -772,7 +826,7 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General veterinary dental-care advice; no breed-specific dental disease claim is made.",
+        "General veterinary dental guidance.",
     },
     "health.earCare": {
       reliability: "general_guidance",
@@ -785,14 +839,14 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Routine ear inspection is general care advice, not a claim of breed-specific ear-disease prevalence.",
+        "Routine ear inspection guidance.",
     },
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "Routine coat and skin inspection is general canine care advice.",
+        "Routine coat and skin check guidance.",
     },
     suitability: {
       reliability: "estimate",
@@ -815,28 +869,28 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Owner-fit guidance is an estimate based on activity and training needs, not a universal suitability guarantee.",
+        "Owner-fit estimate based on activity and training needs.",
     },
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal first-time-owner suitability rating was not established.",
+        "No universal first-time-owner suitability rating was established.",
     },
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal family-with-children rating was not established. The FCI standard describes the breed as a family dog that enjoys close contact with children, but individual temperament and supervision remain important.",
+        "No universal family-with-children rating was established; supervision remains important.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal suitability rating for senior owners was not established.",
+        "No universal senior-owner suitability rating was established.",
     },
     "suitability.activeOwners": {
       reliability: "estimate",
@@ -854,14 +908,14 @@ export const berger_picard: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Active-owner suitability is an estimate based on the breed's working background and exercise needs.",
+        "Estimate based on the breed's working background and exercise needs.",
     },
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific apartment-living rating was not established.",
+        "No reliable breed-specific apartment-living rating was established.",
     },
     funFacts: {
       reliability: "reliable_source",
@@ -877,9 +931,9 @@ export const berger_picard: Breed = {
           locator: "Official breed name, recognition, and origin",
         },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "Facts are original paraphrases of the official standard and nomenclature.",
+        "Facts written in original wording from official standard and nomenclature.",
     },
     faq: {
       reliability: "reliable_source",
@@ -904,11 +958,16 @@ export const berger_picard: Breed = {
           role: "verified",
           locator: "Breed health and screening guidance",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
       ],
-      verifiedOn: "2026-11-02",
+      verifiedOn: "2026-11-13",
       note:
-        "FAQ answers are original paraphrases. Unsupported weight and universal suitability claims are avoided.",
+        "Original answers synthesizing official standards, breed-club health guidance, and The Dog API weight range.",
     },
   },
-  updatedOn: "2026-11-02",
+  updatedOn: "2026-11-13",
 };

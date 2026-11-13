@@ -191,6 +191,9 @@ import { dogo_argentino } from "./dogo_argentino";
 import { greater_swiss_mountain_dog } from "./greater_swiss_mountain_dog";
 import { greyhound } from "./greyhound";
 import { cane_corso } from "./cane_corso";
+import { lagotto_romagnolo } from "./lagotto_romagnolo";
+import { slovakian_rough_haired_pointer } from "./slovakian_rough_haired_pointer";
+import { thai_bangkaew_dog } from "./thai_bangkaew_dog";
 
 
 export const breedData: readonly Breed[] = [
@@ -381,4 +384,7 @@ export const breedData: readonly Breed[] = [
   greater_swiss_mountain_dog,
   greyhound,
   cane_corso,
+  lagotto_romagnolo,
+  slovakian_rough_haired_pointer,
+  thai_bangkaew_dog,
 ];
