@@ -463,6 +463,12 @@ export const lhasa_apso: Breed = {
       verifiedOn: "2026-11-12",
       note: "Retained in published inches (10–11 in for males, female numeric range uncodified). FCI lists an ideal male height of 25 cm.",
     },
+    "physical.height.female.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No maximum female height is specified in the consulted standard.",
+    },
 
     "physical.weight": {
       reliability: "reliable_source",

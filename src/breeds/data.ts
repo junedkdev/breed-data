@@ -187,6 +187,10 @@ import { basset_fauve_de_bretagne } from "./basset_fauve_de_bretagne";
 import { australian_cattle_dog } from "./australian_cattle_dog";
 import { grand_anglo_francais_blanc_et_noir } from "./grand_anglo_francais_blanc_et_noir";
 import { picardy_spaniel } from "./picardy_spaniel";
+import { dogo_argentino } from "./dogo_argentino";
+import { greater_swiss_mountain_dog } from "./greater_swiss_mountain_dog";
+import { greyhound } from "./greyhound";
+import { cane_corso } from "./cane_corso";
 
 
 export const breedData: readonly Breed[] = [
@@ -373,4 +377,8 @@ export const breedData: readonly Breed[] = [
   australian_cattle_dog,
   grand_anglo_francais_blanc_et_noir,
   picardy_spaniel,
+  dogo_argentino,
+  greater_swiss_mountain_dog,
+  greyhound,
+  cane_corso,
 ];

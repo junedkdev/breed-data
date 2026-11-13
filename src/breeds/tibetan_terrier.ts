@@ -640,6 +640,13 @@ export const tibetan_terrier: Breed = {
         "Male height is set to 36–41 cm per FCI Standard No. 209 and the RKC standard (14–16 in). AKC lists an average male height of 15–16 in (38–41 cm) within an overall acceptable range of 14–17 in (36–43 cm). Because FCI, RKC, and AKC all state qualitatively that females are 'slightly smaller' rather than defining a separate numeric female range—whereas The Dog API applies the combined 36–43 cm range equally to both sexes—female height is kept null and The Dog API is recorded as conflicting."
     },
 
+    "physical.height.female.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No maximum female height is specified in the consulted standard.",
+    },
+
     "physical.weight": {
       reliability: "official_standard",
       sources: [

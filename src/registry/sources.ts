@@ -16899,6 +16899,366 @@ export const sources = defineSources({
     note: "Photograph of an Epagneul Picard standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
+  "fci-dogo-argentino-official-standard": {
+    id: "fci-dogo-argentino-official-standard",
+    name: "FCI - Dogo Argentino Official Breed Standard No. 292",
+    url: "https://www.fci.be/Nomenclature/Standards/292g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2011-11-10",
+    accessedOn: "2026-11-13",
+    note: "Official English FCI Standard No. 292 (valid standard dated 2011-11-10). Covers Argentine origin, Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 2.1 Mastiff type Molossoids classification without working trial, completely white short coat, convex skull, withers height (males 60-68 cm, females 60-65 cm), and weight (males 40-45 kg, females 40-43 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-dogo-argentino-nomenclature": {
+    id: "fci-dogo-argentino-nomenclature",
+    name: "FCI - Dogo Argentino Breed Nomenclature (No. 292)",
+    url: "https://www.fci.be/en/nomenclature/DOGO-ARGENTINO-292.html",
+    type: "official_breed_standard",
+    publishedOn: "2011-11-10",
+    accessedOn: "2026-11-13",
+    note: "Official FCI breed nomenclature record confirming Argentina as country of origin, Group 2 Section 2.1 classification without working trial, definitive recognition date (1973-07-31), and official multilingual name (Dogo Argentino).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-dogo-argentino-breed-standard": {
+    id: "akc-dogo-argentino-breed-standard",
+    name: "American Kennel Club - Official Standard of the Dogo Argentino",
+    url: "https://images.akc.org/pdf/breeds/standards/DogoArgentino.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2020-01-01",
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed standard (Working Group, fully recognized 2020) establishing proportions, heavy bone structure, solid white coat with maximum 10% dark head spot tolerance, scissor or pincer bite, and courageous big-game hunting temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-dogo-argentino-breed-profile": {
+    id: "akc-dogo-argentino-breed-profile",
+    name: "American Kennel Club - Dogo Argentino Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/dogo-argentino/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed profile covering Dr. Antonio Nores Martinez's 1928 development, Cordoba fighting dog roots, weight (80-100 lbs), lifespan (10-12 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "ukc-dogo-argentino-breed-standard": {
+    id: "ukc-dogo-argentino-breed-standard",
+    name: "United Kennel Club - Dogo Argentino Breed Standard",
+    url: "https://www.ukcdogs.com/dogo-argentino",
+    type: "official_breed_standard",
+    publishedOn: "2008-01-01",
+    accessedOn: "2026-11-13",
+    note: "Official UKC breed standard (Guardian Dog Group, recognized 2001, revised 2008) covering conformation, slightly off-square proportions, solid white coat, and highly territorial guardian behavior.",
+    publisher: "United Kennel Club"
+  },
+  "daca-health-programs": {
+    id: "daca-health-programs",
+    name: "Dogo Argentino Club of America - Health Programs and Genetics",
+    url: "https://www.dogousa.org/health",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official national parent club health portal detailing mandatory BAER testing for deafness, radiographic hip evaluation, and veterinary cardiologist examinations, alongside elective screening protocols.",
+    publisher: "Dogo Argentino Club of America"
+  },
+  "ofa-dogo-argentino-chic-requirements": {
+    id: "ofa-dogo-argentino-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Dogo Argentino CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=DA",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Dogo Argentino, mandating Congenital Deafness (BAER) testing, Radiographic Hip Dysplasia evaluation, and Congenital Cardiac evaluation.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-dogo-argentino-in-a-field": {
+    id: "wikimedia-dogo-argentino-in-a-field",
+    name: "Wikimedia Commons - File:Dogo Argentino in a field.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Dogo_Argentino_in_a_field.jpg",
+    type: "other",
+    publishedOn: "2026-04-19",
+    accessedOn: "2026-11-13",
+    note: "High-resolution photograph (1920 x 1080 px) of an adult Dogo Argentino standing alert outdoors in a field (captured 2025-06-01, uploaded 2026-04-19). Released into Public Domain on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-dogo-argentino-argentijnse-dog": {
+    id: "wikimedia-dogo-argentino-argentijnse-dog",
+    name: "Wikimedia Commons - File:Dogo Argentino -Argentijnse dog 14-04-2010 17-00-50.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Dogo_Argentino_-Argentijnse_dog_14-04-2010_17-00-50.jpg",
+    type: "other",
+    publishedOn: "2010-04-14",
+    accessedOn: "2026-11-13",
+    note: "Photograph (2592 x 1944 px) of a large male Dogo Argentino standing in profile outdoors by Pleple2000 (captured and uploaded 2010-04-14). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-greater-swiss-mountain-dog-official-standard": {
+    id: "fci-greater-swiss-mountain-dog-official-standard",
+    name: "FCI - Greater Swiss Mountain Dog (Grosser Schweizer Sennenhund) Official Breed Standard No. 58",
+    url: "https://www.fci.be/Nomenclature/Standards/058g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2003-05-05",
+    accessedOn: "2026-11-13",
+    note: "Official English FCI Standard No. 58 (valid standard dated 2003-03-25, published 2003-05-05). Covers Swiss origin, Group 2 Section 3 Swiss Mountain and Cattle Dogs classification without working trial, heavy draft-built proportions, tricolor double coat, and withers height (males 65-72 cm, females 60-68 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-greater-swiss-mountain-dog-nomenclature": {
+    id: "fci-greater-swiss-mountain-dog-nomenclature",
+    name: "FCI - Great Swiss Mountain Dog Breed Nomenclature (No. 58)",
+    url: "https://www.fci.be/en/nomenclature/GREAT-SWISS-MOUNTAIN-DOG-58.html",
+    type: "official_breed_standard",
+    publishedOn: "2003-05-05",
+    accessedOn: "2026-11-13",
+    note: "Official FCI breed nomenclature record confirming Switzerland as country of origin, Group 2 Section 3 classification without working trial, definitive recognition date (1954-07-16), and multilingual names (Grosser Schweizer Sennenhund, Grand Bouvier Suisse, Gran Boyero Suizo).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-greater-swiss-mountain-dog-breed-standard": {
+    id: "akc-greater-swiss-mountain-dog-breed-standard",
+    name: "American Kennel Club - Official Standard of the Greater Swiss Mountain Dog",
+    url: "https://images.akc.org/pdf/breeds/standards/GreaterSwissMountainDog.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2003-04-08",
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed standard (Working Group, effective April 8, 2003) establishing proportions (10:9 length-to-height), heavy bone, tricolor double coat, and height limits (males 25.5 to 28.5 inches, females 23.5 to 27 inches).",
+    publisher: "American Kennel Club"
+  },
+  "akc-greater-swiss-mountain-dog-breed-profile": {
+    id: "akc-greater-swiss-mountain-dog-breed-profile",
+    name: "American Kennel Club - Greater Swiss Mountain Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/greater-swiss-mountain-dog/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed profile covering Swiss alpine history, draft working utility, weight (115-140 lbs males, 85-110 lbs females), lifespan (8-11 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "ukc-greater-swiss-mountain-dog-breed-standard": {
+    id: "ukc-greater-swiss-mountain-dog-breed-standard",
+    name: "United Kennel Club - Greater Swiss Mountain Dog Breed Standard",
+    url: "https://www.ukcdogs.com/greater-swiss-mountain-dog",
+    type: "official_breed_standard",
+    publishedOn: "2008-01-01",
+    accessedOn: "2026-11-13",
+    note: "Official UKC breed standard (Guardian Dog Group, recognized 1992, revised 2008) covering conformation, 10:9 rectangular proportions, tricolor double coat, and livestock droving behavior.",
+    publisher: "United Kennel Club"
+  },
+  "gsmdca-greater-swiss-mountain-dog-health": {
+    id: "gsmdca-greater-swiss-mountain-dog-health",
+    name: "Greater Swiss Mountain Dog Club of America - Health Foundation",
+    url: "https://www.gsmdcahealthfoundation.org/general-1",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official national parent club health portal detailing orthopedic challenges (shoulder OCD, hip and elbow dysplasia), bloat, splenic torsion, idiopathic epilepsy, and mandatory pre-breeding screening guidelines.",
+    publisher: "Greater Swiss Mountain Dog Club of America"
+  },
+  "ofa-greater-swiss-mountain-dog-chic-requirements": {
+    id: "ofa-greater-swiss-mountain-dog-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Greater Swiss Mountain Dog CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=SWM",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Greater Swiss Mountain Dog, mandating radiographic hip dysplasia evaluation, elbow dysplasia evaluation, shoulder OCD evaluation, and CAER eye examination.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-greater-swiss-mountain-dog-swissy": {
+    id: "wikimedia-greater-swiss-mountain-dog-swissy",
+    name: "Wikimedia Commons - File:Greater Swiss Mountain Dog.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Greater_Swiss_Mountain_Dog.jpg",
+    type: "other",
+    publishedOn: "2007-05-16",
+    accessedOn: "2026-11-13",
+    note: "High-resolution photograph (1466 x 985 px) of an adult female Greater Swiss Mountain Dog standing outdoors by Swissy (captured 2007-05-11, uploaded 2007-05-16). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-greyhound-official-standard": {
+    id: "fci-greyhound-official-standard",
+    name: "FCI - Greyhound Official Breed Standard No. 158",
+    url: "https://www.fci.be/Nomenclature/Standards/158g10-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-13",
+    note: "Official English FCI Standard No. 158 (valid standard dated 2026-09-08, published 2026-10-06). Covers Great Britain origin, Group 10 Sighthounds, Section 3 Short-haired sighthounds classification without working trial, aerodynamic build, fine close coat, and ideal withers height (dogs 71-76 cm, bitches 68-71 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-greyhound-nomenclature": {
+    id: "fci-greyhound-nomenclature",
+    name: "FCI - Greyhound Breed Nomenclature (No. 158)",
+    url: "https://www.fci.be/en/nomenclature/GREYHOUND-158.html",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-13",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 10 Section 3 classification without working trial, and official multilingual name (Greyhound).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "the-kennel-club-greyhound-breed-standard": {
+    id: "the-kennel-club-greyhound-breed-standard",
+    name: "The Royal Kennel Club - Greyhound Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/hound/greyhound/",
+    type: "official_breed_standard",
+    publishedOn: "2025-08-01",
+    accessedOn: "2026-11-13",
+    note: "Official Royal Kennel Club breed standard (Hound Group, country of origin standard) establishing ideal withers height (dogs 71-76 cms, bitches 69-71 cms), fine close coat, aerodynamic anatomy, and intelligent, affectionate temperament.",
+    publisher: "The Royal Kennel Club"
+  },
+  "akc-greyhound-breed-standard": {
+    id: "akc-greyhound-breed-standard",
+    name: "American Kennel Club - Official Standard of the Greyhound",
+    url: "https://images.akc.org/pdf/breeds/standards/Greyhound.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed standard (Hound Group) establishing weight limits (dogs 65 to 70 pounds, bitches 60 to 65 pounds), narrow head, deep chest, fine tapering tail, and aerodynamic coursing conformation.",
+    publisher: "American Kennel Club"
+  },
+  "akc-greyhound-breed-profile": {
+    id: "akc-greyhound-breed-profile",
+    name: "American Kennel Club - Greyhound Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/greyhound/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed profile covering ancient Egyptian history, King James Bible reference, 45 mph top speed, lifespan (10-13 years), apartment adaptability, and unique sighthound medical needs (anesthesia, bleeding, osteosarcoma).",
+    publisher: "American Kennel Club"
+  },
+  "ofa-greyhound-chic-requirements": {
+    id: "ofa-greyhound-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Greyhound CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=GH",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Greyhound, mandating Greyhound Neuropathy (NDRG1) DNA test, Ophthalmologist Evaluation (CAER), and Cardiac Evaluation.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "greyhound-neuropathy-ndrg1-study-2010": {
+    id: "greyhound-neuropathy-ndrg1-study-2010",
+    name: "A Deletion in the N-myc Downstream Regulated Gene 1 (NDRG1) Gene in Greyhounds with Polyneuropathy (PLoS One)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/20585648/",
+    type: "scientific",
+    publishedOn: "2010-06-22",
+    accessedOn: "2026-11-13",
+    note: "Peer-reviewed scientific study (Drögemüller et al., PLoS One 2010;5(6):e11258, PMID 20585648) identifying an autosomal recessive 10-bp deletion in the NDRG1 gene responsible for Greyhound polyneuropathy, a severe neurodegenerative disorder.",
+    publisher: "PLoS One / PubMed"
+  },
+  "wikimedia-greyhound-kk70088": {
+    id: "wikimedia-greyhound-kk70088",
+    name: "Wikimedia Commons - File:Greyhound (15743605663).jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Greyhound_(15743605663).jpg",
+    type: "other",
+    publishedOn: "2014-11-25",
+    accessedOn: "2026-11-13",
+    note: "High-resolution photograph (1558 x 1038 px) of an adult fawn-colored Greyhound standing outdoors by KK70088 (captured 2010-04-11, uploaded to Flickr, imported 2014-11-25). Licensed under CC BY-SA 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-greyhound-close-up-vincent-eisfeld": {
+    id: "wikimedia-greyhound-close-up-vincent-eisfeld",
+    name: "Wikimedia Commons - File:Greyhound Close-up.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Greyhound_Close-up.jpg",
+    type: "other",
+    publishedOn: "2015-06-18",
+    accessedOn: "2026-11-13",
+    note: "High-resolution photograph (3688 x 3316 px) featuring a close-up of a brindle Greyhound's head and neck by Vincent Eisfeld (captured and uploaded 2015-06-18). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-cane-corso-italiano-official-standard": {
+    id: "fci-cane-corso-italiano-official-standard",
+    name: "FCI - Cane Corso Italiano Official Breed Standard No. 343",
+    url: "https://www.fci.be/Nomenclature/Standards/343g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2015-12-17",
+    accessedOn: "2026-11-13",
+    note: "Official English FCI Standard No. 343 (valid standard dated 2015-12-17). Covers Italian origin, Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 2.1 Mastiff type Molossoids classification without working trial, robust elegant build, slightly converging skull and muzzle axes, short double coat, withers height (males 64-68 cm, females 60-64 cm), and weight (males 45-50 kg, females 40-45 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-cane-corso-italiano-nomenclature": {
+    id: "fci-cane-corso-italiano-nomenclature",
+    name: "FCI - Cane Corso Italiano Breed Nomenclature (No. 343)",
+    url: "https://www.fci.be/en/nomenclature/ITALIAN-CANE-CORSO-343.html",
+    type: "official_breed_standard",
+    publishedOn: "2015-12-17",
+    accessedOn: "2026-11-13",
+    note: "Official FCI breed nomenclature record confirming Italy as country of origin, Group 2 Section 2.1 classification without working trial, definitive recognition date (2007-05-21), and official multilingual name (Cane Corso Italiano).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "enci-cane-corso-italiano-standard": {
+    id: "enci-cane-corso-italiano-standard",
+    name: "Ente Nazionale della Cinofilia Italiana - Standard del Cane Corso Italiano",
+    url: "https://www.enci.it/libro-genealogico/razze/cane-corso-italiano",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official Italian Kennel Club (ENCI) breed standard and profile for Cane Corso Italiano, documenting Apulia, Lucania, and Sannio historical roots, 1994 Italian recognition, height limits (males 64-68 cm, females 60-64 cm), weight (45-50 kg males, 40-45 kg females), and guardian traits.",
+    publisher: "Ente Nazionale della Cinofilia Italiana"
+  },
+  "akc-cane-corso-breed-standard": {
+    id: "akc-cane-corso-breed-standard",
+    name: "American Kennel Club - Official Standard of the Cane Corso",
+    url: "https://images.akc.org/pdf/breeds/standards/CaneCorso.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2010-10-01",
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed standard (Working Group, effective 2010) establishing proportions, heavy bone structure, slightly undershot bite, coat colors (black, grey, fawn, red, brindle), and unequalled protective temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-cane-corso-breed-profile": {
+    id: "akc-cane-corso-breed-profile",
+    name: "American Kennel Club - Cane Corso Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/cane-corso/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed profile covering Canis Pugnax war dog origins, 'cohors' etymology, 1970s Paolo Breber revival, weight (proportionate), lifespan (9-12 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "ccaa-cane-corso-health": {
+    id: "ccaa-cane-corso-health",
+    name: "Cane Corso Association of America - Breed Health and CHIC Updates",
+    url: "https://www.canecorso.org/akc-canine-health-foundation--chic.html",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official national parent club health portal detailing mandatory CHIC testing updates including Hip Dysplasia, Elbow Dysplasia, Cardiac, Patellar Luxation, NCL, and DSRA DNA tests.",
+    publisher: "Cane Corso Association of America"
+  },
+  "ofa-cane-corso-chic-requirements": {
+    id: "ofa-cane-corso-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Cane Corso CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=CCO",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Cane Corso, mandating Radiographic Hip and Elbow Dysplasia evaluation, Cardiac Evaluation, CAER Eye examination, Patellar Luxation, NCL DNA test, and DSRA DNA test.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "cane-corso-dsra-mia3-study-2021": {
+    id: "cane-corso-dsra-mia3-study-2021",
+    name: "MIA3 Splice Defect in Cane Corso Dogs with Dental-Skeletal-Retinal Anomaly (DSRA)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8535341/",
+    type: "scientific",
+    publishedOn: "2021-10-18",
+    accessedOn: "2026-11-13",
+    note: "Peer-reviewed scientific study (Christen et al., Genes (Basel) 2021;12(10):1497, PMID 34680892) identifying an autosomal recessive splice defect in the MIA3 gene causing Dental-Skeletal-Retinal Anomaly (DSRA) in Cane Corso dogs.",
+    publisher: "Genes (Basel) / PubMed Central"
+  },
+  "wikimedia-cane-corso-2021-03-wojciech": {
+    id: "wikimedia-cane-corso-2021-03-wojciech",
+    name: "Wikimedia Commons - File:Cane corso 2021 03.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Cane_corso_2021_03.jpg",
+    type: "other",
+    publishedOn: "2021-08-15",
+    accessedOn: "2026-11-13",
+    note: "High-resolution photograph (4691 x 3564 px) of an adult Cane Corso standing in profile outdoors by Wojciech Pędzich (captured 2021-08-14, uploaded 2021-08-15). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-cane-corso-17-wili15": {
+    id: "wikimedia-cane-corso-17-wili15",
+    name: "Wikimedia Commons - File:Cane corso 17.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Cane_corso_17.jpg",
+    type: "other",
+    publishedOn: "2014-04-18",
+    accessedOn: "2026-11-13",
+    note: "Photograph (3872 x 2592 px) of a large male Cane Corso standing outdoors by Wili15 (captured 2014-04-17, uploaded 2014-04-18). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
 });
 
 export type SourceId = keyof typeof sources;

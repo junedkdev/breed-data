@@ -52,8 +52,10 @@ test("API facts fill the schema and missing facts stay empty", () => {
   assert.deepEqual(breed.funFacts, ["The Affenpinscher's name means monkey terrier."]);
   assert.deepEqual(breed.health.preventiveCare, ["Dental care: Brush the teeth often."]);
   assert.deepEqual(breed.references, ["the-dog-api"]);
-  assert.equal(breed.evidence["physical.height"]?.reliability, "reliable_source");
-  assert.match(breed.evidence["physical.height"]?.note ?? "", /did not separate males and females/);
+  assert.equal(breed.evidence["physical.height.male.max"]?.reliability, "reliable_source");
+  assert.match(breed.evidence["physical.height.male.max"]?.note ?? "", /did not separate males and females/);
+  assert.equal(breed.evidence["physical.height.female.max"]?.reliability, "reliable_source");
+  assert.match(breed.evidence["physical.height.female.max"]?.note ?? "", /did not separate males and females/);
   assert.equal(breed.evidence["overview.summary"]?.reliability, "unavailable");
   assert.equal(breed.evidence.scientificName?.reliability, "unavailable");
 

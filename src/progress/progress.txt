@@ -113,11 +113,11 @@
 110:kooikerhondje - CG
 111:norfolk_terrier - CG
 112:central_asian_shepherd_dog - CG
+113:drever - CG
+114:perro_de_presa_mallorquin - CG
+115:epagneul_bleu_de_picardie - CG
+116:posavac_hound - CG
 
-113:drever - C
-114:perro_de_presa_mallorquin - C
-115:epagneul_bleu_de_picardie - C
-116:posavac_hound - C
 117:beauceron - C
 118:berger_picard - C
 119:podenco_canario - C
@@ -184,12 +184,13 @@
 180:australian_cattle_dog - C
 181:grand_anglo-francais_blanc_et_noir - C
 182:picardy_spaniel - C
+183:dogo_argentino - C
+184:greater_swiss_mountain_dog - C
+185:greyhound - C
+186:cane_corso - C
 
-183:dogo_argentino
-184:greater_swiss_mountain_dog
-185:greyhound
-186:cane_corso
-187:lagotto_romagnolo
+187:lagotto_romagnolo - R
+
 188:slovakian_rough-haired_pointer
 189:thai_bangkaew_dog
 190:shih_tzu

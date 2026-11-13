@@ -609,6 +609,18 @@ export const pyrenean_mastiff: Breed = {
       note: "Stored minimums (77 cm males, 72 cm females, max: null) match FCI Standard No. 92 and RSCE; PMAA/AKC and UKC state 30 in (76.2 cm) and 28 in (71.1 cm) minimums with no upper limit."
     },
 
+    "physical.height.male.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No maximum male height is specified in the consulted standard.",
+    },
+    "physical.height.female.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No maximum female height is specified in the consulted standard.",
+    },
     "physical.weight": {
       reliability: "reliable_source",
       sources: [

@@ -486,6 +486,12 @@ export const australian_silky_terrier: Breed = {
       verifiedOn: "2026-11-12",
       note: "Official standard specifies 23–26 cm for males without a separate numeric female range; The Dog API lists 23–25 cm.",
     },
+    "physical.height.female.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No maximum female height is specified in the consulted standard.",
+    },
     "physical.weight": {
       reliability: "reliable_source",
       sources: [

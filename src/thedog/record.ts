@@ -46,7 +46,8 @@ const LOCATOR: Partial<Record<FactPath, string>> = {
   "overview.history": "breed.history",
   "overview.originalPurpose": "breed.bred_for",
   "overview.currentRoles": "breed.perfect_for",
-  "physical.height": "breed.height.metric",
+  "physical.height.male.max": "breed.height.metric",
+  "physical.height.female.max": "breed.height.metric",
   "physical.lifespanYears": "breed.life_span",
   "physical.coatColors": "GET /breeds/{id}/colours",
   "physical.weight.male.max": "breed.weight.metric",
@@ -160,7 +161,10 @@ export function buildTheDogBreed(
   };
 
   const notes: Partial<Record<FactPath, string>> = {};
-  if (height.shared) notes["physical.height"] = SHARED_RANGE_NOTE;
+  if (height.shared) {
+  notes["physical.height.male.max"] = SHARED_RANGE_NOTE;
+  notes["physical.height.female.max"] = SHARED_RANGE_NOTE;
+}
   if (weight.shared) {
     notes["physical.weight.male.max"] = SHARED_RANGE_NOTE;
     notes["physical.weight.female.max"] = SHARED_RANGE_NOTE;

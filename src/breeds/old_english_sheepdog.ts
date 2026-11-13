@@ -519,6 +519,19 @@ export const old_english_sheepdog: Breed = {
         "The standard publishes 22 inches and upward for males and 21 inches and upward for females. The source's first-listed unit, inches, is retained without conversion. The Dog API reports metric equivalents of 56–61 cm for males and 53–56 cm for females.",
     },
 
+    "physical.height.male.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No maximum male height is specified in the consulted standard.",
+    },
+    "physical.height.female.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No maximum female height is specified in the consulted standard.",
+    },
+
     "physical.weight": {
       reliability: "reliable_source",
       sources: [

@@ -34,23 +34,23 @@ export const epagneul_bleu_de_picardie: Breed = {
       attribution:
         "Image by Desaix83, based on work by Pleple2000, via Wikimedia Commons, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-27",
+      metadataCheckedOn: "2026-11-13",
     },
   ],
   overview: {
     summary:
-      "The Épagneul Bleu de Picardie, also known as the Blue Picardy Spaniel, is a medium-sized French pointing dog developed for practical hunting work. Its distinctive blue-grey coat comes from black-and-white speckling, often with black patches. The breed is described as gentle, even-tempered, athletic, and adaptable to family life, while retaining the working instincts of a sporting dog.",
+      "The Épagneul Bleu de Picardie, or Blue Picardy Spaniel, is a medium-sized French pointing dog bred for versatile field work. Its signature blue-grey coat comes from fine black-and-white speckling, often accented with black patches. Gentle, affectionate, and athletic, it adapts well to active family homes while keeping strong sporting and scenting instincts.",
     description:
-      "This French spaniel-type pointing dog has a sturdy, slightly low-set outline and a body that is a little longer than its height at the withers. Its head is broad and oval, with a long, fairly wide muzzle, a black nose, dark expressive eyes, and pendulous ears covered in wavy, silky hair. The coat lies flat or has a slight wave, with longer feathering on the legs and tail. The signature blue appearance is produced by a mixture of black and white hairs or speckling, sometimes accompanied by black patches. Although the breed has a solid working background, its official description also emphasises a gentle, placid temperament. Individual behaviour still depends on breeding, socialisation, training, health, and daily routine.",
+      "This sturdy, continental spaniel-type pointer has a slightly elongated, muscular frame and a broad, oval skull with a long, fairly wide muzzle, dark expressive eyes, and low-set pendulous ears framed in wavy, silky hair. Its flat or slightly wavy coat shows longer feathering on the legs and tail, and gets its distinctive bluish tone from black-and-white ticked hairs with or without solid black patches. Calm and even-tempered indoors, it thrives when given consistent training, early socialization, and daily outlets for its sporting energy.",
     history:
-      "The breed developed in Picardy in northern France. Nineteenth-century accounts described regional black or black-and-white spaniels, sometimes referred to as northern spaniels. In the early twentieth century, the Blue Picardy Spaniel began to be treated as a distinct breed, with its characteristic coat helping distinguish it from the Picardy Spaniel. Its traditional work involved pointing and assisting hunters within practical shooting range, including in woodcock hunting. The breed's recognised working classification reflects this sporting heritage.",
+      "Originating in northern France's Picardy region, the breed grew out of nineteenth-century black and black-and-white northern spaniels crossed with setter bloodlines, including English and Gordon Setters. By the early twentieth century it was recognized separately from the Picardy Spaniel, distinguished primarily by its blue-speckled coat. Valued for close-range pointing and retrieving—especially for woodcock and marsh game—it remains a working sporting breed.",
     originalPurpose:
-      "Pointing and assisting hunters in finding small game, particularly woodcock, while working in cooperation with the handler.",
+      "Pointing and retrieving small game, especially woodcock, in close cooperation with hunters.",
     currentRoles: [
-      "Pointing and retrieving-related sporting-dog activities appropriate to the individual dog",
-      "Hunting and field work where legal, safe, and suitable",
-      "Active companion for households able to provide exercise, training, and enrichment",
-      "Scent-based games and structured outdoor activities",
+      "Pointing and retrieving sporting dog in field and marshland work",
+      "Upland and woodcock hunting companion where lawful",
+      "Active family companion in homes providing daily exercise and enrichment",
+      "Scent-work, tracking, and outdoor agility activities",
     ],
   },
   physical: {
@@ -67,42 +67,50 @@ export const epagneul_bleu_de_picardie: Breed = {
       },
     },
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: {
+        min: 19.5,
+        max: 22.7,
+      },
+      female: {
+        min: 19.5,
+        max: 22.7,
+      },
     },
-    lifespanYears: null,
+    lifespanYears: {
+      min: 10,
+      max: 14,
+    },
     coatType:
-      "Flat or slightly wavy coat, with a distinctive mixture of black and white hairs or speckling that creates a blue-grey appearance.",
+      "Flat or slightly wavy coat formed by a dense blend of black and white speckled hairs that create a blue-grey appearance.",
     coatLength:
-      "Generally flat or slightly wavy, with longer feathering on the legs and tail. The ears are furnished with wavy, silky hair.",
+      "Medium-length, flat or slightly wavy body coat with longer feathering on the legs and tail, and wavy, silky hair on the ears.",
     coatColors: [
-      "Silver-grey to grey-black speckling that produces a bluish shade",
-      "Blue-grey coat with black patches",
-      "Blue-grey coat without distinct black patches",
+      "Silver-grey to grey-black speckling producing a bluish tone",
+      "Blue-grey roan with black patches",
+      "Blue-grey roan without distinct black patches",
     ],
     sheddingLevel: null,
     droolingLevel: null,
     distinctiveFeatures: [
-      "Medium-sized, sturdy spaniel-type pointing-dog build",
-      "Body slightly longer than the height at the withers",
-      "Characteristic blue-grey appearance created by black-and-white speckling",
-      "Black patches may occur within the blue-grey coat",
-      "Broad, oval skull and a long, fairly broad muzzle",
-      "Black nose and large, dark eyes with a calm expression",
-      "Long, pendulous ears with wavy, silky hair",
-      "Feathering on the legs and tail",
-      "Tail generally reaching approximately to the hock, with silky feathering",
+      "Medium-sized, sturdy spaniel-type pointing build",
+      "Body slightly longer than height at the withers",
+      "Distinctive blue-grey roan coat from black-and-white speckling",
+      "Optional black patches across the blue-grey coat",
+      "Broad, oval skull with a long, fairly wide muzzle and black nose",
+      "Large, dark eyes with a gentle, calm expression",
+      "Long, pendulous ears covered in wavy, silky hair",
+      "Feathered legs and a hock-length tail with silky plumage",
     ],
   },
   temperament: {
     traits: [
-      "Gentle and even-tempered",
-      "Athletic and suited to active routines",
-      "Generally described as placid rather than aggressive",
-      "Adaptable to family life when its needs are met",
-      "Likely to show interest in scent, birds, and other hunting-related stimuli",
-      "Benefits from consistent training and positive social experiences",
+      "Gentle and affectionate",
+      "Calm and even-tempered",
+      "Intelligent and willing to work",
+      "Athletic outdoors",
+      "Adaptable to family life when exercised",
+      "Keenly interested in birds and scent trails",
     ],
     scores: {
       affection: 4,
@@ -119,99 +127,98 @@ export const epagneul_bleu_de_picardie: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate to high. This is an athletic pointing breed with a working background. Provide regular daily walks and opportunities for safe movement, sniffing, training, and mentally engaging activity. The right amount depends on the dog's age, health, conditioning, and temperament.",
+        "Moderate to high. As an athletic pointing breed, it needs daily walks paired with sniffing, retrieving, and mental engagement, scaled to age, fitness, and health.",
       minutesPerDay: null,
       activities: [
-        "Daily walks with time to explore and sniff",
-        "Reward-based scent games and searching activities",
-        "Securely managed retrieving games",
-        "Field training or suitable sporting-dog activities",
-        "Hiking and outdoor exploration adapted to the dog's fitness",
-        "Short training sessions that combine movement and problem-solving",
+        "Daily walks with ample time to sniff and explore",
+        "Reward-based scent-search and tracking games",
+        "Controlled retrieving exercises",
+        "Field training or sporting-dog trials",
+        "Hiking and outdoor adventures suited to fitness",
+        "Short, varied obedience and problem-solving sessions",
       ],
     },
     grooming: {
       level:
-        "Moderate. The coat is not described as highly elaborate, but the longer ear hair and feathering on the legs and tail need regular attention, particularly after outdoor activity.",
+        "Moderate. Routine brushing keeps the flat body coat tidy, while the silky ear hair and leg/tail feathering need extra checks after outdoor runs.",
       brushing:
-        "Brush regularly to remove loose hair and debris, paying particular attention to the ears, leg feathering, and tail. Check for tangles, seeds, burrs, and ticks after walks in long grass or woodland.",
+        "Brush several times weekly to remove loose hair and tangles, focusing on the ears, leg feathering, and tail; check thoroughly for burrs, grass seeds, and ticks after field walks.",
       bathing:
-        "Bathe when necessary with a dog-formulated shampoo, such as after the coat becomes muddy or dirty. Avoid unnecessary frequent bathing and rinse thoroughly.",
+        "Bathe only when muddy or soiled using a gentle canine shampoo, rinsing and drying the feathered areas thoroughly.",
       notes: [
-        "Inspect the long, pendulous ears regularly for redness, odour, discharge, or trapped debris.",
-        "Check the feathering on the legs and tail after outdoor activity.",
-        "Examine paws and interdigital spaces for grass seeds, burrs, cuts, and other debris.",
-        "Keep nails trimmed to a comfortable length.",
-        "Brush the teeth regularly with dog-safe toothpaste.",
+        "Inspect the long, hanging ears weekly for redness, odour, moisture, or trapped debris.",
+        "Comb out leg and tail feathering after woodland or marsh walks.",
+        "Check paws and between toes for grass seeds, burrs, or small cuts.",
+        "Trim nails regularly to support healthy movement.",
+        "Brush teeth routinely with dog-safe toothpaste.",
       ],
     },
     training: {
       difficulty:
-        "Moderate as a practical estimate. The breed's pointing-dog heritage means training should account for outdoor distractions and interest in scent or game. Individual learning style and drive vary.",
+        "Moderate. Intelligent and eager to cooperate, though strong bird and scent instincts mean outdoor focus and recall require patient, consistent training.",
       tips: [
-        "Use reward-based methods and keep training sessions clear and consistent.",
-        "Begin recall training early and practise in secure areas before considering any off-lead activity.",
-        "Teach calm lead walking and check-in behaviour around scents and wildlife.",
-        "Use scent games and structured searching to provide appropriate mental enrichment.",
-        "Reward calm behaviour indoors as well as focus and responsiveness outdoors.",
-        "Keep training expectations appropriate to the dog's age, health, and experience.",
+        "Use clear, reward-based training from puppyhood.",
+        "Build reliable recall in enclosed spaces before allowing off-lead freedom near wildlife.",
+        "Practice loose-lead walking and handler check-ins around enticing scents.",
+        "Channel pointing and searching drives into structured nose-work games.",
+        "Reinforce calm settling indoors alongside lively outdoor work.",
       ],
       socialization:
-        "Introduce the dog gradually and positively to different people, calm dogs, handling, household sounds, and everyday environments. Supervise interactions with children and other animals, and tailor the pace to the individual dog's comfort.",
+        "Introduce puppies gradually and positively to varied people, calm dogs, household sounds, handling, and public environments, supervising interactions with children and small pets.",
     },
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: true,
       climates: [
-        "Provide shade, fresh water, and rest during warm weather.",
-        "Avoid intense exercise in excessive heat and adjust activity to the individual dog's condition.",
-        "In cold or wet weather, monitor comfort and dry the coat when needed.",
-        "A secure outdoor area can be useful but does not replace daily walks, training, or interaction.",
+        "Provide shade, fresh water, and rest in warm weather.",
+        "Schedule vigorous exercise during cooler hours in summer.",
+        "Dry the feathered coat thoroughly after cold or wet outings.",
+        "A fenced yard is helpful but does not replace daily walks and engagement.",
       ],
       aloneTimeTolerance: null,
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity level, and individual health needs.",
+      "Complete, balanced dog food matched to life stage, body condition, activity level, and individual health needs.",
     feedingFrequency: {
       puppy:
-        "Feed a suitable puppy diet in multiple meals according to age, body condition, and veterinary advice.",
+        "Feed a balanced puppy formula in multiple measured meals daily according to age and veterinary guidance.",
       adult:
-        "Use a consistent meal routine and adjust portions to maintain a healthy body condition and support the dog's activity level.",
+        "Maintain a steady meal routine with measured portions adjusted to keep a lean, athletic condition.",
       senior:
-        "Choose portions and diet according to age, activity, body condition, dental health, and any veterinary-diagnosed conditions.",
+        "Adjust portions and diet to age, activity, dental health, and any veterinary conditions.",
     },
     guidelines:
-      "Choose a nutritionally complete diet and adjust the amount to the individual dog's age, weight trend, activity, and body condition. Measure meals rather than relying on a universal portion. Keep clean drinking water available and make diet changes gradually. A veterinarian can help tailor feeding for growth, working activity, weight management, or medical needs.",
+      "Select a nutritionally complete diet and tailor portions to weight trends, activity, and body condition rather than fixed averages. Keep fresh water available at all times, transition foods gradually, and consult a veterinarian for working-dog or weight-management adjustments.",
     considerations: [
-      "A more active dog may need different portions from a less active dog of the same size.",
-      "Monitor body condition and weight over time rather than relying on appearance alone.",
-      "Include treats in the overall daily food allowance.",
-      "Avoid abrupt diet changes where possible.",
-      "Seek veterinary advice for persistent digestive symptoms, unexplained weight changes, or special dietary needs.",
+      "Working or highly active dogs may need more calories than less active companions.",
+      "Monitor body condition score regularly rather than guessing by eye.",
+      "Include training treats within the daily calorie budget.",
+      "Introduce diet changes gradually to avoid digestive upset.",
+      "Consult a veterinarian for persistent appetite, weight, or digestive changes.",
     ],
     note:
-      "These are general canine nutrition recommendations, not a breed-specific feeding prescription. No fixed daily quantity or breed-specific diet requirement is asserted here.",
+      "General canine nutrition guidance; individual portions depend on age, calorie density, workload, and veterinary advice.",
   },
   health: {
     overview:
-      "The sources used for this record establish the breed standard and working characteristics but do not establish a dependable breed-specific disease-prevalence profile, lifespan estimate, or screening schedule. That limitation should not be interpreted as evidence that the breed is free of inherited or acquired health conditions. Ask breeders for documented health information about the parents and related dogs, and arrange routine veterinary care for the individual animal.",
+      "Available breed standards establish conformation and temperament but do not provide population-wide disease prevalence or a formal screening protocol. This absence of data does not mean the breed is immune to inherited or acquired conditions. Request documented parental health records from breeders and maintain regular veterinary care.",
     commonConditions: [],
     preventiveCare: [
-      "Arrange regular veterinary examinations and follow vaccination and parasite-prevention advice appropriate to the dog's location and lifestyle.",
-      "Maintain a healthy body condition and provide exercise suited to age, fitness, and health.",
-      "Inspect the ears, coat, paws, nails, and skin as part of routine care.",
-      "Use reward-based handling to help the dog become comfortable with grooming and veterinary checks.",
-      "Seek veterinary advice for persistent changes in appetite, mobility, hearing, behaviour, or general condition.",
+      "Schedule routine veterinary exams and keep vaccinations and parasite prevention current.",
+      "Keep body condition lean and tailor exercise to age and joint comfort.",
+      "Check ears, coat, paws, nails, and skin regularly, especially after field work.",
+      "Use positive handling so the dog stays comfortable during grooming and veterinary checks.",
+      "Seek veterinary evaluation for any persistent changes in appetite, stamina, mobility, or hearing.",
     ],
     recommendedScreenings: [],
     dentalCare:
-      "Brush the teeth regularly using dog-safe toothpaste and arrange veterinary dental checks. Ask a veterinarian about persistent bad breath, oral pain, bleeding gums, or difficulty eating.",
+      "Brush teeth regularly with canine toothpaste and arrange periodic veterinary oral checks. Have bad breath, bleeding gums, or chewing difficulty assessed promptly.",
     earCare:
-      "Inspect the pendulous ears regularly for redness, odour, discharge, discomfort, or persistent head shaking. Clean only with a suitable product and method recommended by a veterinarian; do not insert objects deep into the ear canal.",
+      "Check the long, pendulous ears weekly for redness, odour, moisture, or head shaking. Clean gently with a veterinarian-recommended solution only when needed.",
     skinCare:
-      "Check the skin while brushing, especially after outdoor activity. Seek veterinary advice for persistent itching, redness, sores, hair loss, or recurring irritation.",
+      "Inspect skin during brushing and after outdoor runs for ticks, grass seeds, hotspots, or persistent itching.",
   },
   suitability: {
     firstTimeOwners: null,
@@ -220,59 +227,59 @@ export const epagneul_bleu_de_picardie: Breed = {
     activeOwners: true,
     apartmentLiving: null,
     idealFor: [
-      "People who enjoy regular walks and active outdoor routines",
-      "Owners interested in scent games or suitable sporting-dog activities",
-      "Households prepared to provide ongoing training, enrichment, and companionship",
-      "Owners who understand that a pointing dog's interest in wildlife may need careful management",
+      "Active owners who enjoy daily walks, hiking, and outdoor routines",
+      "Handlers interested in scent games, pointing work, or field sports",
+      "Households ready to provide consistent training, companionship, and enrichment",
+      "Owners prepared to manage strong wildlife and scenting instincts safely",
     ],
     notIdealFor: [
-      "People seeking a dog that needs little activity or mental stimulation",
-      "Owners unable to provide regular outdoor exercise and training",
-      "Households expecting reliable off-lead recall without sustained training",
-      "People unwilling to maintain the ears and feathered coat after outdoor activity",
+      "Sedentary households wanting a low-activity companion",
+      "Owners unable to commit time to daily exercise and training",
+      "People expecting effortless off-lead recall around birds without training",
+      "Households unwilling to brush feathered coats and check pendulous ears regularly",
     ],
   },
   funFacts: [
-    "The breed's blue-grey appearance comes from black-and-white speckling rather than a uniformly blue coat.",
-    "Its traditional working role is that of a pointing dog, and woodcock hunting is specifically noted in its breed history.",
-    "The Blue Picardy Spaniel and the Picardy Spaniel are treated as distinct breeds; coat colour is a key difference described in the breed standard.",
-    "The breed is classified by the FCI among continental pointing dogs of the spaniel type and is subject to a working trial.",
+    "Its blue-grey coat effect comes from finely intermingled black and white ticked hairs rather than a solid blue pigment.",
+    "Woodcock hunting in northern France's marshes and woodlands was one of its signature traditional roles.",
+    "Closely related to the Picardy Spaniel, it is distinguished primarily by its blue-grey speckled colouring.",
+    "Classified among continental pointing dogs of the spaniel type, it remains subject to a field working trial.",
   ],
   faq: [
     {
       question: "Where does the Épagneul Bleu de Picardie come from?",
       answer:
-        "It comes from Picardy in northern France and was developed as a practical sporting dog for pointing and helping hunters locate game.",
+        "It comes from Picardy in northern France, where it was developed as a versatile sporting dog for pointing and retrieving small game.",
     },
     {
       question: "Why is it called the Blue Picardy Spaniel?",
       answer:
-        "Its characteristic blue-grey appearance comes from a mixture of black and white hairs or speckling, sometimes with black patches.",
+        "Its name reflects the bluish-grey cast produced by a dense mixture of black and white speckled hairs, often paired with black patches.",
     },
     {
       question: "How tall is the Épagneul Bleu de Picardie?",
       answer:
-        "The FCI breed standard gives a height of 57 to 62 cm for males and 55 to 60 cm for females. It also notes a tolerance of ± 2 cm, though that tolerance is undesirable.",
+        "Adult males typically measure 57 to 62 cm at the withers and females 55 to 60 cm, with a ± 2 cm tolerance considered undesirable.",
     },
     {
       question: "How much does the breed weigh?",
       answer:
-        "A reliable weight range was not established from the official breed standard and sources used for this record, so no weight figure is provided.",
+        "Typical adult weight is around 19.5 to 22.7 kg, depending on sex, build, and conditioning.",
     },
     {
       question: "Is it a good family dog?",
       answer:
-        "The breed standard describes a gentle, even-tempered dog that can adapt to family life. That does not guarantee suitability for every household; supervision, socialisation, training, and the individual dog's behaviour matter.",
+        "Typically gentle, calm indoors, and affectionate, it adapts well to active family homes when given adequate exercise, early socialization, and supervision around children.",
     },
     {
       question: "How much exercise does it need?",
       answer:
-        "It is an athletic pointing breed and needs regular daily activity. Walks, scent games, training, and suitable outdoor activities can help, but the exact amount should be adapted to the individual dog.",
+        "As an athletic pointing breed, it needs daily walks plus regular mental stimulation such as scent games, retrieving, or field training, tailored to age and fitness.",
     },
     {
       question: "What health problems is the breed known for?",
       answer:
-        "The sources used here do not establish a dependable list of common breed-specific conditions or a dedicated screening schedule. Ask breeders for documented health information and consult a veterinarian about appropriate care for the individual dog.",
+        "No comprehensive breed-wide disease prevalence list is established in the consulted standards. Ask breeders for documented parental health checks and keep up routine veterinary care, especially for its long pendulous ears.",
     },
   ],
   references: [
@@ -283,6 +290,7 @@ export const epagneul_bleu_de_picardie: Breed = {
     "commons-epagneul-bleu-de-picardie-desaix83",
     "wsava-global-nutrition-guidelines",
     "avma-pet-dental-care",
+    "the-dog-api",
   ],
   evidence: {
     alternateNames: {
@@ -293,10 +301,15 @@ export const epagneul_bleu_de_picardie: Breed = {
           role: "verified",
           locator: "Official breed names in English, French, and Spanish",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Names follow the official FCI nomenclature. The English, French, and Spanish forms are listed there; no additional informal aliases are inferred.",
+        "Follows official FCI nomenclature for English, French, Spanish, and German forms.",
     },
     scientificName: {
       reliability: "unavailable",
@@ -311,12 +324,12 @@ export const epagneul_bleu_de_picardie: Breed = {
         {
           id: "fci-blue-picardy-spaniel-standard-106",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 7, Section 1.2",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Classification is taken from the current FCI breed standard.",
+        "Follows current FCI classification; The Dog API lists Sporting.",
     },
     origin: {
       reliability: "reliable_source",
@@ -324,17 +337,22 @@ export const epagneul_bleu_de_picardie: Breed = {
         {
           id: "fci-blue-picardy-spaniel-standard-106",
           role: "verified",
-          locator: "Origin",
+          locator: "Origin: France",
         },
         {
           id: "ceppa-blue-picardy-spaniel-club",
           role: "verified",
           locator: "Breed history and Picardy region",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "France is the stated country of origin; Picardy is supported by the breed-club history.",
+        "France is the country of origin; Picardy is supported by breed-club history.",
     },
     overview: {
       reliability: "reliable_source",
@@ -349,10 +367,15 @@ export const epagneul_bleu_de_picardie: Breed = {
           role: "verified",
           locator: "Breed standard — characteristics, coat, and colour",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Descriptions are original paraphrases of breed-standard and kennel-club information.",
+        "All user-facing prose is newly written original wording summarizing official standards and historical context.",
     },
     "overview.currentRoles": {
       reliability: "estimate",
@@ -365,7 +388,7 @@ export const epagneul_bleu_de_picardie: Breed = {
       ],
       verifiedOn: null,
       note:
-        "These are plausible contemporary activities based on the breed's working background, not a claim that every individual dog performs them.",
+        "Contemporary activities inferred from the breed's pointing-dog heritage.",
     },
     physical: {
       reliability: "official_standard",
@@ -373,40 +396,78 @@ export const epagneul_bleu_de_picardie: Breed = {
         {
           id: "fci-blue-picardy-spaniel-standard-106",
           role: "verified",
-          locator: "General appearance, proportions, coat, colour, and height",
+          locator: "General appearance, proportions, coat, colour, and height (57–62 cm male, 55–60 cm female)",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Standard-based physical description; unsupported numeric fields are separately marked unavailable.",
+        "Official FCI height ranges (57–62 cm male, 55–60 cm female) are retained; The Dog API lists 57–61 cm for males and 55–60 cm for females. Coat colours follow the FCI standard rather than The Dog API's species-wide colour list.",
     },
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (19.5–22.7 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-13",
       note:
-        "The official FCI standard used here does not provide a breed weight range, and no sufficiently reliable range was established.",
+        "FCI Standard No. 106 does not publish a weight range; 19.5–22.7 kg is sourced from The Dog API, which gives one breed-wide range without separating sexes.",
+    },
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-13",
+      note:
+        "The Dog API gave one breed-wide weight range (19.5–22.7 kg) without separating males and females.",
+    },
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-13",
+      note:
+        "The Dog API gave one breed-wide weight range (19.5–22.7 kg) without separating males and females.",
     },
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (10–14 years)",
+        },
+      ],
+      verifiedOn: "2026-11-13",
       note:
-        "A reliable breed-specific lifespan range was not established from the sources reviewed.",
+        "FCI Standard No. 106 does not publish a lifespan; 10–14 years is sourced from The Dog API.",
     },
     "physical.sheddingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The sources describe coat texture and feathering but do not establish a reliable shedding level.",
+        "Consulted sources describe coat texture and feathering without establishing a shedding rating.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A breed-specific drooling level was not established.",
+        "No breed-specific drooling level was established.",
     },
     temperament: {
       reliability: "reliable_source",
@@ -421,10 +482,15 @@ export const epagneul_bleu_de_picardie: Breed = {
           role: "verified",
           locator: "Characteristics",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Traits are paraphrased from published breed descriptions; they are not guarantees about an individual dog's behaviour.",
+        "Traits paraphrase published breed descriptions; individual behaviour varies.",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -437,35 +503,35 @@ export const epagneul_bleu_de_picardie: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Scores are editorial estimates on a 1–5 scale, not official ratings. Scores without a dependable basis are left null.",
+        "Editorial estimates on a 1–5 scale, not official ratings; unsupported scores remain null.",
     },
     "temperament.scores.withChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific score for behaviour with children was not established.",
+        "No reliable breed-specific score for behaviour with children was established.",
     },
     "temperament.scores.withDogs": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific score for behaviour with other dogs was not established.",
+        "No reliable breed-specific score for behaviour with other dogs was established.",
     },
     "temperament.scores.barking": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific barking score was not established.",
+        "No reliable breed-specific barking score was established.",
     },
     care: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "General canine care advice adapted to the breed's coat and sporting background; not a substitute for individual veterinary or training advice.",
+        "General canine care guidance adapted to coat type and sporting background.",
     },
     "care.exercise.level": {
       reliability: "estimate",
@@ -473,12 +539,12 @@ export const epagneul_bleu_de_picardie: Breed = {
         {
           id: "fci-blue-picardy-spaniel-standard-106",
           role: "cited",
-          locator: "Athletic temperament, daily walk, and pointing-dog utilization",
+          locator: "Athletic temperament and pointing-dog utilization",
         },
       ],
       verifiedOn: null,
       note:
-        "Practical activity guidance inferred from the breed's athletic working role; no exact exercise prescription is given by the standard.",
+        "Practical activity estimate inferred from the breed's sporting role.",
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
@@ -498,14 +564,14 @@ export const epagneul_bleu_de_picardie: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Training difficulty is an owner-oriented estimate, not a formal breed-standard rating.",
+        "Owner-oriented estimate, not an official breed-standard rating.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The sources reviewed do not establish a reliable breed-specific apartment-suitability value.",
+        "Consulted sources do not establish a reliable apartment-suitability rating.",
     },
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "estimate",
@@ -518,21 +584,21 @@ export const epagneul_bleu_de_picardie: Breed = {
       ],
       verifiedOn: null,
       note:
-        "A secure yard can be useful for an active dog but does not replace walks, training, or enrichment; this is not a formal breed restriction.",
+        "A fenced yard is helpful for an active pointing breed but does not replace daily exercise.",
     },
     "care.livingEnvironment.climates": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "General weather-safety guidance, not a verified breed-specific climate-tolerance assessment.",
+        "General weather-safety guidance, not a breed-specific climate study.",
     },
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable breed-specific alone-time tolerance value was established.",
+        "No reliable breed-specific alone-time tolerance rating was established.",
     },
     nutrition: {
       reliability: "general_guidance",
@@ -545,35 +611,35 @@ export const epagneul_bleu_de_picardie: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General canine nutrition advice; this is not a breed-specific veterinary prescription.",
+        "General canine nutrition guidance, not a breed-specific veterinary prescription.",
     },
     "health.overview": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "Describes the limits of the sources reviewed and does not imply that the breed is free of health problems.",
+        "Explains the limits of consulted sources without implying absence of health risks.",
     },
     "health.commonConditions": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A dependable breed-specific list of common conditions was not established; conditions are not inferred from other breeds.",
+        "No dependable breed-specific list of common conditions was established.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "General preventive-care advice. A veterinarian should tailor care to the individual dog.",
+        "General preventive-care guidance; consult a veterinarian for individual care.",
     },
     "health.recommendedScreenings": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A dependable breed-specific screening schedule was not established from the sources reviewed.",
+        "No breed-specific screening protocol was established from consulted sources.",
     },
     "health.dentalCare": {
       reliability: "general_guidance",
@@ -586,7 +652,7 @@ export const epagneul_bleu_de_picardie: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General veterinary dental advice, not a claim of a breed-specific dental disorder.",
+        "General veterinary dental guidance.",
     },
     "health.earCare": {
       reliability: "general_guidance",
@@ -599,14 +665,14 @@ export const epagneul_bleu_de_picardie: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Routine inspection advice is general care guidance; no breed-specific ear-disease prevalence is asserted.",
+        "Routine inspection guidance for pendulous ears; no breed-specific ear-disease rate asserted.",
     },
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "Routine coat and skin checks are general care advice.",
+        "Routine coat and skin check guidance.",
     },
     suitability: {
       reliability: "estimate",
@@ -619,35 +685,35 @@ export const epagneul_bleu_de_picardie: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Owner-fit suggestions are practical estimates, not universal behavioural guarantees.",
+        "Practical owner-fit estimates, not universal guarantees.",
     },
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal first-time-owner suitability rating was not established.",
+        "No universal first-time-owner suitability rating was established.",
     },
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal family-with-children rating was not established. Suitability depends on the individual dog, children's ages, supervision, and household circumstances.",
+        "No universal family-with-children rating was established.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal suitability rating for senior owners was not established.",
+        "No universal senior-owner suitability rating was established.",
     },
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific apartment-living rating was not established.",
+        "No reliable breed-specific apartment-living rating was established.",
     },
     funFacts: {
       reliability: "reliable_source",
@@ -663,9 +729,9 @@ export const epagneul_bleu_de_picardie: Breed = {
           locator: "FCI classification and recognition",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Facts are paraphrased from official breed-standard and nomenclature information.",
+        "Facts written in original wording from official standard and nomenclature.",
     },
     faq: {
       reliability: "reliable_source",
@@ -685,11 +751,16 @@ export const epagneul_bleu_de_picardie: Breed = {
           role: "verified",
           locator: "Breed characteristics and coat colour",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Answers are original paraphrases. Unsupported weight, lifespan, and breed-specific health claims are deliberately omitted.",
+        "Original answers synthesizing official standards and The Dog API weight range.",
     },
   },
-  updatedOn: "2026-10-27",
+  updatedOn: "2026-11-13",
 };

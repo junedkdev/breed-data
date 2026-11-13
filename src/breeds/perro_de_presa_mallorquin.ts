@@ -9,6 +9,8 @@ export const perro_de_presa_mallorquin: Breed = {
     "Ca de Bou",
     "Perro Dogo Mallorquín",
     "Majorca Mastiff",
+    "Majorcan Mastiff",
+    "Majorcan Bulldog",
     "Dogue de Majorque",
     "Mallorca-Dogge",
   ],
@@ -37,28 +39,28 @@ export const perro_de_presa_mallorquin: Breed = {
       attribution:
         'Animaisa, "Ca de bou.JPG", via Wikimedia Commons, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). No changes made.',
       restrictions: null,
-      metadataCheckedOn: "2026-10-27",
+      metadataCheckedOn: "2026-11-13",
     },
   ],
 
   overview: {
     summary:
-      "The Perro de Presa Mallorquín, also known as the Ca de Bou, is a powerful, medium-sized mastiff-type dog originating from Mallorca, Spain. Its broad head, muscular body, short coat, and confident bearing reflect its historical role as a guard dog. A well-socialised individual can be calm and composed around familiar people, but its size and strength make thoughtful ownership, early training, and responsible handling especially important.",
+      "The Perro de Presa Mallorquín, widely known as the Ca de Bou, is a compact, muscular mastiff-type breed from Mallorca, Spain. Recognizable by its broad head, short rough coat, and steady bearing, it was historically shaped for property guarding and catch work. Calm and affectionate with familiar people when properly socialized, its physical power demands experienced, consistent handling and early training.",
 
     description:
-      "This breed has a slightly elongated, strongly built body, a broad and substantial head, powerful jaws, and a short, somewhat rough coat. The head is especially imposing, with a broad skull, pronounced facial structure, and small rose-shaped ears. Its coat is commonly brindle or fawn, while black is also accepted; limited white markings and a black mask may occur. The breed standard describes a generally quiet, self-assured dog that can show courage when needed. Individual behaviour depends on breeding, early socialisation, training, health, and day-to-day management. Because the dog is muscular and strong, its owner should be able to guide it calmly and safely in ordinary public situations.",
+      "Powerfully built with a slightly elongated frame, substantial bone, and a broad, nearly square head, this medium-sized Molosser carries strong jaws and small, high-set rose ears. Its short, close-lying coat feels slightly harsh and appears in brindle, fawn, or black, with or without a black mask and limited white markings. Naturally quiet and self-assured, a well-raised individual shows courage without unnecessary aggression. Because of its strength and protective instincts, prospective owners must commit to early socialization, calm leadership, and reliable physical control in public spaces.",
 
     history:
-      "The breed developed in the Balearic Islands as mastiff-type dogs travelled around the Mediterranean with people and trade. Historical accounts describe Iberian mastiffs arriving in the islands and later mixing with guard dogs brought by the British. The resulting Ca de Bou was used for guarding and other practical work, and its presence is recorded in Spain's stud book by 1923. The first official registration followed in 1928, and a dog of the breed was shown in Barcelona in 1929. Some historical uses involved animal fighting; that history is context, not a recommendation for modern ownership or training.",
+      "Developed on the island of Mallorca as Iberian mastiff-type dogs arrived with medieval settlement and later crossed with native island herding dogs and British bulldog-type dogs brought through maritime trade. Known locally as the Ca de Bou, the breed served as a farm guardian, cattle-catching dog, and participant in historical bull-baiting spectacles before blood sports were outlawed. Recorded in Spain's stud book by 1923 with its first official entry in 1928 and exhibition in Barcelona in 1929, it was later rebuilt from a small surviving population by dedicated Spanish breeders.",
 
     originalPurpose:
-      "Guarding and protection, including work around homes, properties, and livestock-related settings.",
+      "Property and farm guarding, cattle-catching, and historical bull-baiting work.",
 
     currentRoles: [
-      "Companion in a suitably prepared household",
-      "Property and home guardian where lawful and responsibly managed",
-      "Obedience and relationship-based training activities",
-      "Canine sports or structured activities appropriate to the individual dog's health and temperament",
+      "Family companion in experienced, well-prepared households",
+      "Home and property guardian where lawful and responsibly managed",
+      "Obedience and structured relationship-based training",
+      "Canine sports suited to the individual dog's fitness and temperament",
     ],
   },
 
@@ -77,46 +79,49 @@ export const perro_de_presa_mallorquin: Breed = {
       female: { min: 30, max: 35 },
     },
 
-    lifespanYears: null,
+    lifespanYears: {
+      min: 10,
+      max: 12,
+    },
 
-    coatType: "Short, close-lying, and slightly rough to the touch.",
+    coatType: "Short, close-lying, and slightly harsh to the touch.",
 
     coatLength:
-      "Short coat over the body; it does not require extensive trimming.",
+      "Short single coat across the body; requires no clipping or trimming.",
 
     coatColors: [
-      "Brindle, with darker and well-defined brindle patterns preferred in the older English-language standard.",
-      "Fawn, with deeper shades preferred in the older English-language standard.",
-      "Black.",
-      "Limited white markings may occur on the feet, chest, and muzzle.",
-      "A black mask is permitted.",
+      "Brindle (darker, well-defined patterns)",
+      "Fawn (deeper shades preferred)",
+      "Black",
+      "Limited white markings on the front feet, chest, and muzzle",
+      "Black mask (permitted)",
     ],
 
     sheddingLevel:
-      "A short coat is relatively easy to maintain, but some shedding should be expected. A precise breed-specific shedding rating was not established in the consulted sources.",
+      "Low to moderate; the short, harsh coat sheds lightly to moderately year-round, though no exact breed-specific rating is established.",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Strong, muscular, slightly elongated body.",
-      "Large, broad, almost square head.",
-      "Powerful jaw muscles and a characteristic undershot bite in the published standard.",
+      "Compact, heavily muscled, slightly elongated frame with strong bone.",
+      "Massive, broad, almost square skull with a pronounced stop.",
+      "Powerful jaw muscles and a characteristic undershot bite.",
       "Small, high-set rose-shaped ears.",
-      "Short, rough coat.",
-      "Thick tail that tapers toward the tip.",
-      "Noticeable difference between male and female head size.",
+      "Short, slightly rough coat.",
+      "Low-set, thick-based tail tapering toward the tip.",
+      "Noticeably broader head and heavier build in males than in females.",
     ],
   },
 
   temperament: {
     traits: [
-      "Generally calm by nature",
-      "Confident and self-assured",
-      "Courageous when circumstances call for it",
-      "Loyal and devoted to familiar people",
-      "Strong and physically powerful",
-      "Potentially protective of home and property",
-      "Needs consistent handling and appropriate socialisation",
+      "Calm and composed when mature",
+      "Self-assured and confident",
+      "Courageous",
+      "Loyal and affectionate with familiar people",
+      "Alert and protective of home and territory",
+      "Physically powerful",
+      "Requires consistent handling and early socialization",
     ],
 
     scores: {
@@ -135,17 +140,16 @@ export const perro_de_presa_mallorquin: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate, adjusted to age, fitness, and health. Provide regular walks, structured training, and opportunities for calm exploration rather than relying only on intense physical exercise.",
+        "Moderate, tailored to age, joint health, and weather. Daily walks paired with structured training and mental enrichment keep this muscular breed balanced without overstraining joints.",
 
       minutesPerDay: null,
 
       activities: [
-        "Daily lead walks",
-        "Reward-based obedience training",
-        "Scent and food-search games",
-        "Controlled play appropriate to size and fitness",
-        "Calm exposure to different environments",
-        "Structured activities selected for the individual dog's joints and physical condition",
+        "Daily controlled lead walks",
+        "Reward-based obedience and impulse-control sessions",
+        "Scent and food-search enrichment games",
+        "Moderate play suited to build and fitness",
+        "Calm exposure to varied public environments",
       ],
     },
 
@@ -153,35 +157,35 @@ export const perro_de_presa_mallorquin: Breed = {
       level: "Low",
 
       brushing:
-        "Brush the short coat periodically with a soft brush or grooming mitt to remove loose hair and check the skin.",
+        "Brush weekly with a soft bristle brush or rubber grooming mitt to lift loose hair and check skin condition.",
 
       bathing:
-        "Bathe when needed with a dog-specific shampoo. Avoid unnecessary frequent bathing that may irritate the skin.",
+        "Bathe only when dirty with a gentle canine shampoo; avoid over-bathing so the skin stays healthy.",
 
       notes: [
-        "Inspect the skin for redness, irritation, or unusual lumps during routine grooming.",
-        "Check ears regularly for redness, odour, or discharge.",
-        "Trim nails as needed to maintain comfortable movement.",
-        "Brush teeth regularly with dog-specific toothpaste.",
-        "Clean the face gently if dirt collects around the muzzle.",
+        "Inspect skin during brushing for redness, bumps, or irritation.",
+        "Check ears regularly for wax, odour, or redness.",
+        "Trim nails regularly to support healthy posture and gait.",
+        "Brush teeth routinely with dog-safe toothpaste.",
+        "Wipe the muzzle and facial folds gently after meals or muddy walks.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate to challenging for an inexperienced handler because the breed is strong and may show guarding behaviour. Training should be consistent, reward-based, and focused on safe everyday control.",
+        "Moderate to high for novice handlers due to physical strength and guarding instincts. Requires calm, consistent, reward-based leadership from puppyhood.",
 
       tips: [
-        "Start reward-based training and calm socialisation early.",
-        "Teach loose-lead walking, recall, settle, and polite greetings as practical priorities.",
-        "Reward calm behaviour around unfamiliar people rather than encouraging suspicion or confrontation.",
-        "Use secure equipment suited to the dog's strength and body size.",
-        "Avoid intimidation, deliberate aggression training, or punishment-based handling.",
-        "Seek a qualified, humane trainer or veterinary behaviour professional if guarding, reactivity, or handling difficulties arise.",
+        "Begin reward-based training and structured socialization early.",
+        "Prioritize loose-lead walking, reliable recall, settling on cue, and calm greetings.",
+        "Reward relaxed neutrality around unfamiliar people and dogs rather than encouraging suspicion.",
+        "Use sturdy, well-fitted collars, harnesses, and leads matched to the dog's strength.",
+        "Avoid harsh corrections, intimidation, or protective-aggression drills.",
+        "Work with a qualified force-free trainer or veterinary behaviourist if reactivity or guarding issues appear.",
       ],
 
       socialization:
-        "Introduce the puppy gradually and positively to people, dogs, handling, sounds, and everyday environments. Supervise all interactions with children and other animals. Continue practising calm greetings and safe public behaviour throughout adulthood; socialisation should not mean forcing close contact with every person or dog.",
+        "Provide gradual, positive exposure to varied people, dogs, sounds, handling, and public settings from a young age. Supervise all interactions with children and other animals, and reinforce calm neutrality rather than forcing close contact.",
     },
 
     livingEnvironment: {
@@ -189,19 +193,19 @@ export const perro_de_presa_mallorquin: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate conditions with access to shade and fresh water",
-        "Warm weather with exercise scheduled for cooler periods",
-        "Cold or wet weather with suitable shelter and individual comfort monitored",
+        "Temperate climates with shade and fresh water",
+        "Warm weather with walks scheduled during cooler hours",
+        "Cool or damp weather with dry shelter and warmth",
       ],
 
       aloneTimeTolerance:
-        "A reliable breed-specific alone-time tolerance rating was not established. Build alone time gradually, provide enrichment, and assess the individual dog's response.",
+        "No breed-specific alone-time rating is established. Build alone time gradually with adequate exercise and enrichment, and monitor the individual dog.",
     },
   },
 
   nutrition: {
     dietType:
-      "A complete and balanced diet appropriate to the dog's age, body condition, activity, and veterinary needs.",
+      "Complete, balanced dog food suited to life stage, body condition, activity level, and veterinary guidance.",
 
     feedingFrequency: {
       puppy: null,
@@ -210,44 +214,44 @@ export const perro_de_presa_mallorquin: Breed = {
     },
 
     guidelines:
-      "Use the food manufacturer's feeding guide as a starting point and adjust portions to maintain a healthy body condition. Measure meals, account for treats, provide fresh water, and seek veterinary advice for growth, weight management, or medical dietary needs.",
+      "Use the manufacturer's portion guide as a baseline and adjust to keep the dog lean and well-muscled. Measure meals, factor in treats, provide fresh water at all times, and consult a veterinarian for growth or weight-management plans.",
 
     considerations: [
-      "Maintain a healthy body condition and avoid excess weight.",
-      "Adjust portions to the individual dog's activity level and food energy density.",
-      "Use an appropriate growth diet for puppies and a suitable diet for older dogs.",
-      "Make routine diet changes gradually unless a veterinarian advises otherwise.",
-      "Consult a veterinarian about persistent digestive problems, appetite changes, or unexplained weight change.",
+      "Keep body weight lean to minimize stress on joints and ligaments.",
+      "Match daily calories to actual exercise and metabolism.",
+      "Feed an appropriate growth formula during puppyhood.",
+      "Transition foods gradually unless advised otherwise by a veterinarian.",
+      "Seek veterinary advice for digestive upset, appetite shifts, or unexplained weight changes.",
     ],
 
     note:
-      "No breed-specific feeding quantity or universal meal frequency is recorded. Requirements vary with age, body condition, activity, and the food being fed.",
+      "No universal portion size or meal count applies to every Perro de Presa Mallorquín; needs vary with age, condition, workload, and food energy density.",
   },
 
   health: {
     overview:
-      "The consulted breed standards describe conformation and temperament but do not establish a comprehensive, evidence-based list of common inherited diseases or a reliable lifespan range for the breed. This record therefore does not claim that particular disorders are prevalent in all Perro de Presa Mallorquín dogs. A veterinarian can advise on preventive care and screening based on the dog's family history, age, body condition, and clinical findings.",
+      "Official breed standards emphasize functional, clinical soundness but do not establish a comprehensive, population-level list of hereditary diseases for this breed. Avoid assuming specific conditions are widespread without supporting data, and work with a veterinarian to tailor preventive care and screening to family history and clinical exams.",
 
     commonConditions: [],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and keep vaccinations and parasite prevention appropriate to the dog's circumstances.",
-      "Maintain a healthy body condition and adapt exercise to age and physical condition.",
-      "Seek veterinary advice for persistent lameness, exercise intolerance, breathing changes, skin problems, or changes in behaviour.",
-      "Keep dental, ear, nail, and skin care up to date.",
-      "Ask breeders for available health history and discuss appropriate screening with a veterinarian.",
+      "Schedule routine veterinary check-ups and keep vaccinations and parasite prevention current.",
+      "Maintain a lean body weight and tailor exercise to age and joint health.",
+      "Seek prompt veterinary evaluation for persistent lameness, breathing changes, exercise intolerance, or skin issues.",
+      "Keep dental, ear, nail, and skin care consistent.",
+      "Ask breeders for available multi-generation health history and discuss relevant screenings with your veterinarian.",
     ],
 
     recommendedScreenings: [],
 
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste. Arrange veterinary dental checks and seek advice for gum inflammation, persistent bad breath, oral pain, or difficulty chewing.",
+      "Brush teeth regularly with canine toothpaste and arrange periodic veterinary oral checks. Have bad breath, red gums, broken teeth, or chewing discomfort examined promptly.",
 
     earCare:
-      "Check the ears regularly for redness, odour, discharge, or persistent scratching. Clean only as needed with a veterinarian-approved product and seek advice if irritation persists.",
+      "Check ears regularly for redness, odour, wax, or discharge. Clean gently with a veterinarian-approved solution only when needed.",
 
     skinCare:
-      "Inspect the short coat and skin during routine grooming. Seek veterinary advice for persistent itching, redness, sores, or other unexplained skin changes.",
+      "Inspect the short coat and skin during weekly brushing. Consult a veterinarian for persistent itching, redness, sores, or hair loss.",
   },
 
   suitability: {
@@ -258,87 +262,87 @@ export const perro_de_presa_mallorquin: Breed = {
     apartmentLiving: null,
 
     idealFor: [
-      "Owners prepared to train and manage a strong, muscular dog responsibly",
-      "Households able to provide consistent socialisation and daily engagement",
-      "People willing to learn reward-based training and safe handling",
-      "Owners who can comply with local rules governing dogs and public access",
+      "Experienced handlers ready to train and guide a strong, muscular dog responsibly",
+      "Households committed to early socialization and daily mental and physical engagement",
+      "Owners who favour calm, reward-based training and safe equipment",
+      "People able to comply with local regulations for guardian breeds",
     ],
 
     notIdealFor: [
-      "Owners who cannot safely manage a powerful dog on lead",
-      "Households unwilling to invest time in training and socialisation",
-      "People seeking a dog that needs little structure or supervision",
-      "Owners expecting guarding behaviour to develop safely without training or management",
+      "Handlers unable to physically control a powerful dog on a lead",
+      "Households unwilling to dedicate time to early training and socialization",
+      "People wanting a dog that needs minimal structure or supervision",
+      "Owners hoping to encourage guarding behaviour without professional management",
     ],
   },
 
   funFacts: [
-    "The breed is widely known by the traditional Mallorcan name Ca de Bou.",
-    "Its history is closely tied to Mediterranean travel and the movement of mastiff-type dogs between coastal regions.",
-    "The breed was recorded in Spain's stud book by 1923, with its first official registration in 1928.",
-    "The standard describes a slightly elongated body and a head that is especially substantial in males.",
-    "Brindle and fawn are prominent coat colours, and a black mask is permitted.",
+    "In Mallorca, the breed is traditionally called the Ca de Bou, meaning 'bull dog' in Catalan.",
+    "Its ancestry reflects centuries of Mediterranean maritime travel linking Iberian mastiffs, native island dogs, and British dogs.",
+    "The breed was recorded in Spain's stud book by 1923, with its first official registration in 1928 and a Barcelona show appearance in 1929.",
+    "It has a slightly elongated body and a massive, broad head—especially pronounced in males—paired with a characteristic undershot bite.",
+    "Brindle, fawn, and black coats are accepted, often accompanied by a black mask and small white markings.",
   ],
 
   faq: [
     {
       question: "Where does the Perro de Presa Mallorquín come from?",
       answer:
-        "It comes from Mallorca in Spain's Balearic Islands. Its history is linked to mastiff-type dogs that travelled around the Mediterranean and later developed into the local Ca de Bou.",
+        "It comes from Mallorca in Spain's Balearic Islands, where mastiff-type dogs brought across the Mediterranean blended with local island dogs and British dogs over centuries.",
     },
     {
       question: "Is the Ca de Bou the same breed?",
       answer:
-        "Yes. Ca de Bou is a traditional name for the Perro Dogo Mallorquín, also known in English as the Majorca Mastiff.",
+        "Yes. Ca de Bou is the traditional Mallorcan name for the Perro de Presa Mallorquín, also known in English as the Majorca Mastiff.",
     },
     {
       question: "How tall is a Perro de Presa Mallorquín?",
       answer:
-        "The Spanish breed profile gives a height of 55–60 cm for males and 52–57 cm for females. An older English-language FCI standard gives narrower ranges, so the version of the standard should be checked when exact show measurements matter.",
+        "Adult males typically measure 55–60 cm at the withers and females 52–57 cm, though some registry publications list slightly narrower ranges of 55–58 cm for males and 52–55 cm for females.",
     },
     {
       question: "How much does a Perro de Presa Mallorquín weigh?",
       answer:
-        "The Spanish breed profile gives a weight of 35–45 kg for males and 30–35 kg for females. An older English-language FCI standard lists different ranges, so the discrepancy should be kept in mind when comparing records.",
+        "Adult males typically weigh 35–45 kg and females 30–35 kg, though older registry figures list 35–38 kg for males and 30–34 kg for females.",
     },
     {
       question: "What is the breed's temperament like?",
       answer:
-        "The breed is described as generally calm, confident, courageous, and devoted to familiar people. Each dog is an individual, and early socialisation, training, health, and responsible handling affect its behaviour.",
+        "Typically calm, confident, courageous, and deeply loyal to familiar people, though early socialization, consistent training, and responsible handling strongly shape adult behaviour.",
     },
     {
       question: "What coat colours are accepted?",
       answer:
-        "Brindle, fawn, and black are accepted colours. Limited white markings may be present, and a black mask is permitted. The Spanish profile gives fawn and brindle equal preference, while the older English-language standard ranks brindle first.",
+        "Brindle, fawn, and black are accepted, with limited white markings on the front feet, chest, and muzzle and an optional black mask.",
     },
     {
       question: "Is this breed suitable for a first-time owner?",
       answer:
-        "It is not an easy default choice for an inexperienced owner because it is strong and may show guarding behaviour. Anyone considering the breed should be ready to provide structured training, socialisation, and safe physical control.",
+        "It is generally not recommended for inexperienced owners because of its strength and potential guarding instincts. Consistent, reward-based training and secure handling are essential.",
     },
     {
       question: "Is the breed good with children?",
       answer:
-        "A reliable breed-wide yes-or-no rating is not established here. Any dog-child interaction should be supervised, children should be taught respectful handling, and suitability should be judged for the individual dog and household.",
+        "No universal yes-or-no rating applies. Suitability depends on the individual dog's temperament, training, and strict adult supervision alongside teaching children respectful handling.",
     },
     {
       question: "Does the breed have known health problems?",
       answer:
-        "The sources consulted for this record do not establish a reliable breed-wide list of common inherited conditions. Ask a responsible breeder about the family health history and consult a veterinarian about appropriate preventive care and screening.",
+        "Available official breed references do not establish a confirmed list of common hereditary diseases. Ask breeders for parental health history and consult a veterinarian about preventive care and screening.",
     },
     {
       question: "How much grooming does it need?",
       answer:
-        "The short coat is relatively easy to maintain. Periodic brushing, occasional bathing, regular nail care, ear checks, and dental hygiene are sensible parts of routine care.",
+        "Very little. Weekly brushing with a soft brush or rubber mitt, occasional baths, regular nail trims, ear checks, and routine tooth brushing are sufficient.",
     },
   ],
-
 
   references: [
     "fci-majorca-mastiff-standard-249",
     "fci-majorca-mastiff-nomenclature-249",
     "rsce-dogo-mallorquin-standard",
     "commons-ca-de-bou-animaisa",
+    "the-dog-api",
   ],
 
   evidence: {
@@ -347,7 +351,7 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Conventional scientific designation for the domestic dog; it is not a breed-specific taxonomic distinction.",
+        "Conventional scientific designation for the domestic dog; not a breed-specific taxonomic distinction.",
     },
 
     alternateNames: {
@@ -369,10 +373,15 @@ export const perro_de_presa_mallorquin: Breed = {
           role: "verified",
           locator: "Breed profile heading: Dogo Mallorquín (Ca de Bou)",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Majorcan Mastiff, Majorcan Bulldog)",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "The recorded names are supported by the FCI standard title and the Spanish breed profile.",
+        "Combines official FCI and RSCE names with common English synonyms from The Dog API.",
     },
 
     group: {
@@ -385,9 +394,9 @@ export const perro_de_presa_mallorquin: Breed = {
             "FCI classification: Group 2, Section 2.1 Molossian, Mastiff type; without working trial",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Uses the FCI classification and does not merge classifications from unrelated registry systems.",
+        "Follows the FCI classification; The Dog API lists Working.",
     },
 
     origin: {
@@ -404,9 +413,9 @@ export const perro_de_presa_mallorquin: Breed = {
           locator: "Origin and historical summary",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Spain is the registered country of origin; Mallorca is supported by the breed's historical account.",
+        "Spain is the registered country of origin; Mallorca in the Balearic Islands is documented in breed history.",
     },
 
     "origin.region": {
@@ -418,7 +427,7 @@ export const perro_de_presa_mallorquin: Breed = {
           locator: "Breed name and historical account referring to Mallorca",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note: "Mallorca in the Balearic Islands is supported by the breed history.",
     },
 
@@ -436,10 +445,15 @@ export const perro_de_presa_mallorquin: Breed = {
           role: "cited",
           locator: "History, general appearance, temperament, and utilization",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "User-facing text is an original summary of the breed's history, appearance, and traditional function.",
+        "All user-facing text is newly written original prose summarizing the breed's history, conformation, and traditional role.",
     },
 
     physical: {
@@ -455,12 +469,17 @@ export const perro_de_presa_mallorquin: Breed = {
           id: "fci-majorca-mastiff-standard-249",
           role: "cited",
           locator:
-            "General Appearance, Coat, Colour, Size and Weight; this English-language standard gives different height, weight, and colour-preference details",
+            "General Appearance, Coat, Colour, Size and Weight",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span, breed.height.metric, breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "The primary recorded height, weight, and coat-colour preference values follow the Spanish breed profile. The older English-language FCI standard differs on some details; its figures have not been silently substituted or converted.",
+        "Primary height, weight, and colour-preference values follow the newer RSCE Spanish standard; the older 1997 English-language FCI standard and The Dog API list narrower height/weight ranges. Coat colours follow FCI/RSCE rather than The Dog API's species-wide colour list.",
     },
 
     "physical.height": {
@@ -476,10 +495,15 @@ export const perro_de_presa_mallorquin: Breed = {
           role: "conflicting",
           locator: "Size and Weight: males 55–58 cm; females 52–55 cm",
         },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric: males 55–58 cm; females 52–55 cm",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Uses the height ranges shown in the Spanish profile and explicitly records the narrower ranges in the older English-language standard as conflicting information.",
+        "Retains the newer RSCE standard's 55–60 cm (male) and 52–57 cm (female) ranges and records the narrower 55–58 cm / 52–55 cm ranges from the older 1997 FCI English PDF and The Dog API as conflicting.",
     },
 
     "physical.weight": {
@@ -495,18 +519,29 @@ export const perro_de_presa_mallorquin: Breed = {
           role: "conflicting",
           locator: "Size and Weight: males 35–38 kg; females 30–34 kg",
         },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric: males 35–38 kg; females 30–34 kg",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Uses the ranges in the Spanish profile and retains the older English-language standard's different ranges as conflicting information. No unit conversion was performed.",
+        "Retains the newer RSCE standard's 35–45 kg (male) and 30–35 kg (female) ranges and records the narrower 35–38 kg / 30–34 kg ranges from the older 1997 FCI English PDF and The Dog API as conflicting.",
     },
 
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (10–12 years)",
+        },
+      ],
+      verifiedOn: "2026-11-13",
       note:
-        "The consulted official standard and Spanish breed profile do not establish a reliable lifespan range.",
+        "FCI Standard No. 249 and the RSCE profile do not publish a lifespan; 10–12 years is sourced from The Dog API.",
     },
 
     "physical.coatColors": {
@@ -523,9 +558,9 @@ export const perro_de_presa_mallorquin: Breed = {
           locator: "Colour: brindle, fawn and black in that preference order; limited white patches and black mask permitted",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Accepted colours broadly overlap, but the sources differ on preference order. The record makes that distinction explicit.",
+        "Accepted colours match across FCI and RSCE, though preference order differs slightly between the newer RSCE text and the older English FCI PDF.",
     },
 
     "physical.droolingLevel": {
@@ -533,7 +568,7 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable breed-specific drooling rating was established in the consulted sources.",
+        "No reliable breed-specific drooling rating was established in consulted sources.",
     },
 
     temperament: {
@@ -549,10 +584,15 @@ export const perro_de_presa_mallorquin: Breed = {
           role: "cited",
           locator: "Temperament and character",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Temperament traits paraphrase the published breed descriptions; they do not guarantee individual behaviour.",
+        "Temperament traits paraphrase published breed descriptions; individual behaviour varies.",
     },
 
     "temperament.scores": {
@@ -571,7 +611,7 @@ export const perro_de_presa_mallorquin: Breed = {
       ],
       verifiedOn: null,
       note:
-        "The 1–5 scores are editorial estimates for app comparison, not official ratings or scientific measurements.",
+        "1–5 scores are editorial estimates for app comparison, not official or scientific ratings.",
     },
 
     "temperament.scores.withChildren": {
@@ -579,7 +619,7 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted breed standards do not establish a reliable breed-wide score for behaviour with children.",
+        "Consulted standards do not establish a reliable breed-wide score for behaviour with children.",
     },
 
     care: {
@@ -598,7 +638,7 @@ export const perro_de_presa_mallorquin: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Care recommendations are general, practical guidance tailored to a strong, short-coated dog; they are not official breed-specific exercise prescriptions.",
+        "General care guidance tailored to a strong, short-coated Molosser; not a veterinary prescription.",
     },
 
     "care.exercise.minutesPerDay": {
@@ -606,14 +646,16 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not specify a universal daily exercise-minute target.",
+        "Consulted sources do not specify a universal daily exercise-minute target.",
     },
+
     "care.livingEnvironment.apartmentSuitable": {
-  reliability: "unavailable",
-  sources: [],
-  verifiedOn: null,
-  note: "No sufficiently reliable, breed-specific source was found to verify apartment suitability.",
-},
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "No sufficiently reliable breed-specific source establishes apartment suitability.",
+    },
 
     nutrition: {
       reliability: "general_guidance",
@@ -626,7 +668,7 @@ export const perro_de_presa_mallorquin: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Nutrition content is general canine-care guidance, not a breed-specific feeding prescription.",
+        "General canine nutrition guidance, not a breed-specific feeding prescription.",
     },
 
     "nutrition.feedingFrequency.puppy": {
@@ -634,7 +676,7 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No universal breed-specific puppy meal frequency was established; individual feeding should account for age, food, and veterinary advice.",
+        "No universal breed-specific puppy meal frequency was established.",
     },
 
     "nutrition.feedingFrequency.adult": {
@@ -642,7 +684,7 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No universal breed-specific adult meal frequency was established; individual feeding should account for activity, body condition, food, and veterinary advice.",
+        "No universal breed-specific adult meal frequency was established.",
     },
 
     "nutrition.feedingFrequency.senior": {
@@ -650,7 +692,7 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No universal breed-specific senior meal frequency was established; individual feeding should account for health, appetite, and veterinary advice.",
+        "No universal breed-specific senior meal frequency was established.",
     },
 
     health: {
@@ -669,7 +711,7 @@ export const perro_de_presa_mallorquin: Breed = {
       ],
       verifiedOn: null,
       note:
-        "The available sources support general preventive care but do not establish a comprehensive breed-specific disease profile.",
+        "Consulted sources support general preventive care without establishing a breed-specific disease profile.",
     },
 
     "health.commonConditions": {
@@ -677,7 +719,7 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish a reliable list of common inherited conditions or population-level prevalence for this breed.",
+        "Consulted sources do not establish a reliable list of common inherited conditions or prevalence.",
     },
 
     "health.recommendedScreenings": {
@@ -685,7 +727,7 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish a specific breed-wide screening protocol. Screening should be discussed with a veterinarian and informed by family history.",
+        "Consulted sources do not establish a breed-wide screening protocol; consult a veterinarian.",
     },
 
     suitability: {
@@ -704,7 +746,7 @@ export const perro_de_presa_mallorquin: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Suitability flags are cautious editorial assessments based on the dog's size, strength, and potential guarding role; they are not guarantees about an individual dog.",
+        "Editorial suitability assessment based on size, strength, and guarding heritage; individual dogs vary.",
     },
 
     "suitability.familiesWithChildren": {
@@ -712,7 +754,7 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-wide yes/no rating for families with children was not established. Suitability depends on the individual dog, household, training, and supervision.",
+        "No reliable breed-wide rating for families with children was established.",
     },
 
     "suitability.seniorOwners": {
@@ -720,7 +762,7 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-wide senior-owner suitability rating was not established; individual handling ability and the dog's training matter.",
+        "No reliable breed-wide senior-owner suitability rating was established.",
     },
 
     "suitability.apartmentLiving": {
@@ -728,7 +770,7 @@ export const perro_de_presa_mallorquin: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources do not establish a definitive breed-level apartment-suitability rating.",
+        "Consulted sources do not establish a definitive breed-level apartment-suitability rating.",
     },
 
     funFacts: {
@@ -745,9 +787,9 @@ export const perro_de_presa_mallorquin: Breed = {
           locator: "History, coat colour, and physical characteristics",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Historical details and physical characteristics are paraphrased in original wording.",
+        "Historical and physical facts written in original wording.",
     },
 
     faq: {
@@ -764,11 +806,11 @@ export const perro_de_presa_mallorquin: Breed = {
           locator: "History, temperament, coat colour, height, and weight",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "FAQ answers are original paraphrases. Differences between the Spanish profile and older English-language standard are explicitly disclosed.",
+        "Original answers synthesizing the RSCE profile and older English-language FCI standard, noting measurement variations.",
     },
   },
 
-  updatedOn: "2026-10-27",
+  updatedOn: "2026-11-13",
 };

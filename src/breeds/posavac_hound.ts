@@ -6,7 +6,9 @@ export const posavac_hound: Breed = {
   scientificName: null,
   alternateNames: [
     "Posavski Gonič",
+    "Posavski Gonic",
     "Posavatz Hound",
+    "Posavian Hound",
     "Savetalbracke",
     "Chien Courant de la Vallée de la Save",
     "Sabueso del Valle de Save",
@@ -34,23 +36,23 @@ export const posavac_hound: Breed = {
       attribution:
         "Photo by Mirta12, via Wikimedia Commons, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-27",
+      metadataCheckedOn: "2026-11-13",
     },
   ],
   overview: {
     summary:
-      "The Posavac Hound is a medium-sized Croatian scent hound developed for sustained hunting work. It has a strong, rectangular build, a short reddish-wheaten coat, and characteristic white markings. Known for stamina, a clear hunting voice, and close attachment to its owner, it is best understood as a working hound whose scenting instincts and activity needs should be considered before choosing it as a companion.",
+      "The Posavac Hound is a medium-sized Croatian scent hound built for endurance in the field. Recognizable by its rectangular frame, short reddish-wheaten coat, and crisp white markings, it pairs remarkable stamina and a resonant hunting voice with strong devotion to its handler. Prospective owners should plan for high scenting drive and daily outdoor activity.",
     description:
-      "This sturdy hound has a body that is longer than its height at the withers, with balanced proportions and movement designed for endurance. Its head is proportionate to the body, with a broad skull, a strong muzzle, dark brown oval eyes, and moderately long, close-hanging ears with rounded tips. The coat is dense, harsh, shiny, and close to the body. Its base colour ranges through reddish-wheaten shades, with clear white markings typically appearing on the head, neck, chest, belly, lower legs, and tail tip. The breed standard describes a docile, reasonably lively dog that is easy to train and strongly devoted to its owner. Like other scent hounds, an individual may become highly focused when following a trail, so safe outdoor management and recall training are important.",
+      "Muscular and slightly longer than tall at the withers, this sturdy hound moves with balanced, ground-covering efficiency. Its proportional head carries a broad skull, strong muzzle, dark brown oval eyes, and moderately long, rounded hanging ears. The dense, harsh, glossy coat comes in reddish-wheaten shades accented by clear white markings on the head, neck, chest, belly, lower legs, and tail tip. Gentle, lively, and eager to cooperate with familiar people, it can still lock onto an outdoor scent trail, making recall practice and secure lead management essential.",
     history:
-      "The Posavac Hound is an old Croatian hunting breed associated with the Sava River valley, known as Posavina. Its history is linked to a red-coloured hound type with markings. A dog resembling the breed appears in a fresco dated to 1474, and later historical accounts include a manuscript from 1719 and a description written by Franjo Bertić in the nineteenth century. The breed was first shown at a dog exhibition in 1924, and early entries in the Croatian stud book date to 1929. The FCI recognised the breed in 1955; the name Posavac Hound reflects its regional origins.",
+      "An ancient Croatian hunting breed rooted in the Sava River valley (Posavina), the Posavac Hound traces back to red-and-white hounds depicted in a 1474 fresco, a 1719 manuscript, and nineteenth-century accounts by Franjo Bertić. Historically traded under the name 'boskini', dogs of this type were first exhibited in 1924, entered the Croatian stud book in 1929, and gained international recognition in 1955.",
     originalPurpose:
-      "Scent hunting for hare, fox, and wild boar, with the ability to work as a tracking hound on a leash.",
+      "Scent hunting for hare, fox, and wild boar, as well as working as a leashed tracking hound.",
     currentRoles: [
       "Scent-hound hunting where lawful and appropriate",
-      "Leashed tracking work and structured scent activities",
-      "Outdoor companion for people able to provide regular exercise and enrichment",
-      "Reward-based scent games and trail-following exercises",
+      "Leashed tracking and blood-trailing work",
+      "Active outdoor companion for households able to meet its exercise needs",
+      "Structured scent games and nose-work training",
     ],
   },
   physical: {
@@ -67,43 +69,52 @@ export const posavac_hound: Breed = {
       },
     },
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: {
+        min: 16,
+        max: 25,
+      },
+      female: {
+        min: 16,
+        max: 25,
+      },
     },
-    lifespanYears: null,
+    lifespanYears: {
+      min: 12,
+      max: 14,
+    },
     coatType:
-      "Harsh, dense, shiny, close-lying coat. The body coat is short, with somewhat longer hair on the back of the limbs, belly, and underside of the tail.",
+      "Harsh, dense, shiny, close-lying coat. Hair is short over the body and slightly longer on the backs of the limbs, belly, and underside of the tail.",
     coatLength:
-      "The body coat is 2–3 cm long; hair on the back of the limbs may reach up to 4 cm. Hair on the underside of the tail may form a small brush.",
+      "Short body coat measuring 2–3 cm, reaching up to 4 cm on the rear of the limbs and forming a light brush under the tail.",
     coatColors: [
-      "Reddish-wheaten in a range of shades",
-      "Reddish-wheaten with clear white markings on the head",
+      "Reddish-wheaten in varying shades",
+      "Reddish-wheaten with crisp white markings on the head",
       "Reddish-wheaten with white markings on the neck, chest, belly, lower legs, and tail tip",
     ],
     sheddingLevel: null,
     droolingLevel: null,
     distinctiveFeatures: [
-      "Strong, medium-sized hound with balanced movement",
-      "Rectangular body, with body length exceeding height at the withers",
-      "Reddish-wheaten coat with clear white markings",
-      "White blaze or stripe on the head, with no white markings on the ears",
-      "White collar or stripe on the neck may be present",
-      "Oval, dark brown eyes with an alert expression",
-      "Moderately long, triangular hanging ears with rounded tips",
+      "Strong, medium-sized frame built for endurance and smooth movement",
+      "Rectangular outline with body length exceeding height at the withers",
+      "Reddish-wheaten coat paired with clearly defined white markings",
+      "White blaze or stripe on the head, with solid-coloured ears free of white",
+      "Optional white collar or stripe on the neck",
+      "Oval, dark brown eyes with an attentive expression",
+      "Moderately long, flat-hanging triangular ears with rounded tips",
       "Strong muzzle slightly shorter than the skull",
-      "Sabre-shaped tail that reaches at most to the hock when stretched",
-      "Clear, ringing voice associated with its hunting role",
+      "Sabre-shaped tail reaching no lower than the hock",
+      "Clear, ringing voice used while trailing game",
     ],
   },
   temperament: {
     traits: [
-      "Docile and generally even-tempered",
-      "Reasonably lively",
+      "Docile and even-tempered",
+      "Lively and energetic outdoors",
       "Strongly devoted to its owner",
-      "Bred for stamina and persistent scent work",
-      "Known for a clear, ringing hunting voice",
-      "Generally described as easy to train",
+      "Persistent with high stamina on a trail",
+      "Resonant, far-carrying hunting voice",
+      "Cooperative and trainable",
     ],
     scores: {
       affection: null,
@@ -120,99 +131,97 @@ export const posavac_hound: Breed = {
   care: {
     exercise: {
       level:
-        "High as a practical estimate. The breed standard describes a hound with excellent stamina for hunting across different terrain. Regular daily movement, opportunities to sniff, and structured mental activity are important, with intensity adjusted to age, fitness, health, and weather.",
+        "High. Built for sustained scent work across varied terrain, this hound needs daily vigorous walks, sniffing opportunities, and structured mental engagement, adjusted for age, fitness, and weather.",
       minutesPerDay: null,
       activities: [
-        "Long walks with controlled opportunities to sniff",
+        "Brisk daily walks with ample sniffing time",
         "Reward-based tracking and scent-search games",
-        "Leashed trail-following exercises in safe areas",
-        "Hiking and outdoor exploration suited to the dog's fitness",
-        "Securely managed exercise that does not risk chasing wildlife or entering roads",
-        "Short training sessions that practise recall, check-ins, and calm behaviour",
+        "Leashed trail-following practice in safe, varied terrain",
+        "Hiking and outdoor conditioning matched to fitness",
+        "Short obedience sessions reinforcing recall and handler check-ins",
       ],
     },
     grooming: {
       level:
-        "Low to moderate. The short, close-lying coat is relatively straightforward to maintain, but routine brushing and checks after outdoor activity help remove dirt and identify skin or paw problems.",
+        "Low to moderate. The short, dense coat is easy to maintain with weekly brushing and post-walk checks for burrs or ticks.",
       brushing:
-        "Brush regularly with a suitable short-coat brush or grooming mitt to remove loose hair and debris. Check the coat and skin after walks in woodland, fields, or thick vegetation.",
+        "Brush weekly using a soft bristle brush or rubber grooming mitt to lift loose hair and inspect the skin after field walks.",
       bathing:
-        "Bathe when needed using a dog-formulated shampoo. Rinse thoroughly and avoid unnecessary frequent bathing that may dry or irritate the skin.",
+        "Bathe only when muddy or soiled using a gentle canine shampoo, rinsing thoroughly to avoid skin dryness.",
       notes: [
-        "Inspect the ears regularly for redness, odour, discharge, or discomfort.",
-        "Check paws, pads, and spaces between the toes after outdoor activity.",
-        "Look over the coat for ticks, burrs, cuts, or skin irritation after walks.",
-        "Trim nails when they become too long.",
-        "Brush the teeth regularly with dog-safe toothpaste.",
+        "Check hanging ears weekly for redness, odour, wax, or moisture.",
+        "Inspect paws, pads, and between toes after outdoor runs.",
+        "Scan the coat for ticks, burrs, or scratches after woodland walks.",
+        "Trim nails regularly to keep stride comfortable.",
+        "Brush teeth routinely with dog-safe toothpaste.",
       ],
     },
     training: {
       difficulty:
-        "Moderate as an owner-oriented estimate. The breed standard describes the hound as easy to train, but scent-driven outdoor distractions can make reliable recall and safe trail management important training priorities.",
+        "Moderate. Cooperative and eager to please its handler, though strong scenting instincts mean reliable recall around wildlife requires patient, consistent practice.",
       tips: [
-        "Use reward-based training with consistent cues and clear expectations.",
-        "Build recall gradually, starting in a secure, low-distraction environment.",
-        "Use a lead or long line in areas where wildlife, roads, or livestock could create risks.",
-        "Provide suitable scent games and tracking activities to engage natural hound behaviour.",
-        "Reward calm behaviour at home as well as responsiveness outdoors.",
-        "Practise loose-lead walking and handler check-ins before increasing environmental distractions.",
+        "Use clear, reward-based cues and keep sessions engaging.",
+        "Train recall progressively in fenced areas before adding distractions.",
+        "Use a long line in unfenced spaces near wildlife, livestock, or roads.",
+        "Channel trailing instincts into structured nose-work games.",
+        "Reward calm settling indoors alongside attentive outdoor check-ins.",
       ],
       socialization:
-        "Introduce the dog gradually and positively to different people, calm dogs, handling, household sounds, and everyday environments. Supervise interactions with children and other animals, and adapt the pace to the individual dog's responses.",
+        "Introduce puppies gradually and positively to varied people, calm dogs, handling, household sounds, and public settings, supervising interactions with children and other animals.",
     },
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: true,
       climates: [
-        "Provide shade, fresh water, and rest during warm weather.",
-        "Avoid strenuous exercise during excessive heat and adapt activity to the dog's condition.",
-        "In cold or wet weather, monitor comfort and dry the coat when needed.",
-        "A secure yard can provide additional space but does not replace walks, training, or supervised enrichment.",
+        "Provide shade, fresh water, and rest in warm weather.",
+        "Avoid heavy exertion during peak heat.",
+        "Dry the coat after cold or wet outings and monitor comfort.",
+        "A securely fenced yard adds space but does not replace daily walks and scent enrichment.",
       ],
       aloneTimeTolerance: null,
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity, and individual health needs.",
+      "Complete, balanced dog food tailored to life stage, body condition, activity level, and individual health needs.",
     feedingFrequency: {
       puppy:
-        "Feed a suitable puppy diet in multiple meals according to age, body condition, and veterinary advice.",
+        "Feed a balanced puppy formula in multiple measured meals daily according to age and veterinary guidance.",
       adult:
-        "Use a consistent meal routine and adjust portions to maintain a healthy body condition and meet the dog's activity needs.",
+        "Maintain a consistent meal schedule with measured portions to keep a lean, athletic condition.",
       senior:
-        "Adapt diet and portions to age, activity, body condition, dental health, and any veterinary-diagnosed conditions.",
+        "Adjust diet and portions to age, activity, dental health, and any veterinary conditions.",
     },
     guidelines:
-      "Choose a nutritionally complete diet and adjust portions according to the individual dog's age, activity, body condition, and weight trend. Measure meals rather than relying on a universal portion size. Keep clean drinking water available and introduce dietary changes gradually. A veterinarian can help tailor feeding for growth, weight management, working activity, or medical needs.",
+      "Select a nutritionally complete diet and tailor portions to weight trends, activity, and body condition rather than fixed averages. Keep fresh water available at all times, make food transitions gradually, and consult a veterinarian for working-dog or weight-management adjustments.",
     considerations: [
-      "Activity level can affect energy needs; adjust portions to the individual dog rather than assuming all dogs of this breed need the same amount.",
-      "Monitor body condition and weight over time.",
-      "Include treats in the overall daily food allowance.",
-      "Avoid abrupt diet changes where possible.",
-      "Seek veterinary advice for persistent digestive symptoms, unexplained weight changes, or special dietary needs.",
+      "Working hounds need more calories during active seasons than during rest periods.",
+      "Monitor body condition score regularly rather than guessing by eye.",
+      "Count training treats within total daily calories.",
+      "Avoid sudden diet changes where possible.",
+      "Consult a veterinarian for persistent digestive upset or unexplained weight shifts.",
     ],
     note:
-      "These are general canine nutrition recommendations, not a breed-specific feeding prescription. No fixed daily quantity or special diet is asserted for this breed.",
+      "General canine nutrition guidance; individual portions depend on age, calorie density, workload, and veterinary advice.",
   },
   health: {
     overview:
-      "The sources reviewed for this record do not establish a reliable breed-wide disease-prevalence profile, lifespan range, or dedicated screening schedule for the Posavac Hound. A kennel-club profile notes that the number of dogs available for assessment in Sweden is too small to draw firm conclusions about the breed's health there. This limitation should not be interpreted as proof that the breed has no inherited or acquired health conditions. Ask breeders for documented health information about the parents and related dogs, and arrange routine veterinary care for the individual dog.",
+      "Consulted breed references do not establish a comprehensive breed-wide disease prevalence profile or formal screening schedule for the Posavac Hound, and small regional populations limit statistical health reporting. This lack of data does not mean the breed is free of inherited or acquired conditions. Ask breeders for documented parental health history and keep up routine veterinary care.",
     commonConditions: [],
     preventiveCare: [
-      "Arrange regular veterinary examinations and follow vaccination and parasite-prevention advice appropriate to the dog's region and lifestyle.",
-      "Maintain a healthy body condition and provide exercise appropriate to age, fitness, and health.",
-      "Inspect ears, coat, paws, nails, and skin as part of routine care.",
-      "Use reward-based handling to help the dog become comfortable with grooming and veterinary checks.",
-      "Seek veterinary advice for persistent changes in appetite, mobility, behaviour, or general condition.",
+      "Schedule regular veterinary exams and keep vaccinations and parasite prevention current.",
+      "Maintain a lean body condition and scale exercise to age and fitness.",
+      "Inspect ears, coat, paws, nails, and skin routinely, especially after field work.",
+      "Use positive handling so the dog is comfortable with grooming and veterinary checks.",
+      "Seek veterinary evaluation for persistent changes in appetite, stamina, mobility, or breathing.",
     ],
     recommendedScreenings: [],
     dentalCare:
-      "Brush the teeth regularly using dog-safe toothpaste and arrange veterinary dental checks. Seek veterinary advice for persistent bad breath, oral pain, bleeding gums, or difficulty eating.",
+      "Brush teeth regularly with canine toothpaste and arrange routine veterinary dental checks. Have bad breath, bleeding gums, or chewing difficulty assessed promptly.",
     earCare:
-      "Inspect the hanging ears regularly for redness, odour, discharge, discomfort, or persistent head shaking. Clean only with a suitable product and method recommended by a veterinarian; do not insert objects deep into the ear canal.",
+      "Check hanging ears weekly for redness, odour, discharge, or head shaking. Clean gently with a veterinarian-approved solution only when needed.",
     skinCare:
-      "Check the skin while brushing, particularly after outdoor activity. Seek veterinary advice for persistent itching, redness, sores, hair loss, or recurring irritation.",
+      "Inspect skin during brushing and after outdoor walks for ticks, grass seeds, or persistent itching.",
   },
   suitability: {
     firstTimeOwners: null,
@@ -221,59 +230,59 @@ export const posavac_hound: Breed = {
     activeOwners: true,
     apartmentLiving: null,
     idealFor: [
-      "People interested in scent work, tracking, or appropriate hunting activities",
-      "Active households able to provide regular walks and outdoor enrichment",
-      "Owners willing to train recall and manage scent-driven behaviour safely",
-      "People who understand the needs of a working hound and can provide companionship and structure",
+      "Handlers interested in scent work, tracking, or lawful hunting",
+      "Active households ready for daily vigorous walks and outdoor enrichment",
+      "Owners committed to training recall and managing strong scenting instincts",
+      "People who appreciate a devoted working hound with structured daily routines",
     ],
     notIdealFor: [
-      "People seeking a dog that requires little exercise or mental engagement",
-      "Owners unable to manage a scent-focused dog safely outdoors",
-      "Households expecting dependable off-lead recall without sustained training",
-      "People unwilling to accommodate the possibility of a strong hunting voice",
+      "Sedentary households wanting a low-energy companion",
+      "Owners unable to manage a scent-driven dog securely outdoors",
+      "People expecting effortless off-lead recall near wildlife without training",
+      "Households where a loud, resonant hound voice would be problematic",
     ],
   },
   funFacts: [
-    "The breed's name refers to Posavina, the region associated with the Sava River valley in Croatia.",
-    "A fresco dated to 1474 depicts a dog considered an early representation of the breed's type.",
-    "The breed's documented history includes a manuscript from 1719 and a nineteenth-century description.",
-    "The breed standard recognises the Posavac Hound as a versatile scent hound for hunting hare, fox, and wild boar, with tracking work also described.",
+    "Its name comes from Posavina, the fertile Sava River valley in Croatia.",
+    "A 1474 fresco depicts a red-and-white hound widely regarded as an early likeness of the breed.",
+    "Historical records include a 1719 manuscript and nineteenth-century descriptions of 'boskini' hounds from the Sava valley.",
+    "Versatile in the field, it hunts hare, fox, and wild boar and also works as a leashed tracking hound.",
   ],
   faq: [
     {
       question: "Where does the Posavac Hound originate?",
       answer:
-        "The Posavac Hound originates in Croatia and is associated with Posavina, the Sava River valley.",
+        "It originates in Croatia, specifically the Posavina region along the Sava River valley.",
     },
     {
       question: "What was the Posavac Hound bred to do?",
       answer:
-        "It was developed as a scent hound for hunting hare, fox, and wild boar. It can also work as a tracking hound on a leash.",
+        "It was bred as a resilient scent hound for hunting hare, fox, and wild boar, and also excels as a leashed tracking hound.",
     },
     {
       question: "How tall is the Posavac Hound?",
       answer:
-        "The FCI standard gives a height of 50–56 cm for males and 47–53 cm for females. A tolerance of ± 2 cm is noted for dogs of excellent type and conformation.",
+        "Adult males measure 50–56 cm at the withers and females measure 47–53 cm, with a ± 2 cm tolerance permitted for dogs of excellent type.",
     },
     {
       question: "How much does the Posavac Hound weigh?",
       answer:
-        "The FCI standard used for this record does not specify a weight range, and a sufficiently reliable range was not established from the sources reviewed.",
+        "Typical adult weight ranges from 16 to 25 kg, depending on sex, build, and conditioning.",
     },
     {
       question: "What does a Posavac Hound look like?",
       answer:
-        "It is a medium-sized, strong, rectangular hound with a short reddish-wheaten coat and clear white markings. Its ears hang close to the head, and its tail is sabre-shaped.",
+        "It is a medium-sized, rectangular hound with a short reddish-wheaten coat, crisp white markings, close-hanging rounded ears, and a sabre-shaped tail.",
     },
     {
       question: "Is the Posavac Hound easy to train?",
       answer:
-        "The breed standard describes it as easy to train and devoted to its owner. Consistent reward-based training is still important, particularly for recall and safe management around interesting scents.",
+        "Generally cooperative and devoted to its owner, it learns well with reward-based training, though strong scenting instincts make recall and long-line management important outdoors.",
     },
     {
       question: "What health problems is the breed known for?",
       answer:
-        "The sources reviewed do not establish a dependable breed-wide list of common conditions or a dedicated screening schedule. Ask breeders for documented health information and consult a veterinarian about care appropriate to the individual dog.",
+        "No comprehensive breed-wide list of inherited conditions or formal screening protocol is established in consulted sources. Request parental health records from breeders and maintain regular veterinary check-ups.",
     },
   ],
   references: [
@@ -284,6 +293,7 @@ export const posavac_hound: Breed = {
     "commons-posavac-mirta12",
     "wsava-global-nutrition-guidelines",
     "avma-pet-dental-care",
+    "the-dog-api",
   ],
   evidence: {
     alternateNames: {
@@ -294,10 +304,15 @@ export const posavac_hound: Breed = {
           role: "verified",
           locator: "Official English, French, German, and Spanish breed names",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names (Posavski Gonic, Posavian Hound)",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "The listed names follow official FCI nomenclature. The regional name Posavski Gonič is also used in Croatian material.",
+        "Includes official FCI nomenclature names alongside Croatian and English synonyms.",
     },
     scientificName: {
       reliability: "unavailable",
@@ -312,12 +327,12 @@ export const posavac_hound: Breed = {
         {
           id: "fci-posavac-hound-standard-154",
           role: "verified",
-          locator: "FCI classification",
+          locator: "FCI classification: Group 6, Section 1.2",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Classification follows the official FCI breed standard.",
+        "Follows official FCI breed standard classification; The Dog API lists Hound.",
     },
     origin: {
       reliability: "reliable_source",
@@ -332,10 +347,15 @@ export const posavac_hound: Breed = {
           role: "verified",
           locator: "Breed history and Croatian origin",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Croatia is the stated country of origin; Posavina and the Sava valley are supported by the breed's name and historical sources.",
+        "Croatia is the country of origin; Posavina (Sava River valley) is supported by historical records.",
     },
     overview: {
       reliability: "reliable_source",
@@ -350,10 +370,15 @@ export const posavac_hound: Breed = {
           role: "verified",
           locator: "Breed history, appearance, temperament, and use",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "The descriptions are original paraphrases of breed-standard and official Croatian breed information.",
+        "All user-facing prose is newly written original wording summarizing official standards and historical sources.",
     },
     "overview.currentRoles": {
       reliability: "estimate",
@@ -366,7 +391,7 @@ export const posavac_hound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Contemporary companion and enrichment activities are practical suggestions based on the breed's working background, not claims about every individual dog.",
+        "Contemporary companion and enrichment roles inferred from the breed's hunting background.",
     },
     physical: {
       reliability: "official_standard",
@@ -374,40 +399,78 @@ export const posavac_hound: Breed = {
         {
           id: "fci-posavac-hound-standard-154",
           role: "verified",
-          locator: "General appearance, proportions, coat, colour, and size",
+          locator: "General appearance, proportions, coat, colour, and height (50–56 cm male, 47–53 cm female)",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Physical details and height ranges follow the official FCI standard. Unsupported measurements are marked unavailable.",
+        "Official FCI sex-specific height ranges (50–56 cm male, 47–53 cm female) are retained; The Dog API and SKK list a combined 46–58 cm range without separating sexes. Coat colours follow FCI Standard No. 154 rather than The Dog API's species-wide colour list.",
     },
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (16–25 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-13",
       note:
-        "The FCI standard used here does not specify a weight range, and a sufficiently reliable range was not established from the sources reviewed.",
+        "FCI Standard No. 154 does not publish weight limits; 16–25 kg is sourced from The Dog API, which provides one breed-wide range without separating sexes.",
+    },
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-13",
+      note:
+        "The Dog API gave one breed-wide weight range (16–25 kg) without separating males and females.",
+    },
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-13",
+      note:
+        "The Dog API gave one breed-wide weight range (16–25 kg) without separating males and females.",
     },
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (12–14 years)",
+        },
+      ],
+      verifiedOn: "2026-11-13",
       note:
-        "A dependable breed-specific lifespan range was not established from the sources reviewed.",
+        "FCI Standard No. 154 does not publish a lifespan; 12–14 years is sourced from The Dog API.",
     },
     "physical.sheddingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The sources describe coat texture and length but do not establish a reliable shedding level.",
+        "Consulted sources describe coat texture and length without establishing a shedding rating.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A breed-specific drooling level was not established.",
+        "No breed-specific drooling level was established.",
     },
     temperament: {
       reliability: "reliable_source",
@@ -422,10 +485,15 @@ export const posavac_hound: Breed = {
           role: "verified",
           locator: "Breed description and temperament",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Traits are paraphrased from breed-standard and official breed information; they are not guarantees about an individual dog's behaviour.",
+        "Traits paraphrase official descriptions; individual behaviour varies.",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -438,56 +506,56 @@ export const posavac_hound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Scores are editorial estimates, not official ratings. Values without a dependable basis are left null.",
+        "Editorial estimates, not official ratings; unsupported scores remain null.",
     },
     "temperament.scores.affection": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable numerical affection score was not established.",
+        "No reliable numerical affection score was established.",
     },
     "temperament.scores.withChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific score for behaviour with children was not established.",
+        "No reliable breed-specific score for behaviour with children was established.",
     },
     "temperament.scores.withDogs": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific score for behaviour with other dogs was not established.",
+        "No reliable breed-specific score for behaviour with other dogs was established.",
     },
     "temperament.scores.withStrangers": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific score for behaviour with strangers was not established.",
+        "No reliable breed-specific score for behaviour with strangers was established.",
     },
     "temperament.scores.protectiveness": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable numerical protectiveness score was not established.",
+        "No reliable numerical protectiveness score was established.",
     },
     "temperament.scores.independence": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable numerical independence score was not established.",
+        "No reliable numerical independence score was established.",
     },
     care: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "General canine care advice adapted to a short-coated scent hound's working background; not a substitute for individual veterinary or training advice.",
+        "General canine care guidance adapted to a short-coated scent hound.",
     },
     "care.exercise.level": {
       reliability: "estimate",
@@ -500,7 +568,7 @@ export const posavac_hound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "The activity level is a practical estimate based on the breed's documented stamina and working role, not a formal standard rating.",
+        "Practical activity estimate inferred from documented stamina and working role.",
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
@@ -520,14 +588,14 @@ export const posavac_hound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Training difficulty is an owner-oriented estimate; the breed standard describes the dog as easy to train but does not assign a difficulty rating.",
+        "Owner-oriented estimate; the standard notes ease of training without assigning a difficulty score.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "The sources reviewed do not establish a reliable breed-specific apartment-suitability value.",
+        "Consulted sources do not establish a reliable apartment-suitability rating.",
     },
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "estimate",
@@ -540,21 +608,21 @@ export const posavac_hound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "A secure yard may be useful for an active scent hound but does not replace walks, training, or enrichment; this is not a formal breed restriction.",
+        "A fenced yard is helpful for an active hound but does not replace daily walks and enrichment.",
     },
     "care.livingEnvironment.climates": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "General weather-safety guidance, not a verified breed-specific climate-tolerance assessment.",
+        "General weather-safety guidance, not a breed-specific climate study.",
     },
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable breed-specific alone-time tolerance value was established.",
+        "No reliable breed-specific alone-time tolerance rating was established.",
     },
     nutrition: {
       reliability: "general_guidance",
@@ -567,7 +635,7 @@ export const posavac_hound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General canine nutrition advice; this is not a breed-specific veterinary prescription.",
+        "General canine nutrition guidance, not a breed-specific veterinary prescription.",
     },
     "health.overview": {
       reliability: "general_guidance",
@@ -580,28 +648,28 @@ export const posavac_hound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "The sources do not establish a reliable breed-wide health profile. The Swedish kennel-club source specifically notes that the number of dogs in Sweden is too small to assess the breed's health there.",
+        "Consulted sources do not establish a breed-wide health profile; SKK notes small population limits health assessment.",
     },
     "health.commonConditions": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A dependable breed-specific list of common conditions was not established; conditions are not inferred from other breeds.",
+        "No dependable breed-specific list of common conditions was established.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "General preventive-care advice. A veterinarian should tailor care to the individual dog.",
+        "General preventive-care guidance; consult a veterinarian for individual care.",
     },
     "health.recommendedScreenings": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A dependable breed-specific screening schedule was not established from the sources reviewed.",
+        "No breed-specific screening protocol was established from consulted sources.",
     },
     "health.dentalCare": {
       reliability: "general_guidance",
@@ -614,7 +682,7 @@ export const posavac_hound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General veterinary dental advice, not a claim of a breed-specific dental disorder.",
+        "General veterinary dental guidance.",
     },
     "health.earCare": {
       reliability: "general_guidance",
@@ -627,14 +695,14 @@ export const posavac_hound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Routine inspection advice is general care guidance; no breed-specific ear-disease prevalence is asserted.",
+        "Routine inspection guidance for hanging ears.",
     },
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
       note:
-        "Routine coat and skin checks are general care advice.",
+        "Routine coat and skin check guidance.",
     },
     suitability: {
       reliability: "estimate",
@@ -647,35 +715,35 @@ export const posavac_hound: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Owner-fit suggestions are practical estimates, not universal behavioural guarantees.",
+        "Practical owner-fit estimates, not universal guarantees.",
     },
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal first-time-owner suitability rating was not established.",
+        "No universal first-time-owner suitability rating was established.",
     },
     "suitability.familiesWithChildren": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal family-with-children rating was not established. Suitability depends on the individual dog, children's ages, supervision, and household circumstances.",
+        "No universal family-with-children rating was established.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A universal suitability rating for senior owners was not established.",
+        "No universal senior-owner suitability rating was established.",
     },
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-specific apartment-living rating was not established.",
+        "No reliable breed-specific apartment-living rating was established.",
     },
     funFacts: {
       reliability: "reliable_source",
@@ -691,9 +759,9 @@ export const posavac_hound: Breed = {
           locator: "Historical records and breed recognition",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Facts are paraphrased from the breed standard and official Croatian breed information.",
+        "Facts written in original wording from official standard and Croatian breed records.",
     },
     faq: {
       reliability: "reliable_source",
@@ -713,11 +781,16 @@ export const posavac_hound: Breed = {
           role: "verified",
           locator: "Breed history and health-information limitations",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Answers are original paraphrases. Unsupported weight, lifespan, and breed-specific health claims are deliberately omitted.",
+        "Original answers synthesizing official standards and The Dog API weight range.",
     },
   },
-  updatedOn: "2026-10-27",
+  updatedOn: "2026-11-13",
 };

@@ -545,6 +545,12 @@ export const scottish_deerhound: Breed = {
       note:
         "Stored in published source inches: males 30 to 32 inches; females 28 inches upwards.",
     },
+    "physical.height.female.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No maximum female height is specified in the consulted standard.",
+    },
 
     "physical.weight": {
       reliability: "official_standard",

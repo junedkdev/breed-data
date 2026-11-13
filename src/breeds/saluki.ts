@@ -480,6 +480,12 @@ export const saluki: Breed = {
       verifiedOn: "2026-11-10",
       note: "The standard gives 23–28 inches for dogs and says bitches may be considerably smaller. The schema's female range is left null rather than inventing an unsupported numeric range. The Dog API reports metric equivalents of 58–71 cm.",
     },
+    "physical.height.female.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No maximum female height is specified in the consulted standard.",
+    },
 
     "physical.weight": {
       reliability: "reliable_source",

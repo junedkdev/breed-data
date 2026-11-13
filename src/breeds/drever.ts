@@ -30,36 +30,35 @@ export const drever: Breed = {
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2005-04-23",
-      uploadedOn: null,
+      uploadedOn: "2019-02-11",
       width: 1341,
       height: 972,
       licenseId: "cc-by-sa-4.0",
       attribution:
         'Canarian, "DocFile Drever.jpg", via Wikimedia Commons, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). No changes made.',
       restrictions: null,
-      metadataCheckedOn: "2026-10-27",
+      metadataCheckedOn: "2026-11-13",
     },
   ],
 
   overview: {
     summary:
-      "The Drever is a sturdy Swedish scent hound with a long body, short legs, and a strong instinct for tracking game. Bred for hunting in Swedish terrain, it is persistent on a trail and known for its clear, sustained voice while following scent. It can be calm and affectionate at home, but its working drive means it needs meaningful activity and is not automatically suited to a purely sedentary companion lifestyle.",
+      "The Drever is a compact, sturdy Swedish scent hound with a long body, short legs, and remarkable stamina on a trail. Developed to track game through challenging forest terrain, it works deliberately and gives clear, sustained voice while following scent. Though calm and affectionate indoors, its strong hunting drive demands regular outdoor engagement and purposeful scent activity.",
 
     description:
-      "The Drever has a robust, low-set build rather than the proportions of a fast, long-legged running hound. Its body is relatively long, with strong muscles and short, sturdy legs. The coat is short, hard, and close-lying, with somewhat longer hair in selected areas such as the neck, back, and rear thighs. White markings appear alongside the base colour. In the field, the breed follows scent and gives voice while driving game, helping hunters track its progress. At home, temperament and behaviour still depend on the individual dog, training, socialisation, and the opportunities it receives to use its natural abilities.",
+      "Built low to the ground with a muscular, slightly elongated frame and short, strong limbs, the Drever is designed for endurance rather than speed. Its coat is short, harsh, and close-fitting, growing slightly longer along the neck, back, and rear thighs, always paired with white markings. In the field, it tracks steadily and uses a resonant, carrying bark so handlers can follow its route through dense cover. Indoors, it settles well with family when given sufficient exercise, socialization, and outlets for its keen nose.",
 
     history:
-      "The Drever developed in Sweden from small German hounds, particularly the Westphalian Dachsbracke, which were imported in the early twentieth century. The first Swedish registrations were made in 1913. The name Drever was adopted for the Swedish variety in 1947, and the breed was recognised as Swedish in 1953. It became valued as a practical scent hound able to work in Swedish terrain and climate, especially when tracking deer and other game.",
+      "The breed originated in Sweden from small German hounds—chiefly the Westphalian Dachsbracke—imported in the early 1910s and first registered in Sweden in 1913. Breeders shaped a slightly slower, steady-trailing hound well suited to Swedish terrain, snow, and deer hunting. In 1947 the Swedish variety received the name Drever, and by 1953 it was formally recognized as a distinct Swedish national breed.",
 
     originalPurpose:
-      "A scent hound used to track and drive game, especially roe deer, deer, hare, and fox, while giving voice to help hunters follow the trail.",
+      "Slow-driving scent hound used to track and push roe deer, deer, hare, and fox while giving voice along the trail.",
 
     currentRoles: [
-      "Scent-trailing and game-driving hunting dog",
-      "Hare and fox hunting hound",
-      "Roe deer and deer tracking hound",
-      "Active companion for a household able to meet its working and exercise needs",
-      "Scent-work and tracking activities suited to the individual dog",
+      "Scent-trailing and game-driving hunting hound",
+      "Roe deer, deer, hare, and fox tracking dog",
+      "Active family companion in homes able to satisfy its exercise and scenting needs",
+      "Recreational tracking and nose-work partner",
     ],
   },
 
@@ -73,52 +72,54 @@ export const drever: Breed = {
     },
 
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "kg",
+      male: { min: 14, max: 18 },
+      female: { min: 14, max: 18 },
     },
 
-    lifespanYears: null,
+    lifespanYears: {
+      min: 12,
+      max: 15,
+    },
 
     coatType:
-      "Short, hard, straight, dense, and close-lying coat. The coat is relatively short on the head, ears, and lower legs, and somewhat longer on the neck, back, and rear thighs.",
+      "Short, harsh, straight, dense, and close-lying coat. Hair is shorter on the head, ears, and lower limbs, and slightly longer on the neck, back, and backs of the thighs.",
 
     coatLength:
-      "Short overall, with slightly longer hair on the neck, back, and rear thighs. The underside of the tail has a brush-like covering rather than long feathering.",
+      "Short overall, with marginally longer hair on the neck, back, and rear thighs, and a dense, brush-like covering underneath the tail without long feathering.",
 
     coatColors: [
-      "Any colour combined with white markings, except all-white or liver-brown.",
-      "Tan with white markings, with or without a black back.",
-      "Black and white combinations.",
-      "Red or fawn shades with white markings.",
-      "Tricolour patterns with white markings.",
+      "Any colour combined with white markings, except all-white or liver-brown",
+      "Tan with white markings, with or without a black saddle or back",
+      "Black and white",
+      "Red or fawn with white markings",
+      "Tricolour with white markings",
     ],
 
     sheddingLevel:
-      "Some shedding should be expected. The short coat is relatively easy to maintain with regular brushing; an exact breed-specific shedding rating is not established here.",
+      "Moderate seasonal shedding; the short, dense coat releases loose hair steadily and responds well to routine brushing, though an exact breed-wide rating is not established.",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Long, sturdy body carried relatively low to the ground.",
-      "Short, strong legs suited to working through varied terrain.",
-      "Robust build with well-developed musculature.",
-      "Short, hard, close-lying coat.",
-      "Long, thick tail that may be carried higher when moving.",
-      "A clear, sustained voice used while tracking and driving game.",
-      "Distinctive male and female height ranges in the breed standard.",
+      "Long, muscular body set low to the ground on short, sturdy legs.",
+      "Proportionally large, elongated head with a straight or slightly convex nasal bridge and dark brown eyes.",
+      "Low-set, medium-long, broad hanging ears with rounded tips.",
+      "Well-developed oval chest extending clearly below the elbows.",
+      "Long, thick-based tail typically carried low or slightly raised when moving, never curled over the back.",
+      "Clear, carrying voice used persistently while trailing game.",
     ],
   },
 
   temperament: {
     traits: [
       "Alert",
-      "Generally steady in temperament",
-      "Persistent when following a scent",
-      "Strong hunting instinct",
-      "Determined and work-focused outdoors",
-      "Can be calm and sociable in a familiar home environment",
-      "Vocal while tracking game",
+      "Even-tempered",
+      "Persistent on a scent trail",
+      "Strong hunting and tracking instinct",
+      "Courageous and determined outdoors",
+      "Calm, loyal, and affectionate at home",
+      "Vocal while following scent",
     ],
 
     scores: {
@@ -137,18 +138,17 @@ export const drever: Breed = {
   care: {
     exercise: {
       level:
-        "High in terms of daily engagement and opportunity to use scenting instincts. Exercise should include walks, sniffing, training, and safe outlets for tracking behaviour; the amount should be adapted to age, fitness, and health.",
+        "High in terms of daily mental and physical engagement. Needs regular walks, safe sniffing time, and structured tracking or scent games adjusted to age, fitness, and weather.",
 
       minutesPerDay: null,
 
       activities: [
-        "Daily walks with time for safe sniffing and exploration",
-        "Supervised scent-trailing games",
-        "Reward-based tracking exercises",
-        "Hiking on suitable, secure routes",
-        "Structured hunting activity where lawful and appropriate",
-        "Food-search and scent-enrichment games",
-        "Recall and lead-walking practice",
+        "Daily walks allowing unhurried sniffing and exploration",
+        "Structured scent-trailing and nose-work games",
+        "Reward-based tracking practice",
+        "On-lead hiking in varied outdoor terrain",
+        "Lawful hunting and field work where appropriate",
+        "Recall and loose-lead training sessions",
       ],
     },
 
@@ -156,36 +156,36 @@ export const drever: Breed = {
       level: "Low",
 
       brushing:
-        "Brush regularly with a soft brush or grooming mitt to remove loose hair and dirt and to check the skin.",
+        "Brush weekly with a soft brush or rubber grooming mitt to remove loose hair and dirt while checking the skin.",
 
       bathing:
-        "Bathe when needed rather than on a fixed schedule. Use a dog-specific shampoo and dry the coat thoroughly.",
+        "Bathe only when dirty using a gentle canine shampoo, then towel-dry thoroughly.",
 
       notes: [
-        "The short coat is comparatively straightforward to maintain.",
-        "Check the ears regularly for wax, odour, redness, or irritation.",
-        "Inspect paws and nails after outdoor activity.",
-        "Trim nails when needed to maintain comfortable movement.",
-        "Brush teeth regularly with dog-specific toothpaste.",
-        "Check the coat and skin after walks for ticks, plant material, or irritation.",
+        "The short, harsh coat sheds dirt easily and needs minimal trimming.",
+        "Check hanging ears weekly for wax buildup, odour, or redness.",
+        "Inspect paws, pads, and nails after woodland or field walks.",
+        "Trim nails regularly to keep gait comfortable.",
+        "Brush teeth routinely with dog-safe toothpaste.",
+        "Check coat and skin for ticks or burrs after outdoor activity.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate. The Drever is bred to follow scent and can become absorbed in a trail. Consistent reward-based training, realistic expectations, and good environmental management are important.",
+        "Moderate. Naturally attentive and intelligent, yet strong scent instincts can override cues once a trail catches its attention. Consistent reward-based training and lead management are essential.",
 
       tips: [
-        "Use short, consistent sessions with rewards that motivate the individual dog.",
-        "Build recall gradually and practise in secure areas before increasing distractions.",
-        "Use a lead or long line in open areas where wildlife or scent trails may draw the dog away.",
-        "Reward attention to the handler and calm behaviour around distractions.",
-        "Provide legal scent-work activities to give its tracking instincts an appropriate outlet.",
-        "Avoid relying on punishment to interrupt scent-driven behaviour; use training and management together.",
+        "Keep sessions short, upbeat, and reward-driven.",
+        "Build reliable recall in enclosed spaces before adding outdoor distractions.",
+        "Use a lead or long line in unfenced areas where wildlife scent may tempt the dog to range.",
+        "Reinforce check-ins and calm focus around smells and movement.",
+        "Channel tracking drive into legal scent games and structured nose work.",
+        "Avoid harsh corrections; combine patient training with secure physical management.",
       ],
 
       socialization:
-        "Introduce puppies gradually and positively to different people, dogs, sounds, surfaces, handling, and everyday settings. Supervise interactions with children and other animals. Continue practising recall, lead skills, calm greetings, and attention around outdoor distractions throughout adulthood.",
+        "Provide calm, positive introductions to varied people, dogs, environments, and handling from puppyhood. Supervise interactions with children and small pets, and maintain recall and lead manners throughout adulthood.",
     },
 
     livingEnvironment: {
@@ -194,18 +194,18 @@ export const drever: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool climates with suitable shelter and routine care",
-        "Warmer climates when shade, water, ventilation, and cooler exercise times are provided",
+        "Cool climates with dry shelter and routine care",
+        "Warm climates only with reliable shade, fresh water, and cooler-hour exercise",
       ],
 
       aloneTimeTolerance:
-        "A reliable breed-specific alone-time rating is not established. Teach independence gradually, provide appropriate exercise and enrichment, and assess the individual dog's response rather than assuming it will tolerate long periods alone.",
+        "No fixed breed-wide alone-time rating is established. Build alone-time tolerance gradually with adequate exercise and enrichment, and monitor the individual dog.",
     },
   },
 
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity level, and veterinary needs.",
+      "Complete, balanced canine diet suited to life stage, body condition, and actual activity level.",
 
     feedingFrequency: {
       puppy: null,
@@ -214,47 +214,47 @@ export const drever: Breed = {
     },
 
     guidelines:
-      "Use the food manufacturer's feeding guide as a starting point, then adjust portions for body condition, activity, age, and health. Measure meals, account for treats, and provide fresh water. Consult a veterinarian for growth, weight-management, or medical-diet questions.",
+      "Start with the food manufacturer's portion guide and adjust to maintain a lean, well-muscled waistline. Because Drevers can gain weight easily when inactive, weigh meals carefully, factor in training treats, and provide fresh water at all times.",
 
     considerations: [
-      "Maintain a healthy body condition and avoid excess weight.",
-      "Adjust food quantity to the dog's actual activity rather than its hunting background alone.",
-      "Include treats in the overall daily food allowance.",
-      "Make dietary changes gradually unless a veterinarian advises otherwise.",
-      "Seek veterinary advice for persistent digestive problems, appetite changes, or unexplained weight change.",
+      "Keep body condition lean to avoid extra strain on a long back and short legs.",
+      "Match daily calories to actual exercise rather than assuming working-level intake year-round.",
+      "Count treats and chews within the daily calorie budget.",
+      "Transition foods gradually over several days unless advised otherwise by a veterinarian.",
+      "Consult a veterinarian for persistent appetite changes, digestive upset, or weight shifts.",
     ],
 
     note:
-      "A single portion size or meal frequency cannot be reliably prescribed for every Drever. Individual needs depend on age, food energy density, activity, body condition, and health.",
+      "Portion sizes and meal counts depend on age, calorie density, workload, and veterinary guidance.",
   },
 
   health: {
     overview:
-      "The available breed information does not establish a comprehensive, population-level list of inherited disorders or a reliable numerical lifespan. The Swedish breed profile notes that breathing problems during or after hunting and unusual fatigue, described as hunting oedema, have been observed in the breed. This is a reported concern rather than a diagnosis for every Drever. Any breathing difficulty, collapse, or unusual fatigue during exercise requires prompt veterinary assessment.",
+      "Available breed records do not establish a comprehensive population-level list of hereditary diseases. However, breed health observations note reports of breathing difficulties during or after hunting and unusual fatigue—sometimes termed hunting oedema. Treat this as a serious symptom to watch for rather than an inevitable condition, and seek prompt veterinary care for any respiratory distress, weakness, or collapse during exertion.",
 
     commonConditions: [
-      "Reported hunting-related breathing problems or unusual fatigue sometimes referred to as hunting oedema. This should be treated as a concern to discuss with a veterinarian, not as a condition that affects every Drever.",
+      "Reported exercise- or hunting-related breathing difficulties and unusual fatigue (sometimes called hunting oedema), noted as a breed concern requiring prompt veterinary assessment rather than a universal diagnosis.",
     ],
 
     preventiveCare: [
-      "Arrange routine veterinary examinations and keep vaccinations and parasite prevention appropriate to the dog's circumstances.",
-      "Build exercise gradually and adapt it to age, fitness, weather, and health.",
-      "Stop activity and seek veterinary advice if the dog develops unusual fatigue, breathing difficulty, weakness, or collapse during or after hunting or exercise.",
-      "Maintain a healthy body condition and monitor changes in appetite, movement, breathing, or stamina.",
-      "Ask breeders for available health history and discuss any screening relevant to the individual dog's family line with a veterinarian.",
-      "Keep dental, ear, nail, and skin care up to date.",
+      "Schedule regular veterinary wellness exams and keep vaccinations and parasite prevention current.",
+      "Condition the dog gradually for strenuous field work and adjust exertion to weather and fitness.",
+      "Stop exercise immediately and seek veterinary attention if breathing difficulty, unusual fatigue, weakness, or collapse occurs.",
+      "Maintain lean body weight to support spine and joint comfort.",
+      "Request available health history from breeders and discuss relevant screenings with a veterinarian.",
+      "Keep dental, ear, nail, and skin checks routine.",
     ],
 
     recommendedScreenings: [],
 
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste. Arrange veterinary dental checks and seek advice for persistent bad breath, gum inflammation, oral pain, or difficulty chewing.",
+      "Brush teeth regularly with canine toothpaste and arrange routine veterinary oral checks. Have bad breath, red gums, broken teeth, or chewing difficulty evaluated promptly.",
 
     earCare:
-      "Check the ears regularly for wax, debris, odour, redness, or repeated scratching. Clean only as needed with a veterinarian-approved product and seek advice if irritation persists.",
+      "Inspect the hanging ears weekly for wax, debris, odour, or redness. Clean gently with a veterinarian-approved solution when needed and seek care for recurring irritation.",
 
     skinCare:
-      "Inspect the skin and coat during brushing and after outdoor activity. Seek veterinary advice for persistent itching, redness, sores, or other changes that do not resolve.",
+      "Check skin and coat during brushing and after woodland walks for ticks, scratches, or redness. Consult a veterinarian for persistent itching or sores.",
   },
 
   suitability: {
@@ -265,80 +265,78 @@ export const drever: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Owners who can provide regular exercise and meaningful scent-based enrichment",
-      "People interested in tracking or lawful hunting activities",
-      "Households prepared to train and manage a scent hound outdoors",
-      "Owners who can use a lead, long line, or secure area when recall is unreliable",
-      "Families willing to supervise children and teach respectful dog handling",
+      "Active owners ready to provide daily walks and structured scent enrichment",
+      "Hunters or trackers seeking a steady, vocal scent hound",
+      "Households willing to manage strong trailing instincts with secure fencing and leads",
+      "Families prepared to supervise children and teach respectful handling",
     ],
 
     notIdealFor: [
-      "Households seeking a low-activity dog that needs little engagement",
-      "Owners who expect reliable off-lead recall without sustained training",
-      "People unwilling to manage strong scent-following and hunting instincts",
-      "Homes where barking would be a major problem and cannot be managed",
-      "Owners who cannot provide regular activity and mental enrichment",
+      "Sedentary households wanting a low-exercise lap dog",
+      "Owners expecting reliable off-lead recall near wildlife without intensive management",
+      "Homes or apartments where a resonant hunting bark would cause noise issues",
+      "First-time owners unwilling to train around independent scenting behaviour",
     ],
   },
 
   funFacts: [
-    "The Drever developed in Sweden from small German hounds, including the Westphalian Dachsbracke.",
-    "The breed name Drever was adopted for the Swedish variety in 1947.",
-    "Its short legs and sturdy body suit its traditional role as a scent hound working through Swedish terrain.",
-    "Drevers are valued for giving voice while following game, allowing hunters to follow the progress of a trail.",
-    "White markings are characteristic of accepted coat patterns; all-white and liver-brown coats are not accepted in the cited standard.",
+    "The Drever originated in Sweden from small German hounds, particularly the Westphalian Dachsbracke, first registered there in 1913.",
+    "Its current name was officially adopted in 1947, and the breed gained formal recognition as a Swedish breed in 1953.",
+    "Its low-slung, muscular frame helps it move steadily through deep snow and dense Nordic undergrowth.",
+    "While trailing game, a Drever gives a clear, carrying voice so hunters can follow the chase through forest cover.",
+    "Accepted coats always include white markings visible from all sides, whereas all-white and liver-brown coats are disallowed.",
   ],
 
   faq: [
     {
       question: "Where does the Drever come from?",
       answer:
-        "The Drever comes from Sweden. It developed from small German hounds brought to Sweden in the early twentieth century, and it became recognised as a Swedish breed in 1953.",
+        "The Drever comes from Sweden, where it was developed from small German hounds imported in the early twentieth century and formally recognized as a Swedish breed in 1953.",
     },
     {
       question: "What was the Drever bred to do?",
       answer:
-        "The Drever was developed as a scent hound for tracking and driving game, especially roe deer, deer, hare, and fox. It commonly gives voice while following a trail.",
+        "It was bred as a slow-driving scent hound to track and push roe deer, deer, hare, and fox while giving voice so hunters could follow the trail.",
     },
     {
       question: "How tall is a Drever?",
       answer:
-        "The published breed-standard height range is 32–38 cm for males and 30–36 cm for females.",
+        "Adult males measure 32–38 cm at the withers (ideally 35 cm) and adult females measure 30–36 cm (ideally 33 cm).",
     },
     {
       question: "How much does a Drever weigh?",
       answer:
-        "A reliable breed-specific weight range was not established in the sources used for this record, so no weight figure is provided.",
+        "Typical adult weight ranges from 14 to 18 kg, depending on sex, build, and conditioning.",
     },
     {
       question: "How long does a Drever live?",
       answer:
-        "A reliable lifespan range was not established in the sources used for this record. An individual dog's longevity depends on factors including genetics, health, and care.",
+        "Typical lifespan is around 12 to 15 years, varying with genetics, weight management, and veterinary care.",
     },
     {
       question: "Does a Drever need a lot of exercise?",
       answer:
-        "The Drever is a working scent hound that needs regular activity and opportunities to use its nose. Daily walks, scent games, tracking practice, and safe outdoor exploration can help meet those needs.",
+        "Yes. As an active working scent hound, it needs daily walks plus regular sniffing, tracking, or nose-work outlets to stay balanced.",
     },
     {
       question: "Is a Drever easy to train?",
       answer:
-        "Training is manageable with consistency and rewards, but a strong interest in scent can make the dog difficult to call away from a trail. Practise recall in secure areas and use a lead or long line when needed.",
+        "It is intelligent and responds well to reward-based training, but strong scenting instincts mean off-lead recall around wildlife requires careful management and a long line in unfenced areas.",
     },
     {
       question: "What coat colours are accepted for a Drever?",
       answer:
-        "The breed standard permits colours combined with white markings, but does not accept an all-white or liver-brown coat. Tan with white markings, sometimes with a black back, is a common pattern.",
+        "All coat colours with white markings are permitted except all-white or liver-brown. Tan with white markings, with or without a black saddle, is especially common.",
     },
     {
       question: "Are there health concerns to know about?",
       answer:
-        "Swedish breed information notes reports of breathing problems during or after hunting and unusual fatigue sometimes referred to as hunting oedema. This is not a diagnosis for every dog. Breathing difficulty or collapse requires prompt veterinary attention.",
+        "Breed health notes include reports of breathing difficulties and unusual fatigue during or after hunting, sometimes called hunting oedema. Any respiratory distress or collapse during exercise requires prompt veterinary care.",
     },
     {
       question: "Can a Drever live in an apartment?",
       answer:
-        "Apartment living may be challenging because the Drever is an active scent hound and can be vocal while working. Suitability depends on the individual dog, the building, exercise opportunities, training, and whether barking can be managed.",
+        "Apartment living is generally not ideal because of its high activity needs and strong, resonant voice. A home with secure outdoor access and regular field exercise is a better fit.",
     },
   ],
 
@@ -346,6 +344,7 @@ export const drever: Breed = {
     "fci-drever-standard-130",
     "swedish-kennel-club-drever-profile",
     "commons-docfile-drever-canarian",
+    "the-dog-api",
   ],
 
   evidence: {
@@ -354,7 +353,7 @@ export const drever: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Conventional scientific designation for the domestic dog; it is not a breed-specific taxonomic distinction.",
+        "Conventional scientific designation for the domestic dog; not a breed-specific taxonomic distinction.",
     },
 
     alternateNames: {
@@ -365,10 +364,15 @@ export const drever: Breed = {
           role: "verified",
           locator: "Nordic Dog Breeds page: Also known as",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Includes the alternate names explicitly listed in the consulted breed profile.",
+        "Includes alternate names listed in the Swedish Kennel Club profile alongside Swedish Dachsbracke.",
     },
 
     group: {
@@ -381,9 +385,9 @@ export const drever: Breed = {
             "FCI classification: Group 6, Section 1.3 Small-sized Hounds, with working trial",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Uses the FCI classification; other kennel organisations may use different group systems.",
+        "Follows FCI Group 6 Section 1.3 classification; The Dog API lists Hound.",
     },
 
     origin: {
@@ -394,9 +398,14 @@ export const drever: Breed = {
           role: "verified",
           locator: "Breed facts and history",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-10-27",
-      note: "Sweden is stated as the breed's country of origin.",
+      verifiedOn: "2026-11-13",
+      note: "Sweden is verified as the country of origin.",
     },
 
     "origin.region": {
@@ -404,7 +413,7 @@ export const drever: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources establish Sweden as the country of origin but do not establish a single specific region for this field.",
+        "Consulted sources establish Sweden as the country of origin without specifying a single sub-region.",
     },
 
     overview: {
@@ -421,10 +430,15 @@ export const drever: Breed = {
           role: "cited",
           locator: "General information, characteristics, and history",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Original descriptions summarise the breed's origin, conformation, and traditional hunting function.",
+        "All user-facing prose is original wording summarizing the official standard, kennel-club profile, and historical background.",
     },
 
     physical: {
@@ -439,28 +453,66 @@ export const drever: Breed = {
         {
           id: "swedish-kennel-club-drever-profile",
           role: "cited",
-          locator: "Size and appearance",
+          locator: "Size, coat colours, and appearance",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Physical description and height ranges follow the published breed standard. No unsupported weight or lifespan figure is inferred.",
+        "Sex-specific height ranges (32–38 cm male, 30–36 cm female) follow the official FCI standard; The Dog API gave a combined breed-wide range of 30–38 cm without separating sexes. Coat colours exclude all-white and liver-brown per the FCI standard (unlike generic colours listed in The Dog API).",
     },
 
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (14–18 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-13",
       note:
-        "The consulted official standard and breed profile did not establish a reliable numerical weight range.",
+        "FCI Standard No. 130 does not publish weight limits; 14–18 kg is taken from The Dog API, which provides one breed-wide range without separating males and females.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-13",
+      note: "The Dog API gave one breed-wide weight range (14–18 kg) and did not separate males and females.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric",
+        },
+      ],
+      verifiedOn: "2026-11-13",
+      note: "The Dog API gave one breed-wide weight range (14–18 kg) and did not separate males and females.",
     },
 
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (12–15 years)",
+        },
+      ],
+      verifiedOn: "2026-11-13",
       note:
-        "The consulted sources did not establish a reliable breed-specific lifespan range.",
+        "FCI Standard No. 130 does not publish a lifespan; 12–15 years is sourced from The Dog API.",
     },
 
     "physical.droolingLevel": {
@@ -468,7 +520,7 @@ export const drever: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable breed-specific drooling rating was established in the consulted sources.",
+        "No reliable breed-specific drooling rating was established in consulted sources.",
     },
 
     temperament: {
@@ -484,10 +536,15 @@ export const drever: Breed = {
           role: "cited",
           locator: "Behaviour/Temperament",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Traits describe reported breed tendencies, not guaranteed behaviour in every individual dog.",
+        "Describes typical breed tendencies; individual behaviour depends on genetics, training, and socialization.",
     },
 
     "temperament.scores": {
@@ -506,7 +563,7 @@ export const drever: Breed = {
       ],
       verifiedOn: null,
       note:
-        "The 1–5 scores are editorial estimates for app comparison, not official or scientific measurements.",
+        "1–5 scores are editorial estimates for app comparison, not official or scientific measurements.",
     },
 
     care: {
@@ -525,7 +582,7 @@ export const drever: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Care suggestions are practical guidance informed by the breed's working role and should be adapted to each dog's age, health, and behaviour.",
+        "Practical care guidance adapted to a working scent hound; tailor to age, health, and environment.",
     },
 
     "care.exercise.minutesPerDay": {
@@ -533,7 +590,7 @@ export const drever: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The consulted sources describe the breed's activity and hunting purpose but do not establish a universal daily exercise-minute range.",
+        "Consulted sources do not establish a universal daily exercise-minute figure.",
     },
 
     nutrition: {
@@ -547,7 +604,7 @@ export const drever: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General canine nutrition guidance; this is not an individual veterinary diet prescription.",
+        "General canine nutrition guidance; consult a veterinarian for individualized diet plans.",
     },
 
     "nutrition.feedingFrequency": {
@@ -555,7 +612,7 @@ export const drever: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No universal Drever-specific meal frequency was established. Feeding frequency should be chosen according to age, health, food, and veterinary advice.",
+        "No universal Drever-specific meal frequency was established.",
     },
 
     health: {
@@ -565,19 +622,20 @@ export const drever: Breed = {
           id: "swedish-kennel-club-drever-profile",
           role: "verified",
           locator:
-            "Health section: reported breathing problems during or after hunting and unusual fatigue described as hunting oedema",
+            "Health section: reported breathing problems during or after hunting and unusual fatigue (hunting oedema)",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "The record distinguishes a concern reported by the breed profile from a claim that every Drever is affected. It does not infer population-wide prevalence.",
+        "Distinguishes reported hunting-related respiratory/fatigue concerns from population-wide prevalence.",
     },
+
     "health.recommendedScreenings": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "No specific breed-wide health screening protocol was established by the consulted sources. Ask a veterinarian about screening appropriate to the individual dog's history and family line.",
+        "No breed-wide screening protocol was established by the consulted sources.",
     },
 
     suitability: {
@@ -587,7 +645,7 @@ export const drever: Breed = {
           id: "swedish-kennel-club-drever-profile",
           role: "cited",
           locator:
-            "Information on hunting instinct, the need for hunting-related activity, and suitability as a family dog",
+            "Hunting instinct, need for hunting-related activity, and family suitability",
         },
         {
           id: "fci-drever-standard-130",
@@ -597,7 +655,7 @@ export const drever: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Suitability flags are editorial assessments based on typical working-dog needs, not guarantees for every dog or household.",
+        "Editorial suitability ratings based on typical scent-hound traits; individual dogs and households vary.",
     },
 
     "suitability.seniorOwners": {
@@ -605,7 +663,7 @@ export const drever: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No reliable breed-specific senior-owner suitability rating was established. Suitability depends on an owner's circumstances and the individual dog's activity and training needs.",
+        "No reliable breed-specific rating for senior owners was established.",
     },
 
     funFacts: {
@@ -622,9 +680,9 @@ export const drever: Breed = {
           locator: "History, coat colours, hunting use, and vocal tracking behaviour",
         },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Historical and working-role details are paraphrased in original wording.",
+        "Historical and working-role facts written in original wording.",
     },
 
     faq: {
@@ -642,12 +700,17 @@ export const drever: Breed = {
           locator:
             "Alternate names, history, height, coat colours, activity, and health",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric and breed.life_span",
+        },
       ],
-      verifiedOn: "2026-10-27",
+      verifiedOn: "2026-11-13",
       note:
-        "Answers are original paraphrases. Measurements use the units published by the cited source; unknown weight and lifespan figures are not estimated.",
+        "Original answers synthesizing the official standard, kennel-club profile, and The Dog API weight/lifespan figures.",
     },
   },
 
-  updatedOn: "2026-10-27",
+  updatedOn: "2026-11-13",
 };

@@ -396,6 +396,12 @@ export const japanese_chin: Breed = {
       verifiedOn: "2026-10-26",
       note: "Retained FCI Standard No. 206 metric male height of 25 cm (with female left null because FCI states only 'slightly smaller than males'). The AKC standard specifies 8–11 inches across both sexes, and The Dog API gives 20–28 cm (corresponding to ~8–11 inches).",
     },
+    "physical.height.female.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "No maximum female height is specified in the consulted standard.",
+    },
     "physical.weight": {
       reliability: "official_standard",
       sources: [
