@@ -125,10 +125,9 @@
 122:bull_terrier_(miniature) - CG
 123:akita_inu - CG
 124:schweizerischer_niederlaufhund - CG
+125:boxer - CG
+126:pug - CG
 
-125:boxer - CR
-
-126:pug - C
 127:segugio_italiano_a_pelo_forte - C
 128:kuvasz - C
 129:schillerstovare - C

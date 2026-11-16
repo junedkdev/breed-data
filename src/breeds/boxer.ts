@@ -35,47 +35,43 @@ export const boxer: Breed = {
       attribution:
         "© Tomas Castelazo, www.tomascastelazo.com / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Photo: “Chata the Boxer.jpg” by Tomascastelazo. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-07",
+      metadataCheckedOn: "2026-11-16",
     },
   ],
 
   overview: {
     summary:
-      "The Boxer is a medium-sized, muscular German working breed recognised for its square build, short glossy coat, broad muzzle and lively expression. It combines an affectionate, playful nature with confidence and alertness. Historically developed from hunting dogs used to seize and hold game, the Boxer later became valued as a companion, guard and working dog. It needs regular activity, close interaction with its household and thoughtful management in hot weather.",
+      "The Boxer is a medium-sized, square-built German working dog distinguished by its muscular frame, sleek short coat, broad blunt muzzle, and expressive dark eyes. Playful and deeply affectionate with its household yet self-assured and watchful around strangers, the breed descends from central European hunting dogs bred to grip and hold large game. It thrives on daily physical activity, close family companionship, and careful protection from hot or humid weather.",
 
     description:
-      "A well-built Boxer has a compact, square outline, strong bone and clearly developed muscles. Its short coat lies close to the body and is usually fawn or brindle, with a characteristic dark mask. The broad muzzle, undershot jaw and expressive dark eyes give the breed its distinctive appearance. Natural ears lie close to the cheeks and turn forward when the dog is attentive; the tail is naturally left at its normal length under the FCI standard. Boxers are energetic and people-oriented, often retaining a playful attitude into adulthood. They generally respond well to consistent, reward-based training, but their strength and enthusiasm make early manners, impulse control and supervised exercise important.",
+      "Built on a compact, square outline, the Boxer combines sturdy bone with lean, sharply defined musculature and energetic, ground-covering movement. Its short, hard, glossy coat lies tight against the body in shades of fawn or brindle, always paired with a dark facial mask and sometimes accented by white markings. A broad, powerful muzzle with an undershot lower jaw and dark-rimmed eyes creates an alert, animated expression. Naturally drop-eared with folded tips that turn forward when attentive and carrying a full-length natural tail, the breed retains an exuberant, people-focused temperament well into adulthood and benefits from early manners training, steady impulse control, and temperature-aware exercise.",
 
     history:
-      "The Boxer developed in Germany from the small Brabant Bullenbeisser, a type of hunting dog used to seize and hold game until the huntsman arrived. Selection originally placed considerable emphasis on working ability and a powerful, broad muzzle. Over time, the breed developed into a versatile dog used for companionship, guarding and other working roles. The FCI recognises Germany as its country of origin and classifies the Boxer among the mastiff-type Molossoid breeds.",
+      "Developed in late nineteenth-century Germany, the Boxer traces its direct ancestry to the small Brabant Bullenbeisser, a traditional hunting dog used by huntsmen to catch and hold wild boar and other large game until the hunter arrived. Early breeders crossed these working dogs with Bulldog-type stock, selecting for a wide, gripping muzzle, clean athleticism, and steadfast courage. As large-game estates declined, the breed transitioned into a versatile guardian, service dog, and devoted household companion classified among the mastiff-type Molossoid working dogs.",
 
     originalPurpose:
-      "Seizing and holding game during hunts, followed by use as a companion, guard and working dog.",
+      "Catching and holding large game on hunts, later transitioning into household guarding, utility work, and companionship.",
 
     currentRoles: [
-      "Family companion",
-      "Obedience and rally activities",
-      "Agility and other suitable dog sports",
-      "Tracking and scent-based activities",
-      "Conformation showing",
-      "Working and service-related activities where individually suitable",
+      "Devoted household companion",
+      "Obedience and rally competition",
+      "Agility and canine athletic sports",
+      "Tracking and recreational nose work",
+      "Conformation exhibition",
+      "Service, assistance, and working roles where individually suited",
     ],
   },
 
   physical: {
-    sizeCategory: "Medium-sized, muscular and square-built",
+    sizeCategory: "Medium-sized, muscular, square-built working dog",
 
     height: {
-      // FCI Standard No. 144 publishes these ranges in centimetres.
       unit: "cm",
       male: { min: 57, max: 63 },
       female: { min: 53, max: 59 },
     },
 
     weight: {
-      // FCI states: males over 30 kg at approximately 60 cm;
-      // females about 25 kg at approximately 56 cm.
-      // The source does not provide a complete range.
       unit: "kg",
       male: { min: 30, max: null },
       female: { min: null, max: 25 },
@@ -84,16 +80,16 @@ export const boxer: Breed = {
     lifespanYears: { min: 10, max: 12 },
 
     coatType:
-      "Short, hard, glossy coat that lies close to the body.",
+      "Short, hard, glossy single coat lying flat and tight against the body.",
 
     coatLength:
-      "Short and close-fitting, with a smooth appearance.",
+      "Short and smooth-fitting throughout.",
 
     coatColors: [
-      "Fawn, ranging from light fawn to dark deer red",
-      "Brindle on a fawn background",
-      "Fawn or brindle with a black mask",
-      "Fawn or brindle with white markings",
+      "Fawn, ranging from pale yellow-fawn to deep deer-red",
+      "Brindle with dark or black stripes on a fawn background",
+      "Fawn or brindle accompanied by a black facial mask",
+      "Fawn or brindle with white markings covering up to one-third of the coat",
     ],
 
     sheddingLevel: null,
@@ -101,35 +97,33 @@ export const boxer: Breed = {
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Medium-sized body with a compact, square outline",
-      "Strong bone and clearly developed muscles",
-      "Broad, powerful muzzle",
-      "Distinctive undershot lower jaw",
-      "Dark eyes with dark rims",
-      "Short, hard and glossy coat",
-      "Fawn or brindle colouring with a black mask",
-      "Deep chest reaching to the elbows",
-      "Natural ears that lie close to the cheeks",
-      "Naturally carried tail of normal length",
-      "Lively, powerful movement",
+      "Compact, square body profile with equal height and body length",
+      "Clean, strongly developed musculature over sturdy bone",
+      "Broad, deep, powerful muzzle with a black nasal pad",
+      "Undershot lower jaw curving slightly upward",
+      "Dark, expressive eyes bordered by dark eyelid rims",
+      "Short, hard, glossy coat in fawn or brindle with a black mask",
+      "Deep chest extending down to the elbows",
+      "High-set natural ears lying flat against the cheeks when relaxed",
+      "High-set tail left at its natural length and carried cheerfully",
+      "Elastic, powerful stride with strong rear drive",
     ],
   },
 
   temperament: {
     traits: [
-      "Affectionate and devoted to familiar people",
-      "Loyal to its household",
-      "Alert and watchful",
-      "Self-confident",
-      "Courageous",
-      "Playful and friendly during interaction",
-      "Calm and balanced when well-adjusted",
-      "Can be distrustful of unfamiliar people",
-      "Intelligent and responsive to training",
-      "Energetic and enthusiastic",
+      "Affectionate and deeply attached to family members",
+      "Faithful and protective toward its household",
+      "Alert and observant",
+      "Self-assured and steady-nerved",
+      "Fearless and courageous when challenged",
+      "Playful and exuberant in daily interaction",
+      "Even-tempered and composed when well socialised",
+      "Reserved or watchful toward unfamiliar people",
+      "Bright and responsive to reward-based training",
+      "Energetic and athletic",
     ],
 
-    // Editorial estimates on a 1–5 scale, not standardised test results.
     scores: {
       affection: 5,
       withChildren: 4,
@@ -146,18 +140,18 @@ export const boxer: Breed = {
   care: {
     exercise: {
       level:
-        "High. Boxers are active, playful dogs that benefit from daily physical activity and mental challenges. Exercise should be adjusted for age, health and temperature.",
+        "High. Energetic and playful well into maturity, Boxers need daily physical workouts paired with mental problem-solving, scaled carefully to age, health, and outdoor temperature.",
 
       minutesPerDay: null,
 
       activities: [
-        "Daily walks with opportunities to explore",
-        "Reward-based obedience training",
-        "Fetch and interactive play",
-        "Suitable agility and fitness activities",
-        "Tracking and scent games",
-        "Food puzzles and other enrichment activities",
-        "Supervised play with compatible dogs",
+        "Brisk daily walks with time for sniffing and exploration",
+        "Reward-based obedience and impulse-control drills",
+        "Structured fetch and tug games",
+        "Age-appropriate agility and conditioning exercises",
+        "Tracking, scent games, and hidden-toy searches",
+        "Food-dispensing puzzles and indoor enrichment",
+        "Supervised play sessions with well-matched dogs",
       ],
     },
 
@@ -165,41 +159,41 @@ export const boxer: Breed = {
       level: "Low",
 
       brushing:
-        "The short, close-fitting coat is relatively easy to maintain. Brush or rub it with a soft grooming mitt or rubber brush about once or twice a week to remove loose hair and keep the coat looking tidy. Check the skin during grooming, especially around facial folds.",
+        "Go over the sleek coat once or twice weekly with a rubber grooming mitt or soft bristle brush to lift loose hairs and surface dust while inspecting the skin and muzzle folds.",
 
       bathing:
-        "Bathe when necessary using a dog-appropriate shampoo. Rinse thoroughly and dry the coat and facial folds carefully. Avoid frequent unnecessary bathing, which can dry or irritate the skin.",
+        "Bathe only as needed with a mild canine shampoo, rinsing thoroughly and drying the coat and facial wrinkles completely so moisture does not linger.",
 
       notes: [
-        "The short coat generally needs only occasional brushing.",
-        "Check facial folds for moisture, redness or irritation.",
-        "Trim nails regularly if they do not wear down naturally.",
-        "Brush teeth frequently with dog-specific dental products.",
-        "Check ears regularly for redness, odour or discharge.",
-        "Provide shade and fresh water during warm weather.",
-        "Avoid strenuous exercise during hot parts of the day.",
+        "Weekly brushing keeps the short, glossy coat clean and tidy.",
+        "Inspect and gently wipe facial wrinkles so moisture or debris does not irritate the skin.",
+        "Keep nails trimmed short to support sound foot posture.",
+        "Brush teeth several times a week using canine toothpaste.",
+        "Inspect ears weekly for redness, wax build-up, or unpleasant odour.",
+        "Provide shade, cool flooring, and fresh water during warm weather.",
+        "Restrict vigorous running during hot or humid hours.",
       ],
     },
 
     training: {
       difficulty:
-        "Moderate. Boxers are intelligent and often willing to work with their people, but their strength, enthusiasm and playful energy make consistent training and good impulse control important.",
+        "Moderate. Intelligent and eager to engage with their people, Boxers learn quickly when sessions are upbeat, though their physical strength and bouncy enthusiasm require early manners and consistent boundaries.",
 
       tips: [
-        "Use positive reinforcement and clear, consistent cues.",
-        "Start basic manners and lead training early.",
-        "Teach calm greetings and discourage jumping through reward-based methods.",
-        "Practise loose-lead walking before the dog becomes physically strong.",
-        "Use short, varied sessions to maintain engagement.",
-        "Teach reliable recall in controlled environments.",
-        "Reward calm behaviour around visitors, dogs and everyday distractions.",
-        "Include mental activities such as scent games and food puzzles.",
-        "Avoid strenuous exercise in hot or humid conditions.",
-        "Supervise play and teach the dog to settle after excitement.",
+        "Use upbeat, reward-based methods with clear, consistent household rules.",
+        "Begin polite greeting habits and loose-lead walking in early puppyhood.",
+        "Reinforce four-paws-on-the-floor greetings to curb exuberant jumping.",
+        "Build reliable lead manners before the youngster reaches full adult strength.",
+        "Keep training sessions short, varied, and engaging rather than repetitive.",
+        "Practise recall in enclosed or long-line settings before off-lead freedom.",
+        "Reward calm settling on a mat when guests arrive or activity winds down.",
+        "Channel working drive into scent games, trick training, and puzzle toys.",
+        "Move training indoors during hot or humid weather.",
+        "Supervise play closely and build scheduled rest breaks into busy days.",
       ],
 
       socialization:
-        "Introduce puppies gradually and positively to different people, calm dogs, handling, household sounds and everyday environments. Reward relaxed behaviour and avoid forcing interactions. Continue practising calm greetings, lead manners and appropriate play as the dog matures. Supervise interactions with children and other animals, and allow the dog time to rest when overstimulated.",
+        "Expose puppies gradually and positively to varied people, polite dogs, gentle body handling, household noises, and novel surfaces. Reinforce calm curiosity without forcing contact, and continue structured manners practice through adolescence. Always supervise interactions around children and unfamiliar dogs, giving the dog quiet downtime when excited.",
     },
 
     livingEnvironment: {
@@ -207,11 +201,11 @@ export const boxer: Breed = {
       houseWithYardSuitable: null,
 
       climates: [
-        "Best managed in moderate temperatures.",
-        "Needs careful protection from hot and humid weather.",
-        "Should not be left outdoors in extreme heat or cold.",
-        "Provide shade, ventilation and access to fresh water.",
-        "Plan exercise for cooler parts of the day in warm climates.",
+        "Best suited to temperate conditions with climate-controlled indoor living.",
+        "Vulnerable to overheating in hot or humid weather due to its shortened muzzle.",
+        "Needs protection from freezing cold because its short single coat lacks an insulating undercoat.",
+        "Requires reliable shade, airflow, and fresh drinking water outdoors.",
+        "Schedule walks and energetic play for early morning or evening during summer.",
       ],
 
       aloneTimeTolerance: null,
@@ -220,81 +214,80 @@ export const boxer: Breed = {
 
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, activity and veterinary needs.",
+      "Complete, balanced canine diet formulated for the dog's life stage, body condition, activity output, and veterinary needs.",
 
     feedingFrequency: {
       puppy:
-        "Feed a complete puppy diet in age-appropriate meals. Adjust portions as the puppy grows and follow veterinary guidance and the food manufacturer's instructions.",
+        "Feed a complete growth formula split into multiple age-appropriate meals daily, adjusting portions steadily as the puppy develops.",
 
       adult:
-        "Provide measured meals on a consistent schedule. Adjust portions according to body condition, activity and individual needs. Avoid unrestricted feeding if it causes excess weight gain.",
+        "Offer measured meals on a regular daily schedule, adjusting intake to preserve a visible waist and lean muscular condition.",
 
       senior:
-        "Choose food and portions according to the older dog's body condition, activity and medical needs. Ask a veterinarian about dietary adjustments if mobility, weight or health changes.",
+        "Tailor calorie density and portion size to changes in metabolism, mobility, and veterinary health recommendations.",
     },
 
     guidelines:
-      "Measure food portions and monitor body condition regularly. Keep fresh water available, count treats as part of the daily food allowance and make dietary changes gradually unless a veterinarian advises otherwise. Active dogs may need different portions from less active dogs. Seek veterinary advice for persistent digestive problems, weight changes or feeding difficulties.",
+      "Measure daily rations rather than free-feeding, monitor rib cover and waist tuck regularly, and deduct training treats from the daily calorie budget. Transition between foods gradually over several days unless directed otherwise by a veterinarian, and keep clean water available at all times.",
 
     considerations: [
-      "Maintain a healthy body condition and avoid excess weight.",
-      "Adjust portions to age, activity and individual metabolism.",
-      "Provide fresh drinking water throughout the day.",
-      "Count treats and chews as part of the daily food allowance.",
-      "Use a complete diet suitable for the dog's life stage.",
-      "Discuss persistent digestive problems or weight changes with a veterinarian.",
+      "Keep body weight lean to reduce strain on hips, elbows, and the cardiovascular system.",
+      "Scale portions to match seasonal exercise levels and individual metabolism.",
+      "Ensure fresh drinking water is always accessible, particularly after play.",
+      "Include training rewards and dental chews within total daily calorie intake.",
+      "Select a complete diet matched to puppy, adult, or senior life stage.",
+      "Consult a veterinarian promptly for unexplained weight loss, digestive upset, or appetite changes.",
     ],
 
     note:
-      "This is general canine nutrition guidance, not a Boxer-specific feeding prescription. Exact portions depend on the individual dog's age, body condition, activity and health.",
+      "General canine feeding guidance; exact ration sizes depend on individual age, calorie density of the food, workload, and medical status.",
   },
 
   health: {
     overview:
-      "Boxers have several recognised health concerns, particularly involving the heart and cancer. Research using veterinary records has also identified ear disorders, tumours and eye ulcers among commonly recorded problems in the breed. Their relatively short muzzle can contribute to breathing and heat-management concerns in some individuals. Breeding dogs may be screened for hip and elbow conditions, thyroid disease, cardiac disorders and certain inherited conditions. Screening recommendations are intended to support responsible breeding and do not mean that every Boxer will develop these conditions. Regular veterinary examinations and attention to changes in breathing, exercise tolerance, skin, eyes and general behaviour are important.",
+      "Boxers have several well-documented health priorities, most notably inherited cardiac conditions and a heightened predisposition to neoplasia (cancer). Primary-care veterinary studies also identify ear infections (otitis externa), gingival growths (epulis), corneal ulcers, and periodontal disease among the most frequently diagnosed disorders in the breed. In addition, the shortened muzzle can make some individuals more susceptible to heat stress and upper-airway resistance. Responsible breeding programmes screen prospective parents for cardiac, orthopaedic, thyroid, and specific genetic disorders, while owners should prioritise routine veterinary auscultation, prompt lump checks, and careful heat management.",
 
     commonConditions: [
-      "Cardiac disease, including aortic stenosis and arrhythmogenic right ventricular cardiomyopathy (ARVC).",
-      "Tumours, including mast cell tumours and lymphoma.",
-      "Ear disorders.",
-      "Corneal ulcers and other eye problems.",
-      "Hip dysplasia.",
-      "Brachycephalic obstructive airway syndrome (BOAS) or other breathing difficulties in some dogs with shortened muzzles.",
-      "Hypothyroidism.",
+      "Cardiac disorders, including aortic or subaortic stenosis and arrhythmogenic right ventricular cardiomyopathy (ARVC / Boxer cardiomyopathy).",
+      "Cutaneous and systemic neoplasms, including mast cell tumours and lymphoma.",
+      "Otitis externa (ear canal inflammation and infection) and gingival epulis.",
+      "Corneal ulceration and related ocular surface disorders.",
+      "Canine hip dysplasia and elbow dysplasia.",
+      "Upper-airway resistance or heat intolerance associated with a shortened muzzle.",
+      "Autoimmune thyroiditis and hypothyroidism.",
       "Degenerative myelopathy.",
     ],
 
     preventiveCare: [
-      "Arrange regular veterinary examinations and age-appropriate preventive care.",
-      "Ask the veterinarian to assess heart sounds during routine examinations.",
-      "Discuss cardiac screening and monitoring, particularly if there is a family history of heart disease.",
-      "Ask breeders for documented hip, elbow, thyroid and cardiac screening results.",
-      "Discuss the relevance of ARVC and degenerative myelopathy DNA tests with a veterinarian or genetic specialist.",
-      "Monitor for new lumps, skin changes or unexplained swelling and have them checked promptly.",
-      "Seek veterinary attention for eye pain, squinting, discharge or cloudiness.",
-      "Monitor breathing and exercise tolerance, especially in warm weather.",
-      "Maintain a healthy body condition and suitable daily activity.",
+      "Schedule regular veterinary wellness checks, including careful cardiac auscultation at every visit.",
+      "Discuss specialist cardiology evaluation or Holter monitoring if a murmur, arrhythmia, or fainting episode occurs.",
+      "Verify that breeding parents hold documented hip, elbow, thyroid, cardiac, and genetic test clearances.",
+      "Review DNA test results for ARVC and degenerative myelopathy with a veterinarian when selecting breeding stock.",
+      "Inspect the skin and gums monthly for new lumps, growths, or slow-healing sores and have them evaluated early.",
+      "Seek prompt veterinary care for squinting, eye redness, tearing, or corneal cloudiness.",
+      "Protect against heat exhaustion by limiting warm-weather exertion and watching breathing effort closely.",
+      "Keep the dog at a lean, athletic weight throughout life.",
     ],
 
     recommendedScreenings: [
-      "Hip evaluation for breeding dogs.",
-      "Elbow evaluation for breeding dogs.",
-      "Thyroid evaluation for breeding dogs.",
-      "Aortic stenosis and subaortic stenosis cardiac evaluation.",
-      "Aortic valve disease evaluation.",
-      "Arrhythmogenic right ventricular cardiomyopathy (ARVC) DNA testing.",
-      "Annual Holter monitoring for Boxer cardiomyopathy in breeding dogs.",
-      "Degenerative myelopathy (common variant) DNA testing.",
+      "Radiographic hip evaluation for breeding stock.",
+      "Radiographic elbow evaluation for breeding stock.",
+      "Autoimmune thyroiditis laboratory panel for breeding stock.",
+      "Specialist cardiologist auscultation and echocardiographic screening for aortic/subaortic stenosis.",
+      "Congenital aortic valve disease cardiac evaluation.",
+      "Arrhythmogenic right ventricular cardiomyopathy (ARVC) DNA test.",
+      "Annual 24-hour Holter electrocardiogram monitoring for breeding dogs.",
+      "Degenerative myelopathy (SOD1 common variant) DNA test.",
     ],
 
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste and a suitable toothbrush. Check the mouth during routine veterinary examinations, especially if there is bad breath, discomfort, drooling or difficulty eating.",
+      "Brush teeth several times per week with canine enzymatic toothpaste and inspect the gums regularly for benign gingival overgrowths (epulides), tartar, or oral discomfort during veterinary visits.",
 
     earCare:
-      "Check the ears regularly for redness, odour, discharge or scratching. Clean only when necessary with a dog-safe product recommended by a veterinarian. Seek veterinary advice if irritation or discharge persists.",
+      "Inspect the drop ears weekly for redness, odour, excess wax, or head shaking, and clean gently with a veterinarian-recommended ear solution when needed.",
 
     skinCare:
-      "Check the skin during grooming for irritation, lumps, unusual growths, redness or changes around facial folds. Boxers can develop skin problems and tumours, so have persistent or changing lesions assessed by a veterinarian rather than assuming they are harmless.",
+      "Check the coat, skin, and facial folds during weekly brushing for lumps, hives, fold moisture, or persistent sores, having any new or changing mass examined promptly by a veterinarian.",
   },
 
   suitability: {
@@ -305,93 +298,93 @@ export const boxer: Breed = {
     apartmentLiving: null,
 
     idealFor: [
-      "Active households that can provide daily exercise and interaction",
-      "People who enjoy training and interactive play",
-      "Families prepared to supervise dog-child interactions",
-      "Owners who want an affectionate and involved companion",
-      "People willing to manage heat exposure carefully",
-      "Owners prepared for regular veterinary attention to breed-related health risks",
+      "Active individuals and families who enjoy daily walks, play, and training",
+      "Handlers who appreciate an expressive, people-oriented working companion",
+      "Households committed to supervising interactions between dogs and children",
+      "Owners who use upbeat, reward-based training and clear boundaries",
+      "People attentive to warm-weather safety and indoor climate comfort",
+      "Owners proactive about routine veterinary screenings and lump checks",
     ],
 
     notIdealFor: [
-      "People who want a low-energy or minimally active dog",
-      "Households unable to provide regular companionship and enrichment",
-      "Owners who cannot manage a strong, enthusiastic dog on a lead",
-      "People who expect the dog to tolerate strenuous activity in hot weather",
-      "Owners unwilling to monitor health changes and maintain regular veterinary care",
+      "Sedentary households seeking a low-energy dog",
+      "Homes where the dog would be left isolated for long periods each day",
+      "Handlers uncomfortable managing a strong, athletic dog on lead",
+      "Owners expecting an outdoor working dog in hot or freezing climates",
+      "People unwilling to budget for proactive veterinary monitoring",
     ],
   },
 
   funFacts: [
-    "The Boxer originated in Germany.",
-    "Its immediate ancestor is described as the small Brabant Bullenbeisser.",
-    "The breed was historically used to seize and hold game during hunts.",
-    "The Boxer is classified by the FCI among mastiff-type Molossoid breeds.",
-    "The breed's characteristic head includes a broad muzzle and an undershot jaw.",
-    "The FCI standard recognises fawn and brindle coat colours, both with a black mask.",
-    "The Boxer has been used as a companion, guard and working dog.",
+    "Developed in Germany during the late nineteenth century, the breed takes its German name, Deutscher Boxer, from its homeland.",
+    "Its immediate forebear was the small Brabant Bullenbeisser, a historical hunting dog bred to grip and hold large game.",
+    "Early selection focused heavily on a wide, powerful muzzle and upturned lower jaw capable of holding quarry securely.",
+    "Internationally, the Boxer is grouped among the mastiff-type Molossoid working breeds and competes in working trials.",
+    "Recognised coat colours are restricted to shades of fawn and brindle, each accented by a dark facial mask.",
+    "Many Boxers retain their signature exuberant, puppy-like playfulness well into their adult years.",
+    "Alongside its role as a spirited family companion, the Boxer has served as a courier, guard, and utility working dog.",
   ],
 
   faq: [
     {
-      question: "Where does the Boxer dog breed originate?",
+      question: "Where did the Boxer originate?",
       answer:
-        "The Boxer originated in Germany. Its development is associated with the small Brabant Bullenbeisser, a type of hunting dog used to seize and hold game.",
+        "The Boxer originated in Germany in the late nineteenth century, descending directly from the small Brabant Bullenbeisser hunting dog crossed with Bulldog-type stock.",
     },
     {
-      question: "What is the Boxer dog's temperament?",
+      question: "What is a Boxer's typical temperament?",
       answer:
-        "The Boxer is generally described as confident, loyal, alert and playful. It is usually affectionate with its household and may be cautious around unfamiliar people. Individual temperament depends on genetics, socialisation, training and experience.",
+        "Boxers are self-assured, alert, playful, and deeply devoted to their households. While exuberant and affectionate with family members, they can be watchful around strangers, and individual behaviour is shaped by genetics, early socialisation, and reward-based training.",
     },
     {
-      question: "How tall is a Boxer?",
+      question: "How tall does a Boxer grow?",
       answer:
-        "The FCI breed standard gives a height of 57–63 cm for males and 53–59 cm for females, measured at the withers.",
+        "Adult males measure 57–63 cm at the withers, while adult females measure 53–59 cm.",
     },
     {
-      question: "How much does a Boxer weigh?",
+      question: "How much does an adult Boxer weigh?",
       answer:
-        "The FCI standard states that males weigh over 30 kg at a height of approximately 60 cm. Females weigh about 25 kg at a height of approximately 56 cm. These are reference figures, not complete weight ranges.",
+        "Reference weights are over 30 kg for a male standing around 60 cm at the withers and approximately 25 kg for a female standing around 56 cm.",
     },
     {
-      question: "What colours do Boxers come in?",
+      question: "What coat colours are recognised in the Boxer?",
       answer:
-        "The recognised colours are fawn and brindle. Both have a black mask, and white markings may also be present.",
+        "The recognised ground colours are fawn (from pale yellow to dark deer-red) and brindle (dark or black stripes on a fawn base), both featuring a black mask and sometimes white markings covering up to one-third of the body.",
     },
     {
-      question: "How long does a Boxer live?",
+      question: "What is the life expectancy of a Boxer?",
       answer:
-        "The American Kennel Club gives a typical life expectancy of 10–12 years. Individual lifespan varies with genetics, health, weight and care.",
+        "Typical life expectancy is 10–12 years, while primary-care veterinary research in the UK has recorded an overall median/average lifespan of around 10.5 years.",
     },
     {
-      question: "Does a Boxer need a lot of exercise?",
+      question: "How much exercise does a Boxer need?",
       answer:
-        "Yes. Boxers are active dogs that benefit from daily walks, play, training and mental enrichment. Exercise should be adjusted for age and health, and strenuous activity should be avoided during hot weather.",
+        "Boxers are energetic, athletic dogs that need daily brisk walks, interactive play, and mental enrichment, with intensity scaled back during hot or humid weather.",
     },
     {
-      question: "Is a Boxer easy to train?",
+      question: "Are Boxers easy to train?",
       answer:
-        "Boxers are intelligent and often willing to learn, but their enthusiasm and strength make consistency important. Positive reinforcement, early manners training and calm lead skills are useful.",
+        "They are bright and eager to engage with their handlers, responding well to short, varied, reward-based sessions, though early lead manners and impulse-control training are essential given their strength and enthusiasm.",
     },
     {
-      question: "Are Boxers good family dogs?",
+      question: "Do Boxers make good family companions?",
       answer:
-        "Many Boxers are affectionate and playful with their families. As with any strong, energetic dog, interactions with children should be supervised and the dog should be taught calm behaviour and appropriate play.",
+        "Yes, they are renowned for their affectionate, patient, and playful bond with family members, provided interactions with children are supervised and polite greeting manners are taught early.",
     },
     {
-      question: "What health problems are Boxers prone to?",
+      question: "What health conditions are most common in Boxers?",
       answer:
-        "Important concerns include heart disease, tumours, ear disorders, eye ulcers, hip dysplasia and breathing difficulties in some dogs. The risk varies between individuals. Regular veterinary care and appropriate health screening are important.",
+        "Key health concerns include cardiac diseases (such as aortic stenosis and Boxer cardiomyopathy/ARVC), mast cell tumours and other cancers, ear infections, gingival growths (epulides), corneal ulcers, hip dysplasia, and heat sensitivity.",
     },
     {
-      question: "What health tests should Boxer breeders consider?",
+      question: "Which health screenings are recommended before breeding a Boxer?",
       answer:
-        "Breed-club guidance for breeding dogs includes hip and elbow evaluations, thyroid testing, cardiac assessments, Holter monitoring, and DNA tests for ARVC and degenerative myelopathy. A veterinarian or relevant specialist should advise on the appropriate tests and their interpretation.",
+        "Recommended pre-breeding evaluations include hip and elbow radiographs, thyroid panels, specialist cardiac auscultation and echocardiography, annual 24-hour Holter monitoring, and DNA testing for ARVC and degenerative myelopathy.",
     },
     {
-      question: "Can a Boxer live in a hot climate?",
+      question: "How well do Boxers tolerate hot or cold weather?",
       answer:
-        "Boxers need careful heat management. Their short muzzle can make breathing and cooling more difficult, so provide shade, ventilation and fresh water, and schedule exercise during cooler periods. Avoid strenuous activity in hot or humid conditions.",
+        "Because of their shortened muzzle and single coat without undercoat, Boxers tolerate neither extreme heat nor freezing cold well; keep them indoors in climate-controlled comfort and schedule warm-weather walks for cooler morning or evening hours.",
     },
   ],
 
@@ -403,6 +396,7 @@ export const boxer: Breed = {
     "rvc-boxer-health-study-summary-2023",
     "pdsa-boxer-breed-health",
     "wikimedia-chata-boxer-photo",
+    "the-dog-api",
   ],
 
   evidence: {
@@ -414,9 +408,14 @@ export const boxer: Breed = {
           role: "verified",
           locator: "Breed title: Deutscher Boxer (Boxer)",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-11-07",
-      note: "The alternate German name follows the official breed title.",
+      verifiedOn: "2026-11-16",
+      note: "Follows the official German and English breed titles.",
     },
 
     scientificName: {
@@ -424,7 +423,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The breed standards and breed profiles reviewed do not establish a separate scientific name for the Boxer breed.",
+        "Reviewed breed standards and veterinary references do not establish a separate scientific name for the Boxer.",
     },
 
     group: {
@@ -435,9 +434,14 @@ export const boxer: Breed = {
           role: "verified",
           locator: "FCI classification: Group 2, Section 2.1, with working trial",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group (Working)",
+        },
       ],
-      verifiedOn: "2026-11-07",
-      note: "Uses the FCI classification.",
+      verifiedOn: "2026-11-16",
+      note: "Uses the full FCI group and section classification; The Dog API lists Working.",
     },
 
     "origin.country": {
@@ -448,8 +452,13 @@ export const boxer: Breed = {
           role: "verified",
           locator: "Origin: Germany",
         },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note: null,
     },
 
@@ -458,7 +467,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The official standard identifies Germany as the country of origin but does not specify one region as the breed's origin.",
+        "The official standard identifies Germany as the country of origin without designating a single sub-region.",
     },
 
     overview: {
@@ -475,14 +484,19 @@ export const boxer: Breed = {
           role: "cited",
           locator: "Breed overview, temperament and care",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "Descriptions are original summaries of the breed's documented history, purpose and characteristics.",
+        "All overview text is newly written original prose synthesising the breed's documented history, conformation, and working roles.",
     },
 
     physical: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-boxer-standard-144",
@@ -495,10 +509,15 @@ export const boxer: Breed = {
           role: "cited",
           locator: "Breed size and lifespan information",
         },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 17 generic species colours)",
+        },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "Physical descriptions are based primarily on the official standard. Measurement fields have more specific evidence claims below.",
+        "Physical traits and recognised coat colours follow FCI Standard No. 144 (fawn and brindle with black mask and permitted white markings) rather than The Dog API's generic 17-colour list.",
     },
 
     "physical.height": {
@@ -507,12 +526,17 @@ export const boxer: Breed = {
         {
           id: "fci-boxer-standard-144",
           role: "verified",
-          locator: "Size and weight: height at the withers, dogs 57–63 cm and females 53–59 cm",
+          locator: "Size and weight: height at the withers, males 57–63 cm and females 53–59 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (males 58–64 cm, females 55–60 cm)",
         },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "The published centimetre values are stored as written, without unit conversion.",
+        "Retains the official FCI Standard No. 144 centimetre ranges (57–63 cm male, 53–59 cm female) without conversion; The Dog API reports 58–64 cm for males and 55–60 cm for females.",
     },
 
     "physical.weight": {
@@ -522,12 +546,17 @@ export const boxer: Breed = {
           id: "fci-boxer-standard-144",
           role: "verified",
           locator:
-            "Size and weight: dogs over 30 kg at approximately 60 cm; bitches about 25 kg at approximately 56 cm",
+            "Size and weight: males over 30 kg at approximately 60 cm; females about 25 kg at approximately 56 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (males 29–36 kg, females 23–29 kg)",
         },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "The standard gives reference weights rather than complete sex-specific weight ranges. The values are stored in kilograms as published.",
+        "Retains the official FCI Standard No. 144 reference weights in kilograms (males over 30 kg, females about 25 kg); The Dog API lists broader metric ranges of 29–36 kg for males and 23–29 kg for females.",
     },
 
     "physical.weight.male.max": {
@@ -535,7 +564,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The standard gives a lower reference of over 30 kg for males but does not publish an upper weight limit.",
+        "FCI Standard No. 144 specifies a minimum reference of over 30 kg for males (at ~60 cm height) without setting an upper weight ceiling.",
     },
 
     "physical.weight.female.max": {
@@ -545,12 +574,12 @@ export const boxer: Breed = {
           id: "fci-boxer-standard-144",
           role: "verified",
           locator:
-            "Size and weight: bitches about 25 kg at approximately 56 cm",
+            "Size and weight: females about 25 kg at approximately 56 cm",
         },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "The value is approximate, as stated in the standard, and should not be interpreted as a strict maximum for every female.",
+        "Represents the approximate 25 kg benchmark published in FCI Standard No. 144 for a female of around 56 cm height.",
     },
 
     "physical.lifespanYears": {
@@ -559,12 +588,22 @@ export const boxer: Breed = {
         {
           id: "akc-boxer-breed-profile",
           role: "verified",
-          locator: "Average sizes and life expectancy: 10–12 years",
+          locator: "Life expectancy: 10–12 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (10–12 years)",
+        },
+        {
+          id: "rvc-vetcompass-boxer-study-2023",
+          role: "cited",
+          locator: "UK primary-care cohort average lifespan of 10.46 years",
         },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "This is the published typical life-expectancy range, not a guarantee for an individual dog.",
+        "Matches the 10–12 year lifespan range in AKC and The Dog API, supported by the 10.46-year average reported in UK VetCompass data.",
     },
 
     "physical.sheddingLevel": {
@@ -572,7 +611,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "The reviewed breed-specific sources describe the short coat and grooming needs but do not establish a reliable shedding level.",
+        "Reviewed official standards and veterinary sources describe the short coat without establishing a standardised shedding category.",
     },
 
     "physical.droolingLevel": {
@@ -580,11 +619,11 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-wide drooling level was not established. The standard's fault description is not treated as a quantified drooling assessment.",
+        "A standardised breed-wide drooling rating was not established across the verified primary sources.",
     },
 
     temperament: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-boxer-standard-144",
@@ -596,10 +635,15 @@ export const boxer: Breed = {
           role: "cited",
           locator: "Breed traits and personality",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "Breed-level descriptions do not guarantee the behaviour of an individual dog.",
+        "Breed-level temperament characteristics; individual dogs vary with genetics, training, and socialisation.",
     },
 
     "temperament.traits": {
@@ -615,10 +659,15 @@ export const boxer: Breed = {
           role: "cited",
           locator: "Breed personality and temperament",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "Traits are paraphrased from the standard and breed profile.",
+        "Traits are rewritten in original wording from the official standard, kennel-club profile, and reference dataset.",
     },
 
     "temperament.scores": {
@@ -637,7 +686,7 @@ export const boxer: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Editorial scores on a 1–5 scale. They are not results from standardised behavioural testing.",
+        "Editorial scores on a 1–5 scale, not results from standardised behavioural testing.",
     },
 
     care: {
@@ -656,7 +705,7 @@ export const boxer: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Care advice combines Boxer-specific guidance with general dog-care recommendations.",
+        "Care recommendations combine Boxer-specific climate and activity guidance with general canine husbandry.",
     },
 
     "care.exercise.level": {
@@ -675,7 +724,7 @@ export const boxer: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Editorial activity-level assessment. Exercise needs vary with age, health and temperature.",
+        "Editorial activity-level assessment; daily exercise should be adjusted to age, health, and ambient temperature.",
     },
 
     "care.exercise.minutesPerDay": {
@@ -683,7 +732,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "No single daily exercise duration is treated as a universal requirement for every Boxer.",
+        "Reviewed sources do not establish a single universal daily minute requirement for every Boxer.",
     },
 
     "care.grooming": {
@@ -700,9 +749,9 @@ export const boxer: Breed = {
           locator: "Coat: short, hard, glossy and close-fitting",
         },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "Coat type and basic grooming needs are source-backed. Nail and dental instructions are general care advice.",
+        "Coat texture and low-maintenance brushing needs are source-verified; nail, ear, and dental notes follow general care best practices.",
     },
 
     "care.training": {
@@ -721,7 +770,7 @@ export const boxer: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Training recommendations are breed-informed guidance and should be adapted to the individual dog.",
+        "Breed-informed training guidance tailored to an energetic, powerful working dog.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -729,7 +778,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A universal apartment-suitability rating is not established by the sources reviewed.",
+        "Reviewed sources do not establish a universal boolean apartment-suitability rating.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -737,7 +786,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A yard may be useful but is not established as a universal requirement or suitability measure.",
+        "Reviewed sources do not establish a universal boolean house-with-yard rating.",
     },
 
     "care.livingEnvironment.climates": {
@@ -754,9 +803,9 @@ export const boxer: Breed = {
           locator: "Brachycephalic health and heat-management advice",
         },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "Climate guidance reflects the breed's reported sensitivity to temperature extremes and general heat-safety advice.",
+        "Reflects documented sensitivity to both heat/humidity (shortened muzzle) and cold (short single coat without undercoat).",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -764,7 +813,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A reliable breed-wide alone-time tolerance was not established.",
+        "No standardised breed-wide alone-time tolerance rating was established.",
     },
 
     nutrition: {
@@ -772,7 +821,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "General canine nutrition advice. No Boxer-specific feeding quantity or diet prescription was established.",
+        "General canine nutrition guidance; no breed-specific dietary formula is prescribed.",
     },
 
     health: {
@@ -782,23 +831,23 @@ export const boxer: Breed = {
           id: "rvc-vetcompass-boxer-study-2023",
           role: "verified",
           locator:
-            "Study of demography, mortality and common disorders in Boxer dogs under primary veterinary care",
+            "Demography, common disorders and mortality of Boxer dogs under primary veterinary care in the UK",
         },
         {
           id: "rvc-boxer-health-study-summary-2023",
           role: "verified",
           locator:
-            "Research summary: common disorders and health priorities in UK Boxer dogs",
+            "Summary of leading disorders (otitis externa, epulis, corneal ulceration) and cancer mortality in UK Boxers",
         },
         {
           id: "pdsa-boxer-breed-health",
           role: "cited",
-          locator: "Boxer health concerns",
+          locator: "Boxer breed health overview",
         },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "Health information is based on veterinary research and breed-health guidance. It describes risks, not diagnoses or predictions for an individual dog.",
+        "Synthesises peer-reviewed UK primary-care veterinary findings and breed-club health screening priorities.",
     },
 
     "health.commonConditions": {
@@ -807,7 +856,7 @@ export const boxer: Breed = {
         {
           id: "rvc-vetcompass-boxer-study-2023",
           role: "verified",
-          locator: "Common disorders recorded in the study population",
+          locator: "Most common specific disorders: otitis externa, epulis, corneal ulceration, periodontal disease, and neoplasia",
         },
         {
           id: "rvc-boxer-health-study-summary-2023",
@@ -815,19 +864,19 @@ export const boxer: Breed = {
           locator: "Summary of ear disorders, tumours and eye ulcers",
         },
         {
+          id: "american-boxer-club-health-screening",
+          role: "verified",
+          locator: "Breeding health screening: cardiac (AS/SAS, ARVC), thyroid, hip, elbow and degenerative myelopathy",
+        },
+        {
           id: "pdsa-boxer-breed-health",
           role: "cited",
           locator: "Potential breathing, hip, eye and heart conditions",
         },
-        {
-          id: "american-boxer-club-health-screening",
-          role: "cited",
-          locator: "Breeding health screening: cardiac, thyroid, hip, elbow and genetic conditions",
-        },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "The list combines disorders reported in veterinary research with conditions addressed by breed-club screening guidance. It is not a ranked prevalence list.",
+        "Combines disorders documented in RVC VetCompass primary-care research with hereditary conditions targeted by breed-club screening.",
     },
 
     "health.recommendedScreenings": {
@@ -840,9 +889,9 @@ export const boxer: Breed = {
             "Testing and Reporting Guidelines: hip/elbow, thyroid, aortic valve, AS/SAS, Holter, ARVC and DM",
         },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "These recommendations apply to dogs in active breeding programmes. The club advises that tests and results be interpreted with a veterinarian or specialist.",
+        "Reflects pre-breeding health evaluation recommendations published for active breeding stock.",
     },
 
     "health.preventiveCare": {
@@ -862,7 +911,7 @@ export const boxer: Breed = {
       ],
       verifiedOn: null,
       note:
-        "General preventive care informed by breed-health guidance. Screening schedules should be decided with the dog's veterinarian.",
+        "General preventive veterinary care informed by breed-specific cardiac, neoplastic, and heat-safety priorities.",
     },
 
     "health.dentalCare": {
@@ -873,9 +922,14 @@ export const boxer: Breed = {
           role: "cited",
           locator: "Grooming: regular dental care",
         },
+        {
+          id: "rvc-vetcompass-boxer-study-2023",
+          role: "cited",
+          locator: "Epulis and periodontal disease among top recorded disorders",
+        },
       ],
       verifiedOn: null,
-      note: "General canine dental-care advice.",
+      note: "General canine dental care with attention to gingival growths (epulides) recorded in the breed.",
     },
 
     "health.earCare": {
@@ -884,12 +938,12 @@ export const boxer: Breed = {
         {
           id: "rvc-boxer-health-study-summary-2023",
           role: "cited",
-          locator: "Ear disorders among commonly recorded Boxer conditions",
+          locator: "Otitis externa among the most frequently recorded Boxer disorders",
         },
       ],
       verifiedOn: null,
       note:
-        "Regular checks are sensible because ear disorders are reported in the breed; cleaning should be guided by veterinary advice.",
+        "Routine ear checks are emphasised because otitis externa is a leading primary-care diagnosis in Boxers.",
     },
 
     "health.skinCare": {
@@ -898,17 +952,17 @@ export const boxer: Breed = {
         {
           id: "rvc-vetcompass-boxer-study-2023",
           role: "cited",
-          locator: "Common disorders and tumour-related health findings",
+          locator: "Cutaneous masses and tumour-related findings",
         },
         {
           id: "pdsa-boxer-breed-health",
           role: "cited",
-          locator: "Skin problems and facial-fold irritation",
+          locator: "Skin problems and facial-fold care",
         },
       ],
       verifiedOn: null,
       note:
-        "General skin-care advice with attention to lumps, skin changes and facial-fold irritation.",
+        "General skin and wrinkle care with emphasis on early veterinary evaluation of cutaneous lumps.",
     },
 
     suitability: {
@@ -927,7 +981,7 @@ export const boxer: Breed = {
       ],
       verifiedOn: null,
       note:
-        "Editorial lifestyle guidance based on activity needs, temperament and health management. It is not a validated suitability test.",
+        "Editorial lifestyle suitability estimates based on energy level, strength, and climate sensitivity.",
     },
 
     "suitability.firstTimeOwners": {
@@ -935,7 +989,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "First-time-owner suitability depends on the person's experience, training support and the individual dog's behaviour.",
+        "Suitability for a first-time owner depends on individual commitment to reward-based training, exercise, and health monitoring.",
     },
 
     "suitability.seniorOwners": {
@@ -943,7 +997,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Suitability for senior owners depends on individual health, strength, lifestyle and support.",
+        "Suitability for senior owners depends on the handler's physical strength, activity level, and support network.",
     },
 
     "suitability.apartmentLiving": {
@@ -951,7 +1005,7 @@ export const boxer: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "A universal apartment-living rating was not established by the sources reviewed.",
+        "No universal apartment-living rating is established across the reviewed sources.",
     },
 
     funFacts: {
@@ -960,11 +1014,16 @@ export const boxer: Breed = {
         {
           id: "fci-boxer-standard-144",
           role: "verified",
-          locator: "Historical summary, origin and utilization",
+          locator: "Historical summary, origin, classification, head and coat colour",
+        },
+        {
+          id: "akc-boxer-breed-profile",
+          role: "cited",
+          locator: "Playful character and working history",
         },
       ],
-      verifiedOn: "2026-11-07",
-      note: "Historical and breed-standard facts are paraphrased.",
+      verifiedOn: "2026-11-16",
+      note: "All fun facts are rewritten in original wording without naming registries in user-facing text.",
     },
 
     faq: {
@@ -988,15 +1047,15 @@ export const boxer: Breed = {
         },
         {
           id: "rvc-vetcompass-boxer-study-2023",
-          role: "cited",
-          locator: "Common disorders and mortality research",
+          role: "verified",
+          locator: "Common disorders and 10.46-year average lifespan in UK primary care",
         },
       ],
-      verifiedOn: "2026-11-07",
+      verifiedOn: "2026-11-16",
       note:
-        "Answers distinguish official standard measurements, published life-expectancy guidance, health research and breeding-screening recommendations.",
+        "FAQ answers are written in original wording and omit registry/source names from user-facing text.",
     },
   },
 
-  updatedOn: "2026-11-07",
+  updatedOn: "2026-11-16",
 };

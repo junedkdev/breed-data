@@ -17889,10 +17889,10 @@ export const sources = defineSources({
     note: "Official national parent club health portal documenting structural health risks including IVDD, Patellar Luxation, CAER Eye examinations (PRA), Cardiac auscultation, and mandatory CHIC pre-breeding screenings.",
     publisher: "Dachshund Club of America"
   },
-  "ofa-dachshund-chic-requirements": {
+ "ofa-dachshund-chic-requirements": {
     id: "ofa-dachshund-chic-requirements",
     name: "Orthopedic Foundation for Animals - Dachshund CHIC Requirements",
-    url: "https://ofa.org/chic-programs/browse-by-breed/",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=DH",
     type: "veterinary",
     publishedOn: null,
     accessedOn: "2026-11-16",

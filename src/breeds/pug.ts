@@ -3,7 +3,7 @@ import type { Breed } from "../schema/breed.types";
 export const pug: Breed = {
   slug: "pug",
   name: "Pug",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Carlin",
@@ -12,16 +12,16 @@ export const pug: Breed = {
     "Chinese Pug",
     "Dutch Bulldog",
     "Dutch Mastiff",
-    "Miniature Mastiff"
+    "Miniature Mastiff",
   ],
 
   group:
-    "Companion and Toy Dogs; Section 11 — Small Molossian type dogs (without working trial; also classified in the Toy and Companion Dog groups)",
+    "Companion and Toy Dogs; Section 11 — Small Molossian type dogs (without working trial)",
 
   origin: {
     country: "China",
     region:
-      "Ancient China (developed and standardized further in the Netherlands and Great Britain)"
+      "Imperial China, with later refinement in the Netherlands and Great Britain",
   },
 
   images: [
@@ -29,7 +29,7 @@ export const pug: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Pug_dog_image.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Pug_dog_image.jpg",
       title: "Pug dog image.jpg",
-      description: "A fawn Pug dog looking directly forward.",
+      description: "A fawn Pug facing forward.",
       creator: "Celebindiaworld",
       uploader: "Celebindiaworld",
       capturedOn: "2020-07-18",
@@ -38,9 +38,9 @@ export const pug: Breed = {
       height: 4000,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Celebindiaworld, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Pug_dog_image.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Celebindiaworld, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Pug_dog_image.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24"
+      metadataCheckedOn: "2026-11-16",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/My_pug.jpg",
@@ -55,109 +55,109 @@ export const pug: Breed = {
       height: 655,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Gmart1111, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:My_pug.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Gmart1111, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:My_pug.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24"
-    }
+      metadataCheckedOn: "2026-11-16",
+    },
   ],
 
   overview: {
     summary:
-      "A compact, square-built toy companion originating in ancient China, recognized for its expressive wrinkled face, curled tail, gentle warmth, and steady, comic personality.",
+      "The Pug is a square-proportioned, muscular toy companion of ancient Chinese origin, unmistakable for its broad wrinkled brow, short blunt muzzle, tightly curled tail, and affectionate, playful temperament.",
 
     description:
-      "The Pug is an ancient, muscular toy dog defined by a square and cobby silhouette, broad chest, and a round head marked by deep facial wrinkles. Packed with substantial bone into a small frame, it epitomizes the classical concept of holding plenty of substance in minimal space. The smooth, glossy double coat appears in fawn, silver fawn, apricot, or solid black, framed by a lustrous black mask and distinctive black ear flaps. Bred strictly for companionship over two millennia, the Pug possesses an affectionate, stable, and cheerful disposition. It bonds closely with human companions of all ages, adapting seamlessly to apartment life while delighting owners with its comic antics, restful quietness indoors, and expressive gazes.",
+      "Built on a compact, square, and cobby frame, the Pug packs firm muscle and solid bone into a small body—an ideal traditionally summarised by the Latin motto 'multum in parvo' ('much in little'). Its large, rounded head carries well-defined forehead wrinkles, dark expressive eyes, and a short, square muzzle, while the high-set tail twists tightly over the hip. The fine, smooth, glossy coat comes in shades of fawn (including silver fawn and apricot fawn) with a contrasting black mask and dorsal trace, or in solid black. Bred over centuries purely for human companionship, the breed combines an even-tempered, dignified steadiness with playful humour and thriving sociability indoors.",
 
     history:
-      "Tracing its origins back over two thousand years to ancient China, the Pug was bred as an imperial lap dog during the Han dynasty, living in luxury inside imperial palaces and guarded by royal attendants. Dutch merchant traders from the Dutch East India Company brought the breed to Europe in the sixteenth century, where it became the official mascot of the House of Orange after a vigilant dog saved the Prince of Orange from an assassination attempt. The breed spread rapidly to aristocratic courts across France, Italy, and England, where Queen Victoria developed an ardent fondness for Pugs, keeping extensive breeding kennels that helped shape the modern physical standard. In the late nineteenth and twentieth centuries, the breed transitioned into a globally cherished family companion celebrated for its even temper and devoted nature.",
+      "Originating in China more than two thousand years ago during the Han dynasty, the Pug's ancestors were treasured lap dogs of the imperial court, housed in luxury and attended by palace guards. In the sixteenth century, maritime traders with the Dutch East India Company introduced these small dogs to the Netherlands, where the breed became closely linked to the House of Orange after a dog reportedly alerted Prince William the Silent to approaching assassins. From the Low Countries, the breed spread to royal households across Europe, gaining particular prominence in nineteenth-century Britain under the patronage of Queen Victoria, whose breeding kennels helped establish the modern type.",
 
     originalPurpose:
-      "Prized lap companion and household pet for emperors and noble courts in ancient China, later serving as an aristocratic palace companion and sentinel in Europe.",
+      "Imperial lap dog and court companion in ancient China, later kept as a royal household companion in European courts.",
 
     currentRoles: [
-      "Devoted household companion and family pet",
-      "Therapy and emotional support visiting dog",
-      "Trick dog and reward-based basic agility participant",
-      "Conformation show dog"
-    ]
+      "Household companion and family dog",
+      "Therapy and visiting companion dog",
+      "Trick training and low-impact indoor dog sports",
+      "Conformation exhibition",
+    ],
   },
 
   physical: {
-    sizeCategory: "Small",
+    sizeCategory: "Small, square-built, cobby toy dog",
 
     height: {
       unit: "in",
       male: {
         min: 10,
-        max: 13
+        max: 13,
       },
       female: {
         min: 10,
-        max: 13
-      }
+        max: 13,
+      },
     },
 
     weight: {
       unit: "lb",
       male: {
         min: 14,
-        max: 18
+        max: 18,
       },
       female: {
         min: 14,
-        max: 18
-      }
+        max: 18,
+      },
     },
 
     lifespanYears: {
       min: 13,
-      max: 15
+      max: 15,
     },
 
     coatType:
-      "Short, fine, smooth, soft, and glossy double coat with a flat outer coat and a dense, plush undercoat, neither harsh, off-standing, nor woolly.",
+      "Fine, smooth, soft, short, and glossy coat that is neither harsh nor woolly; fawn varieties commonly carry a dense undercoat.",
 
     coatLength: "Short",
 
     coatColors: [
-      "Fawn with black mask, ears, and back trace",
-      "Black (solid glossy black)",
-      "Silver fawn with black mask and trace",
-      "Apricot with black mask and trace"
+      "Fawn with a black mask, black ears, and a black dorsal trace",
+      "Silver or silver fawn with a black mask, black ears, and a black trace",
+      "Apricot or apricot fawn with a black mask, black ears, and a black trace",
+      "Solid glossy black",
     ],
 
     sheddingLevel:
-      "High year-round shedding with heavier seasonal shedding during spring and autumn when the dense undercoat molts",
+      "High year-round shedding, especially in double-coated fawn dogs during spring and autumn coat changes",
 
     droolingLevel:
-      "Low to moderate, with occasional moisture or water dripping around mealtimes, heavy panting, or excitement",
+      "Low to moderate, mostly limited to brief dampness after drinking, eating, or warm-weather panting",
 
     distinctiveFeatures: [
-      "Decidedly square, cobby, and compact body with firm muscle and substantial bone",
-      "Large, massive, rounded head without an apple-dome appearance and with clearly marked forehead wrinkles",
-      "Short, blunt, and square muzzle that is not turned upward",
-      "Slightly undershot bite with a broad lower jaw where incisors sit nearly in a straight row",
-      "Large, dark, lustrous eyes with a soft, solicitous, and expressive gaze",
-      "Small, thin, velvet-soft ears carried in either button (flap folding forward) or rose (folded back) fashion",
-      "Distinct black mask on the muzzle, black ears, dark moles on cheeks, and a dark thumb mark or diamond on the forehead",
-      "Dark trace line extending along the spine from the back of the skull to the tail",
-      "High-set tail curled tightly over the hip, with a double curl representing exceptional symmetry",
-      "True and jaunty movement characterized by a slight rolling motion of the hindquarters"
-    ]
+      "Square, cobby, compact build with firm musculature and sturdy bone",
+      "Large, round head (never dome-shaped) with clearly defined forehead wrinkles",
+      "Short, blunt, square muzzle that does not turn upward",
+      "Slightly undershot bite with a wide lower jaw and incisors aligned nearly in a straight row",
+      "Dark, lustrous, globular eyes with a soft, attentive expression",
+      "Small, thin, velvet-textured ears in either button (folding forward, preferred) or rose (folding back) carriage",
+      "Intense black mask, black ears, cheek moles, and forehead diamond or thumb mark on fawn coats",
+      "Black trace line running along the spine from the occiput to the tail base on fawn coats",
+      "High-set tail curled as tightly as possible over the hip, with a double curl highly prized",
+      "Free, self-assured gait featuring a characteristic slight roll of the hindquarters",
+    ],
   },
 
   temperament: {
     traits: [
-      "Charming, affectionate, and deeply attached to family",
-      "Even-tempered, steady, and remarkably patient",
-      "Playful and naturally comical",
-      "Friendly and sociable with familiar people and welcoming to strangers",
-      "Gentle and tolerant around children and elderly individuals",
-      "Peaceful and accommodating with other dogs and domestic animals",
-      "Alert and inquisitive without being nervous or hyperactive",
-      "Independent and occasionally headstrong when unmotivated",
-      "Low territoriality and minimal watchdog aggression",
-      "Communicative, expressing emotion through snorts, grumbles, and soft vocalizations rather than persistent barking"
+      "Affectionate and closely bonded to its household",
+      "Even-tempered, stable, and patient",
+      "Playful, mischievous, and naturally comical",
+      "Charming and dignified",
+      "Outgoing and welcoming toward guests",
+      "Gentle and sturdy around children",
+      "Sociable and peaceful with other dogs and household pets",
+      "Alert and curious without nervous hyperactivity",
+      "Occasionally willful or food-motivated during training",
+      "Expressive through soft snorts, grunts, and yawns rather than excessive barking",
     ],
 
     scores: {
@@ -169,63 +169,63 @@ export const pug: Breed = {
       independence: 2,
       trainability: 3,
       barking: 2,
-      energy: 2
-    }
+      energy: 2,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "Low to moderate; benefits from gentle daily strolls and brief play sessions, requiring strict monitoring to avoid respiratory stress and thermal overload",
+        "Low to moderate. Daily gentle walks and brief indoor play keep the dog fit, while exertion must be carefully limited in warm or humid weather to protect breathing.",
 
       minutesPerDay: {
         min: 30,
-        max: 45
+        max: 45,
       },
 
       activities: [
-        "Leisurely neighborhood walks during the coolest parts of the day",
-        "Gentle indoor fetch and interactive puzzle games",
-        "Supervised exploration and light romping in a secure yard",
-        "Scent-work tracking and hidden treat finding",
-        "Short, reward-based basic obedience and trick routines in air-conditioned spaces"
-      ]
+        "Easy neighbourhood walks during cool morning or evening hours",
+        "Short indoor fetch or tug games on non-slip flooring",
+        "Supervised sniffing and pottering in a securely fenced garden",
+        "Food-Dispensing puzzle toys and indoor scent searches",
+        "Brief, upbeat trick and manners sessions in climate-controlled rooms",
+      ],
     },
 
     grooming: {
       level: "Moderate",
 
       brushing:
-        "Brush two to three times weekly using a rubber curry brush, soft bristle brush, or grooming mitt to lift loose undercoat hair; increase to daily brushing during peak seasonal shedding periods.",
+        "Brush two to three times a week with a rubber grooming mitt or soft bristle brush to remove loose hair, increasing to daily brushing during seasonal coat drops.",
 
       bathing:
-        "Bathe every four to six weeks using a mild, hydrating dog shampoo, taking care to avoid getting water inside the ear canals or eyes, and dry all skin crevices thoroughly.",
+        "Bathe every four to six weeks or when soiled using a gentle canine shampoo, shielding the prominent eyes and ear canals from water and drying every skin fold thoroughly afterward.",
 
       notes: [
-        "Clean the deep facial skin wrinkles and over-nose fold two to three times weekly using a soft damp wipe, following immediately with a dry cloth to prevent bacterial and fungal moisture accumulation.",
-        "Inspect the prominent eyes daily for dust, trapped hair, or discharge, wiping the eye corners gently with a sterile damp pad.",
-        "Check and clean the soft velvety ears weekly for wax buildup, moisture, or odor.",
-        "Trim nails every two to three weeks to prevent splayed toes and discomfort while walking.",
-        "Brush teeth daily with enzymatic canine toothpaste to counter dental crowding caused by the shortened jaw.",
-        "Never shave the double coat, as the outer fur and undercoat insulate against both cold and surface heat."
-      ]
+        "Wipe inside the facial wrinkles and nasal roll several times a week with a damp cloth or pet wipe, then dry completely to prevent trapped moisture.",
+        "Check the prominent eyes daily for dust, stray hairs, redness, or squinting.",
+        "Inspect the velvety ear flaps weekly for wax build-up, redness, or odour.",
+        "Trim nails every two to three weeks so the feet remain compact and comfortable.",
+        "Brush teeth daily with canine toothpaste to manage plaque in a shortened jaw.",
+        "Do not shave the coat, as the short hair protects the skin and helps regulate surface temperature.",
+      ],
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent and eager to please for food, but easily discouraged by harshness and inclined to tune out repetitive drills",
+        "Moderate. Food-motivated and eager to please when sessions are fun, the Pug can become stubborn if bored or corrected harshly.",
 
       tips: [
-        "Rely on positive reinforcement, verbal praise, and small low-calorie training treats.",
-        "Keep instructional lessons short, lighthearted, and limited to five to ten minutes.",
-        "Always walk with a supportive chest harness rather than a neck collar to protect the delicate airway and trachea from strain.",
-        "Maintain patience and a regular outdoor schedule during house-training, using crate training and positive rewards.",
-        "Avoid stern verbal reprimands or physical corrections, which cause this sensitive companion to withdraw.",
-        "Acclimate puppies early to gentle handling of their facial wrinkles, paws, ears, and teeth."
+        "Use upbeat praise and tiny, low-calorie treats that fit within the daily food ration.",
+        "Keep training sessions brief—around five to ten minutes—and varied to hold interest.",
+        "Always attach the lead to a well-fitted Y-front chest harness rather than a neck collar to avoid pressure on the windpipe and eyes.",
+        "Establish a consistent outdoor schedule and reward-based routine for house-training.",
+        "Avoid harsh corrections, which cause this sensitive companion to shut down.",
+        "Practise gentle daily handling of facial folds, paws, ears, and mouth from puppyhood.",
       ],
 
       socialization:
-        "Introduce the young dog in a gradual, supportive manner to a wide variety of friendly people, vaccinated pets, household appliances, and gentle environments. Because the breed possesses an inherently friendly nature, social development focuses on building calm confidence, good manners, and stress-free cooperation during necessary facial and veterinary care."
+        "Introduce puppies gradually and positively to varied people, calm dogs, household sounds, and gentle grooming routines. Because the breed is naturally sociable, early socialisation focuses on polite greetings, confidence in new settings, and relaxed cooperation during wrinkle cleaning, nail trims, and veterinary exams.",
     },
 
     livingEnvironment: {
@@ -233,90 +233,89 @@ export const pug: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate and mild climates",
-        "Indoor climate-controlled environments with reliable air conditioning are mandatory in hot or humid conditions",
-        "Cold climates with indoor heating, warm dog apparel during winter outings, and brief outdoor bathroom trips"
+        "Temperate climates with comfortable indoor living",
+        "Requires air-conditioned indoor shelter during warm or humid weather",
+        "Needs indoor heating and a warm coat for brief winter walks in cold climates",
       ],
 
       aloneTimeTolerance:
-        "Low; intensely companion-oriented and susceptible to distress or separation anxiety when left isolated for long hours, thriving best in households with regular human presence"
-    }
+        "Low. Bred specifically for close human company, Pugs dislike long periods of isolation and do best in homes where someone is present for most of the day.",
+    },
   },
 
   nutrition: {
     dietType:
-      "Complete and balanced diet formulated for small-breed dogs, adjusted for life stage, metabolic rate, and individual activity levels.",
+      "Complete, balanced small-breed canine diet matched to life stage, body condition, and activity level.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until approximately six months of age, then transitioning to two or three meals.",
+        "Feed three to four small, measured meals daily until around six months of age, then reduce to two or three meals.",
       adult:
-        "Two measured meals daily to support steady digestion and discourage rapid food bolting.",
+        "Feed two measured meals daily to support steady digestion and help manage appetite.",
       senior:
-        "Two portion-controlled meals daily adapted for slower metabolism, joint mobility, and dental health."
+        "Feed two portion-controlled meals daily adjusted for lower calorie needs, joint health, and dental comfort.",
     },
 
     guidelines:
-      "Measure food precisely using a digital gram scale or standard measuring cup, as the breed gains weight readily and carries a naturally hearty appetite. Excess weight dramatically increases respiratory difficulty and joint strain in short-faced dogs. Divide the daily ration into two distinct meals, utilize a shallow dish or slow-feeder bowl suited to a flat muzzle, and restrict active exercise immediately before and after eating.",
+      "Weigh or measure every meal accurately, because Pugs have enthusiastic appetites and gain weight easily. Even modest excess weight worsens upper-airway resistance and stresses the spine and joints. Use a shallow, wide dish suited to a flat face, count all training treats toward daily calories, and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean body condition to minimize stress on the respiratory system, spine, and joints.",
-      "Incorporate training treats into the daily caloric calculation to prevent gradual weight gain.",
-      "Utilize small, low-calorie treat options such as green bean slices or baby carrot morsels during training.",
-      "Select kibble designed in size and shape for compact flat-faced jaws.",
-      "Avoid rich table scraps and fatty foods that can prompt digestive distress or pancreatitis.",
-      "Ensure cool, clean drinking water is accessible at all times in a wide, shallow bowl."
+      "Keep body condition lean to reduce respiratory effort and joint load.",
+      "Deduct training treats from the daily meal allowance.",
+      "Choose tiny, low-calorie rewards such as small vegetable pieces during training.",
+      "Use kibble sized and shaped for a short, broad jaw.",
+      "Avoid fatty table scraps that can trigger digestive upset or pancreatitis.",
+      "Offer water in a wide, shallow bowl that does not rub the nasal fold.",
     ],
 
     note:
-      "Caloric requirements differ according to age, sterilization status, and daily movement. Work closely with a veterinarian to establish appropriate daily portion targets."
+      "General canine feeding guidance; individual calorie needs depend on age, neuter status, activity, and veterinary advice.",
   },
 
   health: {
     overview:
-      "The Pug is a long-lived toy companion with a typical life expectancy of 13 to 15 years. However, its compressed facial anatomy and distinct physical features predispose it to conformational and hereditary health challenges. Primary concerns encompass brachycephalic obstructive airway syndrome (BOAS), eye vulnerabilities resulting from shallow orbits, and skin fold intertrigo inside facial wrinkles. In addition, the breed faces specific genetic risks, most notably necrotizing meningoencephalitis (Pug dog encephalitis / PDE), an inflammatory central nervous system condition with documented genetic susceptibility, along with hip dysplasia, patellar luxation, and congenital spinal hemivertebrae.",
+      "Although many Pugs live 13 to 15 years, the breed's extreme brachycephalic skull, prominent eyes, deep skin folds, and screw-tail conformation create well-documented health vulnerabilities. Major conformational concerns include brachycephalic obstructive airway syndrome (BOAS), corneal ulceration and pigmentary keratitis, and skin fold dermatitis (intertrigo). Recognised neurological and orthopaedic risks include necrotizing meningoencephalitis (NME, also called Pug dog encephalitis or PDE)—a fatal inflammatory brain disease with an established genetic risk test—along with mid-back spinal cord disorders (constrictive myelopathy and hemivertebrae), patellar luxation, and hip dysplasia. Responsible breeders use DNA and clinical screening panels to reduce risk, though screening does not guarantee an individual dog will remain free of disease.",
 
     commonConditions: [
-      "Brachycephalic obstructive airway syndrome (BOAS) — stenotic nostrils, elongated soft palate, and narrowed airways causing snoring, exercise intolerance, and severe heat sensitivity",
-      "Necrotizing meningoencephalitis (NME / Pug dog encephalitis / PDE) — a severe, progressive inflammatory brain disorder associated with specific immune gene markers",
-      "Corneal ulcers and ocular trauma — surface abrasions and corneal injuries caused by prominent, shallow-set eyes and reduced blink protection",
-      "Pigmentary keratitis and dry eye (keratoconjunctivitis sicca) — chronic corneal pigmentation and inadequate tear film production requiring veterinary management",
-      "Skin fold dermatitis (intertrigo) — bacterial and fungal infections arising in moist, warm facial wrinkles and over-nose folds",
-      "Hemivertebrae and spinal malformations — misshapen, wedge-like spinal bones linked to the screw-tail trait, occasionally resulting in nerve compression or hind-limb weakness",
-      "Patellar luxation — kneecap displacement from the femoral groove causing intermittent hopping or hind-leg lameness",
-      "Hip dysplasia — developmental laxity of the hip joints that can contribute to secondary degenerative arthritis",
-      "Periodontal disease — premature plaque buildup and gum inflammation caused by dental crowding in a shortened jaw",
-      "Obesity — excess adipose tissue that rapidly compromises breathing and worsens airway obstruction"
+      "Brachycephalic obstructive airway syndrome (BOAS) — narrowed nostrils (stenotic nares), an elongated soft palate, and compressed nasal passages causing noisy breathing, exercise intolerance, and high risk of overheating.",
+      "Necrotizing meningoencephalitis (NME / Pug dog encephalitis / PDE) — a severe, progressive inflammatory disorder of the central nervous system strongly associated with specific MHC class II genetic markers in Pugs.",
+      "Corneal ulceration, pigmentary keratitis, and dry eye (keratoconjunctivitis sicca) — ocular surface injury and chronic corneal pigmentation linked to shallow eye sockets and incomplete eyelid closure.",
+      "Skin fold dermatitis (intertrigo) — bacterial or yeast inflammation inside moist facial wrinkles, nasal rolls, or tail folds.",
+      "Hemivertebrae and Pug constrictive myelopathy — congenital vertebral malformations or mid-back spinal cord compression that can lead to hind-limb ataxia or weakness.",
+      "Patellar luxation — medial or lateral slippage of the kneecap causing intermittent skipping or hind-limb lameness.",
+      "Canine hip dysplasia — developmental hip joint laxity that can progress to osteoarthritis.",
+      "Periodontal disease — early plaque accumulation and gingivitis due to crowded teeth in a shortened jaw.",
+      "Obesity — excess weight that directly compounds airway obstruction, heat intolerance, and orthopaedic strain.",
     ],
 
     preventiveCare: [
-      "Confirm that prospective breeding parents hold registered screening clearances for genetic encephalitis risk, respiratory function, patellas, hips, and eyes.",
-      "Clean and thoroughly dry the facial wrinkles and over-nose fold several times each week.",
-      "Walk the dog on a comfortable chest harness instead of a collar to avoid putting pressure on the trachea and airways.",
-      "Enforce strict heat safety: keep the dog inside air-conditioned rooms during hot or humid weather and never leave it unattended in a vehicle.",
-      "Inspect the eyes daily for cloudiness, redness, discharge, or squinting, and seek prompt veterinary evaluation for any suspected eye scratch.",
-      "Maintain a lean body condition through strict portion control and regular, gentle exercise.",
-      "Brush teeth daily and schedule periodic professional veterinary dental cleanings.",
-      "Keep vaccinations, heartworm prevention, and flea/tick control up to date under veterinary guidance."
+      "Verify that breeding parents have documented test results for NME (PDE) DNA susceptibility, respiratory function grading, eye exams, patellas, and hips.",
+      "Inspect, wipe, and dry the nasal roll and facial wrinkles several times each week.",
+      "Use a chest harness rather than a neck collar on all walks.",
+      "Keep the dog in cool, air-conditioned spaces during warm or humid weather and stop activity immediately if breathing becomes laboured.",
+      "Seek prompt veterinary care for any squinting, eye redness, corneal cloudiness, or ocular discharge.",
+      "Maintain a lean body weight through strict meal measurement.",
+      "Brush teeth daily and arrange routine veterinary dental assessments.",
+      "Keep routine vaccinations and parasite prevention current.",
     ],
 
     recommendedScreenings: [
-      "DNA marker test for susceptibility to necrotizing meningoencephalitis (Pug dog encephalitis / PDE)",
-      "Clinical respiratory function grading / airway evaluation for brachycephalic obstructive airway syndrome",
-      "Patellar luxation clinical veterinary evaluation and grading",
-      "Radiographic hip evaluation",
-      "Ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Spinal radiographic screening for hemivertebrae prior to breeding"
+      "Necrotizing meningoencephalitis (NME / PDE) DNA susceptibility test.",
+      "Clinical respiratory function grading assessment for brachycephalic obstructive airway syndrome (BOAS).",
+      "Specialist veterinary ophthalmic examination.",
+      "Veterinary patellar luxation evaluation.",
+      "Radiographic hip dysplasia evaluation.",
+      "Optional spinal radiographic evaluation, tracheal hypoplasia radiograph, cardiac exam, elbow evaluation, and pyruvate kinase deficiency (PKD) DNA test for breeding stock.",
     ],
 
     dentalCare:
-      "Brush teeth daily with soft bristles and canine-safe toothpaste. Because the compressed facial structure leaves little room for 42 adult teeth, dental crowding and rotated teeth accelerate tartar formation, making early home care and regular professional dental cleanings essential.",
+      "Brush teeth daily with canine toothpaste and a soft brush. Because 42 adult teeth are packed into a shortened jaw, crowding and rotation trap plaque quickly, making home brushing and periodic professional veterinary dental cleanings essential.",
 
     earCare:
-      "Inspect the thin velvety ear flaps once a week for redness, dark discharge, or odor. Clean gently using a veterinarian-recommended ear-cleansing liquid, drying the ear entrance carefully without inserting cotton swabs into the canal.",
+      "Check the folded button or rose ears weekly for wax build-up, redness, or odour. Wipe the outer ear gently with a veterinarian-approved cleanser and dry well without probing the ear canal.",
 
     skinCare:
-      "Gently part and wipe the deep facial wrinkles, nose fold, and tail fold using a mild pet wipe, drying the skin completely with a soft cloth. Check the body during brushing for dry patches, flea irritation, or hot spots, and bathe periodically with a soothing oatmeal or antimicrobial shampoo."
+      "Part and clean the facial wrinkles, over-nose fold, and tail base two to three times weekly with a gentle wipe, then pat completely dry. Monitor the skin during brushing for redness, yeast odour, or hair loss.",
   },
 
   suitability: {
@@ -327,94 +326,94 @@ export const pug: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "First-time dog owners seeking an affectionate, good-natured, and manageable companion",
-      "Apartment, condominium, or small-home residents wanting a calm indoor pet",
-      "Families with children desiring a gentle, sturdy, and playful companion",
-      "Retirees, seniors, or remote workers who spend the majority of the day at home",
-      "Owners who prefer leisurely walks and relaxed indoor living over high-intensity outdoor athletics",
-      "Households committed to regular facial fold hygiene and air-conditioned summer living"
+      "First-time dog owners looking for an affectionate, people-focused small companion",
+      "Apartment and townhome dwellers seeking a quiet, compact indoor dog",
+      "Families with gentle children who supervise play around the dog's prominent eyes",
+      "Seniors, retirees, or remote workers who are home for most of the day",
+      "Owners who prefer relaxed daily strolls over strenuous outdoor sports",
+      "Households committed to strict weight control, wrinkle care, and summer air conditioning",
     ],
 
     notIdealFor: [
-      "Running, jogging, or strenuous hiking enthusiasts looking for an athletic endurance partner",
-      "Residents of warm, humid climates lacking reliable indoor air conditioning",
-      "Households where the dog would be left alone without human company for long workdays",
-      "Individuals intolerant of snoring, snorting sounds, or steady household hair shedding",
-      "Owners unwilling to clean facial skin folds several times weekly or manage brachycephalic veterinary needs"
-    ]
+      "Runners, hikers, or cyclists seeking a high-endurance athletic partner",
+      "Homes in hot or humid regions without reliable indoor air conditioning",
+      "People away from home for long workdays",
+      "Households bothered by snoring, snorting, or heavy year-round shedding",
+      "Owners unwilling to perform regular wrinkle cleaning and proactive veterinary care",
+    ],
   },
 
   funFacts: [
-    "Pugs are an ancient breed originating in China during the Han dynasty (around 200 B.C.), where they were pampered companions to emperors and guarded by soldiers.",
-    "A collective group of Pugs is traditionally known as a 'grumble'.",
-    "The breed's classical motto is 'multum in parvo', a Latin phrase meaning 'a lot in a little' or 'much dog in a small space', describing its compact, muscular substance.",
-    "In the sixteenth century, a Pug named Pompey reportedly saved the life of William the Silent, Prince of Orange, by scratching and barking when assassins approached his tent, making the breed the official mascot of the House of Orange.",
-    "Josephine Bonaparte had a devoted Pug named Fortune, who carried concealed messages under his collar to her family while she was imprisoned during the French Revolution.",
-    "The high-set tail curled tightly over the hip is a hallmark feature, and a double curl is regarded as the epitome of breed perfection.",
-    "British royalty, including Queen Victoria, developed a passionate affection for the breed in the nineteenth century, establishing breeding kennels that helped standardize the breed's modern appearance."
+    "Bred in China since at least the Han dynasty (206 BCE–220 CE), early Pugs were pampered imperial companions guarded by palace soldiers.",
+    "A group of Pugs is popularly referred to as a 'grumble'.",
+    "The traditional Latin phrase 'multum in parvo' ('much in little') appears in standards to describe the breed's substantial muscle and bone packed into a compact frame.",
+    "In 1572, a Pug named Pompey is credited with saving William the Silent, Prince of Orange, by alerting him to assassin troops at his camp in Hermigny.",
+    "Joséphine Bonaparte's Pug, Fortune, famously carried hidden notes under his collar to her family while she was held at Les Carmes prison in Paris.",
+    "A tightly curled tail set high over the hip is a hallmark of the breed, with a double curl prized as the ideal.",
+    "Queen Victoria kept dozens of Pugs during the nineteenth century and helped found modern kennel-club interest in the breed.",
   ],
 
   faq: [
     {
-      question: "Where does the Pug originate?",
+      question: "Where did the Pug originate?",
       answer:
-        "The breed originated in ancient China over two thousand years ago during the Han dynasty, where it lived in luxury as an imperial companion before traveling to Europe via Dutch merchant traders in the sixteenth century."
+        "The breed originated in ancient China more than two thousand years ago as a companion to imperial households, and was brought to Europe by Dutch traders in the sixteenth century.",
     },
     {
-      question: "What was the Pug originally bred to do?",
+      question: "What was the Pug originally bred for?",
       answer:
-        "Unlike working terriers or hunting hounds, the breed was created exclusively as a loyal, affectionate lap companion and royal house pet."
+        "From its earliest history, the Pug was bred specifically as a devoted lap dog and household companion rather than as a hunting or working breed.",
     },
     {
-      question: "How tall and heavy does a Pug get?",
+      question: "How tall is an adult Pug and how much does it weigh?",
       answer:
-        "Adults typically stand 10 to 13 inches tall at the withers and have a desirable weight between 14 and 18 pounds, presenting a square, compact, and muscular build."
+        "Adults typically stand 10 to 13 inches at the withers and have a desirable weight of 14 to 18 pounds, with a compact, square, muscular build.",
     },
     {
-      question: "How long does a Pug usually live?",
+      question: "What is the typical lifespan of a Pug?",
       answer:
-        "With proper nutrition, indoor temperature regulation, and preventive veterinary care, the breed typically enjoys a lifespan of 13 to 15 years."
+        "Typical life expectancy is 13 to 15 years when kept at a lean weight and protected from heat stress.",
     },
     {
-      question: "Do Pugs shed a lot?",
+      question: "Do Pugs shed a lot despite their short coat?",
       answer:
-        "Yes. Despite having short hair, the breed possesses a dense double coat that sheds continuously throughout the year, with heavy seasonal shedding in spring and autumn that requires brushing several times a week."
+        "Yes. Their short, fine coat—particularly in fawn dogs with a dense undercoat—sheds heavily year-round and even more during spring and autumn, requiring regular brushing.",
     },
     {
-      question: "Why do Pugs snore, snort, and make grunting noises?",
+      question: "Why do Pugs snort, wheeze, and snore?",
       answer:
-        "Due to their shortened facial skull, the soft palate and upper respiratory tissues are compressed into a compact space, which naturally produces harmless soft snorts, grunts, and snoring during sleep or excitement."
+        "Their shortened facial skull compresses the nasal passages and soft palate into a very short space, producing frequent snorts and snoring; however, noisy or laboured breathing during light activity can indicate airway obstruction that should be assessed by a veterinarian.",
     },
     {
-      question: "Are Pugs good for apartment living?",
+      question: "Are Pugs well suited to apartments?",
       answer:
-        "Yes. Their compact size, modest exercise needs, and generally quiet nature indoors make them exceptionally well suited for apartments, provided they receive daily outdoor bathroom walks and indoor companionship."
+        "Yes. Their small size, moderate exercise needs, and low tendency to bark make them comfortable apartment companions as long as they have regular human company and daily walks.",
     },
     {
       question: "Are Pugs good with children and other pets?",
       answer:
-        "They are famously friendly, patient, and sturdy with children of all ages and coexist peacefully with other dogs, cats, and household animals."
+        "They are typically gentle, sturdy, and sociable with children, other dogs, and cats, though adults should supervise play to protect the Pug's prominent eyes from accidental scratches.",
     },
     {
-      question: "Why should a Pug wear a harness instead of a collar?",
+      question: "Why should a Pug be walked on a harness instead of a collar?",
       answer:
-        "A chest harness distributes pulling forces across the shoulders and chest rather than pressing against the throat, protecting the delicate trachea and airway from mechanical stress."
+        "A chest harness distributes lead pressure across the chest and shoulders rather than the throat, avoiding compression of the windpipe and reducing intraocular pressure behind the prominent eyes.",
     },
     {
-      question: "How do you care for a Pug's facial wrinkles?",
+      question: "How often should a Pug's facial wrinkles be cleaned?",
       answer:
-        "Gently wipe between the forehead wrinkles and the deep over-nose roll two to three times weekly using a soft damp cloth or pet wipe, and dry the skin completely to prevent moisture buildup and bacterial irritation."
+        "Wipe inside the forehead wrinkles and nasal roll two to three times a week—or daily if damp—using a soft wipe, and dry the skin crevices thoroughly afterward.",
     },
     {
-      question: "Can Pugs tolerate hot or humid weather?",
+      question: "Can Pugs handle hot or humid weather?",
       answer:
-        "No. Their flat facial anatomy makes it difficult to cool down efficiently through panting, rendering them highly vulnerable to heatstroke; they must stay inside air-conditioned spaces during warm or humid days."
+        "No. Short-muzzled dogs cannot cool themselves efficiently through panting and can suffer heatstroke rapidly; keep them in air-conditioned rooms during warm weather and walk only in cool morning or evening hours.",
     },
     {
-      question: "What major health conditions should prospective owners research?",
+      question: "What health conditions are most important to know about in Pugs?",
       answer:
-        "Important health considerations include upper airway sensitivity (brachycephalic airway syndrome), eye scratches and dry eye due to shallow eye sockets, genetic necrotizing meningoencephalitis, hip dysplasia, and patellar luxation."
-    }
+        "Key concerns include brachycephalic obstructive airway syndrome (BOAS), corneal ulcers and dry eye, skin fold dermatitis, necrotizing meningoencephalitis (Pug dog encephalitis), spinal malformations or constrictive myelopathy, patellar luxation, and hip dysplasia.",
+    },
   ],
 
   references: [
@@ -428,16 +427,17 @@ export const pug: Breed = {
     "pug-boas-cambridge-study-2015",
     "pug-dog-encephalitis-necrotizing-meningoencephalitis-study-2009",
     "wikimedia-pug-dog-image-celebindiaworld",
-    "wikimedia-my-pug-gmart1111"
+    "wikimedia-my-pug-gmart1111",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Official breed standards and kennel-club profiles do not publish a separate scientific name for the breed.",
     },
 
     alternateNames: {
@@ -446,21 +446,26 @@ export const pug: Breed = {
         {
           id: "fci-pug-official-standard",
           role: "verified",
-          locator: "Standard heading and historical names (Carlin, Mops, Doguillo)"
+          locator: "Standard heading and historical names (Carlin, Mops, Doguillo)",
         },
         {
           id: "fci-pug-nomenclature",
           role: "verified",
-          locator: "Official multilingual names: Carlin (French), Mops (German)"
+          locator: "Official multilingual names: Carlin (French), Mops (German), Doguillo (Spanish)",
         },
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "History: Dutch Mastiff, Chinese Pug, Dutch Bulldog"
-        }
+          locator: "History: Dutch Mastiff, Chinese Pug, Dutch Bulldog, Miniature Mastiff",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Mops, Carlin, Chinese Pug, Dutch Mastiff)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Cross-verified across FCI Standard No. 253, FCI Nomenclature, and AKC breed history."
+      verifiedOn: "2026-11-16",
+      note: "Verified across FCI Standard No. 253, FCI Nomenclature, AKC breed history, and The Dog API.",
     },
 
     group: {
@@ -469,26 +474,31 @@ export const pug: Breed = {
         {
           id: "fci-pug-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 9 Companion and Toy Dogs, Section 11 Small Molossian type dogs, without working trial"
+          locator: "FCI Classification: Group 9 Companion and Toy Dogs, Section 11 Small Molossian type dogs, without working trial",
         },
         {
           id: "fci-pug-nomenclature",
           role: "verified",
-          locator: "Group 9, Section 11 Small Molossian type dogs, without working trial"
+          locator: "Group 9, Section 11 Small Molossian type Dogs, without working trial",
         },
         {
           id: "akc-pug-breed-standard",
           role: "verified",
-          locator: "Toy Group"
+          locator: "Toy Group",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Toy breed group"
-        }
+          locator: "Toy breed group",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group (Toy)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Formulated without registry labels in user-facing text to comply with Rule 5."
+      verifiedOn: "2026-11-16",
+      note: "Follows the Group 9, Section 11 classification; AKC, The Kennel Club, and The Dog API place the breed in the Toy Group.",
     },
 
     origin: {
@@ -497,21 +507,26 @@ export const pug: Breed = {
         {
           id: "fci-pug-official-standard",
           role: "verified",
-          locator: "Origin: China; Patronage: Great Britain"
+          locator: "Origin: China; Patronage: Great Britain",
         },
         {
           id: "fci-pug-nomenclature",
           role: "verified",
-          locator: "Country of origin: China; Country of patronage: Great Britain"
+          locator: "Country of origin: China; Country of patronage: Great Britain",
         },
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "Origin: Ancient China, Han Dynasty (206 B.C. to 200 A.D.), and development in the Netherlands and England"
-        }
+          locator: "Origin in ancient China (Han dynasty) and later development in the Netherlands and Great Britain",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (China)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-16",
+      note: null,
     },
 
     overview: {
@@ -520,26 +535,31 @@ export const pug: Breed = {
         {
           id: "fci-pug-official-standard",
           role: "verified",
-          locator: "Brief historical summary, General appearance, Behaviour/temperament"
+          locator: "Brief historical summary, General appearance, Behaviour/temperament",
         },
         {
           id: "akc-pug-breed-standard",
           role: "verified",
-          locator: "General appearance (square and cobby), Temperament"
+          locator: "General appearance (square and cobby, multum in parvo), Temperament",
         },
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "About the breed, History, and Roles"
+          locator: "About the breed, History, and Roles",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Breed characteristics and historical background"
-        }
+          locator: "Breed characteristics and historical background",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Synthesized in original phrasing without source or registry names in user-facing text."
+      verifiedOn: "2026-11-16",
+      note: "All user-facing overview text is newly written in original wording without registry names.",
     },
 
     physical: {
@@ -548,21 +568,26 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-standard",
           role: "verified",
-          locator: "General appearance, Head, Body, Tail, Forequarters, Hindquarters, Coat, Color"
+          locator: "General appearance, Head, Body, Tail, Forequarters, Hindquarters, Coat, Color, Markings",
         },
         {
           id: "fci-pug-official-standard",
           role: "verified",
-          locator: "Head, Body, Tail, Limbs, Coat, Colour"
+          locator: "Head, Body, Tail, Limbs, Coat, Colour (silver, apricot, fawn or black)",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Characteristics, General appearance, Head and skull, Coat, Colour"
-        }
+          locator: "Characteristics, General appearance, Head and skull, Coat, Colour (silver, apricot, fawn or black)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 19 generic species-wide colours)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Conformation, coat, colors, and distinctive features follow official standards."
+      verifiedOn: "2026-11-16",
+      note: "Conformation, coat texture, and recognised coat colours (fawn, silver/silver fawn, apricot/apricot fawn, and black) follow the official standards rather than The Dog API's generic 19-colour list. Note that the AKC standard formally groups silver and apricot shades under fawn and disqualifies any colour other than fawn or black.",
     },
 
     "physical.height": {
@@ -571,12 +596,17 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "Height: 10-13 inches"
-        }
+          locator: "Height: 10–13 inches",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (25–33 cm)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-16",
       note:
-        "FCI Standard No. 253 and The Kennel Club standard do not specify numerical withers height. The stored 10 to 13 inches is the published standard measurement from the AKC breed profile and is preserved in its original published unit."
+        "Neither FCI Standard No. 253 nor The Kennel Club standard publishes a numerical withers height. Preserves the AKC breed profile's 10–13 inches in its original unit without conversion; The Dog API reports 25–33 cm.",
     },
 
     "physical.weight": {
@@ -585,22 +615,53 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-standard",
           role: "verified",
-          locator: "Weight from 14 to 18 pounds (dog or bitch) desirable"
+          locator: "Size, Proportion, Substance: Weight from 14 to 18 pounds (dog or bitch) desirable",
         },
         {
           id: "fci-pug-official-standard",
-          role: "verified",
-          locator: "Weight: Ideal weight 6,3 – 8,1 kg"
+          role: "cited",
+          locator: "Weight: Ideal weight 6,3 – 8,1 kg",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Size: Ideal weight 6.3-8.1 kgs (14-18 lbs)"
-        }
+          locator: "Size: Ideal weight 6.3–8.1 kgs (14–18 lbs)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (6–8 kg)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-16",
       note:
-        "Preserved in published whole-number unit of pounds (14 to 18 lb) as specified in the AKC official standard and The Kennel Club standard, corresponding to the 6.3 to 8.1 kg ideal weight in the FCI standard."
+        "Preserves the whole-number pound range (14–18 lb) published in the AKC official standard and The Kennel Club standard without conversion; FCI Standard No. 253 publishes 6.3–8.1 kg and The Dog API gives 6–8 kg.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-pug-breed-standard",
+          role: "verified",
+          locator: "Weight from 14 to 18 pounds (dog or bitch) desirable",
+        },
+      ],
+      verifiedOn: "2026-11-16",
+      note: "Upper desirable weight of 18 lb from the AKC official standard (applies equally to males and females).",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-pug-breed-standard",
+          role: "verified",
+          locator: "Weight from 14 to 18 pounds (dog or bitch) desirable",
+        },
+      ],
+      verifiedOn: "2026-11-16",
+      note: "Upper desirable weight of 18 lb from the AKC official standard (applies equally to males and females).",
     },
 
     "physical.lifespanYears": {
@@ -609,11 +670,11 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 13-15 years"
-        }
+          locator: "Life Expectancy: 13–15 years",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Supported by kennel club and breed club life expectancy publications."
+      verifiedOn: "2026-11-16",
+      note: "Verified from the AKC breed profile; The Dog API attachment did not include a lifespan range.",
     },
 
     "physical.sheddingLevel": {
@@ -622,16 +683,16 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (4/5)"
+          locator: "Breed Traits: Shedding Level (4/5)",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Grooming & FAQ: Pugs are known to shed considerably despite short coat"
-        }
+          locator: "Grooming & FAQ: Pugs shed considerably despite their short coat, as most are double-coated",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-16",
+      note: null,
     },
 
     "physical.droolingLevel": {
@@ -640,16 +701,16 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (2/5)"
+          locator: "Breed Traits: Drooling Level (2/5)",
         },
         {
           id: "fci-pug-official-standard",
           role: "verified",
-          locator: "Jaws and teeth: slightly undershot, lips not pendulous"
-        }
+          locator: "Jaws/Teeth: slightly undershot, lips not pendulous",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-16",
+      note: null,
     },
 
     "temperament.traits": {
@@ -658,21 +719,26 @@ export const pug: Breed = {
         {
           id: "fci-pug-official-standard",
           role: "verified",
-          locator: "Behaviour / Temperament: Great charm, dignity and intelligence. Even-tempered, happy and lively disposition."
+          locator: "Behaviour / Temperament: Great charm, dignity and intelligence; even-tempered, happy and lively disposition",
         },
         {
           id: "akc-pug-breed-standard",
           role: "verified",
-          locator: "Temperament: Even-tempered breed, exhibiting stability, playfulness, great charm, dignity, and an outgoing, loving disposition."
+          locator: "Temperament: Even-tempered breed, exhibiting stability, playfulness, great charm, dignity, and an outgoing, loving disposition",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Characteristics: Great charm, dignity and intelligence."
-        }
+          locator: "Characteristics and Temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-16",
+      note: null,
     },
 
     "temperament.scores": {
@@ -681,17 +747,17 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics ratings",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "cited",
-          locator: "Breed characteristics and temperament description"
-        }
+          locator: "Breed characteristics and temperament description",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented breed temperament traits."
+        "Editorial 1–5 scores informed by kennel-club temperament profiles.",
     },
 
     care: {
@@ -700,22 +766,22 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming, Exercise, Training, and Nutrition",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "cited",
-          locator: "Exercise, Grooming, and Living environment"
+          locator: "Exercise, Grooming, and Living environment",
         },
         {
           id: "pug-dog-club-of-america-health",
           role: "cited",
-          locator: "General health, fold cleaning, and airway precautions"
-        }
+          locator: "General health, fold cleaning, and airway precautions",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines companion dog care recommendations with brachycephalic airway and facial wrinkle hygiene guidance."
+        "Combines general companion-dog care with brachycephalic heat safety and wrinkle hygiene.",
     },
 
     "care.exercise.level": {
@@ -724,16 +790,16 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "Energy Level (2/5); Exercise Needs (2/5)"
+          locator: "Energy Level (2/5); Exercise Needs (2/5)",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Exercise: Up to 1 hour per day split into shorter sessions; heat and humidity limits"
-        }
+          locator: "Exercise: Up to 1 hour per day split into shorter sessions; heat and humidity limits",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-16",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
@@ -742,17 +808,17 @@ export const pug: Breed = {
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "cited",
-          locator: "Exercise: Up to 1 hour per day in short sessions"
+          locator: "Exercise: Up to 1 hour per day in short sessions",
         },
         {
           id: "akc-pug-breed-profile",
           role: "cited",
-          locator: "Exercise: Moderate daily walks"
-        }
+          locator: "Exercise: Moderate daily walks and play",
+        },
       ],
       verifiedOn: null,
       note:
-        "An estimated range of 30 to 45 minutes of gentle activity reflects the consensus for brachycephalic companion breeds."
+        "Editorial daily duration estimate of 30–45 minutes of gentle activity split across cool hours.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -761,16 +827,16 @@ export const pug: Breed = {
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Size of home: Flat/Apartment suitable"
+          locator: "Size of home: Flat/Apartment suitable",
         },
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (5/5)"
-        }
+          locator: "Adaptability: Adapts Well to Apartment Living (5/5)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-16",
+      note: null,
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -779,16 +845,16 @@ export const pug: Breed = {
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Size of garden: Small/medium garden"
+          locator: "Size of garden: Small/medium garden",
         },
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "Exercise and backyard play guidance"
-        }
+          locator: "Exercise and backyard play guidance",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-16",
+      note: null,
     },
 
     "care.livingEnvironment.climates": {
@@ -797,17 +863,17 @@ export const pug: Breed = {
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Airway structure limits tolerance for heat, humidity, and strenuous activity"
+          locator: "Airway structure limits tolerance for heat, humidity, and strenuous activity",
         },
         {
           id: "pug-boas-cambridge-study-2015",
           role: "verified",
-          locator: "Thermoregulatory vulnerability in brachycephalic breeds"
-        }
+          locator: "Thermoregulatory vulnerability in brachycephalic breeds",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-16",
       note:
-        "Highlights the biological requirement for indoor climate control in hot and humid weather."
+        "Reflects the physiological need for indoor climate control during warm or humid weather.",
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -816,16 +882,16 @@ export const pug: Breed = {
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "FAQ: Can Pugs be left alone during the day? Not for long stretches, prone to separation anxiety"
+          locator: "FAQ: Can Pugs be left alone during the day? Not for long stretches, prone to separation anxiety",
         },
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "Tolerates Being Alone: Low rating"
-        }
+          locator: "Companion orientation and low tolerance for long isolation",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-16",
+      note: null,
     },
 
     nutrition: {
@@ -834,16 +900,16 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "cited",
-          locator: "Nutrition: high quality food, calorie monitoring, weight management"
+          locator: "Nutrition: calorie monitoring and weight management",
         },
         {
           id: "pug-dog-club-of-america-health",
           role: "cited",
-          locator: "Nutrition and obesity management"
-        }
+          locator: "Obesity prevention in brachycephalic dogs",
+        },
       ],
       verifiedOn: null,
-      note: "Standard feeding and weight-management recommendations for toy companion dogs."
+      note: "General small-breed nutrition guidance emphasising strict portion control.",
     },
 
     "nutrition.feedingFrequency": {
@@ -852,11 +918,11 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "cited",
-          locator: "Life-stage nutrition and portioning"
-        }
+          locator: "Life-stage feeding and portioning",
+        },
       ],
       verifiedOn: null,
-      note: "General small-breed feeding schedule to support digestion and prevent rapid eating."
+      note: "General small-breed meal scheduling guidance.",
     },
 
     "health.overview": {
@@ -865,27 +931,27 @@ export const pug: Breed = {
         {
           id: "pug-boas-cambridge-study-2015",
           role: "verified",
-          locator: "Conformational risk factors in brachycephalic obstructive airway syndrome (BOAS)"
+          locator: "Conformational risk factors in brachycephalic obstructive airway syndrome (BOAS)",
         },
         {
           id: "pug-dog-encephalitis-necrotizing-meningoencephalitis-study-2009",
           role: "verified",
-          locator: "Genomic association study of necrotizing meningoencephalitis in Pugs"
+          locator: "Genome-wide association study of necrotizing meningoencephalitis in Pugs",
         },
         {
           id: "ofas-chic-pug-requirements",
           role: "verified",
-          locator: "Screening requirements for PDE, patellas, hips, and eyes"
+          locator: "Mandatory and optional screening protocols for PDE, patellas, eyes, hips, and spine",
         },
         {
           id: "pug-dog-club-of-america-health",
           role: "verified",
-          locator: "Health overview, breathing issues, PDE research, and orthopaedic screening"
-        }
+          locator: "Health priorities: PDE, BOAS, Pug myelopathy, luxating patellas, and hip dysplasia",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-16",
       note:
-        "Synthesizes peer-reviewed studies on BOAS and PDE alongside health registry screening protocols."
+        "Distinguishes conformational risks, genetically associated neurological disease, orthopaedic conditions, and breeding screening protocols.",
     },
 
     "health.commonConditions": {
@@ -894,27 +960,27 @@ export const pug: Breed = {
         {
           id: "pug-boas-cambridge-study-2015",
           role: "verified",
-          locator: "BOAS findings, stenotic nares, and elongated soft palate"
+          locator: "BOAS findings, stenotic nares, and elongated soft palate",
         },
         {
           id: "pug-dog-encephalitis-necrotizing-meningoencephalitis-study-2009",
           role: "verified",
-          locator: "Necrotizing meningoencephalitis (NME / PDE) clinical and genetic description"
+          locator: "Necrotizing meningoencephalitis (NME / PDE) clinical and MHC class II genetic association",
         },
         {
           id: "pug-dog-club-of-america-health",
           role: "verified",
-          locator: "Eye injuries, skin fold dermatitis, hemivertebrae, and joint dysplasia"
+          locator: "PDE, BOAS, Pug constrictive myelopathy / hemivertebrae, luxating patellas, hip dysplasia, and ocular/skin fold care",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Category 3 conformational concerns, eyes, and skin folds"
-        }
+          locator: "Conformational concerns involving breathing, eyes, and skin folds",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-16",
       note:
-        "Details documented conformational and genetic conditions in original prose without prohibited registry terms."
+        "Summarises peer-reviewed and breed-club-documented conditions in original wording without prohibited registry names.",
     },
 
     "health.preventiveCare": {
@@ -923,16 +989,16 @@ export const pug: Breed = {
         {
           id: "pug-dog-club-of-america-health",
           role: "cited",
-          locator: "Preventive care, harness usage, fold maintenance, and temperature control"
+          locator: "Preventive care, harness use, wrinkle maintenance, and heat safety",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "cited",
-          locator: "Heat precautions, fold hygiene, and eye care"
-        }
+          locator: "Heat precautions, fold hygiene, and eye care",
+        },
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to flat-faced toy dogs."
+      note: "Preventive care guidance tailored to flat-faced companion dogs.",
     },
 
     "health.recommendedScreenings": {
@@ -941,22 +1007,22 @@ export const pug: Breed = {
         {
           id: "ofas-chic-pug-requirements",
           role: "verified",
-          locator: "Parent-club and CHIC testing requirements: PDE DNA test, Patellar Luxation, Eye Examination, Hip Dysplasia"
+          locator: "Required tests: PDE DNA test, Eye Examination, Patellar Luxation; Optional: Hip/Elbow Dysplasia, Spine, Tracheal Hypoplasia, Cardiac, PKD DNA",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Good practice & best practice testing: PDE DNA test, BVA/KC hip scheme, BOAS respiratory grading scheme"
+          locator: "Breeding health testing: PDE DNA test, respiratory function grading scheme, hip evaluation",
         },
         {
           id: "pug-dog-club-of-america-health",
           role: "verified",
-          locator: "Pre-breeding screening recommendations for PDE, eyes, hips, patellas, and spine"
-        }
+          locator: "Mandatory and optional health testing recommendations",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-16",
       note:
-        "Screenings summarize published breed club and health registry recommendations."
+        "Reflects required and optional pre-breeding health screenings without using prohibited registry acronyms in user-facing text.",
     },
 
     "health.dentalCare": {
@@ -965,16 +1031,16 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "cited",
-          locator: "Grooming and dental maintenance"
+          locator: "Grooming and dental maintenance",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "cited",
-          locator: "Dentition and mouth conformation"
-        }
+          locator: "Mouth and dentition conformation",
+        },
       ],
       verifiedOn: null,
-      note: "Dental care guidelines for small breeds with shortened dental arcades."
+      note: "Dental care guidance for brachycephalic breeds with crowded dentition.",
     },
 
     "health.earCare": {
@@ -983,16 +1049,16 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "cited",
-          locator: "Ear checks and grooming"
+          locator: "Ear checks and grooming",
         },
         {
           id: "fci-pug-official-standard",
           role: "cited",
-          locator: "Button and rose ear anatomy"
-        }
+          locator: "Button and rose ear conformation",
+        },
       ],
       verifiedOn: null,
-      note: "Ear hygiene guidance for drop-eared toy dogs."
+      note: "General ear-care guidance for folded button or rose ears.",
     },
 
     "health.skinCare": {
@@ -1001,16 +1067,16 @@ export const pug: Breed = {
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "cited",
-          locator: "Skin fold hygiene and health concerns"
+          locator: "Skin fold hygiene and health concerns",
         },
         {
           id: "pug-dog-club-of-america-health",
           role: "cited",
-          locator: "Facial wrinkle and tail fold maintenance"
-        }
+          locator: "Facial wrinkle and tail fold care",
+        },
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for breeds with deep skin folds."
+      note: "Routine wrinkle-cleaning and skin-care guidance.",
     },
 
     suitability: {
@@ -1019,17 +1085,17 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "About the breed, Temperament, and Adaptability ratings",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "cited",
-          locator: "Breed characteristics and living requirements"
-        }
+          locator: "Breed characteristics and living requirements",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are informed editorial recommendations based on breed temperament, exercise demands, and thermal sensitivities."
+        "Editorial suitability evaluations based on temperament, exercise limits, and climate sensitivity.",
     },
 
     funFacts: {
@@ -1038,21 +1104,21 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "History: House of Orange, Han dynasty origins, Queen Victoria, 'multum in parvo'"
+          locator: "History: Han dynasty origins, House of Orange (Pompey), Joséphine Bonaparte's Fortune, Queen Victoria, 'multum in parvo'",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Breed characteristics: 'multum in parvo' and royal history"
+          locator: "Breed characteristics: 'multum in parvo' and royal history",
         },
         {
           id: "fci-pug-official-standard",
           role: "verified",
-          locator: "General appearance (multum in parvo) and tail curl description"
-        }
+          locator: "General appearance (multum in parvo) and tightly curled tail",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Verified historical folklore and classical breed mottos."
+      verifiedOn: "2026-11-16",
+      note: "Historical facts and traditional breed motto rewritten in original wording.",
     },
 
     faq: {
@@ -1061,29 +1127,29 @@ export const pug: Breed = {
         {
           id: "akc-pug-breed-profile",
           role: "verified",
-          locator: "Origin, size, weight, lifespan, shedding, and temperament"
+          locator: "Origin, height (10–13 in), weight (14–18 lb), lifespan (13–15 yr), shedding, and temperament",
         },
         {
           id: "the-kennel-club-pug-breed-standard",
           role: "verified",
-          locator: "Frequently Asked Questions: family suitability, exercise, shedding, health, and separation anxiety"
+          locator: "FAQ: family suitability, exercise, shedding, health, and alone-time limits",
         },
         {
           id: "fci-pug-official-standard",
           role: "verified",
-          locator: "Conformation, weight range, and physical features"
+          locator: "Conformation, coat, and physical features",
         },
         {
           id: "pug-boas-cambridge-study-2015",
           role: "verified",
-          locator: "Respiratory and thermoregulatory characteristics"
-        }
+          locator: "Brachycephalic airway and thermoregulatory findings",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-16",
       note:
-        "FAQ responses synthesize verified standards, kennel club publications, and veterinary research without citing registry names in user-facing answers."
-    }
+        "FAQ answers synthesise verified standards, kennel-club profiles, and veterinary research without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-10-24"
+  updatedOn: "2026-11-16",
 };
