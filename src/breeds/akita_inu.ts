@@ -28,7 +28,7 @@ export const akita_inu: Breed = {
       title: "An Akita Inu resting.jpg",
       description: "An Akita Inu resting.",
       creator: "Dllu",
-      uploader: null,
+      uploader: "Dllu",
       capturedOn: "2017-04-07",
       uploadedOn: "2017-04-07",
       width: 7366,
@@ -37,29 +37,28 @@ export const akita_inu: Breed = {
       attribution:
         "Photo by Dllu, via Wikimedia Commons, CC BY-SA 4.0. No changes made. https://commons.wikimedia.org/wiki/File:An_Akita_Inu_resting.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/",
       restrictions: null,
-      metadataCheckedOn: "2026-11-03",
+      metadataCheckedOn: "2026-11-16",
     },
   ],
 
   overview: {
     summary:
-      "The Akita Inu is a large, powerful Japanese Spitz-type dog known for its dignified appearance, loyalty and composed temperament. It has a strong, well-balanced body, a broad head, small upright triangular ears and a thick tail carried over its back. Its dense double coat comes in red fawn, sesame, brindle and white. Originally developed from dogs associated with hunting large game in Japan, the Akita later became an important national breed and is now primarily kept as a companion. It is intelligent and independent, making early socialization, consistent training and responsible ownership particularly important.",
+      "The Akita Inu is a large, powerful Japanese Spitz-type dog admired for its dignified bearing, deep loyalty, and composed temperament. Built with a balanced, sturdy frame, broad head, small forward-tilted triangular ears, and a thick curled tail, its plush double coat appears in red fawn, sesame, brindle, and white. Originally descended from northern Japanese big-game hunting dogs and now revered as a companion breed, its independent mind requires early socialization, patient training, and experienced handling.",
 
     description:
-      "The Akita Inu combines substantial bone and muscular strength with the characteristic features of a Japanese Spitz-type dog. Its broad forehead, dark brown eyes, forward-inclining ears and thick curled tail give it a distinctive appearance. The outer coat is harsh and straight, while the undercoat is soft and dense. Red fawn, sesame, brindle and white are the recognised colours, with whitish urajiro markings required on all colours except white. The breed is generally composed, faithful and receptive, although individual dogs differ in personality. Akitas benefit from patient training, appropriate social experiences, regular physical activity and clear boundaries. Their size, independence and potential difficulty with unfamiliar dogs make responsible management essential.",
+      "Substantial bone and muscular strength meet classic Japanese Spitz proportions in the Akita Inu. A broad forehead, small dark triangular eyes, thick pricked ears, and a high-set tail curled over the back create its unmistakable silhouette. Its harsh, straight outer coat stands over a soft, dense undercoat in red fawn, sesame, brindle, or pure white, with whitish urajiro markings required on all colours except white. Calm, faithful, and alert at home, this strong-willed dog needs clear household boundaries, daily exercise, and careful management around unfamiliar dogs.",
 
     history:
-      "The Akita developed in the Akita region of northern Japan. Historical accounts describe medium-sized Akita Matagi dogs used for bear hunting. From the early seventeenth century, these dogs were also used in dog fighting, and later crossbreeding with Tosas and Mastiffs increased their size and changed some of their original Spitz-type characteristics. After dog fighting was prohibited in Japan in 1908, efforts continued to preserve and improve the breed. Nine outstanding examples were designated Natural Monuments in 1931. World War II caused a severe decline in the population and complicated the breed's development. After the war, preservation efforts focused on restoring the traditional Japanese type through selective breeding. The modern Akita Inu is recognised internationally as a Japanese companion breed.",
+      "Originating in northern Honshu's Akita region, the breed traces back to medium-sized Akita Matagi dogs used to hunt bear and wild boar. From the early seventeenth century, dogs in the region were used in fighting rings and later crossed with Tosas and Mastiffs, altering their traditional Spitz outline. Following a 1908 ban on dog fighting, preservationists worked to restore the native type, and in 1931 nine outstanding dogs were named Natural Monuments of Japan. After World War II devastated numbers, breeders selectively rebuilt the traditional Japanese line—distinct from the heavier American line—earning international recognition as a companion breed.",
 
     originalPurpose:
-      "Hunting large game, including bears, and later participating in dog fighting during part of its historical development. The modern FCI classification lists the breed for companionship.",
+      "Hunting large game such as bear and wild boar, with a historical period of dog-fighting use before modern preservation as a companion breed.",
 
     currentRoles: [
-      "Companion dog",
-      "Family companion in appropriately managed households",
-      "Conformation showing",
-      "Obedience and reward-based training",
-      "Outdoor walking and enrichment activities",
+      "Loyal household and family companion in experienced homes",
+      "Conformation showing and cultural breed preservation",
+      "Reward-based obedience and structured training",
+      "Daily walking, hiking, and scent-enrichment partner",
     ],
   },
 
@@ -68,8 +67,6 @@ export const akita_inu: Breed = {
 
     height: {
       unit: "cm",
-      // FCI ideal heights: 67 cm for males and 61 cm for females.
-      // The official standard allows a tolerance of ±3 cm.
       male: {
         min: 67,
         max: 67,
@@ -80,67 +77,67 @@ export const akita_inu: Breed = {
       },
     },
 
-    // The FCI Standard No. 255 does not specify numerical weight values.
     weight: {
-      unit: null,
-      male: null,
-      female: null,
+      unit: "lb",
+      male: {
+        min: 65,
+        max: 75,
+      },
+      female: {
+        min: 55,
+        max: 65,
+      },
     },
 
-    // JACA's 2025 health statement gives a 10–12 year life expectancy.
     lifespanYears: {
       min: 10,
       max: 12,
     },
 
     coatType:
-      "Double coat with a harsh, straight outer coat and a soft, dense undercoat.",
+      "Weather-resistant double coat combining a harsh, straight outer layer with a soft, dense undercoat.",
 
     coatLength:
-      "Short to medium. Hair is slightly longer around the withers and rump, with a longer coat on the tail.",
+      "Short to medium overall, with slightly longer hair across the withers and rump and fuller hair on the tail.",
 
     coatColors: [
-      "Red fawn",
-      "Sesame",
-      "Brindle",
-      "White",
+      "Red fawn (with urajiro whitish markings)",
+      "Sesame — red fawn hairs with black tips (with urajiro markings)",
+      "Brindle (with urajiro markings)",
+      "Pure white",
     ],
 
     sheddingLevel:
-      "Sheds and requires regular coat maintenance. Its dense double coat benefits from routine brushing.",
+      "High during seasonal coat blowouts; the dense double coat sheds year-round and needs regular brushing.",
 
     droolingLevel: null,
 
     distinctiveFeatures: [
-      "Large, sturdy and well-balanced body",
-      "Broad forehead and strong muzzle",
-      "Small, dark brown, almost triangular eyes",
-      "Small, thick, upright triangular ears",
-      "Thick muscular neck",
-      "Deep chest and strong bone structure",
-      "High-set, thick tail carried curled over the back",
-      "Harsh straight outer coat with a soft dense undercoat",
-      "Urajiro whitish markings on recognised coat colours",
-      "Resilient and powerful movement",
+      "Large, sturdy, well-proportioned Spitz frame",
+      "Broad skull and forehead with a strong, tapered muzzle",
+      "Relatively small, dark brown, nearly triangular eyes",
+      "Small, thick, triangular ears pricked and tilted slightly forward",
+      "Thick, muscular neck without dewlap",
+      "Deep chest, level back, and heavy bone",
+      "High-set, thick tail carried vigorously curled over the back",
+      "Harsh, stand-off outer coat over a plush undercoat",
+      "Characteristic whitish urajiro markings on all non-white colours",
+      "Resilient, powerful gait",
     ],
   },
 
   temperament: {
     traits: [
-      "Loyal",
-      "Faithful",
-      "Composed",
-      "Dignified",
-      "Independent",
-      "Intelligent",
-      "Alert",
-      "Courageous",
-      "Reserved with unfamiliar people",
+      "Deeply loyal and faithful",
+      "Composed and dignified",
+      "Independent thinker",
+      "Intelligent and observant",
+      "Alert and courageous",
+      "Reserved or aloof with strangers",
       "Strong-willed",
-      "Protective",
+      "Naturally protective of household",
     ],
 
-    // Editorial estimates, not results of standardised behavioural testing.
     scores: {
       affection: 4,
       withChildren: 3,
@@ -162,13 +159,12 @@ export const akita_inu: Breed = {
         max: 90,
       },
       activities: [
-        "Daily walks",
-        "Structured outdoor exercise",
-        "Reward-based obedience sessions",
-        "Scent-based enrichment games",
-        "Supervised exploration",
-        "Interactive play",
-        "Mental stimulation activities",
+        "Brisk daily walks on a sturdy lead",
+        "Structured outdoor exercise in securely fenced spaces",
+        "Reward-based obedience and focus games",
+        "Scent-search and nose-work enrichment",
+        "Supervised trail hikes in cool or temperate weather",
+        "Interactive puzzle play",
       ],
     },
 
@@ -176,19 +172,17 @@ export const akita_inu: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush regularly to remove loose hair and maintain the dense double coat. Increase brushing frequency during heavier shedding periods.",
+        "Brush weekly using an undercoat rake and pin brush to clear loose hair, increasing to daily brushing during heavy seasonal coat blowouts.",
 
       bathing:
-        "Bathe when necessary using a dog-appropriate shampoo. Rinse thoroughly and dry the dense undercoat completely.",
+        "Bathe as needed with a gentle canine shampoo, rinsing thoroughly and drying the dense undercoat completely to prevent trapped moisture.",
 
       notes: [
-        "The double coat requires consistent maintenance.",
-        "Check the skin while brushing, especially beneath the dense undercoat.",
-        "Avoid shaving the double coat as a routine grooming practice.",
-        "Trim nails regularly to maintain comfortable movement.",
-        "Check and clean the ears when needed.",
-        "Maintain regular dental hygiene.",
-        "Brush more frequently when shedding increases.",
+        "Never shave the double coat, as it insulates and protects the skin.",
+        "Part the coat during brushing to check skin for scaling, redness, or hair loss.",
+        "Trim nails regularly to keep footing comfortable.",
+        "Check ears routinely for wax, redness, or odour.",
+        "Maintain regular tooth brushing and inspect young teeth for normal enamel.",
       ],
     },
 
@@ -196,19 +190,17 @@ export const akita_inu: Breed = {
       difficulty: "Moderate to challenging",
 
       tips: [
-        "Start training and household boundaries early.",
-        "Use reward-based methods and consistent expectations.",
-        "Keep training sessions structured and engaging.",
-        "Avoid harsh punishment and confrontational handling.",
-        "Teach reliable leash manners from an early age.",
-        "Practise calm behaviour around unfamiliar people and dogs.",
-        "Use secure outdoor areas rather than assuming reliable off-leash recall.",
-        "Provide regular mental enrichment.",
-        "Ensure all household members follow consistent training rules.",
+        "Establish clear, consistent household boundaries from puppyhood.",
+        "Use patient, reward-based training rather than harsh corrections.",
+        "Keep sessions short, purposeful, and varied to prevent boredom.",
+        "Prioritize loose-lead walking and reliable handler focus early.",
+        "Reinforce calm neutrality around unfamiliar people and dogs.",
+        "Exercise in securely fenced areas rather than relying on off-lead recall.",
+        "Provide daily mental puzzles alongside physical walks.",
       ],
 
       socialization:
-        "Begin gradual, positive socialization during puppyhood. Introduce different environments, people, handling experiences and well-matched dogs carefully. Continue social learning throughout adulthood and supervise interactions. Do not force interactions with unfamiliar dogs.",
+        "Start calm, positive socialization early in puppyhood, introducing varied people, sights, handling, and steady dogs gradually. Supervise all interactions and never force close contact with unfamiliar dogs.",
     },
 
     livingEnvironment: {
@@ -221,90 +213,84 @@ export const akita_inu: Breed = {
       ],
 
       aloneTimeTolerance:
-        "Individual tolerance varies. Gradually teach comfortable periods of separation and provide exercise, enrichment and appropriate rest.",
+        "Moderate when conditioned gradually; provide adequate daily exercise, mental enrichment, and family companionship.",
     },
   },
 
   nutrition: {
     dietType:
-      "Complete and balanced dog food appropriate for the dog's life stage, size, activity level and health requirements.",
+      "Complete, balanced large-breed dog food matched to life stage, body condition, activity level, and veterinary needs.",
 
     feedingFrequency: {
       puppy:
-        "Several small meals daily. Adjust meal frequency and portions according to age, growth and veterinary guidance.",
+        "Feed a controlled-growth large-breed puppy diet in multiple measured meals daily according to age and veterinary advice.",
 
       adult:
-        "Two measured meals daily are a practical starting point. Adjust portions according to body condition and activity.",
+        "Feed two measured meals daily, adjusting portions to maintain lean muscle and healthy body condition.",
 
       senior:
-        "Maintain a complete and balanced senior-appropriate diet, adjusting portions and nutrients according to veterinary advice.",
+        "Feed a balanced senior-appropriate formula, adjusting calories and nutrients with veterinary guidance.",
     },
 
     guidelines:
-      "Feed a nutritionally complete diet appropriate for a large breed. Measure portions rather than relying on unrestricted feeding. Monitor body condition, growth, activity and weight, and keep fresh drinking water available. Puppy feeding should support controlled growth rather than excessive weight gain.",
+      "Feed measured portions of a nutritionally complete large-breed diet rather than free-feeding. Monitor weight trends and rib cover, keep fresh water available at all times, and support steady, unhurried skeletal growth in puppies.",
 
     considerations: [
-      "Monitor body condition and avoid excessive weight gain.",
-      "Use a suitable large-breed puppy diet during growth.",
-      "Adjust food portions to the dog's activity and age.",
-      "Introduce dietary changes gradually.",
-      "Keep fresh water available.",
-      "Discuss persistent digestive problems with a veterinarian.",
-      "Avoid feeding immediately before or after vigorous exercise.",
-      "Ask a veterinarian about individual dietary requirements.",
+      "Keep body weight lean to reduce stress on hips, elbows, and stifles.",
+      "Use a dedicated large-breed puppy formula during growth.",
+      "Adjust portions when seasonal activity changes.",
+      "Transition between foods gradually.",
+      "Avoid vigorous exercise immediately before or after meals.",
+      "Consult a veterinarian for persistent digestive or weight concerns.",
     ],
 
     note:
-      "The feeding suggestions are general guidance, not a breed-specific nutritional prescription. Individual requirements vary with age, body condition, health and activity.",
+      "General canine nutrition guidance; individual requirements vary with age, metabolism, workload, and veterinary advice.",
   },
 
   health: {
     overview:
-      "The Japanese Akitainu is described as generally healthy, but responsible breeding and preventive veterinary care remain important. Breed-health organisations highlight autoimmune conditions and recommend screening breeding dogs for eye, hip and thyroid disorders, as well as tooth-enamel and joint-related conditions. Health-screening recommendations identify potential risks; they do not mean every Akita will develop these conditions.",
+      "Generally a sturdy breed, the Akita Inu is nonetheless monitored for several autoimmune, orthopedic, ocular, and dental conditions. Breed-health guidance highlights sebaceous adenitis, uveodermatological syndrome (UDS), and autoimmune thyroiditis, alongside screening breeding stock for hip and elbow dysplasia, patellar luxation, inherited eye disorders, and familial enamel hypoplasia (amelogenesis imperfecta). Prospective owners should review documented parental clearances and maintain routine veterinary care.",
 
     commonConditions: [
-      "Sebaceous adenitis — an inflammatory skin condition involving sebaceous glands.",
-      "Uveodermatological syndrome (UDS) — an autoimmune condition affecting the eyes and skin.",
-      "Autoimmune thyroiditis — an immune-mediated thyroid condition.",
-      "Hip dysplasia — an abnormal development of the hip joint.",
-      "Eye disorders, including juvenile cataracts and persistent pupillary membranes.",
-      "Familial enamel hypoplasia or amelogenesis imperfecta — an inherited tooth-enamel disorder.",
-      "Patellar luxation — displacement of the kneecap.",
-      "Elbow dysplasia — abnormal development of the elbow joint.",
+      "Sebaceous adenitis — an immune-mediated skin disorder targeting the sebaceous glands and causing scaling and hair loss.",
+      "Uveodermatological syndrome (UDS / VKH-like syndrome) — a serious autoimmune condition affecting the eyes and skin pigment.",
+      "Autoimmune thyroiditis — an immune-mediated disorder leading to hypothyroidism.",
+      "Hip dysplasia — developmental malformation of the hip joint.",
+      "Inherited eye conditions, including juvenile cataracts and persistent pupillary membranes (PPM).",
+      "Familial enamel hypoplasia (amelogenesis imperfecta) — an inherited defect of tooth enamel development.",
+      "Patellar luxation — slipping of the kneecap.",
+      "Elbow dysplasia — developmental abnormality of the elbow joint.",
     ],
 
     preventiveCare: [
-      "Arrange regular veterinary health examinations.",
-      "Maintain an appropriate vaccination and parasite-prevention schedule.",
-      "Monitor changes in vision, skin condition and behaviour.",
-      "Maintain healthy body condition and regular exercise.",
-      "Provide routine dental care.",
-      "Keep nails trimmed and maintain coat hygiene.",
-      "Discuss breed-relevant health screening with a veterinarian.",
-      "Seek prompt veterinary assessment for unexplained eye or skin changes.",
+      "Schedule regular veterinary wellness exams and keep vaccinations and parasite prevention current.",
+      "Monitor eyes, skin pigment, and coat quality closely, seeking prompt care for redness, squinting, or patchy hair loss.",
+      "Maintain a lean body weight and steady, joint-friendly exercise.",
+      "Provide routine dental care and check young adult teeth for normal enamel coverage.",
+      "Request documented parental health clearances before selecting a puppy.",
     ],
 
     recommendedScreenings: [
-      "Hip evaluation for hip dysplasia.",
-      "Ophthalmologist examination for inherited eye conditions.",
-      "Thyroid evaluation, including autoimmune thyroiditis screening.",
-      "DNA testing for familial enamel hypoplasia or amelogenesis imperfecta.",
+      "Hip dysplasia evaluation.",
+      "Ophthalmologist eye examination.",
+      "Thyroid panel including autoimmune thyroiditis evaluation.",
+      "DNA test for familial enamel hypoplasia (amelogenesis imperfecta).",
       "Patellar luxation evaluation.",
       "Elbow dysplasia evaluation.",
     ],
 
     dentalCare:
-      "Brush regularly with dog-appropriate toothpaste. Pay attention to tooth enamel and dental development, particularly in young dogs. Ask a veterinarian about any abnormal tooth appearance or discomfort.",
+      "Brush teeth regularly with dog-safe toothpaste and inspect developing adult teeth for rough, pitted, or discoloured enamel, consulting a veterinarian if abnormalities appear.",
 
     earCare:
-      "Inspect the ears regularly for redness, discharge, odour or irritation. Clean only when necessary with an appropriate veterinary-recommended product.",
+      "Check the thick, upright ears weekly for redness, odour, wax, or irritation, cleaning gently only when needed with a veterinarian-approved solution.",
 
     skinCare:
-      "Maintain regular coat brushing and inspect the skin for unusual scaling, hair loss, inflammation or pigment changes. Persistent skin problems require veterinary assessment, particularly because autoimmune skin conditions are recognised breed-health concerns.",
+      "Inspect skin during brushing for scaling, follicular casts, hair loss, or depigmentation around the nose, lips, and eyelids, seeking prompt veterinary evaluation for persistent changes.",
   },
 
   suitability: {
-    // Editorial lifestyle estimates, not clinical or behavioural assessments.
     firstTimeOwners: false,
     familiesWithChildren: true,
     seniorOwners: false,
@@ -312,89 +298,85 @@ export const akita_inu: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Experienced dog owners",
-      "Households able to provide consistent training",
-      "Owners who appreciate an independent and dignified dog",
-      "People able to provide regular exercise and enrichment",
-      "Households prepared for responsible dog socialization",
-      "Owners willing to maintain a dense double coat",
+      "Experienced owners comfortable leading a large, independent-minded dog",
+      "Households committed to patient, reward-based training and clear structure",
+      "Owners who appreciate a quiet, dignified, deeply loyal companion",
+      "Homes with a securely fenced yard and time for daily walks",
+      "People prepared to manage introductions to unfamiliar dogs carefully",
     ],
 
     notIdealFor: [
-      "Owners looking for an easy-to-train, highly obedient dog",
-      "Households unable to provide consistent boundaries",
-      "People expecting every dog interaction to be effortless",
-      "Owners who cannot manage a large and powerful dog",
-      "Households without sufficient time for exercise and enrichment",
-      "People expecting dependable off-leash behaviour without extensive training",
+      "First-time owners seeking an effortlessly biddable, eager-to-please dog",
+      "Households unable to maintain consistent boundaries and supervision",
+      "Owners wanting a dog for busy off-leash dog parks",
+      "Handlers unable to physically manage a strong, large spitz",
+      "Homes unwilling to brush a heavy seasonal-shedding double coat",
     ],
   },
 
   funFacts: [
-    "The Akita takes its name from the Akita region of Japan.",
-    "The breed has historical connections with the Akita Matagi dogs used for bear hunting.",
-    "Nine outstanding Akita examples were designated Natural Monuments in Japan in 1931.",
-    "The Akita is classified in FCI Group 5, which includes Spitz and primitive types.",
-    "Urajiro describes the characteristic whitish markings found on recognised non-white coat colours.",
-    "The Akita has a thick tail that is characteristically carried curled over its back.",
-    "The modern FCI standard classifies the Akita as a companion dog.",
+    "Named for Akita Prefecture in northern Honshu, its ancestors were medium-sized Akita Matagi bear-hunting dogs.",
+    "In 1931, Japan designated nine outstanding Akitas as national Natural Monuments.",
+    "All non-white coat colours must display 'urajiro'—characteristic whitish markings along the muzzle, cheeks, throat, chest, belly, tail underside, and inner legs.",
+    "Its thick, high-set tail curls tightly over the back, nearly reaching the hocks when let down.",
+    "Post-World War II preservation separated the traditional Japanese Akita Inu from the heavier American Akita line.",
   ],
 
   faq: [
     {
       question: "Where does the Akita Inu originate?",
       answer:
-        "The Akita Inu originates from Japan, particularly the Akita region of northern Honshu. The breed developed from Japanese dogs historically associated with hunting large game.",
+        "It originates in Japan, specifically the mountainous Akita Prefecture of northern Honshu, where its ancestors hunted bear and large game.",
     },
     {
       question: "Is Akita Inu the same as American Akita?",
       answer:
-        "No. Japanese Akita Inu and American Akita are distinct breed types with different breed standards and physical characteristics. This record describes the Japanese Akita, not the American Akita.",
+        "No. The Japanese Akita Inu and the American Akita are recognized as separate breeds with distinct standards, head shapes, size ranges, and permitted coat colours.",
     },
     {
       question: "How tall is an Akita Inu?",
       answer:
-        "The FCI standard gives an ideal height of 67 cm for males and 61 cm for females, with a tolerance of 3 cm more or less.",
+        "Ideal height at the withers is 67 cm for males and 61 cm for females, with a tolerance of 3 cm above or below.",
     },
     {
       question: "How much does an Akita Inu weigh?",
       answer:
-        "The FCI Standard No. 255 does not specify a numerical weight range. A healthy weight depends on the individual dog's size, build and body condition.",
+        "Adult males typically weigh 65 to 75 lb and adult females typically weigh 55 to 65 lb, proportioned to their lighter, athletic Japanese frame.",
     },
     {
       question: "How long does an Akita Inu live?",
       answer:
-        "The Japanese Akitainu Club of America gives a life expectancy of 10–12 years. Individual lifespan varies with genetics, health and care.",
+        "Typical life expectancy is 10 to 12 years, depending on genetics, weight management, and veterinary care.",
     },
     {
       question: "What colours are recognised in the Akita Inu?",
       answer:
-        "The recognised colours are red fawn, sesame, brindle and white. All listed colours except white must have the characteristic urajiro markings.",
+        "Recognised colours are red fawn, sesame (red fawn hairs with black tips), brindle, and pure white; all colours except white must show whitish urajiro markings.",
     },
     {
       question: "Is the Akita Inu easy to train?",
       answer:
-        "Akitas are intelligent but independent-minded. Consistent, patient, reward-based training and early socialization are important. Their independence can make some training tasks more challenging.",
+        "Intelligent yet independent and strong-willed, it responds best to calm, consistent, reward-based training and early socialization rather than repetitive drills.",
     },
     {
       question: "Does the Akita Inu shed?",
       answer:
-        "Yes. The Akita has a dense double coat and requires regular brushing to remove loose hair and maintain coat condition. More frequent brushing may be necessary during heavier shedding periods.",
+        "Yes. Its plush double coat sheds moderately year-round and blows its dense undercoat heavily during seasonal changes, requiring frequent brushing.",
     },
     {
       question: "Is an Akita Inu good with other dogs?",
       answer:
-        "Individual temperaments vary, and interactions with unfamiliar dogs may require careful management. Early socialization, supervision and responsible introductions are important.",
+        "It can be selective or intolerant toward unfamiliar dogs, particularly of the same sex, so early socialization, leashed walks, and careful supervision are essential.",
     },
     {
       question: "What health tests should Akita Inu breeders consider?",
       answer:
-        "Breed-health recommendations include hip, eye and thyroid examinations, DNA testing for inherited tooth-enamel disorders, and screening for patellar and elbow conditions. Ask breeders for documented results and discuss them with a veterinarian.",
+        "Recommended clearances include hip, elbow, patella, eye, and thyroid evaluations, along with DNA testing for familial enamel hypoplasia (amelogenesis imperfecta).",
     },
     {
       question: "Is Akita Inu suitable for first-time owners?",
       answer:
-        "The breed is generally better suited to owners who can manage a large, independent dog and provide consistent training, socialization and responsible supervision.",
+        "Generally no. Its size, strength, independence, and guarding instincts are better suited to experienced handlers who can provide clear structure and safe management.",
     },
   ],
 
@@ -403,6 +385,7 @@ export const akita_inu: Breed = {
     "fci-akita-nomenclature-255",
     "jaca-japanese-akitainu-health-statement-2025",
     "wikimedia-akita-inu-resting-photo",
+    "the-dog-api",
   ],
 
   evidence: {
@@ -419,16 +402,21 @@ export const akita_inu: Breed = {
           role: "verified",
           locator: "Title and breed identification: Japanese Akitainu",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Uses the official Akita name and commonly used Japanese breed-name variants.",
+      verifiedOn: "2026-11-16",
+      note: "Uses official Akita and Japanese Akitainu names; note that 'Great Japanese Dog' in The Dog API refers historically to the American Akita line and is omitted here to avoid conflating the two breeds.",
     },
 
     scientificName: {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The reviewed breed standards and breed-health publications do not establish a separate scientific name for this breed.",
+      note: "Reviewed breed standards and health publications do not establish a separate scientific name.",
     },
 
     group: {
@@ -440,8 +428,8 @@ export const akita_inu: Breed = {
           locator: "FCI classification: Group 5, Section 5",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Uses the FCI classification.",
+      verifiedOn: "2026-11-16",
+      note: "Follows FCI Group 5, Section 5 classification; The Dog API lists Working.",
     },
 
     origin: {
@@ -457,9 +445,14 @@ export const akita_inu: Breed = {
           role: "verified",
           locator: "Country of origin: Japan",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin",
+        },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The geographical description follows the breed's Japanese origin and historical connection with the Akita region.",
+      verifiedOn: "2026-11-16",
+      note: "Follows Japanese origin and historical connection with Akita Prefecture.",
     },
 
     "origin.region": {
@@ -471,8 +464,8 @@ export const akita_inu: Breed = {
           locator: "Brief historical summary: Akita region",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The standard identifies the Akita region as part of the breed's historical development.",
+      verifiedOn: "2026-11-16",
+      note: "Identifies the Akita region in northern Honshu.",
     },
 
     overview: {
@@ -488,9 +481,14 @@ export const akita_inu: Breed = {
           role: "verified",
           locator: "Breed classification and origin",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Original user-facing descriptions based on the official breed information.",
+      verifiedOn: "2026-11-16",
+      note: "All user-facing prose is newly written original wording based on official breed information.",
     },
 
     physical: {
@@ -502,8 +500,8 @@ export const akita_inu: Breed = {
           locator: "General appearance, head, body, tail, coat, colour and size",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Physical characteristics follow FCI Standard No. 255, with non-standard care observations separately identified.",
+      verifiedOn: "2026-11-16",
+      note: "Physical characteristics follow FCI Standard No. 255.",
     },
 
     "physical.height": {
@@ -514,16 +512,58 @@ export const akita_inu: Breed = {
           role: "verified",
           locator: "SIZE: male 67 cm, female 61 cm, tolerance ±3 cm",
         },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (66–71 cm male, 61–66 cm female — reflects American Akita dimensions)",
+        },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The stored values are the exact ideal heights published by the FCI. The standard separately allows a tolerance of 3 cm more or less. No unit conversion is performed.",
+      verifiedOn: "2026-11-16",
+      note: "Retains the exact FCI ideal heights (67 cm male, 61 cm female, ±3 cm tolerance) for the Japanese Akita Inu; The Dog API's 66–71 cm / 61–66 cm ranges reflect American Akita measurements.",
     },
 
     "physical.weight": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "FCI Standard No. 255 does not publish a numerical weight range. No weight has been inferred from other breed types.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "jaca-japanese-akitainu-health-statement-2025",
+          role: "verified",
+          locator: "Breed weight: 65–75 pounds (male), 55–65 pounds (female)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (45–59 kg male, 32–45 kg female — reflects heavier American Akita)",
+        },
+      ],
+      verifiedOn: "2026-11-16",
+      note: "FCI Standard No. 255 omits weight; 65–75 lb (male) and 55–65 lb (female) are taken from the Japanese Akitainu Club of America / AKC Japanese Akitainu profile in published lb units, whereas The Dog API's 45–59 kg / 32–45 kg figures reflect the heavier American Akita.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "jaca-japanese-akitainu-health-statement-2025",
+          role: "verified",
+          locator: "Male weight: 65–75 pounds",
+        },
+      ],
+      verifiedOn: "2026-11-16",
+      note: "Upper end of the Japanese Akitainu male weight range (75 lb).",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "jaca-japanese-akitainu-health-statement-2025",
+          role: "verified",
+          locator: "Female weight: 55–65 pounds",
+        },
+      ],
+      verifiedOn: "2026-11-16",
+      note: "Upper end of the Japanese Akitainu female weight range (65 lb).",
     },
 
     "physical.lifespanYears": {
@@ -534,9 +574,14 @@ export const akita_inu: Breed = {
           role: "verified",
           locator: "Opening paragraph: life expectancy 10–12 years",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span (10–13 years)",
+        },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The range is reported in the 2025 Japanese Akitainu Club of America health statement. It is an expected lifespan, not a guarantee.",
+      verifiedOn: "2026-11-16",
+      note: "10–12 years is reported in the 2025 Japanese Akitainu Club of America health statement (The Dog API lists 10–13 years).",
     },
 
     "physical.coatType": {
@@ -548,7 +593,7 @@ export const akita_inu: Breed = {
           locator: "COAT — Hair",
         },
       ],
-      verifiedOn: "2026-11-03",
+      verifiedOn: "2026-11-16",
       note: null,
     },
 
@@ -561,8 +606,8 @@ export const akita_inu: Breed = {
           locator: "COAT — Colour and urajiro definition",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Recognised colours are paraphrased from the official standard.",
+      verifiedOn: "2026-11-16",
+      note: "Follows FCI Standard No. 255 (red fawn, sesame, brindle, white) rather than The Dog API's species-wide colour list.",
     },
 
     "physical.sheddingLevel": {
@@ -574,15 +619,15 @@ export const akita_inu: Breed = {
           locator: "Grooming guidance: double or triple-coated breeds and regular coat maintenance",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The description identifies the maintenance needs of the dense double coat without assigning an unsupported shedding frequency.",
+      verifiedOn: "2026-11-16",
+      note: "Reflects maintenance needs of the dense double coat.",
     },
 
     "physical.droolingLevel": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "A reliable breed-specific drooling assessment was not established.",
+      note: "No reliable breed-specific drooling assessment was established.",
     },
 
     temperament: {
@@ -593,16 +638,21 @@ export const akita_inu: Breed = {
           role: "verified",
           locator: "BEHAVIOUR AND TEMPERAMENT",
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Breed-level temperament descriptions are not guarantees about individual dogs.",
+      verifiedOn: "2026-11-16",
+      note: "Breed-level temperament descriptions; individual dogs vary.",
     },
 
     "temperament.scores": {
       reliability: "estimate",
       sources: [],
       verifiedOn: null,
-      note: "Editorial 1–5 estimates, not results from standardised behavioural testing. Individual dogs vary.",
+      note: "Editorial 1–5 estimates, not results from standardized behavioural testing.",
     },
 
     care: {
@@ -615,21 +665,21 @@ export const akita_inu: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Care recommendations are practical guidance and should be adapted to the individual dog's health, age and lifestyle.",
+      note: "Practical care guidance adapted to health, age, and lifestyle.",
     },
 
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
       sources: [],
       verifiedOn: null,
-      note: "An editorial starting range for a healthy adult dog, not a published breed-standard requirement. Puppies, seniors and dogs with health conditions need individual plans.",
+      note: "Editorial starting range for a healthy adult dog, not a published breed-standard requirement.",
     },
 
     nutrition: {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine nutrition advice. The record does not prescribe a particular brand, formula or medical diet.",
+      note: "General canine nutrition guidance.",
     },
 
     health: {
@@ -641,8 +691,8 @@ export const akita_inu: Breed = {
           locator: "Health overview, recommended screening and autoimmune conditions",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Health information distinguishes reported breed concerns from recommended screening. It does not assert disease prevalence.",
+      verifiedOn: "2026-11-16",
+      note: "Distinguishes reported breed concerns from recommended screening without asserting prevalence.",
     },
 
     "health.commonConditions": {
@@ -654,8 +704,8 @@ export const akita_inu: Breed = {
           locator: "Autoimmune conditions: sebaceous adenitis and uveodermatological syndrome; screening for other inherited concerns",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "This list describes reported health concerns and screening targets. It is not a ranked prevalence list.",
+      verifiedOn: "2026-11-16",
+      note: "Describes reported health concerns and screening targets rather than a prevalence ranking.",
     },
 
     "health.recommendedScreenings": {
@@ -667,8 +717,8 @@ export const akita_inu: Breed = {
           locator: "OFA eye, hip, thyroid, tooth enamel, patella and elbow screening recommendations",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "These are recommendations for breeding-stock screening, not a substitute for veterinary assessment of an individual dog.",
+      verifiedOn: "2026-11-16",
+      note: "Recommendations for breeding-stock screening.",
     },
 
     "health.preventiveCare": {
@@ -682,14 +732,14 @@ export const akita_inu: Breed = {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine dental care advice, supplemented by breed-specific tooth-enamel screening information.",
+      note: "General canine dental care guidance supplemented by tooth-enamel monitoring.",
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine ear-care advice.",
+      note: "General canine ear-care guidance.",
     },
 
     "health.skinCare": {
@@ -702,7 +752,7 @@ export const akita_inu: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "General skin-care advice with breed-health context. Skin symptoms require veterinary assessment.",
+      note: "General skin-care guidance with autoimmune skin context.",
     },
 
     suitability: {
@@ -715,7 +765,7 @@ export const akita_inu: Breed = {
         },
       ],
       verifiedOn: null,
-      note: "Editorial lifestyle estimates based on size, independence and management needs. These are not validated suitability assessments.",
+      note: "Editorial lifestyle estimates based on size, independence, and management needs.",
     },
 
     funFacts: {
@@ -724,11 +774,11 @@ export const akita_inu: Breed = {
         {
           id: "fci-akita-standard-255",
           role: "verified",
-          locator: "Historical summary, origin, classification and coat colour",
+          locator: "Historical summary, origin, tail and coat colour",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Facts are original paraphrases of the official breed information.",
+      verifiedOn: "2026-11-16",
+      note: "Facts written in original wording from official breed information.",
     },
 
     faq: {
@@ -742,13 +792,13 @@ export const akita_inu: Breed = {
         {
           id: "jaca-japanese-akitainu-health-statement-2025",
           role: "verified",
-          locator: "Life expectancy and health screening",
+          locator: "Life expectancy, weight, and health screening",
         },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Answers distinguish official breed-standard facts from health information and general care advice.",
+      verifiedOn: "2026-11-16",
+      note: "Original answers synthesizing official breed-standard facts and health guidance.",
     },
   },
 
-  updatedOn: "2026-11-03",
+  updatedOn: "2026-11-16",
 };

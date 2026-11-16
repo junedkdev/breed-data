@@ -17449,6 +17449,476 @@ export const sources = defineSources({
     note: "Photograph (600 x 545 px) of an adult male Thai Bangkaew Dog standing outdoors by Canarian (captured and uploaded 2016-12-04). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
+  "fci-shih-tzu-official-standard": {
+    id: "fci-shih-tzu-official-standard",
+    name: "FCI - Shih Tzu Official Breed Standard No. 208",
+    url: "https://www.fci.be/Nomenclature/Standards/208g09-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-13",
+    note: "Official English FCI Standard No. 208 (valid standard dated 2026-09-08, published 2026-10-06). Covers Tibetan origin, Great Britain patronage, Group 9 Companion and Toy Dogs, Section 5 Tibetan breeds classification without working trial, chrysanthemum face, long dense double coat, height at withers (not more than 27 cm), and weight (4.5-8 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-shih-tzu-nomenclature": {
+    id: "fci-shih-tzu-nomenclature",
+    name: "FCI - Shih Tzu Breed Nomenclature (No. 208)",
+    url: "https://www.fci.be/en/nomenclature/SHIH-TZU-208.html",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-13",
+    note: "Official FCI breed nomenclature record confirming Tibet (China) as country of origin, Great Britain as patron, Group 9 Section 5 classification without working trial, definitive recognition date (1957-12-16), and official multilingual name (Shih Tzu).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-shih-tzu-breed-standard": {
+    id: "akc-shih-tzu-breed-standard",
+    name: "American Kennel Club - Official Standard of the Shih Tzu",
+    url: "https://images.akc.org/pdf/breeds/standards/ShihTzu.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1989-05-09",
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed standard (Toy Group, effective May 9, 1989) establishing sturdy toy proportions, flowing double coat, undershot or level bite, arrogant carriage, and sweet companion temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-shih-tzu-breed-profile": {
+    id: "akc-shih-tzu-breed-profile",
+    name: "American Kennel Club - Shih Tzu Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/shih-tzu/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official AKC breed profile covering Tibetan and Ming Dynasty royal history, 14 foundational dogs, weight (9-16 lbs), lifespan (10-18 years), apartment adaptability, temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "astc-shih-tzu-health": {
+    id: "astc-shih-tzu-health",
+    name: "American Shih Tzu Club - Health Testing and CHIC",
+    url: "https://www.shihtzu.org/astc_chic",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official national parent club portal confirming official CHIC participation and detailing recommended pre-breeding health testing, particularly CAER eye examinations and OFA patellar luxation checks.",
+    publisher: "American Shih Tzu Club"
+  },
+  "ofa-shih-tzu-chic-requirements": {
+    id: "ofa-shih-tzu-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Shih Tzu CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=SH",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Shih Tzu, mandating CAER Eye examination and Clinical Patellar Luxation evaluation.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "charlie-pet-health-shih-tzu": {
+    id: "charlie-pet-health-shih-tzu",
+    name: "Charlie Pet Health - Shih Tzu health: kidneys, eyes and breathing",
+    url: "https://charliepethealth.com/resources/breed-shih-tzu.html",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-13",
+    note: "Veterinary resource documenting breed-specific health risks in Shih Tzus, including Juvenile Renal Dysplasia (JRD), urinary stones, corneal ulcers, and Brachycephalic Airway Obstructive Syndrome (BOAS).",
+    publisher: "Charlie Pet Health"
+  },
+  "wikimedia-shih-tzu-coupe-lion": {
+    id: "wikimedia-shih-tzu-coupe-lion",
+    name: "Wikimedia Commons - File:Shih tzu-Coupe-lion.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Shih_tzu-Coupe-lion.jpg",
+    type: "other",
+    publishedOn: "2021-03-26",
+    accessedOn: "2026-11-13",
+    note: "Photograph (651 x 925 px) of an adult Shih Tzu displaying a short 'puppy cut' or 'lion cut' standing outdoors by Pouchkine75 (uploaded 2021-03-26). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-shih-tzu-star-of-buddha": {
+    id: "wikimedia-shih-tzu-star-of-buddha",
+    name: "Wikimedia Commons - File:Shih Tzu - Star of Buddha.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Shih_Tzu_-_Star_of_Buddha.jpg",
+    type: "other",
+    publishedOn: "2023-05-07",
+    accessedOn: "2026-11-13",
+    note: "Photograph (953 x 1267 px) featuring a close-up of a Shih Tzu's face and a white 'Star of Buddha' forehead marking by Avesterfelt (uploaded 2023-05-07). Dedicated to the Public Domain under Creative Commons CC0 1.0 Universal License on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-presa-canario-official-standard": {
+    id: "fci-presa-canario-official-standard",
+    name: "FCI - Presa Canario Official Breed Standard No. 346",
+    url: "https://www.fci.be/Nomenclature/Standards/346g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2011-08-12",
+    accessedOn: "2026-11-16",
+    note: "Official English FCI Standard No. 346 (valid standard dated 2011-07-04, published 2011-08-12). Covers Spanish origin (Canary Islands), Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 2.1 Mastiff type Molossoids classification without working trial, robust mastiff build, short brindle or fawn coat with black mask, withers height (males 60-66 cm, females 56-62 cm), and weight (males min 50 kg - max 65 kg, females min 40 kg - max 55 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-presa-canario-nomenclature": {
+    id: "fci-presa-canario-nomenclature",
+    name: "FCI - Presa Canario Breed Nomenclature (No. 346)",
+    url: "https://www.fci.be/en/nomenclature/PRESA-CANARIO-346.html",
+    type: "official_breed_standard",
+    publishedOn: "2011-08-12",
+    accessedOn: "2026-11-16",
+    note: "Official FCI breed nomenclature record confirming Spain as country of origin, Group 2 Section 2.1 classification without working trial, definitive recognition date (2011-07-04), and official multilingual name (Presa Canario).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "rsce-presa-canario-standard": {
+    id: "rsce-presa-canario-standard",
+    name: "Real Sociedad Canina de España - Estándar del Presa Canario",
+    url: "https://www.rsce.es/presa-canario/",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official Spanish Kennel Club (RSCE) breed standard and profile for Presa Canario, documenting Tenerife and Gran Canaria historical roots, Majorero heritage, height limits, weight minimums, and guardian traits.",
+    publisher: "Real Sociedad Canina de España"
+  },
+  "akc-presa-canario-breed-profile": {
+    id: "akc-presa-canario-breed-profile",
+    name: "American Kennel Club - Presa Canario Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/presa-canario/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official AKC breed profile (Foundation Stock Service) covering Canary Islands catch dog origins, Majorero ancestry, weight, lifespan (9-11 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "ukc-presa-canario-breed-standard": {
+    id: "ukc-presa-canario-breed-standard",
+    name: "United Kennel Club - Perro de Presa Canario Breed Standard",
+    url: "https://www.ukcdogs.com/perro-de-presa-canario",
+    type: "official_breed_standard",
+    publishedOn: "2003-01-01",
+    accessedOn: "2026-11-16",
+    note: "Official UKC breed standard (Guardian Dog Group, recognized 2003) covering conformation, rectangular proportions, short brindle/fawn coat, and highly territorial guardian behavior.",
+    publisher: "United Kennel Club"
+  },
+  "ofa-presa-canario-chic-requirements": {
+    id: "ofa-presa-canario-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Perro de Presa Canario CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=PRC",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Perro de Presa Canario, mandating Radiographic Hip and Elbow Dysplasia evaluation, Cardiac Evaluation, and CAER Eye examination.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-perro-de-presa-canario-lilly-m": {
+    id: "wikimedia-perro-de-presa-canario-lilly-m",
+    name: "Wikimedia Commons - File:Perro de Presa Canario.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Perro_de_Presa_Canario.jpg",
+    type: "other",
+    publishedOn: "2007-06-25",
+    accessedOn: "2026-11-16",
+    note: "High-resolution photograph (2592 x 1944 px) of an adult fawn Perro de Presa Canario standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-perro-de-presa-canario-600-tomasz-sienicki": {
+    id: "wikimedia-perro-de-presa-canario-600-tomasz-sienicki",
+    name: "Wikimedia Commons - File:Perro de Presa Canario 600.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Perro_de_Presa_Canario_600.jpg",
+    type: "other",
+    publishedOn: "2006-05-21",
+    accessedOn: "2026-11-16",
+    note: "Photograph of a Perro de Presa Canario standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "akc-belgian-tervuren-breed-standard": {
+    id: "akc-belgian-tervuren-breed-standard",
+    name: "American Kennel Club - Official Standard of the Belgian Tervuren",
+    url: "https://images.akc.org/pdf/breeds/standards/BelgianTervuren.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1990-06-11",
+    accessedOn: "2026-11-16",
+    note: "Official AKC breed standard (Herding Group, approved 1990) establishing height (males 24 to 26 inches, females 22 to 24 inches), square proportions, long fawn to mahogany coat with black overlay and mask, scissor bite, and highly intelligent, courageous working temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-belgian-tervuren-breed-profile": {
+    id: "akc-belgian-tervuren-breed-profile",
+    name: "American Kennel Club - Belgian Tervuren Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/belgian-tervuren/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official AKC breed profile covering village of Tervuren history, M.F. Corbeel's foundation dogs 'Tom' and 'Poes', first herding champion records, weight (45-75 lbs overall), lifespan (12-14 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "the-kennel-club-belgian-shepherd-dog-tervueren-breed-standard": {
+    id: "the-kennel-club-belgian-shepherd-dog-tervueren-breed-standard",
+    name: "The Royal Kennel Club - Belgian Shepherd Dog (Tervueren) Breed Standard",
+    url: "https://www.thekennelclub.org.uk/breed-standards/pastoral/belgian-shepherd-dog-tervueren/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-16",
+    note: "Official Royal Kennel Club breed standard (Pastoral Group) confirming ideal height (dogs 61-66 cm / 24-26 in; bitches 56-61 cm / 22-24 in), long fawn coat with black overlay and strict black mask, and watchful pastoral temperament.",
+    publisher: "The Royal Kennel Club"
+  },
+  "ofa-belgian-tervuren-chic-requirements": {
+    id: "ofa-belgian-tervuren-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Belgian Tervuren CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Belgian Tervuren, mandating radiographic hip dysplasia evaluation, radiographic elbow dysplasia evaluation, CAER eye examination, and thyroid panel evaluation.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "abtc-belgian-tervuren-health": {
+    id: "abtc-belgian-tervuren-health",
+    name: "American Belgian Tervuren Club - Health and OFA Champions",
+    url: "https://abtc.org/ofa-champions-for-health-award/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official national parent club portal confirming adherence to OFA CHIC requirements (hips, elbows, thyroid, eyes) and documenting breed health initiatives for epilepsy and gastric carcinoma.",
+    publisher: "American Belgian Tervuren Club"
+  },
+  "wikimedia-belgian-tervueren-shepherd-canarian": {
+    id: "wikimedia-belgian-tervueren-shepherd-canarian",
+    name: "Wikimedia Commons - File:Belgian Tervueren Shepherd.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Belgian_Tervueren_Shepherd.jpg",
+    type: "other",
+    publishedOn: "2017-12-08",
+    accessedOn: "2026-11-16",
+    note: "High-resolution photograph (1821 x 1868 px) of an adult Belgian Tervuren standing outdoors by Canarian (captured and uploaded 2017-12-08). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-pekingese-official-standard": {
+    id: "fci-pekingese-official-standard",
+    name: "FCI - Pekingese Official Breed Standard No. 207",
+    url: "https://www.fci.be/Nomenclature/Standards/207g09-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2009-06-05",
+    accessedOn: "2026-11-16",
+    note: "Official English FCI Standard No. 207 (valid standard dated 2009-03-26, published 2009-06-05). Covers Chinese origin with Great Britain patronage, Group 9 Companion and Toy Dogs, Section 8 Japan Chin and Pekingese classification without working trial, heavy bone, rolling gait, flat face, and ideal weight not exceeding 5 kg for males and 5.4 kg for females.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-pekingese-nomenclature": {
+    id: "fci-pekingese-nomenclature",
+    name: "FCI - Pekingese Breed Nomenclature (No. 207)",
+    url: "https://www.fci.be/en/nomenclature/PEKINGESE-207.html",
+    type: "official_breed_standard",
+    publishedOn: "2009-06-05",
+    accessedOn: "2026-11-16",
+    note: "Official FCI breed nomenclature record confirming China as country of origin, Great Britain as patron, Group 9 Section 8 classification without working trial, definitive recognition date (1966-11-09), and official multilingual name (Pekingese).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-pekingese-breed-standard": {
+    id: "akc-pekingese-breed-standard",
+    name: "American Kennel Club - Official Standard of the Pekingese",
+    url: "https://images.akc.org/pdf/breeds/standards/Pekingese.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2004-09-08",
+    accessedOn: "2026-11-16",
+    note: "Official AKC breed standard (Toy Group, effective October 27, 2004) establishing height (6 to 9 inches at the withers), weight (must not exceed 14 pounds), lion-like conformation, long flowing double coat with mane, and flat facial profile.",
+    publisher: "American Kennel Club"
+  },
+  "akc-pekingese-breed-profile": {
+    id: "akc-pekingese-breed-profile",
+    name: "American Kennel Club - Pekingese Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/pekingese/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official AKC breed profile covering ancient Chinese royal history, Foo Dog legends, 1860 Old Summer Palace sacking, weight (under 14 lbs), lifespan (12-14 years), apartment adaptability, temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "pca-pekingese-health": {
+    id: "pca-pekingese-health",
+    name: "Pekingese Club of America - Health and CHIC Information",
+    url: "https://www.pekingeseclubofamerica.com/health.html",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official national parent club health portal documenting structural health risks including BOAS, IVDD, Patellar Luxation, eye injuries, and mandatory CHIC pre-breeding screenings.",
+    publisher: "Pekingese Club of America"
+  },
+  "ofa-pekingese-chic-requirements": {
+    id: "ofa-pekingese-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Pekingese CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=PE",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Pekingese, mandating CAER Eye examination and Clinical Patellar Luxation evaluation.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-pekingese-hugo-arg": {
+    id: "wikimedia-pekingese-hugo-arg",
+    name: "Wikimedia Commons - File:Pekingese002.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Pekingese002.JPG",
+    type: "other",
+    publishedOn: "2009-01-05",
+    accessedOn: "2026-11-16",
+    note: "High-resolution photograph (1943 x 1547 px) of an adult Pekingese dog standing outdoors by Hugo.arg (captured 2009-01-01, uploaded 2009-01-05). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-pekingese-bailey-dirk": {
+    id: "wikimedia-pekingese-bailey-dirk",
+    name: "Wikimedia Commons - File:Bailey Pekingese.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Bailey_Pekingese.jpg",
+    type: "other",
+    publishedOn: "2008-10-21",
+    accessedOn: "2026-11-16",
+    note: "Photograph (1280 x 1202 px) featuring a close-up of a fawn Pekingese's distinctive lion-like mane and flat facial profile by Dirk (captured 2007-11-22, uploaded by Flickr upload bot 2008-10-21). Licensed under CC BY 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-affenpinscher-official-standard": {
+    id: "fci-affenpinscher-official-standard",
+    name: "FCI - Affenpinscher Official Breed Standard No. 186",
+    url: "https://www.fci.be/Nomenclature/Standards/186g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2009-09-02",
+    accessedOn: "2026-11-16",
+    note: "Official English FCI Standard No. 186 (valid standard dated 2007-03-06, published 2009-09-02). Covers German origin, Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 1.1 Pinschers classification without working trial, monkey-like expression, pure black harsh wire coat, and withers height (25-30 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-affenpinscher-nomenclature": {
+    id: "fci-affenpinscher-nomenclature",
+    name: "FCI - Affenpinscher Breed Nomenclature (No. 186)",
+    url: "https://www.fci.be/en/nomenclature/AFFENPINSCHER-186.html",
+    type: "official_breed_standard",
+    publishedOn: "2009-09-02",
+    accessedOn: "2026-11-16",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 2 Section 1.1 classification without working trial, definitive recognition date (1955-07-15), and official multilingual name (Affenpinscher).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-affenpinscher-breed-standard": {
+    id: "akc-affenpinscher-breed-standard",
+    name: "American Kennel Club - Official Standard of the Affenpinscher",
+    url: "https://images.akc.org/pdf/breeds/standards/Affenpinscher.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2000-01-12",
+    accessedOn: "2026-11-16",
+    note: "Official AKC breed standard (Toy Group, effective January 12, 2000) establishing square toy proportions, harsh wiry coat, monkey-like facial expression, slightly undershot bite, and comical but fearless terrier temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-affenpinscher-breed-profile": {
+    id: "akc-affenpinscher-breed-profile",
+    name: "American Kennel Club - Affenpinscher Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/affenpinscher/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official AKC breed profile covering German ratter history, 'Monkey Dog' / 'Diablotin Moustachu' nicknames, weight (7-10 lbs), lifespan (12-15 years), apartment adaptability, temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "aca-affenpinscher-health": {
+    id: "aca-affenpinscher-health",
+    name: "Affenpinscher Club of America - Health and CHIC Information",
+    url: "https://www.affenpinscher.org/health.html",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official national parent club health portal documenting structural health risks including Patellar Luxation, Legg-Calve-Perthes, Cardiac anomalies, and mandatory CHIC pre-breeding screenings.",
+    publisher: "Affenpinscher Club of America"
+  },
+  "ofa-affenpinscher-chic-requirements": {
+    id: "ofa-affenpinscher-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Affenpinscher CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=AF",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Affenpinscher, mandating CAER Eye examination and Clinical Patellar Luxation evaluation.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-affenpinscher-01-ernst-vikne": {
+    id: "wikimedia-affenpinscher-01-ernst-vikne",
+    name: "Wikimedia Commons - File:Affenpinscher 01.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Affenpinscher_01.jpg",
+    type: "other",
+    publishedOn: "2008-01-26",
+    accessedOn: "2026-11-16",
+    note: "High-resolution photograph (1779 x 1419 px) of an adult black Affenpinscher standing outdoors by Ernst Vikne (captured 2007-08-11, uploaded by Flickr upload bot 2008-01-26). Licensed under CC BY-SA 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-affenpinscher-lilly-m": {
+    id: "wikimedia-affenpinscher-lilly-m",
+    name: "Wikimedia Commons - File:Affenpinscher.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Affenpinscher.jpg",
+    type: "other",
+    publishedOn: "2007-06-25",
+    accessedOn: "2026-11-16",
+    note: "High-resolution photograph (2592 x 1944 px) featuring a close-up of a black Affenpinscher's monkey-like face by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-dachshund-official-standard": {
+    id: "fci-dachshund-official-standard",
+    name: "FCI - Dachshund Official Breed Standard No. 148",
+    url: "https://www.fci.be/Nomenclature/Standards/148g04-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2022-03-14",
+    accessedOn: "2026-11-16",
+    note: "Official English FCI Standard No. 148 (valid standard dated 2021-05-25, published 2022-03-14). Covers German origin, Group 4 Dachshunds classification with working trial, low-to-ground elongated build, three coat varieties, and classification by chest circumference rather than fixed weight limits.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-dachshund-nomenclature": {
+    id: "fci-dachshund-nomenclature",
+    name: "FCI - Dachshund Breed Nomenclature (No. 148)",
+    url: "https://www.fci.be/en/nomenclature/DACHSHUND-148.html",
+    type: "official_breed_standard",
+    publishedOn: "2022-03-14",
+    accessedOn: "2026-11-16",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 4 classification with working trial, definitive recognition date (1955-01-01), and official multilingual names (Dachshund, Dackel, Teckel).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-dachshund-breed-standard": {
+    id: "akc-dachshund-breed-standard",
+    name: "American Kennel Club - Official Standard of the Dachshund",
+    url: "https://images.akc.org/pdf/breeds/standards/Official_Standard_Dachshund.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2018-01-01",
+    accessedOn: "2026-11-16",
+    note: "Official AKC breed standard (Hound Group) establishing weight limits (Standard usually 16 to 32 pounds; Miniature 11 pounds and under), elongated conformation, robust muscular development, and fearless hunting temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-dachshund-breed-profile": {
+    id: "akc-dachshund-breed-profile",
+    name: "American Kennel Club - Dachshund Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/dachshund/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official AKC breed profile covering German badger-hunting history, weight (11-32 lbs), height (5-9 inches overall), lifespan (12-16 years), apartment adaptability, temperament, IVDD precautions, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "dca-health-statement": {
+    id: "dca-health-statement",
+    name: "Dachshund Club of America - Health Statement and Guidelines",
+    url: "https://www.akc.org/wp-content/uploads/2022/08/Dachshunds-Health-Statemnt-rev-May-2022.pdf",
+    type: "breed_club",
+    publishedOn: "2022-05-18",
+    accessedOn: "2026-11-16",
+    note: "Official national parent club health portal documenting structural health risks including IVDD, Patellar Luxation, CAER Eye examinations (PRA), Cardiac auscultation, and mandatory CHIC pre-breeding screenings.",
+    publisher: "Dachshund Club of America"
+  },
+  "ofa-dachshund-chic-requirements": {
+    id: "ofa-dachshund-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Dachshund CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-16",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Dachshund, mandating CAER Eye examination, Clinical Patellar Luxation evaluation, and Basic Cardiac examination.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-dachshund-wire-haired-lilly-m": {
+    id: "wikimedia-dachshund-wire-haired-lilly-m",
+    name: "Wikimedia Commons - File:Wire-haired Dachshund R 01.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Wire-haired_Dachshund_R_01.JPG",
+    type: "other",
+    publishedOn: "2007-06-27",
+    accessedOn: "2026-11-16",
+    note: "High-resolution photograph (2592 x 1814 px) of an adult wire-haired Dachshund standing outdoors by Lilly M (captured 2007-06-10, uploaded 2007-06-27). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-dachshund-smooth-coated-kmoney56": {
+    id: "wikimedia-dachshund-smooth-coated-kmoney56",
+    name: "Wikimedia Commons - File:Dachshund smooth-coated Dachshund.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Dachshund_smooth-coated_Dachshund.jpg",
+    type: "other",
+    publishedOn: "2007-02-27",
+    accessedOn: "2026-11-16",
+    note: "Photograph (1280 x 851 px) featuring a smooth-coated brown Dachshund sitting on grass by kmoney56 (captured 2007-02-04, uploaded by Pharaoh Hound 2007-02-27). Licensed under CC BY-SA 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
 });
 
 export type SourceId = keyof typeof sources;

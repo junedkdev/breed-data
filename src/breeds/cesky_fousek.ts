@@ -7,7 +7,9 @@ export const cesky_fousek: Breed = {
   alternateNames: [
     "Český fousek",
     "Bohemian Wire-Haired Pointing Griffon",
+    "Bohemian Wire-haired Pointing Griffon",
     "Bohemian Wire-Haired Pointing Dog",
+    "Bohemian Wirehaired Pointer",
     "Barbu Tchèque",
   ],
   group: "FCI Group 7 — Pointing Dogs; Section 1.3 — Continental Pointing Dogs, Griffon type",
@@ -31,24 +33,24 @@ export const cesky_fousek: Breed = {
       attribution:
         "Photo by Srinayan Puppala (TigerPuppala), via Wikimedia Commons, licensed under CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/). Indicate any changes; adaptations must be distributed under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-03",
+      metadataCheckedOn: "2026-11-16",
     },
   ],
   overview: {
     summary:
-      "The Cesky Fousek is a medium-sized, versatile wire-haired pointing dog from the Czech Republic. Bred to work across fields, woodland and water, it combines stamina and a weather-resistant coat with an alert, cooperative nature. Its characteristic beard and expressive eyebrows frame a practical working-dog appearance. This is an active hunting breed that needs purposeful exercise, training and close involvement with its household.",
+      "The Cesky Fousek is a medium-sized, wire-haired pointing dog from the Czech Republic bred for versatile hunting across fields, forests, and water. Framed by a distinctive beard and upward-slanting eyebrows, it combines rugged weather resistance and high stamina with a cooperative, devoted temperament suited to active, experienced households.",
     description:
-      "Strong and athletic without being heavy, the Cesky Fousek has a firm body, a long, relatively narrow head and a distinctive three-part coat. A soft dense undercoat protects the skin, while a coarse close-fitting topcoat and harsher guard hairs provide a rugged outer covering. Longer, softer hair on the lips and lower jaw forms the beard, and the eyebrows are prominent. The breed was developed as an all-round pointing dog able to search and work on land and in water. It is generally described in its breed standard as trainable and devoted to its handler, but its working instincts and stamina mean it is best suited to people who can provide regular activity and structured outlets for its abilities.",
+      "Strong, athletic, and nobly proportioned without heaviness, the Cesky Fousek carries a firm body, a lean, moderately long head, and a three-layered weatherproof coat. A soft, dense undercoat insulates beneath a harsh, close-lying topcoat and wiry guard hairs, while longer, softer hair on the lips and chin forms its signature beard beneath expressive eyebrows. Bred as an all-round continental gundog equally capable on land and in water, it is trainable and deeply loyal to its handler, thriving when given daily outdoor work and structured mental engagement.",
     history:
-      "The Cesky Fousek was historically a widely kept wire-haired pointing dog in the area of present-day Czechia and Slovakia before the First World War. The war and its aftermath brought the breed close to extinction during the 1920s. A recovery programme used surviving typical dogs and planned breeding to re-establish the modern breed. The FCI recognises it as a Czech breed and classifies it among continental pointing dogs of the Griffon type. The FCI standard describes it as a versatile working dog and subjects the breed to a working trial.",
+      "Before the First World War, the Cesky Fousek was the most widely kept wire-haired pointing dog across present-day Czechia and Slovakia. Wartime disruption pushed the breed near extinction in the 1920s, prompting a dedicated restoration program built from surviving traditional dogs through planned breeding. Formally recognized internationally in 1963 among continental pointing dogs of the griffon type, it remains a working gundog subject to field trials.",
     originalPurpose:
-      "A versatile pointing and hunting dog developed for work in fields, woodland and water.",
+      "Versatile pointing, tracking, and retrieving work across open fields, dense woodland, and water.",
     currentRoles: [
-      "Versatile hunting and pointing dog",
-      "Field, woodland and water work",
-      "Hunting-dog trials and working tests",
-      "Active companion for experienced outdoor households",
-      "Scent work, retrieving and structured gundog activities",
+      "Versatile pointing and retrieving gundog",
+      "Field, woodland, and waterfowl hunting",
+      "Hunting-dog trials and versatile working tests",
+      "Active outdoor companion for experienced households",
+      "Scent work, tracking, and structured retrieving games",
     ],
   },
   physical: {
@@ -63,38 +65,41 @@ export const cesky_fousek: Breed = {
       male: { min: 28, max: 34 },
       female: { min: 22, max: 28 },
     },
-    lifespanYears: null,
+    lifespanYears: {
+      min: 12,
+      max: 15,
+    },
     coatType:
-      "Three-part, weather-resistant coat consisting of a soft dense undercoat, a harsh coarse topcoat and longer, straight guard hairs.",
+      "Three-layer, weather-resistant coat combining a soft, dense undercoat, a harsh, coarse topcoat, and longer, straight guard hairs.",
     coatLength:
-      "The FCI standard describes an undercoat about 1,5 cm long, a topcoat 3 to 4 cm long and guard hairs 5 to 7 cm long. Hair is longer on the rear sides of the legs, forming feathering; the head has a beard and prominent eyebrows.",
+      "Undercoat measures about 1.5 cm, the harsh topcoat 3 to 4 cm, and straight guard hairs 5 to 7 cm, with longer feathering along the backs of the legs and a distinct beard and eyebrows on the head.",
     coatColors: [
       "Dark roan, with or without brown patches",
-      "Brown with ticked markings on the forechest and lower part of the limbs",
-      "Brown without markings",
+      "Brown with ticked markings on the forechest and lower limbs",
+      "Solid brown without markings",
     ],
     sheddingLevel:
-      "Seasonal shedding is expected; the FCI standard notes that the dense undercoat is almost completely shed in summer. Individual shedding varies.",
+      "Moderate to seasonal; the dense undercoat sheds almost completely during summer, while individual shedding varies.",
     droolingLevel: null,
     distinctiveFeatures: [
-      "Medium-sized, strong and enduring pointing-dog build",
-      "Long, relatively narrow head with a moderately arched nasal bridge",
-      "Dark-brown nose and deep-set amber to chestnut eyes",
-      "High-set, broad-based ears that narrow towards rounded tips",
-      "Characteristic beard formed by longer, softer hair on the lips and lower jaw",
-      "Pronounced eyebrows pointing upwards",
-      "Three-layer coat with a dense undercoat and harsh outer hair",
-      "Compact feet with thick, coarse pads and a remnant of webbing between the toes",
+      "Medium-sized, wire-haired pointing build with high endurance",
+      "Lean, moderately narrow head with a slightly arched nasal bridge",
+      "Dark brown nose and deep-set amber to chestnut almond eyes",
+      "High-set, broad-based hanging ears tapering to rounded tips",
+      "Signature beard formed by longer, softer hair along the lips and lower jaw",
+      "Prominent, obliquely upward-pointing eyebrows",
+      "Three-part coat with a winter undercoat and harsh outer hair",
+      "Compact, spoon-shaped feet with tough pads and partial webbing between the toes",
     ],
   },
   temperament: {
     traits: [
-      "Devoted and cooperative with its handler",
-      "Generally described as readily trainable for a working dog",
-      "Alert, energetic and purposeful when working",
-      "Has an innate hunting response and may be sharp towards vermin",
-      "Built for sustained activity across varied terrain",
-      "Needs early, positive socialisation and consistent boundaries",
+      "Devoted and loyal to its handler",
+      "Cooperative and eager to please",
+      "Alert, energetic, and work-focused outdoors",
+      "Strong natural hunting and pointing drive, including sharpness toward vermin",
+      "Built for sustained endurance across rough terrain and water",
+      "Benefits from early socialization and clear, consistent guidance",
     ],
     scores: {
       affection: 4,
@@ -111,106 +116,104 @@ export const cesky_fousek: Breed = {
   care: {
     exercise: {
       level:
-        "High. This is a versatile working pointer with substantial stamina and a need for purposeful daily activity. Leisurely walks alone are unlikely to meet the needs of a fit working-line dog.",
+        "High. As a high-stamina working pointer bred for land and water, healthy adults need vigorous daily exercise paired with purposeful scenting and retrieving outlets.",
       minutesPerDay: null,
       activities: [
-        "Long, varied walks and hikes appropriate to age and fitness",
-        "Structured gundog training and field exercises",
-        "Scent work, tracking and searching games",
-        "Retrieving practice on land and, where safe, in water",
-        "Swimming in safe, supervised conditions",
-        "Recall and off-lead skills practised in secure areas",
-        "Mental enrichment and calm settling exercises between active periods",
+        "Brisk daily walks and hikes scaled to age and fitness",
+        "Structured gundog and field-work training",
+        "Scent-search, tracking, and nose-work games",
+        "Retrieving drills on land and in safe water",
+        "Supervised swimming",
+        "Recall and impulse-control practice in secure spaces",
+        "Calm settling enrichment indoors after active outings",
       ],
     },
     grooming: {
       level:
-        "Moderate. The harsh working coat is practical, but it still needs regular inspection and maintenance, particularly after outdoor work.",
+        "Moderate. The harsh three-layer coat is practical in the field but needs routine brushing and post-outing checks, especially when shedding its summer undercoat.",
       brushing:
-        "Brush and comb regularly to remove debris and loose undercoat, paying attention to the beard, feathering and areas where burrs or vegetation can collect. Increase coat checks after field or woodland outings. The breed's dense undercoat sheds heavily in summer, so more frequent grooming may be needed during that period.",
+        "Brush and comb weekly to lift debris and loose hair, paying close attention to the beard, eyebrows, and leg feathering; increase brushing in summer when the dense undercoat sheds.",
       bathing:
-        "Bathe when genuinely dirty or after exposure to substances that should be washed from the coat. Use a dog-safe shampoo, rinse thoroughly and dry the coat well, especially after swimming or wet-weather work. Avoid excessive bathing that strips the coat unnecessarily.",
+        "Bathe only when soiled using a gentle canine shampoo, rinsing and drying thoroughly after swimming or wet-weather work so the coat keeps its natural weather resistance.",
       notes: [
-        "Inspect the beard and leg feathering after walks for seeds, burrs and tangles.",
-        "Check the coat and skin after hunting or woodland work for ticks, cuts and foreign material.",
-        "Dry the ears and coat after swimming or prolonged wet-weather activity.",
-        "Trim nails as needed and check pads for cracks or injuries.",
-        "Brush teeth regularly with dog-specific toothpaste.",
-        "The standard describes a dense undercoat that is almost completely shed in summer; plan for seasonal coat maintenance.",
+        "Check the beard and leg feathering after walks for burrs, seeds, and tangles.",
+        "Inspect skin and coat after field or woodland runs for ticks, scratches, and plant awns.",
+        "Dry the pendant ears and coat thoroughly after swimming.",
+        "Trim nails regularly and inspect paw pads for cracks or cuts.",
+        "Brush teeth routinely with dog-safe toothpaste.",
+        "Expect heavy undercoat release during summer coat changes.",
       ],
     },
     training: {
       difficulty:
-        "Moderate to demanding for a pet-only home; the breed is described as trainable, but its working drive, stamina and hunting instincts call for consistent handling and meaningful activities.",
+        "Moderate to high for pet-only homes. Eager to work and highly trainable, yet strong hunting instincts and high stamina require consistent handling and structured daily jobs.",
       tips: [
-        "Begin reward-based training, recall and lead manners early.",
-        "Use short, purposeful sessions and build skills gradually around real-world distractions.",
-        "Provide structured scent, search and retrieving activities rather than relying only on free exercise.",
-        "Train a reliable recall before allowing off-lead freedom in unfenced areas.",
-        "Teach calm behaviour and settling as deliberately as active working skills.",
-        "Manage access to wildlife and small animals; a strong hunting response should not be assumed to disappear through obedience training.",
-        "Introduce grooming, ear checks, paw handling and post-outing inspections from puppyhood.",
+        "Begin reward-based training, recall, and lead manners early.",
+        "Keep sessions short, purposeful, and varied around outdoor distractions.",
+        "Channel working drive into structured scent, search, and retrieving tasks.",
+        "Establish reliable recall before allowing off-lead freedom in open terrain.",
+        "Teach calm indoor settling alongside active field skills.",
+        "Manage access to wildlife and small pets carefully given strong prey drive.",
+        "Practice calm handling for grooming, ear checks, and paw inspections from puppyhood.",
       ],
       socialization:
-        "Introduce the puppy positively and progressively to different people, stable dogs, surfaces, sounds, vehicles and outdoor environments. Practise calm behaviour around livestock and wildlife at a safe distance, and supervise all interactions with children and other animals. Socialisation should build confidence without forcing close contact or overwhelming the dog.",
+        "Provide gradual, positive exposure to varied people, calm dogs, surfaces, sounds, and outdoor settings from puppyhood. Practice calm neutrality around livestock and wildlife at a safe distance, and supervise all interactions with children and small animals.",
     },
     livingEnvironment: {
       apartmentSuitable: null,
       houseWithYardSuitable: true,
       climates: [
-        "The dense undercoat and harsh outer coat are described as protective against dampness and suited to demanding outdoor work.",
-        "Provide shade, ventilation and fresh water in hot weather, and avoid strenuous activity during the hottest part of the day.",
-        "In cold or wet conditions, dry the dog after work and check for chill, skin irritation and trapped moisture.",
+        "The dense undercoat and harsh outer hair protect well against cold and damp field conditions.",
+        "Provide shade, ventilation, and fresh water in warm weather, avoiding heavy exertion in peak heat.",
+        "Dry the coat and ears after cold or wet work to prevent chill and skin irritation.",
       ],
-      aloneTimeTolerance:
-        null,
+      aloneTimeTolerance: null,
     },
   },
   nutrition: {
     dietType:
-      "A complete and balanced dog food appropriate to the dog's life stage, body condition, workload and veterinary needs.",
+      "Complete, balanced dog food tailored to life stage, body condition, workload, and veterinary guidance.",
     feedingFrequency: {
       puppy: null,
       adult: null,
       senior: null,
     },
     guidelines:
-      "Adjust food quantity to age, body condition and activity rather than assuming every dog has the same calorie requirement. Working dogs may need different energy intake on demanding days than during rest periods. Measure meals, account for training rewards, provide constant access to clean water and ask a veterinarian to assess body condition and diet when workload changes.",
+      "Adjust meal portions to age, body condition, and daily workload rather than feeding a fixed amount year-round. Active hunting dogs often need higher calorie intake during field seasons than during rest periods. Measure meals, factor in training rewards, and keep clean water available at all times.",
     considerations: [
-      "Match energy intake to actual workload; activity can vary substantially between working and rest days.",
-      "Maintain a lean, fit body condition without underfeeding a growing puppy or active adult.",
-      "Count training treats and food rewards as part of the daily ration.",
-      "Provide water before, during suitable breaks and after exercise, with care taken around strenuous work and feeding routines.",
-      "Discuss any persistent digestive signs, weight changes or supplements with a veterinarian.",
+      "Scale calorie intake to actual workload between active field days and rest days.",
+      "Maintain a lean, muscular body condition without underfeeding growing puppies or working adults.",
+      "Count training treats within total daily food intake.",
+      "Offer water before, during appropriate rest breaks, and after exercise.",
+      "Consult a veterinarian for persistent digestive upset or unexplained weight changes.",
     ],
     note:
-      "The breed standards and breed-club resources reviewed do not establish a universal calorie target or feeding schedule for all Cesky Fouseks.",
+      "No single calorie quota or meal schedule applies to every Cesky Fousek; tailor feeding to the individual dog.",
   },
   health: {
     overview:
-      "Published breed research has identified atypical recurrent flank alopecia (aRFA) as a notable health concern in the Cesky Fousek. A 2022 study examined 216 dogs and reported seasonal, non-inflammatory hair-loss patterns, with a complex genetic contribution suggested by the findings; the specific causal variants were not established. This does not mean every Cesky Fousek will develop the condition, and the study does not provide a simple predictive test. The breed club in North America also collects health information to monitor the population. Ask breeders about family history, skin or coat changes and the health information available for the parents. Routine veterinary care remains important for all dogs.",
+      "Published genomic research has identified atypical recurrent flank alopecia (aRFA)—a seasonal, non-inflammatory hair-loss condition—as a notable concern in the Cesky Fousek. A 2022 study of 216 dogs pointed to a complex polygenic basis without a single predictive DNA test. Not every dog is affected, and North American breed-club programs actively track population health and hip conformation. Prospective owners should review family coat and orthopedic history with breeders and maintain regular veterinary care.",
     commonConditions: [
-      "Atypical recurrent flank alopecia (aRFA): a breed-associated, often seasonal pattern of non-inflammatory hair loss studied in Cesky Fouseks. Its genetic basis appears complex and is not fully resolved.",
+      "Atypical recurrent flank alopecia (aRFA), a breed-associated, often seasonal non-inflammatory hair loss with a complex polygenic basis.",
     ],
     preventiveCare: [
-      "Ask the breeder about aRFA or recurrent seasonal hair loss in the puppy's parents, close relatives and previous litters.",
-      "Request available health records and ask how the breeder participates in breed-club health monitoring.",
-      "Arrange routine veterinary examinations and locally appropriate parasite prevention.",
-      "Check the skin and coat regularly, especially after field work, and seek veterinary advice for persistent or recurring hair loss.",
-      "Maintain a healthy body condition and condition the dog gradually for demanding work.",
-      "Check ears, paws and coat after swimming, hunting or woodland activity.",
+      "Ask breeders about any history of aRFA or seasonal hair loss in the parents, siblings, and prior litters.",
+      "Request documented parental health records and participation in breed-club health tracking.",
+      "Schedule routine veterinary exams and keep vaccinations and parasite prevention current.",
+      "Inspect skin and coat regularly after field work, having recurring or seasonal hair loss evaluated by a veterinarian.",
+      "Maintain a lean body weight and condition the dog gradually for strenuous hunting.",
+      "Check ears, paws, and coat after swimming or woodland runs.",
     ],
     recommendedScreenings: [
-      "Discuss hip evaluation with the breeder and veterinarian; the Cesky Fousek North America breeding programme states that dogs considered for breeding undergo PennHIP evaluation.",
-      "Ask whether the breeder has documented aRFA history in the family and participates in the breed-club health survey.",
-      "No validated, universally recommended genetic screening test for aRFA was established by the study reviewed; do not treat a research association as a clinical diagnostic test.",
+      "Hip evaluation (such as PennHIP evaluation used in North American breed-club breeding programs).",
+      "Review of family history and breed-club health survey records for atypical recurrent flank alopecia (aRFA), as no single clinical DNA test is yet established.",
     ],
     dentalCare:
-      "Brush the teeth regularly with dog-specific toothpaste and arrange veterinary dental checks as advised. Do not use human toothpaste.",
+      "Brush teeth regularly with dog-safe toothpaste and schedule routine veterinary dental checks.",
     earCare:
-      "The ears are pendant and should be checked routinely, especially after swimming or work in wet vegetation. Keep them dry and seek veterinary advice for persistent redness, odour, discharge, head-shaking or discomfort.",
+      "Inspect the hanging ears routinely—especially after swimming or working in wet cover—keeping them dry and seeking veterinary care for redness, odour, or head shaking.",
     skinCare:
-      "Inspect the skin during regular grooming for ticks, wounds, irritation and recurring areas of hair loss. Seasonal or persistent coat loss should be assessed by a veterinarian rather than assumed to be aRFA, since other skin and endocrine conditions can look similar.",
+      "Check skin during brushing for ticks, scrapes, irritation, or seasonal hair thinning. Have any patchy coat loss examined by a veterinarian to rule out endocrine or infectious causes.",
   },
   suitability: {
     firstTimeOwners: null,
@@ -219,68 +222,67 @@ export const cesky_fousek: Breed = {
     activeOwners: true,
     apartmentLiving: null,
     idealFor: [
-      "Experienced owners who enjoy training and outdoor activities",
-      "People who can provide sustained daily exercise and mental work",
-      "Hunting households seeking a versatile pointing dog for field, woodland and water",
-      "Owners interested in scent work, retrieving and gundog activities",
-      "Homes able to provide companionship, structure and regular coat and health checks",
+      "Experienced, outdoors-oriented owners who enjoy daily training and field work",
+      "Households able to provide vigorous daily exercise and mental tasks",
+      "Hunters seeking a versatile pointer and retriever for field, forest, and water",
+      "Handlers interested in scent work, tracking, or versatile gundog tests",
+      "Families ready to provide close companionship and routine coat care",
     ],
     notIdealFor: [
-      "Households seeking a low-energy or mostly sedentary companion",
-      "Owners unable to provide purposeful activity and consistent training",
-      "Homes that cannot safely manage strong interest in wildlife and small animals",
-      "People who expect the dog to exercise itself in a yard without interaction",
-      "Households wanting a breed with a well-established, simple health-screening profile and no known breed-specific research concerns",
+      "Sedentary households wanting a low-energy companion",
+      "Owners unable to commit daily time to structured exercise and training",
+      "Homes where strong prey drive toward wildlife or small animals cannot be managed",
+      "People expecting a dog to entertain itself alone in a backyard",
     ],
   },
   funFacts: [
-    "The FCI lists the Cesky Fousek as breed number 245.",
-    "The breed's name is commonly rendered in English as Bohemian Wire-Haired Pointing Griffon.",
-    "Its coat has three distinct hair types: undercoat, topcoat and guard hair.",
-    "The beard is formed by longer, softer hair on the lower jaw and lips.",
-    "The breed standard describes the dog as a versatile worker in fields, woodland and water.",
-    "A 2022 study investigated atypical recurrent flank alopecia using data from 216 Cesky Fouseks.",
+    "In English, the breed is also known as the Bohemian Wire-Haired Pointing Griffon.",
+    "Its weatherproof coat combines three distinct hair layers: a soft winter undercoat, a harsh topcoat, and wiry guard hairs.",
+    "Longer, softer hair around the lips and lower jaw forms its trademark beard beneath upward-tilted eyebrows.",
+    "Partially webbed, spoon-shaped feet help it swim and retrieve in cold water.",
+    "Nearly wiped out after the First World War, the breed was rebuilt in the 1920s from surviving working dogs in Czechia and Slovakia.",
+    "A 2022 genomic study analyzed 216 Cesky Fouseks to investigate seasonal atypical recurrent flank alopecia.",
   ],
   faq: [
     {
       question: "Where does the Cesky Fousek come from?",
       answer:
-        "The Cesky Fousek originates in the Czech Republic. It was historically common in the area of present-day Czechia and Slovakia before the First World War and was later restored through planned breeding.",
+        "It originates in the Czech Republic, where it was historically the most widely kept wire-haired pointing dog across present-day Czechia and Slovakia before being restored after the First World War.",
     },
     {
       question: "What was the Cesky Fousek bred to do?",
       answer:
-        "It was developed as a versatile pointing and hunting dog for work in fields, woodland and water. The FCI classifies it among continental pointing dogs and requires a working trial for the breed.",
+        "It was bred as a versatile continental pointing and retrieving gundog capable of working across open fields, dense woodland, and water.",
     },
     {
       question: "How tall is a Cesky Fousek?",
       answer:
-        "The FCI standard gives a height of 60 to 66 cm for dogs and 58 to 62 cm for bitches, measured at the withers.",
+        "Adult males measure 60 to 66 cm at the withers and adult females measure 58 to 62 cm.",
     },
     {
       question: "How much does a Cesky Fousek weigh?",
       answer:
-        "The FCI standard gives 28 to 34 kg for dogs and 22 to 28 kg for bitches.",
+        "Adult males weigh 28 to 34 kg and adult females weigh 22 to 28 kg.",
     },
     {
       question: "What coat colours are accepted?",
       answer:
-        "The accepted colours are dark roan with or without brown patches, brown with ticked markings on the forechest and lower limbs, and brown without markings.",
+        "Accepted colours are dark roan (with or without brown patches), brown with ticked markings on the forechest and lower legs, and solid brown without markings.",
     },
     {
       question: "Does the Cesky Fousek need a lot of exercise?",
       answer:
-        "Yes. It is a high-stamina working pointer bred for varied outdoor tasks. It needs regular purposeful exercise and mental work such as scent activities, retrieving and gundog training. A universal daily minute target is not established by the breed sources reviewed.",
+        "Yes. As a high-stamina working pointer, it needs vigorous daily exercise plus purposeful mental work such as scent games, retrieving, or field training.",
     },
     {
       question: "Does the Cesky Fousek have any known health concerns?",
       answer:
-        "Research has identified atypical recurrent flank alopecia, a seasonal pattern of hair loss, as a breed-associated concern. Its genetic basis appears complex and is not fully understood. Ask breeders about family history and discuss recurring coat changes with a veterinarian.",
+        "Research highlights atypical recurrent flank alopecia (aRFA), a seasonal non-inflammatory hair-loss condition with a complex genetic basis. Ask breeders about family coat history and hip evaluations.",
     },
     {
       question: "Is the Cesky Fousek suitable for apartment living?",
       answer:
-        "A reliable breed-specific rating for apartment living was not established in the sources reviewed. Its high activity needs mean that any home must be able to provide substantial daily exercise, training and enrichment.",
+        "No universal apartment rating is established, but its high stamina and working drive mean any home must provide substantial daily outdoor exercise, training, and mental stimulation.",
     },
   ],
   references: [
@@ -291,6 +293,7 @@ export const cesky_fousek: Breed = {
     "cfna-cesky-fousek-health-monitoring",
     "neradilova-2022-cesky-fousek-flank-alopecia",
     "commons-cesky-fousek-flickr-photo",
+    "the-dog-api",
   ],
   evidence: {
     scientificName: {
@@ -304,41 +307,44 @@ export const cesky_fousek: Breed = {
       sources: [
         { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "Breed title and recognised alternative English name" },
         { id: "fci-cesky-fousek-nomenclature-245", role: "verified", locator: "Breed nomenclature and language names" },
+        { id: "the-dog-api", role: "cited", locator: "breed.alt_names" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Includes the Czech name and standard English or French names shown by the breed registries.",
+      verifiedOn: "2026-11-16",
+      note: "Includes the Czech name and English/French names from official nomenclature and The Dog API.",
     },
     group: {
       reliability: "official_standard",
       sources: [
-        { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "FCI classification" },
+        { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "FCI classification: Group 7, Section 1.3" },
       ],
-      verifiedOn: "2026-11-03",
-      note: null,
+      verifiedOn: "2026-11-16",
+      note: "Follows FCI classification; The Dog API lists Sporting.",
     },
     origin: {
       reliability: "official_standard",
       sources: [
         { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "Origin" },
         { id: "fci-cesky-fousek-nomenclature-245", role: "verified", locator: "Country of origin" },
+        { id: "the-dog-api", role: "cited", locator: "breed.origin" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "The current country of origin is recorded as the Czech Republic; the standard notes the former Czechoslovak context.",
+      verifiedOn: "2026-11-16",
+      note: "The country of origin is the Czech Republic (historically Czechoslovakia).",
     },
     "origin.region": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "The official standard identifies the country but does not establish a narrower region of origin.",
+      note: "The official standard identifies the country without specifying a narrower region.",
     },
     overview: {
       reliability: "official_standard",
       sources: [
         { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "General appearance, utilization and brief historical summary" },
         { id: "fci-cesky-fousek-nomenclature-245", role: "verified", locator: "Breed status, group and country of origin" },
+        { id: "the-dog-api", role: "cited", locator: "breed.description and breed.history" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Descriptions are original summaries of the breed standard and official registry information.",
+      verifiedOn: "2026-11-16",
+      note: "All user-facing prose is newly written original wording summarizing official standards.",
     },
     "overview.history": {
       reliability: "official_standard",
@@ -346,30 +352,32 @@ export const cesky_fousek: Breed = {
         { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "Brief historical summary" },
         { id: "ukc-cesky-fousek-standard", role: "cited", locator: "History" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Historical account is limited to details stated by the breed standards.",
+      verifiedOn: "2026-11-16",
+      note: "Historical account follows post-WWI 1920s regeneration documented in FCI Standard No. 245 and 1963 FCI recognition.",
     },
     physical: {
       reliability: "official_standard",
       sources: [
-        { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "General appearance, coat, colour, size and weight" },
+        { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "General appearance, coat, colour, size (60–66 cm male, 58–62 cm female) and weight (28–34 kg male, 22–28 kg female)" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Breed-standard physical characteristics and measurements.",
+      verifiedOn: "2026-11-16",
+      note: "Height and weight follow FCI Standard No. 245 (note: The Dog API lists female minimum height as 57 cm rather than 58 cm; official FCI 58–62 cm is retained). Coat colours follow the FCI standard rather than The Dog API's species-wide colour list.",
     },
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "No reliable breed-specific lifespan range was established in the sources reviewed.",
+      reliability: "reliable_source",
+      sources: [
+        { id: "the-dog-api", role: "verified", locator: "breed.life_span (12–15 years)" },
+      ],
+      verifiedOn: "2026-11-16",
+      note: "FCI Standard No. 245 does not publish a lifespan; 12–15 years is sourced from The Dog API.",
     },
     "physical.sheddingLevel": {
       reliability: "official_standard",
       sources: [
-        { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "Coat, undercoat description" },
+        { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "Coat, undercoat description (almost completely shed in summer)" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Seasonal undercoat shedding is explicitly described in the standard; overall shedding intensity is not quantified.",
+      verifiedOn: "2026-11-16",
+      note: "Summer undercoat shedding is explicitly described in the FCI standard.",
     },
     "physical.droolingLevel": {
       reliability: "unavailable",
@@ -382,9 +390,10 @@ export const cesky_fousek: Breed = {
       sources: [
         { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "General appearance and working characteristics" },
         { id: "ukc-cesky-fousek-standard", role: "verified", locator: "Characteristics" },
+        { id: "the-dog-api", role: "cited", locator: "breed.temperament" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Breed-level working temperament; individual behaviour varies with genetics, training and experience.",
+      verifiedOn: "2026-11-16",
+      note: "Breed-level working temperament; individual behaviour varies.",
     },
     "temperament.scores": {
       reliability: "estimate",
@@ -393,7 +402,7 @@ export const cesky_fousek: Breed = {
         { id: "ukc-cesky-fousek-standard", role: "cited", locator: "Characteristics" },
       ],
       verifiedOn: null,
-      note: "Scores are editorial 1–5 estimates, not validated behavioural measurements. Unknown dimensions remain null.",
+      note: "Editorial 1–5 estimates, not validated behavioural measurements; unsupported dimensions remain null.",
     },
     "temperament.scores.withChildren": {
       reliability: "unavailable",
@@ -429,7 +438,7 @@ export const cesky_fousek: Breed = {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Care recommendations combine the breed's documented working characteristics with general responsible dog-care guidance.",
+      note: "Care recommendations combine documented working traits with general dog-care guidance.",
     },
     "care.exercise": {
       reliability: "reliable_source",
@@ -437,8 +446,8 @@ export const cesky_fousek: Breed = {
         { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "Utilization and field, water and woodland working abilities" },
         { id: "cfna-cesky-fousek-health-monitoring", role: "cited", locator: "Working tests and breeding programme" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "High activity needs are inferred from the breed's stated working purpose and abilities; no universal daily duration is asserted.",
+      verifiedOn: "2026-11-16",
+      note: "High activity needs inferred from stated working purpose.",
     },
     "care.exercise.minutesPerDay": {
       reliability: "unavailable",
@@ -451,8 +460,8 @@ export const cesky_fousek: Breed = {
       sources: [
         { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "Coat structure and seasonal undercoat shedding" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Grooming advice is tailored to the documented three-part coat; frequency recommendations are practical care guidance.",
+      verifiedOn: "2026-11-16",
+      note: "Grooming advice tailored to the documented three-part coat.",
     },
     "care.training": {
       reliability: "reliable_source",
@@ -460,20 +469,20 @@ export const cesky_fousek: Breed = {
         { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "Trainability and pointing-dog working purpose" },
         { id: "ukc-cesky-fousek-standard", role: "verified", locator: "Characteristics and working-dog description" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Training advice reflects the breed's working instincts; individual training outcomes vary.",
+      verifiedOn: "2026-11-16",
+      note: "Training advice reflects working instincts and biddability.",
     },
     "care.livingEnvironment": {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "Housing suitability depends on the dog's activity needs, routine and individual behaviour.",
+      note: "Housing suitability depends on activity provision and routine.",
     },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable breed-specific source establishes apartment suitability as a universal yes-or-no rating.",
+      note: "No reliable breed-specific source establishes a binary apartment-suitability rating.",
     },
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "estimate",
@@ -481,7 +490,7 @@ export const cesky_fousek: Breed = {
         { id: "fci-cesky-fousek-standard-245", role: "cited", locator: "Working-dog activity and outdoor purpose" },
       ],
       verifiedOn: null,
-      note: "A secure yard can be useful for an active dog but does not replace daily exercise, training or supervision.",
+      note: "A secure yard is useful for an active dog but does not replace daily exercise.",
     },
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "unavailable",
@@ -493,7 +502,7 @@ export const cesky_fousek: Breed = {
       reliability: "general_guidance",
       sources: [],
       verifiedOn: null,
-      note: "General canine nutrition guidance; no breed-specific calorie target or feeding schedule is asserted.",
+      note: "General canine nutrition guidance; no breed-specific calorie quota asserted.",
     },
     "nutrition.feedingFrequency.puppy": {
       reliability: "unavailable",
@@ -519,16 +528,16 @@ export const cesky_fousek: Breed = {
         { id: "neradilova-2022-cesky-fousek-flank-alopecia", role: "verified", locator: "Abstract, results and conclusions: atypical recurrent flank alopecia in the Cesky Fousek" },
         { id: "cfna-cesky-fousek-health-survey", role: "cited", locator: "Breed health survey and monitoring rationale" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Health information is limited to a published breed-specific research finding and the breed club's monitoring programme; it is not a complete disease-prevalence profile.",
+      verifiedOn: "2026-11-16",
+      note: "Reflects published breed-specific aRFA research and breed-club monitoring.",
     },
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         { id: "neradilova-2022-cesky-fousek-flank-alopecia", role: "verified", locator: "Abstract and conclusions: atypical recurrent flank alopecia" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "aRFA is a documented breed-associated research concern, not a claim that all dogs are affected or that prevalence is known for every population.",
+      verifiedOn: "2026-11-16",
+      note: "aRFA is a documented breed-associated research concern with a polygenic basis.",
     },
     "health.recommendedScreenings": {
       reliability: "reliable_source",
@@ -537,8 +546,8 @@ export const cesky_fousek: Breed = {
         { id: "cfna-cesky-fousek-health-survey", role: "verified", locator: "Health survey categories and monitoring programme" },
         { id: "neradilova-2022-cesky-fousek-flank-alopecia", role: "verified", locator: "Discussion of aRFA research limitations and genetic uncertainty" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "PennHIP is described as part of the CFNA breeding programme, not as a universal requirement in every country. aRFA family-history discussion is not a validated screening test.",
+      verifiedOn: "2026-11-16",
+      note: "PennHIP is used in the CFNA breeding program; aRFA is tracked via family history.",
     },
     "health.preventiveCare": {
       reliability: "general_guidance",
@@ -563,8 +572,8 @@ export const cesky_fousek: Breed = {
       sources: [
         { id: "neradilova-2022-cesky-fousek-flank-alopecia", role: "verified", locator: "Clinical description of seasonal hair-loss patterns" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Advice to investigate recurrent hair loss reflects the published breed-specific aRFA research; other causes must be ruled out by a veterinarian.",
+      verifiedOn: "2026-11-16",
+      note: "Advice to evaluate recurrent hair loss reflects published aRFA research.",
     },
     suitability: {
       reliability: "estimate",
@@ -573,7 +582,7 @@ export const cesky_fousek: Breed = {
         { id: "cfna-cesky-fousek-health-monitoring", role: "cited", locator: "Working tests and breeding programme" },
       ],
       verifiedOn: null,
-      note: "Household-fit guidance is an editorial assessment based on the documented working purpose and activity needs, not a validated suitability test.",
+      note: "Editorial household-fit assessment based on working purpose and stamina.",
     },
     "suitability.firstTimeOwners": {
       reliability: "unavailable",
@@ -585,7 +594,7 @@ export const cesky_fousek: Breed = {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable source establishes a universal suitability rating for families with children.",
+      note: "No reliable source establishes a universal family-with-children rating.",
     },
     "suitability.seniorOwners": {
       reliability: "unavailable",
@@ -599,22 +608,22 @@ export const cesky_fousek: Breed = {
         { id: "fci-cesky-fousek-standard-245", role: "cited", locator: "Versatile working and pointing-dog purpose" },
       ],
       verifiedOn: null,
-      note: "Editorial fit assessment based on the breed's documented working role and stamina.",
+      note: "Editorial fit assessment based on working role and stamina.",
     },
     "suitability.apartmentLiving": {
       reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note: "No reliable source establishes a universal apartment-living suitability rating.",
+      note: "No reliable source establishes a universal apartment-living rating.",
     },
     funFacts: {
       reliability: "official_standard",
       sources: [
-        { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "FCI breed number, coat, history and utilization" },
+        { id: "fci-cesky-fousek-standard-245", role: "verified", locator: "Coat, history, feet and utilization" },
         { id: "neradilova-2022-cesky-fousek-flank-alopecia", role: "verified", locator: "Study population and research findings" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Facts are drawn from the official standard and published research.",
+      verifiedOn: "2026-11-16",
+      note: "Facts written in original wording from the official standard and published research.",
     },
     faq: {
       reliability: "official_standard",
@@ -623,9 +632,9 @@ export const cesky_fousek: Breed = {
         { id: "fci-cesky-fousek-nomenclature-245", role: "verified", locator: "Breed classification and origin" },
         { id: "neradilova-2022-cesky-fousek-flank-alopecia", role: "verified", locator: "aRFA findings" },
       ],
-      verifiedOn: "2026-11-03",
-      note: "Answers summarise verified breed-standard facts and published health research; care recommendations are qualified where evidence is limited.",
+      verifiedOn: "2026-11-16",
+      note: "Original answers summarizing verified breed-standard facts and published health research.",
     },
   },
-  updatedOn: "2026-11-03",
+  updatedOn: "2026-11-16",
 };

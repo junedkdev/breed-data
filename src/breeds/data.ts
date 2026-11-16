@@ -194,6 +194,12 @@ import { cane_corso } from "./cane_corso";
 import { lagotto_romagnolo } from "./lagotto_romagnolo";
 import { slovakian_rough_haired_pointer } from "./slovakian_rough_haired_pointer";
 import { thai_bangkaew_dog } from "./thai_bangkaew_dog";
+import { shih_tzu } from "./shih_tzu";
+import { perro_de_presa_canario } from "./perro_de_presa_canario";
+import { belgian_shepherd_dog_tervuren } from "./belgian_shepherd_dog_tervuren";
+import { pekingese } from "./pekingese";
+import { affenpinscher } from "./affenpinscher";
+import { dachshund } from "./dachshund";
 
 
 export const breedData: readonly Breed[] = [
@@ -387,4 +393,10 @@ export const breedData: readonly Breed[] = [
   lagotto_romagnolo,
   slovakian_rough_haired_pointer,
   thai_bangkaew_dog,
+  shih_tzu,
+  perro_de_presa_canario,
+  belgian_shepherd_dog_tervuren,
+  pekingese,
+  affenpinscher,
+  dachshund,
 ];

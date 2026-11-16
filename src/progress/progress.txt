@@ -121,12 +121,13 @@
 118:berger_picard - CG
 119:podenco_canario - CG
 120:sussex_spaniel - CG
+121:cesky_fousek - CG
+122:bull_terrier_(miniature) - CG
+123:akita_inu - CG
+124:schweizerischer_niederlaufhund - CG
 
-121:cesky_fousek - C
-122:bull_terrier_(miniature) - C
-123:akita_inu - C
-124:schweizerischer_niederlaufhund - C
-125:boxer - C
+125:boxer - CR
+
 126:pug - C
 127:segugio_italiano_a_pelo_forte - C
 128:kuvasz - C
@@ -191,14 +192,13 @@
 187:lagotto_romagnolo - C
 188:slovakian_rough-haired_pointer - C
 189:thai_bangkaew_dog - C
+190:shih_tzu - C
+191:perro_de_presa_canario - C
+192:belgian_shepherd_dog_(tervuren) - C
+193:pekingese - C
+194:affenpinscher - C
+195:dachshund - C
 
-190:shih_tzu - R
-
-191:perro_de_presa_canario
-192:belgian_shepherd_dog_(tervuren)
-193:pekingese
-194:affenpinscher
-195:dachshund
 196:standard_schnauzer
 197:boston_terrier
 198:saarlooswolfhond
