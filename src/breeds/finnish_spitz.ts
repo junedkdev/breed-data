@@ -12,17 +12,16 @@ export const finnish_spitz: Breed = {
     "Finnish Barking Bird Dog",
     "Barking Bird Dog",
     "Spitz Finlandais",
-    "Finnischer Spitz",
+    "Finnen-Spitz",
     "Spitz Finlandés"
   ],
 
   group:
-    "Spitz and Primitive Types; Section 2 — Nordic Hunting Dogs (subject to a working trial for Nordic countries; also classified in the Non-Sporting, Hound, and Northern Breed groups)",
+    "Spitz and Primitive Types; Section 2: Nordic Hunting Dogs (Non-Sporting or Hound group in some registries)",
 
   origin: {
     country: "Finland",
-    region:
-      "Central and Northern Finland (historically developed from ancient aboriginal spitz types of the Fennoscandian boreal forests)"
+    region: null
   },
 
   images: [
@@ -30,8 +29,7 @@ export const finnish_spitz: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Finnish_Spitz.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Finnish_Spitz.jpg",
       title: "Finnish Spitz.jpg",
-      description:
-        "An adult Finnish Spitz standing outdoors at the World Dog Show 2006 in Poznań.",
+      description: "An adult Finnish Spitz photographed at the 2006 World Dog Show in Poznań.",
       creator: "PrzemekL",
       uploader: "PrzemekL",
       capturedOn: "2006-11-09",
@@ -39,8 +37,7 @@ export const finnish_spitz: Breed = {
       width: 2048,
       height: 1536,
       licenseId: "public-domain",
-      attribution:
-        "Photo by PrzemekL, Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:Finnish_Spitz.jpg.",
+      attribution: "Photo by PrzemekL, Wikimedia Commons, public domain.",
       restrictions: null,
       metadataCheckedOn: "2026-11-08"
     },
@@ -49,8 +46,7 @@ export const finnish_spitz: Breed = {
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Finnish_Spitz_-_GCH_Dv9k9%27s_Red_Hot_Star_aka_Rocket_2_(16576435166).jpg",
       title: "Finnish Spitz - GCH Dv9k9's Red Hot Star aka Rocket 2 (16576435166).jpg",
-      description:
-        "Finnish Spitz GCH Dv9k9's Red Hot Star at the Westminster Kennel Club Dog Show 2015.",
+      description: "A Finnish Spitz show champion photographed in February 2015.",
       creator: "Pets Adviser",
       uploader: "Томасина",
       capturedOn: "2015-02-16",
@@ -58,8 +54,7 @@ export const finnish_spitz: Breed = {
       width: 3008,
       height: 2000,
       licenseId: "cc-by-2.0",
-      attribution:
-        "Photo by Pets Adviser, Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Finnish_Spitz_-_GCH_Dv9k9%27s_Red_Hot_Star_aka_Rocket_2_(16576435166).jpg. License: https://creativecommons.org/licenses/by/2.0/.",
+      attribution: "Photo by Pets Adviser, Wikimedia Commons, CC BY 2.0. Changes, if any, must be indicated.",
       restrictions: null,
       metadataCheckedOn: "2026-11-08"
     }
@@ -67,22 +62,22 @@ export const finnish_spitz: Breed = {
 
   overview: {
     summary:
-      "An ancient, fox-like Nordic spitz renowned as the national dog of Finland, celebrated for its square athletic build, glowing red-gold stand-off double coat, lively intelligence, and unique rhythmic barking style used to indicate treed game birds.",
+      "Finland's national dog: a square, fox-like red spitz bred to find forest birds and hold them in place by barking, lively and brave in the field and friendly at home.",
 
     description:
-      "The Finnish Spitz is a smaller than medium-sized, square-profiled Nordic hunting dog that presents a striking, fox-like appearance. Lean, firm, and proud in posture, the dog carries itself with effortless dignity and agile coordination. Its dense stand-off double coat glows with bright golden-red or reddish-brown coloration, complemented by a soft, lighter undercoat, a pronounced neck ruff in males, and a plumed tail that arches vigorously forward and downward to rest firmly against the thigh. The head is cleanly chiseled with a clean scissor bite, dark almond-shaped eyes that express eager intelligence, and sharply pointed, erect ears that swivel constantly to register woodland sounds. In the home, it is a clean, affectionate, and cheerful family companion, while in the forest it acts as an impassioned, fearless hunter with an explosive gallop and an extraordinary vocal capacity.",
+      "The Finnish Spitz is a square-built Nordic hunting dog whose body is as long as it is tall, with a chest reaching just under half its height. Its fox-like head carries small, pointed, very mobile ears that stand erect, dark almond-shaped eyes with a bright, alert look, and a small jet-black nose. The stand-off coat is bright red or golden red over the back, paler on the cheeks, chest, belly and inner legs, with a short, soft, light-coloured undercoat; the hair is stiffer and longer over the neck and shoulders, most noticeably in males. A plumed tail curls forward over the back and drops against the thigh. In the forest it works independently, locating game and announcing it with persistent barking. At home it is lively, energetic and sociable with its family, a little reserved with strangers but never vicious, and quick to learn, though its independent streak calls for consistent training.",
 
     history:
-      "The ancestors of the Finnish Spitz accompanied Finno-Ugric tribes as they migrated into Fennoscandia several thousand years ago, serving as versatile aboriginal hunting and camp dogs across the taiga. By the late nineteenth century, cross-breeding with imported foreign dogs threatened the purity of the native landrace. Foreseeing the extinction of this ancient hunting partner, Finnish sportsmen Hugo Roos and Hugo Sandberg embarked on expeditions into northern forests to locate pure-blooded native specimens, establishing a studbook and standard in 1892. Originally called the Finnish Barking Bird Dog, the name was refined to Suomenpystykorva in 1897. In 1979, the breed was officially declared the National Dog of Finland, cementing its status as a living cultural treasure. Over the twentieth century, it gained international admiration as both a specialized bird dog and an engaging family pet.",
+      "Dogs of this type were used for hunting all kinds of game throughout Finland for hundreds of years. When the Finnish kennel club was founded in 1889, the forester Hugo Sandberg wrote a description of the native barking bird dog and proposed its breed characteristics, while fellow forester Hugo Roos set about breeding the dogs and testing their hunting ability in Lapland and Kainuu. The first breed standard and the first show for the breed followed in 1892, with a revised standard and the name Finnish Spitz adopted in 1897, the same year as the first bird-hunting trial. The breed was declared Finland's national dog in 1979. In 2006 the Finnish and Russian kennel organisations agreed to treat the Karelian-Finnish Laika and the Finnish Spitz as one breed under a shared standard.",
 
     originalPurpose:
-      "Trailing, baying, and bark-pointing forest game birds (especially capercaillie and black grouse) up in trees, as well as tracking small fur-bearing animals, elk, and bear across dense boreal woods.",
+      "Hunting forest game birds by locating them and marking their position with barking; also used on small predators, waterfowl, elk and even bear.",
 
     currentRoles: [
-      "Traditional bark-pointing hunting dog for forest game birds",
-      "Devoted household companion and family pet",
-      "Watchful household watchdog",
-      "Canine athlete in agility, tracking, obedience, and rally trials"
+      "Hunting dog for forest birds and elk",
+      "Competitor in bird- and elk-barking trials",
+      "Family and hobby dog",
+      "Rally, agility and nose-work competitor"
     ]
   },
 
@@ -104,12 +99,12 @@ export const finnish_spitz: Breed = {
     weight: {
       unit: "kg",
       male: {
-        min: 14,
+        min: 15,
         max: 17
       },
       female: {
         min: 10,
-        max: 13
+        max: 12
       }
     },
 
@@ -119,61 +114,52 @@ export const finnish_spitz: Breed = {
     },
 
     coatType:
-      "Stand-off double coat consisting of a short, soft, dense, and light-coloured undercoat beneath a straight, harsh, semi- or fully erect outer coat; stiffer and longer on the neck, shoulders, and back, forming a noticeable ruff in males and full feathering on the rear of the thighs and tail plume.",
+      "Stand-off double coat: a short, soft, dense, light-coloured undercoat under straight guard hair that stands semi or fully off the body; stiffer on the neck, shoulders and back, with long, dense hair on the trousers and tail",
 
-    coatLength: "Medium",
+    coatLength:
+      "Moderately long on the body, short and close on the head and legs, longest on the shoulders of males, the trousers and the tail",
 
-    coatColors: [
-      "Red-gold (shades of bright golden-red on the back)",
-      "Reddish brown (rich, bright red-brown on the back)",
-      "Paler shading (cream or pale golden tones on inner ears, cheeks, throat, chest, abdomen, inner limbs, back of thighs, and tail plume)",
-      "A narrow white stripe on the chest (up to 1.5 cm wide) and white tips on the toes are permissible"
-    ],
+    coatColors: ["Bright red", "Golden red"],
 
-    sheddingLevel:
-      "Moderate year-round shedding with heavy seasonal coat blowing twice a year in spring and autumn",
+    sheddingLevel: "Moderate, with heavier seasonal sheds of the undercoat",
 
-    droolingLevel:
-      "Low; the lips are thin, tight, and cleanly fitting with black pigmentation",
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Almost square body outline where body length equals the height at the withers",
-      "Height at the withers of 44 to 50 cm for males and 39 to 45 cm for females, with ideal measurements of 47 cm and 42 cm respectively",
-      "Body weight of 14 to 17 kg for males and 10 to 13 kg for females in athletic condition",
-      "Fox-like, wedge-shaped head with a three-to-four muzzle-to-skull length ratio and a clearly marked stop",
-      "Jet-black, rather small nose and cleanly fitting black lips",
-      "Complete, regular scissor bite with 42 well-developed teeth",
-      "Medium-sized, almond-shaped, slightly oblique dark eyes with an alert, lively expression and black rims",
-      "Small, sharply pointed, erect ears set high and remarkably mobile",
-      "Plumed tail curving vigorously in an arch from its root forward, downward, and backward to press against the thigh",
-      "Gleaming stand-off double coat in shades of red-gold or reddish brown with lighter ventral furnishings",
-      "Chest depth slightly less than half of height at the withers, with a slightly tucked-up belly",
-      "Light, springy, and effortless ground-covering trot that easily converts into an explosive hunting gallop"
+      "Square body: length equals height at the withers",
+      "Ideal height 47 cm for males and 42 cm for females",
+      "Muzzle about three-quarters the length of the skull",
+      "Small, pointed, erect ears that are very mobile",
+      "Medium, almond-shaped, slightly slanting eyes, preferably dark",
+      "Jet-black nose and black foot pads",
+      "Full set of 42 teeth in a scissor bite",
+      "Tail curving forward over the back and pressing down against the thigh, with the tip reaching mid-thigh",
+      "Lighter shading inside the ears and on the cheeks, chest, belly, inner legs, back of the thighs and tail",
+      "A small white spot on the chest and small white marks on the feet are allowed",
+      "Puppies may carry more black hairs, which fade as they mature"
     ]
   },
 
   temperament: {
     traits: [
-      "Lively, spirited, and energetic",
-      "Affectionate, loyal, and friendly with family members",
-      "Keenly intelligent with an independent, thinking mind",
-      "Alert, vigilant, and naturally observant watchdog",
-      "Courageous and determined in pursuing tasks",
-      "Polite yet reserved toward strangers without timidity or aggression",
-      "Gentle and patient with familiar children",
-      "Naturally vocal and communicative, possessing a musical hunting bark",
-      "Sensitive to handler emotions and household tone",
-      "Strong hunting instinct with high curiosity toward birds and small wildlife"
+      "Lively and energetic",
+      "Brave and persistent",
+      "Sociable and friendly with its family",
+      "A little reserved with strangers but never vicious",
+      "Intelligent and quick to learn",
+      "Independent minded",
+      "Strong drive to hunt",
+      "Naturally vocal"
     ],
 
     scores: {
       affection: 4,
       withChildren: 4,
       withDogs: 3,
-      withStrangers: 2,
+      withStrangers: 3,
       protectiveness: 3,
       independence: 4,
-      trainability: 4,
+      trainability: 3,
       barking: 5,
       energy: 4
     }
@@ -182,20 +168,19 @@ export const finnish_spitz: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate to high; requires daily physical exercise and regular mental stimulation through scent tracking, play, and exploration",
+        "High. A hunting breed that needs plenty of daily exercise plus tasks that use its nose and brain.",
 
       minutesPerDay: {
-        min: 45,
-        max: 60
+        min: 60,
+        max: 90
       },
 
       activities: [
-        "Daily brisk neighborhood walks and woodland trail hikes on a secure leash",
-        "Interactive fetch and fetch-retrieval games in a securely fenced yard",
-        "Structured scent tracking and search enrichment games",
-        "Canine sports including agility, rally, and trick dog training",
-        "Outdoor exploration and cold-weather hiking once skeletally mature",
-        "Problem-solving cognitive toys and food puzzle challenges"
+        "Long daily walks or forest hikes on a lead",
+        "Off-lead running only in securely fenced areas",
+        "Nose work and tracking games",
+        "Rally and agility",
+        "Hunting or barking trials where available"
       ]
     },
 
@@ -203,36 +188,33 @@ export const finnish_spitz: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush once or twice weekly using a slicker brush and metal pin comb to lift loose hair and keep the stand-off coat clean; increase to daily brushing during seasonal undercoat shedding in spring and autumn.",
+        "Brush once or twice a week, and daily while the undercoat is shedding, using a slicker brush and a comb or undercoat rake.",
 
       bathing:
-        "Bathe only occasionally when muddy or soiled, as the harsh double coat is naturally clean, odorless, and dirt-repellent.",
+        "Only occasionally, when the dog is dirty; the harsh outer coat sheds dirt well once dry.",
 
       notes: [
-        "Never shave or clip the double coat; the outer guard hairs and soft undercoat provide critical thermal insulation against winter freezing and summer heat.",
-        "Use an undercoat rake during spring shedding to remove compacted dead underfur without damaging the outer guard hairs.",
-        "Inspect the small erect ears weekly for dust, wax, or foreign matter, wiping the outer leather gently.",
-        "Trim strong, fast-growing nails every two to three weeks to maintain compact, cat-like foot posture.",
-        "Brush teeth multiple times weekly using dog-safe enzymatic toothpaste.",
-        "The coat has no strong doggy odor and sheds dried dirt naturally once brushed."
+        "Do not shave or clip the double coat.",
+        "Show dogs are not trimmed apart from tidying the feet.",
+        "Trim nails every few weeks if they do not wear down naturally.",
+        "Check the ears and feet for dirt, ticks and grass seeds after outdoor trips."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; highly intelligent, alert, and eager to learn, but possesses an independent streak and will shut down if subjected to harsh handling or repetitive drills",
+        "Moderate. Learns quickly but thinks for itself, so training needs patience and consistency.",
 
       tips: [
-        "Use positive reinforcement, praise, and small high-value treats.",
-        "Keep sessions brief, cheerful, and fast-paced (5 to 10 minutes) to prevent boredom.",
-        "Teach a reliable quiet cue from early puppyhood to manage natural watchdog barking instincts.",
-        "Acknowledge its independent decision-making nature and build voluntary cooperation through mutual respect.",
-        "Avoid harsh verbal corrections or forceful methods, which cause this sensitive spitz to lose trust.",
-        "Always exercise within a securely fenced yard or on a leash, as its hunting drive can trigger sudden pursuit of birds or squirrels."
+        "Use rewards, play and praise rather than force.",
+        "Keep sessions short and varied.",
+        "Start barking management early; the breed was selected to bark.",
+        "Practise recall in safe areas, but expect the hunting drive to win when birds or squirrels appear.",
+        "Give the dog regular jobs such as scent games."
       ],
 
       socialization:
-        "Introduce the puppy calmly and positively to diverse people, friendly vaccinated dogs, household appliances, traffic sounds, and varied environments. Early socialization prevents natural reservedness around strangers from turning into aloof suspicion, ensuring a balanced, confident companion."
+        "Introduce the puppy calmly to many people, friendly dogs, traffic, household sounds and new places. Good early socialisation, together with training for its barking, helps it settle into family life, including in town."
     },
 
     livingEnvironment: {
@@ -240,82 +222,73 @@ export const finnish_spitz: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cold and snowy Nordic climates, where the dense double coat provides exceptional insulation",
+        "Cold and snowy climates",
         "Temperate climates",
-        "Warm climates provided air-conditioned indoor shelter, shade, and fresh water are available and exercise is restricted to early morning or late evening hours"
+        "Warm climates if shade, water and exercise in the cooler hours are provided"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply attached to family and can develop nuisance barking, distress, or boredom behaviors if left alone for extended periods without companionship or mental tasks."
+        "Moderate. Copes with some time alone if well exercised, but boredom often comes out as barking."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized, active breeds, adjusted for life stage and physical workload.",
+      "A complete and balanced diet for a medium-sized active dog, adjusted for age and how much it works.",
 
     feedingFrequency: {
-      puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
-      adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+      puppy: "Three to four small meals a day, dropping to two by about six months.",
+      adult: "Two measured meals a day.",
+      senior: "Two smaller meals a day, adjusted to keep the dog lean."
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, as the breed possesses an efficient northern metabolism and can gain excess weight rapidly if overfed. Divide daily rations into two distinct meals, restrict vigorous exercise immediately before and after eating, and provide cool, clean drinking water at all times.",
+      "Weigh or measure meals and feel for the ribs under the thick coat, which can hide weight gain. Feed more during active hunting seasons and less in quiet periods, and keep fresh water available.",
 
     considerations: [
-      "Maintain a lean, muscular body condition where the waistline is clearly visible and ribs are easily felt beneath the dense coat.",
-      "Account for training treats within the daily caloric budget to prevent stealth weight gain.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or pancreatitis.",
-      "Provide clean drinking water, especially during active exercise in warm weather.",
-      "Adjust daily caloric intake upward for dogs active in autumn field hunting and downward during sedentary seasons.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep the dog lean.",
+      "Count training treats in the daily ration.",
+      "Avoid fatty table scraps.",
+      "Change foods gradually over about a week."
     ],
 
-    note:
-      "Caloric needs vary significantly based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+    note: "Energy needs vary with age, neutering and activity; a veterinarian can help set the right amount."
   },
 
   health: {
     overview:
-      "The Finnish Spitz is a hardy, robust northern hunting dog with a typical life expectancy of 12 to 15 years. Developed through centuries of natural selection in the Finnish wilderness, it enjoys strong overall constitutional vitality. Primary hereditary health priorities include idiopathic epilepsy (which has been the focus of extensive Finnish veterinary genetic research identifying risk associations in the ADAM23 gene), patellar luxation, hip dysplasia, hereditary eye conditions (such as cataracts and progressive retinal atrophy), and diabetes mellitus.",
+      "Finland's national kennel club regards this as one of the healthiest breeds and has run a compulsory knee and eye screening scheme for it since 1994. Epilepsy is the condition most studied in the breed. A large Finnish survey of owners in 2003–2004 found that about 5% of dogs were affected; the seizures usually started on one side of the brain, most dogs did not get worse over time, and most were easily controlled with medication. Inheritance appears to involve many genes, one of which, ADAM23, raises risk only modestly. Current estimates put the rate at roughly 1–2%. Diabetes, missing teeth or bite faults, and bloody diarrhoea are also noted in the breed.",
 
     commonConditions: [
-      "Idiopathic epilepsy — recurrent unprovoked seizures, frequently presenting with focal-onset semiology; genetic research has identified a common risk haplotype in the ADAM23 gene on chromosome 37, and responsible breeding programs actively track pedigree incidence to minimize risk",
-      "Patellar luxation — kneecap displacement from the femoral groove causing intermittent hopping or hind-limb lameness, monitored through national orthopedic screening programs",
-      "Hip dysplasia — developmental laxity and malformation of the hip joints that can lead to osteoarthritis and stiffness, evaluated radiographically prior to breeding",
-      "Hereditary eye conditions — including juvenile cataracts and progressive retinal atrophy (PRA), screened through regular ophthalmologist examinations",
-      "Diabetes mellitus — an endocrine metabolic disorder documented at slightly elevated rates in Finnish veterinary health registries",
-      "Tooth absence and bite deviations — missing premolars or irregular alignment monitored during conformation assessments"
+      "Idiopathic epilepsy: recurring seizures with no other cause found; about 5% of dogs in a 2003–2004 survey, now estimated at 1–2%",
+      "Patellar luxation: a kneecap that slips out of place; screened before breeding, with about 96% of recently tested dogs free of it",
+      "Hereditary eye disease such as cataract or progressive retinal atrophy: screened before breeding, with about 94% of recently examined dogs clear",
+      "Diabetes mellitus",
+      "Missing teeth and bite faults",
+      "Bloody diarrhoea"
     ],
 
     preventiveCare: [
-      "Acquire puppies from breeding stock with certified pre-breeding clearances for patellas, hips, and eyes, and verify that the pedigree has been carefully evaluated for epilepsy history.",
-      "Maintain a lean, athletic body condition to avoid placing unnecessary mechanical strain on stifle and hip joints.",
-      "Inspect the small erect ears weekly for wax or dust buildup and clean gently with an approved ear cleanser.",
-      "Brush teeth multiple times weekly using canine enzymatic toothpaste to prevent premature dental decay.",
-      "Avoid overfeeding and monitor body weight regularly to prevent obesity and associated metabolic risks.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Ask breeders for current knee and eye results on both parents and about epilepsy in the pedigree.",
+      "Keep the dog lean and fit.",
+      "Learn what a seizure looks like and see a vet if one happens.",
+      "Brush the teeth several times a week.",
+      "Book a yearly veterinary check-up."
     ],
 
     recommendedScreenings: [
-      "Clinical patellar luxation examination and grading prior to breeding",
-      "Comprehensive ophthalmic examination by a board-certified veterinary ophthalmologist prior to breeding",
-      "Radiographic hip dysplasia evaluation through an accredited national screening scheme prior to breeding",
-      "Comprehensive pedigree risk assessment regarding idiopathic epilepsy prior to mating"
+      "Patellar luxation examination at 12 months of age or older",
+      "Eye examination for hereditary eye disease (repeat every two years for dogs examined under age 3)",
+      "Review of epilepsy in the pedigree before mating"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush several times a week with a dog toothpaste, and ask the vet to check for missing or misaligned teeth.",
 
-    earCare:
-      "Inspect the small erect ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+    earCare: "Check the erect ears weekly and wipe away visible dirt if needed.",
 
     skinCare:
-      "Part the dense double coat weekly to inspect the skin for external parasites, dryness, or irritation. The coat naturally sheds dirt and requires minimal skin intervention beyond regular brushing."
+      "Part the coat while brushing to check for ticks and skin irritation, especially after time in the forest."
   },
 
   suitability: {
@@ -326,93 +299,63 @@ export const finnish_spitz: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households that enjoy daily walks, trail hiking, and cooler-weather activities",
-      "Families with children seeking an affectionate, sturdy, and playful companion",
-      "Rural or suburban homes with a securely fenced yard",
-      "Committed owners willing to invest time in positive, patient training and gentle barking management",
-      "Hunters and tracking enthusiasts seeking a traditional Nordic bark-pointer",
-      "Dog lovers who appreciate an alert, intelligent, and interactive companion"
+      "Families who spend a lot of time outdoors",
+      "Hunters who want a barking bird dog",
+      "First-time or experienced owners prepared to train consistently",
+      "People interested in nose work, rally or agility"
     ],
 
     notIdealFor: [
-      "Apartment dwellers or dense urban households where frequent or resonant barking will disturb neighbors",
-      "Sedentary individuals looking for a low-exercise indoor lap dog",
-      "Households without secure fencing where a high hunting drive could lead to wandering",
-      "Owners who expect robotic off-leash obedience in unfenced, wildlife-rich woods",
-      "People intolerant of seasonal double-coat hair shedding on furniture and clothing"
+      "Close-quarters living where barking would disturb neighbours",
+      "Owners wanting a quiet or low-energy dog",
+      "Homes without secure fencing",
+      "Anyone expecting reliable off-lead recall near wildlife"
     ]
   },
 
   funFacts: [
-    "In 1979, the Finnish Spitz was officially declared the National Dog of Finland, where it is regarded as an indispensable living cultural treasure.",
-    "In Finland, the breed is celebrated for its unique hunting style known as bark-pointing: when it trees a forest bird, it wags its tail, shifts its weight to distract the bird, and unleashes a rapid, musical bark that can reach up to 160 barks per minute.",
-    "An annual national hunting competition in Finland crowns the finest working hound with the prestigious title of 'King of the Barkers' (Haukkukuningas).",
-    "English breed enthusiasts, led by Lady Kitty Ritson in the 1920s, coined the affectionate nickname 'Finkie' because its native Finnish name, Suomenpystykorva, proved difficult for English speakers to pronounce.",
-    "Finnish Spitz puppies are often born dark grey or blackish, gradually molting into their radiant red-gold adult coloration as their coat matures.",
-    "The Finnish Spitz was preserved from near-extinction in the late 1800s when two dedicated sportsmen, Hugo Roos and Hugo Sandberg, recognized the native dog's plight and established the foundational studbook.",
-    "Finnish folklore considers the breed's glowing red coat a reflection of the northern forest autumn colors, blending naturally into the golden birch and pine woodlands."
+    "It was named Finland's national dog in 1979.",
+    "The breed's first show, held in Oulu in 1892, drew 93 dogs.",
+    "Its original Finnish name translates as 'Finnish barking bird dog'; it took the name Finnish Spitz in 1897.",
+    "In the forest it pins a bird in a treetop by barking until the hunter arrives.",
+    "Since 2006 the Karelian-Finnish Laika has been treated as the same breed.",
+    "Finland's Finnish Spitz club made the first Saturday of August the breed's own flag day, first celebrated in 2023."
   ],
 
   faq: [
     {
-      question: "What is a Finnish Spitz?",
-      answer:
-        "The Finnish Spitz is a medium-sized Nordic hunting dog originating in Finland, known for its fox-like face, erect ears, plumed tail curled over the back, glowing red-gold double coat, and unique bark-pointing hunting style."
-    },
-    {
       question: "Why does the Finnish Spitz bark so much?",
       answer:
-        "Barking is an essential working trait bred into the dog for thousands of years. In the forest, the dog tracks game birds into trees and barks continuously to hold the bird's attention and guide the hunter; while this instinct can be managed with early training, it is a natural characteristic of the breed."
+        "It was bred to find birds and hold them in place by barking until the hunter arrives, so barking is part of its job. Early training helps keep it under control at home."
     },
     {
-      question: "How tall and heavy is a Finnish Spitz?",
+      question: "How big is a Finnish Spitz?",
       answer:
-        "Adult males stand 44 to 50 cm (ideal 47 cm) at the withers and weigh 14 to 17 kg, while adult females stand 39 to 45 cm (ideal 42 cm) and weigh 10 to 13 kg, presenting an agile, almost square build."
+        "Males stand 44 to 50 cm at the withers and females 39 to 45 cm. In Finland males usually weigh 15 to 17 kg and females 10 to 12 kg."
     },
     {
-      question: "How long does a Finnish Spitz live?",
-      answer:
-        "The breed is known for robust health and good longevity, typically enjoying a lifespan of 12 to 15 years with proper care and nutrition."
+      question: "How long does it live?",
+      answer: "Typically 12 to 15 years."
     },
     {
-      question: "What does the Finnish Spitz coat look like, and how often does it shed?",
+      question: "What colour is it?",
       answer:
-        "The coat is a dense stand-off double coat with a soft, pale undercoat and bright red-gold or reddish-brown guard hairs. It sheds moderately year-round and blows its undercoat heavily twice a year in spring and autumn, requiring regular brushing."
+        "Bright red or golden red on the back, paler underneath. A small white chest spot and small white marks on the feet are allowed."
     },
     {
-      question: "Is a Finnish Spitz good with children and other pets?",
+      question: "Is it a good family dog?",
       answer:
-        "Yes. Within its own household, it is remarkably gentle, playful, and affectionate with children; it generally coexists peacefully with other family dogs, but its high prey drive requires supervision around pet birds and small rodents."
+        "Yes. It is sociable with its own people and suits families, including first-time owners who are ready to train it, especially those who enjoy outdoor life."
     },
     {
-      question: "Can a Finnish Spitz live in an apartment?",
+      question: "Can it live in a town?",
       answer:
-        "Generally no. While it is clean and compact indoors, its natural inclination to sound an alarm bark at unfamiliar noises and its need for active exercise make it poorly suited to noise-sensitive apartments; it thrives best in a house with a securely fenced yard."
+        "It can, if its barking is trained and it is well socialised from puppyhood. It still needs plenty of daily exercise."
     },
     {
-      question: "Is the Finnish Spitz easy to train?",
+      question: "What health problems should I ask about?",
       answer:
-        "The breed is highly intelligent and quick to learn, but it has an independent nature and easily becomes bored by repetitive drills. It responds best to patient, positive reinforcement training and short, varied sessions."
-    },
-    {
-      question: "How much exercise does a Finnish Spitz need each day?",
-      answer:
-        "The breed requires 45 to 60 minutes of daily physical activity, including brisk leashed walks, active play sessions, and scent enrichment games to keep its active mind engaged."
-    },
-    {
-      question: "Can a Finnish Spitz tolerate hot and cold weather?",
-      answer:
-        "Its double coat provides superb protection against freezing Nordic winters; it can tolerate warm weather if given air-conditioned indoor shelter, shade, and fresh water, with exercise scheduled during cooler morning or evening hours."
-    },
-    {
-      question: "What health conditions are known in the Finnish Spitz?",
-      answer:
-        "The breed is generally very healthy, but important health priorities include idiopathic epilepsy (which has been mapped to genetic markers in research studies), patellar luxation, hip dysplasia, eye conditions (cataracts and progressive retinal atrophy), and diabetes mellitus."
-    },
-    {
-      question: "What is the 'King of the Barkers'?",
-      answer:
-        "The 'King of the Barkers' is an annual championship hunting contest in Finland where top working Finnish Spitz dogs compete in the forest, evaluated on their tracking skill, endurance, and rapid bark-pointing rate."
+        "Ask breeders for knee and eye results on both parents and about epilepsy in the family line. Epilepsy is the condition most studied in the breed, and most affected dogs respond well to treatment."
     }
   ],
 
@@ -420,11 +363,14 @@ export const finnish_spitz: Breed = {
     "fci-finnish-spitz-official-standard",
     "fci-finnish-spitz-nomenclature",
     "suomen-kennelliitto-suomenpystykorva-profile",
+    "koiramuseo-finnish-spitz-history",
+    "kennelliitto-suomenpystykorva-flag-day-2023",
     "akc-finnish-spitz-breed-standard",
     "akc-finnish-spitz-breed-profile",
     "the-kennel-club-finnish-spitz-breed-standard",
-    "finnish-spitz-epilepsy-adam23-study-2015",
     "finnish-spitz-epilepsy-phenotype-study-2006",
+    "finnish-spitz-epilepsy-adam23-study-2015",
+    "the-dog-api",
     "wikimedia-finnish-spitz-przemekl",
     "wikimedia-finnish-spitz-gch-rocket-pets-adviser"
   ],
@@ -434,637 +380,278 @@ export const finnish_spitz: Breed = {
       reliability: "unverified",
       sources: [],
       verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      note: "Canis lupus familiaris is the domestic-dog name used across the catalog; breed standards do not state it."
     },
 
     alternateNames: {
-      reliability: "official_standard",
+      reliability: "reliable_source",
       sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "verified",
-          locator: "Standard heading: SUOMENPYSTYKORVA (Finnish Spitz)"
-        },
-        {
-          id: "fci-finnish-spitz-nomenclature",
-          role: "verified",
-          locator: "Official nomenclature: SUOMENPYSTYKORVA (49), Spitz Finlandais, Finnen-Spitz, Spitz Finlandés"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Suomenpystykorva (Finsk spets), national dog of Finland"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "verified",
-          locator: "History: Suomenpystykorva, Finkie, Barking Bird Dog"
-        }
+        { id: "fci-finnish-spitz-nomenclature", role: "verified", locator: "Suomenpystykorva; Spitz Finlandais; Finnen-Spitz; Spitz Finlandés" },
+        { id: "koiramuseo-finnish-spitz-history", role: "verified", locator: "Original name 'suomalainen haukkuva lintukoira' (Finnish Barking Bird Dog)" },
+        { id: "the-dog-api", role: "verified", locator: "breed.alt_names: Suomenpystykorva, Finsk Spets, Barking Bird Dog, Finnish Barking Birddog" },
+        { id: "akc-finnish-spitz-breed-profile", role: "cited", locator: "Nickname 'Finkie'" }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified across FCI Standard No. 49, FCI Nomenclature, Suomen Kennelliitto, and AKC."
+      verifiedOn: "2026-11-17",
+      note: "'Finnischer Spitz' was corrected to FCI's German name 'Finnen-Spitz'. 'Finkie' is a common English nickname, cited but not checked against a kennel club page."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 5 Spitz and primitive types, Section 2 Nordic Hunting Dogs, with working trial only for Nordic countries"
-        },
-        {
-          id: "fci-finnish-spitz-nomenclature",
-          role: "verified",
-          locator: "Group 5, Section 2 Nordic Hunting Dogs"
-        },
-        {
-          id: "akc-finnish-spitz-breed-standard",
-          role: "verified",
-          locator: "Non-Sporting Group"
-        },
-        {
-          id: "the-kennel-club-finnish-spitz-breed-standard",
-          role: "verified",
-          locator: "Hound Group"
-        }
+        { id: "fci-finnish-spitz-official-standard", role: "verified", locator: "FCI classification: Group 5, Section 2 Nordic Hunting Dogs, working trial in Nordic countries" },
+        { id: "fci-finnish-spitz-nomenclature", role: "verified", locator: "Group 5, Section Nordic Hunting Dogs" },
+        { id: "the-kennel-club-finnish-spitz-breed-standard", role: "cited", locator: "Listed under Hound" },
+        { id: "akc-finnish-spitz-breed-profile", role: "cited", locator: "Non-Sporting Group" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-17",
+      note: "'Northern Breed group' in the earlier record was not checked against any source and was removed."
     },
 
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Finland; BRIEF HISTORICAL SUMMARY"
-        },
-        {
-          id: "fci-finnish-spitz-nomenclature",
-          role: "verified",
-          locator: "Country of origin: Finland"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Rodun alkuperämaa: Suomi"
-        }
+        { id: "fci-finnish-spitz-official-standard", role: "verified", locator: "Origin: Finland" },
+        { id: "fci-finnish-spitz-nomenclature", role: "verified", locator: "Country of origin: Finland" }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note: null
+    },
+
+    "origin.region": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "The standard says dogs of this type were used across the whole country; 'Central and Northern Finland' was not supported and was removed."
     },
 
     overview: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Kansalliskoira, käyttötarkoitus (haukkuva lintukoira), luonteenpiirteet ja historia"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "verified",
-          locator: "About the Breed, History (Hugo Roos, Hugo Sandberg, 1892 standard, 1979 national dog), and Roles"
-        }
+        { id: "fci-finnish-spitz-official-standard", role: "verified", locator: "Utilization; Behaviour/temperament; Proportions; Head; Coat; Colour" },
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "verified", locator: "Character: lively, energetic, brave, persistent, social, intelligent, independent" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Synthesized in original prose from FCI Standard No. 49, Suomen Kennelliitto, and AKC official records."
+      verifiedOn: "2026-11-17",
+      note: null
+    },
+
+    "overview.history": {
+      reliability: "reliable_source",
+      sources: [
+        { id: "fci-finnish-spitz-official-standard", role: "verified", locator: "Brief history: 1892 standard and show; 1897 bird trial; national dog 1979; 2006 Laika agreement" },
+        { id: "koiramuseo-finnish-spitz-history", role: "verified", locator: "Kennel club 1889; Sandberg's description; Roos breeding in Lapland and Kainuu; 1897 rename" }
+      ],
+      verifiedOn: "2026-11-17",
+      note: "The Finno-Ugric migration story, the near-extinction narrative and the claim that a studbook was established in 1892 by Roos and Sandberg were not supported by the sources checked and were removed."
+    },
+
+    "overview.originalPurpose": {
+      reliability: "official_standard",
+      sources: [
+        { id: "fci-finnish-spitz-official-standard", role: "verified", locator: "Utilization: forest game birds, small predators, waterfowl, elk; marks game by barking" },
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "verified", locator: "Hunting use includes bear" }
+      ],
+      verifiedOn: "2026-11-17",
+      note: null
+    },
+
+    "overview.currentRoles": {
+      reliability: "reliable_source",
+      sources: [
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "verified", locator: "Bird and elk barking trials; family hobby dog; rally-tokko, agility, nose work" }
+      ],
+      verifiedOn: "2026-11-17",
+      note: null
+    },
+
+    "physical.sizeCategory": {
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Editorial label based on the standard's height range."
     },
 
     physical: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "verified",
-          locator: "IMPORTANT PROPORTIONS (1:1 body length to withers height; 3:4 muzzle to skull), HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Koko, mittasuhteet, karvapeite, väri ja ulkomuoto"
-        },
-        {
-          id: "akc-finnish-spitz-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Size, Head, Coat, Color, Tail"
-        }
+        { id: "fci-finnish-spitz-official-standard", role: "verified", locator: "Proportions; Head; Eyes; Ears; Teeth (42); Tail; Coat; Colour; Size" },
+        { id: "the-kennel-club-finnish-spitz-breed-standard", role: "cited", locator: "Colour: puppies may have more black hairs that fade with age" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Conformation, square build, red-gold stand-off coat, curved plumed tail, and distinctive features follow official standards."
+      verifiedOn: "2026-11-17",
+      note: "Colours follow FCI (bright red or golden red). The Dog API colour list was not used."
     },
 
     "physical.height": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "verified",
-          locator: "SIZE: Height at withers: Males: 44-50 cm, ideal 47 cm. Females: 39-45 cm, ideal 42 cm."
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Säkäkorkeus: urokset 44-50 cm, ihanne 47 cm; nartut 39-45 cm, ihanne 42 cm"
-        },
-        {
-          id: "the-kennel-club-finnish-spitz-breed-standard",
-          role: "verified",
-          locator: "Height at withers: dogs 43-50 cms (17-20 ins); bitches 39-45 cms (15.5-18 ins)"
-        }
+        { id: "fci-finnish-spitz-official-standard", role: "verified", locator: "Height at withers: males 44-50 cm (ideal 47), females 39-45 cm (ideal 42)" },
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "verified", locator: "Males 44-50 cm, ideal 47; females 39-45 cm, ideal 42" },
+        { id: "akc-finnish-spitz-breed-standard", role: "conflicting", locator: "Dogs 17½ to 20 inches; bitches 15½ to 18 inches" },
+        { id: "the-kennel-club-finnish-spitz-breed-standard", role: "conflicting", locator: "Dogs 43-50 cm; bitches 39-45 cm" },
+        { id: "the-dog-api", role: "conflicting", locator: "breed.height.metric: 44.5-51 / 39-46 cm" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Preserved in published unit of centimetres (44–50 cm for males, 39–45 cm for females) exactly as specified in the official FCI Standard No. 49 and Suomen Kennelliitto standard."
+      verifiedOn: "2026-11-17",
+      note: "Stored in centimetres as FCI publishes. AKC gives inches; the Royal Kennel Club allows males from 43 cm."
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Paino: Urokset: 15-17 kg. Nartut: 10-12 kg."
-        },
-        {
-          id: "the-kennel-club-finnish-spitz-breed-standard",
-          role: "verified",
-          locator: "Weight: 14-16 kgs (31-35 lbs)"
-        }
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "verified", locator: "Males 15-17 kg; females 10-12 kg" },
+        { id: "the-kennel-club-finnish-spitz-breed-standard", role: "conflicting", locator: "Weight 14-16 kg (one range for both sexes)" },
+        { id: "akc-finnish-spitz-breed-profile", role: "conflicting", locator: "Males 25-33 lb; females 20-28 lb (as widely attributed)" },
+        { id: "the-dog-api", role: "conflicting", locator: "breed.weight.metric: 11-15 / 9-13 kg" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Preserved in published unit of kilograms. The national kennel club of the country of origin records 15 to 17 kg for males and 10 to 12 kg for females, while European kennel clubs cite 14 to 16 kg for males and 10 to 13 kg for females; the combined 14 to 17 kg and 10 to 13 kg ranges represent these published figures without unit conversion."
+      verifiedOn: "2026-11-17",
+      note: "The FCI standard gives no weight. Stored as the Finnish Kennel Club publishes it. The earlier combined 14-17 / 10-13 kg ranges mixed sources and were replaced."
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Keskimääräinen elinikä: 12-15 vuotta"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "verified",
-          locator: "Life Expectancy: 13-15 years"
-        }
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "verified", locator: "Average lifespan 12-15 years" }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Supported by Finnish and American kennel club actuarial profiles."
-    },
-
-    "physical.sheddingLevel": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Turkin hoito: Kaksinkertainen turkki ja se pudottaa pohjavillan kaksi kertaa vuodessa"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5), seasonal shedding of double coat"
-        }
-      ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note: null
     },
 
+    "physical.sheddingLevel": {
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Editorial estimate for a double coat; no source checked gives a shedding level."
+    },
+
     "physical.droolingLevel": {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "verified",
-          locator: "Lips: Tight, rather thin and close fitting. Good pigmentation."
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: "Tight, thin lips result in minimal drooling."
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Editorial estimate; no source checked gives a drooling level."
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Lively, vigorous, brave and determined; slightly reserved with strangers, never vicious"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Luonteenpiirteet: Vilkas, tarmokas, rohkea ja peräänantamaton; sosiaalinen perheen kanssa"
-        },
-        {
-          id: "akc-finnish-spitz-breed-standard",
-          role: "verified",
-          locator: "Temperament: Active and friendly, lively and eager, faithful; brave, but cautious"
-        }
+        { id: "fci-finnish-spitz-official-standard", role: "verified", locator: "Lively, vigorous, brave and determined; may be a little reserved with strangers but never vicious" },
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "verified", locator: "Social, strong game drive, intelligent, independent, learns quickly, bred to bark" },
+        { id: "akc-finnish-spitz-breed-standard", role: "cited", locator: "Temperament: active, friendly, lively, eager, faithful; brave but cautious" }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note: null
     },
 
     "temperament.scores": {
       reliability: "estimate",
-      sources: [
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "cited",
-          locator: "Luonne ja käyttäytyminen"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented spitz temperament and working drive."
+      note: "Editorial 1-5 scores."
     },
 
     care: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "cited",
-          locator: "Liikunta, koulutettavuus ja turkin hoito"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Combines active hunting spitz care protocols with double-coat grooming guidelines."
+      note: "General care advice for an active double-coated hunting spitz."
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Liikunta: Runsaasti liikuntaa tarvitseva rotu, joka vaatii myös aktivointia ja virikkeistämistä"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (3/5)"
-        }
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "verified", locator: "Needs much exercise and activity" }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note: null
     },
 
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
-      sources: [
-        {
-          id: "the-kennel-club-finnish-spitz-breed-standard",
-          role: "cited",
-          locator: "Exercise: Up to 1 hour per day"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "cited",
-          locator: "Exercise needs"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Estimated 45 to 60 minutes of daily activity reflects the exercise demands of an energetic medium spitz."
+      note: "Editorial estimate; no source checked gives minutes per day."
     },
 
-    "care.livingEnvironment.apartmentSuitable": {
+    "care.livingEnvironment": {
       reliability: "estimate",
       sources: [
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "cited",
-          locator: "Rotu on jalostettu haukkuvaksi metsästyskoiraksi, joten haukkuherkkyyttä voi ilmetä"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "cited",
-          locator: "Vocal nature and watchdog instincts"
-        }
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "cited", locator: "Can live in town if barking is trained and the dog is socialised" }
       ],
       verifiedOn: null,
-      note:
-        "Editorial assessment that persistent alarm and hunting barking makes apartment living unsuitable without intense training."
-    },
-
-    "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "verified",
-          locator: "Exercise: Solidly fenced yard is a must for this agile hunting breed"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Ympäristö ja ulkoilutila"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: null
-    },
-
-    "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "verified",
-          locator: "COAT: Stand-off double coat with dense undercoat adapted to Nordic boreal forest climates"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "verified",
-          locator: "Weather tolerance: excellent cold tolerance, requires cooling in heat"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: null
-    },
-
-    "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; deeply attached to family"
-        }
-      ],
-      verifiedOn: null,
-      note: null
+      note: "Editorial judgement; apartment living is marked unsuitable because of the breed's barking."
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "cited",
-          locator: "Nutrition: Highly efficient primitive metabolism, avoid overfeeding to prevent obesity"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "cited",
-          locator: "Ravitsemus ja painonhallinta"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note: "Standard feeding and weight-management recommendations for active spitz breeds."
+      note: "General feeding advice; not breed-specific."
     },
 
-    "nutrition.feedingFrequency": {
+    health: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note: "General canine life-stage feeding schedule."
+      note: "General preventive care advice."
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "PEVISA-ohjelma (vuodesta 1994), polvilumpioluksaatio, silmätutkimukset, sokeritauti"
-        },
-        {
-          id: "finnish-spitz-epilepsy-adam23-study-2015",
-          role: "verified",
-          locator: "Genomic association of idiopathic epilepsy with ADAM23 locus in Finnish Spitz"
-        },
-        {
-          id: "finnish-spitz-epilepsy-phenotype-study-2006",
-          role: "verified",
-          locator: "Focal-onset seizure phenotype and heritability in Finnish Spitz dogs"
-        }
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "verified", locator: "PEVISA since 1994 (knees, eyes); epilepsy 5-6% early 2000s, now est. 1-2%; diabetes; tooth and bite faults; bloody diarrhoea" },
+        { id: "finnish-spitz-epilepsy-phenotype-study-2006", role: "verified", locator: "2,141 dogs; prevalence 5.36%; 85% focal onset; heritability 0.22, polygenic; 78.9% easily controlled" },
+        { id: "finnish-spitz-epilepsy-adam23-study-2015", role: "verified", locator: "Common ADAM23 risk haplotype in four breeds including Finnish Spitz; low-penetrance risk gene" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Synthesizes peer-reviewed genetics studies on idiopathic epilepsy with national health registry screening data."
+      verifiedOn: "2026-11-17",
+      note: null
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
-        {
-          id: "finnish-spitz-epilepsy-adam23-study-2015",
-          role: "verified",
-          locator: "Idiopathic epilepsy and ADAM23 risk locus"
-        },
-        {
-          id: "finnish-spitz-epilepsy-phenotype-study-2006",
-          role: "verified",
-          locator: "Clinical characterization of focal-onset epileptic seizures in Finnish Spitz"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Polvilumpioluksaatio, perinnölliset silmäsairaudet, sokeritauti (diabetes)"
-        }
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "verified", locator: "Epilepsy; knees 94% healthy (2015-2020) to 96% (2020-2025); eyes 91.8% to 93.8% healthy; diabetes; tooth and bite faults; bloody diarrhoea" },
+        { id: "finnish-spitz-epilepsy-phenotype-study-2006", role: "verified", locator: "Prevalence 5.36% (111 of 2,069 living dogs)" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
-    },
-
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "cited",
-          locator: "PEVISA-jalostussäännöt, polvi- ja silmätarkastukset, sosiaalistaminen"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "cited",
-          locator: "Preventive health, weight management, and routine care"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard preventive care protocol tailored to active spitz breeds."
+      verifiedOn: "2026-11-17",
+      note: "Hip dysplasia was removed; it is not named by the Finnish Kennel Club and is not part of the breed's compulsory screening. 'Diabetes at elevated rates in Finnish registries' was not supported and was reduced to a plain mention."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "PEVISA-ohjelman vaatimukset: virallinen polvilumpiotutkimus ja silmätarkastuslausunto"
-        },
-        {
-          id: "finnish-spitz-epilepsy-adam23-study-2015",
-          role: "verified",
-          locator: "Epilepsy pedigree screening recommendations"
-        }
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "verified", locator: "PEVISA: knee exam from 12 months; eye exams valid 2 years if under 3; inbreeding limit 6.25% over 7 generations" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Screenings summarize published breed authority and health registry protocols."
-    },
-
-    "health.dentalCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete 42-tooth scissor bite"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "cited",
-          locator: "Hammaspuutokset ja purentaviat"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
-    },
-
-    "health.earCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "cited",
-          locator: "Ears: small, pointed, erect, mobile"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "cited",
-          locator: "Routine ear care"
-        }
-      ],
-      verifiedOn: null,
-      note: "Routine ear care protocol for small erect ears."
-    },
-
-    "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "cited",
-          locator: "Skin: tight overall without wrinkles; stand-off double coat"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "cited",
-          locator: "Turkin hoito"
-        }
-      ],
-      verifiedOn: null,
-      note: "Skin and coat care guidelines."
+      verifiedOn: "2026-11-17",
+      note: "The hip X-ray recommendation was removed. Epilepsy pedigree review is not a formal requirement but follows the breed's documented epilepsy risk."
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "cited",
-          locator: "Soveltuvuus: koko perheen harrastuskoira, lapsiperheet, ensikoiraksi"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "cited",
-          locator: "Temperament and Family Life ratings"
-        }
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "cited", locator: "Suits whole family, first-time and experienced owners, families with children" }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise needs, and vocal habits."
+      note: "Editorial judgement informed by the Finnish Kennel Club profile."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Kansalliskoira (1979), haukkuva lintukoira, Haukkukuningas-kilpailu"
-        },
-        {
-          id: "akc-finnish-spitz-breed-profile",
-          role: "verified",
-          locator: "History: Hugo Roos, Hugo Sandberg, 1892 recognition, Lady Kitty Ritson Finkie nickname"
-        },
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "verified",
-          locator: "Brief historical summary: Finnish national dog designation"
-        }
+        { id: "fci-finnish-spitz-official-standard", role: "verified", locator: "Brief history: national dog 1979; 2006 Laika agreement; utilization" },
+        { id: "koiramuseo-finnish-spitz-history", role: "verified", locator: "1892 show in Oulu with 93 dogs; original name; 1897 rename" },
+        { id: "kennelliitto-suomenpystykorva-flag-day-2023", role: "verified", locator: "First Saturday of August declared the breed's flag day; first held 5 August 2023" }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified historical folklore and cultural heritage facts."
+      verifiedOn: "2026-11-17",
+      note: "Removed for lack of a reliable source: 'King of the Barkers' title, '160 barks per minute', Lady Kitty Ritson coining 'Finkie', and the folklore claim about the red coat."
     },
 
     faq: {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
-        {
-          id: "fci-finnish-spitz-official-standard",
-          role: "verified",
-          locator: "Origin, size (44-50 cm / 39-45 cm), coat, colors, and barking bird dog traits"
-        },
-        {
-          id: "suomen-kennelliitto-suomenpystykorva-profile",
-          role: "verified",
-          locator: "Paino (15-17 kg / 10-12 kg), elinikä (12-15 v), Haukkukuningas, PEVISA"
-        },
-        {
-          id: "finnish-spitz-epilepsy-adam23-study-2015",
-          role: "verified",
-          locator: "Epilepsy genetics and health management"
-        }
+        { id: "fci-finnish-spitz-official-standard", role: "cited", locator: "Size; Colour; Utilization" },
+        { id: "suomen-kennelliitto-suomenpystykorva-profile", role: "cited", locator: "Weight; lifespan; suitability; health programme" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: null,
+      note: "Factual answers follow the cited sources; family, town-living and training answers are editorial, so the FAQ as a whole is labelled estimate."
     }
   },
 
-  updatedOn: "2026-11-08"
+  updatedOn: "2026-11-17"
 };

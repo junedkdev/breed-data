@@ -9,19 +9,19 @@ export const transylvanian_hound: Breed = {
     "Erdélyi Kopó",
     "Hungarian Hound",
     "Transylvanian Scent Hound",
-    "Chien Courant Transylvanien",
+    "Chien Courant de Transylvanie",
+    "Ungarische Bracke",
     "Transylvanischer Laufhund",
-    "Sabueso de Transilvania",
-    "Siebenbürgen Bracke"
+    "Sabueso Húngaro",
+    "Sabueso de Transilvania"
   ],
 
   group:
-    "Scenthounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial; also classified in the Scenthound and Hound groups)",
+    "Scent Hounds and Related Breeds; Section 1.2: Medium-sized Hounds (Scenthound or Hound group in some registries)",
 
   origin: {
     country: "Hungary",
-    region:
-      "Carpathian Basin and the historical Transylvanian mountain plateaus"
+    region: "Forests of the Carpathian Mountains, in historic Transylvania"
   },
 
   images: [
@@ -29,7 +29,7 @@ export const transylvanian_hound: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Erd%C3%A9lyi_kop%C3%B3.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Erd%C3%A9lyi_kop%C3%B3.jpg",
       title: "Erdélyi kopó.jpg",
-      description: "An adult Erdélyi kopó standing in profile outdoors.",
+      description: "An adult Transylvanian Hound standing side-on outdoors.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2013-05-18",
@@ -38,7 +38,7 @@ export const transylvanian_hound: Breed = {
       height: 1157,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Erd%C3%A9lyi_kop%C3%B3.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Changes, if any, must be indicated; adaptations must be shared under the same license.",
       restrictions: null,
       metadataCheckedOn: "2026-11-08"
     },
@@ -46,7 +46,7 @@ export const transylvanian_hound: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Erd%C3%A9lyi_kop%C3%B3_-_1.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Erd%C3%A9lyi_kop%C3%B3_-_1.jpg",
       title: "Erdélyi kopó - 1.jpg",
-      description: "An Erdélyi kopó outdoors in Ópusztaszer, Hungary.",
+      description: "A Transylvanian Hound photographed outdoors at Ópusztaszer, Hungary.",
       creator: "DenesFeri",
       uploader: "DenesFeri",
       capturedOn: "2019-09-11",
@@ -55,7 +55,7 @@ export const transylvanian_hound: Breed = {
       height: 2304,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by DenesFeri, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Erd%C3%A9lyi_kop%C3%B3_-_1.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by DenesFeri, Wikimedia Commons, CC BY-SA 4.0. Changes, if any, must be indicated; adaptations must be shared under the same license.",
       restrictions: null,
       metadataCheckedOn: "2026-11-08"
     }
@@ -63,27 +63,22 @@ export const transylvanian_hound: Breed = {
 
   overview: {
     summary:
-      "An ancient, athletic Hungarian hunting hound shaped by the rugged Carpathian wilderness, renowned for its glossy black-and-tan coat with distinct eyebrow points, untiring stamina, calm domestic loyalty, and carrying bell-like bay on the trail.",
+      "An old Hungarian scent hound from the Carpathian forests: black with tan points, built for long days on rough ground, calm by nature and loud and high-voiced on the trail.",
 
     description:
-      "The Transylvanian Hound is an elegant, medium-to-large scent hound developed over centuries to drive and hold quarry across heavily forested and mountainous terrain. Built with an athletic rectangular silhouette, substantial bone, and lean musculature, the hound demonstrates effortless agility and endurance rather than cumbersome mass. Its double coat is short, dense, coarse, and weather-resistant, displaying a jet-black ground accented by clearly delineated tan markings on the muzzle and limbs, characteristic tan spots over the eyes, and occasional white markings on the chest and feet. The head is elongated and noble with a straight bridge, dark expressive eyes radiating calm intelligence, and medium-set pendant ears hanging close to the cheeks. In the home, it is a clean, tranquil, and deeply loyal companion, but in the field it transforms into an impassioned, courageous tracker capable of following trails across difficult wilderness for hours.",
+      "The Transylvanian Hound is a medium-sized scent hound, a little longer than it is tall, with a lean, muscular frame suited to steep, wooded country. Its head is long without being pointed, with a barely marked stop, a straight muzzle about as long as the skull, a black nose and dark brown almond-shaped eyes. The ears hang flat against the cheeks and, drawn forward, just cover the eyes. The short, dense, coarse coat has an undercoat and a natural shine; it is black with tan on the muzzle and legs and a tan spot over each eye, and white may appear on the face, neck, chest, feet and tail tip. Temperamentally it is good-natured, brave and tough, with a calm, steady core that turns determined and lively when it is hunting. It copes well with harsh weather and works independently, often far from the hunter.",
 
     history:
-      "The roots of the breed trace to the ancient scenthounds that accompanied the Magyar tribes into the Carpathian Basin in the ninth century, which intermingled with indigenous Celtic hounds. Throughout the Middle Ages and Renaissance, the breed was the favored hunting companion of Hungarian royalty and Transylvanian princes, prized for pursuing big game such as wild boar, red deer, European bison, and brown bear across steep, rocky heights. Regional terrain historically fostered two physical strains: a tall, long-legged hound adapted for open woodlands and big game, and a short-legged hound used for hunting hare and fox in dense thickets. Changing forestry laws and political upheavals in the twentieth century caused numbers to decline precipitously, bringing the breed to the brink of extinction. In 1968, dedicated conservationists recovered purebred survivors from isolated mountain valleys, reviving the lineage. Today, the tall variety is preserved as a treasured native breed celebrated for its authentic working qualities.",
+      "This is an ancient Hungarian breed, shaped by the climate, terrain and hunting conditions of its homeland. It reached its height in the Middle Ages as a favourite hound of the nobility. As farming and forestry changed, it was pushed back into the remote forests of the Carpathians, where two types developed and were kept side by side: a long-legged hound for big game such as bison, and later bear, boar and lynx, and a short-legged hound for foxes and hares in thick cover and chamois on rocky ground. The breed was close to extinction early in the twentieth century and declined again after the Second World War. Planned breeding resumed in 1968, and the long-legged type now has a sizeable population in Hungary and neighbouring Romania, while the short-legged type has died out. Hungary declared its native dog breeds, this one included, national treasures in 2004.",
 
     originalPurpose:
-      "Tracking, driving, and baying big game including wild boar, red deer, bear, and lynx across dense mountain woodlands, working either solo or in small matched pairs.",
+      "Finding, following and driving game, working alone or in pairs, including big game such as bear, boar and lynx in mountain forest.",
 
-    currentRoles: [
-      "Traditional tracking and driving hunting hound for big game",
-      "Field trial and blood-tracking competitor",
-      "Active companion for rural sporting households",
-      "Search, rescue, and tracking detection dog"
-    ]
+    currentRoles: ["Hunting hound for trailing and driving game", "Companion for active rural households"]
   },
 
   physical: {
-    sizeCategory: "Medium to large",
+    sizeCategory: "Medium",
 
     height: {
       unit: "cm",
@@ -101,11 +96,11 @@ export const transylvanian_hound: Breed = {
       unit: "kg",
       male: {
         min: 25,
-        max: 35
+        max: null
       },
       female: {
         min: 25,
-        max: 35
+        max: null
       }
     },
 
@@ -115,59 +110,49 @@ export const transylvanian_hound: Breed = {
     },
 
     coatType:
-      "Short, dense, straight, and rather harsh coarse outer coat with a softer, fine undercoat; lying close to the body, with cowlicks and ridges on the neck and back of thighs.",
+      "Short, straight, dense, flat-lying and coarse, with a shine and an undercoat; longer on the neck, withers, back of the thighs and underside of the tail, where whorls and ridges may form",
 
     coatLength: "Short",
 
-    coatColors: [
-      "Black and tan (black ground with clearly defined rich tan markings on the muzzle, legs, and distinct tan spots above the eyes)",
-      "Black and tan with white markings (white star or blaze on the chest, white on the throat, white on the paws, and white tail tip)"
-    ],
+    coatColors: ["Black and tan", "Black and tan with white markings"],
 
-    sheddingLevel:
-      "Moderate year-round shedding, with increased shedding during seasonal coat changes in spring and autumn",
+    sheddingLevel: "Moderate",
 
-    droolingLevel:
-      "Low; the lips are tight and clean-fitting with dark pigmentation",
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Athletic, medium-to-large hound outline with a balanced rectangular silhouette",
-      "Height at the withers of 55 to 65 cm with an ideal height of 58 to 62 cm",
-      "Weight of 25 to 35 kg with a minimum requirement of 25 kg",
-      "Long, noble head with a slightly domed skull and moderate stop",
-      "Straight nasal bridge and well-developed black nose with wide nostrils",
-      "Almond-shaped, slightly oblique dark brown eyes with tight, black lids",
-      "Medium-set, wide hanging drop ears with rounded tips, reaching to the mouth when drawn forward",
-      "Clean, muscular neck without throatiness or loose dewlap",
-      "Deep, broad, and long chest with a slightly tucked-up belly",
-      "Low-set tail reaching a few centimeters below the hock, carried in a gentle sabre curve when moving",
-      "Dense, short, coarse black double coat with tan spots over the eyes (eyebrow points), tan markings on muzzle and limbs, and discrete white markings",
-      "Ground-covering, rhythmic, and tireless trot with long stride and great endurance"
+      "Height at the withers to body length in a ratio of about 10 to 11",
+      "Skull and muzzle about equal in length",
+      "Slightly domed skull with a barely marked stop and a straight nasal bridge",
+      "Black nose with wide, mobile nostrils",
+      "Dark brown, almond-shaped, slightly slanting eyes",
+      "Ears set medium-high, hanging flat to the cheeks and just covering the eyes when drawn forward",
+      "Tan spot over each eye, tan on the muzzle and legs, all clearly separated from the black",
+      "White may appear on the face, neck, chest, lower legs and tail tip, ideally on no more than a fifth of the body",
+      "Strong tail reaching 1 to 2 cm past the hock, slightly upturned at the end at rest and carried over the back when excited",
+      "Yelps when it first picks up a fresh scent and gives a loud, high, ringing voice while hunting"
     ]
   },
 
   temperament: {
     traits: [
-      "Courageous, bold, and determined when working quarry",
-      "Calm, gentle, and quiet in the home",
-      "Deeply loyal and affectionate with family members",
-      "Alert, watchful, and protective of territory",
-      "Polite yet reserved and discerning with unfamiliar people",
-      "Good-natured and patient with familiar children",
-      "Cooperative and non-aggressive with other pack hounds",
-      "High stamina, tenacity, and independent problem-solving ability",
-      "High prey drive toward wild game, deer, and boar",
-      "High-pitched, ringing, and musical hunting cry that carries over mountain distances"
+      "Good-natured",
+      "Courageous",
+      "Tough and enduring",
+      "Calm and even-tempered at home",
+      "Determined and lively when working",
+      "Independent worker that ranges far from the hunter",
+      "Strong hunting drive"
     ],
 
     scores: {
       affection: 4,
       withChildren: 4,
       withDogs: 4,
-      withStrangers: 2,
-      protectiveness: 4,
+      withStrangers: 3,
+      protectiveness: 3,
       independence: 4,
-      trainability: 4,
+      trainability: 3,
       barking: 4,
       energy: 4
     }
@@ -175,58 +160,48 @@ export const transylvanian_hound: Breed = {
 
   care: {
     exercise: {
-      level:
-        "High; an active, endurance hunting hound requiring extensive daily physical exercise and olfactory exploration",
+      level: "High. A working hound that needs long daily outings and regular use of its nose.",
 
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 120
       },
 
       activities: [
-        "Long daily trail hikes or brisk walks on varied terrain",
-        "Supervised free running in a large, securely fenced field or acreage",
-        "Structured scent tracking and blood tracking games",
-        "Hunting field trials and simulated trail work",
-        "Canicross, trail jogging, or running alongside a bicycle once fully mature",
-        "Interactive food puzzles and nosework searches"
+        "Long walks or hikes on a lead",
+        "Free running only in large, securely fenced areas",
+        "Scent trailing and tracking games",
+        "Hunting or hound working trials where available"
       ]
     },
 
     grooming: {
       level: "Low",
 
-      brushing:
-        "Brush once or twice weekly with a rubber hound mitt or firm bristle brush to remove dead hair and keep the short coat glossy; increase during seasonal spring shedding.",
+      brushing: "A weekly rub with a hound mitt or firm bristle brush keeps the short coat clean.",
 
-      bathing:
-        "Bathe only when heavily soiled or muddy after forest hunts, using a mild canine shampoo to preserve the coat's natural weather-resistant oils.",
+      bathing: "Only when dirty; the coarse coat sheds mud well once dry.",
 
       notes: [
-        "Inspect the drop ears weekly for moisture, wax accumulation, or debris, especially after field hunts.",
-        "Check paw pads and toes for thorns, cuts, burrs, or embedded seeds after running through rocky mountain cover.",
-        "Trim strong, fast-growing nails every two to three weeks to maintain correct foot alignment.",
-        "Brush teeth several times weekly using dog-specific enzymatic toothpaste.",
-        "Wipe down the short coat with a damp cloth after woodland walks to remove dust and loose vegetation.",
-        "Maintain consistent tick, flea, and heartworm prevention during active outdoor seasons."
+        "Check feet, skin and coat for thorns, cuts and ticks after time in the woods.",
+        "Trim nails if they do not wear down naturally.",
+        "Look inside the hanging ears weekly and dry them after wet walks."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent, loyal, and eager to please, but possesses strong tracking instincts and independent scent focus that require patient, reward-based training and consistent containment",
+        "Moderate. Good-natured and willing, but bred to work independently on scent, so recall away from home is hard to make reliable.",
 
       tips: [
-        "Use positive reinforcement, high-value treats, and enthusiastic praise.",
-        "Establish reliable recall from early puppyhood on a long line, recognizing that strong scent drive can override commands in the wild.",
-        "Keep training sessions short, dynamic, and engaging to prevent boredom.",
-        "Always walk on a leash or exercise in a securely fenced enclosure, as an enticing scent trail will trigger immediate pursuit.",
-        "Channel natural trailing drive into structured scentwork, tracking, or hunting sports.",
-        "Avoid harsh verbal reprimands or physical force, which cause this sensitive hound to lose trust and withdraw."
+        "Use food rewards and praise rather than force.",
+        "Keep sessions short and varied.",
+        "Train recall on a long line and do not rely on it near game.",
+        "Give its nose regular work through tracking or scent games."
       ],
 
       socialization:
-        "Introduce the puppy in a positive, structured manner to a wide range of people, friendly vaccinated dogs, household sounds, vehicles, and varied outdoor environments. Early social exposure develops a confident, stable companion that remains composed in family settings while retaining keen hunting instincts."
+        "Introduce the puppy to many people, friendly dogs, traffic and household sounds. Early, calm experiences help the naturally steady temperament carry over into everyday life away from the hunt."
     },
 
     livingEnvironment: {
@@ -234,83 +209,62 @@ export const transylvanian_hound: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cold and snowy mountain climates, where the dense double coat provides excellent insulation",
+        "Cold and snowy climates",
         "Temperate climates",
-        "Warm climates, provided there is ample shade, indoor cooling, fresh water, and exercise is scheduled during cooler morning or evening hours"
+        "Warm climates if shade, water and exercise in the cooler hours are provided"
       ],
 
       aloneTimeTolerance:
-        "Moderate when provided with plenty of daily exercise and mental enrichment, though prolonged isolation without companionship can lead to vocal baying or digging."
+        "Moderate. Usually settles if well exercised, but a bored hound may bay or dig."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-to-large active sporting or working hounds, adjusted for seasonal field exertion.",
+      "A complete and balanced diet for a medium-sized active dog, adjusted for workload and season.",
 
     feedingFrequency: {
-      puppy:
-        "Three to four measured meals daily until six months of age, transitioning to two meals daily thereafter on a growth formula supporting steady development.",
-      adult:
-        "Two measured meals daily to support steady metabolism and minimize digestive discomfort.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint mobility, and lean muscle retention."
+      puppy: "Three to four meals a day, dropping to two by about six months.",
+      adult: "Two measured meals a day.",
+      senior: "Two smaller meals a day, adjusted to keep the dog lean."
     },
 
     guidelines:
-      "Measure food rations carefully with a digital kitchen scale or standard measuring cup, adjusting caloric intake to match seasonal hunting demands. Divide the daily allowance into two meals, refrain from vigorous running for at least one hour before and after eating, and provide cool, fresh drinking water at all times.",
+      "Measure meals and adjust portions so the ribs are easy to feel. Increase food during hunting season or hard work and cut back in quiet months. Keep fresh water available.",
 
     considerations: [
-      "Maintain a lean, muscular body condition where ribs are easily felt without excess fat padding.",
-      "Increase caloric and protein density during active autumn and winter hunting or tracking trials.",
-      "Count training treats toward the daily caloric allowance to avoid creeping weight gain during off-season months.",
-      "Rest the dog before and after meals to promote healthy digestion and reduce the risk of bloat.",
-      "Provide clean drinking water, especially during long tracking excursions in warm weather.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep the dog lean and muscular.",
+      "Count treats as part of the daily ration.",
+      "Let the dog rest around mealtimes.",
+      "Change foods gradually over about a week."
     ],
 
-    note:
-      "Caloric needs fluctuate substantially between sedentary summer months and active autumn hunting seasons. Work with a veterinarian to establish tailored daily feeding portions."
+    note: "Energy needs vary widely between a working hound and a pet; a veterinarian can help set the right amount."
   },
 
   health: {
     overview:
-      "The Transylvanian Hound is an exceptionally robust, hardy hunting dog with a typical life expectancy of 10 to 14 years. Shaped by centuries of natural selection in the demanding Carpathian mountain environment, it has largely escaped the genetic vulnerabilities associated with excessive commercial breeding. Health management focuses on routine orthopedic screening for hip and elbow dysplasia, managing drop ears to prevent otitis externa, avoiding bloat in deep-chested active dogs, and treating field-related injuries.",
+      "Little published health information exists for this rare breed, and no condition has been shown to be common in it. Owners should give it the routine care any active medium-sized hound needs: joint-friendly feeding and weight control, regular ear checks for the hanging ears, and tick and parasite prevention for a dog that spends time in the woods. Ask breeders what health checks they carry out on their breeding dogs.",
 
-    commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, monitored through pre-breeding radiographic screening programs",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening emergency in deep-chested dogs where the stomach distends with gas and twists on its axis",
-      "Otitis externa — bacterial or yeast infections in the ear canal encouraged by folded, pendant ear flaps that reduce air circulation",
-      "Field injuries — minor lacerations, pad abrasions, torn nails, or muscle sprains sustained while tracking game through dense brush or across rocky ground",
-      "Canine vector-borne infections — tick-borne diseases (such as babesiosis, Lyme disease, and anaplasmosis) encountered in wooded hunting habitats"
-    ],
+    commonConditions: [],
 
     preventiveCare: [
-      "Verify that breeding parents have official radiographic hip and elbow evaluation clearances.",
-      "Inspect and dry the pendant ears weekly, particularly after wet forest runs or swims.",
-      "Maintain strict tick, flea, and internal parasite prevention throughout active tracking seasons.",
-      "Check paw pads, toes, and skin after hunting trips for thorns, cuts, burrs, or embedded debris.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Maintain a lean, athletic body condition to avoid premature joint wear.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine dental care."
+      "Ask breeders about hip and elbow checks on the parents.",
+      "Keep the dog lean.",
+      "Check and dry the ears weekly.",
+      "Use year-round tick and flea prevention, especially in forest areas.",
+      "Check for cuts and thorns after outings.",
+      "Book a yearly veterinary check-up."
     ],
 
-    recommendedScreenings: [
-      "Radiographic hip dysplasia screening through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia screening prior to breeding",
-      "Routine clinical veterinary ophthalmic examination",
-      "Annual veterinary blood screening for tick-borne diseases in endemic hunting territories"
-    ],
+    recommendedScreenings: [],
 
-    dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+    dentalCare: "Brush the teeth several times a week and have them checked at routine vet visits.",
 
     earCare:
-      "Inspect the medium-set pendant ears weekly for wax buildup, moisture, or foul odor. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly without inserting swabs deep into the canal.",
+      "Check the hanging ears weekly for wax, moisture or smell, and clean the visible part with a vet-approved cleaner if needed.",
 
-    skinCare:
-      "Part the dense short coat weekly to inspect the skin for external parasites, scratches, or hot spots. The close-lying coat naturally sheds dirt and requires minimal skin intervention beyond regular brushing.",
+    skinCare: "Run a hand over the coat after walks to find ticks, scratches or sore spots."
   },
 
   suitability: {
@@ -321,101 +275,71 @@ export const transylvanian_hound: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active hunters, field trial competitors, and tracking enthusiasts seeking a dedicated, courageous scent hound",
-      "Experienced dog owners familiar with managing strong hound drive, vocal baying, and outdoor independence",
-      "Rural or semi-rural households with large, securely fenced outdoor space",
-      "Outdoor lovers who engage in regular long-distance hiking, trail running, or woodland exploration",
-      "Families that appreciate a calm, gentle, and quiet indoor companion paired with high outdoor energy"
+      "Hunters wanting a hound that trails and drives game",
+      "Experienced owners used to independent scent hounds",
+      "Rural homes with secure fencing",
+      "Active people who walk long distances every day"
     ],
 
     notIdealFor: [
-      "Apartment dwellers or dense urban households with shared walls and limited outdoor open space",
-      "Sedentary individuals looking for a low-exercise lap pet",
-      "Households with loose small pets such as rabbits, ferrets, or rodents vulnerable to high prey drive",
-      "Owners who require instant off-leash obedience in unfenced, wildlife-rich areas",
-      "First-time owners unprepared for independent scent-tracking instincts and loud baying"
+      "Apartment living",
+      "Owners wanting reliable off-lead recall",
+      "Homes with free-roaming small pets",
+      "People who cannot give long daily exercise"
     ]
   },
 
   funFacts: [
-    "The breed is one of Hungary's nine indigenous national dog breeds, historically developed in the forested mountains of the Carpathian Basin.",
-    "Historically, two distinct varieties of the Erdélyi kopó existed: a long-legged hound used for hunting big game (bear, boar, stag, and lynx) in mountain forests, and a short-legged hound used for hunting small game (hare and fox) in plains and overgrown underbrush.",
-    "The breed nearly vanished during the mid-twentieth century when hunting preserves were disrupted and local populations dropped precipitously, but dedicated cynologists located purebred survivors in Transylvania in 1968 and revived the lineage.",
-    "In the Middle Ages and Renaissance, the Erdélyi kopó was the prized hunting hound of the Hungarian royal court and Transylvanian princes, celebrated in medieval chronicles and tapestries.",
-    "The hound's distinctive hunting voice is high-pitched, resonant, and ringing, echoing off mountain rock faces so handlers can follow its progress several kilometers away.",
-    "The tan spots above the eyes are a traditional hound trait colloquially referred to as 'four-eyes', historically believed by mountain huntsmen to provide protective vigilance against forest spirits and predators.",
-    "Today, the long-legged variety is officially standardized and flourishing, celebrated as an authentic, versatile hunting partner and cultural treasure."
+    "It is one of nine dog breeds that Hungarian law recognises as native Hungarian breeds.",
+    "Two types once existed side by side: a long-legged hound for big game and a short-legged one for fox, hare and chamois. Only the long-legged type survives.",
+    "Its working voice changes with the job: a whining yelp on a fresh scent, then a loud, high, ringing bark during the chase.",
+    "In 2004 Hungary's parliament declared the country's native dog breeds, this one included, national treasures.",
+    "In 2023 Hungary's central bank issued a collector coin featuring the breed."
   ],
 
   faq: [
     {
-      question: "What is a Transylvanian Hound?",
+      question: "Where does the Transylvanian Hound come from?",
       answer:
-        "The Transylvanian Hound is an ancient medium-to-large Hungarian scenthound bred for trailing big game in mountain forests, known for its sleek black-and-tan coat, athletic build, and resonant voice."
+        "It is a Hungarian breed that developed in the Carpathian forests of historic Transylvania. Today it is found mainly in Hungary and Romania."
     },
     {
-      question: "Where does the Transylvanian Hound originate?",
+      question: "How big is it?",
       answer:
-        "The breed originates from the Carpathian Basin and historical Transylvania, where it was developed by Hungarian nobility and mountain huntsmen over many centuries."
+        "It stands 55 to 65 cm at the withers, with no separate figures for males and females. The minimum weight is 25 kg."
     },
     {
-      question: "What was the Transylvanian Hound bred to do?",
+      question: "What colour is it?",
       answer:
-        "It was bred to track, drive, and hold big game such as wild boar, red deer, bear, and lynx across steep, rocky woodlands, communicating with hunters using a musical ringing bark."
+        "Black with tan on the muzzle and legs and a tan spot over each eye. White markings on the face, neck, chest, feet and tail tip are allowed."
     },
     {
-      question: "What is the difference between the long-legged and short-legged varieties?",
+      question: "Is it a good family dog?",
       answer:
-        "Historically, the long-legged variety was used for big game hunting in mountain forests, while the short-legged variety was used for small game like hare and fox in dense underbrush; today, the long-legged hound is the primary officially standardized variety."
+        "It is good-natured and calm at home, but it is a working hound with a strong hunting drive. It suits experienced, active owners best."
     },
     {
-      question: "How tall and heavy is a Transylvanian Hound?",
+      question: "Can it live in an apartment?",
       answer:
-        "Adult males and females stand 55 to 65 cm at the withers (with an ideal height between 58 and 62 cm) and weigh 25 to 35 kg, with a minimum required weight of 25 kg."
+        "Not well. It needs long daily exercise and secure outdoor space, and its hunting voice is loud."
     },
     {
-      question: "How long does a Transylvanian Hound usually live?",
+      question: "Are there known health problems?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 14 years."
-    },
-    {
-      question: "What does the Transylvanian Hound's coat look like?",
-      answer:
-        "The coat is short, dense, and coarse with an undercoat, featuring a glossy black base with rich tan markings on the muzzle and legs, distinctive tan spots over the eyes, and small white markings on the chest or feet."
-    },
-    {
-      question: "Can a Transylvanian Hound live in an apartment?",
-      answer:
-        "No. Due to its high exercise requirements, working endurance, and carrying voice, the breed is not suited to apartment living and thrives best in a rural or suburban home with a securely fenced yard."
-    },
-    {
-      question: "Is the Transylvanian Hound good with children and other dogs?",
-      answer:
-        "Yes. Within its own household, it is gentle, calm, and affectionate with children, and as a traditional pack hound, it coexists harmoniously with other dogs."
-    },
-    {
-      question: "How much exercise does a Transylvanian Hound need each day?",
-      answer:
-        "The breed requires at least 60 to 90 minutes of vigorous daily physical activity, including brisk walks, hiking, and mental scent-tracking enrichment to satisfy its working nature."
-    },
-    {
-      question: "Does the Transylvanian Hound bark or bay a lot?",
-      answer:
-        "In the home, it is calm and composed, but in the field or when tracking quarry it possesses a high-pitched, ringing voice that echoes across great distances."
-    },
-    {
-      question: "What health problems are known in the Transylvanian Hound?",
-      answer:
-        "The breed is remarkably robust with few genetic disorders; primary health considerations include hip dysplasia, elbow dysplasia, ear infections from drop ears, and occasional field injuries sustained while hunting."
+        "Breed-specific health data is very limited, and no condition is known to be common. Routine care for an active hound, plus questions to the breeder about health checks, is the sensible approach."
     }
   ],
 
   references: [
     "fci-transylvanian-hound-official-standard",
     "fci-transylvanian-hound-nomenclature",
-    "meoesz-erdelyi-kopo-breed-profile",
     "ukc-transylvanian-hound-breed-standard",
     "akc-transylvanian-hound-breed-profile",
+    "mnb-erdelyi-kopo-collector-coin-2023",
+    "hungarian-native-dog-breeds-decree-2016",
+    "petmd-transylvanian-hound",
+    "meoesz-erdelyi-kopo-breed-profile",
+    "the-dog-api",
     "wikimedia-erdelyi-kopo-canarian",
     "wikimedia-transylvanian-hound-denesferi"
   ],
@@ -425,584 +349,255 @@ export const transylvanian_hound: Breed = {
       reliability: "unverified",
       sources: [],
       verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      note: "Canis lupus familiaris is the domestic-dog name used across the catalog; breed standards do not state it."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "Standard heading: ERDÉLYI KOPÓ (Transylvanian Hound)"
-        },
-        {
           id: "fci-transylvanian-hound-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: ERDÉLYI KOPÓ (241), Chien Courant Transylvanien, Transylvanischer Laufhund, Sabueso de Transilvania"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Fajtanév: Erdélyi kopó"
-        },
-        {
-          id: "ukc-transylvanian-hound-breed-standard",
-          role: "verified",
-          locator: "Breed name: Transylvanian Hound"
+          locator: "EN Hungarian Hound - Transylvanian Scent Hound; FR Chien Courant de Transylvanie; DE Ungarische Bracke - Transylvanischer Laufhund; ES Sabueso Húngaro - Sabueso de Transilvania"
         }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified across FCI Standard No. 241, FCI Nomenclature, MEOESZ, and UKC."
+      verifiedOn: "2026-11-17",
+      note: "Corrected 'Chien Courant Transylvanien' to FCI's 'Chien Courant de Transylvanie'. Removed 'Siebenbürgen Bracke', which no source checked uses."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial"
-        },
-        {
-          id: "fci-transylvanian-hound-nomenclature",
-          role: "verified",
-          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial"
-        },
-        {
-          id: "ukc-transylvanian-hound-breed-standard",
-          role: "verified",
-          locator: "Scenthound Group"
-        },
-        {
-          id: "akc-transylvanian-hound-breed-profile",
-          role: "verified",
-          locator: "Hound Group (Foundation Stock Service)"
-        }
+        { id: "fci-transylvanian-hound-official-standard", role: "verified", locator: "FCI classification: Group 6, Section 1.2 Medium-sized Hounds, with working trial" },
+        { id: "ukc-transylvanian-hound-breed-standard", role: "verified", locator: "Scenthound Group" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-17",
+      note: "The AKC profile page read on 2026-11-17 did not show a group."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Hungary; BRIEF HISTORICAL SUMMARY"
-        },
-        {
-          id: "fci-transylvanian-hound-nomenclature",
-          role: "verified",
-          locator: "Country of origin: Hungary"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Származási hely: Magyarország (Erdély)"
-        }
+        { id: "fci-transylvanian-hound-official-standard", role: "verified", locator: "Origin: Hungary; Brief history: Carpathian Mountain forests" },
+        { id: "fci-transylvanian-hound-nomenclature", role: "verified", locator: "Country of origin: Hungary" }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note: null
     },
 
     overview: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Fajtatörténet, nemesi udvarok, 1968-as megmentés és vadászati alkalmazás"
-        },
-        {
-          id: "akc-transylvanian-hound-breed-profile",
-          role: "verified",
-          locator: "About the Breed, History, and Roles"
-        },
-        {
-          id: "ukc-transylvanian-hound-breed-standard",
-          role: "cited",
-          locator: "History and Characteristics"
-        }
+        { id: "fci-transylvanian-hound-official-standard", role: "verified", locator: "Utilization; Brief history; Behaviour/temperament; Proportions; Head; Ears; Coat; Colour" },
+        { id: "ukc-transylvanian-hound-breed-standard", role: "verified", locator: "History; Characteristics" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Synthesized in original prose from FCI Standard No. 241, MEOESZ, AKC, and UKC official records."
+      verifiedOn: "2026-11-17",
+      note: null
+    },
+
+    "overview.history": {
+      reliability: "reliable_source",
+      sources: [
+        { id: "fci-transylvanian-hound-official-standard", role: "verified", locator: "Brief history: Middle Ages; two varieties; near extinction early 20th century; breeding resumed 1968; short-legged variety disappeared" },
+        { id: "mnb-erdelyi-kopo-collector-coin-2023", role: "verified", locator: "Post-WWII decline; bred again from 1968; national treasure declaration 2004" }
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Removed for lack of a reliable source: Magyar tribes and Celtic hounds in the ninth century, royal courts, Transylvanian princes, and survivors 'recovered from isolated valleys'."
+    },
+
+    "overview.currentRoles": {
+      reliability: "estimate",
+      sources: [
+        { id: "fci-transylvanian-hound-official-standard", role: "cited", locator: "Utilization" }
+      ],
+      verifiedOn: null,
+      note: "Search-and-rescue and detection roles in the earlier record were not supported and were removed."
+    },
+
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        { id: "fci-transylvanian-hound-official-standard", role: "verified", locator: "FCI classification: Medium-sized Hounds" }
+      ],
+      verifiedOn: "2026-11-17",
+      note: null
     },
 
     physical: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "HEAD, BODY, LIMBS, TAIL, COAT, COLOUR, SIZE AND WEIGHT"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Általános megjelenés, fej, test, végtagok, szőrzet és méret"
-        },
-        {
-          id: "ukc-transylvanian-hound-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
-        }
+        { id: "fci-transylvanian-hound-official-standard", role: "verified", locator: "Proportions; Head; Eyes; Ears; Tail; Coat; Colour" },
+        { id: "ukc-transylvanian-hound-breed-standard", role: "cited", locator: "Color" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Conformation, rectangular proportions, black-and-tan coat with eyebrow points, and distinctive features follow official standards."
+      verifiedOn: "2026-11-17",
+      note: "The standard does not state a tooth count, so the earlier '42 teeth' was removed. Ears reach the eyes, not the mouth."
     },
 
     "physical.height": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: 55 to 65 cm. The ideal height is 58 to 62 cm."
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Marmagasság: 55-65 cm (ideális: 58-62 cm)"
-        },
-        {
-          id: "ukc-transylvanian-hound-breed-standard",
-          role: "verified",
-          locator: "Height at withers: 21.5 to 25.5 inches (55 to 65 cm); ideal 23 to 24.5 inches (58 to 62 cm)"
-        }
+        { id: "fci-transylvanian-hound-official-standard", role: "verified", locator: "Size: height at withers 55 to 65 cm; no separate figures by sex" },
+        { id: "ukc-transylvanian-hound-breed-standard", role: "verified", locator: "Height at the withers is 21.5 to 25.5 inches" },
+        { id: "the-dog-api", role: "conflicting", locator: "breed.height.metric: males 55-66, females 51-62 cm" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Preserved in published unit of centimetres (55 to 65 cm) exactly as specified in FCI Standard No. 241 and MEOESZ standard."
+      verifiedOn: "2026-11-17",
+      note: "Stored in centimetres as FCI publishes. The 'ideal 58 to 62 cm' in the earlier record is not in the FCI standard and was removed."
     },
 
     "physical.weight": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "Weight: Minimum 25 kg."
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Súly: minimum 25 kg (általában 25-35 kg)"
-        },
-        {
-          id: "ukc-transylvanian-hound-breed-standard",
-          role: "verified",
-          locator: "Weight: Minimum weight is 55 pounds (25 kg); typical working weight is 55 to 77 pounds (25 to 35 kg)"
-        }
+        { id: "fci-transylvanian-hound-official-standard", role: "verified", locator: "Weight: minimum 25 kg" },
+        { id: "ukc-transylvanian-hound-breed-standard", role: "verified", locator: "Minimum weight is 55 pounds" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "FCI Standard No. 241 specifies a minimum weight of 25 kg. National breed club and working documentation record a typical weight range of 25 to 35 kg, preserved in kilograms."
+      verifiedOn: "2026-11-17",
+      note: "Only a minimum is published. The earlier 35 kg maximum was not found in any standard and was removed."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "unavailable",
+      sources: [
+        { id: "the-dog-api", role: "conflicting", locator: "breed.weight.metric: 25-35 kg" }
+      ],
+      verifiedOn: null,
+      note: "No standard gives a maximum weight."
+    },
+
+    "physical.weight.female.max": {
+      reliability: "unavailable",
+      sources: [
+        { id: "the-dog-api", role: "conflicting", locator: "breed.weight.metric: 25-30 kg" }
+      ],
+      verifiedOn: null,
+      note: "No standard gives a maximum weight."
     },
 
     "physical.lifespanYears": {
-      reliability: "reliable_source",
+      reliability: "unverified",
       sources: [
-        {
-          id: "akc-transylvanian-hound-breed-profile",
-          role: "verified",
-          locator: "Life Expectancy: 10-12 years (up to 14 years in working documentation)"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Várható élettartam: 10-14 év"
-        }
+        { id: "the-dog-api", role: "cited", locator: "breed.life_span: 10-14 years" },
+        { id: "petmd-transylvanian-hound", role: "conflicting", locator: "Average 10 to 12 years" }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Supported by kennel club and breed club actuarial profiles."
+      verifiedOn: null,
+      note: "No kennel club, breed club or scientific source checked gives a lifespan."
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "COAT: Dense, straight, short, rather harsh coarse outer coat with undercoat"
-        },
-        {
-          id: "akc-transylvanian-hound-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5 to 3/5)"
-        }
+        { id: "petmd-transylvanian-hound", role: "cited", locator: "Sheds an average amount" }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: null,
       note: null
     },
 
     "physical.droolingLevel": {
-      reliability: "official_standard",
+      reliability: "estimate",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "Lips: Dry and tight-fitting; dark pigmentation"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Ajkak: Szorosan a fogsorra simulóak, szárazak"
-        }
+        { id: "fci-transylvanian-hound-official-standard", role: "cited", locator: "Lips: dry and tight-fitting" }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Tight, dry lips result in low drooling."
+      verifiedOn: null,
+      note: null
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Good-natured, courageous, persistent, calm, dependable, high-pitched ringing voice"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Természet és viselkedés: Bátor, kitartó, barátságos, intelligens, tiszta hangú csaholás"
-        },
-        {
-          id: "ukc-transylvanian-hound-breed-standard",
-          role: "verified",
-          locator: "Characteristics: Courageous, persistent, pleasant temperament, ringing voice"
-        }
+        { id: "fci-transylvanian-hound-official-standard", role: "verified", locator: "Behaviour/temperament; Utilization (works independently, far from handler)" },
+        { id: "ukc-transylvanian-hound-breed-standard", role: "verified", locator: "Good natured and courageous, quiet but determined" },
+        { id: "akc-transylvanian-hound-breed-profile", role: "cited", locator: "Good-natured, courageous, enduring; quiet and even, determined and lively" }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note: null
     },
 
     "temperament.scores": {
       reliability: "estimate",
-      sources: [
-        {
-          id: "akc-transylvanian-hound-breed-profile",
-          role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "cited",
-          locator: "Viselkedési profil és alkalmazhatóság"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented hound temperament and working drive."
+      note: "Editorial 1-5 scores."
     },
 
     care: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "cited",
-          locator: "Gondozás, tartás és kiképzés"
-        },
-        {
-          id: "akc-transylvanian-hound-breed-profile",
-          role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Combines active hunting hound management with short-coat hound care protocols."
-    },
-
-    "care.exercise.level": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Hound capable of hunting big game independently over long distances"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Mozgásigény és vadászati alkalmasság"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: null
+      note: "General care advice for an active, short-coated scent hound."
     },
 
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
-      sources: [
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "cited",
-          locator: "Napi mozgás és fizikai aktivitás"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic mountain scenthound."
+      note: "Editorial estimate; no source checked gives minutes per day."
     },
 
-    "care.livingEnvironment.apartmentSuitable": {
+    "care.livingEnvironment": {
       reliability: "estimate",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "cited",
-          locator: "High stamina mountain hound with carrying ringing bay"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "cited",
-          locator: "Tartási körülmények: kertes ház javasolt"
-        }
+        { id: "fci-transylvanian-hound-official-standard", role: "cited", locator: "Tolerates extreme weather" }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that high exercise needs and resonant tracking instincts make apartment living unsuitable."
-    },
-
-    "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Ideális környezet: biztonságosan bekerített kerttel rendelkező otthon"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: null
-    },
-
-    "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "COAT: Dense, harsh double coat adapted to harsh continental and mountain winter climates"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Időjárásállóság a Kárpátok zord éghajlatán"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: null
-    },
-
-    "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "cited",
-          locator: "Egyedüllét-tűrés és szeparáció"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Scenthounds can tolerate moderate alone time when thoroughly exercised, but can become vocal if isolated without enrichment."
+      note: "Editorial judgement."
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "cited",
-          locator: "Táplálás és szezonális energiaszükséglet"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active sporting and hunting dogs."
+      note: "General feeding advice; not breed-specific."
     },
 
-    "nutrition.feedingFrequency": {
+    health: {
       reliability: "general_guidance",
       sources: [
-        {
-          id: "akc-transylvanian-hound-breed-profile",
-          role: "cited",
-          locator: "Life-stage nutrition and portion control"
-        }
+        { id: "petmd-transylvanian-hound", role: "cited", locator: "Generally healthy; hip and elbow dysplasia mentioned as issues to be aware of" }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
-    },
-
-    "health.overview": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Általános egészség, szűrések és genetikai sokféleség"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Documents high overall constitutional hardiness alongside routine orthopedic screening programs."
+      note: "General preventive care for an active hound."
     },
 
     "health.commonConditions": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Csípőízületi diszplázia szűrés, gyomorcsavarodás megelőzése és sérülések"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Identifies documented breed considerations without using prohibited registry labels in prose."
-    },
-
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "cited",
-          locator: "Megelőző állatorvosi ellátás és fülápolás"
-        }
-      ],
+      reliability: "unavailable",
+      sources: [],
       verifiedOn: null,
-      note: "Field hygiene protocol tailored to drop-eared hunting hounds."
+      note: "No breed-specific prevalence data was found. Hip and elbow dysplasia, bloat, ear infections, field injuries and tick-borne disease were listed before without a breed-specific source; they are now covered only as general preventive advice."
     },
 
     "health.recommendedScreenings": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Tenyésztési feltétel: csípőízületi diszplázia (HD) szűrés"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Pre-breeding evaluations recommended by the national breed authority."
-    },
-
-    "health.dentalCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete, regular scissor bite, 42 teeth"
-        }
-      ],
+      reliability: "unavailable",
+      sources: [],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
-    },
-
-    "health.earCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "cited",
-          locator: "Ears: medium set, hanging close to the cheeks, rounded tips"
-        }
-      ],
-      verifiedOn: null,
-      note: "Ear maintenance protocol for drop ears."
-    },
-
-    "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "cited",
-          locator: "Skin: medium thick, dark pigmentation"
-        }
-      ],
-      verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: "The earlier claim of a Hungarian hip-screening requirement could not be confirmed; the cited MEOESZ URL opens the club's homepage, not a breed page."
     },
 
     suitability: {
       reliability: "estimate",
-      sources: [
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "cited",
-          locator: "Alkalmasság: vadászoknak és aktív gazdáknak"
-        },
-        {
-          id: "akc-transylvanian-hound-breed-profile",
-          role: "cited",
-          locator: "Family life ratings and handler requirements"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Suitability flags and lists reflect editorial evaluations of hound exercise needs and hunting drive."
+      note: "Editorial judgement."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "Brief historical summary: historic tall and short varieties, royal packs, 1968 rescue"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Nemzeti kincs, négy szemű jegy (szemöldökfoltok), csaholás és történelem"
-        }
+        { id: "hungarian-native-dog-breeds-decree-2016", role: "verified", locator: "List of Hungarian dog breeds: (b) erdélyi kopó, among nine" },
+        { id: "fci-transylvanian-hound-official-standard", role: "verified", locator: "Brief history (two varieties); Utilization (voice)" },
+        { id: "mnb-erdelyi-kopo-collector-coin-2023", role: "verified", locator: "2004 national treasure declaration; 2023 collector coin" }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified historical and functional facts written without prohibited names."
+      verifiedOn: "2026-11-17",
+      note: "Removed for lack of a reliable source: royal tapestries and chronicles, 'four-eyes' folklore, and handlers hearing the dog several kilometres away."
     },
 
     faq: {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
-        {
-          id: "fci-transylvanian-hound-official-standard",
-          role: "verified",
-          locator: "Origin, size (55-65 cm), weight (min 25 kg), coat, and colors"
-        },
-        {
-          id: "meoesz-erdelyi-kopo-breed-profile",
-          role: "verified",
-          locator: "Súly (25-35 kg), életkor (10-14 év), vadászati mód és egészség"
-        },
-        {
-          id: "ukc-transylvanian-hound-breed-standard",
-          role: "verified",
-          locator: "General characteristics and temperament"
-        }
+        { id: "fci-transylvanian-hound-official-standard", role: "cited", locator: "Origin; Size; Colour" }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "FAQ answers synthesize verified standards and parent-club guidance without naming registries in prose."
+      verifiedOn: null,
+      note: "Factual answers follow the FCI standard; suitability and health answers are editorial."
     }
   },
 
-  updatedOn: "2026-11-08"
+  updatedOn: "2026-11-17"
 };
