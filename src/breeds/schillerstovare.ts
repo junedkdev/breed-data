@@ -3,157 +3,154 @@ import type { Breed } from "../schema/breed.types";
 export const schillerstovare: Breed = {
   slug: "schillerstovare",
   name: "Schillerstövare",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Schiller Hound",
-    "Schillerbracke",
-    "Chien Courant Schiller",
-    "Sabueso de Schiller"
+    "Chien courant de Schiller",
+    "Sabueso Schiller",
+    "Schillerinajokoira",
+    "Schillerstøver",
   ],
 
   group:
-    "Scenthounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial; also classified in the Scenthound group)",
+    "Scent Hounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial)",
 
   origin: {
     country: "Sweden",
-    region: "Southern and Central Sweden"
+    region: "Bohuslän / West Gothia (western Sweden)",
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Schillerst%C3%B6vare.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Schillerst%C3%B6vare.jpg",
-      title: "Schillerstövare.jpg",
-      description: "An adult Schillerstövare standing outdoors.",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Go%C5%84czy_schillera_LM.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Go%C5%84czy_schillera_LM.jpg",
+      title: "Gończy schillera LM.jpg",
+      description: "An adult Schillerstövare outdoors.",
       creator: "Lilly M",
       uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2577,
-      height: 1984,
-      licenseId: "cc-by-sa-3.0",
+      capturedOn: "2007-03-16",
+      uploadedOn: "2007-03-16",
+      width: 1996,
+      height: 1768,
+      licenseId: "cc-by-sa-2.5",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Schillerst%C3%B6vare.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 2.5. Source: https://commons.wikimedia.org/wiki/File:Go%C5%84czy_schillera_LM.jpg. License: https://creativecommons.org/licenses/by-sa/2.5/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24"
+      metadataCheckedOn: "2026-11-17",
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Schillerstovare_600.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Schillerstovare_600.jpg",
-      title: "Schillerstovare 600.jpg",
-      description: "A Schillerstövare profile view.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Schiller_Hound_aka_Schillerst%C3%B6vare_1.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Schiller_Hound_aka_Schillerst%C3%B6vare_1.jpg",
+      title: "Schiller Hound aka Schillerstövare 1.jpg",
+      description: "A male Schillerstövare standing in profile.",
+      creator: "Canarian",
+      uploader: "Canarian",
+      capturedOn: "2006-03-10",
+      uploadedOn: "2006-03-10",
+      width: 498,
+      height: 358,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Schillerstovare_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Schiller_Hound_aka_Schillerst%C3%B6vare_1.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24"
-    }
+      metadataCheckedOn: "2026-11-17",
+    },
   ],
 
   overview: {
     summary:
-      "A fast, agile, medium-sized Swedish scenthound renowned for its rectangular athletic frame, striking black mantle over deep tan, ringing melodious tracking voice, and relentless drive when trailing hare and fox across rugged Scandinavian terrain.",
+      "The Schillerstövare is a medium-sized, well-proportioned Swedish scent hound built for speed and strength, recognised for its rich golden-tan coat with a sharply defined black mantle and its powerful, clear voice when trailing fox and hare.",
 
     description:
-      "The Schillerstövare is an elegant, medium-sized scenthound developed in Sweden specifically for solo tracking of mountain hare and red fox. Built with dry, sinewy bone and a rectangular silhouette, the dog exemplifies athletic endurance and speed rather than cumbersome mass. Its double coat is harsh, dense, and lies close to the body, displaying a well-defined black mantle covering the back and sides over a rich, deep golden-tan base. The head is elongated and noble, featuring a dry, moderately broad skull, expressive dark brown eyes radiating intelligence, and high-set pendant ears that hang flat with rounded tips. In the home, it presents a tranquil, friendly, and gentle disposition, but outdoors it possesses immense stamina, a sharp sense of smell, and a distinct, ringing bark that carries across snowy forests and rocky hills.",
+      "Built on a slightly rectangular, well-angulated frame with dry, sinewy muscle, the Schillerstövare gives an immediate impression of speed, agility, and endurance suited to long Nordic winter hunting seasons. Its harsh, close-lying coat is rich golden to deep tan with a jet-black mantle covering the neck, back, upper shoulders, flanks, loin, and top of the tail. An elongated, triangular head with dark brown eyes and high-set hanging ears gives the breed an alert, noble expression. Bred to work alone rather than in a pack, it is a thorough, single-minded tracker with a resonant driving voice in the forest, yet calm, even-tempered, and amenable indoors when its hunting and exercise needs are met.",
 
     history:
-      "The breed was established in the late nineteenth century by Swedish farmer and huntsman Per Schiller of Stenungsund, Bohuslän. At Sweden's inaugural dog show in Stockholm in 1886, Per Schiller presented two sibling hounds named Ralla I and Tamburini I, who traced their ancestry to southern German hound imports crossed with native Swedish scenthounds and British harriers. These hounds gained immediate acclaim among Scandinavian hunters for their lightfooted speed on icy, rocky ground and their remarkable tenacity when trailing solo. The breed was officially recognized in Sweden in 1907 and subsequently named in honour of Per Schiller, while international breed recognition was formalized in 1954. To this day, the breed maintains its traditional role as a specialized solo tracking hound across the Nordic wilderness.",
+      "The breed was established in late nineteenth-century western Sweden by farmer Per Schiller (1858–1892) of Stenungsund in Bohuslän. At Sweden's first dog show in 1886, Schiller exhibited two small black-and-tan sibling hounds from the Kaflås estate—Tamburini and Ralla I—whose ancestry traced to southern German hunting hounds. Swiss hounds and English hounds, particularly Harriers, were subsequently blended into this foundation line to create a fast, sure-footed solo tracker prized especially for red fox and hare. Although Per Schiller died in 1892 at age 34, his strain was preserved and officially recognised in Sweden in 1907 under the name Schillerstövare, receiving definitive international recognition on 5 January 1955.",
 
     originalPurpose:
-      "Solo scent-trailing and driving of mountain hare (Lepus timidus) and red fox across snowy forests and rocky Scandinavian landscapes.",
+      "Solo vocal scent-trailing and driving of red fox and hare (never deer) across rugged Scandinavian forests and winter terrain.",
 
     currentRoles: [
-      "Traditional solo hunting hound for hare and fox",
-      "Field trial and competitive scent tracking dog",
-      "Active outdoor companion for rural sporting households",
-      "Search and tracking detection dog"
-    ]
+      "Solo hunting scent hound for red fox and hare",
+      "Nordic scent-hound field trial competitor",
+      "Tracking and mantrailing dog",
+      "Active family companion in hunting households",
+    ],
   },
 
   physical: {
-    sizeCategory: "Medium",
+    sizeCategory: "Medium-sized, rectangular, athletic scent hound",
 
     height: {
       unit: "cm",
       male: {
         min: 53,
-        max: 61
+        max: 61,
       },
       female: {
         min: 49,
-        max: 57
-      }
+        max: 57,
+      },
     },
 
     weight: {
       unit: "kg",
       male: {
         min: 20,
-        max: 25
+        max: 25,
       },
       female: {
         min: 18,
-        max: 23
-      }
+        max: 23,
+      },
     },
 
     lifespanYears: {
       min: 12,
-      max: 15
+      max: 15,
     },
 
     coatType:
-      "Harsh, not too short, very close-lying double coat with a dense, soft undercoat; slightly longer on the neck, back, and underside of the tail, but without forming a brush or feathering.",
+      "Harsh, dense, weather-resistant coat that is not too short and lies very close to the body.",
 
-    coatLength: "Short",
+    coatLength:
+      "Short and smooth on the head, ears, and front of the legs; close-lying on the trunk and slightly longer on the underside of the tail and back of the thighs.",
 
     coatColors: [
-      "Deep tan with a well-defined black mantle covering the back, sides of the neck, sides of the torso, and upper surface of the tail",
-      "Tan with small, discrete white markings on the chest or toes (acceptable, though solid tan and black is preferred)"
+      "Golden to rich deep tan with a clearly defined black mantle over the back of the neck, back, upper shoulders, sides of the trunk, loin, and top of the tail (black cheek marks permitted)",
+      "Tan with a black mantle and slight white markings on the chest and toes",
     ],
 
-    sheddingLevel:
-      "Low to moderate year-round, increasing slightly during seasonal undercoat sheds in spring and autumn",
+    sheddingLevel: null,
 
-    droolingLevel:
-      "Low; the lips are lean, tight, and close-fitting with dark pigmentation",
+    droolingLevel: null,
 
     distinctiveFeatures: [
-      "Rectangular body proportion, slightly longer than tall, combining strength with sinewy agility",
-      "Well-defined black mantle extending across the neck, back, flanks, and tail over a rich tan ground",
-      "Elongated, dry, wedge-shaped head with parallel planes and a moderate stop",
-      "Clear, dark brown eyes with tightly fitting lids and a calm, attentive expression",
-      "High-set, broad pendant ears hanging flat with rounded tips, reaching halfway along the muzzle when pulled forward",
-      "Tight, dry, non-pendulous lips with black rims",
-      "Strong jaws with a complete, regular scissor bite",
-      "Dry, muscular neck without throatiness or loose dewlap",
-      "Deep, oval chest reaching to the elbows with well-sprung ribs",
-      "Tail set in line with the croup, broad at the base, tapering to the hock, and carried straight or in a gentle sabre curve",
-      "Dry, sinewy limbs with tight, oval, cat-like feet and hard, dark pads",
-      "Ideal withers height of 57 cm for males and 53 cm for females"
-    ]
+      "Slightly rectangular, well-angulated body built for speed, strength, and winter endurance",
+      "Rich golden-to-deep-tan base colour with a sharply defined jet-black mantle",
+      "Elongated head forming a triangular outline from above and the side",
+      "Dark brown eyes with a lively, attentive expression",
+      "High-set hanging ears lying flat with rounded tips, reaching nearly halfway along the muzzle when drawn forward",
+      "Dry, tight-fitting lips and a complete, regular scissor bite",
+      "Strong, long neck merging smoothly into the shoulders without loose throat skin",
+      "Tail set straight off the topline, broad at the base and tapering toward the hocks, carried straight or in a slight sabre curve",
+      "Oval feet with tightly knit, well-arched toes and tough pads built for snow and rocky ground",
+      "Ideal height at the withers of 57 cm for males (range 53–61 cm) and 53 cm for females (range 49–57 cm)",
+    ],
   },
 
   temperament: {
     traits: [
-      "Calm, friendly, and quiet in the household",
-      "Passionate, spirited, and determined in the field",
-      "Alert, attentive, and highly observant of surroundings",
-      "Deeply loyal and affectionate with familiar family members",
-      "Sociable and non-aggressive with other dogs",
-      "Polite and slightly reserved with unfamiliar people without timidity",
-      "High stamina and relentless hunting desire",
-      "Independent problem-solver when tracking quarry",
-      "High predatory drive toward small game, hares, and rodents",
-      "Musical, resonant, and carrying voice when working a scent line"
+      "Lively, attentive, and observant",
+      "Even-tempered, calm, and stable indoors",
+      "Single-minded, thorough, and tireless when trailing fox or hare",
+      "Bred to hunt solo rather than in a pack, with a clear, powerful driving voice",
+      "Friendly and cooperative with its handler and family",
+      "Never aggressive, aloof, or overly shy",
+      "Strong hunting instinct that requires active field outlets",
     ],
 
     scores: {
@@ -165,64 +162,62 @@ export const schillerstovare: Breed = {
       independence: 4,
       trainability: 3,
       barking: 3,
-      energy: 4
-    }
+      energy: 4,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "High; bred as a tireless endurance hunting dog requiring vigorous daily physical exercise and olfactory stimulation",
+        "High. A specialised working hound bred for long days on fox and hare trails, the Schillerstövare is not suited to life solely as a companion dog and needs substantial daily exercise and scent work.",
 
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 90,
       },
 
       activities: [
-        "Long daily hikes or brisk walks across rural and wooded trails",
-        "Structured scent tracking and blood tracking games",
-        "Supervised free running in a large, securely fenced field",
-        "Canicross, trail running, or jogging alongside a bicycle once skeletally mature",
-        "Hunting field trials and simulated trail work",
-        "Nosework and interactive food puzzle enrichment"
-      ]
+        "Active hunting and field trailing of fox and hare in season",
+        "Long daily woodland hikes and brisk country walks",
+        "Structured scent-tracking, blood-trailing, and nose-work exercises",
+        "Conditioning runs or cycling sessions once fully mature",
+        "Field trials and recall/obedience practice in the forest",
+      ],
     },
 
     grooming: {
       level: "Low",
 
       brushing:
-        "Brush once weekly with a rubber curry comb or firm bristle brush to remove loose hair and dirt; increase to twice weekly during seasonal spring shedding.",
+        "Brush weekly with a rubber grooming mitt or bristle brush to lift loose hair and forest dust, brushing more often during spring and autumn coat changes.",
 
       bathing:
-        "Bathe only when heavily soiled or after muddy tracking excursions, using a mild canine shampoo to preserve the coat's natural weather-repellent oils.",
+        "Bathe only as needed when dirty after fieldwork using a mild canine shampoo.",
 
       notes: [
-        "Inspect the pendant ears weekly for moisture, wax accumulation, or debris, especially after field hunts.",
-        "Check paw pads and toes for thorns, ice accumulation, or cuts after running on rocky or frozen ground.",
-        "Wipe down the coat with a damp towel after outdoor runs to remove trail dust and loose vegetation.",
-        "Trim nails every two to three weeks to prevent splayed toes and maintain foot structure.",
-        "Brush teeth multiple times weekly using dog-specific enzymatic toothpaste.",
-        "Check skin and coat thoroughly for ticks and external parasites during active outdoor seasons."
-      ]
+        "Inspect the hanging ears weekly for moisture, dirt, or redness after wet woodland runs.",
+        "Check paw pads, nails, and interdigital skin after running over rough, frozen, or rocky ground.",
+        "Wipe the coat dry after snow or rain outings.",
+        "Keep nails trimmed short so the oval feet remain compact.",
+        "Brush teeth routinely with canine toothpaste.",
+        "Check the skin and coat for ticks during the outdoor season.",
+      ],
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent, gentle, and cooperative, but guided by an intense scenting drive that can override handler focus in open wilderness",
+        "Moderate. Calm, cooperative, and easy to handle in everyday life, yet possessing a powerful hunting drive that requires early forest obedience and guidance onto permitted quarry.",
 
       tips: [
-        "Employ positive reinforcement, praise, and high-value food rewards.",
-        "Establish reliable recall from early puppyhood using a long training line in secure outdoor areas.",
-        "Keep sessions varied, short, and engaging to prevent boredom from mechanical repetition.",
-        "Always walk on a leash or inside securely fenced grounds, as an appealing hare or fox scent will trigger pursuit.",
-        "Channel natural hunting desire into structured scentwork, tracking, or search tasks.",
-        "Avoid harsh verbal reprimands or coercive corrections, which cause this sensitive hound to lose trust and withdraw."
+        "Begin recall and forest obedience training early in puppyhood using patient, reward-based methods.",
+        "Guide the young hound carefully onto its intended game (fox and hare) while teaching steadiness around deer and livestock.",
+        "Keep the dog on a lead or long line in unfenced areas outside hunting sessions.",
+        "Use tracking and scent games to provide mental work during the non-hunting season.",
+        "Avoid harsh corrections, which conflict with its gentle, cooperative temperament.",
       ],
 
       socialization:
-        "Introduce the puppy in a positive, structured manner to a wide range of people, vaccinated dogs, household noises, vehicles, and varied outdoor environments. Early social exposure develops a confident, stable companion that remains composed in family settings while retaining keen hunting instincts."
+        "Introduce puppies steadily and positively to varied people, other dogs, household environments, vehicle travel, and calm handling. Early socialisation supports the breed's naturally stable, approachable temperament.",
     },
 
     livingEnvironment: {
@@ -230,79 +225,75 @@ export const schillerstovare: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cold and snowy Nordic climates, where the dense double coat provides excellent insulation",
-        "Temperate climates",
-        "Warm climates provided there is ample shade, fresh water, and exercise is restricted to early morning or late evening hours"
+        "Cold and snowy Nordic climates, for which its dense, close-lying coat was developed",
+        "Temperate climates with direct access to forest and countryside",
+        "Warm weather with shade, fresh water, and activity restricted to cool hours",
       ],
 
       aloneTimeTolerance:
-        "Moderate when thoroughly exercised beforehand, though prolonged isolation without mental enrichment can lead to frustration, vocal howling, or digging"
-    }
+        "Moderate when given sufficient hunting work, outdoor exercise, and family contact, though prolonged isolation without stimulation can trigger vocalising.",
+    },
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized, active sporting or working hounds, adjusted for seasonal field exertion.",
+      "Complete, balanced diet formulated for medium-sized, active working hounds and scaled to seasonal hunting workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured meals daily until six months of age, transitioning to two meals daily thereafter.",
+        "Feed three to four measured meals daily in early puppyhood, transitioning to two meals daily from around six months of age.",
       adult:
-        "Two measured meals daily to support steady metabolism and minimize digestive discomfort.",
+        "Feed two measured meals daily, adjusting calorie density between active autumn/winter hunting seasons and quieter summer months.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint mobility, and lean muscle preservation."
+        "Feed two measured meals daily adjusted to activity level, body condition, and age.",
     },
 
     guidelines:
-      "Measure food rations carefully with a digital kitchen scale or standard measuring cup, adjusting caloric intake to match seasonal hunting demands. Divide the daily allowance into two meals, refrain from vigorous running for at least one hour before and after eating, and provide cool, fresh drinking water at all times.",
+      "Measure meals to maintain a lean, well-muscled working condition without excess weight. Increase energy intake during demanding winter hunting periods, allow rest before and after meals around hard exercise, and keep clean water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition where ribs are easily felt without excess fat padding.",
-      "Increase caloric and protein density during autumn and winter hunting or tracking trials.",
-      "Count training treats toward the daily caloric allowance to avoid creeping weight gain during off-season months.",
-      "Rest the dog before and after meals to promote healthy digestion.",
-      "Provide clean drinking water, especially during long tracking excursions in warm weather.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep the dog lean so joints and paws are not overloaded during long runs.",
+      "Scale food intake upward during the hunting season and downward during rest periods.",
+      "Include training rewards within the daily calorie budget.",
+      "Rest the dog before and after meals on hunting days.",
+      "Provide fresh water before and after long trailing sessions.",
+      "Transition between foods gradually over several days.",
     ],
 
     note:
-      "Caloric needs fluctuate substantially between sedentary summer months and active autumn hunting seasons. Work with a veterinarian to establish tailored daily feeding portions."
+      "General canine nutrition guidance; individual ration sizes depend on age, food energy density, and hunting workload.",
   },
 
   health: {
     overview:
-      "The Schillerstövare is a exceptionally hardy, robust hunting breed with a typical lifespan of 12 to 15 years. Bred primarily by dedicated huntsmen for functional performance and endurance in the challenging Swedish wilderness, it has largely escaped the extreme conformational exaggerations and hereditary genetic defects seen in many popular companion breeds. Health considerations focus primarily on active sporting injuries, drop-ear management, and routine orthopedic screening, including hip dysplasia and otitis externa.",
+      "The Schillerstövare is widely regarded in Sweden as a healthy, long-lived hunting breed (typically living 12 to 15 years) with no widespread severe hereditary diseases. Hip dysplasia occurs occasionally, though Swedish kennel-club authorities discontinued the former mandatory hip-radiograph programme after prevalence remained low (while still advising against breeding dogs with clinical symptoms or severe grades). Idiopathic epilepsy has been recorded only sporadically over the past decade and is managed by excluding affected dogs from breeding. Routine care focuses on ear checks and paw and skin inspection after forest work.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the hip joints, monitored through pre-breeding radiographic screening programs",
-      "Otitis externa — bacterial or yeast infections in the ear canal encouraged by folded, pendant ear flaps that reduce air circulation",
-      "Field injuries — minor lacerations, pad abrasions, torn nails, or muscle sprains sustained while tracking game through dense brush or across rocky ground",
-      "Canine vector-borne infections — tick-borne diseases (such as Lyme disease and Anaplasma) encountered in wooded hunting habitats"
+      "Hip dysplasia — recorded occasionally in the breed, though at a low enough frequency that mandatory radiographic screening was discontinued in Sweden.",
+      "Idiopathic epilepsy — reported sporadically in isolated cases, monitored through breeding selection.",
+      "Field injuries — pad cuts, torn nails, or skin scrapes acquired while running in rough forest terrain.",
+      "Otitis externa — ear-canal irritation if the hanging ears remain damp or dirty after fieldwork.",
     ],
 
     preventiveCare: [
-      "Verify that breeding parents have official radiographic hip evaluation clearances.",
-      "Inspect and dry the pendant ears weekly, particularly after wet forest runs or swims.",
-      "Maintain strict tick, flea, and internal parasite prevention throughout active tracking seasons.",
-      "Check paw pads, toes, and skin after hunting trips for thorns, cuts, burrs, or embedded debris.",
-      "Maintain a lean, athletic body condition to avoid premature joint wear.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine dental care."
+      "Confirm that breeding parents are clinically sound and free of seizure history or severe hip dysplasia.",
+      "Inspect and dry the hanging ears weekly, especially after wet or snowy hunting days.",
+      "Check paw pads, claws, and coat after every forest run for cuts, thorns, or ticks.",
+      "Use reliable tick and parasite prevention during the outdoor season.",
+      "Keep the hound in lean, muscular condition year-round.",
+      "Maintain routine veterinary wellness checks and dental care.",
     ],
 
-    recommendedScreenings: [
-      "Radiographic hip dysplasia screening prior to breeding",
-      "Routine clinical veterinary ophthalmic examination",
-      "Annual veterinary blood screening for tick-borne diseases in endemic hunting territories"
-    ],
+    recommendedScreenings: [],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine toothpaste and have teeth checked at routine veterinary visits.",
 
     earCare:
-      "Inspect the high-set pendant ears weekly for wax buildup, moisture, or foul odor. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly without inserting swabs deep into the canal.",
+      "Check the hanging ears weekly for moisture, wax, or odour, and clean gently with a veterinarian-approved ear cleanser when needed.",
 
     skinCare:
-      "Part the harsh coat weekly to inspect the skin for external parasites, scratches, or hot spots. The close-lying coat naturally sheds dirt and requires minimal skin intervention beyond regular brushing."
+      "Brush through the harsh, close-lying coat after forest outings to remove dirt, burrs, and ticks, and inspect paw pads for ice or rock wear.",
   },
 
   suitability: {
@@ -313,87 +304,80 @@ export const schillerstovare: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active hunters, field trial competitors, and tracking enthusiasts seeking a dedicated solo hound",
-      "Experienced dog owners familiar with managing strong scenthound drive and outdoor independence",
-      "Rural or semi-rural households with large, securely fenced outdoor space",
-      "Outdoor lovers who engage in regular long-distance hiking, trail running, or woodland exploration",
-      "Families that appreciate a calm, gentle, and quiet indoor companion paired with high outdoor energy"
+      "Fox and hare hunters seeking a dedicated, vocal solo scent hound",
+      "Rural households with forest access and a securely fenced yard",
+      "Active handlers who enjoy tracking, field trials, and long woodland hikes",
+      "Families in hunting homes who appreciate a calm, friendly dog indoors",
     ],
 
     notIdealFor: [
-      "Apartment dwellers or dense urban households with shared walls and limited outdoor open space",
-      "Sedentary individuals looking for a low-exercise lap pet",
-      "Households with loose small pets such as pet rabbits, ferrets, or rodents vulnerable to high prey drive",
-      "Owners who require instant off-leash obedience in unfenced, wildlife-rich areas",
-      "First-time owners unprepared for independent scent-tracking instincts"
-    ]
+      "Households looking solely for a non-hunting companion pet",
+      "Apartment dwellers or dense urban environments",
+      "Sedentary owners unable to provide vigorous daily outdoor exercise",
+      "Homes with free-roaming small pets or unfenced access to wildlife",
+    ],
   },
 
   funFacts: [
-    "The Schillerstövare was officially created and named after Per Schiller, a passionate Swedish farmer and hunter who presented the foundation dogs Ralla I and Tamburini I at Sweden's very first dog show in 1886.",
-    "Unlike many European scenthounds that hunt quarry in large packs, the Schillerstövare was selectively bred to hunt entirely solo, trailing hares with independence and self-reliance.",
-    "The breed is known for its distinct, ringing voice ('drevskall'), which changes tone and frequency to convey to the hunter exactly how fresh the scent trail is and whether the quarry is in sight.",
-    "Its harsh double coat and black-and-tan mantle were bred to withstand the bitter cold, freezing rain, and dense snowdrifts of Swedish winters without accumulating heavy ice.",
-    "Swedish hunters consider the Schillerstövare one of the fastest scenthounds, possessing a lightfooted gallop that allows it to navigate frozen, rocky terrain with remarkable agility.",
-    "The breed is one of four native Swedish hounds (Stövare), alongside the Hamiltonstövare, Dunker, and Smålandsstövare, each developed for specific regional hunting conditions."
+    "Named after Swedish farmer Per Schiller (1858–1892) of Stenungsund, the breed launched at Sweden's first dog show in 1886 with the sibling hounds Tamburini and Ralla I.",
+    "Although Per Schiller died of pneumonia on New Year's Eve 1892 at age 34, his hound strain was preserved and officially recognised in 1907 as Sweden's first native dog breed.",
+    "Unlike pack hounds on the European continent, the Schillerstövare is bred to trail quarry entirely solo, using a powerful, resonant bark ('drevskall') so the hunter can follow the chase by sound.",
+    "Roughly 80 percent of Swedish hunters who work with a Schillerstövare use the breed primarily for hunting red fox and other predators, in addition to hare.",
+    "In adult dogs, black hairs mingled inside the rich tan areas are faulted, whereas small black cheek marks and slight white markings on the chest and toes are permitted.",
+    "It is one of Sweden's native scent-hound breeds alongside the Hamiltonstövare, Smålandsstövare, and Gotlandsstövare.",
   ],
 
   faq: [
     {
       question: "What is a Schillerstövare?",
       answer:
-        "The Schillerstövare is a medium-sized Swedish scenthound characterized by its athletic rectangular build, harsh black mantle over deep tan coat, and ringing voice, bred primarily for solo tracking of hare and fox."
+        "The Schillerstövare (Schiller Hound) is a medium-sized Swedish scent hound with a rich golden-tan coat and jet-black mantle, bred to trail red fox and hare solo with a clear, powerful voice.",
     },
     {
-      question: "Where does the Schillerstövare originate?",
+      question: "Who developed the Schillerstövare and when?",
       answer:
-        "The breed originates from Sweden, where it was developed in the late nineteenth century by Per Schiller by crossing southern German hounds with native Swedish hounds and British harriers."
+        "Swedish farmer Per Schiller (1858–1892) of Bohuslän created the breed in the late nineteenth century from southern German hounds (including the 1886 show siblings Tamburini and Ralla I) crossed with Swiss hounds and English Harriers; it was officially named and recognised in Sweden in 1907.",
     },
     {
-      question: "How tall and heavy is a Schillerstövare?",
+      question: "How tall and heavy is an adult Schillerstövare?",
       answer:
-        "Adult males stand 53 to 61 cm (ideal 57 cm) at the withers and weigh 20 to 25 kg, while females stand 49 to 57 cm (ideal 53 cm) and weigh 18 to 23 kg, presenting an agile, athletic outline."
+        "Adult males measure 53 to 61 cm at the withers (ideal 57 cm) and typically weigh 20 to 25 kg, while adult females measure 49 to 57 cm (ideal 53 cm) and weigh 18 to 23 kg.",
     },
     {
-      question: "How long does a Schillerstövare usually live?",
+      question: "How long does a Schillerstövare live?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+        "Typical life expectancy is 12 to 15 years.",
     },
     {
-      question: "What does the Schillerstövare's coat look like?",
+      question: "What coat colours and markings are permitted?",
       answer:
-        "The coat is harsh, dense, and close-lying with a soft undercoat, featuring a well-defined black mantle covering the back, sides, and tail over a rich, deep golden-tan body."
+        "The coat is golden to rich deep tan with a clearly defined black mantle covering the back of the neck, back, upper shoulders, sides, loin, and top of the tail. Black cheek marks and slight white markings on the chest and toes are allowed, but black hairs mixed into the tan coat are not permitted in adults.",
+    },
+    {
+      question: "Is the Schillerstövare suitable as a companion-only pet?",
+      answer:
+        "Swedish breed authorities advise that it is a specialised hunting hound and is not suitable as a companion-only dog; while calm and affectionate with its family indoors, it thrives best in a household where it can hunt or do regular tracking work.",
     },
     {
       question: "Can a Schillerstövare live in an apartment?",
       answer:
-        "No. Due to its high exercise requirements, working endurance, and instinct to track scents, the breed is not suited to apartment living and thrives best in a rural home with a securely fenced yard."
+        "No. Its high exercise needs, strong hunting drive, and powerful voice make it best suited to a rural home with a securely fenced garden.",
     },
     {
-      question: "Is the Schillerstövare good with children and other pets?",
+      question: "How much grooming does the coat need?",
       answer:
-        "It is gentle, friendly, and affectionate with children and gets along well with other dogs; however, its strong hunting instincts make it unsafe around loose small pets such as rabbits or rodents."
+        "Very little. The harsh, close-lying coat sheds dirt easily and needs only weekly brushing, occasional bathing when soiled, and regular ear and paw checks after forest outings.",
     },
     {
-      question: "Does the Schillerstövare shed a lot?",
+      question: "How much exercise does a Schillerstövare need?",
       answer:
-        "Shedding is low to moderate throughout the year and increases slightly during seasonal coat changes in spring and autumn, easily managed with weekly brushing."
+        "Outside the hunting season, plan on at least 60 to 90 minutes of daily outdoor activity—such as brisk country walks, running, and scent-tracking exercises.",
     },
     {
-      question: "How much exercise does a Schillerstövare need each day?",
+      question: "Does the Schillerstövare have many hereditary health problems?",
       answer:
-        "The breed requires at least 60 to 90 minutes of vigorous daily physical activity, including brisk walks, hiking, and mental scent-tracking enrichment to satisfy its working nature."
+        "No. It is considered a very healthy breed with no widespread serious hereditary diseases; hip dysplasia and epilepsy occur only occasionally, and mandatory hip-radiograph screening was discontinued in Sweden because hip problems remained uncommon.",
     },
-    {
-      question: "Is the Schillerstövare easy to train?",
-      answer:
-        "It is intelligent, gentle, and eager to please, but strong scenting instincts mean it can be easily distracted outdoors; it responds best to patient, positive reinforcement training and must be kept leashed in unfenced areas."
-    },
-    {
-      question: "What health problems are known in the Schillerstövare?",
-      answer:
-        "The breed is remarkably robust with few genetic disorders; primary health considerations include hip dysplasia, ear infections from drop ears, and minor field injuries sustained while hunting."
-    }
   ],
 
   references: [
@@ -403,16 +387,17 @@ export const schillerstovare: Breed = {
     "svenska-schillerstovareklubben-breed-profile",
     "ukc-schiller-hound-standard",
     "wikimedia-schillerstovare-lilly-m",
-    "wikimedia-schillerstovare-600-tomasz-sienicki"
+    "wikimedia-schillerstovare-600-tomasz-sienicki",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Official breed standards and kennel-club profiles do not establish a separate scientific name for the breed.",
     },
 
     alternateNames: {
@@ -421,26 +406,31 @@ export const schillerstovare: Breed = {
         {
           id: "fci-schillerstovare-official-standard",
           role: "verified",
-          locator: "Standard header and breed name: SCHILLERSTÖVARE"
+          locator: "Standard header and breed name: SCHILLERSTÖVARE",
         },
         {
           id: "fci-schillerstovare-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: Schillerstövare, Chien Courant Schiller, Schillerbracke, Sabueso de Schiller"
-        },
-        {
-          id: "ukc-schiller-hound-standard",
-          role: "verified",
-          locator: "Breed name: Schiller Hound"
+          locator: "Official multilingual names: Schillerstövare, Chien courant de Schiller, Sabueso Schiller",
         },
         {
           id: "skk-schillerstovare-breed-standard",
           role: "verified",
-          locator: "Rasnamn: Schillerstövare"
-        }
+          locator: "Also known as: Schiller Hound, Chien courant de Schiller, Sabueso Schiller, Schillerinajokoira, Schillerstøver",
+        },
+        {
+          id: "ukc-schiller-hound-standard",
+          role: "verified",
+          locator: "Breed name: Schiller Hound",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Schiller Hound)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Verified across FCI Standard No. 131, FCI Nomenclature, SKK, and UKC."
+      verifiedOn: "2026-11-17",
+      note: "Verified across FCI Standard No. 131, FCI Nomenclature, SKK, UKC, and The Dog API.",
     },
 
     group: {
@@ -449,27 +439,32 @@ export const schillerstovare: Breed = {
         {
           id: "fci-schillerstovare-official-standard",
           role: "verified",
-          locator: "FCI CLASSIFICATION: Group 6 Scenthounds and related breeds. Section 1.2 Medium-sized Hounds. With working trial."
+          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial",
         },
         {
           id: "fci-schillerstovare-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial"
-        },
-        {
-          id: "ukc-schiller-hound-standard",
-          role: "verified",
-          locator: "Scenthound Group"
+          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial",
         },
         {
           id: "skk-schillerstovare-breed-standard",
           role: "verified",
-          locator: "Grupp 6 Drivande hundar samt sök- och spårhundar, Sektion 1.2 Drivande hundar, medelstora"
-        }
+          locator: "Grupp 6 Drivande hundar samt sök- och spårhundar, Sektion 1.2",
+        },
+        {
+          id: "ukc-schiller-hound-standard",
+          role: "cited",
+          locator: "Scenthound Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group (Hound)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "Follows the Group 6, Section 1.2 classification without naming registries in user-facing text.",
     },
 
     origin: {
@@ -478,21 +473,26 @@ export const schillerstovare: Breed = {
         {
           id: "fci-schillerstovare-official-standard",
           role: "verified",
-          locator: "ORIGIN: Sweden; BRIEF HISTORICAL SUMMARY"
+          locator: "Origin: Sweden; Brief historical summary (Per Schiller, Stenungsund, Bohuslän)",
         },
         {
           id: "fci-schillerstovare-nomenclature",
           role: "verified",
-          locator: "Country of origin: Sweden"
+          locator: "Country of origin of the breed: Sweden",
         },
         {
           id: "skk-schillerstovare-breed-standard",
           role: "verified",
-          locator: "Ursprungsland: Sverige"
-        }
+          locator: "Historik: Per Schiller i Stenungsund / West Gothia, Sweden",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (Sweden)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     overview: {
@@ -501,27 +501,27 @@ export const schillerstovare: Breed = {
         {
           id: "fci-schillerstovare-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator: "Utilization, Brief historical summary, General appearance, Important proportions, Behaviour/temperament",
         },
         {
           id: "skk-schillerstovare-breed-standard",
           role: "verified",
-          locator: "Bakgrund och ändamål, Helhetsintryck, Viktiga måttförhållanden, Uppförande/karaktär"
+          locator: "Storlek och utseende, Egenskaper och mentalitet, Historik (Per Schiller 1858–1892, 1886 Tamburini & Ralla I, 1907 recognition)",
         },
         {
           id: "svenska-schillerstovareklubben-breed-profile",
           role: "verified",
-          locator: "Rasens historia och egenskaper (Per Schiller, 1886 första hundutställningen, Ralla I och Tamburini I)"
+          locator: "Breed history and fox/hare hunting usage",
         },
         {
-          id: "ukc-schiller-hound-standard",
+          id: "the-dog-api",
           role: "cited",
-          locator: "History and Characteristics"
-        }
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesized in original prose from FCI Standard No. 131, SKK, and Svenska Schillerstövareklubben official records."
+        "All overview text is rewritten in original wording from FCI Standard No. 131 and SKK breed documentation, correcting the international recognition year to 1955.",
     },
 
     physical: {
@@ -530,22 +530,22 @@ export const schillerstovare: Breed = {
         {
           id: "fci-schillerstovare-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator: "General appearance, Head, Body, Tail, Limbs, Coat, Colour, and Size",
         },
         {
           id: "skk-schillerstovare-breed-standard",
           role: "verified",
-          locator: "Huvud, Hals, Kropp, Svans, Extremiteter, Päls, Färg, Storlek"
+          locator: "Rasstandard schillerstövare (FCI 131)",
         },
         {
-          id: "ukc-schiller-hound-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
-        }
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 17 generic species-wide colours)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Conformation, rectangular build, black mantle over tan, and distinctive features follow official standards."
+        "Conformation, harsh close-lying coat, and permitted colour (golden-to-deep tan with a well-defined black mantle, slight white on chest/toes, and permissible black cheek marks) follow FCI Standard No. 131 rather than The Dog API's generic 17-colour list.",
     },
 
     "physical.height": {
@@ -554,22 +554,27 @@ export const schillerstovare: Breed = {
         {
           id: "fci-schillerstovare-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: Males: 53-61 cm, ideal 57 cm. Females: 49-57 cm, ideal 53 cm."
+          locator: "Size and weight: Height at the withers: Males 53–61 cm (ideal size 57 cm); Females 49–57 cm (ideal size 53 cm)",
         },
         {
           id: "skk-schillerstovare-breed-standard",
           role: "verified",
-          locator: "Mankhöjd: Hanhund 53-61 cm, idealhöjd 57 cm. Tik 49-57 cm, idealhöjd 53 cm."
+          locator: "Mankhöjd för hanar är 53–61 cm (ideal 57 cm) och för tikar 49–57 cm (ideal 53 cm)",
         },
         {
           id: "ukc-schiller-hound-standard",
           role: "verified",
-          locator: "Height at withers: Males from 21 to 24 inches (53-61 cm); Females from 19.5 to 22.5 inches (49-57 cm)"
-        }
+          locator: "Height at withers: Males 21–24 in (53–61 cm); Females 19.5–22.5 in (49–57 cm)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (Males 55–61 cm, Females 52–59 cm)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Preserved in published unit of centimetres (53–61 cm for males, 49–57 cm for females) exactly as specified in the official FCI and SKK standards."
+        "Preserves the official FCI/SKK Standard No. 131 centimetre ranges (53–61 cm male, 49–57 cm female); The Dog API lists 55–61 cm for males and 52–59 cm for females.",
     },
 
     "physical.weight": {
@@ -578,71 +583,82 @@ export const schillerstovare: Breed = {
         {
           id: "svenska-schillerstovareklubben-breed-profile",
           role: "verified",
-          locator: "Vikt: Hanhund ca 20-25 kg, Tik ca 18-23 kg"
+          locator: "Vikt: Hanhund ca 20–25 kg, Tik ca 18–23 kg",
         },
         {
           id: "ukc-schiller-hound-standard",
           role: "verified",
-          locator: "Weight: Males approximately 44 to 55 pounds (20-25 kg); Females approximately 40 to 50 pounds (18-23 kg)"
-        }
+          locator: "Weight: Males approx. 44–55 lb (20–25 kg); Females approx. 40–50 lb (18–23 kg)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (18–25 kg combined for both sexes)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "FCI Standard No. 131 states that weight should be in proportion to height. The stored 20–25 kg for males and 18–23 kg for females are the canonical weights published by the breed club and UKC, preserved in kilograms."
+        "FCI Standard No. 131 does not specify numerical weights; retains the sex-specific kilogram ranges (20–25 kg male, 18–23 kg female) published by the Swedish breed club and UKC, while The Dog API combines both sexes into 18–25 kg.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "svenska-schillerstovareklubben-breed-profile",
+          role: "verified",
+          locator: "Hanhund ca 20–25 kg",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper male weight bound of 25 kg.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "svenska-schillerstovareklubben-breed-profile",
+          role: "verified",
+          locator: "Tik ca 18–23 kg",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female weight bound of 23 kg.",
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "svenska-schillerstovareklubben-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Hälsa och livslängd (12-15 år)"
+          locator: "breed.life_span (12–15 years)",
         },
         {
-          id: "skk-schillerstovare-breed-standard",
-          role: "cited",
-          locator: "Allmän hälsa och sundhet"
-        }
+          id: "svenska-schillerstovareklubben-breed-profile",
+          role: "verified",
+          locator: "Lifespan 12–15 years",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Supported by Swedish breed club health and actuarial documentation."
+      verifiedOn: "2026-11-17",
+      note: "Verified across The Dog API and Swedish breed club documentation.",
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-schillerstovare-official-standard",
-          role: "verified",
-          locator: "COAT: Harsh, close-lying coat with dense, soft undercoat"
-        },
-        {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Pälsvård och fällning"
-        }
-      ],
-      verifiedOn: "2026-10-24",
-      note: null
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Reviewed standards describe the harsh, close-lying coat without establishing a standardised shedding category.",
     },
 
     "physical.droolingLevel": {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-schillerstovare-official-standard",
-          role: "verified",
-          locator: "Lips: Dry and tightly fitting"
-        },
-        {
-          id: "skk-schillerstovare-breed-standard",
-          role: "verified",
-          locator: "Läppar: Torra och strama"
-        }
-      ],
-      verifiedOn: "2026-10-24",
-      note: "Tight, dry lips result in minimal drooling."
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Reviewed standards describe dry, tight-fitting lips without establishing a standardised drooling rating.",
     },
 
     "temperament.traits": {
@@ -651,258 +667,218 @@ export const schillerstovare: Breed = {
         {
           id: "fci-schillerstovare-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Lively, attentive, pleasant and gentle disposition"
+          locator: "Behaviour / Temperament: lively and attentive; disqualifying faults include aggressiveness, overly shy, or aloofness",
         },
         {
           id: "skk-schillerstovare-breed-standard",
           role: "verified",
-          locator: "Uppförande/karaktär: Livlig, uppmärksam och med ett milt och behagligt temperament"
-        },
-        {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Mentalitet och jaktegenskaper"
+          locator: "Egenskaper och mentalitet: livlig med vaket temperament, följsam och stabil; spårnoga med bra skall",
         },
         {
           id: "ukc-schiller-hound-standard",
           role: "verified",
-          locator: "Characteristics: Lively, attentive, gentle, pleasant"
-        }
+          locator: "Characteristics: lively, attentive, even-tempered",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "temperament.scores": {
       reliability: "estimate",
       sources: [
         {
-          id: "fci-schillerstovare-official-standard",
+          id: "skk-schillerstovare-breed-standard",
           role: "cited",
-          locator: "Temperament and hunting characteristics"
+          locator: "Egenskaper och mentalitet",
         },
         {
-          id: "svenska-schillerstovareklubben-breed-profile",
+          id: "fci-schillerstovare-official-standard",
           role: "cited",
-          locator: "Jaktlust och temperament i hemmiljö"
-        }
+          locator: "Behaviour / Temperament and Utilization",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented hound temperament and hunting drive."
+        "Editorial 1–5 estimates informed by the breed's hunting drive and indoor calmness.",
     },
 
     care: {
       reliability: "general_guidance",
       sources: [
         {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Skötsel, motion och träning"
-        },
-        {
           id: "skk-schillerstovare-breed-standard",
           role: "cited",
-          locator: "Användning och skötselråd"
-        }
+          locator: "Skötsel och Om du funderar på schillerstövare (early forest training, hunting need, easy coat care)",
+        },
+        {
+          id: "svenska-schillerstovareklubben-breed-profile",
+          role: "cited",
+          locator: "Hunting and care guidance",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines active hunting hound management with Scandinavian field care protocols."
+        "Combines SKK guidance for prospective owners with general working scent-hound care.",
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-schillerstovare-official-standard",
+          id: "skk-schillerstovare-breed-standard",
           role: "verified",
-          locator: "UTILIZATION: Scenthound for hunting hare and fox with high stamina"
+          locator: "Allmänt & Om du funderar på schillerstövare: pronounced hunting breed, not suitable as a companion-only dog",
         },
         {
-          id: "svenska-schillerstovareklubben-breed-profile",
+          id: "fci-schillerstovare-official-standard",
           role: "verified",
-          locator: "Motionsbehov och jaktlig träning"
-        }
+          locator: "Utilization and General appearance: built for speed and endurance during long winter hunting seasons",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
       sources: [
         {
-          id: "svenska-schillerstovareklubben-breed-profile",
+          id: "skk-schillerstovare-breed-standard",
           role: "cited",
-          locator: "Daglig motion och konditionsträning"
-        }
+          locator: "Pronounced hunting dog requiring active field exercise",
+        },
       ],
       verifiedOn: null,
       note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic working hound."
+        "Editorial estimate of 60–90 minutes of daily outdoor exercise during non-hunting periods.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
-          id: "fci-schillerstovare-official-standard",
+          id: "skk-schillerstovare-breed-standard",
           role: "cited",
-          locator: "Active endurance scenthound with carrying tracking voice"
+          locator: "Pronounced vocal hunting hound not suitable as a companion-only dog",
         },
-        {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Boendemiljö och behov av utomhusutrymme"
-        }
       ],
       verifiedOn: null,
       note:
-        "Editorial evaluation that high exercise needs and resonant tracking instincts make apartment living unsuitable."
+        "Editorial assessment that a vocal hunting hound is unsuitable for apartment living.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
         {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Boendemiljö: hus med inhägnad tomt rekommenderas"
-        }
+          id: "skk-schillerstovare-breed-standard",
+          role: "cited",
+          locator: "Hunting and outdoor lifestyle requirements",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: null,
+      note:
+        "Editorial assessment that a rural or suburban house with a securely fenced yard suits this hound.",
     },
 
     "care.livingEnvironment.climates": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-schillerstovare-official-standard",
-          role: "verified",
-          locator: "COAT: Harsh close-lying coat with dense undercoat adapted to Scandinavian winter"
-        },
-        {
           id: "skk-schillerstovare-breed-standard",
           role: "verified",
-          locator: "Päls: motståndskraftig mot snö och kyla"
-        }
+          locator: "About the breed: built to pursue prey during a long hunting season in a hard winter climate",
+        },
+        {
+          id: "fci-schillerstovare-official-standard",
+          role: "verified",
+          locator: "Coat: harsh, close-lying coat with dense undercoat",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Mentalitet och ensamträning"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
       note:
-        "Scenthounds can tolerate moderate alone time if given thorough physical and olfactory exercise, but may vocalize if neglected."
+        "General working scent-hound guidance regarding exercise, companionship, and vocalisation.",
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Utfodring och energibehov under jaktsäsong"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for active sporting and hunting dogs."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Måltidsrutiner och matsmältning"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+        "General canine nutrition guidance for an active working scent hound.",
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Hälsa och avelsrekommendationer (HD-screening)"
-        },
-        {
           id: "skk-schillerstovare-breed-standard",
           role: "verified",
-          locator: "Hälsa och sundhet hos de svenska stövarraserna"
-        }
+          locator: "Hälsa: Rasen anses generellt vara utan några allvarliga kända rassjukdomar. Höftledsdysplasi, HD, förekommer.",
+        },
+        {
+          id: "svenska-schillerstovareklubben-breed-profile",
+          role: "verified",
+          locator: "RAS breeding strategy: low disease burden, discontinued mandatory HD screening program, and sporadic epilepsy monitoring",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Documents high overall constitutional vitality alongside routine orthopedic screening programs."
+        "Reflects SKK's official health summary and the Swedish breed club's RAS documentation.",
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Höftledsdysplasi (HD) och skador i skog och mark"
-        },
-        {
           id: "skk-schillerstovare-breed-standard",
           role: "verified",
-          locator: "Veterinärmedicinska råd för jakthundar"
-        }
+          locator: "Hälsa: Höftledsdysplasi (HD) förekommer",
+        },
+        {
+          id: "svenska-schillerstovareklubben-breed-profile",
+          role: "verified",
+          locator: "RAS: occasional HD, sporadic epilepsy (EP), and general working hound field care",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Identifies documented breed considerations without using prohibited registry labels in prose."
+        "Distinguishes occasional hip dysplasia and sporadic epilepsy from routine field-hound ear and paw care.",
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "svenska-schillerstovareklubben-breed-profile",
+          id: "skk-schillerstovare-breed-standard",
           role: "cited",
-          locator: "Förebyggande vård, öronkontroller och fästingskydd"
-        }
+          locator: "Health and hunting dog care",
+        },
       ],
       verifiedOn: null,
       note:
-        "Field hygiene protocol tailored to drop-eared hunting hounds."
+        "General preventive veterinary and field-hygiene care for a drop-eared hunting hound.",
     },
 
     "health.recommendedScreenings": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Avelskrav: Höftledsröntgen (HD)"
-        },
-        {
-          id: "skk-schillerstovare-breed-standard",
-          role: "verified",
-          locator: "Hälsoprogram för stövare"
-        }
-      ],
-      verifiedOn: "2026-10-24",
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
       note:
-        "Pre-breeding evaluations recommended by the Swedish breed authority."
+        "Svenska Kennelklubben (SKK) and the Swedish breed club's RAS confirm that the Schillerstövare is no longer subject to a mandatory HD radiographic screening program because hip dysplasia ceased to be a significant breed problem.",
     },
 
     "health.dentalCare": {
@@ -911,11 +887,11 @@ export const schillerstovare: Breed = {
         {
           id: "fci-schillerstovare-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: scissor bite, strong teeth"
-        }
+          locator: "Jaws/Teeth: scissor bite with strong, well-developed teeth",
+        },
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "General canine dental care guidance.",
     },
 
     "health.earCare": {
@@ -924,16 +900,11 @@ export const schillerstovare: Breed = {
         {
           id: "fci-schillerstovare-official-standard",
           role: "cited",
-          locator: "Ears: set high, pendant, hanging flat"
+          locator: "Ears: high-set hanging ears lying flat",
         },
-        {
-          id: "svenska-schillerstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Rengöring av hängande öron"
-        }
       ],
       verifiedOn: null,
-      note: "Ear maintenance protocol for drop ears."
+      note: "Routine ear care for hanging ears.",
     },
 
     "health.skinCare": {
@@ -942,53 +913,53 @@ export const schillerstovare: Breed = {
         {
           id: "fci-schillerstovare-official-standard",
           role: "cited",
-          locator: "Skin: tight and dry"
-        }
+          locator: "Coat: harsh, close-lying coat",
+        },
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: "General coat and paw inspection guidance after forest work.",
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
         {
-          id: "fci-schillerstovare-official-standard",
+          id: "skk-schillerstovare-breed-standard",
           role: "cited",
-          locator: "Working temperament and hunting utility"
+          locator: "Om du funderar på schillerstövare: strong hunting interest required; not suitable solely as a companion dog",
         },
         {
-          id: "svenska-schillerstovareklubben-breed-profile",
+          id: "fci-schillerstovare-official-standard",
           role: "cited",
-          locator: "Vem passar rasen för? (jägare och friluftsaktiva)"
-        }
+          locator: "Utilization and Behaviour/temperament",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability flags and lists reflect editorial evaluations of hound exercise needs and hunting drive."
+        "Editorial suitability evaluations grounded in SKK's guidance that owners must have a strong hunting interest.",
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
+          id: "skk-schillerstovare-breed-standard",
+          role: "verified",
+          locator: "Historik & About the breed: Per Schiller (1858–1892), 1886 Stockholm show siblings Tamburini and Ralla I, 1907 recognition as Sweden's first native breed",
+        },
+        {
           id: "fci-schillerstovare-official-standard",
           role: "verified",
-          locator: "Brief historical summary: 1886 Stockholm show, Per Schiller, Ralla I and Tamburini I"
+          locator: "Brief historical summary, Utilization (solo hound with resonant voice), and Colour (black cheek marks and slight white on chest/toes permitted)",
         },
         {
           id: "svenska-schillerstovareklubben-breed-profile",
           role: "verified",
-          locator: "Historik, drevskall, och de fyra svenska stövarraserna"
+          locator: "RAS: ~80% of hunters use the breed for fox and predator hunting",
         },
-        {
-          id: "skk-schillerstovare-breed-standard",
-          role: "verified",
-          locator: "Rashistoria och jakttradition"
-        }
       ],
-      verifiedOn: "2026-10-24",
-      note: "Verified historical and functional facts written without prohibited names."
+      verifiedOn: "2026-11-17",
+      note: "Verified historical and functional facts; corrected the native Swedish støvare list by removing the Norwegian Dunker.",
     },
 
     faq: {
@@ -997,24 +968,29 @@ export const schillerstovare: Breed = {
         {
           id: "fci-schillerstovare-official-standard",
           role: "verified",
-          locator: "Origin, size (53-61 cm / 49-57 cm), coat, and color"
+          locator: "Origin, height (53–61 cm male / ideal 57 cm; 49–57 cm female / ideal 53 cm), coat, and colour",
+        },
+        {
+          id: "skk-schillerstovare-breed-standard",
+          role: "verified",
+          locator: "History (Per Schiller 1858–1892, 1907 recognition), hunting suitability, and health summary",
         },
         {
           id: "svenska-schillerstovareklubben-breed-profile",
           role: "verified",
-          locator: "Vanliga frågor om rasen, vikt (20-25 kg / 18-23 kg), motion och hälsa"
+          locator: "Weight (20–25 kg male, 18–23 kg female), lifespan (12–15 years), and RAS health program status",
         },
         {
-          id: "ukc-schiller-hound-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "General characteristics and temperament"
-        }
+          locator: "breed.life_span (12–15 years)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "FAQ answers synthesize verified standards and parent-club guidance without naming registries in prose."
-    }
+        "FAQ answers synthesise verified FCI, SKK, Swedish breed club, and The Dog API data without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-10-24"
+  updatedOn: "2026-11-17",
 };

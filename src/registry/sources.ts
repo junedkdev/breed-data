@@ -17919,6 +17919,206 @@ export const sources = defineSources({
     note: "Photograph (1280 x 851 px) featuring a smooth-coated brown Dachshund sitting on grass by kmoney56 (captured 2007-02-04, uploaded by Pharaoh Hound 2007-02-27). Licensed under CC BY-SA 2.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
+  "fci-schnauzer-official-standard": {
+    id: "fci-schnauzer-official-standard",
+    name: "FCI - Schnauzer Official Breed Standard No. 182",
+    url: "https://www.fci.be/Nomenclature/Standards/182g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2007-04-18",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 182 (valid standard dated 2007-03-06, published 2007-04-18). Covers German origin, Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 1.2 Schnauzer classification without working trial, robust square build, harsh wire coat, pepper-and-salt/black colors, withers height (45-50 cm), and weight (14-20 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-schnauzer-nomenclature": {
+    id: "fci-schnauzer-nomenclature",
+    name: "FCI - Schnauzer Breed Nomenclature (No. 182)",
+    url: "https://www.fci.be/en/nomenclature/SCHNAUZER-182.html",
+    type: "official_breed_standard",
+    publishedOn: "2007-04-18",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 2 Section 1.2 classification without working trial, definitive recognition date (1955-07-15), and official multilingual name (Schnauzer).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-standard-schnauzer-breed-standard": {
+    id: "akc-standard-schnauzer-breed-standard",
+    name: "American Kennel Club - Official Standard of the Standard Schnauzer",
+    url: "https://images.akc.org/pdf/breeds/standards/StandardSchnauzer.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed standard (Working Group) establishing robust square proportions, harsh wiry coat, pepper and salt/black coloration, scissor bite, and highly intelligent, fearless working temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-standard-schnauzer-breed-profile": {
+    id: "akc-standard-schnauzer-breed-profile",
+    name: "American Kennel Club - Standard Schnauzer Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/standard-schnauzer/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile covering German farm history, 'Schnauze' etymology, WWI/WWII dispatch service, lifespan (13-16 years), apartment adaptability, temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "ssca-standard-schnauzer-health": {
+    id: "ssca-standard-schnauzer-health",
+    name: "Standard Schnauzer Club of America - Best Practices for Health and Disease Testing",
+    url: "https://www.standardschnauzer.org/newSSCA/best_practices.html",
+    type: "breed_club",
+    publishedOn: "2024-02-12",
+    accessedOn: "2026-11-17",
+    note: "Official national parent club health portal documenting structural health risks and mandatory pre-breeding health testing, explicitly requiring OFA Hip Radiographs, AVCO (CAER) eye exams, and Dilated Cardiomyopathy (DCM) DNA testing.",
+    publisher: "Standard Schnauzer Club of America"
+  },
+  "ofa-standard-schnauzer-chic-requirements": {
+    id: "ofa-standard-schnauzer-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Standard Schnauzer CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=SS",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Standard Schnauzer, mandating CAER Eye examination, Radiographic Hip Dysplasia evaluation, and Dilated Cardiomyopathy (DCM) DNA Test.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-standard-schnauzers-cgoodall": {
+    id: "wikimedia-standard-schnauzers-cgoodall",
+    name: "Wikimedia Commons - File:Standard Schnauzers.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Standard_Schnauzers.jpg",
+    type: "other",
+    publishedOn: "2007-03-25",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (2592 x 1944 px) of two adult pepper and salt Standard Schnauzers resting outdoors by Cgoodall (captured and uploaded 2007-03-25). Dedicated to the Public Domain on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-mittelschnauzer-pleple2000": {
+    id: "wikimedia-mittelschnauzer-pleple2000",
+    name: "Wikimedia Commons - File:Mittelschnauzer aka Standard Schnauzer.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Mittelschnauzer_aka_Standard_Schnauzer.jpg",
+    type: "other",
+    publishedOn: "2006-06-01",
+    accessedOn: "2026-11-17",
+    note: "Photograph (500 x 462 px) featuring a close view of a male pepper and salt Standard Schnauzer by an Unknown Uploader (uploaded by Pleple2000 on 2006-06-01). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-boston-terrier-official-standard": {
+    id: "fci-boston-terrier-official-standard",
+    name: "FCI - Boston Terrier Official Breed Standard No. 140",
+    url: "https://www.fci.be/Nomenclature/Standards/140g09-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2014-06-24",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 140. Covers USA origin, Group 9 Companion and Toy Dogs, Section 11 Small Molossian type Dogs classification without working trial, square build, brindle/seal/black colors with required tuxedo white markings, and weight classes up to 11.35 kg.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-boston-terrier-nomenclature": {
+    id: "fci-boston-terrier-nomenclature",
+    name: "FCI - Boston Terrier Breed Nomenclature (No. 140)",
+    url: "https://www.fci.be/en/nomenclature/BOSTON-TERRIER-140.html",
+    type: "official_breed_standard",
+    publishedOn: "2014-06-24",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming United States of America as country of origin, Group 9 Section 11 classification without working trial, definitive recognition date (1955-01-01), and official multilingual name (Boston Terrier).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-boston-terrier-breed-standard": {
+    id: "akc-boston-terrier-breed-standard",
+    name: "American Kennel Club - Official Standard of the Boston Terrier",
+    url: "https://images.akc.org/pdf/breeds/standards/BostonTerrier.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed standard (Non-Sporting Group) establishing strict weight limit classes (under 15 lbs, 15-20 lbs, 20-25 lbs max), tuxedo markings, short square muzzle, erect ears, screw or straight tail, and lively, intelligent companion temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-boston-terrier-breed-profile": {
+    id: "akc-boston-terrier-breed-profile",
+    name: "American Kennel Club - Boston Terrier Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/boston-terrier/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile covering 19th-century US origin, 'American Gentleman' moniker, Hooper's Judge foundation, height (15-17 inches), weight (12-25 lbs), lifespan (11-13 years), apartment adaptability, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "ofa-boston-terrier-chic-requirements": {
+    id: "ofa-boston-terrier-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Boston Terrier CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=BTR",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Boston Terrier, mandating CAER Eye examination, Clinical Patellar Luxation evaluation, BAER deafness testing, and early-onset hereditary cataracts (HSF4) DNA testing.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-boston-terrier-dsc-0004": {
+    id: "wikimedia-boston-terrier-dsc-0004",
+    name: "Wikimedia Commons - File:Boston Terrier DSC 0004 (16399046489).jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Boston_Terrier_DSC_0004_(16399046489).jpg",
+    type: "other",
+    publishedOn: "2015-03-21",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (3008 x 2000 px) of a Boston Terrier standing indoors at the 2015 Westminster Kennel Club Dog Show by Pets Adviser (captured 2015-02-16, uploaded 2015-03-21). Licensed under CC BY 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-boston-terrier-dog-002": {
+    id: "wikimedia-boston-terrier-dog-002",
+    name: "Wikimedia Commons - File:Boston Terrier Dog 002.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Boston_Terrier_Dog_002.jpg",
+    type: "other",
+    publishedOn: "2008-11-02",
+    accessedOn: "2026-11-17",
+    note: "Photograph (1500 x 2100 px) featuring an adult Boston Terrier outdoors at the beach by Ed Siasoco (captured 2007-06-24, uploaded by Flickr upload bot 2008-11-02). Licensed under CC BY 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-saarlooswolfhond-official-standard": {
+    id: "fci-saarlooswolfhond-official-standard",
+    name: "FCI - Saarlooswolfhond (Saarlooswolfdog) Official Breed Standard No. 311",
+    url: "http://www.fci.be/nomenclature/Standards/311g01-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2015-05-29",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 311 (valid standard dated 2014-11-03, published 2015-05-29). Covers Netherlands origin, Group 1 Sheepdogs and Cattledogs (except Swiss Cattledogs), Section 1 Sheepdogs classification without working trial, wolf-like appearance, flight instinct, withers height (males 65-75 cm, females 60-70 cm), and coat colors including wolf-grey, forest-brown, and white.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-saarlooswolfhond-nomenclature": {
+    id: "fci-saarlooswolfhond-nomenclature",
+    name: "FCI - Saarlooswolfhond Breed Nomenclature (No. 311)",
+    url: "https://www.fci.be/en/nomenclature/Saarlooswolfhond-311.html",
+    type: "official_breed_standard",
+    publishedOn: "2015-05-29",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming The Netherlands as country of origin, Group 1 Section 1 classification without working trial, definitive recognition date (1981-05-18), and official multilingual names (Saarlooswolfhond, Chien-loup de Saarloos, Perro lobo de Saarloos, Saarlooswolfhund).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "ukc-saarloos-wolfdog-breed-standard": {
+    id: "ukc-saarloos-wolfdog-breed-standard",
+    name: "United Kennel Club - Saarloos Wolfdog Breed Standard",
+    url: "https://www.ukcdogs.com/saarloos-wolfdog",
+    type: "official_breed_standard",
+    publishedOn: "2006-07-01",
+    accessedOn: "2026-11-17",
+    note: "Official UKC breed standard (Herding Dog Group, recognized 2006) establishing the 1932 creation by Leendert Saarloos, crossing a German Shepherd with a European wolf, wolf-like conformation, reserved temperament, and working weight proportions.",
+    publisher: "United Kennel Club"
+  },
+  "wikimedia-hippie-wolf-grey-saarloos-wolfdog": {
+    id: "wikimedia-hippie-wolf-grey-saarloos-wolfdog",
+    name: "Wikimedia Commons - File:Hippie, a wolf grey saarloos wolfdog.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Hippie,_a_wolf_grey_saarloos_wolfdog.jpg",
+    type: "other",
+    publishedOn: "2019-09-04",
+    accessedOn: "2026-11-17",
+    note: "High-resolution portrait photograph (1079 x 1308 px) of an adult wolf-grey Saarlooswolfhond sitting outdoors by SaarloosWolfdog / @Hippie_Saarloos (captured and uploaded 2019-09-04). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-saarloos-wolfdog-1-brown": {
+    id: "wikimedia-saarloos-wolfdog-1-brown",
+    name: "Wikimedia Commons - File:Saarloos Wolfdog 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Saarloos_Wolfdog_1.jpg",
+    type: "other",
+    publishedOn: "2016-12-11",
+    accessedOn: "2026-11-17",
+    note: "Photograph (600 x 516 px) featuring a male wolf-grey Saarlooswolfhond standing in profile outdoors by a Wikimedia Commons user (captured and uploaded 2016-12-11). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
 });
 
 export type SourceId = keyof typeof sources;

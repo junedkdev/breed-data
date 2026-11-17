@@ -127,10 +127,10 @@
 124:schweizerischer_niederlaufhund - CG
 125:boxer - CG
 126:pug - CG
+127:segugio_italiano_a_pelo_forte - CG
+128:kuvasz - CG
+129:schillerstovare - CG
 
-127:segugio_italiano_a_pelo_forte - C
-128:kuvasz - C
-129:schillerstovare - C
 130:american_staffordshire_terrier - C
 131:beagle-harrier - C
 132:treeing_walker_coonhound - C
@@ -197,10 +197,10 @@
 193:pekingese - C
 194:affenpinscher - C
 195:dachshund - C
+196:standard_schnauzer - C
+197:boston_terrier - C
+198:saarlooswolfhond - C
 
-196:standard_schnauzer
-197:boston_terrier
-198:saarlooswolfhond
 199:welsh_springer_spaniel
 200:french_spaniel
 201:lakeland_terrier

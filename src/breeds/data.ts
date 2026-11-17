@@ -200,6 +200,9 @@ import { belgian_shepherd_dog_tervuren } from "./belgian_shepherd_dog_tervuren";
 import { pekingese } from "./pekingese";
 import { affenpinscher } from "./affenpinscher";
 import { dachshund } from "./dachshund";
+import { standard_schnauzer } from "./standard_schnauzer";
+import { boston_terrier } from "./boston_terrier";
+import { saarlooswolfhond } from "./saarlooswolfhond";
 
 
 export const breedData: readonly Breed[] = [
@@ -399,4 +402,7 @@ export const breedData: readonly Breed[] = [
   pekingese,
   affenpinscher,
   dachshund,
+  standard_schnauzer,
+  boston_terrier,
+  saarlooswolfhond,
 ];

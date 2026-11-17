@@ -3,32 +3,54 @@ import type { Breed } from "../schema/breed.types";
 export const segugio_italiano_a_pelo_forte: Breed = {
   slug: "segugio-italiano-a-pelo-forte",
   name: "Segugio Italiano a Pelo Forte",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
+    "Italian Rough-haired Segugio",
     "Wire-haired Italian Hound",
     "Rough-haired Italian Hound",
-    "Rough-coated Italian Hound",
     "Chien Courant Italien à Poil Dur",
     "Drahthaariger Italienischer Laufhund",
-    "Segugio Italiano a Pelo Ruvido"
+    "Sabueso Italiano de Pelo Duro",
+    "Segugio Italiano",
+    "Italian Hound",
   ],
 
   group:
-    "Scenthounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial; also classified in the Scenthound group)",
+    "Scent Hounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial)",
 
   origin: {
     country: "Italy",
-    region: "Italian Peninsula"
+    region: null,
   },
 
   images: [
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Chien_Courant_Italien_A_Poil_Dur.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Chien_Courant_Italien_A_Poil_Dur.jpg",
+      title: "Chien Courant Italien A Poil Dur.jpg",
+      description:
+        "A rough-haired Italian Hound (Segugio Italiano a Pelo Forte) standing in profile.",
+      creator: "Desaix83, d'après le travail de Frustan",
+      uploader: "Desaix83",
+      capturedOn: "2010-02-14",
+      uploadedOn: "2015-03-07",
+      width: 385,
+      height: 331,
+      licenseId: "public-domain",
+      attribution:
+        "Photo by Desaix83 (after Frustan), Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:Chien_Courant_Italien_A_Poil_Dur.jpg.",
+      restrictions: null,
+      metadataCheckedOn: "2026-11-17",
+    },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Segugio_italiano_a_pelo_forte_fulvo.jpg",
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Segugio_italiano_a_pelo_forte_fulvo.jpg",
       title: "Segugio italiano a pelo forte fulvo.jpg",
-      description: "A fawn rough-haired Italian Hound (Segugio Italiano a pelo forte).",
+      description:
+        "A fawn rough-haired Italian Hound (Segugio Italiano a pelo forte).",
       creator: "Aleph universe",
       uploader: "Aleph universe",
       capturedOn: "2013-10-18",
@@ -37,107 +59,106 @@ export const segugio_italiano_a_pelo_forte: Breed = {
       height: 747,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Aleph universe, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Segugio_italiano_a_pelo_forte_fulvo.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Aleph universe, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Segugio_italiano_a_pelo_forte_fulvo.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24"
-    }
+      metadataCheckedOn: "2026-11-17",
+    },
   ],
 
   overview: {
     summary:
-      "A rustic, ancient medium-sized Italian scenthound covered in a harsh wire coat, celebrated for its square build, exceptional endurance on rugged mountain terrain, and resonant sonorous bark while hunting hare and wild boar.",
+      "The Segugio Italiano a Pelo Forte is a medium-sized, square-built Italian rough-haired scent hound bred for endurance across rugged terrain. Protected by a coarse wire coat no longer than 5 cm, it combines a calm, level-headed, and reserved demeanour with tireless trailing stamina and a resonant, pleasant hunting voice.",
 
     description:
-      "The Segugio Italiano a Pelo Forte is an ancient, medium-sized Italian scenthound whose ancestry traces back to classical antiquity. Characterized by a squarely proportioned silhouette, lean musculature, and dry bone structure, the dog combines speed with untiring stamina. Its harsh, rough wire coat—measuring roughly 5 centimetres in length on the torso—acts as protective armor against dense brambles, thorny brush, and inclement mountain weather. The elongated head exhibits divergent upper cranial-facial axes, large dark ochre eyes with an earnest gaze, and long, triangular dropped ears with narrow lower tips folded inwards. Indoors, the hound exhibits a quiet, calm, and discreet presence, but in the field it transforms into an enthusiastic, indefatigable tracker equipped with an extraordinarily sensitive olfactory capacity and a melodious, bell-like voice.",
+      "Built on a balanced, square frame with lean muscle, strong bone, and virtually no excess fat, the Segugio Italiano a Pelo Forte is engineered to follow game from dawn to dusk across everything from plains to steep mountainous scrub. Its unmistakably rough body coat—measuring up to 5 cm in length—shields the skin from thorns and cold weather, while slightly softer furnishings on the muzzle form a moderate beard. An elongated head with divergent cranial-facial axes, a gently convex nasal bridge, large dark-ochre eyes, and low-set triangular ears give the breed a serious, noble expression. Compared with its smooth-coated counterpart, the rough-haired Segugio is noted for being calmer, more composed, and more methodical in its work, while remaining a gentle, undemanding companion at home.",
 
     history:
-      "The origins of the Italian scenthounds date to antiquity, descending from ancient primitive coursing and tracking hounds brought by Phoenician and Greek merchants to southern Europe and crossed with native Roman canines. Hounds bearing identical physical features—elongated heads, convex muzzles, and dropped pendulous ears—are depicted in classical Greek and Roman sculptures, including prominent statues of Diana the Huntress in the Vatican and Capitol museums. During the Italian Renaissance, rough-coated scenthounds were prized across aristocratic estates in Tuscany, Lombardy, and the Apennine regions for driven hunting of wild boar and hare. The rough-coated variety was formally standardized in Italy during the early twentieth century, culminating in an official working standard established in 1939 and subsequent international conformation recognition.",
+      "The Italian Segugio traces its lineage to ancient Mediterranean hunting hounds depicted alongside Diana the Huntress in classical sculptures housed in the Naples and Vatican museums. Archaeological finds from a Lombard necropolis in the province of Verona and Renaissance court paintings at the Castle of Borso d'Este (c. 1600) confirm that hounds of virtually identical build and stature have worked the Italian peninsula for centuries. Preserved by Italian hunters for trailing hare and wild boar solo, in pairs, or in packs, the rough-haired breed gained international recognition in March 1956.",
 
     originalPurpose:
-      "Specialized tracking, driving, and hunting of wild boar and hare across steep, rocky, and brush-covered Italian landscapes, working individually or in small matched packs.",
+      "Scent hunting and driving hare and wild boar across plains and mountainous terrain, working alone, in pairs, or in packs.",
 
     currentRoles: [
-      "Traditional tracking and driving hunting hound for hare and wild boar",
-      "Field trial and scent tracking competitor",
-      "Rural family companion for active outdoor handlers",
-      "Search, rescue, and tracking detection dog"
-    ]
+      "Scent hunting and trailing hare and wild boar",
+      "Working scent-hound field trials",
+      "Mantrailing and recreational nose-work sports",
+      "Active rural companion for outdoor households",
+    ],
   },
 
   physical: {
-    sizeCategory: "Medium",
+    sizeCategory: "Medium-sized, square-proportioned rough-coated scent hound",
 
     height: {
       unit: "cm",
       male: {
         min: 52,
-        max: 58
+        max: 60,
       },
       female: {
-        min: 48,
-        max: 56
-      }
+        min: 50,
+        max: 58,
+      },
     },
 
     weight: {
       unit: "kg",
       male: {
         min: 20,
-        max: 28
+        max: 28,
       },
       female: {
         min: 18,
-        max: 26
-      }
+        max: 26,
+      },
     },
 
     lifespanYears: {
-      min: 11,
-      max: 13
+      min: 10,
+      max: 14,
     },
 
     coatType:
-      "Harsh, rough, wiry texture approximately 5 cm long on the body, with a dense, fine undercoat in winter; harsh hair on the head forms moderate eyebrows and a sparse beard without obscuring the facial contours.",
+      "Unmistakably rough, harsh, wire-textured coat on the body, becoming slightly less coarse on the head, ears, legs, tail, and muzzle, with a moderately long beard under the lips.",
 
-    coatLength: "Medium",
+    coatLength:
+      "Rough body hair not exceeding 5 cm in length.",
 
     coatColors: [
-      "Solid fawn ranging from deep red-fawn to washed-out fawn",
-      "Black and tan (nero focato) with tan markings on muzzle, eyebrows, chest, legs, and perineum",
-      "White markings permitted only on the muzzle, forehead star, white chest star or cross, white on feet, pasterns, hocks, and tip of tail"
+      "Solid fawn across the full shade spectrum, from dark red-fawn with black overlay to pale washed-out fawn",
+      "Black and tan (black ground with tan markings on the muzzle, eyebrows, chest, legs, and underside of the tail)",
+      "Fawn with limited white markings on the muzzle, skull, chest star, neck, pasterns, hocks, feet, or tail tip (though minimal white is preferred)",
+      "Tricolour (black and tan with a white star on the chest)",
     ],
 
-    sheddingLevel:
-      "Low to moderate; dead wire hairs shed gradually and benefit from regular brushing and periodic hand-stripping",
+    sheddingLevel: null,
 
-    droolingLevel:
-      "Low; the lips are lean, thin, and closely fitting with dark pigmentation",
+    droolingLevel: null,
 
     distinctiveFeatures: [
-      "Squarely built body outline where height at the withers equals the length of the body from point of shoulder to point of buttock",
-      "Elongated, dry head with divergent cranial-facial axes and a slightly convex nasal bridge (Roman nose)",
-      "Rough wire hair on the torso roughly 5 cm in length, harsher on the back and flank",
-      "Thin, lean lips that adhere closely to the lower jaw without pendulous flews",
-      "Large, expressive, dark ochre or brown eyes with darkly pigmented eye rims and a gentle, earnest expression",
-      "Long, wide triangular ears set at eye level, hanging flat and turning inwards with pointed tips",
-      "High-set tail carried curved like a sabre when moving, covered in coarse wire hair without a flag",
-      "Compact, oval cat-like feet with hard, dry pads and dark, strong nails",
-      "Muscular, dry neck free from throatiness or dewlap",
-      "Deep chest reaching down to the elbows with a moderately tucked-up belly"
-    ]
+      "Square body outline where height at the withers equals body length",
+      "Elongated head with divergent upper cranial-facial axes",
+      "Slightly convex nasal bridge (Roman nose) with a black, well-opened nose",
+      "Rough, coarse body coat measuring no more than 5 cm in length",
+      "Moderately long beard along the lips and protective eyebrows that never obscure the eyes",
+      "Thin, fine, close-fitting lips with black rims",
+      "Large, luminous, dark-ochre eyes with black eyelid rims and a soft yet proud expression",
+      "Triangular, flat drop ears set at or below eye level, twisting forward with narrow tips",
+      "High-set tail thin at the root and uniform in thickness, hanging sabre-like at rest and carried high in action",
+      "Oval, compact feet with arched, closely knit toes and black nails",
+    ],
   },
 
   temperament: {
     traits: [
-      "Calm, reserved, and quiet indoors",
-      "Intensely driven, spirited, and determined in the field",
-      "Affectionate and loyal with familiar family members",
-      "Gentle and patient with older, respectful children",
-      "Sociable and cooperative with other hunting hounds",
-      "Reserved and cautious with unfamiliar people without displaying aggression",
-      "Independent and focused when following a scent trail",
-      "Extremely vocal on the trail, possessing a sonorous, musical hunting cry",
-      "High prey drive toward wild game, rabbits, and small domestic animals"
+      "Calm, composed, and level-headed",
+      "Reserved and thoughtful without being overly timid",
+      "Patient, methodical, and tireless on a scent trail",
+      "Friendly, gentle, and proud in bearing",
+      "Loyal and affectionate toward its handler and family",
+      "Capable of working either alone or cooperatively in a pack",
+      "Vocal on the trail with a resonant, pleasant, and harmonious voice",
+      "Adapted to rugged, steep, and brush-covered terrain",
     ],
 
     scores: {
@@ -149,64 +170,64 @@ export const segugio_italiano_a_pelo_forte: Breed = {
       independence: 4,
       trainability: 3,
       barking: 4,
-      energy: 4
-    }
+      energy: 4,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "High; bred as an endurance working hound requiring extended daily aerobic exercise and scent exploration",
+        "High. Built for all-day endurance over rough ground, this scent hound needs substantial daily outdoor exercise combined with tracking or nose-work outlets.",
 
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 90,
       },
 
       activities: [
-        "Long daily hikes or brisk walks on variable natural terrain",
-        "Structured scent tracking and blood tracking enrichment games",
-        "Supervised free running in large, securely fenced open fields",
-        "Field hunting trials and trailing activities",
-        "Canicross, trail running, or jogging alongside a bicycle once fully mature",
-        "Interactive food puzzles and nosework searches"
-      ]
+        "Long daily walks or hikes in varied countryside (on lead or long line in open areas)",
+        "Scent tracking, blood-trailing, and mantrailing exercises",
+        "Supervised running in securely fenced fields",
+        "Working scent-hound field trials",
+        "Canicross or trail jogging with a fully mature adult dog",
+        "Nose-work searches and hidden-scent games",
+      ],
     },
 
     grooming: {
       level: "Low to moderate",
 
       brushing:
-        "Brush once or twice weekly with a stiff bristle brush and metal pin comb to remove dead undercoat, dirt, and dried brambles. Hand-strip dead wire hairs two or three times a year to preserve the harsh texture.",
+        "Brush once or twice a week with a stiff bristle brush or comb to clear burrs, twigs, and loose hair, and strip dead outer hairs periodically by hand to keep the wire coat harsh and weatherproof.",
 
       bathing:
-        "Bathe only when heavily soiled or after muddy hunting outings, using a mild canine shampoo to avoid stripping natural protective oils from the wire coat.",
+        "Bathe only when dirty after field outings using a gentle canine shampoo, rinsing thoroughly and drying the coat and drop ears completely.",
 
       notes: [
-        "Inspect the long drop ears weekly for moisture, trapped seeds, wax, or signs of inflammation.",
-        "Check paw pads, toes, and skin folds after field outings in dense brush for thorns, cuts, burrs, or ticks.",
-        "Hand-strip rather than clipper the wire coat to maintain its harsh, water-repellent texture and rich color depth.",
-        "Trim nails every two to three weeks if natural wear on hard ground is insufficient.",
-        "Brush teeth multiple times weekly using enzymatic dog toothpaste.",
-        "Clean the beard and muzzle hair gently after eating moist food or hunting in muddy bogs."
-      ]
+        "Inspect the long, hanging ears weekly for moisture, grass seeds, wax, or irritation.",
+        "Check paw pads, interdigital spaces, and ears after woodland walks for thorns, burrs, or ticks.",
+        "Avoid clipping the wire coat, which softens the harsh protective hair texture.",
+        "Trim nails regularly if they do not wear down naturally.",
+        "Brush teeth routinely with canine toothpaste.",
+        "Wipe and dry the beard after messy meals or muddy fieldwork.",
+      ],
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent and cooperative, but guided by an intense scent-tracking instinct that easily distracts from handler attention outdoors",
+        "Moderate. Intelligent, level-headed, and cooperative with its handler, yet independent and deeply focused once it strikes a game scent outdoors.",
 
       tips: [
-        "Rely on positive reinforcement, high-value food rewards, and tracking-based motivational games.",
-        "Begin recall training from early puppyhood, using a long training line in open fields.",
-        "Keep instructional drills varied and engaging to prevent boredom from repetitive exercises.",
-        "Always maintain the hound on a leash or within a securely fenced perimeter when outdoors, as scent trails can trigger focused roaming.",
-        "Channel natural hunting desire into structured scentwork, tracking, or search games.",
-        "Avoid harsh verbal rebukes or heavy physical corrections, which cause this sensitive hound to become shut down or unresponsive."
+        "Use calm, patient, reward-based methods; harsh handling makes this reserved hound withdraw.",
+        "Start recall conditioning early in puppyhood using a long line in open areas.",
+        "Keep training sessions purposeful and incorporate scent rewards or tracking games.",
+        "Walk on a secure lead or within sturdy fencing whenever wildlife scent is present.",
+        "Channel its methodical trailing drive into mantrailing or nose-work sports.",
+        "Practise gentle handling of the ears, paws, and mouth from an early age.",
       ],
 
       socialization:
-        "Introduce the puppy to a wide range of friendly humans, novel environments, household appliances, and other vaccinated dogs from an early age. Because the breed is naturally reserved around unfamiliar people and possesses a strong predatory drive, ongoing exposure helps build stable social confidence while preventing skittishness."
+        "Introduce puppies gradually and positively to varied people, calm dogs, household sounds, and everyday environments. Because the rough-haired Segugio is naturally reserved and composed, steady early socialisation builds quiet confidence around visitors and unfamiliar settings.",
     },
 
     livingEnvironment: {
@@ -214,81 +235,73 @@ export const segugio_italiano_a_pelo_forte: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate climates",
-        "Mediterranean climates",
-        "Cold and wet climates, where the dense wire coat and undercoat provide substantial weather resistance",
-        "Warm climates with adequate shade, fresh water, and exercise scheduled during cooler morning and evening hours"
+        "Temperate and Mediterranean climates",
+        "Cool, wet, or mountainous weather, where the coarse wire coat provides strong protection",
+        "Warm weather with shade, fresh water, and exercise scheduled for cooler morning or evening hours",
       ],
 
       aloneTimeTolerance:
-        "Moderate when given ample prior physical exercise and mental scent work; however, extended isolation can prompt boredom barking, persistent howling, or escape attempts"
-    }
+        "Moderate once exercise and scent-work needs are met, though prolonged isolation without stimulation can lead to vocalising.",
+    },
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized, active working or sporting breeds, adjusted for seasonal hunting workload.",
+      "Complete, balanced diet formulated for medium-sized, active working dogs and adjusted to seasonal workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured meals daily until approximately six months of age, then transitioning to two meals daily.",
+        "Feed three to four measured meals daily until around six months of age, then transition to two daily meals.",
       adult:
-        "Two measured meals daily to support steady blood sugar and prevent gastric overload.",
+        "Feed two measured meals daily, separating meals from vigorous exercise.",
       senior:
-        "Two measured meals daily adjusted for metabolic slowdown, joint mobility, and reduced physical activity."
+        "Feed two measured meals daily tailored to age, mobility, and activity level.",
     },
 
     guidelines:
-      "Measure food precisely using a digital kitchen scale or measuring cup, adjusting rations to match physical output during active hunting or field trial seasons. Divide the daily allowance into two distinct meals, restrict strenuous exercise for at least one hour before and after feeding to reduce digestive risk, and ensure fresh drinking water is accessible at all times.",
+      "Measure rations to preserve the breed's naturally lean, muscular frame without excess fat. Scale calorie intake upward during active hunting or trailing seasons and downward during quieter months, avoid strenuous running immediately before or after meals, and keep clean water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition where the last two ribs are easily palpable without excess fat covering.",
-      "Increase caloric and protein density during peak hunting seasons or winter tracking trials.",
-      "Incorporate training treats into the daily caloric calculation to prevent creeping weight gain.",
-      "Avoid feeding immediately before or after heavy fieldwork to protect digestive comfort.",
-      "Provide electrolyte-balanced water during extended endurance hunting in warm weather.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep the body lean and muscular as suited to an endurance scent hound.",
+      "Adjust energy density and portion sizes between active fieldwork and rest seasons.",
+      "Count training treats within the daily calorie budget.",
+      "Allow at least an hour of rest before and after meals around heavy exercise.",
+      "Provide fresh water before and after long trailing sessions.",
+      "Make any dietary transitions gradually over several days.",
     ],
 
     note:
-      "Caloric needs fluctuate substantially between sedentary summer months and intense autumn-winter hunting seasons. Consult a veterinarian to establish tailored seasonal feeding rations."
+      "General canine nutrition guidance; exact portions depend on age, food calorie density, and daily workload.",
   },
 
   health: {
     overview:
-      "The Segugio Italiano a Pelo Forte is a robust, athletic hunting breed with a typical lifespan of 11 to 13 years. Developed over centuries of demanding physical work across the Italian mountains, it possesses strong constitutional vitality and low vulnerability to many complex hereditary disorders seen in more commercial breeds. Primary health considerations relate to its drop-ear anatomy, field injuries, and deep-chested structure, including otitis externa, corneal abrasions from hunting in dense brush, hip dysplasia, and gastric dilatation-volvulus (GDV).",
+      "The Segugio Italiano a Pelo Forte is a hardy, rustic working hound selected over centuries for physical stamina and soundness in demanding terrain, and major kennel clubs do not list breed-specific hereditary disease panels for it. Practical health attention focuses on routine care for its long, hanging ears, checking the eyes, coat, and feet for thorns or grass awns after fieldwork, preventing vector-borne parasites in hunting areas, and following sensible feeding practices for a deep-chested working dog.",
 
     commonConditions: [
-      "Otitis externa — bacterial or fungal ear canal infections encouraged by folded, pendulous ear flaps that restrict airflow",
-      "Field injuries — corneal scratches, bramble lacerations, and pad abrasions sustained while tracking through thorny undergrowth",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, which can cause lameness and secondary osteoarthritis",
-      "Gastric dilatation-volvulus (GDV / bloat) — a rapid, life-threatening stomach distension and twisting that can affect deep-chested working hounds",
-      "Canine leishmaniasis and tick-borne infections — vector-borne diseases common in Mediterranean hunting territories that require diligent topical prevention"
+      "Otitis externa or ear-canal irritation associated with long, hanging ears and outdoor debris.",
+      "Field-related cuts, pad abrasions, or foreign bodies (such as grass awns and thorns) acquired in dense brush.",
+      "General deep-chested working-dog considerations, including careful meal timing around strenuous exercise.",
     ],
 
     preventiveCare: [
-      "Obtain puppies from breeding stock with certified hip dysplasia evaluations.",
-      "Inspect and clean the long drop ears weekly, drying the ear entrance carefully after rain, swims, or heavy mud outings.",
-      "Maintain strict topical and oral parasite prevention against ticks, sandflies, and fleas, especially in Mediterranean field environments.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Check the eyes, paw pads, and coat after hunting excursions in heavy brush for thorns, seeds, or burrs.",
-      "Keep vaccinations and annual veterinary wellness examinations up to date."
+      "Inspect and clean the hanging ears weekly, especially after wet or brushy outings.",
+      "Check the eyes, interdigital spaces, coat, and ear flaps for grass seeds, burrs, and ticks after every country walk.",
+      "Maintain year-round parasite protection against ticks, fleas, and sandflies in endemic regions.",
+      "Feed two measured meals daily and rest the dog before and after vigorous exercise.",
+      "Schedule routine veterinary wellness examinations and keep vaccinations current.",
     ],
 
-    recommendedScreenings: [
-      "Radiographic hip dysplasia screening prior to breeding",
-      "Comprehensive clinical ophthalmic examination",
-      "Annual blood screening for vector-borne infections (Leishmania, Ehrlichia, Anaplasma, and heartworm) in endemic hunting regions"
-    ],
+    recommendedScreenings: [],
 
     dentalCare:
-      "Brush teeth several times weekly with canine-formulated toothpaste. The breed has strong, well-developed jaws with a complete scissor bite; periodic professional veterinary cleanings preserve gum health into old age.",
+      "Brush teeth several times a week with canine toothpaste and have the mouth checked during routine veterinary visits.",
 
     earCare:
-      "Examine the pendulous triangular ear flaps weekly for moisture, dark wax, debris, or foul odor. Clean using a veterinarian-recommended ear solution, drying the leather gently without inserting swabs deep into the canal.",
+      "Inspect the hanging triangular ears weekly for moisture, trapped plant material, wax build-up, or odour, and clean gently with a veterinarian-approved ear cleanser when needed.",
 
     skinCare:
-      "Part the harsh wire coat weekly to check the skin for external parasites, scratches, or hot spots. Hand-stripping dead hair twice yearly supports skin breathing and prevents dullness."
+      "Comb through the wire coat after field outings to remove burrs, thorns, and ticks, and hand-strip dead hairs periodically so the skin stays well ventilated.",
   },
 
   suitability: {
@@ -299,88 +312,83 @@ export const segugio_italiano_a_pelo_forte: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active hunters and scent-tracking enthusiasts seeking an authentic, hard-working field hound",
-      "Experienced dog owners accustomed to managing strong hunting drive and independent outdoor tracking",
-      "Rural or semi-rural households with large, securely fenced yards or acreage",
-      "Active outdoor families who engage in regular hiking, trail running, or field sports",
-      "Owners who appreciate a quiet, undemanding companion indoors coupled with intense outdoor energy"
+      "Hunters, mantrailing handlers, and nose-work enthusiasts",
+      "Experienced hound owners who understand independent scent drive",
+      "Rural or suburban homes with securely fenced outdoor space",
+      "Active hikers and runners seeking a tireless countryside companion",
+      "Households that appreciate a calm, reserved, and gentle dog indoors",
     ],
 
     notIdealFor: [
-      "Apartment dwellers or dense urban households with shared walls and limited outdoor open space",
-      "Sedentary owners looking for a low-exercise indoor pet",
-      "Households with loose outdoor rabbits, guinea pigs, or small pets vulnerable to high prey drive",
-      "Owners who demand instant, off-leash obedience in unfenced, wildlife-rich areas",
-      "First-time owners unprepared for hound independence and deep vocalizations"
-    ]
+      "Apartment dwellers or close urban neighbourhoods sensitive to a resonant hound voice",
+      "Sedentary households wanting a low-energy companion",
+      "Homes with free-roaming small pets that could trigger chasing instincts",
+      "Owners expecting effortless off-lead recall in unfenced wildlife areas",
+      "Handlers who use harsh or impatient training methods",
+    ],
   },
 
   funFacts: [
-    "The breed's physical likeness is frozen in ancient Roman marble: classical sculptures of Diana the Huntress in the Vatican Museum portray an identical lean, rough-coated hound with dropped ears at the goddess's side.",
-    "A hallmark feature of the breed is its resonant, bell-like voice ('voce squillante'), which changes rhythm and pitch to signal to hunters whether it is trailing cold scent, driving live game, or holding an animal at bay.",
-    "The word 'Segugio' derives from the Italian verb 'seguire', meaning 'to follow', highlighting its ancient function as a relentless scent follower.",
-    "Unlike many European scenthounds that work exclusively in large packs, the Segugio Italiano is equally adept at hunting entirely solo, in a pair ('pariglia'), or in small coordinated groups.",
-    "The breed's coat is naturally harsh and wire-like, reaching about 5 cm in length, which allows the dog to charge through dense Italian thorn thickets without suffering skin lacerations.",
-    "The head profile is characterized by divergent cranial-facial axes and a slightly arched nasal bridge, creating the classical 'Roman nose' described in ancient hunting treatises.",
-    "In its native Italy, the Segugio consistently ranks among the most celebrated hunting breeds, renowned for its tenacious tracking of the European hare ('lepre') and wild boar ('cinghiale')."
+    "Hounds of the same build and stature appear beside Diana the Huntress in classical statues preserved in the Naples Museum and the Vatican Museum.",
+    "Two well-preserved skeletons matching the modern Segugio Italiano were uncovered in a Lombard necropolis in the province of Verona.",
+    "A seventeenth-century painting at the Castle of Borso d'Este depicts a hound exemplifying the traditional Segugio type.",
+    "Compared with the smooth-coated Segugio Italiano a Pelo Raso, the rough-haired Segugio is noted for being calmer, more reserved, and more methodical in its work.",
+    "Its rough body coat measures no more than 5 cm in length, shielding the hound from dense brambles and cold mountain air.",
+    "The Italian word 'segugio' comes from the Latin 'segusium' / Italian 'seguire' ('to follow'), reflecting its specialization in following scent trails.",
+    "It is equally capable of working alone, in a pair, or in a coordinated hunting pack.",
   ],
 
   faq: [
     {
-      question: "What is a Segugio Italiano a Pelo Forte?",
+      question: "What is the Segugio Italiano a Pelo Forte?",
       answer:
-        "The Segugio Italiano a Pelo Forte is an ancient, medium-sized wire-haired scenthound from Italy, prized for its square build, exceptional endurance, and resonant tracking voice on wild hare and boar."
+        "It is an ancient, medium-sized Italian rough-haired scent hound built on a square, lean frame and prized for trailing hare and wild boar across all types of terrain.",
     },
     {
-      question: "What is the difference between the Pelo Forte and Pelo Raso varieties?",
+      question: "How does the Pelo Forte differ from the Pelo Raso?",
       answer:
-        "The Pelo Forte variety has a harsh, wire-like rough coat approximately 5 cm long with a dense undercoat, whereas the Pelo Raso variety carries a short, smooth, and glossy single coat; both varieties share identical conformation, proportions, and working temperaments."
+        "The Pelo Forte carries a rough, coarse wire coat up to 5 cm long on the body with a moderate beard and stands slightly taller (52–60 cm in males, 50–58 cm in females), whereas the Pelo Raso has a short, smooth coat (52–58 cm in males, 48–56 cm in females); the rough-haired breed is also described as calmer and more methodical at work.",
     },
     {
-      question: "How tall and heavy is a Segugio Italiano a Pelo Forte?",
+      question: "How tall and heavy is an adult Segugio Italiano a Pelo Forte?",
       answer:
-        "Adult males typically stand 52 to 58 cm at the withers and weigh 20 to 28 kg, while females stand 48 to 56 cm and weigh 18 to 26 kg, with an allowance of plus or minus 2 cm in height for exceptional specimens."
+        "Adult males stand 52 to 60 cm at the withers and weigh 20 to 28 kg, while adult females stand 50 to 58 cm and weigh 18 to 26 kg, with a tolerance of ±2 cm in height for excellent dogs.",
     },
     {
-      question: "How long does a Segugio Italiano a Pelo Forte live?",
+      question: "What is the typical lifespan of this breed?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 11 to 13 years."
+        "Typical life expectancy is 10 to 14 years with appropriate nutrition, exercise, and preventive veterinary care.",
     },
     {
-      question: "What colors are recognized in this breed?",
+      question: "What coat colours are permitted?",
       answer:
-        "The coat comes in solid fawn (ranging from deep red-fawn to washed-out fawn) or black and tan; discreet white markings are permitted only on the muzzle, forehead star, chest star, feet, pasterns, hocks, and tail tip."
+        "Permitted colours are any shade of solid fawn (from dark red-fawn with black overlay to light fawn) and black and tan. Fawn dogs may show limited white on the muzzle, skull, chest, neck, pasterns, hocks, feet, and tail tip, while black-and-tan dogs may have a white chest star (called tricolour).",
     },
     {
-      question: "Can this hound live in an apartment?",
+      question: "Is the Segugio Italiano a Pelo Forte suited to apartment living?",
       answer:
-        "No. Its high exercise requirements, deep sonorous barking instincts, and desire to explore natural scent trails make it poorly suited to apartment living; it thrives best in a rural or suburban home with a securely fenced yard."
+        "Generally no. Its high daily exercise needs, strong scenting drive, and resonant hunting voice are much better suited to a home with a securely fenced garden and easy access to countryside walks.",
     },
     {
-      question: "Is the Segugio Italiano a Pelo Forte good with children and other pets?",
+      question: "What is its temperament like at home?",
       answer:
-        "It is gentle, calm, and affectionate with respectful children and gets along well with other dogs, but its high predatory drive makes it unsafe around free-roaming small pets such as rabbits or rodents."
+        "Indoors it is calm, reserved, gentle, and level-headed with its family, contrasting with its tireless, vocal determination when following a scent trail outdoors.",
     },
     {
-      question: "Does the wire coat require a lot of grooming?",
+      question: "How should the wire coat be groomed?",
       answer:
-        "Grooming is straightforward: weekly brushing removes loose dirt and dead hair, while hand-stripping dead wire coat two to three times a year preserves its weather-resistant texture; regular ear checks are essential for its dropped ears."
+        "Brush the coat once or twice weekly to remove dirt and burrs, strip dead hairs by hand periodically rather than clipping, and inspect the hanging ears and paws after every field outing.",
     },
     {
-      question: "How much exercise does this dog need each day?",
+      question: "How much daily exercise does it need?",
       answer:
-        "The breed requires at least 60 to 90 minutes of vigorous daily exercise, including brisk walks, hiking, and mental scent-tracking enrichment to satisfy its working instincts."
+        "Plan for at least 60 to 90 minutes of daily outdoor activity—such as brisk country walks, hiking, and scent-tracking games—to satisfy both its physical stamina and nose-work instincts.",
     },
     {
-      question: "Is the Segugio Italiano easy to train?",
+      question: "Does this breed have many hereditary health problems?",
       answer:
-        "It is intelligent and eager to please its handler, but strong scenting instincts mean it is easily distracted outdoors; it requires patient, positive reinforcement training and must remain leashed or fenced in unfenced wilderness."
+        "It is a hardy, rustic working breed without a long list of breed-specific hereditary diseases; routine care focuses on keeping its hanging ears clean and dry, checking for thorns or grass seeds after fieldwork, and maintaining parasite prevention.",
     },
-    {
-      question: "What major health concerns affect the breed?",
-      answer:
-        "The breed is robust and generally healthy, with primary concerns centered on ear infections (otitis externa) from long drop ears, field injuries, hip dysplasia, and gastric dilatation-volvulus (bloat)."
-    }
   ],
 
   references: [
@@ -389,16 +397,17 @@ export const segugio_italiano_a_pelo_forte: Breed = {
     "enci-segugio-italiano-pelo-forte-standard",
     "ukc-segugio-italiano-standard",
     "societa-italiana-pro-segugio-history",
-    "wikimedia-segugio-italiano-pelo-forte-aleph-universe"
+    "wikimedia-segugio-italiano-pelo-forte-aleph-universe",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Reviewed breed standards and kennel-club records do not establish a separate scientific name for the breed.",
     },
 
     alternateNames: {
@@ -407,26 +416,26 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Standard header and breed names (Chien Courant Italien à Poil Dur, Drahthaariger Italienischer Laufhund)"
+          locator: "Standard title: Segugio Italiano a Pelo Forte (Italian rough-haired Segugio)",
         },
         {
           id: "fci-segugio-italiano-pelo-forte-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: Segugio Italiano a pelo forte (198)"
+          locator: "Multilingual names: Italian Rough-haired Segugio, Chien Courant Italien à Poil Dur, Drahthaariger Italienischer Laufhund, Sabueso Italiano de Pelo Duro",
         },
         {
           id: "ukc-segugio-italiano-standard",
           role: "verified",
-          locator: "Wire-haired Segugio Italiano breed name"
+          locator: "Segugio Italiano breed name",
         },
         {
-          id: "enci-segugio-italiano-pelo-forte-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Denominazione: Segugio Italiano a pelo forte"
-        }
+          locator: "breed.alt_names (Segugio Italiano, Italian Hound)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Verified across FCI Standard No. 198, FCI Nomenclature, ENCI, and UKC."
+      verifiedOn: "2026-11-17",
+      note: "Verified across FCI Standard No. 198, FCI Nomenclature, UKC, and The Dog API.",
     },
 
     group: {
@@ -435,50 +444,66 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "FCI CLASSIFICATION: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, With working trial"
+          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial",
         },
         {
           id: "fci-segugio-italiano-pelo-forte-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial"
-        },
-        {
-          id: "ukc-segugio-italiano-standard",
-          role: "verified",
-          locator: "Scenthound Group"
+          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial",
         },
         {
           id: "enci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Gruppo 6 Segugi e cani per pista di sangue - Sezione 1.2 Cani da seguita di taglia media"
-        }
+          locator: "Gruppo 6 Segugi e cani per pista di sangue",
+        },
+        {
+          id: "ukc-segugio-italiano-standard",
+          role: "cited",
+          locator: "Scenthound Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group (Hound)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "User-facing group classification written without prohibited source labels per Rule 5."
+      verifiedOn: "2026-11-17",
+      note: "Follows the Group 6, Section 1.2 classification without naming registries in user-facing text.",
     },
 
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "ORIGIN: Italy; BRIEF HISTORICAL SUMMARY"
+          locator: "Origin: Italy",
         },
         {
           id: "fci-segugio-italiano-pelo-forte-nomenclature",
           role: "verified",
-          locator: "Country of origin: Italy"
+          locator: "Country of origin of the breed: Italy",
         },
         {
           id: "enci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Origine: Italia"
-        }
+          locator: "Origine: Italia",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (Italy)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
+    },
+
+    "origin.region": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Official standards identify Italy as the country of origin without specifying a single region.",
     },
 
     overview: {
@@ -487,27 +512,27 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator: "Utilization, Brief historical summary, General appearance, Important proportions, Behaviour/temperament",
         },
         {
           id: "enci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Cenni storici, Aspetto generale, Proporzioni importanti, Comportamento e carattere"
+          locator: "Storia e standard di razza No. 198",
         },
         {
           id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Storia del Segugio Italiano a pelo forte e a pelo raso"
+          role: "cited",
+          locator: "Historical and hunting background of the Segugio Italiano",
         },
         {
-          id: "ukc-segugio-italiano-standard",
+          id: "the-dog-api",
           role: "cited",
-          locator: "History and Characteristics"
-        }
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesized in original phrasing from FCI Standard No. 198, ENCI, and Società Italiana Pro Segugio historical documentation."
+        "All overview text is rewritten in original wording from FCI Standard No. 198 and ENCI historical material.",
     },
 
     physical: {
@@ -516,22 +541,22 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, NECK, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "Important proportions, Head, Body, Tail, Limbs, Coat (not over 5 cm), Colour, Size and weight",
         },
         {
           id: "enci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Aspetto generale, Testa, Mantello, Taglia e peso"
+          locator: "Standard No. 198: Proportions, Head, Coat, Colour, Size and weight",
         },
         {
-          id: "ukc-segugio-italiano-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
-        }
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 17 generic species-wide colours)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Conformation, square proportions (height equals body length), divergent axes, wire coat, and distinctive features follow official standards."
+        "Conformation, rough coat length (not over 5 cm), and permissible colours (solid fawn, black and tan, limited white markings, and tricolour when a black-and-tan dog has a white chest star) follow FCI/ENCI Standard No. 198 rather than The Dog API's generic 17-colour list.",
     },
 
     "physical.height": {
@@ -540,22 +565,27 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Males: 52 - 58 cm. Females: 48 - 56 cm. Tolerance of +/- 2 cm for exceptional dogs."
+          locator: "Size and weight: Height at the withers: Males 52 cm – 60 cm; Females 50 cm – 58 cm (tolerance ± 2 cm for excellent dogs)",
         },
         {
           id: "enci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Altezza al garrese: Maschi da 52 cm a 58 cm, Femmine da 48 cm a 56 cm"
+          locator: "Altezza al garrese: Maschi 52–60 cm; Femmine 50–58 cm (tolleranza di ± 2 cm in soggetti eccellenti)",
         },
         {
           id: "ukc-segugio-italiano-standard",
-          role: "verified",
-          locator: "Height at withers: Males from 20.5 to 23 inches (52-58 cm); Females from 19 to 22 inches (48-56 cm)"
-        }
+          role: "conflicting",
+          locator: "Height at withers: Males 20.5–23 in (52–58 cm); Females 19–22 in (48–56 cm)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (Males 52–60 cm, Females 48–57 cm)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Stores the nominal standard ranges in cm (52–58 cm for males, 48–56 cm for females) as published in the FCI and ENCI standards; tolerance is documented in distinctiveFeatures and FAQ."
+        "Corrected to the official FCI/ENCI Standard No. 198 height ranges for the rough-haired Segugio (52–60 cm for males, 50–58 cm for females); the previously drafted 52–58 cm / 48–56 cm ranges belong to the short-haired variety (FCI No. 337) and older combined UKC standard, while The Dog API lists 52–60 cm for males and 48–57 cm for females.",
     },
 
     "physical.weight": {
@@ -564,78 +594,77 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Weight: Males: 20 - 28 kg. Females: 18 - 26 kg."
+          locator: "Size and weight: Weight: Males 20 kg – 28 kg; Females 18 kg – 26 kg",
         },
         {
           id: "enci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Peso: Maschi da 20 kg a 28 kg, Femmine da 18 kg a 26 kg"
+          locator: "Peso: Maschi 20–28 kg; Femmine 18–26 kg",
         },
         {
-          id: "ukc-segugio-italiano-standard",
-          role: "verified",
-          locator: "Weight: Males from 44 to 62 pounds (20-28 kg); Females from 40 to 57 pounds (18-26 kg)"
-        }
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (18–28 kg combined for both sexes)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Preserved in published unit of kilograms (20–28 kg for males, 18–26 kg for females) exactly as specified in the official breed standards."
+        "Retains the official FCI/ENCI sex-specific kilogram ranges (20–28 kg for males, 18–26 kg for females); The Dog API combines them into 18–28 kg for both sexes.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-segugio-italiano-pelo-forte-standard",
+          role: "verified",
+          locator: "Weight: Males 20 kg – 28 kg",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper male weight bound of 28 kg from FCI Standard No. 198.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-segugio-italiano-pelo-forte-standard",
+          role: "verified",
+          locator: "Weight: Females 18 kg – 26 kg",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female weight bound of 26 kg from FCI Standard No. 198.",
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "enci-segugio-italiano-pelo-forte-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Profilo di razza e aspettativa di vita (11-13 anni)"
+          locator: "breed.life_span (10–14 years)",
         },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Longevità e salute operativa del segugio italiano"
-        }
       ],
-      verifiedOn: "2026-10-24",
-      note: "Supported by Italian breed club and kennel club actuarial profiles."
+      verifiedOn: "2026-11-17",
+      note: "Verified from The Dog API lifespan range (10–14 years); FCI and ENCI standards do not publish a lifespan figure.",
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-segugio-italiano-pelo-forte-standard",
-          role: "verified",
-          locator: "COAT: Harsh rough wire hair on trunk about 5 cm long with dense undercoat"
-        },
-        {
-          id: "enci-segugio-italiano-pelo-forte-standard",
-          role: "verified",
-          locator: "Cura del mantello e muta del pelo forte"
-        }
-      ],
-      verifiedOn: "2026-10-24",
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
       note:
-        "The wire coat sheds gradually and minimally when dead hair is periodically hand-stripped."
+        "Reviewed breed standards describe the rough wire coat without establishing a standardised shedding rating.",
     },
 
     "physical.droolingLevel": {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-segugio-italiano-pelo-forte-standard",
-          role: "verified",
-          locator: "Lips: Thin and lean, tight-fitting, with dark pigmentation"
-        },
-        {
-          id: "enci-segugio-italiano-pelo-forte-standard",
-          role: "verified",
-          locator: "Labbra: Sottili e asciutte, aderenti alla mascella"
-        }
-      ],
-      verifiedOn: "2026-10-24",
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
       note:
-        "Tight, lean lips without pendulous flews result in minimal drooling."
+        "Reviewed breed standards describe thin, fine lips without establishing a standardised drooling rating.",
     },
 
     "temperament.traits": {
@@ -644,21 +673,26 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Bold, enthusiastic hunter; calm, reserved and affectionate companion; resonant voice"
+          locator: "Behaviour / Temperament: more reserved, calm and level-headed than the short-haired cousin; friendly, gentle and proud; pleasant, resonant voice",
         },
         {
           id: "enci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Comportamento e carattere: Temperamento ardente e appassionato nella caccia, calmo e affettuoso in casa"
+          locator: "Comportamento e carattere (Standard No. 198)",
         },
         {
           id: "ukc-segugio-italiano-standard",
           role: "verified",
-          locator: "Characteristics: Eager hunter, calm companion, distinct ringing bark"
-        }
+          locator: "Characteristics: eager hunter, calm companion, ringing voice",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "temperament.scores": {
@@ -667,36 +701,36 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "cited",
-          locator: "Temperament and hunting characteristics"
+          locator: "Behaviour / Temperament and Utilization",
         },
         {
-          id: "enci-segugio-italiano-pelo-forte-standard",
+          id: "ukc-segugio-italiano-standard",
           role: "cited",
-          locator: "Comportamento e attitudini"
-        }
+          locator: "Characteristics",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented breed temperament traits."
+        "Editorial 1–5 scores informed by the breed's documented working temperament.",
     },
 
     care: {
       reliability: "general_guidance",
       sources: [
         {
-          id: "enci-segugio-italiano-pelo-forte-standard",
+          id: "fci-segugio-italiano-pelo-forte-standard",
           role: "cited",
-          locator: "Cura, toelettatura e gestione operativa"
+          locator: "Utilization, Behaviour/temperament, and Coat",
         },
         {
           id: "societa-italiana-pro-segugio-history",
           role: "cited",
-          locator: "Guida alla gestione e all'allenamento del cane da seguita"
-        }
+          locator: "Working scent-hound field management",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines active hunting hound management with wire coat maintenance protocols."
+        "Combines general working scent-hound care with wire-coat and drop-ear maintenance.",
     },
 
     "care.exercise.level": {
@@ -705,30 +739,30 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "UTILIZATION: Tracking and driving hound with great stamina"
+          locator: "Utilization and General appearance: endurance scent hound built to work from dawn to dusk",
         },
         {
           id: "enci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Attitudini di caccia e resistenza fisica"
-        }
+          locator: "Utilizzazione e resistenza",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
       sources: [
         {
-          id: "societa-italiana-pro-segugio-history",
+          id: "fci-segugio-italiano-pelo-forte-standard",
           role: "cited",
-          locator: "Allenamento quotidiano del cane da lavoro"
-        }
+          locator: "Endurance hunting and trailing work",
+        },
       ],
       verifiedOn: null,
       note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic mountain scenthound."
+        "Editorial estimate of 60–90 minutes of daily outdoor activity for a healthy adult.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -737,35 +771,26 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "cited",
-          locator: "High stamina, vocal tracking hound"
+          locator: "Endurance hunting drive and resonant voice",
         },
-        {
-          id: "enci-segugio-italiano-pelo-forte-standard",
-          role: "cited",
-          locator: "Esigenze di movimento ed esercizio all'aperto"
-        }
       ],
       verifiedOn: null,
       note:
-        "Editorial evaluation that high endurance and vocal hunting drive make apartment living unsuitable."
+        "Editorial assessment based on exercise needs and vocal trailing instincts.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
         {
-          id: "enci-segugio-italiano-pelo-forte-standard",
-          role: "verified",
-          locator: "Ambiente di vita e recinzione sicura"
+          id: "fci-segugio-italiano-pelo-forte-standard",
+          role: "cited",
+          locator: "Outdoor working scent hound characteristics",
         },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Spazi aperti e gestione del cane da caccia"
-        }
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: null,
+      note:
+        "Editorial assessment that a securely fenced yard suits an active scent hound.",
     },
 
     "care.livingEnvironment.climates": {
@@ -774,173 +799,49 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "COAT: Harsh wire coat with dense undercoat protecting against brambles and mountain cold"
+          locator: "Utilization and Coat: robust rough coat suited to plains and mountainous terrain",
         },
-        {
-          id: "enci-segugio-italiano-pelo-forte-standard",
-          role: "verified",
-          locator: "Resistenza alle intemperie e ai climi montani"
-        }
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "cited",
-          locator: "Comportamento sociale e vita di muta"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
       note:
-        "Scenthounds can tolerate moderate alone time when physically exercised, but can become vocal if isolated without enrichment."
+        "General scent-hound guidance regarding exercise, companionship, and vocalisation.",
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "enci-segugio-italiano-pelo-forte-standard",
-          role: "cited",
-          locator: "Alimentazione e fabbisogno energetico stagionale"
-        },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "cited",
-          locator: "Nutrizione del cane da lavoro nei periodi venatori"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for active sporting and hunting dogs."
+        "General nutrition guidance for an active, lean-bodied working hound.",
     },
 
-    "nutrition.feedingFrequency": {
+    health: {
       reliability: "general_guidance",
       sources: [
         {
-          id: "enci-segugio-italiano-pelo-forte-standard",
+          id: "fci-segugio-italiano-pelo-forte-standard",
           role: "cited",
-          locator: "Frequenza dei pasti e gestione digestiva"
-        }
+          locator: "General appearance, dropped ears, deep chest, and rugged field work",
+        },
       ],
       verifiedOn: null,
       note:
-        "Standard canine life-stage feeding schedule to maintain steady blood glucose and reduce bloat risk."
-    },
-
-    "health.overview": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "enci-segugio-italiano-pelo-forte-standard",
-          role: "verified",
-          locator: "Salute della razza, longevità e prevenzione veterinaria"
-        },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Mantenimento della rusticità e screening sanitario"
-        }
-      ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Documents high constitutional hardiness alongside drop-ear and field-injury vulnerabilities."
-    },
-
-    "health.commonConditions": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "enci-segugio-italiano-pelo-forte-standard",
-          role: "verified",
-          locator: "Patologie auricolari, traumi oculari e screening ortopedico"
-        },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Prevenzione di otiti, torsione gastrica e malattie parassitarie"
-        }
-      ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Identifies documented breed considerations without using prohibited registry labels in prose."
-    },
-
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "enci-segugio-italiano-pelo-forte-standard",
-          role: "cited",
-          locator: "Controllo auricolare, prevenzione antiparassitaria e cura delle zampe"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Field hygiene protocol tailored to drop-eared wire-coated scenthounds."
+        "Official standards and national kennel-club records do not establish a breed-specific hereditary disease list; health notes cover practical ear, field-injury, parasite, and deep-chested working-dog care.",
     },
 
     "health.recommendedScreenings": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "enci-segugio-italiano-pelo-forte-standard",
-          role: "verified",
-          locator: "Controlli pre-riproduttivi: displasia dell'anca e screening oftalmico"
-        }
-      ],
-      verifiedOn: "2026-10-24",
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
       note:
-        "Pre-breeding evaluations recommended by the national breed authority."
-    },
-
-    "health.dentalCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-segugio-italiano-pelo-forte-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete scissor bite"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
-    },
-
-    "health.earCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-segugio-italiano-pelo-forte-standard",
-          role: "cited",
-          locator: "Ears: wide, dropped ears with narrow tips"
-        },
-        {
-          id: "enci-segugio-italiano-pelo-forte-standard",
-          role: "cited",
-          locator: "Pulizia delle orecchie pendenti"
-        }
-      ],
-      verifiedOn: null,
-      note: "Ear maintenance protocol for dropped, pendulous leathers."
-    },
-
-    "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-segugio-italiano-pelo-forte-standard",
-          role: "cited",
-          locator: "Skin and coat texture"
-        }
-      ],
-      verifiedOn: null,
-      note: "Skin and hand-stripping guidelines for coarse wire coats."
+        "Reviewed kennel-club and breed-club sources do not establish a formal mandatory pre-breeding screening panel for this breed.",
     },
 
     suitability: {
@@ -949,17 +850,17 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "cited",
-          locator: "Working temperament and hunting utility"
+          locator: "Utilization and Behaviour/temperament",
         },
         {
-          id: "enci-segugio-italiano-pelo-forte-standard",
+          id: "ukc-segugio-italiano-standard",
           role: "cited",
-          locator: "Idoneità e gestione in famiglia"
-        }
+          locator: "Characteristics",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability flags and descriptions reflect editorial evaluations of hound exercise and predatory drives."
+        "Editorial suitability evaluations based on working drive, stamina, and indoor calmness.",
     },
 
     funFacts: {
@@ -968,21 +869,16 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Brief historical summary: Roman statues of Diana the Huntress, 'seguire' etymology, Roman nose"
-        },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Cenni storici e vocazione venatoria del segugio italiano"
+          locator: "Brief historical summary (Diana statues in Naples and Vatican museums, Lombard necropolis in Verona, Castle of Borso d'Este painting), Coat (not over 5 cm), and Behaviour/temperament",
         },
         {
           id: "enci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Storia, voce squillante e caccia alla lepre e al cinghiale"
-        }
+          locator: "Storia: statue di Diana cacciatrice, necropoli longobarda di Verona, castello di Borso d'Este (1600)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Verified historical and functional facts written without prohibited names."
+      verifiedOn: "2026-11-17",
+      note: "Verified directly against FCI Standard No. 198 and ENCI historical notes.",
     },
 
     faq: {
@@ -991,24 +887,24 @@ export const segugio_italiano_a_pelo_forte: Breed = {
         {
           id: "fci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Origin, size, weight, coat differences, and colors"
+          locator: "Origin, size (52–60 cm male, 50–58 cm female), weight (20–28 kg male, 18–26 kg female), coat (up to 5 cm), colours, and temperament",
         },
         {
           id: "enci-segugio-italiano-pelo-forte-standard",
           role: "verified",
-          locator: "Domande frequenti, salute, esercizio e convivenza"
+          locator: "Standard No. 198",
         },
         {
-          id: "ukc-segugio-italiano-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "General characteristics and temperament"
-        }
+          locator: "breed.life_span (10–14 years)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "FAQ answers synthesize verified standards and parent-club guidance without naming registries in prose."
-    }
+        "FAQ answers synthesise verified FCI/ENCI Standard No. 198 measurements and The Dog API lifespan data without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-10-24"
+  updatedOn: "2026-11-17",
 };

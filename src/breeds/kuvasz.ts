@@ -3,22 +3,22 @@ import type { Breed } from "../schema/breed.types";
 export const kuvasz: Breed = {
   slug: "kuvasz",
   name: "Kuvasz",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Hungarian Kuvasz",
     "Kuvaszok",
     "Magyar Kuvasz",
     "Chien de berger hongrois Kuvasz",
-    "Ungarischer Kuvasz"
+    "Ungarischer Kuvasz",
   ],
 
   group:
-    "Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 — Sheepdogs (without working trial; also classified in the Working and Guardian Dog groups)",
+    "Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 — Sheepdogs (without working trial)",
 
   origin: {
     country: "Hungary",
-    region: "Carpathian Basin and the Hungarian Plains"
+    region: "Carpathian Basin and the Hungarian Plains",
   },
 
   images: [
@@ -35,15 +35,15 @@ export const kuvasz: Breed = {
       height: 2246,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by DenesFeri, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Kuvasz_-_1.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by DenesFeri, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Kuvasz_-_1.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24"
+      metadataCheckedOn: "2026-11-17",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/DocFile_Kuvasz.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:DocFile_Kuvasz.jpg",
       title: "DocFile Kuvasz.jpg",
-      description: "An adult Kuvasz dog standing in a field.",
+      description: "An adult Kuvasz standing outdoors in a field.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2004-09-12",
@@ -52,9 +52,9 @@ export const kuvasz: Breed = {
       height: 772,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:DocFile_Kuvasz.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:DocFile_Kuvasz.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24"
+      metadataCheckedOn: "2026-11-17",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Kuvasz_-_3.jpg",
@@ -69,110 +69,109 @@ export const kuvasz: Breed = {
       height: 2189,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by DenesFeri, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Kuvasz_-_3.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by DenesFeri, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Kuvasz_-_3.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24"
-    }
+      metadataCheckedOn: "2026-11-17",
+    },
   ],
 
   overview: {
     summary:
-      "A majestic, ancient Hungarian livestock guardian dog characterized by its large, well-muscled frame, dense wavy white double coat, keen intelligence, and unwavering devotion to protecting its family and flock.",
+      "The Kuvasz is a large, powerfully built Hungarian flock and property guardian distinguished by its dense, wavy white or ivory double coat, dark skin pigmentation, and tireless, courageous devotion to the people and territory in its care.",
 
     description:
-      "The Kuvasz is an ancient, large-sized Hungarian flock guardian defined by an imposing, noble stature, robust bone structure, and a dense, wavy white or ivory double coat. Its body is slightly longer than tall, presenting a harmonious rectangular silhouette combining strength, agility, and lightfooted movement without any heaviness or lethargy. The head is lean, noble, and wedge-shaped with dark, almond-shaped eyes, tightly fitting black lips, and V-shaped dropped ears. Developed over centuries to guard sheep and cattle against apex predators on the Hungarian plains, the Kuvasz exhibits a dual character: gentle, patient, and deeply affectionate with its household, yet unyielding, fearless, and naturally suspicious when evaluating unfamiliar people or potential threats.",
+      "Combining substantial bone with lean, sharply defined muscle and light-footed agility, the Kuvasz presents a slightly rectangular outline that is slightly longer than tall and never clumsy or coarse. Its weatherproof double coat pairs a wavy outer coat—forming characteristic crests, ridges, and tassels along the torso—with a fine, downy undercoat, an expressive neck mane, and full feathering on the thighs and tail. A noble, wedge-shaped head with a gently sloping stop, obliquely set dark-brown almond eyes, V-shaped pendant ears, and jet-black nose, lip, and eyelid pigment sets it apart from other white guardian breeds. Devoted, gentle, and appreciative toward its own household, the breed is naturally watchful, independent, and fearless when defending its home or livestock from intruders.",
 
     history:
-      "The Kuvasz is an ancient livestock guardian of the Carpathian Basin, accompanying the Magyar tribes into Hungary during the ninth century. The breed's name likely traces to the ancient Cuman or Turkish word 'kawasz', meaning an armed escort of the nobility or trusted guardian. In the fifteenth century, King Matthias Corvinus maintained large packs of Kuvasz dogs at his royal court at Visegrád, utilizing them as personal royal bodyguards and hunting companions for wild boar, bear, and wolf; historical lore recounts that the monarch trusted his dogs far more than his human courtiers. Over following centuries, the breed returned primarily to the vast grasslands of the Hungarian Puszta, guarding flocks of sheep and cattle against wolves, bears, and bandits. The white coat was intentionally selected so shepherds could distinguish their guardians from wolves in dim light. The breed suffered catastrophic losses during World War II, when invading troops targeted these resolute estate defenders, reducing the Hungarian population to fewer than thirty registered dogs. Through the dedicated recovery efforts of passionate Hungarian breeders in the postwar era, the breed was preserved and restored as a proud national treasure.",
+      "Rooted in the ancient pastoral traditions of the Carpathian Basin, the ancestors of the Kuvasz arrived in Hungary with the Magyar tribes in the ninth century to protect livestock against wolves, bears, and cattle thieves. During the fifteenth-century reign of King Matthias Corvinus, the dogs were prized at the royal court as trusted personal bodyguards and big-game hunting hounds. As open grazing across the Hungarian plains later contracted, the breed shifted increasingly toward guarding rural estates, villages, and homesteads, with shepherds favouring the white coat so their dogs stood out clearly from predators at night. Nearly wiped out during the devastation of World War II—when fewer than thirty registered dogs survived in Hungary—the breed was carefully rebuilt from remaining working lines and is honoured today as one of Hungary's historic national dog breeds.",
 
     originalPurpose:
-      "Guarding flocks of sheep and herds of cattle against wolves, bears, lynx, and thieves on the Hungarian plains, and serving as royal estate and personal bodyguards.",
+      "Guarding flocks, herds, and rural estates against large predators and thieves in Hungary, as well as serving as a royal court guard and big-game hound.",
 
     currentRoles: [
       "Working livestock guardian for sheep, goats, and cattle",
-      "Estate and rural property guardian",
-      "Loyal family guardian and companion for experienced handlers",
-      "Hiking and cold-weather outdoor tracking partner",
-      "Competitive obedience, rally, and working assessment participant"
-    ]
+      "Rural estate and homestead guardian",
+      "Devoted household guardian and companion for experienced owners",
+      "Cold-weather hiking and outdoor companion",
+      "Conformation, obedience, and rally participant",
+    ],
   },
 
   physical: {
-    sizeCategory: "Large",
+    sizeCategory: "Large, muscular, slightly rectangular flock guardian",
 
     height: {
       unit: "cm",
       male: {
         min: 71,
-        max: 76
+        max: 76,
       },
       female: {
         min: 66,
-        max: 70
-      }
+        max: 70,
+      },
     },
 
     weight: {
       unit: "kg",
       male: {
         min: 48,
-        max: 62
+        max: 62,
       },
       female: {
         min: 37,
-        max: 50
-      }
+        max: 50,
+      },
     },
 
     lifespanYears: {
       min: 10,
-      max: 12
+      max: 12,
     },
 
     coatType:
-      "Dense, weather-resistant double coat with a moderately harsh, wavy outer coat forming crests and whorls over a fine, woolly undercoat; short and straight on the head and front of limbs, with an abundant mane around the neck and full breeches on the thighs.",
+      "Dense, weather-resistant double coat consisting of a moderately coarse, wavy topcoat that forms crests, ridges, and tassels over a fine, downy undercoat.",
 
-    coatLength: "Medium",
+    coatLength:
+      "Short and smooth (1–2 cm) on the head, ears, feet, and lower limbs; medium length (4–12 cm) on the torso, upper arms, and thighs, with 5–8 cm leg feathering and 10–15 cm tail hair.",
 
     coatColors: [
       "White",
-      "Ivory"
+      "Ivory",
     ],
 
     sheddingLevel:
-      "High shedding year-round, with intense seasonal shedding in spring and autumn when blowing the dense undercoat",
+      "Moderate year-round shedding with heavy seasonal coat drops in spring and autumn when the dense undercoat molts",
 
     droolingLevel:
-      "Low to moderate; the lips are tight and dry with black edges, preventing excessive drooling",
+      "Low to moderate; the black-edged lips fit tightly and cleanly over the jaws without loose flews",
 
     distinctiveFeatures: [
-      "Imposing, harmonious, and noble stature combining muscular strength with athletic mobility",
-      "Lean, wedge-shaped head with a gently sloping stop and no coarseness",
-      "Dark almond-shaped, slightly slanting eyes with tightly adhering black eye rims",
-      "Thick, V-shaped ears with rounded tips, set at medium height and hanging close to the head",
-      "Tightly fitting, dry lips with deep black pigmentation",
-      "Strong jaws with a regular and complete scissor bite",
-      "Solid white or ivory wavy double coat forming an abundant neck mane and full thigh breeches",
-      "Slate-grey to black skin pigmentation on the palate, lips, eye rims, nose, and paw pads",
-      "Long, low-set tail reaching at least to the hock, slightly curled upward at the tip when at rest",
-      "Deep, broad chest with well-sprung ribs reaching down to the elbows",
-      "Height at the withers of 71 to 76 cm for males and 66 to 70 cm for females",
-      "Weight of 48 to 62 kg for males and 37 to 50 kg for females"
-    ]
+      "Slightly rectangular, powerfully muscled body with clean, sharply outlined joints",
+      "Lean, dry, wedge-shaped head that distinguishes the breed from other white flock guardians",
+      "Slightly slanting, almond-shaped dark brown eyes with tight black eyelid rims",
+      "Medium-set V-shaped ears with rounded tips that curve slightly away at the base before lying flat against the head",
+      "Tight-fitting black lips with a characteristic serrated or jagged lip margin",
+      "Strong jaws meeting in a regular, complete scissor bite",
+      "Abundant wavy white or ivory coat forming crests and ridges, a pronounced neck ruff and chest mane, and full breeches",
+      "Black nose leather, lips, and eye rims with black or slate-grey paw pads and a dark palate",
+      "Low-set tail reaching to the hocks, hanging straight with a slight upward curve at the tip at rest",
+      "Height at the withers of 71–76 cm for males and 66–70 cm for females",
+      "Weight of 48–62 kg for males and 37–50 kg for females",
+    ],
   },
 
   temperament: {
     traits: [
-      "Courageous, bold, and fearless when defending family and flock",
-      "Deeply loyal, affectionate, and protective toward household members",
-      "Reserved, aloof, and discerning with unfamiliar people",
-      "Intelligent and independent decision-maker",
-      "Patient and gentle with familiar children",
-      "Alert, vigilant, and watchful day and night",
-      "Confident and dignified bearing",
-      "Proud and sensitive to human tone of voice",
-      "Low predatory drive toward domestic livestock",
-      "Territorial and protective of household boundaries"
+      "Brave, fearless, and resolute when defending family, flock, or property",
+      "Faithful, dependable, and deeply attached to its household",
+      "Naturally watchful and reserved toward unfamiliar people",
+      "Self-assured and independent in assessing situations",
+      "Gentle and patient with children in its own family",
+      "Vigilant and territorial day and night",
+      "Sensitive to unfair or harsh treatment",
+      "Calm, dignified, and self-reliant",
+      "Strong guardian instinct coupled with low prey drive toward guarded stock",
     ],
 
     scores: {
@@ -184,64 +183,63 @@ export const kuvasz: Breed = {
       independence: 4,
       trainability: 3,
       barking: 3,
-      energy: 3
-    }
+      energy: 3,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "Moderate; requires regular daily purposeful exercise, patrolling opportunities in a secure enclosure, and mental engagement suited to an athletic flock guardian",
+        "Moderate to high. A tireless working guardian by heritage, the Kuvasz needs daily purposeful walks and room to patrol within a securely fenced property.",
 
       minutesPerDay: {
         min: 45,
-        max: 60
+        max: 60,
       },
 
       activities: [
-        "Daily long walks and trail hikes on varied terrain",
-        "Supervised patrolling and free movement in a securely fenced perimeter",
-        "Livestock protection and pastoral guardian work",
-        "Reward-based obedience, rally, and attention exercises",
-        "Scent enrichment, tracking games, and search puzzles",
-        "Outdoor cold-weather exercise and winter excursions"
-      ]
+        "Brisk daily walks and hikes over varied terrain",
+        "Supervised patrolling and free movement inside a tall, securely fenced yard or pasture",
+        "Active livestock guardianship on working farms",
+        "Reward-based obedience, rally, and impulse-control practice",
+        "Tracking, scent games, and problem-solving enrichment",
+        "Cold-weather treks and winter outdoor excursions",
+      ],
     },
 
     grooming: {
       level: "Moderate",
 
       brushing:
-        "Brush thoroughly once or twice weekly using a sturdy pin brush and slicker brush to remove loose undercoat and prevent tangles; increase to daily brushing during seasonal shedding in spring and autumn.",
+        "Brush once or twice a week with a sturdy pin brush and undercoat rake to lift loose hair and prevent mats in the mane and breeches; brush daily during spring and autumn coat blows.",
 
       bathing:
-        "Bathe only when dirty using a gentle canine shampoo; the harsh outer coat naturally sheds dried dirt and mud, and frequent bathing can soften the water-repellent texture.",
+        "Bathe only when genuinely soiled using a mild canine shampoo, as the coarse outer hair naturally sheds dried mud and frequent washing strips protective coat oils.",
 
       notes: [
-        "Never shave the double coat; the dense fur provides thermal insulation against both winter freezing and summer heat.",
-        "Check behind the ears, in the neck mane, and through the thigh breeches for burrs, mats, or ticks after outdoor walks.",
-        "Use an undercoat rake during seasonal shedding to lift dead hair from the deep woolly undercoat.",
-        "Inspect the thick V-shaped ears weekly for wax accumulation, moisture, or redness.",
-        "Trim nails every two to three weeks if they are not naturally worn down on hard ground.",
-        "Brush teeth multiple times weekly using canine-formulated enzymatic toothpaste."
-      ]
+        "Do not shave the double coat, which insulates against both winter cold and summer sun.",
+        "Check behind the ears, in the thick neck ruff, and along the feathered legs for burrs, mats, and ticks after country walks.",
+        "Use a wide-toothed comb and undercoat rake during seasonal shedding to clear dead undercoat down to the skin.",
+        "Inspect the V-shaped pendant ears weekly for wax, moisture, or redness.",
+        "Trim nails every few weeks if natural wear does not keep them short.",
+        "Brush teeth several times a week with canine toothpaste.",
+      ],
     },
 
     training: {
       difficulty:
-        "Challenging to moderate; highly intelligent and discerning, but possesses an independent streak and will ignore repetitive drills or harsh handling",
+        "Moderate to challenging. Bred to think independently while guarding flocks without human direction, the Kuvasz learns quickly when treated with calm fairness but resists harsh corrections or repetitive drills.",
 
       tips: [
-        "Start early using positive reinforcement, high-value rewards, and clear, fair leadership.",
-        "Keep training sessions brief, varied, and purposeful to prevent boredom.",
-        "Teach reliable recall and leash manners early, before the dog reaches its full adult power.",
-        "Avoid harsh verbal corrections or forceful methods, which damage mutual trust and cause this proud breed to withdraw.",
-        "Teach the dog to observe handler cues when welcoming approved guests onto the property.",
-        "Install sturdy, secure boundary fencing at least five to six feet high to prevent wandering beyond assigned territory."
+        "Establish calm, consistent household rules early using reward-based methods.",
+        "Keep training sessions short, meaningful, and respectful—harsh handling can provoke defensiveness.",
+        "Build reliable lead manners and recall in puppyhood before the dog reaches adult size and strength.",
+        "Teach clear rituals for welcoming invited visitors while under handler supervision.",
+        "Enclose outdoor areas with sturdy five- to six-foot perimeter fencing rather than relying on invisible electronic boundaries.",
       ],
 
       socialization:
-        "Introduce the puppy calmly and systematically to diverse people, friendly dogs, handling routines, sounds, and novel environments from eight weeks of age onward. Because natural guardian instincts awaken as the dog matures, early social exposure fosters calm confidence and discernment rather than indiscriminate suspicion."
+        "Expose puppies steadily and positively from a young age to varied people, calm dogs, grooming handling, and everyday sights and sounds outside the property. Early, ongoing socialisation helps a maturing guardian distinguish normal social situations from genuine threats.",
     },
 
     livingEnvironment: {
@@ -249,85 +247,83 @@ export const kuvasz: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cold and snowy winter climates",
-        "Temperate climates",
-        "Warm climates provided there is abundant shade, air conditioning, and fresh water during hot weather"
+        "Cold and snowy climates, where its weatherproof double coat excels",
+        "Temperate climates with outdoor space and indoor family access",
+        "Warm weather only when given ample shade, cool indoor shelter, fresh water, and early-morning or evening walks",
       ],
 
       aloneTimeTolerance:
-        "Moderate when provided with a secure yard to patrol or livestock to guard, but requires regular family interaction and should not be isolated for long workdays"
-    }
+        "Moderate when given a secure territory or flock to watch over, though it bonds closely with its people and needs daily companionship and guidance.",
+    },
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large- or giant-breed dogs, adjusted for age, activity level, and working demands.",
+      "Complete, balanced large- or giant-breed canine diet matched to age, body condition, and workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured meals daily up to six months of age, then transitioning to two meals daily on a dedicated large-breed puppy formula to support steady, controlled skeletal growth.",
+        "Feed three measured meals daily in early puppyhood, transitioning to two daily meals on a controlled-growth large-breed puppy formula so bones and joints mature steadily.",
       adult:
-        "Two measured meals daily to support consistent digestion and help mitigate the risk of gastric dilatation-volvulus.",
+        "Feed two measured meals daily rather than one large meal to support digestion and reduce stomach distension.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint mobility, and lean muscle maintenance."
+        "Feed two portion-controlled meals daily adjusted for slower metabolism and joint comfort.",
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting rations to maintain a lean, athletic body condition. Divide the daily allowance into two distinct meals, avoid vigorous exercise for at least one hour before and after feeding to lower the risk of gastric dilatation-volvulus, and ensure fresh drinking water is accessible at all times.",
+      "Measure every meal to keep the dog lean and hard-muscled, as excess weight strains developing and adult joints. Split daily rations into at least two meals, rest the dog for an hour before and after eating to help reduce the risk of gastric dilatation-volvulus (bloat), and provide fresh water at all times.",
 
     considerations: [
-      "Maintain a lean body condition to avoid overloading developing or mature joints.",
-      "Feed a dedicated large-breed puppy formula with controlled calcium and phosphorus ratios to foster slow, steady bone development.",
-      "Incorporate training treats into the daily caloric calculation to prevent unwanted weight gain.",
-      "Avoid free-feeding and restrict strenuous activity around meal times to manage bloat risks.",
-      "Adjust daily caloric portions upward for dogs working outdoors in winter and downward during sedentary summer periods.",
-      "Transition between diets gradually over five to seven days to protect digestive balance."
+      "Use a large-breed puppy diet with appropriate calcium, phosphorus, and calorie levels to prevent overly rapid growth.",
+      "Keep adult weight lean so the ribs are easily felt beneath the coat.",
+      "Include training treats within the daily calorie allowance.",
+      "Avoid strenuous exercise immediately before and after meals.",
+      "Adjust rations between cold-weather outdoor work and quieter summer months.",
+      "Change foods gradually over five to seven days.",
     ],
 
     note:
-      "Caloric demands vary according to age, living climate, and working workload. Work with a veterinarian to establish tailored daily feeding guidelines."
+      "General canine feeding guidance; consult a veterinarian to tailor portions to your dog's age, workload, and health.",
   },
 
   health: {
     overview:
-      "The Kuvasz is generally a robust, hardy livestock guardian with a typical lifespan of 10 to 12 years. Developed over centuries of demanding outdoor pastoral work across the Hungarian plains, it possesses solid constitutional stamina. As with other large and giant working breeds, health considerations center on musculoskeletal development, ocular health, and deep-chested anatomy, notably canine hip dysplasia, elbow dysplasia, osteochondritis dissecans (OCD), gastric dilatation-volvulus (GDV / bloat), autoimmune thyroiditis, and progressive retinal atrophy.",
+      "The Kuvasz is a hardy working breed with a typical life expectancy of 10 to 12 years, though like other large, deep-chested dogs it faces orthopaedic, developmental, endocrine, and gastrointestinal risks. Documented concerns include hip and elbow dysplasia, developmental bone and cartilage conditions in growing youngsters (osteochondritis dissecans and panosteitis), gastric dilatation-volvulus (bloat), autoimmune thyroiditis, and inherited eye disorders such as progressive retinal atrophy. Pre-breeding health screenings help breeders reduce hereditary risk, while careful puppy growth management and bloat precautions support lifelong health.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joint that can cause lameness and secondary osteoarthritis",
-      "Elbow dysplasia — developmental abnormalities of the elbow joint leading to forelimb lameness and joint stiffness",
-      "Gastric dilatation-volvulus (GDV / bloat) — a rapid, life-threatening emergency in deep-chested dogs where the stomach distends with gas and twists on its axis",
-      "Osteochondritis dissecans (OCD) — a developmental cartilage condition affecting large joints in rapidly growing adolescent dogs",
-      "Autoimmune thyroiditis — immune-mediated inflammation of the thyroid gland resulting in hypothyroidism, lethargy, and weight changes",
-      "Progressive retinal atrophy (PRA) and hereditary cataracts — degenerative or clouding conditions of the eye that can impair vision",
-      "Canine multifocal retinopathy (cmr2) — an inherited retinal condition causing discrete blister-like retinal elevations",
-      "Panosteitis — temporary, self-limiting inflammation of the long leg bones in growing young dogs causing intermittent lameness"
+      "Canine hip dysplasia and elbow dysplasia — developmental joint laxity or malformation that can lead to osteoarthritis.",
+      "Gastric dilatation-volvulus (GDV / bloat) — acute, life-threatening stomach distension and torsion in deep-chested dogs.",
+      "Osteochondritis dissecans (OCD) and panosteitis — developmental cartilage and long-bone conditions that can cause lameness during rapid adolescent growth.",
+      "Autoimmune thyroiditis (hypothyroidism) — immune-mediated thyroid deficiency affecting metabolism, coat quality, and energy.",
+      "Inherited ocular conditions, including progressive retinal atrophy (prcd-PRA), cataracts, and eyelid conformation defects (entropion or ectropion).",
+      "Degenerative myelopathy — a late-onset progressive spinal cord disorder for which DNA screening is available.",
     ],
 
     preventiveCare: [
-      "Acquire puppies from breeding stock with certified pre-breeding hip, elbow, eye, and thyroid evaluations.",
-      "Feed a balanced large-breed puppy food and avoid supplemental calcium or excessive calories during the rapid growth phase.",
-      "Rest the dog for at least one hour before and after meals, discourage rapid eating, and learn the emergency signs of bloat.",
-      "Maintain a lean, muscular body condition throughout life to minimize stress on large joints.",
-      "Inspect the ears and skin weekly for wax buildup, moisture, or hot spots, and dry the dense undercoat thoroughly after wetting.",
-      "Maintain regular veterinary wellness exams, dental cleanings, and up-to-date parasite prevention."
+      "Choose puppies from parents with documented hip, elbow, thyroid, and ophthalmic clearances.",
+      "Feed a controlled-energy large-breed puppy diet without added calcium supplements to support slow, even skeletal growth.",
+      "Feed two smaller meals daily, avoid exercise right before or after eating, and know the emergency signs of bloat.",
+      "Maintain a lean, athletic body weight throughout adulthood.",
+      "Part the dense double coat weekly to check the skin and dry the undercoat thoroughly after swimming or rain.",
+      "Keep routine veterinary exams, dental care, and parasite prevention current.",
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Autoimmune thyroiditis serum panel (FT4, cTSH, and TgAA)",
-      "DNA screening for known mutations where available (including prcd-PRA and cmr2)"
+      "Radiographic hip evaluation for breeding stock.",
+      "Radiographic elbow evaluation for breeding stock.",
+      "Autoimmune thyroiditis laboratory panel from an approved laboratory.",
+      "Specialist veterinary ophthalmic examination.",
+      "Optional DNA testing for progressive rod-cone degeneration (prcd-PRA) and degenerative myelopathy (DM), plus cardiac and patellar evaluations.",
     ],
 
     dentalCare:
-      "Brush teeth multiple times weekly using canine enzymatic toothpaste. The breed has powerful jaws with a complete, regular scissor bite; periodic professional veterinary cleanings preserve gum and tooth health.",
+      "Brush teeth several times a week with canine toothpaste and have the teeth and gums checked at routine veterinary visits.",
 
     earCare:
-      "Check the thick V-shaped pendant ears weekly for wax accumulation, moisture, debris, or redness. Clean gently using a veterinarian-recommended ear solution, drying the ear leather carefully.",
+      "Inspect the V-shaped pendant ears weekly for wax build-up, trapped moisture, or redness, and clean gently with a veterinarian-approved ear cleanser.",
 
     skinCare:
-      "Part the dense wavy double coat during weekly grooming to inspect the skin for hot spots, ticks, or irritation. Ensure the thick undercoat dries completely after baths or swimming to prevent moisture-trapped skin irritation."
+      "Brush and comb through the wavy double coat regularly so air reaches the darkly pigmented skin, and dry the dense undercoat completely after wet weather to prevent hot spots.",
   },
 
   suitability: {
@@ -338,94 +334,93 @@ export const kuvasz: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Experienced dog owners familiar with large livestock guardian breeds and their independent protective instincts",
-      "Rural or semi-rural properties with spacious, securely fenced yards or working pastures",
-      "Livestock owners seeking a traditional, dedicated protector for sheep, goats, or cattle",
-      "Active outdoor households that enjoy hiking and cold-weather activities",
-      "Owners who value a calm, self-thinking guardian that forms a deep bond with its household"
+      "Experienced handlers who understand independent livestock guardian behaviour",
+      "Farms, ranches, and rural properties needing a dependable flock or estate guardian",
+      "Homes with large, securely fenced yards and space to patrol",
+      "Active households that enjoy brisk daily walks and cold-weather outdoor life",
+      "Families committed to early socialisation, calm leadership, and visitor management",
     ],
 
     notIdealFor: [
-      "First-time dog owners unprepared for managing a powerful, territorial guardian breed",
-      "Apartment, condominium, or dense urban living environments without private land",
-      "Households without tall, secure perimeter fencing (at least five to six feet high)",
-      "Owners who expect an indiscriminately social dog that warmly greets all strangers",
-      "Sedentary individuals unable to provide regular outdoor exercise and mental stimulation",
-      "Homes with constant uncontrolled visitor traffic where a guardian dog cannot be safely managed"
-    ]
+      "First-time dog owners unfamiliar with large, territorial guardian breeds",
+      "Apartments, townhomes, or densely packed urban neighbourhoods",
+      "Properties without tall, secure physical fencing",
+      "Owners expecting an outgoing dog that welcomes every stranger unreservedly",
+      "Households unwilling to manage seasonal shedding of a thick white double coat",
+    ],
   },
 
   funFacts: [
-    "In fifteenth-century Hungary, King Matthias Corvinus trusted his Kuvasz dogs so completely that he kept a pack of them guarding his royal bedchamber and palace corridors, famously stating that he trusted his dogs more than his human courtiers.",
-    "The breed's white coat was deliberately selected by centuries of shepherds so they could easily distinguish their guardian dogs from dark-coated wolves attacking the flock at dusk or in bad weather.",
-    "The name 'Kuvasz' is believed to derive from an ancient Cuman or Turkish term, 'kawasz', meaning 'armed guard' or 'noble protector', or from the Sumerian 'ku-assa', meaning a dog of the horsemen.",
-    "Despite weighing up to 62 kg, the Kuvasz is surprisingly agile, capable of reaching high speeds and leaping obstacles with great feline grace when pursuing predators.",
-    "The breed faced near-extinction during World War II when invading soldiers systematically killed these fearless guard dogs to enter farms; fewer than thirty registered dogs remained in Hungary by 1945.",
-    "In Hungarian folklore, a Kuvasz puppy given as a gift was considered one of the highest tokens of royal favor and esteem.",
-    "The Kuvasz is celebrated alongside the Komondor, Puli, Pumi, and Mudi as one of Hungary's nine national dog breeds officially designated as national treasures."
+    "In fifteenth-century Hungary, King Matthias Corvinus kept Kuvasz dogs at his royal court for personal protection and big-game hunting, famously trusting them more than his courtiers.",
+    "Hungarian shepherds selectively bred the Kuvasz in white so they could distinguish their flock guardians from dark-coated wolves during night attacks.",
+    "The plural of Kuvasz in Hungarian is 'Kuvaszok'.",
+    "Its lean, wedge-shaped head and wavy, crest-forming coat clearly distinguish it from other large white flock guardians.",
+    "World War II nearly destroyed the breed in Hungary, leaving fewer than thirty registered dogs alive by 1945 before dedicated breeders rebuilt the population.",
+    "Even when caked in mud from field work, its coarse outer coat naturally sheds dried dirt once dry.",
+    "Hungary officially recognises the Kuvasz among its protected national heritage dog breeds.",
   ],
 
   faq: [
     {
       question: "What is a Kuvasz?",
       answer:
-        "The Kuvasz is an ancient, large-sized Hungarian livestock guardian dog known for its wavy white double coat, muscular build, keen intelligence, and fearless protective nature."
+        "The Kuvasz is an ancient, large-sized Hungarian livestock and estate guardian dog known for its dense wavy white double coat, dark skin pigment, athletic frame, and fearless loyalty to its household.",
     },
     {
-      question: "Where does the Kuvasz originate and what was its original purpose?",
+      question: "Where did the Kuvasz originate and what was it bred to do?",
       answer:
-        "The breed originates from the Hungarian Plains and the Carpathian Basin, where it guarded sheep and cattle against wolves, bears, and thieves, and served as royal bodyguards for Hungarian monarchs."
+        "It originated in Hungary, where its ancestors arrived with the Magyar tribes in the Carpathian Basin to guard flocks and property against predators and thieves, and later served as a royal guard and hunting dog.",
     },
     {
-      question: "How tall and heavy is a Kuvasz?",
+      question: "How tall and heavy is an adult Kuvasz?",
       answer:
-        "Adult males stand 71 to 76 cm at the withers and weigh 48 to 62 kg, while adult females stand 66 to 70 cm and weigh 37 to 50 kg, presenting an imposing, well-muscled frame."
+        "Adult males stand 71 to 76 cm at the withers and weigh 48 to 62 kg, while adult females stand 66 to 70 cm and weigh 37 to 50 kg.",
     },
     {
-      question: "How long does a Kuvasz usually live?",
+      question: "How long does a Kuvasz live?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a lifespan of 10 to 12 years."
+        "Typical life expectancy is 10 to 12 years with appropriate nutrition, weight control, and preventive veterinary care.",
     },
     {
-      question: "What is the difference between a Kuvasz and a Great Pyrenees or Komondor?",
+      question: "How can you tell a Kuvasz apart from other large white guardian breeds?",
       answer:
-        "While all three are large white livestock guardians, the Kuvasz has a wavy double coat rather than the corded coat of the Komondor or the flatter coat of the Great Pyrenees; it also has a leaner, more wedge-shaped head, darker skin pigmentation, and a slightly lighter, more agile build."
+        "The Kuvasz is distinguished by its lean, wedge-shaped head with a slight stop, its wavy double coat that forms crests and ridges (rather than cords or a flat coat), and its jet-black nose, lip, and eyelid pigment.",
     },
     {
-      question: "What is the Kuvasz coat like, and what colours are recognized?",
+      question: "What coat colours and lengths are typical of the Kuvasz?",
       answer:
-        "The coat is a dense, wavy double coat with hair 4 to 12 cm long forming a neck mane and full thigh breeches; recognized colours are solid white and ivory, accompanied by dark slate-grey or black skin pigmentation."
+        "Permitted colours are white and ivory over dark slate-grey to black skin. Hair is short (1–2 cm) on the head, ears, paws, and lower legs, and medium-length (4–12 cm) and wavy over the torso with a thick neck mane and 10–15 cm tail feathering.",
     },
     {
-      question: "Do Kuvaszok shed a lot?",
+      question: "Does the Kuvasz shed heavily?",
       answer:
-        "Yes. The breed sheds moderately year-round and experiences heavy seasonal shedding in spring and autumn when it blows its dense undercoat, requiring frequent brushing during molting periods."
+        "It sheds moderately through most of the year and blows its dense woolly undercoat heavily in spring and autumn, requiring daily brushing during seasonal coat changes.",
     },
     {
-      question: "Is a Kuvasz a good family dog?",
+      question: "Is the Kuvasz a good family companion?",
       answer:
-        "With its own family, the Kuvasz is gentle, patient, and deeply affectionate, displaying strong natural protectiveness toward household children. However, because it is an independent guardian that is reserved with strangers, it requires an experienced home, proper socialization, and supervision around visiting guests."
+        "Toward its own household it is affectionate, patient, and deeply protective, but because it is naturally reserved with strangers and territorial by instinct, it requires an experienced handler, early socialisation, and careful supervision around guests.",
     },
     {
       question: "Can a Kuvasz live in an apartment?",
       answer:
-        "No. Due to its large size, protective barking tendencies, and need for open outdoor space to patrol, the breed is poorly suited to apartment living and thrives best in a rural or suburban home with a securely fenced yard."
+        "No. Its large size, watchful barking, and need for a securely fenced outdoor territory make apartment living unsuitable.",
     },
     {
-      question: "Is a Kuvasz easy to train?",
+      question: "How should a Kuvasz be trained?",
       answer:
-        "The breed is highly intelligent and learns quickly, but it has an independent working nature and will not tolerate harsh corrections or endless mechanical drills; it responds best to calm, consistent, reward-based leadership."
+        "Use calm, fair, reward-based training and early socialisation; as a self-reliant flock guardian, it responds poorly to harsh treatment or repetitive drills.",
     },
     {
-      question: "Does a Kuvasz drool a lot?",
+      question: "Does a Kuvasz drool much?",
       answer:
-        "No. Unlike some other large guardian breeds with loose, pendulous flews, the Kuvasz has tight-fitting, dry lips that produce relatively little drool."
+        "No. Its black-edged lips fit tightly over the jaws without loose flews, resulting in much less drooling than many mastiff-type guardians.",
     },
     {
-      question: "What major health conditions affect the Kuvasz?",
+      question: "What health screenings are recommended for Kuvasz breeding dogs?",
       answer:
-        "Primary health considerations include hip dysplasia, elbow dysplasia, osteochondritis dissecans (OCD), gastric dilatation-volvulus (bloat), autoimmune thyroiditis, and progressive retinal atrophy; prospective owners should verify that breeding parents have completed certified health screenings."
-    }
+        "Recommended evaluations include hip and elbow radiographs, an autoimmune thyroiditis laboratory panel, a specialist ophthalmic exam, and optional DNA tests for progressive retinal atrophy (prcd-PRA) and degenerative myelopathy.",
+    },
   ],
 
   references: [
@@ -437,16 +432,17 @@ export const kuvasz: Breed = {
     "ofa-kuvasz-chic-requirements",
     "wikimedia-kuvasz-1-denesferi",
     "wikimedia-docfile-kuvasz-canarian",
-    "wikimedia-kuvasz-3-denesferi"
+    "wikimedia-kuvasz-3-denesferi",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Official breed standards and kennel-club profiles do not establish a separate scientific name for the breed.",
     },
 
     alternateNames: {
@@ -455,21 +451,26 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "Standard header and breed name: KUVASZ"
+          locator: "Standard header and breed name: KUVASZ",
         },
         {
           id: "fci-kuvasz-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: KUVASZ (54)"
+          locator: "Official nomenclature: KUVASZ (54)",
         },
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "Hungarian Kuvasz and historical name variants"
-        }
+          locator: "Hungarian Kuvasz and plural Kuvaszok",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Hungarian Kuvasz)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Verified across FCI Standard No. 54, FCI Nomenclature, and AKC breed documentation."
+      verifiedOn: "2026-11-17",
+      note: "Verified across FCI Standard No. 54, FCI Nomenclature, AKC breed profile, and The Dog API.",
     },
 
     group: {
@@ -478,22 +479,27 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "FCI CLASSIFICATION: Group 1 Sheepdogs and Cattledogs (except Swiss Cattledogs). Section 1 Sheepdogs. Without working trial."
+          locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattledogs), Section 1 Sheepdogs, without working trial",
         },
         {
           id: "fci-kuvasz-nomenclature",
           role: "verified",
-          locator: "Group 1, Section 1 Sheepdogs, without working trial"
+          locator: "Group 1, Section 1 Sheepdogs, without working trial",
         },
         {
           id: "akc-kuvasz-breed-profile",
-          role: "verified",
-          locator: "Working Group"
-        }
+          role: "cited",
+          locator: "Working Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group (Working)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Formulated without prohibited registry prefixes in user-facing text to comply with Rule 5."
+        "Follows the Group 1, Section 1 classification without naming registries in user-facing text; AKC and The Dog API classify the breed in the Working Group.",
     },
 
     origin: {
@@ -502,21 +508,26 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "ORIGIN: Hungary; BRIEF HISTORICAL SUMMARY"
+          locator: "Origin: Hungary; Brief historical summary (Carpathian Basin)",
         },
         {
           id: "fci-kuvasz-nomenclature",
           role: "verified",
-          locator: "Country of origin: Hungary"
+          locator: "Country of origin of the breed: Hungary",
         },
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "History: Origin in Hungary, Carpathian Basin"
-        }
+          locator: "History: Origin in Hungary and the Carpathian Basin",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (Hungary)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     overview: {
@@ -525,27 +536,32 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator: "Utilization, Brief historical summary, General appearance, Important proportions, Behaviour/temperament",
         },
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (King Matthias Corvinus, Hungarian plains), and Roles"
+          locator: "About the Breed, History (King Matthias Corvinus, World War II near-extinction), and Roles",
         },
         {
           id: "kuvasz-club-of-america-official-standard",
           role: "verified",
-          locator: "General Appearance and working guardian background"
+          locator: "General Appearance and working guardian background",
         },
         {
           id: "kuvasz-club-of-america-judges-education",
           role: "verified",
-          locator: "History, King Matthias Corvinus court history, and functional utility"
-        }
+          locator: "History, King Matthias Corvinus court history, and functional utility",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesized in original phrasing from FCI Standard No. 54, AKC, and Kuvasz Club of America documentation."
+        "All overview text is rewritten in original wording from FCI Standard No. 54, AKC, and Kuvasz Club of America materials.",
     },
 
     physical: {
@@ -554,22 +570,27 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "Important proportions, Head, Body, Tail, Limbs, Coat (1–2 cm, 4–12 cm, 5–8 cm, 10–15 cm), Colour (white, ivory permitted), Size and weight",
         },
         {
           id: "kuvasz-club-of-america-official-standard",
           role: "verified",
-          locator: "General Appearance, Size/Proportion/Substance, Head, Coat, Color"
+          locator: "General Appearance, Size/Proportion/Substance, Head, Coat, Color",
         },
         {
           id: "kuvasz-club-of-america-judges-education",
           role: "verified",
-          locator: "Proportions, Head, Eyes, Bite, Coat, Color, and Pigmentation"
-        }
+          locator: "Proportions, Head, Eyes, Bite, Coat, Color, and Pigmentation",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 17 generic species-wide colours)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Conformation, head, wavy coat, pigmentation, and distinctive features follow official standards."
+        "Conformation, wedge-shaped head, coat lengths, dark skin pigmentation, and permitted colours (white and ivory) follow FCI Standard No. 54 rather than The Dog API's generic 17-colour list.",
     },
 
     "physical.height": {
@@ -578,12 +599,22 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: HEIGHT AT WITHERS: Dogs: 71 – 76 cm. Bitches: 66 – 70 cm."
-        }
+          locator: "Size and weight: Height at withers: Dogs 71 – 76 cm; Bitches 66 – 70 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (Males 71–76 cm, Females 66–71 cm)",
+        },
+        {
+          id: "akc-kuvasz-breed-profile",
+          role: "cited",
+          locator: "Height: 28–30 inches (male), 26–28 inches (female)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Preserved in published unit of centimetres (71–76 cm for males, 66–70 cm for females) exactly as specified in the official FCI standard of the country of origin."
+        "Preserves the official FCI Standard No. 54 centimetre ranges (71–76 cm male, 66–70 cm female) without conversion; The Dog API lists 66–71 cm for females and AKC publishes 28–30 in / 26–28 in.",
     },
 
     "physical.weight": {
@@ -592,12 +623,48 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "WEIGHT: Dogs: 48 – 62 kg. Bitches: 37 – 50 kg."
-        }
+          locator: "Size and weight: Weight: Dogs 48 – 62 kg; Bitches 37 – 50 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (Males 45–52 kg, Females 32–41 kg)",
+        },
+        {
+          id: "akc-kuvasz-breed-profile",
+          role: "conflicting",
+          locator: "Weight: 100–115 pounds (male), 70–90 pounds (female)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Preserved in published unit of kilograms (48–62 kg for males, 37–50 kg for females) exactly as specified in the official FCI standard."
+        "Preserves the official FCI Standard No. 54 kilogram ranges (48–62 kg male, 37–50 kg female) without conversion; The Dog API reports 45–52 kg for males and 32–41 kg for females (corresponding to AKC's 100–115 lb and 70–90 lb).",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-kuvasz-official-standard",
+          role: "verified",
+          locator: "Weight: Dogs 48 – 62 kg",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper male weight bound of 62 kg from FCI Standard No. 54.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-kuvasz-official-standard",
+          role: "verified",
+          locator: "Weight: Bitches 37 – 50 kg",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female weight bound of 50 kg from FCI Standard No. 54.",
     },
 
     "physical.lifespanYears": {
@@ -606,11 +673,16 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 10-12 years"
-        }
+          locator: "Life Expectancy: 10–12 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (10–12 years)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Supported by kennel club and breed club life expectancy publications."
+      verifiedOn: "2026-11-17",
+      note: "Verified across both the AKC breed profile and The Dog API.",
     },
 
     "physical.sheddingLevel": {
@@ -619,16 +691,16 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (4/5), seasonal shedding of double coat"
+          locator: "Breed Traits: Shedding (Moderate / 3 out of 5), with heavy seasonal undercoat shedding",
         },
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "COAT: Coarser topcoat with finer woolly undercoat"
-        }
+          locator: "Coat: coarser topcoat over finer downy undercoat",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "physical.droolingLevel": {
@@ -637,16 +709,16 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "Lips: Black, tightly fitting; edges of lips jagged, black"
+          locator: "Lips: black, tightly fitting; edges of lips jagged",
         },
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (2/5)"
-        }
+          locator: "Breed Traits: Drooling Level (2/5)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Tight-fitting dry lips prevent excessive drooling typical of loose-flew flock guardians."
+      verifiedOn: "2026-11-17",
+      note: "Tight-fitting lips prevent heavy drooling.",
     },
 
     "temperament.traits": {
@@ -655,21 +727,26 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Brave, very protective, faithful, reliable, loves master and territory, bold and courageous"
+          locator: "Behaviour / Temperament: brave, fearless, protective of people and territory, faithful, dependable, grateful for care",
         },
         {
           id: "kuvasz-club-of-america-official-standard",
           role: "verified",
-          locator: "Temperament: Spirited, keen intelligence, courageous, primarily a one-family dog, unexcelled guard, bold and fearless"
+          locator: "Temperament: spirited, keen intelligence, courageous, primarily a one-family dog, bold and fearless guard",
         },
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "Temperament: Loyal, independent, courageous, protective"
-        }
+          locator: "Temperament: fearless, sweet, loyal, independent",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "temperament.scores": {
@@ -678,17 +755,17 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics ratings",
         },
         {
           id: "kuvasz-club-of-america-official-standard",
           role: "cited",
-          locator: "Temperament and guardian behavior"
-        }
+          locator: "Temperament and guardian behaviour",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented breed temperament traits."
+        "Editorial 1–5 scores informed by documented breed traits.",
     },
 
     care: {
@@ -697,35 +774,35 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming, Exercise, Training, and Nutrition",
         },
         {
           id: "kuvasz-club-of-america-judges-education",
           role: "cited",
-          locator: "Coat care, exercise, and socialization requirements"
-        }
+          locator: "Coat care, dirt-shedding outer coat, exercise, and socialisation",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines flock guardian management with double-coat grooming and positive training protocols."
+        "Combines livestock-guardian management with double-coat grooming and reward-based training advice.",
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-kuvasz-breed-profile",
-          role: "verified",
-          locator: "Energy Level (3/5); Exercise Needs (3/5); daily activity for health and happiness"
-        },
-        {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Herding and guard dog with tireless working ability"
-        }
+          locator: "Behaviour / Temperament: needs plenty of exercise and an occupation",
+        },
+        {
+          id: "akc-kuvasz-breed-profile",
+          role: "verified",
+          locator: "Energy Level: Regular Exercise (3/5)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
@@ -734,12 +811,12 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "cited",
-          locator: "Exercise: daily walks and secure yard roaming"
-        }
+          locator: "Exercise: daily walks and secure yard patrolling",
+        },
       ],
       verifiedOn: null,
       note:
-        "An estimated range of 45 to 60 minutes reflects the exercise needs of an athletic, working pastoral guardian."
+        "Editorial estimate of 45–60 minutes of purposeful daily activity alongside yard access.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -748,16 +825,16 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (1/5) - Not Recommended"
+          locator: "Adaptability: apartment living not recommended",
         },
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "Large flock and territory guardian requiring space to patrol"
-        }
+          locator: "Large territory and property guardian needing room to move and work",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -766,16 +843,16 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "Exercise: A fenced yard is essential for this large and agile dog"
+          locator: "Exercise: a securely fenced yard is essential for this large, agile guardian",
         },
         {
           id: "kuvasz-club-of-america-judges-education",
           role: "verified",
-          locator: "Living environment: secure fencing and outdoor space"
-        }
+          locator: "Living environment: secure fencing and outdoor space",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.climates": {
@@ -784,34 +861,29 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "COAT: Weather-resistant double coat with dense undercoat protecting against harsh winter cold"
+          locator: "Behaviour / Temperament and Coat: able to withstand very harsh weather conditions",
         },
         {
           id: "kuvasz-club-of-america-official-standard",
           role: "verified",
-          locator: "Coat: Able to withstand harsh temperatures and shed water and dirt"
-        }
+          locator: "Coat: dense double coat protecting against harsh temperatures",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "akc-kuvasz-breed-profile",
-          role: "cited",
-          locator: "Tolerates Being Alone: Moderate rating"
-        },
-        {
           id: "fci-kuvasz-official-standard",
           role: "cited",
-          locator: "Independent guardian character and loyalty to family"
-        }
+          locator: "Independent guardian character and devotion to handler and territory",
+        },
       ],
       verifiedOn: null,
-      note: null
+      note: null,
     },
 
     nutrition: {
@@ -820,16 +892,16 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "cited",
-          locator: "Nutrition: High quality food, calorie monitoring, weight management"
+          locator: "Nutrition: controlled puppy growth and bloat precautions",
         },
         {
           id: "kuvasz-club-of-america-judges-education",
           role: "cited",
-          locator: "Nutrition, steady growth, and bloat precautions"
-        }
+          locator: "Nutrition, steady growth, and bloat precautions",
+        },
       ],
       verifiedOn: null,
-      note: "Standard feeding and weight-management recommendations for large working dogs."
+      note: "General nutrition and bloat-mitigation guidance for large, deep-chested working breeds.",
     },
 
     "nutrition.feedingFrequency": {
@@ -838,11 +910,11 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding and portion control"
-        }
+          locator: "Life-stage feeding and portion control",
+        },
       ],
       verifiedOn: null,
-      note: "General large-breed feeding schedule to support digestion and mitigate bloat risks."
+      note: "General large-breed meal scheduling guidance.",
     },
 
     "health.overview": {
@@ -851,22 +923,22 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "Health: Bloat (GDV), Hip Evaluation, Elbow Evaluation, Thyroid Evaluation"
+          locator: "Health: Bloat (GDV), Hip, Elbow, Thyroid, and Eye evaluations",
         },
         {
           id: "ofa-kuvasz-chic-requirements",
           role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, Elbow Dysplasia, Autoimmune Thyroiditis, Eye Examination"
+          locator: "Required screenings: Hip Dysplasia, Elbow Dysplasia, Autoimmune Thyroiditis, Eye Examination; Optional DNA tests",
         },
         {
           id: "kuvasz-club-of-america-judges-education",
           role: "verified",
-          locator: "Health, longevity, and orthopedic screening"
-        }
+          locator: "Health, longevity, and orthopedic considerations",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesizes breed health registry screening protocols and parent-club recommendations."
+        "Distinguishes orthopaedic/developmental risks, bloat, endocrine/ocular disorders, and pre-breeding screening recommendations.",
     },
 
     "health.commonConditions": {
@@ -875,22 +947,22 @@ export const kuvasz: Breed = {
         {
           id: "ofa-kuvasz-chic-requirements",
           role: "verified",
-          locator: "Documented conditions: Hip Dysplasia, Elbow Dysplasia, Thyroiditis, Eye Disease"
+          locator: "Hip Dysplasia, Elbow Dysplasia, Autoimmune Thyroiditis, Eye Disorders, prcd-PRA, and Degenerative Myelopathy",
         },
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "Health section: Gastric dilatation-volvulus (bloat) and orthopedic concerns"
+          locator: "Health section: Gastric dilatation-volvulus (bloat), osteochondritis dissecans (OCD), and orthopaedic concerns",
         },
         {
           id: "kuvasz-club-of-america-judges-education",
           role: "verified",
-          locator: "Health concerns: OCD, bloat, panosteitis, and joint health"
-        }
+          locator: "Health considerations: OCD, panosteitis, bloat, and joint soundness",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Identifies documented orthopedic, gastrointestinal, and ocular conditions without using prohibited registry labels in prose."
+        "Summarises documented breed health risks and screening targets without using prohibited registry acronyms in user-facing text.",
     },
 
     "health.preventiveCare": {
@@ -899,16 +971,16 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "cited",
-          locator: "Health and bloat prevention guidelines"
+          locator: "Controlled large-breed puppy growth and bloat prevention",
         },
         {
           id: "kuvasz-club-of-america-judges-education",
           role: "cited",
-          locator: "Puppy growth management and health precautions"
-        }
+          locator: "Puppy growth management and health precautions",
+        },
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to large deep-chested guardian breeds."
+      note: "Preventive care guidance for a large, deep-chested double-coated working dog.",
     },
 
     "health.recommendedScreenings": {
@@ -917,17 +989,17 @@ export const kuvasz: Breed = {
         {
           id: "ofa-kuvasz-chic-requirements",
           role: "verified",
-          locator: "CHIC required screenings: Hip Dysplasia, Elbow Dysplasia, Autoimmune Thyroiditis, Eye Examination"
+          locator: "Required screenings: Hip Dysplasia, Elbow Dysplasia, Autoimmune Thyroiditis, Eye Examination; Optional: prcd-PRA DNA, DM DNA, Cardiac, Patella",
         },
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "Recommended Health Tests: Hip, Elbow, and Thyroid Evaluations"
-        }
+          locator: "Recommended Health Tests",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Screenings summarize published parent club and health registry protocols."
+        "Reflects required and optional pre-breeding health tests without naming registries in user-facing text.",
     },
 
     "health.dentalCare": {
@@ -936,16 +1008,11 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: complete, regular scissor bite"
+          locator: "Jaws/Teeth: complete, regular scissor bite",
         },
-        {
-          id: "akc-kuvasz-breed-profile",
-          role: "cited",
-          locator: "General routine grooming and dental maintenance"
-        }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "General canine dental care guidance.",
     },
 
     "health.earCare": {
@@ -954,16 +1021,11 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "cited",
-          locator: "Ears: V-shaped, rounded tips, hanging close to the head"
+          locator: "Ears: V-shaped with rounded tip, hanging close to the head",
         },
-        {
-          id: "akc-kuvasz-breed-profile",
-          role: "cited",
-          locator: "Ear checks and routine hygiene"
-        }
       ],
       verifiedOn: null,
-      note: "Ear maintenance protocol for medium-set pendant ears."
+      note: "Routine ear care guidance for pendant ears.",
     },
 
     "health.skinCare": {
@@ -972,16 +1034,16 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "cited",
-          locator: "Skin contains much pigment; slate-grey or black pigmentation"
+          locator: "Skin: rich slate-grey or black pigment under dense double coat",
         },
         {
           id: "kuvasz-club-of-america-official-standard",
           role: "cited",
-          locator: "Skin and coat texture care"
-        }
+          locator: "Skin and double-coat maintenance",
+        },
       ],
       verifiedOn: null,
-      note: "Skin and coat maintenance guidelines for a dense, water-repellent double coat."
+      note: "General skin and double-coat care guidance.",
     },
 
     suitability: {
@@ -990,17 +1052,17 @@ export const kuvasz: Breed = {
         {
           id: "akc-kuvasz-breed-profile",
           role: "cited",
-          locator: "About the Breed, Temperament, and Family Life ratings"
+          locator: "About the Breed, Temperament, and Adaptability ratings",
         },
         {
           id: "kuvasz-club-of-america-official-standard",
           role: "cited",
-          locator: "Temperament and working utility"
-        }
+          locator: "Temperament and guardian instincts",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, guardian drive, and living space needs."
+        "Editorial suitability evaluations based on guardian drive, size, and fencing requirements.",
     },
 
     funFacts: {
@@ -1009,21 +1071,21 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "Brief historical summary: King Matthias Corvinus history and white coat selection"
+          locator: "Brief historical summary (Magyar arrival, King Matthias Corvinus) and Head (wedge shape distinguishing the breed)",
         },
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "History: King Matthias Corvinus court history, World War II near-extinction, and Cuman 'kawasz' etymology"
+          locator: "History: King Matthias Corvinus, white coat visibility at night, World War II near-extinction, plural Kuvaszok",
         },
         {
           id: "kuvasz-club-of-america-judges-education",
           role: "verified",
-          locator: "Hungarian heritage, national treasure designation, and agility facts"
-        }
+          locator: "Hungarian national heritage designation and dirt-shedding coat",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Verified historical folklore and cultural heritage facts."
+      verifiedOn: "2026-11-17",
+      note: "Historical and breed facts rewritten in original wording.",
     },
 
     faq: {
@@ -1032,24 +1094,24 @@ export const kuvasz: Breed = {
         {
           id: "fci-kuvasz-official-standard",
           role: "verified",
-          locator: "Origin, purpose, size (71-76 cm / 66-70 cm), weight (48-62 kg / 37-50 kg), and coat"
+          locator: "Origin, purpose, height (71–76 cm male, 66–70 cm female), weight (48–62 kg male, 37–50 kg female), wedge-shaped head, and coat lengths (1–2 cm, 4–12 cm, 10–15 cm)",
         },
         {
           id: "akc-kuvasz-breed-profile",
           role: "verified",
-          locator: "Lifespan (10-12 years), temperament, grooming, and health screenings"
+          locator: "Lifespan (10–12 years), shedding, temperament, and grooming",
         },
         {
           id: "ofa-kuvasz-chic-requirements",
           role: "verified",
-          locator: "Health screening protocols"
-        }
+          locator: "Pre-breeding health screening protocols",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and health testing requirements without citing prohibited registry names."
-    }
+        "FAQ answers synthesise verified standards, kennel-club profiles, and health testing protocols without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-10-24"
+  updatedOn: "2026-11-17",
 };
