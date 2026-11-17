@@ -3,229 +3,222 @@ import type { Breed } from "../schema/breed.types";
 export const hamiltonstovare: Breed = {
   slug: "hamiltonstovare",
   name: "Hamiltonstövare",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Hamilton Hound",
     "Swedish Foxhound",
     "Chien Courant Hamilton",
+    "Chien courant de Hamilton",
     "Hamilton-Bracke",
     "Sabueso de Hamilton",
-    "Hamiltonska Stövaren"
+    "Sabueso Hamilton",
+    "Hamiltonstøver",
+    "Hamiltoninajokoira",
   ],
 
   group:
-    "Scenthounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial; also classified in the Scenthound and Hound groups)",
+    "Scent Hounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial)",
 
   origin: {
     country: "Sweden",
-    region: "Central and Southern Sweden"
+    region: null,
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Hamiltonst%C3%B6vare.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Hamiltonst%C3%B6vare.jpg",
-      title: "Hamiltonstövare.jpg",
-      description: "An adult Hamiltonstövare standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2604,
-      height: 1952,
-      licenseId: "cc-by-sa-3.0",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Hamilton_Hound.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Hamilton_Hound.jpg",
+      title: "Hamilton Hound.jpg",
+      description:
+        "An adult tricolour Hamiltonstövare (Hamilton Hound) standing in profile.",
+      creator: "Canarian",
+      uploader: "Canarian",
+      capturedOn: "2016-12-03",
+      uploadedOn: null,
+      width: 600,
+      height: 458,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Hamiltonst%C3%B6vare.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Hamilton_Hound.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
+      metadataCheckedOn: "2026-11-17",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Hamiltonstovare_600.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Hamiltonstovare_600.jpg",
       title: "Hamiltonstovare 600.jpg",
-      description: "A Hamiltonstövare standing outdoors.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
+      description: "A tricolour Hamiltonstövare standing outdoors.",
+      creator: "sannse",
+      uploader: "sannse",
+      capturedOn: null,
+      uploadedOn: "2005-08-24",
       width: 600,
-      height: 489,
+      height: 491,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Hamiltonstovare_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by sannse, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Hamiltonstovare_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
-    }
+      metadataCheckedOn: "2026-11-17",
+    },
   ],
 
   overview: {
     summary:
-      "A handsome, aristocratic medium-sized Swedish scenthound renowned for its rectangular athletic build, striking tricolour coat with a solid black mantle, untiring stamina, and ringing melodious tracking voice on mountain hare and red fox.",
+      "The Hamiltonstövare is a well-proportioned, rectangular, medium-sized Swedish scent hound bred to trail hare and red fox solo across Nordic forests, distinguished by its crisp black-tan-and-white tricolour coat, calm household demeanour, and clear, far-carrying hunting voice.",
 
     description:
-      "The Hamiltonstövare is a well-proportioned, noble, and athletic scenthound created in Sweden to hunt quarry alone across demanding boreal terrain. Carrying an impression of great stamina and strength without being heavy, the dog possesses a clean, rectangular silhouette with dry, strong bone structure and fluid movement. Its dense double coat lies flat against the body, showcasing a well-defined black mantle over a rich golden-tan ground accented by crisp white markings on the muzzle, neck, chest, feet, and tail tip. The head is elongated and cleanly chiseled with a moderate stop, dark expressive eyes displaying a calm and friendly gaze, and high-set pendant ears that hang flat. Gentle, patient, and quiet in the home, the hound transforms in the field into an impassioned, tireless tracker endowed with a sharp nose and a ringing bay that echoes across snow-covered woodlands.",
+      "Built for strength and multi-day stamina without a trace of heaviness, the Hamiltonstövare presents a balanced, rectangular outline with well-developed muscle, clean bone, and parallel limb action. Its harsh, weather-resistant double coat lies close to the body and thickens in winter, patterned in a striking tricolour of a black mantle over the neck, back, and flanks, warm golden-to-reddish tan on the head and limbs, and symmetrical white markings on the muzzle, neck, chest, feet, and tail tip. The long, rectangular head carries dark brown eyes with a calm, friendly expression and soft, high-set hanging ears whose front edge turns slightly outward. In the forest, it works alone at a steady, accurate pace with a resonant voice that can be heard for miles; at home, it is remarkably even-tempered, gentle, and sociable.",
 
     history:
-      "The breed was created in the late nineteenth century by Count Adolf Patrik Hamilton, an accomplished Swedish nobleman, equestrian, and passionate hunter who also founded Sweden's national kennel club in 1889. At Sweden's very first dog show in Stockholm in 1886, Count Hamilton exhibited two foundation hounds, Pang and Stella. These dogs descended from English foxhounds and harriers crossed with southern German and Swiss hounds that had been brought to Sweden during earlier centuries, as well as native Swedish scenthounds. Known initially as the Swedish Hound, the breed was renamed Hamiltonstövare in 1921 to honor its creator. Selective breeding established a hound that operates strictly as a solitary hunter rather than in packs, specializing on mountain hare and red fox while ignoring ungulates like deer. The breed achieved formal international recognition in 1954 and remains one of Sweden's most popular and iconic native hunting dogs.",
+      "Scent hounds of continental type have been used in Sweden since the sixteenth century, brought home by soldiers returning from European wars. During the nineteenth century, Swedish breeders crossed these dogs with southern German (including Holsteiner) and Swiss hounds as well as English Foxhounds and Harriers. Foremost among these pioneers was Count Adolf Patrik Hamilton, who founded Sweden's national kennel club in 1889. At the country's first dog show in Stockholm in 1886, where 189 scent hounds were exhibited, Count Hamilton showed two influential tricolour hounds named Pang and Stella that became pillars of the breed. Originally called the Swedish Hound (Svensk stövare), the breed was renamed Hamiltonstövare in 1921 in Hamilton's honour and received definitive international recognition on 25 November 1954.",
 
     originalPurpose:
-      "Solitary scent trailing and driving of mountain hare (Lepus timidus) and red fox across snowy forests, moorlands, and rugged Scandinavian landscapes.",
+      "Solitary vocal scent-trailing and driving of hare and red fox (never deer or elk) across Scandinavian woodland and snow.",
 
     currentRoles: [
-      "Traditional solitary hunting hound for hare and fox",
-      "Field trial and competitive scent tracking dog",
-      "Active outdoor companion for rural sporting households",
-      "Search, rescue, and tracking detection dog"
-    ]
+      "Solitary hunting scent hound for hare and red fox",
+      "Nordic scent-hound field trial competitor",
+      "Mantrailing, blood-tracking, and nosework dog",
+      "Active family companion in hunting and outdoor households",
+    ],
   },
 
   physical: {
-    sizeCategory: "Medium",
+    sizeCategory: "Medium-sized, rectangular, athletic scent hound",
 
     height: {
       unit: "cm",
       male: {
         min: 53,
-        max: 61
+        max: 61,
       },
       female: {
         min: 49,
-        max: 57
-      }
+        max: 57,
+      },
     },
 
     weight: {
       unit: "kg",
       male: {
         min: 25,
-        max: 27
+        max: 27,
       },
       female: {
         min: 23,
-        max: 25
-      }
+        max: 25,
+      },
     },
 
     lifespanYears: {
       min: 12,
-      max: 14
+      max: 14,
     },
 
     coatType:
-      "Harsh, not too short, very close-lying double coat with a short, dense, and soft undercoat that becomes especially thick in winter; hair is short and smooth on the head and front of limbs, slightly longer on the underside of the tail and back of thighs without forming a fringe or flag.",
+      "Harsh, close-lying double coat that is not too short, paired with a short, dense, soft undercoat that becomes particularly thick in winter; hair is short and smooth on the head, ears, and front of the legs, and slightly longer under the tail and on the back of the thighs without forming a fringe.",
 
-    coatLength: "Short",
+    coatLength:
+      "Short and smooth on the head, ears, and forelegs; medium-short and close-lying on the body.",
 
     coatColors: [
-      "Tricolour (solid black mantle over back, sides of torso, and top of neck; rich golden-tan on head, ears, legs, chest, and tail base; clean white blaze on muzzle, white neck patch or collar, white chest star, white feet, and white tail tip)"
+      "Tricolour: black mantle on the upper neck, back, sides of the trunk, and upper tail; rich tan (golden to deep reddish-brown) on the head, ears, sides of the neck, chest, limbs, and underside of the tail; white blaze on the upper muzzle, white on the underside of the neck and chest, and white on the feet, lower legs, and tail tip",
     ],
 
-    sheddingLevel:
-      "Low to moderate year-round shedding, increasing during seasonal undercoat changes in spring and autumn",
+    sheddingLevel: null,
 
-    droolingLevel:
-      "Low; the lips are lean, dry, and tight-fitting with dark pigmentation",
+    droolingLevel: null,
 
     distinctiveFeatures: [
-      "Rectangular body outline, slightly longer than tall, combining strength with athletic agility",
-      "Height at the withers of 53 to 61 cm for males and 49 to 57 cm for females, with ideal heights of 57 cm and 53 cm respectively",
-      "Weight of 25 to 27 kg for males and 23 to 25 kg for females in working condition",
-      "Striking tricolour coat with a jet-black mantle, rich golden-tan markings, and crisp white blaze, collar, feet, and tail tip",
-      "Elongated, dry, wedge-shaped head with parallel cranial-facial planes and a moderate stop",
-      "Dark brown eyes with tight-fitting lids and a calm, attentive, and intelligent expression",
-      "High-set pendant ears hanging flat along the cheeks with softly rounded tips, reaching halfway along the muzzle",
-      "Tight, dry, non-pendulous lips with dark margins",
-      "Strong jaws with a complete, regular 42-tooth scissor bite",
-      "Long, muscular neck rising cleanly without loose throatiness or dewlap",
-      "Deep, oval chest reaching to the elbows with well-sprung ribs and a moderately tucked-up belly",
-      "High-set tail carried straight or in a gentle sabre curve, tapering to a distinct white tip reaching the hock",
-      "Dry, sinewy limbs with tight, oval, cat-like feet and hard, dark pads"
-    ]
+      "Rectangular body outline built for five-hour hunting days and consecutive days in the field",
+      "Withers height of 53 to 61 cm (ideal 57 cm) in males and 49 to 57 cm (ideal 53 cm) in females, with working weight around 25 to 27 kg in males and 23 to 25 kg in females",
+      "Distinct tricolour coat with a black mantle, golden-to-reddish tan shading, and white markings on the muzzle, chest, feet, and tail tip",
+      "Long, rectangular, slightly arched skull with a well-defined stop and a long, nearly rectangular muzzle with a straight parallel nasal bridge",
+      "Dry, tight-fitting upper lips with clean corners and a strong, complete scissor bite",
+      "Dark brown eyes with a calm, frank, and friendly expression",
+      "Soft, high-set pendant ears hanging flat with the front edge slightly raised, reaching less than halfway along the muzzle when drawn forward",
+      "Long, powerful neck merging smoothly into muscular, well-laid-back shoulders with no loose skin",
+      "Deep chest reaching the elbows with well-sprung ribs and a long, muscular loin",
+      "Tail set in line with the back, wide at the root and tapering to the hock, carried straight or in a slight sabre curve",
+      "Oval, compact feet with tightly knit, well-arched toes",
+    ],
   },
 
   temperament: {
     traits: [
-      "Calm, friendly, and quiet in the household",
-      "Passionate, spirited, and determined when pursuing quarry in the field",
-      "Alert, observant, and watchful of surroundings",
-      "Deeply loyal and affectionate with familiar family members",
-      "Sociable, polite, and non-aggressive with other dogs",
-      "Courteous and composed with unfamiliar people without timidity",
-      "Gentle and patient with children",
-      "Independent and resolute problem-solver on scent trails",
-      "High stamina and relentless hunting desire",
-      "High prey drive toward wild hare, rabbits, and foxes",
-      "Musical, resonant, and ringing tracking voice that carries over woodland distances"
+      "Friendly, calm, and even-tempered in daily home life",
+      "Steady, accurate, and tireless when trailing hare or fox",
+      "Built to hunt solo rather than in a pack",
+      "Clear, sharp, far-carrying voice that guides the hunter over long distances",
+      "Sociable and amiable toward people and other dogs",
+      "Easygoing and adaptable indoors once its exercise needs are met",
+      "Strong, single-minded hunting drive on small-game scent",
     ],
 
     scores: {
       affection: 4,
       withChildren: 4,
       withDogs: 4,
-      withStrangers: 3,
+      withStrangers: 4,
       protectiveness: 2,
       independence: 4,
-      trainability: 3,
-      barking: 3,
-      energy: 4
-    }
+      trainability: 4,
+      barking: 4,
+      energy: 4,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "High; bred as a tireless endurance hunting dog requiring vigorous daily physical exercise and olfactory stimulation",
+        "High. Bred to work for five or more hours a day across consecutive hunting days, the Hamiltonstövare requires generous daily exercise and regular nosework.",
 
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 90,
       },
 
       activities: [
-        "Long daily hikes or brisk walks across rural and wooded trails",
-        "Structured scent tracking and blood tracking games",
-        "Supervised free running in a large, securely fenced field or acreage",
-        "Field trials and simulated drag-scent training",
-        "Canicross, trail running, or jogging alongside a bicycle once skeletally mature",
-        "Nosework and interactive food puzzle enrichment"
-      ]
+        "Long daily woodland walks or hill hikes on a secure lead or long line",
+        "Scent-tracking trails, blood-tracking, and nosework games",
+        "Free running inside a large, securely fenced paddock or garden",
+        "Solitary hare and fox hunting or Nordic field trials in season",
+        "Canicross, biking, or cross-country skiing with a fully mature adult",
+      ],
     },
 
     grooming: {
       level: "Low",
 
       brushing:
-        "Brush once or twice weekly with a rubber hound glove or firm bristle brush to remove loose hair, distribute skin oils, and maintain coat gloss; increase to twice weekly during seasonal spring shedding.",
+        "Brush once a week with a rubber curry mitt or bristle brush to remove dead hair and dirt, increasing frequency during spring and autumn undercoat shedding.",
 
       bathing:
-        "Bathe only when heavily soiled or after muddy tracking excursions, using a mild canine shampoo to preserve the coat's natural weather-repellent oils.",
+        "Bathe only when soiled after fieldwork using a mild dog shampoo so the harsh coat retains its natural weather resistance.",
 
       notes: [
-        "Inspect the pendant ears weekly for moisture, wax accumulation, or debris, especially after field hunts.",
-        "Check paw pads and toes for thorns, ice accumulation, or small cuts after running on rocky or frozen ground.",
-        "Wipe down the short coat with a damp towel after outdoor runs to remove trail dust and loose vegetation.",
-        "Trim nails every two to three weeks to prevent splayed toes and maintain foot structure.",
-        "Brush teeth multiple times weekly using dog-specific enzymatic toothpaste.",
-        "Check skin and coat thoroughly for ticks and external parasites during active outdoor seasons."
-      ]
+        "Check the hanging ears weekly—and after damp forest outings—for moisture, wax, or debris.",
+        "Inspect paw pads, nails, and legs after work on rough ground or crusted snow.",
+        "Trim nails every two to four weeks if they do not wear down naturally.",
+        "Brush teeth several times a week with canine toothpaste.",
+        "Check the coat and skin for ticks after woodland walks during warmer months.",
+      ],
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent, gentle, and cooperative, but guided by an intense scenting drive that can override handler focus in open wilderness",
+        "Moderate. Friendly, even-tempered, and willing to cooperate, yet possessing a deep-seated trailing instinct that demands early recall conditioning and secure lead management around wildlife.",
 
       tips: [
-        "Employ positive reinforcement, praise, and high-value food rewards.",
-        "Establish reliable recall from early puppyhood using a long training line in secure outdoor areas.",
-        "Keep sessions varied, short, and engaging to prevent boredom from mechanical repetition.",
-        "Always walk on a leash or inside securely fenced grounds, as an appealing hare or fox scent will trigger pursuit.",
-        "Channel natural hunting desire into structured scentwork, tracking, or search tasks.",
-        "Avoid harsh verbal reprimands or coercive corrections, which cause this sensitive hound to lose trust and withdraw."
+        "Use calm, reward-based training with food treats and scent games.",
+        "Practise long-line recall from puppyhood, and keep the dog on lead in unfenced areas outside legal hunting seasons.",
+        "In Nordic hunting training, reinforce strict steadiness to deer and elk so the dog focuses solely on hare and fox.",
+        "Provide regular tracking or search games to keep its working mind satisfied during the off-season.",
       ],
 
       socialization:
-        "Introduce the puppy in a positive, structured manner to a wide range of people, vaccinated dogs, household noises, vehicles, and varied outdoor environments. Early social exposure develops a confident, stable companion that remains composed in family settings while retaining keen hunting instincts."
+        "Expose puppies early and positively to varied people, dogs, household environments, and outdoor surfaces to nurture the breed's naturally friendly, steady temperament.",
     },
 
     livingEnvironment: {
@@ -233,79 +226,75 @@ export const hamiltonstovare: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cold and snowy Nordic climates, where the dense double coat provides excellent insulation",
+        "Cold and snowy Nordic climates, where the harsh outer coat and dense winter undercoat offer strong protection",
         "Temperate climates",
-        "Warm climates, provided there is ample shade, indoor cooling, fresh water, and exercise is restricted to early morning or late evening hours"
+        "Warm weather when shade, fresh water, and cool morning or evening exercise hours are provided",
       ],
 
       aloneTimeTolerance:
-        "Moderate when thoroughly exercised beforehand, though prolonged isolation without mental enrichment can lead to frustration, vocal howling, or digging."
-    }
+        "Moderate when well exercised and gradually accustomed to quiet rest indoors, though extended isolation without activity can lead to restlessness or vocalising.",
+    },
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized, active sporting or working hounds, adjusted for seasonal field exertion.",
+      "Complete, balanced diet formulated for medium-sized, high-stamina working hounds, scaled to seasonal hunting workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured meals daily until six months of age, transitioning to two meals daily thereafter.",
+        "Feed three to four measured meals daily until six months of age, then transition to two daily meals.",
       adult:
-        "Two measured meals daily to support steady metabolism and minimize digestive discomfort.",
+        "Feed two measured meals daily, allowing rest before and after strenuous exercise.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint mobility, and lean muscle retention."
+        "Feed two portion-controlled meals daily tailored to age, mobility, and reduced workload.",
     },
 
     guidelines:
-      "Measure food rations carefully with a digital kitchen scale or standard measuring cup, adjusting caloric intake to match seasonal hunting demands. Divide the daily allowance into two meals, refrain from vigorous running for at least one hour before and after eating, and provide cool, fresh drinking water at all times.",
+      "Measure daily rations to keep the hound in lean, muscular working trim. Increase calorie and fat intake during long autumn and winter hunting days and reduce portions during quieter summer months, keeping fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition where ribs are easily felt without excess fat padding.",
-      "Increase caloric and protein density during autumn and winter hunting or tracking trials.",
-      "Count training treats toward the daily caloric allowance to avoid creeping weight gain during off-season months.",
-      "Rest the dog before and after meals to promote healthy digestion.",
-      "Provide clean drinking water, especially during long tracking excursions in warm weather.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Maintain a lean, athletic condition to protect joints over multi-hour hunting days.",
+      "Scale energy intake upward during active hunting or trial periods.",
+      "Allow rest before and after vigorous running around mealtimes.",
+      "Count training treats within the daily calorie budget.",
+      "Provide fresh water before and after long trailing sessions.",
     ],
 
     note:
-      "Caloric needs fluctuate substantially between sedentary summer months and active autumn hunting seasons. Work with a veterinarian to establish tailored daily feeding portions."
+      "General canine nutrition guidance; individual portions depend on age, food calorie density, and seasonal workload.",
   },
 
   health: {
     overview:
-      "The Hamiltonstövare is an exceptionally hardy, robust hunting breed with a typical lifespan of 12 to 14 years. Bred primarily by dedicated huntsmen for functional performance, endurance, and soundness in the challenging Swedish wilderness, it has largely escaped the extreme conformational exaggerations and hereditary genetic defects seen in many popular companion breeds. Health considerations focus primarily on active sporting injuries, drop-ear management, and routine orthopedic screening, including hip dysplasia and otitis externa.",
+      "The Hamiltonstövare is widely regarded as a healthy, long-lived working breed with a typical life expectancy of 12 to 14 years and decreasing inbreeding levels thanks to structured outcrossing guidelines. National breeding strategies require pre-breeding hip radiographs even though clinical hip symptoms are uncommon in the breed, and only low-frequency occurrences of epilepsy, allergic skin itching, tumours, cryptorchidism, and isolated cases of patent ductus arteriosus (PDA) are noted.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the hip joints, monitored through pre-breeding radiographic screening programs",
-      "Otitis externa — bacterial or yeast infections in the ear canal encouraged by folded, pendant ear flaps that reduce air circulation",
-      "Field injuries — minor lacerations, pad abrasions, torn nails, or muscle sprains sustained while tracking game through dense brush or across rocky ground",
-      "Canine vector-borne infections — tick-borne diseases (such as Lyme disease and Anaplasma) encountered in wooded hunting habitats"
+      "Hip dysplasia (HD) — radiographic hip status must be recorded prior to breeding (with grades D and E excluded from breeding), though clinical hip lameness is rarely seen in the breed",
+      "Isolated hereditary or constitutional conditions — low-frequency cases of idiopathic epilepsy, allergic skin pruritus (itching), tumours, cryptorchidism, and occasional congenital patent ductus arteriosus (PDA) are monitored in national breed health strategies",
+      "Otitis externa — ear-canal irritation or infection associated with hanging ears after wet or brushy fieldwork",
+      "Field injuries — pad abrasions, small cuts, or snow and ice wear sustained during multi-hour forest hunts",
     ],
 
     preventiveCare: [
-      "Verify that breeding parents have official radiographic hip evaluation clearances.",
-      "Inspect and dry the pendant ears weekly, particularly after wet forest runs or swims.",
-      "Maintain strict tick, flea, and internal parasite prevention throughout active tracking seasons.",
-      "Check paw pads, toes, and skin after hunting trips for thorns, cuts, burrs, or embedded debris.",
-      "Maintain a lean, athletic body condition to avoid premature joint wear.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine dental care."
+      "Verify that breeding parents have recorded radiographic hip evaluations (grades A, B, or C, with C paired only to A or B) and low inbreeding coefficients.",
+      "Inspect and dry the hanging ears weekly and after wet woodland outings.",
+      "Check paw pads, nails, eyes, and skin after every hunting day or forest run.",
+      "Maintain routine tick, flea, and internal parasite prevention during active outdoor seasons.",
+      "Keep the hound in lean working condition and schedule annual veterinary check-ups, cardiac auscultation for puppies, and vaccinations.",
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia screening prior to breeding",
-      "Routine clinical veterinary ophthalmic examination",
-      "Annual veterinary blood screening for tick-borne diseases in endemic hunting territories"
+      "Radiographic hip evaluation (HD screening required for breeding stock)",
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine toothpaste and check the scissor bite and gums at routine veterinary visits.",
 
     earCare:
-      "Inspect the high-set pendant ears weekly for wax buildup, moisture, or foul odor. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly without inserting swabs deep into the canal.",
+      "Inspect the soft, hanging ears weekly for moisture, wax, or debris, and clean gently with a veterinarian-approved ear cleanser when needed.",
 
     skinCare:
-      "Part the harsh coat weekly to inspect the skin for external parasites, scratches, or hot spots. The close-lying coat naturally sheds dirt and requires minimal skin intervention beyond regular brushing."
+      "Brush through the harsh double coat after forest outings to remove burrs, ticks, and snowballs, and monitor the skin for any signs of seasonal itching.",
   },
 
   suitability: {
@@ -316,93 +305,64 @@ export const hamiltonstovare: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active hunters, field trial competitors, and tracking enthusiasts seeking a dedicated solitary scent hound",
-      "Experienced dog owners familiar with managing strong hound drive, vocal baying, and outdoor independence",
-      "Rural or semi-rural households with large, securely fenced outdoor space",
-      "Outdoor lovers who engage in regular long-distance hiking, trail running, or woodland exploration",
-      "Families that appreciate a calm, gentle, and quiet indoor companion paired with high outdoor energy"
+      "Hare and fox hunters and Nordic field-trial enthusiasts",
+      "Active families and outdoorspeople who enjoy long daily forest walks, running, or mantrailing",
+      "Rural or suburban homes with a securely fenced garden",
+      "Handlers who appreciate a calm, friendly indoor dog with high outdoor stamina",
     ],
 
     notIdealFor: [
-      "Apartment dwellers or dense urban households with shared walls and limited outdoor open space",
-      "Sedentary individuals looking for a low-exercise lap pet",
-      "Households with loose small pets such as rabbits, ferrets, or rodents vulnerable to high prey drive",
-      "Owners who require instant off-leash obedience in unfenced, wildlife-rich areas",
-      "First-time owners unprepared for independent scent-tracking instincts"
-    ]
+      "Apartment dwellers or dense urban settings with limited outdoor space",
+      "Sedentary households wanting a low-exercise companion",
+      "Homes with unfenced yards or free-roaming small pets such as rabbits",
+      "Owners expecting effortless off-lead recall around hare or fox scent",
+    ],
   },
 
   funFacts: [
-    "The breed was developed by Count Adolf Patrik Hamilton, founder and first president of the Swedish Kennel Club in 1889, who presented foundation hounds Pang and Stella at Sweden's very first dog show in Stockholm in 1886.",
-    "Unlike many European scenthounds that hunt in large packs, the Hamiltonstövare was bred specifically to hunt solitary, tracking hare and fox alone through the forest while communicating with the hunter through its musical voice.",
-    "Swedish folklore associates the breed with the famous story of Tomte Tummetott, a house elf who travels the countryside with his faithful watchdog Karo, traditionally depicted as a Hamiltonstövare.",
-    "In Swedish hunting trials, the hound is trained strictly on small game; hounds that pursue roe deer or elk are penalized, ensuring the breed retains its historic focus on hares and foxes.",
-    "Originally called the Swedish Hound (Svensk stövare), the breed was officially renamed Hamiltonstövare in 1921 to honor Count Hamilton's contributions to Swedish cynology.",
-    "The clean tricolour pattern—black mantle, rich golden-tan head and limbs, and white blaze and socks—gives the hound an exceptionally regal appearance often compared to a streamlined English Foxhound.",
-    "It is the most popular and celebrated of the native Swedish hounds, holding a revered place in Scandinavian sporting culture alongside the Schillerstövare and Smålandsstövare."
+    "Named in 1921 after Count Adolf Patrik Hamilton (1852–1910), who founded Sweden's national kennel club in 1889 and exhibited the foundational pair Pang and Stella among 189 scent hounds at the 1886 Stockholm dog show.",
+    "Before receiving the Hamiltonstövare name in 1921, the breed was simply called the Svensk stövare ('Swedish Hound').",
+    "Unlike British and French foxhounds that work in large packs, the Hamiltonstövare is bred to work strictly alone, trailing quarry at a calm, accurate pace without rushing the game.",
+    "A fit Hamiltonstövare is expected to work for at least five hours a day across two consecutive hunting days while keeping its clear, sharp voice audible from miles away.",
+    "Bicolour coats (yellow-and-white, black-and-white, or black-and-tan without white) and blue eyes are disqualifying faults because the crisp black-tan-and-white tricolour pattern is a hallmark of the breed.",
   ],
 
   faq: [
     {
       question: "What is a Hamiltonstövare?",
       answer:
-        "The Hamiltonstövare is a medium-sized Swedish scenthound characterized by an athletic rectangular build, striking tricolour coat with a solid black mantle, and a ringing tracking voice, bred for solitary hunting of hare and fox."
+        "The Hamiltonstövare is Sweden's classic tricolour scent hound, developed in the late nineteenth century by Count Adolf Patrik Hamilton to trail hare and red fox solo across Nordic forests.",
     },
     {
-      question: "Where does the Hamiltonstövare originate?",
+      question: "How tall and heavy is an adult Hamiltonstövare?",
       answer:
-        "The breed originates from Sweden, where it was developed in the late nineteenth century by Count Adolf Patrik Hamilton from English Foxhounds, Harriers, German and Swiss hounds, and native Swedish hounds."
+        "Adult males stand 53 to 61 cm at the withers (ideal 57 cm) and typically weigh 25 to 27 kg, while females stand 49 to 57 cm (ideal 53 cm) and weigh 23 to 25 kg.",
     },
     {
-      question: "How tall and heavy is a Hamiltonstövare?",
+      question: "How long does a Hamiltonstövare live?",
       answer:
-        "Adult males stand 53 to 61 cm (ideal 57 cm) at the withers and weigh 25 to 27 kg, while females stand 49 to 57 cm (ideal 53 cm) and weigh 23 to 25 kg, presenting an agile, athletic outline."
+        "It is a hardy, long-lived breed with a typical life expectancy of 12 to 14 years.",
     },
     {
-      question: "How long does a Hamiltonstövare usually live?",
+      question: "What coat colour is permitted in the Hamiltonstövare?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
+        "Only tricolour is permitted: a black mantle over the upper neck, back, trunk sides, and top of the tail; rich golden-to-reddish tan on the head, ears, chest, and legs; and white markings on the muzzle, throat/chest, lower legs and feet, and the tip of the tail.",
     },
     {
-      question: "What does the Hamiltonstövare's coat look like?",
+      question: "Does the Hamiltonstövare hunt in packs?",
       answer:
-        "The coat is harsh, dense, and close-lying with a soft winter undercoat, displaying a tricolour pattern with a jet-black mantle on the back and neck, rich golden-tan head and legs, and distinct white markings on the muzzle, chest, feet, and tail tip."
+        "No. Like other Swedish stövare breeds, it is bred to hunt solo, trailing hare or fox on its own and using its clear, ringing voice to guide the hunter.",
     },
     {
-      question: "Can a Hamiltonstövare live in an apartment?",
+      question: "Is the Hamiltonstövare a good family dog?",
       answer:
-        "No. Due to its high exercise requirements, working endurance, and instinct to track scents, the breed is not suited to apartment living and thrives best in a rural or suburban home with a securely fenced yard."
+        "Yes, in an active outdoor household. Indoors it is famously calm, friendly, and gentle with children, provided its daily exercise and scent-work needs are met.",
     },
     {
-      question: "Is the Hamiltonstövare good with children and other pets?",
+      question: "What health screenings are required before breeding?",
       answer:
-        "It is gentle, calm, and affectionate with children and gets along well with other dogs; however, its strong hunting instincts make it unsafe around loose small pets such as rabbits or rodents."
+        "Breeding dogs must have an official radiographic hip evaluation on record (grades A, B, or C, with C dogs paired only with A or B partners), and breeders follow strict limits on litter numbers and inbreeding coefficients.",
     },
-    {
-      question: "Does the Hamiltonstövare shed a lot?",
-      answer:
-        "Shedding is low to moderate throughout the year and increases slightly during seasonal coat changes in spring and autumn, easily managed with weekly brushing."
-    },
-    {
-      question: "How much exercise does a Hamiltonstövare need each day?",
-      answer:
-        "The breed requires at least 60 to 90 minutes of vigorous daily physical activity, including brisk walks, hiking, and mental scent-tracking enrichment to satisfy its working nature."
-    },
-    {
-      question: "Is the Hamiltonstövare easy to train?",
-      answer:
-        "It is intelligent, gentle, and eager to please, but strong scenting instincts mean it can be easily distracted outdoors; it responds best to patient, positive reinforcement training and must be kept leashed in unfenced areas."
-    },
-    {
-      question: "Does the Hamiltonstövare bark or bay a lot?",
-      answer:
-        "The breed is quiet and composed indoors, but in the field or when tracking quarry it possesses a loud, resonant voice that carries over great distances."
-    },
-    {
-      question: "What health problems are known in the Hamiltonstövare?",
-      answer:
-        "The breed is remarkably robust with few genetic disorders; primary health considerations include hip dysplasia, ear infections from drop ears, and minor field injuries sustained while hunting."
-    }
   ],
 
   references: [
@@ -413,16 +373,17 @@ export const hamiltonstovare: Breed = {
     "the-kennel-club-hamiltonstovare-breed-standard",
     "ukc-hamiltonstovare-breed-standard",
     "wikimedia-hamiltonstovare-lilly-m",
-    "wikimedia-hamiltonstovare-600-tomasz-sienicki"
+    "wikimedia-hamiltonstovare-600-tomasz-sienicki",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Official breed standards and kennel-club records do not establish a breed-specific scientific name; kept null per schema rules.",
     },
 
     alternateNames: {
@@ -431,26 +392,31 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "verified",
-          locator: "Standard heading: HAMILTONSTÖVARE"
+          locator: "Standard heading: HAMILTONSTÖVARE",
         },
         {
           id: "fci-hamiltonstovare-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: HAMILTONSTÖVARE (132), Chien Courant Hamilton, Hamilton-Bracke, Sabueso de Hamilton"
+          locator: "Official nomenclature: HAMILTONSTÖVARE (132), Chien Courant Hamilton, Hamilton-Bracke, Sabueso de Hamilton",
         },
         {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Rasnamn: Hamiltonstövare"
+          locator: "Also known as: Hamilton Hound, Chien courant de Hamilton, Sabueso Hamilton, Hamiltonstøver, Hamiltoninajokoira",
         },
         {
           id: "ukc-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Breed name: Hamiltonstovare (Swedish Foxhound)"
-        }
+          locator: "Breed name: Hamiltonstovare (Swedish Foxhound)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Hamilton Hound)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified across FCI Standard No. 132, FCI Nomenclature, SKK, and UKC."
+      verifiedOn: "2026-11-17",
+      note: "Verified across FCI Standard No. 132, FCI Nomenclature, SKK, UKC, and The Dog API.",
     },
 
     group: {
@@ -459,50 +425,68 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial"
+          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial",
         },
         {
           id: "fci-hamiltonstovare-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial"
+          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial",
         },
         {
           id: "the-kennel-club-hamiltonstovare-breed-standard",
-          role: "verified",
-          locator: "Hound Group"
+          role: "cited",
+          locator: "Hound Group",
         },
         {
           id: "ukc-hamiltonstovare-breed-standard",
-          role: "verified",
-          locator: "Scenthound Group"
-        }
+          role: "cited",
+          locator: "Scenthound Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group (Hound)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "Follows the Group 6, Section 1.2 classification without naming registries in user-facing text.",
     },
 
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "verified",
-          locator: "ORIGIN: Sweden; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: Sweden",
         },
         {
           id: "fci-hamiltonstovare-nomenclature",
           role: "verified",
-          locator: "Country of origin: Sweden"
+          locator: "Country of origin: Sweden",
         },
         {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Ursprungsland: Sverige"
-        }
+          locator: "Ursprungsland: Sverige",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (Sweden)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
+    },
+
+    "origin.region": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Official standards identify Sweden as the country of origin without specifying a single sub-national region.",
     },
 
     overview: {
@@ -511,27 +495,27 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator: "Utilization, Brief historical summary, General appearance, Important proportions, Behaviour/temperament",
         },
         {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Bakgrund och ändamål, Helhetsintryck, Viktiga måttförhållanden, Uppförande/karaktär"
+          locator: "Rasstandard FCI 132, RAS Hamiltonstövare (2026), and Swedish breed profile (1886 Stockholm show, Count Adolf Patrik Hamilton, 1921 renaming)",
         },
         {
           id: "svenska-hamiltonstovareklubben-breed-profile",
           role: "verified",
-          locator: "Rasens historia och egenskaper (Grev Adolf Patrik Hamilton, 1886 Stockholm, Pang och Stella, 1921 namnbyte)"
+          locator: "Breed history (Pang and Stella) and solitary hare/fox hunting utility",
         },
         {
-          id: "ukc-hamiltonstovare-breed-standard",
+          id: "the-dog-api",
           role: "cited",
-          locator: "History and Characteristics"
-        }
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesized in original prose from FCI Standard No. 132, SKK, and Svenska Hamiltonstövareklubben official records."
+        "All overview text is rewritten in 100% original wording from FCI Standard No. 132, SKK, and Svenska Hamiltonstövareföreningen documentation.",
     },
 
     physical: {
@@ -540,22 +524,27 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator: "Important proportions, Head, Neck, Body, Tail, Limbs, Coat, Colour, and Size",
         },
         {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Huvud, Hals, Kropp, Svans, Extremiteter, Päls, Färg, Storlek"
+          locator: "Rasstandard FCI 132: Helhetsintryck, Huvud, Kropp, Päls, Färg, Storlek/vikt",
         },
         {
-          id: "ukc-hamiltonstovare-breed-standard",
+          id: "the-kennel-club-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
-        }
+          locator: "General appearance, Head and skull, Body, Coat, Colour, and Size",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 17 generic species-wide colours)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Conformation, rectangular build, black mantle tricolour coat, and distinctive features follow official standards."
+        "Conformation, rectangular build, harsh double coat, and strict tricolour pattern follow FCI Standard No. 132 and SKK rather than The Dog API's generic 17-colour list.",
     },
 
     "physical.height": {
@@ -564,22 +553,73 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: Males: 53-61 cm, ideal 57 cm. Females: 49-57 cm, ideal 53 cm."
+          locator: "SIZE: Height at withers: Males 53–61 cm (ideal 57 cm); Females 49–57 cm (ideal 53 cm)",
         },
         {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Mankhöjd: Hanhund 53-61 cm, idealhöjd 57 cm. Tik 49-57 cm, idealhöjd 53 cm."
+          locator: "Mankhöjd: Hanhund 53–61 cm (idealhöjd 57 cm); Tik 49–57 cm (idealhöjd 53 cm)",
         },
         {
           id: "the-kennel-club-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Height at withers: dogs: 53-61 cms (21-24 ins); bitches: 49-57 cms (19.5-22.5 ins)"
-        }
+          locator: "Height at withers: dogs 53–61 cm (21–24 in); bitches 49–57 cm (19.5–22.5 in)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (Males 52–61 cm, Females 48–57 cm)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Preserved in published unit of centimetres (53–61 cm for males, 49–57 cm for females) exactly as specified in the official FCI and SKK standards."
+        "Preserved in centimetres (53–61 cm for males, 49–57 cm for females) per FCI Standard No. 132 and SKK; The Dog API lowers the minimum bound by 1 cm (52–61 cm / 48–57 cm).",
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-hamiltonstovare-official-standard",
+          role: "verified",
+          locator: "SIZE: Males 53–61 cm",
+        },
+        {
+          id: "skk-hamiltonstovare-breed-standard",
+          role: "verified",
+          locator: "Mankhöjd: Hanhund 53–61 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric (61 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper male height bound of 61 cm.",
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-hamiltonstovare-official-standard",
+          role: "verified",
+          locator: "SIZE: Females 49–57 cm",
+        },
+        {
+          id: "skk-hamiltonstovare-breed-standard",
+          role: "verified",
+          locator: "Mankhöjd: Tik 49–57 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric (57 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female height bound of 57 cm.",
     },
 
     "physical.weight": {
@@ -588,22 +628,73 @@ export const hamiltonstovare: Breed = {
         {
           id: "svenska-hamiltonstovareklubben-breed-profile",
           role: "verified",
-          locator: "Vikt: Hanhund ca 25-27 kg, Tik ca 23-25 kg (ca 23-27 kg)"
+          locator: "Vikt: Hanhund ca 25–27 kg, Tik ca 23–25 kg",
         },
         {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Vikt: ca 23-27 kg"
+          locator: "Vikt: ca 23–27 kg",
         },
         {
           id: "ukc-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Weight: Males approximately 55 to 60 pounds (approx. 25-27 kg); Females approximately 50 to 55 pounds (approx. 23-25 kg)"
-        }
+          locator: "Weight: Males approx. 55 to 60 pounds (25–27 kg); Females approx. 50 to 55 pounds (23–25 kg)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (23–34 kg combined for both sexes)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "FCI Standard No. 132 requires weight to be in proportion to height. The stored 25 to 27 kg for males and 23 to 25 kg for females are the canonical weights published by the breed club and SKK, preserved in kilograms."
+        "Retains the 25–27 kg (male) and 23–25 kg (female) working weight ranges from Swedish breed documentation and UKC; The Dog API reports a broader 23–34 kg combined range.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "svenska-hamiltonstovareklubben-breed-profile",
+          role: "verified",
+          locator: "Vikt: Hanhund ca 25–27 kg",
+        },
+        {
+          id: "skk-hamiltonstovare-breed-standard",
+          role: "verified",
+          locator: "Vikt: ca 23–27 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (34 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper male weight bound of 27 kg.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "svenska-hamiltonstovareklubben-breed-profile",
+          role: "verified",
+          locator: "Vikt: Tik ca 23–25 kg",
+        },
+        {
+          id: "ukc-hamiltonstovare-breed-standard",
+          role: "verified",
+          locator: "Weight: Females approx. 23–25 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (34 kg; did not separate males and females)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female weight bound of 25 kg.",
     },
 
     "physical.lifespanYears": {
@@ -612,52 +703,33 @@ export const hamiltonstovare: Breed = {
         {
           id: "svenska-hamiltonstovareklubben-breed-profile",
           role: "verified",
-          locator: "Hälsa och livslängd (12-14 år)"
+          locator: "Livslängd: 12–14 år",
         },
         {
-          id: "skk-hamiltonstovare-breed-standard",
-          role: "cited",
-          locator: "Allmän hälsa och sundhet"
-        }
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.life_span (10–14 years)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Supported by Swedish breed club health and actuarial documentation."
+      verifiedOn: "2026-11-17",
+      note:
+        "Retains the 12–14 year lifespan from Swedish breed club documentation while recording The Dog API's broader 10–14 year range.",
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-hamiltonstovare-official-standard",
-          role: "verified",
-          locator: "COAT: Harsh, close-lying coat with dense, soft undercoat"
-        },
-        {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Pälsvård och fällning"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: null
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Reviewed standards describe the harsh double coat and dense winter undercoat without establishing a standardised shedding category.",
     },
 
     "physical.droolingLevel": {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-hamiltonstovare-official-standard",
-          role: "verified",
-          locator: "Lips: Dry and tightly fitting"
-        },
-        {
-          id: "skk-hamiltonstovare-breed-standard",
-          role: "verified",
-          locator: "Läppar: Torra och strama"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: "Tight, dry lips result in minimal drooling."
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Reviewed standards describe dry, tight-fitting lips without establishing a standardised drooling rating.",
     },
 
     "temperament.traits": {
@@ -666,26 +738,26 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Friendly, with a calm and even disposition; passionate hunting drive"
+          locator: "Behaviour / Temperament: friendly, calm and even disposition",
         },
         {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Uppförande/karaktär: Vänlig med ett lugnt och stabilt temperament"
-        },
-        {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Mentalitet och jaktegenskaper"
+          locator: "Uppförande/karaktär: vänlig med ett lugnt och stabilt temperament; utpräglat lugnt temperament och spårnoga drevsätt",
         },
         {
           id: "ukc-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Characteristics: Friendly, calm, pleasant disposition, ringing voice"
-        }
+          locator: "Characteristics: friendly, calm, pleasant disposition, clear ringing voice",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament (Friendly, energetic, intelligent, alert, independent)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "temperament.scores": {
@@ -694,54 +766,54 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "cited",
-          locator: "Temperament and hunting characteristics"
+          locator: "Behaviour / Temperament and Utilization",
         },
         {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
+          id: "skk-hamiltonstovare-breed-standard",
           role: "cited",
-          locator: "Jaktlust och temperament i hemmiljö"
-        }
+          locator: "Temperament, trainability, and voice",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented hound temperament and hunting drive."
+        "Editorial 1–5 scores informed by documented breed temperament and solitary hunting utility.",
     },
 
     care: {
       reliability: "general_guidance",
       sources: [
         {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Skötsel, motion och träning"
-        },
-        {
           id: "skk-hamiltonstovare-breed-standard",
           role: "cited",
-          locator: "Användning och skötselråd"
-        }
+          locator: "Motion, mental aktivering, och RAS (5-hour hunting days)",
+        },
+        {
+          id: "svenska-hamiltonstovareklubben-breed-profile",
+          role: "cited",
+          locator: "Skötsel och jaktlig träning",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines active hunting hound management with Scandinavian field care protocols."
+        "Combines Nordic working-hound exercise needs with double-coat and drop-ear maintenance.",
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-hamiltonstovare-official-standard",
+          id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "UTILIZATION: Scenthound for hunting hare and fox with high stamina"
+          locator: "Kräver mycket motion samt mental aktivering; jaktdag omfattar minst fem timmar och två fulla dagar i följd (RAS 2026)",
         },
         {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
+          id: "fci-hamiltonstovare-official-standard",
           role: "verified",
-          locator: "Motionsbehov och jaktlig träning"
-        }
+          locator: "General appearance and Utilization: impression of great stamina and strength",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
@@ -750,36 +822,31 @@ export const hamiltonstovare: Breed = {
         {
           id: "the-kennel-club-hamiltonstovare-breed-standard",
           role: "cited",
-          locator: "Exercise: Up to 1 hour or more per day"
+          locator: "Exercise: high daily exercise requirement",
         },
         {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
+          id: "skk-hamiltonstovare-breed-standard",
           role: "cited",
-          locator: "Daglig motion och konditionsträning"
-        }
+          locator: "Kräver mycket motion samt mental aktivering",
+        },
       ],
       verifiedOn: null,
       note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic working hound."
+        "Estimated 60 to 90 minutes of daily exercise outside active hunting days.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
-          id: "fci-hamiltonstovare-official-standard",
+          id: "skk-hamiltonstovare-breed-standard",
           role: "cited",
-          locator: "Active endurance scenthound with carrying tracking voice"
+          locator: "High motion and mental activation needs for a working scent hound",
         },
-        {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Boendemiljö och behov av utomhusutrymme"
-        }
       ],
       verifiedOn: null,
       note:
-        "Editorial evaluation that high exercise needs and resonant tracking instincts make apartment living unsuitable."
+        "Editorial assessment that high exercise needs and a far-carrying voice make apartment living unsuitable.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -788,11 +855,11 @@ export const hamiltonstovare: Breed = {
         {
           id: "svenska-hamiltonstovareklubben-breed-profile",
           role: "verified",
-          locator: "Boendemiljö: hus med inhägnad tomt rekommenderas"
-        }
+          locator: "Rural or suburban home with outdoor space recommended",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.climates": {
@@ -801,127 +868,102 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "verified",
-          locator: "COAT: Harsh close-lying coat with dense winter undercoat adapted to Scandinavian winter"
+          locator: "Coat: harsh close-lying coat with short, dense, soft undercoat especially thick in winter",
         },
         {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Päls: motståndskraftig mot snö och kyla"
-        }
+          locator: "Päls: motståndskraftig mot snö och kyla",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Mentalitet och ensamträning"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
       note:
-        "Scenthounds can tolerate moderate alone time if given thorough physical and olfactory exercise, but may vocalize if neglected."
+        "General working-hound guidance regarding exercise, indoor rest, and vocalisation.",
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Utfodring och energibehov under jaktsäsong"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for active sporting and hunting dogs."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Måltidsrutiner och matsmältning"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+        "General canine nutrition guidance for an endurance hunting hound.",
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Hälsa och avelsrekommendationer (HD-screening)"
-        },
-        {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Hälsa och sundhet hos de svenska stövarraserna"
-        }
+          locator: "SKK breed page & RAS Hamiltonstövare (2026): healthy breed without major breed-specific diseases; HD known status required for breeding; low-frequency epilepsy, pruritus, tumours, cryptorchidism, and isolated PDA",
+        },
+        {
+          id: "svenska-hamiltonstovareklubben-breed-profile",
+          role: "verified",
+          locator: "Krav på avelsdjur: HD-röntgad före parning (A, B, C) och max 2% inavelsgrad",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Documents high overall constitutional vitality alongside routine orthopedic screening programs."
+        "Verified directly against SKK's 2026 Rasspecifik avelsstrategi (RAS) for Hamiltonstövare and Svenska Hamiltonstövareföreningen breeding rules.",
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Höftledsdysplasi (HD), öroninflammationer och skador i skog och mark"
-        },
-        {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Veterinärmedicinska råd för jakthundar"
-        }
+          locator: "RAS Hamiltonstövare (2026): Höftledsdysplasi (HD), enstaka fall av PDA (persisterande ductus arteriosus), epilepsi, klåda, tumörsjukdomar och kryptorkism",
+        },
+        {
+          id: "svenska-hamiltonstovareklubben-breed-profile",
+          role: "verified",
+          locator: "HD-röntgen och hälsoprogram",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Identifies documented breed considerations without using prohibited registry labels in prose."
+        "Distinguishes mandatory pre-breeding HD screening (with rare clinical symptoms) and low-frequency conditions noted in SKK's 2026 RAS from general working-hound ear and field-injury care.",
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
+          id: "skk-hamiltonstovare-breed-standard",
           role: "cited",
-          locator: "Förebyggande vård, öronkontroller och fästingskydd"
-        }
+          locator: "RAS Hamiltonstövare (2026) breeding and health management",
+        },
       ],
       verifiedOn: null,
-      note: "Field hygiene protocol tailored to drop-eared hunting hounds."
+      note: "Preventive care guidance for a drop-eared Nordic hunting hound.",
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Avelskrav: Höftledsröntgen (HD)"
-        },
-        {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Hälsoprogram för stövare"
-        }
+          locator: "RAS Hamiltonstövare (2026): Kravet på HD-röntgen – känd status (grades A, B, or C permitted; D and E excluded)",
+        },
+        {
+          id: "svenska-hamiltonstovareklubben-breed-profile",
+          role: "verified",
+          locator: "Krav på avelsdjur: HD-röntgad före parning",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Pre-breeding evaluations recommended by the Swedish breed authority."
+        "Verified against SKK and Svenska Hamiltonstövareföreningen pre-breeding requirements.",
     },
 
     "health.dentalCare": {
@@ -930,11 +972,11 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: scissor bite, strong teeth"
-        }
+          locator: "Jaws/Teeth: scissor bite with strong, well-developed teeth",
+        },
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine dental hygiene guidance.",
     },
 
     "health.earCare": {
@@ -943,16 +985,11 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "cited",
-          locator: "Ears: set high, pendant, hanging flat"
+          locator: "Ears: set high, soft, hanging flat",
         },
-        {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "cited",
-          locator: "Rengöring av hängande öron"
-        }
       ],
       verifiedOn: null,
-      note: "Ear maintenance protocol for drop ears."
+      note: "Routine ear care guidance for hanging ears.",
     },
 
     "health.skinCare": {
@@ -961,30 +998,30 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "cited",
-          locator: "Skin: tight and dry"
-        }
+          locator: "Coat: harsh, close-lying double coat",
+        },
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: "Routine coat and skin inspection guidance after forest work.",
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
         {
-          id: "fci-hamiltonstovare-official-standard",
+          id: "skk-hamiltonstovare-breed-standard",
           role: "cited",
-          locator: "Working temperament and hunting utility"
+          locator: "Hunting utility and family dog temperament",
         },
         {
           id: "svenska-hamiltonstovareklubben-breed-profile",
           role: "cited",
-          locator: "Vem passar rasen för? (jägare och friluftsaktiva)"
-        }
+          locator: "Working and household characteristics",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability flags and lists reflect editorial evaluations of hound exercise needs and hunting drive."
+        "Editorial suitability evaluations based on stamina, solo trailing drive, and calm indoor temperament.",
     },
 
     funFacts: {
@@ -993,21 +1030,21 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "verified",
-          locator: "Brief historical summary: 1886 Stockholm show, Count Adolf Patrik Hamilton, Pang and Stella"
-        },
-        {
-          id: "svenska-hamiltonstovareklubben-breed-profile",
-          role: "verified",
-          locator: "Historik, Tomte Tummetott och hunden Karo, drevskall och 1921 namnbyte"
+          locator: "Brief historical summary (1886 show, Count Hamilton, 1921 renaming) and Disqualifying faults (bicolour coat, blue eyes)",
         },
         {
           id: "skk-hamiltonstovare-breed-standard",
           role: "verified",
-          locator: "Rashistoria och jakttradition"
-        }
+          locator: "Swedish breed profile (189 hounds at the 1886 Stockholm show, Swedish Hound name, voice heard for miles) and RAS 2026 (five-hour hunting days, two consecutive days)",
+        },
+        {
+          id: "svenska-hamiltonstovareklubben-breed-profile",
+          role: "verified",
+          locator: "Foundation hounds Pang and Stella and solitary hunting tradition",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified historical and functional facts written without prohibited names."
+      verifiedOn: "2026-11-17",
+      note: "Verified directly against FCI Standard No. 132, SKK, and Svenska Hamiltonstövareföreningen records.",
     },
 
     faq: {
@@ -1016,29 +1053,24 @@ export const hamiltonstovare: Breed = {
         {
           id: "fci-hamiltonstovare-official-standard",
           role: "verified",
-          locator: "Origin, size (53-61 cm / 49-57 cm), coat, and colours"
+          locator: "Origin, size (53–61 cm males, 49–57 cm females), coat, and tricolour pattern",
+        },
+        {
+          id: "skk-hamiltonstovare-breed-standard",
+          role: "verified",
+          locator: "Weight (23–27 kg), solitary hunting utility, family temperament, and RAS 2026 HD breeding rules",
         },
         {
           id: "svenska-hamiltonstovareklubben-breed-profile",
           role: "verified",
-          locator: "Vanliga frågor om rasen, vikt (25-27 kg / 23-25 kg), motion och hälsa"
+          locator: "Weight (25–27 kg males, 23–25 kg females), lifespan (12–14 years), and breeding requirements",
         },
-        {
-          id: "the-kennel-club-hamiltonstovare-breed-standard",
-          role: "verified",
-          locator: "Size and general characteristics"
-        },
-        {
-          id: "ukc-hamiltonstovare-breed-standard",
-          role: "verified",
-          locator: "General characteristics and temperament"
-        }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "FAQ answers synthesize verified standards and parent-club guidance without naming registries in prose."
-    }
+        "FAQ answers synthesise verified FCI, SKK, and Swedish breed club documentation without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-11-08"
+  updatedOn: "2026-11-17",
 };

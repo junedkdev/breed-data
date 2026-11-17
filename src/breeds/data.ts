@@ -216,6 +216,8 @@ import { american_hairless_terrier } from "./american_hairless_terrier";
 import { fox_terrier_wire } from "./fox_terrier_wire";
 import { polish_lowland_sheepdog } from "./polish_lowland_sheepdog";
 import { south_russian_ovcharka } from "./south_russian_ovcharka";
+import { border_collie } from "./border_collie";
+import { pont_audemer_spaniel } from "./pont_audemer_spaniel";
 
 
 export const breedData: readonly Breed[] = [
@@ -431,4 +433,6 @@ export const breedData: readonly Breed[] = [
   fox_terrier_wire,
   polish_lowland_sheepdog,
   south_russian_ovcharka,
+  border_collie,
+  pont_audemer_spaniel,
 ];

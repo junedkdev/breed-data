@@ -19239,6 +19239,166 @@ export const sources = defineSources({
     accessedOn: "2026-11-17",
     note: "Historical illustration from W. E. Mason, Dogs of All Nations (1915); author not named; 1812 × 1353 px; marked public domain in the United States as first published before 1931.",
   },
+  "fci-border-collie-official-standard": {
+    id: "fci-border-collie-official-standard",
+    name: "FCI - Border Collie Official Breed Standard No. 297",
+    url: "https://www.fci.be/Nomenclature/Standards/297g01-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2009-10-28",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 297 (valid standard dated 2009-06-24, published 2009-10-28). Covers Great Britain origin, Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs classification with working trial, athletic build, 'intense eye', two coat varieties (rough and smooth), and ideal withers height (males 53 cm, females slightly less).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-border-collie-nomenclature": {
+    id: "fci-border-collie-nomenclature",
+    name: "FCI - Border Collie Breed Nomenclature (No. 297)",
+    url: "https://www.fci.be/en/nomenclature/BORDER-COLLIE-297.html",
+    type: "official_breed_standard",
+    publishedOn: "2009-10-28",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 1 Section 1 classification with working trial, definitive recognition date (1977-09-28), and official multilingual name (Border Collie).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-border-collie-breed-standard": {
+    id: "akc-border-collie-breed-standard",
+    name: "American Kennel Club - Official Standard of the Border Collie",
+    url: "https://images.akc.org/pdf/breeds/standards/BorderCollie.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2004-03-01",
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed standard (Herding Group, approved 2004) establishing height (19-22 inches males, 18-21 inches females), proportionate weight, stealthy gait, keen expression, and highly intelligent working temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-border-collie-breed-profile": {
+    id: "akc-border-collie-breed-profile",
+    name: "American Kennel Club - Border Collie Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/border-collie/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile covering Anglo-Scottish border history, Old Hemp foundation, weight (30-55 pounds), lifespan (12-15 years), extreme intelligence, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "bcsa-border-collie-health": {
+    id: "bcsa-border-collie-health",
+    name: "Border Collie Society of America - Breed Health and Genetics",
+    url: "https://bordercolliesociety.com/health/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official national parent club health portal documenting structural health risks and mandatory pre-breeding health testing, explicitly detailing Collie Eye Anomaly (CEA), Trapped Neutrophil Syndrome (TNS), MDR1 sensitivity, Epilepsy, and Deafness (BAER).",
+    publisher: "Border Collie Society of America"
+  },
+  "ofa-border-collie-chic-requirements": {
+    id: "ofa-border-collie-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Border Collie CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=BCC",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Border Collie, mandating Radiographic Hip Dysplasia evaluation, CAER Eye examination, and Collie Eye Anomaly (CEA) DNA test.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-border-collie-portrait-canarian": {
+    id: "wikimedia-border-collie-portrait-canarian",
+    name: "Wikimedia Commons - File:Border Collie portrait.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Border_Collie_portrait.jpg",
+    type: "other",
+    publishedOn: "2018-05-14",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (2500 x 1667 px) of a classic black and white Border Collie standing outdoors by Canarian (captured and uploaded 2018-05-14). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-border-collie-working-sannse": {
+    id: "wikimedia-border-collie-working-sannse",
+    name: "Wikimedia Commons - File:Border Collie working.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Border_Collie_working.jpg",
+    type: "other",
+    publishedOn: "2004-10-12",
+    accessedOn: "2026-11-17",
+    note: "Photograph (800 x 600 px) featuring a Border Collie in a low, crouching stance working in a grassy field by Sannse (captured and uploaded 2004-10-12). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-pont-audemer-spaniel-official-standard": {
+    id: "fci-pont-audemer-spaniel-official-standard",
+    name: "FCI - Pont-Audemer Spaniel (Epagneul de Pont-Audemer) Official Breed Standard No. 114",
+    url: "https://www.fci.be/Nomenclature/Standards/114g07-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1998-09-25",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 114 (valid standard dated 1964-05-06, published 1998-09-25). Covers French origin, Group 7 Pointing Dogs, Section 1.2 Continental Pointing Dogs (Spaniel type) classification with working trial, stocky build, curly brown or roan coat, distinct curly topknot, and withers height (52 to 58 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-pont-audemer-spaniel-nomenclature": {
+    id: "fci-pont-audemer-spaniel-nomenclature",
+    name: "FCI - Pont-Audemer Spaniel Breed Nomenclature (No. 114)",
+    url: "https://www.fci.be/en/nomenclature/PONT-AUDEMER-SPANIEL-114.html",
+    type: "official_breed_standard",
+    publishedOn: "1998-09-25",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 7 Section 1.2 classification with working trial, definitive recognition date (1954-12-14), and official multilingual name (Epagneul de Pont-Audemer).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "scc-epagneul-de-pont-audemer-standard": {
+    id: "scc-epagneul-de-pont-audemer-standard",
+    name: "Société Centrale Canine - Standard et Profil de l'Epagneul de Pont-Audemer",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/epagneul-de-pont-audemer",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official French kennel club (Société Centrale Canine / SCC) breed profile and standard for Epagneul de Pont-Audemer, documenting Marais Vernier heritage, height, weight (20-27 kg), hunting traits, and exceptionally docile 'petit clown' character.",
+    publisher: "Société Centrale Canine"
+  },
+  "akc-pont-audemer-spaniel-breed-profile": {
+    id: "akc-pont-audemer-spaniel-breed-profile",
+    name: "American Kennel Club - Pont-Audemer Spaniel Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/pont-audemer-spaniel/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile (Foundation Stock Service) covering 'petit clown des marais' nickname, water spaniel crosses, weight (44-60 pounds), lifespan (12-14 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "ukc-pont-audemer-spaniel-breed-standard": {
+    id: "ukc-pont-audemer-spaniel-breed-standard",
+    name: "United Kennel Club - Pont-Audemer Spaniel Breed Standard",
+    url: "https://www.ukcdogs.com/pont-audemer-spaniel",
+    type: "official_breed_standard",
+    publishedOn: "1996-01-01",
+    accessedOn: "2026-11-17",
+    note: "Official UKC breed standard (Gun Dog Group, recognized 1996) covering conformation, curly topknot, stocky build, flat curly brown and white coat, and pointing behavior.",
+    publisher: "United Kennel Club"
+  },
+  "club-epagneul-pont-audemer-profile": {
+    id: "club-epagneul-pont-audemer-profile",
+    name: "Club de l'Epagneul Picard, Bleu de Picardie et Pont-Audemer - Le Pont-Audemer",
+    url: "https://www.epagneul-picard.fr/la-race/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official French parent breed club portal documenting the morphological traits, curly coat rules, average weight, lifespan, and mandatory health screening requirements for Hip Dysplasia.",
+    publisher: "Club de l'Epagneul Picard, Bleu de Picardie et Pont-Audemer"
+  },
+  "wikimedia-epagneul-de-pont-audemer-canarian": {
+    id: "wikimedia-epagneul-de-pont-audemer-canarian",
+    name: "Wikimedia Commons - File:Epagneul de Pont-Audemer.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Epagneul_de_Pont-Audemer.jpg",
+    type: "other",
+    publishedOn: "2015-05-18",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (2592 x 1944 px) of an adult Pont-Audemer Spaniel standing outdoors by Canarian (captured and uploaded 2015-05-18). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-pont-audemer-spaniel-1-lilly-m": {
+    id: "wikimedia-pont-audemer-spaniel-1-lilly-m",
+    name: "Wikimedia Commons - File:Pont Audemer Spaniel 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Pont_Audemer_Spaniel_1.jpg",
+    type: "other",
+    publishedOn: "2007-06-25",
+    accessedOn: "2026-11-17",
+    note: "Photograph (2304 x 1728 px) of a Pont-Audemer Spaniel in a grassy field by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
 });
 
 export type SourceId = keyof typeof sources;

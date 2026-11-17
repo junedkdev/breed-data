@@ -138,9 +138,10 @@
 135:american_eskimo_dog - CG
 136:finnish_spitz - CG
 137:transylvanian_hound - CG
+138:hamiltonstovare - CG
 
-138:hamiltonstovare - C
-139:basset_hound - C
+139:basset_hound - CR
+
 140:greenland_dog - C
 141:estrela_mountain_dog - C
 142:west_highland_white_terrier - C
@@ -213,10 +214,11 @@
 209:fox_terrier,_wire - C
 210:polish_lowland_sheepdog - C
 211:south_russian_ovcharka - C
+212:border_collie - C
+213:pont-audemer_spaniel - C
 
-212:border_collie
-213:pont-audemer_spaniel
-214:jamthund
+214:jamthund - R
+
 215:bedlington_terrier
 216:thai_ridgeback
 217:german_shorthaired_pointer
