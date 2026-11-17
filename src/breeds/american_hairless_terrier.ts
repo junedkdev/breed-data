@@ -427,8 +427,8 @@ export const american_hairless_terrier: Breed = {
         "User-facing group classification formulated without prohibited registry names per Rule 5."
     },
 
-    origin: {
-      reliability: "official_standard",
+origin: {
+      reliability: "reliable_source",
       sources: [
         {
           id: "akc-american-hairless-terrier-breed-profile",

@@ -15,12 +15,12 @@ export const cao_de_castro_laboreiro: Breed = {
   ],
 
   group:
-    "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 2.2 — Mountain-type Molossoids (without working trial; also classified in the Guardian Dog and Working groups)",
+    "Group 2: Pinscher and Schnauzer, Molossoid and Swiss Mountain and Cattle Dogs; Section 2.2: Molossoid breeds, Mountain type",
 
   origin: {
     country: "Portugal",
     region:
-      "Castro Laboreiro, Melgaço municipality, Peneda and Soajo mountains, northern Portugal"
+      "Castro Laboreiro, in the municipality of Melgaço, in the mountains between the Minho River and the Peneda and Soajo ranges of far northern Portugal"
   },
 
   images: [
@@ -29,8 +29,7 @@ export const cao_de_castro_laboreiro: Breed = {
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:C%C3%A3o_de_Castro_Laboreiro_em_Entalada,_Castro_Laboreiro.jpg",
       title: "Cão de Castro Laboreiro em Entalada, Castro Laboreiro.jpg",
-      description:
-        "A Cão de Castro Laboreiro standing in snow in Entalada, Castro Laboreiro, Portugal.",
+      description: "A Cão de Castro Laboreiro standing in snow at Entalada, Castro Laboreiro.",
       creator: "Maria Lemos",
       uploader: "Tm",
       capturedOn: "2006-01-28",
@@ -39,7 +38,7 @@ export const cao_de_castro_laboreiro: Breed = {
       height: 2112,
       licenseId: "cc-by-sa-2.0",
       attribution:
-        "Photo by Maria Lemos, Wikimedia Commons, CC BY-SA 2.0. Source: https://commons.wikimedia.org/wiki/File:C%C3%A3o_de_Castro_Laboreiro_em_Entalada,_Castro_Laboreiro.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Maria Lemos, Wikimedia Commons, CC BY-SA 2.0. Changes, if any, must be indicated; adaptations must be shared under the same license.",
       restrictions: null,
       metadataCheckedOn: "2026-11-08"
     },
@@ -56,7 +55,7 @@ export const cao_de_castro_laboreiro: Breed = {
       height: 1706,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Castrolaboreiro1.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Changes, if any, must be indicated; adaptations must be shared under the same license.",
       restrictions: null,
       metadataCheckedOn: "2026-11-08"
     }
@@ -64,22 +63,21 @@ export const cao_de_castro_laboreiro: Breed = {
 
   overview: {
     summary:
-      "A rustic, vigorous mountain livestock guardian from northern Portugal, recognized for its sub-longilinear silhouette, harsh coat without undercoat, striking mountain-brindle coloration, and unique rising alarm bark.",
+      "A lightly built mountain guardian from the far north of Portugal, kept for centuries to protect flocks from wolves and known for its brindled 'mountain colour' and a bark that climbs from a deep note to a long, high cry.",
 
     description:
-      "The Cão de Castro Laboreiro is a powerful, rustic livestock guardian dog originating from the rugged mountains of northern Portugal. Exhibiting a moderate mastiff type without exaggerated mass, the animal possesses an athletic, rectangular build with a body length to height ratio of seven to six. Its dense, weather-resistant coat is unique among mountain guardians in that it lacks an undercoat, lying close to the body with a harsh, resistant texture that withstands rocky scrub. The breed is particularly celebrated for its mountain colour coat—a distinctive brindle blending grey, pine-nut brown, and reddish mahogany tones. Severe and serious in expression, it carries an elongated head with slightly divergent facial planes, almond-shaped brown eyes, and triangular pendant ears. In domestic life it is deeply loyal, quiet, and affectionate with its family, while remaining incorruptibly vigilant against predators and strangers.",
+      "The Cão de Castro Laboreiro is a large guardian of mild mastiff type, built for agility rather than bulk. Its body is a little longer than it is tall, and its chest reaches to just under half its height, which gives it a rangy, athletic outline suited to steep ground. The head is fairly long and light, with a straight muzzle slightly shorter than the skull, a black nose, almond-shaped eyes edged in black, and thin, nearly triangular ears that hang close and swing forward when the dog is attentive. Its coat is short, dense and close-lying with no undercoat, a little longer on the hindquarters and the underside of the tail. Most dogs are some shade of wolf grey, while the colour local breeders prize most is a grey brindle flecked with warm reddish and mahogany hairs. At home it is loyal and gentle with its own people; on its territory it is a watchful sentry that patrols on its own and confronts intruders without picking needless fights.",
 
     history:
-      "Regarded as one of the oldest native breeds of the Iberian Peninsula, the dog takes its name from the remote mountain village of Castro Laboreiro in the municipality of Melgaço. The region encompasses a windswept plateau bordered by rivers and granite peaks rising up to 1400 metres within the modern Peneda-Gerês territory. Historically, local inhabitants practiced transhumance, moving between high summer settlements and sheltered winter valleys. The dogs protected sheep, goats, and cattle from wolves and livestock rustlers, patrolling pastures independently in extreme weather. Mentions of the breed appear in nineteenth-century literature, including Camilo Castelo Branco's 1882 novella. The breed achieved formal national recognition in Portugal in the early twentieth century and definitive international recognition in 1955, remaining an essential cultural symbol of Portuguese pastoral heritage.",
+      "The breed is counted among the oldest native dogs of the Iberian Peninsula. It takes its name from Castro Laboreiro, a remote village in Melgaço in Portugal's extreme north, set in rugged country that climbs to about 1,400 metres and is ringed by the Minho, Trancoso, Laboreiro and Mouro rivers. Because the area was hard to reach until fairly recently, the local dogs developed largely in isolation, guarding sheep and cattle against the wolves that still live in those hills. Genetic work on the breed's maternal lineages supports this picture of a small, closed population. The breed gained definitive international recognition in 1955 and remains rare, with most dogs still found in Portugal.",
 
     originalPurpose:
-      "Guarding livestock herds of cattle, sheep, and goats against Iberian wolves, wild predators, and thieves, as well as protecting mountain homesteads.",
+      "Guarding flocks and herds against wolves in the northern Portuguese mountains, and watching over farms and homesteads.",
 
     currentRoles: [
-      "Livestock guardian for cattle, sheep, and goats",
-      "Rural estate and property protection dog",
-      "Devoted family guardian for experienced handlers",
-      "Outdoor companion for mountain hiking and tracking"
+      "Livestock guardian where wolves are present",
+      "Property guard",
+      "Watchdog"
     ]
   },
 
@@ -112,56 +110,47 @@ export const cao_de_castro_laboreiro: Breed = {
 
     lifespanYears: {
       min: 11,
-      max: 14
+      max: 13
     },
 
     coatType:
-      "Short on the body (approximately 5 cm), thick, resistant, and somewhat harsh to the touch, smooth and flat-lying on most of the body; without undercoat. Slightly shorter and denser on the head and ears, and thicker and longer on the buttocks.",
+      "Single coat with no undercoat: dense, thick and coarse to the touch, lying flat and with a slightly dull finish",
 
-    coatLength: "Short",
+    coatLength:
+      "Short, about 5 cm on the body; shorter and finer on the head, ears and lower legs; longer and thicker on the buttocks and the underside of the tail",
 
     coatColors: [
-      "Wolf colour (light or dark shades of grey)",
-      "Mountain colour (cor do monte — brindle coat with mixed grey base interspersed with pine-nut brown, reddish, or mahogany hairs)",
-      "Dark brindle",
-      "Small white spot on the chest is permissible"
+      "Wolf colour, in light to dark shades of grey",
+      "Mountain colour (cor do monte): grey-based brindle with black brindling and pine-nut, reddish and mahogany hairs"
     ],
 
-    sheddingLevel:
-      "Moderate year-round shedding; despite having no undercoat, the dense outer hair sheds moderately and requires regular weekly brushing",
+    sheddingLevel: "Low to moderate",
 
-    droolingLevel:
-      "Low; the lips are clean, firm, and tightly fitting without pendulous flews",
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Vigorous, athletic mastiff-type livestock guardian with a sub-longilinear silhouette (body length to withers height ratio of 7:6)",
-      "Chest depth slightly less than half the height at the withers, with a distinct tuck-up from sternum to groin",
-      "Lean head with slightly divergent cranio-facial axes and a straight muzzle slightly shorter than the skull (6:5 ratio)",
-      "Black, well-developed nose with wide-open nostrils in line with the nasal bridge",
-      "Almond-shaped, oblique brown eyes ranging from light to dark brown with a severe, serious expression and black rims",
-      "Medium-sized triangular drop ears, thin and rounded at the tip, hanging naturally and turning forward when alert",
-      "Clean, strong neck without any dewlap",
-      "Dense, resistant, harsh coat without undercoat, reaching about 5 cm on the torso and longer on the buttocks",
-      "Signature wolf-colour or mountain colour (cor do monte) brindle coat with pine-nut, reddish, or mahogany hairs",
-      "Natural sabre-like tail reaching the hock at rest, thick at the base with abundant hair on the underside",
-      "Peculiar alarm bark starting with a deep tone and rising to high-pitched, ringing resonant notes",
-      "Height at the withers of 58 to 64 cm in males and 55 to 61 cm in females",
-      "Weight of 30 to 40 kg in males and 25 to 35 kg in females"
+      "Body length to height at the withers in a ratio of about 7 to 6",
+      "Chest depth slightly less than half the height at the withers",
+      "Long, light head with slightly divergent skull and muzzle lines; the muzzle is a little shorter than the skull (about 6 to 5)",
+      "Large nose that is always black",
+      "Medium, almond-shaped, slanting eyes with black rims, light to dark brown depending on coat shade, giving a somewhat stern expression",
+      "Thin, almost triangular ears with rounded tips that hang close to the head and turn forward when alert",
+      "Scimitar-shaped natural tail reaching the hock, carried low at rest and above the topline when excited, with long hair underneath",
+      "In the mountain colour, brindling is darkest on the head, back and shoulders and lightest on the belly and lower legs",
+      "A small white spot on the chest is allowed",
+      "Characteristic alarm bark that starts deep and rises to long, high-pitched notes"
     ]
   },
 
   temperament: {
     traits: [
-      "Alert, vigilant, and fiercely loyal to family and livestock",
-      "Courageous and resolute when confronting apex predators",
-      "Reserved, aloof, and naturally suspicious toward strangers",
-      "Independent decision-maker accustomed to patrolling mountain pastures without human supervision",
-      "Calm, affectionate, and gentle within the immediate household",
-      "Highly vocal when alerting, possessing a distinctive rising alarm bark",
-      "Territorial and protective of designated property boundaries",
-      "Patient and tolerant with familiar children under adult supervision",
-      "May be dominant or assertive with unfamiliar dogs, especially of the same sex",
-      "Moderate energy with an easy, rhythmic ambling trot that can rapidly convert into an agile gallop when urged by necessity"
+      "Loyal and gentle with its own family",
+      "Vigilant sentinel that patrols its territory",
+      "Bold in defence of livestock against wolves",
+      "Can be hostile to intruders without being quarrelsome",
+      "Agile and active",
+      "Somewhat stern in expression",
+      "Uses a distinctive rising alarm bark"
     ],
 
     scores: {
@@ -180,7 +169,7 @@ export const cao_de_castro_laboreiro: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate to high; requires daily patrolling opportunities, long purposeful walks, and mental engagement in a secure rural environment",
+        "Moderate. An active working guardian that is happiest with a secure area to patrol and daily walks on varied ground.",
 
       minutesPerDay: {
         min: 60,
@@ -188,48 +177,46 @@ export const cao_de_castro_laboreiro: Breed = {
       },
 
       activities: [
-        "Long daily hikes and boundary walks on natural terrain",
-        "Patrolling a securely fenced rural property or livestock pasture",
-        "Structured scent tracking and outdoor trailing games",
-        "Calm reward-based obedience and impulse-control sessions",
-        "Enrichment games and chew puzzles to channel natural guarding vigilance"
+        "Daily walks or hikes on natural, uneven terrain",
+        "Free time to patrol a securely fenced yard or field",
+        "Scent and search games",
+        "Short, calm reward-based training sessions",
+        "Puzzle feeders and chews for mental work"
       ]
     },
 
     grooming: {
-      level: "Low to moderate",
+      level: "Low",
 
       brushing:
-        "Brush once or twice weekly with a firm bristle brush or rubber hound mitt to remove dead hair and trail debris; brushing may increase slightly during seasonal hair molts.",
+        "A weekly going-over with a bristle brush or rubber mitt is usually enough to lift loose hair and debris from the short coat.",
 
       bathing:
-        "Bathe only when heavily soiled or muddy using a gentle canine shampoo, as frequent washing strips the coat's natural weather-resistant oils.",
+        "Only when the dog is genuinely dirty; frequent bathing is not needed for this coat.",
 
       notes: [
-        "The breed lacks an undercoat, meaning it does not blow a heavy woolly coat, but the dense outer hair requires regular brushing.",
-        "Inspect the drop ears weekly for moisture, wax buildup, or debris after outdoor patrols.",
-        "Check paw pads, toes, and skin for thorns or burrs after traversing rocky mountain brush.",
-        "Trim strong nails every two to three weeks if they are not worn down on granite or hard terrain.",
-        "Clean teeth multiple times weekly with enzyme-based dog toothpaste.",
-        "Provide adequate shade and fresh water during hot weather, as dark brindle coats absorb radiant solar heat."
+        "With no woolly undercoat, the breed avoids the heavy seasonal coat blow of many mountain guardians.",
+        "Check feet, coat and skin for burrs, grass seeds and ticks after time outdoors.",
+        "Trim nails when they are not worn down naturally on hard ground.",
+        "Look inside the hanging ears every week for dirt or redness."
       ]
     },
 
     training: {
       difficulty:
-        "Challenging; highly intelligent and discerning, but possesses centuries of independent guardian instincts that reject mechanical repetition or harsh methods",
+        "Moderate to challenging. Intelligent but bred to make its own guarding decisions, so it responds poorly to harsh or repetitive drilling.",
 
       tips: [
-        "Begin patient, reward-based training and positive socialization during early puppyhood.",
-        "Establish clear, calm, and consistent boundaries without physical coercion or intimidation.",
-        "Keep training sessions short, varied, and purposeful to prevent boredom.",
-        "Focus heavily on loose-leash walking and impulse control before full adult strength develops.",
-        "Ensure secure, sturdy fencing at least six feet high around the property to prevent boundary expansion.",
-        "Always manage introductions with visiting strangers calmly, guiding the guardian with confidence."
+        "Start reward-based training and handling as soon as the puppy comes home.",
+        "Be calm and consistent; force or intimidation damages the dog's trust.",
+        "Keep sessions short and varied.",
+        "Teach loose-lead walking and impulse control before the dog reaches adult strength.",
+        "Fence the property securely, as guardians tend to treat the boundary as theirs to patrol.",
+        "Manage visitor introductions so the dog learns that you decide who is welcome."
       ],
 
       socialization:
-        "Introduce the puppy gradually to varied friendly people, calm vaccinated dogs, household noises, livestock, and diverse outdoor environments. Because natural guarding suspicion matures between 18 months and two years, early positive exposure builds confidence, social discernment, and composure without diminishing natural protective capabilities."
+        "Give the puppy frequent, pleasant meetings with a wide range of people, calm vaccinated dogs, livestock, traffic and everyday noises. Guardian breeds tend to grow more wary of strangers as they mature, so early positive experiences help the adult dog tell real threats from normal visitors."
     },
 
     livingEnvironment: {
@@ -237,80 +224,71 @@ export const cao_de_castro_laboreiro: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Mountain and temperate climates",
-        "Cool, wet, and rugged northern climates where the harsh coat provides substantial protection",
-        "Warm climates provided there is abundant shade, cool indoor shelter, fresh water, and exercise during cooler morning or evening hours"
+        "Cool, wet and mountainous climates",
+        "Temperate climates",
+        "Warm climates if shade, water and exercise in the cooler hours are provided"
       ],
 
       aloneTimeTolerance:
-        "Moderate when provided with a secure yard to patrol or livestock to guard, but thrives on close bonds with its family and should not be isolated for long periods in confined indoor quarters."
+        "Moderate. It copes with time on its own when it has secure ground to watch over, but it still needs daily contact with its family and should not be shut away indoors for long stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large working or guardian breeds, adjusted for age, activity level, and seasonal temperature.",
+      "A complete and balanced diet suited to large, active dogs, adjusted for age, body condition and workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured meals daily until six months of age, transitioning to two to three meals daily on a large-breed growth formula to promote steady skeletal development.",
-      adult:
-        "Two measured meals daily to support steady digestion and help reduce the risk of gastric dilatation-volvulus.",
+        "Three to four measured meals a day while young, moving to two or three meals as growth slows.",
+      adult: "Two measured meals a day.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle maintenance."
+        "Two smaller meals a day, adjusted to keep the dog lean as activity drops."
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Divide daily food into two distinct meals, restrict vigorous exercise for at least one hour before and after eating, and provide cool, clean drinking water continuously.",
+      "Weigh or measure each meal and adjust portions so the ribs can be felt easily under a thin layer of fat. Splitting food into two meals and letting the dog rest around mealtimes is a common precaution for large, deep-chested dogs. Fresh water should always be available.",
 
     considerations: [
-      "Keep the dog lean and well-muscled to avoid putting unnecessary strain on large joints.",
-      "Avoid overfeeding growing puppies and maintain controlled calcium and phosphorus ratios to foster steady bone formation.",
-      "Count training treats toward the daily caloric allowance.",
-      "Rest the dog before and after meals to mitigate the risk of bloat.",
-      "Adjust caloric intake upward during cold winter patrols and downward during sedentary summer periods.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep the dog lean to spare its joints.",
+      "Avoid overfeeding puppies so they grow at a steady pace.",
+      "Count treats as part of the daily ration.",
+      "Increase food during hard outdoor work or cold weather and reduce it in quieter periods.",
+      "Switch foods gradually over about a week."
     ],
 
     note:
-      "Individual caloric needs vary based on age, metabolism, outdoor temperature, and daily working duties. Work with a veterinarian to establish tailored daily feeding guidelines."
+      "Energy needs differ widely between a working guardian and a family pet. A veterinarian can help set the right daily amount."
   },
 
   health: {
     overview:
-      "The Cão de Castro Laboreiro is a remarkably rustic, ancient livestock guardian with a typical lifespan of 11 to 14 years. Developed in the harsh, isolated mountains of northern Portugal, natural selection and working utility have endowed the breed with strong constitutional hardiness. Because the global population is relatively small, health management centers on maintaining genetic diversity, screening breeding stock for hip and elbow dysplasia, and managing risks common to large, deep-chested pastoral dogs, such as gastric dilatation-volvulus.",
+      "Very little published information exists on inherited disease in this breed, so no condition can be called common in it. The population is small: a study of maternal DNA lineages found that almost all sampled dogs shared one lineage, while a separate pedigree analysis of a conservation breeding group judged that group genetically healthy. Owners should treat it like any large, deep-chested working dog, watching joint health and the risk of bloat, and should ask breeders about health checks on both parents.",
 
-    commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the hip joints that can lead to osteoarthritis and hind-limb stiffness",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints leading to forelimb lameness and joint degeneration",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening emergency in deep-chested dogs where the stomach distends with gas and twists on its axis",
-      "Entropion and ectropion — eyelid margin abnormalities where the lid rolls inward or outward, potentially causing corneal irritation",
-      "Vector-borne and tick-borne diseases — infections encountered during rural brush and mountain patrols requiring diligent parasite prevention"
-    ],
+    commonConditions: [],
 
     preventiveCare: [
-      "Verify that breeding parents have official radiographic hip and elbow evaluation clearances.",
-      "Feed a balanced large-breed puppy diet to support slow, steady skeletal growth during the first 18 to 24 months.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Inspect the drop ears and skin weekly for wax buildup, burrs, ticks, or irritation.",
-      "Maintain consistent year-round parasite prevention against ticks, fleas, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine dental cleanings."
+      "Ask breeders whether both parents have had hip and elbow X-ray evaluations.",
+      "Feed growing puppies a large-breed diet and avoid rapid weight gain.",
+      "Feed two meals a day and avoid hard exercise right before and after eating, to lower the risk of bloat.",
+      "Keep up year-round tick, flea and worm prevention, especially for dogs that work outdoors.",
+      "Schedule a veterinary check-up at least once a year."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Clinical ophthalmic examination for eyelid and corneal health"
+      "Hip dysplasia X-ray evaluation before breeding",
+      "Elbow dysplasia X-ray evaluation before breeding",
+      "Eye examination by a veterinarian"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has powerful, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush the teeth several times a week with a dog toothpaste and have the mouth checked at routine vet visits.",
 
     earCare:
-      "Inspect the medium-sized triangular drop ears weekly for wax accumulation, moisture, or foul odor. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly without inserting swabs deep into the canal.",
+      "Check the hanging ears weekly and clean only the visible part with a vet-approved cleaner if they are dirty, drying them well afterwards.",
 
     skinCare:
-      "Part the dense, harsh coat weekly to inspect the skin for external parasites, cuts, or irritation. The coat lacks an undercoat and naturally sheds dirt, requiring minimal intervention beyond regular brushing."
+      "Part the coat during weekly brushing to look for ticks, cuts or sore patches, particularly after time in brush or long grass."
   },
 
   suitability: {
@@ -321,92 +299,81 @@ export const cao_de_castro_laboreiro: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Experienced dog owners familiar with large livestock guardian breeds and independent protective instincts",
-      "Rural or semi-rural properties with spacious, securely fenced yards or livestock acreage",
-      "Pastoral farmers seeking an authentic guardian for sheep, goats, or cattle against wild predators",
-      "Active outdoor households who value a loyal, serious companion for hiking and country walks",
-      "Owners who appreciate a quiet, undemanding companion indoors coupled with natural vigilance outdoors"
+      "Experienced owners who understand independent guardian breeds",
+      "Rural homes or smallholdings with secure fencing",
+      "Keepers of sheep, goats or cattle who need a livestock guardian",
+      "Active households that enjoy long country walks"
     ],
 
     notIdealFor: [
-      "First-time dog owners unprepared to manage an independent, territorial guardian dog",
-      "Apartment dwellers or dense urban households with shared walls and high foot traffic",
-      "Households without secure physical fencing at least six feet high",
-      "Owners who expect an indiscriminately outgoing dog that warmly welcomes unfamiliar visitors",
-      "Sedentary individuals unable to provide regular outdoor exercise and mental stimulation"
+      "First-time dog owners",
+      "Apartments or homes with close neighbours, because of its loud alarm bark",
+      "Homes without secure fencing",
+      "People who want a dog that greets every stranger warmly",
+      "Owners who cannot provide daily outdoor activity"
     ]
   },
 
   funFacts: [
-    "The breed takes its name from the mountain village of Castro Laboreiro in the municipality of Melgaço in the far north of Portugal, an isolated mountainous region reaching up to 1400 meters in altitude.",
-    "One of the breed's most prized and distinctive physical features is the 'mountain colour' (cor do monte), a brindle coat of mixed grey shades interspersed with reddish, pine-nut, or dark mahogany hairs that provide camouflage against granite boulders.",
-    "The breed possesses a very peculiar and unique alarm bark: it typically begins with a deep, muffled guttural sound, rises into low-pitched barking, and terminates in prolonged, piercing high-pitched tones.",
-    "Unlike most mountain flock guardians, the Cão de Castro Laboreiro has a short, harsh coat without an undercoat, which allows it to move with great agility through thorny mountain brambles without snagging.",
-    "The famous Portuguese writer Camilo Castelo Branco referenced the breed in his 1882 novella A Brasileira de Prazins, writing about the fierce, loyal dogs of Castro Laboreiro guarding mountain passes.",
-    "In traditional transhumance practices of northern Portugal, these dogs accompanied shepherds during seasonal migrations between the 'brandas' (high mountain summer villages) and the 'inverneiras' (sheltered valley winter settlements).",
-    "It is recognized as one of Portugal's most ancient indigenous dog breeds, celebrated for its historic role in defending mountain herds from the Iberian wolf."
+    "The breed is named after Castro Laboreiro, a mountain village in Melgaço, in the very north of Portugal.",
+    "Local breeders call the favoured brindle coat cor do monte, or 'mountain colour', and regard it as a trait of the breed's home region.",
+    "Its alarm bark is distinctive: it begins deep and climbs into long, high-pitched notes.",
+    "Unlike many mountain flock guardians, it has a short coat with no undercoat.",
+    "In a study of maternal DNA, about 95% of the Castro Laboreiro dogs sampled carried the same lineage, one never described before.",
+    "The breed is rare: only 96 dogs were registered with Portugal's national kennel club in 2003.",
+    "It was definitively recognised at international level in 1955."
   ],
 
   faq: [
     {
-      question: "What is a Cão de Castro Laboreiro?",
+      question: "What kind of dog is the Cão de Castro Laboreiro?",
       answer:
-        "The Cão de Castro Laboreiro is an ancient Portuguese livestock guardian dog originating from the northern mountains of Castro Laboreiro, known for its rustic agility, mountain-brindle coat, and dedicated protection of herds."
+        "It is a large Portuguese livestock and property guardian from the mountains around the village of Castro Laboreiro. It was kept to protect flocks from wolves and is still valued for that work in its homeland."
     },
     {
-      question: "What is the 'mountain colour' (cor do monte)?",
+      question: "How big does it get?",
       answer:
-        "The mountain colour is a distinctive brindle coat considered an ethnic hallmark of the breed. It features a base of blended grey shades overlaid with darker brindling and interspersed with pine-nut brown or reddish-mahogany hairs that blend into rugged mountain terrain."
+        "Males measure 58 to 64 cm at the withers and weigh 30 to 40 kg. Females measure 55 to 61 cm and weigh 25 to 35 kg."
     },
     {
-      question: "How tall and heavy is a Cão de Castro Laboreiro?",
+      question: "What is the 'mountain colour'?",
       answer:
-        "Adult males stand 58 to 64 cm at the withers and weigh 30 to 40 kg, while females stand 55 to 61 cm and weigh 25 to 35 kg, with a permissible variation of up to two centimetres for exceptional individuals."
+        "It is a grey brindle with black striping and warm hairs in pine-nut, reddish and mahogany tones. The striping is darkest on the head, back and shoulders and fades toward the belly and legs. Plain wolf-grey dogs are more common, and a small white chest spot is acceptable."
     },
     {
-      question: "What is unique about the Cão de Castro Laboreiro's bark?",
+      question: "Why is its bark so unusual?",
       answer:
-        "The breed has a characteristic, highly resonant alarm bark that begins with deep guttural tones, climbs through low barking, and culminates in a prolonged, ringing high-pitched cry that echoes across mountain valleys."
+        "Its warning bark starts on a low, deep note and rises into drawn-out, high-pitched sounds. Combined with its volume, this makes it carry a long way."
     },
     {
-      question: "Does the Cão de Castro Laboreiro have an undercoat?",
+      question: "Does it shed a lot or need much grooming?",
       answer:
-        "No. Unlike many other mountain livestock guardians, it has a short, dense, and weather-resistant outer coat without an undercoat, preventing brush from clinging during mountain patrols."
+        "Grooming is easy. The coat is short and has no undercoat, so a weekly brush is usually enough to keep loose hair under control."
     },
     {
-      question: "How long does a Cão de Castro Laboreiro usually live?",
+      question: "Is it a good family dog?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 11 to 14 years."
+        "With its own family it is loyal and gentle, and it can live well with children it knows when they are taught to respect it. Because it is large and protective, meetings with visiting children and adults should be supervised."
     },
     {
-      question: "Can a Cão de Castro Laboreiro live in an apartment?",
+      question: "Can it live in an apartment?",
       answer:
-        "No. Due to its large size, territorial vigilance, and carrying alarm bark, the breed is not suited to apartment living and thrives best in a rural or suburban home with a securely fenced yard."
+        "It is not a good match for apartment life. It needs secure outdoor space to watch over, and its loud warning bark is hard on close neighbours."
     },
     {
-      question: "Is the Cão de Castro Laboreiro good with children and family?",
+      question: "Is it easy to train?",
       answer:
-        "Within its own household, it is calm, deeply affectionate, and protective of family members, including respectful children; however, because of its strength and guardian instincts, interactions with visiting children should always be supervised."
+        "It learns readily but was bred to make its own decisions while guarding. Patient, reward-based training and early socialisation work far better than harsh methods."
     },
     {
-      question: "How much exercise does this dog need each day?",
+      question: "Are there known health problems?",
       answer:
-        "The breed requires 60 to 90 minutes of daily activity, including purposeful perimeter patrols, long hikes, and mental scentwork to satisfy its working nature."
+        "Breed-specific health data is limited, so no single disease is known to be common in it. Like other large dogs, it benefits from hip and elbow checks on breeding dogs and sensible feeding to reduce the risk of bloat."
     },
     {
-      question: "Is the Cão de Castro Laboreiro easy to train?",
+      question: "How rare is the breed?",
       answer:
-        "It is intelligent and loyal, but has been bred for centuries to make independent protective decisions; it requires patient, reward-based training and consistent leadership rather than harsh or repetitive drills."
-    },
-    {
-      question: "Does the breed shed a lot, and how is it groomed?",
-      answer:
-        "Shedding is moderate throughout the year and is easily managed with weekly brushing; because it lacks an undercoat, coat maintenance is simpler than for long-haired mountain guardians."
-    },
-    {
-      question: "What health concerns are known in the breed?",
-      answer:
-        "The breed is robust and rustic, with primary health priorities centering on hip dysplasia, elbow dysplasia, eyelid abnormalities (entropion/ectropion), and bloat (gastric dilatation-volvulus)."
+        "It is uncommon even in Portugal, and few dogs live outside the country. Anyone looking for one should seek breeders who register their dogs with a recognised kennel club."
     }
   ],
 
@@ -415,6 +382,10 @@ export const cao_de_castro_laboreiro: Breed = {
     "fci-cao-de-castro-laboreiro-nomenclature",
     "cpc-cao-de-castro-laboreiro-standard",
     "ukc-castro-laboreiro-dog-standard",
+    "van-asch-2005-portuguese-dog-mtdna",
+    "grupo-lobo-castro-laboreiro-genealogical-analysis",
+    "royal-canin-castro-laboreiro-dog",
+    "the-dog-api",
     "wikimedia-castro-laboreiro-entalada-maria-lemos",
     "wikimedia-castrolaboreiro1-canarian"
   ],
@@ -425,35 +396,26 @@ export const cao_de_castro_laboreiro: Breed = {
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Canis lupus familiaris is the domestic-dog name used across the catalog; breed standards do not state it."
     },
 
     alternateNames: {
-      reliability: "official_standard",
+      reliability: "reliable_source",
       sources: [
-        {
-          id: "fci-cao-de-castro-laboreiro-official-standard",
-          role: "verified",
-          locator: "Standard heading: CÃO DE CASTRO LABOREIRO (Castro Laboreiro Dog)"
-        },
         {
           id: "fci-cao-de-castro-laboreiro-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: CÃO DE CASTRO LABOREIRO (170), Chien de Castro Laboreiro, Castro-Laboreiro-Hund, Perro de Castro Laboreiro"
+          locator: "Breed names: Castro Laboreiro Dog (EN), Chien de Castro Laboreiro (FR), Castro-Laboreiro-Hund (DE), Perro de Castro Laboreiro (ES)"
         },
         {
-          id: "cpc-cao-de-castro-laboreiro-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Denominação oficial: Cão de Castro Laboreiro"
-        },
-        {
-          id: "ukc-castro-laboreiro-dog-standard",
-          role: "verified",
-          locator: "Breed name: Castro Laboreiro Dog, Portuguese Cattle Dog, Portuguese Watchdog"
+          locator: "breed.alt_names: Portuguese Cattle Dog, Portuguese Watchdog"
         }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified across FCI Standard No. 170, FCI Nomenclature, CPC, and UKC."
+      verifiedOn: "2026-11-17",
+      note:
+        "The four language names come from the FCI nomenclature. 'Portuguese Cattle Dog' and 'Portuguese Watchdog' are informal English names from The Dog API and are not used by FCI or UKC."
     },
 
     group: {
@@ -462,27 +424,22 @@ export const cao_de_castro_laboreiro: Breed = {
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 2.2 Molossoid breeds, Mountain type, without working trial"
+          locator: "FCI-CLASSIFICATION: Group 2, Section 2.2 Molossoid breeds, Mountain type. Without working trial."
         },
         {
           id: "fci-cao-de-castro-laboreiro-nomenclature",
           role: "verified",
-          locator: "Group 2, Section 2.2 Mountain type, without working trial"
-        },
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "verified",
-          locator: "Grupo 2 Cães de Tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha e Boieiros Suíços, Secção 2.2 Molossóides, Tipo Montanha"
+          locator: "Group 2, Section 2.2 Mountain type"
         },
         {
           id: "ukc-castro-laboreiro-dog-standard",
-          role: "verified",
+          role: "cited",
           locator: "Guardian Dog Group"
         }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "FCI Group 2, Section 2.2, without working trial. UKC places the breed in its Guardian Dog Group. The Dog API lists 'Working', which no registry checked here uses for this breed."
     },
 
     origin: {
@@ -491,20 +448,15 @@ export const cao_de_castro_laboreiro: Breed = {
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "verified",
-          locator: "ORIGIN: Portugal; BRIEF HISTORICAL SUMMARY: Castro Laboreiro village, Melgaço municipality, Peneda and Soajo mountains"
-        },
-        {
-          id: "fci-cao-de-castro-laboreiro-nomenclature",
-          role: "verified",
-          locator: "Country of origin: Portugal"
+          locator: "ORIGIN: Portugal; BRIEF HISTORICAL SUMMARY"
         },
         {
           id: "cpc-cao-de-castro-laboreiro-standard",
           role: "verified",
-          locator: "Origem: Portugal (Castro Laboreiro, Melgaço)"
+          locator: "Origin; Brief historical summary"
         }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note: null
     },
 
@@ -514,22 +466,58 @@ export const cao_de_castro_laboreiro: Breed = {
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator: "UTILIZATION; BRIEF HISTORICAL SUMMARY; GENERAL APPEARANCE; IMPORTANT PROPORTIONS; BEHAVIOUR/TEMPERAMENT; HEAD; COAT"
         },
         {
           id: "cpc-cao-de-castro-laboreiro-standard",
           role: "verified",
-          locator: "Resumo histórico, aspecto geral, proporções importantes e comportamento"
-        },
-        {
-          id: "ukc-castro-laboreiro-dog-standard",
-          role: "cited",
-          locator: "History and Characteristics"
+          locator: "Utilization; Behaviour/temperament; Colour"
         }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
+      note: "Written in original words from the FCI standard No. 170 as also published by the Portuguese kennel club."
+    },
+
+    "overview.history": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "fci-cao-de-castro-laboreiro-official-standard",
+          role: "verified",
+          locator: "BRIEF HISTORICAL SUMMARY: one of the oldest Iberian breeds; Castro Laboreiro, Melgaço; up to 1400 m; Minho, Trancoso, Laboreiro and Mouro rivers"
+        },
+        {
+          id: "fci-cao-de-castro-laboreiro-nomenclature",
+          role: "verified",
+          locator: "Date of definitive acceptance by the FCI: 24.05.1955"
+        },
+        {
+          id: "van-asch-2005-portuguese-dog-mtdna",
+          role: "verified",
+          locator: "Background: secluded, remote region not easily accessed until recent times; Results: 95% frequency of a single new A haplotype"
+        }
+      ],
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesized in original prose from FCI Standard No. 170, CPC, and UKC official records."
+        "Earlier claims about Camilo Castelo Branco's 1882 novella and transhumance between brandas and inverneiras were removed because the cited CPC page does not contain them and no primary source was checked."
+    },
+
+    "physical.sizeCategory": {
+      reliability: "estimate",
+      sources: [
+        {
+          id: "fci-cao-de-castro-laboreiro-official-standard",
+          role: "cited",
+          locator: "HEIGHT AND WEIGHT"
+        },
+        {
+          id: "royal-canin-castro-laboreiro-dog",
+          role: "cited",
+          locator: "Key facts: Size category Large"
+        }
+      ],
+      verifiedOn: null,
+      note: "Size category is an editorial label based on the standard's height and weight."
     },
 
     physical: {
@@ -538,22 +526,22 @@ export const cao_de_castro_laboreiro: Breed = {
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS (7:6 length to height), HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "IMPORTANT PROPORTIONS; HEAD; EYES; EARS; TAIL; COAT (Hair, Colour)"
         },
         {
           id: "cpc-cao-de-castro-laboreiro-standard",
           role: "verified",
-          locator: "Morfologia geral, cabeça, corpo, membros, pelagem e cores"
+          locator: "Colour; Hair; characteristic alarm bark"
         },
         {
           id: "ukc-castro-laboreiro-dog-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
+          role: "cited",
+          locator: "Coat: short, thick, coarse, weather resistant, no undercoat"
         }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Conformation, proportions, lack of undercoat, mountain colour brindle, and distinctive features follow official standards."
+        "Colours limited to the two the standard names (wolf colour, mountain colour). 'Dark brindle' and the full Dog API colour list were removed as not breed-specific."
     },
 
     "physical.height": {
@@ -562,22 +550,27 @@ export const cao_de_castro_laboreiro: Breed = {
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "verified",
-          locator: "HEIGHT AND WEIGHT: Height at withers: Males: 58 - 64 cm (with a tolerance of + 2 cm). Females: 55 - 61 cm (with a tolerance of + 2 cm)."
+          locator: "HEIGHT AND WEIGHT: Males 58-64 cm, Females 55-61 cm, tolerance +2 cm"
         },
         {
           id: "cpc-cao-de-castro-laboreiro-standard",
           role: "verified",
-          locator: "Altura ao garrote: Machos: 58 – 64 cm (+2 cm). Fêmeas: 55 – 61 cm (+2 cm)."
+          locator: "Height at withers: Males 58-64 cm; Females 55-61 cm (+2 cm)"
         },
         {
           id: "ukc-castro-laboreiro-dog-standard",
-          role: "verified",
-          locator: "Height at withers: Males from 23 to 25.5 inches (58 to 64 cm); Females from 21.5 to 24 inches (55 to 61 cm)"
+          role: "conflicting",
+          locator: "Height: Males 21½ to 23½ inches; Females 20½ to 22½ inches"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric: 58-63 / 55-60"
         }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Preserved in published unit of centimetres (58–64 cm for males, 55–61 cm for females) exactly as specified in the official FCI Standard No. 170 and CPC standard."
+        "Stored in centimetres as published by the FCI standard, which allows +2 cm. The 2006 UKC standard gives smaller ranges in inches; The Dog API's ranges end 1 cm lower."
     },
 
     "physical.weight": {
@@ -586,72 +579,55 @@ export const cao_de_castro_laboreiro: Breed = {
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "verified",
-          locator: "Weight: Males: 30 - 40 Kg. Females: 25 - 35 Kg."
+          locator: "HEIGHT AND WEIGHT: Males 30-40 kg, Females 25-35 kg"
         },
         {
           id: "cpc-cao-de-castro-laboreiro-standard",
           role: "verified",
-          locator: "Peso: Machos: 30 – 40 kg. Fêmeas: 25 – 35 kg."
-        },
-        {
-          id: "ukc-castro-laboreiro-dog-standard",
-          role: "verified",
-          locator: "Weight: Males from 66 to 88 pounds (30-40 kg); Females from 55 to 77 pounds (25-35 kg)"
+          locator: "Weight: Males 30-40 kg; Females 25-35 kg"
         }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Preserved in published unit of kilograms (30–40 kg for males, 25–35 kg for females) exactly as specified in the official FCI and CPC standards."
+      verifiedOn: "2026-11-17",
+      note: "Stored in kilograms as published. The UKC standard gives no weight."
     },
 
     "physical.lifespanYears": {
-      reliability: "reliable_source",
+      reliability: "unverified",
       sources: [
         {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "verified",
-          locator: "Perfil da raça e longevidade (11-14 anos)"
+          id: "royal-canin-castro-laboreiro-dog",
+          role: "cited",
+          locator: "Key facts: average life expectancy 11-13 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 11 - 13 years"
         }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Supported by Portuguese breed documentation and actuarial profiles."
+      verifiedOn: null,
+      note:
+        "No kennel club, breed club or scientific source checked gives a lifespan. The earlier 11-14 years attributed to the CPC page was removed; that page has no lifespan."
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
-          role: "verified",
-          locator: "HAIR: Short on the body (approx. 5 cm); without undercoat. Thick, resistant, and somewhat harsh to touch."
-        },
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "verified",
-          locator: "Manutenção do pêlo e ausência de sub-pêlo"
+          role: "cited",
+          locator: "COAT: short, no undercoat"
         }
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "The coat lacks an undercoat, resulting in moderate regular shedding managed by weekly brushing."
+      verifiedOn: null,
+      note: "Editorial estimate from a short single coat; no source states a shedding level."
     },
 
     "physical.droolingLevel": {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-cao-de-castro-laboreiro-official-standard",
-          role: "verified",
-          locator: "Lips: Well cut, medium and inconspicuous commissures; neither fleshy nor pendulous"
-        },
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "verified",
-          locator: "Lábios: Bem rasgados, nem carnudos nem pendentes"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: "Tight, non-pendulous lips result in low drooling."
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Editorial estimate for a dry-mouthed, lightly built guardian; no source states a drooling level."
     },
 
     "temperament.traits": {
@@ -660,20 +636,20 @@ export const cao_de_castro_laboreiro: Breed = {
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Loyal and obedient to family, hostile towards predators; severe expression, characteristic alarm bark"
+          locator: "BEHAVIOUR/TEMPERAMENT; EYES (somewhat severe expression)"
         },
         {
           id: "cpc-cao-de-castro-laboreiro-standard",
           role: "verified",
-          locator: "Comportamento e carácter: Companheiro leal e dócil para com os seus, guarda vigilante, latido característico"
+          locator: "Temperament: loyal and docile with family, vigilant sentinel, some hostility but not quarrelsome, characteristic alarm bark"
         },
         {
           id: "ukc-castro-laboreiro-dog-standard",
-          role: "verified",
-          locator: "Characteristics: Loyal, obedient, vigilant protector, distinct rising bark"
+          role: "cited",
+          locator: "Characteristics: loyal, obedient herd guardian; sometimes hostile but not aggressive"
         }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note: null
     },
 
@@ -683,253 +659,101 @@ export const cao_de_castro_laboreiro: Breed = {
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "cited",
-          locator: "Temperament and guarding characteristics"
-        },
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "cited",
-          locator: "Comportamento e aptidões naturais"
+          locator: "BEHAVIOUR/TEMPERAMENT"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented guardian temperament and working drive."
+      note: "Editorial 1-5 scores informed by the standard's description of a guardian temperament."
     },
 
     care: {
       reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: "General care advice for large, independent livestock guardian breeds."
+    },
+
+    "care.grooming": {
+      reliability: "general_guidance",
       sources: [
         {
-          id: "cpc-cao-de-castro-laboreiro-standard",
+          id: "royal-canin-castro-laboreiro-dog",
           role: "cited",
-          locator: "Cuidados gerais, espaço e maneio"
+          locator: "Key facts: requires minimal grooming"
         },
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "cited",
-          locator: "Utilização como cão de guarda e condução de gado"
+          locator: "COAT: short, no undercoat"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active flock guardian management with single-coat care protocols."
-    },
-
-    "care.exercise.level": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-cao-de-castro-laboreiro-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Guard dog, watch dog and livestock guarding dog with great mountain agility"
-        },
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "verified",
-          locator: "Aptidões físicas e necessidade de movimento"
-        }
-      ],
-      verifiedOn: "2026-11-08",
       note: null
     },
 
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
-      sources: [
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "cited",
-          locator: "Actividade física diária do cão de montanha"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic mountain livestock guardian."
+      note: "Editorial estimate for an active working guardian; no source gives minutes per day."
     },
 
-    "care.livingEnvironment.apartmentSuitable": {
+    "care.livingEnvironment": {
       reliability: "estimate",
       sources: [
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "cited",
-          locator: "Large mountain livestock guardian with piercing alarm bark"
-        },
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "cited",
-          locator: "Necessidade de espaço amplo e ar livre"
+          locator: "UTILIZATION; BRIEF HISTORICAL SUMMARY (mountain region up to 1400 m)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that high vigilance, territorial instincts, and carrying bark make apartment living unsuitable."
-    },
-
-    "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "verified",
-          locator: "Ambiente ideal: casa de campo ou quinta com terreno vedado"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: null
-    },
-
-    "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-cao-de-castro-laboreiro-official-standard",
-          role: "verified",
-          locator: "HAIR: Dense, resistant, somewhat harsh coat adapted to mountain weather up to 1400m altitude"
-        },
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "verified",
-          locator: "Adaptação ao clima rigoroso de montanha"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: null
-    },
-
-    "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "cited",
-          locator: "Comportamento independente e vigilância"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Guardian dogs tolerate moderate alone time when given a secure territory to patrol, but require regular family contact."
+      note: "Editorial judgement from the breed's size, guarding role, alarm bark and mountain origin."
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "cited",
-          locator: "Alimentação e maneio do cão de grande porte"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for large active working and guardian breeds."
+      note: "General feeding advice for large, deep-chested dogs; not breed-specific."
     },
 
-    "nutrition.feedingFrequency": {
+    health: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "cited",
-          locator: "Frequência e divisão dos alimentos diários"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "General preventive care for large working dogs; no breed-specific screening scheme was found."
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "cpc-cao-de-castro-laboreiro-standard",
+          id: "van-asch-2005-portuguese-dog-mtdna",
           role: "verified",
-          locator: "Saúde, rusticidade ancestral e longevidade"
+          locator: "Results: Castro Laboreiro Dog showed a 95% frequency of one new A haplotype"
+        },
+        {
+          id: "grupo-lobo-castro-laboreiro-genealogical-analysis",
+          role: "verified",
+          locator: "Genealogical analysis of 168 animals found a genetically healthy population"
+        },
+        {
+          id: "royal-canin-castro-laboreiro-dog",
+          role: "cited",
+          locator: "No breed-specific health conditions listed"
         }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Documents high overall constitutional hardiness alongside routine orthopedic screening programs."
+        "The earlier record listed hip and elbow dysplasia, GDV and entropion/ectropion as common conditions verified by the CPC. The CPC page has no health information and no breed-specific prevalence data was found, so commonConditions is now empty."
     },
 
     "health.commonConditions": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "verified",
-          locator: "Controlo de displasia coxofemoral e do cotovelo, e prevenção de torção gástrica"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Identifies documented breed considerations without using prohibited registry labels in prose."
-    },
-
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "cited",
-          locator: "Prevenção veterinária e cuidados com grandes portes"
-        }
-      ],
+      reliability: "unavailable",
+      sources: [],
       verifiedOn: null,
-      note: "Field hygiene protocol tailored to large mountain guardians."
-    },
-
-    "health.recommendedScreenings": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "verified",
-          locator: "Exames de despiste de displasia da anca e do cotovelo"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Pre-breeding evaluations recommended by the national breed authority."
-    },
-
-    "health.dentalCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-cao-de-castro-laboreiro-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete, powerful scissor bite"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
-    },
-
-    "health.earCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-cao-de-castro-laboreiro-official-standard",
-          role: "cited",
-          locator: "Ears: medium size, triangular, hanging close to the head"
-        }
-      ],
-      verifiedOn: null,
-      note: "Ear maintenance protocol for drop ears."
-    },
-
-    "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-cao-de-castro-laboreiro-official-standard",
-          role: "cited",
-          locator: "Skin: smooth, pigmented, without loose dewlap"
-        }
-      ],
-      verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: "No source checked documents any condition as common in this breed."
     },
 
     suitability: {
@@ -938,17 +762,11 @@ export const cao_de_castro_laboreiro: Breed = {
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "cited",
-          locator: "Working temperament and guarding utility"
-        },
-        {
-          id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "cited",
-          locator: "Idoneidade para a guarda e família"
+          locator: "UTILIZATION; BEHAVIOUR/TEMPERAMENT"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability flags and lists reflect editorial evaluations of livestock guardian instincts and living space needs."
+      note: "Editorial judgement based on the breed's guardian role and temperament."
     },
 
     funFacts: {
@@ -957,42 +775,52 @@ export const cao_de_castro_laboreiro: Breed = {
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Castro Laboreiro village, mountain colour (cor do monte), rising alarm bark, lack of undercoat"
+          locator: "BRIEF HISTORICAL SUMMARY; COAT; COLOUR"
         },
         {
           id: "cpc-cao-de-castro-laboreiro-standard",
           role: "verified",
-          locator: "História, transumância entre brandas e inverneiras, e literatura de Camilo Castelo Branco"
+          locator: "Colour (mountain colour as ethnic trait); characteristic alarm bark"
+        },
+        {
+          id: "fci-cao-de-castro-laboreiro-nomenclature",
+          role: "verified",
+          locator: "Date of definitive acceptance: 24.05.1955"
+        },
+        {
+          id: "van-asch-2005-portuguese-dog-mtdna",
+          role: "verified",
+          locator: "Background (96 Castro Laboreiro registrations at the Portuguese Kennel Club in 2003); Results (95% one new A haplotype)"
         }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified historical and functional facts written without prohibited names."
+      verifiedOn: "2026-11-17",
+      note: null
     },
 
     faq: {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
         {
           id: "fci-cao-de-castro-laboreiro-official-standard",
-          role: "verified",
-          locator: "Origin, size (58-64 cm / 55-61 cm), weight (30-40 kg / 25-35 kg), coat, and colours"
+          role: "cited",
+          locator: "UTILIZATION; HEIGHT AND WEIGHT; COLOUR; COAT"
         },
         {
           id: "cpc-cao-de-castro-laboreiro-standard",
-          role: "verified",
-          locator: "Perguntas frequentes, cor do monte, latido, longevidade e cuidados"
+          role: "cited",
+          locator: "Characteristic alarm bark"
         },
         {
-          id: "ukc-castro-laboreiro-dog-standard",
-          role: "verified",
-          locator: "General characteristics and temperament"
+          id: "van-asch-2005-portuguese-dog-mtdna",
+          role: "cited",
+          locator: "Population size"
         }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: null,
       note:
-        "FAQ answers synthesize verified standards and parent-club guidance without naming registries in prose."
+        "Size, colour, coat and bark answers follow the FCI standard. Family, apartment, training and health answers are editorial guidance, so the FAQ as a whole is labelled estimate."
     }
   },
 
-  updatedOn: "2026-11-08"
+  updatedOn: "2026-11-17"
 };

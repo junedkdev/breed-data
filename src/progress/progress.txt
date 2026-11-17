@@ -134,9 +134,9 @@
 131:beagle-harrier - CG
 132:treeing_walker_coonhound - CG
 133:segugio_italiano_a_pelo_raso - CG
+134:cao_de_castro_laboreiro - CG
+135:american_eskimo_dog - CG
 
-134:cao_de_castro_laboreiro - C
-135:american_eskimo_dog - C
 136:finnish_spitz - C
 137:transylvanian_hound - C
 138:hamiltonstovare - C
@@ -210,8 +210,8 @@
 206:cao_da_serra_de_aires - C
 207:shikoku_ken - C
 208:american_hairless_terrier - C
+209:fox_terrier,_wire - C
 
-209:fox_terrier,_wire
 210:polish_lowland_sheepdog
 211:south_russian_ovcharka
 212:border_collie

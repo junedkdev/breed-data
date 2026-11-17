@@ -213,6 +213,7 @@ import { japanese_spitz } from "./japanese_spitz";
 import { cao_da_serra_de_aires } from "./cao_da_serra_de_aires";
 import { shikoku_ken } from "./shikoku_ken";
 import { american_hairless_terrier } from "./american_hairless_terrier";
+import { fox_terrier_wire } from "./fox_terrier_wire";
 
 
 export const breedData: readonly Breed[] = [
@@ -425,4 +426,5 @@ export const breedData: readonly Breed[] = [
   cao_da_serra_de_aires,
   shikoku_ken,
   american_hairless_terrier,
+  fox_terrier_wire,
 ];
