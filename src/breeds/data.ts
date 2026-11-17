@@ -207,6 +207,12 @@ import { welsh_springer_spaniel } from "./welsh_springer_spaniel";
 import { french_spaniel } from "./french_spaniel";
 import { lakeland_terrier } from "./lakeland_terrier";
 import { portuguese_pointer } from "./portuguese_pointer";
+import { uruguayan_cimarron } from "./uruguayan_cimarron";
+import { west_siberian_laika } from "./west_siberian_laika";
+import { japanese_spitz } from "./japanese_spitz";
+import { cao_da_serra_de_aires } from "./cao_da_serra_de_aires";
+import { shikoku_ken } from "./shikoku_ken";
+import { american_hairless_terrier } from "./american_hairless_terrier";
 
 
 export const breedData: readonly Breed[] = [
@@ -413,4 +419,10 @@ export const breedData: readonly Breed[] = [
   french_spaniel,
   lakeland_terrier,
   portuguese_pointer,
+  uruguayan_cimarron,
+  west_siberian_laika,
+  japanese_spitz,
+  cao_da_serra_de_aires,
+  shikoku_ken,
+  american_hairless_terrier,
 ];

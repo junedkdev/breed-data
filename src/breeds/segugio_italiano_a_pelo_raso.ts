@@ -3,23 +3,24 @@ import type { Breed } from "../schema/breed.types";
 export const segugio_italiano_a_pelo_raso: Breed = {
   slug: "segugio-italiano-a-pelo-raso",
   name: "Segugio Italiano a Pelo Raso",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
-    "Short-haired Italian Hound",
     "Italian Short-Haired Segugio",
+    "Short-haired Italian Hound",
     "Chien Courant Italien à Poil Ras",
     "Kurzhaariger Italienischer Laufhund",
     "Sabueso Italiano de Pelo Raso",
-    "Segugio Italiano a Pelo Liscio"
+    "Segugio Italiano",
+    "Italian Hound",
   ],
 
   group:
-    "Scenthounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial; also classified in the Scenthound group)",
+    "Scent Hounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial)",
 
   origin: {
     country: "Italy",
-    region: "Italian Peninsula"
+    region: null,
   },
 
   images: [
@@ -27,7 +28,8 @@ export const segugio_italiano_a_pelo_raso: Breed = {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Segugio_italiano_nero_focato.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Segugio_italiano_nero_focato.jpg",
       title: "Segugio italiano nero focato.jpg",
-      description: "A black and tan Short-haired Italian Hound (Segugio italiano a pelo raso).",
+      description:
+        "A black-and-tan Short-haired Italian Hound (Segugio Italiano a Pelo Raso).",
       creator: "Curzio Cavicchioli",
       uploader: "Curzio Cavicchioli",
       capturedOn: "2024-03-30",
@@ -36,16 +38,17 @@ export const segugio_italiano_a_pelo_raso: Breed = {
       height: 3072,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Curzio Cavicchioli, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Segugio_italiano_nero_focato.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Curzio Cavicchioli, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Segugio_italiano_nero_focato.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
+      metadataCheckedOn: "2026-11-17",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Segugio_italiano_a_pelo_raso_aka_Short-haired_Italian_Hound.JPG",
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Segugio_italiano_a_pelo_raso_aka_Short-haired_Italian_Hound.JPG",
       title: "Segugio italiano a pelo raso aka Short-haired Italian Hound.JPG",
-      description: "A female red-fawn Short-haired Italian Hound (Segugio italiano a pelo raso).",
+      description:
+        "A female red-fawn Short-haired Italian Hound (Segugio Italiano a Pelo Raso).",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2013-12-13",
@@ -54,15 +57,16 @@ export const segugio_italiano_a_pelo_raso: Breed = {
       height: 477,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Segugio_italiano_a_pelo_raso_aka_Short-haired_Italian_Hound.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Segugio_italiano_a_pelo_raso_aka_Short-haired_Italian_Hound.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
+      metadataCheckedOn: "2026-11-17",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Segugioitalianopelorasofulvo.JPG",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Segugioitalianopelorasofulvo.JPG",
       title: "Segugioitalianopelorasofulvo.JPG",
-      description: "A fawn male Short-haired Italian Hound (Segugio italiano a pelo raso).",
+      description:
+        "A fawn male Short-haired Italian Hound (Segugio Italiano a Pelo Raso).",
       creator: "Cyberjobe",
       uploader: "Cyberjobe",
       capturedOn: "2006-10-08",
@@ -73,109 +77,103 @@ export const segugio_italiano_a_pelo_raso: Breed = {
       attribution:
         "Photo by Cyberjobe, Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:Segugioitalianopelorasofulvo.JPG.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
-    }
+      metadataCheckedOn: "2026-11-17",
+    },
   ],
 
   overview: {
     summary:
-      "An ancient, medium-sized Italian scenthound covered in a dense, smooth horse-hair coat, renowned for its square silhouette, dry sinewy build, remarkable endurance across diverse terrains, and resonant ringing bark on the trail.",
+      "The Segugio Italiano a Pelo Raso is a medium-sized, square-proportioned Italian scent hound dressed in a dense, glassy-smooth coat of horse-hair texture, prized for tireless galloping stamina across plains and mountains and a ringing, musical voice on the trail.",
 
     description:
-      "The Segugio Italiano a Pelo Raso is an elegant, ancient Italian hound possessing an athletic, squarely proportioned body where the height at the withers equals the length of the torso. Built with lean musculature and dry bone structure, the hound combines speed with relentless endurance. Its short, smooth coat has a dense, firm horse-hair texture that lies tight against fine skin, presenting either in solid fawn or rich black and tan. The head is elongated and aristocratic, featuring divergent upper cranial-facial planes, a slightly convex nasal bridge, dark expressive eyes with a gentle earnest gaze, and triangular dropped ears with pointed tips that turn inwards. In domestic life, the hound is quiet, calm, and discreet, but in the field it transforms into an impassioned, tireless tracker with an extraordinary olfactory capacity and a melodious, bell-like hunting voice.",
+      "Constructed on a balanced square frame where height at the withers matches the length of the body, the Segugio Italiano a Pelo Raso combines well-developed bone with dry, lean musculature and no trace of superfluous fat. Its tight, fine skin is covered all over by a dense, close-lying short coat with a firm horse-hair feel, seen in shades of solid fawn or black and tan. The long, clean-cut head displays divergent upper cranial-facial axes, a gently convex nasal bridge, large dark-ochre eyes with black rims, and flat triangular ears set at eye level that twist inward toward narrow tips. Reserved and unassuming at home, this hound works in the field with bold enthusiasm, keen scenting skill, and a clear, resonant voice whether trailing solo, as a brace, or in a pack.",
 
     history:
-      "The lineage of the Italian hound reaches back to classical antiquity, descending from ancient sight and tracking hounds of the Mediterranean basin brought by Phoenician and Greek voyagers to Italy and crossed with indigenous Roman dogs. Hounds bearing identical anatomical features—a square outline, convex muzzle, and folded triangular drop ears—are immortalized in classical Greco-Roman sculptures, including renowned statues of Diana the Huntress in the Vatican and Capitoline museums. During the Renaissance, smooth-coated hounds were celebrated across aristocratic estates in Tuscany, Lombardy, and Emilia-Romagna for driven hunting of wild boar and hare, as depicted in a prominent seventeenth-century canvas at the Castle of Borso d'Este. Systematic breed registration began in the early twentieth century, culminating in comprehensive field and conformation standards that established the smooth-coated variety as one of Italy's most cherished working hounds.",
+      "The smooth-coated Italian Segugio descends from ancient running and scenting hounds of Pharaonic Egypt that Phoenician traders carried around the Mediterranean coast to the Italian peninsula. Sculptures of Diana the Huntress in the Naples Museum and the Vatican Museum depict hounds of the exact same stature, square outline, and hanging ears beside the goddess, and skeletal remains from a Lombard necropolis near Verona confirm the type's continuity through the early Middle Ages. By the Renaissance, smooth-coated Segugi were central to noble hunting kennels, with a circa-1600 painting at the Castle of Borso d'Este portraying a hound considered the model of the modern breed. Preserved across Italy for classic four-phase hare and wild-boar hunting, the breed remains one of the country's most dedicated working scenthounds.",
 
     originalPurpose:
-      "Specialized tracking, driving, and hunting of European hare and wild boar across varied mountain, woodland, and plain landscapes, working either solo or in small matched packs.",
+      "Tracking and driving hare and wild boar across plains, hills, and rugged mountain terrain, working alone, in a pair, or in a pack.",
 
     currentRoles: [
-      "Traditional tracking and driving hunting hound for hare and wild boar",
-      "Field trial and blood-tracking competitor",
-      "Active outdoor companion for rural sporting households",
-      "Search, rescue, and scent detection dog"
-    ]
+      "Scent hunting and trailing hare and wild boar",
+      "Working scent-hound field trial competitor",
+      "Mantrailing, blood-tracking, and nosework dog",
+      "Active outdoor companion for rural households",
+    ],
   },
 
   physical: {
-    sizeCategory: "Medium",
+    sizeCategory: "Medium-sized, square-proportioned smooth-coated scent hound",
 
     height: {
       unit: "cm",
       male: {
         min: 52,
-        max: 58
+        max: 58,
       },
       female: {
         min: 48,
-        max: 56
-      }
+        max: 56,
+      },
     },
 
     weight: {
       unit: "kg",
       male: {
         min: 20,
-        max: 28
+        max: 28,
       },
       female: {
         min: 18,
-        max: 26
-      }
+        max: 26,
+      },
     },
 
     lifespanYears: {
-      min: 11,
-      max: 13
+      min: 10,
+      max: 14,
     },
 
     coatType:
-      "Short hair all over the body, dense, close-fitting, and uniformly smooth with a firm horse-hair texture; a few sparse, coarse hairs may occasionally appear on the torso, muzzle, and tail without forming a fringe.",
+      "Short, dense, close-fitting, and uniformly smooth coat with a glassy horse-hair texture across the entire body; a few scattered coarse hairs on the trunk, muzzle, or limbs are permitted.",
 
-    coatLength: "Short",
+    coatLength: "Short, dense, and close-lying.",
 
     coatColors: [
-      "Solid fawn ranging from deep red-fawn to washed-out fawn",
-      "Black and tan (nero focato) with tan markings on the muzzle, eyebrows, chest, lower limbs, and perineum",
-      "Fawn with white markings (discreet white star on the chest, white on muzzle, skull, neck, pasterns, hocks, feet, or tail tip)",
-      "Black and tan with a white chest star (tricolour)"
+      "Solid fawn across all shades, from deep red-fawn to pale washed-out fawn",
+      "Black and tan (black coat with tan markings on the muzzle, eyebrows, chest, lower legs from carpus and hock to the feet, and perineum)",
+      "Fawn with limited white markings on the muzzle, skull, chest star, neck, pasterns, hocks, feet, or tail tip (minimal white is preferred)",
+      "Tricolour (black and tan with a white star on the chest)",
     ],
 
-    sheddingLevel:
-      "Low to moderate year-round shedding; the short smooth coat sheds fine hairs that are easily managed with regular brushing",
+    sheddingLevel: null,
 
-    droolingLevel:
-      "Low; the lips are thin, lean, and tightly fitting with dark margins",
+    droolingLevel: null,
 
     distinctiveFeatures: [
-      "Squarely built body outline where height at the withers equals the length of the body from point of shoulder to point of buttock",
-      "Elongated, dry head with divergent cranial-facial axes and a slightly convex nasal bridge (Roman nose)",
-      "Short, dense, close-fitting smooth coat with a firm horse-hair texture all over the body",
-      "Solid fawn coloration ranging from deep red to washed-out fawn, or black and tan with clearly defined markings",
-      "Thin, lean, closely fitting lips without pendulous flews or looseness",
-      "Large, expressive, dark ochre or brown eyes with darkly pigmented rims and a gentle, earnest expression",
-      "Wide, triangular drop ears set at eye level, hanging flat and turning inwards with pointed tips",
-      "Muscular, lean neck resembling a truncated cone, free from throatiness or dewlap",
-      "Deep chest reaching to the elbows with well-sprung ribs and a moderately tucked-up abdomen",
-      "High-set tail carried curved like a sabre in motion, uniform in thickness and tapering to a fine tip reaching nearly to the hock",
-      "Compact, oval hare-like feet with tough, black leather-like pads and strong, curved black nails",
-      "Galloping gait in the field with great speed and lightfooted endurance"
-    ]
+      "Square body proportions in which height at the withers equals body length, with chest depth reaching half the withers height",
+      "Height at the withers of 52 to 58 cm in males and 48 to 56 cm in females (with a 2 cm tolerance above or below only for excellent individuals) and weight of 18 to 28 kg",
+      "Dolichocephalic head with divergent upper cranial-facial axes and a nasal bridge measuring half the total head length",
+      "Slightly convex nasal bridge (Roman nose) ending in a large, black, well-opened nose",
+      "Fine, lean, close-fitting lips with black rims and a complete scissor bite",
+      "Large, luminous, dark-ochre eyes with black eyelid margins and a gentle, earnest expression",
+      "Triangular, flat drop ears set at eye level, hanging forward with a slight inward twist and narrow tips",
+      "Lean, muscular neck shaped like a truncated cone, reaching four-tenths of the withers height and completely free of dewlap",
+      "High-set tail thin at the root and uniform in thickness, hanging like a sabre at rest and carried high in action",
+      "Oval, hare-like feet with tightly arched toes, hard black pads, and strong black nails",
+      "Short, dense, uniformly smooth coat with a glassy horse-hair feel",
+    ],
   },
 
   temperament: {
     traits: [
-      "Calm, gentle, and quiet in the home",
-      "Spirited, passionate, and enthusiastic in the field",
-      "Deeply loyal and affectionate with familiar family members",
-      "Reserved and polite with unfamiliar people without displaying timidity or aggression",
-      "Sociable and cooperative in pack environments with other hounds",
-      "Patient and gentle with respectful children",
-      "Independent and focused when following a scent trail",
-      "High stamina and untiring physical endurance",
-      "High prey drive toward hare, wild boar, and small game",
-      "Carrying, melodious, and resonant voice that rings out distinctly on the trail"
+      "Hardy, bold, and passionate when working a scent trail",
+      "Calm, composed, and reserved in demeanour without being overly shy",
+      "Gentle and devoted toward its handler and family",
+      "Equally capable of hunting alone, in a pair, or harmoniously in a pack",
+      "Endowed with a resonant, bell-like, and pleasing hunting voice",
+      "Tireless galloper adapted to every kind of terrain",
+      "Focused and independent once locked onto hare or wild-boar scent",
     ],
 
     scores: {
@@ -187,64 +185,60 @@ export const segugio_italiano_a_pelo_raso: Breed = {
       independence: 4,
       trainability: 3,
       barking: 4,
-      energy: 4
-    }
+      energy: 4,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "High; bred as an endurance working hound requiring substantial daily aerobic activity and scent enrichment",
+        "High. Built to gallop for hours across steep, uneven ground, the Segugio Italiano a Pelo Raso needs generous daily exercise and regular scent-work outlets.",
 
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 90,
       },
 
       activities: [
-        "Long daily hikes or brisk walks across varied natural terrain",
-        "Structured scent tracking and blood tracking games",
-        "Supervised free running in a large, securely fenced field or paddock",
-        "Field hunting trials and trailing activities",
-        "Canicross, trail running, or jogging alongside a bicycle once fully mature",
-        "Interactive food puzzles and nosework searches"
-      ]
+        "Long daily country walks or hill hikes on a secure lead or long line",
+        "Scent tracking, mantrailing, and nosework games",
+        "Supervised galloping inside a securely fenced paddock or large garden",
+        "Working field trials and traditional hare or boar trailing",
+        "Canicross or trail running with a skeletally mature adult",
+      ],
     },
 
     grooming: {
       level: "Low",
 
       brushing:
-        "Brush once or twice weekly with a rubber hound mitt or soft bristle brush to remove loose hairs and maintain coat sheen.",
+        "Brush once or twice a week with a rubber hound mitt or soft bristle brush to lift dead hair and dust while polishing the smooth horse-hair coat.",
 
       bathing:
-        "Bathe only when heavily soiled or after muddy field runs using a mild dog shampoo.",
+        "Bathe only when soiled after fieldwork using a mild canine shampoo, rinsing and drying thoroughly.",
 
       notes: [
-        "Inspect the long drop ears weekly for moisture, wax buildup, or debris, especially after outings in brush or wet cover.",
-        "Check paw pads, toes, and skin after field runs for thorns, cuts, burrs, or embedded seeds.",
-        "Trim strong, fast-growing nails every two to three weeks to maintain correct foot alignment.",
-        "Brush teeth several times weekly using canine-formulated enzymatic toothpaste.",
-        "Wipe down the short coat with a damp chamois or cloth after woodland walks to remove dust and maintain shine.",
-        "Protect against cold and wet weather: the short, fine single coat provides limited thermal insulation in sub-freezing temperatures."
-      ]
+        "Inspect the long, flat hanging ears weekly—and after runs through damp cover—for moisture, grass seeds, or wax buildup.",
+        "Check paw pads, toes, eyes, and thin skin for thorns, burrs, or ticks after every woodland outing.",
+        "Trim nails every two to four weeks if they do not wear down naturally.",
+        "Brush teeth several times a week with canine toothpaste.",
+        "Because the skin is thin and the short coat lacks undercoat insulation, keep the dog indoors in cold weather and use a coat during frigid winter walks.",
+      ],
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent and cooperative, but guided by an intense scent-tracking instinct that easily distracts from handler attention outdoors",
+        "Moderate. Willing and cooperative with a gentle handler, yet possessing a powerful, single-minded trailing instinct that requires patient recall work and secure containment.",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
-        "Begin recall training from early puppyhood using a long training line in secure outdoor areas.",
-        "Keep sessions varied, short, and engaging to prevent boredom from repetitive exercises.",
-        "Always maintain the hound on a leash or within a securely fenced area outdoors, as an enticing scent trail will trigger focused pursuit.",
-        "Channel natural hunting desire into structured scentwork, tracking, or search games.",
-        "Avoid harsh verbal rebukes or heavy physical corrections, which cause this sensitive hound to become shut down or unresponsive."
+        "Use calm, reward-based training with food treats and scent rewards; harsh corrections quickly alienate a sensitive, reserved hound.",
+        "Begin long-line recall conditioning early in puppyhood, and keep the dog on lead or behind secure fencing whenever wildlife scent is present.",
+        "Keep training sessions brief, varied, and engaging.",
+        "Channel its natural four-phase trailing drive into structured tracking or nosework games.",
       ],
 
       socialization:
-        "Introduce the puppy in a positive, structured manner to a wide range of people, friendly vaccinated dogs, household sounds, vehicles, and varied outdoor environments. Early social exposure develops a confident, stable companion that remains composed in family settings while retaining keen hunting instincts."
+        "Provide steady, positive early exposure to unfamiliar people, everyday noises, vehicles, and varied environments so its naturally reserved temperament matures into calm, confident composure.",
     },
 
     livingEnvironment: {
@@ -252,82 +246,76 @@ export const segugio_italiano_a_pelo_raso: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Mediterranean climates",
-        "Temperate climates",
-        "Warm climates, provided there is ample shade, fresh water, and exercise occurs during cooler morning or evening hours",
-        "Cold climates, provided the dog lives indoors with the family and has warm protective apparel for winter outings"
+        "Mediterranean and temperate climates",
+        "Warm weather when shade, cool water, and early-morning or evening exercise are provided",
+        "Cool weather when housed indoors with the family and protected from prolonged damp cold",
       ],
 
       aloneTimeTolerance:
-        "Moderate when thoroughly exercised beforehand, though prolonged isolation without canine company or mental enrichment can prompt vocal howling, barking, or digging."
-    }
+        "Moderate after thorough daily exercise, particularly when kept with another canine companion, though prolonged isolation can lead to vocalising.",
+    },
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized, active sporting or working hounds, adjusted for seasonal field exertion.",
+      "Complete, balanced diet formulated for medium-sized, high-stamina working hounds and adjusted to seasonal workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured meals daily until six months of age, transitioning to two meals daily thereafter on a growth formula supporting steady development.",
+        "Feed three to four measured meals daily until six months of age, then transition to two daily meals.",
       adult:
-        "Two measured meals daily to support steady metabolism and minimize digestive discomfort.",
+        "Feed two measured meals daily, allowing rest before and after exercise.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint mobility, and lean muscle retention."
+        "Feed two portion-controlled meals daily matched to age and activity level.",
     },
 
     guidelines:
-      "Measure food rations carefully with a digital kitchen scale or standard measuring cup, adjusting caloric intake to match seasonal hunting demands. Divide the daily allowance into two meals, refrain from vigorous running for at least one hour before and after eating, and provide cool, fresh drinking water at all times.",
+      "Portion meals to preserve the breed's dry, lean, fat-free muscular condition. Increase energy intake during active hunting or trailing months and scale rations down during quieter seasons, keeping fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition where ribs are easily felt without excess fat padding.",
-      "Increase caloric and protein density during active autumn and winter hunting or tracking trials.",
-      "Count training treats toward the daily caloric allowance to avoid creeping weight gain during off-season months.",
-      "Rest the dog before and after meals to promote healthy digestion and reduce the risk of bloat.",
-      "Provide clean drinking water, especially during long tracking excursions in warm weather.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep the hound lean so musculature remains clearly defined without excess fat.",
+      "Adjust calorie and protein levels between hunting seasons and rest periods.",
+      "Allow at least an hour of rest before and after vigorous running around meals.",
+      "Account for training treats within the daily ration.",
+      "Provide fresh water before and after field excursions.",
     ],
 
     note:
-      "Caloric needs fluctuate substantially between sedentary summer months and active autumn hunting seasons. Work with a veterinarian to establish tailored daily feeding portions."
+      "General canine nutrition guidance; exact portions depend on age, food calorie density, and daily workload.",
   },
 
   health: {
     overview:
-      "The Segugio Italiano a Pelo Raso is a robust, athletic hunting breed with a typical lifespan of 11 to 13 years. Developed over centuries of demanding physical work across the Italian mountains and plains, it possesses strong constitutional vitality and low vulnerability to complex hereditary disorders. Health considerations focus primarily on active sporting injuries, drop-ear management, deep-chested anatomy, and vector-borne diseases, including otitis externa, hip dysplasia, field lacerations, and gastric dilatation-volvulus (GDV / bloat).",
+      "The Segugio Italiano a Pelo Raso is a hardy, rustic working hound with a typical life expectancy of 10 to 14 years. Shaped by generations of selection for field stamina and athletic soundness, it has few breed-specific hereditary illnesses; routine care focuses on hip soundness for breeding dogs, ear care for its hanging ears, parasite protection, and inspecting paws and skin after work in rough cover.",
 
     commonConditions: [
-      "Otitis externa — bacterial or yeast infections in the ear canal encouraged by folded, pendant ear flaps that reduce air circulation",
-      "Field injuries — minor lacerations, pad abrasions, torn nails, or muscle sprains sustained while tracking game through dense brush or across rocky ground",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, monitored through pre-breeding radiographic screening programs",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening emergency in deep-chested hounds where the stomach distends with gas and twists on its axis",
-      "Canine vector-borne infections — tick-borne diseases and leishmaniasis encountered in Mediterranean hunting habitats"
+      "Hip dysplasia — monitored on an informational basis in national selected-breeding programmes through radiographic hip evaluation",
+      "Otitis externa — ear-canal irritation or infection favoured by wide, flat hanging ears and trapped moisture or plant awns",
+      "Field injuries — thorn punctures, pad abrasions, or small cuts sustained while galloping through brush and rocky terrain",
+      "Vector-borne infections — tick-borne diseases and sandfly-borne leishmaniasis in Mediterranean and woodland working regions",
+      "Gastric dilatation-volvulus (GDV / bloat) — a potential emergency risk in deep-chested working dogs if exercised immediately around large meals",
     ],
 
     preventiveCare: [
-      "Verify that breeding parents have official radiographic hip evaluation clearances.",
-      "Inspect and dry the pendant ears weekly, particularly after wet forest runs or swims.",
-      "Maintain strict tick, flea, and sandfly parasite prevention throughout active tracking seasons, particularly in Mediterranean field environments.",
-      "Check paw pads, toes, and skin after hunting trips for thorns, cuts, burrs, or embedded debris.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Maintain a lean, athletic body condition to avoid premature joint wear.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine dental care."
+      "Inspect, clean, and dry the hanging ears weekly and after wet or brushy outings.",
+      "Check feet, interdigital spaces, eyes, and thin skin for thorns, grass awns, cuts, and ticks after every field run.",
+      "Maintain year-round tick, flea, sandfly, and internal parasite prevention.",
+      "Divide daily food into two meals and rest the dog before and after strenuous galloping.",
+      "Keep body weight lean and muscular to protect joints over a long working life.",
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia screening prior to breeding",
-      "Routine clinical veterinary ophthalmic examination",
-      "Annual veterinary blood screening for vector-borne infections (Leishmania, Ehrlichia, Anaplasma, and heartworm) in endemic hunting regions"
+      "Radiographic hip evaluation (recorded as an informational screening requirement for selected breeding)",
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine toothpaste and have the scissor bite and gums checked during annual veterinary visits.",
 
     earCare:
-      "Inspect the pendant triangular ears weekly for wax buildup, moisture, or foul odor. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly without inserting swabs deep into the canal.",
+      "Examine the flat, triangular drop ears weekly for moisture, wax, or foreign debris, cleaning gently with a veterinarian-approved ear solution.",
 
     skinCare:
-      "Part the short smooth coat weekly to inspect the skin for external parasites, scratches, or hot spots. The close-lying coat naturally sheds dirt and requires minimal skin intervention beyond regular brushing."
+      "Wipe and brush the short, glassy coat after field outings to check the fine skin for ticks, burrs, or bramble scratches.",
   },
 
   suitability: {
@@ -338,93 +326,65 @@ export const segugio_italiano_a_pelo_raso: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active hunters, field trial competitors, and tracking enthusiasts seeking an authentic, hard-working field hound",
-      "Experienced dog owners familiar with managing strong scenthound drive, vocal baying, and outdoor independence",
-      "Rural or semi-rural households with large, securely fenced outdoor space",
-      "Outdoor lovers who engage in regular long-distance hiking, trail running, or woodland exploration",
-      "Families that appreciate a calm, gentle, and quiet indoor companion paired with high outdoor energy"
+      "Hunters, field-trial handlers, and mantrailing or nosework enthusiasts",
+      "Rural or suburban households with a securely fenced garden and access to open trails",
+      "Long-distance hikers and runners seeking a high-stamina outdoor companion",
+      "Multi-dog homes that value a cooperative, pack-sociable hound",
     ],
 
     notIdealFor: [
-      "Apartment dwellers or dense urban households with shared walls and limited outdoor open space",
-      "Sedentary individuals looking for a low-exercise lap pet",
-      "Households with loose small pets such as rabbits, ferrets, or rodents vulnerable to high prey drive",
-      "Owners who require instant off-leash obedience in unfenced, wildlife-rich areas",
-      "First-time owners unprepared for independent scent-tracking instincts and deep vocalizations"
-    ]
+      "Apartment dwellers or dense urban settings sensitive to a ringing hound voice",
+      "Sedentary owners looking for a low-energy indoor pet",
+      "Households with unfenced yards or free-roaming small pets such as rabbits or rodents",
+      "Owners expecting reliable off-lead recall in open areas with game scent",
+    ],
   },
 
   funFacts: [
-    "Ancient Egyptian tomb murals depict hounds with identical physical conformation to the Segugio Italiano, and historians believe Phoenician merchant traders introduced these ancestral hounds to the Italian peninsula thousands of years ago.",
-    "Classical marble statues of Diana the Huntress in the Vatican and Capitoline museums portray an identical lean, smooth-coated hound with dropped ears and a Roman nose beside the goddess.",
-    "A celebrated Renaissance painting in the castle of Borso d'Este dating from 1600 depicts a smooth-coated Segugio Italiano that embodies the exact conformation seen in the modern breed.",
-    "The name 'Segugio' derives from the Italian verb 'seguire' (to follow), underscoring its ancient specialization as a relentless follower of animal scent trails.",
-    "A hallmark feature of the breed is its resonant, bell-like voice ('voce squillante'), which changes rhythm and pitch to signal to hunters whether it is trailing cold scent, driving live quarry, or holding game at bay.",
-    "Unlike many European scenthounds that hunt exclusively in large packs, the Segugio Italiano is equally proficient at working entirely solo, in a matched pair ('pariglia'), or in small packs ('muta').",
-    "In its native Italy, the smooth-coated Segugio consistently ranks among the most widely registered native hunting breeds, prized across the Apennine mountains for its speed and agility on European hare and wild boar."
+    "Ancient Egyptian drawings from Pharaonic times depict drop-eared running hounds closely resembling the modern Segugio, which Phoenician merchants brought to the Italian coast.",
+    "Classical statues of Diana the Huntress in the Naples Museum and the Vatican Museum show hounds of the exact same build and stature alongside the goddess.",
+    "At the Castle of Borso d'Este, a painting from around 1600 portrays a smooth-coated hound considered the physical ideal of the modern Segugio Italiano.",
+    "The Italian word 'segugio' comes from the verb 'seguire' ('to follow'), reflecting the dog's single-minded devotion to following a scent line.",
+    "Traditional Italian houndsmen judge a classic Segugio across four distinct phases of the hunt: finding the cold night trail ('passata'), approaching the quarry ('accostamento'), flushing the game ('scovo'), and the fast pursuit ('inseguimento').",
+    "Unlike its rough-coated cousin, which carries a wire coat up to 5 cm long, the Pelo Raso wears a dense, glassy-smooth coat with a horse-hair feel over fine, tight skin.",
   ],
 
   faq: [
     {
       question: "What is a Segugio Italiano a Pelo Raso?",
       answer:
-        "The Segugio Italiano a Pelo Raso is an ancient, medium-sized smooth-coated Italian scenthound known for its athletic square build, horse-hair coat texture, stamina, and ringing tracking voice on wild hare and boar."
+        "The Segugio Italiano a Pelo Raso is an ancient, medium-sized Italian scent hound with a square build and a short, smooth, horse-hair-textured coat, bred to trail and drive hare and wild boar.",
     },
     {
-      question: "What is the difference between the Pelo Raso and Pelo Forte varieties?",
+      question: "How does the Pelo Raso differ from the Segugio Italiano a Pelo Forte?",
       answer:
-        "The Pelo Raso variety carries a short, smooth, and dense coat of horse-hair texture with fine skin, whereas the Pelo Forte variety has a harsh, wire-like rough coat roughly 5 cm in length with a dense undercoat; both varieties share identical square proportions, head morphology, and working temperaments."
+        "The Pelo Raso has a short, dense, uniformly smooth coat with a glassy horse-hair texture and is slightly smaller in female and male upper height limits (52 to 58 cm in males, 48 to 56 cm in females), whereas the Pelo Forte carries a harsh wire coat up to 5 cm long, stands 52 to 60 cm in males and 50 to 58 cm in females, and is noted for an even calmer, more reserved demeanour.",
     },
     {
-      question: "How tall and heavy is a Segugio Italiano a Pelo Raso?",
+      question: "How tall and heavy is an adult Segugio Italiano a Pelo Raso?",
       answer:
-        "Adult males typically stand 52 to 58 cm at the withers and weigh 20 to 28 kg, while females stand 48 to 56 cm and weigh 18 to 26 kg, with an overall breed weight range of 18 to 28 kg and a height tolerance of plus or minus 2 cm for exceptional individuals."
+        "Males stand 52 to 58 cm at the withers and females stand 48 to 56 cm, with a tolerance of plus or minus 2 cm allowed only for excellent individuals. Adult weight ranges from 18 to 28 kg overall (commonly 20 to 28 kg in males and 18 to 26 kg in females).",
     },
     {
-      question: "How long does a Segugio Italiano a Pelo Raso live?",
+      question: "What is the typical lifespan of a Segugio Italiano a Pelo Raso?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 11 to 13 years."
+        "The breed typically lives 10 to 14 years when kept in lean working condition with routine preventive veterinary care.",
     },
     {
-      question: "What coat colours are recognized in this breed?",
+      question: "What coat colours are permitted in the Segugio Italiano a Pelo Raso?",
       answer:
-        "The coat comes in solid fawn (ranging from deep red-fawn to washed-out fawn) or black and tan; discreet white markings are permitted on the muzzle, skull, chest star, feet, pasterns, hocks, and tail tip."
+        "Permissible colours are solid fawn (from deep red-fawn to washed-out fawn) and black and tan. Fawn dogs may show limited white on the muzzle, skull, chest star, neck, pasterns, hocks, feet, or tail tip, and a black-and-tan dog with a white chest star is termed tricolour. Brown, liver, slate, brindle, or predominantly white coats are not permitted.",
     },
     {
-      question: "Can a Segugio Italiano a Pelo Raso live in an apartment?",
+      question: "Is the Segugio Italiano a Pelo Raso suitable for apartment living?",
       answer:
-        "No. Due to its high exercise requirements, working stamina, and carrying voice, the breed is not suited to apartment living and thrives best in a rural or suburban home with a securely fenced yard."
+        "No. Although quiet and calm indoors after exercise, its high daily stamina and resonant hunting voice make it best suited to a rural or suburban home with a securely fenced garden.",
     },
     {
-      question: "Is the Segugio Italiano a Pelo Raso good with children and other pets?",
+      question: "How much daily exercise does this hound need?",
       answer:
-        "It is gentle, calm, and affectionate with respectful children and gets along outstandingly well with other dogs; however, its strong hunting instincts make it unsafe around loose small pets such as rabbits or rodents."
+        "Plan on at least 60 to 90 minutes of vigorous daily outdoor exercise—such as hill walks, running in a secure enclosure, or scent-tracking games.",
     },
-    {
-      question: "Does the smooth coat require a lot of grooming?",
-      answer:
-        "Grooming is very low-maintenance: weekly brushing with a rubber hound mitt removes loose hairs, while periodic ear checks and nail trimming keep the hound comfortable."
-    },
-    {
-      question: "How much exercise does this hound need each day?",
-      answer:
-        "The breed requires at least 60 to 90 minutes of vigorous daily physical activity, including brisk walks, hiking, and mental scent-tracking enrichment to satisfy its working instincts."
-    },
-    {
-      question: "Is the Segugio Italiano a Pelo Raso easy to train?",
-      answer:
-        "It is intelligent and eager to please its handler, but strong scenting instincts mean it can be easily distracted outdoors; it responds best to patient, positive reinforcement training and must be kept leashed in unfenced areas."
-    },
-    {
-      question: "Does the breed bark or bay a lot?",
-      answer:
-        "The breed is quiet and composed indoors, but in the field or when tracking quarry it possesses a loud, resonant voice that carries over great distances."
-    },
-    {
-      question: "What health problems are known in the breed?",
-      answer:
-        "The breed is remarkably robust with few genetic disorders; primary health considerations include ear infections (otitis externa) from pendant ears, field injuries sustained during hunting, hip dysplasia, and gastric dilatation-volvulus (bloat)."
-    }
   ],
 
   references: [
@@ -435,16 +395,17 @@ export const segugio_italiano_a_pelo_raso: Breed = {
     "societa-italiana-pro-segugio-history",
     "wikimedia-segugio-italiano-nero-focato-curzio-cavicchioli",
     "wikimedia-segugio-italiano-pelo-raso-canarian",
-    "wikimedia-segugio-italiano-pelo-raso-fulvo-cyberjobe"
+    "wikimedia-segugio-italiano-pelo-raso-fulvo-cyberjobe",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Official breed standards and kennel-club records do not establish a breed-specific scientific name; kept null per schema rules.",
     },
 
     alternateNames: {
@@ -453,26 +414,31 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Standard heading: SEGUGIO ITALIANO A PELO RASO (Italian Short-Haired Segugio)"
+          locator: "Standard heading: SEGUGIO ITALIANO A PELO RASO (Italian Short-Haired Segugio)",
         },
         {
           id: "fci-segugio-italiano-pelo-raso-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: SEGUGIO ITALIANO A PELO RASO (337), Chien Courant Italien à Poil Ras, Kurzhaariger Italienischer Laufhund, Sabueso Italiano de Pelo Raso"
+          locator: "Official nomenclature: SEGUGIO ITALIANO A PELO RASO (337), Chien Courant Italien à Poil Ras, Kurzhaariger Italienischer Laufhund, Sabueso Italiano de Pelo Raso",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Denominazione ufficiale: Segugio Italiano a pelo raso"
+          locator: "Denominazione ufficiale: Segugio Italiano a pelo raso",
         },
         {
           id: "ukc-segugio-italiano-standard",
           role: "verified",
-          locator: "Breed name and smooth-haired variety description"
-        }
+          locator: "Breed name: Segugio Italiano (short-haired variety)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Segugio Italiano, Italian Hound)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified across FCI Standard No. 337, FCI Nomenclature, ENCI, and UKC."
+      verifiedOn: "2026-11-17",
+      note: "Verified across FCI Standard No. 337, FCI Nomenclature, ENCI, UKC, and The Dog API.",
     },
 
     group: {
@@ -481,50 +447,68 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial"
+          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial",
         },
         {
           id: "fci-segugio-italiano-pelo-raso-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial"
+          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Gruppo 6 Segugi e cani per pista di sangue, Sezione 1.2 Cani da seguita di taglia media"
+          locator: "Gruppo 6 Segugi e cani per pista di sangue, Sezione 1 Cani da seguita, Segugi di media taglia",
         },
         {
           id: "ukc-segugio-italiano-standard",
-          role: "verified",
-          locator: "Scenthound Group"
-        }
+          role: "cited",
+          locator: "Scenthound Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group (Hound)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "Follows the Group 6, Section 1.2 classification without naming registries in user-facing text.",
     },
 
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "ORIGIN: Italy; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: Italy",
         },
         {
           id: "fci-segugio-italiano-pelo-raso-nomenclature",
           role: "verified",
-          locator: "Country of origin: Italy"
+          locator: "Country of origin: Italy",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Origine: Italia"
-        }
+          locator: "Origine: Italia",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (Italy)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
+    },
+
+    "origin.region": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Official standards identify Italy as the country of origin without specifying a single sub-national region.",
     },
 
     overview: {
@@ -533,27 +517,27 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator: "Utilization, Brief historical summary, General appearance, Important proportions, Behaviour/temperament",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Cenni storici, Aspetto generale, Proporzioni importanti, Comportamento e carattere"
+          locator: "Storia, Aspetto generale, Proporzioni importanti, Comportamento e carattere (Standard No. 337)",
         },
         {
           id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Storia del Segugio Italiano a pelo raso e a pelo forte"
+          role: "cited",
+          locator: "Historical and hunting background of the Segugio Italiano",
         },
         {
-          id: "ukc-segugio-italiano-standard",
+          id: "the-dog-api",
           role: "cited",
-          locator: "History and Characteristics"
-        }
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesized in original prose from FCI Standard No. 337, ENCI, and Società Italiana Pro Segugio official records."
+        "All overview text is rewritten in 100% original wording from FCI Standard No. 337 and ENCI official material.",
     },
 
     physical: {
@@ -562,22 +546,27 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "Important proportions, Head, Body, Tail, Limbs, Gait, Skin, Coat, Colour, Size and weight",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Aspetto generale, Testa, Mantello, Taglia e peso"
+          locator: "Aspetto generale, Testa, Tronco, Arti, Mantello, Colore, Taglia e peso (Standard No. 337)",
         },
         {
           id: "ukc-segugio-italiano-standard",
           role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
-        }
+          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 17 generic species-wide colours)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Conformation, square proportions (height equals body length), divergent axes, smooth horse-hair coat, and distinctive features follow official standards."
+        "Conformation, square proportions, divergent cranial-facial axes, smooth horse-hair coat, and permissible colours (solid fawn, black and tan, limited white markings, and tricolour when a black-and-tan dog has a white chest star) follow FCI/ENCI Standard No. 337 rather than The Dog API's generic 17-colour list.",
     },
 
     "physical.height": {
@@ -586,22 +575,73 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at the withers: Males: 52 cm - 58 cm. Females: 48 cm - 56 cm. Tolerance: +/- 2 cm, only for excellent subjects."
+          locator: "Size and weight: Height at the withers: Males 52 cm – 58 cm; Females 48 cm – 56 cm (tolerance ± 2 cm only for excellent subjects)",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Altezza al garrese: Maschi 52-58 cm, Femmine 48-56 cm. Tolleranza: 2 cm in più o in meno solo per soggetti eccellenti."
+          locator: "Altezza al garrese: Maschi 52–58 cm; Femmine 48–56 cm (tolleranza 2 cm in più o in meno solo per soggetti eccellenti)",
         },
         {
           id: "ukc-segugio-italiano-standard",
           role: "verified",
-          locator: "Height at withers: Males from 20.5 to 23 inches (52-58 cm); Females from 19 to 22 inches (48-56 cm)"
-        }
+          locator: "Height at withers: Males 20.5 to 23 inches (52–58 cm); Females 19 to 22 inches (48–56 cm)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (Males 52–60 cm, Females 48–57 cm)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Preserved in published unit of centimetres (52–58 cm for males, 48–56 cm for females) exactly as specified in the official FCI Standard No. 337 and ENCI standard."
+        "Preserved in centimetres (52–58 cm for males, 48–56 cm for females) per FCI Standard No. 337 and ENCI; The Dog API lists a wider 52–60 cm male and 48–57 cm female range.",
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-segugio-italiano-pelo-raso-standard",
+          role: "verified",
+          locator: "Height at the withers: Males 52 cm – 58 cm",
+        },
+        {
+          id: "enci-segugio-italiano-pelo-raso-standard",
+          role: "verified",
+          locator: "Altezza al garrese: Maschi 52–58 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (60 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper male height bound of 58 cm from FCI/ENCI Standard No. 337 (excluding the ±2 cm tolerance for excellent individuals).",
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-segugio-italiano-pelo-raso-standard",
+          role: "verified",
+          locator: "Height at the withers: Females 48 cm – 56 cm",
+        },
+        {
+          id: "enci-segugio-italiano-pelo-raso-standard",
+          role: "verified",
+          locator: "Altezza al garrese: Femmine 48–56 cm",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (57 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female height bound of 56 cm from FCI/ENCI Standard No. 337.",
     },
 
     "physical.weight": {
@@ -610,76 +650,103 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Weight: 18 kg - 28 kg"
+          locator: "Weight: 18 kg – 28 kg",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Peso: 18-28 kg"
+          locator: "Peso: 18–28 kg",
         },
         {
           id: "ukc-segugio-italiano-standard",
           role: "verified",
-          locator: "Weight: Males from 44 to 62 pounds (20-28 kg); Females from 40 to 57 pounds (18-26 kg)"
-        }
+          locator: "Weight: Males from 44 to 62 pounds (20–28 kg); Females from 40 to 57 pounds (18–26 kg)",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric (18–28 kg combined for both sexes)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "FCI Standard No. 337 and ENCI give the overall breed weight range of 18 to 28 kg; UKC specifies sex-specific weights corresponding to 20 to 28 kg for males and 18 to 26 kg for females, preserved in kilograms."
+        "FCI Standard No. 337, ENCI, and The Dog API give the overall breed weight range of 18 to 28 kg; UKC provides sex-specific kilogram equivalents of 20 to 28 kg for males and 18 to 26 kg for females.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-segugio-italiano-pelo-raso-standard",
+          role: "verified",
+          locator: "Weight: 18 kg – 28 kg",
+        },
+        {
+          id: "enci-segugio-italiano-pelo-raso-standard",
+          role: "verified",
+          locator: "Peso: 18–28 kg",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (28 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper male weight bound of 28 kg.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "ukc-segugio-italiano-standard",
+          role: "verified",
+          locator: "Weight: Females 18–26 kg",
+        },
+        {
+          id: "fci-segugio-italiano-pelo-raso-standard",
+          role: "cited",
+          locator: "Weight: 18 kg – 28 kg (overall breed range)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (18–28 kg; did not separate males and females)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female weight bound of 26 kg per sex-specific standard breakdown (within the 18–28 kg overall FCI/ENCI range).",
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "enci-segugio-italiano-pelo-raso-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Profilo di razza e aspettativa di vita (11-13 anni)"
+          locator: "breed.life_span (10–14 years)",
         },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Longevità e salute operativa del segugio italiano"
-        }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Supported by Italian national kennel club and breed club actuarial profiles."
+      verifiedOn: "2026-11-17",
+      note:
+        "Updated to 10–14 years from The Dog API; FCI Standard No. 337 and ENCI do not publish a lifespan range.",
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-segugio-italiano-pelo-raso-standard",
-          role: "verified",
-          locator: "HAIR: Short hair all over the body, horse-hair texture, dense, close-fitting and uniformly smooth"
-        },
-        {
-          id: "enci-segugio-italiano-pelo-raso-standard",
-          role: "verified",
-          locator: "Cura del mantello e muta del pelo raso"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: null
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Reviewed breed standards describe the short, glassy horse-hair coat without establishing a standardised shedding category.",
     },
 
     "physical.droolingLevel": {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-segugio-italiano-pelo-raso-standard",
-          role: "verified",
-          locator: "Lips: Fine and lean, close-fitting, lip rims always black"
-        },
-        {
-          id: "enci-segugio-italiano-pelo-raso-standard",
-          role: "verified",
-          locator: "Labbra: Sottili e asciutte, aderenti alla mascella"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: "Tight, lean lips without pendulous flews result in minimal drooling."
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Reviewed breed standards describe fine, lean, close-fitting lips without establishing a standardised drooling rating.",
     },
 
     "temperament.traits": {
@@ -688,21 +755,26 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Bold temperament, pleasant and calm disposition, sweet look, resonant pleasing voice"
+          locator: "Behaviour / Temperament: hardy, bold temperament, reserved disposition, gentle gaze, resonant and very pleasing voice",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Comportamento e carattere: Temperamento ardito ma carattere poco espansivo, sguardo dolce e voce risonante"
+          locator: "Comportamento e carattere: temperamento ardito ma carattere poco espansivo, sguardo dolce e voce risonante e piacevolissima",
         },
         {
           id: "ukc-segugio-italiano-standard",
           role: "verified",
-          locator: "Characteristics: Eager hunter, calm companion, distinct ringing bark"
-        }
+          locator: "Characteristics: eager hunter, calm companion, distinct ringing bark",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament (Intelligent, energetic, loyal, alert, determined, eager to please)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "temperament.scores": {
@@ -711,17 +783,17 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "cited",
-          locator: "Temperament and hunting characteristics"
+          locator: "Behaviour / Temperament and Utilization",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "cited",
-          locator: "Comportamento e attitudini"
-        }
+          locator: "Comportamento e carattere",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented breed temperament traits."
+        "Editorial 1–5 scores informed by documented breed temperament and hunting drive.",
     },
 
     care: {
@@ -730,17 +802,17 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "cited",
-          locator: "Cura, toelettatura e gestione operativa"
+          locator: "Mantello, pelle fine e utilizzo venatorio",
         },
         {
           id: "societa-italiana-pro-segugio-history",
           role: "cited",
-          locator: "Guida alla gestione e all'allenamento del cane da seguita"
-        }
+          locator: "Working scent-hound care and field management",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines active hunting hound management with smooth-coat maintenance protocols."
+        "Combines active hunting-hound management with smooth-coat and drop-ear maintenance.",
     },
 
     "care.exercise.level": {
@@ -749,30 +821,30 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "UTILIZATION: Tracking and driving hound with great stamina"
+          locator: "Utilization and Gait: scent hound adapted to the most varied terrains; gallops when hunting",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Attitudini di caccia e resistenza fisica"
-        }
+          locator: "Comportamento e carattere: ben adattato ai più disparati terreni; quando caccia galoppa",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
       sources: [
         {
-          id: "societa-italiana-pro-segugio-history",
+          id: "fci-segugio-italiano-pelo-raso-standard",
           role: "cited",
-          locator: "Allenamento quotidiano del cane da lavoro"
-        }
+          locator: "High-stamina galloping scent hound",
+        },
       ],
       verifiedOn: null,
       note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic mountain scenthound."
+        "Estimated 60 to 90 minutes of daily exercise reflects the stamina of an athletic working scenthound.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -781,35 +853,26 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "cited",
-          locator: "High stamina, vocal tracking hound"
+          locator: "High-endurance galloping hound with resonant voice",
         },
-        {
-          id: "enci-segugio-italiano-pelo-raso-standard",
-          role: "cited",
-          locator: "Esigenze di movimento ed esercizio all'aperto"
-        }
       ],
       verifiedOn: null,
       note:
-        "Editorial evaluation that high endurance and vocal hunting drive make apartment living unsuitable."
+        "Editorial assessment that high endurance and a ringing hunting voice make apartment living unsuitable.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
         {
-          id: "enci-segugio-italiano-pelo-raso-standard",
-          role: "verified",
-          locator: "Ambiente di vita e recinzione sicura"
+          id: "fci-segugio-italiano-pelo-raso-standard",
+          role: "cited",
+          locator: "Active outdoor hunting hound characteristics",
         },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Spazi aperti e gestione del cane da caccia"
-        }
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: null,
+      note:
+        "Editorial assessment that a home with a securely fenced garden suits an active scenthound.",
     },
 
     "care.livingEnvironment.climates": {
@@ -818,113 +881,51 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "SKIN & HAIR: Fine, thin skin and short smooth coat adapted to Mediterranean conditions"
+          locator: "Skin and Coat: fine, thin skin and short, smooth coat without undercoat",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Clima e gestione stagionale"
-        }
+          locator: "Pelle fine e sottile; pelo raso su tutto il corpo",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "cited",
-          locator: "Comportamento sociale e vita di muta"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
       note:
-        "Scenthounds can tolerate moderate alone time when physically exercised, but can become vocal if isolated without enrichment."
+        "General pack-scenthound guidance regarding companionship, exercise, and vocalisation.",
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "enci-segugio-italiano-pelo-raso-standard",
-          role: "cited",
-          locator: "Alimentazione e fabbisogno energetico stagionale"
-        },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "cited",
-          locator: "Nutrizione del cane da lavoro nei periodi venatori"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for active sporting and hunting dogs."
+        "General canine nutrition guidance for a lean, active working scent hound.",
     },
 
-    "nutrition.feedingFrequency": {
+    health: {
       reliability: "general_guidance",
       sources: [
         {
-          id: "enci-segugio-italiano-pelo-raso-standard",
+          id: "fci-segugio-italiano-pelo-raso-standard",
           role: "cited",
-          locator: "Frequenza dei pasti e gestione digestiva"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
-    },
-
-    "health.overview": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "enci-segugio-italiano-pelo-raso-standard",
-          role: "verified",
-          locator: "Salute della razza, longevità e prevenzione veterinaria"
+          locator: "General appearance (deep chest, hanging ears, thin skin) and field hunting utility",
         },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Mantenimento della rusticità e screening sanitario"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Documents high constitutional hardiness alongside drop-ear and field-injury vulnerabilities."
-    },
-
-    "health.commonConditions": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "enci-segugio-italiano-pelo-raso-standard",
-          role: "verified",
-          locator: "Patologie auricolari, traumi oculari e screening ortopedico"
-        },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Prevenzione di otiti, torsione gastrica e malattie parassitarie"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Identifies documented breed considerations without using prohibited registry labels in prose."
-    },
-
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "cited",
-          locator: "Controllo auricolare, prevenzione antiparassitaria e cura delle zampe"
-        }
+          locator: "Riproduzione Selezionata (HD: indagine conoscitiva)",
+        },
       ],
       verifiedOn: null,
-      note: "Field hygiene protocol tailored to drop-eared hunting hounds."
+      note:
+        "Covers practical working-hound health considerations (ear hygiene, field injuries, vector-borne parasite prevention, bloat precautions) alongside ENCI's informational hip evaluation.",
     },
 
     "health.recommendedScreenings": {
@@ -933,56 +934,12 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Controlli pre-riproduttivi: displasia dell'anca (indagine conoscitiva) e screening oftalmico"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Pre-breeding evaluations recommended by the national breed authority."
-    },
-
-    "health.dentalCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-segugio-italiano-pelo-raso-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete scissor bite"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
-    },
-
-    "health.earCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-segugio-italiano-pelo-raso-standard",
-          role: "cited",
-          locator: "Ears: wide, dropped ears with narrow tips"
+          locator: "Riproduzione Selezionata: Patologia 1 — HD: indagine conoscitiva (radiographic hip evaluation)",
         },
-        {
-          id: "enci-segugio-italiano-pelo-raso-standard",
-          role: "cited",
-          locator: "Pulizia delle orecchie pendenti"
-        }
       ],
-      verifiedOn: null,
-      note: "Ear maintenance protocol for dropped, pendulous leathers."
-    },
-
-    "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-segugio-italiano-pelo-raso-standard",
-          role: "cited",
-          locator: "Skin and coat texture"
-        }
-      ],
-      verifiedOn: null,
-      note: "Skin and coat care guidelines."
+      verifiedOn: "2026-11-17",
+      note:
+        "Verified directly against ENCI's Riproduzione Selezionata requirements for the Segugio Italiano a Pelo Raso.",
     },
 
     suitability: {
@@ -991,17 +948,17 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "cited",
-          locator: "Working temperament and hunting utility"
+          locator: "Utilization and Behaviour / Temperament",
         },
         {
-          id: "enci-segugio-italiano-pelo-raso-standard",
+          id: "ukc-segugio-italiano-standard",
           role: "cited",
-          locator: "Idoneità e gestione in famiglia"
-        }
+          locator: "Characteristics",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability flags and descriptions reflect editorial evaluations of hound exercise and predatory drives."
+        "Editorial suitability evaluations based on stamina, pack sociability, and hunting drive.",
     },
 
     funFacts: {
@@ -1010,21 +967,16 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Brief historical summary: Egyptian origins, Roman statues of Diana the Huntress, 'seguire' etymology, Castle of Borso d'Este painting"
-        },
-        {
-          id: "societa-italiana-pro-segugio-history",
-          role: "verified",
-          locator: "Cenni storici e vocazione venatoria del segugio italiano a pelo raso"
+          locator: "Brief historical summary: Pharaonic Egyptian hounds, Phoenician traders, Diana the Huntress statues in Naples and Vatican museums, Castle of Borso d'Este (1600) painting",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Storia, voce squillante e caccia alla lepre e al cinghiale"
-        }
+          locator: "Storia e quattro fasi della caccia (ricerca della passata, accostamento, scovo, inseguimento) con voce squillante",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified historical and functional facts written without prohibited names."
+      verifiedOn: "2026-11-17",
+      note: "Verified directly against FCI Standard No. 337 and ENCI historical and working commentary.",
     },
 
     faq: {
@@ -1033,24 +985,29 @@ export const segugio_italiano_a_pelo_raso: Breed = {
         {
           id: "fci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Origin, size, weight (18-28 kg), coat differences, and colors"
+          locator: "Origin, size (52–58 cm males, 48–56 cm females, ±2 cm tolerance), weight (18–28 kg), coat, and colours",
         },
         {
           id: "enci-segugio-italiano-pelo-raso-standard",
           role: "verified",
-          locator: "Domande frequenti, salute, esercizio e convivenza"
+          locator: "Standard No. 337: Altezza, peso, mantello e colori",
         },
         {
           id: "ukc-segugio-italiano-standard",
           role: "verified",
-          locator: "General characteristics and temperament"
-        }
+          locator: "Sex-specific weights (20–28 kg males, 18–26 kg females) and general characteristics",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (10–14 years)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "FAQ answers synthesize verified standards and parent-club guidance without naming registries in prose."
-    }
+        "FAQ answers synthesise verified FCI, ENCI, UKC, and The Dog API facts without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-11-08"
+  updatedOn: "2026-11-17",
 };

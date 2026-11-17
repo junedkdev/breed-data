@@ -18409,6 +18409,376 @@ export const sources = defineSources({
     note: "High-resolution photograph (1632 x 1224 px) featuring a Portuguese Pointer lying outdoors on grass by Afonso Silva~commonswiki (captured and uploaded 2006-06-29). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
+  "fci-uruguayan-cimarron-official-standard": {
+    id: "fci-uruguayan-cimarron-official-standard",
+    name: "FCI - Cimarrón Uruguayo Official Breed Standard No. 353",
+    url: "https://www.fci.be/Nomenclature/Standards/353g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2022-07-08",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 353 (valid standard dated 2022-06-16, published 2022-07-08). Covers Uruguayan origin, Group 2 Pinschers and Schnauzers, Molossoid breeds, Swiss Mountain- and Cattle dogs, Section 2.1 Molossoid, Dogue type classification without working trial, robust mastiff build, short brindle or fawn coat with undercoat, withers height (males 58-61 cm, females 55-58 cm, 2 cm tolerance), and weight (males 38-45 kg, females 33-40 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-uruguayan-cimarron-nomenclature": {
+    id: "fci-uruguayan-cimarron-nomenclature",
+    name: "FCI - Cimarrón Uruguayo Breed Nomenclature (No. 353)",
+    url: "https://www.fci.be/en/nomenclature/CIMARRON-URUGUAYO-353.html",
+    type: "official_breed_standard",
+    publishedOn: "2022-07-08",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming Uruguay as country of origin, Group 2 Section 2.1 classification without working trial, definitive recognition date (2017-11-07), and official multilingual name (Cimarrón Uruguayo).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "ukc-cimarron-uruguayo-breed-standard": {
+    id: "ukc-cimarron-uruguayo-breed-standard",
+    name: "United Kennel Club - Cimarron Uruguayo Breed Standard",
+    url: "https://www.ukcdogs.com/cimarron-uruguayo",
+    type: "official_breed_standard",
+    publishedOn: "2006-07-01",
+    accessedOn: "2026-11-17",
+    note: "Official UKC breed standard (Guardian Dog Group, recognized 2006) covering conformation, rectangular proportions, short brindle/fawn coat, and highly territorial guardian behavior.",
+    publisher: "United Kennel Club"
+  },
+  "akc-uruguayan-cimarron-breed-profile": {
+    id: "akc-uruguayan-cimarron-breed-profile",
+    name: "American Kennel Club - Uruguayan Cimarron Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/uruguayan-cimarron/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile (Foundation Stock Service) covering Uruguayan national dog history, feral survival, lifespan (10-14 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "wikimedia-uruguayan-cimarron-1-canarian": {
+    id: "wikimedia-uruguayan-cimarron-1-canarian",
+    name: "Wikimedia Commons - File:Uruguayan Cimarron 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Uruguayan_Cimarron_1.jpg",
+    type: "other",
+    publishedOn: "2016-12-11",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (600 x 497 px) of a female Uruguayan Cimarron standing outdoors by Canarian (captured and uploaded 2016-12-11). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-uruguayan-cimarron-2-canarian": {
+    id: "wikimedia-uruguayan-cimarron-2-canarian",
+    name: "Wikimedia Commons - File:Uruguayan Cimarron 2.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Uruguayan_Cimarron_2.jpg",
+    type: "other",
+    publishedOn: "2016-12-11",
+    accessedOn: "2026-11-17",
+    note: "Photograph (600 x 549 px) featuring a female fawn brindle Uruguayan Cimarron sitting attentively by Canarian (captured and uploaded 2016-12-11). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-west-siberian-laika-official-standard": {
+    id: "fci-west-siberian-laika-official-standard",
+    name: "FCI - West Siberian Laika Official Breed Standard No. 306",
+    url: "https://www.fci.be/Nomenclature/Standards/306g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2011-03-02",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 306 (valid standard dated 2010-10-13, published 2011-03-02). Covers Russian origin (Ural and West Siberia), Group 5 Spitz and primitive types, Section 2 Nordic Hunting Dogs classification with working trial, primitive wolf-like build, curled tail, bark-pointing behavior, withers height (males 55-62 cm, females 51-58 cm), and weight (males 18-28 kg, females 16-23 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-west-siberian-laika-nomenclature": {
+    id: "fci-west-siberian-laika-nomenclature",
+    name: "FCI - West Siberian Laika Breed Nomenclature (No. 306)",
+    url: "https://www.fci.be/en/nomenclature/WEST-SIBERIAN-LAIKA-306.html",
+    type: "official_breed_standard",
+    publishedOn: "2011-03-02",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming Russia as country of origin, Group 5 Section 2 classification with working trial, definitive recognition date (1980-06-03), and official multilingual name (Zapadnosibirskaya Laika).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-west-siberian-laika-breed-profile": {
+    id: "akc-west-siberian-laika-breed-profile",
+    name: "American Kennel Club - West Siberian Laika Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/west-siberian-laika/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile (Foundation Stock Service) covering indigenous Khanty and Mansi roots, bark-pointing hunting style, height (20-24 inches), weight (40-55 lbs), lifespan (12-14 years), temperament, robust primitive health, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "ukc-west-siberian-laika-breed-standard": {
+    id: "ukc-west-siberian-laika-breed-standard",
+    name: "United Kennel Club - West Siberian Laika Breed Standard",
+    url: "https://www.ukcdogs.com/west-siberian-laika",
+    type: "official_breed_standard",
+    publishedOn: "1998-01-01",
+    accessedOn: "2026-11-17",
+    note: "Official UKC breed standard (Northern Breed Group, recognized 1998) covering conformation, rectangular proportions, primitive spitz build, harsh coat, and highly independent hunting behavior.",
+    publisher: "United Kennel Club"
+  },
+  "wikimedia-laika-zapadnosyberyjska-2009-pl": {
+    id: "wikimedia-laika-zapadnosyberyjska-2009-pl",
+    name: "Wikimedia Commons - File:Laika zapadnosyberyjska 2009 pl.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Laika_zapadnosyberyjska_2009_pl.jpg",
+    type: "other",
+    publishedOn: "2009-02-17",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (2548 x 1985 px) of an adult West Siberian Laika standing alert outdoors by Piotr Jaworski (captured 2009-02-14, uploaded by PioM 2009-02-17). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-lajka-zapadnosyberyjska-212": {
+    id: "wikimedia-lajka-zapadnosyberyjska-212",
+    name: "Wikimedia Commons - File:Lajka zapadnosyberyjska 212.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Lajka_zapadnosyberyjska_212.jpg",
+    type: "other",
+    publishedOn: "2006-07-20",
+    accessedOn: "2026-11-17",
+    note: "Photograph (600 x 438 px) featuring a West Siberian Laika in profile, showing its wedge-shaped head and curled tail by Pleple2000 (captured and uploaded 2006-07-20). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-japanese-spitz-official-standard": {
+    id: "fci-japanese-spitz-official-standard",
+    name: "FCI - Japanese Spitz (Nihon Supittsu) Official Breed Standard No. 262",
+    url: "http://www.fci.be/nomenclature/Standards/262g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1999-06-16",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 262 (valid standard dated 1987, published 1999-06-16). Covers Japanese origin, Group 5 Spitz and primitive type, Section 5 Asian Spitz and related breeds classification without working trial, pure white coat, 10:11 proportions, noise prohibition, and withers height (males 30-38 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-japanese-spitz-nomenclature": {
+    id: "fci-japanese-spitz-nomenclature",
+    name: "FCI - Japanese Spitz Breed Nomenclature (No. 262)",
+    url: "https://www.fci.be/en/nomenclature/JAPANESE-SPITZ-262.html",
+    type: "official_breed_standard",
+    publishedOn: "1999-06-16",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming Japan as country of origin, Group 5 Section 5 classification without working trial, definitive recognition date (1964-04-22), and official multilingual name (Nihon Supittsu).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-japanese-spitz-breed-profile": {
+    id: "akc-japanese-spitz-breed-profile",
+    name: "American Kennel Club - Japanese Spitz Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/japanese-spitz/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile (Foundation Stock Service) covering companion temperament, height (12-15 inches), weight (10-25 pounds), lifespan (10-14 years), patellar luxation, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "wikimedia-japanese-spitz-trev-grant": {
+    id: "wikimedia-japanese-spitz-trev-grant",
+    name: "Wikimedia Commons - File:Japanese Spitz.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Japanese_Spitz.jpg",
+    type: "other",
+    publishedOn: "2013-01-01",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (2582 x 1728 px) of an adult Japanese Spitz standing alert by Trev Grant (captured 2012-12-25, uploaded by Ltshears 2013-01-01). Licensed under CC BY 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-japanese-spitz-8-weeks-anonharuhi": {
+    id: "wikimedia-japanese-spitz-8-weeks-anonharuhi",
+    name: "Wikimedia Commons - File:Japanese-Spitz-8-Weeks.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Japanese-Spitz-8-Weeks.jpg",
+    type: "other",
+    publishedOn: "2018-05-23",
+    accessedOn: "2026-11-17",
+    note: "Photograph (3072 x 2048 px) featuring an eight-week-old Japanese Spitz puppy standing on grass by Anonharuhi (captured and uploaded 2018-05-23). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-cao-da-serra-de-aires-official-standard": {
+    id: "fci-cao-da-serra-de-aires-official-standard",
+    name: "FCI - Cão da Serra de Aires Official Breed Standard No. 93",
+    url: "https://www.fci.be/Nomenclature/Standards/093g01-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2008-11-04",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 93 (valid standard dated 2008-11-04). Covers Portuguese origin (Alentejo region), Group 1 Sheepdogs and Cattledogs (except Swiss Cattledogs), Section 1 Sheepdogs classification without working trial, monkey-like facial expression, lack of undercoat, withers height (males 45-55 cm, females 42-52 cm), and weight (17-27 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-cao-da-serra-de-aires-nomenclature": {
+    id: "fci-cao-da-serra-de-aires-nomenclature",
+    name: "FCI - Cão da Serra de Aires Breed Nomenclature (No. 93)",
+    url: "https://www.fci.be/en/nomenclature/PORTUGUESE-SHEEPDOG-93.html",
+    type: "official_breed_standard",
+    publishedOn: "2008-11-04",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming Portugal as country of origin, Group 1 Section 1 classification without working trial, definitive recognition date (1954-02-26), and official multilingual names (Cão da Serra de Aires, Portuguese Sheepdog).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "cpc-cao-da-serra-de-aires-standard": {
+    id: "cpc-cao-da-serra-de-aires-standard",
+    name: "Clube Português de Canicultura - Estalão do Cão da Serra de Aires",
+    url: "https://www.cpc.pt/racas/racas-portuguesas/cao-da-serra-de-aires/",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official Portuguese Kennel Club (CPC) breed standard and profile for Cão da Serra de Aires, documenting native Iberian heritage, Alentejo herding history, morphological proportions, 'monkey dog' trait, and lack of undercoat.",
+    publisher: "Clube Português de Canicultura"
+  },
+  "akc-portuguese-sheepdog-breed-profile": {
+    id: "akc-portuguese-sheepdog-breed-profile",
+    name: "American Kennel Club - Portuguese Sheepdog Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/portuguese-sheepdog/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile (Foundation Stock Service) covering Alentejo plains history, 'Monkey Dog' nickname, lifespan (12-15 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "ukc-portuguese-sheepdog-breed-standard": {
+    id: "ukc-portuguese-sheepdog-breed-standard",
+    name: "United Kennel Club - Portuguese Sheepdog Breed Standard",
+    url: "https://www.ukcdogs.com/portuguese-sheepdog",
+    type: "official_breed_standard",
+    publishedOn: "2006-07-01",
+    accessedOn: "2026-11-17",
+    note: "Official UKC breed standard (Herding Dog Group, recognized 2006) covering conformation, rectangular proportions, monkey-like facial expression, and highly intelligent herding behavior.",
+    publisher: "United Kennel Club"
+  },
+  "wikimedia-cao-da-serra-de-aires-erk": {
+    id: "wikimedia-cao-da-serra-de-aires-erk",
+    name: "Wikimedia Commons - File:Cao da serra de aires.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Cao_da_serra_de_aires.jpg",
+    type: "other",
+    publishedOn: "2006-03-31",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (799 x 600 px) of an adult Cão da Serra de Aires standing outdoors by Erk (captured 2005-09-24, uploaded by Erk~commonswiki 2006-03-31). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-cao-da-serra-de-aires-canarian": {
+    id: "wikimedia-cao-da-serra-de-aires-canarian",
+    name: "Wikimedia Commons - File:Cão da Serra de Aires 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:C%C3%A3o_da_Serra_de_Aires_1.jpg",
+    type: "other",
+    publishedOn: "2013-10-18",
+    accessedOn: "2026-11-17",
+    note: "Photograph (1774 x 1222 px) featuring a close-up of a Cão da Serra de Aires by Canarian (captured and uploaded 2013-10-18). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-shikoku-official-standard": {
+    id: "fci-shikoku-official-standard",
+    name: "FCI - Shikoku Official Breed Standard No. 319",
+    url: "https://www.fci.be/Nomenclature/Standards/319g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2017-02-09",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 319. Covers Japanese origin, Group 5 Spitz and primitive types, Section 5 Asian Spitz and related breeds classification without working trial, sesame/red coat colors, and withers height (males 52 cm, females 49 cm, with a tolerance of +/- 3 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-shikoku-nomenclature": {
+    id: "fci-shikoku-nomenclature",
+    name: "FCI - Shikoku Breed Nomenclature (No. 319)",
+    url: "https://www.fci.be/en/nomenclature/SHIKOKU-319.html",
+    type: "official_breed_standard",
+    publishedOn: "2017-02-09",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming Japan as country of origin, Group 5 Section 5 classification without working trial, definitive recognition date (1982-01-26), and official multilingual name (Shikoku).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "nippo-shikoku-breed-standard": {
+    id: "nippo-shikoku-breed-standard",
+    name: "Nihon Ken Hozonkai (NIPPO) - Shikoku Standard and Data",
+    url: "https://www.nihonken-hozonkai.or.jp/",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official Japanese parent club and primary registry (NIPPO) breed data detailing Kochi-ken regional history, wild boar hunting utility, and specific working weight ranges (17-23 kg for males, 15-18 kg for females).",
+    publisher: "Nihon Ken Hozonkai"
+  },
+  "akc-shikoku-breed-profile": {
+    id: "akc-shikoku-breed-profile",
+    name: "American Kennel Club - Shikoku Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/shikoku/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile (Foundation Stock Service) covering Japanese national monument designation, primitive hunting heritage, lifespan (12-15 years typically), temperament, high prey drive, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "wikimedia-shikoku-dog-bigsteeve": {
+    id: "wikimedia-shikoku-dog-bigsteeve",
+    name: "Wikimedia Commons - File:Shikoku dog.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Shikoku_dog.jpg",
+    type: "other",
+    publishedOn: "2006-10-28",
+    accessedOn: "2026-11-17",
+    note: "Photograph (362 x 480 px) of an adult Shikoku dog shown in profile, with a curled tail, by Bigsteeve (uploaded by Caronna 2006-10-28). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-shikoku-ken-1-canarian": {
+    id: "wikimedia-shikoku-ken-1-canarian",
+    name: "Wikimedia Commons - File:Shikoku Ken 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Shikoku_Ken_1.jpg",
+    type: "other",
+    publishedOn: "2016-12-10",
+    accessedOn: "2026-11-17",
+    note: "Photograph (4592 x 3056 px) of a sesame Shikoku standing alert outdoors by Canarian (captured and uploaded 2016-12-10). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "akc-american-hairless-terrier-breed-standard": {
+    id: "akc-american-hairless-terrier-breed-standard",
+    name: "American Kennel Club - Official Standard of the American Hairless Terrier",
+    url: "https://images.akc.org/pdf/breeds/standards/AmericanHairlessTerrier.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2016-01-01",
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed standard (Terrier Group, approved 2015, effective 2016) establishing height (12 to 16 inches), proportionate weight, hairless and coated varieties, complete dentition, and energetic terrier temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-american-hairless-terrier-breed-profile": {
+    id: "akc-american-hairless-terrier-breed-profile",
+    name: "American Kennel Club - American Hairless Terrier Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/american-hairless-terrier/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile covering Louisiana history, Josephine foundation, recessive SGK3 mutation, weight (12-16 pounds), lifespan (14-16 years), apartment adaptability, temperament, and skin care.",
+    publisher: "American Kennel Club"
+  },
+  "ukc-american-hairless-terrier-breed-standard": {
+    id: "ukc-american-hairless-terrier-breed-standard",
+    name: "United Kennel Club - American Hairless Terrier Breed Standard",
+    url: "https://www.ukcdogs.com/american-hairless-terrier",
+    type: "official_breed_standard",
+    publishedOn: "2004-01-01",
+    accessedOn: "2026-11-17",
+    note: "Official UKC breed standard (Terrier Group, recognized 2004) covering conformation, rectangular proportions, skin colors, lack of dominant lethal dental issues, and highly affectionate companion behavior.",
+    publisher: "United Kennel Club"
+  },
+  "ahtca-american-hairless-terrier-health": {
+    id: "ahtca-american-hairless-terrier-health",
+    name: "American Hairless Terrier Club of America - Health and Disease Testing",
+    url: "https://ahtca.info/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official national parent club health portal documenting structural health risks and mandatory pre-breeding health testing, explicitly requiring Primary Lens Luxation (PLL), PRA-prcd, Cardiac, and Patellar Luxation screenings.",
+    publisher: "American Hairless Terrier Club of America"
+  },
+  "ofa-american-hairless-terrier-chic-requirements": {
+    id: "ofa-american-hairless-terrier-chic-requirements",
+    name: "Orthopedic Foundation for Animals - American Hairless Terrier CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=AHT",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the American Hairless Terrier, mandating CAER Eye examination, Clinical Patellar Luxation, Legg-Calve-Perthes, Cardiac, and DNA tests for PLL and PRA-prcd.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-american-hairless-terrier-in-finland": {
+    id: "wikimedia-american-hairless-terrier-in-finland",
+    name: "Wikimedia Commons - File:American Hairless Terrier in Finland.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:American_Hairless_Terrier_in_Finland.jpg",
+    type: "other",
+    publishedOn: "2016-10-29",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (600 x 526 px) of a male American Hairless Terrier standing outdoors by Canarian (captured and uploaded 2016-10-29). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-american-hairless-terrier-adelor": {
+    id: "wikimedia-american-hairless-terrier-adelor",
+    name: "Wikimedia Commons - File:American Hairless Terrier Adelor.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:American_Hairless_Terrier_Adelor.jpg",
+    type: "other",
+    publishedOn: "2009-07-23",
+    accessedOn: "2026-11-17",
+    note: "Photograph (1536 x 2304 px) featuring an adult American Hairless Terrier standing on a rocky surface by Nyaah (captured and uploaded 2009-07-23). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
 });
 
 export type SourceId = keyof typeof sources;
