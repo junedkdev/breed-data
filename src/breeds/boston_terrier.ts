@@ -399,7 +399,7 @@ export const boston_terrier: Breed = {
     },
 
     alternateNames: {
-      reliability: "official_standard",
+      reliability: "reliable_source",
       sources: [
         {
           id: "akc-boston-terrier-breed-profile",
@@ -872,7 +872,7 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "Lifespan (11-13 years), apartment living, housebreaking, child suitability, and grooming"
+          locator: "Lifespan (11-13 years), apartment living, housebreaking difficulty, child suitability, and grooming"
         },
         {
           id: "ofa-boston-terrier-chic-requirements",

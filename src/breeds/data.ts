@@ -203,6 +203,10 @@ import { dachshund } from "./dachshund";
 import { standard_schnauzer } from "./standard_schnauzer";
 import { boston_terrier } from "./boston_terrier";
 import { saarlooswolfhond } from "./saarlooswolfhond";
+import { welsh_springer_spaniel } from "./welsh_springer_spaniel";
+import { french_spaniel } from "./french_spaniel";
+import { lakeland_terrier } from "./lakeland_terrier";
+import { portuguese_pointer } from "./portuguese_pointer";
 
 
 export const breedData: readonly Breed[] = [
@@ -405,4 +409,8 @@ export const breedData: readonly Breed[] = [
   standard_schnauzer,
   boston_terrier,
   saarlooswolfhond,
+  welsh_springer_spaniel,
+  french_spaniel,
+  lakeland_terrier,
+  portuguese_pointer,
 ];

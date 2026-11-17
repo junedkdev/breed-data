@@ -3,141 +3,150 @@ import type { Breed } from "../schema/breed.types";
 export const beagle_harrier: Breed = {
   slug: "beagle-harrier",
   name: "Beagle-Harrier",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Beagle Harrier",
     "Chien Beagle-Harrier",
-    "Beagle-Harrier Français"
   ],
 
   group:
-    "Scenthounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial; also classified in the Scenthound group)",
+    "Scent Hounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial)",
 
   origin: {
     country: "France",
-    region: "Southwestern France (Bordeaux and the Gascony region)"
+    region: "Landes de Gascogne (southwestern France)",
   },
 
   images: [
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Beagle_harrier.JPG",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Beagle_harrier.JPG",
+      title: "Beagle harrier.JPG",
+      description: "A tricolour Beagle-Harrier outdoors.",
+      creator: "Grzes1966",
+      uploader: "Grzes1966",
+      capturedOn: "2011-07-10",
+      uploadedOn: "2011-07-10",
+      width: 3072,
+      height: 2304,
+      licenseId: "cc-by-sa-3.0",
+      attribution:
+        "Photo by Grzes1966, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Beagle_harrier.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
+      restrictions: null,
+      metadataCheckedOn: "2026-11-17",
+    },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Beagle-Harrier.JPG",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Beagle-Harrier.JPG",
       title: "Beagle-Harrier.JPG",
       description: "A tricolour Beagle-Harrier standing outdoors.",
-      creator: "Pleple2000",
-      uploader: "Pleple2000",
-      capturedOn: "2008-10-05",
-      uploadedOn: "2008-10-18",
-      width: 2400,
-      height: 1800,
+      creator: null,
+      uploader: null,
+      capturedOn: null,
+      uploadedOn: null,
+      width: 1884,
+      height: 1624,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Beagle-Harrier.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "File:Beagle-Harrier.JPG via Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Beagle-Harrier.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
-    }
+      metadataCheckedOn: "2026-11-17",
+    },
   ],
 
   overview: {
     summary:
-      "A harmonious, medium-sized French scenthound combining the keen scenting prowess of smaller hounds with the speed and athletic stamina of larger hounds, known for its tricolour coat and melodious tracking voice.",
+      "The Beagle-Harrier is a balanced, distinguished, medium-sized French scent hound standing 45 to 50 cm at the withers, bred in nineteenth-century Gascony to unite fine scenting skill with agile speed and pack endurance on hare, fox, roe deer, and wild boar.",
 
     description:
-      "The Beagle-Harrier is a well-proportioned, agile, and vigorous French scenthound specifically bred to bridge the physical gap between two traditional hunting breeds. Standing at a balanced medium height, it possesses a clean, rectangular silhouette with dry bone structure, strong musculature, and lightfooted movement. Its coat is rather thick, flat, and weather-resistant, traditionally displaying a fawn base with a black or grey blanket and white markings. The head is moderately broad with a flat skull, dark expressive eyes radiating intelligence, and short, V-shaped pendant ears set high. In the home, the hound is gentle, affectionate, and quiet, but in the field it transforms into an enthusiastic, tireless hunter equipped with an exceptional nose and a sonorous, carrying voice.",
+      "Harmonious, nimble, and vigorous in build, the Beagle-Harrier is a medium-proportioned hound that is neither a giant Beagle nor a miniature Harrier, but a distinct intermediate breed in its own right. Its muzzle equals the skull in length, tapering cleanly in profile without ever appearing square or snipey, while dark, well-opened eyes convey a frank, lively, and intelligent expression. Rather short, half-broad ears are set at eye level and lie flat against the skull before turning slightly inward toward their oval tips. Covered in a thick, flat coat—most often tricolour with a black or grey blanket and tan shadings from pale to charbonné, or white and grey—the hound moves with a supple, free, and lively stride in the field while remaining an agreeable, good-natured companion at home.",
 
     history:
-      "The breed was established in southwestern France during the late nineteenth and early twentieth centuries by Baron Gérard Grandin de l'Éprevier. The goal was to create a medium-sized pack hound capable of hunting European hare and roe deer across difficult terrain, possessing greater speed than smaller trailing hounds while remaining nimble enough for huntsmen on foot or horseback to follow. By crossing selective hunting lines of British ancestry with native French hounds, the Baron and subsequent regional breeders stabilized an intermediate type renowned for endurance, scenting acuity, and pack harmony. Following the disruptions of the mid-twentieth century, dedicated French hunting kennels preserved the lineage, leading to formal international recognition in the postwar era. Today, it remains an authentic, functional hound cherished primarily in French hunting circles.",
+      "Conceived in France at the end of the nineteenth century, the Beagle-Harrier was developed by Baron Gérard, who hunted hare across the heaths of the Landes de Gascogne near Saint-Vincent-de-Tyrosse. Seeking a hound larger and faster than the Beagle yet handier than the Harrier, he crossed English Beagles and Harriers with native southwestern French Briquet hounds. Although mid-twentieth-century attempts to tip the breed too far toward either parent stock threatened its type, French breed stewards stabilised a balanced, distinct hound. Internationally recognised on a definitive basis on 2 September 1972 and formally standardised in 1974, the Beagle-Harrier enjoys growing numbers in France today as a versatile small-pack hunting hound.",
 
     originalPurpose:
-      "Pack hunting and tracking of European hare, roe deer, and wild boar across varied countryside, farmland, and dense woodlands.",
+      "Pack and gun hunting of hare, fox, roe deer, and wild boar across heaths, woodland, and thick bramble cover.",
 
     currentRoles: [
-      "Traditional pack and solo hunting hound for hare, deer, and boar",
-      "Field trial and scent tracking competitor",
-      "Active companion for rural and outdoor sporting households",
-      "Search, rescue, and tracking detection dog"
-    ]
+      "Pack and gun hunting scent hound for hare, fox, roe deer, and wild boar",
+      "Working scent-hound field trial participant",
+      "Mantrailing and recreational nose-work dog",
+      "Active rural household companion",
+    ],
   },
 
   physical: {
-    sizeCategory: "Medium",
+    sizeCategory: "Medium-sized, balanced, athletic scent hound",
 
     height: {
       unit: "cm",
       male: {
         min: 45,
-        max: 50
+        max: 50,
       },
       female: {
         min: 45,
-        max: 50
-      }
+        max: 50,
+      },
     },
 
     weight: {
       unit: "kg",
       male: {
         min: 19,
-        max: 21
+        max: 21,
       },
       female: {
         min: 19,
-        max: 21
-      }
+        max: 21,
+      },
     },
 
     lifespanYears: {
       min: 12,
-      max: 15
+      max: 14,
     },
 
     coatType:
-      "Rather thick, short, dense, and flat-lying coat without fringing or brush, providing effective natural protection against thorny undergrowth and wet weather.",
+      "Rather thick, not too short, flat-lying weather-resistant coat.",
 
-    coatLength: "Short",
+    coatLength:
+      "Short to medium-short and flat.",
 
     coatColors: [
-      "Tricolour (fawn with black blanket or mantle and white)",
-      "Grey tricolour (fawn with grey blanket or mantle and white)",
-      "White and orange",
-      "White and grey"
+      "Tricolour (fawn with a black blanket and white, with tan shadings ranging from bright or pale to black-overlaid charbonné)",
+      "Grey tricolour (fawn with a grey blanket and white)",
+      "White and grey (bicolour white and grey)",
     ],
 
-    sheddingLevel:
-      "Low to moderate year-round shedding with minor seasonal increases during spring and autumn",
+    sheddingLevel: null,
 
-    droolingLevel:
-      "Low; tight lips without pendulous flews minimize salivation",
+    droolingLevel: null,
 
     distinctiveFeatures: [
-      "Harmonious, medium-sized hound profile intermediate between the two ancestral breeds",
-      "Height at the withers of 45 to 50 cm for both males and females",
-      "Weight of 19 to 21 kg combining speed with muscular endurance",
-      "Moderately broad head with a rather flat skull, slight stop, and barely perceptible occipital bone",
-      "Straight nasal bridge with a black, well-developed nose and wide nostrils",
-      "Dark brown eyes with a frank, lively, and intelligent expression",
-      "Short, V-shaped pendant ears set high, hanging flat along the cheeks with slightly rounded tips",
-      "Dry, muscular neck without loose skin or dewlap",
-      "Short, straight, and firm back leading to a strong, well-supported loin",
-      "Deep, broad chest reaching at least to the elbows with well-sprung ribs",
-      "Medium-length tail set high, carried gaily in a gentle sabre curve with a slight brush of hair",
-      "Strong, straight limbs with oval or round, well-arched feet with thick, hard pads"
-    ]
+      "Balanced, distinguished medium-proportioned build standing 45 to 50 cm at the withers",
+      "Skull and muzzle of approximately equal length, tapering in profile without appearing square or pointed",
+      "Lips covering the lower jaw cleanly without loose excess",
+      "Well-opened dark eyes with a frank, lively, and intelligent expression",
+      "Rather short, half-broad ears set at eye level, lying flat along the skull and turning slightly at their lower oval tips",
+      "Free-moving neck well joined to long, oblique, muscular shoulders and slightly arched in upper profile",
+      "Short, well-supported, muscular back with a strong, slightly arched loin",
+      "Deep chest let down to the elbows without being flat-sided",
+      "Strong, upright limbs with tight, neither overly long nor splayed feet and thick, hard pads",
+      "Rather thick, flat coat in tricolour, grey tricolour, or white and grey",
+    ],
   },
 
   temperament: {
     traits: [
-      "Energetic, passionate, and determined when pursuing quarry",
-      "Calm, gentle, and affectionate in the home",
-      "Sociable and cooperative in pack environments with other hounds",
-      "Alert and attentive to surroundings",
-      "Loyal and friendly with family members",
-      "Patient and good-natured with children",
-      "High stamina and untiring physical endurance",
-      "High predatory drive toward hare, deer, and small wildlife",
-      "Independent problem-solver when tracking scent trails",
-      "Melodious, sonorous voice that carries across rolling terrain"
+      "Hardy, vigorous, fast, and nimble in the field",
+      "Courageous and unafraid of dense bramble thickets",
+      "Keen-nosed and vocal with a clear, resonant voice",
+      "Cooperative and disciplined within a pack",
+      "Frank, adaptable, and agreeable in temperament",
+      "Affectionate and pleasant as a household companion when well exercised",
+      "Strong hunting instinct toward hare, fox, roe deer, and wild boar",
     ],
 
     scores: {
@@ -149,64 +158,62 @@ export const beagle_harrier: Breed = {
       independence: 4,
       trainability: 3,
       barking: 4,
-      energy: 4
-    }
+      energy: 4,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "High; bred as a working pack scenthound requiring vigorous daily physical activity and olfactory stimulation",
+        "High. Built for speed and stamina across rough cover, the Beagle-Harrier needs substantial daily outdoor activity paired with scent-tracking outlets.",
 
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 90,
       },
 
       activities: [
-        "Long daily leashed walks and trail hikes in natural environments",
-        "Structured scent tracking and blood tracking enrichment games",
-        "Supervised free running in a large, securely fenced field or paddock",
-        "Field trailing and drag-scent exercise",
-        "Canicross, trail running, or jogging alongside a bicycle once skeletally mature",
-        "Interactive food puzzles and nosework searches"
-      ]
+        "Long daily country walks or woodland hikes (on lead or long line in open areas)",
+        "Pack or gun hunting and field trailing in season",
+        "Mantrailing, blood-tracking, and recreational nose-work games",
+        "Supervised running inside a securely fenced paddock or garden",
+        "Canicross or trail jogging with a skeletally mature adult",
+      ],
     },
 
     grooming: {
       level: "Low",
 
       brushing:
-        "Brush once weekly using a firm bristle brush or rubber grooming mitt to lift loose hair and keep the short coat glossy; increase to twice weekly during seasonal coat changes in spring and autumn.",
+        "Brush once a week with a rubber curry mitt or bristle brush to remove dead hair and dried mud from the flat coat.",
 
       bathing:
-        "Bathe only when necessary or heavily soiled after muddy outdoor runs, using a mild canine shampoo to avoid stripping the coat's natural weather-protective oils.",
+        "Bathe only when soiled after fieldwork using a mild canine shampoo, rinsing and drying the coat and ears thoroughly.",
 
       notes: [
-        "Inspect the pendant ears weekly for moisture, wax buildup, or debris, especially after outings in tall grass or brush.",
-        "Check paw pads and toes for thorns, cuts, burrs, or embedded seeds after field runs.",
-        "Trim strong, fast-growing nails every two to three weeks to maintain correct foot structure.",
-        "Brush teeth several times weekly using enzyme-based pet toothpaste.",
-        "Wipe down the short coat with a damp cloth after woodland walks to remove dust and loose vegetation.",
-        "Maintain consistent tick, flea, and heartworm prevention during active outdoor months."
-      ]
+        "Check the hanging ears weekly for moisture, grass seeds, wax, or redness.",
+        "Inspect paw pads, nails, and skin after outings in brambles or woodland for thorns and ticks.",
+        "Keep nails trimmed if they do not wear down naturally.",
+        "Brush teeth regularly with canine toothpaste.",
+        "Maintain year-round tick, flea, and internal parasite prevention.",
+      ],
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent and cooperative, but guided by a powerful scent-tracking drive that can override handler focus when an enticing animal trail is detected",
+        "Moderate. Frank, cooperative, and adaptable by nature, yet possessing a fast, determined trailing drive that demands early recall work and secure lead management outdoors.",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
-        "Begin recall training from early puppyhood using a long training line in secure outdoor areas.",
-        "Keep training sessions short, dynamic, and engaging to prevent boredom.",
-        "Keep the dog on a leash or within a securely fenced area outdoors, as strong hunting instincts can trigger focused trailing.",
-        "Channel natural scenting ability into structured tracking or search games.",
-        "Avoid harsh verbal corrections or physical force, which cause this sensitive hound to lose trust and withdraw."
+        "Use patient, reward-based training and high-value food or scent rewards.",
+        "Begin recall conditioning early in puppyhood using a long line in open areas.",
+        "Keep sessions varied and purposeful.",
+        "Walk on lead or inside secure fencing whenever wildlife scent is nearby.",
+        "Channel its fine nose into tracking, mantrailing, or search games.",
+        "Avoid harsh corrections, which are counterproductive with scenthounds.",
       ],
 
       socialization:
-        "Introduce the puppy in a positive, structured manner to a wide range of people, friendly vaccinated dogs, household sounds, vehicles, and varied outdoor environments. Early social exposure develops a confident, stable companion that remains composed in family settings while retaining keen hunting instincts."
+        "Introduce puppies gradually and positively to varied people, other dogs, household noises, and outdoor settings. Because it is bred to work harmoniously in a pack, it is typically very sociable with other dogs.",
     },
 
     livingEnvironment: {
@@ -214,79 +221,72 @@ export const beagle_harrier: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate climates",
-        "Cool and rainy climates, where the dense flat coat provides natural weather resistance",
-        "Warm climates, provided there is ample shade, indoor cooling, fresh water, and exercise is scheduled during cooler morning or evening hours"
+        "Temperate and oceanic climates",
+        "Cool or wet weather, where its thick, flat coat offers solid protection",
+        "Warm weather with shade, fresh water, and exercise scheduled for cooler morning or evening hours",
       ],
 
       aloneTimeTolerance:
-        "Moderate when thoroughly exercised beforehand, though prolonged isolation without canine company or mental enrichment can prompt vocal howling, barking, or digging."
-    }
+        "Moderate when well exercised or kept with another canine companion, though extended isolation can trigger vocalising.",
+    },
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized, active sporting or working hounds, adjusted for seasonal field exertion.",
+      "Complete, balanced diet formulated for medium-sized, active working hounds and adjusted to seasonal workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured meals daily until six months of age, transitioning to two meals daily thereafter on a growth formula supporting steady development.",
+        "Feed three to four measured meals daily until around six months of age, then transition to two daily meals.",
       adult:
-        "Two measured meals daily to support steady energy and comfortable digestion.",
+        "Feed two measured meals daily, separating meals from vigorous exercise.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint mobility, and lean muscle retention."
+        "Feed two portion-controlled meals daily tailored to age, mobility, and activity level.",
     },
 
     guidelines:
-      "Measure food rations carefully with a digital kitchen scale or standard measuring cup, adjusting caloric intake to match seasonal hunting demands. Divide the daily allowance into two meals, refrain from vigorous running for at least one hour before and after eating, and provide cool, fresh drinking water at all times.",
+      "Measure rations to keep the hound lean, muscular, and light on its feet. Increase calorie intake during active hunting or trailing seasons and reduce portions during quieter months, keeping clean drinking water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition where ribs are easily felt without excess fat padding.",
-      "Increase caloric and protein density during active autumn and winter hunting or tracking trials.",
-      "Count training treats toward the daily caloric allowance to avoid creeping weight gain during off-season months.",
-      "Rest the dog before and after meals to promote healthy digestion.",
-      "Provide clean drinking water, especially during long tracking excursions in warm weather.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Maintain a lean working condition to protect joints and stamina.",
+      "Scale portions between active hunting seasons and rest periods.",
+      "Count training treats within the daily calorie allowance.",
+      "Allow rest before and after meals around strenuous exercise.",
+      "Provide fresh water before and after trailing sessions.",
     ],
 
     note:
-      "Caloric needs fluctuate substantially between sedentary summer months and active autumn hunting seasons. Work with a veterinarian to establish tailored daily feeding portions."
+      "General canine nutrition guidance; individual portions depend on age, food calorie density, and workload.",
   },
 
   health: {
     overview:
-      "The Beagle-Harrier is a remarkably hardy, robust scenthound with a typical lifespan of 12 to 15 years. Developed as a functional working hound to withstand long days of tracking across rugged French terrain, it has largely avoided the hereditary genetic disorders and structural exaggerations seen in more commercial breeds. Health considerations focus primarily on active sporting injuries, drop-ear management, and routine orthopedic screening, including hip dysplasia and otitis externa.",
+      "The Beagle-Harrier is a hardy, rustic working hound with a typical life expectancy of 12 to 14 years and no widespread breed-specific hereditary disease panels established by major kennel clubs. Practical health care centres on routine inspection of its hanging ears, checking paws, eyes, and coat for thorns or ticks after work in heavy brambles, and maintaining a lean, athletic weight.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, monitored through pre-breeding radiographic screening programs",
-      "Otitis externa — bacterial or yeast infections in the ear canal encouraged by folded, pendant ear flaps that reduce air circulation",
-      "Field injuries — minor lacerations, pad abrasions, torn nails, or muscle sprains sustained while tracking game through dense brush or across rocky ground",
-      "Canine vector-borne infections — tick-borne diseases (such as Lyme disease, piroplasmosis, and anaplasmosis) encountered in wooded hunting habitats"
+      "Otitis externa or ear-canal irritation associated with hanging ears and outdoor debris.",
+      "Field-related cuts, thorn punctures, or pad abrasions acquired in dense bramble cover.",
+      "Tick-borne infections in wooded hunting regions if parasite prevention is neglected.",
     ],
 
     preventiveCare: [
-      "Verify that breeding parents have official radiographic hip evaluation clearances.",
-      "Inspect and dry the pendant ears weekly, particularly after wet forest runs or swims.",
-      "Maintain strict tick, flea, and internal parasite prevention throughout active tracking seasons.",
-      "Check paw pads, toes, and skin after hunting trips for thorns, cuts, burrs, or embedded debris.",
-      "Maintain a lean, athletic body condition to avoid premature joint wear.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine dental care."
+      "Inspect and dry the hanging ears weekly, particularly after wet woodland outings.",
+      "Check paw pads, interdigital spaces, eyes, and coat after every run in brush or brambles.",
+      "Maintain consistent tick, flea, and internal parasite prevention.",
+      "Keep the dog at a lean, muscular weight year-round.",
+      "Schedule routine veterinary wellness examinations and vaccinations.",
     ],
 
-    recommendedScreenings: [
-      "Radiographic hip dysplasia screening prior to breeding",
-      "Routine clinical veterinary ophthalmic examination",
-      "Annual veterinary blood screening for tick-borne diseases in endemic hunting territories"
-    ],
+    recommendedScreenings: [],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine toothpaste and have teeth checked at routine veterinary visits.",
 
     earCare:
-      "Inspect the high-set pendant ears weekly for wax buildup, moisture, or foul odor. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly without inserting swabs deep into the canal.",
+      "Check the hanging ears weekly for moisture, trapped plant material, wax, or odour, and clean gently with a veterinarian-approved ear cleanser when needed.",
 
     skinCare:
-      "Part the dense coat weekly to inspect the skin for external parasites, scratches, or hot spots. The close-lying coat naturally sheds dirt and requires minimal skin intervention beyond regular brushing."
+      "Brush through the thick, flat coat after field outings to remove burrs, thorns, and ticks.",
   },
 
   suitability: {
@@ -297,93 +297,80 @@ export const beagle_harrier: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active hunters, field trial competitors, and tracking enthusiasts seeking a dedicated scenthound",
-      "Experienced dog owners familiar with managing strong hound drive and outdoor independence",
-      "Rural or semi-rural households with large, securely fenced outdoor space",
-      "Outdoor lovers who engage in regular long-distance hiking, trail running, or woodland exploration",
-      "Families that appreciate a calm, gentle, and quiet indoor companion paired with high outdoor energy"
+      "Hunters, mantrailing handlers, and scent-work enthusiasts",
+      "Rural or suburban households with a securely fenced garden and countryside access",
+      "Active runners and hikers seeking an energetic, sociable hound",
+      "Multi-dog households that appreciate a pack-friendly temperament",
     ],
 
     notIdealFor: [
-      "Apartment dwellers or dense urban households with shared walls and limited outdoor open space",
-      "Sedentary individuals looking for a low-exercise lap pet",
-      "Households with loose small pets such as pet rabbits, ferrets, or rodents vulnerable to high prey drive",
-      "Owners who require instant off-leash obedience in unfenced, wildlife-rich areas",
-      "First-time owners unprepared for independent scent-tracking instincts"
-    ]
+      "Apartment dwellers or dense urban neighbourhoods sensitive to a clear hound voice",
+      "Sedentary households wanting a low-energy indoor pet",
+      "Homes with unfenced yards or free-roaming small pets",
+      "Owners expecting effortless off-lead recall around wildlife scent",
+    ],
   },
 
   funFacts: [
-    "The breed was created in France in the late nineteenth and early twentieth centuries by Baron Gérard Grandin de l'Éprevier to combine the sharp scenting ability of the smaller English hound with the speed and reach of the larger hound.",
-    "Its shoulder height of 45 to 50 cm was intentionally calibrated to produce a dog swift enough to follow on horseback yet agile enough for hunters on foot to keep pace with across dense cover.",
-    "In French hunting tradition, the hound is valued for hunting in small packs or as a solo hound on hare, roe deer, and wild boar.",
-    "The hound possesses a melodious, sonorous voice that changes tone to communicate to hunters whether it is trailing a cold line or pushing live game.",
-    "Its coat pattern is predominantly tricolour with a fawn base and a black blanket or mantle, often displaying subtle grey shadings reminiscent of historic French pack hounds.",
-    "Despite its high energy in the field, the dog is known for being remarkably calm, affectionate, and quiet inside the family home.",
-    "The breed was officially recognized internationally in the mid-twentieth century and remains an authentic, unexaggerated working sporting hound."
+    "Created in late nineteenth-century France by Baron Gérard, who hunted hare in the Landes de Gascogne near Saint-Vincent-de-Tyrosse.",
+    "Alongside English Beagle and Harrier stock, early breeders incorporated native southwestern French Briquet hounds to build stamina and bramble toughness.",
+    "French breed authorities emphasise that the modern stabilised Beagle-Harrier is 'neither a large Beagle nor a small Harrier', but a balanced hound in its own right.",
+    "Because grey Harriers exist in its ancestry, grey-tricolour and white-and-grey coats are explicitly permitted without penalty.",
+    "In proportion to its 45 to 50 cm height, it is considered one of the fastest and most enterprising pack hounds, capable of hunting hare, fox, roe deer, and wild boar.",
+    "Curled or twisted ears ('oreilles papillotées') are faulted because they recall an excessive throwback to older French hound blood.",
   ],
 
   faq: [
     {
       question: "What is a Beagle-Harrier?",
       answer:
-        "The Beagle-Harrier is a medium-sized French scenthound bred by crossing the Beagle and the Harrier, producing an agile, harmonious hunting dog with great stamina and an excellent nose."
+        "The Beagle-Harrier is a medium-sized French scent hound developed in the late nineteenth century from Beagle, Harrier, and southwestern French Briquet lines, standing 45 to 50 cm tall and prized for hunting hare, fox, roe deer, and wild boar.",
     },
     {
-      question: "Where does the Beagle-Harrier originate?",
+      question: "Where did the Beagle-Harrier originate?",
       answer:
-        "The breed originates from southwestern France, where it was developed around the turn of the twentieth century by Baron Gérard Grandin de l'Éprevier."
+        "It originated in southwestern France, where Baron Gérard developed the breed in the Landes de Gascogne around Saint-Vincent-de-Tyrosse.",
     },
     {
-      question: "What is the difference between a Beagle, a Harrier, and a Beagle-Harrier?",
+      question: "How does the Beagle-Harrier differ from the Beagle and the Harrier?",
       answer:
-        "The Beagle-Harrier is intermediate in size between the smaller Beagle and the taller Harrier. It stands 45 to 50 cm at the shoulder, combining the fine scenting skills of the Beagle with the longer stride, speed, and endurance of the Harrier."
+        "Standing 45 to 50 cm at the withers, it sits between the smaller Beagle (33–40 cm) and the larger Harrier (48–53 cm), combining fine scenting ability with greater speed and reach while maintaining its own distinct, balanced proportions.",
     },
     {
-      question: "How tall and heavy is a Beagle-Harrier?",
+      question: "How tall and heavy is an adult Beagle-Harrier?",
       answer:
-        "Adult males and females typically stand 45 to 50 cm at the withers and weigh 19 to 21 kg, presenting an agile, athletic outline."
+        "Both males and females measure 45 to 50 cm at the withers and typically weigh around 19 to 21 kg.",
     },
     {
-      question: "How long does a Beagle-Harrier usually live?",
+      question: "How long does a Beagle-Harrier live?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+        "Typical life expectancy is 12 to 14 years.",
     },
     {
-      question: "What does the Beagle-Harrier's coat look like?",
+      question: "What coat colours are permitted in the Beagle-Harrier?",
       answer:
-        "The coat is short, dense, and flat-lying, usually tricolour with a fawn base, white markings, and a black or grey blanket covering the back and sides."
+        "The coat is most often tricolour (fawn with a black blanket and white, with tan shadings from pale or bright to charbonné), and grey-tricolour or white-and-grey coats are also permitted without penalty.",
     },
     {
-      question: "Can a Beagle-Harrier live in an apartment?",
+      question: "Is the Beagle-Harrier suited to apartment living?",
       answer:
-        "No. Due to its high exercise requirements, working endurance, and instinct to vocalize and track scents, the breed is not suited to apartment living and thrives best in a rural or suburban home with a securely fenced yard."
+        "No. Its high daily exercise requirements, strong trailing drive, and clear, resonant voice make it best suited to a rural or suburban home with a securely fenced garden.",
     },
     {
-      question: "Is the Beagle-Harrier good with children and other dogs?",
+      question: "Does the Beagle-Harrier get along well with other dogs?",
       answer:
-        "Yes. It is exceptionally gentle, friendly, and patient with children and, as a traditional pack hound, gets along outstandingly well with other dogs."
+        "Yes. Bred to hunt in packs, it is naturally sociable and cooperative with other dogs.",
     },
     {
-      question: "How much exercise does a Beagle-Harrier need each day?",
+      question: "How much daily exercise does it need?",
       answer:
-        "The breed requires at least 60 to 90 minutes of vigorous daily physical activity, including brisk walks, hiking, and mental scent-tracking enrichment to satisfy its working nature."
+        "Plan on at least 60 to 90 minutes of vigorous daily outdoor exercise—such as long woodland walks, running, or scent-tracking games.",
     },
     {
-      question: "Is the Beagle-Harrier easy to train?",
+      question: "Are there specific hereditary diseases known in the Beagle-Harrier?",
       answer:
-        "It is intelligent, gentle, and eager to please, but strong scenting instincts mean it can be easily distracted outdoors; it responds best to patient, positive reinforcement training and must be kept leashed in unfenced areas."
+        "It is a hardy, rustic working breed with no widespread hereditary disease panels; routine care focuses on ear hygiene, checking for thorns and ticks after fieldwork, and keeping weight lean.",
     },
-    {
-      question: "Does the Beagle-Harrier shed a lot, and how is it groomed?",
-      answer:
-        "Shedding is low to moderate throughout the year and is easily managed with weekly brushing; regular ear checks and nail trimming are the main grooming necessities."
-    },
-    {
-      question: "What health problems are known in the Beagle-Harrier?",
-      answer:
-        "The breed is remarkably robust with few genetic disorders; primary health considerations include hip dysplasia, ear infections from drop ears, and minor field injuries sustained while hunting."
-    }
   ],
 
   references: [
@@ -392,16 +379,17 @@ export const beagle_harrier: Breed = {
     "scc-beagle-harrier-standard",
     "club-du-beagle-harrier-et-harrier-profile",
     "ukc-beagle-harrier-standard",
-    "wikimedia-beagle-harrier-pleple2000"
+    "wikimedia-beagle-harrier-pleple2000",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Official breed standards and kennel-club records do not establish a separate scientific name for the breed.",
     },
 
     alternateNames: {
@@ -410,26 +398,26 @@ export const beagle_harrier: Breed = {
         {
           id: "fci-beagle-harrier-official-standard",
           role: "verified",
-          locator: "Standard heading: BEAGLE-HARRIER"
+          locator: "Standard heading: BEAGLE-HARRIER",
         },
         {
           id: "fci-beagle-harrier-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: BEAGLE-HARRIER (290)"
+          locator: "Official nomenclature: BEAGLE-HARRIER / BEAGLE HARRIER (290)",
         },
         {
           id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Dénomination officielle: Beagle-Harrier"
+          locator: "Beagle-harrier / Le Beagle Harrier",
         },
         {
           id: "ukc-beagle-harrier-standard",
           role: "verified",
-          locator: "Breed name: Beagle-Harrier"
-        }
+          locator: "Breed name: Beagle-Harrier",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified across FCI Standard No. 290, FCI Nomenclature, SCC, and UKC."
+      verifiedOn: "2026-11-17",
+      note: "Verified across FCI Standard No. 290, FCI Nomenclature, SCC, and UKC.",
     },
 
     group: {
@@ -438,27 +426,32 @@ export const beagle_harrier: Breed = {
         {
           id: "fci-beagle-harrier-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial"
+          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial",
         },
         {
           id: "fci-beagle-harrier-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial"
-        },
-        {
-          id: "ukc-beagle-harrier-standard",
-          role: "verified",
-          locator: "Scenthound Group"
+          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial",
         },
         {
           id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Groupe 6 Chiens courants, chiens de recherche au sang et races apparentées, Section 1.2 Chiens courants de taille moyenne"
-        }
+          locator: "Groupe 6, Section 1.2 Chiens courants de taille moyenne",
+        },
+        {
+          id: "ukc-beagle-harrier-standard",
+          role: "cited",
+          locator: "Scenthound Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group (Hound)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "Follows the Group 6, Section 1.2 classification without naming registries in user-facing text.",
     },
 
     origin: {
@@ -467,21 +460,26 @@ export const beagle_harrier: Breed = {
         {
           id: "fci-beagle-harrier-official-standard",
           role: "verified",
-          locator: "ORIGIN: France; BRIEF HISTORICAL SUMMARY"
+          locator: "Origin: France",
         },
         {
           id: "fci-beagle-harrier-nomenclature",
           role: "verified",
-          locator: "Country of origin: France"
+          locator: "Country of origin of the breed: France",
         },
         {
           id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Origine: France"
-        }
+          locator: "Historique: conçu à la fin du XIXe siècle par le Baron Gérard en France (Landes de Gascogne, Briquet du Sud-Ouest)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (France)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     overview: {
@@ -490,27 +488,27 @@ export const beagle_harrier: Breed = {
         {
           id: "fci-beagle-harrier-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "Utilization, General appearance, Head, Body, Limbs, Coat, and Size",
         },
         {
           id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Historique, aptitudes et caractère"
+          locator: "Description générale, Historique (Baron Gérard, Briquet du Sud-Ouest, 1974 standard), et Comportement",
         },
         {
-          id: "club-du-beagle-harrier-et-harrier-profile",
+          id: "fci-beagle-harrier-nomenclature",
           role: "verified",
-          locator: "Histoire et création par le Baron Gérard Grandin de l'Éprevier"
+          locator: "Date of acceptance on a definitive basis: 02.09.1972",
         },
         {
-          id: "ukc-beagle-harrier-standard",
+          id: "the-dog-api",
           role: "cited",
-          locator: "History and Characteristics"
-        }
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesized in original prose from FCI Standard No. 290, SCC, and Club du Beagle, Beagle-Harrier et Harrier official records."
+        "All overview text is rewritten in original wording from FCI Standard No. 290 and SCC official documentation.",
     },
 
     physical: {
@@ -519,22 +517,22 @@ export const beagle_harrier: Breed = {
         {
           id: "fci-beagle-harrier-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, LIMBS, TAIL, COAT, COLOUR, SIZE"
+          locator: "General appearance, Head, Neck, Body, Limbs, Gait, Coat, Colour (tricolour, grey tricolour, white-grey), and Size",
         },
         {
           id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Standard morphologique, tête, corps, membres et robe"
+          locator: "Description générale et standard FCI No. 290",
         },
         {
-          id: "ukc-beagle-harrier-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
-        }
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 17 generic species-wide colours)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Conformation, proportions, tricolour coat, and distinctive features follow official standards."
+        "Conformation, thick flat coat, and permitted colours (tricolour, grey tricolour, and white-and-grey) follow FCI/SCC Standard No. 290 rather than The Dog API's generic 17-colour list.",
     },
 
     "physical.height": {
@@ -543,100 +541,106 @@ export const beagle_harrier: Breed = {
         {
           id: "fci-beagle-harrier-official-standard",
           role: "verified",
-          locator: "SIZE: Height: From 45 cm to 50 cm. Tolerance of withers height +/- 1 cm."
+          locator: "Size: Height at the withers: from 45 to 50 cm",
         },
         {
           id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Taille: 45 cm à 50 cm avec tolérance de +/- 1 cm"
+          locator: "Taille: de 45 à 50 cm",
         },
         {
           id: "ukc-beagle-harrier-standard",
           role: "verified",
-          locator: "Height at withers: 17.5 to 20 inches (45 to 50 cm)"
-        }
+          locator: "Height at withers: 17.5 to 20 inches (45 to 50 cm)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric (45–50 cm)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Stores the official 45 to 50 cm withers height nominal range published in FCI Standard No. 290 and SCC standard in centimetres."
+        "Stores the official 45–50 cm withers height range published in FCI Standard No. 290, SCC, UKC, and The Dog API (removed the unverified ±1 cm tolerance claim).",
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "scc-beagle-harrier-standard",
+          id: "ukc-beagle-harrier-standard",
           role: "verified",
-          locator: "Poids: environ 19 à 21 kg"
+          locator: "Weight: 42 to 46 pounds (approx. 19 to 21 kg)",
         },
         {
-          id: "club-du-beagle-harrier-et-harrier-profile",
+          id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Poids moyen: 19 à 21 kg"
+          locator: "Average weight approx. 19 to 21 kg",
         },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (19–27 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note:
+        "FCI Standard No. 290 does not state a numerical weight range; retains the 19–21 kg range from SCC/UKC while recording The Dog API's broader 19–27 kg range.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
         {
           id: "ukc-beagle-harrier-standard",
           role: "verified",
-          locator: "Weight: 42 to 46 pounds (approx. 19 to 21 kg)"
-        }
+          locator: "Weight: approx. 19 to 21 kg",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "FCI Standard No. 290 does not state numerical weight limits, requiring harmonious balance. The stored 19 to 21 kg is the standard weight range published by SCC and the French parent club, preserved in kilograms."
+      verifiedOn: "2026-11-17",
+      note: "Upper weight bound of 21 kg.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "ukc-beagle-harrier-standard",
+          role: "verified",
+          locator: "Weight: approx. 19 to 21 kg",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper weight bound of 21 kg.",
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "scc-beagle-harrier-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Espérance de vie moyenne: 12 à 15 ans"
+          locator: "breed.life_span (12–14 years)",
         },
-        {
-          id: "club-du-beagle-harrier-et-harrier-profile",
-          role: "verified",
-          locator: "Longévité et rusticité"
-        }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Supported by French kennel club and breed club actuarial profiles."
+      verifiedOn: "2026-11-17",
+      note: "Verified from The Dog API lifespan range (12–14 years); FCI Standard No. 290 does not publish a lifespan figure.",
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-beagle-harrier-official-standard",
-          role: "verified",
-          locator: "COAT: Rather thick, not too short and flat"
-        },
-        {
-          id: "scc-beagle-harrier-standard",
-          role: "verified",
-          locator: "Entretien du poil et mue"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: null
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Reviewed standards describe the rather thick, flat coat without establishing a standardised shedding category.",
     },
 
     "physical.droolingLevel": {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-beagle-harrier-official-standard",
-          role: "verified",
-          locator: "Lips: Covering the lower jaw, but without being pendulous or flew-heavy"
-        },
-        {
-          id: "scc-beagle-harrier-standard",
-          role: "verified",
-          locator: "Babines: Recouvrant la mâchoire inférieure sans excès"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note: "Tight lips without pendulous flews result in minimal drooling."
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Reviewed standards describe lips covering the lower jaw without establishing a standardised drooling rating.",
     },
 
     "temperament.traits": {
@@ -645,40 +649,45 @@ export const beagle_harrier: Breed = {
         {
           id: "fci-beagle-harrier-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR / TEMPERAMENT: Frank, lively, and intelligent; energetic hunter"
+          locator: "Eyes (frank, lively and intelligent expression) and Disqualifying faults (aggressive or overly shy)",
         },
         {
           id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Caractère et comportement: Passionné à la chasse, calme et affectueux à la maison"
+          locator: "Comportement: résistant, vigoureux, rapide, leste, courageux, nez fin, évolue bien en meute, ne craint pas les ronciers, compagnon agréable",
         },
         {
           id: "ukc-beagle-harrier-standard",
           role: "verified",
-          locator: "Characteristics: Courageous, energetic, calm and loyal companion"
-        }
+          locator: "Characteristics: energetic, courageous, loyal companion",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "temperament.scores": {
       reliability: "estimate",
       sources: [
         {
-          id: "fci-beagle-harrier-official-standard",
-          role: "cited",
-          locator: "Temperament and hunting characteristics"
-        },
-        {
           id: "scc-beagle-harrier-standard",
           role: "cited",
-          locator: "Comportement et aptitudes"
-        }
+          locator: "Comportement",
+        },
+        {
+          id: "fci-beagle-harrier-official-standard",
+          role: "cited",
+          locator: "Utilization and General appearance",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented hound temperament and pack hunting traits."
+        "Editorial 1–5 scores informed by documented pack-hunting and companion traits.",
     },
 
     care: {
@@ -687,35 +696,35 @@ export const beagle_harrier: Breed = {
         {
           id: "scc-beagle-harrier-standard",
           role: "cited",
-          locator: "Entretien, éducation et cadre de vie"
+          locator: "Comportement et utilisation",
         },
         {
           id: "club-du-beagle-harrier-et-harrier-profile",
           role: "cited",
-          locator: "Conseils d'élevage et utilisation"
-        }
+          locator: "Working pack hound care and field management",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines active hunting hound management with French scenthound care protocols."
+        "Combines general pack-scenthound care with field ear and paw hygiene.",
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-beagle-harrier-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Scenthound for hunting hare, roe deer, and wild boar with high stamina"
-        },
-        {
           id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Besoins d'activité et exercice quotidien"
-        }
+          locator: "Comportement: résistant, vigoureux, rapide, leste, excellent pour la chasse à courre",
+        },
+        {
+          id: "fci-beagle-harrier-official-standard",
+          role: "verified",
+          locator: "Utilization and General appearance: vigorous, nimble scent hound",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
@@ -724,44 +733,40 @@ export const beagle_harrier: Breed = {
         {
           id: "scc-beagle-harrier-standard",
           role: "cited",
-          locator: "Exercice physique quotidien"
-        }
+          locator: "Vigorous, fast working scent hound",
+        },
       ],
       verifiedOn: null,
       note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic working hound."
+        "Editorial estimate of 60–90 minutes of daily outdoor exercise for a healthy adult.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
-          id: "fci-beagle-harrier-official-standard",
-          role: "cited",
-          locator: "High stamina hunting hound with carrying voice"
-        },
-        {
           id: "scc-beagle-harrier-standard",
           role: "cited",
-          locator: "Mode de vie recommandé en maison avec jardin"
-        }
+          locator: "Fast, energetic pack hound with carrying voice",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial evaluation that high exercise needs and resonant tracking instincts make apartment living unsuitable."
+        "Editorial assessment based on high exercise needs and vocal pack-hound instincts.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
         {
           id: "scc-beagle-harrier-standard",
-          role: "verified",
-          locator: "Cadre de vie: maison avec jardin clôturé recommandé"
-        }
+          role: "cited",
+          locator: "Active outdoor hunting hound characteristics",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: null,
+      note:
+        "Editorial assessment that a house with a securely fenced garden suits an active scent hound.",
     },
 
     "care.livingEnvironment.climates": {
@@ -770,166 +775,59 @@ export const beagle_harrier: Breed = {
         {
           id: "fci-beagle-harrier-official-standard",
           role: "verified",
-          locator: "COAT: Rather thick, flat coat providing protection in variable weather"
+          locator: "Coat: rather thick, not too short, flat",
         },
         {
           id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Résistance aux intempéries"
-        }
+          locator: "Comportement: hardy hound suited to thick brambles and outdoor conditions",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "club-du-beagle-harrier-et-harrier-profile",
-          role: "cited",
-          locator: "Vie en meute et comportement social"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
       note:
-        "Pack scenthounds can tolerate moderate alone time when thoroughly exercised, but can become vocal if isolated without enrichment."
+        "General pack-scenthound guidance regarding companionship, exercise, and vocalisation.",
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "scc-beagle-harrier-standard",
-          role: "cited",
-          locator: "Alimentation et besoins nutritionnels du chien de chasse"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for active sporting and hunting dogs."
+        "General canine nutrition guidance for an active working scent hound.",
     },
 
-    "nutrition.feedingFrequency": {
+    health: {
       reliability: "general_guidance",
       sources: [
         {
-          id: "scc-beagle-harrier-standard",
+          id: "fci-beagle-harrier-official-standard",
           role: "cited",
-          locator: "Rythme des repas et digestion"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
-    },
-
-    "health.overview": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "scc-beagle-harrier-standard",
-          role: "verified",
-          locator: "Santé générale, rusticité et longévité"
+          locator: "General appearance, hanging ears, and field hunting utility",
         },
-        {
-          id: "club-du-beagle-harrier-et-harrier-profile",
-          role: "verified",
-          locator: "Rusticité de la race et dépistage de la dysplasie"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Documents high overall constitutional vitality alongside routine orthopedic screening programs."
-    },
-
-    "health.commonConditions": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "scc-beagle-harrier-standard",
-          role: "verified",
-          locator: "Dépistage de la dysplasie coxofémorale et affections auriculaires"
-        },
-        {
-          id: "club-du-beagle-harrier-et-harrier-profile",
-          role: "verified",
-          locator: "Santé et prévention vétérinaire"
-        }
-      ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Identifies documented breed considerations without using prohibited registry labels in prose."
-    },
-
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [
         {
           id: "scc-beagle-harrier-standard",
           role: "cited",
-          locator: "Soins préventifs et contrôles vétérinaires"
-        }
+          locator: "Comportement: résistant, vigoureux, ne craint pas les ronciers les plus épais",
+        },
       ],
       verifiedOn: null,
-      note: "Field hygiene protocol tailored to drop-eared hunting hounds."
+      note:
+        "Official standards and SCC profile do not establish a breed-specific hereditary disease list; health notes cover practical ear, bramble-injury, and parasite care for a working hound.",
     },
 
     "health.recommendedScreenings": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "scc-beagle-harrier-standard",
-          role: "verified",
-          locator: "Dépistage recommandé: radiographie de la dysplasie de la hanche"
-        },
-        {
-          id: "club-du-beagle-harrier-et-harrier-profile",
-          role: "verified",
-          locator: "Grille de sélection et dépistage de la dysplasie de la hanche"
-        }
-      ],
-      verifiedOn: "2026-11-08",
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
       note:
-        "Pre-breeding evaluations recommended by the French breed authority."
-    },
-
-    "health.dentalCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-beagle-harrier-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete scissor bite"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
-    },
-
-    "health.earCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-beagle-harrier-official-standard",
-          role: "cited",
-          locator: "Ears: set high, hanging flat, slightly rounded tips"
-        }
-      ],
-      verifiedOn: null,
-      note: "Ear maintenance protocol for drop ears."
-    },
-
-    "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-beagle-harrier-official-standard",
-          role: "cited",
-          locator: "Skin: supple, no dewlap"
-        }
-      ],
-      verifiedOn: null,
-      note: "General skin and coat care guidelines."
+        "Reviewed FCI, SCC, and UKC sources do not establish a formal mandatory pre-breeding screening panel for the Beagle-Harrier.",
     },
 
     suitability: {
@@ -938,35 +836,35 @@ export const beagle_harrier: Breed = {
         {
           id: "scc-beagle-harrier-standard",
           role: "cited",
-          locator: "Profil de l'acquéreur et vie de famille"
-        }
+          locator: "Historique et Comportement",
+        },
+        {
+          id: "ukc-beagle-harrier-standard",
+          role: "cited",
+          locator: "Characteristics",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability flags and lists reflect editorial evaluations of hound exercise needs and hunting drive."
+        "Editorial suitability evaluations based on pack sociability, stamina, and hunting drive.",
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-beagle-harrier-official-standard",
-          role: "verified",
-          locator: "Brief historical summary: Baron Gérard Grandin de l'Éprevier, intermediate size"
-        },
-        {
           id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Histoire et création de la race"
+          locator: "Historique (Baron Gérard, Briquet du Sud-Ouest, 'ni un grand Beagle, ni un petit Harrier', 1974 standard, hare/fox/roe deer/boar hunting)",
         },
         {
-          id: "club-du-beagle-harrier-et-harrier-profile",
+          id: "fci-beagle-harrier-official-standard",
           role: "verified",
-          locator: "Histoire du club et du Beagle-Harrier"
-        }
+          locator: "Colour (grey tricolour and white-grey permitted) and Faults (curled/twisted ears 'oreilles papillotées')",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified historical and functional facts written without prohibited names."
+      verifiedOn: "2026-11-17",
+      note: "Verified directly against FCI Standard No. 290 and SCC historical notes.",
     },
 
     faq: {
@@ -975,24 +873,29 @@ export const beagle_harrier: Breed = {
         {
           id: "fci-beagle-harrier-official-standard",
           role: "verified",
-          locator: "Origin, size (45 to 50 cm), coat, and colours"
+          locator: "Origin, size (45–50 cm), coat, and colours",
         },
         {
           id: "scc-beagle-harrier-standard",
           role: "verified",
-          locator: "Poids (19-21 kg), longévité (12-15 ans), caractère, et santé"
+          locator: "Historique et Comportement",
         },
         {
           id: "ukc-beagle-harrier-standard",
           role: "verified",
-          locator: "General characteristics and temperament"
-        }
+          locator: "Height (45–50 cm) and weight (19–21 kg)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (12–14 years)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "FAQ answers synthesize verified standards and parent-club guidance without naming registries in prose."
-    }
+        "FAQ answers synthesise verified FCI, SCC, UKC, and The Dog API data without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-11-08"
+  updatedOn: "2026-11-17",
 };

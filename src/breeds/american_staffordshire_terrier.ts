@@ -3,165 +3,162 @@ import type { Breed } from "../schema/breed.types";
 export const american_staffordshire_terrier: Breed = {
   slug: "american-staffordshire-terrier",
   name: "American Staffordshire Terrier",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "AmStaff",
     "American Staffy",
-    "Amstaff",
     "Staffordshire Terrier",
-    "Yankee Terrier"
+    "Staffy",
+    "Stafford",
+    "Yankee Terrier",
   ],
 
   group:
-    "Terriers; Section 3 — Bull type Terriers (without working trial; also classified in the Terrier group)",
+    "Terriers; Section 3 — Bull type Terriers (without working trial)",
 
   origin: {
     country: "United States",
     region:
-      "United States (developed from nineteenth-century crossbreeds between bulldogs and terriers originating in the British Isles, refined across the American Northeast and Midwest)"
+      "United States, developed from nineteenth-century British bull-and-terrier stock",
   },
 
   images: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/American_Staffordshire_Terrier.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:American_Staffordshire_Terrier.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:American_Staffordshire_Terrier.jpg",
       title: "American Staffordshire Terrier.jpg",
       description: "An adult American Staffordshire Terrier standing outdoors.",
-      creator: "Daniel Oines",
-      uploader: "Flickr upload bot",
-      capturedOn: "2011-05-28",
-      uploadedOn: "2011-05-29",
-      width: 2592,
-      height: 1936,
-      licenseId: "cc-by-2.0",
-      attribution:
-        "Photo by Daniel Oines, Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:American_Staffordshire_Terrier.jpg. License: https://creativecommons.org/licenses/by/2.0/.",
-      restrictions: null,
-      metadataCheckedOn: "2026-10-24"
-    },
-    {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/American_Staffordshire_Terrier_racer.jpg",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:American_Staffordshire_Terrier_racer.jpg",
-      title: "American Staffordshire Terrier racer.jpg",
-      description: "American Staffordshire Terrier at the National Dog Show in Rybnik, Poland.",
-      creator: "Pleple2000",
-      uploader: "Pleple2000",
-      capturedOn: "2008-10-05",
-      uploadedOn: "2008-10-18",
-      width: 2400,
-      height: 1795,
+      creator: "Chris 73",
+      uploader: "Chris 73",
+      capturedOn: null,
+      uploadedOn: "2005-03-03",
+      width: 760,
+      height: 566,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:American_Staffordshire_Terrier_racer.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Chris 73, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:American_Staffordshire_Terrier.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-10-24"
-    }
+      metadataCheckedOn: "2026-11-17",
+    },
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/American_Staffordshire_Terrier_bitch.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:American_Staffordshire_Terrier_bitch.jpg",
+      title: "American Staffordshire Terrier bitch.jpg",
+      description: "An adult female American Staffordshire Terrier.",
+      creator: "T. Bjornstad",
+      uploader: "ToB",
+      capturedOn: "2008-03-17",
+      uploadedOn: "2008-03-17",
+      width: 2272,
+      height: 1712,
+      licenseId: "cc-by-sa-3.0",
+      attribution:
+        "Photo by T. Bjornstad (ToB), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:American_Staffordshire_Terrier_bitch.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
+      restrictions: null,
+      metadataCheckedOn: "2026-11-17",
+    },
   ],
 
   overview: {
     summary:
-      "A powerfully built, athletic medium-sized terrier combining substantial muscular strength with grace, agility, and a deeply affectionate, loyal devotion to its human household.",
+      "The American Staffordshire Terrier is a stocky, muscular, yet agile medium-sized terrier of American origin, combining impressive strength for its size with a broad head, short glossy coat, and a confident, people-loving temperament.",
 
     description:
-      "The American Staffordshire Terrier is a remarkably muscular, compact, and agile medium-sized dog that exudes strength and confidence without appearing clunky or leggy. The body is solidly constructed with a broad, deep skull, pronounced cheek musculature, distinct stop, and strong, punishing jaws meeting in a precise scissor bite. Covered in a short, glossy, and close-lying single coat that appears in virtually all colors and patterns, the breed conveys substantial power in a balanced physical frame. Indoors, the dog is famously gentle, sensitive to human emotional tone, and devoted to family members, while outdoors it possesses tremendous athletic drive, tenacity, and stamina, thriving under structured guidance, consistent boundaries, and engaging physical work.",
+      "Well put together and muscular without ever appearing long-legged or racy, the American Staffordshire Terrier projects great power in a compact frame. A broad, medium-length head features a distinct stop, pronounced cheek muscles, a strong lower jaw with a scissor bite, and dark, round eyes set low and wide apart. Its short, stiff, glossy single coat comes in solid, parti-colour, or patched patterns. Keenly observant of its surroundings and courageous by nature, the breed is affectionate, playful, and deeply devoted to its family indoors while requiring structured training, steady socialisation, and daily athletic outlets outdoors.",
 
     history:
-      "The breed traces its roots to nineteenth-century crossbreeding between old-style bulldogs and game terriers in England, which combined the strength and bite power of the bulldog with the agility, speed, and fire of the terrier. Immigrants brought these versatile crossbred dogs to the United States before and after the American Civil War, where frontier farmers, homesteaders, and ranchers selected for a taller, heavier, and more all-around farm guardian capable of catching livestock, dispatching wild vermin, and protecting the family. In 1936, the breed was officially recognized under the initial name Staffordshire Terrier, with prominent breeder Wilfred T. Brandon serving as the first specialty club president. In 1972, the official name was formally amended to the American Staffordshire Terrier to clearly distinguish it from its smaller British relative, the Staffordshire Bull Terrier. Over subsequent decades, the breed developed a distinct, heavier-boned conformation and steady, family-oriented disposition.",
+      "Rooted in nineteenth-century England, the breed's ancestors were bull-and-terrier crosses that blended the muscular power of early Bulldogs with the speed and gameness of terriers. Brought to North America by British and Irish immigrants during the nineteenth century, these dogs were developed by American farmers and settlers into larger, heavier-boned homestead guardians, stock catch dogs, and family companions. Formally recognised in the United States in June 1936 under the name Staffordshire Terrier, the breed had 'American' added to its official name in 1972 to distinguish it from the smaller Staffordshire Bull Terrier of Great Britain.",
 
     originalPurpose:
-      "All-around farm dog, homestead protector, livestock catcher, wild vermin hunter, and robust companion.",
+      "Early nineteenth-century bull-and-terrier sports, later refined in the United States as a versatile farm dog, stock catch dog, property guardian, and household companion.",
 
     currentRoles: [
-      "Devoted household companion and family guardian",
-      "Canine athlete in weight pull, agility, rally, and obedience",
-      "Search, tracking, and scent-work participant",
-      "Therapy and emotional support visiting dog when individually assessed and certified"
-    ]
+      "Household companion and family dog",
+      "Obedience, rally, agility, and weight-pulling athlete",
+      "Scent work, tracking, and barn hunt participant",
+      "Conformation exhibition",
+      "Therapy and community ambassador dog where individually suited",
+    ],
   },
 
   physical: {
-    sizeCategory: "Medium",
+    sizeCategory: "Medium-sized, stocky, muscular bull-type terrier",
 
     height: {
       unit: "in",
       male: {
         min: 18,
-        max: 19
+        max: 19,
       },
       female: {
         min: 17,
-        max: 18
-      }
+        max: 18,
+      },
     },
 
     weight: {
       unit: "lb",
       male: {
         min: 55,
-        max: 70
+        max: 70,
       },
       female: {
         min: 40,
-        max: 55
-      }
+        max: 55,
+      },
     },
 
     lifespanYears: {
       min: 12,
-      max: 16
+      max: 16,
     },
 
     coatType:
-      "Short, close, stiff to the touch, and glossy single coat, resting flat against the body without undercoat.",
+      "Short, close-lying single coat that feels stiff to the touch and has a glossy sheen.",
 
     coatLength: "Short",
 
     coatColors: [
-      "Red (shades from light red to deep rich red)",
-      "Fawn (ranging from biscuit to warm golden fawn)",
-      "Blue (shades of slate and grey-blue)",
-      "Black (solid glossy black)",
-      "White",
-      "Brindle (including red brindle, fawn brindle, and blue brindle)",
-      "Parti-color and piebald (white ground with colored patches)"
+      "Solid colours including red, fawn, blue, black, or white",
+      "Brindle in red, fawn, or blue shades",
+      "Parti-colour or patched (any permissible colour combined with white; coats over 80% white, black and tan, and liver are discouraged)",
     ],
 
     sheddingLevel:
-      "Low to moderate year-round shedding with minor seasonal increases during spring and autumn",
+      "Low to moderate year-round shedding from the short single coat",
 
     droolingLevel:
-      "Low to moderate; tight-fitting lips minimize drool, though light salivation occurs around food or after vigorous exercise",
+      "Low to moderate; the lips are tight and even without loose flews",
 
     distinctiveFeatures: [
-      "Sturdy, stocky, and powerfully muscled body giving an impression of great strength for its size",
-      "Broad, deep skull with prominent zygomatic arches and strongly developed cheek muscles",
-      "Distinct stop and a medium-length muzzle falling away abruptly beneath the eyes",
-      "Strong jaws with an underjaw displaying tremendous gripping power and a clean scissor bite",
-      "Tight, even lips free from looseness or pendulous flews",
-      "Dark, round eyes set low down and wide apart, with tight, darkly pigmented rims",
-      "Short ears set high, carried either in rose or half-prick style when uncropped",
-      "Muscular, slightly arched neck tapering from shoulders to the skull without throatiness or dewlap",
-      "Deep, wide chest with well-sprung ribs extending far back",
-      "Short, low-set tail tapering to a fine point, carried level with the back or slightly lowered without curling",
-      "Straight, heavy-boned forelegs set rather wide apart with firm, well-arched feet",
-      "Springy, agile gait demonstrating effortless drive and coordination"
-    ]
+      "Stocky, well-muscled build conveying great strength for its size without legginess",
+      "Broad skull of medium length with very pronounced cheek muscles and a distinct stop",
+      "Medium-length muzzle rounded on the upper side and falling away abruptly below the eyes",
+      "Well-defined underjaw providing strong gripping power and a tight scissor bite",
+      "Close, even lips free of looseness",
+      "Dark, round eyes set low in the skull and wide apart with dark eyelid rims (pink eyelids faulted)",
+      "High-set short ears, with uncropped rose or half-prick carriage preferred (full drop ears penalised)",
+      "Heavy, slightly arched neck tapering from the shoulders to the back of the skull without loose skin",
+      "Deep, broad chest with well-sprung ribs set close together",
+      "Short, low-set tail tapering to a fine point, never curled over the back and never docked",
+      "Springy, balanced gait without rolling or pacing",
+      "Preferable shoulder height of about 18 to 19 inches in males and 17 to 18 inches in females, with weight in proportion",
+    ],
   },
 
   temperament: {
     traits: [
-      "Confident, courageous, and deeply good-natured",
-      "Intensely loyal, affectionate, and shadow-like with family members",
-      "Gentle and patient with familiar household children",
-      "Spirited, playful, and enthusiastically eager to please",
-      "Keenly alert and perceptive of surroundings",
-      "High physical stamina and tenacious problem-solving drive",
-      "Naturally welcoming to approved human guests when properly socialized",
-      "Sensitive to handler emotional tone and unresponsive to harsh treatment",
-      "May exhibit intolerance or reactivity toward unfamiliar dogs, particularly of the same sex",
-      "High prey drive toward smaller animals and outdoor wildlife"
+      "Confident, courageous, and keenly observant of its surroundings",
+      "Affectionate, good-natured, and closely bonded to its household",
+      "Playful, spirited, and people-oriented",
+      "Patient and gentle with children in its own family when supervised",
+      "Intelligent, food-motivated, and responsive to upbeat training",
+      "Tenacious and determined once focused on a task or game",
+      "Can be selective or intolerant toward unfamiliar dogs",
+      "Strong chase instinct toward small outdoor animals",
     ],
 
     scores: {
@@ -173,64 +170,64 @@ export const american_staffordshire_terrier: Breed = {
       independence: 3,
       trainability: 4,
       barking: 2,
-      energy: 4
-    }
+      energy: 4,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "High; requires vigorous daily physical exercise and structured mental engagement to maintain muscular fitness and calm indoor composure",
+        "High. Athletic, muscular, and energetic, the American Staffordshire Terrier needs vigorous daily workouts paired with mental enrichment to stay calm and content indoors.",
 
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 90,
       },
 
       activities: [
-        "Brisk daily neighborhood leashed walks and structured jogging",
-        "Interactive fetch, flirt pole, or spring pole exercises in a secure yard",
-        "Structured obedience, rally, and impulse-control sessions",
-        "Canine sports including agility, weight pull, dock diving, and scent work",
-        "Trail hiking on varied terrain once skeletally mature",
-        "Food puzzle challenges and mental enrichment toys"
-      ]
+        "Brisk daily on-lead walks and structured jogging",
+        "Fetch, tug, and flirt-pole games in a securely fenced yard",
+        "Reward-based obedience, rally, and impulse-control training",
+        "Agility, dock diving, weight pull, and scent-work sports",
+        "Hiking on varied trails once skeletally mature",
+        "Interactive food puzzles and chew enrichment",
+      ],
     },
 
     grooming: {
       level: "Low",
 
       brushing:
-        "Brush once or twice weekly using a rubber curry mitt or firm bristle brush to lift dead hair and distribute natural skin oils; increase during seasonal coat changes.",
+        "Go over the short, stiff coat once a week with a soft bristle brush or rubber grooming mitt to lift loose hair and distribute natural skin oils.",
 
       bathing:
-        "Bathe every four to six weeks or when soiled, using a gentle, moisturizing canine shampoo suited to sensitive skin.",
+        "Bathe only as needed using a mild, soothing canine shampoo, rinsing and drying thoroughly.",
 
       notes: [
-        "Wipe the short coat with a damp chamois or towel after outdoor runs to remove surface dust and maintain a brilliant gloss.",
-        "Check skin regularly for redness, bumps, or dry patches, as short-coated terriers are prone to contact and environmental allergies.",
-        "Trim strong, rapidly growing nails every two to three weeks to protect foot alignment and joint posture.",
-        "Inspect ears weekly for wax buildup, redness, or odor, whether ears are natural or cropped.",
-        "Brush teeth daily or several times weekly using enzyme-based dog toothpaste.",
-        "Protect against extreme weather: the single short coat provides little insulation against winter freezing or prolonged hot summer sun."
-      ]
+        "Rub the coat with a towel or chamois after brushing to bring out its natural gloss.",
+        "Inspect the skin regularly for redness, dry patches, or seasonal itchiness.",
+        "Keep the strong nails trimmed every two to three weeks.",
+        "Check the ears weekly for wax build-up, redness, or odour.",
+        "Brush teeth several times a week with canine toothpaste.",
+        "Protect from temperature extremes, as the short single coat lacks an insulating undercoat.",
+      ],
     },
 
     training: {
       difficulty:
-        "Moderate; remarkably eager to please and food-motivated, but possesses substantial physical strength and natural tenacity that require consistent leadership and early impulse control",
+        "Moderate. Smart and eager to please its people, yet physically powerful and strong-willed enough to require early lead manners, clear boundaries, and consistent reward-based handling.",
 
       tips: [
-        "Employ positive reinforcement, high-value food rewards, and enthusiastic praise.",
-        "Teach loose-leash walking and solid impulse control from early puppyhood before adult power develops.",
-        "Keep instructional lessons short, upbeat, and mentally stimulating to prevent boredom.",
-        "Avoid harsh verbal reprimands or physical coercion, which undermine trust in this sensitive breed.",
-        "Maintain secure containment with a sturdy, escape-proof fence at least six feet high.",
-        "Always supervise interactions around unfamiliar dogs and maintain leashed control in public areas."
+        "Use positive reinforcement, food rewards, and clear household rules from day one.",
+        "Teach loose-lead walking, polite greetings, and impulse control early in puppyhood.",
+        "Keep training sessions upbeat, varied, and engaging.",
+        "Avoid harsh or confrontational methods, which erode trust.",
+        "Enclose yards with sturdy, secure fencing that cannot be jumped or dug under.",
+        "Keep the dog on lead in public areas and avoid unsupervised off-lead dog parks.",
       ],
 
       socialization:
-        "Provide thorough, calm, and positive exposure from eight weeks of age to diverse people, everyday sounds, vehicles, livestock, and neutral vaccinated dogs. Early social development builds a confident, stable companion that remains composed in social settings while managing natural terrier prey drive."
+        "Begin calm, positive socialisation early in puppyhood, introducing varied people, neutral well-mannered dogs, household sounds, and everyday handling. Ongoing socialisation and structured manners classes help channel the breed's natural confidence into polite adult behaviour.",
     },
 
     livingEnvironment: {
@@ -239,86 +236,82 @@ export const american_staffordshire_terrier: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool climates, provided indoor living and protective canine coats are provided in sub-freezing weather",
-        "Warm climates, provided air conditioning, shade, and fresh water are available and exercise occurs during cooler morning or evening hours"
+        "Cold weather when kept indoors and outfitted with a warm coat for winter walks",
+        "Warm weather with indoor cooling, shade, fresh water, and exercise scheduled for cooler hours",
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply bonded to family and prone to distress, vocalization, or destructive chewing if left isolated for long hours without adequate exercise"
-    }
+        "Low to moderate. Deeply attached to its family, it dislikes long hours of isolation and can become vocal or destructive if left alone without exercise and enrichment.",
+    },
   },
 
   nutrition: {
     dietType:
-      "Complete and balanced dog food formulated for medium-sized, active, and athletic dogs, adjusted for age, metabolism, and physical conditioning.",
+      "Complete, balanced canine diet formulated for medium-sized, active dogs and matched to age, body condition, and workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured meals daily until six months of age, transitioning to two meals daily thereafter on a growth diet supporting controlled development.",
+        "Feed three to four measured meals daily in early puppyhood, reducing to two daily meals by around six months of age.",
       adult:
-        "Two measured meals daily to support steady energy and comfortable digestion.",
+        "Feed two measured meals daily to maintain steady energy and a lean, muscular waist.",
       senior:
-        "Two portion-controlled meals daily adapted for reduced metabolic output, joint support, and lean muscle retention."
+        "Feed two portion-controlled meals daily adjusted for age, mobility, and metabolism.",
     },
 
     guidelines:
-      "Measure daily rations precisely using a digital scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Divide daily food into two distinct meals, restrict vigorous exercise for at least one hour before and after eating, and provide cool, clean drinking water continuously.",
+      "Measure daily meals carefully so the dog stays hard-muscled and lean without excess fat over the ribs. Deduct training rewards from the daily food allowance, rest before and after vigorous exercise, and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean body condition to avoid placing excess mechanical strain on joints, hips, and cruciate ligaments.",
-      "Count training treats toward the daily caloric allowance to avoid gradual weight gain.",
-      "Provide high-quality animal protein to support lean, dense muscle development.",
-      "Monitor for signs of food sensitivities, such as itchy paws or recurrent ear irritation.",
-      "Avoid feeding immediately before or after strenuous athletic exercise.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep weight lean to reduce stress on hips, elbows, and stifle ligaments.",
+      "Include training treats within the daily calorie budget.",
+      "Watch for signs of food or environmental skin sensitivities, such as paw licking or recurrent ear irritation.",
+      "Avoid strenuous exercise immediately before or after meals.",
+      "Transition between diets gradually over five to seven days.",
     ],
 
     note:
-      "Caloric needs vary significantly based on age, metabolism, and athletic workload. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "General canine feeding guidance; consult a veterinarian to tailor rations to individual age, activity, and health.",
   },
 
   health: {
     overview:
-      "The American Staffordshire Terrier is generally a strong, robust breed with an expected lifespan of 12 to 16 years. However, the breed is susceptible to several documented hereditary and conformational disorders. Prominent among genetic concerns is cerebellar ataxia, an autosomal recessive neurodegenerative condition caused by an identified mutation in the ARSG gene on canine chromosome 9. Additional health priorities include hip dysplasia, elbow dysplasia, cranial cruciate ligament tears, congenital heart disease (notably subaortic stenosis), autoimmune thyroiditis, and environmental or flea allergies.",
+      "The American Staffordshire Terrier is generally a hardy breed with a typical life expectancy of 12 to 16 years, though it carries documented hereditary, orthopaedic, cardiac, endocrine, and dermatological risks. A well-characterised breed-specific genetic disorder is adult-onset cerebellar ataxia (neuronal ceroid lipofuscinosis type 4A), caused by an autosomal recessive mutation in the ARSG gene that can be prevented entirely through DNA screening of breeding stock. Other recognised concerns include hip and elbow dysplasia, cranial cruciate ligament rupture, congenital or acquired heart disease, autoimmune thyroiditis, ocular disorders, and skin or environmental allergies.",
 
     commonConditions: [
-      "Cerebellar ataxia (neuronal ceroid lipofuscinosis / NCL-A) — a progressive neurodegenerative disorder caused by a mutation in the ARSG gene on chromosome 9, causing tremors, unsteadiness, and loss of coordination, fully preventable through DNA testing of breeding stock",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb lameness",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that cause forelimb lameness and joint stiffness",
-      "Cranial cruciate ligament (CCL) rupture — acute or progressive tearing of the stifle ligament resulting from athletic force, steep tibial plateau angles, or underlying inflammation",
-      "Congenital heart disease — particularly subaortic stenosis (SAS) and cardiomyopathy, requiring pre-breeding auscultation and Doppler echocardiography",
-      "Autoimmune thyroiditis — immune-mediated destruction of the thyroid gland resulting in hypothyroidism, lethargy, skin problems, and weight gain",
-      "Allergic dermatitis and atopy — skin sensitivity to environmental allergens, food ingredients, or flea bites causing intense itching and secondary bacterial infections",
-      "Demodectic mange — proliferation of microscopic skin mites in young dogs with developing immune systems, causing localized or generalized hair loss",
-      "Progressive retinal atrophy (PRA) and hereditary cataracts — ocular conditions monitored through regular ophthalmologist evaluations"
+      "Cerebellar ataxia (adult-onset neuronal ceroid lipofuscinosis / NCL4A) — a progressive inherited neurodegenerative disorder linked to an ARSG gene mutation that causes loss of coordination and balance, preventable through pre-breeding DNA testing.",
+      "Canine hip dysplasia and elbow dysplasia — developmental joint malformations that can lead to lameness and secondary osteoarthritis.",
+      "Cranial cruciate ligament (CCL) rupture — knee ligament tearing associated with athletic strain or joint conformation.",
+      "Cardiac disease — including congenital subaortic stenosis and cardiomyopathies, evaluated through specialist cardiac screening.",
+      "Autoimmune thyroiditis (hypothyroidism) — immune-mediated thyroid deficiency affecting metabolism, weight, and coat quality.",
+      "Allergic skin disease (atopy, contact allergies, or food sensitivities) and juvenile demodectic mange.",
+      "Inherited ocular conditions, including cataracts and progressive retinal atrophy.",
     ],
 
     preventiveCare: [
-      "Confirm that both parents possess certified DNA clearances for cerebellar ataxia (NCL-A / ARSG), hip and elbow clearances, and specialist cardiac evaluations.",
-      "Maintain an optimal, lean body condition to reduce mechanical strain on hips, elbows, and knee ligaments.",
-      "Avoid repetitive high-impact jumping or forced agility drills during the first 12 to 18 months of growth.",
-      "Administer consistent year-round flea, tick, and heartworm prevention to avert allergic flare-ups and vector-borne diseases.",
-      "Inspect the skin, coat, and ears weekly for redness, scratching, or yeast odor, seeking prompt veterinary treatment for skin allergies.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine dental cleanings."
+      "Verify that breeding parents have documented DNA results for cerebellar ataxia (NCL-A / ARSG) alongside hip, cardiac, and thyroid clearances.",
+      "Maintain a lean, athletic weight to protect the hips, elbows, and cruciate ligaments.",
+      "Avoid repetitive high-impact jumping before skeletal maturity.",
+      "Keep year-round flea, tick, and heartworm prevention current.",
+      "Inspect the short coat, paws, and ears weekly for redness, scratching, or skin flare-ups.",
+      "Schedule regular veterinary wellness exams and dental care.",
     ],
 
     recommendedScreenings: [
-      "DNA marker screening for cerebellar ataxia (neuronal ceroid lipofuscinosis / ARSG gene mutation) prior to breeding",
-      "Radiographic hip joint evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow joint evaluation prior to breeding",
-      "Cardiac evaluation with Doppler echocardiography performed by a board-certified veterinary cardiologist",
-      "Autoimmune thyroiditis blood testing through an approved veterinary diagnostic laboratory",
-      "Comprehensive eye examination by a board-certified veterinary ophthalmologist"
+      "Cerebellar ataxia (NCL-A / ARSG mutation) DNA test prior to breeding.",
+      "Radiographic hip evaluation (or PennHIP evaluation) prior to breeding.",
+      "Specialist veterinary cardiac evaluation (congenital cardiac exam, advanced cardiac exam, or echocardiogram).",
+      "Autoimmune thyroiditis laboratory panel from an approved laboratory.",
+      "Optional radiographic elbow evaluation and specialist ophthalmic examination.",
     ],
 
     dentalCare:
-      "Brush teeth several times weekly with canine-safe toothpaste. The breed has broad, powerful jaws with a complete 42-tooth scissor bite; routine professional dental examinations maintain healthy gums.",
+      "Brush teeth several times a week with canine toothpaste and have the teeth and gums examined during annual veterinary visits.",
 
     earCare:
-      "Inspect ears weekly for wax accumulation, redness, or odor, whether ears are natural or cropped. Clean gently with a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the ears weekly for wax, redness, or odour, and clean gently with a veterinarian-recommended ear cleanser when needed.",
 
     skinCare:
-      "Part the short coat weekly to inspect the skin for external parasites, redness, or dry patches. Bathe with a soothing, hypoallergenic shampoo if the dog is prone to allergic sensitivities."
+      "Check the short coat and skin during weekly brushing for hives, dry patches, interdigital redness, or parasites, consulting a veterinarian promptly if allergic itching develops.",
   },
 
   suitability: {
@@ -329,93 +322,80 @@ export const american_staffordshire_terrier: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Experienced dog owners familiar with bully breed temperaments and strong terrier drive",
-      "Active individuals and families who enjoy hiking, running, and vigorous outdoor play",
-      "Households committed to early, lifelong socialization and positive reinforcement training",
-      "Owners with securely fenced yards at least six feet high or dedicated access to safe leashed exercise areas",
-      "People seeking an intensely loyal, affectionate, and shadow-like indoor companion"
+      "Experienced owners who enjoy daily exercise, training, and dog sports",
+      "Active households seeking an affectionate, people-focused companion",
+      "Owners committed to reward-based training, early socialisation, and responsible lead management",
+      "Homes with securely fenced yards or dedicated daily on-lead exercise routines",
     ],
 
     notIdealFor: [
-      "Novice or hesitant dog owners unprepared to manage a strong, determined, and athletic dog",
-      "Households seeking an off-leash dog park regular or an animal that automatically tolerates unfamiliar dogs of the same sex",
-      "Homes with low or unsecure fencing where a high-drive dog could jump or dig out",
-      "Owners who travel frequently or must leave the dog isolated for extended workdays",
-      "Residents of jurisdictions with restrictive local breed legislation or prohibitive rental policies"
-    ]
+      "Novice handlers unprepared for a strong, muscular, and tenacious terrier",
+      "Owners looking for an off-lead dog-park dog or guaranteed tolerance of unfamiliar dogs",
+      "Households where the dog would be left alone for long workdays without exercise",
+      "Areas where breed-specific legislation or housing rules restrict ownership",
+    ],
   },
 
   funFacts: [
-    "The breed was developed from nineteenth-century bull-and-terrier crosses in Britain, which American homesteaders and farmers refined into a larger, multi-purpose farm dog, hunting partner, and homestead protector.",
-    "A celebrated war dog named Stubby (Sergeant Stubby), widely described as an early bull-and-terrier or American Staffordshire Terrier type, served with the 102nd Infantry Regiment in World War I, detecting poison gas, locating wounded troops, and capturing a spy, becoming the most decorated canine of the conflict.",
-    "In classic American cinema, the beloved canine Petey from the Our Gang (The Little Rascals) comedies of the 1920s and 1930s was a registered American Staffordshire Terrier named Lucenay's Peter.",
-    "The breed was officially recognized under the initial name Staffordshire Terrier in 1936; the prefix 'American' was added in 1972 to distinguish it from the newly recognized Staffordshire Bull Terrier of Great Britain.",
-    "Despite having a reputation for physical toughness, the breed is famously sensitive toward human emotional tone and thrives on praise, warmth, and close physical proximity to its family.",
-    "In competitive weight pull and canine athletics, the breed's low center of gravity, heavy bone structure, and dense musculature make it one of the most powerful pound-for-pound athletes in the canine kingdom.",
-    "The American Staffordshire Terrier has been bred to an independent, closed conformation studbook for nearly a century, emphasizing structural balance, head proportions, and a stable, human-friendly temperament."
+    "Developed from nineteenth-century British bull-and-terrier crosses, the American line evolved into a taller, heavier-boned dog than its English cousin, the Staffordshire Bull Terrier.",
+    "First recognised in the United States in 1936 as the Staffordshire Terrier, the breed was renamed the American Staffordshire Terrier in 1972 to distinguish the American and British breeds.",
+    "Petey, the famous ring-eyed dog in the early Our Gang (The Little Rascals) film comedies, was played by an American Staffordshire Terrier.",
+    "Uncropped rose or half-prick ears are preferred by the standard, and the low-set tail is never docked.",
+    "Its short, glossy coat is permitted in any solid, parti-colour, or patched colour, though coats over 80 percent white, black and tan, and liver are discouraged.",
+    "With proper training, many excel in agility, obedience, rally, weight pull, dock diving, and scent work.",
   ],
 
   faq: [
     {
       question: "What is an American Staffordshire Terrier?",
       answer:
-        "The American Staffordshire Terrier is a stocky, muscular medium-sized terrier originating in the United States, known for its physical strength, courageous spirit, and deeply affectionate nature with family."
+        "The American Staffordshire Terrier (often called the AmStaff) is a medium-sized, stocky, muscular bull-type terrier developed in the United States, known for its broad head, athletic build, and affectionate bond with its family.",
     },
     {
-      question: "What is the difference between an American Staffordshire Terrier and an American Pit Bull Terrier?",
+      question: "How does the American Staffordshire Terrier differ from the Staffordshire Bull Terrier?",
       answer:
-        "While both share nineteenth-century ancestry from English bull-and-terrier stock, they developed as distinct breeds during the twentieth century under separate selection criteria. The American Staffordshire Terrier was cultivated with an emphasis on conformational uniformity, broader bone structure, heavy cheek musculature, and reliable family companionship within an established closed studbook. In contrast, working pit bull lines often present a leaner, more varied athletic build with lighter bone."
+        "Although both descend from nineteenth-century British bull-and-terrier dogs, the American breed was selectively bred in the United States to be taller and heavier (18–19 inches and 55–70 pounds for males, 17–18 inches and 40–55 pounds for females) than the smaller British Staffordshire Bull Terrier, prompting the addition of 'American' to its name in 1972.",
     },
     {
-      question: "How tall and heavy is an American Staffordshire Terrier?",
+      question: "How tall and heavy is an adult American Staffordshire Terrier?",
       answer:
-        "Adult males typically stand about 18 to 19 inches at the shoulder and weigh 55 to 70 pounds, while females stand about 17 to 18 inches and weigh 40 to 55 pounds, with height and weight maintaining harmonious proportion."
+        "Preferable height at the shoulders is about 18 to 19 inches for males and 17 to 18 inches for females, with typical weights of 55 to 70 pounds for males and 40 to 55 pounds for females in proportion to height.",
     },
     {
-      question: "How long does an American Staffordshire Terrier usually live?",
+      question: "What is the life expectancy of an American Staffordshire Terrier?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a lifespan of 12 to 16 years."
+        "Typical life expectancy is 12 to 16 years with proper weight management, exercise, and preventive veterinary care.",
     },
     {
-      question: "What does the coat look like, and do they shed a lot?",
+      question: "What coat colours are permitted?",
       answer:
-        "The coat is short, stiff to the touch, and glossy, lying flat against the body in any color or pattern; shedding is low to moderate throughout the year and is easily managed with weekly brushing."
+        "Any solid, parti-colour, or patched colour is permissible, though coats with more than 80 percent white, black and tan, and liver are discouraged.",
     },
     {
-      question: "Are American Staffordshire Terriers good with children?",
+      question: "Are American Staffordshire Terriers good family dogs?",
       answer:
-        "Yes. Within their own household, they are famously affectionate, patient, and gentle with children; however, because they are strong and energetic, interactions with young children should always be supervised by an adult."
+        "They are typically affectionate, playful, and deeply loyal with their own household, though their strength and enthusiasm mean interactions with children should always be supervised.",
     },
     {
-      question: "Can an American Staffordshire Terrier live peacefully with other dogs and pets?",
+      question: "Do they get along with other dogs and small pets?",
       answer:
-        "While they can coexist harmoniously with other household pets when raised together from puppyhood, many adults develop selectivity or intolerance toward unfamiliar dogs of the same sex, and their high terrier prey drive means they should be monitored carefully around small outdoor animals."
+        "Even well-socialised adults can be selective or reactive toward unfamiliar dogs, and their terrier chase instinct can be triggered by small animals, so careful supervision and on-lead management in public are essential.",
     },
     {
       question: "Can an American Staffordshire Terrier live in an apartment?",
       answer:
-        "Yes. They can adapt well to apartment living provided they receive extensive daily exercise, mental enrichment, and leashed outdoor walks, though local housing policies and community rules must always be verified beforehand."
+        "Yes, provided it receives vigorous daily outdoor exercise, mental stimulation, and regular human companionship, and that local laws and building policies allow the breed.",
     },
     {
-      question: "Are American Staffordshire Terriers easy to train?",
+      question: "What is cerebellar ataxia in the American Staffordshire Terrier?",
       answer:
-        "They are intelligent, food-motivated, and eager to please, making them quick learners; however, their physical strength and tenacity require early leash manners, impulse control, and patient, reward-based training."
+        "It is an inherited adult-onset neurodegenerative disease (neuronal ceroid lipofuscinosis type 4A) caused by a recessive mutation in the ARSG gene that leads to progressive loss of coordination; a DNA test allows breeders to avoid producing affected puppies.",
     },
     {
-      question: "What is cerebellar ataxia, and how is it tested in the breed?",
+      question: "Which health screenings are recommended before breeding?",
       answer:
-        "Cerebellar ataxia is an inherited neurodegenerative disease caused by a mutation in the ARSG gene that leads to progressive loss of balance, tremors, and difficulty walking. A reliable DNA test is available, allowing breeders to ensure that carrier pairings never produce affected puppies."
+        "Recommended pre-breeding evaluations include the cerebellar ataxia DNA test, hip radiographs, a specialist cardiac evaluation, and an autoimmune thyroiditis laboratory panel, along with optional elbow radiographs and ophthalmic exams.",
     },
-    {
-      question: "What other health screenings are recommended before breeding?",
-      answer:
-        "Responsible breeding programs evaluate hips and elbows for dysplasia, conduct specialist echocardiograms to screen for congenital heart defects, evaluate thyroid function, and perform annual veterinary ophthalmologist eye exams."
-    },
-    {
-      question: "Why is early socialization especially critical for this breed?",
-      answer:
-        "Because of their strength, confidence, and terrier determination, early exposure to diverse people, calm dogs, novel sounds, and busy environments builds self-control and social poise, ensuring they mature into balanced, well-mannered ambassadors."
-    }
   ],
 
   references: [
@@ -428,16 +408,17 @@ export const american_staffordshire_terrier: Breed = {
     "ofa-american-staffordshire-terrier-chic-requirements",
     "american-staffordshire-terrier-ataxia-arsg-study-2010",
     "wikimedia-american-staffordshire-terrier-daniel-oines",
-    "wikimedia-american-staffordshire-terrier-pleple2000"
+    "wikimedia-american-staffordshire-terrier-pleple2000",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Official breed standards and kennel-club profiles do not establish a separate scientific name for the breed.",
     },
 
     alternateNames: {
@@ -446,21 +427,26 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "fci-american-staffordshire-terrier-official-standard",
           role: "verified",
-          locator: "Standard heading and breed name"
+          locator: "Standard heading: American Staffordshire Terrier",
         },
         {
           id: "fci-american-staffordshire-terrier-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: American Staffordshire Terrier"
+          locator: "Official nomenclature: American Staffordshire Terrier (286)",
         },
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "History: Staffordshire Terrier, AmStaff, American Staffy, Yankee Terrier"
-        }
+          locator: "History & overview: AmStaff, Staffordshire Terrier, Yankee Terrier",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (AmStaff, Staffy, Stafford)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Cross-verified across FCI Standard No. 286, FCI Nomenclature, and AKC breed documentation."
+      verifiedOn: "2026-11-17",
+      note: "Verified across FCI Standard No. 286, FCI Nomenclature, AKC breed history, and The Dog API.",
     },
 
     group: {
@@ -469,21 +455,26 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "fci-american-staffordshire-terrier-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 3 Terriers, Section 3 Bull type Terriers, without working trial"
+          locator: "FCI Classification: Group 3 Terriers, Section 3 Bull type Terriers, without working trial",
         },
         {
           id: "fci-american-staffordshire-terrier-nomenclature",
           role: "verified",
-          locator: "Group 3, Section 3 Bull type Terriers, without working trial"
+          locator: "Group 3, Section 3 Bull type Terriers, without working trial",
         },
         {
           id: "akc-american-staffordshire-terrier-breed-standard",
           role: "verified",
-          locator: "Terrier Group"
-        }
+          locator: "Terrier Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group (Terrier)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Formulated without prohibited registry labels in user-facing text to comply with Rule 5."
+      verifiedOn: "2026-11-17",
+      note: "Follows the Group 3, Section 3 classification without naming registries in user-facing text.",
     },
 
     origin: {
@@ -492,21 +483,26 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "fci-american-staffordshire-terrier-official-standard",
           role: "verified",
-          locator: "Origin: United States of America; Brief Historical Summary"
+          locator: "Origin: U.S.A.",
         },
         {
           id: "fci-american-staffordshire-terrier-nomenclature",
           role: "verified",
-          locator: "Country of origin: United States of America"
+          locator: "Country of origin of the breed: United States of America",
         },
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "History: Development in the United States from nineteenth-century British bull-and-terrier crosses"
-        }
+          locator: "History: Developed in the United States from nineteenth-century British bull-and-terrier crosses",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (United States)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     overview: {
@@ -515,26 +511,31 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "fci-american-staffordshire-terrier-official-standard",
           role: "verified",
-          locator: "Brief Historical Summary, General Appearance, Head, Body, and Temperament"
+          locator: "General appearance, Head, Body, and Temperament",
         },
         {
           id: "akc-american-staffordshire-terrier-breed-standard",
           role: "verified",
-          locator: "General Impression, Head, Body, and Color"
+          locator: "General Impression, Head, Body, and Color",
         },
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (1936 recognition, 1972 renaming), and Roles"
+          locator: "About the Breed, History (1936 recognition as Staffordshire Terrier, 1972 renaming), and Roles",
         },
         {
           id: "staffordshire-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "General appearance, historical purpose, and versatile working roles"
-        }
+          locator: "General appearance, historical purpose, and working roles",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Synthesized in original phrasing without source or registry names in user-facing text."
+      verifiedOn: "2026-11-17",
+      note: "All overview text is rewritten in original wording without registry names.",
     },
 
     physical: {
@@ -543,21 +544,26 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-standard",
           role: "verified",
-          locator: "General Impression, Head, Body, Legs, Coat, Color, and Size"
+          locator: "General Impression, Head, Body, Tail, Legs, Coat, Color (more than 80% white, black and tan, and liver not to be encouraged), and Size",
         },
         {
           id: "fci-american-staffordshire-terrier-official-standard",
           role: "verified",
-          locator: "Head, Body, Tail, Limbs, Coat, Colour, and Size"
+          locator: "Head, Body, Tail, Limbs, Gait, Coat, Colour, and Size",
         },
         {
           id: "staffordshire-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "Conformation, anatomical proportions, bite, and distinctive features"
-        }
+          locator: "Conformation, head proportions, bite, ears (uncropped preferred), and tail",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 17 generic colours including Black and Tan and Liver without qualification)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Conformation, coat, colors, and distinctive features follow official standards."
+      verifiedOn: "2026-11-17",
+      note: "Conformation, coat texture, and colour rules (any solid, parti-colour, or patched colour permitted, but over 80% white, black and tan, and liver discouraged) follow the AKC and FCI standards rather than The Dog API's unqualified 17-colour list.",
     },
 
     "physical.height": {
@@ -566,17 +572,22 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-standard",
           role: "verified",
-          locator: "Size: Height of about 18 to 19 inches at shoulders for male and 17 to 18 inches for female"
+          locator: "Size: Height of about eighteen to nineteen inches at shoulders for the male and seventeen to eighteen inches for the female to be considered preferable",
         },
         {
           id: "fci-american-staffordshire-terrier-official-standard",
           role: "verified",
-          locator: "Size: Males about 46 - 48 cm (18-19 ins), Females about 43 - 46 cm (17-18 ins)"
-        }
+          locator: "Size: A height of about eighteen to nineteen inches (46 - 48 cm) at the shoulder for the male and seventeen to eighteen inches (43 - 46 cm) for the female",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric (46–48 cm male, 43–46 cm female)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Preserved in published unit of inches (18 to 19 in for males, 17 to 18 in for females) exactly as published in the AKC breed standard and FCI English standard."
+        "Both the AKC official standard and FCI Standard No. 286 state inches first (18–19 in male, 17–18 in female); preserved in inches without conversion per Rule 9.",
     },
 
     "physical.weight": {
@@ -585,17 +596,48 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "Weight: 55-70 pounds (male), 40-55 pounds (female)"
+          locator: "Weight: 55–70 pounds (male), 40–55 pounds (female)",
         },
         {
           id: "akc-american-staffordshire-terrier-breed-standard",
-          role: "verified",
-          locator: "Size: Height and weight should be in proportion"
-        }
+          role: "cited",
+          locator: "Size: Height and weight should be in proportion",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric (25–32 kg male, 18–25 kg female)",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Standards require weight to be in proportion to height. The stored ranges of 55 to 70 lb for males and 40 to 55 lb for females are the canonical weights published in the AKC breed profile and parent-club guides, preserved in pounds."
+        "Preserves the published whole-number pound ranges (55–70 lb male, 40–55 lb female) from the AKC breed profile; The Dog API reports the metric equivalents (25–32 kg male, 18–25 kg female).",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-american-staffordshire-terrier-breed-profile",
+          role: "verified",
+          locator: "Weight: 55–70 pounds (male)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper male weight bound of 70 lb from the AKC breed profile.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-american-staffordshire-terrier-breed-profile",
+          role: "verified",
+          locator: "Weight: 40–55 pounds (female)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female weight bound of 55 lb from the AKC breed profile.",
     },
 
     "physical.lifespanYears": {
@@ -604,11 +646,16 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-16 years"
-        }
+          locator: "Life Expectancy: 12–16 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (12–16 years)",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Supported by kennel club and breed club life expectancy publications."
+      verifiedOn: "2026-11-17",
+      note: "Verified across both the AKC breed profile and The Dog API.",
     },
 
     "physical.sheddingLevel": {
@@ -617,16 +664,16 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
+          locator: "Breed Traits: Shedding Level (2/5)",
         },
         {
           id: "fci-american-staffordshire-terrier-official-standard",
           role: "verified",
-          locator: "Coat: Short, close, stiff to the touch, and glossy"
-        }
+          locator: "Coat: Short, close, stiff to the touch, glossy",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "physical.droolingLevel": {
@@ -635,16 +682,16 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (2/5)"
+          locator: "Breed Traits: Drooling Level (2/5)",
         },
         {
           id: "akc-american-staffordshire-terrier-breed-standard",
           role: "verified",
-          locator: "Lips: Tight and even, no looseness"
-        }
+          locator: "Lips: Close and even, no looseness",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Tight-fitting lips prevent excessive drooling."
+      verifiedOn: "2026-11-17",
+      note: "Tight-fitting lips prevent heavy drooling.",
     },
 
     "temperament.traits": {
@@ -653,21 +700,26 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-standard",
           role: "verified",
-          locator: "General Impression: keenness, courage, confidence, good nature"
+          locator: "General Impression: keenness ofacha/surroundings, courage",
         },
         {
           id: "fci-american-staffordshire-terrier-official-standard",
           role: "verified",
-          locator: "General Appearance & Temperament: courageous, persistent, friendly"
+          locator: "General Appearance & Behaviour/Temperament: keenly alive to surroundings, courageous",
         },
         {
           id: "staffordshire-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "Temperament: bold, courageous, good-natured, devoted to family"
-        }
+          locator: "Temperament: confident, courageous, good-natured, devoted to family",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "temperament.scores": {
@@ -676,17 +728,17 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics ratings",
         },
         {
           id: "staffordshire-terrier-club-of-america-breed-standard",
           role: "cited",
-          locator: "Temperament and behavior guidance"
-        }
+          locator: "Temperament and behaviour guidance",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented breed temperament traits, highlighting high family affection and known potential for dog selectivity."
+        "Editorial 1–5 scores informed by documented breed traits.",
     },
 
     care: {
@@ -695,17 +747,17 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming, Exercise, Training, and Nutrition",
         },
         {
           id: "staffordshire-terrier-club-of-america-health",
           role: "cited",
-          locator: "Care, training, and athletic exercise management"
-        }
+          locator: "Care, training, and athletic exercise management",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines athletic terrier care guidelines with positive reinforcement training protocols."
+        "Combines athletic terrier husbandry with reward-based training and containment advice.",
     },
 
     "care.exercise.level": {
@@ -714,16 +766,16 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
+          locator: "Energy Level (4/5); Exercise Needs (4/5)",
         },
         {
           id: "staffordshire-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "Athletic agility, springiness, and endurance"
-        }
+          locator: "Athletic agility and muscular build",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
@@ -732,12 +784,12 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "cited",
-          locator: "Exercise: Athletic dog requiring vigorous daily physical activity"
-        }
+          locator: "Exercise: athletic dog requiring vigorous daily physical activity",
+        },
       ],
       verifiedOn: null,
       note:
-        "An estimated range of 60 to 90 minutes reflects the exercise demands of an athletic, high-energy terrier."
+        "Editorial estimate of 60–90 minutes of daily exercise and mental work.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -746,12 +798,11 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (3/5) with adequate outdoor exercise"
-        }
+          locator: "Adaptability: Adapts Well to Apartment Living (3/5) when given sufficient daily exercise",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note:
-        "Can adapt to apartment living when rigorous daily outdoor exercise is provided, subject to local regulations."
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -760,16 +811,16 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "Exercise and fenced yard recommendations"
+          locator: "Exercise and securely fenced yard recommendations",
         },
         {
           id: "staffordshire-terrier-club-of-america-health",
           role: "verified",
-          locator: "Secure containment and fencing advice"
-        }
+          locator: "Secure containment and fencing guidance",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.climates": {
@@ -778,16 +829,16 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "fci-american-staffordshire-terrier-official-standard",
           role: "verified",
-          locator: "Coat: Short, close, stiff single coat"
+          locator: "Coat: short, close, stiff single coat",
         },
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "Weather sensitivity: single short coat requires protection in cold and heat"
-        }
+          locator: "Short single coat requires protection in extreme cold or heat",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -796,11 +847,11 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "Tolerates Being Alone: Low to moderate; deeply people-oriented"
-        }
+          locator: "People-oriented nature and low tolerance for extended isolation",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     nutrition: {
@@ -809,16 +860,11 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "cited",
-          locator: "Nutrition: high-quality food, weight management, treat budgeting"
+          locator: "Nutrition: calorie monitoring and lean weight management",
         },
-        {
-          id: "staffordshire-terrier-club-of-america-health",
-          role: "cited",
-          locator: "Nutrition and body condition maintenance"
-        }
       ],
       verifiedOn: null,
-      note: "Standard feeding and weight-management recommendations for athletic medium breeds."
+      note: "General canine nutrition guidance for an athletic medium-sized dog.",
     },
 
     "nutrition.feedingFrequency": {
@@ -827,11 +873,11 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "cited",
-          locator: "Life-stage nutrition and portion control"
-        }
+          locator: "Life-stage feeding and portion control",
+        },
       ],
       verifiedOn: null,
-      note: "General canine feeding schedule to maintain steady blood glucose and comfortable digestion."
+      note: "General life-stage meal scheduling guidance.",
     },
 
     "health.overview": {
@@ -840,22 +886,22 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "american-staffordshire-terrier-ataxia-arsg-study-2010",
           role: "verified",
-          locator: "ARSG gene mutation and cerebellar ataxia / neuronal ceroid lipofuscinosis in the American Staffordshire Terrier"
+          locator: "ARSG mutation associated with canine neuronal ceroid lipofuscinosis / cerebellar ataxia in American Staffordshire Terriers",
         },
         {
           id: "ofa-american-staffordshire-terrier-chic-requirements",
           role: "verified",
-          locator: "Required screenings: Ataxia DNA test, Hip evaluation, Cardiac exam, Thyroid test"
+          locator: "Required screenings: NCL-A DNA test, Hip Dysplasia, Cardiac Evaluation, Autoimmune Thyroiditis",
         },
         {
           id: "staffordshire-terrier-club-of-america-health",
           role: "verified",
-          locator: "Health overview, hereditary ataxia, orthopedics, cardiac disease, and skin allergies"
-        }
+          locator: "Health overview: cerebellar ataxia, hip/elbow dysplasia, cardiac disease, thyroiditis, and skin allergies",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesizes peer-reviewed genetics research on cerebellar ataxia with health registry screening requirements."
+        "Synthesises peer-reviewed genetics research on ARSG cerebellar ataxia with parent-club and health-registry screening priorities.",
     },
 
     "health.commonConditions": {
@@ -864,22 +910,22 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "american-staffordshire-terrier-ataxia-arsg-study-2010",
           role: "verified",
-          locator: "Cerebellar ataxia / neuronal ceroid lipofuscinosis clinical and genetic description"
+          locator: "Adult-onset cerebellar ataxia (NCL4A / ARSG gene mutation)",
         },
         {
           id: "ofa-american-staffordshire-terrier-chic-requirements",
           role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, subaortic stenosis, and thyroiditis"
+          locator: "Hip dysplasia, elbow dysplasia, cardiac disease, autoimmune thyroiditis, and eye disease",
         },
         {
           id: "staffordshire-terrier-club-of-america-health",
           role: "verified",
-          locator: "Cruciate ligament tears, skin allergies (atopy), and demodectic mange"
-        }
+          locator: "Cruciate ligament injuries, skin allergies, and demodectic mange",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+        "Summarises documented hereditary and conformational conditions without prohibited registry acronyms in user-facing text.",
     },
 
     "health.preventiveCare": {
@@ -888,16 +934,16 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "staffordshire-terrier-club-of-america-health",
           role: "cited",
-          locator: "Preventive care, exercise precautions during puppyhood, and skin management"
+          locator: "Preventive care, growth exercise precautions, and skin care",
         },
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "cited",
-          locator: "General health, parasite prevention, and routine wellness"
-        }
+          locator: "General health and parasite prevention",
+        },
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to muscular athletic terriers."
+      note: "Preventive care guidance tailored to muscular, short-coated terriers.",
     },
 
     "health.recommendedScreenings": {
@@ -906,17 +952,17 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "ofa-american-staffordshire-terrier-chic-requirements",
           role: "verified",
-          locator: "CHIC Program requirements: Cerebellar Ataxia DNA test, Hip Dysplasia, Cardiac Evaluation, Autoimmune Thyroiditis"
+          locator: "Required tests: Cerebellar Ataxia (NCL-A) DNA test, Hip Dysplasia, Cardiac Evaluation, Autoimmune Thyroiditis; Optional: Elbow Dysplasia, Eye Exam",
         },
         {
           id: "staffordshire-terrier-club-of-america-health",
           role: "verified",
-          locator: "Pre-breeding testing protocol: NCL-A DNA test, OFA hips, elbows, heart, and thyroid"
-        }
+          locator: "Pre-breeding testing recommendations",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "Screenings summarize published parent club and health registry protocols."
+        "Reflects mandatory and optional pre-breeding health screenings without using prohibited registry acronyms in user-facing text.",
     },
 
     "health.dentalCare": {
@@ -925,16 +971,11 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-standard",
           role: "cited",
-          locator: "Jaws and teeth: clean scissor bite"
+          locator: "Jaws and teeth: scissor bite",
         },
-        {
-          id: "akc-american-staffordshire-terrier-breed-profile",
-          role: "cited",
-          locator: "Routine care and dental hygiene"
-        }
       ],
       verifiedOn: null,
-      note: "Standard canine dental care guidelines."
+      note: "General canine dental care guidance.",
     },
 
     "health.earCare": {
@@ -943,16 +984,11 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-standard",
           role: "cited",
-          locator: "Ears: set high, cropped or uncropped"
+          locator: "Ears: set high, uncropped preferred",
         },
-        {
-          id: "akc-american-staffordshire-terrier-breed-profile",
-          role: "cited",
-          locator: "Ear checks and routine cleaning"
-        }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for high-set ears."
+      note: "Routine ear care guidance.",
     },
 
     "health.skinCare": {
@@ -961,11 +997,11 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "staffordshire-terrier-club-of-america-health",
           role: "cited",
-          locator: "Skin sensitivity, allergic dermatitis, and coat care"
-        }
+          locator: "Skin sensitivity and coat maintenance",
+        },
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for breeds prone to allergic dermatitis."
+      note: "Routine skin and coat care guidance.",
     },
 
     suitability: {
@@ -974,17 +1010,17 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "About the breed, Temperament, and Adaptability ratings",
         },
         {
           id: "staffordshire-terrier-club-of-america-breed-standard",
           role: "cited",
-          locator: "Temperament and handler requirements"
-        }
+          locator: "Temperament and handler expectations",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed strength, energy, and terrier temperament."
+        "Editorial suitability evaluations based on physical strength, exercise needs, and dog-selectivity considerations.",
     },
 
     funFacts: {
@@ -993,21 +1029,21 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "History: Sergeant Stubby World War I, Petey in Our Gang, 1936 and 1972 recognition"
-        },
-        {
-          id: "staffordshire-terrier-club-of-america-breed-standard",
-          role: "verified",
-          locator: "Historical background, closed studbook, and athletic power"
+          locator: "History: nineteenth-century bull-and-terrier roots, 1936 recognition, 1972 renaming, Petey in Our Gang",
         },
         {
           id: "fci-american-staffordshire-terrier-official-standard",
           role: "verified",
-          locator: "Brief historical summary: bull and terrier foundation"
-        }
+          locator: "Ears (uncropped preferred), Tail (not docked), and Colour (over 80% white, black and tan, and liver not to be encouraged)",
+        },
+        {
+          id: "staffordshire-terrier-club-of-america-breed-standard",
+          role: "verified",
+          locator: "Breed history and canine sports versatility",
+        },
       ],
-      verifiedOn: "2026-10-24",
-      note: "Verified historical folklore and cultural heritage facts."
+      verifiedOn: "2026-11-17",
+      note: "Verified historical and standard facts rewritten in original wording.",
     },
 
     faq: {
@@ -1016,29 +1052,29 @@ export const american_staffordshire_terrier: Breed = {
         {
           id: "akc-american-staffordshire-terrier-breed-standard",
           role: "verified",
-          locator: "Size, weight, coat, colors, and temperament"
+          locator: "Height (18–19 in male, 17–18 in female), coat, colour rules, and temperament",
         },
         {
           id: "akc-american-staffordshire-terrier-breed-profile",
           role: "verified",
-          locator: "Lifespan, family suitability, exercise, and training"
+          locator: "Weight (55–70 lb male, 40–55 lb female), lifespan (12–16 yr), 1936/1972 history, and care",
         },
         {
           id: "american-staffordshire-terrier-ataxia-arsg-study-2010",
           role: "verified",
-          locator: "Cerebellar ataxia genetics and DNA testing"
+          locator: "ARSG gene mutation and cerebellar ataxia (NCL4A) DNA testing",
         },
         {
           id: "ofa-american-staffordshire-terrier-chic-requirements",
           role: "verified",
-          locator: "Health screenings for hips, heart, thyroid, and ataxia"
-        }
+          locator: "Pre-breeding health screening protocols",
+        },
       ],
-      verifiedOn: "2026-10-24",
+      verifiedOn: "2026-11-17",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
-    }
+        "FAQ answers synthesise verified standards, kennel-club profiles, and genetics research without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-10-24"
+  updatedOn: "2026-11-17",
 };

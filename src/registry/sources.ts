@@ -18119,6 +18119,296 @@ export const sources = defineSources({
     note: "Photograph (600 x 516 px) featuring a male wolf-grey Saarlooswolfhond standing in profile outdoors by a Wikimedia Commons user (captured and uploaded 2016-12-11). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
+  "fci-welsh-springer-spaniel-official-standard": {
+    id: "fci-welsh-springer-spaniel-official-standard",
+    name: "FCI - Welsh Springer Spaniel Official Breed Standard No. 126",
+    url: "http://www.fci.be/nomenclature/standards/126g08-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 126 (valid standard dated 2026-09-08, published 2026-10-06). Covers Great Britain origin, Group 8 Section 2 classification, rich red and white coat requirement, vine-shaped drop ears, and ideal withers height (males 48 cm, females 46 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-welsh-springer-spaniel-nomenclature": {
+    id: "fci-welsh-springer-spaniel-nomenclature",
+    name: "FCI - Welsh Springer Spaniel Breed Nomenclature (No. 126)",
+    url: "https://www.fci.be/en/nomenclature/WELSH-SPRINGER-SPANIEL-126.html",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 8 Section 2 classification with working trial, and official multilingual name.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-welsh-springer-spaniel-breed-standard": {
+    id: "akc-welsh-springer-spaniel-breed-standard",
+    name: "American Kennel Club - Official Standard of the Welsh Springer Spaniel",
+    url: "https://images.akc.org/pdf/breeds/standards/WelshSpringerSpaniel.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed standard (Sporting Group) establishing height (males 18-19 in, females 17-18 in), weight (males 40-50 lbs, females 35-50 lbs), red and white coat, and reserved but loyal temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-welsh-springer-spaniel-breed-profile": {
+    id: "akc-welsh-springer-spaniel-breed-profile",
+    name: "American Kennel Club - Welsh Springer Spaniel Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/welsh-springer-spaniel/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile covering Welsh history, weight ranges, lifespan (12-15 years), and general characteristics.",
+    publisher: "American Kennel Club"
+  },
+  "ofa-welsh-springer-spaniel-chic-requirements": {
+    id: "ofa-welsh-springer-spaniel-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Welsh Springer Spaniel CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=WSS",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Welsh Springer Spaniel, mandating radiographic hip dysplasia evaluation, radiographic elbow dysplasia evaluation, autoimmune thyroiditis evaluation, and CAER eye examination.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-welsh-springer-spaniel-1": {
+    id: "wikimedia-welsh-springer-spaniel-1",
+    name: "Wikimedia Commons - File:Welsh Springer Spaniel 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Welsh_Springer_Spaniel_1.jpg",
+    type: "other",
+    publishedOn: "2010-01-11",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (2974 x 2205 px) of an adult male Welsh Springer Spaniel standing outdoors by Udo Tjalsma (captured 2009-09-12, uploaded 2010-01-11). Dedicated to the Public Domain under CC0 1.0 Universal license on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-welsh-springer-spaniel-lokal-profil": {
+    id: "wikimedia-welsh-springer-spaniel-lokal-profil",
+    name: "Wikimedia Commons - File:Welsh Springer Spaniel.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Welsh_Springer_Spaniel.jpg",
+    type: "other",
+    publishedOn: "2006-05-22",
+    accessedOn: "2026-11-17",
+    note: "Photograph (1230 x 667 px) featuring a profile view of a Welsh Springer Spaniel standing on grass by Lokal_Profil (captured and uploaded 2006-05-22). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-french-spaniel-official-standard": {
+    id: "fci-french-spaniel-official-standard",
+    name: "FCI - French Spaniel (Epagneul Français) Official Breed Standard No. 175",
+    url: "https://www.fci.be/Nomenclature/Standards/175g07-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2008-11-04",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 175 (valid standard dated 2008-11-04). Covers French origin, Group 7 Pointing Dogs, Section 1.2 Continental Pointing Dogs (Spaniel type) classification with working trial, elegant muscular build, flat brown-and-white feathered coat, and withers height (56 to 61 cm for males, 55 to 59 cm for females).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-french-spaniel-nomenclature": {
+    id: "fci-french-spaniel-nomenclature",
+    name: "FCI - French Spaniel Breed Nomenclature (No. 175)",
+    url: "https://www.fci.be/en/nomenclature/FRENCH-SPANIEL-175.html",
+    type: "official_breed_standard",
+    publishedOn: "2008-11-04",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 7 Section 1.2 classification with working trial, definitive recognition date (1955-08-04), and official multilingual name (Epagneul Français).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "scc-epagneul-francais-standard": {
+    id: "scc-epagneul-francais-standard",
+    name: "Société Centrale Canine - Standard et Profil de l'Epagneul Français",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/epagneul-francais",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official French kennel club (Société Centrale Canine / SCC) breed profile and standard for Epagneul Français, documenting ancient Chien d'Oysel heritage, Father Fournier 1891 revival, height, weight (20-27 kg), hunting traits, and exceptionally docile character.",
+    publisher: "Société Centrale Canine"
+  },
+  "ckc-french-spaniel-breed-standard": {
+    id: "ckc-french-spaniel-breed-standard",
+    name: "Canadian Kennel Club - French Spaniel Breed Standard",
+    url: "https://www.ckc.ca/en/Choosing-a-Dog/Choosing-a-Breed/Sporting-Dogs/French-Spaniel",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official CKC breed profile and standard (Sporting Dogs Group) covering conformation, white and brown coat, pointing behavior, and gentle disposition.",
+    publisher: "Canadian Kennel Club"
+  },
+  "ukc-french-spaniel-breed-standard": {
+    id: "ukc-french-spaniel-breed-standard",
+    name: "United Kennel Club - French Spaniel Breed Standard",
+    url: "https://www.ukcdogs.com/french-spaniel",
+    type: "official_breed_standard",
+    publishedOn: "1996-01-01",
+    accessedOn: "2026-11-17",
+    note: "Official UKC breed standard (Gun Dog Group, recognized 1996) covering conformation, elegant build, flat brown and white coat, and pointing behavior.",
+    publisher: "United Kennel Club"
+  },
+  "club-epagneul-francais-health": {
+    id: "club-epagneul-francais-health",
+    name: "Club de l'Epagneul Français - Santé et Dépistage (AMS, Dysplasie)",
+    url: "https://www.epagneul-francais.org/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official French parent breed club portal documenting morphological traits, coat color rules, average lifespan, and mandatory health screening requirements for Acral Mutilation Syndrome (AMS DNA test) and Hip Dysplasia.",
+    publisher: "Club de l'Epagneul Français"
+  },
+  "wikimedia-epagneul-francais-fond-blanc": {
+    id: "wikimedia-epagneul-francais-fond-blanc",
+    name: "Wikimedia Commons - File:Epagneul Français Fond Blanc.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Epagneul_Fran%C3%A7ais_Fond_Blanc.jpg",
+    type: "other",
+    publishedOn: "2015-02-20",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (1024 x 768 px) of an adult French Spaniel standing on a white background by a Wikimedia Commons User (uploaded by Flickr upload bot, 2015-02-20). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-french-spaniel-canarian": {
+    id: "wikimedia-french-spaniel-canarian",
+    name: "Wikimedia Commons - File:French Spaniel or Épagneul Français.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:French_Spaniel_or_%C3%89pagneul_Fran%C3%A7ais.JPG",
+    type: "other",
+    publishedOn: "2026-08-15",
+    accessedOn: "2026-11-17",
+    note: "Photograph (3264 x 2448 px) of a French Spaniel standing in a grassy field by Canarian (captured and uploaded 2026-08-15). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-lakeland-terrier-official-standard": {
+    id: "fci-lakeland-terrier-official-standard",
+    name: "FCI - Lakeland Terrier Official Breed Standard No. 70",
+    url: "https://www.fci.be/Nomenclature/Standards/070g03-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 70 (valid standard dated 2026-09-08, published 2026-10-06). Covers Great Britain origin, Group 3 Terriers, Section 1 Large and medium-sized Terriers classification without working trial, narrow chest for burrowing, dense wire coat, and maximum withers height of 37 cm.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-lakeland-terrier-nomenclature": {
+    id: "fci-lakeland-terrier-nomenclature",
+    name: "FCI - Lakeland Terrier Breed Nomenclature (No. 70)",
+    url: "https://www.fci.be/en/nomenclature/LAKELAND-TERRIER-70.html",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 3 Section 1 classification without working trial, definitive recognition date (1954-10-27), and official multilingual name (Lakeland Terrier).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-lakeland-terrier-breed-standard": {
+    id: "akc-lakeland-terrier-breed-standard",
+    name: "American Kennel Club - Official Standard of the Lakeland Terrier",
+    url: "https://images.akc.org/pdf/breeds/standards/LakelandTerrier.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1989-01-11",
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed standard (Terrier Group, approved January 11, 1989) establishing height (approx. 14.5 inches), weight (approx. 17 lbs), squarely built frame, dense wiry double coat, and fearless, gay temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-lakeland-terrier-breed-profile": {
+    id: "akc-lakeland-terrier-breed-profile",
+    name: "American Kennel Club - Lakeland Terrier Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/lakeland-terrier/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile covering Lake District history, fox hunting in rugged fells, Stingray of Derryabah achievements, lifespan (12-15 years), temperament, high prey drive, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "the-kennel-club-lakeland-terrier-breed-standard": {
+    id: "the-kennel-club-lakeland-terrier-breed-standard",
+    name: "The Royal Kennel Club - Lakeland Terrier Breed Standard",
+    url: "https://www.thekennelclub.org.uk/breed-standards/terrier/lakeland-terrier/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-17",
+    note: "Official Royal Kennel Club breed standard (Terrier Group) confirming native British origin, maximum height (37 cm / 14.5 in), and working terrier characteristics.",
+    publisher: "The Royal Kennel Club"
+  },
+  "usltc-lakeland-terrier-health": {
+    id: "usltc-lakeland-terrier-health",
+    name: "United States Lakeland Terrier Club - Breed Health",
+    url: "https://usltc.org/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official national parent club portal discussing overall robust breed health, low incidence of genetic issues, Primary Lens Luxation (PLL) screening, and general recommendations for maintaining terrier fitness.",
+    publisher: "United States Lakeland Terrier Club"
+  },
+  "wikimedia-lakeland-terrier-sannse": {
+    id: "wikimedia-lakeland-terrier-sannse",
+    name: "Wikimedia Commons - File:Lakeland Terrier.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Lakeland_Terrier.jpg",
+    type: "other",
+    publishedOn: "2003-11-26",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (600 x 509 px) of an adult Lakeland Terrier standing in profile by Sannse (captured 2003-08-30, uploaded 2003-11-26). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-grizzle-and-tan-lakeland-terrier-inkforest": {
+    id: "wikimedia-grizzle-and-tan-lakeland-terrier-inkforest",
+    name: "Wikimedia Commons - File:Grizzle and tan lakeland terrier.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Grizzle_and_tan_lakeland_terrier.jpg",
+    type: "other",
+    publishedOn: "2019-12-30",
+    accessedOn: "2026-11-17",
+    note: "Photograph (933 x 1244 px) featuring a grizzle and tan Lakeland Terrier standing on grass by Inkforest (captured and uploaded 2019-12-30). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-portuguese-pointer-official-standard": {
+    id: "fci-portuguese-pointer-official-standard",
+    name: "FCI - Portuguese Pointing Dog Official Breed Standard No. 187",
+    url: "https://www.fci.be/Nomenclature/Standards/187g07-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2008-11-04",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 187 (valid standard dated 2008-11-04). Covers Portuguese origin, Group 7 Pointing Dogs, Section 1.1 Continental Pointing Dogs classification with working trial, square build, short yellow coat without undercoat, withers height (males 56 cm, females 52 cm with +/- 4 cm tolerance), and weight (males 20-27 kg, females 16-22 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-portuguese-pointer-nomenclature": {
+    id: "fci-portuguese-pointer-nomenclature",
+    name: "FCI - Portuguese Pointing Dog Breed Nomenclature (No. 187)",
+    url: "https://www.fci.be/en/nomenclature/PORTUGUESE-POINTING-DOG-187.html",
+    type: "official_breed_standard",
+    publishedOn: "2008-11-04",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming Portugal as country of origin, Group 7 Section 1.1 classification with working trial, definitive recognition date (1955-06-10), and official multilingual names (Perdigueiro Português, Portuguese Pointing Dog).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "cpc-perdigueiro-portugues-standard": {
+    id: "cpc-perdigueiro-portugues-standard",
+    name: "Clube Português de Canicultura - Estalão do Perdigueiro Português",
+    url: "https://www.cpc.pt/racas/racas-portuguesas/perdigueiro-portugues/",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official Portuguese Kennel Club (CPC) breed standard and profile for Perdigueiro Português, documenting native Iberian heritage, partridge hunting history, morphological proportions, and lack of undercoat.",
+    publisher: "Clube Português de Canicultura"
+  },
+  "akc-portuguese-pointer-breed-profile": {
+    id: "akc-portuguese-pointer-breed-profile",
+    name: "American Kennel Club - Portuguese Pointer Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/portuguese-pointer/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official AKC breed profile (Foundation Stock Service) covering partridge hunting history, influence on the English Pointer, lifespan (12-14 years), temperament, and grooming.",
+    publisher: "American Kennel Club"
+  },
+  "wikimedia-perdigueiro-portugues-canarian": {
+    id: "wikimedia-perdigueiro-portugues-canarian",
+    name: "Wikimedia Commons - File:Perdigueiro Portugues aka Portuguese Pointer.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Perdigueiro_Portugues_aka_Portuguese_Pointer.jpg",
+    type: "other",
+    publishedOn: "2014-05-31",
+    accessedOn: "2026-11-17",
+    note: "Photograph (498 x 472 px) of an adult fawn Portuguese Pointer standing in profile by Canarian (captured 2006-06-25, uploaded 2014-05-31). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-portuguese-pointer-afonso-silva": {
+    id: "wikimedia-portuguese-pointer-afonso-silva",
+    name: "Wikimedia Commons - File:Portuguese pointer 11yo.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Portuguese_pointer_11yo.jpg",
+    type: "other",
+    publishedOn: "2006-06-29",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (1632 x 1224 px) featuring a Portuguese Pointer lying outdoors on grass by Afonso Silva~commonswiki (captured and uploaded 2006-06-29). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
 });
 
 export type SourceId = keyof typeof sources;

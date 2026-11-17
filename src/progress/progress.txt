@@ -130,9 +130,9 @@
 127:segugio_italiano_a_pelo_forte - CG
 128:kuvasz - CG
 129:schillerstovare - CG
+130:american_staffordshire_terrier - CG
+131:beagle-harrier - CG
 
-130:american_staffordshire_terrier - C
-131:beagle-harrier - C
 132:treeing_walker_coonhound - C
 133:segugio_italiano_a_pelo_raso - C
 134:cao_de_castro_laboreiro - C
@@ -200,11 +200,11 @@
 196:standard_schnauzer - C
 197:boston_terrier - C
 198:saarlooswolfhond - C
+199:welsh_springer_spaniel - C
+200:french_spaniel - C
+201:lakeland_terrier - C
+202:portuguese_pointer - C
 
-199:welsh_springer_spaniel
-200:french_spaniel
-201:lakeland_terrier
-202:portuguese_pointer
 203:uruguayan_cimarron
 204:west_siberian_laika
 205:japanese_spitz
