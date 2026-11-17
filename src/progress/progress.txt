@@ -139,10 +139,9 @@
 136:finnish_spitz - CG
 137:transylvanian_hound - CG
 138:hamiltonstovare - CG
+139:basset_hound - CG
+140:greenland_dog - CG
 
-139:basset_hound - CR
-
-140:greenland_dog - C
 141:estrela_mountain_dog - C
 142:west_highland_white_terrier - C
 143:patterdale_terrier - C
@@ -216,8 +215,7 @@
 211:south_russian_ovcharka - C
 212:border_collie - C
 213:pont-audemer_spaniel - C
-
-214:jamthund - R
+214:jamthund - C
 
 215:bedlington_terrier
 216:thai_ridgeback

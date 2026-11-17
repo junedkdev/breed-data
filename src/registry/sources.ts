@@ -19369,15 +19369,15 @@ export const sources = defineSources({
     note: "Official UKC breed standard (Gun Dog Group, recognized 1996) covering conformation, curly topknot, stocky build, flat curly brown and white coat, and pointing behavior.",
     publisher: "United Kennel Club"
   },
-  "club-epagneul-pont-audemer-profile": {
+"club-epagneul-pont-audemer-profile": {
     id: "club-epagneul-pont-audemer-profile",
-    name: "Club de l'Epagneul Picard, Bleu de Picardie et Pont-Audemer - Le Pont-Audemer",
-    url: "https://www.epagneul-picard.fr/la-race/",
+    name: "Club des Épagneuls de Picardie et Pont Audemer (CEPPA) - L'Epagneul de Pont-Audemer",
+    url: "https://ceppa.fr/epagneul-de-pont-audemer/",
     type: "breed_club",
     publishedOn: null,
     accessedOn: "2026-11-17",
-    note: "Official French parent breed club portal documenting the morphological traits, curly coat rules, average weight, lifespan, and mandatory health screening requirements for Hip Dysplasia.",
-    publisher: "Club de l'Epagneul Picard, Bleu de Picardie et Pont-Audemer"
+    note: "Official French parent breed club portal (CEPPA) documenting the morphological traits, curly coat rules, average weight, lifespan, and mandatory health screening requirements for Hip Dysplasia.",
+    publisher: "Club des Épagneuls de Picardie et Pont Audemer"
   },
   "wikimedia-epagneul-de-pont-audemer-canarian": {
     id: "wikimedia-epagneul-de-pont-audemer-canarian",
@@ -19397,6 +19397,66 @@ export const sources = defineSources({
     publishedOn: "2007-06-25",
     accessedOn: "2026-11-17",
     note: "Photograph (2304 x 1728 px) of a Pont-Audemer Spaniel in a grassy field by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-jamthund-official-standard": {
+    id: "fci-jamthund-official-standard",
+    name: "FCI - Jämthund (Swedish Elkhound) Official Breed Standard No. 42",
+    url: "https://www.fci.be/Nomenclature/Standards/042g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2019-10-28",
+    accessedOn: "2026-11-17",
+    note: "Official English FCI Standard No. 42 (valid standard dated 2019-09-04, published 2019-10-28). Covers Swedish origin, Group 5 Spitz and primitive type, Section 2 Nordic Hunting Dogs classification with working trial, large rectangular spitz build, grey coat with cream 'wolf markings', loosely curled tail, and withers height (males 57-65 cm, females 52-60 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-jamthund-nomenclature": {
+    id: "fci-jamthund-nomenclature",
+    name: "FCI - Jämthund Breed Nomenclature (No. 42)",
+    url: "https://www.fci.be/en/nomenclature/JAMTHUND-42.html",
+    type: "official_breed_standard",
+    publishedOn: "2019-10-28",
+    accessedOn: "2026-11-17",
+    note: "Official FCI breed nomenclature record confirming Sweden as country of origin, Group 5 Section 2 classification with working trial, definitive recognition date (1954-12-11), and official multilingual names (Jämthund, Swedish Elkhound).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "skk-jamthund-breed-standard": {
+    id: "skk-jamthund-breed-standard",
+    name: "Svenska Kennelklubben - Standard för Jämthund",
+    url: "https://www.skk.se/contentassets/18ae400a1df24b62bc1792ea5107ce70/rasstandard-jamthund-fci-42.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-17",
+    note: "Official Swedish Kennel Club (SKK) breed standard and profile detailing the 1946 recognition driven by Aksel Lindström, distinction from the Norwegian Elkhound, moose hunting heritage, and working weight conventions.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "ukc-jamthund-breed-standard": {
+    id: "ukc-jamthund-breed-standard",
+    name: "United Kennel Club - Jämthund Breed Standard",
+    url: "https://www.ukcdogs.com/jamthund",
+    type: "official_breed_standard",
+    publishedOn: "2006-01-01",
+    accessedOn: "2026-11-17",
+    note: "Official UKC breed standard (Northern Breed Group, recognized 2006) covering conformation, rectangular proportions, primitive spitz build, grey double coat, and independent big-game hunting behavior.",
+    publisher: "United Kennel Club"
+  },
+  "wikimedia-jamthund-woods-aanvandare": {
+    id: "wikimedia-jamthund-woods-aanvandare",
+    name: "Wikimedia Commons - File:Jämthund (Swedish Elkhound) in the woods- 2 years old male- 2013-07-06 13-55.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:J%C3%A4mthund_(Swedish_Elkhound)_in_the_woods-_2_years_old_male-_2013-07-06_13-55.jpg",
+    type: "other",
+    publishedOn: "2013-07-06",
+    accessedOn: "2026-11-17",
+    note: "High-resolution photograph (2048 x 1536 px) of a two-year-old male Jämthund standing in the woods by a Wikimedia Commons User (uploaded by Aanvändare 2013-07-06). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-jamthund-drvd-anka-friedrich": {
+    id: "wikimedia-jamthund-drvd-anka-friedrich",
+    name: "Wikimedia Commons - File:Jämthund drvd.png",
+    url: "https://commons.wikimedia.org/wiki/File:J%C3%A4mthund_drvd.png",
+    type: "other",
+    publishedOn: "2009-04-19",
+    accessedOn: "2026-11-17",
+    note: "Photograph (1632 x 1178 px) featuring a Jämthund in profile by Anka Friedrich (derivative of original work by Jörgen Blom, uploaded 2009-04-19). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
 });

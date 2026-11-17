@@ -3,163 +3,155 @@ import type { Breed } from "../schema/breed.types";
 export const basset_hound: Breed = {
   slug: "basset-hound",
   name: "Basset Hound",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Basset",
     "Hush Puppy Dog",
-    "Norman Basset",
-    "Chien Basset",
-    "Basset Hound Inglés"
   ],
 
   group:
-    "Scenthounds and Related Breeds; Section 1.3 — Small-sized Hounds (with working trial; also classified in the Hound and Scenthound groups)",
+    "Scent Hounds and Related Breeds; Section 1.3 — Small-sized Hounds (with working trial)",
 
   origin: {
     country: "Great Britain",
-    region:
-      "Great Britain (developed from nineteenth-century imports of French bassets, specifically the Basset d'Artois and Basset Artésien Normand, crossed with Bloodhounds in England)"
+    region: null,
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Basset_Hound.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Basset_Hound.jpg",
-      title: "Basset Hound.jpg",
-      description: "A tricolour Basset Hound standing outdoors.",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Basset_hound_LM.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Basset_hound_LM.jpg",
+      title: "Basset hound LM.jpg",
+      description:
+        "A tricolour Basset Hound at the International Dog Show in Katowice, Poland.",
       creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
-      licenseId: "cc-by-sa-3.0",
+      uploader: "Pleple2000",
+      capturedOn: "2007-03-16",
+      uploadedOn: "2007-04-02",
+      width: 1780,
+      height: 2356,
+      licenseId: "cc-by-sa-2.5",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Basset_Hound.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Lilly M (uploaded by Pleple2000), Wikimedia Commons, CC BY-SA 2.5. Source: https://commons.wikimedia.org/wiki/File:Basset_hound_LM.jpg. License: https://creativecommons.org/licenses/by-sa/2.5/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
+      metadataCheckedOn: "2026-11-17",
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Basset_hound.JPG",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Basset_hound.JPG",
-      title: "Basset hound.JPG",
-      description: "A Basset Hound at a dog show.",
-      creator: "Pleple2000",
-      uploader: "Pleple2000",
-      capturedOn: "2008-10-05",
-      uploadedOn: "2008-10-18",
-      width: 2400,
-      height: 1800,
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Basset_Hound_600.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Basset_Hound_600.jpg",
+      title: "Basset Hound 600.jpg",
+      description:
+        "A tricolour Basset Hound standing in profile at the City of Birmingham Championship Dog Show.",
+      creator: "sannse",
+      uploader: "sannse",
+      capturedOn: "2003-08-29",
+      uploadedOn: "2005-09-11",
+      width: 600,
+      height: 400,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Basset_hound.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by sannse, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Basset_Hound_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
-    }
+      metadataCheckedOn: "2026-11-17",
+    },
   ],
 
   overview: {
     summary:
-      "A short-legged, heavy-boned scenthound of French heritage developed in Great Britain, renowned for its low-slung rectangular frame, loose elastic skin, soulful brown eyes, long velvety ears, and remarkable trailing scenting power second only to the Bloodhound.",
+      "The Basset Hound is a short-legged, heavy-boned scent hound of French ancestry refined in Great Britain, recognised for its long, deep body, velvety low-set ears, supple wrinkled skin, placid and affectionate nature, and deep, melodious trailing voice.",
 
     description:
-      "The Basset Hound is a remarkably heavy-boned, low-slung scent hound possessing an elongated, rectangular silhouette that holds an extraordinary amount of substance in a dwarf stature. Characterized by short, stout legs with substantial bone density and a deep chest that clears the ground with deliberate balance, the hound is built for slow, methodical endurance tracking rather than speed. Its smooth, dense coat is smooth and weather-resistant, traditionally appearing in tricolour or lemon-and-white patterns over loose, pliable skin that forms gentle folds along the forehead, muzzle, and ankles. The head is large, domed, and noble with a prominent occiput, deep pendulous flews, long velvety drop ears that extend well past the nose, and sunken dark eyes that convey a dignified, mournful expression. Placid, calm, and deeply affectionate in the home, it transforms on the trail into a tenacious, unyielding tracker possessing a booming, melodious bay.",
+      "Combining substantial bone and big-dog substance with a low-set stature of 33 to 38 cm at the withers, the Basset Hound is built for steady, tireless fieldwork rather than speed. Its long, deep torso is carried with adequate ground clearance over short, heavily boned forelegs and muscular hindquarters that drive with smooth, effortless reach. A domed skull with a prominent occipital bone, overlapping upper flews, lozenge-shaped dark eyes, and long, narrow, velvety ears set below eye level give the breed a calm, serious expression. Covered in a smooth, short, weather-resistant coat—most often black, white, and tan tricolour or lemon and white—this gregarious pack hound is gentle and easygoing indoors yet tenacious and vocal once locked onto a scent line.",
 
     history:
-      "The ancestry of the Basset Hound traces back to the ancient St. Hubert hounds of monastic France, where dwarfed, low-set hunting hounds ('bassets', from the French 'bas' meaning low) were selectively bred to trail game through dense brush at a pace easily followed by hunters on foot. In the 1860s and 1870s, French aristocrats gifted breeding pairs of Basset d'Artois and Basset Artésien Normand to British nobility, including Lord Galway and Sir Everett Millais. Working in England, Millais and fellow breeders crossed these French lines with Bloodhounds to increase bone substance, enhance head type, and strengthen scenting capacity, establishing a heavier, distinctive hound. Formal registration was achieved in England in 1880, followed by American recognition in 1885. Throughout the twentieth century, the breed attained worldwide fame as an iconic companion, pop-culture symbol, and formidable tracking competitor.",
+      "Although its name comes from the French word 'bas' ('low') and its early ancestors were low-slung French hunting hounds bred to trail small game on foot, the modern Basset Hound was developed in Great Britain. French hounds from Artois and Normandy—most notably the Basset Artésien Normand—were imported into England beginning in the 1860s. During the 1870s, Sir Everett Millais championed the breed in England, using his imported hound Model as a cornerstone and incorporating Beagle and Bloodhound bloodlines to add bone, size, and scenting power. The Basset Hound Club was established in Britain in 1884 with royal patronage from Queen Alexandra, and the breed gained American recognition in 1885 and definitive international recognition in January 1955.",
 
     originalPurpose:
-      "Methodical trailing and flushing of small game, predominantly European hare and rabbit, across thick brush, briars, and rough countryside at a pace suited for hunters walking on foot.",
+      "Methodical pack and foot-hunting of hare, rabbit, and other small game by scent through dense undergrowth.",
 
     currentRoles: [
-      "Traditional hare and rabbit tracking hound",
-      "Field trial and competitive scent tracking dog",
-      "Affectionate and loyal family companion",
-      "Search, rescue, and scent detection participant",
-      "Therapy visiting dog"
-    ]
+      "Family companion",
+      "Scent-tracking, mantrailing, and nosework dog",
+      "Small-game pack and field-trial hunting hound",
+      "Therapy and community visiting dog",
+    ],
   },
 
   physical: {
-    sizeCategory: "Medium",
+    sizeCategory: "Small-to-medium height, heavy-boned scent hound",
 
     height: {
       unit: "cm",
       male: {
         min: 33,
-        max: 38
+        max: 38,
       },
       female: {
         min: 33,
-        max: 38
-      }
+        max: 38,
+      },
     },
 
     weight: {
       unit: "kg",
       male: {
-        min: 25,
-        max: 30
+        min: 18,
+        max: 30,
       },
       female: {
-        min: 20,
-        max: 25
-      }
+        min: 18,
+        max: 30,
+      },
     },
 
     lifespanYears: {
-      min: 10,
-      max: 12
+      min: 12,
+      max: 13,
     },
 
     coatType:
-      "Smooth, short, dense, and close-fitting without being too fine; smooth in outline and free from feathering, with a firm texture that provides natural resistance to rain and briars over loose, elastic skin.",
+      "Smooth, short, and close-lying coat without being overly fine, presenting a clean outline completely free of feathering or long hair over supple, elastic skin.",
 
     coatLength: "Short",
 
     coatColors: [
       "Tricolour (black, white, and tan)",
-      "Bicolour (lemon and white)",
+      "Lemon and white (bicolour)",
       "Red and white",
-      "Brown and white (hare pied)"
+      "Tan and white",
+      "Any other recognised hound colour",
     ],
 
     sheddingLevel:
-      "Moderate to high; sheds short hairs continuously throughout the year with heavier seasonal shedding during spring and autumn",
+      "Moderate year-round shedding of short, dense hairs",
 
     droolingLevel:
-      "High; deep pendulous flews and loose lower lips result in regular drooling, particularly around food, water, and exercise",
+      "High; substantial upper flews overlapping the lower lips produce frequent drool, especially after drinking, eating, or warm exercise",
 
     distinctiveFeatures: [
-      "Short-legged hound of considerable bone, substance, and weight for its stature",
-      "Height at the withers of 33 to 38 cm for both males and females",
-      "Weight of 25 to 30 kg for males and 20 to 25 kg for females in lean working condition",
-      "Domed head with a prominent occipital peak, flat cheeks, and loose elastic skin forming wrinkles on the forehead and beside the eyes",
-      "Deep, square muzzle with heavy, pendulous flews and loose lower lips",
-      "Complete, regular scissor bite with strong jaws and large teeth",
-      "Lozenge-shaped, slightly sunken dark brown eyes displaying visible red conjunctiva on the lower eyelid (haw)",
-      "Long, velvety, narrow drop ears set very low on the skull, curling inward in a roll and extending past the tip of the muzzle",
-      "Muscular, arched neck with a pronounced, double loose dewlap",
-      "Deep, broad chest with a prominent breastbone (sternum) protruding well ahead of the forelegs",
-      "Forelegs short and heavy-boned, curving slightly inward around the brisket with wrinkles on the wrists",
-      "Massive, round cat-like feet with heavy pads that distribute weight evenly across hard terrain",
-      "Long, thick sabre tail carried merrily in an upward arch with a distinct white tip (stern)"
-    ]
+      "Short-legged, heavy-boned hound standing 33 to 38 cm at the withers and weighing 18 to 30 kg, with clear ground clearance beneath the chest",
+      "Domed skull with a prominent occipital bone, moderate stop, and foreface tapering slightly to a nearly parallel nasal bridge",
+      "Supple, elastic skin without exaggeration, forming a moderate amount of wrinkle at the brow and beside the eyes when the head is lowered",
+      "Substantial upper-lip flews overlapping the lower lip and a strong, complete scissor bite",
+      "Lozenge-shaped dark eyes—neither prominent nor deep-set—with a calm, serious expression",
+      "Long, narrow, supple, velvety ears set low just below the eye line, folding inward and reaching just beyond the end of the muzzle of correct length",
+      "Muscular, well-arched, fairly long neck with a pronounced but unexaggerated dewlap",
+      "Long, deep body with a prominent breastbone, well-rounded ribs, and a rather broad, level back",
+      "Short, powerful forelegs with great bone and wrinkled skin on the lower legs, resting on large, well-knuckled, heavily padded feet",
+      "Well-set, fairly long tail strong at the base and tapering, carried high in a gentle sabre curve and never gay or tightly curled",
+    ],
   },
 
   temperament: {
     traits: [
-      "Placid, composed, and gentle in the home",
-      "Deeply affectionate, loyal, and friendly with family",
-      "Exceptional patience and tolerance around children",
-      "Highly sociable and peaceful in packs with other dogs",
-      "Tenacious, relentless, and stubborn when following a scent trail",
-      "Mild-mannered and welcoming with unfamiliar humans",
-      "Independent problem-solver with strong scent-driven focus",
-      "Low territoriality and minimal watchdog aggression",
-      "Sensitive to handler emotional tone and unresponsive to harsh corrections",
-      "Deep, melodious, and resonant baying voice that carries over vast distances"
+      "Placid, calm, and even-tempered indoors",
+      "Affectionate and devoted toward family members, never aggressive or timid",
+      "Tenacious and determined when following a ground scent",
+      "Gregarious and pack-oriented with other dogs",
+      "Patient and gentle with children",
+      "Endowed with a deep, melodious, far-carrying voice",
+      "Independent and scent-focused outdoors",
     ],
 
     scores: {
@@ -167,68 +159,64 @@ export const basset_hound: Breed = {
       withChildren: 5,
       withDogs: 5,
       withStrangers: 4,
-      protectiveness: 1,
+      protectiveness: 2,
       independence: 4,
       trainability: 3,
       barking: 4,
-      energy: 2
-    }
+      energy: 2,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "Moderate; requires daily walking and olfactory stimulation to maintain muscular fitness and prevent obesity, but not suited for high-speed running, jumping, or sustained jogging",
+        "Moderate. Though low-key indoors, the Basset Hound is a working scent hound built for endurance and needs up to an hour of daily walking and nosework to stay fit and lean.",
 
       minutesPerDay: {
         min: 45,
-        max: 60
+        max: 60,
       },
 
       activities: [
-        "Daily leashed neighborhood strolls and scent-investigation walks",
-        "Structured scent tracking and trailing games in secure enclosures",
-        "Supervised exploration and play in a securely fenced yard",
-        "Low-impact canine scent trials and nosework games",
-        "Gentle puzzle-toy foraging and snuffle-mat enrichment"
-      ]
+        "Daily leashed walks with ample time to sniff and explore",
+        "Scent-tracking games, nosework, and foraging puzzles",
+        "Supervised play and pottering inside a securely fenced garden",
+        "Low-impact field tracking trials",
+      ],
     },
 
     grooming: {
       level: "Moderate",
 
       brushing:
-        "Brush two to three times weekly with a rubber curry comb or firm hound glove to remove loose dead hair and stimulate natural skin oils; increase during seasonal spring and autumn coat shedding.",
+        "Brush once or twice a week with a rubber hound glove or soft bristle brush to remove loose hair and keep the short coat clean.",
 
       bathing:
-        "Bathe every four to six weeks or when soiled, using a gentle moisturizing dog shampoo; ensure thorough rinsing and dry skin folds completely.",
+        "Bathe every four to six weeks or when muddy, using a mild canine shampoo and drying all skin folds thoroughly afterward.",
 
       notes: [
-        "Inspect and clean the long pendant ears two to three times weekly using a veterinary-approved ear solution, drying the canal entrance thoroughly to prevent yeast and bacterial otitis.",
-        "Wipe facial wrinkles, muzzle folds, and neck dewlap daily with a soft damp cloth, followed immediately by drying to prevent bacterial intertrigo.",
-        "Wipe drool from the chin and flews after meals and drinking.",
-        "Inspect the sunken eyes daily for dust, trapped discharge, or irritation in the lower conjunctival pouch.",
-        "Trim heavy, fast-growing nails every two to three weeks to prevent splayed toes and painful joint misalignment.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "Prevent puppies and adults from jumping off furniture, beds, or vehicles, and avoid steep stairs to protect the elongated spine and dwarf front limbs."
-      ]
+        "Check and gently clean the long, hanging ears two to three times a week, keeping the ear canals dry and well ventilated.",
+        "Wipe facial wrinkles, lip folds, and the neck dewlap regularly with a damp cloth and dry them completely to prevent moisture irritation.",
+        "Keep a towel handy to wipe drool after the dog drinks or eats.",
+        "Trim the heavy nails every two to three weeks so the large, padded feet remain balanced.",
+        "Brush teeth several times a week with canine toothpaste.",
+        "Use ramps or lift the dog properly rather than allowing repetitive jumping off high furniture or out of vehicles, protecting the long back and short forelegs.",
+      ],
     },
 
     training: {
       difficulty:
-        "Challenging to moderate; intelligent and willing, but highly scent-driven and independent, easily distracted by ground odors and unresponsive to repetitive mechanical drills",
+        "Moderate. Agreeable and food-motivated, yet bred to follow scent independently—requiring patient, reward-based training and consistent lead or fence containment.",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
-        "Keep instructional sessions short, varied, and upbeat (5 to 10 minutes) to maintain focus.",
-        "Always exercise on a sturdy leash or within a securely fenced area, as an enticing scent will override recall commands.",
-        "Practice crate training and calm departure routines early to prevent separation distress and mournful baying.",
-        "Never use harsh verbal reprimands or physical coercion, which cause this sensitive hound to become stubborn and shut down.",
-        "Channel natural scenting instincts into nosework, tracking games, and search-and-find tasks."
+        "Use high-value food treats and upbeat praise in short, varied sessions.",
+        "Incorporate scent games as rewards to work with the hound's natural tracking instinct.",
+        "Keep the dog on a lead in unfenced areas, as an interesting scent trail can quickly override recall.",
+        "Avoid harsh corrections, which cause a placid hound to tune out.",
       ],
 
       socialization:
-        "Introduce the puppy early and calmly to a wide variety of friendly people, vaccinated dogs of all sizes, household sounds, traffic, and grooming handling routines. Broad early exposure builds a self-assured, polite companion that welcomes visitors and remains unfazed in public environments."
+        "Introduce puppies early to varied people, other dogs, household sounds, and regular ear, paw, and wrinkle handling so they grow into relaxed, cooperative adults.",
     },
 
     livingEnvironment: {
@@ -237,182 +225,148 @@ export const basset_hound: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool climates, provided indoor living and warmth are maintained",
-        "Warm climates, provided indoor air conditioning, shade, and fresh water are available and exercise is scheduled during cooler morning or evening hours"
+        "Cool weather when housed indoors",
+        "Warm weather with shade, cool water, and walks timed for morning or evening to prevent overheating",
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; a gregarious pack hound that thrives in the company of family or other dogs, prone to mournful howling and distress if left isolated for extended workdays."
-    }
+        "Low to moderate; because of its strong pack instinct, the breed thrives on company and may bay mournfully if left alone for long hours.",
+    },
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-to-large breeds, with strict caloric portioning to prevent excess weight gain.",
+      "Complete, balanced diet formulated for medium-to-large dogs, carefully portioned to prevent excess weight on its long back and short limbs.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured meals daily until six months of age, transitioning to two meals daily on a growth formula supporting controlled bone development.",
+        "Three measured meals daily during early growth, transitioning to two daily meals on a controlled-growth formula.",
       adult:
-        "Two measured meals daily to support steady digestion and help reduce the risk of gastric dilatation-volvulus.",
+        "Two measured meals daily to support steady digestion and reduce bloat risk.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower calorie needs and joint health.",
     },
 
     guidelines:
-      "Measure food portions precisely using a digital kitchen scale or standard measuring cup, as the breed has an efficient metabolism and gains weight easily. Excess body fat places catastrophic strain on the elongated spine and dwarf front limbs. Divide daily food into two distinct meals, restrict vigorous exercise for at least one hour before and after eating, use narrow or elevated bowls to keep long ears clean and dry, and provide fresh drinking water at all times.",
+      "Measure every meal accurately to keep the dog in fit working trim; extra weight puts heavy strain on the spine, elbows, and stifles. Divide the daily ration into two meals, avoid strenuous activity immediately before and after eating, and use narrow or deep-eared hound bowls so the long ears stay out of food and water.",
 
     considerations: [
-      "Maintain a lean, muscular body condition where the ribs are easily felt; obesity dramatically elevates the risk of spinal disc herniation and joint lameness.",
-      "Budget training treats into the total daily caloric allowance to avoid creeping weight gain.",
-      "Use narrow spaniel-type food and water dishes or elevated bowls to prevent long pendant ears from dragging in food and water.",
-      "Avoid high-fat foods and rich table scraps that can trigger acute pancreatitis.",
-      "Rest the hound before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep body weight lean so ribs remain palpable without heavy fat cover.",
+      "Deduct training treats from the daily food allowance.",
+      "Use narrow hound dishes to keep the ear tips clean and dry during meals.",
+      "Allow rest before and after meals to help lower the risk of gastric dilatation-volvulus (bloat).",
+      "Provide fresh drinking water at all times.",
     ],
 
     note:
-      "Caloric needs vary significantly based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "General canine nutrition guidance; consult a veterinarian to set exact calorie portions for age and activity level.",
   },
 
   health: {
     overview:
-      "The Basset Hound is an achondroplastic (dwarf) scenthound with a typical life expectancy of 10 to 12 years. Its unique conformation—characterized by shortened limbs, heavy bone density, an elongated spine, deep chest, loose elastic skin, and long pendant ears—predisposes it to specific structural and hereditary health conditions. Primary concerns include intervertebral disc disease (IVDD), primary closed-angle glaucoma (associated with an inherited ADAMTS17 gene mutation), canine thrombopathia (an inherited bleeding disorder linked to a RASGRP1 gene mutation), gastric dilatation-volvulus (GDV / bloat), elbow dysplasia, eyelid abnormalities (entropion/ectropion), chronic otitis externa, and skin fold dermatitis.",
+      "The Basset Hound has a typical life expectancy of 12 to 13 years. Because of its achondroplastic (short-limbed, long-backed) build, deep chest, loose skin, and long hanging ears, responsible breeding and care focus on preventing excessive conformational exaggeration alongside screening for inherited platelet, eye, neurological, and orthopaedic conditions.",
 
     commonConditions: [
-      "Intervertebral disc disease (IVDD) — degenerative disc herniation or extrusion associated with chondrodystrophy, causing back pain, spinal cord compression, rear-limb ataxia, or paralysis",
-      "Primary closed-angle glaucoma (PCAG) — an inherited, painful intraocular pressure elevation caused by a 19-bp deletion in the ADAMTS17 gene, resulting in optic nerve damage and rapid blindness if untreated",
-      "Canine thrombopathia (CTP) — an autosomal recessive bleeding disorder caused by an identified mutation in the RASGRP1 gene that disrupts platelet activation, leading to excessive bleeding from minor wounds or mucous membranes",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening emergency in deep-chested hounds where the stomach distends with gas and twists on its axis",
-      "Elbow dysplasia and ununited anconeal process (UAP) — developmental abnormalities of the elbow joints common in chondrodysplastic front assemblies, causing forelimb lameness and osteoarthritis",
-      "Entropion, ectropion, and 'diamond eye' — eyelid margin malformations caused by loose facial skin, where lids roll inward against the cornea or sag outward, causing chronic irritation and conjunctivitis",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by heavy, pendant ear flaps that restrict ventilation and trap moisture within the canal",
-      "Malassezia dermatitis and skin fold intertrigo — yeast and bacterial proliferation in warm, moist skin folds around the face, neck, and toes"
+      "Primary glaucoma (primary angle-closure glaucoma linked to an ADAMTS17 19-bp deletion, pectinate ligament abnormality, and primary open-angle glaucoma POAG3) — inherited eye conditions that raise intraocular pressure and can cause pain and vision loss",
+      "Canine thrombopathia (CTP) — an autosomal recessive platelet aggregation disorder caused by a mutation in the RASGRP1 gene, leading to abnormal mucosal or surgical bleeding",
+      "Lafora disease — an inherited late-onset myoclonic epilepsy for which a pre-breeding DNA test is available",
+      "Elbow dysplasia and intervertebral disc disease (IVDD) — orthopaedic and spinal disc problems associated with short, heavy-boned chondrodystrophic limbs and a long back",
+      "Gastric dilatation-volvulus (GDV / bloat) — acute, life-threatening stomach distension and twisting in deep-chested hounds",
+      "Otitis externa, eyelid malformations (entropion or ectropion), and skin-fold dermatitis — ear-canal inflammation, inward- or outward-rolling eyelids, and moisture irritation in facial or body folds",
     ],
 
     preventiveCare: [
-      "Verify that breeding parents hold certified DNA clearances for thrombopathia (RASGRP1) and primary closed-angle glaucoma (ADAMTS17), alongside certified ophthalmologist and orthopedic evaluations.",
-      "Prevent jumping on and off furniture, beds, or car boots, and install ramps or assist the dog to protect the elongated spine.",
-      "Maintain a strictly controlled, lean body weight to minimize mechanical stress on intervertebral discs and dwarf joints.",
-      "Inspect, clean, and thoroughly dry the long pendant ears two to three times weekly.",
-      "Clean and thoroughly dry facial wrinkles and neck dewlap daily to prevent bacterial and yeast intertrigo.",
-      "Feed two smaller meals daily and avoid vigorous running before or after eating to mitigate bloat risk.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine dental cleanings."
+      "Select puppies from parents screened via DNA testing for thrombopathia (RASGRP1), primary glaucoma (ADAMTS17 and POAG3), and Lafora disease, as well as clinical eye exams (including gonioscopy) and elbow evaluations.",
+      "Maintain a lean body weight and limit jumping off furniture or steep stairs to protect the spine and elbows.",
+      "Clean and dry the hanging ears and skin folds regularly to prevent yeast and bacterial infections.",
+      "Feed two measured meals daily and rest the dog before and after exercise to reduce bloat risk.",
+      "Schedule routine veterinary wellness, dental, and ophthalmic check-ups.",
     ],
 
     recommendedScreenings: [
-      "DNA marker test for Canine Thrombopathia (RASGRP1 gene mutation) prior to breeding",
-      "DNA marker test for Primary Closed-Angle Glaucoma (ADAMTS17 gene mutation) prior to breeding",
-      "Annual gonioscopy and ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Radiographic hip dysplasia evaluation prior to breeding"
+      "DNA test for Canine Thrombopathia (RASGRP1 mutation)",
+      "DNA tests for Primary Glaucoma (ADAMTS17 and POAG3) and clinical eye examination with gonioscopy (PLA)",
+      "DNA test for Lafora disease",
+      "Radiographic elbow dysplasia evaluation",
+      "Radiographic hip evaluation and cardiac examination (optional health registry screenings)",
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine toothpaste and arrange periodic veterinary dental checks.",
 
     earCare:
-      "Inspect the long pendant ears two to three times weekly for wax accumulation, moisture, redness, or odor. Clean gently using a veterinarian-recommended ear solution, drying the leather and canal opening thoroughly without inserting swabs deep into the canal.",
+      "Inspect and clean the long, velvety ears two to three times weekly with a veterinarian-approved ear cleanser, drying the ear canal entrance carefully.",
 
     skinCare:
-      "Part the short coat weekly to inspect the skin for external parasites, redness, or irritation. Clean facial wrinkles, neck folds, and feet weekly with a gentle damp cloth or antiseptic wipe and dry completely."
+      "Wipe and dry facial wrinkles, lip flews, and neck folds regularly so trapped moisture does not cause skin-fold irritation.",
   },
 
   suitability: {
-    firstTimeOwners: false,
+    firstTimeOwners: true,
     familiesWithChildren: true,
-    seniorOwners: false,
+    seniorOwners: true,
     activeOwners: true,
     apartmentLiving: true,
 
     idealFor: [
-      "Families with children seeking a gentle, patient, and deeply affectionate household pet",
-      "Owners who appreciate a calm, relaxed companion indoors paired with leisurely outdoor walking",
-      "Scent tracking and trailing enthusiasts who value an authentic working hound nose",
-      "Apartment or house dwellers prepared to manage vocal baying and lift a heavy, short-legged dog when necessary",
-      "Committed owners willing to maintain consistent ear cleaning, wrinkle hygiene, and drool management"
+      "Families with children seeking a placid, affectionate, and patient companion",
+      "Households with another dog or regular daytime company",
+      "Owners who enjoy daily walks and scent-enrichment games rather than fast running",
+      "Apartment or house dwellers prepared for routine ear, wrinkle, and drool care",
     ],
 
     notIdealFor: [
-      "Jogging or running enthusiasts seeking a high-speed athletic distance partner",
-      "Owners who demand instant, off-leash obedience in unfenced, wildlife-rich areas",
-      "Individuals intolerant of heavy drooling, continuous shedding, or loud hound baying",
-      "Homes with multiple flights of stairs and no elevator, as carrying a 25 to 30 kg dog is physically demanding",
-      "Owners unwilling to manage chronic ear and skin fold hygiene"
-    ]
+      "Runners or cyclists looking for a high-speed athletic partner",
+      "Owners who dislike drool, shedding, or a deep, carrying hound bay",
+      "Homes with many steep stairs where lifting a 18 to 30 kg dog is impractical",
+      "Households where the dog would be left alone for long workdays",
+    ],
   },
 
   funFacts: [
-    "The Basset Hound's scenting ability is second only to the Bloodhound; its nasal cavity contains more than 220 million olfactory receptors, and its long, dragging ears and loose facial wrinkles physically stir up and channel scent molecules toward its nose as it walks.",
-    "The breed name derives from the French word 'bas', meaning 'low' or 'short', perfectly describing this heavy-boned dwarf hound.",
-    "In 1963, a Basset Hound named Jason became the world-famous advertising icon for Hush Puppies shoes, making the breed an enduring global symbol of comfortable, relaxed style.",
-    "Despite standing only 33 to 38 cm tall, the Basset Hound has more bone density per pound of body weight than almost any other dog breed.",
-    "The white tip on the Basset Hound's tail—historically referred to by huntsmen as the 'stern' or 'flag'—was deliberately bred so hunters could easily locate the low-slung dog tracking game through tall brush and crops.",
-    "The breed famously inspired beloved pop-culture characters, including Tex Avery's unflappable cartoon hound Droopy in 1943 and Lieutenant Columbo's lethargic companion simply named 'Dog'.",
-    "Basset Hounds possess a rich, deep, and resonant voice consisting of a musical trailing bay and a booming bark that carries for miles across rolling countryside."
+    "Although its ancestral roots lie in French bassets ('bas' meaning 'low'), the modern Basset Hound was developed in Great Britain in the late nineteenth century by breeders such as Sir Everett Millais, who crossed French imports like his foundation hound Model with Beagle and Bloodhound lines.",
+    "Queen Alexandra was an enthusiastic early patron of the breed after the British Basset Hound Club was founded in 1884, keeping a pack of Basset Hounds at the royal kennels at Sandringham.",
+    "The breed's long, velvety ears and supple facial skin are functional hunting tools: as the dog moves nose-down through brush, the ears help sweep and hold ground scent around the nostrils.",
+    "Its large, heavily padded paws are built to bear weight evenly across all toes, leaving the footprint of a large hound with no unpadded skin touching the ground.",
+    "With its soulful expression and booming voice, the Basset Hound became a global pop-culture favourite, inspiring Hush Puppies shoes, the cartoon character Droopy, and Lieutenant Columbo's dog.",
   ],
 
   faq: [
     {
-      question: "What is a Basset Hound?",
+      question: "Where did the Basset Hound originate?",
       answer:
-        "The Basset Hound is an ancient, short-legged scent hound of French ancestry refined in Great Britain, known for its heavy bone, long ears, loose skin, soulful eyes, and extraordinary trailing ability."
+        "While descending from older French low-set hounds from Artois and Normandy, the modern Basset Hound was developed in Great Britain during the late nineteenth century, where breeders such as Sir Everett Millais refined the breed with Bloodhound and Beagle lines.",
     },
     {
-      question: "Where does the Basset Hound originate?",
+      question: "How tall and heavy is an adult Basset Hound?",
       answer:
-        "The breed originates from Great Britain, where it was developed in the late nineteenth century by crossing imported French bassets (Basset d'Artois and Basset Artésien Normand) with Bloodhounds to increase bone, head size, and scenting power."
+        "Adults stand 33 to 38 cm at the withers and typically weigh 18 to 30 kg, carrying remarkable bone and substance on short legs.",
     },
     {
-      question: "Why are Basset Hounds so short and long?",
+      question: "What is the typical lifespan of a Basset Hound?",
       answer:
-        "Basset Hounds are an achondroplastic (dwarf) breed whose shortened limbs and heavy bone were selectively cultivated so hunters on foot could easily keep pace with the pack as it trailed hare and rabbit through dense cover."
+        "The Basset Hound typically lives 12 to 13 years when kept at a healthy weight with regular veterinary care.",
     },
     {
-      question: "How tall and heavy is a Basset Hound?",
+      question: "What coat colours are accepted in the Basset Hound?",
       answer:
-        "Adult males and females stand 33 to 38 cm at the withers, with males typically weighing 25 to 30 kg and females weighing 20 to 25 kg in lean, athletic condition."
+        "The most common colours are black, white, and tan (tricolour) and lemon and white (bicolour), including red-and-white or tan-and-white shades, though any recognised hound colour is acceptable.",
     },
     {
-      question: "How long does a Basset Hound usually live?",
+      question: "Can a Basset Hound live in an apartment?",
       answer:
-        "With proper nutrition, strict weight control, and conscientious preventive veterinary care, the breed typically enjoys a lifespan of 10 to 12 years."
+        "Yes. Because it is calm and low-key indoors, it adapts well to apartments or smaller homes provided it receives daily walks, has company to prevent lonely baying, and does not have to climb steep flights of stairs.",
     },
     {
-      question: "Do Basset Hounds drool and shed a lot?",
+      question: "Why do Basset Hounds need regular ear and wrinkle care?",
       answer:
-        "Yes. Their loose, pendulous flews and deep lips result in regular drooling after eating or drinking, and their smooth, dense coat sheds short hairs continuously throughout the year, requiring weekly brushing."
+        "Their long, heavy ears limit airflow into the ear canal, and their supple facial and neck folds can trap moisture and food; cleaning and drying both areas several times a week prevents yeast and bacterial infections.",
     },
     {
-      question: "Are Basset Hounds good family pets and good with children?",
+      question: "What genetic and health tests are recommended for Basset Hounds?",
       answer:
-        "Yes. They are famously gentle, patient, and good-natured with children, and as natural pack hounds, they get along exceptionally well with other dogs."
+        "Responsible breeders screen for canine thrombopathia (RASGRP1 DNA test), primary glaucoma (ADAMTS17 and POAG3 DNA tests plus clinical eye examination and gonioscopy), Lafora disease (DNA test), and elbow and hip dysplasia.",
     },
-    {
-      question: "Why are jumping and stairs dangerous for Basset Hounds?",
-      answer:
-        "Their long spine and short, dwarf legs make them prone to intervertebral disc disease (IVDD); jumping off furniture or navigating steep stairs places severe mechanical strain on spinal discs and can cause disc herniation."
-    },
-    {
-      question: "How much exercise does a Basset Hound need each day?",
-      answer:
-        "The breed requires 45 to 60 minutes of daily physical activity, including leashed walks and scent-tracking games, to maintain lean muscle and prevent obesity."
-    },
-    {
-      question: "Is a Basset Hound easy to train?",
-      answer:
-        "They are intelligent and food-motivated, but possess an independent hunting mindset; they respond best to patient, reward-based training and must be kept on a leash in unfenced areas because scent trails will override commands."
-    },
-    {
-      question: "Why do Basset Hounds have long ears and loose skin?",
-      answer:
-        "Their long ears sweep the ground to stir up scent particles, while the loose skin folds on their head and neck help trap and funnel those scent molecules directly toward their powerful nose."
-    },
-    {
-      question: "What health problems are known in Basset Hounds?",
-      answer:
-        "Primary health priorities include spinal disc disease (IVDD), primary closed-angle glaucoma (associated with the ADAMTS17 gene), canine thrombopathia (a platelet bleeding disorder linked to the RASGRP1 gene), bloat (GDV), elbow dysplasia, and chronic ear infections."
-    }
   ],
 
   references: [
@@ -426,16 +380,17 @@ export const basset_hound: Breed = {
     "basset-hound-thrombopathia-rasgrp1-study-2006",
     "basset-hound-glaucoma-adamts17-study-2015",
     "wikimedia-basset-hound-lilly-m",
-    "wikimedia-basset-hound-pleple2000"
+    "wikimedia-basset-hound-pleple2000",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Official breed standards and kennel-club records do not establish a breed-specific scientific name; kept null per schema rules.",
     },
 
     alternateNames: {
@@ -444,21 +399,26 @@ export const basset_hound: Breed = {
         {
           id: "fci-basset-hound-official-standard",
           role: "verified",
-          locator: "Standard heading: BASSET HOUND"
+          locator: "Standard heading: BASSET HOUND",
         },
         {
           id: "fci-basset-hound-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: BASSET HOUND (163)"
+          locator: "Official nomenclature: BASSET HOUND (163)",
         },
         {
           id: "akc-basset-hound-breed-profile",
           role: "verified",
-          locator: "History: Basset, Norman Basset, Hush Puppy Dog"
-        }
+          locator: "Basset, Hush Puppy Dog",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Basset)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified across FCI Standard No. 163, FCI Nomenclature, and AKC breed profile."
+      verifiedOn: "2026-11-17",
+      note: "Verified across FCI Standard No. 163, FCI Nomenclature, AKC, and The Dog API.",
     },
 
     group: {
@@ -467,55 +427,69 @@ export const basset_hound: Breed = {
         {
           id: "fci-basset-hound-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.3 Small-sized Hounds, with working trial"
+          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.3 Small-sized Hounds, with working trial",
         },
         {
           id: "fci-basset-hound-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.3 Small-sized Hounds, with working trial"
+          locator: "Group 6, Section 1.3 Small-sized Hounds, with working trial",
         },
         {
           id: "the-kennel-club-basset-hound-breed-standard",
-          role: "verified",
-          locator: "Hound Group"
+          role: "cited",
+          locator: "Hound Group",
         },
         {
           id: "akc-basset-hound-breed-standard",
-          role: "verified",
-          locator: "Hound Group"
-        }
+          role: "cited",
+          locator: "Hound Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group (Hound)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "Follows the Group 6, Section 1.3 classification without naming registries in user-facing text.",
     },
 
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-basset-hound-official-standard",
           role: "verified",
-          locator: "ORIGIN: Great Britain; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: Great Britain",
         },
         {
           id: "fci-basset-hound-nomenclature",
           role: "verified",
-          locator: "Country of origin: Great Britain"
+          locator: "Country of origin: Great Britain",
         },
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "verified",
-          locator: "Origin and development in Great Britain"
+          locator: "While of French origin, the Basset Hound was developed in England",
         },
         {
-          id: "akc-basset-hound-breed-profile",
-          role: "verified",
-          locator: "History: French basset ancestry refined in England by Lord Galway and Sir Everett Millais"
-        }
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.origin (France)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note:
+        "FCI Standard No. 163 and The Royal Kennel Club record Great Britain as the country of origin/development; The Dog API lists France (reflecting earlier ancestral French basset stock).",
+    },
+
+    "origin.region": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note:
+        "Official standards identify Great Britain as the country of origin without specifying a single sub-national region.",
     },
 
     overview: {
@@ -524,27 +498,32 @@ export const basset_hound: Breed = {
         {
           id: "fci-basset-hound-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "Utilization, Brief historical summary, General appearance, Behaviour/temperament",
         },
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "verified",
-          locator: "General Appearance, Characteristics, Temperament"
-        },
-        {
-          id: "akc-basset-hound-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Characteristics, History"
+          locator: "Breed standard and About this breed (1860s Artois/Normandy imports, 1870s Everett Millais and Model, Beagle/Bloodhound crosses, 1884 Basset Hound Club, Queen Alexandra)",
         },
         {
           id: "akc-basset-hound-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (1880 recognition, Everett Millais, Bloodhound crosses), and Roles"
-        }
+          locator: "About the Breed and History (1885 AKC recognition)",
+        },
+        {
+          id: "fci-basset-hound-nomenclature",
+          role: "verified",
+          locator: "Date of acceptance on a definitive basis: 18.01.1955",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesized in original prose from FCI Standard No. 163, The Royal Kennel Club, and AKC official records."
+        "All overview text is rewritten in 100% original wording from FCI Standard No. 163, The Royal Kennel Club, and AKC documentation.",
     },
 
     physical: {
@@ -553,22 +532,27 @@ export const basset_hound: Breed = {
         {
           id: "fci-basset-hound-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, LIMBS, TAIL, COAT, COLOUR, SIZE"
+          locator: "General appearance, Head, Neck, Body, Tail, Limbs, Gait, Skin, Coat, Colour, and Size",
         },
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Body, Tail, Coat, Colour, Size"
+          locator: "General appearance, Head and skull, Eyes, Ears, Mouth, Neck, Forequarters, Body, Hindquarters, Feet, Tail, Gait, Coat, Colour, and Size",
         },
         {
           id: "akc-basset-hound-breed-standard",
           role: "verified",
-          locator: "Head, Skull, Eyes, Ears, Body, Forelegs, Hindquarters, Coat, Color, Size"
-        }
+          locator: "General Appearance, Head, Neck and Shoulders, Forelegs, Body, Hindquarters, Feet, Tail, Coat, Color",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 19 generic species-wide colours including merle, brindle, blue)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Conformation, low-slung achondroplastic build, loose skin, coat, colours, and distinctive features follow official standards."
+        "Conformation, moderate supple skin without exaggeration, smooth short coat, and permissible hound colours follow FCI Standard No. 163 and The Royal Kennel Club rather than The Dog API's generic colour list.",
     },
 
     "physical.height": {
@@ -577,54 +561,147 @@ export const basset_hound: Breed = {
         {
           id: "fci-basset-hound-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: 33 - 38 cm (13 - 15 ins)."
+          locator: "SIZE: Height at the withers: 33 - 38 cm",
         },
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "verified",
-          locator: "Height at withers: 33-38 cms (13-15 ins)"
-        }
+          locator: "Size: Height: 33-38 cms (13-15 ins) at withers",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric (33–38 cm)",
+        },
+        {
+          id: "akc-basset-hound-breed-standard",
+          role: "cited",
+          locator: "Size: Height should not exceed 14 inches; over 15 inches at the highest point of the shoulder is a disqualification",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Preserved in published unit of centimetres (33 to 38 cm for both males and females) exactly as specified in the official FCI Standard No. 163 and The Royal Kennel Club standard."
+        "Preserved in centimetres (33 to 38 cm for both sexes) as published first by FCI Standard No. 163 and The Royal Kennel Club, matching The Dog API.",
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-basset-hound-official-standard",
+          role: "verified",
+          locator: "SIZE: Height at the withers: 33 - 38 cm",
+        },
+        {
+          id: "the-kennel-club-basset-hound-breed-standard",
+          role: "verified",
+          locator: "Height: 33-38 cms at withers",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric (38 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper male height bound of 38 cm.",
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-basset-hound-official-standard",
+          role: "verified",
+          locator: "SIZE: Height at the withers: 33 - 38 cm",
+        },
+        {
+          id: "the-kennel-club-basset-hound-breed-standard",
+          role: "verified",
+          locator: "Height: 33-38 cms at withers",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric (38 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female height bound of 38 cm.",
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "the-kennel-club-basset-hound-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Weight: Dogs 25-30 kg (55-66 lbs); Bitches 20-25 kg (44-55 lbs)"
+          locator: "breed.weight.metric (18–30 kg)",
         },
         {
-          id: "basset-hound-club-of-america-health",
-          role: "verified",
-          locator: "Adult working weight guidance and healthy body condition"
-        }
+          id: "akc-basset-hound-breed-profile",
+          role: "cited",
+          locator: "Weight: 40-65 pounds",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "FCI Standard No. 163 states that weight should be in proportion to size. The stored 25 to 30 kg for males and 20 to 25 kg for females are the canonical weights published by The Royal Kennel Club in the country of origin, preserved in kilograms."
+        "FCI Standard No. 163 and The Royal Kennel Club breed standard do not state a numerical weight range; retains the 18–30 kg range from The Dog API (corresponding to the AKC breed profile's 40–65 lb range).",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (30 kg)",
+        },
+        {
+          id: "akc-basset-hound-breed-profile",
+          role: "cited",
+          locator: "Weight: 40-65 pounds",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper male weight bound of 30 kg.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (30 kg; did not separate males and females)",
+        },
+        {
+          id: "akc-basset-hound-breed-profile",
+          role: "cited",
+          locator: "Weight: 40-65 pounds",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female weight bound of 30 kg.",
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "the-kennel-club-basset-hound-breed-standard",
-          role: "verified",
-          locator: "Longevity and health actuarial profile (10-12 years)"
-        },
-        {
           id: "akc-basset-hound-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-13 years"
-        }
+          locator: "Life Expectancy: 12-13 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (12–13 years)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Supported by kennel club actuarial profiles and primary-care veterinary longevity surveys."
+      verifiedOn: "2026-11-17",
+      note:
+        "Updated to 12–13 years, matching both the AKC breed profile and The Dog API.",
     },
 
     "physical.sheddingLevel": {
@@ -633,16 +710,11 @@ export const basset_hound: Breed = {
         {
           id: "akc-basset-hound-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
+          locator: "Breed Traits: Shedding Level (2/5 to 3/5)",
         },
-        {
-          id: "fci-basset-hound-official-standard",
-          role: "verified",
-          locator: "COAT: Smooth, short and close without being too fine"
-        }
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "physical.droolingLevel": {
@@ -651,16 +723,16 @@ export const basset_hound: Breed = {
         {
           id: "akc-basset-hound-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (4/5)"
+          locator: "Breed Traits: Drooling Level (4/5)",
         },
         {
           id: "fci-basset-hound-official-standard",
           role: "verified",
-          locator: "Lips: Flews of upper lip overlap lower lip considerably"
-        }
+          locator: "Lips: The flews of the upper lip overlap the lower substantially",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Deep pendulous flews result in regular drooling."
+      verifiedOn: "2026-11-17",
+      note: "Overlapping upper flews result in heavy drooling.",
     },
 
     "temperament.traits": {
@@ -669,21 +741,26 @@ export const basset_hound: Breed = {
         {
           id: "fci-basset-hound-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Placid hound, never aggressive or timid. Affectionate."
+          locator: "Characteristics and Behaviour / Temperament: tenacious hound of ancient lineage, pack instinct, deep melodious voice; placid, never aggressive or timid; affectionate",
         },
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "verified",
-          locator: "Characteristics: Placid, affectionate, never aggressive or timid; melodious voice"
+          locator: "Characteristics and Temperament: tenacious, pack instinct, deep melodious voice, placid, affectionate",
         },
         {
           id: "akc-basset-hound-breed-standard",
           role: "verified",
-          locator: "Temperament: Placid, never sharp or timid, great endurance and devotion"
-        }
+          locator: "Temperament: mild, never sharp or timid, capable of great endurance in the field and extremein devotion",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament (Friendly, calm, gentle, loyal, independent, devoted)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "temperament.scores": {
@@ -692,17 +769,17 @@ export const basset_hound: Breed = {
         {
           id: "akc-basset-hound-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics ratings",
         },
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "cited",
-          locator: "Temperament and behavior guidance"
-        }
+          locator: "Characteristics and Temperament",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented hound temperament and low watchdog protectiveness."
+        "Editorial 1–5 scores informed by documented breed temperament and low-key indoor energy.",
     },
 
     care: {
@@ -711,22 +788,22 @@ export const basset_hound: Breed = {
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "cited",
-          locator: "Care, exercise, ear maintenance, and skin hygiene"
+          locator: "Breeds A to Z care and exercise overview",
         },
         {
           id: "akc-basset-hound-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming, Exercise, Training, and Nutrition guidance",
         },
         {
           id: "basset-hound-club-of-america-health",
           role: "cited",
-          locator: "Health, spinal precautions, and grooming"
-        }
+          locator: "Health, back/joint protection, and ear care",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines active scenthound management with dwarf spine protection and skin fold hygiene protocols."
+        "Combines moderate walking and scentwork with ear, skin-fold, and spinal care.",
     },
 
     "care.exercise.level": {
@@ -735,16 +812,16 @@ export const basset_hound: Breed = {
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "verified",
-          locator: "Exercise: Moderate daily exercise needed; up to 1 hour per day"
+          locator: "Breeds A to Z: Exercise: Up to 1 hour per day",
         },
         {
           id: "akc-basset-hound-breed-profile",
           role: "verified",
-          locator: "Energy Level (2/5); Exercise Needs (2/5)"
-        }
+          locator: "Energy Level: Calm; daily moderate walk needed",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
@@ -753,17 +830,12 @@ export const basset_hound: Breed = {
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "cited",
-          locator: "Exercise: Up to 1 hour per day"
+          locator: "Exercise: Up to 1 hour per day",
         },
-        {
-          id: "akc-basset-hound-breed-profile",
-          role: "cited",
-          locator: "Exercise recommendations"
-        }
       ],
       verifiedOn: null,
       note:
-        "Estimated 45 to 60 minutes of daily activity reflects the moderate exercise demands of a heavy, dwarf scenthound."
+        "Estimated 45 to 60 minutes of daily walking and nosework.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -772,34 +844,34 @@ export const basset_hound: Breed = {
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "verified",
-          locator: "Living environment: Flat/Apartment suitable with regular outdoor walks"
+          locator: "Breeds A to Z: Size of home: Flat/Apartment suitable",
         },
         {
           id: "akc-basset-hound-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (4/5)"
-        }
+          locator: "Adaptability to apartment living",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-basset-hound-breed-profile",
-          role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
-        },
-        {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "verified",
-          locator: "Living environment: Small garden suitable"
-        }
+          locator: "Breeds A to Z: Small garden suitable",
+        },
+        {
+          id: "akc-basset-hound-breed-profile",
+          role: "verified",
+          locator: "Fenced yard and leash recommendations",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.climates": {
@@ -808,34 +880,30 @@ export const basset_hound: Breed = {
         {
           id: "fci-basset-hound-official-standard",
           role: "verified",
-          locator: "COAT: Smooth, dense weather-resistant coat"
+          locator: "Coat: smooth, short and close",
         },
         {
           id: "akc-basset-hound-breed-profile",
           role: "verified",
-          locator: "Weather sensitivity: heat sensitivity due to heavy build and loose skin"
-        }
+          locator: "Short coat and heavy build care in warm and cool weather",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "akc-basset-hound-breed-profile",
+          id: "fci-basset-hound-official-standard",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate; pack-oriented hound"
+          locator: "Characteristics: possessing a pack instinct and a deep melodious voice",
         },
-        {
-          id: "the-kennel-club-basset-hound-breed-standard",
-          role: "cited",
-          locator: "Pack nature and companion needs"
-        }
       ],
       verifiedOn: null,
-      note: null
+      note:
+        "Pack-oriented scenthounds prefer companionship and can vocalise when left isolated for long periods.",
     },
 
     nutrition: {
@@ -844,30 +912,17 @@ export const basset_hound: Breed = {
         {
           id: "akc-basset-hound-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, strict weight management"
+          locator: "Nutrition: portion control, obesity prevention, and bloat precautions",
         },
         {
           id: "basset-hound-club-of-america-health",
           role: "cited",
-          locator: "Obesity prevention, spinal protection, and bloat management"
-        }
+          locator: "Weight management and GDV precautions",
+        },
       ],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for deep-chested, chondrodysplastic breeds."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-basset-hound-breed-profile",
-          role: "cited",
-          locator: "Life-stage nutrition and divided meal schedules"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+        "General nutritional guidance for a heavy-boned, deep-chested dwarf hound.",
     },
 
     "health.overview": {
@@ -876,27 +931,27 @@ export const basset_hound: Breed = {
         {
           id: "basset-hound-thrombopathia-rasgrp1-study-2006",
           role: "verified",
-          locator: "RASGRP1 gene mutation causing inherited thrombopathia in Basset Hounds"
+          locator: "RASGRP1 gene mutation causing inherited Basset Hound thrombopathia (Boudreaux et al., 2006)",
         },
         {
           id: "basset-hound-glaucoma-adamts17-study-2015",
           role: "verified",
-          locator: "ADAMTS17 mutation associated with primary closed-angle glaucoma in Basset Hounds"
+          locator: "ADAMTS17 19-bp deletion associated with primary angle-closure glaucoma in Basset Hounds (Oliver et al., 2015)",
+        },
+        {
+          id: "the-kennel-club-basset-hound-breed-standard",
+          role: "verified",
+          locator: "Health standard: eye testing & gonioscopy (PLA), DNA tests for Lafora disease & POAG3, elbow dysplasia scheme, and Breed Watch conformational points",
         },
         {
           id: "ofa-basset-hound-chic-requirements",
           role: "verified",
-          locator: "Required screenings: Thrombopathia DNA test, Glaucoma DNA test/eye exam"
+          locator: "CHIC screening panel: Thrombopathia DNA test, Glaucoma DNA test/eye exam, optional elbows, hips, cardiac",
         },
-        {
-          id: "basset-hound-club-of-america-health",
-          role: "verified",
-          locator: "Health priorities: IVDD, CTP, glaucoma, GDV, and elbow dysplasia"
-        }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesizes peer-reviewed genetics studies on thrombopathia and glaucoma with national health screening requirements."
+        "Synthesises peer-reviewed genetics studies and UK/US breed health screening schemes.",
     },
 
     "health.commonConditions": {
@@ -905,27 +960,27 @@ export const basset_hound: Breed = {
         {
           id: "basset-hound-thrombopathia-rasgrp1-study-2006",
           role: "verified",
-          locator: "Canine thrombopathia pathology, platelet dysfunction, and RASGRP1 mutation"
+          locator: "Canine thrombopathia (RASGRP1 mutation)",
         },
         {
           id: "basset-hound-glaucoma-adamts17-study-2015",
           role: "verified",
-          locator: "Primary closed-angle glaucoma pathology and ADAMTS17 19-bp deletion"
-        },
-        {
-          id: "basset-hound-club-of-america-health",
-          role: "verified",
-          locator: "Intervertebral disc disease (IVDD), bloat (GDV), elbow dysplasia, and eyelid conditions"
+          locator: "Primary angle-closure glaucoma (ADAMTS17 mutation)",
         },
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "verified",
-          locator: "Breed health concerns: Breed Watch category points (eyes, ears, skin, weight)"
-        }
+          locator: "Lafora disease, POAG3, PLA/gonioscopy, elbow dysplasia, and conformational skin/eye/ear points",
+        },
+        {
+          id: "basset-hound-club-of-america-health",
+          role: "verified",
+          locator: "IVDD, GDV (bloat), thrombopathia, glaucoma, elbow dysplasia, and ear/skin-fold infections",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+        "Distinguishes genetically characterised disorders (CTP, glaucoma, Lafora disease) from conformational and care risks (IVDD, elbow dysplasia, bloat, otitis, eyelid and skin-fold issues).",
     },
 
     "health.preventiveCare": {
@@ -934,16 +989,11 @@ export const basset_hound: Breed = {
         {
           id: "basset-hound-club-of-america-health",
           role: "cited",
-          locator: "Preventive care, spinal protection, ramp usage, and ear hygiene"
+          locator: "Preventive care, spine protection, weight control, and ear/fold hygiene",
         },
-        {
-          id: "akc-basset-hound-breed-profile",
-          role: "cited",
-          locator: "Routine care, weight control, and ear inspection"
-        }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to chondrodysplastic, drop-eared hounds."
+      note: "Preventive care guidance for a short-legged, drop-eared hound.",
     },
 
     "health.recommendedScreenings": {
@@ -952,17 +1002,22 @@ export const basset_hound: Breed = {
         {
           id: "ofa-basset-hound-chic-requirements",
           role: "verified",
-          locator: "CHIC program requirements: Thrombopathia DNA test, Glaucoma DNA/eye exam, optional elbows and hips"
+          locator: "Required: Thrombopathia DNA test, Primary Glaucoma DNA test or eye exam; Optional: elbow, hip, cardiac",
+        },
+        {
+          id: "the-kennel-club-basset-hound-breed-standard",
+          role: "verified",
+          locator: "Eye testing and gonioscopy (PLA), DNA tests for Lafora's and POAG3, and elbow dysplasia testing",
         },
         {
           id: "basset-hound-club-of-america-health",
           role: "verified",
-          locator: "Pre-breeding testing protocols: CTP, glaucoma, gonioscopy, elbows, hips"
-        }
+          locator: "Pre-breeding health screening recommendations",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Screenings summarize published parent club and health registry protocols."
+        "Combines US and UK kennel-club/parent-club pre-breeding health testing schemes.",
     },
 
     "health.dentalCare": {
@@ -971,16 +1026,11 @@ export const basset_hound: Breed = {
         {
           id: "fci-basset-hound-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: complete, regular scissor bite"
+          locator: "Jaws/Teeth: complete, regular scissor bite",
         },
-        {
-          id: "akc-basset-hound-breed-profile",
-          role: "cited",
-          locator: "Routine dental care"
-        }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine dental hygiene guidance.",
     },
 
     "health.earCare": {
@@ -989,16 +1039,11 @@ export const basset_hound: Breed = {
         {
           id: "fci-basset-hound-official-standard",
           role: "cited",
-          locator: "Ears: set low, long, velvety, folding in inward roll"
+          locator: "Ears: set low, long, narrow, supple and velvety, folding inward",
         },
-        {
-          id: "basset-hound-club-of-america-health",
-          role: "cited",
-          locator: "Ear canal cleaning and infection prevention"
-        }
       ],
       verifiedOn: null,
-      note: "Ear maintenance protocol for heavy, folded pendant ears."
+      note: "Ear hygiene guidance for long, low-set hanging ears.",
     },
 
     "health.skinCare": {
@@ -1007,58 +1052,48 @@ export const basset_hound: Breed = {
         {
           id: "fci-basset-hound-official-standard",
           role: "cited",
-          locator: "Skin: loose and elastic, forming folds on head, neck and limbs"
+          locator: "Skin: supple and elastic without exaggeration",
         },
-        {
-          id: "basset-hound-club-of-america-health",
-          role: "cited",
-          locator: "Wrinkle cleaning and intertrigo prevention"
-        }
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for breeds with deep skin folds."
+      note: "Wrinkle and fold hygiene guidance.",
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
         {
-          id: "akc-basset-hound-breed-profile",
-          role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
-        }
+          locator: "Breeds A to Z lifestyle suitability",
+        },
+        {
+          id: "akc-basset-hound-breed-profile",
+          role: "cited",
+          locator: "About the Breed and family/apartment ratings",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, physical mass, and household adaptability."
+        "Editorial suitability evaluations based on placid indoor temperament, pack sociability, and physical weight.",
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-basset-hound-breed-profile",
-          role: "verified",
-          locator: "Olfactory power (220M scent receptors, second to Bloodhound), Hush Puppies mascot (Jason, 1963), Columbo's dog, Droopy"
-        },
-        {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "verified",
-          locator: "History, heavy bone density, white tail flag (stern)"
+          locator: "About this breed (Everett Millais, Model, 1884 Basset Hound Club, Queen Alexandra at Sandringham, scent-retaining ears) and Feet (imprint of a large hound)",
         },
         {
-          id: "fci-basset-hound-official-standard",
+          id: "akc-basset-hound-breed-profile",
           role: "verified",
-          locator: "Brief historical summary: French basset derivation, low-slung hunting adaptation"
-        }
+          locator: "History and cultural icons (Hush Puppies, Columbo's dog, Droopy)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified historical folklore and cultural heritage facts."
+      verifiedOn: "2026-11-17",
+      note: "Verified against The Royal Kennel Club and AKC historical notes.",
     },
 
     faq: {
@@ -1067,29 +1102,29 @@ export const basset_hound: Breed = {
         {
           id: "fci-basset-hound-official-standard",
           role: "verified",
-          locator: "Origin, size (33-38 cm), coat, colors, and physical build"
+          locator: "Origin (Great Britain), size (33–38 cm), coat, and colours",
         },
         {
           id: "the-kennel-club-basset-hound-breed-standard",
           role: "verified",
-          locator: "Weight (25-30 kg males, 20-25 kg females), lifespan (10-12 years), temperament"
+          locator: "History, apartment suitability, and health testing schemes",
         },
         {
-          id: "basset-hound-club-of-america-health",
+          id: "akc-basset-hound-breed-profile",
           role: "verified",
-          locator: "Health conditions, IVDD spinal precautions, CTP and glaucoma testing"
+          locator: "Lifespan (12–13 years) and care",
         },
         {
-          id: "ofa-basset-hound-chic-requirements",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Recommended health screening panel"
-        }
+          locator: "breed.weight.metric (18–30 kg) and breed.life_span (12–13 years)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
-    }
+        "FAQ answers synthesise verified FCI, Royal Kennel Club, AKC, and The Dog API data without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-11-08"
+  updatedOn: "2026-11-17",
 };

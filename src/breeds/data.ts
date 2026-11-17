@@ -218,6 +218,7 @@ import { polish_lowland_sheepdog } from "./polish_lowland_sheepdog";
 import { south_russian_ovcharka } from "./south_russian_ovcharka";
 import { border_collie } from "./border_collie";
 import { pont_audemer_spaniel } from "./pont_audemer_spaniel";
+import { jamthund } from "./jamthund";
 
 
 export const breedData: readonly Breed[] = [
@@ -435,4 +436,5 @@ export const breedData: readonly Breed[] = [
   south_russian_ovcharka,
   border_collie,
   pont_audemer_spaniel,
+  jamthund,
 ];

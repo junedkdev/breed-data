@@ -3,160 +3,156 @@ import type { Breed } from "../schema/breed.types";
 export const greenland_dog: Breed = {
   slug: "greenland-dog",
   name: "Greenland Dog",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Grønlandshund",
     "Kalaallit Qimmiat",
     "Greenland Sledge Dog",
-    "Greenland Husky",
     "Chien du Groenland",
     "Grönlandhund",
     "Perro de Groenlandia",
-    "Esquimau Dog"
+    "Esquimau Dog",
   ],
 
   group:
-    "Spitz and Primitive Types; Section 1 — Nordic Sledge Dogs (without working trial; also classified in the Working and Northern Breed groups)",
+    "Spitz and Primitive Types; Section 1 — Nordic Sledge Dogs (without working trial)",
 
   origin: {
     country: "Greenland",
     region:
-      "Coastal regions of Greenland (specifically the Arctic sledge dog districts north of the Arctic Circle and East Greenland)"
+      "Arctic sledge-dog districts of Greenland (west coast north of the Arctic Circle and East Greenland)",
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Gr%C3%B8nlandshund.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Gr%C3%B8nlandshund.jpg",
-      title: "Grønlandshund.jpg",
-      description: "An adult Greenland Dog (Grønlandshund) standing outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2472,
-      height: 1854,
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Greenland_dog_upernavik_2007-06-02.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Greenland_dog_upernavik_2007-06-02.jpg",
+      title: "Greenland dog upernavik 2007-06-02.jpg",
+      description:
+        "An adult Greenland Dog resting outdoors on snow and rock in Upernavik, Greenland.",
+      creator: "Slaunger",
+      uploader: "Slaunger",
+      capturedOn: "2007-06-02",
+      uploadedOn: "2007-06-02",
+      width: 2816,
+      height: 2112,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Gr%C3%B8nlandshund.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Slaunger, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Greenland_dog_upernavik_2007-06-02.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
+      metadataCheckedOn: "2026-11-17",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Greenland_Dog.jpg",
       sourcePage: "https://commons.wikimedia.org/wiki/File:Greenland_Dog.jpg",
       title: "Greenland Dog.jpg",
-      description: "A Greenland Dog standing in the snow.",
-      creator: "Thomas Schoch",
-      uploader: "Thomas Schoch",
-      capturedOn: "2006-03-20",
-      uploadedOn: "2006-04-12",
-      width: 2048,
-      height: 1536,
+      description: "An adult Greenland Dog standing outdoors.",
+      creator: "sannse",
+      uploader: "Lennart.larsen",
+      capturedOn: "2003-08-30",
+      uploadedOn: "2006-01-24",
+      width: 600,
+      height: 678,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Thomas Schoch, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Greenland_Dog.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by sannse (uploaded by Lennart.larsen), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Greenland_Dog.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
-    }
+      metadataCheckedOn: "2026-11-17",
+    },
   ],
 
   overview: {
     summary:
-      "One of the world's most ancient and powerful Arctic sledge dogs, originating in Greenland and celebrated for its heavy-boned endurance frame, weather-armored double coat, wolf-like pack communication, and monumental freighting stamina in polar conditions.",
+      "The Greenland Dog is a very strong, heavy-boned polar spitz native to Greenland, shaped over thousands of years for hauling heavy sledges and hunting in harsh Arctic conditions, and distinguished by its thick double coat, wedge-shaped head, curled bushy tail, and tireless working spirit.",
 
     description:
-      "The Greenland Dog is an exceptionally strong, heavy-boned Nordic spitz built specifically for hauling freight across frozen sea ice and hunting polar game under extreme Arctic conditions. The body is athletic, muscular, and slightly rectangular in silhouette, with a deep chest, powerful loin, and heavily boned limbs that provide immense pulling leverage. Covered in a dense, weather-resistant double coat consisting of a soft, woolly undercoat and a coarse, straight outer coat, the dog can withstand sub-zero blizzards without shelter. The head is broad and wedge-shaped with a proud carriage, slightly slanting dark eyes radiating fearless energy, small triangular erect ears, and a profusely plumed tail curled firmly over the back. Driven by powerful pack instincts, it possesses great affection and loyalty toward humans, but requires experienced, active handling and ample physical work.",
+      "Built first and foremost for hard pulling work and endurance in Arctic climates, the Greenland Dog is a powerful, slightly rectangular spitz with heavy bone, broad shoulders, and marked size contrast between males and females. Its weatherproof double coat combines a dense, soft undercoat with a straight, coarse, stand-off outer coat that protects the dog in sub-zero storms. A broad, slightly arched skull, wedge-shaped muzzle, slightly obliquely set dark eyes with a fearless expression, small triangular erect ears, and a thick, bushy tail carried curved over the back define its classic polar silhouette. Affectionate and friendly toward people broadly rather than bonding as a one-person guard dog, it retains a strong pack instinct, high hunting drive, and a resonant howling voice.",
 
     history:
-      "The Greenland Dog is an ancient aboriginal landrace whose lineage has lived alongside the Thule and Inuit peoples of Greenland for thousands of years. Archaeological and genomic research shows that Arctic sled dogs developed over 9,500 years ago, demonstrating direct genetic continuity between ancient Holocene Siberian canines and modern Greenland Dogs. In Greenland, these dogs were indispensable for human survival, pulling heavy sledges loaded with seal and walrus meat across treacherous ice and baying polar bears during winter hunts. The breed played a pivotal role in polar exploration, famously chosen by Roald Amundsen for his victorious expedition to the South Pole in 1911 due to its superior endurance and cold tolerance. To protect the breed's genetic purity and working traits, strict territorial laws in Greenland prohibit the importation of any other domestic dog breeds into the sled dog districts north of the Arctic Circle and on the east coast.",
+      "The Greenland Dog is one of the world's oldest continuously working sled-dog landraces. Comparative genomic research published in 2020 demonstrated that modern Greenland sled dogs trace a direct, largely unadmixed lineage to 9,500-year-old Arctic sled dogs from Zhokhov Island in northeastern Siberia, having accompanied Inuit ancestors into Greenland roughly 850 years ago. For centuries, Inuit hunters relied on teams of these dogs to haul sledges across sea ice and locate seals and polar bears, and polar explorers such as Roald Amundsen selected them for major expeditions. To safeguard the indigenous population from crossbreeding, Greenlandic law prohibits importing other dog breeds into the traditional sledge-dog districts north of the Arctic Circle on the west coast and throughout East Greenland.",
 
     originalPurpose:
-      "Heavy-freight sledge pulling, winter transportation across Arctic sea ice, and baying large game including polar bears and seals.",
+      "Hauling heavy freight sledges over Arctic sea ice and assisting Inuit hunters in locating and holding seal and polar bear.",
 
     currentRoles: [
-      "Traditional subsistence and expedition sledge pulling dog",
-      "Competitive long-distance sled dog racing athlete",
-      "Winter sports partner in ski-joring, bike-joring, and weight pulling",
-      "Endurance hiking and packing companion for experienced Arctic outdoor handlers"
-    ]
+      "Traditional Arctic subsistence and freighting sledge dog",
+      "Polar expedition and wilderness trekking sled dog",
+      "Ski-joring, bike-joring, and mushing partner in cold climates",
+      "Active outdoor working companion for experienced handlers",
+    ],
   },
 
   physical: {
-    sizeCategory: "Large",
+    sizeCategory: "Large, heavy-boned polar spitz",
 
     height: {
       unit: "cm",
       male: {
         min: 60,
-        max: 68
+        max: 68,
       },
       female: {
         min: 55,
-        max: 65
-      }
+        max: 65,
+      },
     },
 
     weight: {
       unit: "kg",
       male: {
         min: 30,
-        max: 40
+        max: 40,
       },
       female: {
         min: 25,
-        max: 35
-      }
+        max: 35,
+      },
     },
 
     lifespanYears: {
-      min: 12,
-      max: 14
+      min: 10,
+      max: 14,
     },
 
     coatType:
-      "Dense, thick, weather-resistant double coat with a rich, soft, woolly undercoat and a harsh, straight, coarse outer coat without curl or wave; short on the head and front of legs, longer on the body, with a thick neck ruff and a bushy tail.",
+      "Abundant double coat with a dense, soft inner undercoat and a dense, straight, coarse outer coat free of curl or wave; short and smooth on the head and legs, longer on the trunk, and long and bushy on the underside of the tail.",
 
-    coatLength: "Medium",
+    coatLength: "Medium, dense, and stand-off on the body; short on the head and front of legs.",
 
     coatColors: [
-      "All colors and color combinations are permitted, including solid, particolor, and shaded coats (such as black, grey, red, sable, and white patches), with the sole exception that albino dogs are disqualified"
+      "Any colour—either solid or parti-coloured—is permitted, except albinism and merle, which are disqualified",
     ],
 
     sheddingLevel:
-      "High year-round shedding with heavy seasonal coat blowing in spring and autumn",
+      "High; heavy seasonal shedding of the dense woolly undercoat, especially in spring",
 
     droolingLevel:
-      "Low; tight, dry lips without pendulous flews result in minimal drooling",
+      "Low; thin, tight-fitting lips produce minimal drool",
 
     distinctiveFeatures: [
-      "Powerful, heavy-boned Arctic sledge dog with an athletic, slightly rectangular profile",
-      "Height at the withers of 60 cm and upwards for males (typically 60 to 68 cm) and 55 cm and upwards for females (typically 55 to 65 cm)",
-      "Working weight of 30 to 40 kg for males and 25 to 35 kg for females in lean, conditioned state",
-      "Broad, wedge-shaped head with a slightly arched skull and a moderate stop",
-      "Straight, broad nasal bridge tapering slightly to a large, well-developed black nose (flesh-colored snow nose permitted in winter)",
-      "Medium-sized, slightly slanting dark eyes with tight, black lids expressing a frank, courageous outlook",
-      "Small, triangular, erect ears with rounded tips, carried firmly and capable of swiveling to sound",
-      "Deep, broad, muscular chest reaching down to the elbows with well-sprung ribs",
-      "Strong, straight back with a broad, muscular loin and slightly sloping croup",
-      "Thick, high-set tail carried densely plumed, curled or arched forward over the back",
-      "Large, powerful, rounded paws with thick, tough pads and strong nails, equipped with dense hair between the toes for grip on ice",
-      "Relentless, rhythmic, and ground-covering working trot powered by strong hindquarters"
-    ]
+      "Slightly rectangular body with a height-to-body-length ratio of approximately 10 to 11",
+      "Withers height of 60 cm and upwards in males (commonly 60 to 68 cm) and 55 cm and upwards in females (commonly 55 to 65 cm), with marked sexual dimorphism",
+      "Working weight typically 30 to 40 kg in males and 25 to 35 kg in females",
+      "Broad, slightly arched skull widest between the ears, with a defined but not steep stop and a strong, wedge-shaped muzzle",
+      "Large, dark nose (black or liver in harmony with coat colour, often turning flesh-coloured in winter 'snow nose') and tight, thin lips closing over a powerful scissor bite",
+      "Slightly obliquely set dark eyes—neither prominent nor deep-set—with a frank, fearless expression",
+      "Rather small, triangular, erect ears with rounded tips",
+      "Very deep, broad chest (without being barrel-ribbed), a straight, muscular back, and a broad loin",
+      "Thick, high-set, bushy tail carried curved or loosely curled over the back",
+      "Straight, heavy-boned forelegs, muscular hindquarters, and fairly large, round, powerful feet with strong nails and protective pads",
+    ],
   },
 
   temperament: {
     traits: [
-      "Hardy, tireless, and passionately devoted to pulling work",
-      "Friendly, outgoing, and good-natured with humans",
-      "Calm and affectionate with familiar handlers",
-      "Strong pack hierarchy instinct with assertive tendencies toward unfamiliar dogs",
-      "Fearless and resolute in the face of harsh environmental conditions",
-      "Independent problem-solver with ancient primitive survival intelligence",
-      "High predatory drive toward small animals and marine game",
-      "Extremely vocal, communicating through deep, wolf-like howling choruses rather than watchdog barking",
-      "Free of territorial watchdog suspicion toward humans"
+      "Tireless, bold, and energetic working sledge dog",
+      "Friendly and affectionate toward humans generally, without forming a possessive attachment to a single person",
+      "Devoid of guarding or watchdog aggression toward strangers",
+      "Strong hunting instinct toward polar game and small animals",
+      "Pack-oriented and vocal, communicating with group howls rather than sharp barking",
+      "Independent, tough, and self-reliant in harsh outdoor conditions",
     ],
 
     scores: {
@@ -166,65 +162,61 @@ export const greenland_dog: Breed = {
       withStrangers: 4,
       protectiveness: 1,
       independence: 5,
-      trainability: 3,
+      trainability: 2,
       barking: 4,
-      energy: 5
-    }
+      energy: 5,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "Very high; an endurance working sledge dog requiring vigorous daily physical exertion, heavy pulling work, or long-distance running in cool weather",
+        "Very high. Bred for hours of heavy freight hauling across sea ice and snow, the Greenland Dog needs demanding daily pulling or endurance exercise in cool weather.",
 
       minutesPerDay: {
         min: 90,
-        max: 120
+        max: 120,
       },
 
       activities: [
-        "Sledding, freight pulling, and mushing in winter snow",
-        "Ski-joring, bike-joring, and canicross running with a pulling harness",
-        "Long-distance wilderness hiking and weighted dog-packing in cool climates",
-        "Supervised free exercise in a large, escape-proof fenced paddock",
-        "Tracking and interactive outdoor scent games"
-      ]
+        "Sledge hauling, mushing, or cart/rig pulling in cold weather",
+        "Ski-joring, bike-joring, and canicross in harness",
+        "Long-distance hill or wilderness trekking with a pack",
+        "Supervised exercise inside a large, escape-proof fenced enclosure",
+      ],
     },
 
     grooming: {
       level: "Moderate",
 
       brushing:
-        "Brush two to three times weekly using an undercoat rake and slicker brush to remove loose undercoat and maintain skin aeration; increase to daily brushing during seasonal undercoat blowing in spring and autumn.",
+        "Brush once or twice a week with a slicker brush and undercoat rake, increasing to daily raking during the heavy spring undercoat moult.",
 
       bathing:
-        "Bathe only when heavily soiled, as the coarse outer guard coat naturally sheds mud, snow, and trail dirt.",
+        "Bathe rarely—only when heavily soiled—so the coarse outer coat retains its natural weatherproofing oils.",
 
       notes: [
-        "Never shave the double coat; the outer guard hairs and dense woolly undercoat provide essential thermal insulation against extreme cold and summer heat.",
-        "Use an undercoat rake during the heavy spring molt to extract dense dead underfur without cutting guard hairs.",
-        "Inspect paw pads regularly for ice buildup, cracking, or cuts after heavy sledding over sea ice or rough terrain.",
-        "Check ears weekly for dirt or moisture and clean gently with an approved cleanser.",
-        "Trim nails every two to three weeks if they are not naturally worn down on ice or granite rock.",
-        "The coat possesses negligible natural doggy odor and sheds dried dirt naturally when brushed."
-      ]
+        "Never clip or shave the double coat, which insulates the dog against extreme cold and protects the skin.",
+        "Inspect paw pads and interdigital hair regularly for ice balls, cracks, or cuts after pulling on rough snow, ice, or gravel.",
+        "Check the small erect ears and eyes periodically for debris.",
+        "Trim strong nails every few weeks if they do not wear down naturally.",
+        "Brush teeth regularly with canine toothpaste.",
+      ],
     },
 
     training: {
       difficulty:
-        "Challenging; highly intelligent and capable of learning complex sledding commands, but possesses strong primitive instincts, pack hierarchy focus, and an independent working mindset",
+        "Challenging. Intelligent and eager to pull in harness, yet distinctly independent, strongly pack-driven, and possessing a powerful hunting instinct that makes conventional off-lead pet obedience unreliable.",
 
       tips: [
-        "Establish clear, calm, and fair pack leadership through positive reinforcement and structured routines.",
-        "Begin harness conditioning, directional voice commands, and leash manners during early puppyhood.",
-        "Keep sessions engaging, physical, and purposeful, as mechanical obedience drills cause fast boredom.",
-        "Maintain escape-proof fencing at least six feet high, secure against digging and climbing.",
-        "Never exercise off-leash in open or unfenced areas, as predatory drive and wandering stamina will prompt far-ranging exploration.",
-        "Avoid harsh physical punishment, which destroys trust and promotes defensiveness in primitive northern dogs."
+        "Use calm, consistent, reward-based training and channel energy into structured harness pulling and directional cues.",
+        "Keep the dog on lead or inside high, dig-proof fencing whenever outside, as its hunting drive is strong.",
+        "Supervise interactions with unfamiliar dogs carefully, especially among adult males.",
+        "Avoid repetitive indoor obedience drills; focus on practical working tasks and clear boundaries.",
       ],
 
       socialization:
-        "Provide thorough, early, and positive exposure to diverse people, veterinary handling, household noises, and calm dogs. Ongoing social guidance ensures the dog remains confident and manageable in public while maintaining natural pack working harmony."
+        "Provide early, structured exposure to varied people, handling, and calm dogs while respecting the breed's strong working-pack nature and predatory drive toward small animals.",
     },
 
     livingEnvironment: {
@@ -232,79 +224,77 @@ export const greenland_dog: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Arctic, sub-Arctic, and snowy winter climates, where the dense double coat provides optimal comfort",
-        "Cool temperate climates",
-        "Not suited to hot or humid tropical climates due to dense polar double coat and high risk of thermal distress"
+        "Arctic, sub-Arctic, and cold snowy climates",
+        "Cool temperate climates with careful heat management in summer",
+        "Unsuited to hot or humid climates due to its heavy polar double coat",
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; intensely pack-oriented and thrives best in the company of humans or fellow sledge dogs, developing vocal howling or destructive digging if confined in isolated indoor quarters."
-    }
+        "Low when kept as a solitary dog; as a pack-living sledge dog, it thrives with canine companions and regular outdoor work, and will howl if left isolated.",
+    },
   },
 
   nutrition: {
     dietType:
-      "High-protein, high-fat complete and balanced diet formulated for active working sled dogs, tailored to outdoor temperature and working exertion.",
+      "Nutrient-dense, high-fat, high-protein diet suited to active Arctic sled dogs and scaled to ambient temperature and pulling workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured meals daily until six months of age, transitioning to two meals daily on a large-breed growth diet supporting steady skeletal development.",
+        "Three measured meals daily during early growth, transitioning to two daily meals on a large-breed growth ration.",
       adult:
-        "One to two measured meals daily, timing larger meals after the day's pulling work is completed.",
+        "One to two measured meals daily, scheduled well after strenuous pulling exercise.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower activity levels and joint health.",
     },
 
     guidelines:
-      "Caloric requirements vary dramatically between sedentary warm months and active winter freighting seasons, where working sled dogs can require two to three times their normal caloric intake. Measure food portions carefully, divide rations into scheduled meals, refrain from heavy running immediately before or after feeding to minimize bloat risk, and ensure fresh, unfrozen drinking water is constantly accessible.",
+      "Genomic research shows the Greenland Dog evolved specific metabolic adaptations to a fat-rich, low-starch Arctic diet. Scale calorie and fat intake to match seasonal pulling workloads and winter temperatures, rest the dog before and after exercise around meals, and ensure unfrozen water is always available.",
 
     considerations: [
-      "Increase dietary fat and animal protein density during winter sledding and sub-zero outdoor work.",
-      "Maintain a lean, muscular body condition where the ribs are easily felt through the thick coat.",
-      "Avoid strenuous pulling or running for at least one hour before and after meals.",
-      "Ensure access to unfrozen drinking water in sub-zero winter environments to prevent dehydration.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Adjust calorie and fat levels between heavy winter pulling seasons and warmer rest months.",
+      "Keep the dog in lean, muscular working condition.",
+      "Allow rest before and after vigorous pulling around mealtimes to reduce bloat risk.",
+      "Provide clean, unfrozen drinking water at all times.",
     ],
 
     note:
-      "Caloric demands vary widely depending on ambient temperature and pulling workload. Work with a veterinarian or sled dog nutritionist to establish tailored seasonal feeding schedules."
+      "General sled-dog nutrition guidance; consult a veterinarian to match rations to workload and climate.",
   },
 
   health: {
     overview:
-      "The Greenland Dog is an exceptionally hardy, robust primitive working landrace with a typical lifespan of 12 to 14 years. Shaped by millennia of natural selection in the unforgiving Arctic climate, it has largely escaped the complex hereditary disorders and artificial exaggerations seen in many modern companion breeds. Primary health considerations focus on orthopedic screening for hip and elbow dysplasia, managing bloat in deep-chested active dogs, treating field injuries from ice and rocks, and preventing heatstroke in warm environments.",
+      "The Greenland Dog is a hardy, long-isolated Arctic landrace with a typical life expectancy of 10 to 14 years. Centuries of natural and working selection in severe polar environments have left the breed free of most hereditary conformation disorders, with primary health care focused on hip and elbow soundness, working paw and muscle care, bloat precautions, and avoiding heat stress in warm weather.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the hip joints, monitored through pre-breeding radiographic screening programs",
-      "Elbow dysplasia — developmental abnormalities of the elbow joint that can cause forelimb lameness and secondary arthritis",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening emergency in deep-chested dogs where the stomach distends with gas and twists on its axis",
-      "Thermal stress and heatstroke — high vulnerability to hyperthermia if exercised in warm, humid climates due to heavy Arctic coat insulation",
-      "Field injuries — paw pad cuts, split nails, frostbite on extremities in severe blizzards, and muscle strains sustained during heavy sled pulling",
-      "Eye conditions — occasional reports of cataracts or corneal dystrophy monitored through routine ophthalmology checks"
+      "Hip dysplasia — developmental hip joint laxity monitored through pre-breeding radiographic screening",
+      "Elbow dysplasia — developmental elbow joint abnormality monitored in large working dogs",
+      "Gastric dilatation-volvulus (GDV / bloat) — acute stomach distension and torsion risk in deep-chested working dogs",
+      "Heat stress and hyperthermia — rapid overheating if worked or housed in warm, humid conditions due to its dense polar double coat",
+      "Working sled injuries — pad cuts, ice-crust abrasions, cracked nails, or musculo-tendinous strains from heavy freight pulling",
     ],
 
     preventiveCare: [
-      "Verify that breeding parents have official radiographic hip and elbow evaluation clearances.",
-      "Never exercise vigorously in warm or humid temperatures; restrict hard pulling to temperatures below 15°C (ideally below freezing).",
-      "Inspect paw pads regularly for cuts, fissures, or ice packing, using dog booties during extreme ice-crust running.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine parasite prevention."
+      "Use breeding stock with recorded radiographic hip evaluations and clinical eye clearances.",
+      "Never run or work the dog in warm weather; restrict pulling exercise to cool or sub-freezing temperatures.",
+      "Inspect paws, pads, and nails after every pulling session and use protective booties on sharp ice crust.",
+      "Rest the dog before and after exercise around meals to lower bloat risk.",
+      "Maintain routine veterinary wellness checks, vaccinations, and parasite prevention.",
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia screening prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Clinical veterinary ophthalmic examination"
+      "Radiographic hip evaluation prior to breeding",
+      "Radiographic elbow evaluation prior to breeding",
+      "Clinical ophthalmic examination",
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has powerful jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine toothpaste and check the powerful scissor bite and gums at annual veterinary visits.",
 
     earCare:
-      "Inspect the small erect ears weekly for dust, wax, or foreign matter, wiping the outer leather gently with an approved cleanser.",
+      "Check the small, triangular erect ears weekly for dirt or moisture and wipe the outer ear leather clean as needed.",
 
     skinCare:
-      "Part the dense double coat weekly during brushing to inspect the skin for external parasites, dryness, or irritation. The coat naturally sheds dirt and requires minimal skin intervention beyond regular brushing."
+      "Rake out dead undercoat thoroughly during seasonal moults so air can circulate to the skin and prevent matting or hot spots.",
   },
 
   suitability: {
@@ -315,93 +305,64 @@ export const greenland_dog: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Experienced sled dog mushers, polar expeditions, and long-distance winter sports enthusiasts",
-      "Active outdoor handlers living in cold, snowy rural or mountainous regions",
-      "Households with large, securely fenced acreage prepared for high-energy working sled dogs",
-      "Owners who understand northern primitive pack behavior, hierarchy, and howling vocalizations",
-      "People dedicated to providing strenuous daily physical exercise and mental engagement"
+      "Experienced mushers, sled-dog handlers, and polar or winter expedition enthusiasts",
+      "Highly active outdoor handlers in cold or northern climates who ski-jor, bike-jor, or hike long distances",
+      "Rural properties with secure fencing and space for multiple working sled dogs",
     ],
 
     notIdealFor: [
-      "First-time dog owners or casual pet seekers",
-      "Apartment, condominium, or urban dwellers with shared walls and small yards",
-      "Residents of warm, humid, or tropical climates",
-      "Sedentary individuals looking for a low-exercise family lap pet",
-      "Households with loose small animals or cats vulnerable to high predatory drive",
-      "Owners who expect an off-leash park dog that greets unfamiliar dogs politely"
-    ]
+      "First-time dog owners or households seeking a casual indoor pet",
+      "Apartment dwellers or close urban neighbourhoods sensitive to group howling",
+      "Warm or humid climates",
+      "Homes with cats, livestock, or small pets due to strong hunting drive",
+      "Owners expecting reliable off-lead recall or guard-dog instincts",
+    ],
   },
 
   funFacts: [
-    "Roald Amundsen selected Greenland Dogs to pull his sledges on his historic 1911 expedition to the South Pole, relying on their unmatched endurance and resilience to successfully become the first human to reach the pole.",
-    "In Greenland, the breed is legally protected: by law, no other dog breeds may be brought into the sledge dog districts north of the Arctic Circle on the west coast and on the entire east coast, preserving the pure genetic line from dilution.",
-    "A landmark genomic study published in the journal Science in 2020 revealed that the Greenland Dog shares genetic continuity with a 9,500-year-old ancient sled dog from Zhokhov Island in Siberia, possessing ancient genetic adaptations for a high-fat diet and oxygen efficiency in the cold.",
-    "Rather than barking to defend territory like typical domestic dogs, Greenland Dogs communicate through haunting, wolf-like howling choruses known in northern communities as the 'Greenland serenade'.",
-    "Its traditional Greenlandic Inuit name is Kalaallit Qimmiat, simply meaning 'the dog of the Greenlanders'.",
-    "A team of Greenland Dogs can haul heavy wooden sledges laden with hundreds of kilograms of freight over sea ice for 50 kilometers or more in a single day at temperatures below -30°C."
+    "A 2020 genomic study in the journal Science showed that modern Greenland Dogs have been kept largely isolated since arriving in Greenland with Inuit ancestors around 850 years ago and share direct genetic continuity with a 9,500-year-old sled dog from Zhokhov Island in Siberia.",
+    "The same genomic study identified specialized gene variants in Greenland Dogs for metabolising a fat-rich, starch-poor marine diet and regulating blood flow and oxygen use during cold-weather endurance work.",
+    "In Greenlandic (Kalaallisut), the breed is called Kalaallit Qimmiat ('the Greenlanders' dog'), and strict law bans importing any other dog breeds into Greenland's sled-dog districts north of the Arctic Circle and in East Greenland.",
+    "Unlike watchdogs, the Greenland Dog lacks territorial guarding instincts toward people and is known for joining its team in resonant, wolf-like howling choruses.",
+    "In winter, the dark pigment on the nose often fades to a pink or flesh-coloured stripe known as 'snow nose', which is explicitly permitted.",
   ],
 
   faq: [
     {
       question: "What is a Greenland Dog?",
       answer:
-        "The Greenland Dog (Grønlandshund or Kalaallit Qimmiat) is an ancient, heavy-boned Arctic sledge dog native to Greenland, known for its extraordinary endurance, weather-armored double coat, and wolf-like howling."
+        "The Greenland Dog (Grønlandshund or Kalaallit Qimmiat) is an ancient, heavy-boned Arctic spitz native to Greenland, bred for hauling heavy sledges and hunting seal and polar bear in extreme polar conditions.",
     },
     {
-      question: "Where does the Greenland Dog originate?",
+      question: "How tall and heavy is an adult Greenland Dog?",
       answer:
-        "The breed originates from Greenland, where it has served the indigenous Inuit peoples for thousands of years as a freighting sledge dog and hunting companion for seal and polar bear."
-    },
-    {
-      question: "How tall and heavy is a Greenland Dog?",
-      answer:
-        "Adult males stand 60 cm and upwards (typically 60 to 68 cm) at the shoulder and weigh 30 to 40 kg, while females stand 55 cm and upwards (typically 55 to 65 cm) and weigh 25 to 35 kg."
-    },
-    {
-      question: "How does a Greenland Dog differ from a Siberian Husky or Alaskan Malamute?",
-      answer:
-        "The Greenland Dog is heavier-boned, stockier, and more rugged than the faster, lighter Siberian Husky. While similar in power to the Alaskan Malamute, the Greenland Dog has retained its primitive working landrace traits with virtually no modern cosmetic breeding, and all coat colors except albino are accepted."
+        "Adult males stand 60 cm and upwards at the withers (commonly 60 to 68 cm) and females stand 55 cm and upwards (commonly 55 to 65 cm), with a marked size difference between the sexes. Working weight typically ranges from 30 to 40 kg in males and 25 to 35 kg in females.",
     },
     {
       question: "How long does a Greenland Dog live?",
       answer:
-        "The breed is remarkably robust and long-lived for a large working dog, typically enjoying a healthy lifespan of 12 to 14 years with proper nutrition and care."
+        "The breed typically lives 10 to 14 years.",
     },
     {
-      question: "Can a Greenland Dog live in an apartment or warm climate?",
+      question: "What coat colours are permitted in the Greenland Dog?",
       answer:
-        "No. Due to its massive exercise needs, powerful howling voice, and heavy Arctic coat, the breed is completely unsuited to apartment living and suffers severe thermal stress in warm or tropical climates; it thrives best in cold, rural, or snowy environments."
+        "Any colour—solid or parti-coloured—is permitted, except albinism and merle, which are unacceptable.",
     },
     {
-      question: "Are Greenland Dogs good family pets?",
+      question: "Is the Greenland Dog a good watchdog?",
       answer:
-        "They are friendly, loyal, and good-natured with humans, but they are working sled dogs with immense strength, strong pack hierarchy instincts, and high prey drive, making them suited only to experienced, highly active outdoor owners rather than typical suburban family households."
+        "No. Although physically powerful and bold when working, the Greenland Dog is friendly toward people generally and lacks a territorial guarding or watchdog instinct.",
     },
     {
-      question: "Does the Greenland Dog bark a lot?",
+      question: "Can a Greenland Dog live in an apartment or a warm climate?",
       answer:
-        "Greenland Dogs rarely bark like typical watchdogs; instead, they communicate through expressive, musical howling choruses that can carry for miles across the landscape."
+        "No. Its heavy polar double coat, need for hours of pulling exercise, and loud group howling make it unsuitable for apartments or warm climates.",
     },
     {
-      question: "How much exercise does a Greenland Dog need each day?",
+      question: "Why are other dog breeds banned in parts of Greenland?",
       answer:
-        "The breed requires at least 90 to 120 minutes of vigorous daily physical exertion, ideally through sled pulling, bike-joring, ski-joring, or long-distance mountain hiking in cool weather."
+        "To protect the genetic purity, health, and working culture of the indigenous Kalaallit Qimmiat, Greenlandic law prohibits bringing other domestic dog breeds into the traditional sledge-dog districts north of the Arctic Circle on the west coast and throughout East Greenland.",
     },
-    {
-      question: "Does the Greenland Dog shed a lot, and how is it groomed?",
-      answer:
-        "Yes. It has a thick Arctic double coat that sheds year-round and blows its dense undercoat heavily twice a year. It requires brushing two to three times a week with an undercoat rake, and it should never be shaved."
-    },
-    {
-      question: "What special legal status does the Greenland Dog have in Greenland?",
-      answer:
-        "To preserve the breed's ancient genetic integrity and working heritage, Greenland law strictly forbids the importation of any other domestic dog breeds into the sled dog regions north of the Arctic Circle and on the east coast."
-    },
-    {
-      question: "What health problems affect the Greenland Dog?",
-      answer:
-        "The breed is exceptionally hardy with few genetic diseases; primary health considerations include hip dysplasia, elbow dysplasia, bloat (gastric dilatation-volvulus), and minor working injuries from ice and rocks."
-    }
   ],
 
   references: [
@@ -412,16 +373,17 @@ export const greenland_dog: Breed = {
     "ukc-greenland-dog-breed-standard",
     "greenland-dog-holocene-origins-study-2020",
     "wikimedia-groenlandshund-lilly-m",
-    "wikimedia-greenland-dog-thomas-schoch"
+    "wikimedia-greenland-dog-thomas-schoch",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Official breed standards and kennel-club records do not establish a breed-specific scientific name; kept null per schema rules.",
     },
 
     alternateNames: {
@@ -430,26 +392,31 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "Standard heading: GREENLAND DOG (Grønlandshund)"
+          locator: "Standard heading: GREENLAND DOG (Grønlandshund)",
         },
         {
           id: "fci-greenland-dog-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: GRØNLANDSHUND (274), Chien du Groenland, Grönlandhund, Perro de Groenlandia"
+          locator: "Official nomenclature: GRØNLANDSHUND (274), Chien du Groenland, Grönlandhund, Perro de Groenlandia",
         },
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Racebeskrivelse: Grønlandshund, Kalaallit Qimmiat"
+          locator: "Grønlandshund, Kalaallit Qimmiat",
         },
         {
           id: "the-kennel-club-greenland-dog-breed-standard",
           role: "verified",
-          locator: "Breed name: Greenland Dog (historic name Esquimau Dog)"
-        }
+          locator: "Breed name: Greenland Dog (historical name Esquimau Dog)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Grønlandshund)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified across FCI Standard No. 274, FCI Nomenclature, DKK, and The Royal Kennel Club."
+      verifiedOn: "2026-11-17",
+      note: "Verified across FCI Standard No. 274, FCI Nomenclature, DKK, The Royal Kennel Club, and The Dog API.",
     },
 
     group: {
@@ -458,27 +425,32 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 5 Spitz and primitive types, Section 1 Nordic Sledge Dogs, without working trial"
+          locator: "FCI Classification: Group 5 Spitz and primitive types, Section 1 Nordic Sledge Dogs, without working trial",
         },
         {
           id: "fci-greenland-dog-nomenclature",
           role: "verified",
-          locator: "Group 5, Section 1 Nordic Sledge Dogs, without working trial"
+          locator: "Group 5, Section 1 Nordic Sledge Dogs, without working trial",
         },
         {
           id: "the-kennel-club-greenland-dog-breed-standard",
-          role: "verified",
-          locator: "Working Group"
+          role: "cited",
+          locator: "Working Group",
         },
         {
           id: "ukc-greenland-dog-breed-standard",
-          role: "verified",
-          locator: "Northern Breed Group"
-        }
+          role: "cited",
+          locator: "Northern Breed Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group (Working)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "Follows the Group 5, Section 1 classification without naming registries in user-facing text.",
     },
 
     origin: {
@@ -487,21 +459,26 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "ORIGIN: Greenland; PATRONAGE: Denmark; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: Greenland; PATRONAGE: Denmark",
         },
         {
           id: "fci-greenland-dog-nomenclature",
           role: "verified",
-          locator: "Country of origin: Greenland; Patronage: Denmark"
+          locator: "Country of origin: Greenland; Patronage: Denmark",
         },
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Oprindelse: Grønland (slædehundedistriktet nord for polarcirklen og Østgrønland)"
-        }
+          locator: "Oprindelse: Grønland (slædehundedistriktet nord for polarcirklen og Østgrønland)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (Greenland)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     overview: {
@@ -510,27 +487,32 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator: "Utilization, Brief historical summary, General appearance, Important proportions, Behaviour/temperament",
         },
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Historie, Amundsen sydpolsekspedition, slædehundeanvendelse og adfærd"
+          locator: "Historie, slædehundedistrikter i Grønland, og mentalitet",
         },
         {
           id: "greenland-dog-holocene-origins-study-2020",
           role: "verified",
-          locator: "9,500-year genomic lineage from Zhokhov Island to modern Greenland dogs and metabolic adaptations"
+          locator: "Sinding et al., Science 2020: 9,500-year Zhokhov Island sled-dog continuity and ~850-year isolation in Greenland",
         },
         {
           id: "the-kennel-club-greenland-dog-breed-standard",
+          role: "verified",
+          locator: "General appearance, Characteristics, and Temperament",
+        },
+        {
+          id: "the-dog-api",
           role: "cited",
-          locator: "General appearance and working characteristics"
-        }
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Synthesized in original prose from FCI Standard No. 274, DKK, and peer-reviewed genomics research without naming prohibited sources."
+        "All overview text is rewritten in 100% original wording from FCI Standard No. 274, DKK, The Royal Kennel Club, and Sinding et al. (Science 2020).",
     },
 
     physical: {
@@ -539,22 +521,27 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, LIMBS, TAIL, COAT, COLOUR, SIZE"
+          locator: "Important proportions (10:11), Head (snow nose permitted), Body, Tail, Limbs, Coat, Colour (any colour except albino), and Size",
         },
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Morfologi, krop, pels, farver og størrelse"
+          locator: "Morfologi, pels, farver og størrelse",
         },
         {
           id: "the-kennel-club-greenland-dog-breed-standard",
           role: "verified",
-          locator: "Head and Skull, Body, Coat, Colour, Size"
-        }
+          locator: "General appearance (marked contrast in size between dogs and bitches), Head, Body, Coat, Colour (merle unacceptable), and Size",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 17 generic colours including merle)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Conformation, sled dog proportions (10:11 height to length), double coat, plumed tail, and distinctive features follow official standards."
+        "Conformation, 10:11 height-to-length ratio, polar double coat, and colour rules (all colours permitted except albinism and merle) follow FCI Standard No. 274 and The Royal Kennel Club rather than The Dog API's generic colour list.",
     },
 
     "physical.height": {
@@ -563,22 +550,73 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: Males: 60 cm and upwards. Females: 55 cm and upwards."
+          locator: "SIZE: Height at withers: Males 60 cm and upwards; Females 55 cm and upwards",
         },
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Størrelse: Hanhunde: 60 cm og derover (typisk 60-68 cm); Tæver: 55 cm og derover (typisk 55-65 cm)"
+          locator: "Størrelse: Hanhunde 60 cm og derover (typisk 60–68 cm); Tæver 55 cm og derover (typisk 55–65 cm)",
+        },
+        {
+          id: "the-kennel-club-greenland-dog-breed-standard",
+          role: "conflicting",
+          locator: "Size: Height: dogs 58–68 cms (23–27 ins) at shoulder; bitches 51–61 cms (20–24 ins) at shoulder",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (Males 58–70 cm, Females 50–61 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note:
+        "Preserved in centimetres (60–68 cm for males, 55–65 cm for females) using the FCI Standard No. 274 and DKK minimums (60 cm / 55 cm) and DKK/Royal Kennel Club upper bounds; The Royal Kennel Club lists 58–68 cm / 51–61 cm and The Dog API lists 58–70 cm / 50–61 cm.",
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "dansk-kennel-klub-groenlandshund-breed-standard",
+          role: "verified",
+          locator: "Hanhunde typisk 60–68 cm",
         },
         {
           id: "the-kennel-club-greenland-dog-breed-standard",
           role: "verified",
-          locator: "Height: dogs: 60 cms (23.5 ins) minimum; bitches: 55 cms (21.5 ins) minimum"
-        }
+          locator: "Height: dogs 58–68 cms",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (70 cm)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note:
-        "Preserved in published unit of centimetres (60–68 cm for males, 55–65 cm for females, with 60 cm and 55 cm minimums) exactly as specified in FCI Standard No. 274 and DKK."
+      verifiedOn: "2026-11-17",
+      note: "Upper male height bound of 68 cm per DKK and The Royal Kennel Club; The Dog API lists 70 cm.",
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "dansk-kennel-klub-groenlandshund-breed-standard",
+          role: "verified",
+          locator: "Tæver typisk 55–65 cm",
+        },
+        {
+          id: "the-kennel-club-greenland-dog-breed-standard",
+          role: "conflicting",
+          locator: "Height: bitches 51–61 cms",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (61 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female height bound of 65 cm per DKK; The Royal Kennel Club and The Dog API list 61 cm.",
     },
 
     "physical.weight": {
@@ -587,35 +625,86 @@ export const greenland_dog: Breed = {
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Vægt: Hanhunde typisk 30-40 kg; Tæver typisk 25-35 kg"
+          locator: "Vægt: Hanhunde typisk 30–40 kg; Tæver typisk 25–35 kg",
         },
         {
           id: "the-kennel-club-greenland-dog-breed-standard",
-          role: "verified",
-          locator: "Weight: dogs approximately 34-47.5 kgs (75-105 lbs); bitches approximately 27-41 kgs (60-90 lbs)"
-        }
+          role: "conflicting",
+          locator: "Weight: dogs 34–47.5 kgs (75–105 lbs), bitches 27–41 kgs (60–90 lbs)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (30–32 kg for both sexes)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "FCI Standard No. 274 states weight must be in proportion to height. The stored 30 to 40 kg for males and 25 to 35 kg for females represent canonical weights published by the Danish breed authority, preserved in kilograms."
+        "FCI Standard No. 274 does not specify a weight range; retains the 30–40 kg (male) and 25–35 kg (female) working weight ranges from DKK, while recording The Royal Kennel Club's heavier 34–47.5 kg / 27–41 kg range and The Dog API's narrow 30–32 kg range.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "dansk-kennel-klub-groenlandshund-breed-standard",
+          role: "verified",
+          locator: "Vægt: Hanhunde typisk 30–40 kg",
+        },
+        {
+          id: "the-kennel-club-greenland-dog-breed-standard",
+          role: "conflicting",
+          locator: "Weight: dogs 34–47.5 kgs",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (32 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper male weight bound of 40 kg per DKK.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "dansk-kennel-klub-groenlandshund-breed-standard",
+          role: "verified",
+          locator: "Vægt: Tæver typisk 25–35 kg",
+        },
+        {
+          id: "the-kennel-club-greenland-dog-breed-standard",
+          role: "conflicting",
+          locator: "Weight: bitches 27–41 kgs",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (32 kg; did not separate males and females)",
+        },
+      ],
+      verifiedOn: "2026-11-17",
+      note: "Upper female weight bound of 35 kg per DKK.",
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "dansk-kennel-klub-groenlandshund-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Levealder: typisk 12-14 år"
+          locator: "breed.life_span (10–14 years)",
         },
         {
-          id: "the-kennel-club-greenland-dog-breed-standard",
-          role: "verified",
-          locator: "Longevity and health actuarial profile (12-14 years)"
-        }
+          id: "dansk-kennel-klub-groenlandshund-breed-standard",
+          role: "cited",
+          locator: "Levealder: typisk 12–14 år",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Supported by Danish and British kennel club actuarial profiles."
+      verifiedOn: "2026-11-17",
+      note: "Updated to 10–14 years from The Dog API (encompassing DKK's 12–14 year typical span).",
     },
 
     "physical.sheddingLevel": {
@@ -624,16 +713,16 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "COAT: Double coat: soft, dense undercoat and coarse, straight outer coat"
+          locator: "COAT: Double coat: soft, dense undercoat and dense, straight, coarse outer coat",
         },
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Pelspleje: kraftig fældning af underulden to gange årligt"
-        }
+          locator: "Pelspleje: kraftig fældning af underulden",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "physical.droolingLevel": {
@@ -642,16 +731,11 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "Lips: Close fitting, tight and dry"
+          locator: "Lips: thin and tight fitting",
         },
-        {
-          id: "dansk-kennel-klub-groenlandshund-breed-standard",
-          role: "verified",
-          locator: "Læber: Stramme og tørre"
-        }
       ],
-      verifiedOn: "2026-11-08",
-      note: "Tight, dry lips result in minimal drooling."
+      verifiedOn: "2026-11-17",
+      note: "Thin, tight-fitting lips produce minimal drooling.",
     },
 
     "temperament.traits": {
@@ -660,21 +744,21 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Hard-working, passionate sledge dog, friendly with people, no watchdog instinct; bold and fearless"
+          locator: "Behaviour / Temperament: energy, mental strength and boldness; passionate and tireless sledge dog; friendly towards humans; not bound to one specific person, not suitable as a guard dog; strong hunting instinct for seal and polar bear",
         },
         {
-          id: "dansk-kennel-klub-groenlandshund-breed-standard",
+          id: "the-kennel-club-greenland-dog-breed-standard",
           role: "verified",
-          locator: "Temperament: Venlig over for mennesker, stærkt flokinstinkt, jagtlyst, utrættelig arbejdsvilje"
+          locator: "Characteristics and Temperament: working sledge dog, adaptable, distinctly independent, alert and bold; sound, dignified, intelligent, good-natured, affectionate",
         },
         {
-          id: "ukc-greenland-dog-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Characteristics: Devoted working companion, independent, friendly, vocal howling"
-        }
+          locator: "breed.temperament (Independent, energetic, courageous, loyal, athletic, confident)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "temperament.scores": {
@@ -683,17 +767,17 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "cited",
-          locator: "Temperament and working characteristics"
+          locator: "Behaviour / Temperament and Utilization",
         },
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "cited",
-          locator: "Flokadfærd og sociale egenskaber"
-        }
+          locator: "Temperament og flokadfærd",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented sled dog pack temperament and working drive."
+        "Editorial 1–5 scores reflecting high energy and independence, friendliness to strangers, absence of watchdog protectiveness, and pack-hierarchy assertiveness toward unfamiliar dogs.",
     },
 
     care: {
@@ -702,17 +786,17 @@ export const greenland_dog: Breed = {
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "cited",
-          locator: "Hold af slædehunde, motion, pelspleje og fodring"
+          locator: "Aktivitetsniveau, pelspleje og slædehundehold",
         },
         {
           id: "the-kennel-club-greenland-dog-breed-standard",
           role: "cited",
-          locator: "Care, exercise, and management"
-        }
+          locator: "Working sledge dog care and exercise",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines active sled dog management with Arctic double-coat care protocols."
+        "Combines heavy pulling exercise requirements with polar double-coat and paw care.",
     },
 
     "care.exercise.level": {
@@ -721,16 +805,16 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Sledge dog built for sustained heavy endurance hauling"
+          locator: "Utilization and Behaviour: passionate and tireless sledge dog",
         },
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Aktivitetsniveau: Meget højt; kræver hårdt fysisk arbejde som træk"
-        }
+          locator: "Aktivitetsniveau: Meget højt; kræver hårdt fysisk arbejde",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
@@ -739,36 +823,26 @@ export const greenland_dog: Breed = {
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "cited",
-          locator: "Daglig træning og trækaktiviteter"
+          locator: "Daglig motion og trækarbejde",
         },
-        {
-          id: "the-kennel-club-greenland-dog-breed-standard",
-          role: "cited",
-          locator: "Exercise requirements: More than 2 hours per day"
-        }
       ],
       verifiedOn: null,
       note:
-        "Estimated 90 to 120 minutes of daily activity reflects the intense exercise demands of a heavy Arctic sled dog."
+        "Estimated 90 to 120 minutes of vigorous daily exercise in cool weather.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
-          id: "fci-greenland-dog-official-standard",
-          role: "cited",
-          locator: "High stamina sled dog with pack-howling voice"
-        },
-        {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "cited",
-          locator: "Uegnet til lejligheder; kræver stor udendørs plads og koldt klima"
-        }
+          locator: "Kræver stor udendørs plads og koldt klima",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial evaluation that high endurance, vocal howling, and cold-climate adaptation make apartment living completely unsuitable."
+        "Editorial assessment that polar coat insulation, group howling, and pulling exercise needs make apartment living unsuitable.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -777,11 +851,11 @@ export const greenland_dog: Breed = {
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Boligforhold: Kræver stor, flugtsikker indhegnet grund"
-        }
+          locator: "Boligforhold: Kræver stor, flugtsikker indhegnet grund",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.climates": {
@@ -790,16 +864,16 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "COAT: Heavy double coat designed for Arctic blizzards and extreme cold"
+          locator: "General appearance and Coat: polar spitz built for hard work under Arctic conditions with dense double coat",
         },
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Klimatilpasning: Optimalt i arktisk/nordisk klima; uegnet til varme"
-        }
+          locator: "Tilpasset arktisk klima",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-17",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -808,12 +882,12 @@ export const greenland_dog: Breed = {
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "cited",
-          locator: "Flokdyr; mistrives ved isolation"
-        }
+          locator: "Udpræget flokdyr",
+        },
       ],
       verifiedOn: null,
       note:
-        "Sled dogs are intensely pack-oriented and develop severe frustration and howling if isolated from their pack."
+        "Pack-oriented sledge dogs do poorly when kept isolated as a single dog.",
     },
 
     nutrition: {
@@ -822,30 +896,17 @@ export const greenland_dog: Breed = {
         {
           id: "greenland-dog-holocene-origins-study-2020",
           role: "cited",
-          locator: "Genetic adaptations to high-fat and high-protein Arctic marine diet"
+          locator: "Sinding et al., Science 2020: genetic adaptations to a fat-rich, starch-poor Arctic diet",
         },
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "cited",
-          locator: "Fodring af arbejdende slædehunde"
-        }
+          locator: "Fodring af arbejdende slædehunde",
+        },
       ],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for endurance sled dogs."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "dansk-kennel-klub-groenlandshund-breed-standard",
-          role: "cited",
-          locator: "Måltidsrutiner for slædehunde"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+        "General nutritional guidance for an active Arctic sled dog.",
     },
 
     "health.overview": {
@@ -854,17 +915,17 @@ export const greenland_dog: Breed = {
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Sundhed, HD-screening og racens generelle robusthed"
+          locator: "Sundhed, HD-screening og generel robusthed",
         },
         {
           id: "greenland-dog-holocene-origins-study-2020",
           role: "verified",
-          locator: "Genomic health, ancestral hardiness, and cold adaptations"
-        }
+          locator: "Long-term isolation and Arctic physiological adaptations",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Documents high overall constitutional hardiness alongside routine orthopedic screening programs."
+        "Reflects the breed's robust primitive constitution alongside orthopaedic screening and cold-climate care.",
     },
 
     "health.commonConditions": {
@@ -873,17 +934,12 @@ export const greenland_dog: Breed = {
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Höftledsdysplasi (HD), mavedrejning (GDV) og skader under slædekørsel"
+          locator: "HD/AD-screening, mavedrejning (GDV) og arbejdsskader",
         },
-        {
-          id: "the-kennel-club-greenland-dog-breed-standard",
-          role: "verified",
-          locator: "Breed health concerns: Watch categories (eyes and heat stress)"
-        }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Identifies documented breed considerations without using prohibited registry labels in prose."
+        "Distinguishes pre-breeding orthopaedic screening targets (hip and elbow dysplasia) from bloat, heat stress, and working sled injuries.",
     },
 
     "health.preventiveCare": {
@@ -892,11 +948,11 @@ export const greenland_dog: Breed = {
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "cited",
-          locator: "Potevård, varmebeskyttelse og sundhedsråd"
-        }
+          locator: "Potepleje, varmebeskyttelse og sundhed",
+        },
       ],
       verifiedOn: null,
-      note: "Field hygiene protocol tailored to working sled dogs."
+      note: "Preventive care guidance for an Arctic working sled dog.",
     },
 
     "health.recommendedScreenings": {
@@ -905,12 +961,12 @@ export const greenland_dog: Breed = {
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Avelskrav: HD-røntgen og øjenlysning"
-        }
+          locator: "HD/AD-røntgen og øjenlysning",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "Pre-breeding evaluations recommended by the national breed authority."
+        "Pre-breeding orthopaedic and ophthalmic evaluations recommended by the patronage kennel club.",
     },
 
     "health.dentalCare": {
@@ -919,11 +975,11 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: complete, powerful 42-tooth scissor bite"
-        }
+          locator: "Jaws/Teeth: strong jaws with regular and complete scissor bite",
+        },
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine dental hygiene guidance.",
     },
 
     "health.earCare": {
@@ -932,11 +988,11 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "cited",
-          locator: "Ears: small, triangular, erect with rounded tips"
-        }
+          locator: "Ears: rather small, triangular, with rounded tips, carried firmly erect",
+        },
       ],
       verifiedOn: null,
-      note: "Ear maintenance protocol for small erect ears."
+      note: "Routine ear care guidance for small erect ears.",
     },
 
     "health.skinCare": {
@@ -945,53 +1001,53 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "cited",
-          locator: "Skin and coat structure"
-        }
+          locator: "Coat: double coat with dense undercoat and coarse outer coat",
+        },
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: "Seasonal undercoat raking and skin inspection guidance.",
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
         {
-          id: "dansk-kennel-klub-groenlandshund-breed-standard",
-          role: "cited",
-          locator: "Krav til hundeejeren: Erfaring med slædehunde og flokdynamik påkrævet"
-        },
-        {
           id: "fci-greenland-dog-official-standard",
           role: "cited",
-          locator: "Utilization and working temperament"
-        }
+          locator: "Utilization and Behaviour / Temperament",
+        },
+        {
+          id: "dansk-kennel-klub-groenlandshund-breed-standard",
+          role: "cited",
+          locator: "Krav til hundeejeren",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability flags and lists reflect editorial evaluations of sled dog exercise needs and pack drives."
+        "Editorial suitability evaluations based on Arctic climate needs, heavy pulling drive, and pack behaviour.",
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "dansk-kennel-klub-groenlandshund-breed-standard",
-          role: "verified",
-          locator: "Amundsen 1911 sydpolsekspedition, lovbeskyttelse i Grønland mod andre racer, slædefart"
-        },
-        {
           id: "greenland-dog-holocene-origins-study-2020",
           role: "verified",
-          locator: "9,500-year Zhokhov island sled dog genetic continuity, high-fat diet adaptations"
+          locator: "Sinding et al., Science 2020: 9,500-year Zhokhov Island sled-dog continuity, ~850-year isolation in Greenland, and fat-rich diet / cold hypoxia adaptations",
+        },
+        {
+          id: "dansk-kennel-klub-groenlandshund-breed-standard",
+          role: "verified",
+          locator: "Kalaallit Qimmiat name and legal ban on importing other dog breeds into Greenland's sled-dog districts",
         },
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Ancient Inuit Arctic survival role"
-        }
+          locator: "Behaviour / Temperament (not suitable as a guard dog) and Nose (winter 'snow nose' permitted)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified historical and functional facts written without prohibited names."
+      verifiedOn: "2026-11-17",
+      note: "Verified against Sinding et al. (Science 2020), DKK, and FCI Standard No. 274.",
     },
 
     faq: {
@@ -1000,24 +1056,29 @@ export const greenland_dog: Breed = {
         {
           id: "fci-greenland-dog-official-standard",
           role: "verified",
-          locator: "Origin, size (60+ cm / 55+ cm), coat, and colors"
+          locator: "Origin, size (60+ cm males, 55+ cm females), coat, colours, and lack of guard instinct",
         },
         {
           id: "dansk-kennel-klub-groenlandshund-breed-standard",
           role: "verified",
-          locator: "Vægt (30-40 kg / 25-35 kg), levealder (12-14 år), slædehundehold og lovbeskyttelse"
+          locator: "Weight (30–40 kg males, 25–35 kg females), Kalaallit Qimmiat, and legal protection in Greenland",
         },
         {
-          id: "greenland-dog-holocene-origins-study-2020",
+          id: "the-kennel-club-greenland-dog-breed-standard",
           role: "verified",
-          locator: "Arctic genetics and dietary physiology"
-        }
+          locator: "Colour (merle unacceptable) and marked size contrast between sexes",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span (10–14 years)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-17",
       note:
-        "FAQ answers synthesize verified standards and parent-club guidance without naming registries in prose."
-    }
+        "FAQ answers synthesise verified FCI, DKK, Royal Kennel Club, and The Dog API facts without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-11-08"
+  updatedOn: "2026-11-17",
 };
