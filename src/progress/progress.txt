@@ -141,9 +141,10 @@
 138:hamiltonstovare - CG
 139:basset_hound - CG
 140:greenland_dog - CG
+141:estrela_mountain_dog - CG
 
-141:estrela_mountain_dog - C
-142:west_highland_white_terrier - C
+142:west_highland_white_terrier - CR
+
 143:patterdale_terrier - C
 144:istrian_coarse-haired_hound - C
 145:appenzeller_sennenhund - C
@@ -216,10 +217,11 @@
 212:border_collie - C
 213:pont-audemer_spaniel - C
 214:jamthund - C
+215:bedlington_terrier - C
+216:thai_ridgeback - C
 
-215:bedlington_terrier
-216:thai_ridgeback
-217:german_shorthaired_pointer
+217:german_shorthaired_pointer - R
+
 218:galgo_espanol
 219:chien_francais_blanc_et_noir
 220:poitevin

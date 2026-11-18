@@ -12928,23 +12928,23 @@
     },
     "estrela-mountain-dog-cardiac-health-study-2019": {
       "id": "estrela-mountain-dog-cardiac-health-study-2019",
-      "name": "Echocardiographic Reference Values and Screening in Portuguese Mountain Breeds (Veterinary Cardiology)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/30852179/",
+      "name": "Dilated Cardiomyopathy and Sinoatrial Dysfunction in an Estrela Mountain Dog (JAAHA 2012)",
+      "publisher": "Journal of the American Animal Hospital Association / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22186722/",
       "type": "scientific",
-      "publishedOn": "2019-02-15",
-      "accessedOn": "2026-11-08",
-      "note": "Peer-reviewed veterinary cardiology study evaluating echocardiographic parameters and screening for dilated cardiomyopathy in Portuguese mountain guardian dogs including the Cão da Serra da Estrela.",
-      "publisher": "Journal of Veterinary Cardiology / PubMed"
+      "publishedOn": "2012-01-15",
+      "accessedOn": "2026-11-18",
+      "note": "Peer-reviewed veterinary cardiology study (Lobo et al., J Am Anim Hosp Assoc 2012;48(1):54-59, PMID 22186722) documenting dilated cardiomyopathy and sinoatrial conduction dysfunction in the Estrela Mountain Dog via echocardiography and electrocardiography."
     },
     "wikimedia-cao-da-serra-da-estrela-600-tomasz-sienicki": {
       "id": "wikimedia-cao-da-serra-da-estrela-600-tomasz-sienicki",
-      "name": "Wikimedia Commons - File:Cao da Serra da Estrela 600.jpg",
-      "url": "https://commons.wikimedia.org/wiki/File:Cao_da_Serra_da_Estrela_600.jpg",
+      "name": "Wikimedia Commons - File:Cão da Serra da Estrela.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:C%C3%A3o_da_Serra_da_Estrela.jpg",
       "type": "other",
-      "publishedOn": "2006-05-21",
-      "accessedOn": "2026-11-08",
-      "note": "Photograph of an adult long-haired Estrela Mountain Dog by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-      "publisher": "Wikimedia Commons"
+      "publishedOn": "2008-08-19",
+      "accessedOn": "2026-11-18",
+      "note": "High-resolution photograph (3568 x 2368 px) of an adult long-haired Estrela Mountain Dog outdoors by Tiagopmartins (uploaded 2008-08-19). Licensed under CC BY-SA 3.0 on Wikimedia Commons."
     },
     "fci-west-highland-white-terrier-official-standard": {
       "id": "fci-west-highland-white-terrier-official-standard",
@@ -19252,6 +19252,136 @@
       "publishedOn": "2009-04-19",
       "accessedOn": "2026-11-17",
       "note": "Photograph (1632 x 1178 px) featuring a Jämthund in profile by Anka Friedrich (derivative of original work by Jörgen Blom, uploaded 2009-04-19). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+      "publisher": "Wikimedia Commons"
+    },
+    "akc-bedlington-terrier-breed-standard": {
+      "id": "akc-bedlington-terrier-breed-standard",
+      "name": "American Kennel Club - Official Standard of the Bedlington Terrier",
+      "url": "https://images.akc.org/pdf/breeds/standards/BedlingtonTerrier.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "1967-09-12",
+      "accessedOn": "2026-11-18",
+      "note": "Official AKC breed standard (Terrier Group, approved September 12, 1967) establishing height (males 16-17.5 inches, females 15-16.5 inches), weight (17-23 pounds), pear-shaped head without stop, linty crisp coat, and lithe galloping build.",
+      "publisher": "American Kennel Club"
+    },
+    "akc-bedlington-terrier-breed-profile": {
+      "id": "akc-bedlington-terrier-breed-profile",
+      "name": "American Kennel Club - Bedlington Terrier Dog Breed Information",
+      "url": "https://www.akc.org/dog-breeds/bedlington-terrier/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-18",
+      "note": "Official AKC breed profile covering English history, Rothbury Terrier nickname, 'head of a lamb and heart of a lion' descriptor, lifespan (12-14 years), apartment adaptability, extreme speed, and Copper Toxicosis health notes.",
+      "publisher": "American Kennel Club"
+    },
+    "ofa-bedlington-terrier-chic-requirements": {
+      "id": "ofa-bedlington-terrier-chic-requirements",
+      "name": "Orthopedic Foundation for Animals - Bedlington Terrier CHIC Requirements",
+      "url": "https://ofa.org/chic-programs/browse-by-breed/?breed=BED",
+      "type": "veterinary",
+      "publishedOn": null,
+      "accessedOn": "2026-11-18",
+      "note": "Official OFA Canine Health Information Center (CHIC) testing requirements for the Bedlington Terrier, mandating CAER Eye examination, Clinical Patellar Luxation, and a DNA test for Copper Toxicosis (CT - BED).",
+      "publisher": "Orthopedic Foundation for Animals"
+    },
+    "wikimedia-bedlington-terrier-jeffrey-beall": {
+      "id": "wikimedia-bedlington-terrier-jeffrey-beall",
+      "name": "Wikimedia Commons - File:Bedlington Terrier.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Bedlington_Terrier.jpg",
+      "type": "other",
+      "publishedOn": "2012-07-13",
+      "accessedOn": "2026-11-18",
+      "note": "High-resolution photograph (4143 x 3228 px) of a Bedlington Terrier standing outdoors in profile by Jeffrey Beall (captured 2012-02-18, uploaded by Ltshears 2012-07-13). Licensed under CC BY-SA 2.0 on Wikimedia Commons.",
+      "publisher": "Wikimedia Commons"
+    },
+    "wikimedia-bedlington-terrier-david-owsiany": {
+      "id": "wikimedia-bedlington-terrier-david-owsiany",
+      "name": "Wikimedia Commons - File:Bedlington terrier.jpeg",
+      "url": "https://commons.wikimedia.org/wiki/File:Bedlington_terrier.jpeg",
+      "type": "other",
+      "publishedOn": "2009-07-29",
+      "accessedOn": "2026-11-18",
+      "note": "Photograph (2816 x 2120 px) featuring two Bedlington Terriers resting on the grass by David Owsiany (captured and uploaded 2009-07-29). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+      "publisher": "Wikimedia Commons"
+    },
+    "the-kennel-club-estrela-mountain-dog-standard": {
+      "id": "the-kennel-club-estrela-mountain-dog-standard",
+      "name": "The Royal Kennel Club - Estrela Mountain Dog Breed Standard",
+      "publisher": "The Royal Kennel Club",
+      "url": "https://www.royalkennelclub.com/breed-standards/pastoral/estrela-mountain-dog/",
+      "type": "official_breed_standard",
+      "publishedOn": "2025-04-01",
+      "accessedOn": "2026-11-18",
+      "note": "Official Royal Kennel Club breed standard (Pastoral Group, updated April 2025) covering mastiff-type livestock-guardian conformation, small rose-shaped ears, hooked tail tip, coarse goat-hair-textured short and long coat varieties, and height (dogs 65-72 cm, bitches 62-68 cm, +4 cm tolerance)."
+    },
+    "estrela-mountain-dog-hip-dysplasia-study-2008": {
+      "id": "estrela-mountain-dog-hip-dysplasia-study-2008",
+      "name": "Early Hip Laxity Examination in Predicting Moderate and Severe Hip Dysplasia in Estrela Mountain Dog (J Small Anim Pract 2008)",
+      "publisher": "Journal of Small Animal Practice / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18684138/",
+      "type": "scientific",
+      "publishedOn": "2008-12-15",
+      "accessedOn": "2026-11-18",
+      "note": "Peer-reviewed clinical study (Ginja et al., J Small Anim Pract 2008;49(12):641-646, PMID 18684138) evaluating early passive hip laxity between 4 and 12 months and adult radiographic hip scoring in 104 Estrela Mountain Dogs."
+    },
+    "estrela-mountain-dog-hip-genetics-study-2007": {
+      "id": "estrela-mountain-dog-hip-genetics-study-2007",
+      "name": "Comparison of Estimates of Hip Dysplasia Genetic Parameters in Estrela Mountain Dog Using Linear and Threshold Models (J Anim Sci 2007)",
+      "publisher": "Journal of Animal Science / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17468417/",
+      "type": "scientific",
+      "publishedOn": "2007-08-15",
+      "accessedOn": "2026-11-18",
+      "note": "Peer-reviewed genetic study (Silvestre et al., J Anim Sci 2007;85(8):1880-1884, PMID 17468417) analyzing radiographic hip scores in 313 Estrela Mountain Dogs and estimating moderate-to-high heritability (0.38-0.43)."
+    },
+    "wikimedia-estrela-mountain-dog-6-month-male": {
+      "id": "wikimedia-estrela-mountain-dog-6-month-male",
+      "name": "Wikimedia Commons - File:Estrela Mountain Dog 6 month old male.jpg",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Estrela_Mountain_Dog_6_month_old_male.jpg",
+      "type": "other",
+      "publishedOn": "2007-05-16",
+      "accessedOn": "2026-11-18",
+      "note": "Photograph (736 x 541 px) of a six-month-old fawn male Estrela Mountain Dog by Tracey Conner (Traceywashere), uploaded 2007-05-16. Licensed under CC BY-SA 3.0 on Wikimedia Commons."
+    },
+    "fci-thai-ridgeback-official-standard": {
+      "id": "fci-thai-ridgeback-official-standard",
+      "name": "FCI - Thai Ridgeback Dog Official Breed Standard No. 338",
+      "url": "https://www.fci.be/Nomenclature/Standards/338g05-en.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2004-02-25",
+      "accessedOn": "2026-11-18",
+      "note": "Official English FCI Standard No. 338 (valid standard dated 2003-05-26, published 2004-02-25). Covers Thailand origin, Group 5 Spitz and primitive types, Section 7 Primitive Type-Hunting Dogs classification without working trial, distinctive back ridge, spotted tongue, withers height (males 22-24 inches, females 20-22 inches, 1 inch tolerance).",
+      "publisher": "Fédération Cynologique Internationale"
+    },
+    "fci-thai-ridgeback-nomenclature": {
+      "id": "fci-thai-ridgeback-nomenclature",
+      "name": "FCI - Thai Ridgeback Breed Nomenclature (No. 338)",
+      "url": "https://www.fci.be/en/nomenclature/THAI-RIDGEBACK-DOG-338.html",
+      "type": "official_breed_standard",
+      "publishedOn": "2004-02-25",
+      "accessedOn": "2026-11-18",
+      "note": "Official FCI breed nomenclature record confirming Thailand as country of origin, Group 5 Section 7 classification without working trial, definitive recognition date (2003-05-26), and official multilingual name (Thai Ridgeback Dog).",
+      "publisher": "Fédération Cynologique Internationale"
+    },
+    "akc-thai-ridgeback-breed-profile": {
+      "id": "akc-thai-ridgeback-breed-profile",
+      "name": "American Kennel Club - Thai Ridgeback Dog Breed Information",
+      "url": "https://www.akc.org/dog-breeds/thai-ridgeback/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-18",
+      "note": "Official AKC breed profile (Foundation Stock Service) covering ancient Thai origins, weight (35-75 pounds), lifespan (14-15 years), temperament, and grooming.",
+      "publisher": "American Kennel Club"
+    },
+    "wikimedia-thai-ridgeback-dog-canarian": {
+      "id": "wikimedia-thai-ridgeback-dog-canarian",
+      "name": "Wikimedia Commons - File:Thai Ridgeback Dog.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Thai_Ridgeback_Dog.jpg",
+      "type": "other",
+      "publishedOn": "2016-09-03",
+      "accessedOn": "2026-11-18",
+      "note": "Photograph (590 x 600 px) of a female blue Thai Ridgeback standing outdoors by Canarian (captured and uploaded 2016-09-03). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
       "publisher": "Wikimedia Commons"
     }
   },
@@ -44182,6 +44312,719 @@
         }
       },
       "updatedOn": "2026-11-13"
+    },
+    {
+      "slug": "bedlington-terrier",
+      "name": "Bedlington Terrier",
+      "scientificName": "Canis lupus familiaris",
+      "alternateNames": [
+        "Rothbury Terrier",
+        "Rodbery Terrier"
+      ],
+      "group": "Terriers (classified in the Terrier group by major national registries)",
+      "origin": {
+        "country": "Great Britain",
+        "region": "Bedlington, Northumberland, England"
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bedlington_Terrier.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bedlington_Terrier.jpg",
+          "title": "Bedlington Terrier.jpg",
+          "description": "A profile view of a Bedlington Terrier standing outdoors, clearly showcasing its unique arched back, pear-shaped head, and distinctive linty coat.",
+          "creator": "Jeffrey Beall",
+          "uploader": "Ltshears",
+          "capturedOn": "2012-02-18",
+          "uploadedOn": "2012-07-13",
+          "width": 4143,
+          "height": 3228,
+          "licenseId": "cc-by-sa-2.0",
+          "attribution": "Photo by Jeffrey Beall, Wikimedia Commons, CC BY-SA 2.0. Source: https://commons.wikimedia.org/wiki/File:Bedlington_Terrier.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-11-18"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bedlington_terrier.jpeg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bedlington_terrier.jpeg",
+          "title": "Bedlington terrier.jpeg",
+          "description": "Two Bedlington Terriers resting on the grass, highlighting their mild resting expression, distinctive topknots, and tasseled drop ears.",
+          "creator": "David Owsiany",
+          "uploader": "David Owsiany",
+          "capturedOn": "2009-07-29",
+          "uploadedOn": "2009-07-29",
+          "width": 2816,
+          "height": 2120,
+          "licenseId": "cc-by-sa-4.0",
+          "attribution": "Photo by David Owsiany, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Bedlington_terrier.jpeg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-11-18"
+        }
+      ],
+      "overview": {
+        "summary": "A graceful, highly agile, and unique terrier from Northern England, famous for its deceptive lamb-like appearance, crisp linty coat, and lightning-fast galloping speed.",
+        "description": "The Bedlington Terrier presents a remarkably unique, graceful, and lithe silhouette that gives it the gentle, innocent appearance of a lamb. However, beneath its distinctive linty coat lies a robust, muscular, and highly agile terrier built for endurance and immense speed. The breed features a narrow, deep, and rounded pear-shaped head with absolutely no stop, topped with a soft, silky topknot that is lighter than the body color. Its eyes are small, almond-shaped, and deeply set, conveying a mild and gentle expression when at rest, but sparkling with fierce courage when aroused. Triangular drop ears hang flat to the cheeks and end in distinctive silky tassels. The back features a good natural arch over the loin, creating a definite tuck-up similar to a sighthound, enabling a light, springy, and remarkably fast galloping gait. Covered in a crisp, woolly mixture of hard and soft hair, the Bedlington is a loyal, affectionate, and easygoing companion that immediately transforms into a tenacious and athletic working dog when tasked.",
+        "history": "The Bedlington Terrier originated in the early nineteenth century in the rugged mining town of Bedlington in Northumberland, England. Initially known as the Rothbury Terrier or Rodbery Terrier, the breed was developed by local miners and nail makers who required a tough, versatile working dog capable of exterminating vermin in the pitch-black mines, dispatching badgers and foxes, and poaching rabbits with incredible speed. To achieve this highly unusual combination of terrier grit and sighthound fleetness, early breeders are widely believed to have crossed local rough-coated working terriers with the Whippet and possibly the Dandie Dinmont Terrier. The first dogs officially bearing the name 'Bedlington Terrier' were recorded around 1825. As the breed's elegant conformation caught the eye of dog enthusiasts, a dedicated breed club was established in England in 1875. Today, its striking, refined appearance makes it an unmistakable star in the conformation show ring, while its famously affectionate and mild nature endears it to families worldwide.",
+        "originalPurpose": "Exterminating vermin in coal mines, ratting, and hunting badgers, foxes, and rabbits with immense speed.",
+        "currentRoles": [
+          "Devoted household companion",
+          "Prestigious conformation show competitor",
+          "Canine athlete in agility, earthdog, and racing trials",
+          "Allergy-friendly indoor pet"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Small to medium",
+        "height": {
+          "unit": "in",
+          "male": {
+            "min": 16,
+            "max": 17.5
+          },
+          "female": {
+            "min": 15,
+            "max": 16.5
+          }
+        },
+        "weight": {
+          "unit": "lb",
+          "male": {
+            "min": 17,
+            "max": 23
+          },
+          "female": {
+            "min": 17,
+            "max": 23
+          }
+        },
+        "lifespanYears": {
+          "min": 12,
+          "max": 14
+        },
+        "coatType": "A very distinctive, crisp mixture of hard and soft hair standing well out from the skin. It is completely described as 'linty'—crisp to the touch but not wiry—with a strong tendency to curl, especially on the head and face.",
+        "coatLength": "Medium",
+        "coatColors": [
+          "Blue",
+          "Sandy",
+          "Liver",
+          "Blue and tan",
+          "Sandy and tan",
+          "Liver and tan",
+          "The silky topknot is always lighter than the darker body pigmentation"
+        ],
+        "sheddingLevel": "Low; the crisp, linty coat sheds virtually nothing, trapping dead hairs within the curls, making the breed highly suitable for allergy sufferers",
+        "droolingLevel": "Low; close-fitting lips completely lacking flews prevent any excessive drooling",
+        "distinctiveFeatures": [
+          "Pear-shaped, deep, and rounded head with absolutely no stop between the skull and the muzzle",
+          "Height at the withers strictly maintained between 16 and 17.5 inches for males, and 15 and 16.5 inches for females",
+          "Weight proportionate to height, maintaining a lithe, athletic frame between 17 and 23 pounds",
+          "Crisp, linty double coat featuring a distinctive lighter topknot on the crown of the head",
+          "Triangular drop ears with rounded tips, ending in a distinct silky tassel of fine hair",
+          "Deep chest with a definite tuck-up of the underline and a natural arch over the loin, closely resembling a sighthound",
+          "Low-set, scimitar-shaped tail tapering to a point, never carried over the back",
+          "Hind legs that are visibly longer than the straight forelegs, contributing to immense galloping speed",
+          "Small, almond-shaped, deeply set eyes that are mild in repose but fiercely alert when aroused"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Mild, gentle, and highly affectionate when relaxing indoors in repose",
+          "Full of immense energy, courage, and terrier tenacity when aroused or working",
+          "Alert, energetic, and speedy, making an excellent and observant watchdog",
+          "Playful, eager to please, and highly devoted to its human family, acting as a 'champion cuddler'",
+          "Can be dog-selective or feisty if challenged by other dogs, typical of its terrier heritage",
+          "Retains a very high prey drive toward small running animals, requiring supervision outdoors",
+          "Highly intelligent and athletic, possessing the incredible galloping speed and agility of a sighthound"
+        ],
+        "scores": {
+          "affection": 5,
+          "withChildren": 4,
+          "withDogs": 3,
+          "withStrangers": 3,
+          "protectiveness": 3,
+          "independence": 3,
+          "trainability": 4,
+          "barking": 3,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "High; despite their calm indoor demeanor, they are deeply athletic terriers with sighthound blood that require rigorous daily running to remain physically and mentally sound",
+          "minutesPerDay": {
+            "min": 45,
+            "max": 60
+          },
+          "activities": [
+            "Brisk daily neighborhood walks on a secure leash",
+            "Free galloping in a highly secure, fully fenced yard (they are incredibly fast and will chase prey)",
+            "Canine sports including agility, lure coursing, and earthdog trials",
+            "Interactive indoor games such as fetch or hide-and-seek"
+          ]
+        },
+        "grooming": {
+          "level": "High",
+          "brushing": "Brush thoroughly every day or two using a slicker brush and a metal comb to prevent severe matting in the crisp, linty curls.",
+          "bathing": "Bathe monthly using a gentle, moisturizing canine shampoo, ensuring the coat is rinsed entirely to prevent skin irritation.",
+          "notes": [
+            "The breed requires specific, time-consuming professional trimming every six to eight weeks to maintain the classic arched body silhouette, pear-shaped head, and ear tassels.",
+            "Tear stains may occasionally appear on the lighter facial fur and should be wiped daily with a warm, damp cloth.",
+            "Inspect the tasseled drop ears weekly for wax buildup or moisture, cleaning gently to prevent infections.",
+            "Trim fast-growing nails every two weeks to support their light, springy gait.",
+            "Brush teeth several times weekly using canine enzymatic toothpaste."
+          ]
+        },
+        "training": {
+          "difficulty": "Moderate; highly intelligent and eager to please, but retains a stubborn terrier streak that requires consistent, engaging leadership",
+          "tips": [
+            "Use exclusively positive, reward-based training with high-value treats and enthusiastic verbal praise.",
+            "They are sensitive to tone; harsh physical or verbal corrections will cause them to shut down or become defensive.",
+            "Begin impulse-control training early to manage their high prey drive toward squirrels, cats, and birds.",
+            "Socialize them extensively with other dogs during puppyhood to mitigate their natural terrier tendency toward dog-selectivity.",
+            "Never trust them off-leash in an unfenced area; their sighthound speed and prey drive make them nearly impossible to catch if they bolt."
+          ],
+          "socialization": "Introduce the puppy early, gradually, and positively to varied people, friendly dogs, and novel environments. Proper exposure prevents their natural alertness from developing into nervous reactivity."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": true,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Temperate climates",
+            "Cool climates, where their crisp, woolly coat provides reasonable insulation",
+            "Warm climates, provided they have access to air conditioning, ample shade, and fresh water, and exercise is restricted to cooler hours"
+          ],
+          "aloneTimeTolerance": "Low to moderate; they bond intensely with their human family and thrive on physical contact, heavily preferring to claim the softest furniture indoors alongside their owners. They can experience separation anxiety if left isolated outdoors or in a kennel."
+        }
+      },
+      "nutrition": {
+        "dietType": "High-quality complete and balanced dog food formulated for small to medium active breeds.",
+        "feedingFrequency": {
+          "puppy": "Three to four measured small meals daily until six months of age to support steady growth.",
+          "adult": "Two measured meals daily to support steady digestion and energy.",
+          "senior": "Two portion-controlled meals daily adapted for lower metabolic output and joint support."
+        },
+        "guidelines": "Measure daily rations strictly using a digital kitchen scale or standard measuring cup. The breed must maintain a sleek, tucked-up silhouette; obesity ruins its characteristic sighthound-like arch and places severe strain on the back and joints. Provide cool, clean drinking water continuously.",
+        "considerations": [
+          "Maintain a strictly lean, well-muscled body condition to support their immense galloping speed and protect their patellas.",
+          "Account for all training treats within the total daily caloric allowance.",
+          "Because of a well-documented genetic predisposition to Copper Toxicosis, dogs that are genetically affected or carriers may require a specialized low-copper diet and strictly distilled water as guided by a veterinarian.",
+          "Transition between diet formulas gradually over five to seven days to prevent gastrointestinal upset."
+        ],
+        "note": "Caloric needs vary significantly based on age, metabolism, and daily activity. Consult a veterinarian to establish tailored daily feeding guidelines."
+      },
+      "health": {
+        "overview": "The Bedlington Terrier is generally a very healthy and long-lived breed, boasting a typical lifespan of 12 to 14 years. However, the breed is internationally known for a severe, breed-specific genetic vulnerability to Copper Toxicosis, a liver disease. Thanks to mandatory DNA testing implemented by dedicated breeding programs, the incidence of this disease has been drastically reduced. Primary health priorities focus on maintaining liver health and monitoring for orthopedic and ocular conditions common to small terriers.",
+        "commonConditions": [
+          "Copper Toxicosis (CT - BED) — an inherited autosomal recessive metabolic defect causing the liver to improperly accumulate dietary copper, leading to fatal liver failure if untreated; completely screenable via DNA testing",
+          "Patellar luxation — intermittent displacement of the kneecap from the femoral groove, causing a 'skipping' gait and potential long-term arthritis",
+          "Retinal Dysplasia — a significant concern involving abnormal development of the retina that can cause total blindness, monitored through annual specialist eye exams",
+          "Renal Dysplasia — an inherited developmental defect of the kidneys that can lead to early-onset renal failure",
+          "Skin allergies — environmental or food sensitivities that can cause itchy skin, hot spots, or coat dullness"
+        ],
+        "preventiveCare": [
+          "Strictly confirm that breeding stock has certified DNA clearances for Copper Toxicosis to ensure puppies are not affected by this fatal liver disease.",
+          "If a dog is identified as a Copper Toxicosis carrier or is affected, work closely with a veterinarian to implement a specialized low-copper diet and utilize distilled water.",
+          "Maintain a lean, athletic weight to minimize mechanical stress on the knees (patellas).",
+          "Schedule annual veterinary wellness examinations, including blood panels to monitor liver and kidney function, vaccinations, and routine health checks."
+        ],
+        "recommendedScreenings": [
+          "DNA marker test for Copper Toxicosis (CT - BED)",
+          "Clinical patellar luxation orthopedic evaluation by a veterinarian",
+          "Annual ophthalmic examination by a board-certified veterinary ophthalmologist (CAER)",
+          "Basic cardiac evaluation"
+        ],
+        "dentalCare": "Brush teeth daily using canine enzymatic toothpaste. Like many terriers, they are prone to plaque accumulation; schedule regular professional veterinary dental cleanings to prevent early tooth loss.",
+        "earCare": "Inspect the tasseled drop ears weekly for dirt, wax buildup, or redness. Clean gently using a veterinarian-recommended ear solution, paying close attention as the heavy ear flap restricts air circulation.",
+        "skinCare": "Part the crisp, linty coat weekly during brushing to inspect the skin for external parasites or irritation. Use a gentle, moisturizing shampoo during baths to prevent the skin from drying out beneath the dense curls."
+      },
+      "suitability": {
+        "firstTimeOwners": true,
+        "familiesWithChildren": true,
+        "seniorOwners": true,
+        "activeOwners": true,
+        "apartmentLiving": true,
+        "idealFor": [
+          "Allergy sufferers seeking a highly hypoallergenic, low-shedding indoor companion",
+          "Active families looking for a versatile, playful sporting dog capable of participating in agility or racing",
+          "Apartment dwellers who can commit to providing vigorous daily leashed walks and indoor playtime",
+          "Owners willing to invest the time or financial resources into regular, specialized professional grooming",
+          "Individuals seeking a calm, cuddly indoor pet that transforms into a fierce athlete outdoors"
+        ],
+        "notIdealFor": [
+          "Homes with small pet rodents, rabbits, or birds, given the breed's extreme, hardwired terrier prey drive",
+          "Owners unwilling to commit to expensive or time-consuming professional grooming every six to eight weeks",
+          "Passive owners seeking a lazy, low-energy lap dog that requires no outdoor exercise",
+          "People seeking a fierce territorial guard dog or an outdoor-only pet"
+        ]
+      },
+      "funFacts": [
+        "The breed is frequently described by fanciers as having the 'head of a lamb and the heart of a lion' because their innocent, gentle appearance completely masks their fierce terrier grit.",
+        "The breed was originally called the Rothbury Terrier, named after the district of Rothbury on the English border, before eventually taking the name of the nearby mining town of Bedlington.",
+        "To achieve their unique roached back and incredible galloping speed, early miners and breeders are widely believed to have crossed local rough-coated terriers with Whippets.",
+        "Bedlington Terrier puppies are actually born with dark coats (often dark brown or black) that gradually lighten and clear to their adult blue, sandy, or liver colors as they mature.",
+        "The Bedlington Terrier Club was established in England in 1875, making it one of the oldest formalized canine breed clubs in history."
+      ],
+      "faq": [
+        {
+          "question": "What is a Bedlington Terrier?",
+          "answer": "The Bedlington Terrier is a graceful, highly agile small-to-medium terrier from Northern England, famous for its deceptive lamb-like appearance, crisp linty coat, pear-shaped head, and extremely fast galloping speed."
+        },
+        {
+          "question": "How tall and heavy is a Bedlington Terrier?",
+          "answer": "Adult males stand 16 to 17.5 inches at the withers, and females stand 15 to 16.5 inches. Both sexes are kept in lithe, muscular condition and typically weigh between 17 and 23 pounds."
+        },
+        {
+          "question": "How long does a Bedlington Terrier live?",
+          "answer": "With proper nutrition, regular exercise, and preventive veterinary care, the breed is very healthy and typically enjoys a lifespan of 12 to 14 years."
+        },
+        {
+          "question": "Do Bedlington Terriers shed a lot, and how are they groomed?",
+          "answer": "They are extremely low shedders and are widely considered hypoallergenic. However, their crisp, linty coat requires rigorous daily brushing to prevent severe matting, along with professional clipping every six to eight weeks."
+        },
+        {
+          "question": "Can a Bedlington Terrier live in an apartment?",
+          "answer": "Yes, they make exceptional apartment dogs. Because they are notoriously calm and cuddly indoors, they adapt wonderfully to smaller spaces, provided they receive a rigorous daily walk or run outside."
+        },
+        {
+          "question": "Are Bedlington Terriers good with children?",
+          "answer": "Yes, they are exceptionally playful, affectionate, and even-tempered, making them wonderful family companions for respectful children."
+        },
+        {
+          "question": "Do Bedlington Terriers get along with other pets?",
+          "answer": "They can coexist with other dogs if properly socialized, though they can be feisty if challenged. Due to their extreme terrier prey drive and sighthound speed, they are dangerous around small pets like rabbits or hamsters."
+        },
+        {
+          "question": "What are the main health concerns for a Bedlington Terrier?",
+          "answer": "The most critical health concern is a breed-specific genetic liver disease called Copper Toxicosis. Responsible breeders use DNA testing to eliminate this disease. Other concerns include slipping kneecaps (patellar luxation) and retinal dysplasia."
+        }
+      ],
+      "references": [
+        "akc-bedlington-terrier-breed-standard",
+        "akc-bedlington-terrier-breed-profile",
+        "ofa-bedlington-terrier-chic-requirements",
+        "wikimedia-bedlington-terrier-jeffrey-beall",
+        "wikimedia-bedlington-terrier-david-owsiany"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "unverified",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        },
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "History: Rothbury Terrier"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Historical names verified via AKC profile history sections."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "verified",
+              "locator": "Terrier Group"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "User-facing group classification formulated without prohibited registry names per Rule 5."
+        },
+        "origin": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "History: Bedlington, England"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": null
+        },
+        "overview": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "verified",
+              "locator": "General Appearance, Head, Body, Coat"
+            },
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "About the Breed, History, and Roles"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Synthesized in original prose from AKC official records."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "verified",
+              "locator": "General Appearance, Size, Proportion, Substance, Head, Coat, Color, Gait"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Conformation, linty crisp coat, pear-shaped head without stop, and arched loin follow official standards."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "verified",
+              "locator": "Height: The preferred Bedlington Terrier dog measures 16½ inches at the withers, the bitch 15½ inches. Under 16 inches or over 17½ inches for dogs and under 15 inches or over 16½ inches for bitches are serious faults."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Preserved in published unit of inches (16 to 17.5 inches for males, 15 to 16.5 inches for females, utilizing the stated fault limits to establish the correct range) exactly as specified in the official AKC standard."
+        },
+        "physical.weight": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "verified",
+              "locator": "Weight: To be proportionate to height within the range of 17 to 23 pounds."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Preserved in published unit of pounds (17 to 23 pounds) exactly as specified in the official AKC standard."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "Life Expectancy: 12-14 years"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Supported by kennel club actuarial profiles."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "verified",
+              "locator": "Coat: Crisp to the touch but not wiry, having a tendency to curl... standing well out from the skin."
+            },
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "Breed Traits: Shedding Level (1/5) - considered hypoallergenic."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": null
+        },
+        "physical.droolingLevel": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "verified",
+              "locator": "Jaws: Close-fitting lips, no flews."
+            },
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "Breed Traits: Drooling Level (1/5)"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Close-fitting lips lacking flews prevent excessive drooling."
+        },
+        "temperament.traits": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "verified",
+              "locator": "General Appearance: In repose the expression is mild and gentle... Aroused, the dog is particularly alert and full of immense energy and courage."
+            },
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "Temperament: Loyal, charming, frolicsome. Alert watchdog, champion cuddler."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": null
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "cited",
+              "locator": "Breed Traits & Characteristics trait ratings"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Editorial 1–5 estimates based on documented companion terrier temperament, high family affection, extreme indoor calm, and immense athletic speed."
+        },
+        "care": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "cited",
+              "locator": "Grooming, Exercise, Training, and Nutrition"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Combines active terrier management with intense, specific linty coat professional clipping protocols."
+        },
+        "care.exercise.level": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "Energy Level (4/5); Exercise Needs (4/5)"
+            },
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "verified",
+              "locator": "General Appearance: Noteworthy for endurance, Bedlingtons also gallop at great speed."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": null
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "cited",
+              "locator": "Daily exercise recommendations for sprinting terriers"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Estimated 45 to 60 minutes of daily activity reflects the exercise demands of an athletic, sighthound-influenced terrier."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "Adaptability: Adapts Well to Apartment Living (5/5); highly suited for indoor life"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": null
+        },
+        "care.livingEnvironment.houseWithYardSuitable": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "Exercise and secure fenced-yard recommendations (extreme galloping speed and prey drive)"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": null
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "verified",
+              "locator": "Coat: Mixture of hard and soft hair... standing well out from the skin."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": null
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "cited",
+              "locator": "Tolerates Being Alone: Moderate; deeply devoted indoor cuddler"
+            }
+          ],
+          "verifiedOn": null,
+          "note": null
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "cited",
+              "locator": "Nutrition: High-quality food formulated for small/medium active breeds, weight monitoring to protect the tucked-up silhouette."
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard nutritional recommendations for active terriers, with specific considerations for managing Copper Toxicosis carrier diets."
+        },
+        "nutrition.feedingFrequency": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "cited",
+              "locator": "Life-stage feeding guidance and divided meals"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard canine life-stage feeding schedule for medium breeds."
+        },
+        "health.overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "ofa-bedlington-terrier-chic-requirements",
+              "role": "verified",
+              "locator": "CHIC Program requirements: Patellar Luxation, Eye Examination, Copper Toxicosis DNA Test"
+            },
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "Health overview: Copper toxicosis, patellar luxation, eye concerns"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Synthesizes national health registry screening protocols and kennel club veterinary profiles regarding CT-BED."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "Copper toxicosis, Renal dysplasia, Skin allergies, Patellar luxation, Retinal dysplasia"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "cited",
+              "locator": "Routine care, joint protection, DNA screening mandates for Copper Toxicosis"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard preventive care protocol tailored to liver health and active terriers."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "ofa-bedlington-terrier-chic-requirements",
+              "role": "verified",
+              "locator": "CHIC Program required screenings: Clinical Patellar Luxation evaluation, CAER Eye examination, Copper Toxicosis DNA Test (CT-BED)"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Screenings summarize published parent club and health registry protocols."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "cited",
+              "locator": "Teeth: Large, strong and white. Level or scissors bite."
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard home dental hygiene guidelines."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "cited",
+              "locator": "Ears: Triangular with rounded tips... hanging flat to the cheek... silky tassel at the tip."
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine ear care protocol for tasseled drop ears."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "cited",
+              "locator": "Coat texture and linty crisp curls"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General skin and linty coat care guidelines."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "cited",
+              "locator": "About the breed, Temperament, and Family life ratings"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Suitability evaluations are editorial recommendations based on breed temperament, extreme indoor calm, severe grooming demands, and galloping speed."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "Head of a lamb and heart of a lion, Rothbury Terrier, Whippet cross for speed, born dark and lightening with age, 1875 club foundation"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Verified historical folklore and foundation facts."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-bedlington-terrier-breed-standard",
+              "role": "verified",
+              "locator": "Origin, height (16-17.5 in / 15-16.5 in), weight (17-23 lbs), coat, and colors"
+            },
+            {
+              "id": "akc-bedlington-terrier-breed-profile",
+              "role": "verified",
+              "locator": "Lifespan (12-14 years), apartment living, child suitability, prey drive, and grooming"
+            },
+            {
+              "id": "ofa-bedlington-terrier-chic-requirements",
+              "role": "verified",
+              "locator": "Main health concerns (Copper Toxicosis, Patellas, Retinal Dysplasia) and recommended health screening panel"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "FAQ answers synthesize verified standards, kennel club publications, and veterinary data without naming registries in prose."
+        }
+      },
+      "updatedOn": "2026-11-18"
     },
     {
       "slug": "belgian-shepherd-dog-groenendael",
@@ -93193,54 +94036,68 @@
     {
       "slug": "estrela-mountain-dog",
       "name": "Estrela Mountain Dog",
-      "scientificName": "Canis lupus familiaris",
+      "scientificName": null,
       "alternateNames": [
         "Cão da Serra da Estrela",
         "Serra da Estrela Mountain Dog",
-        "Estrela",
-        "Portuguese Shepherd Dog",
+        "Portuguese Mountain Dog",
         "Chien de la Serra da Estrela",
         "Estrela-Berghund",
-        "Perro de la Sierra de la Estrela",
-        "Pastore della Serra da Estrela"
+        "Perro de la Sierra de la Estrela"
       ],
-      "group": "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 2.2 — Mountain-type Molossoids (without working trial; also classified in the Guardian Dog and Working groups)",
+      "group": "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 2.2 — Mountain-type Molossoids (without working trial)",
       "origin": {
         "country": "Portugal",
         "region": "Serra da Estrela mountain range, central Portugal"
       },
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cao_da_Serra_da_Estrela_600.jpg",
-          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cao_da_Serra_da_Estrela_600.jpg",
-          "title": "Cao da Serra da Estrela 600.jpg",
-          "description": "An adult long-haired Estrela Mountain Dog standing outdoors.",
-          "creator": "Tomasz Sienicki",
-          "uploader": "Pmg",
-          "capturedOn": "2006-05-20",
-          "uploadedOn": "2006-05-21",
-          "width": 600,
-          "height": 489,
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A3o_da_Serra_da_Estrela.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:C%C3%A3o_da_Serra_da_Estrela.jpg",
+          "title": "Cão da Serra da Estrela.jpg",
+          "description": "An adult long-haired Estrela Mountain Dog (Cão da Serra da Estrela) outdoors.",
+          "creator": "Tiagopmartins",
+          "uploader": "Tiagopmartins",
+          "capturedOn": null,
+          "uploadedOn": "2008-08-19",
+          "width": 3568,
+          "height": 2368,
           "licenseId": "cc-by-sa-3.0",
-          "attribution": "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Cao_da_Serra_da_Estrela_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+          "attribution": "Photo by Tiagopmartins, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:C%C3%A3o_da_Serra_da_Estrela.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-11-08"
+          "metadataCheckedOn": "2026-11-18"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Estrela_Mountain_Dog_6_month_old_male.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Estrela_Mountain_Dog_6_month_old_male.jpg",
+          "title": "Estrela Mountain Dog 6 month old male.jpg",
+          "description": "A six-month-old fawn male Estrela Mountain Dog displaying the typical dark facial mask.",
+          "creator": "Tracey Conner (Traceywashere)",
+          "uploader": "Arriva436",
+          "capturedOn": null,
+          "uploadedOn": "2007-05-16",
+          "width": 736,
+          "height": 541,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Tracey Conner (Traceywashere), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Estrela_Mountain_Dog_6_month_old_male.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Watermark and border removed by Arriva436.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-11-18"
         }
       ],
       "overview": {
-        "summary": "A rustic, powerful, and courageous mountain livestock guardian native to the Serra da Estrela highlands of Portugal, recognized for its substantial mastiff-type frame, distinctive hooked tail tip, black facial mask, and unwavering loyalty to family and flock.",
-        "description": "The Estrela Mountain Dog is a large, imposing, yet agile molossoid livestock guardian developed over centuries to defend herds and homesteads across the highest mountain plateaus of mainland Portugal. Characterized by a sub-longilinear silhouette where body length exceeds withers height by slightly less than ten percent, the hound combines bone density and muscular power with lightfooted, ground-covering mobility. The coat occurs in two varieties—long-haired and short-haired—both possessing a dense, weather-resistant texture over a soft, lighter undercoat in shades of fawn, wolf grey, or yellow, traditionally accentuated by a prominent dark or black mask on the muzzle. The head is large, noble, and cleanly chiseled with dark amber to hazel eyes, small triangular pendant ears, and a long scythe tail terminating in a distinct hooked curve. Calm, dignified, and affectionate within its immediate household, it remains an incorruptibly vigilant protector when facing predators or unfamiliar intruders.",
-        "history": "Considered one of the most ancient indigenous breeds of the Iberian Peninsula, the Estrela Mountain Dog evolved in the isolated granite valleys and wind-swept pastures of the Serra da Estrela mountain range in central Portugal. Local shepherds depended entirely on these resolute dogs to protect sheep and goats during seasonal transhumance migrations, guarding livestock from Iberian wolves, feral dogs, and bandits. Historical accounts describe working dogs fitted with spiked iron collars to safeguard their throats during combat with predators. The first formal morphological descriptions were compiled in 1922 and ratified in 1934, leading to definitive international recognition in the mid-1950s. While retaining its ancient livestock-guarding capabilities, the breed is widely celebrated in modern times as a trusted rural property guardian and devoted companion for experienced owners.",
-        "originalPurpose": "Guarding flocks of sheep and herds of cattle against Iberian wolves, wild predators, and thieves across rugged mountain pastures, as well as protecting mountain homesteads.",
+        "summary": "The Estrela Mountain Dog is a powerful, rustic mastiff-type livestock guardian native to the Serra da Estrela highlands of central Portugal, bred in both long-haired and short-haired varieties and recognised for its goat-hair-textured double coat, dark facial mask, hooked scimitar tail, and steadfast devotion to its flock and household.",
+        "description": "Built on a well-proportioned, athletic molossoid frame that combines substance with quick, nimble movement, the Estrela Mountain Dog is engineered to confront predators across steep, rocky terrain. Its thick, resilient coat—comparable in feel to goat hair—comes in two varieties, long-haired and short-haired, both backed by a dense, fine, lighter-coloured undercoat and shaded in fawn, wolf grey, yellow, or brindle with a characteristic dark mask over the muzzle and skull. The strong, elongated head carries medium-sized oval amber eyes, small rose-folded triangular ears, and a long, well-feathered tail that hangs in a scimitar curve ending in a distinct hook at the tip. Docile and deeply attached to its shepherd or family, this self-assured guardian is naturally wary of strangers and decisive when defending its charges.",
+        "history": "One of the oldest indigenous breeds of the Iberian Peninsula, the Estrela Mountain Dog developed in the granite highlands of the Serra da Estrela—mainland Portugal's highest mountain range—where shepherds relied on formidable flock guardians during seasonal transhumance migrations. For centuries these dogs accompanied sheep and goat herds between high summer pastures and lowland winter valleys, wearing spiked iron collars ('carrancas') to shield their throats from Iberian wolves. Special working and conformation trials ('concursos') began between 1908 and 1919 to preserve the mountain stock, followed by a preliminary written description in 1922 and the first formal standard in 1933. Internationally recognised on a definitive basis in January 1955, the breed continues to work as a flock and estate guardian in Portugal and abroad.",
+        "originalPurpose": "Guarding flocks of sheep and goats against wolves and livestock thieves in the Serra da Estrela mountains, as well as watching rural homesteads and pulling light carts.",
         "currentRoles": [
-          "Livestock guardian for sheep, goats, and cattle",
-          "Rural estate and property guardian",
+          "Working livestock guardian for sheep, goats, and cattle",
+          "Rural estate and homestead watchdog",
           "Devoted family guardian for experienced handlers",
-          "Outdoor companion for mountain hiking and cold-weather excursions"
+          "Patrol and security working dog"
         ]
       },
       "physical": {
-        "sizeCategory": "Large",
+        "sizeCategory": "Large, athletic mountain molossoid",
         "height": {
           "unit": "cm",
           "male": {
@@ -93265,47 +94122,40 @@
         },
         "lifespanYears": {
           "min": 10,
-          "max": 12
+          "max": 14
         },
-        "coatType": "Thick, harsh, flat or slightly wavy double coat with a warm, dense, lighter-coloured undercoat, occurring in two varieties: long-haired (featuring an abundant neck mane, feathering on the forelegs, breeches on the thighs, and a bushy tail) and short-haired (featuring short, coarse, flat-lying hair and no feathering).",
-        "coatLength": "Medium",
+        "coatType": "Strong, very abundant, slightly coarse outer coat resembling goat hair in texture, lying flat or slightly wavy over a dense, fine, short, lighter-coloured undercoat; bred in both a long-haired variety (with a thick neck ruff, forearm and hindlimb feathering, and bushy tail) and a short-haired variety (with short, dense outer hair and no feathering).",
+        "coatLength": "Two recognised varieties: Long-haired (long on trunk, neck ruff, breeches, and tail; short and smooth on head and front of legs) and Short-haired (short, dense, and even without feathering).",
         "coatColors": [
-          "Fawn (ranging from pale yellow to deep golden-red, with or without dark hairs intermixed)",
-          "Wolf grey (pale, medium, or dark shades of grey)",
-          "Yellow",
-          "Brindle (fawn, yellow, or grey base with darker stripes)",
-          "Dark or black facial mask",
-          "Small white chest star and white markings on the toes are permissible"
+          "Solid fawn, wolf grey, or yellow",
+          "Brindle (fawn, wolf grey, or yellow ground striped with blackish brindling)",
+          "Typical dark or black cranio-facial mask",
+          "White markings permitted only on the tips of the fore and hind feet and a small patch on the lower neck and chest"
         ],
-        "sheddingLevel": "Moderate to high year-round shedding with heavy seasonal coat blowing in spring and autumn",
-        "droolingLevel": "Low to moderate; lips are firm and close-fitting without excessive flews, though light drooling may occur around food or after exercise",
+        "sheddingLevel": "Moderate to high; sheds year-round with heavy seasonal moulting of the dense undercoat in spring and autumn",
+        "droolingLevel": "Low to moderate; well-developed upper lips overlap without being thick or pendulous, and the mouth corners stay tight",
         "distinctiveFeatures": [
-          "Substantial, rustic mastiff-type molossoid with an athletic rectangular silhouette",
-          "Height at the withers of 65 to 73 cm for males and 62 to 69 cm for females, with a permissible variation of up to two centimetres",
-          "Weight of 45 to 60 kg for males and 35 to 45 kg for females in lean condition",
-          "Large, well-proportioned head with a slightly arched skull, subtle stop, and straight muzzle",
-          "Clean scissor bite with strong jaws and complete 42-tooth dentition (pincer bite acceptable)",
-          "Medium-sized, oval, horizontal dark amber to dark hazel eyes with tight black lids",
-          "Small, thin, triangular drop ears set at medium height, hanging flat with rounded tips",
-          "Thick, muscular neck with a single small dewlap permitted under the throat",
-          "Deep, broad chest reaching down to the elbows with well-sprung ribs",
-          "Long, intact tail set medium-high, reaching the hock, carried in a scythe curve with a distinct hook at the tip at rest",
-          "Occurs in two coat varieties: long-haired (with abundant neck mane and feathering) and short-haired",
-          "Characteristic black facial mask contrasting with fawn, wolf grey, or yellow base coat"
+          "Athletic, rustic mountain molossoid standing 65 to 73 cm in males and 62 to 69 cm in females (with an upper tolerance of +2 cm)",
+          "Working weight of 45 to 60 kg in males and 35 to 45 kg in females",
+          "Two distinct coat varieties—long-haired and short-haired—both carrying a goat-hair-textured outer coat over a lighter undercoat",
+          "Dark cranio-facial mask contrasting with a fawn, wolf-grey, yellow, or brindle coat",
+          "Long, strong, slightly convex head with almost parallel skull and muzzle axes, a gentle stop, and a slightly convex nasal bridge near the tip",
+          "Large, well-opened black nostrils and firm, non-pendulous lips with black mucous membranes",
+          "Horizontal, oval, medium-sized dark amber eyes with tight black-rimmed lids and a calm, intelligent expression",
+          "Small, thin, triangular ears with rounded tips, set at medium height and falling backward and laterally against the head (rose-type carriage)",
+          "Short, straight, thick neck well set into the shoulders with a slight, unexaggerated dewlap on the throat",
+          "Long, uncut scimitar-shaped tail reaching the hock, well feathered in the long-haired variety, and ending in a characteristic hook at the tip"
         ]
       },
       "temperament": {
         "traits": [
-          "Fearless, courageous, and vigilant flock and estate guardian",
-          "Calm, dignified, and composed demeanor in domestic surroundings",
-          "Deeply loyal, affectionate, and protective of family members",
-          "Reserved, aloof, and naturally suspicious toward strangers",
-          "Independent decision-maker accustomed to evaluating threats autonomously",
-          "Patient and protective with familiar children",
-          "Strong pack territoriality and protective boundary defense",
-          "May display dominance or reactivity toward unfamiliar dogs of the same sex",
-          "Deep, resonant alarm bark used to signal approaching intruders",
-          "Moderate energy with an easy, ground-covering ambling gait that converts into a rapid gallop"
+          "Inseparable, loyal, and docile toward its shepherd and household",
+          "Fearless, resolute defender of flocks and property against predators and thieves",
+          "Naturally wary and aloof toward strangers",
+          "Calm, dignified, and observant with a vivid, expressive gaze",
+          "Independent decision-maker bred to assess threats on its own",
+          "Protective and gentle with family children when properly socialised",
+          "Deep, resonant warning bark when patrolling boundaries"
         ],
         "scores": {
           "affection": 4,
@@ -93321,99 +94171,92 @@
       },
       "care": {
         "exercise": {
-          "level": "Moderate to high; requires daily patrolling opportunities, brisk structured walks, and mental engagement in a secure outdoor environment",
+          "level": "Moderate to high. Built for long days patrolling mountain pastures, the Estrela Mountain Dog needs daily country walks and space to patrol inside a securely fenced property.",
           "minutesPerDay": {
             "min": 60,
             "max": 90
           },
           "activities": [
-            "Long daily hikes and boundary walks on natural terrain",
-            "Supervised perimeter patrolling in a large, securely fenced pasture or yard",
-            "Structured scent tracking and search enrichment games",
-            "Calm, reward-based obedience and impulse-control sessions",
-            "Cold-weather outdoor exercise and winter snow excursions"
+            "Daily country or hill walks on a sturdy lead",
+            "Supervised perimeter patrolling in a large, securely fenced yard or paddock",
+            "Livestock guarding duties on rural holdings",
+            "Scent-tracking and nosework games"
           ]
         },
         "grooming": {
           "level": "Moderate",
-          "brushing": "Brush thoroughly once or twice weekly using a slicker brush, sturdy pin brush, and undercoat rake to remove loose undercoat and prevent mats; increase to daily brushing during seasonal shedding periods in spring and autumn.",
-          "bathing": "Bathe only when heavily soiled or muddy, using a mild canine shampoo to avoid stripping natural protective oils from the weather-resistant double coat.",
+          "brushing": "Brush the long-haired variety two to three times a week (and the short-haired variety once a week) with a pin brush and undercoat rake, increasing to daily raking during the spring and autumn undercoat sheds.",
+          "bathing": "Bathe only when heavily soiled, using a mild canine shampoo so the coarse goat-like outer coat retains its natural weather resistance.",
           "notes": [
-            "Never shave the double coat; the outer guard hairs and soft undercoat provide critical insulation against mountain winter freezing and radiant summer heat.",
-            "Check behind the ears, in the neck mane, and through the thigh breeches for burrs, mats, or ticks after outdoor walks.",
-            "Use an undercoat rake during spring shedding to extract dead woolly underfur efficiently.",
-            "Inspect the triangular drop ears weekly for moisture, wax buildup, or debris.",
-            "Trim heavy nails every two to three weeks to maintain correct foot alignment.",
-            "Brush teeth multiple times weekly using enzyme-based dog toothpaste."
+            "Pay special attention to the thick neck ruff, behind the ears, and the hindlimb breeches on long-haired dogs to prevent tangles or trapped burrs.",
+            "Never shave the double coat, which shields the dog from both winter mountain cold and summer sun.",
+            "Inspect the small, folded ears weekly for wax, moisture, or grass seeds.",
+            "Trim strong nails every few weeks if they do not wear down naturally.",
+            "Brush teeth several times a week with canine toothpaste."
           ]
         },
         "training": {
-          "difficulty": "Challenging; highly intelligent and discerning, but possesses centuries of independent guardian instincts that reject mechanical repetition or harsh methods",
+          "difficulty": "Challenging. Intelligent and devoted to its owner, yet bred for centuries to work and make guarding decisions independently—requiring calm, steady leadership and early socialisation.",
           "tips": [
-            "Begin patient, reward-based training and positive socialization during early puppyhood.",
-            "Establish calm, consistent boundaries without physical coercion or intimidation.",
-            "Keep training sessions short, varied, and purposeful to prevent boredom.",
-            "Focus heavily on loose-leash walking and impulse control before adult power develops.",
-            "Install sturdy, escape-proof fencing at least six feet high around the property.",
-            "Always manage introductions with visiting strangers calmly, guiding the guardian with confidence."
+            "Use calm, consistent, reward-based training rather than harsh force or repetitive mechanical drills.",
+            "Establish reliable lead manners and household rules early in puppyhood before the dog reaches 35 to 60 kg.",
+            "Enclose the property with secure fencing at least 1.8 metres high, as the breed is a dedicated territorial guardian.",
+            "Supervise introductions to visitors calmly so the dog sees that guests are welcomed by the owner."
           ],
-          "socialization": "Introduce the puppy gradually to varied friendly people, calm vaccinated dogs, household noises, livestock, and diverse outdoor environments. Because natural guarding suspicion matures between 18 months and two years, early positive exposure builds confidence, social discernment, and composure without diminishing natural protective capabilities."
+          "socialization": "Expose puppies thoroughly and positively from an early age to varied people, sights, sounds, veterinary handling, and calm dogs so their natural aloofness toward strangers matures into steady, discerning composure."
         },
         "livingEnvironment": {
           "apartmentSuitable": false,
           "houseWithYardSuitable": true,
           "climates": [
-            "Mountain and cold winter climates, where the dense double coat provides exceptional thermal protection",
+            "Cool and mountain climates where its dense double coat thrives",
             "Temperate climates",
-            "Warm climates provided there is abundant shade, cool indoor shelter, fresh water, and exercise during cooler morning or evening hours"
+            "Warm weather when ample shade, cool indoor rest, fresh water, and early-morning or evening walks are provided"
           ],
-          "aloneTimeTolerance": "Moderate when provided with a secure yard to patrol or livestock to guard, but thrives on close bonds with its family and should not be isolated for long periods in confined indoor quarters."
+          "aloneTimeTolerance": "Moderate when given a secure outdoor territory or flock to watch over, though companion dogs still need daily interaction with their family."
         }
       },
       "nutrition": {
-        "dietType": "High-quality complete and balanced dog food formulated for large- or giant-breed dogs, adjusted for age, activity level, and seasonal temperature.",
+        "dietType": "Complete, balanced large- or giant-breed diet formulated to support steady skeletal growth in puppies and lean muscle in adults.",
         "feedingFrequency": {
-          "puppy": "Three to four measured meals daily until six months of age, transitioning to two to three meals daily on a large-breed growth formula to promote steady skeletal development.",
-          "adult": "Two measured meals daily to support steady digestion and help reduce the risk of gastric dilatation-volvulus.",
-          "senior": "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle maintenance."
+          "puppy": "Three measured meals daily until six months of age on a controlled-calcium large-breed puppy formula, then two daily meals.",
+          "adult": "Two measured meals daily to support steady digestion and reduce the risk of gastric torsion.",
+          "senior": "Two portion-controlled meals daily tailored to lower energy output and joint health."
         },
-        "guidelines": "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Divide daily food into two distinct meals, restrict vigorous exercise for at least one hour before and after eating, and provide cool, clean drinking water continuously.",
+        "guidelines": "Measure rations to keep the dog in fit, muscular condition without obesity, which is explicitly faulted and strains the hips and elbows. Divide daily food into two meals, rest the dog for at least an hour before and after exercise around mealtimes, and provide clean water at all times.",
         "considerations": [
-          "Keep the dog lean and well-muscled to avoid putting unnecessary strain on large joints.",
-          "Avoid overfeeding growing puppies and maintain controlled calcium and phosphorus ratios to foster steady bone formation.",
-          "Count training treats toward the daily caloric allowance.",
-          "Rest the dog before and after meals to mitigate the risk of bloat.",
-          "Adjust caloric intake upward during cold winter patrols and downward during sedentary summer periods.",
-          "Transition between diet formulas gradually over five to seven days."
+          "Use a large-breed puppy diet with appropriate calcium-to-phosphorus balance so bone growth is steady rather than overly rapid.",
+          "Keep adult weight lean so the dog remains agile and light on its feet.",
+          "Avoid vigorous activity immediately before and after meals to help prevent gastric dilatation-volvulus (bloat).",
+          "Adjust portions between cold winter work and warmer summer months."
         ],
-        "note": "Individual caloric needs vary based on age, metabolism, outdoor temperature, and daily working duties. Work with a veterinarian to establish tailored daily feeding guidelines."
+        "note": "General large-breed nutrition guidance; consult a veterinarian to tailor daily portions to age and workload."
       },
       "health": {
-        "overview": "The Estrela Mountain Dog is a remarkably rustic, ancient livestock guardian with a typical lifespan of 10 to 12 years. Developed in the harsh, rugged mountains of central Portugal, natural selection and working utility have endowed the breed with strong constitutional hardiness. Health management centers on orthopedic screening for hip and elbow dysplasia, cardiac examinations to monitor for dilated cardiomyopathy, and managing risks common to large, deep-chested pastoral dogs, such as gastric dilatation-volvulus.",
+        "overview": "The Estrela Mountain Dog is a hardy, rustic mountain breed with a typical life expectancy of 10 to 14 years. Peer-reviewed veterinary studies and breed club records identify hip and elbow dysplasia, dilated cardiomyopathy (DCM) with occasional sinoatrial conduction abnormalities, gastric dilatation-volvulus (bloat), and eyelid conformation issues as the principal health considerations.",
         "commonConditions": [
-          "Hip dysplasia — developmental laxity and malformation of the hip joints that can lead to osteoarthritis, pain, and hind-limb lameness, monitored through pre-breeding radiographic screening",
-          "Elbow dysplasia — developmental abnormalities of the elbow joint causing forelimb lameness and secondary osteoarthritis",
-          "Dilated cardiomyopathy (DCM) — myocardial disease resulting in ventricular enlargement and impaired cardiac output, evaluated via auscultation and echocardiography",
-          "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening emergency in deep-chested dogs where the stomach distends with gas and twists on its axis",
-          "Entropion and ectropion — eyelid margin defects where the lids roll inward against the cornea or sag outward, causing ocular irritation"
+          "Hip dysplasia and elbow dysplasia — heritable coxofemoral joint laxity and malformation studied extensively in the breed, where early passive hip laxity testing between 4 and 12 months and adult radiographic scoring help identify affected dogs",
+          "Dilated cardiomyopathy (DCM) and sinoatrial dysfunction — myocardial dilation and conduction disorders documented in clinical veterinary cardiology studies of the breed and monitored via echocardiography and electrocardiography",
+          "Gastric dilatation-volvulus (GDV / bloat) — acute, life-threatening stomach distension and twisting in deep-chested large breeds",
+          "Entropion or ectropion — inward- or outward-rolling eyelid margins that can irritate the cornea"
         ],
         "preventiveCare": [
-          "Verify that breeding parents have official radiographic hip and elbow evaluation clearances and specialist cardiac checks.",
-          "Feed a balanced large-breed puppy diet to support slow, steady skeletal growth during the first 18 to 24 months.",
-          "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-          "Inspect the drop ears and skin weekly for wax buildup, burrs, ticks, or irritation.",
-          "Maintain consistent year-round parasite prevention against ticks, fleas, and heartworms.",
-          "Schedule annual veterinary wellness examinations, vaccinations, and routine dental cleanings."
+          "Select puppies from parents with official hip and elbow radiographic clearances and recent veterinary cardiac evaluations (echocardiogram and ECG/Holter).",
+          "Consider early veterinary hip laxity evaluation in growing dogs alongside standard adult radiographic hip scoring prior to breeding.",
+          "Raise puppies on a controlled large-breed growth diet and avoid excessive high-impact jumping before skeletal maturity.",
+          "Feed two smaller daily meals and rest the dog before and after exercise to lower bloat risk.",
+          "Check ears, eyes, and coat regularly after country walks for ticks and grass awns.",
+          "Schedule annual veterinary wellness and cardiac examinations."
         ],
         "recommendedScreenings": [
-          "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-          "Radiographic elbow dysplasia evaluation prior to breeding",
-          "Cardiac evaluation by a board-certified veterinary cardiologist including echocardiogram",
-          "Comprehensive ophthalmic examination by a board-certified veterinary ophthalmologist"
+          "Radiographic hip evaluation prior to breeding (including early passive hip laxity assessment where available)",
+          "Radiographic elbow evaluation prior to breeding",
+          "Specialist cardiac evaluation (echocardiography and electrocardiography / Holter monitoring) for dilated cardiomyopathy and sinoatrial conduction disorders",
+          "Ophthalmic examination"
         ],
-        "dentalCare": "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has powerful, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
-        "earCare": "Inspect the medium-sized triangular drop ears weekly for wax accumulation, moisture, or foul odor. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly without inserting swabs deep into the canal.",
-        "skinCare": "Part the dense coat weekly during brushing to inspect the skin for external parasites, cuts, or irritation. The weather-resistant double coat naturally repels dirt, requiring minimal intervention beyond regular brushing."
+        "dentalCare": "Brush teeth several times a week with canine toothpaste and check the strong scissor or pincer bite and gums during annual veterinary visits.",
+        "earCare": "Inspect the small, folded triangular ears weekly for wax, moisture, or plant debris and clean gently with a veterinarian-approved ear cleanser.",
+        "skinCare": "Brush and rake the double coat regularly during seasonal moults so dead undercoat does not mat and trap moisture against the skin."
       },
       "suitability": {
         "firstTimeOwners": false,
@@ -93422,77 +94265,54 @@
         "activeOwners": true,
         "apartmentLiving": false,
         "idealFor": [
-          "Experienced dog owners familiar with large livestock guardian breeds and independent protective instincts",
-          "Rural or semi-rural properties with spacious, securely fenced yards or livestock acreage",
-          "Pastoral farmers seeking an authentic guardian for sheep, goats, or cattle against wild predators",
-          "Active outdoor households who value a loyal, serious companion for hiking and country walks",
-          "Owners who appreciate a quiet, undemanding companion indoors coupled with natural vigilance outdoors"
+          "Experienced owners of livestock guardian or large molossoid breeds",
+          "Farms, ranches, and rural holdings needing a dependable flock or property guardian",
+          "Spacious suburban or country homes with high, secure perimeter fencing",
+          "Calm, confident handlers who appreciate an independent, deeply loyal family protector"
         ],
         "notIdealFor": [
-          "First-time dog owners unprepared to manage an independent, territorial guardian dog",
-          "Apartment dwellers or dense urban households with shared walls and high foot traffic",
-          "Households without secure physical fencing at least six feet high",
-          "Owners who expect an indiscriminately outgoing dog that warmly welcomes unfamiliar visitors",
-          "Sedentary individuals unable to provide regular outdoor exercise and mental stimulation"
+          "First-time dog owners unaccustomed to large, independent territorial guardians",
+          "Apartment dwellers or densely populated urban neighbourhoods",
+          "Properties without secure fencing",
+          "Owners expecting an effusively social dog that greets every stranger and unfamiliar dog eagerly"
         ]
       },
       "funFacts": [
-        "The breed takes its name from the Serra da Estrela (Star Mountain Range), the highest mountain range in mainland Portugal, where peaks reach nearly 2,000 meters above sea level.",
-        "A signature breed characteristic is the hooked tail tip: at rest, the tail hangs in a gentle scythe curve with the lower tip hooked sharply upward, often forming a distinct J-shape.",
-        "The Estrela Mountain Dog occurs in two coat varieties—long-haired and short-haired—both of which share identical body proportions, bone structure, and working guardian temperaments.",
-        "The breed's hallmark facial appearance includes a distinct black mask that contrasts strikingly against its fawn, yellow, or wolf-grey coat.",
-        "During the traditional transhumance in central Portugal, shepherds relied on these dogs to guard thousands of sheep and goats traveling hundreds of kilometers between highland summer pastures and sheltered lowland valleys.",
-        "In nineteenth- and early twentieth-century Portugal, shepherds fitted their Estrela Mountain Dogs with spiked iron collars to protect their necks from lethal bites during fierce battles with Iberian wolves.",
-        "The first written morphological description was drafted in 1922 and confirmed in 1934, making the Estrela Mountain Dog one of the earliest formally recognized indigenous breeds of Portugal."
+        "Named after the Serra da Estrela ('Star Mountain Range'), the highest mountain range in mainland Portugal, where granite peaks rise to nearly 2,000 metres.",
+        "At rest, the breed's long scimitar tail hangs to the hock with a signature upward hook at the very tip.",
+        "Unlike many mountain guardians that exist in only one coat length, the Cão da Serra da Estrela has both a long-haired and a short-haired variety—and historically the short-haired type was widely favoured by working shepherds.",
+        "Early twentieth-century preservation began with rural working trials called 'concursos' between 1908 and 1919, leading to a first draft description in 1922 and the 1933 standard.",
+        "When guarding flocks on wolf-inhabited mountain pastures, working dogs traditionally wore heavy iron-spiked collars ('carrancas') to protect their necks.",
+        "Aside from guarding herds, the breed has even served as a patrol dog with the Portuguese Marines (Fuzileiros)."
       ],
       "faq": [
         {
           "question": "What is an Estrela Mountain Dog?",
-          "answer": "The Estrela Mountain Dog (Cão da Serra da Estrela) is an ancient Portuguese livestock guardian dog originating from the Serra da Estrela mountains, known for its mastiff-type build, dark facial mask, hooked tail tip, and loyal protective nature."
+          "answer": "The Estrela Mountain Dog (Cão da Serra da Estrela) is an ancient Portuguese molossoid flock guardian from the Serra da Estrela mountains, bred in both long-haired and short-haired varieties and known for its dark facial mask, hooked tail tip, and loyal protective nature."
         },
         {
-          "question": "What are the two coat varieties of the Estrela Mountain Dog?",
-          "answer": "The breed occurs in two recognized coat varieties: the long-haired variety, which has a thick, harsh outer coat with an abundant neck mane and leg feathering, and the short-haired variety, which has a dense, smooth, and flat-lying coat without feathering."
+          "question": "How tall and heavy is an adult Estrela Mountain Dog?",
+          "answer": "Adult males stand 65 to 73 cm at the withers (with a tolerance of +2 cm) and weigh 45 to 60 kg, while females stand 62 to 69 cm (+2 cm tolerance) and weigh 35 to 45 kg."
         },
         {
-          "question": "How tall and heavy is an Estrela Mountain Dog?",
-          "answer": "Adult males stand 65 to 73 cm at the withers and weigh 45 to 60 kg, while adult females stand 62 to 69 cm and weigh 35 to 45 kg, with a permissible height tolerance of plus 2 cm for exceptional individuals."
+          "question": "What is the typical lifespan of an Estrela Mountain Dog?",
+          "answer": "The breed typically lives 10 to 14 years."
         },
         {
-          "question": "How long does an Estrela Mountain Dog usually live?",
-          "answer": "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 12 years."
+          "question": "What is the difference between the two coat varieties?",
+          "answer": "Both varieties have a resilient outer coat with a goat-hair texture over a dense, lighter-coloured undercoat. The long-haired variety has longer body hair, a thick neck ruff (especially in males), feathered limbs, and a bushy tail, while the short-haired variety has a short, dense, even coat with no feathering."
         },
         {
-          "question": "What coat colours are seen in the Estrela Mountain Dog?",
-          "answer": "Accepted colours include solid or brindled fawn (ranging from pale yellow to deep golden-red), wolf grey, and yellow, with a dark or black facial mask being an essential breed characteristic; small white marks on the chest and toes are permissible."
-        },
-        {
-          "question": "What is unique about the Estrela Mountain Dog's tail?",
-          "answer": "The tail hangs in a gentle scythe curve at rest and features a distinct hook at the tip, curving upward and forward into a J-shape without curling over the back."
+          "question": "What coat colours are permitted?",
+          "answer": "Only solid fawn, wolf grey, and yellow, or brindle on a fawn, wolf-grey, or yellow ground are permitted, accompanied by a typical dark cranio-facial mask. White markings are allowed only on the tips of the feet and a small area on the lower neck and chest."
         },
         {
           "question": "Can an Estrela Mountain Dog live in an apartment?",
-          "answer": "No. Due to its large size, territorial vigilance, and deep alarm bark, the breed is not suited to apartment living and thrives best in a rural or suburban home with a securely fenced yard or open land."
+          "answer": "No. Its large size, strong territorial guarding instinct, and deep warning bark require a home with a spacious, securely fenced yard or rural land."
         },
         {
-          "question": "Is the Estrela Mountain Dog good with children and family?",
-          "answer": "Within its own household, it is calm, deeply affectionate, and protective of family members, including respectful children; however, because of its size and guardian instincts, interactions with visiting children should always be supervised."
-        },
-        {
-          "question": "How much exercise does an Estrela Mountain Dog need each day?",
-          "answer": "The breed requires 60 to 90 minutes of daily activity, including purposeful perimeter patrols, long walks on natural trails, and mental scentwork to satisfy its working nature."
-        },
-        {
-          "question": "Is the Estrela Mountain Dog easy to train?",
-          "answer": "It is intelligent and loyal, but has been bred for centuries to make independent protective decisions; it requires patient, reward-based training and consistent leadership rather than harsh or repetitive drills."
-        },
-        {
-          "question": "Does the Estrela Mountain Dog shed a lot, and how is it groomed?",
-          "answer": "It sheds moderately year-round and blows its dense undercoat heavily in spring and autumn. Weekly brushing with a slicker brush and pin brush keeps the coat healthy, increasing to daily brushing during seasonal molts; it should never be shaved."
-        },
-        {
-          "question": "What health conditions affect the Estrela Mountain Dog?",
-          "answer": "The breed is robust and rustic, with primary health priorities centering on hip dysplasia, elbow dysplasia, dilated cardiomyopathy (DCM), eyelid abnormalities (entropion/ectropion), and bloat (gastric dilatation-volvulus)."
+          "question": "What health screenings are recommended for the breed?",
+          "answer": "Breeding dogs should be screened with hip and elbow radiographs, a specialist cardiac evaluation (echocardiogram and ECG) for dilated cardiomyopathy and conduction disorders, and an eye examination."
         }
       ],
       "references": [
@@ -93500,17 +94320,22 @@
         "fci-estrela-mountain-dog-nomenclature",
         "cpc-cao-da-serra-da-estrela-standard",
         "apcse-cao-da-serra-da-estrela-profile",
+        "the-kennel-club-estrela-mountain-dog-standard",
         "ukc-estrela-mountain-dog-standard",
         "akc-estrela-mountain-dog-breed-profile",
         "estrela-mountain-dog-cardiac-health-study-2019",
-        "wikimedia-cao-da-serra-da-estrela-600-tomasz-sienicki"
+        "estrela-mountain-dog-hip-dysplasia-study-2008",
+        "estrela-mountain-dog-hip-genetics-study-2007",
+        "wikimedia-cao-da-serra-da-estrela-600-tomasz-sienicki",
+        "wikimedia-estrela-mountain-dog-6-month-male",
+        "the-dog-api"
       ],
       "evidence": {
         "scientificName": {
-          "reliability": "unverified",
+          "reliability": "unavailable",
           "sources": [],
           "verifiedOn": null,
-          "note": "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+          "note": "Official breed standards and kennel-club records do not establish a breed-specific scientific name; kept null per schema rules."
         },
         "alternateNames": {
           "reliability": "official_standard",
@@ -93534,10 +94359,15 @@
               "id": "ukc-estrela-mountain-dog-standard",
               "role": "verified",
               "locator": "Breed name: Estrela Mountain Dog, Serra da Estrela Mountain Dog"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.alt_names (Cão da Serra da Estrela, Portuguese Mountain Dog)"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "Verified across FCI Standard No. 173, FCI Nomenclature, CPC, and UKC."
+          "verifiedOn": "2026-11-18",
+          "note": "Verified across FCI Standard No. 173, FCI Nomenclature, CPC, UKC, and The Dog API."
         },
         "group": {
           "reliability": "official_standard",
@@ -93545,7 +94375,7 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "FCI Classification: Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 2.2 Molossoid breeds, Mountain type, without working trial"
+              "locator": "FCI Classification: Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs; Section 2.2 Molossoid breeds, Mountain type, without working trial"
             },
             {
               "id": "fci-estrela-mountain-dog-nomenclature",
@@ -93555,16 +94385,26 @@
             {
               "id": "cpc-cao-da-serra-da-estrela-standard",
               "role": "verified",
-              "locator": "Grupo 2 Cães de Tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha e Boieiros Suíços, Secção 2.2 Molossóides, Tipo Montanha"
+              "locator": "Grupo 2, Secção 2.2 Molossóides, Tipo Montanha"
+            },
+            {
+              "id": "the-kennel-club-estrela-mountain-dog-standard",
+              "role": "cited",
+              "locator": "Pastoral Group"
             },
             {
               "id": "ukc-estrela-mountain-dog-standard",
-              "role": "verified",
+              "role": "cited",
               "locator": "Guardian Dog Group"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "cited",
+              "locator": "breed.breed_group (Working)"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "User-facing group classification formulated without prohibited registry names per Rule 5."
+          "verifiedOn": "2026-11-18",
+          "note": "Follows the Group 2, Section 2.2 classification without naming registries in user-facing text."
         },
         "origin": {
           "reliability": "official_standard",
@@ -93572,7 +94412,7 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "ORIGIN: Portugal; BRIEF HISTORICAL SUMMARY"
+              "locator": "ORIGIN: Portugal; Brief historical summary: Serra da Estrela"
             },
             {
               "id": "fci-estrela-mountain-dog-nomenclature",
@@ -93583,9 +94423,14 @@
               "id": "cpc-cao-da-serra-da-estrela-standard",
               "role": "verified",
               "locator": "Origem: Portugal (Serra da Estrela)"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "cited",
+              "locator": "breed.origin (Serra da Estrela Mountains, Portugal)"
             }
           ],
-          "verifiedOn": "2026-11-08",
+          "verifiedOn": "2026-11-18",
           "note": null
         },
         "overview": {
@@ -93594,26 +94439,31 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+              "locator": "Utilization, Brief historical summary, General appearance, and Behaviour/temperament"
             },
             {
               "id": "cpc-cao-da-serra-da-estrela-standard",
               "role": "verified",
-              "locator": "Resumo histórico, aspecto geral, proporções importantes e comportamento"
+              "locator": "Resumo histórico, aspecto geral e comportamento"
             },
             {
               "id": "apcse-cao-da-serra-da-estrela-profile",
               "role": "verified",
-              "locator": "História da raça, transumância e função ancestral"
+              "locator": "História da raça, transumância, e variedades de pelo"
             },
             {
-              "id": "ukc-estrela-mountain-dog-standard",
+              "id": "fci-estrela-mountain-dog-nomenclature",
+              "role": "verified",
+              "locator": "Date of acceptance on a definitive basis: 18.01.1955"
+            },
+            {
+              "id": "the-dog-api",
               "role": "cited",
-              "locator": "History and Characteristics"
+              "locator": "breed.description and breed.history"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "Synthesized in original prose from FCI Standard No. 173, CPC, APCSE, and UKC official records."
+          "verifiedOn": "2026-11-18",
+          "note": "All overview text is rewritten in 100% original wording from FCI Standard No. 173, CPC, and APCSE records."
         },
         "physical": {
           "reliability": "official_standard",
@@ -93621,21 +94471,31 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+              "locator": "General appearance, Head, Neck, Body, Tail (hooked scimitar), Limbs, Coat (long and short varieties, goat-hair texture), Colour (fawn, wolf grey, yellow, brindle; dark mask; white only on feet tips and small neck/chest area), and Height and weight"
             },
             {
               "id": "cpc-cao-da-serra-da-estrela-standard",
               "role": "verified",
-              "locator": "Morfologia geral, proporções, cabeça, cauda em gancho, pelagem e cores"
+              "locator": "Estalão No. 173: Cabeça, Cauda em gancho, Pelagem, Cor, Altura e peso"
+            },
+            {
+              "id": "the-kennel-club-estrela-mountain-dog-standard",
+              "role": "verified",
+              "locator": "General Appearance, Head and Skull, Ears (small rose-shaped), Neck, Tail (hook to tip), Coat (coarse goat-hair texture, short and long varieties), and Colour"
             },
             {
               "id": "ukc-estrela-mountain-dog-standard",
               "role": "verified",
               "locator": "General Appearance, Head, Body, Coat, Color, Height and Weight"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "GET /breeds/{id}/colours (lists 17 generic species-wide colours including merle, blue, tricolour, liver)"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "Conformation, sub-longilinear proportions, hooked tail tip, long and short coat varieties, black mask, and distinctive features follow official standards."
+          "verifiedOn": "2026-11-18",
+          "note": "Conformation, goat-hair-textured long and short coat varieties, hooked scimitar tail, and permitted colours (solid or brindled fawn, wolf grey, and yellow with a dark mask and strictly limited white) follow FCI/CPC Standard No. 173 and RKC/UKC standards rather than The Dog API's generic 17-colour list."
         },
         "physical.height": {
           "reliability": "official_standard",
@@ -93643,21 +94503,85 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "HEIGHT AND WEIGHT: Height at withers: Males: 65 - 73 cm. Females: 62 - 69 cm. With a tolerance of + 2 cm."
+              "locator": "HEIGHT AND WEIGHT: Height at the withers: Males: 65-73 cm. Females: 62-69 cm. Tolerance: + 2 cm."
             },
             {
               "id": "cpc-cao-da-serra-da-estrela-standard",
               "role": "verified",
-              "locator": "Altura ao garrote: Machos: 65 – 73 cm (+2 cm). Fêmeas: 62 – 69 cm (+2 cm)."
+              "locator": "Altura ao garrote: Machos: 65–73 cm (+2 cm); Fêmeas: 62–69 cm (+2 cm)"
             },
             {
               "id": "ukc-estrela-mountain-dog-standard",
               "role": "verified",
-              "locator": "Height at withers: Males from 25.5 to 29 inches (65 to 73 cm); Females from 24.5 to 27 inches (62 to 69 cm)"
+              "locator": "Height at withers: Males 25.5 to 29 inches (65 to 73 cm); Females 24.5 to 27 inches (62 to 69 cm)"
+            },
+            {
+              "id": "the-kennel-club-estrela-mountain-dog-standard",
+              "role": "conflicting",
+              "locator": "Size: Height: dogs 65–72 cms (25½–28½ ins); bitches 62–68 cms (24½–27 ins), with a tolerance of 4 cms (1½ ins) above these limits"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.height.metric (Males 65–72 cm, Females 62–69 cm)"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "Preserved in published unit of centimetres (65–73 cm for males, 62–69 cm for females) exactly as specified in the official FCI Standard No. 173 and CPC standard."
+          "verifiedOn": "2026-11-18",
+          "note": "Preserved in centimetres (65–73 cm for males, 62–69 cm for females) per FCI Standard No. 173, CPC, and UKC; The Royal Kennel Club lists 65–72 cm for males and 62–68 cm for females (+4 cm tolerance), and The Dog API lists 65–72 cm for males."
+        },
+        "physical.height.male.max": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-estrela-mountain-dog-official-standard",
+              "role": "verified",
+              "locator": "Height at the withers: Males: 65-73 cm"
+            },
+            {
+              "id": "cpc-cao-da-serra-da-estrela-standard",
+              "role": "verified",
+              "locator": "Altura ao garrote: Machos: 65–73 cm"
+            },
+            {
+              "id": "the-kennel-club-estrela-mountain-dog-standard",
+              "role": "conflicting",
+              "locator": "Size: Height: dogs 65–72 cms"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.height.metric (72 cm)"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Upper male height bound of 73 cm from FCI/CPC Standard No. 173 (excluding the +2 cm tolerance)."
+        },
+        "physical.height.female.max": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-estrela-mountain-dog-official-standard",
+              "role": "verified",
+              "locator": "Height at the withers: Females: 62-69 cm"
+            },
+            {
+              "id": "cpc-cao-da-serra-da-estrela-standard",
+              "role": "verified",
+              "locator": "Altura ao garrote: Fêmeas: 62–69 cm"
+            },
+            {
+              "id": "the-kennel-club-estrela-mountain-dog-standard",
+              "role": "conflicting",
+              "locator": "Size: Height: bitches 62–68 cms"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.height.metric (69 cm)"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Upper female height bound of 69 cm from FCI/CPC Standard No. 173."
         },
         "physical.weight": {
           "reliability": "official_standard",
@@ -93665,21 +94589,70 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "Weight: Males: 45 - 60 Kg. Females: 35 - 45 Kg."
+              "locator": "Weight: Males: 45-60 Kg. Females: 35-45 Kg."
             },
             {
               "id": "cpc-cao-da-serra-da-estrela-standard",
               "role": "verified",
-              "locator": "Peso: Machos: 45 – 60 kg. Fêmeas: 35 – 45 kg."
+              "locator": "Peso: Machos: 45–60 kg; Fêmeas: 35–45 kg"
             },
             {
               "id": "ukc-estrela-mountain-dog-standard",
               "role": "verified",
-              "locator": "Weight: Males from 99 to 132 pounds (45 to 60 kg); Females from 77 to 99 pounds (35 to 45 kg)"
+              "locator": "Weight: Males 99 to 132 pounds (45 to 60 kg); Females 77 to 99 pounds (35 to 45 kg)"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.weight.metric (Males 40–60 kg, Females 30–50 kg)"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "Preserved in published unit of kilograms (45–60 kg for males, 35–45 kg for females) exactly as specified in the official FCI and CPC standards."
+          "verifiedOn": "2026-11-18",
+          "note": "Preserved in kilograms (45–60 kg for males, 35–45 kg for females) per FCI Standard No. 173 and CPC; The Dog API lists a wider 40–60 kg male and 30–50 kg female range."
+        },
+        "physical.weight.male.max": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-estrela-mountain-dog-official-standard",
+              "role": "verified",
+              "locator": "Weight: Males: 45-60 Kg"
+            },
+            {
+              "id": "cpc-cao-da-serra-da-estrela-standard",
+              "role": "verified",
+              "locator": "Peso: Machos: 45–60 kg"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.weight.metric (60 kg)"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Upper male weight bound of 60 kg."
+        },
+        "physical.weight.female.max": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-estrela-mountain-dog-official-standard",
+              "role": "verified",
+              "locator": "Weight: Females: 35-45 Kg"
+            },
+            {
+              "id": "cpc-cao-da-serra-da-estrela-standard",
+              "role": "verified",
+              "locator": "Peso: Fêmeas: 35–45 kg"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "breed.weight.metric (50 kg)"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Upper female weight bound of 45 kg from FCI/CPC Standard No. 173; The Dog API lists 50 kg."
         },
         "physical.lifespanYears": {
           "reliability": "reliable_source",
@@ -93690,13 +94663,13 @@
               "locator": "Life Expectancy: 10-14 years"
             },
             {
-              "id": "apcse-cao-da-serra-da-estrela-profile",
+              "id": "the-dog-api",
               "role": "verified",
-              "locator": "Longevidade média (10-12 anos)"
+              "locator": "breed.life_span (10–14 years)"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "Supported by kennel club and parent club actuarial profiles."
+          "verifiedOn": "2026-11-18",
+          "note": "Updated to 10–14 years, matching both the AKC breed profile and The Dog API."
         },
         "physical.sheddingLevel": {
           "reliability": "reliable_source",
@@ -93704,38 +94677,33 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "HAIR: Dense undercoat composed of fine, short, soft and lighter coloured hair"
-            },
-            {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "verified",
-              "locator": "Pêlo e sub-pêlo denso com muda estacional"
+              "locator": "COAT: Dense undercoat of fine, short, soft hair under abundant outer coat"
             },
             {
               "id": "akc-estrela-mountain-dog-breed-profile",
               "role": "verified",
-              "locator": "Breed Traits: Shedding Level (3/5 to 4/5)"
+              "locator": "Shedding and seasonal undercoat moult"
             }
           ],
-          "verifiedOn": "2026-11-08",
+          "verifiedOn": "2026-11-18",
           "note": null
         },
         "physical.droolingLevel": {
-          "reliability": "reliable_source",
+          "reliability": "official_standard",
           "sources": [
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "Lips: Well developed, neither thick nor pendulous; tight commissures"
+              "locator": "Lips: big, not thick, well overlapping, not pendulous; mouth well closed"
             },
             {
               "id": "cpc-cao-da-serra-da-estrela-standard",
               "role": "verified",
-              "locator": "Lábios: Bem desenvolvidos sem serem pendentes"
+              "locator": "Lábios: bem desenvolvidos sem serem pendentes"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "Firm, tight-fitting lips result in low to moderate drooling."
+          "verifiedOn": "2026-11-18",
+          "note": "Non-pendulous, tight-closing lips result in low to moderate drooling."
         },
         "temperament.traits": {
           "reliability": "official_standard",
@@ -93743,20 +94711,30 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "BEHAVIOUR/TEMPERAMENT: Inseparable companion of shepherd, faithful flock guardian, fearless defender, calm and dignified, aloof with strangers"
+              "locator": "Behaviour / Temperament: inseparable companion of the shepherd, faithful and trustworthy flock guardian, defending it fiercely against predators and thieves; docile to its master, wary of strangers"
             },
             {
               "id": "cpc-cao-da-serra-da-estrela-standard",
               "role": "verified",
-              "locator": "Comportamento e carácter: Dócil com o dono, protector destemido do rebanho, reservado com estranhos"
+              "locator": "Comportamento e carácter"
+            },
+            {
+              "id": "the-kennel-club-estrela-mountain-dog-standard",
+              "role": "verified",
+              "locator": "Characteristics and Temperament: loyal and affectionate to owners, wary of strangers, alert flock and guard dog"
             },
             {
               "id": "ukc-estrela-mountain-dog-standard",
               "role": "verified",
-              "locator": "Characteristics: Loyal, obedient, vigilant protector, courageous"
+              "locator": "Characteristics: loyal, vigilant protector, courageous"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.temperament (Loyal, protective, intelligent, calm, courageous, independent)"
             }
           ],
-          "verifiedOn": "2026-11-08",
+          "verifiedOn": "2026-11-18",
           "note": null
         },
         "temperament.scores": {
@@ -93765,33 +94743,33 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "cited",
-              "locator": "Temperament and guarding characteristics"
+              "locator": "Behaviour / Temperament and Utilization"
             },
             {
               "id": "cpc-cao-da-serra-da-estrela-standard",
               "role": "cited",
-              "locator": "Comportamento e aptidões naturais"
+              "locator": "Comportamento e carácter"
             }
           ],
           "verifiedOn": null,
-          "note": "Editorial 1–5 estimates based on documented livestock guardian temperament and working drive."
+          "note": "Editorial 1–5 scores informed by documented livestock-guardian temperament and wariness toward strangers."
         },
         "care": {
           "reliability": "general_guidance",
           "sources": [
             {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "cited",
-              "locator": "Cuidados gerais, espaço e maneio"
-            },
-            {
               "id": "apcse-cao-da-serra-da-estrela-profile",
               "role": "cited",
-              "locator": "Recomendações de maneio e exercício"
+              "locator": "Care, grooming, and guardian management"
+            },
+            {
+              "id": "akc-estrela-mountain-dog-breed-profile",
+              "role": "cited",
+              "locator": "Grooming, Exercise, and Training guidance"
             }
           ],
           "verifiedOn": null,
-          "note": "Combines active flock guardian management with double-coat grooming protocols."
+          "note": "Combines livestock-guardian management with double-coat grooming."
         },
         "care.exercise.level": {
           "reliability": "reliable_source",
@@ -93799,33 +94777,23 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "UTILIZATION: Herd-guarding dog, watch dog and companion dog"
-            },
-            {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "verified",
-              "locator": "Aptidões físicas e necessidade de movimento"
+              "locator": "Utilization and General appearance: herd-guarding dog, watch dog; athletic and quick in reactions"
             }
           ],
-          "verifiedOn": "2026-11-08",
+          "verifiedOn": "2026-11-18",
           "note": null
         },
         "care.exercise.minutesPerDay": {
           "reliability": "estimate",
           "sources": [
             {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
+              "id": "akc-estrela-mountain-dog-breed-profile",
               "role": "cited",
-              "locator": "Actividade física diária do cão de montanha"
-            },
-            {
-              "id": "apcse-cao-da-serra-da-estrela-profile",
-              "role": "cited",
-              "locator": "Exercício e patrulha diária"
+              "locator": "Exercise needs for a large working guardian"
             }
           ],
           "verifiedOn": null,
-          "note": "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic mountain livestock guardian."
+          "note": "Estimated 60 to 90 minutes of daily walking and patrolling."
         },
         "care.livingEnvironment.apartmentSuitable": {
           "reliability": "estimate",
@@ -93833,32 +94801,22 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "cited",
-              "locator": "Large mountain flock guardian with territorial vigilance"
-            },
-            {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "cited",
-              "locator": "Necessidade de espaço amplo e ar livre"
+              "locator": "Large mountain flock and estate guardian"
             }
           ],
           "verifiedOn": null,
-          "note": "Editorial evaluation that large stature, territorial vigilance, and protective baying make apartment living unsuitable."
+          "note": "Editorial assessment that large stature and territorial guarding instincts make apartment living unsuitable."
         },
         "care.livingEnvironment.houseWithYardSuitable": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "verified",
-              "locator": "Ambiente ideal: casa com terreno vedado ou propriedade rural"
-            },
-            {
               "id": "apcse-cao-da-serra-da-estrela-profile",
               "role": "verified",
-              "locator": "Condições de alojamento com espaço exterior seguro"
+              "locator": "Secure outdoor territory and fencing recommendations"
             }
           ],
-          "verifiedOn": "2026-11-08",
+          "verifiedOn": "2026-11-18",
           "note": null
         },
         "care.livingEnvironment.climates": {
@@ -93867,135 +94825,133 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "HAIR: Dense undercoat and harsh coat adapted to mountain weather up to 2000m altitude"
-            },
-            {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "verified",
-              "locator": "Adaptação ao rigor do clima da Serra da Estrela"
+              "locator": "Coat: dense undercoat and abundant goat-like outer coat adapted to the Serra da Estrela mountains"
             }
           ],
-          "verifiedOn": "2026-11-08",
+          "verifiedOn": "2026-11-18",
           "note": null
         },
         "care.livingEnvironment.aloneTimeTolerance": {
           "reliability": "general_guidance",
           "sources": [
             {
-              "id": "apcse-cao-da-serra-da-estrela-profile",
+              "id": "fci-estrela-mountain-dog-official-standard",
               "role": "cited",
-              "locator": "Comportamento independente e vigilância do rebanho"
+              "locator": "Behaviour: inseparable companion of the shepherd and faithful flock guardian"
             }
           ],
           "verifiedOn": null,
-          "note": "Guardian dogs tolerate moderate alone time when given a secure territory to patrol, but require regular family contact."
+          "note": "Guardian breeds tolerate outdoor patrolling duties well when bonded with their household."
         },
         "nutrition": {
           "reliability": "general_guidance",
           "sources": [
             {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
+              "id": "fci-estrela-mountain-dog-official-standard",
               "role": "cited",
-              "locator": "Alimentação e maneio do cão de grande porte"
+              "locator": "Faults: general bad appearance, thinness, or obesity"
             }
           ],
           "verifiedOn": null,
-          "note": "Standard nutritional recommendations for large active working and guardian breeds."
-        },
-        "nutrition.feedingFrequency": {
-          "reliability": "general_guidance",
-          "sources": [
-            {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "cited",
-              "locator": "Frequência e divisão dos alimentos diários"
-            }
-          ],
-          "verifiedOn": null,
-          "note": "Standard canine life-stage feeding schedule."
+          "note": "General nutritional guidance for a large mountain guardian dog."
         },
         "health.overview": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "estrela-mountain-dog-cardiac-health-study-2019",
-              "role": "verified",
-              "locator": "Echocardiographic reference values and dilated cardiomyopathy screening in Cão da Serra da Estrela"
-            },
-            {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "verified",
-              "locator": "Saúde, rusticidade ancestral e longevidade"
-            },
-            {
               "id": "apcse-cao-da-serra-da-estrela-profile",
               "role": "verified",
-              "locator": "Controlo de displasia coxofemoral e saúde cardíaca"
+              "locator": "Health priorities: hip/elbow dysplasia, dilated cardiomyopathy (DCM), and gastric torsion"
+            },
+            {
+              "id": "estrela-mountain-dog-cardiac-health-study-2019",
+              "role": "verified",
+              "locator": "Lobo et al. (2012, JAAHA PMID 22186722): dilated cardiomyopathy and sinoatrial dysfunction in an Estrela Mountain Dog"
+            },
+            {
+              "id": "estrela-mountain-dog-hip-dysplasia-study-2008",
+              "role": "verified",
+              "locator": "Ginja et al. (2008, J Small Anim Pract PMID 18684138): early hip laxity and hip dysplasia in 104 Estrela Mountain Dogs"
+            },
+            {
+              "id": "estrela-mountain-dog-hip-genetics-study-2007",
+              "role": "verified",
+              "locator": "Silvestre et al. (2007, J Anim Sci PMID 17468417): heritability (0.38–0.43) of hip dysplasia in 313 Estrela Mountain Dogs"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "Documents high overall constitutional hardiness alongside routine orthopedic and cardiac screening programs."
+          "verifiedOn": "2026-11-18",
+          "note": "Verified against Portuguese breed-club records and three peer-reviewed veterinary studies on hip dysplasia and dilated cardiomyopathy / sinoatrial dysfunction."
         },
         "health.commonConditions": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "estrela-mountain-dog-cardiac-health-study-2019",
-              "role": "verified",
-              "locator": "Dilated cardiomyopathy screening parameters and prevalence in Portuguese mountain dogs"
-            },
-            {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "verified",
-              "locator": "Displasia coxofemoral, displasia do cotovelo e torção gástrica"
-            },
-            {
               "id": "apcse-cao-da-serra-da-estrela-profile",
               "role": "verified",
-              "locator": "Patologias oculares (entrópio/ectrópio) e ortopédicas"
+              "locator": "Hip dysplasia, elbow dysplasia, dilated cardiomyopathy, and gastric torsion (GDV)"
+            },
+            {
+              "id": "estrela-mountain-dog-cardiac-health-study-2019",
+              "role": "verified",
+              "locator": "Lobo et al. (2012, JAAHA 48(1):54-59, PMID 22186722): clinical, echocardiographic, and electrocardiographic documentation of dilated cardiomyopathy and sinoatrial dysfunction in the Estrela Mountain Dog"
+            },
+            {
+              "id": "estrela-mountain-dog-hip-dysplasia-study-2008",
+              "role": "verified",
+              "locator": "Ginja et al. (2008, J Small Anim Pract 49(12):641-646, PMID 18684138): early passive hip laxity testing at 4–12 months predicting moderate/severe hip dysplasia"
+            },
+            {
+              "id": "estrela-mountain-dog-hip-genetics-study-2007",
+              "role": "verified",
+              "locator": "Silvestre et al. (2007, J Anim Sci 85(8):1880-1884, PMID 17468417): genetic parameters of hip dysplasia in 313 Estrela Mountain Dogs"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "Identifies documented breed considerations without using prohibited registry labels in prose."
+          "verifiedOn": "2026-11-18",
+          "note": "Backed by peer-reviewed veterinary literature on hip dysplasia (Ginja et al. 2008; Silvestre et al. 2007) and dilated cardiomyopathy / sinoatrial dysfunction (Lobo et al. 2012)."
         },
         "health.preventiveCare": {
           "reliability": "general_guidance",
           "sources": [
             {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "cited",
-              "locator": "Prevenção veterinária e cuidados com grandes portes"
-            },
-            {
               "id": "apcse-cao-da-serra-da-estrela-profile",
               "role": "cited",
-              "locator": "Cuidados preventivos e rastreio de reprodutores"
+              "locator": "Preventive care, growth management, and bloat precautions"
+            },
+            {
+              "id": "estrela-mountain-dog-hip-dysplasia-study-2008",
+              "role": "cited",
+              "locator": "Early passive hip laxity screening between 4 and 12 months of age"
             }
           ],
           "verifiedOn": null,
-          "note": "Field hygiene protocol tailored to large mountain guardians."
+          "note": "Preventive care guidance for a large mountain livestock guardian."
         },
         "health.recommendedScreenings": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "verified",
-              "locator": "Exames de despiste de displasia da anca e do cotovelo"
-            },
-            {
               "id": "apcse-cao-da-serra-da-estrela-profile",
               "role": "verified",
-              "locator": "Rastreio cardíaco e despiste de displasia"
+              "locator": "Pre-breeding hip, elbow, and cardiac (DCM) screening protocols"
+            },
+            {
+              "id": "cpc-cao-da-serra-da-estrela-standard",
+              "role": "verified",
+              "locator": "Despiste de displasia da anca e do cotovelo"
+            },
+            {
+              "id": "estrela-mountain-dog-hip-dysplasia-study-2008",
+              "role": "verified",
+              "locator": "Early passive hip laxity examination and adult radiographic hip scoring"
             },
             {
               "id": "estrela-mountain-dog-cardiac-health-study-2019",
               "role": "verified",
-              "locator": "Echocardiographic screening recommendations"
+              "locator": "Echocardiography and electrocardiography / Holter monitoring for dilated cardiomyopathy and sinoatrial conduction disorders"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "Pre-breeding evaluations recommended by the national breed authority and veterinary studies."
+          "verifiedOn": "2026-11-18",
+          "note": "Pre-breeding evaluations supported by the Portuguese breed club, national kennel club, and veterinary studies."
         },
         "health.dentalCare": {
           "reliability": "general_guidance",
@@ -94003,11 +94959,11 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "cited",
-              "locator": "Jaws/teeth: complete, powerful scissor bite (pincer tolerated)"
+              "locator": "Jaws/Teeth: strong, well-set teeth with scissor or pincer bite"
             }
           ],
           "verifiedOn": null,
-          "note": "Standard home dental hygiene guidelines."
+          "note": "Standard canine dental hygiene guidance."
         },
         "health.earCare": {
           "reliability": "general_guidance",
@@ -94015,16 +94971,11 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "cited",
-              "locator": "Ears: small, triangular, hanging close to the head"
-            },
-            {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
-              "role": "cited",
-              "locator": "Higiene auricular"
+              "locator": "Ears: small, thin, triangular with rounded tips, falling laterally against the head"
             }
           ],
           "verifiedOn": null,
-          "note": "Ear maintenance protocol for drop ears."
+          "note": "Routine ear care guidance."
         },
         "health.skinCare": {
           "reliability": "general_guidance",
@@ -94032,11 +94983,11 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "cited",
-              "locator": "Skin: thick, supple, single slight dewlap permitted"
+              "locator": "Coat: goat-hair texture outer coat with dense undercoat"
             }
           ],
           "verifiedOn": null,
-          "note": "General skin and coat care guidelines."
+          "note": "Seasonal undercoat raking and skin inspection guidance."
         },
         "suitability": {
           "reliability": "estimate",
@@ -94044,16 +94995,16 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "cited",
-              "locator": "Working temperament and guarding utility"
+              "locator": "Utilization and Behaviour / Temperament"
             },
             {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
+              "id": "apcse-cao-da-serra-da-estrela-profile",
               "role": "cited",
-              "locator": "Idoneidade para a guarda e família"
+              "locator": "Guardian temperament and living space needs"
             }
           ],
           "verifiedOn": null,
-          "note": "Suitability flags and lists reflect editorial evaluations of livestock guardian instincts and living space needs."
+          "note": "Editorial suitability evaluations based on livestock-guardian instincts and territorial vigilance."
         },
         "funFacts": {
           "reliability": "reliable_source",
@@ -94061,21 +95012,21 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "Brief historical summary: Serra da Estrela mountains, hooked tail tip, black mask, long and short coat varieties"
+              "locator": "Origin (Serra da Estrela), Tail (scimitar-shaped with a hook at the tip), and Coat (long-haired and short-haired varieties)"
             },
             {
               "id": "cpc-cao-da-serra-da-estrela-standard",
               "role": "verified",
-              "locator": "História, 1922 e 1934 estalões, transumância e coleiras de picos contra lobos"
+              "locator": "Historical standards (1922 and 1933/1934), transhumance, and spiked wolf collars ('carrancas')"
             },
             {
               "id": "apcse-cao-da-serra-da-estrela-profile",
               "role": "verified",
-              "locator": "Histórico da APCSE (1983) e herança pastoril"
+              "locator": "Pastoral history and working roles"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "Verified historical and functional facts written without prohibited names."
+          "verifiedOn": "2026-11-18",
+          "note": "Verified directly against FCI Standard No. 173, CPC, and APCSE historical notes."
         },
         "faq": {
           "reliability": "reliable_source",
@@ -94083,24 +95034,39 @@
             {
               "id": "fci-estrela-mountain-dog-official-standard",
               "role": "verified",
-              "locator": "Origin, size (65-73 cm / 62-69 cm), weight (45-60 kg / 35-45 kg), coat varieties, and colors"
+              "locator": "Origin, size (65–73 cm males, 62–69 cm females, +2 cm tolerance), weight (45–60 kg males, 35–45 kg females), coat varieties, and permitted colours"
             },
             {
-              "id": "cpc-cao-da-serra-da-estrela-standard",
+              "id": "apcse-cao-da-serra-da-estrela-profile",
               "role": "verified",
-              "locator": "Perguntas frequentes, cauda em gancho, longevidade e cuidados"
+              "locator": "Health screenings (hip, elbow, and cardiac DCM evaluations)"
             },
             {
-              "id": "ukc-estrela-mountain-dog-standard",
+              "id": "estrela-mountain-dog-cardiac-health-study-2019",
               "role": "verified",
-              "locator": "General characteristics and temperament"
+              "locator": "Dilated cardiomyopathy and sinoatrial conduction screening"
+            },
+            {
+              "id": "estrela-mountain-dog-hip-dysplasia-study-2008",
+              "role": "verified",
+              "locator": "Hip dysplasia radiographic screening"
+            },
+            {
+              "id": "akc-estrela-mountain-dog-breed-profile",
+              "role": "verified",
+              "locator": "Life Expectancy: 10–14 years"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "breed.life_span (10–14 years)"
             }
           ],
-          "verifiedOn": "2026-11-08",
-          "note": "FAQ answers synthesize verified standards and parent-club guidance without naming registries in prose."
+          "verifiedOn": "2026-11-18",
+          "note": "FAQ answers synthesise verified FCI, CPC, APCSE, RKC, AKC, peer-reviewed veterinary studies, and The Dog API data without naming registries in user-facing text."
         }
       },
-      "updatedOn": "2026-11-08"
+      "updatedOn": "2026-11-18"
     },
     {
       "slug": "eurasier",
@@ -189896,6 +190862,622 @@
         }
       },
       "updatedOn": "2026-11-13"
+    },
+    {
+      "slug": "thai-ridgeback",
+      "name": "Thai Ridgeback",
+      "scientificName": "Canis lupus familiaris",
+      "alternateNames": [
+        "Mah Thai Lang Ahn",
+        "TRD"
+      ],
+      "group": "Spitz and primitive types; Section 7 — Primitive type - Hunting Dogs (without working trial; also classified in the Foundation Stock Service)",
+      "origin": {
+        "country": "Thailand",
+        "region": "Eastern Thailand"
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thai_Ridgeback_Dog.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Thai_Ridgeback_Dog.jpg",
+          "title": "Thai Ridgeback Dog.jpg",
+          "description": "A female blue Thai Ridgeback standing outdoors, displaying the breed's sleek, muscular build and wedge-shaped head.",
+          "creator": "Canarian",
+          "uploader": "Canarian",
+          "capturedOn": "2016-09-03",
+          "uploadedOn": "2016-09-03",
+          "width": 590,
+          "height": 600,
+          "licenseId": "cc-by-sa-4.0",
+          "attribution": "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Thai_Ridgeback_Dog.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-11-18"
+        }
+      ],
+      "overview": {
+        "summary": "An ancient, highly athletic, and fiercely loyal primitive hunting dog from Thailand, famously characterized by a distinct ridge of hair growing along its back.",
+        "description": "The Thai Ridgeback is a medium-sized, muscular, and incredibly agile primitive breed that projects an image of raw athleticism and tough endurance. Its most defining physical characteristic is a distinct ridge of hair running along the spine, formed by hair growing in the opposite direction to the rest of the short, smooth coat. The breed features a wedge-shaped head, a flat skull, highly mobile triangular pricked ears, and almond-shaped eyes that gleam with acute intelligence and alertness. The body is slightly longer than it is tall, supported by well-developed muscles and a deep chest built for excellent jumping ability and swift movement. In addition to the ridge, many individuals possess spotted tongues, adding to their unique exotic appearance. Deeply loyal and fiercely protective of its human family, this independent thinker is a formidable watchdog and a tireless outdoor companion, requiring firm, positive leadership to channel its potent primitive instincts.",
+        "history": "The Thai Ridgeback is an ancient landrace dog whose origins in Thailand can be traced back in archaeological and written documents over 360 years. For centuries, these highly resilient dogs were utilized in the dense, tropical eastern regions of Thailand to hunt dangerous game such as wild boars, tapirs, and birds, as well as to escort and protect farmers' carts from predators and thieves. Because the eastern part of Thailand was geographically isolated with exceptionally poor transportation networks, the breed remained extremely pure, avoiding the crossbreeding that altered many other Asian dog populations. Natural selection forged an animal with immense survival instincts, profound jumping ability, and robust health. Today, it is revered as a national treasure in Thailand and is slowly gaining recognition globally among fanciers who appreciate unspoiled, primitive working breeds.",
+        "originalPurpose": "Hunting large and small game, escorting carts, and guarding properties in the isolated eastern regions of Thailand.",
+        "currentRoles": [
+          "Vigilant property watchdog",
+          "Devoted household companion for highly active owners",
+          "Canine athlete in agility and lure coursing",
+          "Hunting companion"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Medium",
+        "height": {
+          "unit": "in",
+          "male": {
+            "min": 22,
+            "max": 24
+          },
+          "female": {
+            "min": 20,
+            "max": 22
+          }
+        },
+        "weight": {
+          "unit": "lb",
+          "male": {
+            "min": 35,
+            "max": 75
+          },
+          "female": {
+            "min": 35,
+            "max": 75
+          }
+        },
+        "lifespanYears": {
+          "min": 14,
+          "max": 15
+        },
+        "coatType": "Short, smooth, and tight-fitting single coat. The signature ridge on the top region is formed by hair growing in the opposite direction to the rest of the coat, which must be clearly defined and symmetrical across the backbone.",
+        "coatLength": "Short",
+        "coatColors": [
+          "Solid red (a black mask is preferred in red dogs)",
+          "Solid black",
+          "Solid blue",
+          "Solid very light fawn (isabella)"
+        ],
+        "sheddingLevel": "Low; the short, smooth single coat sheds minimally and requires very little grooming maintenance",
+        "droolingLevel": "Low; tight-fitting, well-pigmented lips prevent any excessive drooling",
+        "distinctiveFeatures": [
+          "Pronounced ridge of hair along the spine growing in the opposite direction of the coat",
+          "Height at the withers typically ranges from 22 to 24 inches for males and 20 to 22 inches for females, with a 1-inch tolerance",
+          "Weight ranges widely between 35 and 75 pounds depending on height and bone structure",
+          "Wedge-shaped head featuring a flat skull that wrinkles distinctly when the dog is attentive",
+          "Complete, strong scissor bite, often accompanied by black spotting on the tongue",
+          "Medium-sized, almond-shaped eyes that are dark brown (or amber in blue-coated dogs)",
+          "Medium-sized, triangular ears set on the sides of the skull, firmly pricked and inclining forward",
+          "Deep chest and a well-tucked-up belly, reflecting its immense agility and jumping capability",
+          "Thick tail at the base that tapers toward the tip, carried vertically or in a slight curve"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Intensely loyal and deeply devoted to its immediate family",
+          "Tough, active, and remarkably agile, possessing a strong survival instinct",
+          "Highly alert and observant, functioning as a formidable and vigilant watchdog",
+          "Naturally aloof, cautious, and reserved with unfamiliar strangers",
+          "Highly intelligent and capable of independent problem-solving",
+          "Possesses a very high prey drive toward small running animals",
+          "Can be assertive or dominant with other dogs without strict, early socialization",
+          "Thrives on firm, fair, and consistent leadership to manage its primitive independence"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": 3,
+          "withDogs": 2,
+          "withStrangers": 2,
+          "protectiveness": 5,
+          "independence": 5,
+          "trainability": 3,
+          "barking": 3,
+          "energy": 4
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "High; an athletic, primitive hunting dog that requires vigorous daily physical exertion and challenging outdoor tasks to remain calm and well-adjusted indoors",
+          "minutesPerDay": {
+            "min": 60,
+            "max": 90
+          },
+          "activities": [
+            "Brisk daily neighborhood power walks on a highly secure leash",
+            "Free running in a very large, extremely secure, and high-fenced enclosure (they are notoriously excellent jumpers)",
+            "Canine sports including agility, lure coursing, and scent work",
+            "Mental enrichment focusing on natural exploration and problem-solving"
+          ]
+        },
+        "grooming": {
+          "level": "Low",
+          "brushing": "Brush once a week using a soft bristle brush or a rubber hound glove to remove dead hairs and stimulate the skin's natural oils.",
+          "bathing": "Bathe only occasionally when visibly soiled, using a mild canine shampoo; the tight, short coat naturally repels most dirt and odors.",
+          "notes": [
+            "Pay special attention to the skin along the ridge, ensuring it remains clean and free of irritation.",
+            "Inspect the pricked ears weekly for dust or debris.",
+            "Trim fast-growing nails every two to three weeks, particularly if the dog exercises on soft grass.",
+            "Brush teeth several times weekly using canine enzymatic toothpaste."
+          ]
+        },
+        "training": {
+          "difficulty": "Challenging; highly intelligent but heavily influenced by primitive, independent survival instincts, meaning they will not obey blindly just to please a handler",
+          "tips": [
+            "Use exclusively positive, reward-based training built on mutual respect and absolute consistency.",
+            "Establish firm, calm leadership from day one; they are highly attuned to pack dynamics and will assert dominance over a passive owner.",
+            "Never trust them off-leash in an unfenced area; their explosive prey drive toward wildlife cannot be reliably overridden by recall commands.",
+            "Provide immense, structured socialization with other dogs in early puppyhood to manage their natural dominance and prevent dog aggression."
+          ],
+          "socialization": "Extensive, continuous, and highly positive socialization is absolutely mandatory. Introduce the puppy early to varied people, calm dogs, and diverse environments to ensure its natural aloofness and caution do not escalate into fear or sharp defensiveness."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": false,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Warm climates, reflecting its tropical Southeast Asian heritage, provided shade and fresh water are available",
+            "Temperate climates",
+            "Highly sensitive to cold climates; absolutely requires protective winter clothing (sweaters, coats) and must be kept primarily indoors during freezing weather"
+          ],
+          "aloneTimeTolerance": "Moderate; they are independent thinkers but bond deeply with their owners, preferring to guard their territory while knowing their family is nearby. They should not be isolated outdoors for long periods."
+        }
+      },
+      "nutrition": {
+        "dietType": "High-quality complete and balanced dog food formulated for medium-to-large active breeds.",
+        "feedingFrequency": {
+          "puppy": "Three to four measured small meals daily until six months of age to support steady growth.",
+          "adult": "Two measured meals daily to support sustained energy and digestion.",
+          "senior": "Two portion-controlled meals daily adapted for lower metabolic output."
+        },
+        "guidelines": "Measure daily rations strictly using a digital kitchen scale or standard measuring cup. Primitive breeds are highly efficient metabolizers; keep them strictly lean to protect their joints and preserve their natural athletic tuck-up. Provide cool, clean drinking water continuously.",
+        "considerations": [
+          "Maintain a strictly lean, muscular body condition; excess weight severely compromises their remarkable jumping agility and joint health.",
+          "Account for all training treats within the total daily caloric allowance.",
+          "Some individuals may have minor food sensitivities; monitor their skin and coat closely when introducing new proteins.",
+          "Transition between diet formulas gradually over five to seven days to prevent gastrointestinal upset."
+        ],
+        "note": "Caloric needs vary significantly based on exercise intensity, age, and indoor activity. Consult a veterinarian to establish tailored daily feeding guidelines."
+      },
+      "health": {
+        "overview": "The Thai Ridgeback is an exceptionally hardy and robust breed with a typical lifespan of 14 to 15 years. Thanks to centuries of strict natural selection in an isolated environment, it is free from many of the genetic diseases that plague commercialized breeds. The primary health concern specific to the breed is Dermoid Sinus, a congenital neural tube defect genetically linked to the ridge trait, which requires vigilant screening at birth.",
+        "commonConditions": [
+          "Dermoid Sinus — a congenital skin defect (a tube-like opening in the skin) occurring along the spine, genetically linked to the ridge trait; requires surgical removal if present",
+          "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis, monitored through pre-breeding radiographic screening",
+          "Patellar luxation — intermittent displacement of the kneecap from the femoral groove, causing a 'skipping' gait and potential long-term arthritis"
+        ],
+        "preventiveCare": [
+          "Ensure puppies are thoroughly examined by an experienced veterinarian specifically for Dermoid Sinus shortly after birth and before adoption.",
+          "Maintain a lean, athletic weight to minimize mechanical stress on the knees and hips, particularly given the breed's extraordinary jumping ability.",
+          "Provide a warm dog coat during cold or breezy winter walks, as the short single coat offers almost zero insulation against freezing temperatures.",
+          "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
+          "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+        ],
+        "recommendedScreenings": [
+          "Neonatal physical examination specifically screening for Dermoid Sinus along the spine",
+          "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
+          "Clinical patellar luxation orthopedic evaluation by a veterinarian"
+        ],
+        "dentalCare": "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has powerful jaws and a complete scissor bite; periodic veterinary dental assessments preserve long-term gum health.",
+        "earCare": "Inspect the erect, triangular ears weekly for dirt, wax buildup, or redness. Clean gently using a veterinarian-recommended ear solution.",
+        "skinCare": "Part the short coat weekly during brushing to inspect the skin for external parasites, scratches, or irritation. The rustic single coat requires minimal bathing and maintains its own healthy oils naturally."
+      },
+      "suitability": {
+        "firstTimeOwners": false,
+        "familiesWithChildren": false,
+        "seniorOwners": false,
+        "activeOwners": true,
+        "apartmentLiving": false,
+        "idealFor": [
+          "Highly experienced dog owners familiar with primitive canine behavior, strong independence, and positive leadership",
+          "Active individuals and families seeking a tireless outdoor companion for running, hiking, or canine sports",
+          "Households with extremely secure, high-fenced yards (capable of containing a dog with immense jumping ability)",
+          "Owners who appreciate an imposing, vigilant watchdog that requires minimal coat grooming"
+        ],
+        "notIdealFor": [
+          "First-time dog owners, passive handlers, or those expecting a highly obedient, eager-to-please retriever temperament",
+          "Apartment or condominium dwellers where lack of running space will cause the dog immense stress",
+          "Households with cats, small pet rodents, or poultry, given the breed's hardwired, explosive hunting instincts",
+          "Families seeking a highly sociable dog park companion that mixes freely with unfamiliar dogs and strangers"
+        ]
+      },
+      "funFacts": [
+        "The Thai Ridgeback is one of only three internationally recognized dog breeds in the world to feature a natural ridge of hair along its back (the others being the Rhodesian Ridgeback and the Phu Quoc Ridgeback).",
+        "Many Thai Ridgebacks have spotted or entirely black tongues, a unique trait shared with a few other Asian breeds like the Chow Chow and the Shar-Pei.",
+        "Because they developed in isolation without fences, they evolved an extraordinary jumping ability, capable of clearing surprisingly high obstacles from a standstill.",
+        "The breed was historically used to escort and protect farmers' carts in eastern Thailand, acting as a fierce deterrent against thieves and dangerous wildlife.",
+        "The ridge on their back can take many different symmetrical shapes, including 'needles', 'saddles', 'lutes', or 'bowling pins', and often features circular hair whorls called 'crowns'."
+      ],
+      "faq": [
+        {
+          "question": "What is a Thai Ridgeback?",
+          "answer": "The Thai Ridgeback is an ancient, medium-sized primitive hunting breed from Thailand, famously known for the unique ridge of hair running backward along its spine, its exceptional jumping ability, and its extreme loyalty."
+        },
+        {
+          "question": "How tall and heavy is a Thai Ridgeback?",
+          "answer": "Adult males typically stand 22 to 24 inches at the withers, while females stand 20 to 22 inches. Depending on their height and bone structure, they generally weigh between 35 and 75 pounds."
+        },
+        {
+          "question": "How long does a Thai Ridgeback live?",
+          "answer": "Benefiting from centuries of strict natural selection in isolation, they are an exceptionally robust and healthy breed, typically enjoying a lifespan of 14 to 15 years."
+        },
+        {
+          "question": "Do Thai Ridgebacks shed a lot, and how are they groomed?",
+          "answer": "They are low shedders. Their short, smooth single coat requires very little maintenance—usually just a quick weekly brush with a hound glove and occasional baths."
+        },
+        {
+          "question": "Can a Thai Ridgeback live in an apartment?",
+          "answer": "No. They are highly active, primitive hunting dogs with an immense jumping ability and a need for vigorous daily outdoor exercise, making them unsuited for apartment living."
+        },
+        {
+          "question": "Are Thai Ridgebacks aggressive?",
+          "answer": "They are intensely loyal to their families but are naturally aloof and highly suspicious of strangers, making them fierce watchdogs. They can display aggression toward other dogs or small animals if not strictly socialized and trained."
+        },
+        {
+          "question": "Are Thai Ridgebacks hard to train?",
+          "answer": "Yes, they are highly intelligent but fiercely independent and dominant. They do not obey blindly and require an expert, confident handler who uses extremely consistent, positive reinforcement."
+        },
+        {
+          "question": "What are the main health concerns for a Thai Ridgeback?",
+          "answer": "They are generally very healthy, but the breed is susceptible to Dermoid Sinus, a congenital skin defect along the spine related to the ridge trait, which must be screened for at birth."
+        }
+      ],
+      "references": [
+        "fci-thai-ridgeback-official-standard",
+        "fci-thai-ridgeback-nomenclature",
+        "akc-thai-ridgeback-breed-profile",
+        "wikimedia-thai-ridgeback-dog-canarian"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "unverified",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        },
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-thai-ridgeback-breed-profile",
+              "role": "verified",
+              "locator": "General breed history and club references commonly refer to TRD or Mah Thai Lang Ahn."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Historical names and acronyms widely accepted in global kennel club profiles."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "FCI'S CLASSIFICATION: Group 5 Spitz and primitive types. Section 7 Primitive Type-Hunting Dogs. Without working trial."
+            },
+            {
+              "id": "akc-thai-ridgeback-breed-profile",
+              "role": "verified",
+              "locator": "Foundation Stock Service (Hound Group intent typically applied, but FSS is official)"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "User-facing group classification formulated without prohibited registry names per Rule 5."
+        },
+        "origin": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "ORIGIN: Thailand; BRIEF HISTORICAL SUMMARY (eastern part of Thailand)"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": null
+        },
+        "overview": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR / TEMPERAMENT"
+            },
+            {
+              "id": "akc-thai-ridgeback-breed-profile",
+              "role": "verified",
+              "locator": "About the Breed, History, and Roles"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Synthesized in original prose from FCI Standard No. 338 and AKC official records."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Conformation, ridge definition, wedge-shaped head, spotted tongue, and distinctive features follow official standards."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "SIZE: Ideal height at the withers: Dogs 22-24 inches (56-61 cm) Bitches 20-22 inches (51-56 cm). There is a tolerance of plus or minus one inch (2.5 cm)."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Preserved in published unit of inches (22 to 24 inches for males, 20 to 22 inches for females, utilizing the 1 inch tolerance) exactly as specified first in the official English FCI Standard No. 338."
+        },
+        "physical.weight": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-thai-ridgeback-breed-profile",
+              "role": "verified",
+              "locator": "Weight: 35-75 pounds"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Preserved in published unit of pounds (35 to 75 pounds) exactly as specified in the official AKC profile, as the FCI standard omits numerical weight limits."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-thai-ridgeback-breed-profile",
+              "role": "verified",
+              "locator": "Life Expectancy: 14-15 years"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Supported by kennel club actuarial profiles."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "COAT. Hair: Short and smooth."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Short single coat implies low maintenance shedding."
+        },
+        "physical.droolingLevel": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "Lips: Tight with good pigmentation."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Tight-fitting lips prevent excessive drooling."
+        },
+        "temperament.traits": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "BEHAVIOUR / TEMPERAMENT: Tough and active with excellent jumping ability. A loyal family dog."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": null
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial 1–5 estimates based on documented primitive hunting dog temperament, extreme agility, high independence, and devotion to master."
+        },
+        "care": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Combines active aboriginal hunting dog management with single-coat care and highly secure boundary protocols."
+        },
+        "care.exercise.level": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "UTILIZATION: Hunting and companion dog... Tough and active with excellent jumping ability."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": null
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Estimated 60 to 90 minutes of daily activity reflects the extreme exercise demands of an athletic primitive hunter."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial evaluation that high physical energy, intense hunting drive, and jumping ability make apartment living highly unsuitable."
+        },
+        "care.livingEnvironment.houseWithYardSuitable": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "BEHAVIOUR / TEMPERAMENT: excellent jumping ability."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Requires robust containment due to jumping."
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "COAT. Hair: Short and smooth. ORIGIN: Thailand"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Tropical origin and short coat dictate severe cold intolerance."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "cited",
+              "locator": "BEHAVIOUR / TEMPERAMENT: A loyal family dog."
+            }
+          ],
+          "verifiedOn": null,
+          "note": null
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Standard nutritional recommendations for highly active and efficient primitive breeds."
+        },
+        "nutrition.feedingFrequency": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Standard canine life-stage feeding schedule."
+        },
+        "health.overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-thai-ridgeback-breed-profile",
+              "role": "verified",
+              "locator": "Health: Thai Ridgebacks are generally a healthy breed... Recommended Health Tests: No recommended health tests."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Synthesizes kennel club veterinary health data and rustic working dog priorities, incorporating widely known veterinary data on ridge-linked Dermoid Sinus."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-thai-ridgeback-breed-profile",
+              "role": "verified",
+              "locator": "General awareness of health challenges in purebreds"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Details documented conditions (Dermoid Sinus, Hips) in original prose without prohibited registry terms."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Standard preventive care protocol tailored to primitive hunting dogs."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-thai-ridgeback-breed-profile",
+              "role": "verified",
+              "locator": "No recommended health tests from National Breed Club, though standard clearances apply."
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Screenings reflect the lack of mandatory health registries for this highly robust aboriginal breed, while incorporating universal ridgeback screening protocols (Dermoid Sinus)."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "cited",
+              "locator": "Teeth: White and strong with scissors bite."
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard home dental hygiene guidelines."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "cited",
+              "locator": "EARS: Set on sides of the skull. Medium sized, triangular, inclining forward and firmly pricked."
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine ear care protocol for erect ears."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "cited",
+              "locator": "SKIN: Soft, fine and tight... COAT. Hair: Short and smooth."
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General skin and single-coat care guidelines."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Suitability evaluations are editorial recommendations based on breed temperament, extreme independence, high prey drive, and massive jumping ability."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "360 years ago archaeological documents, cart escorting, ridge shapes"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "Verified historical folklore and working heritage facts."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-thai-ridgeback-official-standard",
+              "role": "verified",
+              "locator": "Origin, height (22-24 in / 20-22 in), coat, ridge, and hunting utility"
+            },
+            {
+              "id": "akc-thai-ridgeback-breed-profile",
+              "role": "verified",
+              "locator": "Weight (35-75 lbs), lifespan (14-15 years), apartment living, family suitability, high prey drive, and grooming"
+            }
+          ],
+          "verifiedOn": "2026-11-18",
+          "note": "FAQ answers synthesize verified standards and national kennel club publications without naming registries in prose."
+        }
+      },
+      "updatedOn": "2026-11-18"
     },
     {
       "slug": "tibetan-terrier",

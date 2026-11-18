@@ -219,6 +219,8 @@ import { south_russian_ovcharka } from "./south_russian_ovcharka";
 import { border_collie } from "./border_collie";
 import { pont_audemer_spaniel } from "./pont_audemer_spaniel";
 import { jamthund } from "./jamthund";
+import { bedlington_terrier } from "./bedlington_terrier";
+import { thai_ridgeback } from "./thai_ridgeback";
 
 
 export const breedData: readonly Breed[] = [
@@ -437,4 +439,6 @@ export const breedData: readonly Breed[] = [
   border_collie,
   pont_audemer_spaniel,
   jamthund,
+  bedlington_terrier,
+  thai_ridgeback,
 ];
