@@ -3,7 +3,7 @@ import type { Breed } from "../schema/breed.types";
 export const west_highland_white_terrier: Breed = {
   slug: "west-highland-white-terrier",
   name: "West Highland White Terrier",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Westie",
@@ -12,78 +12,76 @@ export const west_highland_white_terrier: Breed = {
     "White Roseneath Terrier",
     "Little Colonel",
     "Chien Terrier Blanc des Highlands de l'Ouest",
-    "Weißer Hochland-Terrier"
+    "Weißer Hochland-Terrier",
   ],
 
   group:
-    "Terriers; Section 2 — Small-sized Terriers (without working trial; also classified in the Terrier group)",
+    "Terriers; Section 2 — Small-sized Terriers (without working trial)",
 
   origin: {
     country: "Great Britain",
-    region:
-      "Poltalloch, Argyllshire, and the Western Highlands of Scotland"
+    region: "Poltalloch, Argyllshire, and the Western Highlands of Scotland",
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/West_Highland_White_Terrier.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/West_Highland_White_Terrier_lying_on_lawn_May_2023.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:West_Highland_White_Terrier.jpg",
-      title: "West Highland White Terrier.jpg",
+        "https://commons.wikimedia.org/wiki/File:West_Highland_White_Terrier_lying_on_lawn_May_2023.jpg",
+      title: "West Highland White Terrier lying on lawn May 2023.jpg",
       description:
-        "An adult West Highland White Terrier standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
-      licenseId: "cc-by-sa-3.0",
+        "An adult West Highland White Terrier resting on a green lawn, showing the white double coat, dark eyes, black nose, and small erect pointed ears.",
+      creator: "Dominic Nelson (BigDom)",
+      uploader: "BigDom",
+      capturedOn: "2023-05-29",
+      uploadedOn: "2023-05-29",
+      width: 3617,
+      height: 2421,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:West_Highland_White_Terrier.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Dominic Nelson (BigDom), Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:West_Highland_White_Terrier_lying_on_lawn_May_2023.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
+      metadataCheckedOn: "2026-11-18",
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/West_highland_white_terrier.JPG",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/West_highland_white_terrier_454.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:West_highland_white_terrier.JPG",
-      title: "West highland white terrier.JPG",
+        "https://commons.wikimedia.org/wiki/File:West_highland_white_terrier_454.jpg",
+      title: "West highland white terrier 454.jpg",
       description:
-        "A West Highland White Terrier standing outdoors at a dog show.",
+        "A West Highland White Terrier at a dog show in Katowice, Poland.",
       creator: "Pleple2000",
       uploader: "Pleple2000",
-      capturedOn: "2008-10-05",
-      uploadedOn: "2008-10-18",
-      width: 2400,
-      height: 1800,
+      capturedOn: "2007-03-16",
+      uploadedOn: "2007-03-27",
+      width: 1748,
+      height: 1518,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:West_highland_white_terrier.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:West_highland_white_terrier_454.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-08"
-    }
+      metadataCheckedOn: "2026-11-18",
+    },
   ],
 
   overview: {
     summary:
-      "A sturdy, compact, and spirited Scottish earth dog renowned for its snow-white harsh double coat, piercing dark eyes, erect triangular ears, carrot-shaped tail, and fearlessly confident yet cheerful disposition.",
+      "The West Highland White Terrier is a compact, strongly built Scottish earth dog celebrated for its harsh pure-white double coat, piercing dark eyes beneath heavy brows, small erect pointed ears, straight carrot-shaped tail, and self-assured, cheerful character.",
 
     description:
-      "The West Highland White Terrier is a small, compact, and strongly built Scottish terrier that combines robust power and agility in a self-reliant, balanced frame. Possessing a deep chest, muscular limbs, and a level topline, the dog was developed to pursue badgers, foxes, and otters into subterranean granite cairns across the rugged Scottish Highlands. Its glistening pure-white double coat consists of a harsh, straight outer coat roughly five centimetres in length over a soft, dense, and insulating undercoat. The head is thickly coated and rounded in silhouette, featuring a distinct stop, strong jaws with a level or scissor bite, dark wide-set eyes radiating keen intelligence, and small, sharply pointed erect ears. In domestic life, the dog is an affectionate, lively, and entertaining companion that remains alert, independent, and always ready for adventure.",
+      "Combining notable strength and agility in a small, muscular frame, the West Highland White Terrier has a deep chest, well-arched upper ribs that flatten along the sides, a level back, and powerful hindquarters designed for working in tight rocky crevices. Its double coat pairs a straight, harsh outer jacket roughly 5 cm long—free of any curl—with a short, soft, close-lying undercoat that resembles fur, always in pure white. The head is thickly furnished and carried at a right angle or less to the neck, with a slightly domed skull, a distinct stop under heavy bony ridges, strong level jaws with large teeth in a scissor bite, wide-set dark eyes, and small, sharply pointed erect ears covered in short velvety hair. Alert, courageous, and full of self-esteem with a mischievous expression, the breed is equally self-reliant in the field and friendly around the home.",
 
     history:
-      "The breed shares a common ancestral heritage with other Scottish earth dogs, including the Cairn, Scottish, and Skye Terriers, which were bred for centuries to control subterranean predators and agricultural vermin. In the nineteenth century, Colonel Edward Donald Malcolm of Poltalloch in Argyllshire systematically selected and refined white working terriers following a tragic hunting accident where one of his prized dark-coated hounds was mistaken for a fox and shot; Malcolm resolved to breed solely white terriers that would stand out distinctly against the heather, peat, and granite boulders. Contemporaneously, the Duke of Argyll maintained white earth dogs at his estate in Roseneath, leading to early names such as the Poltalloch Terrier and Roseneath Terrier. The white terriers were exhibited in Scotland in the late nineteenth century and officially recognized as an independent purebred dog in the early twentieth century, rapidly gaining worldwide acclaim as both an adaptable companion and an alert watchdog.",
+      "Descended from the rough-coated working earth dogs of the Scottish Highlands—sharing early lineage with the Cairn, Scottish, and Skye Terriers—the West Highland White Terrier was bred to bolt and dispatch foxes, badgers, otters, and vermin among granite cairns and boulders. Although pale puppies occasionally appeared in highland terrier litters for generations, Colonel Edward Donald Malcolm of Poltalloch in Argyllshire is credited with fixing the white strain in the nineteenth century after one of his reddish-brown terriers was mistaken for a fox in heavy cover and accidentally shot; thereafter he bred exclusively for white working terriers that could be clearly distinguished from quarry. Around the same period, George Campbell, 8th Duke of Argyll, maintained a line of white earth dogs at his Roseneath estate in Dunbartonshire. Known early on as the Poltalloch Terrier and the Roseneath Terrier, the breed was first exhibited under the name West Highland White Terrier in 1904, gained formal British recognition in 1907, and received definitive international recognition in October 1954.",
 
     originalPurpose:
-      "Dispatching badgers, foxes, otters, and vermin in rocky subterranean dens and rough cairns across the Scottish Highlands.",
+      "Bolting and dispatching foxes, badgers, otters, and vermin in rocky cairns and underground dens across the Western Highlands of Scotland.",
 
     currentRoles: [
-      "Devoted household companion and family pet",
-      "Vigilant home watchdog",
-      "Earthdog and scent-work trial competitor",
-      "Canine athlete in agility, rally, and obedience trials"
-    ]
+      "Affectionate household companion and family dog",
+      "Alert domestic watchdog",
+      "Earthdog, scent-work, agility, and obedience participant",
+    ],
   },
 
   physical: {
@@ -93,143 +91,133 @@ export const west_highland_white_terrier: Breed = {
       unit: "cm",
       male: {
         min: 28,
-        max: 28
+        max: 28,
       },
       female: {
         min: 28,
-        max: 28
-      }
+        max: 28,
+      },
     },
 
     weight: {
       unit: "kg",
       male: {
         min: 7,
-        max: 10
+        max: 10,
       },
       female: {
-        min: 7,
-        max: 10
-      }
+        min: 6,
+        max: 7,
+      },
     },
 
     lifespanYears: {
       min: 13,
-      max: 15
+      max: 15,
     },
 
     coatType:
-      "Harsh double coat consisting of a straight, hard outer coat approximately 5 cm in length without curl or wave, over a short, soft, and close-fitting undercoat; abundant furnishings on the head frame a characteristic round silhouette.",
+      "Harsh double coat with a straight outer coat about 5 cm long, free from any curl, over a short, soft, close undercoat resembling fur; abundant head furnishings frame the face, while the ears carry short, smooth, velvety hair without fringe at the tips.",
 
-    coatLength: "Medium",
+    coatLength: "Medium (outer coat approximately 5 cm)",
 
     coatColors: [
-      "White"
+      "White (pure white only; any other colour or combination is unacceptable)",
     ],
 
     sheddingLevel:
-      "Low to moderate year-round shedding; the harsh double coat sheds minimally when brushed regularly, with heavier undercoat shedding in spring and autumn",
+      "Low to moderate; sheds lightly year-round when brushed and stripped or clipped regularly",
 
     droolingLevel:
-      "Low; tight, cleanly cut lips minimize drooling",
+      "Low; tight, black-pigmented lips prevent excess drooling",
 
     distinctiveFeatures: [
-      "Compact, sturdy, and well-balanced small earth dog with a level topline and strong loin",
-      "Height at the withers of approximately 28 cm for both males and females",
-      "Weight of 7 to 10 kg in firm, conditioned working muscle",
-      "Gleaming pure-white harsh double coat with hair roughly 5 cm long, free from curl",
-      "Distinctive round-framed head furnishings framing dark features",
-      "Dark, almond-shaped, deeply set eyes with black eye rims and an alert, intelligent expression",
-      "Small, erect, sharply pointed triangular ears carried firmly upright without tipping",
-      "Jet-black, prominent nose forming a smooth contour with the muzzle",
-      "Powerful jaws with large teeth meeting in an even or clean scissor bite",
-      "Deep chest with well-arched ribs, allowing freedom of movement in narrow rock crevices",
-      "Straight, short, carrot-shaped tail measuring 13 to 15 cm, carried jauntily without curling over the back",
-      "Forefeet noticeably larger than the hindfeet, round and thick-padded with black nails"
-    ]
+      "Compact, muscular small terrier standing approximately 28 cm at the withers",
+      "Typical adult weight of 7 to 10 kg in males and 6 to 7 kg in females",
+      "Pure white double coat with a harsh, straight outer coat about 5 cm long over a soft, fur-like undercoat",
+      "Thickly coated head carried at a right angle or less to the neck, with a slightly domed skull and distinct stop beneath heavy bony brow ridges",
+      "Wide-set, medium-sized, dark eyes set deep under heavy eyebrows, giving a sharp, piercing, intelligent look",
+      "Small, firm, erect ears ending in a sharp point, covered in short velvety hair without top fringe",
+      "Fairly large jet-black nose forming a smooth contour with the muzzle and never projecting forward",
+      "Broad mouth between the canines with large teeth for the dog's size, meeting in a regular scissor bite",
+      "Deep chest with ribs well arched in their upper half and flattish along the sides, coupled to a broad, strong loin",
+      "Forefeet larger than the hindfeet, round and thickly padded, with the undersides of the pads and all nails preferably black",
+      "Straight, un-docked tail 13 to 15 cm long, covered in harsh hair without feathering and carried jauntily rather than curled over the back",
+    ],
   },
 
   temperament: {
     traits: [
-      "Alert, gay, courageous, and self-reliant",
-      "Affectionate and deeply loyal with family members",
-      "Spirited, playful, and mischievous",
-      "Independent problem-solver with natural tenacity",
-      "Friendly and outgoing toward familiar humans",
-      "Courteous yet discerning with unfamiliar visitors",
-      "Patient and sturdy companion for respectful children",
-      "High prey drive toward small rodents, birds, and pocket pets",
-      "Vigilant watchdog ready to announce novel sights or sounds with a sharp bark",
-      "May be assertive or scrappy with unfamiliar dogs of the same sex"
+      "Alert, gay, courageous, and self-reliant yet friendly",
+      "Active, game, and hardy with a lively, mischievous expression and high self-esteem",
+      "Affectionate, cheerful, and loyal with family members",
+      "Independent terrier mindset with strong prey drive toward small animals",
+      "Vigilant watchdog quick to sound a sharp bark at unfamiliar sights or noises",
+      "Confident and curious in new surroundings",
     ],
 
     scores: {
-      affection: 5,
+      affection: 4,
       withChildren: 4,
       withDogs: 3,
       withStrangers: 4,
-      protectiveness: 2,
+      protectiveness: 3,
       independence: 4,
       trainability: 4,
       barking: 4,
-      energy: 4
-    }
+      energy: 4,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "Moderate; requires daily walking, interactive play, and mental enrichment to satisfy its active terrier working drive",
+        "Moderate. Active and game despite its small stature, the West Highland White Terrier benefits from daily brisk walks, secure off-lead play, and scent or puzzle games.",
 
       minutesPerDay: {
         min: 45,
-        max: 60
+        max: 60,
       },
 
       activities: [
-        "Daily brisk leashed walks and neighborhood exploration",
-        "Interactive fetch and tug sessions in a secure yard",
-        "Earthdog trials and simulated underground burrow tracking",
-        "Canine sports including agility, rally, and trick dog training",
-        "Food puzzle toys, snuffle mats, and scent-searching games",
-        "Supervised garden exploration and secure outdoor play"
-      ]
+        "Daily brisk leashed walks",
+        "Fetch and interactive play in a securely fenced garden",
+        "Earthdog, scent-tracking, and nosework games",
+        "Agility, rally, and trick training",
+      ],
     },
 
     grooming: {
-      level: "Moderate",
+      level: "Moderate to high",
 
       brushing:
-        "Brush two to three times weekly with a slicker brush and metal pin comb to prevent tangling and lift dead undercoat; hand-strip dead outer guard hairs every four to six months to preserve the harsh, dirt-repelling wire texture, or clip periodically for pet maintenance.",
+        "Brush two to three times a week with a slicker brush and metal comb to keep the furnishings tangle-free and remove dead hair; hand-strip the harsh outer coat every few months to preserve its wiry, weather-resistant texture, or clip every four to six weeks for a neat companion trim.",
 
       bathing:
-        "Bathe every four to eight weeks or when soiled, using a gentle, hypoallergenic dog shampoo that supports sensitive skin; dry chalking or dry shampoo is frequently used between baths to maintain coat whiteness without drying out the skin.",
+        "Bathe only as needed with a mild, skin-friendly canine shampoo so the skin barrier is not dried or irritated.",
 
       notes: [
-        "Hand-stripping the dead outer coat preserves its coarse, weather-resistant texture and bright white colour, whereas clipping softens the coat and makes it slightly more prone to matting.",
-        "Inspect the small erect ears weekly for dust, wax, or redness, and pluck excess canal hair gently if recommended by a veterinarian.",
-        "Wipe the muzzle and beard clean after meals to prevent food staining on white facial hair.",
-        "Trim hard black nails every two to three weeks to maintain correct foot posture.",
-        "Brush teeth several times weekly using canine-formulated enzymatic toothpaste.",
-        "Check skin regularly during brushing for flaking, redness, or itching, as the breed is genetically predisposed to allergic skin disease."
-      ]
+        "Keep the hair on the small erect ears short and smooth, leaving the tips free of fringe.",
+        "Part the coat during weekly brushing to check that the skin remains calm and free from redness or flaking.",
+        "Wipe the beard and facial furnishings after meals to prevent staining.",
+        "Check and trim the strong black nails regularly—overgrown nails were the third most frequently recorded clinical issue (7.2%) in a large UK primary-care study of the breed.",
+        "Inspect the ears weekly and brush the teeth several times a week.",
+      ],
     },
 
     training: {
       difficulty:
-        "Moderate; highly intelligent and quick to learn, but possesses an independent streak and natural stubbornness that require patient, reward-based methods",
+        "Moderate. Quick to learn and eager to engage, yet self-reliant and strong-willed—responding best to upbeat, reward-based sessions.",
 
       tips: [
-        "Use positive reinforcement, high-value training treats, and enthusiastic praise.",
-        "Keep instructional lessons short, varied, and fast-paced (5 to 10 minutes) to avoid boredom.",
-        "Teach a reliable quiet cue early to manage natural watchdog barking habits.",
-        "Always exercise within a securely fenced yard or on a leash, as an enticing scent or small rodent will trigger sudden pursuit.",
-        "Avoid harsh corrections or intimidation, which cause this proud terrier to become defensive and uncooperative.",
-        "Provide appropriate digging outlets, such as a designated sand pit, to redirect natural excavation instincts."
+        "Use positive reinforcement, play, and small high-value rewards rather than harsh corrections.",
+        "Keep training sessions short, varied, and engaging.",
+        "Walk on a secure lead in unfenced areas and reinforce recall early, as small wildlife will trigger an immediate chase instinct.",
+        "Teach a calm settle cue to curb excessive watchdog barking.",
       ],
 
       socialization:
-        "Introduce the puppy early and calmly to diverse people, friendly vaccinated dogs of varying sizes, household appliances, novel surfaces, and busy environments. Early social exposure develops a confident, polite adult that is outgoing with strangers and manageable around other canines."
+        "Expose puppies early and positively to varied people, polite dogs, household sounds, and gentle grooming and veterinary handling so their natural terrier boldness develops into friendly confidence.",
     },
 
     livingEnvironment: {
@@ -237,85 +225,80 @@ export const west_highland_white_terrier: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
+        "Cool and wet climates, for which its harsh Scottish double coat was developed",
         "Temperate climates",
-        "Cool and cold climates, where the dense double coat provides natural thermal protection",
-        "Warm climates, provided indoor cooling, shade, and fresh water are available and exercise occurs during cooler hours"
+        "Warm weather when shade, cool indoor rest, fresh water, and early or late walks are provided",
       ],
 
       aloneTimeTolerance:
-        "Moderate when properly exercised and provided with engaging toys, though prolonged isolation can trigger boredom digging or vocal barking"
-    }
+        "Moderate when well exercised and given enrichment toys, though long daily isolation can lead to nuisance barking or digging.",
+    },
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for small active breeds, adjusted for age, activity level, and individual skin sensitivities.",
+      "Complete, balanced small-breed canine diet formulated to support lean muscle and healthy skin and coat.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily thereafter on a growth formula supporting steady development.",
+        "Three to four measured small meals daily until six months of age, then two meals daily.",
       adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
+        "Two measured meals daily to maintain a trim waistline and steady energy.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower calorie needs and joint and dental health.",
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt through the thick coat. Divide daily food into two distinct meals, restrict vigorous exercise immediately before and after eating, and provide cool, clean drinking water continuously.",
+      "Measure daily rations carefully and feel the ribs through the thick double coat so excess weight does not accumulate—overweight/obesity was among the top five recorded clinical conditions (6.1%) in UK primary veterinary care for the breed.",
 
     considerations: [
-      "Maintain a lean body condition to avoid placing excess mechanical load on stifle joints and the spine.",
-      "Account for training treats within the daily caloric budget to prevent stealth weight gain.",
-      "Monitor for food sensitivities or cutaneous allergies, selecting diets with balanced omega fatty acids to support skin barrier health.",
-      "Avoid high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide fresh, cool water at all times to promote urinary health.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Deduct training treats from the daily food allowance to prevent gradual weight gain.",
+      "For dogs with allergic skin disease, consult a veterinarian regarding diets rich in essential omega-3 and omega-6 fatty acids or elimination trials.",
+      "Provide fresh drinking water at all times.",
     ],
 
     note:
-      "Caloric needs vary significantly based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "General small-breed nutrition guidance; consult a veterinarian for individual portion sizes and dermatological diet advice.",
   },
 
   health: {
     overview:
-      "The West Highland White Terrier is a robust, long-lived earth dog with a typical life expectancy of 13 to 15 years. However, the breed is susceptible to several documented hereditary and conformational disorders. Prominent genetic conditions include craniomandibular osteopathy (CMO / 'Westie Jaw', caused by an identified mutation in the SLC37A2 gene), atopic dermatitis, globoid cell leukodystrophy (Krabbe disease, linked to the GALC gene), idiopathic pulmonary fibrosis ('Westie Lung'), patellar luxation, copper toxicosis, and Legg-Calvé-Perthes disease.",
+      "The West Highland White Terrier is a long-lived small breed with a typical life expectancy of 13 to 15 years—supported by a large UK primary-care veterinary study of 6,605 dogs that documented a median longevity of 13.4 years. In primary veterinary practice, the most frequently recorded routine conditions are periodontal disease (15.7%), otitis externa / ear disease (10.6%), overgrown nails (7.2%), allergic skin disorder / atopic dermatitis (6.5%), and overweight/obesity (6.1%), with cutaneous disorders as a group affecting 22.7% of dogs. Important breed-predisposed hereditary and chronic disorders include craniomandibular osteopathy (CMO / 'Westie Jaw'), canine idiopathic pulmonary fibrosis ('Westie Lung'), patellar luxation, Legg-Calvé-Perthes disease, keratoconjunctivitis sicca (dry eye), and rare globoid cell leukodystrophy (Krabbe disease).",
 
     commonConditions: [
-      "Craniomandibular osteopathy (CMO / 'Westie Jaw') — a painful, self-limiting proliferative bone disease affecting the mandible, tympanic bullae, and temporomandibular joints of puppies aged 4 to 8 months, caused by a mutation in the SLC37A2 gene and fully screenable through DNA testing",
-      "Atopic dermatitis and allergic skin disease — chronic immune-mediated skin inflammation triggered by environmental allergens, causing severe pruritus, secondary Malassezia infections, and alopecia",
-      "Idiopathic pulmonary fibrosis ('Westie Lung') — a progressive, irreversible fibrotic lung disorder occurring in middle-aged and older dogs, causing respiratory distress and exercise intolerance",
-      "Globoid cell leukodystrophy (GCL / Krabbe disease) — a rare, fatal autosomal recessive neurodegenerative disorder caused by a deficiency of galactocerebrosidase (GALC gene mutation), detectable through genetic testing",
-      "Patellar luxation — kneecap displacement from the femoral groove causing intermittent hopping or hind-limb lameness, evaluated clinically through orthopedic screening",
-      "Legg-Calvé-Perthes disease — aseptic necrosis of the femoral head occurring in young dogs, leading to hip pain, lameness, and degenerative joint disease",
-      "Copper toxicosis and chronic hepatitis — abnormal hepatic copper accumulation leading to progressive liver inflammation and failure",
-      "Keratoconjunctivitis sicca (dry eye / KCS) and juvenile cataracts — ocular conditions monitored through regular veterinary ophthalmic examinations"
+      "Atopic dermatitis and allergic skin disease — chronic, heritable immune-mediated skin inflammation prevalent in the breed (6.5% specific prevalence and 22.7% overall cutaneous disorder prevalence in UK primary care), causing pruritus and secondary yeast or bacterial skin and ear infections",
+      "Periodontal disease and otitis externa — the two most frequently recorded clinical disorders in UK primary-care surveillance of the breed (15.7% and 10.6%, respectively)",
+      "Craniomandibular osteopathy (CMO / 'Westie Jaw') — painful, self-limiting proliferative bone enlargement of the mandible and tympanic bullae in puppies aged 4 to 8 months, associated with a leaky splicing variant (c.1332C>T) in the SLC37A2 gene on chromosome 5",
+      "Canine idiopathic pulmonary fibrosis (CIPF / 'Westie Lung') — chronic, progressive interstitial lung fibrosis affecting middle-aged to older dogs of the breed, causing cough, exercise intolerance, crackles on auscultation, and secondary pulmonary hypertension",
+      "Patellar luxation and Legg-Calvé-Perthes disease — orthopaedic hindlimb disorders involving kneecap displacement or aseptic necrosis of the femoral head in young dogs",
+      "Keratoconjunctivitis sicca (dry eye / KCS) and cataracts — ocular disorders monitored through regular ophthalmic examinations",
+      "Globoid cell leukodystrophy (GCL / Krabbe disease) — a rare, fatal autosomal recessive lysosomal storage disorder caused by galactocerebrosidase deficiency (GALC gene mutation c.473A>C), preventable via carrier DNA screening",
     ],
 
     preventiveCare: [
-      "Confirm that breeding parents possess certified DNA clearances for craniomandibular osteopathy (SLC37A2) and globoid cell leukodystrophy (GALC), alongside clinical patellar evaluations and specialist eye clearances.",
-      "Maintain a consistent, balanced skin and coat care routine with gentle hypoallergenic bathing to safeguard the epidermal barrier.",
-      "Keep the dog lean and fit to minimize mechanical stress on patellas and hips.",
-      "Inspect the small erect ears weekly for wax or dust buildup and clean gently with a veterinary-approved ear wash.",
-      "Brush teeth daily or multiple times weekly with canine toothpaste to protect against periodontal disease.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine dental cleanings."
+      "Verify that breeding parents have DNA test results for craniomandibular osteopathy (SLC37A2) and globoid cell leukodystrophy (GALC), clinical patellar luxation evaluations, and specialist ophthalmic clearances.",
+      "Brush teeth several times a week and schedule regular veterinary dental checks, as dental disease is the single most common clinical diagnosis in the breed.",
+      "Inspect the skin and ears weekly during grooming and seek early veterinary dermatological care at the first signs of itching, redness, or ear odour.",
+      "Monitor breathing rate and exercise tolerance in middle-aged and senior dogs to detect chronic respiratory disease early.",
+      "Keep adult body weight lean (around 7 to 10 kg in males and 6 to 7 kg in females) and trim nails regularly.",
     ],
 
     recommendedScreenings: [
-      "DNA marker test for Craniomandibular Osteopathy (SLC37A2 gene mutation) prior to breeding",
-      "DNA marker test for Globoid Cell Leukodystrophy (GALC gene mutation) prior to breeding",
-      "Clinical patellar luxation orthopedic evaluation and grading",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Radiographic hip evaluation for Legg-Calvé-Perthes disease and hip dysplasia"
+      "DNA test for Craniomandibular Osteopathy (SLC37A2 gene variant)",
+      "Clinical orthopedic evaluation for patellar luxation",
+      "Ophthalmic examination by a board-certified veterinary ophthalmologist",
+      "Radiographic hip evaluation for Legg-Calvé-Perthes disease and hip dysplasia",
+      "DNA test for Globoid Cell Leukodystrophy (GALC gene variant)",
     ],
 
     dentalCare:
-      "Brush teeth multiple times weekly using canine enzymatic toothpaste. The breed has powerful jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine enzymatic toothpaste and schedule regular veterinary dental assessments—periodontal disease was the most common disorder (15.7%) recorded in 6,605 UK West Highland White Terriers.",
 
     earCare:
-      "Inspect the small erect ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check the small, erect, velvety-haired ears weekly for wax, redness, or odour and clean gently with a veterinarian-approved ear cleanser, as ear disease affects roughly 10.6% of dogs annually.",
 
     skinCare:
-      "Part the dense coat weekly during brushing to inspect the skin for redness, flaking, or hot spots. The coat naturally sheds dirt and requires minimal bathing, but sensitive dogs benefit from medicated or soothing oatmeal shampoos."
+      "Because cutaneous disorders affect more than one in five dogs of the breed—and conformation guidelines explicitly call for skin free from obvious skin problems—part the white double coat weekly to check the skin and bathe with gentle, non-drying shampoos.",
   },
 
   suitability: {
@@ -326,94 +309,64 @@ export const west_highland_white_terrier: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Families with children seeking an affectionate, sturdy, and playful small companion",
-      "First-time dog owners committed to positive training, early boundary setting, and regular grooming",
-      "Apartment, condominium, or house dwellers who provide daily walks, play, and indoor inclusion",
-      "Active seniors or retirees seeking an entertaining, devoted companion that is manageable in size",
-      "Agility, earthdog, and canine sport enthusiasts who appreciate a fast, clever learner",
-      "Households wanting an alert watchdog that barks to announce visitors without being aggressive"
+      "Families, singles, and active seniors seeking a hardy, cheerful small companion",
+      "First-time dog owners prepared for consistent reward-based training and regular coat and skin care",
+      "Apartment or house dwellers who provide daily walks and indoor companionship",
+      "Enthusiasts of earthdog, scent-work, agility, and trick training",
     ],
 
     notIdealFor: [
-      "Households seeking an off-leash park dog that reliably ignores squirrels, birds, and small animals",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People seeking a completely silent, non-vocal pet, as the breed naturally barks to sound alarms",
-      "Households with free-roaming pet rodents or small pets vulnerable to high terrier prey drive",
-      "Owners unwilling to maintain regular coat brushing, stripping, or clipping"
-    ]
+      "Owners seeking a dog that can run off-lead in unfenced areas around wildlife or small pets",
+      "Households wanting a completely quiet dog that never barks at visitors or outdoor sounds",
+      "Owners unwilling to keep up with weekly brushing, periodic hand-stripping or clipping, and proactive skin and dental care",
+    ],
   },
 
   funFacts: [
-    "Colonel Edward Donald Malcolm of Poltalloch selectively bred pure white terriers after he accidentally shot his favorite dark-colored hound while hunting in the heather, mistaking it for a fox.",
-    "The breed was originally shown under several regional names, including the Poltalloch Terrier and the Roseneath Terrier, named after the Duke of Argyll's country estate.",
-    "The tail of the West Highland White Terrier was traditionally referred to as a 'carrot tail', bred thick and sturdy so that a hunter could safely grasp it to pull the dog out of a rocky underground burrow.",
-    "The breed became an enduring pop-culture icon as the mascot for Black & White blended Scotch whisky alongside a Scottish Terrier, and later as the recognizable face of Cesar dog food.",
-    "Despite their small stature of approximately 28 cm, they possess large, powerful teeth and broad jaws that were capable of confronting badgers twice their size in Scottish cairns.",
-    "In 1907, the breed was officially established and registered under its definitive geographic name, celebrating its roots in the western Highlands of Scotland.",
-    "The white coat is not albino; the breed has deep black pigmentation on the nose, lips, eye rims, and paw pads, providing striking visual contrast against the white fur."
+    "Colonel Edward Donald Malcolm of Poltalloch developed the pure-white strain in Argyllshire after one of his reddish working terriers was mistaken for a fox in thick cover and accidentally shot.",
+    "Before the name West Highland White Terrier was adopted in the early twentieth century, the breed was exhibited under regional names including the Poltalloch Terrier and the Roseneath Terrier (after the Duke of Argyll's estate).",
+    "Its straight, sturdy 13 to 15 cm tail—never docked—was bred strong enough for a huntsman to grip safely when drawing a wedged terrier out of an underground rock cairn.",
+    "The forefeet are purposefully larger than the hindfeet and thickly padded to give extra digging power in stony ground.",
+    "Despite its snow-white coat, the breed is never albino: the nose, lips, eye rims, paw pads, and nails are darkly pigmented in black.",
+    "Paired with a black Scottish Terrier, the breed became world-famous on James Buchanan's 'Black & White' Scotch whisky labels from the late Victorian era onward.",
   ],
 
   faq: [
     {
       question: "What is a West Highland White Terrier?",
       answer:
-        "The West Highland White Terrier is a small, sturdy Scottish earth dog known for its snow-white double coat, dark eyes, erect ears, carrot-shaped tail, and energetic, friendly personality."
+        "The West Highland White Terrier—popularly called the Westie—is a small, sturdy Scottish earth dog with a pure-white harsh double coat, dark piercing eyes, erect pointed ears, a straight 13 to 15 cm tail, and a confident, friendly temperament.",
     },
     {
-      question: "Where does the West Highland White Terrier originate?",
+      question: "How tall and heavy is an adult West Highland White Terrier?",
       answer:
-        "The breed originates from the Western Highlands of Scotland, developed primarily in Poltalloch by Colonel Edward Donald Malcolm to hunt badgers, foxes, and vermin in rocky terrain."
+        "Adults stand approximately 28 cm at the withers, with typical weights of 7 to 10 kg for males and 6 to 7 kg for females.",
     },
     {
-      question: "How tall and heavy is a West Highland White Terrier?",
+      question: "What is the typical lifespan of a West Highland White Terrier?",
       answer:
-        "Adult males and females stand approximately 28 cm tall at the withers and weigh between 7 and 10 kg, presenting a compact, muscular build."
+        "The breed typically lives 13 to 15 years; a large UK study of 6,605 West Highland White Terriers recorded a median lifespan of 13.4 years.",
     },
     {
-      question: "How long does a West Highland White Terrier live?",
+      question: "Why was the West Highland White Terrier bred to be pure white?",
       answer:
-        "The breed enjoys good longevity, typically living a healthy lifespan of 13 to 15 years with proper nutrition, exercise, and preventive veterinary care."
+        "Highland hunters needed a terrier that stood out clearly from foxes and badgers in dark rocks and heather; Colonel Edward Donald Malcolm of Poltalloch selected exclusively for white dogs after a dark-coated terrier was accidentally shot for a fox.",
     },
     {
-      question: "Do West Highland White Terriers shed a lot, and how are they groomed?",
+      question: "How should a West Highland White Terrier's coat be groomed?",
       answer:
-        "They shed minimally to moderately. Their harsh double coat requires brushing two to three times a week, and hand-stripping or clipping every four to six months keeps the coat clean, white, and healthy."
+        "The double coat has a harsh, straight outer jacket about 5 cm long over a soft undercoat. Brush two to three times a week and either hand-strip the coat every few months to keep its wiry weather-resistant texture or clip it every four to six weeks.",
     },
     {
-      question: "Are West Highland White Terriers good family pets and good with children?",
+      question: "What are the most common health issues in the breed?",
       answer:
-        "Yes. They are famously affectionate, sturdy, and playful with children, making wonderful family pets; however, interactions with very young children should always be supervised."
+        "Routine veterinary care most often involves dental disease, ear infections, and allergic skin disease (atopic dermatitis). Breed-specific hereditary and chronic conditions include craniomandibular osteopathy ('Westie Jaw', testable via the SLC37A2 gene), canine idiopathic pulmonary fibrosis ('Westie Lung'), patellar luxation, Legg-Calvé-Perthes disease, dry eye, and rare globoid cell leukodystrophy (GALC gene).",
     },
     {
       question: "Can a West Highland White Terrier live in an apartment?",
       answer:
-        "Yes. They adapt well to apartment living provided they receive daily outdoor walks and indoor play, though teaching a quiet cue early helps manage their natural tendency to bark at hallway sounds."
+        "Yes. Its compact size suits apartments as well as houses with yards, provided it receives 45 to 60 minutes of daily walks and play and early training to moderate watchdog barking.",
     },
-    {
-      question: "Are West Highland White Terriers easy to train?",
-      answer:
-        "They are very intelligent and quick to learn, but they have an independent terrier nature. They respond best to positive reinforcement, praise, and high-value treats rather than repetitive drills."
-    },
-    {
-      question: "Why do West Highland White Terriers have a carrot-shaped tail?",
-      answer:
-        "Their tail is naturally thick, straight, and sturdy; historically, Scottish hunters could use it as a safe handle to pull the terrier out of deep underground rock dens if it became wedged."
-    },
-    {
-      question: "What is 'Westie Jaw' (craniomandibular osteopathy)?",
-      answer:
-        "Craniomandibular osteopathy is an inherited bone disorder that causes temporary, painful bone swelling along the jaw in growing puppies. A reliable DNA test is available to identify carriers and prevent affected puppies."
-    },
-    {
-      question: "Are West Highland White Terriers prone to skin allergies?",
-      answer:
-        "Yes. The breed has a genetic predisposition to atopic dermatitis and allergic skin sensitivities; regular brushing, gentle bathing, and prompt veterinary care help manage skin health."
-    },
-    {
-      question: "What other health tests are recommended for the breed?",
-      answer:
-        "Recommended pre-breeding screenings include DNA tests for craniomandibular osteopathy and globoid cell leukodystrophy, clinical patellar luxation grading, and veterinary ophthalmologist eye exams."
-    }
   ],
 
   references: [
@@ -425,17 +378,21 @@ export const west_highland_white_terrier: Breed = {
     "west-highland-white-terrier-club-of-america-health",
     "ofa-west-highland-white-terrier-chic-requirements",
     "west-highland-white-terrier-cmo-slc37a2-study-2014",
+    "west-highland-white-terrier-vetcompass-study-2019",
+    "west-highland-white-terrier-ipf-study-2018",
+    "west-highland-white-terrier-atopic-dermatitis-study-2011",
     "wikimedia-west-highland-white-terrier-lilly-m",
-    "wikimedia-west-highland-white-terrier-pleple2000"
+    "wikimedia-west-highland-white-terrier-pleple2000",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Official breed standards and kennel-club records do not establish a breed-specific scientific name; kept null per schema rules.",
     },
 
     alternateNames: {
@@ -444,26 +401,31 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "Standard heading: WEST HIGHLAND WHITE TERRIER"
+          locator: "Standard heading: WEST HIGHLAND WHITE TERRIER",
         },
         {
           id: "fci-west-highland-white-terrier-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: WEST HIGHLAND WHITE TERRIER (85), Chien Terrier Blanc des Highlands de l'Ouest, Weißer Hochland-Terrier"
+          locator: "Official nomenclature: WEST HIGHLAND WHITE TERRIER (85), Chien Terrier Blanc des Highlands de l'Ouest, Weißer Hochland-Terrier",
         },
         {
           id: "the-kennel-club-west-highland-white-terrier-breed-standard",
           role: "verified",
-          locator: "Breed name: West Highland White Terrier"
+          locator: "Breed name: West Highland White Terrier",
         },
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "verified",
-          locator: "History: Westie, Poltalloch Terrier, Roseneath Terrier, White Roseneath Terrier, Little Colonel"
-        }
+          locator: "History: Westie, Poltalloch Terrier, Roseneath Terrier, White Roseneath Terrier, Little Colonel",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Westie, Poltalloch Terrier, Roseneath Terrier)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified across FCI Standard No. 85, FCI Nomenclature, The Royal Kennel Club, and AKC."
+      verifiedOn: "2026-11-18",
+      note: "Verified across FCI Standard No. 85, FCI Nomenclature, The Royal Kennel Club, AKC, and The Dog API.",
     },
 
     group: {
@@ -472,27 +434,32 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 3 Terriers, Section 2 Small-sized Terriers, without working trial"
+          locator: "FCI Classification: Group 3 Terriers, Section 2 Small-sized Terriers, without working trial",
         },
         {
           id: "fci-west-highland-white-terrier-nomenclature",
           role: "verified",
-          locator: "Group 3, Section 2 Small-sized Terriers, without working trial"
+          locator: "Group 3, Section 2 Small-sized Terriers, without working trial",
         },
         {
           id: "the-kennel-club-west-highland-white-terrier-breed-standard",
           role: "verified",
-          locator: "Terrier Group"
+          locator: "Terrier Group",
         },
         {
           id: "akc-west-highland-white-terrier-breed-standard",
           role: "verified",
-          locator: "Terrier Group"
-        }
+          locator: "Terrier Group",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group (Terrier)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-18",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "Follows the Group 3, Section 2 Small-sized Terriers classification without naming registries in user-facing text.",
     },
 
     origin: {
@@ -501,26 +468,31 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "ORIGIN: Great Britain; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: Great Britain",
         },
         {
           id: "fci-west-highland-white-terrier-nomenclature",
           role: "verified",
-          locator: "Country of origin: Great Britain"
+          locator: "Country of origin: Great Britain",
         },
         {
           id: "the-kennel-club-west-highland-white-terrier-breed-standard",
           role: "verified",
-          locator: "Origin in Poltalloch and Western Highlands, Scotland"
+          locator: "Poltalloch and Western Highlands of Scotland, Great Britain",
         },
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "verified",
-          locator: "History: Scottish roots under Colonel Malcolm of Poltalloch and Duke of Argyll"
-        }
+          locator: "History: Poltalloch, Argyllshire, and Roseneath, Scotland",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin (Scotland)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     overview: {
@@ -529,22 +501,32 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "Utilization, General appearance, and Behaviour/temperament",
         },
         {
           id: "the-kennel-club-west-highland-white-terrier-breed-standard",
           role: "verified",
-          locator: "General Appearance, Characteristics, Temperament"
+          locator: "General appearance, Characteristics, and Temperament",
+        },
+        {
+          id: "fci-west-highland-white-terrier-nomenclature",
+          role: "verified",
+          locator: "Date of acceptance on a definitive basis: 29.10.1954",
         },
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
-        }
+          locator: "History: Colonel Edward Donald Malcolm of Poltalloch, Duke of Argyll at Roseneath, 1904/1907 recognition",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-18",
       note:
-        "Synthesized in original prose from FCI Standard No. 85, The Royal Kennel Club, and AKC official records."
+        "Rewritten in 100% original wording from FCI Standard No. 85, The Royal Kennel Club, and AKC historical records.",
     },
 
     physical: {
@@ -553,55 +535,162 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator: "General appearance, Head, Eyes, Ears, Mouth, Neck, Body, Tail (13–15 cm, undocked), Limbs, Skin (free from obvious skin problems), Coat (harsh outer coat ~5 cm, fur-like undercoat), Colour (White only), and Size (approx. 28 cm)",
         },
         {
           id: "the-kennel-club-west-highland-white-terrier-breed-standard",
           role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Mouth, Neck, Forequarters, Body, Hindquarters, Feet, Tail, Gait/Movement, Coat, Colour, Size"
+          locator: "General appearance, Head and skull, Eyes, Ears, Mouth, Neck, Forequarters, Body, Hindquarters, Feet, Tail (13–15 cms), Coat (about 5 cms), Colour (White), and Size (approximately 28 cms)",
         },
         {
           id: "akc-west-highland-white-terrier-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Neck, Topline, Body, Tail, Forequarters, Hindquarters, Coat, Color"
-        }
+          locator: "General Appearance, Head, Body, Tail, Coat, and Color",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 17 generic species-wide colours including black, merle, brindle, tricolour, liver)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-18",
       note:
-        "Conformation, harsh white double coat, carrot tail, black pigment, and distinctive features follow official standards."
+        "Conformation, 5 cm harsh double coat, 13–15 cm undocked tail, black pigment, and exclusively white colour follow FCI Standard No. 85 and The Royal Kennel Club standard rather than The Dog API's 17-colour list.",
     },
 
     "physical.height": {
       reliability: "official_standard",
       sources: [
         {
-          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
-          role: "verified",
-          locator: "Size: Height at withers approximately 28 cms (11 ins)."
-        },
-        {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: Approximately 28 cm (11 ins)."
-        }
+          locator: "SIZE: Height at the withers: Approximately 28 cm.",
+        },
+        {
+          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
+          role: "verified",
+          locator: "Size: Height at withers approximately 28 cms (11 ins).",
+        },
+        {
+          id: "akc-west-highland-white-terrier-breed-standard",
+          role: "conflicting",
+          locator: "Size: Ideal height at the withers for dogs is 11 inches and for bitches, 10 inches.",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (Males 25–28 cm, Females 23–26 cm)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-18",
       note:
-        "Preserved in published unit of centimetres (approximately 28 cm) exactly as specified in the official standards of the country of origin without artificial sex differentiation."
+        "Preserved in centimetres (approximately 28 cm for both sexes) per FCI Standard No. 85 and The Royal Kennel Club standard; AKC lists 11 in for males and 10 in for females, and The Dog API lists 25–28 cm for males and 23–26 cm for females.",
     },
 
-    "physical.weight": {
+    "physical.height.male.max": {
       reliability: "official_standard",
       sources: [
         {
+          id: "fci-west-highland-white-terrier-official-standard",
+          role: "verified",
+          locator: "SIZE: Height at the withers: Approximately 28 cm.",
+        },
+        {
           id: "the-kennel-club-west-highland-white-terrier-breed-standard",
           role: "verified",
-          locator: "Weight: 7-10 kgs (15-22 lbs)"
-        }
+          locator: "Size: Height at withers approximately 28 cms (11 ins).",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric (28 cm)",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-18",
+      note: "Male height of 28 cm.",
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-west-highland-white-terrier-official-standard",
+          role: "verified",
+          locator: "SIZE: Height at the withers: Approximately 28 cm.",
+        },
+        {
+          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
+          role: "verified",
+          locator: "Size: Height at withers approximately 28 cms (11 ins).",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (26 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "Female height of 28 cm per FCI/RKC standards; The Dog API lists 23–26 cm for females.",
+    },
+
+    "physical.weight": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (Males 7–10 kg, Females 6–7 kg)",
+        },
+        {
+          id: "akc-west-highland-white-terrier-breed-profile",
+          role: "cited",
+          locator: "Weight: 15–20 pounds",
+        },
+        {
+          id: "west-highland-white-terrier-vetcompass-study-2019",
+          role: "cited",
+          locator: "Mean adult bodyweight across 6,605 UK WHWTs: 10.1 kg in males (median 9.6 kg) and 9.0 kg in females (median 8.8 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
       note:
-        "Preserved in published unit of kilograms (7 to 10 kg) exactly as specified in The Royal Kennel Club breed standard of the country of origin."
+        "Neither FCI Standard No. 85 nor The Royal Kennel Club standard specifies an official weight range; stored as 7–10 kg for males and 6–7 kg for females from The Dog API with reliability 'reliable_source'.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (10 kg)",
+        },
+        {
+          id: "west-highland-white-terrier-vetcompass-study-2019",
+          role: "cited",
+          locator: "Mean adult male bodyweight: 10.1 kg (median 9.6 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "Upper male weight bound of 10 kg.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (7 kg)",
+        },
+        {
+          id: "west-highland-white-terrier-vetcompass-study-2019",
+          role: "conflicting",
+          locator: "Mean adult female bodyweight in UK clinical care: 9.0 kg (median 8.8 kg, IQR 7.5–10.0 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "Upper female weight bound of 7 kg from The Dog API; UK clinical surveillance reports a higher median adult female weight of 8.8 kg.",
     },
 
     "physical.lifespanYears": {
@@ -610,16 +699,16 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 13-15 years"
+          locator: "Life Expectancy: 13–15 years",
         },
         {
-          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
+          id: "west-highland-white-terrier-vetcompass-study-2019",
           role: "verified",
-          locator: "Longevity and health actuarial profile (12-15 years)"
-        }
+          locator: "Median longevity overall: 13.4 years (IQR 11.0–15.0; males 13.8 years, females 12.9 years)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Supported by kennel club and breed club actuarial profiles."
+      verifiedOn: "2026-11-18",
+      note: "13–15 years, closely corroborated by UK VetCompass mortality data (median 13.4 years, IQR 11.0–15.0).",
     },
 
     "physical.sheddingLevel": {
@@ -628,16 +717,16 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
+          locator: "Shedding Level (2/5)",
         },
         {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "COAT: Harsh double coat with soft, close undercoat"
-        }
+          locator: "COAT: Harsh double coat with short, soft, close undercoat",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     "physical.droolingLevel": {
@@ -646,16 +735,16 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "Lips: Tight with black pigmentation"
+          locator: "Lips: Tight with black pigmentation",
         },
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
-        }
+          locator: "Drooling Level (1/5)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Tight lips result in low drooling."
+      verifiedOn: "2026-11-18",
+      note: "Tight lips result in low drooling.",
     },
 
     "temperament.traits": {
@@ -664,21 +753,26 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Small, active, game, hardy, possessed of no small amount of self-esteem with a mischievous look. Alert, gay, courageous, self-reliant but friendly."
+          locator: "BEHAVIOUR / TEMPERAMENT: Small, active, game, hardy, possessed of no small amount of self-esteem with a varminty appearance. Alert, gay, courageous, self-reliant but friendly.",
         },
         {
           id: "the-kennel-club-west-highland-white-terrier-breed-standard",
           role: "verified",
-          locator: "Characteristics and Temperament: Alert, gay, courageous, self-reliant but friendly"
+          locator: "Characteristics and Temperament: Small, active, game, hardy; alert, gay, courageous, self-reliant but friendly",
         },
         {
           id: "akc-west-highland-white-terrier-breed-standard",
           role: "verified",
-          locator: "General Appearance: Alert, gay, courageous and self-reliant, but friendly"
-        }
+          locator: "General Appearance and Temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament (Confident, alert, playful, loyal, independent)",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     "temperament.scores": {
@@ -687,17 +781,17 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics ratings",
         },
         {
-          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
+          id: "fci-west-highland-white-terrier-official-standard",
           role: "cited",
-          locator: "Temperament and behavior guidance"
-        }
+          locator: "Behaviour / Temperament",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented terrier temperament and hunting instincts."
+        "Editorial 1–5 scores informed by documented terrier temperament and hunting drive.",
     },
 
     care: {
@@ -706,22 +800,22 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
-          role: "cited",
-          locator: "Care, exercise, and coat stripping"
+          locator: "Grooming, Exercise, and Training guidance",
         },
         {
           id: "west-highland-white-terrier-club-of-america-health",
           role: "cited",
-          locator: "Grooming and maintenance guidelines"
-        }
+          locator: "Grooming, skin care, and management guidance",
+        },
+        {
+          id: "west-highland-white-terrier-vetcompass-study-2019",
+          role: "cited",
+          locator: "High prevalence of dental disease (15.7%), ear disease (10.6%), and overgrown nails (7.2%)",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines active earthdog management with wire-coat grooming and skin care protocols."
+        "Combines active earthdog management with wire-coat hand-stripping/clipping and preventive skin, ear, nail, and dental care.",
     },
 
     "care.exercise.level": {
@@ -730,35 +824,30 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (3/5)"
+          locator: "Energy Level (4/5); Exercise Needs (3/5)",
         },
         {
-          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
+          id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "Exercise requirements: Up to 1 hour per day"
-        }
+          locator: "General appearance and Behaviour: great combination of strength and activity; small, active, game, hardy",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
-          role: "cited",
-          locator: "Exercise: Up to 1 hour per day"
-        },
-        {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
-        }
+          locator: "Daily exercise guidance",
+        },
       ],
       verifiedOn: null,
       note:
-        "Estimated 45 to 60 minutes of daily activity reflects the exercise demands of an active small terrier."
+        "Estimated 45 to 60 minutes of daily walking and active play.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -767,16 +856,11 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (5/5)"
+          locator: "Adapts Well to Apartment Living",
         },
-        {
-          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
-          role: "verified",
-          locator: "Living environment: Flat/Apartment suitable with regular outdoor walks"
-        }
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -785,16 +869,11 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
+          locator: "Exercise and securely fenced yard recommendations",
         },
-        {
-          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
-          role: "verified",
-          locator: "Living environment: Small garden suitable"
-        }
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     "care.livingEnvironment.climates": {
@@ -803,16 +882,11 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "COAT: Harsh double coat adapted to harsh Scottish weather"
+          locator: "COAT: Harsh double coat adapted to the Scottish Highlands",
         },
-        {
-          id: "akc-west-highland-white-terrier-breed-profile",
-          role: "verified",
-          locator: "Weather tolerance: well-adapted to cold and temperate weather"
-        }
       ],
-      verifiedOn: "2026-11-08",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -821,11 +895,11 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate rating; independent nature"
-        }
+          locator: "Tolerates Being Alone",
+        },
       ],
       verifiedOn: null,
-      note: null
+      note: null,
     },
 
     nutrition: {
@@ -834,96 +908,108 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
+          locator: "Nutrition and weight management guidance",
         },
         {
-          id: "west-highland-white-terrier-club-of-america-health",
+          id: "west-highland-white-terrier-vetcompass-study-2019",
           role: "cited",
-          locator: "Dietary considerations and skin allergy management"
-        }
+          locator: "Overweight/obesity prevalence (6.1%) and allergic skin disorder prevalence (6.5%)",
+        },
       ],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for active small breeds prone to skin sensitivities."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-west-highland-white-terrier-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+        "General nutritional guidance for an active small terrier with attention to weight control and skin health.",
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "west-highland-white-terrier-vetcompass-study-2019",
+          role: "verified",
+          locator: "O'Neill et al. (2019, Canine Genet Epidemiol PMC6720841): 6,605 UK WHWTs; median longevity 13.4 years; top disorders: dental disease (15.7%), ear disease (10.6%), overgrown nails (7.2%), allergic skin disorder (6.5%), overweight (6.1%), cutaneous group (22.7%)",
+        },
+        {
           id: "west-highland-white-terrier-cmo-slc37a2-study-2014",
           role: "verified",
-          locator: "Identification of SLC37A2 mutation causing craniomandibular osteopathy in West Highland White Terriers"
+          locator: "Hytönen et al. (2016, PLoS Genet PMC4871343): SLC37A2 splicing variant (c.1332C>T) causing craniomandibular osteopathy in WHWTs",
+        },
+        {
+          id: "west-highland-white-terrier-ipf-study-2018",
+          role: "verified",
+          locator: "Clercx et al. (2018, Vet J PMID 30503545): canine idiopathic pulmonary fibrosis in middle-aged to older WHWTs",
+        },
+        {
+          id: "west-highland-white-terrier-atopic-dermatitis-study-2011",
+          role: "verified",
+          locator: "Baranowska Körberg et al. (2011, BMC Genet PMC3111396): heritable atopic dermatitis in WHWTs",
         },
         {
           id: "ofa-west-highland-white-terrier-chic-requirements",
           role: "verified",
-          locator: "Required screenings: CMO DNA test, Patellar luxation, CAER eye exam"
+          locator: "CMO DNA test, patellar luxation, CAER eye exam, hip, and GCL screening",
         },
-        {
-          id: "west-highland-white-terrier-club-of-america-health",
-          role: "verified",
-          locator: "Health priorities: CMO, atopic dermatitis, GCL, Westie Lung, and orthopedics"
-        }
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-18",
       note:
-        "Synthesizes peer-reviewed genetics research on craniomandibular osteopathy with health registry screening requirements."
+        "Combines UK VetCompass primary-care epidemiology (n = 6,605) with peer-reviewed genetic and clinical studies on CMO, CIPF, and atopic dermatitis.",
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "west-highland-white-terrier-cmo-slc37a2-study-2014",
+          id: "west-highland-white-terrier-vetcompass-study-2019",
           role: "verified",
-          locator: "Craniomandibular osteopathy clinical description and genetics"
+          locator: "Table 3 & Results: dental disease (15.7%), ear disease (10.6%), allergic skin disorder (6.5%), cutaneous disorders (22.7%), lower respiratory tract mortality (10.2%)",
         },
         {
-          id: "ofa-west-highland-white-terrier-chic-requirements",
+          id: "west-highland-white-terrier-cmo-slc37a2-study-2014",
           role: "verified",
-          locator: "Patellar luxation, eye diseases, and orthopedic conditions"
+          locator: "Hytönen et al. (2016, PLoS Genet 12(5):e1006037, PMC4871343): SLC37A2 c.1332C>T splicing mutation in craniomandibular osteopathy",
+        },
+        {
+          id: "west-highland-white-terrier-ipf-study-2018",
+          role: "verified",
+          locator: "Clercx et al. (2018, Vet J 242:53-58, PMID 30503545): clinical presentation, crackles, and pulmonary hypertension in canine idiopathic pulmonary fibrosis",
+        },
+        {
+          id: "west-highland-white-terrier-atopic-dermatitis-study-2011",
+          role: "verified",
+          locator: "Heritable canine atopic dermatitis and secondary yeast/bacterial infections in WHWTs",
         },
         {
           id: "west-highland-white-terrier-club-of-america-health",
           role: "verified",
-          locator: "Atopic dermatitis, globoid cell leukodystrophy, idiopathic pulmonary fibrosis, and Legg-Perthes"
-        }
+          locator: "CMO, atopic dermatitis, idiopathic pulmonary fibrosis, globoid cell leukodystrophy (GALC), patellar luxation, Legg-Perthes, and dry eye (KCS)",
+        },
+        {
+          id: "ofa-west-highland-white-terrier-chic-requirements",
+          role: "verified",
+          locator: "CMO, patellar luxation, eye, hip, and GCL screening",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-18",
       note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+        "Distinguishes high-prevalence primary-care conditions (dental, ear, and allergic skin disease) from hereditary orthopaedic, respiratory (CIPF), and rare lysosomal storage (GALC) disorders.",
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "west-highland-white-terrier-club-of-america-health",
+          id: "west-highland-white-terrier-vetcompass-study-2019",
           role: "cited",
-          locator: "Preventive care, skin barrier maintenance, and health screening protocols"
+          locator: "Clinical priorities: dental hygiene, ear care, nail trimming, weight control, and skin monitoring",
         },
         {
-          id: "akc-west-highland-white-terrier-breed-profile",
+          id: "west-highland-white-terrier-club-of-america-health",
           role: "cited",
-          locator: "Routine care, grooming, and veterinary checks"
-        }
+          locator: "Preventive care and pre-breeding screening guidance",
+        },
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to white double-coated terriers."
+      note: "Preventive care tailored to documented epidemiological and genetic priorities in the breed.",
     },
 
     "health.recommendedScreenings": {
@@ -932,66 +1018,71 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "ofa-west-highland-white-terrier-chic-requirements",
           role: "verified",
-          locator: "CHIC Program requirements: CMO DNA test, Patellar Luxation, CAER eye exam"
+          locator: "CHIC requirements: Craniomandibular Osteopathy (CMO) DNA test, Patellar Luxation evaluation, CAER eye exam; optional hip and GCL tests",
         },
         {
           id: "west-highland-white-terrier-club-of-america-health",
           role: "verified",
-          locator: "Pre-breeding testing protocols: CMO, GCL, patellas, eyes, and hips"
-        }
+          locator: "Recommended health screening panel",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-18",
       note:
-        "Screenings summarize published parent club and health registry protocols."
+        "Reflects parent club and canine health registry pre-breeding screening recommendations.",
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-west-highland-white-terrier-official-standard",
+          id: "west-highland-white-terrier-vetcompass-study-2019",
           role: "cited",
-          locator: "Jaws/teeth: strong jaws with regular scissor bite, large teeth"
+          locator: "Periodontal disease prevalence: 15.7% (most common specific disorder in 6,605 UK WHWTs)",
         },
         {
-          id: "akc-west-highland-white-terrier-breed-profile",
+          id: "fci-west-highland-white-terrier-official-standard",
           role: "cited",
-          locator: "Routine dental care"
-        }
+          locator: "Mouth: Teeth large for size of dog, with regular scissor bite",
+        },
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Dental hygiene guidance informed by primary-care clinical prevalence.",
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-west-highland-white-terrier-official-standard",
+          id: "west-highland-white-terrier-vetcompass-study-2019",
           role: "cited",
-          locator: "Ears: small, erect and carried firmly, terminating in sharp point"
+          locator: "Ear disease / otitis externa prevalence: 10.6%",
         },
         {
-          id: "akc-west-highland-white-terrier-breed-profile",
+          id: "fci-west-highland-white-terrier-official-standard",
           role: "cited",
-          locator: "Ear hygiene and inspection"
-        }
+          locator: "Ears: Small, erect, covered in short smooth velvety hair",
+        },
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for small erect ears."
+      note: "Routine ear care guidance.",
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "west-highland-white-terrier-club-of-america-health",
+          id: "fci-west-highland-white-terrier-official-standard",
           role: "cited",
-          locator: "Skin allergies, atopic dermatitis management, and hypoallergenic grooming"
-        }
+          locator: "SKIN: Free from obvious skin problems",
+        },
+        {
+          id: "west-highland-white-terrier-vetcompass-study-2019",
+          role: "cited",
+          locator: "Cutaneous disorders group prevalence: 22.7%",
+        },
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for breeds prone to atopic dermatitis."
+      note: "Dermatological care guidance for a breed predisposed to allergic skin disease.",
     },
 
     suitability: {
@@ -1000,17 +1091,17 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Temperament and adaptability ratings",
         },
         {
-          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
+          id: "fci-west-highland-white-terrier-official-standard",
           role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
-        }
+          locator: "Behaviour / Temperament",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, physical size, and household adaptability."
+        "Editorial suitability evaluations based on small stature, friendly confidence, and earthdog prey drive.",
     },
 
     funFacts: {
@@ -1019,21 +1110,21 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "akc-west-highland-white-terrier-breed-profile",
           role: "verified",
-          locator: "History: Colonel Malcolm of Poltalloch, red dog shot by accident, Duke of Argyll Roseneath, Black & White whisky, Cesar dog food"
-        },
-        {
-          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
-          role: "verified",
-          locator: "History, carrot tail functionality in burrows, and 1907 recognition"
+          locator: "History: Colonel Malcolm of Poltalloch, Duke of Argyll at Roseneath, and Black & White Scotch whisky",
         },
         {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Poltalloch and Roseneath heritage"
-        }
+          locator: "Tail (13–15 cm, undocked), Forefeet larger than hindfeet, and black pigmentation",
+        },
+        {
+          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
+          role: "verified",
+          locator: "Conformation and Scottish Highland working heritage",
+        },
       ],
-      verifiedOn: "2026-11-08",
-      note: "Verified historical folklore and cultural heritage facts."
+      verifiedOn: "2026-11-18",
+      note: "Verified against FCI Standard No. 85, The Royal Kennel Club, and AKC historical records.",
     },
 
     faq: {
@@ -1042,34 +1133,39 @@ export const west_highland_white_terrier: Breed = {
         {
           id: "fci-west-highland-white-terrier-official-standard",
           role: "verified",
-          locator: "Origin, size (approx. 28 cm), coat, and color"
+          locator: "Size (approx. 28 cm), Coat (~5 cm harsh outer coat), Colour (White), and Tail (13–15 cm)",
         },
         {
-          id: "the-kennel-club-west-highland-white-terrier-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Weight (7-10 kg), carrot tail, and temperament"
+          locator: "breed.weight.metric (Males 7–10 kg, Females 6–7 kg)",
         },
         {
-          id: "akc-west-highland-white-terrier-breed-profile",
+          id: "west-highland-white-terrier-vetcompass-study-2019",
           role: "verified",
-          locator: "Lifespan (13-15 years), grooming, family suitability, and training"
+          locator: "Median longevity (13.4 years) and top clinical disorders in 6,605 UK WHWTs",
         },
         {
           id: "west-highland-white-terrier-cmo-slc37a2-study-2014",
           role: "verified",
-          locator: "Craniomandibular osteopathy (Westie Jaw) genetics and testing"
+          locator: "SLC37A2 craniomandibular osteopathy variant",
         },
         {
-          id: "ofa-west-highland-white-terrier-chic-requirements",
+          id: "west-highland-white-terrier-ipf-study-2018",
           role: "verified",
-          locator: "Recommended health screening panel"
-        }
+          locator: "Canine idiopathic pulmonary fibrosis ('Westie Lung')",
+        },
+        {
+          id: "akc-west-highland-white-terrier-breed-profile",
+          role: "verified",
+          locator: "Poltalloch history and 13–15 years lifespan",
+        },
       ],
-      verifiedOn: "2026-11-08",
+      verifiedOn: "2026-11-18",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
-    }
+        "FAQ answers synthesise verified standards, epidemiological and genetic studies, and The Dog API data without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-11-08"
+  updatedOn: "2026-11-18",
 };

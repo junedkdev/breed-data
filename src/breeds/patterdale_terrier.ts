@@ -3,62 +3,82 @@ import type { Breed } from "../schema/breed.types";
 export const patterdale_terrier: Breed = {
   slug: "patterdale-terrier",
   name: "Patterdale Terrier",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Black Fell Terrier",
     "Fell Terrier",
-    "Patterdale"
+    "Patterdale",
   ],
 
   group:
-    "Terriers; Working Earthdogs (also classified in the Terrier and Working Dog groups)",
+    "Terrier Group (working earthdog)",
 
   origin: {
     country: "United Kingdom",
     region:
-      "Lake District, Cumbria, Northern England (specifically developed in and around the village of Patterdale, Ullswater)"
+      "Patterdale, Ullswater, and the Lake District of Cumbria, Northern England",
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Patterdale_Terrier.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Patterdale_Terrier.jpg",
-      title: "Patterdale_Terrier.jpg",
-      description: "An adult black Patterdale Terrier standing outdoors in grass.",
-      creator: "Sannse",
-      uploader: "Sannse",
-      capturedOn: "2004-06-03",
-      uploadedOn: "2004-06-03",
-      width: 800,
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/05078045_Patterdale_Terrier.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:05078045_Patterdale_Terrier.jpg",
+      title: "05078045 Patterdale Terrier.jpg",
+      description:
+        "An adult black Patterdale Terrier standing outdoors on a lawn, showing the compact muscular frame, wedge-shaped head, and V-shaped drop ears.",
+      creator: "Alephalpha",
+      uploader: "Alephalpha",
+      capturedOn: null,
+      uploadedOn: "2009-01-17",
+      width: 900,
       height: 600,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Sannse, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Patterdale_Terrier.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Alephalpha, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:05078045_Patterdale_Terrier.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-09"
-    }
+      metadataCheckedOn: "2026-11-18",
+    },
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Patterdale.JPG",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Patterdale.JPG",
+      title: "Patterdale.JPG",
+      description:
+        "A black-and-tan Patterdale Terrier standing outdoors.",
+      creator: "Chilepine",
+      uploader: "Chilepine",
+      capturedOn: null,
+      uploadedOn: "2005-08-29",
+      width: 1155,
+      height: 1080,
+      licenseId: "public-domain",
+      attribution:
+        "Photo by Chilepine, Wikimedia Commons, released into the public domain by the copyright holder. Source: https://commons.wikimedia.org/wiki/File:Patterdale.JPG.",
+      restrictions: null,
+      metadataCheckedOn: "2026-11-18",
+    },
   ],
 
   overview: {
     summary:
-      "A tough, compact, and fearless British working earthdog native to the Lake District, renowned for its flexible spannable chest, weatherproof double coat, tenacious drive, and affectionate domestic loyalty.",
+      "The Patterdale Terrier is a compact, rugged working earthdog from the Lake District of northern England, prized for its flexible spannable chest, weather-resistant smooth, broken, or rough double coat, fearless underground quarry drive, and devoted nature at home.",
 
     description:
-      "The Patterdale Terrier is an authentic, rugged working earthdog built with a compact, balanced frame designed to pursue quarry into tight underground rock fissures and dens. Characterized by clean, muscular lines and strong bone without coarseness, the terrier possesses an extraordinarily flexible, spannable ribcage that can be encircled by an average pair of human hands directly behind the shoulders. Its dense, weather-resistant double coat appears in smooth, broken, or rough textures, predominantly in solid black, though red, liver, grizzle, and black-and-tan are recognized. The head is strong and trapezoidal with powerful punishing jaws, dark alert eyes, and neat V-shaped drop ears. In the home, it settles into an affectionate, companionable, and quiet pet, but outdoors it reveals boundless stamina, intense focus on scent trails, and game determination.",
+      "Bred for practical subterranean work rather than show-ring ornament, the Patterdale Terrier presents an active, balanced, square-proportioned outline combining strong bone with lithe agility. A defining functional requirement is a narrow, flexible, spannable ribcage that an average pair of human hands can encircle just behind the shoulders so the dog can follow quarry through tight rock crevices and earthen tunnels. Its dense double coat comes in three textures—smooth, broken, and rough—most commonly in black, red, liver (chocolate), grizzle, black and tan, or bronze, occasionally with minor white hairs on the chest and feet. The wedge- or trapezoidal-shaped head carries powerful jaws, wide-set dark eyes that match the coat shade, and small triangular drop ears that fold just above the skull. Indoors it can be a quiet, affectionate family companion, while outdoors it works with tireless stamina and intense focus.",
 
     history:
-      "The breed developed in the rocky fells and steep valleys of the Lake District in northern England, descending from hard-bitten northern fell terriers bred to safeguard sheep flocks from red foxes. Unlike southern terriers bred for softer lowland earths, fell terriers required exceptional toughness, flexible chests, and fearless stamina to traverse jagged granite crags. In the late nineteenth and early twentieth centuries, Joe Bowman, renowned huntsman of the Ullswater Foxhounds, systematically bred these black terriers at his base in Patterdale, establishing the core bloodlines. Subsequent generations of dedicated Cumbria breeders, notably Cyril Breay, Frank Buck, and Brian Nuttall, refined the working strain to maintain its practical earthdog excellence and sound constitution. The breed was later introduced to North America and recognized as a distinct purebred terrier, while remaining an unexaggerated, functional working dog prized by earthdog and sport enthusiasts worldwide.",
+      "Originating in the steep fells and rocky crags of the Lake District in Cumbria, northern England, the Patterdale Terrier evolved from local northern working fell terriers bred to protect hill sheep from red foxes. Unlike southern lowland earthwork in sandy soil, Lakeland hunting demanded a game, agile terrier able to scramble over wet slate and bolt or dispatch foxes wedged deep inside granite cairns. In the late nineteenth and early twentieth centuries, Joe Bowman—huntsman of the Ullswater Foxhounds based in the village of Patterdale—crossed local black-and-tan fell terriers with blue-black working terriers to establish the region's dark working strain. Later Cumbrian terrier men, including Cyril Breay, Frank Buck, and Brian Nuttall, further consolidated the bloodlines for gameness, endurance, and spannable chests. Introduced to the United States in the late 1970s and formally recognised in North America on 1 January 1995, the breed remains primarily a working earthdog.",
 
     originalPurpose:
-      "Subterranean earthwork, bolting and dispatching foxes from rocky mountain dens, badger and otter control, and farm vermin management across the northern English fells.",
+      "Entering underground rock dens and earthen burrows to bolt or dispatch red foxes, badgers, and rats across the fells of northern England.",
 
     currentRoles: [
-      "Working earthdog and farm pest controller",
-      "Competitive earthdog, barn hunt, and terrier trial athlete",
-      "Active outdoor companion and hiking partner for experienced handlers",
-      "Canine athlete in agility, flyball, and scent tracking"
-    ]
+      "Working earthdog and farm vermin controller",
+      "Earthdog, barn-hunt, agility, and scent-work competitor",
+      "Energetic hiking and outdoor companion for experienced terrier handlers",
+    ],
   },
 
   physical: {
@@ -68,79 +88,75 @@ export const patterdale_terrier: Breed = {
       unit: "in",
       male: {
         min: 10,
-        max: 15
+        max: 15,
       },
       female: {
         min: 10,
-        max: 15
-      }
+        max: 15,
+      },
     },
 
     weight: {
       unit: "lb",
       male: {
         min: 11,
-        max: 15
+        max: 13,
       },
       female: {
         min: 11,
-        max: 15
-      }
+        max: 13,
+      },
     },
 
     lifespanYears: {
-      min: 12,
-      max: 15
+      min: 10,
+      max: 13,
     },
 
     coatType:
-      "Dense, weather-resistant double coat with a soft, insulating undercoat, occurring in three recognized varieties: smooth (coarse, flat, and close-fitting), broken (longer, harsher guard hairs with distinct facial whiskers and beard), and rough (coarse, wiry hair covering the body with full facial furnishings).",
+      "Dense, weather-resistant double coat over a harsh, stiff undercoat, occurring in three varieties: smooth (coarse, dense, stiff, flat, and free of wave), broken (longer, coarse, wiry guard hairs on the body with optional whiskers, beard, and eyebrows), and rough (longer coarse hair over the body, head, ears, and legs with full facial furnishings).",
 
-    coatLength: "Short",
+    coatLength:
+      "Short to medium depending on variety (smooth, broken, or rough)",
 
     coatColors: [
-      "Solid black (predominant and classic colour)",
-      "Black with white markings on the chest and feet",
-      "Red (ranging from golden tan to deep rich red)",
-      "Liver / chocolate (with brown pigmentation on nose and eye rims)",
+      "Black",
+      "Red (from tan to deep rust, sometimes with dark shading around the muzzle)",
+      "Liver / chocolate (with a brown or red-brown nose)",
       "Grizzle",
-      "Black and tan"
+      "Black and tan",
+      "Bronze",
+      "Minor white markings permitted on the chest and feet",
     ],
 
     sheddingLevel:
-      "Low to moderate year-round shedding; dead hairs are easily removed with weekly brushing or periodic hand-stripping of broken and rough coats",
+      "Low to moderate; sheds lightly year-round with routine weekly brushing",
 
     droolingLevel:
-      "Low; tight, clean-fitting lips prevent drooling",
+      "Low; tight, clean lips prevent drooling",
 
     distinctiveFeatures: [
-      "Compact, athletic, and sturdy working terrier outline built for agility and endurance",
-      "Height at the withers of 10 to 15 inches",
-      "Working weight of 11 to 15 pounds in hard, fit muscular condition",
-      "Spannable, oval chest that can be encircled and compressed by two hands behind the shoulders to confirm underground capability",
-      "Strong, wedge-shaped head with a broad skull and a powerful muzzle displaying considerable jaw strength",
-      "Complete scissor bite with strong, large white teeth (level bite acceptable)",
-      "Dark, medium-sized eyes set wide apart, harmonizing with coat colour and displaying a keen, fearless expression",
-      "Small, triangular drop ears folding neatly just above the skull line and hanging close to the cheeks",
-      "Muscular, moderately arched neck widening smoothly into clean, laid-back shoulders",
-      "Level topline with a strong, flexible loin and deep, moderately tucked-up flank",
-      "Tail set high, traditionally docked by one-third or left natural, carried merrily like a sabre without curling over the back",
-      "Firm, compact cat-like feet with tough, thick black pads designed for rocky crags"
-    ]
+      "Compact, muscular working terrier standing 10 to 15 inches at the withers",
+      "Proportionate working weight—typically 11 to 13 pounds for a 12-inch dog in hard condition (with larger working dogs reaching 12 to 26 pounds)",
+      "Spannable, oval, flexible chest that can be encircled behind the shoulders by two human hands for underground work",
+      "Three distinct weatherproof coat textures: smooth, broken, and rough",
+      "Strong wedge- or trapezoidal-shaped head with a flat, broad skull and powerful jaws",
+      "Scissor bite preferred, with a level bite acceptable; teeth lost or broken in honest field work are not faulted",
+      "Medium-sized, wide-set eyes harmonising with the coat colour and showing a keen, bold expression",
+      "Small, triangular drop ears folded neatly just above the top of the skull with the front edge lying close to the cheek",
+      "Strong, muscular, moderately arched neck blending into well-laid-back shoulders and a level back",
+      "High-set tail, strong at the base and carried upright without curling over the back",
+    ],
   },
 
   temperament: {
     traits: [
-      "Fearless, courageous, and exceptionally determined",
-      "Affectionate, loving, and deeply loyal to household family members",
-      "Spirited, energetic, and highly driven outdoors",
-      "Intelligent and independent problem-solver",
-      "Alert and observant watchdog ready to sound an alarm",
-      "Friendly and self-assured with familiar people",
-      "Gentle and sturdy companion for respectful children",
-      "High prey drive toward small mammals, rodents, and rabbits",
-      "Tenacious working grit that requires patient, structured leadership",
-      "May show dog-directed assertiveness or reactivity toward unfamiliar dogs of the same sex"
+      "Bold, fearless, and tenacious when working quarry",
+      "Energetic, alert, and work-focused outdoors",
+      "Affectionate, loyal, and steady with its household",
+      "Independent thinker with intense prey drive toward small animals",
+      "Confident and self-assured",
+      "Can be reactive or combative toward unfamiliar dogs if not carefully managed",
     ],
 
     scores: {
@@ -152,64 +168,57 @@ export const patterdale_terrier: Breed = {
       independence: 4,
       trainability: 3,
       barking: 4,
-      energy: 5
-    }
+      energy: 5,
+    },
   },
 
   care: {
     exercise: {
       level:
-        "High; an energetic working terrier requiring substantial daily physical exercise and mental engagement to prevent boredom and digging",
+        "High. Built for all-day stamina on steep mountain fells, the Patterdale Terrier needs vigorous daily physical exercise and structured scent or earthdog outlets.",
 
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 90,
       },
 
       activities: [
-        "Daily brisk leashed walks and trail hikes across rural and natural terrain",
-        "Interactive fetch, tug, and flirt-pole chase sessions in a secure yard",
-        "Earthdog trials and simulated underground tunnel tracking",
-        "Agility, flyball, and structured obstacle courses",
-        "Food puzzle challenges, snuffle mats, and scent-searching enrichment",
-        "Supervised garden exploration and digging in designated sand pits"
-      ]
+        "Brisk daily leashed walks and hill or trail hikes",
+        "Fetch, tug, and flirt-pole games in a securely fenced garden",
+        "Earthdog trials, barn hunt, and scent-tracking games",
+        "Agility and obstacle courses",
+      ],
     },
 
     grooming: {
       level: "Low to moderate",
 
       brushing:
-        "Brush once or twice weekly with a rubber hound mitt or firm bristle brush to remove loose hair and trail dirt; broken and rough coats benefit from hand-stripping dead wire hairs twice a year to maintain coat weather resistance.",
+        "Brush once or twice a week with a stiff bristle brush or hound glove to lift loose hair and dried mud; hand-strip dead wiry hairs on broken and rough coats a couple of times a year.",
 
       bathing:
-        "Bathe only when heavily soiled or muddy after digging, using a mild canine shampoo to avoid depleting natural protective skin oils.",
+        "Bathe only when dirty from field work, using a mild canine shampoo that preserves the coat's natural weatherproofing oils.",
 
       notes: [
-        "Inspect the drop ears weekly for trapped dirt, wax, or foreign matter, particularly after subterranean tunneling.",
-        "Check paw pads, toes, and skin for thorns, burrs, or small abrasions after running through rough heather and rocky crags.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain compact foot structure.",
-        "Brush teeth several times weekly using canine-formulated enzymatic toothpaste.",
-        "Wipe down the coat with a damp cloth after woodland runs to remove surface debris.",
-        "Provide dedicated digging pits to channel natural excavation instincts away from landscaped garden beds."
-      ]
+        "Check the folded V-shaped ears, eyes, and paw pads after outdoor runs for soil, grass seeds, or thorns.",
+        "Trim strong nails every two to three weeks if they do not wear down naturally.",
+        "Brush teeth several times a week with canine toothpaste.",
+      ],
     },
 
     training: {
       difficulty:
-        "Moderate to challenging; highly intelligent and food-motivated, but possesses an independent mindset and high prey focus that require patient, consistent guidance",
+        "Moderate to challenging. Clever and eager to work, yet bred to act independently underground—requiring patient, reward-based training and reliable containment.",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
-        "Keep instructional sessions short, varied, and fast-paced (5 to 10 minutes) to avoid boredom.",
-        "Practice recall early on a long line, recognizing that strong scent and prey drive can override commands in the wild.",
-        "Always maintain the dog on a leash or inside a securely fenced area, as small wildlife will trigger immediate pursuit.",
-        "Avoid harsh verbal reprimands or physical corrections, which cause this proud terrier to become defensive and uncooperative.",
-        "Channel high energy and natural working drive into structured dog sports such as agility, barn hunt, or scent tracking."
+        "Use positive reinforcement, play, and high-value food rewards rather than forceful corrections.",
+        "Keep training sessions short, active, and varied.",
+        "Keep the dog on a lead in unfenced areas and ensure garden fencing is escape-proof and dig-proof, as prey drive easily overrides recall.",
+        "Channel excavation and hunting instincts into scent games or a dedicated digging box.",
       ],
 
       socialization:
-        "Introduce the puppy early and calmly to diverse people, friendly vaccinated dogs of varying sizes, household appliances, novel surfaces, and busy environments. Early structured socialization helps manage natural terrier feistiness and fosters a well-adjusted, confident adult companion."
+        "Introduce puppies early and calmly to varied people, well-mannered dogs, and novel environments, and never leave the dog unsupervised around small household pets such as rabbits, ferrets, rodents, or cats.",
     },
 
     livingEnvironment: {
@@ -217,80 +226,73 @@ export const patterdale_terrier: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate climates",
-        "Cool and rainy climates, where the dense double coat provides natural weather resistance",
-        "Warm climates, provided indoor cooling, shade, and fresh water are available and exercise occurs during cooler morning or evening hours"
+        "Cool, wet, and temperate climates suited to its dense double coat",
+        "Warm weather when shade, fresh water, and early-morning or evening exercise are provided",
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; high energy and strong family attachment mean prolonged isolation can lead to boredom barking, frantic digging, and destructive chewing."
-    }
+        "Low to moderate; without adequate daily exercise and company, boredom can quickly lead to digging, barking, or chewing.",
+    },
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for small active working breeds, adjusted for age, metabolism, and physical output.",
+      "Complete, balanced high-energy diet formulated for small active working dogs.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals daily until six months of age, then two meals daily.",
       adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
+        "Two measured meals daily to sustain working muscle and steady energy.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower activity and joint support.",
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Divide daily food into two distinct meals, restrict vigorous exercise immediately before and after eating, and provide cool, clean drinking water continuously.",
+      "Feed measured portions to keep the dog in hard, lean working condition where the ribcage remains easily spannable behind the shoulders. Provide clean drinking water at all times.",
 
     considerations: [
-      "Maintain a lean, hard working condition where the ribs are easily felt; excess weight places undue strain on small joints and spine.",
-      "Account for training treats within the total daily caloric allowance to prevent gradual weight gain.",
-      "Increase caloric and protein density during active field trials or heavy outdoor work.",
-      "Avoid feeding rich or fatty table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water, especially during active exercise in warm weather.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Adjust calorie intake upward during heavy field work or long hiking days and downward during quieter periods.",
+      "Count training treats toward the daily food ration.",
+      "Avoid fatty table scraps.",
     ],
 
     note:
-      "Caloric needs vary significantly based on activity level, working workload, and age. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "General working-terrier nutrition guidance; consult a veterinarian to tailor daily portions to workload and age.",
   },
 
   health: {
     overview:
-      "The Patterdale Terrier is an exceptionally hardy, robust working terrier with a typical life expectancy of 12 to 15 years. Bred primarily for field utility, stamina, and sound movement in challenging English terrain rather than show ring aesthetics, it has largely escaped the extreme conformational exaggerations and hereditary genetic defects seen in many popular companion breeds. Health considerations focus primarily on primary lens luxation (PLL, an inherited condition screenable via DNA testing), patellar luxation, contact allergies, and minor traumatic injuries sustained during earthwork.",
+      "Selected for centuries for functional soundness and stamina rather than exaggerated show traits, the Patterdale Terrier is a hardy working breed with a typical life expectancy of 10 to 13 years (and many individuals living into their mid-teens). Its primary documented hereditary risk is primary lens luxation (PLL) caused by the ADAMTS17 c.1473+1G>A mutation, alongside occasional patellar luxation, allergic skin or conjunctival irritation, and traumatic wounds from underground earthwork. Large-scale UK primary-care surveillance of 10,741 Patterdale Terriers also confirmed a very low prevalence (0.07%) of conformational eyelid disorders.",
 
     commonConditions: [
-      "Primary lens luxation (PLL) — an inherited ocular disorder caused by an autosomal recessive mutation in the ADAMTS17 gene, causing disintegration of the lens zonules, lens displacement, and secondary acute glaucoma, fully preventable through pre-breeding DNA testing",
-      "Patellar luxation — kneecap displacement from the femoral groove causing intermittent hopping or hind-limb lameness, monitored through clinical orthopedic grading",
-      "Field and hunting injuries — puncture wounds, lacerations, corneal abrasions, and broken teeth sustained during underground earthwork and brush running",
-      "Allergic dermatitis — skin sensitivity to flea bites, pollen, or environmental contact allergens causing itching and scratching",
-      "Periodontal disease — tartar buildup and gingivitis common in small breeds, preventable through routine home dental care"
+      "Primary lens luxation (PLL) — inherited breakdown of the zonular fibres supporting the crystalline lens, documented in the breed and caused by the c.1473+1G>A splice-site mutation in the ADAMTS17 gene, which can lead to painful lens displacement and secondary glaucoma between 2 and 8 years of age",
+      "Field and earthwork trauma — facial scars, lacerations, corneal scratches, foreign bodies in the ears or eyes, and chipped or lost teeth incurred while working underground or in dense cover",
+      "Patellar luxation — intermittent slipping of the kneecap in small terriers, assessed by clinical orthopaedic examination",
+      "Allergic skin and ear irritation — contact or atopic sensitivities after working in brush, grass, or burrows",
     ],
 
     preventiveCare: [
-      "Verify that breeding stock has been DNA tested for primary lens luxation (ADAMTS17 mutation).",
-      "Inspect eyes, ears, and paw pads after outdoor excursions in heavy underbrush or rocky terrain.",
-      "Maintain a lean, conditioned body weight to prevent excess strain on joints.",
-      "Administer consistent year-round flea, tick, and heartworm preventative treatments.",
-      "Brush teeth regularly and schedule periodic professional veterinary cleanings.",
-      "Ensure annual veterinary wellness examinations and core vaccinations remain up to date."
+      "Ensure breeding dogs are DNA-tested for the ADAMTS17 primary lens luxation mutation so two carriers are never mated.",
+      "Examine eyes, ears, muzzle, and feet carefully after every field or trail outing for thorns, ticks, and abrasions.",
+      "Maintain a lean, muscular working weight and keep routine parasite prevention and vaccinations current.",
+      "Schedule annual veterinary wellness, dental, and ophthalmic check-ups.",
     ],
 
     recommendedScreenings: [
-      "DNA marker test for Primary Lens Luxation (ADAMTS17 gene mutation) prior to breeding",
-      "Clinical patellar luxation orthopedic evaluation and grading",
-      "Comprehensive ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "DNA test for Primary Lens Luxation (ADAMTS17 c.1473+1G>A mutation) prior to breeding",
+      "Routine ophthalmic examination by a veterinary ophthalmologist",
+      "Clinical orthopedic evaluation of the patellae",
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has powerful jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine toothpaste and inspect the jaws and teeth after earthwork or tug play for chips or gum trauma.",
 
     earCare:
-      "Inspect the drop ears weekly for moisture, wax buildup, or debris, especially after subterranean digging. Clean gently with an approved cleanser, drying the leather thoroughly.",
+      "Check the folded triangular ears weekly—and after digging or brush work—for soil, plant awns, or wax, cleaning gently with a veterinarian-approved ear cleaner.",
 
     skinCare:
-      "Part the dense coat weekly during brushing to inspect the skin for external parasites, cuts, or irritation. The harsh coat naturally sheds dirt and requires minimal bathing beyond regular grooming."
+      "Brush out mud and burrs after walks and inspect the skin beneath the dense double coat for scratches, ticks, or contact irritation.",
   },
 
   suitability: {
@@ -301,109 +303,79 @@ export const patterdale_terrier: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor enthusiasts, hikers, and trail runners seeking an energetic small companion",
-      "Experienced terrier owners who understand working earthdog drives, feisty independence, and high stamina",
-      "Rural or suburban homes with a securely fenced yard",
-      "Sporting dog handlers interested in earthdog trials, scent work, and agility",
-      "Households seeking a loyal, fearless, and compact guardian of the hearth"
+      "Experienced terrier handlers and working-dog enthusiasts",
+      "Active hikers, runners, and rural households with a securely fenced garden",
+      "Competitors in earthdog, barn hunt, scent work, and agility",
     ],
 
     notIdealFor: [
-      "Novice dog owners unprepared for high prey drive and tenacious working instincts",
-      "Apartment dwellers or dense urban households where barking and high energy can cause friction",
-      "Households with loose pet rabbits, rodents, or small animals vulnerable to predatory drive",
-      "Sedentary individuals looking for a low-energy lap pet",
-      "Owners who expect reliable off-leash obedience in unfenced areas"
-    ]
+      "First-time dog owners unprepared for intense terrier prey drive and high stamina",
+      "Apartment dwellers or sedentary households",
+      "Homes with small pets such as rabbits, rodents, ferrets, or cats",
+      "Owners expecting reliable off-lead recall in unfenced country",
+    ],
   },
 
   funFacts: [
-    "The breed is named after the picturesque village of Patterdale in the Lake District of Cumbria, England, where it was selectively bred to hunt foxes across rocky fells.",
-    "A defining physical requirement of the breed is that its chest must be 'spannable'—a hunter should be able to span the ribcage behind the shoulders with both hands, ensuring the terrier can squeeze into tight rock fissures and underground burrows.",
-    "Legendary huntsman Joe Bowman of the Ullswater Foxhounds is credited with establishing the foundational strains of the black fell terrier in the late nineteenth and early twentieth centuries.",
-    "Unlike many modern show terriers that were bred away from their working roots, the Patterdale Terrier has remained an authentic, unexaggerated working earthdog prized for practical performance.",
-    "The coat occurs in three distinct textures: smooth, broken (with wiry whiskers and beard), and rough, all offering equal protection against cold mountain rain and thorny gorse.",
-    "Renowned terrier breeders Cyril Breay, Frank Buck, and Brian Nuttall further refined the modern working strain, creating lines celebrated for game courage and stamina."
+    "Named after the village of Patterdale at the southern end of Ullswater in Cumbria's Lake District, where huntsman Joe Bowman bred his working fell terriers.",
+    "To work underground in narrow Lakeland rock fissures, a Patterdale Terrier's chest must be 'spannable'—able to be encircled behind the shoulders by an average pair of human hands.",
+    "Because working ability always came first, broken or missing teeth earned during honest field work are explicitly excused from penalty in conformation judging.",
+    "Its weatherproof coat comes in three distinct textures—smooth, broken, and rough—and in liver (chocolate) dogs the nose leather is brown rather than black.",
+    "A UK veterinary study comparing more than 2.2 million dogs (including 10,741 Patterdale Terriers) found that only 0.07% of Patterdale Terriers had conformational eyelid disorders, reflecting the breed's unexaggerated working head.",
   ],
 
   faq: [
     {
       question: "What is a Patterdale Terrier?",
       answer:
-        "The Patterdale Terrier is a small, athletic working earthdog native to the Lake District of northern England, known for its black coat, spannable chest, courage, and intense hunting drive."
+        "The Patterdale Terrier (also called the Black Fell Terrier) is a small, muscular working earthdog from the Lake District of northern England, bred in smooth, broken, and rough coat varieties to hunt foxes and vermin in rocky terrain.",
     },
     {
-      question: "Where does the Patterdale Terrier originate?",
+      question: "How tall and heavy is an adult Patterdale Terrier?",
       answer:
-        "The breed originated in the Lake District of Cumbria, England, developed primarily around the village of Patterdale by huntsman Joe Bowman and local farmers to protect sheep from foxes in rocky fells."
+        "Adults stand 10 to 15 inches at the withers (with some working club guidelines allowing up to 16 inches). Weight is proportionate to height: a 12-inch dog in hard working condition typically weighs 11 to 13 pounds, while larger working dogs can weigh 12 to 26 pounds.",
     },
     {
-      question: "What was the Patterdale Terrier bred to do?",
+      question: "What is the typical lifespan of a Patterdale Terrier?",
       answer:
-        "It was bred to work underground, pursuing and bolting foxes from rocky cairns and subterranean dens, as well as controlling badgers and farm vermin."
+        "The breed has a typical lifespan of 10 to 13 years, and many well-cared-for dogs live into their mid-teens.",
     },
     {
-      question: "What does 'spannable' mean for a Patterdale Terrier?",
+      question: "What does it mean that a Patterdale Terrier's chest must be 'spannable'?",
       answer:
-        "Spannable means that an average person's hands can encircle the dog's ribcage just behind the front legs and compress it slightly; this ensures the terrier has the flexible chest required to navigate narrow underground rock crevices."
+        "A spannable chest means an average pair of human hands can reach around the ribcage immediately behind the front legs. This ensures the terrier is narrow and flexible enough to follow foxes or badgers through tight underground tunnels without getting stuck.",
     },
     {
-      question: "How tall and heavy is a Patterdale Terrier?",
+      question: "What coat types and colours are recognised?",
       answer:
-        "Adult males and females typically stand 10 to 15 inches tall at the withers and weigh between 11 and 15 pounds in hard, fit working condition."
+        "Three coat textures exist: smooth, broken (coarse body hair with facial whiskers and beard), and rough (longer wiry hair on the body, head, and legs). Recognised colours are black, red, liver (chocolate), grizzle, black and tan, and bronze, optionally with small white markings on the chest and feet.",
     },
     {
-      question: "How long does a Patterdale Terrier live?",
+      question: "What health screenings are recommended for the Patterdale Terrier?",
       answer:
-        "The breed is remarkably robust and long-lived, typically enjoying a healthy lifespan of 12 to 15 years with proper nutrition, exercise, and preventive veterinary care."
+        "Breeding dogs should be DNA-tested for the ADAMTS17 mutation that causes primary lens luxation (PLL), alongside routine veterinary eye examinations and patellar luxation checks.",
     },
-    {
-      question: "What coat types and colors are found in the Patterdale Terrier?",
-      answer:
-        "The coat occurs in three varieties—smooth, broken (with slight beard and whiskers), and rough—and is most often solid black, though red, liver, grizzle, and black-and-tan are also recognized."
-    },
-    {
-      question: "Is a Patterdale Terrier good with children and other pets?",
-      answer:
-        "It is affectionate and loyal with children in its family, but because of its high terrier energy, supervision is recommended; its intense prey drive makes it unsafe around small pets like rabbits or rodents, and it may be assertive with other dogs."
-    },
-    {
-      question: "Can a Patterdale Terrier live in an apartment?",
-      answer:
-        "Generally no. Its high energy, need for strenuous daily exercise, and natural instinct to bark at unusual sights or sounds make it poorly suited to apartment living; it thrives best in a house with a securely fenced yard."
-    },
-    {
-      question: "Is the Patterdale Terrier easy to train?",
-      answer:
-        "It is very smart and eager to work, but has an independent terrier mindset. Training requires patient, reward-based methods and positive reinforcement rather than repetitive drills or harsh handling."
-    },
-    {
-      question: "How much exercise does a Patterdale Terrier need daily?",
-      answer:
-        "The breed requires 60 to 90 minutes of daily physical exercise, including brisk walks, trail hikes, and mental challenges like scent work or agility."
-    },
-    {
-      question: "What health issues affect the Patterdale Terrier?",
-      answer:
-        "The breed is generally very healthy, with primary considerations centering on primary lens luxation (PLL, an inherited eye disease preventable through DNA testing), patellar luxation, skin allergies, and minor injuries from hunting in rough brush."
-    }
   ],
 
   references: [
     "ukc-patterdale-terrier-official-standard",
     "patterdale-terrier-club-of-america-breed-standard",
+    "pubmed-gould-2011-adamts17-lens-luxation",
     "patterdale-terrier-pll-adamts17-study-2011",
+    "vetcompass-conformational-eyelid-disorders-study-2025",
     "bva-canine-health-schemes-terriers",
-    "wikimedia-patterdale-terrier-sannse"
+    "wikimedia-patterdale-terrier-sannse",
+    "wikimedia-patterdale-terrier-chilepine",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Official breed standards and kennel-club records do not establish a breed-specific scientific name; kept null per schema rules.",
     },
 
     alternateNames: {
@@ -412,16 +384,16 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Standard header and breed name: Patterdale Terrier"
+          locator: "Breed name and History: Patterdale Terrier, Fell Terrier, Black Fell Terrier",
         },
         {
           id: "patterdale-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "History: Black Fell Terrier, Fell Terrier"
-        }
+          locator: "Patterdale Terrier / Black Fell Terrier",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: "Verified across official UKC and PTCA breed standards."
+      verifiedOn: "2026-11-18",
+      note: "Verified across the UKC official standard and PTCA breed standard.",
     },
 
     group: {
@@ -430,17 +402,17 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Terrier Group"
+          locator: "Terrier Group",
         },
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Working terrier and earthdog classification"
-        }
+          locator: "breed.breed_group (Terrier)",
+        },
       ],
-      verifiedOn: "2026-11-09",
+      verifiedOn: "2026-11-18",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "Classified in the Terrier Group without naming registries in user-facing text.",
     },
 
     origin: {
@@ -449,16 +421,21 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "History: Lake District of Northern England"
+          locator: "History: Lake District of Northern England, village of Patterdale",
         },
         {
           id: "patterdale-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "Origin: Village of Patterdale, Ullswater, Cumbria, England"
-        }
+          locator: "Origin in Patterdale, Cumbria, Northern England",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (England (Lake District))",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     overview: {
@@ -467,17 +444,22 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "History, General Appearance, and Characteristics"
+          locator: "History (recognized January 1, 1995), General Appearance, and Characteristics",
         },
         {
           id: "patterdale-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "Breed History (Joe Bowman, Cyril Breay, Frank Buck, Brian Nuttall), General Appearance, and Earthdog Purpose"
-        }
+          locator: "General Appearance, Chest, Coat, Color, and Working Purpose",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history",
+        },
       ],
-      verifiedOn: "2026-11-09",
+      verifiedOn: "2026-11-18",
       note:
-        "Synthesized in original prose from official UKC and PTCA breed standards."
+        "Rewritten in 100% original wording from the UKC and PTCA standards and The Dog API.",
     },
 
     physical: {
@@ -486,17 +468,22 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Head, Body, Coat, Color, Height, Weight"
+          locator: "General Appearance, Head, Teeth (teeth lost or broken while working not penalized), Eyes, Ears, Neck, Body (spannable chest), Tail, Coat (smooth, broken, rough), Color (black, red, liver, grizzle, black and tan, bronze), Height, and Weight",
         },
         {
           id: "patterdale-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "General Appearance, Spannable Chest, Head, Ears, Coat, Color, Size"
-        }
+          locator: "Height and Weight, Chest (spannable), Teeth (scissors or level bite; teeth lost/broken working not penalized), Ears, Coat, and Color (Black, Red, Chocolate, Black and Tan; brown nose on chocolate dogs)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (lists 17 generic species-wide colours including merle, blue, cream, pied, tricolour)",
+        },
       ],
-      verifiedOn: "2026-11-09",
+      verifiedOn: "2026-11-18",
       note:
-        "Conformation, spannable chest, coat varieties, and distinctive features follow official standards."
+        "Conformation, spannable ribcage, smooth/broken/rough coat varieties, and permitted colours (black, red, liver/chocolate, grizzle, black and tan, bronze, with minor white on chest/feet) follow the UKC and PTCA standards rather than The Dog API's generic 17-colour list.",
     },
 
     "physical.height": {
@@ -505,17 +492,68 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Height: Height is measured at the withers. The height range is from 10 to 15 inches."
+          locator: "Height: Height is measured at the withers. The height range is from 10 to 15 inches.",
         },
         {
           id: "patterdale-terrier-club-of-america-breed-standard",
-          role: "verified",
-          locator: "Size: Height: 10 to 15 inches"
-        }
+          role: "conflicting",
+          locator: "HEIGHT AND WEIGHT: Height may range from 10 to 16 inches (10\" to 16\" measured at the shoulders).",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (25–38 cm)",
+        },
       ],
-      verifiedOn: "2026-11-09",
+      verifiedOn: "2026-11-18",
       note:
-        "Preserved in published unit of inches (10 to 15 inches) exactly as specified in official standards."
+        "Preserved in inches (10 to 15 in) per the UKC official breed standard; the PTCA breed club standard allows 10 to 16 in, and The Dog API lists 25 to 38 cm.",
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "ukc-patterdale-terrier-official-standard",
+          role: "verified",
+          locator: "Height: 10 to 15 inches",
+        },
+        {
+          id: "patterdale-terrier-club-of-america-breed-standard",
+          role: "conflicting",
+          locator: "Height may range from 10 to 16 inches",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (38 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "Upper height bound of 15 in per the UKC official standard.",
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "ukc-patterdale-terrier-official-standard",
+          role: "verified",
+          locator: "Height: 10 to 15 inches",
+        },
+        {
+          id: "patterdale-terrier-club-of-america-breed-standard",
+          role: "conflicting",
+          locator: "Height may range from 10 to 16 inches",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (38 cm)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "Upper height bound of 15 in per the UKC official standard.",
     },
 
     "physical.weight": {
@@ -524,30 +562,82 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Weight: Weight is in proportion to the height of the terrier. A dog in hard, working condition will usually weigh between 11 and 13 pounds for a 12-inch dog."
+          locator: "Weight: Weight is in proportion to the height of the terrier. A dog in hard, working condition will usually weigh between 11 and 13 pounds for a 12-inch dog.",
         },
         {
           id: "patterdale-terrier-club-of-america-breed-standard",
-          role: "verified",
-          locator: "Weight: Working dogs typically weigh 11 to 15 pounds"
-        }
+          role: "conflicting",
+          locator: "HEIGHT AND WEIGHT: Weight may be heavy in proportion to the terrier's height. Twelve to twenty-six pounds (12–26 lbs).",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (5–6 kg)",
+        },
       ],
-      verifiedOn: "2026-11-09",
+      verifiedOn: "2026-11-18",
       note:
-        "Preserved in published unit of pounds (11 to 15 pounds) following official UKC and PTCA standards."
+        "Preserved in pounds (11 to 13 lb) per the UKC official standard's published reference range for a 12-inch working dog; PTCA gives a wider 12 to 26 lb range across all heights, and The Dog API gives 5 to 6 kg.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "ukc-patterdale-terrier-official-standard",
+          role: "verified",
+          locator: "Weight: 11 and 13 pounds for a 12-inch dog",
+        },
+        {
+          id: "patterdale-terrier-club-of-america-breed-standard",
+          role: "conflicting",
+          locator: "HEIGHT AND WEIGHT: Twelve to twenty-six pounds (26 lb)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (6 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "Upper weight bound of 13 lb from the UKC official standard.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "ukc-patterdale-terrier-official-standard",
+          role: "verified",
+          locator: "Weight: 11 and 13 pounds for a 12-inch dog",
+        },
+        {
+          id: "patterdale-terrier-club-of-america-breed-standard",
+          role: "conflicting",
+          locator: "HEIGHT AND WEIGHT: Twelve to twenty-six pounds (26 lb)",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (6 kg)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "Upper weight bound of 13 lb from the UKC official standard.",
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Health and Longevity: 12-15 years"
-        }
+          locator: "breed.life_span (10–13 years)",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: "Supported by parent club and working terrier breed registry data."
+      verifiedOn: "2026-11-18",
+      note:
+        "Updated to 10–13 years per The Dog API, as neither the UKC standard nor the PTCA standard specifies a numeric lifespan range.",
     },
 
     "physical.sheddingLevel": {
@@ -556,29 +646,24 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Coat: Dense double coat with weather-resistant undercoat"
+          locator: "Coat: Dense double coat in smooth, broken, or rough varieties",
         },
-        {
-          id: "patterdale-terrier-club-of-america-breed-standard",
-          role: "verified",
-          locator: "Grooming and shedding characteristics"
-        }
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     "physical.droolingLevel": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Mouth: Tight-fitting lips"
-        }
+          locator: "Muzzle/Mouth: Tight-fitting lips",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: "Tight-fitting lips prevent drooling."
+      verifiedOn: "2026-11-18",
+      note: "Tight-fitting lips result in low drooling.",
     },
 
     "temperament.traits": {
@@ -587,16 +672,21 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Characteristics: Eager to please, courageous, bold, active, confident"
+          locator: "Characteristics: Bold, confident, active working terrier",
         },
         {
           id: "patterdale-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "Temperament: Gameness, boldness, loyalty, quarry focus"
-        }
+          locator: "General Appearance and Working Character",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament (Energetic, courageous, confident, independent, alert, work-focused)",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     "temperament.scores": {
@@ -605,90 +695,95 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Characteristics and working drive",
         },
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
+          id: "the-dog-api",
           role: "cited",
-          locator: "Working drives and domestic behavior"
-        }
+          locator: "breed.temperament",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented working earthdog temperament and prey drive."
+        "Editorial 1–5 scores reflecting high working energy, strong prey drive, and domestic loyalty.",
     },
 
     care: {
       reliability: "general_guidance",
       sources: [
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
-          role: "cited",
-          locator: "Care, exercise, and management guidelines"
-        },
-        {
           id: "ukc-patterdale-terrier-official-standard",
           role: "cited",
-          locator: "Working terrier traits and care"
-        }
+          locator: "Coat varieties and working terrier characteristics",
+        },
+        {
+          id: "patterdale-terrier-club-of-america-breed-standard",
+          role: "cited",
+          locator: "Working earthdog care and coat types",
+        },
       ],
       verifiedOn: null,
       note:
-        "Combines active earthdog management with short-coat grooming and training protocols."
+        "Combines active working-terrier exercise and containment with low-to-moderate coat care.",
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
+          id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Working earthdog endurance and daily exercise needs"
-        }
+          locator: "Active working earthdog bred for stamina in the fells",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament (Energetic, work-focused)",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
       sources: [
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
+          id: "ukc-patterdale-terrier-official-standard",
           role: "cited",
-          locator: "Exercise and stamina recommendations"
-        }
+          locator: "Working earthdog endurance",
+        },
       ],
       verifiedOn: null,
       note:
-        "Estimated 60 to 90 minutes of daily activity reflects the high energy demands of a working earthdog."
+        "Estimated 60 to 90 minutes of daily exercise and scent/play enrichment.",
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
+          id: "ukc-patterdale-terrier-official-standard",
           role: "cited",
-          locator: "High energy, digging, and barking instincts in working terriers"
-        }
+          locator: "High-drive working terrier",
+        },
       ],
       verifiedOn: null,
       note:
-        "Editorial evaluation that high energy, digging instincts, and vocal tendencies make apartment living generally unsuitable."
+        "Editorial assessment that intense working energy and digging/prey instincts make apartments unsuitable.",
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
+          id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Housing: Securely fenced yard recommended"
-        }
+          locator: "Active working terrier requiring secure outdoor space",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     "care.livingEnvironment.climates": {
@@ -697,131 +792,138 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Coat: Dense double coat adapted to harsh Lake District weather"
-        }
+          locator: "Coat: Dense, weatherproof double coat adapted to the Lake District",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
+          id: "ukc-patterdale-terrier-official-standard",
           role: "cited",
-          locator: "Terrier temperament and separation boredom"
-        }
+          locator: "Active, work-focused terrier temperament",
+        },
       ],
       verifiedOn: null,
-      note: null
+      note: null,
     },
 
     nutrition: {
       reliability: "general_guidance",
       sources: [
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
+          id: "ukc-patterdale-terrier-official-standard",
           role: "cited",
-          locator: "Nutrition and body condition maintenance"
-        }
+          locator: "Weight: hard, working condition with spannable chest",
+        },
       ],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for active working terriers."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "patterdale-terrier-club-of-america-breed-standard",
-          role: "cited",
-          locator: "Feeding schedules"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+        "General nutritional guidance for an active small working terrier.",
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
+          role: "verified",
+          locator: "Gould et al. (2011, Vet Ophthalmol PMID 22050825): ADAMTS17 c.1473+1G>A mutation associated with primary lens luxation across terrier breeds",
+        },
+        {
           id: "patterdale-terrier-pll-adamts17-study-2011",
           role: "verified",
-          locator: "ADAMTS17 gene mutation and primary lens luxation in working terriers"
+          locator: "OMIA 000588-9615: Patterdale Terrier (VBO_0200990) documented among breeds carrying the ADAMTS17 primary lens luxation variant",
+        },
+        {
+          id: "vetcompass-conformational-eyelid-disorders-study-2025",
+          role: "verified",
+          locator: "O'Neill et al. (2025, PMC12208470): 0.07% prevalence of conformational eyelid disorder across 10,741 UK Patterdale Terriers",
         },
         {
           id: "bva-canine-health-schemes-terriers",
           role: "verified",
-          locator: "Eye examinations and patellar evaluation for working terriers"
+          locator: "Eye screening schemes",
         },
-        {
-          id: "patterdale-terrier-club-of-america-breed-standard",
-          role: "verified",
-          locator: "Health and soundness: primary lens luxation and working fitness"
-        }
       ],
-      verifiedOn: "2026-11-09",
+      verifiedOn: "2026-11-18",
       note:
-        "Synthesizes peer-reviewed genetics research on primary lens luxation with veterinary health screening recommendations."
+        "Grounded in peer-reviewed veterinary ophthalmology genetics (Gould et al. 2011; OMIA 000588-9615) and UK VetCompass primary-care surveillance (n = 10,741 Patterdale Terriers).",
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
+          role: "verified",
+          locator: "Gould et al. (2011, Vet Ophthalmol 14(6):378-384, PMID 22050825): ADAMTS17 c.1473+1G>A splice-site mutation causing primary lens luxation and secondary glaucoma",
+        },
+        {
           id: "patterdale-terrier-pll-adamts17-study-2011",
           role: "verified",
-          locator: "Primary lens luxation clinical and genetic description"
+          locator: "OMIA 000588-9615: Primary lens luxation in Patterdale Terrier (VBO_0200990)",
         },
         {
           id: "patterdale-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "Patellar luxation, field injuries, and allergic dermatitis"
-        }
+          locator: "Teeth and working scars/injuries from underground quarry work",
+        },
+        {
+          id: "bva-canine-health-schemes-terriers",
+          role: "verified",
+          locator: "Hereditary eye disease and orthopedic screening",
+        },
       ],
-      verifiedOn: "2026-11-09",
+      verifiedOn: "2026-11-18",
       note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+        "Distinguishes the genetically established ADAMTS17 primary lens luxation mutation from working field trauma and routine small-terrier conditions.",
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
           role: "cited",
-          locator: "Preventative health and field injury care"
+          locator: "DNA carrier screening for ADAMTS17 primary lens luxation",
         },
         {
           id: "bva-canine-health-schemes-terriers",
           role: "cited",
-          locator: "Veterinary preventative recommendations"
-        }
+          locator: "Preventive ophthalmic and clinical care",
+        },
       ],
       verifiedOn: null,
-      note: "Field hygiene protocol tailored to active working terriers."
+      note: "Preventive care guidance for a working earthdog.",
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
+          role: "verified",
+          locator: "ADAMTS17 c.1473+1G>A DNA test for primary lens luxation",
+        },
+        {
           id: "patterdale-terrier-pll-adamts17-study-2011",
           role: "verified",
-          locator: "DNA testing for ADAMTS17 mutation"
+          locator: "OMIA 000588-9615: ADAMTS17 genetic testing in Patterdale Terriers",
         },
         {
           id: "bva-canine-health-schemes-terriers",
           role: "verified",
-          locator: "Eye examination and patellar evaluation"
-        }
+          locator: "Specialist ophthalmic examination",
+        },
       ],
-      verifiedOn: "2026-11-09",
+      verifiedOn: "2026-11-18",
       note:
-        "Screenings summarize published breed club and veterinary genetics protocols."
+        "Pre-breeding DNA and ophthalmic screening recommendations.",
     },
 
     "health.dentalCare": {
@@ -830,11 +932,11 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "cited",
-          locator: "Teeth: complete scissor bite with strong teeth"
-        }
+          locator: "Teeth: scissor or level bite; teeth lost or broken while working not penalized",
+        },
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Dental care guidance.",
     },
 
     "health.earCare": {
@@ -843,11 +945,11 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "cited",
-          locator: "Ears: small triangular drop ears"
-        }
+          locator: "Ears: small triangular drop ears",
+        },
       ],
       verifiedOn: null,
-      note: "Ear maintenance protocol for drop ears."
+      note: "Routine ear care after underground and brush work.",
     },
 
     "health.skinCare": {
@@ -856,25 +958,30 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "cited",
-          locator: "Skin and coat structure"
-        }
+          locator: "Coat: dense, weather-resistant double coat",
+        },
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: "Coat and skin inspection guidance after field outings.",
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
         {
-          id: "patterdale-terrier-club-of-america-breed-standard",
+          id: "ukc-patterdale-terrier-official-standard",
           role: "cited",
-          locator: "Suitability, working drives, and domestic requirements"
-        }
+          locator: "Characteristics and working earthdog drive",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament",
+        },
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and working drive."
+        "Editorial suitability evaluations based on high working drive, stamina, and prey instinct.",
     },
 
     funFacts: {
@@ -883,16 +990,21 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Lake District roots, spannable chest"
+          locator: "Lake District / Patterdale origin, spannable chest, three coat textures, and working tooth allowance",
         },
         {
           id: "patterdale-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "Historical facts: Joe Bowman, Cyril Breay, Frank Buck, Brian Nuttall, coat varieties"
-        }
+          locator: "Spannable chest, working tooth fault exemption, and brown nose on chocolate dogs",
+        },
+        {
+          id: "vetcompass-conformational-eyelid-disorders-study-2025",
+          role: "verified",
+          locator: "0.07% conformational eyelid disorder prevalence in 10,741 UK Patterdale Terriers",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-18",
+      note: "Verified against UKC, PTCA, and UK primary-care epidemiological records.",
     },
 
     faq: {
@@ -901,24 +1013,29 @@ export const patterdale_terrier: Breed = {
         {
           id: "ukc-patterdale-terrier-official-standard",
           role: "verified",
-          locator: "Size (10-15 in), weight (11-15 lbs), coat varieties, colors, and spannability"
+          locator: "Height (10–15 in), Weight (11–13 lb for a 12-in dog), spannable chest, coat varieties, and colours",
         },
         {
           id: "patterdale-terrier-club-of-america-breed-standard",
           role: "verified",
-          locator: "Lifespan, temperament, exercise, and training"
+          locator: "Height (10–16 in) and Weight (12–26 lb)",
         },
         {
-          id: "patterdale-terrier-pll-adamts17-study-2011",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Primary lens luxation testing"
-        }
+          locator: "breed.life_span (10–13 years)",
+        },
+        {
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
+          role: "verified",
+          locator: "ADAMTS17 primary lens luxation screening",
+        },
       ],
-      verifiedOn: "2026-11-09",
+      verifiedOn: "2026-11-18",
       note:
-        "FAQ answers synthesize verified standards, breed club publications, and genetics research without naming registries in prose."
-    }
+        "FAQ answers synthesise verified UKC, PTCA, peer-reviewed genetics, and The Dog API data without naming registries in user-facing text.",
+    },
   },
 
-  updatedOn: "2026-11-09"
+  updatedOn: "2026-11-18",
 };

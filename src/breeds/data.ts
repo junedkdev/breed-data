@@ -221,6 +221,7 @@ import { pont_audemer_spaniel } from "./pont_audemer_spaniel";
 import { jamthund } from "./jamthund";
 import { bedlington_terrier } from "./bedlington_terrier";
 import { thai_ridgeback } from "./thai_ridgeback";
+import { german_shorthaired_pointer } from "./german_shorthaired_pointer";
 
 
 export const breedData: readonly Breed[] = [
@@ -441,4 +442,5 @@ export const breedData: readonly Breed[] = [
   jamthund,
   bedlington_terrier,
   thai_ridgeback,
+  german_shorthaired_pointer,
 ];

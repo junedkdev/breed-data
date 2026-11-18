@@ -13151,15 +13151,15 @@ export const sources = defineSources({
     accessedOn: "2026-11-18",
     note: "High-resolution photograph (3568 x 2368 px) of an adult long-haired Estrela Mountain Dog outdoors by Tiagopmartins (uploaded 2008-08-19). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
   },
-  "fci-west-highland-white-terrier-official-standard": {
+"fci-west-highland-white-terrier-official-standard": {
     id: "fci-west-highland-white-terrier-official-standard",
     name: "FCI - West Highland White Terrier Official Breed Standard No. 85",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/085g03-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2011-01-24",
-    accessedOn: "2026-11-08",
-    note: "Official English FCI Standard No. 85 (valid standard dated 2010-10-13, publication date 2011-01-24). Covers Great Britain origin, Group 3 Terriers, Section 2 Small-sized Terriers classification without working trial, general appearance, pure white double coat, carrot tail, black pigment, and withers height (approximately 28 cm / 11 ins).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-18",
+    note: "Official English FCI Standard No. 85 (valid standard dated 2026-09-08, publication date 2026-10-06). Covers Great Britain origin, Group 3 Terriers, Section 2 Small-sized Terriers classification without working trial, general appearance, skin free from obvious skin problems, pure white ~5 cm harsh double coat, 13-15 cm undocked tail, black pigment, and withers height (approximately 28 cm).",
   },
   "fci-west-highland-white-terrier-nomenclature": {
     id: "fci-west-highland-white-terrier-nomenclature",
@@ -13171,15 +13171,15 @@ export const sources = defineSources({
     note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 3 Section 2 classification without working trial, official multilingual names (Chien Terrier Blanc des Highlands de l'Ouest, Weißer Hochland-Terrier), and definitive recognition date (1954-10-29).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "the-kennel-club-west-highland-white-terrier-breed-standard": {
+"the-kennel-club-west-highland-white-terrier-breed-standard": {
     id: "the-kennel-club-west-highland-white-terrier-breed-standard",
     name: "The Royal Kennel Club - West Highland White Terrier Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/terrier/west-highland-white-terrier/",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/breed-standards/terrier/west-highland-white-terrier/",
     type: "official_breed_standard",
-    publishedOn: "2025-04-01",
-    accessedOn: "2026-11-08",
-    note: "Official Royal Kennel Club breed standard (Terrier Group, country of origin standard) establishing withers height (approximately 28 cm / 11 ins), weight (7-10 kg / 15-22 lbs), harsh straight white double coat, carrot-shaped tail, and game working temperament.",
-    publisher: "The Royal Kennel Club"
+    publishedOn: "2025-08-01",
+    accessedOn: "2026-11-18",
+    note: "Official Royal Kennel Club breed standard (Terrier Group, updated August 2025) establishing withers height (approximately 28 cm / 11 ins), harsh straight ~5 cm white double coat, 13-15 cm straight tail, skin free from obvious problems, and alert, game, self-reliant temperament.",
   },
   "akc-west-highland-white-terrier-breed-standard": {
     id: "akc-west-highland-white-terrier-breed-standard",
@@ -13221,35 +13221,35 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the West Highland White Terrier, mandating DNA testing for Craniomandibular Osteopathy (CMO), patellar luxation evaluation, and CAER eye examination, alongside optional hip and GCL evaluations.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "west-highland-white-terrier-cmo-slc37a2-study-2014": {
+"west-highland-white-terrier-cmo-slc37a2-study-2014": {
     id: "west-highland-white-terrier-cmo-slc37a2-study-2014",
-    name: "Novel Carboxylesterase 1 (CES1) and Solute Carrier Family 37 Member 2 (SLC37A2) Mutations Associated with Craniomandibular Osteopathy in Terriers (PLoS ONE 2014)",
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4234500/",
+    name: "Molecular Characterization of Three Canine Models of Human Rare Bone Diseases: Caffey, van den Ende-Gupta, and Raine Syndromes (PLoS Genet 2016)",
+    publisher: "PLoS Genetics / PubMed Central",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4871343/",
     type: "scientific",
-    publishedOn: "2014-11-17",
-    accessedOn: "2026-11-08",
-    note: "Peer-reviewed scientific study (Hytönen et al., PLoS ONE 2014;9(11):e112468, PMID 25402008) identifying a missense mutation in the SLC37A2 gene on chromosome 5 causing craniomandibular osteopathy in West Highland White Terriers, Cairn Terriers, and Scottish Terriers.",
-    publisher: "PLoS ONE / PubMed Central"
+    publishedOn: "2016-05-17",
+    accessedOn: "2026-11-18",
+    note: "Peer-reviewed genetic study (Hytönen et al., PLoS Genet 2016;12(5):e1006037, PMID 27187611, PMC4871343) identifying a leaky splicing variant (c.1332C>T) in the SLC37A2 gene on chromosome 5 causing craniomandibular osteopathy (CMO) in West Highland White Terriers, Cairn Terriers, and Scottish Terriers.",
   },
-  "wikimedia-west-highland-white-terrier-lilly-m": {
+"wikimedia-west-highland-white-terrier-lilly-m": {
     id: "wikimedia-west-highland-white-terrier-lilly-m",
-    name: "Wikimedia Commons - File:West Highland White Terrier.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:West_Highland_White_Terrier.jpg",
+    name: "Wikimedia Commons - File:West Highland White Terrier lying on lawn May 2023.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:West_Highland_White_Terrier_lying_on_lawn_May_2023.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-08",
-    note: "High-resolution photograph (2592 x 1944 px) of a West Highland White Terrier standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2023-05-29",
+    accessedOn: "2026-11-18",
+    note: "High-resolution Wikimedia Commons Quality Image (3617 x 2421 px) of an adult West Highland White Terrier resting on a lawn by Dominic Nelson (BigDom), captured and uploaded 2023-05-29. Licensed under CC BY-SA 4.0.",
   },
-  "wikimedia-west-highland-white-terrier-pleple2000": {
+"wikimedia-west-highland-white-terrier-pleple2000": {
     id: "wikimedia-west-highland-white-terrier-pleple2000",
-    name: "Wikimedia Commons - File:West highland white terrier.JPG",
-    url: "https://commons.wikimedia.org/wiki/File:West_highland_white_terrier.JPG",
+    name: "Wikimedia Commons - File:West highland white terrier 454.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:West_highland_white_terrier_454.jpg",
     type: "other",
-    publishedOn: "2008-10-18",
-    accessedOn: "2026-11-08",
-    note: "Photograph (2400 x 1800 px) of a West Highland White Terrier at a dog show by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18). Licensed under CC BY-SA 3.0.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2007-03-27",
+    accessedOn: "2026-11-18",
+    note: "Photograph (1748 x 1518 px) of a West Highland White Terrier at a dog show in Katowice, Poland by Pleple2000 (captured 2007-03-16, uploaded 2007-03-27). Licensed under CC BY-SA 3.0.",
   },
   "ukc-patterdale-terrier-official-standard": {
     id: "ukc-patterdale-terrier-official-standard",
@@ -13261,25 +13261,25 @@ export const sources = defineSources({
     note: "Official UKC breed standard (Terrier Group, recognized January 1, 1995) covering conformation, spannable chest, smooth/broken/rough coat varieties, height (10 to 15 inches), weight (11 to 13 pounds for a 12-inch dog; in proportion), and working earthdog temperament.",
     publisher: "United Kennel Club"
   },
-  "patterdale-terrier-club-of-america-breed-standard": {
+"patterdale-terrier-club-of-america-breed-standard": {
     id: "patterdale-terrier-club-of-america-breed-standard",
-    name: "Patterdale Terrier Club of America - Breed Standard and Information",
-    url: "https://www.ptca.us/breed-standard",
+    name: "Patterdale Terrier Club of America - Official Breed Standard",
+    publisher: "Patterdale Terrier Club of America",
+    url: "https://patterdaleterrierclubofamerica.com/breed-standard",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-09",
-    note: "Official parent breed club standard detailing Lake District history, working earthdog traits, height (10-15 inches), working weight (11-15 lbs), coat varieties, and health management.",
-    publisher: "Patterdale Terrier Club of America"
+    accessedOn: "2026-11-18",
+    note: "Official parent breed club standard detailing working earthdog conformation, spannable chest, scissor or level bite (with working tooth loss/breakage not penalized), height (10 to 16 inches), proportionate working weight (12 to 26 pounds), and recognized colors (Black, Red, Chocolate with brown nose, Black and Tan).",
   },
-  "patterdale-terrier-pll-adamts17-study-2011": {
+"patterdale-terrier-pll-adamts17-study-2011": {
     id: "patterdale-terrier-pll-adamts17-study-2011",
-    name: "Mutations in ADAMTS17 Associated with Primary Lens Luxation in Terriers (Genetics 2011)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/21808011/",
+    name: "OMIA 000588-9615: Lens Luxation, ADAMTS17-Related in Canis lupus familiaris",
+    publisher: "Online Mendelian Inheritance in Animals (OMIA) / University of Sydney",
+    url: "https://omia.org/OMIA000588/9615/",
     type: "scientific",
-    publishedOn: "2011-08-01",
-    accessedOn: "2026-11-09",
-    note: "Peer-reviewed scientific study (Gould et al., Invest Ophthalmol Vis Sci / Vet Ophthalmol 2011) identifying the causal mutation in the ADAMTS17 gene responsible for primary lens luxation in terrier breeds, including working Jack Russell and Patterdale Terriers.",
-    publisher: "Investigative Ophthalmology & Visual Science / PubMed"
+    publishedOn: null,
+    accessedOn: "2026-11-18",
+    note: "Curated veterinary genetics reference documenting the autosomal recessive ADAMTS17 c.1473+1G>A splice-site mutation responsible for primary lens luxation (PLL) across terrier breeds, explicitly listing the Patterdale Terrier (VBO_0200990).",
   },
   "bva-canine-health-schemes-terriers": {
     id: "bva-canine-health-schemes-terriers",
@@ -13291,15 +13291,15 @@ export const sources = defineSources({
     note: "BVA/KC health schemes providing screening recommendations for eye conditions, patellar luxation, and hereditary joint health in working terriers.",
     publisher: "British Veterinary Association"
   },
-  "wikimedia-patterdale-terrier-sannse": {
+"wikimedia-patterdale-terrier-sannse": {
     id: "wikimedia-patterdale-terrier-sannse",
-    name: "Wikimedia Commons - File:Patterdale Terrier.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Patterdale_Terrier.jpg",
+    name: "Wikimedia Commons - File:05078045 Patterdale Terrier.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:05078045_Patterdale_Terrier.jpg",
     type: "other",
-    publishedOn: "2004-06-03",
-    accessedOn: "2026-11-09",
-    note: "Photograph of an adult black Patterdale Terrier standing outdoors by Sannse (uploaded 2004-06-03, 800 x 600 px). Licensed under CC BY-SA 3.0.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2009-01-17",
+    accessedOn: "2026-11-18",
+    note: "Photograph (900 x 600 px) of an adult black Patterdale Terrier standing outdoors by Alephalpha (captured July 2005, uploaded 2009-01-17). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
   },
   "fci-istrian-wire-haired-hound-official-standard": {
     id: "fci-istrian-wire-haired-hound-official-standard",
@@ -19588,6 +19588,116 @@ export const sources = defineSources({
     accessedOn: "2026-11-18",
     note: "Photograph (590 x 600 px) of a female blue Thai Ridgeback standing outdoors by Canarian (captured and uploaded 2016-09-03). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
+  },
+  "fci-german-shorthaired-pointer-official-standard": {
+    id: "fci-german-shorthaired-pointer-official-standard",
+    name: "FCI - German Shorthaired Pointer (Deutsch Kurzhaar) Official Breed Standard No. 119",
+    url: "https://www.fci.be/Nomenclature/Standards/119g07-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2001-04-25",
+    accessedOn: "2026-11-18",
+    note: "Official English FCI Standard No. 119 (valid standard dated 2000-10-25). Covers German origin, Group 7 Pointing Dogs classification, versatile utility, short dense coat, solid brown or brown roan colors, and typical hunting conformation.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-german-shorthaired-pointer-nomenclature": {
+    id: "fci-german-shorthaired-pointer-nomenclature",
+    name: "FCI - German Shorthaired Pointer Breed Nomenclature (No. 119)",
+    url: "https://www.fci.be/en/nomenclature/GERMAN-SHORTHAIRED-POINTER-119.html",
+    type: "official_breed_standard",
+    publishedOn: "2001-04-25",
+    accessedOn: "2026-11-18",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 7 Section 1.1 classification, and official multilingual names (Deutsch Kurzhaar, German Shorthaired Pointer).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-german-shorthaired-pointer-breed-standard": {
+    id: "akc-german-shorthaired-pointer-breed-standard",
+    name: "American Kennel Club - Official Standard of the German Shorthaired Pointer",
+    url: "https://images.akc.org/pdf/breeds/standards/GermanShorthairedPointer.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1992-08-11",
+    accessedOn: "2026-11-18",
+    note: "Official AKC breed standard (Sporting Group, approved 1992) establishing height (23-25 inches males, 21-23 inches females), weight (55-70 lbs males, 45-60 lbs females), solid liver or liver/white coat, webbed feet, and highly energetic working temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-german-shorthaired-pointer-breed-profile": {
+    id: "akc-german-shorthaired-pointer-breed-profile",
+    name: "American Kennel Club - German Shorthaired Pointer Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/german-shorthaired-pointer/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-18",
+    note: "Official AKC breed profile covering German hunting history, Prince Albrecht zu Solms-Braunfels, lifespan (10-12 years), extreme energy levels, 'velcro dog' affectionate nature, and grooming needs.",
+    publisher: "American Kennel Club"
+  },
+  "ofa-german-shorthaired-pointer-chic-requirements": {
+    id: "ofa-german-shorthaired-pointer-chic-requirements",
+    name: "Orthopedic Foundation for Animals - German Shorthaired Pointer CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=GSP",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-18",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the GSP, mandating Radiographic Hip and Elbow Dysplasia evaluation, CAER Eye examination, Cone Degeneration (CD) DNA test, and Basic Cardiac Evaluation.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "wikimedia-german-shorthaired-pointer-riley": {
+    id: "wikimedia-german-shorthaired-pointer-riley",
+    name: "Wikimedia Commons - File:German Shorthaired Pointer (Deutsch Kurzhaar) in field.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:German_Shorthaired_Pointer_(Deutsch_Kurzhaar)_in_field.jpg",
+    type: "other",
+    publishedOn: "2016-05-10",
+    accessedOn: "2026-11-18",
+    note: "High-resolution photograph (5184 x 3456 px) of a liver and white German Shorthaired Pointer standing alert in a field by ~riley (captured 2014-09-09, uploaded 2016-05-10). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "west-highland-white-terrier-vetcompass-study-2019": {
+    id: "west-highland-white-terrier-vetcompass-study-2019",
+    name: "West Highland White Terriers Under Primary Veterinary Care in the UK in 2016: Demography, Mortality and Disorders (Canine Genet Epidemiol 2019)",
+    publisher: "Canine Genetics and Epidemiology / PubMed Central",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6720841/",
+    type: "scientific",
+    publishedOn: "2019-09-03",
+    accessedOn: "2026-11-18",
+    note: "Peer-reviewed VetCompass epidemiological study (O'Neill et al., Canine Genet Epidemiol 2019;6:7, PMID 31497326, PMC6720841) of 6,605 UK West Highland White Terriers documenting mean adult bodyweight (10.1 kg males, 9.0 kg females), median longevity (13.4 years), and most common disorders (dental disease 15.7%, ear disease 10.6%, overgrown nails 7.2%, allergic skin disorder 6.5%, overweight 6.1%, cutaneous group 22.7%).",
+  },
+  "west-highland-white-terrier-ipf-study-2018": {
+    id: "west-highland-white-terrier-ipf-study-2018",
+    name: "Idiopathic Pulmonary Fibrosis in West Highland White Terriers: An Update (Vet J 2018)",
+    publisher: "The Veterinary Journal / PubMed",
+    url: "https://pubmed.ncbi.nlm.nih.gov/30503545/",
+    type: "scientific",
+    publishedOn: "2018-12-15",
+    accessedOn: "2026-11-18",
+    note: "Peer-reviewed veterinary review (Clercx et al., Vet J 2018;242:53-58, PMID 30503545) detailing the clinical presentation, diagnostic imaging, secondary pulmonary hypertension, and pathology of canine idiopathic pulmonary fibrosis (CIPF) in West Highland White Terriers.",
+  },
+  "west-highland-white-terrier-atopic-dermatitis-study-2011": {
+    id: "west-highland-white-terrier-atopic-dermatitis-study-2011",
+    name: "Genome-Wide Linkage Study of Atopic Dermatitis in West Highland White Terriers (BMC Genet 2011)",
+    publisher: "BMC Genetics / PubMed Central",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3111396/",
+    type: "scientific",
+    publishedOn: "2011-04-21",
+    accessedOn: "2026-11-18",
+    note: "Peer-reviewed genetic study (Baranowska Körberg et al., BMC Genet 2011;12:37, PMID 21507250, PMC3111396) characterizing heritable canine atopic dermatitis and secondary skin infections in West Highland White Terriers.",
+  },
+  "vetcompass-conformational-eyelid-disorders-study-2025": {
+    id: "vetcompass-conformational-eyelid-disorders-study-2025",
+    name: "Conformational Eyelid Disorders in Dogs Under Primary Veterinary Care in the UK (PLoS ONE 2025)",
+    publisher: "PLoS ONE / PubMed Central",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12208470/",
+    type: "scientific",
+    publishedOn: "2025-06-30",
+    accessedOn: "2026-11-18",
+    note: "Peer-reviewed UK VetCompass epidemiological study (PMC12208470) evaluating 2,250,417 dogs under primary veterinary care, including 10,741 Patterdale Terriers (0.07% conformational eyelid disorder prevalence).",
+  },
+  "wikimedia-patterdale-terrier-chilepine": {
+    id: "wikimedia-patterdale-terrier-chilepine",
+    name: "Wikimedia Commons - File:Patterdale.JPG",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Patterdale.JPG",
+    type: "other",
+    publishedOn: "2005-08-29",
+    accessedOn: "2026-11-18",
+    note: "Photograph (1155 x 1080 px) of a black-and-tan Patterdale Terrier released into the public domain by author Chilepine (uploaded 2005-08-29).",
   },
 });
 
