@@ -8,29 +8,25 @@ export const istrian_coarse_haired_hound: Breed = {
   alternateNames: [
     "Istarski oštrodlaki gonič",
     "Istrian Wire-haired Hound",
-    "Istrian Rough-coated Hound",
+    "Istarski resasti gonič",
     "Chien courant d'Istrie à poil dur",
-    "Istrianischer Rauhhaariger Laufhund",
-    "Segugio dell'Istria a pelo duro",
-    "Barbin"
+    "Rauhhaarige Istrianer Bracke",
+    "Sabueso de Istria de pelo duro"
   ],
 
-  group:
-    "Scenthounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial; also classified in the Scenthound and Hound groups)",
+  group: "Scent Hounds and Related Breeds; Section 1.2: Medium-sized Hounds (Scenthound group in some registries)",
 
   origin: {
     country: "Croatia",
-    region: "Istrian Peninsula and the northern Adriatic coastal mountain regions"
+    region: "Istria"
   },
 
   images: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Istrian_Coarse-haired_Hound.jpg",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Istrian_Coarse-haired_Hound.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Istrian_Coarse-haired_Hound.jpg",
       title: "Istrian Coarse-haired Hound.jpg",
-      description:
-        "A female Istrian Coarse-haired Hound with white ground color and orange patches.",
+      description: "A female Istrian Coarse-haired Hound, white with orange markings.",
       creator: "Canarian",
       uploader: "Canarian",
       capturedOn: "2016-12-11",
@@ -39,17 +35,15 @@ export const istrian_coarse_haired_hound: Breed = {
       height: 585,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Istrian_Coarse-haired_Hound.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Changes, if any, must be indicated; adaptations must be shared under the same license.",
       restrictions: null,
       metadataCheckedOn: "2026-11-09"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/IstrianCoarseHairedHound.jpg",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:IstrianCoarseHairedHound.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:IstrianCoarseHairedHound.jpg",
       title: "IstrianCoarseHairedHound.jpg",
-      description:
-        "An Istrian Coarse-haired Hound standing outdoors at a dog show in Zadar, Croatia.",
+      description: "An Istrian Coarse-haired Hound outdoors at a dog show in Zadar, Croatia.",
       creator: "Mirta12",
       uploader: "Mirta12",
       capturedOn: "2006-04-29",
@@ -58,7 +52,7 @@ export const istrian_coarse_haired_hound: Breed = {
       height: 1536,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Mirta12, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:IstrianCoarseHairedHound.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Mirta12, Wikimedia Commons, CC BY-SA 3.0. Changes, if any, must be indicated; adaptations must be shared under the same license.",
       restrictions: null,
       metadataCheckedOn: "2026-11-09"
     }
@@ -66,23 +60,17 @@ export const istrian_coarse_haired_hound: Breed = {
 
   overview: {
     summary:
-      "A rustic, medium-sized Adriatic scenthound developed in Croatia, renowned for its weather-resistant wiry white and orange coat, bushy eyebrows, tenacious tracking stamina, and deep melodious hunting voice across rocky karst terrain.",
+      "A rough-coated Croatian scent hound, white with orange markings, built to hunt hare, fox and boar over stony, hilly ground in any weather, and gentle and devoted at home.",
 
     description:
-      "The Istrian Coarse-haired Hound is an athletic, rectangular-bodied scenthound developed along the rugged Istrian peninsula and coastal mountain ranges of the northern Adriatic. Standing with a firm, well-muscled topline and sturdy bone, it possesses an agile build tailored to navigate sharp limestone crags and dense Mediterranean scrub. The coat is rough, wiry, dull, and stand-offish, measuring roughly five to eight centimetres in length over a dense undercoat that insulates against cold highland gales. Striking in appearance, its snow-white ground colour is marked with warm orange or lemon patches, predominantly covering the dropped ears and head. Facial furnishings include prominent wiry eyebrows, a bristly moustache, and a small chin beard that frame dark, oval eyes radiating calm, focused intelligence. In domestic life, the hound is gentle, placid, and cooperative, but when following a trail in the field it displays tireless drive, determination, and a resonant, musical hunting bay.",
+      "The Istrian Coarse-haired Hound is a medium-sized, strongly built scent hound whose body is clearly longer than it is tall. Its most obvious feature is the coat: a harsh, dull, slightly wavy topcoat about 5 to 8 cm long over a shorter, dense undercoat that thickens in winter. The coat is snow white with even orange markings on the head and body, covering no more than about a third of the dog. The head is well proportioned, with a muzzle a little shorter than the skull, a black or brown nose, oval dark brown eyes with a serious look, and triangular ears that hang at eye level. By nature it is gentle and even-tempered, closely attached to its owner, and easy to train, yet keen and persistent in the field. It works its quarry from further away than the smooth-coated Istrian hound and gives a medium-toned voice with some deeper notes while trailing.",
 
     history:
-      "The breed descends from ancient Balkan and Adriatic white scenthounds that have hunted along the eastern Adriatic seaboard for centuries. Historical references in regional manuscripts, including early eighteenth-century church chronicles by Bishop Petar Bakić of Đakovo, record that purebred white hunting dogs with red-orange patches were widely bred in Istria and coastal Croatia prior to the fourteenth century. While closely related to the smooth-coated Istrian hound, this wire-haired variety was specifically developed and prized in upland regions such as Pazin and Buzet, where local hunters affectionately referred to them as 'Barbini' due to their bristly facial beards. The rough coat provided vital protection against brambles and freezing mountain winds during winter boar and hare hunts. The breed was exhibited internationally as early as 1866 in Vienna, achieved formal standardization in the early twentieth century, and received definitive international registration in 1955. Today, it remains an authentic, functional hunting companion and a proud native Croatian sporting breed.",
+      "The Istrian hounds are among Croatia's native hound breeds, shaped over centuries by practical hunting work. A manuscript written in 1719 by Bishop Petar Bakić describes these hounds as already known before the fourteenth century, and the earliest known picture of the breed is in the cathedral of St Mark in Makarska. The coarse-haired type shares its history with the smooth-coated Istrian hound but has always been depicted less often. Its rough coat made it the better choice for colder hunting grounds. The breed's first international standard was approved in 1955.",
 
-    originalPurpose:
-      "Trailing, flushing, and driving hare, fox, and wild boar across rocky karst plateaus and thick brush, as well as serving as a reliable blood-tracking leash hound.",
+    originalPurpose: "Hunting hare, fox and wild boar, and tracking wounded game on a leash.",
 
-    currentRoles: [
-      "Traditional scent trailing and driving hound for hare, fox, and boar",
-      "Blood-tracking and wounded-game recovery dog",
-      "Field trial and scent competition participant",
-      "Active outdoor and hiking companion for rural sporting households"
-    ]
+    currentRoles: ["Hunting hound for hare, fox and boar", "Leash tracker for wounded game"]
   },
 
   physical: {
@@ -107,8 +95,8 @@ export const istrian_coarse_haired_hound: Breed = {
         max: 24
       },
       female: {
-        min: 16,
-        max: 24
+        min: 15,
+        max: 21
       }
     },
 
@@ -118,51 +106,38 @@ export const istrian_coarse_haired_hound: Breed = {
     },
 
     coatType:
-      "Harsh, wiry, dull, and slightly wavy outer coat measuring approximately 5 to 8 cm in length, not lying flat against the body, with a short, dense undercoat; forms bushy eyebrows over the eyes and a distinct moustache and beard on the muzzle, with shorter hair on the dropped ears.",
+      "Harsh, wiry, dull and slightly wavy topcoat over a shorter, dense undercoat that is fuller in winter",
 
-    coatLength: "Medium",
+    coatLength: "Medium; about 5 to 8 cm on the body",
 
-    coatColors: [
-      "Snow white ground color with orange-yellow (lemon to orange) markings on the head, ears, body, and tail base",
-      "Pure snow white without patches (permitted, with ears typically retaining orange shading or speckling)"
-    ],
+    coatColors: ["White with orange markings"],
 
-    sheddingLevel:
-      "Moderate year-round shedding; dead wiry hairs and undercoat shed seasonally and benefit from regular brushing and periodic hand-stripping",
+    sheddingLevel: "Moderate, with more undercoat lost seasonally",
 
-    droolingLevel:
-      "Low; tight, firm lips with dark pigmentation minimize drool",
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Rectangular body outline where the length of the torso exceeds height at the withers",
-      "Height at the withers of 50 to 54 cm in males and 48 to 52 cm in females, with a permissible variation of up to three centimetres for exceptional specimens",
-      "Weight of 16 to 24 kg in lean, conditioned working form",
-      "Harsh, bristly, stand-offish wire coat roughly 5 to 8 cm long, without shine",
-      "Noticeable facial furnishings consisting of long, wiry eyebrows, a moustache, and a beard",
-      "Snow-white ground coat accented by lemon to bright orange patches, most commonly on the ears",
-      "Elongated, dry head with a slightly arched skull covered in softer, longer hair strands",
-      "Black or dark brown pigmented nose with wide, open nostrils aligned with the straight nasal bridge",
-      "Large, dark oval eyes with tight, darkly pigmented rims and an earnest, observant expression",
-      "Medium-length, dropped triangular ears with rounded tips hanging flat along the cheekbones",
-      "Muscular neck without loose dewlap, rising cleanly into well-defined withers",
-      "Deep, spacious chest reaching to the elbows with a slightly tucked-up belly",
-      "Strong sabre-shaped tail set in line with the croup, carried below the topline and tapering to the hock, with longer hair on the underside",
-      "Firm, oval cat-like feet with tightly knit toes, tough pads, and strong nails"
+      "Rectangular body, clearly longer than tall, with the elbow at about half the height at the withers",
+      "Height at the withers 50 to 54 cm for males and 48 to 52 cm for females, with 3 cm either way allowed for excellent dogs",
+      "Skull slightly longer than the muzzle, with a moderate stop and straight nasal bridge",
+      "Oval, dark brown eyes with a serious expression",
+      "Triangular drop ears with rounded tips, set at eye level and reaching the corner of the mouth when drawn forward",
+      "Black or brown nose with matching lip pigment",
+      "Sabre-shaped tail reaching at least the hock, carried below the topline",
+      "Harsh, slightly wavy, dull coat about 5 to 8 cm long",
+      "Snow-white coat with even orange patches, never a fully orange head",
+      "Medium-toned hunting voice with some deeper notes"
     ]
   },
 
   temperament: {
     traits: [
-      "Gentle, calm, and placid in the home",
-      "Energetic, determined, and tenacious on the hunting trail",
-      "Affectionate and deeply loyal to household members",
-      "Alert, attentive, and observant of surroundings",
-      "Sociable and cooperative in pack settings with other hunting dogs",
-      "Polite yet reserved and cautious with unfamiliar people without displaying timidity or aggression",
-      "Patient and good-natured with familiar children",
-      "High stamina and independent problem-solving drive when tracking",
-      "High prey drive toward wild game, hares, and foxes",
-      "Resonant, melodious, and carrying hunting bark that rings clearly across mountain terrain"
+      "Gentle and even-tempered",
+      "Devoted to its owner",
+      "Easy to train",
+      "Persistent and keen when hunting",
+      "Works game at a distance from the hunter",
+      "Copes with any weather and rough terrain"
     ],
 
     scores: {
@@ -180,8 +155,7 @@ export const istrian_coarse_haired_hound: Breed = {
 
   care: {
     exercise: {
-      level:
-        "High; an endurance hunting hound requiring vigorous daily physical exercise and regular olfactory enrichment",
+      level: "High. A working hound that needs long daily outings and regular scent work.",
 
       minutesPerDay: {
         min: 60,
@@ -189,12 +163,10 @@ export const istrian_coarse_haired_hound: Breed = {
       },
 
       activities: [
-        "Daily long walks and trail hikes across diverse natural terrain",
-        "Structured scent tracking and blood tracking enrichment games",
-        "Supervised free running in a large, securely fenced field or paddock",
-        "Field trials, drag-scent trailing, and hunting activities",
-        "Canicross, trail jogging, or running alongside a bicycle once skeletally mature",
-        "Interactive food puzzles, snuffle mats, and nosework searches"
+        "Long walks or hikes on a lead",
+        "Free running only in securely fenced areas",
+        "Tracking and scent games",
+        "Hunting or tracking trials where available"
       ]
     },
 
@@ -202,36 +174,31 @@ export const istrian_coarse_haired_hound: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush once or twice weekly using a stiff bristle brush and metal pin comb to remove loose undercoat, burrs, and dried field debris; hand-strip dead wire hairs two or three times a year to preserve coat texture and natural water resistance.",
+        "Brush once or twice a week to remove loose undercoat, seeds and burrs. Pluck out dead topcoat by hand a few times a year rather than clipping, which softens the harsh texture.",
 
-      bathing:
-        "Bathe only when heavily soiled or muddy after fieldwork, using a gentle canine shampoo to avoid stripping natural protective oils from the wire coat.",
+      bathing: "Only when dirty; the harsh coat sheds mud well once dry.",
 
       notes: [
-        "Inspect the dropped ears weekly for trapped moisture, wax accumulation, seeds, or debris, especially after field hunts.",
-        "Check paw pads, toes, and skin for thorns, cuts, burrs, or embedded seeds after running through thorny scrub and limestone crags.",
-        "Hand-strip rather than clipper the wire coat to preserve its harsh, weather-repellent texture and distinctive bristly look.",
-        "Trim hard nails every two to three weeks to maintain compact foot structure.",
-        "Brush teeth several times weekly using dog-specific enzymatic toothpaste.",
-        "Wipe the beard and moustache clean after eating or running through muddy bogs to prevent matting."
+        "Wipe the face after meals and muddy walks.",
+        "Check feet, skin and coat for thorns and ticks after time outdoors.",
+        "Trim nails if they do not wear down naturally.",
+        "Look inside the drop ears weekly and dry them after wet walks."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent, docile, and cooperative, but guided by powerful scent-tracking instincts that easily override handler focus in open wilderness",
+        "Moderate. Learns readily and is attached to its owner, but its nose can override commands outdoors.",
 
       tips: [
-        "Employ positive reinforcement, high-value treats, and enthusiastic praise.",
-        "Practice recall early on a long line, recognizing that strong scent drive can tempt the hound to range far.",
-        "Keep sessions varied, short, and engaging to prevent boredom from repetitive drills.",
-        "Always walk on a leash or exercise in a securely fenced enclosure, as an enticing scent will prompt immediate pursuit.",
-        "Channel natural trailing drive into structured scentwork, tracking, or search tasks.",
-        "Avoid harsh verbal reprimands or physical corrections, which cause this sensitive hound to lose trust and withdraw."
+        "Use rewards and praise rather than harsh corrections.",
+        "Keep sessions short and varied.",
+        "Train recall on a long line and do not rely on it near game.",
+        "Give its nose regular work through tracking or scent games."
       ],
 
       socialization:
-        "Introduce the puppy in a positive, structured manner to a wide range of people, friendly vaccinated dogs, household sounds, vehicles, and varied outdoor environments. Early social exposure develops a confident, stable companion that remains composed in family settings while retaining keen hunting instincts."
+        "Introduce the puppy to many people, friendly dogs, traffic and household sounds. Early, calm experiences help its gentle nature carry into everyday family life."
     },
 
     livingEnvironment: {
@@ -239,82 +206,60 @@ export const istrian_coarse_haired_hound: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Mediterranean climates",
-        "Temperate climates",
-        "Cool and cold mountain climates, where the dense wire coat and thick undercoat provide substantial thermal insulation",
-        "Warm climates, provided there is ample shade, fresh water, and exercise occurs during cooler morning or evening hours"
+        "Cool and cold climates",
+        "Temperate and Mediterranean climates",
+        "Warm climates if shade, water and exercise in the cooler hours are provided"
       ],
 
       aloneTimeTolerance:
-        "Moderate when provided with plenty of daily exercise and mental enrichment, though prolonged isolation without companionship can lead to vocal baying or digging."
+        "Moderate. Usually settles if well exercised, but a bored hound may bay or dig."
     }
   },
 
   nutrition: {
-    dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized active sporting or working hounds, adjusted for seasonal field exertion.",
+    dietType: "A complete and balanced diet for a medium-sized active dog, adjusted for workload.",
 
     feedingFrequency: {
-      puppy:
-        "Three to four measured meals daily until six months of age, transitioning to two meals daily thereafter on a growth formula supporting steady development.",
-      adult:
-        "Two measured meals daily to support steady metabolism and minimize digestive discomfort.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint mobility, and lean muscle retention."
+      puppy: "Three to four meals a day, dropping to two by about six months.",
+      adult: "Two measured meals a day.",
+      senior: "Two smaller meals a day, adjusted to keep the dog lean."
     },
 
     guidelines:
-      "Measure food rations carefully with a digital kitchen scale or standard measuring cup, adjusting caloric intake to match seasonal hunting demands. Divide the daily allowance into two meals, refrain from vigorous running for at least one hour before and after eating, and provide cool, fresh drinking water at all times.",
+      "Measure meals and feel for the ribs under the rough coat, which can hide weight gain. Feed more in hunting season and less in quiet months, and keep fresh water available.",
 
     considerations: [
-      "Maintain a lean, muscular body condition where ribs are easily felt without excess fat padding.",
-      "Increase caloric and protein density during active autumn and winter hunting or tracking trials.",
-      "Count training treats toward the daily caloric allowance to avoid creeping weight gain during off-season months.",
-      "Rest the dog before and after meals to promote healthy digestion and reduce the risk of bloat.",
-      "Provide clean drinking water, especially during long tracking excursions in warm weather.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep the dog lean and muscular.",
+      "Count treats as part of the daily ration.",
+      "Change foods gradually over about a week."
     ],
 
-    note:
-      "Caloric needs fluctuate substantially between sedentary summer months and active autumn hunting seasons. Work with a veterinarian to establish tailored daily feeding portions."
+    note: "Energy needs vary a lot between a working hound and a pet; a veterinarian can help set the right amount."
   },
 
   health: {
     overview:
-      "The Istrian Coarse-haired Hound is an exceptionally robust, hardy working dog with a typical life expectancy of 12 to 15 years. Developed through generations of functional selection in the challenging Adriatic coastal scrub and karst highlands, it has largely escaped the genetic vulnerabilities and conformational exaggerations associated with intensive commercial breeding. Primary health considerations focus on drop-ear management, active field risks, and routine orthopedic screening, including otitis externa, hip dysplasia, and field lacerations.",
+      "Little published health information exists for this breed, and no condition has been shown to be common in it. It benefits from the routine care any active hunting hound needs: weight control, weekly ear checks for its hanging ears, and tick and parasite prevention. Dogs living around the Mediterranean may also need protection against sandfly-borne disease. Ask breeders what health checks they carry out.",
 
-    commonConditions: [
-      "Otitis externa — bacterial or yeast infections in the ear canal encouraged by dropped ear flaps that reduce air circulation",
-      "Field injuries — minor lacerations, thorn punctures, pad abrasions, torn nails, or muscle sprains sustained while tracking game through dense thorns and over sharp karst rocks",
-      "Hip dysplasia — developmental laxity and malformation of the hip joints, monitored through pre-breeding radiographic screening programs",
-      "Canine vector-borne infections — tick-borne diseases (such as babesiosis, anaplasmosis, and Lyme disease) and leishmaniasis encountered in Mediterranean hunting habitats",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute emergency in deep-chested active dogs where the stomach distends with gas and twists on its axis"
-    ],
+    commonConditions: [],
 
     preventiveCare: [
-      "Verify that breeding parents have official radiographic hip evaluation clearances.",
-      "Inspect and dry the dropped ears weekly, particularly after wet forest runs or swims.",
-      "Maintain strict tick, flea, and sandfly parasite prevention throughout active tracking seasons, particularly in Mediterranean field environments.",
-      "Check paw pads, toes, and skin after hunting trips for thorns, cuts, burrs, or embedded debris.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Maintain a lean, athletic body condition to avoid premature joint wear.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine dental care."
+      "Ask breeders about hip checks on the parents.",
+      "Keep the dog lean.",
+      "Check and dry the ears weekly.",
+      "Use year-round tick and flea prevention; ask your vet about sandfly protection in Mediterranean areas.",
+      "Check for cuts and thorns after outings.",
+      "Book a yearly veterinary check-up."
     ],
 
-    recommendedScreenings: [
-      "Radiographic hip dysplasia screening prior to breeding",
-      "Routine clinical veterinary ophthalmic examination",
-      "Annual veterinary blood screening for tick-borne diseases and vector-borne infections in endemic hunting territories"
-    ],
+    recommendedScreenings: [],
 
-    dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+    dentalCare: "Brush the teeth several times a week and have them checked at routine vet visits.",
 
     earCare:
-      "Inspect the dropped triangular ears weekly for wax buildup, moisture, or foul odor. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly without inserting swabs deep into the canal.",
+      "Check the drop ears weekly for wax, moisture or smell, and clean the visible part with a vet-approved cleaner if needed.",
 
-    skinCare:
-      "Part the harsh wire coat weekly during brushing to inspect the skin for external parasites, scratches, or hot spots. Hand-stripping dead hair two to three times yearly supports skin aeration and coat weather resistance."
+    skinCare: "Part the coat while brushing to look for ticks, scratches or sore spots."
   },
 
   suitability: {
@@ -325,92 +270,57 @@ export const istrian_coarse_haired_hound: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active hunters, field trial competitors, and tracking enthusiasts seeking an authentic, rough-and-ready hound",
-      "Experienced dog owners familiar with managing strong scenthound drive, vocal baying, and outdoor independence",
-      "Rural or semi-rural households with large, securely fenced outdoor space",
-      "Outdoor lovers who engage in regular long-distance hiking, trail running, or woodland exploration",
-      "Families that appreciate a calm, gentle, and quiet indoor companion paired with high outdoor energy"
+      "Hunters wanting a hound for hare, fox or boar",
+      "Experienced owners used to scent hounds",
+      "Rural homes with secure fencing",
+      "Active people who walk long distances daily"
     ],
 
     notIdealFor: [
-      "Apartment dwellers or dense urban households with shared walls and limited outdoor open space",
-      "Sedentary individuals looking for a low-exercise lap pet",
-      "Households with loose small pets such as rabbits, ferrets, or rodents vulnerable to high prey drive",
-      "Owners who require instant off-leash obedience in unfenced, wildlife-rich areas",
-      "First-time owners unprepared for independent scent-tracking instincts and loud baying"
+      "Apartment living",
+      "Owners wanting reliable off-lead recall",
+      "Homes with free-roaming small pets",
+      "People who cannot give long daily exercise"
     ]
   },
 
   funFacts: [
-    "The Istrian Coarse-haired Hound is one of Croatia's oldest indigenous dog breeds, with written historical accounts by Bishop Petar Bakić dating back to 1719 confirming that white hounds with red markings were widely kept before the fourteenth century.",
-    "The dog was affectionately nicknamed 'Barbin' by local hunters in the Istrian hill towns of Pazin and Buzet, referring to the characteristic bristly beard and moustache on its muzzle.",
-    "Frescoes in the chapel of St. Mary of the Rocks in Beram, painted by Vincent of Kastav in 1474, depict hunting dogs closely resembling the modern Istrian hound.",
-    "Its harsh, stand-offish wire coat was selectively cultivated to protect the dog against the sharp limestone rocks and impenetrable bramble thickets of the coastal Dinaric Alps and Istrian peninsula.",
-    "The hound possesses a distinctive, sonorous tracking voice that carries for miles across karst canyons, allowing hunters to easily follow the hound's progress on quarry.",
-    "While the smooth-coated Istrian hound is favored in lowland open areas, the coarse-haired variety is the preferred specialist for thorny upland brush and severe winter weather.",
-    "The breed was definitively recognized on the international stage in 1955, maintaining its ancient identity as an authentic, unexaggerated working scenthound."
+    "A manuscript from 1719 by Bishop Petar Bakić already described these hounds as known before the fourteenth century.",
+    "The oldest known picture of the breed is in the cathedral of St Mark in Makarska, Croatia.",
+    "Artists rarely painted the coarse-haired type, preferring the sleeker outline of its smooth-coated cousin.",
+    "It is one of three native Croatian hound breeds, alongside the smooth-coated Istrian hound and the Posavina hound.",
+    "Lemon-yellow markings are a disqualifying fault; the patches must be orange."
   ],
 
   faq: [
     {
-      question: "What is an Istrian Coarse-haired Hound?",
-      answer:
-        "The Istrian Coarse-haired Hound (Istarski oštrodlaki gonič) is an ancient, medium-sized Croatian scenthound known for its rough white and orange coat, bristly beard and eyebrows, stamina, and ringing tracking voice on hare and boar."
+      question: "Where does the breed come from?",
+      answer: "Croatia, specifically the Istria region. It is one of the country's native hound breeds."
     },
     {
-      question: "Where does the Istrian Coarse-haired Hound originate?",
+      question: "How big is it?",
       answer:
-        "The breed originates from Croatia, developed on the Istrian peninsula and northern Adriatic coastal mountain regions as a tough hunting hound adapted to rocky karst terrain."
+        "Males stand 50 to 54 cm at the withers and females 48 to 52 cm, with 3 cm either way allowed for excellent dogs."
     },
     {
-      question: "What is the difference between the Coarse-haired and Short-haired Istrian Hounds?",
+      question: "How is it different from the smooth-coated Istrian hound?",
       answer:
-        "The Coarse-haired variety has a harsh, bristly wire coat measuring 5 to 8 cm in length with prominent eyebrows and a beard, making it ideal for thorny scrub and cold weather. The Short-haired variety has a short, smooth, glossy coat; both share similar rectangular proportions and white-and-orange coloration."
+        "It has a harsh, slightly wavy coat about 5 to 8 cm long, which suits colder hunting grounds. It also tends to work game further from the hunter and has a deeper voice."
     },
     {
-      question: "How tall and heavy is an Istrian Coarse-haired Hound?",
+      question: "What colour is it?",
       answer:
-        "Adult males stand 50 to 54 cm at the withers and females stand 48 to 52 cm, with a height tolerance of plus or minus 3 cm for exceptional dogs. Normal working weight ranges between 16 and 24 kg."
+        "Snow white with even orange patches on the head and body. Orange should cover no more than about a third of the dog, and lemon-yellow markings are not allowed."
     },
     {
-      question: "How long does an Istrian Coarse-haired Hound usually live?",
+      question: "Is it a good family dog?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+        "It is gentle and devoted at home, but it is a working hound with a strong hunting drive and suits experienced, active owners best."
     },
     {
-      question: "What does the coat look like, and how is it groomed?",
+      question: "Are there known health problems?",
       answer:
-        "The coat is harsh, wiry, stand-offish, and dull, featuring a snow-white ground colour accented by orange patches on the ears and head. It requires weekly brushing and occasional hand-stripping of dead wire hairs to maintain its weather-resistant texture."
-    },
-    {
-      question: "Can an Istrian Coarse-haired Hound live in an apartment?",
-      answer:
-        "No. Due to its high exercise requirements, working endurance, and carrying tracking voice, the breed is not suited to apartment living and thrives best in a rural or suburban home with a securely fenced yard."
-    },
-    {
-      question: "Is the Istrian Coarse-haired Hound good with children and other dogs?",
-      answer:
-        "Yes. Within its own household, it is calm, gentle, and patient with children, and as a traditional pack hound, it coexists harmoniously with other dogs; however, its high prey drive makes it unsafe around loose small pets like rabbits or rodents."
-    },
-    {
-      question: "How much exercise does this hound need each day?",
-      answer:
-        "The breed requires at least 60 to 90 minutes of vigorous daily physical activity, including brisk walks, hiking, and mental scent-tracking enrichment to satisfy its working nature."
-    },
-    {
-      question: "Is the Istrian Coarse-haired Hound easy to train?",
-      answer:
-        "It is intelligent, docile, and eager to please, but strong scenting instincts mean it can be easily distracted outdoors; it responds best to patient, positive reinforcement training and must be kept leashed in unfenced areas."
-    },
-    {
-      question: "Does the breed bark or bay a lot?",
-      answer:
-        "In the home, it is calm and composed, but in the field or when tracking quarry it possesses a loud, resonant voice that carries over great distances."
-    },
-    {
-      question: "What health problems are known in the breed?",
-      answer:
-        "The breed is remarkably robust with few genetic disorders; primary health considerations include ear infections (otitis externa) from dropped ears, hip dysplasia, bloat, and minor field injuries sustained while hunting in rough brush."
+        "Breed-specific health data is very limited, and no condition is known to be common. Routine care for an active hound, plus questions to the breeder about health checks, is the sensible approach."
     }
   ],
 
@@ -419,6 +329,7 @@ export const istrian_coarse_haired_hound: Breed = {
     "fci-istrian-wire-haired-hound-nomenclature",
     "hks-istarski-ostrodlaki-gonic-breed-profile",
     "ukc-istrian-coarse-haired-hound-standard",
+    "the-dog-api",
     "wikimedia-istrian-coarse-haired-hound-canarian",
     "wikimedia-istrian-coarse-haired-hound-mirta12"
   ],
@@ -428,569 +339,227 @@ export const istrian_coarse_haired_hound: Breed = {
       reliability: "unverified",
       sources: [],
       verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      note: "Canis lupus familiaris is the domestic-dog name used across the catalog; breed standards do not state it."
     },
 
     alternateNames: {
-      reliability: "official_standard",
+      reliability: "reliable_source",
       sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "Standard heading: ISTARSKI OSTRODLAKI GONIČ (Istrian Wire-Haired Hound)"
-        },
         {
           id: "fci-istrian-wire-haired-hound-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: ISTARSKI OSTRODLAKI GONIC (152), Chien courant d'Istrie à poil dur, Istrianischer Rauhhaariger Laufhund, Sabueso de Istria de pelo duro"
+          locator: "Istarski oštrodlaki gonič; EN Istrian Wire-haired Hound; FR Chien courant d'Istrie à poil dur; DE Rauhhaarige Istrianer Bracke; ES Sabueso de Istria de pelo duro"
         },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Naziv pasmine: Istarski oštrodlaki gonič, Barbin"
-        },
-        {
-          id: "ukc-istrian-coarse-haired-hound-standard",
-          role: "verified",
-          locator: "Breed name: Istrian Coarse-Haired Hound"
-        }
+        { id: "the-dog-api", role: "verified", locator: "breed.alt_names: Istarski Resasti Gonič" }
       ],
-      verifiedOn: "2026-11-09",
-      note: "Verified across FCI Standard No. 152, FCI Nomenclature, HKS, and UKC."
+      verifiedOn: "2026-11-18",
+      note: "Corrected the German name to FCI's 'Rauhhaarige Istrianer Bracke'. Removed 'Istrian Rough-coated Hound', the Italian name and 'Barbin', which no source checked uses."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial"
-        },
-        {
-          id: "fci-istrian-wire-haired-hound-nomenclature",
-          role: "verified",
-          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Klasifikacija: FCI Skupina 6 Goniči, krvosljednici i srodne pasmine, Sekcija 1.2 Goniči srednjeg rasta"
-        },
-        {
-          id: "ukc-istrian-coarse-haired-hound-standard",
-          role: "verified",
-          locator: "Scenthound Group"
-        }
+        { id: "fci-istrian-wire-haired-hound-official-standard", role: "verified", locator: "FCI classification: Group 6, Section 1.2, with working trial" },
+        { id: "ukc-istrian-coarse-haired-hound-standard", role: "verified", locator: "Scenthound Group" }
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-18",
+      note: null
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Croatia; BRIEF HISTORICAL SUMMARY"
-        },
-        {
-          id: "fci-istrian-wire-haired-hound-nomenclature",
-          role: "verified",
-          locator: "Country of origin: Croatia"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Zemlja podrijetla: Hrvatska (Istra)"
-        }
+        { id: "fci-istrian-wire-haired-hound-official-standard", role: "verified", locator: "Origin: Croatia" },
+        { id: "fci-istrian-wire-haired-hound-nomenclature", role: "verified", locator: "Country of origin: Croatia" },
+        { id: "the-dog-api", role: "verified", locator: "breed.origin: Istria Peninsula, Croatia" }
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: "Region reduced to 'Istria'; 'northern Adriatic coastal mountain regions' was not supported."
     },
 
     overview: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Povijest, biskup Petar Bakić 1719, freske u Beramu, radne osobine i namjena"
-        },
-        {
-          id: "ukc-istrian-coarse-haired-hound-standard",
-          role: "cited",
-          locator: "History and Characteristics"
-        }
+        { id: "fci-istrian-wire-haired-hound-official-standard", role: "verified", locator: "Utilization; Behaviour/temperament; Proportions; Head; Coat; Colour" },
+        { id: "hks-istarski-ostrodlaki-gonic-breed-profile", role: "verified", locator: "Works game at greater distance; deeper voice; suited to colder ground; hare, fox, boar; good blood tracker" }
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Synthesized in original prose from FCI Standard No. 152, HKS, and UKC official records."
+      verifiedOn: "2026-11-18",
+      note: null
+    },
+
+    "overview.history": {
+      reliability: "official_standard",
+      sources: [
+        { id: "fci-istrian-wire-haired-hound-official-standard", role: "verified", locator: "Brief history: 1719 Bakić manuscript; earliest picture in St Mark's cathedral, Makarska; first FCI standard 6 April 1955" },
+        { id: "ukc-istrian-coarse-haired-hound-standard", role: "verified", locator: "History parallels the Smooth-Haired hound; rarely depicted by artists" },
+        { id: "hks-istarski-ostrodlaki-gonic-breed-profile", role: "cited", locator: "Autochthonous Croatian hounds shaped by centuries of work" }
+      ],
+      verifiedOn: "2026-11-18",
+      note: "Removed for lack of a reliable source: the 1474 Beram fresco (usually linked to the smooth-coated breed), the 1866 Vienna show, the 'Barbin' nickname in Pazin and Buzet, and 'Balkan white scenthound' ancestry."
+    },
+
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        { id: "fci-istrian-wire-haired-hound-official-standard", role: "verified", locator: "Section 1.2 Medium-sized hounds" }
+      ],
+      verifiedOn: "2026-11-18",
+      note: null
     },
 
     physical: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Morfologija, izgled, glava, dlaka, boja, rep i proporcije"
-        },
-        {
-          id: "ukc-istrian-coarse-haired-hound-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
-        }
+        { id: "fci-istrian-wire-haired-hound-official-standard", role: "verified", locator: "Proportions; Head; Eyes; Ears; Lips; Tail; Coat; Colour; Disqualifying faults" },
+        { id: "ukc-istrian-coarse-haired-hound-standard", role: "cited", locator: "Color: snow white with lemon-orange markings; Coat" }
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Conformation, rectangular build, harsh wire coat (5–8 cm), bushy eyebrows and beard, white and orange coloration, and distinctive features follow official standards."
+      verifiedOn: "2026-11-18",
+      note: "Lemon-yellow markings are a disqualifying fault under FCI, so 'lemon to orange' and the unsourced 'pure white' variant were removed. UKC words the colour as lemon-orange."
     },
 
     "physical.height": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "SIZE AND WEIGHT: Height at the withers: Males: 50–54 cm. Females: 48–52 cm. Height differences of +/- 3 cm in males and females of excellent type and conformation will be tolerated."
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Visina grebena: mužjaci 50-54 cm, ženke 48-52 cm (tolerancija +/- 3 cm)"
-        }
+        { id: "fci-istrian-wire-haired-hound-official-standard", role: "verified", locator: "Males 50-54 cm; females 48-52 cm; +/- 3 cm tolerance" },
+        { id: "ukc-istrian-coarse-haired-hound-standard", role: "conflicting", locator: "Ideal height males 20.5 in, females 19.5 in" },
+        { id: "the-dog-api", role: "conflicting", locator: "breed.height.metric: 46-58 / 44-56 cm" }
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Preserved in published unit of centimetres (50–54 cm for males, 48–52 cm for females) exactly as specified in the official FCI Standard No. 152 and HKS standard."
+      verifiedOn: "2026-11-18",
+      note: "Stored in centimetres as FCI publishes."
     },
 
     "physical.weight": {
-      reliability: "reliable_source",
+      reliability: "unverified",
       sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Radna težina odraslog psa u kondiciji: 16-24 kg"
-        },
-        {
-          id: "ukc-istrian-coarse-haired-hound-standard",
-          role: "verified",
-          locator: "Weight: Typically 16 to 24 kg (approximately 35 to 53 lbs)"
-        }
+        { id: "the-dog-api", role: "cited", locator: "breed.weight.metric: males 16-24, females 15-21 kg" },
+        { id: "ukc-istrian-coarse-haired-hound-standard", role: "conflicting", locator: "Ideal average weight about 44 pounds" }
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "FCI Standard No. 152 specifies height ranges without publishing a numerical weight range under Height and Weight. The stored 16 to 24 kg range is documented by national kennel club and working hunting registries, preserved in kilograms."
+      verifiedOn: null,
+      note: "FCI gives no weight. Neither the Croatian Kennel Club page nor UKC gives the 16-24 kg range the earlier record attributed to them."
     },
 
     "physical.lifespanYears": {
-      reliability: "reliable_source",
+      reliability: "unverified",
       sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Životni vijek: 12-15 godina"
-        }
+        { id: "the-dog-api", role: "cited", locator: "breed.life_span: 12-15 years" }
       ],
-      verifiedOn: "2026-11-09",
-      note: "Supported by national breed documentation and canine actuarial records."
+      verifiedOn: null,
+      note: "No kennel club, breed club or scientific source checked gives a lifespan; the Croatian Kennel Club page cited earlier does not."
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "COAT: Topcoat wiry, harsh, 5–8 cm long, with short dense undercoat"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Održavanje dlake i umjereno linjanje"
-        }
-      ],
-      verifiedOn: "2026-11-09",
-      note: null
+      reliability: "estimate",
+      sources: [],
+      verifiedOn: null,
+      note: "Editorial estimate for a wiry coat with seasonal undercoat."
     },
 
     "physical.droolingLevel": {
-      reliability: "official_standard",
+      reliability: "estimate",
       sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "Lips: Tight fitting, thin, with dark pigmentation"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Usne: Pripijene i dobro pigmentirane"
-        }
+        { id: "fci-istrian-wire-haired-hound-official-standard", role: "cited", locator: "Lips: close-fitting" }
       ],
-      verifiedOn: "2026-11-09",
-      note: "Tight, dry lips result in minimal drooling."
+      verifiedOn: null,
+      note: null
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Docile, calm, loyal to master, enthusiastic and tenacious hunter, melodious voice"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Narav i ponašanje: Miran i privržen u kući, ustrajan i strastven u lovu, zvučan glas"
-        },
-        {
-          id: "ukc-istrian-coarse-haired-hound-standard",
-          role: "verified",
-          locator: "Characteristics: Docile, calm, persistent hunter with carrying voice"
-        }
+        { id: "fci-istrian-wire-haired-hound-official-standard", role: "verified", locator: "Behaviour/temperament: easy to train; any weather and terrain; gentle, even; devoted to owner" },
+        { id: "hks-istarski-ostrodlaki-gonic-breed-profile", role: "verified", locator: "Works game at a greater distance than the smooth-coated hound" },
+        { id: "ukc-istrian-coarse-haired-hound-standard", role: "cited", locator: "Gentle, docile, calm, attached to owner, enthusiastic hunter" }
       ],
-      verifiedOn: "2026-11-09",
+      verifiedOn: "2026-11-18",
       note: null
     },
 
     "temperament.scores": {
       reliability: "estimate",
-      sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "cited",
-          locator: "Temperament and hunting characteristics"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "cited",
-          locator: "Ponašanje i radne odlike"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented hound temperament and working drive."
+      note: "Editorial 1-5 scores."
     },
 
     care: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "cited",
-          locator: "Njega, držanje i radni uvjeti"
-        },
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "cited",
-          locator: "Utilization as tracking and driving hound"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Combines active hunting hound management with wire-coat grooming protocols."
-    },
-
-    "care.exercise.level": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Hound with lots of stamina fitted for hare, fox and boar hunting"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Potreba za kretanjem i radom u lovištu"
-        }
-      ],
-      verifiedOn: "2026-11-09",
-      note: null
+      note: "General care advice for an active wire-coated scent hound."
     },
 
     "care.exercise.minutesPerDay": {
       reliability: "estimate",
-      sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "cited",
-          locator: "Dnevna aktivnost i kondicija lovnog psa"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic working hound."
+      note: "Editorial estimate; no source checked gives minutes per day."
     },
 
-    "care.livingEnvironment.apartmentSuitable": {
+    "care.livingEnvironment": {
       reliability: "estimate",
       sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "cited",
-          locator: "High stamina hound with carrying tracking voice"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "cited",
-          locator: "Uvjeti držanja: preporučuje se kuća s ograđenim dvorištem"
-        }
+        { id: "hks-istarski-ostrodlaki-gonic-breed-profile", role: "cited", locator: "Suited to colder hunting grounds" }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that high exercise needs and resonant tracking voice make apartment living unsuitable."
-    },
-
-    "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Optimalan prostor za držanje: kuća s dobro ograđenim dvorištem"
-        }
-      ],
-      verifiedOn: "2026-11-09",
-      note: null
-    },
-
-    "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "BRIEF HISTORICAL SUMMARY: Wire coat bred for cold mountain areas at east Adriatic coast"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Otpornost na oštru primorsku buru i mediteransku klimu"
-        }
-      ],
-      verifiedOn: "2026-11-09",
-      note: null
-    },
-
-    "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "cited",
-          locator: "Privrženost vlasniku i navikavanje na samoću"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Scenthounds can tolerate moderate alone time when thoroughly exercised, but can become vocal if isolated without enrichment."
+      note: "Editorial judgement."
     },
 
     nutrition: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "cited",
-          locator: "Prehrana radnih lovačkih pasa"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active sporting and hunting dogs."
+      note: "General feeding advice; not breed-specific."
     },
 
-    "nutrition.feedingFrequency": {
+    health: {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "cited",
-          locator: "Dnevni raspored hranjenja"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
-    },
-
-    "health.overview": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Zdravlje, vitalnost i veterinarska prevencija autohtone pasmine"
-        }
-      ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Documents high overall constitutional hardiness alongside routine orthopedic screening programs."
+      note: "General preventive care for an active hound in Mediterranean regions."
     },
 
     "health.commonConditions": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Upale uha, ozljede na kršu i displazija kuka"
-        }
-      ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Identifies documented breed considerations without using prohibited registry labels in prose."
-    },
-
-    "health.preventiveCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "cited",
-          locator: "Njega ušiju, zaštita od krpelja i njega šapa"
-        }
-      ],
+      reliability: "unavailable",
+      sources: [],
       verifiedOn: null,
-      note: "Field hygiene protocol tailored to drop-eared hunting hounds."
+      note: "No breed-specific health data was found. Ear infections, field injuries, hip dysplasia, vector-borne disease and bloat were listed before without a breed-specific source; they are now covered only as general advice."
     },
 
     "health.recommendedScreenings": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Rendgenski pregled kukova (HD) i oftalmološki pregled"
-        }
-      ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Pre-breeding evaluations recommended by the national breed authority."
-    },
-
-    "health.dentalCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete scissor bite, 42 teeth"
-        }
-      ],
+      reliability: "unavailable",
+      sources: [],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
-    },
-
-    "health.earCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "cited",
-          locator: "Ears: dropped, medium long, covered with shorter hair"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "cited",
-          locator: "Pregled i čišćenje ušiju"
-        }
-      ],
-      verifiedOn: null,
-      note: "Ear maintenance protocol for drop ears."
-    },
-
-    "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "cited",
-          locator: "Skin: elastic, medium thickness, without wrinkles, pink with mottles"
-        }
-      ],
-      verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: "No breed screening programme was found; the Croatian Kennel Club page cited earlier has no health content."
     },
 
     suitability: {
       reliability: "estimate",
-      sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "cited",
-          locator: "Working temperament and hunting utility"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "cited",
-          locator: "Prikladnost za lovce i aktivne vlasnike"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note:
-        "Suitability flags and lists reflect editorial evaluations of hound exercise needs and hunting drive."
+      note: "Editorial judgement."
     },
 
     funFacts: {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "Brief historical summary: East Adriatic white hound lineage, cold mountain adaptation"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Biskup Bakić 1719, freske u Beramu 1474, naziv Barbin u Pazinu i Buzetu"
-        }
+        { id: "fci-istrian-wire-haired-hound-official-standard", role: "verified", locator: "Brief history (1719 Bakić; Makarska); Disqualifying faults (lemon yellow markings)" },
+        { id: "ukc-istrian-coarse-haired-hound-standard", role: "verified", locator: "History: rarely depicted by artists" },
+        { id: "hks-istarski-ostrodlaki-gonic-breed-profile", role: "verified", locator: "Three autochthonous Croatian hound breeds" }
       ],
-      verifiedOn: "2026-11-09",
-      note: "Verified historical and functional facts written without prohibited names."
+      verifiedOn: "2026-11-18",
+      note: "Removed: Beram fresco, 'Barbin' nickname, 'voice carries for miles' and lowland/upland preference claims."
     },
 
     faq: {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
-        {
-          id: "fci-istrian-wire-haired-hound-official-standard",
-          role: "verified",
-          locator: "Origin, size (50-54 cm / 48-52 cm), coat (5-8 cm), and color"
-        },
-        {
-          id: "hks-istarski-ostrodlaki-gonic-breed-profile",
-          role: "verified",
-          locator: "Težina (16-24 kg), životni vijek (12-15 g), Barbin, njega i zdravlje"
-        },
-        {
-          id: "ukc-istrian-coarse-haired-hound-standard",
-          role: "verified",
-          locator: "General characteristics and temperament"
-        }
+        { id: "fci-istrian-wire-haired-hound-official-standard", role: "cited", locator: "Origin; Size; Coat; Colour" },
+        { id: "hks-istarski-ostrodlaki-gonic-breed-profile", role: "cited", locator: "Comparison with the smooth-coated hound" }
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "FAQ answers synthesize verified standards and parent-club guidance without naming registries in prose."
+      verifiedOn: null,
+      note: "Factual answers follow the cited sources; suitability and health answers are editorial."
     }
   },
 
-  updatedOn: "2026-11-09"
+  updatedOn: "2026-11-18"
 };

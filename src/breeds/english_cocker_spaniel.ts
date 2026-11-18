@@ -3,1065 +3,1344 @@ import type { Breed } from "../schema/breed.types";
 export const english_cocker_spaniel: Breed = {
   slug: "english-cocker-spaniel",
   name: "English Cocker Spaniel",
-  scientificName: "Canis lupus familiaris",
-
+  scientificName: null,
   alternateNames: [
     "Cocker Spaniel",
-    "Cocker",
     "English Cocker",
-    "Cocking Spaniel",
-    "Cocker Spaniel Anglais",
-    "Englischer Cocker Spaniel"
   ],
-
-  group:
-    "Gundogs; Section 2 — Flushing Dogs (with working trial; also classified in the Sporting and Gun Dog groups)",
-
+  group: "Sporting",
   origin: {
     country: "Great Britain",
-    region: "United Kingdom (England, Wales, and Scotland)"
+    region: "England",
   },
-
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/English_Cocker_Spaniel_blue_roan.jpg",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_blue_roan.jpg",
-      title: "English Cocker Spaniel blue roan.jpg",
-      description:
-        "An adult blue roan English Cocker Spaniel standing outdoors.",
-      creator: "Pleple2000",
-      uploader: "Pleple2000",
-      capturedOn: "2008-10-05",
-      uploadedOn: "2008-10-18",
-      width: 2400,
-      height: 1800,
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/English_Cocker_Spaniel_in_the_grass.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_in_the_grass.jpg",
+      title: "English Cocker Spaniel in the grass.jpg",
+      description: "Blue roan English Cocker Spaniel standing outdoors in grass in Richmond Park, England, showing the long feathered ears, compact sporting build, and roan coat.",
+      creator: "Hotelgreg11~commonswiki",
+      uploader: "Hotelgreg11~commonswiki",
+      capturedOn: "2004-05-22",
+      uploadedOn: "2007-02-03",
+      width: 2832,
+      height: 2128,
       licenseId: "cc-by-sa-3.0",
-      attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_blue_roan.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+      attribution: "Photo by Hotelgreg11~commonswiki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_in_the_grass.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-09"
+      metadataCheckedOn: "2026-11-18",
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/English_Cocker_Spaniel_red.jpg",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_red.jpg",
-      title: "English Cocker Spaniel red.jpg",
-      description:
-        "An adult solid red English Cocker Spaniel standing in profile outdoors.",
-      creator: "Pleple2000",
-      uploader: "Pleple2000",
-      capturedOn: "2008-10-05",
-      uploadedOn: "2008-10-18",
-      width: 2400,
-      height: 1785,
-      licenseId: "cc-by-sa-3.0",
-      attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_red.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/English_Cocker_Spaniel_Red.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_Red.jpg",
+      title: "English Cocker Spaniel Red.jpg",
+      description: "Red English Cocker Spaniel outdoors showing the solid red silky coat, dark expressive eyes, and long lobular ears.",
+      creator: "Ipukhlyk",
+      uploader: "Ipukhlyk",
+      capturedOn: "2025-10-23",
+      uploadedOn: "2025-10-27",
+      width: 3024,
+      height: 4032,
+      licenseId: "cc-by-sa-4.0",
+      attribution: "Photo by Ipukhlyk, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:English_Cocker_Spaniel_Red.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-09"
-    }
+      metadataCheckedOn: "2026-11-18",
+    },
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/%22Bill%22_-_Cocker_spaniel_anglais_3.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:%22Bill%22_-_Cocker_spaniel_anglais_3.jpg",
+      title: "\"Bill\" - Cocker spaniel anglais 3.jpg",
+      description: "Twelve-month-old golden English Cocker Spaniel seated outdoors looking toward the camera, displaying the softly contoured skull and silky feathered ears.",
+      creator: "Jean-Pol GRANDMONT",
+      uploader: "Jean-Pol GRANDMONT",
+      capturedOn: "2016-10-16",
+      uploadedOn: "2021-01-28",
+      width: 2404,
+      height: 3450,
+      licenseId: "cc-by-4.0",
+      attribution: "Photo by Jean-Pol GRANDMONT, Wikimedia Commons, CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:%22Bill%22_-_Cocker_spaniel_anglais_3.jpg. License: https://creativecommons.org/licenses/by/4.0/. No changes made.",
+      restrictions: null,
+      metadataCheckedOn: "2026-11-18",
+    },
   ],
-
   overview: {
-    summary:
-      "A joyful, athletic, and sturdy flushing spaniel of British heritage, celebrated for its silky feathered coat, long low-set ears, perpetually wagging tail, and deeply affectionate, eager-to-please temperament.",
-
-    description:
-      "The English Cocker Spaniel is a well-balanced, sturdy, and athletic gundog combining substantial working capability with an exceptionally joyful and gentle disposition. Built with a clean rectangular proportion, strong bone, and deep chest, the dog is designed for tireless endurance when quartering heavy cover to flush woodcock, pheasants, and game birds. Its silky, flat, and weather-resistant coat features moderate feathering along the legs, chest, and underside, occurring in a wide array of solid, parti-color, and roan patterns. The head is finely chiseled with a square muzzle, intelligent dark hazel or brown eyes, and characteristic low-set pendant ears covered in long, silky hair. In the home, it is affectionately known as the 'merry cocker', displaying boundless devotion, playfulness, and a sweet, sensitive nature toward family members.",
-
-    history:
-      "Spaniels represent one of the oldest distinct groups of land-flushing gundogs, with ancestral references appearing in British and European literature dating back to the fourteenth century. Originally, land spaniels were categorized simply by size within the same litters, where smaller dogs flushing woodcock were designated as 'cockers' and larger dogs flushed larger game. In the late nineteenth century, breeders began separating spaniels into distinct purebred lines based on weight and head type. The Spaniel Club of Great Britain formulated the first official standard in 1893, and the breed was formally recognized as a distinct entity in 1902. Over subsequent decades, dedicated British and international breeders refined its working conformation and joyful temperament, establishing its reputation as both an elite upland flushing gundog and a cherished family companion.",
-
-    originalPurpose:
-      "Searching, quartering, flushing, and retrieving woodcock and upland game birds for hunters across thick brush and dense brambles.",
-
+    summary: "Compact, upbeat British flushing spaniel prized for its silky feathered coat, expressive dark eyes, steady field endurance, and affectionate family temperament.",
+    description: "The English Cocker Spaniel is a compact, sturdy, and well-balanced sporting dog built with equal proportions from the withers to the ground and from the withers to the tail base. Its softly contoured skull, square muzzle, and tight-rimmed dark eyes are framed by low-set, lobular ears covered in long, straight, silky hair. A flat, silky coat with moderate feathering along the ears, chest, belly, and legs protects the dog in dense brush without hindering movement, while its ever-wagging tail and lively, affectionate nature make it equally suited to upland fieldwork and active family life.",
+    history: "Rooted in traditional British land spaniels, the breed took its name from its specialty in flushing woodcock from heavy cover. During the nineteenth century, land spaniels were separated by size and working role rather than strict bloodlines, with smaller dogs under 25 pounds classed as cockers. The variety gained formal status as a distinct breed in Britain in 1893, while Welsh Springer outcrosses helped establish parti-colored lines alongside early solid blacks. In the United States, enthusiasts organized to preserve the English type separately from its smaller American cousin, leading to separate stud-book classification in 1946. Today, both sturdier show lines and lighter, faster working lines persist.",
+    originalPurpose: "Flushing and retrieving woodcock and other upland game birds from dense brush and woodland cover.",
     currentRoles: [
-      "Traditional upland flushing and retrieving gundog",
-      "Field trial and hunting spaniel competitor",
-      "Devoted household companion and family pet",
-      "Therapy and emotional support visiting dog",
-      "Canine athlete in agility, obedience, tracking, and rally"
-    ]
+      "Family companion",
+      "Upland bird flushing and retrieving",
+      "Field trials and working gundog",
+      "Detection and scent work",
+      "Agility, obedience, and rally sports",
+    ],
   },
-
   physical: {
-    sizeCategory: "Medium",
-
+    sizeCategory: "medium",
     height: {
-      unit: "in",
+      unit: "cm",
       male: {
-        min: 16,
-        max: 17
+        min: 39,
+        max: 41,
       },
       female: {
-        min: 15,
-        max: 16
-      }
+        min: 38,
+        max: 39,
+      },
     },
-
     weight: {
       unit: "kg",
       male: {
         min: 13,
-        max: 14.5
+        max: 14.5,
       },
       female: {
         min: 13,
-        max: 14.5
-      }
+        max: 14.5,
+      },
     },
-
     lifespanYears: {
       min: 12,
-      max: 15
+      max: 14,
     },
-
-    coatType:
-      "Flat, silky, and fine in texture, never wiry or wavy, with silky feathering on the forelegs, body, and hindlegs above the hocks.",
-
-    coatLength: "Medium",
-
+    coatType: "silky",
+    coatLength: "medium",
     coatColors: [
-      "Solid colors (Black, Red, Golden, Liver/Chocolate, Black and Tan, Liver and Tan)",
-      "Particolor (White with black, red, liver, or lemon patches)",
-      "Roan (Blue roan, Orange roan, Lemon roan, Liver roan, Blue roan and tan, Liver roan and tan)"
+      "Black",
+      "Red",
+      "Golden",
+      "Liver",
+      "Black and Tan",
+      "Liver and Tan",
+      "Black and White",
+      "Orange and White",
+      "Liver and White",
+      "Lemon and White",
+      "Black, White and Tan",
+      "Liver, White and Tan",
+      "Blue Roan",
+      "Orange Roan",
+      "Lemon Roan",
+      "Liver Roan",
+      "Blue Roan and Tan",
+      "Liver Roan and Tan",
     ],
-
-    sheddingLevel:
-      "Moderate year-round shedding with heavier seasonal coat changes in spring and autumn",
-
-    droolingLevel:
-      "Low to moderate; slightly pendulous flews can collect minor moisture or water after drinking",
-
+    sheddingLevel: "moderate",
+    droolingLevel: "low",
     distinctiveFeatures: [
-      "Sturdy, compact, and well-balanced sporting spaniel with a level topline and deep brisket",
-      "Height at the withers of 16 to 17 inches for males and 15 to 16 inches for females",
-      "Working weight of 13 to 14.5 kg in fit athletic condition",
-      "Silky, flat, non-wavy coat with abundant feathering along the legs, chest, and abdomen",
-      "Finely chiseled, intelligent head with a distinct stop midway between the nose tip and occiput",
-      "Square muzzle with level or clean scissor bite and strong jaws",
-      "Dark brown or hazel eyes, medium in size, with tight rims and a melting, intelligent expression",
-      "Long, low-set pendant ears covered in long, silky hair, reaching past the nose tip when drawn forward",
-      "Muscular, clean neck set smoothly into sloping shoulders",
-      "Deep, broad chest reaching down to the elbows with well-sprung ribs",
-      "Docked (historically) or natural tail carried level with the back, in constant merry motion when alert",
-      "Compact, cat-like feet with thick, tight pads"
-    ]
+      "Long, low-set lobular ears reaching the nose tip with silky feathering",
+      "Flat, silky medium-length coat with feathered legs and underbody",
+      "Square, balanced build with deep brisket and muscular hindquarters",
+      "Soft, melting expression from full, dark, tight-rimmed eyes",
+      "Lively, horizontal tail carriage that stays in near-constant motion",
+    ],
   },
-
   temperament: {
     traits: [
-      "Joyful, merry, cheerful, and exuberant",
-      "Deeply affectionate, loyal, and attached to human family members",
-      "Gentle, patient, and exceptionally good-natured with children",
-      "Sociable and peaceful with other dogs and household pets",
-      "Alert, inquisitive, and responsive watchdog",
-      "Passionate, tireless, and driven when quartering fields in search of game",
-      "Sensitive to human emotional tone and harsh vocal reprimands",
-      "Playful and energetic, maintaining a puppy-like enthusiasm well into adulthood"
+      "Merry",
+      "Affectionate",
+      "Gentle",
+      "Energetic",
+      "Intelligent",
+      "Playful",
+      "Eager to please",
     ],
-
     scores: {
       affection: 5,
       withChildren: 5,
-      withDogs: 5,
+      withDogs: 4,
       withStrangers: 4,
-      protectiveness: 2,
+      protectiveness: 3,
       independence: 2,
-      trainability: 5,
+      trainability: 4,
       barking: 3,
-      energy: 4
-    }
+      energy: 4,
+    },
   },
-
   care: {
     exercise: {
-      level:
-        "High; an energetic flushing spaniel requiring vigorous daily physical exercise and olfactory stimulation to channel its working drive",
-
+      level: "high",
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 90,
       },
-
       activities: [
-        "Brisk daily leashed walks and extended woodland trail hikes",
-        "Interactive fetch, retrieve, and ball-chasing games in a secure yard",
-        "Supervised free-running and quartering drills in safe open spaces",
-        "Canine sports including agility, flyball, tracking, and hunt tests",
-        "Water retrieving and swimming where safe and accessible",
-        "Interactive food puzzle toys and scent-searching enrichment"
-      ]
-    },
-
-    grooming: {
-      level: "High",
-
-      brushing:
-        "Brush thoroughly three to four times weekly using a slicker brush and metal pin comb to prevent tangles in the silky feathering; clip or hand-strip dead coat regularly to maintain neat body lines and prevent matting.",
-
-      bathing:
-        "Bathe every four to six weeks or when soiled after outdoor field runs, using a mild canine shampoo and conditioner to preserve silky coat luster.",
-
-      notes: [
-        "Inspect and clean the long, pendulous drop ears two to three times weekly using a veterinary ear cleanser, drying the canal opening thoroughly to prevent otitis externa.",
-        "Check feathering, armpits, and paws after woodland walks for burrs, ticks, or plant awns.",
-        "Trim hair around the pads and between toes regularly to prevent slipping and debris accumulation.",
-        "Trim fast-growing nails every two to three weeks.",
-        "Brush teeth several times weekly using enzyme-based pet toothpaste.",
-        "Professional clipping or hand-stripping every 6 to 8 weeks is recommended to keep the coat neat and manageable."
-      ]
-    },
-
-    training: {
-      difficulty:
-        "Easy to moderate; exceptionally intelligent, eager to please, and highly responsive to positive reinforcement, though sensitive to harsh handling",
-
-      tips: [
-        "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
-        "Begin obedience, crate training, and gentle recall practice from early puppyhood.",
-        "Keep instructional lessons short, upbeat, and varied to maintain high motivation.",
-        "Incorporate scent work and retrieving games to satisfy natural gundog instincts.",
-        "Avoid harsh verbal reprimands or physical coercion, which cause this sensitive spaniel to shut down.",
-        "Provide secure leash control or fenced enclosures during walks, as wildlife scent can trigger sudden flushing."
+        "Brisk daily walks and trail hikes",
+        "Fetch and retrieving games",
+        "Scent tracking and nosework",
+        "Agility and rally obedience",
+        "Supervised swimming and field work",
       ],
-
-      socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs, household noises, vehicles, and varied outdoor environments. Early social exposure fosters a confident, well-mannered companion that welcomes visitors and remains relaxed in public."
     },
-
+    grooming: {
+      level: "high",
+      brushing: "At least weekly thorough brushing and combing for pet coats, or daily brushing for fuller show coats to prevent mats in feathered areas.",
+      bathing: "Every 4 to 6 weeks, or as needed after muddy outdoor work, using a gentle conditioning rinse to keep the coat silky.",
+      notes: [
+        "Comb behind the ears, under the elbows, and along the leg feathering where burrs and tangles collect.",
+        "Trim hair around the feet, under the neck, inside the ear leather, and around the tail every 4 to 8 weeks.",
+        "Keep nails trimmed monthly and inspect paw pads after brush or field exercise.",
+      ],
+    },
+    training: {
+      difficulty: "easy",
+      tips: [
+        "Use upbeat, reward-based reinforcement, as harsh corrections quickly dampen this sensitive spaniel's enthusiasm.",
+        "Channel natural hunting instincts early with reliable recall, impulse control, and structured retrieving games.",
+        "Keep sessions varied and engaging to match the dog's quick learning pace and fondness for scent distractions.",
+      ],
+      socialization: "Early, positive exposure to varied people, dogs, household sounds, and handling—especially ear and paw checks—builds a steady, confident adult companion.",
+    },
     livingEnvironment: {
       apartmentSuitable: true,
       houseWithYardSuitable: true,
-
       climates: [
-        "Temperate climates",
-        "Cool and rainy climates, where the dense flat coat provides natural weather resistance",
-        "Warm climates, provided indoor cooling, shade, and fresh water are available and exercise is scheduled during cooler hours"
+        "temperate",
+        "cool",
       ],
-
-      aloneTimeTolerance:
-        "Low to moderate; intensely people-oriented and prone to separation anxiety or persistent whimpering if left isolated for extended workdays without human companionship."
-    }
-  },
-
-  nutrition: {
-    dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized active sporting dogs, adjusted for age, metabolism, and physical activity.",
-
-    feedingFrequency: {
-      puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily thereafter on a growth formula supporting steady development.",
-      adult:
-        "Two measured meals daily to support steady energy and comfortable digestion.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+      aloneTimeTolerance: "low",
     },
-
-    guidelines:
-      "Measure daily rations precisely using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Divide daily food into two distinct meals, restrict vigorous exercise immediately before and after eating, use narrow or snood-protected dishes to keep long ears clean during meals, and provide fresh drinking water continuously.",
-
+  },
+  nutrition: {
+    dietType: "Balanced commercial or veterinary-formulated diet matched to life stage and daily activity level.",
+    feedingFrequency: {
+      puppy: "3 to 4 small meals daily until about 6 months of age, then transition to 2 meals.",
+      adult: "2 measured meals per day to support steady energy and weight control.",
+      senior: "2 measured meals per day adjusted for lower caloric expenditure and joint or kidney support if needed.",
+    },
+    guidelines: "Measure portions carefully and limit training treats to a small share of daily calories, as this breed gains excess weight easily when under-exercised.",
     considerations: [
-      "Maintain a lean, muscular body condition to prevent excess weight gain, as spaniels possess an enthusiastic appetite.",
-      "Account for training treats within the total daily caloric allowance.",
-      "Use narrow dog bowls or ear snoods during feeding to prevent long feathered ears from dragging in food and water.",
-      "Avoid rich table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water at all times.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Active working-line dogs burn noticeably more calories than sedentary household companions.",
+      "High-fat table scraps should be avoided to reduce the risk of digestive upset and pancreatitis.",
+      "Maintain a visible waist and easily felt ribs through routine body-condition checks.",
     ],
-
-    note:
-      "Caloric needs vary based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+    note: "Individual caloric needs vary by age, neuter status, and whether the dog comes from working or show lines; consult a veterinarian for tailored ration advice.",
   },
-
   health: {
-    overview:
-      "The English Cocker Spaniel is a robust, athletic gundog with a typical life expectancy of 12 to 15 years. While generally healthy, the breed is susceptible to several documented hereditary and conformational disorders. Key health priorities include progressive retinal atrophy (specifically prcd-PRA), familial nephropathy (FN, an inherited fatal kidney disorder caused by a COL4A4 gene mutation), adult-onset neuropathy (AN), primary closed-angle glaucoma, hip dysplasia, patellar luxation, and chronic otitis externa due to pendulous ears.",
-
+    overview: "Generally a sturdy, long-lived spaniel, the English Cocker Spaniel shows high primary-care rates of periodontal disease, external ear inflammation, and obesity, alongside well-characterized recessive genetic conditions for which DNA screening is widely available. Neoplasia is the leading reported cause of mortality in older dogs, and solid-colored dogs—particularly golden coats—have shown higher rates of reported aggression in UK clinical records than parti-colored dogs.",
     commonConditions: [
-      "Progressive retinal atrophy (prcd-PRA) — an inherited neurodegenerative eye disease caused by an autosomal recessive mutation in the PRCD gene, causing gradual loss of vision and eventual blindness, fully preventable through DNA testing",
-      "Familial nephropathy (FN) — a severe, inherited progressive renal failure caused by a mutation in the COL4A4 gene, leading to kidney disease in young dogs, screenable via DNA testing",
-      "Adult-onset neuropathy (AN) — an inherited degenerative nerve disorder affecting hind-limb coordination, proprioception, and muscle tone in mature dogs, detectable through DNA screening",
-      "Primary closed-angle glaucoma (PCAG) — a painful hereditary condition causing intraocular pressure elevation and potential blindness",
-      "Hip dysplasia — developmental laxity and malformation of the hip joints leading to osteoarthritis and hind-limb lameness, monitored via radiographic screening",
-      "Patellar luxation — kneecap displacement from the femoral groove causing intermittent lameness",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by heavy, pendulous ear flaps that restrict airflow and trap moisture within the canal",
-      "Hypothyroidism — autoimmune thyroiditis causing lethargy, coat changes, and weight gain"
+      "Periodontal disease",
+      "Otitis externa (external ear canal inflammation)",
+      "Obesity",
+      "Anal sac impaction",
+      "Progressive retinal atrophy (prcd-PRA)",
+      "Familial nephropathy (COL4A4-related hereditary kidney disease)",
+      "Adult-onset neuropathy",
+      "Hip dysplasia and patellar luxation",
+      "Primary glaucoma and cataracts",
+      "Acral mutilation syndrome (primarily in working lines)",
     ],
-
     preventiveCare: [
-      "Confirm that breeding parents possess certified DNA clearances for prcd-PRA, familial nephropathy (FN), and adult-onset neuropathy (AN), alongside current eye exams and hip evaluations.",
-      "Inspect and thoroughly dry the long pendant ears two to three times weekly.",
-      "Maintain a lean, athletic body condition to minimize joint wear and prevent obesity.",
-      "Brush teeth regularly and schedule periodic professional veterinary dental cleanings.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations and routine geriatric blood panels."
+      "Brush teeth several times weekly and schedule regular veterinary dental evaluations.",
+      "Inspect and gently dry ear canals weekly, especially after swimming or humid walks.",
+      "Maintain lean body weight with measured meals and consistent daily exercise.",
+      "Check skin, feathering, and ears for grass seeds or ticks after woodland outings.",
     ],
-
     recommendedScreenings: [
-      "DNA marker test for Progressive Retinal Atrophy (prcd-PRA) prior to breeding",
-      "DNA marker test for Familial Nephropathy (FN) prior to breeding",
-      "DNA marker test for Adult-Onset Neuropathy (AN) prior to breeding",
-      "Comprehensive ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Radiographic hip dysplasia evaluation prior to breeding",
-      "Patellar luxation orthopedic evaluation"
+      "DNA test for progressive retinal atrophy (prcd-PRA)",
+      "DNA test for familial nephropathy (FN / COL4A4)",
+      "DNA test for adult-onset neuropathy (AON / AN)",
+      "DNA test for acral mutilation syndrome (AMS), especially in working lines",
+      "Annual clinical ophthalmic examination and periodic gonioscopy for glaucoma predisposition",
+      "Radiographic hip evaluation and patellar luxation examination",
+      "Thyroid panel monitoring for autoimmune thyroiditis in breeding stock",
     ],
-
-    dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
-
-    earCare:
-      "Inspect the long pendant ears two to three times weekly for wax accumulation, moisture, redness, or odor. Clean gently using a veterinarian-recommended ear solution, drying the leather and canal opening thoroughly.",
-
-    skinCare:
-      "Part the silky coat weekly during grooming to inspect the skin for parasites, redness, or mats. Regular brushing and prompt drying after swimming prevent moisture-trapped skin irritation."
+    dentalCare: "Periodontal disease is the most frequently recorded clinical disorder in the breed, making daily or near-daily tooth brushing with canine toothpaste and routine professional dental cleanings essential.",
+    earCare: "Long, heavy, low-set ears trap warmth and moisture inside the canal, predisposing the breed to otitis externa; check weekly for odor, redness, or wax buildup and dry thoroughly after water play.",
+    skinCare: "Routine brushing removes trapped debris from feathered areas and prevents mat-related skin irritation, while prompt rinsing after muddy or bramble-heavy walks helps avoid hotspot infections.",
   },
-
   suitability: {
     firstTimeOwners: true,
     familiesWithChildren: true,
     seniorOwners: true,
     activeOwners: true,
     apartmentLiving: true,
-
     idealFor: [
-      "Families with children seeking an affectionate, playful, and gentle small-to-medium companion",
-      "Active individuals and runners wanting an enthusiastic outdoor hiking and walking partner",
-      "First-time dog owners committed to positive training, consistent grooming, and companionship",
-      "Apartment or house dwellers who provide daily walks, play, and indoor family inclusion",
-      "Gundog and field sports enthusiasts looking for an authentic flushing spaniel"
+      "Active families seeking an affectionate, playful companion",
+      "First-time owners committed to daily exercise and regular coat care",
+      "Outdoor enthusiasts, hikers, and upland gundog handlers",
+      "Dog-sport participants interested in agility, rally, or scent work",
     ],
-
     notIdealFor: [
-      "Owners who leave a dog home alone in isolation for long workdays without human company",
-      "People seeking a low-maintenance pet that requires no brushing or professional coat trimming",
-      "Individuals intolerant of moderate shedding and routine ear cleaning",
-      "Homes with free-roaming pet birds or small rodents vulnerable to spaniel flushing instinct"
-    ]
+      "Households away for long workdays without midday companionship",
+      "Owners unwilling to commit to weekly brushing, ear checks, and periodic trimming",
+      "Sedentary homes expecting a low-energy lapdog",
+    ],
   },
-
   funFacts: [
-    "The breed is affectionately known worldwide as the 'merry cocker' due to its constantly wagging tail and perpetually joyful, upbeat personality.",
-    "Historically, 'cocker' spaniels were named for their exceptional skill in flushing woodcock out of dense undergrowth for hunters.",
-    "In 1946, an English Cocker Spaniel named Ch. Shikarilee's Bright Star won Best in Show at the prestigious Westminster Kennel Club Dog Show.",
-    "The famous Disney animated classic Lady and the Tramp features an iconic English Cocker Spaniel named Lady as its beloved protagonist.",
-    "Unlike the American Cocker Spaniel, which was bred with a domed skull, shorter muzzle, and heavier coat for the show ring, the English Cocker Spaniel maintains a more athletic, functional working conformation.",
-    "Their long, silky ears act as natural scent-traps, sweeping ground odors directly toward their sensitive nose as they quarter fields."
+    "The name 'cocker' comes from the breed's traditional role flushing woodcock from dense English cover.",
+    "Until the late nineteenth century, Cocker Spaniels and Springer Spaniels could be born in the same litter and were separated mainly by body weight.",
+    "The breed earned the nickname 'merry cocker' because its tail rarely stops wagging while working a scent trail or greeting family.",
+    "Show-bred and working-bred English Cockers have diverged noticeably in build, with working lines typically lighter, shorter-coated, and faster in heavy cover.",
   ],
-
   faq: [
     {
-      question: "What is an English Cocker Spaniel?",
-      answer:
-        "The English Cocker Spaniel is a medium-sized, athletic flushing gundog known for its silky feathered coat, long drooping ears, constantly wagging tail, and deeply affectionate, merry temperament."
+      question: "How is an English Cocker Spaniel different from an American Cocker Spaniel?",
+      answer: "The English Cocker Spaniel is slightly taller and longer-muzzled with a flatter skull, tighter eyes, and a less profuse coat than the American Cocker Spaniel. Both share common land-spaniel ancestry but have been bred as separate breeds since the mid-twentieth century.",
     },
     {
-      question: "What is the difference between an English Cocker Spaniel and an American Cocker Spaniel?",
-      answer:
-        "While they share common ancestral roots, the English Cocker Spaniel is slightly taller, has a longer muzzle, a flatter skull, and a more athletic working build, whereas the American Cocker Spaniel features a shorter muzzle, a more domed skull, and a heavier, more abundant show coat."
+      question: "Do English Cocker Spaniels shed a lot?",
+      answer: "They shed moderately year-round. Thorough weekly brushing—or daily brushing on fuller coats—captures loose hair before it settles on furniture and prevents mats from forming in the feathering.",
     },
     {
-      question: "How tall and heavy is an English Cocker Spaniel?",
-      answer:
-        "Adult males stand 16 to 17 inches at the shoulder and females stand 15 to 16 inches, with both sexes typically weighing between 13 and 14.5 kg in athletic working condition."
+      question: "Can an English Cocker Spaniel live comfortably in an apartment?",
+      answer: "Yes, provided it receives at least an hour of daily walks, play, and scent-based mental stimulation. Indoors, most settle calmly once their exercise needs are met, though they dislike being left alone for long stretches.",
     },
     {
-      question: "How long does an English Cocker Spaniel live?",
-      answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+      question: "What health tests should responsible breeders complete?",
+      answer: "Breeding dogs should have individual DNA tests for progressive retinal atrophy (prcd-PRA), familial nephropathy, adult-onset neuropathy, and—in working lines—acral mutilation syndrome, alongside hip, patella, and annual eye evaluations.",
     },
     {
-      question: "Do English Cocker Spaniels shed a lot, and how are they groomed?",
-      answer:
-        "They shed moderately year-round. Their silky coat requires thorough brushing three to four times a week to prevent mats, along with professional clipping or hand-stripping every 6 to 8 weeks and regular ear cleaning."
+      question: "Why are ear checks so important for this breed?",
+      answer: "Their long, low-set ears restrict airflow to the ear canal and can trap moisture after swimming or wet walks, making regular inspection and gentle drying key to preventing painful ear infections.",
     },
-    {
-      question: "Are English Cocker Spaniels good family pets and good with children?",
-      answer:
-        "Yes. They are famously gentle, patient, and good-natured with children, making exceptional family companions; they also get along wonderfully with other dogs and household pets."
-    },
-    {
-      question: "Can an English Cocker Spaniel live in an apartment?",
-      answer:
-        "Yes. They adapt very well to apartment living provided they receive adequate daily exercise, play, and close human companionship, as they dislike being left alone for long periods."
-    },
-    {
-      question: "Are English Cocker Spaniels easy to train?",
-      answer:
-        "They are exceptionally intelligent, eager to please, and highly responsive to positive reinforcement training, making them quick learners in obedience, agility, and field work."
-    },
-    {
-      question: "Why do English Cocker Spaniels need special care for their ears?",
-      answer:
-        "Their long, heavy, pendulous ears cover the ear canal and restrict airflow, trapping moisture and warmth that easily lead to bacterial and yeast ear infections (otitis externa); routine cleaning and drying are essential."
-    },
-    {
-      question: "What hereditary health tests should breeding parents undergo?",
-      answer:
-        "Responsible breeding stock should be DNA tested for progressive retinal atrophy (prcd-PRA), familial nephropathy (FN), and adult-onset neuropathy (AN), alongside certified veterinary eye exams and hip dysplasia evaluations."
-    }
   ],
-
   references: [
     "fci-english-cocker-spaniel-official-standard",
     "fci-english-cocker-spaniel-nomenclature",
     "the-kennel-club-english-cocker-spaniel-breed-standard",
+    "royal-kennel-club-english-cocker-spaniel-profile",
     "akc-english-cocker-spaniel-breed-standard",
     "akc-english-cocker-spaniel-breed-profile",
     "english-cocker-spaniel-club-health",
+    "ecsca-health-clearances",
     "ofa-english-cocker-spaniel-chic-requirements",
+    "vetcompass-english-cocker-spaniel-2023",
     "english-cocker-spaniel-genetic-disorders-study-2006",
+    "english-cocker-spaniel-prcd-pra-2019",
     "wikimedia-english-cocker-spaniel-blue-roan-pleple2000",
-    "wikimedia-english-cocker-spaniel-red-pleple2000"
+    "wikimedia-english-cocker-spaniel-red-pleple2000",
+    "wikimedia-english-cocker-spaniel-bill-grandmont",
+    "the-dog-api",
   ],
-
   evidence: {
-    scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
-    },
-
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-english-cocker-spaniel-official-standard",
-          role: "verified",
-          locator: "Standard heading: ENGLISH COCKER SPANIEL"
-        },
-        {
-          id: "fci-english-cocker-spaniel-nomenclature",
-          role: "verified",
-          locator: "Official nomenclature: ENGLISH COCKER SPANIEL (5), Cocker Spaniel Anglais, Englischer Cocker Spaniel"
-        },
-        {
           id: "the-kennel-club-english-cocker-spaniel-breed-standard",
           role: "verified",
-          locator: "Breed name: English Cocker Spaniel"
+          locator: "Title: Spaniel (Cocker)",
         },
         {
-          id: "akc-english-cocker-spaniel-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "History: Cocker Spaniel, English Cocker"
-        }
+          locator: "breed.alt_names",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: "Verified across FCI Standard No. 5, FCI Nomenclature, The Royal Kennel Club, and AKC."
+      verifiedOn: "2026-11-18",
+      note: "Registered in the UK simply as Spaniel (Cocker) and widely called Cocker Spaniel or English Cocker.",
     },
-
+    scientificName: {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "Official breed standards and kennel club profiles do not publish a separate binomial scientific name.",
+    },
     group: {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Breed Group: Sporting Group",
+        },
+        {
+          id: "fci-english-cocker-spaniel-official-standard",
+          role: "cited",
+          locator: "FCI-Classification: Group 8, Section 2 (Flushing dogs)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "Classified under Sporting by the AKC/The Dog API, Gundog by The Royal Kennel Club, and Group 8 Section 2 (Flushing dogs) by FCI.",
+    },
+    "origin.country": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-english-cocker-spaniel-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 2 Flushing Dogs, with working trial"
+          locator: "Origin: Great Britain",
         },
         {
           id: "fci-english-cocker-spaniel-nomenclature",
           role: "verified",
-          locator: "Group 8, Section 2 Flushing Dogs, with working trial"
+          locator: "Country of origin of the breed: GREAT BRITAIN",
         },
         {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
-          role: "verified",
-          locator: "Gundog Group"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.origin: England",
         },
-        {
-          id: "akc-english-cocker-spaniel-breed-standard",
-          role: "verified",
-          locator: "Sporting Group"
-        }
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-18",
+      note: "FCI designates Great Britain as country of origin; The Dog API specifies England.",
     },
-
-    origin: {
+    "origin.region": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "History & Did You Know (breed separation in England)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin: England",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "overview.summary": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-english-cocker-spaniel-official-standard",
           role: "verified",
-          locator: "ORIGIN: Great Britain; BRIEF HISTORICAL SUMMARY"
+          locator: "General Appearance & Utilization",
         },
         {
-          id: "fci-english-cocker-spaniel-nomenclature",
-          role: "verified",
-          locator: "Country of origin: Great Britain"
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "cited",
+          locator: "Overview & Breed characteristics",
         },
-        {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
-          role: "verified",
-          locator: "Origin and development in Great Britain"
-        }
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
-    overview: {
+    "overview.description": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-english-cocker-spaniel-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "General Appearance, Important Proportions, Head, Coat",
         },
         {
           id: "the-kennel-club-english-cocker-spaniel-breed-standard",
           role: "verified",
-          locator: "General Appearance, Characteristics, Temperament"
+          locator: "General appearance, Head and skull, Coat",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "overview.history": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "fci-english-cocker-spaniel-official-standard",
+          role: "verified",
+          locator: "Brief Historical Summary",
+        },
+        {
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "verified",
+          locator: "About this breed (1893 recognition, under 25 lbs rule, Welsh Springer outcross)",
         },
         {
           id: "akc-english-cocker-spaniel-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
-        }
+          locator: "Did You Know (1935 ECSCA formation, 1946 separate breed recognition)",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Synthesized in original prose from FCI Standard No. 5, The Royal Kennel Club, and AKC official records."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
-    physical: {
+    "overview.originalPurpose": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-english-cocker-spaniel-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
-        },
-        {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
-          role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Mouth, Neck, Forequarters, Body, Hindquarters, Feet, Tail, Gait/Movement, Coat, Colour, Size"
+          locator: "Utilization & Brief Historical Summary",
         },
         {
           id: "akc-english-cocker-spaniel-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Neck, Topline, Body, Tail, Forequarters, Hindquarters, Coat, Color"
-        }
+          locator: "General Appearance",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Conformation, rectangular build, silky coat, feathering, and distinctive features follow official standards."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
-    "physical.height": {
-      reliability: "official_standard",
+    "overview.currentRoles": {
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-english-cocker-spaniel-official-standard",
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
           role: "verified",
-          locator: "SIZE: Height at withers: Males: 39-41 cm (15.5-16 ins). Females: 38-39 cm (15-15.5 ins)."
-        },
-        {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
-          role: "verified",
-          locator: "Height: dogs 39-41 cms (15.5-16 ins); bitches 38-39 cms (15-15.5 ins)"
-        },
-        {
-          id: "akc-english-cocker-spaniel-breed-standard",
-          role: "verified",
-          locator: "Height: Ideal height at the withers for dogs is 17 inches; for bitches, 16 inches. Acceptable range: dogs 16-17 inches; bitches 15-16 inches."
-        }
-      ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Preserved in published unit of inches (16 to 17 in for males, 15 to 16 in for females) exactly as specified in the AKC standard (and corresponding to 39-41 cm / 38-39 cm in the UK/FCI standard)."
-    },
-
-    "physical.weight": {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-english-cocker-spaniel-official-standard",
-          role: "verified",
-          locator: "Weight: Approximately 13.0 - 14.5 kg (28-32 lbs)."
-        },
-        {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
-          role: "verified",
-          locator: "Weight: Approximately 13.0-14.5 kgs (28-32 lbs)"
+          locator: "About this breed & Gundog group",
         },
         {
           id: "akc-english-cocker-spaniel-breed-profile",
           role: "verified",
-          locator: "Weight: 28-34 pounds (males), 26-32 pounds (females)"
-        }
+          locator: "About the Breed & Exercise",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Preserved in published unit of kilograms (13.0 to 14.5 kg) as specified in FCI Standard No. 5 and The Royal Kennel Club standard."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-english-cocker-spaniel-official-standard",
+          role: "verified",
+          locator: "Size and Weight (38–41 cm, 13–14.5 kg)",
+        },
+        {
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "conflicting",
+          locator: "Breed characteristics: Size Small",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "The Royal Kennel Club Breed A–Z categorizes the breed as Small, while overall standard dimensions (38–41 cm, 13–14.5 kg) place it in the medium category.",
+    },
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-english-cocker-spaniel-official-standard",
+          role: "verified",
+          locator: "Size and Weight: Males 39–41 cm",
+        },
+        {
+          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
+          role: "verified",
+          locator: "Size: dogs 39–41 cms (15.5–16 ins)",
+        },
+        {
+          id: "akc-english-cocker-spaniel-breed-standard",
+          role: "conflicting",
+          locator: "Size: males 16 to 17 inches",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric: 41–43 cm",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "Country-of-origin standards (FCI and Royal Kennel Club) specify 39–41 cm for males; AKC specifies 16–17 inches, and The Dog API lists 41–43 cm.",
+    },
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-english-cocker-spaniel-official-standard",
+          role: "verified",
+          locator: "Size and Weight: Females 38–39 cm",
+        },
+        {
+          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
+          role: "verified",
+          locator: "Size: bitches 38–39 cms (15–15.5 ins)",
+        },
+        {
+          id: "akc-english-cocker-spaniel-breed-standard",
+          role: "conflicting",
+          locator: "Size: females 15 to 16 inches",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric: 38–41 cm",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "Country-of-origin standards (FCI and Royal Kennel Club) specify 38–39 cm for females; AKC specifies 15–16 inches, and The Dog API lists 38–41 cm.",
+    },
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-english-cocker-spaniel-official-standard",
+          role: "verified",
+          locator: "Size and Weight: approximately 13–14.5 kg",
+        },
+        {
+          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
+          role: "verified",
+          locator: "Size: Weight approximately 13–14.5 kgs (28–32 lbs)",
+        },
+        {
+          id: "akc-english-cocker-spaniel-breed-standard",
+          role: "conflicting",
+          locator: "Size: males 28 to 34 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric: 13–15.5 kg",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "FCI and Royal Kennel Club specify approximately 13–14.5 kg; AKC lists 28–34 lb for males, The Dog API lists 13–15.5 kg, and a 2023 UK VetCompass study reported a median adult bodyweight of 15.05 kg across sexes.",
+    },
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-english-cocker-spaniel-official-standard",
+          role: "verified",
+          locator: "Size and Weight: approximately 13–14.5 kg",
+        },
+        {
+          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
+          role: "verified",
+          locator: "Size: Weight approximately 13–14.5 kgs (28–32 lbs)",
+        },
+        {
+          id: "akc-english-cocker-spaniel-breed-standard",
+          role: "conflicting",
+          locator: "Size: females 26 to 32 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric: 12–14.5 kg",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "FCI and Royal Kennel Club specify approximately 13–14.5 kg without sex separation; AKC lists 26–32 lb for females and The Dog API lists 12–14.5 kg.",
+    },
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-english-cocker-spaniel-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-15 years"
+          locator: "Life Expectancy: 12–14 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span: 12–14",
+        },
+        {
+          id: "vetcompass-english-cocker-spaniel-2023",
+          role: "conflicting",
+          locator: "Results: average lifespan 11.44 years",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: "AKC and The Dog API list 12–14 years; the 2023 UK VetCompass primary-care study reported an average lifespan of 11.44 years.",
+    },
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-english-cocker-spaniel-official-standard",
+          role: "verified",
+          locator: "Coat: Flat, silky in texture",
+        },
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Coat Type: Silky",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-standard",
+          role: "verified",
+          locator: "Coat: of medium length on body",
+        },
+        {
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "verified",
+          locator: "Breed characteristics: Coat length Medium",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-english-cocker-spaniel-official-standard",
+          role: "verified",
+          locator: "Coat — Colour",
         },
         {
           id: "the-kennel-club-english-cocker-spaniel-breed-standard",
           role: "verified",
-          locator: "Longevity and health actuarial profile (12-15 years)"
-        }
+          locator: "Colour (Solid, Particolours, Tricolours, Roans)",
+        },
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "cited",
+          locator: "Breed Colors & Markings",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (includes non-standard species-wide variants)",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: "Supported by kennel club and breed club actuarial profiles."
+      verifiedOn: "2026-11-18",
+      note: "Filtered to colors accepted by FCI and Royal Kennel Club standards; AKC also registers Red Roan and Sable variants (though RKC classifies Sable as non-breed-standard), while generic species-wide API entries like Brindle, Merle, and Blue were excluded.",
     },
-
     "physical.sheddingLevel": {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-english-cocker-spaniel-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
+          locator: "Breed Traits & Characteristics: Shedding Level",
         },
         {
-          id: "fci-english-cocker-spaniel-official-standard",
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
           role: "verified",
-          locator: "COAT: Flat, silky, and fine in texture"
-        }
+          locator: "Breed characteristics: Sheds Yes",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "physical.droolingLevel": {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-english-cocker-spaniel-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (2/5)"
+          locator: "Breed Traits & Characteristics: Drooling Level",
         },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "physical.distinctiveFeatures": {
+      reliability: "official_standard",
+      sources: [
         {
           id: "fci-english-cocker-spaniel-official-standard",
           role: "verified",
-          locator: "Lips: Square, jaw moderately square with clean flews"
-        }
+          locator: "Head, Eyes, Ears, Body, Tail, Coat",
+        },
+        {
+          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
+          role: "verified",
+          locator: "Eyes, Ears, Body, Tail, Coat",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: "Clean flews result in low to moderate drooling."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-english-cocker-spaniel-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Merry, affectionate, full of life; sporting, balanced"
+          locator: "Behaviour / Temperament",
         },
         {
           id: "the-kennel-club-english-cocker-spaniel-breed-standard",
           role: "verified",
-          locator: "Characteristics and Temperament: Merry, affectionate, robust, sporting, well balanced"
+          locator: "Characteristics & Temperament",
         },
         {
-          id: "akc-english-cocker-spaniel-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Temperament: Merry, affectionate, adaptable, enthusiastic sporting dog"
-        }
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "temperament.scores": {
       reliability: "estimate",
       sources: [
         {
           id: "akc-english-cocker-spaniel-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics",
         },
-        {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
-          role: "cited",
-          locator: "Temperament and behavior guidance"
-        }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented spaniel temperament, high affection, and eager trainability."
+      note: "1–5 editorial scores informed by AKC breed trait ratings and temperament descriptions.",
     },
-
-    care: {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-english-cocker-spaniel-breed-profile",
-          role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "english-cocker-spaniel-club-health",
-          role: "cited",
-          locator: "Coat maintenance, ear care, and exercise management"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Combines active flushing spaniel care with silky coat grooming and ear hygiene protocols."
-    },
-
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-english-cocker-spaniel-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
+          locator: "Exercise section (active sporting dog requiring daily exercise)",
         },
         {
-          id: "fci-english-cocker-spaniel-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Flushing dog with great stamina"
-        }
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "cited",
+          locator: "Breed characteristics: Exercise Up to 1 hour per day",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "care.exercise.minutesPerDay": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
-          role: "cited",
-          locator: "Exercise: Up to 1 hour or more per day"
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "verified",
+          locator: "Breed characteristics: Exercise Up to 1 hour per day",
         },
         {
           id: "akc-english-cocker-spaniel-breed-profile",
           role: "cited",
-          locator: "Exercise recommendations"
-        }
+          locator: "Exercise section (long walks, hikes, ball play)",
+        },
       ],
-      verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an energetic sporting spaniel."
+      verifiedOn: "2026-11-18",
+      note: "RKC lists up to 1 hour per day as a baseline; working-line dogs and active companions often benefit from 60–90 minutes.",
     },
-
+    "care.exercise.activities": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Exercise section",
+        },
+        {
+          id: "fci-english-cocker-spaniel-official-standard",
+          role: "cited",
+          locator: "Utilization & Behaviour / Temperament",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "care.grooming.level": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "verified",
+          locator: "Breed characteristics: Grooming Every day",
+        },
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Grooming section",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "care.grooming.brushing": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Grooming section (thorough brushing and combing at least once a week)",
+        },
+        {
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "cited",
+          locator: "Breed characteristics: Grooming Every day",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "care.grooming.bathing": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Grooming section",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "care.grooming.notes": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Grooming section (monthly trimming around feet, face, neck, ears, tail; weekly ear checks; monthly nails)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "care.training.difficulty": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Training section (easy to train, eager to please)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "care.training.tips": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Training section (positive methods, reacts poorly to harsh approach)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "care.training.socialization": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Training section (early socialization recommended)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-english-cocker-spaniel-breed-profile",
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (4/5) with adequate outdoor exercise"
+          locator: "Breed characteristics: Town or country Either; Size of home Small house",
         },
-        {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
-          role: "verified",
-          locator: "Living environment: Flat/Apartment suitable with regular daily walks"
-        }
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-english-cocker-spaniel-breed-profile",
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
+          locator: "Breed characteristics: Size of garden Small/ medium garden",
         },
         {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
+          id: "akc-english-cocker-spaniel-breed-profile",
           role: "verified",
-          locator: "Living environment: Small or large garden suitable"
-        }
+          locator: "Exercise section (fenced yard recommended)",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "care.livingEnvironment.climates": {
       reliability: "reliable_source",
       sources: [
         {
           id: "fci-english-cocker-spaniel-official-standard",
           role: "verified",
-          locator: "COAT: Flat, silky feathering adapted to British woodland weather"
+          locator: "Origin: Great Britain & Coat",
         },
-        {
-          id: "akc-english-cocker-spaniel-breed-profile",
-          role: "verified",
-          locator: "Weather tolerance: adaptable to cool and temperate climates"
-        }
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-english-cocker-spaniel-breed-profile",
           role: "verified",
-          locator: "Tolerates Being Alone: Low rating; highly people-oriented companion"
-        }
+          locator: "About the Breed & Affectionate With Family",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: null
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
-    nutrition: {
-      reliability: "general_guidance",
+    "nutrition.dietType": {
+      reliability: "reliable_source",
       sources: [
         {
           id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Nutrition section",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "nutrition.feedingFrequency.puppy": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Nutrition section (age-appropriate feeding)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "nutrition.feedingFrequency.adult": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Nutrition section",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "nutrition.feedingFrequency.senior": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Nutrition section",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "nutrition.guidelines": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Nutrition section (watch calorie consumption and weight)",
+        },
+        {
+          id: "vetcompass-english-cocker-spaniel-2023",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
+          locator: "Results (obesity 9.88% prevalence)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "nutrition.considerations": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Nutrition section (avoid high-fat table scraps and cooked bones)",
         },
         {
           id: "english-cocker-spaniel-club-health",
           role: "cited",
-          locator: "Weight management and spaniel appetite control"
-        }
+          locator: "Chronic Pancreatitis section",
+        },
       ],
-      verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active sporting dogs prone to weight gain."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
+    "nutrition.note": {
+      reliability: "reliable_source",
       sources: [
         {
           id: "akc-english-cocker-spaniel-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance"
-        }
+          role: "verified",
+          locator: "Nutrition section (consult vet for weight or diet concerns)",
+        },
       ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "english-cocker-spaniel-genetic-disorders-study-2006",
+          id: "vetcompass-english-cocker-spaniel-2023",
           role: "verified",
-          locator: "Prevalence of prcd-PRA, familial nephropathy (COL4A4), and adult-onset neuropathy in English Cocker Spaniels"
-        },
-        {
-          id: "ofa-english-cocker-spaniel-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program requirements: prcd-PRA DNA test, Familial Nephropathy DNA test, Adult-Onset Neuropathy DNA test, Eye exam, Hip evaluation"
+          locator: "Results & Conclusions (10,313 dogs; periodontal disease 20.97%, otitis externa 10.09%, obesity 9.88%, aggression 4.01%, neoplasia leading cause of death)",
         },
         {
           id: "english-cocker-spaniel-club-health",
           role: "verified",
-          locator: "Health priorities: DNA screening, hip dysplasia, eye disorders, and ear care"
-        }
+          locator: "Health & Welfare overview",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Synthesizes peer-reviewed genetics research on prcd-PRA, FN, and AN with health registry screening protocols."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "vetcompass-english-cocker-spaniel-2023",
+          role: "verified",
+          locator: "Results (periodontal disease 20.97%, otitis externa 10.09%, obesity 9.88%, anal sac impaction 8.07%)",
+        },
+        {
           id: "english-cocker-spaniel-genetic-disorders-study-2006",
           role: "verified",
-          locator: "Clinical and molecular characterization of prcd-PRA, familial nephropathy, and adult-onset neuropathy"
+          locator: "Abstract (COL4A4 c.115A>T autosomal recessive hereditary nephropathy)",
         },
         {
-          id: "ofa-english-cocker-spaniel-chic-requirements",
+          id: "english-cocker-spaniel-prcd-pra-2019",
           role: "verified",
-          locator: "Hip dysplasia, patellar luxation, and primary glaucoma"
+          locator: "Abstract (PRCD c.5G>A mutation for prcd-PRA)",
         },
         {
           id: "english-cocker-spaniel-club-health",
           role: "verified",
-          locator: "Chronic otitis externa and hypothyroidism"
-        }
+          locator: "Eye Conditions, Familial Nephropathy, AMS, AN, Hip Dysplasia",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "health.preventiveCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "english-cocker-spaniel-club-health",
-          role: "cited",
-          locator: "Preventive care, DNA testing verification, ear hygiene, and weight control"
+          id: "vetcompass-english-cocker-spaniel-2023",
+          role: "verified",
+          locator: "Conclusions (importance of oral examination and body condition score evaluation)",
         },
         {
           id: "akc-english-cocker-spaniel-breed-profile",
-          role: "cited",
-          locator: "Routine care and veterinary wellness"
-        }
+          role: "verified",
+          locator: "Health & Grooming sections (regular ear checks and tooth brushing)",
+        },
       ],
-      verifiedOn: null,
-      note: "Standard preventive care protocol tailored to feathered drop-eared gundogs."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "verified",
+          locator: "Pre-breeding health screening (AMS, prcd-PRA, AON, FN, eye/gonioscopy, hip scoring)",
+        },
+        {
+          id: "ecsca-health-clearances",
+          role: "verified",
+          locator: "Health Clearance Guidelines (FN, AON, prcd-PRA, hips, patella, thyroid, CAER, BAER, AMS)",
+        },
+        {
           id: "ofa-english-cocker-spaniel-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: prcd-PRA DNA test, Familial Nephropathy (FN) DNA test, Adult-Onset Neuropathy (AN) DNA test, CAER Eye examination, Hip Dysplasia evaluation"
+          locator: "CHIC program requirements",
         },
-        {
-          id: "english-cocker-spaniel-club-health",
-          role: "verified",
-          locator: "Pre-breeding health screening protocol: DNA testing, eye exams, hips, and gonioscopy"
-        }
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "health.dentalCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-english-cocker-spaniel-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: strong jaws with complete regular scissor bite"
+          id: "vetcompass-english-cocker-spaniel-2023",
+          role: "verified",
+          locator: "Results & Conclusions (periodontal disease 20.97%)",
         },
         {
           id: "akc-english-cocker-spaniel-breed-profile",
-          role: "cited",
-          locator: "Routine dental care"
-        }
+          role: "verified",
+          locator: "Health section (brush teeth often with dog toothpaste)",
+        },
       ],
-      verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "health.earCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-english-cocker-spaniel-official-standard",
-          role: "cited",
-          locator: "Ears: lobular, set low, covered with long silky hair"
+          id: "vetcompass-english-cocker-spaniel-2023",
+          role: "verified",
+          locator: "Results (otitis externa 10.09%)",
         },
         {
-          id: "english-cocker-spaniel-club-health",
-          role: "cited",
-          locator: "Ear canal cleaning and infection prevention"
-        }
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Health & Grooming sections (check ears weekly for debris, wax, and infection)",
+        },
       ],
-      verifiedOn: null,
-      note: "Ear maintenance protocol for long pendant drop ears."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     "health.skinCare": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-english-cocker-spaniel-official-standard",
-          role: "cited",
-          locator: "Skin and flat silky coat care"
-        }
-      ],
-      verifiedOn: null,
-      note: "General skin and coat care guidelines."
-    },
-
-    suitability: {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "akc-english-cocker-spaniel-breed-profile",
-          role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          role: "verified",
+          locator: "Grooming section (prevent mats and tangles)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "suitability.firstTimeOwners": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Training & About the Breed (easy to train, agreeable companion)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "suitability.familiesWithChildren": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Good With Young Children & Exercise",
         },
         {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
-          role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
-        }
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "verified",
+          locator: "About this breed (hugely popular as a family pet)",
+        },
       ],
-      verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
+    "suitability.seniorOwners": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "About the Breed & Exercise (manageable size, adaptable if daily exercise is provided)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "suitability.activeOwners": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Exercise section (active sporting dog)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "suitability.apartmentLiving": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "verified",
+          locator: "Breed characteristics (Small house; Town or country Either)",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "suitability.idealFor": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "About the Breed, Exercise, Training",
+        },
+        {
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "verified",
+          locator: "About this breed & Breed characteristics",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
+    "suitability.notIdealFor": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Grooming, Exercise, Affectionate With Family",
+        },
+      ],
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-english-cocker-spaniel-breed-profile",
-          role: "verified",
-          locator: "Nickname 'merry cocker', Westminster Best in Show 1946 (Ch. Shikarilee's Bright Star), Lady and the Tramp Disney movie"
-        },
-        {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
-          role: "verified",
-          locator: "History: 1893 Spaniel Club standard, woodcock flushing origin"
-        },
-        {
           id: "fci-english-cocker-spaniel-official-standard",
           role: "verified",
-          locator: "Brief historical summary: land spaniels separation"
-        }
+          locator: "Brief Historical Summary (woodcock name; working vs show lines)",
+        },
+        {
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
+          role: "verified",
+          locator: "About this breed ('merry cocker' epithet)",
+        },
+        {
+          id: "akc-english-cocker-spaniel-breed-profile",
+          role: "verified",
+          locator: "Did You Know (born in same litters as Springers)",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note: "Verified historical folklore and cultural heritage facts."
+      verifiedOn: "2026-11-18",
+      note: null,
     },
-
     faq: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-english-cocker-spaniel-official-standard",
-          role: "verified",
-          locator: "Origin, size (38-41 cm), coat, and colors"
-        },
-        {
-          id: "the-kennel-club-english-cocker-spaniel-breed-standard",
-          role: "verified",
-          locator: "Weight (13-14.5 kg), longevity (12-15 years), and temperament"
-        },
-        {
           id: "akc-english-cocker-spaniel-breed-profile",
           role: "verified",
-          locator: "Comparison with American Cocker Spaniel, grooming, family suitability, and training"
+          locator: "About the Breed, Grooming, Exercise, History",
         },
         {
-          id: "english-cocker-spaniel-genetic-disorders-study-2006",
+          id: "royal-kennel-club-english-cocker-spaniel-profile",
           role: "verified",
-          locator: "DNA testing for prcd-PRA, familial nephropathy, and adult-onset neuropathy"
+          locator: "Breed characteristics & Pre-breeding health screening",
         },
         {
-          id: "ofa-english-cocker-spaniel-chic-requirements",
-          role: "verified",
-          locator: "Recommended health screening panel"
-        }
+          id: "vetcompass-english-cocker-spaniel-2023",
+          role: "cited",
+          locator: "Results (otitis externa 10.09%)",
+        },
       ],
-      verifiedOn: "2026-11-09",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
-    }
+      verifiedOn: "2026-11-18",
+      note: null,
+    },
   },
-
-  updatedOn: "2026-11-09"
+  updatedOn: "2026-11-18",
 };

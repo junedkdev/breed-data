@@ -222,6 +222,11 @@ import { jamthund } from "./jamthund";
 import { bedlington_terrier } from "./bedlington_terrier";
 import { thai_ridgeback } from "./thai_ridgeback";
 import { german_shorthaired_pointer } from "./german_shorthaired_pointer";
+import { galgo_espanol } from "./galgo_espanol";
+import { chien_francais_blanc_et_noir } from "./chien_francais_blanc_et_noir";
+import { poitevin } from "./poitevin";
+import { miniature_schnauzer } from "./miniature_schnauzer";
+import { pyrenean_sheepdog_longhaired } from "./pyrenean_sheepdog_longhaired";
 
 
 export const breedData: readonly Breed[] = [
@@ -443,4 +448,9 @@ export const breedData: readonly Breed[] = [
   bedlington_terrier,
   thai_ridgeback,
   german_shorthaired_pointer,
+  galgo_espanol,
+  chien_francais_blanc_et_noir,
+  poitevin,
+  miniature_schnauzer,
+  pyrenean_sheepdog_longhaired,
 ];
