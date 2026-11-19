@@ -1,24 +1,24 @@
 import type { Breed } from "../../schema/breed.types";
 
-export const danish_swedish_farmdog: Breed = {
-  slug: "danish-swedish-farmdog",
-  name: "Danish-Swedish Farmdog",
+export const griffon_bruxellois_80: Breed = {
+  slug: "griffon-bruxellois-80",
+  name: "Griffon Bruxellois",
   scientificName: null,
   alternateNames: [
-    "Dansk/Svensk Gårdshund",
-    "Skåneterrier",
-    "Scanian Terrier",
+    "Brussels Griffon",
+    "Griffon belge",
+    "Petit Brabançon",
   ],
-  group: "Terrier",
+  group: "Toy",
   origin: {
-    country: "Denmark and Sweden",
+    country: "Brussels, Belgium",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "Small, compact, and slightly rectangular working dog with short smooth coat and alert expression, developed as a versatile all-purpose farm dog in Denmark and Sweden",
-    history: "Ancient Scandinavian farm dog breed from eastern Denmark and southernmost Sweden, used as versatile all-purpose farm dog for ratting, herding, guarding, and companionship. Officially recognized in Denmark and Sweden in 1987, by FCI in 2008-2019, and The Kennel Club (UK) in 2019",
+    description: "A small, intelligent toy dog from Belgium with a distinctive bearded, almost human-like expressive face and alert demeanor. Available in rough and smooth coat varieties, known for their big personality despite their small size.",
+    history: "Developed in Brussels as stable dogs and ratters from local rough-coated terriers in the 1800s, refined by crossing with Pug and English Toy Spaniel, became popular with Belgian nobility and coachmen",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -27,27 +27,27 @@ export const danish_swedish_farmdog: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 32,
-        max: 38,
+        min: 18,
+        max: 25,
       },
       female: {
-        min: 29,
-        max: 37,
+        min: 18,
+        max: 25,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 7,
-        max: 11,
+        min: 4,
+        max: 5,
       },
       female: {
-        min: 7,
-        max: 11,
+        min: 4,
+        max: 5,
       },
     },
     lifespanYears: {
-      min: 11,
+      min: 12,
       max: 15,
     },
     coatType: null,
@@ -78,11 +78,9 @@ export const danish_swedish_farmdog: Breed = {
   temperament: {
     traits: [
       "Alert",
-      "friendly",
-      "energetic",
       "intelligent",
-      "adaptable",
-      "eager to please",
+      "loyal",
+      "confident",
     ],
     scores: {
       affection: null,
@@ -164,7 +162,7 @@ export const danish_swedish_farmdog: Breed = {
           locator: "breed.alt_names",
         },
       ],
-      verifiedOn: "2026-11-18",
+      verifiedOn: "2026-11-19",
       note: null,
     },
     scientificName: {
@@ -182,7 +180,7 @@ export const danish_swedish_farmdog: Breed = {
           locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-11-18",
+      verifiedOn: "2026-11-19",
       note: null,
     },
     "origin.country": {
@@ -194,7 +192,7 @@ export const danish_swedish_farmdog: Breed = {
           locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-11-18",
+      verifiedOn: "2026-11-19",
       note: null,
     },
     "origin.region": {
@@ -218,7 +216,7 @@ export const danish_swedish_farmdog: Breed = {
           locator: "breed.description",
         },
       ],
-      verifiedOn: "2026-11-18",
+      verifiedOn: "2026-11-19",
       note: null,
     },
     "overview.history": {
@@ -230,7 +228,7 @@ export const danish_swedish_farmdog: Breed = {
           locator: "breed.history",
         },
       ],
-      verifiedOn: "2026-11-18",
+      verifiedOn: "2026-11-19",
       note: null,
     },
     "overview.originalPurpose": {
@@ -260,8 +258,8 @@ export const danish_swedish_farmdog: Breed = {
           locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-11-18",
-      note: null,
+      verifiedOn: "2026-11-19",
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
     "physical.height.female.max": {
       reliability: "reliable_source",
@@ -272,8 +270,8 @@ export const danish_swedish_farmdog: Breed = {
           locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-11-18",
-      note: null,
+      verifiedOn: "2026-11-19",
+      note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -284,7 +282,7 @@ export const danish_swedish_farmdog: Breed = {
           locator: "breed.life_span",
         },
       ],
-      verifiedOn: "2026-11-18",
+      verifiedOn: "2026-11-19",
       note: null,
     },
     "physical.coatType": {
@@ -308,7 +306,7 @@ export const danish_swedish_farmdog: Breed = {
           locator: "GET /breeds/{id}/colours",
         },
       ],
-      verifiedOn: "2026-11-18",
+      verifiedOn: "2026-11-19",
       note: "The colour endpoint lists variants registered for this breed, including variants applied across the species. Keep only the colours that belong to this breed.",
     },
     "physical.sheddingLevel": {
@@ -338,7 +336,7 @@ export const danish_swedish_farmdog: Breed = {
           locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-11-18",
+      verifiedOn: "2026-11-19",
       note: null,
     },
     "temperament.scores.affection": {
@@ -626,7 +624,7 @@ export const danish_swedish_farmdog: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-11-18",
+      verifiedOn: "2026-11-19",
       note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
     "physical.weight.female.max": {
@@ -638,9 +636,9 @@ export const danish_swedish_farmdog: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-11-18",
+      verifiedOn: "2026-11-19",
       note: "The Dog API gave one range for the breed and did not separate males and females.",
     },
   },
-  updatedOn: "2026-11-18",
+  updatedOn: "2026-11-19",
 };

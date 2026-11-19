@@ -148,10 +148,10 @@
 145:appenzeller_sennenhund - CG
 146:azawakh - CG
 147:english_cocker_spaniel - CG
+148:danish_swedish_farmdog - CG
 
-148:danish_swedish_farmdog - CR
+149:griffon_bruxellois_80 - CR
 
-149:griffon_bruxellois_80 - C
 150:barbet - C
 151:scottish_terrier - C
 152:briard - C
@@ -225,10 +225,9 @@
 220:poitevin - C
 221:miniature_schnauzer - C
 222:pyrenean_sheepdog,_longhaired - C
+223:polish_hunting_dog - C
+224:volpino_italiano - C
 
-223:polish_hunting_dog - R
-
-224:volpino_italiano
 225:wetterhoun
 226:labradoodle
 227:komondor

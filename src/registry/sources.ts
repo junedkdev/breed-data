@@ -13640,25 +13640,27 @@ export const sources = defineSources({
     accessedOn: "2026-11-18",
     note: "Photograph of a red English Cocker Spaniel by Ipukhlyk (captured 2025-10-23, uploaded 2025-10-27, 3024 x 4032 px). Licensed under CC BY-SA 4.0.",
   },
-  "fci-danish-swedish-farmdog-official-standard": {
+"fci-danish-swedish-farmdog-official-standard": {
     id: "fci-danish-swedish-farmdog-official-standard",
     name: "FCI - Danish-Swedish Farmdog (Dansk-svensk gårdshund) Official Breed Standard No. 356",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/356g02-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2019-05-16",
-    accessedOn: "2026-11-10",
-    note: "Official English FCI Standard No. 356 (valid standard dated 2019-05-07, published 2019-05-16). Covers Denmark/Sweden origin, Group 2 Section 1.1 Pinscher classification without working trial, rectangular proportions (10:9), rose/button ears, natural bobtail or long tail, pied coat, and withers height (males 34-37 cm, females 32-35 cm, +/- 2 cm tolerance).",
-    publisher: "Fédération Cynologique Internationale"
+    commercialUse: "reference_only",
+    publishedOn: "2019-05-06",
+    accessedOn: "2026-11-19",
+    note: "Official English FCI Standard No. 356 (published 2019-05-06). Covers Denmark/Sweden origin, Group 2 Section 1.1 Pinscher classification without working trial, white-dominant patched coat, rose/button ears, natural bobtail or long tail, and withers height (males 34-37 cm, females 32-35 cm, +/- 2 cm tolerance).",
   },
-  "fci-danish-swedish-farmdog-nomenclature": {
+"fci-danish-swedish-farmdog-nomenclature": {
     id: "fci-danish-swedish-farmdog-nomenclature",
     name: "FCI - Danish-Swedish Farmdog Breed Nomenclature (No. 356)",
-    url: "https://www.fci.be/en/nomenclature/DANISH-SWEDISH-FARMDOG-356.html",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/en/nomenclature/DANSK-SVENSK-GARDSHUND-356.html",
     type: "official_breed_standard",
-    publishedOn: "2019-05-16",
-    accessedOn: "2026-11-10",
-    note: "Official FCI breed nomenclature record confirming Denmark and Sweden as countries of origin, Group 2 Section 1.1 classification without working trial, definitive recognition date (2019-04-29), and multilingual names (Chien de ferme dano-suédois, Dänisch-Schwedischer Farmhund, Perro de granja danés-sueco).",
-    publisher: "Fédération Cynologique Internationale"
+    commercialUse: "reference_only",
+    publishedOn: "2019-05-06",
+    accessedOn: "2026-11-19",
+    note: "Official FCI breed nomenclature record confirming Denmark and Sweden as countries of origin, Group 2 Section 1.1 classification, and multilingual names (Chien de ferme dano-suédois, Dänisch-Schwedischer Farmhund).",
   },
   "dansk-kennel-klub-dansk-svensk-gaardshund-standard": {
     id: "dansk-kennel-klub-dansk-svensk-gaardshund-standard",
@@ -13680,25 +13682,27 @@ export const sources = defineSources({
     note: "Official Swedish Kennel Club (Svenska Kennelklubben / SKK) breed standard for Dansk-svensk gårdshund, confirming Scanian roots, proportions, coat, colours, height limits, and health management.",
     publisher: "Svenska Kennelklubben"
   },
-  "akc-danish-swedish-farmdog-breed-standard": {
+"akc-danish-swedish-farmdog-breed-standard": {
     id: "akc-danish-swedish-farmdog-breed-standard",
-    name: "American Kennel Club - Official Standard of the Danish-Swedish Farmdog",
-    url: "https://images.akc.org/pdf/breeds/standards/DanishSwedishFarmdog.pdf",
+    name: "American Kennel Club — Official Standard of the Danish-Swedish Farmdog (via DSFCA)",
+    publisher: "American Kennel Club / Danish-Swedish Farmdog Club of America",
+    url: "https://dsfca.clubexpress.com/content.aspx?page_id=22&club_id=459025&module_id=464452",
     type: "official_breed_standard",
-    publishedOn: "2011-01-01",
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed standard establishing height (males 13.5-14.5 in, females 12.5-13.5 in / 34-37 cm and 32-35 cm), compact substance, scissor bite, rose/button ears, and white-dominated pied coloration.",
-    publisher: "American Kennel Club"
+    commercialUse: "reference_only",
+    publishedOn: "2025-01-01",
+    accessedOn: "2026-11-19",
+    note: "Official AKC Working Group breed standard establishing height (males 13.5-14.5 in +/- 1 in; females 12.5-14 in +/- 0.5 in), 9:10 proportion, slow maturation (3-4 years), rose/button ears, and non-aggressive doorbell temperament.",
   },
-  "akc-danish-swedish-farmdog-breed-profile": {
+"akc-danish-swedish-farmdog-breed-profile": {
     id: "akc-danish-swedish-farmdog-breed-profile",
     name: "American Kennel Club - Danish-Swedish Farmdog Dog Breed Information",
+    publisher: "American Kennel Club",
     url: "https://www.akc.org/dog-breeds/danish-swedish-farmdog/",
     type: "kennel_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed profile covering Scandinavian history, pinscher classification, published weight (15-26 lbs / 7-12 kg), lifespan (13-15 years), temperament, and grooming.",
-    publisher: "American Kennel Club"
+    accessedOn: "2026-11-19",
+    note: "Official AKC breed profile covering Working Group recognition (2025), height (12.5-14.5 in), weight (15-20 lbs), lifespan (11-13 years), low-maintenance grooming, exercise, and dog sports.",
   },
   "ukc-danish-swedish-farmdog-breed-standard": {
     id: "ukc-danish-swedish-farmdog-breed-standard",
@@ -13710,15 +13714,16 @@ export const sources = defineSources({
     note: "Official UKC breed standard (Terrier Group, recognized 2008) covering conformation, rectangular proportions, height, weight (approx. 15-25 lbs), natural bobtail, and ratter behavior.",
     publisher: "United Kennel Club"
   },
-  "danish-swedish-farmdog-club-of-america-health": {
+"danish-swedish-farmdog-club-of-america-health": {
     id: "danish-swedish-farmdog-club-of-america-health",
-    name: "Danish-Swedish Farmdog Club of America - Health and Genetics",
-    url: "https://www.danishefclub.org/health",
+    name: "Danish-Swedish Farmdog Club of America — Official Club Portal",
+    publisher: "Danish-Swedish Farmdog Club of America",
+    url: "https://dsfca.clubexpress.com/",
     type: "breed_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official national parent club health portal covering hip dysplasia, patellar luxation, primary lens luxation (PLL) DNA testing, and CHIC screening protocols.",
-    publisher: "Danish-Swedish Farmdog Club of America"
+    accessedOn: "2026-11-19",
+    note: "Official US parent club portal covering breed history, AKC recognition timeline (2011 FSS, 2021 Miscellaneous, 2025 Working Group), temperament ('off switch'), and dog sports.",
   },
   "ofa-danish-swedish-farmdog-chic-requirements": {
     id: "ofa-danish-swedish-farmdog-chic-requirements",
@@ -13730,35 +13735,38 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Danish-Swedish Farmdog, mandating radiographic hip dysplasia evaluation, patellar luxation clinical evaluation, PLL DNA test, and CAER eye examination.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "danish-swedish-farmdog-pll-adamts17-study-2011": {
+"danish-swedish-farmdog-pll-adamts17-study-2011": {
     id: "danish-swedish-farmdog-pll-adamts17-study-2011",
-    name: "An ADAMTS17 Mutation Is Associated with Primary Lens Luxation in the Danish-Swedish Farmdog and Sighthounds",
-    url: "https://pubmed.ncbi.nlm.nih.gov/19814769/",
+    name: "Genetic Panel Screening of Nearly 100 Mutations Reveals New Insights into the Breed Distribution of Risk Variants for Canine Hereditary Disorders",
+    publisher: "PLoS ONE / PubMed Central",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4985128/",
     type: "scientific",
-    publishedOn: "2010-01-01",
-    accessedOn: "2026-11-10",
-    note: "Peer-reviewed study (Farias et al., Invest Ophthalmol Vis Sci 2010;51(1):224-230, PMID 19814769) identifying the causal mutation in the ADAMTS17 gene responsible for primary lens luxation across terrier and northern breeds including the Danish-Swedish Farmdog.",
-    publisher: "Investigative Ophthalmology & Visual Science / PubMed"
+    commercialUse: "reference_only",
+    publishedOn: "2016-08-15",
+    accessedOn: "2026-11-19",
+    note: "Peer-reviewed study (Donner et al., PLoS ONE 2016, PMC4985128) identifying the ADAMTS17 c.1473+1G>A primary lens luxation (PLL) variant in Danish-Swedish Farmdogs at a 21.9% carrier frequency, with clinical lens luxation confirmed in 4 of 5 homozygous adults.",
   },
-  "wikimedia-dansk-svensk-gaardshund-front-lilly-m": {
+"wikimedia-dansk-svensk-gaardshund-front-lilly-m": {
     id: "wikimedia-dansk-svensk-gaardshund-front-lilly-m",
-    name: "Wikimedia Commons - File:Dansk-svensk gårdshund front.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Dansk-svensk_g%C3%A5rdshund_front.jpg",
+    name: "Wikimedia Commons — File:Danishswedish-blacktri1.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Danishswedish-blacktri1.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-10",
-    note: "Photograph of an adult tricolour Danish-Swedish Farmdog standing outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25, 1788 x 1968 px). Licensed under CC BY-SA 3.0.",
-    publisher: "Wikimedia Commons"
+    commercialUse: "commercial_use",
+    publishedOn: "2023-10-08",
+    accessedOn: "2026-11-19",
+    note: "Photograph of a black tricolor Danish-Swedish Farmdog by Canarian (captured and uploaded 2023-10-08, 1801 x 1491 px). Licensed under CC BY-SA 4.0.",
   },
-  "wikimedia-dansk-svensk-gaardshund-side-lilly-m": {
+"wikimedia-dansk-svensk-gaardshund-side-lilly-m": {
     id: "wikimedia-dansk-svensk-gaardshund-side-lilly-m",
-    name: "Wikimedia Commons - File:Dansk-svensk gårdshund side.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Dansk-svensk_g%C3%A5rdshund_side.jpg",
+    name: "Wikimedia Commons — File:Danish Swedish Farmdog.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Danish_Swedish_Farmdog.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-10",
-    note: "Photograph of a Danish-Swedish Farmdog in side profile by Lilly M (captured 2007-06-16, uploaded 2007-06-25, 2548 x 1792 px). Licensed under CC BY-SA 3.0.",
-    publisher: "Wikimedia Commons"
+    commercialUse: "commercial_use",
+    publishedOn: "2006-08-07",
+    accessedOn: "2026-11-19",
+    note: "Photograph of a Danish-Swedish Farmdog on a beach by Medico80 at English Wikipedia (captured 2005-07-02, uploaded 2006-08-07, 2048 x 1536 px). Licensed under CC BY-SA 3.0.",
   },
   "fci-griffon-bruxellois-official-standard": {
     id: "fci-griffon-bruxellois-official-standard",
@@ -20226,6 +20234,190 @@ export const sources = defineSources({
     publishedOn: "2015-12-18",
     accessedOn: "2026-11-18",
     note: "Photograph (1600 x 1200 px) of a long-haired Pyrenean Sheepdog at the Finnish Winner 2015 show in Helsinki by Yulia Petrova / Томасина (EXIF capture date 2015-12-06, uploaded 2015-12-18). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-danish-swedish-farmdog-education": {
+    id: "fci-danish-swedish-farmdog-education",
+    name: "FCI — Danish-Swedish Farmdog Breed-Specific Education Presentation",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://fci.be/Nomenclature/Education/356g02-PRE-en.pdf",
+    type: "official_breed_standard",
+    commercialUse: "reference_only",
+    publishedOn: "2009-05-19",
+    accessedOn: "2026-11-19",
+    note: "Official FCI judges education presentation for FCI Standard No. 356 detailing pinscher heritage, non-aggressive doorbell watchdog temperament, circus history, and conformation.",
+  },
+  "danish-swedish-farmdog-cystine-uroliths-2023": {
+    id: "danish-swedish-farmdog-cystine-uroliths-2023",
+    name: "A retrospective study on epidemiology and management of canine cystine uroliths in one part of Norway from 2015 to 2020",
+    publisher: "Acta Veterinaria Scandinavica / PubMed",
+    url: "https://pubmed.ncbi.nlm.nih.gov/37964384/",
+    type: "scientific",
+    commercialUse: "reference_only",
+    publishedOn: "2023-11-14",
+    accessedOn: "2026-11-19",
+    note: "Retrospective Norwegian veterinary study (PMID 37964384) identifying the Danish-Swedish Farmdog among the three breeds most commonly affected by cystine urolithiasis.",
+  },
+  "danish-swedish-farmdog-bobtail-ltv-study": {
+    id: "danish-swedish-farmdog-bobtail-ltv-study",
+    name: "Association between the natural bobtail phenotype and lumbosacral transitional vertebra in Brittany dogs and Danish-Swedish Farmdogs",
+    publisher: "PubMed Central",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC13429198/",
+    type: "scientific",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-11-19",
+    note: "Cross-sectional radiographic study of 935 Danish-Swedish Farmdogs in Norway (PMC13429198) reporting 11.0% natural bobtail prevalence and 14.9% lumbosacral transitional vertebra (LTV) prevalence, with no statistically significant association between bobtail and LTV in the breed (P = 0.05).",
+  },
+  "danish-swedish-farmdog-pelger-huet-2011": {
+    id: "danish-swedish-farmdog-pelger-huet-2011",
+    name: "Congenital Pelger-Huët anomaly in a Danish/Swedish Farmdog: case report",
+    publisher: "Acta Veterinaria Scandinavica / PubMed",
+    url: "https://pubmed.ncbi.nlm.nih.gov/21362186/",
+    type: "scientific",
+    commercialUse: "reference_only",
+    publishedOn: "2011-03-01",
+    accessedOn: "2026-11-19",
+    note: "Isolated case report (PMID 21362186) documenting congenital Pelger-Huët anomaly in a 13-year-old Danish-Swedish Farmdog from Denmark.",
+  },
+  "fci-polish-hunting-dog-official-standard": {
+    id: "fci-polish-hunting-dog-official-standard",
+    name: "FCI - Polish Hunting Dog (Gończy Polski) Official Breed Standard No. 354",
+    url: "https://www.fci.be/Nomenclature/Standards/354g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2017-11-23",
+    accessedOn: "2026-11-19",
+    note: "Official English FCI Standard No. 354 (definitive acceptance and valid standard dated 2017-11-07, published 2017-11-23). Covers Polish origin (Southern Poland / Podkarpacie), Józef Pawłusiewicz (1903-1979) breeding revival, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, 9:10 rectangular proportions, elbow-to-ground ratio, harsh close-lying double coat, black-and-tan/brown-and-tan/red colours, melodic hunting voice, and withers height (males 55-59 cm, females 50-55 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-polish-hunting-dog-nomenclature": {
+    id: "fci-polish-hunting-dog-nomenclature",
+    name: "FCI - Gończy Polski (Polish Hunting Dog) Breed Nomenclature (No. 354)",
+    url: "https://www.fci.be/en/nomenclature/GONCZY-POLSKI-354.html",
+    type: "official_breed_standard",
+    publishedOn: "2017-11-23",
+    accessedOn: "2026-11-19",
+    note: "Official FCI breed nomenclature record confirming Poland as country of origin, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, definitive recognition date (2017-11-07), and official multilingual names (Gończy Polski, Polish Hunting Dog, Chien Courant Polonais).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "zkwp-polish-hunting-dog-commentary": {
+    id: "zkwp-polish-hunting-dog-commentary",
+    name: "Związek Kynologiczny w Polsce (ZKwP) - Commentary to FCI Standard No. 354 (Polish Hunting Dog)",
+    url: "https://zkwp.pl/rasy_polskie/KOMENTARZ_GONCZY_POL_ANG.pdf",
+    type: "kennel_club",
+    publishedOn: "2025-01-01",
+    accessedOn: "2026-11-19",
+    note: "Official Polish Kennel Club (ZKwP) illustrated commentary on the Polish Hunting Dog documenting the 1764 Kleck estate manuscript naming 'gończy polski', Wiktor Kozłowski's 1821 treatise, Ignacy Bobiatyński (1823-1825), Ernest Buttler (1829), and Jan Szyttler's 1839 distinction between ogar and gończy.",
+    publisher: "Związek Kynologiczny w Polsce"
+  },
+  "polish-hunting-dog-ocular-abnormalities-study-2021": {
+    id: "polish-hunting-dog-ocular-abnormalities-study-2021",
+    name: "Ocular abnormalities in Polish Hunting Dogs (PLOS ONE / PMC8570502)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8570502/",
+    type: "scientific",
+    publishedOn: "2021-11-05",
+    accessedOn: "2026-11-19",
+    note: "Peer-reviewed veterinary ophthalmology study (PMID 34739488, PMC8570502) examining 193 Polish Hunting Dogs (aged 3 months to 12 years), documenting retinal lesions (8.3%), cataract (2.6%), iris coloboma (1.6%), PRA (1.6%), SARDS (1 dog), ocular dermoid (0.5%), retinal dysplasia, distichiasis, and entropion, and recommending periodic ophthalmological examinations.",
+    publisher: "PLOS ONE / National Library of Medicine (PMC)"
+  },
+  "wikimedia-gonczy-polski-huntingdog-association": {
+    id: "wikimedia-gonczy-polski-huntingdog-association",
+    name: "Wikimedia Commons - File:Gończy Polski.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Go%C5%84czy_Polski.jpg",
+    type: "other",
+    publishedOn: "2024-10-04",
+    accessedOn: "2026-11-19",
+    note: "Photograph (801 x 641 px) of an adult black-and-tan Polish Hunting Dog by Huntingdog association (EXIF capture date 2020-02-14, uploaded 2024-10-04). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-gonzcy-polski-canarian": {
+    id: "wikimedia-gonzcy-polski-canarian",
+    name: "Wikimedia Commons - File:Gonzcy Polski Polish Hunting Dog.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Gonzcy_Polski_Polish_Hunting_Dog.JPG",
+    type: "other",
+    publishedOn: "2014-05-11",
+    accessedOn: "2026-11-19",
+    note: "Photograph (566 x 396 px) of a red male Polish Hunting Dog by Canarian (EXIF capture date 2013-12-13, uploaded 2014-05-11). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-volpino-italiano-official-standard": {
+    id: "fci-volpino-italiano-official-standard",
+    name: "FCI - Volpino Italiano (Italian Volpino) Official Breed Standard No. 195",
+    url: "https://www.fci.be/Nomenclature/Standards/195g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2023-09-21",
+    accessedOn: "2026-11-19",
+    note: "Official English FCI Standard No. 195 (valid standard dated 2023-09-08, English publication dated 2023-09-21). Covers Italian origin, Bronze Age European Spitz heritage, Vittore Carpaccio 1502 painting, Group 5 Section 4 European Spitz classification without working trial, square build, pyramid head, harsh long stand-off coat, uniform white/red/black and other accepted colours, and withers height (males 27-30 cm, females 25-28 cm; weight proportionate to height).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-volpino-italiano-nomenclature": {
+    id: "fci-volpino-italiano-nomenclature",
+    name: "FCI - Volpino Italiano Breed Nomenclature (No. 195)",
+    url: "https://www.fci.be/en/nomenclature/VOLPINO-ITALIANO-195.html",
+    type: "official_breed_standard",
+    publishedOn: "2023-09-21",
+    accessedOn: "2026-11-19",
+    note: "Official FCI breed nomenclature record confirming Italy as country of origin, Group 5 Section 4 European Spitz classification without working trial, and official multilingual names (Volpino Italiano, Italian Volpino, Volpino Italien, Italienischer Volpino).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "enci-volpino-italiano-profile": {
+    id: "enci-volpino-italiano-profile",
+    name: "Ente Nazionale della Cinofilia Italiana (ENCI) - Volpino Italiano",
+    url: "https://www.enci.it/libro-genealogico/razze/volpino-italiano",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-19",
+    note: "Official Italian Kennel Club (ENCI) breed page for Volpino Italiano documenting the early-21st-century recovery of the red coat variety and Riproduzione Selezionata health screening requirements (hereditary ocular diseases and patellar luxation grade 0/1).",
+    publisher: "Ente Nazionale della Cinofilia Italiana"
+  },
+  "akc-volpino-italiano-breed-profile": {
+    id: "akc-volpino-italiano-breed-profile",
+    name: "American Kennel Club - Volpino Italiano Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/volpino-italiano/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-19",
+    note: "Official AKC breed profile (Foundation Stock Service) covering Italian countryside watchdog history, weight (males 10-16 pounds, females 8-12 pounds), life expectancy (12-15 years), shedding, temperament, and Primary Lens Luxation (PLL) DNA testing.",
+    publisher: "American Kennel Club"
+  },
+  "gould-2011-adamts17-pll-study": {
+    id: "gould-2011-adamts17-pll-study",
+    name: "ADAMTS17 mutation associated with primary lens luxation is widespread among breeds (Veterinary Ophthalmology)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/22050825/",
+    type: "scientific",
+    publishedOn: "2011-11-01",
+    accessedOn: "2026-11-19",
+    note: "Peer-reviewed study by Gould et al. in Veterinary Ophthalmology (Vol. 14, No. 6, pp. 378-384, PMID 22050825) establishing the ADAMTS17 c.1473+1G>A splice-donor mutation in canine Primary Lens Luxation across multiple breeds including the Volpino Italiano.",
+    publisher: "Veterinary Ophthalmology / PubMed"
+  },
+  "donner-2018-canine-genetic-variants-study": {
+    id: "donner-2018-canine-genetic-variants-study",
+    name: "Frequency and distribution of 152 genetic disease variants in over 100,000 mixed breed and purebred dogs (PLOS Genetics)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5945203/",
+    type: "scientific",
+    publishedOn: "2018-04-30",
+    accessedOn: "2026-11-19",
+    note: "Peer-reviewed large-scale canine genetic screening study (PLOS Genetics, PMC5945203) documenting the ADAMTS17 Primary Lens Luxation variant in 7.7% (2/26) of tested Volpino Italiano dogs.",
+    publisher: "PLOS Genetics / National Library of Medicine (PMC)"
+  },
+  "wikimedia-italianvolpino2-canarian": {
+    id: "wikimedia-italianvolpino2-canarian",
+    name: "Wikimedia Commons - File:ItalianVolpino2.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:ItalianVolpino2.jpg",
+    type: "other",
+    publishedOn: "2021-07-05",
+    accessedOn: "2026-11-19",
+    note: "High-resolution photograph (1303 x 1074 px) of an adult white Volpino Italiano standing outdoors by Canarian (EXIF capture date 2021-07-03, uploaded 2021-07-05). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-cucciolo-volpino-italiano-rosso-cinvic": {
+    id: "wikimedia-cucciolo-volpino-italiano-rosso-cinvic",
+    name: "Wikimedia Commons - File:Cucciolo volpino italiano rosso.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Cucciolo_volpino_italiano_rosso.jpg",
+    type: "other",
+    publishedOn: "2023-06-12",
+    accessedOn: "2026-11-19",
+    note: "High-resolution photograph (2030 x 2048 px) of a young red Volpino Italiano by Cinvic (captured 2023-04-22, uploaded 2023-06-12). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
 });
