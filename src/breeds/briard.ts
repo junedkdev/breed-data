@@ -8,76 +8,73 @@ export const briard: Breed = {
   alternateNames: [
     "Berger de Brie",
     "Chien de Berger de Brie",
-    "Briard Shepherd"
+    "French Lowlands Sheepdog"
   ],
 
-  group:
-    "Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 — Sheepdogs (with working trial; also classified in the Herding and Pastoral groups)",
+  group: "Sheepdogs and Cattledogs",
 
   origin: {
     country: "France",
     region:
-      "Brie region and the plains of Île-de-France, northern and central France"
+      "Brie region and the northern and central lowland plains of France"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Berger_de_Brie_fawn_711.jpg",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Berger_de_Brie_fawn_711.jpg",
-      title: "Berger de Brie fawn 711.jpg",
-      description: "An adult fawn Briard standing outdoors in a garden.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 2016,
-      height: 1756,
-      licenseId: "cc-by-sa-3.0",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Briard-fawn.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Briard-fawn.jpg",
+      title: "Briard-fawn.jpg",
+      description:
+        "A fawn Briard showing its long, goat-like coat and bearded head.",
+      creator: "Canarian",
+      uploader: "Canarian",
+      capturedOn: "2021-08-07",
+      uploadedOn: "2021-08-11",
+      width: 1511,
+      height: 1344,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Berger_de_Brie_fawn_711.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Briard-fawn.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-20"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Chien_de_Berger_de_Brie.JPG",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Chien_de_Berger_de_Brie.JPG",
-      title: "Chien de Berger de Brie.JPG",
-      description: "A black Briard standing in profile at a dog show.",
-      creator: "Pleple2000",
-      uploader: "Pleple2000",
-      capturedOn: "2008-10-05",
-      uploadedOn: "2008-10-18",
-      width: 2400,
-      height: 1800,
-      licenseId: "cc-by-sa-3.0",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Briard_2_jaar.JPG",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Briard_2_jaar.JPG",
+      title: "Briard 2 jaar.JPG",
+      description: "A two-year-old Briard photographed outdoors.",
+      creator: "Dardeche",
+      uploader: "SieBot",
+      capturedOn: "2007-03-12",
+      uploadedOn: "2007-06-07",
+      width: 3456,
+      height: 2304,
+      licenseId: "public-domain",
       attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Chien_de_Berger_de_Brie.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Dardeche (Dutch Wikipedia), Wikimedia Commons, released into the public domain. Source: https://commons.wikimedia.org/wiki/File:Briard_2_jaar.JPG.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-20"
     }
   ],
 
   overview: {
     summary:
-      "A rustic, large-sized French pastoral sheepdog celebrated for its long, goat-like dry double coat, distinctive double dewclaws on the rear limbs, J-shaped crook tail, formidable working stamina, and deeply loyal, sensitive heart wrapped in fur.",
+      "A rugged, muscular French sheepdog distinguished by its long, dry, goat-like coat, double rear dewclaws, J-hooked tail, tireless herding stamina, and fiercely loyal family nature.",
 
     description:
-      "The Briard is a large, muscular, and athletic French herding dog combining substantial physical power with agile grace and supple, ground-covering movement. Characterized by a slightly rectangular body silhouette, it carries a rustic, harsh double coat with a dry, goat-like texture that drapes naturally over the entire body, creating a prominent moustache, beard, and sweeping eyebrows that frame dark, intelligent eyes without obscuring vision. A hallmark morphological feature is the presence of functional double dewclaws placed low on both rear legs. The head is long and imposing, complemented by high-set drop or natural erect ears and a long, low-set tail terminating in a distinct J-shaped hook. In the household, it is famously described as a heart wrapped in fur—calm, deeply affectionate, and fiercely devoted to family members—while remaining an alert, courageous guardian and a tireless herder in pasture work.",
+      "The Briard is a large, supple, and athletic herding dog built slightly longer than it is tall, combining sturdy bone with light, agile movement. Its trademark coat—long, dry, and textured like goat hair over a light undercoat—drapes naturally over the body and forms a beard, moustache, and arching eyebrows that lightly veil large, oval, dark eyes. Two unmistakable anatomical features set the breed apart: a pair of well-separated double dewclaws placed low on each hind leg, and a long, uncut tail ending in a subtle J-shaped hook. Often nicknamed 'a heart wrapped in fur,' the Briard pairs steady, affectionate devotion to its household with natural watchfulness around strangers and a strong, independent working drive.",
 
     history:
-      "The roots of the breed reach deep into medieval French agricultural history, with early literary mentions dating to a 1387 manuscript by Gaston Phoebus, Count of Foix. In early French pastoral traditions, indigenous sheepdogs were grouped broadly; in 1809, the agronomist Abbé Rozier clearly distinguished the lowland long-coated flock herder and guardian as the 'Chien de Brie' or 'Berger de Brie', separating it from the shorter-coated upland Beauceron. Celebrated historical figures, including Emperor Charlemagne, Napoleon Bonaparte, and Thomas Jefferson, were admirers of the breed, with Jefferson importing foundation pairs to Monticello in the late eighteenth century. The first breed standard was drawn up in France in 1897 and updated by the national breed club in 1909. During the First World War, the breed served heroically as an official military sentry dog, ammunition carrier, and red-cross search dog that located wounded soldiers on battlefields, cementing its legacy of unwavering courage and devotion.",
+      "Long known across northern France as the French Lowlands Sheepdog, the breed evolved to drive flocks along rural pastures and defend them from wolves and poachers. The name 'chien de Brie' appeared in print in 1809 in Abbé Rozier's agricultural treatise, separating the long-coated lowland herder from the shorter-coated Beauceron. Historical accounts credit both the Marquis de Lafayette and Thomas Jefferson with bringing specimens to America, and Briards were exhibited at the first French dog show in 1863 before gaining formal recognition in 1897 (when the goat-hair variety prevailed over a woollier type). During both World Wars, the French military deployed Briards as sentries, pack dogs, and battlefield ambulance dogs locating wounded soldiers. Although numbers fell sharply after the Second World War, dedicated breeders preserved the breed as an all-around herder, sport dog, and devoted companion.",
 
     originalPurpose:
-      "Pastoral flock herding, boundary patrolling to prevent sheep from wandering into cultivated crops, and guarding flocks against wolves, feral predators, and thieves.",
+      "Driving, patrolling, and guarding sheep and livestock across unfenced lowland pastures in France.",
 
     currentRoles: [
-      "Pastoral livestock herding and farm boundary guardian",
-      "Competitive herding trial, tracking, and working assessment athlete",
-      "Devoted household companion and family protector",
-      "Search, rescue, and avalanche detection partner",
-      "Canine athlete in agility, rally, and competitive obedience"
+      "Livestock herding and farm guardian",
+      "Devoted family companion and home watchdog",
+      "Herding, agility, obedience, rally, and tracking competitor",
+      "Search-and-rescue partner"
     ]
   },
 
@@ -99,12 +96,12 @@ export const briard: Breed = {
     weight: {
       unit: "kg",
       male: {
-        min: 30,
-        max: 40
+        min: 32,
+        max: 45
       },
       female: {
-        min: 25,
-        max: 35
+        min: 23,
+        max: 29
       }
     },
 
@@ -114,52 +111,48 @@ export const briard: Breed = {
     },
 
     coatType:
-      "Long, supple, dry double coat resembling goat hair, forming slight locks without lying flat, at least 7 cm long on the body, with a fine, dense undercoat covering the entire body; features a distinct beard, moustache, and eyebrows that lightly veil the eyes.",
+      "Long, supple, dry, goat-like outer coat (at least 7 cm long on the body) over a light, fine undercoat, forming a beard, moustache, and eyebrows that lightly veil the eyes.",
 
     coatLength: "Long",
 
     coatColors: [
-      "Solid black",
-      "Fawn (warm, uniform golden-fawn with darker shading on the extremities, ears, and back)",
-      "Grey (born grey or clearing from black to dark charcoal or slate grey)",
-      "Blue (born slate-blue, uniform in shade)"
+      "Black",
+      "Fawn (warm fawn, sometimes with lighter shading on the extremities and inclined parts)",
+      "Fawn with slight to medium black overlay (often with a dark mask)",
+      "Grey",
+      "Blue"
     ],
 
     sheddingLevel:
-      "Low to moderate; shedding is minimal when dead undercoat hairs are lifted through regular thorough brushing and line-combing",
+      "Low to moderate; loose undercoat hairs tend to remain caught inside the long coat until cleared by thorough brushing and combing",
 
     droolingLevel:
-      "Low to moderate; tight-fitting lips minimize drooling, though long beard and moustache furnishings collect water after drinking",
+      "Low to moderate; tight lips keep drool minimal, though long facial hair holds water after drinking",
 
     distinctiveFeatures: [
-      "Rustic, athletic, and muscular silhouette slightly longer than tall (body length greater than withers height)",
+      "Supple, muscular, slightly rectangular build with body length slightly exceeding height at the withers",
       "Height at the withers of 62 to 68 cm in males and 56 to 64 cm in females",
-      "Weight of 30 to 40 kg for males and 25 to 35 kg for females in lean working condition",
-      "Dry, harsh, goat-like coat at least 7 cm in length draped gracefully over the body",
-      "Abundant facial furnishings consisting of a distinct chin beard, long moustache, and eyebrows that veil the dark eyes",
-      "Double dewclaws on both hind legs, placed low near the foot, each claw possessing a distinct, well-separated bony base",
-      "Large, long head with a marked stop midway between occiput and nose tip, with parallel cranial-facial planes",
-      "Large black nose with wide nostrils (or slate nose in blue dogs) and tight black lips",
-      "Complete scissor bite with strong jaws and sound, powerful teeth",
-      "Large, wide-open, horizontal dark brown or black eyes with darkly pigmented rims",
-      "Ears set high, covered in long hair, hanging flat against the cheeks (or historically cropped erect)",
-      "Deep, broad chest reaching down to the elbows with well-sprung ribs",
-      "Low-set, intact tail reaching at least to the hock, carried in a J-shaped hook (crochet) at the tip without deviating sideways"
+      "Typical adult weight of 32 to 45 kg in males and 23 to 29 kg in females",
+      "Long, dry, goat-like coat at least 7 cm in length with a light undercoat",
+      "Prominent beard, moustache, and arching eyebrows framing the face without masking its structure",
+      "Two well-separated double dewclaws with nails placed low on each hind leg",
+      "Long, strong head with parallel skull and muzzle planes and a clearly marked stop midway between occiput and nose tip",
+      "Strong black nose with open nostrils (or blue/bluish nose in blue-coated dogs) and tight lips",
+      "Strong white teeth meeting in a complete, regular scissor bite",
+      "Large, oval, horizontal, well-open dark eyes (with paler eyes permitted in blue dogs)",
+      "High-set, flat ears covered in long hair, carried naturally short and not plastered flat against the head",
+      "Uncut, well-feathered low-set tail reaching at least to the hock and ending in a distinct J-shaped hook"
     ]
   },
 
   temperament: {
     traits: [
-      "Loyal, affectionate, and deeply devoted to family members",
-      "Fearless, courageous, and vigilant flock and estate guardian",
-      "Intelligent, quick-witted, and highly trainable",
-      "Calm, gentle, and patient in the home",
-      "Alert and naturally watchful, with a protective instinct toward children",
-      "Reserved and discerning with unfamiliar strangers without unprovoked aggression",
-      "High stamina and tireless work ethic in pastoral herding",
-      "Sensitive to handler emotional energy and vocal reprimands",
-      "Can be assertive or bossy with other household animals if leadership is lax",
-      "Possesses a remarkable memory, retaining early training experiences for life"
+      "Balanced, steady, and fearless—neither aggressive nor timid",
+      "Deeply loyal, affectionate, and protective toward family and children",
+      "Intelligent and observant with an excellent memory",
+      "Independent decision-maker bred to manage flocks with minimal direction",
+      "Reserved and watchful around unfamiliar strangers",
+      "High energy and tireless stamina requiring a regular job or outlet"
     ],
 
     scores: {
@@ -178,20 +171,19 @@ export const briard: Breed = {
   care: {
     exercise: {
       level:
-        "High; an athletic working pastoral breed requiring vigorous daily physical exercise and structured mental tasks to maintain indoor composure",
+        "High; an energetic pastoral worker that craves daily action, long outings, and purposeful mental tasks",
 
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 120
       },
 
       activities: [
-        "Daily brisk leashed walks and extended woodland trail hikes",
-        "Herding trials, boundary management, and pastoral instinct tests",
-        "Interactive fetch, ball retrieving, and flying-disc chasing in a secure yard",
-        "Canine sports including agility, rally, tracking, and competitive obedience",
-        "Canicross, trail jogging, or running alongside a bicycle once skeletally mature",
-        "Problem-solving cognitive toys, snuffle mats, and scent-searching enrichment"
+        "Brisk daily walks, trail hikes, and jogging or cycling once mature",
+        "Free running and ball or disc retrieving in a large, securely fenced yard",
+        "Herding trials and instinct work",
+        "Agility, obedience, rally, tracking, and search-and-rescue training",
+        "Interactive puzzle feeders and scent-work games"
       ]
     },
 
@@ -199,36 +191,34 @@ export const briard: Breed = {
       level: "High",
 
       brushing:
-        "Line-brush thoroughly down to the skin two to three times weekly using a pin brush and metal greyhound comb to prevent mats and lift dead undercoat; pay special attention to friction areas behind the ears, armpits, beard, and rear feathering.",
+        "Brush thoroughly all the way down to the skin several times a week—and daily for show or heavy coats—using a quality pin brush and undercoat rake or comb to lift dead undercoat and prevent mats behind the ears, under the legs, and in the beard.",
 
       bathing:
-        "Bathe every six to eight weeks or when soiled, using a moisturizing canine shampoo and conditioning rinse; avoid excessive blow-drying on hot settings to maintain the dry, natural coat texture.",
+        "Bathe as needed based on lifestyle—ranging from monthly to less frequently—after a complete pre-bath brush-out so water does not tighten existing tangles.",
 
       notes: [
-        "Never shave the double coat; the long goat-like hair protects against harsh winter freezing, thorny scrub, and summer radiant heat.",
-        "Check and comb the facial beard and moustache clean after eating to prevent food crusting and moisture odor.",
-        "Inspect double dewclaws on both hind legs weekly and trim nails regularly, as they do not wear down naturally on the ground.",
-        "Inspect the drop ears weekly for wax buildup, moisture, or debris, cleaning gently with a veterinary ear cleanser.",
-        "Trim hair between paw pads to maintain traction and prevent ice balls during winter walks.",
-        "Brush teeth several times weekly with canine-formulated enzymatic toothpaste."
+        "Introduce puppies to brushing early and positively so adult grooming sessions remain calm and cooperative.",
+        "Avoid shaving the coat, as the dry double coat insulates against cold, brush, and sun.",
+        "Check the double rear dewclaws weekly and trim their nails regularly because they do not touch the ground to wear down naturally.",
+        "Wipe and comb the beard and moustache after meals and drinks to prevent food buildup and odor.",
+        "Inspect the hair-covered ears weekly for wax, redness, or moisture, and brush teeth several times a week."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; exceptionally intelligent, eager to please, and quick to learn, but possesses a strong will, independent mind, and acute sensitivity that requires calm, consistent leadership",
+        "Moderate; bright, eager to please, and blessed with a sharp memory, yet bred to make independent decisions and test inconsistent handlers",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
-        "Keep training sessions varied, cheerful, and purposeful to prevent boredom from mechanical repetition.",
-        "Establish fair, consistent household boundaries from early puppyhood.",
-        "Begin loose-leash walking, impulse control, and gentle socialization early before adult strength develops.",
-        "Avoid harsh verbal corrections or physical intimidation, which cause this proud shepherd to lose trust and withdraw.",
-        "Channel natural herding instincts into structured dog sports or fetch games rather than allowing heel-nipping of running children."
+        "Keep training lively, upbeat, and varied so this clever thinker stays engaged.",
+        "Use reward-based methods with clear, steady boundaries—harsh corrections erode trust in this sensitive shepherd.",
+        "Begin loose-leash walking and impulse control early before the dog reaches full adult strength.",
+        "Redirect natural herding impulses into structured sports or fetch rather than allowing heel-nipping of running children.",
+        "Maintain ongoing training and socialization well beyond puppyhood."
       ],
 
       socialization:
-        "Introduce the puppy early, calmly, and positively to diverse people, friendly vaccinated dogs of varying sizes, household appliances, novel surfaces, and busy environments. Early structured socialization prevents natural reservedness from developing into aloof suspicion, resulting in a confident, well-adjusted guardian."
+        "Expose puppies early and continuously to unfamiliar people, calm dogs, urban noise, and varied settings so their natural reserve stays steady and confident rather than suspicious."
     },
 
     livingEnvironment: {
@@ -237,84 +227,78 @@ export const briard: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool and cold climates, where the dense double coat provides natural thermal protection",
-        "Warm climates, provided indoor cooling, shade, and fresh water are available and exercise occurs during cooler morning or evening hours"
+        "Cool and cold climates suited to its weather-resistant double coat",
+        "Warm climates when indoor cooling, shade, fresh water, and cooler-hour exercise are provided"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; intensely people-oriented and deeply bonded to family, prone to separation distress, nuisance barking, or destructive behaviors if left isolated for long workdays without companionship."
+        "Low to moderate; deeply bonded to its household and best suited to homes where it is included in daily life rather than isolated for long stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large active breeds, adjusted for age, activity level, and metabolic rate.",
+      "Complete, balanced dog food formulated for an active large-breed dog and matched to life stage (large-breed puppy, adult, or senior).",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a large-breed growth diet supporting steady skeletal development.",
-      adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Three to four small measured meals daily until six months of age on a large-breed growth formula",
+      adult: "Two measured meals per day",
+      senior: "Two portion-controlled meals per day adjusted for lower activity"
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt through the thick coat. Divide daily food into two distinct meals, restrict vigorous exercise for at least one hour before and after eating, use narrow food bowls or ear snoods to keep the beard clean, and provide cool, clean drinking water continuously.",
+      "Serve measured portions rather than free-feeding, checking body condition by feeling the ribs beneath the long coat to prevent gradual weight gain. Provide fresh, clean water at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical strain on hips, elbows, and the spine.",
-      "Account for training treats within the total daily caloric budget to prevent stealth weight gain.",
-      "Use narrow spaniel-style bowls or elevated stands to prevent the long beard from soaking in water dishes.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep weight lean to protect large-breed hips and elbows from excess strain.",
+      "Limit training treats within the daily calorie budget, as some individuals gain weight easily.",
+      "Split daily food into two meals and avoid vigorous running right before or after eating to help reduce bloat risk in this deep-chested breed.",
+      "Use narrow bowls or beard-friendly dishes to keep facial furnishings cleaner when drinking.",
+      "Transition gradually over five to seven days when changing diets."
     ],
 
     note:
-      "Caloric needs vary significantly based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Daily calorie needs depend on age, activity level, and neuter status; consult a veterinarian before using home-prepared diets or supplements."
   },
 
   health: {
     overview:
-      "The Briard is a robust, hardy pastoral breed with a typical life expectancy of 10 to 12 years. Developed over centuries for demanding physical work across the French countryside, it has largely avoided many severe constitutional exaggerations. Primary hereditary health priorities include congenital stationary night blindness (CSNB, caused by an identified mutation in the RPE65 gene), hip dysplasia, elbow dysplasia, gastric dilatation-volvulus (GDV / bloat), autoimmune thyroiditis, and progressive retinal atrophy.",
+      "The Briard is generally a hardy large breed with a typical lifespan of 10 to 12 years (often averaging around 12 years). Scientifically established inherited priorities include congenital stationary night blindness (CSNB), caused by an autosomal recessive 4-base-pair deletion in the RPE65 gene—now fully preventable through pre-breeding DNA testing—and hip dysplasia. Other ocular conditions monitored by veterinary ophthalmologists include cataracts, corneal dystrophy, and retinal folds. Additional health concerns noted by breeders and veterinary sources, though less uniformly quantified across populations, include elbow dysplasia, autoimmune thyroiditis (hypothyroidism), gastric dilatation-volvulus (GDV / bloat, a risk for deep-chested large dogs), cancer, immune-mediated disorders, exocrine pancreatic insufficiency, and kidney disease.",
 
     commonConditions: [
-      "Congenital stationary night blindness (CSNB) — an inherited, non-progressive retinal disorder caused by an autosomal recessive deletion in the RPE65 gene, leading to severe night blindness and reduced visual acuity from puppyhood, fully preventable through pre-breeding DNA testing",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb lameness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening emergency in deep-chested dogs where the stomach distends with gas and twists on its axis",
-      "Progressive retinal atrophy (PRA) and hereditary cataracts — degenerative or clouding conditions of the eye that can impair vision",
-      "Autoimmune thyroiditis — immune-mediated inflammation of the thyroid gland resulting in hypothyroidism, weight gain, and skin changes",
-      "Allergic dermatitis — occasional sensitivities to environmental allergens or fleas causing skin itching and secondary infections"
+      "Congenital stationary night blindness (CSNB) — a well-established autosomal recessive retinal disorder caused by a 4-base-pair deletion in the RPE65 gene that impairs night vision and retinal function from puppyhood; completely preventable through pre-breeding DNA screening.",
+      "Hip dysplasia — a recognized developmental hip-joint disorder in large breeds that can lead to arthritis and lameness; screened radiographically prior to breeding (typically at 24 months or older).",
+      "Ocular disorders (cataracts, corneal dystrophy, retinal folds) — eye conditions monitored through periodic board-certified veterinary ophthalmologist examinations.",
+      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening stomach twisting emergency to watch for in large, deep-chested breeds.",
+      "Elbow dysplasia (optional screening) — developmental elbow-joint abnormalities monitored by breeders via radiographic evaluation.",
+      "Autoimmune thyroiditis / hypothyroidism (optional screening) — immune-mediated thyroid inflammation affecting metabolism, weight, and coat quality.",
+      "Other reported or monitored conditions — cancer, immune-mediated diseases, exocrine pancreatic insufficiency, and kidney disease have been noted in breed health guidance and warrant routine veterinary vigilance."
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified DNA clearances for congenital stationary night blindness (RPE65 / CSNB), alongside certified radiographic hip and elbow clearances and annual ophthalmologist eye certifications.",
-      "Maintain a lean body condition throughout life to minimize mechanical wear on hips, elbows, and knees.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Inspect and clean the long drop ears weekly, wiping canals with a veterinary ear wash and drying thoroughly.",
-      "Inspect double dewclaws on both rear legs weekly and trim them regularly to prevent catching or tearing.",
-      "Brush teeth several times weekly with canine enzymatic toothpaste.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify pre-breeding DNA clearance for congenital stationary night blindness (RPE65 / CSNB), radiographic hip evaluation, and veterinary ophthalmologist eye exams when choosing a puppy.",
+      "Feed two measured meals daily and rest the dog before and after meals to help lower bloat risk, while learning early emergency signs of GDV.",
+      "Keep body weight lean to reduce long-term wear on hips and elbows.",
+      "Inspect and trim double rear dewclaws weekly so they do not snag or tear during active play.",
+      "Maintain regular coat brushing, ear checks, dental care, and annual veterinary wellness visits."
     ],
 
     recommendedScreenings: [
-      "DNA marker test for Congenital Stationary Night Blindness (RPE65 gene mutation) prior to breeding",
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Autoimmune thyroiditis blood profile"
+      "DNA test for congenital stationary night blindness (RPE65 / CSNB) prior to breeding",
+      "Radiographic hip dysplasia evaluation (typically at 24 months of age or older)",
+      "Board-certified veterinary ophthalmologist eye examination (at least once between 6 months and 8 years of age, and periodically for breeding stock)",
+      "Optional but recommended screenings: radiographic elbow dysplasia evaluation and full autoimmune thyroiditis blood panel (FT4D, cTSH, TgAA)"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, wide jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times per week using canine enzymatic toothpaste, paired with routine veterinary dental checks to keep the strong jaws and scissor-bite dentition healthy.",
 
     earCare:
-      "Inspect the high-set drop ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check the hair-covered drop ears weekly for wax buildup, odor, or redness, cleaning gently with a veterinarian-approved solution and drying carefully.",
 
     skinCare:
-      "Part the dense coat weekly during line-brushing to inspect the skin for external parasites, redness, or mats. Avoid shaving the double coat; regular brushing preserves skin aeration and coat insulation."
+      "Part the long coat down to the skin during weekly brushing to check for mats, parasites, or skin irritation; keep the coat clean and mat-free rather than shaving it."
   },
 
   suitability: {
@@ -325,90 +309,69 @@ export const briard: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Experienced dog owners familiar with herding drives, working vigilance, and large pastoral breeds",
-      "Active outdoor households that enjoy long trail hikes, running, and herding sports",
-      "Rural or semi-rural properties with spacious, securely fenced yards or working pasture acreage",
-      "Owners committed to regular line-brushing, coat grooming, and mental problem-solving enrichment",
-      "Families seeking an intensely loyal, protective, and affectionate companion of the hearth"
+      "Experienced handlers comfortable with large, strong-willed herding breeds",
+      "Active households that enjoy daily hikes, running, herding, or dog sports",
+      "Homes with a large, securely fenced yard or rural space",
+      "Owners willing to commit several sessions a week to thorough coat brushing",
+      "Families seeking an intensely loyal, watchful, and affectionate companion"
     ],
 
     notIdealFor: [
-      "Novice or passive dog owners unprepared for high physical energy, herding drive, and independent intelligence",
-      "Apartment dwellers or dense urban households without access to extensive open exercise areas",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People seeking a low-maintenance pet that requires no brushing or coat care",
-      "Individuals intolerant of shed hair, muddy paws, and damp beards around the home"
+      "First-time dog owners unprepared for high energy and independent herding instincts",
+      "Apartment dwellers without reliable access to large open exercise areas",
+      "Households that leave a dog alone for long workdays on a routine basis",
+      "Owners looking for a low-grooming coat or a dog that greets every stranger enthusiastically"
     ]
   },
 
   funFacts: [
-    "A beloved historical French saying poetically describes the Briard as 'a heart wrapped in fur' (un coeur enveloppé de poils), celebrating its intense tenderness with family members despite its imposing, rugged exterior.",
-    "A defining, mandatory anatomical requirement of the breed standard is the presence of functional double dewclaws placed low on both rear legs; historical shepherds believed these extra digits acted like snowshoes, providing extra stability and grip on muddy, wet pasture terrain.",
-    "Thomas Jefferson was a passionate admirer of the breed; while serving as the American minister to France in the late 1780s, he purchased a pregnant Briard named Bergère, brought her and her puppies home to Virginia, and praised their herding prowess at Monticello.",
-    "During World War I, the French military employed thousands of Briards as official sentries, messengers, and red-cross ambulance dogs; their keen senses allowed them to distinguish living wounded soldiers from the dead on muddy battlefields.",
-    "Legend recounts the 'Dog of Montargis', a fourteenth-century French sheepdog said to be of Briard ancestry that famously unmasked and defeated its master's murderer in judicial single combat before the King of France.",
-    "The distinctive J-shaped hook at the tip of the Briard's tail is known in French as a 'crochet', a hallmark trait that must never curl over the back or twist to either side."
+    "French admirers famously call the Briard 'a heart wrapped in fur,' capturing its gentle loyalty to family beneath a rugged exterior.",
+    "Two fully formed double dewclaws on each hind leg are a classic breed hallmark traditionally prized by shepherds for extra traction on uneven pasture ground.",
+    "Both Thomas Jefferson and the Marquis de Lafayette are credited with helping introduce Briards to the United States.",
+    "During both World Wars, French troops relied on Briards as sentries, pack dogs, and battlefield ambulance dogs helping search parties find wounded soldiers.",
+    "The uncut tail ends in a gentle J-shaped hook known in French as a 'crochet.'"
   ],
 
   faq: [
     {
-      question: "What is a Briard?",
+      question: "How big does a Briard get?",
       answer:
-        "The Briard (Berger de Brie) is an ancient, large-sized French herding and sheepdog known for its long, goat-like coat, prominent beard and eyebrows, double rear dewclaws, and deeply affectionate, loyal personality."
+        "Adult male Briards stand 62 to 68 cm at the withers and typically weigh 32 to 45 kg, while females stand 56 to 64 cm and typically weigh 23 to 29 kg."
     },
     {
-      question: "What are double dewclaws, and why does the Briard have them?",
+      question: "Why do Briards have double dewclaws on their back legs?",
       answer:
-        "Double dewclaws are two fully formed, bony digits situated low on the inner side of each rear leg. In the Briard, they are an essential breed hallmark that historically provided extra traction, foot surface area, and stability when herding livestock across wet, uneven pasture land."
+        "Double dewclaws—two distinct, well-separated toes with nails placed low on each hind leg—are a signature trait preserved by French shepherds, who valued the wider foot base for stability and grip while working rough pastures."
     },
     {
-      question: "How tall and heavy is a Briard?",
+      question: "How long do Briards live?",
       answer:
-        "Adult males stand 62 to 68 cm at the withers and weigh 30 to 40 kg, while adult females stand 56 to 64 cm and weigh 25 to 35 kg, presenting an athletic and powerful build."
+        "Briards typically live 10 to 12 years, with average life expectancy often cited around 12 years."
     },
     {
-      question: "How long does a Briard live?",
+      question: "How much grooming does a Briard coat require?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 12 years."
+        "Plan on thorough brushing and combing all the way down to the skin several times a week (and daily for heavy coats) using a pin brush and undercoat rake to prevent mats. Start brushing gently in puppyhood, and avoid shaving the natural double coat."
     },
     {
-      question: "Do Briards shed a lot, and how is their coat groomed?",
+      question: "Are Briards suited to apartment living?",
       answer:
-        "Briards are relatively low shedders because loose undercoat hairs become trapped within the outer coat. They require thorough line-brushing and combing down to the skin two to three times a week to prevent matting, but they should never be shaved."
+        "Generally no. Their large frame, strong working stamina, and watchful herding nature are much better suited to a house with a large, securely fenced yard and generous daily exercise."
     },
     {
-      question: "Are Briards good family dogs and good with children?",
+      question: "What is congenital stationary night blindness (CSNB) in Briards?",
       answer:
-        "Yes. Within their own household, they are famously gentle, protective, and affectionate with children; however, because of their size and herding instincts, interactions with toddlers should be supervised, and early training is necessary to prevent heel-nipping."
+        "CSNB is an inherited retinal condition caused by a specific 4-base-pair deletion in the RPE65 gene that impairs night vision from puppyhood. Because a reliable DNA test exists, responsible breeders test breeding stock to avoid producing affected puppies."
     },
     {
-      question: "Can a Briard live in an apartment?",
+      question: "What health screenings should Briard breeders complete?",
       answer:
-        "No. Due to their large size, working stamina, and natural desire to patrol property boundaries, they are not suited to apartment living and thrive best in a house with a securely fenced yard or rural acreage."
-    },
-    {
-      question: "Is the Briard easy to train?",
-      answer:
-        "They are exceptionally intelligent, quick to learn, and eager to please, but have an independent, sensitive mind. Training requires patient, reward-based methods and clear, calm consistency rather than harsh reprimands."
-    },
-    {
-      question: "How much exercise does a Briard need each day?",
-      answer:
-        "The breed requires 60 to 90 minutes of daily physical activity, including brisk walks, trail hiking, fetch sessions, and mental challenges like herding, tracking, or agility."
-    },
-    {
-      question: "What is Congenital Stationary Night Blindness (CSNB)?",
-      answer:
-        "Congenital stationary night blindness is an inherited eye disorder caused by a mutation in the RPE65 gene that impairs night vision from puppyhood. A definitive DNA test is available to ensure that carrier matings never produce affected dogs."
-    },
-    {
-      question: "What health tests are recommended for breeding Briards?",
-      answer:
-        "Recommended pre-breeding screenings include DNA testing for congenital stationary night blindness (CSNB), radiographic hip and elbow dysplasia evaluations, and veterinary ophthalmologist eye exams."
+        "Core pre-breeding tests include a CSNB (RPE65) DNA test, radiographic hip evaluation (typically at 24 months or older), and a veterinary ophthalmologist eye exam, with elbow radiographs and an autoimmune thyroid panel also recommended."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-briard-official-standard",
     "fci-briard-nomenclature",
     "scc-briard-breed-standard",
@@ -416,20 +379,28 @@ export const briard: Breed = {
     "akc-briard-breed-standard",
     "akc-briard-breed-profile",
     "the-kennel-club-briard-breed-standard",
+    "rkc-briard-breed-profile",
     "ukc-briard-breed-standard",
     "ofa-briard-chic-requirements",
+    "bca-briard-ofa-chic",
     "briard-csnb-rpe65-study-1998",
+    "the-dog-api",
     "wikimedia-berger-de-brie-fawn-tomasz-sienicki",
     "wikimedia-chien-de-berger-de-brie-pleple2000"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Related ITIS Names: Canis lupus familiaris Linnaeus, 1758 (TSN 726821); Wilson and Reeder 2005"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: "Standard domestic dog subspecies taxonomy verified via NatureServe Explorer / ITIS."
     },
 
     alternateNames: {
@@ -438,26 +409,21 @@ export const briard: Breed = {
         {
           id: "fci-briard-official-standard",
           role: "verified",
-          locator: "Standard heading: BERGER DE BRIE (Briard)"
+          locator: "Standard heading: BERGER DE BRIE (Briard); French Lowlands Sheepdog"
         },
         {
           id: "fci-briard-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: BERGER DE BRIE (113), Briard"
+          locator: "BERGER DE BRIE (113), BRIARD"
         },
         {
-          id: "scc-briard-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Dénomination officielle: Berger de Brie (Briard)"
-        },
-        {
-          id: "akc-briard-breed-profile",
-          role: "verified",
-          locator: "History: Briard, Berger de Brie"
+          locator: "alternateNames: Berger de Brie"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 113, FCI Nomenclature, SCC, and AKC."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     group: {
@@ -466,17 +432,13 @@ export const briard: Breed = {
         {
           id: "fci-briard-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattle Dogs), Section 1 Sheepdogs, with working trial"
+          locator:
+            "Group 1 Sheepdogs and Cattle Dogs (except Swiss Cattle Dogs), Section 1 Sheepdogs, with working trial"
         },
         {
-          id: "fci-briard-nomenclature",
+          id: "akc-briard-breed-profile",
           role: "verified",
-          locator: "Group 1, Section 1 Sheepdogs, with working trial"
-        },
-        {
-          id: "akc-briard-breed-standard",
-          role: "verified",
-          locator: "Herding Group"
+          locator: "Herding Group (recognized 1928)"
         },
         {
           id: "the-kennel-club-briard-breed-standard",
@@ -489,31 +451,31 @@ export const briard: Breed = {
           locator: "Herding Dog Group"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group label avoids registry acronyms and group numbers per Rule 5."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-briard-official-standard",
-          role: "verified",
-          locator: "ORIGIN: France; BRIEF HISTORICAL SUMMARY"
-        },
-        {
           id: "fci-briard-nomenclature",
           role: "verified",
-          locator: "Country of origin: France"
+          locator: "Country of origin: FRANCE"
         },
         {
-          id: "scc-briard-breed-standard",
+          id: "fci-briard-official-standard",
           role: "verified",
-          locator: "Origine: France (plaines de Brie)"
+          locator: "ORIGIN: France; French Lowlands Sheepdog / chien de Brie"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "origin.country: France"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -523,27 +485,27 @@ export const briard: Breed = {
         {
           id: "fci-briard-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator:
+            "UTILIZATION, BRIEF HISTORICAL SUMMARY (1809 Abbé Rozier, WWI/WWII sentinel & ambulance dog), GENERAL APPEARANCE"
         },
         {
           id: "scc-briard-breed-standard",
           role: "verified",
-          locator: "Historique, aptitudes herbagères, morphologie et caractère"
+          locator: "Historique (1809, 1897 goat-hair vs woolly varieties) & Description générale"
         },
         {
-          id: "club-du-chien-de-brie-profile",
+          id: "rkc-briard-breed-profile",
           role: "verified",
-          locator: "Histoire du Chien de Brie, Abbé Rozier 1809, Gaston Phoebus, Thomas Jefferson, et sélection moderne"
+          locator: "About this breed (1863 first French dog show, 1897 recognition, WWI/WWII)"
         },
         {
           id: "akc-briard-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (Thomas Jefferson, World War I sentry work), and Roles"
+          locator: "About the Breed, History, Did You Know (Lafayette, Thomas Jefferson)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesized in original prose from FCI Standard No. 113, SCC, French parent club, and AKC official records."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     physical: {
@@ -552,22 +514,23 @@ export const briard: Breed = {
         {
           id: "fci-briard-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS (double dewclaws), COAT, COLOUR, SIZE"
+          locator:
+            "HEAD, EYES (oval, paler allowed in blue dogs), NOSE (blue/bluish in blue dogs), EARS, DOUBLE DEWCLAWS, COAT (goat-like, >=7 cm, slight undercoat), COLOUR"
         },
         {
-          id: "scc-briard-breed-standard",
+          id: "the-kennel-club-briard-breed-standard",
           role: "verified",
-          locator: "Morfologie, tête, double ergots, toison de chèvre et couleurs"
+          locator: "General appearance, Eyes, Mouth, Neck (updated 2025-08-01)"
         },
         {
           id: "akc-briard-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Head, Double Dewclaws, Body, Coat, Color"
+          locator: "General Appearance, Tail (J-crook), Hindquarters (double dewclaws)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "Conformation, rectangular build, goat-hair coat, double dewclaws on hind legs, J-shaped tail, and distinctive features follow official standards."
+        "Corrected undercoat to 'light/slight', eye shape to 'oval' (with paler eyes allowed in blue dogs), and warm fawn shading to lighter on extremities per FCI Standard No. 113."
     },
 
     "physical.height": {
@@ -576,81 +539,148 @@ export const briard: Breed = {
         {
           id: "fci-briard-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: Males: 62 cm to 68 cm. Females: 56 cm to 64 cm."
+          locator: "SIZE: Males 62–68 cm at the withers; Females 56–64 cm at the withers"
         },
         {
-          id: "scc-briard-breed-standard",
-          role: "verified",
-          locator: "Taille: Mâles: 62 à 68 cm; Femelles: 56 à 64 cm"
+          id: "akc-briard-breed-profile",
+          role: "conflicting",
+          locator: "Height: 23–27 inches (male), 22–25.5 inches (female)"
         },
         {
-          id: "akc-briard-breed-standard",
-          role: "verified",
-          locator: "Height: Males: 23 to 27 inches (approx. 58.5 to 68.5 cm); Females: 22 to 25.5 inches (approx. 56 to 65 cm)"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height (cm): male 58–69, female 56–65"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "Preserved in published unit of centimetres (62–68 cm for males, 56–64 cm for females) exactly as specified in the official FCI Standard No. 113 and SCC standard."
+        "Kept FCI Standard No. 113 metric heights (62–68 cm males, 56–64 cm females) over The Dog API (58–69 / 56–65 cm) and AKC inch ranges."
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-briard-official-standard",
+          role: "verified",
+          locator: "SIZE: Males 62–68 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height.male.max: 69 cm"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-briard-official-standard",
+          role: "verified",
+          locator: "SIZE: Females 56–64 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height.female.max: 65 cm"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "scc-briard-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Poids: Mâles: environ 30 à 40 kg; Femelles: environ 25 à 35 kg"
-        },
-        {
-          id: "club-du-chien-de-brie-profile",
-          role: "verified",
-          locator: "Poids moyen: 30-40 kg pour les mâles, 25-35 kg pour les femelles"
+          locator: "weight (kg): male 32–45, female 23–29"
         },
         {
           id: "akc-briard-breed-profile",
-          role: "verified",
-          locator: "Weight: 55-100 pounds (approx. 25-45 kg)"
+          role: "cited",
+          locator: "Weight: 55–100 pounds (overall range in pounds)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "FCI Standard No. 113 specifies height ranges without publishing numerical weight limits. The stored 30 to 40 kg for males and 25 to 35 kg for females represent canonical figures published by SCC and the French parent club, preserved in kilograms."
+        "FCI Standard No. 113 does not publish numerical weight limits. Stored The Dog API's published metric weights (32–45 kg males, 23–29 kg females), consistent with AKC's 55–100 lb range."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "weight.male.max: 45 kg"
+        },
+        {
+          id: "akc-briard-breed-profile",
+          role: "cited",
+          locator: "Weight upper range: 100 pounds"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "weight.female.max: 29 kg"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-briard-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Life Expectancy: 12 years (typical range 10-12 years)"
+          locator: "lifespanYears: 10–12"
         },
         {
-          id: "the-kennel-club-briard-breed-standard",
+          id: "akc-briard-breed-profile",
           role: "verified",
-          locator: "Longevity and health actuarial profile (10-12 years)"
+          locator: "Life Expectancy: 12 years"
+        },
+        {
+          id: "rkc-briard-breed-profile",
+          role: "cited",
+          locator: "Lifespan: Over 10 years"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and breed club actuarial profiles."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "physical.sheddingLevel": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-briard-breed-profile",
+          id: "rkc-briard-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
+          locator: "Breed characteristics: Sheds: Yes"
         },
         {
-          id: "fci-briard-official-standard",
+          id: "akc-briard-breed-profile",
           role: "verified",
-          locator: "COAT: Long, dry, supple goat-like hair with dense undercoat; low shedding when brushed"
+          locator: "Grooming: undercoat rake eliminates dead hair and lessens shedding"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -658,18 +688,18 @@ export const briard: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-briard-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Drooling Level (2/5)"
-        },
-        {
           id: "fci-briard-official-standard",
           role: "verified",
-          locator: "Lips: Tight fitting lips; beard collects moisture"
+          locator: "Lips: tight fitting"
+        },
+        {
+          id: "akc-briard-breed-profile",
+          role: "verified",
+          locator: "Breed Traits: Drooling Level"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Tight lips result in low to moderate drooling, though beards retain drinking moisture."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "temperament.traits": {
@@ -678,20 +708,21 @@ export const briard: Breed = {
         {
           id: "fci-briard-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Temperament of balanced character, neither aggressive nor timid, courageous, devoted"
+          locator:
+            "BEHAVIOUR/TEMPERAMENT: Balanced temperament, neither aggressive nor timid; steady and fearless"
         },
         {
-          id: "scc-briard-breed-standard",
+          id: "akc-briard-breed-profile",
           role: "verified",
-          locator: "Caractère: Équilibré, fidèle, protecteur, sage et hardi"
+          locator: "confident / smart / faithful; protective of family, wary with outsiders; excellent memory"
         },
         {
-          id: "akc-briard-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "General Impression: Heart wrapped in fur, fearless, gentle, intelligent, faithful"
+          locator: "temperament.traits: Loyal, intelligent, protective, confident, courageous, devoted"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -701,17 +732,16 @@ export const briard: Breed = {
         {
           id: "akc-briard-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics"
         },
         {
-          id: "the-kennel-club-briard-breed-standard",
+          id: "fci-briard-official-standard",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Behaviour / Temperament"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented pastoral guardian temperament, high family devotion, and territorial vigilance."
+      note: "Editorial 1–5 ratings synthesized from kennel club descriptions."
     },
 
     care: {
@@ -720,34 +750,33 @@ export const briard: Breed = {
         {
           id: "akc-briard-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming, Exercise, Training, Nutrition"
         },
         {
-          id: "club-du-chien-de-brie-profile",
+          id: "rkc-briard-breed-profile",
           role: "cited",
-          locator: "Entretien du pelage, ergots et éducation pastorale"
+          locator: "Breed characteristics: Exercise (more than 2 hours/day), Grooming (every day), Large house/garden"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active pastoral shepherd management with goat-hair double coat line-brushing and dewclaw care protocols."
+      note: null
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-briard-breed-profile",
+          id: "rkc-briard-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
+          locator: "Exercise: More than 2 hours per day"
         },
         {
-          id: "fci-briard-official-standard",
+          id: "akc-briard-breed-profile",
           role: "verified",
-          locator: "UTILIZATION: Sheepdog and guard dog"
+          locator: "Exercise: requires a job and craves action (hikers, bicyclers, joggers)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -755,38 +784,36 @@ export const briard: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-briard-breed-standard",
+          id: "rkc-briard-breed-profile",
           role: "cited",
-          locator: "Exercise: Up to 1 hour or more per day"
+          locator: "Exercise: More than 2 hours per day"
         },
         {
           id: "akc-briard-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
+          locator: "Exercise recommendations"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic working herding breed."
+      note: "Editorial estimate of 60–120 minutes/day reflecting high pastoral exercise needs."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
-          id: "akc-briard-breed-profile",
+          id: "rkc-briard-breed-profile",
           role: "cited",
-          locator: "Large size, exercise needs, and territorial flock vigilance"
+          locator: "Size of home: Large house; Size of garden: Large garden"
         },
         {
-          id: "club-du-chien-de-brie-profile",
+          id: "akc-briard-breed-profile",
           role: "cited",
-          locator: "Cadre de vie recommandé: maison avec grand jardin"
+          locator: "Exercise: needs a large, securely fenced area"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that large size, vigorous herding drive, and territorial vigilance make apartment living generally unsuitable."
+      note: null
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -795,15 +822,15 @@ export const briard: Breed = {
         {
           id: "akc-briard-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
+          locator: "Exercise: large, securely fenced area"
         },
         {
-          id: "club-du-chien-de-brie-profile",
+          id: "rkc-briard-breed-profile",
           role: "verified",
-          locator: "Espace extérieur sécurisé pour l'exercice"
+          locator: "Size of home: Large house; Size of garden: Large garden"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -813,15 +840,15 @@ export const briard: Breed = {
         {
           id: "fci-briard-official-standard",
           role: "verified",
-          locator: "COAT: Harsh, dry goat-hair coat with undercoat adapted to outdoor pasture weather"
+          locator: "COAT: long, dry goat-like hair with light undercoat"
         },
         {
-          id: "akc-briard-breed-profile",
+          id: "rkc-briard-breed-profile",
           role: "verified",
-          locator: "Weather adaptation: well-suited to cool and temperate climates"
+          locator: "Pastoral Group weatherproof double coat"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -831,10 +858,15 @@ export const briard: Breed = {
         {
           id: "akc-briard-breed-profile",
           role: "verified",
-          locator: "Tolerates Being Alone: Low to moderate; deeply attached to family"
+          locator: "About the Breed & Exercise: strong need for human companionship"
+        },
+        {
+          id: "scc-briard-breed-standard",
+          role: "verified",
+          locator: "Comportement: ne doit pas être relégué en chenil ni attaché"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -844,12 +876,11 @@ export const briard: Breed = {
         {
           id: "akc-briard-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
+          locator: "Nutrition: high-quality age-appropriate food, calorie/weight monitoring"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active large herding breeds."
+      note: null
     },
 
     "nutrition.feedingFrequency": {
@@ -858,11 +889,11 @@ export const briard: Breed = {
         {
           id: "akc-briard-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance"
+          locator: "Age-appropriate diet guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard large-breed life-stage feeding schedule."
     },
 
     "health.overview": {
@@ -871,22 +902,27 @@ export const briard: Breed = {
         {
           id: "briard-csnb-rpe65-study-1998",
           role: "verified",
-          locator: "Identification of the RPE65 gene deletion causing congenital stationary night blindness in Briards"
+          locator: "Mol Vis 1998 (PMID 9808841): homozygous 4-bp (AAGA) deletion in RPE65 causing CSNB"
         },
         {
-          id: "ofa-briard-chic-requirements",
+          id: "bca-briard-ofa-chic",
           role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, CAER Eye exam, CSNB DNA test"
+          locator: "Required: Hip Dysplasia (min 24 mo), ACVO Eye Exam, CSNB DNA; Optional: Autoimmune Thyroiditis, Elbow Dysplasia"
         },
         {
-          id: "club-du-chien-de-brie-profile",
+          id: "rkc-briard-breed-profile",
           role: "verified",
-          locator: "Santé, dépistage de la cécité crépusculaire (CSNB), dysplasie de la hanche et torsions gastriques"
+          locator: "CSNB DNA test, BVA/KC Hip Scheme, and Jan 6, 2025 import/overseas-sire CSNB registration restriction"
+        },
+        {
+          id: "akc-briard-breed-profile",
+          role: "verified",
+          locator: "Health: hip dysplasia, CSNB, cataracts, corneal dystrophy, retinal folds, hypothyroidism, immune diseases, EPI, kidney disease, cancer"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "Synthesizes peer-reviewed genetics research on congenital stationary night blindness with health registry screening protocols."
+        "Distinguishes genetically established conditions and required screenings from optional/reported concerns per Rule 8."
     },
 
     "health.commonConditions": {
@@ -895,77 +931,76 @@ export const briard: Breed = {
         {
           id: "briard-csnb-rpe65-study-1998",
           role: "verified",
-          locator: "Congenital stationary night blindness (CSNB) pathology and genetic mechanism"
+          locator: "RPE65 4-bp deletion and CSNB (PMID 9808841)"
         },
         {
-          id: "ofa-briard-chic-requirements",
+          id: "bca-briard-ofa-chic",
           role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, and eye diseases"
+          locator: "Hip dysplasia, eye disorders, CSNB, autoimmune thyroiditis, elbow dysplasia"
         },
         {
-          id: "club-du-chien-de-brie-profile",
+          id: "akc-briard-breed-profile",
           role: "verified",
-          locator: "Gastric dilatation-volvulus (bloat), cataracts, progressive retinal atrophy"
+          locator: "Health section condition list"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "club-du-chien-de-brie-profile",
+          id: "bca-briard-ofa-chic",
           role: "cited",
-          locator: "Dépistage obligatoire des reproducteurs, soins des ergots et prévention du retournement d'estomac"
+          locator: "Pre-breeding health testing"
         },
         {
           id: "akc-briard-breed-profile",
           role: "cited",
-          locator: "Routine care, bloat precautions, and veterinary checks"
+          locator: "Grooming, Nutrition, and Health guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to large double-dewclawed herding breeds."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-briard-chic-requirements",
+          id: "bca-briard-ofa-chic",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, CAER Eye examination, CSNB DNA test"
+          locator:
+            "CHIC required: Hip Dysplasia (OFA/PennHIP/International, min 24 mo), ACVO Eye Exam (6 mo–8 yr), CSNB DNA; Optional: Autoimmune Thyroiditis (FT4D, cTSH, TgAA), Elbow Dysplasia"
         },
         {
-          id: "club-du-chien-de-brie-profile",
+          id: "ofa-briard-chic-requirements",
           role: "verified",
-          locator: "Protocole de dépistage: CSNB, hanches, coudes et tares oculaires"
+          locator: "OFA CHIC Briard program"
+        },
+        {
+          id: "rkc-briard-breed-profile",
+          role: "verified",
+          locator: "Good/Best Practice: genetic diversity, CSNB DNA test, BVA/KC Hip Scheme"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-briard-official-standard",
+          id: "the-kennel-club-briard-breed-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong jaws with complete scissor bite"
-        },
-        {
-          id: "akc-briard-breed-profile",
-          role: "cited",
-          locator: "Routine dental care"
+          locator: "Mouth: strong white teeth, complete scissor bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
@@ -974,34 +1009,24 @@ export const briard: Breed = {
         {
           id: "fci-briard-official-standard",
           role: "cited",
-          locator: "Ears: set on high, covered with long hair"
-        },
-        {
-          id: "akc-briard-breed-profile",
-          role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Ears: set on high, flat, covered with long hair"
         }
       ],
       verifiedOn: null,
-      note: "Ear maintenance protocol for heavy drop ears covered with long hair."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-briard-official-standard",
+          id: "akc-briard-breed-profile",
           role: "cited",
-          locator: "Skin: supple, no dewlap; long goat-like hair care"
-        },
-        {
-          id: "club-du-chien-de-brie-profile",
-          role: "cited",
-          locator: "Entretien du poil et prévention des feutrages cutanés"
+          locator: "Grooming: brush completely to the skin several times a week"
         }
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for breeds with dense long double coats."
+      note: null
     },
 
     suitability: {
@@ -1010,17 +1035,17 @@ export const briard: Breed = {
         {
           id: "akc-briard-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "About the Breed, Exercise, Grooming, Training"
         },
         {
-          id: "the-kennel-club-briard-breed-standard",
+          id: "rkc-briard-breed-profile",
           role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
+          locator: "Breed characteristics"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and coat care commitments."
+        "Editorial suitability summary based on large size, high exercise, daily grooming, and herding drive."
     },
 
     funFacts: {
@@ -1029,21 +1054,26 @@ export const briard: Breed = {
         {
           id: "akc-briard-breed-profile",
           role: "verified",
-          locator: "Thomas Jefferson Monticello import (Bergère), 'heart wrapped in fur' saying, World War I sentry work, Dog of Montargis legend"
+          locator: "'heart wrapped in fur', Thomas Jefferson & Lafayette"
         },
         {
           id: "fci-briard-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Double dewclaws, crochet tail, Abbé Rozier 1809"
+          locator: "Double dewclaws, crochet tail, WWI/WWII military service"
+        },
+        {
+          id: "rkc-briard-breed-profile",
+          role: "verified",
+          locator: "About this breed: WWI/WWII pack and search dogs"
         },
         {
           id: "club-du-chien-de-brie-profile",
-          role: "verified",
-          locator: "Historique et traditions pastorales françaises"
+          role: "cited",
+          locator: "French pastoral heritage"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     faq: {
@@ -1052,29 +1082,33 @@ export const briard: Breed = {
         {
           id: "fci-briard-official-standard",
           role: "verified",
-          locator: "Origin, size (62-68 cm / 56-64 cm), coat, colors, double dewclaws, and tail crochet"
+          locator: "Size (62–68 cm / 56–64 cm), double dewclaws, coat"
         },
         {
-          id: "scc-briard-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Poids (30-40 kg / 25-35 kg), longévité (10-12 ans), tempérament"
+          locator: "Weight (32–45 kg / 23–29 kg), lifespan (10–12 years)"
         },
         {
           id: "akc-briard-breed-profile",
           role: "verified",
-          locator: "Grooming, exercise, family suitability, and training"
+          locator: "Grooming, living environment, training"
         },
         {
-          id: "ofa-briard-chic-requirements",
+          id: "briard-csnb-rpe65-study-1998",
           role: "verified",
-          locator: "Recommended health screening panel and CSNB DNA testing"
+          locator: "CSNB RPE65 4-bp deletion (PMID 9808841)"
+        },
+        {
+          id: "bca-briard-ofa-chic",
+          role: "verified",
+          locator: "CHIC pre-breeding health screenings"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-20",
+      note: null
     }
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-20"
 };

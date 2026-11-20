@@ -231,6 +231,7 @@ import { polish_hunting_dog } from "./polish_hunting_dog";
 import { volpino_italiano } from "./volpino_italiano";
 import { wetterhoun } from "./wetterhoun";
 import { labradoodle } from "./labradoodle";
+import { komondor } from "./komondor";
 
 
 export const breedData: readonly Breed[] = [
@@ -461,4 +462,5 @@ export const breedData: readonly Breed[] = [
   volpino_italiano,
   wetterhoun,
   labradoodle,
+  komondor,
 ];

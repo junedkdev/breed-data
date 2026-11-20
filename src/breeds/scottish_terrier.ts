@@ -3,7 +3,7 @@ import type { Breed } from "../schema/breed.types";
 export const scottish_terrier: Breed = {
   slug: "scottish-terrier",
   name: "Scottish Terrier",
-  scientificName: null,
+  scientificName: "Canis lupus familiaris",
 
   alternateNames: [
     "Scottie",
@@ -376,6 +376,7 @@ export const scottish_terrier: Breed = {
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "the-kennel-club-scottish-terrier-breed-standard",
     "rkc-scottish-terrier-breed-profile",
     "fci-scottish-terrier-official-standard",
@@ -393,11 +394,16 @@ export const scottish_terrier: Breed = {
 
   evidence: {
     scientificName: {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Left null because official breed standards do not publish a formal taxonomic scientific name."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Related ITIS Names: Canis lupus familiaris Linnaeus, 1758 (TSN 726821); Wilson and Reeder 2005"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: "Standard domestic dog subspecies taxonomy verified via NatureServe Explorer / ITIS."
     },
 
     alternateNames: {

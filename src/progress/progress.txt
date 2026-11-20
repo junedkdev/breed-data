@@ -152,8 +152,7 @@
 149:griffon_bruxellois_80 - CG
 150:barbet - CG
 151:scottish_terrier - CG
-
-152:briard - CR
+152:briard - CG
 
 153:weimaraner - C
 154:curly_coated_retriever - C
@@ -229,10 +228,10 @@
 224:volpino_italiano - C
 225:wetterhoun - C
 226:labradoodle - C
+227:komondor - C
 
-227:komondor - R
+228:cao_fila_de_sao_miguel - R
 
-228:cao_fila_de_sao_miguel
 229:anatolian_shepherd_dog
 230:soft-coated_wheaten_terrier
 231:plott_hound

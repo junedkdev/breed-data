@@ -14105,35 +14105,35 @@ export const sources = defineSources({
     note: "Official English FCI Standard No. 113 (valid standard dated 2008-11-04, published 2009-01-23). Covers French origin, Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs classification with working trial, rectangular build, long dry goat-hair coat, double dewclaws on rear limbs, J-shaped tail crochet, and withers height (males 62-68 cm, females 56-64 cm).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-briard-nomenclature": {
+"fci-briard-nomenclature": {
     id: "fci-briard-nomenclature",
-    name: "FCI - Briard Breed Nomenclature (No. 113)",
-    url: "https://www.fci.be/en/nomenclature/BRIARD-113.html",
+    name: "FCI - Berger de Brie (Briard) Breed Nomenclature (No. 113)",
+    url: "https://www.fci.be/en/nomenclature/BERGER-DE-BRIE-113.html",
     type: "official_breed_standard",
     publishedOn: "2009-01-23",
-    accessedOn: "2026-11-10",
-    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 1 Section 1 classification with working trial, definitive recognition date (1954-12-14), and official multilingual names (Berger de Brie, Briard).",
+    accessedOn: "2026-11-20",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 1 Section 1 Sheepdogs with working trial, definitive recognition date (1954-12-14), valid standard date (2008-11-04), and official names (Berger de Brie, Briard).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "scc-briard-breed-standard": {
+"scc-briard-breed-standard": {
     id: "scc-briard-breed-standard",
-    name: "Société Centrale Canine - Standard et Profil du Berger de Brie (Briard)",
+    name: "Société Centrale Canine - Berger de Brie",
     url: "https://www.centrale-canine.fr/le-chien-de-race/berger-de-brie",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official French kennel club (SCC) breed profile and standard for the Berger de Brie, detailing pastoral sheepdog history in the Brie region, height (62-68 cm males, 56-64 cm females), weight ranges (30-40 kg males, 25-35 kg females), double dewclaws, and health testing.",
+    accessedOn: "2026-11-20",
+    note: "Official French kennel club (SCC) breed profile for the Berger de Brie detailing 1809 naming, 1897 goat-hair vs. woolly standard history, height (56–68 cm), goat-like coat, and behavior/city living guidance.",
     publisher: "Société Centrale Canine"
   },
-  "club-du-chien-de-brie-profile": {
+"club-du-chien-de-brie-profile": {
     id: "club-du-chien-de-brie-profile",
-    name: "Club du Chien de Brie - Le Briard et son Histoire",
-    url: "https://www.briards-france.com/",
+    name: "Société Centrale Canine - Dossier Le Berger de Brie",
+    url: "https://www.centrale-canine.fr/articles/le-berger-de-brie",
     type: "breed_club",
-    publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official French parent breed club portal documenting the ancient history of the Berger de Brie, Abbé Rozier 1809 differentiation, Thomas Jefferson imports, working herding standards, and mandatory health screenings.",
-    publisher: "Club du Chien de Brie"
+    publishedOn: "2022-06-15",
+    accessedOn: "2026-11-20",
+    note: "Official SCC breed dossier on the Berger de Brie covering rural pastoral history, character and working functionality, and standard commentary.",
+    publisher: "Société Centrale Canine"
   },
   "akc-briard-breed-standard": {
     id: "akc-briard-breed-standard",
@@ -14145,24 +14145,24 @@ export const sources = defineSources({
     note: "Official AKC breed standard (Herding Group) establishing height (males 23 to 27 inches, females 22 to 25.5 inches), rectangular proportions, mandatory double dewclaws on hind legs, goat-like coat texture, J-tail, and herding temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-briard-breed-profile": {
+"akc-briard-breed-profile": {
     id: "akc-briard-breed-profile",
     name: "American Kennel Club - Briard Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/briard/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed profile covering French pastoral history, Thomas Jefferson Monticello connection, World War I sentry work, weight (55-100 lbs / approx. 25-45 kg), lifespan (12 years), temperament, and grooming.",
+    accessedOn: "2026-11-20",
+    note: "Official AKC breed profile (Herding Group, recognized 1928) listing height (23–27 inches male, 22–25.5 inches female), weight (55–100 pounds), life expectancy (12 years), grooming, exercise, training, nutrition, health conditions, and recommended tests (Hip, Ophthalmologist, CSNB DNA).",
     publisher: "American Kennel Club"
   },
-  "the-kennel-club-briard-breed-standard": {
+"the-kennel-club-briard-breed-standard": {
     id: "the-kennel-club-briard-breed-standard",
     name: "The Royal Kennel Club - Briard Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/pastoral/briard/",
+    url: "https://www.royalkennelclub.com/breed-standards/pastoral/briard/",
     type: "official_breed_standard",
-    publishedOn: "2025-04-01",
-    accessedOn: "2026-11-10",
-    note: "Official Royal Kennel Club breed standard (Pastoral Group) confirming withers height (dogs 62-68 cm; bitches 56-64 cm), double dewclaws, goat-like coat, and pastoral temperament.",
+    publishedOn: "2025-08-01",
+    accessedOn: "2026-11-20",
+    note: "Official Royal Kennel Club breed standard (Pastoral Group, updated 2025-08-01) detailing rugged, supple conformation, dark brown horizontal eyes, complete scissor bite, double dewclaws, and goat-like coat.",
     publisher: "The Royal Kennel Club"
   },
   "ukc-briard-breed-standard": {
@@ -14185,34 +14185,34 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Briard, mandating radiographic hip dysplasia evaluation, CAER eye examination, and DNA testing for Congenital Stationary Night Blindness (CSNB).",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "briard-csnb-rpe65-study-1998": {
+"briard-csnb-rpe65-study-1998": {
     id: "briard-csnb-rpe65-study-1998",
-    name: "A 4-bp Deletion in the Canine RPE65 Gene Causes Congenital Stationary Night Blindness in the Briard (Proc Natl Acad Sci 1998)",
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC24787/",
-    type: "scientific",
-    publishedOn: "1998-12-08",
-    accessedOn: "2026-11-10",
-    note: "Peer-reviewed scientific study (Aguirre et al., PNAS 1998;95(25):14910-14914, PMID 9843989) identifying the causal 4-bp deletion in the RPE65 gene responsible for congenital stationary night blindness (CSNB) in the Briard dog.",
-    publisher: "Proceedings of the National Academy of Sciences / PubMed Central"
+    name: "Congenital Stationary Night Blindness in the Dog: Common Mutation in the RPE65 Gene Indicates Founder Effect (Mol Vis 1998)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/9808841/",
+    type: "scientific_publication",
+    publishedOn: "1998-10-30",
+    accessedOn: "2026-11-20",
+    note: "Peer-reviewed molecular genetics study (Aguirre et al., Mol Vis 1998 Oct 30;4:23, PMID 9808841) identifying the homozygous 4-nucleotide (AAGA) deletion in canine RPE65 (nucleotides 487–490) causing congenital stationary night blindness and retinal dystrophy in Briards.",
+    publisher: "Molecular Vision / PubMed"
   },
-  "wikimedia-berger-de-brie-fawn-tomasz-sienicki": {
+"wikimedia-berger-de-brie-fawn-tomasz-sienicki": {
     id: "wikimedia-berger-de-brie-fawn-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Berger de Brie fawn 711.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Berger_de_Brie_fawn_711.jpg",
+    name: "Wikimedia Commons - File:Briard-fawn.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Briard-fawn.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-10",
-    note: "High-resolution photograph (2016 x 1756 px) of an adult fawn Briard standing outdoors by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2021-08-11",
+    accessedOn: "2026-11-20",
+    note: "Photograph (1511 x 1344 px) of a fawn Briard by Canarian (captured 2021-08-07, uploaded 2021-08-11). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-chien-de-berger-de-brie-pleple2000": {
+"wikimedia-chien-de-berger-de-brie-pleple2000": {
     id: "wikimedia-chien-de-berger-de-brie-pleple2000",
-    name: "Wikimedia Commons - File:Chien de Berger de Brie.JPG",
-    url: "https://commons.wikimedia.org/wiki/File:Chien_de_Berger_de_Brie.JPG",
+    name: "Wikimedia Commons - File:Briard 2 jaar.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Briard_2_jaar.JPG",
     type: "other",
-    publishedOn: "2008-10-18",
-    accessedOn: "2026-11-10",
-    note: "Photograph (2400 x 1800 px) of a black Briard standing in profile at a dog show by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2007-06-07",
+    accessedOn: "2026-11-20",
+    note: "High-resolution photograph (3456 x 2304 px) of a two-year-old Briard by Dardeche (EXIF capture 2007-03-12; original nl.wikipedia upload 2007-05-10; transferred to Commons 2007-06-07 by SieBot). Released into the public domain by the author.",
     publisher: "Wikimedia Commons"
   },
   "fci-weimaraner-official-standard": {
@@ -20676,6 +20676,126 @@ export const sources = defineSources({
     accessedOn: "2026-11-20",
     note: "Peer-reviewed case-control study (Glickman et al., J Am Vet Med Assoc 2004;224(8):1290-1297, PMID 15112777; 83 TCC cases vs 83 controls) finding significantly increased TCC risk with exposure to lawns/gardens treated with herbicides alone (OR 3.62) or herbicides plus insecticides (OR 7.19), but not insecticides alone (OR 1.62).",
     publisher: "Journal of the American Veterinary Medical Association / PubMed"
+  },
+  "fci-komondor-official-standard": {
+    id: "fci-komondor-official-standard",
+    name: "FCI - Komondor Official Breed Standard No. 53",
+    url: "https://www.fci.be/Nomenclature/Standards/053g01-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2000-09-13",
+    accessedOn: "2026-11-20",
+    note: "Official English FCI Standard No. 53 (published 2000-09-13). Covers Hungarian origin, Group 1 Section 1 Sheepdogs classification without working trial, giant rectangular livestock-guardian build, ivory-white corded double coat, minimum height at withers (dogs minimum 70 cm, bitches minimum 65 cm, no upper limit), and weight (dogs 50-60 kg, bitches 40-50 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-komondor-nomenclature": {
+    id: "fci-komondor-nomenclature",
+    name: "FCI - Komondor Breed Nomenclature (No. 53)",
+    url: "https://www.fci.be/en/nomenclature/Komondor-53.html",
+    type: "official_breed_standard",
+    publishedOn: "2000-09-13",
+    accessedOn: "2026-11-20",
+    note: "Official FCI breed nomenclature record confirming Hungary as country of origin, Group 1 Section 1 Sheepdogs classification without working trial, and English standard publication date (2000-09-13).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-komondor-breed-standard": {
+    id: "akc-komondor-breed-standard",
+    name: "American Kennel Club - Official Standard of the Komondor",
+    url: "https://images.akc.org/pdf/breeds/standards/Komondor.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official AKC breed standard (Working Group) covering head-to-height proportions (2/5), tight black lips, dark eyes, elongated triangular drop ears, low-set tail never carried above the back, corded white coat by age two, grey skin preference, minimum heights (27.5 in males, 25.5 in females), and disqualifications.",
+    publisher: "American Kennel Club"
+  },
+  "akc-komondor-breed-profile": {
+    id: "akc-komondor-breed-profile",
+    name: "American Kennel Club - Komondor Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/komondor/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official AKC breed profile covering Hungarian flock-guardian history, plural 'Komondorok', life expectancy (10-12 years), corded coat separation at 9-10 months, dilute shampoo bathing, early obedience training, OFA hip dysplasia and parent-club eye health testing, and bloat awareness.",
+    publisher: "American Kennel Club"
+  },
+  "kca-about-the-komondor": {
+    id: "kca-about-the-komondor",
+    name: "Komondor Club of America - About The Komondor",
+    url: "https://komondorclubofamerica.org/about-the-komondor",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official US parent breed club guide detailing livestock-guardian temperament, late maturation (~3 years), early obedience training (4-8 months), weekly cord separation, external parasite vigilance beneath heavy cords, and livestock-guardian anesthetic sensitivity (administer to effect rather than strictly by weight).",
+    publisher: "Komondor Club of America"
+  },
+  "kca-komondor-faq": {
+    id: "kca-komondor-faq",
+    name: "Komondor Club of America - Frequently Asked Questions",
+    url: "https://komondorclubofamerica.org/frequently-asked-question",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official parent breed club FAQ covering hip dysplasia radiographic screening of breeding parents, bloat awareness, daily walking and fenced-yard exercise routines, stranger introduction protocols, and noise considerations.",
+    publisher: "Komondor Club of America"
+  },
+  "pubmed-fyfe-2018-komondor-cubn-cobalamin": {
+    id: "pubmed-fyfe-2018-komondor-cubn-cobalamin",
+    name: "Inherited selective cobalamin malabsorption in Komondor dogs associated with a CUBN splice site variant (BMC Veterinary Research)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/30591068/",
+    type: "scientific",
+    publishedOn: "2018-12-27",
+    accessedOn: "2026-11-20",
+    note: "Peer-reviewed molecular genetics study by Fyfe et al. (BMC Vet Res 2018;14(1):418, PMID 30591068, PMC6309081) identifying an autosomal-recessive CUBN intron 55 splice-donor variant (NM_001003148.1: c.8746+1G>A) causing inherited selective intestinal cobalamin (vitamin B12) malabsorption (Imerslund-Gräsbeck syndrome) in Komondors, with mutant allele frequencies of 8.3% in North America and 4.5% in Hungary, and recommending pre-breeding DNA screening.",
+    publisher: "BMC Veterinary Research / PubMed"
+  },
+  "wikimedia-komondor-img-0329-kuosa": {
+    id: "wikimedia-komondor-img-0329-kuosa",
+    name: "Wikimedia Commons - File:Komondor IMG 0329.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Komondor_IMG_0329.JPG",
+    type: "other",
+    publishedOn: "2007-05-27",
+    accessedOn: "2026-11-20",
+    note: "High-resolution photograph (3456 x 2304 px) of an adult Komondor outdoors by Kari Kuosa (EXIF capture date 2007-05-05, summary notes 2007-04-27, uploaded 2007-05-27). Licensed under CC BY-SA 3.0 Unported (also CC BY 2.5 and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-komondor-laitinen": {
+    id: "wikimedia-komondor-laitinen",
+    name: "Wikimedia Commons - File:Komondor.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Komondor.jpg",
+    type: "other",
+    publishedOn: "2005-12-28",
+    accessedOn: "2026-11-20",
+    note: "Photograph (450 x 300 px) of a mature corded Komondor standing on grass by Katri Laitinen / Hvitaharen (captured 2005-08-13, uploaded to Wikimedia Commons by Nironen on 2005-12-28). Licensed under CC BY-SA 3.0 Unported (and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "natureserve-canis-lupus-familiaris": {
+    id: "natureserve-canis-lupus-familiaris",
+    name: "NatureServe Explorer - Canis familiaris / Canis lupus familiaris (ITIS TSN 726821)",
+    url: "https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.100911/Canis_familiaris",
+    type: "scientific",
+    publishedOn: "2026-10-02",
+    accessedOn: "2026-11-20",
+    note: "Authoritative biodiversity taxonomy record documenting the domestic dog as Canis lupus familiaris Linnaeus, 1758 (ITIS TSN 726821; Wilson & Reeder 2005) and Canis familiaris (ASM Mammal Diversity Database 2025).",
+    publisher: "NatureServe Explorer"
+  },
+  "rkc-briard-breed-profile": {
+    id: "rkc-briard-breed-profile",
+    name: "The Royal Kennel Club - Briard Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/pastoral/briard/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official Royal Kennel Club breed profile covering breed characteristics (Large, more than 2 hours daily exercise, daily grooming, lifespan over 10 years), history (1863 first French dog show, 1897 recognition, WWI/WWII), pre-breeding health screening (genetic diversity, CSNB DNA, BVA/KC Hip Scheme), and Jan 6, 2025 import/overseas-sire CSNB registration restriction.",
+    publisher: "The Royal Kennel Club"
+  },
+  "bca-briard-ofa-chic": {
+    id: "bca-briard-ofa-chic",
+    name: "Briard Club of America - OFA/CHIC Recommended Health Tests",
+    url: "https://www.briardclubofamerica.org/briard-ofa-chic",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official Briard Club of America CHIC program page detailing required screenings (OFA/PennHIP/International hip evaluation at min age 24 months, ACVO eye exam between 6 months and 8 years, and CSNB DNA test) plus optional recommended screenings (autoimmune thyroiditis panel FT4D/cTSH/TgAA and OFA elbow evaluation).",
+    publisher: "Briard Club of America"
   },
 });
 

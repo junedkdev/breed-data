@@ -3,7 +3,7 @@ import type { Breed } from "../schema/breed.types";
 export const barbet: Breed = {
   slug: "barbet",
   name: "Barbet",
-  scientificName: null,
+  scientificName: "Canis lupus familiaris",
 
   alternateNames: [
     "French Water Dog",
@@ -366,6 +366,7 @@ export const barbet: Breed = {
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-barbet-official-standard",
     "fci-barbet-nomenclature",
     "scc-barbet-breed-standard",
@@ -385,11 +386,16 @@ export const barbet: Breed = {
 
   evidence: {
     scientificName: {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Left null because official breed standards do not publish a formal taxonomic scientific name."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Related ITIS Names: Canis lupus familiaris Linnaeus, 1758 (TSN 726821); Wilson and Reeder 2005"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: "Standard domestic dog subspecies taxonomy verified via NatureServe Explorer / ITIS."
     },
 
     alternateNames: {

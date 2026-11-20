@@ -13902,33 +13902,33 @@
     },
     "fci-briard-nomenclature": {
       "id": "fci-briard-nomenclature",
-      "name": "FCI - Briard Breed Nomenclature (No. 113)",
-      "url": "https://www.fci.be/en/nomenclature/BRIARD-113.html",
+      "name": "FCI - Berger de Brie (Briard) Breed Nomenclature (No. 113)",
+      "url": "https://www.fci.be/en/nomenclature/BERGER-DE-BRIE-113.html",
       "type": "official_breed_standard",
       "publishedOn": "2009-01-23",
-      "accessedOn": "2026-11-10",
-      "note": "Official FCI breed nomenclature record confirming France as country of origin, Group 1 Section 1 classification with working trial, definitive recognition date (1954-12-14), and official multilingual names (Berger de Brie, Briard).",
+      "accessedOn": "2026-11-20",
+      "note": "Official FCI breed nomenclature record confirming France as country of origin, Group 1 Section 1 Sheepdogs with working trial, definitive recognition date (1954-12-14), valid standard date (2008-11-04), and official names (Berger de Brie, Briard).",
       "publisher": "Fédération Cynologique Internationale"
     },
     "scc-briard-breed-standard": {
       "id": "scc-briard-breed-standard",
-      "name": "Société Centrale Canine - Standard et Profil du Berger de Brie (Briard)",
+      "name": "Société Centrale Canine - Berger de Brie",
       "url": "https://www.centrale-canine.fr/le-chien-de-race/berger-de-brie",
       "type": "official_breed_standard",
       "publishedOn": null,
-      "accessedOn": "2026-11-10",
-      "note": "Official French kennel club (SCC) breed profile and standard for the Berger de Brie, detailing pastoral sheepdog history in the Brie region, height (62-68 cm males, 56-64 cm females), weight ranges (30-40 kg males, 25-35 kg females), double dewclaws, and health testing.",
+      "accessedOn": "2026-11-20",
+      "note": "Official French kennel club (SCC) breed profile for the Berger de Brie detailing 1809 naming, 1897 goat-hair vs. woolly standard history, height (56–68 cm), goat-like coat, and behavior/city living guidance.",
       "publisher": "Société Centrale Canine"
     },
     "club-du-chien-de-brie-profile": {
       "id": "club-du-chien-de-brie-profile",
-      "name": "Club du Chien de Brie - Le Briard et son Histoire",
-      "url": "https://www.briards-france.com/",
+      "name": "Société Centrale Canine - Dossier Le Berger de Brie",
+      "url": "https://www.centrale-canine.fr/articles/le-berger-de-brie",
       "type": "breed_club",
-      "publishedOn": null,
-      "accessedOn": "2026-11-10",
-      "note": "Official French parent breed club portal documenting the ancient history of the Berger de Brie, Abbé Rozier 1809 differentiation, Thomas Jefferson imports, working herding standards, and mandatory health screenings.",
-      "publisher": "Club du Chien de Brie"
+      "publishedOn": "2022-06-15",
+      "accessedOn": "2026-11-20",
+      "note": "Official SCC breed dossier on the Berger de Brie covering rural pastoral history, character and working functionality, and standard commentary.",
+      "publisher": "Société Centrale Canine"
     },
     "akc-briard-breed-standard": {
       "id": "akc-briard-breed-standard",
@@ -13946,18 +13946,18 @@
       "url": "https://www.akc.org/dog-breeds/briard/",
       "type": "kennel_club",
       "publishedOn": null,
-      "accessedOn": "2026-11-10",
-      "note": "Official AKC breed profile covering French pastoral history, Thomas Jefferson Monticello connection, World War I sentry work, weight (55-100 lbs / approx. 25-45 kg), lifespan (12 years), temperament, and grooming.",
+      "accessedOn": "2026-11-20",
+      "note": "Official AKC breed profile (Herding Group, recognized 1928) listing height (23–27 inches male, 22–25.5 inches female), weight (55–100 pounds), life expectancy (12 years), grooming, exercise, training, nutrition, health conditions, and recommended tests (Hip, Ophthalmologist, CSNB DNA).",
       "publisher": "American Kennel Club"
     },
     "the-kennel-club-briard-breed-standard": {
       "id": "the-kennel-club-briard-breed-standard",
       "name": "The Royal Kennel Club - Briard Breed Standard",
-      "url": "https://www.thekennelclub.org.uk/breed-standards/pastoral/briard/",
+      "url": "https://www.royalkennelclub.com/breed-standards/pastoral/briard/",
       "type": "official_breed_standard",
-      "publishedOn": "2025-04-01",
-      "accessedOn": "2026-11-10",
-      "note": "Official Royal Kennel Club breed standard (Pastoral Group) confirming withers height (dogs 62-68 cm; bitches 56-64 cm), double dewclaws, goat-like coat, and pastoral temperament.",
+      "publishedOn": "2025-08-01",
+      "accessedOn": "2026-11-20",
+      "note": "Official Royal Kennel Club breed standard (Pastoral Group, updated 2025-08-01) detailing rugged, supple conformation, dark brown horizontal eyes, complete scissor bite, double dewclaws, and goat-like coat.",
       "publisher": "The Royal Kennel Club"
     },
     "ukc-briard-breed-standard": {
@@ -13982,32 +13982,32 @@
     },
     "briard-csnb-rpe65-study-1998": {
       "id": "briard-csnb-rpe65-study-1998",
-      "name": "A 4-bp Deletion in the Canine RPE65 Gene Causes Congenital Stationary Night Blindness in the Briard (Proc Natl Acad Sci 1998)",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC24787/",
-      "type": "scientific",
-      "publishedOn": "1998-12-08",
-      "accessedOn": "2026-11-10",
-      "note": "Peer-reviewed scientific study (Aguirre et al., PNAS 1998;95(25):14910-14914, PMID 9843989) identifying the causal 4-bp deletion in the RPE65 gene responsible for congenital stationary night blindness (CSNB) in the Briard dog.",
-      "publisher": "Proceedings of the National Academy of Sciences / PubMed Central"
+      "name": "Congenital Stationary Night Blindness in the Dog: Common Mutation in the RPE65 Gene Indicates Founder Effect (Mol Vis 1998)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9808841/",
+      "type": "scientific_publication",
+      "publishedOn": "1998-10-30",
+      "accessedOn": "2026-11-20",
+      "note": "Peer-reviewed molecular genetics study (Aguirre et al., Mol Vis 1998 Oct 30;4:23, PMID 9808841) identifying the homozygous 4-nucleotide (AAGA) deletion in canine RPE65 (nucleotides 487–490) causing congenital stationary night blindness and retinal dystrophy in Briards.",
+      "publisher": "Molecular Vision / PubMed"
     },
     "wikimedia-berger-de-brie-fawn-tomasz-sienicki": {
       "id": "wikimedia-berger-de-brie-fawn-tomasz-sienicki",
-      "name": "Wikimedia Commons - File:Berger de Brie fawn 711.jpg",
-      "url": "https://commons.wikimedia.org/wiki/File:Berger_de_Brie_fawn_711.jpg",
+      "name": "Wikimedia Commons - File:Briard-fawn.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Briard-fawn.jpg",
       "type": "other",
-      "publishedOn": "2006-05-21",
-      "accessedOn": "2026-11-10",
-      "note": "High-resolution photograph (2016 x 1756 px) of an adult fawn Briard standing outdoors by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+      "publishedOn": "2021-08-11",
+      "accessedOn": "2026-11-20",
+      "note": "Photograph (1511 x 1344 px) of a fawn Briard by Canarian (captured 2021-08-07, uploaded 2021-08-11). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
       "publisher": "Wikimedia Commons"
     },
     "wikimedia-chien-de-berger-de-brie-pleple2000": {
       "id": "wikimedia-chien-de-berger-de-brie-pleple2000",
-      "name": "Wikimedia Commons - File:Chien de Berger de Brie.JPG",
-      "url": "https://commons.wikimedia.org/wiki/File:Chien_de_Berger_de_Brie.JPG",
+      "name": "Wikimedia Commons - File:Briard 2 jaar.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File:Briard_2_jaar.JPG",
       "type": "other",
-      "publishedOn": "2008-10-18",
-      "accessedOn": "2026-11-10",
-      "note": "Photograph (2400 x 1800 px) of a black Briard standing in profile at a dog show by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+      "publishedOn": "2007-06-07",
+      "accessedOn": "2026-11-20",
+      "note": "High-resolution photograph (3456 x 2304 px) of a two-year-old Briard by Dardeche (EXIF capture 2007-03-12; original nl.wikipedia upload 2007-05-10; transferred to Commons 2007-06-07 by SieBot). Released into the public domain by the author.",
       "publisher": "Wikimedia Commons"
     },
     "fci-weimaraner-official-standard": {
@@ -20470,6 +20470,126 @@
       "accessedOn": "2026-11-20",
       "note": "Peer-reviewed case-control study (Glickman et al., J Am Vet Med Assoc 2004;224(8):1290-1297, PMID 15112777; 83 TCC cases vs 83 controls) finding significantly increased TCC risk with exposure to lawns/gardens treated with herbicides alone (OR 3.62) or herbicides plus insecticides (OR 7.19), but not insecticides alone (OR 1.62).",
       "publisher": "Journal of the American Veterinary Medical Association / PubMed"
+    },
+    "fci-komondor-official-standard": {
+      "id": "fci-komondor-official-standard",
+      "name": "FCI - Komondor Official Breed Standard No. 53",
+      "url": "https://www.fci.be/Nomenclature/Standards/053g01-en.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": "2000-09-13",
+      "accessedOn": "2026-11-20",
+      "note": "Official English FCI Standard No. 53 (published 2000-09-13). Covers Hungarian origin, Group 1 Section 1 Sheepdogs classification without working trial, giant rectangular livestock-guardian build, ivory-white corded double coat, minimum height at withers (dogs minimum 70 cm, bitches minimum 65 cm, no upper limit), and weight (dogs 50-60 kg, bitches 40-50 kg).",
+      "publisher": "Fédération Cynologique Internationale"
+    },
+    "fci-komondor-nomenclature": {
+      "id": "fci-komondor-nomenclature",
+      "name": "FCI - Komondor Breed Nomenclature (No. 53)",
+      "url": "https://www.fci.be/en/nomenclature/Komondor-53.html",
+      "type": "official_breed_standard",
+      "publishedOn": "2000-09-13",
+      "accessedOn": "2026-11-20",
+      "note": "Official FCI breed nomenclature record confirming Hungary as country of origin, Group 1 Section 1 Sheepdogs classification without working trial, and English standard publication date (2000-09-13).",
+      "publisher": "Fédération Cynologique Internationale"
+    },
+    "akc-komondor-breed-standard": {
+      "id": "akc-komondor-breed-standard",
+      "name": "American Kennel Club - Official Standard of the Komondor",
+      "url": "https://images.akc.org/pdf/breeds/standards/Komondor.pdf",
+      "type": "official_breed_standard",
+      "publishedOn": null,
+      "accessedOn": "2026-11-20",
+      "note": "Official AKC breed standard (Working Group) covering head-to-height proportions (2/5), tight black lips, dark eyes, elongated triangular drop ears, low-set tail never carried above the back, corded white coat by age two, grey skin preference, minimum heights (27.5 in males, 25.5 in females), and disqualifications.",
+      "publisher": "American Kennel Club"
+    },
+    "akc-komondor-breed-profile": {
+      "id": "akc-komondor-breed-profile",
+      "name": "American Kennel Club - Komondor Dog Breed Information",
+      "url": "https://www.akc.org/dog-breeds/komondor/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-20",
+      "note": "Official AKC breed profile covering Hungarian flock-guardian history, plural 'Komondorok', life expectancy (10-12 years), corded coat separation at 9-10 months, dilute shampoo bathing, early obedience training, OFA hip dysplasia and parent-club eye health testing, and bloat awareness.",
+      "publisher": "American Kennel Club"
+    },
+    "kca-about-the-komondor": {
+      "id": "kca-about-the-komondor",
+      "name": "Komondor Club of America - About The Komondor",
+      "url": "https://komondorclubofamerica.org/about-the-komondor",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-20",
+      "note": "Official US parent breed club guide detailing livestock-guardian temperament, late maturation (~3 years), early obedience training (4-8 months), weekly cord separation, external parasite vigilance beneath heavy cords, and livestock-guardian anesthetic sensitivity (administer to effect rather than strictly by weight).",
+      "publisher": "Komondor Club of America"
+    },
+    "kca-komondor-faq": {
+      "id": "kca-komondor-faq",
+      "name": "Komondor Club of America - Frequently Asked Questions",
+      "url": "https://komondorclubofamerica.org/frequently-asked-question",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-20",
+      "note": "Official parent breed club FAQ covering hip dysplasia radiographic screening of breeding parents, bloat awareness, daily walking and fenced-yard exercise routines, stranger introduction protocols, and noise considerations.",
+      "publisher": "Komondor Club of America"
+    },
+    "pubmed-fyfe-2018-komondor-cubn-cobalamin": {
+      "id": "pubmed-fyfe-2018-komondor-cubn-cobalamin",
+      "name": "Inherited selective cobalamin malabsorption in Komondor dogs associated with a CUBN splice site variant (BMC Veterinary Research)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30591068/",
+      "type": "scientific",
+      "publishedOn": "2018-12-27",
+      "accessedOn": "2026-11-20",
+      "note": "Peer-reviewed molecular genetics study by Fyfe et al. (BMC Vet Res 2018;14(1):418, PMID 30591068, PMC6309081) identifying an autosomal-recessive CUBN intron 55 splice-donor variant (NM_001003148.1: c.8746+1G>A) causing inherited selective intestinal cobalamin (vitamin B12) malabsorption (Imerslund-Gräsbeck syndrome) in Komondors, with mutant allele frequencies of 8.3% in North America and 4.5% in Hungary, and recommending pre-breeding DNA screening.",
+      "publisher": "BMC Veterinary Research / PubMed"
+    },
+    "wikimedia-komondor-img-0329-kuosa": {
+      "id": "wikimedia-komondor-img-0329-kuosa",
+      "name": "Wikimedia Commons - File:Komondor IMG 0329.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File:Komondor_IMG_0329.JPG",
+      "type": "other",
+      "publishedOn": "2007-05-27",
+      "accessedOn": "2026-11-20",
+      "note": "High-resolution photograph (3456 x 2304 px) of an adult Komondor outdoors by Kari Kuosa (EXIF capture date 2007-05-05, summary notes 2007-04-27, uploaded 2007-05-27). Licensed under CC BY-SA 3.0 Unported (also CC BY 2.5 and GFDL) on Wikimedia Commons.",
+      "publisher": "Wikimedia Commons"
+    },
+    "wikimedia-komondor-laitinen": {
+      "id": "wikimedia-komondor-laitinen",
+      "name": "Wikimedia Commons - File:Komondor.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Komondor.jpg",
+      "type": "other",
+      "publishedOn": "2005-12-28",
+      "accessedOn": "2026-11-20",
+      "note": "Photograph (450 x 300 px) of a mature corded Komondor standing on grass by Katri Laitinen / Hvitaharen (captured 2005-08-13, uploaded to Wikimedia Commons by Nironen on 2005-12-28). Licensed under CC BY-SA 3.0 Unported (and GFDL) on Wikimedia Commons.",
+      "publisher": "Wikimedia Commons"
+    },
+    "natureserve-canis-lupus-familiaris": {
+      "id": "natureserve-canis-lupus-familiaris",
+      "name": "NatureServe Explorer - Canis familiaris / Canis lupus familiaris (ITIS TSN 726821)",
+      "url": "https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.100911/Canis_familiaris",
+      "type": "scientific",
+      "publishedOn": "2026-10-02",
+      "accessedOn": "2026-11-20",
+      "note": "Authoritative biodiversity taxonomy record documenting the domestic dog as Canis lupus familiaris Linnaeus, 1758 (ITIS TSN 726821; Wilson & Reeder 2005) and Canis familiaris (ASM Mammal Diversity Database 2025).",
+      "publisher": "NatureServe Explorer"
+    },
+    "rkc-briard-breed-profile": {
+      "id": "rkc-briard-breed-profile",
+      "name": "The Royal Kennel Club - Briard Breeds A to Z",
+      "url": "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/pastoral/briard/",
+      "type": "kennel_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-20",
+      "note": "Official Royal Kennel Club breed profile covering breed characteristics (Large, more than 2 hours daily exercise, daily grooming, lifespan over 10 years), history (1863 first French dog show, 1897 recognition, WWI/WWII), pre-breeding health screening (genetic diversity, CSNB DNA, BVA/KC Hip Scheme), and Jan 6, 2025 import/overseas-sire CSNB registration restriction.",
+      "publisher": "The Royal Kennel Club"
+    },
+    "bca-briard-ofa-chic": {
+      "id": "bca-briard-ofa-chic",
+      "name": "Briard Club of America - OFA/CHIC Recommended Health Tests",
+      "url": "https://www.briardclubofamerica.org/briard-ofa-chic",
+      "type": "breed_club",
+      "publishedOn": null,
+      "accessedOn": "2026-11-20",
+      "note": "Official Briard Club of America CHIC program page detailing required screenings (OFA/PennHIP/International hip evaluation at min age 24 months, ACVO eye exam between 6 months and 8 years, and CSNB DNA test) plus optional recommended screenings (autoimmune thyroiditis panel FT4D/cTSH/TgAA and OFA elbow evaluation).",
+      "publisher": "Briard Club of America"
     }
   },
   "licenses": {
@@ -38527,7 +38647,7 @@
     {
       "slug": "barbet",
       "name": "Barbet",
-      "scientificName": null,
+      "scientificName": "Canis lupus familiaris",
       "alternateNames": [
         "French Water Dog",
         "Barbet Français",
@@ -38807,6 +38927,7 @@
         }
       ],
       "references": [
+        "natureserve-canis-lupus-familiaris",
         "fci-barbet-official-standard",
         "fci-barbet-nomenclature",
         "scc-barbet-breed-standard",
@@ -38825,10 +38946,16 @@
       ],
       "evidence": {
         "scientificName": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "Left null because official breed standards do not publish a formal taxonomic scientific name."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "natureserve-canis-lupus-familiaris",
+              "role": "verified",
+              "locator": "Related ITIS Names: Canis lupus familiaris Linnaeus, 1758 (TSN 726821); Wilson and Reeder 2005"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Standard domestic dog subspecies taxonomy verified via NatureServe Explorer / ITIS."
         },
         "alternateNames": {
           "reliability": "official_standard",
@@ -62632,58 +62759,57 @@
       "alternateNames": [
         "Berger de Brie",
         "Chien de Berger de Brie",
-        "Briard Shepherd"
+        "French Lowlands Sheepdog"
       ],
-      "group": "Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 — Sheepdogs (with working trial; also classified in the Herding and Pastoral groups)",
+      "group": "Sheepdogs and Cattledogs",
       "origin": {
         "country": "France",
-        "region": "Brie region and the plains of Île-de-France, northern and central France"
+        "region": "Brie region and the northern and central lowland plains of France"
       },
       "images": [
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Berger_de_Brie_fawn_711.jpg",
-          "sourcePage": "https://commons.wikimedia.org/wiki/File:Berger_de_Brie_fawn_711.jpg",
-          "title": "Berger de Brie fawn 711.jpg",
-          "description": "An adult fawn Briard standing outdoors in a garden.",
-          "creator": "Tomasz Sienicki",
-          "uploader": "Pmg",
-          "capturedOn": "2006-05-20",
-          "uploadedOn": "2006-05-21",
-          "width": 2016,
-          "height": 1756,
-          "licenseId": "cc-by-sa-3.0",
-          "attribution": "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Berger_de_Brie_fawn_711.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Briard-fawn.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Briard-fawn.jpg",
+          "title": "Briard-fawn.jpg",
+          "description": "A fawn Briard showing its long, goat-like coat and bearded head.",
+          "creator": "Canarian",
+          "uploader": "Canarian",
+          "capturedOn": "2021-08-07",
+          "uploadedOn": "2021-08-11",
+          "width": 1511,
+          "height": 1344,
+          "licenseId": "cc-by-sa-4.0",
+          "attribution": "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Briard-fawn.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-11-10"
+          "metadataCheckedOn": "2026-11-20"
         },
         {
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chien_de_Berger_de_Brie.JPG",
-          "sourcePage": "https://commons.wikimedia.org/wiki/File:Chien_de_Berger_de_Brie.JPG",
-          "title": "Chien de Berger de Brie.JPG",
-          "description": "A black Briard standing in profile at a dog show.",
-          "creator": "Pleple2000",
-          "uploader": "Pleple2000",
-          "capturedOn": "2008-10-05",
-          "uploadedOn": "2008-10-18",
-          "width": 2400,
-          "height": 1800,
-          "licenseId": "cc-by-sa-3.0",
-          "attribution": "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Chien_de_Berger_de_Brie.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Briard_2_jaar.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Briard_2_jaar.JPG",
+          "title": "Briard 2 jaar.JPG",
+          "description": "A two-year-old Briard photographed outdoors.",
+          "creator": "Dardeche",
+          "uploader": "SieBot",
+          "capturedOn": "2007-03-12",
+          "uploadedOn": "2007-06-07",
+          "width": 3456,
+          "height": 2304,
+          "licenseId": "public-domain",
+          "attribution": "Photo by Dardeche (Dutch Wikipedia), Wikimedia Commons, released into the public domain. Source: https://commons.wikimedia.org/wiki/File:Briard_2_jaar.JPG.",
           "restrictions": null,
-          "metadataCheckedOn": "2026-11-10"
+          "metadataCheckedOn": "2026-11-20"
         }
       ],
       "overview": {
-        "summary": "A rustic, large-sized French pastoral sheepdog celebrated for its long, goat-like dry double coat, distinctive double dewclaws on the rear limbs, J-shaped crook tail, formidable working stamina, and deeply loyal, sensitive heart wrapped in fur.",
-        "description": "The Briard is a large, muscular, and athletic French herding dog combining substantial physical power with agile grace and supple, ground-covering movement. Characterized by a slightly rectangular body silhouette, it carries a rustic, harsh double coat with a dry, goat-like texture that drapes naturally over the entire body, creating a prominent moustache, beard, and sweeping eyebrows that frame dark, intelligent eyes without obscuring vision. A hallmark morphological feature is the presence of functional double dewclaws placed low on both rear legs. The head is long and imposing, complemented by high-set drop or natural erect ears and a long, low-set tail terminating in a distinct J-shaped hook. In the household, it is famously described as a heart wrapped in fur—calm, deeply affectionate, and fiercely devoted to family members—while remaining an alert, courageous guardian and a tireless herder in pasture work.",
-        "history": "The roots of the breed reach deep into medieval French agricultural history, with early literary mentions dating to a 1387 manuscript by Gaston Phoebus, Count of Foix. In early French pastoral traditions, indigenous sheepdogs were grouped broadly; in 1809, the agronomist Abbé Rozier clearly distinguished the lowland long-coated flock herder and guardian as the 'Chien de Brie' or 'Berger de Brie', separating it from the shorter-coated upland Beauceron. Celebrated historical figures, including Emperor Charlemagne, Napoleon Bonaparte, and Thomas Jefferson, were admirers of the breed, with Jefferson importing foundation pairs to Monticello in the late eighteenth century. The first breed standard was drawn up in France in 1897 and updated by the national breed club in 1909. During the First World War, the breed served heroically as an official military sentry dog, ammunition carrier, and red-cross search dog that located wounded soldiers on battlefields, cementing its legacy of unwavering courage and devotion.",
-        "originalPurpose": "Pastoral flock herding, boundary patrolling to prevent sheep from wandering into cultivated crops, and guarding flocks against wolves, feral predators, and thieves.",
+        "summary": "A rugged, muscular French sheepdog distinguished by its long, dry, goat-like coat, double rear dewclaws, J-hooked tail, tireless herding stamina, and fiercely loyal family nature.",
+        "description": "The Briard is a large, supple, and athletic herding dog built slightly longer than it is tall, combining sturdy bone with light, agile movement. Its trademark coat—long, dry, and textured like goat hair over a light undercoat—drapes naturally over the body and forms a beard, moustache, and arching eyebrows that lightly veil large, oval, dark eyes. Two unmistakable anatomical features set the breed apart: a pair of well-separated double dewclaws placed low on each hind leg, and a long, uncut tail ending in a subtle J-shaped hook. Often nicknamed 'a heart wrapped in fur,' the Briard pairs steady, affectionate devotion to its household with natural watchfulness around strangers and a strong, independent working drive.",
+        "history": "Long known across northern France as the French Lowlands Sheepdog, the breed evolved to drive flocks along rural pastures and defend them from wolves and poachers. The name 'chien de Brie' appeared in print in 1809 in Abbé Rozier's agricultural treatise, separating the long-coated lowland herder from the shorter-coated Beauceron. Historical accounts credit both the Marquis de Lafayette and Thomas Jefferson with bringing specimens to America, and Briards were exhibited at the first French dog show in 1863 before gaining formal recognition in 1897 (when the goat-hair variety prevailed over a woollier type). During both World Wars, the French military deployed Briards as sentries, pack dogs, and battlefield ambulance dogs locating wounded soldiers. Although numbers fell sharply after the Second World War, dedicated breeders preserved the breed as an all-around herder, sport dog, and devoted companion.",
+        "originalPurpose": "Driving, patrolling, and guarding sheep and livestock across unfenced lowland pastures in France.",
         "currentRoles": [
-          "Pastoral livestock herding and farm boundary guardian",
-          "Competitive herding trial, tracking, and working assessment athlete",
-          "Devoted household companion and family protector",
-          "Search, rescue, and avalanche detection partner",
-          "Canine athlete in agility, rally, and competitive obedience"
+          "Livestock herding and farm guardian",
+          "Devoted family companion and home watchdog",
+          "Herding, agility, obedience, rally, and tracking competitor",
+          "Search-and-rescue partner"
         ]
       },
       "physical": {
@@ -62702,56 +62828,52 @@
         "weight": {
           "unit": "kg",
           "male": {
-            "min": 30,
-            "max": 40
+            "min": 32,
+            "max": 45
           },
           "female": {
-            "min": 25,
-            "max": 35
+            "min": 23,
+            "max": 29
           }
         },
         "lifespanYears": {
           "min": 10,
           "max": 12
         },
-        "coatType": "Long, supple, dry double coat resembling goat hair, forming slight locks without lying flat, at least 7 cm long on the body, with a fine, dense undercoat covering the entire body; features a distinct beard, moustache, and eyebrows that lightly veil the eyes.",
+        "coatType": "Long, supple, dry, goat-like outer coat (at least 7 cm long on the body) over a light, fine undercoat, forming a beard, moustache, and eyebrows that lightly veil the eyes.",
         "coatLength": "Long",
         "coatColors": [
-          "Solid black",
-          "Fawn (warm, uniform golden-fawn with darker shading on the extremities, ears, and back)",
-          "Grey (born grey or clearing from black to dark charcoal or slate grey)",
-          "Blue (born slate-blue, uniform in shade)"
+          "Black",
+          "Fawn (warm fawn, sometimes with lighter shading on the extremities and inclined parts)",
+          "Fawn with slight to medium black overlay (often with a dark mask)",
+          "Grey",
+          "Blue"
         ],
-        "sheddingLevel": "Low to moderate; shedding is minimal when dead undercoat hairs are lifted through regular thorough brushing and line-combing",
-        "droolingLevel": "Low to moderate; tight-fitting lips minimize drooling, though long beard and moustache furnishings collect water after drinking",
+        "sheddingLevel": "Low to moderate; loose undercoat hairs tend to remain caught inside the long coat until cleared by thorough brushing and combing",
+        "droolingLevel": "Low to moderate; tight lips keep drool minimal, though long facial hair holds water after drinking",
         "distinctiveFeatures": [
-          "Rustic, athletic, and muscular silhouette slightly longer than tall (body length greater than withers height)",
+          "Supple, muscular, slightly rectangular build with body length slightly exceeding height at the withers",
           "Height at the withers of 62 to 68 cm in males and 56 to 64 cm in females",
-          "Weight of 30 to 40 kg for males and 25 to 35 kg for females in lean working condition",
-          "Dry, harsh, goat-like coat at least 7 cm in length draped gracefully over the body",
-          "Abundant facial furnishings consisting of a distinct chin beard, long moustache, and eyebrows that veil the dark eyes",
-          "Double dewclaws on both hind legs, placed low near the foot, each claw possessing a distinct, well-separated bony base",
-          "Large, long head with a marked stop midway between occiput and nose tip, with parallel cranial-facial planes",
-          "Large black nose with wide nostrils (or slate nose in blue dogs) and tight black lips",
-          "Complete scissor bite with strong jaws and sound, powerful teeth",
-          "Large, wide-open, horizontal dark brown or black eyes with darkly pigmented rims",
-          "Ears set high, covered in long hair, hanging flat against the cheeks (or historically cropped erect)",
-          "Deep, broad chest reaching down to the elbows with well-sprung ribs",
-          "Low-set, intact tail reaching at least to the hock, carried in a J-shaped hook (crochet) at the tip without deviating sideways"
+          "Typical adult weight of 32 to 45 kg in males and 23 to 29 kg in females",
+          "Long, dry, goat-like coat at least 7 cm in length with a light undercoat",
+          "Prominent beard, moustache, and arching eyebrows framing the face without masking its structure",
+          "Two well-separated double dewclaws with nails placed low on each hind leg",
+          "Long, strong head with parallel skull and muzzle planes and a clearly marked stop midway between occiput and nose tip",
+          "Strong black nose with open nostrils (or blue/bluish nose in blue-coated dogs) and tight lips",
+          "Strong white teeth meeting in a complete, regular scissor bite",
+          "Large, oval, horizontal, well-open dark eyes (with paler eyes permitted in blue dogs)",
+          "High-set, flat ears covered in long hair, carried naturally short and not plastered flat against the head",
+          "Uncut, well-feathered low-set tail reaching at least to the hock and ending in a distinct J-shaped hook"
         ]
       },
       "temperament": {
         "traits": [
-          "Loyal, affectionate, and deeply devoted to family members",
-          "Fearless, courageous, and vigilant flock and estate guardian",
-          "Intelligent, quick-witted, and highly trainable",
-          "Calm, gentle, and patient in the home",
-          "Alert and naturally watchful, with a protective instinct toward children",
-          "Reserved and discerning with unfamiliar strangers without unprovoked aggression",
-          "High stamina and tireless work ethic in pastoral herding",
-          "Sensitive to handler emotional energy and vocal reprimands",
-          "Can be assertive or bossy with other household animals if leadership is lax",
-          "Possesses a remarkable memory, retaining early training experiences for life"
+          "Balanced, steady, and fearless—neither aggressive nor timid",
+          "Deeply loyal, affectionate, and protective toward family and children",
+          "Intelligent and observant with an excellent memory",
+          "Independent decision-maker bred to manage flocks with minimal direction",
+          "Reserved and watchful around unfamiliar strangers",
+          "High energy and tireless stamina requiring a regular job or outlet"
         ],
         "scores": {
           "affection": 5,
@@ -62767,104 +62889,97 @@
       },
       "care": {
         "exercise": {
-          "level": "High; an athletic working pastoral breed requiring vigorous daily physical exercise and structured mental tasks to maintain indoor composure",
+          "level": "High; an energetic pastoral worker that craves daily action, long outings, and purposeful mental tasks",
           "minutesPerDay": {
             "min": 60,
-            "max": 90
+            "max": 120
           },
           "activities": [
-            "Daily brisk leashed walks and extended woodland trail hikes",
-            "Herding trials, boundary management, and pastoral instinct tests",
-            "Interactive fetch, ball retrieving, and flying-disc chasing in a secure yard",
-            "Canine sports including agility, rally, tracking, and competitive obedience",
-            "Canicross, trail jogging, or running alongside a bicycle once skeletally mature",
-            "Problem-solving cognitive toys, snuffle mats, and scent-searching enrichment"
+            "Brisk daily walks, trail hikes, and jogging or cycling once mature",
+            "Free running and ball or disc retrieving in a large, securely fenced yard",
+            "Herding trials and instinct work",
+            "Agility, obedience, rally, tracking, and search-and-rescue training",
+            "Interactive puzzle feeders and scent-work games"
           ]
         },
         "grooming": {
           "level": "High",
-          "brushing": "Line-brush thoroughly down to the skin two to three times weekly using a pin brush and metal greyhound comb to prevent mats and lift dead undercoat; pay special attention to friction areas behind the ears, armpits, beard, and rear feathering.",
-          "bathing": "Bathe every six to eight weeks or when soiled, using a moisturizing canine shampoo and conditioning rinse; avoid excessive blow-drying on hot settings to maintain the dry, natural coat texture.",
+          "brushing": "Brush thoroughly all the way down to the skin several times a week—and daily for show or heavy coats—using a quality pin brush and undercoat rake or comb to lift dead undercoat and prevent mats behind the ears, under the legs, and in the beard.",
+          "bathing": "Bathe as needed based on lifestyle—ranging from monthly to less frequently—after a complete pre-bath brush-out so water does not tighten existing tangles.",
           "notes": [
-            "Never shave the double coat; the long goat-like hair protects against harsh winter freezing, thorny scrub, and summer radiant heat.",
-            "Check and comb the facial beard and moustache clean after eating to prevent food crusting and moisture odor.",
-            "Inspect double dewclaws on both hind legs weekly and trim nails regularly, as they do not wear down naturally on the ground.",
-            "Inspect the drop ears weekly for wax buildup, moisture, or debris, cleaning gently with a veterinary ear cleanser.",
-            "Trim hair between paw pads to maintain traction and prevent ice balls during winter walks.",
-            "Brush teeth several times weekly with canine-formulated enzymatic toothpaste."
+            "Introduce puppies to brushing early and positively so adult grooming sessions remain calm and cooperative.",
+            "Avoid shaving the coat, as the dry double coat insulates against cold, brush, and sun.",
+            "Check the double rear dewclaws weekly and trim their nails regularly because they do not touch the ground to wear down naturally.",
+            "Wipe and comb the beard and moustache after meals and drinks to prevent food buildup and odor.",
+            "Inspect the hair-covered ears weekly for wax, redness, or moisture, and brush teeth several times a week."
           ]
         },
         "training": {
-          "difficulty": "Moderate; exceptionally intelligent, eager to please, and quick to learn, but possesses a strong will, independent mind, and acute sensitivity that requires calm, consistent leadership",
+          "difficulty": "Moderate; bright, eager to please, and blessed with a sharp memory, yet bred to make independent decisions and test inconsistent handlers",
           "tips": [
-            "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
-            "Keep training sessions varied, cheerful, and purposeful to prevent boredom from mechanical repetition.",
-            "Establish fair, consistent household boundaries from early puppyhood.",
-            "Begin loose-leash walking, impulse control, and gentle socialization early before adult strength develops.",
-            "Avoid harsh verbal corrections or physical intimidation, which cause this proud shepherd to lose trust and withdraw.",
-            "Channel natural herding instincts into structured dog sports or fetch games rather than allowing heel-nipping of running children."
+            "Keep training lively, upbeat, and varied so this clever thinker stays engaged.",
+            "Use reward-based methods with clear, steady boundaries—harsh corrections erode trust in this sensitive shepherd.",
+            "Begin loose-leash walking and impulse control early before the dog reaches full adult strength.",
+            "Redirect natural herding impulses into structured sports or fetch rather than allowing heel-nipping of running children.",
+            "Maintain ongoing training and socialization well beyond puppyhood."
           ],
-          "socialization": "Introduce the puppy early, calmly, and positively to diverse people, friendly vaccinated dogs of varying sizes, household appliances, novel surfaces, and busy environments. Early structured socialization prevents natural reservedness from developing into aloof suspicion, resulting in a confident, well-adjusted guardian."
+          "socialization": "Expose puppies early and continuously to unfamiliar people, calm dogs, urban noise, and varied settings so their natural reserve stays steady and confident rather than suspicious."
         },
         "livingEnvironment": {
           "apartmentSuitable": false,
           "houseWithYardSuitable": true,
           "climates": [
             "Temperate climates",
-            "Cool and cold climates, where the dense double coat provides natural thermal protection",
-            "Warm climates, provided indoor cooling, shade, and fresh water are available and exercise occurs during cooler morning or evening hours"
+            "Cool and cold climates suited to its weather-resistant double coat",
+            "Warm climates when indoor cooling, shade, fresh water, and cooler-hour exercise are provided"
           ],
-          "aloneTimeTolerance": "Low to moderate; intensely people-oriented and deeply bonded to family, prone to separation distress, nuisance barking, or destructive behaviors if left isolated for long workdays without companionship."
+          "aloneTimeTolerance": "Low to moderate; deeply bonded to its household and best suited to homes where it is included in daily life rather than isolated for long stretches."
         }
       },
       "nutrition": {
-        "dietType": "High-quality complete and balanced dog food formulated for large active breeds, adjusted for age, activity level, and metabolic rate.",
+        "dietType": "Complete, balanced dog food formulated for an active large-breed dog and matched to life stage (large-breed puppy, adult, or senior).",
         "feedingFrequency": {
-          "puppy": "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a large-breed growth diet supporting steady skeletal development.",
-          "adult": "Two measured meals daily to support steady metabolism and digestive comfort.",
-          "senior": "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+          "puppy": "Three to four small measured meals daily until six months of age on a large-breed growth formula",
+          "adult": "Two measured meals per day",
+          "senior": "Two portion-controlled meals per day adjusted for lower activity"
         },
-        "guidelines": "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt through the thick coat. Divide daily food into two distinct meals, restrict vigorous exercise for at least one hour before and after eating, use narrow food bowls or ear snoods to keep the beard clean, and provide cool, clean drinking water continuously.",
+        "guidelines": "Serve measured portions rather than free-feeding, checking body condition by feeling the ribs beneath the long coat to prevent gradual weight gain. Provide fresh, clean water at all times.",
         "considerations": [
-          "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical strain on hips, elbows, and the spine.",
-          "Account for training treats within the total daily caloric budget to prevent stealth weight gain.",
-          "Use narrow spaniel-style bowls or elevated stands to prevent the long beard from soaking in water dishes.",
-          "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-          "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-          "Transition between diet formulas gradually over five to seven days."
+          "Keep weight lean to protect large-breed hips and elbows from excess strain.",
+          "Limit training treats within the daily calorie budget, as some individuals gain weight easily.",
+          "Split daily food into two meals and avoid vigorous running right before or after eating to help reduce bloat risk in this deep-chested breed.",
+          "Use narrow bowls or beard-friendly dishes to keep facial furnishings cleaner when drinking.",
+          "Transition gradually over five to seven days when changing diets."
         ],
-        "note": "Caloric needs vary significantly based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+        "note": "Daily calorie needs depend on age, activity level, and neuter status; consult a veterinarian before using home-prepared diets or supplements."
       },
       "health": {
-        "overview": "The Briard is a robust, hardy pastoral breed with a typical life expectancy of 10 to 12 years. Developed over centuries for demanding physical work across the French countryside, it has largely avoided many severe constitutional exaggerations. Primary hereditary health priorities include congenital stationary night blindness (CSNB, caused by an identified mutation in the RPE65 gene), hip dysplasia, elbow dysplasia, gastric dilatation-volvulus (GDV / bloat), autoimmune thyroiditis, and progressive retinal atrophy.",
+        "overview": "The Briard is generally a hardy large breed with a typical lifespan of 10 to 12 years (often averaging around 12 years). Scientifically established inherited priorities include congenital stationary night blindness (CSNB), caused by an autosomal recessive 4-base-pair deletion in the RPE65 gene—now fully preventable through pre-breeding DNA testing—and hip dysplasia. Other ocular conditions monitored by veterinary ophthalmologists include cataracts, corneal dystrophy, and retinal folds. Additional health concerns noted by breeders and veterinary sources, though less uniformly quantified across populations, include elbow dysplasia, autoimmune thyroiditis (hypothyroidism), gastric dilatation-volvulus (GDV / bloat, a risk for deep-chested large dogs), cancer, immune-mediated disorders, exocrine pancreatic insufficiency, and kidney disease.",
         "commonConditions": [
-          "Congenital stationary night blindness (CSNB) — an inherited, non-progressive retinal disorder caused by an autosomal recessive deletion in the RPE65 gene, leading to severe night blindness and reduced visual acuity from puppyhood, fully preventable through pre-breeding DNA testing",
-          "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb lameness, monitored through pre-breeding radiographic screening",
-          "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-          "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening emergency in deep-chested dogs where the stomach distends with gas and twists on its axis",
-          "Progressive retinal atrophy (PRA) and hereditary cataracts — degenerative or clouding conditions of the eye that can impair vision",
-          "Autoimmune thyroiditis — immune-mediated inflammation of the thyroid gland resulting in hypothyroidism, weight gain, and skin changes",
-          "Allergic dermatitis — occasional sensitivities to environmental allergens or fleas causing skin itching and secondary infections"
+          "Congenital stationary night blindness (CSNB) — a well-established autosomal recessive retinal disorder caused by a 4-base-pair deletion in the RPE65 gene that impairs night vision and retinal function from puppyhood; completely preventable through pre-breeding DNA screening.",
+          "Hip dysplasia — a recognized developmental hip-joint disorder in large breeds that can lead to arthritis and lameness; screened radiographically prior to breeding (typically at 24 months or older).",
+          "Ocular disorders (cataracts, corneal dystrophy, retinal folds) — eye conditions monitored through periodic board-certified veterinary ophthalmologist examinations.",
+          "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening stomach twisting emergency to watch for in large, deep-chested breeds.",
+          "Elbow dysplasia (optional screening) — developmental elbow-joint abnormalities monitored by breeders via radiographic evaluation.",
+          "Autoimmune thyroiditis / hypothyroidism (optional screening) — immune-mediated thyroid inflammation affecting metabolism, weight, and coat quality.",
+          "Other reported or monitored conditions — cancer, immune-mediated diseases, exocrine pancreatic insufficiency, and kidney disease have been noted in breed health guidance and warrant routine veterinary vigilance."
         ],
         "preventiveCare": [
-          "Confirm that breeding stock has certified DNA clearances for congenital stationary night blindness (RPE65 / CSNB), alongside certified radiographic hip and elbow clearances and annual ophthalmologist eye certifications.",
-          "Maintain a lean body condition throughout life to minimize mechanical wear on hips, elbows, and knees.",
-          "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-          "Inspect and clean the long drop ears weekly, wiping canals with a veterinary ear wash and drying thoroughly.",
-          "Inspect double dewclaws on both rear legs weekly and trim them regularly to prevent catching or tearing.",
-          "Brush teeth several times weekly with canine enzymatic toothpaste.",
-          "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+          "Verify pre-breeding DNA clearance for congenital stationary night blindness (RPE65 / CSNB), radiographic hip evaluation, and veterinary ophthalmologist eye exams when choosing a puppy.",
+          "Feed two measured meals daily and rest the dog before and after meals to help lower bloat risk, while learning early emergency signs of GDV.",
+          "Keep body weight lean to reduce long-term wear on hips and elbows.",
+          "Inspect and trim double rear dewclaws weekly so they do not snag or tear during active play.",
+          "Maintain regular coat brushing, ear checks, dental care, and annual veterinary wellness visits."
         ],
         "recommendedScreenings": [
-          "DNA marker test for Congenital Stationary Night Blindness (RPE65 gene mutation) prior to breeding",
-          "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-          "Radiographic elbow dysplasia evaluation prior to breeding",
-          "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-          "Autoimmune thyroiditis blood profile"
+          "DNA test for congenital stationary night blindness (RPE65 / CSNB) prior to breeding",
+          "Radiographic hip dysplasia evaluation (typically at 24 months of age or older)",
+          "Board-certified veterinary ophthalmologist eye examination (at least once between 6 months and 8 years of age, and periodically for breeding stock)",
+          "Optional but recommended screenings: radiographic elbow dysplasia evaluation and full autoimmune thyroiditis blood panel (FT4D, cTSH, TgAA)"
         ],
-        "dentalCare": "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, wide jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
-        "earCare": "Inspect the high-set drop ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
-        "skinCare": "Part the dense coat weekly during line-brushing to inspect the skin for external parasites, redness, or mats. Avoid shaving the double coat; regular brushing preserves skin aeration and coat insulation."
+        "dentalCare": "Brush teeth several times per week using canine enzymatic toothpaste, paired with routine veterinary dental checks to keep the strong jaws and scissor-bite dentition healthy.",
+        "earCare": "Check the hair-covered drop ears weekly for wax buildup, odor, or redness, cleaning gently with a veterinarian-approved solution and drying carefully.",
+        "skinCare": "Part the long coat down to the skin during weekly brushing to check for mats, parasites, or skin irritation; keep the coat clean and mat-free rather than shaving it."
       },
       "suitability": {
         "firstTimeOwners": false,
@@ -62873,75 +62988,58 @@
         "activeOwners": true,
         "apartmentLiving": false,
         "idealFor": [
-          "Experienced dog owners familiar with herding drives, working vigilance, and large pastoral breeds",
-          "Active outdoor households that enjoy long trail hikes, running, and herding sports",
-          "Rural or semi-rural properties with spacious, securely fenced yards or working pasture acreage",
-          "Owners committed to regular line-brushing, coat grooming, and mental problem-solving enrichment",
-          "Families seeking an intensely loyal, protective, and affectionate companion of the hearth"
+          "Experienced handlers comfortable with large, strong-willed herding breeds",
+          "Active households that enjoy daily hikes, running, herding, or dog sports",
+          "Homes with a large, securely fenced yard or rural space",
+          "Owners willing to commit several sessions a week to thorough coat brushing",
+          "Families seeking an intensely loyal, watchful, and affectionate companion"
         ],
         "notIdealFor": [
-          "Novice or passive dog owners unprepared for high physical energy, herding drive, and independent intelligence",
-          "Apartment dwellers or dense urban households without access to extensive open exercise areas",
-          "Owners who leave a dog home alone in isolation for long workdays without company",
-          "People seeking a low-maintenance pet that requires no brushing or coat care",
-          "Individuals intolerant of shed hair, muddy paws, and damp beards around the home"
+          "First-time dog owners unprepared for high energy and independent herding instincts",
+          "Apartment dwellers without reliable access to large open exercise areas",
+          "Households that leave a dog alone for long workdays on a routine basis",
+          "Owners looking for a low-grooming coat or a dog that greets every stranger enthusiastically"
         ]
       },
       "funFacts": [
-        "A beloved historical French saying poetically describes the Briard as 'a heart wrapped in fur' (un coeur enveloppé de poils), celebrating its intense tenderness with family members despite its imposing, rugged exterior.",
-        "A defining, mandatory anatomical requirement of the breed standard is the presence of functional double dewclaws placed low on both rear legs; historical shepherds believed these extra digits acted like snowshoes, providing extra stability and grip on muddy, wet pasture terrain.",
-        "Thomas Jefferson was a passionate admirer of the breed; while serving as the American minister to France in the late 1780s, he purchased a pregnant Briard named Bergère, brought her and her puppies home to Virginia, and praised their herding prowess at Monticello.",
-        "During World War I, the French military employed thousands of Briards as official sentries, messengers, and red-cross ambulance dogs; their keen senses allowed them to distinguish living wounded soldiers from the dead on muddy battlefields.",
-        "Legend recounts the 'Dog of Montargis', a fourteenth-century French sheepdog said to be of Briard ancestry that famously unmasked and defeated its master's murderer in judicial single combat before the King of France.",
-        "The distinctive J-shaped hook at the tip of the Briard's tail is known in French as a 'crochet', a hallmark trait that must never curl over the back or twist to either side."
+        "French admirers famously call the Briard 'a heart wrapped in fur,' capturing its gentle loyalty to family beneath a rugged exterior.",
+        "Two fully formed double dewclaws on each hind leg are a classic breed hallmark traditionally prized by shepherds for extra traction on uneven pasture ground.",
+        "Both Thomas Jefferson and the Marquis de Lafayette are credited with helping introduce Briards to the United States.",
+        "During both World Wars, French troops relied on Briards as sentries, pack dogs, and battlefield ambulance dogs helping search parties find wounded soldiers.",
+        "The uncut tail ends in a gentle J-shaped hook known in French as a 'crochet.'"
       ],
       "faq": [
         {
-          "question": "What is a Briard?",
-          "answer": "The Briard (Berger de Brie) is an ancient, large-sized French herding and sheepdog known for its long, goat-like coat, prominent beard and eyebrows, double rear dewclaws, and deeply affectionate, loyal personality."
+          "question": "How big does a Briard get?",
+          "answer": "Adult male Briards stand 62 to 68 cm at the withers and typically weigh 32 to 45 kg, while females stand 56 to 64 cm and typically weigh 23 to 29 kg."
         },
         {
-          "question": "What are double dewclaws, and why does the Briard have them?",
-          "answer": "Double dewclaws are two fully formed, bony digits situated low on the inner side of each rear leg. In the Briard, they are an essential breed hallmark that historically provided extra traction, foot surface area, and stability when herding livestock across wet, uneven pasture land."
+          "question": "Why do Briards have double dewclaws on their back legs?",
+          "answer": "Double dewclaws—two distinct, well-separated toes with nails placed low on each hind leg—are a signature trait preserved by French shepherds, who valued the wider foot base for stability and grip while working rough pastures."
         },
         {
-          "question": "How tall and heavy is a Briard?",
-          "answer": "Adult males stand 62 to 68 cm at the withers and weigh 30 to 40 kg, while adult females stand 56 to 64 cm and weigh 25 to 35 kg, presenting an athletic and powerful build."
+          "question": "How long do Briards live?",
+          "answer": "Briards typically live 10 to 12 years, with average life expectancy often cited around 12 years."
         },
         {
-          "question": "How long does a Briard live?",
-          "answer": "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 12 years."
+          "question": "How much grooming does a Briard coat require?",
+          "answer": "Plan on thorough brushing and combing all the way down to the skin several times a week (and daily for heavy coats) using a pin brush and undercoat rake to prevent mats. Start brushing gently in puppyhood, and avoid shaving the natural double coat."
         },
         {
-          "question": "Do Briards shed a lot, and how is their coat groomed?",
-          "answer": "Briards are relatively low shedders because loose undercoat hairs become trapped within the outer coat. They require thorough line-brushing and combing down to the skin two to three times a week to prevent matting, but they should never be shaved."
+          "question": "Are Briards suited to apartment living?",
+          "answer": "Generally no. Their large frame, strong working stamina, and watchful herding nature are much better suited to a house with a large, securely fenced yard and generous daily exercise."
         },
         {
-          "question": "Are Briards good family dogs and good with children?",
-          "answer": "Yes. Within their own household, they are famously gentle, protective, and affectionate with children; however, because of their size and herding instincts, interactions with toddlers should be supervised, and early training is necessary to prevent heel-nipping."
+          "question": "What is congenital stationary night blindness (CSNB) in Briards?",
+          "answer": "CSNB is an inherited retinal condition caused by a specific 4-base-pair deletion in the RPE65 gene that impairs night vision from puppyhood. Because a reliable DNA test exists, responsible breeders test breeding stock to avoid producing affected puppies."
         },
         {
-          "question": "Can a Briard live in an apartment?",
-          "answer": "No. Due to their large size, working stamina, and natural desire to patrol property boundaries, they are not suited to apartment living and thrive best in a house with a securely fenced yard or rural acreage."
-        },
-        {
-          "question": "Is the Briard easy to train?",
-          "answer": "They are exceptionally intelligent, quick to learn, and eager to please, but have an independent, sensitive mind. Training requires patient, reward-based methods and clear, calm consistency rather than harsh reprimands."
-        },
-        {
-          "question": "How much exercise does a Briard need each day?",
-          "answer": "The breed requires 60 to 90 minutes of daily physical activity, including brisk walks, trail hiking, fetch sessions, and mental challenges like herding, tracking, or agility."
-        },
-        {
-          "question": "What is Congenital Stationary Night Blindness (CSNB)?",
-          "answer": "Congenital stationary night blindness is an inherited eye disorder caused by a mutation in the RPE65 gene that impairs night vision from puppyhood. A definitive DNA test is available to ensure that carrier matings never produce affected dogs."
-        },
-        {
-          "question": "What health tests are recommended for breeding Briards?",
-          "answer": "Recommended pre-breeding screenings include DNA testing for congenital stationary night blindness (CSNB), radiographic hip and elbow dysplasia evaluations, and veterinary ophthalmologist eye exams."
+          "question": "What health screenings should Briard breeders complete?",
+          "answer": "Core pre-breeding tests include a CSNB (RPE65) DNA test, radiographic hip evaluation (typically at 24 months or older), and a veterinary ophthalmologist eye exam, with elbow radiographs and an autoimmune thyroid panel also recommended."
         }
       ],
       "references": [
+        "natureserve-canis-lupus-familiaris",
         "fci-briard-official-standard",
         "fci-briard-nomenclature",
         "scc-briard-breed-standard",
@@ -62949,18 +63047,27 @@
         "akc-briard-breed-standard",
         "akc-briard-breed-profile",
         "the-kennel-club-briard-breed-standard",
+        "rkc-briard-breed-profile",
         "ukc-briard-breed-standard",
         "ofa-briard-chic-requirements",
+        "bca-briard-ofa-chic",
         "briard-csnb-rpe65-study-1998",
+        "the-dog-api",
         "wikimedia-berger-de-brie-fawn-tomasz-sienicki",
         "wikimedia-chien-de-berger-de-brie-pleple2000"
       ],
       "evidence": {
         "scientificName": {
-          "reliability": "unverified",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "natureserve-canis-lupus-familiaris",
+              "role": "verified",
+              "locator": "Related ITIS Names: Canis lupus familiaris Linnaeus, 1758 (TSN 726821); Wilson and Reeder 2005"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Standard domestic dog subspecies taxonomy verified via NatureServe Explorer / ITIS."
         },
         "alternateNames": {
           "reliability": "official_standard",
@@ -62968,26 +63075,21 @@
             {
               "id": "fci-briard-official-standard",
               "role": "verified",
-              "locator": "Standard heading: BERGER DE BRIE (Briard)"
+              "locator": "Standard heading: BERGER DE BRIE (Briard); French Lowlands Sheepdog"
             },
             {
               "id": "fci-briard-nomenclature",
               "role": "verified",
-              "locator": "Official nomenclature: BERGER DE BRIE (113), Briard"
+              "locator": "BERGER DE BRIE (113), BRIARD"
             },
             {
-              "id": "scc-briard-breed-standard",
+              "id": "the-dog-api",
               "role": "verified",
-              "locator": "Dénomination officielle: Berger de Brie (Briard)"
-            },
-            {
-              "id": "akc-briard-breed-profile",
-              "role": "verified",
-              "locator": "History: Briard, Berger de Brie"
+              "locator": "alternateNames: Berger de Brie"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "Verified across FCI Standard No. 113, FCI Nomenclature, SCC, and AKC."
+          "verifiedOn": "2026-11-20",
+          "note": null
         },
         "group": {
           "reliability": "official_standard",
@@ -62995,17 +63097,12 @@
             {
               "id": "fci-briard-official-standard",
               "role": "verified",
-              "locator": "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattle Dogs), Section 1 Sheepdogs, with working trial"
+              "locator": "Group 1 Sheepdogs and Cattle Dogs (except Swiss Cattle Dogs), Section 1 Sheepdogs, with working trial"
             },
             {
-              "id": "fci-briard-nomenclature",
+              "id": "akc-briard-breed-profile",
               "role": "verified",
-              "locator": "Group 1, Section 1 Sheepdogs, with working trial"
-            },
-            {
-              "id": "akc-briard-breed-standard",
-              "role": "verified",
-              "locator": "Herding Group"
+              "locator": "Herding Group (recognized 1928)"
             },
             {
               "id": "the-kennel-club-briard-breed-standard",
@@ -63018,29 +63115,29 @@
               "locator": "Herding Dog Group"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "User-facing group classification formulated without prohibited registry names per Rule 5."
+          "verifiedOn": "2026-11-20",
+          "note": "User-facing group label avoids registry acronyms and group numbers per Rule 5."
         },
         "origin": {
           "reliability": "official_standard",
           "sources": [
             {
-              "id": "fci-briard-official-standard",
-              "role": "verified",
-              "locator": "ORIGIN: France; BRIEF HISTORICAL SUMMARY"
-            },
-            {
               "id": "fci-briard-nomenclature",
               "role": "verified",
-              "locator": "Country of origin: France"
+              "locator": "Country of origin: FRANCE"
             },
             {
-              "id": "scc-briard-breed-standard",
+              "id": "fci-briard-official-standard",
               "role": "verified",
-              "locator": "Origine: France (plaines de Brie)"
+              "locator": "ORIGIN: France; French Lowlands Sheepdog / chien de Brie"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "origin.country: France"
             }
           ],
-          "verifiedOn": "2026-11-10",
+          "verifiedOn": "2026-11-20",
           "note": null
         },
         "overview": {
@@ -63049,26 +63146,26 @@
             {
               "id": "fci-briard-official-standard",
               "role": "verified",
-              "locator": "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+              "locator": "UTILIZATION, BRIEF HISTORICAL SUMMARY (1809 Abbé Rozier, WWI/WWII sentinel & ambulance dog), GENERAL APPEARANCE"
             },
             {
               "id": "scc-briard-breed-standard",
               "role": "verified",
-              "locator": "Historique, aptitudes herbagères, morphologie et caractère"
+              "locator": "Historique (1809, 1897 goat-hair vs woolly varieties) & Description générale"
             },
             {
-              "id": "club-du-chien-de-brie-profile",
+              "id": "rkc-briard-breed-profile",
               "role": "verified",
-              "locator": "Histoire du Chien de Brie, Abbé Rozier 1809, Gaston Phoebus, Thomas Jefferson, et sélection moderne"
+              "locator": "About this breed (1863 first French dog show, 1897 recognition, WWI/WWII)"
             },
             {
               "id": "akc-briard-breed-profile",
               "role": "verified",
-              "locator": "About the Breed, History (Thomas Jefferson, World War I sentry work), and Roles"
+              "locator": "About the Breed, History, Did You Know (Lafayette, Thomas Jefferson)"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "Synthesized in original prose from FCI Standard No. 113, SCC, French parent club, and AKC official records."
+          "verifiedOn": "2026-11-20",
+          "note": null
         },
         "physical": {
           "reliability": "official_standard",
@@ -63076,21 +63173,21 @@
             {
               "id": "fci-briard-official-standard",
               "role": "verified",
-              "locator": "HEAD, BODY, TAIL, LIMBS (double dewclaws), COAT, COLOUR, SIZE"
+              "locator": "HEAD, EYES (oval, paler allowed in blue dogs), NOSE (blue/bluish in blue dogs), EARS, DOUBLE DEWCLAWS, COAT (goat-like, >=7 cm, slight undercoat), COLOUR"
             },
             {
-              "id": "scc-briard-breed-standard",
+              "id": "the-kennel-club-briard-breed-standard",
               "role": "verified",
-              "locator": "Morfologie, tête, double ergots, toison de chèvre et couleurs"
+              "locator": "General appearance, Eyes, Mouth, Neck (updated 2025-08-01)"
             },
             {
               "id": "akc-briard-breed-standard",
               "role": "verified",
-              "locator": "General Appearance, Size, Head, Double Dewclaws, Body, Coat, Color"
+              "locator": "General Appearance, Tail (J-crook), Hindquarters (double dewclaws)"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "Conformation, rectangular build, goat-hair coat, double dewclaws on hind legs, J-shaped tail, and distinctive features follow official standards."
+          "verifiedOn": "2026-11-20",
+          "note": "Corrected undercoat to 'light/slight', eye shape to 'oval' (with paler eyes allowed in blue dogs), and warm fawn shading to lighter on extremities per FCI Standard No. 113."
         },
         "physical.height": {
           "reliability": "official_standard",
@@ -63098,94 +63195,157 @@
             {
               "id": "fci-briard-official-standard",
               "role": "verified",
-              "locator": "SIZE: Height at withers: Males: 62 cm to 68 cm. Females: 56 cm to 64 cm."
+              "locator": "SIZE: Males 62–68 cm at the withers; Females 56–64 cm at the withers"
             },
             {
-              "id": "scc-briard-breed-standard",
-              "role": "verified",
-              "locator": "Taille: Mâles: 62 à 68 cm; Femelles: 56 à 64 cm"
+              "id": "akc-briard-breed-profile",
+              "role": "conflicting",
+              "locator": "Height: 23–27 inches (male), 22–25.5 inches (female)"
             },
             {
-              "id": "akc-briard-breed-standard",
-              "role": "verified",
-              "locator": "Height: Males: 23 to 27 inches (approx. 58.5 to 68.5 cm); Females: 22 to 25.5 inches (approx. 56 to 65 cm)"
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "height (cm): male 58–69, female 56–65"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "Preserved in published unit of centimetres (62–68 cm for males, 56–64 cm for females) exactly as specified in the official FCI Standard No. 113 and SCC standard."
+          "verifiedOn": "2026-11-20",
+          "note": "Kept FCI Standard No. 113 metric heights (62–68 cm males, 56–64 cm females) over The Dog API (58–69 / 56–65 cm) and AKC inch ranges."
+        },
+        "physical.height.male.max": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-briard-official-standard",
+              "role": "verified",
+              "locator": "SIZE: Males 62–68 cm"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "height.male.max: 69 cm"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": null
+        },
+        "physical.height.female.max": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-briard-official-standard",
+              "role": "verified",
+              "locator": "SIZE: Females 56–64 cm"
+            },
+            {
+              "id": "the-dog-api",
+              "role": "conflicting",
+              "locator": "height.female.max: 65 cm"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": null
         },
         "physical.weight": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "scc-briard-breed-standard",
+              "id": "the-dog-api",
               "role": "verified",
-              "locator": "Poids: Mâles: environ 30 à 40 kg; Femelles: environ 25 à 35 kg"
-            },
-            {
-              "id": "club-du-chien-de-brie-profile",
-              "role": "verified",
-              "locator": "Poids moyen: 30-40 kg pour les mâles, 25-35 kg pour les femelles"
+              "locator": "weight (kg): male 32–45, female 23–29"
             },
             {
               "id": "akc-briard-breed-profile",
-              "role": "verified",
-              "locator": "Weight: 55-100 pounds (approx. 25-45 kg)"
+              "role": "cited",
+              "locator": "Weight: 55–100 pounds (overall range in pounds)"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "FCI Standard No. 113 specifies height ranges without publishing numerical weight limits. The stored 30 to 40 kg for males and 25 to 35 kg for females represent canonical figures published by SCC and the French parent club, preserved in kilograms."
+          "verifiedOn": "2026-11-20",
+          "note": "FCI Standard No. 113 does not publish numerical weight limits. Stored The Dog API's published metric weights (32–45 kg males, 23–29 kg females), consistent with AKC's 55–100 lb range."
+        },
+        "physical.weight.male.max": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "weight.male.max: 45 kg"
+            },
+            {
+              "id": "akc-briard-breed-profile",
+              "role": "cited",
+              "locator": "Weight upper range: 100 pounds"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": null
+        },
+        "physical.weight.female.max": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "the-dog-api",
+              "role": "verified",
+              "locator": "weight.female.max: 29 kg"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": null
         },
         "physical.lifespanYears": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "akc-briard-breed-profile",
+              "id": "the-dog-api",
               "role": "verified",
-              "locator": "Life Expectancy: 12 years (typical range 10-12 years)"
+              "locator": "lifespanYears: 10–12"
             },
             {
-              "id": "the-kennel-club-briard-breed-standard",
+              "id": "akc-briard-breed-profile",
               "role": "verified",
-              "locator": "Longevity and health actuarial profile (10-12 years)"
+              "locator": "Life Expectancy: 12 years"
+            },
+            {
+              "id": "rkc-briard-breed-profile",
+              "role": "cited",
+              "locator": "Lifespan: Over 10 years"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "Supported by kennel club and breed club actuarial profiles."
+          "verifiedOn": "2026-11-20",
+          "note": null
         },
         "physical.sheddingLevel": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "akc-briard-breed-profile",
+              "id": "rkc-briard-breed-profile",
               "role": "verified",
-              "locator": "Breed Traits: Shedding Level (2/5)"
+              "locator": "Breed characteristics: Sheds: Yes"
             },
             {
-              "id": "fci-briard-official-standard",
+              "id": "akc-briard-breed-profile",
               "role": "verified",
-              "locator": "COAT: Long, dry, supple goat-like hair with dense undercoat; low shedding when brushed"
+              "locator": "Grooming: undercoat rake eliminates dead hair and lessens shedding"
             }
           ],
-          "verifiedOn": "2026-11-10",
+          "verifiedOn": "2026-11-20",
           "note": null
         },
         "physical.droolingLevel": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "akc-briard-breed-profile",
-              "role": "verified",
-              "locator": "Breed Traits: Drooling Level (2/5)"
-            },
-            {
               "id": "fci-briard-official-standard",
               "role": "verified",
-              "locator": "Lips: Tight fitting lips; beard collects moisture"
+              "locator": "Lips: tight fitting"
+            },
+            {
+              "id": "akc-briard-breed-profile",
+              "role": "verified",
+              "locator": "Breed Traits: Drooling Level"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "Tight lips result in low to moderate drooling, though beards retain drinking moisture."
+          "verifiedOn": "2026-11-20",
+          "note": null
         },
         "temperament.traits": {
           "reliability": "official_standard",
@@ -63193,20 +63353,20 @@
             {
               "id": "fci-briard-official-standard",
               "role": "verified",
-              "locator": "BEHAVIOUR/TEMPERAMENT: Temperament of balanced character, neither aggressive nor timid, courageous, devoted"
+              "locator": "BEHAVIOUR/TEMPERAMENT: Balanced temperament, neither aggressive nor timid; steady and fearless"
             },
             {
-              "id": "scc-briard-breed-standard",
+              "id": "akc-briard-breed-profile",
               "role": "verified",
-              "locator": "Caractère: Équilibré, fidèle, protecteur, sage et hardi"
+              "locator": "confident / smart / faithful; protective of family, wary with outsiders; excellent memory"
             },
             {
-              "id": "akc-briard-breed-standard",
+              "id": "the-dog-api",
               "role": "verified",
-              "locator": "General Impression: Heart wrapped in fur, fearless, gentle, intelligent, faithful"
+              "locator": "temperament.traits: Loyal, intelligent, protective, confident, courageous, devoted"
             }
           ],
-          "verifiedOn": "2026-11-10",
+          "verifiedOn": "2026-11-20",
           "note": null
         },
         "temperament.scores": {
@@ -63215,16 +63375,16 @@
             {
               "id": "akc-briard-breed-profile",
               "role": "cited",
-              "locator": "Breed Traits & Characteristics trait ratings"
+              "locator": "Breed Traits & Characteristics"
             },
             {
-              "id": "the-kennel-club-briard-breed-standard",
+              "id": "fci-briard-official-standard",
               "role": "cited",
-              "locator": "Temperament and behavior guidance"
+              "locator": "Behaviour / Temperament"
             }
           ],
           "verifiedOn": null,
-          "note": "Editorial 1–5 estimates based on documented pastoral guardian temperament, high family devotion, and territorial vigilance."
+          "note": "Editorial 1–5 ratings synthesized from kennel club descriptions."
         },
         "care": {
           "reliability": "general_guidance",
@@ -63232,67 +63392,67 @@
             {
               "id": "akc-briard-breed-profile",
               "role": "cited",
-              "locator": "Grooming, Exercise, Training, and Nutrition"
+              "locator": "Grooming, Exercise, Training, Nutrition"
             },
             {
-              "id": "club-du-chien-de-brie-profile",
+              "id": "rkc-briard-breed-profile",
               "role": "cited",
-              "locator": "Entretien du pelage, ergots et éducation pastorale"
+              "locator": "Breed characteristics: Exercise (more than 2 hours/day), Grooming (every day), Large house/garden"
             }
           ],
           "verifiedOn": null,
-          "note": "Combines active pastoral shepherd management with goat-hair double coat line-brushing and dewclaw care protocols."
+          "note": null
         },
         "care.exercise.level": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "akc-briard-breed-profile",
+              "id": "rkc-briard-breed-profile",
               "role": "verified",
-              "locator": "Energy Level (4/5); Exercise Needs (4/5)"
+              "locator": "Exercise: More than 2 hours per day"
             },
             {
-              "id": "fci-briard-official-standard",
+              "id": "akc-briard-breed-profile",
               "role": "verified",
-              "locator": "UTILIZATION: Sheepdog and guard dog"
+              "locator": "Exercise: requires a job and craves action (hikers, bicyclers, joggers)"
             }
           ],
-          "verifiedOn": "2026-11-10",
+          "verifiedOn": "2026-11-20",
           "note": null
         },
         "care.exercise.minutesPerDay": {
           "reliability": "estimate",
           "sources": [
             {
-              "id": "the-kennel-club-briard-breed-standard",
+              "id": "rkc-briard-breed-profile",
               "role": "cited",
-              "locator": "Exercise: Up to 1 hour or more per day"
+              "locator": "Exercise: More than 2 hours per day"
             },
             {
               "id": "akc-briard-breed-profile",
               "role": "cited",
-              "locator": "Daily exercise recommendations"
+              "locator": "Exercise recommendations"
             }
           ],
           "verifiedOn": null,
-          "note": "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic working herding breed."
+          "note": "Editorial estimate of 60–120 minutes/day reflecting high pastoral exercise needs."
         },
         "care.livingEnvironment.apartmentSuitable": {
           "reliability": "estimate",
           "sources": [
             {
-              "id": "akc-briard-breed-profile",
+              "id": "rkc-briard-breed-profile",
               "role": "cited",
-              "locator": "Large size, exercise needs, and territorial flock vigilance"
+              "locator": "Size of home: Large house; Size of garden: Large garden"
             },
             {
-              "id": "club-du-chien-de-brie-profile",
+              "id": "akc-briard-breed-profile",
               "role": "cited",
-              "locator": "Cadre de vie recommandé: maison avec grand jardin"
+              "locator": "Exercise: needs a large, securely fenced area"
             }
           ],
           "verifiedOn": null,
-          "note": "Editorial evaluation that large size, vigorous herding drive, and territorial vigilance make apartment living generally unsuitable."
+          "note": null
         },
         "care.livingEnvironment.houseWithYardSuitable": {
           "reliability": "reliable_source",
@@ -63300,15 +63460,15 @@
             {
               "id": "akc-briard-breed-profile",
               "role": "verified",
-              "locator": "Exercise and secure fenced-yard recommendations"
+              "locator": "Exercise: large, securely fenced area"
             },
             {
-              "id": "club-du-chien-de-brie-profile",
+              "id": "rkc-briard-breed-profile",
               "role": "verified",
-              "locator": "Espace extérieur sécurisé pour l'exercice"
+              "locator": "Size of home: Large house; Size of garden: Large garden"
             }
           ],
-          "verifiedOn": "2026-11-10",
+          "verifiedOn": "2026-11-20",
           "note": null
         },
         "care.livingEnvironment.climates": {
@@ -63317,15 +63477,15 @@
             {
               "id": "fci-briard-official-standard",
               "role": "verified",
-              "locator": "COAT: Harsh, dry goat-hair coat with undercoat adapted to outdoor pasture weather"
+              "locator": "COAT: long, dry goat-like hair with light undercoat"
             },
             {
-              "id": "akc-briard-breed-profile",
+              "id": "rkc-briard-breed-profile",
               "role": "verified",
-              "locator": "Weather adaptation: well-suited to cool and temperate climates"
+              "locator": "Pastoral Group weatherproof double coat"
             }
           ],
-          "verifiedOn": "2026-11-10",
+          "verifiedOn": "2026-11-20",
           "note": null
         },
         "care.livingEnvironment.aloneTimeTolerance": {
@@ -63334,10 +63494,15 @@
             {
               "id": "akc-briard-breed-profile",
               "role": "verified",
-              "locator": "Tolerates Being Alone: Low to moderate; deeply attached to family"
+              "locator": "About the Breed & Exercise: strong need for human companionship"
+            },
+            {
+              "id": "scc-briard-breed-standard",
+              "role": "verified",
+              "locator": "Comportement: ne doit pas être relégué en chenil ni attaché"
             }
           ],
-          "verifiedOn": "2026-11-10",
+          "verifiedOn": "2026-11-20",
           "note": null
         },
         "nutrition": {
@@ -63346,11 +63511,11 @@
             {
               "id": "akc-briard-breed-profile",
               "role": "cited",
-              "locator": "Nutrition: High-quality food, portion control, treat budgeting"
+              "locator": "Nutrition: high-quality age-appropriate food, calorie/weight monitoring"
             }
           ],
           "verifiedOn": null,
-          "note": "Standard nutritional recommendations for active large herding breeds."
+          "note": null
         },
         "nutrition.feedingFrequency": {
           "reliability": "general_guidance",
@@ -63358,11 +63523,11 @@
             {
               "id": "akc-briard-breed-profile",
               "role": "cited",
-              "locator": "Life-stage feeding guidance"
+              "locator": "Age-appropriate diet guidance"
             }
           ],
           "verifiedOn": null,
-          "note": "Standard canine life-stage feeding schedule."
+          "note": "Standard large-breed life-stage feeding schedule."
         },
         "health.overview": {
           "reliability": "reliable_source",
@@ -63370,21 +63535,26 @@
             {
               "id": "briard-csnb-rpe65-study-1998",
               "role": "verified",
-              "locator": "Identification of the RPE65 gene deletion causing congenital stationary night blindness in Briards"
+              "locator": "Mol Vis 1998 (PMID 9808841): homozygous 4-bp (AAGA) deletion in RPE65 causing CSNB"
             },
             {
-              "id": "ofa-briard-chic-requirements",
+              "id": "bca-briard-ofa-chic",
               "role": "verified",
-              "locator": "CHIC Program requirements: Hip Dysplasia, CAER Eye exam, CSNB DNA test"
+              "locator": "Required: Hip Dysplasia (min 24 mo), ACVO Eye Exam, CSNB DNA; Optional: Autoimmune Thyroiditis, Elbow Dysplasia"
             },
             {
-              "id": "club-du-chien-de-brie-profile",
+              "id": "rkc-briard-breed-profile",
               "role": "verified",
-              "locator": "Santé, dépistage de la cécité crépusculaire (CSNB), dysplasie de la hanche et torsions gastriques"
+              "locator": "CSNB DNA test, BVA/KC Hip Scheme, and Jan 6, 2025 import/overseas-sire CSNB registration restriction"
+            },
+            {
+              "id": "akc-briard-breed-profile",
+              "role": "verified",
+              "locator": "Health: hip dysplasia, CSNB, cataracts, corneal dystrophy, retinal folds, hypothyroidism, immune diseases, EPI, kidney disease, cancer"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "Synthesizes peer-reviewed genetics research on congenital stationary night blindness with health registry screening protocols."
+          "verifiedOn": "2026-11-20",
+          "note": "Distinguishes genetically established conditions and required screenings from optional/reported concerns per Rule 8."
         },
         "health.commonConditions": {
           "reliability": "reliable_source",
@@ -63392,72 +63562,72 @@
             {
               "id": "briard-csnb-rpe65-study-1998",
               "role": "verified",
-              "locator": "Congenital stationary night blindness (CSNB) pathology and genetic mechanism"
+              "locator": "RPE65 4-bp deletion and CSNB (PMID 9808841)"
             },
             {
-              "id": "ofa-briard-chic-requirements",
+              "id": "bca-briard-ofa-chic",
               "role": "verified",
-              "locator": "Hip dysplasia, elbow dysplasia, and eye diseases"
+              "locator": "Hip dysplasia, eye disorders, CSNB, autoimmune thyroiditis, elbow dysplasia"
             },
             {
-              "id": "club-du-chien-de-brie-profile",
+              "id": "akc-briard-breed-profile",
               "role": "verified",
-              "locator": "Gastric dilatation-volvulus (bloat), cataracts, progressive retinal atrophy"
+              "locator": "Health section condition list"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+          "verifiedOn": "2026-11-20",
+          "note": null
         },
         "health.preventiveCare": {
           "reliability": "general_guidance",
           "sources": [
             {
-              "id": "club-du-chien-de-brie-profile",
+              "id": "bca-briard-ofa-chic",
               "role": "cited",
-              "locator": "Dépistage obligatoire des reproducteurs, soins des ergots et prévention du retournement d'estomac"
+              "locator": "Pre-breeding health testing"
             },
             {
               "id": "akc-briard-breed-profile",
               "role": "cited",
-              "locator": "Routine care, bloat precautions, and veterinary checks"
+              "locator": "Grooming, Nutrition, and Health guidance"
             }
           ],
           "verifiedOn": null,
-          "note": "Standard preventive care protocol tailored to large double-dewclawed herding breeds."
+          "note": null
         },
         "health.recommendedScreenings": {
           "reliability": "reliable_source",
           "sources": [
             {
-              "id": "ofa-briard-chic-requirements",
+              "id": "bca-briard-ofa-chic",
               "role": "verified",
-              "locator": "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, CAER Eye examination, CSNB DNA test"
+              "locator": "CHIC required: Hip Dysplasia (OFA/PennHIP/International, min 24 mo), ACVO Eye Exam (6 mo–8 yr), CSNB DNA; Optional: Autoimmune Thyroiditis (FT4D, cTSH, TgAA), Elbow Dysplasia"
             },
             {
-              "id": "club-du-chien-de-brie-profile",
+              "id": "ofa-briard-chic-requirements",
               "role": "verified",
-              "locator": "Protocole de dépistage: CSNB, hanches, coudes et tares oculaires"
+              "locator": "OFA CHIC Briard program"
+            },
+            {
+              "id": "rkc-briard-breed-profile",
+              "role": "verified",
+              "locator": "Good/Best Practice: genetic diversity, CSNB DNA test, BVA/KC Hip Scheme"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "Screenings summarize published parent club and health registry protocols."
+          "verifiedOn": "2026-11-20",
+          "note": null
         },
         "health.dentalCare": {
           "reliability": "general_guidance",
           "sources": [
             {
-              "id": "fci-briard-official-standard",
+              "id": "the-kennel-club-briard-breed-standard",
               "role": "cited",
-              "locator": "Jaws/teeth: strong jaws with complete scissor bite"
-            },
-            {
-              "id": "akc-briard-breed-profile",
-              "role": "cited",
-              "locator": "Routine dental care"
+              "locator": "Mouth: strong white teeth, complete scissor bite"
             }
           ],
           "verifiedOn": null,
-          "note": "Standard home dental hygiene guidelines."
+          "note": null
         },
         "health.earCare": {
           "reliability": "general_guidance",
@@ -63465,33 +63635,23 @@
             {
               "id": "fci-briard-official-standard",
               "role": "cited",
-              "locator": "Ears: set on high, covered with long hair"
-            },
-            {
-              "id": "akc-briard-breed-profile",
-              "role": "cited",
-              "locator": "Ear hygiene and inspection"
+              "locator": "Ears: set on high, flat, covered with long hair"
             }
           ],
           "verifiedOn": null,
-          "note": "Ear maintenance protocol for heavy drop ears covered with long hair."
+          "note": null
         },
         "health.skinCare": {
           "reliability": "general_guidance",
           "sources": [
             {
-              "id": "fci-briard-official-standard",
+              "id": "akc-briard-breed-profile",
               "role": "cited",
-              "locator": "Skin: supple, no dewlap; long goat-like hair care"
-            },
-            {
-              "id": "club-du-chien-de-brie-profile",
-              "role": "cited",
-              "locator": "Entretien du poil et prévention des feutrages cutanés"
+              "locator": "Grooming: brush completely to the skin several times a week"
             }
           ],
           "verifiedOn": null,
-          "note": "Dermatological care protocol for breeds with dense long double coats."
+          "note": null
         },
         "suitability": {
           "reliability": "estimate",
@@ -63499,16 +63659,16 @@
             {
               "id": "akc-briard-breed-profile",
               "role": "cited",
-              "locator": "About the breed, Temperament, and Family life ratings"
+              "locator": "About the Breed, Exercise, Grooming, Training"
             },
             {
-              "id": "the-kennel-club-briard-breed-standard",
+              "id": "rkc-briard-breed-profile",
               "role": "cited",
-              "locator": "Characteristics, lifestyle suitability, and exercise"
+              "locator": "Breed characteristics"
             }
           ],
           "verifiedOn": null,
-          "note": "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and coat care commitments."
+          "note": "Editorial suitability summary based on large size, high exercise, daily grooming, and herding drive."
         },
         "funFacts": {
           "reliability": "reliable_source",
@@ -63516,21 +63676,26 @@
             {
               "id": "akc-briard-breed-profile",
               "role": "verified",
-              "locator": "Thomas Jefferson Monticello import (Bergère), 'heart wrapped in fur' saying, World War I sentry work, Dog of Montargis legend"
+              "locator": "'heart wrapped in fur', Thomas Jefferson & Lafayette"
             },
             {
               "id": "fci-briard-official-standard",
               "role": "verified",
-              "locator": "Brief historical summary: Double dewclaws, crochet tail, Abbé Rozier 1809"
+              "locator": "Double dewclaws, crochet tail, WWI/WWII military service"
+            },
+            {
+              "id": "rkc-briard-breed-profile",
+              "role": "verified",
+              "locator": "About this breed: WWI/WWII pack and search dogs"
             },
             {
               "id": "club-du-chien-de-brie-profile",
-              "role": "verified",
-              "locator": "Historique et traditions pastorales françaises"
+              "role": "cited",
+              "locator": "French pastoral heritage"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "Verified historical folklore and working heritage facts."
+          "verifiedOn": "2026-11-20",
+          "note": null
         },
         "faq": {
           "reliability": "reliable_source",
@@ -63538,29 +63703,34 @@
             {
               "id": "fci-briard-official-standard",
               "role": "verified",
-              "locator": "Origin, size (62-68 cm / 56-64 cm), coat, colors, double dewclaws, and tail crochet"
+              "locator": "Size (62–68 cm / 56–64 cm), double dewclaws, coat"
             },
             {
-              "id": "scc-briard-breed-standard",
+              "id": "the-dog-api",
               "role": "verified",
-              "locator": "Poids (30-40 kg / 25-35 kg), longévité (10-12 ans), tempérament"
+              "locator": "Weight (32–45 kg / 23–29 kg), lifespan (10–12 years)"
             },
             {
               "id": "akc-briard-breed-profile",
               "role": "verified",
-              "locator": "Grooming, exercise, family suitability, and training"
+              "locator": "Grooming, living environment, training"
             },
             {
-              "id": "ofa-briard-chic-requirements",
+              "id": "briard-csnb-rpe65-study-1998",
               "role": "verified",
-              "locator": "Recommended health screening panel and CSNB DNA testing"
+              "locator": "CSNB RPE65 4-bp deletion (PMID 9808841)"
+            },
+            {
+              "id": "bca-briard-ofa-chic",
+              "role": "verified",
+              "locator": "CHIC pre-breeding health screenings"
             }
           ],
-          "verifiedOn": "2026-11-10",
-          "note": "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+          "verifiedOn": "2026-11-20",
+          "note": null
         }
       },
-      "updatedOn": "2026-11-10"
+      "updatedOn": "2026-11-20"
     },
     {
       "slug": "brittany",
@@ -135092,6 +135262,813 @@
       "updatedOn": "2026-11-12"
     },
     {
+      "slug": "komondor",
+      "name": "Komondor",
+      "scientificName": "Canis lupus familiaris",
+      "alternateNames": [
+        "Komondorok",
+        "Hungarian Sheepdog"
+      ],
+      "group": "Sheepdogs and Cattledogs (except Swiss Cattledogs); Section 1 — Sheepdogs (without working trial; also classified in the Working and Pastoral groups)",
+      "origin": {
+        "country": "Hungary",
+        "region": null
+      },
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Komondor_IMG_0329.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Komondor_IMG_0329.JPG",
+          "title": "Komondor IMG 0329.JPG",
+          "description": "An adult Komondor outdoors in profile, showcasing its massive build and heavy, full-length ivory-white corded coat reaching toward the ground.",
+          "creator": "Kari Kuosa",
+          "uploader": "Kari Kuosa",
+          "capturedOn": "2007-05-05",
+          "uploadedOn": "2007-05-27",
+          "width": 3456,
+          "height": 2304,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Kari Kuosa, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Komondor_IMG_0329.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-11-20"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Komondor.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Komondor.jpg",
+          "title": "Komondor.jpg",
+          "description": "A mature Komondor standing on grass, displaying its dense mop-like white cords draping evenly across the head, body, and limbs.",
+          "creator": "Katri Laitinen (Hvitaharen)",
+          "uploader": "Nironen",
+          "capturedOn": "2005-08-13",
+          "uploadedOn": "2005-12-28",
+          "width": 450,
+          "height": 300,
+          "licenseId": "cc-by-sa-3.0",
+          "attribution": "Photo by Katri Laitinen (Hvitaharen), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Komondor.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+          "restrictions": null,
+          "metadataCheckedOn": "2026-11-20"
+        }
+      ],
+      "overview": {
+        "summary": "A giant, powerfully muscled Hungarian livestock guardian wrapped head to tail in a dense, heavy ivory-white corded coat, renowned for its fearless nocturnal vigilance, independence, and steadfast devotion to its charges.",
+        "description": "The Komondor is one of the largest and most immediately recognizable working dogs in the world, projecting imposing strength, quiet dignity, and effortless athletic power beneath its heavy coat of ivory-white cords. Beneath the thick, felt-like tassels lies a slightly rectangular, heavily boned, deeply chested frame built to confront wolves and bears across open plains. A broad head carries a wide, truncated muzzle with tight black lips, dark almond-shaped eyes shaded by heavy cords, and medium-set, elongated triangular drop ears. Despite its colossal stature, the Komondor moves with a light, balanced, surprisingly agile stride and can explode into rapid motion in an instant if danger threatens its territory. Calm, steady, and affectionate with its own household during quiet times, it remains intensely territorial, independent, and deeply distrustful of unannounced strangers—demanding an experienced handler, secure fencing, and committed lifelong coat management.",
+        "history": "The Komondor is an ancient Hungarian flock guardian closely linked to the nomadic Turkic-speaking Cumans, who migrated westward from the Asian steppes and were granted asylum in Hungary during the thirteenth century. Its very name is widely traced to 'Koman-dor' ('dog of the Cumans'), distinguishing these formidable white-corded guardians from other pastoral dogs of the Carpathian Basin. The earliest surviving written record of the breed's name appears in 1544 in Péter Kákonyi's Hungarian work 'History of King Astiagis,' followed by seventeenth-century references by John Amos Comenius. For centuries, shepherds across the Hungarian plains relied on the Komondor's thick white cords both as camouflage within sheep flocks and as natural armour against predator bites. World War II devastated the population, as fiercely loyal dogs were routinely killed defending farms during invasions, nearly wiping the breed out. Dedicated post-war conservation efforts restored the population, and Hungary later designated the Komondor a protected national treasure. Today, it serves both as a working livestock guardian and as a devoted rural estate protector.",
+        "originalPurpose": "Independently guarding flocks of sheep and rural homesteads across the Hungarian plains against wolves, bears, and human intruders.",
+        "currentRoles": [
+          "Working livestock guardian dog",
+          "Rural estate and homestead protector",
+          "Devoted companion for experienced large-breed owners"
+        ]
+      },
+      "physical": {
+        "sizeCategory": "Giant",
+        "height": {
+          "unit": "cm",
+          "male": {
+            "min": 70,
+            "max": null
+          },
+          "female": {
+            "min": 65,
+            "max": null
+          }
+        },
+        "weight": {
+          "unit": "kg",
+          "male": {
+            "min": 50,
+            "max": 60
+          },
+          "female": {
+            "min": 40,
+            "max": 50
+          }
+        },
+        "lifespanYears": {
+          "min": 10,
+          "max": 12
+        },
+        "coatType": "Profuse, dense, protective double coat consisting of a coarser wavy or curly outer coat and a soft, woolly undercoat that naturally interlock into permanent, heavy, felt-like cords by around two years of age. The puppy coat begins soft and fluffy before clumping into cords around nine to ten months.",
+        "coatLength": "Long",
+        "coatColors": [
+          "Ivory white (always white, though rarely the bright snow-white of a brushed coat; small amounts of cream or buff shading may appear in puppies and fade with maturity; slate-grey skin is preferred)"
+        ],
+        "sheddingLevel": "Low; once the cords mature around two years of age, loose undercoat hair becomes locked inside the cords rather than shedding freely around the home (puppies shed noticeably before cording completes)",
+        "droolingLevel": "Low; tight-fitting black lips keep drooling minimal, though the long cords around the muzzle absorb water heavily after drinking",
+        "distinctiveFeatures": [
+          "Giant, heavily boned, powerfully muscled rectangular frame slightly longer than tall",
+          "Minimum height at the withers of 70 cm for males and 65 cm for females (with no formal upper height limit)",
+          "Adult weight of 50 to 60 kg for males and 40 to 50 kg for females",
+          "Profuse ivory-white corded double coat covering head, body, limbs, and tail, providing weather insulation and bite protection",
+          "Broad head measuring approximately two-fifths of withers height, with a wide truncated muzzle, straight parallel planes, and tight black lips",
+          "Wide black nose with open nostrils and a complete scissor bite (level bite acceptable)",
+          "Dark brown almond-shaped eyes with grey or black eyelid rims",
+          "Medium-set, hanging elongated triangular drop ears with slightly rounded tips",
+          "Deep, broad, muscular chest with a slight abdominal tuck-up and wide, gently sloping rump",
+          "Low-set hanging tail reaching to the hocks with a slight upward or sideways curl at the tip, never raised higher than the back even in excitement",
+          "Large, strong feet with close arched toes and hard, elastic black or grey pads supporting an agile, light-footed stride"
+        ]
+      },
+      "temperament": {
+        "traits": [
+          "Calm, steady, and dignified when surroundings are peaceful",
+          "Fiercely protective, courageous, and willing to leap instantly into defence of its family, livestock, or territory",
+          "Deeply independent thinker bred to assess threats and act without waiting for human commands",
+          "Naturally wary and suspicious of unfamiliar strangers, accepting invited guests once clearly introduced by its owner",
+          "Affectionate, gentle, and steadfastly loyal toward its immediate household",
+          "Slow to mature, often not reaching full emotional and behavioural adulthood until around three years of age",
+          "Can become overly territorial, noisy, or aggressive toward unfamiliar people and dogs without early socialization and structured obedience"
+        ],
+        "scores": {
+          "affection": 4,
+          "withChildren": 3,
+          "withDogs": 2,
+          "withStrangers": 1,
+          "protectiveness": 5,
+          "independence": 5,
+          "trainability": 2,
+          "barking": 4,
+          "energy": 3
+        }
+      },
+      "care": {
+        "exercise": {
+          "level": "Moderate; despite its imposing size and explosive agility, adult Komondors do not demand frantic endurance running—they stay fit through steady daily walks, yard patrolling, and active engagement with their owner",
+          "minutesPerDay": {
+            "min": 45,
+            "max": 60
+          },
+          "activities": [
+            "Structured daily leashed walks (two to three times daily if without a large fenced yard)",
+            "Free movement and patrolling inside a large, robustly fenced rural yard or acreage",
+            "Working livestock-guardian duties on farms or pastures",
+            "Obedience exercises and mental enrichment games that engage its sharp problem-solving mind"
+          ]
+        },
+        "grooming": {
+          "level": "High",
+          "brushing": "Never brush a mature corded Komondor coat. Instead, as the puppy coat begins to clump into plates around nine to ten months of age, separate the mats by hand down to the skin into quarter-sized sections, and spend time every week splitting new root growth so individual cords stay neat and clean.",
+          "bathing": "Bathe periodically using heavily diluted shampoo squeezed gently through the cords rather than rubbed vigorously; rinse thoroughly and dry with towels, high-velocity fans, or dryers, as thick cords can take two to three days to dry completely.",
+          "notes": [
+            "Inspect down to the skin regularly during weekly cord separation, because fleas, ticks, burrs, and skin irritation hide easily beneath heavy cords.",
+            "Trim excess hair neatly between the foot pads and around the mouth and sanitary areas to keep the coat hygienic.",
+            "Check the hanging drop ears weekly for trapped moisture, wax, or debris, keeping the ear canals clean and dry to prevent ear infections.",
+            "Trim strong nails every few weeks and brush teeth several times weekly using canine enzymatic toothpaste."
+          ]
+        },
+        "training": {
+          "difficulty": "Challenging; highly intelligent and capable of reliable obedience, yet strongly independent, protective, and quick to turn obstinate if lessons feel dull or heavy-handed",
+          "tips": [
+            "Begin formal obedience training early (around four to eight months of age) so the dog reliably follows commands well before reaching full giant size by one year.",
+            "Keep training sessions short, upbeat, varied, and built on genuine praise and fair, consistent boundaries—boredom triggers stubborn refusal.",
+            "Teach strict doorway manners and controlled greeting protocols so invited guests can enter safely under owner direction.",
+            "Avoid off-leash dog parks, as strong territorial and guarding instincts frequently clash with unfamiliar dogs."
+          ],
+          "socialization": "Extensive, positive socialization throughout puppyhood and adolescence is essential. Exposing the young dog calmly to varied people, novel places, and controlled interactions helps it distinguish genuine threats from ordinary visitors and prevents fearful or excessive reactivity."
+        },
+        "livingEnvironment": {
+          "apartmentSuitable": false,
+          "houseWithYardSuitable": true,
+          "climates": [
+            "Cool and cold continental climates, where the thick double-layered corded coat provides extraordinary natural weather insulation",
+            "Temperate four-season climates",
+            "Hot or humid climates require air-conditioned indoor shelter, abundant shade, and cool drinking water, as the dense corded coat retains heat"
+          ],
+          "aloneTimeTolerance": "Moderate to high; bred to patrol pastures autonomously overnight, mature adults handle independent time calmly, though they must live inside securely fenced territory and remain connected to their household."
+        }
+      },
+      "nutrition": {
+        "dietType": "High-quality complete and balanced large- or giant-breed dog food, using a controlled-growth giant-breed puppy formula during development.",
+        "feedingFrequency": {
+          "puppy": "Three to four measured small meals daily on a consistent schedule during early growth, transitioning carefully to protect developing giant-breed joints.",
+          "adult": "Two measured meals daily (morning and evening) to support digestion and help reduce bloat risk.",
+          "senior": "Two portion-controlled meals daily tailored for slower metabolism and joint maintenance."
+        },
+        "guidelines": "Measure every meal accurately—surprisingly for its colossal appearance, an adult Komondor is often a relatively modest, efficient eater compared with heavier giant breeds. Feed puppies a balanced giant-breed diet with controlled calcium and caloric density so bone growth proceeds steadily rather than too rapidly. Always divide adult rations into two smaller meals, enforce calm rest before and after eating, and provide fresh cool water continuously.",
+        "considerations": [
+          "Because this giant, deep-chested breed is vulnerable to gastric dilatation-volvulus (bloat), avoid single giant meals and restrict vigorous running for at least an hour before and after eating.",
+          "Keep the dog lean and well-muscled beneath the thick cords—feel the ribs weekly with your hands so gradual weight gain does not go unnoticed.",
+          "Avoid fatty table scraps and cooked bones, which risk gastrointestinal upset or pancreatitis.",
+          "Transition gradually between food formulas over five to seven days."
+        ],
+        "note": "Daily caloric needs vary significantly between active outdoor livestock guardians and lower-activity home companions. Consult a veterinarian to tailor feeding plans."
+      },
+      "health": {
+        "overview": "The Komondor is generally a sturdy, relatively healthy giant breed with a typical life expectancy of 10 to 12 years. Primary health priorities include giant-breed orthopedic and gastric risks—specifically hip dysplasia and life-threatening gastric dilatation-volvulus (bloat)—alongside ocular conditions such as entropion and cataracts. Molecular veterinary research has also identified an autosomal-recessive CUBN splice-site mutation causing inherited selective cobalamin (vitamin B12) malabsorption (Imerslund-Gräsbeck syndrome) in Komondors, which is preventable through pre-breeding DNA screening. Owners and veterinarians should also note that, like many livestock guardian breeds, Komondorok can show heightened sensitivity to anesthetics.",
+        "commonConditions": [
+          "Inherited selective cobalamin (vitamin B12) malabsorption (Imerslund-Gräsbeck syndrome, CUBN-related) — a scientifically established autosomal-recessive metabolic disorder caused by a CUBN intron 55 splice-donor variant (c.8746+1G>A), producing juvenile failure to thrive, inappetence, vomiting or diarrhoea, weakness, megaloblastic anaemia, methylmalonic aciduria, and proteinuria; detected at mutant allele frequencies of 8.3% in North American and 4.5% in Hungarian Komondors, reversible with regular vitamin B12 injections and preventable via DNA testing",
+          "Gastric dilatation-volvulus (GDV / bloat) — a sudden, life-threatening distension and twisting of the stomach requiring emergency veterinary intervention, an inherent risk in giant, deep-chested breeds",
+          "Hip dysplasia — developmental laxity and malformation of the hip joints leading to osteoarthritis, monitored through mandatory pre-breeding radiographic screening",
+          "Entropion and other ocular disorders — inward rolling of the eyelids that irritates the cornea (correctable surgically) as well as cataracts, monitored through veterinary ophthalmologist examinations",
+          "Otitis externa (ear infections) and hidden external parasites — conformation-linked risks promoted by hanging drop ears and heavy cords that trap moisture, fleas, and ticks near the skin"
+        ],
+        "preventiveCare": [
+          "Confirm that breeding parents hold certified radiographic hip evaluations, current veterinary ophthalmologist eye clearances, and DNA testing for the CUBN c.8746+1G>A cobalamin malabsorption variant.",
+          "Feed two smaller adult meals daily, avoid vigorous exercise around mealtimes, and know the emergency signs of bloat (unproductive retching, restlessness, swollen abdomen).",
+          "Remind your veterinarian of livestock-guardian anesthetic sensitivity prior to any surgical procedure so anesthetics are carefully dosed to effect rather than strictly by body weight.",
+          "Maintain aggressive, consistent parasite prevention and part the cords regularly to inspect the skin for fleas, ticks, or moist hotspots.",
+          "Keep the hanging ears clean and thoroughly dry after bathing or wet weather, and schedule annual veterinary wellness exams."
+        ],
+        "recommendedScreenings": [
+          "Radiographic hip dysplasia evaluation prior to breeding (final evaluation at two years of age or older)",
+          "Ophthalmic examination by a board-certified veterinary ophthalmologist",
+          "DNA test for inherited selective cobalamin malabsorption (CUBN c.8746+1G>A variant)"
+        ],
+        "dentalCare": "Brush teeth several times weekly using canine enzymatic toothpaste and schedule regular veterinary dental checks to keep the strong scissor bite and gums healthy.",
+        "earCare": "Inspect the medium-set hanging drop ears weekly for odour, moisture, wax, or redness, keeping the ear canals dry and clean with a veterinarian-approved solution.",
+        "skinCare": "Inspect down to the skin weekly while separating new cord growth to catch fleas, ticks, trapped dirt, or damp hotspots early; always dry cords completely to the roots after bathing."
+      },
+      "suitability": {
+        "firstTimeOwners": false,
+        "familiesWithChildren": false,
+        "seniorOwners": false,
+        "activeOwners": true,
+        "apartmentLiving": false,
+        "idealFor": [
+          "Experienced large-breed or livestock-guardian handlers confident in calm, firm leadership and early obedience training",
+          "Farms, ranches, and rural estates with robust, secure fencing where the breed's protective guardian instincts are genuinely valued",
+          "Owners prepared to invest weekly hands-on time separating cords and managing lengthy bath-drying routines",
+          "Quiet households seeking a calm, fiercely loyal, intimidating estate protector rather than a social dog-park pet"
+        ],
+        "notIdealFor": [
+          "First-time dog owners or passive handlers unaccustomed to independent, dominant guardian dogs",
+          "Apartments, dense urban neighbourhoods, or busy homes with constant unannounced visitors and unsupervised children",
+          "Owners unwilling to learn corded-coat maintenance or pay for specialized grooming care",
+          "People expecting an outgoing dog that mixes freely with unfamiliar dogs at public dog parks"
+        ]
+      },
+      "funFacts": [
+        "In Hungarian, the plural of Komondor is 'Komondorok'—and its name is widely traced to 'Koman-dor,' meaning 'dog of the Cumans,' the nomadic steppe people who settled in Hungary in the thirteenth century.",
+        "The earliest known written mention of the Komondor appears in 1544 in Péter Kákonyi's Hungarian historical poem 'History of King Astiagis.'",
+        "The breed's massive ivory-white corded coat served a dual battlefield purpose on Hungarian sheep pastures: it camouflaged the giant guardian seamlessly among the flock and acted as thick, felt-like armour against wolf bites.",
+        "A mature Komondor's dense cords hold so much water that bathing and thoroughly drying a full adult coat with fans and dryers can take two to three days.",
+        "In 2018, veterinary geneticists identified a Komondor-specific splice-site mutation in the CUBN gene causing inherited vitamin B12 malabsorption, enabling simple DNA testing to protect future litters."
+      ],
+      "faq": [
+        {
+          "question": "What is a Komondor?",
+          "answer": "The Komondor is a giant, muscular Hungarian livestock guardian dog famous for its dense, full-length ivory-white corded coat, fearless protective instincts, and calm, steadfast devotion to its family and territory."
+        },
+        {
+          "question": "How tall and heavy is a Komondor?",
+          "answer": "Adult males stand at least 70 cm at the withers and weigh 50 to 60 kg, while adult females stand at least 65 cm and weigh 40 to 50 kg, with no upper height limit."
+        },
+        {
+          "question": "How long does a Komondor live?",
+          "answer": "With proper large-breed nutrition, preventive veterinary care, and bloat precautions, the Komondor typically lives 10 to 12 years."
+        },
+        {
+          "question": "Do Komondors shed, and how do you care for the corded coat?",
+          "answer": "Once the cords mature around two years of age, loose undercoat hair stays locked inside the cords rather than shedding freely. You never brush a corded Komondor; instead, you hand-separate new root growth weekly and wash with diluted shampoo, allowing two to three days for full drying."
+        },
+        {
+          "question": "Can a Komondor live in an apartment?",
+          "answer": "No. Its giant size, powerful territorial guarding instincts, and potential for alert barking in high-traffic corridors make apartment or dense city living unsuitable; it belongs in a securely fenced rural or suburban property."
+        },
+        {
+          "question": "Is a Komondor good for first-time dog owners or families with young children?",
+          "answer": "Not generally. Although gentle and loyal with their own families, Komondorok are independent, fiercely protective guardians that require experienced handling, strict early obedience training, and careful supervision around visiting children and strangers."
+        },
+        {
+          "question": "Are Komondors easy to train?",
+          "answer": "They are highly intelligent and capable of reliable obedience when started early with upbeat, consistent positive training, but they were bred to make independent guarding decisions and quickly become stubborn if bored or handled harshly."
+        },
+        {
+          "question": "What are the main health concerns for a Komondor?",
+          "answer": "Key health priorities include bloat (gastric dilatation-volvulus), hip dysplasia, eye conditions such as entropion and cataracts, ear infections, and an inherited CUBN-related vitamin B12 (cobalamin) malabsorption disorder preventable through DNA testing."
+        }
+      ],
+      "references": [
+        "fci-komondor-official-standard",
+        "fci-komondor-nomenclature",
+        "akc-komondor-breed-standard",
+        "akc-komondor-breed-profile",
+        "kca-about-the-komondor",
+        "kca-komondor-faq",
+        "pubmed-fyfe-2018-komondor-cubn-cobalamin",
+        "wikimedia-komondor-img-0329-kuosa",
+        "wikimedia-komondor-laitinen"
+      ],
+      "evidence": {
+        "scientificName": {
+          "reliability": "unverified",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        },
+        "alternateNames": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "verified",
+              "locator": "About the Breed: Notes Hungarian plural 'Komondorok'"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Komondorok is the Hungarian plural confirmed by AKC; Hungarian Sheepdog is a common historical English descriptor."
+        },
+        "group": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-komondor-official-standard",
+              "role": "verified",
+              "locator": "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattledogs); Section 1 Sheepdogs; Without working trial"
+            },
+            {
+              "id": "akc-komondor-breed-standard",
+              "role": "verified",
+              "locator": "AKC Working Group classification"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "User-facing group classification formulated without prohibited registry names per Rule 5."
+        },
+        "origin": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-komondor-official-standard",
+              "role": "verified",
+              "locator": "ORIGIN: Hungary"
+            },
+            {
+              "id": "fci-komondor-nomenclature",
+              "role": "verified",
+              "locator": "Country of origin: Hungary"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Country of origin verified from FCI Standard No. 53."
+        },
+        "origin.region": {
+          "reliability": "unavailable",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "FCI Standard No. 53 and AKC specify Hungary as a whole without limiting the breed to a single modern founding province."
+        },
+        "overview": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-komondor-official-standard",
+              "role": "verified",
+              "locator": "GENERAL APPEARANCE, UTILIZATION, BEHAVIOUR/TEMPERAMENT, COAT, COLOUR"
+            },
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "verified",
+              "locator": "About the Breed & History: Hungarian flock guardian, corded white coat, agile light-footed gait"
+            },
+            {
+              "id": "kca-about-the-komondor",
+              "role": "verified",
+              "locator": "Temperament, agility, late maturity (3 years), livestock-guardian instincts"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Synthesized in original prose from FCI Standard No. 53, AKC, and Komondor Club of America resources."
+        },
+        "physical": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-komondor-official-standard",
+              "role": "verified",
+              "locator": "GENERAL APPEARANCE, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR (ivory white), SIZE AND WEIGHT"
+            },
+            {
+              "id": "akc-komondor-breed-standard",
+              "role": "verified",
+              "locator": "Head (2/5 height), Muzzle (2/5 head), Tight black lips, Eyes, Ears, Tail, Feet, Corded coat, White colour, Grey skin, Disqualifications"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Conformation, corded coat development by age two, ivory-white coloration, tight black lips, and low-set tail carriage follow FCI Standard No. 53 and AKC Standard."
+        },
+        "physical.height": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-komondor-official-standard",
+              "role": "verified",
+              "locator": "SIZE AND WEIGHT: HEIGHT AT WITHERS: Dogs: Minimum 70 cm. Bitches: Minimum 65 cm."
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Minimum heights preserved verbatim in centimetres (70 cm males, 65 cm females) from FCI Standard No. 53. (AKC separately publishes minimum 27.5 inches for males and 25.5 inches for females, also without an upper limit)."
+        },
+        "physical.height.male.max": {
+          "reliability": "unavailable",
+          "sources": [
+            {
+              "id": "fci-komondor-official-standard",
+              "role": "cited",
+              "locator": "SIZE AND WEIGHT: Dogs: Minimum 70 cm (no upper limit specified)"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Neither FCI Standard No. 53 nor the AKC Official Standard specifies an upper height limit for males."
+        },
+        "physical.height.female.max": {
+          "reliability": "unavailable",
+          "sources": [
+            {
+              "id": "fci-komondor-official-standard",
+              "role": "cited",
+              "locator": "SIZE AND WEIGHT: Bitches: Minimum 65 cm (no upper limit specified)"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Neither FCI Standard No. 53 nor the AKC Official Standard specifies an upper height limit for females."
+        },
+        "physical.weight": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-komondor-official-standard",
+              "role": "verified",
+              "locator": "WEIGHT: Dogs: 50 – 60 kg. Bitches: 40 – 50 kg."
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Preserved verbatim in published unit of kilograms (50 to 60 kg males, 40 to 50 kg females) from FCI Standard No. 53. (AKC separately publishes 100 pounds or more for males and 80 pounds or more for females)."
+        },
+        "physical.lifespanYears": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "verified",
+              "locator": "Life Expectancy: 10-12 years"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Verified from AKC breed profile."
+        },
+        "physical.sheddingLevel": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "verified",
+              "locator": "Shedding Level & Coat Grooming: mature corded coat locks loose hair into cords rather than shedding freely"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": null
+        },
+        "physical.droolingLevel": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-standard",
+              "role": "verified",
+              "locator": "Muzzle: Lips are tight and are black in color."
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Tight-fitting black lips prevent heavy drooling."
+        },
+        "temperament.traits": {
+          "reliability": "official_standard",
+          "sources": [
+            {
+              "id": "fci-komondor-official-standard",
+              "role": "verified",
+              "locator": "BEHAVIOUR/TEMPERAMENT: Courageous flock guardian, independent, suspicious of strangers, devoted to master"
+            },
+            {
+              "id": "akc-komondor-breed-standard",
+              "role": "verified",
+              "locator": "General Appearance & Temperament: Dignity, courageous demeanor, independent livestock guardian"
+            },
+            {
+              "id": "kca-about-the-komondor",
+              "role": "verified",
+              "locator": "TEMPERAMENT: Calm and steady when normal, leaps to defend charges, independent thinker, wary of strangers yet accepts welcome guests, late maturity (~3 years)"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": null
+        },
+        "temperament.scores": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "cited",
+              "locator": "Breed Traits: Independent, protective, reserved with strangers, self-willed trainability"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Editorial 1–5 estimates reflecting documented livestock-guardian protectiveness, high independence, stranger reserve, and moderate daily energy."
+        },
+        "care": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "cited",
+              "locator": "Cord separation at 9-10 months, dilute shampoo bathing, early obedience before age one, avoiding dog parks"
+            },
+            {
+              "id": "kca-about-the-komondor",
+              "role": "cited",
+              "locator": "Weekly cord separation, early training (4-8 months), socialization, parasite checks"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Combines parent-club corded-coat maintenance and livestock-guardian handling guidance with general giant-breed care."
+        },
+        "care.exercise.level": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "verified",
+              "locator": "Exercise: Free-running in a large securely fenced yard, walks, and playing; dog parks often unsuitable"
+            },
+            {
+              "id": "kca-komondor-faq",
+              "role": "verified",
+              "locator": "Exercise: Adults often exercise by accompanying owners around property or 2-3 daily walks if without a fenced yard"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": null
+        },
+        "care.exercise.minutesPerDay": {
+          "reliability": "estimate",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Editorial daily activity range (45 to 60 minutes) reflecting steady walking and yard-patrolling needs for a giant livestock guardian."
+        },
+        "care.livingEnvironment.apartmentSuitable": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "kca-komondor-faq",
+              "role": "cited",
+              "locator": "Giant size, protective vigilance, and risk of excessive barking if constantly perceiving corridor threats"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Editorial assessment that giant stature, strong territoriality, and potential noise in high-traffic buildings make apartments unsuitable."
+        },
+        "care.livingEnvironment.houseWithYardSuitable": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "verified",
+              "locator": "Recommends a large, securely fenced yard for free movement"
+            },
+            {
+              "id": "kca-komondor-faq",
+              "role": "verified",
+              "locator": "Notes fenced yard or large run suitability"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": null
+        },
+        "care.livingEnvironment.climates": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-standard",
+              "role": "cited",
+              "locator": "Dense, heavy protective double corded coat; Hungarian continental origin"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General climate guidance based on Hungarian plains origin and heavy heat-retaining corded double coat."
+        },
+        "care.livingEnvironment.aloneTimeTolerance": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "kca-about-the-komondor",
+              "role": "cited",
+              "locator": "Bred to guard flocks independently without constant human direction"
+            }
+          ],
+          "verifiedOn": null,
+          "note": null
+        },
+        "nutrition": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "cited",
+              "locator": "Large-breed bloat awareness and balanced feeding"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General giant-breed veterinary nutrition guidance emphasizing controlled puppy growth and bloat precautions."
+        },
+        "nutrition.feedingFrequency": {
+          "reliability": "general_guidance",
+          "sources": [],
+          "verifiedOn": null,
+          "note": "Standard giant-breed life-stage feeding schedule dividing adult rations into two daily meals."
+        },
+        "health.overview": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "verified",
+              "locator": "Health: Generally healthy; OFA hip dysplasia certification, KCA eye health certifications, and bloat (GDV) awareness."
+            },
+            {
+              "id": "kca-about-the-komondor",
+              "role": "verified",
+              "locator": "External parasites under heavy coat, anesthetic sensitivity (dose to effect, never strictly by weight), and surgical management of entropion/orthopedic care."
+            },
+            {
+              "id": "pubmed-fyfe-2018-komondor-cubn-cobalamin",
+              "role": "verified",
+              "locator": "BMC Vet Res 2018;14(1):418 (PMID 30591068): Autosomal-recessive CUBN intron 55 splice-donor variant (c.8746+1G>A) causing inherited selective cobalamin malabsorption in Komondors (allele frequencies 8.3% North America, 4.5% Hungary)."
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Combines peer-reviewed molecular genetics research with AKC and KCA health guidance without naming registries or clubs in user-facing text."
+        },
+        "health.commonConditions": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "pubmed-fyfe-2018-komondor-cubn-cobalamin",
+              "role": "verified",
+              "locator": "Inherited selective cobalamin malabsorption (CUBN c.8746+1G>A; Imerslund-Gräsbeck syndrome)"
+            },
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "verified",
+              "locator": "Hip dysplasia, eye conditions, and gastric dilatation-volvulus (bloat)"
+            },
+            {
+              "id": "kca-about-the-komondor",
+              "role": "verified",
+              "locator": "External parasites hidden in dense cords and anesthetic sensitivity"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Distinguishes molecularly established CUBN cobalamin malabsorption from giant-breed orthopedic/gastric risks and conformation-linked ear/parasite precautions."
+        },
+        "health.preventiveCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "kca-about-the-komondor",
+              "role": "cited",
+              "locator": "Anesthetic dosing to effect, rigorous flea/tick skin checks beneath cords"
+            },
+            {
+              "id": "kca-komondor-faq",
+              "role": "cited",
+              "locator": "Pre-breeding hip X-rays and bloat symptom readiness"
+            },
+            {
+              "id": "pubmed-fyfe-2018-komondor-cubn-cobalamin",
+              "role": "cited",
+              "locator": "Pre-breeding CUBN DNA testing recommendation"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General preventive veterinary care protocol tailored to Komondors."
+        },
+        "health.recommendedScreenings": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "verified",
+              "locator": "OFA hip dysplasia certification and parent-club eye health certifications"
+            },
+            {
+              "id": "kca-komondor-faq",
+              "role": "verified",
+              "locator": "Parents X-rayed and certified clear of hip dysplasia"
+            },
+            {
+              "id": "pubmed-fyfe-2018-komondor-cubn-cobalamin",
+              "role": "verified",
+              "locator": "Conclusion: Recommends DNA testing Komondors intended for breeding for the CUBN c.8746+1G>A variant."
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Summarizes KCA/AKC clinical screening guidelines and peer-reviewed CUBN DNA test recommendations without naming clubs or registries in user-facing text."
+        },
+        "health.dentalCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-standard",
+              "role": "cited",
+              "locator": "Bite: Scissors (level acceptable); three or more missing teeth is a disqualification."
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Standard home and veterinary dental hygiene guidelines."
+        },
+        "health.earCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-standard",
+              "role": "cited",
+              "locator": "Ears: Elongated triangle, medium-set and hanging."
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Routine drop-ear inspection and drying protocol."
+        },
+        "health.skinCare": {
+          "reliability": "general_guidance",
+          "sources": [
+            {
+              "id": "kca-about-the-komondor",
+              "role": "cited",
+              "locator": "Regular skin checks beneath heavy cords for fleas, ticks, and trapped dirt."
+            }
+          ],
+          "verifiedOn": null,
+          "note": "General corded-coat skin inspection and thorough drying guidance."
+        },
+        "suitability": {
+          "reliability": "estimate",
+          "sources": [
+            {
+              "id": "kca-about-the-komondor",
+              "role": "cited",
+              "locator": "Independent livestock guardian instincts, high coat maintenance, strict socialization needs"
+            },
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "cited",
+              "locator": "Requires a firm, experienced hand; dog parks often unsuitable"
+            }
+          ],
+          "verifiedOn": null,
+          "note": "Editorial suitability evaluations based on giant size, strong territorial protection, independent temperament, and intensive cord upkeep."
+        },
+        "funFacts": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "verified",
+              "locator": "Hungarian plural 'Komondorok'; thick white cords protecting against wolves"
+            },
+            {
+              "id": "kca-about-the-komondor",
+              "role": "verified",
+              "locator": "Heavy corded coat camouflage and drying/care demands"
+            },
+            {
+              "id": "pubmed-fyfe-2018-komondor-cubn-cobalamin",
+              "role": "verified",
+              "locator": "2018 discovery of Komondor-specific CUBN splice-site mutation for vitamin B12 malabsorption"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Verified linguistic, historical, coat-function, and veterinary genetics facts."
+        },
+        "faq": {
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "fci-komondor-official-standard",
+              "role": "verified",
+              "locator": "Origin (Hungary), minimum height (70 cm males / 65 cm females), weight (50-60 kg males / 40-50 kg females)"
+            },
+            {
+              "id": "akc-komondor-breed-profile",
+              "role": "verified",
+              "locator": "Lifespan (10-12 years), corded coat care, bloat, hip and eye testing"
+            },
+            {
+              "id": "kca-about-the-komondor",
+              "role": "verified",
+              "locator": "Independent guardian temperament, early training, and rural suitability"
+            },
+            {
+              "id": "pubmed-fyfe-2018-komondor-cubn-cobalamin",
+              "role": "verified",
+              "locator": "CUBN-related inherited selective cobalamin malabsorption"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "FAQ answers synthesize FCI Standard No. 53, AKC, KCA, and peer-reviewed genetics research without naming registries in user-facing prose."
+        }
+      },
+      "updatedOn": "2026-11-20"
+    },
+    {
       "slug": "kooikerhondje",
       "name": "Nederlandse Kooikerhondje",
       "scientificName": "Canis lupus familiaris",
@@ -182759,7 +183736,7 @@
     {
       "slug": "scottish-terrier",
       "name": "Scottish Terrier",
-      "scientificName": null,
+      "scientificName": "Canis lupus familiaris",
       "alternateNames": [
         "Scottie",
         "Aberdeen Terrier",
@@ -183047,6 +184024,7 @@
         }
       ],
       "references": [
+        "natureserve-canis-lupus-familiaris",
         "the-kennel-club-scottish-terrier-breed-standard",
         "rkc-scottish-terrier-breed-profile",
         "fci-scottish-terrier-official-standard",
@@ -183063,10 +184041,16 @@
       ],
       "evidence": {
         "scientificName": {
-          "reliability": "unavailable",
-          "sources": [],
-          "verifiedOn": null,
-          "note": "Left null because official breed standards do not publish a formal taxonomic scientific name."
+          "reliability": "reliable_source",
+          "sources": [
+            {
+              "id": "natureserve-canis-lupus-familiaris",
+              "role": "verified",
+              "locator": "Related ITIS Names: Canis lupus familiaris Linnaeus, 1758 (TSN 726821); Wilson and Reeder 2005"
+            }
+          ],
+          "verifiedOn": "2026-11-20",
+          "note": "Standard domestic dog subspecies taxonomy verified via NatureServe Explorer / ITIS."
         },
         "alternateNames": {
           "reliability": "official_standard",
