@@ -1,24 +1,22 @@
 import type { Breed } from "../../schema/breed.types";
 
-export const griffon_bruxellois_80: Breed = {
-  slug: "griffon-bruxellois-80",
-  name: "Griffon Bruxellois",
+export const briard: Breed = {
+  slug: "briard",
+  name: "Briard",
   scientificName: null,
   alternateNames: [
-    "Brussels Griffon",
-    "Griffon belge",
-    "Petit Brabançon",
+    "Berger de Brie",
   ],
-  group: "Toy",
+  group: "Herding",
   origin: {
-    country: "Brussels, Belgium",
+    country: "France",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "A small, intelligent toy dog from Belgium with a distinctive bearded, almost human-like expressive face and alert demeanor. Available in rough and smooth coat varieties, known for their big personality despite their small size.",
-    history: "Developed in Brussels as stable dogs and ratters from local rough-coated terriers in the 1800s, refined by crossing with Pug and English Toy Spaniel, became popular with Belgian nobility and coachmen",
+    description: "Large, powerful French herding dog with a luxurious long wavy double coat, distinctive beard and eyebrows creating a peek-a-boo hairdo, and a loyal, intelligent disposition",
+    history: "Ancient French herding breed developed for centuries to herd and guard flocks. Served as sentries, messengers, and pack animals for the French army during World War I. Nearly extinct after World War II but successfully revived. Recognized by the AKC in 1928.",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -27,28 +25,28 @@ export const griffon_bruxellois_80: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 18,
-        max: 25,
+        min: 58,
+        max: 69,
       },
       female: {
-        min: 18,
-        max: 25,
+        min: 56,
+        max: 65,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 4,
-        max: 5,
+        min: 32,
+        max: 45,
       },
       female: {
-        min: 4,
-        max: 5,
+        min: 23,
+        max: 29,
       },
     },
     lifespanYears: {
-      min: 12,
-      max: 15,
+      min: 10,
+      max: 12,
     },
     coatType: null,
     coatLength: null,
@@ -77,10 +75,12 @@ export const griffon_bruxellois_80: Breed = {
   },
   temperament: {
     traits: [
-      "Alert",
+      "Loyal",
       "intelligent",
-      "loyal",
+      "protective",
       "confident",
+      "courageous",
+      "devoted",
     ],
     scores: {
       affection: null,
@@ -162,7 +162,7 @@ export const griffon_bruxellois_80: Breed = {
           locator: "breed.alt_names",
         },
       ],
-      verifiedOn: "2026-11-19",
+      verifiedOn: "2026-11-20",
       note: null,
     },
     scientificName: {
@@ -180,7 +180,7 @@ export const griffon_bruxellois_80: Breed = {
           locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-11-19",
+      verifiedOn: "2026-11-20",
       note: null,
     },
     "origin.country": {
@@ -192,7 +192,7 @@ export const griffon_bruxellois_80: Breed = {
           locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-11-19",
+      verifiedOn: "2026-11-20",
       note: null,
     },
     "origin.region": {
@@ -216,7 +216,7 @@ export const griffon_bruxellois_80: Breed = {
           locator: "breed.description",
         },
       ],
-      verifiedOn: "2026-11-19",
+      verifiedOn: "2026-11-20",
       note: null,
     },
     "overview.history": {
@@ -228,7 +228,7 @@ export const griffon_bruxellois_80: Breed = {
           locator: "breed.history",
         },
       ],
-      verifiedOn: "2026-11-19",
+      verifiedOn: "2026-11-20",
       note: null,
     },
     "overview.originalPurpose": {
@@ -258,8 +258,8 @@ export const griffon_bruxellois_80: Breed = {
           locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-11-19",
-      note: "The Dog API gave one range for the breed and did not separate males and females.",
+      verifiedOn: "2026-11-20",
+      note: null,
     },
     "physical.height.female.max": {
       reliability: "reliable_source",
@@ -270,8 +270,8 @@ export const griffon_bruxellois_80: Breed = {
           locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-11-19",
-      note: "The Dog API gave one range for the breed and did not separate males and females.",
+      verifiedOn: "2026-11-20",
+      note: null,
     },
     "physical.lifespanYears": {
       reliability: "reliable_source",
@@ -282,7 +282,7 @@ export const griffon_bruxellois_80: Breed = {
           locator: "breed.life_span",
         },
       ],
-      verifiedOn: "2026-11-19",
+      verifiedOn: "2026-11-20",
       note: null,
     },
     "physical.coatType": {
@@ -306,7 +306,7 @@ export const griffon_bruxellois_80: Breed = {
           locator: "GET /breeds/{id}/colours",
         },
       ],
-      verifiedOn: "2026-11-19",
+      verifiedOn: "2026-11-20",
       note: "The colour endpoint lists variants registered for this breed, including variants applied across the species. Keep only the colours that belong to this breed.",
     },
     "physical.sheddingLevel": {
@@ -336,7 +336,7 @@ export const griffon_bruxellois_80: Breed = {
           locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-11-19",
+      verifiedOn: "2026-11-20",
       note: null,
     },
     "temperament.scores.affection": {
@@ -624,8 +624,8 @@ export const griffon_bruxellois_80: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-11-19",
-      note: "The Dog API gave one range for the breed and did not separate males and females.",
+      verifiedOn: "2026-11-20",
+      note: null,
     },
     "physical.weight.female.max": {
       reliability: "reliable_source",
@@ -636,9 +636,9 @@ export const griffon_bruxellois_80: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-11-19",
-      note: "The Dog API gave one range for the breed and did not separate males and females.",
+      verifiedOn: "2026-11-20",
+      note: null,
     },
   },
-  updatedOn: "2026-11-19",
+  updatedOn: "2026-11-20",
 };

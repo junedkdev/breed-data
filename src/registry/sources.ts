@@ -13788,15 +13788,16 @@ export const sources = defineSources({
     note: "Official FCI breed nomenclature record confirming Belgium as country of origin, Group 9 Section 3 classification without working trial, definitive recognition date (1954-08-03), and multilingual names (Griffon Bruxellois, Brüsseler Griffon).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "the-kennel-club-griffon-bruxellois-breed-standard": {
+"the-kennel-club-griffon-bruxellois-breed-standard": {
     id: "the-kennel-club-griffon-bruxellois-breed-standard",
-    name: "The Royal Kennel Club - Griffon Bruxellois Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/toy/griffon-bruxellois/",
-    type: "official_breed_standard",
-    publishedOn: "2025-04-01",
-    accessedOn: "2026-11-10",
-    note: "Official Royal Kennel Club breed standard (Toy Group) confirming weight (3.2-5 kg / 7-11 lbs; most desirable 3.6-4.5 kg / 8-10 lbs), red harsh wire coat, undershot mouth, and human-like expression.",
-    publisher: "The Royal Kennel Club"
+    name: "The Royal Kennel Club — Griffon Bruxellois Breeds A to Z",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/toy/griffon-bruxellois/",
+    type: "kennel_club",
+    commercialUse: "reference_only",
+    publishedOn: null,
+    accessedOn: "2026-11-19",
+    note: "Official Royal Kennel Club breed profile covering Toy Group classification, exercise (up to 30 min/day), apartment suitability, grooming (>1x/week), Breed Watch Category 2, eye testing, and newly recognized BOAS Respiratory Function Grading (Aug 2026).",
   },
   "akc-brussels-griffon-breed-standard": {
     id: "akc-brussels-griffon-breed-standard",
@@ -13808,15 +13809,16 @@ export const sources = defineSources({
     note: "Official AKC breed standard establishing weight of 8 to 10 pounds (not to exceed 12 pounds), square cobby body, undershot bite, and rough and smooth coat varieties under the single Brussels Griffon breed name.",
     publisher: "American Kennel Club"
   },
-  "abga-brussels-griffon-health-syringomyelia": {
+"abga-brussels-griffon-health-syringomyelia": {
     id: "abga-brussels-griffon-health-syringomyelia",
-    name: "American Brussels Griffon Association - Health and Syringomyelia Research",
-    url: "https://www.abga.club/health.html",
+    name: "American Brussels Griffon Association — Code of Ethics & Health Screening",
+    publisher: "American Brussels Griffon Association",
+    url: "https://abga.club/about-abga/abga-code-of-ethics/",
     type: "breed_club",
+    commercialUse: "reference_only",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official national parent club health portal covering Chiari-like malformation, syringomyelia (SM), MRI screening protocols, BOAS, patellar luxation, and eye health recommendations.",
-    publisher: "American Brussels Griffon Association"
+    accessedOn: "2026-11-19",
+    note: "Official parent club code of ethics recommending CHIC participation and additional health screening for syringomyelia (SM), progressive retinal atrophy (PRA), hip dysplasia, and thyroid abnormalities.",
   },
   "ofa-brussels-griffon-chic-requirements": {
     id: "ofa-brussels-griffon-chic-requirements",
@@ -13828,35 +13830,38 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Brussels Griffon / Griffon Bruxellois, mandating CAER eye examination, clinical patellar luxation evaluation, and cardiac examination.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "griffon-bruxellois-syringomyelia-mri-study-2014": {
+"griffon-bruxellois-syringomyelia-mri-study-2014": {
     id: "griffon-bruxellois-syringomyelia-mri-study-2014",
-    name: "Syringomyelia and Chiari-Like Malformation in the Griffon Bruxellois: An MRI and Clinical Retrospective Study (J Vet Intern Med 2014)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/24838634/",
+    name: "Chiari-Like Malformation and Syringomyelia in American Brussels Griffon Dogs",
+    publisher: "Journal of Veterinary Internal Medicine / PubMed Central",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4895564/",
     type: "scientific",
-    publishedOn: "2014-05-18",
-    accessedOn: "2026-11-10",
-    note: "Peer-reviewed veterinary neurology study (Rohdin et al., J Vet Intern Med 2014;28(4):1233-1239, PMID 24838634) evaluating the high prevalence and clinical manifestation of Chiari-like malformation and syringomyelia in Griffon Bruxellois dogs using magnetic resonance imaging.",
-    publisher: "Journal of Veterinary Internal Medicine / PubMed"
+    commercialUse: "reference_only",
+    publishedOn: "2014-08-21",
+    accessedOn: "2026-11-19",
+    note: "Prospective MRI study of 84 AKC-registered Brussels Griffons (Freeman et al., J Vet Intern Med 2014;28(5):1551-1559, PMC4895564) finding 65% Chiari-like malformation and 52% syringomyelia, with 28% showing neurologic deficits, 20% neck pain, and 52% of SM-affected dogs clinically normal.",
   },
-  "wikimedia-griffon-bruxellois-1-lilly-m": {
+"wikimedia-griffon-bruxellois-1-lilly-m": {
     id: "wikimedia-griffon-bruxellois-1-lilly-m",
-    name: "Wikimedia Commons - File:Griffon bruxellois 1.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Griffon_bruxellois_1.jpg",
+    name: "Wikimedia Commons — File:Griffon Bruxellois GalawebDesign.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Griffon_Bruxellois_GalawebDesign.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-10",
-    note: "High-resolution photograph (2016 x 1916 px) of an adult red Griffon Bruxellois standing outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    commercialUse: "commercial_use",
+    publishedOn: "2009-10-25",
+    accessedOn: "2026-11-19",
+    note: "Photograph of a one-year-old red Griffon Bruxellois with dark mask by Galawebdesign (uploaded 2009-10-25, 1000 x 724 px). Licensed under CC BY-SA 3.0.",
   },
-  "wikimedia-brussels-griffon-in-grass-dan-brady": {
+"wikimedia-brussels-griffon-in-grass-dan-brady": {
     id: "wikimedia-brussels-griffon-in-grass-dan-brady",
-    name: "Wikimedia Commons - File:Brussels Griffon in grass.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Brussels_Griffon_in_grass.jpg",
+    name: "Wikimedia Commons — File:Bearded lady (1701411818).jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Bearded_lady_(1701411818).jpg",
     type: "other",
-    publishedOn: "2009-09-05",
-    accessedOn: "2026-11-10",
-    note: "Photograph (2048 x 1536 px) of a Brussels Griffon in grass by Dan Brady (captured 2009-06-21, uploaded 2009-09-05). Licensed under CC BY 2.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    commercialUse: "commercial_use",
+    publishedOn: "2007-10-21",
+    accessedOn: "2026-11-19",
+    note: "High-resolution portrait of a rough-coated red Griffon Bruxellois by istolethetv via Flickr (captured 2007-10-21, 3264 x 2448 px). Licensed under CC BY 2.0.",
   },
   "american-kennel-club-rafeiro-do-alentejo": {
     id: "american-kennel-club-rafeiro-do-alentejo",
@@ -13890,35 +13895,35 @@ export const sources = defineSources({
     note: "Official English FCI Standard No. 105 (valid standard dated 2006-02-21, published 2006-03-29). Covers French origin, Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 3 Water Dogs classification with working trial, rectangular build, curly woolly coat, chin beard, webbed feet, and withers height (males 58-65 cm, females 53-61 cm, +/- 1 cm tolerance).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-barbet-nomenclature": {
+"fci-barbet-nomenclature": {
     id: "fci-barbet-nomenclature",
     name: "FCI - Barbet Breed Nomenclature (No. 105)",
-    url: "https://www.fci.be/en/nomenclature/FRENCH-WATER-DOG-105.html",
+    url: "https://www.fci.be/en/nomenclature/Barbet-105.html",
     type: "official_breed_standard",
-    publishedOn: "2006-03-29",
-    accessedOn: "2026-11-10",
-    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 8 Section 3 classification with working trial, definitive recognition date (1954-12-02), and multilingual names (Barbet, Französischer Wasserhund, Perro de agua francés).",
+    publishedOn: "2006-02-21",
+    accessedOn: "2026-11-19",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 8 Section 3 Water Dogs classification with working trial, definitive recognition date (1954-12-04), and multilingual names (Barbet, French Water Dog, Französischer Wasserhund, Perro de agua francés).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "scc-barbet-breed-standard": {
+"scc-barbet-breed-standard": {
     id: "scc-barbet-breed-standard",
-    name: "Société Centrale Canine - Standard et Profil du Barbet",
+    name: "Société Centrale Canine - Barbet",
     url: "https://www.centrale-canine.fr/le-chien-de-race/barbet",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official French kennel club (SCC) breed profile and standard for the Barbet, detailing French marsh hunting history, height (58-65 cm males, 53-61 cm females), weight ranges (20-28 kg males, 17-24 kg females), curly coat, webbed feet, and health screening.",
+    accessedOn: "2026-11-19",
+    note: "Official French kennel club (SCC) breed profile for the Barbet detailing historical records (Agrippa d'Aubigné / King Henry IV court, Napoleonic era, post-WWII revival), morphology (rounded broad skull, long woolly curly coat, accepted colors), height (53–65 cm depending on sex), weight listed as NP (not specified), and behavior/city living guidance.",
     publisher: "Société Centrale Canine"
   },
-  "club-du-barbet-profile": {
+"club-du-barbet-profile": {
     id: "club-du-barbet-profile",
-    name: "Club du Barbet, Lagotto et autres Chiens d'Eau - Le Barbet",
-    url: "https://www.chiens-online.com/club/club-du-barbet-lagotto-et-autres-chiens-d-eau/",
+    name: "Club du Caniche de France et des Chiens d'Eau (CCFCE) - Le Barbet",
+    url: "https://www.centrale-canine.fr/club-du-caniche-de-france-et-des-chiens-d-eau/articles/le-barbet",
     type: "breed_club",
-    publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official French parent breed club portal documenting the ancient history of the Barbet, King Henry IV records, coat maintenance without sculpting, webbed feet, and pre-breeding health testing.",
-    publisher: "Club du Barbet, Lagotto et autres Chiens d'Eau"
+    publishedOn: "2024-12-20",
+    accessedOn: "2026-11-19",
+    note: "Official SCC-affiliated French parent breed club page for the Barbet covering breed characteristics, confirmation criteria, and breeding commission resources.",
+    publisher: "Club du Caniche de France et des Chiens d'Eau (CCFCE)"
   },
   "akc-barbet-breed-standard": {
     id: "akc-barbet-breed-standard",
@@ -13930,24 +13935,24 @@ export const sources = defineSources({
     note: "Official AKC breed standard (effective January 1, 2020, Sporting Group) establishing height (males 21-25 in / 58-65 cm; females 19-24 in / 53-61 cm), natural rustic curly coat, chin beard, scissor bite, and webbed feet.",
     publisher: "American Kennel Club"
   },
-  "akc-barbet-breed-profile": {
+"akc-barbet-breed-profile": {
     id: "akc-barbet-breed-profile",
     name: "American Kennel Club - Barbet Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/barbet/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed profile covering French waterfowl history, King Henry IV, weight (35-65 lbs / approx. 17-28 kg), lifespan (12-14 years), temperament, and grooming.",
+    accessedOn: "2026-11-19",
+    note: "Official AKC breed profile (Sporting Group, recognized 2020) listing height (19–24.5 inches), weight (35–65 pounds), life expectancy (12–14 years), grooming (brushing, blow-drying before scissor trim, re-wetting to restore curls), exercise, training, nutrition, and health guidance.",
     publisher: "American Kennel Club"
   },
-  "the-kennel-club-barbet-breed-standard": {
+"the-kennel-club-barbet-breed-standard": {
     id: "the-kennel-club-barbet-breed-standard",
-    name: "The Royal Kennel Club - Barbet Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/gundog/barbet/",
-    type: "official_breed_standard",
-    publishedOn: "2025-04-01",
-    accessedOn: "2026-11-10",
-    note: "Official Royal Kennel Club breed standard (Gundog Group) confirming withers height (dogs 58-65 cm; bitches 53-61 cm), natural curly coat, beard, webbed feet, and gundog temperament.",
+    name: "The Royal Kennel Club - Barbet (Imp) Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/gundog/barbet-imp/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-19",
+    note: "Official Royal Kennel Club breed profile (Gundog Group, Imported Breed Register) listing size (53–65 cm), coat and shedding traits, accepted vs. non-standard colors, lifespan (over 10 years), and pre-breeding health screening (genetic diversity, prcd-PRA DNA, BVA/RKC hip and elbow schemes, BVA/RKC/ISDS eye scheme).",
     publisher: "The Royal Kennel Club"
   },
   "ukc-barbet-breed-standard": {
@@ -13970,54 +13975,54 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Barbet, mandating radiographic hip dysplasia evaluation, elbow dysplasia evaluation, CAER eye examination, and prcd-PRA DNA test.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-barbet-1-pleple2000": {
+"wikimedia-barbet-1-pleple2000": {
     id: "wikimedia-barbet-1-pleple2000",
-    name: "Wikimedia Commons - File:Barbet-1.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Barbet-1.jpg",
+    name: "Wikimedia Commons - File:Barbet suka 2009 pl.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Barbet_suka_2009_pl.jpg",
     type: "other",
-    publishedOn: "2008-10-18",
-    accessedOn: "2026-11-10",
-    note: "High-resolution photograph (2400 x 1800 px) of an adult black Barbet standing in profile outdoors by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2009-03-26",
+    accessedOn: "2026-11-19",
+    note: "High-resolution photograph (2896 x 2092 px) of a female Barbet at the 2009 international dog show in Katowice, Poland, by Pleple2000 (captured 2009-03-21, uploaded 2009-03-26). Licensed under CC BY-SA 4.0 / 3.0 / GFDL on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-barbet-688-tomasz-sienicki": {
+"wikimedia-barbet-688-tomasz-sienicki": {
     id: "wikimedia-barbet-688-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Barbet 688.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Barbet_688.jpg",
+    name: "Wikimedia Commons - File:Barbet-brown.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Barbet-brown.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-10",
-    note: "Photograph (600 x 520 px) of a dark brown Barbet outdoors in grass by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2022-12-08",
+    accessedOn: "2026-11-19",
+    note: "High-resolution photograph (2779 x 2588 px) of a brown Barbet by Canarian (captured 2022-12-03, uploaded 2022-12-08). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-scottish-terrier-official-standard": {
+"fci-scottish-terrier-official-standard": {
     id: "fci-scottish-terrier-official-standard",
     name: "FCI - Scottish Terrier Official Breed Standard No. 73",
     url: "https://www.fci.be/Nomenclature/Standards/073g03-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2011-01-24",
-    accessedOn: "2026-11-10",
-    note: "Official English FCI Standard No. 73 (valid standard dated 2010-10-13, publication date 2011-01-24). Covers Great Britain origin, Group 3 Terriers, Section 2 Small-sized Terriers classification without working trial, general appearance, low-slung heavy-boned build, harsh double coat, black/wheaten/brindle colors, and height at withers (25-28 cm / 10-11 ins; weight 8.5-10.5 kg).",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-20",
+    note: "Official English FCI Standard No. 73 (valid standard dated 2026-09-08, published 2026-10-06). Covers Great Britain origin, Group 3 Terriers, Section 2 Small-sized Terriers classification without working trial, harsh double coat, black/wheaten/brindle colors, height (25–28 cm), and weight (8.5–10.5 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-scottish-terrier-nomenclature": {
+"fci-scottish-terrier-nomenclature": {
     id: "fci-scottish-terrier-nomenclature",
     name: "FCI - Scottish Terrier Breed Nomenclature (No. 73)",
     url: "https://www.fci.be/en/nomenclature/SCOTTISH-TERRIER-73.html",
     type: "official_breed_standard",
-    publishedOn: "2011-01-24",
-    accessedOn: "2026-11-10",
-    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 3 Section 2 classification without working trial, definitive recognition date (1954-10-29), and multilingual names (Terrier Écossais, Schottischer Terrier).",
+    publishedOn: "2026-09-08",
+    accessedOn: "2026-11-20",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 3 Section 2 Small-sized Terriers without working trial, definitive recognition date (1954-10-18), valid standard date (2026-09-08), and multilingual names (Scottish Terrier, Terrier Ecossais, Schottischer Terrier).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "the-kennel-club-scottish-terrier-breed-standard": {
+"the-kennel-club-scottish-terrier-breed-standard": {
     id: "the-kennel-club-scottish-terrier-breed-standard",
     name: "The Royal Kennel Club - Scottish Terrier Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/terrier/scottish-terrier/",
+    url: "https://www.royalkennelclub.com/breed-standards/terrier/scottish-terrier/",
     type: "official_breed_standard",
-    publishedOn: "2025-04-01",
-    accessedOn: "2026-11-10",
-    note: "Official Royal Kennel Club breed standard (Terrier Group, country of origin standard) establishing withers height (25-28 cm / 10-11 ins), weight (8.5-10.5 kg / 19-23 lbs), harsh wiry double coat, prick ears, carrot tail, and dignified fearless temperament.",
+    publishedOn: "2025-01-01",
+    accessedOn: "2026-11-20",
+    note: "Official Royal Kennel Club breed standard (Terrier Group, last updated 2025-01-01) establishing height at withers (25–28 cm / 10–11 ins), weight (8.5–10.5 kg / 19–23 lbs), close-lying harsh wiry double coat, black/wheaten/brindle colors, regular scissor bite, and bold, never aggressive temperament.",
     publisher: "The Royal Kennel Club"
   },
   "akc-scottish-terrier-breed-standard": {
@@ -14030,24 +14035,24 @@ export const sources = defineSources({
     note: "Official AKC breed standard establishing height of about 10 inches at the withers, weight of 19 to 22 pounds for males and 18 to 21 pounds for females, thick-set substance, large teeth, scissor or level bite, and distinctive coat furnishings.",
     publisher: "American Kennel Club"
   },
-  "akc-scottish-terrier-breed-profile": {
+"akc-scottish-terrier-breed-profile": {
     id: "akc-scottish-terrier-breed-profile",
     name: "American Kennel Club - Scottish Terrier Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/scottish-terrier/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed profile covering Scottish history (Aberdeen Terrier, Earl of Dumbarton Diehards), White House lore (Fala, Barney), weight (18-22 lbs), lifespan (12-15 years), swimming inability, and care.",
+    accessedOn: "2026-11-20",
+    note: "Official AKC breed profile (Terrier Group, recognized 1885) listing height (10 inches), weight (19–22 pounds male, 18–21 pounds female), life expectancy (12 years), grooming (hand-stripping vs. 6–8 week clipping), training (sessions under 15 minutes), nutrition, recommended tests (Patella, vWD III DNA, CMO), and historical lore (Fala, Caacie, Telek, 1860 first show class).",
     publisher: "American Kennel Club"
   },
-  "scottish-terrier-club-of-america-health": {
+"scottish-terrier-club-of-america-health": {
     id: "scottish-terrier-club-of-america-health",
-    name: "Scottish Terrier Club of America - Health and Genetics",
-    url: "https://www.stca.biz/health",
+    name: "Scottish Terrier Club of America - Health",
+    url: "https://stca.biz/about-the-breed-scottish-terriers/health/",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official national parent club health portal covering transitional cell carcinoma (bladder cancer), Scottie Cramp, von Willebrand's disease (vWD), craniomandibular osteopathy (CMO), elevated alkaline phosphatase, and pre-breeding health testing guidelines.",
+    accessedOn: "2026-11-20",
+    note: "Official STCA health portal detailing updated CHIC requirements effective January 1, 2025: required vWD DNA, CMO DNA, and Patellar Luxation evaluation, plus elective options (Autoimmune Thyroiditis panel, ACVO Eye Exam, Serum Bile Acid test, Kidney UPC screen, and Legg-Calvé-Perthes radiographs).",
     publisher: "Scottish Terrier Club of America"
   },
   "ofa-scottish-terrier-chic-requirements": {
@@ -14070,24 +14075,24 @@ export const sources = defineSources({
     note: "Peer-reviewed scientific study (Raghavan et al., J Am Vet Med Assoc 2005;227(1):94-100, PMID 16013542) evaluating risk factors and demonstrating that consumption of green leafy and yellow-orange vegetables is associated with a significantly reduced risk of transitional cell carcinoma in Scottish Terriers.",
     publisher: "Journal of the American Veterinary Medical Association / PubMed"
   },
-  "wikimedia-scottish-terrier-matthew-mackenzie": {
+"wikimedia-scottish-terrier-matthew-mackenzie": {
     id: "wikimedia-scottish-terrier-matthew-mackenzie",
     name: "Wikimedia Commons - File:ScottishTerrier.jpg",
     url: "https://commons.wikimedia.org/wiki/File:ScottishTerrier.jpg",
     type: "other",
-    publishedOn: "2003-02-13",
-    accessedOn: "2026-11-10",
-    note: "Photograph of an adult black Scottish Terrier standing in profile outdoors by Matthew MacKenzie (uploaded by Ogmios, 400 x 327 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2006-12-27",
+    accessedOn: "2026-11-20",
+    note: "Photograph (400 x 327 px) of an adult black Scottish Terrier standing in profile outdoors by Matthew MacKenzie (EXIF capture 2003-02-09; original en.wikipedia upload 2003-02-13 by Ogmios; transferred to Commons 2006-12-27 by Svencb). Licensed under CC BY-SA 3.0 and GFDL.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-scottish-terrier-cheryl-brind": {
+"wikimedia-scottish-terrier-cheryl-brind": {
     id: "wikimedia-scottish-terrier-cheryl-brind",
     name: "Wikimedia Commons - File:Scottish terrier .jpg",
     url: "https://commons.wikimedia.org/wiki/File:Scottish_terrier_.jpg",
     type: "other",
     publishedOn: "2012-07-18",
-    accessedOn: "2026-11-10",
-    note: "High-resolution photograph (1536 x 2048 px) of a Scottish Terrier sitting outdoors by Cheryl Brind (captured 2012-05-24, uploaded 2012-07-18). Licensed under CC BY 2.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-20",
+    note: "High-resolution photograph (1536 x 2048 px) of a Scottish Terrier sitting outdoors by Cheryl Brind (captured 2012-05-24, uploaded 2012-07-18 via Flickr upload bot by Ltshears). Licensed under CC BY 2.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
   "fci-briard-official-standard": {
@@ -20380,16 +20385,6 @@ export const sources = defineSources({
     note: "Official AKC breed profile (Foundation Stock Service) covering Italian countryside watchdog history, weight (males 10-16 pounds, females 8-12 pounds), life expectancy (12-15 years), shedding, temperament, and Primary Lens Luxation (PLL) DNA testing.",
     publisher: "American Kennel Club"
   },
-  "gould-2011-adamts17-pll-study": {
-    id: "gould-2011-adamts17-pll-study",
-    name: "ADAMTS17 mutation associated with primary lens luxation is widespread among breeds (Veterinary Ophthalmology)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/22050825/",
-    type: "scientific",
-    publishedOn: "2011-11-01",
-    accessedOn: "2026-11-19",
-    note: "Peer-reviewed study by Gould et al. in Veterinary Ophthalmology (Vol. 14, No. 6, pp. 378-384, PMID 22050825) establishing the ADAMTS17 c.1473+1G>A splice-donor mutation in canine Primary Lens Luxation across multiple breeds including the Volpino Italiano.",
-    publisher: "Veterinary Ophthalmology / PubMed"
-  },
   "donner-2018-canine-genetic-variants-study": {
     id: "donner-2018-canine-genetic-variants-study",
     name: "Frequency and distribution of 152 genetic disease variants in over 100,000 mixed breed and purebred dogs (PLOS Genetics)",
@@ -20419,6 +20414,268 @@ export const sources = defineSources({
     accessedOn: "2026-11-19",
     note: "High-resolution photograph (2030 x 2048 px) of a young red Volpino Italiano by Cinvic (captured 2023-04-22, uploaded 2023-06-12). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
+  },
+  "griffon-bruxellois-cm-sm-quantitative-2014": {
+    id: "griffon-bruxellois-cm-sm-quantitative-2014",
+    name: "Quantitative analysis of Chiari-like malformation and syringomyelia in the Griffon Bruxellois dog",
+    publisher: "PLoS ONE / PubMed",
+    url: "https://pubmed.ncbi.nlm.nih.gov/24533070/",
+    type: "scientific",
+    commercialUse: "reference_only",
+    publishedOn: "2014-02-12",
+    accessedOn: "2026-11-19",
+    note: "Peer-reviewed MRI morphometry study (Knowler et al., PLoS ONE 2014, PMID 24533070) characterizing cranial base shortening and brain reorganization in Griffon Bruxellois dogs with Chiari-like malformation and syringomyelia.",
+  },
+  "griffon-bruxellois-sm-breeding-guidelines-2011": {
+    id: "griffon-bruxellois-sm-breeding-guidelines-2011",
+    name: "Effectiveness of breeding guidelines for reducing the prevalence of syringomyelia",
+    publisher: "Veterinary Record / PubMed",
+    url: "https://pubmed.ncbi.nlm.nih.gov/21998144/",
+    type: "scientific",
+    commercialUse: "reference_only",
+    publishedOn: "2011-10-14",
+    accessedOn: "2026-11-19",
+    note: "Peer-reviewed study of 550 Cavalier King Charles Spaniels and 93 Griffon Bruxellois (PMID 21998144) showing 73% of Griffon Bruxellois offspring were SM-free when both parents were SM-free compared with 100% SM-affected when both parents had SM.",
+  },
+  "bca-barbet-health-statement": {
+    id: "bca-barbet-health-statement",
+    name: "Barbet Club of America - BCA Health Statement",
+    url: "https://www.barbetclubofamerica.com/bca-health-statement",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-19",
+    note: "Official AKC parent club health statement documenting hip dysplasia, eye conditions, elbow dysplasia, ~40% prcd-PRA carrier frequency identified in summer 2017 among genetically tested Barbets, plus reported occurrences of epilepsy, immune system problems, and tick-related illnesses.",
+    publisher: "Barbet Club of America"
+  },
+  "bca-barbet-chic-requirements": {
+    id: "bca-barbet-chic-requirements",
+    name: "Barbet Club of America - Canine Health (CHIC) Requirements",
+    url: "https://www.barbetclubofamerica.com/canine-health-chic-1",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-19",
+    note: "Official Barbet Club of America CHIC health testing panel detailing required OFA/PennHIP hip evaluation, OFA elbow evaluation, prcd-PRA DNA test, and ACVO ophthalmologist CAER eye exam (minimum age 12 months), plus optional cardiac, thyroid, knee, and D-locus testing.",
+    publisher: "Barbet Club of America"
+  },
+"leroy-2006-french-breeds-genetic-variability": {
+    id: "leroy-2006-french-breeds-genetic-variability",
+    name: "Leroy et al. (2006) - Genetic variability in French dog breeds assessed by pedigree data",
+    url: "https://pubmed.ncbi.nlm.nih.gov/16420259/",
+    type: "scientific_publication",
+    publishedOn: "2006-02-01",
+    accessedOn: "2026-11-19",
+    note: "Peer-reviewed pedigree analysis of nine French dog breeds (Journal of Animal Breeding and Genetics, 2006; PMID 16420259) reporting an effective number of ancestors of 6.7 and average inbreeding coefficient of 12.4% in the 1997–2001 Barbet cohort.",
+    publisher: "Journal of Animal Breeding and Genetics (PubMed)"
+  },
+  "fci-wetterhoun-official-standard": {
+    id: "fci-wetterhoun-official-standard",
+    name: "FCI - Wetterhoun Official Breed Standard No. 221",
+    url: "https://www.fci.be/Nomenclature/Standards/221g08-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2023-07-06",
+    accessedOn: "2026-11-20",
+    note: "Official English FCI Standard No. 221 (valid standard dated 2023-06-08, English publication dated 2023-07-06). Covers Dutch origin, Group 8 Section 3 Water Dogs classification with working trial, Baltic Sea origin history, otter hunting and dog-cart utility, 1:1 square proportions, coarse greasy curly coat with short-haired head/legs, mason's-trowel ears, spiral tail, ideal height (males 59 cm, females 55 cm), and approximate weight (males 34 kg, females 28 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-wetterhoun-nomenclature": {
+    id: "fci-wetterhoun-nomenclature",
+    name: "FCI - Wetterhoun Breed Nomenclature (No. 221)",
+    url: "https://www.fci.be/en/nomenclature/Wetterhoun-221.html",
+    type: "official_breed_standard",
+    publishedOn: "2023-07-06",
+    accessedOn: "2026-11-20",
+    note: "Official FCI breed nomenclature record confirming The Netherlands as country of origin, Group 8 Section 3 Water Dogs classification subject to a working trial, and official multilingual names (Wetterhoun, Chien d'Eau Frison, Friesischer Wasserhund).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "raad-van-beheer-wetterhoun-profile": {
+    id: "raad-van-beheer-wetterhoun-profile",
+    name: "Raad van Beheer (Houden van honden) - Wetterhoun Rasprofiel & Foknormen",
+    url: "https://www.houdenvanhonden.nl/hondenrassen/alle-rassen/fci-groep-8/wetterhoun/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official Dutch Kennel Club (Raad van Beheer) breed profile for Wetterhoun detailing conformation, four colour varieties, calm non-noisy indoor character, child tolerance, minimal oily-coat grooming (avoiding shampooing and over-brushing), active outcross project, and mandatory pre-breeding health screenings (SCID DNA test, hip dysplasia, and elbow dysplasia via Dutch parent clubs; breeding standards published 2026-07-01, enforced 2026-10-01).",
+    publisher: "Raad van Beheer op Kynologisch Gebied in Nederland"
+  },
+  "nvsw-wetterhoun-profile": {
+    id: "nvsw-wetterhoun-profile",
+    name: "Nederlandse Vereniging voor Stabij- en Wetterhounen (NVSW) - Frisian Water Dog (Wetterhoun)",
+    url: "https://www.nvsw.nl/english/frisian-water-dog-wetterhoun",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official Dutch parent breed club (NVSW) English-language profile dedicated to the Frisian Water Dog (Wetterhoun), documenting Frisian heritage, gentle and humorous temperament, persistence in tasks, and breed stewardship.",
+    publisher: "Nederlandse Vereniging voor Stabij- en Wetterhounen"
+  },
+  "akc-wetterhoun-breed-profile": {
+    id: "akc-wetterhoun-breed-profile",
+    name: "American Kennel Club - Wetterhoun Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/wetterhoun/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official AKC breed profile (Foundation Stock Service) documenting Friesland, Netherlands origin, otter-hunting history, rarity, height (23 inches male, 21.5 inches female), weight (50-75 pounds), and life expectancy (13 years).",
+    publisher: "American Kennel Club"
+  },
+  "pubmed-verfuurden-2011-rag1-scid-frisian-water-dog": {
+    id: "pubmed-verfuurden-2011-rag1-scid-frisian-water-dog",
+    name: "Severe combined immunodeficiency in Frisian Water Dogs caused by a RAG1 mutation (Genes & Immunity)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/21293384/",
+    type: "scientific",
+    publishedOn: "2011-06-01",
+    accessedOn: "2026-11-20",
+    note: "Peer-reviewed study by Verfuurden et al. (Utrecht University) in Genes & Immunity (Vol. 12, No. 4, pp. 310-313, Epub 2011-02-03, PMID 21293384) identifying the autosomal-recessive RAG1 nonsense mutation (c.2893G>T; p.Glu965*) causing T-B-NK+ Severe Combined Immunodeficiency (SCID) and puppy mortality at 8-12 weeks in Frisian Water Dogs (Wetterhouns).",
+    publisher: "Genes & Immunity / PubMed"
+  },
+  "wikimedia-wetterhoun0002-23dingenvoormusea": {
+    id: "wikimedia-wetterhoun0002-23dingenvoormusea",
+    name: "Wikimedia Commons - File:Wetterhoun0002.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Wetterhoun0002.jpg",
+    type: "other",
+    publishedOn: "2010-09-30",
+    accessedOn: "2026-11-20",
+    note: "High-resolution photograph (2800 x 1867 px) of an adult black Wetterhoun (Frisian Water Dog) by 23dingenvoormusea (EXIF capture date 2010-09-29, uploaded 2010-09-30). Licensed under CC BY 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-wetterhoun-aka-frisian-waterdog-canarian": {
+    id: "wikimedia-wetterhoun-aka-frisian-waterdog-canarian",
+    name: "Wikimedia Commons - File:Wetterhoun aka Frisian Waterdog.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Wetterhoun_aka_Frisian_Waterdog.JPG",
+    type: "other",
+    publishedOn: "2014-05-11",
+    accessedOn: "2026-11-20",
+    note: "Photograph (684 x 501 px) of a brown-and-white female Wetterhoun (Frisian Water Dog) by Canarian (EXIF capture date 2013-12-14, uploaded 2014-05-11). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "ala-australian-labradoodle-breed-standards": {
+    id: "ala-australian-labradoodle-breed-standards",
+    name: "Australian Labradoodle Association (ALA) - Labradoodle Breed Standards",
+    url: "https://australianlabradoodleassoc.org.au/labradoodle-breed-standards/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official Australian Labradoodle Association (Australia) breed standard specifying three size tiers in metric first: Miniature (35-42 cm, 7-13 kg), Medium (43-52 cm, 13-20 kg), and Standard (53-63 cm, 21-30 kg), along with compact square proportions, head/ear conformation, movement, and sociable, intuitive temperament.",
+    publisher: "Australian Labradoodle Association"
+  },
+  "wala-australian-labradoodle-standard": {
+    id: "wala-australian-labradoodle-standard",
+    name: "Worldwide Australian Labradoodle Association (WALA) - Australian Labradoodle Breed Standard",
+    url: "https://www.walalabradoodles.org/about-australian-labradoodles/australian-labradoodle-breed-standard",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official WALA Australian Labradoodle standard detailing conformation, scissor bite, three coat textures (fleece, wool, and early-generation shedding hair), continuous coat growth, grooming needs, and allergy-friendliness caveats.",
+    publisher: "Worldwide Australian Labradoodle Association"
+  },
+  "alaa-labradoodle-coat-colors-guide": {
+    id: "alaa-labradoodle-coat-colors-guide",
+    name: "Australian Labradoodle Association of America (ALAA) - Coat Types and Coat Colors",
+    url: "https://alaa-labradoodles.com/faq-items/australian-labradoodles-have-two-types-of-coats-and-ten-different-coat-colors/",
+    type: "breed_club",
+    publishedOn: "2024-11-22",
+    accessedOn: "2026-11-20",
+    note: "Official ALAA guide documenting sixteen accepted coat colours (black-pigmented and brown-pigmented varieties), six patterns (parti, tuxedo, sable, phantom, tri-phantom, roan), and the exclusion of merle from breeding.",
+    publisher: "Australian Labradoodle Association of America"
+  },
+  "alaa-labradoodle-health-testing-program": {
+    id: "alaa-labradoodle-health-testing-program",
+    name: "Australian Labradoodle Association of America (ALAA) - Health Testing & Paw Reward Program",
+    url: "https://alaa-labradoodles.com/for-breeders/paw-reward-program/",
+    type: "breed_club",
+    publishedOn: "2026-09-11",
+    accessedOn: "2026-11-20",
+    note: "Official ALAA breeding health-testing requirements mandating hip and elbow radiographs (OFA/PennHIP/BVA/AVA), DNA testing for prcd-PRA and Exercise-Induced Collapse (EIC), 18-month board-certified ophthalmologist eye exams for Silver/Gold Paw tiers, and optional patella, thyroid, vWD, and cardiac evaluations.",
+    publisher: "Australian Labradoodle Association of America"
+  },
+  "plos-genetics-2020-australian-labradoodle-ali": {
+    id: "plos-genetics-2020-australian-labradoodle-ali",
+    name: "Genetic analysis of the modern Australian labradoodle dog breed reveals an excess of the poodle genome (PLOS Genetics)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7482835/",
+    type: "scientific",
+    publishedOn: "2020-09-10",
+    accessedOn: "2026-11-20",
+    note: "Peer-reviewed study by Ali et al. (PLoS Genet 16(9): e1008956, 2020, PMC7482835) analyzing 150,106 SNPs in Australian Labradoodles and F1 Labradoodles, demonstrating excess Poodle genomic ancestry in multi-generational Australian Labradoodles driven by coat-trait selection (RSPO2 furnishings, FGF5 length, KRT71 curl).",
+    publisher: "PLOS Genetics / National Library of Medicine (PMC)"
+  },
+  "plos-one-2024-doodle-dilemma-bryson": {
+    id: "plos-one-2024-doodle-dilemma-bryson",
+    name: "The doodle dilemma: How the physical health of 'Designer-crossbreed' Cockapoo, Labradoodle and Cavapoo dogs compares to their purebred progenitor breeds (PLOS ONE)",
+    url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306350",
+    type: "scientific",
+    publishedOn: "2024-08-28",
+    accessedOn: "2026-11-20",
+    note: "Peer-reviewed Royal Veterinary College VetCompass study by Bryson et al. (PLoS ONE 19(8): e0306350, 2024) comparing 9,402 dogs (including 583 Labradoodles) and finding no statistically significant health difference across 86.6% of disorder comparisons between designer crossbreeds and purebred progenitors, with lower patellar luxation risk in Labradoodles compared with Poodles.",
+    publisher: "PLOS ONE"
+  },
+  "pubmed-2021-uk-otitis-externa-vetcompass": {
+    id: "pubmed-2021-uk-otitis-externa-vetcompass",
+    name: "Frequency and predisposing factors for canine otitis externa in the UK - a primary veterinary care epidemiological view (Canine Medicine and Genetics)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/34488894/",
+    type: "scientific",
+    publishedOn: "2021-09-07",
+    accessedOn: "2026-11-20",
+    note: "Peer-reviewed UK VetCompass epidemiological study (Canine Med Genet 2021;8(1):7, PMID 34488894) of 22,333 dogs documenting significantly increased odds of otitis externa in Labradoodles (OR 2.95 compared with general crossbred dogs) and drop-eared conformations.",
+    publisher: "Canine Medicine and Genetics / PubMed"
+  },
+  "pubmed-oliver-gould-2012-labradoodle-ophthalmic": {
+    id: "pubmed-oliver-gould-2012-labradoodle-ophthalmic",
+    name: "Survey of ophthalmic abnormalities in the labradoodle in the UK (Veterinary Record)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/22278634/",
+    type: "scientific",
+    publishedOn: "2012-04-14",
+    accessedOn: "2026-11-20",
+    note: "Peer-reviewed ophthalmic survey by Oliver and Gould (Vet Rec 2012;170(15):390, PMID 22278634) of 175 UK Labradoodles documenting 4.6% multifocal retinal dysplasia (MRD) and 3.7% cataracts, advising routine pre-breeding hereditary eye screening.",
+    publisher: "Veterinary Record / PubMed"
+  },
+  "frontiers-vet-sci-2026-labradoodle-eye-screening-goossens": {
+    id: "frontiers-vet-sci-2026-labradoodle-eye-screening-goossens",
+    name: "Retrospective evaluation of the prevalence of known and presumed hereditary eye diseases in a population of Labradoodles referred for ophthalmic screening examinations in the Netherlands (Frontiers in Veterinary Science)",
+    url: "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1841935/full",
+    type: "scientific",
+    publishedOn: "2026-06-08",
+    accessedOn: "2026-11-20",
+    note: "Peer-reviewed study by Goossens et al. (Front. Vet. Sci. 13:1841935, 2026) evaluating ECVO-certified ophthalmic screenings of 1,182 Labradoodles in the Netherlands (2014-2024), finding 7.8% affected by at least one known or presumed hereditary eye disease: iris-to-iris persistent pupillary membrane (4.7%), distichiasis (2.5%), cataracts (0.5%), and multifocal retinal dysplasia (0.2%).",
+    publisher: "Frontiers in Veterinary Science"
+  },
+  "wikimedia-labradoodle-brown-male-side-porsche": {
+    id: "wikimedia-labradoodle-brown-male-side-porsche",
+    name: "Wikimedia Commons - File:Labradoodle-Brown-Male-Side.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Labradoodle-Brown-Male-Side.jpg",
+    type: "other",
+    publishedOn: "2022-05-16",
+    accessedOn: "2026-11-20",
+    note: "High-resolution photograph (2571 x 2111 px) of an adult brown male Labradoodle standing in profile by Anton Porsche / Superanton (EXIF capture date 2022-05-15, uploaded 2022-05-16). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-labradoodle-johlum": {
+    id: "wikimedia-labradoodle-johlum",
+    name: "Wikimedia Commons - File:Labradoodle.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Labradoodle.jpg",
+    type: "other",
+    publishedOn: "2011-02-20",
+    accessedOn: "2026-11-20",
+    note: "Photograph (400 x 375 px) of a cream-coated Australian Labradoodle by Johlum (capture date 2008-12-07, uploaded 2011-02-20). Dedicated to the public domain under CC0 1.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "rkc-scottish-terrier-breed-profile": {
+    id: "rkc-scottish-terrier-breed-profile",
+    name: "The Royal Kennel Club - Scottish Terrier Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/terrier/scottish-terrier/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official Royal Kennel Club breed profile covering breed characteristics (Small, up to 1 hour daily exercise, sheds yes, lifespan over 10 years, town or country), history (Aberdeen terrier, 1879 naming by Captain Gordon Murray, 1882 first club), and standard colors (Black, Black Brindle, Brindle, Wheaten).",
+    publisher: "The Royal Kennel Club"
+  },
+  "scottish-terrier-herbicide-bladder-cancer-study-2004": {
+    id: "scottish-terrier-herbicide-bladder-cancer-study-2004",
+    name: "Herbicide Exposure and the Risk of Transitional Cell Carcinoma of the Urinary Bladder in Scottish Terriers (JAVMA 2004)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/15112777/",
+    type: "scientific_publication",
+    publishedOn: "2004-04-15",
+    accessedOn: "2026-11-20",
+    note: "Peer-reviewed case-control study (Glickman et al., J Am Vet Med Assoc 2004;224(8):1290-1297, PMID 15112777; 83 TCC cases vs 83 controls) finding significantly increased TCC risk with exposure to lawns/gardens treated with herbicides alone (OR 3.62) or herbicides plus insecticides (OR 7.19), but not insecticides alone (OR 1.62).",
+    publisher: "Journal of the American Veterinary Medical Association / PubMed"
   },
 });
 

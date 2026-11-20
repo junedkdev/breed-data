@@ -3,7 +3,7 @@ import type { Breed } from "../schema/breed.types";
 export const barbet: Breed = {
   slug: "barbet",
   name: "Barbet",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "French Water Dog",
@@ -12,71 +12,73 @@ export const barbet: Breed = {
     "Perro de Agua Francés"
   ],
 
-  group:
-    "Gundogs; Section 3 — Water Dogs (with working trial; also classified in the Sporting and Gun Dog groups)",
+  group: "Retrievers, Flushing Dogs, and Water Dogs",
 
   origin: {
     country: "France",
     region:
-      "France (developed across coastal wetlands, marshes, and estuaries throughout mainland France)"
+      "Mainland France, historically associated with marshes, ponds, rivers, and coastal wetlands"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Barbet-1.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Barbet-1.jpg",
-      title: "Barbet-1.jpg",
-      description: "An adult black Barbet standing in profile outdoors.",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Barbet_suka_2009_pl.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Barbet_suka_2009_pl.jpg",
+      title: "Barbet suka 2009 pl.jpg",
+      description:
+        "A female Barbet photographed at the 2009 international dog show in Katowice, Poland.",
       creator: "Pleple2000",
       uploader: "Pleple2000",
-      capturedOn: "2008-10-05",
-      uploadedOn: "2008-10-18",
-      width: 2400,
-      height: 1800,
-      licenseId: "cc-by-sa-3.0",
+      capturedOn: "2009-03-21",
+      uploadedOn: "2009-03-26",
+      width: 2896,
+      height: 2092,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Barbet-1.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Barbet_suka_2009_pl.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-19"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Barbet_688.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Barbet_688.jpg",
-      title: "Barbet 688.jpg",
-      description: "A dark brown Barbet outdoors in grass.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 520,
-      licenseId: "cc-by-sa-3.0",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Barbet-brown.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Barbet-brown.jpg",
+      title: "Barbet-brown.jpg",
+      description:
+        "A brown Barbet showing its thick curly fleece and bearded muzzle.",
+      creator: "Canarian",
+      uploader: "Canarian",
+      capturedOn: "2022-12-03",
+      uploadedOn: "2022-12-08",
+      width: 2779,
+      height: 2588,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Barbet_688.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Barbet-brown.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-19"
     }
   ],
 
   overview: {
     summary:
-      "An ancient, medium-sized French water retriever distinguished by its dense, curly, water-repellent fleece coat, distinctive chin beard, webbed feet, and calm, affectionate, and cheerful working disposition.",
+      "A rustic, medium-sized French water dog recognized for its dense woolly curls, bearded chin, webbed paws, and cheerful, people-oriented nature.",
 
     description:
-      "The Barbet is a rustic, medium-sized water dog built with balanced, sturdy substance, strong bone, and an athletic, slightly rectangular frame. Historically developed to locate, flush, and retrieve waterfowl from freezing marshes and coastal estuaries, the dog possesses a waterproof double coat composed of thick, natural woolly curls that cover the body from head to tail. Its facial furnishings feature prominent whiskers and an abundant chin beard—from which the French word 'barbe' and the breed name derive—framing round, dark hazel or dark brown eyes radiating gentle intelligence. The webbed paws and muscular thighs provide powerful swimming drive in muddy waters. In domestic life, the dog is calm, cheerful, and deeply affectionate with family members, adapting easily to active households while maintaining an enduring passion for swimming, retrieving, and outdoor exploration.",
+      "The Barbet is a sturdy, medium-sized water retriever with a slightly rectangular silhouette, solid bone, and an unpretentious working outline. A thick, woolly, curly coat covers the entire dog from its broad, rounded skull to its sweeping tail, insulating it against cold marshes and wet weather. Abundant hair on the lower jaw creates the signature chin beard—called 'barbe' in French—that inspired the breed's name, while hair falling over the bridge of the nose frames dark, expressive eyes. Broad, webbed paws and muscular hindquarters power confident swimming in lakes, streams, and muddy flats. Indoors, this breed settles calmly beside its family and forms close bonds, yet outdoors it remains an eager swimmer, curious explorer, and enthusiastic retriever.",
 
     history:
-      "The Barbet is one of Europe's most ancient waterfowl dogs, with historical and literary records across France dating back to the late sixteenth century. Mentions appear in King Henry IV's royal court chronicles as well as natural history treatises by Buffon, who described the rustic water dog as an ancestor of several modern gundog and companion breeds, notably the Poodle, Bichon types, and various European water spaniels. During the eighteenth and nineteenth centuries, French market hunters and wildfowlers relied on these dogs to retrieve downed ducks, geese, and game from freezing bogs and marshes. The disruptions of the World Wars caused the rustic working landrace to decline sharply, prompting French cynologists and dedicated breeders in the mid-twentieth century to collect and preserve surviving bloodlines. Today, the breed is celebrated internationally as an authentic, historical sporting dog and versatile companion.",
+      "Written accounts and artwork from sixteenth-century France already depict this rustic waterfowl dog, including court records from the era of King Henry IV. Across subsequent centuries, hunters throughout France relied on the Barbet to work dense wetland cover, flush hidden birds, and fetch game from icy water; the breed also appears in Napoleonic-era accounts and is widely regarded as an ancestor of modern water and companion breeds such as the Poodle, Bichon types, and several European water spaniels. Numbers declined sharply after the Second World War, bringing the breed close to disappearance before dedicated French enthusiasts rebuilt the population during the late twentieth century using surviving lines and carefully planned outcrosses with related water dogs. Today, the Barbet remains uncommon worldwide and is carefully managed to protect genetic diversity while preserving its friendly temperament and wetland retrieving instincts.",
 
     originalPurpose:
-      "Searching, flushing, and retrieving waterfowl and marsh game from freezing lakes, bogs, and coastal estuaries.",
+      "Locating, flushing, and retrieving wildfowl from cold marshes, ponds, rivers, and coastal wetlands.",
 
     currentRoles: [
-      "Traditional waterfowl flushing and retrieving gundog",
-      "Field trial and hunt test competitor",
-      "Devoted household companion and family pet",
-      "Therapy and emotional support visiting dog",
-      "Canine athlete in agility, dock diving, tracking, and rally"
+      "Waterfowl flushing and retrieving hunting partner",
+      "Active family companion",
+      "Canine sports participant in agility, rally, dock diving, and lure coursing",
+      "Search-and-rescue and scent-work dog",
+      "Therapy and visiting companion dog"
     ]
   },
 
@@ -98,12 +100,12 @@ export const barbet: Breed = {
     weight: {
       unit: "kg",
       male: {
-        min: 20,
+        min: 17,
         max: 28
       },
       female: {
         min: 17,
-        max: 24
+        max: 28
       }
     },
 
@@ -113,64 +115,61 @@ export const barbet: Breed = {
     },
 
     coatType:
-      "Long, woolly, curly coat that can form natural cords, dense and thick, covering the entire body naturally without sculpting, forming a characteristic beard on the chin.",
+      "Long, thick, woolly, and curly coat that naturally covers the whole body and can form cords or strands, with a pronounced beard on the chin and moustache over the muzzle.",
 
     coatLength: "Long",
 
     coatColors: [
-      "Solid black",
-      "Solid brown (chocolate)",
-      "Solid fawn (pale to dark red-fawn)",
+      "Black",
       "Grey",
+      "Brown",
+      "Fawn (all shades)",
+      "Sand (all shades)",
       "White",
-      "Pied (white ground with black, brown, fawn, or grey patches)"
+      "Pied (white with black, grey, brown, fawn, or sand patches)"
     ],
 
     sheddingLevel:
-      "Low; hair sheds into the curls rather than onto furnishings, requiring regular combing to prevent matting",
+      "Low; loose hairs tend to remain trapped inside the curls rather than dropping freely, so thorough brushing is needed to prevent matting",
 
     droolingLevel:
-      "Low to moderate; tight lips prevent excessive drool, though long beard furnishings collect water after drinking",
+      "Low; tight lips keep drooling minimal, though the long beard holds water after drinking",
 
     distinctiveFeatures: [
-      "Rustic, medium-sized water dog of balanced rectangular proportions",
-      "Height at the withers of 58 to 65 cm for males and 53 to 61 cm for females, with a permissible variation of plus or minus one centimetre",
-      "Weight of 20 to 28 kg for males and 17 to 24 kg for females in lean, conditioned working form",
-      "Profuse, natural curly woolly coat covering the entire body, head, and tail",
-      "Prominent facial beard on the chin and long moustache covering the muzzle",
-      "Round, expressive dark brown or hazel eyes framed by long hair that falls over the bridge without blinding the dog",
-      "Broad, flat skull with a defined stop and a strong, wide, square muzzle",
-      "Complete scissor bite with strong jaws and sound teeth",
-      "Broad, flat, long drop ears set low on a level with the eyes, covered in long curly strands extending past the mouth",
-      "Deep, broad chest reaching down to the elbows with well-sprung ribs",
-      "Low-set tail carried in a gentle upward curve when active without curling over the back",
-      "Round, broad feet with pronounced interdigital webbing and tough black or dark brown pads adapted for marsh swimming"
+      "Slightly rectangular, solidly built medium frame with strong bone",
+      "Height at the withers of 58 to 65 cm in males and 53 to 61 cm in females, with a tolerance of plus or minus 1 cm",
+      "Typical adult body weight of 17 to 28 kg",
+      "Dense, woolly, curly coat covering the entire body, head, ears, and tail naturally",
+      "Prominent chin beard and full moustache framing the muzzle",
+      "Broad, rounded skull with a clearly defined stop and a sturdy, square muzzle slightly shorter than the skull",
+      "Round, dark brown eyes partially shaded by long hair falling over the bridge of the nose",
+      "Low-set, long, flat drop ears covered in thick curly hair",
+      "Complete scissor bite with strong jaws",
+      "Low-set, sweeping tail that curves gently upward at the tip when the dog is in motion",
+      "Round, broad, hair-covered feet with webbed toes suited for swimming",
+      "Relatively thick skin offering added protection in cold water and dense marsh brush"
     ]
   },
 
   temperament: {
     traits: [
-      "Joyful, even-tempered, and remarkably friendly",
-      "Deeply affectionate, devoted, and loyal with family members",
-      "Passionate water lover with an instinctive desire to retrieve",
-      "Gentle, patient, and playful with children",
-      "Sociable, polite, and peaceful with other dogs and domestic pets",
-      "Intelligent, eager to please, and highly trainable",
-      "Calm and relaxed indoors when adequately exercised",
-      "Alert watchdog that announces visitors without aggression",
-      "Sensitive to human emotional tone, thriving under gentle leadership",
-      "Low prey drive toward non-avian domestic animals"
+      "Friendly, cheerful, and deeply attached to its household",
+      "Intelligent, quick to learn, and responsive to upbeat training",
+      "Loyal and sociable with family members, guests, and other dogs",
+      "Playful and athletic outdoors, especially around water and mud",
+      "Even-tempered and calm indoors once daily exercise needs are met",
+      "Occasionally mischievous or mildly headstrong in youth without steady guidance"
     ],
 
     scores: {
       affection: 5,
       withChildren: 5,
-      withDogs: 5,
+      withDogs: 4,
       withStrangers: 4,
       protectiveness: 2,
       independence: 2,
-      trainability: 5,
-      barking: 2,
+      trainability: 4,
+      barking: 3,
       energy: 4
     }
   },
@@ -178,7 +177,7 @@ export const barbet: Breed = {
   care: {
     exercise: {
       level:
-        "High; an active gundog requiring daily aerobic exercise, mental engagement, and regular opportunities to swim and retrieve",
+        "Moderate to high; an athletic water retriever that needs steady daily movement and mental engagement to remain relaxed indoors",
 
       minutesPerDay: {
         min: 60,
@@ -186,12 +185,11 @@ export const barbet: Breed = {
       },
 
       activities: [
-        "Daily brisk leashed walks and trail hikes in natural environments",
-        "Swimming and water retrieving in lakes, ponds, or calm coastal waters",
-        "Interactive fetch, bumper retrieving, and field hunting drills",
-        "Canine sports including agility, dock diving, tracking, and rally",
-        "Food puzzle toys, snuffle mats, and scent-searching enrichment",
-        "Supervised play and social romping in a securely fenced yard"
+        "Brisk daily walks and trail outings",
+        "Swimming and water retrieving in safe lakes, ponds, or calm shores",
+        "Off-leash running and fetch in securely fenced spaces",
+        "Canine sports such as agility, rally, dock diving, and lure coursing",
+        "Indoor enrichment including hide-and-seek, trick training, and scent puzzles"
       ]
     },
 
@@ -199,36 +197,34 @@ export const barbet: Breed = {
       level: "High",
 
       brushing:
-        "Line-comb thoroughly down to the skin two to three times weekly using a wide-toothed metal greyhound comb and slicker brush to prevent felted mats in the curly fleece; inspect and detangle high-friction areas behind the ears, armpits, and groin.",
+        "Brush thoroughly and comb all the way down to the skin several times a week—and more often for longer coats—to clear trapped dead hair, burrs, and early tangles before they tighten into mats.",
 
       bathing:
-        "Bathe every four to eight weeks or after swampy field swims using a moisturizing canine shampoo; allow the coat to air dry naturally to restore authentic tight curls, as high-velocity blow dryers blow out the curls into an unnatural fluff.",
+        "Bathe every four to six weeks, or after muddy swims, following a complete pre-bath brush-out. If blow-drying straight before scissoring an even trim (often around 7 to 13 cm on the body while keeping the head, ears, and tail longer), wet the coat afterward and let it air-dry so the natural curls spring back.",
 
       notes: [
-        "The coat must not be sculpted, blown straight, or clipped in artificial patterns; it should be presented in its natural rustic curls, with occasional uniform hand-scissoring every two to three months to maintain manageable length.",
-        "Inspect and clean the long dropped ears two to three times weekly, drying the ear canal entrance carefully after swimming to prevent moist bacterial or yeast infections.",
-        "Wipe and dry the long chin beard after eating and drinking to prevent moisture accumulation and odor.",
-        "Trim excess hair between footpads to maintain traction and prevent ice balls in winter.",
-        "Trim nails every two to three weeks to maintain compact foot structure.",
-        "Brush teeth several times weekly using dog-specific enzymatic toothpaste."
+        "Wipe and dry the chin beard after meals and drinks to limit dampness and odor.",
+        "Check low-set, heavily haired ears weekly and dry them carefully after every swim or bath to discourage wax buildup and infections.",
+        "Trim strong, fast-growing nails regularly with clippers or a grinder to prevent splitting or overgrowth.",
+        "Inspect paws and the dense coat after wetland or brush outings for grass awns, burrs, and ticks.",
+        "Brush teeth routinely with canine toothpaste to support long-term oral health."
       ]
     },
 
     training: {
       difficulty:
-        "Easy to moderate; exceptionally intelligent, biddable, and eager to please, learning cues and complex retrieving patterns rapidly",
+        "Easy to moderate; smart, cooperative, and eager to engage, though playful youngsters benefit from calm consistency",
 
       tips: [
-        "Use positive reinforcement, high-value treats, and enthusiastic praise.",
-        "Keep sessions varied, cheerful, and interactive to maintain high motivation.",
-        "Begin gentle water introduction, retrieving games, and recall practice early in puppyhood.",
-        "Avoid harsh verbal corrections or heavy physical pressure, which cause this sensitive retriever to shut down.",
-        "Incorporate scentwork and retrieving drills to channel natural gundog instincts.",
-        "Teach polite greetings early to prevent joyful jumping on family members."
+        "Use upbeat, reward-based sessions because this breed is sensitive to harsh corrections",
+        "Begin gentle, consistent manners training early to guide playful and occasionally stubborn youngsters",
+        "Keep practice varied with retrieving, scent games, or trick work to hold its attention",
+        "Reinforce a dependable recall before allowing off-leash freedom near ponds, marshes, or waterfowl",
+        "Channel its natural athleticism into structured sports like rally, agility, or dock diving"
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to a wide range of people, friendly vaccinated dogs, water bodies, novel surfaces, and busy environments. Early structured socialization develops an adaptable, stable companion that is welcoming to strangers and calm in diverse public settings."
+        "Introduce puppies early and positively to diverse people, calm dogs, everyday noises, urban environments, and safe water settings so they grow into confident, polite adults in both rural and city life."
     },
 
     livingEnvironment: {
@@ -237,82 +233,77 @@ export const barbet: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool and rainy climates, where the dense curly coat provides exceptional water and cold insulation",
-        "Warm climates, provided indoor cooling, shade, fresh water, and access to swimming are available, scheduling exercise during cooler morning or evening hours"
+        "Cold and wet climates, where the thick woolly coat insulates effectively",
+        "Warm climates, provided shade, fresh water, swimming access, and shorter coat upkeep are maintained"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply people-oriented and thrives on human inclusion, prone to separation distress or persistent whining if isolated for extended workdays without interaction."
+        "Low; bonds closely with its family and dislikes being left alone for long routine stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized active sporting breeds, adjusted for age, metabolism, and physical output.",
+      "Complete, balanced dog food formulated for an active medium-sized dog and matched to its life stage (puppy, adult, or senior).",
 
     feedingFrequency: {
-      puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
-      adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+      puppy: "Three to four small measured meals per day until six months of age",
+      adult: "Two measured meals per day",
+      senior: "Two measured meals per day with calories adjusted for lower activity"
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt through the dense curls. Divide daily food into two distinct meals, restrict vigorous exercise immediately before and after eating, use narrow food bowls to keep the beard clean, and provide fresh drinking water at all times.",
+      "Serve measured portions tailored to body condition rather than free-feeding, checking the ribs and waist beneath the thick curly coat regularly. Keep clean, fresh drinking water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical strain on hips and stifles.",
-      "Account for training treats within the total daily caloric allowance to avoid creeping weight gain.",
-      "Use narrow spaniel-style bowls or elevated stands to prevent the long beard from soaking in water dishes.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water at all times, especially after swimming in salty or chlorinated water.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep training treats within roughly 10 percent of daily calories to prevent gradual weight gain.",
+      "Many Barbets are modest rather than voracious eaters; maintain steady meal routines and consult a veterinarian if appetite changes abruptly.",
+      "Veterinary-approved skin-support or omega-3 oil supplementation may help coat and skin comfort during drier months.",
+      "Introduce any diet change gradually over five to seven days to avoid digestive upset.",
+      "Ensure extra hydration after swimming or warm-weather exercise."
     ],
 
     note:
-      "Caloric needs vary significantly based on swimming frequency, outdoor temperature, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Daily calorie needs depend on age, metabolism, swimming frequency, and exercise load; consult a veterinarian before making home-prepared diets or adding supplements."
   },
 
   health: {
     overview:
-      "The Barbet is a remarkably robust, rustic sporting dog with a typical life expectancy of 12 to 14 years. Having been preserved through functional working lines with attention to genetic health, it has avoided many artificial conformational exaggerations. However, responsible health management requires screening for hereditary conditions seen across water retrievers, including hip dysplasia, elbow dysplasia, hereditary eye diseases (such as progressive retinal atrophy and cataracts), idiopathic epilepsy, and chronic otitis externa due to heavily coated drop ears.",
+      "The Barbet is generally regarded as a sturdy, long-lived sporting dog, typically living 12 to 14 years. Because the modern population was rebuilt from a very small founder base—a peer-reviewed French pedigree study of the 1997–2001 birth cohort recorded an average inbreeding coefficient of 12.4 percent and just 6.7 effective ancestors—careful mate selection and genetic diversity management remain central to breed health. Well-documented inherited concerns that breeders actively screen for include hip dysplasia, elbow dysplasia, and ocular diseases such as progressive rod-cone degeneration (prcd-PRA), where genetic testing in 2017 identified roughly 40 percent carriers among tested dogs. Other issues reported in the breed, though less systematically quantified, include epilepsy, allergies, immune-mediated conditions, and recurring ear infections linked to hairy drop ears and frequent water work.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb lameness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joint causing forelimb lameness and joint stiffness",
-      "Progressive retinal atrophy (prcd-PRA) — an inherited neurodegenerative ocular condition causing progressive photoreceptor degeneration and eventual blindness, screenable via DNA testing",
-      "Hereditary cataracts and distichiasis — ocular conditions monitored through annual veterinary ophthalmologist examinations",
-      "Idiopathic epilepsy — inherited seizure disorder reported in some European lines, managed through pedigree evaluation and neurological care",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by heavy, hairy drop ears that restrict ventilation and trap moisture after swimming",
-      "Allergic dermatitis — occasional sensitivities to environmental allergens or fleas causing skin itching and secondary infections"
+      "Hip dysplasia — a well-documented developmental hip-joint condition that can cause laxity, discomfort, and arthritis; breeders screen breeding dogs radiographically and owners help by keeping dogs lean.",
+      "Progressive retinal atrophy (prcd-PRA) — an inherited, progressive retinal degeneration that impairs night vision and can cause blindness; DNA testing in 2017 found roughly 40 percent carriers among tested Barbets, making pre-breeding genetic screening essential.",
+      "Elbow dysplasia — abnormal elbow-joint development seen less often than hip dysplasia in the breed but still a recognized orthopedic concern managed through radiographic screening and weight control.",
+      "Otitis externa (ear infections) — low-set, heavily haired drop ears combined with frequent swimming can trap moisture and wax, requiring routine checks and careful drying after water sessions.",
+      "Epilepsy and seizure disorders (reported) — seizures have been noted in some lines, though breed-wide incidence rates are not fully established in peer-reviewed studies; affected dogs need prompt veterinary care and should not be bred.",
+      "Allergies and immune-mediated conditions (reported) — environmental or food allergies, occasional immune-system issues, and tick-borne illnesses in dogs working wetlands have been reported by breed health stewards."
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic clearances for hips and elbows, DNA clearance for prcd-PRA, and current ophthalmologist eye certifications.",
-      "Thoroughly dry the ears and wipe ear canals with a veterinary ear wash after every swim or bath.",
-      "Maintain a lean, athletic body condition to avoid placing excess mechanical wear on hips and elbows.",
-      "Brush and comb the curly fleece down to the skin multiple times weekly to prevent painful matting and skin hot spots.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine dental cleanings."
+      "Choose puppies from breeders who prioritize low inbreeding and publish pre-breeding orthopedic, eye, and DNA test results",
+      "Inspect and gently dry the ear canals after every swim or bath",
+      "Brush and comb the curly coat down to the skin routinely to catch burrs, ticks, and early mats",
+      "Maintain year-round tick, flea, and heartworm prevention, particularly for dogs exploring marshes and tall grass",
+      "Schedule annual veterinary wellness exams, shifting to twice-yearly checkups in senior years"
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "DNA marker test for Progressive Retinal Atrophy (prcd-PRA) prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "Radiographic hip evaluation before breeding",
+      "Radiographic elbow evaluation before breeding",
+      "DNA test for prcd-PRA (progressive rod-cone degeneration)",
+      "Board-certified veterinary ophthalmologist eye examination starting at 12 months of age and repeated periodically",
+      "Optional supplemental screening in some breeding programs includes cardiac, thyroid, patella/knee, and D-locus coat-dilution testing"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, wide jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times per week—ideally daily—using canine enzymatic toothpaste, and pair home care with veterinary dental checks to prevent tartar buildup and gum inflammation.",
 
     earCare:
-      "Inspect the long drop ears two to three times weekly for wax buildup, moisture, or foul odor. Clean gently using a veterinarian-recommended ear cleanser, drying the leather and canal opening thoroughly after swimming.",
+      "Check the low-set, heavily haired drop ears weekly and after every swim for redness, odor, or wax buildup. Dry the outer ear and canal opening carefully after water exposure, and ask a veterinarian or experienced groomer before plucking ear hair so you do not irritate sensitive skin.",
 
     skinCare:
-      "Part the dense curly fleece weekly during line-combing to inspect the skin for external parasites, redness, or mats. Avoid blow-drying the coat straight, as natural air drying maintains healthy curl structure and skin aeration."
+      "Part the curls regularly to inspect the skin underneath for moisture, redness, grass awns, or ticks, especially after wetland outings. Keeping the fleece mat-free allows air to reach the skin and prevents hidden hot spots."
   },
 
   suitability: {
@@ -323,81 +314,54 @@ export const barbet: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Active families seeking an affectionate, playful, and gentle medium-sized companion",
-      "Outdoor lovers, hikers, and swimmers who enjoy water sports and trail exploration",
-      "First-time dog owners committed to positive training and thorough weekly coat brushing",
-      "Apartment or house dwellers who provide daily walks, play, and close indoor family inclusion",
-      "Waterfowlers and gundog enthusiasts looking for an authentic, historic water retriever"
+      "Active individuals and families who enjoy daily walks, hiking, and swimming",
+      "Households where someone is home most of the day to provide companionship",
+      "Owners willing to commit to regular brushing, combing, and periodic trimming",
+      "People interested in waterfowl retrieving, rally, agility, or dock diving",
+      "First-time dog owners who are ready for steady coat upkeep and daily exercise"
     ],
 
     notIdealFor: [
-      "Owners unwilling to dedicate time to regular line-combing and curly coat maintenance",
-      "Households seeking a low-exercise indoor lap dog",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People who dislike wet, muddy paws and damp beards around the home after outdoor runs",
-      "Individuals looking for an aggressive protective guard dog"
+      "Households that leave a dog alone for long workdays on a routine basis",
+      "Owners seeking a wash-and-wear coat with minimal grooming effort",
+      "Sedentary homes unable to provide at least an hour of daily outdoor activity",
+      "People bothered by wet beards, muddy paws, or a dog eager to splash in puddles"
     ]
   },
 
   funFacts: [
-    "The breed name Barbet comes directly from the French word 'barbe' (meaning beard), referring to the characteristic tuft of long, curly hair growing from its chin.",
-    "The popular French idiom 'crotté comme un barbet' (muddy as a barbet) originated centuries ago, affectionately describing someone soaked, disheveled, and covered in mud after an outdoor adventure.",
-    "Historical cynologists widely consider the Barbet to be the common ancestor of several European breeds, including the Poodle, the Portuguese Water Dog, the Spanish Water Dog, and the Bichon family.",
-    "King Henry IV of France was an avid hunter who kept Barbet water dogs, and historical letters recount his mistress jokingly complaining that the king brought his wet, muddy Barbets directly into royal bedchambers.",
-    "Unlike the sculpted, shaved show trims of poodles, the Barbet's breed standard strictly requires it to be presented in its natural rustic curls, with no clipping of the face or hindquarters.",
-    "The breed has fully webbed feet, functioning like natural flippers that give the dog remarkable propulsion and endurance when swimming in deep or muddy water."
+    "The name Barbet comes from the French word 'barbe,' meaning beard, referring to the thick tuft of hair on its chin.",
+    "Its enthusiasm for splashing through bogs inspired the classic French saying 'être crotté comme un barbet,' meaning to be thoroughly covered in mud.",
+    "Broad, webbed paws act like built-in paddles, helping the dog power smoothly through cold lakes and marshy terrain.",
+    "Sixteenth-century French court chronicles mention Barbets alongside nobles during the era of King Henry IV.",
+    "Historical naturalists and cynologists link the Barbet to the ancestry of several well-known curly and water breeds, including the Poodle, Bichon types, and European water spaniels."
   ],
 
   faq: [
     {
-      question: "What is a Barbet?",
+      question: "Does a Barbet shed heavily?",
       answer:
-        "The Barbet is an ancient French water dog known for its dense curly fleece coat, characteristic chin beard, webbed paws, and gentle, joyful personality."
+        "No. Like other curly-coated water dogs, the Barbet sheds very little loose hair around the house because dead hair stays caught inside the curls. However, that trapped hair mats quickly unless you brush and comb down to the skin several times a week. No dog breed is completely allergy-free, so allergy-sensitive people should spend time with adult Barbets before committing."
     },
     {
-      question: "What is the difference between a Barbet and a Poodle?",
+      question: "How is a Barbet different from a Standard Poodle?",
       answer:
-        "While closely related historically, the Barbet is a distinct gundog with a broader head, slightly rectangular body, heavier bone, and a natural, unsculpted curly coat, whereas the Poodle has a longer muzzle, a square silhouette, lighter bone, and a tradition of styled coats."
+        "Although the two breeds share ancient water-dog roots, the Barbet is typically sturdier and heavier-boned with a slightly rectangular outline, a rounder skull, and a rustic, natural curly coat rather than sculpted clips. Its temperament is often described as calm, laid-back indoors, and less high-strung while still athletic outdoors."
     },
     {
-      question: "How tall and heavy is a Barbet?",
+      question: "How much exercise does a Barbet need each day?",
       answer:
-        "Adult males stand 58 to 65 cm at the withers and weigh 20 to 28 kg, while adult females stand 53 to 61 cm and weigh 17 to 24 kg, with a height tolerance of plus or minus one centimetre."
+        "Most adult Barbets thrive on 60 to 90 minutes of daily activity. A mix of brisk walks, off-leash play in safe areas, retrieving games, swimming, and brain work such as scent or trick training keeps them relaxed at home."
     },
     {
-      question: "How long does a Barbet live?",
+      question: "Can a Barbet live comfortably in an apartment?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
+        "Yes, provided its daily exercise and companionship needs are met. A Barbet is quiet and settled indoors once exercised, but quick sidewalk breaks are not enough—it needs real daily outings in parks, trails, or water and dislikes being left alone for long stretches."
     },
     {
-      question: "Do Barbets shed, and how is their coat groomed?",
+      question: "What health tests should Barbet breeders perform?",
       answer:
-        "Barbets are low-shedding dogs because dead hairs catch in their dense curls rather than falling out. They require thorough line-combing two to three times a week down to the skin to prevent mats, along with an occasional uniform trim every couple of months; they should not be blown straight or shaved."
-    },
-    {
-      question: "Are Barbets good family pets and good with children?",
-      answer:
-        "Yes. They are famously gentle, patient, and affectionate with children, making wonderful family pets; they also get along very well with other dogs and domestic animals."
-    },
-    {
-      question: "Can a Barbet live in an apartment?",
-      answer:
-        "Yes. They adapt well to apartment living provided they receive daily physical exercise, walks, and human companionship, as they are calm and clean indoors."
-    },
-    {
-      question: "Are Barbets easy to train?",
-      answer:
-        "They are highly intelligent, eager to please, and food-motivated, responding enthusiastically to positive reinforcement, praise, and gentle guidance in obedience, agility, and retrieving."
-    },
-    {
-      question: "Do Barbets love water?",
-      answer:
-        "Yes. Swimming and retrieving from water are deep ancestral instincts for the breed; their webbed feet and waterproof double coat make them exceptional swimmers."
-    },
-    {
-      question: "What health tests are recommended for the Barbet?",
-      answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, DNA testing for progressive retinal atrophy (prcd-PRA), and annual specialist eye examinations."
+        "Responsible breeders screen breeding dogs with radiographic hip and elbow evaluations, a DNA test for progressive rod-cone degeneration (prcd-PRA), and periodic eye exams by a veterinary ophthalmologist starting at 12 months of age, while also paying close attention to low inbreeding levels."
     }
   ],
 
@@ -411,17 +375,21 @@ export const barbet: Breed = {
     "the-kennel-club-barbet-breed-standard",
     "ukc-barbet-breed-standard",
     "ofa-barbet-chic-requirements",
+    "bca-barbet-health-statement",
+    "bca-barbet-chic-requirements",
+    "leroy-2006-french-breeds-genetic-variability",
+    "the-dog-api",
     "wikimedia-barbet-1-pleple2000",
     "wikimedia-barbet-688-tomasz-sienicki"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Left null because official breed standards do not publish a formal taxonomic scientific name."
     },
 
     alternateNames: {
@@ -435,21 +403,18 @@ export const barbet: Breed = {
         {
           id: "fci-barbet-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: BARBET (105), Französischer Wasserhund, Perro de agua francés"
+          locator:
+            "Multilingual names: BARBET (FR), FRENCH WATER DOG (EN), FRANZÖSISCHER WASSERHUND (DE), PERRO DE AGUA FRANCÉS (ES)"
         },
         {
-          id: "scc-barbet-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Dénomination officielle: Barbet (Chien d'eau français)"
-        },
-        {
-          id: "akc-barbet-breed-profile",
-          role: "verified",
-          locator: "History: French Water Dog"
+          locator: "alternateNames: French Water Dog"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 105, FCI Nomenclature, SCC, and AKC."
+      verifiedOn: "2026-11-19",
+      note:
+        "Verified against FCI Standard No. 105, FCI Nomenclature, and The Dog API."
     },
 
     group: {
@@ -458,22 +423,23 @@ export const barbet: Breed = {
         {
           id: "fci-barbet-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 3 Water Dogs, with working trial"
+          locator:
+            "FCI Classification: Group 8 Retrievers, Flushing Dogs, Water Dogs; Section 3 Water Dogs (with working trial)"
         },
         {
           id: "fci-barbet-nomenclature",
           role: "verified",
-          locator: "Group 8, Section 3 Water Dogs, with working trial"
+          locator: "Group 8, Section 3 Water Dogs, subject to working trial"
         },
         {
-          id: "akc-barbet-breed-standard",
+          id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "Sporting Group"
+          locator: "Sporting Group (recognized 2020)"
         },
         {
           id: "the-kennel-club-barbet-breed-standard",
           role: "verified",
-          locator: "Gundog Group"
+          locator: "Gundog Group (Imported Breed Register)"
         },
         {
           id: "ukc-barbet-breed-standard",
@@ -481,9 +447,9 @@ export const barbet: Breed = {
           locator: "Gun Dog Group"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group label avoids registry acronyms and group numbers per Rule 5."
     },
 
     origin: {
@@ -502,10 +468,15 @@ export const barbet: Breed = {
         {
           id: "scc-barbet-breed-standard",
           role: "verified",
-          locator: "Origine: France"
+          locator: "Historique et origine française"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "origin.country: France"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note: null
     },
 
@@ -515,27 +486,29 @@ export const barbet: Breed = {
         {
           id: "fci-barbet-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator:
+            "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE"
         },
         {
           id: "scc-barbet-breed-standard",
           role: "verified",
-          locator: "Historique, aptitudes, morphologie et caractère"
-        },
-        {
-          id: "club-du-barbet-profile",
-          role: "verified",
-          locator: "Histoire du Barbet, Henri IV, Buffon et sélection moderne"
+          locator:
+            "Description générale, historique (Agrippa d'Aubigné / Henri IV, Grande Armée, reconstruction après-guerre)"
         },
         {
           id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed, History, Exercise, Training"
+        },
+        {
+          id: "the-kennel-club-barbet-breed-standard",
+          role: "verified",
+          locator: "About this breed (origins, resurgence, search and rescue)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note:
-        "Synthesized in original prose from FCI Standard No. 105, SCC, French parent club, and AKC official records."
+        "Rewritten in original prose combining FCI Standard No. 105, SCC, AKC, and Royal Kennel Club records."
     },
 
     physical: {
@@ -544,22 +517,29 @@ export const barbet: Breed = {
         {
           id: "fci-barbet-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator:
+            "GENERAL APPEARANCE, HEAD, BODY, TAIL, LIMBS, SKIN, COAT, COLOUR, SIZE"
         },
         {
           id: "scc-barbet-breed-standard",
           role: "verified",
-          locator: "Tête, barbe, corps, pattes palmées, toison bouclée et couleurs"
+          locator:
+            "Description générale: crâne rond et large, museau légèrement plus court, poil long laineux frisé, couleurs unicolores et panaché"
         },
         {
           id: "akc-barbet-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Head, Beard, Body, Coat, Color"
+          locator: "General Appearance, Head, Coat, Color, Feet"
+        },
+        {
+          id: "club-du-barbet-profile",
+          role: "verified",
+          locator: "Caractéristiques du Barbet"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note:
-        "Conformation, rectangular build, curly woolly coat, chin beard, webbed feet, and distinctive features follow official standards."
+        "Corrected skull description from 'flat' to 'rounded' per SCC/FCI ('crâne est rond et large') and added 'Sand' to coatColors per FCI Standard No. 105 ('sable')."
     },
 
     "physical.height": {
@@ -568,46 +548,125 @@ export const barbet: Breed = {
         {
           id: "fci-barbet-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: Males: 58 cm to 65 cm. Females: 53 cm to 61 cm. Tolerance: +/- 1 cm."
+          locator:
+            "SIZE: Height at withers: Males 58 cm to 65 cm; Females 53 cm to 61 cm; tolerance +/- 1 cm"
         },
         {
           id: "scc-barbet-breed-standard",
           role: "verified",
-          locator: "Taille: Mâles: 58 à 65 cm; Femelles: 53 à 61 cm (tolérance +/- 1 cm)"
+          locator: "Taille: 53 à 65 cm selon sexe"
         },
         {
-          id: "akc-barbet-breed-standard",
-          role: "verified",
-          locator: "Height: Males: 21 to 25 inches (58 to 65 cm); Females: 19 to 24 inches (53 to 61 cm)"
+          id: "akc-barbet-breed-profile",
+          role: "conflicting",
+          locator: "Height: 19–24.5 inches (overall range in inches)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator:
+            "height (cm): male 53–65, female 51–61 (lower minimums than FCI Standard No. 105)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note:
-        "Preserved in published unit of centimetres (58–65 cm for males, 53–61 cm for females) exactly as specified in the official FCI Standard No. 105 and SCC standard."
+        "FCI Standard No. 105 metric heights (58–65 cm males, 53–61 cm females, +/- 1 cm) take precedence over The Dog API (53–65 cm / 51–61 cm)."
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-barbet-official-standard",
+          role: "verified",
+          locator: "SIZE: Males 58 cm to 65 cm (+/- 1 cm)"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "height.male.max: 65 cm"
+        }
+      ],
+      verifiedOn: "2026-11-19",
+      note: null
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-barbet-official-standard",
+          role: "verified",
+          locator: "SIZE: Females 53 cm to 61 cm (+/- 1 cm)"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "height.female.max: 61 cm"
+        }
+      ],
+      verifiedOn: "2026-11-19",
+      note: null
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "scc-barbet-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Poids: Mâles: 20 à 28 kg; Femelles: 17 à 24 kg"
-        },
-        {
-          id: "club-du-barbet-profile",
-          role: "verified",
-          locator: "Poids moyen d'un Barbet adulte: 20-28 kg chez le mâle, 17-24 kg chez la femelle"
+          locator: "weight (kg): male 17–28, female 17–28"
         },
         {
           id: "akc-barbet-breed-profile",
-          role: "verified",
-          locator: "Weight: 35-65 pounds (approx. 17-28 kg)"
+          role: "cited",
+          locator: "Weight: 35–65 pounds (published in pounds)"
+        },
+        {
+          id: "scc-barbet-breed-standard",
+          role: "cited",
+          locator: "Poids: NP (not specified in FCI Standard No. 105 or SCC)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note:
-        "FCI Standard No. 105 specifies height ranges without publishing numerical weight limits. The stored 20 to 28 kg for males and 17 to 24 kg for females represent canonical figures published by SCC and the French parent club, preserved in kilograms."
+        "FCI Standard No. 105 does not publish numerical weight limits and SCC lists Poids: NP. Stored 17–28 kg from The Dog API (consistent with AKC's 35–65 lb range) rather than unverified sex-split figures."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "weight.male.max: 28 kg"
+        },
+        {
+          id: "akc-barbet-breed-profile",
+          role: "cited",
+          locator: "Weight upper range: 65 pounds"
+        }
+      ],
+      verifiedOn: "2026-11-19",
+      note: null
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "weight.female.max: 28 kg"
+        },
+        {
+          id: "akc-barbet-breed-profile",
+          role: "cited",
+          locator: "Weight range: 35–65 pounds"
+        }
+      ],
+      verifiedOn: "2026-11-19",
+      note: null
     },
 
     "physical.lifespanYears": {
@@ -616,16 +675,21 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-14 years"
+          locator: "Life Expectancy: 12–14 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "lifespanYears: 12–14"
         },
         {
           id: "the-kennel-club-barbet-breed-standard",
-          role: "verified",
-          locator: "Longevity and health actuarial profile (12-14 years)"
+          role: "cited",
+          locator: "Lifespan: Over 10 years"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and breed club actuarial profiles."
+      verifiedOn: "2026-11-19",
+      note: null
     },
 
     "physical.sheddingLevel": {
@@ -634,15 +698,15 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (1/5 to 2/5)"
+          locator: "Breed Traits: Shedding Level; Did You Know (non-shedding)"
         },
         {
-          id: "fci-barbet-official-standard",
+          id: "the-kennel-club-barbet-breed-standard",
           role: "verified",
-          locator: "COAT: Long, woolly, curly coat forming cords; low shedding"
+          locator: "Breed characteristics: Sheds: No"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note: null
     },
 
@@ -652,38 +716,34 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (2/5)"
-        },
-        {
-          id: "fci-barbet-official-standard",
-          role: "verified",
-          locator: "Lips: Thick, well pigmented, completely covered by hair"
+          locator: "Breed Traits: Drooling Level (low)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Tight lips result in low to moderate drooling, though beards retain drinking moisture."
+      verifiedOn: "2026-11-19",
+      note: null
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-barbet-official-standard",
+          id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Even-tempered, very attached to master, very social, loves water"
+          locator: "friendly / bright / sweet-natured; calm, social, loyal"
         },
         {
           id: "scc-barbet-breed-standard",
           role: "verified",
-          locator: "Caractère: Équilibré, fidèle, affectueux, grand amateur d'eau"
+          locator: "Comportement: affectueux, fidèle, sociable, joyeux"
         },
         {
-          id: "akc-barbet-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Temperament: Friendly, joyful, obedient, intelligent, passionate water retriever"
+          locator:
+            "temperament.traits: Friendly, intelligent, loyal, playful, athletic, devoted"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note: null
     },
 
@@ -693,17 +753,16 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics"
         },
         {
-          id: "the-kennel-club-barbet-breed-standard",
+          id: "scc-barbet-breed-standard",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Comportement et vie en ville"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented gundog temperament, high sociability, and water passion."
+      note: "Editorial 1–5 ratings synthesized from kennel club descriptions."
     },
 
     care: {
@@ -712,17 +771,22 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming, Exercise, Training, Nutrition"
         },
         {
-          id: "club-du-barbet-profile",
+          id: "the-kennel-club-barbet-breed-standard",
           role: "cited",
-          locator: "Entretien de la toison, séchage naturel et santé"
+          locator: "Breed characteristics: Grooming, Exercise, Home/Garden"
+        },
+        {
+          id: "scc-barbet-breed-standard",
+          role: "cited",
+          locator: "Comportement et Vivre en ville"
         }
       ],
       verifiedOn: null,
       note:
-        "Combines active water retriever care with natural curly fleece grooming and ear drying protocols."
+        "Updated grooming guidance to reflect AKC's note that blow-drying before scissoring and re-wetting to air-dry restores curls, replacing the draft's unverified 'never blow dry' rule."
     },
 
     "care.exercise.level": {
@@ -731,15 +795,15 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
+          locator: "Exercise: agile athlete, swimming, walks, play"
         },
         {
           id: "fci-barbet-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Water dog for searching and flushing game"
+          locator: "UTILIZATION: water dog for hunting wildfowl in all weather"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note: null
     },
 
@@ -749,29 +813,30 @@ export const barbet: Breed = {
         {
           id: "the-kennel-club-barbet-breed-standard",
           role: "cited",
-          locator: "Exercise: Up to 1 hour or more per day"
+          locator: "Exercise: Up to 1 hour per day"
         },
         {
           id: "akc-barbet-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
+          locator: "Exercise: daily walks, swimming, active play"
         }
       ],
       verifiedOn: null,
       note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an active sporting water dog."
+        "Editorial estimate of 60–90 minutes/day reflecting an active water retriever."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-barbet-breed-profile",
+          id: "scc-barbet-breed-standard",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (3/5 to 4/5) with adequate outdoor exercise"
+          locator:
+            "Vivre en ville: adaptable to city/apartment life if given substantial daily off-leash walks and parks"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note: null
     },
 
@@ -781,15 +846,15 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
+          locator: "Exercise: playtime in a fenced backyard"
         },
         {
-          id: "club-du-barbet-profile",
+          id: "the-kennel-club-barbet-breed-standard",
           role: "verified",
-          locator: "Cadre de vie et espace extérieur"
+          locator: "Size of garden: Small/medium garden; Town or country: Country"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note: null
     },
 
@@ -799,15 +864,11 @@ export const barbet: Breed = {
         {
           id: "fci-barbet-official-standard",
           role: "verified",
-          locator: "COAT: Water-repellent woolly fleece adapted to cold water and wetlands"
-        },
-        {
-          id: "akc-barbet-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: thrives in temperate and wet conditions"
+          locator:
+            "GENERAL APPEARANCE & UTILIZATION: thick woolly coat protecting against cold and damp; very resistant to cold"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note: null
     },
 
@@ -817,10 +878,15 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "Tolerates Being Alone: Low to moderate; people-oriented gundog"
+          locator: "Exercise: prefers not to spend too many hours alone"
+        },
+        {
+          id: "scc-barbet-breed-standard",
+          role: "verified",
+          locator: "Comportement: ne supportera pas longtemps d'être laissé seul"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note: null
     },
 
@@ -830,12 +896,12 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
+          locator:
+            "Nutrition: high-quality age-appropriate food, typically not voracious eaters, oil supplementation in dry months"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium sporting breeds."
+      note: null
     },
 
     "nutrition.feedingFrequency": {
@@ -844,122 +910,133 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance"
+          locator: "Age-appropriate diet guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard canine life-stage meal schedule."
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-barbet-chic-requirements",
+          id: "bca-barbet-health-statement",
           role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, Elbow Dysplasia, Eye Examination, prcd-PRA DNA test"
+          locator:
+            "BCA Health Statement: hip dysplasia, eye conditions, elbow dysplasia, ~40% prcd-PRA carrier rate (summer 2017), epilepsy, immune system problems"
         },
         {
-          id: "club-du-barbet-profile",
+          id: "leroy-2006-french-breeds-genetic-variability",
           role: "verified",
-          locator: "Santé, dépistage de la dysplasie de la hanche et tares oculaires"
+          locator:
+            "Pedigree analysis of 9 French breeds (1997–2001 cohort): Barbet effective number of ancestors = 6.7, average inbreeding coefficient = 12.4%"
+        },
+        {
+          id: "the-kennel-club-barbet-breed-standard",
+          role: "verified",
+          locator:
+            "Pre-breeding health screening: prioritising genetic diversity, prcd-PRA, hips, elbows, eyes"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-19",
       note:
-        "Synthesizes national health registry screening requirements with French parent club veterinary data."
+        "Distinguishes peer-reviewed genetic diversity data and established screened conditions from reported concerns per Rule 8."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-barbet-chic-requirements",
+          id: "bca-barbet-health-statement",
           role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, progressive retinal atrophy, cataracts"
+          locator:
+            "Known conditions (hip dysplasia, eye conditions, prcd-PRA, elbow dysplasia) and reported issues (epilepsy, immune problems, tick-related illnesses)"
         },
         {
-          id: "club-du-barbet-profile",
+          id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "Otites récurrentes dues aux oreilles tombantes et poils dans les conduits, épilepsie"
+          locator:
+            "Health & Grooming: hip/elbow dysplasia, PRA, seizure disorders, allergies, ear wax/debris infections"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-19",
+      note: null
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "club-du-barbet-profile",
+          id: "bca-barbet-health-statement",
           role: "cited",
-          locator: "Soins des oreilles après baignade, démêlage de la toison et dépistage pré-reproduction"
+          locator: "Pre-breeding testing and tick-related illness awareness"
         },
         {
           id: "akc-barbet-breed-profile",
           role: "cited",
-          locator: "Routine care, health testing, and ear drying"
+          locator: "Grooming and routine ear/coat checks"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to curly drop-eared water retrievers."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-barbet-chic-requirements",
+          id: "bca-barbet-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, Elbow Dysplasia evaluation, CAER Eye examination, prcd-PRA DNA test"
+          locator:
+            "CHIC required tests: OFA/PennHIP hips, OFA elbows, prcd-PRA DNA test, ACVO CAER eye exam (min age 12 months); optional cardiac, thyroid, knee, D-locus"
         },
         {
-          id: "club-du-barbet-profile",
+          id: "ofa-barbet-chic-requirements",
           role: "verified",
-          locator: "Dépistage obligatoire des reproducteurs: hanches et tares oculaires"
+          locator: "OFA CHIC Barbet program requirements"
+        },
+        {
+          id: "the-kennel-club-barbet-breed-standard",
+          role: "verified",
+          locator:
+            "Good/Best Practice schemes: genetic diversity, prcd-PRA DNA, BVA/RKC hip & elbow, BVA/RKC/ISDS eye"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-19",
+      note: null
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-barbet-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete scissor bite with strong teeth"
-        },
-        {
           id: "akc-barbet-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Grooming: Teeth should be brushed regularly"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-barbet-official-standard",
+          id: "akc-barbet-breed-profile",
           role: "cited",
-          locator: "Ears: set on low, long, flat, covered by long curly hair"
+          locator:
+            "Grooming: Ears should be checked regularly to avoid wax/debris buildup and infection"
         },
         {
-          id: "club-du-barbet-profile",
+          id: "fci-barbet-official-standard",
           role: "cited",
-          locator: "Nettoyage et séchage des oreilles après le travail à l'eau"
+          locator: "Low-set, long, flat, heavily haired ears"
         }
       ],
       verifiedOn: null,
-      note: "Ear maintenance protocol for heavy, hairy drop ears prone to moisture retention."
+      note: null
     },
 
     "health.skinCare": {
@@ -968,16 +1045,16 @@ export const barbet: Breed = {
         {
           id: "fci-barbet-official-standard",
           role: "cited",
-          locator: "Skin: relatively thick, no dewlap; woolly curly coat care"
+          locator: "SKIN: Relatively thick; dense woolly curly coat"
         },
         {
-          id: "club-du-barbet-profile",
+          id: "akc-barbet-breed-profile",
           role: "cited",
-          locator: "Entretien de la toison bouclée et prévention des feutrages"
+          locator: "Grooming: brush-out and comb through to the skin"
         }
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for breeds with dense curly double coats."
+      note: null
     },
 
     suitability: {
@@ -986,17 +1063,17 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Family life, exercise, grooming, and alone-time traits"
         },
         {
           id: "the-kennel-club-barbet-breed-standard",
           role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
+          locator: "Breed characteristics"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and coat care commitments."
+        "Editorial suitability summary based on documented activity, companionship, and grooming demands."
     },
 
     funFacts: {
@@ -1005,21 +1082,22 @@ export const barbet: Breed = {
         {
           id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "Etymology (barbe meaning beard), King Henry IV historical lore, common ancestor to Poodle and water dogs"
+          locator:
+            "Did You Know: 'être crotté comme un Barbet', beard etymology, webbed paws, ancestry of Poodle/Bichon/water breeds"
         },
         {
-          id: "club-du-barbet-profile",
+          id: "scc-barbet-breed-standard",
           role: "verified",
-          locator: "Proverbe 'crotté comme un barbet', pattes palmées, toison rustique naturelle"
+          locator: "Historique: Agrippa d'Aubigné / Henri IV court record"
         },
         {
           id: "fci-barbet-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Ancient French waterfowl dog"
+          locator: "GENERAL APPEARANCE: beard (French barbe) etymology"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-19",
+      note: null
     },
 
     faq: {
@@ -1028,29 +1106,28 @@ export const barbet: Breed = {
         {
           id: "fci-barbet-official-standard",
           role: "verified",
-          locator: "Origin, size (58-65 cm / 53-61 cm), curly coat, and colors"
-        },
-        {
-          id: "scc-barbet-breed-standard",
-          role: "verified",
-          locator: "Poids (20-28 kg / 17-24 kg), longévité (12-14 ans), pattes palmées et tempérament"
+          locator: "Coat, conformation, and working purpose"
         },
         {
           id: "akc-barbet-breed-profile",
           role: "verified",
-          locator: "Comparison with Poodle, grooming, family suitability, and water work"
+          locator: "Grooming, shedding, exercise, and temperament"
         },
         {
-          id: "ofa-barbet-chic-requirements",
+          id: "scc-barbet-breed-standard",
           role: "verified",
-          locator: "Recommended health screening panel"
+          locator: "Vivre en ville et comportement"
+        },
+        {
+          id: "bca-barbet-chic-requirements",
+          role: "verified",
+          locator: "Pre-breeding health screening panel"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and parent club data without naming registries in prose."
+      verifiedOn: "2026-11-19",
+      note: null
     }
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-19"
 };

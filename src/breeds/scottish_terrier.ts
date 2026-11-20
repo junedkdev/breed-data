@@ -3,7 +3,7 @@ import type { Breed } from "../schema/breed.types";
 export const scottish_terrier: Breed = {
   slug: "scottish-terrier",
   name: "Scottish Terrier",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Scottie",
@@ -14,13 +14,11 @@ export const scottish_terrier: Breed = {
     "Schottischer Terrier"
   ],
 
-  group:
-    "Terriers; Section 2 — Small-sized Terriers (without working trial; also classified in the Terrier group)",
+  group: "Small-sized Terriers",
 
   origin: {
     country: "Great Britain",
-    region:
-      "Highlands of Scotland (specifically Aberdeen, Perthshire, and the Blackmount region)"
+    region: "Highlands of Scotland (notably Aberdeen and surrounding areas)"
   },
 
   images: [
@@ -32,16 +30,16 @@ export const scottish_terrier: Breed = {
       description:
         "A black Scottish Terrier standing in profile on grass.",
       creator: "Matthew MacKenzie",
-      uploader: "Ogmios",
-      capturedOn: "2003-02-13",
-      uploadedOn: "2003-02-13",
+      uploader: "Svencb",
+      capturedOn: "2003-02-09",
+      uploadedOn: "2006-12-27",
       width: 400,
       height: 327,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Matthew MacKenzie (uploaded by Ogmios), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:ScottishTerrier.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Matthew MacKenzie (Ogmios at the English Wikipedia), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:ScottishTerrier.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-20"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Scottish_terrier_.jpg",
@@ -49,7 +47,7 @@ export const scottish_terrier: Breed = {
         "https://commons.wikimedia.org/wiki/File:Scottish_terrier_.jpg",
       title: "Scottish terrier .jpg",
       description:
-        "A Scottish Terrier sitting outdoors displaying full beard and furnishings.",
+        "A Scottish Terrier sitting outdoors showing its wiry beard and leg furnishings.",
       creator: "Cheryl Brind",
       uploader: "Ltshears",
       capturedOn: "2012-05-24",
@@ -60,28 +58,28 @@ export const scottish_terrier: Breed = {
       attribution:
         "Photo by Cheryl Brind (Flickr / uploaded by Ltshears), Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Scottish_terrier_.jpg. License: https://creativecommons.org/licenses/by/2.0/.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-20"
     }
   ],
 
   overview: {
     summary:
-      "A sturdy, short-legged, and dignified Scottish earthdog recognized for its distinctive bearded silhouette, wiry double coat, pointed erect ears, steadfast loyalty, and bold, lion-hearted determination.",
+      "A short-legged, heavy-boned Scottish earthdog recognized for its long bearded head, pointed erect ears, weather-resistant wiry coat, and dignified, independent spirit.",
 
     description:
-      "The Scottish Terrier is a compact, thick-set, and powerful small working terrier that possesses immense substance and heavy bone in a low-slung frame. Renowned for its distinctive, blocky profile, the dog carries an elongated, cleanly chiseled head adorned with prominent bushy eyebrows and an abundant beard. Its weather-resistant double coat consists of an intensely harsh, wiry outer coat over a dense, soft undercoat, creating traditional leg furnishings and a protective undercarriage skirt. Small, sharply pointed prick ears and almond-shaped dark eyes convey a keen, serious, and deeply observant expression. Aloof and discerning with strangers, it forms deep, steadfast bonds with its immediate household, blending the courage and tenacious grit of an ancient vermin hunter with the poised, aristocratic demeanor of a noble domestic companion.",
+      "The Scottish Terrier packs remarkable bone, muscle, and determination into a compact, low-slung frame. Its unmistakable outline combines a long, cleanly shaped head, bushy eyebrows, and a full chin beard with small, sharply pointed erect ears and an upright, tapering tail. Underneath the close-lying, harsh wiry outer coat sits a short, dense, soft undercoat that shields the dog from rough ground and wet weather. Deep, dark almond-shaped eyes convey steady alertness and poise. Reserved with strangers yet steadfastly devoted to its own household, this small terrier brings together the businesslike grit of a traditional underground hunter and the composed, self-reliant charm of a household companion.",
 
     history:
-      "The roots of the breed trace deep into the rocky Highlands of western Scotland, where hardy earthdogs were cultivated for centuries to flush badgers, foxes, and otters from rugged granite burrows and peat cairns. Known in early records as the Aberdeen Terrier or Scotch Terrier, the dogs were grouped loosely alongside other ancestral Highland terriers. The fourth Earl of Dumbarton maintained a celebrated pack whose relentless courage on quarry earned them the enduring military nickname 'the Diehards'. In the late nineteenth century, dedicated Scottish breeders codified the modern purebred standard, exhibiting them in early Scottish dog shows and establishing an independent registry in 1879. The breed captured worldwide admiration throughout the twentieth century, famously living in the American presidential residence as the companion of Franklin D. Roosevelt and serving as an enduring international icon in commerce, fine arts, and literature.",
+      "Bred in the rugged Highlands of Scotland to pursue foxes, badgers, and other vermin into burrows and rocky dens, the Scottish Terrier shares early roots with several native Scottish earthdogs. Early dogs proliferated around Aberdeen and were widely called Aberdeen Terriers before Captain Gordon Murray helped formalize the modern type and name in 1879, followed by the formation of the first breed club in 1882. Known affectionately as 'the Diehard' for its stubborn tenacity, the breed surged in popularity through the 1930s and 1940s and became a familiar cultural icon in art, advertising, board games, and even the American White House. Although annual registrations in Britain have fallen steeply since its mid-twentieth-century peak, dedicated breeders continue to preserve this distinctive heritage terrier.",
 
     originalPurpose:
-      "Dispatching and bolting badgers, foxes, otters, and vermin in rocky subterranean dens and rough cairns across the Scottish Highlands.",
+      "Going to ground in rocky dens and rough Highland terrain to locate, bolt, and dispatch foxes, badgers, and vermin.",
 
     currentRoles: [
-      "Devoted household companion and loyal family pet",
-      "Vigilant home and property watchdog",
-      "Earthdog and subterranean tracking trial competitor",
-      "Canine athlete in barn hunt, agility, and scent trials"
+      "Loyal household companion",
+      "Alert home watchdog",
+      "Earthdog, barn hunt, and scent-work competitor",
+      "Conformation and companion-sport participant"
     ]
   },
 
@@ -89,26 +87,26 @@ export const scottish_terrier: Breed = {
     sizeCategory: "Small",
 
     height: {
-      unit: "in",
+      unit: "cm",
       male: {
-        min: 10,
-        max: 10
+        min: 25,
+        max: 28
       },
       female: {
-        min: 10,
-        max: 10
+        min: 25,
+        max: 28
       }
     },
 
     weight: {
-      unit: "lb",
+      unit: "kg",
       male: {
-        min: 19,
-        max: 22
+        min: 8.5,
+        max: 10.5
       },
       female: {
-        min: 18,
-        max: 21
+        min: 8.5,
+        max: 10.5
       }
     },
 
@@ -118,50 +116,46 @@ export const scottish_terrier: Breed = {
     },
 
     coatType:
-      "Harsh, wiry, and weather-resistant double coat consisting of an intensely hard, wiry outer layer and a short, dense, and soft undercoat; styled with pronounced facial furnishings, a distinct beard, bushy eyebrows, and full leg and skirt furnishings.",
+      "Close-lying, weather-resistant double coat made up of a short, dense, soft undercoat and a harsh, dense, wiry outer coat, with longer furnishings on the beard, eyebrows, legs, and lower body.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Solid black (with or without faint grey or silver hairs intermixed)",
-      "Brindle (shades of brindle from dark brindle to red or silver brindle)",
-      "Wheaten (shades from straw to pale cream or rich golden wheaten)"
+      "Black",
+      "Wheaten",
+      "Brindle (including black brindle, red brindle, silver brindle, and other shades)"
     ],
 
     sheddingLevel:
-      "Low to moderate year-round shedding; dead wiry hair remains trapped within the coat until lifted by regular weekly brushing or periodic hand-stripping",
+      "Low to moderate; dead wiry hairs stay caught in the coat until removed through regular brushing and hand-stripping or trimming",
 
     droolingLevel:
-      "Low; tight, cleanly cut lips minimize drooling, though wet beards require wiping after drinking",
+      "Low; clean, tight lips keep drool minimal, though the beard can hold water after drinking",
 
     distinctiveFeatures: [
-      "Thick-set, heavy-boned, and low-to-the-ground compact terrier silhouette",
-      "Height at the withers of about 10 inches for both males and females",
-      "Weight of 19 to 22 pounds for males and 18 to 21 pounds for females in hard working condition",
-      "Long, cleanly chiseled head with a flat skull, slight stop, and parallel facial planes",
-      "Large black nose and clean, powerful jaws meeting in an even or scissor bite with sound teeth",
-      "Small, almond-shaped, wide-set dark brown eyes with black rims and a piercing, intelligent expression",
-      "Small, erect, sharply pointed prick ears set high on the skull and covered in short velvety hair",
-      "Muscular, moderately short neck blending cleanly into well-laid-back shoulders",
-      "Broad, deep, and heavily ribbed chest hanging low between short, heavy-boned front legs",
-      "Medium-length carrot-shaped tail set high, carried upright or with a slight curve without bending over the back",
-      "Large, thickly padded round forefeet designed for digging, paired with smaller hind feet",
-      "Intensely harsh wiry double coat with long beard, prominent eyebrows, and low furnishings"
+      "Thick-set, short-legged, heavy-boned frame suggesting substantial power in a compact body",
+      "Height at the withers of 25 to 28 cm and adult weight of 8.5 to 10.5 kg",
+      "Long head in proportion to body size with a nearly flat skull, equal-length foreface, and slight but distinct stop",
+      "Large black nose whose profile slopes gently backward toward the chin",
+      "Large teeth meeting in a regular scissor bite",
+      "Almond-shaped, dark brown eyes set fairly wide apart beneath prominent eyebrows",
+      "Neat, fine-textured, sharply pointed erect ears placed high on the skull",
+      "Short, muscular back with a straight, level topline and deep, well-rounded ribs",
+      "Moderately long tail that is thick at the base, tapers toward the tip, and is carried upright or with a gentle curve",
+      "Well-padded, close-knit feet with forefeet slightly larger than hindfeet",
+      "Harsh, dense, wiry double coat with distinctive beard, eyebrows, and lower-body furnishings"
     ]
   },
 
   temperament: {
     traits: [
-      "Dignified, proud, and self-assured",
-      "Deeply loyal, affectionate, and shadow-like with chosen family members",
-      "Independent and determined problem-solver",
-      "Reserved, aloof, and discerning with unfamiliar strangers",
-      "Fearless and plucky with a lion-hearted character",
-      "Alert, watchful, and territorial watchdog",
-      "Gentle and dependable with older, respectful children",
-      "High prey drive toward rodents, rabbits, and small outdoor animals",
-      "Can be assertive or reactive toward unfamiliar dogs of the same sex",
-      "Sensitive to handler emotional energy and intolerant of harsh handling"
+      "Independent, self-assured, and dignified",
+      "Loyal and deeply attached to its household",
+      "Bold, courageous, and spirited without unprovoked aggression",
+      "Reserved and observant around unfamiliar people",
+      "Intelligent and observant problem-solver with a stubborn streak",
+      "Strong hunting instinct toward rodents, small wildlife, and unfamiliar cats",
+      "Can be assertive or prickly with unfamiliar dogs"
     ],
 
     scores: {
@@ -180,7 +174,7 @@ export const scottish_terrier: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate; requires daily walking, olfactory sniffing exploration, and interactive play, but not suited to long-distance running or swimming due to heavy bone and short legs",
+        "Moderate; needs daily brisk walks and energetic bursts of play, though its heavy bone and short legs make it poorly suited to long-distance running or deep-water swimming",
 
       minutesPerDay: {
         min: 45,
@@ -188,12 +182,11 @@ export const scottish_terrier: Breed = {
       },
 
       activities: [
-        "Daily brisk leashed walks and neighborhood scent-investigation strolls",
-        "Interactive fetch and toy chasing in a securely fenced yard",
-        "Barn hunt, earthdog tunneling, and rat-tracking enrichment",
-        "Scent-work searching games, snuffle mats, and puzzle-box foraging",
-        "Gentle agility courses with low jumps suited to dwarf limbs",
-        "Supervised garden exploration and digging in designated sand pits"
+        "Daily brisk leashed walks with time to investigate scents",
+        "Short, upbeat games of fetch or tug in a securely fenced yard",
+        "Earthdog trials, barn hunt, and structured scent-searching games",
+        "Interactive puzzle toys and nose-work foraging indoors",
+        "Supervised digging in a designated garden patch"
       ]
     },
 
@@ -201,36 +194,35 @@ export const scottish_terrier: Breed = {
       level: "High",
 
       brushing:
-        "Brush and comb thoroughly two to three times weekly using a pin brush and metal greyhound comb to prevent mats in the beard, undercarriage skirt, and leg furnishings; hand-strip dead wiry guard hairs every three to four months to preserve harsh coat texture and deep coloration, or clip periodically for pet maintenance.",
+        "Brush and comb weekly—and more often in the beard, legs, and lower-body furnishings—to remove tangles and keep the skin healthy.",
 
       bathing:
-        "Bathe every four to eight weeks or when soiled, using a gentle, moisturizing canine shampoo suited to sensitive terrier skin.",
+        "Bathe periodically during routine grooming using a gentle moisturizing canine shampoo.",
 
       notes: [
-        "Hand-stripping preserves the hard, weather-resistant wire texture and rich colour, whereas machine clipping softens the coat and may lighten the pigment over time.",
-        "Wipe and comb the facial beard clean and dry after meals to prevent food crusting and bacterial staining.",
-        "Inspect the small prick ears weekly for wax, dust, or irritation.",
-        "Trim hard black nails every two to three weeks to maintain compact foot structure.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "Supervise around swimming pools and deep open water: due to a heavy chest, dense bone, and very short legs, the breed cannot swim efficiently and is at serious risk of drowning."
+        "Hand-stripping on a regular schedule (starting in puppyhood, often weekly or monthly once established) preserves the harsh, weather-resistant wire texture and rich coat pigment.",
+        "Machine clipping every six to eight weeks is a practical option for pet dogs, though clipping gradually softens the coat as the undercoat becomes dominant.",
+        "Clean and comb the beard regularly after meals to prevent food buildup and matting.",
+        "Check the small erect ears weekly for wax or debris and trim nails routinely.",
+        "Brush teeth multiple times a week with canine toothpaste.",
+        "Use strict supervision near pools and deep water because this breed's heavy front build and short legs make swimming difficult."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate to challenging; highly intelligent and quick-witted, but possesses an independent, proud mindset that will resist repetitive mechanical drills or forceful handling",
+        "Moderate to challenging; clever and quick to grasp concepts, yet independent enough to tune out repetitive drills",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
-        "Keep training sessions short, varied, and fast-paced (5 to 10 minutes) to maintain motivation.",
-        "Establish fair, calm, and consistent household boundaries from early puppyhood.",
-        "Always exercise within a securely fenced yard or on a sturdy leash, as small wildlife will trigger an immediate chase.",
-        "Never use harsh verbal reprimands or physical coercion, which cause this proud terrier to become obstinate and withdraw.",
-        "Teach polite leash manners early to prevent pulling and dog-directed reactivity on walks."
+        "Keep training sessions brief (under 15 minutes) and varied so this independent thinker does not get bored.",
+        "Use upbeat praise, food rewards, and creative games that make cooperation feel rewarding.",
+        "Speak calmly and firmly—Scotties pick up quickly on vocal tone and resist harsh or forceful handling.",
+        "Keep the dog on a leash or inside a secure fence outdoors, as its hunting drive can override recall around squirrels or small pets.",
+        "Practice calm, polite leash greetings early to manage dog-directed assertiveness."
       ],
 
       socialization:
-        "Introduce the puppy early, calmly, and positively to a wide range of friendly people, vaccinated dogs of all sizes, household noises, vehicles, and novel surfaces. Early structured socialization tempers natural aloofness and fosters a composed, self-confident adult companion."
+        "Introduce puppies early and steadily to varied people, calm dogs, household sounds, and grooming handling so their natural reserve stays balanced and confident rather than defensive."
     },
 
     livingEnvironment: {
@@ -239,85 +231,78 @@ export const scottish_terrier: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool and cold climates, where the dense double coat provides natural thermal protection",
-        "Warm climates, provided indoor air conditioning, shade, and fresh water are available and exercise occurs during cooler morning or evening hours"
+        "Cool and damp climates suited to its weather-resistant double coat",
+        "Warm climates when indoor cooling, shade, fresh water, and cooler-hour walks are provided"
       ],
 
       aloneTimeTolerance:
-        "Moderate when properly exercised and provided with engaging toys, though prolonged isolation without family contact can cause boredom digging or vocal barking."
+        "Moderate; its independent streak helps it settle for reasonable stretches when exercised, though long daily isolation can trigger boredom barking or digging."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for small active breeds, adjusted for age, metabolism, and physical output.",
+      "Complete, balanced dog food formulated for small active breeds and matched to life stage; many experienced owners favor a moderate-protein formula (around the mid-20 percent range) that supports healthy skin and coat growth.",
 
     feedingFrequency: {
-      puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
-      adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+      puppy: "Three to four small measured meals per day until six months of age",
+      adult: "Two measured meals per day",
+      senior: "Two portion-controlled meals per day adjusted for lower activity"
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt through the thick coat. Divide daily food into two distinct meals, restrict vigorous exercise immediately before and after eating, and provide cool, clean drinking water continuously.",
+      "Measure meals carefully and check body condition by feeling the ribs beneath the dense coat rather than judging by appearance alone. Keep fresh drinking water available at all times.",
 
     considerations: [
-      "Maintain a lean body condition; excess weight places severe mechanical strain on the spine and short limbs.",
-      "Account for training treats within the total daily caloric allowance to avoid creeping weight gain.",
-      "Incorporate fresh cruciferous and leafy vegetables under veterinary guidance, as research indicates dietary vegetable intake is associated with reduced risk of bladder transitional cell carcinoma in the breed.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water at all times.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep weight lean to protect the spine and short legs from unnecessary joint strain.",
+      "Count training treats within daily calories to prevent gradual weight gain.",
+      "Under veterinary guidance, adding dog-safe green leafy or yellow-orange vegetables several times a week may be worth discussing, as a peer-reviewed case-control study linked regular vegetable intake to lower bladder cancer risk in this breed.",
+      "Watch coat shine, even hair growth, and skin comfort as everyday signs that a diet suits the individual dog.",
+      "Transition gradually over five to seven days when changing formulas."
     ],
 
     note:
-      "Caloric needs vary significantly based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Calorie needs vary with age, neuter status, and daily exercise; consult a veterinarian before making major dietary changes or adding supplements."
   },
 
   health: {
     overview:
-      "The Scottish Terrier is a robust, long-lived earthdog with a typical life expectancy of 12 to 15 years. However, the breed exhibits notable genetic predispositions to specific hereditary and oncological conditions. Primary health concerns include bladder cancer (urothelial / transitional cell carcinoma, frequently associated with somatic BRAF mutations), Scottie Cramp (a hereditary hyperkinetic movement disorder linked to serotonin metabolism), craniomandibular osteopathy (CMO / 'Westie Jaw', linked to the SLC37A2 gene), von Willebrand's disease (vWD Type III), patellar luxation, and elevated alkaline phosphatase (ALP) liver enzyme activity.",
+      "Scottish Terriers are generally sturdy dogs with a typical lifespan of 12 to 15 years (with average estimates around 12 years). Several hereditary and medical conditions are well documented in scientific literature and breed health programs. Most notably, the breed has a markedly elevated risk of urinary bladder transitional cell carcinoma (urothelial carcinoma); peer-reviewed case-control studies have linked higher risk to lawn herbicide exposure and lower risk to regular vegetable intake. Recognized inherited disorders include von Willebrand's disease (Type III), craniomandibular osteopathy (CMO), patellar luxation, and Scottie Cramp (an exercise- or excitement-triggered movement disorder linked to serotonin regulation). Additional conditions monitored in some lines include elevated liver alkaline phosphatase (ALP) / vacuolar hepatopathy, autoimmune thyroiditis, kidney protein loss, eye disorders, Legg-Calvé-Perthes disease, and skin allergies.",
 
     commonConditions: [
-      "Bladder transitional cell carcinoma (TCC / urothelial carcinoma) — a malignant cancer of the urinary bladder and urethra occurring at substantially higher rates in this breed than in the general canine population, screenable through veterinary urinalysis, ultrasound, and non-invasive BRAF mutation urine testing",
-      "Scottie Cramp — an inherited, non-painful hyperkinetic movement disorder caused by a disturbance in serotonin neurotransmission, causing temporary stiffening, arching of the spine, and bunny-hopping gait during stress or heavy exertion",
-      "Craniomandibular osteopathy (CMO) — a painful, self-limiting proliferative bone disease affecting the jaw and skull bones of puppies between 4 and 8 months of age, screenable via DNA testing for the SLC37A2 mutation",
-      "Von Willebrand's disease (vWD Type III) — a severe inherited bleeding disorder caused by a deficiency in von Willebrand factor clotting protein, fully preventable through pre-breeding DNA testing",
-      "Patellar luxation — displacement of the kneecap from the femoral groove causing intermittent hind-limb lameness",
-      "Benign elevated alkaline phosphatase (ALP) and vacuolar hepatopathy — elevated liver enzymes commonly observed in clinically healthy adult Scotties, requiring veterinary monitoring",
-      "Allergic dermatitis and atopy — skin sensitivity to flea bites, pollen, or environmental allergens causing pruritus and secondary infections",
-      "Cataracts and progressive retinal atrophy (PRA) — ocular disorders monitored through regular ophthalmologist examinations"
+      "Bladder transitional cell carcinoma (urothelial carcinoma) — a well-established malignancy occurring at much higher rates in Scottish Terriers than in most breeds; peer-reviewed studies associate lawn herbicide exposure with increased risk and regular dietary vegetable intake with reduced risk, making adult veterinary urinary monitoring important.",
+      "Von Willebrand's disease (Type III) — a severe inherited clotting disorder caused by deficiency of von Willebrand factor; preventable in breeding programs through pre-breeding DNA testing.",
+      "Craniomandibular osteopathy (CMO) — a painful, typically self-limiting proliferative bone condition of the jaw and skull in young puppies (around 4 to 8 months of age) with an available pre-breeding DNA test.",
+      "Scottie Cramp — an inherited, non-painful hyperkinetic movement disorder linked to serotonin neurotransmission that causes temporary hind-limb stiffness, arched back, and a hopping gait during excitement or exercise, resolving with rest.",
+      "Patellar luxation — slipping of the kneecap out of its normal groove, causing intermittent hind-leg skipping or lameness; screened via veterinary orthopedic evaluation.",
+      "Elevated alkaline phosphatase (ALP) and vacuolar hepatopathy — persistently high liver enzyme levels recognized in adult Scottish Terriers that warrant veterinary monitoring and bile-acid or liver evaluation when indicated.",
+      "Additional monitored conditions (less uniform or line-dependent) — autoimmune thyroiditis, protein-losing kidney issues, Legg-Calvé-Perthes disease, cataracts or other eye conditions, and allergic skin irritation."
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified DNA clearances for von Willebrand's disease (vWD) and craniomandibular osteopathy (CMO), alongside clinical patellar evaluations and annual eye exams.",
-      "Implement routine veterinary screening for bladder cancer (including periodic urine checks, BRAF urine testing, and ultrasound) in adult Scotties aged six and older.",
-      "Minimize exposure to lawn herbicides, lawn chemicals, and pesticides, which epidemiological studies have linked to increased bladder cancer risk in the breed.",
-      "Maintain a lean body condition to avoid placing excess mechanical wear on hips, knees, and the spine.",
-      "Inspect ears and wipe beards clean and dry regularly to prevent yeast and bacterial build-up.",
-      "Brush teeth daily or multiple times weekly with canine toothpaste to protect against periodontal disease.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Ask breeders for documented pre-breeding DNA test results for von Willebrand's disease and craniomandibular osteopathy, plus veterinary patella evaluations.",
+      "Avoid exposing Scottish Terriers to herbicide-treated lawns and gardens whenever possible, as peer-reviewed case-control research linked herbicide exposure to substantially higher bladder cancer risk.",
+      "Discuss periodic urinary tract and bladder screening (such as urinalysis or veterinary ultrasound) for adults aged six years and older, and seek prompt care for straining, frequent urination, or blood in the urine.",
+      "Keep body weight lean to reduce stress on knees, hips, and the spine.",
+      "Maintain regular coat grooming, ear checks, nail trims, dental brushing, and annual veterinary wellness exams."
     ],
 
     recommendedScreenings: [
-      "DNA marker test for von Willebrand's Disease (vWD Type III) prior to breeding",
-      "DNA marker test for Craniomandibular Osteopathy (SLC37A2 gene mutation) prior to breeding",
-      "Clinical patellar luxation orthopedic evaluation and grading",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Periodic veterinary bladder health surveillance (urinalysis and ultrasound) in dogs aged 6 and older"
+      "DNA test for von Willebrand's disease (Type III) before breeding",
+      "DNA test for craniomandibular osteopathy (CMO) before breeding",
+      "Veterinary patellar luxation evaluation at 12 months of age or older",
+      "Elective breed-recommended screenings include autoimmune thyroiditis panel, board-certified veterinary ophthalmologist eye examination, serum bile acid test, urine protein:creatinine ratio kidney screen, and Legg-Calvé-Perthes hip radiographs",
+      "Periodic veterinary urinary and bladder health checks in middle-aged and senior adults"
     ],
 
     dentalCare:
-      "Brush teeth multiple times weekly using canine enzymatic toothpaste. The breed has powerful jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times per week using canine enzymatic toothpaste, and pair home brushing with regular veterinary dental checks to keep the large teeth and gums healthy.",
 
     earCare:
-      "Inspect the small erect prick ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check the small, upright prick ears weekly for wax, redness, or debris, and clean gently with a veterinarian-approved cleanser only when needed.",
 
     skinCare:
-      "Part the dense wiry double coat weekly during brushing to inspect the skin for external parasites, redness, or dry patches. The coat naturally sheds dirt and requires minimal bathing beyond regular grooming."
+      "Part the dense double coat weekly while brushing to inspect the skin for dryness, fleas, redness, or irritation, using gentle moisturizing shampoos and parasite prevention as recommended by a veterinarian."
   },
 
   suitability: {
@@ -328,96 +313,71 @@ export const scottish_terrier: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Experienced terrier owners who appreciate an independent, dignified, and self-reliant companion",
-      "Adult households or families with older, respectful children who understand canine boundaries",
-      "Apartment or house dwellers who provide daily leashed walks and structured play",
-      "Active seniors or retirees seeking an entertaining, devoted companion that is manageable in size",
-      "Terrier sports enthusiasts interested in barn hunt, earthdog trials, and scent tracking"
+      "Owners who appreciate a dignified, independent terrier with a strong personality",
+      "Adult households or families with older, respectful children who give dogs space",
+      "Apartment or small-home residents able to provide daily brisk walks and interactive play",
+      "Active retirees looking for a compact, loyal watchdog",
+      "Handlers interested in earthdog, barn hunt, or scent-work activities"
     ],
 
     notIdealFor: [
-      "First-time dog owners seeking an easy-going, unconditionally submissive pet that obeys instantly",
-      "Homes with energetic toddlers who may handle a dog roughly or crowd its space",
-      "Households with loose small animals or pet rodents vulnerable to terrier prey drive",
-      "Owners who expect an off-leash park dog that greets all unfamiliar dogs playfully",
-      "People seeking a dog that loves swimming in open lakes or pools"
+      "First-time owners wanting an automatically eager-to-please, low-maintenance pet",
+      "Homes with boisterous toddlers who may pull ears or crowd a reserved dog",
+      "Households with free-roaming small pets such as rodents or rabbits",
+      "Owners expecting an off-leash dog-park companion that loves every unfamiliar dog",
+      "People unwilling to commit to routine brushing, hand-stripping, or regular clipping"
     ]
   },
 
   funFacts: [
-    "The Scottish Terrier is the only breed of dog to have lived in the White House during three separate presidencies: Franklin D. Roosevelt's beloved Fala, Dwight D. Eisenhower's Telek, and George W. Bush's Barney and Miss Beazley.",
-    "During World War II, Franklin D. Roosevelt's Scottie, Fala, was so famous that he received thousands of fan letters and was immortalized in bronze alongside the president at the FDR Memorial in Washington, D.C.",
-    "The breed's unmistakable silhouette—short legs, upright tail, prick ears, and bearded muzzle—was chosen as one of the classic playing pieces in the original Monopoly board game in the 1930s.",
-    "The fourth Earl of Dumbarton named his favorite pack of Scottish Terriers 'the Diehards' because of their ferocious courage and refusal to surrender when confronting badgers in subterranean rock dens.",
-    "Together with the West Highland White Terrier, the black Scottie was chosen in the late nineteenth century as the iconic trademark for Black & White Scotch whisky, becoming a permanent pop-culture pairing.",
-    "Due to their heavy bone structure, deep chest, and very short limbs, Scotties are notoriously poor swimmers and sink rapidly in water, which is why owners must take special safety precautions around swimming pools."
+    "Scottish Terriers have lived in the White House under multiple U.S. presidents, including Franklin D. Roosevelt's famous companion Fala, Dwight D. Eisenhower's Caacie and Telek, and George W. Bush's Barney and Miss Beazley.",
+    "The breed's boxy silhouette with prick ears and upright tail became one of the original iconic metal game tokens in Monopoly.",
+    "Early enthusiasts nicknamed the breed 'the Diehard' in tribute to its stubborn courage and persistence.",
+    "The first dog show class for Scottish Terriers was held in 1860, and the breed's modern name was formalized in 1879 before the first breed club formed in 1882.",
+    "Their heavy-boned, deep-chested, short-legged frame makes them awkward swimmers, so careful supervision around pools and deep water is essential."
   ],
 
   faq: [
     {
-      question: "What is a Scottish Terrier?",
+      question: "How big is a Scottish Terrier?",
       answer:
-        "The Scottish Terrier is a small, heavy-boned, and dignified Scottish earthdog known for its low-slung build, harsh wiry double coat, pointed erect ears, prominent beard, and fearless, independent personality."
+        "Adult Scottish Terriers typically stand 25 to 28 cm tall at the withers and weigh 8.5 to 10.5 kg, combining a compact height with surprisingly solid bone and muscle."
     },
     {
-      question: "Where does the Scottish Terrier originate?",
+      question: "How long do Scottish Terriers usually live?",
       answer:
-        "The breed originates from the Highlands of Scotland, developed primarily in Aberdeen and Perthshire to hunt badgers, foxes, and otters in rocky subterranean burrows."
+        "Most Scottish Terriers live around 12 to 15 years, with average life expectancy often cited near 12 years when supported by healthy weight management and regular veterinary care."
     },
     {
-      question: "How tall and heavy is a Scottish Terrier?",
+      question: "Do Scottish Terriers shed a lot?",
       answer:
-        "Adult males and females stand about 10 inches tall at the withers, with males weighing 19 to 22 pounds and females weighing 18 to 21 pounds in fit working condition."
+        "They shed lightly to moderately compared with smooth-coated breeds because dead wiry hairs stay trapped in the coat. Weekly brushing and periodic hand-stripping or clipping every six to eight weeks keep the coat tidy and mat-free."
     },
     {
-      question: "How long does a Scottish Terrier live?",
+      question: "Are Scottish Terriers good for apartments?",
       answer:
-        "The breed enjoys good longevity, typically living a healthy lifespan of 12 to 15 years with proper nutrition, exercise, and preventive veterinary care."
+        "Yes. Their small footprint and moderate exercise requirements fit apartment or small-house living well, as long as they get daily brisk walks, mental games, and active bursts of play."
     },
     {
-      question: "Do Scottish Terriers shed a lot, and how are they groomed?",
+      question: "Are Scottish Terriers easy to train?",
       answer:
-        "They shed minimally to moderately. Their harsh double coat requires brushing two to three times a week to keep furnishings mat-free, along with hand-stripping or clipping every 6 to 8 weeks and regular beard cleaning."
+        "They are sharp, independent thinkers rather than automatic pleasers. Short, varied, reward-based sessions under 15 minutes work much better than repetitive drills or harsh corrections."
     },
     {
-      question: "Are Scottish Terriers good family pets and good with children?",
+      question: "What makes bladder cancer such an important health topic for this breed?",
       answer:
-        "They are deeply loyal and affectionate with their own family, but have a dignified, independent nature that does best with older, respectful children who understand how to treat dogs gently; they do not enjoy rough handling or teasing."
+        "Scottish Terriers have a well-documented predisposition to bladder transitional cell carcinoma. Peer-reviewed studies have linked lawn herbicide exposure to higher risk and regular vegetable intake to lower risk, so avoiding treated lawns and discussing adult urinary screening with a veterinarian are practical precautions."
     },
     {
-      question: "Can a Scottish Terrier live in an apartment?",
+      question: "What pre-breeding health tests are recommended for Scottish Terriers?",
       answer:
-        "Yes. Their compact size, calm indoor temperament, and moderate exercise needs make them well suited to apartment living, provided they receive daily outdoor walks and playtime."
-    },
-    {
-      question: "Is the Scottish Terrier easy to train?",
-      answer:
-        "They are very intelligent and quick to learn, but have an independent, proud mindset. Training requires patient, reward-based methods and positive reinforcement rather than repetitive drills or harsh handling."
-    },
-    {
-      question: "Can Scottish Terriers swim?",
-      answer:
-        "No. Due to their dense, heavy bones, deep barrel chest, and very short legs, Scottish Terriers cannot swim well and are prone to sinking; owners must take strict precautions around swimming pools and deep open water."
-    },
-    {
-      question: "What is Scottie Cramp?",
-      answer:
-        "Scottie Cramp is an inherited, non-painful movement disorder caused by a disturbance in serotonin metabolism, which causes a temporary stiffening and hopping gait when the dog becomes overly excited or heavily exercised."
-    },
-    {
-      question: "Why is bladder cancer a major concern in Scottish Terriers?",
-      answer:
-        "The breed has an elevated genetic predisposition to transitional cell carcinoma (bladder cancer); regular veterinary screenings, minimizing lawn chemical exposure, and incorporating fresh vegetables into their diet are recommended preventive steps."
-    },
-    {
-      question: "What health tests are recommended for breeding Scottish Terriers?",
-      answer:
-        "Recommended pre-breeding screenings include DNA tests for von Willebrand's disease (vWD Type III) and craniomandibular osteopathy (CMO), clinical patellar luxation grading, and veterinary ophthalmologist eye exams."
+        "Core pre-breeding screenings include DNA tests for von Willebrand's disease (Type III) and craniomandibular osteopathy (CMO), along with a veterinary patellar luxation evaluation. Breeders may also screen for thyroid health, eye disease, liver bile acids, kidney protein loss, or hip conditions."
     }
   ],
 
   references: [
     "the-kennel-club-scottish-terrier-breed-standard",
+    "rkc-scottish-terrier-breed-profile",
     "fci-scottish-terrier-official-standard",
     "fci-scottish-terrier-nomenclature",
     "akc-scottish-terrier-breed-standard",
@@ -425,59 +385,57 @@ export const scottish_terrier: Breed = {
     "scottish-terrier-club-of-america-health",
     "ofa-scottish-terrier-chic-requirements",
     "scottish-terrier-bladder-cancer-study-2005",
+    "scottish-terrier-herbicide-bladder-cancer-study-2004",
+    "the-dog-api",
     "wikimedia-scottish-terrier-matthew-mackenzie",
     "wikimedia-scottish-terrier-cheryl-brind"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Left null because official breed standards do not publish a formal taxonomic scientific name."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-scottish-terrier-official-standard",
-          role: "verified",
-          locator: "Standard heading: SCOTTISH TERRIER"
-        },
-        {
           id: "fci-scottish-terrier-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: SCOTTISH TERRIER (73), Terrier Écossais, Schottischer Terrier"
+          locator: "SCOTTISH TERRIER (73), TERRIER ECOSSAIS, SCHOTTISCHER TERRIER"
         },
         {
-          id: "the-kennel-club-scottish-terrier-breed-standard",
+          id: "rkc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "Breed name: Scottish Terrier"
+          locator: "About this breed: Aberdeen terrier, Scottie"
         },
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "History: Scottie, Aberdeen Terrier, Diehard, Scotch Terrier"
+          locator: "About the Breed: Scottie, 'the Diehard'"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "alternateNames: Scottie, Aberdeen Terrier"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 73, FCI Nomenclature, The Royal Kennel Club, and AKC."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-scottish-terrier-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 3 Terriers, Section 2 Small-sized Terriers, without working trial"
-        },
-        {
           id: "fci-scottish-terrier-nomenclature",
           role: "verified",
-          locator: "Group 3, Section 2 Small-sized Terriers, without working trial"
+          locator:
+            "Group 3 Terriers, Section 2 Small sized Terriers, not subject to working trial"
         },
         {
           id: "the-kennel-club-scottish-terrier-breed-standard",
@@ -485,214 +443,300 @@ export const scottish_terrier: Breed = {
           locator: "Terrier Group"
         },
         {
-          id: "akc-scottish-terrier-breed-standard",
+          id: "akc-scottish-terrier-breed-profile",
           role: "verified",
           locator: "Terrier Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "group: Terrier"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group label avoids registry acronyms and group numbers per Rule 5."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-scottish-terrier-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Great Britain; BRIEF HISTORICAL SUMMARY"
-        },
-        {
           id: "fci-scottish-terrier-nomenclature",
           role: "verified",
-          locator: "Country of origin: Great Britain"
+          locator: "Country of origin: GREAT BRITAIN"
         },
         {
-          id: "the-kennel-club-scottish-terrier-breed-standard",
+          id: "rkc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "Origin and development in Scotland"
+          locator: "About this breed: native Scottish breed, Aberdeen area"
         },
         {
-          id: "akc-scottish-terrier-breed-profile",
-          role: "verified",
-          locator: "History: Scottish roots, Aberdeen and Blackmount region"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "origin.country: Scotland (sub-national constituent country of Great Britain)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: null
+      verifiedOn: "2026-11-20",
+      note:
+        "Kept Great Britain as country of origin per FCI Nomenclature No. 73 and recorded Scotland in region."
     },
 
     overview: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-scottish-terrier-official-standard",
-          role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
           id: "the-kennel-club-scottish-terrier-breed-standard",
           role: "verified",
-          locator: "General Appearance, Characteristics, Temperament"
+          locator: "General appearance, Characteristics, Temperament"
+        },
+        {
+          id: "rkc-scottish-terrier-breed-profile",
+          role: "verified",
+          locator:
+            "About this breed: Aberdeen terrier, 1879 Captain Gordon Murray, 1882 first breed club"
         },
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed, History, Did You Know"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesized in original prose from FCI Standard No. 73, The Royal Kennel Club, and AKC official records."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     physical: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-scottish-terrier-official-standard",
-          role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
-        },
-        {
           id: "the-kennel-club-scottish-terrier-breed-standard",
           role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Mouth, Body, Tail, Coat, Colour, Size"
+          locator:
+            "Head and skull, Eyes, Ears, Mouth, Body, Hindquarters, Feet, Tail, Coat, Colour, Size"
         },
         {
-          id: "akc-scottish-terrier-breed-standard",
+          id: "fci-scottish-terrier-official-standard",
           role: "verified",
-          locator: "General Appearance, Size, Head, Neck, Body, Tail, Legs, Coat, Color"
+          locator: "FCI Standard No. 73 (valid 2026-09-08, published 2026-10-06)"
+        },
+        {
+          id: "akc-scottish-terrier-breed-profile",
+          role: "verified",
+          locator: "Breed Colors & Markings (Black, Black Brindle, Brindle, Red Brindle, Silver Brindle, Wheaten)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Conformation, harsh double coat, prick ears, carrot tail, black/brindle/wheaten colors, and distinctive features follow official standards."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "physical.height": {
       reliability: "official_standard",
       sources: [
         {
-          id: "akc-scottish-terrier-breed-standard",
-          role: "verified",
-          locator: "Size: Height at withers for both genders should be about 10 inches."
-        },
-        {
           id: "the-kennel-club-scottish-terrier-breed-standard",
           role: "verified",
-          locator: "Size: Height at withers: 25-28 cms (10-11 ins)"
+          locator: "Size: Height at withers 25-28 cms (10-11 ins)"
         },
         {
           id: "fci-scottish-terrier-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: 25 - 28 cm (10 - 11 ins)."
+          locator: "SIZE: Height at withers 25-28 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "height (cm): male 25-28, female 25-28"
+        },
+        {
+          id: "akc-scottish-terrier-breed-profile",
+          role: "conflicting",
+          locator: "Height: 10 inches (single figure published in inches)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "Preserved in published unit of inches (10 inches) as specified in the AKC breed standard and consistent with the 10-11 inch parameters of the British and FCI standards."
+        "Stored 25–28 cm from the country-of-origin Royal Kennel Club standard and FCI Standard No. 73 (matching The Dog API); AKC's 10 inches is noted as a differing unit/range."
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "the-kennel-club-scottish-terrier-breed-standard",
+          role: "verified",
+          locator: "Size: 25-28 cms"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "height.male.max: 28 cm"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "the-kennel-club-scottish-terrier-breed-standard",
+          role: "verified",
+          locator: "Size: 25-28 cms"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "height.female.max: 28 cm"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "physical.weight": {
       reliability: "official_standard",
       sources: [
         {
-          id: "akc-scottish-terrier-breed-standard",
-          role: "verified",
-          locator: "Weight: A well-balanced dog should weigh from 19 to 22 pounds and a female from 18 to 21 pounds."
-        },
-        {
           id: "the-kennel-club-scottish-terrier-breed-standard",
           role: "verified",
-          locator: "Weight: 8.5-10.5 kgs (19-23 lbs)"
+          locator: "Size: weight 8.5-10.5 kgs (19-23 lbs)"
         },
         {
           id: "fci-scottish-terrier-official-standard",
           role: "verified",
-          locator: "Weight: 8.5 - 10.5 kg."
+          locator: "SIZE: weight 8.5-10.5 kg"
+        },
+        {
+          id: "akc-scottish-terrier-breed-profile",
+          role: "conflicting",
+          locator: "Weight: 19-22 pounds (male), 18-21 pounds (female)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "weight (kg): male 8.5-10, female 8-9.5"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "Preserved in published unit of pounds (19 to 22 lb for males, 18 to 21 lb for females) exactly as specified in the official AKC standard."
+        "Stored 8.5–10.5 kg from the country-of-origin Royal Kennel Club standard and FCI Standard No. 73 (first stated unit); AKC (19–22 lb / 18–21 lb) and The Dog API (8.5–10 kg / 8–9.5 kg) are recorded as conflicting."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "the-kennel-club-scottish-terrier-breed-standard",
+          role: "verified",
+          locator: "Size: weight 8.5-10.5 kgs"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "weight.male.max: 10 kg"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "the-kennel-club-scottish-terrier-breed-standard",
+          role: "verified",
+          locator: "Size: weight 8.5-10.5 kgs"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "weight.female.max: 9.5 kg"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-scottish-terrier-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Life Expectancy: 12-15 years"
+          locator: "lifespanYears: 12-15"
         },
         {
-          id: "the-kennel-club-scottish-terrier-breed-standard",
-          role: "verified",
-          locator: "Longevity and health actuarial profile (12-15 years)"
+          id: "akc-scottish-terrier-breed-profile",
+          role: "conflicting",
+          locator: "Life Expectancy: 12 years"
+        },
+        {
+          id: "rkc-scottish-terrier-breed-profile",
+          role: "cited",
+          locator: "Lifespan: Over 10 years"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and breed club actuarial profiles."
+      verifiedOn: "2026-11-20",
+      note:
+        "Retained 12–15 years from The Dog API while noting AKC's 12-year average figure in prose and evidence."
     },
 
     "physical.sheddingLevel": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-scottish-terrier-breed-profile",
+          id: "rkc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
+          locator: "Breed characteristics: Sheds: Yes"
         },
         {
-          id: "fci-scottish-terrier-official-standard",
+          id: "akc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "COAT: Harsh, wiry double coat with dense undercoat"
+          locator: "Breed Traits: Shedding Level; Grooming (double coat)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
     "physical.droolingLevel": {
-      reliability: "official_standard",
+      reliability: "reliable_source",
       sources: [
-        {
-          id: "fci-scottish-terrier-official-standard",
-          role: "verified",
-          locator: "Lips: Tight fitting lips"
-        },
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: Drooling Level (low)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Tight lips result in low drooling."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-scottish-terrier-official-standard",
-          role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Loyal and faithful, dignified, independent and reserved, but courageous and highly intelligent. Bold, but never aggressive."
-        },
-        {
           id: "the-kennel-club-scottish-terrier-breed-standard",
           role: "verified",
-          locator: "Characteristics and Temperament: Loyal, faithful, dignified, independent, reserved, courageous, bold"
+          locator:
+            "Characteristics & Temperament: Loyal and faithful, dignified, independent and reserved, courageous and highly intelligent; bold, never aggressive"
         },
         {
-          id: "akc-scottish-terrier-breed-standard",
+          id: "akc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "General Appearance: Alert, bold, dignified, independent, courageous"
+          locator:
+            "independent / confident / spirited; aloof toward strangers; strong hunting instinct; cantankerous around other dogs"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "temperament.traits: Confident, independent, alert, intelligent, loyal"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -702,17 +746,16 @@ export const scottish_terrier: Breed = {
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics"
         },
         {
           id: "the-kennel-club-scottish-terrier-breed-standard",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Characteristics and Temperament"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented terrier temperament, reserved aloofness with strangers, and strong watchdog vigilance."
+      note: "Editorial 1–5 ratings synthesized from kennel club descriptions."
     },
 
     care: {
@@ -721,39 +764,33 @@ export const scottish_terrier: Breed = {
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming, Exercise, Training, Nutrition"
         },
         {
-          id: "the-kennel-club-scottish-terrier-breed-standard",
+          id: "rkc-scottish-terrier-breed-profile",
           role: "cited",
-          locator: "Care, exercise, and coat hand-stripping"
-        },
-        {
-          id: "scottish-terrier-club-of-america-health",
-          role: "cited",
-          locator: "Health, grooming, and swimming safety precautions"
+          locator: "Breed characteristics: Exercise, Grooming, Home/Garden"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active earthdog management with wire-coat grooming, water safety, and cancer prevention protocols."
+      note: null
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-scottish-terrier-breed-profile",
+          id: "rkc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "Energy Level (3/5); Exercise Needs (3/5)"
+          locator: "Exercise: Up to 1 hour per day"
         },
         {
-          id: "the-kennel-club-scottish-terrier-breed-standard",
+          id: "akc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "Exercise requirements: Up to 1 hour per day"
+          locator: "Exercise: good walk plus bursts of playtime"
         }
       ],
-      verifiedOn: "2026-11-09",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -761,19 +798,13 @@ export const scottish_terrier: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-scottish-terrier-breed-standard",
+          id: "rkc-scottish-terrier-breed-profile",
           role: "cited",
           locator: "Exercise: Up to 1 hour per day"
-        },
-        {
-          id: "akc-scottish-terrier-breed-profile",
-          role: "cited",
-          locator: "Exercise recommendations"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 45 to 60 minutes of daily activity reflects the moderate exercise demands of a heavy-boned small terrier."
+      note: "Editorial estimate of 45–60 minutes/day based on RKC and AKC guidance."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -782,15 +813,15 @@ export const scottish_terrier: Breed = {
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (5/5)"
+          locator: "Exercise: great dogs for a small home or apartment living"
         },
         {
-          id: "the-kennel-club-scottish-terrier-breed-standard",
+          id: "rkc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "Living environment: Flat/Apartment suitable with regular outdoor walks"
+          locator: "Size of home: Small house; Town or country: Either"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -798,17 +829,12 @@ export const scottish_terrier: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-scottish-terrier-breed-profile",
+          id: "rkc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
-        },
-        {
-          id: "the-kennel-club-scottish-terrier-breed-standard",
-          role: "verified",
-          locator: "Living environment: Small garden suitable"
+          locator: "Size of garden: Small/medium garden"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -816,17 +842,12 @@ export const scottish_terrier: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-scottish-terrier-official-standard",
+          id: "the-kennel-club-scottish-terrier-breed-standard",
           role: "verified",
-          locator: "COAT: Harsh, wiry double coat providing natural weather protection"
-        },
-        {
-          id: "akc-scottish-terrier-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: well-suited to cold and temperate weather"
+          locator: "Coat: close-lying double coat making a weather-resisting covering"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -836,7 +857,7 @@ export const scottish_terrier: Breed = {
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate; independent nature"
+          locator: "Independent temperament profile"
         }
       ],
       verifiedOn: null,
@@ -849,17 +870,16 @@ export const scottish_terrier: Breed = {
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
+          locator: "Nutrition: moderate-protein diet (mid-20% protein) and coat/skin monitoring"
         },
         {
           id: "scottish-terrier-bladder-cancer-study-2005",
           role: "cited",
-          locator: "Dietary vegetable intake and bladder cancer reduction"
+          locator: "Dietary vegetable intake (>=3 times/week) inversely associated with TCC (OR 0.30)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for small terriers, incorporating research-backed vegetable dietary considerations."
+      note: null
     },
 
     "nutrition.feedingFrequency": {
@@ -868,7 +888,7 @@ export const scottish_terrier: Breed = {
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance"
+          locator: "General small-breed feeding guidance"
         }
       ],
       verifiedOn: null,
@@ -881,22 +901,22 @@ export const scottish_terrier: Breed = {
         {
           id: "scottish-terrier-bladder-cancer-study-2005",
           role: "verified",
-          locator: "Risk factors and dietary prevention for transitional cell carcinoma of the bladder in Scottish Terriers"
+          locator: "JAVMA 2005 (PMID 16013542): 92 TCC cases vs 83 controls; vegetable intake OR 0.30"
         },
         {
-          id: "ofa-scottish-terrier-chic-requirements",
+          id: "scottish-terrier-herbicide-bladder-cancer-study-2004",
           role: "verified",
-          locator: "CHIC Program requirements: von Willebrand's Disease DNA test, CAER Eye exam, Patellar luxation"
+          locator: "JAVMA 2004 (PMID 15112777): 83 TCC cases vs 83 controls; herbicide exposure OR 3.62, herbicide+insecticide OR 7.19"
         },
         {
           id: "scottish-terrier-club-of-america-health",
           role: "verified",
-          locator: "Health priorities: Bladder cancer (TCC), Scottie Cramp, vWD, CMO, and elevated ALP"
+          locator: "STCA Health & Jan 1, 2025 CHIC requirements (vWD, CMO, Patellar Luxation; optional Thyroid, Eyes, Serum Bile Acid, Kidney UPC, Legg-Calvé-Perthes)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "Synthesizes peer-reviewed veterinary oncology research on transitional cell carcinoma with health registry screening requirements."
+        "Distinguishes peer-reviewed oncology findings and required DNA/orthopedic screenings from elective/monitored conditions per Rule 8."
     },
 
     "health.commonConditions": {
@@ -905,113 +925,109 @@ export const scottish_terrier: Breed = {
         {
           id: "scottish-terrier-bladder-cancer-study-2005",
           role: "verified",
-          locator: "Transitional cell carcinoma (TCC) epidemiology and risk factors in Scottish Terriers"
+          locator: "Bladder TCC case-control study (PMID 16013542)"
         },
         {
-          id: "ofa-scottish-terrier-chic-requirements",
+          id: "scottish-terrier-herbicide-bladder-cancer-study-2004",
           role: "verified",
-          locator: "Von Willebrand's disease (vWD Type III), patellar luxation, eye diseases"
+          locator: "Herbicide exposure and bladder TCC case-control study (PMID 15112777)"
         },
         {
           id: "scottish-terrier-club-of-america-health",
           role: "verified",
-          locator: "Scottie Cramp, craniomandibular osteopathy, and elevated liver enzymes (ALP)"
+          locator: "vWD, CMO, patellar luxation, thyroid, eye, liver bile acid, kidney, Legg-Calvé-Perthes"
+        },
+        {
+          id: "ofa-scottish-terrier-chic-requirements",
+          role: "verified",
+          locator: "OFA CHIC Scottish Terrier program"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic, oncological, and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "scottish-terrier-club-of-america-health",
+          id: "scottish-terrier-herbicide-bladder-cancer-study-2004",
           role: "cited",
-          locator: "Preventive care, herbicide avoidance, bladder screening, and water safety"
+          locator: "Minimizing lawn herbicide exposure (PMID 15112777)"
         },
         {
-          id: "akc-scottish-terrier-breed-profile",
+          id: "scottish-terrier-club-of-america-health",
           role: "cited",
-          locator: "Routine wellness and veterinary checks"
+          locator: "Pre-breeding testing and health monitoring"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to heavy-boned terriers prone to urological and neurological conditions."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-scottish-terrier-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program required screenings: von Willebrand's Disease DNA test, Patellar Luxation, CAER Eye exam"
-        },
-        {
           id: "scottish-terrier-club-of-america-health",
           role: "verified",
-          locator: "Pre-breeding testing protocols: vWD, CMO DNA, patellas, eyes, and adult bladder surveillance"
+          locator:
+            "Effective Jan 1, 2025 CHIC requirements: Required (vWD DNA, CMO DNA, Patellar Luxation); Optional choose one (Autoimmune Thyroiditis, ACVO Eye Exam, Serum Bile Acid, Kidney UPC, Legg-Calvé-Perthes)"
+        },
+        {
+          id: "akc-scottish-terrier-breed-profile",
+          role: "verified",
+          locator:
+            "Recommended Health Tests: Patella Evaluation, Von Willebrand Disease III DNA Test, Craniomandibular Osteopathy"
+        },
+        {
+          id: "ofa-scottish-terrier-chic-requirements",
+          role: "verified",
+          locator: "OFA CHIC Scottish Terrier testing registry"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "Screenings summarize published parent club and health registry protocols."
+        "Updated to reflect STCA's January 1, 2025 CHIC panel making CMO DNA required alongside vWD DNA and Patellar Luxation."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-scottish-terrier-official-standard",
+          id: "the-kennel-club-scottish-terrier-breed-standard",
           role: "cited",
-          locator: "Jaws/teeth: large teeth with perfect, regular scissor bite"
-        },
-        {
-          id: "akc-scottish-terrier-breed-profile",
-          role: "cited",
-          locator: "Routine dental care"
+          locator: "Mouth: large teeth with perfect, regular scissor bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-scottish-terrier-official-standard",
+          id: "the-kennel-club-scottish-terrier-breed-standard",
           role: "cited",
-          locator: "Ears: neat, of fine texture, pointed, erect"
-        },
-        {
-          id: "akc-scottish-terrier-breed-profile",
-          role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Ears: neat, fine texture, pointed, erect"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for small erect prick ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-scottish-terrier-official-standard",
+          id: "akc-scottish-terrier-breed-profile",
           role: "cited",
-          locator: "Harsh double coat structure"
-        },
-        {
-          id: "scottish-terrier-club-of-america-health",
-          role: "cited",
-          locator: "Skin allergies and wire coat care"
+          locator: "Grooming & Nutrition: weekly brushing/comb-out and monitoring for dry, flaky skin or itching"
         }
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for wire-coated terriers."
+      note: null
     },
 
     suitability: {
@@ -1020,17 +1036,17 @@ export const scottish_terrier: Breed = {
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "About the Breed, Exercise, Training, Grooming"
         },
         {
-          id: "the-kennel-club-scottish-terrier-breed-standard",
+          id: "rkc-scottish-terrier-breed-profile",
           role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
+          locator: "Breed characteristics"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, physical build, and household adaptability."
+        "Editorial suitability summary based on independent terrier temperament, grooming upkeep, and compact size."
     },
 
     funFacts: {
@@ -1039,57 +1055,52 @@ export const scottish_terrier: Breed = {
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "White House history (Fala, Telek, Barney), Monopoly token, Black & White whisky, swimming inability"
+          locator:
+            "Did You Know: Fala (FDR), Caacie & Telek (Eisenhower), 1860 first show class, 'the Diehard'"
         },
         {
-          id: "the-kennel-club-scottish-terrier-breed-standard",
+          id: "rkc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "History: Earl of Dumbarton Diehards moniker, 1879 breed separation"
-        },
-        {
-          id: "fci-scottish-terrier-official-standard",
-          role: "verified",
-          locator: "Brief historical summary: Ancient Highland terrier lineage"
+          locator: "About this breed: 1879 name formalized, 1882 first breed club"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and cultural heritage facts."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     faq: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-scottish-terrier-official-standard",
-          role: "verified",
-          locator: "Origin, size (about 10 in), coat, and colors"
-        },
-        {
           id: "the-kennel-club-scottish-terrier-breed-standard",
           role: "verified",
-          locator: "Weight (18-22 lbs), longevity (12-15 years), and temperament"
+          locator: "Size (25–28 cm, 8.5–10.5 kg)"
         },
         {
           id: "akc-scottish-terrier-breed-profile",
           role: "verified",
-          locator: "Family suitability, swimming inability, training, and exercise"
+          locator: "Lifespan, grooming, apartment suitability, training"
         },
         {
           id: "scottish-terrier-bladder-cancer-study-2005",
           role: "verified",
-          locator: "Bladder cancer risks and prevention"
+          locator: "Bladder cancer and vegetable intake (PMID 16013542)"
         },
         {
-          id: "ofa-scottish-terrier-chic-requirements",
+          id: "scottish-terrier-herbicide-bladder-cancer-study-2004",
           role: "verified",
-          locator: "Recommended health screening panel"
+          locator: "Bladder cancer and lawn herbicides (PMID 15112777)"
+        },
+        {
+          id: "scottish-terrier-club-of-america-health",
+          role: "verified",
+          locator: "2025 CHIC pre-breeding health screenings"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and oncology research without naming registries in prose."
+      verifiedOn: "2026-11-20",
+      note: null
     }
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-20"
 };

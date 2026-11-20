@@ -149,12 +149,12 @@
 146:azawakh - CG
 147:english_cocker_spaniel - CG
 148:danish_swedish_farmdog - CG
+149:griffon_bruxellois_80 - CG
+150:barbet - CG
+151:scottish_terrier - CG
 
-149:griffon_bruxellois_80 - CR
+152:briard - CR
 
-150:barbet - C
-151:scottish_terrier - C
-152:briard - C
 153:weimaraner - C
 154:curly_coated_retriever - C
 155:spanish_mastiff - C
@@ -227,10 +227,11 @@
 222:pyrenean_sheepdog,_longhaired - C
 223:polish_hunting_dog - C
 224:volpino_italiano - C
+225:wetterhoun - C
+226:labradoodle - C
 
-225:wetterhoun
-226:labradoodle
-227:komondor
+227:komondor - R
+
 228:cao_fila_de_sao_miguel
 229:anatolian_shepherd_dog
 230:soft-coated_wheaten_terrier

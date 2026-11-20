@@ -3,163 +3,138 @@ import type { Breed } from "../schema/breed.types";
 export const griffon_bruxellois_80: Breed = {
   slug: "griffon-bruxellois-80",
   name: "Griffon Bruxellois",
-  scientificName: "Canis lupus familiaris",
+  scientificName: null,
 
   alternateNames: [
     "Brussels Griffon",
-    "Belgian Griffon",
     "Griffon de Bruxelles",
     "Brüsseler Griffon",
-    "Griffon",
-    "Smousje"
+    "Smousje",
   ],
 
-  group:
-    "Companion and Toy Dogs; Section 3 — Small Belgian Dogs (without working trial; also classified in the Toy and Companion groups)",
+  group: "Companion and Toy Dogs (Small Belgian Dogs)",
 
   origin: {
     country: "Belgium",
-    region:
-      "Brussels and surrounding Brabant region (descended from the ancient small rough-coated stable dog known as the Smousje)"
+    region: "Brussels",
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Griffon_bruxellois_1.jpg",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Griffon_bruxellois_1.jpg",
-      title: "Griffon bruxellois 1.jpg",
-      description:
-        "A red rough-coated adult Griffon Bruxellois standing outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2016,
-      height: 1916,
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Griffon_Bruxellois_GalawebDesign.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Griffon_Bruxellois_GalawebDesign.jpg",
+      title: "Griffon Bruxellois GalawebDesign.jpg",
+      description: "One-year-old red rough-coated Griffon Bruxellois with dark facial shading, displaying the domed skull, dark round eyes, short muzzle, and wiry beard.",
+      creator: "Galawebdesign",
+      uploader: "Galawebdesign",
+      capturedOn: null,
+      uploadedOn: "2009-10-25",
+      width: 1000,
+      height: 724,
       licenseId: "cc-by-sa-3.0",
-      attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Griffon_bruxellois_1.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+      attribution: "Photo by Galawebdesign, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Griffon_Bruxellois_GalawebDesign.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-19",
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Brussels_Griffon_in_grass.jpg",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Brussels_Griffon_in_grass.jpg",
-      title: "Brussels Griffon in grass.jpg",
-      description: "An adult Brussels Griffon sitting outdoors on lawn.",
-      creator: "Dan Brady",
-      uploader: "Flickr upload bot",
-      capturedOn: "2009-06-21",
-      uploadedOn: "2009-09-05",
-      width: 2048,
-      height: 1536,
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Bearded_lady_(1701411818).jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Bearded_lady_(1701411818).jpg",
+      title: "Bearded lady (1701411818).jpg",
+      description: "Close portrait of a rough-coated red Griffon Bruxellois highlighting the tousled wiry furnishings, pronounced beard and moustache, and expressive dark eyes.",
+      creator: "istolethetv",
+      uploader: "istolethetv",
+      capturedOn: "2007-10-21",
+      uploadedOn: null,
+      width: 3264,
+      height: 2448,
       licenseId: "cc-by-2.0",
-      attribution:
-        "Photo by Dan Brady, Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Brussels_Griffon_in_grass.jpg. License: https://creativecommons.org/licenses/by/2.0/.",
+      attribution: "Photo by istolethetv, Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Bearded_lady_(1701411818).jpg. License: https://creativecommons.org/licenses/by/2.0/. No changes made.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
-    }
+      metadataCheckedOn: "2026-11-19",
+    },
   ],
 
   overview: {
-    summary:
-      "A small, compact Belgian toy companion possessing an unmistakably human-like facial expression, harsh wiry red coat with a prominent beard and moustache, prominent chin, and a spirited, sensitive, and profoundly devoted personality.",
+    summary: "Compact, square-built Belgian toy companion known for its harsh wiry red coat, prominent beard and moustache, expressive human-like face, and deeply devoted, self-assured personality.",
 
-    description:
-      "The Griffon Bruxellois is a distinctive, cobby toy companion that carries substantial substance, bone, and muscular tone in a diminutive square frame. Renowned for its captivating, almost human-like facial countenance, the dog displays a large, rounded skull with a pronounced dome, deep stop, an extremely short, turned-up nose, and a prominent undershot lower jaw that curves upward. Its coat is harsh, wiry, and slightly tousled, featuring a dense undercoat and rich red coloration, framed by an abundant beard, whiskers, and moustache that accentuate its characteristic facial contour. Deeply affectionate, full of self-importance, and endlessly entertaining, the breed bonds intensely with its human guardians, combining the tenacity of an ancestral stable ratter with the sensitive warmth of a loyal house lapdog.",
+    description: "The Griffon Bruxellois is a small, sturdy, square-proportioned toy dog that packs surprising bone and substance into a compact frame. Its hallmark is a large, rounded head with a steep stop, very short black nose, wide-set dark eyes, and a protruding, upturned undershot chin framed by a generous wiry beard, moustache, and eyebrows. The harsh, slightly tousled red double coat sets it apart from its black rough-coated and smooth-coated Belgian relatives. Alert, proud, and sensitive, it bonds closely with its people and thrives as an attentive indoor companion.",
 
-    history:
-      "The breed traces its ancestry to the centuries-old small rough-coated terrier-like street and stable dog of Brussels known as the 'Smousje', widely kept by carriage drivers and stablemen to catch rats and guard hansom cabs. During the nineteenth century, Belgian coachmen and breeders began refining the humble stable ratter by crossing it with the Pug and the English Toy Spaniel (King Charles Spaniel). These crosses introduced the flattened facial structure, large dark eyes, and red coat pigment that characterize the modern breed. In the 1870s and 1880s, the breed caught the attention of Belgian royalty when Queen Marie Henriette developed an ardent fondness for them, personally breeding and exhibiting them across Europe. This royal patronage elevated the rustic stable dog into a cherished aristocratic salon companion. The breed was formally registered in Belgian studbooks in the 1880s, establishing the foundation for international recognition as one of Belgium's three small national treasure breeds alongside its black rough counterpart and smooth-coated sibling.",
+    history: "The breed developed in Brussels from small, rough-coated Belgian stable dogs known as Smousjes, which coachmen and tradespeople kept to hunt rats and guard carriages. In the nineteenth century, breeders crossed these hardy ratters with Pugs and King Charles Spaniels, producing the shortened muzzle, rounded skull, large dark eyes, and rich red coat seen today. Royal patronage from Queen Marie Henriette of Belgium in the late 1800s propelled the little stable dog into aristocratic parlors across Europe. Alongside the black rough-coated Griffon Belge and the smooth-coated Petit Brabançon, it became one of Belgium's signature small companion breeds.",
 
-    originalPurpose:
-      "Catching rats and mice in carriage stables, guarding horse-drawn cabs, and serving as a devoted companion.",
+    originalPurpose: "Catching rats and mice in stables and guarding horse-drawn carriages in Brussels before becoming a household companion.",
 
     currentRoles: [
-      "Devoted household companion and family lapdog",
-      "Alert apartment and home watchdog",
-      "Canine athlete in trick training, rally, agility, and scent trials",
-      "Therapy and emotional support visiting dog"
-    ]
+      "Devoted indoor companion and lapdog",
+      "Alert apartment and household watchdog",
+      "Rally, obedience, agility, and trick-training partner",
+      "Therapy visiting dog",
+    ],
   },
 
   physical: {
-    sizeCategory: "Toy",
+    sizeCategory: "toy",
 
     height: {
       unit: "cm",
       male: {
         min: 18,
-        max: 25
+        max: 25,
       },
       female: {
         min: 18,
-        max: 25
-      }
+        max: 25,
+      },
     },
 
     weight: {
       unit: "kg",
       male: {
         min: 3.5,
-        max: 6
+        max: 6,
       },
       female: {
         min: 3.5,
-        max: 6
-      }
+        max: 6,
+      },
     },
 
     lifespanYears: {
       min: 12,
-      max: 15
+      max: 15,
     },
 
-    coatType:
-      "Harsh, wiry, rough outer coat with a soft, dense undercoat; slightly tousled, not curly, with distinct furnishings forming an abundant beard and moustache around the muzzle and chin, and longer hair framing the eyes.",
-
-    coatLength: "Medium",
+    coatType: "wiry",
+    coatLength: "medium",
 
     coatColors: [
-      "Red (shades from clear red to deep rich red)",
-      "Reddish with a slight black shading on the beard and moustache (mask)"
+      "Red",
+      "Reddish",
+      "Red with slight black shading on the beard and moustache",
     ],
 
-    sheddingLevel:
-      "Low; the harsh wire coat sheds minimally when brushed regularly and maintained through periodic hand-stripping",
-
-    droolingLevel:
-      "Low to moderate; slightly undershot jaw and short muzzle can cause minor moisture around water bowls, but flews are dry and tight-fitting",
+    sheddingLevel: "low",
+    droolingLevel: "low",
 
     distinctiveFeatures: [
-      "Compact, cobby, and square body outline with height at withers equal to length of the body from shoulder to buttock",
-      "Distinctive human-like facial expression accentuated by prominent beard, whiskers, and moustache",
-      "Weight ranging from 3.5 to 6 kg in fit, muscular toy substance",
-      "Large, well-rounded skull with a prominent dome and steep, deep stop",
-      "Extremely short muzzle measuring barely 1.5 cm, with a wide, black nose set back on a level with the eyes",
-      "Strong, broad lower jaw protruding distinctly ahead of the upper jaw, curving upwards in an undershot bite with incisors meeting in an even row",
-      "Large, round, wide-set black or dark brown eyes with tight, black lids and prominent black eye rims",
-      "Small, semi-erect drop ears set high on the skull, folding neatly forward when uncropped",
-      "Short, firm, and level topline with a deep, broad chest reaching down to the elbows",
-      "High-set tail carried upwards and obliquely forward towards the back without curling over",
-      "Straight, well-boned limbs with small, round, compact cat-like feet and black pads",
-      "Gleaming red harsh wire coat with a dense undercoat"
-    ]
+      "Compact, square, well-boned toy body with substantial weight for its size",
+      "Large, domed skull with a deep stop and very short, broad black nose",
+      "Prominent undershot lower jaw curving upward with a broad chin",
+      "Large, round, wide-set dark eyes with black rims producing an expressive face",
+      "Harsh, wiry red outer coat with undercoat and abundant beard, moustache, and eyebrows",
+      "Small, high-set semi-erect ears folding neatly forward",
+    ],
   },
 
   temperament: {
     traits: [
-      "Alert, curious, and keenly observant of all household activity",
-      "Affectionate, loving, and deeply attached to its chosen human guardians",
-      "Confident and endowed with a noticeable sense of self-importance",
-      "Lively, playful, and cheerful indoors",
-      "Sensitive to human emotional tone and vocal reprimands",
-      "Fearless and plucky with residual ratter boldness",
-      "Good-natured and adaptable with respectful family members",
-      "Can be reserved or cautious around unfamiliar people until trust is established",
-      "Vocal and expressive, sounding a prompt alert bark when visitors arrive",
-      "Thrives on continuous companionship and dislikes extended isolation"
+      "Alert",
+      "Intelligent",
+      "Loyal",
+      "Confident",
+      "Sensitive",
+      "Watchful",
+      "Affectionate",
+      "Spirited",
     ],
 
     scores: {
@@ -171,65 +146,55 @@ export const griffon_bruxellois_80: Breed = {
       independence: 2,
       trainability: 4,
       barking: 3,
-      energy: 3
-    }
+      energy: 3,
+    },
   },
 
   care: {
     exercise: {
-      level:
-        "Moderate; requires daily walking, playful indoor interaction, and mental engagement, but not built for sustained endurance athletics in extreme weather",
+      level: "moderate",
 
       minutesPerDay: {
         min: 30,
-        max: 45
+        max: 45,
       },
 
       activities: [
-        "Daily leashed neighborhood strolls and sensory sniff walks",
-        "Interactive indoor fetch and toy play sessions",
-        "Short, reward-based trick training and problem-solving puzzles",
-        "Supervised romping in a securely fenced yard or garden",
-        "Agility obstacle tunnels and mini-rally courses suited for toy breeds",
-        "Snuffle mats and food-foraging games"
-      ]
+        "Short daily leashed neighborhood walks in mild weather",
+        "Indoor fetch, toy play, and interactive enrichment games",
+        "Reward-based trick training and puzzle feeders",
+        "Supervised play in a securely fenced garden",
+        "Small-dog agility and rally obedience",
+      ],
     },
 
     grooming: {
-      level: "Moderate to high",
+      level: "moderate to high",
 
-      brushing:
-        "Brush two to three times weekly with a slicker brush and metal pin comb to prevent matting in the beard, undercarriage, and legs; hand-strip dead wire outer coat two to three times a year to preserve harsh texture and deep red coloration.",
+      brushing: "Brush and comb two to three times a week, paying close attention to the beard, chest, and leg furnishings, and hand-strip the rough coat periodically to maintain harsh texture and clear red color.",
 
-      bathing:
-        "Bathe every four to six weeks or when soiled, using a gentle canine shampoo that does not soften the harsh wire coat texture.",
+      bathing: "Bathe every 4 to 6 weeks or when needed using a mild shampoo that preserves wire coat texture.",
 
       notes: [
-        "Hand-stripping rather than clippering maintains the harsh, wiry texture and rich red color; clippering softens the coat and dulls the pigment over time.",
-        "Wipe and comb the facial beard and moustache clean after eating moist food to prevent staining and crusting.",
-        "Inspect and gently clean facial skin crevices around the short nose fold weekly using a damp soft wipe, drying thoroughly.",
-        "Inspect the small ears weekly for wax, dust, or irritation.",
-        "Trim nails every two to three weeks to prevent splayed toes and preserve cat-like foot posture.",
-        "Brush teeth daily with enzymatic canine toothpaste to counter dental crowding caused by the shortened lower jaw.",
-        "Always walk on a supportive chest harness rather than a neck collar to protect the delicate airway and trachea."
-      ]
+        "Wipe and comb the beard and moustache after meals to keep food residue from matting or staining the hair.",
+        "Gently clean and dry facial creases around the short nose to prevent moisture buildup.",
+        "Brush teeth daily to help counter dental crowding caused by the compact undershot jaw.",
+        "Trim nails regularly and inspect the small folded ears weekly for wax or irritation.",
+        "Use a well-fitted chest harness instead of a neck collar during walks to avoid pressure on the airway.",
+      ],
     },
 
     training: {
-      difficulty:
-        "Easy to moderate; highly intelligent and eager to please, but possesses a sensitive nature and a streak of independence that requires gentle, consistent guidance",
+      difficulty: "moderate",
 
       tips: [
-        "Use positive reinforcement, praise, and small high-value treats.",
-        "Keep training sessions short, playful, and upbeat (5 to 10 minutes) to maintain focus.",
-        "Start gentle house-training early using a predictable schedule, as small bladder capacity requires patience.",
-        "Avoid harsh verbal corrections or physical intimidation, which cause this sensitive toy dog to shut down and lose confidence.",
-        "Teach a quiet cue early to manage alert watchdog barking tendencies.",
-        "Accustom puppies early to gentle handling of paws, beard, teeth, and ears for stress-free grooming."
+        "Use gentle, upbeat positive reinforcement with small treats and praise, as harsh corrections quickly make this sensitive breed withdraw.",
+        "Keep lessons short and playful to channel its intelligence without triggering stubbornness.",
+        "Establish a patient, consistent house-training routine suited to a small toy bladder.",
+        "Teach a calm quiet cue early to manage alert watchdog barking.",
       ],
 
-      socialization:
-        "Introduce the puppy early, gently, and positively to varied friendly people, calm vaccinated dogs, household sounds, traffic, and novel surfaces. Early social exposure prevents natural caution from developing into timidity, fostering an outgoing, balanced companion."
+      socialization: "Gentle, positive early exposure to unfamiliar people, calm dogs, household noises, and routine handling helps prevent wariness from turning into shyness.",
     },
 
     livingEnvironment: {
@@ -237,85 +202,68 @@ export const griffon_bruxellois_80: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate climates",
-        "Cool climates, provided the dog lives indoors and wears a warm coat during freezing winter walks",
-        "Warm climates, provided reliable indoor air conditioning, shade, and fresh water are available and exercise is restricted to cooler morning or evening hours"
+        "temperate",
+        "cool",
       ],
 
-      aloneTimeTolerance:
-        "Low; intensely attached to its human family and prone to separation anxiety, distress, or persistent whimpering if left isolated for extended workdays."
-    }
+      aloneTimeTolerance: "low",
+    },
   },
 
   nutrition: {
-    dietType:
-      "High-quality complete and balanced dog food formulated for small or toy breeds, adjusted for age, activity level, and metabolic rate.",
+    dietType: "Complete, balanced diet formulated for toy or small breeds, matched to life stage and activity level.",
 
     feedingFrequency: {
-      puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two to three meals daily on a small-breed growth diet to prevent juvenile hypoglycemia.",
-      adult:
-        "Two measured meals daily to support steady energy and comfortable digestion.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and dental health."
+      puppy: "3 to 4 small measured meals daily until about 6 months of age to maintain steady blood sugar, then transition to 2 to 3 meals.",
+      adult: "2 measured meals daily to keep energy steady and prevent excess weight.",
+      senior: "2 portion-controlled meals daily tailored for lower calorie needs and dental or joint support.",
     },
 
-    guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, cobby body condition where ribs are easily felt. Due to its short muzzle and undershot bite, choose small, uniquely shaped kibble that the dog can easily grasp and chew. Provide cool, clean drinking water at all times in a shallow bowl.",
+    guidelines: "Measure portions carefully and choose small-bite kibble easy for a short, undershot muzzle to pick up. Keeping body weight lean is especially important for comfortable breathing in flat-faced toy dogs.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight severely compromises respiratory efficiency in flat-faced toy breeds.",
-      "Account for training treats within the total daily caloric allowance to prevent gradual weight gain.",
-      "Select small-bite kibble designed for brachycephalic undershot jaws.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water in accessible shallow dishes.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Excess body weight worsens breathing effort and heat intolerance in brachycephalic breeds.",
+      "Count training treats within the daily calorie budget.",
+      "Serve fresh water in a shallow dish and wipe the beard dry afterward if needed.",
     ],
 
-    note:
-      "Caloric needs vary based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+    note: "Individual caloric needs vary by age, neuter status, and activity level; consult a veterinarian for tailored ration guidance.",
   },
 
   health: {
-    overview:
-      "The Griffon Bruxellois is a generally sturdy toy companion with a typical life expectancy of 12 to 15 years. However, its compressed brachycephalic skull anatomy, dome-shaped cranium, and compact dwarf-like structure predispose it to specific conformational and hereditary disorders. Primary health considerations include syringomyelia and Chiari-like malformation (evaluated via veterinary magnetic resonance imaging), brachycephalic obstructive airway syndrome (BOAS), patellar luxation, hereditary eye conditions (including cataracts, corneal ulcers, and progressive retinal atrophy), and dental crowding.",
+    overview: "The Griffon Bruxellois commonly lives 12 to 15 years, but its domed, brachycephalic skull anatomy is strongly associated with specific neurological, respiratory, and ocular risks. Peer-reviewed MRI studies document high rates of Chiari-like malformation (60.7% to 65%) and syringomyelia (37.5% to 52%) in studied cohorts, though roughly half of dogs with syringomyelia on MRI showed no outward clinical signs; selective breeding from MRI-screened clear parents has been shown to substantially raise the rate of unaffected offspring (73% versus 0% when both parents are affected). Other key health priorities include brachycephalic obstructive airway syndrome (BOAS), patellar luxation, prominent-eye injuries and hereditary ocular disorders, dental crowding, and whelping difficulty.",
 
     commonConditions: [
-      "Syringomyelia (SM) and Chiari-like malformation (CM) — a conformational disorder caused by a mismatch between brain size and cranial vault volume, resulting in herniation of the cerebellum into the foramen magnum and fluid-filled cavities (syrinxes) in the cervical spinal cord, causing pain, phantom scratching, and head sensitivity, screenable via MRI",
-      "Brachycephalic obstructive airway syndrome (BOAS) — upper respiratory compromise caused by stenotic nares, elongated soft palate, and narrowed trachea, leading to snoring, heat intolerance, and respiratory distress",
-      "Patellar luxation — displacement of the kneecap from the femoral groove causing intermittent hopping or hind-limb lameness, monitored through clinical orthopedic grading",
-      "Corneal ulcers and ocular injuries — surface scratches and irritation arising from prominent, shallow-socketed eyes",
-      "Cataracts, distichiasis, and progressive retinal atrophy (PRA) — ocular disorders monitored through regular ophthalmologist examinations",
-      "Dental crowding and premature periodontal disease — misaligned or crowded teeth resulting from a shortened lower jaw",
-      "Thermal stress and heatstroke — high vulnerability to hyperthermia in hot or humid environments due to compromised panting efficiency",
-      "Dystocia — reproductive difficulty during whelping due to large, broad puppy heads relative to the dam's pelvic canal, frequently requiring planned cesarean sections"
+      "Chiari-like malformation (CM) and syringomyelia (SM) — well-documented cranial and cervical spinal cord disorder detected via MRI, causing neck pain or neurologic signs in a subset of affected dogs",
+      "Brachycephalic obstructive airway syndrome (BOAS) — narrowed nostrils and upper airway crowding leading to noisy breathing and heat sensitivity",
+      "Patellar luxation — kneecap displacement monitored via orthopedic grading",
+      "Ocular conditions — corneal abrasions or ulcers from prominent eyes, cataracts, distichiasis, and progressive retinal atrophy",
+      "Dental crowding and periodontal disease — linked to the shortened, undershot jaw",
+      "Heat intolerance and heatstroke risk in warm or humid conditions",
+      "Whelping difficulty (dystocia) — risk associated with relatively broad puppy heads",
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has undergone official MRI screening for Chiari-like malformation/syringomyelia, clinical patellar grading, and annual specialist eye clearances.",
-      "Never expose the dog to vigorous exercise in hot or humid weather; keep indoors in air-conditioned comfort during summer.",
-      "Always walk on a chest harness rather than a neck collar to prevent pressure on the trachea and airways.",
-      "Inspect prominent eyes daily for discharge, squinting, or cloudiness, seeking immediate veterinary care for suspected corneal abrasions.",
-      "Brush teeth daily to prevent severe periodontal disease and premature tooth loss.",
-      "Maintain a lean body condition to avoid placing excess load on the respiratory system and stifle joints.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Choose breeding stock screened with MRI for Chiari-like malformation and syringomyelia, alongside eye, patella, cardiac, and respiratory evaluations.",
+      "Keep the dog cool indoors in air conditioning during hot or humid weather and avoid strenuous exercise in heat.",
+      "Walk on a supportive chest harness rather than a neck collar to protect the airway.",
+      "Check the large eyes daily for redness, squinting, or discharge, and brush teeth daily.",
+      "Maintain a lean body weight to reduce strain on both the airways and knees.",
     ],
 
     recommendedScreenings: [
-      "Magnetic resonance imaging (MRI) scan of the brain and cranial cervical spine for Chiari-like malformation and Syringomyelia prior to breeding",
-      "Clinical patellar luxation orthopedic evaluation and grading",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Clinical respiratory evaluation for brachycephalic airway obstruction"
+      "MRI screening of the brain and cervical spine for Chiari-like malformation and syringomyelia",
+      "Respiratory function grading for brachycephalic obstructive airway syndrome (BOAS)",
+      "Annual ophthalmic examination by a veterinary ophthalmologist",
+      "Clinical patellar luxation orthopedic evaluation",
+      "Cardiac examination and hip evaluation in breeding stock",
     ],
 
-    dentalCare:
-      "Brush teeth daily with dog-specific enzymatic toothpaste. The shortened, undershot jaw causes pronounced dental crowding; routine professional dental scalings preserve gum health.",
+    dentalCare: "Brush teeth daily with canine toothpaste and arrange regular veterinary dental exams, as the compact undershot jaw promotes tooth crowding and plaque accumulation.",
 
-    earCare:
-      "Inspect the small drop ears weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+    earCare: "Check the small semi-erect ears weekly for wax, debris, or redness and clean gently with a veterinarian-approved solution when needed.",
 
-    skinCare:
-      "Gently inspect and wipe facial skin folds around the nose and under the eyes weekly with a damp soft wipe, drying completely to prevent bacterial or yeast intertrigo."
+    skinCare: "Keep facial folds around the short nose clean and dry to prevent irritation, and comb the wiry beard regularly to avoid food-related matting.",
   },
 
   suitability: {
@@ -326,104 +274,78 @@ export const griffon_bruxellois_80: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Apartment, condominium, or urban dwellers seeking a compact, clean indoor companion",
-      "Retirees, seniors, or remote workers who spend substantial time at home",
-      "First-time dog owners committed to gentle reward-based training and routine coat care",
-      "Families with older, gentle children who respect small toy dogs",
-      "Owners who appreciate an expressive, comical, and shadow-like companion"
+      "Apartment or house dwellers looking for an expressive, low-shedding toy companion",
+      "Remote workers, retirees, or households able to offer close daily company",
+      "Families with older, gentle children who handle small dogs carefully",
+      "First-time owners ready for patient house-training and regular wire-coat upkeep",
     ],
 
     notIdealFor: [
-      "Households with rough toddlers or boisterous young children who might accidentally step on or drop a fragile toy dog",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "Active distance runners or hiking enthusiasts seeking an endurance athletic partner",
-      "Households in hot, humid climates without reliable indoor air conditioning",
-      "People seeking a completely silent, non-vocal pet"
-    ]
+      "Homes with rough toddlers or boisterous young children who could accidentally injure a small toy dog",
+      "Households where the dog would be left alone for long workdays",
+      "Runners or endurance hikers seeking a high-stamina outdoor partner",
+      "Hot, humid environments without reliable indoor air conditioning",
+    ],
   },
 
   funFacts: [
-    "The Griffon Bruxellois became a global pop-culture sensation after a rough-coated Brussels Griffon named Jill starred alongside Jack Nicholson in the 1997 Academy Award-winning film 'As Good as It Gets'.",
-    "Film historians and creature designers widely acknowledge that the breed's distinct bearded face, large dark eyes, and pug-like expression served as an aesthetic inspiration for the look of the Ewoks in the Star Wars universe.",
-    "In Belgium, three closely related breeds share the exact same historical background and standard differing only by coat and color: the red rough-coated Griffon Bruxellois (Standard 80), the black rough-coated Griffon Belge (Standard 81), and the smooth-coated Petit Brabançon (Standard 82).",
-    "During the late nineteenth century, Queen Marie Henriette of Belgium became so enchanted by these stable ratters that she established her own royal breeding kennels, transforming a humble coachman's dog into a fixture of European royal courts.",
-    "The breed's characteristic undershot jaw—where the chin turns distinctly upward and juts proudly ahead of the upper lip—is poetically described in classical Belgian kennel lore as giving the dog the air of a tiny bearded philosopher.",
-    "Despite their small stature, they retain the fearless spirit of their coach-guarding ancestors and will boldly announce approaching visitors with comical self-assurance."
+    "In Belgium, the rough red Griffon Bruxellois, the rough black or black-and-tan Griffon Belge, and the smooth-coated Petit Brabançon share common ancestry and body proportions, differing primarily in coat texture and color.",
+    "Queen Marie Henriette of Belgium championed the breed in the late nineteenth century, helping elevate Brussels stable ratters into fashionable European salon companions.",
+    "A rough-coated Brussels Griffon named Jill gained worldwide fame playing Verdell opposite Jack Nicholson in the 1997 film 'As Good as It Gets'.",
+    "The breed's bearded, wide-eyed face is frequently noted as an inspiration for the look of the Ewoks in Star Wars.",
   ],
 
   faq: [
     {
-      question: "What is a Griffon Bruxellois?",
-      answer:
-        "The Griffon Bruxellois (Brussels Griffon) is a Belgian toy companion known for its almost human-like facial expression, prominent chin, short upturned nose, and harsh wiry red coat with a distinct beard and moustache."
+      question: "How big does a Griffon Bruxellois get?",
+      answer: "It is a compact toy dog weighing 3.5 to 6 kg and standing roughly 18 to 25 cm at the shoulder.",
     },
     {
-      question: "What is the difference between Griffon Bruxellois, Griffon Belge, and Petit Brabançon?",
-      answer:
-        "All three share identical body proportions, size, and temperament standards, differing only in coat and colour: the Griffon Bruxellois has a harsh, wiry red coat; the Griffon Belge has a harsh, wiry black or black-and-tan coat; and the Petit Brabançon has a short, smooth coat."
+      question: "How does the Griffon Bruxellois differ from the Griffon Belge and Petit Brabançon?",
+      answer: "All three Belgian toy dogs share the same compact build and temperament, differing in coat and color: the Griffon Bruxellois has a harsh wiry red coat, the Griffon Belge has a harsh wiry black or black-and-tan coat, and the Petit Brabançon has a short smooth coat.",
     },
     {
-      question: "How big does a Griffon Bruxellois get, and what is its weight?",
-      answer:
-        "The breed stands approximately 18 to 25 cm at the shoulder and weighs between 3.5 and 6 kg, with an ideal weight of about 4 to 5 kg, presenting a compact, cobby, and well-boned body."
+      question: "How long do Griffon Bruxellois typically live?",
+      answer: "They typically live 12 to 15 years with attentive weight, dental, and climate care.",
     },
     {
-      question: "How long does a Griffon Bruxellois live?",
-      answer:
-        "With proper nutrition, climate protection, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+      question: "Do Griffon Bruxellois shed much?",
+      answer: "The rough wiry coat sheds very little, though it needs brushing two to three times a week, regular beard cleaning, and periodic hand-stripping to keep its harsh texture.",
     },
     {
-      question: "Do Griffons Bruxellois shed a lot, and how are they groomed?",
-      answer:
-        "They shed very little. Their harsh double coat requires brushing two to three times a week, regular combing of the facial beard, and hand-stripping two to three times a year to preserve coat texture and rich red colour."
+      question: "Are Griffon Bruxellois good apartment dogs?",
+      answer: "Yes. Their small size, moderate daily exercise needs, and strong attachment to indoor family life suit apartments well, provided they are not left alone for long hours.",
     },
     {
-      question: "Can a Griffon Bruxellois live in an apartment?",
-      answer:
-        "Yes. Their small size, modest exercise needs, and clean indoor habits make them exceptionally well-suited to apartment living, provided they receive daily walks and indoor companionship."
+      question: "What health screenings matter most for this breed?",
+      answer: "Key screenings include MRI evaluation for Chiari-like malformation and syringomyelia, respiratory function grading for brachycephalic airway obstruction, annual specialist eye exams, patellar luxation grading, and cardiac evaluation.",
     },
-    {
-      question: "Is the Griffon Bruxellois good with children and other pets?",
-      answer:
-        "They are affectionate and loving with family members, but because of their small size and sensitivity, they do best with older, gentle children; they generally coexist harmoniously with other dogs and household cats."
-    },
-    {
-      question: "Can the breed tolerate hot or humid weather?",
-      answer:
-        "No. Due to its short muzzle and flat facial structure, the breed is highly susceptible to heat exhaustion and heatstroke; it must be kept in air-conditioned spaces during warm weather and never over-exercised in the heat."
-    },
-    {
-      question: "Why should a Griffon Bruxellois wear a harness instead of a collar?",
-      answer:
-        "Like many flat-faced toy breeds, they have delicate airways and shallow windpipes; walking with a supportive chest harness prevents mechanical pressure on the throat and protects the trachea from collapsing."
-    },
-    {
-      question: "What major health conditions should prospective owners research?",
-      answer:
-        "Important health priorities include syringomyelia and Chiari-like malformation (screenable via MRI), respiratory sensitivities (brachycephalic obstructive airway syndrome), patellar luxation, eye injuries, and dental crowding."
-    }
   ],
 
-references: [
+  references: [
     "fci-griffon-bruxellois-official-standard",
     "fci-griffon-bruxellois-nomenclature",
+    "royal-kennel-club-griffon-bruxellois",
     "the-kennel-club-griffon-bruxellois-breed-standard",
     "akc-brussels-griffon-breed-standard",
     "american-kennel-club-brussels-griffon",
+    "american-brussels-griffon-association-health",
     "abga-brussels-griffon-health-syringomyelia",
     "ofa-brussels-griffon-chic-requirements",
     "griffon-bruxellois-syringomyelia-mri-study-2014",
+    "griffon-bruxellois-cm-sm-quantitative-2014",
+    "griffon-bruxellois-sm-breeding-guidelines-2011",
     "wikimedia-griffon-bruxellois-1-lilly-m",
-    "wikimedia-brussels-griffon-in-grass-dan-brady"
+    "wikimedia-brussels-griffon-in-grass-dan-brady",
+    "the-dog-api",
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
+      reliability: "unavailable",
       sources: [],
       verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      note: "Official breed standards and kennel club profiles do not publish a separate binomial scientific name.",
     },
 
     alternateNames: {
@@ -432,26 +354,21 @@ references: [
         {
           id: "fci-griffon-bruxellois-official-standard",
           role: "verified",
-          locator: "Standard heading: GRIFFON BRUXELLOIS"
+          locator: "Standard heading: GRIFFON BRUXELLOIS (No. 80)",
         },
         {
           id: "fci-griffon-bruxellois-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: GRIFFON BRUXELLOIS (80), Brüsseler Griffon"
+          locator: "Official multilingual names (Griffon Bruxellois, Brüsseler Griffon)",
         },
         {
-          id: "the-kennel-club-griffon-bruxellois-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Breed name: Griffon Bruxellois"
+          locator: "breed.alt_names (Brussels Griffon)",
         },
-        {
-          id: "american-kennel-club-brussels-griffon",
-          role: "verified",
-          locator: "History: Brussels Griffon, Belgian Griffon, Smousje"
-        }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 80, FCI Nomenclature, The Royal Kennel Club, and AKC."
+      verifiedOn: "2026-11-19",
+      note: "Griffon Belge (FCI 81) and Petit Brabançon (FCI 82) are closely related Belgian varieties rather than synonyms for the rough red Griffon Bruxellois.",
     },
 
     group: {
@@ -460,131 +377,267 @@ references: [
         {
           id: "fci-griffon-bruxellois-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 9 Companion and Toy Dogs, Section 3 Small Belgian Dogs, without working trial"
+          locator: "FCI-Classification: Group 9 Companion and Toy Dogs, Section 3 Small Belgian Dogs",
         },
         {
-          id: "fci-griffon-bruxellois-nomenclature",
+          id: "royal-kennel-club-griffon-bruxellois",
           role: "verified",
-          locator: "Group 9, Section 3 Small Belgian Dogs, without working trial"
+          locator: "Toy Group",
         },
         {
-          id: "the-kennel-club-griffon-bruxellois-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Toy Group"
+          locator: "breed.breed_group: Toy",
         },
-        {
-          id: "akc-brussels-griffon-breed-standard",
-          role: "verified",
-          locator: "Toy Group"
-        }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-griffon-bruxellois-official-standard",
           role: "verified",
-          locator: "ORIGIN: Belgium; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: Belgium",
         },
         {
-          id: "fci-griffon-bruxellois-nomenclature",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Country of origin: Belgium"
+          locator: "breed.origin: Brussels, Belgium",
         },
-        {
-          id: "american-kennel-club-brussels-griffon",
-          role: "verified",
-          locator: "History: Brussels, Belgium, stable dog origins (Smousje) and royal patronage"
-        }
       ],
-      verifiedOn: "2026-11-10",
-      note: null
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
-    overview: {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-griffon-bruxellois-official-standard",
-          role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "the-kennel-club-griffon-bruxellois-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Characteristics, Temperament"
-        },
-        {
-          id: "american-kennel-club-brussels-griffon",
-          role: "verified",
-          locator: "About the Breed, History, and Roles"
-        }
-      ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesized in original prose from FCI Standard No. 80, The Royal Kennel Club, and AKC official records."
-    },
-
-    physical: {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-griffon-bruxellois-official-standard",
-          role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
-        },
-        {
-          id: "the-kennel-club-griffon-bruxellois-breed-standard",
-          role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Mouth, Body, Tail, Coat, Colour, Weight"
-        },
-        {
-          id: "akc-brussels-griffon-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Size, Head, Undershot bite, Coat, Color"
-        }
-      ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Conformation, square cobby build, harsh red wire coat, undershot jaw, and distinctive features follow official standards."
-    },
-
-    "physical.height": {
+    "origin.region": {
       reliability: "reliable_source",
       sources: [
         {
           id: "american-kennel-club-brussels-griffon",
           role: "verified",
-          locator: "Height: 7 to 10 inches (approx. 18 to 25 cm)"
-        }
+          locator: "History (Brussels, Belgium)",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin: Brussels, Belgium",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FCI Standard No. 80 and The Royal Kennel Club standard define size exclusively by weight rather than height. The recorded range of 18 to 25 cm reflects standard breed literature and corresponding 7 to 10 inch parameters, preserved in centimetres."
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
-    "physical.weight": {
+    "overview.summary": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-griffon-bruxellois-official-standard",
           role: "verified",
-          locator: "WEIGHT: From 3.5 kg to 6 kg."
+          locator: "General Appearance, Coat, Colour, Behaviour/Temperament",
+        },
+        {
+          id: "royal-kennel-club-griffon-bruxellois",
+          role: "cited",
+          locator: "Characteristics & General Appearance",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
+
+    "overview.description": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-griffon-bruxellois-official-standard",
+          role: "verified",
+          locator: "General Appearance, Head, Coat, Colour",
+        },
+        {
+          id: "royal-kennel-club-griffon-bruxellois",
+          role: "verified",
+          locator: "Characteristics, Eyes, Body",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
+
+    "overview.history": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "fci-griffon-bruxellois-official-standard",
+          role: "verified",
+          locator: "Brief Historical Summary (Smousje, Pug and King Charles Spaniel crosses, Queen Marie Henriette)",
         },
         {
           id: "the-kennel-club-griffon-bruxellois-breed-standard",
           role: "verified",
-          locator: "Weight: 3.2-5 kgs (7-11 lbs); most desirable 3.6-4.5 kgs (8-10 lbs)"
-        }
+          locator: "About this breed (Belgium, stable watchdog and ratter)",
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.history",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Preserved in published unit of kilograms (3.5 to 6 kg) exactly as specified in the official FCI Standard No. 80."
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
+
+    "overview.originalPurpose": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-griffon-bruxellois-official-standard",
+          role: "verified",
+          locator: "Brief Historical Summary & Utilization",
+        },
+        {
+          id: "the-kennel-club-griffon-bruxellois-breed-standard",
+          role: "verified",
+          locator: "About this breed (stable watchdog and rodent control)",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
+
+    "overview.currentRoles": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "american-kennel-club-brussels-griffon",
+          role: "verified",
+          locator: "About the Breed & Toy Group companion roles",
+        },
+        {
+          id: "the-kennel-club-griffon-bruxellois-breed-standard",
+          role: "verified",
+          locator: "The Toy breed group (companion and lap dog)",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
+
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-griffon-bruxellois-official-standard",
+          role: "verified",
+          locator: "Group 9 Companion and Toy Dogs; Weight 3.5–6 kg",
+        },
+        {
+          id: "akc-brussels-griffon-breed-standard",
+          role: "verified",
+          locator: "General Appearance: A toy dog",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
+
+    "physical.height.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric: 18–25 cm",
+        },
+        {
+          id: "american-kennel-club-brussels-griffon",
+          role: "conflicting",
+          locator: "Height: 7–10 inches",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: "FCI Standard No. 80 and The Royal Kennel Club standard specify size by weight only; stored in cm from The Dog API (18–25 cm), while AKC lists 7–10 inches.",
+    },
+
+    "physical.height.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric: 18–25 cm",
+        },
+        {
+          id: "american-kennel-club-brussels-griffon",
+          role: "conflicting",
+          locator: "Height: 7–10 inches",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: "FCI Standard No. 80 and The Royal Kennel Club standard specify size by weight only; stored in cm from The Dog API (18–25 cm), while AKC lists 7–10 inches.",
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-griffon-bruxellois-official-standard",
+          role: "verified",
+          locator: "WEIGHT: Varies from 3.5 to 6 kg",
+        },
+        {
+          id: "royal-kennel-club-griffon-bruxellois",
+          role: "conflicting",
+          locator: "Weight: 3.2–5 kg (most desirable 3.6–4.5 kg)",
+        },
+        {
+          id: "akc-brussels-griffon-breed-standard",
+          role: "conflicting",
+          locator: "Weight: usually 8 to 10 pounds, not to exceed 12 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric: 4–5 kg",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: "Country-of-origin FCI Standard No. 80 specifies 3.5 to 6 kg; RKC lists 3.2–5 kg, AKC lists 8–10 lb (max 12 lb), and The Dog API lists 4–5 kg.",
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-griffon-bruxellois-official-standard",
+          role: "verified",
+          locator: "WEIGHT: Varies from 3.5 to 6 kg",
+        },
+        {
+          id: "royal-kennel-club-griffon-bruxellois",
+          role: "conflicting",
+          locator: "Weight: 3.2–5 kg (most desirable 3.6–4.5 kg)",
+        },
+        {
+          id: "akc-brussels-griffon-breed-standard",
+          role: "conflicting",
+          locator: "Weight: usually 8 to 10 pounds, not to exceed 12 pounds",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric: 4–5 kg",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: "Country-of-origin FCI Standard No. 80 specifies 3.5 to 6 kg without sex separation.",
     },
 
     "physical.lifespanYears": {
@@ -593,16 +646,70 @@ references: [
         {
           id: "american-kennel-club-brussels-griffon",
           role: "verified",
-          locator: "Life Expectancy: 12-15 years"
+          locator: "Life Expectancy: 12–15 years",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span: 12–15",
         },
         {
           id: "the-kennel-club-griffon-bruxellois-breed-standard",
-          role: "verified",
-          locator: "Longevity and health actuarial profile (12-14 years)"
-        }
+          role: "cited",
+          locator: "Breed characteristics: Lifespan Over 12 years",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and parent club actuarial profiles."
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
+
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-griffon-bruxellois-official-standard",
+          role: "verified",
+          locator: "Quality of coat: rough-coated with undercoat (harsh, wiry)",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
+
+    "physical.coatLength": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-kennel-club-griffon-bruxellois-breed-standard",
+          role: "verified",
+          locator: "Breed characteristics: Coat length Medium",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
+
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-griffon-bruxellois-official-standard",
+          role: "verified",
+          locator: "Colour — Griffon Bruxellois: Red, reddish; a little black tolerated on beard and moustache",
+        },
+        {
+          id: "royal-kennel-club-griffon-bruxellois",
+          role: "conflicting",
+          locator: "Groups red, black, and black and tan together under Griffon Bruxellois",
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours (includes species-wide non-standard entries like Blue, Brindle, Merle, White)",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: "FCI Standard No. 80 restricts Griffon Bruxellois to red/reddish (with slight black on beard/moustache), while black and black-and-tan belong to Griffon Belge (FCI No. 81). RKC and AKC register all colors under one breed name.",
     },
 
     "physical.sheddingLevel": {
@@ -611,16 +718,11 @@ references: [
         {
           id: "american-kennel-club-brussels-griffon",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (1/5 to 2/5)"
+          locator: "Breed Traits & Characteristics: Shedding Level",
         },
-        {
-          id: "fci-griffon-bruxellois-official-standard",
-          role: "verified",
-          locator: "COAT: Harsh, wiry coat with undercoat; low shedding when hand-stripped"
-        }
       ],
-      verifiedOn: "2026-11-10",
-      note: null
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     "physical.droolingLevel": {
@@ -629,16 +731,29 @@ references: [
         {
           id: "american-kennel-club-brussels-griffon",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5 to 2/5)"
+          locator: "Breed Traits & Characteristics: Drooling Level",
         },
+      ],
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
+
+    "physical.distinctiveFeatures": {
+      reliability: "official_standard",
+      sources: [
         {
           id: "fci-griffon-bruxellois-official-standard",
           role: "verified",
-          locator: "Lips: Black, tight fitting, no hanging lips"
-        }
+          locator: "Head, Eyes, Ears, Mouth, Body, Coat",
+        },
+        {
+          id: "royal-kennel-club-griffon-bruxellois",
+          role: "verified",
+          locator: "Characteristics, Eyes, Body",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note: "Tight-fitting lips prevent drooling."
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     "temperament.traits": {
@@ -647,21 +762,21 @@ references: [
         {
           id: "fci-griffon-bruxellois-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Well-balanced, alert, proud, very loyal to master, very watchful; neither timid nor aggressive"
-        },
-        {
-          id: "the-kennel-club-griffon-bruxellois-breed-standard",
-          role: "verified",
-          locator: "Characteristics and Temperament: Alert, spirited, confident, lively"
+          locator: "Behaviour/Temperament",
         },
         {
           id: "akc-brussels-griffon-breed-standard",
           role: "verified",
-          locator: "Temperament: Intelligent, alert, full of self-importance, sensitive"
-        }
+          locator: "Temperament",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note: null
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     "temperament.scores": {
@@ -670,36 +785,11 @@ references: [
         {
           id: "american-kennel-club-brussels-griffon",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics",
         },
-        {
-          id: "the-kennel-club-griffon-bruxellois-breed-standard",
-          role: "cited",
-          locator: "Temperament and behavior guidance"
-        }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented toy companion temperament and sensitive family devotion."
-    },
-
-    care: {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "american-kennel-club-brussels-griffon",
-          role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "abga-brussels-griffon-health-syringomyelia",
-          role: "cited",
-          locator: "Care, harness usage, and coat hand-stripping guidelines"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Combines toy companion care with wire-coat hand-stripping and brachycephalic airway precautions."
+      note: "Editorial 1–5 ratings informed by kennel club trait profiles.",
     },
 
     "care.exercise.level": {
@@ -708,16 +798,16 @@ references: [
         {
           id: "the-kennel-club-griffon-bruxellois-breed-standard",
           role: "verified",
-          locator: "Exercise requirements: Up to 30 minutes per day"
+          locator: "Breed characteristics: Exercise Up to 30 minutes per day",
         },
         {
           id: "american-kennel-club-brussels-griffon",
-          role: "verified",
-          locator: "Energy Level (3/5); Exercise Needs (2/5 to 3/5)"
-        }
+          role: "cited",
+          locator: "Exercise section",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note: null
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     "care.exercise.minutesPerDay": {
@@ -726,71 +816,94 @@ references: [
         {
           id: "the-kennel-club-griffon-bruxellois-breed-standard",
           role: "cited",
-          locator: "Exercise: Up to 30 minutes daily"
+          locator: "Breed characteristics: Exercise Up to 30 minutes per day",
         },
+      ],
+      verifiedOn: null,
+      note: "Estimated 30 to 45 minutes of gentle daily walking and indoor play.",
+    },
+
+    "care.exercise.activities": {
+      reliability: "general_guidance",
+      sources: [
         {
           id: "american-kennel-club-brussels-griffon",
           role: "cited",
-          locator: "Exercise needs"
-        }
+          locator: "Exercise section",
+        },
       ],
       verifiedOn: null,
-      note:
-        "Estimated 30 to 45 minutes of daily activity reflects the moderate exercise demands of a companion toy breed."
+      note: null,
+    },
+
+    "care.grooming": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-kennel-club-griffon-bruxellois-breed-standard",
+          role: "verified",
+          locator: "Breed characteristics: Grooming More than once a week",
+        },
+        {
+          id: "american-kennel-club-brussels-griffon",
+          role: "verified",
+          locator: "Grooming section",
+        },
+      ],
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
+
+    "care.training": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "american-kennel-club-brussels-griffon",
+          role: "cited",
+          locator: "Training section",
+        },
+      ],
+      verifiedOn: null,
+      note: null,
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-brussels-griffon",
-          role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (5/5)"
-        },
-        {
           id: "the-kennel-club-griffon-bruxellois-breed-standard",
           role: "verified",
-          locator: "Living environment: Flat/Apartment suitable"
-        }
+          locator: "Breed characteristics: Size of home Flat/ Apartment",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note: null
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-brussels-griffon",
-          role: "verified",
-          locator: "Exercise and secure yard play"
-        },
-        {
           id: "the-kennel-club-griffon-bruxellois-breed-standard",
           role: "verified",
-          locator: "Living environment: Small garden suitable"
-        }
+          locator: "Breed characteristics: Size of garden Small/ medium garden",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note: null
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     "care.livingEnvironment.climates": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-griffon-bruxellois-official-standard",
+          id: "the-kennel-club-griffon-bruxellois-breed-standard",
           role: "verified",
-          locator: "Brachycephalic flat muzzle requiring climate precautions"
+          locator: "Health issues in flat-faced dogs (breathing and heat sensitivity)",
         },
-        {
-          id: "american-kennel-club-brussels-griffon",
-          role: "verified",
-          locator: "Weather sensitivity: heat sensitivity due to short muzzle"
-        }
       ],
-      verifiedOn: "2026-11-10",
-      note: null
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
@@ -799,11 +912,11 @@ references: [
         {
           id: "american-kennel-club-brussels-griffon",
           role: "verified",
-          locator: "Tolerates Being Alone: Low rating (1/5 to 2/5); velcro companion"
-        }
+          locator: "About the Breed & Companionship needs",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note: null
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     nutrition: {
@@ -812,25 +925,11 @@ references: [
         {
           id: "american-kennel-club-brussels-griffon",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
-        }
+          locator: "Nutrition section",
+        },
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for small brachycephalic companion dogs."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "american-kennel-club-brussels-griffon",
-          role: "cited",
-          locator: "Life-stage nutrition and juvenile meal schedules"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null,
     },
 
     "health.overview": {
@@ -839,22 +938,26 @@ references: [
         {
           id: "griffon-bruxellois-syringomyelia-mri-study-2014",
           role: "verified",
-          locator: "Prevalence of Chiari-like malformation and syringomyelia in Griffon Bruxellois"
+          locator: "Results (84 Brussels Griffons: 65% CM, 52% SM, 28% neurologic deficits, 20% neck pain, 52% of SM dogs clinically normal)",
         },
         {
-          id: "ofa-brussels-griffon-chic-requirements",
+          id: "griffon-bruxellois-cm-sm-quantitative-2014",
           role: "verified",
-          locator: "CHIC Program requirements: Eye Examination, Patellar Luxation, Cardiac Exam"
+          locator: "Abstract (quantitative MRI analysis of CM and SM in Griffon Bruxellois)",
         },
         {
-          id: "abga-brussels-griffon-health-syringomyelia",
+          id: "griffon-bruxellois-sm-breeding-guidelines-2011",
           role: "verified",
-          locator: "Health priorities: Syringomyelia MRI screening, BOAS, eyes, patellas, and breeding guidelines"
-        }
+          locator: "Abstract (93 Griffon Bruxellois: 73% SM-free offspring when both parents SM-free vs 100% SM-affected when both parents SM-affected)",
+        },
+        {
+          id: "the-kennel-club-griffon-bruxellois-breed-standard",
+          role: "verified",
+          locator: "Health section (BOAS respiratory function grading, eye testing, dental crowding)",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesizes peer-reviewed veterinary neurology research on syringomyelia with health registry screening requirements."
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     "health.commonConditions": {
@@ -863,77 +966,80 @@ references: [
         {
           id: "griffon-bruxellois-syringomyelia-mri-study-2014",
           role: "verified",
-          locator: "Chiari-like malformation, syringomyelia, and neuropathic pain in Griffon Bruxellois"
-        },
-        {
-          id: "abga-brussels-griffon-health-syringomyelia",
-          role: "verified",
-          locator: "BOAS, patellar luxation, eye ulcers, cataracts, and whelping dystocia"
+          locator: "Abstract & Results (Chiari-like malformation and syringomyelia)",
         },
         {
           id: "the-kennel-club-griffon-bruxellois-breed-standard",
           role: "verified",
-          locator: "Breed health concerns: Breed Watch category points (eyes, breathing, and facial folds)"
-        }
+          locator: "Health issues in flat-faced dogs (BOAS, dental crowding, Breed Watch Category 2)",
+        },
+        {
+          id: "american-brussels-griffon-association-health",
+          role: "verified",
+          locator: "Health research (patellar luxation, eye exams, CM/SM, BOAS)",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "abga-brussels-griffon-health-syringomyelia",
+          id: "american-brussels-griffon-association-health",
           role: "cited",
-          locator: "Preventive care, MRI testing verification, harness usage, and temperature management"
+          locator: "Health research and breeder education",
         },
         {
-          id: "american-kennel-club-brussels-griffon",
+          id: "the-kennel-club-griffon-bruxellois-breed-standard",
           role: "cited",
-          locator: "Routine care and veterinary wellness"
-        }
+          locator: "Health issues in flat-faced dogs & Teeth problems",
+        },
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to flat-faced toy companions."
+      note: null,
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "the-kennel-club-griffon-bruxellois-breed-standard",
+          role: "verified",
+          locator: "Pre-breeding Health Screening (BVA/KC/ISDS Eye Scheme; Respiratory Function Grading for BOAS recognized Aug 2026)",
+        },
+        {
           id: "abga-brussels-griffon-health-syringomyelia",
           role: "verified",
-          locator: "Recommended screening: MRI scan for Chiari-like malformation/Syringomyelia"
+          locator: "ABGA Code of Ethics (CHIC program, syringomyelia MRI, PRA, hips, thyroid)",
         },
         {
           id: "ofa-brussels-griffon-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: CAER Eye examination, Patellar Luxation grading, Cardiac evaluation"
-        }
+          locator: "CHIC requirements (eyes, patellas, cardiac)",
+        },
+        {
+          id: "griffon-bruxellois-sm-breeding-guidelines-2011",
+          role: "cited",
+          locator: "Recommendation for MRI screening of breeding stock",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     "health.dentalCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-griffon-bruxellois-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: undershot, incisors forming regular line"
+          id: "the-kennel-club-griffon-bruxellois-breed-standard",
+          role: "verified",
+          locator: "Teeth problems (shortened jaw causing tooth overcrowding and gum problems)",
         },
-        {
-          id: "american-kennel-club-brussels-griffon",
-          role: "cited",
-          locator: "Dental crowding and routine home care"
-        }
       ],
-      verifiedOn: null,
-      note: "Standard home dental hygiene guidelines for undershot toy jaws."
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     "health.earCare": {
@@ -942,16 +1048,11 @@ references: [
         {
           id: "fci-griffon-bruxellois-official-standard",
           role: "cited",
-          locator: "Ears: small, set high, carried semi-erect and folding forward"
+          locator: "Ears: small, high-set, semi-erect",
         },
-        {
-          id: "american-kennel-club-brussels-griffon",
-          role: "cited",
-          locator: "Ear hygiene and inspection"
-        }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for small drop ears."
+      note: null,
     },
 
     "health.skinCare": {
@@ -960,53 +1061,47 @@ references: [
         {
           id: "fci-griffon-bruxellois-official-standard",
           role: "cited",
-          locator: "Facial hair furnishings and skin fold care"
+          locator: "Facial furnishings and short muzzle",
         },
-        {
-          id: "abga-brussels-griffon-health-syringomyelia",
-          role: "cited",
-          locator: "Facial fold hygiene"
-        }
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for breeds with facial skin folds."
+      note: null,
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
         {
-          id: "american-kennel-club-brussels-griffon",
-          role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
           id: "the-kennel-club-griffon-bruxellois-breed-standard",
           role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
-        }
+          locator: "Breed characteristics (Flat/Apartment, Up to 30 min exercise)",
+        },
+        {
+          id: "american-kennel-club-brussels-griffon",
+          role: "cited",
+          locator: "About the Breed & Breed Traits",
+        },
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, fragile toy size, and household adaptability."
+      note: "Editorial suitability assessment based on toy size, low exercise needs, sensitivity, and companionship demands.",
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "american-kennel-club-brussels-griffon",
-          role: "verified",
-          locator: "Pop culture (As Good as It Gets film), Star Wars Ewok design inspiration, Queen Marie Henriette royal patronage"
-        },
-        {
           id: "fci-griffon-bruxellois-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Smousje origin, three Belgian varieties (Standards 80, 81, and 82)"
-        }
+          locator: "Brief Historical Summary (three Belgian varieties FCI 80/81/82; Queen Marie Henriette)",
+        },
+        {
+          id: "american-kennel-club-brussels-griffon",
+          role: "verified",
+          locator: "History & pop-culture references",
+        },
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and cultural heritage facts."
+      verifiedOn: "2026-11-19",
+      note: null,
     },
 
     faq: {
@@ -1015,34 +1110,28 @@ references: [
         {
           id: "fci-griffon-bruxellois-official-standard",
           role: "verified",
-          locator: "Origin, weight (3.5-6 kg), coat, colors, and three-breed comparison"
+          locator: "Weight (3.5–6 kg), Coat, Colour, and three Belgian varieties",
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric (18–25 cm) & breed.life_span (12–15 years)",
         },
         {
           id: "the-kennel-club-griffon-bruxellois-breed-standard",
           role: "verified",
-          locator: "Characteristics and temperament"
-        },
-        {
-          id: "american-kennel-club-brussels-griffon",
-          role: "verified",
-          locator: "Lifespan (12-15 years), grooming, apartment suitability, and training"
+          locator: "Breed characteristics & Pre-breeding health screening",
         },
         {
           id: "griffon-bruxellois-syringomyelia-mri-study-2014",
           role: "verified",
-          locator: "Syringomyelia and Chiari-like malformation screening"
+          locator: "CM/SM MRI screening",
         },
-        {
-          id: "ofa-brussels-griffon-chic-requirements",
-          role: "verified",
-          locator: "Recommended health screening panel"
-        }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
-    }
+      verifiedOn: "2026-11-19",
+      note: null,
+    },
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-19",
 };

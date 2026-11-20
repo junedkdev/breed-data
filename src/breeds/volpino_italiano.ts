@@ -373,7 +373,7 @@ export const volpino_italiano: Breed = {
     "fci-volpino-italiano-nomenclature",
     "enci-volpino-italiano-profile",
     "akc-volpino-italiano-breed-profile",
-    "gould-2011-adamts17-pll-study",
+    "pubmed-gould-2011-adamts17-lens-luxation",
     "donner-2018-canine-genetic-variants-study",
     "wikimedia-italianvolpino2-canarian",
     "wikimedia-cucciolo-volpino-italiano-rosso-cinvic"
@@ -717,7 +717,7 @@ export const volpino_italiano: Breed = {
           locator: "Riproduzione Selezionata: Patologia 1 Oculopatie ereditarie; Patologia 2 Lussazione della rotula (0/1)"
         },
         {
-          id: "gould-2011-adamts17-pll-study",
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
           role: "verified",
           locator: "ADAMTS17 splice-donor mutation associated with Primary Lens Luxation across breeds including Volpino Italiano"
         },
@@ -736,7 +736,7 @@ export const volpino_italiano: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "gould-2011-adamts17-pll-study",
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
           role: "verified",
           locator: "Primary Lens Luxation (PLL) caused by ADAMTS17 c.1473+1G>A mutation"
         },
@@ -778,7 +778,7 @@ export const volpino_italiano: Breed = {
           locator: "Riproduzione Selezionata requirements: Hereditary eye examination (Oculopatie ereditarie) and Patellar luxation grading (0/1)"
         },
         {
-          id: "gould-2011-adamts17-pll-study",
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
           role: "verified",
           locator: "DNA screening for ADAMTS17 Primary Lens Luxation mutation"
         }
@@ -878,7 +878,7 @@ export const volpino_italiano: Breed = {
           locator: "Weight (10-16 lb males / 8-12 lb females), lifespan (12-15 years), child supervision"
         },
         {
-          id: "gould-2011-adamts17-pll-study",
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
           role: "verified",
           locator: "Primary Lens Luxation (PLL / ADAMTS17)"
         },

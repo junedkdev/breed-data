@@ -229,6 +229,8 @@ import { miniature_schnauzer } from "./miniature_schnauzer";
 import { pyrenean_sheepdog_longhaired } from "./pyrenean_sheepdog_longhaired";
 import { polish_hunting_dog } from "./polish_hunting_dog";
 import { volpino_italiano } from "./volpino_italiano";
+import { wetterhoun } from "./wetterhoun";
+import { labradoodle } from "./labradoodle";
 
 
 export const breedData: readonly Breed[] = [
@@ -457,4 +459,6 @@ export const breedData: readonly Breed[] = [
   pyrenean_sheepdog_longhaired,
   polish_hunting_dog,
   volpino_italiano,
+  wetterhoun,
+  labradoodle,
 ];
