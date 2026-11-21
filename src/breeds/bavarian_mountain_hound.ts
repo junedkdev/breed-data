@@ -376,7 +376,7 @@ export const bavarian_mountain_hound: Breed = {
     "akc-bavarian-mountain-scent-hound-breed-profile",
     "bmhs-gb-hip-dysplasia",
     "bmhs-gb-epilepsy",
-    "pubmed-voges-distl-2009-bavarian-mountain-hound-inbreeding",
+    "pubmed-tyrolean-hound-inbreeding-2009",
     "wikimedia-bavarian-mountain-scenthound-canarian",
     "wikimedia-deer-red-bavarian-mountain-hound-antham1616"
   ],
@@ -711,7 +711,7 @@ export const bavarian_mountain_hound: Breed = {
           locator: "Idiopathic epilepsy documented as an inherited condition in certain Bavarian Mountain Hound bloodlines, typically appearing between ages 1 and 5"
         },
         {
-          id: "pubmed-voges-distl-2009-bavarian-mountain-hound-inbreeding",
+          id: "pubmed-tyrolean-hound-inbreeding-2009",
           role: "verified",
           locator: "J Anim Breed Genet 2009;126(5):357-365 (PMID 19765162): Pedigree analysis of German Bavarian Mountain Hounds highlighting genetic-diversity management"
         }
@@ -740,7 +740,7 @@ export const bavarian_mountain_hound: Breed = {
           locator: "Serious faults: ectropion and entropion; heavy drop-ear conformation"
         },
         {
-          id: "pubmed-voges-distl-2009-bavarian-mountain-hound-inbreeding",
+          id: "pubmed-tyrolean-hound-inbreeding-2009",
           role: "verified",
           locator: "Genetic diversity and inbreeding trend monitoring in specialised tracking hound populations"
         }
@@ -764,7 +764,7 @@ export const bavarian_mountain_hound: Breed = {
           locator: "Pedigree research prior to breeding"
         },
         {
-          id: "pubmed-voges-distl-2009-bavarian-mountain-hound-inbreeding",
+          id: "pubmed-tyrolean-hound-inbreeding-2009",
           role: "cited",
           locator: "Careful breeding management to maintain genetic diversity"
         }
@@ -859,7 +859,7 @@ export const bavarian_mountain_hound: Breed = {
           locator: "1848 Revolution hunting shift, post-1870 Baron Karg-Bebenburg cross, 'Bracken Star' chest patch, strict height limits with zero departure, 1:1.15-1:1.25 body proportion"
         },
         {
-          id: "pubmed-voges-distl-2009-bavarian-mountain-hound-inbreeding",
+          id: "pubmed-tyrolean-hound-inbreeding-2009",
           role: "verified",
           locator: "2009 pedigree analysis of Bavarian Mountain Hounds recommending European studbook coordination for genetic diversity"
         }

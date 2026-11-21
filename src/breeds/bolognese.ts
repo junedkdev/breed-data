@@ -7,76 +7,75 @@ export const bolognese: Breed = {
 
   alternateNames: [
     "Bichon Bolognese",
-    "Bologneser",
     "Bolo",
-    "Bolognais",
-    "Botoli"
+    "Bologneser",
+    "Bichon Bolonais"
   ],
 
-  group:
-    "Companion and Toy Dogs; Section 1 — Bichons and Related Breeds (without working trial; also classified in the Toy and Companion groups)",
+  group: "Bichon and Related Toy Companion (Companion and Toy)",
 
   origin: {
     country: "Italy",
-    region:
-      "Bologna and the Emilia-Romagna region, northern Italy"
+    region: "Bologna, Emilia-Romagna, northern Italy"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Bolognese_1.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Bolognese_1.jpg",
-      title: "Bolognese 1.jpg",
-      description: "An adult white Bolognese standing outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 1780,
-      height: 1856,
-      licenseId: "cc-by-sa-3.0",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Male_adult_bolognese_dog.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Male_adult_bolognese_dog.jpg",
+      title: "Male adult bolognese dog.jpg",
+      description: "An adult male white Bolognese standing outdoors.",
+      creator: "Mrtibbs1999",
+      uploader: "Mrtibbs1999",
+      capturedOn: "2024-04-01",
+      uploadedOn: "2024-04-01",
+      width: 1179,
+      height: 1259,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Bolognese_1.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Mrtibbs1999, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Male_adult_bolognese_dog.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Bolognese_600.jpg",
-      sourcePage: "https://commons.wikimedia.org/wiki/File:Bolognese_600.jpg",
-      title: "Bolognese 600.jpg",
-      description: "An adult Bolognese standing outdoors in profile.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Bolo%C5%84czyk_5e3.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Bolo%C5%84czyk_5e3.jpg",
+      title: "Bolończyk 5e3.jpg",
+      description: "An adult Bolognese photographed at a dog show in Poznań.",
+      creator: "Pleple2000",
+      uploader: "Pleple2000",
+      capturedOn: "2006-11-12",
+      uploadedOn: "2006-11-21",
+      width: 2184,
+      height: 2190,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Bolognese_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Bolo%C5%84czyk_5e3.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "An enchanting, small Italian toy companion belonging to the ancient bichon family, distinguished by its pure white flocky coat, dark expressive eyes, square silhouette, serene dignity, and deeply devoted domestic loyalty.",
+      "A small, square-built Italian toy companion of the bichon family, prized for its pure white flocky coat, dark expressive eyes, calm demeanor, and deep devotion to its people.",
 
     description:
-      "The Bolognese is a small, compact, and square-built companion dog whose body length equals its height at the withers. Known for centuries as an aristocratic lapdog of Italian noble courts, the dog carries a distinctive cloud-like silhouette created by a long, airy, flocky coat that falls in open ringlet tufts rather than forming straight fringes. Its pure snow-white fur is set off by a jet-black nose, dark-rimmed lips, and large, luminous dark ochre eyes that radiate calm intelligence and steady affection. In domestic life, the dog is markedly quiet, composed, and non-hyperactive, forming an exceptionally tight emotional attachment to its human family while greeting new situations with quiet observation and gentle charm.",
+      "The Bolognese is a compact, sturdy toy dog with a square outline in which body length from shoulder to buttock equals height at the withers. Its signature feature is a long, airy, pure white coat that stands off the body in loose, fluffy flocks rather than hanging flat or forming straight fringes, contrasted by a large black nose, dark-rimmed lips, and round dark eyes. High-set hanging ears are firm enough at the base to stand slightly away from the skull, giving the head a broad, expressive frame. Quiet, observant, and deeply attached to its household, the Bolognese prefers staying close to its family and adapts smoothly to calm indoor life.",
 
     history:
-      "The origins of the breed trace back to antiquity along the Mediterranean basin, where small white lapdogs were mentioned by Aristotle as early as the fourth century BCE under the Latin designation Canes Melitenses. During the Renaissance, the breed was refined in the northern Italian city of Bologna, becoming the prized status symbol and diplomatic gift of noble dynasties including the Medici, Gonzaga, and d'Este families. Renaissance masters, including Titian, Pieter Bruegel the Elder, and Francisco Goya, immortalized these dogs in royal portraits, and historical letters record Cosimo de' Medici transporting eight puppies to Brussels as gifts for Belgian noblemen. In the eighteenth century, Madame de Pompadour and Empress Catherine the Great of Russia were passionate patrons. Following the political upheavals of the nineteenth and early twentieth centuries, the breed neared extinction, but dedicated Italian breeders successfully gathered foundation stock in the mid-twentieth century to safeguard its authentic historical type.",
+      "Named for the northern Italian city of Bologna, the Bolognese shares ancient Mediterranean ancestry with the Maltese and other white bichon lapdogs mentioned by Aristotle as Canes Melitenses. Valued in Italy as early as the 11th and 12th centuries, the breed reached peak prestige during the Renaissance as a favored companion and diplomatic gift among European courts. Cosimo de' Medici carried eight puppies to Brussels as gifts for Belgian noblemen, and King Philip II of Spain—after receiving two from the Duke d'Este—wrote that they were the most royal gift one could present to an emperor. Artists such as Titian, Pieter Bruegel the Elder, and Goya painted Bolognese dogs in noble portraits, and Flemish weavers featured them in 17th-century tapestries. Later Italian breeders preserved the breed's classic type through the 20th century, and it entered Britain in 1989.",
 
     originalPurpose:
-      "Companionship, lap-warming, and comforting presence in Italian aristocratic households and noble palaces.",
+      "Indoor lapdog and close household companion in Italian and European noble courts.",
 
     currentRoles: [
-      "Devoted household companion and family lapdog",
-      "Therapy and emotional support visiting dog",
-      "Gentle companion for apartment dwellers and retirees",
-      "Canine athlete in trick training and rally obedience"
+      "Devoted indoor family and lap companion",
+      "Calm apartment companion for retirees, seniors, and home-based owners",
+      "Therapy and visiting dog",
+      "Participant in obedience, rally, scent work, and trick training"
     ]
   },
 
@@ -113,48 +112,38 @@ export const bolognese: Breed = {
     },
 
     coatType:
-      "Long all over the body from head to tail and from topline to feet, shorter on the muzzle; rather flocky and airy, not lying flat but falling in loose tufts and ringlet flocks without forming straight fringes; single coat without a dense undercoat.",
+      "Long, airy, flocky single coat covering the body from head to tail (shorter on the muzzle), standing off the skin in loose tufts rather than lying flat or forming fringes.",
 
     coatLength: "Long",
 
     coatColors: [
-      "Pure white (solid, without any spots or shading)"
+      "Pure White"
     ],
 
-    sheddingLevel:
-      "Low; hair sheds into the flocky coat rather than onto household furnishings, requiring regular brushing to prevent tangles",
-
-    droolingLevel:
-      "Low; tight, dry lips with dark black pigmentation prevent drooling",
+    sheddingLevel: "Low",
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Square, compact body outline with height at withers exactly equal to the length of the torso",
-      "Height at withers of 27 to 30 cm for males and 25 to 28 cm for females",
-      "Weight of 2.5 to 4 kg in lean, well-balanced condition",
-      "Solid pure white, flocky, and airy coat draped in open locks across the body without undercoat",
-      "Medium-length head with flat skull, slightly convex profile, and a clearly defined, abrupt stop",
-      "Large, jet-black nose set in line with the straight nasal bridge",
-      "Complete scissor bite with strong jaws and evenly aligned white teeth",
-      "Large, round, luminous dark ochre eyes set well forward, framed by black-pigmented eye rims",
-      "Long, high-set drop ears hanging close to the skull with bases slightly raised, covered in long flocky hair",
-      "Straight, level back with a slightly arched loin and wide, gently sloping croup",
-      "High-set tail carried curved smoothly over the back, furnished with profuse flocky hair",
-      "Straight forelegs with small, oval cat-like feet featuring black pads and dark nails"
+      "Square, compact build where body length matches height at the withers",
+      "Pure white, fluffy flocky coat worn naturally untrimmed without sculpted styling",
+      "Large, round dark eyes framed by black-pigmented rims and a large black nose",
+      "High-set, long hanging ears that are firm at the base and stand slightly away from the skull, making the head look broader",
+      "Straight back with a slightly convex loin and a high-set tail curving smoothly over the back",
+      "Tightly pigmented dark lips and complete scissor bite"
     ]
   },
 
   temperament: {
     traits: [
-      "Calm, serene, and dignified in everyday demeanor",
-      "Deeply affectionate, loyal, and devoted to family members",
-      "Docile, gentle, and cooperative to live with",
-      "Enterprising and curious during playtime",
-      "Quiet and non-yappy indoors, barking primarily to announce arrivals",
-      "Reserved and observant with unfamiliar strangers without timidity or aggression",
-      "Patient and sweet-natured with familiar, respectful children",
-      "Sociable and peaceful with other dogs and household pets",
-      "Sensitive to household tone and human emotional states",
-      "Forms an intense, shadow-like bond with its primary caregiver"
+      "Serene",
+      "Calm",
+      "Devoted",
+      "Affectionate",
+      "Docile",
+      "Playful",
+      "Intelligent",
+      "Observant",
+      "Reserved with strangers"
     ],
 
     scores: {
@@ -172,143 +161,108 @@ export const bolognese: Breed = {
 
   care: {
     exercise: {
-      level:
-        "Moderate; requires daily leisurely walking, playful interaction, and mental engagement, but possesses modest athletic demands",
-
+      level: "Moderate",
       minutesPerDay: {
         min: 30,
         max: 45
       },
-
       activities: [
-        "Daily leashed neighborhood strolls and sensory sniff walks",
-        "Interactive indoor fetch and soft toy play sessions",
-        "Reward-based trick training and learning household cues",
-        "Supervised exploration in a secure garden or yard",
-        "Gentle puzzle toys, snuffle mats, and foraging games",
-        "Social companion visits and therapy dog activities"
+        "Daily leisurely neighborhood walks",
+        "Indoor ball rolling, hide-and-seek, and soft toy play",
+        "Short trick-training and scent-work games",
+        "Supervised playtime in a securely fenced yard"
       ]
     },
 
     grooming: {
       level: "High",
-
-      brushing:
-        "Brush and line-comb thoroughly three to four times weekly using a wide-toothed metal comb and pin brush down to the skin to prevent the flocky locks from felting into mats; avoid slicker brushes that break the delicate curls.",
-
-      bathing:
-        "Bathe every three to six weeks using a gentle, whitening or moisturizing canine shampoo and conditioner; allow the coat to air-dry naturally or dry with gentle warm air, gently fluffing the locks with fingers to preserve the natural flocky ringlet texture.",
-
+      brushing: "Comb and brush gently three to four times weekly down to the skin to keep the fluffy flocks tangle-free",
+      bathing: "Occasional baths as needed with a gentle dog shampoo to keep the white coat clean and bright",
       notes: [
-        "The coat must not be sheared, sculpted, or clipped in artificial patterns; it should be kept in its natural, flocky, fluffy state, with only sanitary and pad trims.",
-        "Wipe tear stains from the eye corners daily with a damp cotton pad to preserve gleaming white facial hair.",
-        "Wipe and dry the muzzle hair after meals and drinking to prevent food crusting and moisture discoloration.",
-        "Inspect the drop ears weekly for moisture, wax buildup, or debris, cleaning gently with a veterinary ear solution.",
-        "Trim nails every two to three weeks to prevent splayed toes and preserve correct cat-like foot posture.",
-        "Brush teeth daily with canine enzymatic toothpaste to prevent periodontal tartar buildup common in toy breeds."
+        "Keep the coat in its natural, untrimmed flocky state for traditional presentation, trimming only around the eyes and sanitary areas; many pet owners opt for a shorter all-over trim for simpler daily upkeep.",
+        "Wipe around the eyes regularly to limit tear staining and clean the muzzle after meals.",
+        "Check the long hanging ears weekly for wax or debris and trim nails regularly.",
+        "Brush teeth often to reduce plaque buildup common in toy mouths."
       ]
     },
 
     training: {
-      difficulty:
-        "Easy to moderate; exceptionally intelligent, docile, and eager to please, learning cues and household routines rapidly under positive reinforcement",
-
+      difficulty: "Easy",
       tips: [
-        "Use positive reinforcement, gentle praise, and small high-value treats.",
-        "Keep sessions brief, cheerful, and interactive (5 to 10 minutes) to match toy attention spans.",
-        "Start consistent house-training early on a predictable outdoor schedule, as small toy bladders require patience.",
-        "Never use harsh verbal reprimands or physical coercion, which deeply distress this sensitive companion.",
-        "Practice calm, gradual departure routines from puppyhood to prevent excessive clinginess or separation anxiety.",
-        "Accustom the puppy early to gentle handling of feet, teeth, ears, and coat during daily cuddle sessions."
+        "Use gentle, reward-based training with small treats and warm praise; harsh corrections upset this sensitive companion.",
+        "Keep sessions short, playful, and consistent, especially during early house-training.",
+        "Set calm, clear household rules so the dog does not develop pushy 'small dog' habits.",
+        "Practice gradual, low-stress alone-time routines early to help reduce separation anxiety."
       ],
-
       socialization:
-        "Introduce the puppy early, gently, and positively to diverse people, friendly vaccinated dogs, household appliances, traffic sounds, and novel surfaces. Early structured social guidance ensures its natural reservedness develops into calm, dignified composure in public."
+        "Introduce puppies gently to unfamiliar people, calm dogs, and everyday sights and sounds so their natural reserve warms smoothly into friendly confidence."
     },
 
     livingEnvironment: {
       apartmentSuitable: true,
       houseWithYardSuitable: true,
-
-      climates: [
-        "Temperate climates",
-        "Warm climates, provided indoor air conditioning, shade, and fresh water are available and exercise is scheduled during cooler hours",
-        "Cold climates, provided the dog lives indoors in a heated home and wears a warm sweater during freezing winter outings"
-      ],
-
-      aloneTimeTolerance:
-        "Low; intensely bonded to its human family and prone to separation distress, whimpering, or sadness if left isolated for long workdays without companionship."
+      climates: ["Temperate", "Warm"],
+      aloneTimeTolerance: "Low"
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for toy or small companion breeds, adjusted for age, activity level, and metabolic rate.",
+      "Complete, balanced toy-breed dog food matched to the dog's life stage and modest activity level.",
 
     feedingFrequency: {
-      puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a small-breed growth diet to support steady blood sugar levels.",
-      adult:
-        "Two measured meals daily to support steady energy and comfortable digestion.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and dental health."
+      puppy: "Three to four small measured meals daily until six months old, then two meals",
+      adult: "Two measured meals per day",
+      senior: "Two smaller, portion-controlled meals per day"
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, square body condition where ribs are easily felt through the flocky coat. Select small, easily chewed kibble designed for toy jaws, use narrow food dishes to keep ear furnishings clean, and provide fresh drinking water continuously in a shallow bowl.",
+      "Measure meals carefully and keep training treats modest, because small companion dogs can gain weight easily. Choose small kibble suited to tiny jaws and keep fresh drinking water available at all times.",
 
     considerations: [
-      "Maintain a lean body condition; excess weight places unnecessary mechanical strain on delicate stifle and hip joints.",
-      "Account for training treats within the total daily caloric allowance to avoid creeping weight gain.",
-      "Select small-bite kibbles designed for toy mouths to promote chewing and reduce tartar formation.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water in accessible shallow dishes.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Watch calorie intake closely to prevent excess weight that strains small knee joints.",
+      "Offer small-bite food and shallow bowls to keep long facial hair cleaner.",
+      "Transition gradually when changing diets and avoid fatty table scraps."
     ],
 
     note:
-      "Caloric needs vary based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Confirm exact daily portions and any special dietary needs with your veterinarian."
   },
 
   health: {
     overview:
-      "The Bolognese is a remarkably healthy, robust, and long-lived toy breed with a typical lifespan of 12 to 14 years. Having been preserved through centuries without extreme conformational exaggeration or flat-faced brachycephaly, it enjoys strong overall vitality. Primary health priorities focus on orthopedic and ocular conditions seen across small toy dogs, including patellar luxation, progressive retinal atrophy (PRA), hereditary cataracts, Legg-Calvé-Perthes disease, and premature periodontal disease.",
+      "The Bolognese is generally a healthy, sturdy toy breed with a typical lifespan of 12 to 14 years. No breed-wide severe conformational exaggerations affect the breed, and health screening focuses on orthopedic and eye conditions monitored in small companion dogs—especially patellar luxation and inherited retinal or lens disorders—alongside routine dental care for compact toy jaws.",
 
     commonConditions: [
-      "Patellar luxation — displacement of the kneecap from the femoral groove causing intermittent hopping or hind-limb lameness, monitored through clinical orthopedic grading",
-      "Progressive retinal atrophy (PRA) — an inherited neurodegenerative eye disorder causing gradual photoreceptor deterioration and eventual blindness, screenable through veterinary ophthalmic examinations",
-      "Hereditary cataracts — clouding of the eye lens that can impair vision, monitored through annual certified ophthalmologist examinations",
-      "Legg-Calvé-Perthes disease — aseptic necrosis of the femoral head occurring in young toy dogs, leading to hip pain, lameness, and secondary osteoarthritis",
-      "Periodontal disease — tartar buildup, gingivitis, and premature tooth loss common in small jaws, preventable through daily home tooth brushing",
-      "Epiphora (tear staining) — excessive tear production or shallow tear ducts causing reddish-brown facial staining, managed with daily wiping and gentle hygiene",
-      "Hypoglycemia in tiny puppies — transient drops in blood glucose during periods of stress or missed meals in young toy puppies"
+      "Patellar luxation — slipping of the kneecap out of its normal groove, a primary orthopedic screening focus in toy breeds",
+      "Progressive retinal atrophy (PRA-prcd) and other inherited eye anomalies — monitored through genetic testing and routine veterinary eye exams",
+      "Hereditary cataracts — lens clouding screened through periodic ophthalmologist examinations",
+      "Legg-Calvé-Perthes disease — a hip-joint bone blood-supply condition occasionally reported in small toy dogs",
+      "Periodontal disease — tartar accumulation and gum inflammation common in crowded toy mouths without regular brushing",
+      "Tear staining (epiphora) — brownish staining beneath the eyes caused by tearing on white facial hair, managed through routine wiping"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified clinical patellar luxation clearances and annual certified veterinary ophthalmologist eye clearances.",
-      "Maintain a lean body condition throughout life to minimize mechanical wear on stifles and hips.",
-      "Wipe facial eye corners daily with a damp cotton pad to prevent tear staining and skin irritation.",
-      "Brush teeth daily with dog-specific enzymatic toothpaste to counter dental plaque and tartar.",
-      "Inspect the drop ears weekly for wax buildup, moisture, or dirt, wiping gently with an approved cleanser.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Ask breeders for documented clearances on patella evaluations, veterinary eye exams, and PRA-prcd genetic testing.",
+      "Brush teeth regularly and schedule routine veterinary dental checks.",
+      "Maintain a healthy, lean weight to protect knees and hips, and keep up with annual wellness exams and parasite prevention."
     ],
 
     recommendedScreenings: [
-      "Clinical patellar luxation orthopedic evaluation and grading prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Radiographic hip evaluation for Legg-Calvé-Perthes disease and hip dysplasia",
-      "Cardiac examination including auscultation by a veterinary specialist"
+      "Patella orthopedic evaluation",
+      "PRA-prcd DNA test",
+      "Veterinary ophthalmologist eye examination",
+      "Cardiac examination"
     ],
 
     dentalCare:
-      "Brush teeth daily with canine enzymatic toothpaste. Small toy mouths have crowded dentition that easily accumulates tartar; routine professional dental cleanings preserve gum health.",
+      "Brush teeth several times a week—ideally daily—using dog-safe toothpaste, and schedule routine veterinary dental exams to keep small jaws healthy.",
 
     earCare:
-      "Inspect the flocky drop ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check the long, well-coated hanging ears weekly for wax buildup, odor, or redness, and clean gently with a vet-approved solution.",
 
     skinCare:
-      "Part the flocky coat weekly during combing to inspect the skin for external parasites, redness, or mats. Avoid shaving the coat, as regular combing preserves skin aeration and the natural tufted coat texture."
+      "Part the flocky white coat during regular combing to inspect the skin for tangles, dryness, redness, or parasites."
   },
 
   suitability: {
@@ -319,81 +273,58 @@ export const bolognese: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "First-time dog owners seeking an easy-to-train, gentle, and quiet toy companion",
-      "Apartment, condominium, or urban dwellers wanting a calm indoor pet that rarely barks",
-      "Retirees, seniors, or remote workers who spend substantial time at home",
-      "Families with gentle children who treat small toy dogs with respect and care",
-      "Owners committed to regular coat line-combing and daily indoor companionship"
+      "Home-based owners, retirees, and seniors who can offer steady daily companionship",
+      "Apartment or house dwellers looking for a calm, quiet, low-shedding toy dog",
+      "First-time dog owners ready for regular coat brushing and gentle training",
+      "Families with calm, respectful children who handle small dogs carefully"
     ],
 
     notIdealFor: [
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "Households with rough toddlers who might accidentally drop or injure a small toy dog",
-      "Outdoor enthusiasts seeking an endurance distance-running partner",
-      "People seeking an aggressive guard dog that barks loudly at boundaries",
-      "Owners unwilling to dedicate time to weekly coat brushing and tear-stain maintenance"
+      "Households away on long full-time workdays, as the breed is prone to separation anxiety",
+      "Owners unwilling to commit to frequent combing and eye-area coat care",
+      "Homes with rough toddlers who might accidentally injure a small toy dog",
+      "People seeking a high-endurance jogging partner or loud guard dog"
     ]
   },
 
   funFacts: [
-    "During the Renaissance, the Bolognese was so prized by Italian royalty that Cosimo de' Medici transported eight puppies to Brussels as diplomatic gifts for Flemish noblemen, praising them as 'the most royal gift one can bestow'.",
-    "World-famous historical masters, including Titian, Francisco Goya, and Pieter Bruegel the Elder, depicted Bolognese dogs in royal portraits, often resting comfortably on velvet cushions or in ladies' laps.",
-    "Madame de Pompadour, the influential mistress of King Louis XV of France, owned a beloved Bolognese that accompanied her to court salons and political meetings in Versailles.",
-    "Unlike the Bichon Frise, whose coat is typically blown out and sculpted with scissors into a spherical profile, the Bolognese standard strictly requires the coat to be presented in its natural, flocky, and airy tufts without trimming.",
-    "Despite their delicate, cloud-like appearance, Bolognese dogs possess a calm, steady dignity and are famously described as 'small philosophers' due to their thoughtful, observant gaze.",
-    "Bolognese dogs are known as 'velcro dogs' because they prefer to remain within physical contact of their owners, following them silently from room to room throughout the day."
+    "During the Renaissance, Cosimo de' Medici brought eight Bolognese puppies to Brussels as gifts for Belgian noblemen.",
+    "After receiving two Bolognese from the Duke d'Este, King Philip II of Spain wrote to thank him, calling them the most royal gift one could bestow upon an emperor.",
+    "Venetian master Titian painted Duke Federico Gonzaga caressing his Bolognese, and the breed also appears in works by Pieter Bruegel the Elder, Francisco Goya, and 17th-century Flemish tapestries.",
+    "Unlike the Bichon Frise, whose coat is blown out and scissored into rounded shapes, the Bolognese is traditionally presented in its natural, untrimmed flocky tufts.",
+    "High-set ears that stand slightly stiff at the base create the optical illusion that a Bolognese's head is broader than it actually is."
   ],
 
   faq: [
     {
-      question: "What is a Bolognese?",
+      question: "How is a Bolognese different from a Bichon Frise?",
       answer:
-        "The Bolognese is an ancient Italian toy companion belonging to the bichon family, known for its solid white flocky coat, square build, dark eyes, and calm, affectionate personality."
+        "Both are small white companions in the bichon family, but the Bolognese has a long, airy, flocky coat worn naturally untrimmed and a calmer, more serene temperament, whereas the Bichon Frise is typically scissored into a rounded plush silhouette."
     },
     {
-      question: "What is the difference between a Bolognese and a Bichon Frise?",
+      question: "How big does a Bolognese get?",
       answer:
-        "While both are white toy companions of the bichon family, the Bolognese has a distinct flocky, tufted single coat that is left in its natural ringlet texture without sculpting, whereas the Bichon Frise has a dense double coat that is blown out and scissored into rounded, plush contours."
+        "Adult males stand 27 to 30 cm at the withers and females stand 25 to 28 cm, with a typical weight of 2.5 to 4 kg."
     },
     {
-      question: "How big does a Bolognese get, and what is its weight?",
+      question: "Can a Bolognese be left alone during a full workday?",
       answer:
-        "Adult males stand 27 to 30 cm at the withers and females stand 25 to 28 cm, with both sexes typically weighing between 2.5 and 4 kg in balanced, healthy condition."
+        "No. Bolognese form a very close bond with their people and are prone to separation anxiety, so they thrive best in homes where someone is around much of the day."
     },
     {
-      question: "How long does a Bolognese live?",
+      question: "Do Bolognese dogs shed much?",
       answer:
-        "With proper nutrition, indoor care, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
+        "They shed very little onto furniture, though loose hair catches inside their flocky coat and must be combed out several times a week to prevent matting."
     },
     {
-      question: "Do Bolognese dogs shed a lot, and how are they groomed?",
+      question: "Are Bolognese good apartment dogs?",
       answer:
-        "They shed very little, making them popular with people seeking low-dander companions. Their flocky white coat requires line-combing three to four times a week down to the skin to prevent mats, daily eye wiping, and an occasional bath, but the coat should not be clipped."
+        "Yes. Their compact size, calm indoor habits, and modest exercise needs make them well suited to apartment living when paired with daily walks and indoor play."
     },
     {
-      question: "Can a Bolognese live in an apartment?",
+      question: "What health tests are recommended for Bolognese breeding stock?",
       answer:
-        "Yes. Their small size, calm indoor temperament, and low tendency to bark make them exceptional apartment pets, provided they receive daily walks and close companionship."
-    },
-    {
-      question: "Are Bolognese dogs good with children and other pets?",
-      answer:
-        "Yes. They are gentle, affectionate, and patient with children who handle them respectfully, and they coexist peacefully with other dogs and household cats."
-    },
-    {
-      question: "Is the Bolognese easy to train?",
-      answer:
-        "They are very intelligent, docile, and eager to please, learning household manners and tricks quickly under gentle, reward-based training; harsh methods should never be used on this sensitive breed."
-    },
-    {
-      question: "Can a Bolognese be left alone for long periods?",
-      answer:
-        "No. The breed is deeply attached to its human family and dislikes extended isolation; leaving them alone for long workdays can lead to separation distress and sadness."
-    },
-    {
-      question: "What health tests are recommended for breeding Bolognese dogs?",
-      answer:
-        "Recommended pre-breeding screenings include clinical evaluations for patellar luxation, annual certified veterinary ophthalmologist eye exams, and cardiac evaluations."
+        "Recommended screenings include a patella evaluation, a PRA-prcd DNA test, a veterinary ophthalmologist eye examination, and routine cardiac checks."
     }
   ],
 
@@ -403,47 +334,50 @@ export const bolognese: Breed = {
     "enci-bolognese-breed-standard",
     "akc-bolognese-breed-profile",
     "the-kennel-club-bolognese-breed-standard",
+    "rkc-bolognese-breed-profile",
     "ukc-bolognese-breed-standard",
     "ofa-bolognese-health-screenings",
+    "natureserve-canis-lupus-familiaris",
+    "the-dog-api",
     "wikimedia-bolognese-1-lilly-m",
     "wikimedia-bolognese-600-tomasz-sienicki"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxon profile: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "All domestic dog breeds belong to the subspecies Canis lupus familiaris."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-bolognese-official-standard",
-          role: "verified",
-          locator: "Standard heading: BOLOGNESE"
-        },
-        {
           id: "fci-bolognese-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: BOLOGNESE (196), Bologneser"
-        },
-        {
-          id: "enci-bolognese-breed-standard",
-          role: "verified",
-          locator: "Denominazione ufficiale: Bolognese"
+          locator: "Multilingual names (Bichon Bolonais, Bologneser)"
         },
         {
           id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "History: Bichon Bolognese, Bolo, Botoli"
+          locator: "Did You Know and Grooming sections (Bichon Bolognese, Bolo)"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Bichon Bolognese, Bolo)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 196, FCI Nomenclature, ENCI, and AKC."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     group: {
@@ -452,12 +386,7 @@ export const bolognese: Breed = {
         {
           id: "fci-bolognese-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 9 Companion and Toy Dogs, Section 1 Bichons and related breeds, without working trial"
-        },
-        {
-          id: "fci-bolognese-nomenclature",
-          role: "verified",
-          locator: "Group 9, Section 1 Bichons and related breeds, without working trial"
+          locator: "Group 9 Companion and Toy Dogs, Section 1 Bichons and related breeds, without working trial"
         },
         {
           id: "the-kennel-club-bolognese-breed-standard",
@@ -465,29 +394,18 @@ export const bolognese: Breed = {
           locator: "Toy Group"
         },
         {
-          id: "ukc-bolognese-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Companion Dog Group"
-        },
-        {
-          id: "akc-bolognese-breed-profile",
-          role: "verified",
-          locator: "Foundation Stock Service (Toy Group)"
+          locator: "breed.breed_group (Toy)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-21",
+      note: "Presented in plain descriptive wording without registry codes or acronyms."
     },
 
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-bolognese-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Italy; BRIEF HISTORICAL SUMMARY"
-        },
         {
           id: "fci-bolognese-nomenclature",
           role: "verified",
@@ -496,112 +414,224 @@ export const bolognese: Breed = {
         {
           id: "enci-bolognese-breed-standard",
           role: "verified",
-          locator: "Origine: Italia (Bologna, Emilia-Romagna)"
+          locator: "Origine: Italia"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (Bologna, Italy)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
-    overview: {
-      reliability: "official_standard",
+    "origin.region": {
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-bolognese-official-standard",
+          id: "rkc-bolognese-breed-profile",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "enci-bolognese-breed-standard",
-          role: "verified",
-          locator: "Storia, cenni storici, Medici, Gonzaga, e impiego come cane da compagnia"
+          locator: "About this breed (north Italian city of Bologna)"
         },
         {
           id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "History section (Bologna, Italy)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.summary": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-bolognese-official-standard",
+          role: "verified",
+          locator: "General Appearance, Body, Coat, and Temperament"
+        },
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "About the Breed"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.description": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-bolognese-official-standard",
+          role: "verified",
+          locator: "Body (square construction), Ears (rigid at base, detached from skull), Coat, and Temperament"
         },
         {
           id: "the-kennel-club-bolognese-breed-standard",
+          role: "verified",
+          locator: "General Appearance, Head and Skull, Eyes, Ears, and Proportions"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.description"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.history": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "enci-bolognese-breed-standard",
+          role: "verified",
+          locator: "Storia (Aristotle Canes Melitenses, Cosimo de' Medici, King Philip II of Spain and Duke d'Este, Titian, Bruegel, Goya)"
+        },
+        {
+          id: "the-kennel-club-bolognese-breed-standard",
+          role: "verified",
+          locator: "Brief Historical Summary (known in Bologna since 14th century, entered UK in 1989)"
+        },
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "History and Did You Know sections (11th-12th centuries, 17th-century Flemish tapestries)"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.history"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.originalPurpose": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "enci-bolognese-breed-standard",
+          role: "verified",
+          locator: "Storia (companion and royal court gift)"
+        },
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "About the Breed (companion dog)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.currentRoles": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "About the Breed, Exercise, and Companion Events sections"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "the-kennel-club-bolognese-breed-standard",
+          role: "verified",
+          locator: "General Appearance (small white toy dog)"
+        },
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "Toy Group designation"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-bolognese-official-standard",
+          role: "verified",
+          locator: "Size and Weight: Males 27-30 cm"
+        },
+        {
+          id: "the-dog-api",
           role: "cited",
-          locator: "General Appearance and Characteristics"
+          locator: "breed.height.metric (25-30 cm combined)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesized in original prose from FCI Standard No. 196, ENCI, The Royal Kennel Club, and AKC official records."
+      verifiedOn: "2026-11-21",
+      note: "Kept official FCI sex-specific male height (27-30 cm); The Dog API gives a single combined 25-30 cm range."
     },
 
-    physical: {
+    "physical.height.female.max": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-bolognese-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "Size and Weight: Females 25-28 cm"
         },
         {
-          id: "enci-bolognese-breed-standard",
-          role: "verified",
-          locator: "Proporzioni importanti (costruzione quadrata), mantello a bioccoli, occhi e dimensioni"
-        },
-        {
-          id: "the-kennel-club-bolognese-breed-standard",
-          role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Body, Tail, Coat, Colour, Size"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric (25-30 cm combined)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Conformation, square build (height equals length), pure white flocky coat without fringes, and distinctive features follow official standards."
+      verifiedOn: "2026-11-21",
+      note: "Kept official FCI sex-specific female height (25-28 cm); The Dog API gives a single combined 25-30 cm range."
     },
 
-    "physical.height": {
+    "physical.weight.male.max": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-bolognese-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Males: 27–30 cm. Females: 25–28 cm."
+          locator: "Size and Weight: 2.5-4 kg"
         },
         {
-          id: "enci-bolognese-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Altezza al garrese: Maschi da 27 a 30 cm; Femmine da 25 a 28 cm"
-        },
-        {
-          id: "the-kennel-club-bolognese-breed-standard",
-          role: "verified",
-          locator: "Height: dogs 27-30 cms (10.5-12 ins); bitches 25-28 cms (10-11 ins)"
+          locator: "breed.weight.metric (2.5-4 kg)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Preserved in published unit of centimetres (27–30 cm for males, 25–28 cm for females) exactly as specified in the official FCI Standard No. 196, ENCI, and The Royal Kennel Club standard."
+      verifiedOn: "2026-11-21",
+      note: "FCI Standard No. 196 and The Dog API both publish a single breed-wide weight range of 2.5-4 kg."
     },
 
-    "physical.weight": {
+    "physical.weight.female.max": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-bolognese-official-standard",
           role: "verified",
-          locator: "Weight: 2.5–4 kg."
+          locator: "Size and Weight: 2.5-4 kg"
         },
         {
-          id: "enci-bolognese-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Peso: da 2,5 a 4 kg"
-        },
-        {
-          id: "the-kennel-club-bolognese-breed-standard",
-          role: "verified",
-          locator: "Weight: 2.5-4 kgs (5.5-9 lbs)"
+          locator: "breed.weight.metric (2.5-4 kg)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Preserved in published unit of kilograms (2.5 to 4 kg) exactly as specified in the official FCI Standard No. 196, ENCI, and The Royal Kennel Club standard."
+      verifiedOn: "2026-11-21",
+      note: "FCI Standard No. 196 and The Dog API both publish a single breed-wide weight range of 2.5-4 kg."
     },
 
     "physical.lifespanYears": {
@@ -613,13 +643,77 @@ export const bolognese: Breed = {
           locator: "Life Expectancy: 12-14 years"
         },
         {
-          id: "the-kennel-club-bolognese-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longevity and health actuarial profile (12-14 years)"
+          locator: "breed.life_span (12-14 years)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and breed club actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-bolognese-official-standard",
+          role: "verified",
+          locator: "Coat (long, flocky, standing off body without fringes)"
+        },
+        {
+          id: "rkc-bolognese-breed-profile",
+          role: "verified",
+          locator: "About this breed (white flocks, shown untrimmed)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "Coat Length: Long"
+        },
+        {
+          id: "fci-bolognese-official-standard",
+          role: "verified",
+          locator: "Coat: Long all over the body"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-bolognese-official-standard",
+          role: "verified",
+          locator: "Colour: Pure white without any patches or shades of white"
+        },
+        {
+          id: "rkc-bolognese-breed-profile",
+          role: "verified",
+          locator: "Breed Standard colours: White only (Category 0)"
+        },
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "Breed Colors: White (199) only"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Discarded 16 non-white species-wide colours from The Dog API endpoint because official standards permit pure white only."
     },
 
     "physical.sheddingLevel": {
@@ -628,34 +722,42 @@ export const bolognese: Breed = {
         {
           id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (1/5)"
-        },
-        {
-          id: "fci-bolognese-official-standard",
-          role: "verified",
-          locator: "COAT: Flocky hair without fringes; low shedding single coat"
+          locator: "Grooming section (minimal/non-shedding)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "physical.droolingLevel": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "Breed Traits: Drooling Level (low)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.distinctiveFeatures": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-bolognese-official-standard",
           role: "verified",
-          locator: "Lips: Tight fitting, margins black"
+          locator: "Body, Ears, Eyes, Topline, and Coat"
         },
         {
-          id: "enci-bolognese-breed-standard",
+          id: "the-kennel-club-bolognese-breed-standard",
           role: "verified",
-          locator: "Labbra: Tese e ben pigmentate di nero"
+          locator: "Important Proportions, Head and Skull, Eyes, and Ears"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Tight lips result in low drooling."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "temperament.traits": {
@@ -664,20 +766,20 @@ export const bolognese: Breed = {
         {
           id: "fci-bolognese-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Very serious, generally not very lively. Enterprising, docile, very attached to his master and his entourage."
+          locator: "Behaviour/Temperament (very serene, calm, faithful to master and entourage)"
         },
         {
-          id: "enci-bolognese-breed-standard",
+          id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "Comportamento e carattere: Molto serio, non molto vivace, docile e affettuosissimo"
+          locator: "About the Breed (playful, easy-going, devoted, shy toward strangers until socialized)"
         },
         {
-          id: "the-kennel-club-bolognese-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Characteristics and Temperament: Reserved with strangers, docile, devoted, affectionate"
+          locator: "breed.temperament"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -687,73 +789,141 @@ export const bolognese: Breed = {
         {
           id: "akc-bolognese-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "the-kennel-club-bolognese-breed-standard",
-          role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented toy companion temperament, high affection, and calm domestic serenity."
-    },
-
-    care: {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-bolognese-breed-profile",
-          role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "the-kennel-club-bolognese-breed-standard",
-          role: "cited",
-          locator: "Care, flocky coat maintenance, and exercise"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Combines toy companion care with flocky single-coat combing and tear-stain management protocols."
+      note: "Editorial 1-5 scale estimates informed by kennel club temperament profiles."
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "the-kennel-club-bolognese-breed-standard",
-          role: "verified",
-          locator: "Exercise requirements: Up to 30 minutes per day"
-        },
-        {
           id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "Energy Level (2/5); Exercise Needs (2/5)"
+          locator: "Exercise section (moderate exercise schedule, low-energy but playful)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "care.exercise.minutesPerDay": {
-      reliability: "estimate",
+      reliability: "general_guidance",
       sources: [
-        {
-          id: "the-kennel-club-bolognese-breed-standard",
-          role: "cited",
-          locator: "Exercise: Up to 30 minutes daily"
-        },
         {
           id: "akc-bolognese-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
+          locator: "Exercise section"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 30 to 45 minutes of daily activity reflects the moderate exercise demands of a companion toy breed."
+      note: "General daily exercise range for a calm toy companion."
+    },
+
+    "care.exercise.activities": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "Exercise section (walks, fenced yard play, hide-and-seek, ball rolling, trick training)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.level": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "Grooming section (regular grooming needed for full coat)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.brushing": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "cited",
+          locator: "Grooming section"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.grooming.bathing": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "Grooming section (occasional bath)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.notes": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "Grooming section (unshaped/untrimmed full coat or shorter pet trim, nails, ears, teeth)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.training.difficulty": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "cited",
+          locator: "Training section"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.training.tips": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "Training and About the Breed sections (small dog syndrome prevention, separation anxiety management)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.training.socialization": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "About the Breed (can be shy with strangers, warms quickly when socialized)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -762,15 +932,10 @@ export const bolognese: Breed = {
         {
           id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (5/5)"
-        },
-        {
-          id: "the-kennel-club-bolognese-breed-standard",
-          role: "verified",
-          locator: "Living environment: Flat/Apartment suitable"
+          locator: "Exercise section (great apartment dogs with moderate exercise)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -780,33 +945,23 @@ export const bolognese: Breed = {
         {
           id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "Exercise and small yard play"
-        },
-        {
-          id: "the-kennel-club-bolognese-breed-standard",
-          role: "verified",
-          locator: "Living environment: Small garden suitable"
+          locator: "Exercise section (fenced backyard playtime)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "fci-bolognese-official-standard",
-          role: "verified",
-          locator: "COAT: Single coat without undercoat, indoor companion"
-        },
-        {
-          id: "akc-bolognese-breed-profile",
-          role: "verified",
-          locator: "Weather sensitivity: needs indoor climate control in extreme heat or cold"
+          role: "cited",
+          locator: "Indoor companion single coat"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: null,
       note: null
     },
 
@@ -816,10 +971,10 @@ export const bolognese: Breed = {
         {
           id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "Tolerates Being Alone: Low rating (1/5 to 2/5); velcro companion"
+          locator: "About the Breed (prone to separation anxiety, ill-suited for 9-5 workday)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -829,144 +984,117 @@ export const bolognese: Breed = {
         {
           id: "akc-bolognese-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
+          locator: "Nutrition section (age-appropriate food, calorie and weight monitoring)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for small toy companion breeds."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-bolognese-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance and juvenile meal schedules"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-bolognese-health-screenings",
+          id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "Health screening guidance: Patellar Luxation, Eye Examination, Cardiac evaluation"
+          locator: "Health section (mostly healthy; patellar luxation, eye anomalies, PRA/PRCD)"
         },
         {
-          id: "enci-bolognese-breed-standard",
+          id: "rkc-bolognese-breed-profile",
           role: "verified",
-          locator: "Salute e benessere della razza Bolognese"
+          locator: "Breed Watch (no special conformation points of concern identified)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesizes national health registry screening guidance with Italian kennel club breed health data."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-bolognese-health-screenings",
-          role: "verified",
-          locator: "Patellar luxation, eye disorders (cataracts, PRA), Legg-Calve-Perthes"
-        },
-        {
           id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "Periodontal disease in toy mouths, tear staining (epiphora)"
+          locator: "Health section (luxating patellas, eye anomalies, PRA/PRCD)"
+        },
+        {
+          id: "ofa-bolognese-health-screenings",
+          role: "verified",
+          locator: "Monitored orthopedic and ocular conditions"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-21",
+      note: "Distinguishes primary breed-club screening priorities (patellar luxation, PRA-prcd, eye anomalies) from general toy-breed dental and tear-staining concerns."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "ofa-bolognese-health-screenings",
-          role: "cited",
-          locator: "Health screening, patella checks, and eye examinations"
-        },
-        {
           id: "akc-bolognese-breed-profile",
           role: "cited",
-          locator: "Routine wellness and dental care"
+          locator: "Health and Grooming sections"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to small toy companion dogs."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-bolognese-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests from the National Breed Club (Patella Evaluation, PRA/PRCD, CAER Eye Examination)"
+        },
+        {
           id: "ofa-bolognese-health-screenings",
           role: "verified",
-          locator: "Recommended evaluations: Patellar Luxation clinical grading, CAER Eye examination, Cardiac examination"
+          locator: "Bolognese health screening guidelines"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-bolognese-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete scissor bite with sound teeth"
-        },
-        {
           id: "akc-bolognese-breed-profile",
           role: "cited",
-          locator: "Routine dental care for toy jaws"
+          locator: "Grooming section (regular teeth brushing)"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines for toy breeds."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-bolognese-official-standard",
-          role: "cited",
-          locator: "Ears: long, hanging, rather rigid at base"
-        },
-        {
           id: "akc-bolognese-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Grooming section (regular ear checks)"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for flocky drop ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-bolognese-official-standard",
+          id: "akc-bolognese-breed-profile",
           role: "cited",
-          locator: "Skin taut, tight to body; pure white flocky coat care"
+          locator: "Grooming section"
         }
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for breeds with long single flocky coats."
+      note: null
     },
 
     suitability: {
@@ -975,40 +1103,34 @@ export const bolognese: Breed = {
         {
           id: "akc-bolognese-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "the-kennel-club-bolognese-breed-standard",
-          role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
+          locator: "About the Breed and Exercise sections (seniors, retirees, apartments, not 9-5 workdays)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, gentle toy size, and household adaptability."
+      note: "Editorial household suitability assessment based on calm indoor habits and low alone-time tolerance."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
+          id: "enci-bolognese-breed-standard",
+          role: "verified",
+          locator: "Storia (Cosimo de' Medici eight puppies to Brussels, King Philip II of Spain quote after Duke d'Este gift, Titian, Bruegel, Goya)"
+        },
+        {
           id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "Medici court gifts, Catherine the Great, Madame de Pompadour, Titian and Goya paintings, velcro dog personality"
+          locator: "Did You Know (Duke Federico Gonzaga portrait by Titian, 17th-century Flemish tapestries)"
         },
         {
           id: "fci-bolognese-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Aristotle Canes Melitenses, Bologna Renaissance nobility, flocky coat without trimming"
-        },
-        {
-          id: "enci-bolognese-breed-standard",
-          role: "verified",
-          locator: "Cenni storici e tradizione cortigiana italiana"
+          locator: "Ears (rigid at base creating broader head impression) and untrimmed flocky coat"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and cultural heritage facts."
+      verifiedOn: "2026-11-21",
+      note: "Corrected historical attribution so the 'most royal gift' quote is accurately credited to King Philip II of Spain rather than Cosimo de' Medici."
     },
 
     faq: {
@@ -1017,29 +1139,18 @@ export const bolognese: Breed = {
         {
           id: "fci-bolognese-official-standard",
           role: "verified",
-          locator: "Origin, size (25-30 cm), weight (2.5-4 kg), flocky coat, and comparison with Bichon Frise"
-        },
-        {
-          id: "the-kennel-club-bolognese-breed-standard",
-          role: "verified",
-          locator: "Characteristics and temperament"
+          locator: "Size (27-30 cm / 25-28 cm), Weight (2.5-4 kg), and flocky coat"
         },
         {
           id: "akc-bolognese-breed-profile",
           role: "verified",
-          locator: "Lifespan (12-14 years), grooming, apartment living, and separation anxiety"
-        },
-        {
-          id: "ofa-bolognese-health-screenings",
-          role: "verified",
-          locator: "Recommended health screening panel"
+          locator: "About the Breed, Grooming, Exercise, and Recommended Health Tests"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and health data without naming registries in prose."
+      verifiedOn: "2026-11-21",
+      note: null
     }
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-21"
 };

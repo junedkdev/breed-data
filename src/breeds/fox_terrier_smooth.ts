@@ -14,13 +14,11 @@ export const fox_terrier_smooth: Breed = {
     "Fox Terrier de pelo liso"
   ],
 
-  group:
-    "Terriers; Section 1 — Large and Medium-sized Terriers (without working trial; also classified in the Terrier group)",
+  group: "Large and Medium-Sized Terrier (Terrier)",
 
   origin: {
     country: "Great Britain",
-    region:
-      "England, United Kingdom (developed across classic fox-hunting shires including Cheshire, Shropshire, and Nottinghamshire)"
+    region: "England (traditional fox-hunting counties)"
   },
 
   images: [
@@ -39,7 +37,7 @@ export const fox_terrier_smooth: Breed = {
       attribution:
         "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:FoxSmooth2.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/DocFile_Fox.jpg",
@@ -57,29 +55,28 @@ export const fox_terrier_smooth: Breed = {
       attribution:
         "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:DocFile_Fox.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "An athletic, lively, and fearless British earthdog known for its sleek, predominantly white smooth coat, classic hunter-like stance on the tiptoe of expectation, V-shaped drop ears, and boundless game courage.",
+      "A crisp, athletic British earthdog with a flat, mostly white smooth coat, neatly folded V-shaped ears, keen energy, and bold hunting spirit.",
 
     description:
-      "The Fox Terrier (Smooth) is a compact, balanced, and energetic working terrier that embodies bone and strength in a small compass, standing like a well-made, short-backed hunter horse. Built with straight forelegs, a deep narrow chest, and strong muscular hindquarters, the dog was developed to accompany mounted foxhound packs and bolt red foxes from subterranean rocky earths. Its coat is straight, flat, hard, dense, and abundant, dominated by a crisp white ground highlighted by black, tan, or black-and-tan markings. The head is flat and moderately narrow, tapering smoothly towards the eyes and powerful jaws, framed by small, dark, circular eyes radiating keen expression and neat V-shaped drop ears. In family life, it is an affectionate, spirited, and playful companion that remains an alert watchdog and a determined, tireless athlete.",
+      "The Fox Terrier (Smooth) packs bone, stamina, and quickness into a neat, short-backed frame designed to cover ground smoothly without looking heavy or leggy. Its long, flat, moderately narrow head tapers toward strong jaws with a complete scissor bite, bright dark circular eyes, and small V-shaped ears folding forward close to the cheeks. The straight, hard, dense coat sits flat over the body—including the belly and inner thighs—and is predominantly white with black, tan, or black-and-tan patches. Alert, cheerful, and fearless, this lively terrier makes an engaging companion and keen watchdog for households ready to match its energy.",
 
     history:
-      "The breed developed in eighteenth-century England alongside the rise of organized mounted foxhunting. Huntsmen required an agile, courageous terrier that could run alongside hounds and enter underground burrows to bolt foxes that had gone to ground. Breeding programs crossed ancient black-and-tan working terriers with smooth-coated Greyhounds, Bull Terriers, and Beagles to enhance speed, tenacity, scenting ability, and white coloration that prevented huntsmen from mistaking the dog for a fox. The breed was among the very first to enter modern conformation shows in England during the 1860s, and its first independent breed club was established in 1876. While originally registered under the collective Fox Terrier designation alongside its wire-coated relative, the two varieties were officially separated into distinct purebred breeds in the late twentieth century. Today, it is recognized globally as an adaptable family pet, competitive show champion, and enthusiastic canine sports competitor.",
+      "Developed in England during the 18th and 19th centuries for traditional foxhunts, the Smooth Fox Terrier ran alongside hound packs or rode in saddle panniers until a fox went to ground, where the terrier entered the burrow to drive it out. Early working terriers were often dark or black-and-tan, so breeders blended them with the now-extinct Old English White Terrier, Bull Terrier, Beagle, and Greyhound lines to create a mostly white dog that hunters would not confuse with a red fox. Fox Terriers entered early British dog shows in the 1860s—with foundational dogs Old Jock, Old Tartar, and Old Trap competing at Birmingham in 1863—and a dedicated club wrote the first written description of the breed in 1876. Though Smooth and Wire varieties were long treated as coat types of one breed in some regions, they were formally separated into distinct breeds in the late 20th century.",
 
     originalPurpose:
-      "Running with foxhound packs, entering underground burrows and rocky dens to bolt foxes, dispatching vermin, and protecting farmsteads.",
+      "Accompanying mounted foxhunts to bolt foxes from underground dens and controlling farm vermin.",
 
     currentRoles: [
-      "Devoted household companion and family pet",
-      "Vigilant home and property watchdog",
-      "Earthdog, barn hunt, and subterranean tracking competitor",
-      "Canine athlete in agility, flyball, rally, and lure coursing",
-      "Active partner for jogging and outdoor hiking"
+      "Lively, affectionate family companion",
+      "Alert home watchdog",
+      "Competitor in earthdog trials, barn hunt, agility, flyball, and obedience",
+      "Energetic walking and outdoor adventure partner"
     ]
   },
 
@@ -89,12 +86,12 @@ export const fox_terrier_smooth: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 36,
+        min: 38,
         max: 39
       },
       female: {
-        min: 33,
-        max: 36
+        min: 36,
+        max: 38
       }
     },
 
@@ -116,51 +113,43 @@ export const fox_terrier_smooth: Breed = {
     },
 
     coatType:
-      "Straight, flat, smooth, hard, dense, and abundant; close-fitting all over the body, with belly and underside of thighs fully covered without bare spots.",
+      "Straight, flat, smooth, hard, dense, and abundant single coat covering the entire body, including the belly and inner thighs.",
 
     coatLength: "Short",
 
     coatColors: [
-      "White should predominate (all white)",
-      "White with tan markings",
-      "White with black markings",
-      "White with black and tan markings (tricolour)"
+      "All White",
+      "White with Black Markings",
+      "White with Tan Markings",
+      "White with Black and Tan Markings (Tricolour)"
     ],
 
-    sheddingLevel:
-      "Low to moderate; sheds short smooth hairs year-round that are easily managed with regular weekly rubber curry brushing",
-
-    droolingLevel:
-      "Low; tight, cleanly chiselled lips prevent drooling",
+    sheddingLevel: "Low to moderate",
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Compact, athletic hunter-like stance covering ground without cloddiness or legginess",
-      "Height at withers not exceeding 39 cm in males, with females slightly less (typically 33 to 36 cm)",
-      "Weight of 7.5 to 8 kg for males and 7 to 7.5 kg for females in hard working condition",
-      "Sleek, flat, hard, and dense smooth coat with white predominating",
-      "Flat, moderately narrow skull tapering gradually toward the eyes, with slight stop",
-      "Strong, muscular jaws with a complete, regular scissor bite",
-      "Dark, moderately small, nearly circular eyes set deep with an alert, intelligent, and fiery gaze",
-      "Small, V-shaped drop ears of moderate thickness folding neatly forward close to the cheeks",
-      "Clean, muscular neck gradually widening to sloping, well-laid-back shoulders",
-      "Deep, narrow chest that allows maneuvering through tight subterranean tunnels",
-      "High-set tail carried gaily and upright without curling over the back",
-      "Small, round, compact cat-like feet with tough, hard pads and arched toes"
+      "Short-backed, well-balanced frame that stands alert and ready for action without looking coarse or overly leggy",
+      "Flat, moderately narrow skull tapering smoothly to strong jaws with a complete scissor bite",
+      "Dark, moderately small, nearly circular eyes with a bright, keen expression",
+      "Small, V-shaped drop ears folding neatly forward close to the cheeks",
+      "Deep, narrow chest suited to squeezing into tight underground burrows",
+      "High-set tail carried upright and gaily without curling over the back",
+      "Small, round, compact cat-like feet with tough pads and moderately arched toes",
+      "Predominantly white smooth coat with black, tan, or black-and-tan markings; brindle, red, and liver markings are undesirable"
     ]
   },
 
   temperament: {
     traits: [
-      "Alert, active, and on the tiptoe of expectation",
-      "Fearless, bold, and courageous",
-      "Friendly, forthcoming, and affectionate with family members",
-      "Spirited, playful, and cheerful in daily interaction",
-      "Keen intelligence with independent problem-solving drive",
-      "Vigilant watchdog ready to announce visitors with a sharp, clear bark",
-      "High prey drive toward small mammals, rodents, and moving wildlife",
-      "Can be feisty or assertive with unfamiliar dogs of the same sex",
-      "Enthusiastic excavator with natural instincts to dig in yards",
-      "Sensitive to household tone, thriving under positive leadership"
+      "Alert",
+      "Active",
+      "Fearless",
+      "Friendly",
+      "Forthcoming",
+      "Playful",
+      "Intelligent",
+      "Independent",
+      "Vigilant"
     ],
 
     scores: {
@@ -178,147 +167,112 @@ export const fox_terrier_smooth: Breed = {
 
   care: {
     exercise: {
-      level:
-        "High; an energetic and athletic small terrier requiring vigorous daily physical exercise and mental stimulation to channel working drive",
-
+      level: "High",
       minutesPerDay: {
         min: 45,
         max: 60
       },
-
       activities: [
-        "Daily brisk leashed walks and neighborhood scent walks",
-        "Interactive fetch, ball retrieving, and flirt-pole chase games in a secure yard",
-        "Barn hunt, earthdog tunneling, and rat-tracking enrichment",
-        "Canine sports including agility, flyball, rally, and trick training",
-        "Food puzzle toys, snuffle mats, and scent-searching challenges",
-        "Supervised garden exploration and digging in designated sand pits"
+        "Brisk daily leash walks and neighborhood scent exploration",
+        "Fetch and active play inside a securely fenced yard",
+        "Earthdog tests, barn hunt, and scent work",
+        "Agility, flyball, rally, and trick training",
+        "Interactive puzzle feeders and structured digging games"
       ]
     },
 
     grooming: {
       level: "Low",
-
-      brushing:
-        "Brush once or twice weekly with a rubber curry comb, hound glove, or soft bristle brush to remove dead hair and maintain sleek coat shine.",
-
-      bathing:
-        "Bathe every six to eight weeks or when soiled, using a gentle canine shampoo; the smooth coat sheds dirt and dried mud naturally once dry.",
-
+      brushing: "Weekly brushing with a firm bristle brush or rubber hound glove",
+      bathing: "Monthly bath or as needed after muddy digging sessions",
       notes: [
-        "The short smooth coat requires minimal maintenance and does not require professional clipping or hand-stripping.",
-        "Inspect the V-shaped folding ears weekly for wax, dust, or moisture, wiping gently with a veterinary ear cleanser.",
-        "Check paw pads, toes, and skin for thorns, burrs, or scrapes after running in brush or digging.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain compact cat-foot alignment.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "Wipe the coat with a damp cloth or chamois leather after walks to remove surface dust."
+        "The flat smooth coat sheds dirt easily and does not need clipping or hand-stripping.",
+        "Check the small folded V-shaped ears every week for wax or debris and clean gently as needed.",
+        "Trim nails regularly to keep the compact cat-like feet well aligned.",
+        "Brush teeth frequently with dog-safe toothpaste and inspect paws after brushy walks or digging."
       ]
     },
 
     training: {
-      difficulty:
-        "Moderate; exceptionally intelligent, quick to learn, and food-motivated, but independent and strong-willed, requiring patient, consistent leadership",
-
+      difficulty: "Moderate",
       tips: [
-        "Use positive reinforcement, high-value treats, and enthusiastic praise.",
-        "Keep training sessions short, playful, and fast-paced (5 to 10 minutes) to avoid boredom.",
-        "Teach a reliable quiet command early to manage natural watchdog barking habits.",
-        "Always exercise within a securely fenced area or on a leash, as small wildlife will trigger an immediate chase.",
-        "Channel natural digging and chasing instincts into structured sports such as agility or barn hunt.",
-        "Avoid harsh corrections or intimidation, which cause this proud terrier to become defensive and obstinate."
+        "Use upbeat, reward-based sessions with small treats and play; keep lessons short and varied so this clever terrier stays interested.",
+        "Teach a dependable quiet cue early to manage alert watchdog barking.",
+        "Keep the dog on a leash or inside a sturdy fenced yard outdoors, since chasing small wildlife is hardwired.",
+        "Channel digging and hunting instincts into structured sports such as agility, earthdog, or barn hunt rather than relying on harsh corrections."
       ],
-
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs of varying sizes, household sounds, traffic, and novel surfaces. Early structured socialization tempers natural terrier feistiness and ensures a well-adjusted, confident companion."
+        "Enroll puppies early in positive socialization classes and introduce them calmly to new people, vaccinated dogs, and everyday noises so natural terrier boldness develops into steady manners."
     },
 
     livingEnvironment: {
       apartmentSuitable: true,
       houseWithYardSuitable: true,
-
-      climates: [
-        "Temperate climates",
-        "Cool climates, provided indoor living and warmth are maintained",
-        "Warm climates, provided indoor air conditioning, shade, and fresh water are available and exercise occurs during cooler hours",
-        "Cold winter climates, provided the dog lives indoors and wears a warm coat during freezing outdoor outings"
-      ],
-
-      aloneTimeTolerance:
-        "Moderate when properly exercised beforehand and provided with engaging puzzle toys, though prolonged isolation without company can trigger boredom barking or destructive digging."
+      climates: ["Temperate", "Cool", "Warm"],
+      aloneTimeTolerance: "Moderate"
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for small active breeds, adjusted for age, activity level, and metabolic rate.",
+      "Complete, balanced small-breed dog food matched to the dog's age and high daily energy output.",
 
     feedingFrequency: {
-      puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
-      adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+      puppy: "Three to four small measured meals daily until six months old, then two meals",
+      adult: "Two measured meals per day",
+      senior: "Two portion-controlled meals per day adjusted for lower activity"
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Divide daily food into two distinct meals, restrict vigorous exercise immediately before and after eating, and provide cool, clean drinking water continuously.",
+      "Measure each meal carefully and factor training treats into the daily calorie budget so the terrier stays lean and muscular. Extra weight places unnecessary stress on knees and joints. Keep clean, fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on patellas and hips.",
-      "Account for training treats within the total daily caloric allowance to avoid creeping weight gain.",
-      "Select small-kibble formulas suited to a compact, scissor-biting jaw.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water at all times.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Monitor body condition regularly because some Smooth Fox Terriers gain weight easily if overfed.",
+      "Choose small-sized kibble suited to compact jaws.",
+      "Avoid fatty table scraps and transition to new foods gradually over about a week."
     ],
 
     note:
-      "Caloric needs vary based on age, sterilization status, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Check with a veterinarian to tailor daily portions and life-stage diets to your dog's activity level and health."
   },
 
   health: {
     overview:
-      "The Fox Terrier (Smooth) is a hardy, robust, and long-lived earthdog with a typical life expectancy of 12 to 15 years. Developed over centuries for demanding physical work, it enjoys strong overall constitutional vitality. Primary hereditary health priorities include patellar luxation, primary lens luxation (PLL, screenable via DNA testing for the ADAMTS17 mutation), spinocerebellar ataxia with myokymia and seizures (SAMS / SCA, linked to the KCNJ10 gene), congenital sensorineural deafness in predominantly white individuals, and cardiac conditions.",
+      "Fox Terriers (Smooth) are generally sturdy, energetic dogs with a typical lifespan of 12 to 15 years. Two inherited conditions have scientifically confirmed causal genetic mutations in the breed or closely related terrier lines: spinocerebellar ataxia with myokymia and seizures (linked to the KCNJ10 gene) and primary lens luxation (linked to the ADAMTS17 gene). Responsible breeding programs also screen for patellar luxation, heart conditions, inherited eye disorders, and congenital deafness.",
 
     commonConditions: [
-      "Patellar luxation — displacement of the kneecap from the femoral groove causing intermittent hopping or hind-limb lameness, monitored through clinical orthopedic grading",
-      "Primary lens luxation (PLL) — an inherited ocular disorder caused by an autosomal recessive mutation in the ADAMTS17 gene, causing lens displacement and acute secondary glaucoma, fully preventable through DNA testing",
-      "Spinocerebellar ataxia (SCA / SAMS) — an inherited neurodegenerative disorder caused by a mutation in the KCNJ10 gene, leading to progressive ataxia, muscle twitching (myokymia), and seizures, screenable via DNA testing",
-      "Congenital sensorineural deafness — unilateral or bilateral hearing loss associated with extreme piebald white pigmentation, evaluable via Brainstem Auditory Evoked Response (BAER) testing",
-      "Cardiac conditions — congenital heart anomalies including pulmonic stenosis and murmurs, monitored via veterinary auscultation and echocardiography",
-      "Legg-Calvé-Perthes disease — aseptic necrosis of the femoral head in young dogs, leading to hip pain and lameness",
-      "Cataracts and distichiasis — ocular conditions monitored through annual certified ophthalmologist examinations",
-      "Traumatic injuries — minor cuts, punctures, or pad scrapes sustained while digging or vigorously pursuing quarry"
+      "Spinocerebellar ataxia with myokymia and seizures (SCA / SAMS) — an established autosomal recessive neurological disorder caused by a KCNJ10 gene mutation confirmed in Smooth-Haired Fox Terriers, leading to progressive incoordination, muscle twitching, and seizures",
+      "Primary lens luxation (PLL) — an inherited eye disorder linked to an autosomal recessive ADAMTS17 gene mutation in terrier breeds that causes the eye lens to dislocate and can trigger painful glaucoma",
+      "Patellar luxation — slipping of the kneecap out of its normal groove, monitored through veterinary orthopedic exams",
+      "Cardiac conditions — congenital heart anomalies and murmurs evaluated through specialist heart screenings",
+      "Congenital sensorineural deafness — unilateral or bilateral hearing loss reported in some predominantly white lines, checked with hearing (BAER) testing",
+      "Legg-Calvé-Perthes disease — a hip-joint bone blood-supply disorder occasionally reported in young small terriers",
+      "Cataracts and other ocular disorders — monitored through periodic veterinary eye examinations"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified clearances for patellar luxation, annual eye examinations, cardiac evaluations, and DNA clearances for PLL and spinocerebellar ataxia (SCA).",
-      "Perform BAER hearing testing on puppies from lines with extensive white head markings.",
-      "Maintain a lean, athletic body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Inspect folding ears weekly for wax buildup, moisture, or dirt, wiping gently with a veterinary ear wash.",
-      "Brush teeth regularly and schedule periodic professional veterinary dental cleanings.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding parents have documented clearances for patellar luxation, cardiac health, eye exams, and DNA tests for spinocerebellar ataxia (KCNJ10) and primary lens luxation (ADAMTS17).",
+      "Keep the dog at a lean, athletic weight to protect knees and hips.",
+      "Maintain regular dental brushing, weekly ear checks, parasite prevention, and annual veterinary wellness visits."
     ],
 
     recommendedScreenings: [
-      "Clinical patellar luxation orthopedic evaluation and grading",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Congenital cardiac examination including auscultation by a veterinary specialist",
-      "DNA marker test for Primary Lens Luxation (ADAMTS17 gene mutation) prior to breeding",
-      "DNA marker test for Spinocerebellar Ataxia (KCNJ10 gene mutation) prior to breeding",
-      "Brainstem Auditory Evoked Response (BAER) hearing test"
+      "Patella orthopedic evaluation",
+      "Cardiac examination",
+      "Veterinary ophthalmologist eye examination",
+      "DNA test for Spinocerebellar Ataxia (KCNJ10 gene mutation)",
+      "DNA test for Primary Lens Luxation (ADAMTS17 gene mutation)",
+      "Hearing evaluation (BAER test) for breeding stock and predominantly white puppies"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has powerful jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with dog-safe toothpaste and schedule routine veterinary dental exams to keep teeth and gums clean.",
 
     earCare:
-      "Inspect the small V-shaped drop ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the small forward-folding ears weekly for wax, dirt, or redness and wipe gently with a veterinarian-approved cleaner.",
 
     skinCare:
-      "Part the smooth coat weekly during brushing to inspect the skin for external parasites, redness, or dry patches. The coat naturally sheds dirt and requires minimal bathing beyond regular grooming."
+      "Check the skin during weekly brushing for scratches, burrs, dryness, or parasites, especially after outdoor digging or trail walks."
   },
 
   suitability: {
@@ -329,81 +283,58 @@ export const fox_terrier_smooth: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Active families seeking an energetic, playful, and cheerful small companion",
-      "Experienced terrier owners who understand working drives, high prey instincts, and positive leadership",
-      "Apartment or house dwellers who provide daily walks, play, and indoor family inclusion",
-      "Canine sports enthusiasts involved in agility, barn hunt, flyball, or earthdog trials",
-      "Households seeking an alert, fearless watchdog that thrives on outdoor adventure"
+      "Active owners and families who enjoy daily walks, fetch, and playful mental engagement",
+      "People who appreciate a bold, cheerful, low-grooming small terrier",
+      "Apartment or house dwellers able to provide steady exercise and teach a calm quiet cue",
+      "Dog sport enthusiasts interested in earthdog trials, barn hunt, agility, or flyball"
     ],
 
     notIdealFor: [
-      "Sedentary individuals looking for a low-exercise lap pet",
-      "Households with loose pet rodents, rabbits, or birds vulnerable to intense terrier prey drive",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People seeking a completely silent pet, as the breed naturally barks to announce novel sights and sounds",
-      "Owners who expect reliable off-leash obedience in unfenced areas near small wildlife"
+      "Homes with loose small pets such as rabbits, hamsters, or birds that trigger strong chase instincts",
+      "Sedentary households looking for a quiet, low-energy lapdog",
+      "Owners who want an off-leash hiking partner in unfenced areas with wildlife",
+      "People who leave a dog alone for long hours without exercise or enrichment"
     ]
   },
 
   funFacts: [
-    "The Smooth Fox Terrier was the very first breed in the Fox Terrier family to be formally recognized and given an official breed standard in England in 1876.",
-    "A Smooth Fox Terrier named Ch. Warren Remedy achieved historic canine fame by winning Best in Show at the Westminster Kennel Club Dog Show three consecutive years (1907, 1908, and 1909), a record that has never been matched.",
-    "U.S. President Herbert Hoover owned two beloved Smooth Fox Terriers named Big Ben and Sonnie during his years in the White House.",
-    "The famous painting 'His Master's Voice' by Francis Barraud, which became the global corporate logo for RCA Victor and HMV, depicted a terrier named Nipper, widely believed to be a Fox Terrier cross.",
-    "The breed was historically described as 'standing like a well-made, short-backed hunter horse', reflecting its clean, athletic proportions designed to cover ground without cloddiness.",
-    "Because of their exceptional agility, quick wit, and trainability, Smooth Fox Terriers were among the most popular performing circus dogs in Europe and America during the late nineteenth and early twentieth centuries."
+    "In 1863 at Birmingham, three early Fox Terriers—Old Jock, Old Tartar, and Old Trap—helped shape the breed, and within ten years Fox Terrier classes there drew 276 entries.",
+    "A Smooth Fox Terrier named Ch. Warren Remedy won top honors at a premier New York championship dog show three consecutive years in 1907, 1908, and 1909—a streak that remains unmatched.",
+    "U.S. President Herbert Hoover kept two Fox Terriers named Big Ben and Sonnie.",
+    "Predominantly white coats were deliberately favored by 19th-century foxhunters so terriers bolting out of underground dens would never be mistaken for red foxes.",
+    "Despite sharing ancestry with the Wire Fox Terrier, the Smooth has a slightly more V-shaped head and a flat coat that needs only weekly brushing instead of hand-stripping."
   ],
 
   faq: [
     {
-      question: "What is a Smooth Fox Terrier?",
+      question: "How is a Smooth Fox Terrier different from a Wire Fox Terrier?",
       answer:
-        "The Smooth Fox Terrier is a small, athletic British working terrier known for its sleek, hard white-and-patched coat, V-shaped drop ears, lively energy, and historic role in fox hunting."
+        "Both share similar size, proportions, and lively hunting drive, but the Smooth has a short, flat, low-maintenance coat and a slightly more V-shaped head, while the Wire has a harsh, wiry coat with facial furnishings that requires stripping."
     },
     {
-      question: "What is the difference between a Smooth Fox Terrier and a Wire Fox Terrier?",
+      question: "How big does a Fox Terrier (Smooth) get?",
       answer:
-        "While both share similar body proportions, size, and hunting temperament, the Smooth Fox Terrier has a short, flat, smooth coat that requires minimal grooming, whereas the Wire Fox Terrier has a harsh, wiry double coat with facial furnishings that requires hand-stripping."
+        "Males stand up to 39 cm at the withers and weigh 7.5 to 8 kg, while females are slightly smaller at 36 to 38 cm and weigh 7 to 7.5 kg."
     },
     {
-      question: "How tall and heavy is a Smooth Fox Terrier?",
+      question: "Can a Smooth Fox Terrier live happily in an apartment?",
       answer:
-        "Adult males stand 36 to 39 cm at the withers and weigh 7.5 to 8 kg, while adult females stand 33 to 36 cm and weigh 7 to 7.5 kg, presenting an agile, compact outline."
+        "Yes, as long as it gets brisk daily walks and active play. Because the breed is an alert watchdog, teaching a reliable quiet cue early helps in close-neighbor living."
     },
     {
-      question: "How long does a Smooth Fox Terrier live?",
+      question: "Can Smooth Fox Terriers be trusted off-leash?",
       answer:
-        "The breed enjoys good health and longevity, typically living a lifespan of 12 to 15 years with proper nutrition, exercise, and preventive veterinary care."
+        "No. Their strong instinct to chase squirrels, rabbits, and other small animals means they should stay on a leash or inside a securely fenced yard."
     },
     {
-      question: "Do Smooth Fox Terriers shed a lot, and how are they groomed?",
+      question: "How much grooming does the smooth coat require?",
       answer:
-        "They shed low to moderate amounts year-round. Their smooth coat is low-maintenance, requiring only a weekly brushing with a rubber hound mitt or soft brush, occasional nail trims, and ear checks; they do not need professional clipping."
+        "Very little—weekly brushing with a firm brush or rubber hound glove, monthly baths or rinses after muddy digging, regular nail trims, and weekly ear checks are usually enough."
     },
     {
-      question: "Can a Smooth Fox Terrier live in an apartment?",
+      question: "What health tests matter most for Smooth Fox Terriers?",
       answer:
-        "Yes, provided they receive adequate daily exercise and play. While energetic outdoors, their compact size makes them adaptable to apartment living, though early training of a quiet cue is helpful to manage alert watchdog barking."
-    },
-    {
-      question: "Are Smooth Fox Terriers good with children and other pets?",
-      answer:
-        "They are affectionate, sturdy, and playful with familiar children; however, because of their high prey drive, they are generally unsafe around pet rodents, rabbits, or birds, and they may be assertive with other dogs if not socialized early."
-    },
-    {
-      question: "Is the Smooth Fox Terrier easy to train?",
-      answer:
-        "They are very smart, eager to learn, and food-motivated, but have an independent terrier mindset. Training requires patient, reward-based methods and variety rather than repetitive drills."
-    },
-    {
-      question: "How much exercise does a Smooth Fox Terrier need each day?",
-      answer:
-        "The breed requires 45 to 60 minutes of daily physical activity, including brisk walks, fetch sessions, and mental challenges like agility, puzzle toys, or barn hunt games."
-    },
-    {
-      question: "What health screenings are recommended for breeding Smooth Fox Terriers?",
-      answer:
-        "Recommended pre-breeding screenings include patellar luxation evaluations, annual veterinary eye exams, cardiac examinations, and DNA testing for primary lens luxation (PLL) and spinocerebellar ataxia (SCA)."
+        "Key screenings include patella and cardiac evaluations, veterinary eye exams, hearing (BAER) checks where relevant, and DNA tests for spinocerebellar ataxia (KCNJ10) and primary lens luxation (ADAMTS17)."
     }
   ],
 
@@ -411,50 +342,55 @@ export const fox_terrier_smooth: Breed = {
     "fci-fox-terrier-smooth-official-standard",
     "fci-fox-terrier-smooth-nomenclature",
     "the-kennel-club-fox-terrier-smooth-breed-standard",
+    "rkc-fox-terrier-smooth-breed-profile",
     "akc-smooth-fox-terrier-breed-standard",
     "akc-smooth-fox-terrier-breed-profile",
     "ukc-smooth-fox-terrier-breed-standard",
     "ofa-smooth-fox-terrier-chic-requirements",
     "smooth-fox-terrier-sca-kcnj10-study-2014",
+    "pubmed-rohdin-2015-kcnj10-ataxia-russell-terriers",
+    "pubmed-gould-2011-adamts17-lens-luxation",
+    "natureserve-canis-lupus-familiaris",
+    "the-dog-api",
     "wikimedia-fox-terrier-smooth-canarian-foxsmooth2",
     "wikimedia-fox-terrier-smooth-canarian-docfile"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxon profile: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "All domestic dog breeds belong to the subspecies Canis lupus familiaris."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-fox-terrier-smooth-official-standard",
-          role: "verified",
-          locator: "Standard heading: FOX TERRIER (SMOOTH)"
-        },
-        {
           id: "fci-fox-terrier-smooth-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: FOX TERRIER (SMOOTH) (12), Fox-Terrier à poil lisse, Glatthaar-Foxterrier, Fox Terrier de pelo liso"
-        },
-        {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
-          role: "verified",
-          locator: "Breed name: Fox Terrier (Smooth)"
+          locator: "Multilingual names (Fox Terrier a Poil Lisse, Fox Terrier Glatthaar, Fox Terrier de Pelo Liso)"
         },
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "verified",
-          locator: "History: Smooth Fox Terrier, Foxie"
+          locator: "Smooth Fox Terrier"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names (Smooth Fox Terrier, Smooth Haired Fox Terrier, Foxie)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 12, FCI Nomenclature, The Royal Kennel Club, and AKC."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     group: {
@@ -463,12 +399,7 @@ export const fox_terrier_smooth: Breed = {
         {
           id: "fci-fox-terrier-smooth-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 3 Terriers, Section 1 Large and medium-sized Terriers, without working trial"
-        },
-        {
-          id: "fci-fox-terrier-smooth-nomenclature",
-          role: "verified",
-          locator: "Group 3, Section 1 Large and medium-sized Terriers, without working trial"
+          locator: "Group 3 Terriers, Section 1 Large and medium-sized Terriers, working trial optional"
         },
         {
           id: "the-kennel-club-fox-terrier-smooth-breed-standard",
@@ -476,143 +407,254 @@ export const fox_terrier_smooth: Breed = {
           locator: "Terrier Group"
         },
         {
-          id: "akc-smooth-fox-terrier-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Terrier Group"
-        },
-        {
-          id: "ukc-smooth-fox-terrier-breed-standard",
-          role: "verified",
-          locator: "Terrier Group"
+          locator: "breed.breed_group (Terrier)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-21",
+      note: "Presented in plain descriptive wording without registry codes or acronyms; FCI lists working trial as optional rather than omitted."
     },
 
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-fox-terrier-smooth-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Great Britain; BRIEF HISTORICAL SUMMARY"
-        },
         {
           id: "fci-fox-terrier-smooth-nomenclature",
           role: "verified",
           locator: "Country of origin: Great Britain"
         },
         {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
+          id: "fci-fox-terrier-smooth-official-standard",
           role: "verified",
-          locator: "Origin and development in England"
+          locator: "Origin: Great Britain"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin (England)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Official FCI standard lists Great Britain; The Dog API lists England."
+    },
+
+    "origin.region": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "rkc-fox-terrier-smooth-breed-profile",
+          role: "verified",
+          locator: "About this breed (English fox hunts, Islington 1862, Birmingham 1863)"
         },
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "verified",
-          locator: "History: English origins with mounted foxhound packs"
+          locator: "History section (England)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
-    overview: {
+    "overview.summary": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-fox-terrier-smooth-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Characteristics, Temperament"
+          locator: "General Appearance, Coat, Colour, and Temperament"
         },
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesized in original prose from FCI Standard No. 12, The Royal Kennel Club, and AKC official records."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
-    physical: {
+    "overview.description": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-fox-terrier-smooth-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "General Appearance, Head, Coat, and Colour"
         },
         {
           id: "the-kennel-club-fox-terrier-smooth-breed-standard",
           role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Mouth, Body, Tail, Coat, Colour, Size"
+          locator: "General Appearance, Characteristics, Coat, Eyes, Mouth"
         },
         {
-          id: "akc-smooth-fox-terrier-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "General Appearance, Size, Head, Ears, Body, Tail, Legs, Coat, Color"
+          locator: "breed.description"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Conformation, hunter-like stance, straight flat smooth coat, V-shaped drop ears, and distinctive features follow official standards."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
-    "physical.height": {
-      reliability: "official_standard",
+    "overview.history": {
+      reliability: "reliable_source",
       sources: [
+        {
+          id: "rkc-fox-terrier-smooth-breed-profile",
+          role: "verified",
+          locator: "About this breed (fox hunting, Old English White Terrier/Bull Terrier/Beagle, 1862 Islington, 1863 Birmingham, 1876 standard)"
+        },
         {
           id: "fci-fox-terrier-smooth-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Not exceeding 39 cm in males, females slightly less."
-        },
-        {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
-          role: "verified",
-          locator: "Size: Height at withers not exceeding 39 cms (15.5 ins) in dogs, bitches slightly less"
+          locator: "Brief Historical Summary (British origins, 1876 original standard)"
         },
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "verified",
-          locator: "Height: 15.5 inches for males (approx. 39 cm), females slightly less"
+          locator: "Did You Know and History sections"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.history (1985 AKC breed separation)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Preserved in published unit of centimetres (36–39 cm for males, not exceeding 39 cm; 33–36 cm for females) exactly as specified in the official FCI Standard No. 12 and The Royal Kennel Club standard."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
-    "physical.weight": {
+    "overview.originalPurpose": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "rkc-fox-terrier-smooth-breed-profile",
+          role: "verified",
+          locator: "About this breed (earth dog bolting foxes)"
+        },
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Did You Know (harassing foxes out of dens)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.currentRoles": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "About the Breed, Exercise, and Training sections"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.sizeCategory": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-fox-terrier-smooth-official-standard",
           role: "verified",
-          locator: "Weight: Dogs: 7.5 - 8 kg. Bitches: 7 - 7.5 kg."
+          locator: "Size and Weight (up to 39 cm, 7-8 kg)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-fox-terrier-smooth-official-standard",
+          role: "verified",
+          locator: "Size and Weight: Not exceeding 39 cm in males"
         },
         {
           id: "the-kennel-club-fox-terrier-smooth-breed-standard",
           role: "verified",
-          locator: "Weight: dogs 7.5-8 kgs (16-18 lbs), bitches 7-7.5 kgs (15-17 lbs)"
+          locator: "Size: Not exceeding 39 cm in dogs"
         },
         {
-          id: "akc-smooth-fox-terrier-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Weight: 18 pounds (male), 15-17 pounds (female)"
+          locator: "breed.height.metric (38-39 cm)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Preserved in published unit of kilograms (7.5 to 8 kg for males, 7 to 7.5 kg for females) exactly as specified in FCI Standard No. 12 and The Royal Kennel Club standard."
+      verifiedOn: "2026-11-21",
+      note: "FCI Standard No. 12 and The Royal Kennel Club specify only the 39 cm maximum for males; the 38 cm lower bound comes from The Dog API metric range."
+    },
+
+    "physical.height.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "fci-fox-terrier-smooth-official-standard",
+          role: "verified",
+          locator: "Size and Weight: Females slightly less than 39 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric (36-38 cm)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "FCI Standard No. 12 states females are slightly less than 39 cm without publishing exact bounds; The Dog API provides 36-38 cm."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-fox-terrier-smooth-official-standard",
+          role: "verified",
+          locator: "Size and Weight: Dogs 7.5 - 8 kg"
+        },
+        {
+          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
+          role: "verified",
+          locator: "Size: Dogs 7.5-8 kg"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (8-8.5 kg)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Kept official FCI/Royal Kennel Club male weight (7.5-8 kg); The Dog API lists a slightly heavier 8-8.5 kg range."
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-fox-terrier-smooth-official-standard",
+          role: "verified",
+          locator: "Size and Weight: Bitches 7 - 7.5 kg"
+        },
+        {
+          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
+          role: "verified",
+          locator: "Size: Bitches 7-7.5 kg"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (7-7.5 kg)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "physical.lifespanYears": {
@@ -624,13 +666,72 @@ export const fox_terrier_smooth: Breed = {
           locator: "Life Expectancy: 12-15 years"
         },
         {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longevity and health actuarial profile (12-15 years)"
+          locator: "breed.life_span (12-15 years)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and parent club actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-fox-terrier-smooth-official-standard",
+          role: "verified",
+          locator: "Coat: Straight, flat, smooth, hard, dense and abundant; belly and underside of thighs not bare"
+        },
+        {
+          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
+          role: "verified",
+          locator: "Coat: Straight, flat, smooth, hard, dense and abundant"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Coat Length: Short"
+        },
+        {
+          id: "fci-fox-terrier-smooth-official-standard",
+          role: "verified",
+          locator: "Coat: Short, flat, smooth"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-fox-terrier-smooth-official-standard",
+          role: "verified",
+          locator: "Colour: White should predominate; all white, white with tan, black and tan or black markings; brindle, red or liver highly undesirable; any other colour unacceptable"
+        },
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Breed Colors (White, White & Black, White & Tan, White Black & Tan)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Discarded non-breed colours from The Dog API endpoint (such as blue, brindle, cream, fawn, liver, merle, red, sable) because FCI Standard No. 12 requires white to predominate and treats brindle, red, and liver as highly undesirable and other colours as unacceptable."
     },
 
     "physical.sheddingLevel": {
@@ -639,34 +740,42 @@ export const fox_terrier_smooth: Breed = {
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
-        },
-        {
-          id: "fci-fox-terrier-smooth-official-standard",
-          role: "verified",
-          locator: "COAT: Straight, flat, smooth, hard, dense and abundant"
+          locator: "Breed Traits: Shedding Level"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "physical.droolingLevel": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Breed Traits: Drooling Level (low)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.distinctiveFeatures": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-fox-terrier-smooth-official-standard",
           role: "verified",
-          locator: "Lips: Tight fitting lips; falling away only slightly below eyes"
+          locator: "General Appearance, Head, Ears, Body, Tail, Feet, and Colour"
         },
         {
-          id: "akc-smooth-fox-terrier-breed-profile",
+          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "General Appearance, Eyes, Mouth, Feet, Coat"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Tight lips result in low drooling."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "temperament.traits": {
@@ -675,20 +784,20 @@ export const fox_terrier_smooth: Breed = {
         {
           id: "fci-fox-terrier-smooth-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Alert, quick of movement, keen of expression, on tiptoe of expectation. Friendly, forthcoming and fearless."
+          locator: "Behaviour/Temperament (alert, quick, friendly, forthcoming, fearless)"
         },
         {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
+          id: "akc-smooth-fox-terrier-breed-profile",
           role: "verified",
-          locator: "Characteristics and Temperament: Alert, quick of movement, keen of expression, on tiptoe of expectation; friendly, forthcoming and fearless"
+          locator: "About the Breed and Training sections"
         },
         {
-          id: "akc-smooth-fox-terrier-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "General Appearance: Alert, active, lively, friendly, fearless"
+          locator: "breed.temperament"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -698,36 +807,11 @@ export const fox_terrier_smooth: Breed = {
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
-          role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented terrier temperament, high energy, and game courage."
-    },
-
-    care: {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-smooth-fox-terrier-breed-profile",
-          role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
-          role: "cited",
-          locator: "Care, exercise, and management"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Combines active earthdog management with smooth-coat grooming protocols."
+      note: "Editorial 1-5 scale estimates informed by kennel club temperament profiles."
     },
 
     "care.exercise.level": {
@@ -736,35 +820,128 @@ export const fox_terrier_smooth: Breed = {
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
-        },
-        {
-          id: "fci-fox-terrier-smooth-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Terrier built for work and stamina"
+          locator: "Exercise section (lively, athletic, requires ample exercise)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "care.exercise.minutesPerDay": {
-      reliability: "estimate",
+      reliability: "general_guidance",
       sources: [
-        {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
-          role: "cited",
-          locator: "Exercise requirements: Up to 1 hour per day"
-        },
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
+          locator: "Exercise section"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 45 to 60 minutes of daily activity reflects the exercise demands of an active small working terrier."
+      note: "General daily exercise range for an active small working terrier."
+    },
+
+    "care.exercise.activities": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Exercise section (long walks, fetch, fenced playtime)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.level": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Grooming section"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.brushing": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Grooming section (weekly brushing with thick brush or hound glove)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.bathing": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Grooming section (monthly bath or as needed after digging)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.notes": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "cited",
+          locator: "Grooming section"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.training.difficulty": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "cited",
+          locator: "Training section"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.training.tips": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Training and Exercise sections (leash/fenced yard, digging instinct, terrier-savvy puppy classes)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.training.socialization": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "cited",
+          locator: "Training section"
+        }
+      ],
+      verifiedOn: null,
+      note: null
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -773,15 +950,10 @@ export const fox_terrier_smooth: Breed = {
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (4/5) with adequate outdoor walks"
-        },
-        {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
-          role: "verified",
-          locator: "Living environment: Flat/Apartment suitable with regular exercise"
+          locator: "Training section (equally at home in city or country)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -791,33 +963,23 @@ export const fox_terrier_smooth: Breed = {
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
-        },
-        {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
-          role: "verified",
-          locator: "Living environment: Small garden suitable"
+          locator: "Exercise and Training sections (fenced yard)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "fci-fox-terrier-smooth-official-standard",
-          role: "verified",
-          locator: "COAT: Straight, flat, hard, dense coat"
-        },
-        {
-          id: "akc-smooth-fox-terrier-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: needs indoor living and winter coats in sub-zero weather"
+          role: "cited",
+          locator: "Coat description"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: null,
       note: null
     },
 
@@ -827,7 +989,7 @@ export const fox_terrier_smooth: Breed = {
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate; independent nature"
+          locator: "Temperament traits"
         }
       ],
       verifiedOn: null,
@@ -840,144 +1002,142 @@ export const fox_terrier_smooth: Breed = {
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, weight management, treat budgeting"
+          locator: "Nutrition section (high-quality age-appropriate food, weight and treat monitoring)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active small sporting and terrier breeds."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-smooth-fox-terrier-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "smooth-fox-terrier-sca-kcnj10-study-2014",
+          id: "pubmed-rohdin-2015-kcnj10-ataxia-russell-terriers",
           role: "verified",
-          locator: "KCNJ10 mutation causing spinocerebellar ataxia and myokymia (SAMS / SCA) in Smooth Fox Terriers"
+          locator: "Abstract (KCNJ10 mutation confirmed in Smooth-Haired Fox Terriers with hereditary ataxia)"
         },
         {
-          id: "ofa-smooth-fox-terrier-chic-requirements",
+          id: "smooth-fox-terrier-sca-kcnj10-study-2014",
           role: "verified",
-          locator: "CHIC Program requirements: Patellar Luxation, Eye Examination, Cardiac Exam, DNA tests for PLL and Spinocerebellar Ataxia"
+          locator: "KCNJ10:c.627C>G mutation identification in spinocerebellar ataxia with myokymia and seizures"
+        },
+        {
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
+          role: "verified",
+          locator: "ADAMTS17 mutation associated with primary lens luxation in terriers"
+        },
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Health section (Patella Evaluation, Cardiac Exam)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesizes peer-reviewed genetics research on spinocerebellar ataxia with national health registry screening protocols."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "pubmed-rohdin-2015-kcnj10-ataxia-russell-terriers",
+          role: "verified",
+          locator: "KCNJ10 mutation in Smooth-Haired Fox Terriers"
+        },
+        {
           id: "smooth-fox-terrier-sca-kcnj10-study-2014",
           role: "verified",
-          locator: "Spinocerebellar ataxia, myokymia, seizures, and KCNJ10 genetics"
+          locator: "Spinocerebellar ataxia with myokymia and seizures (KCNJ10)"
+        },
+        {
+          id: "pubmed-gould-2011-adamts17-lens-luxation",
+          role: "verified",
+          locator: "Primary lens luxation (ADAMTS17)"
         },
         {
           id: "ofa-smooth-fox-terrier-chic-requirements",
           role: "verified",
-          locator: "Patellar luxation, primary lens luxation, cardiac conditions, and congenital deafness"
+          locator: "CHIC health screening conditions (patella, cardiac, eyes, PLL, SCA)"
+        },
+        {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Health section (patellar luxation, cardiac disease)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-21",
+      note: "Distinguishes peer-reviewed causal genetic mutations (KCNJ10, ADAMTS17) from monitored orthopedic, cardiac, ocular, and hearing conditions."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "ofa-smooth-fox-terrier-chic-requirements",
-          role: "cited",
-          locator: "Health screening, DNA testing verification, and patella checks"
-        },
-        {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "cited",
-          locator: "Routine care, wellness, and dental care"
+          locator: "Health and Grooming sections"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to active small earthdogs."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-smooth-fox-terrier-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests from the National Breed Club (Patella Evaluation, Cardiac Exam)"
+        },
+        {
           id: "ofa-smooth-fox-terrier-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: Patellar Luxation, CAER Eye examination, Congenital Cardiac exam, PLL DNA test, Spinocerebellar Ataxia (SCA) DNA test, BAER hearing test"
+          locator: "Smooth Fox Terrier CHIC screening panel (patella, cardiac, eye, PLL DNA, SCA DNA)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-fox-terrier-smooth-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: strong jaws with perfect, regular scissor bite"
-        },
-        {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Health and Grooming sections"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-fox-terrier-smooth-official-standard",
-          role: "cited",
-          locator: "Ears: small, V-shaped and dropping forward close to cheek"
-        },
-        {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "cited",
-          locator: "Routine ear care"
+          locator: "Grooming section"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for small V-shaped drop ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-fox-terrier-smooth-official-standard",
+          id: "akc-smooth-fox-terrier-breed-profile",
           role: "cited",
-          locator: "Skin and smooth coat care"
+          locator: "Grooming section"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -986,40 +1146,29 @@ export const fox_terrier_smooth: Breed = {
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
-          role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
+          locator: "About the Breed, Exercise, and Training sections"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+      note: "Editorial household suitability assessment based on energy, prey drive, and training needs."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
+          id: "rkc-fox-terrier-smooth-breed-profile",
+          role: "verified",
+          locator: "About this breed (1863 Birmingham Old Jock/Old Tartar/Old Trap, 276 entries, white coat purpose)"
+        },
+        {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "verified",
-          locator: "Westminster three-time winner (Ch. Warren Remedy), Herbert Hoover White House dogs, circus performing dogs, Nipper RCA Victor connection"
-        },
-        {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
-          role: "verified",
-          locator: "History: 1876 standard, hunter-like outline, bolted foxes"
-        },
-        {
-          id: "fci-fox-terrier-smooth-official-standard",
-          role: "verified",
-          locator: "Brief historical summary: 19th-century English foxhound pack accompaniment"
+          locator: "About the Breed and Did You Know (Herbert Hoover dogs, V-shaped head vs Wire)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-21",
+      note: "Ch. Warren Remedy's 1907-1909 consecutive Best in Show record is corroborated by Westminster Kennel Club official records."
     },
 
     faq: {
@@ -1028,29 +1177,23 @@ export const fox_terrier_smooth: Breed = {
         {
           id: "fci-fox-terrier-smooth-official-standard",
           role: "verified",
-          locator: "Origin, size (36-39 cm / 33-36 cm), weight (7.5-8 kg / 7-7.5 kg), coat, and colors"
-        },
-        {
-          id: "the-kennel-club-fox-terrier-smooth-breed-standard",
-          role: "verified",
-          locator: "Comparison with Wire Fox Terrier, characteristics, and temperament"
+          locator: "Size, Weight, and Coat"
         },
         {
           id: "akc-smooth-fox-terrier-breed-profile",
           role: "verified",
-          locator: "Family suitability, apartment living, exercise needs, and training"
+          locator: "About the Breed, Grooming, Exercise, Training, and Health"
         },
         {
           id: "ofa-smooth-fox-terrier-chic-requirements",
           role: "verified",
-          locator: "Recommended health screening panel and DNA tests"
+          locator: "Recommended health screenings"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-21",
+      note: null
     }
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-21"
 };

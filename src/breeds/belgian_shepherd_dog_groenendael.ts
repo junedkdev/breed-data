@@ -8,18 +8,17 @@ export const belgian_shepherd_dog_groenendael: Breed = {
   alternateNames: [
     "Groenendael",
     "Belgian Sheepdog",
-    "Chien de Berger Belge (Groenendael)",
-    "Belgischer Schäferhund (Groenendael)",
-    "Pastore Belga Groenendael"
+    "Belgian Shepherd",
+    "Chien de Berger Belge",
+    "Belgischer Schäferhund",
+    "Perro de Pastor Belga"
   ],
 
-  group:
-    "Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 — Sheepdogs (with working trial; also classified in the Herding and Pastoral groups)",
+  group: "Herding and Pastoral Sheepdog (Sheepdog)",
 
   origin: {
     country: "Belgium",
-    region:
-      "Château de Groenendael, Soignes Forest near Brussels, central Belgium"
+    region: "Château de Groenendael, Sonian Forest near Brussels, Belgium"
   },
 
   images: [
@@ -29,7 +28,7 @@ export const belgian_shepherd_dog_groenendael: Breed = {
         "https://commons.wikimedia.org/wiki/File:Berger_belge_Groenendael.jpg",
       title: "Berger belge Groenendael.jpg",
       description:
-        "An adult black Belgian Shepherd Groenendael outdoors on a beach.",
+        "An adult black Belgian Shepherd Groenendael playing on the beach of Boulogne.",
       creator: "Tsaag Valren",
       uploader: "Tsaag Valren",
       capturedOn: "2018-09-17",
@@ -40,7 +39,7 @@ export const belgian_shepherd_dog_groenendael: Breed = {
       attribution:
         "Photo by Tsaag Valren, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Berger_belge_Groenendael.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Groenendael.jpg",
@@ -58,29 +57,28 @@ export const belgian_shepherd_dog_groenendael: Breed = {
       attribution:
         "Photo by Adam C. Emery (Acemetrical), Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Groenendael.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "A noble, athletic, and vigilant Belgian pastoral sheepdog, renowned for its shimmering jet-black long double coat, collarette around the neck, erect triangular ears, lightning agility, and intensely loyal, protective devotion to its handler.",
+      "An agile, square-built Belgian herding dog distinguished by its long solid-black double coat, full neck collarette, crisp upright ears, keen mind, and intense devotion to its handler.",
 
     description:
-      "The Belgian Shepherd Dog (Groenendael) is an elegant, well-balanced, and square-proportioned medium-to-large herding dog that combines robust power with lithe, effortless agility. As the solid black long-haired variety of Belgium's native sheepdogs, the dog presents an unmistakable silhouette characterized by a proud head carriage, upright triangular ears, and a dense, straight black coat that forms an abundant collarette around the neck and rich breeches on the thighs. The head is finely chiseled and clean, with a moderate stop and expressive, slightly almond-shaped dark eyes that radiate keen intelligence and alert curiosity. Sensitive, highly trainable, and bursting with vitality, the dog excels across working disciplines including herding, protection, agility, and search operations, while maintaining an affectionate, shadow-like bond with its human family.",
+      "The Belgian Shepherd Dog (Groenendael) is a medium-to-large, squarely proportioned working herder that pairs lean strength with quick, fluid grace. As the long-coated black variety among Belgium's four native sheepdogs, it carries a proud head and neck framed by a rich collarette, feathered legs, full thigh breeches, and a plumed tail. Its finely chiseled head features stiff triangular ears held upright when alert, a complete scissor bite, and slightly almond-shaped dark brown eyes with a bright, questioning gaze. Driven, responsive, and deeply attached to its people, the Groenendael thrives on active teamwork and close daily engagement.",
 
     history:
-      "The breed was established in late nineteenth-century Belgium during a national movement led by Professor Adolphe Reul of the Cureghem Veterinary Medical School to identify and standardize indigenous pastoral dogs. In 1891, the Belgian Shepherd Dog Club was formed, categorizing local working stock into distinct varieties based on coat length, texture, and color. The solid black long-coated variety was selected and developed by Nicolas Rose, an innkeeper and passionate breeder at the Château de Groenendael in the Sonian Forest south of Brussels. Rose acquired foundation dogs, including the celebrated black foundation dog Duc de Groenendael and female Petite, breeding them systematically to create a consistent, aristocratic working line. The breed served extensively during the First and Second World Wars as military sentries, messenger carriers, and ambulance search dogs, earning international renown for courage and working versatility.",
+      "Belgian herding dogs of this type worked across rural Belgium from the Middle Ages onward. In 1891, veterinary professor Adolphe Reul examined 117 native herding dogs to help classify Belgium's regional sheepdogs into four coat varieties sharing the same athletic build: Groenendael, Tervueren, Malinois, and Laekenois. The solid-black long-haired line was established by innkeeper and breeder Nicolas Rose at the Château de Groenendael near Brussels, using a foundational black pair that fixed the variety's striking appearance. Valued for stamina, courage, and quick learning, Belgian Shepherds served during World War I as sentries, messengers, and ambulance dogs, and today work worldwide in police, search, herding, and dog sports.",
 
     originalPurpose:
-      "Herding, guarding, and driving flocks of sheep, protecting homesteads, and assisting rural farmsteads in central Belgium.",
+      "Herding and guarding sheep flocks and protecting Belgian farmsteads.",
 
     currentRoles: [
-      "Pastoral livestock herding and boundary management dog",
-      "Police, military, and personal protection canine",
-      "Search, rescue, and tracking detection partner",
-      "Canine athlete in agility, flyball, Schutzhund/IGP, and competitive obedience",
-      "Devoted household companion and estate guardian for experienced handlers"
+      "Herding, tracking, and utility working dog",
+      "Police, military, and search-and-rescue partner",
+      "High-level competitor in agility, obedience, flyball, and protection sports",
+      "Devoted, active companion and watchdog for experienced owners"
     ]
   },
 
@@ -117,48 +115,38 @@ export const belgian_shepherd_dog_groenendael: Breed = {
     },
 
     coatType:
-      "Long, straight, abundant, and flat double coat with a dense, woolly undercoat providing exceptional weather resistance; short on the head, external face of ears, and lower legs; forming an abundant collarette and ruff around the neck and throat, breeches of long hair on the back of thighs, and a profusely plumed tail.",
+      "Long, straight, abundant double coat with a dense undercoat; short on the face, outer ears, and lower legs, and longer around the neck (collarette), backs of thighs (breeches), and tail.",
 
     coatLength: "Long",
 
     coatColors: [
-      "Solid black (uniform jet black all over the body; a small white star or patch on the forechest and white between the toes are permissible)"
+      "Solid Black (small white patch on forechest and toes permitted; white or grey muzzle frosting occurs naturally with age)"
     ],
 
-    sheddingLevel:
-      "Moderate year-round shedding with heavy seasonal coat blowing in spring and autumn",
-
-    droolingLevel:
-      "Low; tight, cleanly cut, and darkly pigmented lips prevent drooling",
+    sheddingLevel: "Moderate year-round, with heavy seasonal shedding",
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Harmonious, square body outline where body length from shoulder to buttock approximately equals height at withers",
-      "Height at the withers of 60 to 66 cm in males (ideal 62 cm) and 56 to 62 cm in females (ideal 58 cm)",
-      "Weight of 25 to 30 kg for males and 20 to 25 kg for females in lean working condition",
-      "Shimmering, solid jet-black long double coat with an abundant neck collarette, ruff, and thigh breeches",
-      "Finely chiseled, long head with a moderate stop and equal proportions between skull and muzzle",
-      "Tight, black lips and strong jaws with a complete, regular 42-tooth scissor bite",
-      "Medium-sized, slightly almond-shaped dark brown eyes with black rims and an alert, questioning expression",
-      "Stiffly erect, triangular prick ears set high on the skull, carried upright when alert",
-      "Muscular, arched neck widening smoothly into clean, laid-back shoulders without loose throat skin",
-      "Deep chest reaching down to the elbows with well-sprung oval ribs and a moderate tuck-up",
-      "Strong tail reaching at least to the hock, carried hanging down with a slight upward hook at rest and raised in a curve when moving",
-      "Well-muscled, dry limbs with compact, arched cat-like feet and tough black pads"
+      "Square, balanced frame whose length from shoulder to buttock closely matches height at the withers",
+      "Long, straight solid-black double coat with a prominent neck collarette and feathered thigh breeches",
+      "High-set, stiffly erect triangular ears held upright when attentive",
+      "Slightly almond-shaped dark brown eyes with black rims and a lively, questioning expression",
+      "Proud, slightly arched neck widening smoothly into well-laid shoulders",
+      "Deep chest reaching the elbows with a firm, straight back and graceful underline"
     ]
   },
 
   temperament: {
     traits: [
-      "Watchful, alert, and constantly observant of surroundings",
-      "High-spirited, energetic, and bursting with physical vitality",
-      "Intensely loyal, affectionate, and shadow-like with family members",
-      "Fearless, vigilant, and protective guardian of home and handler",
-      "Highly intelligent with lightning-fast problem-solving ability",
-      "Reserved and discerning with unfamiliar strangers without unprovoked aggression",
-      "Playful and gentle with familiar, respectful children",
-      "Sensitive to handler emotional tone and body language",
-      "Strong herding drive, instinctively circling and monitoring moving family members",
-      "Thrives on continuous mental tasks and structured work"
+      "Intelligent",
+      "Watchful",
+      "Alert",
+      "Energetic",
+      "Loyal",
+      "Protective",
+      "Sensitive",
+      "Hardworking",
+      "Reserved with strangers"
     ],
 
     scores: {
@@ -176,142 +164,109 @@ export const belgian_shepherd_dog_groenendael: Breed = {
 
   care: {
     exercise: {
-      level:
-        "Very high; an athletic working shepherd requiring vigorous daily physical exercise and demanding mental stimulation to maintain domestic balance",
-
+      level: "Very high",
       minutesPerDay: {
         min: 90,
         max: 120
       },
-
       activities: [
-        "Daily long trail hikes, brisk walks, and woodland runs",
-        "Herding trials, boundary management, and pastoral sports",
-        "Canine sports including agility, flyball, IGP/protection, and competitive obedience",
-        "Interactive fetch, frisbee catching, and sprint retrieving in a secure yard",
-        "Scent tracking, search drills, and nosework challenges",
-        "Canicross, trail jogging, or running alongside a bicycle once skeletally mature"
+        "Interactive daily runs, brisk hikes, and ball-play sessions with the owner",
+        "Herding, tracking, and scent-work training",
+        "Agility, obedience, rally, and flyball competitions",
+        "Structured mental enrichment and puzzle challenges"
       ]
     },
 
     grooming: {
       level: "Moderate",
-
-      brushing:
-        "Brush thoroughly once or twice weekly using a pin brush and metal greyhound comb down to the skin to remove loose undercoat and prevent mats in the collarette, thigh breeches, and armpits; increase to daily brushing during heavy seasonal spring and autumn undercoat molts.",
-
-      bathing:
-        "Bathe every six to eight weeks or when soiled, using a gentle canine shampoo and moisturizing conditioner; the dense coat naturally repels dried dirt and mud once dry.",
-
+      brushing: "Weekly thorough brushing year-round, switching to daily brushing during heavy seasonal undercoat sheds",
+      bathing: "Infrequent baths as needed with a gentle dog shampoo",
       notes: [
-        "Never shave the double coat; the outer guard hairs and dense undercoat provide thermal insulation against both winter freezing and summer heat.",
-        "Inspect the erect ears weekly for dust, wax, or foreign matter, wiping gently with a veterinary ear wash.",
-        "Check paw pads, toes, and skin for thorns, burrs, or cuts after woodland runs.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain correct compact foot structure.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "The coat possesses negligible natural dog odor and sheds dried dirt naturally when brushed."
+        "Never shave the double coat, as both layers protect the skin from cold, moisture, and sun.",
+        "Pay close attention to the collarette, behind the ears, and thigh breeches where tangles form first.",
+        "Trim nails regularly, check the upright ears for wax or debris, and brush teeth several times a week."
       ]
     },
 
     training: {
-      difficulty:
-        "Easy to moderate; exceptionally intelligent, eager to work, and biddable, but possesses high sensitivity and sharp reflexes that require calm, consistent, and reward-based guidance",
-
+      difficulty: "Easy to moderate",
       tips: [
-        "Use positive reinforcement, high-value food rewards, and toy-based play praise.",
-        "Begin impulse-control, loose-leash walking, and calm boundary training from early puppyhood.",
-        "Keep training sessions fast-paced, challenging, and varied to leverage high intelligence.",
-        "Avoid harsh verbal reprimands or physical coercion, which cause this sensitive shepherd to become anxious or shut down.",
-        "Always exercise within a securely fenced area of at least six feet in height.",
-        "Channel natural herding drive into structured sports rather than allowing heel-nipping of running family members."
+        "Use upbeat, reward-based training with treats and toys; harsh handling quickly undermines trust in this sensitive breed.",
+        "Engage the dog daily with varied tasks—simply turning a Groenendael out into a yard alone is not enough.",
+        "Start puppy obedience and impulse-control classes early to channel strong herding instincts cleanly.",
+        "Use a tall, securely fenced yard and keep the dog on a leash in open areas."
       ],
-
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs of varying sizes, household appliances, traffic sounds, and novel environments. Early structured socialization tempers natural protective wariness and ensures the dog matures into a poised, self-assured companion."
+        "Begin calm, positive socialization in early puppyhood across varied people, dogs, places, and sounds so natural vigilance matures into steady, confident judgment without nervousness."
     },
 
     livingEnvironment: {
       apartmentSuitable: false,
       houseWithYardSuitable: true,
-
-      climates: [
-        "Cold and snowy winter climates, where the dense double coat provides superb thermal insulation",
-        "Temperate climates",
-        "Warm climates, provided indoor air conditioning, shade, and fresh water are available and exercise occurs during cooler morning or evening hours"
-      ],
-
-      aloneTimeTolerance:
-        "Low to moderate; intensely bonded to its handler and prone to separation distress, boredom barking, or pacing if left isolated for long workdays without activity."
+      climates: ["Cold", "Temperate", "Warm"],
+      aloneTimeTolerance: "Low to moderate"
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-to-large active working or sporting breeds, adjusted for age, activity level, and metabolic rate.",
+      "Complete, balanced dog food formulated for active medium-to-large working breeds, tailored to life stage and workload.",
 
     feedingFrequency: {
-      puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady skeletal development.",
-      adult:
-        "Two measured meals daily to support steady metabolism and minimize digestive discomfort.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+      puppy: "Three to four small measured meals daily until six months old, then two meals",
+      adult: "Two measured meals per day",
+      senior: "Two portion-controlled meals per day adjusted for lower activity"
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt through the dense coat. Divide daily food into two distinct meals, restrict vigorous running for at least one hour before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure meals carefully and watch body condition through the dense coat so the dog stays lean and athletic. Split daily food into two meals and avoid heavy running right before or after eating to help reduce bloat risk. Keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on hips and stifles.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water, especially during active exercise.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Adjust calories up during intense sport or working seasons and down during quieter periods to prevent weight gain.",
+      "Count training treats within the daily calorie allowance.",
+      "Avoid rich table scraps and transition to any new diet gradually over about a week."
     ],
 
     note:
-      "Caloric needs fluctuate substantially based on working workload, training intensity, and outdoor temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Consult a veterinarian to match daily portions and diet formulas to your dog's workload and life stage."
   },
 
   health: {
     overview:
-      "The Belgian Shepherd Dog (Groenendael) is a hardy, robust working sheepdog with a typical life expectancy of 12 to 14 years. Having been cultivated for functional performance and athleticism, it enjoys good overall constitutional vitality. Primary health priorities include orthopedic screening for hip and elbow dysplasia, hereditary ocular conditions (such as progressive retinal atrophy and cataracts), idiopathic epilepsy (which has a documented genetic background in the breed), and gastric dilatation-volvulus (bloat) in deep-chested individuals.",
+      "The Belgian Shepherd Dog (Groenendael) is generally a robust, athletic breed with a typical lifespan of 12 to 14 years. Peer-reviewed genetic research has identified interacting risk loci on canine chromosomes 14 and 37 (near ADAM23) associated with idiopathic epilepsy in Belgian Shepherds. Responsible health programs also screen for hip dysplasia, elbow dysplasia, and inherited eye disorders, while owners and veterinarians should remain mindful of heightened sensitivity to anesthesia and deep-chested bloat risk.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb lameness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints causing forelimb lameness and secondary arthritis",
-      "Idiopathic epilepsy — inherited seizure disorder documented in Belgian Shepherd lines, with genetic risk loci mapped to chromosomes 14 and 37, managed through careful pedigree tracking and anticonvulsant therapy",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in deep-chested dogs, requiring emergency surgical intervention",
-      "Progressive retinal atrophy (PRA) and hereditary cataracts — ocular conditions monitored through annual certified ophthalmologist examinations",
-      "Allergic dermatitis and atopy — occasional sensitivities to environmental allergens or fleas causing skin itching and secondary infections",
-      "Traumatic athletic injuries — muscle strains, paw pad abrasions, or ligament sprains sustained during high-speed agility or working trials"
+      "Idiopathic epilepsy — a recurring seizure disorder with documented multigenic inheritance in Belgian Shepherds, linked in genome-wide studies to interacting risk loci on chromosomes 14 and 37 (near ADAM23)",
+      "Hip dysplasia — developmental hip-joint malformation that can lead to arthritis, monitored through radiographic screening",
+      "Elbow dysplasia — developmental elbow-joint abnormalities monitored via radiographic evaluation",
+      "Anesthesia sensitivity — heightened sensitivity to certain anesthetic agents, requiring sighthound- and shepherd-aware veterinary protocols during surgery",
+      "Inherited eye disorders — progressive retinal atrophy (PRA) and cataracts monitored through regular veterinary ophthalmologist exams",
+      "Gastric dilatation-volvulus (bloat) — an acute, life-threatening stomach twisting risk in deep-chested breeds requiring immediate emergency care",
+      "Certain cancers — monitored through routine senior veterinary checkups"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip and elbow clearances, current specialist eye examinations, and thoroughly researched family pedigrees free of early-onset epilepsy.",
-      "Feed two smaller meals daily and avoid vigorous running for at least one hour before and after eating to mitigate bloat risk.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Inspect the erect prick ears weekly for dust, wax, or foreign matter, wiping gently with an approved cleanser.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding stock has documented radiographic hip and elbow clearances, current ophthalmologist eye exams, and carefully tracked family histories regarding epilepsy.",
+      "Alert your veterinarian to the breed's sensitivity to anesthesia before any surgical or dental procedure.",
+      "Feed two measured meals daily and rest the dog before and after eating to help lower bloat risk.",
+      "Maintain lean muscle condition, regular dental brushing, ear checks, parasite control, and annual veterinary exams."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Pedigree and lineage evaluation for idiopathic epilepsy"
+      "Radiographic hip dysplasia evaluation",
+      "Radiographic elbow dysplasia evaluation",
+      "Veterinary ophthalmologist eye examination",
+      "Pedigree and family health review for idiopathic epilepsy"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with dog-safe toothpaste and schedule routine veterinary dental checks to keep the strong scissor-bite teeth and gums healthy.",
 
     earCare:
-      "Inspect the erect prick ears weekly for wax buildup, moisture, or dirt. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check the erect triangular ears weekly for wax buildup, dirt, or redness, and wipe gently with a veterinarian-approved cleaner when needed.",
 
     skinCare:
-      "Part the dense coat weekly during brushing to inspect the skin for external parasites, redness, or mats. Avoid shaving the double coat; regular brushing preserves skin aeration and coat insulation."
+      "Part the long black coat during weekly brushing to check the skin for mats, redness, burrs, or parasites, without shaving the protective double coat."
   },
 
   suitability: {
@@ -322,152 +277,122 @@ export const belgian_shepherd_dog_groenendael: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, runners, and hikers who can provide two hours of daily physical exercise and mental engagement",
-      "Experienced dog owners familiar with high-drive working sheepdogs and positive training methods",
-      "Homes with large, securely fenced yards of at least six feet in height",
-      "Canine sports enthusiasts involved in agility, flyball, IGP, tracking, or competitive obedience",
-      "Handlers seeking an intensely loyal, shadow-like partner that thrives on close personal teamwork"
+      "Active, experienced owners who enjoy daily interactive exercise and training teamwork",
+      "Homes with a tall, securely fenced yard and time for close human companionship",
+      "Dog sport enthusiasts participating in herding, agility, obedience, tracking, or flyball",
+      "Active families with respectful children who include the dog in daily life"
     ],
 
     notIdealFor: [
-      "Novice or passive dog owners unprepared for high physical energy, sharp working drive, and sensitivity",
-      "Sedentary individuals looking for a low-exercise indoor lap pet",
-      "Apartment or condominium dwellers without access to extensive outdoor exercise areas",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People seeking a casual, low-maintenance backyard pet"
+      "First-time or low-energy owners unprepared for a high-drive, sensitive working shepherd",
+      "Apartment dwellers without consistent access to vigorous daily exercise and training space",
+      "Households that leave a dog alone in a yard or indoors for long workdays without interaction",
+      "Handlers who rely on harsh or heavy-handed training corrections"
     ]
   },
 
   funFacts: [
-    "The Groenendael variety takes its name from the Château de Groenendael, a country estate and inn located in the Sonian Forest south of Brussels, where founder Nicolas Rose developed the solid black long-haired line in the 1890s.",
-    "During World War I, Belgian Shepherds served heroically on the front lines as sentries, trench messengers, and ambulance dogs, pulling small litters with medical supplies to locate wounded soldiers under fire.",
-    "While international kennel organizations classify the Groenendael as one of four varieties of a single Belgian Shepherd breed (alongside the Malinois, Tervueren, and Laekenois), some national registries classify the Groenendael as an independent breed under the name 'Belgian Sheepdog'.",
-    "All four varieties of the Belgian Shepherd share identical body structure, proportions, and working temperaments, differing only in coat length, texture, and color.",
-    "Despite their imposing all-black appearance and intense working drive, Groenendaels are famously sensitive to their handlers, earning a reputation for being 'thinking dogs' that anticipate human cues before they are voiced.",
-    "The small patch of white hair permitted on the chest is known among traditional Belgian fanciers as the 'star', reflecting early working lines from the Brabant countryside."
+    "The variety is named after the Château de Groenendael near Brussels, where breeder Nicolas Rose established the solid-black long-coated line in the late 1800s.",
+    "In 1891, veterinary professor Adolphe Reul examined 117 native Belgian herding dogs to help define the four coat varieties—Groenendael, Tervueren, Malinois, and Laekenois.",
+    "All four Belgian Shepherd varieties share the same square athletic structure and are differentiated only by coat length, texture, and color.",
+    "During World War I, Belgian Shepherds worked on the front lines as sentries, messengers, and ambulance dogs.",
+    "Light white or grey frosting on the muzzle is a normal, accepted trait in the black Groenendael, and a small white patch on the forechest or toes is also tolerated."
   ],
 
   faq: [
     {
-      question: "What is a Belgian Shepherd Dog (Groenendael)?",
+      question: "How is a Groenendael different from a Malinois, Tervueren, or Laekenois?",
       answer:
-        "The Belgian Shepherd Dog (Groenendael), also known as the Belgian Sheepdog, is an athletic, medium-to-large Belgian herding dog characterized by its solid black long double coat, erect triangular ears, square build, and alert, intelligent personality."
+        "All four are Belgian Shepherd varieties sharing the same square build and working drive; they differ only in coat: the Groenendael has a long solid-black coat, the Tervueren has a long fawn, red, or grey coat with black overlay, the Malinois has a short fawn/red/grey coat with black mask, and the Laekenois has a harsh, wiry reddish-fawn coat."
     },
     {
-      question: "What is the difference between a Groenendael, Malinois, Tervueren, and Laekenois?",
+      question: "How big does a Belgian Shepherd Dog (Groenendael) get?",
       answer:
-        "All four varieties share the same body proportions and working ancestry: the Groenendael has a long black coat; the Tervueren has a long coat in fawn, red, or grey with black overlay; the Malinois has a short fawn coat with a black mask; and the Laekenois has a harsh, wiry fawn coat."
+        "Adult males stand 60 to 66 cm at the withers and weigh 25 to 30 kg, while adult females stand 56 to 62 cm and weigh 20 to 25 kg."
     },
     {
-      question: "How tall and heavy is a Belgian Shepherd Dog (Groenendael)?",
+      question: "Is a Groenendael good for apartment living?",
       answer:
-        "Adult males stand 60 to 66 cm at the withers and weigh 25 to 30 kg, while adult females stand 56 to 62 cm and weigh 20 to 25 kg, presenting an agile, square, and well-balanced outline."
+        "Usually not. Because this breed has very high energy, sharp vigilance, and intense daily exercise and training needs, it fits best in an active household with a securely fenced yard."
     },
     {
-      question: "How long does a Groenendael live?",
+      question: "How much grooming does the long black coat need?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
+        "Most of the year, a thorough weekly brushing keeps the double coat clean and tangle-free, with daily brushing needed during heavy seasonal shedding. Never shave the coat."
     },
     {
-      question: "Do Groenendaels shed a lot, and how are they groomed?",
+      question: "Is the Groenendael a good choice for first-time dog owners?",
       answer:
-        "They shed moderately throughout the year and blow their dense undercoat heavily twice a year during seasonal changes. They require line-brushing once or twice a week down to the skin to prevent mats, increasing to daily brushing during seasonal molts; they should never be shaved."
+        "Generally no. While highly intelligent and eager to learn, its high working energy, strong herding instincts, and emotional sensitivity suit experienced owners ready for daily structured training."
     },
     {
-      question: "Can a Groenendael live in an apartment?",
+      question: "What health screenings are recommended for Groenendaels?",
       answer:
-        "No. Due to their very high energy, intense exercise requirements, and natural vigilance, they are not suited to apartment living and thrive best in a home with a large, securely fenced yard."
-    },
-    {
-      question: "Are Groenendaels good family pets and good with children?",
-      answer:
-        "Yes, with active, experienced families. They are deeply loyal, gentle, and protective with their own family members and playful with children; however, because of their high energy and herding instincts, interactions with toddlers should be supervised, and heel-nipping should be discouraged early."
-    },
-    {
-      question: "Is the Groenendael easy to train?",
-      answer:
-        "They are exceptionally intelligent, quick to learn, and eager to please, making them top performers in obedience and dog sports; however, they are sensitive and require patient, reward-based methods rather than harsh handling."
-    },
-    {
-      question: "How much exercise does a Groenendael need each day?",
-      answer:
-        "The breed requires 90 to 120 minutes of vigorous daily physical activity, including brisk runs, trail hiking, fetch sessions, and mental challenges like agility, herding, or tracking."
-    },
-    {
-      question: "What health conditions affect the Belgian Shepherd Dog (Groenendael)?",
-      answer:
-        "Primary health priorities include hip dysplasia, elbow dysplasia, idiopathic epilepsy, progressive retinal atrophy (PRA), cataracts, and bloat (gastric dilatation-volvulus)."
+        "Key pre-breeding screenings include radiographic hip and elbow evaluations, veterinary ophthalmologist eye exams, and careful pedigree tracking for idiopathic epilepsy."
     }
   ],
 
-references: [
+  references: [
     "fci-belgian-shepherd-dog-standard-15",
     "fci-belgian-shepherd-dog-nomenclature",
     "srhk-belgian-shepherd-breed-standard",
     "akc-belgian-sheepdog-breed-standard",
     "akc-belgian-sheepdog-breed-profile",
     "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
+    "rkc-belgian-shepherd-dog-groenendael-breed-profile",
     "ukc-belgian-shepherd-dog-breed-standard",
     "ofa-belgian-sheepdog-chic-requirements",
     "belgian-shepherd-idiopathic-epilepsy-study-2020",
+    "natureserve-canis-lupus-familiaris",
+    "the-dog-api",
     "wikimedia-berger-belge-groenendael-tsaag-valren",
     "wikimedia-groenendael-adam-emery"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxon profile: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "All domestic dog breeds belong to the subspecies Canis lupus familiaris."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "Standard heading: CHIEN DE BERGER BELGE (Groenendael)"
-        },
-        {
           id: "fci-belgian-shepherd-dog-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: CHIEN DE BERGER BELGE (15), Groenendael, Belgischer Schäferhund"
+          locator: "Multilingual names (Chien de Berger Belge, Belgischer Schäferhund, Perro de Pastor Belga; variety Groenendael)"
         },
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "History: Belgian Sheepdog, Groenendael"
+          locator: "Breed name: Belgian Sheepdog"
         },
         {
-          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Breed name: Belgian Shepherd Dog (Groenendael)"
+          locator: "breed.alt_names (Belgian Shepherd, Belgian Sheepdog, Chien de Berger Belge)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 15, FCI Nomenclature, The Royal Kennel Club, and AKC."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattle Dogs), Section 1 Sheepdogs, with working trial"
-        },
-        {
           id: "fci-belgian-shepherd-dog-nomenclature",
           role: "verified",
-          locator: "Group 1, Section 1 Sheepdogs, with working trial"
-        },
-        {
-          id: "akc-belgian-sheepdog-breed-standard",
-          role: "verified",
-          locator: "Herding Group"
+          locator: "Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs, subject to working trial"
         },
         {
           id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
@@ -475,133 +400,254 @@ references: [
           locator: "Pastoral Group"
         },
         {
-          id: "ukc-belgian-shepherd-dog-breed-standard",
+          id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Herding Dog Group"
+          locator: "Herding Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.breed_group (Herding)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-21",
+      note: "Presented in plain descriptive wording without registry codes or acronyms."
     },
 
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "ORIGIN: Belgium; BRIEF HISTORICAL SUMMARY"
-        },
         {
           id: "fci-belgian-shepherd-dog-nomenclature",
           role: "verified",
           locator: "Country of origin: Belgium"
         },
         {
-          id: "srhk-belgian-shepherd-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Origine: Belgique (Château de Groenendael)"
+          locator: "breed.origin (Belgium)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
-    overview: {
-      reliability: "official_standard",
+    "origin.region": {
+      reliability: "reliable_source",
       sources: [
-        {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
-        },
         {
           id: "srhk-belgian-shepherd-breed-standard",
           role: "verified",
-          locator: "Historique, Professeur Reul 1891, Nicolas Rose et élevage de Groenendael"
+          locator: "Château de Groenendael near Brussels"
         },
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "History section (Nicolas Rose, Groenendael)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesized in original prose from FCI Standard No. 15, SRSH, and AKC official records."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
-    physical: {
+    "overview.summary": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
+          role: "verified",
+          locator: "General Appearance, Characteristics, and Colour"
+        },
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "About the Breed"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.description": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
+          role: "verified",
+          locator: "General Appearance, Body, Eyes, Ears, and Colour"
+        },
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "General Appearance, Coat, and Temperament"
+        },
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "About the Breed (collarette, breeches, questioning intelligence)"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.description"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.history": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "rkc-belgian-shepherd-dog-groenendael-breed-profile",
+          role: "verified",
+          locator: "About this breed (Middle Ages, 1891 club, Prof. Adolphe Reul examining 117 dogs, four varieties)"
+        },
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Did You Know and History sections (Nicolas Rose, Club du Chien de Berger Belge)"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.history"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.originalPurpose": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
+          role: "verified",
+          locator: "Characteristics (primary purpose: herder and guardian of the flock)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.currentRoles": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "rkc-belgian-shepherd-dog-groenendael-breed-profile",
+          role: "verified",
+          locator: "About this breed (herding, police, armed forces, service dog)"
+        },
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Exercise section (obedience, agility, tracking, herding, flyball)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.sizeCategory": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
-        },
-        {
-          id: "srhk-belgian-shepherd-breed-standard",
-          role: "verified",
-          locator: "Morphologie, proportions, toison noire longue, tête et queue"
-        },
-        {
-          id: "akc-belgian-sheepdog-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Size, Head, Body, Tail, Coat, Color"
-        }
-      ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Conformation, square build (1:1), long black double coat, erect ears, and distinctive features follow official standards."
-    },
-
-    "physical.height": {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "SIZE: Height at withers: Males: 62 cm (ideal), 60-66 cm (limits). Females: 58 cm (ideal), 56-62 cm (limits)."
-        },
-        {
-          id: "srhk-belgian-shepherd-breed-standard",
-          role: "verified",
-          locator: "Taille au garrot: Mâles 62 cm (limites 60-66 cm); Femelles 58 cm (limites 56-62 cm)"
+          locator: "Size and Weight (56-66 cm, 20-30 kg)"
         },
         {
           id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
           role: "verified",
-          locator: "Height: dogs 61-66 cms (24-26 ins); bitches 56-61 cms (22-24 ins)"
+          locator: "General Appearance (medium-sized dog)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Preserved in published unit of centimetres (60–66 cm for males, ideal 62 cm; 56–62 cm for females, ideal 58 cm) exactly as specified in the official FCI Standard No. 15 and SRSH standard."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
-    "physical.weight": {
+    "physical.height.male.max": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "Weight: Males: about 25-30 kg. Females: about 20-25 kg."
+          locator: "Size: Males 62 cm ideal, 60-66 cm limits"
         },
         {
-          id: "srhk-belgian-shepherd-breed-standard",
-          role: "verified",
-          locator: "Poids: Mâles environ 25-30 kg; Femelles environ 20-25 kg"
+          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
+          role: "cited",
+          locator: "Ideal height: Dogs 61-66 cm"
         },
         {
-          id: "akc-belgian-sheepdog-breed-profile",
-          role: "verified",
-          locator: "Weight: 55-75 pounds (approx. 25-34 kg)"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (61-66 cm)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Preserved in published unit of kilograms (25 to 30 kg for males, 20 to 25 kg for females) exactly as specified in the official FCI Standard No. 15 and SRSH standard."
+      verifiedOn: "2026-11-21",
+      note: "Kept official FCI country-of-origin male height (60-66 cm, ideal 62 cm). The Dog API, Royal Kennel Club, and AKC list 61-66 cm / 24-26 in."
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "Size: Females 58 cm ideal, 56-62 cm limits"
+        },
+        {
+          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
+          role: "cited",
+          locator: "Ideal height: Bitches 56-61 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (56-61 cm)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Kept official FCI country-of-origin female height (56-62 cm, ideal 58 cm). The Dog API, Royal Kennel Club, and AKC list 56-61 cm / 22-24 in."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "Weight: Males about 25-30 kg"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (25-34 kg)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Kept official FCI male weight (25-30 kg); The Dog API lists a wider 25-34 kg range matching the AKC profile (55-75 lb)."
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "Weight: Females about 20-25 kg"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.weight.metric (20-27 kg)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Kept official FCI female weight (20-25 kg); The Dog API lists 20-27 kg matching the AKC profile (45-60 lb)."
     },
 
     "physical.lifespanYears": {
@@ -613,13 +659,72 @@ references: [
           locator: "Life Expectancy: 12-14 years"
         },
         {
-          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longevity and health actuarial profile (12-14 years)"
+          locator: "breed.life_span (12-14 years)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and parent club actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "Coat: Long straight double coat with dense undercoat, collarette, and breeches"
+        },
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Grooming section (double-layer coat, dense undercoat, harder outer coat)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "Groenendael: Long-haired variety"
+        },
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Coat Length: Long"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "Colour: Groenendael solid black (small white on forechest and toes tolerated)"
+        },
+        {
+          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
+          role: "verified",
+          locator: "Colour: Groenendael black; frosting on muzzle normal; small white on forechest and toes tolerated"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Discarded 16 non-black species-wide colours from The Dog API endpoint because the Groenendael variety is strictly solid black."
     },
 
     "physical.sheddingLevel": {
@@ -628,56 +733,64 @@ references: [
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
-        },
-        {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "COAT: Long, straight, abundant double coat with dense undercoat"
+          locator: "Grooming section (weekly brushing most of year; heavy seasonal shed)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "physical.droolingLevel": {
-      reliability: "official_standard",
+      reliability: "reliable_source",
       sources: [
-        {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "Lips: Thin, tight and strongly pigmented"
-        },
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: Drooling Level (low)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Thin, tightly fitting lips prevent drooling."
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.distinctiveFeatures": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
+          role: "verified",
+          locator: "Body, Neck, Eyes, Ears, and Colour"
+        },
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "Head, Ears, Body, and Coat"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
+          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Watchful and active, bursting with energy, vigilant guard dog, affectionate, courageous"
+          locator: "Temperament (intelligent, alert, naturally vigilant, devoted, initial reserve without nervousness or aggression)"
         },
         {
-          id: "srhk-belgian-shepherd-breed-standard",
+          id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Comportement: Vigilant, vif, d'une grande intelligence, protecteur sans agressivité injustifiée"
+          locator: "About the Breed (bright, watchful, serious-minded, sensitive)"
         },
         {
-          id: "akc-belgian-sheepdog-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Temperament: Alert, sensitive, loyal, deeply devoted, watchful"
+          locator: "breed.temperament"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -687,36 +800,11 @@ references: [
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
-          role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented sheepdog temperament, high protectiveness, and working trainability."
-    },
-
-    care: {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-belgian-sheepdog-breed-profile",
-          role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "srhk-belgian-shepherd-breed-standard",
-          role: "cited",
-          locator: "Soins, entretien de la fourrure et éducation"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Combines active working shepherd care with long double coat grooming and bloat prevention protocols."
+      note: "Editorial 1-5 scale estimates informed by kennel club temperament profiles."
     },
 
     "care.exercise.level": {
@@ -725,35 +813,128 @@ references: [
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Energy Level (5/5); Exercise Needs (5/5)"
-        },
-        {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "UTILIZATION: Working dog of great stamina"
+          locator: "Exercise section (requires ample daily interactive exercise)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "care.exercise.minutesPerDay": {
-      reliability: "estimate",
+      reliability: "general_guidance",
       sources: [
-        {
-          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
-          role: "cited",
-          locator: "Exercise: More than 2 hours per day"
-        },
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "cited",
-          locator: "Exercise recommendations for high-energy herding breeds"
+          locator: "Exercise section"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 90 to 120 minutes of daily activity reflects the exercise demands of an athletic, high-stamina pastoral working dog."
+      note: "General daily exercise range for a high-energy working herding dog."
+    },
+
+    "care.exercise.activities": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Exercise section (ball play, long runs, obedience, agility, tracking, herding, flyball)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.level": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Grooming section"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.brushing": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Grooming section (weekly brushing normally; daily during heavy seasonal shed)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.bathing": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Grooming section (infrequent baths unless messy)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.notes": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "cited",
+          locator: "Grooming and Health sections"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.training.difficulty": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "cited",
+          locator: "Training section"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.training.tips": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Training and Exercise sections (interactive engagement, sensitive temperament, puppy classes)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.training.socialization": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Training section (socialization and puppy-training classes especially important)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -762,17 +943,11 @@ references: [
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "cited",
-          locator: "High energy, exercise needs, and protective watchfulness"
-        },
-        {
-          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
-          role: "cited",
-          locator: "Space and outdoor activity requirements"
+          locator: "Exercise and Energy guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that high physical energy, herding drive, and territorial vigilance make apartment living generally unsuitable."
+      note: "Editorial assessment that high working drive and exercise needs make apartments generally unsuitable."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -781,33 +956,23 @@ references: [
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
-        },
-        {
-          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
-          role: "verified",
-          locator: "Living environment: Large garden suitable"
+          locator: "Exercise section"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "COAT: Dense double coat adapted to withstand Belgian climate"
-        },
-        {
-          id: "akc-belgian-sheepdog-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: well-suited to cold and temperate weather"
+          role: "cited",
+          locator: "Weather-resistant double coat"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: null,
       note: null
     },
 
@@ -817,10 +982,10 @@ references: [
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Tolerates Being Alone: Low rating (1/5 to 2/5); deeply bonded companion"
+          locator: "About the Breed (craves human companionship and abhors neglect)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -830,25 +995,11 @@ references: [
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
+          locator: "Nutrition section (age-appropriate food, calorie monitoring)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium-to-large working breeds."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-belgian-sheepdog-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
@@ -857,17 +1008,16 @@ references: [
         {
           id: "belgian-shepherd-idiopathic-epilepsy-study-2020",
           role: "verified",
-          locator: "Genome-wide association analysis identifying chromosome 14 and 37 loci for idiopathic epilepsy in Belgian Shepherds"
+          locator: "Abstract (interacting risk loci on CFA14 and CFA37 near ADAM23 for idiopathic epilepsy)"
         },
         {
-          id: "ofa-belgian-sheepdog-chic-requirements",
+          id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, Elbow Dysplasia, CAER Eye examination"
+          locator: "Health section (epilepsy, hip/elbow dysplasia, PRA/cataracts, anesthesia sensitivity, cancers)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesizes peer-reviewed genetics research on idiopathic epilepsy with health registry screening protocols."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "health.commonConditions": {
@@ -876,103 +1026,91 @@ references: [
         {
           id: "belgian-shepherd-idiopathic-epilepsy-study-2020",
           role: "verified",
-          locator: "Idiopathic epilepsy epidemiology and genetics in Belgian Shepherds"
-        },
-        {
-          id: "ofa-belgian-sheepdog-chic-requirements",
-          role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, eye diseases"
+          locator: "CFA14 and CFA37 (ADAM23) idiopathic epilepsy GWAS in Belgian Shepherds"
         },
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Gastric dilatation-volvulus (bloat) and cataracts"
+          locator: "Health section (hip/elbow dysplasia, PRA, cataracts, anesthesia sensitivity, certain cancers)"
+        },
+        {
+          id: "ofa-belgian-sheepdog-chic-requirements",
+          role: "verified",
+          locator: "CHIC screening conditions (hips, elbows, eyes)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-21",
+      note: "Distinguishes peer-reviewed multigenic epilepsy risk loci from orthopedic/ocular screening priorities, anesthesia sensitivity, and deep-chested bloat risk."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "ofa-belgian-sheepdog-chic-requirements",
-          role: "cited",
-          locator: "Health screening, hip and elbow evaluations, eye exams"
-        },
-        {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "cited",
-          locator: "Routine care, bloat precautions, and veterinary wellness"
+          locator: "Health section (anesthesia sensitivity, ear and dental checks)"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to deep-chested active working shepherds."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-belgian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests from the National Breed Club (Hip Evaluation, Elbow Evaluation, Ophthalmologist Evaluation)"
+        },
+        {
           id: "ofa-belgian-sheepdog-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, Radiographic Elbow Dysplasia evaluation, CAER Eye examination"
+          locator: "Belgian Sheepdog CHIC testing requirements"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "cited",
-          locator: "Jaws/teeth: strong jaws with complete scissor bite (42 teeth)"
-        },
-        {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Health section (regular teeth brushing)"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "cited",
-          locator: "Ears: distinctly triangular, stiffly erect, set high"
-        },
-        {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Health section (regular ear checks)"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for erect prick ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
+          id: "akc-belgian-sheepdog-breed-profile",
           role: "cited",
-          locator: "Skin: elastic, taut over whole body"
+          locator: "Grooming section"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -981,40 +1119,34 @@ references: [
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
-          role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
+          locator: "About the Breed, Exercise, and Training sections"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+      note: "Editorial household suitability assessment based on high working energy and sensitivity."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
+          id: "rkc-belgian-shepherd-dog-groenendael-breed-profile",
+          role: "verified",
+          locator: "About this breed (1891 Prof. Adolphe Reul examining 117 dogs, four coat varieties)"
+        },
+        {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Château de Groenendael origin, Nicolas Rose, World War I sentry work, four-variety comparison"
+          locator: "Did You Know (Nicolas Rose foundation couple, Club du Chien de Berger Belge)"
         },
         {
-          id: "srhk-belgian-shepherd-breed-standard",
+          id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
           role: "verified",
-          locator: "Historique, Duc de Groenendael et fondation de la race"
-        },
-        {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "Brief historical summary: Belgian Shepherd history"
+          locator: "Colour (muzzle frosting normal, small white on forechest/toes tolerated)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     faq: {
@@ -1023,24 +1155,18 @@ references: [
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "Origin, size (60-66 cm / 56-62 cm), weight (25-30 kg / 20-25 kg), coat, and color"
+          locator: "Size (60-66 cm / 56-62 cm), Weight (25-30 kg / 20-25 kg), and four varieties"
         },
         {
           id: "akc-belgian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Comparison with Malinois and Tervueren, exercise needs, family suitability, and training"
-        },
-        {
-          id: "ofa-belgian-sheepdog-chic-requirements",
-          role: "verified",
-          locator: "Recommended health screening panel"
+          locator: "Grooming, Exercise, Training, and Recommended Health Tests"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-21",
+      note: null
     }
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-21"
 };

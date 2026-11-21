@@ -157,13 +157,12 @@
 154:curly_coated_retriever - CG
 155:spanish_mastiff - CG
 156:norrbottenspets - CG
+157:rhodesian_ridgeback - CG
+158:whippet - CG
+159:fox_terrier_(smooth) - CG
+160:bolognese - CG
+161:belgian_shepherd_dog_(groenendael) - CG
 
-157:rhodesian_ridgeback - CR
-
-158:whippet - C
-159:fox_terrier_(smooth) - C
-160:bolognese - C
-161:belgian_shepherd_dog_(groenendael) - C
 162:basset_bleu_de_gascogne - C
 163:croatian_sheepdog - C
 164:harrier - C
@@ -235,12 +234,13 @@
 230:soft-coated_wheaten_terrier - C
 231:plott_hound - C
 232:bavarian_mountain_hound - C
+233:sarplaninac - C
+234:catalan_sheepdog - C
+235:serbian_hound - C
+236:styrian_coarse-haired_hound - C
 
-233:sarplaninac
-234:catalan_sheepdog
-235:serbian_hound
-236:styrian_coarse-haired_hound
-237:keeshond
+237:keeshond - R
+
 238:east_siberian_laika
 239:basset_artesien_normand
 240:irish_wolfhound

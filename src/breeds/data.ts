@@ -237,6 +237,10 @@ import { anatolian_shepherd_dog } from "./anatolian_shepherd_dog";
 import { soft_coated_wheaten_terrier } from "./soft_coated_wheaten_terrier";
 import { plott_hound } from "./plott_hound";
 import { bavarian_mountain_hound } from "./bavarian_mountain_hound";
+import { sarplaninac } from "./sarplaninac";
+import { catalan_sheepdog } from "./catalan_sheepdog";
+import { serbian_hound } from "./serbian_hound";
+import { styrian_coarse_haired_hound } from "./styrian_coarse_haired_hound";
 
 
 export const breedData: readonly Breed[] = [
@@ -473,4 +477,8 @@ export const breedData: readonly Breed[] = [
   soft_coated_wheaten_terrier,
   plott_hound,
   bavarian_mountain_hound,
+  sarplaninac,
+  catalan_sheepdog,
+  serbian_hound,
+  styrian_coarse_haired_hound,
 ];

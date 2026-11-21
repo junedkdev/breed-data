@@ -8,80 +8,77 @@ export const rhodesian_ridgeback: Breed = {
   alternateNames: [
     "African Lion Hound",
     "Lion Dog",
-    "Van Rooyen's Lion Dog",
-    "Chien de Crête Rhodésien",
-    "Rhodesischer Ridgeback"
+    "Ridgeback",
+    "Chien de Rhodésie à Crête Dorsale",
+    "Perro Crestado Rodesiano"
   ],
 
-  group:
-    "Scenthounds and Related Breeds; Section 3 — Related Breeds (without working trial; also classified in the Hound and Sighthound & Pariah Dog groups)",
+  group: "Scenthounds and Related Breeds (African Hunting Hound)",
 
   origin: {
     country: "South Africa",
-    region:
-      "Southern Africa (historical Matabeleland, Zimbabwe, and the highveld regions of South Africa)"
+    region: "Southern Africa (Cape Colony, South Africa, and historical Matabeleland / Zimbabwe)"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodesian_Ridgeback.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodesian_ridgeback_(8109929134).jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Rhodesian_Ridgeback.jpg",
-      title: "Rhodesian Ridgeback.jpg",
+        "https://commons.wikimedia.org/wiki/File:Rhodesian_ridgeback_(8109929134).jpg",
+      title: "Rhodesian ridgeback (8109929134).jpg",
       description:
-        "An adult Rhodesian Ridgeback standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
-      licenseId: "cc-by-sa-3.0",
+        "An adult wheaten Rhodesian Ridgeback showing its sleek short coat, dark eyes, and athletic head and shoulders.",
+      creator: "Pets Adviser",
+      uploader: "Томасина",
+      capturedOn: "2012-10-21",
+      uploadedOn: "2015-03-21",
+      width: 3648,
+      height: 2736,
+      licenseId: "cc-by-2.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Rhodesian_Ridgeback.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Pets Adviser (https://www.petsadviser.com), Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Rhodesian_ridgeback_(8109929134).jpg. License: https://creativecommons.org/licenses/by/2.0/.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodesian_Ridgeback_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Rhodesian_Ridgeback_16.10.2011_pl.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Rhodesian_Ridgeback_600.jpg",
-      title: "Rhodesian Ridgeback 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Rhodesian_Ridgeback_16.10.2011_pl.jpg",
+      title: "Rhodesian Ridgeback 16.10.2011 pl.jpg",
       description:
-        "A Rhodesian Ridgeback standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 450,
+        "A mature Rhodesian Ridgeback standing outdoors at a dog show in Poland.",
+      creator: "Pleple2000",
+      uploader: "Pleple2000",
+      capturedOn: "2011-10-16",
+      uploadedOn: null,
+      width: 1500,
+      height: 1388,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Rhodesian_Ridgeback_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Rhodesian_Ridgeback_16.10.2011_pl.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "A majestic, athletic, and courageous southern African hound renowned for the symmetrical ridge of reverse-growing hair along its spine, formidable hunting stamina, noble composure, and steadfast devotion to its family.",
+      "A powerful, athletic southern African hound distinguished by the symmetrical ridge of reverse-growing hair along its spine, great endurance, dignified reserve with strangers, and deep loyalty to its family.",
 
     description:
-      "The Rhodesian Ridgeback is a large, handsome, and muscular hound of balanced, athletic proportions, combining endurance, speed, and immense physical courage. Developed to track large game across challenging African terrain and protect homesteads, the dog possesses a clean, rectangular outline and powerful, sinewy movement. Its defining breed hallmark is the dorsal ridge: a crisp, symmetrical crest of hair growing forward along the backbone, starting immediately behind the shoulders with two identical opposite crowns and tapering towards the hips. The coat is short, dense, sleek, and glossy, displaying warm wheaten shades from light sand to rich red-gold. The head is noble and well-chiseled with a moderate stop, round expressive eyes matching coat coloration, and medium drop ears set high. In domestic life, it is placid, dignified, and affectionate, while outdoors it remains an alert, fearless guardian and an enthusiastic athlete.",
+      "The Rhodesian Ridgeback is a handsome, muscular, symmetrically built hound combining high endurance with agile speed on a clean, slightly rectangular frame. Its unmistakable trademark is the dorsal ridge—a well-defined band of hair growing forward along the back, beginning directly behind the shoulders with two matching opposite whorls (crowns) and tapering neatly toward the hips. The short, dense, glossy coat spans wheaten shades from pale flaxen to deep red wheaten, paired with either a black nose and dark eyes or a brown (liver) nose and amber eyes. A flat skull, moderate stop, strong muzzle, clean tight lips, and high-set medium drop ears frame a calm, intelligent expression. Outdoors, it is a bold, fast-moving athlete with keen hunting drive; indoors, it is typically composed, affectionate, and quietly watchful.",
 
     history:
-      "The breed developed in southern Africa through crosses between the indigenous ridged hunting dogs kept by the pastoral Khoikhoi people and European breeds brought by early Dutch, German, and British settlers in the seventeenth and eighteenth centuries, including Great Danes, Mastiffs, Greyhounds, Bloodhounds, and pointers. In the 1870s, hunter and big-game guide Cornelius van Rooyen bred these dogs in Matabeleland to track lions and dangerous quarry, selecting dogs that were fast, heat-tolerant, and agile enough to hold a lion at bay with tactical harassment without directly attacking. In 1922, a dedicated group of southern African breeders convened in Bulawayo to codify the formal standard, adapting established pointer and gundog guidelines to secure the ridged hunting hound. The breed spread rapidly across the world during the twentieth century, transitioning from an iconic African frontier hound into a celebrated international sporting dog and household protector.",
+      "The only registered breed indigenous to southern Africa, the Rhodesian Ridgeback arose in the Cape Colony when early European settlers crossed their hunting and guardian dogs—including Greyhounds, Mastiffs, Terriers, and Great Danes—with the semi-domesticated ridged hunting dogs of the indigenous Khoikhoi people. In the late nineteenth century, big-game hunter Cornelius van Rooyen further refined these versatile hounds in Matabeleland (modern Zimbabwe) to track game in small packs of two or three and hold lions at bay through agile harassment—never attacking directly—until the hunter arrived. In 1922, breeder Francis Richard Barnes gathered enthusiasts in Bulawayo to draft the breed's first formal description, modeling its balanced proportions on the Dalmatian, with regional kennel approval following in 1926. Today the breed is prized worldwide as a devoted family companion, watchdog, and canine athlete.",
 
     originalPurpose:
-      "Tracking, baying, and holding large African game, especially lions, at bay until mounted hunters arrived, as well as protecting isolated veld farmsteads from dangerous predators and intruders.",
+      "Tracking large African game—most famously baying and holding lions at bay in small packs until the hunter arrived—and guarding frontier farms.",
 
     currentRoles: [
-      "Big-game tracking and versatile hunting hound",
-      "Lure coursing, amateur open-field coursing, and agility competitor",
-      "Devoted household companion and family protector",
-      "Search, rescue, and scent detection partner",
-      "Endurance hiking and distance trail-running partner"
+      "Devoted family companion and alert household watchdog",
+      "Versatile big-game tracking and hunting hound",
+      "Canine athlete in lure coursing, tracking, agility, and obedience",
+      "Endurance hiking and running partner for active owners"
     ]
   },
 
@@ -103,12 +100,12 @@ export const rhodesian_ridgeback: Breed = {
     weight: {
       unit: "kg",
       male: {
-        min: 36.5,
+        min: 36,
         max: 41
       },
       female: {
-        min: 32,
-        max: 36.5
+        min: 29,
+        max: 34
       }
     },
 
@@ -118,52 +115,48 @@ export const rhodesian_ridgeback: Breed = {
     },
 
     coatType:
-      "Short, dense, sleek, and glossy, neither woolly nor silky; distinguished by a clear symmetrical ridge on the spine where hair grows in the reverse direction, starting immediately behind the shoulders and tapering to the hips with two identical whorls (crowns) opposite each other.",
+      "Short, dense, sleek, and glossy single coat featuring a clearly defined, symmetrical dorsal ridge of forward-growing hair with two identical opposite crowns behind the shoulders tapering toward the hips.",
 
     coatLength: "Short",
 
     coatColors: [
       "Light wheaten",
       "Wheaten",
-      "Red wheaten",
-      "Dark wheaten",
-      "Wheaten with dark mask and ears (small white patches on the chest and toes are permissible)"
+      "Red wheaten"
     ],
 
     sheddingLevel:
-      "Moderate year-round shedding; the short single coat sheds fine hairs that are easily managed with weekly rubber curry brushing",
+      "Moderate year-round; sheds fine short hairs easily managed with weekly brushing",
 
     droolingLevel:
-      "Low; clean, dry, tightly fitting lips prevent drooling",
+      "Low; clean, tightly fitting lips keep drooling minimal",
 
     distinctiveFeatures: [
-      "Strong, muscular, and active large hound outline combining power, speed, and endurance",
+      "Symmetrical, muscular, athletic hound frame built for endurance and agile speed",
       "Height at the withers of 63 to 69 cm in males and 61 to 66 cm in females",
-      "Weight of 36.5 to 41 kg for males and 32 to 36.5 kg for females in lean, conditioned working form",
-      "Characteristic dorsal ridge formed by hair growing towards the head, clearly defined, symmetrical, and containing two identical opposite crowns",
-      "Long, noble head with a flat skull, moderate stop, and strong, deep muzzle",
-      "Complete scissor bite with powerful jaws and sound, evenly spaced teeth",
-      "Round, wide-set eyes expressing intelligence, with dark rims in black-nosed dogs and amber rims in brown-nosed dogs",
-      "Nose black in black-eyed dogs or brown (liver) in amber-eyed dogs",
-      "Medium-sized drop ears set high, rather wide at the base and tapering to a rounded point",
-      "Deep, spacious chest extending down to the elbows with well-sprung ribs and a defined abdominal tuck-up",
-      "Strong tail tapering towards the tip, carried with a gentle upward curve without curling over the back",
-      "Straight, heavy-boned forelegs and well-muscled thighs with compact, arched cat-like feet"
+      "Mature weight typically 36 to 41 kg in males (ideal 36.5 kg) and 29 to 34 kg in females (ideal 32 kg)",
+      "Trademark dorsal ridge of reverse-growing hair starting behind the shoulders with two identical opposite crowns and tapering cleanly toward the hips",
+      "Wheaten coat ranging from pale flaxen to rich red wheaten, with minimal white on chest and toes permitted",
+      "Either a black nose paired with dark eyes or a brown (liver) nose paired with amber eyes",
+      "Flat skull, moderate stop, strong deep muzzle, and clean, closely fitting lips",
+      "Strong jaws with a complete scissor bite",
+      "Round, bright, moderately wide-set eyes harmonizing with coat color",
+      "Medium-sized drop ears set fairly high, broad at the base and tapering to a rounded tip",
+      "Deep chest reaching the elbows, well-sprung ribs, and a strong tail carried in a gentle upward curve"
     ]
   },
 
   temperament: {
     traits: [
-      "Dignified, calm, and composed in home surroundings",
-      "Deeply loyal, affectionate, and protective of family members",
-      "Reserved, aloof, and discerning with unfamiliar strangers without unprovoked aggression",
-      "Fearless, courageous, and resolute when sensing genuine danger",
-      "Independent problem-solver with strong hunting drive and endurance",
-      "Patient and dependable companion for familiar children",
-      "High prey drive toward running wildlife, requiring reliable recall and containment",
-      "Sensitive to handler emotional tone, shutting down under harsh treatment",
-      "Alert watchdog that monitors property with quiet vigilance rather than nuisance barking",
-      "Athletic and energetic outdoors, relaxing into a tranquil couch companion indoors"
+      "Dignified, even-tempered, and composed indoors",
+      "Deeply loyal, affectionate, and protective of its family",
+      "Naturally reserved or aloof with strangers without shyness or unprovoked aggression",
+      "Intelligent, strong-willed, and independent",
+      "Courageous and steady when confronting genuine threats",
+      "Athletic and driven outdoors with a very strong prey drive",
+      "Patient and gentle with familiar family children",
+      "Quiet watchdog that typically barks only for a reason",
+      "Sensitive to harsh handling and responsive to firm, fair leadership"
     ],
 
     scores: {
@@ -182,7 +175,7 @@ export const rhodesian_ridgeback: Breed = {
   care: {
     exercise: {
       level:
-        "High; an athletic, endurance hound requiring vigorous daily physical exercise and mental engagement to prevent restlessness",
+        "High; a strong, athletic hound that needs daily brisk walks, secure running opportunities, and mental engagement",
 
       minutesPerDay: {
         min: 60,
@@ -190,12 +183,11 @@ export const rhodesian_ridgeback: Breed = {
       },
 
       activities: [
-        "Daily brisk leashed walks and extended woodland trail hikes",
-        "Lure coursing and sprint-tracking drills in secure enclosures",
-        "Jogging, canicross, or running alongside a bicycle once skeletally mature",
-        "Interactive fetch and retrieve games in a securely fenced yard",
-        "Canine sports including agility, tracking, and rally obedience",
-        "Food puzzle toys, snuffle mats, and scent-searching challenges"
+        "Daily brisk walks and long trail hikes",
+        "Free sprinting and fetch in a tall, securely fenced yard",
+        "Lure coursing, tracking, agility, and obedience training",
+        "Structured distance jogging once skeletal growth is complete",
+        "Scent-work games and food puzzles for mental stimulation"
       ]
     },
 
@@ -203,36 +195,33 @@ export const rhodesian_ridgeback: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once or twice weekly with a rubber curry brush, hound glove, or soft bristle brush to lift dead hair, stimulate natural skin oils, and maintain a glossy coat sheen.",
+        "Brush once a week with a rubber curry brush or hound glove to remove loose hairs and keep the short coat glossy.",
 
       bathing:
-        "Bathe every six to eight weeks or when soiled, using a gentle canine shampoo; the short coat dries quickly and naturally repels dried mud and dust.",
+        "Bathe only occasionally when muddy or dusty, using a mild dog shampoo.",
 
       notes: [
-        "Inspect the skin along the dorsal spine and neck in puppies for signs of dermoid sinus, which feels like a tiny cord or opening under the skin.",
-        "Inspect the drop ears weekly for wax, dust, or irritation, cleaning gently with a veterinarian-recommended ear wash.",
-        "Check paw pads, toes, and skin for thorns, cuts, or abrasions after running through rough brush or rocky terrain.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain correct compact foot structure.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "Provide thick, padded orthopedic bedding indoors to protect pressure points over heavy elbows and hocks from calluses."
+        "Trim nails regularly—many Ridgebacks dislike clippers and respond much better to a rotary nail grinder.",
+        "Check the medium drop ears weekly for wax buildup or irritation.",
+        "Inspect the dorsal midline of puppies carefully (and have a veterinarian palpate it) to rule out dermoid sinus.",
+        "Provide thick, supportive bedding indoors to prevent elbow and hock calluses."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; exceptionally intelligent, quick to learn, and eager to please, but independent and sensitive, requiring patient, reward-based leadership without harsh corrections",
+        "Moderate; intelligent and capable, yet strong-willed and independent enough to need firm, fair, patient guidance from early puppyhood",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
-        "Begin loose-leash walking, recall conditioning, and impulse-control training from early puppyhood.",
-        "Keep instructional sessions varied, upbeat, and purposeful to prevent boredom.",
-        "Establish calm, consistent household boundaries before powerful adult strength develops.",
-        "Always exercise within a securely fenced area of at least six feet in height; strong prey drive will prompt sudden pursuit of running wildlife.",
-        "Never use harsh verbal reprimands or physical coercion, which cause this proud hound to become defensive and uncooperative."
+        "Start puppy classes, positive reinforcement, and consistent household rules early before adult strength develops.",
+        "Keep sessions upbeat, structured, and varied rather than overly repetitive.",
+        "Always use a leash or a securely fenced enclosure outdoors because strong prey drive can override recall.",
+        "Avoid harsh physical corrections, which undermine trust in this proud, sensitive hound.",
+        "Manage kitchen counters carefully—Ridgebacks are famously tall, clever counter surfers."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs of varying sizes, household noises, vehicles, and novel environments. Early structured socialization ensures natural reservedness matures into calm, noble discernment rather than aloof suspicion."
+        "Provide broad, positive early exposure to unfamiliar people, calm dogs, and varied environments so natural aloofness matures into calm discernment."
     },
 
     livingEnvironment: {
@@ -240,88 +229,83 @@ export const rhodesian_ridgeback: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Warm and sunny climates, where the sleek single coat excels in heat dissipation",
+        "Warm, sunny climates where the sleek short coat sheds heat well",
         "Temperate climates",
-        "Cool climates, provided the dog lives indoors and wears a warm fleece or coat during freezing winter walks"
+        "Cold climates when housed indoors with a warm coat for winter walks"
       ],
 
       aloneTimeTolerance:
-        "Moderate when provided with sufficient physical exercise and comfortable resting quarters, though regular human companionship is essential to maintain emotional balance."
+        "Moderate once thoroughly exercised, though this devoted indoor companion needs daily family interaction."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large active sporting or hound breeds, adjusted for age, activity level, and metabolic rate.",
+      "Complete, balanced nutrition formulated for large active breeds, matched to life stage and daily exercise output.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a large-breed growth diet supporting steady skeletal development.",
+        "Three to four measured meals per day until about six months old on a large-breed growth formula, then two meals daily.",
       adult:
-        "Two measured meals daily to support steady metabolism and minimize digestive discomfort.",
+        "Two measured meals per day to sustain steady energy and help reduce bloat risk.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals per day adapted for lower calorie needs and joint support."
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Divide daily food into two distinct meals, restrict vigorous running for at least one hour before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure every meal consistently and keep the dog lean with easily felt ribs. Split food into two meals, rest the dog before and after eating to lower bloat risk, store human food safely out of reach of counter surfing, and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on hips and stifles.",
-      "Account for training treats within the total daily caloric allowance to avoid creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water, especially during warm-weather exercise.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Watch calorie intake closely because some adults gain weight easily if under-exercised or over-treated.",
+      "Avoid vigorous running right before and for at least an hour after meals to mitigate bloat risk.",
+      "Count training treats within the daily ration and switch diets gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs fluctuate based on seasonal activity and field training. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Adjust portions seasonally for activity level and consult a veterinarian for individualized large-breed feeding plans."
   },
 
   health: {
     overview:
-      "The Rhodesian Ridgeback is a robust, athletic hound with a typical life expectancy of 10 to 12 years. Developed for demanding outdoor endurance, it enjoys good overall constitutional hardiness. Primary hereditary health priorities include dermoid sinus (a congenital neural tube defect linked to the genetics of the dorsal ridge), hip dysplasia, elbow dysplasia, autoimmune thyroiditis, degenerative myelopathy (DM), juvenile myoclonic epilepsy (JME), early onset adult deafness (EOAD), and gastric dilatation-volvulus (bloat).",
+      "The Rhodesian Ridgeback is generally a healthy, sturdy hound with a typical lifespan of 10 to 12 years. Scientifically established inherited conditions in the breed include dermoid sinus (a congenital neural-tube skin defect linked to the 133-kilobase duplication of FGF3, FGF4, FGF19, and ORAOV1 that produces the dorsal ridge), Juvenile Myoclonic Epilepsy (caused by a recessive 4-bp deletion in DIRAS1), and Early Onset Adult Deafness (associated with an autosomal recessive 12-bp deletion in EPS8L2). Other monitored or reported conditions include hip and elbow dysplasia, autoimmune thyroiditis, degenerative myelopathy (SOD1), hereditary eye anomalies, and gastric dilatation-volvulus (bloat).",
 
     commonConditions: [
-      "Dermoid sinus (DS) — a congenital neural tube defect resulting in a tubular skin indentation that can extend into subcutaneous tissue, the supraspinous ligament, or the spinal canal, predisposing to recurrent infections or abscesses; puppies should be palpated by experienced veterinarians at birth, and genetic testing helps avoid homozygous ridge matings",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb lameness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints causing forelimb lameness and secondary arthritis",
-      "Autoimmune thyroiditis — immune-mediated destruction of the thyroid gland causing hypothyroidism, weight gain, lethargy, and coat changes, screenable via blood antibody panels",
-      "Degenerative myelopathy (DM) — an inherited neurodegenerative spinal cord disorder caused by a mutation in the SOD1 gene, causing progressive hind-limb ataxia and paralysis in older dogs, preventable through DNA testing",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in deep-chested breeds, requiring emergency veterinary care",
-      "Juvenile myoclonic epilepsy (JME) — an inherited neurological seizure disorder characterized by myoclonic twitches in young dogs, screenable via DNA testing",
-      "Early onset adult deafness (EOAD) — an inherited sensorineural hearing loss, detectable through DNA screening"
+      "Dermoid sinus — scientifically established congenital neural-tube defect linked to the FGF3/FGF4/FGF19/ORAOV1 ridge duplication, forming a tubular tract along the dorsal midline that can become infected; puppies must be palpated carefully at birth",
+      "Juvenile Myoclonic Epilepsy (JME) — scientifically established autosomal recessive seizure disorder caused by a 4-bp deletion in the DIRAS1 gene, producing myoclonic twitches and photosensitivity in young dogs; screenable via DNA testing",
+      "Early Onset Adult Deafness (EOAD) — scientifically established autosomal recessive hearing loss associated with a 12-bp in-frame deletion in the EPS8L2 gene; screenable via DNA testing",
+      "Hip dysplasia — monitored developmental malformation of the hip joint screened via pre-breeding radiographs",
+      "Elbow dysplasia — monitored developmental elbow abnormality screened via pre-breeding radiographs",
+      "Autoimmune thyroiditis — monitored immune-mediated thyroid disorder causing hypothyroidism, evaluated via blood antibody panels",
+      "Degenerative myelopathy (DM) — inherited late-onset spinal cord degeneration linked to the SOD1 variant, screenable via DNA testing",
+      "Gastric dilatation-volvulus (GDV / bloat) — reported acute emergency in deep-chested large breeds requiring immediate veterinary care",
+      "Hereditary eye anomalies — monitored through periodic veterinary ophthalmologist examinations"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip and elbow clearances, current specialist eye and thyroid certifications, and DNA clearances for DM, JME, and EOAD.",
-      "Ensure all puppies are thoroughly palpated along the dorsal midline from head to tail by a veterinarian to check for dermoid sinus.",
-      "Feed two smaller meals daily and avoid vigorous running for at least one hour before and after eating to mitigate bloat risk.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Inspect and clean drop ears weekly, wiping canals with an approved veterinary cleanser.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Choose puppies from parents with verified hip, elbow, thyroid, and eye clearances plus DNA testing for JME, EOAD, and DM.",
+      "Ensure every puppy is palpated thoroughly along the neck, back, and tail base by an experienced breeder or veterinarian for dermoid sinus.",
+      "Feed two measured meals daily, keep body condition lean, and rest the dog before and after meals to help reduce bloat risk.",
+      "Check ears weekly, maintain nail length with a grinder or clippers, and schedule annual veterinary wellness visits."
     ],
 
     recommendedScreenings: [
-      "Thorough physical palpation for Dermoid Sinus in puppies and breeding stock",
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
+      "Physical palpation for dermoid sinus in puppies and breeding stock",
+      "Radiographic hip dysplasia evaluation prior to breeding",
       "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Autoimmune thyroiditis blood panel (free T4, TSH, and autoantibodies) prior to breeding",
-      "DNA marker test for Degenerative Myelopathy (SOD1 gene mutation)",
-      "DNA marker test for Juvenile Myoclonic Epilepsy (DIRAS1 gene mutation)",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "DNA test for Juvenile Myoclonic Epilepsy (DIRAS1 mutation)",
+      "DNA test for Early Onset Adult Deafness (EPS8L2 deletion)",
+      "Autoimmune thyroiditis blood panel and periodic veterinary ophthalmologist eye examination",
+      "DNA test for Degenerative Myelopathy (SOD1 mutation)"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, wide jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with dog-safe toothpaste and include dental evaluations in annual veterinary checkups.",
 
     earCare:
-      "Inspect the medium drop ears weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the drop ears weekly for wax buildup, dust, or redness, cleaning gently with a vet-approved ear wash when needed.",
 
     skinCare:
-      "Part the sleek coat weekly during brushing to inspect the skin for external parasites, redness, or scratches. Check the dorsal ridge and neck carefully for skin openings or sinus discharge."
+      "Check the sleek coat and dorsal midline during weekly brushing for ticks, abrasions, or any skin openings or swellings."
   },
 
   suitability: {
@@ -332,146 +316,149 @@ export const rhodesian_ridgeback: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, runners, and hikers who can provide vigorous daily physical exercise",
-      "Experienced dog owners familiar with large, independent hounds and positive leadership",
-      "Homes with large, securely fenced yards of at least six feet in height",
-      "Canine sports enthusiasts involved in lure coursing, tracking, agility, or obedience",
-      "Families seeking a noble, quiet, and deeply devoted guardian of the hearth"
+      "Experienced owners of large, strong-willed hounds who use firm, fair positive leadership",
+      "Active households, runners, and hikers able to provide daily brisk exercise",
+      "Homes with a tall, securely fenced yard and indoor family living space",
+      "Dog sport enthusiasts interested in lure coursing, tracking, agility, or obedience"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for a powerful, independent hound",
-      "Apartment or condominium dwellers without access to extensive running grounds",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "Households with loose small pets or free-roaming outdoor cats vulnerable to high prey drive",
-      "People seeking a casual, low-exercise lap pet"
+      "First-time dog owners looking for an effortlessly obedient breed",
+      "Small apartments without daily outdoor running and exercise outlets",
+      "Households with loose small pets vulnerable to high prey drive",
+      "Owners who keep dogs isolated outdoors away from the family"
     ]
   },
 
   funFacts: [
-    "The breed's distinctive dorsal ridge is caused by a 133-kilobase duplication involving four fibroblast growth factor genes, an ancient mutation inherited from the ridged hunting dogs kept by the indigenous Khoikhoi people of southern Africa.",
-    "Contrary to popular myth, the breed was never bred to kill lions; instead, hunting packs used incredible agility, speed, and coordinated harassment to hold lions at bay until mounted hunters arrived.",
-    "A proper ridge must have two identical, opposite whorls called crowns, and according to breed tradition, the ridge must taper cleanly toward the hips like an ancient African spear point.",
-    "In 1922, Francis Richard Barnes convened a meeting of southern African breeders in Bulawayo to draft the first official breed standard, borrowing morphological structure directly from the Dalmatian standard to emphasize symmetry and athletic balance.",
-    "Hollywood swashbuckler Errol Flynn was among the first prominent figures to introduce the breed to the United States in the 1930s, breeding Ridgebacks on his California ranch.",
-    "Despite their athletic stamina in the veld, Ridgebacks are famous for their indoor 'couch potato' tendencies, happily curling up for hours in warm sunspots or soft armchairs."
+    "The breed's trademark dorsal ridge comes from a 133-kilobase genetic duplication spanning three fibroblast growth factor genes (FGF3, FGF4, and FGF19) along with ORAOV1, inherited from the ancient ridged dogs of the Khoikhoi people.",
+    "Despite its nickname 'African Lion Hound,' the breed never killed lions—small packs of two or three dogs used speed and agility to keep a lion at bay until the hunter arrived.",
+    "When Francis Richard Barnes drafted the first formal breed description in Bulawayo in 1922, he modeled its balanced proportions on the Dalmatian.",
+    "Hollywood actor Errol Flynn became the first breeder of Rhodesian Ridgebacks in the United States during the 1930s on his California ranch.",
+    "Although bred for endurance across the African veld, Ridgebacks are famous for lounging happily on warm sofas indoors once exercised—and for cleverly counter-surfing unattended food.",
+    "Rhodesian Ridgebacks appear in shades of wheaten with two distinct nose types: a black nose paired with dark eyes, or a less common brown (liver) nose paired with amber eyes."
   ],
 
   faq: [
     {
       question: "What is a Rhodesian Ridgeback?",
       answer:
-        "The Rhodesian Ridgeback is a large, athletic hound native to southern Africa, known for the symmetrical ridge of reverse-growing hair along its spine, its history of hunting big game, and its noble, loyal personality."
+        "The Rhodesian Ridgeback is a large, muscular hound indigenous to southern Africa, recognized by the symmetrical strip of backward-growing hair along its spine, its big-game tracking heritage, and its dignified, loyal nature."
     },
     {
-      question: "What is the ridge on the Rhodesian Ridgeback's back?",
+      question: "What causes the ridge on a Rhodesian Ridgeback's back?",
       answer:
-        "The ridge is a distinct strip of hair along the backbone that grows in the opposite direction from the rest of the coat; it begins immediately behind the shoulders with two identical opposite crowns and tapers toward the hips."
+        "The ridge is a strip of hair growing forward toward the head, caused by a dominant 133-kilobase genetic duplication involving FGF3, FGF4, FGF19, and ORAOV1; a classic ridge starts behind the shoulders with two matching opposite crowns and tapers toward the hips."
     },
     {
-      question: "Did Rhodesian Ridgebacks really hunt lions?",
+      question: "Did Rhodesian Ridgebacks actually fight lions?",
       answer:
-        "Yes, but they did not attack or kill lions directly. Instead, agile packs used superior speed, stamina, and tactical baying to distract and hold the lion in place until the hunter could arrive."
+        "No. Working in agile groups of two or three, they tracked lions and kept them at bay through quick, elusive harassment without engaging in direct combat until the hunter arrived."
     },
     {
-      question: "How tall and heavy is a Rhodesian Ridgeback?",
+      question: "How big does a Rhodesian Ridgeback get?",
       answer:
-        "Adult males stand 63 to 69 cm at the withers and weigh 36.5 to 41 kg, while adult females stand 61 to 66 cm and weigh 32 to 36.5 kg, presenting a lean, powerful, and balanced outline."
+        "Adult males stand 63 to 69 cm at the withers and typically weigh 36 to 41 kg (ideal 36.5 kg), while adult females stand 61 to 66 cm and typically weigh 29 to 34 kg (ideal 32 kg)."
     },
     {
-      question: "How long does a Rhodesian Ridgeback live?",
+      question: "How long do Rhodesian Ridgebacks live?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 12 years."
+        "With good nutrition, lean weight management, and regular veterinary care, Rhodesian Ridgebacks typically live 10 to 12 years."
     },
     {
-      question: "Do Rhodesian Ridgebacks shed a lot, and how are they groomed?",
+      question: "How much grooming does a Rhodesian Ridgeback need?",
       answer:
-        "They shed moderately year-round. Their short, sleek coat is low-maintenance, requiring only a weekly brushing with a rubber curry comb or hound mitt, occasional nail trims, and ear checks."
+        "Very little. Weekly brushing with a rubber curry brush or hound mitt manages moderate shedding, paired with occasional baths, weekly ear checks, and regular nail trims (often easiest with a nail grinder)."
     },
     {
       question: "Can a Rhodesian Ridgeback live in an apartment?",
       answer:
-        "No. Due to their large size, high energy, and need for open running space, they are not suited to apartment living and thrive best in a home with a large, securely fenced yard."
+        "Generally no. Although calm indoors after exercise, their large size, athletic drive, and need for secure running space make a house with a tall fenced yard a much better fit."
     },
     {
-      question: "Are Rhodesian Ridgebacks good family pets and good with children?",
+      question: "Are Rhodesian Ridgebacks good family dogs?",
       answer:
-        "Yes, with experienced families. They are gentle, affectionate, and protective with their own family members and patient with children; however, because of their size and strength, interactions with toddlers should be supervised."
+        "Yes, in experienced, active homes. They are deeply devoted, protective, and affectionate with their own families, though their large size means play with young children should always be supervised."
     },
     {
-      question: "What is Dermoid Sinus (DS)?",
+      question: "What is dermoid sinus?",
       answer:
-        "Dermoid sinus is an inherited congenital defect of neural tube development that creates a tubular skin opening along the spine; all puppies should be carefully palpated by a veterinarian at birth, and genetic testing helps guide responsible breeding."
+        "Dermoid sinus is a congenital tube-like skin defect along the dorsal midline linked to the same genetic duplication that creates the ridge. Experienced breeders and veterinarians palpate newborn puppies carefully to detect it early."
     },
     {
-      question: "What health screenings are recommended for breeding dogs?",
+      question: "What health tests are recommended for breeding Rhodesian Ridgebacks?",
       answer:
-        "Recommended pre-breeding screenings include dermoid sinus examination, radiographic hip and elbow evaluations, autoimmune thyroid blood panels, eye certifications, and DNA tests for degenerative myelopathy and juvenile myoclonic epilepsy."
+        "Important pre-breeding checks include dermoid sinus palpation, radiographic hip and elbow evaluations, DNA tests for Juvenile Myoclonic Epilepsy (DIRAS1), Early Onset Adult Deafness (EPS8L2), and Degenerative Myelopathy (SOD1), plus thyroid and ophthalmologist exams."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-rhodesian-ridgeback-official-standard",
     "fci-rhodesian-ridgeback-nomenclature",
     "kusa-rhodesian-ridgeback-breed-standard",
     "akc-rhodesian-ridgeback-breed-standard",
     "akc-rhodesian-ridgeback-breed-profile",
     "the-kennel-club-rhodesian-ridgeback-breed-standard",
+    "rkc-rhodesian-ridgeback-breed-profile",
     "ukc-rhodesian-ridgeback-breed-standard",
     "rrcus-rhodesian-ridgeback-health-survey",
     "ofa-rhodesian-ridgeback-chic-requirements",
     "rhodesian-ridgeback-dermoid-sinus-study-2007",
+    "pubmed-wielaender-2017-rr-jme-diras1",
+    "pubmed-eoad-2022-rr-eps8l2",
+    "the-dog-api",
     "wikimedia-rhodesian-ridgeback-lilly-m",
     "wikimedia-rhodesian-ridgeback-600-tomasz-sienicki"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxon record: Canis lupus familiaris (ITIS TSN 726821)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Verified domestic dog taxonomic name via NatureServe Explorer (ITIS TSN 726821)."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-rhodesian-ridgeback-official-standard",
-          role: "verified",
-          locator: "Standard heading: RHODESIAN RIDGEBACK"
-        },
-        {
           id: "fci-rhodesian-ridgeback-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: RHODESIAN RIDGEBACK (146), Chien de Crête Rhodésien, Rhodesischer Ridgeback"
+          locator: "Official nomenclature: RHODESIAN RIDGEBACK (146), CHIEN DE RHODESIE A CRETE DORSALE, PERRO CRESTADO RODESIANO"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names: African Lion Hound, Lion Dog, Ridgeback"
         },
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "verified",
-          locator: "History: African Lion Hound, Lion Dog, Van Rooyen's Lion Dog"
+          locator: "Did You Know: African Lion Hound"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 146, FCI Nomenclature, KUSA, and AKC."
+      verifiedOn: "2026-11-21",
+      note: "Updated French and Spanish names to match FCI Nomenclature No. 146."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-rhodesian-ridgeback-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 3 Related breeds, without working trial"
-        },
-        {
           id: "fci-rhodesian-ridgeback-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 3 Related breeds, without working trial"
+          locator: "Group 6 Scenthounds and related breeds, Section 3 Related breeds, without working trial"
         },
         {
-          id: "akc-rhodesian-ridgeback-breed-standard",
+          id: "akc-rhodesian-ridgeback-breed-profile",
           role: "verified",
           locator: "Hound Group"
         },
@@ -479,16 +466,10 @@ export const rhodesian_ridgeback: Breed = {
           id: "the-kennel-club-rhodesian-ridgeback-breed-standard",
           role: "verified",
           locator: "Hound Group"
-        },
-        {
-          id: "ukc-rhodesian-ridgeback-breed-standard",
-          role: "verified",
-          locator: "Sighthound & Pariah Dog Group"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-21",
+      note: "Written without registry names or numbered section labels in user-facing text."
     },
 
     origin: {
@@ -497,20 +478,20 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "verified",
-          locator: "ORIGIN: Southern Africa; PATRONAGE: South Africa; BRIEF HISTORICAL SUMMARY"
+          locator: "Origin: Southern Africa; Standard supplied by Kennel Union of Southern Africa and Zimbabwe Kennel Club"
         },
         {
           id: "fci-rhodesian-ridgeback-nomenclature",
           role: "verified",
-          locator: "Country of origin: South Africa"
+          locator: "Country of origin: South Africa; definitive acceptance 1955-02-21"
         },
         {
-          id: "kusa-rhodesian-ridgeback-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Origin: Southern Africa, Patronage: South Africa"
+          locator: "breed.origin: Southern Africa"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -520,22 +501,21 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "kusa-rhodesian-ridgeback-breed-standard",
-          role: "verified",
-          locator: "Historical background, Khoikhoi ridged dog heritage, Cornelius van Rooyen, and 1922 Bulawayo meeting"
+          locator: "FCI Standard No. 146 (valid 2025-05-15, published 2025-06-06): Brief Historical Summary (Cape Colony, F.R. Barnes 1922 Bulawayo Dalmatian-based standard, 1926 approval), General Appearance"
         },
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed, History (Khoikhoi dogs, Cornelius van Rooyen, baying lions without killing)"
+        },
+        {
+          id: "rkc-rhodesian-ridgeback-breed-profile",
+          role: "verified",
+          locator: "About this breed: scent hound tracking lions, Khoikhoi ancestry"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesized in original prose from FCI Standard No. 146, KUSA, and AKC official records."
+      verifiedOn: "2026-11-21",
+      note: "Rewritten in original prose synthesizing FCI Standard No. 146 (2025), AKC, and Royal Kennel Club."
     },
 
     physical: {
@@ -544,22 +524,21 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, RIDGE, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "Conformation, dorsal ridge with two symmetrical crowns, coat, wheaten shades, nose/eye pairing, scissor bite"
         },
         {
-          id: "kusa-rhodesian-ridgeback-breed-standard",
+          id: "the-kennel-club-rhodesian-ridgeback-breed-standard",
           role: "verified",
-          locator: "Morphological details, dorsal ridge specification, crowns, head, coat, and colors"
+          locator: "General appearance, eyes (round, bright, harmonising with coat), forequarters, ridge"
         },
         {
-          id: "akc-rhodesian-ridgeback-breed-standard",
+          id: "akc-rhodesian-ridgeback-breed-profile",
           role: "verified",
-          locator: "General Appearance, Size, Head, Ridge, Body, Legs, Coat, Color"
+          locator: "Breed Colors & Markings: Light Wheaten, Wheaten, Red Wheaten with Black or Brown nose; Black Mask and White Markings"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Conformation, dorsal ridge characteristics, symmetrical crowns, wheaten coloration, and distinctive features follow official standards."
+      verifiedOn: "2026-11-21",
+      note: "Filtered out generic non-breed colors from The Dog API list; preserved wheaten-only color range."
     },
 
     "physical.height": {
@@ -568,46 +547,96 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: Males: 63 cm (25 ins) to 69 cm (27 ins). Females: 61 cm (24 ins) to 66 cm (26 ins)."
+          locator: "Size: Height at withers — Males 63-69 cm, Females 61-66 cm"
         },
         {
-          id: "kusa-rhodesian-ridgeback-breed-standard",
-          role: "verified",
-          locator: "Height: Dogs 63-69 cm (25-27 in); Bitches 61-66 cm (24-26 in)"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: male 64-69 cm, female 61-66 cm"
         },
         {
-          id: "akc-rhodesian-ridgeback-breed-standard",
-          role: "verified",
-          locator: "Height: Mature dogs 25 to 27 inches (approx. 63.5 to 68.5 cm); bitches 24 to 26 inches (approx. 61 to 66 cm)"
+          id: "akc-rhodesian-ridgeback-breed-profile",
+          role: "cited",
+          locator: "Height: 25-27 inches (male), 24-26 inches (female)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Preserved in published unit of centimetres (63–69 cm for males, 61–66 cm for females) exactly as specified in the official FCI Standard No. 146 and KUSA standard."
+      verifiedOn: "2026-11-21",
+      note: "Retains official FCI/KUSA/RKC centimetres (63-69 cm males, 61-66 cm females) over The Dog API's 64-69 cm male minimum."
     },
 
-    "physical.weight": {
+    "physical.height.male.max": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "verified",
-          locator: "Weight: Dogs: 36.5 kg (80 lbs). Bitches: 32 kg (70 lbs)."
-        },
-        {
-          id: "kusa-rhodesian-ridgeback-breed-standard",
-          role: "verified",
-          locator: "Weight: Dogs approx 36.5 kg (80 lbs); Bitches approx 32 kg (70 lbs)"
-        },
-        {
-          id: "rrcus-rhodesian-ridgeback-health-survey",
-          role: "verified",
-          locator: "Adult working weight survey ranges: males 36.5 to 41 kg, females 32 to 36.5 kg"
+          locator: "Size: Males max 69 cm"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FCI Standard No. 146 publishes weight in kilograms as 36.5 kg for dogs and 32 kg for bitches. The stored working ranges (36.5–41 kg for males, 32–36.5 kg for females) reflect canonical parameters published by national breed clubs, preserved in kilograms."
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-rhodesian-ridgeback-official-standard",
+          role: "verified",
+          locator: "Size: Females max 66 cm"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.weight": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: male 36-41 kg, female 29-34 kg"
+        },
+        {
+          id: "fci-rhodesian-ridgeback-official-standard",
+          role: "verified",
+          locator: "Weight: Dogs 36.5 kg, Bitches 32 kg"
+        },
+        {
+          id: "akc-rhodesian-ridgeback-breed-profile",
+          role: "cited",
+          locator: "Weight: 85 pounds (male), 70 pounds (female)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "FCI Standard No. 146 publishes single ideal weights (36.5 kg males, 32 kg females). Uses The Dog API verified metric ranges (36-41 kg males, 29-34 kg females) which encompass both FCI ideals and align with AKC's 85 / 70 pounds."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: male max 41 kg"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: female max 34 kg"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "physical.lifespanYears": {
@@ -619,13 +648,13 @@ export const rhodesian_ridgeback: Breed = {
           locator: "Life Expectancy: 10-12 years"
         },
         {
-          id: "the-kennel-club-rhodesian-ridgeback-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longevity and health actuarial profile (10-12 years)"
+          locator: "breed.life_span: 10-12 years"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and parent club actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: "Consistent across AKC and The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -634,15 +663,10 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
-        },
-        {
-          id: "fci-rhodesian-ridgeback-official-standard",
-          role: "verified",
-          locator: "COAT: Short and dense, sleek and glossy"
+          locator: "Grooming: sheds somewhat; weekly brushing"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -652,16 +676,11 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "verified",
-          locator: "Lips: Clean, closely fitting the jaws"
-        },
-        {
-          id: "akc-rhodesian-ridgeback-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5 to 2/5)"
+          locator: "Lips: clean, closely fitting"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Clean, closely fitting lips result in low drooling."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "temperament.traits": {
@@ -670,20 +689,20 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Dignified, intelligent, aloof with strangers, but showing no aggression or shyness"
+          locator: "Behaviour/Temperament: dignified, intelligent, aloof with strangers, no aggression or shyness"
         },
         {
-          id: "kusa-rhodesian-ridgeback-breed-standard",
+          id: "akc-rhodesian-ridgeback-breed-profile",
           role: "verified",
-          locator: "Temperament: Dignified, aloof with strangers, intelligent, courageous"
+          locator: "About the Breed & Training: dignified, affectionate, even-tempered, strong-willed, strong prey drive"
         },
         {
-          id: "akc-rhodesian-ridgeback-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Temperament: Dignified, aloof with strangers, intelligent, devoted, courageous"
+          locator: "breed.temperament: Loyal, intelligent, confident, independent, affectionate"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -693,17 +712,11 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "rrcus-rhodesian-ridgeback-health-survey",
-          role: "cited",
-          locator: "Behavior and temperament surveys"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented hound temperament, high protectiveness, and aloofness with strangers."
+      note: "Editorial 1-5 estimates reflecting documented hound independence, protectiveness, and reserve with strangers."
     },
 
     care: {
@@ -712,17 +725,11 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "rrcus-rhodesian-ridgeback-health-survey",
-          role: "cited",
-          locator: "Care, dermoid sinus inspection, and exercise management"
+          locator: "Grooming (weekly brushing, nail grinder preference), Exercise, Training (counter surfing, secure enclosure), Nutrition"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines athletic hound management with sleek coat grooming and bloat prevention protocols."
+      note: "Practical care guidance tailored to large athletic hounds."
     },
 
     "care.exercise.level": {
@@ -731,15 +738,10 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
-        },
-        {
-          id: "fci-rhodesian-ridgeback-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Tracking and hunting large game with high endurance"
+          locator: "Exercise: strong athletic dog needing daily walks, running, and play"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -747,19 +749,13 @@ export const rhodesian_ridgeback: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-rhodesian-ridgeback-breed-standard",
-          role: "cited",
-          locator: "Exercise: Up to 1 hour or more per day"
-        },
-        {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
+          locator: "Daily exercise guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic, high-stamina hunting hound."
+      note: "Estimated 60-90 minutes daily reflects the endurance of an athletic large hound."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -768,17 +764,11 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "cited",
-          locator: "Large size, exercise requirements, and need for secure containment"
-        },
-        {
-          id: "rrcus-rhodesian-ridgeback-health-survey",
-          role: "cited",
-          locator: "Housing: Securely fenced yard recommended"
+          locator: "Large athletic hound requiring secure off-leash running enclosures"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that large size, high running drive, and territorial vigilance make apartment living generally unsuitable."
+      note: "Editorial evaluation: large size and strong running drive generally favor a securely fenced yard over apartments."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -787,10 +777,10 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations (minimum six-foot fence)"
+          locator: "Training: safely enclosed area required when off leash"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -800,15 +790,10 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "verified",
-          locator: "COAT: Short sleek coat adapted to southern African heat"
-        },
-        {
-          id: "akc-rhodesian-ridgeback-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: excels in warm climates, requires indoor warmth in freezing winters"
+          locator: "Short sleek single coat developed in southern Africa"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -818,11 +803,11 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate rating; independent hound nature"
+          locator: "Training: devoted companion needing to live indoors with human family"
         }
       ],
       verifiedOn: null,
-      note: null
+      note: "Moderate alone-time tolerance when exercised, but requires indoor family life."
     },
 
     nutrition: {
@@ -831,17 +816,11 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
-        },
-        {
-          id: "rrcus-rhodesian-ridgeback-health-survey",
-          role: "cited",
-          locator: "Bloat precautions and dietary management"
+          locator: "Nutrition: age-appropriate diet, counter-surfing caution, weight control"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for large, deep-chested active athletic hounds."
+      note: "Standard large-breed nutrition and bloat-mitigation guidance."
     },
 
     "nutrition.feedingFrequency": {
@@ -850,11 +829,11 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Life-stage nutrition"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard canine life-stage meal schedule."
     },
 
     "health.overview": {
@@ -863,22 +842,26 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "rhodesian-ridgeback-dermoid-sinus-study-2007",
           role: "verified",
-          locator: "Duplication of FGF3, FGF4, and FGF19 genes causing the dorsal ridge and predisposing to dermoid sinus in Rhodesian Ridgebacks"
+          locator: "Nat Genet 2007 (PMID 17922012): 133-kb duplication of FGF3, FGF4, FGF19, and ORAOV1 causing ridge and dermoid sinus predisposition"
         },
         {
-          id: "ofa-rhodesian-ridgeback-chic-requirements",
+          id: "pubmed-wielaender-2017-rr-jme-diras1",
           role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, Eye Examination, Autoimmune Thyroiditis, optional Cardiac, DM, and EOAD tests"
+          locator: "PNAS 2017 (PMID 28223533): recessive 4-bp deletion in DIRAS1 causing Juvenile Myoclonic Epilepsy with photosensitivity"
         },
         {
-          id: "rrcus-rhodesian-ridgeback-health-survey",
+          id: "pubmed-eoad-2022-rr-eps8l2",
           role: "verified",
-          locator: "Health priorities: Dermoid sinus, bloat, hip/elbow dysplasia, thyroiditis, DM, JME, and EOAD"
+          locator: "PLoS One 2022 (PMID 35385474): autosomal recessive 12-bp deletion in EPS8L2 associated with Early Onset Adult Deafness"
+        },
+        {
+          id: "rkc-rhodesian-ridgeback-breed-profile",
+          role: "verified",
+          locator: "Good Practice screening: JME DNA test, BVA/KC Hip & Elbow schemes"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesizes peer-reviewed genetics research on dermoid sinus with national health registry screening protocols."
+      verifiedOn: "2026-11-21",
+      note: "Clearly separates peer-reviewed genetic diseases (dermoid sinus, JME/DIRAS1, EOAD/EPS8L2) from monitored/reported conditions."
     },
 
     "health.commonConditions": {
@@ -887,59 +870,62 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "rhodesian-ridgeback-dermoid-sinus-study-2007",
           role: "verified",
-          locator: "Dermoid sinus pathology, embryonic neural tube dysraphism, and surgical considerations"
+          locator: "Dermoid sinus genetic basis (FGF3/FGF4/FGF19/ORAOV1)"
         },
         {
-          id: "ofa-rhodesian-ridgeback-chic-requirements",
+          id: "pubmed-wielaender-2017-rr-jme-diras1",
           role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, autoimmune thyroiditis, and degenerative myelopathy"
+          locator: "Juvenile Myoclonic Epilepsy (DIRAS1)"
         },
         {
-          id: "rrcus-rhodesian-ridgeback-health-survey",
+          id: "pubmed-eoad-2022-rr-eps8l2",
           role: "verified",
-          locator: "Gastric dilatation-volvulus (bloat), juvenile myoclonic epilepsy (JME), and early onset adult deafness"
+          locator: "Early Onset Adult Deafness (EPS8L2)"
+        },
+        {
+          id: "akc-rhodesian-ridgeback-breed-profile",
+          role: "verified",
+          locator: "Hip/elbow dysplasia, thyroid function, eye anomalies, dermoid sinus"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-21",
+      note: "Distinguishes scientifically established genetic disorders from monitored orthopedic, endocrine, and acute risks."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "rrcus-rhodesian-ridgeback-health-survey",
-          role: "cited",
-          locator: "Preventive care, puppy dermoid sinus palpation, bloat management, and DNA testing"
-        },
-        {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "cited",
-          locator: "Routine care, health testing, and veterinary wellness"
+          locator: "Puppy dermoid sinus palpation, health screening, weight control, nail/ear care"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to deep-chested ridged hounds."
+      note: "General preventive care recommendations for large ridged hounds."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-rhodesian-ridgeback-chic-requirements",
+          id: "rkc-rhodesian-ridgeback-breed-profile",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, CAER Eye examination, Autoimmune Thyroiditis blood panel"
+          locator: "Good Practice tests: JME DNA test, BVA/KC Elbow Dysplasia Scheme, BVA/KC Hip Dysplasia Scheme"
         },
         {
-          id: "rrcus-rhodesian-ridgeback-health-survey",
+          id: "akc-rhodesian-ridgeback-breed-profile",
           role: "verified",
-          locator: "Pre-breeding testing protocols: Dermoid sinus physical check, DM DNA, JME DNA, EOAD DNA, elbows, and cardiac"
+          locator: "Recommended National Breed Club Tests: Hip Evaluation, Elbow Evaluation; breeder screening for thyroid, eyes, dermoid sinus"
+        },
+        {
+          id: "ofa-rhodesian-ridgeback-chic-requirements",
+          role: "verified",
+          locator: "OFA CHIC health testing panel (hips, eyes, thyroid, elbows, DM, EOAD)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-21",
+      note: "Combines Royal Kennel Club, AKC, and OFA CHIC pre-breeding health testing recommendations."
     },
 
     "health.dentalCare": {
@@ -948,16 +934,11 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong jaws with complete scissor bite"
-        },
-        {
-          id: "akc-rhodesian-ridgeback-breed-profile",
-          role: "cited",
-          locator: "Routine dental care"
+          locator: "Strong jaws with complete scissor bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine dental hygiene guidance."
     },
 
     "health.earCare": {
@@ -966,34 +947,24 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "cited",
-          locator: "Ears: set rather high, medium size, tapering to rounded point"
-        },
-        {
-          id: "akc-rhodesian-ridgeback-breed-profile",
-          role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Medium drop ears"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for medium drop ears."
+      note: "Standard drop-ear care guidance."
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-rhodesian-ridgeback-official-standard",
+          id: "akc-rhodesian-ridgeback-breed-profile",
           role: "cited",
-          locator: "Short sleek coat and ridge structure"
-        },
-        {
-          id: "rrcus-rhodesian-ridgeback-health-survey",
-          role: "cited",
-          locator: "Spine and ridge skin inspection for dermoid sinus"
+          locator: "Weekly brushing and dorsal midline checks"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: "General skin and ridge inspection guidance."
     },
 
     suitability: {
@@ -1002,40 +973,34 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "akc-rhodesian-ridgeback-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "the-kennel-club-rhodesian-ridgeback-breed-standard",
-          role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
+          locator: "About the Breed: strong-willed, often too much hound for novice owners; indoor family dog"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+      note: "Editorial suitability assessment based on size, independence, prey drive, and exercise needs."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-rhodesian-ridgeback-breed-profile",
+          id: "rhodesian-ridgeback-dermoid-sinus-study-2007",
           role: "verified",
-          locator: "Khoikhoi ridged dog origin, lion hunting tactics (holding at bay), Errol Flynn breeding, couch potato indoor nature"
-        },
-        {
-          id: "kusa-rhodesian-ridgeback-breed-standard",
-          role: "verified",
-          locator: "History: Cornelius van Rooyen in Matabeleland, Francis Richard Barnes 1922 Bulawayo meeting"
+          locator: "133-kb duplication involving FGF3, FGF4, FGF19, and ORAOV1"
         },
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Southern African frontier history"
+          locator: "1922 Bulawayo Dalmatian-based standard by F.R. Barnes; baying lions in groups of 2-3"
+        },
+        {
+          id: "akc-rhodesian-ridgeback-breed-profile",
+          role: "verified",
+          locator: "Errol Flynn 1930s California breeding; black vs brown nose; counter surfing"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-21",
+      note: "Corrected gene description from 'four fibroblast growth factor genes' to three FGF genes (FGF3, FGF4, FGF19) plus ORAOV1 per Salmon Hillbertz et al. (2007)."
     },
 
     faq: {
@@ -1044,29 +1009,28 @@ export const rhodesian_ridgeback: Breed = {
         {
           id: "fci-rhodesian-ridgeback-official-standard",
           role: "verified",
-          locator: "Origin, size (63-69 cm / 61-66 cm), weight (36.5-41 kg / 32-36.5 kg), ridge description, and colors"
+          locator: "Height (63-69 / 61-66 cm), ideal weight (36.5 / 32 kg), dorsal ridge, lion baying"
         },
         {
-          id: "akc-rhodesian-ridgeback-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Lion hunting facts, exercise needs, family suitability, and training"
+          locator: "Weight ranges (36-41 / 29-34 kg), lifespan (10-12 years)"
         },
         {
           id: "rhodesian-ridgeback-dermoid-sinus-study-2007",
           role: "verified",
-          locator: "Dermoid sinus explanation and genetics"
+          locator: "Dermoid sinus genetic basis"
         },
         {
-          id: "ofa-rhodesian-ridgeback-chic-requirements",
+          id: "rkc-rhodesian-ridgeback-breed-profile",
           role: "verified",
-          locator: "Recommended health screening panel"
+          locator: "Pre-breeding health screening (hips, elbows, JME DNA)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-21",
+      note: "All FAQ answers written in original wording without registry names."
     }
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-21"
 };

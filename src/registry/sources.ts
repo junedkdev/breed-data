@@ -8836,11 +8836,11 @@ export const sources = defineSources({
 "fci-belgian-shepherd-dog-nomenclature": {
     id: "fci-belgian-shepherd-dog-nomenclature",
     name: "FCI - Belgian Shepherd Dog Breed Nomenclature (No. 15)",
-    url: "https://www.fci.be/en/nomenclature/BELGIAN-SHEPHERD-DOG-15.html",
+    url: "https://www.fci.be/en/nomenclature/CHIEN-DE-BERGER-BELGE-15.html",
     type: "official_breed_standard",
     publishedOn: "2002-04-19",
-    accessedOn: "2026-11-12",
-    note: "Official FCI breed nomenclature record confirming Belgium as country of origin, Group 1 Section 1 classification with working trial, definitive recognition date (1956-01-01), and official multilingual names (Chien de Berger Belge, Belgischer Schäferhund, Perro de Pastor Belga).",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Belgium as country of origin, Group 1 Section 1 Sheepdogs with working trial, definitive FCI acceptance date (1956-01-01), valid standard dated 2001-03-13, and four CACIB varieties (Groenendael, Laekenois, Malinois, Tervueren).",
     publisher: "Fédération Cynologique Internationale"
   },
 "american-kennel-club-belgian-malinois": {
@@ -14595,154 +14595,154 @@ export const sources = defineSources({
     note: "Photograph (738 x 629 px) of an adult Norrbottenspets (Pohjanpystykorva) by Kaisa Kotajärvi (uploaded 2006-12-24 by Jotsio~commonswiki). Licensed under CC BY-SA 3.0 on Wikimedia Commons. Replaced earlier broken draft filename under existing source ID.",
     publisher: "Wikimedia Commons"
   },
-  "fci-rhodesian-ridgeback-official-standard": {
+"fci-rhodesian-ridgeback-official-standard": {
     id: "fci-rhodesian-ridgeback-official-standard",
     name: "FCI - Rhodesian Ridgeback Official Breed Standard No. 146",
     url: "https://www.fci.be/Nomenclature/Standards/146g06-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2020-10-28",
-    accessedOn: "2026-11-10",
-    note: "Official English FCI Standard No. 146 (valid standard dated 2020-10-28). Covers Southern Africa origin, South Africa patronage, Group 6 Scenthounds and related breeds, Section 3 Related breeds classification without working trial, dorsal ridge specification, wheaten coloration, withers height (males 63-69 cm, females 61-66 cm), and published weight (males 36.5 kg / 80 lbs, females 32 kg / 70 lbs).",
+    publishedOn: "2025-06-06",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 146 (valid standard dated 2025-05-15, published 2025-06-06; supplied by KUSA and Zimbabwe Kennel Club). Covers Southern Africa origin, Group 6 Section 3 Related breeds without working trial, 1922 Bulawayo Dalmatian-based standard, symmetrical dorsal ridge with two opposite crowns, wheaten shades, withers height (males 63-69 cm, females 61-66 cm), and published weight (males 36.5 kg, females 32 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-rhodesian-ridgeback-nomenclature": {
+"fci-rhodesian-ridgeback-nomenclature": {
     id: "fci-rhodesian-ridgeback-nomenclature",
     name: "FCI - Rhodesian Ridgeback Breed Nomenclature (No. 146)",
     url: "https://www.fci.be/en/nomenclature/RHODESIAN-RIDGEBACK-146.html",
     type: "official_breed_standard",
-    publishedOn: "2020-10-28",
-    accessedOn: "2026-11-10",
-    note: "Official FCI breed nomenclature record confirming South Africa as country of origin/patronage, Group 6 Section 3 classification without working trial, definitive recognition date (1955-02-21), and multilingual names (Chien de Crête Rhodésien, Rhodesischer Ridgeback).",
+    publishedOn: "2025-06-06",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming South Africa as country of origin, Group 6 Section 3 classification without working trial, definitive recognition date (1955-02-21), valid official standard date (2025-05-15), publication date (2025-06-06), and multilingual names (Chien de Rhodésie à Crête Dorsale, Perro Crestado Rodesiano).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "kusa-rhodesian-ridgeback-breed-standard": {
+"kusa-rhodesian-ridgeback-breed-standard": {
     id: "kusa-rhodesian-ridgeback-breed-standard",
     name: "Kennel Union of Southern Africa - Rhodesian Ridgeback Breed Standard",
     url: "https://www.kusa.co.za/index.php/documents/breed-standards/hound-group/318-rhodesian-ridgeback",
     type: "official_breed_standard",
-    publishedOn: "2020-10-28",
-    accessedOn: "2026-11-10",
-    note: "Official Kennel Union of Southern Africa (KUSA) breed standard for the Rhodesian Ridgeback, detailing historical origin, Khoikhoi ridged dog heritage, Bulawayo 1922 meeting, height (63-69 cm dogs, 61-66 cm bitches), weight (approx. 36.5 kg dogs, 32 kg bitches), and functional ridge requirements.",
+    publishedOn: "2025-05-15",
+    accessedOn: "2026-11-21",
+    note: "Official Kennel Union of Southern Africa (KUSA) breed standard for the Rhodesian Ridgeback (co-supplied with Zimbabwe Kennel Club to FCI), covering southern African origin, height (63-69 cm dogs, 61-66 cm bitches), weight (36.5 kg dogs, 32 kg bitches), and ridge requirements.",
     publisher: "Kennel Union of Southern Africa"
   },
-  "akc-rhodesian-ridgeback-breed-standard": {
+"akc-rhodesian-ridgeback-breed-standard": {
     id: "akc-rhodesian-ridgeback-breed-standard",
     name: "American Kennel Club - Official Standard of the Rhodesian Ridgeback",
     url: "https://images.akc.org/pdf/breeds/standards/RhodesianRidgeback.pdf",
     type: "official_breed_standard",
     publishedOn: "1992-06-09",
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed standard (effective June 9, 1992, Hound Group) establishing height (males 25 to 27 inches, females 24 to 26 inches), weight (approx. 85 lbs dogs, 70 lbs bitches), symmetrical ridge with two crowns, scissor bite, and wheaten coat colors.",
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed standard (effective June 9, 1992, Hound Group) establishing height (males 25 to 27 inches, females 24 to 26 inches), weight (85 lbs dogs, 70 lbs bitches), symmetrical ridge with two crowns, scissor bite, and wheaten coat colors.",
     publisher: "American Kennel Club"
   },
-  "akc-rhodesian-ridgeback-breed-profile": {
+"akc-rhodesian-ridgeback-breed-profile": {
     id: "akc-rhodesian-ridgeback-breed-profile",
     name: "American Kennel Club - Rhodesian Ridgeback Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/rhodesian-ridgeback/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed profile covering southern African history, lion tracking tactics, Errol Flynn breeding, published weight (70-85 lbs), lifespan (10-12 years), temperament, and grooming.",
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed profile (recognized 1955, Hound Group) covering southern African Khoikhoi/Boer/van Rooyen history, Errol Flynn 1930s breeding, height (25-27 in / 24-26 in), weight (85 / 70 lbs), lifespan (10-12 years), wheaten colors with black or brown nose, counter-surfing note, nail grinder tip, and recommended breed club health tests (Hip Evaluation, Elbow Evaluation; plus thyroid, eye, and dermoid sinus screening).",
     publisher: "American Kennel Club"
   },
-  "the-kennel-club-rhodesian-ridgeback-breed-standard": {
+"the-kennel-club-rhodesian-ridgeback-breed-standard": {
     id: "the-kennel-club-rhodesian-ridgeback-breed-standard",
     name: "The Royal Kennel Club - Rhodesian Ridgeback Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/hound/rhodesian-ridgeback/",
+    url: "https://www.royalkennelclub.com/breed-standards/hound/rhodesian-ridgeback/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-11-10",
-    note: "Official Royal Kennel Club breed standard (Hound Group) confirming height (dogs 63-69 cm / 25-27 in; bitches 61-66 cm / 24-26 in), weight (dogs 36.5 kg / 80 lbs, bitches 32 kg / 70 lbs), ridge characteristics, and hunting temperament.",
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed standard (Hound Group, updated 2025-04-01) confirming height (dogs 63-69 cm, bitches 61-66 cm), weight (dogs 36.5 kg, bitches 32 kg), round bright eyes harmonising with coat, symmetrical ridge, and hunting temperament.",
     publisher: "The Royal Kennel Club"
   },
-  "ukc-rhodesian-ridgeback-breed-standard": {
+"ukc-rhodesian-ridgeback-breed-standard": {
     id: "ukc-rhodesian-ridgeback-breed-standard",
     name: "United Kennel Club - Rhodesian Ridgeback Breed Standard",
     url: "https://www.ukcdogs.com/rhodesian-ridgeback",
     type: "official_breed_standard",
     publishedOn: "2012-05-01",
-    accessedOn: "2026-11-10",
-    note: "Official UKC breed standard (Sighthound & Pariah Dog Group, recognized 1980, revised 2012) covering conformation, rectangular proportions, dorsal ridge, height, weight, and hunting behavior.",
+    accessedOn: "2026-11-21",
+    note: "United Kennel Club Sighthound & Pariah Dog Group standard reference retained from catalog registry; primary verification conducted via FCI Standard No. 146 (2025), Royal Kennel Club, AKC, and PubMed.",
     publisher: "United Kennel Club"
   },
-  "rrcus-rhodesian-ridgeback-health-survey": {
+"rrcus-rhodesian-ridgeback-health-survey": {
     id: "rrcus-rhodesian-ridgeback-health-survey",
     name: "Rhodesian Ridgeback Club of the United States - Health, Genetics, and Dermoid Sinus",
     url: "https://www.rrcus.org/health/",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
+    accessedOn: "2026-11-21",
     note: "Official national parent club health portal covering dermoid sinus palpation, degenerative myelopathy (DM), juvenile myoclonic epilepsy (JME), early onset adult deafness (EOAD), thyroiditis, and pre-breeding health testing guidelines.",
     publisher: "Rhodesian Ridgeback Club of the United States"
   },
-  "ofa-rhodesian-ridgeback-chic-requirements": {
+"ofa-rhodesian-ridgeback-chic-requirements": {
     id: "ofa-rhodesian-ridgeback-chic-requirements",
     name: "Orthopedic Foundation for Animals - Rhodesian Ridgeback CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=RR",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Rhodesian Ridgeback, mandating radiographic hip dysplasia evaluation, CAER eye examination, and autoimmune thyroiditis blood profile, alongside optional elbow, cardiac, and DM evaluations.",
+    accessedOn: "2026-11-21",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Rhodesian Ridgeback covering hip dysplasia, elbow dysplasia, CAER eye examination, autoimmune thyroiditis, and DNA screening options.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "rhodesian-ridgeback-dermoid-sinus-study-2007": {
+"rhodesian-ridgeback-dermoid-sinus-study-2007": {
     id: "rhodesian-ridgeback-dermoid-sinus-study-2007",
-    name: "Duplication of FGF3, FGF4, FGF19 and ORAOV1 Causes Hair Ridge and Predisposes to Dermoid Sinus in Ridgeback Dogs (Nature Genetics 2007)",
+    name: "Salmon Hillbertz et al. (2007) - Duplication of FGF3, FGF4, FGF19 and ORAOV1 causes hair ridge and predisposes to dermoid sinus in Ridgeback dogs",
     url: "https://pubmed.ncbi.nlm.nih.gov/17922012/",
     type: "scientific",
     publishedOn: "2007-11-01",
-    accessedOn: "2026-11-10",
-    note: "Peer-reviewed scientific study (Salmon Hillbertz et al., Nat Genet 2007;39(11):1318-1320, PMID 17922012) identifying that a 133-kb duplication involving three fibroblast growth factor genes (FGF3, FGF4, FGF19) creates the dorsal ridge phenotype and causes predisposition to congenital dermoid sinus in Rhodesian Ridgebacks.",
-    publisher: "Nature Genetics / PubMed"
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study in Nature Genetics (2007;39(11):1318-1320, PMID 17922012) establishing that a 133-kb duplication involving FGF3, FGF4, FGF19, and ORAOV1 creates the dorsal hair ridge and predisposes Rhodesian Ridgebacks to congenital dermoid sinus.",
+    publisher: "Nature Genetics (PubMed / NIH)"
   },
-  "wikimedia-rhodesian-ridgeback-lilly-m": {
+"wikimedia-rhodesian-ridgeback-lilly-m": {
     id: "wikimedia-rhodesian-ridgeback-lilly-m",
-    name: "Wikimedia Commons - File:Rhodesian Ridgeback.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Rhodesian_Ridgeback.jpg",
+    name: "Wikimedia Commons - File:Rhodesian ridgeback (8109929134).jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Rhodesian_ridgeback_(8109929134).jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-10",
-    note: "High-resolution photograph (2592 x 1944 px) of an adult Rhodesian Ridgeback standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2015-03-21",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (3648 x 2736 px) of an adult Rhodesian Ridgeback by Pets Adviser (captured 2012-10-21, uploaded 2015-03-21 by Томасина). Licensed under CC BY 2.0 on Wikimedia Commons (with attribution link to petsadviser.com). Replaced earlier broken draft filename under existing source ID.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-rhodesian-ridgeback-600-tomasz-sienicki": {
+"wikimedia-rhodesian-ridgeback-600-tomasz-sienicki": {
     id: "wikimedia-rhodesian-ridgeback-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Rhodesian Ridgeback 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Rhodesian_Ridgeback_600.jpg",
+    name: "Wikimedia Commons - File:Rhodesian Ridgeback 16.10.2011 pl.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Rhodesian_Ridgeback_16.10.2011_pl.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-10",
-    note: "Photograph (600 x 450 px) of a Rhodesian Ridgeback standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2011-10-16",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (1500 x 1388 px) of an adult Rhodesian Ridgeback at a dog show in Poland by Pleple2000 (captured 2011-10-16). Licensed under CC BY-SA 3.0 on Wikimedia Commons. Replaced earlier broken draft filename under existing source ID.",
     publisher: "Wikimedia Commons"
   },
-  "fci-whippet-official-standard": {
+"fci-whippet-official-standard": {
     id: "fci-whippet-official-standard",
     name: "FCI - Whippet Official Breed Standard No. 162",
     url: "https://www.fci.be/Nomenclature/Standards/162g10-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2019-09-04",
-    accessedOn: "2026-11-10",
-    note: "Official English FCI Standard No. 162 (valid standard dated 2019-09-04). Covers Great Britain origin, Group 10 Sighthounds, Section 3 Short-haired Sighthounds classification without working trial, aerodynamic symmetry, arch over loin, rose ears, and withers height (males 47-51 cm, females 44-47 cm).",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 162 (valid standard dated 2026-09-08, English edition published 2026-10-06). Covers Great Britain origin, Group 10 Sighthounds, Section 3 Short-haired Sighthounds classification without working trial, arch over loin, rose ears, withers height (males 47-51 cm, females 44-47 cm), and coat color (any color or mixture except merle).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-whippet-nomenclature": {
+"fci-whippet-nomenclature": {
     id: "fci-whippet-nomenclature",
     name: "FCI - Whippet Breed Nomenclature (No. 162)",
-    url: "https://www.fci.be/en/nomenclature/WHIPPET-162.html",
+    url: "https://www.fci.be/en/nomenclature/Whippet-162.html",
     type: "official_breed_standard",
-    publishedOn: "2019-09-04",
-    accessedOn: "2026-11-10",
-    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 10 Section 3 classification without working trial, definitive recognition date (1955-04-27), and multilingual names (Lévrier Whippet).",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 10 Section 3 classification without working trial, definitive recognition date (1955-04-27), valid standard dated 2026-09-08, and multilingual names (Lévrier Whippet).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "the-kennel-club-whippet-breed-standard": {
+"the-kennel-club-whippet-breed-standard": {
     id: "the-kennel-club-whippet-breed-standard",
     name: "The Royal Kennel Club - Whippet Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/hound/whippet/",
+    url: "https://www.royalkennelclub.com/breed-standards/hound/whippet/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-11-10",
-    note: "Official Royal Kennel Club breed standard (Hound Group, country of origin standard) establishing withers height (dogs 47-51 cm / 18.5-20 in; bitches 44-47 cm / 17.5-18.5 in), typical weight (approx. 12.5-13.5 kg / 11-18 kg), fine close coat, and sighthound temperament.",
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed standard (Hound Group, country of origin standard) establishing withers height (dogs 47-51 cm; bitches 44-47 cm), fine close coat, rose ears, and sighthound conformation.",
     publisher: "The Royal Kennel Club"
   },
   "akc-whippet-breed-standard": {
@@ -14826,34 +14826,34 @@ export const sources = defineSources({
     accessedOn: "2026-11-10",
     note: "National French kennel club breed profile covering history, Pyrenean origin, hunting application, calm temperament, care, height (50–58 cm), and unrecorded formal weight ('Poids: NP').",
   },
-  "fci-fox-terrier-smooth-official-standard": {
+"fci-fox-terrier-smooth-official-standard": {
     id: "fci-fox-terrier-smooth-official-standard",
     name: "FCI - Fox Terrier (Smooth) Official Breed Standard No. 12",
     url: "https://www.fci.be/Nomenclature/Standards/012g03-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2026-10-06",
-    accessedOn: "2026-11-10",
-    note: "Official English FCI Standard No. 12 (valid standard dated 2026-09-08, published 2026-10-06). Covers Great Britain origin, Group 3 Terriers, Section 1 Large and medium-sized Terriers classification without working trial, general appearance, flat hard smooth coat, white-predominated coloration, withers height not exceeding 39 cm in males, and weight (dogs 7.5-8 kg, bitches 7-7.5 kg).",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 12 (valid standard dated 2026-09-08, English edition published 2026-10-06). Covers Great Britain origin, Group 3 Terriers, Section 1 Large and medium-sized Terriers with optional working trial, flat hard smooth coat, white-predominated coloration (brindle, red, or liver markings highly undesirable; other colours unacceptable), withers height not exceeding 39 cm in males (females slightly less), and weight (dogs 7.5-8 kg, bitches 7-7.5 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-fox-terrier-smooth-nomenclature": {
+"fci-fox-terrier-smooth-nomenclature": {
     id: "fci-fox-terrier-smooth-nomenclature",
     name: "FCI - Fox Terrier (Smooth) Breed Nomenclature (No. 12)",
     url: "https://www.fci.be/en/nomenclature/FOX-TERRIER-SMOOTH-12.html",
     type: "official_breed_standard",
     publishedOn: "2026-10-06",
-    accessedOn: "2026-11-10",
-    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 3 Section 1 classification without working trial, definitive recognition date (1955-05-26), and multilingual names (Fox-Terrier à poil lisse, Glatthaar-Foxterrier, Fox Terrier de pelo liso).",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 3 Section 1 classification (subject to a working trial only for countries having applied for it), definitive FCI acceptance date (1963-06-26), valid standard dated 2026-09-08, and multilingual names.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "the-kennel-club-fox-terrier-smooth-breed-standard": {
+"the-kennel-club-fox-terrier-smooth-breed-standard": {
     id: "the-kennel-club-fox-terrier-smooth-breed-standard",
     name: "The Royal Kennel Club - Fox Terrier (Smooth) Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/terrier/fox-terrier-smooth/",
+    url: "https://www.royalkennelclub.com/breed-standards/terrier/fox-terrier-smooth/",
     type: "official_breed_standard",
     publishedOn: "2025-01-01",
-    accessedOn: "2026-11-10",
-    note: "Official Royal Kennel Club breed standard (Terrier Group, country of origin standard) establishing withers height not exceeding 39 cm (15.5 in) in dogs, bitches slightly less, weight (dogs 7.5-8 kg / 16-18 lbs, bitches 7-7.5 kg / 15-17 lbs), straight flat smooth coat, V-shaped drop ears, and fearless sporting temperament.",
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed standard (Terrier Group, country of origin standard) establishing general appearance, straight flat smooth coat, V-shaped drop ears, scissor bite, and fearless sporting temperament.",
     publisher: "The Royal Kennel Club"
   },
   "akc-smooth-fox-terrier-breed-standard": {
@@ -14896,15 +14896,15 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Smooth Fox Terrier, mandating clinical patellar luxation evaluation, CAER eye examination, congenital cardiac evaluation, and DNA testing for Primary Lens Luxation (PLL) and Spinocerebellar Ataxia (SCA).",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "smooth-fox-terrier-sca-kcnj10-study-2014": {
+"smooth-fox-terrier-sca-kcnj10-study-2014": {
     id: "smooth-fox-terrier-sca-kcnj10-study-2014",
-    name: "A KCNJ10 Mutation Causes Spinocerebellar Ataxia with Myokymia and Seizures (SAMS) in Terriers (PLoS ONE 2014)",
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4049683/",
+    name: "A Homozygous KCNJ10 Mutation in Jack Russell Terriers and Related Breeds with Spinocerebellar Ataxia with Myokymia, Seizures, or Both (J Vet Intern Med 2014)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4238845/",
     type: "scientific",
-    publishedOn: "2014-06-09",
-    accessedOn: "2026-11-10",
-    note: "Peer-reviewed scientific study (Rohdin et al., PLoS ONE 2014;9(6):e98968, PMID 24911478) establishing that a missense mutation in the KCNJ10 gene causes hereditary spinocerebellar ataxia with myokymia and seizures in Fox Terriers and Russell Terriers.",
-    publisher: "PLoS ONE / PubMed Central"
+    publishedOn: "2014-05-15",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed scientific study (Gilliam et al., J Vet Intern Med 2014;28(3):871-877, PMID 24708069) identifying the homozygous KCNJ10:c.627C>G missense mutation responsible for autosomal recessive spinocerebellar ataxia with myokymia, seizures, or both in Russell-group and related terriers.",
+    publisher: "Journal of Veterinary Internal Medicine / PubMed Central"
   },
   "wikimedia-fox-terrier-smooth-canarian-foxsmooth2": {
     id: "wikimedia-fox-terrier-smooth-canarian-foxsmooth2",
@@ -14956,24 +14956,24 @@ export const sources = defineSources({
     note: "Official Italian kennel club (ENCI / Ente Nazionale della Cinofilia Italiana) standard and breed profile for the Bolognese, detailing historical Italian origins, Renaissance nobility, square build, flocky coat, height, weight (2.5-4 kg), and health.",
     publisher: "Ente Nazionale della Cinofilia Italiana"
   },
-  "akc-bolognese-breed-profile": {
+"akc-bolognese-breed-profile": {
     id: "akc-bolognese-breed-profile",
     name: "American Kennel Club - Bolognese Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/bolognese/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed profile (Foundation Stock Service, Toy Group) covering Italian Renaissance history, Medici court gifts, Catherine the Great, weight (5.5-9 lbs / 2.5-4 kg), lifespan (12-14 years), temperament, and grooming.",
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed profile (Miscellaneous Class, Toy Group designation) covering Italian history, height (10-12 in), weight (6-10 lb), lifespan (12-14 years), temperament, grooming, separation anxiety, and recommended health tests (Patella Evaluation, PRA/PRCD, CAER Eye Examination).",
     publisher: "American Kennel Club"
   },
-  "the-kennel-club-bolognese-breed-standard": {
+"the-kennel-club-bolognese-breed-standard": {
     id: "the-kennel-club-bolognese-breed-standard",
     name: "The Royal Kennel Club - Bolognese Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/toy/bolognese/",
+    url: "https://www.royalkennelclub.com/breed-standards/toy/bolognese/",
     type: "official_breed_standard",
-    publishedOn: "2025-04-01",
-    accessedOn: "2026-11-10",
-    note: "Official Royal Kennel Club breed standard (Toy Group) confirming height (dogs 27-30 cm / 10.5-12 in; bitches 25-28 cm / 10-11 in), weight (2.5-4 kg / 5.5-9 lbs), square build, pure white flocky coat, and serene companion temperament.",
+    publishedOn: "2026-04-01",
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed standard (Toy Group) confirming square proportions, pure white flocky coat, high-set ears carried away from the head, and UK arrival in 1989.",
     publisher: "The Royal Kennel Club"
   },
   "ukc-bolognese-breed-standard": {
@@ -14986,34 +14986,34 @@ export const sources = defineSources({
     note: "Official UKC breed standard (Companion Dog Group, recognized 1995, revised 2012) covering conformation, square proportions, flocky white coat, height, weight, and companion behavior.",
     publisher: "United Kennel Club"
   },
-  "ofa-bolognese-health-screenings": {
+"ofa-bolognese-health-screenings": {
     id: "ofa-bolognese-health-screenings",
     name: "Orthopedic Foundation for Animals - Bolognese Health Screening Guidelines",
-    url: "https://ofa.org/browse-by-breed/?breed=BOG",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=BOG",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Orthopedic Foundation for Animals health database and veterinary screening guidelines for the Bolognese, documenting evaluations for patellar luxation, eye examinations (CAER), cardiac health, and Legg-Calve-Perthes disease.",
+    accessedOn: "2026-11-21",
+    note: "Orthopedic Foundation for Animals CHIC / breed health screening portal for the Bolognese covering patellar luxation, eye examinations (CAER), PRA-prcd, and cardiac evaluations.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-bolognese-1-lilly-m": {
+"wikimedia-bolognese-1-lilly-m": {
     id: "wikimedia-bolognese-1-lilly-m",
-    name: "Wikimedia Commons - File:Bolognese 1.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Bolognese_1.jpg",
+    name: "Wikimedia Commons - File:Male adult bolognese dog.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Male_adult_bolognese_dog.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-10",
-    note: "Photograph of an adult Bolognese standing outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25, 1780 x 1856 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2024-04-01",
+    accessedOn: "2026-11-21",
+    note: "Verified replacement for broken File:Bolognese_1.jpg (ID preserved for compatibility). Photograph of an adult male white Bolognese by Mrtibbs1999 (captured/uploaded 2024-04-01, 1179 x 1259 px), licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-bolognese-600-tomasz-sienicki": {
+"wikimedia-bolognese-600-tomasz-sienicki": {
     id: "wikimedia-bolognese-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Bolognese 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Bolognese_600.jpg",
+    name: "Wikimedia Commons - File:Bolończyk 5e3.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Bolo%C5%84czyk_5e3.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-10",
-    note: "Photograph of an adult Bolognese in profile by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2006-11-21",
+    accessedOn: "2026-11-21",
+    note: "Verified replacement for broken File:Bolognese_600.jpg (ID preserved for compatibility). Photograph of an adult Bolognese at a Poznań dog show by Pleple2000 (captured 2006-11-12, uploaded 2006-11-21, 2184 x 2190 px), licensed under CC BY-SA 3.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
   "srhk-belgian-shepherd-breed-standard": {
@@ -15046,14 +15046,14 @@ export const sources = defineSources({
     note: "Official AKC breed profile covering Belgian history (Château de Groenendael, Nicolas Rose), World War I sentry work, published weight (45-75 lbs / approx. 20-34 kg), lifespan (12-14 years), temperament, and grooming.",
     publisher: "American Kennel Club"
   },
-  "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard": {
+"the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard": {
     id: "the-kennel-club-belgian-shepherd-dog-groenendael-breed-standard",
     name: "The Royal Kennel Club - Belgian Shepherd Dog (Groenendael) Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/pastoral/belgian-shepherd-dog-groenendael/",
+    url: "https://www.royalkennelclub.com/breed-standards/pastoral/belgian-shepherd-dog-groenendael/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-11-10",
-    note: "Official Royal Kennel Club breed standard (Pastoral Group) confirming withers height (dogs 61-66 cm / 24-26 in; bitches 56-61 cm / 22-24 in), square proportions, long black coat with collarette, and working sheepdog temperament.",
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed standard (Pastoral Group) confirming withers height (dogs 61-66 cm; bitches 56-61 cm), square proportions, solid black long coat (muzzle frosting normal; small white on forechest and toes tolerated), and working sheepdog temperament.",
     publisher: "The Royal Kennel Club"
   },
   "ukc-belgian-shepherd-dog-breed-standard": {
@@ -21277,16 +21277,6 @@ export const sources = defineSources({
     note: "Official UK breed society health page documenting inherited idiopathic epilepsy in Bavarian Mountain Hound bloodlines (typically emerging between 1 and 5 years of age), pedigree-based prevention, and participation in canine epilepsy genetics research.",
     publisher: "Bavarian Mountain Hound Society of Great Britain"
   },
-  "pubmed-voges-distl-2009-bavarian-mountain-hound-inbreeding": {
-    id: "pubmed-voges-distl-2009-bavarian-mountain-hound-inbreeding",
-    name: "Inbreeding trends and pedigree analysis of Bavarian mountain hounds, Hanoverian hounds and Tyrolean hounds (J Anim Breed Genet 2009)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/19765162/",
-    type: "scientific",
-    publishedOn: "2009-10-01",
-    accessedOn: "2026-11-21",
-    note: "Peer-reviewed study by Voges and Distl (University of Veterinary Medicine Hannover; J Anim Breed Genet 2009 Oct;126(5):357-365, PMID 19765162) evaluating pedigree structure and inbreeding trends in Bavarian Mountain Hounds, Hanoverian Hounds, and Tyrolean Hounds, recommending careful breeding management and European studbook coordination to preserve genetic diversity.",
-    publisher: "Journal of Animal Breeding and Genetics / PubMed"
-  },
   "wikimedia-bavarian-mountain-scenthound-canarian": {
     id: "wikimedia-bavarian-mountain-scenthound-canarian",
     name: "Wikimedia Commons - File:Bavarian Mountain Scenthound.jpg",
@@ -21306,6 +21296,426 @@ export const sources = defineSources({
     accessedOn: "2026-11-21",
     note: "High-resolution photograph (3264 x 2448 px) of a two-year-old deer-red female Bavarian Mountain Hound by Antham1616 (EXIF capture date 2019-08-22, uploaded 2019-08-22). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
+  },
+  "rkc-rhodesian-ridgeback-breed-profile": {
+    id: "rkc-rhodesian-ridgeback-breed-profile",
+    name: "The Royal Kennel Club - Rhodesian Ridgeback Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/hound/rhodesian-ridgeback/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed profile covering southern African lion-tracking heritage and Good Practice pre-breeding health tests (DNA test for Juvenile Myoclonic Epilepsy [JME], BVA/KC Elbow Dysplasia Scheme, and BVA/KC Hip Dysplasia Scheme).",
+    publisher: "The Royal Kennel Club"
+  },
+  "pubmed-wielaender-2017-rr-jme-diras1": {
+    id: "pubmed-wielaender-2017-rr-jme-diras1",
+    name: "Wielaender et al. (2017) - Generalized myoclonic epilepsy with photosensitivity in juvenile dogs caused by a defective DIRAS family GTPase 1",
+    url: "https://pubmed.ncbi.nlm.nih.gov/28223533/",
+    type: "scientific_publication",
+    publishedOn: "2017-03-07",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study in PNAS (2017 Mar 7;114(10):2669-2674, PMID 28223533) identifying a fully penetrant recessive 4-bp deletion in DIRAS1 causing Juvenile Myoclonic Epilepsy (JME) with photosensitivity in young Rhodesian Ridgebacks (onset 6 weeks to 18 months).",
+    publisher: "Proceedings of the National Academy of Sciences (PubMed / NIH)"
+  },
+  "pubmed-eoad-2022-rr-eps8l2": {
+    id: "pubmed-eoad-2022-rr-eps8l2",
+    name: "Early onset adult deafness in the Rhodesian Ridgeback dog is associated with an in-frame deletion in the EPS8L2 gene (PLoS One 2022)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/35385474/",
+    type: "scientific_publication",
+    publishedOn: "2022-04-06",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed GWAS study in PLoS One (2022 Apr 6;17(4):e0264365, PMID 35385474) identifying an autosomal recessive 12-bp in-frame deletion in EPS8L2 strongly associated with Early Onset Adult Deafness (EOAD) in Rhodesian Ridgebacks.",
+    publisher: "PLoS One (PubMed / NIH)"
+  },
+  "fci-sarplaninac-official-standard": {
+    id: "fci-sarplaninac-official-standard",
+    name: "FCI - Yugoslavian Shepherd Dog - Sharplanina (Jugoslovenski Ovčarski Pas - Šarplaninac) Official Breed Standard No. 41",
+    url: "https://www.fci.be/Nomenclature/Standards/041g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1980-10-03",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 41 (original valid standard 1970-11-24; English publication dated 1980-10-03 / PDF header 1980-10-31). Covers Šar Mountains origin, Group 2 Section 2.2 Mountain-type Molossoids classification without working trial, 1939 Ilirski Ovčar registration and 1957 renaming, average height (males 62 cm, females 58 cm; breeding minimums 56 cm males, 54 cm females), weight (males 35-45 kg, females 30-40 kg), body proportions, tight dewlap-free skin, 10-12 cm withers coat, solid colours (iron grey / dark grey preferred), and incorruptible guardian character.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-sarplaninac-nomenclature": {
+    id: "fci-sarplaninac-nomenclature",
+    name: "FCI - Jugoslovenski Ovčarski Pas - Šarplaninac Breed Nomenclature (No. 41)",
+    url: "https://www.fci.be/en/nomenclature/YUGOSLAVIAN-SHEPHERD-DOG-SHARPLANINA-41.html",
+    type: "official_breed_standard",
+    publishedOn: "1980-10-03",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming North Macedonia and Serbia as countries of origin, Group 2 Section 2.2 classification without working trial, definitive recognition date (1957-07-24), and official multilingual names (Yugoslavian Shepherd Dog - Sharplanina, Chien de Berger Yougoslave de Charplanina).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "ukc-sarplaninac-breed-standard": {
+    id: "ukc-sarplaninac-breed-standard",
+    name: "United Kennel Club - Sarplaninac Breed Standard",
+    url: "https://www.ukcdogs.com/sarplaninac",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official UKC breed standard (Guardian Dog Group, recognized 1995) confirming Sarplaninac breed designation, mountain livestock-guardian build, and independent, calm, fearless temperament.",
+    publisher: "United Kennel Club"
+  },
+  "skk-sarplaninac-breed-profile": {
+    id: "skk-sarplaninac-breed-profile",
+    name: "Svenska Kennelklubben (SKK) - Sarplaninac Rasprofil",
+    url: "https://www.skk.se/hundraser/sarplaninac/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Sarplaninac confirming North Macedonia and Serbia origin, sharp attentive guarding with loud persistent barking, experienced-owner responsibility warning, relatively easy-care double coat brushed during shedding, and documentation that hip dysplasia (HD) occurs while Swedish numbers remain too small for full national statistics.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-sarplaninac-breed-profile": {
+    id: "scc-sarplaninac-breed-profile",
+    name: "Société Centrale Canine (SCC) - Chien de berger yougoslave de Charplanina",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/chien-de-berger-yougoslave-de-charplanina",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official French Kennel Club (SCC) breed profile detailing calm discreet home demeanour, stranger suspicion, respectful 'iron hand in a velvet glove' training philosophy, unsuitability for sedentary city life, modest adult food intake, and balanced puppy-growth nutrition.",
+    publisher: "Société Centrale Canine"
+  },
+  "pubmed-ceh-dovc-2014-western-balkan-lgd-genetics": {
+    id: "pubmed-ceh-dovc-2014-western-balkan-lgd-genetics",
+    name: "Population structure and genetic differentiation of livestock guard dog breeds from the Western Balkans (J Anim Breed Genet 2014)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/24397417/",
+    type: "scientific",
+    publishedOn: "2014-01-08",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed molecular population-genetics study by Ceh and Dovc (University of Ljubljana; J Anim Breed Genet 2014 Aug;131(4):313-325, Epub 2014-01-08, PMID 24397417) analyzing nuclear microsatellites and mtDNA across Sarplaninac (n = 109), Karst Shepherd, and Tornjak, documenting high nuclear genetic diversity (H = 0.770), highest mtDNA haplotype diversity including a unique haplotype, and low inbreeding in the Sarplaninac.",
+    publisher: "Journal of Animal Breeding and Genetics / PubMed"
+  },
+  "pmc-katz-2017-canine-ncl-review": {
+    id: "pmc-katz-2017-canine-ncl-review",
+    name: "Canine neuronal ceroid lipofuscinoses: Promising models for preclinical testing of therapeutic interventions (Neurobiol Dis / PMC5675811)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5675811/",
+    type: "scientific",
+    publishedOn: "2017-12-01",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed comparative review (PMID 28860089, PMC5675811) noting an isolated historical case report of neuronal ceroid lipofuscinosis in a Yugoslavian Shepherd Dog without established breed-wide prevalence or an identified causal mutation.",
+    publisher: "National Library of Medicine (PMC)"
+  },
+  "wikimedia-sarplaninac-muri-emir-sakal33": {
+    id: "wikimedia-sarplaninac-muri-emir-sakal33",
+    name: "Wikimedia Commons - File:Sarplaninac male dog Muri-Emír 2 years old.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Sarplaninac_male_dog_Muri-Em%C3%ADr_2_years_old.jpg",
+    type: "other",
+    publishedOn: "2020-04-14",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (5184 x 3456 px) of a two-year-old iron-grey male Šarplaninac by Sakal33 (EXIF capture date 2020-04-13, uploaded 2020-04-14). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-sarplaninac-ruma-serbia-orjen": {
+    id: "wikimedia-sarplaninac-ruma-serbia-orjen",
+    name: "Wikimedia Commons - File:Šarplaninac in Ruma Serbia.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:%C5%A0arplaninac_in_Ruma_Serbia.jpg",
+    type: "other",
+    publishedOn: "2019-03-22",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (4032 x 3024 px) of an adult Šarplaninac in Ruma, Serbia, by Orjen (EXIF capture date 2015-04-11, uploaded 2019-03-22). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-catalan-sheepdog-official-standard": {
+    id: "fci-catalan-sheepdog-official-standard",
+    name: "FCI - Catalan Sheepdog (Gos d'Atura Català) Official Breed Standard No. 87",
+    url: "https://www.fci.be/Nomenclature/Standards/087g01-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2004-09-13",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 87 (valid standard dated 1982-05-26, English publication dated 2004-09-13). Covers Spanish origin in the Catalan Pyrenees, Group 1 Section 1 Sheepdogs classification without working trial, 9:8 body ratio, 4:3 skull-to-muzzle ratio, black lips and palate, 8:10 ear ratio, long/short (<10 cm)/tailless tail variations, hind double bony dewclaws joined by membrane, two-stage front-then-hind moult, blended coat colours (fawn, sable, grey, frosty black), all-weather resistance, frugal diet, and withers height (males 47-55 cm, females 45-53 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-catalan-sheepdog-nomenclature": {
+    id: "fci-catalan-sheepdog-nomenclature",
+    name: "FCI - Gos d'Atura Català (Catalan Sheepdog) Breed Nomenclature (No. 87)",
+    url: "https://www.fci.be/en/nomenclature/GOS-D-ATURA-CATALA-87.html",
+    type: "official_breed_standard",
+    publishedOn: "2004-09-13",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Spain as country of origin, Group 1 Section 1 Sheepdogs classification without working trial, definitive acceptance date (1954-11-30), and official multilingual names (Gos d'Atura Català, Catalan Sheepdog, Chien de Berger Catalan, Perro de Pastor Catalán).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "rkc-catalan-sheepdog-breed-standard": {
+    id: "rkc-catalan-sheepdog-breed-standard",
+    name: "The Royal Kennel Club - Catalan Sheepdog Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/pastoral/catalan-sheepdog/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed standard (Pastoral Group, published 2025-04-01) confirming 9:8 body proportions, 4:3 skull-to-muzzle ratio, close-fitting black lips and palate, dark tongue patches allowance, mandatory hind double dewclaws, ideal height (dogs 47-55 cm, bitches 45-53 cm), coat colours, and alert, loyal, trainable family temperament.",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-catalan-sheepdog-breed-profile": {
+    id: "rkc-catalan-sheepdog-breed-profile",
+    name: "The Royal Kennel Club - Catalan Sheepdog Breed Information",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/pastoral/catalan-sheepdog/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club Breeds A to Z profile for Catalan Sheepdog documenting northeastern Spanish Pyrenees origin, medium size, small-house and small/medium-garden suitability, weekly grooming, low free shedding, Breed Watch Category 1 status, and Best Practice health screenings (BVA/KC/ISDS Eye Scheme and BVA/KC Hip Dysplasia Scheme).",
+    publisher: "The Royal Kennel Club"
+  },
+  "skk-gos-datura-catala-breed-profile": {
+    id: "skk-gos-datura-catala-breed-profile",
+    name: "Svenska Kennelklubben (SKK) - Gos d'atura catalá Rasprofil",
+    url: "https://www.skk.se/hundraser/gos-datura-catala/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Gos d'atura catalá documenting 1929 official recognition, Catalan Pyrenees origin, height (47-55 cm males, 45-53 cm females), approximate weight (ca 19-22 kg), weekly combing with no clipping required, active dog-sport versatility, lingering guarding instincts, and small-population health data limitations.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-chien-de-berger-catalan-profile": {
+    id: "scc-chien-de-berger-catalan-profile",
+    name: "Société Centrale Canine (SCC) - Chien de berger catalan",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/chien-de-berger-catalan",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official French Kennel Club (SCC) breed profile for Chien de berger catalan (Gos d'atura / Perro de pastor catalán) documenting Catalonian heritage, Spanish Civil War messenger and sentry role, height (45-55 cm), approximate weight (environ 18 kg), and coat colour varieties.",
+    publisher: "Société Centrale Canine"
+  },
+  "cscogb-catalan-sheepdog-health": {
+    id: "cscogb-catalan-sheepdog-health",
+    name: "The Catalan Sheepdog Club of Great Britain - Health & Welfare",
+    url: "https://catalansheepdogclub.co.uk/catalan-sheepdog-welfare/",
+    type: "breed_club",
+    publishedOn: "2026-02-01",
+    accessedOn: "2026-11-21",
+    note: "Official UK parent breed club health page (updated February 2026) recommending pre-breeding BVA/KC Hip Dysplasia scoring (reporting a 15-year median hip score of 11 as of 31 December 2024) and BVA/KC/ISDS specialist eye testing for hereditary eye diseases including Progressive Retinal Atrophy (PRA).",
+    publisher: "The Catalan Sheepdog Club of Great Britain"
+  },
+  "wikimedia-katalansk-gjeterhund-elinandreassen": {
+    id: "wikimedia-katalansk-gjeterhund-elinandreassen",
+    name: "Wikimedia Commons - File:Katalansk gjeterhund.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Katalansk_gjeterhund.jpg",
+    type: "other",
+    publishedOn: "2013-04-30",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (5184 x 3456 px) of an adult Catalan Sheepdog by Elinandreassen (EXIF capture date 2012-02-26 on Canon EOS 7D, uploaded 2013-04-30). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-gos-d-atura-catala-caronna": {
+    id: "wikimedia-gos-d-atura-catala-caronna",
+    name: "Wikimedia Commons - File:Gos-d'Atura-Catala.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Gos-d%27Atura-Catala.jpg",
+    type: "other",
+    publishedOn: "2005-04-24",
+    accessedOn: "2026-11-21",
+    note: "Photograph (1189 x 966 px) of an adult Catalan Sheepdog standing outdoors in profile by Caronna (EXIF capture date 2005-04-24, uploaded 2005-04-24). Licensed under CC BY-SA 3.0 Unported (and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "rkc-whippet-breed-profile": {
+    id: "rkc-whippet-breed-profile",
+    name: "The Royal Kennel Club - Whippet Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/hound/whippet/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club Breeds A to Z profile covering genetic ancestry linked to the Greyhound (Celtic Vertragus), 19th-century mining-area history across northern England, Wales, London, and the Midlands, and recognized coat colors.",
+    publisher: "The Royal Kennel Club"
+  },
+  "pubmed-whippet-mvd-gwas-2015": {
+    id: "pubmed-whippet-mvd-gwas-2015",
+    name: "Severity of Mitral Valve Degeneration Is Associated with Chromosome 15 Loci in Whippet Dogs (PLoS One 2015)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/26509595/",
+    type: "scientific",
+    publishedOn: "2015-10-28",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed genome-wide association study (Stern et al., PLoS One 2015;10(10):e0141234, PMID 26509595) in 138 Whippets identifying a genome-wide significant locus on canine chromosome 15 (near FSTL5) associated with mitral valve degeneration severity.",
+    publisher: "PLoS One / PubMed"
+  },
+  "fci-serbian-hound-official-standard": {
+    id: "fci-serbian-hound-official-standard",
+    name: "FCI - Serbian Hound (Srpski gonič) Official Breed Standard No. 150",
+    url: "https://www.fci.be/Nomenclature/Standards/150g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2003-05-05",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 150 (valid standard dated 2003-03-25, English publication dated 2003-05-05). Covers Serbian origin, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, proportions (body +10%, chest girth +20%, head 45%, muzzle:skull 9:10), short glossy fox-red coat with black saddle/mantle and temple marks (max 2 cm round white chest spot), kind/lively/tenacious temperament, and withers height (males 46-56 cm, ideal 51-52 cm; females 44-54 cm, ideal 48-49 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-serbian-hound-nomenclature": {
+    id: "fci-serbian-hound-nomenclature",
+    name: "FCI - Srpski Gonič (Serbian Hound) Breed Nomenclature (No. 150)",
+    url: "https://www.fci.be/en/nomenclature/SERBIAN-HOUND-150.html",
+    type: "official_breed_standard",
+    publishedOn: "2003-05-05",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Serbia as country of origin, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, definitive acceptance date (1955-03-30), and official multilingual names (Srpski gonič, Serbian Hound, Chien Courant Serbe).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "kss-srpski-gonic-standard": {
+    id: "kss-srpski-gonic-standard",
+    name: "Kinološki savez Republike Srbije (KSS) - Standard za Srpskog goniča (FCI 150)",
+    url: "https://ksrs.rs/fci-standardi/srpski-gonic/",
+    type: "official_breed_standard",
+    publishedOn: "2003-03-25",
+    accessedOn: "2026-11-21",
+    note: "Official Kennel Club of the Republic of Serbia (KSS) publication of FCI Standard No. 150 for Srpski gonič documenting Serbian origin, 1905 Franz Laska description as Balkanski gonič, 1924 first standard, November 12, 1996 Copenhagen name change to Serbian Hound, complete conformation, disqualifying faults, and height specifications without a numerical weight range.",
+    publisher: "Kinološki savez Republike Srbije"
+  },
+  "scc-chien-courant-serbe-profile": {
+    id: "scc-chien-courant-serbe-profile",
+    name: "Société Centrale Canine (SCC) - Chien courant serbe",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/chien-courant-serbe",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official French Kennel Club (SCC) breed profile for Chien courant serbe (Balkanski gonič / Srpski gonič) confirming height (males 46-56 cm, females 44-54 cm), unsexed approximate weight note ('Jusqu'à 20 kg'), historical summary (1905 Franz Laska, 1924 standard, 1940 Bled adoption, 1996 renaming), and short dense glossy coat.",
+    publisher: "Société Centrale Canine"
+  },
+  "skk-srpski-gonic-breed-profile": {
+    id: "skk-srpski-gonic-breed-profile",
+    name: "Svenska Kennelklubben (SKK) - Srpski gonič Rasprofil",
+    url: "https://www.skk.se/hundraser/srpski-gonic/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Srpski gonič documenting Serbian origin, height (46-56 cm males, 44-54 cm females), easy-care short glossy coat, friendly lively enduring hunting temperament, need for hunting/field outlets rather than purely family-pet life, and note that small registered numbers in Sweden preclude reliable breed-wide health assessment.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "pmc-katica-2025-balkan-dogs-amy2b": {
+    id: "pmc-katica-2025-balkan-dogs-amy2b",
+    name: "Copy number variations in AMY2B gene and amylase activity in Balkan dog breeds (PLOS ONE / PMC12047765)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12047765/",
+    type: "scientific",
+    publishedOn: "2025-05-02",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study by Katica et al. (University of Sarajevo, PLOS ONE 2025, PMC12047765) examining AMY2B diploid copy numbers, serum amylase activity, and serum glucose across eight native Balkan dog breeds including the Serbian Hound (SRP).",
+    publisher: "PLOS ONE / National Library of Medicine (PMC)"
+  },
+  "wikimedia-serbian-hound-1-firkingreat": {
+    id: "wikimedia-serbian-hound-1-firkingreat",
+    name: "Wikimedia Commons - File:Serbian hound 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Serbian_hound_1.jpg",
+    type: "other",
+    publishedOn: "2025-03-09",
+    accessedOn: "2026-11-21",
+    note: "Photograph (662 x 580 px) of a Serbian Hound standing in a field by Firkingreat (captured and uploaded 2025-03-09). Dedicated to the public domain under CC0 1.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-serbian-hound-dog-running-firkingreat": {
+    id: "wikimedia-serbian-hound-dog-running-firkingreat",
+    name: "Wikimedia Commons - File:Serbian hound dog running.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Serbian_hound_dog_running.jpg",
+    type: "other",
+    publishedOn: "2025-03-13",
+    accessedOn: "2026-11-21",
+    note: "High-resolution action photograph (1080 x 720 px) of a Serbian Hound running outdoors by Firkingreat (captured and uploaded 2025-03-13). Licensed under CC BY 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "rkc-fox-terrier-smooth-breed-profile": {
+    id: "rkc-fox-terrier-smooth-breed-profile",
+    name: "The Royal Kennel Club - Fox Terrier (Smooth) Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/terrier/fox-terrier-smooth/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club Breeds A to Z profile covering English fox-hunting history, Old English White Terrier/Bull Terrier/Beagle ancestry, 1862 Islington and 1863 Birmingham shows (Old Jock, Old Tartar, Old Trap), 1876 Fox Terrier Club of England standard, and health testing guidance.",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-bolognese-breed-profile": {
+    id: "rkc-bolognese-breed-profile",
+    name: "The Royal Kennel Club - Bolognese Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/toy/bolognese/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club Breeds A to Z profile confirming Bologna origin, untrimmed white flocky coat, White-only standard colour (Category 0), and Breed Watch status (no points of concern).",
+    publisher: "The Royal Kennel Club"
+  },
+  "fci-styrian-coarse-haired-hound-official-standard": {
+    id: "fci-styrian-coarse-haired-hound-official-standard",
+    name: "FCI - Coarse-haired Styrian Hound (Steirische Rauhhaarbracke) Official Breed Standard No. 62",
+    url: "https://www.fci.be/Nomenclature/Standards/062g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1996-06-18",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 62 (valid standard dated 1995-10-10, English publication dated 1996-06-18). Covers Austrian origin in Styria (1870 Carl Peintinger crossing Hanoverian Scenthound bitch 'Hela 1' with a coarse-haired Istrian Hound), Group 6 Section 1.2 Medium-sized hounds classification with working trial, weatherproof rough matte red or fawn coat with moustache (optional white chest mark), non-pendant lips, 42-tooth scissor bite (max two PM1/PM2 missing tolerated), and withers height (overall 45-53 cm; males 47-53 cm, females 45-51 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-styrian-coarse-haired-hound-nomenclature": {
+    id: "fci-styrian-coarse-haired-hound-nomenclature",
+    name: "FCI - Steirische Rauhhaarbracke (Coarse-haired Styrian Hound) Breed Nomenclature (No. 62)",
+    url: "https://www.fci.be/en/nomenclature/STEIRISCHE-RAUHHAARBRACKE-62.html",
+    type: "official_breed_standard",
+    publishedOn: "1996-06-18",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Austria as country of origin, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, definitive acceptance date (1954-08-31), and official multilingual names (Coarse-haired Styrian Hound, Brachet de Styrie à poil dur, Steirische Rauhhaarbracke, Sabueso Estirio de pelo áspero).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "obv-steirische-rauhaarbracke-rasseportrait": {
+    id: "obv-steirische-rauhaarbracke-rasseportrait",
+    name: "Österreichischer Brackenverein (ÖBV) - Rasseportrait Steirische Rauhaarbracke",
+    url: "https://www.bracken.at/steirische-rauhaarbracke/rasseportrait",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Austrian parent breed club (Österreichischer Brackenverein) breed portrait for the Steirische Rauhaarbracke (Peintinger Bracke / Steirische Rauhaarige Hochgebirgsbracke), documenting its Austrian solo-hunting ('brackieren') use on hare, fox, badger, marten, and wild boar alongside wounded-game tracking ('Nachsuche').",
+    publisher: "Österreichischer Brackenverein"
+  },
+  "obv-formulare-downloads-hd": {
+    id: "obv-formulare-downloads-hd",
+    name: "Österreichischer Brackenverein (ÖBV) - Formulare & HD-Befundung Steirische Rauhhaarbracke",
+    url: "https://www.bracken.at/service-info/formulare-downloads",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Austrian parent breed club breeding documentation portal publishing the dedicated radiographic Hip Dysplasia screening form ('HD Röntgenuntersuchung Steirische Rauhhaarbracke') and breeding/litter records.",
+    publisher: "Österreichischer Brackenverein"
+  },
+  "skk-steirische-rauhhaarbracke-profile": {
+    id: "skk-steirische-rauhhaarbracke-profile",
+    name: "Svenska Kennelklubben (SKK) - Steirische rauhhaarbracke Rasprofil",
+    url: "https://www.skk.se/hundraser/steirische-rauhhaarbracke/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Steirische rauhhaarbracke confirming Austrian origin (1870 Carl Peintinger cross of Hanoverian Scenthound and Istarski oštrodlaki gonič), height (47-53 cm males, 45-51 cm females), no special coat grooming required, pronounced hunting temperament unsuited solely as a family pet, and note that small population numbers prevent broad breed-wide health evaluation.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-brachet-de-styrie-poil-dur-profile": {
+    id: "scc-brachet-de-styrie-poil-dur-profile",
+    name: "Société Centrale Canine (SCC) - Brachet de Styrie à poil dur",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/brachet-de-styrie-poil-dur",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official French Kennel Club (SCC) breed profile for Brachet de Styrie à poil dur (Peintinger / Steirische Rauhhaarbracke) confirming height (47-53 cm males, 45-51 cm females), weight explicitly listed as unspecified (NP), and rough harsh coat details.",
+    publisher: "Société Centrale Canine"
+  },
+  "wikimedia-steirische1-canarian": {
+    id: "wikimedia-steirische1-canarian",
+    name: "Wikimedia Commons - File:Steirische1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Steirische1.jpg",
+    type: "other",
+    publishedOn: "2019-04-04",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (1638 x 1359 px) of an adult female Styrian Coarse-haired Hound (Steirische Rauhhaarbracke) by Canarian (EXIF capture date 2019-03-31 on Sony DSLR-A350, uploaded 2019-04-04). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-steirische-rauhhaarbracke-u235": {
+    id: "wikimedia-steirische-rauhhaarbracke-u235",
+    name: "Wikimedia Commons - File:Steirische Rauhhaarbracke.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Steirische_Rauhhaarbracke.jpg",
+    type: "other",
+    publishedOn: "2006-01-20",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (1476 x 1608 px) of a six-month-old Styrian Coarse-haired Hound by U235~commonswiki (captured 2005-11-13, uploaded 2006-01-20). Licensed under CC BY-SA 3.0 Unported (and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "rkc-belgian-shepherd-dog-groenendael-breed-profile": {
+    id: "rkc-belgian-shepherd-dog-groenendael-breed-profile",
+    name: "The Royal Kennel Club - Belgian Shepherd Dog (Groenendael) Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/pastoral/belgian-shepherd-dog-groenendael/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club Breeds A to Z profile covering medieval Belgian herding origins, 1891 breed club and Prof. Adolphe Reul's examination of 117 dogs, four coat varieties, and police/armed forces versatility.",
+    publisher: "The Royal Kennel Club"
   },
 });
 
