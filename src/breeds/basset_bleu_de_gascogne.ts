@@ -7,79 +7,75 @@ export const basset_bleu_de_gascogne: Breed = {
 
   alternateNames: [
     "Blue Gascony Basset",
-    "Bleu de Gascogne Basset",
     "Basset Azul de Gascuña",
-    "Blauer Gascogne Basset"
+    "Blauer Basset der Gascogne"
   ],
 
-  group:
-    "Scenthounds and Related Breeds; Section 1.3 — Small-sized Hounds (with working trial; also classified in the Scenthound and Hound groups)",
+  group: "Small-Sized Scenthound (Scenthound)",
 
   origin: {
     country: "France",
-    region:
-      "Gascony (Gascogne), southwestern France"
+    region: "Gascony and Béarn, southwestern France"
   },
 
   images: [
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Gascony_Basset_Basset_Bleu_de_Gascogne_02.jpg",
+      sourcePage:
+        "https://commons.wikimedia.org/wiki/File:Blue_Gascony_Basset_Basset_Bleu_de_Gascogne_02.jpg",
+      title: "Blue Gascony Basset Basset Bleu de Gascogne 02.jpg",
+      description:
+        "An adult Basset Bleu de Gascogne showing its slate-blue mottled coat and long drop ears.",
+      creator: "Canarian",
+      uploader: "Canarian",
+      capturedOn: "2017-12-09",
+      uploadedOn: null,
+      width: 2162,
+      height: 1406,
+      licenseId: "cc-by-sa-4.0",
+      attribution:
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Blue_Gascony_Basset_Basset_Bleu_de_Gascogne_02.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+      restrictions: null,
+      metadataCheckedOn: "2026-11-21"
+    },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Basset_bleu_de_Gascogne.jpg",
       sourcePage:
         "https://commons.wikimedia.org/wiki/File:Basset_bleu_de_Gascogne.jpg",
       title: "Basset bleu de Gascogne.jpg",
       description:
-        "An adult Basset Bleu de Gascogne standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2376,
-      height: 1768,
+        "An adult Basset Bleu de Gascogne (Noémie des Prés de Perce-Neiges) standing outdoors.",
+      creator: "M.W. Reichert",
+      uploader: "Caronna",
+      capturedOn: "2005-10-30",
+      uploadedOn: "2006-01-25",
+      width: 921,
+      height: 554,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Basset_bleu_de_Gascogne.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by M.W. Reichert (uploaded by Caronna), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Basset_bleu_de_Gascogne.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
-    },
-    {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Basset_bleu_de_gascogne_600.jpg",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Basset_bleu_de_gascogne_600.jpg",
-      title: "Basset bleu de gascogne 600.jpg",
-      description:
-        "A Basset Bleu de Gascogne profile outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
-      licenseId: "cc-by-sa-3.0",
-      attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Basset_bleu_de_gascogne_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "A rustic, low-slung French scenthound distinguished by its mottled slate-blue coat, long curling drop ears, deep resonant voice, exceptional tracking persistence, and gentle, calm companion temperament.",
+      "A sturdy, low-slung French scenthound known for its mottled slate-blue coat with tan points, long curling drop ears, deep ringing voice, and gentle, affectionate home demeanor.",
 
     description:
-      "The Basset Bleu de Gascogne is a substantial, low-to-the-ground hunting hound of ancient Gascon heritage, combining remarkable scenting endurance with a calm, aristocratic disposition. Bred down from the Grand Bleu de Gascogne, the dog presents an elongated, sturdy frame supported by heavy bone and strong limbs, allowing it to navigate dense brambles, thorny underbrush, and rugged ravines at an unhurried, persistent pace. Its short, dense coat exhibits an unmistakable slate-blue coloration created by fine black and white mottling, accented by dark head patches and warm tan markings above the eyes, on the muzzle, and on the lower legs. The head is noble and domed, framed by remarkably long, thin, cone-curling ears that fall well past the nose tip, paired with deep dark brown eyes radiating a calm, solemn expression. While passionate, loud-voiced, and tenacious on quarry trails, it settles into an exceptionally gentle, peaceful, and devoted presence in the home.",
+      "The Basset Bleu de Gascogne is an athletic, short-legged hunting hound from southwestern France that combines solid strength with aristocratic balance rather than heaviness. Closely related to the taller Grand Bleu de Gascogne, it carries a noble head with a slightly arched muzzle, dark brown eyes with a soft expression, and remarkably long, fine, inward-curling ears set very low. Its short, thick, close coat is heavily mottled in black and white to create a slate-blue look, accented by black head patches and tan markings over the eyes, on the cheeks, legs, and under the tail. Determined, keen-nosed, and rich-voiced on a scent trail, it transitions smoothly into a calm, warm companion at home.",
 
     history:
-      "The breed developed in southwestern France by crossing ancient Grand Bleu de Gascogne scenthounds with native short-legged basset mutations, producing a slower-paced tracker that mounted or walking hunters could easily follow through dense forest terrain. During the late nineteenth century, hunting with firearms gained widespread popularity, creating a high demand for deliberate, methodical hounds that did not outrun the guns. French hound enthusiast Alain Bourbon played a pivotal role in refining and preserving the breed during the early twentieth century, gathering surviving working strains from Gascon valleys. Although the disruptions of the World Wars reduced its population, dedicated southwestern French huntsmen revived the breed by the 1960s. Today, it remains an esteemed hunting pack dog in southern Europe and an increasingly valued, distinctive family companion.",
+      "Rooted in the Gascony and Béarn regions of southwestern France, the Basset Bleu de Gascogne descends from the ancient Grand Bleu de Gascogne—hounds associated with medieval hunting estates such as that of Gaston Phébus. Breeders developed the shorter-legged basset type so hunters on foot could keep pace with the pack through dense brush and rough country while shooting small game. After numbers fell sharply in the late 19th century, French breeder Alain Bourbon revived and stabilized the breed in the early 20th century, preserving its distinctive slate-blue coat, deep hunting voice, and steady tracking style.",
 
     originalPurpose:
-      "Tracking and driving hare, rabbit, wild boar, and roe deer through dense woodland and rocky ravines using methodic scenting and resonant voice.",
+      "Tracking and driving small game such as hare and rabbit on foot for gun hunters, working alone or in packs.",
 
     currentRoles: [
-      "Traditional tracking and hunting pack hound for small and medium game",
-      "Blood tracking and wounded game search partner",
-      "Devoted household companion and family pet for outdoor enthusiasts",
-      "Scentwork and tracking trials competitor"
+      "Gun-hunting and pack tracking hound in wooded and brushy terrain",
+      "Scent-trailing and utility tracking dog",
+      "Gentle, companionable family pet for active outdoor homes"
     ]
   },
 
@@ -102,65 +98,52 @@ export const basset_bleu_de_gascogne: Breed = {
       unit: "kg",
       male: {
         min: 16,
-        max: 20
+        max: 18
       },
       female: {
         min: 16,
-        max: 20
+        max: 18
       }
     },
 
     lifespanYears: {
-      min: 12,
+      min: 10,
       max: 14
     },
 
     coatType:
-      "Short, dense, and hard, not too fine; lying close to the skin all over the body, providing weather protection in brambles and rain.",
+      "Short, thick, dense, and close-fitting single coat built to resist brambles and rain.",
 
     coatLength: "Short",
 
     coatColors: [
-      "Entirely mottled black and white giving a slate-blue effect, with or without large black patches",
-      "Two large black patches covering the sides of the head, surrounding the eyes, and stopping at the cheeks",
-      "White blaze or oval patch on top of the skull often containing a black spot",
-      "Bright or pale tan markings over the eyes forming four-eye spots, on the cheeks, lips, inside of ears, and legs"
+      "Slate-Blue Mottled (Black and White Ticked) with Black Patches and Tan Points"
     ],
 
-    sheddingLevel:
-      "Low to moderate; short smooth hairs shed steadily year-round and are easily managed with weekly brushing",
-
-    droolingLevel:
-      "Moderate; deep, pendulous flews produce moisture, particularly after eating, drinking, or tracking",
+    sheddingLevel: "Low to moderate",
+    droolingLevel: "Moderate",
 
     distinctiveFeatures: [
-      "Low-slung, elongated, and well-balanced hound silhouette with substantial bone and muscular power",
-      "Height at the withers of 34 to 38 cm for both males and females",
-      "Weight of 16 to 20 kg in conditioned working form",
-      "Characteristic slate-blue coat coloration created by fine black and white mottling (moucheté)",
-      "Noble, domed head with a marked occipital protuberance and a gentle, slight stop",
-      "Long, fine, supple drop ears set very low below eye level, twisting inward into a corkscrew curl and extending past the nose tip",
-      "Dark brown, oval eyes with dark lids and a soft, calm, slightly melancholy expression",
-      "Broad black nose with wide, mobile nostrils adapted for ground scenting",
-      "Deep, pendulous upper lips covering the lower jaw without excessive throat looseness",
-      "Complete scissor bite with strong jaws and sound teeth",
-      "Broad, deep chest extending well below the elbows, with a long, level back",
-      "Strong sabre-carried tail of medium length, tapering toward the tip and carried cheerfully in a sickle curve"
+      "Low-slung, sturdy basset silhouette showing power without clumsiness",
+      "Dense black-and-white mottled coat giving a slate-blue appearance, paired with black head patches and tan markings above the eyes, on the cheeks, lips, inner ears, legs, and under the tail",
+      "Very low-set, fine, supple drop ears that curl inward and extend past the nose",
+      "Dark brown eyes with a soft, calm expression and a slightly arched nasal bridge",
+      "Deep, sonorous, howling baying voice used while trailing",
+      "Strong jaws with a complete scissor bite"
     ]
   },
 
   temperament: {
     traits: [
-      "Gentle, calm, and placid in domestic surroundings",
-      "Affectionate, loyal, and friendly with family members",
-      "Tenacious, resolute, and tireless when following a scent trail",
-      "Deep, melodious, and resonant baying voice used during tracking",
-      "Excellent pack orientation, peaceful and sociable with other hounds",
-      "Patient and good-natured with familiar children",
-      "Independent problem-solver with natural scenting autonomy",
-      "High prey drive toward small wild mammals and running wildlife",
-      "Non-aggressive with strangers, observing newcomers with dignified calm",
-      "Stubborn and single-minded when an interesting scent captures its nose"
+      "Gentle",
+      "Affectionate",
+      "Calm indoors",
+      "Friendly",
+      "Alert",
+      "Loyal",
+      "Independent",
+      "Pack-oriented",
+      "Persistent tracker"
     ],
 
     scores: {
@@ -172,148 +155,112 @@ export const basset_bleu_de_gascogne: Breed = {
       independence: 4,
       trainability: 3,
       barking: 4,
-      energy: 3
+      energy: 4
     }
   },
 
   care: {
     exercise: {
-      level:
-        "Moderate to high; an endurance tracking hound requiring daily long walks, sensory scent exploration, and free movement in a secure area",
-
+      level: "High",
       minutesPerDay: {
         min: 60,
-        max: 75
+        max: 120
       },
-
       activities: [
-        "Daily long leashed walks with ample time for scent investigation and sniffing",
-        "Trailing and tracking games in natural open areas",
-        "Supervised roaming and exploring in a securely fenced yard or paddock",
-        "Interactive scent games, hidden food puzzles, and snuffle mats",
-        "Pack walks and social outings alongside other friendly hounds"
+        "Long daily leashed walks with ample time for sniffing",
+        "Structured scentwork and trailing games",
+        "Supervised exploration in a securely fenced yard",
+        "Pack walks with other sociable dogs"
       ]
     },
 
     grooming: {
       level: "Low to moderate",
-
-      brushing:
-        "Brush once or twice weekly with a rubber curry comb, hound glove, or bristle brush to remove loose hair, distribute skin oils, and maintain a glossy coat sheen.",
-
-      bathing:
-        "Bathe every six to eight weeks or when soiled after muddy outdoor trails, using a gentle canine shampoo.",
-
+      brushing: "Weekly brushing with a rubber hound glove or firm bristle brush",
+      bathing: "Occasional baths as needed after muddy trail outings",
       notes: [
-        "Inspect and clean the long, pendulous drop ears two to three times weekly, ensuring the canal entrance is dried thoroughly to prevent ear infections.",
-        "Inspect the long back and joints regularly; avoid repetitive high-impact jumping from furniture or steep stairs to protect the spine.",
-        "Wipe mouth flews and chin folds after drinking and eating to maintain hygiene.",
-        "Check paw pads, toes, and skin for thorns or burrs after walks in dense brush.",
-        "Trim thick, fast-growing nails every two to three weeks to maintain correct foot alignment.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste."
+        "Check and gently clean the very long, curling drop ears regularly so trapped moisture does not trigger ear infections.",
+        "Wipe drool from pendulous lips and chin folds after meals and water.",
+        "Trim nails regularly and inspect paws and ear tips for burrs or briar scratches after woodland walks.",
+        "Brush teeth several times a week with dog-safe toothpaste."
       ]
     },
 
     training: {
-      difficulty:
-        "Moderate to challenging; highly intelligent and cooperative, but possesses independent hound stubbornness and an intense olfactory drive that can override commands",
-
+      difficulty: "Moderate",
       tips: [
-        "Use positive reinforcement, high-value aromatic food rewards, and cheerful praise.",
-        "Keep sessions varied, concise, and engaging (5 to 10 minutes) to maintain motivation.",
-        "Always exercise within a securely fenced area or on a sturdy leash, as an interesting scent will trigger single-minded tracking.",
-        "Practice a consistent recall cue from early puppyhood, using high-value rewards.",
-        "Avoid harsh verbal corrections or forceful methods, which cause this sensitive hound to become shut down and uncooperative.",
-        "Channel natural tracking instincts into structured scentwork games or search trails."
+        "Use calm, reward-based training with aromatic treats; this sensitive hound responds well to patience and poorly to harshness.",
+        "Keep the dog on a leash or inside a securely fenced area outdoors, as a fresh scent trail can easily override recall.",
+        "Start polite indoor habits and early socialization young, especially if living near neighbors.",
+        "Channel strong scenting drive into nosework and trailing games."
       ],
-
       socialization:
-        "Introduce the puppy early, gradually, and positively to varied people, friendly vaccinated dogs of all sizes, household noises, vehicles, and novel outdoor environments. Early structured socialization develops a confident, stable adult that is welcoming to visitors and composed in public."
+        "Introduce puppies early to varied people, friendly dogs, town noises, and everyday routines so they grow into steady, adaptable companions."
     },
 
     livingEnvironment: {
       apartmentSuitable: false,
       houseWithYardSuitable: true,
-
-      climates: [
-        "Temperate climates",
-        "Warm climates, where the short coat dissipates heat effectively",
-        "Cool climates, provided the dog lives indoors and has warm bedding"
-      ],
-
-      aloneTimeTolerance:
-        "Moderate when provided with a comfortable home and daily exercise, though prolonged isolation can provoke boredom baying or digging."
+      climates: ["Temperate", "Warm", "Cool"],
+      aloneTimeTolerance: "Moderate"
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized active hounds, adjusted for age, activity level, and metabolic rate.",
+      "Complete, balanced dog food formulated for active medium-sized hounds, adjusted for age and daily activity.",
 
     feedingFrequency: {
-      puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
-      adult:
-        "Two measured meals daily to support steady metabolism and minimize digestive discomfort.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+      puppy: "Three to four small measured meals daily until six months old, then two meals",
+      adult: "Two measured meals per day",
+      senior: "Two portion-controlled meals per day adjusted for lower activity"
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body condition where the ribs are easily felt. An elongated spine is vulnerable to excess weight; avoid overfeeding. Divide daily food into two distinct meals, restrict vigorous exercise immediately before and after eating, use narrow spaniel-style bowls to keep long ears clean, and provide cool, clean drinking water continuously.",
+      "Measure portions carefully to keep this low-slung hound trim and muscular, because extra weight puts avoidable strain on its long back and short limbs. Use narrow bowls to keep the long ears out of food and water, and avoid heavy exercise right before or after meals.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight puts severe mechanical stress on the elongated spine and short limbs.",
-      "Account for training treats within the total daily caloric allowance to avoid creeping weight gain.",
-      "Use narrow bowls or ear snoods during feeding to prevent long ears from soaking in food and water.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Maintain a lean body weight to protect the elongated spine and joints.",
+      "Count training treats within the daily calorie budget.",
+      "Provide fresh water at all times and change diets gradually over about a week."
     ],
 
     note:
-      "Caloric needs vary significantly based on hunting activity, outdoor temperature, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Confirm exact daily portions and nutritional needs with a veterinarian based on workload and life stage."
   },
 
   health: {
     overview:
-      "The Basset Bleu de Gascogne is a rustic, sturdy, and robust hunting hound with a typical life expectancy of 12 to 14 years. Having been cultivated for practical field work in southwestern France, it enjoys good general constitutional vitality. Primary health priorities reflect its low-slung, chondrodysplastic conformation and long drop ears, including intervertebral disc disease (IVDD), chronic otitis externa, gastric dilatation-volvulus (GDV / bloat), hip and elbow dysplasia, and eyelid conditions such as ectropion.",
+      "The Basset Bleu de Gascogne is generally a hardy, rustic working hound with a typical lifespan of 10 to 14 years. No breed-specific causal genetic mutations are currently documented in peer-reviewed literature for this rare breed; health awareness centers on conformational risks shared by long-backed, pendulous-eared bassets—such as spinal disc strain, ear infections, eyelid conformation issues, joint dysplasia, and bloat in deep-chested dogs.",
 
     commonConditions: [
-      "Intervertebral disc disease (IVDD) — spinal disc herniation or degeneration resulting from an elongated back, causing neck or back pain, nerve deficit, and hind-limb lameness, manageable by maintaining a lean weight and limiting furniture jumping",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by heavy, long drop ears that restrict ventilation and trap moisture in the ear canal",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in deep-chested hounds, requiring emergency veterinary care",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and stiffness",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and joint degeneration",
-      "Ectropion and entropion — eyelid margin abnormalities where loose facial skin causes the lower lid to sag outward or roll inward, predisposing to conjunctivitis",
-      "Traumatic outdoor injuries — skin scrapes, thorn punctures, or ear leather tears sustained while pushing through dense briars and brambles"
+      "Ear infections (otitis externa) — long, low-set curling drop ears restrict airflow and can trap moisture without regular cleaning",
+      "Spinal disc strain / intervertebral disc disease (IVDD) — an elongated back paired with short legs increases vulnerability to back strain if overweight or allowed repeated high-impact jumping",
+      "Eyelid conformation issues (ectropion / entropion) — loose facial skin around the lower eyelids can occasionally predispose to eye irritation",
+      "Hip and elbow dysplasia — developmental joint conditions monitored in medium-heavy working hounds",
+      "Gastric dilatation-volvulus (bloat) — a potential emergency risk in deep-chested hounds if fed large single meals or exercised immediately after eating"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic clearances for hips and elbows, alongside certified specialist eye examinations.",
-      "Inspect and clean the long drop ears weekly, wiping canals with an approved veterinary cleanser and drying thoroughly.",
-      "Maintain a strictly controlled, lean body condition to avoid placing excess load on the elongated spine and joints.",
-      "Prevent high-impact jumping off beds, sofas, or vehicle tailgates to protect spinal discs.",
-      "Feed two smaller meals daily and avoid vigorous exercise immediately before or after eating to mitigate bloat risk.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Keep the long curling ears clean and dry through regular weekly inspections.",
+      "Maintain a lean, fit body condition and discourage repeated jumping from high furniture or vehicle tailgates to protect the spine.",
+      "Feed two measured meals daily rather than one large meal, and keep up with routine dental care, parasite prevention, and annual veterinary exams."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Regular veterinary spinal and musculoskeletal assessment"
+      "Routine veterinary musculoskeletal and spinal checks",
+      "Radiographic hip and elbow evaluations for breeding stock",
+      "Veterinary eye examination"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong, wide jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with dog-safe toothpaste and schedule routine veterinary dental checks.",
 
     earCare:
-      "Inspect the long pendulous drop ears two to three times weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect and clean the long, curling drop ears regularly with a veterinarian-approved ear cleanser and dry the ear canal opening thoroughly.",
 
     skinCare:
-      "Part the short coat weekly during brushing to inspect the skin for external parasites, redness, or scratches. Check and clean pendulous lip folds and ear margins regularly."
+      "Check the short coat, lip folds, and long ear margins weekly for scratches, burrs, redness, or parasites after outdoor walks."
   },
 
   suitability: {
@@ -324,81 +271,57 @@ export const basset_bleu_de_gascogne: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, hikers, and hunters who appreciate traditional scenthounds",
-      "Experienced hound owners who understand scent drive, baying voice, and positive leadership",
-      "Homes with a securely fenced yard in rural or suburban settings",
-      "Enthusiasts of tracking, blood tracking, and scentwork sports",
-      "Families seeking a calm, sweet-natured, and devoted indoor companion"
+      "Active rural or suburban households with a securely fenced yard",
+      "Hound lovers who enjoy long sniffing walks, trailing, or scentwork",
+      "Multi-dog homes, as this pack-bred hound typically gets along well with other dogs",
+      "Families wanting a calm, gentle, affectionate indoor companion"
     ],
 
     notIdealFor: [
-      "First-time dog owners seeking an off-leash park dog that obeys instantly",
-      "Apartment or dense urban dwellers where deep baying vocalizations may disturb neighbors",
-      "Households with loose small animals or pet rabbits vulnerable to hound prey drive",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People seeking an aggressive guard dog"
+      "Apartment dwellers with noise-sensitive neighbors, given the breed's deep, carrying voice",
+      "Owners expecting reliable off-leash recall in unfenced woods or parks",
+      "Households with loose small pets like rabbits that trigger hunting instincts",
+      "Sedentary owners unable to provide daily long outdoor walks"
     ]
   },
 
   funFacts: [
-    "The breed's distinctive 'blue' coloration is an optical illusion: it is actually created by a dense, fine mottling of black and white hairs intermingling across the coat, giving the impression of slate blue from a distance.",
-    "Bassets Bleus de Gascogne are famous among French hunters as 'hurleurs' (howlers) due to their deep, melodious, and ringing bay that can carry for kilometers across forested valleys.",
-    "Despite having short legs, the breed was historically used to track big game including wild boar and roe deer, as its deliberate, steady speed prevented driving game past hunters too quickly.",
-    "The breed's remarkably long ears are not just ornamental; as the hound runs with its nose to the ground, the sweeping ears stir up ground scent particles and funnel them directly toward the sensitive olfactory receptors in the nose.",
-    "In southwestern French folk tradition, the breed's prominent tan spots above the eyes are known as 'quatre-oeillères' (four-eyes), which folklore romantically claimed allowed the hound to see unseen forest spirits.",
-    "The breed is one of four distinct varieties in the Bleu de Gascogne hound family, sharing identical slate-blue coloration and heritage with the Grand, Petit, and Griffon Bleus de Gascogne."
+    "The 'blue' color is actually a dense black-and-white mottling that blends into a slate-blue sheen from a distance.",
+    "French hunters prize the breed's deep, ringing, howling voice, which carries clearly across wooded valleys during a trail.",
+    "Short legs were bred deliberately so hunters walking on foot could follow the hound's steady, sustained tracking pace through dense brambles.",
+    "The Basset Bleu de Gascogne belongs to southwestern France's historic Bleu de Gascogne family alongside the Grand Bleu de Gascogne, Petit Bleu de Gascogne, and Griffon Bleu de Gascogne."
   ],
 
   faq: [
     {
-      question: "What is a Basset Bleu de Gascogne?",
+      question: "Why is the Basset Bleu de Gascogne called 'blue'?",
       answer:
-        "The Basset Bleu de Gascogne (Blue Gascony Basset) is a medium-sized, low-slung French scenthound known for its mottled slate-blue coat, long curling ears, melodious bay, and calm, affectionate personality."
+        "Its short coat is tightly mottled with black and white hairs that create a slate-blue effect from a distance, accented by black patches and tan markings."
     },
     {
-      question: "Why is the coat called 'blue'?",
+      question: "How big does a Basset Bleu de Gascogne get?",
       answer:
-        "The blue appearance is created by an intricate mix of black and white hairs mottled closely together across the body, producing a striking slate-blue effect accented by black patches and warm tan points."
-    },
-    {
-      question: "How tall and heavy is a Basset Bleu de Gascogne?",
-      answer:
-        "Adult males and females stand 34 to 38 cm at the withers and typically weigh between 16 and 20 kg, presenting a sturdy, heavy-boned, and elongated frame."
-    },
-    {
-      question: "How long does a Basset Bleu de Gascogne live?",
-      answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
-    },
-    {
-      question: "Do Bassets Bleus de Gascogne shed a lot, and how are they groomed?",
-      answer:
-        "They shed low to moderate amounts year-round. Their short coat is low-maintenance, requiring only a weekly brushing with a rubber hound mitt, regular ear cleaning, and occasional nail trimming."
+        "Both males and females stand 34 to 38 cm at the withers and typically weigh 16 to 18 kg."
     },
     {
       question: "Can a Basset Bleu de Gascogne live in an apartment?",
       answer:
-        "Generally no. Due to their deep, resonant baying voice and need for scent exploration, they are best suited to a house with a securely fenced yard in rural or suburban environments."
+        "While calm indoors if raised with good habits and plenty of exercise, its deep carrying voice and high daily outdoor walking needs make a house with a securely fenced yard a much better fit."
     },
     {
-      question: "Are Bassets Bleus de Gascogne good family pets and good with children?",
+      question: "Are Bassets Bleus de Gascogne good with other dogs and children?",
       answer:
-        "Yes. Within the home, they are remarkably gentle, patient, and affectionate with children; they also get along exceptionally well with other dogs due to their pack-hunting background."
+        "Yes. Bred to hunt in packs, they are typically very sociable with other dogs and gentle, affectionate companions for families with respectful children."
     },
     {
-      question: "Is the Basset Bleu de Gascogne easy to train?",
+      question: "How much grooming does a Basset Bleu de Gascogne need?",
       answer:
-        "They are intelligent and gentle, but possess an independent hound nature. When an interesting scent captures their attention, they can be single-minded; training requires patience, food rewards, and positive reinforcement."
+        "The short coat needs only weekly brushing, but the very long curling ears require regular weekly cleaning and drying to prevent infections."
     },
     {
-      question: "Why are ear care and spine health important for this breed?",
+      question: "Can a Basset Bleu de Gascogne walk off-leash?",
       answer:
-        "Their long, pendulous ears trap moisture and require regular weekly cleaning to prevent infections, while their elongated spine is susceptible to intervertebral disc disease (IVDD), making weight management and avoiding steep jumping essential."
-    },
-    {
-      question: "What health tests are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, veterinary eye examinations, and regular spinal assessments."
+        "It is safest to keep this breed on a leash or inside a securely fenced area, as its powerful tracking nose can quickly draw it away after a scent trail."
     }
   ],
 
@@ -407,19 +330,28 @@ export const basset_bleu_de_gascogne: Breed = {
     "fci-basset-bleu-de-gascogne-nomenclature",
     "scc-basset-bleu-de-gascogne-breed-standard",
     "club-du-bleu-de-gascogne-profile",
+    "rkc-basset-bleu-de-gascogne-breed-standard",
+    "rkc-basset-bleu-de-gascogne-breed-profile",
     "ukc-basset-bleu-de-gascogne-breed-standard",
     "akc-basset-bleu-de-gascogne-breed-profile",
+    "natureserve-canis-lupus-familiaris",
+    "the-dog-api",
     "wikimedia-basset-bleu-de-gascogne-lilly-m",
     "wikimedia-basset-bleu-de-gascogne-600-tomasz-sienicki"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxon profile: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "All domestic dog breeds belong to the subspecies Canis lupus familiaris."
     },
 
     alternateNames: {
@@ -428,260 +360,393 @@ export const basset_bleu_de_gascogne: Breed = {
         {
           id: "fci-basset-bleu-de-gascogne-official-standard",
           role: "verified",
-          locator: "Standard heading: BASSET BLEU DE GASCOGNE (Blue Gascony Basset)"
+          locator: "Standard heading: Basset Bleu de Gascogne (Blue Gascony Basset)"
         },
         {
           id: "fci-basset-bleu-de-gascogne-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: BASSET BLEU DE GASCOGNE (35), Basset Azul de Gascuña, Blauer Gascogne Basset"
+          locator: "Multilingual names (Blue Gascony Basset, Basset Azul de Gascuña, Blauer Basset der Gascogne)"
         },
         {
-          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Dénomination officielle: Basset Bleu de Gascogne"
-        },
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "verified",
-          locator: "History: Blue Gascony Basset, Bleu de Gascogne Basset"
+          locator: "breed.alt_names (Blue Gascony Basset)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified across FCI Standard No. 35, FCI Nomenclature, SCC, and AKC."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-basset-bleu-de-gascogne-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.3 Small-sized Hounds, with working trial"
-        },
-        {
           id: "fci-basset-bleu-de-gascogne-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.3 Small-sized Hounds, with working trial"
+          locator: "Group 6 Scenthounds and related breeds, Section 1.3 Small-sized Hounds, with working trial"
         },
         {
-          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          id: "rkc-basset-bleu-de-gascogne-breed-standard",
           role: "verified",
-          locator: "Groupe 6 Chiens courants"
+          locator: "Hound Group"
         },
         {
-          id: "ukc-basset-bleu-de-gascogne-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Scenthound Group"
-        },
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "verified",
-          locator: "Foundation Stock Service (Hound Group)"
+          locator: "breed.breed_group (Hound)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-21",
+      note: "Presented in plain descriptive wording without registry codes or acronyms."
     },
 
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-basset-bleu-de-gascogne-official-standard",
           role: "verified",
-          locator: "ORIGIN: France; BRIEF HISTORICAL SUMMARY"
+          locator: "Origin: France"
         },
         {
-          id: "fci-basset-bleu-de-gascogne-nomenclature",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Country of origin: France"
-        },
-        {
-          id: "scc-basset-bleu-de-gascogne-breed-standard",
-          role: "verified",
-          locator: "Origine: France (Gascogne)"
+          locator: "breed.origin (Gascony, France)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
-    overview: {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-basset-bleu-de-gascogne-official-standard",
-          role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "scc-basset-bleu-de-gascogne-breed-standard",
-          role: "verified",
-          locator: "Historique, aptitudes de chasse, morphologie et caractère"
-        },
-        {
-          id: "club-du-bleu-de-gascogne-profile",
-          role: "verified",
-          locator: "Histoire du Basset Bleu de Gascogne, Alain Bourbon, sélection et chasse"
-        },
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "verified",
-          locator: "About the Breed, History, and Roles"
-        }
-      ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Synthesized in original prose from FCI Standard No. 35, SCC, French parent club, and AKC official records."
-    },
-
-    physical: {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-basset-bleu-de-gascogne-official-standard",
-          role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
-        },
-        {
-          id: "scc-basset-bleu-de-gascogne-breed-standard",
-          role: "verified",
-          locator: "Morfologie, robe mouchetée ardoisée, oreilles papillotées et proportions"
-        },
-        {
-          id: "ukc-basset-bleu-de-gascogne-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Ears, Body, Tail, Coat, Color, Height and Weight"
-        }
-      ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Conformation, elongated basset build, mottled slate-blue coat, long curling ears, and distinctive features follow official standards."
-    },
-
-    "physical.height": {
-      reliability: "official_standard",
-      sources: [
-        {
-          id: "fci-basset-bleu-de-gascogne-official-standard",
-          role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Males and females: 34 - 38 cm."
-        },
-        {
-          id: "scc-basset-bleu-de-gascogne-breed-standard",
-          role: "verified",
-          locator: "Taille au garrot: Mâles et femelles de 34 à 38 cm"
-        },
-        {
-          id: "ukc-basset-bleu-de-gascogne-breed-standard",
-          role: "verified",
-          locator: "Height: Height at withers for both males and females is from 13.5 to 15 inches (34 to 38 cm)"
-        }
-      ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Preserved in published unit of centimetres (34–38 cm for both males and females) exactly as specified in the official FCI Standard No. 35 and SCC standard."
-    },
-
-    "physical.weight": {
+    "origin.region": {
       reliability: "reliable_source",
       sources: [
         {
           id: "scc-basset-bleu-de-gascogne-breed-standard",
           role: "verified",
-          locator: "Poids moyen indicatif: environ 16 à 20 kg"
+          locator: "Historique (Gascogne et Béarn, midi de la France)"
         },
+        {
+          id: "rkc-basset-bleu-de-gascogne-breed-profile",
+          role: "verified",
+          locator: "About this breed (South West of France)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.summary": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "rkc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "General Appearance and Characteristics"
+        },
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "Description générale and Comportement"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.description": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "Description générale (slate-blue mottled coat, low-set curling ears, dark eyes, slightly arched muzzle)"
+        },
+        {
+          id: "rkc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "General Appearance and Characteristics"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.description"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.history": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "Historique (Gascony and Béarn, Gaston Phébus)"
+        },
+        {
+          id: "rkc-basset-bleu-de-gascogne-breed-profile",
+          role: "verified",
+          locator: "About this breed (short-legged basset designed to be followed on foot)"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.history (Grand Bleu de Gascogne descent, Alain Bourbon early 20th-century revival)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.originalPurpose": {
+      reliability: "reliable_source",
+      sources: [
         {
           id: "club-du-bleu-de-gascogne-profile",
           role: "verified",
-          locator: "Poids de travail d'un Basset Bleu adulte: 16-20 kg"
+          locator: "Chasse à tir, vénerie du lapin, pack trailing"
         },
         {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
           role: "verified",
-          locator: "Weight: 35-44 pounds (approx. 16-20 kg)"
+          locator: "Description générale (chasse à tir)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "FCI Standard No. 35 specifies withers height without fixing a numerical weight. The stored 16 to 20 kg represents canonical figures published by SCC and the national parent club, preserved in kilograms."
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.currentRoles": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "club-du-bleu-de-gascogne-profile",
+          role: "verified",
+          locator: "Hunting and pack trailing"
+        },
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "Comportement and utility tracking"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.sizeCategory": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "rkc-basset-bleu-de-gascogne-breed-profile",
+          role: "verified",
+          locator: "Breed characteristics: Size Medium"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-basset-bleu-de-gascogne-official-standard",
+          role: "verified",
+          locator: "Size: Height at the withers, males and females 34-38 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (33-38 cm)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Kept official FCI Standard No. 35 height (34-38 cm); The Dog API lists a 1 cm lower minimum (33-38 cm)."
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-basset-bleu-de-gascogne-official-standard",
+          role: "verified",
+          locator: "Size: Height at the withers, males and females 34-38 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "breed.height.metric (33-38 cm)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Kept official FCI Standard No. 35 height (34-38 cm); The Dog API lists a 1 cm lower minimum (33-38 cm)."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (16-18 kg)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "FCI Standard No. 35 does not publish a numerical weight. Used The Dog API verified metric range (16-18 kg), which is a single breed-wide range."
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (16-18 kg)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "FCI Standard No. 35 does not publish a numerical weight. Used The Dog API verified metric range (16-18 kg), which is a single breed-wide range."
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Life Expectancy: 12-14 years"
-        },
-        {
-          id: "club-du-bleu-de-gascogne-profile",
-          role: "verified",
-          locator: "Espérance de vie moyenne (12-14 ans)"
+          locator: "breed.life_span (10-14 years)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Supported by kennel club and parent club actuarial profiles."
-    },
-
-    "physical.sheddingLevel": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5 to 3/5)"
-        },
-        {
-          id: "fci-basset-bleu-de-gascogne-official-standard",
-          role: "verified",
-          locator: "COAT: Short, medium thick, dense; low to moderate shedding"
-        }
-      ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
-    "physical.droolingLevel": {
-      reliability: "reliable_source",
+    "physical.coatType": {
+      reliability: "official_standard",
       sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "Description générale (poil court, gros et serré)"
+        },
         {
           id: "fci-basset-bleu-de-gascogne-official-standard",
           role: "verified",
-          locator: "Lips: Rather pendulous, covering well the lower jaw"
-        },
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Drooling Level (3/5)"
+          locator: "Coat (short, thick, dense; fine coat is a fault)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Pendulous upper lips result in moderate drooling."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
-    "temperament.traits": {
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "Description générale (poil court)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatColors": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-basset-bleu-de-gascogne-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Very fine nose, active, agile and lively, dedicated hunter with beautiful voice, gentle and affectionate"
+          locator: "Colour (black-and-white mottled slate-blue with black patches and tan markings; any other coat is disqualifying)"
         },
         {
           id: "scc-basset-bleu-de-gascogne-breed-standard",
           role: "verified",
-          locator: "Caractère: Fin de nez, voix mélodieuse, appliqué à la chasse, calme et doux en famille"
+          locator: "Description générale (robe à mouchetures blanches et noires aspect bleu ardoisé)"
         },
         {
-          id: "ukc-basset-bleu-de-gascogne-breed-standard",
-          role: "verified",
-          locator: "Temperament: Calm, affectionate, pack-oriented, persistent hunter"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
+      note: "Discarded non-breed species-wide colours from The Dog API endpoint because FCI Standard No. 35 disqualifies any coat other than slate-blue mottled with black patches and tan points."
+    },
+
+    "physical.sheddingLevel": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "cited",
+          locator: "Short, dense coat maintenance"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "physical.droolingLevel": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "fci-basset-bleu-de-gascogne-official-standard",
+          role: "cited",
+          locator: "Hound head and lip conformation"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "physical.distinctiveFeatures": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-basset-bleu-de-gascogne-official-standard",
+          role: "verified",
+          locator: "Head, Ears, Coat, Colour, and Size"
+        },
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "Description générale"
+        },
+        {
+          id: "rkc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "General Appearance and Characteristics"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "temperament.traits": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "Comportement (calme, affectueux, intelligent, sensible)"
+        },
+        {
+          id: "club-du-bleu-de-gascogne-profile",
+          role: "verified",
+          locator: "Psychique (très chasseur, discipliné, chasse bien en meute)"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament"
+        }
+      ],
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -689,141 +754,196 @@ export const basset_bleu_de_gascogne: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Comportement"
         },
         {
           id: "club-du-bleu-de-gascogne-profile",
           role: "cited",
-          locator: "Comportement du chien de meute en famille"
+          locator: "Voix et comportement en meute"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented hound temperament, pack sociability, and vocal baying."
-    },
-
-    care: {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "club-du-bleu-de-gascogne-profile",
-          role: "cited",
-          locator: "Entretien des oreilles, soins du dos et exercice"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Combines active tracking hound management with long-ear cleaning and spinal protection protocols."
+      note: "Editorial 1-5 scale estimates informed by SCC and parent club behavioral profiles."
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
+          id: "rkc-basset-bleu-de-gascogne-breed-profile",
           role: "verified",
-          locator: "Energy Level (3/5); Exercise Needs (3/5 to 4/5)"
+          locator: "Breed characteristics: Exercise More than 2 hours per day"
         },
         {
-          id: "fci-basset-bleu-de-gascogne-official-standard",
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
           role: "verified",
-          locator: "UTILIZATION: Hound used for hunting with the gun"
+          locator: "Comportement (requires ample daily exercise)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "care.exercise.minutesPerDay": {
-      reliability: "estimate",
+      reliability: "general_guidance",
       sources: [
         {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
+          id: "rkc-basset-bleu-de-gascogne-breed-profile",
           role: "cited",
-          locator: "Exercise recommendations for working bassets"
-        },
-        {
-          id: "club-du-bleu-de-gascogne-profile",
-          role: "cited",
-          locator: "Besoins d'activité olfactive quotidienne"
+          locator: "Exercise guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 75 minutes of daily activity reflects the endurance demands of a tracking hound."
+      note: "General daily exercise range for an active tracking hound."
+    },
+
+    "care.exercise.activities": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "club-du-bleu-de-gascogne-profile",
+          role: "cited",
+          locator: "Scent trailing and pack work"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.grooming.level": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "Alimentation & Santé (entretien aisé)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.brushing": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "cited",
+          locator: "Short coat care"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.grooming.bathing": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.grooming.notes": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "cited",
+          locator: "Long curling ears and short coat care"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.training.difficulty": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "cited",
+          locator: "Comportement (intelligent and sensitive)"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.training.tips": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "cited",
+          locator: "Comportement et éducation"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.training.socialization": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "cited",
+          locator: "Vivre en ville (early habits)"
+        }
+      ],
+      verifiedOn: null,
+      note: null
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "cited",
-          locator: "Voice, baying tendencies, and need for scent exploration"
-        },
-        {
           id: "club-du-bleu-de-gascogne-profile",
           role: "cited",
-          locator: "Cadre de vie: maison avec jardin clôturé recommandé"
+          locator: "Voix sonore et grave (deep carrying voice)"
+        },
+        {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "cited",
+          locator: "Vivre en ville (can adapt if started young and well exercised, though voice and energy suit houses better)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that loud baying voice, high tracking drive, and scent wanderlust make apartment living generally unsuitable."
+      note: "Editorial assessment that deep carrying voice and strong daily exercise needs favor a house with a yard."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
-        },
-        {
-          id: "club-du-bleu-de-gascogne-profile",
-          role: "verified",
-          locator: "Nécessité d'une clôture sécurisée"
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "cited",
+          locator: "Comportement"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: null,
       note: null
     },
 
     "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
-          id: "fci-basset-bleu-de-gascogne-official-standard",
-          role: "verified",
-          locator: "COAT: Short dense coat adapted to southwestern French weather"
-        },
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: well-suited to temperate and warm climates"
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "cited",
+          locator: "Origin in southwestern France"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: null,
       note: null
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "cited",
-          locator: "Tolerates Being Alone: Moderate rating; pack-oriented hound"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
       note: null
     },
@@ -832,198 +952,121 @@ export const basset_bleu_de_gascogne: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
           role: "cited",
-          locator: "Nutrition: High-quality food, weight management, treat budgeting"
-        },
-        {
-          id: "club-du-bleu-de-gascogne-profile",
-          role: "cited",
-          locator: "Contrôle du poids pour préserver la colonne vertébrale"
+          locator: "Alimentation & Santé"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for chondrodysplastic hounds prone to spinal stress."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "club-du-bleu-de-gascogne-profile",
-          role: "verified",
-          locator: "Santé, affections vertébrales (IVDD), otites des oreilles longues et torsion d'estomac"
-        },
-        {
-          id: "scc-basset-bleu-de-gascogne-breed-standard",
-          role: "verified",
-          locator: "Santé et longévité du chien de race"
-        }
-      ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Synthesizes parent club veterinary data with scenthound conformational health priorities."
-    },
-
-    "health.commonConditions": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "club-du-bleu-de-gascogne-profile",
-          role: "verified",
-          locator: "Hernies discales (IVDD), otites externes chroniques, ectropion, torsion gastrique"
-        },
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "verified",
-          locator: "Ear infections, back concerns, and joint dysplasia"
-        }
-      ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Details documented conformational conditions in original prose without prohibited registry terms."
-    },
-
-    "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "club-du-bleu-de-gascogne-profile",
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
           role: "cited",
-          locator: "Soins préventifs: nettoyage des oreilles, contrôle du poids, prévention des sauts"
-        },
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "cited",
-          locator: "Routine care, bloat precautions, and veterinary checks"
+          locator: "Alimentation & Santé (doté d'une bonne santé)"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to long-backed, pendulous-eared hounds."
+      note: "General veterinary awareness for long-backed, pendulous-eared hounds; no peer-reviewed breed-specific causal mutations are established."
     },
 
-    "health.recommendedScreenings": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "club-du-bleu-de-gascogne-profile",
-          role: "verified",
-          locator: "Examens recommandés: dépistage radiographique des hanches et coudes, contrôle oculaire"
-        }
-      ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Screenings summarize published parent club recommendations."
-    },
-
-    "health.dentalCare": {
+    "health.commonConditions": {
       reliability: "general_guidance",
       sources: [
         {
           id: "fci-basset-bleu-de-gascogne-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong jaws with complete scissor bite"
-        },
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "cited",
-          locator: "Routine dental care"
+          locator: "Conformation (long curling ears, low-slung body)"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Reflects general conformational risks of basset-type scenthounds rather than breed-specific epidemiological prevalence."
+    },
+
+    "health.preventiveCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: null
+    },
+
+    "health.recommendedScreenings": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: null
+    },
+
+    "health.dentalCare": {
+      reliability: "general_guidance",
+      sources: [],
+      verifiedOn: null,
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-basset-bleu-de-gascogne-official-standard",
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
           role: "cited",
-          locator: "Ears: set on very low, fine, curling, reaching beyond the nose tip"
-        },
-        {
-          id: "club-du-bleu-de-gascogne-profile",
-          role: "cited",
-          locator: "Hygiène et nettoyage des oreilles papillotées"
+          locator: "Long curling drop ears"
         }
       ],
       verifiedOn: null,
-      note: "Ear maintenance protocol for very long, curling drop ears prone to moisture retention."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-basset-bleu-de-gascogne-official-standard",
-          role: "cited",
-          locator: "Skin: not too fine, supple, black or mottled with black spots"
-        },
-        {
-          id: "club-du-bleu-de-gascogne-profile",
-          role: "cited",
-          locator: "Nettoyage des babines et surveillance cutanée"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: null
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
         {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Comportement et vivre en ville"
         },
         {
           id: "club-du-bleu-de-gascogne-profile",
           role: "cited",
-          locator: "Aptitudes en famille et pour la chasse"
+          locator: "Voix et chasse en meute"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and hound voice characteristics."
+      note: "Editorial household suitability assessment based on vocal baying, scent drive, and pack sociability."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
+          role: "verified",
+          locator: "Description générale (optical slate-blue mottling)"
+        },
+        {
           id: "club-du-bleu-de-gascogne-profile",
           role: "verified",
-          locator: "Robe bleue optique (moucheté), hurleur voice, oreilles canalisant les odeurs, Alain Bourbon"
+          locator: "Voix (hurleur, deep resonant voice) and steady tracking pace"
         },
         {
-          id: "fci-basset-bleu-de-gascogne-official-standard",
+          id: "rkc-basset-bleu-de-gascogne-breed-profile",
           role: "verified",
-          locator: "Brief historical summary: 19th-century revival, gun-hunting evolution"
-        },
-        {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
-          role: "verified",
-          locator: "French hunting folklore: four-eyed tan spots, slate-blue effect"
+          locator: "About this breed (short legs bred to be followed on foot)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     faq: {
@@ -1032,24 +1075,23 @@ export const basset_bleu_de_gascogne: Breed = {
         {
           id: "fci-basset-bleu-de-gascogne-official-standard",
           role: "verified",
-          locator: "Origin, size (34-38 cm), coat, colors, and ears"
+          locator: "Size (34-38 cm) and Colour"
         },
         {
-          id: "club-du-bleu-de-gascogne-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Weight (16-20 kg), longevity (12-14 years), baying, ear care, and spine health"
+          locator: "Weight (16-18 kg) and Lifespan (10-14 years)"
         },
         {
-          id: "akc-basset-bleu-de-gascogne-breed-profile",
+          id: "scc-basset-bleu-de-gascogne-breed-standard",
           role: "verified",
-          locator: "Family suitability, apartment living, exercise needs, and training"
+          locator: "Comportement, Vivre en ville, and Grooming"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and parent club data without naming registries in prose."
+      verifiedOn: "2026-11-21",
+      note: null
     }
   },
 
-  updatedOn: "2026-11-11"
+  updatedOn: "2026-11-21"
 };

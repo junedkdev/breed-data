@@ -241,6 +241,8 @@ import { sarplaninac } from "./sarplaninac";
 import { catalan_sheepdog } from "./catalan_sheepdog";
 import { serbian_hound } from "./serbian_hound";
 import { styrian_coarse_haired_hound } from "./styrian_coarse_haired_hound";
+import { keeshond } from "./keeshond";
+import { east_siberian_laika } from "./east_siberian_laika";
 
 
 export const breedData: readonly Breed[] = [
@@ -481,4 +483,6 @@ export const breedData: readonly Breed[] = [
   catalan_sheepdog,
   serbian_hound,
   styrian_coarse_haired_hound,
+  keeshond,
+  east_siberian_laika,
 ];

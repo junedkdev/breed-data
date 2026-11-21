@@ -12192,13 +12192,13 @@ export const sources = defineSources({
   },
 "club-du-beagle-harrier-et-harrier-profile": {
     id: "club-du-beagle-harrier-et-harrier-profile",
-    name: "Club du Beagle, Beagle-Harrier et Harrier - Le Harrier",
-    url: "https://www.club-beagle.com/le-harrier/",
+    title: "Le Harrier — Club Français du Beagle, Beagle-Harrier et Harrier",
+    publisher: "Club Français du Beagle, Beagle-Harrier et Harrier (SCC)",
     type: "breed_club",
-    publishedOn: null,
-    accessedOn: "2026-11-11",
-    note: "Official parent breed club portal documenting the history of the Harrier, working pack field trials on hare and deer, morphological structure, weight (20-27 kg), and health screening recommendations.",
-    publisher: "Club du Beagle, Beagle-Harrier et Harrier"
+    url: "https://www.centrale-canine.fr/club-francais-du-beagle-beagle-harrier-harrier/articles/le-harrier",
+    publishedOn: "2018-07-15",
+    checkedOn: "2026-11-21",
+    notes: "Updated from dead club-beagle.com URL to official SCC parent club article."
   },
   "ukc-beagle-harrier-standard": {
     id: "ukc-beagle-harrier-standard",
@@ -15106,24 +15106,24 @@ export const sources = defineSources({
     note: "Photograph (974 x 1600 px) of a 4-year-old male Belgian Shepherd Groenendael standing outdoors by Adam C. Emery (uploaded by Acemetrical). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-basset-bleu-de-gascogne-official-standard": {
+"fci-basset-bleu-de-gascogne-official-standard": {
     id: "fci-basset-bleu-de-gascogne-official-standard",
     name: "FCI - Basset Bleu de Gascogne Official Breed Standard No. 35",
     url: "https://www.fci.be/Nomenclature/Standards/035g06-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "1998-01-27",
-    accessedOn: "2026-11-11",
-    note: "Official English FCI Standard No. 35 (valid standard dated 1996-01-24, published 1998-01-27). Covers French origin in Gascony, Group 6 Scenthounds and related breeds, Section 1.3 Small-sized Hounds classification with working trial, elongated basset build, mottled slate-blue coat with black patches and tan points, long curling drop ears, and withers height (34 to 38 cm for both males and females).",
+    publishedOn: "2023-09-01",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 35 (published 2023-09-01). Covers French origin, Group 6 Scenthounds and related breeds, Section 1.3 Small-sized Hounds with working trial, mottled slate-blue coat with black patches and tan points (other coats disqualifying), and withers height (34-38 cm for males and females).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-basset-bleu-de-gascogne-nomenclature": {
+"fci-basset-bleu-de-gascogne-nomenclature": {
     id: "fci-basset-bleu-de-gascogne-nomenclature",
     name: "FCI - Basset Bleu de Gascogne Breed Nomenclature (No. 35)",
-    url: "https://www.fci.be/en/nomenclature/BLUE-GASCONY-BASSET-35.html",
+    url: "https://www.fci.be/en/nomenclature/Basset-Bleu-de-Gascogne-35.html",
     type: "official_breed_standard",
-    publishedOn: "1998-01-27",
-    accessedOn: "2026-11-11",
-    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.3 classification with working trial, definitive recognition date (1963-10-30), and multilingual names (Basset Bleu de Gascogne, Blue Gascony Basset, Basset Azul de Gascuña, Blauer Gascogne Basset).",
+    publishedOn: "2023-09-01",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.3 Small-sized Hounds with working trial, definitive recognition date (1963-10-30), English standard published 2023-09-01, and multilingual names.",
     publisher: "Fédération Cynologique Internationale"
   },
   "scc-basset-bleu-de-gascogne-breed-standard": {
@@ -15136,15 +15136,15 @@ export const sources = defineSources({
     note: "Official French kennel club (SCC) breed profile and standard for the Basset Bleu de Gascogne, confirming historical Gascon origin, height (34-38 cm), weight range (approx. 16-20 kg), hunting trials, and pack hound traits.",
     publisher: "Société Centrale Canine"
   },
-  "club-du-bleu-de-gascogne-profile": {
+"club-du-bleu-de-gascogne-profile": {
     id: "club-du-bleu-de-gascogne-profile",
-    name: "Club du Bleu de Gascogne, Gascon Saintongeois et Ariégeois - Le Basset Bleu",
-    url: "https://www.chiens-online.com/club/club-du-bleu-de-gascogne-gascon-saintongeois-ariegeois/",
+    name: "Club du Bleu de Gascogne, Gascon Saintongeois et Ariégeois - Basset Bleu de Gascogne",
+    url: "https://www.centrale-canine.fr/club-du-bleu-de-gascogne-gascon-saintongeois-et-ariegeois/articles/basset-bleu-de-gascogne",
     type: "breed_club",
-    publishedOn: null,
-    accessedOn: "2026-11-11",
-    note: "Official French parent breed club portal documenting the nineteenth-century revival under Alain Bourbon, hunting attributes on hare and boar, slate-blue mottled coloration, weight (16-20 kg), lifespan (12-14 years), and health management.",
-    publisher: "Club du Bleu de Gascogne, Gascon Saintongeois et Ariégeois"
+    publishedOn: "2017-11-07",
+    accessedOn: "2026-11-21",
+    note: "Official French parent breed club working standard article on Société Centrale Canine covering nose, deep howling voice (hurleur), steady pace, gun-hunting style, and pack behavior.",
+    publisher: "Club du Bleu de Gascogne, Gascon Saintongeois et Ariégeois (Société Centrale Canine)"
   },
   "ukc-basset-bleu-de-gascogne-breed-standard": {
     id: "ukc-basset-bleu-de-gascogne-breed-standard",
@@ -15166,54 +15166,54 @@ export const sources = defineSources({
     note: "Official AKC breed profile (Foundation Stock Service, Hound Group) covering southwestern French history, slate-blue mottling, published weight (35-44 lbs / approx. 16-20 kg), lifespan (12-14 years), temperament, and care.",
     publisher: "American Kennel Club"
   },
-  "wikimedia-basset-bleu-de-gascogne-lilly-m": {
+"wikimedia-basset-bleu-de-gascogne-lilly-m": {
     id: "wikimedia-basset-bleu-de-gascogne-lilly-m",
     name: "Wikimedia Commons - File:Basset bleu de Gascogne.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Basset_bleu_de_Gascogne.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-11",
-    note: "High-resolution photograph (2376 x 1768 px) of an adult Basset Bleu de Gascogne standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2006-01-25",
+    accessedOn: "2026-11-21",
+    note: "Corrected attribution (ID preserved for compatibility): photograph of an adult Basset Bleu de Gascogne by M.W. Reichert, uploaded by Caronna (captured 2005-10-30, uploaded 2006-01-25, 921 x 554 px, VRT ticket #2011030410010106). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-basset-bleu-de-gascogne-600-tomasz-sienicki": {
+"wikimedia-basset-bleu-de-gascogne-600-tomasz-sienicki": {
     id: "wikimedia-basset-bleu-de-gascogne-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Basset bleu de gascogne 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Basset_bleu_de_gascogne_600.jpg",
+    name: "Wikimedia Commons - File:Blue Gascony Basset Basset Bleu de Gascogne 02.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Blue_Gascony_Basset_Basset_Bleu_de_Gascogne_02.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-11",
-    note: "Photograph (600 x 489 px) of a Basset Bleu de Gascogne profile outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2017-12-09",
+    accessedOn: "2026-11-21",
+    note: "Verified replacement for broken File:Basset_bleu_de_gascogne_600.jpg (ID preserved for compatibility). Photograph of an adult Basset Bleu de Gascogne by Canarian (captured 2017-12-09, 2162 x 1406 px). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-croatian-shepherd-dog-official-standard": {
+"fci-croatian-shepherd-dog-official-standard": {
     id: "fci-croatian-shepherd-dog-official-standard",
     name: "FCI - Croatian Shepherd Dog (Hrvatski ovčar) Official Breed Standard No. 277",
     url: "https://www.fci.be/Nomenclature/Standards/277g01-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2015-05-27",
-    accessedOn: "2026-11-11",
-    note: "Official English FCI Standard No. 277 (valid standard dated 2014-05-27, published 2015-05-27). Covers Croatian origin in Slavonia, Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs classification with working trial, rectangular proportions (8-10% length to height), wavy/curly black coat with short-haired head, natural bobtail, withers height (40 to 50 cm, ideal 45 cm for males and females), and weight (13 to 20 kg).",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 277 (valid standard dated 2014-11-03, English edition published 2015-05-27). Covers Croatian origin in Slavonia, Group 1 Section 1 Sheepdogs without working trial, wavy/curly black coat with short-haired head, withers height (40-50 cm), and weight (13-20 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-croatian-shepherd-dog-nomenclature": {
+"fci-croatian-shepherd-dog-nomenclature": {
     id: "fci-croatian-shepherd-dog-nomenclature",
     name: "FCI - Croatian Shepherd Dog Breed Nomenclature (No. 277)",
-    url: "https://www.fci.be/en/nomenclature/CROATIAN-SHEPHERD-DOG-277.html",
+    url: "https://www.fci.be/en/nomenclature/HRVATSKI-OVCAR-277.html",
     type: "official_breed_standard",
     publishedOn: "2015-05-27",
-    accessedOn: "2026-11-11",
-    note: "Official FCI breed nomenclature record confirming Croatia as country of origin, Group 1 Section 1 classification with working trial, definitive recognition date (1969-10-05), and multilingual names (Hrvatski ovčar, Kroatischer Schäferhund, Chien de Berger Croate, Pastor Croata).",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Croatia as country of origin, Group 1 Section 1 Sheepdogs not subject to a working trial, definitive FCI acceptance date (1967-08-30), valid standard dated 2014-11-03, and multilingual names.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "hks-hrvatski-ovcar-breed-standard": {
+"hks-hrvatski-ovcar-breed-standard": {
     id: "hks-hrvatski-ovcar-breed-standard",
-    name: "Hrvatski kinološki savez - Hrvatski ovčar Standard i Povijest",
-    url: "https://hks.hr/hrvatski-ovcar/",
+    name: "Hrvatski kinološki savez (MOJ PAS) - Hrvatski ovčar",
+    url: "https://mojpas.hks.hr/hrvatske-pasmine/pasmine/hrvatski-ovcar-pasmina-izmedu-tradicije-i-buducnosti",
     type: "official_breed_standard",
-    publishedOn: null,
-    accessedOn: "2026-11-11",
-    note: "Official Croatian Kennel Club (Hrvatski kinološki savez / HKS) breed profile and standard for Hrvatski ovčar, documenting the 1374 chronicle of Bishop Peter of Đakovo, Dr. Stjepan Romić's 1935 breeding recovery, natural bobtail traits, height, weight, and working trials.",
+    publishedOn: "2026-03-30",
+    accessedOn: "2026-11-21",
+    note: "Official Croatian Kennel Club (HKS) Moj Pas portal article on the history and autochthonous status of the Croatian Sheepdog.",
     publisher: "Hrvatski kinološki savez"
   },
   "akc-croatian-sheepdog-breed-profile": {
@@ -15236,65 +15236,65 @@ export const sources = defineSources({
     note: "Official UKC breed standard (Herding Dog Group, recognized 2006) covering conformation, rectangular proportions, wavy black coat, height (16 to 20 inches / 40-50 cm), weight (approx. 29 to 44 lbs), and herding behavior.",
     publisher: "United Kennel Club"
   },
-  "croatian-sheepdog-morphology-health-study-2019": {
+"croatian-sheepdog-morphology-health-study-2019": {
     id: "croatian-sheepdog-morphology-health-study-2019",
-    name: "Morphometric and Health Characteristics of the Croatian Sheepdog (Veterinarski arhiv 2019)",
-    url: "https://hrcak.srce.hr/en/223788",
+    name: "Blood Groups, Haematology and Clinicochemical Indicators in Indigenous Breeds of Dog. I. Croatian Sheepdog (Veterinarski arhiv 2008)",
+    url: "https://hrcak.srce.hr/file/38073",
     type: "scientific",
-    publishedOn: "2019-06-15",
-    accessedOn: "2026-11-11",
-    note: "Peer-reviewed scientific study evaluating the morphometric parameters, constitutional health, body proportions, and joint status of Croatian Sheepdogs in Croatia.",
+    publishedOn: "2008-03-03",
+    accessedOn: "2026-11-21",
+    note: "Verified replacement for broken hrcak.srce.hr/en/223788 (ID preserved for compatibility). Peer-reviewed Veterinarski arhiv study (Žubčić et al., Vet. arhiv 78, 141-147, 2008) documenting hematological and clinical biochemistry reference indicators in indigenous Croatian Sheepdogs.",
     publisher: "Veterinarski arhiv / Hrčak"
   },
-  "wikimedia-hrvatski-ovcar-600-tomasz-sienicki": {
+"wikimedia-hrvatski-ovcar-600-tomasz-sienicki": {
     id: "wikimedia-hrvatski-ovcar-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Hrvatski ovcar 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Hrvatski_ovcar_600.jpg",
+    name: "Wikimedia Commons - File:Gera062005sed.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Gera062005sed.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-11",
-    note: "Photograph of an adult Croatian Sheepdog standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2006-06-08",
+    accessedOn: "2026-11-21",
+    note: "Verified replacement for broken File:Hrvatski_ovcar_600.jpg (ID preserved for compatibility). Photograph of an adult Croatian Sheepdog (Mawlch Gera) by Michala Mračková (uploaded 2006-06-08, 1536 x 2048 px), released into the Public Domain on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-hrvatski-ovcar-pleple2000": {
+"wikimedia-hrvatski-ovcar-pleple2000": {
     id: "wikimedia-hrvatski-ovcar-pleple2000",
-    name: "Wikimedia Commons - File:Hrvatski ovcar.JPG",
-    url: "https://commons.wikimedia.org/wiki/File:Hrvatski_ovcar.JPG",
+    name: "Wikimedia Commons - File:GeraHojda09112055ZG.jpeg",
+    url: "https://commons.wikimedia.org/wiki/File:GeraHojda09112055ZG.jpeg",
     type: "other",
-    publishedOn: "2008-10-18",
-    accessedOn: "2026-11-11",
-    note: "High-resolution photograph (2400 x 1800 px) of an adult Croatian Sheepdog standing in side profile outdoors by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Verified replacement for broken File:Hrvatski_ovcar.JPG (ID preserved for compatibility). Photograph of a Croatian Sheepdog (Mawlch Gera) on agility by Michala Mračková (540 x 405 px), released into the Public Domain on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-harrier-official-standard": {
+"fci-harrier-official-standard": {
     id: "fci-harrier-official-standard",
-    name: "FCI - Harrier Official Breed Standard No. 295",
+    title: "FCI-Standard N° 295 — Harrier",
+    publisher: "Fédération Cynologique Internationale (FCI)",
+    type: "official_standard",
     url: "https://www.fci.be/Nomenclature/Standards/295g06-en.pdf",
-    type: "official_breed_standard",
-    publishedOn: "1974-05-27",
-    accessedOn: "2026-11-11",
-    note: "Official English FCI Standard No. 295 (valid standard dated 1974-05-27). Covers British origin, Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds classification with working trial, rectangular proportions, short flat dense coat, tricolour and hare-pie coloration, and withers height (48 to 55 cm / 19 to 21.5 in).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "2026-09-08",
+    checkedOn: "2026-11-21",
+    notes: "Official valid standard date 2026-09-08 (English PDF published 2026-10-06); definitive FCI acceptance 1974-11-27."
   },
-  "fci-harrier-nomenclature": {
+"fci-harrier-nomenclature": {
     id: "fci-harrier-nomenclature",
-    name: "FCI - Harrier Breed Nomenclature (No. 295)",
-    url: "https://www.fci.be/en/nomenclature/HARRIER-295.html",
-    type: "official_breed_standard",
-    publishedOn: "1974-05-27",
-    accessedOn: "2026-11-11",
-    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 6 Section 1.2 classification with working trial, definitive recognition date (1974-05-27), and official multilingual name (Harrier).",
-    publisher: "Fédération Cynologique Internationale"
+    title: "FCI Breeds Nomenclature — Harrier (295)",
+    publisher: "Fédération Cynologique Internationale (FCI)",
+    type: "official_standard",
+    url: "https://www.fci.be/en/nomenclature/Harrier-295.html",
+    publishedOn: null,
+    checkedOn: "2026-11-21",
+    notes: "Group 6, Section 1.2 Medium-sized Hounds; Great Britain; definitive acceptance 1974-11-27; subject to a working trial."
   },
-  "the-kennel-club-harrier-breed-standard": {
+"the-kennel-club-harrier-breed-standard": {
     id: "the-kennel-club-harrier-breed-standard",
-    name: "The Royal Kennel Club - Harrier Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/hound/harrier/",
-    type: "official_breed_standard",
-    publishedOn: "2025-04-01",
-    accessedOn: "2026-11-11",
-    note: "Official Royal Kennel Club breed standard (Hound Group, country of origin standard) establishing withers height (48-55 cm / 19-21.5 in), short flat coat, V-shaped drop ears, and scenting temperament.",
-    publisher: "The Royal Kennel Club"
+    title: "Harrier — Breed Standard",
+    publisher: "The Royal Kennel Club",
+    type: "official_standard",
+    url: "https://www.royalkennelclub.com/breed-standards/hound/harrier/",
+    publishedOn: "2025-08-01",
+    checkedOn: "2026-11-21",
+    notes: "Migrated from [invalid URL] to royalkennelclub.com; ideal height dogs 53 cm, bitches 48 cm (2.5 cm smaller tolerance)."
   },
   "akc-harrier-breed-standard": {
     id: "akc-harrier-breed-standard",
@@ -15336,25 +15336,25 @@ export const sources = defineSources({
     note: "Official French kennel club (SCC) breed profile and standard for the Harrier, documenting its working status in French hare and fox packs, height (48-55 cm), weight range (approx. 20-27 kg), and hunting trial standards.",
     publisher: "Société Centrale Canine"
   },
-  "ofa-harrier-health-screenings": {
+"ofa-harrier-health-screenings": {
     id: "ofa-harrier-health-screenings",
-    name: "Orthopedic Foundation for Animals - Harrier Health Screening Guidelines",
-    url: "https://ofa.org/browse-by-breed/?breed=HAR",
-    type: "veterinary",
+    title: "OFA CHIC Browse By Breed — Harrier (HAR)",
+    publisher: "Orthopedic Foundation for Animals (OFA)",
+    type: "health_registry",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=HAR",
     publishedOn: null,
-    accessedOn: "2026-11-11",
-    note: "Orthopedic Foundation for Animals health database and veterinary screening guidelines for the Harrier, documenting evaluations for hip dysplasia, eye examinations (CAER), and elbow dysplasia.",
-    publisher: "Orthopedic Foundation for Animals"
+    checkedOn: "2026-11-21",
+    notes: "Updated to live /chic-programs/browse-by-breed/ path."
   },
-  "wikimedia-harrier-tricolour-lilly-m": {
+"wikimedia-harrier-tricolour-lilly-m": {
     id: "wikimedia-harrier-tricolour-lilly-m",
-    name: "Wikimedia Commons - File:Harrier tricolour.jpg",
+    title: "Wikimedia Commons — File:Harrier tricolour.jpg",
+    publisher: "Wikimedia Commons / Smcmilla",
+    type: "image_host",
     url: "https://commons.wikimedia.org/wiki/File:Harrier_tricolour.jpg",
-    type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-11",
-    note: "High-resolution photograph (2592 x 1944 px) of an adult tricolour Harrier standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2007-03-09",
+    checkedOn: "2026-11-21",
+    notes: "Preserved existing source ID; corrected metadata to Public Domain, author Smcmilla (edited by Pharaoh Hound), 540 x 500."
   },
   "wikimedia-harrier-600-tomasz-sienicki": {
     id: "wikimedia-harrier-600-tomasz-sienicki",
@@ -21716,6 +21716,276 @@ export const sources = defineSources({
     accessedOn: "2026-11-21",
     note: "Official Royal Kennel Club Breeds A to Z profile covering medieval Belgian herding origins, 1891 breed club and Prof. Adolphe Reul's examination of 117 dogs, four coat varieties, and police/armed forces versatility.",
     publisher: "The Royal Kennel Club"
+  },
+  "akc-keeshond-official-standard": {
+    id: "akc-keeshond-official-standard",
+    name: "American Kennel Club - Official Standard of the Keeshond",
+    url: "https://images.akc.org/pdf/breeds/standards/Keeshond.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2025-01-01",
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed standard (Non-Sporting Group; approved October 8, 2024, effective January 1, 2025). Establishes pronunciation ('kayz-hawnd'), ideal height (18 inches males, 17 inches bitches, +/- 1 inch variance acceptable), square compact build, orbital 'spectacles' hallmark, tight black lips, scissor bite, natural untrimmed stand-off double coat, blended grey/black/cream coloration, double-tracking gait, and outgoing, friendly, alert temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-keeshond-breed-profile": {
+    id: "akc-keeshond-breed-profile",
+    name: "American Kennel Club - Keeshond Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/keeshond/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed profile covering Netherlands barge-dog and Dutch Patriot history, plural 'Keeshonden', 1930 AKC registration, ideal height (18 in male, 17 in female), weight (35-45 pounds), life expectancy (12-15 years), high double-coat shedding, and affectionate, vocal watchdog temperament.",
+    publisher: "American Kennel Club"
+  },
+  "rkc-keeshond-breed-standard": {
+    id: "rkc-keeshond-breed-standard",
+    name: "The Royal Kennel Club - Keeshond Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/utility/keeshond/",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed standard (Utility Group) confirming compact medium spitz conformation, harsh off-standing coat, dense ruff, pale undercoat, spectacles, and confident, alert, friendly temperament.",
+    publisher: "The Royal Kennel Club"
+  },
+  "kca-keeshond-health-information": {
+    id: "kca-keeshond-health-information",
+    name: "Keeshond Club of America (KCA) - Keeshond Health Information & CHIC Requirements",
+    url: "https://www.keeshond.org/keeshond-health-information",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official US parent breed club health portal documenting OFA/CHIC screening requirements (hip dysplasia, elbow dysplasia, patellar luxation, ACVO eye exam), additional OFA-listed screenings (PHPT DNA test, thyroid, cardiac), and breed health research priorities including Primary Hyperparathyroidism (PHPT), copper toxicosis, epilepsy, and PRA.",
+    publisher: "Keeshond Club of America"
+  },
+  "keeshond-club-uk-history": {
+    id: "keeshond-club-uk-history",
+    name: "The Keeshond Club (UK) - The History of the Keeshond",
+    url: "https://keeshondclub.co.uk/the-keeshond/the-history-of-the-keeshond/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official UK parent breed club historical account documenting Dutch barge-dog traditions, 1923 British show debut as Dutch Barge Dog, 1925 club founding, 1926 renaming to The Keeshond Club, Dutch plural 'Keeshonden', naturally odourless untrimmed coat, and clever companion temperament.",
+    publisher: "The Keeshond Club"
+  },
+  "pubmed-wade-2025-keeshond-sirt6-phpt": {
+    id: "pubmed-wade-2025-keeshond-sirt6-phpt",
+    name: "Autosomal dominant primary hyperparathyroidism in the Keeshond dog breed is strongly associated with a missense variant in sirtuin-6 (Animal Genetics 2025)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/41134522/",
+    type: "scientific",
+    publishedOn: "2025-12-01",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed genomic study by Wade et al. (Anim Genet 2025 Dec;56(6):e70056, PMID 41134522) identifying a likely pathogenic exon 2 missense/possible splice-site variant in SIRT6 (XM_038567756.1:c.193A>G; p.65R>G) strongly associated with autosomal dominant Primary Hyperparathyroidism (PHPT) in Keeshonden and highly concordant with the EEF2 promoter test marker used since 2008.",
+    publisher: "Animal Genetics / PubMed"
+  },
+  "pubmed-goldstein-2007-keeshond-phpt": {
+    id: "pubmed-goldstein-2007-keeshond-phpt",
+    name: "Inheritance, mode of inheritance, and candidate genes for primary hyperparathyroidism in Keeshonden (JVIM 2007)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/17338170/",
+    type: "scientific",
+    publishedOn: "2007-01-01",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed veterinary internal medicine study by Goldstein et al. (J Vet Intern Med 2007 Jan-Feb;21(1):199-203, PMID 17338170) establishing autosomal dominant inheritance of Primary Hyperparathyroidism (PHPT) in Keeshonden.",
+    publisher: "Journal of Veterinary Internal Medicine / PubMed"
+  },
+  "pubmed-werner-2005-keeshond-conotruncal": {
+    id: "pubmed-werner-2005-keeshond-conotruncal",
+    name: "The keeshond defect in cardiac conotruncal development is oligogenic (Human Genetics 2005)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/15711798/",
+    type: "scientific",
+    publishedOn: "2005-04-01",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed molecular genetics study by Werner et al. (Hum Genet 2005 Apr;116(5):368-377, Epub 2005-02-12, PMID 15711798) demonstrating oligogenic inheritance of congenital cardiac conotruncal defects (including Tetralogy of Fallot) in Keeshonden.",
+    publisher: "Human Genetics / PubMed"
+  },
+  "pubmed-hall-wallace-1996-keeshond-epilepsy": {
+    id: "pubmed-hall-wallace-1996-keeshond-epilepsy",
+    name: "Canine epilepsy: a genetic counselling programme for keeshonds (Veterinary Record 1996)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/8737262/",
+    type: "scientific",
+    publishedOn: "1996-04-13",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study by Hall and Wallace (Vet Rec 1996 Apr 13;138(15):358-360, PMID 8737262) analyzing inherited idiopathic epilepsy predisposition and breeding counselling in Keeshonden.",
+    publisher: "Veterinary Record / PubMed"
+  },
+  "wikimedia-keeshond-3-canarian": {
+    id: "wikimedia-keeshond-3-canarian",
+    name: "Wikimedia Commons - File:Keeshond 3.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Keeshond_3.jpg",
+    type: "other",
+    publishedOn: "2020-08-24",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (1655 x 1450 px) of an adult Keeshond outdoors by Canarian (EXIF capture date 2020-08-23 on Sony DSLR-A350, uploaded 2020-08-24). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-keeshond-image-001-dancing-with-wolves": {
+    id: "wikimedia-keeshond-image-001-dancing-with-wolves",
+    name: "Wikimedia Commons - File:Keeshond image 001.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Keeshond_image_001.jpg",
+    type: "other",
+    publishedOn: "2007-03-05",
+    accessedOn: "2026-11-21",
+    note: "High-resolution close-up portrait (1600 x 1812 px) of a Keeshond by Flickr user dancing_with_wolves (captured 2007-01-24, cropped and uploaded to Wikimedia Commons by Ltshears on 2007-03-05, reviewed by MECU on 2007-04-12). Licensed under CC BY 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "rkc-basset-bleu-de-gascogne-breed-standard": {
+    id: "rkc-basset-bleu-de-gascogne-breed-standard",
+    name: "The Royal Kennel Club - Basset Bleu De Gascogne (Imp) Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/hound/basset-bleu-de-gascogne-imp/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed standard (Hound Group) describing the smooth-coated, athletic, aristocratic basset, deep sonorous voice, and temperament.",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-basset-bleu-de-gascogne-breed-profile": {
+    id: "rkc-basset-bleu-de-gascogne-breed-profile",
+    name: "The Royal Kennel Club - Basset Bleu De Gascogne Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/hound/basset-bleu-de-gascogne-imp/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club Breeds A to Z profile confirming Medium size, high exercise needs (more than 2 hours per day), southwestern French origin, and blue mottled markings with tan points.",
+    publisher: "The Royal Kennel Club"
+  },
+  "fci-croatian-shepherd-dog-education-2014": {
+    id: "fci-croatian-shepherd-dog-education-2014",
+    name: "FCI / Croatian Kennel Club - Croatian Shepherd Dog Breed-Specific Education Presentation (No. 277)",
+    url: "https://www.fci.be/Nomenclature/Education/277g01-PRE-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2014-11-03",
+    accessedOn: "2026-11-21",
+    note: "Official FCI/HKS breed-specific education presentation detailing Slavonian history (1374 Bishop Petar, 1719 Bishop Petar Bakić, 1935 Prof. Stjepan Romić, 1949 Zagreb show, 1951 Dr. Otto Rohr), proportions, eyes, and pricked/semi-pricked ear geometry.",
+    publisher: "Fédération Cynologique Internationale / Hrvatski kinološki savez"
+  },
+  "pmc-canine-tbxt-bobtail-review-2025": {
+    id: "pmc-canine-tbxt-bobtail-review-2025",
+    name: "Incorporating Morphological Evaluations into Breeding Soundness Examinations in Dogs (PMC)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12291656/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed veterinary review covering canine natural bobtail genetics (heterozygous TBXT mutation and early in-utero reabsorption of homozygous embryos when two bobtailed dogs are mated).",
+    publisher: "PubMed Central"
+  },
+  "fci-east-siberian-laika-official-standard": {
+    id: "fci-east-siberian-laika-official-standard",
+    name: "FCI - East Siberian Laika (Vostotchno-Sibirskaïa Laïka) Official Breed Standard No. 305",
+    url: "https://www.fci.be/Nomenclature/Standards/305g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2011-03-02",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 305 (revised valid standard dated 2010-10-13, English publication dated 2011-03-02). Covers Russian origin in Eastern Siberia and the Far East, Group 5 Section 2 Nordic Hunting Dogs classification with working trial, multipurpose hunting and sledge/draught use, wedge-shaped head, dry tight lips, sickle/ring tail, coarse dense double coat, accepted colours, and withers height (males 57-64 cm, females 53-60 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-east-siberian-laika-nomenclature": {
+    id: "fci-east-siberian-laika-nomenclature",
+    name: "FCI - Vostotchno-Sibirskaïa Laïka (East Siberian Laika) Breed Nomenclature (No. 305)",
+    url: "https://www.fci.be/en/nomenclature/EAST-SIBERIAN-LAIKA-305.html",
+    type: "official_breed_standard",
+    publishedOn: "2011-03-02",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Russia as country of origin, Group 5 Section 2 Nordic Hunting Dogs classification subject to a working trial, English standard publication date (2011-03-02), and official multilingual names (Vostotchno-Sibirskaïa Laïka, East Siberian Laika, Laïka de Sibérie Orientale, Ostsibirischer Laika).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "kennelliitto-itasiperianlaika-standard": {
+    id: "kennelliitto-itasiperianlaika-standard",
+    name: "Suomen Kennelliitto - Itäsiperianlaika Rotumääritelmä (FCI 305)",
+    url: "https://www.kennelliitto.fi/files/itasiperianlaika-0",
+    type: "official_breed_standard",
+    publishedOn: "2011-03-02",
+    accessedOn: "2026-11-21",
+    note: "Official Finnish Kennel Club (Suomen Kennelliitto) publication of FCI Standard No. 305 detailing Tungus/Yakut/Baikal/Amur laika origins, 1947 breed recognition, 1949 provisional standard, 1981 approval, Irkutsk/Leningrad/Smolensk/Tver breeding regions, body-length ratios (1.04-1.09 males, 1.06-1.11 females), equilateral-triangle head shape, and friendly, trusting, autonomous temperament.",
+    publisher: "Suomen Kennelliitto - Finska Kennelklubben ry"
+  },
+  "skk-ostsibirisk-lajka-breed-profile": {
+    id: "skk-ostsibirisk-lajka-breed-profile",
+    name: "Svenska Kennelklubben (SKK) - Östsibirisk lajka Rasprofil",
+    url: "https://www.skk.se/hundraser/ostsibirisk-lajka/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Östsibirisk lajka confirming Eastern Siberian origin (Yenisei River to Pacific coast), 1978 first Swedish import, height (57-64 cm males, 53-60 cm females), largest/strongest laika status, easy-care double coat with regular shedding, unsuitability solely as a companion dog, and documentation that hip dysplasia (HD) can occur.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-laika-de-siberie-orientale-profile": {
+    id: "scc-laika-de-siberie-orientale-profile",
+    name: "Société Centrale Canine (SCC) - Laïka de Sibérie orientale",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/laika-de-siberie-orientale",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official French Kennel Club (SCC) breed profile for Laïka de Sibérie orientale documenting Evenk/Lamut/Amur crossbreeding origins, vocal 'laïka' ('barker') character, approximate unsexed weight note (20-30 kg), and firm consistent training requirements.",
+    publisher: "Société Centrale Canine"
+  },
+  "suomen-laikajarjesto-isl-jto-2026-2030": {
+    id: "suomen-laikajarjesto-isl-jto-2026-2030",
+    name: "Suomen Laikajärjestö - Itäsiperianlaikan Jalostuksen Tavoiteohjelma (JTO) 2026-2030",
+    url: "https://laikajarjesto.fi/wp-content/uploads/2021/02/LIITE-24-ISL-Jalostuksen-tavoiteohjelma-2026-2030.pdf",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Finnish Laika Club (Suomen Laikajärjestö) Breeding Target Programme (JTO 2026-2030) for the East Siberian Laika documenting 1979 Finnish breed introduction, Aljo kennel history, genetic-diversity inbreeding limits (<=6.25% over 5 generations), and PEVISA-linked health screening priorities (hips, eyes, and POAG DNA testing).",
+    publisher: "Suomen Laikajärjestö ry"
+  },
+  "pmc-ding-2011-canine-ychromosome-east-asia": {
+    id: "pmc-ding-2011-canine-ychromosome-east-asia",
+    name: "Origins of domestic dog in southern East Asia is supported by analysis of Y-chromosome DNA (Heredity 2011)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3330686/",
+    type: "scientific",
+    publishedOn: "2011-11-01",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study by Ding et al. (Heredity 2012 May;108(5):507-514, Epub 2011-11-01, PMID 22108628, PMC3330686) documenting Y-chromosome haplogroup HG9 shared between the East Siberian Laika and African Basenji dogs.",
+    publisher: "Heredity / National Library of Medicine (PMC)"
+  },
+  "pmc-anderson-2020-ancient-mc1r-r301c": {
+    id: "pmc-anderson-2020-ancient-mc1r-r301c",
+    name: "Comprehensive genetic testing combined with citizen science reveals a recently characterized ancient MC1R mutation associated with partial recessive red phenotypes in dog (PLOS Genetics 2020)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7643265/",
+    type: "scientific",
+    publishedOn: "2020-11-01",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed genomic study of 11,750 dogs (PMC7643265) identifying the ancient MC1R R301C ('eA') coat-colour allele across 35 breeds including old Nordic spitzes such as the East-Siberian Laika.",
+    publisher: "PLOS Genetics / National Library of Medicine (PMC)"
+  },
+  "wikimedia-east-siberian-laika-przemekl": {
+    id: "wikimedia-east-siberian-laika-przemekl",
+    name: "Wikimedia Commons - File:East Siberian Laika.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:East_Siberian_Laika.jpg",
+    type: "other",
+    publishedOn: "2006-11-14",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (1600 x 1200 px) of a young East Siberian Laika taken during the World Dog Show 2006 in Poznań by PrzemekL (EXIF capture date 2006-11-09, uploaded 2006-11-14). Released into the public domain by the copyright holder on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-eastsiberianlaika-mirtu": {
+    id: "wikimedia-eastsiberianlaika-mirtu",
+    name: "Wikimedia Commons - File:Eastsiberianlaika.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Eastsiberianlaika.JPG",
+    type: "other",
+    publishedOn: "2007-04-22",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (2592 x 1952 px) of an adult East Siberian Laika outdoors by Mirtu (EXIF capture date 2005-10-08 on HP PhotoSmart R707, uploaded 2007-04-22). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "rkc-harrier-breed-profile": {
+    id: "rkc-harrier-breed-profile",
+    title: "Harrier — Breeds A to Z",
+    publisher: "The Royal Kennel Club",
+    type: "kennel_club",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/hound/harrier/",
+    publishedOn: null,
+    checkedOn: "2026-11-21",
+    notes: "Official Royal Kennel Club breed profile covering exercise (>2 hours/day), Breed Watch status (no points of concern), recognised standard colours, and Hare Hound heritage."
+  },
+  "wikimedia-harrier-pedigree-evforce": {
+    id: "wikimedia-harrier-pedigree-evforce",
+    title: "Wikimedia Commons — File:Harrier Hound -Pedigree Harrier.jpg",
+    publisher: "Wikimedia Commons / Evforce",
+    type: "image_host",
+    url: "https://commons.wikimedia.org/wiki/File:Harrier_Hound_-Pedigree_Harrier.jpg",
+    publishedOn: "2021-10-22",
+    checkedOn: "2026-11-21",
+    notes: "CC BY-SA 4.0 photograph (3072 x 4608) of a pedigree Harrier by Evforce, replacing broken File:Harrier_600.jpg."
   },
 });
 

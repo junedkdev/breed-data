@@ -10,79 +10,72 @@ export const croatian_sheepdog: Breed = {
     "Hrvatski Ovcar",
     "Croatian Shepherd Dog",
     "Kroatischer Schäferhund",
-    "Chien de Berger Croate",
-    "Pastor Croata"
+    "Chien Berger Croate",
+    "Perro Pastor Croata"
   ],
 
-  group:
-    "Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 — Sheepdogs (with working trial; also classified in the Herding and Pastoral groups)",
+  group: "Herding Sheepdog (Sheepdog)",
 
   origin: {
     country: "Croatia",
-    region:
-      "Slavonia, eastern Croatia (traditionally developed across the fertile plains and lowlands between the Sava, Drava, and Danube rivers)"
+    region: "Eastern Slavonia (around Đakovo), Croatia"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Hrvatski_ovcar_600.jpg",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Hrvatski_ovcar_600.jpg",
-      title: "Hrvatski ovcar 600.jpg",
-      description:
-        "An adult black Croatian Sheepdog standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
-      licenseId: "cc-by-sa-3.0",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Gera062005sed.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Gera062005sed.jpg",
+      title: "Gera062005sed.jpg",
+      description: "An adult black Croatian Sheepdog (Mawlch Gera) sitting outdoors.",
+      creator: "Michala Mračková",
+      uploader: "Prskavka~commonswiki",
+      capturedOn: null,
+      uploadedOn: "2006-06-08",
+      width: 1536,
+      height: 2048,
+      licenseId: "public-domain",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Hrvatski_ovcar_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Michala Mračková, Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:Gera062005sed.jpg.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-21"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Hrvatski_ovcar.JPG",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/GeraHojda09112055ZG.jpeg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Hrvatski_ovcar.JPG",
-      title: "Hrvatski ovcar.JPG",
-      description:
-        "A Croatian Sheepdog standing in side profile outdoors.",
-      creator: "Pleple2000",
-      uploader: "Pleple2000",
-      capturedOn: "2008-10-05",
-      uploadedOn: "2008-10-18",
-      width: 2400,
-      height: 1800,
-      licenseId: "cc-by-sa-3.0",
+        "https://commons.wikimedia.org/wiki/File:GeraHojda09112055ZG.jpeg",
+      title: "GeraHojda09112055ZG.jpeg",
+      description: "A Croatian Sheepdog (Mawlch Gera) competing on an agility course.",
+      creator: "Michala Mračková",
+      uploader: "Prskavka~commonswiki",
+      capturedOn: null,
+      uploadedOn: null,
+      width: 540,
+      height: 405,
+      licenseId: "public-domain",
       attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Hrvatski_ovcar.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Michala Mračková, Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:GeraHojda09112055ZG.jpeg.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "A rustic, medium-sized Croatian pastoral sheepdog celebrated for its wavy-to-curly jet-black coat, fox-like short-haired head, erect triangular ears, boundless athletic agility, and intensely loyal, biddable devotion to its handler.",
+      "A nimble, medium-sized Croatian herding dog instantly recognized by its wavy-to-curly black body coat, smooth short-haired fox-like head, erect or semi-pricked ears, and tireless agility.",
 
     description:
-      "The Croatian Sheepdog is a lithe, compact, and rectangular-built herding dog combining rustic physical stamina with lightning reflexes and keen intelligence. Originating on the fertile agricultural plains of Slavonia in eastern Croatia, the dog is instantly recognizable by the striking textural contrast between its body and head: its torso is draped in a dense, wavy-to-curly weather-resistant black double coat, while the fox-shaped head, muzzle, and front of the legs are covered in short, smooth hair. Upright triangular ears and dark, almond-shaped eyes give the dog an intensely alert, questioning expression. Naturally agile, swift, and tireless, it thrives as a nimble livestock drover, an enthusiastic dog sports champion, and a deeply bonded household companion that remains an alert, incorruptible protector of its family and territory.",
+      "The Croatian Sheepdog is a compact, slightly rectangular working herder combining rugged endurance with quick, springy movement. Its hallmark look is the sharp contrast between its dense, wavy or curly black body coat and the short, smooth hair covering its wedge-shaped head, muzzle, and the front of its legs. Dark, oval eyes with tight black lids and mobile triangular ears—carried either pricked or semi-pricked—give the breed a bright, questioning gaze. Devoted, humble, and eager to work, it thrives as an active livestock herder, fast dog-sport competitor, and alert watchdog for energetic owners.",
 
     history:
-      "The breed represents one of the oldest documented pastoral dog populations in southeastern Europe, with written archival descriptions tracing back over six centuries. In 1374, Peter, Bishop of Đakovo, documented the native Slavonian sheepdog under the Latin name Canis pastoralis croaticus, recording that the black, curly-coated herders had accompanied the Croatian tribes during their seventh-century migrations to the Adriatic. Subsequent ecclesiastical chronicles by Bishop Petar Bakić in 1719 and canonical records by Franjo Gotfrid in 1737 confirmed that the dogs had maintained their distinctive appearance and working traits unchanged across generations. In 1935, veterinarian and university professor Dr. Stjepan Romić launched a systematic selective breeding and preservation program centered in Đakovo, establishing purebred lines that were first exhibited in Zagreb in 1949. International recognition was finalized in 1969, securing the breed's status as a living national cultural treasure of Croatia.",
+      "One of southeastern Europe's oldest documented pastoral breeds, the Croatian Sheepdog developed over centuries in eastern Slavonia around Đakovo. In a 1374 manuscript, Bishop Petar of Đakovo recorded the native herder as Canis pastoralis croaticus, noting that Croats had brought the dogs with them during earlier migrations; in 1719, Bishop Petar Bakić cited that record and noted that the breed's appearance had remained unchanged. Veterinary professor Dr. Stjepan Romić launched a systematic breeding program in Đakovo in 1935, and the breed made its public show debut in Zagreb in October 1949. Dr. Otto Rohr drafted the first written breed description in 1951, paving the way for formal international recognition in the late 1960s.",
 
     originalPurpose:
-      "Driving, gathering, and penning cattle, sheep, and pigs across open Slavonian pasturelands, accompanied by nocturnal farmstead guarding.",
+      "Herding and driving sheep, cattle, and other livestock across Slavonian pastures while guarding rural yards.",
 
     currentRoles: [
-      "Traditional livestock drover, herder, and farm boundary guardian",
-      "Canine athlete in agility, flyball, disc dog, and competitive obedience",
-      "Search, rescue, and scent detection partner",
-      "Vigilant home and rural property watchdog",
-      "Devoted companion for energetic outdoor handlers"
+      "Versatile livestock herder and farm watchdog",
+      "Fast competitor in agility, flyball, obedience, herding, and frisbee",
+      "Loyal, energetic companion for active outdoor households"
     ]
   },
 
@@ -119,48 +112,38 @@ export const croatian_sheepdog: Breed = {
     },
 
     coatType:
-      "Dense, wavy or curly double coat measuring 7 to 14 cm on the back and torso, with a soft, thick undercoat; distinctly short, smooth, and flat on the head, muzzle, face, and front of the legs; forming modest feathering on the rear of the legs and a bushy or plumed tail.",
+      "Dense, wavy or curly double coat with a soft undercoat over the body, contrasting with short, smooth hair on the head, face, outer ears, and front of the legs.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Solid black (predominantly jet black all over the body; small white markings or a star on the chest and white hairs on the toes are permissible)"
+      "Solid Black (small white markings on chest or toes permitted)"
     ],
 
-    sheddingLevel:
-      "Moderate year-round shedding with heavier seasonal coat changes in spring and autumn",
-
-    droolingLevel:
-      "Low; tight, dry, cleanly chiselled lips prevent drooling",
+    sheddingLevel: "Moderate",
+    droolingLevel: "Low",
 
     distinctiveFeatures: [
-      "Compact, slightly rectangular outline where body length exceeds height at the withers by approximately 8 to 10 percent",
-      "Height at the withers of 40 to 50 cm for both males and females, with an ideal height of 45 cm",
-      "Weight of 13 to 20 kg in lean, well-conditioned working athletic form",
-      "Striking textural contrast between the wavy or curly black body coat and the short, smooth hair on the head and face",
-      "Fox-like head wedge with a flat skull, moderate stop, and strong, tapering muzzle",
-      "Complete, regular scissor bite with powerful jaws and sound, evenly spaced teeth (pincer bite acceptable)",
-      "Medium-sized, almond-shaped dark brown to black eyes with tight, dark lids expressing lively intelligence",
-      "Medium-sized, triangular prick ears or semi-prick ears set high, highly mobile to environmental sounds",
-      "Lean, muscular neck blending cleanly into well-laid-back shoulders without loose throat skin",
-      "Deep, spacious chest extending to the elbows with well-sprung ribs and a moderately tucked-up abdomen",
-      "Tail carried hanging or curved over the back in motion, often naturally bobbed (brachyury) or full-length and bushy",
-      "Firm, dry limbs with small, tight oval cat-like feet and tough, dark pads"
+      "Slightly rectangular, compact build where body length exceeds height at the withers and height to the elbow is about half of withers height",
+      "Striking coat contrast: wavy or curly black hair over the body paired with short, smooth hair on the head and face",
+      "Blunt wedge-shaped head with parallel skull and muzzle lines and a complete scissor bite",
+      "Medium-sized, oval black to dark chestnut-brown eyes with tightly fitting, fully black-pigmented eyelids",
+      "Even triangular ears carried either pricked or semi-pricked (with three-fifths erect and the upper two-fifths folded)",
+      "Naturally bobtailed or full-length bushy tail"
     ]
   },
 
   temperament: {
     traits: [
-      "Alert, lively, and keenly observant of all activity",
-      "Deeply loyal, affectionate, and shadow-like with its chosen handler",
-      "Biddable, eager to work, and exceptionally responsive to subtle human cues",
-      "Intelligent problem-solver with natural herding initiative",
-      "Courageous, vigilant, and incorruptible watchdog",
-      "Reserved and cautious with unfamiliar strangers without unprovoked aggression",
-      "Playful and energetic companion for familiar children",
-      "Sociable and cooperative with other dogs when raised together",
-      "Quick, vocal barker that sounds prompt alarms when novel events occur",
-      "High stamina and drive, requiring purposeful daily physical and mental employment"
+      "Loyal",
+      "Active",
+      "Alert",
+      "Intelligent",
+      "Biddable",
+      "Eager to please",
+      "Courageous",
+      "Playful",
+      "Sensibly wary of strangers"
     ],
 
     scores: {
@@ -178,141 +161,105 @@ export const croatian_sheepdog: Breed = {
 
   care: {
     exercise: {
-      level:
-        "Very high; an athletic working shepherd requiring vigorous daily aerobic exercise and demanding mental stimulation to maintain indoor composure",
-
+      level: "Very high",
       minutesPerDay: {
         min: 60,
         max: 90
       },
-
       activities: [
-        "Daily brisk trail running, jogging, or fast-paced woodland hikes",
-        "Herding practice, stock-dog trials, and boundary work",
-        "Canine sports including agility, flyball, disc dog, and competitive obedience",
-        "Interactive fetch, frisbee catching, and sprint games in a secure yard",
-        "Nosework, tracking drills, and scent search challenges",
-        "Complex trick training, puzzle solving, and agility obstacle practice"
+        "Daily brisk runs, trail hikes, and vigorous outdoor play",
+        "Herding, agility, flyball, obedience, and frisbee",
+        "Scent tracking and interactive trick training",
+        "Supervised sprinting and jumping games in a tall, securely fenced yard"
       ]
     },
 
     grooming: {
       level: "Low to moderate",
-
-      brushing:
-        "Brush thoroughly once or twice weekly with a pin brush and metal comb to remove loose undercoat, prevent tangles in the wavy curls, and keep the coat glossy; increase to daily brushing during seasonal spring and autumn molts.",
-
-      bathing:
-        "Bathe only occasionally when soiled or muddy, using a gentle canine shampoo; the weather-resistant coat naturally sheds dried mud and pasture dirt once dry.",
-
+      brushing: "Weekly brushing or combing to remove dead hair and keep the wavy coat tidy",
+      bathing: "Occasional baths as needed; the rustic coat sheds dirt easily",
       notes: [
-        "The wavy double coat does not require clipping, scissoring, or professional trimming; it should be maintained in its natural rustic state.",
-        "Inspect the upright prick ears weekly for dust, wax, or foreign matter, wiping gently with an approved veterinary cleanser.",
-        "Check paw pads, toes, and skin for thorns, burrs, or scrapes after running in heavy brush or working stock.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain correct compact foot structure.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "The breed possesses very little natural dog odor and dries quickly after getting wet."
+        "Leave the wavy double coat natural rather than clipping it.",
+        "Trim nails regularly and inspect the triangular ears weekly for wax or debris.",
+        "Check paw pads after trail runs or farm work and brush teeth several times a week."
       ]
     },
 
     training: {
-      difficulty:
-        "Easy to moderate; exceptionally intelligent, eager to please, and quick-witted, learning new commands and complex routines in very few repetitions",
-
+      difficulty: "Easy",
       tips: [
-        "Use positive reinforcement, high-value food treats, and enthusiastic toy-based play praise.",
-        "Begin impulse-control, loose-leash walking, and quiet commands from early puppyhood.",
-        "Keep instructional sessions fast-paced, challenging, and varied to prevent boredom.",
-        "Avoid repetitive drilling once a skill is mastered, as the dog will invent its own variations.",
-        "Never use harsh verbal reprimands or physical coercion, which cause this sensitive shepherd to shut down or lose trust.",
-        "Channel natural herding drive into dog sports rather than allowing heel-nipping of running family members or cyclists."
+        "Use upbeat, reward-based training with treats and toys; this bright, eager herder picks up new cues quickly.",
+        "Keep sessions varied and mentally challenging so boredom does not turn into digging or mischief.",
+        "Teach a dependable quiet cue early to manage alert watchdog barking.",
+        "Provide a tall, secure fence because the breed is known for remarkable jumping ability."
       ],
-
       socialization:
-        "Introduce the puppy early, gradually, and positively to varied friendly people, calm vaccinated dogs of all sizes, household noises, vehicles, and novel surfaces. Early structured social guidance ensures natural guardian reservedness matures into poised, self-assured discernment in public."
+        "Introduce puppies early and positively to unfamiliar people, calm dogs, and everyday settings so their sensible wariness develops into confident judgment."
     },
 
     livingEnvironment: {
       apartmentSuitable: false,
       houseWithYardSuitable: true,
-
-      climates: [
-        "Temperate climates",
-        "Cold and snowy continental winter climates, where the dense double coat provides excellent weather protection",
-        "Warm climates, provided indoor cooling, shade, and fresh water are available and exercise occurs during cooler morning or evening hours"
-      ],
-
-      aloneTimeTolerance:
-        "Low to moderate; deeply attached to its family and prone to separation distress, boredom barking, or pacing if left isolated for extended workdays without interaction."
+      climates: ["Temperate", "Cold", "Warm"],
+      aloneTimeTolerance: "Low to moderate"
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized active working or sporting breeds, adjusted for age, activity level, and metabolic rate.",
+      "Complete, balanced dog food suited to an active medium-sized working breed, tailored to life stage and daily exercise.",
 
     feedingFrequency: {
-      puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
-      adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+      puppy: "Three to four small measured meals daily until six months old, then two meals",
+      adult: "Two measured meals per day",
+      senior: "Two portion-controlled meals per day adjusted for lower activity"
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt through the wavy coat. Divide daily food into two distinct meals, restrict vigorous exercise immediately before and after eating, and provide cool, clean drinking water continuously.",
+      "Measure daily portions to keep the dog lean and athletic without extra weight on active joints. Adjust calories for heavy herding or sport schedules and provide fresh drinking water at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on joints and stifles.",
-      "Account for training treats within the total daily caloric allowance to avoid creeping weight gain.",
-      "Increase caloric and protein density during active herding seasons or intense agility trial periods.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water at all times.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Count training treats within daily calories.",
+      "Avoid fatty table scraps and switch diets gradually over about a week.",
+      "Keep fresh water available during and after vigorous exercise."
     ],
 
     note:
-      "Caloric needs vary significantly based on working workload, training intensity, and outdoor temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Follow your veterinarian's guidance to tailor feeding frequency and diet formulas to your dog's age and activity level."
   },
 
   health: {
     overview:
-      "The Croatian Sheepdog is an exceptionally robust, healthy, and long-lived pastoral landrace with a typical life expectancy of 12 to 14 years. Having evolved through centuries of practical field selection on rural farms without cosmetic exaggerations, it has maintained high constitutional vitality and possesses very few hereditary genetic disorders. Primary health considerations focus on orthopedic screening for hip dysplasia and patellar luxation, hereditary eye conditions, natural bobtail genetic considerations, and field-related athletic trauma.",
+      "The Croatian Sheepdog is generally a hardy, healthy working breed with a typical lifespan of 12 to 14 years. Shaped by practical rural selection without extreme physical exaggerations, it has relatively few widespread hereditary diseases. Key breeding and veterinary considerations include responsible management of natural bobtail genetics (avoiding bobtail-to-bobtail matings due to homozygous embryonic lethality in dogs carrying the TBXT mutation) alongside standard active-breed screening for hip dysplasia, patellar luxation, and inherited eye conditions.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, monitored through pre-breeding radiographic screening programs",
-      "Patellar luxation — displacement of the kneecap from the femoral groove causing intermittent hind-limb hopping, evaluated via clinical orthopedic grading",
-      "Natural bobtail (brachyury) genetics — inherited trait caused by a mutation in the T-box transcription factor gene; homozygous mutation is embryonic lethal in dogs, meaning responsible breeders avoid mating two bobtailed individuals together",
-      "Hereditary cataracts and progressive retinal atrophy (PRA) — rare ocular conditions monitored through annual certified ophthalmologist examinations",
-      "Traumatic athletic injuries — minor sprains, paw pad abrasions, or muscle pulls sustained during high-speed agility, jumping, or livestock herding",
-      "Sensitivity to isolation — anxiety and distress resulting from prolonged confinement without mental stimulation or human contact"
+      "Natural bobtail (brachyury) breeding consideration — short or absent tails in bobtailed dog breeds are typically linked to a heterozygous TBXT gene mutation where mating two bobtailed dogs causes early embryonic loss of homozygous embryos, so responsible breeders pair bobtails only with full-tailed dogs",
+      "Hip dysplasia — developmental hip-joint laxity monitored in active medium herding dogs through pre-breeding radiographs",
+      "Patellar luxation — occasional kneecap slipping monitored during orthopedic checkups",
+      "Eye conditions (cataracts, PRA) — uncommon ocular issues checked via periodic veterinary eye exams",
+      "Athletic field injuries — minor paw scrapes, sprains, or muscle strains from high-speed jumping and herding"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip clearances, clinical patellar grading, and current certified eye examinations.",
-      "Ensure breeders manage bobtail pairings responsibly by avoiding bobtail-to-bobtail matings.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Inspect the erect prick ears weekly for dust, wax, or foreign matter, wiping gently with an approved cleanser.",
-      "Inspect footpads, toes, and skin after outdoor field work or agility trials for cuts or embedded seeds.",
-      "Brush teeth regularly and schedule periodic professional veterinary dental cleanings.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Confirm that breeding stock undergoes hip, patella, and eye checks and that bobtail-to-bobtail pairings are avoided.",
+      "Keep the dog lean and well conditioned, inspect paws and ears after outdoor work, and maintain dental brushing, parasite prevention, and annual vet visits."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Clinical patellar luxation orthopedic evaluation and grading",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "Radiographic hip dysplasia evaluation",
+      "Clinical patellar luxation evaluation",
+      "Veterinary ophthalmologist eye examination",
+      "Natural bobtail (TBXT) genetic management before breeding"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with dog-safe toothpaste and schedule routine veterinary dental exams.",
 
     earCare:
-      "Inspect the erect prick ears weekly for wax buildup, moisture, or dirt. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check the pricked or semi-pricked ears weekly for wax buildup, dust, or redness, and clean gently as needed.",
 
     skinCare:
-      "Part the dense wavy coat weekly during brushing to inspect the skin for external parasites, redness, or scratches. The coat naturally sheds dirt and requires minimal bathing beyond regular grooming."
+      "Part the wavy black coat during weekly brushing to check the skin for burrs, scratches, or parasites."
   },
 
   suitability: {
@@ -323,354 +270,468 @@ export const croatian_sheepdog: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, runners, and hikers who can provide vigorous daily physical exercise and mental engagement",
-      "Farmers, smallholders, and livestock owners seeking a nimble, dedicated herding and boundary dog",
-      "Canine sports enthusiasts involved in agility, flyball, disc dog, or competitive obedience",
-      "Experienced dog owners familiar with high-drive working sheepdogs and positive training methods",
-      "Handlers seeking an intensely loyal, shadow-like partner that thrives on close personal teamwork"
+      "Active outdoor owners, runners, and hikers who enjoy daily training and energetic play",
+      "Dog sport enthusiasts competing in agility, flyball, herding, obedience, or frisbee",
+      "Smallholders or rural homes with tall, secure fencing",
+      "Active families with respectful children who include the dog in daily routines"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for high physical energy, sharp working drive, and vocal alerts",
-      "Sedentary individuals looking for a low-exercise indoor lap pet",
-      "Apartment or dense urban dwellers where alert barking and high exercise needs can cause friction",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People seeking a casual, low-maintenance backyard pet"
+      "Sedentary households wanting a low-exercise indoor lapdog",
+      "Apartment dwellers with noise-sensitive neighbors, given the breed's alert watchdog barking",
+      "Homes with low fences, due to the breed's strong jumping ability",
+      "Owners away for long hours without daily exercise and mental engagement"
     ]
   },
 
   funFacts: [
-    "The Croatian Sheepdog is documented in church archives in Đakovo dating back to 1374, where Bishop Peter described the breed under the Latin name Canis pastoralis croaticus, noting that its appearance had remained virtually unchanged since the Croats' arrival in the Balkans in the seventh century.",
-    "A remarkable proportion of puppies in the breed are born naturally bobtailed (brachyury), a traditional working trait that ranges from a complete lack of tail to a short stump, which is fully accepted in the breed standard.",
-    "The breed displays a unique textural contrast: while its body is covered in thick, wavy or curly black hair, its head, face, and the front of its legs are covered in short, smooth, fox-like fur.",
-    "In agility and flyball competitions across Europe, the Croatian Sheepdog is celebrated for its incredible turning speed, explosive acceleration, and high jump-to-weight ratio, frequently rivaling the world's elite border collies.",
-    "Dr. Stjepan Romić, known as the 'father of the Croatian Sheepdog', surveyed over 800 working dogs across the villages of Slavonia during the 1930s to establish the foundation pedigree that saved the breed.",
-    "The breed is known in its native country as the Hrvatski ovčar, and its image has been celebrated on official Croatian postal stamps as a symbol of national heritage."
+    "In 1374, Bishop Petar of Đakovo documented the breed as Canis pastoralis croaticus, and in 1719 Bishop Petar Bakić recorded that its appearance had stayed unchanged over more than three centuries.",
+    "Known for bold herding agility, Croatian Sheepdogs will even run across the backs of tightly packed sheep to reach the front of the flock quickly.",
+    "The breed displays a distinctive coat contrast: wavy or curly black hair across the body paired with short, smooth fur on the head, face, and front of the legs.",
+    "Croatian Sheepdogs are celebrated for extraordinary jumping ability and quick turning speed in agility, flyball, and frisbee.",
+    "Veterinary professor Dr. Stjepan Romić began systematic breeding in Đakovo in 1935, leading to the breed's first Zagreb show presentation in 1949."
   ],
 
   faq: [
     {
-      question: "What is a Croatian Sheepdog?",
+      question: "How big does a Croatian Sheepdog get?",
       answer:
-        "The Croatian Sheepdog (Hrvatski ovčar) is a medium-sized, agile working sheepdog native to eastern Croatia, known for its dense wavy-to-curly black coat, fox-like short-haired head, erect ears, and exceptional herding agility."
+        "Both males and females stand 40 to 50 cm at the withers and weigh 13 to 20 kg."
     },
     {
-      question: "How tall and heavy is a Croatian Sheepdog?",
+      question: "How long do Croatian Sheepdogs live?",
       answer:
-        "Adult males and females stand 40 to 50 cm at the withers (with an ideal height of 45 cm) and typically weigh between 13 and 20 kg, presenting a lean, compact, and muscular athletic build."
+        "They are generally sturdy, healthy dogs with a typical lifespan of 12 to 14 years."
     },
     {
-      question: "How long does a Croatian Sheepdog live?",
+      question: "Is the Croatian Sheepdog easy to groom?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
-    },
-    {
-      question: "Do Croatian Sheepdogs shed a lot, and how are they groomed?",
-      answer:
-        "They shed moderately throughout the year and blow their undercoat during seasonal changes. Weekly brushing with a pin brush and comb is sufficient to keep their wavy coat healthy; their coat naturally repels dirt and should never be clipped."
+        "Yes. Weekly brushing or combing to remove loose hair, occasional baths, and routine nail and ear care are usually enough; the natural wavy coat does not need clipping."
     },
     {
       question: "Can a Croatian Sheepdog live in an apartment?",
       answer:
-        "Generally no. Due to their very high energy, strong working drive, and instinct to sound vocal alerts, they are not suited to apartment living and thrive best in a home with a securely fenced yard or working acreage."
-    },
-    {
-      question: "Are Croatian Sheepdogs good with children and family?",
-      answer:
-        "Yes, with active families. They are deeply devoted, affectionate, and playful with familiar children; however, because of their sharp herding instincts, interactions with toddlers should be supervised to ensure they do not attempt to herd or heel-nip."
+        "Usually not. Although calm indoors after exercise, their high daily energy, jumping agility, and alert watchdog barking suit a home with a tall, securely fenced yard much better."
     },
     {
       question: "Is the Croatian Sheepdog easy to train?",
       answer:
-        "They are exceptionally intelligent, quick to learn, and eager to please, ranking among the easiest breeds to train using positive reinforcement, high-value treats, and structured dog sports."
+        "Yes. They are alert, quick-learning, and eager to please, thriving on upbeat, reward-based training and structured sports like agility, herding, or flyball."
     },
     {
-      question: "Why do some Croatian Sheepdogs have short tails?",
+      question: "Why are some Croatian Sheepdogs born with short tails?",
       answer:
-        "A natural bobtail (brachyury) occurs naturally in the breed due to an inherited genetic mutation; dogs may be born with a full-length tail, a partial bobtail, or no tail at all, all of which are natural and acceptable in the breed standard."
-    },
-    {
-      question: "How much exercise does a Croatian Sheepdog need each day?",
-      answer:
-        "The breed requires 60 to 90 minutes of vigorous daily physical activity, including brisk runs, trail hiking, fetch sessions, and mental challenges like agility, herding, or tracking."
-    },
-    {
-      question: "What health tests are recommended for breeding Croatian Sheepdogs?",
-      answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip dysplasia, clinical patellar luxation grading, and annual veterinary ophthalmologist eye exams."
+        "A natural bobtail trait occurs in the breed, so puppies may be born with full-length or naturally short tails; responsible breeders avoid mating two bobtailed dogs together."
     }
   ],
 
   references: [
     "fci-croatian-shepherd-dog-official-standard",
     "fci-croatian-shepherd-dog-nomenclature",
+    "fci-croatian-shepherd-dog-education-2014",
     "hks-hrvatski-ovcar-breed-standard",
     "akc-croatian-sheepdog-breed-profile",
     "ukc-croatian-shepherd-dog-breed-standard",
     "croatian-sheepdog-morphology-health-study-2019",
+    "pmc-canine-tbxt-bobtail-review-2025",
+    "natureserve-canis-lupus-familiaris",
+    "the-dog-api",
     "wikimedia-hrvatski-ovcar-600-tomasz-sienicki",
     "wikimedia-hrvatski-ovcar-pleple2000"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxon profile: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "All domestic dog breeds belong to the subspecies Canis lupus familiaris."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-croatian-shepherd-dog-official-standard",
-          role: "verified",
-          locator: "Standard heading: HRVATSKI OVČAR (Croatian Shepherd Dog)"
-        },
-        {
           id: "fci-croatian-shepherd-dog-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: HRVATSKI OVČAR (277), Kroatischer Schäferhund, Chien de Berger Croate, Pastor Croata"
+          locator: "Multilingual names (Hrvatski Ovčar, Croatian Shepherd Dog, Kroatischer Schäferhund, Chien Berger Croate, Perro Pastor Croata)"
         },
         {
-          id: "hks-hrvatski-ovcar-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Službeni naziv pasmine: Hrvatski ovčar"
-        },
-        {
-          id: "akc-croatian-sheepdog-breed-profile",
-          role: "verified",
-          locator: "History: Croatian Sheepdog, Hrvatski Ovcar"
+          locator: "breed.alt_names (Hrvatski Ovčar)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified across FCI Standard No. 277, FCI Nomenclature, HKS, and AKC."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-croatian-shepherd-dog-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattle Dogs), Section 1 Sheepdogs, with working trial"
-        },
-        {
           id: "fci-croatian-shepherd-dog-nomenclature",
           role: "verified",
-          locator: "Group 1, Section 1 Sheepdogs, with working trial"
+          locator: "Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs, not subject to working trial"
         },
         {
-          id: "akc-croatian-sheepdog-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Foundation Stock Service (Herding Group)"
-        },
-        {
-          id: "ukc-croatian-shepherd-dog-breed-standard",
-          role: "verified",
-          locator: "Herding Dog Group"
+          locator: "breed.breed_group (Herding)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-21",
+      note: "Presented in plain descriptive wording without registry codes or acronyms; FCI Nomenclature confirms the breed is not subject to a working trial."
     },
 
-    origin: {
+    "origin.country": {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-croatian-shepherd-dog-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Croatia; BRIEF HISTORICAL SUMMARY"
-        },
         {
           id: "fci-croatian-shepherd-dog-nomenclature",
           role: "verified",
           locator: "Country of origin: Croatia"
         },
         {
-          id: "hks-hrvatski-ovcar-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Podrijetlo: Republika Hrvatska (Slavonija)"
+          locator: "breed.origin (Croatia)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
-    overview: {
-      reliability: "official_standard",
+    "origin.region": {
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-croatian-shepherd-dog-official-standard",
+          id: "fci-croatian-shepherd-dog-education-2014",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "hks-hrvatski-ovcar-breed-standard",
-          role: "verified",
-          locator: "Povijest pasmine, 1374. zapis biskupa Petra, 1719. Petar Bakić, 1935. dr. Stjepan Romić"
+          locator: "Historical summary (eastern Slavonia, Đakovo)"
         },
         {
           id: "akc-croatian-sheepdog-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed (Đakovo)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Synthesized in original prose from FCI Standard No. 277, HKS, and AKC official records."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
-    physical: {
+    "overview.summary": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-croatian-shepherd-dog-education-2014",
+          role: "verified",
+          locator: "General appearance, proportions, head, ears"
+        },
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "About the Breed"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.description": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-croatian-shepherd-dog-education-2014",
+          role: "verified",
+          locator: "Important proportions, head, eyes, ears"
+        },
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "About the Breed"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.description"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.history": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "fci-croatian-shepherd-dog-education-2014",
+          role: "verified",
+          locator: "Historical summary (1374 Bishop Petar, 1719 Petar Bakić, 1935 Prof. Stjepan Romić, 1949 Zagreb show, 1951 Dr. Otto Rohr, 1969 FCI standard)"
+        },
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "About the Breed (1374 chronicle, 1719 manuscript, 1935 breeding program)"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.history"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.originalPurpose": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "fci-croatian-shepherd-dog-education-2014",
+          role: "verified",
+          locator: "Utilization (herding of livestock, guard dog, companion)"
+        },
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "History and Did You Know sections"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "overview.currentRoles": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Exercise and Did You Know sections (herding, guard, companion, flyball, obedience, frisbee)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.sizeCategory": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.description (medium-sized)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.height.male.max": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-croatian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "Size and Weight: Males and females 40-50 cm"
         },
         {
-          id: "hks-hrvatski-ovcar-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Morfologija, crna valovita toison, lisičja glava, prirodni bobtail i proporcije"
-        },
-        {
-          id: "ukc-croatian-shepherd-dog-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
+          locator: "breed.height.metric (40-50 cm)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Conformation, rectangular build (8-10% length to height), wavy/curly black coat with short-haired head, and distinctive features follow official standards."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
-    "physical.height": {
+    "physical.height.female.max": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-croatian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Males and females: 40 - 50 cm. Ideal height: 45 cm."
+          locator: "Size and Weight: Males and females 40-50 cm"
         },
         {
-          id: "hks-hrvatski-ovcar-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Visina u grebenu: Mužjaci i ženke: 40 do 50 cm (idealna visina 45 cm)"
-        },
-        {
-          id: "ukc-croatian-shepherd-dog-breed-standard",
-          role: "verified",
-          locator: "Height: Height at withers for both males and females is from 16 to 20 inches (40 to 50 cm)"
+          locator: "breed.height.metric (40-50 cm)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Preserved in published unit of centimetres (40–50 cm for both males and females, ideal 45 cm) exactly as specified in the official FCI Standard No. 277 and HKS standard."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
-    "physical.weight": {
+    "physical.weight.male.max": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-croatian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "Weight: Males and females: 13 - 20 kg."
+          locator: "Size and Weight: Males and females 13-20 kg"
         },
         {
-          id: "hks-hrvatski-ovcar-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Težina: Mužjaci i ženke: 13 do 20 kg"
-        },
-        {
-          id: "ukc-croatian-shepherd-dog-breed-standard",
-          role: "verified",
-          locator: "Weight: Weight is in proportion to height, approximately 29 to 44 pounds (approx. 13-20 kg)"
+          locator: "breed.weight.metric (13-20 kg)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Preserved in published unit of kilograms (13 to 20 kg for both males and females) exactly as specified in the official FCI Standard No. 277 and HKS standard."
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-croatian-shepherd-dog-official-standard",
+          role: "verified",
+          locator: "Size and Weight: Males and females 13-20 kg"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric (13-20 kg)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-croatian-sheepdog-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Life Expectancy: 12-14 years"
-        },
-        {
-          id: "croatian-sheepdog-morphology-health-study-2019",
-          role: "verified",
-          locator: "Longevity and working health actuarial profile (12-14 years)"
+          locator: "breed.life_span (12-14 years)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Supported by kennel club and veterinary actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
-    "physical.sheddingLevel": {
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-croatian-shepherd-dog-official-standard",
+          role: "verified",
+          locator: "Coat (wavy or curly double coat on body; short smooth hair on head and face)"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.description (wavy or curly black coat)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatLength": {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-croatian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
-        },
+          locator: "Coat Length: Medium"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
         {
           id: "fci-croatian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "COAT: Dense double coat with soft undercoat"
+          locator: "Colour: Black (small white markings on chest or toes permitted)"
+        },
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Breed Colors: Black (007)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "GET /breeds/{id}/colours"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
+      note: "Discarded 16 non-black species-wide colours from The Dog API endpoint because the Croatian Sheepdog is strictly black."
+    },
+
+    "physical.sheddingLevel": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "cited",
+          locator: "Grooming section"
+        }
+      ],
+      verifiedOn: null,
       note: null
     },
 
     "physical.droolingLevel": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "cited",
+          locator: "Breed traits"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "physical.distinctiveFeatures": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-croatian-shepherd-dog-official-standard",
+          id: "fci-croatian-shepherd-dog-education-2014",
           role: "verified",
-          locator: "Lips: Dry, close-fitting with dark pigment"
+          locator: "Important proportions, head, eyes, ears (pricked or semi-pricked 3/5 erect, 2/5 folded)"
         },
         {
-          id: "hks-hrvatski-ovcar-breed-standard",
+          id: "fci-croatian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "Usne: Suhe, priljubljene, crno pigmentirane"
+          locator: "Coat contrast and tail"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Dry, tightly fitting lips result in minimal drooling."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "temperament.traits": {
-      reliability: "official_standard",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-croatian-shepherd-dog-official-standard",
+          id: "akc-croatian-sheepdog-breed-profile",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Lively, attentive, modest, easily trained, courageous, devoted to master"
+          locator: "About the Breed and Training sections (loyal, active, alert, intelligent, biddable, eager to please, sensibly suspicious)"
         },
         {
-          id: "hks-hrvatski-ovcar-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Karakter: Živahan, oprezan, skroman, lako se odgaja, odan gospodaru"
-        },
-        {
-          id: "ukc-croatian-shepherd-dog-breed-standard",
-          role: "verified",
-          locator: "Temperament: Alert, agile, devoted, courageous, easily trained"
+          locator: "breed.temperament"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -680,36 +741,11 @@ export const croatian_sheepdog: Breed = {
         {
           id: "akc-croatian-sheepdog-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "hks-hrvatski-ovcar-breed-standard",
-          role: "cited",
-          locator: "Ponašanje i radne osobine"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented working sheepdog temperament, high energy, and eager trainability."
-    },
-
-    care: {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-croatian-sheepdog-breed-profile",
-          role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "hks-hrvatski-ovcar-breed-standard",
-          role: "cited",
-          locator: "Održavanje, radni uvjeti i prehrana"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Combines active pastoral sheepdog management with wavy-coat grooming protocols."
+      note: "Editorial 1-5 scale estimates informed by kennel club temperament profiles."
     },
 
     "care.exercise.level": {
@@ -718,35 +754,128 @@ export const croatian_sheepdog: Breed = {
         {
           id: "akc-croatian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Energy Level (5/5); Exercise Needs (5/5)"
-        },
-        {
-          id: "fci-croatian-shepherd-dog-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Working sheepdog with tireless endurance"
+          locator: "Exercise section (very energetic, extraordinary jumping ability)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "care.exercise.minutesPerDay": {
-      reliability: "estimate",
+      reliability: "general_guidance",
       sources: [
         {
           id: "akc-croatian-sheepdog-breed-profile",
           role: "cited",
-          locator: "Exercise requirements for active herding breeds"
-        },
-        {
-          id: "hks-hrvatski-ovcar-breed-standard",
-          role: "cited",
-          locator: "Dnevne potrebe za kretanjem i radom"
+          locator: "Exercise section"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic working herder."
+      note: "General daily exercise range for a high-energy herding dog."
+    },
+
+    "care.exercise.activities": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Exercise section (flyball, obedience, herding, frisbee, running)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.level": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Grooming section (easily cared for, wash-and-wear)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.brushing": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Grooming section (combing or brushing to remove dead hair)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.bathing": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Grooming section (occasional baths)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.grooming.notes": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "cited",
+          locator: "Grooming section"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.training.difficulty": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Training section (very trainable and eager to please)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.training.tips": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "verified",
+          locator: "Exercise and Training sections (mischievous digging if under-exercised, jumping ability, trainable)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "care.training.socialization": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "akc-croatian-sheepdog-breed-profile",
+          role: "cited",
+          locator: "Training section"
+        }
+      ],
+      verifiedOn: null,
+      note: null
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -755,64 +884,42 @@ export const croatian_sheepdog: Breed = {
         {
           id: "akc-croatian-sheepdog-breed-profile",
           role: "cited",
-          locator: "High energy, working drive, and vocal watchdog alertness"
-        },
-        {
-          id: "hks-hrvatski-ovcar-breed-standard",
-          role: "cited",
-          locator: "Preporučeni uvjeti držanja: kuća s dvorištem"
+          locator: "Exercise and Training sections (very energetic, watchdog)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that high physical energy, herding drive, and vocal alerts make apartment living generally unsuitable."
+      note: "Editorial assessment that high herding energy and alert barking suit a house with a yard."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "akc-croatian-sheepdog-breed-profile",
-          role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
-        },
-        {
-          id: "hks-hrvatski-ovcar-breed-standard",
-          role: "verified",
-          locator: "Potreba za otvorenim ograđenim prostorom"
-        }
-      ],
-      verifiedOn: "2026-11-11",
-      note: null
-    },
-
-    "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-croatian-shepherd-dog-official-standard",
-          role: "verified",
-          locator: "COAT: Dense double coat adapted to continental weather"
-        },
-        {
-          id: "hks-hrvatski-ovcar-breed-standard",
-          role: "verified",
-          locator: "Otpornost na slavonske vremenske prilike"
-        }
-      ],
-      verifiedOn: "2026-11-11",
-      note: null
-    },
-
-    "care.livingEnvironment.aloneTimeTolerance": {
       reliability: "general_guidance",
       sources: [
         {
           id: "akc-croatian-sheepdog-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate; closely bonded companion"
+          locator: "Exercise section"
         }
       ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.livingEnvironment.climates": {
+      reliability: "general_guidance",
+      sources: [
+        {
+          id: "fci-croatian-shepherd-dog-education-2014",
+          role: "cited",
+          locator: "Adapted to Slavonian conditions"
+        }
+      ],
+      verifiedOn: null,
+      note: null
+    },
+
+    "care.livingEnvironment.aloneTimeTolerance": {
+      reliability: "general_guidance",
+      sources: [],
       verifiedOn: null,
       note: null
     },
@@ -823,149 +930,99 @@ export const croatian_sheepdog: Breed = {
         {
           id: "akc-croatian-sheepdog-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
+          locator: "Nutrition section"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium-sized working herding breeds."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-croatian-sheepdog-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "croatian-sheepdog-morphology-health-study-2019",
+          id: "akc-croatian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Constitutional hardiness, morphometry, and health evaluation of Croatian Sheepdogs"
+          locator: "Health section (overall healthy breed)"
         },
         {
-          id: "hks-hrvatski-ovcar-breed-standard",
+          id: "pmc-canine-tbxt-bobtail-review-2025",
           role: "verified",
-          locator: "Zdravlje, dugovječnost i aveljski program HKS-a"
+          locator: "Section 3.7 (TBXT natural bobtail mutation and homozygous embryonic reabsorption)"
+        },
+        {
+          id: "croatian-sheepdog-morphology-health-study-2019",
+          role: "cited",
+          locator: "Veterinarski arhiv Croatian Sheepdog hematology/clinical baseline study"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Synthesizes peer-reviewed veterinary health research with national kennel club screening protocols."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "croatian-sheepdog-morphology-health-study-2019",
+          id: "pmc-canine-tbxt-bobtail-review-2025",
           role: "verified",
-          locator: "Hip dysplasia, patellar luxation, natural bobtail genetics, and athletic injuries"
+          locator: "Section 3.7 (TBXT bobtail genetics and breeding guidance)"
         },
         {
           id: "akc-croatian-sheepdog-breed-profile",
-          role: "verified",
-          locator: "General health overview and joint considerations"
+          role: "cited",
+          locator: "Health section"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-21",
+      note: "Distinguishes established canine TBXT bobtail breeding genetics from general active-breed orthopedic and ocular monitoring."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "croatian-sheepdog-morphology-health-study-2019",
+          id: "pmc-canine-tbxt-bobtail-review-2025",
           role: "cited",
-          locator: "Preventive care, bobtail mating management, joint health, and ear hygiene"
-        },
-        {
-          id: "akc-croatian-sheepdog-breed-profile",
-          role: "cited",
-          locator: "Routine wellness and veterinary checks"
+          locator: "Bobtail pairing management"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to active medium working sheepdogs."
+      note: null
     },
 
     "health.recommendedScreenings": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
-          id: "croatian-sheepdog-morphology-health-study-2019",
-          role: "verified",
-          locator: "Pre-breeding screenings: Radiographic hip evaluation, patellar grading, ophthalmic examination"
-        },
-        {
-          id: "hks-hrvatski-ovcar-breed-standard",
-          role: "verified",
-          locator: "Uzgojni pregledi: HD snimanje i kontrola očiju"
+          id: "pmc-canine-tbxt-bobtail-review-2025",
+          role: "cited",
+          locator: "TBXT bobtail breeding considerations"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Screenings summarize published parent club and national kennel club protocols."
+      verifiedOn: null,
+      note: null
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-croatian-shepherd-dog-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete scissor bite with 42 teeth"
-        },
-        {
-          id: "akc-croatian-sheepdog-breed-profile",
-          role: "cited",
-          locator: "Routine dental care"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-croatian-shepherd-dog-official-standard",
-          role: "cited",
-          locator: "Ears: triangular, prick or semi-prick, set high"
-        },
-        {
-          id: "akc-croatian-sheepdog-breed-profile",
-          role: "cited",
-          locator: "Ear hygiene and inspection"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note: "Routine ear care protocol for erect prick ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
-      sources: [
-        {
-          id: "fci-croatian-shepherd-dog-official-standard",
-          role: "cited",
-          locator: "Skin elastic, without folds; wavy coat structure"
-        }
-      ],
+      sources: [],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -974,40 +1031,29 @@ export const croatian_sheepdog: Breed = {
         {
           id: "akc-croatian-sheepdog-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "hks-hrvatski-ovcar-breed-standard",
-          role: "cited",
-          locator: "Prikladnost za rad i obitelj"
+          locator: "Exercise and Training sections"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+      note: "Editorial household suitability assessment based on high energy, jumping ability, and watchdog nature."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "hks-hrvatski-ovcar-breed-standard",
+          id: "fci-croatian-shepherd-dog-education-2014",
           role: "verified",
-          locator: "Zapis biskupa Petra 1374, Canis pastoralis croaticus, dr. Stjepan Romić 1935, prirodni bobtail"
+          locator: "Historical summary (1374 Bishop Petar, 1719 Petar Bakić, 1935 Prof. Stjepan Romić, 1949 Zagreb show)"
         },
         {
           id: "akc-croatian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Agility speed, short-haired head contrast, national stamp icon"
-        },
-        {
-          id: "fci-croatian-shepherd-dog-official-standard",
-          role: "verified",
-          locator: "Brief historical summary: Ancient Slavonian working sheepdog"
+          locator: "About the Breed and Exercise sections (running across backs of sheep, extraordinary jumping ability)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     faq: {
@@ -1016,24 +1062,23 @@ export const croatian_sheepdog: Breed = {
         {
           id: "fci-croatian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "Origin, size (40-50 cm), weight (13-20 kg), coat, and color"
-        },
-        {
-          id: "hks-hrvatski-ovcar-breed-standard",
-          role: "verified",
-          locator: "Bobtail genetics, lifespan (12-14 years), and working herding traits"
+          locator: "Size (40-50 cm) and Weight (13-20 kg)"
         },
         {
           id: "akc-croatian-sheepdog-breed-profile",
           role: "verified",
-          locator: "Family suitability, apartment living, exercise needs, and training"
+          locator: "Grooming, Exercise, and Training sections"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "Lifespan (12-14 years)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-21",
+      note: null
     }
   },
 
-  updatedOn: "2026-11-11"
+  updatedOn: "2026-11-21"
 };

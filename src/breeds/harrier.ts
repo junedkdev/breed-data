@@ -6,17 +6,16 @@ export const harrier: Breed = {
   scientificName: "Canis lupus familiaris",
 
   alternateNames: [
-    "English Harrier",
-    "Hare Hound"
+    "Hare Hound",
+    "English Harrier"
   ],
 
-  group:
-    "Scenthounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial; also classified in the Hound and Scenthound groups)",
+  group: "Medium-Sized Scenthound (Hound)",
 
   origin: {
     country: "Great Britain",
     region:
-      "England, United Kingdom (historical Yorkshire, Cheshire, and southern English hare-hunting districts)"
+      "England (historically associated with Yorkshire and rural hare-hunting districts across England)"
   },
 
   images: [
@@ -26,58 +25,58 @@ export const harrier: Breed = {
         "https://commons.wikimedia.org/wiki/File:Harrier_tricolour.jpg",
       title: "Harrier tricolour.jpg",
       description:
-        "An adult tricolour Harrier standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
-      licenseId: "cc-by-sa-3.0",
+        "An adult tricolour Harrier photographed outdoors.",
+      creator: "Smcmilla (edited by Pharaoh Hound)",
+      uploader: "Pharaoh Hound",
+      capturedOn: null,
+      uploadedOn: "2007-03-09",
+      width: 540,
+      height: 500,
+      licenseId: "public-domain",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Harrier_tricolour.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Smcmilla (edited by Pharaoh Hound), Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:Harrier_tricolour.jpg.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-21"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Harrier_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Harrier_Hound_-Pedigree_Harrier.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Harrier_600.jpg",
-      title: "Harrier 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Harrier_Hound_-Pedigree_Harrier.jpg",
+      title: "Harrier Hound -Pedigree Harrier.jpg",
       description:
-        "A Harrier standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
-      licenseId: "cc-by-sa-3.0",
+        "A pedigree tricolour Harrier standing outdoors in profile.",
+      creator: "Evforce",
+      uploader: "Evforce",
+      capturedOn: "2021-10-22",
+      uploadedOn: null,
+      width: 3072,
+      height: 4608,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Harrier_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Evforce, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Harrier_Hound_-Pedigree_Harrier.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "A classic, medium-sized British scenthound built for tireless endurance and methodical tracking, renowned for its tricolour coat, sweet nature, ringing bay, and historic heritage of hunting hares in mounted or foot packs.",
+      "A medium-sized British scenthound bred for steady stamina and scent-tracking endurance, known for its smooth hound coat, friendly pack nature, and clear baying voice.",
 
     description:
-      "The Harrier is an athletic, well-knit, and substantial medium-sized scenthound intermediate in proportions and build between the smaller Beagle and the larger English Foxhound. Developed over centuries in the English countryside to pursue hares across open fields, moors, and wooded valleys, the hound combines bone and stamina with free, untiring movement. Its body is slightly rectangular and muscular, featuring a deep chest, firm level topline, and strong straight forelegs. The coat is short, flat, hard, and dense, typically displaying a tricolour pattern with a black mantle over a white ground with tan shadings, or bicolour markings of white and lemon or red. The head is noble and well-proportioned with a flat skull, moderate stop, dark hazel or brown eyes radiating a gentle, friendly expression, and medium-length V-shaped drop ears set level with the eye line. While passionate and single-minded on a scent trail, it settles into an exceptionally sweet-tempered, cooperative, and pack-oriented companion in the home.",
+      "The Harrier is a compact, strongly built, and well-balanced scenthound that sits squarely between the smaller Beagle and the larger English Foxhound in height and frame. Shaped by centuries of pursuing hares and rabbits across varied British terrain, it pairs solid bone and deep lung capacity with smooth, ground-covering movement. Its short, dense, weatherproof coat lies flat over a muscular, unexaggerated body with a deep chest reaching below the elbows, well-sprung ribs, a level topline with a slight arch over the loin, and straight, well-boned legs. The head is cleanly modeled with a fairly broad skull tapering gently toward a rectangular muzzle, bright oval eyes whose shade harmonizes with the coat, and drop ears hanging close to the cheeks. Indoors, this outgoing hound is cheerful, gentle, and eager for companionship, though its nose quickly takes charge once outdoors.",
 
     history:
-      "The breed has an ancient lineage rooted in medieval England, where early records date back to 1260 when Sir Elias de Midhope founded the famous Penistone pack in Yorkshire. Early breeders selected deliberate, methodical tracking hounds by crossing the historical Talbot Hound, Southern Hound, and early French scenthounds introduced during the Norman conquest. As hunting traditions evolved, hounds were later infused with English Foxhound blood to increase running speed across open downs. The Association of Masters of Harriers and Beagles was formed in Great Britain in 1891 to manage working pack studbooks. While the larger Foxhound pursued foxes with mounted riders and the smaller Beagle was followed on foot, the Harrier occupied a versatile middle ground, equally suited to foot-hunters and mounted sportsmen. Although purebred registrations in conformation registries became rare in Britain during the twentieth century due to working pack isolation, dedicated sportsmen in France, Europe, and North America preserved and standardized the breed as a premier working scenthound and affectionate companion.",
+      "Harriers belong to England's long tradition of pack scenthounds, with historical accounts tracing the Penistone pack in Yorkshire to Sir Elias de Midhope around 1260. The name itself stems from the Norman word 'harier', referring to a hunting hound. Over the centuries, British breeders refined medium-sized packs capable of working hares and rabbits steadily across open country, followed either on foot or on horseback; during the nineteenth century, some lines were crossed with Foxhounds to add pace for mounted followers. British packs were historically maintained in working hunting studbooks rather than conformation rings, leaving the breed relatively uncommon in modern British show entries even as dedicated breeders in France, continental Europe, and North America—where the hound has been used since colonial times—preserved its athletic build and friendly temperament.",
 
     originalPurpose:
-      "Hunting European brown hares in organized packs across open fields, downland, and rolling countryside by scent tracking and driving quarry to hunters.",
+      "Hunting hare and rabbit in organized packs across varied countryside by scenting and trailing quarry with steady stamina.",
 
     currentRoles: [
-      "Traditional hare and fox tracking pack hound",
-      "Blood tracking, search, and wounded game trailing partner",
-      "Devoted family pet for active outdoor households",
-      "Canine athlete in tracking trials, scentwork, and endurance hiking"
+      "Pack and drag-hunt scenthound",
+      "Scentwork, tracking, and trailing sport partner",
+      "Active family companion for outdoor-oriented households",
+      "Canine athlete in rally, coursing ability tests, and long-distance hiking"
     ]
   },
 
@@ -99,12 +98,12 @@ export const harrier: Breed = {
     weight: {
       unit: "kg",
       male: {
-        min: 22,
+        min: 20,
         max: 27
       },
       female: {
         min: 20,
-        max: 25
+        max: 27
       }
     },
 
@@ -114,53 +113,53 @@ export const harrier: Breed = {
     },
 
     coatType:
-      "Short, flat, hard, and dense double coat lying smoothly against the body, offering weather protection without being harsh or wire-like; ears are covered in finer, soft hair.",
+      "Short, dense, flat-lying, and weatherproof smooth coat with a glossy finish; hair on the ears is finer and softer.",
 
     coatLength: "Short",
 
     coatColors: [
-      "Tricolour (white ground with black blanket or patches and warm tan shadings)",
-      "White and orange (bicolour)",
-      "White and lemon",
-      "White and red",
-      "Hare-pie (white ground mottled with brown, grey, and fawn shadings)",
-      "Badger-pie (white ground with dark greyish-brown badger shadings)"
+      "Tri-colour (black, white, and tan)",
+      "Lemon and white",
+      "Red and white",
+      "Black and tan",
+      "Badger pied",
+      "White",
+      "Blue mottle (occasional recognised hound marking)"
     ],
 
     sheddingLevel:
-      "Moderate year-round shedding; sheds short smooth hairs that are easily managed with weekly brushing",
+      "Moderate year-round shedding; short, smooth hairs loosen steadily and stay tidy with weekly brushing",
 
     droolingLevel:
-      "Low to moderate; clean, moderately deep lips produce minimal drool except after drinking or strenuous scenting",
+      "Low; clean cheeks and moderate flews produce little drool outside of drinking or heavy exercise",
 
     distinctiveFeatures: [
-      "Substantial, athletic scenthound outline intermediate in size between the Beagle and English Foxhound",
-      "Height at the withers of 48 to 55 cm for both males and females",
-      "Working weight of 22 to 27 kg for males and 20 to 25 kg for females in conditioned athletic form",
-      "Short, dense, glossy coat predominantly in tricolour, bicolour, or traditional hare-pie markings",
-      "Noble, balanced head with a flat skull, moderate stop, and strong, square muzzle",
-      "Complete, regular scissor bite with powerful jaws and sound teeth",
-      "Medium-sized, oval dark hazel or dark brown eyes expressing an alert, sweet, and gentle disposition",
-      "Medium-length, V-shaped drop ears set level with the eye line, hanging flat against the cheeks with rounded tips",
-      "Deep, spacious chest extending to the elbows with well-sprung ribs and a firm, level topline",
-      "Long, muscular neck widening cleanly into well-laid-back shoulders without excess throatiness",
-      "Strong tail of moderate length, carried cheerfully in an upward sickle curve without curling over the back",
-      "Straight, heavy-boned forelegs and powerful thighs with round, compact cat-like feet and thick pads"
+      "Compact, muscular scenthound build positioned between the Beagle and the English Foxhound in size",
+      "Height at the withers of 48 to 55 cm",
+      "Athletic working weight of 20 to 27 kg",
+      "Short, dense, glossy, weatherproof coat in traditional hound colours and markings",
+      "Long, refined head with a moderately broad skull, slight stop, clean cheeks, and rectangular muzzle",
+      "Large nose with wide, open nostrils built for sustained scenting",
+      "Bright, deeply set oval eyes harmonising with the coat colour and showing a lively, friendly expression",
+      "Drop ears hanging neatly along the head with soft, finer hair",
+      "Deep chest extending below the elbows, long well-sprung ribcage, and a level topline with a slight arch over the muscular loin",
+      "Long, clean, slightly arched neck allowing the hound to lower its nose effortlessly to the ground",
+      "Long tail set on and carried high in a fairly straight line, never curled over the back",
+      "Straight, clean-cut, well-boned forelegs, short strong pasterns, and compact, durable feet"
     ]
   },
 
   temperament: {
     traits: [
-      "Friendly, outgoing, and gentle in everyday family life",
-      "Deeply loyal, affectionate, and people-oriented companion",
-      "Tireless, methodical, and tenacious worker on scent trails",
-      "Deep, resonant, and musical baying voice used during tracking",
-      "Exceptional pack sociability, coexisting peacefully with other hounds",
-      "Patient, sturdy, and tolerant companion for respectful children",
-      "Independent problem-solver with natural scenting autonomy",
-      "High prey drive toward small wild mammals, rabbits, and running quarry",
-      "Courteous and welcoming with unfamiliar strangers, making a poor guard dog",
-      "Stubborn and single-minded when following an enticing scent line"
+      "Friendly, cheerful, and people-oriented in daily home life",
+      "Outgoing and sociable with other dogs thanks to generations of pack living",
+      "Energetic and stamina-driven outdoors, happiest when given a job to follow",
+      "Gentle and sturdy companion for households with supervised children",
+      "Intelligent and curious, yet independent-minded when a fresh scent catches its interest",
+      "Persistent and focused while trailing, often tuning out verbal cues once locked onto a track",
+      "Vocal with a carrying, musical hound bay",
+      "Strong instinct to chase rabbits, squirrels, and other fast-moving small animals",
+      "Polite and welcoming toward visitors rather than territorial or protective"
     ],
 
     scores: {
@@ -172,27 +171,27 @@ export const harrier: Breed = {
       independence: 4,
       trainability: 3,
       barking: 4,
-      energy: 4
+      energy: 5
     }
   },
 
   care: {
     exercise: {
       level:
-        "High; an energetic and endurance-driven hunting hound requiring substantial daily physical exertion and extensive olfactory enrichment",
+        "High; an endurance-bred scenthound that needs generous daily aerobic movement plus regular scent-based mental outlets",
 
       minutesPerDay: {
-        min: 60,
-        max: 90
+        min: 90,
+        max: 120
       },
 
       activities: [
-        "Daily long leashed walks and structured trail hiking with generous sniffing time",
-        "Free running and scent exploration in a securely fenced yard or paddock",
-        "Tracking, blood tracking, and scentwork search games",
-        "Canine sports including rally, agility, and lure coursing",
-        "Pack walks and group play sessions alongside other energetic dogs",
-        "Interactive fetch, ball retrieving, and food puzzle challenges"
+        "Brisk daily leashed walks and countryside hikes with dedicated sniffing breaks",
+        "Supervised running and exploration inside a tall, securely fenced yard",
+        "Structured tracking, scentwork, and nose-search games",
+        "Dog sports such as rally, coursing ability tests, and agility",
+        "Social group walks or play sessions with compatible dogs",
+        "Interactive food-dispensing puzzles and scent-hide toys between outings"
       ]
     },
 
@@ -200,36 +199,35 @@ export const harrier: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once or twice weekly with a rubber curry comb, hound glove, or medium bristle brush to remove loose hairs, distribute natural skin oils, and maintain coat shine.",
+        "Brush weekly with a soft-bristle brush or rubber hound glove to sweep away loose hair and keep the short coat glossy.",
 
       bathing:
-        "Bathe every six to eight weeks or when soiled after muddy outdoor trails, using a mild canine shampoo.",
+        "Bathe occasionally—roughly every six to eight weeks or after muddy field outings—using a gentle canine shampoo.",
 
       notes: [
-        "The short smooth coat requires minimal maintenance and dries quickly after getting wet.",
-        "Inspect the drop ears weekly for moisture, wax buildup, or debris, wiping gently with an approved veterinary cleanser.",
-        "Check paw pads, toes, and skin for thorns or burrs after running through dense brambles or woodland brush.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain correct cat-like foot posture.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "Wipe the coat down with a damp towel or chamois leather after walks to lift dust and restore gloss."
+        "The short, flat coat sheds dirt easily and needs no clipping or professional trimming.",
+        "Check and gently clean the pendant ears once a week to prevent wax, debris, or trapped moisture.",
+        "Inspect paws, pads, and ear edges after brushy trail walks for thorns, burrs, or small scrapes.",
+        "Trim nails regularly so they stay short and do not interfere with the hound's stride.",
+        "Brush teeth frequently with dog-safe enzymatic toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; highly intelligent, food-motivated, and good-natured, but possesses independent scenthound stubbornness that requires patient, reward-based leadership",
+        "Moderate; bright, eager for food rewards, and good-humoured, yet independent enough to require calm, consistent leadership",
 
       tips: [
-        "Use positive reinforcement, high-value aromatic food treats, and cheerful encouragement.",
-        "Keep training sessions concise, upbeat, and varied (5 to 10 minutes) to prevent mental boredom.",
-        "Always exercise within a securely fenced area or on a sturdy leash; an interesting scent will trigger selective deafness and instant pursuit.",
-        "Practice recall conditioning from early puppyhood on a long line, using high-value rewards.",
-        "Teach a quiet command early to help manage natural hound baying habits.",
-        "Never use harsh verbal reprimands or physical coercion, which cause this sensitive hound to lose trust and withdraw."
+        "Lead with positive reinforcement, tasty treats, and upbeat praise rather than harsh corrections.",
+        "Keep obedience lessons brief, varied, and engaging so the hound stays focused.",
+        "Rely on a sturdy leash or a securely enclosed yard outdoors; an intriguing trail can override recall.",
+        "Build recall habits early on a long training line in low-distraction areas before progressing outdoors.",
+        "Introduce a reliable 'quiet' cue early to channel vocal hound habits.",
+        "Channel scenting instincts constructively through nosework and tracking exercises."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs of all sizes, household sounds, vehicles, and novel outdoor environments. Early structured socialization develops an outgoing, stable adult that is friendly with strangers and poised in public."
+        "Begin gentle, positive exposure during puppyhood to varied people, friendly vaccinated dogs, everyday noises, and unfamiliar outdoor settings. Early, steady socialization reinforces the breed's naturally outgoing, confident disposition."
     },
 
     livingEnvironment: {
@@ -238,81 +236,79 @@ export const harrier: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool climates, where the dense double coat provides adequate thermal protection",
-        "Warm climates, provided indoor cooling, shade, and fresh water are available and exercise is scheduled during cooler hours"
+        "Cool climates, where the dense, weatherproof coat offers reliable field protection during active movement",
+        "Warm climates, provided shade, fresh water, indoor cooling, and early or late exercise scheduling are maintained"
       ],
 
       aloneTimeTolerance:
-        "Moderate when provided with sufficient physical exercise and comfortable surroundings, though prolonged isolation can provoke boredom baying or digging."
+        "Low to moderate; bred to live and work in company, this hound can grow bored and noisy if left isolated for long stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized active working or hound breeds, adjusted for age, activity level, and metabolic rate.",
+      "Complete and balanced commercial dog food formulated for active medium-sized breeds, tailored to life stage and daily workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals daily until about six months of age, then transitioning to two measured meals per day.",
       adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
+        "Two measured meals per day to maintain steady energy and comfortable digestion.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily calibrated for lower caloric burn while preserving lean muscle."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Scenthounds possess robust appetites and will readily overeat if allowed free access to food. Divide daily food into two distinct meals, restrict vigorous running immediately before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Weigh or measure every meal rather than free-feeding, since food-driven scenthounds gain excess weight easily. Keep the dog in lean, athletic condition with an easily felt ribcage and visible waist. Splitting the daily ration into two meals and allowing quiet rest before and after eating helps support digestive safety in deep-chested dogs.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on hips and stifles.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water, especially during warm-weather exercise.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep weight lean to protect hip joints and maintain field endurance.",
+      "Count training treats toward the total daily calorie allowance.",
+      "Avoid vigorous running right before or after meals as a precaution against bloat.",
+      "Skip rich, greasy table scraps that can upset digestion.",
+      "Keep cool, fresh water readily available during and after active outings.",
+      "Switch diets gradually over five to seven days to avoid stomach upset."
     ],
 
     note:
-      "Caloric needs vary significantly based on outdoor temperature, tracking activity, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Daily calorie needs shift considerably between active trail seasons and quieter periods. Consult a veterinarian for an individualized feeding plan."
   },
 
   health: {
     overview:
-      "The Harrier is a hardy, robust, and long-lived scenthound with a typical life expectancy of 12 to 15 years. Having been cultivated for centuries as a functional working pack hound in the English countryside, it enjoys excellent constitutional vigor and has largely avoided artificial extremes. Primary health considerations focus on orthopedic screening for hip and elbow dysplasia, routine ear care for drop ears prone to otitis externa, ophthalmic examinations for hereditary eye conditions, and monitoring for bloat in deep-chested individuals.",
+      "The Harrier is generally a sturdy, long-lived hound with a typical life expectancy of 12 to 15 years and no major conformational exaggerations. Responsible breeding prioritizes orthopedic screening for hip dysplasia and regular specialist eye examinations, while everyday preventive care focuses on drop-ear hygiene, weight management, and bloat-aware feeding habits.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb lameness, monitored through pre-breeding radiographic screening",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by drop ears that restrict ventilation and trap moisture in the canal",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in deep-chested hounds, requiring emergency veterinary care",
-      "Primary epilepsy — inherited seizure disorder occasionally documented in hound lines, managed through veterinary neurological evaluation and medication",
-      "Eye conditions — rare reports of cataracts or progressive retinal atrophy (PRA), monitored through certified ophthalmologist examinations",
-      "Traumatic outdoor injuries — minor cuts, punctures, or ear leather tears sustained while pushing through dense briars during scentwork"
+      "Hip dysplasia — an inherited developmental looseness of the hip joint that can progress to arthritis; screened via pre-breeding radiographic hip evaluations",
+      "Hereditary eye disorders — conditions such as cataracts or progressive retinal atrophy (PRA) are monitored through periodic examinations by a veterinary ophthalmologist",
+      "Otitis externa (outer ear infections) — a conformational risk shared by drop-eared hounds, as folded ear flaps restrict airflow and retain moisture",
+      "Gastric dilatation-volvulus (GDV / bloat) — a life-threatening stomach distension and twisting risk seen across deep-chested breeds, requiring emergency veterinary treatment",
+      "Minor outdoor field injuries — scratches, paw pad cuts, or ear-tip nicks picked up while moving through brambles and rough cover"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip and elbow clearances, alongside current specialist eye examinations.",
-      "Inspect and thoroughly dry the drop ears weekly, wiping canals with an approved veterinary ear wash.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding parents have completed radiographic hip evaluations and current specialist eye examinations.",
+      "Inspect and dry the drop ears weekly, cleaning gently with a veterinarian-approved solution when needed.",
+      "Keep body weight lean and well-muscled to reduce stress on joints over a long lifespan.",
+      "Divide daily food into two measured meals and schedule calm rest around mealtime.",
+      "Maintain year-round veterinary parasite prevention against ticks, fleas, and heartworm.",
+      "Book routine annual veterinary checkups and keep core vaccinations up to date."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Clinical cardiovascular auscultation by a veterinarian"
+      "Radiographic hip evaluation prior to breeding",
+      "Periodic eye examination by a board-certified veterinary ophthalmologist",
+      "Routine veterinary wellness and cardiovascular checkups"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong, wide jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week using dog-safe enzymatic toothpaste, and pair home care with routine veterinary oral exams to keep gums and teeth healthy.",
 
     earCare:
-      "Inspect the V-shaped drop ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Lift and inspect the hanging ears weekly for odour, redness, wax buildup, or dampness after wet walks, wiping gently with a veterinarian-recommended cleanser.",
 
     skinCare:
-      "Part the short coat weekly during brushing to inspect the skin for external parasites, redness, or scratches. Check ear margins and undercarriage after woodland runs for ticks and briars."
+      "Run a brush through the short coat weekly to inspect the skin for ticks, scrapes, or irritation, checking the undercarriage and ear margins closely after woodland walks."
   },
 
   suitability: {
@@ -323,88 +319,90 @@ export const harrier: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, hikers, and runners who can provide daily physical exercise and scent games",
-      "Families with children seeking a gentle, patient, and sweet-tempered companion",
-      "Homes with a large, securely fenced yard of at least five to six feet in height",
-      "Multi-dog households that appreciate pack-friendly hound dynamics",
-      "Enthusiasts of tracking, blood tracking, and scentwork dog sports"
+      "Active households, hikers, and joggers ready to commit to generous daily outdoor exercise",
+      "Families with children looking for a cheerful, sturdy, and affectionate dog",
+      "Homes with a securely fenced yard where a scent-driven hound cannot slip out",
+      "Multi-dog homes that benefit from a naturally pack-friendly temperament",
+      "Owners interested in tracking, nosework, rally, or coursing sports"
     ],
 
     notIdealFor: [
-      "Sedentary individuals looking for a low-exercise indoor lap dog",
-      "Apartment or condominium dwellers where ringing hound baying may disturb neighbors",
-      "Households with loose outdoor pet rabbits, guinea pigs, or small pets vulnerable to hound prey drive",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People seeking an aggressive guard dog"
+      "Quiet or sedentary households seeking a low-energy indoor companion",
+      "Apartments or close-quarters housing where carrying hound bays may disturb neighbours",
+      "Homes with free-roaming pet rabbits, rodents, or other small prey animals",
+      "Schedules that leave the dog alone for long workdays without companionship or exercise",
+      "Owners wanting an aloof or protective watchdog"
     ]
   },
 
   funFacts: [
-    "The Harrier's name is derived from the Norman French word 'harier', meaning to pursue or harass, reflecting its ancient function of persistently tracking hares across open downs.",
-    "One of the oldest recorded dog packs in the world was the Penistone pack of Harriers, established in Yorkshire, England, by Sir Elias de Midhope around the year 1260 and maintained for over five centuries.",
-    "The Harrier is affectionately described in canine literature as 'a Beagle on stilts' or 'a Foxhound in a smaller package', perfectly blending the sweet, gentle expression of the Beagle with the athletic frame of the Foxhound.",
-    "Unlike the Foxhound which was primarily bred to hunt with mounted riders, Harriers were historically bred to be followed either on horseback or by hunters on foot, making them exceptionally versatile field partners.",
-    "Harriers possess a melodious, bell-like bay that allowed medieval hunters to follow the pack's progress through dense cover without visual contact.",
-    "Despite being one of England's oldest native breeds, purebred Harriers became quite rare in modern British conformation shows because most working packs were registered strictly in hunting pack studbooks rather than show registries."
+    "The breed's name traces back to the Norman word 'harier', meaning a hunting hound, reflecting centuries of pack work across the English countryside.",
+    "One of England's earliest documented packs was the Penistone Harrier pack in Yorkshire, founded by Sir Elias de Midhope in 1260.",
+    "Because the Harrier stands neatly between the Beagle and the English Foxhound, fans have long nicknamed it a 'Beagle on stilts' or a scaled-down Foxhound.",
+    "Historically, Harrier packs were versatile enough to be followed either on foot or on horseback, and they have also been used in North America since colonial times.",
+    "A Harrier's carrying, musical bay helped hunters track the pack's path through valleys and hedgerows even when the hounds were out of sight.",
+    "Despite being one of Britain's oldest native hound breeds, Harriers remain uncommon in modern pet homes compared with Beagles."
   ],
 
   faq: [
     {
-      question: "What is a Harrier?",
+      question: "What kind of dog is a Harrier?",
       answer:
-        "The Harrier is a medium-sized British scenthound bred for hare hunting, recognized for its tricolour coat, athletic build, gentle disposition, and melodious tracking voice."
+        "The Harrier is a medium-sized British scenthound originally developed to hunt hares and rabbits in packs. It is known for its smooth coat, athletic stamina, friendly pack nature, and carrying bay."
     },
     {
-      question: "What is the difference between a Harrier, a Beagle, and an English Foxhound?",
+      question: "How does a Harrier differ from a Beagle and an English Foxhound?",
       answer:
-        "Size is the primary difference: the Beagle stands up to 38 to 40 cm, the Harrier stands 48 to 55 cm, and the English Foxhound stands 58 to 69 cm; the Harrier combines the gentle head and sweet nature of the Beagle with the speed and athletic proportions of the Foxhound."
+        "Size and pace set them apart: the Harrier sits directly between the smaller Beagle and the taller English Foxhound, combining the Beagle's approachable, friendly outlook with a longer-legged, faster frame."
     },
     {
-      question: "How tall and heavy is a Harrier?",
+      question: "How tall and heavy does a Harrier get?",
       answer:
-        "Adult males and females stand 48 to 55 cm at the withers, with males weighing 22 to 27 kg and females weighing 20 to 25 kg in lean, athletic condition."
+        "Adults typically stand 48 to 55 cm at the withers and weigh 20 to 27 kg in lean, athletic condition."
     },
     {
-      question: "How long does a Harrier live?",
+      question: "What is the average lifespan of a Harrier?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+        "A well-cared-for Harrier typically lives 12 to 15 years."
     },
     {
-      question: "Do Harriers shed a lot, and how are they groomed?",
+      question: "How much grooming does a Harrier require?",
       answer:
-        "They shed moderately year-round. Their short, dense coat is low-maintenance, requiring only a weekly brushing with a rubber hound mitt, regular ear cleaning, and occasional nail trimming."
+        "Grooming is straightforward. The short, dense coat sheds moderately and needs only weekly brushing with a soft brush or hound glove, alongside weekly ear checks, regular nail trims, and frequent tooth brushing."
     },
     {
-      question: "Can a Harrier live in an apartment?",
+      question: "Are Harriers suited to apartment living?",
       answer:
-        "Generally no. Due to their high exercise requirements, pack instincts, and resonant baying voice, they are not suited to apartment living and thrive best in a home with a securely fenced yard."
+        "Usually not. Their high exercise requirements, strong scenting drive, and resonant baying voice make them much better suited to a house with a securely fenced yard."
     },
     {
-      question: "Are Harriers good family pets and good with children?",
+      question: "Do Harriers get along with children and other dogs?",
       answer:
-        "Yes. They are famously sweet-tempered, tolerant, and affectionate with children; their pack heritage also makes them exceptionally sociable and peaceful with other dogs."
+        "Yes. Bred to work harmoniously in packs, Harriers are typically outgoing, patient, and gentle with children and very sociable with other dogs, though small pet animals like rabbits can trigger their chase instinct."
     },
     {
-      question: "Is the Harrier easy to train?",
+      question: "How easy is it to train a Harrier?",
       answer:
-        "They are intelligent, friendly, and food-motivated, but have an independent hound mindset. Once an enticing scent catches their nose, they can exhibit selective hearing; training requires patience, variety, and reward-based methods."
+        "Harriers are bright and motivated by food rewards, which helps with positive-reinforcement training, but their independent nose means recall outdoors can be unreliable once they catch an exciting scent."
     },
     {
-      question: "How much exercise does a Harrier need each day?",
+      question: "How much daily exercise does a Harrier need?",
       answer:
-        "The breed requires 60 to 90 minutes of daily physical activity, including brisk leashed walks, free running in a secure area, and scent exploration games."
+        "Plan on roughly 90 to 120 minutes of daily activity—and often over two hours for high-drive individuals—combining brisk leashed walks, secure yard time, and sniffing or tracking games."
     },
     {
-      question: "What health tests are recommended for breeding Harriers?",
+      question: "Which health screenings are recommended for Harriers?",
       answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, and annual veterinary ophthalmologist eye exams."
+        "Pre-breeding health screening focuses on radiographic hip evaluations and periodic examinations by a board-certified veterinary ophthalmologist, complemented by routine veterinary wellness care."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-harrier-official-standard",
     "fci-harrier-nomenclature",
     "the-kennel-club-harrier-breed-standard",
+    "rkc-harrier-breed-profile",
     "akc-harrier-breed-standard",
     "akc-harrier-breed-profile",
     "ukc-harrier-breed-standard",
@@ -412,25 +410,32 @@ export const harrier: Breed = {
     "club-du-beagle-harrier-et-harrier-profile",
     "ofa-harrier-health-screenings",
     "wikimedia-harrier-tricolour-lilly-m",
-    "wikimedia-harrier-600-tomasz-sienicki"
+    "wikimedia-harrier-pedigree-evforce",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Scientific Name: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Verified standard domestic-dog trinomial taxonomy across the catalog."
     },
 
     alternateNames: {
-      reliability: "official_standard",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-harrier-official-standard",
+          id: "rkc-harrier-breed-profile",
           role: "verified",
-          locator: "Standard heading: HARRIER"
+          locator: "About the breed: known in some quarters as 'Hare Hound'"
         },
         {
           id: "fci-harrier-nomenclature",
@@ -438,32 +443,23 @@ export const harrier: Breed = {
           locator: "Official nomenclature: HARRIER (295)"
         },
         {
-          id: "the-kennel-club-harrier-breed-standard",
-          role: "verified",
-          locator: "Breed name: Harrier"
-        },
-        {
-          id: "akc-harrier-breed-profile",
-          role: "verified",
-          locator: "History: English Harrier, Hare Hound"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "alternateNames: [] (empty; no alternate names listed)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified across FCI Standard No. 295, FCI Nomenclature, The Royal Kennel Club, and AKC."
+      verifiedOn: "2026-11-21",
+      note:
+        "'Hare Hound' is directly documented by The Royal Kennel Club; 'English Harrier' is a standard English descriptive synonym."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-harrier-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial"
-        },
-        {
           id: "fci-harrier-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial"
+          locator: "Group n°6 - Scent hounds and related breeds; Section: Scent hounds; Subsection: Medium-sized Hounds; Subject to a working trial"
         },
         {
           id: "the-kennel-club-harrier-breed-standard",
@@ -471,100 +467,111 @@ export const harrier: Breed = {
           locator: "Hound Group"
         },
         {
-          id: "akc-harrier-breed-standard",
+          id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "Hound Group"
+          locator: "Hound Group (recognized 1885)"
         },
         {
           id: "ukc-harrier-breed-standard",
           role: "verified",
           locator: "Scenthound Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "group: Hound"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group wording omits kennel-club names and numeric section labels per Rule 5."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-harrier-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Great Britain; BRIEF HISTORICAL SUMMARY"
-        },
-        {
           id: "fci-harrier-nomenclature",
           role: "verified",
-          locator: "Country of origin: Great Britain"
+          locator: "Country of origin of the breed: GREAT BRITAIN; definitive acceptance 1974-11-27"
         },
         {
-          id: "the-kennel-club-harrier-breed-standard",
+          id: "rkc-harrier-breed-profile",
           role: "verified",
-          locator: "Origin and development in Great Britain"
+          locator: "British hare-hunting heritage dating to the 13th century"
         },
         {
           id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "History: English origins dating back to the 13th century"
+          locator: "History: 1260 Penistone pack in Yorkshire, England"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "origin.country: England (official FCI nomenclature lists Great Britain)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: null
+      verifiedOn: "2026-11-21",
+      note:
+        "Preserved 'Great Britain' per official FCI nomenclature; England is specified in origin.region."
     },
 
     overview: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-harrier-official-standard",
-          role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
           id: "the-kennel-club-harrier-breed-standard",
           role: "verified",
-          locator: "General Appearance, Characteristics, Temperament"
+          locator: "General appearance, Characteristics, Temperament, Head and Skull, Body, Coat"
+        },
+        {
+          id: "rkc-harrier-breed-profile",
+          role: "verified",
+          locator: "Breed history, intermediate size between Foxhound and Beagle, 19th-century Foxhound interbreeding"
         },
         {
           id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (1260 Penistone pack), and Roles"
+          locator: "About the Breed, History (1260 Penistone pack, Norman 'harier', U.S. colonial use, drag hunts, tracking/rally/coursing)"
         },
         {
           id: "club-du-beagle-harrier-et-harrier-profile",
           role: "verified",
-          locator: "Historique et travail en meute du Harrier"
+          locator: "Le Harrier — French parent club breed profile (2018-07-15)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Synthesized in original prose from FCI Standard No. 295, The Royal Kennel Club, AKC, and French parent club records."
+        "Written in completely original prose verified across RKC, AKC, FCI, and SCC/French parent club publications."
     },
 
     physical: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-harrier-official-standard",
-          role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
-        },
-        {
           id: "the-kennel-club-harrier-breed-standard",
           role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Body, Tail, Coat, Colour, Size"
+          locator: "General appearance, Head and Skull, Eyes, Neck, Forequarters, Body, Tail, Coat (short, dense and weatherproof), Colour (any recognised hound colours)"
         },
         {
-          id: "akc-harrier-breed-standard",
+          id: "rkc-harrier-breed-profile",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Coat, Color"
+          locator: "Breed Standard colours: Badger Pied, Black & Tan, Lemon & White, Red & White, Tri-colour, White"
+        },
+        {
+          id: "akc-harrier-breed-profile",
+          role: "verified",
+          locator: "Colors: Black White & Tan, Lemon & White, Red & White, plus occasional blue mottle"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "coatColors lists 17 generic canine colors including Chocolate, Brindle, Merle, and Cream; non-standard colors were excluded"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Conformation, rectangular build, short dense coat, drop ears, and distinctive features follow official standards."
+        "Removed unverified 'double coat' claim from earlier draft; RKC describes the coat as short, dense, and weatherproof. Excluded non-standard colors from The Dog API."
     },
 
     "physical.height": {
@@ -573,22 +580,32 @@ export const harrier: Breed = {
         {
           id: "fci-harrier-official-standard",
           role: "verified",
-          locator: "SIZE: Height: From 48 to 55 cm (19 to 21.5 ins)."
+          locator: "SIZE: 48 to 55 cm (ideally 48 to 50 cm)"
+        },
+        {
+          id: "scc-harrier-breed-profile",
+          role: "verified",
+          locator: "Taille: 0.48 à 0.53 m with +2 cm tolerance for exceptional specimens (up to 55 cm)"
         },
         {
           id: "the-kennel-club-harrier-breed-standard",
-          role: "verified",
-          locator: "Size: Height: 48-55 cms (19-21.5 ins)"
+          role: "conflicting",
+          locator: "Ideal height: dogs 53 cms (21 ins); bitches 48 cms (19 ins), with a tolerance of 2.5cm (1in) smaller"
         },
         {
-          id: "akc-harrier-breed-standard",
-          role: "verified",
-          locator: "Height: 19 to 21 inches (approx. 48-53.5 cm)"
+          id: "akc-harrier-breed-profile",
+          role: "conflicting",
+          locator: "Height: 19–21 inches"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height: 48–53 cm (omits the 55 cm upper tolerance published in FCI Standard No. 295)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Preserved in published unit of centimetres (48–55 cm for both males and females) exactly as specified in the official FCI Standard No. 295 and The Royal Kennel Club standard."
+        "Preserved 48–55 cm in published centimetres per FCI Standard No. 295 (and SCC's 48–53 cm + 2 cm tolerance). RKC publishes sex-specific ideal heights (53 cm males, 48 cm females, with 2.5 cm downward tolerance), and AKC publishes 19–21 inches."
     },
 
     "physical.weight": {
@@ -597,22 +614,22 @@ export const harrier: Breed = {
         {
           id: "scc-harrier-breed-profile",
           role: "verified",
-          locator: "Poids indicatif: de 20 à 27 kg environ"
-        },
-        {
-          id: "club-du-beagle-harrier-et-harrier-profile",
-          role: "verified",
-          locator: "Poids moyen de travail: 20-27 kg (mâles 22-27 kg, femelles 20-25 kg)"
+          locator: "Indicative weight range: 20 to 27 kg"
         },
         {
           id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "Weight: 45 to 60 pounds (approx. 20-27 kg)"
+          locator: "Weight: 45–60 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "weight: 20–27 kg (breed-wide)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "FCI Standard No. 295 specifies height without fixing a numerical weight. The stored 22 to 27 kg for males and 20 to 25 kg for females represent canonical figures published by national parent breed clubs, preserved in kilograms."
+        "Neither FCI Standard No. 295 nor RKC fixes a numerical weight. Replaced the unverified sex-split draft figures (22–27 kg / 20–25 kg) with the published breed-wide 20–27 kg range."
     },
 
     "physical.lifespanYears": {
@@ -621,16 +638,16 @@ export const harrier: Breed = {
         {
           id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-15 years"
+          locator: "Life Expectancy: 12–15 years"
         },
         {
-          id: "the-kennel-club-harrier-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longevity and health profile (12-15 years)"
+          locator: "lifespanYears: 12–15"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Supported by kennel club and parent club actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: "Consistent across AKC and The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -639,15 +656,15 @@ export const harrier: Breed = {
         {
           id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
+          locator: "Grooming: short glossy coat, minimal maintenance, weekly brushing"
         },
         {
-          id: "fci-harrier-official-standard",
+          id: "the-kennel-club-harrier-breed-standard",
           role: "verified",
-          locator: "COAT: Flat, not too short, dense"
+          locator: "Coat: Short, dense and weatherproof"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -655,40 +672,35 @@ export const harrier: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-harrier-official-standard",
+          id: "the-kennel-club-harrier-breed-standard",
           role: "verified",
-          locator: "Lips: Covering the lower jaw; not excessively deep"
-        },
-        {
-          id: "akc-harrier-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Drooling Level (2/5)"
+          locator: "Head and Skull: Clean cheeks; flews not excessive"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Moderately deep lips result in low to moderate drooling."
+      verifiedOn: "2026-11-21",
+      note: "Clean cheeks and non-excessive flews correspond to low drooling."
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-harrier-official-standard",
-          role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Scenthound, hunting hare and fox in packs, friendly, intelligent, cooperative"
-        },
-        {
           id: "the-kennel-club-harrier-breed-standard",
           role: "verified",
-          locator: "Characteristics and Temperament: Alert, friendly, not aggressive or timid"
+          locator: "Temperament: Friendly, lively; aggression or nervousness unacceptable"
         },
         {
-          id: "akc-harrier-breed-standard",
+          id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "Temperament: Outgoing, friendly, pack-oriented, gentle"
+          locator: "Temperament: friendly, outgoing, people-oriented, independent/stubborn, pack-oriented"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "temperament.traits: Friendly, outgoing, energetic, intelligent, gentle"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -698,17 +710,17 @@ export const harrier: Breed = {
         {
           id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed traits, high exercise needs, friendly and independent scenthound profile"
         },
         {
-          id: "the-kennel-club-harrier-breed-standard",
+          id: "rkc-harrier-breed-profile",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Exercise: More than 2 hours per day; pack-hound characteristics"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented hound temperament, friendly nature, and pack orientation."
+        "Editorial 1–5 scores synthesized from verified temperament and exercise profiles; energy updated to 5 to reflect RKC's >2 hours/day exercise demand."
     },
 
     care: {
@@ -717,34 +729,34 @@ export const harrier: Breed = {
         {
           id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming, Exercise, Training, and Health care guidance"
         },
         {
-          id: "club-du-beagle-harrier-et-harrier-profile",
+          id: "rkc-harrier-breed-profile",
           role: "cited",
-          locator: "Entretien, exercice et vie en famille"
+          locator: "Exercise (>2 hours/day) and care overview"
         }
       ],
       verifiedOn: null,
       note:
-        "Combines active scenthound management with drop-ear hygiene and fence containment protocols."
+        "Combines kennel-club care recommendations with standard drop-ear and scenthound containment practices."
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-harrier-breed-profile",
+          id: "rkc-harrier-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
+          locator: "Exercise: More than 2 hours per day"
         },
         {
-          id: "fci-harrier-official-standard",
+          id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "UTILIZATION: Working scenthound of great endurance"
+          locator: "High exercise needs; securely fenced yard, leash walks, tracking, rally, coursing"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -752,19 +764,19 @@ export const harrier: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-harrier-breed-standard",
+          id: "rkc-harrier-breed-profile",
           role: "cited",
-          locator: "Exercise requirements: More than 1 hour per day"
+          locator: "Exercise: More than 2 hours per day"
         },
         {
           id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
+          locator: "High daily exercise requirements"
         }
       ],
       verifiedOn: null,
       note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic working hound."
+        "Updated from 60–90 to 90–120 minutes/day to better align with RKC's published 'More than 2 hours per day' recommendation."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -773,17 +785,17 @@ export const harrier: Breed = {
         {
           id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "High energy, ringing bay, and need for open movement"
+          locator: "High exercise needs, securely fenced yard recommendation, vocal hound nature"
         },
         {
-          id: "the-kennel-club-harrier-breed-standard",
+          id: "rkc-harrier-breed-profile",
           role: "cited",
-          locator: "Space and outdoor activity requirements"
+          locator: "More than 2 hours per day exercise demand"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial evaluation that high physical endurance, ringing bay, and scent wanderlust make apartment living generally unsuitable."
+        "Editorial suitability assessment based on exercise needs, yard containment, and vocal baying."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -792,10 +804,10 @@ export const harrier: Breed = {
         {
           id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations (minimum five to six foot fence)"
+          locator: "Securely fenced yard and leashed walks recommended"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -803,17 +815,12 @@ export const harrier: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-harrier-official-standard",
+          id: "the-kennel-club-harrier-breed-standard",
           role: "verified",
-          locator: "COAT: Short dense coat adapted to British climate"
-        },
-        {
-          id: "akc-harrier-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: well-adapted to temperate and cool climates"
+          locator: "Coat: Short, dense and weatherproof; built to hunt over different terrains"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -823,7 +830,7 @@ export const harrier: Breed = {
         {
           id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate; pack-oriented hound"
+          locator: "People-oriented and pack-oriented scenthound"
         }
       ],
       verifiedOn: null,
@@ -836,12 +843,12 @@ export const harrier: Breed = {
         {
           id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
+          locator: "General canine nutrition and portion-control guidance"
         }
       ],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for medium active working and sporting breeds."
+        "Standard feeding recommendations for active medium-sized scenthounds."
     },
 
     "nutrition.feedingFrequency": {
@@ -850,130 +857,130 @@ export const harrier: Breed = {
         {
           id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Life-stage feeding guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard canine life-stage meal schedule."
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-harrier-health-screenings",
-          role: "verified",
-          locator: "Veterinary health screening database: Hip Dysplasia, Eye examination, Elbow evaluation"
-        },
-        {
           id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "Health overview, hip dysplasia, and ear hygiene"
+          locator: "Generally healthy; recommended health tests: Hip Evaluation, Ophthalmologist Evaluation; life expectancy 12–15 years"
+        },
+        {
+          id: "rkc-harrier-breed-profile",
+          role: "verified",
+          locator: "Breed Watch: no points of concern"
+        },
+        {
+          id: "ofa-harrier-health-screenings",
+          role: "verified",
+          locator: "OFA CHIC Browse By Breed listing for Harrier (HAR)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Synthesizes health registry data with scenthound conformational health priorities."
+        "Distinguishes parent-club recommended screenings from general drop-ear and deep-chested conformational precautions."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-harrier-health-screenings",
-          role: "verified",
-          locator: "Hip dysplasia, eye conditions, elbow dysplasia"
-        },
-        {
           id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "Ear infections, bloat precautions, and joint health"
+          locator: "Hip Evaluation, Ophthalmologist Evaluation, weekly ear inspection/cleaning"
+        },
+        {
+          id: "ofa-harrier-health-screenings",
+          role: "verified",
+          locator: "Harrier health screening listing (hip and eye focus)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+        "Removed unverified claim of 'primary epilepsy' as a documented breed-wide condition and clearly separated screened hereditary risks from conformational precautions."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "ofa-harrier-health-screenings",
-          role: "cited",
-          locator: "Health screening, hip evaluations, eye checks"
-        },
-        {
           id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "Routine wellness, ear drying, and weight management"
+          locator: "Health screening, weekly ear inspection/cleaning, dental care"
+        },
+        {
+          id: "ofa-harrier-health-screenings",
+          role: "cited",
+          locator: "Pre-breeding health testing"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to active medium-sized scenthounds."
+      note: "Standard preventive care for active drop-eared scenthounds."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-harrier-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests from the National Breed Club: Hip Evaluation, Ophthalmologist Evaluation"
+        },
+        {
           id: "ofa-harrier-health-screenings",
           role: "verified",
-          locator: "Recommended evaluations: Radiographic Hip Dysplasia evaluation, CAER Eye examination, Elbow evaluation"
+          locator: "OFA breed screening portal for Harrier (HAR)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Screenings summarize published parent club and health registry protocols."
+        "Aligned strictly with published National Breed Club recommendations (Hip Evaluation and Ophthalmologist Evaluation), removing unverified mandatory elbow dysplasia screening."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-harrier-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete scissor bite with sound teeth"
-        },
-        {
           id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Grooming: frequent teeth brushing"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard home and veterinary dental hygiene guidance."
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-harrier-official-standard",
-          role: "cited",
-          locator: "Ears: V-shaped, flat, set fairly high"
-        },
-        {
           id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and moisture inspection"
+          locator: "Grooming: weekly ear inspection and cleaning"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: "Standard drop-ear hygiene protocol."
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-harrier-official-standard",
+          id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "Skin and smooth coat structure"
+          locator: "Grooming: weekly brushing and coat inspection"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: "General skin and short-coat inspection guidance."
     },
 
     suitability: {
@@ -982,17 +989,17 @@ export const harrier: Breed = {
         {
           id: "akc-harrier-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Temperament, exercise needs, securely fenced yard, family-oriented hound"
         },
         {
-          id: "the-kennel-club-harrier-breed-standard",
+          id: "rkc-harrier-breed-profile",
           role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
+          locator: "Exercise: More than 2 hours per day"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+        "Editorial suitability ratings based on verified exercise, containment, and temperament requirements."
     },
 
     funFacts: {
@@ -1001,21 +1008,16 @@ export const harrier: Breed = {
         {
           id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "1260 Penistone pack in Yorkshire, 'Beagle on stilts' moniker, bell-like bay, foot and mounted hunting versatility"
+          locator: "Did You Know & History: Norman 'harier', 1260 Penistone pack by Sir Elias de Midhope, U.S. colonial use"
         },
         {
-          id: "the-kennel-club-harrier-breed-standard",
+          id: "rkc-harrier-breed-profile",
           role: "verified",
-          locator: "History: English hare-hunting pack tradition"
-        },
-        {
-          id: "fci-harrier-official-standard",
-          role: "verified",
-          locator: "Brief historical summary: Medieval British scenthound development"
+          locator: "Intermediate size between Beagle and Foxhound, 13th-century history"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-21",
+      note: "Verified historical and breed-heritage facts written in original prose."
     },
 
     faq: {
@@ -1024,29 +1026,29 @@ export const harrier: Breed = {
         {
           id: "fci-harrier-official-standard",
           role: "verified",
-          locator: "Origin, size (48-55 cm), coat, and colors"
+          locator: "Height (48–55 cm) and medium-sized scenthound profile"
         },
         {
-          id: "the-kennel-club-harrier-breed-standard",
+          id: "rkc-harrier-breed-profile",
           role: "verified",
-          locator: "Comparison with Beagle and Foxhound, characteristics, and temperament"
+          locator: "Comparison with Beagle and Foxhound, >2 hours/day exercise"
         },
         {
           id: "akc-harrier-breed-profile",
           role: "verified",
-          locator: "Weight (20-27 kg / 45-60 lbs), family suitability, exercise needs, and training"
+          locator: "Lifespan (12–15 years), grooming, training, Hip & Ophthalmologist evaluations"
         },
         {
-          id: "ofa-harrier-health-screenings",
+          id: "scc-harrier-breed-profile",
           role: "verified",
-          locator: "Recommended health screening panel"
+          locator: "Weight range (20–27 kg)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and health registry data without naming registries in prose."
+        "Original FAQ answers grounded in verified standards and kennel club profiles without Rule 5 registry terms."
     }
   },
 
-  updatedOn: "2026-11-11"
+  updatedOn: "2026-11-21"
 };

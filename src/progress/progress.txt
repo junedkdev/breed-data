@@ -162,10 +162,10 @@
 159:fox_terrier_(smooth) - CG
 160:bolognese - CG
 161:belgian_shepherd_dog_(groenendael) - CG
+162:basset_bleu_de_gascogne - CG
+163:croatian_sheepdog - CG
+164:harrier - CG
 
-162:basset_bleu_de_gascogne - C
-163:croatian_sheepdog - C
-164:harrier - C
 165:peruvian_hairless_dog - C
 166:montenegrin_mountain_hound - C
 167:halden_hound - C
@@ -238,11 +238,11 @@
 234:catalan_sheepdog - C
 235:serbian_hound - C
 236:styrian_coarse-haired_hound - C
+237:keeshond - C
+238:east_siberian_laika - C
 
-237:keeshond - R
+239:basset_artesien_normand - R
 
-238:east_siberian_laika
-239:basset_artesien_normand
 240:irish_wolfhound
 241:burgos_pointer
 242:billy
