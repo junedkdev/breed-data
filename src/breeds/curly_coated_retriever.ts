@@ -7,78 +7,76 @@ export const curly_coated_retriever: Breed = {
 
   alternateNames: [
     "Curly",
-    "CCR",
     "Curly Retriever"
   ],
 
-  group:
-    "Gundogs; Section 1 — Retrievers (with working trial; also classified in the Sporting and Gun Dog groups)",
+  group: "Retrievers and Water Dogs (Sporting Gundog)",
 
   origin: {
     country: "Great Britain",
-    region: "England, United Kingdom"
+    region: "England"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Curly_Coated_Retriever.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Curley_coated_retriever5.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Curly_Coated_Retriever.jpg",
-      title: "Curly Coated Retriever.jpg",
+        "https://commons.wikimedia.org/wiki/File:Curley_coated_retriever5.jpg",
+      title: "Curley coated retriever5.jpg",
       description:
-        "An adult black Curly-Coated Retriever standing outdoors in profile.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2548,
-      height: 1868,
-      licenseId: "cc-by-sa-3.0",
+        "A Curly-Coated Retriever outdoors showing its tight curly body coat and smooth-haired face.",
+      creator: "Mattias Agar",
+      uploader: "Ltshears",
+      capturedOn: "2009-11-09",
+      uploadedOn: "2012-08-06",
+      width: 4752,
+      height: 3168,
+      licenseId: "cc-by-sa-2.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Curly_Coated_Retriever.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Mattias Agar, Wikimedia Commons, CC BY-SA 2.0. Source: https://commons.wikimedia.org/wiki/File:Curley_coated_retriever5.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Curly_Coated_Retriever_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Curly_coated_retriever_1.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Curly_Coated_Retriever_600.jpg",
-      title: "Curly Coated Retriever 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Curly_coated_retriever_1.jpg",
+      title: "Curly coated retriever 1.jpg",
       description:
-        "A black Curly-Coated Retriever standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
-      licenseId: "cc-by-sa-3.0",
+        "A Curly-Coated Retriever resting outdoors, highlighting its crisp ringlet coat texture.",
+      creator: "Mattias Agar",
+      uploader: "Ltshears",
+      capturedOn: "2009-12-17",
+      uploadedOn: "2012-08-06",
+      width: 3456,
+      height: 2304,
+      licenseId: "cc-by-sa-2.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Curly_Coated_Retriever_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Mattias Agar, Wikimedia Commons, CC BY-SA 2.0. Source: https://commons.wikimedia.org/wiki/File:Curly_coated_retriever_1.jpg. License: https://creativecommons.org/licenses/by-sa/2.0/.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "One of the oldest British retriever breeds, celebrated for its unique water-repellent jacket of small, tight, crisp curls, smooth-coated face, athletic stamina, and sensible, discerning, and self-reliant temperament.",
+      "A tall, long-established British water retriever recognized by its tight, crisp, weatherproof curls, smooth-haired face, athletic stamina, and self-assured, independent personality.",
 
     description:
-      "The Curly-Coated Retriever is a strong, upstanding, and athletic gundog displaying grace, power, and enduring substance in a balanced, slightly rectangular frame. Unlike all other retrievers, its body from occiput to tail tip is enveloped in a dense mass of small, crisp, and tight curls that lie close to the skin without an undercoat, providing exceptional water repellency and protection against thorny briars and icy waters. In striking contrast to the curly body, the face, foreface, front of the forelegs, and hocks are covered in smooth, short hair. The head is a modified wedge with a shallow stop, paired with large almond-shaped eyes harmonizing with coat color and small, curl-covered drop ears. Intelligent, composed, and independent, the breed combines passion and endurance in marshlands with a gentle, loyal, and dignified presence in the home.",
+      "The Curly-Coated Retriever is a strong, upstanding sporting dog that pairs muscular endurance with clean, agile lines on a frame slightly longer than it is tall. Its signature jacket consists of small, tight, crisp curls packed close to the skin from the back of the skull to the tail tip, with no undercoat and no bare patches. By contrast, the face, muzzle, front of the forelegs, and lower hind legs carry short, smooth hair. The head forms a clean wedge in both profile and front view, with equal skull and muzzle length, parallel planes, a slight stop, and large, oval, obliquely set eyes. Small drop ears sit slightly above eye level and lie close to the head. At work, the breed brings steady courage and tireless retrieving drive in cold water and heavy cover; at home, it is calm, loyal, and quietly discerning.",
 
     history:
-      "Recognized as one of the earliest distinct retriever breeds developed in the British Isles, the Curly-Coated Retriever has historical documentation tracing back to the late eighteenth and early nineteenth centuries. Gamekeepers and wildfowlers crossed the now-extinct English Water Spaniel and the St. John's Water Dog of Newfoundland with early Poodle and setter lines to create an unyielding water retriever capable of swimming long distances in freezing coastal waters and navigating impenetrable marshland thickets. The breed was among the very first retrievers to be exhibited in English dog shows, appearing at Birmingham in 1860. The first specialty club was established in England in 1896, and the breed was formally codified at the turn of the twentieth century. While other retriever breeds grew into mass companion popularity, the Curly has remained an authentic, unexaggerated working gundog cherished by wildfowlers, field trialers, and dedicated enthusiasts worldwide.",
+      "Widely considered the oldest and tallest of the British retrievers, the Curly-Coated Retriever took shape in England during the late eighteenth and early nineteenth centuries. Gamekeepers and waterfowl hunters blended the now-extinct English Water Spaniel with early retrieving stock linked to the St. John's Water Dog, later introducing Poodle ancestry to tighten and refine the waterproof curl. The breed appeared at England's earliest modern dog shows in Birmingham in 1860, was exported to New Zealand and Australia in 1889, and gained its first English specialty club in 1896. Although other retrievers later overtook it in companion popularity, the Curly has endured as a versatile working gundog and devoted family dog, today recognized as a low-population heritage breed in its homeland.",
 
     originalPurpose:
-      "Locating, flushing, and retrieving waterfowl, ducks, geese, and upland game from icy coastal estuaries, heavy marsh reeds, and dense briar thickets.",
+      "Finding and retrieving ducks, waterfowl, and upland game from icy water, coastal marshes, and dense bramble cover.",
 
     currentRoles: [
-      "Waterfowl and upland game retrieving gundog",
-      "Field trial and hunt test competitor",
-      "Devoted household companion and family protector",
-      "Search, rescue, and scent detection partner",
-      "Canine athlete in agility, dock diving, tracking, and rally"
+      "Waterfowl and upland game retriever",
+      "Field trial, hunt test, and working trial competitor",
+      "Active family companion and watchful household dog",
+      "Canine athlete in agility, obedience, rally, tracking, and dock diving",
+      "Scent-work and search partner"
     ]
   },
 
@@ -92,7 +90,7 @@ export const curly_coated_retriever: Breed = {
         max: 69
       },
       female: {
-        min: 59,
+        min: 58,
         max: 64
       }
     },
@@ -100,12 +98,12 @@ export const curly_coated_retriever: Breed = {
     weight: {
       unit: "kg",
       male: {
-        min: 32,
-        max: 41
+        min: 27,
+        max: 43
       },
       female: {
         min: 27,
-        max: 36
+        max: 43
       }
     },
 
@@ -115,49 +113,49 @@ export const curly_coated_retriever: Breed = {
     },
 
     coatType:
-      "Dense mass of small, crisp, tight curls lying close to the skin extending from the occiput to the tip of the tail, completely without undercoat; face, foreface, and front of limbs are covered in smooth, short hair.",
+      "Single coat without undercoat made of a thick mass of small, tight, crisp curls lying close to the skin from the occiput to the tail tip, with smooth, short hair on the face, foreface, and fronts of the legs.",
 
     coatLength: "Short",
 
     coatColors: [
-      "Solid black",
-      "Solid liver (rich reddish-brown / chocolate)"
+      "Black",
+      "Liver"
     ],
 
     sheddingLevel:
-      "Low to moderate; sheds minimally during regular periods, with slightly increased shedding during seasonal coat replacement twice yearly",
+      "Low to moderate; sheds lightly most of the year, with heavier seasonal coat drops—especially in females roughly every six months",
 
     droolingLevel:
-      "Low; tight, cleanly cut lips prevent drooling",
+      "Low; clean, tight lips keep slobber minimal",
 
     distinctiveFeatures: [
-      "Upstanding, well-balanced, and athletic retriever build combining substance and elegance",
-      "Height at the withers of 64 to 69 cm in males (ideal 69 cm) and 59 to 64 cm in females (ideal 64 cm)",
-      "Working weight of 32 to 41 kg for males and 27 to 36 kg for females in lean, conditioned form",
-      "Body completely covered in small, tight, crisp, water-repellent curls without undercoat or bare patches",
-      "Smooth, sleek, short hair on the head, face, and front of the legs providing a striking visual contrast to the curly body",
-      "Clean, long, wedge-shaped head with a flat skull, barely perceptible stop, and strong jaw",
-      "Complete scissor bite with strong jaws and sound, evenly spaced teeth",
-      "Large, almond-shaped eyes matching coat color (dark brown in black dogs, warm brown or hazel in liver dogs)",
-      "Small drop ears set slightly higher than the eye line, lying close to the cheeks and covered in short curls",
-      "Deep, oval chest reaching down to the elbows with well-sprung ribs",
-      "Tail set in line with the topline, carried nearly straight, tapering to the point and covered entirely in tight curls",
-      "Round, tight cat-like feet with well-arched webbed toes adapted for efficient swimming in marshland"
+      "Tall, upstanding, slightly rectangular athletic frame built for swimming and endurance",
+      "Height at the withers of 64 to 69 cm in males (ideal 69 cm) and 58 to 64 cm in females (ideal 64 cm)",
+      "Adult weight typically ranging from 27 to 43 kg in lean working condition",
+      "Thick single coat of small, tight, crisp, water-repellent curls from skull to tail tip with no undercoat or bare spots",
+      "Smooth, short hair on the face, muzzle, and front surfaces of the legs contrasting sharply with the curly body",
+      "Wedge-shaped head with equal skull and muzzle length, parallel planes, and a slight stop",
+      "Strong jaws with a regular, complete scissor bite",
+      "Large, oval, obliquely set eyes that are not prominent—dark brown in black dogs and a harmonizing brown shade in liver dogs",
+      "Small drop ears set slightly above eye level, lying close to the head and covered in small curls",
+      "Deep chest with well-sprung ribs and a strong, level topline",
+      "Straight, tapering tail reaching roughly to the hock and covered in curls",
+      "Round, compact feet with well-arched toes suited to water and rough ground"
     ]
   },
 
   temperament: {
     traits: [
-      "Sensible, composed, and self-confident",
-      "Deeply loyal, affectionate, and protective of family members",
-      "Independent and intelligent problem-solver with natural discernment",
-      "Alert, watchful, and reliable watchdog",
-      "Reserved and polite with unfamiliar strangers without aggression or timidity",
-      "Passionate water lover with an untiring drive to retrieve",
-      "Playful and gentle with familiar children",
-      "Cooperative and sociable with other dogs when properly socialized",
-      "Sensitive to handler emotional tone, requiring calm and consistent guidance",
-      "Less exuberantly needy than other retrievers, possessing a dignified, mature presence"
+      "Intelligent, balanced, and steady",
+      "Self-confident, bold, and independent",
+      "Loyal and affectionate with family members",
+      "Naturally reserved or aloof with unfamiliar people without shyness or aggression",
+      "Keen, persistent water retriever with strong working drive",
+      "Gentle and playful with familiar children",
+      "Alert and dependable watchdog",
+      "Calm and settled indoors once adequately exercised",
+      "Slow to mature emotionally, retaining playful energy into young adulthood",
+      "Sensitive to handler tone and responsive to fair, engaging leadership"
     ],
 
     scores: {
@@ -176,20 +174,19 @@ export const curly_coated_retriever: Breed = {
   care: {
     exercise: {
       level:
-        "High; an energetic and athletic hunting retriever requiring vigorous daily physical exercise and mental problem-solving to maintain indoor serenity",
+        "High; an athletic working retriever that needs vigorous daily physical outings and mental engagement to stay relaxed indoors",
 
       minutesPerDay: {
-        min: 60,
-        max: 90
+        min: 90,
+        max: 120
       },
 
       activities: [
-        "Daily long trail walks, hiking, and vigorous woodland runs",
-        "Swimming and water retrieving in lakes, ponds, or coastal waters",
-        "Field retriever training, bumper retrieving, and hunt test drills",
-        "Canine sports including agility, dock diving, tracking, and rally",
-        "Interactive fetch and long-range ball chasing in a secure yard",
-        "Scent-work challenges, puzzle toys, and complex obedience training"
+        "Swimming and water retrieving in safe lakes, rivers, or ponds",
+        "Brisk trail hikes, countryside walks, and structured off-lead runs in secure areas",
+        "Retrieving games, dummy work, and field-style memory drills",
+        "Dog sports such as agility, rally, obedience, tracking, and dock diving",
+        "Scent-detection games and interactive puzzle work"
       ]
     },
 
@@ -197,36 +194,34 @@ export const curly_coated_retriever: Breed = {
       level: "Low to moderate",
 
       brushing:
-        "Do not brush or comb the curly body coat, as brushing frizzes the curls and ruins the natural texture; instead, gently use a wide-toothed comb only when damp to remove burrs, followed by misting with water to allow the curls to reform naturally.",
+        "Avoid regular brushing, which breaks up the ringlets and makes the coat frizzy. During heavy seasonal sheds, a metal-prong rake or wide-toothed comb can clear dead hair, followed by wetting the coat and letting it air-dry so the curls reform.",
 
       bathing:
-        "Bathe only when necessary or soiled after muddy swims, using a mild canine shampoo; allow the coat to air dry naturally, as blow-drying frizzes the tight curls into an unnatural fluff.",
+        "Bathe only occasionally when muddy or odorous, using a gentle dog shampoo. Let the coat air-dry naturally rather than blow-drying, as forced warm air puffs out the curls.",
 
       notes: [
-        "Never blow-dry with high-velocity dryers or vigorously towel-rub the coat; wet curls should be gently squeezed and allowed to air-dry naturally to preserve their tight ringlet pattern.",
-        "Inspect the small drop ears weekly for moisture, wax buildup, or debris, especially after swimming, drying the canals thoroughly.",
-        "Check webbed paws, pads, and toes after hunting in dense briars or ice for cuts or embedded seeds.",
-        "Trim nails every two to three weeks to maintain correct compact foot structure.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "The coat naturally sheds dirt and mud once dry, making it remarkably low-maintenance for an active sporting breed."
+        "Wetting the coat with plain water and letting it air-dry restores neat, tight curls between baths.",
+        "Light scissoring around the ears, belly, legs, and tail is optional for tidiness.",
+        "Females often shed noticeably about twice a year and may look temporarily sparse before new curls grow in.",
+        "Check and thoroughly dry the small drop ears after every swim to reduce moisture buildup.",
+        "Trim nails every few weeks and check paws and toes for burrs or thorns after field outings."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; exceptionally intelligent, perceptive, and capable, but possesses an independent, mature mindset that can become bored by repetitive, mechanical drills",
+        "Moderate; highly intelligent and capable, yet independent enough to lose interest during overly repetitive drills",
 
       tips: [
-        "Use positive reinforcement, high-value rewards, and enthusiastic praise.",
-        "Keep instructional sessions short, varied, and purposeful to maintain high focus.",
-        "Incorporate water retrieving and scentwork to leverage natural working instincts.",
-        "Avoid repetitive drilling once a skill is mastered, as the dog will invent its own variations if bored.",
-        "Never use harsh corrections or physical intimidation, which cause this sensitive retriever to become stubborn and shut down.",
-        "Establish fair, consistent household boundaries from early puppyhood."
+        "Keep lessons firm, kind, upbeat, and varied so the dog stays mentally engaged.",
+        "Move on once a behavior is understood rather than repeating the same command endlessly.",
+        "Use retrieving, scent games, and food rewards as high-value motivators.",
+        "Skip harsh physical corrections, which can make this perceptive breed tune out or resist.",
+        "Start recall, leash manners, and impulse control early before full adult strength develops."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs, water environments, novel surfaces, and busy environments. Early structured socialization tempers natural aloofness and ensures the adult dog remains poised, self-assured, and welcoming in public."
+        "Provide broad, positive early exposure to unfamiliar people, calm dogs, varied surfaces, water, and everyday noises. Thoughtful socialization helps balance the breed's natural reserve so the adult dog stays composed and polite in new situations."
     },
 
     livingEnvironment: {
@@ -235,86 +230,86 @@ export const curly_coated_retriever: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool and rainy climates, where the dense water-repellent curls provide outstanding thermal insulation against icy water and cold winds",
-        "Warm climates, provided indoor cooling, shade, fresh water, and swimming opportunities are available and exercise is scheduled during cooler hours"
+        "Cool, wet climates where the tight curls shed icy water and resist dense cover",
+        "Warm climates when shade, fresh water, indoor cooling, and early-morning or evening exercise are provided"
       ],
 
       aloneTimeTolerance:
-        "Moderate when provided with sufficient physical exercise and comfortable resting quarters, though regular human companionship is essential to maintain emotional well-being."
+        "Low to moderate; settles well inside once exercised, but bonds closely with its people and does not thrive when left isolated for long stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large active sporting breeds, adjusted for age, metabolism, and daily working output.",
+      "Complete, balanced diet formulated for large, active adult dogs, matched to age, body condition, and seasonal workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a large-breed growth diet supporting steady skeletal development.",
+        "Three to four measured meals per day until about six months old on a large-breed growth formula, then two meals daily.",
       adult:
-        "Two measured meals daily to support steady energy and minimize digestive discomfort.",
+        "Two measured meals per day to maintain steady energy and avoid large single stomach loads.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals per day adjusted for lower activity while preserving lean muscle."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt through the curls. Divide daily food into two distinct meals, restrict vigorous running for at least one hour before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure every meal consistently and adjust portions so the ribs can be felt easily beneath the curls without excess fat. Split daily rations into two meals, keep vigorous exercise away from mealtimes to lower bloat risk, and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on hips and stifles.",
-      "Account for training treats within the total daily caloric allowance to avoid creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water, especially during warm-weather hunting or swimming sessions.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep the dog lean and well-muscled to protect hip and elbow joints over a long active life.",
+      "Avoid heavy running or swimming right before and for at least an hour after eating.",
+      "Count training treats toward the daily calorie total to prevent gradual weight gain.",
+      "Adjust calories upward during heavy field or swimming seasons and downward during quieter months.",
+      "Change foods gradually over five to seven days to avoid digestive upset."
     ],
 
     note:
-      "Caloric needs fluctuate substantially between sedentary home periods and active autumn hunting seasons. Work with a veterinarian to establish tailored daily feeding guidelines."
+      "Exact calorie needs vary widely between active field dogs and household companions; review portions and diet choices with a veterinarian."
   },
 
   health: {
     overview:
-      "The Curly-Coated Retriever is a robust, hardy gundog with a typical life expectancy of 10 to 12 years. Developed for demanding field and water work, it has maintained good constitutional vitality. Primary health considerations focus on conditions common to deep-chested retrievers—notably gastric dilatation-volvulus (GDV / bloat)—alongside orthopedic screening for hip and elbow dysplasia, hereditary eye diseases (such as progressive retinal atrophy, cataracts, and distichiasis), Exercise-Induced Collapse (EIC), Glycogen Storage Disease Type VII (PFKD), and pattern alopecia.",
+      "The Curly-Coated Retriever is generally a hardy sporting breed with a typical lifespan of 10 to 12 years. Scientifically established inherited conditions in the breed include Glycogen Storage Disease Type IIIa (linked to a mutation in the AGL gene), Exercise-Induced Collapse (linked to the DNM1 gene), and inherited cone-rod dystrophy causing progressive retinal atrophy. Other reported or monitored health concerns include gastric dilatation-volvulus (bloat), hip and elbow dysplasia, cardiac disease, eye disorders such as cataracts, cancer, and occasional coat thinning or pattern alopecia. Responsible breeding programs rely on joint, eye, cardiac, and DNA screening alongside careful attention to genetic diversity.",
 
     commonConditions: [
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in deep-chested sporting dogs, requiring emergency veterinary care",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb lameness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints causing forelimb lameness and secondary arthritis",
-      "Exercise-Induced Collapse (EIC) — an inherited neuromuscular disorder caused by a mutation in the DNM1 gene that leads to hind-limb weakness and collapse after intense exercise, screenable via DNA testing",
-      "Glycogen Storage Disease Type VII (GSD VII / PFK deficiency) — an inherited metabolic enzyme disorder affecting muscle energy metabolism and red blood cells, detectable via DNA screening",
-      "Progressive retinal atrophy (PRA) and hereditary cataracts — ocular conditions causing vision impairment, monitored through certified annual ophthalmologist examinations",
-      "Distichiasis and entropion — eyelid and eyelash abnormalities where hairs rub against the cornea",
-      "Follicular dysplasia / pattern baldness — symmetrical non-pruritic hair loss occasionally seen along the back and thighs in some curly-coated lines",
-      "Cardiac conditions — occasional reports of subaortic stenosis (SAS) evaluated via veterinary auscultation and echocardiography"
+      "Glycogen Storage Disease Type IIIa (GSD IIIa) — scientifically established autosomal recessive metabolic disorder caused by an AGL gene mutation that impairs glycogen debranching in liver and muscle, leading to exercise intolerance and collapse",
+      "Exercise-Induced Collapse (EIC) — scientifically established inherited neuromuscular condition linked to the DNM1 mutation that can trigger hind-limb weakness and collapse after intense exertion",
+      "Progressive Retinal Atrophy (including cone-rod dystrophy) — inherited retinal degeneration leading to progressive vision loss, screenable by DNA testing and specialist eye exams",
+      "Gastric dilatation-volvulus (GDV / bloat) — reported acute emergency in deep-chested dogs where the stomach distends and twists, requiring immediate veterinary intervention",
+      "Hip dysplasia — monitored developmental malformation of the hip joint that can lead to arthritis and hind-limb lameness",
+      "Elbow dysplasia — monitored developmental abnormality of the elbow joint that can cause forelimb lameness and osteoarthritis",
+      "Cardiac conditions — monitored heart abnormalities evaluated through specialist veterinary auscultation or echocardiography",
+      "Hereditary eye disorders (such as cataracts and eyelid or eyelash issues) — monitored through periodic veterinary ophthalmologist examinations",
+      "Cancer — reported as an important cause of illness in older dogs, making routine checkups and prompt evaluation of new lumps important",
+      "Pattern alopecia / follicular dysplasia — reported non-itchy coat thinning along the back or thighs in some individuals"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip and elbow clearances, current specialist eye certifications, and DNA clearances for EIC and GSD VII.",
-      "Feed two smaller meals daily and avoid vigorous running for at least one hour before and after eating to mitigate bloat risk.",
-      "Inspect and thoroughly dry the drop ears after every swim or wet field hunt, wiping canals with an approved veterinary cleanser.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Choose puppies from parents with verified hip, elbow, eye, cardiac, and DNA clearances for GSD IIIa, EIC, and cone-rod dystrophy.",
+      "Feed two measured meals daily and rest the dog before and after eating to help reduce bloat risk, and learn the emergency signs of GDV.",
+      "Dry the ears thoroughly after swimming and inspect them weekly for redness, odor, or debris.",
+      "Keep body weight lean to reduce long-term strain on hips, elbows, and the cardiovascular system.",
+      "Maintain year-round parasite prevention and annual veterinary wellness exams, checking promptly for new skin lumps or changes in stamina."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
+      "Radiographic hip dysplasia evaluation prior to breeding",
       "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "DNA marker test for Exercise-Induced Collapse (EIC / DNM1 mutation) prior to breeding",
-      "DNA marker test for Glycogen Storage Disease VII (GSD VII / PFK deficiency) prior to breeding",
-      "Cardiac examination including auscultation by a veterinary specialist"
+      "Periodic eye examination by a board-certified veterinary ophthalmologist",
+      "Cardiac examination (including echocardiography by a veterinary cardiologist) after maturity",
+      "DNA test for Glycogen Storage Disease Type IIIa (AGL mutation)",
+      "DNA test for Exercise-Induced Collapse (DNM1 mutation)",
+      "DNA test for Progressive Retinal Atrophy (cone-rod dystrophy)"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, wide jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with veterinary toothpaste and schedule routine dental checks during annual wellness visits.",
 
     earCare:
-      "Inspect the small drop ears weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather and canal opening thoroughly after swimming.",
+      "Inspect the small drop ears every week for wax, moisture, or irritation, and dry them carefully after every swimming session using a vet-approved ear cleanser when needed.",
 
     skinCare:
-      "Part the curls weekly to inspect the skin for external parasites, cuts, or dry patches. Do not brush the curls; allowing the coat to air-dry naturally maintains skin health and authentic coat texture."
+      "Part the curls regularly to check the skin for ticks, burrs, hot spots, or thinning patches, and let the coat air-dry naturally after getting wet."
   },
 
   suitability: {
@@ -325,131 +320,137 @@ export const curly_coated_retriever: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, wildfowlers, and hunters who can provide regular swimming and retrieving work",
-      "Experienced dog owners who appreciate a dignified, independent, and discerning sporting partner",
-      "Homes with large, securely fenced yards of at least five to six feet in height",
-      "Canine sports enthusiasts involved in agility, dock diving, tracking, or competitive hunt tests",
-      "Families seeking a loyal, protective, and calm home companion that is not overly demanding of constant attention"
+      "Active households, hikers, and waterfowl hunters who enjoy daily outdoor exercise and swimming",
+      "Experienced owners who appreciate an intelligent, self-reliant retriever rather than a constantly clingy dog",
+      "Homes with a large, securely fenced yard and regular access to safe swimming or open trails",
+      "Dog sport enthusiasts interested in retrieving trials, tracking, rally, agility, or dock diving",
+      "Families who want a loyal, calm indoor companion and can supervise energetic young dogs around small children"
     ],
 
     notIdealFor: [
-      "Sedentary individuals or first-time dog owners seeking an easy, submissive lap pet",
-      "Apartment or condominium dwellers without access to extensive outdoor swimming and running grounds",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People who prefer an unconditionally gregarious dog that greets unfamiliar strangers enthusiastically",
-      "Owners who insist on brushing or blow-drying a dog's coat straight"
+      "Sedentary households or first-time owners expecting an automatically submissive dog",
+      "Small apartments without reliable daily outdoor exercise and mental outlets",
+      "Owners who leave a dog alone for long workdays without companionship",
+      "People who want an overly outgoing dog that eagerly greets every stranger",
+      "Owners who prefer frequent brushing, blow-drying, or elaborate salon grooming"
     ]
   },
 
   funFacts: [
-    "The Curly-Coated Retriever is widely regarded by canine historians as the oldest of the recognized retriever breeds, appearing in British sporting art and records well before the Labrador or Golden Retriever.",
-    "Unlike most sporting retrievers that possess a soft, dense undercoat, the Curly has a single coat of crisp, tight ringlets directly against the skin, functioning like a natural wet-suit that sheds water and mud with a simple shake.",
-    "The breed was among the very first dogs exhibited at the world's earliest modern dog shows in England, premiering in Birmingham in 1860.",
-    "Australian sheep ranchers and duck hunters in the nineteenth century prized the Curly-Coated Retriever so highly for its water resistance and snake-resistant dense coat that it became known as the 'Murray River curly dog' in regional sporting lore.",
-    "The breed's coat care is counterintuitive to most owners: brushing is strictly avoided because it turns the tight curls into an unruly, frizzy fuzz; to groom, owners simply comb damp hair and let it air-dry to tighten the curls.",
-    "While black is the most common color, the breed also occurs in a rich, warm liver color, often accompanied by amber eyes that match the mahogany curls perfectly."
+    "The Curly-Coated Retriever is widely recognized as both the oldest and the tallest of the British retriever breeds.",
+    "Its coat is a single layer of tight, crisp ringlets with no undercoat, helping shed icy water and protect the skin from thorns in dense marsh cover.",
+    "Curly-Coated Retrievers were among the first retriever breeds exhibited at modern dog shows, debuting in Birmingham, England in 1860.",
+    "By 1889, the breed had already been exported to New Zealand and Australia, where it became a prized duck and upland retriever.",
+    "Unlike most long-coated sporting dogs, brushing a Curly's body coat is avoided because it turns the tight ringlets into frizz—a simple splash of water and air-drying restores the curls.",
+    "Despite its long heritage, the Curly-Coated Retriever remains rare today and is listed as a vulnerable native breed in its country of origin."
   ],
 
   faq: [
     {
-      question: "What is a Curly-Coated Retriever?",
+      question: "What makes the Curly-Coated Retriever different from other retrievers?",
       answer:
-        "The Curly-Coated Retriever is an ancient, large-sized British water retriever known for its distinctive coat of tight, crisp curls, smooth-faced profile, athletic swimming stamina, and loyal, sensible personality."
+        "It is taller than most retrievers, wears a single coat of small, tight curls with no undercoat and a smooth-haired face, and tends to be more independent and reserved with strangers while remaining deeply loyal to its family."
     },
     {
-      question: "How does the Curly-Coated Retriever differ from other retrievers?",
+      question: "How big does a Curly-Coated Retriever get?",
       answer:
-        "Unlike the Golden, Labrador, or Flat-Coated Retrievers, the Curly has a single coat composed entirely of small, tight curls without an undercoat, a smooth-coated face, and a more independent, dignified, and reserved temperament with strangers."
+        "Adult males typically stand 64 to 69 cm at the withers (ideal 69 cm) and females stand 58 to 64 cm (ideal 64 cm), with adult weights generally falling between 27 and 43 kg."
     },
     {
-      question: "How tall and heavy is a Curly-Coated Retriever?",
+      question: "What colors do Curly-Coated Retrievers come in?",
       answer:
-        "Adult males stand 64 to 69 cm at the withers (with an ideal height of 69 cm) and weigh 32 to 41 kg, while adult females stand 59 to 64 cm (ideal height 64 cm) and weigh 27 to 36 kg."
+        "The breed occurs in two traditional solid colors: black and liver (a rich brown shade)."
     },
     {
-      question: "How long does a Curly-Coated Retriever live?",
+      question: "How do you care for a Curly-Coated Retriever's coat?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 12 years."
+        "Skip routine brushing and blow-drying, which make the curls frizzy. Use a wide-toothed comb or metal rake only during seasonal sheds, bathe only as needed, and wet the coat and let it air-dry naturally to tighten the curls."
     },
     {
-      question: "How do you groom a Curly-Coated Retriever's coat?",
+      question: "How much exercise does a Curly-Coated Retriever need?",
       answer:
-        "Grooming is unique: you should never brush or blow-dry the curly body coat, as brushing ruins the curls; simply line-comb damp hair with a wide-toothed comb when needed, mist with water, and let the curls air-dry naturally into tight ringlets."
+        "Plan on roughly 90 to 120 minutes of daily physical and mental activity, such as brisk walks, swimming, retrieving games, or canine sports. Once exercised, most adults settle calmly indoors."
     },
     {
-      question: "Can a Curly-Coated Retriever live in an apartment?",
+      question: "Is a Curly-Coated Retriever good for apartments?",
       answer:
-        "No. Due to its large size, high energy, and deep need for physical activity and outdoor swimming, the breed is not suited to apartment living and thrives best in a house with a large, securely fenced yard."
+        "Generally no. Its large size, high exercise needs, and love of outdoor work make a house with a securely fenced yard a much better fit, though an exceptionally active owner can manage if daily exercise and companionship are guaranteed."
     },
     {
-      question: "Are Curly-Coated Retrievers good family pets and good with children?",
+      question: "Are Curly-Coated Retrievers good with children and families?",
       answer:
-        "Yes, with active families. They are loyal, gentle, and protective of their family members and patient with children; however, because they mature slowly and have an athletic build, interactions with toddlers should be supervised."
+        "Yes, they are loyal, gentle, and affectionate with their own families. Because they are large and mature slowly, supervise playtime with young children so exuberant movement does not accidentally knock toddlers over."
     },
     {
-      question: "Is the Curly-Coated Retriever easy to train?",
+      question: "How easy is it to train a Curly-Coated Retriever?",
       answer:
-        "They are very intelligent and eager to work, but have an independent mindset; they learn quickly but become bored by repetitive drills, responding best to varied, reward-based training and positive reinforcement."
+        "They are smart and learn quickly, but they get bored with repetitive drills. Short, upbeat, varied reward-based sessions that tap into their natural retrieving drive work best."
     },
     {
-      question: "Does the Curly-Coated Retriever love swimming?",
+      question: "How long do Curly-Coated Retrievers live?",
       answer:
-        "Yes. Water retrieving is an instinctual passion for the breed; their water-repellent curls, strong swimming thighs, and webbed feet make them supreme waterfowl retrievers in icy lakes and marshes."
+        "Most Curly-Coated Retrievers live about 10 to 12 years with good nutrition, regular exercise, and preventive veterinary care."
     },
     {
-      question: "What health tests are recommended for breeding Curly-Coated Retrievers?",
+      question: "What health screenings are important for Curly-Coated Retrievers?",
       answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, DNA testing for Exercise-Induced Collapse (EIC) and Glycogen Storage Disease VII (PFKD), and annual veterinary ophthalmologist eye exams."
+        "Key pre-breeding checks include hip and elbow evaluations, specialist eye and cardiac exams, and DNA tests for Glycogen Storage Disease Type IIIa (AGL), Exercise-Induced Collapse (DNM1), and progressive retinal atrophy (cone-rod dystrophy)."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-curly-coated-retriever-official-standard",
     "fci-curly-coated-retriever-nomenclature",
     "the-kennel-club-curly-coated-retriever-breed-standard",
+    "rkc-curly-coated-retriever-breed-profile",
     "akc-curly-coated-retriever-breed-standard",
     "akc-curly-coated-retriever-breed-profile",
     "curly-coated-retriever-club-of-america-health",
+    "ccrca-curly-coated-retriever-breeders-health-testing",
     "ofa-curly-coated-retriever-chic-requirements",
+    "pubmed-gregory-2007-ccr-gsd3a",
+    "boykin-spaniel-eic-dnm1-study-2011",
+    "the-dog-api",
     "wikimedia-curly-coated-retriever-lilly-m",
     "wikimedia-curly-coated-retriever-600-tomasz-sienicki"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxon record: Canis lupus familiaris (ITIS TSN 726821)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Verified domestic dog taxonomic name via NatureServe Explorer (ITIS TSN 726821)."
     },
 
     alternateNames: {
-      reliability: "official_standard",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-curly-coated-retriever-official-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Standard heading: CURLY COATED RETRIEVER"
-        },
-        {
-          id: "fci-curly-coated-retriever-nomenclature",
-          role: "verified",
-          locator: "Official nomenclature: CURLY COATED RETRIEVER (110)"
-        },
-        {
-          id: "the-kennel-club-curly-coated-retriever-breed-standard",
-          role: "verified",
-          locator: "Breed name: Retriever (Curly Coated)"
+          locator: "breed.alt_names: Curly"
         },
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "History: Curly, CCR"
+          locator: "About the Breed: Curly"
+        },
+        {
+          id: "fci-curly-coated-retriever-nomenclature",
+          role: "verified",
+          locator: "Official nomenclature: CURLY COATED RETRIEVER (No. 110)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 110, FCI Nomenclature, The Royal Kennel Club, and AKC."
+      verifiedOn: "2026-11-21",
+      note: "Common nickname 'Curly' verified across AKC and The Dog API."
     },
 
     group: {
@@ -458,12 +459,7 @@ export const curly_coated_retriever: Breed = {
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 1 Retrievers, with working trial"
-        },
-        {
-          id: "fci-curly-coated-retriever-nomenclature",
-          role: "verified",
-          locator: "Group 8, Section 1 Retrievers, with working trial"
+          locator: "Classification: Group 8 Retrievers, Flushing Dogs, Water Dogs; Section 1 Retrievers, with working trial"
         },
         {
           id: "the-kennel-club-curly-coated-retriever-breed-standard",
@@ -476,9 +472,8 @@ export const curly_coated_retriever: Breed = {
           locator: "Sporting Group"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-21",
+      note: "Written without registry names or numbered group labels in user-facing text."
     },
 
     origin: {
@@ -487,26 +482,26 @@ export const curly_coated_retriever: Breed = {
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "verified",
-          locator: "ORIGIN: Great Britain; BRIEF HISTORICAL SUMMARY"
+          locator: "Origin: Great Britain"
         },
         {
           id: "fci-curly-coated-retriever-nomenclature",
           role: "verified",
-          locator: "Country of origin: Great Britain"
+          locator: "Country of origin: Great Britain; definitive acceptance 1954-12-10"
         },
         {
-          id: "the-kennel-club-curly-coated-retriever-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Origin and development in Great Britain"
+          locator: "breed.origin: England"
         },
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "History: English origins dating back to the late 1700s"
+          locator: "History: developed in England"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: null
+      verifiedOn: "2026-11-21",
+      note: "FCI lists Great Britain as country of origin; historical development centered in England."
     },
 
     overview: {
@@ -515,22 +510,21 @@ export const curly_coated_retriever: Breed = {
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "General Appearance, Utilization, Brief Historical Summary, Behaviour/Temperament (valid 2026-09-08, published 2026-10-06)"
         },
         {
-          id: "the-kennel-club-curly-coated-retriever-breed-standard",
+          id: "rkc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "General Appearance, Characteristics, Temperament"
+          locator: "About this breed: oldest and tallest retriever, English Water Spaniel/retriever/Poodle ancestry, Vulnerable Native Breed"
         },
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (1860 Birmingham show debut, St. John's water dog), and Roles"
+          locator: "History: 1860 Birmingham show debut, 1889 export to New Zealand and Australia, 1896 English club"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesized in original prose from FCI Standard No. 110, The Royal Kennel Club, and AKC official records."
+      verifiedOn: "2026-11-21",
+      note: "Rewritten in original prose synthesizing FCI Standard No. 110 (2026), Royal Kennel Club, and AKC historical records."
     },
 
     physical: {
@@ -539,22 +533,21 @@ export const curly_coated_retriever: Breed = {
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator: "Head (wedge-shaped, oval obliquely set eyes, scissor bite), Ears, Body, Tail, Coat (tight crisp curls, no undercoat), Colour (Black or Liver only)"
         },
         {
           id: "the-kennel-club-curly-coated-retriever-breed-standard",
           role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Mouth, Body, Tail, Coat, Colour, Size"
+          locator: "Conformation, eyes (large, oval, obliquely set), coat, colour (black or liver), size"
         },
         {
-          id: "akc-curly-coated-retriever-breed-standard",
+          id: "rkc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "General Appearance, Size, Head, Coat, Color"
+          locator: "Size: Large; Colour Watch Category 0 (Black, Liver)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Conformation, crisp curl body, smooth face, black and liver colors, and distinctive features follow official standards."
+      verifiedOn: "2026-11-21",
+      note: "Corrected eye shape from 'almond-shaped' to 'oval, obliquely set' per FCI Standard No. 110 and Royal Kennel Club standard; restricted coat colors to Black and Liver (discarding generic multi-breed colors from The Dog API)."
     },
 
     "physical.height": {
@@ -563,41 +556,101 @@ export const curly_coated_retriever: Breed = {
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "verified",
-          locator: "SIZE: Height at the withers: Ideal height: Dogs: 69 cm. Bitches: 64 cm."
+          locator: "Size: Ideal height at withers — Dogs 69 cm, Bitches 64 cm"
         },
         {
-          id: "the-kennel-club-curly-coated-retriever-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Size: Ideal height at withers: dogs: 69 cms (27 ins); bitches: 64 cms (25 ins)"
+          locator: "breed.height.metric: male 64-69 cm, female 58-64 cm"
         },
         {
-          id: "akc-curly-coated-retriever-breed-standard",
-          role: "verified",
-          locator: "Height: Dogs: 25 to 27 inches (approx. 63.5-68.5 cm); Bitches: 23 to 25 inches (approx. 58.5-63.5 cm)"
+          id: "akc-curly-coated-retriever-breed-profile",
+          role: "cited",
+          locator: "Height: 25-27 inches (male), 23-25 inches (female)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Preserved in published unit of centimetres (64–69 cm for males, ideal 69 cm; 59–64 cm for females, ideal 64 cm) exactly as specified in the official FCI Standard No. 110 and The Royal Kennel Club standard."
+      verifiedOn: "2026-11-21",
+      note: "Preserved in centimetres: 64-69 cm (males, FCI ideal 69 cm) and 58-64 cm (females, FCI ideal 64 cm), aligning FCI ideals with The Dog API metric range; AKC publishes 25-27 inches (male) and 23-25 inches (female)."
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-curly-coated-retriever-official-standard",
+          role: "verified",
+          locator: "Size: Ideal height Dogs 69 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric: male max 69 cm"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-curly-coated-retriever-official-standard",
+          role: "verified",
+          locator: "Size: Ideal height Bitches 64 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric: female max 64 cm"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-curly-coated-retriever-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Weight: 65-95 pounds (male, approx. 30-43 kg), 50-75 pounds (female, approx. 23-34 kg)"
+          locator: "breed.weight.metric: 27-43 kg (combined range for males and females)"
         },
         {
-          id: "curly-coated-retriever-club-of-america-health",
-          role: "verified",
-          locator: "Adult working weight guidance: males typically 32-41 kg (70-90 lbs), females 27-36 kg (60-80 lbs)"
+          id: "akc-curly-coated-retriever-breed-profile",
+          role: "cited",
+          locator: "Weight: 60-95 pounds"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FCI Standard No. 110 specifies height without numerical weight limits. The stored 32 to 41 kg for males and 27 to 36 kg for females represent canonical figures published by national parent breed clubs, preserved in kilograms."
+      verifiedOn: "2026-11-21",
+      note: "FCI Standard No. 110 and Royal Kennel Club standard do not publish numerical weights. Uses The Dog API published metric range (27-43 kg for both sexes), which aligns with AKC's published 60-95 pounds; replaced unverified split ranges from earlier draft."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: 27-43 kg (breed-wide range)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "The Dog API publishes one combined weight range (27-43 kg) without separating males and females."
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: 27-43 kg (breed-wide range)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "The Dog API publishes one combined weight range (27-43 kg) without separating males and females."
     },
 
     "physical.lifespanYears": {
@@ -609,13 +662,18 @@ export const curly_coated_retriever: Breed = {
           locator: "Life Expectancy: 10-12 years"
         },
         {
-          id: "the-kennel-club-curly-coated-retriever-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longevity and health actuarial profile (10-12 years)"
+          locator: "breed.life_span: 10-12 years"
+        },
+        {
+          id: "rkc-curly-coated-retriever-breed-profile",
+          role: "verified",
+          locator: "Lifespan: Over 10 years"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and parent club actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: "Consistent across AKC, The Dog API, and Royal Kennel Club."
     },
 
     "physical.sheddingLevel": {
@@ -624,15 +682,15 @@ export const curly_coated_retriever: Breed = {
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
+          locator: "Grooming: no undercoat; females typically shed noticeably roughly every 6 months"
         },
         {
-          id: "fci-curly-coated-retriever-official-standard",
+          id: "rkc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "COAT: Body coat a thick mass of small tight, crisp curls without undercoat"
+          locator: "Sheds: Yes"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -642,16 +700,16 @@ export const curly_coated_retriever: Breed = {
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "verified",
-          locator: "Lips: Tight and cleanly cut"
+          locator: "Head / Lips: tight and cleanly cut"
         },
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: low drooling"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Tight lips result in low drooling."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "temperament.traits": {
@@ -660,20 +718,20 @@ export const curly_coated_retriever: Breed = {
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Intelligent, balanced, reliable, courageous, friendly, self-reliant, can appear aloof"
+          locator: "Behaviour/Temperament: intelligent, steady, reliable, bold, friendly, self-confident, independent; may seem aloof"
         },
         {
           id: "the-kennel-club-curly-coated-retriever-breed-standard",
           role: "verified",
-          locator: "Characteristics and Temperament: Intelligent, steady, reliable, bold, friendly, self-confident, independent"
+          locator: "Characteristics and Temperament"
         },
         {
-          id: "akc-curly-coated-retriever-breed-standard",
+          id: "akc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "Temperament: Self-confident, steadfast, proud, determined, aloof with strangers"
+          locator: "Temperament and Training: slow to mature, self-confident, settles well indoors"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -683,17 +741,16 @@ export const curly_coated_retriever: Breed = {
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed traits and temperament overview"
         },
         {
-          id: "the-kennel-club-curly-coated-retriever-breed-standard",
+          id: "fci-curly-coated-retriever-official-standard",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Behaviour/Temperament"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented retriever temperament, independence, and reserved nature with strangers."
+      note: "Editorial 1-5 estimates reflecting documented retriever drive, independence, and reserve with strangers."
     },
 
     care: {
@@ -702,34 +759,33 @@ export const curly_coated_retriever: Breed = {
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming (no brushing, wet and air-dry, metal-prong rake during shedding), Exercise, Training"
         },
         {
-          id: "curly-coated-retriever-club-of-america-health",
+          id: "rkc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Care, unique curl maintenance (no brushing), and exercise protocols"
+          locator: "Exercise: More than 2 hours per day; Grooming; Size of home"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active water retriever management with no-brushing curl care and ear hygiene protocols."
+      note: "Practical daily care guidance combining kennel club recommendations and sporting retriever management."
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-curly-coated-retriever-breed-profile",
+          id: "rkc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
+          locator: "Exercise: More than 2 hours per day"
         },
         {
-          id: "fci-curly-coated-retriever-official-standard",
+          id: "akc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "UTILIZATION: Water retriever with great stamina"
+          locator: "Exercise: needs a fair amount of exercise; settles well indoors afterward"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -737,50 +793,48 @@ export const curly_coated_retriever: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-curly-coated-retriever-breed-standard",
+          id: "rkc-curly-coated-retriever-breed-profile",
           role: "cited",
           locator: "Exercise: More than 2 hours per day"
         },
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Exercise recommendations"
+          locator: "Daily exercise guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic working retriever."
+      note: "Estimated 90-120 minutes daily aligns with Royal Kennel Club guidance (>2 hours/day) and AKC active sporting dog recommendations."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
-          id: "akc-curly-coated-retriever-breed-profile",
+          id: "rkc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Large size, outdoor swimming instincts, and exercise needs"
+          locator: "Size of home: Large house; Size of garden: Large garden"
         },
         {
-          id: "curly-coated-retriever-club-of-america-health",
+          id: "akc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Living environment recommendations: secure yard required"
+          locator: "Home need not be huge if exercised and with owner, but requires substantial daily exercise"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that high energy, large size, and need for outdoor work make apartment living generally unsuitable."
+      note: "Editorial evaluation: large frame and high outdoor exercise needs generally favor a house with a yard over apartment living."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-curly-coated-retriever-breed-profile",
+          id: "rkc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
+          locator: "Size of home: Large house; Size of garden: Large garden"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -790,29 +844,29 @@ export const curly_coated_retriever: Breed = {
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "verified",
-          locator: "COAT: Water-resistant curls designed for cold water and wetlands"
+          locator: "Coat: dense waterproof curls suited to cold water and thick cover"
         },
         {
-          id: "akc-curly-coated-retriever-breed-profile",
+          id: "rkc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "Weather adaptation: well-adapted to cold water and temperate climates"
+          locator: "Waterproof coat for retrieving ducks from water"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "akc-curly-coated-retriever-breed-profile",
-          role: "cited",
-          locator: "Tolerates Being Alone: Moderate; self-reliant nature"
+          role: "verified",
+          locator: "Exercise & Living: does not do well when left alone for long periods"
         }
       ],
-      verifiedOn: null,
-      note: null
+      verifiedOn: "2026-11-21",
+      note: "Updated from earlier draft to reflect AKC guidance that the breed does not do well left alone for extended periods."
     },
 
     nutrition: {
@@ -821,12 +875,11 @@ export const curly_coated_retriever: Breed = {
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, bloat precautions"
+          locator: "Nutrition and bloat (GDV) susceptibility"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for large, deep-chested active sporting breeds."
+      note: "General large-breed sporting dog feeding and bloat-mitigation guidance."
     },
 
     "nutrition.feedingFrequency": {
@@ -835,49 +888,67 @@ export const curly_coated_retriever: Breed = {
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Life-stage feeding and divided meals"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard canine life-stage meal scheduling."
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-curly-coated-retriever-chic-requirements",
+          id: "pubmed-gregory-2007-ccr-gsd3a",
           role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, Eye Examination, Cardiac Exam, EIC DNA test, GSD VII DNA test"
+          locator: "GSD IIIa in Curly-Coated Retrievers caused by AGL exon 32 deletion"
+        },
+        {
+          id: "boykin-spaniel-eic-dnm1-study-2011",
+          role: "verified",
+          locator: "DNM1-associated EIC carriers and affected dogs documented in Curly-Coated Retrievers"
         },
         {
           id: "curly-coated-retriever-club-of-america-health",
           role: "verified",
-          locator: "Health priorities: GDV (bloat), EIC, GSD VII, PRA, cataracts, and hip dysplasia"
+          locator: "CCRCA health page: GSD IIIa (autosomal recessive), bloat survey, epilepsy, eye and joint health"
+        },
+        {
+          id: "akc-curly-coated-retriever-breed-profile",
+          role: "verified",
+          locator: "Health: cancer concerns, GDV/bloat susceptibility, recommended breed club tests (hips, cardiac, eyes, crd4/cord1 PRA, EIC, GSD IIIa)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesizes national parent club health data with health registry screening requirements."
+      verifiedOn: "2026-11-21",
+      note: "Corrected glycogen storage disease from erroneous GSD VII (PFK) to scientifically established GSD IIIa (AGL) and separated established genetic diseases from reported/monitored conditions."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "curly-coated-retriever-club-of-america-health",
+          id: "pubmed-gregory-2007-ccr-gsd3a",
           role: "verified",
-          locator: "Gastric dilatation-volvulus (bloat), EIC, GSD VII, eye diseases, and follicular dysplasia"
+          locator: "Autosomal recessive GSD IIIa (AGL exon 32 deletion)"
         },
         {
-          id: "ofa-curly-coated-retriever-chic-requirements",
+          id: "boykin-spaniel-eic-dnm1-study-2011",
           role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, and cardiac disease"
+          locator: "DNM1-associated Exercise-Induced Collapse in Curly-Coated Retrievers"
+        },
+        {
+          id: "ccrca-curly-coated-retriever-breeders-health-testing",
+          role: "verified",
+          locator: "Recommended DNA tests (GSD IIIa, EIC, CORD-1 PRA) and orthopedic/cardiac/eye evaluations"
+        },
+        {
+          id: "akc-curly-coated-retriever-breed-profile",
+          role: "verified",
+          locator: "GDV/bloat, cancer, hip dysplasia, cardiac, eye, crd4/cord1 PRA, EIC, GSD IIIa"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-21",
+      note: "Distinguishes peer-reviewed genetic disorders (GSD IIIa, EIC, CORD1/crd4 PRA) from reported/monitored risks (GDV, hip/elbow dysplasia, cardiac, cataracts, cancer, pattern alopecia)."
     },
 
     "health.preventiveCare": {
@@ -886,35 +957,44 @@ export const curly_coated_retriever: Breed = {
         {
           id: "curly-coated-retriever-club-of-america-health",
           role: "cited",
-          locator: "Preventive care, bloat precautions, DNA testing verification, and ear drying"
+          locator: "Pre-breeding testing and bloat awareness"
         },
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Routine care and veterinary wellness"
+          locator: "Preventive care, bloat risk, and routine veterinary monitoring"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to deep-chested water retrievers."
+      note: "General preventive care recommendations for large deep-chested water retrievers."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-curly-coated-retriever-chic-requirements",
+          id: "ccrca-curly-coated-retriever-breeders-health-testing",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, CAER Eye examination, Cardiac evaluation, EIC DNA test, GSD VII DNA test"
+          locator: "Recommended tests: OFA Hip or PennHIP, OFA Elbow, CAER eye exam, OFA Heart echocardiogram (>2 yrs), GSD Type IIIa DNA, EIC DNA, CORD-1 PRA DNA"
         },
         {
-          id: "curly-coated-retriever-club-of-america-health",
+          id: "akc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "Pre-breeding testing protocols: Hips, elbows, eyes, heart, EIC, and GSD VII"
+          locator: "Recommended National Breed Club Tests: Hip, Cardiac, Ophthalmologist, crd4/cord1 PRA DNA, EIC DNA, GSDIIIa DNA"
+        },
+        {
+          id: "rkc-curly-coated-retriever-breed-profile",
+          role: "verified",
+          locator: "Good Practice: genetic diversity, BVA/KC Hip & Elbow schemes; Best Practice: EIC DNA test"
+        },
+        {
+          id: "ofa-curly-coated-retriever-chic-requirements",
+          role: "verified",
+          locator: "CHIC program breed health screening requirements"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-21",
+      note: "Updated DNA screening list to include GSD IIIa (AGL), EIC (DNM1), and CORD1/crd4 PRA alongside hip, elbow, eye, and cardiac evaluations."
     },
 
     "health.dentalCare": {
@@ -923,16 +1003,11 @@ export const curly_coated_retriever: Breed = {
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong jaws with complete scissor bite"
-        },
-        {
-          id: "akc-curly-coated-retriever-breed-profile",
-          role: "cited",
-          locator: "Routine dental care"
+          locator: "Jaws/Teeth: regular, complete scissor bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine oral hygiene guidance."
     },
 
     "health.earCare": {
@@ -941,71 +1016,70 @@ export const curly_coated_retriever: Breed = {
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "cited",
-          locator: "Ears: rather small, set slightly higher than eye line, covered with short curls"
+          locator: "Ears: rather small, set slightly above eye level, lying close to head"
         },
         {
-          id: "curly-coated-retriever-club-of-america-health",
+          id: "akc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Ear canal cleaning and drying after water work"
+          locator: "Routine ear care for water retrievers"
         }
       ],
       verifiedOn: null,
-      note: "Ear maintenance protocol for drop ears prone to moisture retention after swimming."
+      note: "Standard ear-drying and inspection guidance for swimming dogs."
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-curly-coated-retriever-official-standard",
+          id: "akc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Tight crisp curls without undercoat; skin care"
-        },
-        {
-          id: "curly-coated-retriever-club-of-america-health",
-          role: "cited",
-          locator: "Curl maintenance, no brushing, and air drying"
+          locator: "Single curly coat care and air-drying"
         }
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for unique single curly coats."
+      note: "General skin and coat inspection guidance."
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
         {
-          id: "akc-curly-coated-retriever-breed-profile",
+          id: "rkc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Large house, large garden, >2 hours/day exercise"
         },
         {
-          id: "the-kennel-club-curly-coated-retriever-breed-standard",
+          id: "akc-curly-coated-retriever-breed-profile",
           role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
+          locator: "Temperament, exercise, training, and alone-time guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+      note: "Editorial suitability assessment derived from verified exercise, size, and temperament traits."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
+          id: "rkc-curly-coated-retriever-breed-profile",
+          role: "verified",
+          locator: "Oldest and tallest retriever, Vulnerable Native Breed status"
+        },
+        {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "History: Oldest retriever breed, 1860 Birmingham show, Australian Murray River hunting lore, no-brushing grooming rule"
+          locator: "1860 Birmingham show debut, 1889 export to New Zealand and Australia, no-brushing grooming"
         },
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "verified",
-          locator: "Brief historical summary: English water spaniel and St. John's water dog ancestry"
+          locator: "Single coat of tight crisp curls without undercoat"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-21",
+      note: "Removed inaccurate 'Murray River curly dog' conflation from earlier draft (Murray River Retriever is a separate breed)."
     },
 
     faq: {
@@ -1014,24 +1088,28 @@ export const curly_coated_retriever: Breed = {
         {
           id: "fci-curly-coated-retriever-official-standard",
           role: "verified",
-          locator: "Origin, size (64-69 cm / 59-64 cm), weight (32-41 kg / 27-36 kg), coat, and colors"
+          locator: "Height, coat, colors, temperament"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "Height (64-69 / 58-64 cm), weight (27-43 kg), lifespan (10-12 years)"
         },
         {
           id: "akc-curly-coated-retriever-breed-profile",
           role: "verified",
-          locator: "Comparison with other retrievers, grooming rules, exercise needs, and family suitability"
+          locator: "Grooming, exercise, training, family life, health tests"
         },
         {
-          id: "ofa-curly-coated-retriever-chic-requirements",
+          id: "ccrca-curly-coated-retriever-breeders-health-testing",
           role: "verified",
-          locator: "Recommended health screening panel and DNA tests"
+          locator: "Pre-breeding health screening panel (hips, elbows, eyes, cardiac, GSD IIIa, EIC, CORD-1 PRA)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and parent club data without naming registries in prose."
+      verifiedOn: "2026-11-21",
+      note: "All FAQ answers written in original wording without registry names."
     }
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-21"
 };

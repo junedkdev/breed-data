@@ -8,79 +8,76 @@ export const spanish_mastiff: Breed = {
   alternateNames: [
     "Mastín Español",
     "Mastín Leonés",
+    "Mastín Extremeño",
     "Mastín de la Mancha",
-    "Mastín de Extremadura",
-    "Mastín Castellano",
-    "Spanish Molosser",
-    "Mastiff Español"
+    "Mastín Castellano"
   ],
 
-  group:
-    "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 2.2 — Mountain-type Molossoids (without working trial; also classified in the Guardian Dog and Working groups)",
+  group: "Mountain-Type Molossoid (Livestock Guardian and Working Dog)",
 
   origin: {
     country: "Spain",
-    region:
-      "Iberian Peninsula (specifically Extremadura, Castile and León, Asturias, and historical Mesta transhumance trails)"
+    region: "Iberian Peninsula (Castile and León, Extremadura, Asturias, and historic Mesta transhumance routes)"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Mastin_Espa%C3%B1ol_1.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Mast%C3%ADn_espa%C3%B1ol.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Mastin_Espa%C3%B1ol_1.jpg",
-      title: "Mastin Español 1.jpg",
-      description: "An adult Spanish Mastiff standing outdoors in grass.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 529,
-      licenseId: "cc-by-sa-3.0",
+        "https://commons.wikimedia.org/wiki/File:Mast%C3%ADn_espa%C3%B1ol.jpg",
+      title: "Mastín español.jpg",
+      description:
+        "An adult Spanish Mastiff photographed at a dog exhibition in Jerez de la Frontera, Spain.",
+      creator: "Antonio M. Romero Dorado",
+      uploader: "AMRD",
+      capturedOn: "2007-11-17",
+      uploadedOn: "2007-12-01",
+      width: 1024,
+      height: 657,
+      licenseId: "public-domain",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Mastin_Espa%C3%B1ol_1.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Antonio M. Romero Dorado, Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:Mast%C3%ADn_espa%C3%B1ol.jpg.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Mastin_espa%C3%B1ol.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Mast%C3%ADn_espa%C3%B1ol_de_trabajo,_Castilla.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Mastin_espa%C3%B1ol.jpg",
-      title: "Mastin español.jpg",
-      description: "An adult Spanish Mastiff in profile outdoors.",
-      creator: "Canarian",
-      uploader: "Canarian",
-      capturedOn: "2013-05-18",
-      uploadedOn: "2013-05-18",
-      width: 1478,
-      height: 1184,
-      licenseId: "cc-by-sa-3.0",
+        "https://commons.wikimedia.org/wiki/File:Mast%C3%ADn_espa%C3%B1ol_de_trabajo,_Castilla.jpg",
+      title: "Mastín español de trabajo, Castilla.jpg",
+      description:
+        "A working Spanish Mastiff guarding sheep outdoors in Castile, Spain.",
+      creator: "Vicente Rojan",
+      uploader: "Contiqui",
+      capturedOn: "2017-03-21",
+      uploadedOn: "2017-03-21",
+      width: 960,
+      height: 720,
+      licenseId: "cc0-1.0",
       attribution:
-        "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Mastin_espa%C3%B1ol.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Vicente Rojan, Wikimedia Commons, CC0 1.0 Universal Public Domain Dedication. Source: https://commons.wikimedia.org/wiki/File:Mast%C3%ADn_espa%C3%B1ol_de_trabajo,_Castilla.jpg. License: https://creativecommons.org/publicdomain/zero/1.0/.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "A colossal, rustic, and ancient Iberian livestock guardian renowned for its immense bone structure, heavy double dewlap, thick weather-resistant coat, low guttural roar of a bark, and fearless yet dignified protection of grazing flocks.",
+      "A giant, rustic Spanish livestock guardian known for its massive bone structure, abundant loose throat skin with a pronounced double dewlap, deep booming bark, and calm yet fearless defense of flocks and property.",
 
     description:
-      "The Spanish Mastiff is a giant, heavy-boned, and powerful mountain molossoid developed over thousands of years to protect vast herds of transhumant Merino sheep from wolves and marauders across the rugged plateaus of Spain. Displaying a sub-longilinear silhouette where body length distinctly exceeds height at the withers, the dog combines mass and structural strength with surprising agility and supple movement. Its dense, coarse double coat lies close to abundant, loose skin that forms an unmistakable, pronounced double dewlap along the throat and neck. The head is massive, truncated-pyramidal, and deep, carrying small, triangular drop ears, almond-shaped dark eyes with a calm, serene gaze, and thick, pendulous upper lips. In the family home, it is placid, noble, and gentle, but on its native pasture territory it transforms into an incorruptible, vigilant guardian ready to confront any predator without hesitation.",
+      "The Spanish Mastiff is an immense, powerfully muscled mountain guardian built slightly longer than tall, pairing heavy skeletal mass with flexible, balanced movement at a strong trot. Its dense, coarse, semi-long double coat covers thick, loose skin that forms a broad double dewlap along the neck. The large, truncated-pyramidal head has a slightly arched broad skull, a gentle stop, a wide straight muzzle in a 3:2 skull-to-muzzle ratio, and pendulous upper lips with black-pigmented gums and palate. Small dark hazel eyes set in thick black eyelids carry a quiet, noble expression that turns stern toward intruders, while medium triangular drop ears hang close to the cheeks. Calm, affectionate, and patient with its own family and livestock, the breed stands unwaveringly firm when defending its territory against predators or trespassers.",
 
     history:
-      "The ancestry of the breed is intertwined with the ancient pastoral traditions of the Iberian Peninsula, where Phoenician and Roman traders introduced heavy Asian molossers that were crossed with indigenous shepherd dogs. For centuries, the dog was the linchpin of the 'Honrado Concejo de la Mesta', the medieval association of Spanish sheep owners that managed the seasonal migration of millions of Merino sheep along the 'cañadas reales' between northern summer pastures and southern winter plains. Traditional Mesta regulations mandated one mastiff for every one hundred sheep, fitting each guardian with a spiked iron collar (carlanca) to shield its throat from wolf bites during nighttime ambushes. As traditional transhumance declined in the twentieth century, the breed was preserved and standardized through dedicated breeding programs in León, Extremadura, and Castile. Today, it remains an authentic, rustic livestock guardian across the Iberian mountains and a noble estate protector worldwide.",
+      "Rooted in the ancient pastoral life of the Iberian Peninsula, the ancestors of the Spanish Mastiff arrived more than two millennia ago through early Mediterranean trade and developed alongside local herding stock. From the Middle Ages onward, the breed became inseparable from the Mesta, Spain's powerful association of sheep ranchers that moved vast Merino flocks seasonally between northern mountain pastures and southern lowlands. Wearing heavy spiked iron collars known as carlancas to protect their necks from wolf bites, these dogs guarded migrating herds and remote estates across Castile, León, and Extremadura. After traditional long-distance transhumance declined in the twentieth century, dedicated breeders and national clubs established formal breeding and health programs to preserve the breed's rustic build and working character.",
 
     originalPurpose:
-      "Guarding transhumant flocks of Merino sheep and cattle against Iberian wolves, bears, and livestock raiders during long cross-country migrations.",
+      "Defending migrating and stationary flocks of Merino sheep and other livestock against wolves, predators, and thieves across Spanish pastures.",
 
     currentRoles: [
-      "Traditional livestock guardian dog for sheep, goats, and cattle",
-      "Rural estate, farm, and homestead guardian",
-      "Devoted household companion for experienced handlers with acreage",
-      "Cultural symbol of traditional Iberian pastoral heritage"
+      "Working livestock guardian for sheep, goats, and cattle",
+      "Rural farm, ranch, and estate protector",
+      "Calm, devoted companion for experienced owners with ample fenced land"
     ]
   },
 
@@ -91,23 +88,23 @@ export const spanish_mastiff: Breed = {
       unit: "cm",
       male: {
         min: 77,
-        max: 88
+        max: 89
       },
       female: {
         min: 72,
-        max: 80
+        max: 84
       }
     },
 
     weight: {
       unit: "kg",
       male: {
-        min: 65,
+        min: 64,
         max: 100
       },
       female: {
-        min: 55,
-        max: 80
+        min: 50,
+        max: 77
       }
     },
 
@@ -117,54 +114,55 @@ export const spanish_mastiff: Breed = {
     },
 
     coatType:
-      "Dense, thick, semi-long, straight, and coarse outer coat lying flat against the body, with a dense, woolly undercoat that thickens in winter; skin is extremely thick, supple, and loose, forming a prominent double dewlap on the throat.",
+      "Dense, coarse, straight, semi-long double coat with thicker protective hair along the ribs and flanks, shorter hair on the legs, longer silky feathering on the tail, and thick loose skin forming a prominent double dewlap.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Fawn (ranging from pale biscuit to deep reddish-fawn)",
-      "Brindle (fawn, red, or grey ground with dark stripes)",
+      "Fawn",
+      "Yellow",
       "Red",
       "Black",
-      "Wolf-grey (cervato or lobato)",
-      "Yellow",
-      "Particolour (white ground with coloured patches or coloured ground with white markings)"
+      "Wolf-grey",
+      "Deer-red",
+      "Brindle",
+      "Pied / Particolour",
+      "White-marked"
     ],
 
     sheddingLevel:
-      "Moderate year-round shedding with heavy seasonal coat blowing in spring and autumn",
+      "Moderate year-round with heavy seasonal undercoat shedding in spring and autumn",
 
     droolingLevel:
-      "High; heavy, pendulous flews and loose lower lips result in regular drooling, particularly after eating, drinking, or during warm weather",
+      "High; loose, pendulous lips and wide lip corners lead to frequent drooling, especially after drinking, eating, or in warm weather",
 
     distinctiveFeatures: [
-      "Massive, rustic, and powerful giant molossoid silhouette with substantial bone density",
-      "Height at the withers exceeding 77 cm for males (often reaching 80 to 88 cm) and exceeding 72 cm for females (often reaching 75 to 80 cm)",
-      "Weight ranging from 65 to 100 kg in mature males and 55 to 80 kg in mature females",
-      "Abundant, loose, and elastic skin forming a distinctive, two-lobed dewlap hanging generously under the neck",
-      "Massive, truncated-pyramidal head with a broad skull, flat forehead, and gentle stop",
-      "Broad, deep, and square muzzle with thick, loose, and pendulous upper lips covering the lower jaw",
-      "Complete scissor bite with powerful jaws and strong teeth (pincer bite acceptable)",
-      "Small, almond-shaped, dark hazel or dark brown eyes with relaxed lids expressing a serene, noble gaze",
-      "Medium-sized, triangular, flat drop ears set above the eye line, hanging close to the cheeks",
-      "Deep, broad, and heavily muscled chest with prominent sternum and well-sprung ribs",
-      "Thick, heavy tail set medium-low, reaching the hock, carried in a gentle sabre curve at rest and raised with a distinct curl when alert",
-      "Heavy, straight limbs with large cat-like feet; single or double dewclaws on the hind legs are common and traditionally accepted"
+      "Colossal, rustic giant build slightly longer than tall, combining heavy bone with agile trotting movement",
+      "Minimum height at the withers of 77 cm in males (commonly exceeding 80 cm, up to 89 cm) and 72 cm in females (commonly exceeding 75 cm, up to 84 cm), with no formal upper ceiling",
+      "Mature weight typically 64 to 100 kg in males and 50 to 77 kg in females",
+      "Thick, elastic, loose skin forming a generous double dewlap under the throat",
+      "Massive truncated-pyramidal head with a broad, slightly convex skull, gentle stop, and 3:2 skull-to-muzzle ratio",
+      "Pendulous upper lips covering the lower lip, black-pigmented gums, and a black palate with pronounced ridges",
+      "Strong scissor bite with complete premolars and large canines",
+      "Small, dark hazel eyes framed by thick black eyelids, with the lower lid revealing a small portion of the conjunctiva",
+      "Medium-sized, flat, triangular drop ears set above eye level and hanging naturally beside the cheeks",
+      "Broad, deep, muscular chest with rounded ribs and a level topline",
+      "Thick, heavily feathered tail reaching to the hocks, carried low at rest and lifted in a sabre curve with a slight tip curl when alert",
+      "Large, tight cat-like feet with hair between the toes; hind legs may carry single or double dewclaws"
     ]
   },
 
   temperament: {
     traits: [
-      "Serene, calm, and dignified in everyday demeanor",
-      "Deeply loyal, affectionate, and protective of family members",
-      "Fearless, resolute, and unwavering when confronting threats or predators",
-      "Aloof, suspicious, and highly discerning toward unfamiliar strangers",
-      "Autonomous decision-maker with ancient livestock guardian instincts",
-      "Gentle and remarkably patient with familiar children and farm animals",
-      "Territorially vigilant, monitoring boundaries with quiet watchfulness",
-      "Deep, booming, guttural bark that resonates over vast mountain distances",
-      "Low reactivity indoors with a slow, deliberate working pace outdoors",
-      "Intolerant of canine intrusion into its established protective perimeter"
+      "Calm, composed, and dignified in daily life",
+      "Affectionate, gentle, and loyal toward family members",
+      "Self-assured and aware of its own strength, conserving energy until needed",
+      "Resolute, fearless, and firm when confronting predators or unfamiliar intruders",
+      "Independent thinker shaped by centuries of unsupervised flock guarding",
+      "Patient and tolerant with familiar children and bonded livestock",
+      "Naturally reserved and watchful around strangers",
+      "Low-pitched, deep, booming bark audible across long distances",
+      "Territorial toward unfamiliar dogs entering its boundary"
     ],
 
     scores: {
@@ -183,7 +181,7 @@ export const spanish_mastiff: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate; requires regular territorial patrolling, leisurely distance walks, and open outdoor space, but not suited to high-speed running, jogging, or intense agility",
+        "Moderate; thrives on unhurried daily walks and patrolling spacious fenced ground rather than intense running or high-impact sports",
 
       minutesPerDay: {
         min: 45,
@@ -191,11 +189,10 @@ export const spanish_mastiff: Breed = {
       },
 
       activities: [
-        "Daily leisurely boundary walks and perimeter patrols on secure acreage",
-        "Slow-paced leashed neighborhood or countryside strolls",
-        "Free movement and resting in a large, securely fenced yard or pasture",
-        "Supervised livestock monitoring and pastoral coexistence",
-        "Gentle cognitive enrichment and food-foraging games"
+        "Leisurely daily perimeter walks and countryside strolls",
+        "Free patrolling and resting across a large, securely fenced yard or pasture",
+        "Supervised livestock guardianship and rural property companionship",
+        "Low-impact enrichment such as scent foraging and calm obedience practice"
       ]
     },
 
@@ -203,37 +200,34 @@ export const spanish_mastiff: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush once or twice weekly with a sturdy slicker brush and undercoat rake to remove loose hair and dirt; increase to daily brushing during heavy seasonal undercoat shedding in spring and autumn.",
+        "Brush once or twice a week with a firm slicker brush and undercoat rake to clear loose hair and field debris, increasing to daily brushing during spring and autumn coat blows.",
 
       bathing:
-        "Bathe only when heavily soiled, as the coarse double coat naturally repels dried mud, dust, and rain.",
+        "Bathe only as needed when heavily muddy or odorous, since the coarse outer coat sheds dried dirt naturally.",
 
       notes: [
-        "Inspect and gently wipe the deep skin folds of the double throat dewlap weekly to prevent moisture buildup and skin intertrigo.",
-        "Wipe drool from the mouth and chin folds regularly, particularly after meals and drinking.",
-        "Inspect the drop ears weekly for moisture, wax accumulation, or debris.",
-        "Inspect and trim rear dewclaws (including double dewclaws) regularly to prevent overgrowth or tearing.",
-        "Trim massive, thick nails every three to four weeks to maintain correct foot posture.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "Provide thick, padded bedding or cool ground to prevent hygromas and calluses on heavy elbow and hock joints."
+        "Wipe drool from the muzzle, chin, and deep neck folds regularly, drying the double dewlap thoroughly to prevent skin irritation.",
+        "Check the triangular drop ears weekly for wax buildup, moisture, or redness.",
+        "Inspect hind legs regularly if single or double dewclaws are present, trimming them before they snag.",
+        "Keep thick, fast-growing nails trimmed regularly with heavy-duty clippers or a grinder.",
+        "Provide deep, cushioned bedding or soft ground to protect elbows and hocks from pressure calluses and hygromas."
       ]
     },
 
     training: {
       difficulty:
-        "Challenging; highly intelligent and independent, possessing thousands of years of autonomous guardian instincts that do not respond to mechanical obedience drills or harsh methods",
+        "Challenging; smart and perceptive, yet bred to make independent guarding decisions rather than follow repetitive obedience commands automatically",
 
       tips: [
-        "Use positive reinforcement, food rewards, and calm, confident leadership.",
-        "Begin leash-manners and impulse-control training from early puppyhood before immense physical weight develops.",
-        "Establish fair, consistent household rules without shouting or physical intimidation.",
-        "Keep instructional sessions short, calm, and purposeful to prevent stubborn disinterest.",
-        "Always maintain secure, heavy-duty perimeter fencing at least five to six feet high.",
-        "Never use harsh corrections, which can compromise the guardian's trust and promote defensive defiance."
+        "Use calm, confident leadership paired with positive reinforcement and food rewards.",
+        "Start leash manners, handling acceptance, and boundary rules in early puppyhood before full adult weight develops.",
+        "Keep training sessions brief, respectful, and consistent to avoid stubborn disengagement.",
+        "Avoid harsh corrections or physical force, which erode trust and can provoke defensive resistance.",
+        "Rely on sturdy, tall perimeter fencing rather than off-leash recall in unfenced areas."
       ],
 
       socialization:
-        "Introduce the puppy early, carefully, and extensively to varied friendly people, calm vaccinated dogs, livestock, household visitors, and novel environments. Thorough early social guidance ensures natural guardian suspicion matures into calm discernment rather than indiscriminate hostility."
+        "Expose puppies early and positively to welcoming guests, calm vaccinated dogs, everyday noises, and any livestock they will live alongside. Structured early socialization helps natural protective wariness mature into steady judgment."
     },
 
     livingEnvironment: {
@@ -242,83 +236,79 @@ export const spanish_mastiff: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cold and snowy mountain climates, where the thick double coat provides superb thermal insulation",
-        "Warm continental climates, provided abundant shade, cool indoor shelter, and unlimited fresh drinking water are available, restricting physical activity to cooler dawn or twilight hours"
+        "Cold mountain and winter climates, where the thick double coat insulates well",
+        "Warm climates when ample shade, cool resting spots, fresh water, and dawn or dusk activity are provided"
       ],
 
       aloneTimeTolerance:
-        "High when provided with a secure pasture, acreage, or yard to monitor, though close family connection and human companionship remain vital to domestic balance."
+        "High when given a secure pasture or fenced acreage to watch over, though regular human bonding remains important for household companions."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for giant breeds, adjusted for age, slow growth, and moderate metabolic output.",
+      "Complete, balanced nutrition formulated for giant breeds, matched to slow puppy growth, adult maintenance, and moderate daily energy burn.",
 
     feedingFrequency: {
       puppy:
-        "Three measured meals daily until six months of age, transitioning to two meals daily on a giant-breed growth diet formulated with controlled calcium and phosphorus to foster slow, steady skeletal development.",
+        "Three measured meals per day until roughly six months old on a giant-breed growth diet with controlled calories and minerals, then two meals daily.",
       adult:
-        "Two measured meals daily to support steady digestion and help mitigate the risk of gastric dilatation-volvulus.",
+        "Two measured meals per day to support steady digestion and avoid large single stomach loads.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle maintenance."
+        "Two portion-controlled meals per day adjusted for lower activity while preserving lean muscle."
     },
 
     guidelines:
-      "Measure food rations carefully with a digital scale or standard measuring cup, adjusting portions to keep the dog lean and well-conditioned without excess body fat. Divide the daily allowance into two distinct meals, restrict vigorous exercise for at least one hour before and after eating, use wide, stable food dishes, and provide cool, clean drinking water continuously.",
+      "Measure every meal carefully and monitor body condition so excess weight does not overload developing or aging joints. Split daily rations into two meals, keep vigorous movement away from mealtimes to reduce bloat risk, and keep heavy, non-tip water bowls filled at all times.",
 
     considerations: [
-      "Keep growing puppies lean during their first two years to avoid placing excess stress on developing bones and joints.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Account for training treats within the total daily caloric allowance to prevent obesity.",
-      "Use heavy, non-tip water buckets to accommodate substantial head size and drool.",
-      "Avoid feeding high-fat table scraps that can trigger acute pancreatitis.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Encourage slow, steady growth throughout the first 18 to 24 months to protect giant-breed hips, elbows, and long bones.",
+      "Avoid vigorous activity right before and for at least an hour after meals to help lower bloat risk.",
+      "Count training treats within the daily calorie budget because giant low-energy breeds can gain weight easily.",
+      "Transition gradually to new food formulas over five to seven days."
     ],
 
     note:
-      "Caloric needs vary based on age, outdoor temperature, and acreage patrolling duties. Consult a veterinarian experienced in giant breeds to establish tailored daily feeding guidelines."
+      "Because giant dogs mature slowly and vary widely in weight and workload, review specific calorie targets and growth diets with a veterinarian."
   },
 
   health: {
     overview:
-      "The Spanish Mastiff is a rustic, long-lived giant livestock guardian with a typical life expectancy of 10 to 12 years. Bred primarily for functional endurance in demanding mountain terrain, it has largely avoided many artificial genetic extremes. However, its immense body mass and deep chest predispose it to specific structural and orthopedic disorders. Primary health considerations include hip dysplasia, elbow dysplasia, gastric dilatation-volvulus (GDV / bloat), eyelid abnormalities (entropion and ectropion), panosteitis in fast-growing puppies, and hygromas over heavy pressure points.",
+      "The Spanish Mastiff is generally a sturdy, rustic giant breed with a typical lifespan of 10 to 12 years. Because of its immense weight and deep chest, the most closely monitored health concerns are orthopedic and structural—especially hip dysplasia, which is actively screened through official radiographic breeding programs, alongside reported giant-breed risks such as elbow dysplasia, gastric dilatation-volvulus (bloat), eyelid conformation issues (entropion or ectropion), growth-related bone inflammation, elbow hygromas, and heart conditions. A 2024 peer-reviewed genomic study also identified the Spanish Mastiff among breeds displaying a clinical resistance phenotype to severe canine leishmaniosis.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to degenerative osteoarthritis and hind-limb lameness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening emergency in deep-chested giant breeds where the stomach distends with gas and twists on its mesenteric axis, requiring emergency surgical intervention",
-      "Entropion and ectropion — eyelid margin defects where loose facial skin causes the eyelids to roll inward against the cornea or sag outward, predisposing to conjunctivitis and corneal irritation",
-      "Panosteitis and hypertrophic osteodystrophy (HOD) — self-limiting inflammatory bone conditions causing shifting lameness in fast-growing giant puppies",
-      "Elbow hygroma and pressure calluses — fluid-filled sacs and thick skin pads forming over elbow joints from resting on hard ground",
-      "Heart conditions — occasional reports of dilated cardiomyopathy (DCM) or murmurs evaluated via veterinary auscultation and echocardiography"
+      "Hip dysplasia — monitored developmental malformation of the hip joint that can lead to arthritis and hind-limb lameness; actively screened by radiographic evaluation in formal breeding programs",
+      "Elbow dysplasia — reported giant-breed developmental elbow abnormality that can cause forelimb lameness and secondary arthritis",
+      "Gastric dilatation-volvulus (GDV / bloat) — reported acute emergency in deep-chested giant dogs where the stomach distends and twists, requiring immediate veterinary surgery",
+      "Entropion and ectropion — reported eyelid abnormalities linked to heavy facial skin where lids roll inward or droop excessively, potentially irritating the eye",
+      "Panosteitis and developmental bone inflammation — reported temporary, shifting lameness sometimes seen in rapidly growing giant-breed puppies",
+      "Elbow hygromas and pressure calluses — fluid-filled swellings or thickened skin over bony joints caused by lying on hard surfaces",
+      "Cardiac conditions — monitored heart issues such as dilated cardiomyopathy or murmurs assessed through veterinary auscultation and specialist exams"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic clearances for hips and elbows, alongside certified specialist ophthalmic evaluations.",
-      "Promote slow, controlled growth in puppies through portion-controlled giant-breed nutrition with calibrated calcium-to-phosphorus ratios.",
-      "Feed two smaller meals daily and avoid vigorous exercise immediately before or after eating to mitigate bloat risk.",
-      "Provide thick, cushioned bedding or orthopedic mattresses to protect heavy elbow and hock joints from hygromas.",
-      "Inspect and clean throat dewlap folds weekly to prevent bacterial or yeast intertrigo.",
-      "Trim hind dewclaws regularly to prevent painful snagging and tearing.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Select puppies from parents with official radiographic hip dysplasia clearances and sound eyelid and joint conformation.",
+      "Feed a giant-breed growth formula in measured portions to keep puppies lean during their slow two-year skeletal maturation.",
+      "Split food into two daily meals, rest the dog before and after eating, and learn the emergency warning signs of bloat.",
+      "Provide thick, supportive bedding to help prevent elbow hygromas and pressure sores.",
+      "Keep deep neck dewlap folds clean and dry, check drop ears weekly, and schedule annual veterinary wellness checks."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
+      "Official radiographic hip dysplasia evaluation prior to breeding",
       "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Comprehensive ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Cardiac examination including auscultation by a veterinary specialist"
+      "Ophthalmic evaluation for eyelid conformation (entropion/ectropion) and hereditary eye disease",
+      "Cardiac examination by a veterinarian prior to breeding"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has powerful, massive jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with dog-safe toothpaste and have gums and teeth checked during routine veterinary exams.",
 
     earCare:
-      "Inspect the triangular drop ears weekly for wax buildup, moisture, or foul odor. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the drop ears weekly for wax, moisture, or odor, cleaning gently with a vet-approved solution and drying carefully.",
 
     skinCare:
-      "Inspect the deep throat dewlap folds weekly for redness or moisture accumulation. Clean and dry the skin folds with a soft cloth, providing soft resting surfaces to prevent pressure calluses."
+      "Check and dry the deep folds of the double throat dewlap weekly to prevent moisture irritation, and offer soft bedding to protect heavy joints."
   },
 
   suitability: {
@@ -329,85 +319,84 @@ export const spanish_mastiff: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Ranchers, pastoralists, and farmers seeking a formidable, autonomous flock guardian against wolves and predators",
-      "Experienced owners of giant livestock guardian breeds who appreciate independent, territorial protection",
-      "Rural or semi-rural properties with spacious, securely fenced acreage or large yards",
-      "Households comfortable managing substantial body weight, heavy drooling, and seasonal shedding",
-      "Owners who value a calm, gentle domestic presence paired with vigilant outdoor protection"
+      "Farmers, ranchers, and rural landowners needing a dependable guardian for livestock or acreage",
+      "Experienced owners of giant guardian breeds who respect autonomous protective instincts",
+      "Country or spacious rural homes with heavy-duty perimeter fencing",
+      "Households prepared for giant-breed feeding costs, heavy drool, and seasonal shedding"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for autonomous giant guardian instincts",
-      "Apartment, condominium, or suburban townhouse living",
-      "Urban environments with heavy foot traffic, shared fences, and frequent unfamiliar visitors",
-      "Households without secure, heavy-duty perimeter fencing",
-      "People seeking a highly submissive, eager-to-please companion for competitive agility or obedience"
+      "First-time dog owners or households wanting an effortlessly submissive pet",
+      "Apartments, condos, or small suburban lots with close neighbors",
+      "Homes without strong, tall fencing or owners bothered by drooling and deep barking",
+      "People looking for a fast-paced jogging partner or eager-to-please competitive obedience dog"
     ]
   },
 
   funFacts: [
-    "The Spanish Mastiff was the official protector of the Mesta, the medieval Spanish sheep-owners guild, where historical livestock laws codified in the thirteenth century dictated that shepherds must keep one mastiff for every one hundred Merino sheep.",
-    "During centuries of seasonal sheep migrations across Spain, shepherds fitted their mastiffs with heavy iron collars called 'carlancas' studded with outward-facing two-inch spikes, designed to protect the dogs' throats from lethal wolf bites during nocturnal battles.",
-    "Diego Velázquez famously immortalized the Spanish Mastiff in his 1656 royal masterpiece 'Las Meninas', depicting a massive, placid mastiff resting peacefully at the feet of the young Infanta Margarita and her ladies-in-waiting in the royal palace.",
-    "The breed's signature double dewlap on the throat is not merely decorative; historically, the loose, thick skin folds allowed the dog to turn and retaliate against wolves even if seized by the neck.",
-    "In Spanish folk tradition, the breed's bark is referred to as 'el ladrido de trueno' (thunder bark), a low-pitched, guttural roar that can echo across mountain valleys for over two kilometers to deter predators.",
-    "Despite standing 77 to 88 cm tall and weighing up to 100 kg, the Spanish Mastiff has an extraordinarily calm, slow, and measured resting pace, conserving its massive energy until a genuine threat appears."
+    "In medieval Spain, the Mesta sheep-ranching guild relied on Spanish Mastiffs to guard migrating Merino flocks across long seasonal routes between northern summer mountains and southern winter pastures.",
+    "Working Spanish Mastiffs traditionally wore heavy iron collars studded with outward spikes—called carlancas—to shield their throats from wolf bites during nighttime attacks.",
+    "Diego Velázquez featured a calm, massive Spanish Mastiff resting in the foreground of his famous 1656 royal painting Las Meninas.",
+    "The breed's abundant double dewlap served a practical purpose in the field, giving the dog extra loose neck skin so a predator's grip was less likely to reach vital structures.",
+    "Its deep, low-pitched bark carries across wide valleys and open plains, warning predators away before a physical confrontation ever occurs.",
+    "The English word 'mastiff' traces back to the Latin word mansuetus, meaning gentle or mild—reflecting the breed's calm nature with its own people."
   ],
 
   faq: [
     {
       question: "What is a Spanish Mastiff?",
       answer:
-        "The Spanish Mastiff (Mastín Español) is an ancient, giant livestock guardian dog from Spain, renowned for its colossal bone structure, thick double dewlap, weather-resistant coat, and calm, fearless protection of sheep and cattle."
+        "The Spanish Mastiff (Mastín Español) is a giant, ancient livestock guardian breed from Spain, developed to protect flocks of Merino sheep and rural estates from wolves and intruders."
     },
     {
-      question: "How tall and heavy is a Spanish Mastiff?",
+      question: "How big does a Spanish Mastiff get?",
       answer:
-        "Adult males stand 77 to 88 cm at the withers and weigh 65 to 100 kg, while adult females stand 72 to 80 cm and weigh 55 to 80 kg, presenting an imposing, massive frame."
+        "Adult males stand at least 77 cm at the withers (often 80 to 89 cm) and typically weigh 64 to 100 kg, while adult females stand at least 72 cm (often 75 to 84 cm) and typically weigh 50 to 77 kg."
     },
     {
-      question: "How does the Spanish Mastiff differ from the Pyrenean Mastiff?",
+      question: "How is the Spanish Mastiff different from the Pyrenean Mastiff?",
       answer:
-        "While both are giant Spanish flock guardians, the Spanish Mastiff is heavier-boned with more abundant, loose throat skin, a prominent double dewlap, and solid or brindle coloring; the Pyrenean Mastiff typically has a predominantly white coat with a well-defined dark facial mask and colored patches."
+        "Both are giant Spanish flock guardians, but the Spanish Mastiff generally has heavier bone, looser throat skin with a pronounced double dewlap, and solid or brindle coats in shades like fawn, yellow, red, black, or wolf-grey, whereas the Pyrenean Mastiff is typically predominantly white with a defined mask and colored patches."
     },
     {
-      question: "How long does a Spanish Mastiff live?",
+      question: "How long do Spanish Mastiffs live?",
       answer:
-        "With proper nutrition, slow puppy growth, and conscientious preventive veterinary care, the breed typically enjoys a lifespan of 10 to 12 years."
+        "With controlled puppy growth, healthy weight management, and regular veterinary care, Spanish Mastiffs typically live 10 to 12 years."
     },
     {
-      question: "Does the Spanish Mastiff drool a lot?",
+      question: "Do Spanish Mastiffs drool heavily?",
       answer:
-        "Yes. Their heavy, pendulous upper lips and loose lower flews produce regular drooling, especially after drinking, eating, or during warm weather; owners should keep hand towels available."
+        "Yes. Their loose, pendulous upper lips and wide lip corners cause regular drooling, especially after drinking, eating, or in warm weather."
     },
     {
       question: "Can a Spanish Mastiff live in an apartment?",
       answer:
-        "No. Due to their colossal size, territorial vigilance, and deep booming bark, they are completely unsuited to apartment living and require a rural or semi-rural home with a securely fenced yard or pasture."
+        "No. Their colossal size, deep carrying bark, and strong territorial instincts make them poorly suited to apartments; they thrive on rural properties or homes with large, securely fenced yards."
     },
     {
-      question: "Is the Spanish Mastiff good with children and family?",
+      question: "Are Spanish Mastiffs good with children and family?",
       answer:
-        "Yes. Within their own family, they are famously gentle, patient, and deeply protective of children; however, due to their massive size, interactions with toddlers should always be supervised."
+        "Yes, they are famously calm, patient, and protective with their own families. Because of their immense weight and slow physical maturity, always supervise interactions with young children."
     },
     {
-      question: "How much exercise does a Spanish Mastiff need each day?",
+      question: "How much exercise does a Spanish Mastiff need?",
       answer:
-        "They require moderate exercise, typically 45 to 60 minutes of daily activity, consisting of slow-paced boundary walks, leisurely strolls, and free movement across secure outdoor grounds."
+        "Most adults do well with about 45 to 60 minutes of calm daily activity, such as leisurely walks and time patrolling a spacious fenced yard, rather than strenuous running."
     },
     {
-      question: "Why do Spanish Mastiffs have double dewclaws on their rear legs?",
+      question: "Are double rear dewclaws normal in Spanish Mastiffs?",
       answer:
-        "Double rear dewclaws are an ancient, authentic anatomical trait common to traditional Iberian livestock guardians; historically, they provided extra stability and footing on uneven, rocky mountain terrain."
+        "Yes. Rear legs may have single dewclaws, double dewclaws, or no dewclaws at all; all are recognized in the breed, though dewclaws should be checked and trimmed regularly."
     },
     {
-      question: "What health conditions affect the Spanish Mastiff?",
+      question: "What health concerns should Spanish Mastiff owners watch for?",
       answer:
-        "Primary health priorities include hip dysplasia, elbow dysplasia, bloat (gastric dilatation-volvulus), eyelid disorders (entropion and ectropion), and elbow hygromas from resting on hard surfaces."
+        "Key areas to monitor include hip and elbow dysplasia, bloat (gastric dilatation-volvulus), eyelid issues such as entropion or ectropion, elbow hygromas from hard surfaces, and heart health."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-spanish-mastiff-official-standard",
     "fci-spanish-mastiff-nomenclature",
     "rsce-mastin-espanol-breed-standard",
@@ -415,106 +404,92 @@ export const spanish_mastiff: Breed = {
     "ukc-spanish-mastiff-breed-standard",
     "akc-spanish-mastiff-breed-profile",
     "spanish-mastiff-hip-dysplasia-study-2015",
+    "pubmed-spanish-mastiff-leishmaniosis-2024",
+    "the-dog-api",
     "wikimedia-mastin-espanol-1-tomasz-sienicki",
     "wikimedia-mastin-espanol-canarian"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxon record: Canis lupus familiaris (ITIS TSN 726821)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Verified domestic dog taxonomic name via NatureServe Explorer (ITIS TSN 726821)."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
-          role: "verified",
-          locator: "Standard heading: MASTÍN ESPAÑOL (Spanish Mastiff)"
-        },
-        {
           id: "fci-spanish-mastiff-nomenclature",
           role: "verified",
           locator: "Official nomenclature: MASTÍN ESPAÑOL (91)"
         },
         {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.alt_names: Mastín Español, Mastín Leonés, Mastín Extremeño"
+        },
+        {
           id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "Denominación oficial: Mastín Español"
-        },
-        {
-          id: "aepme-mastin-espanol-profile",
-          role: "verified",
-          locator: "Historia y nombres tradicionales: Mastín Leonés, Mastín de la Mancha, Mastín de Extremadura"
-        },
-        {
-          id: "akc-spanish-mastiff-breed-profile",
-          role: "verified",
-          locator: "History: Spanish Mastiff, Mastín Español"
+          locator: "Perro Mastín Español"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 91, FCI Nomenclature, RSCE, AEPME, and AKC."
+      verifiedOn: "2026-11-21",
+      note: "Verified across FCI Nomenclature, RSCE, and The Dog API."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 2.2 Molossoid breeds, Mountain type, without working trial"
-        },
-        {
           id: "fci-spanish-mastiff-nomenclature",
           role: "verified",
-          locator: "Group 2, Section 2.2 Mountain type, without working trial"
+          locator: "Group 2, Section 2.2 Molossian type - Mountain type, without working trial"
         },
         {
           id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "Grupo 2 Molosoides tipo montaña"
-        },
-        {
-          id: "ukc-spanish-mastiff-breed-standard",
-          role: "verified",
-          locator: "Guardian Dog Group"
+          locator: "Grupo 2 - Sección 2.2 Molosoides tipo montaña, sin prueba de trabajo"
         },
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "verified",
-          locator: "Foundation Stock Service (Working Group)"
+          locator: "Foundation Stock Service; Working Group designation"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-21",
+      note: "Written without registry names or numbered section labels in user-facing text."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Spain; BRIEF HISTORICAL SUMMARY"
-        },
-        {
           id: "fci-spanish-mastiff-nomenclature",
           role: "verified",
-          locator: "Country of origin: Spain"
+          locator: "Country of origin: Spain; definitive acceptance 1954-11-13"
         },
         {
           id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "Origen: España (rutas de la Mesta y trashumancia ibérica)"
+          locator: "Origen: España; transhumance and Mesta Merino flocks"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.origin: Spain"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -522,101 +497,149 @@ export const spanish_mastiff: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
-          role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
           id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "Resumen histórico, proporciones, aspecto general y aptitudes"
+          locator: "Estándar FCI Nº 91 (30.08.2002; original valid standard 26.05.1982): Utilización, Apariencia general, Proporciones, Temperamento"
         },
         {
           id: "aepme-mastin-espanol-profile",
           role: "verified",
-          locator: "Historia del Mastín Español, Mesta, carlancas, trashumancia y morfología"
+          locator: "Historia del Mastín Español, AEPME founding (1981), Plan de Cría (1998)"
         },
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed, History (Phoenician/Greek roots >2,000 years ago, Mesta transhumance)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesized in original prose from FCI Standard No. 91, RSCE, AEPME, and AKC official records."
+      verifiedOn: "2026-11-21",
+      note: "Rewritten in original prose synthesizing FCI Standard No. 91 / RSCE, AEPME, and AKC records."
     },
 
     physical: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
-          role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
-        },
-        {
           id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "Morfología, proporciones, papada doble, cabeza, extremidades y manto"
+          locator: "Cabeza (3:2 ratio, sub-convex skull, scissor bite, black palate, small hazel eyes with black lids showing lower conjunctiva), Cuello (papada doble), Cola, Extremidades (simple/double dewclaws), Pelaje, Color"
         },
         {
-          id: "ukc-spanish-mastiff-breed-standard",
+          id: "fci-spanish-mastiff-official-standard",
           role: "verified",
-          locator: "General Appearance, Size, Head, Double Dewlap, Body, Coat, Color"
+          locator: "FCI Standard No. 91 conformation, coat, and color"
+        },
+        {
+          id: "akc-spanish-mastiff-breed-profile",
+          role: "verified",
+          locator: "Breed Colors & Markings: Black, Fawn, Red, Wolfgray, Yellow; Brindle and White markings"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Conformation, sub-longilinear proportions, double throat dewlap, coarse double coat, and distinctive features follow official standards."
+      verifiedOn: "2026-11-21",
+      note: "Corrected eyes (small dark hazel with lower lid showing part of conjunctiva, not almond-shaped), skull profile (sub-convex, 3:2 ratio), and bite (scissor bite required; pincer bite is a minor fault in FCI/RSCE standard). Filtered out non-breed colors from The Dog API's generic list."
     },
 
     "physical.height": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at the withers: Lower limit: Dogs: 77 cm. Bitches: 72 cm. Desirable to largely exceed: dogs over 80 cm, bitches over 75 cm."
+          locator: "Tamaño: No upper limit; minimum height Males 77 cm (desirable >80 cm), Females 72 cm (desirable >75 cm)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: male 71-89 cm, female 72-84 cm"
+        },
+        {
+          id: "akc-spanish-mastiff-breed-profile",
+          role: "cited",
+          locator: "Height: Minimum 28-35 inches"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Retains FCI/RSCE official lower limits (77 cm males, 72 cm females; no official upper ceiling) over The Dog API's lower male minimum (71 cm), paired with The Dog API upper bounds (89 cm / 84 cm) to reflect typical adult range in centimetres."
+    },
+
+    "physical.height.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric: male max 89 cm"
         },
         {
           id: "rsce-mastin-espanol-breed-standard",
-          role: "verified",
-          locator: "Alzada a la cruz: Límite inferior: Machos 77 cm; Hembras 72 cm (deseable superar 80 cm y 75 cm)"
-        },
-        {
-          id: "ukc-spanish-mastiff-breed-standard",
-          role: "verified",
-          locator: "Height: Males: minimum 30.5 inches (77 cm), preferably 31.5 inches (80 cm) or more; Females: minimum 28.5 inches (72 cm), preferably 29.5 inches (75 cm) or more"
+          role: "cited",
+          locator: "Tamaño: no upper limit; desirable to exceed 80 cm"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Preserved in published unit of centimetres (77–88 cm for males, with 77 cm lower limit and desirable over 80 cm; 72–80 cm for females, with 72 cm lower limit and desirable over 75 cm) exactly as specified in the official FCI Standard No. 91 and RSCE standard."
+      verifiedOn: "2026-11-21",
+      note: "FCI/RSCE sets no upper height ceiling; 89 cm reflects The Dog API published upper range."
+    },
+
+    "physical.height.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.height.metric: female max 84 cm"
+        },
+        {
+          id: "rsce-mastin-espanol-breed-standard",
+          role: "cited",
+          locator: "Tamaño: no upper limit; desirable to exceed 75 cm"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "FCI/RSCE sets no upper height ceiling; 84 cm reflects The Dog API published upper range."
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "aepme-mastin-espanol-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Peso estándar orientativo: Machos de 65 a 100 kg; Hembras de 55 a 80 kg"
+          locator: "breed.weight.metric: male 64-100 kg, female 50-77 kg"
         },
         {
-          id: "rsce-mastin-espanol-breed-standard",
-          role: "verified",
-          locator: "Morfología funcional: animales pesados y masivos con peso armónico proporcionado a la gran talla"
-        },
-        {
-          id: "ukc-spanish-mastiff-breed-standard",
-          role: "verified",
-          locator: "Weight: Males typically 140 to 220 pounds (approx. 64-100 kg); Females 110 to 170 pounds (approx. 50-77 kg)"
+          id: "akc-spanish-mastiff-breed-profile",
+          role: "cited",
+          locator: "Weight: 140-200 pounds"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FCI Standard No. 91 defines size with lower height limits and requires harmonious mass without fixing a ceiling. The stored 65 to 100 kg for males and 55 to 80 kg for females represent canonical working figures published by the national parent club (AEPME) and working registries, preserved in kilograms."
+      verifiedOn: "2026-11-21",
+      note: "FCI Standard No. 91 / RSCE does not publish numerical weight limits. Uses The Dog API verified metric ranges (64-100 kg males, 50-77 kg females), which align closely with AKC's published 140-200 pounds."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: male max 100 kg"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: female max 77 kg"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "physical.lifespanYears": {
@@ -628,71 +651,71 @@ export const spanish_mastiff: Breed = {
           locator: "Life Expectancy: 10-12 years"
         },
         {
-          id: "aepme-mastin-espanol-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Esperanza de vida media (10-12 años)"
+          locator: "breed.life_span: 10-12 years"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and parent club actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: "Consistent across AKC and The Dog API."
     },
 
     "physical.sheddingLevel": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "COAT: Dense, thick, coarse outer coat with woolly undercoat"
+          locator: "Pelaje: dense, thick, semi-long double coat"
         },
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5 to 4/5)"
+          locator: "Breed Traits: Shedding Level"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
     "physical.droolingLevel": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "Lips: Upper lip amply covering lower lip, pendulous flews"
+          locator: "Labios: upper lip amply covering lower lip; very loose lip commissure"
         },
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (4/5)"
+          locator: "Breed Traits: Drooling Level"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Pendulous upper lips and loose lower flews result in regular drooling."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
-          role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Affectionate, meek, noble, extremely firm in front of dangerous animals and strangers; confident, deep and grave bark"
-        },
-        {
           id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "Carácter y comportamiento: Noble, afectuoso, rústico, guardián firme y seguro, ladrido ronco y grave"
+          locator: "Temperamento y comportamiento: intelligent, rustic, affectionate, mild, noble, firm before predators and strangers, self-assured, deep booming bark"
         },
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "verified",
-          locator: "Temperament: Calm, noble, courageous, deeply loyal, natural protector"
+          locator: "About the Breed: intelligent, affectionate, kind, noble, determined protector"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.temperament: Protective, calm, loyal, intelligent, independent, affectionate"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -702,17 +725,16 @@ export const spanish_mastiff: Breed = {
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics"
         },
         {
-          id: "aepme-mastin-espanol-profile",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "cited",
-          locator: "Pauta de comportamiento y vigilancia"
+          locator: "Temperamento y comportamiento"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented livestock guardian temperament, high protectiveness, and low energy."
+      note: "Editorial 1-5 estimates reflecting documented livestock guardian protectiveness, independence, and calm energy."
     },
 
     care: {
@@ -721,17 +743,16 @@ export const spanish_mastiff: Breed = {
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming (weekly brushing, nails, ears, teeth), Exercise, Nutrition"
         },
         {
-          id: "aepme-mastin-espanol-profile",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "cited",
-          locator: "Cuidados, espacio, higiene de pliegues y ejercicio"
+          locator: "Double dewlap, dense coat, and working guardian nature"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines giant flock guardian management with double dewlap hygiene and bloat prevention protocols."
+      note: "Practical care guidance tailored to giant livestock guardians with loose throat skin."
     },
 
     "care.exercise.level": {
@@ -740,15 +761,10 @@ export const spanish_mastiff: Breed = {
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "verified",
-          locator: "Energy Level (2/5); Exercise Needs (2/5 to 3/5)"
-        },
-        {
-          id: "fci-spanish-mastiff-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Guard and defence. Close to flocks during seasonal migration"
+          locator: "Exercise: relatively calm breed needing regular daily walks or fenced yard time"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -758,17 +774,11 @@ export const spanish_mastiff: Breed = {
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "cited",
-          locator: "Daily exercise requirements: Moderate activity and perimeter walking"
-        },
-        {
-          id: "aepme-mastin-espanol-profile",
-          role: "cited",
-          locator: "Necesidad de movimiento en espacios abiertos"
+          locator: "Daily moderate exercise guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 45 to 60 minutes of daily activity reflects the moderate exercise demands of a heavy, energy-conserving giant livestock guardian."
+      note: "Estimated 45-60 minutes daily reflects the moderate, low-impact activity needs of a giant livestock guardian."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -777,17 +787,16 @@ export const spanish_mastiff: Breed = {
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "cited",
-          locator: "Colossal size, territorial guarding, and booming voice"
+          locator: "Giant size, fenced backyard recommendation, deep resonant bark"
         },
         {
-          id: "aepme-mastin-espanol-profile",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "cited",
-          locator: "Inadecuado para pisos o espacios reducidos"
+          locator: "Farm and flock guardian role; deep loud bark audible at long distances"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that colossal body size, deep booming bark, and territorial guardian instincts make apartment living unsuitable."
+      note: "Editorial evaluation: giant mass, territorial guarding, and booming bark make apartments unsuitable."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -796,15 +805,10 @@ export const spanish_mastiff: Breed = {
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
-        },
-        {
-          id: "aepme-mastin-espanol-profile",
-          role: "verified",
-          locator: "Requisitos de alojamiento: fincas, casas con terreno amplio y vallado"
+          locator: "Exercise: fenced backyard or spacious outdoor area"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -812,17 +816,12 @@ export const spanish_mastiff: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
-          role: "verified",
-          locator: "COAT: Thick coat with dense woolly undercoat adapted to Iberian continental and mountain climates"
-        },
-        {
           id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "Rusticidad y resistencia a climas extremos de montaña y calor ibérico"
+          locator: "Utilización & Pelaje: thick double coat for seasonal mountain and lowland grazing"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -830,14 +829,13 @@ export const spanish_mastiff: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "aepme-mastin-espanol-profile",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "cited",
-          locator: "Comportamiento autónomo en el campo"
+          locator: "Autonomous flock and property guardianship"
         }
       ],
       verifiedOn: null,
-      note:
-        "Flock guardians possess high autonomous alone-time tolerance when given a territory or animals to monitor, though family contact is necessary."
+      note: "Livestock guardians tolerate independent outdoor time well when patrolling a secure territory."
     },
 
     nutrition: {
@@ -846,17 +844,11 @@ export const spanish_mastiff: Breed = {
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, bloat precautions"
-        },
-        {
-          id: "aepme-mastin-espanol-profile",
-          role: "cited",
-          locator: "Alimentación del perro gigante y prevención de sobrepeso"
+          locator: "Nutrition: age-appropriate diet, weight control, limit treats"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for giant breeds prone to orthopedic stress and gastric dilatation."
+      note: "General giant-breed nutrition and bloat-mitigation guidance."
     },
 
     "nutrition.feedingFrequency": {
@@ -865,11 +857,11 @@ export const spanish_mastiff: Breed = {
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "cited",
-          locator: "Life-stage nutrition and divided meal schedules"
+          locator: "Life-stage nutrition"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard canine life-stage meal schedule."
     },
 
     "health.overview": {
@@ -878,17 +870,26 @@ export const spanish_mastiff: Breed = {
         {
           id: "spanish-mastiff-hip-dysplasia-study-2015",
           role: "verified",
-          locator: "Radiographic hip dysplasia prevalence, phenotypic evaluation, and breeding control in the Spanish Mastiff"
+          locator: "AEPME Official Hip Dysplasia Radiographic Protocol (active since March 2022)"
         },
         {
           id: "aepme-mastin-espanol-profile",
           role: "verified",
-          locator: "Salud, displasia de cadera, codo, torsión gástrica y entropión"
+          locator: "Plan de Cría: hip dysplasia control (Grades A-D apt, E excluded, evaluated by University of León Veterinary Faculty)"
+        },
+        {
+          id: "pubmed-spanish-mastiff-leishmaniosis-2024",
+          role: "verified",
+          locator: "Int J Parasitol 2024 (PMID 38570155): Spanish Mastiff identified among breeds with clinical resistance phenotype to Leishmania infantum"
+        },
+        {
+          id: "rsce-mastin-espanol-breed-standard",
+          role: "verified",
+          locator: "Serious faults: excessive entropion or ectropion"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesizes peer-reviewed veterinary studies on orthopedic screening with national parent club health recommendations."
+      verifiedOn: "2026-11-21",
+      note: "Replaced broken/non-existent PubMed 25692686 reference with verified AEPME official hip dysplasia protocol and added peer-reviewed 2024 PubMed genomic study (PMID 38570155)."
     },
 
     "health.commonConditions": {
@@ -897,108 +898,96 @@ export const spanish_mastiff: Breed = {
         {
           id: "spanish-mastiff-hip-dysplasia-study-2015",
           role: "verified",
-          locator: "Hip dysplasia pathology and osteoarthritis in Spanish Mastiffs"
+          locator: "AEPME hip dysplasia radiographic screening protocol"
         },
         {
-          id: "aepme-mastin-espanol-profile",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "Displasia coxofemoral, torsión gástrica, entropión, ectropión e higromas"
+          locator: "Excessive entropion or ectropion listed as serious faults"
+        },
+        {
+          id: "akc-spanish-mastiff-breed-profile",
+          role: "cited",
+          locator: "Health overview and giant-breed care"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-21",
+      note: "Distinguishes actively screened hip dysplasia and standard-noted eyelid conformation issues from general giant-breed reported risks (elbow dysplasia, bloat, panosteitis, hygromas, cardiac)."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "aepme-mastin-espanol-profile",
+          id: "spanish-mastiff-hip-dysplasia-study-2015",
           role: "cited",
-          locator: "Prevención, control de crecimiento lento, higiene de pliegues y descanso acolchado"
+          locator: "Pre-breeding hip dysplasia radiography"
         },
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "cited",
-          locator: "Routine care, bloat precautions, and veterinary checks"
+          locator: "Routine weight control, grooming, and veterinary care"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to giant livestock guardians."
+      note: "General preventive care recommendations for giant livestock guardians."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "aepme-mastin-espanol-profile",
-          role: "verified",
-          locator: "Requisitos de cría: Radiografía oficial de displasia de cadera (HD) y codo (ED), examen ocular"
-        },
-        {
           id: "spanish-mastiff-hip-dysplasia-study-2015",
           role: "verified",
-          locator: "Pre-breeding radiographic screening protocols"
+          locator: "AEPME official hip dysplasia radiographic protocol"
+        },
+        {
+          id: "aepme-mastin-espanol-profile",
+          role: "verified",
+          locator: "Authorized hip dysplasia evaluation at University of León Veterinary Faculty"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Screenings summarize published parent club and veterinary orthopedic protocols."
+      verifiedOn: "2026-11-21",
+      note: "Hip dysplasia radiography is formally institutionalized by AEPME; elbow, eye, and cardiac evaluations are prudent giant-breed breeding checks."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete scissor bite, powerful large teeth"
-        },
-        {
           id: "akc-spanish-mastiff-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Grooming: regular teeth brushing"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine dental hygiene guidance."
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
-          role: "cited",
-          locator: "Ears: medium size, triangular, flat drop ears"
-        },
-        {
           id: "akc-spanish-mastiff-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Grooming: regular ear checks for wax and debris"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for heavy drop ears."
+      note: "Standard drop-ear care guidance."
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "cited",
-          locator: "Skin: very thick, loose, double dewlap on throat"
-        },
-        {
-          id: "aepme-mastin-espanol-profile",
-          role: "cited",
-          locator: "Higiene y secado de la papada doble para evitar intertrigo"
+          locator: "Thick loose skin and pronounced double dewlap"
         }
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for breeds with deep skin dewlaps."
+      note: "General skin-fold and pressure-point care for heavy giant breeds."
     },
 
     suitability: {
@@ -1007,66 +996,69 @@ export const spanish_mastiff: Breed = {
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Temperament, exercise, and giant-breed ownership considerations"
         },
         {
-          id: "aepme-mastin-espanol-profile",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "cited",
-          locator: "Requisitos de manejo y perfil del propietario adecuado"
+          locator: "Livestock and property guardianship"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, giant physical mass, and guardian instincts."
+      note: "Editorial suitability assessment based on giant size, guardian instincts, and moderate energy."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "aepme-mastin-espanol-profile",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "Historia de la Mesta, 1 mastín por 100 ovejas, carlancas con púas, cuadro Las Meninas de Velázquez"
-        },
-        {
-          id: "fci-spanish-mastiff-official-standard",
-          role: "verified",
-          locator: "Brief historical summary: Transhumance history, Merino sheep guarding"
+          locator: "Mesta transhumance, Merino sheep guarding, deep carrying bark"
         },
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "verified",
-          locator: "Velázquez Las Meninas, carlanca spiked collars, thunder bark"
+          locator: "Did You Know: Latin 'mansuetus' root of mastiff, Mesta transhumance"
+        },
+        {
+          id: "aepme-mastin-espanol-profile",
+          role: "verified",
+          locator: "Carlanca spiked collars and historical Spanish mastiff heritage"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-21",
+      note: "Verified historical and linguistic facts rewritten in original wording."
     },
 
     faq: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-spanish-mastiff-official-standard",
+          id: "rsce-mastin-espanol-breed-standard",
           role: "verified",
-          locator: "Origin, size (males 77-88 cm / females 72-80 cm), double dewlap, and colors"
+          locator: "Origin, height minimums (77/72 cm), double dewlap, rear dewclaws, coat colors"
         },
         {
-          id: "aepme-mastin-espanol-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Weight (65-100 kg / 55-80 kg), lifespan (10-12 years), double dewclaws, and comparison with Pyrenean Mastiff"
+          locator: "Weight (64-100 kg / 50-77 kg), height upper bounds (89/84 cm), lifespan (10-12 years)"
         },
         {
           id: "akc-spanish-mastiff-breed-profile",
           role: "verified",
-          locator: "Family suitability, drooling, exercise, and training"
+          locator: "Lifespan, drooling, exercise, family life"
+        },
+        {
+          id: "spanish-mastiff-hip-dysplasia-study-2015",
+          role: "verified",
+          locator: "Hip dysplasia screening protocol"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and parent club data without naming registries in prose."
+      verifiedOn: "2026-11-21",
+      note: "All FAQ answers written in original wording without registry names."
     }
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-21"
 };

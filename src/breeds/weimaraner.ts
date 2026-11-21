@@ -7,79 +7,77 @@ export const weimaraner: Breed = {
 
   alternateNames: [
     "Grey Ghost",
+    "Weim",
     "Weimaraner Vorstehhund",
     "Braque de Weimar",
     "Braco de Weimar"
   ],
 
-  group:
-    "Gundogs; Section 1.1 — Continental Pointing Dogs, Type 'Braque' (with working trial; also classified in the Sporting and Gun Dog groups)",
+  group: "Pointing Dogs",
 
   origin: {
     country: "Germany",
     region:
-      "Thuringia, central Germany (specifically bred at the Grand Ducal Court of Weimar)"
+      "Thuringia, central Germany (developed at the Grand Ducal Court of Weimar)"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Weimaraner_female.JPG",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Weimaraner_female.JPG",
-      title: "Weimaraner female.JPG",
-      description:
-        "An adult female short-haired Weimaraner standing in profile outdoors.",
-      creator: "Pleple2000",
-      uploader: "Pleple2000",
-      capturedOn: "2008-10-05",
-      uploadedOn: "2008-10-18",
-      width: 2400,
-      height: 1800,
-      licenseId: "cc-by-sa-3.0",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Weimaraner_Dog.jpg",
+      sourcePage: "https://commons.wikimedia.org/wiki/File:Weimaraner_Dog.jpg",
+      title: "Weimaraner Dog.jpg",
+      description: "An adult male short-haired Weimaraner outdoors.",
+      creator: "Sciencia58",
+      uploader: "Sciencia58",
+      capturedOn: "2021-12-04",
+      uploadedOn: "2021-12-04",
+      width: 2640,
+      height: 1856,
+      licenseId: "cc0-1.0",
       attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Weimaraner_female.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Sciencia58, Wikimedia Commons, CC0 1.0 Public Domain Dedication. Source: https://commons.wikimedia.org/wiki/File:Weimaraner_Dog.jpg. License: https://creativecommons.org/publicdomain/zero/1.0/.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-20"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Weimaraner_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Weimaraner_in_der_Welt.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Weimaraner_600.jpg",
-      title: "Weimaraner 600.jpg",
-      description: "A Weimaraner standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
-      licenseId: "cc-by-sa-3.0",
+        "https://commons.wikimedia.org/wiki/File:Weimaraner_in_der_Welt.jpg",
+      title: "Weimaraner in der Welt.jpg",
+      description:
+        "A short-haired female Weimaraner sitting in a wooded forest.",
+      creator: "Bretos",
+      uploader: "Bretos",
+      capturedOn: "2025-01-19",
+      uploadedOn: "2025-02-09",
+      width: 3072,
+      height: 4080,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Weimaraner_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Bretos, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Weimaraner_in_der_Welt.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-20"
     }
   ],
 
   overview: {
     summary:
-      "A sleek, athletic, and aristocratic German pointing gundog, universally recognized by its striking silver-grey coat, piercing amber or blue-grey eyes, tireless hunting stamina, and shadow-like devotion to its handler.",
+      "A sleek, sinewy German pointing gundog famed for its monochrome silver-grey coat, light amber or blue-grey eyes, tireless hunting stamina, and close, shadow-like attachment to its owner.",
 
     description:
-      "The Weimaraner is a medium-to-large, elegant pointing dog combining lean, sinewy muscular power with graceful, ground-covering athleticism. Built with a clean rectangular silhouette, deep chest, and firm topline, the hound was bred to work closely with huntsmen through demanding forests and fields. Its signature coat appears in two varieties—the classic sleek short coat and a rarer feathered long coat—displaying an unmistakable monochrome palette ranging from shimmering silver-grey to mouse-grey or roe-grey. The head is aristocratically proportioned with a moderate stop, dark flesh-toned or grey nose, long lobular drop ears, and light amber to blue-grey eyes that radiate acute intelligence and focus. Deeply bonded, emotionally sensitive, and energetic, the breed excels as an adaptable field gundog, an enthusiastic canine athlete, and a steadfast household companion that thrives on human companionship.",
+      "The Weimaraner is a medium-to-large, streamlined pointing dog built for speed, endurance, and all-terrain fieldwork. Lean, muscular, and well balanced, it stands on sturdy legs with a deep chest, long velvety drop ears, and round amber or blue-grey eyes that give an alert, intelligent expression. Its unmistakable solid grey coat appears in silver, roe, or mouse shades—in both the classic smooth short-haired form and a less common feathered long-haired variety—earning the breed its nickname 'the Grey Ghost.' Bred to work closely beside hunters in woods, fields, and water, the Weimaraner is friendly, fearless, and intensely people-focused, thriving in active households that can match its high energy and craving for human company.",
 
     history:
-      "The breed was developed during the early nineteenth century at the royal court of Grand Duke Karl August of Saxe-Weimar-Eisenach in Weimar, central Germany. Noble sportsmen crossed historical tracking scenthounds, including the ancient Bloodhound-descended St. Hubert hound and early red Schweisshunde, with versatile German pointing dogs to produce a multi-purpose noble hunting dog capable of tracking big game such as deer, bear, and wild boar. As large game populations dwindled across western Europe, the dogs were redirected toward feathered upland game and hare. In 1897, a dedicated breed club was formed in Germany with strict regulations that permitted breeding stock and puppies to be sold exclusively to certified foresters and active hunters. The breed was introduced to North America and the United Kingdom in the 1920s and 1930s, where its shimmering coat and stealthy field movement earned it the enduring moniker 'The Grey Ghost'.",
+      "Developed in the early nineteenth century at the court of Grand Duke Karl August in Weimar, Germany, the Weimaraner was bred as an elite all-around hunting dog for nobility, originally used on large game before shifting to upland game birds and water retrieving. Systematic studbook breeding began around 1890—making it one of the oldest pure-bred German pointing breeds, largely free of later outcrosses—with a less common long-haired variety already appearing before 1900. Early German club members tightly restricted ownership and breeding to preserve field quality. After exports to the United States and the United Kingdom around the mid-twentieth century, the breed gained international popularity as both a versatile gundog and a striking, athletic companion.",
 
     originalPurpose:
-      "Tracking and baying large forest game including red deer, wild boar, and bear, transitioning to versatile pointing, flushing, and water retrieving of upland game birds and hares.",
+      "Versatile hunting in field, forest, and water—tracking, pointing, flushing, and retrieving game before and after the shot.",
 
     currentRoles: [
-      "Versatile pointing, flushing, and water-retrieving gundog",
-      "Field trial and hunt test competitor",
-      "Devoted household companion and personal protector",
-      "Search, rescue, and tracking detection partner",
-      "Canine athlete in agility, tracking, dock diving, and canicross"
+      "Versatile pointing, tracking, and water-retrieving gundog",
+      "Active family companion and running partner",
+      "Competitor in field trials, agility, obedience, tracking, and dock diving",
+      "Search-and-rescue and scent-detection dog"
     ]
   },
 
@@ -111,56 +109,51 @@ export const weimaraner: Breed = {
     },
 
     lifespanYears: {
-      min: 11,
-      max: 14
+      min: 10,
+      max: 13
     },
 
     coatType:
-      "Occurs in two distinct varieties: short-haired (short, smooth, very dense, and sleek topcoat with little or no undercoat) and long-haired (soft, long topcoat with or without undercoat, smooth or slightly wavy, with silky feathering on the ears, rear of legs, underside of chest, and a plumed tail).",
+      "Two recognized varieties: short-haired (short, strong, very dense, smooth-lying topcoat with little or no undercoat) and long-haired (soft, long, smooth or slightly wavy coat 3 to 5 cm on the sides with feathering on the ears, legs, underside, and tail).",
 
     coatLength: "Short",
 
     coatColors: [
       "Silver-grey",
-      "Roe-grey (fawn-grey)",
+      "Roe-grey",
       "Mouse-grey",
-      "Shades of grey intermediate between silver, fawn, and mouse (small white markings on the chest and toes are permissible)"
+      "Intermediate shades of grey (often slightly lighter on head and ears; small white marks allowed only on chest and toes; occasional dark dorsal stripe)"
     ],
 
     sheddingLevel:
-      "Moderate year-round shedding; the short single coat sheds fine hairs that are easily managed with regular weekly brushing",
+      "Moderate year-round; the sleek short coat sheds fine hairs that brush away easily",
 
     droolingLevel:
-      "Low to moderate; lips are moderately deep with flesh-toned edges, producing minimal drool except occasionally around food or after vigorous exercise",
+      "Low to moderate; moderately deep flesh-toned lips produce minimal drool outside meals or heavy exertion",
 
     distinctiveFeatures: [
-      "Aristocratic, athletic, and balanced rectangular pointing dog build",
-      "Height at the withers of 59 to 70 cm for males (ideal 62 to 67 cm) and 57 to 65 cm for females (ideal 59 to 63 cm)",
-      "Weight of 30 to 40 kg for males and 25 to 35 kg for females in lean, conditioned working form",
-      "Signature solid grey coat color occurring in silver, roe, or mouse shades, often lighter on the head and ears",
-      "Striking, expressive light amber to hazel eyes in adults, appearing distinctive sky-blue in puppies",
-      "Long, lean, and cleanly chiseled head with a slight median furrow and a moderate stop",
-      "Dark flesh-coloured nose turning smoothly into grey towards the bridge, with wide open nostrils",
-      "Complete scissor bite with powerful jaws and sound, evenly spaced teeth",
-      "Broad, long, lobular drop ears set high, rounded at the tips, and reaching nearly to the corner of the mouth",
-      "Deep, spacious chest extending down to the elbows with well-sprung oval ribs and a moderate tuck-up",
-      "Tail set slightly below the topline, carried straight or slightly upward when alert (docked historically or left natural)",
-      "Long, sinewy legs with compact, well-arched cat-like feet and webbed toes for swimming"
+      "Lean, sinewy, muscular pointing dog frame built for speed and stamina",
+      "Height at the withers of 59 to 70 cm in males (ideal 62 to 67 cm) and 57 to 65 cm in females (ideal 59 to 63 cm)",
+      "Adult weight of 30 to 40 kg in males and 25 to 35 kg in females",
+      "Solid silver-grey, roe-grey, or mouse-grey coat in either short-haired or feathered long-haired varieties",
+      "Round, intelligent eyes in shades of amber (or blue-grey) as adults, starting sky-blue in puppies",
+      "Long, strong, nearly square-profile muzzle with a large dark flesh-coloured nose shading into grey toward the bridge",
+      "Complete, regular, strong scissor bite",
+      "High-set, broad, fairly long folded drop ears with rounded tips reaching roughly to the corner of the mouth",
+      "Deep, well-ribbed chest reaching nearly to the elbows without appearing barrel-chested",
+      "Strong, well-haired tail set slightly below the topline, carried hanging at rest and horizontal or higher when alert",
+      "Compact, well-arched feet with thick pads and grey or amber nails"
     ]
   },
 
   temperament: {
     traits: [
-      "Alert, vigilant, and highly responsive to environmental cues",
-      "Passionate, tireless, and determined field hunter with an exceptional nose",
-      "Deeply affectionate, loyal, and shadow-like with family members",
-      "Intelligent, quick-witted, and eager to learn complex tasks",
-      "Protective and watchful of household boundaries and family circle",
-      "Courteous yet reserved with unfamiliar strangers until properly introduced",
-      "Playful and sturdy companion for familiar children",
-      "High prey drive toward small wild mammals, birds, and running animals",
-      "Sensitive to handler emotional tone and unresponsive to harsh corrections",
-      "Prone to separation distress if isolated for long periods without companionship"
+      "Friendly, fearless, and deeply devoted to its household",
+      "Alert, watchful, and naturally protective without unprovoked aggression",
+      "Intelligent, quick to learn, and eager for active engagement",
+      "Passionate, systematic, and tireless field hunter with a keen nose",
+      "Highly people-oriented and prone to separation distress if routinely isolated",
+      "High prey drive toward small animals and running wildlife"
     ],
 
     scores: {
@@ -170,7 +163,7 @@ export const weimaraner: Breed = {
       withStrangers: 3,
       protectiveness: 4,
       independence: 2,
-      trainability: 5,
+      trainability: 4,
       barking: 3,
       energy: 5
     }
@@ -179,7 +172,7 @@ export const weimaraner: Breed = {
   care: {
     exercise: {
       level:
-        "Very high; an athletic, high-stamina hunting pointer requiring vigorous daily physical exertion and demanding mental problem-solving to maintain indoor serenity",
+        "Very high; a swift, endurance-bred gundog that needs generous daily running and mental work to stay settled indoors",
 
       minutesPerDay: {
         min: 90,
@@ -187,12 +180,11 @@ export const weimaraner: Breed = {
       },
 
       activities: [
-        "Daily long-distance trail running, jogging, or brisk hiking on natural terrain",
-        "Field pointing, tracking, and upland retrieving training",
-        "Water retrieving and swimming in lakes or safe open water",
-        "Canine sports including agility, dock diving, tracking, and canicross",
-        "Interactive fetch, long-range ball retrieving, and flirt-pole chase games in a secure area",
-        "Scent-work challenges, complex obedience drills, and puzzle-toy enrichment"
+        "Off-leash running in large, securely fenced areas and brisk trail runs",
+        "Pointing, tracking, and upland or water retrieving drills",
+        "Hiking, jogging, or cycling once skeletally mature",
+        "Agility, dock diving, obedience, and scent-work sports",
+        "Interactive fetch and challenging food-puzzle enrichment"
       ]
     },
 
@@ -200,36 +192,33 @@ export const weimaraner: Breed = {
       level: "Low to moderate",
 
       brushing:
-        "Brush once or twice weekly with a rubber curry comb, hound mitt, or soft bristle brush to remove loose dead hairs and maintain skin oils; the long-haired variety requires combing two to three times weekly to keep feathering tangle-free.",
+        "Brush the short coat weekly with a rubber curry brush or soft bristle mitt to lift loose dead hair; comb the long-haired variety two to three times weekly to prevent tangles in the feathering.",
 
       bathing:
-        "Bathe every six to eight weeks or when soiled after muddy field hunts, using a gentle canine shampoo.",
+        "Bathe occasionally when muddy or soiled using a mild canine shampoo.",
 
       notes: [
-        "Inspect the long drop ears weekly for moisture, wax buildup, or debris, especially after swimming or field hunts, drying the canals thoroughly.",
-        "Check webbed paws, pads, and toes after running in thick brush or rocky ground for cuts, burrs, or embedded thorns.",
-        "Trim fast-growing nails every two to three weeks to maintain correct compact foot structure.",
-        "Brush teeth several times weekly using dog-specific enzymatic toothpaste.",
-        "Wipe down the short coat with a damp chamois or microfiber cloth after outdoor excursions to remove dust and restore a brilliant sheen.",
-        "Provide soft, orthopedic bedding indoors, as the sleek coat and lean frame make pressure points prone to elbow calluses on hard surfaces."
+        "Keep fast-growing nails trimmed short—if they click on hard floors, they are overdue and can become difficult to shorten back.",
+        "Clean and inspect the long drop ears regularly because limited airflow can encourage wax buildup and ear infections.",
+        "Check paws and skin after running through brush for minor cuts, scrapes, or burrs.",
+        "Brush teeth several times weekly and provide cushioned bedding to protect lean elbows from calluses."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; exceptionally intelligent, biddable, and eager to please, but strong-willed, easily bored, and highly energetic, requiring calm, consistent, and reward-based leadership",
+        "Moderate; quick-witted and capable of learning rapidly, which means it picks up bad habits just as fast as good ones without steady, creative guidance",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
-        "Begin obedience, loose-leash walking, and impulse-control training from early puppyhood.",
-        "Keep instructional lessons fast-paced, challenging, and varied to prevent mental boredom.",
-        "Avoid harsh verbal reprimands or physical coercion, which cause this sensitive hound to lose trust and become stubborn.",
-        "Always exercise within a securely fenced area of at least six feet in height; strong prey drive can prompt sudden pursuit of wildlife.",
-        "Practice calm separation routines early to prevent intense velcro attachment from turning into destructive separation anxiety."
+        "Start puppy obedience and socialization early with consistent household rules.",
+        "Use upbeat, reward-based training and creative games—Weimaraners respond best when cooperation feels rewarding.",
+        "Keep sessions brisk and varied so this clever pointer does not invent its own mischievous projects.",
+        "Practice calm alone-time and crate routines early to reduce separation anxiety.",
+        "Use a secure fence or reliable leash outdoors because strong hunting instincts can trigger sudden chases."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs of varying sizes, livestock, novel surfaces, and busy environments. Early structured socialization tempers natural protective wariness and fosters an outgoing, self-assured companion."
+        "Expose puppies early and positively to unfamiliar people, calm dogs, children, and everyday noises so their protective alertness stays friendly and well-mannered."
     },
 
     livingEnvironment: {
@@ -238,84 +227,79 @@ export const weimaraner: Breed = {
 
       climates: [
         "Temperate climates",
-        "Warm climates, provided indoor cooling, shade, fresh water, and exercise during cooler hours are available",
-        "Cool climates, provided the dog lives indoors and wears a protective fleece during sub-zero winter weather"
+        "Warm climates when shade, hydration, and cooler-hour exercise are provided",
+        "Cool climates when housed indoors with a warm coat during freezing weather (especially for short-haired dogs)"
       ],
 
       aloneTimeTolerance:
-        "Low; intensely bonded to its family and famously nicknamed a 'velcro dog', prone to severe separation anxiety, vocal howling, and destructive chewing if left isolated for long workdays."
+        "Low; craves close daily involvement with its people and can become vocal or destructive if left alone for long stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large active sporting or working breeds, adjusted for age, activity level, and seasonal field exertion.",
+      "High-quality, complete and balanced dog food formulated for large active breeds—often with a moderately high protein level—matched to life stage.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a large-breed growth diet supporting steady skeletal development.",
-      adult:
-        "Two measured meals daily to support steady metabolism and minimize digestive discomfort.",
-      senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Three to four small measured meals daily until six months of age on a large-breed growth diet",
+      adult: "Two measured meals per day",
+      senior: "Two portion-controlled meals per day adjusted for lower activity"
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Divide daily food into two distinct meals, restrict vigorous running for at least one hour before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Weimaraners are typically enthusiastic eaters; measure daily portions carefully to keep a lean, athletic waist, split food into two meals, and avoid vigorous running right before or after eating to help reduce bloat risk. Avoid overdoing rich table scraps that can upset digestion.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on hips and stifles.",
-      "Account for training treats within the total daily caloric allowance to avoid creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water, especially during warm-weather hunting or training excursions.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Rest the dog before and after meals to help lower the risk of gastric torsion (bloat).",
+      "Supervise chew toys closely, as eager chewers can injure their mouths or swallow foreign objects.",
+      "Keep weight lean to minimize stress on hips and elbows.",
+      "Adjust calories up during heavy hunting or running seasons and down during quieter periods.",
+      "Provide clean, fresh water at all times."
     ],
 
     note:
-      "Caloric needs fluctuate substantially between sedentary home periods and intense autumn hunting seasons. Work with a veterinarian to establish tailored daily feeding guidelines."
+      "Discuss ideal feeding amounts, bloat precautions, and whether prophylactic gastropexy makes sense for your dog with a veterinarian."
   },
 
   health: {
     overview:
-      "The Weimaraner is a robust, athletic sporting dog with a typical life expectancy of 11 to 14 years. Developed through strict working standards, it has maintained good constitutional hardiness. Primary health considerations focus on risks associated with deep-chested sporting dogs—notably gastric dilatation-volvulus (GDV / bloat)—alongside orthopedic screening for hip and elbow dysplasia, hereditary ocular conditions, autoimmune thyroiditis, and rare neurological conditions such as hypomyelination (spinal dysraphism).",
+      "The Weimaraner is generally an athletic, hardy sporting breed with a typical lifespan of 10 to 13 years. The single most urgent life-threatening risk is gastric dilatation-volvulus (GDV / gastric torsion / bloat), common to deep-chested large breeds. Scientifically established inherited conditions with available DNA tests include three distinct autosomal recessive disorders: hypomyelination ('shaking puppy' syndrome, caused by a frameshift mutation in FNIP2), spinal dysraphism (a neural tube defect caused by a frameshift mutation in NKX2-8), and hyperuricosuria (HUU). Orthopedic and systemic conditions actively screened or researched in the breed include hip dysplasia, elbow dysplasia, hypertrophic osteodystrophy (HOD) and panosteitis in rapidly growing puppies, ocular conditions, autoimmune thyroiditis, and cardiac disease.",
 
     commonConditions: [
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening emergency in deep-chested breeds where the stomach distends with gas and twists on its mesenteric axis, requiring emergency surgical intervention; preventive prophylactic gastropexy is frequently discussed with veterinarians",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb lameness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints causing forelimb lameness and secondary arthritis",
-      "Hypomyelination / Spinal Dysraphism ('shaking puppy syndrome') — an inherited neurological disorder causing distinctive tremors and bunny-hopping in young puppies, screenable via DNA testing",
-      "Autoimmune thyroiditis — immune-mediated destruction of the thyroid gland causing hypothyroidism, weight gain, lethargy, and coat thinning",
-      "Entropion, distichiasis, and corneal dystrophy — eyelid and ocular conditions monitored through regular veterinary ophthalmologist examinations",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by heavy drop ears that trap moisture after swimming",
-      "Tricuspid valve dysplasia (TVD) and cardiac murmurs — congenital or acquired cardiac conditions evaluated via veterinary auscultation and echocardiography"
+      "Gastric dilatation-volvulus (GDV / bloat) — the most serious emergency risk in the breed, where the deep-chested stomach distends and twists; requires immediate emergency veterinary surgery, and owners often discuss preventive gastropexy with their veterinarian.",
+      "Hip dysplasia and elbow dysplasia — recognized developmental joint disorders screened via pre-breeding radiographic evaluations.",
+      "Hypomyelination ('shaking puppy' syndrome) — a scientifically established autosomal recessive disorder caused by a frameshift mutation in the FNIP2 gene, causing early puppy tremors that typically improve over time; preventable via pre-breeding DNA testing.",
+      "Spinal dysraphism — a distinct autosomal recessive neural tube defect caused by a frameshift mutation in the NKX2-8 gene (separate from hypomyelination); preventable via pre-breeding DNA testing.",
+      "Hyperuricosuria (HUU) — an inherited uric-acid metabolism trait that can predispose affected dogs to urinary stones; screenable via DNA testing.",
+      "Hypertrophic osteodystrophy (HOD) and panosteitis — painful developmental long-bone conditions seen in rapidly growing Weimaraner puppies, with HOD actively researched as a complex breed-associated inflammatory bone disorder.",
+      "Ocular, thyroid, and cardiac conditions (screened) — eye disorders, autoimmune thyroiditis, and heart conditions monitored through specialist exams and blood panels, alongside ear infections linked to long drop ears and accidental field/chewing injuries."
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip and elbow clearances, DNA clearances, and current specialist eye and thyroid certifications.",
-      "Feed two smaller meals daily and avoid vigorous running for at least one hour before and after eating to mitigate bloat risk.",
-      "Inspect and thoroughly dry the drop ears after every swim or wet field hunt, wiping canals with an approved veterinary cleanser.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Choose puppies from breeders who complete hip, eye, cardiac, and thyroid evaluations plus DNA tests for spinal dysraphism (NKX2-8), hypomyelination (FNIP2), and hyperuricosuria (HUU).",
+      "Feed two smaller meals daily, avoid intense exercise around mealtimes, learn emergency signs of bloat, and discuss prophylactic gastropexy with a veterinarian.",
+      "Monitor growing puppies closely for sudden limping, fever, or swollen leg joints (signs of HOD or panosteitis) and seek prompt veterinary care.",
+      "Keep nails trimmed short, clean drop ears regularly, and supervise heavy chewers to prevent foreign-body ingestion.",
+      "Maintain lean body weight, parasite prevention, and annual veterinary checkups."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Autoimmune thyroiditis blood panel (free T4, TSH, and autoantibodies) prior to breeding",
-      "DNA marker test for Spinal Dysraphism / Hypomyelination"
+      "Radiographic hip evaluation prior to breeding (and elbow evaluation in programs recommending both)",
+      "Board-certified veterinary ophthalmologist eye examination",
+      "Autoimmune thyroiditis blood evaluation",
+      "Veterinary cardiac examination",
+      "DNA tests for spinal dysraphism (NKX2-8), hypomyelination (FNIP2), and hyperuricosuria (HUU)"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, wide jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine enzymatic toothpaste and inspect gums periodically, as enthusiastic chewers can chip teeth or irritate mouth tissue.",
 
     earCare:
-      "Inspect the long drop ears weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather and canal opening thoroughly after swimming.",
+      "Check and clean the long, folded drop ears weekly and after water outings, drying carefully to discourage moisture-related ear infections.",
 
     skinCare:
-      "Part the sleek coat weekly during brushing to inspect the skin for external parasites, scratches, or hot spots. Provide thick orthopedic bedding to protect pressure points over elbows and hocks from calluses."
+      "Brush weekly to remove dead hair and inspect the short coat for minor brush cuts, scrapes, or ticks; provide padded bedding to prevent elbow calluses."
   },
 
   suitability: {
@@ -326,85 +310,63 @@ export const weimaraner: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, trail runners, and hikers who can provide two hours of daily physical exercise",
-      "Gundog sportsmen and hunters seeking an authentic, versatile pointing and retrieving partner",
-      "Experienced dog owners familiar with high-energy sporting breeds and gentle leadership",
-      "Homes with large, securely fenced yards of at least six feet in height",
-      "Canine sports enthusiasts involved in agility, tracking, dock diving, or competitive obedience"
+      "Runners, hikers, and active families able to provide generous daily off-leash or vigorous exercise",
+      "Hunters and dog-sport enthusiasts interested in pointing, retrieving, agility, or tracking",
+      "Households where people are around frequently to satisfy its strong need for companionship",
+      "Homes with a large, securely fenced yard"
     ],
 
     notIdealFor: [
-      "Sedentary individuals or first-time dog owners unprepared for high physical energy and intense attachment",
-      "Apartment or condominium dwellers without access to extensive off-leash running areas",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "Households with loose small animals or pet rodents vulnerable to high hunting prey drive",
-      "People seeking a casual, low-exercise backyard pet"
+      "Sedentary households or first-time owners unprepared for very high energy and strong drive",
+      "Apartment dwellers without daily access to large running spaces",
+      "Owners who leave a dog alone for long workdays on a routine basis",
+      "Homes with unsupervised small pets such as rabbits or rodents"
     ]
   },
 
   funFacts: [
-    "The Weimaraner is famously nicknamed 'The Grey Ghost' (der Graue Geist), a tribute to its ethereal silver-grey coat, silent stealth in the field, and habit of shadow-like devotion right at its owner's heels.",
-    "All Weimaraner puppies are born with striking sky-blue eyes, which gradually transition into their adult light amber, grey, or hazel eye color as they mature between six and twelve months of age.",
-    "World-renowned contemporary artist and photographer William Wegman made the Weimaraner an international cultural sensation through his famous photographic portraits and video art featuring his dogs Man Ray, Fay Ray, and their descendants dressed in human costumes.",
-    "In nineteenth-century Germany, the breed was so jealously guarded by the German aristocracy that breeding stock could only be purchased by members of the exclusive Weimaraner Club, who strictly limited membership to maintain purity and hunting ability.",
-    "While the short-haired variety is globally well known, an official long-haired variety with silky feathering on the ears, legs, and tail has been recognized in Germany and international standards for over a century.",
-    "Dwight D. Eisenhower kept a beloved Weimaraner named Heidi in the White House during his presidency in the 1950s, making the breed a recognized fixture on the American political scene."
+    "Its sleek silver-grey coat and quiet, gliding movement in the field earned the breed the nickname 'the Grey Ghost.'",
+    "Weimaraner puppies are born with striking sky-blue eyes that gradually shift to shades of amber or blue-grey as they grow.",
+    "Artist William Wegman brought the breed worldwide pop-culture fame through his whimsical portraits and Sesame Street video segments starting in 1989.",
+    "U.S. President Dwight D. Eisenhower kept a Weimaraner named Heidi in the White House.",
+    "Alongside the familiar smooth short-haired coat, a feathered long-haired Weimaraner variety has existed in Germany since before 1900."
   ],
 
   faq: [
     {
-      question: "What is a Weimaraner?",
+      question: "How big is an adult Weimaraner?",
       answer:
-        "The Weimaraner is an athletic, large-sized German pointing gundog known for its sleek silver-grey coat, amber eyes, high hunting stamina, and deeply devoted, shadow-like temperament."
+        "Adult males stand 59 to 70 cm at the withers (ideally 62 to 67 cm) and weigh 30 to 40 kg, while females stand 57 to 65 cm (ideally 59 to 63 cm) and weigh 25 to 35 kg."
     },
     {
-      question: "Why is the Weimaraner called the 'Grey Ghost'?",
+      question: "How long do Weimaraners usually live?",
       answer:
-        "The breed earned its nickname 'The Grey Ghost' from its shimmering monochrome grey coat, its stealthy and silent movement through hunting fields, and its famous habit of following its handler everywhere like a shadow."
+        "Most Weimaraners live about 10 to 13 years with balanced nutrition, lean body weight, and routine veterinary care."
     },
     {
-      question: "How tall and heavy is a Weimaraner?",
+      question: "Are there long-haired Weimaraners?",
       answer:
-        "Adult males stand 59 to 70 cm at the withers and weigh 30 to 40 kg, while adult females stand 57 to 65 cm and weigh 25 to 35 kg, presenting a lean, powerful, and athletic build."
+        "Yes. While the smooth short-haired coat is far more common, a feathered long-haired variety has existed since before 1900 and is recognized in international and UK registries."
     },
     {
-      question: "How long does a Weimaraner live?",
+      question: "How much exercise does a Weimaraner need?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 11 to 14 years."
-    },
-    {
-      question: "Do Weimaraners shed a lot, and how are they groomed?",
-      answer:
-        "They shed moderately year-round. Their sleek short coat requires minimal grooming, needing only a weekly brushing with a rubber curry comb or bristle brush, occasional ear cleaning, and a wipe-down with a damp cloth to maintain coat sheen."
+        "Plan on 90 to 120 minutes or more of real daily exercise—ideally including brisk running, retrieving, hiking, or training sports rather than casual leash strolls alone."
     },
     {
       question: "Can a Weimaraner live in an apartment?",
       answer:
-        "No. Due to their immense exercise requirements, high energy, and deep need for physical activity, they are not suited to apartment living and thrive best in a home with a large, securely fenced yard."
+        "Generally no. Their size, high stamina, and need to stretch their legs at a full run fit a house with a large, securely fenced yard much better than apartment life."
     },
     {
-      question: "Are Weimaraners good family pets and good with children?",
+      question: "What are the most important health concerns in Weimaraners?",
       answer:
-        "Yes, with active families. They are loving, loyal, and playful with familiar children; however, because of their large size, exuberant energy, and tendency to jump when excited, interactions with toddlers should be supervised."
-    },
-    {
-      question: "Why are Weimaraners prone to separation anxiety?",
-      answer:
-        "Historically bred to live in close personal contact with their noble handlers rather than in outdoor kennels, Weimaraners form intense, shadow-like attachments to their owners; without early crate training and calm separation practice, they can develop severe separation distress."
-    },
-    {
-      question: "How much exercise does a Weimaraner need every day?",
-      answer:
-        "The breed requires 90 to 120 minutes of vigorous daily physical activity, including brisk runs, trail hiking, fetch, and mental challenges like tracking, agility, or obedience training."
-    },
-    {
-      question: "What major health conditions affect the Weimaraner?",
-      answer:
-        "Primary health priorities include gastric dilatation-volvulus (bloat), hip and elbow dysplasia, autoimmune thyroiditis, eye disorders, and rare neurological conditions like spinal dysraphism."
+        "Bloat (gastric torsion) is the top emergency risk. Responsible breeders also screen for hip and elbow dysplasia, eye, thyroid, and heart conditions, and run DNA tests for three separate recessive traits: spinal dysraphism (NKX2-8), hypomyelination (FNIP2), and hyperuricosuria (HUU)."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-weimaraner-official-standard",
     "fci-weimaraner-nomenclature",
     "vdh-weimaraner-breed-standard",
@@ -412,43 +374,53 @@ export const weimaraner: Breed = {
     "akc-weimaraner-breed-standard",
     "akc-weimaraner-breed-profile",
     "the-kennel-club-weimaraner-breed-standard",
+    "rkc-weimaraner-breed-profile",
     "ukc-weimaraner-breed-standard",
     "weimaraner-club-of-america-health",
     "ofa-weimaraner-chic-requirements",
+    "weimaraner-spinal-dysraphism-nkx2-8-2013",
+    "weimaraner-hypomyelination-fnip2-2014",
+    "the-dog-api",
     "wikimedia-weimaraner-female-pleple2000",
     "wikimedia-weimaraner-600-tomasz-sienicki"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator:
+            "Related ITIS Names: Canis lupus familiaris Linnaeus, 1758 (TSN 726821); Wilson and Reeder 2005"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: "Standard domestic dog subspecies taxonomy verified via NatureServe Explorer / ITIS."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-weimaraner-official-standard",
-          role: "verified",
-          locator: "Standard heading: WEIMARANER"
-        },
-        {
           id: "fci-weimaraner-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: WEIMARANER (99), Braque de Weimar, Braco de Weimar"
+          locator: "WEIMARANER (99), BRAQUE DE WEIMAR"
         },
         {
           id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "History: Grey Ghost, Weimaraner Vorstehhund"
+          locator: "About the Breed: 'Gray Ghost'"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "alternateNames: Weim, Grey Ghost"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 99, FCI Nomenclature, VDH, and AKC."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     group: {
@@ -457,17 +429,13 @@ export const weimaraner: Breed = {
         {
           id: "fci-weimaraner-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 7 Pointing Dogs, Section 1.1 Continental Pointing Dogs, Type 'Braque', with working trial"
+          locator:
+            "Group 7 Pointing Dogs, Section 1.1 Continental Pointing Dogs, Type Braque, with working trial"
         },
         {
-          id: "fci-weimaraner-nomenclature",
+          id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "Group 7, Section 1.1 Continental Pointing Dogs, with working trial"
-        },
-        {
-          id: "akc-weimaraner-breed-standard",
-          role: "verified",
-          locator: "Sporting Group"
+          locator: "Sporting Group (recognized 1943)"
         },
         {
           id: "the-kennel-club-weimaraner-breed-standard",
@@ -480,9 +448,9 @@ export const weimaraner: Breed = {
           locator: "Gun Dog Group"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group label avoids registry acronyms and group numbers per Rule 5."
     },
 
     origin: {
@@ -491,20 +459,20 @@ export const weimaraner: Breed = {
         {
           id: "fci-weimaraner-official-standard",
           role: "verified",
-          locator: "ORIGIN: Germany; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: Germany"
         },
         {
-          id: "fci-weimaraner-nomenclature",
+          id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "Country of origin: Germany"
+          locator: "History: Grand Duke Karl August, court in Weimar, Germany"
         },
         {
-          id: "weimaraner-klub-ev-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Geschichte und Ursprung am Hof von Großherzog Karl August von Sachsen-Weimar-Eisenach"
+          locator: "origin.country: Weimar, Germany"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -514,22 +482,27 @@ export const weimaraner: Breed = {
         {
           id: "fci-weimaraner-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator:
+            "UTILIZATION, BRIEF HISTORICAL SUMMARY (pure-bred since ~1890/1900, long-haired variety before 1900), GENERAL APPEARANCE"
         },
         {
-          id: "weimaraner-klub-ev-breed-profile",
+          id: "rkc-weimaraner-breed-profile",
           role: "verified",
-          locator: "Rasseportrait, Jagdgebrauch, Hof von Weimar und 1897 Vereinsgründung"
+          locator: "About this breed (Grand Duke Karl August, exclusive club, UK 1950s, long-haired variety)"
         },
         {
           id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (Grand Duke Karl August, Grey Ghost moniker), and Roles"
+          locator: "About the Breed, History"
+        },
+        {
+          id: "weimaraner-klub-ev-breed-profile",
+          role: "cited",
+          locator: "German parent club heritage"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesized in original prose from FCI Standard No. 99, VDH, German parent club, and AKC official records."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     physical: {
@@ -538,22 +511,22 @@ export const weimaraner: Breed = {
         {
           id: "fci-weimaraner-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator:
+            "HEAD, EYES (amber, sky-blue in puppies, round), EARS, BODY, TAIL, COAT (short-haired and long-haired 3–5 cm), COLOUR (silver/roe/mouse grey, optional dorsal stripe)"
+        },
+        {
+          id: "the-kennel-club-weimaraner-breed-standard",
+          role: "verified",
+          locator: "General appearance, Eyes (amber or blue-grey), Coat, Feet (updated 2025-08-01)"
         },
         {
           id: "vdh-weimaraner-breed-standard",
           role: "verified",
-          locator: "Musterbeschreibung: Kopf, Rute, Behang, Haarvarietäten, Farbe und Grössen"
-        },
-        {
-          id: "akc-weimaraner-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Size, Head, Eyes, Ears, Body, Tail, Coat, Color"
+          locator: "German VDH FCI No. 99 standard"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Conformation, rectangular build, short and long coat varieties, silver/roe/mouse grey coloration, amber eyes, and distinctive features follow official standards."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "physical.height": {
@@ -562,22 +535,58 @@ export const weimaraner: Breed = {
         {
           id: "fci-weimaraner-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at the withers: Males: 59–70 cm (ideal 62–67 cm). Females: 57–65 cm (ideal 59–63 cm)."
+          locator: "SIZE: Males 59–70 cm (ideal 62–67 cm); Females 57–65 cm (ideal 59–63 cm)"
         },
         {
-          id: "vdh-weimaraner-breed-standard",
-          role: "verified",
-          locator: "Widerristhöhe: Rüden 59 bis 70 cm (Idealmass 62-67 cm); Hündinnen 57 bis 65 cm (Idealmass 59-63 cm)"
+          id: "akc-weimaraner-breed-profile",
+          role: "conflicting",
+          locator: "Height: 25–27 inches (male), 23–25 inches (female)"
         },
         {
-          id: "akc-weimaraner-breed-standard",
-          role: "verified",
-          locator: "Height: Height at the withers: dogs, 25 to 27 inches (approx. 63.5-68.5 cm); bitches, 23 to 25 inches (approx. 58.5-63.5 cm)"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height (cm): male 64–69, female 58–64"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "Preserved in published unit of centimetres (59–70 cm for males, 57–65 cm for females) exactly as specified in the official FCI Standard No. 99 and VDH standard."
+        "Kept FCI Standard No. 99 metric heights (59–70 cm males, 57–65 cm females) over The Dog API (64–69 / 58–64 cm) and AKC inch ranges."
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-weimaraner-official-standard",
+          role: "verified",
+          locator: "SIZE: Males 59–70 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height.male.max: 69 cm"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-weimaraner-official-standard",
+          role: "verified",
+          locator: "SIZE: Females 57–65 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height.female.max: 64 cm"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "physical.weight": {
@@ -586,22 +595,58 @@ export const weimaraner: Breed = {
         {
           id: "fci-weimaraner-official-standard",
           role: "verified",
-          locator: "Weight: Males: about 30 to 40 kg. Females: about 25 to 35 kg."
-        },
-        {
-          id: "vdh-weimaraner-breed-standard",
-          role: "verified",
-          locator: "Gewicht: Rüden ca. 30 bis 40 kg; Hündinnen ca. 25 bis 35 kg"
+          locator: "WEIGHT: Males 30–40 kg; Females 25–35 kg"
         },
         {
           id: "akc-weimaraner-breed-profile",
-          role: "verified",
-          locator: "Weight: 70-90 pounds (males), 55-75 pounds (females)"
+          role: "conflicting",
+          locator: "Weight: 70–90 pounds (male), 55–75 pounds (female)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "weight (kg): male 32–41, female 25–34"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "Preserved in published unit of kilograms (30 to 40 kg for males, 25 to 35 kg for females) exactly as specified in the official FCI Standard No. 99 and VDH standard."
+        "Kept FCI Standard No. 99 metric weights (30–40 kg males, 25–35 kg females) over The Dog API (32–41 / 25–34 kg) and AKC pound ranges."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-weimaraner-official-standard",
+          role: "verified",
+          locator: "WEIGHT: Males 30–40 kg"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "weight.male.max: 41 kg"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
+    },
+
+    "physical.weight.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-weimaraner-official-standard",
+          role: "verified",
+          locator: "WEIGHT: Females 25–35 kg"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "weight.female.max: 34 kg"
+        }
+      ],
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "physical.lifespanYears": {
@@ -610,33 +655,38 @@ export const weimaraner: Breed = {
         {
           id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 11-13 years (up to 14 years in health surveys)"
+          locator: "Life Expectancy: 10–13 years"
         },
         {
-          id: "the-kennel-club-weimaraner-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longevity and health actuarial profile (10-14 years)"
+          locator: "lifespanYears: 10–13"
+        },
+        {
+          id: "rkc-weimaraner-breed-profile",
+          role: "cited",
+          locator: "Lifespan: Over 10 years"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and parent club actuarial profiles."
+      verifiedOn: "2026-11-20",
+      note: "Updated from 11–14 to 10–13 years to match both AKC and The Dog API."
     },
 
     "physical.sheddingLevel": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-weimaraner-breed-profile",
+          id: "rkc-weimaraner-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
+          locator: "Breed characteristics: Sheds: Yes"
         },
         {
-          id: "fci-weimaraner-official-standard",
+          id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "COAT: Short, smooth, very dense topcoat; moderate shedding"
+          locator: "Grooming: brush short coat to remove dead hair"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -644,18 +694,18 @@ export const weimaraner: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-weimaraner-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Drooling Level (2/5)"
-        },
-        {
           id: "fci-weimaraner-official-standard",
           role: "verified",
-          locator: "Lips: Moderately deep flews, flesh-coloured, small fold at corner"
+          locator: "Lips: moderately overhanging, flesh-coloured"
+        },
+        {
+          id: "akc-weimaraner-breed-profile",
+          role: "verified",
+          locator: "Breed Traits: Drooling Level"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Moderately deep flews result in low to moderate drooling."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "temperament.traits": {
@@ -664,20 +714,26 @@ export const weimaraner: Breed = {
         {
           id: "fci-weimaraner-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Versatile, easily trained, passionate, systematic and persevering hunter, watchful but not aggressive"
+          locator:
+            "BEHAVIOUR/TEMPERAMENT: versatile, easily trained, steady, passionate hunter, watchful but not aggressive"
         },
         {
-          id: "vdh-weimaraner-breed-standard",
+          id: "the-kennel-club-weimaraner-breed-standard",
           role: "verified",
-          locator: "Wesen: Vielseitig, führig, passioniert, verlässliche Suche, anhänglich"
+          locator: "Temperament: Fearless, friendly, protective, obedient and alert"
         },
         {
-          id: "akc-weimaraner-breed-standard",
+          id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "Temperament: Friendly, alert, fearless, obedient, great energy and drive"
+          locator: "friendly / fearless / obedient"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "temperament.traits: Energetic, intelligent, loyal, friendly, alert, courageous, athletic"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -687,17 +743,16 @@ export const weimaraner: Breed = {
         {
           id: "akc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics"
         },
         {
-          id: "the-kennel-club-weimaraner-breed-standard",
+          id: "rkc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Breed characteristics"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented gundog temperament, high energy, and shadow-like attachment."
+      note: "Editorial 1–5 ratings synthesized from kennel club descriptions."
     },
 
     care: {
@@ -706,34 +761,33 @@ export const weimaraner: Breed = {
         {
           id: "akc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming (nail length, ear cleaning), Exercise, Training, Nutrition"
         },
         {
-          id: "weimaraner-club-of-america-health",
+          id: "rkc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Care, health management, and exercise protocols"
+          locator: "Breed characteristics (More than 2 hours/day exercise, once a week grooming, large house/garden)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active pointing gundog management with sleek coat grooming and bloat prevention protocols."
+      note: null
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-weimaraner-breed-profile",
+          id: "rkc-weimaraner-breed-profile",
           role: "verified",
-          locator: "Energy Level (5/5); Exercise Needs (5/5)"
+          locator: "Exercise: More than 2 hours per day"
         },
         {
-          id: "fci-weimaraner-official-standard",
+          id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "UTILIZATION: Versatile hunting gundog with high stamina"
+          locator: "Exercise: high exercise requirements; loves a good run"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -741,55 +795,43 @@ export const weimaraner: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-weimaraner-breed-standard",
+          id: "rkc-weimaraner-breed-profile",
           role: "cited",
           locator: "Exercise: More than 2 hours per day"
-        },
-        {
-          id: "akc-weimaraner-breed-profile",
-          role: "cited",
-          locator: "Exercise requirements for high-energy pointers"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 90 to 120 minutes of daily activity reflects the exercise demands of an athletic, high-stamina gundog."
+      note: "Editorial estimate of 90–120 minutes/day reflecting very high sporting exercise needs."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
-          id: "akc-weimaraner-breed-profile",
+          id: "rkc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Large size, extreme stamina, and exercise requirements"
+          locator: "Size of home: Large house; Size of garden: Large garden"
         },
         {
-          id: "weimaraner-club-of-america-health",
+          id: "akc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Living environment recommendations: secure yard required"
+          locator: "Exercise: high running and space needs"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that very high energy, hunting stamina, and need for open movement make apartment living unsuitable."
+      note: null
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-weimaraner-breed-profile",
+          id: "rkc-weimaraner-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations (minimum six-foot fence)"
-        },
-        {
-          id: "weimaraner-klub-ev-breed-profile",
-          role: "verified",
-          locator: "Haltungsumfeld: Haus mit sicherem Garten oder forstlicher Auslauf"
+          locator: "Size of home: Large house; Size of garden: Large garden"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -799,15 +841,10 @@ export const weimaraner: Breed = {
         {
           id: "fci-weimaraner-official-standard",
           role: "verified",
-          locator: "COAT: Short sleek coat with little or no undercoat"
-        },
-        {
-          id: "akc-weimaraner-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: well-adapted to temperate and warm climates, needs coat in winter"
+          locator: "COAT: short smooth topcoat with little or no undercoat (short-haired variety)"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -817,10 +854,10 @@ export const weimaraner: Breed = {
         {
           id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "Tolerates Being Alone: Low rating (1/5 to 2/5); prone to separation anxiety"
+          locator: "About the Breed: yearns to be a full-fledged family member with lots of quality time"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note: null
     },
 
@@ -830,17 +867,11 @@ export const weimaraner: Breed = {
         {
           id: "akc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, bloat precautions"
-        },
-        {
-          id: "weimaraner-club-of-america-health",
-          role: "cited",
-          locator: "Feeding protocols and bloat prevention"
+          locator: "Nutrition: good eaters, moderately high protein food, avoid excess rich scraps"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for large, deep-chested active pointing gundogs."
+      note: null
     },
 
     "nutrition.feedingFrequency": {
@@ -849,140 +880,150 @@ export const weimaraner: Breed = {
         {
           id: "akc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Health & Nutrition: gastric torsion precautions and life-stage feeding"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard large-breed life-stage feeding schedule."
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-weimaraner-chic-requirements",
+          id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, Eye Examination, Autoimmune Thyroiditis, optional Hypomyelination"
+          locator:
+            "Health: gastric torsion (most serious risk), chewing/field injuries; Recommended tests: Hip, Cardiac, Ophthalmologist, Thyroid, SD DNA, HYM DNA, HUU DNA"
+        },
+        {
+          id: "weimaraner-spinal-dysraphism-nkx2-8-2013",
+          role: "verified",
+          locator: "PLoS Genet 2013 (PMID 23874236): NKX2-8 exon 2 frameshift mutation causing spinal dysraphism"
+        },
+        {
+          id: "weimaraner-hypomyelination-fnip2-2014",
+          role: "verified",
+          locator: "Glia 2014 (PMID 24272703): FNIP2 frameshift mutation causing hypomyelination ('shaking puppy')"
         },
         {
           id: "weimaraner-club-of-america-health",
           role: "verified",
-          locator: "Health priorities: GDV (bloat), hip dysplasia, hypomyelination/spinal dysraphism, thyroid disease"
+          locator: "WCA Health research on HOD, panosteitis, spinal dysraphism, hypomyelination, and HUU"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-20",
       note:
-        "Synthesizes national parent club health data with health registry screening requirements."
+        "Separated hypomyelination (FNIP2) and spinal dysraphism (NKX2-8) as two distinct autosomal recessive disorders per peer-reviewed genetics studies (Rule 8)."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "weimaraner-club-of-america-health",
+          id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "Gastric dilatation-volvulus (bloat), hip and elbow dysplasia, spinal dysraphism, eye conditions"
+          locator: "Gastric torsion, recommended tests (SD, HYM, HUU, hips, heart, eyes, thyroid)"
         },
         {
-          id: "ofa-weimaraner-chic-requirements",
+          id: "weimaraner-spinal-dysraphism-nkx2-8-2013",
           role: "verified",
-          locator: "Autoimmune thyroiditis and cardiac disease evaluations"
+          locator: "Spinal dysraphism (NKX2-8, PMID 23874236)"
+        },
+        {
+          id: "weimaraner-hypomyelination-fnip2-2014",
+          role: "verified",
+          locator: "Hypomyelination (FNIP2, PMID 24272703)"
+        },
+        {
+          id: "weimaraner-club-of-america-health",
+          role: "verified",
+          locator: "Hypertrophic osteodystrophy (HOD) and panosteitis"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "weimaraner-club-of-america-health",
-          role: "cited",
-          locator: "Preventive care, bloat precautions, prophylactic gastropexy discussion, and ear hygiene"
-        },
-        {
           id: "akc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Routine care and veterinary wellness"
+          locator: "Health (gastric torsion, chewing hazards) & Grooming (nails, ears)"
+        },
+        {
+          id: "weimaraner-club-of-america-health",
+          role: "cited",
+          locator: "CHIC screening and HOD monitoring"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to deep-chested pointing gundogs."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-weimaraner-chic-requirements",
+          id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, CAER Eye examination, Autoimmune Thyroiditis blood panel"
+          locator:
+            "Recommended Health Tests: Hip Evaluation, Cardiac Exam, Ophthalmologist Evaluation, Thyroid Evaluation, Spinal Dysraphism (SD) DNA, Hypomyelination (HYM) DNA, Hyperuricosuria (HUU) DNA"
         },
         {
-          id: "weimaraner-club-of-america-health",
+          id: "ofa-weimaraner-chic-requirements",
           role: "verified",
-          locator: "Pre-breeding testing protocols: Hips, elbows, eyes, thyroid, and spinal dysraphism DNA test"
+          locator: "OFA CHIC Weimaraner program"
+        },
+        {
+          id: "rkc-weimaraner-breed-profile",
+          role: "verified",
+          locator: "Best Practice: BVA/KC Hip, BVA/KC Elbow, BVA/KC/ISDS Eye"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-weimaraner-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete, regular and strong scissor bite"
-        },
-        {
           id: "akc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Health: chewing and mouth/gum injury awareness"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-weimaraner-official-standard",
+          id: "akc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Ears: broad and fairly long, lobular, rounded tips"
-        },
-        {
-          id: "weimaraner-club-of-america-health",
-          role: "cited",
-          locator: "Ear canal cleaning and drying after water work"
+          locator: "Grooming: clean ears regularly as ear structure impedes airflow"
         }
       ],
       verifiedOn: null,
-      note: "Ear maintenance protocol for long drop ears prone to moisture retention."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-weimaraner-official-standard",
+          id: "akc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Skin: strong, close-fitting, no dewlap"
-        },
-        {
-          id: "weimaraner-club-of-america-health",
-          role: "cited",
-          locator: "Skin inspection and bedding padding"
+          locator: "Health & Grooming: short coat brushing and field scrapes"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -991,17 +1032,17 @@ export const weimaraner: Breed = {
         {
           id: "akc-weimaraner-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "About the Breed, Exercise, Training"
         },
         {
-          id: "the-kennel-club-weimaraner-breed-standard",
+          id: "rkc-weimaraner-breed-profile",
           role: "cited",
-          locator: "Characteristics, lifestyle suitability, and exercise"
+          locator: "Breed characteristics"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+        "Editorial suitability summary based on very high exercise, strong hunting drive, and close family attachment."
     },
 
     funFacts: {
@@ -1010,21 +1051,16 @@ export const weimaraner: Breed = {
         {
           id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "William Wegman fine-art photography (Man Ray, Fay Ray), Eisenhower White House dog Heidi, blue eyes at birth, Grey Ghost nickname"
+          locator: "Did You Know: Eisenhower's Heidi, William Wegman (Sesame Street since 1989), 'Gray Ghost'"
         },
         {
           id: "fci-weimaraner-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Grand Duke Karl August of Weimar, short and long coat varieties"
-        },
-        {
-          id: "weimaraner-klub-ev-breed-profile",
-          role: "verified",
-          locator: "1897 Vereinsgründung und forstlicher Zuchtbetrieb"
+          locator: "EYES (sky-blue in puppies) & BRIEF HISTORICAL SUMMARY (long-haired variety before 1900)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-20",
+      note: null
     },
 
     faq: {
@@ -1033,24 +1069,28 @@ export const weimaraner: Breed = {
         {
           id: "fci-weimaraner-official-standard",
           role: "verified",
-          locator: "Origin, size (59-70 cm / 57-65 cm), weight (30-40 kg / 25-35 kg), coat varieties, and colors"
+          locator: "Size (59–70 cm / 57–65 cm), Weight (30–40 kg / 25–35 kg), coat varieties"
         },
         {
           id: "akc-weimaraner-breed-profile",
           role: "verified",
-          locator: "Grey Ghost moniker, puppy eye color, exercise needs, separation anxiety, and training"
+          locator: "Lifespan (10–13 years), exercise, health tests, gastric torsion"
         },
         {
-          id: "ofa-weimaraner-chic-requirements",
+          id: "weimaraner-spinal-dysraphism-nkx2-8-2013",
           role: "verified",
-          locator: "Recommended health screening panel and bloat prevention"
+          locator: "Spinal dysraphism (NKX2-8, PMID 23874236)"
+        },
+        {
+          id: "weimaraner-hypomyelination-fnip2-2014",
+          role: "verified",
+          locator: "Hypomyelination (FNIP2, PMID 24272703)"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and parent club data without naming registries in prose."
+      verifiedOn: "2026-11-20",
+      note: null
     }
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-20"
 };

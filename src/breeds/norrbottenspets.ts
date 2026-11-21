@@ -9,78 +9,76 @@ export const norrbottenspets: Breed = {
     "Nordic Spitz",
     "Pohjanpystykorva",
     "Norrbottenspitz",
-    "Spitz de Norrbotten"
+    "Spitz de Norrbotten",
+    "Nob"
   ],
 
-  group:
-    "Spitz and Primitive Types; Section 2 — Nordic Hunting Dogs (with working trial only for Nordic countries; also classified in the Northern Breed, Hound, and Miscellaneous groups)",
+  group: "Nordic Hunting Spitz (Northern Hunting Dog)",
 
   origin: {
     country: "Sweden",
-    region:
-      "Norrbotten county, northern Sweden, and Lapland / northern Finland"
+    region: "Norrbotten, northern Sweden, and northern Finland"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Norrbottenspets.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Nordicspitz1.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Norrbottenspets.jpg",
-      title: "Norrbottenspets.jpg",
+        "https://commons.wikimedia.org/wiki/File:Nordicspitz1.jpg",
+      title: "Nordicspitz1.jpg",
       description:
-        "An adult Norrbottenspets standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2048,
-      height: 1536,
-      licenseId: "cc-by-sa-3.0",
+        "An adult Norrbottenspets outdoors showing its white coat with warm patches, erect triangular ears, and curled tail.",
+      creator: "Canarian",
+      uploader: "Canarian",
+      capturedOn: "2022-12-02",
+      uploadedOn: "2025-07-31",
+      width: 1250,
+      height: 1300,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Norrbottenspets.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Nordicspitz1.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Norrbottenspets_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Nordic_Spitz.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Norrbottenspets_600.jpg",
-      title: "Norrbottenspets 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Nordic_Spitz.jpg",
+      title: "Nordic Spitz.jpg",
       description:
-        "A Norrbottenspets standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
+        "A Norrbottenspets (Pohjanpystykorva) photographed outdoors in profile.",
+      creator: "Kaisa Kotajärvi",
+      uploader: "Jotsio~commonswiki",
+      capturedOn: null,
+      uploadedOn: "2006-12-24",
+      width: 738,
+      height: 629,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Norrbottenspets_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Kaisa Kotajärvi, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Nordic_Spitz.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-10"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "A small, compact, and agile Nordic hunting spitz native to northern Scandinavia, renowned for its clean white piebald coat with red-yellow patches, prick ears, high-curled tail, musical treeing bark, and fearless yet friendly domestic companionship.",
+      "A small, agile Scandinavian hunting spitz from northern Sweden and Finland, distinguished by its crisp white coat with reddish-yellow patches, erect ears, loosely curled tail, fearless field drive, and warm, gentle home manner.",
 
     description:
-      "The Norrbottenspets is a small, harmonious, and dryly muscled Arctic hunting spitz displaying a compact, slightly rectangular silhouette that combines light-footed agility with rugged endurance. Originating along the sub-Arctic forests of northern Sweden and Finland, the dog was developed to hunt forest game across deep snow, dense taiga, and rocky bogland. Its weather-resistant double coat features a hard, short, and straight outer coat over a fine, dense undercoat, traditionally showcasing a clean white ground highlighted by well-defined reddish-yellow or warm tan patches. The head is cleanly wedge-shaped with a broad skull, almond-shaped dark eyes that express fearless intelligence, and stiffly erect, mobile triangular ears. In the wilderness, it acts as a tenacious barking pointer that tracks and trees game birds, while in the home it settles into an exceptionally gentle, calm, and affectionate companion.",
+      "The Norrbottenspets is a compact, slightly rectangular spitz built with lean, sinewy muscle and no physical exaggerations, enabling effortless movement over rough forest ground and deep snow. Its weatherproof double coat combines a hard, short, straight outer coat with a fine, dense undercoat, typically displaying a clean white ground broken by distinct patches in shades of red or yellow covering the ears and sides of the head. A wedge-shaped head carries a moderately marked stop, dark brown almond-shaped eyes set obliquely, thin tight-fitting lips, and high-set, stiffly erect ears with slightly rounded tips. The high-set tail curves in a loose arch with its tip resting against the thigh. Bold, keen, and vocal when locating forest game birds, it shifts easily into a calm, friendly, and affectionate family companion indoors.",
 
     history:
-      "For centuries, indigenous hunters and frontier homesteaders across the northern forests of the Gulf of Bothnia bred small spitz dogs for survival hunting and pest control. These versatile dogs tracked fur-bearing animals such as marten and squirrel, bayed capercaillie and black grouse into forest trees to await the hunter, and alerted settlers to approaching predators. In the early twentieth century, the collapse of wild fur pelt trading and rural depopulation led to a precipitous decline in numbers, culminating in the breed being officially declared extinct in 1948 by national kennel authorities. However, dedicated gamekeepers and foresters discovered that unpedigreed working strains had survived in isolated farming hamlets in Norrbotten and Lapland. A rigorous rescue program during the 1960s gathered these authentic working dogs, leading to the breed's formal reinstatement in 1967. Today, it is cherished across Scandinavia and globally as an authentic working hunter and a joyful family dog.",
+      "Descended from small northern laika-type hunting spitzes that lived alongside prehistoric hunters near the northern reaches of Scandinavia, the Norrbottenspets served homesteaders in northern Sweden and Finland for generations. Valued for hunting forest grouse, small fur-bearing animals such as marten and squirrel, and even alerting hunters to moose, the breed suffered a sharp drop after World War II when fur prices collapsed and registrations ceased. National authorities declared the breed extinct in 1948, until enthusiasts discovered surviving pure-type working dogs on remote farms in northern Bothnia about a decade later. Through dedicated recovery efforts, the breed was formally re-registered in 1967 and remains a prized working bird dog and family companion across Scandinavia and beyond.",
 
     originalPurpose:
-      "Bark-pointing and treeing forest grouse (capercaillie and black grouse), hunting small fur-bearing game (squirrel, marten, and raccoon dog), and serving as an alert homestead watchdog.",
+      "Locating and bark-pointing forest grouse (such as capercaillie and black grouse), hunting small fur game, baying moose, and serving as an alert farm dog.",
 
     currentRoles: [
-      "Traditional bark-pointing bird dog and small game hunter",
-      "Field trial and tracking competitor",
-      "Devoted household companion and family pet",
-      "Canine athlete in agility, rally, flyball, and nosework",
-      "Active outdoor partner for wilderness hiking and cold-weather excursions"
+      "Bark-pointing forest bird and small-game hunting dog",
+      "Field trial, hunting test, and tracking competitor",
+      "Affectionate, active household companion",
+      "Canine athlete in agility, obedience, rally, and nosework"
     ]
   },
 
@@ -90,76 +88,74 @@ export const norrbottenspets: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 42,
-        max: 48
+        min: 43,
+        max: 47
       },
       female: {
-        min: 39,
-        max: 45
+        min: 40,
+        max: 44
       }
     },
 
     weight: {
       unit: "kg",
       male: {
-        min: 11,
-        max: 15
+        min: 9,
+        max: 14
       },
       female: {
         min: 8,
-        max: 12
+        max: 14
       }
     },
 
     lifespanYears: {
       min: 12,
-      max: 15
+      max: 16
     },
 
     coatType:
-      "Hard, short, straight, and rather close-lying double coat with a fine, dense undercoat; slightly longer on the neck, back of thighs, and underside of the tail, remaining smooth and short on the head, muzzle, and front of legs.",
+      "Short, hard, straight, fairly close-lying outer coat over a fine, dense undercoat; shortest on the skull, muzzle, ears, and fronts of legs, and longer on the neck, backs of thighs, and underside of the tail.",
 
     coatLength: "Short",
 
     coatColors: [
-      "Pure white ground with distinct reddish-yellow patches",
-      "Pure white ground with warm red or tan patches",
-      "Pure white ground with brown, agouti, or black patches (permitted, with red or yellow markings preferred)"
+      "White with red or yellow patches (preferred)",
+      "White with tan, fawn, or orange markings",
+      "White with black or agouti patches (tolerated)"
     ],
 
     sheddingLevel:
-      "Moderate year-round shedding with heavier seasonal shedding in spring and autumn during undercoat molts",
+      "Moderate year-round, with heavier seasonal undercoat shedding in spring and autumn",
 
     droolingLevel:
-      "Low; tight, dry, cleanly cut lips prevent drooling",
+      "Low; thin, dry, tight-fitting lips produce minimal slobber",
 
     distinctiveFeatures: [
-      "Small, compact, and square-to-slightly-rectangular spitz outline conveying agility and physical stamina",
-      "Height at the withers of 42 to 48 cm for males (ideal 45 cm) and 39 to 45 cm for females (ideal 42 cm)",
-      "Working weight of 11 to 15 kg for males and 8 to 12 kg for females in fit, athletic condition",
-      "Predominantly pure white ground coat accented by clearly delineated red, yellow, or tan patches on the head and torso",
-      "Clean, dry, wedge-shaped head with a broad skull, slight median furrow, and defined stop",
-      "Jet-black, well-developed nose and tight, darkly pigmented lips",
-      "Medium-sized, almond-shaped dark brown eyes with tight lids and a bright, fearless expression",
-      "High-set, stiffly erect triangular prick ears with slightly rounded tips, highly mobile to directional sounds",
-      "Deep, oval chest reaching to the elbows with well-sprung ribs and a moderately tucked-up belly",
-      "High-set tail carried in a loose or tight curl over the back or resting on the hip, with tip touching the thigh",
-      "Strong, straight legs with compact, oval cat-like feet and tough, dark pads designed for snow and marsh navigation"
+      "Small, slightly rectangular, sinewy spitz frame built for agility in northern forests",
+      "Ideal height at the withers of 45 cm in males (acceptable range 43 to 47 cm) and 42 cm in females (acceptable range 40 to 44 cm)",
+      "Adult working weight typically 9 to 14 kg in males and 8 to 14 kg in females",
+      "Clean white ground coat with fairly large, clearly defined patches—ideally in shades of red or yellow covering the sides of the head and ears",
+      "Wedge-shaped head tapering smoothly to a black nose, with a flat skull, slightly arched forehead, and moderate stop",
+      "Well-developed jaws with a complete scissor bite and thin, tight lips",
+      "Medium-sized, dark brown, almond-shaped eyes set obliquely with a calm, alert gaze",
+      "High-set, stiffly erect ears slightly above medium size with firm leather and gently rounded tips",
+      "High-set tail carried in a high, loose curl with the tip touching the side of the thigh",
+      "Small, strong, forward-pointing feet with tight, well-arched toes and tough pads"
     ]
   },
 
   temperament: {
     traits: [
-      "Alert, attentive, and keenly observant of all surroundings",
-      "Fearless, plucky, and bold in field work",
-      "Friendly, gentle, and deeply affectionate in the home",
-      "Quiet and composed indoors when exercised adequately",
-      "Curious, playful, and high-spirited during outdoor activities",
-      "Sociable and peaceful with other dogs",
-      "Good-natured and patient with familiar children",
-      "High hunting and prey drive toward birds, squirrels, and small rodents",
-      "Musical, rapid bark-pointing vocalization used exclusively when game is treed or cornered",
-      "Sensitive to handler emotional tone and cooperative to train"
+      "Attentive, alert, and keenly aware of sights and sounds",
+      "Fearless, bold, and energetic in the field",
+      "Friendly, kind, and deeply affectionate with family",
+      "Self-confident and lively without shyness or aggression",
+      "Calm and quiet indoors when adequately exercised",
+      "Playful and gentle with familiar children",
+      "Generally sociable with other dogs",
+      "Strong natural hunting drive toward birds and small wildlife",
+      "Clever, quick to learn, and responsive to positive guidance"
     ],
 
     scores: {
@@ -178,7 +174,7 @@ export const norrbottenspets: Breed = {
   care: {
     exercise: {
       level:
-        "High; an active, endurance hunting spitz requiring vigorous daily physical exercise and regular olfactory enrichment",
+        "High; an energetic, agile hunting spitz that needs daily brisk exercise and mental outlets to stay settled indoors",
 
       minutesPerDay: {
         min: 60,
@@ -186,12 +182,11 @@ export const norrbottenspets: Breed = {
       },
 
       activities: [
-        "Daily brisk leashed walks and extended woodland trail hikes",
-        "Free running and scent exploration in a securely fenced yard or paddock",
-        "Bark-pointing, treeing bird trials, and tracking enrichment games",
-        "Canine sports including agility, rally, flyball, and nosework",
-        "Interactive fetch, retrieve, and puzzle-foraging toys",
-        "Wilderness trekking and snowshoeing excursions in cold weather"
+        "Daily brisk walks, forest trail hikes, and cold-weather treks",
+        "Secure fenced-yard play, fetch, and scent-tracking games",
+        "Traditional bark-pointing bird hunts and field trials",
+        "Canine sports such as agility, rally, obedience, and nosework",
+        "Indoor trick training and hide-and-seek games on bad-weather days"
       ]
     },
 
@@ -199,36 +194,33 @@ export const norrbottenspets: Breed = {
       level: "Low to moderate",
 
       brushing:
-        "Brush once or twice weekly with a slicker brush and metal comb to remove loose undercoat and maintain coat gloss; increase to daily brushing during seasonal spring and autumn molts.",
+        "Brush once a week with a slicker brush or metal comb to lift loose undercoat, stepping up to daily brushing during spring and autumn sheds.",
 
       bathing:
-        "Bathe only when heavily soiled or muddy after forest hunts, using a gentle canine shampoo to preserve natural weather-repellent coat oils.",
+        "Bathe only occasionally when muddy; the coat is naturally clean, repels dried dirt well, and has little doggy odor.",
 
       notes: [
-        "The short double coat naturally sheds dried mud, snow, and forest debris, requiring minimal washing.",
-        "Inspect the erect ears weekly for dust, wax, or foreign matter, wiping gently with a veterinary ear wash.",
-        "Check paw pads, toes, and skin for thorns, burrs, or cuts after hunting through heavy undergrowth.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain correct compact foot structure.",
-        "Brush teeth several times weekly with canine-formulated enzymatic toothpaste.",
-        "The coat has very little natural odor and should never be shaved."
+        "Never shave the double coat, as it insulates against both cold and heat.",
+        "Check the erect ears weekly for wax or forest debris and clean gently as needed.",
+        "Trim strong nails regularly with clippers or a grinder to prevent cracking.",
+        "Inspect paws and pads for thorns or ice buildup after woodland walks."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; highly intelligent, quick-witted, and eager to please, but possesses independent hunting instincts that require patient, positive leadership",
+        "Moderate; bright, eager, and cooperative, yet independent enough around wildlife scents to require engaging, reward-based training",
 
       tips: [
-        "Use positive reinforcement, high-value training treats, and enthusiastic praise.",
-        "Keep sessions varied, cheerful, and fast-paced (5 to 10 minutes) to avoid boredom from repetitive drills.",
-        "Practice recall early on a long line, recognizing that bird and small game scents can prompt independent ranging.",
-        "Always exercise within a securely fenced area or on a leash, as wild birds or squirrels will trigger sudden pursuit.",
-        "Avoid harsh verbal reprimands or physical corrections, which cause this sensitive spitz to lose trust and withdraw.",
-        "Channel high hunting intelligence into structured games such as nosework, tracking, or agility."
+        "Use upbeat positive reinforcement, food rewards, and short, varied sessions.",
+        "Build reliable recall early on a long line, remembering that birds and squirrels can override loose off-leash focus.",
+        "Avoid harsh scolding or heavy corrections, which can dampen enthusiasm in this sensitive spitz.",
+        "Teach a polite quiet cue early to manage alert barking while respecting its natural vocal style.",
+        "Channel keen hunting curiosity into nosework, agility, or structured retrieving games."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs, household noises, vehicles, and varied outdoor environments. Early structured socialization develops a confident, stable adult that is friendly with strangers and poised in public."
+        "Introduce puppies early and positively to varied people, calm dogs, traffic, and household sounds so their natural confidence matures into friendly composure."
     },
 
     livingEnvironment: {
@@ -236,80 +228,78 @@ export const norrbottenspets: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cold and snowy Arctic or sub-Arctic climates, where the dense double coat provides exceptional insulation",
+        "Cold, snowy northern climates where the dense double coat excels",
         "Temperate climates",
-        "Warm climates, provided indoor air conditioning, shade, and fresh water are available and exercise occurs during cooler morning or evening hours"
+        "Warm climates when shade, fresh water, indoor cooling, and cooler-hour walks are provided"
       ],
 
       aloneTimeTolerance:
-        "Moderate when properly exercised beforehand and provided with engaging toys, though prolonged isolation without companionship can trigger boredom barking or digging."
+        "Moderate once thoroughly exercised, though long daily isolation without company or enrichment can lead to nuisance barking."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for small active sporting or working breeds, adjusted for age, metabolism, and seasonal hunting output.",
+      "Complete, balanced food formulated for small active breeds, matched to life stage, body condition, and seasonal workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals per day until about six months old, then two meals daily.",
       adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
+        "Two measured meals per day to sustain steady energy.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals per day adjusted for lower calorie needs while maintaining muscle."
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt through the dense coat. Divide daily food into two distinct meals, restrict vigorous running immediately before and after eating, and provide cool, clean drinking water continuously.",
+      "Measure every meal consistently and adjust portions to keep a trim, athletic waistline with easily felt ribs. Count training treats within the daily calorie budget and provide fresh drinking water at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on stifles and hips.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain during winter.",
-      "Increase caloric and protein density during active autumn hunting and field trial seasons.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water at all times.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Watch portion sizes closely during quieter winter months, as some individuals gain weight easily.",
+      "Increase energy intake during active hunting or heavy hiking seasons.",
+      "Avoid fatty table scraps and switch diets gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly based on outdoor temperature, hunting frequency, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Discuss specific calorie amounts and seasonal adjustments with a veterinarian based on your dog's age and activity level."
   },
 
   health: {
     overview:
-      "The Norrbottenspets is an exceptionally robust, healthy, and long-lived Nordic hunting landrace with a typical life expectancy of 12 to 15 years. Having evolved through generations of rigorous functional selection in sub-Arctic forest environments, it has maintained high constitutional vitality and possesses very few hereditary genetic defects. Primary health considerations focus on routine orthopedic evaluations for hip dysplasia and patellar luxation, annual ophthalmic examinations for hereditary cataracts, and field-related minor trauma.",
+      "The Norrbottenspets is generally a very hardy, long-lived hunting breed with a typical lifespan of 12 to 16 years. A 2017 peer-reviewed genetic study found that despite its small population and near-extinction in the mid-twentieth century, the breed retains high genetic diversity (comparable to mixed-breed dogs), supported by careful management and open-registry practices. Mandatory and recommended breeding health programs primarily monitor patellar luxation and inherited eye disorders (such as hereditary cataracts, retinal dysplasia, PRA, and PHTVL/PHPV), along with hip evaluations, epilepsy tracking, and hereditary ataxia screening in suspected lines. A 2008 veterinary study also noted that Nordic Spitz breeds were overrepresented among middle-aged pregnant females diagnosed with gestational diabetes mellitus.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, monitored through pre-breeding radiographic screening programs",
-      "Patellar luxation — displacement of the kneecap from the femoral groove causing intermittent hind-limb lameness, evaluated via clinical orthopedic grading",
-      "Hereditary cataracts and progressive retinal atrophy (PRA) — ocular conditions monitored through routine certified veterinary ophthalmologist examinations",
-      "Traumatic hunting injuries — minor cuts, punctures, pad abrasions, or sprains sustained while pursuing game across rocky taiga and frozen marshes",
-      "Hypothermia in cold water — risk of chilling if immersed in freezing water during sub-zero winter hunting, requiring prompt drying"
+      "Patellar luxation — monitored kneecap displacement graded clinically before breeding; dogs with mild grade 1 are paired only with clear grade 0 mates in Nordic breeding programs",
+      "Inherited eye disorders (hereditary cataracts, progressive retinal atrophy, retinal dysplasia, and PHTVL/PHPV) — monitored through mandatory periodic veterinary ophthalmologist exams",
+      "Hip dysplasia — monitored orthopedic condition screened via pre-breeding radiographic evaluation",
+      "Epilepsy — tracked in Nordic breed health databases to avoid breeding affected dogs or close relatives",
+      "Hereditary ataxia — monitored neurological condition for which carrier testing is recommended when suspected in a pedigree",
+      "Gestational diabetes mellitus (GDM) — reported in a peer-reviewed retrospective study showing overrepresentation among middle-aged pregnant Nordic Spitz females"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip clearances, clinical patellar grading, and current certified eye examinations.",
-      "Maintain a lean, athletic body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Inspect the erect ears weekly for dust, wax, or foreign matter, wiping gently with a veterinary ear wash.",
-      "Inspect footpads, toes, and skin after outdoor hunts for cuts or embedded seeds.",
-      "Brush teeth regularly and schedule periodic professional veterinary dental cleanings.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Choose puppies from parents with current patella, eye, and hip clearances and documented low inbreeding.",
+      "Keep weight lean and muscles conditioned to reduce strain on knees and hips.",
+      "Monitor pregnant females closely with veterinary care during the second half of gestation for signs of elevated thirst or blood sugar.",
+      "Check ears, teeth, and paws regularly, especially after woodland hunts or deep snow outings.",
+      "Schedule annual veterinary wellness exams and age-appropriate bloodwork as the dog reaches its senior years."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Clinical patellar luxation orthopedic evaluation and grading",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "Clinical patellar luxation grading prior to breeding",
+      "Periodic eye examination by a board-certified veterinary ophthalmologist (screening for cataracts, PRA, RD, and PHTVL/PHPV)",
+      "Radiographic hip dysplasia evaluation prior to breeding",
+      "Pedigree review for epilepsy risk and genetic testing for hereditary ataxia when indicated by family history"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has strong, well-developed jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with dog-safe toothpaste and schedule routine dental checks during annual veterinary visits.",
 
     earCare:
-      "Inspect the erect prick ears weekly for wax buildup, moisture, or dirt. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check the erect ears weekly for wax, dirt, or irritation and clean gently with a vet-recommended ear wash when needed.",
 
     skinCare:
-      "Part the dense double coat weekly during brushing to inspect the skin for external parasites, redness, or scratches. The coat naturally sheds dirt and requires minimal bathing beyond regular grooming."
+      "Inspect the skin beneath the dense double coat during weekly brushing for ticks, burrs, or small scratches from forest brush."
   },
 
   suitability: {
@@ -320,186 +310,173 @@ export const norrbottenspets: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor enthusiasts, hunters, and hikers who enjoy year-round wilderness exploration",
-      "Families seeking a gentle, playful, and friendly companion that loves outdoor adventures",
-      "Homes with a securely fenced yard in rural or suburban settings",
-      "Canine sports enthusiasts involved in agility, rally, nosework, or tracking",
-      "Owners who appreciate an alert, joyful spitz with a sweet, affectionate domestic disposition"
+      "Hunters, hikers, and active households who spend daily time outdoors in all seasons",
+      "Families wanting a cheerful, gentle, and affectionate small-to-medium companion",
+      "Homes with a securely fenced yard in suburban or rural settings",
+      "Dog sport enthusiasts interested in agility, rally, tracking, or nosework"
     ],
 
     notIdealFor: [
-      "Sedentary individuals looking for a low-exercise indoor lap pet",
-      "Apartment or dense urban dwellers where alert barking and high energy can create neighborhood friction",
-      "Households with loose pet rodents, birds, or small animals vulnerable to intense hunting prey drive",
-      "Owners who expect reliable off-leash obedience in unfenced, wildlife-rich areas",
-      "People seeking an aggressive guard dog"
+      "Sedentary owners looking for a low-exercise lap dog",
+      "Quiet apartment buildings where alert barking could disturb neighbors",
+      "Households with free-roaming pet birds, rabbits, or rodents",
+      "Owners expecting reliable off-leash walking in unfenced areas with wildlife"
     ]
   },
 
   funFacts: [
-    "The Norrbottenspets was officially declared extinct by the Swedish Kennel Club in 1948 after registration numbers plummeted following the decline of wild fur hunting; fortunately, rural foresters in northern Sweden and Finland preserved isolated working packs, allowing the breed to be triumphantly rediscovered and resurrected in 1967.",
-    "Known in Finland as the Pohjanpystykorva (Northern Spitz), the breed is a revered treeing bird dog: when it spots a grouse or capercaillie, it bays persistently at the base of the tree to hold the bird's attention while the hunter quietly stalks within range.",
-    "Its bark on game is not frantic barking, but a rapid, rhythmic cadence that can reach over 100 barks per minute, functioning as a specialized acoustic beacon across northern pine forests.",
-    "Unlike the solid red Finnish Spitz, the Norrbottenspets is defined by its piebald coat: a predominantly pure white body marked with patches of warm red, yellow, or tan.",
-    "Archaeological evidence from Scandinavia suggests that small spitz hunting dogs of this exact type have accompanied humans across the northern taiga for well over a thousand years.",
-    "In the home, they are famously gentle and calm, earning the reputation of an 'indoor angel and outdoor devil' due to their ability to switch instantly from cuddly companion to fearless hunter."
+    "After post-war fur prices fell and registrations stopped, the Norrbottenspets was declared extinct in 1948—only to be rediscovered on remote farms in northern Bothnia and officially revived in 1967.",
+    "In Finland, the breed is known as the Pohjanpystykorva and is prized for quietly locating forest grouse and barking steadily beneath the tree to hold the bird's focus for the hunter.",
+    "Despite once nearing extinction, a 2017 genetic study showed the breed still maintains heterozygosity levels similar to mixed-breed dogs, aided by an open breeding registry.",
+    "Its piebald white coat with crisp red or yellow patches makes it easy to distinguish from the solid red-gold Finnish Spitz.",
+    "Though small enough to ride comfortably in a backpack or canoe, a Norrbottenspets is fearless enough to bay moose as well as forest birds.",
+    "With regular daily exercise, these lively outdoor hunters are known for settling down quietly and cleanly inside the home."
   ],
 
   faq: [
     {
       question: "What is a Norrbottenspets?",
       answer:
-        "The Norrbottenspets (Pohjanpystykorva) is a small, agile Scandinavian hunting spitz native to northern Sweden and Finland, known for its white-and-red piebald coat, erect ears, curled tail, and bark-pointing skill on forest game."
+        "The Norrbottenspets (also called Nordic Spitz or Pohjanpystykorva) is a small, agile Scandinavian hunting spitz from northern Sweden and Finland, known for its white coat with red-yellow patches, erect ears, curled tail, and gentle family nature."
     },
     {
       question: "How does the Norrbottenspets differ from the Finnish Spitz?",
       answer:
-        "While both are bark-pointing Nordic bird dogs, the Norrbottenspets is slightly smaller, has a predominantly white coat with red or yellow patches (compared to the solid red-gold coat of the Finnish Spitz), and is slightly broader across the muzzle."
+        "Both are Nordic bark-pointing bird dogs, but the Norrbottenspets is typically slightly smaller and wears a white base coat with distinct red or yellow patches, whereas the Finnish Spitz has a solid red-gold coat."
     },
     {
-      question: "How tall and heavy is a Norrbottenspets?",
+      question: "How big does a Norrbottenspets get?",
       answer:
-        "Adult males stand 42 to 48 cm at the withers (ideal 45 cm) and weigh 11 to 15 kg, while adult females stand 39 to 45 cm (ideal 42 cm) and weigh 8 to 12 kg."
+        "Males ideally stand 45 cm at the withers (acceptable range 43 to 47 cm) and typically weigh 9 to 14 kg, while females ideally stand 42 cm (acceptable range 40 to 44 cm) and typically weigh 8 to 14 kg."
     },
     {
-      question: "How long does a Norrbottenspets live?",
+      question: "How long do Norrbottenspets live?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+        "They are a notably long-lived breed, typically living 12 to 16 years (and sometimes longer) with good nutrition, exercise, and preventive veterinary care."
     },
     {
-      question: "Do Norrbottenspets shed a lot, and how are they groomed?",
+      question: "How much grooming does a Norrbottenspets need?",
       answer:
-        "They shed moderately throughout the year and blow their dense undercoat in spring and autumn. Weekly brushing with a slicker brush and metal comb keeps the coat healthy; the coat naturally repels dirt and should never be shaved."
+        "Weekly brushing keeps the short double coat neat, with daily brushing during spring and autumn undercoat sheds. The coat naturally sheds dirt, carries little odor, and should never be shaved."
     },
     {
       question: "Can a Norrbottenspets live in an apartment?",
       answer:
-        "Generally no. Due to their high exercise needs, working stamina, and instinct to sound an alert bark at unusual sights or sounds, they thrive best in a house with a securely fenced yard."
+        "Generally no. While they settle quietly indoors after exercise, their high energy and alert barking make a house with a securely fenced yard a much better fit."
     },
     {
-      question: "Are Norrbottenspets good family pets and good with children?",
+      question: "Are Norrbottenspets good with children and other dogs?",
       answer:
-        "Yes. Within their own household, they are exceptionally gentle, playful, and affectionate with children, making wonderful companions for active families; they also coexist peacefully with other dogs."
+        "Yes. They are typically friendly, gentle, and playful with family children and get along well with other dogs when properly socialized, though small pet rodents or birds are unsafe around their hunting instincts."
     },
     {
-      question: "Why do Norrbottenspets bark, and can they be trained to be quiet?",
+      question: "Do Norrbottenspets bark a lot?",
       answer:
-        "Barking is an ancient working trait used to hold game birds in trees; while they will naturally sound an alarm when strangers arrive, they are quiet indoors when adequately exercised, and teaching a quiet command early keeps barking manageable."
+        "Barking is part of their bird-hunting heritage, so they naturally alert to unusual sights or wildlife. Adequate daily exercise and early training on a quiet cue keep indoor barking modest."
     },
     {
-      question: "How much exercise does a Norrbottenspets need each day?",
+      question: "How much exercise does a Norrbottenspets need?",
       answer:
-        "The breed requires 60 to 90 minutes of daily physical activity, including brisk walks, trail hikes, fetch sessions, and mental challenges like tracking, agility, or nosework."
+        "Plan on about 60 to 90 minutes of daily activity—such as brisk walks, trail hikes, fetch, scent work, or agility—to keep this agile hunter happy and relaxed."
     },
     {
-      question: "What health tests are recommended for breeding Norrbottenspets?",
+      question: "What health screenings are recommended for Norrbottenspets?",
       answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip dysplasia, clinical patellar luxation grading, and annual veterinary ophthalmologist eye exams."
+        "Key pre-breeding checks include clinical patellar luxation grading, periodic veterinary ophthalmologist eye exams, radiographic hip evaluations, and pedigree screening for epilepsy or hereditary ataxia where indicated."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-norrbottenspets-official-standard",
     "fci-norrbottenspets-nomenclature",
     "skk-norrbottenspets-breed-standard",
     "suomen-kennelliitto-pohjanpystykorva-profile",
+    "spj-pohjanpystykorva-pevisa",
     "akc-norrbottenspets-breed-profile",
     "ukc-norrbottenspets-breed-standard",
+    "pubmed-kumpulainen-2017-nordic-spitz-diversity",
+    "pubmed-fall-2008-gdm-nordic-spitz",
+    "the-dog-api",
     "wikimedia-norrbottenspets-lilly-m",
     "wikimedia-norrbottenspets-600-tomasz-sienicki"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxon record: Canis lupus familiaris (ITIS TSN 726821)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Verified domestic dog taxonomic name via NatureServe Explorer (ITIS TSN 726821)."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-norrbottenspets-official-standard",
-          role: "verified",
-          locator: "Standard heading: NORRBOTTENSPETS"
-        },
-        {
           id: "fci-norrbottenspets-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: NORRBOTTENSPETS (276), Spitz de Norrbotten, Norrbottenspitz"
+          locator: "Official nomenclature: NORRBOTTENSPETS (276), NORRBOTTENSPITZ, SPITZ DE NORRBOTTEN"
         },
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Rotunimi: Pohjanpystykorva (Nordic Spitz)"
+          locator: "breed.alt_names: Norrbottenspitz, Nordic Spitz, Pohjanpystykorva"
         },
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "verified",
-          locator: "History: Norrbottenspets, Nordic Spitz, Pohjanpystykorva"
+          locator: "About the Breed: Nob"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified across FCI Standard No. 276, FCI Nomenclature, Suomen Kennelliitto, SKK, and AKC."
+      verifiedOn: "2026-11-21",
+      note: "Verified across FCI Nomenclature, AKC, and The Dog API."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-norrbottenspets-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 5 Spitz and primitive types, Section 2 Nordic Hunting Dogs, with working trial only for the Nordic countries"
-        },
-        {
           id: "fci-norrbottenspets-nomenclature",
           role: "verified",
-          locator: "Group 5, Section 2 Nordic Hunting Dogs, with working trial"
+          locator: "Group 5 Spitz and primitive types, Section 2 Nordic Hunting Dogs, subject to working trial"
         },
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "verified",
-          locator: "Hound Group (Foundation Stock Service / Miscellaneous)"
-        },
-        {
-          id: "ukc-norrbottenspets-breed-standard",
-          role: "verified",
-          locator: "Northern Breed Group"
+          locator: "Miscellaneous Class; Hound Group designation"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-21",
+      note: "Written without registry names or numbered section labels in user-facing text."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-norrbottenspets-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Sweden; BRIEF HISTORICAL SUMMARY"
-        },
-        {
           id: "fci-norrbottenspets-nomenclature",
           role: "verified",
-          locator: "Country of origin: Sweden"
+          locator: "Country of origin: Sweden; definitive acceptance 1968-09-20"
         },
         {
-          id: "skk-norrbottenspets-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Ursprungsland: Sverige (Norrbotten)"
+          locator: "breed.origin: Norrbotten, Sweden"
         },
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "akc-norrbottenspets-breed-profile",
           role: "verified",
-          locator: "Alkuperämaa: Ruotsi / Suomi (Pohjoinen Fennoskandia)"
+          locator: "About the Breed: northern parts of Sweden and Finland"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -509,27 +486,21 @@ export const norrbottenspets: Breed = {
         {
           id: "fci-norrbottenspets-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator: "FCI Standard No. 276 (valid 2009-07-28, published 2009-10-21): Brief Historical Summary (post-WWII decline, 1967 reinstatement), General Appearance, Behaviour/Temperament"
         },
         {
           id: "skk-norrbottenspets-breed-standard",
           role: "verified",
-          locator: "Bakgrund och ändamål, helhetsintryck, måttförhållanden och karaktär"
-        },
-        {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
-          role: "verified",
-          locator: "Historia, käyttötarkoitus haukkuvana lintukoirana, 1948 sukupuuttouhka ja 1967 elvytys"
+          locator: "SKK Norrbottenspets breed overview: forest game birds (capercaillie, black grouse)"
         },
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed: agile, sinewy, holds large game like moose, kind home companion"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Synthesized in original prose from FCI Standard No. 276, SKK, Suomen Kennelliitto, and AKC official records."
+      verifiedOn: "2026-11-21",
+      note: "Rewritten in original prose synthesizing FCI Standard No. 276, SKK, and AKC records."
     },
 
     physical: {
@@ -538,110 +509,154 @@ export const norrbottenspets: Breed = {
         {
           id: "fci-norrbottenspets-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "Head (wedge-shaped, almond dark brown eyes, scissor bite, thin tight lips), Ears, Tail (loose curl touching thigh), Coat (double coat, hard short straight), Colour (pure white with red/yellow patches preferred; black/fawn/agouti tolerated)"
         },
         {
           id: "skk-norrbottenspets-breed-standard",
           role: "verified",
-          locator: "Huvud, kropp, svans, extremiteter, päls, färg och storlek"
+          locator: "Conformation, coat, and ideal height"
         },
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "akc-norrbottenspets-breed-profile",
           role: "verified",
-          locator: "Morfologia, mittasuhteet, pystykorvan rakenne ja värit"
-        },
-        {
-          id: "ukc-norrbottenspets-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
+          locator: "Breed Colors & Markings: White with Fawn, Orange, Red, Sable, Tan, Cream markings"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Conformation, square-to-rectangular proportions, piebald markings, prick ears, curled tail, and distinctive features follow official standards."
+      verifiedOn: "2026-11-21",
+      note: "Filtered out generic non-breed colors from The Dog API list; preserved FCI color hierarchy."
     },
 
     "physical.height": {
       reliability: "official_standard",
       sources: [
         {
+          id: "skk-norrbottenspets-breed-standard",
+          role: "verified",
+          locator: "Ideal height at withers: males 45 cm, females 42 cm, acceptable variation ±2 cm (43-47 cm males, 40-44 cm females)"
+        },
+        {
           id: "fci-norrbottenspets-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Males: Ideal height 45 cm. Tolerance 42-48 cm. Females: Ideal height 42 cm. Tolerance 39-45 cm."
+          locator: "Size: Ideal height males 45 cm, females 42 cm (±2 cm tolerance)"
         },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: male 42-46 cm, female 40-44 cm"
+        },
+        {
+          id: "akc-norrbottenspets-breed-profile",
+          role: "cited",
+          locator: "Height: 16.5-18 inches"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: "Corrected from earlier draft's ±3 cm (42-48 / 39-45 cm) to official FCI/SKK ±2 cm tolerance (43-47 cm males, 40-44 cm females). Kept official standard over The Dog API's 42-46 cm male range."
+    },
+
+    "physical.height.male.max": {
+      reliability: "official_standard",
+      sources: [
         {
           id: "skk-norrbottenspets-breed-standard",
           role: "verified",
-          locator: "Mankhöjd: Hanhund ideal 45 cm (tolerans 42-48 cm); Tik ideal 42 cm (tolerans 39-45 cm)"
-        },
-        {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
-          role: "verified",
-          locator: "Säkäkorkeus: Urokset ihannemitta 45 cm (sallittu 42-48 cm); Nartut ihannemitta 42 cm (sallittu 39-45 cm)"
+          locator: "Ideal 45 cm ±2 cm -> max 47 cm"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Preserved in published unit of centimetres (42–48 cm for males, ideal 45 cm; 39–45 cm for females, ideal 42 cm) exactly as specified in the official FCI Standard No. 276, SKK, and Suomen Kennelliitto standards."
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.height.female.max": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "skk-norrbottenspets-breed-standard",
+          role: "verified",
+          locator: "Ideal 42 cm ±2 cm -> max 44 cm"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Paino: Urokset noin 11-15 kg, nartut noin 8-12 kg"
+          locator: "breed.weight.metric: male 9-14 kg, female 8-14 kg"
         },
         {
-          id: "skk-norrbottenspets-breed-standard",
-          role: "verified",
-          locator: "Vikt: Hanhundar ca 11-15 kg, tikar ca 8-12 kg"
-        },
-        {
-          id: "ukc-norrbottenspets-breed-standard",
-          role: "verified",
-          locator: "Weight: Weight is in proportion to height, approximately 20 to 30 pounds (approx. 9-14 kg)"
+          id: "akc-norrbottenspets-breed-profile",
+          role: "cited",
+          locator: "Weight: 20-30 pounds"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FCI Standard No. 276 requires weight to be in harmonious proportion to height. The stored 11 to 15 kg for males and 8 to 12 kg for females represent canonical figures published by national Nordic kennel clubs (Suomen Kennelliitto and SKK), preserved in kilograms."
+      verifiedOn: "2026-11-21",
+      note: "FCI Standard No. 276 does not publish numerical weight limits. Uses The Dog API verified metric ranges (9-14 kg males, 8-14 kg females), consistent with AKC's 20-30 pounds."
+    },
+
+    "physical.weight.male.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: male max 14 kg"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
+    },
+
+    "physical.weight.female.max": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.weight.metric: female max 14 kg"
+        }
+      ],
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-norrbottenspets-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Life Expectancy: 14-17 years (typical range 12-15 years)"
+          locator: "breed.life_span: 12-16 years"
         },
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
-          role: "verified",
-          locator: "Elinikä ja terveys: 12-15 vuotta"
+          id: "akc-norrbottenspets-breed-profile",
+          role: "cited",
+          locator: "Life Expectancy: 14-17 years"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Supported by kennel club and breed club actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: "Uses The Dog API's 12-16 years range; AKC notes 14-17 years."
     },
 
     "physical.sheddingLevel": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-norrbottenspets-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
-        },
-        {
           id: "fci-norrbottenspets-official-standard",
           role: "verified",
-          locator: "COAT: Hard, short, straight double coat with fine dense undercoat"
+          locator: "Coat: double coat with fine dense undercoat"
+        },
+        {
+          id: "akc-norrbottenspets-breed-profile",
+          role: "verified",
+          locator: "Grooming: double-coated, weekly brushing"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -651,16 +666,11 @@ export const norrbottenspets: Breed = {
         {
           id: "fci-norrbottenspets-official-standard",
           role: "verified",
-          locator: "Lips: Thin, dry and tightly fitting"
-        },
-        {
-          id: "skk-norrbottenspets-breed-standard",
-          role: "verified",
-          locator: "Läppar: Tunna, torra och strama"
+          locator: "Lips: thin, dry and tightly fitting"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Thin, tightly fitting lips result in minimal drooling."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "temperament.traits": {
@@ -669,20 +679,20 @@ export const norrbottenspets: Breed = {
         {
           id: "fci-norrbottenspets-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Attentive, daring, keen, active, friendly and confident; never nervous, shy or aggressive"
+          locator: "Behaviour/Temperament: attentive, bold, keen, lively, self-confident, kind disposition; never nervous, shy or aggressive"
         },
         {
-          id: "skk-norrbottenspets-breed-standard",
+          id: "akc-norrbottenspets-breed-profile",
           role: "verified",
-          locator: "Uppförande och karaktär: Uppmärksam, modig, livlig, vänlig och självsäker"
+          locator: "About the Breed & Did You Know: fearless, agile, attentive, quiet indoors with daily exercise"
         },
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Käyttäytyminen: Valpas, rohkea, ystävällinen ja itsevarma metsästyskoira"
+          locator: "breed.temperament: Alert, energetic, intelligent, courageous, confident, independent"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -692,17 +702,16 @@ export const norrbottenspets: Breed = {
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics"
         },
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "fci-norrbottenspets-official-standard",
           role: "cited",
-          locator: "Luonne ja perhekoiraominaisuudet"
+          locator: "Behaviour/Temperament"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented Nordic spitz temperament, high family affection, and hunting alertness."
+      note: "Editorial 1-5 estimates reflecting documented Nordic spitz friendliness, energy, and alertness."
     },
 
     care: {
@@ -711,17 +720,11 @@ export const norrbottenspets: Breed = {
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
-          role: "cited",
-          locator: "Hoito, liikunta ja koulutus"
+          locator: "Grooming (weekly brushing, clean coat with no odor, nails, ears, teeth), Exercise, Nutrition"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active Nordic hunting spitz management with double-coat grooming protocols."
+      note: "Practical care guidance tailored to small Nordic hunting spitzes."
     },
 
     "care.exercise.level": {
@@ -730,15 +733,10 @@ export const norrbottenspets: Breed = {
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
-        },
-        {
-          id: "fci-norrbottenspets-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Hunting dog with great stamina"
+          locator: "Exercise: vivacious, energetic, playful; daily walks, fenced yard, hiking, dog sports"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -748,17 +746,11 @@ export const norrbottenspets: Breed = {
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "Exercise recommendations"
-        },
-        {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
-          role: "cited",
-          locator: "Päivittäinen aktiivisuus ja liikuntatarve"
+          locator: "Daily active exercise guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an energetic, high-stamina hunting spitz."
+      note: "Estimated 60-90 minutes daily reflects the stamina of an active hunting spitz."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -767,17 +759,11 @@ export const norrbottenspets: Breed = {
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "High energy, alert barking, and working hunting instincts"
-        },
-        {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
-          role: "cited",
-          locator: "Asuinympäristö: suositellaan omakotitaloa ja pihaa"
+          locator: "Exercise and fenced backyard preference; active hunting background"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that high exercise needs, bark-pointing drive, and alertness make apartment living generally unsuitable."
+      note: "Editorial evaluation: high energy and alert barking generally favor a fenced yard over apartment living."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -786,15 +772,10 @@ export const norrbottenspets: Breed = {
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
-        },
-        {
-          id: "skk-norrbottenspets-breed-standard",
-          role: "verified",
-          locator: "Boendemiljö och utomhusutrymme"
+          locator: "Exercise: fenced backyard recommended"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -804,15 +785,15 @@ export const norrbottenspets: Breed = {
         {
           id: "fci-norrbottenspets-official-standard",
           role: "verified",
-          locator: "COAT: Double coat adapted to sub-Arctic forest winter climates"
+          locator: "Double coat adapted to harsh northern Scandinavian climates"
         },
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "akc-norrbottenspets-breed-profile",
           role: "verified",
-          locator: "Säänkestävyys ja sopeutuminen pohjoisen ilmastoon"
+          locator: "About the Breed: weatherproof coat built for harsh Scandinavian terrain and climates"
         }
       ],
-      verifiedOn: "2026-11-10",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -822,11 +803,11 @@ export const norrbottenspets: Breed = {
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate rating; independent nature"
+          locator: "Active, companionable hunting spitz behavior"
         }
       ],
       verifiedOn: null,
-      note: null
+      note: "Moderate alone-time tolerance when adequately exercised beforehand."
     },
 
     nutrition: {
@@ -835,17 +816,11 @@ export const norrbottenspets: Breed = {
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
-        },
-        {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
-          role: "cited",
-          locator: "Ruokinta ja kuntoluokka"
+          locator: "Nutrition: age-appropriate diet, weight watch, limit treats"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active small sporting and hunting breeds."
+      note: "Standard nutritional guidance for small active hunting breeds."
     },
 
     "nutrition.feedingFrequency": {
@@ -854,135 +829,142 @@ export const norrbottenspets: Breed = {
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Life-stage nutrition"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard canine life-stage meal scheduling."
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "spj-pohjanpystykorva-pevisa",
           role: "verified",
-          locator: "Terveys, PEVISA-ohjelma (lonkat, polvet, silmät) ja elinvoima"
+          locator: "PEVISA 2025-2029: mandatory patellar luxation and eye exams, epilepsy epi-index monitoring, hereditary ataxia carrier testing advice"
         },
         {
-          id: "skk-norrbottenspets-breed-standard",
+          id: "pubmed-kumpulainen-2017-nordic-spitz-diversity",
           role: "verified",
-          locator: "Hälsa och sundhet hos Norrbottenspets"
+          locator: "J Anim Breed Genet 2017 (PMID 28295678): high SNP heterozygosity (mean Hz = 0.409) despite small population"
+        },
+        {
+          id: "pubmed-fall-2008-gdm-nordic-spitz",
+          role: "verified",
+          locator: "J Vet Intern Med 2008 (PMID 18976285): Nordic Spitz breeds overrepresented (11/13) in canine gestational diabetes mellitus"
+        },
+        {
+          id: "akc-norrbottenspets-breed-profile",
+          role: "verified",
+          locator: "Recommended National Breed Club Health Tests: Hip Evaluation, Ophthalmologist Evaluation"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Documents high overall constitutional hardiness alongside mandatory Nordic health screening programs (PEVISA)."
+      verifiedOn: "2026-11-21",
+      note: "Synthesizes Nordic PEVISA rules, AKC national club recommendations, and peer-reviewed PubMed genetic/veterinary studies."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "spj-pohjanpystykorva-pevisa",
           role: "verified",
-          locator: "Lonkkavika (HD), patellaluksaatio, harvinaiset silmäsairaudet ja maastovammat"
+          locator: "Patellar luxation, hereditary cataracts, PRA, gRD/tRD, PHTVL/PHPV, epilepsy, hereditary ataxia"
         },
         {
-          id: "skk-norrbottenspets-breed-standard",
+          id: "akc-norrbottenspets-breed-profile",
           role: "verified",
-          locator: "Veterinärmedicinska råd för nordiska spetsar"
+          locator: "Hip and ophthalmologist evaluations"
+        },
+        {
+          id: "pubmed-fall-2008-gdm-nordic-spitz",
+          role: "verified",
+          locator: "Gestational diabetes mellitus (GDM) retrospective case series"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-21",
+      note: "Clearly distinguishes actively screened conditions under PEVISA/AKC from retrospective veterinary reports (GDM)."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "spj-pohjanpystykorva-pevisa",
           role: "cited",
-          locator: "Ennaltaehkäisevä hoito, korvien ja tassujen tarkastus"
+          locator: "Pre-breeding patella, eye, and inbreeding checks"
         },
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "Routine care, dental care, and veterinary wellness"
+          locator: "Routine weight, ear, nail, and dental care"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to active Nordic hunting dogs."
+      note: "General preventive care recommendations for active Nordic spitzes."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "spj-pohjanpystykorva-pevisa",
           role: "verified",
-          locator: "Jalostuksen vaatimukset (PEVISA): Lonkkakuvaus (HD), polvilumpion tutkimus (patella) ja silmätarkastus"
+          locator: "Mandatory PEVISA patellar luxation and official eye exams (cataracts, PRA, gRD/tRD, PHTVL/PHPV); epilepsy and ataxia pedigree guidance"
         },
         {
-          id: "skk-norrbottenspets-breed-standard",
+          id: "suomen-kennelliitto-pohjanpystykorva-profile",
           role: "verified",
-          locator: "Avelsprogram: HD-röntgen och ögonlysning"
+          locator: "Suomen Kennelliitto PEVISA program (eye exam renewed every 3 years, patella exam)"
+        },
+        {
+          id: "akc-norrbottenspets-breed-profile",
+          role: "verified",
+          locator: "Recommended National Breed Club Tests: Hip Evaluation, Ophthalmologist Evaluation"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "Screenings summarize published parent club and national kennel club PEVISA protocols."
+      verifiedOn: "2026-11-21",
+      note: "Combines Finnish PEVISA mandatory screenings (patellas, eyes) with AKC breed club recommendations (hips, eyes)."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-norrbottenspets-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: complete scissor bite with well developed teeth"
-        },
-        {
           id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Grooming: regular teeth brushing"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine dental hygiene guidance."
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-norrbottenspets-official-standard",
-          role: "cited",
-          locator: "Ears: set high, rather over medium size, stiffly erect"
-        },
-        {
           id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Grooming: regular ear checks for wax and debris"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for erect prick ears."
+      note: "Standard erect-ear care guidance."
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-norrbottenspets-official-standard",
+          id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "Skin and coat structure"
+          locator: "Weekly double-coat grooming"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: "General skin and coat inspection guidance."
     },
 
     suitability: {
@@ -991,66 +973,64 @@ export const norrbottenspets: Breed = {
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
-          role: "cited",
-          locator: "Soveltuvuus metsästäjille ja aktiivisille perheille"
+          locator: "Temperament, exercise, and home life"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+      note: "Editorial suitability assessment based on energy, prey drive, and affectionate home disposition."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
-          role: "verified",
-          locator: "1948 sukupuuttoilmoitus, 1967 rodun elvytys, haukkuva lintukoira, yli 100 haukkua minuutissa"
-        },
-        {
-          id: "skk-norrbottenspets-breed-standard",
-          role: "verified",
-          locator: "Historia, trädskällare och återregistrering 1967"
-        },
-        {
           id: "fci-norrbottenspets-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Ancient sub-Arctic hunting spitz"
+          locator: "Post-WWII extinction declaration, rediscovery in northern Bothnia, 1967 reinstatement, grouse/fur/moose hunting"
+        },
+        {
+          id: "pubmed-kumpulainen-2017-nordic-spitz-diversity",
+          role: "verified",
+          locator: "High SNP heterozygosity (Hz = 0.409) despite near-extinction"
+        },
+        {
+          id: "akc-norrbottenspets-breed-profile",
+          role: "verified",
+          locator: "Quiet indoors with daily exercise; holds moose and forest game"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-21",
+      note: "Removed 'Swedish Kennel Club' mention from user-facing funFact per Rule 5 and replaced unverified 100-barks/min claim with verified 2017 genetic diversity finding."
     },
 
     faq: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-norrbottenspets-official-standard",
+          id: "skk-norrbottenspets-breed-standard",
           role: "verified",
-          locator: "Origin, size (42-48 cm / 39-45 cm), piebald coat, and colors"
+          locator: "Height (45 cm ±2 cm / 42 cm ±2 cm), coat, colors"
         },
         {
-          id: "suomen-kennelliitto-pohjanpystykorva-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Paino (11-15 kg / 8-12 kg), elinikä (12-15 v), ero suomenpystykorvaan, haukku ja terveys"
+          locator: "Weight (9-14 kg / 8-14 kg), lifespan (12-16 years)"
         },
         {
           id: "akc-norrbottenspets-breed-profile",
           role: "verified",
-          locator: "Family suitability, exercise needs, and training"
+          locator: "Grooming, exercise, family life, health tests"
+        },
+        {
+          id: "spj-pohjanpystykorva-pevisa",
+          role: "verified",
+          locator: "PEVISA patella, eye, epilepsy, and ataxia screening"
         }
       ],
-      verifiedOn: "2026-11-10",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and parent club data without naming registries in prose."
+      verifiedOn: "2026-11-21",
+      note: "All FAQ answers written in original wording without registry names."
     }
   },
 
-  updatedOn: "2026-11-10"
+  updatedOn: "2026-11-21"
 };

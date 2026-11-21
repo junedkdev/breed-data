@@ -14225,14 +14225,14 @@ export const sources = defineSources({
     note: "Official English FCI Standard No. 99 (valid standard dated 2015-03-19, published 2015-05-26). Covers German origin, Group 7 Pointing Dogs, Section 1.1 Continental Pointing Dogs, Type Braque classification with working trial, short-haired and long-haired varieties, silver/roe/mouse grey coloration, withers height (males 59-70 cm, females 57-65 cm), and weight (males 30-40 kg, females 25-35 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-weimaraner-nomenclature": {
+"fci-weimaraner-nomenclature": {
     id: "fci-weimaraner-nomenclature",
     name: "FCI - Weimaraner Breed Nomenclature (No. 99)",
-    url: "https://www.fci.be/en/nomenclature/WEIMARANER-99.html",
+    url: "https://www.fci.be/en/nomenclature/Weimaraner-99.html",
     type: "official_breed_standard",
     publishedOn: "2015-05-26",
-    accessedOn: "2026-11-10",
-    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 7 Section 1.1 classification with working trial, definitive recognition date (1954-11-29), and multilingual names (Weimaraner, Braque de Weimar, Braco de Weimar).",
+    accessedOn: "2026-11-20",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 7 Section 1.1 Continental Pointing Dogs (Type Braque) with working trial, definitive recognition date (1954-11-27), and multilingual names (Weimaraner, Braque de Weimar).",
     publisher: "Fédération Cynologique Internationale"
   },
   "vdh-weimaraner-breed-standard": {
@@ -14265,24 +14265,24 @@ export const sources = defineSources({
     note: "Official AKC breed standard (effective December 14, 1971, Sporting Group) establishing height (males 25 to 27 inches, females 23 to 25 inches), sleek gray coat, light amber/gray eyes, scissor bite, and versatile pointing temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-weimaraner-breed-profile": {
+"akc-weimaraner-breed-profile": {
     id: "akc-weimaraner-breed-profile",
     name: "American Kennel Club - Weimaraner Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/weimaraner/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed profile covering German history (Grand Duke Karl August), William Wegman art photography, Eisenhower's dog Heidi, weight (55-90 lbs / approx. 25-40 kg), lifespan (11-13 years), temperament, and grooming.",
+    accessedOn: "2026-11-20",
+    note: "Official AKC breed profile (Sporting Group, recognized 1943) listing height (25–27 inches male, 23–25 inches female), weight (70–90 pounds male, 55–75 pounds female), life expectancy (10–13 years), gastric torsion risk, recommended tests (Hip, Cardiac, Ophthalmologist, Thyroid, SD DNA, HYM DNA, HUU DNA), and cultural history (Eisenhower's Heidi, William Wegman).",
     publisher: "American Kennel Club"
   },
-  "the-kennel-club-weimaraner-breed-standard": {
+"the-kennel-club-weimaraner-breed-standard": {
     id: "the-kennel-club-weimaraner-breed-standard",
     name: "The Royal Kennel Club - Weimaraner Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/gundog/weimaraner/",
+    url: "https://www.royalkennelclub.com/breed-standards/gundog/weimaraner/",
     type: "official_breed_standard",
-    publishedOn: "2025-04-01",
-    accessedOn: "2026-11-10",
-    note: "Official Royal Kennel Club breed standard (Gundog Group) confirming height (dogs 61-69 cm / 24-27 in; bitches 56-64 cm / 22-25 in), silver-grey coat varieties, amber eyes, and hunting gundog temperament.",
+    publishedOn: "2025-08-01",
+    accessedOn: "2026-11-20",
+    note: "Official Royal Kennel Club breed standard (Gundog Group, updated 2025-08-01) detailing medium-sized grey appearance, amber or blue-grey eyes, smooth and long-haired (2.5–5 cm) coat varieties, compact feet, and fearless, friendly, obedient temperament.",
     publisher: "The Royal Kennel Club"
   },
   "ukc-weimaraner-breed-standard": {
@@ -14295,14 +14295,14 @@ export const sources = defineSources({
     note: "Official UKC breed standard (Gun Dog Group, recognized 1949, revised 2014) covering conformation, rectangular proportions, short and long coat varieties, and versatile hunting behavior.",
     publisher: "United Kennel Club"
   },
-  "weimaraner-club-of-america-health": {
+"weimaraner-club-of-america-health": {
     id: "weimaraner-club-of-america-health",
-    name: "Weimaraner Club of America - Health and Research",
-    url: "https://weimaranerclubofamerica.org/health-research/",
+    name: "Weimaraner Club of America - Canine Health Information Center (CHIC) & Research",
+    url: "https://weimaranerclubofamerica.org/chic.php",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official national parent club health portal covering gastric dilatation-volvulus (bloat), hip dysplasia, spinal dysraphism (hypomyelination), autoimmune thyroiditis, and CHIC pre-breeding screening protocols.",
+    accessedOn: "2026-11-20",
+    note: "Official Weimaraner Club of America health and CHIC portal documenting DNA banking (UC Davis / University of Missouri), CHIC screening, and WCA-supported research on hypertrophic osteodystrophy (HOD), panosteitis, spinal dysraphism, hypomyelination, and hyperuricosuria.",
     publisher: "Weimaraner Club of America"
   },
   "ofa-weimaraner-chic-requirements": {
@@ -14315,284 +14315,284 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Weimaraner, mandating radiographic hip dysplasia evaluation, CAER eye examination, and autoimmune thyroiditis blood profile, alongside optional spinal dysraphism DNA test and elbow evaluation.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-weimaraner-female-pleple2000": {
+"wikimedia-weimaraner-female-pleple2000": {
     id: "wikimedia-weimaraner-female-pleple2000",
-    name: "Wikimedia Commons - File:Weimaraner female.JPG",
-    url: "https://commons.wikimedia.org/wiki/File:Weimaraner_female.JPG",
+    name: "Wikimedia Commons - File:Weimaraner Dog.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Weimaraner_Dog.jpg",
     type: "other",
-    publishedOn: "2008-10-18",
-    accessedOn: "2026-11-10",
-    note: "High-resolution photograph (2400 x 1800 px) of an adult female Weimaraner standing in profile outdoors by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2021-12-04",
+    accessedOn: "2026-11-20",
+    note: "High-resolution photograph (2640 x 1856 px) of an adult male short-haired Weimaraner by Sciencia58 (captured and uploaded 2021-12-04). Released under CC0 1.0 Universal Public Domain Dedication on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-weimaraner-600-tomasz-sienicki": {
+"wikimedia-weimaraner-600-tomasz-sienicki": {
     id: "wikimedia-weimaraner-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Weimaraner 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Weimaraner_600.jpg",
+    name: "Wikimedia Commons - File:Weimaraner in der Welt.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Weimaraner_in_der_Welt.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-10",
-    note: "Photograph (600 x 489 px) of an adult Weimaraner standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2025-02-09",
+    accessedOn: "2026-11-20",
+    note: "High-resolution photograph (3072 x 4080 px) of a female short-haired Weimaraner sitting in a forest by Bretos (captured 2025-01-19, uploaded 2025-02-09). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-curly-coated-retriever-official-standard": {
+"fci-curly-coated-retriever-official-standard": {
     id: "fci-curly-coated-retriever-official-standard",
     name: "FCI - Curly Coated Retriever Official Breed Standard No. 110",
     url: "https://www.fci.be/Nomenclature/Standards/110g08-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2011-01-19",
-    accessedOn: "2026-11-10",
-    note: "Official English FCI Standard No. 110 (valid standard dated 2009-07-28, published 2011-01-19). Covers Great Britain origin, Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 1 Retrievers classification with working trial, tight crisp water-resistant curls without undercoat, black and liver colors, and withers height (ideal 69 cm for dogs, 64 cm for bitches).",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 110 (valid standard dated 2026-09-08, published 2026-10-06). Covers Great Britain origin, Group 8 Section 1 Retrievers classification with working trial, oval obliquely set eyes, tight crisp curls without undercoat, black and liver colors only, and ideal withers height (dogs 69 cm, bitches 64 cm).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-curly-coated-retriever-nomenclature": {
+"fci-curly-coated-retriever-nomenclature": {
     id: "fci-curly-coated-retriever-nomenclature",
     name: "FCI - Curly Coated Retriever Breed Nomenclature (No. 110)",
     url: "https://www.fci.be/en/nomenclature/CURLY-COATED-RETRIEVER-110.html",
     type: "official_breed_standard",
-    publishedOn: "2011-01-19",
-    accessedOn: "2026-11-10",
-    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 8 Section 1 classification with working trial, definitive recognition date (1954-10-29), and multilingual names.",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 8 Section 1 classification with working trial, definitive recognition date (1954-12-10), valid official standard date (2026-09-08), and multilingual names.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "the-kennel-club-curly-coated-retriever-breed-standard": {
+"the-kennel-club-curly-coated-retriever-breed-standard": {
     id: "the-kennel-club-curly-coated-retriever-breed-standard",
     name: "The Royal Kennel Club - Curly Coated Retriever Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/gundog/retriever-curly-coated/",
+    url: "https://www.royalkennelclub.com/breed-standards/gundog/retriever-curly-coated/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-11-10",
-    note: "Official Royal Kennel Club breed standard (Gundog Group, country of origin standard) establishing withers height (ideal dogs 69 cm / 27 in, bitches 64 cm / 25 in), crisp tight curls without undercoat, water retrieving temperament, and conformation.",
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed standard (Gundog Group, country of origin standard) establishing ideal withers height (dogs 69 cm / 27 in, bitches 64 cm / 25 in), oval obliquely set eyes, crisp tight curls without undercoat, black and liver colors, and steady retrieving temperament.",
     publisher: "The Royal Kennel Club"
   },
-  "akc-curly-coated-retriever-breed-standard": {
+"akc-curly-coated-retriever-breed-standard": {
     id: "akc-curly-coated-retriever-breed-standard",
     name: "American Kennel Club - Official Standard of the Curly-Coated Retriever",
     url: "https://images.akc.org/pdf/breeds/standards/CurlyCoatedRetriever.pdf",
     type: "official_breed_standard",
     publishedOn: "1994-11-28",
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed standard (effective November 28, 1994, Sporting Group) establishing height (dogs 25 to 27 inches, bitches 23 to 25 inches), proportions, tight crisp water-repellent curls, level/scissor bite, and retrieving drive.",
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed standard (effective November 28, 1994, Sporting Group) establishing height (dogs 25 to 27 inches, bitches 23 to 25 inches), proportions, tight crisp water-repellent curls, black and liver colors, and retrieving drive.",
     publisher: "American Kennel Club"
   },
-  "akc-curly-coated-retriever-breed-profile": {
+"akc-curly-coated-retriever-breed-profile": {
     id: "akc-curly-coated-retriever-breed-profile",
     name: "American Kennel Club - Curly-Coated Retriever Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/curly-coated-retriever/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed profile covering British history (English water spaniel and St. John's water dog crosses, 1860 Birmingham show debut), weight (60-95 lbs), lifespan (10-12 years), temperament, and grooming.",
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed profile covering British history (1860 Birmingham show debut, 1889 export to New Zealand and Australia, 1896 English club, 1924 AKC recognition), weight (60-95 pounds), lifespan (10-12 years), grooming (no brushing, wet and air-dry), alone-time sensitivity, and recommended health tests (hips, cardiac, ophthalmologist, crd4/cord1 PRA DNA, EIC DNA, GSDIIIa DNA).",
     publisher: "American Kennel Club"
   },
-  "curly-coated-retriever-club-of-america-health": {
+"curly-coated-retriever-club-of-america-health": {
     id: "curly-coated-retriever-club-of-america-health",
-    name: "Curly-Coated Retriever Club of America - Health and Genetics",
-    url: "https://www.ccrca.org/health",
+    name: "Curly-Coated Retriever Club of America - Health",
+    url: "https://www.ccrca.org/health.html",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official national parent club health portal covering exercise-induced collapse (EIC), glycogen storage disease type VII (PFKD), eye diseases (PRA, cataracts), hip and elbow dysplasia, and CHIC pre-breeding screening requirements.",
+    accessedOn: "2026-11-21",
+    note: "Official national parent club health portal covering autosomal recessive Glycogen Storage Disease Type IIIa (GSD IIIa, DNA test developed with Dr. John C. Fyfe at Michigan State University), bloat (GDV) survey tracking, and canine epilepsy research.",
     publisher: "Curly-Coated Retriever Club of America"
   },
-  "ofa-curly-coated-retriever-chic-requirements": {
+"ofa-curly-coated-retriever-chic-requirements": {
     id: "ofa-curly-coated-retriever-chic-requirements",
     name: "Orthopedic Foundation for Animals - Curly-Coated Retriever CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=CCR",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Curly-Coated Retriever, mandating radiographic hip dysplasia evaluation, CAER eye examination, cardiac evaluation, and DNA testing for Exercise Induced Collapse (EIC) and Glycogen Storage Disease VII (PFKD).",
+    accessedOn: "2026-11-21",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Curly-Coated Retriever covering radiographic hip evaluation, CAER eye examination, cardiac evaluation, and DNA testing for Exercise-Induced Collapse (EIC), Glycogen Storage Disease Type IIIa (GSD IIIa), and Cone-Rod Dystrophy (crd4/cord1 PRA).",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-curly-coated-retriever-lilly-m": {
+"wikimedia-curly-coated-retriever-lilly-m": {
     id: "wikimedia-curly-coated-retriever-lilly-m",
-    name: "Wikimedia Commons - File:Curly Coated Retriever.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Curly_Coated_Retriever.jpg",
+    name: "Wikimedia Commons - File:Curley coated retriever5.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Curley_coated_retriever5.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-10",
-    note: "High-resolution photograph (2548 x 1868 px) of an adult black Curly-Coated Retriever standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2012-08-06",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (4752 x 3168 px) of a Curly-Coated Retriever outdoors by Mattias Agar (captured 2009-11-09, uploaded 2012-08-06 by Ltshears). Licensed under CC BY-SA 2.0 on Wikimedia Commons. Replaced earlier broken draft filename under existing source ID.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-curly-coated-retriever-600-tomasz-sienicki": {
+"wikimedia-curly-coated-retriever-600-tomasz-sienicki": {
     id: "wikimedia-curly-coated-retriever-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Curly Coated Retriever 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Curly_Coated_Retriever_600.jpg",
+    name: "Wikimedia Commons - File:Curly coated retriever 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Curly_coated_retriever_1.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-10",
-    note: "Photograph (600 x 489 px) of a black Curly-Coated Retriever standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2012-08-06",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (3456 x 2304 px) of a Curly-Coated Retriever outdoors by Mattias Agar (captured 2009-12-17, uploaded 2012-08-06 by Ltshears). Licensed under CC BY-SA 2.0 on Wikimedia Commons. Replaced earlier broken draft filename under existing source ID.",
     publisher: "Wikimedia Commons"
   },
-  "fci-spanish-mastiff-official-standard": {
+"fci-spanish-mastiff-official-standard": {
     id: "fci-spanish-mastiff-official-standard",
     name: "FCI - Spanish Mastiff (Mastín Español) Official Breed Standard No. 91",
     url: "https://www.fci.be/Nomenclature/Standards/091g02-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "1998-08-30",
-    accessedOn: "2026-11-10",
-    note: "Official English FCI Standard No. 91 (valid standard dated 1981-06-24, revised 1998-08-30). Covers Spanish origin, Group 2 Section 2.2 Mountain type Molossoids classification without working trial, general appearance, massive sub-longilinear build, double throat dewlap, coarse coat, and withers height lower limits (males 77 cm, females 72 cm, desirable over 80 cm and 75 cm).",
+    publishedOn: "2002-08-30",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 91 (original valid standard dated 1982-05-26, published 2002-08-30). Covers Spanish origin, Group 2 Section 2.2 Mountain type Molossoids without working trial, sub-longilinear build, double throat dewlap, 3:2 skull-to-muzzle ratio, scissor bite, small hazel eyes, coarse semi-long coat, and withers height minimums (males 77 cm, females 72 cm; no upper ceiling).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-spanish-mastiff-nomenclature": {
+"fci-spanish-mastiff-nomenclature": {
     id: "fci-spanish-mastiff-nomenclature",
     name: "FCI - Spanish Mastiff Breed Nomenclature (No. 91)",
-    url: "https://www.fci.be/en/nomenclature/SPANISH-MASTIFF-91.html",
+    url: "https://www.fci.be/en/nomenclature/MASTIN-ESPANOL-91.html",
     type: "official_breed_standard",
-    publishedOn: "1998-08-30",
-    accessedOn: "2026-11-10",
-    note: "Official FCI breed nomenclature record confirming Spain as country of origin, Group 2 Section 2.2 classification without working trial, definitive recognition date (1954-11-29), and multilingual names (Mastín Español, Spanish Mastiff).",
+    publishedOn: "2002-08-30",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Spain as country of origin, Group 2 Section 2.2 Mountain type classification without working trial, definitive recognition date (1954-11-13), valid original standard date (1982-05-26), standard publication date (2002-08-30), and multilingual names.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "rsce-mastin-espanol-breed-standard": {
+"rsce-mastin-espanol-breed-standard": {
     id: "rsce-mastin-espanol-breed-standard",
-    name: "Real Sociedad Canina de España - Estándar Oficial del Mastín Español",
-    url: "https://www.rsce.es/mastin-espanol/",
+    name: "Real Sociedad Canina de España - Estándar Oficial del Perro Mastín Español",
+    url: "https://www.rsce.es/perro-mastin-espanol/",
     type: "official_breed_standard",
-    publishedOn: "1998-08-30",
-    accessedOn: "2026-11-10",
-    note: "Official Spanish kennel club (RSCE / Real Sociedad Canina de España) breed standard and profile for the Mastín Español, detailing historical Mesta transhumance origin, morphology, double dewlap, height parameters, and working livestock guardian behavior.",
+    publishedOn: "2002-08-30",
+    accessedOn: "2026-11-21",
+    note: "Official Spanish kennel club (RSCE) breed standard for Mastín Español (FCI No. 91 / 30.08.2002; original valid standard 26.05.1982), detailing Mesta Merino transhumance heritage, morphology, double dewlap, 3:2 head proportions, black palate, scissor bite (pincer bite minor fault), single/double rear dewclaws, height minimums (77 cm / 72 cm), and coat/color standards.",
     publisher: "Real Sociedad Canina de España"
   },
-  "aepme-mastin-espanol-profile": {
+"aepme-mastin-espanol-profile": {
     id: "aepme-mastin-espanol-profile",
-    name: "Asociación Española del Perro Mastín Español - Historia, Estándar y Salud",
-    url: "https://www.aepme.org/",
+    name: "Asociación Española del Perro Mastín Español - Historia y Plan de Cría",
+    url: "https://aepme.org/mastin-espanol/",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official Spanish parent breed club portal documenting the ancient transhumance history, Mesta regulations (one mastiff per 100 sheep), spiked carlanca collars, typical weights (65-100 kg males, 55-80 kg females), lifespan (10-12 years), and mandatory health screening requirements.",
+    accessedOn: "2026-11-21",
+    note: "Official Spanish parent breed club (AEPME, founded 1981) history and breeding plan page documenting the 1998 Plan de Cría and hip dysplasia screening evaluations (Grades A-D apt, Grade E excluded) performed by the authorized center at the Veterinary Faculty of the University of León.",
     publisher: "Asociación Española del Perro Mastín Español"
   },
-  "ukc-spanish-mastiff-breed-standard": {
+"ukc-spanish-mastiff-breed-standard": {
     id: "ukc-spanish-mastiff-breed-standard",
     name: "United Kennel Club - Spanish Mastiff Breed Standard",
     url: "https://www.ukcdogs.com/spanish-mastiff",
     type: "official_breed_standard",
     publishedOn: "2006-07-01",
-    accessedOn: "2026-11-10",
-    note: "Official UKC breed standard (Guardian Dog Group, recognized 2000, revised 2006) covering conformation, rectangular proportions, double dewlap, height (males min 30.5 in / 77 cm, females min 28.5 in / 72 cm), weight (males 140-220 lbs, females 110-170 lbs), and flock guardian behavior.",
+    accessedOn: "2026-11-21",
+    note: "United Kennel Club Guardian Dog Group breed standard reference retained from catalog registry; primary conformation and measurement verification conducted via FCI Standard No. 91, RSCE, AKC, and The Dog API.",
     publisher: "United Kennel Club"
   },
-  "akc-spanish-mastiff-breed-profile": {
+"akc-spanish-mastiff-breed-profile": {
     id: "akc-spanish-mastiff-breed-profile",
     name: "American Kennel Club - Spanish Mastiff Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/spanish-mastiff/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed profile (Foundation Stock Service, Working Group) covering Iberian transhumance history, Diego Velázquez Las Meninas connection, spiked carlanca collars, lifespan (10-12 years), temperament, and care.",
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed profile (Foundation Stock Service since August 2008, Working Group designation) covering Iberian transhumance history, minimum height (28-35 inches), weight (140-200 pounds), lifespan (10-12 years), colors (Black, Fawn, Red, Wolfgray, Yellow with Brindle/White markings), temperament, and care.",
     publisher: "American Kennel Club"
   },
-  "spanish-mastiff-hip-dysplasia-study-2015": {
+"spanish-mastiff-hip-dysplasia-study-2015": {
     id: "spanish-mastiff-hip-dysplasia-study-2015",
-    name: "Prevalence and Genetic Aspects of Hip Dysplasia in the Spanish Mastiff (Veterinary Research)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/25692686/",
-    type: "scientific",
-    publishedOn: "2015-02-18",
-    accessedOn: "2026-11-10",
-    note: "Peer-reviewed scientific study analyzing radiographic hip dysplasia evaluations, heritability, and joint laxity in Spanish Mastiff breeding populations in Spain.",
-    publisher: "Veterinary Medicine and Surgery / PubMed"
+    name: "Asociación Española del Perro Mastín Español - Protocolo Oficial de Radiografías de Displasia de Cadera",
+    url: "https://aepme.org/protocolo/",
+    type: "breed_club",
+    publishedOn: "2022-03-01",
+    accessedOn: "2026-11-21",
+    note: "Official AEPME radiographic hip dysplasia screening protocol (active since March 2022) detailing submission and evaluation procedures via the Veterinary Faculty of the University of León. Replaced earlier broken PubMed URL (25692686) under existing source ID.",
+    publisher: "Asociación Española del Perro Mastín Español"
   },
-  "wikimedia-mastin-espanol-1-tomasz-sienicki": {
+"wikimedia-mastin-espanol-1-tomasz-sienicki": {
     id: "wikimedia-mastin-espanol-1-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Mastin Español 1.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Mastin_Espa%C3%B1ol_1.jpg",
+    name: "Wikimedia Commons - File:Mastín español.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Mast%C3%ADn_espa%C3%B1ol.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-10",
-    note: "Photograph of an adult Spanish Mastiff standing outdoors by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 529 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2007-12-01",
+    accessedOn: "2026-11-21",
+    note: "Photograph (1024 x 657 px) of an adult Spanish Mastiff at a dog show in Jerez de la Frontera by Antonio M. Romero Dorado (captured 2007-11-17, uploaded 2007-12-01 by AMRD). Released into the Public Domain worldwide. Replaced earlier broken draft filename under existing source ID.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-mastin-espanol-canarian": {
+"wikimedia-mastin-espanol-canarian": {
     id: "wikimedia-mastin-espanol-canarian",
-    name: "Wikimedia Commons - File:Mastin español.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Mastin_espa%C3%B1ol.jpg",
+    name: "Wikimedia Commons - File:Mastín español de trabajo, Castilla.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Mast%C3%ADn_espa%C3%B1ol_de_trabajo,_Castilla.jpg",
     type: "other",
-    publishedOn: "2013-05-18",
-    accessedOn: "2026-11-10",
-    note: "Photograph of an adult Spanish Mastiff in profile outdoors by Canarian (captured 2013-05-18, uploaded 2013-05-18, 1478 x 1184 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2017-03-21",
+    accessedOn: "2026-11-21",
+    note: "Photograph (960 x 720 px) of a working Spanish Mastiff guarding sheep in Castile by Vicente Rojan (captured and uploaded 2017-03-21 by Contiqui). Licensed under CC0 1.0 Universal Public Domain Dedication. Replaced earlier broken draft filename under existing source ID.",
     publisher: "Wikimedia Commons"
   },
-  "fci-norrbottenspets-official-standard": {
+"fci-norrbottenspets-official-standard": {
     id: "fci-norrbottenspets-official-standard",
     name: "FCI - Norrbottenspets Official Breed Standard No. 276",
     url: "https://www.fci.be/Nomenclature/Standards/276g05-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2012-10-21",
-    accessedOn: "2026-11-10",
-    note: "Official English FCI Standard No. 276 (valid standard dated 2012-09-04, published 2012-10-21). Covers Swedish origin, Group 5 Spitz and primitive types, Section 2 Nordic Hunting Dogs classification with working trial only for Nordic countries, compact build, erect ears, curled tail, white piebald coat with red-yellow patches, and withers height (males ideal 45 cm, tolerance 42-48 cm; females ideal 42 cm, tolerance 39-45 cm).",
+    publishedOn: "2009-10-21",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 276 (valid standard dated 2009-07-28, published 2009-10-21). Covers Swedish origin, Group 5 Section 2 Nordic Hunting Dogs with working trial, post-WWII extinction and 1967 reinstatement, slightly rectangular build, erect ears, loosely curled tail, white piebald coat with red-yellow patches preferred, and ideal withers height (males 45 cm, females 42 cm, ±2 cm tolerance).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-norrbottenspets-nomenclature": {
+"fci-norrbottenspets-nomenclature": {
     id: "fci-norrbottenspets-nomenclature",
     name: "FCI - Norrbottenspets Breed Nomenclature (No. 276)",
-    url: "https://www.fci.be/en/nomenclature/NORRBOTTENSPETS-276.html",
+    url: "https://www.fci.be/en/nomenclature/Norrbottenspets-276.html",
     type: "official_breed_standard",
-    publishedOn: "2012-10-21",
-    accessedOn: "2026-11-10",
-    note: "Official FCI breed nomenclature record confirming Sweden as country of origin, Group 5 Section 2 classification, definitive recognition date (1968-11-12), and multilingual names (Norrbottenspets, Spitz de Norrbotten, Norrbottenspitz).",
+    publishedOn: "2009-10-21",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Sweden as country of origin, Group 5 Section 2 Nordic Hunting Dogs classification with working trial, definitive acceptance date (1968-09-20), valid standard date (2009-07-28), English standard publication (2009-10-21), and multilingual names.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "skk-norrbottenspets-breed-standard": {
+"skk-norrbottenspets-breed-standard": {
     id: "skk-norrbottenspets-breed-standard",
-    name: "Svenska Kennelklubben - Rasstandard för Norrbottenspets (FCI 276)",
+    name: "Svenska Kennelklubben - Norrbottenspets Breed Profile & Standard",
     url: "https://www.skk.se/hundraser/norrbottenspets/",
     type: "official_breed_standard",
-    publishedOn: "2012-09-04",
-    accessedOn: "2026-11-10",
-    note: "Official Swedish Kennel Club (SKK) breed standard and profile for Norrbottenspets, documenting its Norrbotten hunting heritage, 1948 extinction declaration, 1967 breed restoration, height limits, weight range (approx. 11-15 kg males, 8-12 kg females), and health screening.",
+    publishedOn: "2009-07-28",
+    accessedOn: "2026-11-21",
+    note: "Official Swedish Kennel Club (SKK) breed profile and standard for Norrbottenspets, confirming forest game-bird hunting heritage and ideal height at withers of 45 cm for males and 42 cm for females with ±2 cm acceptable variation.",
     publisher: "Svenska Kennelklubben"
   },
-  "suomen-kennelliitto-pohjanpystykorva-profile": {
+"suomen-kennelliitto-pohjanpystykorva-profile": {
     id: "suomen-kennelliitto-pohjanpystykorva-profile",
     name: "Suomen Kennelliitto - Pohjanpystykorva Rotuesittely ja PEVISA",
     url: "https://www.kennelliitto.fi/koirarotu/pohjanpystykorva/",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official Finnish Kennel Club (Suomen Kennelliitto) breed profile for the Pohjanpystykorva (Nordic Spitz), confirming height parameters (42-48 cm males, 39-45 cm females), working weight (11-15 kg males, 8-12 kg females), lifespan (12-15 years), bark-pointing treeing bird hunting role, and mandatory PEVISA screening for hips, patellas, and eyes.",
+    accessedOn: "2026-11-21",
+    note: "Official Finnish Kennel Club (Suomen Kennelliitto) breed profile for Pohjanpystykorva (Nordic Spitz), confirming participation in the mandatory PEVISA health screening program including periodic eye exams (every 3 years) and patellar luxation evaluations.",
     publisher: "Suomen Kennelliitto - Finska Kennelklubben ry"
   },
-  "akc-norrbottenspets-breed-profile": {
+"akc-norrbottenspets-breed-profile": {
     id: "akc-norrbottenspets-breed-profile",
     name: "American Kennel Club - Norrbottenspets Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/norrbottenspets/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-10",
-    note: "Official AKC breed profile (Foundation Stock Service, Hound Group) covering Scandinavian history, bark-pointing treeing traits, height, weight (20-30 lbs / approx. 9-14 kg), lifespan (14-17 years), temperament, and grooming.",
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed profile (Miscellaneous Class, Hound Group designation) covering height (16.5-18 inches), weight (20-30 pounds), lifespan (14-17 years), white coat with standard markings, temperament, grooming, and recommended national breed club health tests (Hip Evaluation, Ophthalmologist Evaluation).",
     publisher: "American Kennel Club"
   },
-  "ukc-norrbottenspets-breed-standard": {
+"ukc-norrbottenspets-breed-standard": {
     id: "ukc-norrbottenspets-breed-standard",
     name: "United Kennel Club - Norrbottenspets Breed Standard",
     url: "https://www.ukcdogs.com/norrbottenspets",
     type: "official_breed_standard",
     publishedOn: "2006-05-01",
-    accessedOn: "2026-11-10",
-    note: "Official UKC breed standard (Northern Breed Group, recognized 2006) covering conformation, rectangular proportions, erect prick ears, curled tail, white piebald markings, and hunting behavior.",
+    accessedOn: "2026-11-21",
+    note: "United Kennel Club Northern Breed Group standard reference retained from catalog registry; primary conformation and health verification conducted via FCI Standard No. 276, SKK, Suomen Kennelliitto, SPJ, AKC, and PubMed.",
     publisher: "United Kennel Club"
   },
-  "wikimedia-norrbottenspets-lilly-m": {
+"wikimedia-norrbottenspets-lilly-m": {
     id: "wikimedia-norrbottenspets-lilly-m",
-    name: "Wikimedia Commons - File:Norrbottenspets.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Norrbottenspets.jpg",
+    name: "Wikimedia Commons - File:Nordicspitz1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Nordicspitz1.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-10",
-    note: "High-resolution photograph (2048 x 1536 px) of an adult Norrbottenspets standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2025-07-31",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (1250 x 1300 px) of an adult Norrbottenspets outdoors by Canarian (captured 2022-12-02, uploaded 2025-07-31). Licensed under CC BY-SA 4.0 on Wikimedia Commons. Replaced earlier broken draft filename under existing source ID.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-norrbottenspets-600-tomasz-sienicki": {
+"wikimedia-norrbottenspets-600-tomasz-sienicki": {
     id: "wikimedia-norrbottenspets-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Norrbottenspets 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Norrbottenspets_600.jpg",
+    name: "Wikimedia Commons - File:Nordic Spitz.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Nordic_Spitz.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-10",
-    note: "Photograph (600 x 489 px) of a Norrbottenspets standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2006-12-24",
+    accessedOn: "2026-11-21",
+    note: "Photograph (738 x 629 px) of an adult Norrbottenspets (Pohjanpystykorva) by Kaisa Kotajärvi (uploaded 2006-12-24 by Jotsio~commonswiki). Licensed under CC BY-SA 3.0 on Wikimedia Commons. Replaced earlier broken draft filename under existing source ID.",
     publisher: "Wikimedia Commons"
   },
   "fci-rhodesian-ridgeback-official-standard": {
@@ -20796,6 +20796,516 @@ export const sources = defineSources({
     accessedOn: "2026-11-20",
     note: "Official Briard Club of America CHIC program page detailing required screenings (OFA/PennHIP/International hip evaluation at min age 24 months, ACVO eye exam between 6 months and 8 years, and CSNB DNA test) plus optional recommended screenings (autoimmune thyroiditis panel FT4D/cTSH/TgAA and OFA elbow evaluation).",
     publisher: "Briard Club of America"
+  },
+  "fci-cao-fila-de-sao-miguel-official-standard": {
+    id: "fci-cao-fila-de-sao-miguel-official-standard",
+    name: "FCI - Cão Fila de São Miguel (Saint Miguel Cattle Dog) Official Breed Standard No. 340",
+    url: "https://www.fci.be/Nomenclature/Standards/340g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2007-06-20",
+    accessedOn: "2026-11-20",
+    note: "Official English FCI Standard No. 340 (valid standard dated 2007-05-21, English publication dated 2007-06-20). Covers Portuguese origin on São Miguel Island in the Azores, 'Cow Dog' nickname, Terceira Dog historical link, Group 2 Section 2.1 Molossoid Dogue-type classification without working trial, low-biting dairy cattle working style, short harsh always-brindled coat, slight rear rolling gait, withers height (males 50-60 cm, females 48-58 cm), and weight (males 25-35 kg, females 20-30 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-cao-fila-de-sao-miguel-nomenclature": {
+    id: "fci-cao-fila-de-sao-miguel-nomenclature",
+    name: "FCI - Cão Fila de São Miguel Breed Nomenclature (No. 340)",
+    url: "https://www.fci.be/en/nomenclature/CAO-FILA-DE-SAO-MIGUEL-340.html",
+    type: "official_breed_standard",
+    publishedOn: "2007-06-20",
+    accessedOn: "2026-11-20",
+    note: "Official FCI breed nomenclature record confirming Portugal as country of origin, Group 2 Section 2.1 Molossoid classification without working trial, provisional acceptance date (1995-03-10), definitive acceptance date (2007-05-21), and official multilingual names (Cão Fila de São Miguel, Saint Miguel Cattle Dog, Fila de Saint Miguel).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "azores-agriculture-cao-fila-de-sao-miguel": {
+    id: "azores-agriculture-cao-fila-de-sao-miguel",
+    name: "Portal da Agricultura dos Açores - Cão de Fila de São Miguel (Recursos Genéticos)",
+    url: "https://agricultura.azores.gov.pt/apresentacao-e-organica/direcao-regional-da-agricultura/direcao-de-servicos-de-veterinaria-e-alimentacao/melhoramento-animal-e-recursos-geneticos/planos/cao-de-fila-de-sao-miguel/",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official Regional Directorate of Agriculture of the Azores (Governo dos Açores) animal genetic-resources page for Cão de Fila de São Miguel, documenting native breed conservation alongside the Clube do Cão de Fila de São Miguel in Ponta Delgada.",
+    publisher: "Direção Regional da Agricultura dos Açores"
+  },
+  "ria-horter-cao-fila-de-sao-miguel-2013": {
+    id: "ria-horter-cao-fila-de-sao-miguel-2013",
+    name: "Ria Hörter - Cão Fila de São Miguel aka Saint Miguel Cattle Dog (Canine Chronicle)",
+    url: "https://caninechronicle.com/current-articles/cao-fila-de-sao-miguel-aka-saint-miguel-cattle-dog/",
+    type: "other",
+    publishedOn: "2013-01-10",
+    accessedOn: "2026-11-20",
+    note: "Published breed history article by Ria Hörter (Canine Chronicle Annual 2012-2013, published online 2013-01-10) documenting Azorean cattle-driving heritage, Azores Cattle Dog English name, the 1991 founding of the Clube do Cão de Fila de São Miguel, and the 1992 Ponta Delgada breed show featuring 70 Filas.",
+    publisher: "Canine Chronicle / Ria Hörter"
+  },
+  "wikimedia-fila-de-sao-miguel-5-helsinki-petrova": {
+    id: "wikimedia-fila-de-sao-miguel-5-helsinki-petrova",
+    name: "Wikimedia Commons - File:Fila de São Miguel 5 - Helsinki 6 Dec 2015.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Fila_de_S%C3%A3o_Miguel_5_-_Helsinki_6_Dec_2015.JPG",
+    type: "other",
+    publishedOn: "2015-12-18",
+    accessedOn: "2026-11-20",
+    note: "High-resolution photograph (1600 x 1200 px) of an adult brindle Cão Fila de São Miguel at the Finnish Winner 2015 show in Helsinki by Yulia Petrova / Томасина (EXIF capture date 2015-12-06, uploaded 2015-12-18). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-rzeszow-cao-fila-de-sao-miguel-3pl-pleple2000": {
+    id: "wikimedia-rzeszow-cao-fila-de-sao-miguel-3pl-pleple2000",
+    name: "Wikimedia Commons - File:Rzeszów Cão Fila de São Miguel 3pl.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Rzesz%C3%B3w_C%C3%A3o_Fila_de_S%C3%A3o_Miguel_3pl.jpg",
+    type: "other",
+    publishedOn: "2011-02-27",
+    accessedOn: "2026-11-20",
+    note: "High-resolution photograph (1964 x 1728 px) of an adult brindle Cão Fila de São Miguel at the International Dog Show in Rzeszów, Poland, by Pleple2000 (captured 2011-02-19, uploaded 2011-02-27). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "akc-anatolian-shepherd-dog-breed-standard": {
+    id: "akc-anatolian-shepherd-dog-breed-standard",
+    name: "American Kennel Club - Official Standard of the Anatolian Shepherd Dog",
+    url: "https://images.akc.org/pdf/breeds/standards/AnatolianShepherdDog.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1996-06-01",
+    accessedOn: "2026-11-20",
+    note: "Official AKC breed standard (Working Group; approved June 1995, effective June 1, 1996). Establishes minimum height at age 2+ (dogs from 29 inches, bitches from 27 inches, no upper limit), weight (dogs 110-150 pounds, bitches 80-120 pounds), rectangular build, protective neck ruff, V-shaped drop ears (4x6 in), low/wheel tail carriage, short-to-rough double coat (1-4 inches), all colours equally acceptable, and calm, instinctively protective temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-anatolian-shepherd-dog-breed-profile": {
+    id: "akc-anatolian-shepherd-dog-breed-profile",
+    name: "American Kennel Club - Anatolian Shepherd Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/anatolian-shepherd-dog/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official AKC breed profile covering ancient Turkish livestock-guardian lineage, height (29 in male, 27 in female), weight (110-150 lb male, 80-120 lb female), life expectancy (11-13 years), double-coat shedding, and reserved, independent, loyal temperament.",
+    publisher: "American Kennel Club"
+  },
+  "asdca-anatolian-shepherd-facts": {
+    id: "asdca-anatolian-shepherd-facts",
+    name: "Anatolian Shepherd Dog Club of America (ASDCA) - Facts at a Glance",
+    url: "https://asdca.club/facts-at-a-glance/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official US parent breed club resource documenting rural Turkey and Asia Minor origin, 1970 club founding, 11-13 year lifespan, slow 3-4 year maturity, conservative adult appetite, mandatory 5-6 foot locked fencing, quiet adult barking habits, strong pet dominance (two males typically incompatible), entropion in some lines, and anesthetic sensitivity.",
+    publisher: "Anatolian Shepherd Dog Club of America"
+  },
+  "ofa-anatolian-shepherd-chic-requirements": {
+    id: "ofa-anatolian-shepherd-chic-requirements",
+    name: "Orthopedic Foundation for Animals - Anatolian Shepherd CHIC Requirements",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=ANS",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Anatolian Shepherd Dog (ANS), requiring radiographic Hip Dysplasia evaluation (OFA, PennHIP, or recognized foreign registry) and OFA Elbow Dysplasia evaluation.",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "ccf-livestock-guarding-dog-program": {
+    id: "ccf-livestock-guarding-dog-program",
+    name: "Cheetah Conservation Fund - The Year of the Livestock Guarding Dog",
+    url: "https://cheetah.org/ccf-blog/livestock-guarding-dogs/the-year-of-the-livestock-guarding-dog/",
+    type: "other",
+    publishedOn: "2019-02-12",
+    accessedOn: "2026-11-20",
+    note: "Official Cheetah Conservation Fund report by Dr. Laurie Marker documenting the placement of over 650 Anatolian Shepherd / Kangal livestock guarding dogs across Namibia, South Africa, and Tanzania since the 1990s to protect livestock non-lethally and reduce cheetah conflict.",
+    publisher: "Cheetah Conservation Fund"
+  },
+  "wikimedia-anatolian-shepherd-dog-mountjoy": {
+    id: "wikimedia-anatolian-shepherd-dog-mountjoy",
+    name: "Wikimedia Commons - File:Anatolian Shepherd Dog.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Anatolian_Shepherd_Dog.jpg",
+    type: "other",
+    publishedOn: "2012-08-06",
+    accessedOn: "2026-11-20",
+    note: "High-resolution photograph (5184 x 3456 px) of an adult fawn Anatolian Shepherd Dog with black mask by Jon Mountjoy (captured 2010-11-06, uploaded to Wikimedia Commons via Flickr upload bot by Ltshears on 2012-08-06). Licensed under CC BY 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-anatolian-shepherd-dog-01-cebeci": {
+    id: "wikimedia-anatolian-shepherd-dog-01-cebeci",
+    name: "Wikimedia Commons - File:Anatolian Shepherd Dog 01.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Anatolian_Shepherd_Dog_01.jpg",
+    type: "other",
+    publishedOn: "2020-06-09",
+    accessedOn: "2026-11-20",
+    note: "High-resolution photograph (4250 x 2833 px) of a female Anatolian Shepherd Dog in Karataş, Adana, Turkey, by Zeynel Cebeci / Zcebeci (EXIF capture date 2020-06-07, uploaded 2020-06-09). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "rkc-weimaraner-breed-profile": {
+    id: "rkc-weimaraner-breed-profile",
+    name: "The Royal Kennel Club - Weimaraner Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/gundog/weimaraner/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-20",
+    note: "Official Royal Kennel Club breed profile covering breed characteristics (Large, more than 2 hours daily exercise, once-weekly grooming, short & long coat varieties, lifespan over 10 years), accepted vs. non-standard colors (Mouse/Roe/Silver Grey vs. NBS Blue), and Best Practice health schemes (BVA/KC Hip, BVA/KC Elbow, BVA/KC/ISDS Eye).",
+    publisher: "The Royal Kennel Club"
+  },
+  "weimaraner-spinal-dysraphism-nkx2-8-2013": {
+    id: "weimaraner-spinal-dysraphism-nkx2-8-2013",
+    name: "Genome-Wide Association Mapping in Dogs Enables Identification of NKX2-8 in Neural Tube Defects (PLoS Genet 2013)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/23874236/",
+    type: "scientific_publication",
+    publishedOn: "2013-07-18",
+    accessedOn: "2026-11-20",
+    note: "Peer-reviewed genetics study (Safra et al., PLoS Genet 2013;9(7):e1003646, PMID 23874236) identifying a G-to-AA frameshift mutation in exon 2 of the NKX2-8 homeobox gene on canine chromosome 8 causing spinal dysraphism in Weimaraners.",
+    publisher: "PLoS Genetics / PubMed"
+  },
+  "weimaraner-hypomyelination-fnip2-2014": {
+    id: "weimaraner-hypomyelination-fnip2-2014",
+    name: "A Mutation in the Canine Gene Encoding Folliculin-Interacting Protein 2 (FNIP2) Associated with Disruption in Spinal Cord Myelination (Glia 2014)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/24272703/",
+    type: "scientific_publication",
+    publishedOn: "2014-01-01",
+    accessedOn: "2026-11-20",
+    note: "Peer-reviewed neurogenetics study (Pemberton et al., Glia 2014 Jan;62(1):39-51, PMID 24272703) identifying an autosomal recessive frameshift mutation in FNIP2 on canine chromosome 15 causing hypomyelination ('shaking puppy' tremor syndrome) in Weimaraners.",
+    publisher: "Glia / PubMed"
+  },
+  "rkc-curly-coated-retriever-breed-profile": {
+    id: "rkc-curly-coated-retriever-breed-profile",
+    name: "The Royal Kennel Club - Retriever (Curly Coated) Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/gundog/retriever-curly-coated/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed profile noting oldest and tallest retriever heritage, Vulnerable Native Breed status, Colour Watch Category 0 (Black, Liver), >2 hours/day exercise, and pre-breeding health screening (Good Practice: genetic diversity, BVA/KC Hip & Elbow schemes; Best Practice: EIC DNA test).",
+    publisher: "The Royal Kennel Club"
+  },
+  "ccrca-curly-coated-retriever-breeders-health-testing": {
+    id: "ccrca-curly-coated-retriever-breeders-health-testing",
+    name: "Curly-Coated Retriever Club of America - Breeders and Health Testing Guidelines",
+    url: "https://www.ccrca.org/breeders.html",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official parent club pre-breeding health testing guidelines recommending OFA Hip or PennHIP (and OFA Elbow), CAER eye exam, OFA Heart echocardiogram by a board-certified cardiologist after age 2, and DNA tests for GSD Type IIIa, EIC, and CORD-1 PRA.",
+    publisher: "Curly-Coated Retriever Club of America"
+  },
+  "pubmed-gregory-2007-ccr-gsd3a": {
+    id: "pubmed-gregory-2007-ccr-gsd3a",
+    name: "Gregory et al. (2007) - Glycogen storage disease type IIIa in curly-coated retrievers",
+    url: "https://pubmed.ncbi.nlm.nih.gov/17338148/",
+    type: "scientific_publication",
+    publishedOn: "2007-01-15",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study in Journal of Veterinary Internal Medicine (2007;21(1):40-46, PMID 17338148) establishing that GSD IIIa in Curly-Coated Retrievers is an autosomal recessive trait caused by a single adenosine deletion in exon 32 of the glycogen debranching enzyme gene (AGL).",
+    publisher: "Journal of Veterinary Internal Medicine (PubMed / NIH)"
+  },
+  "fci-irish-soft-coated-wheaten-terrier-official-standard": {
+    id: "fci-irish-soft-coated-wheaten-terrier-official-standard",
+    name: "FCI - Irish Soft Coated Wheaten Terrier Official Breed Standard No. 40",
+    url: "https://www.fci.be/Nomenclature/Standards/040g03-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2001-04-25",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 40 (valid standard dated 2001-01-27, English publication dated 2001-04-25). Covers Irish origin, 1937 Irish Kennel Club recognition, Group 3 Section 1 Large and medium sized Terriers classification without working trial, tight black lips, soft silky wavy wheaten coat, puppy coat clearing, spirited affectionate temperament, and male height (18-19 inches / 46-48 cm; bitches somewhat less).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-irish-soft-coated-wheaten-terrier-nomenclature": {
+    id: "fci-irish-soft-coated-wheaten-terrier-nomenclature",
+    name: "FCI - Irish Soft Coated Wheaten Terrier Breed Nomenclature (No. 40)",
+    url: "https://www.fci.be/en/nomenclature/IRISH-SOFT-COATED-WHEATEN-TERRIER-40.html",
+    type: "official_breed_standard",
+    publishedOn: "2001-04-25",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Ireland as country of origin, Group 3 Section 1 Large and medium sized Terriers classification without working trial, definitive acceptance date (1957-02-26), and official multilingual names (Irish Soft Coated Wheaten Terrier, Terrier Irlandais à Poil Doux).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-soft-coated-wheaten-terrier-breed-standard": {
+    id: "akc-soft-coated-wheaten-terrier-breed-standard",
+    name: "American Kennel Club - Official Standard of the Soft Coated Wheaten Terrier",
+    url: "https://images.akc.org/pdf/breeds/standards/SoftCoatedWheatenTerrier.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2009-08-10",
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed standard (Terrier Group, approved August 10, 2009) establishing exact male and female height (dogs 18-19 inches, ideal 18.5; bitches 17-18 inches, ideal 17.5), weight (dogs 35-40 pounds; bitches 30-35 pounds), square proportions, single silky coat without undercoat, tight black lips, scissor/level bite, upright 90-degree tail carriage, and happy, steady, self-confident temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-soft-coated-wheaten-terrier-breed-profile": {
+    id: "akc-soft-coated-wheaten-terrier-breed-profile",
+    name: "American Kennel Club - Soft Coated Wheaten Terrier Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/soft-coated-wheaten-terrier/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed profile covering 1973 AKC recognition, Irish farm-terrier history, height (18-19 in male / 17-18 in female), weight (35-40 lb male / 30-35 lb female), life expectancy (12-14 years), low-shedding coat requiring diligent combing, city/country adaptability, and agreeable trainability.",
+    publisher: "American Kennel Club"
+  },
+  "scwtca-health-overview": {
+    id: "scwtca-health-overview",
+    name: "Soft Coated Wheaten Terrier Club of America (SCWTCA) - Health Overview",
+    url: "https://scwtca.org/health/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official US parent breed club health portal summarizing primary breed health conditions tracked in the SCWT Health & Pedigree Database: Protein-Losing Nephropathy (PLN), Protein-Losing Enteropathy (PLE) / IBD, Renal Dysplasia (RD), Addison's Disease, Incontinence / Ectopic Ureter, Microphthalmia & Eye Disorders, Degenerative Myelopathy (DM), and Paroxysmal Dyskinesia (PxD).",
+    publisher: "Soft Coated Wheaten Terrier Club of America"
+  },
+  "scwtca-breeding-health-testing": {
+    id: "scwtca-breeding-health-testing",
+    name: "Soft Coated Wheaten Terrier Club of America (SCWTCA) - Health Testing Protocols for Breeding Stock",
+    url: "https://scwtca.org/health/health-testing/breeding-stock/",
+    type: "breed_club",
+    publishedOn: "2023-08-19",
+    accessedOn: "2026-11-21",
+    note: "Official SCWTCA Code of Ethics & CHIC breeding health-testing protocol detailing required tests (Hip Certification, CAER Eye Certification, PLN Variant Gene Test) and recommended/optional DNA and orthopedic screenings (Microphthalmia, DM, Paroxysmal Dyskinesia, Patella, Elbow).",
+    publisher: "Soft Coated Wheaten Terrier Club of America"
+  },
+  "scwtca-annual-testing-protocols": {
+    id: "scwtca-annual-testing-protocols",
+    name: "Soft Coated Wheaten Terrier Club of America (SCWTCA) - Annual Testing Protocols",
+    url: "https://scwtca.org/health/health-testing/annual-testing/",
+    type: "breed_club",
+    publishedOn: "2023-09-20",
+    accessedOn: "2026-11-21",
+    note: "Official SCWTCA annual veterinary screening guide recommending CBC, serum biochemistry, urinalysis, Urine Protein/Creatinine Ratio (UPC) or Microalbuminuria (MA), and blood pressure baseline checks, plus semi-annual proteinuria screening for dogs carrying one or two PLN-associated variant alleles.",
+    publisher: "Soft Coated Wheaten Terrier Club of America"
+  },
+  "pubmed-littman-2013-scwt-nphs1-kirrel2-pln": {
+    id: "pubmed-littman-2013-scwt-nphs1-kirrel2-pln",
+    name: "Glomerulopathy and mutations in NPHS1 and KIRREL2 in soft-coated Wheaten Terrier dogs (Mammalian Genome)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/23325127/",
+    type: "scientific",
+    publishedOn: "2013-01-17",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed molecular genetics study by Littman et al. (Mamm Genome 2013;24(3-4):119-126, Epub 2013-01-17, PMID 23325127) identifying NPHS1 and KIRREL2 mutations strongly associated with familial Protein-Losing Nephropathy (PLN) in Soft Coated Wheaten Terriers (homozygous OR = 9.06; 95% CI 4.24-19.35)—the first molecular characterization of an inherited canine podocytopathy.",
+    publisher: "Mammalian Genome / PubMed"
+  },
+  "pubmed-kaukonen-2018-scwt-rbp4-microphthalmia": {
+    id: "pubmed-kaukonen-2018-scwt-rbp4-microphthalmia",
+    name: "Maternal Inheritance of a Recessive RBP4 Defect in Canine Congenital Eye Disease (Cell Reports)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/29847795/",
+    type: "scientific",
+    publishedOn: "2018-05-29",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study by Kaukonen et al. (Cell Rep 2018;23(9):2643-2652, PMID 29847795) identifying an RBP4 deletion (c.282_284delGAA) causing bilateral microphthalmia, chorioretinal hypoplasia, and retinal colobomas in Irish Soft Coated Wheaten Terriers via a unique recessive maternal penetrance effect (manifesting only when both dam and offspring are homozygous, impairing placental vitamin A transport).",
+    publisher: "Cell Reports / PubMed"
+  },
+  "pubmed-kolicheski-2017-scwt-pign-pxd": {
+    id: "pubmed-kolicheski-2017-scwt-pign-pxd",
+    name: "A homozygous PIGN missense mutation in Soft-Coated Wheaten Terriers with a canine paroxysmal dyskinesia (Neurogenetics)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/27891564/",
+    type: "scientific",
+    publishedOn: "2016-11-28",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study by Kolicheski et al. (Neurogenetics 2017;18(1):39-47, Epub 2016-11-28, PMID 27891564, PMC5243907) identifying a rare autosomal-recessive homozygous PIGN:c.398C>T missense mutation causing canine paroxysmal dyskinesia (median onset 2.25 years) in 25 affected Soft Coated Wheaten Terriers.",
+    publisher: "Neurogenetics / PubMed"
+  },
+  "wikimedia-wheaten-terrier-01-claralieu": {
+    id: "wikimedia-wheaten-terrier-01-claralieu",
+    name: "Wikimedia Commons - File:Wheaten Terrier 01.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Wheaten_Terrier_01.jpg",
+    type: "other",
+    publishedOn: "2022-11-10",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (3704 x 3036 px) of an adult Soft Coated Wheaten Terrier by claralieu / Art Prof (EXIF capture date 2022-04-02, uploaded to Wikimedia Commons by Ser Amantio di Nicolao on 2022-11-10, FlickreviewR 2 confirmed 2022-11-15). Licensed under CC BY 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-soft-coated-wheaten-terrier-pleple2000": {
+    id: "wikimedia-soft-coated-wheaten-terrier-pleple2000",
+    name: "Wikimedia Commons - File:Soft-coated wheaten terrier.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Soft-coated_wheaten_terrier.jpg",
+    type: "other",
+    publishedOn: "2006-10-07",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (2604 x 1974 px) of an adult Soft Coated Wheaten Terrier at the Rybnik dog show by Pleple2000 (captured 2006-10-01, uploaded 2006-10-07). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "pubmed-spanish-mastiff-leishmaniosis-2024": {
+    id: "pubmed-spanish-mastiff-leishmaniosis-2024",
+    name: "Romero et al. (2024) - Exploring the impact of epidemiological and clinical factors on the progression of canine leishmaniosis by statistical and whole genome analyses",
+    url: "https://pubmed.ncbi.nlm.nih.gov/38570155/",
+    type: "scientific_publication",
+    publishedOn: "2024-04-02",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study in International Journal for Parasitology (2024 Jul;54(8-9):401-414, PMID 38570155) identifying the Spanish Mastiff among 20 breeds displaying a clinical resistance phenotype against severe Leishmania infantum infection.",
+    publisher: "International Journal for Parasitology (PubMed / NIH)"
+  },
+  "spj-pohjanpystykorva-pevisa": {
+    id: "spj-pohjanpystykorva-pevisa",
+    name: "Suomen Pystykorvajärjestö - Pohjanpystykorva PEVISA (2025-2029) & Breeding Guidelines",
+    url: "https://spj.fi/rodut/pohjanpystykorva/terveys/pevisa/",
+    type: "breed_club",
+    publishedOn: "2025-01-01",
+    accessedOn: "2026-11-21",
+    note: "Official Finnish Spitz Club (SPJ) PEVISA program (valid 2025-01-01 to 2029-12-31) detailing mandatory pre-breeding patellar luxation and official eye exams (excluding hereditary cataracts, gRD, tRD, PRA, and PHTVL/PHPV grades 2-6), inbreeding limit (<=6.25% over 7 generations), 30-offspring lifetime cap, epilepsy epi-index monitoring, and hereditary ataxia carrier testing recommendations.",
+    publisher: "Suomen Pystykorvajärjestö (SPJ)"
+  },
+  "pubmed-kumpulainen-2017-nordic-spitz-diversity": {
+    id: "pubmed-kumpulainen-2017-nordic-spitz-diversity",
+    name: "Kumpulainen et al. (2017) - Founder representation and effective population size in old versus young breeds: genetic diversity of Finnish and Nordic Spitz",
+    url: "https://pubmed.ncbi.nlm.nih.gov/28295678/",
+    type: "scientific_publication",
+    publishedOn: "2017-03-10",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study in Journal of Animal Breeding and Genetics (2017 Oct;134(5):422-433, PMID 28295678) demonstrating that despite small effective population size and near-extinction, Nordic Spitz maintains SNP heterozygosity (mean Hz = 0.409) comparable to mixed-breed dogs, supported by an open breed registry.",
+    publisher: "Journal of Animal Breeding and Genetics (PubMed / NIH)"
+  },
+  "pubmed-fall-2008-gdm-nordic-spitz": {
+    id: "pubmed-fall-2008-gdm-nordic-spitz",
+    name: "Fall et al. (2008) - Gestational diabetes mellitus in 13 dogs",
+    url: "https://pubmed.ncbi.nlm.nih.gov/18976285/",
+    type: "scientific_publication",
+    publishedOn: "2008-10-03",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed retrospective study in Journal of Veterinary Internal Medicine (2008 Nov-Dec;22(6):1296-1300, PMID 18976285) finding Nordic Spitz breeds overrepresented (11 of 13 cases) among middle-aged pregnant bitches diagnosed with gestational diabetes mellitus (GDM).",
+    publisher: "Journal of Veterinary Internal Medicine (PubMed / NIH)"
+  },
+  "akc-plott-breed-standard": {
+    id: "akc-plott-breed-standard",
+    name: "American Kennel Club - Official Standard of the Plott",
+    url: "https://images.akc.org/pdf/breeds/standards/Plott.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1998-10-01",
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed standard (Hound Group; approved June 1998, effective October 1, 1998). Establishes height at withers (males 20-25 inches, females 20-23 inches), weight in hunting condition (males 50-60 pounds, females 40-55 pounds), ear spread (18-20 in males, 17-19 in females), smooth glossy coat with rare double coats, brindle/solid black/saddle/buckskin colours, rump identification-mark allowance, disqualifications (bloodhound-like ears extending past nose; splayed feet), and bold, loyal temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-plott-hound-breed-profile": {
+    id: "akc-plott-hound-breed-profile",
+    name: "American Kennel Club - Plott Hound Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/plott-hound/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed profile covering 1750 Johannes Plott and Henry Plott North Carolina history, Hanoverian Hound ancestry, 2006 AKC recognition, height (20-25 in male, 20-23 in female), weight (50-60 lb male, 40-55 lb female), life expectancy (12-14 years), low-to-moderate shedding, high barking/energy traits, hip dysplasia screening, and pendant ear-infection care.",
+    publisher: "American Kennel Club"
+  },
+  "ukc-plott-hound-breed-standard": {
+    id: "ukc-plott-hound-breed-standard",
+    name: "United Kennel Club - Plott Hound Breed Standard",
+    url: "https://www.ukcdogs.com/plott-hound",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official UKC breed standard (Scenthound Group, first recognized by UKC in 1946) confirming Plott Hound breed designation, conformation, brindle preference with solid black and limited chest/feet white allowance, and rugged working hound temperament.",
+    publisher: "United Kennel Club"
+  },
+  "nc-history-plott-hound-state-dog": {
+    id: "nc-history-plott-hound-state-dog",
+    name: "North Carolina History Project - Plott Hound: The State Dog",
+    url: "https://northcarolinahistory.org/encyclopedia/plott-hound-the-state-dog/",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Historical encyclopedia entry by Jessica Lee Thompson documenting the Plott Hound's North Carolina heritage, 1989 designation by the North Carolina General Assembly as Official State Dog, and the 2009 North Carolina Highway Historical Marker in Waynesville.",
+    publisher: "North Carolina History Project"
+  },
+  "pubmed-spellacy-1983-plott-hound-mps1": {
+    id: "pubmed-spellacy-1983-plott-hound-mps1",
+    name: "A canine model of human alpha-L-iduronidase deficiency (PNAS 1983)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/6412235/",
+    type: "scientific",
+    publishedOn: "1983-10-01",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed landmark study by Spellacy et al. (Proc Natl Acad Sci U S A 1983 Oct;80(19):6091-6095, PMID 6412235) describing autosomal-recessive alpha-L-iduronidase deficiency (Mucopolysaccharidosis Type I / MPS I, resembling human Hurler-Scheie syndrome) discovered in three Plott Hound littermates.",
+    publisher: "Proceedings of the National Academy of Sciences / PubMed"
+  },
+  "pubmed-menon-1992-canine-idua-mps1": {
+    id: "pubmed-menon-1992-canine-idua-mps1",
+    name: "Architecture of the canine IDUA gene and mutation underlying canine mucopolysaccharidosis I (Genomics 1992)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/1339393/",
+    type: "scientific",
+    publishedOn: "1992-11-01",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed molecular genetics study by Menon, Tieu, and Neufeld (Genomics 1992 Nov;14(3):763-768, PMID 1339393) identifying the canine IDUA splice-site mutation causing retention of intron 1 and a premature termination codon underlying canine Mucopolysaccharidosis I (MPS I) in the Plott Hound lineage.",
+    publisher: "Genomics / PubMed"
+  },
+  "wikimedia-plott-hound-emery": {
+    id: "wikimedia-plott-hound-emery",
+    name: "Wikimedia Commons - File:Plott Hound.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Plott_Hound.jpg",
+    type: "other",
+    publishedOn: "2012-07-18",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (2658 x 1771 px) of an adult brindle Plott Hound by James Emery (captured 2008-12-26 on Canon PowerShot A630, originally published on Flickr ID 3154571815, uploaded to Wikimedia Commons by Ltshears via Flickr upload bot on 2012-07-18). Licensed under CC BY 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-plotthound-brindle1-canarian": {
+    id: "wikimedia-plotthound-brindle1-canarian",
+    name: "Wikimedia Commons - File:Plotthound-brindle1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Plotthound-brindle1.jpg",
+    type: "other",
+    publishedOn: "2022-12-08",
+    accessedOn: "2026-11-21",
+    note: "High-resolution profile photograph (1973 x 1664 px) of a brindle Plott Hound by Canarian (EXIF capture date 2022-12-02, uploaded 2022-12-08). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-bavarian-mountain-scent-hound-official-standard": {
+    id: "fci-bavarian-mountain-scent-hound-official-standard",
+    name: "FCI - Bavarian Mountain Scent Hound (Bayerischer Gebirgsschweisshund) Official Breed Standard No. 217",
+    url: "https://www.fci.be/Nomenclature/Standards/217g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2017-09-22",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 217 (valid standard dated 2017-08-22, English publication dated 2017-09-22). Covers German origin in Bavaria (post-1870 Baron Karg-Bebenburg cross of Hanoverian and red Mountain Scenthounds, 1912 Munich club), Group 6 Section 2 Leash (scent) Hounds classification with working trial, 1:1.15-1:1.25 body proportions, spoon-shaped feet, 'Bracken Star' chest patch, dense moderately harsh red/fawn/deer-grey coat, strict withers height (males 47-52 cm, females 44-48 cm, no departure permitted), and ideal weight (males 20-30 kg, females 17-25 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-bavarian-mountain-scent-hound-nomenclature": {
+    id: "fci-bavarian-mountain-scent-hound-nomenclature",
+    name: "FCI - Bayerischer Gebirgsschweisshund Breed Nomenclature (No. 217)",
+    url: "https://www.fci.be/en/nomenclature/BAYERISCHER-GEBIRGSSCHWEISSHUND-217.html",
+    type: "official_breed_standard",
+    publishedOn: "2017-09-22",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 6 Section 2 Leash (scent) Hounds classification subject to a working trial, definitive recognition date (1959-11-14), and official multilingual names (Bayerischer Gebirgsschweisshund, Bavarian Mountain Scent Hound, Chien de Rouge de Bavière).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-bavarian-mountain-scent-hound-breed-profile": {
+    id: "akc-bavarian-mountain-scent-hound-breed-profile",
+    name: "American Kennel Club - Bavarian Mountain Scent Hound Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/bavarian-mountain-scent-hound/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed profile (Foundation Stock Service) documenting German origin, height (17-20.5 inches), weight (37-66 pounds), life expectancy (12-15 years), moderate shedding, low grooming (2/5), trainability (4/5), quiet barking level (2/5), and loyal, reserved-with-strangers temperament.",
+    publisher: "American Kennel Club"
+  },
+  "bmhs-gb-hip-dysplasia": {
+    id: "bmhs-gb-hip-dysplasia",
+    name: "Bavarian Mountain Hound Society of Great Britain - Hip Dysplasia",
+    url: "http://www.bmhs.org.uk/hip-dysplasia.html",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official UK breed society health resource explaining BVA/KC radiographic hip scoring for Bavarian Mountain Hounds aged one year or older, reporting a breed mean score of approximately 10 (range 4-20+) and advising breeding from hounds scoring below the breed mean.",
+    publisher: "Bavarian Mountain Hound Society of Great Britain"
+  },
+  "bmhs-gb-epilepsy": {
+    id: "bmhs-gb-epilepsy",
+    name: "Bavarian Mountain Hound Society of Great Britain - Epilepsy",
+    url: "http://www.bmhs.org.uk/epilepsy.html",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official UK breed society health page documenting inherited idiopathic epilepsy in Bavarian Mountain Hound bloodlines (typically emerging between 1 and 5 years of age), pedigree-based prevention, and participation in canine epilepsy genetics research.",
+    publisher: "Bavarian Mountain Hound Society of Great Britain"
+  },
+  "pubmed-voges-distl-2009-bavarian-mountain-hound-inbreeding": {
+    id: "pubmed-voges-distl-2009-bavarian-mountain-hound-inbreeding",
+    name: "Inbreeding trends and pedigree analysis of Bavarian mountain hounds, Hanoverian hounds and Tyrolean hounds (J Anim Breed Genet 2009)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/19765162/",
+    type: "scientific",
+    publishedOn: "2009-10-01",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study by Voges and Distl (University of Veterinary Medicine Hannover; J Anim Breed Genet 2009 Oct;126(5):357-365, PMID 19765162) evaluating pedigree structure and inbreeding trends in Bavarian Mountain Hounds, Hanoverian Hounds, and Tyrolean Hounds, recommending careful breeding management and European studbook coordination to preserve genetic diversity.",
+    publisher: "Journal of Animal Breeding and Genetics / PubMed"
+  },
+  "wikimedia-bavarian-mountain-scenthound-canarian": {
+    id: "wikimedia-bavarian-mountain-scenthound-canarian",
+    name: "Wikimedia Commons - File:Bavarian Mountain Scenthound.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Bavarian_Mountain_Scenthound.jpg",
+    type: "other",
+    publishedOn: "2018-01-27",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (1709 x 1415 px) of an adult Bavarian Mountain Scenthound in profile by Canarian (EXIF capture date 2017-12-09, uploaded 2018-01-27). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-deer-red-bavarian-mountain-hound-antham1616": {
+    id: "wikimedia-deer-red-bavarian-mountain-hound-antham1616",
+    name: "Wikimedia Commons - File:Deer Red Bavarian Mountain Hound.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Deer_Red_Bavarian_Mountain_Hound.jpg",
+    type: "other",
+    publishedOn: "2019-08-22",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (3264 x 2448 px) of a two-year-old deer-red female Bavarian Mountain Hound by Antham1616 (EXIF capture date 2019-08-22, uploaded 2019-08-22). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
   },
 });
 

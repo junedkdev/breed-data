@@ -232,6 +232,11 @@ import { volpino_italiano } from "./volpino_italiano";
 import { wetterhoun } from "./wetterhoun";
 import { labradoodle } from "./labradoodle";
 import { komondor } from "./komondor";
+import { cao_fila_de_sao_miguel } from "./cao_fila_de_sao_miguel";
+import { anatolian_shepherd_dog } from "./anatolian_shepherd_dog";
+import { soft_coated_wheaten_terrier } from "./soft_coated_wheaten_terrier";
+import { plott_hound } from "./plott_hound";
+import { bavarian_mountain_hound } from "./bavarian_mountain_hound";
 
 
 export const breedData: readonly Breed[] = [
@@ -463,4 +468,9 @@ export const breedData: readonly Breed[] = [
   wetterhoun,
   labradoodle,
   komondor,
+  cao_fila_de_sao_miguel,
+  anatolian_shepherd_dog,
+  soft_coated_wheaten_terrier,
+  plott_hound,
+  bavarian_mountain_hound,
 ];

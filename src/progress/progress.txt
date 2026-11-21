@@ -153,12 +153,13 @@
 150:barbet - CG
 151:scottish_terrier - CG
 152:briard - CG
+153:weimaraner - CG
+154:curly_coated_retriever - CG
+155:spanish_mastiff - CG
+156:norrbottenspets - CG
 
-153:weimaraner - C
-154:curly_coated_retriever - C
-155:spanish_mastiff - C
-156:norrbottenspets - C
-157:rhodesian_ridgeback - C
+157:rhodesian_ridgeback - CR
+
 158:whippet - C
 159:fox_terrier_(smooth) - C
 160:bolognese - C
@@ -229,13 +230,12 @@
 225:wetterhoun - C
 226:labradoodle - C
 227:komondor - C
+228:cao_fila_de_sao_miguel - C
+229:anatolian_shepherd_dog - C
+230:soft-coated_wheaten_terrier - C
+231:plott_hound - C
+232:bavarian_mountain_hound - C
 
-228:cao_fila_de_sao_miguel - R
-
-229:anatolian_shepherd_dog
-230:soft-coated_wheaten_terrier
-231:plott_hound
-232:bavarian_mountain_hound
 233:sarplaninac
 234:catalan_sheepdog
 235:serbian_hound
