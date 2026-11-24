@@ -9,20 +9,20 @@ export const peruvian_hairless_dog: Breed = {
     "Perro sin pelo del Perú",
     "Peruvian Inca Orchid",
     "PIO",
-    "Calato",
     "Viringo",
+    "Calato",
     "Perro Calato",
-    "Peruvian Hairless",
-    "Inca Hairless Dog"
+    "Inca Hairless Dog",
+    "Perros Flora",
+    "Moonflower Dog"
   ],
 
-  group:
-    "Spitz and Primitive Types; Section 6 — Primitive Type (without working trial; also classified in the Hound, Sighthound & Pariah Dog, and Miscellaneous groups)",
+  group: "Primitive Companion and Sighthound-Type",
 
   origin: {
     country: "Peru",
     region:
-      "Peruvian coastal desert and Andean valleys (developed by pre-Inca cultures including the Moche, Chimú, Chancay, and Vicús civilizations)"
+      "Peruvian coastal desert and Andean valleys, historically depicted by pre-Inca cultures including the Vicús, Moche, Chimú, and Chancay civilizations"
   },
 
   images: [
@@ -32,59 +32,58 @@ export const peruvian_hairless_dog: Breed = {
         "https://commons.wikimedia.org/wiki/File:Peruvian_Hairless_Dog.jpg",
       title: "Peruvian Hairless Dog.jpg",
       description:
-        "An adult hairless Peruvian Hairless Dog standing outdoors in grass.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 1728,
-      height: 2304,
+        "Close-up portrait of a hairless Peruvian Hairless Dog photographed in Trujillo, Peru.",
+      creator: "Hookery (Yuri Hooker)",
+      uploader: "Hookery",
+      capturedOn: "2006-11-03",
+      uploadedOn: "2012-03-20",
+      width: 800,
+      height: 599,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Peruvian_Hairless_Dog.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Hookery (Yuri Hooker), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Peruvian_Hairless_Dog.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-21"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Peruvian_Hairless_Dog_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Peruvian_Hairless_Dog_Medio_Coated.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Peruvian_Hairless_Dog_600.jpg",
-      title: "Peruvian Hairless Dog 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Peruvian_Hairless_Dog_Medio_Coated.jpg",
+      title: "Peruvian Hairless Dog Medio Coated.jpg",
       description:
-        "A Peruvian Hairless Dog standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
+        "A medium-sized female Peruvian Hairless Dog of the coated variety in sable colour.",
+      creator: "Canarian",
+      uploader: "Canarian",
+      capturedOn: "2016-12-04",
+      uploadedOn: "2016-12-05",
       width: 600,
-      height: 489,
-      licenseId: "cc-by-sa-3.0",
+      height: 578,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Peruvian_Hairless_Dog_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Peruvian_Hairless_Dog_Medio_Coated.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "An ancient, svelte, and graceful primitive companion and sighthound-type breed from pre-Columbian Peru, renowned for its hairless warm skin or short-coated variety, upright candle-flame ears, elegant sighthound speed, and deeply affectionate family loyalty.",
+      "An ancient, slender primitive sighthound-type breed from Peru that comes in three sizes and both hairless and short-coated varieties, known for its swift, graceful build, devoted family bond, and reserved watchfulness with strangers.",
 
     description:
-      "The Peruvian Hairless Dog is an elegant, slender, and harmonious primitive hound that combines refined speed and strength in an athletic silhouette. Bred for millennia along the arid coastal deserts and river valleys of Peru, the breed is celebrated for its unique thermal warmth and smooth, elastic bare skin, although a fully coated variety with a sleek, flat single coat naturally coexists. The hound carries a clean, aristocratic head with upright prick ears that flare alertly like candle flames, expressive almond-shaped eyes, and a deep chest tapering into a pronounced abdominal tuck-up. In domestic life, the dog is exceptionally calm, clean, and devoted, forming an intense, shadow-like bond with its family while maintaining a quiet, discerning wariness toward unfamiliar surroundings.",
+      "The Peruvian Hairless Dog is a lean, finely proportioned primitive dog whose athletic frame expresses speed, strength, and balance without coarseness. It occurs naturally in two varieties—the signature hairless form with smooth, elastic bare skin, and a less common coated form covered in a short, sleek single coat—and in three distinct sizes ranging from compact to tall. Although bare skin feels noticeably warm to human hands because no coat sits between skin and touch, the breed's actual body temperature matches that of coated dogs. Its refined head tapers cleanly toward the muzzle, framed by high-set ears that stand erect when alert and fold back at rest, almond-shaped eyes matched to skin or coat tone, a deep chest, a pronounced abdominal tuck-up, and hare-like feet with tough, heat-resistant pads. At home it is quiet, affectionate, and deeply loyal to familiar people, while remaining alert and naturally cautious around newcomers.",
 
     history:
-      "The breed possesses one of the deepest recorded archaeological lineages in the Americas, with depictions appearing on pre-Incan ceramic vessels, textiles, and burial sites from the Moche, Chimú, Chancay, and Vicús cultures dating between 750 BCE and 1450 CE. Revered in ancient Andean society, the hairless dogs—traditionally called viringos or calatos—were kept in coastal homes, used as hot-water-bottle-like bed warmers to soothe joint aches and respiratory illness, and interred alongside nobility. During the Inca Empire, their breeding was strictly protected by royal decree. Following the Spanish arrival in 1532, the sacred dogs were pushed out of major cities into remote coastal fishing hamlets and rural farmsteads, where indigenous families preserved the lineage for centuries. In 2001, the Peruvian government formally declared the breed an official National Cultural Heritage of Peru, establishing conservation programs and requiring archaeological site museums along the coast to maintain living pairs as cultural ambassadors.",
+      "Archaeological pottery and iconography from pre-Columbian coastal Peru—including the Vicús, Moche, Lambayeque, Chimú, and Chancay cultures—show hairless dogs living alongside people in everyday domestic scenes long before the Inca Empire. Traditionally called 'viringo' (from the ancient Tallán word for naked) or 'perro calato' (derived from Quechua), these dogs were prized as household companions and popularly kept close at night for the soothing warmth of their bare skin. After Spanish colonization in the sixteenth century, the dogs were displaced from urban centers and survived mainly in rural coastal communities, particularly in northern Peru, until twentieth-century preservation efforts restored formal breeding. In October 2001, Peru enacted Law No. 27537 declaring the Peruvian Hairless Dog a National Cultural Heritage, and Peru's cultural authorities subsequently arranged for living pairs to be cared for at coastal archaeological site museums such as Chan Chan.",
 
     originalPurpose:
-      "Companionship, therapeutic bed-warming and heat transfer for arthritis and respiratory relief in coastal dwellings, ceremonial companionship, and agile small game hunting in ancient Peru.",
+      "Household companionship, night-time warming companion in traditional Peruvian homes, alert property watching, and agile pursuit of small game.",
 
     currentRoles: [
-      "Devoted household companion and gentle family lapdog",
-      "Therapy and warm-touch emotional comfort dog",
-      "Canine athlete in agility, lure coursing, rally, and trick training",
-      "Alert home and property watchdog",
-      "Living national cultural heritage ambassador of Peru"
+      "Devoted indoor household companion",
+      "Alert watchdog for home and family",
+      "Canine athlete in lure coursing, agility, rally, and obedience",
+      "Living national cultural heritage ambassador at Peruvian archaeological sites"
     ]
   },
 
@@ -117,69 +116,64 @@ export const peruvian_hairless_dog: Breed = {
 
     lifespanYears: {
       min: 12,
-      max: 15
+      max: 14
     },
 
     coatType:
-      "Occurs in two distinct varieties: hairless (smooth, elastic, and warm bare skin across the body, with sparse tufts of hair permitted on the top of the skull forming a crest, on the lower tail, and on the feet) and coated (smooth, short, flat, and tight-fitting single coat covering the entire body without undercoat or fringe).",
+      "Appears in two natural varieties: a hairless variety with smooth, elastic bare skin (sparse hair tufts permitted on the head, extremities, and tail tip) and a coated variety with a short, smooth, close-lying single coat.",
 
     coatLength: "Short",
 
     coatColors: [
-      "Solid black",
-      "Slate black",
-      "Elephant grey",
-      "Bluish black",
-      "Shades of grey",
-      "Dark brown",
-      "Light blond",
-      "Piebald (spotted with unpigmented pink patches on any base color)",
-      "All colors and combinations of colors in the coated variety"
+      "Black, slate black, and bluish black",
+      "Elephant grey and shades of grey",
+      "Dark brown, bronze, and copper tones",
+      "Light blond, tan, and cream tones",
+      "Spotted or piebald (unpigmented pink areas in the hairless variety limited to no more than 20% of the body)",
+      "All solid and combined hound colours in the coated variety (merle excluded)"
     ],
 
     sheddingLevel:
-      "None to low; the hairless variety produces virtually no shedding or dander, while the coated variety sheds minimally and is easily maintained with occasional brushing",
+      "None to low; the hairless variety sheds virtually no hair, while the short-coated variety sheds lightly and needs only minimal weekly brushing",
 
     droolingLevel:
-      "Low; tight, dry, cleanly chiselled lips prevent drooling",
+      "Low; dry, tight-fitting lips keep drooling to a minimum",
 
     distinctiveFeatures: [
-      "Svelte, harmonious, and elegant primitive sighthound-like build combining speed, endurance, and grace",
-      "Three distinct size classifications: Small (25 to 40 cm, 4 to 8 kg), Medium (41 to 50 cm, 8 to 12 kg), and Large (51 to 65 cm, 12 to 30 kg)",
-      "Two recognized varieties: hairless with warm, supple, bare skin, and coated with a smooth, flat single coat",
-      "Sparse crest of hair on top of the skull, lower tail tip, and toes permitted in the hairless variety",
-      "Incomplete dentition naturally lacking premolars or incisors in the hairless variety due to genetic ectodermal dysplasia, with full 42-tooth scissor bite present in the coated variety",
-      "Clean, dry, lupoid head tapering gradually toward the muzzle with a slight stop",
-      "Medium, almond-shaped eyes harmonizing with skin tone from dark black to golden-amber, expressing an alert, questioning gaze",
-      "Erect, pointed prick ears of medium length set high, carried upright like candle flames when alert and laid back against the neck when resting",
-      "Deep chest reaching down to the elbows with well-sprung ribs and a pronounced sighthound-like abdominal tuck-up",
-      "Smooth, tapering tail set medium-low, carried hanging down with an upward hook at rest and raised in a curve when moving",
-      "Long, slender, and straight limbs with hare-like feet, dark nails, and tough, heat-resistant pads"
+      "Lean, graceful sighthound-like silhouette built for agility and swift single-tracking movement",
+      "Three distinct size classes: Small (25 to 40 cm, 4 to 8 kg), Medium (41 to 50 cm, 8 to 12 kg), and Large (51 to 65 cm, 12 to 30 kg)",
+      "Two natural varieties that can appear in the same litter: hairless with smooth, elastic bare skin, and fully coated with a short smooth coat",
+      "Sparse tufts of hair allowed on the skull, feet, and lower tail in the hairless variety",
+      "Naturally incomplete dentition in the hairless variety linked to congenital hairlessness, contrasted with complete dentition in the coated variety",
+      "Clean, tapering lupoid head with a slight stop and fine concentric skin lines permitted on the forehead and around the eyes",
+      "Medium-sized, slightly almond-shaped eyes ranging from black through brown to amber-yellow in harmony with skin or coat shade",
+      "Erect ears held upright when attentive and folded back against the neck when relaxed",
+      "Deep chest reaching nearly to the elbows, lightly sprung ribs, and a clearly defined sighthound tuck-up",
+      "Low-set, tapering tail carried low with a gentle upward curve at rest and lifted in motion",
+      "Semi-long hare-like feet with well-developed interdigital webbing and tough, heat-resistant pads"
     ]
   },
 
   temperament: {
     traits: [
-      "Affectionate, gentle, and deeply attached to family members",
-      "Calm, quiet, and tranquil indoors, seeking out warm blankets and soft cushions",
-      "Alert, vigilant, and naturally observant of all household activity",
-      "Reserved and cautious with unfamiliar strangers without unprovoked aggression",
-      "Agile, playful, and swift outdoors with natural sighthound acceleration",
-      "Patient and sweet-natured with familiar, respectful children",
-      "Sociable and peaceful with other dogs and household pets",
-      "Sensitive to handler emotional tone and averse to harsh methods",
-      "Clean and fastidious domestic habits with minimal dog odor",
-      "Protective of its primary caregiver, maintaining shadow-like proximity"
+      "Noble, affectionate, and closely bonded with its own family",
+      "Calm, clean, and quiet inside the home",
+      "Lively, observant, and quick to alert as a watchdog",
+      "Naturally reserved and wary around unfamiliar people",
+      "Swift, athletic, and keen to chase moving prey outdoors",
+      "Sensitive and primitive in outlook, ranging from gentle sighthound docility to more independent caution",
+      "Better suited to considerate older children than rough play with toddlers",
+      "Requires careful supervision around smaller pets that may trigger chase instincts"
     ],
 
     scores: {
       affection: 5,
-      withChildren: 4,
-      withDogs: 4,
+      withChildren: 3,
+      withDogs: 3,
       withStrangers: 2,
-      protectiveness: 3,
-      independence: 3,
-      trainability: 4,
+      protectiveness: 4,
+      independence: 4,
+      trainability: 3,
       barking: 2,
       energy: 3
     }
@@ -188,7 +182,7 @@ export const peruvian_hairless_dog: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate; requires daily structured walks, short sprint opportunities in a secure area, and interactive play, balancing indoor relaxation with outdoor movement",
+        "Moderate; thrives on regular daily walks, safe bursts of sprinting in an enclosed space, and engaging indoor or sport activities",
 
       minutesPerDay: {
         min: 45,
@@ -196,12 +190,11 @@ export const peruvian_hairless_dog: Breed = {
       },
 
       activities: [
-        "Daily leashed neighborhood walks during temperate morning or twilight hours",
-        "Free sprinting and playful zooming in a securely fenced yard",
-        "Lure coursing and sprint chase games in enclosed fields",
-        "Canine sports including agility, rally obedience, and trick training",
-        "Interactive fetch, soft toy retrieving, and indoor flirt-pole play",
-        "Mental puzzle toys, snuffle mats, and food-foraging games"
+        "Multiple daily leashed walks during mild weather or shaded hours",
+        "Supervised off-leash sprints inside a securely fenced yard",
+        "Lure coursing, agility, rally, and obedience training",
+        "Indoor games such as hide-and-seek, trick training, and rolling-ball fetch during cold or wet weather",
+        "Puzzle feeders and scent-search enrichment"
       ]
     },
 
@@ -209,36 +202,35 @@ export const peruvian_hairless_dog: Breed = {
       level: "Moderate",
 
       brushing:
-        "The hairless variety requires no brushing; wipe down weekly with a soft, warm damp cloth. The coated variety requires gentle brushing once weekly with a soft bristle brush or hound glove to remove loose dead hairs.",
+        "The hairless variety needs no brushing—only a gentle wipe with a soft damp cloth as needed. The coated variety needs a quick weekly pass with a soft bristle brush or hound mitt.",
 
       bathing:
-        "Bathe every two to four weeks using a gentle, hypoallergenic, and fragrance-free canine moisturizing wash to remove environmental dust, sebum, and perspiration.",
+        "Bathe occasionally—roughly every two to four weeks—using a mild, fragrance-free dog wash to keep bare skin clean and clear of clogged pores.",
 
       notes: [
-        "Apply dog-safe, non-toxic sunscreen to light-colored or spotted bare skin prior to outdoor sun exposure to prevent solar sunburn and skin damage.",
-        "Equip hairless dogs with soft, non-abrasive fleece coats, sweaters, and insulated winter jackets in cool, rainy, or freezing weather, as they have zero fur insulation.",
-        "Apply light, non-comedogenic dog-safe coconut oil or moisturizing lotion after bathing if bare skin appears dry or flaking.",
-        "Inspect and clean the upright prick ears weekly to remove dust, wiping gently with an approved veterinary cleanser.",
-        "Trim fast-growing nails every two to three weeks to maintain correct hare-foot alignment.",
-        "Brush teeth multiple times weekly using canine enzymatic toothpaste; provide soft kibbles or veterinary dental care tailored to missing premolars."
+        "Apply pet-safe sunscreen to exposed skin on sunny days and limit direct midday sun exposure.",
+        "Keep this strictly indoor breed dressed in soft sweaters or insulated coats during chilly, windy, or wet outings.",
+        "Check ears periodically for wax or debris and clean gently with a veterinary ear cleanser.",
+        "Trim nails regularly with a clipper or grinder to prevent overgrowth, splitting, or cracking.",
+        "Brush teeth routinely with dog-safe enzymatic toothpaste, paying careful attention around missing or spaced teeth in hairless dogs."
       ]
     },
 
     training: {
       difficulty:
-        "Easy to moderate; exceptionally intelligent, sensitive, and eager to please, learning household cues and routines quickly under positive reinforcement",
+        "Moderate; intelligent and perceptive, yet primitive independence and sensitivity call for patient, consistent, reward-based training and extensive early socialization",
 
       tips: [
-        "Use positive reinforcement, high-value treats, and gentle vocal encouragement.",
-        "Keep instructional lessons short, playful, and upbeat (5 to 10 minutes) to maintain motivation.",
-        "Begin house-training early on a predictable outdoor routine, ensuring the dog has a warm coat during cold or rainy bathroom breaks.",
-        "Never use harsh verbal reprimands or physical coercion, which cause this sensitive primitive breed to shut down and become fearful.",
-        "Always exercise within a securely fenced area of at least five to six feet in height; acute sighthound vision can trigger sudden pursuit of squirrels or small animals.",
-        "Practice gradual alone-time conditioning early to prevent excessive clinginess or separation anxiety."
+        "Invest substantial time in gentle, structured puppy socialization across varied people, environments, and calm dogs.",
+        "Use positive reinforcement, high-value treats, and calm praise; harsh corrections can quickly create fearfulness or defensive reactions.",
+        "Discourage roughhousing during puppyhood so excitable play does not turn into sharp or defensive behaviour.",
+        "Keep training sessions brief, varied, and upbeat to hold an independent sighthound's interest.",
+        "Use a sturdy leash or a securely fenced enclosure outdoors because fast-moving small animals can trigger instant pursuit.",
+        "Build comfortable alone-time habits gradually to prevent separation stress."
       ],
 
       socialization:
-        "Introduce the puppy early, gently, and positively to varied friendly people, calm vaccinated dogs of all sizes, household noises, vehicles, and novel surfaces. Early structured social guidance ensures natural primitive wariness matures into calm, dignified composure in public."
+        "Thorough, positive socialization from early puppyhood is essential for this primitive breed. Gradual, pleasant exposure to unfamiliar people, everyday sounds, surfaces, and well-mannered dogs helps natural wariness settle into confident, polite composure."
     },
 
     livingEnvironment: {
@@ -246,172 +238,169 @@ export const peruvian_hairless_dog: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Warm, sunny, and temperate climates, where bare skin excels in heat dissipation",
-        "Cool and cold climates, provided the dog lives strictly indoors in a heated home and wears warm protective fleece clothing and insulated coats during outdoor excursions"
+        "Warm and temperate climates, with shade and sun protection during bright daylight hours",
+        "Cool or cold climates only as an indoor house dog equipped with warm sweaters or coats for outdoor breaks"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; intensely bonded to its human family and prone to separation distress, shivering, or sadness if left isolated for long workdays without company."
+        "Low to moderate; deeply attached to its household and happiest when living closely indoors with regular human company."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active companion breeds, adjusted for size category, age, and individual metabolic rate.",
+      "Complete and balanced commercial dog food—or a veterinarian-formulated home-prepared diet—matched to the dog's size class (Small, Medium, or Large) and life stage.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured meals per day until about six months of age, then transitioning to two measured daily meals.",
       adult:
-        "Two measured meals daily to support steady energy and comfortable digestion.",
+        "Two measured meals per day to support steady energy and weight control.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and dental comfort."
+        "Two portion-controlled meals daily adjusted for slower metabolism and dental comfort."
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt. Hairless dogs expend substantial metabolic energy regulating body temperature, often requiring slightly higher caloric intake per kilogram of body weight than coated breeds of similar size. For hairless individuals with missing premolars, select small-sized kibbles or moisten dry food with warm water for easy chewing. Divide daily rations into two distinct meals and provide cool, clean drinking water continuously.",
+      "Measure every meal carefully and monitor body condition, as some individuals gain weight easily if overfed or given too many training treats. Because hairless dogs frequently have missing premolars, choose appropriately sized kibble or soften dry food with warm water when needed, and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on delicate joints.",
-      "Account for training treats within the total daily caloric allowance to avoid creeping weight gain.",
-      "Adjust kibble size or soften food for hairless dogs with natural dentition deficits (missing premolars).",
-      "Increase caloric density moderately during cold winter months to compensate for increased metabolic thermoregulation.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Track treats within the daily calorie budget to prevent excess weight gain.",
+      "Choose small or lightly moistened kibble for hairless dogs with incomplete dentition.",
+      "Adjust daily portions to match Small, Medium, or Large frame size and seasonal energy burn.",
+      "Avoid fatty or unsafe human foods and transition between diets gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly across the Small, Medium, and Large size classifications and ambient environmental temperatures. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Nutritional needs vary widely between a 4 kg Small dog and a 30 kg Large dog. Work with a veterinarian to set precise daily portions."
   },
 
   health: {
     overview:
-      "The Peruvian Hairless Dog is a hardy, ancient primitive landrace with a typical life expectancy of 12 to 15 years. Having evolved through millennia of natural adaptation in coastal Peru, it has avoided many artificial conformational extremes. Primary health considerations focus on the genetic consequences of canine ectodermal dysplasia (the FOXI3 mutation that causes hairlessness alongside missing premolars and incisors), dermatological vulnerabilities to sunburn, acne, and rapid hypothermia, dental care for irregular dentition, and routine orthopedic screening for patellar luxation.",
+      "Most Peruvian Hairless Dogs are healthy, vigorous companions with a typical lifespan of 12 to 14 years. The breed's defining genetic feature—a semidominant frameshift mutation in the FOXI3 gene—causes canine ectodermal dysplasia, producing both hairlessness and missing teeth in heterozygotes while being embryonically lethal in homozygotes. Beyond routine veterinary care and skin protection against sunburn and cold, responsible breeding programs focus on screening for patellar luxation, cardiac health, hereditary eye disorders, and hearing.",
 
     commonConditions: [
-      "Canine Ectodermal Dysplasia (FOXI3 mutation) — an autosomal semidominant mutation that causes the hairless phenotype alongside congenital dentition deficits (hypodontia or missing premolars and incisors); homozygous inheritance is embryonic lethal, while the coated variety inherits two normal alleles and full dentition",
-      "Solar dermatitis and sunburn — absence of protective fur makes bare skin susceptible to ultraviolet radiation damage, erythema, and cutaneous malignancies, requiring diligent sun protection",
-      "Hypothermia — rapid loss of body heat in cool, damp, or freezing weather due to the lack of an insulating coat and low subcutaneous fat, requiring indoor heating and protective coats",
-      "Comedones and follicular cysts (canine acne) — clogged hair follicles and sebum accumulation on the back and neck, manageable with gentle cleansing and non-comedogenic moisturizers",
-      "Dentition irregularities and periodontal vulnerability — fragile, missing, or conical teeth in the hairless variety requiring regular oral hygiene and tailored food textures",
-      "Patellar luxation — displacement of the kneecap from the femoral groove causing intermittent hind-limb hopping, monitored through clinical orthopedic grading",
-      "Epilepsy — rare reports of idiopathic seizures documented in primitive sighthound lines"
+      "Canine ectodermal dysplasia (FOXI3 mutation) — an established autosomal semidominant genetic trait causing hairlessness and congenital missing teeth (hypodontia) in hairless dogs; homozygous inheritance is embryonically lethal, whereas coated dogs carry two normal alleles and full dentition",
+      "Solar dermatitis, sunburn, and skin cancer risk — lack of protective fur exposes bare skin to ultraviolet damage, requiring shade and pet-safe sun protection",
+      "Cold sensitivity and hypothermia — absence of coat insulation leaves hairless dogs vulnerable to chilling in cool or wet weather without indoor warmth and clothing",
+      "Comedones (blackheads) and minor skin irritation — clogged follicles and dry skin can develop on exposed areas without gentle cleansing",
+      "Dental wear and periodontal care needs — missing or irregularly spaced teeth in the hairless variety require attentive home brushing and veterinary dental checks",
+      "Patellar luxation, cardiac, ocular, or hearing conditions — screened proactively in breeding stock through orthopedic, cardiac, ophthalmic, and hearing evaluations"
     ],
 
     preventiveCare: [
-      "Apply dog-safe, non-toxic sunscreen to light or spotted bare skin before sun exposure and avoid intense midday sun.",
-      "Dress the dog in warm fleece sweaters or insulated coats during cold, rainy, or freezing weather, and provide heated indoor bedding.",
-      "Wipe bare skin weekly with a warm damp cloth and bathe with gentle, fragrance-free moisturizing shampoos to prevent blackheads.",
-      "Confirm that breeding stock has certified clinical patellar luxation grading and specialist eye examinations.",
-      "Maintain a dedicated home dental routine with enzymatic toothpaste, scheduling periodic professional dental evaluations.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding stock has completed patella, cardiac, ophthalmologist, and hearing (BAER) evaluations.",
+      "Protect exposed skin with dog-safe sunscreen in bright sun and avoid prolonged midday UV exposure.",
+      "Use warm sweaters or coats in cool or wet weather and house the dog strictly indoors.",
+      "Bathe gently as needed with mild, fragrance-free shampoo to keep bare skin healthy.",
+      "Maintain regular tooth brushing and routine veterinary dental checks, especially for hairless dogs with incomplete dentition.",
+      "Keep up with annual veterinary wellness exams, vaccinations, and year-round parasite prevention."
     ],
 
     recommendedScreenings: [
-      "Clinical patellar luxation orthopedic evaluation and grading",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Routine oral and dental radiographic examination",
-      "Regular dermatological skin examination for sun-induced lesions"
+      "Patella (kneecap) orthopedic evaluation",
+      "Veterinary cardiac examination",
+      "Ophthalmologist eye evaluation",
+      "BAER (Brainstem Auditory Evoked Response) hearing test",
+      "Routine veterinary dental and dermatological checks"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. In the hairless variety, missing premolars and incisors are a harmless genetic trait, but remaining teeth must be kept free of tartar; the coated variety possesses full scissor-bite dentition.",
+      "Brush teeth regularly with dog-safe enzymatic toothpaste and schedule periodic veterinary oral exams. Missing premolars and incisors are an expected genetic trait in the hairless variety, while coated dogs have complete dentition.",
 
     earCare:
-      "Inspect the erect candle-flame prick ears weekly for dust, wax, or irritation. Clean gently with an approved veterinary cleanser, drying the leather thoroughly.",
+      "Check the erect ears periodically for wax buildup, dust, or redness, wiping gently with a veterinarian-approved ear cleanser as needed.",
 
     skinCare:
-      "Inspect the bare skin weekly for scratches, dryness, or sun redness. Apply non-comedogenic dog-safe moisturizers after bathing, protect against sunburn with pet-safe sunblock, and never use human skin creams containing toxic zinc oxide."
+      "Inspect bare skin weekly for dryness, scratches, sun redness, or clogged pores. Use mild, fragrance-free dog cleansers and pet-safe sunscreen (avoiding zinc-oxide products toxic if licked)."
   },
 
   suitability: {
-    firstTimeOwners: true,
-    familiesWithChildren: true,
+    firstTimeOwners: false,
+    familiesWithChildren: false,
     seniorOwners: true,
     activeOwners: true,
     apartmentLiving: true,
 
     idealFor: [
-      "Apartment, condominium, or urban dwellers seeking a clean, quiet, and low-barking companion",
-      "Individuals and families seeking a hypoallergenic pet with zero shedding and negligible dog odor",
-      "Retirees, remote workers, or families who spend substantial time at home and value gentle companionship",
-      "Warm-climate residents who enjoy an affectionate, heat-tolerant sun-loving hound",
-      "Canine sports enthusiasts interested in agility, lure coursing, or rally obedience",
-      "Owners committed to regular skincare, sun protection, and cold-weather clothing management"
+      "Experienced or well-prepared indoor owners ready to invest time in thorough socialization and reward-based training",
+      "Apartment or house dwellers seeking a clean, quiet, low-barking, non-shedding indoor companion",
+      "Households with adults or older, considerate children who respect a sensitive primitive dog",
+      "Warm-climate owners or attentive cold-climate owners willing to manage sunblock and winter clothing",
+      "Dog-sport enthusiasts interested in lure coursing, agility, rally, or obedience"
     ],
 
     notIdealFor: [
-      "Owners who expect a dog to live outdoors or spend hours in freezing, snowy, or wet conditions without shelter",
-      "Households looking for a rugged, low-maintenance outdoor hunting hound that requires no clothing or skincare",
-      "People seeking an aggressive guard dog that barks aggressively at property boundaries",
-      "Owners who leave a dog home alone in isolation for long workdays without companionship"
+      "Families with toddlers or very young children prone to rough play",
+      "Owners expecting an outdoor yard dog or minimal-care pet in cold or snowy weather",
+      "Households with unsupervised small pets that may trigger sighthound chase instincts",
+      "First-time owners unwilling to commit to structured primitive-breed socialization"
     ]
   },
 
   funFacts: [
-    "The Peruvian Hairless Dog was officially declared a National Cultural Heritage of Peru by the Peruvian Congress in 2001 under Law No. 27537, which legally mandates that all archaeological site museums along the Peruvian coast must keep at least one living pair as cultural guardians.",
-    "Ancient ceramic pottery and burial artifacts from pre-Incan civilizations, including the Moche and Chimú cultures dating back to 750 BCE, vividly depict these hairless dogs in domestic, hunting, and ceremonial scenes.",
-    "In ancient Incan folklore, the breed was believed to emit therapeutic heat, and families slept with the warm dogs at night to relieve rheumatism, arthritis, and respiratory ailments—an early form of canine heat therapy.",
-    "The hairless trait is caused by a natural mutation in the FOXI3 gene, which also influences dental development; as a result, hairless dogs naturally miss premolars and some incisors, while their coated siblings have full sets of 42 teeth.",
-    "While universally famous in its hairless form, every litter can naturally produce coated puppies with a smooth, short coat; these coated dogs are genetically essential for healthy breeding programs to avoid embryonic lethality.",
-    "Known traditionally in Peru as the 'Viringo' (meaning 'naked' in ancient Moche dialect) or 'Calato' (from the Quechua word 'q'ara', meaning bare or stripped), the breed is celebrated for having exceptionally clean, warm skin with no doggy odor."
+    "Peru's Congress formally recognized the Peruvian Hairless Dog as a National Cultural Heritage on October 22, 2001 under Law No. 27537, and Peru's cultural authorities later arranged for living pairs to reside at coastal archaeological site museums such as Chan Chan.",
+    "Peru celebrates National Peruvian Hairless Dog Day every year on June 12 to honor the breed's international recognition and pre-Columbian heritage.",
+    "Pre-Inca ceramics from the Vicús, Moche, Lambayeque, Chimú, and Chancay cultures depict hairless dogs in everyday domestic scenes, including mothers nursing puppies.",
+    "Although bare skin feels remarkably warm to the touch, measurements confirm that the Peruvian Hairless Dog's internal and external body temperature is the same as that of coated dogs—the warmth is simply felt directly without fur in the way.",
+    "In 2008, geneticists identified a frameshift mutation in the FOXI3 gene on canine chromosome 17 as the shared cause of hairlessness and missing teeth in Peruvian Hairless Dogs, Xoloitzcuintli, and Chinese Crested Dogs.",
+    "Both hairless and short-coated puppies can be born in the same litter, and exposed skin often tans darker during sunny summer months and lightens in winter."
   ],
 
   faq: [
     {
       question: "What is a Peruvian Hairless Dog?",
       answer:
-        "The Peruvian Hairless Dog (Perro sin pelo del Perú or Peruvian Inca Orchid) is an ancient primitive sighthound breed from Peru, recognized for its warm hairless skin or smooth-coated variety, erect candle-flame ears, and gentle, loving companion personality."
+        "The Peruvian Hairless Dog (also known as Perro sin pelo del Perú, Viringo, or Peruvian Inca Orchid) is an ancient, slender primitive sighthound-type breed from Peru that occurs in both hairless and short-coated varieties."
     },
     {
       question: "What sizes does the Peruvian Hairless Dog come in?",
       answer:
-        "The breed exists in three official size categories: Small (25 to 40 cm at the withers, weighing 4 to 8 kg), Medium (41 to 50 cm, weighing 8 to 12 kg), and Large (51 to 65 cm, weighing 12 to 30 kg)."
+        "It comes in three size categories for both males and females: Small (25 to 40 cm, 4 to 8 kg), Medium (41 to 50 cm, 8 to 12 kg), and Large (51 to 65 cm, 12 to 30 kg)."
     },
     {
-      question: "Do all Peruvian Hairless Dogs have no hair?",
+      question: "Are all Peruvian Hairless Dogs completely hairless?",
       answer:
-        "No. The breed naturally occurs in two varieties: the famous hairless variety, which has bare skin with small crests of hair permitted on the head, feet, and tail, and the coated variety, which has a full, smooth, short coat."
+        "No. The breed has two natural varieties that can appear in the same litter: a hairless variety (which may have sparse tufts on the head, feet, and tail tip) and a coated variety with a short, smooth single coat."
     },
     {
       question: "How long does a Peruvian Hairless Dog live?",
       answer:
-        "With proper nutrition, diligent skincare, cold-weather protection, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+        "With attentive indoor care, skin protection, and regular veterinary checkups, the breed typically lives 12 to 14 years."
     },
     {
-      question: "How do you care for the bare skin of a Peruvian Hairless Dog?",
+      question: "How do you care for a hairless Peruvian Hairless Dog's skin?",
       answer:
-        "Skin care involves wiping down with a warm damp cloth, bathing every two to four weeks with gentle dog shampoo, applying non-comedogenic pet moisturizer if dry, using dog-safe sunscreen before sun exposure, and dressing the dog in warm coats during cold weather."
+        "Keep the dog strictly indoors in cold weather, use soft sweaters or coats on chilly outings, apply pet-safe sunscreen on sunny days, and bathe occasionally with a mild, fragrance-free dog wash to prevent dryness or clogged pores."
     },
     {
       question: "Can a Peruvian Hairless Dog live in an apartment?",
       answer:
-        "Yes. They make outstanding apartment companions because they are clean, quiet, rarely bark, and have no shedding, provided they receive daily walks and indoor warmth."
+        "Yes. They are quiet, clean, indoor-oriented dogs that adapt well to apartments as long as they get daily walks, indoor play, and weather-appropriate protection."
     },
     {
-      question: "Why do hairless dogs often miss teeth?",
+      question: "Why do hairless Peruvian Hairless Dogs have missing teeth?",
       answer:
-        "The same FOXI3 gene mutation responsible for hairlessness also affects dental development (canine ectodermal dysplasia); missing premolars or incisors is a completely normal, healthy trait in the hairless variety, while coated dogs have full dentition."
+        "A natural frameshift mutation in the FOXI3 gene governs both hair and tooth development (canine ectodermal dysplasia), so hairless dogs routinely lack premolars or incisors while coated dogs develop complete dentition."
     },
     {
-      question: "Is the Peruvian Hairless Dog truly hypoallergenic?",
+      question: "Is the Peruvian Hairless Dog completely hypoallergenic?",
       answer:
-        "Yes, the hairless variety is one of the most hypoallergenic breeds in the world because it has no fur to shed and produces negligible dander, making it ideal for people with pet allergies."
+        "No dog breed is truly 100% hypoallergenic because allergens also come from skin dander and saliva. However, because the hairless variety sheds no fur, some people with mild sensitivities tolerate it better than heavy-shedding breeds."
     },
     {
-      question: "Are Peruvian Hairless Dogs good family pets and good with children?",
+      question: "Are Peruvian Hairless Dogs good with children and other pets?",
       answer:
-        "Yes. They are deeply affectionate, gentle, and loyal with family members and patient with respectful children; however, because of their bare skin, children must be taught to play gently without scratching."
+        "They are deeply affectionate with their own family, but they are generally not recommended for households with very young children because rough play can stress them; they do much better with older, considerate children and need supervision around small pets."
     },
     {
-      question: "What health screenings are recommended for breeding dogs?",
+      question: "Which health screenings are recommended for breeding Peruvian Hairless Dogs?",
       answer:
-        "Recommended pre-breeding screenings include clinical evaluations for patellar luxation, certified veterinary eye examinations, and routine oral dental assessments."
+        "Recommended pre-breeding evaluations include patella (kneecap) grading, a cardiac exam, a veterinary ophthalmologist eye exam, and a BAER hearing test."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-peruvian-hairless-dog-official-standard",
     "fci-peruvian-hairless-dog-nomenclature",
     "kcp-perro-sin-pelo-del-peru-standard",
@@ -419,96 +408,93 @@ export const peruvian_hairless_dog: Breed = {
     "akc-peruvian-inca-orchid-breed-profile",
     "ukc-peruvian-hairless-dog-breed-standard",
     "peruvian-hairless-dog-foxi3-genetics-study-2008",
+    "peru-info-viringo-cultural-heritage",
     "wikimedia-peruvian-hairless-dog-lilly-m",
-    "wikimedia-peruvian-hairless-dog-600-tomasz-sienicki"
+    "wikimedia-peruvian-hairless-dog-medio-coated-canarian"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Scientific Name: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Verified standard domestic-dog trinomial taxonomy across the catalog."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-peruvian-hairless-dog-official-standard",
-          role: "verified",
-          locator: "Standard heading: PERRO SIN PELO DEL PERÚ (Peruvian Hairless Dog)"
-        },
-        {
           id: "fci-peruvian-hairless-dog-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: PERRO SIN PELO DEL PERÚ (310), Chien nu du Pérou, Peruanischer Nackthund"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "verified",
-          locator: "Nombres autóctonos: Viringo, Calato, Perro Calato"
+          locator: "Official nomenclature: PERRO SIN PELO DEL PERÚ (310), Peruvian Hairless Dog"
         },
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "History: Peruvian Inca Orchid, PIO, Inca Hairless Dog"
+          locator: "Did You Know & History: Peruvian Inca Orchid, PIO, Viringo, Perros Flora, Moonflower Dog, Inca Hairless Dog"
+        },
+        {
+          id: "peru-info-viringo-cultural-heritage",
+          role: "verified",
+          locator: "Traditional Peruvian names: Viringo (Tallán) and Perro Calato (Quechua)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified across FCI Standard No. 310, FCI Nomenclature, KCP, and AKC."
+      verifiedOn: "2026-11-21",
+      note: "Verified across FCI Nomenclature No. 310, AKC, and official Peruvian cultural heritage records."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-peruvian-hairless-dog-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 5 Spitz and primitive types, Section 6 Primitive type, without working trial"
-        },
-        {
           id: "fci-peruvian-hairless-dog-nomenclature",
           role: "verified",
-          locator: "Group 5, Section 6 Primitive type, without working trial"
+          locator: "Group 5 Spitz and primitive types; Section 6 Primitive type; not subject to a working trial"
         },
         {
-          id: "akc-peruvian-inca-orchid-breed-standard",
+          id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Hound Group (Foundation Stock Service / Miscellaneous)"
+          locator: "Miscellaneous Class since 2011-01-01; approved for full Hound Group status effective 2026-12-30"
         },
         {
           id: "ukc-peruvian-hairless-dog-breed-standard",
-          role: "verified",
+          role: "cited",
           locator: "Sighthound & Pariah Dog Group"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group omits kennel-club names and numeric section labels per Rule 5."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-peruvian-hairless-dog-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Peru; BRIEF HISTORICAL SUMMARY"
-        },
-        {
           id: "fci-peruvian-hairless-dog-nomenclature",
           role: "verified",
-          locator: "Country of origin: Peru"
+          locator: "Country of origin of the breed: PERU; definitive acceptance 1981-06-30"
         },
         {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
+          id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Origen: Perú (culturas preincaicas Moche, Chimú, Chancay)"
+          locator: "History: pre-Inca ceramics from Vicús, Mochica, Chancay, and Chimú cultures"
+        },
+        {
+          id: "peru-info-viringo-cultural-heritage",
+          role: "verified",
+          locator: "Peruvian coastal pre-Columbian cultures and Law No. 27537 (2001)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -518,22 +504,22 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "fci-peruvian-hairless-dog-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "verified",
-          locator: "Patrimonio Cultural de la Nación (Ley 27537), cerámica preincaica, dos variedades"
+          locator: "FCI Standard No. 310 (2021-10-26): Skin temperature equals coated dogs, single-tracking gait, hare-feet, varieties"
         },
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed, History, Lure Coursing/Rally/Agility, Did You Know"
+        },
+        {
+          id: "peru-info-viringo-cultural-heritage",
+          role: "verified",
+          locator: "Law No. 27537 (2001) National Cultural Heritage, pre-Inca huacos, June 12 national day"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Synthesized in original prose from FCI Standard No. 310, KCP, and AKC official records."
+        "Rewritten in original prose; clarified per FCI Standard No. 310 that body temperature is identical to coated dogs despite feeling warm to touch."
     },
 
     physical: {
@@ -542,22 +528,22 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "fci-peruvian-hairless-dog-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, SKIN, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "Skin, Forefeet/Hind feet, Gait (single tracking), Disqualifying faults (>20% depigmentation in hairless, merle in coated)"
+        },
+        {
+          id: "akc-peruvian-inca-orchid-breed-profile",
+          role: "verified",
+          locator: "Breed Colors & Markings, Coat Type (Hairless/Smooth), About the Breed"
         },
         {
           id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "verified",
-          locator: "Morfología, tres tamaños (pequeño, mediano, grande), dos variedades (desnuda y con pelo)"
-        },
-        {
-          id: "ukc-peruvian-hairless-dog-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Teeth, Body, Skin and Coat, Color, Height and Weight"
+          role: "cited",
+          locator: "Peruvian parent club conformation and varieties"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Conformation, svelte sighthound build, three sizes, hairless and coated varieties, and distinctive features follow official standards."
+        "Included FCI Standard No. 310 limits (>20% depigmentation disqualifying in hairless; merle disqualifying in coated)."
     },
 
     "physical.height": {
@@ -566,22 +552,22 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "fci-peruvian-hairless-dog-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Males and females: Small: 25 - 40 cm. Medium: 41 - 50 cm. Large: 51 - 65 cm."
+          locator: "SIZE AND WEIGHT: Small 25–40 cm, Medium 41–50 cm, Large 51–65 cm (disqualifying <25 cm or >65 cm)"
         },
         {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "verified",
-          locator: "Alzada a la cruz: Pequeño: 25 a 40 cm; Mediano: 41 a 50 cm; Grande: 51 a 65 cm"
+          id: "akc-peruvian-inca-orchid-breed-profile",
+          role: "conflicting",
+          locator: "Height: 9.75–15.75 in (small), 15.75–19.75 in (medium), 19.75–25.75 in (large)"
         },
         {
-          id: "ukc-peruvian-hairless-dog-breed-standard",
-          role: "verified",
-          locator: "Height: Small: 9.75 to 15.75 inches (25-40 cm); Medium: 15.75 to 19.75 inches (40-50 cm); Large: 19.75 to 25.75 inches (50-65 cm)"
+          id: "akc-peruvian-inca-orchid-breed-standard",
+          role: "cited",
+          locator: "AKC height classes in inches"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Preserved in published unit of centimetres (25–65 cm across Small 25-40 cm, Medium 41-50 cm, and Large 51-65 cm) exactly as specified in the official FCI Standard No. 310 and KCP standard."
+        "Preserved exact published centimetres (25–65 cm across Small, Medium, Large) per FCI Standard No. 310; AKC publishes equivalent inch brackets."
     },
 
     "physical.weight": {
@@ -590,22 +576,17 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "fci-peruvian-hairless-dog-official-standard",
           role: "verified",
-          locator: "Weight: Males and females: Small: 4 - 8 kg. Medium: 8 - 12 kg. Large: 12 - 30 kg."
+          locator: "Weight: Small 4–8 kg, Medium 8–12 kg, Large 12–30 kg"
         },
         {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "verified",
-          locator: "Peso: Pequeño: 4 a 8 kg; Mediano: 8 a 12 kg; Grande: 12 a 30 kg"
-        },
-        {
-          id: "ukc-peruvian-hairless-dog-breed-standard",
-          role: "verified",
-          locator: "Weight: Small: 8.8 to 17.5 pounds (4-8 kg); Medium: 17.5 to 26.5 pounds (8-12 kg); Large: 26.5 to 66 pounds (12-30 kg)"
+          id: "akc-peruvian-inca-orchid-breed-profile",
+          role: "conflicting",
+          locator: "Weight: 8.5–17.5 lb (small), 17.5–26.5 lb (medium), 26.5–55 lb (large)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Preserved in published unit of kilograms (4–30 kg across Small 4-8 kg, Medium 8-12 kg, and Large 12-30 kg) exactly as specified in the official FCI Standard No. 310 and KCP standard."
+        "Preserved exact published kilograms (4–30 kg across Small, Medium, Large) per FCI Standard No. 310; AKC lists a lower 55 lb top end for Large."
     },
 
     "physical.lifespanYears": {
@@ -614,16 +595,11 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-14 years (up to 15 years in health records)"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "verified",
-          locator: "Longevidad y vitalidad de la raza (12-15 años)"
+          locator: "Life Expectancy: 12–14 years"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Supported by kennel club and breed club actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: "Updated to AKC's published 12–14 years life expectancy."
     },
 
     "physical.sheddingLevel": {
@@ -632,15 +608,15 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (1/5) - Hairless variety has no shedding"
+          locator: "Breed Traits: Shedding Level (No Shedding for hairless variety)"
         },
         {
           id: "fci-peruvian-hairless-dog-official-standard",
           role: "verified",
-          locator: "COAT: Bare skin in hairless variety; smooth single coat in coated variety"
+          locator: "Hairless and smooth short-coated varieties"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -650,16 +626,16 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "fci-peruvian-hairless-dog-official-standard",
           role: "verified",
-          locator: "Lips: Tight fitting and dry"
+          locator: "Lips: Tight-fitting and dry"
         },
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: Drooling Level (Less Likely to Drool)"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Tight lips result in low drooling."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "temperament.traits": {
@@ -668,20 +644,15 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "fci-peruvian-hairless-dog-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Noble and affectionate at home with close ones, but lively and alert; wary of strangers"
+          locator: "Behaviour/Temperament: Noble and affectionate at home, lively, alert, wary of strangers"
         },
         {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
+          id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Carácter: Noble, cariñoso en casa, despierto, desconfiado con los extraños"
-        },
-        {
-          id: "akc-peruvian-inca-orchid-breed-standard",
-          role: "verified",
-          locator: "Temperament: Loyal, affectionate, agile, alert, reserved with strangers"
+          locator: "About the Breed & Training: Loyal, protective watchdog, wide primitive temperament range, not recommended for small children, supervise with small pets"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -691,17 +662,12 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "cited",
-          locator: "Temperamento y aptitud familiar"
+          locator: "Breed Traits, Training, and About the Breed"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented primitive companion temperament, high affection, and stranger reserve."
+        "Editorial 1–5 estimates adjusted for primitive temperament, stranger reserve, watchdog alertness, and caution with small children."
     },
 
     care: {
@@ -710,17 +676,12 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "cited",
-          locator: "Grooming, Skin Protection, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "cited",
-          locator: "Cuidados de la piel desnuda, abrigo en invierno y protección solar"
+          locator: "Grooming, Exercise, Training, and Nutrition sections"
         }
       ],
       verifiedOn: null,
       note:
-        "Combines primitive sighthound management with hairless skincare, cold protection, and sunblock protocols."
+        "Synthesizes AKC parent-club care guidance for indoor housing, sunscreen, cold-weather clothing, and socialization."
     },
 
     "care.exercise.level": {
@@ -729,15 +690,10 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Energy Level (3/5); Exercise Needs (3/5)"
-        },
-        {
-          id: "fci-peruvian-hairless-dog-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Companion dog with sighthound speed"
+          locator: "Exercise: daily walks, fenced yard play, indoor games, agility/rally/lure coursing"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -747,17 +703,12 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "cited",
-          locator: "Actividad física y juegos diarios"
+          locator: "Exercise recommendations: multiple daily walks and active play"
         }
       ],
       verifiedOn: null,
       note:
-        "Estimated 45 to 60 minutes of daily activity reflects the moderate exercise demands of a primitive companion hound."
+        "Editorial estimate of 45 to 60 minutes daily across walks, yard sprints, and indoor enrichment."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -766,10 +717,10 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (5/5); clean, quiet companion"
+          locator: "Exercise & Grooming: strictly indoor dog adaptable to apartment living"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -779,15 +730,10 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "verified",
-          locator: "Espacios de recreo protegidos del sol intenso"
+          locator: "Exercise: fenced backyard play recommended for supervised outdoor activity"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -795,17 +741,12 @@ export const peruvian_hairless_dog: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-peruvian-hairless-dog-official-standard",
-          role: "verified",
-          locator: "SKIN: Bare skin vulnerable to extreme cold and sun"
-        },
-        {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Weather adaptation: excels in warm climates; requires indoor heat and winter coats in cold weather"
+          locator: "Grooming & Training: not outdoor dogs; require sunscreen in sun and indoor warmth in cold"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -815,7 +756,7 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; devoted shadow companion"
+          locator: "Loyal, closely bonded indoor companion"
         }
       ],
       verifiedOn: null,
@@ -828,17 +769,12 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, dental considerations for missing teeth"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "cited",
-          locator: "Alimentación según tamaño y metabolismo térmico"
+          locator: "Nutrition: high-quality age-appropriate food, watch weight and treat calories"
         }
       ],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for primitive companion hounds with dentition variations and high metabolic thermoregulation."
+        "Standard nutritional guidance incorporating weight management and dental texture adjustments."
     },
 
     "nutrition.feedingFrequency": {
@@ -847,11 +783,11 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Life-stage feeding guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard canine life-stage meal schedule."
     },
 
     "health.overview": {
@@ -860,22 +796,17 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "peruvian-hairless-dog-foxi3-genetics-study-2008",
           role: "verified",
-          locator: "Canine ectodermal dysplasia, FOXI3 gene mutation, hairlessness and dentition anomalies in hairless dogs"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "verified",
-          locator: "Salud, características de la piel desnuda, dentición incompleta y dos variedades"
+          locator: "Drögemüller et al. (Science 2008): FOXI3 frameshift mutation on CFA17 causing autosomal semidominant canine ectodermal dysplasia (missing hair and teeth)"
         },
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Health priorities: Sunscreen protection, acne, missing teeth, cold sensitivity"
+          locator: "Health: generally healthy; recommended tests Patella, Cardiac, Ophthalmologist, BAER"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Synthesizes peer-reviewed genetics research on the FOXI3 mutation with parent club veterinary skincare guidelines."
+        "Combines peer-reviewed FOXI3 molecular genetics with National Breed Club health screening recommendations."
     },
 
     "health.commonConditions": {
@@ -884,113 +815,88 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "peruvian-hairless-dog-foxi3-genetics-study-2008",
           role: "verified",
-          locator: "FOXI3 semidominant mutation: hairlessness, hypodontia, and embryonic lethality in homozygotes"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "verified",
-          locator: "Dermatitis solar, quemaduras solares, comedones y sensibilidad al frío"
+          locator: "FOXI3 mutation: canine ectodermal dysplasia (hairlessness and hypodontia)"
         },
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Skin cancer risks, hypothermia, patellar luxation"
+          locator: "Sunscreen requirement, indoor-only housing, recommended patella/cardiac/eye/BAER screening"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Details documented genetic and dermatological conditions in original prose without prohibited registry terms."
+        "Removed unverified epilepsy claim and distinguished scientifically established FOXI3 ectodermal dysplasia from bare-skin environmental risks and parent-club screening targets."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "cited",
-          locator: "Cuidados preventivos: protector solar canino, abrigos de invierno e higiene dental"
-        },
-        {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "cited",
-          locator: "Skincare, moisturizing, and veterinary wellness checks"
+          locator: "Health screening, sunscreen, ear checks, nail trims, dental brushing"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to hairless breeds with bare skin."
+      note: "Standard preventive care for hairless and coated Peruvian Hairless Dogs."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "verified",
-          locator: "Exámenes recomendados: evaluación de luxación patelar, examen oftalmológico y control dermatológico"
-        },
-        {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Patella evaluation and eye examinations"
+          locator: "Recommended Health Tests From the National Breed Club: Patella Evaluation, Cardiac Exam, Ophthalmologist Evaluation, BAER Testing"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Screenings summarize published parent club and veterinary protocols."
+        "Added Cardiac Exam and BAER Testing to match the full published National Breed Club screening panel."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-peruvian-hairless-dog-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: incomplete dentition characteristic of hairless variety; full scissor bite in coated variety"
-        },
-        {
           id: "peruvian-hairless-dog-foxi3-genetics-study-2008",
           role: "cited",
-          locator: "FOXI3-associated hypodontia"
+          locator: "FOXI3-associated hypodontia in hairless variety"
+        },
+        {
+          id: "akc-peruvian-inca-orchid-breed-profile",
+          role: "cited",
+          locator: "Grooming: routine tooth brushing; incomplete dentition in hairless variety"
         }
       ],
       verifiedOn: null,
-      note: "Dental hygiene guidelines accounting for canine ectodermal dysplasia."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-peruvian-hairless-dog-official-standard",
-          role: "cited",
-          locator: "Ears: erect, pricked, broad at base"
-        },
-        {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Grooming: periodic ear inspection for wax and debris"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for erect prick ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-peruvian-hairless-dog-official-standard",
+          id: "akc-peruvian-inca-orchid-breed-profile",
           role: "cited",
-          locator: "Skin: smooth, elastic, completely hairless"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "cited",
-          locator: "Higiene y humectación de la piel desnuda"
+          locator: "Grooming: sunscreen on sunny days and occasional bathing"
         }
       ],
       verifiedOn: null,
-      note: "Dermatological care protocol for hairless canine skin."
+      note: null
     },
 
     suitability: {
@@ -999,40 +905,35 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "cited",
-          locator: "Aptitud como perro de compañía y vida en el hogar"
+          locator: "Training & About the Breed: substantial socialization needed, not recommended for small children, indoor-only dog"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, hypoallergenic qualities, and clothing/skincare needs."
+        "Updated firstTimeOwners and familiesWithChildren to false to align with AKC parent-club guidance regarding primitive-breed socialization and small children."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
+          id: "peru-info-viringo-cultural-heritage",
           role: "verified",
-          locator: "Patrimonio Cultural del Perú (Ley 27537 de 2001), presencia obligatoria en museos arqueológicos, Moche y Chimú huacos"
+          locator: "Law No. 27537 (2001), June 12 national day, pre-Inca ceramics, seasonal skin tanning"
         },
         {
-          id: "akc-peruvian-inca-orchid-breed-profile",
+          id: "fci-peruvian-hairless-dog-official-standard",
           role: "verified",
-          locator: "Therapeutic warmth folklore, pre-Incan ceramics, viringo etymology, coated variety occurrence"
+          locator: "Skin section: internal and external temperature equals coated breeds"
         },
         {
           id: "peruvian-hairless-dog-foxi3-genetics-study-2008",
           role: "verified",
-          locator: "FOXI3 semidominant genetics and dental correlation"
+          locator: "2008 Science discovery of FOXI3 frameshift mutation on chromosome 17"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified historical folklore and cultural heritage facts."
+      verifiedOn: "2026-11-21",
+      note: "Verified cultural heritage, physiological, and genetic facts."
     },
 
     faq: {
@@ -1041,24 +942,24 @@ export const peruvian_hairless_dog: Breed = {
         {
           id: "fci-peruvian-hairless-dog-official-standard",
           role: "verified",
-          locator: "Origin, three sizes (25-40 cm / 41-50 cm / 51-65 cm), weight (4-30 kg), hairless and coated varieties"
-        },
-        {
-          id: "kcp-perro-sin-pelo-del-peru-standard",
-          role: "verified",
-          locator: "Skin care, sun protection, winter clothing, missing teeth, and Peruvian cultural heritage"
+          locator: "Three size classes (25–40 / 41–50 / 51–65 cm, 4–8 / 8–12 / 12–30 kg) and two varieties"
         },
         {
           id: "akc-peruvian-inca-orchid-breed-profile",
           role: "verified",
-          locator: "Apartment suitability, family life, hypoallergenic qualities, and training"
+          locator: "Lifespan (12–14 years), grooming, apartment adaptability, children/pet cautions, and recommended health tests"
+        },
+        {
+          id: "peruvian-hairless-dog-foxi3-genetics-study-2008",
+          role: "verified",
+          locator: "FOXI3 genetic basis of hairlessness and missing teeth"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+        "Original FAQ answers; corrected overstatement about 100% hypoallergenicity."
     }
   },
 
-  updatedOn: "2026-11-11"
+  updatedOn: "2026-11-21"
 };

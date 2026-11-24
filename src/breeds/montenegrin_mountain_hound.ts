@@ -8,84 +8,83 @@ export const montenegrin_mountain_hound: Breed = {
   alternateNames: [
     "Crnogorski planinski gonič",
     "Crnogorski planinski gonic",
+    "Crni gonič",
+    "Black Hound",
     "Yugoslavian Mountain Hound",
     "Jugoslovenski planinski gonič",
     "Planinac",
-    "Black Mountain Hound",
-    "Chien de montagne du Monténégro",
+    "Chien courant de montagne du Monténégro",
     "Montenegrinischer Gebirgslaufhund",
-    "Sabueso de montaña de Montenegro"
+    "Sabueso de montaña del Montenegro"
   ],
 
-  group:
-    "Scenthounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial; also classified in the Scenthound and Hound groups)",
+  group: "Medium-Sized Scenthound (Hound)",
 
   origin: {
     country: "Montenegro",
     region:
-      "Balkan Peninsula (developed across the rugged karst highlands, limestone gorges, and forested mountains of Montenegro)"
+      "Mountainous karst highlands and forested valleys of Montenegro in the western Balkans"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Crnogorski_planinski_gonic.JPG",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Montenegronak.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Crnogorski_planinski_gonic.JPG",
-      title: "Crnogorski planinski gonic.JPG",
+        "https://commons.wikimedia.org/wiki/File:Montenegronak.jpg",
+      title: "Montenegronak.jpg",
       description:
-        "An adult black and tan Montenegrin Mountain Hound standing in profile outdoors at a dog show.",
-      creator: "Pleple2000",
-      uploader: "Pleple2000",
-      capturedOn: "2008-10-05",
-      uploadedOn: "2008-10-18",
-      width: 2400,
-      height: 1800,
-      licenseId: "cc-by-sa-3.0",
+        "An adult black-and-tan Montenegrin Mountain Hound photographed outdoors.",
+      creator: "Canarian",
+      uploader: "Canarian",
+      capturedOn: "2024-04-26",
+      uploadedOn: "2024-04-26",
+      width: 2299,
+      height: 1857,
+      licenseId: "cc-by-4.0",
       attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Crnogorski_planinski_gonic.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Montenegronak.jpg. License: https://creativecommons.org/licenses/by/4.0/. Changes, if any, must be indicated.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-21"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Crnogorski_planinski_gonic_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Montenegrin_Mountain_Hound_2.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Crnogorski_planinski_gonic_600.jpg",
-      title: "Crnogorski planinski gonic 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Montenegrin_Mountain_Hound_2.jpg",
+      title: "Montenegrin Mountain Hound 2.jpg",
       description:
-        "A Montenegrin Mountain Hound standing outdoors.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
-      licenseId: "cc-by-sa-3.0",
+        "A black-and-tan female Montenegrin Mountain Hound photographed at an international dog show.",
+      creator: "Canarian",
+      uploader: "Canarian",
+      capturedOn: "2014-08-09",
+      uploadedOn: "2015-08-01",
+      width: 444,
+      height: 510,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Crnogorski_planinski_gonic_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Montenegrin_Mountain_Hound_2.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "A rustic, sure-footed, and noble Balkan scenthound built for endurance tracking across razor-sharp karst limestone, recognized by its glossy black coat with distinctive tan points above the eyes, melodious bay, and calm domestic loyalty.",
+      "A medium-sized, agile Montenegrin scenthound built for steady endurance in rocky mountain country, recognizable by its glossy black coat with warm tan markings, sure-footed trot, and loyal, level-headed disposition.",
 
     description:
-      "The Montenegrin Mountain Hound is a medium-sized, solid, and athletic hunting hound combining muscular power with agile, ground-covering stamina. Developed in the rugged mountain ranges of Montenegro, the hound possesses a balanced rectangular frame, strong bone, and tough cat-like paws engineered to navigate steep scree, thorny thickets, and limestone ravines. Its coat is short, dense, and flat-lying, characterized by a deep jet-black base highlighted by warm red or fawn tan markings above the eyes, on the muzzle, and on the lower legs. The head is cleanly proportioned with a flat skull, moderate stop, medium drop ears hanging close to the cheeks, and expressive dark brown eyes radiating calm intelligence. In field work, it is a persistent, cold-nosed tracker that sounds a ringing, high-pitched voice, while in domestic surroundings it relaxes into a gentle, affectionate, and steadfast companion.",
+      "The Montenegrin Mountain Hound is an athletic, well-proportioned scenthound slightly longer than it is tall, with body length and chest girth each exceeding withers height by roughly 10 percent. Shaped by Montenegro's steep limestone terrain, it pairs strong bone, elastic joints, and an effortless, brisk trot with a dense, flat-lying black coat backed by a protective undercoat. Warm tan points appear as hazelnut-sized spots over the eyes, along the sides of the muzzle up to the lip corners, and on the lower legs. Its dolichocephalic head carries high-set, medium-length drop ears lying flat against the cheeks, slightly oblique oval brown eyes rimmed in black, and a sabre-shaped tail held below the back line. Focused and tireless on a scent trail, it settles at home into a calm, trustworthy, and deeply devoted companion.",
 
     history:
-      "The breed descends from ancient scenthound stock that spread across the Balkan Peninsula in antiquity, where Illyrian hunting dogs were crossed with early Mediterranean and Celtic hounds brought along maritime trading routes. Historically prized in the remote Dinaric Alps and Montenegrin valleys, these hounds were selectively bred by local hunters to track hare, fox, and wild boar across impassable karst terrain where speed was secondary to endurance, footing, and a voice that could carry across mountain canyons. The first formal standard was established in Belgrade in 1924, and international purebred recognition followed in 1969 under the original name 'Yugoslavian Mountain Hound'. Following the dissolution of the former Yugoslavia, international kennel authorities officially reaffirmed Montenegro as the country of origin in 2010, formally renaming the breed the Montenegrin Mountain Hound. Today, it remains an esteemed hunting companion in southeastern Europe and a cherished symbol of Montenegrin pastoral heritage.",
+      "Sharing deep roots with the other native scenthounds of the Balkan Peninsula, the Montenegrin Mountain Hound developed in Montenegro's rugged highlands as a dependable tracker of hare, fox, and mountain game. Locally known in earlier generations as the 'Black Hound' ('Crni gonič'), it was prized by hunters for its stamina, keen nose, and calm reliability in difficult karst terrain. Its first written description dates back to 1924, and it gained formal international standing in 1969 under the name Yugoslavian Mountain Hound before later being recognized under its current Montenegrin name. Today it remains primarily a working hunting hound in southeastern Europe and a cherished part of Montenegro's rural heritage.",
 
     originalPurpose:
-      "Methodical tracking, scenting, and driving hare, fox, wild boar, and roe deer across steep mountain karst and rocky woodland.",
+      "Tracking and trailing hare, fox, and mountain game by scent across rugged karst hills and forested slopes.",
 
     currentRoles: [
-      "Traditional tracking and hunting hound for small and large mountain game",
-      "Blood tracking and wounded game search partner",
-      "Vigilant homestead and rural property watchdog",
-      "Devoted household companion for active outdoor families",
-      "Endurance hiking and wilderness trekking partner"
+      "Working mountain scenthound for small and large game",
+      "Trailing, blood-tracking, and scentwork partner",
+      "Alert rural homestead watchdog",
+      "Loyal companion for active, outdoor-oriented households"
     ]
   },
 
@@ -95,8 +94,8 @@ export const montenegrin_mountain_hound: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 45,
-        max: 55
+        min: 44,
+        max: 54
       },
       female: {
         min: 44,
@@ -111,63 +110,61 @@ export const montenegrin_mountain_hound: Breed = {
         max: 25
       },
       female: {
-        min: 20,
-        max: 25
+        min: 18,
+        max: 23
       }
     },
 
     lifespanYears: {
-      min: 12,
+      min: 11,
       max: 14
     },
 
     coatType:
-      "Short, dense, rough, not very thick, glossy, and flat-lying double coat with an abundant undercoat providing weather protection across harsh mountain environments.",
+      "Short, dense, slightly coarse, glossy, and flat-lying double coat supported by a fairly well-developed undercoat for mountain weather protection.",
 
     coatLength: "Short",
 
     coatColors: [
-      "Solid black ground with tan markings (red, brownish-red, or yellow)",
-      "Tan markings above the eyes forming characteristic four-eyed spots",
-      "Tan markings on the muzzle and sides of the foreface",
-      "Tan markings on the throat, chest, and lower parts of the limbs",
-      "A small white patch on the chest is permissible but not sought after"
+      "Black base with warm tan markings (ranging from fawn and light red-yellow to deep or fiery red)",
+      "Hazelnut-sized tan spots above each eye",
+      "Tan markings on the muzzle extending no farther than the corners of the lips",
+      "Tan markings on the lower parts of all four legs",
+      "A small white chest patch up to 3 cm in diameter is tolerated, though undesired"
     ],
 
     sheddingLevel:
-      "Low to moderate; the short smooth coat sheds minimally year-round, with slightly increased shedding during seasonal undercoat changes",
+      "Low to moderate; sheds lightly through the year with slightly heavier undercoat turnover between seasons",
 
     droolingLevel:
-      "Low; clean, firm, and tightly fitting lips with dark pigment prevent drooling",
+      "Low; medium-developed, tight-fitting lips with closed corners and black pigment prevent drooling",
 
     distinctiveFeatures: [
-      "Well-balanced, solid, and muscular rectangular scenthound outline combining agility and strength",
-      "Height at the withers of 45 to 55 cm for males (ideal 51 to 52 cm) and 44 to 54 cm for females (ideal 48 to 49 cm)",
-      "Working weight of 20 to 25 kg for both males and females in hard, lean condition",
-      "Signature solid jet-black coat accented by clearly delineated red or fawn tan markings above the eyes, on the muzzle, and on the legs",
-      "Noble, wedge-shaped head with a flat skull, marked occiput, and slight stop",
-      "Complete, regular scissor bite with powerful jaws and sound, evenly spaced teeth",
-      "Medium-sized, oval dark brown eyes with black lids radiating a frank, calm, and intelligent gaze",
-      "Medium-length drop ears set high, hanging flat against the cheeks with rounded tips",
-      "Deep, spacious oval chest extending to the elbows with well-sprung ribs and a firm, level topline",
-      "Muscular neck widening smoothly into clean, laid-back shoulders without loose throat skin",
-      "Sabre-like tail set in continuation of the croup line, tapering toward the tip and carried cheerfully in a gentle curve",
-      "Straight, heavy-boned forelegs and powerful thighs with compact, cat-like feet and tough, dark pads adapted for sharp rock"
+      "Slightly rectangular, resilient scenthound frame with body length and chest girth roughly 10% greater than height at the withers",
+      "Height at the withers of 44 to 54 cm (ideal 49 to 50 cm for males and 48 to 49 cm for females)",
+      "Lean working weight of 20 to 25 kg for males and 18 to 23 kg for females",
+      "Glossy black double coat accented by hazelnut-sized tan eyebrow spots and tan points on the muzzle and lower legs",
+      "Dolichocephalic head measuring about 45% of withers height, with divergent skull-to-muzzle planes, a pronounced frontal furrow, subtle occiput, and slight stop",
+      "Strong jaws with a complete, regular scissor bite (pincer bite also permitted)",
+      "Oval, slightly oblique light-to-dark brown eyes bordered by black-pigmented eyelids",
+      "High-set, medium-length drop ears hanging flat against the cheeks without folds and ending in rounded oval tips",
+      "Deep, strong chest with a prominent breastbone and a mildly tucked-up abdomen",
+      "Clean, muscular neck sloping at 45 to 50 degrees with no dewlap",
+      "Well-feathered sabre tail continuing the croup line, tapering to the hock and carried below the topline",
+      "Straight, muscular limbs with elastic drive and a swift, effortless trot"
     ]
   },
 
   temperament: {
     traits: [
-      "Calm, steady, and noble in everyday household life",
-      "Deeply loyal, affectionate, and shadow-like with its handler and family",
-      "Tireless, methodical, and tenacious tracker on scent trails",
-      "Resonant, high-pitched, and melodious baying voice used during tracking",
-      "Exceptional scenting endurance across rocky mountain terrain",
-      "Friendly and patient companion for familiar children",
-      "Sociable and peaceful with other pack hounds",
-      "Independent problem-solver with natural field initiative",
-      "Alert watchdog that announces novel events without unprovoked aggression",
-      "High prey drive toward small wild mammals, hare, and wild boar"
+      "Well-balanced, calm, and dependable in everyday life",
+      "Deeply devoted, docile, and closely attached to its owner",
+      "Intelligent, alert, and responsive to consistent handling",
+      "Energetic and persistent when following a scent trail",
+      "Strong tracking instinct and prey drive toward hare, fox, and wild game",
+      "Vocal with a carrying bay when working a trail",
+      "Generally sociable with other hounds and cooperative in pack settings",
+      "Naturally watchful without being shy or aggressive"
     ],
 
     scores: {
@@ -186,7 +183,7 @@ export const montenegrin_mountain_hound: Breed = {
   care: {
     exercise: {
       level:
-        "High; an active, endurance-driven hunting hound requiring daily sustained physical activity and olfactory stimulation",
+        "High; an endurance-bred mountain hound that needs vigorous daily movement and regular scent-based mental stimulation",
 
       minutesPerDay: {
         min: 60,
@@ -194,12 +191,11 @@ export const montenegrin_mountain_hound: Breed = {
       },
 
       activities: [
-        "Daily long leashed walks and structured trail hiking with generous sniffing opportunities",
-        "Trailing, tracking, and blood-tracking scent games in rural or woodland settings",
-        "Free running and exploratory scenting in a securely fenced yard or paddock",
-        "Canine sports including tracking trials, scentwork, and canicross",
-        "Pack walks and group play sessions alongside other energetic dogs",
-        "Interactive fetch, ball retrieving, and food puzzle challenges"
+        "Brisk daily leashed walks and hilly trail hikes with ample sniffing time",
+        "Structured tracking, trailing, and nosework games",
+        "Supervised running inside a tall, securely fenced yard",
+        "Canicross or long-distance hiking over varied terrain",
+        "Group walks with compatible dogs and interactive food puzzles"
       ]
     },
 
@@ -207,36 +203,35 @@ export const montenegrin_mountain_hound: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once or twice weekly with a rubber hound glove or firm bristle brush to remove dead hair and keep the glossy black coat in prime condition.",
+        "Brush once a week with a rubber hound glove or bristle brush—and slightly more often during seasonal undercoat sheds—to lift loose hair and preserve coat gloss.",
 
       bathing:
-        "Bathe every six to eight weeks or when soiled after muddy outdoor hunts, using a gentle canine shampoo.",
+        "Bathe only when muddy or soiled, roughly every six to eight weeks, using a mild canine shampoo.",
 
       notes: [
-        "The short smooth coat requires minimal maintenance and dries quickly after getting wet.",
-        "Inspect the flat drop ears weekly for moisture, wax accumulation, or debris, wiping gently with an approved veterinary cleanser.",
-        "Check paw pads, toes, and skin for cuts or abrasions after running over sharp limestone rocks or through thorny underbrush.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain correct compact foot structure.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "Wipe down the sleek coat with a damp towel after outdoor trails to remove dust and restore natural sheen."
+        "The short, flat coat dries quickly and sheds trail dirt with minimal upkeep.",
+        "Check the flat-hanging drop ears weekly for moisture, wax, or debris and wipe gently with a veterinary cleanser.",
+        "Inspect paw pads and toes after hikes over rough stone or brush for small scrapes or thorns.",
+        "Trim nails every few weeks so they stay short and do not strain the feet.",
+        "Brush teeth several times a week with dog-safe enzymatic toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent, docile, and eager to please its handler, but possesses independent scenthound drive that requires patient, reward-based guidance",
+        "Moderate; docile, intelligent, and loyal to its handler, yet strong scenthound instincts require patient, reward-based consistency",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and enthusiastic praise.",
-        "Keep training sessions varied, upbeat, and concise (5 to 10 minutes) to maintain motivation.",
-        "Always exercise within a securely fenced area or on a long line, as intriguing scent trails will trigger selective hearing.",
-        "Condition a reliable recall early using high-value rewards.",
-        "Teach a quiet command early to help manage natural hound baying habits.",
-        "Avoid harsh verbal reprimands or physical coercion, which cause this sensitive hound to lose trust and withdraw."
+        "Use positive reinforcement with aromatic food rewards and calm praise.",
+        "Keep lessons short, upbeat, and varied so the hound stays engaged.",
+        "Use a sturdy leash or a securely fenced area outdoors, as a fresh scent trail can override recall.",
+        "Practice recall from puppyhood on a long training line before increasing distractions.",
+        "Introduce a reliable 'quiet' cue early to manage vocal hound tendencies.",
+        "Avoid harsh corrections, which undermine the trust of a loyal, sensitive handler-oriented hound."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to varied people, friendly vaccinated dogs of all sizes, household noises, vehicles, and novel outdoor environments. Early structured socialization develops an outgoing, stable adult that is friendly with strangers and poised in public."
+        "Provide steady, positive puppyhood exposure to unfamiliar people, well-mannered dogs, household sounds, vehicles, and varied outdoor surfaces so the dog matures into a confident, balanced adult."
     },
 
     livingEnvironment: {
@@ -245,81 +240,77 @@ export const montenegrin_mountain_hound: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool mountain climates, where the dense double coat provides excellent thermal insulation",
-        "Warm climates, provided indoor shade, cool shelter, and fresh water are available and exercise is scheduled during cooler hours"
+        "Cool mountain climates, where the dense double coat and undercoat provide solid weather protection",
+        "Warm climates, provided shade, fresh water, indoor cooling, and cooler-hour exercise scheduling are maintained"
       ],
 
       aloneTimeTolerance:
-        "Moderate when provided with sufficient physical exercise and comfortable surroundings, though prolonged isolation can provoke boredom baying or digging."
+        "Moderate when well exercised, though long stretches of isolation without stimulation can trigger baying or restless digging."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized active working or hound breeds, adjusted for age, activity level, and metabolic rate.",
+      "Complete and balanced commercial dog food formulated for active medium-sized working breeds, scaled to age and daily workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals daily until around six months of age, then transitioning to two measured meals per day.",
       adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
+        "Two measured meals per day to sustain steady energy and digestive comfort.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower calorie burn while maintaining lean muscle."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body condition where the ribs are easily felt. Scenthounds possess robust appetites and will readily overeat if allowed free access to food. Divide daily food into two distinct meals, restrict vigorous running immediately before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Weigh or measure every meal rather than free-feeding so the dog stays lean and athletic with easily felt ribs. Splitting the daily ration into two meals and resting quietly before and after eating helps lower digestive stress in deep-chested hounds. Keep clean drinking water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on hips and stifles.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water, especially during warm-weather exercise.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep weight lean to protect joints during steep or active outdoor exercise.",
+      "Count training treats within the daily calorie budget.",
+      "Allow quiet rest around mealtimes as a precaution against bloat.",
+      "Avoid fatty table scraps and transition between diets gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly based on outdoor temperature, tracking activity, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Daily calorie needs rise considerably during active hunting or hiking seasons. Consult a veterinarian to tailor daily portions."
   },
 
   health: {
     overview:
-      "The Montenegrin Mountain Hound is a robust, hardy, and resilient scenthound with a typical life expectancy of 12 to 14 years. Having evolved through generations of practical field hunting across demanding Balkan mountain terrain, it enjoys strong overall constitutional vitality and has avoided artificial conformational exaggerations. Primary health considerations focus on orthopedic screening for hip and elbow dysplasia, routine ear care for drop ears prone to otitis externa, monitoring for bloat in deep-chested individuals, and managing field-related trauma.",
+      "The Montenegrin Mountain Hound is a hardy, unexaggerated working scenthound with a typical lifespan of 11 to 14 years. Because few large-scale epidemiological studies exist for this rare Balkan breed, preventive health focuses on general medium-sized scenthound priorities: orthopedic joint screening, eyelid and ophthalmic checks, weekly drop-ear hygiene, bloat-aware feeding routines, and paw inspection after rocky trail work.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental joint abnormalities causing forelimb lameness and secondary arthritis",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by drop ears that restrict ventilation and trap moisture in the canal",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in deep-chested hounds, requiring emergency veterinary care",
-      "Eye conditions — occasional reports of cataracts or eyelid anomalies (ectropion), monitored through certified veterinary ophthalmologist examinations",
-      "Traumatic outdoor injuries — minor cuts, punctures, pad lacerations, or ear tears sustained while navigating sharp karst limestone rocks and dense briars"
+      "Eyelid conformation issues (ectropion or entropion) — rolling outward or inward of the eyelids is actively selected against in breeding stock and checked during veterinary eye exams",
+      "Otitis externa (outer ear infections) — a general conformational risk in drop-eared hounds when moisture or debris becomes trapped under the ear flap",
+      "Hip dysplasia — a potential developmental joint concern shared across medium-sized working breeds, monitored through pre-breeding radiographic screening",
+      "Gastric dilatation-volvulus (GDV / bloat) — a serious emergency risk in deep-chested breeds, mitigated through divided meals and post-meal rest",
+      "Field and terrain injuries — paw pad abrasions, minor cuts, or thorn punctures from working across rough stone and dense brush"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip and elbow clearances, alongside current specialist eye examinations.",
-      "Inspect and thoroughly dry the drop ears weekly, wiping canals with an approved veterinary ear wash.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Confirm breeding parents have completed radiographic hip screening and veterinary eye checks for eyelid and ocular health.",
+      "Inspect and dry the hanging ears weekly, cleaning gently with a veterinarian-approved solution when needed.",
+      "Maintain a lean, athletic weight to minimize long-term joint wear.",
+      "Feed two measured meals daily and avoid strenuous running right before or after eating.",
+      "Keep year-round parasite protection against ticks, fleas, and heartworm up to date, especially after woodland outings.",
+      "Schedule annual veterinary wellness exams and core vaccinations."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Clinical cardiovascular auscultation by a veterinarian"
+      "Radiographic hip dysplasia evaluation prior to breeding",
+      "Veterinary ophthalmic and eyelid examination (checking for entropion, ectropion, and inherited eye conditions)",
+      "Routine annual veterinary wellness and cardiovascular checkups"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong, wide jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine enzymatic toothpaste and pair home care with routine veterinary oral exams to keep gums and teeth sound.",
 
     earCare:
-      "Inspect the flat drop ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Lift and inspect the high-set drop ears weekly for odour, wax, redness, or dampness after wet walks, wiping gently with a veterinarian-recommended cleanser.",
 
     skinCare:
-      "Part the dense short coat weekly during brushing to inspect the skin for external parasites, redness, or scratches. Check ear margins and undercarriage after mountain runs for ticks and cuts."
+      "Brush through the dense short coat weekly to check the elastic, dark-pigmented skin for ticks, scrapes, or irritation, paying close attention to the legs and belly after rough terrain walks."
   },
 
   suitability: {
@@ -330,169 +321,179 @@ export const montenegrin_mountain_hound: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, trail runners, and hikers who enjoy year-round wilderness exploration",
-      "Hunters and sportsmen seeking a tenacious, cold-nosed tracking partner for hare, fox, or wild boar",
-      "Experienced hound owners who understand scent drive, baying voice, and positive leadership",
-      "Homes with a large, securely fenced yard of at least five to six feet in height in rural or suburban settings",
-      "Enthusiasts of tracking, blood tracking, and scentwork dog sports"
+      "Active outdoor households, hikers, and runners who spend generous time outdoors year-round",
+      "Hunters and scent-sport enthusiasts seeking a dedicated, sure-footed tracking hound",
+      "Rural or suburban homes with a tall, securely fenced yard",
+      "Experienced owners comfortable managing strong scent drive and vocal baying with positive training"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for high physical endurance and independent scenting drive",
-      "Apartment or condominium dwellers where ringing hound baying may disturb neighbors",
-      "Households with loose small pets or rabbits vulnerable to hound prey drive",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People seeking an aggressive guard dog"
+      "First-time dog owners unprepared for high endurance and independent scenting instincts",
+      "Apartment or dense urban living where carrying hound bays may disturb neighbours",
+      "Households with free-roaming pet rabbits or other small prey animals",
+      "Sedentary homes or schedules that leave the dog isolated for long workdays"
     ]
   },
 
   funFacts: [
-    "In its native Montenegro, the breed has historically been celebrated by the popular nickname 'Planinac' (mountain dweller), reflecting its peerless ability to navigate slippery, razor-sharp karst limestone cliffs without missing a step.",
-    "The breed was previously standardized under the name 'Yugoslavian Mountain Hound' (Jugoslovenski planinski gonič) in 1969; following the political dissolution of Yugoslavia, international authorities officially recognized Montenegro as the country of origin in 2010 and updated its official name to the Montenegrin Mountain Hound.",
-    "Like several other ancient Balkan scenthounds, the Montenegrin Mountain Hound belongs to the 'four-eyed' group of dogs (locally called 'četvorooki'), named after the distinctive round tan markings positioned directly above each eye, which folklore claimed gave the dog the ability to detect predators in darkness.",
-    "Historical canine geneticists believe the breed is directly descended from ancient Phoenician and Celtic hounds brought to the Adriatic coast in antiquity, crossed with native Illyrian hunting dogs.",
-    "Unlike modern field trial dogs that range far ahead of hunters, the Montenegrin Mountain Hound works at a deliberate, measured pace and uses a high-pitched, ringing voice that carries for kilometers through mountainous karst ravines.",
-    "In the Montenegrin highlands, local huntsmen maintain a saying: 'A house without a mountain hound is a house without a soul', honoring the dog's dual role as an unyielding hunter by day and an affectionate hearth companion by night."
+    "In earlier generations, this breed was commonly called the 'Black Hound' ('Crni gonič') because of its jet-black coat accented only by small tan points.",
+    "Its tan eyebrow spots are described as hazelnut-sized, giving the hound the classic 'four-eyed' look shared by several traditional Balkan mountain hounds.",
+    "The first written description of the breed dates back to 1924, and for decades it was known internationally as the Yugoslavian Mountain Hound before taking Montenegro's name.",
+    "Unlike many upright-tailed hounds, a classic Montenegrin Mountain Hound carries its sabre-shaped tail below the level of its back.",
+    "Its chest girth and body length both measure roughly 10 percent more than its height at the withers, giving it a compact, rectangular frame suited to steep mountain ground."
   ],
 
   faq: [
     {
       question: "What is a Montenegrin Mountain Hound?",
       answer:
-        "The Montenegrin Mountain Hound (Crnogorski planinski gonič) is a medium-sized, athletic Balkan scenthound native to Montenegro, known for its glossy black coat with tan markings, melodious baying voice, and agile tracking endurance across rocky mountain terrain."
+        "The Montenegrin Mountain Hound (Crnogorski planinski gonič) is a medium-sized, athletic scenthound from Montenegro known for its glossy black-and-tan coat, steady mountain stamina, and loyal, calm nature at home."
     },
     {
-      question: "What was the Montenegrin Mountain Hound previously called?",
+      question: "What was the Montenegrin Mountain Hound called in the past?",
       answer:
-        "The breed was originally known and registered internationally as the Yugoslavian Mountain Hound (Jugoslovenski planinski gonič) before its official naming was updated to reflect Montenegro as its country of origin."
+        "Historically it was often called the 'Black Hound' ('Crni gonič'), and internationally it was previously known as the Yugoslavian Mountain Hound (Jugoslovenski planinski gonič)."
     },
     {
       question: "How tall and heavy is a Montenegrin Mountain Hound?",
       answer:
-        "Adult males stand 45 to 55 cm at the withers (ideal 51 to 52 cm) and adult females stand 44 to 54 cm (ideal 48 to 49 cm), with both sexes weighing between 20 and 25 kg in lean, muscular working condition."
+        "Both males and females stand 44 to 54 cm at the withers (ideally 49 to 50 cm for males and 48 to 49 cm for females), with males weighing around 20 to 25 kg and females around 18 to 23 kg."
     },
     {
       question: "How long does a Montenegrin Mountain Hound live?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
+        "With good nutrition, regular exercise, and routine veterinary care, the breed typically lives 11 to 14 years."
     },
     {
-      question: "Do Montenegrin Mountain Hounds shed a lot, and how are they groomed?",
+      question: "How much grooming does a Montenegrin Mountain Hound need?",
       answer:
-        "They shed moderately year-round. Their short, dense coat is low-maintenance, requiring only a weekly brushing with a rubber curry comb or bristle brush, regular ear inspections, and occasional nail trimming."
+        "Grooming is low-maintenance. Brush the short, dense double coat once a week (more during seasonal sheds), check the drop ears weekly, trim nails regularly, and brush teeth several times a week."
     },
     {
       question: "Can a Montenegrin Mountain Hound live in an apartment?",
       answer:
-        "No. Due to their high exercise requirements, working stamina, and loud baying voice, they are not suited to apartment living and thrive best in a house with a securely fenced yard in rural or semi-rural settings."
+        "Generally no. High daily exercise needs, strong tracking drive, and a carrying hound voice make it far better suited to a house with a securely fenced yard."
     },
     {
-      question: "Are Montenegrin Mountain Hounds good family pets and good with children?",
+      question: "Is the Montenegrin Mountain Hound good with families and children?",
       answer:
-        "Yes, with active families. In the home, they are remarkably gentle, affectionate, and calm with family members and patient with children; however, they require sufficient exercise outdoors to maintain their quiet indoor demeanor."
+        "Yes, in active households. It is calm, docile, and devoted to its family at home, though it needs consistent daily exercise outdoors and supervision around small household pets."
     },
     {
-      question: "Is the Montenegrin Mountain Hound easy to train?",
+      question: "How easy is it to train a Montenegrin Mountain Hound?",
       answer:
-        "They are intelligent, docile, and deeply attached to their handler, but have an independent scenthound nature. Once they catch an interesting scent, they can be single-minded, so training requires patience, food rewards, and consistent positive reinforcement."
+        "It is intelligent, loyal, and responsive to positive reinforcement, but strong scent instincts mean off-leash recall can be challenging outdoors without careful long-line training and secure fencing."
     },
     {
-      question: "Why does the breed have tan spots above its eyes?",
+      question: "Why does the Montenegrin Mountain Hound have tan spots above its eyes?",
       answer:
-        "The tan spots above the eyes are a traditional hallmark of ancient Balkan hounds, earning them the nickname 'four-eyed' dogs in local folklore."
+        "The hazelnut-sized tan markings over the eyes—alongside tan points on the muzzle and lower legs—are a signature coat pattern of this breed and several related Balkan scenthounds."
     },
     {
-      question: "What health tests are recommended for breeding dogs?",
+      question: "What health screenings are recommended for breeding Montenegrin Mountain Hounds?",
       answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, along with certified veterinary ophthalmologist eye exams."
+        "Recommended pre-breeding checks include radiographic hip evaluation and a veterinary ophthalmic exam checking eyelid conformation and eye health, paired with routine wellness care."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-montenegrin-mountain-hound-official-standard",
     "fci-montenegrin-mountain-hound-nomenclature",
     "kscg-crnogorski-planinski-gonic-breed-standard",
     "ukc-montenegrin-mountain-hound-breed-standard",
-    "wikimedia-crnogorski-planinski-gonic-pleple2000",
-    "wikimedia-crnogorski-planinski-gonic-600-tomasz-sienicki"
+    "wikimedia-montenegronak-canarian",
+    "wikimedia-montenegrin-mountain-hound-2-canarian",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Scientific Name: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Verified standard domestic-dog trinomial taxonomy across the catalog."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "verified",
-          locator: "Standard heading: CRNOGORSKI PLANINSKI GONIČ (Montenegrin Mountain Hound)"
-        },
-        {
           id: "fci-montenegrin-mountain-hound-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: MONTENEGRIN MOUNTAIN HOUND (279), Chien de montagne du Monténégro, Montenegrinischer Gebirgslaufhund, Sabueso de montaña de Montenegro"
+          locator: "Official nomenclature: CRNOGORSKI PLANINSKI GONIC (279), Montenegrin Mountain Hound, Chien courant de montagne du Monténégro, Montenegrinischer Gebirgslaufhund, Sabueso de montaña del Montenegro"
         },
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "Službeni naziv pasmine: Crnogorski planinski gonič (Planinac, Jugoslovenski planinski gonič)"
+          locator: "Kratak istorijat: Crnogorski Planinski Gonič, formerly called 'crni gonič' (Black Hound)"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "alternateNames: Crnogorski planinski gonič; history mentions 'black hound'"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified across FCI Standard No. 279, FCI Nomenclature, KSCG, and UKC."
+      verifiedOn: "2026-11-21",
+      note: "Updated French and Spanish names to match exact official FCI nomenclature."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial"
-        },
-        {
           id: "fci-montenegrin-mountain-hound-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial"
+          locator: "Group 6 Scent hounds and related breeds; Section: Scent hounds; Subsection: Medium-sized Hounds; Subject to a working trial"
+        },
+        {
+          id: "kscg-crnogorski-planinski-gonic-breed-standard",
+          role: "verified",
+          locator: "Klasifikacija FCI: Grupa 6, Sekcija 1.2 Goniči srednjeg rasta sa radnim ispitom"
         },
         {
           id: "ukc-montenegrin-mountain-hound-breed-standard",
-          role: "verified",
+          role: "cited",
           locator: "Scenthound Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "group: Hound"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group omits kennel-club names and numeric section labels per Rule 5."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Montenegro; BRIEF HISTORICAL SUMMARY"
-        },
-        {
           id: "fci-montenegrin-mountain-hound-nomenclature",
           role: "verified",
-          locator: "Country of origin: Montenegro"
+          locator: "Country of origin of the breed: MONTENEGRO; definitive acceptance 1969-06-24"
         },
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "Porijeklo: Crna Gora (planinski i krški predjeli)"
+          locator: "Porijeklo: Crna Gora; first standard 1924; Warsaw recognition 1969-05-08"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "origin.country: Montenegro"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -500,131 +501,116 @@ export const montenegrin_mountain_hound: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "Istorijat, standard 1924, priznanje 1969, promjena imena 2010, lovne osobine"
+          locator: "Kratak istorijat, Opšti izgled, Važne proporcije, Ponašanje/Karakter"
         },
         {
-          id: "ukc-montenegrin-mountain-hound-breed-standard",
+          id: "fci-montenegrin-mountain-hound-official-standard",
           role: "verified",
-          locator: "History, General Appearance, and Temperament"
+          locator: "FCI Standard No. 279 (valid 2014-12-19; English PDF 2015-01-28)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "description and history (Balkan mountain scenthound, 1924 standard, hare/fox hunting)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Synthesized in original prose from FCI Standard No. 279, KSCG, and UKC official records."
+        "Rewritten in original prose directly grounded in the official KSCG standard and FCI Standard No. 279."
     },
 
     physical: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
-        },
-        {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "Morfologija, proporcije (pravougaoni format), dlaka, boja i oznake"
+          locator: "Važne proporcije (+10% body length & chest girth, head 45%), Glava (dolikocefalna, 7.5:10 muzzle:skull, slight occiput), Vilice/Zubi (scissor or pincer), Oči (light to dark brown), Rep (sabre below topline), Dlaka, Boja (black with hazelnut tan eyebrow spots, chest white <=3 cm)"
         },
         {
-          id: "ukc-montenegrin-mountain-hound-breed-standard",
+          id: "fci-montenegrin-mountain-hound-official-standard",
           role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
+          locator: "FCI Standard No. 279 conformation, coat, and colour specifications"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "coatColors lists 17 generic canine colours; only official black with tan markings (and tolerated <=3 cm white chest spot) were retained"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Conformation, rectangular build, black and tan coloration with eyebrow spots, drop ears, and distinctive features follow official standards."
+        "Corrected occiput (less pronounced, not marked), eye colour range (light to dark brown), permitted pincer bite, tail carriage below topline, and <=3 cm white chest patch limit per official KSCG standard."
     },
 
     "physical.height": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Males: 45 to 55 cm, ideal height 51-52 cm. Females: 44 to 54 cm, ideal height 48-49 cm."
-        },
-        {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "Visina u grebenu: Mužjaci 45-55 cm (idealno 51-52 cm); Ženke 44-54 cm (idealno 48-49 cm)"
+          locator: "VISINA: Visina grebena je 44–54 cm. Idealno za mužjaka je 49–50, a za ženku 48–49 cm."
         },
         {
-          id: "ukc-montenegrin-mountain-hound-breed-standard",
+          id: "fci-montenegrin-mountain-hound-official-standard",
           role: "verified",
-          locator: "Height: Males: 17.5 to 21.5 inches (45-55 cm); Females: 17 to 21 inches (44-54 cm)"
+          locator: "Height at withers: 44–54 cm (ideal males 49–50 cm, females 48–49 cm)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height: male 46–56 cm, female 43–53 cm (disagrees with official 44–54 cm standard)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Preserved in published unit of centimetres (45–55 cm for males, ideal 51–52 cm; 44–54 cm for females, ideal 48–49 cm) exactly as specified in the official FCI Standard No. 279 and KSCG standard."
+        "Corrected draft height (45–55 cm males) and overrode The Dog API (46–56 / 43–53 cm) with the exact published 44–54 cm range (ideal males 49–50 cm, females 48–49 cm) from the official KSCG/FCI Standard No. 279."
     },
 
     "physical.weight": {
-      reliability: "official_standard",
+      reliability: "reliable_source",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Weight: 20 to 25 kg."
+          locator: "weight: male 20–25 kg, female 18–23 kg"
         },
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
-          role: "verified",
-          locator: "Težina: Mužjaci i ženke: 20 do 25 kg"
-        },
-        {
-          id: "ukc-montenegrin-mountain-hound-breed-standard",
-          role: "verified",
-          locator: "Weight: 44 to 55 pounds (approx. 20-25 kg)"
+          role: "cited",
+          locator: "Official KSCG standard specifies height without prescribing a numerical weight"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Preserved in published unit of kilograms (20 to 25 kg for both males and females) exactly as specified in FCI Standard No. 279 and KSCG standard."
+        "The official KSCG standard does not specify a numerical weight; stored The Dog API's published metric weight ranges (20–25 kg males, 18–23 kg females)."
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "kscg-crnogorski-planinski-gonic-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Zdravlje, radna dugovječnost i vitalnost (12-14 godina)"
-        },
-        {
-          id: "ukc-montenegrin-mountain-hound-breed-standard",
-          role: "verified",
-          locator: "Breed profile and longevity actuarial estimate (12-14 years)"
+          locator: "lifespanYears: 11–14"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Supported by kennel club and working hound breed actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: "Updated to 11–14 years from The Dog API; the official KSCG standard does not publish a lifespan."
     },
 
     "physical.sheddingLevel": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
+          id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "COAT: Short, dense, rough, not very thick, with undercoat"
-        },
-        {
-          id: "ukc-montenegrin-mountain-hound-breed-standard",
-          role: "verified",
-          locator: "Coat texture and maintenance"
+          locator: "DLAKA: Kratka, gusta, oštra, sjajna, dobro polegla; podlaka prilično dobro razvijena"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -632,40 +618,30 @@ export const montenegrin_mountain_hound: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "verified",
-          locator: "Lips: Thin, tight fitting, edges black"
-        },
-        {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "Usne: Tanke, pripijene, crnih rubova"
+          locator: "USNE: Srednje razvijene, napete, ugao usana zatvoren, rub crno pigmentisan"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Thin, tightly fitting lips prevent drooling."
+      verifiedOn: "2026-11-21",
+      note: "Tight-fitting lips with closed corners result in low drooling."
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Well balanced, attached to master, docile, trustworthy; tenacious hunter with high-pitched ringing voice"
-        },
-        {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "Temperament: Miran, privržen, pouzdan, uporan i glasan u gonjenju"
+          locator: "PONAŠANJE/KARAKTER: Uravnotežen, privržen svom vlasniku, poslušan, vrijedan povjerenja; shyness or aggressiveness disqualifying"
         },
         {
-          id: "ukc-montenegrin-mountain-hound-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Temperament: Docile, calm, devoted, persistent tracking drive"
+          locator: "temperament.traits: Alert, loyal, energetic, docile, intelligent, devoted"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -675,17 +651,17 @@ export const montenegrin_mountain_hound: Breed = {
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Karakter i ponašanje u lovu i porodici"
+          locator: "Temperament and working scenthound characteristics"
         },
         {
-          id: "ukc-montenegrin-mountain-hound-breed-standard",
+          id: "the-dog-api",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Temperament traits"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented Balkan scenthound temperament, working drive, and family attachment."
+        "Editorial 1–5 scores synthesized from documented working scenthound traits."
     },
 
     care: {
@@ -694,34 +670,29 @@ export const montenegrin_mountain_hound: Breed = {
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Održavanje, radni uvjeti i njega krškog goniča"
-        },
-        {
-          id: "ukc-montenegrin-mountain-hound-breed-standard",
-          role: "cited",
-          locator: "Care, grooming, and exercise recommendations"
+          locator: "Working mountain scenthound coat, drop-ear anatomy, and active trot"
         }
       ],
       verifiedOn: null,
       note:
-        "Combines active mountain scenthound management with drop-ear care and limestone pad protection protocols."
+        "General care guidance adapted to a short-coated, drop-eared working mountain scenthound."
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Scenthound with great endurance for difficult terrain"
-        },
-        {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "Radna izdržljivost i potreba za kretanjem"
+          locator: "Upotreba: Pas gonič; Opšti izgled: izdržljiv, pokretljiv"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "Energetic mountain hunting hound prized for stamina"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -731,12 +702,12 @@ export const montenegrin_mountain_hound: Breed = {
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Dnevna aktivnost i lovni treninzi"
+          locator: "Endurance working scenthound build and utilization"
         }
       ],
       verifiedOn: null,
       note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic mountain tracking hound."
+        "Editorial estimate of 60 to 90 minutes daily reflecting working scenthound endurance."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -745,42 +716,37 @@ export const montenegrin_mountain_hound: Breed = {
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Preporučeni smještaj: kuća s dvorištem, nepogodan za stan"
+          locator: "Working mountain scenthound exercise and vocal traits"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial evaluation that high physical energy, tracking drive, and ringing baying voice make apartment living generally unsuitable."
+        "Editorial assessment that high endurance, scent drive, and baying voice make apartments unsuitable."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
-          role: "verified",
-          locator: "Držanje u dvorištu s visokom ogradom"
+          role: "cited",
+          locator: "Active outdoor hunting hound profile"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: null
+      verifiedOn: null,
+      note: "A securely fenced yard is strongly recommended for a scent-driven hound."
     },
 
     "care.livingEnvironment.climates": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "verified",
-          locator: "COAT: Dense double coat with undercoat adapted to Balkan mountains"
-        },
-        {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "Prilagođenost planinskoj klimi i ljetnim krškim vrućinama"
+          locator: "DLAKA: Dense, flat-lying coat with fairly well-developed undercoat"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -790,7 +756,7 @@ export const montenegrin_mountain_hound: Breed = {
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Ponašanje kada ostaje sam"
+          locator: "Owner-attached, active scenthound profile"
         }
       ],
       verifiedOn: null,
@@ -803,12 +769,12 @@ export const montenegrin_mountain_hound: Breed = {
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Ishrana radnih lovačkih pasa"
+          locator: "Medium-sized working hound build"
         }
       ],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for active medium working hounds."
+        "Standard nutritional guidance for active medium-sized working scenthounds."
     },
 
     "nutrition.feedingFrequency": {
@@ -817,39 +783,44 @@ export const montenegrin_mountain_hound: Breed = {
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Režim hranjenja prema dobi"
+          locator: "Standard canine life-stage feeding"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard canine life-stage meal schedule."
     },
 
     "health.overview": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
-          role: "verified",
-          locator: "Zdravlje, konstitucija, displazija i preventiva"
+          role: "cited",
+          locator: "Disqualifying faults note ectropion and entropion; functional unexaggerated build"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "Lifespan 11–14 years"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: null,
       note:
-        "Synthesizes national kennel club veterinary health data and working hound health priorities."
+        "Few breed-specific veterinary prevalence studies exist; framed honestly around KSCG eyelid selection criteria and general medium-sized scenthound health precautions."
     },
 
     "health.commonConditions": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
-          role: "verified",
-          locator: "Displazija kukova, upale uha (otitis), torzija želuca, povrede krša"
+          role: "cited",
+          locator: "Eliminacione greške: Ektropijum, entropijum; drop-ear and deep-chest anatomy"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: null,
       note:
-        "Details documented conformational and environmental conditions in original prose without prohibited registry terms."
+        "Distinguishes eyelid faults noted in the KSCG standard from general drop-ear, deep-chested, and working-terrain risks without overstating breed-specific prevalence."
     },
 
     "health.preventiveCare": {
@@ -858,69 +829,63 @@ export const montenegrin_mountain_hound: Breed = {
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Preventivna njega, higijena ušiju i pregled šapa"
+          locator: "Drop-ear and working hound preventive care"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to active mountain scenthounds."
+      note: "Standard preventive care for active medium-sized scenthounds."
     },
 
     "health.recommendedScreenings": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
-          role: "verified",
-          locator: "Uzgojni pregledi: Radiografsko snimanje kukova i pregled očiju"
+          role: "cited",
+          locator: "Eyelid/eye fault screening and standard working hound orthopedic checks"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Screenings summarize published national kennel club breeding guidelines."
+      verifiedOn: null,
+      note: "General prudent pre-breeding screening for medium-sized working scenthounds."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
+          id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Jaws/teeth: complete scissor bite with sound teeth"
+          locator: "Vilice/Zubi: Complete regular scissor bite (pincer bite permitted)"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "cited",
-          locator: "Ears: set high, medium length, hanging close to cheeks"
-        },
-        {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Održavanje visećih ušiju"
+          locator: "Uši: High-set, medium length, always hanging flat against cheeks"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
+          id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Skin: elastic, tightly fitting all over body"
+          locator: "Koža: Elastic, tightly fitting, dark-pigmented"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -929,17 +894,17 @@ export const montenegrin_mountain_hound: Breed = {
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "cited",
-          locator: "Aptitudi za lovce i aktivne vlasnike"
+          locator: "Working mountain scenthound characteristics"
         },
         {
-          id: "ukc-montenegrin-mountain-hound-breed-standard",
+          id: "the-dog-api",
           role: "cited",
-          locator: "Breed suitability and lifestyle requirements"
+          locator: "Energetic hunting hound temperament"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and hound voice characteristics."
+        "Editorial suitability ratings based on endurance, tracking drive, and vocal baying."
     },
 
     funFacts: {
@@ -948,42 +913,37 @@ export const montenegrin_mountain_hound: Breed = {
         {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "Nadimak Planinac, četvorooki gonič, 1969 jugoslovenski standard, 2010 priznanje Crne Gore"
+          locator: "Former 'crni gonič' name, 1924 first standard, hazelnut-sized tan eyebrow spots, sabre tail carried below topline, +10% body/chest proportion"
         },
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
+          id: "fci-montenegrin-mountain-hound-nomenclature",
           role: "verified",
-          locator: "Brief historical summary: Ancient Balkan hound origins"
+          locator: "FCI No. 279 recognition and Montenegro country of origin"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-21",
+      note: "Replaced unverified Phoenician/Celtic folklore claims with verified standard and historical facts."
     },
 
     faq: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-montenegrin-mountain-hound-official-standard",
-          role: "verified",
-          locator: "Origin, size (45-55 cm / 44-54 cm), weight (20-25 kg), coat, and colors"
-        },
-        {
           id: "kscg-crnogorski-planinski-gonic-breed-standard",
           role: "verified",
-          locator: "History of name change, four-eyed markings, lifespan (12-14 years), and training"
+          locator: "Height (44–54 cm; ideal 49–50 / 48–49 cm), coat, colour, former 'crni gonič' name, temperament"
         },
         {
-          id: "ukc-montenegrin-mountain-hound-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Apartment living, family suitability, and health screenings"
+          locator: "Weight (20–25 kg males, 18–23 kg females) and lifespan (11–14 years)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and parent club data without naming registries in prose."
+        "Original FAQ answers aligned to verified KSCG/FCI Standard No. 279 and The Dog API without Rule 5 registry names."
     }
   },
 
-  updatedOn: "2026-11-11"
+  updatedOn: "2026-11-21"
 };

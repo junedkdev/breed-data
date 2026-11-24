@@ -243,6 +243,9 @@ import { serbian_hound } from "./serbian_hound";
 import { styrian_coarse_haired_hound } from "./styrian_coarse_haired_hound";
 import { keeshond } from "./keeshond";
 import { east_siberian_laika } from "./east_siberian_laika";
+import { basset_artesien_normand } from "./basset_artesien_normand";
+import { irish_wolfhound } from "./irish_wolfhound";
+import { burgos_pointer } from "./burgos_pointer";
 
 
 export const breedData: readonly Breed[] = [
@@ -485,4 +488,7 @@ export const breedData: readonly Breed[] = [
   styrian_coarse_haired_hound,
   keeshond,
   east_siberian_laika,
+  basset_artesien_normand,
+  irish_wolfhound,
+  burgos_pointer,
 ];

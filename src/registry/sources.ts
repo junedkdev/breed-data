@@ -12192,13 +12192,13 @@ export const sources = defineSources({
   },
 "club-du-beagle-harrier-et-harrier-profile": {
     id: "club-du-beagle-harrier-et-harrier-profile",
-    title: "Le Harrier — Club Français du Beagle, Beagle-Harrier et Harrier",
+    name: "Club Français du Beagle, Beagle-Harrier et Harrier - Le Harrier",
     publisher: "Club Français du Beagle, Beagle-Harrier et Harrier (SCC)",
-    type: "breed_club",
     url: "https://www.centrale-canine.fr/club-francais-du-beagle-beagle-harrier-harrier/articles/le-harrier",
+    type: "breed_club",
     publishedOn: "2018-07-15",
-    checkedOn: "2026-11-21",
-    notes: "Updated from dead club-beagle.com URL to official SCC parent club article."
+    accessedOn: "2026-11-21",
+    note: "Official French parent breed club article on SCC documenting the Harrier, replacing dead club-beagle.com URL."
   },
   "ukc-beagle-harrier-standard": {
     id: "ukc-beagle-harrier-standard",
@@ -15268,33 +15268,33 @@ export const sources = defineSources({
   },
 "fci-harrier-official-standard": {
     id: "fci-harrier-official-standard",
-    title: "FCI-Standard N° 295 — Harrier",
-    publisher: "Fédération Cynologique Internationale (FCI)",
-    type: "official_standard",
+    name: "FCI - Harrier Official Breed Standard No. 295",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/295g06-en.pdf",
+    type: "official_breed_standard",
     publishedOn: "2026-09-08",
-    checkedOn: "2026-11-21",
-    notes: "Official valid standard date 2026-09-08 (English PDF published 2026-10-06); definitive FCI acceptance 1974-11-27."
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 295 (official valid standard date 2026-09-08; English PDF published 2026-10-06; definitive acceptance 1974-11-27)."
   },
 "fci-harrier-nomenclature": {
     id: "fci-harrier-nomenclature",
-    title: "FCI Breeds Nomenclature — Harrier (295)",
-    publisher: "Fédération Cynologique Internationale (FCI)",
-    type: "official_standard",
+    name: "FCI - Harrier Breed Nomenclature (No. 295)",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/en/nomenclature/Harrier-295.html",
-    publishedOn: null,
-    checkedOn: "2026-11-21",
-    notes: "Group 6, Section 1.2 Medium-sized Hounds; Great Britain; definitive acceptance 1974-11-27; subject to a working trial."
+    type: "official_breed_standard",
+    publishedOn: "1974-11-27",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 6 Section 1.2 Medium-sized Hounds with working trial, definitive recognition 1974-11-27, and official valid standard date 2026-09-08."
   },
 "the-kennel-club-harrier-breed-standard": {
     id: "the-kennel-club-harrier-breed-standard",
-    title: "Harrier — Breed Standard",
+    name: "The Royal Kennel Club - Harrier Breed Standard",
     publisher: "The Royal Kennel Club",
-    type: "official_standard",
     url: "https://www.royalkennelclub.com/breed-standards/hound/harrier/",
+    type: "official_breed_standard",
     publishedOn: "2025-08-01",
-    checkedOn: "2026-11-21",
-    notes: "Migrated from [invalid URL] to royalkennelclub.com; ideal height dogs 53 cm, bitches 48 cm (2.5 cm smaller tolerance)."
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed standard (Hound Group); ideal height dogs 53 cm, bitches 48 cm (2.5 cm smaller tolerance), short dense weatherproof coat, recognised hound colours."
   },
   "akc-harrier-breed-standard": {
     id: "akc-harrier-breed-standard",
@@ -15338,53 +15338,43 @@ export const sources = defineSources({
   },
 "ofa-harrier-health-screenings": {
     id: "ofa-harrier-health-screenings",
-    title: "OFA CHIC Browse By Breed — Harrier (HAR)",
+    name: "OFA CHIC Browse By Breed - Harrier (HAR)",
     publisher: "Orthopedic Foundation for Animals (OFA)",
-    type: "health_registry",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=HAR",
+    type: "veterinary",
     publishedOn: null,
-    checkedOn: "2026-11-21",
-    notes: "Updated to live /chic-programs/browse-by-breed/ path."
+    accessedOn: "2026-11-21",
+    note: "Updated to live /chic-programs/browse-by-breed/ path for Harrier health screening records."
   },
 "wikimedia-harrier-tricolour-lilly-m": {
     id: "wikimedia-harrier-tricolour-lilly-m",
-    title: "Wikimedia Commons — File:Harrier tricolour.jpg",
-    publisher: "Wikimedia Commons / Smcmilla",
-    type: "image_host",
+    name: "Wikimedia Commons - File:Harrier tricolour.jpg",
+    publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Harrier_tricolour.jpg",
-    publishedOn: "2007-03-09",
-    checkedOn: "2026-11-21",
-    notes: "Preserved existing source ID; corrected metadata to Public Domain, author Smcmilla (edited by Pharaoh Hound), 540 x 500."
-  },
-  "wikimedia-harrier-600-tomasz-sienicki": {
-    id: "wikimedia-harrier-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Harrier 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Harrier_600.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-11",
-    note: "Photograph (600 x 489 px) of a Harrier standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2007-03-09",
+    accessedOn: "2026-11-21",
+    note: "Preserved existing source ID; corrected metadata to Public Domain, author Smcmilla (edited by Pharaoh Hound), 540 x 500 px."
   },
-  "fci-peruvian-hairless-dog-official-standard": {
+"fci-peruvian-hairless-dog-official-standard": {
     id: "fci-peruvian-hairless-dog-official-standard",
     name: "FCI - Peruvian Hairless Dog (Perro sin pelo del Perú) Official Breed Standard No. 310",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/310g05-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2013-03-25",
-    accessedOn: "2026-11-11",
-    note: "Official English FCI Standard No. 310 (valid standard dated 2013-03-25). Covers Peruvian origin, Group 5 Spitz and primitive types, Section 6 Primitive type classification without working trial, three size categories (Small 25-40 cm, Medium 41-50 cm, Large 51-65 cm), weight ranges (4-8 kg, 8-12 kg, 12-30 kg), and recognition of both hairless and coated varieties.",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "2021-09-15",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 310 (valid standard dated 2021-09-15; English PDF published 2021-10-26). Covers three sizes (25-40 cm / 4-8 kg, 41-50 cm / 8-12 kg, 51-65 cm / 12-30 kg), hairless and coated varieties, skin temperature equality with coated dogs, >20% depigmentation limit, and merle disqualification."
   },
-  "fci-peruvian-hairless-dog-nomenclature": {
+"fci-peruvian-hairless-dog-nomenclature": {
     id: "fci-peruvian-hairless-dog-nomenclature",
     name: "FCI - Peruvian Hairless Dog Breed Nomenclature (No. 310)",
-    url: "https://www.fci.be/en/nomenclature/PERUVIAN-HAIRLESS-DOG-310.html",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/en/nomenclature/PERRO-SIN-PELO-DEL-PERU-310.html",
     type: "official_breed_standard",
-    publishedOn: "2013-03-25",
-    accessedOn: "2026-11-11",
-    note: "Official FCI breed nomenclature record confirming Peru as country of origin, Group 5 Section 6 classification without working trial, definitive recognition date (1987-06-12), and official multilingual names (Perro sin pelo del Perú, Chien nu du Pérou, Peruanischer Nackthund).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "1981-06-30",
+    accessedOn: "2026-11-21",
+    note: "Updated to live canonical FCI nomenclature URL. Confirms Peru as country of origin, Group 5 Section 6 Primitive type without working trial, definitive acceptance 1981-06-30, and valid standard 2021-09-15."
   },
   "kcp-perro-sin-pelo-del-peru-standard": {
     id: "kcp-perro-sin-pelo-del-peru-standard",
@@ -15436,25 +15426,15 @@ export const sources = defineSources({
     note: "Peer-reviewed scientific study (Drögemüller et al., Science 2008;321(5895):1462, PMID 18787161) demonstrating that an insertion in the FOXI3 gene on chromosome 17 causes canine ectodermal dysplasia, producing the hairless phenotype and missing premolars in Peruvian Hairless Dogs, Chinese Crested Dogs, and Xoloitzcuintli.",
     publisher: "Science / American Association for the Advancement of Science"
   },
-  "wikimedia-peruvian-hairless-dog-lilly-m": {
+"wikimedia-peruvian-hairless-dog-lilly-m": {
     id: "wikimedia-peruvian-hairless-dog-lilly-m",
     name: "Wikimedia Commons - File:Peruvian Hairless Dog.jpg",
+    publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Peruvian_Hairless_Dog.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-11",
-    note: "High-resolution photograph (1728 x 2304 px) of an adult hairless Peruvian Hairless Dog standing outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
-  },
-  "wikimedia-peruvian-hairless-dog-600-tomasz-sienicki": {
-    id: "wikimedia-peruvian-hairless-dog-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Peruvian Hairless Dog 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Peruvian_Hairless_Dog_600.jpg",
-    type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-11",
-    note: "Photograph (600 x 489 px) of a Peruvian Hairless Dog standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2012-03-20",
+    accessedOn: "2026-11-21",
+    note: "Preserved existing source ID; corrected metadata to author Hookery (Yuri Hooker), captured 2006-11-03 in Trujillo, Peru, uploaded 2012-03-20, 800 x 599 px, CC BY-SA 3.0."
   },
   "rsce-sabueso-espanol": {
     id: "rsce-sabueso-espanol",
@@ -15489,35 +15469,35 @@ export const sources = defineSources({
     accessedOn: "2026-11-11",
     note: "Parent breed club profile detailing history, grooming, exercise, trainability, and temperament.",
   },
-  "fci-montenegrin-mountain-hound-official-standard": {
+"fci-montenegrin-mountain-hound-official-standard": {
     id: "fci-montenegrin-mountain-hound-official-standard",
     name: "FCI - Montenegrin Mountain Hound (Crnogorski planinski gonič) Official Breed Standard No. 279",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/279g06-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2003-03-03",
-    accessedOn: "2026-11-11",
-    note: "Official English FCI Standard No. 279 (valid standard dated 2003-03-03). Covers Montenegrin origin, Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds classification with working trial, rectangular build, black coat with tan markings, four-eyed spots, withers height (males 45 to 55 cm, ideal 51-52 cm; females 44 to 54 cm, ideal 48-49 cm), and weight (20 to 25 kg).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "2014-12-19",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 279 (valid standard dated 2014-12-19; English PDF published 2015-01-28). Covers Montenegrin origin, Group 6 Section 1.2 Medium-sized Hounds with working trial, height 44-54 cm (ideal males 49-50 cm, females 48-49 cm), and black-and-tan coat."
   },
-  "fci-montenegrin-mountain-hound-nomenclature": {
+"fci-montenegrin-mountain-hound-nomenclature": {
     id: "fci-montenegrin-mountain-hound-nomenclature",
     name: "FCI - Montenegrin Mountain Hound Breed Nomenclature (No. 279)",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/en/nomenclature/MONTENEGRIN-MOUNTAIN-HOUND-279.html",
     type: "official_breed_standard",
-    publishedOn: "2003-03-03",
-    accessedOn: "2026-11-11",
-    note: "Official FCI breed nomenclature record confirming Montenegro as country of origin, Group 6 Section 1.2 classification with working trial, definitive recognition date (1969-04-15), and official multilingual names (Crnogorski planinski gonič, Chien de montagne du Monténégro, Montenegrinischer Gebirgslaufhund, Sabueso de montaña de Montenegro).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "1969-06-24",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Montenegro as country of origin, Group 6 Section 1.2 Medium-sized Hounds with working trial, definitive acceptance 1969-06-24, valid standard 2014-12-19, and official multilingual names."
   },
-  "kscg-crnogorski-planinski-gonic-breed-standard": {
+"kscg-crnogorski-planinski-gonic-breed-standard": {
     id: "kscg-crnogorski-planinski-gonic-breed-standard",
-    name: "Kinološki savez Crne Gore - Standard za Crnogorskog planinskog goniča",
-    url: "https://kscg.co.me/crnogorski-planinski-gonic/",
+    name: "Kinološki savez Crne Gore - Naša Rasa: Crnogorski Planinski Gonič",
+    publisher: "Kinološki savez Crne Gore",
+    url: "https://www.kscg.co.me/nasarasa/",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-11",
-    note: "Official Kennel Club of Montenegro (Kinološki savez Crne Gore / KSCG) breed standard and profile for Crnogorski planinski gonič (Planinac), documenting ancient karst hunting heritage, 1924 first standard, 1969 recognition, 2010 naming reaffirmation, height, weight, working traits, and health screening.",
-    publisher: "Kinološki savez Crne Gore"
+    accessedOn: "2026-11-21",
+    note: "Updated to live KSCG breed page. Full official standard for Crnogorski planinski gonič: 1924 first standard, 1969-05-08 Warsaw recognition, height 44-54 cm (ideal 49-50 / 48-49 cm), black with hazelnut tan eyebrow spots, sabre tail below topline, and disqualifying faults."
   },
   "ukc-montenegrin-mountain-hound-breed-standard": {
     id: "ukc-montenegrin-mountain-hound-breed-standard",
@@ -15528,26 +15508,6 @@ export const sources = defineSources({
     accessedOn: "2026-11-11",
     note: "Official UKC breed standard (Scenthound Group, recognized 2006) covering conformation, rectangular proportions, black and tan coloration, height (males 17.5 to 21.5 inches / 45-55 cm; females 17 to 21 inches / 44-54 cm), weight (44 to 55 lbs / 20-25 kg), and hunting behavior.",
     publisher: "United Kennel Club"
-  },
-  "wikimedia-crnogorski-planinski-gonic-pleple2000": {
-    id: "wikimedia-crnogorski-planinski-gonic-pleple2000",
-    name: "Wikimedia Commons - File:Crnogorski planinski gonic.JPG",
-    url: "https://commons.wikimedia.org/wiki/File:Crnogorski_planinski_gonic.JPG",
-    type: "other",
-    publishedOn: "2008-10-18",
-    accessedOn: "2026-11-11",
-    note: "High-resolution photograph (2400 x 1800 px) of an adult black and tan Montenegrin Mountain Hound standing in profile outdoors by Pleple2000 (captured 2008-10-05, uploaded 2008-10-18). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
-  },
-  "wikimedia-crnogorski-planinski-gonic-600-tomasz-sienicki": {
-    id: "wikimedia-crnogorski-planinski-gonic-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Crnogorski planinski gonic 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Crnogorski_planinski_gonic_600.jpg",
-    type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-11",
-    note: "Photograph of a Montenegrin Mountain Hound standing outdoors by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
   },
   "fci-halden-hound-official-standard": {
     id: "fci-halden-hound-official-standard",
@@ -21967,25 +21927,375 @@ export const sources = defineSources({
     note: "High-resolution photograph (2592 x 1952 px) of an adult East Siberian Laika outdoors by Mirtu (EXIF capture date 2005-10-08 on HP PhotoSmart R707, uploaded 2007-04-22). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL) on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "rkc-harrier-breed-profile": {
+"rkc-harrier-breed-profile": {
     id: "rkc-harrier-breed-profile",
-    title: "Harrier — Breeds A to Z",
+    name: "The Royal Kennel Club - Harrier Breeds A to Z",
     publisher: "The Royal Kennel Club",
-    type: "kennel_club",
     url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/hound/harrier/",
+    type: "kennel_club",
     publishedOn: null,
-    checkedOn: "2026-11-21",
-    notes: "Official Royal Kennel Club breed profile covering exercise (>2 hours/day), Breed Watch status (no points of concern), recognised standard colours, and Hare Hound heritage."
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed profile covering exercise (>2 hours/day), Breed Watch status (no points of concern), recognised standard colours, and Hare Hound heritage."
   },
-  "wikimedia-harrier-pedigree-evforce": {
+"wikimedia-harrier-pedigree-evforce": {
     id: "wikimedia-harrier-pedigree-evforce",
-    title: "Wikimedia Commons — File:Harrier Hound -Pedigree Harrier.jpg",
-    publisher: "Wikimedia Commons / Evforce",
-    type: "image_host",
+    name: "Wikimedia Commons - File:Harrier Hound -Pedigree Harrier.jpg",
+    publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Harrier_Hound_-Pedigree_Harrier.jpg",
+    type: "other",
     publishedOn: "2021-10-22",
-    checkedOn: "2026-11-21",
-    notes: "CC BY-SA 4.0 photograph (3072 x 4608) of a pedigree Harrier by Evforce, replacing broken File:Harrier_600.jpg."
+    accessedOn: "2026-11-21",
+    note: "CC BY-SA 4.0 photograph (3072 x 4608 px) of a pedigree Harrier by Evforce, replacing broken File:Harrier_600.jpg."
+  },
+  "fci-basset-artesien-normand-official-standard": {
+    id: "fci-basset-artesien-normand-official-standard",
+    name: "FCI - Basset Artésien Normand (Norman Artesien Basset) Official Breed Standard No. 34",
+    url: "https://www.fci.be/Nomenclature/Standards/034g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2023-08-29",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 34 (valid standard dated 2023-08-01, English publication dated 2023-08-29). Covers French origin, 1870s controlled breeding of short-haired French bassets, Group 6 Section 1.3 Small-sized Hounds classification with working trial, proportions (5:8 height:length, 2:3 chest:height, 1:2 skull width:head length, 10:10 muzzle:skull), noble domed head, corkscrew-curled drop ears, slightly crooked forelegs with light wrist folds, prohibition on altering tail appearance, smooth short tricolour/bicolour coat, withers height (30-36 cm for both sexes, +/- 1 cm tolerance), and weight (15-20 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-basset-artesien-normand-nomenclature": {
+    id: "fci-basset-artesien-normand-nomenclature",
+    name: "FCI - Basset Artésien Normand Breed Nomenclature (No. 34)",
+    url: "https://www.fci.be/en/nomenclature/NORMAN-ARTESIEN-BASSET-34.html",
+    type: "official_breed_standard",
+    publishedOn: "2023-08-29",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.3 Small-sized Hounds classification with working trial, definitive acceptance date (1963-10-29), valid standard date (2023-08-01), English publication date (2023-08-29), and official multilingual names (Basset Artésien Normand, Norman Artesien Basset, Basset artesiano de Normandía).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "scc-basset-artesien-normand-profile": {
+    id: "scc-basset-artesien-normand-profile",
+    name: "Société Centrale Canine (SCC) - Basset artésien normand",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/basset-artesien-normand",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official French Kennel Club (SCC) breed profile for Basset artésien normand confirming 19th-century cross of Basset Normand and Basset d'Artois, athletic build without heaviness, height (30-36 cm), weight (15-20 kg, ~17 kg average), cheerful calm child-patient temperament, apartment adaptation if accustomed young with frequent outings, and recommendation of two daily meals.",
+    publisher: "Société Centrale Canine"
+  },
+  "cfban-club-basset-artesien-normand": {
+    id: "cfban-club-basset-artesien-normand",
+    name: "Club Français du Basset Artésien Normand et du Chien d'Artois - Site Officiel",
+    url: "https://www.centrale-canine.fr/club-francais-du-basset-artesien-normand-et-du-chien-d-artois",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official French parent breed club affiliated with the Société Centrale Canine overseeing the Basset Artésien Normand and Chien d'Artois, documenting breeding evaluations, hunting trials, and the club's preliminary survey on early-onset blindness (Enquête préliminaire cécité précoce).",
+    publisher: "Club Français du Basset Artésien Normand et du Chien d'Artois"
+  },
+  "skk-basset-artesien-normand-profile": {
+    id: "skk-basset-artesien-normand-profile",
+    name: "Svenska Kennelklubben (SKK) - Basset artésien normand Rasprofil",
+    url: "https://www.skk.se/hundraser/basset-artesien-normand/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Basset artésien normand documenting French origin (1870s breeding, lyre-shaped forelegs, 1966 first Swedish litter), height (30-36 cm), weight (15-20 kg), easy-care short coat, cheerful affectionate hunting temperament, and health notes covering ear and throat/neck diseases as well as post-hunt respiratory distress and abnormal fatigue (jaktödem).",
+    publisher: "Svenska Kennelklubben"
+  },
+  "nku-chondrodysplastic-ed-exclusion-2025": {
+    id: "nku-chondrodysplastic-ed-exclusion-2025",
+    name: "Nordic Kennel Union (NKU) X-ray Panel - Chondrodysplastic Breeds Excluded from ED Screening (2025)",
+    url: "https://www.dkk.dk/uploads/documents/R%C3%A5dgivning/Sundhed/AD-racer.pdf",
+    type: "veterinary",
+    publishedOn: "2025-01-01",
+    accessedOn: "2026-11-21",
+    note: "Official Nordic Kennel Union (NKU) X-ray Panel veterinary guidance (January 2025, published via Dansk Kennel Klub) listing Basset artésien normand among chondrodysplastic breeds excluded from standard radiographic elbow-dysplasia (ED) screening due to breed-defining curved foreleg anatomy, citing Parker et al. (Science 2009) and Batcher et al. (Genes 2019) on FGF4 retrogenes and intervertebral disc disease (IVDD).",
+    publisher: "Nordic Kennel Union / Dansk Kennel Klub"
+  },
+  "wikimedia-ban-skogvaktarens-queen-sally-frick-meijer": {
+    id: "wikimedia-ban-skogvaktarens-queen-sally-frick-meijer",
+    name: "Wikimedia Commons - File:Grupp 6 BASSET ARTÉSIEN NORMAND, Skogvaktarens Queen Sally (24180074612).jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Grupp_6_BASSET_ART%C3%89SIEN_NORMAND,_Skogvaktarens_Queen_Sally_(24180074612).jpg",
+    type: "other",
+    publishedOn: "2016-03-30",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (1656 x 1104 px) of a tricolour Basset Artésien Normand (Skogvaktarens Queen Sally) at MyDOG in Gothenburg by Johan Frick-Meijer / Svenska Mässan (EXIF capture date 2016-01-08 on Nikon D800, uploaded to Wikimedia Commons via Flickr2Commons by Томасина on 2016-03-30). Licensed under CC BY 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-basset-artesien-normand-sonvisen": {
+    id: "wikimedia-basset-artesien-normand-sonvisen",
+    name: "Wikimedia Commons - File:Basset Artésien Normand.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Basset_Art%C3%A9sien_Normand.jpg",
+    type: "other",
+    publishedOn: "2012-08-06",
+    accessedOn: "2026-11-21",
+    note: "High-resolution outdoor portrait (2848 x 4272 px) of a tricolour Basset Artésien Normand by Bernt Sønvisen (EXIF capture date 2010-10-31 on Canon EOS 450D, uploaded to Wikimedia Commons via Flickr upload bot by Ltshears on 2012-08-06). Licensed under CC BY 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "peru-info-viringo-cultural-heritage": {
+    id: "peru-info-viringo-cultural-heritage",
+    name: "Perú Info (PROMPERÚ) - Conoce al perro sin pelo, raza oriunda de Perú",
+    publisher: "PROMPERÚ / Marca Perú",
+    url: "https://peru.info/es-pe/talento/blogperu/6/24/conoce-al-perro-sin-pelo--raza-oriunda-de-peru",
+    type: "other",
+    publishedOn: "2019-11-21",
+    accessedOn: "2026-11-21",
+    note: "Official Peruvian tourism and cultural portal documenting Law No. 27537 (2001) National Cultural Heritage status, June 12 national day, Viringo/Calato etymology, pre-Inca ceramics, and seasonal skin tanning."
+  },
+  "wikimedia-peruvian-hairless-dog-medio-coated-canarian": {
+    id: "wikimedia-peruvian-hairless-dog-medio-coated-canarian",
+    name: "Wikimedia Commons - File:Peruvian Hairless Dog Medio Coated.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Peruvian_Hairless_Dog_Medio_Coated.jpg",
+    type: "other",
+    publishedOn: "2016-12-05",
+    accessedOn: "2026-11-21",
+    note: "CC BY-SA 4.0 photograph (600 x 578 px) of a medium-sized coated Peruvian Hairless Dog by Canarian (captured 2016-12-04, uploaded 2016-12-05), replacing broken File:Peruvian_Hairless_Dog_600.jpg."
+  },
+  "fci-irish-wolfhound-official-standard": {
+    id: "fci-irish-wolfhound-official-standard",
+    name: "FCI - Irish Wolfhound Official Breed Standard No. 160",
+    url: "https://www.fci.be/Nomenclature/Standards/160g10-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2026-04-17",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 160 (valid standard dated 2026-04-10, English publication dated 2026-04-17). Covers Irish origin, Group 10 Section 2 Rough-haired Sighthounds classification without working trial, Greyhound-like commanding giant conformation, rough harsh coat, accepted colours, minimum height at withers (males 79 cm, females 71 cm), and minimum expected weight (males 54.5 kg for 79 cm, females 40.5 kg for 71 cm, increasing proportionally with height).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-irish-wolfhound-nomenclature": {
+    id: "fci-irish-wolfhound-nomenclature",
+    name: "FCI - Irish Wolfhound Breed Nomenclature (No. 160)",
+    url: "https://www.fci.be/en/nomenclature/IRISH-WOLFHOUND-160.html",
+    type: "official_breed_standard",
+    publishedOn: "2026-04-17",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Ireland as country of origin, Group 10 Section 2 Rough-haired Sighthounds classification without working trial, definitive acceptance date (1955-04-26), English publication date (2026-04-17), and official multilingual names (Irish Wolfhound, Lévrier Irlandais, Irischer Wolfshund).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "rkc-irish-wolfhound-breed-standard": {
+    id: "rkc-irish-wolfhound-breed-standard",
+    name: "The Royal Kennel Club - Irish Wolfhound Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/hound/irish-wolfhound/",
+    type: "official_breed_standard",
+    publishedOn: "2025-08-01",
+    accessedOn: "2026-11-21",
+    note: "Official Royal Kennel Club breed standard (Hound Group, last updated August 1, 2025) confirming gentle, kind, friendly temperament, dark elliptical eyes, small velvet rose ears, complete scissor bite, dewlap-free arched neck, rough harsh coat, recognised colours (grey, brindle, red, black, pure white, fawn, wheaten, steel grey), minimum height (dogs 79 cm, bitches 71 cm; desired male average 81-86 cm), and minimum weight (dogs 54.5 kg, bitches 40.9 kg).",
+    publisher: "The Royal Kennel Club"
+  },
+  "akc-irish-wolfhound-official-standard": {
+    id: "akc-irish-wolfhound-official-standard",
+    name: "American Kennel Club - Official Standard of the Irish Wolfhound",
+    url: "https://images.akc.org/pdf/breeds/standards/IrishWolfhound.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed standard (Hound Group; approved September 12, 1950). Establishes conformation, rough hard coat wiry over eyes and underjaw, dewlap-free arched neck, minimum height (32 inches dogs, 30 inches bitches), minimum weight (120 pounds dogs, 105 pounds bitches), and List of Points in Order of Merit.",
+    publisher: "American Kennel Club"
+  },
+  "akc-irish-wolfhound-breed-profile": {
+    id: "akc-irish-wolfhound-breed-profile",
+    name: "American Kennel Club - Irish Wolfhound Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/irish-wolfhound/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official AKC breed profile documenting ancient Irish history (391 AD Symmachus letter, 1862 Captain George Augustus Graham revival, 1897 AKC recognition, Irish Guards mascot since 1902), life expectancy (6-8 years), moderate shedding (3/5), quiet vocalization (1/5), calm dignified temperament, and recommended health evaluations (hips, elbows, cardiac, ophthalmologist, serum bile acids).",
+    publisher: "American Kennel Club"
+  },
+  "iwca-chic-health-testing": {
+    id: "iwca-chic-health-testing",
+    name: "Irish Wolfhound Club of America (IWCA) - CHIC Health Screening Program",
+    url: "https://iwclubofamerica.org/chic",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official US parent breed club CHIC health screening guide detailing the four required adult screenings (board-certified veterinary cardiologist echocardiogram plus recommended annual ECG, board-certified ophthalmologist eye exam including PRA, hip dysplasia radiograph, and elbow dysplasia radiograph).",
+    publisher: "Irish Wolfhound Club of America"
+  },
+  "iwca-adult-health-issues": {
+    id: "iwca-adult-health-issues",
+    name: "Irish Wolfhound Club of America (IWCA) - Health Issues in Adult Irish Wolfhounds",
+    url: "https://iwclubofamerica.org/health-issues-in-adult-irish-wolfhounds",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Veterinary health article by C.A. Krowzack, DVM (copyright 2014) hosted by the Irish Wolfhound Club of America covering GDV/bloat, heart disease and routine ECG monitoring, osteosarcoma, lymphoma, acute rapid-onset pneumonia requiring prolonged antibiotics, and reduced anesthetic induction dosing (typically 1/2 to 2/3 calculated dose).",
+    publisher: "Irish Wolfhound Club of America"
+  },
+  "pmc-simpson-2016-iw-dcm-genetics": {
+    id: "pmc-simpson-2016-iw-dcm-genetics",
+    name: "Multiple Genetic Associations with Irish Wolfhound Dilated Cardiomyopathy (BioMed Research International 2016)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5187458/",
+    type: "scientific",
+    publishedOn: "2016-12-13",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed study by Simpson et al. (Biomed Res Int 2016:6374082, Epub 2016-12-13, PMID 28070514, PMC5187458) documenting polygenic associations for Dilated Cardiomyopathy (DCM) in Irish Wolfhounds and summarizing UK demographic longevity (median age at death 7.04 years, maximum 11.83 years) and leading causes of death (cardiac disease, osteosarcoma, bronchopneumonia, and GDV).",
+    publisher: "BioMed Research International / National Library of Medicine (PMC)"
+  },
+  "pmc-vollmar-2016-iw-dcm-clinical-trial": {
+    id: "pmc-vollmar-2016-iw-dcm-clinical-trial",
+    name: "Long-term Outcome of Irish Wolfhound Dogs with Preclinical Cardiomyopathy, Atrial Fibrillation, or Both Treated with Pimobendan, Benazepril Hydrochloride, or Methyldigoxin Monotherapy (JVIM 2016)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4913600/",
+    type: "scientific",
+    publishedOn: "2016-03-03",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed blinded randomized clinical trial of 75 Irish Wolfhounds (Vollmar & Fox, J Vet Intern Med 2016, PMC4913600) demonstrating that early detection and pimobendan therapy significantly prolonged time to congestive heart failure or sudden death (median 1,991 days vs. 858 days for benazepril, P = 0.002), supporting routine cardiac screening.",
+    publisher: "Journal of Veterinary Internal Medicine / National Library of Medicine (PMC)"
+  },
+  "pmc-iw-osteosarcoma-heritability-2021": {
+    id: "pmc-iw-osteosarcoma-heritability-2021",
+    name: "Heritability and genetic variance estimation of Osteosarcoma (OSA) in Irish Wolfhound, using deep pedigree information (Canine Medicine and Genetics 2021)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8502365/",
+    type: "scientific",
+    publishedOn: "2021-10-09",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed pedigree genetics study (Canine Med Genet 2021, PMC8502365) analyzing 5,110 purebred Irish Wolfhounds (332 OSA cases, 360 controls over age 10), estimating high complex-trait heritability for osteosarcoma (h² = 0.65) and reporting that 93% of OSA-related deaths occurred before 10 years of age.",
+    publisher: "Canine Medicine and Genetics / National Library of Medicine (PMC)"
+  },
+  "pubmed-kerr-1999-iw-portosystemic-shunt": {
+    id: "pubmed-kerr-1999-iw-portosystemic-shunt",
+    name: "Mass screening of Irish wolfhound puppies for portosystemic shunts by the dynamic bile acid test (Veterinary Record 1999)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/10420483/",
+    type: "scientific",
+    publishedOn: "1999-06-19",
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed veterinary diagnostic study by Kerr et al. (Vet Rec 1999 Jun 19;144(25):693-696, PMID 10420483) validating dynamic (postprandial) serum bile acid testing for mass screening of Irish Wolfhound puppies for congenital portosystemic liver shunts.",
+    publisher: "Veterinary Record / PubMed"
+  },
+  "pubmed-urfer-2007-iw-lifespan-diseases": {
+    id: "pubmed-urfer-2007-iw-lifespan-diseases",
+    name: "Lifespan and disease predispositions in the Irish Wolfhound: a review (Veterinary Quarterly 2007)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/17970287/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed breed health review by Urfer et al. (Vet Q 2007 Sep;29(3):102-111, PMID 17970287) reviewing longevity and major documented conditions in Irish Wolfhounds including DCM, osteosarcoma, GDV, intrahepatic portosystemic shunt, rhinitis, epilepsy, progressive retinal atrophy (PRA), von Willebrand disease, and juvenile fibrocartilaginous embolism.",
+    publisher: "Veterinary Quarterly / PubMed"
+  },
+  "wikimedia-irish-wolfhound-brindle-1-canarian": {
+    id: "wikimedia-irish-wolfhound-brindle-1-canarian",
+    name: "Wikimedia Commons - File:Irish Wolfhound brindle 1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Irish_Wolfhound_brindle_1.jpg",
+    type: "other",
+    publishedOn: "2020-08-24",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (1907 x 1432 px) of an adult brindle male Irish Wolfhound standing outdoors by Canarian (EXIF capture date 2020-08-23 on Sony DSLR-A350, uploaded 2020-08-24). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-irish-wolfhound-dschoen": {
+    id: "wikimedia-irish-wolfhound-dschoen",
+    name: "Wikimedia Commons - File:Irish Wolfhound.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Irish_Wolfhound.jpg",
+    type: "other",
+    publishedOn: "2007-12-28",
+    accessedOn: "2026-11-21",
+    note: "High-resolution photograph (1410 x 1910 px) of an Irish Wolfhound by D.Schoen (EXIF capture date 2007-09-02 on Canon Digital IXUS 800 IS, uploaded 2007-12-28 by Connection reset by peer). Licensed under CC BY-SA 3.0 Unported (and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-montenegronak-canarian": {
+    id: "wikimedia-montenegronak-canarian",
+    name: "Wikimedia Commons - File:Montenegronak.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Montenegronak.jpg",
+    type: "other",
+    publishedOn: "2024-04-26",
+    accessedOn: "2026-11-21",
+    note: "High-resolution CC BY 4.0 photograph (2299 x 1857 px) of a Montenegrin Mountain Hound by Canarian (2024-04-26), replacing nonexistent File:Crnogorski_planinski_gonic.JPG."
+  },
+  "wikimedia-montenegrin-mountain-hound-2-canarian": {
+    id: "wikimedia-montenegrin-mountain-hound-2-canarian",
+    name: "Wikimedia Commons - File:Montenegrin Mountain Hound 2.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Montenegrin_Mountain_Hound_2.jpg",
+    type: "other",
+    publishedOn: "2015-08-01",
+    accessedOn: "2026-11-21",
+    note: "CC BY-SA 4.0 photograph (444 x 510 px) of a black-and-tan female Montenegrin Mountain Hound by Canarian (captured 2014-08-09, uploaded 2015-08-01), replacing nonexistent File:Crnogorski_planinski_gonic_600.jpg."
+  },
+  "fci-burgos-pointing-dog-official-standard": {
+    id: "fci-burgos-pointing-dog-official-standard",
+    name: "FCI - Burgos Pointing Dog (Perdiguero de Burgos) Official Breed Standard No. 90",
+    url: "https://www.fci.be/Nomenclature/Standards/090g07-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1998-11-09",
+    accessedOn: "2026-11-21",
+    note: "Official English FCI Standard No. 90 (valid standard dated 1982-05-26, English publication dated 1998-11-09). Covers Spanish origin, Group 7 Section 1.1 Continental Pointing Dogs ('Braque' type) classification with working trial, fur-and-feather hunting utilization, calm docile temperament, divergent head axes, corkscrew ears with visible vein plexus, double dewlap, square body, chest perimeter (+1/4 withers height), 100°/125° forelimb angles, steady economical trot, pink skin with brown mucous membranes, white-and-liver short coat (black and tan inadmissible), pronounced sexual dimorphism, and withers height (males 62-67 cm, females 59-64 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-burgos-pointing-dog-nomenclature": {
+    id: "fci-burgos-pointing-dog-nomenclature",
+    name: "FCI - Perdiguero de Burgos (Burgos Pointing Dog) Breed Nomenclature (No. 90)",
+    url: "https://www.fci.be/en/nomenclature/PERDIGUERO-DE-BURGOS-90.html",
+    type: "official_breed_standard",
+    publishedOn: "1998-11-09",
+    accessedOn: "2026-11-21",
+    note: "Official FCI breed nomenclature record confirming Spain as country of origin, Group 7 Section 1.1 Continental Pointing Dogs ('Braque' type) classification with working trial, definitive acceptance date (1954-11-12), valid standard date (1982-05-26), English publication date (1998-11-09), and official multilingual names (Perdiguero de Burgos, Burgos Pointing Dog, Perdiguero von Burgos).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "rsce-perdiguero-de-burgos-standard": {
+    id: "rsce-perdiguero-de-burgos-standard",
+    name: "Real Sociedad Canina de España (RSCE) - Estándar del Perdiguero de Burgos",
+    url: "https://www.rsce.es/razas-espanolas-perdiguero-de-burgos/",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Official Spanish Kennel Club (RSCE) breed standard for Perdiguero de Burgos detailing eumetric mediolinear square proportions, croup inclination (<45°), exact limb ratios (forearm twice carpus-to-ground, thigh 3/4 lower leg), corkscrew ears reaching lip corner, complete scissor bite with all premolars, height (males 62-67 cm, females 59-64 cm), pronounced sexual dimorphism, and calm, docile, intelligent character.",
+    publisher: "Real Sociedad Canina de España"
+  },
+  "aeppb-perdiguero-de-burgos-origenes": {
+    id: "aeppb-perdiguero-de-burgos-origenes",
+    name: "Asociación Española del Perro Perdiguero de Burgos (AEPPB) - Orígenes e historia antigua",
+    url: "https://perdiguerodeburgos.es/origenes-e-historia-antigua/",
+    type: "breed_club",
+    publishedOn: "2025-01-08",
+    accessedOn: "2026-11-21",
+    note: "Official Spanish parent breed association (AEPPB) historical monograph (authored by veterinary geneticist Dr. José Manuel Sanz Timón) documenting the breed's formation across the northern Castilian plateau (Castile and León) rather than exclusively inside Burgos city.",
+    publisher: "Asociación Española del Perro Perdiguero de Burgos"
+  },
+  "aeppb-boletin-2001-salud-displasia": {
+    id: "aeppb-boletin-2001-salud-displasia",
+    name: "Asociación Española del Perro Perdiguero de Burgos (AEPPB) - Boletín y Normativa de Cría (Displasia de Cadera)",
+    url: "https://perdiguerodeburgos.es/wp-content/uploads/2025/01/Boletin-2001-1.pdf",
+    type: "breed_club",
+    publishedOn: "2025-01-01",
+    accessedOn: "2026-11-21",
+    note: "Official AEPPB breeding bulletin archive documenting parent-association health provisions including radiographic hip dysplasia evaluation ('prueba de displasia de cadera') for breeding dogs.",
+    publisher: "Asociación Española del Perro Perdiguero de Burgos"
+  },
+  "unileon-melo-alonso-perdiguero-burgos-hd": {
+    id: "unileon-melo-alonso-perdiguero-burgos-hd",
+    name: "Universidad de León - Índice de distracción en el diagnóstico de la displasia de cadera en razas caninas autóctonas castellano-leonesas: el Perdiguero de Burgos",
+    url: "https://portalcientifico.unileon.es/documentos/5d3999492999520684440903",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Veterinary academic research from the University of León (Beatriz Melo Alonso) evaluating radiographic distraction-index diagnostics for hip dysplasia specifically in native Castile and León dog breeds including the Perdiguero de Burgos.",
+    publisher: "Universidad de León"
+  },
+  "jordana-variabilidad-genetica-razas-espanolas": {
+    id: "jordana-variabilidad-genetica-razas-espanolas",
+    name: "Variabilidad genética en diez razas caninas españolas (Jordana et al., Universitat Autònoma de Barcelona)",
+    url: "https://www.researchgate.net/profile/Jordi-Jordana/publication/322925713_Variabilidad_genetica_en_diez_razas_caninas_espanolas/links/5a770acd45851541ce5a5754/Variabilidad-genetica-en-diez-razas-caninas-espanolas.pdf",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-21",
+    note: "Peer-reviewed population-genetics research by Jordi Jordana et al. evaluating genetic variability across ten native Spanish dog breeds and reporting notably low observed heterozygosity (0.125) in the Perdiguero de Burgos.",
+    publisher: "Universitat Autònoma de Barcelona / ResearchGate"
+  },
+  "wikimedia-burgos-pointer-canarian-2016": {
+    id: "wikimedia-burgos-pointer-canarian-2016",
+    name: "Wikimedia Commons - File:Burgos Pointer.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Burgos_Pointer.jpg",
+    type: "other",
+    publishedOn: "2016-12-11",
+    accessedOn: "2026-11-21",
+    note: "Photograph (600 x 523 px) of an adult liver-roan female Burgos Pointer by Canarian (EXIF capture date 2016-12-10 on Sony DSLR-A350, uploaded 2016-12-11). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-burgos-pointer-perdiguero-canarian-2013": {
+    id: "wikimedia-burgos-pointer-perdiguero-canarian-2013",
+    name: "Wikimedia Commons - File:Burgos Pointer or Perdiguero de Burgos.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Burgos_Pointer_or_Perdiguero_de_Burgos.JPG",
+    type: "other",
+    publishedOn: "2013-09-23",
+    accessedOn: "2026-11-21",
+    note: "Photograph (597 x 445 px) of a female Burgos Pointer standing in profile by Canarian (EXIF capture date 2013-06-29, uploaded 2013-09-23). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
   },
 });
 

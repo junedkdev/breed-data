@@ -165,10 +165,11 @@
 162:basset_bleu_de_gascogne - CG
 163:croatian_sheepdog - CG
 164:harrier - CG
+165:peruvian_hairless_dog - CG
+166:montenegrin_mountain_hound - CG
 
-165:peruvian_hairless_dog - C
-166:montenegrin_mountain_hound - C
-167:halden_hound - C
+167:halden_hound - CR
+
 168:caucasian_shepherd_dog - C
 169:english_springer_spaniel - C
 170:alaskan_malamute - C
@@ -240,12 +241,12 @@
 236:styrian_coarse-haired_hound - C
 237:keeshond - C
 238:east_siberian_laika - C
+239:basset_artesien_normand - C
+240:irish_wolfhound - C
+241:burgos_pointer - C
 
-239:basset_artesien_normand - R
+242:billy - R
 
-240:irish_wolfhound
-241:burgos_pointer
-242:billy
 243:newfoundland
 244:australian_terrier
 245:austrian_black_and_tan_hound
