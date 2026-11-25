@@ -7,81 +7,80 @@ export const basset_fauve_de_bretagne: Breed = {
 
   alternateNames: [
     "Fawn Brittany Basset",
+    "Fawn Basset of Brittany",
+    "Fawn Colored Brittany Basset",
     "Brittany Basset",
     "Basset Fauve",
     "Fauve de Bretagne",
-    "Basset Leonado de Bretaña",
-    "Bretonischer Basset"
+    "Basset Leonado de Bretaña"
   ],
 
-  group:
-    "Scenthounds and Related Breeds; Section 1.3 — Small-sized Hounds (with working trial; also classified in the Hound and Scenthound groups)",
+  group: "Small-sized scenthounds (with working trial)",
 
   origin: {
     country: "France",
-    region:
-      "Brittany (Bretagne), northwestern France"
+    region: "Brittany (Bretagne), northwestern France"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Basset_Fauve_de_Bretagne.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Basset_Fauve_de_Bretagne_Chester.JPG",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Basset_Fauve_de_Bretagne.jpg",
-      title: "Basset Fauve de Bretagne.jpg",
+        "https://commons.wikimedia.org/wiki/File:Basset_Fauve_de_Bretagne_Chester.JPG",
+      title: "Basset Fauve de Bretagne Chester.JPG",
       description:
-        "An adult fawn-colored Basset Fauve de Bretagne standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
-      licenseId: "cc-by-sa-3.0",
+        "A Basset Fauve de Bretagne showing its rough fawn wiry coat, dark expressive eyes, and folded drop ears.",
+      creator: "Kallewirsch",
+      uploader: "Kallewirsch",
+      capturedOn: null,
+      uploadedOn: "2019-10-08",
+      width: 1776,
+      height: 1804,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Basset_Fauve_de_Bretagne.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Kallewirsch, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Basset_Fauve_de_Bretagne_Chester.JPG. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Basset_Fauve_de_Bretagne_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Basset_fauve_de_bretagne_with_a_bone.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Basset_Fauve_de_Bretagne_600.jpg",
-      title: "Basset Fauve de Bretagne 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Basset_fauve_de_bretagne_with_a_bone.jpg",
+      title: "Basset fauve de bretagne with a bone.jpg",
       description:
-        "A Basset Fauve de Bretagne standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
-      licenseId: "cc-by-sa-3.0",
+        "A Basset Fauve de Bretagne resting with a bone, displaying its coarse reddish-fawn wire coat and compact frame.",
+      creator: "Trogain",
+      uploader: "Trogain",
+      capturedOn: "2018-12-24",
+      uploadedOn: "2020-07-25",
+      width: 4608,
+      height: 3456,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Basset_Fauve_de_Bretagne_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Trogain, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Basset_fauve_de_bretagne_with_a_bone.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     }
   ],
 
   overview: {
     summary:
-      "A compact, lively, and rustic French scenthound from Brittany, celebrated for its harsh, weather-resistant fawn wiry coat, expressive bearded face, merry and affectionate nature, and tireless agility on scent trails.",
+      "A nimble, short-legged French scenthound from Brittany with a harsh fawn wire coat, cheerful family temperament, and tireless drive on rabbit and small-game trails.",
 
     description:
-      "The Basset Fauve de Bretagne is a small, low-set, and remarkably agile hunting hound that combines compact bone substance and lively energy with a warm, endearing companion personality. Developed in the rugged, thorny terrain of Brittany in northwestern France to track rabbits, hares, foxes, and wild boar on foot, the dog is lighter and brisker in build than heavier basset breeds, avoiding any appearance of clumsiness or excessive skin folds. Its harsh, dry, and dense wiry coat ranges from golden wheaten to brick red, accompanied by characteristic facial furnishings—bushy eyebrows and a light beard—that enhance its keen, intelligent dark brown eyes. V-shaped drop ears set in line with the eye fold slightly inward and taper to a point. In the field, it is a bold, tenacious, and keen-nosed tracker, while at home it thrives as an adaptable, cheerful, and deeply sociable family companion.",
+      "Built for speed and endurance across thorny coastal scrub, the Basset Fauve de Bretagne is lighter, shorter-backed, and brisker on its feet than heavier basset types. It carries solid bone and firm muscle without loose skin or sluggish weight. Its defining coat is dry, dense, and noticeably harsh to the touch, appearing in warm shades from golden wheaten to brick red, with moderate facial whiskers that never hide its lively dark brown eyes. Fine, inward-folding drop ears hang level with the eyes and taper cleanly toward the nose. Driven and vocal when working a fresh trail, the breed settles into an upbeat, affectionate, and sociable companion indoors.",
 
     history:
-      "The breed descends directly from the ancient Grand Fauve de Bretagne, a large, rough-coated hunting hound prized by French kings and Breton nobility from the sixteenth century onward for pursuing wolves and stags. Following the French Revolution and the eventual eradication of wolves in Brittany during the nineteenth century, the larger hounds declined sharply, while rural farmers and foot-hunters selectively bred smaller, lower-slung basset versions suited to hunting rabbits and hares through dense gorse and brambles. Although numbers fell dangerously low during both World Wars, dedicated Breton enthusiasts—notably Marcel Pambrun and the parent breed club—revived the breed after 1949 using surviving purebred working stock and selective outcrosses with wire-haired bassets. Today, the Basset Fauve de Bretagne ranks among France's most popular working rabbit hounds and enjoys growing international acclaim as an adaptable family companion.",
+      "The breed traces its ancestry to the extinct Grand Fauve de Bretagne, a large rough-coated wolf and stag hound kept by French royalty and Breton nobles from the 1500s. After the French Revolution, rural hunters who tracked game on foot rather than horseback favored a shorter-legged descendant derived from the Griffon Fauve de Bretagne that could push through thick gorse and brambles after rabbits and hares. Popular across Brittany during the nineteenth century, the breed expanded nationwide in France during the late twentieth century after enthusiasts formed a dedicated breed club in 1949 and rebuilt post-war numbers using surviving lines and wire-coated basset crosses. Repeated wins in French rabbit-hunting competitions cemented its reputation, making it one of France's most numerous working bassets and an increasingly popular companion abroad.",
 
     originalPurpose:
-      "Tracking and flushing rabbits, hares, foxes, and wild boar on foot through dense coastal gorse, brambles, and rocky woodlands in Brittany.",
+      "Tracking and flushing rabbits, hares, foxes, roe deer, and wild boar on foot through dense Breton gorse, brambles, and woodland.",
 
     currentRoles: [
-      "Traditional solo or pack rabbit and hare hunting hound",
-      "Trailing, blood tracking, and scentwork competitor",
-      "Devoted household companion for active families and urban dwellers",
-      "Canine athlete in agility, rally obedience, barn hunt, and nosework"
+      "Solo or small-pack hunting hound for rabbits, hares, and upland game",
+      "Scent-tracking, nosework, and barn-hunt participant",
+      "Cheerful, adaptable family companion",
+      "Competitor in agility, obedience, and rally"
     ]
   },
 
@@ -101,67 +100,66 @@ export const basset_fauve_de_bretagne: Breed = {
     },
 
     weight: {
-      unit: "kg",
+      unit: "lb",
       male: {
-        min: 16,
-        max: 18
+        min: 23,
+        max: 39
       },
       female: {
-        min: 16,
-        max: 18
+        min: 23,
+        max: 39
       }
     },
 
     lifespanYears: {
-      min: 12,
-      max: 15
+      min: 13,
+      max: 16
     },
 
     coatType:
-      "Very harsh, dry, dense, and rather short wiry double coat with a protective undercoat, never woolly or curly; face is not overly bushy, featuring distinct eyebrows and a modest beard and moustache.",
+      "Very rough, harsh, dry, and fairly short wiry coat that repels dirt and resists matting, never woolly or curly; light facial furnishings without an overly bushy face.",
 
     coatLength: "Short",
 
     coatColors: [
       "Fawn (from golden wheaten to brick red)",
-      "Golden wheaten fawn with a few scattered black hairs on the back and ears",
-      "Reddish fawn with a small white star on the chest (tolerated but not sought after)"
+      "Fawn with scattered black hairs on the back and ears (tolerated)",
+      "Fawn with a small white chest star (tolerated but not preferred)"
     ],
 
     sheddingLevel:
-      "Low to moderate; the harsh wiry coat sheds minimally year-round when stripped or brushed regularly to remove dead hairs",
+      "Low to moderate; seasonal shedding with dead wiry hairs largely held in the coat until combed or hand-stripped out",
 
     droolingLevel:
-      "Low; clean, tight-fitting lips prevent drooling",
+      "Low; clean, well-fitting lips with no excess droop",
 
     distinctiveFeatures: [
-      "Compact, stocky, active low-set basset build combining agility and speed without heaviness",
-      "Height at the withers of 32 to 38 cm for both males and females (with a 2 cm tolerance for exceptional specimens)",
-      "Working weight of approximately 16 to 18 kg in lean, muscular condition",
-      "Very harsh, dry, weather-resistant fawn wiry coat in shades ranging from golden wheaten to brick red",
-      "Cleanly proportioned skull with a prominent occiput, slightly marked stop, and tapered muzzle",
-      "Complete, regular scissor bite with strong jaws and sound white teeth",
-      "Dark brown, lively, and expressive eyes framed by light eyebrows that never obscure vision",
-      "Finely textured, V-shaped drop ears set in line with the eye, reaching the end of the nose, covered in shorter, finer hair than the body",
-      "Short, muscular neck without dewlap, blending cleanly into well-laid-back shoulders",
-      "Deep, wide chest with well-sprung ribs, a short, broad, firm back, and well-muscled loin",
-      "Medium-length tail carried cheerfully in a slight sickle curve, tapering toward the tip",
-      "Solid-boned, straight or slightly turned-out forelegs with compact, tight cat-like feet and hard dark pads"
+      "Compact, stocky, low-set hound frame that is longer than tall yet shorter-backed and faster than heavier bassets",
+      "Withers height of 32 to 38 cm for both males and females (with a 2 cm allowance for standout individuals)",
+      "Working weight typically between 23 and 39 lb in trim, athletic condition",
+      "Very harsh, dry, rather short fawn wiry coat spanning golden wheaten to brick red",
+      "Slightly elongated skull with a clear occiput, moderate stop, and gently tapering muzzle",
+      "Strong jaws closing in an even scissor bite",
+      "Dark brown, lively eyes framed by modest eyebrows that leave vision unobstructed",
+      "Fine drop ears set level with the eye, folding slightly inward to a point and covered in shorter, finer, darker hair",
+      "Short, muscular neck free of throatiness, joining well-angled shoulders",
+      "Deep, broad chest, rounded ribs, short firm back, and muscular loin",
+      "Medium-length tapered tail carried above the topline in a gentle sickle curve when active",
+      "Good-boned straight or barely crooked forelegs, muscular parallel hindquarters, and tight arched feet with hard pads"
     ]
   },
 
   temperament: {
     traits: [
-      "Merry, cheerful, and lively in everyday family life",
-      "Affectionate, gentle, and deeply people-oriented companion",
-      "Courageous, tenacious, and passionate worker on scent trails",
-      "Clear, melodious, and enthusiastic baying voice during tracking",
-      "Exceptional sociability with other dogs, lacking dog-aggressive tendencies",
-      "Patient, sturdy, and playful companion for respectful children",
-      "Intelligent, adaptable, and eager to engage in household activities",
-      "Friendly and welcoming with unfamiliar visitors, making a poor guard dog",
-      "High prey drive toward rabbits, rodents, and small wild mammals",
-      "Independent and single-minded when following an intriguing scent line"
+      "Cheerful, lively, and affectionate at home",
+      "Sociable and peaceful with other dogs and family members",
+      "Bold, persistent, and enthusiastic when tracking a scent",
+      "Intelligent and quick to engage in play or training",
+      "Friendly and outgoing with visitors rather than territorial",
+      "Sturdy and patient around respectful children",
+      "Adaptable to varied routines and living settings",
+      "Strong instinct to chase rabbits and small wildlife once a trail is caught",
+      "Gives a clear, carrying hound voice when excited by game"
     ],
 
     scores: {
@@ -180,7 +178,7 @@ export const basset_fauve_de_bretagne: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate to high; an energetic, agile small hunting hound requiring daily brisk walks and olfactory stimulation",
+        "Moderate to high; an energetic, quick-moving small hound that needs brisk daily walks, secure play, and regular mental or scent challenges",
 
       minutesPerDay: {
         min: 45,
@@ -188,11 +186,11 @@ export const basset_fauve_de_bretagne: Breed = {
       },
 
       activities: [
-        "Daily brisk neighborhood walks and woodland trail hikes with ample sniffing opportunities",
-        "Interactive fetch, ball retrieving, and scent-tracking games in a securely fenced yard",
-        "Canine sports including nosework, tracking trials, barn hunt, rally obedience, and low-jump agility",
-        "Group play sessions and pack walks alongside other friendly dogs",
-        "Food puzzle toys and snuffle mats for mental enrichment"
+        "Daily leashed walks and trail outings with time to explore scents",
+        "Securely fenced yard play, ball rolling, and indoor hide-and-seek games",
+        "Dog sports including agility, obedience, rally, tracking, and nosework",
+        "Supervised playdates with other friendly dogs",
+        "Puzzle feeders and trick training to keep a sharp mind occupied"
       ]
     },
 
@@ -200,35 +198,34 @@ export const basset_fauve_de_bretagne: Breed = {
       level: "Low to moderate",
 
       brushing:
-        "Brush and comb once weekly using a slicker brush and medium metal comb to remove loose dead hairs and prevent tangles in the facial beard and ear fringes.",
+        "Comb weekly with a fine-toothed comb followed by a stiff-bristled brush to clear loose hair and keep the harsh coat tidy.",
 
       bathing:
-        "Bathe infrequently—every two to three months or when muddy—using a texturizing or gentle canine shampoo so the natural harsh, dry wire coat texture is preserved.",
+        "Bathe only occasionally when muddy or soiled, using a gentle dog shampoo that does not soften the natural dirt-repelling wire texture.",
 
       notes: [
-        "Light hand-stripping of dead outer hairs two to three times yearly maintains the authentic harsh texture and rich fawn color; avoid frequent clipping which softens the coat.",
-        "Inspect the finely textured drop ears weekly for wax buildup, moisture, or debris, wiping gently with an approved veterinary cleanser.",
-        "Check paw pads, toes, and coat for thorns or burrs after running through dense brambles.",
-        "Trim fast-growing dark nails every two to three weeks to maintain compact foot alignment.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste."
+        "Hand-strip or pluck dead outer coat roughly twice a year—especially on heavier-coated dogs—to preserve the harsh texture and rich fawn color.",
+        "Check drop ears regularly for wax, moisture, or odor and wipe gently with a veterinarian-approved ear cleanser.",
+        "Inspect paws and coat for burrs or thorns after walks through brush.",
+        "Trim nails regularly to prevent overgrowth or splitting.",
+        "Brush teeth several times a week with enzymatic canine toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent, cheerful, and food-motivated, yet possesses independent scenthound curiosity that requires patient, reward-based leadership",
+        "Moderate; bright and eager to work with its person, but a powerful nose can override recall if training does not start early",
 
       tips: [
-        "Use positive reinforcement, high-value aromatic food treats, and upbeat praise.",
-        "Keep training sessions varied, playful, and concise (5 to 10 minutes) to prevent mental boredom.",
-        "Always exercise within a securely fenced area or on a sturdy leash; an enticing scent trail triggers selective deafness and immediate pursuit.",
-        "Practice recall conditioning from early puppyhood on a long line using high-value rewards.",
-        "Teach a quiet command early to help manage occasional hound baying.",
-        "Never use harsh verbal reprimands or physical punishment, which cause this sensitive hound to become stubborn or withdrawn."
+        "Use upbeat positive reinforcement, tasty food rewards, and engaging games.",
+        "Begin attention, recall, and loose-leash training in early puppyhood before independent scent-chasing habits set in.",
+        "Always walk on a leash and restrict off-leash play to securely fenced spaces, as a fresh rabbit scent can trigger immediate pursuit.",
+        "Pair physical outings with daily mental puzzles and short, varied trick sessions to prevent mischief.",
+        "Avoid harsh corrections, which can dampen cooperation in this cheerful hound."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs of all sizes, household sounds, vehicles, and novel environments. Early structured socialization develops a confident, outgoing, and adaptable adult."
+        "Introduce puppies early and calmly to varied people, friendly dogs, street noises, car rides, and routine handling so their naturally outgoing temperament stays confident and well-mannered."
     },
 
     livingEnvironment: {
@@ -237,79 +234,78 @@ export const basset_fauve_de_bretagne: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool and wet climates, where the harsh weather-resistant double coat provides strong thermal protection",
-        "Warm climates, provided indoor air conditioning, shade, and fresh water are available and exercise occurs during cooler hours"
+        "Cool and damp climates, where the dense wire coat offers natural weather protection",
+        "Warmer climates with indoor cooling, shade, fresh water, and walks timed for cooler hours"
       ],
 
       aloneTimeTolerance:
-        "Moderate when provided with sufficient daily physical and mental exercise, though bred as a pack hound and happiest with human or canine companionship."
+        "Moderate once daily exercise and mental engagement are satisfied, though this sociable hound thrives on regular human or canine company."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active small-to-medium breeds, portion-controlled to maintain a lean, athletic silhouette.",
+      "Complete, balanced commercial or veterinarian-approved home-prepared diet matched to the dog's life stage (puppy, adult, or senior).",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals daily until about six months old, then two daily meals on a balanced growth formula.",
       adult:
-        "Two measured meals daily to support steady energy and comfortable digestion.",
+        "Two measured meals daily to sustain active energy while preventing overeating.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower calorie burn and healthy joint support."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, muscular body condition where the ribs are easily felt beneath the wiry coat. Scenthounds possess hearty appetites and can gain excess weight if overfed, which places unnecessary stress on their low-set frame and spine. Divide daily food into two distinct meals and provide cool, clean drinking water continuously.",
+      "Measure every meal and monitor waist and rib feel regularly, since this breed can put on excess weight easily if overfed or given too many training treats. Split daily rations into two meals and keep clean, fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, athletic body condition; excess weight places extra mechanical stress on the back and short limbs.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water at all times.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep weight lean so extra pounds do not strain the low-set back and joints.",
+      "Count training treats toward the daily calorie budget to prevent gradual obesity.",
+      "Avoid high-fat table scraps and unsafe human foods.",
+      "Transition between food formulas gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary based on age, outdoor tracking activity, and daily exercise intensity. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Calorie requirements shift with age and daily hunting or exercise output. Consult a veterinarian if you notice weight gain or dietary sensitivities."
   },
 
   health: {
     overview:
-      "The Basset Fauve de Bretagne is a remarkably hardy, robust, and long-lived French scenthound with a typical life expectancy of 12 to 15 years. Because it has been cultivated as an active, light-framed working hound without exaggerated skin folds or excessive body weight, it enjoys strong constitutional vitality and relatively few hereditary disorders. Primary health priorities include routine ear hygiene for drop ears prone to otitis externa, orthopedic evaluations for hip dysplasia and patellar luxation, and annual ophthalmic examinations.",
+      "The Basset Fauve de Bretagne is generally hardy and long-lived, with a typical life expectancy of 13 to 16 years and many individuals remaining vigorous into old age. A scientifically established breed-specific mutation in the ADAMTS17 gene causes primary open angle glaucoma (POAG) in affected dogs, for which a reliable DNA test is available. Other health considerations monitored by breeders and veterinarians include patellar luxation, cardiac disorders such as cardiomyopathies, progressive retinal atrophy (PRA), epilepsy, skin allergies, age-related thyroid issues, and drop-ear infections.",
 
     commonConditions: [
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by drop ears that restrict canal airflow and trap moisture, preventable through weekly ear checks",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, monitored through pre-breeding radiographic screening",
-      "Patellar luxation — intermittent displacement of the kneecap from the femoral groove, evaluated through clinical orthopedic examination",
-      "Eye conditions — occasional reports of hereditary cataracts or progressive retinal atrophy (PRA), monitored through annual certified veterinary ophthalmologist examinations",
-      "Intervertebral disc strain — occasional back discomfort associated with low-set proportions if the dog becomes obese or jumps repeatedly from excessive heights",
-      "Traumatic outdoor injuries — minor scratches or thorn punctures sustained while pursuing scent trails through dense brambles"
+      "Primary open angle glaucoma (POAG) — a scientifically established inherited eye disorder linked to a breed-specific ADAMTS17 mutation that raises intraocular pressure and can cause vision loss; carriers and at-risk pairings can be avoided via DNA testing",
+      "Progressive retinal atrophy (PRA) — an inherited retinal degeneration monitored through specialist veterinary eye exams",
+      "Patellar luxation — intermittent slipping of the kneecap evaluated by veterinary orthopedic examination",
+      "Cardiomyopathies — heart muscle conditions monitored via veterinary cardiac exams",
+      "Epilepsy — seizure disorders reported in the breed and tracked by responsible breeding programs",
+      "Skin allergies and age-related thyroid issues — dermatological sensitivities and declining thyroid function seen in some individuals, manageable with veterinary care",
+      "Otitis externa (ear infections) — moisture and wax buildup inside folded drop ears, largely preventable with routine weekly checks"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip clearances, clinical patellar luxation clearances, and annual specialist eye examinations.",
-      "Inspect and clean the drop ears weekly, wiping canals gently with an approved veterinary cleanser.",
-      "Maintain a lean, muscular body weight throughout life to protect the back and joints.",
-      "Brush teeth several times weekly and schedule periodic professional veterinary dental cleanings.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding parents have completed DNA testing for primary open angle glaucoma along with patella, cardiac, and veterinary ophthalmologist evaluations.",
+      "Check drop ears regularly for redness, wax, or odor and keep canals clean and dry.",
+      "Maintain a lean body weight to reduce strain on the spine and knees.",
+      "Keep up with annual veterinary wellness exams, parasite prevention, and dental care."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Clinical patellar luxation orthopedic evaluation",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "DNA test for primary open angle glaucoma (ADAMTS17 variant)",
+      "Veterinary patella evaluation prior to breeding",
+      "Veterinary cardiac examination prior to breeding",
+      "Specialist veterinary ophthalmologist eye examination"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times weekly with enzymatic canine toothpaste and schedule periodic veterinary dental exams to keep the strong scissor bite and gums healthy.",
 
     earCare:
-      "Inspect the finely textured V-shaped drop ears weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check the folded drop ears each week for wax, debris, or redness. Wipe gently with a veterinarian-recommended cleanser and dry the ear flaps thoroughly.",
 
     skinCare:
-      "Part the harsh wiry double coat weekly during brushing to inspect the skin for external parasites, burrs, or irritation. Light hand-stripping of dead hairs promotes healthy skin ventilation."
+      "Inspect the skin beneath the wiry coat during weekly combing for parasites, burrs, or allergy-related irritation; periodic hand-stripping keeps dead hair from trapping moisture."
   },
 
   suitability: {
@@ -320,78 +316,79 @@ export const basset_fauve_de_bretagne: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Active individuals, couples, and families seeking a cheerful, affectionate, and sturdy small companion",
-      "Apartment or house dwellers who provide daily brisk walks and olfactory enrichment",
-      "Multi-dog households that appreciate sociable, pack-friendly hound dynamics",
-      "First-time dog owners committed to positive training, leash safety, and regular walks",
-      "Enthusiasts of nosework, tracking, barn hunt, and rally obedience"
+      "Active singles, couples, and families wanting a cheerful, affectionate small hound",
+      "House or apartment residents who provide brisk daily walks and mental enrichment",
+      "Multi-dog homes that value friendly, pack-oriented sociability",
+      "First-time owners ready to commit to consistent early training and leash safety",
+      "Dog-sport enthusiasts interested in nosework, tracking, agility, rally, or barn hunt"
     ],
 
     notIdealFor: [
-      "Owners seeking a reliable off-leash dog in unfenced areas where wildlife scents abound",
-      "Households with free-roaming pet rabbits or small rodents vulnerable to hound prey drive",
-      "People seeking a fierce, territorial guard dog",
-      "Owners who leave a dog home alone in isolation for long workdays without companionship"
+      "Owners expecting reliable off-leash walking in unfenced areas with wildlife",
+      "Homes with free-roaming pet rabbits or small rodents",
+      "People looking for a wary or protective watchdog",
+      "Households where a dog would be left alone for long hours every day"
     ]
   },
 
   funFacts: [
-    "The Basset Fauve de Bretagne is the direct descendant of the ancient Grand Fauve de Bretagne, a giant wolf-hunting hound kept by French kings in the sixteenth century; after wolves disappeared from Brittany, hunters bred the smaller basset version to hunt rabbits on foot.",
-    "Unlike heavier basset breeds that can appear solemn or ponderous, the Basset Fauve de Bretagne is built like an agile athlete, capable of bounding effortlessly over stone walls and through dense Breton gorse.",
-    "Following World War II, the breed was so rare that French enthusiast Marcel Pambrun and the breed club organized a dedicated conservation effort in 1949, successfully restoring the breed's numbers and working vigor.",
-    "Because of its merry disposition, compact size, low-shedding wiry coat, and friendly attitude toward people and other dogs, the Basset Fauve de Bretagne has become one of the most popular companion hounds in both France and Great Britain.",
-    "When excited or following a scent, the Basset Fauve de Bretagne carries its tapered tail upright in a cheerful sickle curve and produces a surprisingly deep, musical voice for such a compact dog."
+    "The French word 'bas' means 'low,' reflecting how shorter-legged bassets were developed from taller French hounds so foot-hunters could keep pace through thick brush.",
+    "Brittany produced three closely linked fawn hunting hounds: the extinct Grand Fauve de Bretagne, the medium Griffon Fauve de Bretagne, and the compact Basset Fauve de Bretagne.",
+    "Despite its short legs, the Basset Fauve de Bretagne is built lighter and shorter in the back than heavier bassets, letting it scramble quickly over rocky terrain and dense gorse.",
+    "Its rough, dirt-repelling wire coat makes it almost wash-and-wear, needing only weekly combing and occasional hand-stripping rather than frequent baths.",
+    "Normally quiet indoors, the breed switches immediately into a carrying hound voice when a rabbit darts across the yard."
   ],
 
   faq: [
     {
-      question: "What is a Basset Fauve de Bretagne?",
+      question: "What kind of dog is a Basset Fauve de Bretagne?",
       answer:
-        "The Basset Fauve de Bretagne (Fawn Brittany Basset) is a small, agile French scenthound native to Brittany, recognized for its harsh fawn wiry coat, bearded face, drop ears, and merry, affectionate family personality."
+        "It is a small, agile French scenthound from Brittany with a harsh fawn wire coat, folded drop ears, and an affectionate, upbeat personality both in the field and at home."
     },
     {
-      question: "How tall and heavy is a Basset Fauve de Bretagne?",
+      question: "How tall and heavy does a Basset Fauve de Bretagne get?",
       answer:
-        "Adult males and females stand 32 to 38 cm at the withers and typically weigh between 16 and 18 kg in lean, muscular working condition."
+        "Both males and females stand 32 to 38 cm at the withers and typically weigh 23 to 39 lb in lean, active condition."
     },
     {
-      question: "How long does a Basset Fauve de Bretagne live?",
+      question: "What is the average lifespan of a Basset Fauve de Bretagne?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+        "Most Basset Fauve de Bretagnes live 13 to 16 years, and many remain lively well into their mid-teens with good weight management and routine veterinary care."
     },
     {
-      question: "Do Basset Fauve de Bretagnes shed a lot, and how are they groomed?",
+      question: "How much grooming does a Basset Fauve de Bretagne need?",
       answer:
-        "They are low-to-moderate shedders because their harsh wiry coat holds dead hair until removed. Brushing once weekly and light hand-stripping two to three times a year keeps the coat neat and weather-resistant; the coat should not be clipped."
+        "Grooming is straightforward: go through the coat weekly with a fine-toothed comb and a stiff brush, hand-strip dead outer hairs roughly twice a year, trim nails regularly, and check the drop ears every week."
     },
     {
       question: "Can a Basset Fauve de Bretagne live in an apartment?",
       answer:
-        "Yes. Because of its compact size, adaptable nature, and relatively quiet indoor demeanor compared to larger pack hounds, it adapts well to apartment living provided it receives 45 to 60 minutes of daily exercise."
+        "Yes. Its compact size and calm, adaptable indoor demeanor suit apartment life well as long as it gets several brisk daily walks and regular mental or scent-based play."
     },
     {
-      question: "Are Basset Fauve de Bretagnes good family pets and good with children?",
+      question: "Are Basset Fauve de Bretagnes good with children and other dogs?",
       answer:
-        "Yes. They are famously gentle, playful, and patient with children, and their pack heritage makes them exceptionally sociable and peaceful with other dogs."
+        "Yes. They are typically cheerful, sturdy, and gentle with respectful children, and their pack-hunting heritage makes them very sociable with other dogs, though small pet rodents or rabbits can trigger chase instincts."
     },
     {
-      question: "Can a Basset Fauve de Bretagne be trusted off-leash?",
+      question: "Can a Basset Fauve de Bretagne be walked off-leash?",
       answer:
-        "Generally no, unless in a securely fenced area. As a dedicated scenthound, an intriguing rabbit or wildlife trail can trigger intense focus and selective hearing."
+        "Only inside a securely fenced area. As a keen scenthound bred to find rabbits, an interesting scent trail can quickly override recall."
     },
     {
-      question: "How much exercise does a Basset Fauve de Bretagne need each day?",
+      question: "How much daily exercise does a Basset Fauve de Bretagne need?",
       answer:
-        "The breed requires 45 to 60 minutes of daily physical activity, including brisk leashed walks, trail hikes, and scent-based games like nosework or tracking."
+        "Plan for roughly 45 to 60 minutes of daily activity—combining brisk leashed walks, fenced play, and brain-engaging games like hide-and-seek, nosework, or rally."
     },
     {
-      question: "What health screenings are recommended for breeding dogs?",
+      question: "What health tests are recommended for Basset Fauve de Bretagne breeding dogs?",
       answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip dysplasia, clinical patellar luxation checks, and annual veterinary ophthalmologist eye exams."
+        "Key pre-breeding checks include a DNA test for primary open angle glaucoma (ADAMTS17 variant), a patella evaluation, a cardiac exam, and a specialist veterinary ophthalmologist eye exam."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-basset-fauve-de-bretagne-official-standard",
     "fci-basset-fauve-de-bretagne-nomenclature",
     "scc-basset-fauve-de-bretagne-standard",
@@ -399,17 +396,24 @@ export const basset_fauve_de_bretagne: Breed = {
     "the-kennel-club-basset-fauve-de-bretagne-standard",
     "akc-basset-fauve-de-bretagne-breed-profile",
     "ukc-basset-fauve-de-bretagne-breed-standard",
+    "pubmed-adamts17-poag-basset-fauve-de-bretagne",
     "wikimedia-basset-fauve-de-bretagne-lilly-m",
-    "wikimedia-basset-fauve-de-bretagne-600-tomasz-sienicki"
+    "wikimedia-basset-fauve-de-bretagne-600-tomasz-sienicki",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Canis lupus familiaris (Domestic Dog) taxonomic record"
+        }
+      ],
+      verifiedOn: "2026-11-25",
+      note: "Domestic dog taxonomic name verified via NatureServe Explorer."
     },
 
     alternateNames: {
@@ -418,21 +422,26 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "verified",
-          locator: "Standard heading: BASSET FAUVE DE BRETAGNE (Fawn Brittany Basset)"
+          locator: "Standard heading: BASSET FAUVE DE BRETAGNE"
         },
         {
           id: "fci-basset-fauve-de-bretagne-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: FAWN BRITTANY BASSET (36), Basset Leonado de Bretaña, Bretonischer Basset"
+          locator: "Official nomenclature (No. 36): BASSET FAUVE DE BRETAGNE, BASSET LEONADO DE BRETAÑA"
         },
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Breed Name: Basset Fauve de Bretagne (Brittany Basset)"
+          locator: "About the Breed: Fawn Colored Brittany Basset, Fauve"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Fawn Basset of Brittany, Basset Fauve"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified across FCI Standard No. 36, FCI Nomenclature, SCC, and AKC."
+      verifiedOn: "2026-11-25",
+      note: "Verified across FCI Standard No. 36, FCI Nomenclature, AKC breed profile, and The Dog API."
     },
 
     group: {
@@ -446,7 +455,7 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "fci-basset-fauve-de-bretagne-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.3 Small-sized Hounds, with working trial"
+          locator: "Group 6, Section 1 Scent hounds, Subsection Small-sized Hounds, with working trial"
         },
         {
           id: "the-kennel-club-basset-fauve-de-bretagne-standard",
@@ -456,17 +465,22 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Foundation Stock Service (Hound Group)"
+          locator: "Hound Group (fully recognized effective December 31, 2025 / 2026)"
         },
         {
           id: "ukc-basset-fauve-de-bretagne-breed-standard",
-          role: "verified",
+          role: "cited",
           locator: "Scenthound Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Hound"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group label omits registry names per Rule 5; AKC status updated from Foundation Stock Service to full Hound Group recognition."
     },
 
     origin: {
@@ -480,15 +494,20 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "fci-basset-fauve-de-bretagne-nomenclature",
           role: "verified",
-          locator: "Country of origin: France"
+          locator: "Country of origin: FRANCE"
         },
         {
           id: "scc-basset-fauve-de-bretagne-standard",
           role: "verified",
           locator: "Origine: France (Bretagne)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Brittany, France"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -498,22 +517,27 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "UTILIZATION (hare, fox, roe deer, wild boar), BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
         },
         {
           id: "scc-basset-fauve-de-bretagne-standard",
           role: "verified",
-          locator: "Historique (Grand Fauve de Bretagne, Marcel Pambrun 1949), utilisation et caractère"
+          locator: "Historique (Grand Fauve de Bretagne, Griffon Fauve de Bretagne, 1949 Club du Fauve de Bretagne), comportement et chasse"
         },
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed and History"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "Synthesized in original prose from FCI Standard No. 36, SCC, and AKC official records."
+        "Written in original prose grounded in FCI Standard No. 36, SCC, and AKC records."
     },
 
     physical: {
@@ -522,22 +546,27 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator: "HEAD, BODY, TAIL, LIMBS, COAT (very rough, harsh, rather short), COLOUR (golden wheaten to red brick; few black hairs on back/ears and small white chest star tolerated), SIZE"
         },
         {
           id: "the-kennel-club-basset-fauve-de-bretagne-standard",
           role: "verified",
-          locator: "General Appearance, Head, Eyes, Ears, Body, Tail, Coat, Colour, Size"
+          locator: "General Appearance, Head and skull, Ears, Characteristics"
         },
         {
           id: "scc-basset-fauve-de-bretagne-standard",
           role: "verified",
-          locator: "Morphologie, poil dur fauve, proportions et taille"
+          locator: "Morphologie, poil dur fauve, proportions"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.coat_colors (lists broad unstandardized colour set; excluded in favor of FCI fawn range)"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "Compact stocky basset build, very harsh fawn wiry coat, and distinctive features follow official standards."
+        "Coat colours follow FCI Standard No. 36 (golden wheaten to brick red with tolerated scattered black hairs on back/ears and small white chest star), excluding The Dog API's broad unstandardized colour list."
     },
 
     "physical.height": {
@@ -546,46 +575,46 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: Males and females: 32 cm minimum, 38 cm maximum (with a tolerance of 2 cm more or less for exceptional specimens)."
-        },
-        {
-          id: "scc-basset-fauve-de-bretagne-standard",
-          role: "verified",
-          locator: "Taille au garrot: Mâles et femelles de 32 à 38 cm (tolérance +/- 2 cm)"
+          locator: "SIZE: Height at withers 32-38 cm for males and females (with a tolerance of 2 cm for exceptional specimens)"
         },
         {
           id: "the-kennel-club-basset-fauve-de-bretagne-standard",
           role: "verified",
-          locator: "Size: Height at withers: 32-38 cms (12.5-15 ins)"
+          locator: "Size: 32-38 cms"
+        },
+        {
+          id: "akc-basset-fauve-de-bretagne-breed-profile",
+          role: "cited",
+          locator: "Height: 12.5-15.5 inches"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height: 32-39 cm"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "Preserved in published unit of centimetres (32–38 cm for both males and females) exactly as specified in FCI Standard No. 36 and SCC standard."
+        "Preserved in published centimetres from FCI Standard No. 36 (32-38 cm for both sexes), which supersedes The Dog API's 32-39 cm range."
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "scc-basset-fauve-de-bretagne-standard",
-          role: "verified",
-          locator: "Poids indicatif: de 16 à 18 kg environ"
-        },
-        {
-          id: "club-du-fauve-de-bretagne-profile",
-          role: "verified",
-          locator: "Poids moyen adulte: 16 à 18 kg"
-        },
-        {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Weight: 35-40 pounds (approx. 16-18 kg)"
+          locator: "Weight: 23-39 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight: male 12-18 kg, female 12-17 kg"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "FCI Standard No. 36 specifies height without fixing a numerical weight. The stored 16 to 18 kg for males and females represent canonical figures published by SCC and the French parent club, preserved in kilograms."
+        "FCI Standard No. 36 does not specify a numerical weight. Preserved in published pounds (23-39 lb) directly from the AKC breed profile without unit conversion; The Dog API lists 12-18 kg (males) and 12-17 kg (females)."
     },
 
     "physical.lifespanYears": {
@@ -594,16 +623,17 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-14 years (up to 15 years in European records)"
+          locator: "Life Expectancy: 13-16 years (Health section also notes many live to 16+ years)"
         },
         {
-          id: "club-du-fauve-de-bretagne-profile",
-          role: "verified",
-          locator: "Longévité moyenne: 12 à 15 ans"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 11-15 years"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Supported by kennel club and parent breed club actuarial profiles."
+      verifiedOn: "2026-11-25",
+      note:
+        "Uses AKC's published 13-16 year life expectancy; The Dog API lists 11-15 years."
     },
 
     "physical.sheddingLevel": {
@@ -612,15 +642,15 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5 to 3/5)"
+          locator: "Grooming: Shedding is seasonal; coarse wiry coat"
         },
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "verified",
-          locator: "COAT: Very harsh, dry, rather short wiry coat"
+          locator: "COAT: Very rough, harsh, rather short"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -635,11 +665,11 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: Drooling Level (low)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Clean, tight-fitting lips prevent drooling."
+      verifiedOn: "2026-11-25",
+      note: "Clean, tight-fitting lips minimize drooling."
     },
 
     "temperament.traits": {
@@ -648,20 +678,25 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Lively, fearless, very affectionate, sociable, adaptable"
+          locator: "BEHAVIOUR/TEMPERAMENT: Passionate hunters yet sociable, affectionate, and well-balanced companions"
         },
         {
           id: "the-kennel-club-basset-fauve-de-bretagne-standard",
           role: "verified",
-          locator: "Characteristics and Temperament: Lively, affectionate, intelligent, courageous"
+          locator: "Characteristics: Courageous, hardy, good nose, very nimble"
         },
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Temperament: Cheerful, smart, determined, sociable with dogs and people"
+          locator: "Affectionate, Alert, Cheerful; smart, courageous, determined, eager to please"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament: Friendly, energetic, intelligent, courageous, alert, happy, outgoing, loyal, affectionate"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -671,17 +706,17 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics ratings"
         },
         {
-          id: "the-kennel-club-basset-fauve-de-bretagne-standard",
+          id: "scc-basset-fauve-de-bretagne-standard",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Comportement: sociable, équilibré, jamais agressif, passionné de chasse"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented small scenthound temperament, merry disposition, and high sociability."
+        "Editorial 1-5 scores reflecting verified small scenthound sociability, high scent drive, and cheerful disposition."
     },
 
     care: {
@@ -690,17 +725,17 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming (weekly fine-toothed comb + stiff brush, seasonal shedding, hand-stripping), Exercise, Training"
         },
         {
-          id: "club-du-fauve-de-bretagne-profile",
+          id: "scc-basset-fauve-de-bretagne-standard",
           role: "cited",
-          locator: "Entretien du poil dur, épilation légère et activité quotidienne"
+          locator: "Vivre en ville: at least three daily outdoor outings"
         }
       ],
       verifiedOn: null,
       note:
-        "Combines active small scenthound management with wire-coat stripping and drop-ear care protocols."
+        "Combines kennel club grooming, leash safety, and daily activity guidance."
     },
 
     "care.exercise.level": {
@@ -709,15 +744,15 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (3/5 to 4/5)"
+          locator: "Exercise: energetic, loves to play, needs leashed walks or fenced play plus mental stimulation"
         },
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Agile hunting hound with endurance"
+          locator: "GENERAL APPEARANCE: Remarkable energy coupled with hardiness"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -725,36 +760,36 @@ export const basset_fauve_de_bretagne: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-basset-fauve-de-bretagne-standard",
-          role: "cited",
-          locator: "Exercise requirements: Up to 1 hour per day"
-        },
-        {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
+          locator: "Daily exercise and indoor/outdoor play guidance"
+        },
+        {
+          id: "scc-basset-fauve-de-bretagne-standard",
+          role: "cited",
+          locator: "Vivre en ville: at least three regular outings per day"
         }
       ],
       verifiedOn: null,
       note:
-        "Estimated 45 to 60 minutes of daily activity reflects the moderate-to-high exercise demands of an agile small scenthound."
+        "Editorial estimate of 45 to 60 minutes daily for a healthy adult small hunting hound."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-basset-fauve-de-bretagne-breed-profile",
+          id: "scc-basset-fauve-de-bretagne-standard",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (4/5); compact size and adaptable nature"
+          locator: "Vivre en ville: adapts well to city and apartment living when given regular outdoor outings"
         },
         {
-          id: "the-kennel-club-basset-fauve-de-bretagne-standard",
+          id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Living environment: Adaptable to town or country"
+          locator: "Compact adaptable hound happy indoors after outdoor activity"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -764,10 +799,10 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Exercise and fenced-yard recommendations"
+          locator: "Exercise: fenced yard recommended for safe play"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -777,15 +812,15 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "verified",
-          locator: "COAT: Very harsh weather-resistant double coat adapted to coastal Brittany climate"
+          locator: "COAT: Rough, harsh weather-resistant coat adapted to Brittany"
         },
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Weather adaptation: well-suited to cool and temperate climates"
+          locator: "Hardy all-weather hunting hound"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -795,7 +830,7 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate; sociable pack-oriented hound"
+          locator: "Sociable, people-oriented hound traits"
         }
       ],
       verifiedOn: null,
@@ -808,12 +843,11 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control to maintain lean condition"
+          locator: "Nutrition: age-appropriate diet, watch calorie intake and treats as some dogs are prone to overweight"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active small-to-medium scenthound breeds."
+      note: "Reflects AKC nutrition and weight-control guidance."
     },
 
     "nutrition.feedingFrequency": {
@@ -822,7 +856,7 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Life-stage nutrition guidance"
         }
       ],
       verifiedOn: null,
@@ -833,75 +867,75 @@ export const basset_fauve_de_bretagne: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "club-du-fauve-de-bretagne-profile",
+          id: "pubmed-adamts17-poag-basset-fauve-de-bretagne",
           role: "verified",
-          locator: "Santé et robustesse: espérance de vie 12-15 ans, suivi des oreilles, hanches et yeux"
+          locator: "Forman et al. (PLoS One, 2015): ADAMTS17 mutation strongly associated with primary open angle glaucoma (POAG) in Basset Fauve de Bretagne"
         },
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Health overview: Generally healthy breed, ear hygiene, hip and eye evaluations"
+          locator: "Health: POAG DNA test, PRA, epilepsy, cardiomyopathies, skin allergies, age-related thyroid issues; Patella, Cardiac, Ophthalmologist evaluations"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "Synthesizes parent club veterinary health records with kennel club health profiles."
+        "Distinguishes scientifically established ADAMTS17 primary open angle glaucoma from broader monitored breed conditions and drop-ear hygiene."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "club-du-fauve-de-bretagne-profile",
+          id: "pubmed-adamts17-poag-basset-fauve-de-bretagne",
           role: "verified",
-          locator: "Otites externes, dysplasie de la hanche, luxation de la rotule et affections oculaires"
+          locator: "Primary open angle glaucoma (POAG) linked to ADAMTS17 variant"
         },
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Ear infections and spinal care"
+          locator: "Health: PRA, epilepsy, cardiomyopathies, skin allergies, age-related thyroid issues, patella evaluation"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "Details documented conformational and environmental conditions in original prose without prohibited registry terms."
+        "Grounded in peer-reviewed genetics and AKC health screening documentation."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "club-du-fauve-de-bretagne-profile",
-          role: "cited",
-          locator: "Prévention: nettoyage régulier des oreilles et contrôle du poids"
-        },
-        {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "cited",
-          locator: "Routine care and veterinary wellness checks"
+          locator: "Health, Grooming (ear and nail care), and Nutrition (weight control)"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to drop-eared small scenthounds."
+      note: "Preventive care tailored to drop-eared, low-set hounds."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "club-du-fauve-de-bretagne-profile",
-          role: "verified",
-          locator: "Dépistages recommandés: radiographie des hanches, examen des rotules et examen oculaire"
-        },
-        {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Recommended evaluations: Hip evaluation, patella evaluation, and ophthalmologist eye exam"
+          locator: "Recommended Health Tests From the National Breed Club: Patella Evaluation, Cardiac Exam, Ophthalmologist Evaluation; plus POAG DNA test"
+        },
+        {
+          id: "pubmed-adamts17-poag-basset-fauve-de-bretagne",
+          role: "verified",
+          locator: "Genetic testing for ADAMTS17-associated POAG"
+        },
+        {
+          id: "club-du-fauve-de-bretagne-profile",
+          role: "cited",
+          locator: "Parent breed club health monitoring"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "Screenings summarize published parent club and national kennel club protocols."
+        "Reflects AKC National Breed Club recommended screenings (patella, cardiac, ophthalmologist) plus established POAG DNA testing."
     },
 
     "health.dentalCare": {
@@ -910,34 +944,34 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong jaws with regular scissor bite"
+          locator: "Jaws/teeth: strong jaws with even scissor bite"
         },
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Grooming: brush teeth regularly"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine dental hygiene guidance."
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-basset-fauve-de-bretagne-official-standard",
+          id: "the-kennel-club-basset-fauve-de-bretagne-standard",
           role: "cited",
-          locator: "Ears: set in line with eye, reaching end of nose, covered in shorter finer hair"
+          locator: "Ears: set level with eye, folding inwards ending in a point"
         },
         {
-          id: "club-du-fauve-de-bretagne-profile",
+          id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "cited",
-          locator: "Hygiène hebdomadaire des oreilles tombantes"
+          locator: "Grooming: check ears regularly"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: "Routine drop-ear inspection and cleaning guidance."
     },
 
     "health.skinCare": {
@@ -946,11 +980,16 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "cited",
-          locator: "Skin: quite thick and supple; harsh wiry coat"
+          locator: "Skin: rather thick, supple; rough harsh coat"
+        },
+        {
+          id: "akc-basset-fauve-de-bretagne-breed-profile",
+          role: "cited",
+          locator: "Health: skin allergies; Grooming: weekly combing and hand-stripping"
         }
       ],
       verifiedOn: null,
-      note: "General skin and wire-coat care guidelines."
+      note: "General skin and wire-coat care guidance."
     },
 
     suitability: {
@@ -959,17 +998,17 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "About the Breed, Temperament, Exercise, and Training"
         },
         {
-          id: "the-kennel-club-basset-fauve-de-bretagne-standard",
+          id: "scc-basset-fauve-de-bretagne-standard",
           role: "cited",
-          locator: "Characteristics and lifestyle suitability"
+          locator: "Comportement et vie en ville"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, compact size, and scenting drive."
+        "Editorial suitability assessment based on compact size, sociability, and strong scenthound prey drive."
     },
 
     funFacts: {
@@ -978,16 +1017,16 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Grand Fauve de Bretagne royal wolf-hunting ancestry, 1949 Marcel Pambrun post-WWII revival, agility and popularity in France and UK"
+          locator: "Did You Know ('bas' means low; three Brittany fawn hounds: Grand, Griffon, Basset), About the Breed (hound voice for rabbits), Grooming (wash-and-wear wire coat)"
         },
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Brittany gorse hunting heritage and sickle tail carriage"
+          locator: "General appearance and Brittany hunting heritage"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-25",
+      note: "Verified breed history, coat, and behavioral facts written in original prose."
     },
 
     faq: {
@@ -996,29 +1035,29 @@ export const basset_fauve_de_bretagne: Breed = {
         {
           id: "fci-basset-fauve-de-bretagne-official-standard",
           role: "verified",
-          locator: "Origin, height (32-38 cm), coat, and colors"
-        },
-        {
-          id: "scc-basset-fauve-de-bretagne-standard",
-          role: "verified",
-          locator: "Weight (16-18 kg) and hunting heritage"
+          locator: "Origin, height (32-38 cm), coat, and colours"
         },
         {
           id: "akc-basset-fauve-de-bretagne-breed-profile",
           role: "verified",
-          locator: "Lifespan (12-15 years), grooming, apartment living, family life, and exercise"
+          locator: "Weight (23-39 lb), lifespan (13-16 years), grooming, leash safety, recommended health tests"
         },
         {
-          id: "club-du-fauve-de-bretagne-profile",
+          id: "scc-basset-fauve-de-bretagne-standard",
           role: "verified",
-          locator: "Recommended health screening panel"
+          locator: "Apartment adaptability and sociability"
+        },
+        {
+          id: "pubmed-adamts17-poag-basset-fauve-de-bretagne",
+          role: "verified",
+          locator: "ADAMTS17 POAG genetic test"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and parent club data without naming registries in prose."
+        "FAQ answers synthesize verified kennel club standards and peer-reviewed genetics in original prose without naming registries."
     }
   },
 
-  updatedOn: "2026-11-12"
+  updatedOn: "2026-11-25"
 };

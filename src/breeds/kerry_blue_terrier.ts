@@ -8,16 +8,15 @@ export const kerry_blue_terrier: Breed = {
   alternateNames: [
     "Irish Blue Terrier",
     "Kerry",
-    "Brocaire Gorm"
+    "Brocaire Gorm",
+    "Terrier Kerry Blue"
   ],
 
-  group:
-    "Terriers; Section 1 — Large and Medium-sized Terriers (without working trial; also classified in the Terrier group)",
+  group: "Terriers",
 
   origin: {
     country: "Ireland",
-    region:
-      "County Kerry, southwestern Ireland"
+    region: "County Kerry, southwestern Ireland"
   },
 
   images: [
@@ -30,15 +29,16 @@ export const kerry_blue_terrier: Breed = {
         "An adult Kerry Blue Terrier standing in profile outdoors.",
       creator: "Peter Kumpert",
       uploader: "Alofok",
-      capturedOn: "2005-04-01",
-      uploadedOn: "2009-03-18",
+      capturedOn: null,
+      uploadedOn: "2011-04-09",
       width: 2336,
       height: 2276,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Peter Kumpert (Kempten), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Kerry_Blue_Terrier.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+        "Photo © Peter Kumpert (Kempten), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Kerry_Blue_Terrier.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
+      restrictions:
+        "File description includes an uploader notice prohibiting upload to Facebook or other social networking sites due to license incompatibility; verify suitability for social-media reuse.",
+      metadataCheckedOn: "2026-11-25"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Kerry_blue_terrier_052004.JPG",
@@ -46,10 +46,10 @@ export const kerry_blue_terrier: Breed = {
         "https://commons.wikimedia.org/wiki/File:Kerry_blue_terrier_052004.JPG",
       title: "Kerry blue terrier 052004.JPG",
       description:
-        "A female Kerry Blue Terrier standing in grass outdoors.",
+        "An adult female Kerry Blue Terrier standing on grass outdoors.",
       creator: "Eponimm",
       uploader: "Eponimm",
-      capturedOn: "2004-05-01",
+      capturedOn: null,
       uploadedOn: "2010-08-04",
       width: 1280,
       height: 960,
@@ -57,28 +57,27 @@ export const kerry_blue_terrier: Breed = {
       attribution:
         "Photo by Eponimm, Wikimedia Commons, CC BY 3.0. Source: https://commons.wikimedia.org/wiki/File:Kerry_blue_terrier_052004.JPG. License: https://creativecommons.org/licenses/by/3.0/. Changes, if any, must be indicated.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     }
   ],
 
   overview: {
     summary:
-      "An upstanding, muscular, and well-proportioned Irish working terrier renowned for its soft, wavy, non-shedding blue-grey coat, sculpted bearded head, keen expression, and fearless all-around farm utility and family loyalty.",
+      "An upstanding, muscular Irish working terrier prized for its soft, wavy, non-shedding blue-grey coat, sculpted beard, sharp terrier expression, and versatile farm and family heritage.",
 
     description:
-      "The Kerry Blue Terrier is a compact, powerful, and upstanding medium-to-large terrier that unites athletic grace with disciplined determination. Developed across the rugged hills and valleys of County Kerry in southwestern Ireland as an all-purpose farm dog, the breed was tasked with hunting vermin, tackling otters in deep rivers, engaging badgers underground, herding cattle and sheep, and guarding homesteads. Its signature hallmark is a soft, plentiful, and wavy single coat that starts jet black at birth and gradually clears to any shade of blue-grey before 18 months of age, sculpted with distinctive facial whiskers and beard. The head is long, lean, and well-balanced with strong punishing jaws, dark gums, small V-shaped ears folded forward, and dark, keen eyes radiating sharp terrier intelligence. In family life, it is affectionate, lively, and devoted to its household while remaining an alert watchdog and spirited athlete.",
+      "The Kerry Blue Terrier is a compact, athletic, well-knit medium-sized terrier that balances power with agility and unmistakable terrier style. Bred in the rugged countryside of County Kerry as an all-purpose rural helper, it handled everything from diving into rivers after otters and tackling badgers underground to clearing vermin, retrieving small game, and watching over farmsteads. Its hallmark is a plentiful, soft, wavy single coat that begins black at birth and gradually clears to any shade of blue-grey—from deep slate to light silver—before 18 months of age. A long, lean head with strong jaws, dark gums, small forward-folded V-shaped ears, keen dark eyes, and a sporty beard completes its distinctive outline. At home, the breed is lively, affectionate, and deeply people-oriented while remaining a vigilant watchdog.",
 
     history:
-      "Originating in the mountainous terrain of County Kerry, Ireland, the breed existed for centuries as a rugged peasant farm dog before gaining formal literary notice in 1847, when writers described a bluish-slate Irish terrier marked with darker shadings. Because ordinary Irish tenant farmers were historically barred from owning aristocratic hunting hounds, they cultivated a versatile, silent, and fearless utility terrier capable of poaching small game, herding livestock, and controlling rats and foxes. During the early twentieth century, the Kerry Blue Terrier became a proud symbol of Irish national identity and independence, famously championed by Irish revolutionary leader Michael Collins. Following its first competitive show appearances in 1913 and the formation of the Dublin Blue Terrier Club in 1920, early registration required dogs to pass rigorous working trials testing courage on rabbits and badgers. International recognition rapidly followed in the 1920s, establishing the breed worldwide as both a capable working terrier and an iconic show competitor.",
+      "Named for its native County Kerry in southwestern Ireland, the Kerry Blue Terrier developed over generations as a resourceful all-round farm dog for rural Irish households. Local lore credits tenant farmers with shaping a silent, game utility dog capable of hunting small game and birds, retrieving from land and water, herding stock, and guarding cottages without attracting the attention of estate gamekeepers. First exhibited in Ireland in 1913 as the Irish Terrier (Blue), the name Kerry Blue Terrier appeared at a Killarney show in 1916. Five dogs reached North America as pets in 1918–1919, and formal recognition across Ireland, Britain, and the United States followed in 1922, launching the breed into worldwide prominence by the late 1920s.",
 
     originalPurpose:
-      "All-around Irish farm utility terrier used to hunt rats, rabbits, foxes, otters, and badgers, retrieve game from land and water, herd cattle and sheep, and guard rural homesteads.",
+      "Versatile Irish farm utility terrier used to hunt otters in deep water, tackle badgers underground, clear vermin, retrieve game on land and water, herd livestock, and guard rural homes.",
 
     currentRoles: [
-      "Devoted household companion and alert family watchdog",
-      "Canine athlete in agility, obedience, rally, barn hunt, dock diving, and herding",
-      "Working earthdog, vermin controller, and utility farm dog",
-      "Therapy visiting dog and search partner"
+      "Loyal, people-oriented household companion and alert watchdog",
+      "Competitor in agility, obedience, rally, barn hunt, dock diving, and herding",
+      "Working utility terrier and scent-sport partner"
     ]
   },
 
@@ -103,10 +102,7 @@ export const kerry_blue_terrier: Breed = {
         min: 33,
         max: 40
       },
-      female: {
-        min: 28,
-        max: 35
-      }
+      female: null
     },
 
     lifespanYears: {
@@ -115,49 +111,46 @@ export const kerry_blue_terrier: Breed = {
     },
 
     coatType:
-      "Soft, plentiful, dense, and wavy single coat without an undercoat, covering the body and legs, sculpted with full whiskers and beard on the foreface; virtually non-shedding and requiring regular scissoring and brushing.",
+      "Soft, dense, plentiful, wavy single coat without an undercoat; non-shedding hair that grows continuously and is maintained through regular brushing, combing, clipping on the head, ears, neck, and underside, and scissoring across the body.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Any shade of blue-grey (ranging from deep slate blue to light silver blue), with or without black points on the muzzle, ears, legs, and tail",
-      "Black or dark brown-black permissible only in puppies and young dogs up to 18 months of age while the coat clears to blue"
+      "Any shade of blue-grey or grey-blue, from deep slate to light silver-blue, with or without darker or black points on the muzzle, head, ears, feet, and tail",
+      "Black, very dark blue, or shades of tan permissible only in puppies and young dogs up to 18 months of age during the coat-clearing transition",
+      "Small white chest patch permissible"
     ],
 
     sheddingLevel:
-      "Minimal; single wavy coat does not shed seasonally, trapping loose hairs within the curls until brushed out",
+      "Minimal; the single wavy coat does not shed seasonally, though loose hairs must be brushed and combed out regularly to prevent mats.",
 
     droolingLevel:
-      "Low; clean, tight-fitting lips prevent drooling",
+      "Low; tight-fitting, dark-pigmented lips stay clean and dry.",
 
     distinctiveFeatures: [
-      "Upstanding, well-knit, and muscular terrier silhouette displaying balance and athletic power",
-      "Height at the withers of 18 to 19.5 inches for males (ideal 18.5 inches) and 17.5 to 19 inches for females",
-      "Working weight of 33 to 40 pounds for males, with females weighing proportionately less at approximately 28 to 35 pounds",
-      "Soft, plentiful, wavy blue-grey single coat that clears from black in puppyhood to blue by 18 months of age",
-      "Long, proportionally lean head with a flat skull, slight stop, and abundant facial whiskers and beard",
-      "Strong, deep, punishing jaws with large, even white teeth in a scissor bite (level bite acceptable) and dark gums and roof of mouth",
-      "Small to medium dark or dark hazel eyes, well placed and radiating a keen, alert terrier expression",
-      "Small to medium, thin V-shaped ears carried forward close to the sides of the head",
-      "Moderately long, clean, and reachy neck widening smoothly into fine, flat, well-laid-back shoulders",
-      "Short-coupled, level back with a deep chest, fairly well-sprung ribs, and powerful, muscular hindquarters",
-      "High-set tail of moderate length carried erect and jauntily",
-      "Compact, round feet with thick rounded pads and black toenails"
+      "Upstanding, compact, muscular terrier build that is never low-slung, with males taller and heavier-boned than females",
+      "Preferred withers height of 18 to 19.5 inches for males (ideal 18.5 inches) and 17.5 to 19 inches for females, with adult males weighing 33 to 40 pounds and females proportionately less",
+      "Soft, dense, wavy blue-grey single coat that fades from black in puppyhood to mature blue by 18 months of age",
+      "Long, lean, well-balanced head with a flat skull, very slight stop, black nose with wide nostrils, and full whiskers and beard",
+      "Deep, powerful jaws closing in a scissor or level bite with large white teeth and dark-pigmented gums and roof of the mouth",
+      "Small to medium dark or dark-hazel eyes showing a sharp, alert terrier expression",
+      "Thin, small-to-medium V-shaped ears folded forward close to the cheeks",
+      "Clean, moderately long neck set into fine, sloping shoulders, a short level back, deep chest, and muscular hindquarters",
+      "High-set, straight tail of moderate length carried erect and jauntily",
+      "Compact, fairly round feet with thick pads and black nails"
     ]
   },
 
   temperament: {
     traits: [
-      "Alert, spirited, and keenly observant of surroundings",
-      "Affectionate, loyal, and deeply people-oriented with family",
-      "Courageous, determined, and possessing disciplined terrier gameness",
-      "Intelligent, playful, and entertaining companion",
-      "Watchful and vocal home sentry that promptly announces visitors",
-      "Strong-willed and independent, requiring consistent, confident guidance",
-      "High prey drive toward small animals, rodents, rabbits, and cats",
-      "Can be assertive or territorial toward unfamiliar dogs, especially of the same sex",
-      "Affectionate and playful with older, respectful children",
-      "Adaptable to active suburban or urban living when given sufficient exercise"
+      "Alert, animated, and brimming with classic terrier character",
+      "Affectionate, loyal, and strongly people-oriented with its household",
+      "Brave, determined, and confident when faced with a challenge",
+      "Smart, playful, and adaptable to active family routines",
+      "Vigilant watchdog that quickly alerts the home to unusual activity",
+      "Strong-willed and independent enough to test inconsistent rules",
+      "High prey drive toward small animals and wildlife",
+      "Often assertive around unfamiliar dogs, making off-leash dog parks a poor fit"
     ],
 
     scores: {
@@ -176,7 +169,7 @@ export const kerry_blue_terrier: Breed = {
   care: {
     exercise: {
       level:
-        "High; an energetic, muscular sporting terrier requiring daily vigorous physical exercise and engaging mental tasks",
+        "Moderate to high; energetic outdoors during walks, jogs, fetch, and sports, yet happy to settle beside its owners indoors once exercised.",
 
       minutesPerDay: {
         min: 60,
@@ -184,11 +177,10 @@ export const kerry_blue_terrier: Breed = {
       },
 
       activities: [
-        "Daily brisk neighborhood walks, jogging, and vigorous trail hikes",
-        "Interactive fetch, ball retrieving, and tug games in a securely fenced yard",
-        "Canine sports including agility, obedience, rally, barn hunt, dock diving, and herding",
-        "Scentwork, tracking games, and puzzle-toy food foraging",
-        "Swimming and water retrieving in safe lakes or calm rivers"
+        "Daily brisk walks, jogging, and lively outdoor fetch sessions",
+        "Canine sports such as agility, obedience, rally, barn hunt, herding, and dock diving",
+        "Scent games, puzzle feeders, and interactive training",
+        "Supervised play in a securely fenced yard"
       ]
     },
 
@@ -196,36 +188,34 @@ export const kerry_blue_terrier: Breed = {
       level: "High",
 
       brushing:
-        "Brush and comb thoroughly two to three times weekly using a slicker brush, pin brush, and wide-toothed metal comb down to the skin to prevent the soft wavy curls from tangling or matting.",
+        "Brush and comb thoroughly at least once to three times each week down to the skin to keep the soft, non-shedding wavy coat free of tangles and mats.",
 
       bathing:
-        "Bathe every four to six weeks using a gentle canine moisturizing shampoo and conditioner, followed by blow-drying while brushing to fluff the wavy coat for trimming.",
+        "Bathe on a regular four-to-six-week schedule or ahead of full trims, using a gentle moisturizing shampoo and blow-drying while brushing.",
 
       notes: [
-        "Schedule professional or skilled home scissoring and clipper trimming every six to eight weeks to maintain the signature sculpted terrier outline and beard.",
-        "Wash and dry the facial beard and whiskers regularly after meals to prevent food buildup and odor.",
-        "Inspect the folded drop ears weekly for hair growth inside the canal, wax buildup, or moisture, cleaning gently with an approved veterinary cleanser.",
-        "Check between toes and footpads regularly for burrs, mats, or painful keratinized growths (spiculosis).",
-        "Trim black nails every two to three weeks to maintain compact round foot posture.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste."
+        "Plan for full professional or skilled home grooming every six to eight weeks—clipping the head, ears, neck, and underside and scissoring the body coat.",
+        "Rinse and dry the beard after meals to keep it clean and odor-free.",
+        "Trim black nails at least weekly to maintain compact round feet.",
+        "Clean the forward-folded ears at least twice a month and check for excess hair or wax.",
+        "Brush teeth regularly to keep gums and dentition healthy."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; highly intelligent, quick-witted, and eager to engage with its handler, yet strong-willed and stubborn if handled harshly or bored by repetition",
+        "Moderate; bright and quick to learn, yet spirited and strong-willed enough to need an engaging, consistent instructor experienced with terriers.",
 
       tips: [
-        "Use positive reinforcement, high-value food treats, and enthusiastic interactive play.",
-        "Keep instructional sessions brisk, varied, and engaging (5 to 10 minutes) to prevent mental boredom.",
-        "Begin impulse-control, loose-leash walking, and calm greeting manners early in puppyhood.",
-        "Never use harsh physical punishment or repetitive drilling, which provoke terrier stubbornness and resistance.",
-        "Always exercise within a securely fenced area or on a sturdy leash; intense prey drive triggers instant pursuit of squirrels or small mammals.",
-        "Teach a reliable leave-it and quiet command early to channel vocal and investigative habits."
+        "Enroll in puppy kindergarten and beginner obedience with an instructor familiar with terrier temperament.",
+        "Keep sessions upbeat, varied, and reward-driven rather than repetitive or harsh.",
+        "Channel sharp intelligence into dog sports such as agility, rally, barn hunt, or obedience.",
+        "Skip crowded off-leash dog parks; favor controlled outings, leashed walks, and structured playdates.",
+        "Practice solid recall and impulse control early, especially around small wildlife."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, calm vaccinated dogs of varied sizes, household noises, vehicles, and grooming handling. Early structured socialization is critical to temper natural terrier dog-assertiveness and ensure poised manners in public."
+        "Start calm, positive exposure to varied people, everyday noises, grooming tools, and well-mannered dogs early in puppyhood. Regular structured outings outside dog parks build steady public manners while respecting natural terrier assertiveness."
     },
 
     livingEnvironment: {
@@ -234,83 +224,77 @@ export const kerry_blue_terrier: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool and wet climates, where the dense wavy coat offers solid protection",
-        "Warm climates, provided indoor air conditioning, shade, and fresh water are available and exercise occurs during cooler morning or evening hours"
+        "Cool and damp climates suited to its Irish heritage and dense coat",
+        "Warm climates, with shade, fresh water, air-conditioned indoor rest, and cooler-hour walks"
       ],
 
       aloneTimeTolerance:
-        "Moderate when given sufficient daily exercise and mental enrichment, though prolonged isolation can lead to boredom barking or destructive chewing."
+        "Moderate once well exercised, though this people-focused terrier strongly prefers being part of daily family activities."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active medium-sized breeds, adjusted for age, activity level, and metabolic rate.",
+      "Complete, balanced commercial or veterinarian-approved home-prepared dog food matched to life stage and activity level.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals daily until six months of age, then two meals daily on a balanced growth formula.",
       adult:
-        "Two measured meals daily to support steady energy and comfortable digestion.",
+        "Two measured meals daily to maintain steady energy and lean muscle.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for slower metabolism and joint maintenance."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, muscular body silhouette where the ribs are easily felt beneath the wavy coat. Divide daily food into two distinct meals, restrict vigorous exercise immediately before and after eating, and provide cool, clean drinking water continuously.",
+      "Measure every meal consistently and keep an eye on rib coverage, as some individuals gain weight easily when given excess calories or too many training treats. Divide daily food into two meals, keep fresh drinking water available at all times, and check with a veterinarian if weight creeps upward.",
 
     considerations: [
-      "Maintain a lean, athletic body condition; excess weight places unnecessary mechanical wear on hips and stifles.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Wipe the facial beard after meals or use a water bowl design that minimizes beard soaking.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water at all times.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Count training treats within the daily calorie budget to prevent excess weight gain.",
+      "Wipe the beard after eating and drinking to keep facial hair tidy.",
+      "Avoid fatty table scraps and foods unsafe for dogs.",
+      "Transition gradually over five to seven days when switching diets."
     ],
 
     note:
-      "Caloric needs vary based on age, activity level, and canine sports participation. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Energy needs vary between sporty competitors and relaxed companions; confirm exact portions with a veterinarian."
   },
 
   health: {
     overview:
-      "The Kerry Blue Terrier is a hardy, robust, and long-lived working terrier with a typical life expectancy of 12 to 15 years. Primary health priorities include orthopedic screening for hip dysplasia, annual ophthalmic examinations for hereditary cataracts and dry eye, DNA screening for Factor XI deficiency, degenerative myelopathy, and multiple system degeneration (PNA), and routine dermatological monitoring for breed-specific spiculosis and follicular cysts.",
+      "The Kerry Blue Terrier is generally a hardy, long-lived terrier with a typical lifespan of 12 to 15 years. Peer-reviewed veterinary genetics research has established two breed-relevant inherited conditions—coagulation Factor XI deficiency and canine multiple system degeneration (CMSD, caused by a SERAC1 variant)—while routine pre-breeding health priorities include hip evaluations, specialist eye exams, and monitoring for breed-associated skin issues such as spiculosis and benign follicular cysts.",
 
     commonConditions: [
-      "Factor XI Deficiency (F11 gene mutation) — an inherited autosomal recessive blood coagulation disorder causing mild spontaneous bleeding or prolonged hemorrhage following surgery or trauma, screenable via DNA testing",
-      "Progressive Neuronal Abiotrophy / Canine Multiple System Degeneration (PNA / CMSD / SERAC1 gene mutation) — a rare autosomal recessive neurodegenerative disorder causing progressive cerebellar ataxia, tremors, and loss of balance in young dogs, preventable via DNA testing",
-      "Degenerative Myelopathy (DM / SOD1 gene mutation) — an adult-onset progressive neurodegenerative spinal cord disorder causing gradual hind-limb weakness and ataxia, screenable via DNA testing",
-      "Spiculosis (follicular hyperkeratosis) — a breed-specific dermatological condition characterized by thick, brittle, whisker-like keratin spicules protruding from hair follicles on the limbs and hocks that can cause localized pain or secondary infection",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, monitored through pre-breeding radiographic screening",
-      "Ocular conditions — hereditary cataracts, entropion, distichiasis, and keratoconjunctivitis sicca (dry eye), monitored through annual certified veterinary ophthalmologist examinations",
-      "Sebaceous cysts and benign hair follicle tumors — non-cancerous skin nodules relatively common in mature individuals, monitored during regular grooming"
+      "Factor XI deficiency — an established inherited blood-clotting disorder in the breed; both homozygous and heterozygous dogs can show mild post-traumatic or post-operative bleeding, making pre-surgical awareness and DNA screening valuable",
+      "Canine multiple system degeneration (CMSD / progressive neuronal abiotrophy) — a rare, established autosomal recessive neurodegenerative movement disorder linked to a SERAC1 gene variant, preventable through DNA screening of breeding dogs",
+      "Hip dysplasia — a developmental hip joint risk monitored through pre-breeding radiographic evaluation",
+      "Eye conditions — potential hereditary cataracts, eyelid issues, or dry eye monitored via specialist veterinary ophthalmologist exams",
+      "Skin conditions — occasional reports of follicular hyperkeratosis (spiculosis) on the limbs and benign sebaceous or hair-follicle cysts in mature dogs"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip clearances, annual specialist eye exams, and DNA clearances for Factor XI deficiency, degenerative myelopathy, and PNA (SERAC1).",
-      "Inform veterinarians prior to any surgical or dental procedure if Factor XI status is unknown so coagulation parameters can be verified.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints.",
-      "Inspect and clean the folded drop ears weekly, removing excess canal hair gently and drying moisture.",
-      "Check limbs, hocks, and paws regularly during grooming for spiculosis or follicular cysts.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Ask breeders for pre-breeding hip evaluations, specialist eye exams, and available DNA screening results (including Factor XI and SERAC1 CMSD).",
+      "Alert your veterinarian before surgeries or dental extractions if a dog's Factor XI status has not been tested.",
+      "Keep the dog at a lean, athletic weight to protect hip and stifle joints.",
+      "Clean the folded ears at least twice monthly and inspect the skin and lower limbs during weekly brushing.",
+      "Maintain annual veterinary wellness visits, dental care, vaccinations, and year-round parasite control."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "DNA marker test for Factor XI Deficiency (F11 gene)",
-      "DNA marker test for Canine Multiple System Degeneration / PNA (SERAC1 gene)",
-      "DNA marker test for Degenerative Myelopathy (DM / SOD1 gene)"
+      "Radiographic hip evaluation prior to breeding",
+      "Veterinary ophthalmologist eye examination prior to breeding",
+      "DNA test for coagulation Factor XI deficiency",
+      "DNA test for SERAC1-associated canine multiple system degeneration (CMSD)"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong, muscular jaws with large, even white teeth in a scissor or level bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine toothpaste and have a veterinarian inspect the strong scissor or level bite during routine checkups.",
 
     earCare:
-      "Inspect the thin V-shaped folded ears weekly for wax accumulation, excess canal hair, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the thin V-shaped drop ears regularly and clean at least twice a month with a veterinarian-approved solution to prevent wax buildup or irritation.",
 
     skinCare:
-      "Part the wavy single coat during regular brushing to inspect the skin for sebaceous cysts, redness, or thick keratin spicules (spiculosis), especially along the hocks and lower legs."
+      "Part the dense wavy coat during weekly brushing to check the skin and lower legs for cysts, redness, or thickened keratin spicules."
   },
 
   suitability: {
@@ -321,80 +305,69 @@ export const kerry_blue_terrier: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Active individuals and families seeking a spirited, loyal, and virtually non-shedding companion",
-      "Experienced dog owners familiar with strong-willed terriers and positive, consistent leadership",
-      "Apartment or house dwellers who provide daily brisk walks, mental games, and structured training",
-      "Canine sports enthusiasts involved in agility, obedience, rally, barn hunt, or dock diving",
-      "Owners committed to regular coat brushing and professional grooming every six to eight weeks"
+      "Active owners and families wanting a lively, loyal, virtually non-shedding companion",
+      "Experienced handlers ready to guide a smart, strong-willed terrier with upbeat consistency",
+      "Apartment or house dwellers who provide daily exercise, mental work, and regular outings",
+      "Dog-sport enthusiasts interested in agility, obedience, rally, barn hunt, or dock diving",
+      "Owners committed to weekly combing and professional grooming every six to eight weeks"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for terrier stubbornness and high energy",
-      "Multi-pet households with free-roaming cats, rabbits, or small rodents vulnerable to strong prey drive",
-      "Owners seeking an off-leash dog park companion that coexists effortlessly with unfamiliar same-sex dogs",
-      "Individuals unwilling to commit to frequent brushing and regular scissoring upkeep"
+      "First-time owners seeking an effortlessly compliant, low-drive dog",
+      "Homes with free-roaming small pets vulnerable to strong terrier prey drive",
+      "Owners hoping for an easygoing off-leash dog-park regular",
+      "Households unwilling to maintain frequent brushing and regular full trims"
     ]
   },
 
   funFacts: [
-    "Kerry Blue Terriers are born completely jet black; as they mature, a dominant fading gene causes their coat to gradually transition through deep slate and steel shades into their signature silver-blue color by 18 months of age.",
-    "During the Irish War of Independence in the early 1920s, Irish nationalist leader Michael Collins owned a prized Kerry Blue Terrier named Convict 224 and even proposed making the breed the official national dog of Ireland.",
-    "The Kerry Blue Terrier was the very first breed officially recognized and registered by the newly formed Irish Kennel Club in 1922, and early show champions were required to pass a rigorous 'Teastas Mor' gameness trial with badgers and rabbits.",
-    "Unlike most terriers whose wiry coats require hand-stripping, the Kerry Blue Terrier possesses a soft, silky, wavy single coat that does not shed seasonally and is sculpted with scissors and clippers.",
-    "In its native County Kerry, local farmers prized the breed's aquatic strength, using the dogs to dive into deep, cold rivers to hunt otters and retrieve waterfowl.",
-    "At Crufts 2000, the largest dog show in the world, an English-bred Kerry Blue Terrier named Ch. Torums Scarf Michael won Best in Show, later repeating the feat at the Westminster Kennel Club Dog Show in 2003."
+    "Kerry Blue Terrier puppies are born solid black; a dominant coat-fading gene gradually clears the hair through dark slate or brownish stages into mature blue-grey by 18 months of age.",
+    "Because the single wavy coat does not shed seasonally, many people with mild pet allergies tolerate the breed well—though it trades shedding for regular brushing and scissoring.",
+    "Traditional Irish lore links the breed to rural tenant farmers who needed a silent, all-purpose hunting dog that could work without alerting aristocratic estates guarded by Irish Wolfhounds.",
+    "First shown in 1913 as the Irish Terrier (Blue), the breed debuted under the name Kerry Blue Terrier at a Killarney show in 1916.",
+    "Despite its glamorous sculpted coat, the Kerry was originally built for rugged work—diving into cold rivers after otters and facing badgers underground."
   ],
 
   faq: [
     {
       question: "What is a Kerry Blue Terrier?",
       answer:
-        "The Kerry Blue Terrier is a medium-sized, muscular Irish working terrier recognized for its soft, wavy, non-shedding blue-grey coat, sculpted beard, keen expression, and spirited, loyal companion temperament."
+        "The Kerry Blue Terrier is a compact, muscular medium-sized Irish terrier famous for its soft, wavy, non-shedding blue-grey coat, bearded face, keen expression, and lively, people-oriented loyalty."
     },
     {
       question: "Why are Kerry Blue Terrier puppies born black?",
       answer:
-        "Puppies are born solid black and carry a dominant coat-fading gene that gradually transforms the hair color into any shade of blue-grey before 18 months of age."
+        "Puppies are born black and carry a dominant fading gene that gradually lightens the coat to any shade of blue-grey by 18 months of age."
     },
     {
-      question: "How tall and heavy is a Kerry Blue Terrier?",
+      question: "How tall and heavy is an adult Kerry Blue Terrier?",
       answer:
-        "Adult males stand 18 to 19.5 inches at the withers (ideal 18.5 inches) and weigh 33 to 40 pounds, while adult females stand 17.5 to 19 inches and weigh proportionately less at approximately 28 to 35 pounds."
+        "Adult males stand 18 to 19.5 inches at the withers (ideal 18.5 inches) and weigh 33 to 40 pounds, while females stand 17.5 to 19 inches and weigh proportionately less."
     },
     {
       question: "How long does a Kerry Blue Terrier live?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 15 years."
+        "Typical life expectancy is 12 to 15 years with healthy weight management and routine veterinary care."
     },
     {
       question: "Do Kerry Blue Terriers shed, and how much grooming do they need?",
       answer:
-        "They are virtually non-shedding because they have a single wavy coat without an undercoat, making them popular with allergy sufferers; however, their coat requires brushing two to three times weekly to prevent mats and professional trimming every six to eight weeks."
+        "They do not shed seasonally because they have a single wavy coat, but they need thorough brushing and combing at least weekly plus a full trim every six to eight weeks."
     },
     {
       question: "Can a Kerry Blue Terrier live in an apartment?",
       answer:
-        "Yes. Because they are medium-sized, clean, and non-shedding, they adapt well to apartment living provided they receive 60 to 90 minutes of daily exercise and mental stimulation."
+        "Yes. Their medium size, clean non-shedding coat, and willingness to relax indoors after exercise allow them to adapt well to apartment life when given 60 to 90 minutes of daily activity."
     },
     {
-      question: "Are Kerry Blue Terriers good with other dogs and cats?",
+      question: "Do Kerry Blue Terriers get along with other dogs and small pets?",
       answer:
-        "They have a high prey drive toward cats and small pets and can be assertive or territorial toward unfamiliar dogs, particularly of the same sex; early socialization and supervision are essential."
+        "They have strong prey drive toward small animals and can be assertive around unfamiliar dogs, so supervised introductions and structured outings outside off-leash dog parks work best."
     },
     {
-      question: "Are Kerry Blue Terriers good family pets and good with children?",
+      question: "What health screenings are recommended for Kerry Blue Terriers?",
       answer:
-        "Yes, with active families. They are affectionate, playful, and loyal with family members and do well with older, respectful children when properly trained and socialized."
-    },
-    {
-      question: "How much exercise does a Kerry Blue Terrier need each day?",
-      answer:
-        "The breed requires 60 to 90 minutes of daily physical activity, including brisk walks, jogging, interactive fetch, and canine sports like agility or barn hunt."
-    },
-    {
-      question: "What health tests are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip dysplasia, annual veterinary ophthalmologist eye exams, and DNA tests for Factor XI deficiency, degenerative myelopathy (DM), and canine multiple system degeneration (PNA)."
+        "Key pre-breeding evaluations include hip screening and a veterinary ophthalmologist eye exam, alongside DNA tests for Factor XI deficiency and SERAC1-associated canine multiple system degeneration."
     }
   ],
 
@@ -407,16 +380,23 @@ export const kerry_blue_terrier: Breed = {
     "kerry-blue-terrier-factor-xi-study-1994",
     "kerry-blue-terrier-serac1-msd-study-2024",
     "wikimedia-kerry-blue-terrier-peter-kumpert",
-    "wikimedia-kerry-blue-terrier-052004-eponimm"
+    "wikimedia-kerry-blue-terrier-052004-eponimm",
+    "natureserve-canis-lupus-familiaris",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Scientific Name: Canis lupus familiaris (ITIS TSN 726821)"
+        }
+      ],
+      verifiedOn: "2026-11-25",
+      note: "Verified standard domestic-dog trinomial taxonomy across the catalog."
     },
 
     alternateNames: {
@@ -430,16 +410,16 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "fci-kerry-blue-terrier-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: KERRY BLUE TERRIER (3)"
+          locator: "Official nomenclature: KERRY BLUE TERRIER (3); Français: TERRIER KERRY BLUE"
         },
         {
-          id: "akc-kerry-blue-terrier-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "History: Irish Blue Terrier, Kerry"
+          locator: "alternateNames: Irish Blue Terrier"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified across FCI Standard No. 3, FCI Nomenclature, The Royal Kennel Club, and AKC."
+      verifiedOn: "2026-11-25",
+      note: "Verified across FCI Standard No. 3, FCI Nomenclature, and The Dog API."
     },
 
     group: {
@@ -448,12 +428,12 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 3 Terriers, Section 1 Large and medium sized Terriers, Without working trial"
+          locator: "FCI CLASSIFICATION: Group 3 Terriers, Section 1 Large and medium sized Terriers, Without working trial"
         },
         {
           id: "fci-kerry-blue-terrier-nomenclature",
           role: "verified",
-          locator: "Group 3, Section 1 Large and medium sized Terriers, without working trial"
+          locator: "Group 3, Section 1 Large and medium sized Terriers, not subject to a working trial"
         },
         {
           id: "the-kennel-club-kerry-blue-terrier-breed-standard",
@@ -464,11 +444,15 @@ export const kerry_blue_terrier: Breed = {
           id: "akc-kerry-blue-terrier-breed-standard",
           role: "verified",
           locator: "Terrier Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "group: Terrier"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-25",
+      note: "User-facing group omits registry and section names per Rule 5."
     },
 
     origin: {
@@ -477,20 +461,20 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "verified",
-          locator: "ORIGIN: Ireland; BRIEF HISTORICAL SUMMARY (County Kerry)"
+          locator: "ORIGIN: Ireland"
         },
         {
           id: "fci-kerry-blue-terrier-nomenclature",
           role: "verified",
-          locator: "Country of origin: Ireland"
+          locator: "Country of origin of the breed: IRELAND; definitive acceptance 1963-04-02"
         },
         {
-          id: "the-kennel-club-kerry-blue-terrier-breed-standard",
+          id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Origin and development in County Kerry, Ireland"
+          locator: "History: named for its home county (County Kerry, Ireland)"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -500,22 +484,21 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "UTILIZATION (otters in deep waters, badgers underground, vermin, watchdog, companion), GENERAL APPEARANCE, 1928 worldwide popularity"
         },
         {
           id: "the-kennel-club-kerry-blue-terrier-breed-standard",
           role: "verified",
-          locator: "General Appearance, Characteristics, Temperament"
+          locator: "Characteristics, Coat, Colour (1913 first shown as Irish Terrier (Blue), 1916 Killarney, 1922 KC recognition)"
         },
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed, History, Did You Know (1918–1919 North American imports, 1922 AKC recognition)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesized in original prose from FCI Standard No. 3, The Royal Kennel Club, and AKC official records."
+      verifiedOn: "2026-11-25",
+      note: "Rewritten completely from scratch in original prose grounded in FCI 3, RKC, and AKC."
     },
 
     physical: {
@@ -524,22 +507,26 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
-        },
-        {
-          id: "the-kennel-club-kerry-blue-terrier-breed-standard",
-          role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Mouth, Body, Tail, Coat, Colour, Size"
+          locator: "HEAD, EYES, EARS, MOUTH (dark gums/roof), BODY, TAIL, LIMBS, COAT (soft, plentiful, wavy), COLOUR (any shade of blue with or without black points; black/tan up to 18 months)"
         },
         {
           id: "akc-kerry-blue-terrier-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Coat, Color"
+          locator: "Size, Head, Coat, Color (clearing from black at birth to mature blue-gray; black at 18 months or older disqualified)"
+        },
+        {
+          id: "the-kennel-club-kerry-blue-terrier-breed-standard",
+          role: "verified",
+          locator: "Head and Skull, Colour (small white chest patch permissible)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "coatColors lists 17 generic canine colours including Brindle, Brown/Chocolate, Cream, Fawn, Gold/Yellow, Liver, Merle, Red, and White; official standards allow only shades of blue-grey (with puppy black/tan transition up to 18 months)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Conformation, upstanding terrier silhouette, soft wavy blue coat, dark gums, and distinctive features follow official standards."
+      verifiedOn: "2026-11-25",
+      note: "Aligned coat, colour, and anatomical features with FCI Standard No. 3, AKC, and RKC."
     },
 
     "physical.height": {
@@ -548,17 +535,21 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Dogs: 18 - 19,5 inches (45,5 to 49,5 cm). Bitches: 17,5 - 19 inches (44,5 to 48 cm)."
+          locator: "SIZE AND WEIGHT: Height at the withers: Dogs: 18 - 19,5 inches (45,5 to 49,5 cm). Bitches: 17,5 - 19 inches (44,5 to 48 cm)."
         },
         {
           id: "akc-kerry-blue-terrier-breed-standard",
           role: "verified",
-          locator: "Size: ideal 18.5 inches for a dog; primary preference 18 to 19.5 inches for a dog, and 17.5 to 19 inches for a bitch"
+          locator: "Size: ideal 18.5 inches for a dog; primary preference 18 to 19.5 inches for a dog, 17.5 to 19 inches for a bitch"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height: male 46–50 cm, female 44–48 cm (FCI 3 states inches first: 18–19.5 in / 17.5–19 in)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Preserved in published unit of inches (18 to 19.5 in for males, 17.5 to 19 in for females) stated first in FCI Standard No. 3 and AKC standard."
+      verifiedOn: "2026-11-25",
+      note: "Preserved in exact published inches stated first in FCI Standard No. 3 and AKC Official Standard per Rule 9."
     },
 
     "physical.weight": {
@@ -572,12 +563,23 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-standard",
           role: "verified",
-          locator: "Weight: The most desirable weight for a fully developed dog is from 33 to 40 pounds, bitches weighing proportionately less."
+          locator: "Weight: 33 to 40 pounds for a fully developed dog, bitches weighing proportionately less."
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "weight: male 15–18 kg, female 14–18 kg (official standards state pounds first for males and publish no numeric female weight range)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Preserved in published unit of pounds (33 to 40 lb for males, and proportionately less at approximately 28 to 35 lb for females) stated first in FCI Standard No. 3 and AKC standard."
+      verifiedOn: "2026-11-25",
+      note: "Kept exact published pounds for males (33–40 lb) per Rule 9 and set female to null per Rule 3 because neither FCI 3 nor AKC publishes a numeric female pound range."
+    },
+
+    "physical.weight.female.max": {
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "FCI Standard No. 3 and the AKC Official Standard specify only 'proportionately less' for females without publishing a numeric range in pounds."
     },
 
     "physical.lifespanYears": {
@@ -586,16 +588,16 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-15 years"
+          locator: "Life Expectancy: 12–15 years"
         },
         {
-          id: "the-kennel-club-kerry-blue-terrier-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longevity and actuarial health profile (12-15 years)"
+          locator: "lifespanYears: 12–15"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-25",
+      note: "Consistent across AKC and The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -604,15 +606,15 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (1/5) - Single coat does not shed"
+          locator: "Grooming & Did You Know: does not shed; weekly brushing and combing required"
         },
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "verified",
-          locator: "COAT: Soft, plentiful, and wavy"
+          locator: "COAT: soft, plentiful, and wavy"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -622,16 +624,16 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "verified",
-          locator: "Lips: Tight fitting, dark pigmented"
+          locator: "Clean terrier mouth with dark gums and tight lips"
         },
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: Drooling Level"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Tight-fitting lips prevent drooling."
+      verifiedOn: "2026-11-25",
+      note: null
     },
 
     "temperament.traits": {
@@ -640,20 +642,25 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Terrier character throughout; keen and alert expression"
+          locator: "BEHAVIOUR / TEMPERAMENT: Terrier character throughout; keen and alert expression"
         },
         {
           id: "the-kennel-club-kerry-blue-terrier-breed-standard",
           role: "verified",
-          locator: "Characteristics and Temperament: Disciplined gameness, alert determination"
+          locator: "Characteristics: attitude of alert determination, definite terrier style and character"
         },
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Temperament: Alert, adaptable, animated, people-oriented"
+          locator: "About the Breed & Training: alert, smart, people-oriented, adaptable, animated; dog parks not recommended"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "temperament.traits: Alert, intelligent, loyal, playful, energetic, courageous"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -663,17 +670,11 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "the-kennel-club-kerry-blue-terrier-breed-standard",
-          role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented working terrier temperament, high family affection, and dog assertiveness."
+      note: "Editorial 1–5 ratings synthesized from FCI 3, RKC, and AKC temperament profiles."
     },
 
     care: {
@@ -682,17 +683,11 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "the-kennel-club-kerry-blue-terrier-breed-standard",
-          role: "cited",
-          locator: "Coat care, scissoring, and exercise management"
+          locator: "Grooming (weekly brushing, 6–8 week full groom, weekly nails, twice-monthly ear cleaning), Exercise, Training (avoid dog parks), Nutrition"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active terrier management with wavy single-coat scissoring and brushing protocols."
+      note: "Synthesizes AKC care guidance in original prose."
     },
 
     "care.exercise.level": {
@@ -701,15 +696,10 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
-        },
-        {
-          id: "fci-kerry-blue-terrier-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Working utility terrier with endurance"
+          locator: "Exercise: two speeds — outdoor play, fetch, jogging, and dog sports, plus relaxing beside owners"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -717,19 +707,13 @@ export const kerry_blue_terrier: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-kerry-blue-terrier-breed-standard",
-          role: "cited",
-          locator: "Exercise requirements: Over 1 hour per day"
-        },
-        {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
+          locator: "Daily walks, fetch, jogging, and canine sports recommendations"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic, muscular working terrier."
+      note: "Editorial estimate of 60 to 90 minutes of daily activity."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -738,10 +722,10 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (4/5); non-shedding companion"
+          locator: "About the Breed & Exercise: adaptable, non-shedding, relaxes indoors after exercise"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -751,10 +735,10 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
+          locator: "Exercise: outdoor play and fetch"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -764,15 +748,10 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "verified",
-          locator: "COAT: Plentiful, dense wavy coat adapted to Irish climate"
-        },
-        {
-          id: "akc-kerry-blue-terrier-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: adaptable to cool and temperate climates"
+          locator: "COAT: plentiful, dense wavy coat developed in Ireland"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -782,7 +761,7 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate; people-oriented companion"
+          locator: "Exercise: people-oriented breed wanting to engage with owners"
         }
       ],
       verifiedOn: null,
@@ -795,12 +774,11 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
+          locator: "Nutrition: high-quality age-appropriate food, watch calories and treats to prevent overweight"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium-sized terrier breeds."
+      note: "Grounded in AKC nutrition guidance."
     },
 
     "nutrition.feedingFrequency": {
@@ -809,11 +787,11 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Age-appropriate diet guidance (puppy, adult, senior)"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
@@ -822,22 +800,21 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "kerry-blue-terrier-factor-xi-study-1994",
           role: "verified",
-          locator: "Inherited coagulation Factor XI deficiency in Kerry Blue Terriers"
+          locator: "Knowler et al. (J Am Vet Med Assoc 1994;205(11):1557-61, PMID 7730123): Factor XI deficiency with autosomal inheritance and mild bleeding in homozygous and heterozygous dogs"
         },
         {
           id: "kerry-blue-terrier-serac1-msd-study-2024",
           role: "verified",
-          locator: "SERAC1 nonsense variant (c.1536G>A) causing canine multiple system degeneration (PNA) in Kerry Blue Terriers"
+          locator: "Genes (Basel) 2024 Oct 25;15(11):1378 (PMC11593849 / PMID 39596578): autosomal recessive SERAC1 variant causing canine multiple system degeneration"
         },
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Health overview, hip evaluations, eye exams, and DNA testing"
+          locator: "Health: generally healthy breed; National Breed Club recommends Hip Evaluation and Ophthalmologist Evaluation, plus breeder DNA testing"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesizes peer-reviewed genetics research with national kennel club health screening protocols."
+      verifiedOn: "2026-11-25",
+      note: "Corrected Factor XI inheritance detail (mild bleeding reported in both homozygous and heterozygous dogs per Knowler et al. 1994)."
     },
 
     "health.commonConditions": {
@@ -846,22 +823,21 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "kerry-blue-terrier-factor-xi-study-1994",
           role: "verified",
-          locator: "Factor XI deficiency (F11 mutation) bleeding disorder"
+          locator: "PMID 7730123: Factor XI deficiency in Kerry Blue Terriers"
         },
         {
           id: "kerry-blue-terrier-serac1-msd-study-2024",
           role: "verified",
-          locator: "Canine Multiple System Degeneration (SERAC1 mutation)"
+          locator: "PMC11593849: SERAC1-associated canine multiple system degeneration"
         },
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Hip dysplasia, spiculosis, degenerative myelopathy, and eye conditions"
+          locator: "Health: hip evaluation and ophthalmologist evaluation priorities"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Details documented genetic and dermatological conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-25",
+      note: "Distinguishes peer-reviewed inherited disorders (Factor XI, SERAC1 CMSD) from screening priorities and occasional dermatological reports."
     },
 
     "health.preventiveCare": {
@@ -870,35 +846,39 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "cited",
-          locator: "Routine care, pre-surgical coagulation checks, ear hygiene, and wellness exams"
+          locator: "Health, Grooming (twice-monthly ear cleaning), and Nutrition (weight control)"
+        },
+        {
+          id: "kerry-blue-terrier-factor-xi-study-1994",
+          role: "cited",
+          locator: "Post-operative bleeding precautions for untested dogs"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to Kerry Blue Terriers."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-kerry-blue-terrier-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests From the National Breed Club: Hip Evaluation, Ophthalmologist Evaluation; DNA testing as breeder best practice"
+        },
+        {
           id: "kerry-blue-terrier-factor-xi-study-1994",
           role: "verified",
-          locator: "Genetic screening for Factor XI deficiency (F11)"
+          locator: "Factor XI deficiency screening"
         },
         {
           id: "kerry-blue-terrier-serac1-msd-study-2024",
           role: "verified",
-          locator: "Genetic screening for SERAC1 multiple system degeneration"
-        },
-        {
-          id: "akc-kerry-blue-terrier-breed-profile",
-          role: "verified",
-          locator: "Recommended evaluations: Hip dysplasia, certified eye exam, and DM DNA test"
+          locator: "SERAC1 CMSD DNA screening"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Screenings summarize published veterinary genetics and parent club protocols."
+      verifiedOn: "2026-11-25",
+      note: null
     },
 
     "health.dentalCare": {
@@ -907,52 +887,42 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "cited",
-          locator: "Teeth: large, even and white, scissor bite"
-        },
-        {
-          id: "akc-kerry-blue-terrier-breed-profile",
-          role: "cited",
-          locator: "Routine dental care"
+          locator: "Teeth: large, even and white; scissor bite (level bite acceptable)"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
+          id: "akc-kerry-blue-terrier-breed-profile",
+          role: "cited",
+          locator: "Grooming: clean ears at least twice a month"
+        },
+        {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "cited",
           locator: "Ears: thin and not large, carried forward close to sides of head"
-        },
-        {
-          id: "akc-kerry-blue-terrier-breed-profile",
-          role: "cited",
-          locator: "Ear hygiene and cleaning twice monthly"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for folded terrier drop ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-kerry-blue-terrier-official-standard",
-          role: "cited",
-          locator: "Coat texture and skin care"
-        },
-        {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "cited",
-          locator: "Skin inspection for cysts and spiculosis during grooming"
+          locator: "Grooming: weekly brushing and combing down to the skin"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -961,17 +931,11 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "the-kennel-club-kerry-blue-terrier-breed-standard",
-          role: "cited",
-          locator: "Characteristics and lifestyle suitability"
+          locator: "About the Breed, Grooming, Exercise, and Training profiles"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, grooming demands, and prey drive."
+      note: "Editorial suitability assessment based on activity, grooming, and terrier assertiveness."
     },
 
     funFacts: {
@@ -980,16 +944,21 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Black-to-blue puppy coat fading gene, Michael Collins heritage, 1922 IKC first breed, otter hunting"
+          locator: "Did You Know: black-to-blue dominant fading gene by 18 months, non-shedding coat, tenant-farmer lore vs. Irish Wolfhounds"
+        },
+        {
+          id: "the-kennel-club-kerry-blue-terrier-breed-standard",
+          role: "verified",
+          locator: "1913 first shown as Irish Terrier (Blue); 1916 Killarney debut as Kerry Blue Terrier"
         },
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "verified",
-          locator: "Brief historical summary: County Kerry working utility and 18-month blue clearing"
+          locator: "Utilization: tackling otters in deep waters and badgers underground"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-25",
+      note: "Verified facts without registry or show names in user-facing text."
     },
 
     faq: {
@@ -998,24 +967,23 @@ export const kerry_blue_terrier: Breed = {
         {
           id: "fci-kerry-blue-terrier-official-standard",
           role: "verified",
-          locator: "Origin, height (18-19.5 in / 17.5-19 in), weight (33-40 lb), coat, and puppy color transition"
+          locator: "Height (18–19.5 in males, 17.5–19 in females), weight (33–40 lb males, females proportionately less), 18-month blue clearing"
         },
         {
           id: "akc-kerry-blue-terrier-breed-profile",
           role: "verified",
-          locator: "Non-shedding grooming, apartment suitability, dog/cat compatibility, and exercise needs"
+          locator: "Lifespan (12–15 years), non-shedding coat, 6–8 week grooming, apartment suitability, dog-park caution, recommended screenings"
         },
         {
           id: "kerry-blue-terrier-factor-xi-study-1994",
           role: "verified",
-          locator: "Recommended health screening panel"
+          locator: "Factor XI screening"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-25",
+      note: "Original FAQ prose with zero registry or source names per Rule 5."
     }
   },
 
-  updatedOn: "2026-11-12"
+  updatedOn: "2026-11-25"
 };

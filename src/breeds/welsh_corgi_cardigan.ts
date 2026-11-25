@@ -474,6 +474,11 @@ export const welsh_corgi_cardigan: Breed = {
       reliability: "official_standard",
       sources: [
         {
+          id: "fci-welsh-corgi-cardigan-official-standard",
+          role: "verified",
+          locator: "ORIGIN: Great Britain (FCI Standard No. 38, valid 2026-09-08)"
+        },
+        {
           id: "fci-welsh-corgi-cardigan-nomenclature",
           role: "verified",
           locator: "Country of origin of the breed: GREAT BRITAIN; definitive acceptance 1963-11-12"

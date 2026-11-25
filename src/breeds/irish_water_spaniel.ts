@@ -6,22 +6,22 @@ export const irish_water_spaniel: Breed = {
   scientificName: "Canis lupus familiaris",
 
   alternateNames: [
+    "IWS",
     "Shannon Spaniel",
     "Whiptail",
     "Rat-Tail Spaniel",
-    "Bog Dog",
+    "Whip-Tail Spaniel",
+    "Chien d'eau irlandais",
     "Épagneul d'eau irlandais",
     "Irischer Wasserspaniel",
     "Perro de agua irlandés"
   ],
 
-  group:
-    "Retrievers, Flushing Dogs, and Water Dogs; Section 3 — Water Dogs (with working trial; also classified in the Sporting, Gundog, and Gun Dog groups)",
+  group: "Water dogs and sporting retrievers",
 
   origin: {
     country: "Ireland",
-    region:
-      "Southern and western coastal marshes and Shannon River basin, Ireland"
+    region: "Southern coastal marshes and Shannon River basin, Ireland"
   },
 
   images: [
@@ -31,58 +31,58 @@ export const irish_water_spaniel: Breed = {
         "https://commons.wikimedia.org/wiki/File:Irish_Water_Spaniel.jpg",
       title: "Irish Water Spaniel.jpg",
       description:
-        "An adult liver-colored Irish Water Spaniel standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2496,
-      height: 1872,
-      licenseId: "cc-by-sa-3.0",
+        "An adult liver-colored Irish Water Spaniel standing outdoors.",
+      creator: "Canarian",
+      uploader: "Canarian",
+      capturedOn: "2018-09-08",
+      uploadedOn: "2018-09-17",
+      width: 1970,
+      height: 1657,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Irish_Water_Spaniel.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Irish_Water_Spaniel.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Irish_Water_Spaniel_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Ierse_Water_Spaniel.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Irish_Water_Spaniel_600.jpg",
-      title: "Irish Water Spaniel 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Ierse_Water_Spaniel.jpg",
+      title: "Ierse Water Spaniel.jpg",
       description:
-        "An Irish Water Spaniel standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
-      licenseId: "cc-by-sa-3.0",
+        "A standing liver-colored Irish Water Spaniel showing its curly coat and topknot.",
+      creator: "Roete002",
+      uploader: "Roete002",
+      capturedOn: "2011-08-07",
+      uploadedOn: "2023-11-04",
+      width: 3888,
+      height: 2592,
+      licenseId: "cc-by-4.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Irish_Water_Spaniel_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Roete002, Wikimedia Commons, CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Ierse_Water_Spaniel.jpg. License: https://creativecommons.org/licenses/by/4.0/. Changes, if any, must be indicated.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     }
   ],
 
   overview: {
     summary:
-      "A tall, sturdy, and clownish Irish waterfowl retriever instantly recognized by its rich puce-liver coat of crisp, tight ringlets, signature topknot of loose curls, and smooth, tapering 'rat tail' built for icy aquatic work.",
+      "The tallest of all spaniels, this rugged Irish water retriever stands out for its crisply curled purplish-liver waterproof coat, loose curly topknot, smooth tapering rat tail, and playful, devoted personality.",
 
     description:
-      "The Irish Water Spaniel is the tallest of all spaniel breeds, combining substantial bone, a deep barrel-shaped chest, and muscular hindquarters with rolling, energetic movement. Developed in Ireland to retrieve waterfowl from frigid coastal estuaries, peat bogs, and fast-flowing rivers, the dog is protected by a dense, naturally oily double coat of crisp, tight curls that sheds water effortlessly, contrasted by completely smooth, short hair on the face and on the lower tapering portion of its tail. A long, loose topknot of curls crowns the domed skull and falls gracefully over the forehead, framing dark hazel or dark brown eyes full of keen intelligence and good-humored curiosity. In family life, it is affectionate, playful, and deeply loyal to its household, though naturally discerning and reserved with unfamiliar strangers.",
+      "The Irish Water Spaniel is a smart, upstanding, strongly built sporting dog with a slightly rectangular, barrel-chested frame engineered for swimming and retrieving in cold marshes. Its dense, naturally water-repellent liver coat forms tight, crisp ringlets across the neck, body, and legs, set off by a smooth short-haired face, a smooth V-shaped patch on the throat, a signature topknot of long loose curls peaking between the eyes, and a distinctive smooth-tipped rat tail. Large, well-haired, slightly spreading feet and powerful hindquarters drive a free, ground-covering stride with a mild rolling motion. Brave and tireless in the field, it brings an inquisitive, humorous, and affectionate nature into active family homes while remaining calmly discerning with strangers.",
 
     history:
-      "Water-retrieving dogs have worked alongside Irish wildfowlers along the Shannon River basin and Atlantic coastline for centuries, likely descending from ancient curly-coated water dogs, Portuguese Water Dogs, Barbet-type retrievers, and local Irish spaniels. The modern breed owes its standardization to Dublin sportsman Justin McCarthy, who in the 1830s selectively bred his celebrated stud dog 'Boatswain' (born 1834) to establish a uniform type possessing the distinctive topknot, bare-faced muzzle, and smooth whip tail. Boatswain's descendants rapidly gained fame across Britain and North America for their extraordinary stamina in icy waters, earning recognition among the earliest purebred sporting dogs shown in the nineteenth century. While numerically rare compared to mainstream retrievers, the breed continues to excel as a versatile waterfowl and upland gundog as well as an endearing, spirited family companion.",
+      "Curly-coated, rat-tailed water dogs worked along southern Ireland's waterways by at least the late Middle Ages, with early mentions in Renaissance texts and historical names including Shannon Spaniel, Rat-Tail Spaniel, and Whip-Tail Spaniel. Although exact ancient ancestry was never formally recorded, modern standardization took shape in the 1830s through Dublin breeder Justin McCarthy and his influential foundation dog, Boatswain (born 1834). Recognized early in both Britain and North America during the late nineteenth century, the breed remains numerically rare today while continuing to shine as a versatile waterfowl retriever and spirited family companion.",
 
     originalPurpose:
-      "Retrieving waterfowl and upland game birds from frigid Irish coastal waters, marshes, and rivers, and flushing game from dense wetlands.",
+      "Retrieving waterfowl and upland game birds across cold Irish marshes, estuaries, and rivers, and working in all types of shooting terrain.",
 
     currentRoles: [
-      "Versatile waterfowl and upland game retriever",
-      "Canine athlete in hunt tests, dock diving, agility, rally, and tracking",
-      "Devoted household companion for active outdoor families",
-      "Scent detection and search-and-rescue partner"
+      "Waterfowl and upland game retriever",
+      "Competitor in agility, dock diving, rally, tracking, flyball, and hunt tests",
+      "Loyal, playful companion for active outdoor households",
+      "Therapy and assistance partner suited to sensitive, people-focused temperaments"
     ]
   },
 
@@ -102,65 +102,61 @@ export const irish_water_spaniel: Breed = {
     },
 
     weight: {
-      unit: "kg",
+      unit: "lb",
       male: {
-        min: 25,
-        max: 30
+        min: 55,
+        max: 68
       },
       female: {
-        min: 20,
-        max: 26
+        min: 45,
+        max: 58
       }
     },
 
     lifespanYears: {
       min: 12,
-      max: 14
+      max: 13
     },
 
     coatType:
-      "Dense, tight, crisp ringlets free from woolliness, naturally oily and water-repellent; completely short, smooth hair on the face, throat, and lower tail, contrasted with a long, loose topknot on the skull and rich feathering on the ears and legs.",
+      "Naturally water-repellent coat of dense, tight, crisp curls across the body, neck, and tail base, contrasted with short, smooth hair on the face, throat V-patch, front of the hind legs below the hocks, and tapering lower tail; crowned by a topknot of long, loose curls and long curled ear furnishings.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Rich dark liver with a distinctive purplish tint (puce-liver)"
+      "Rich liver to dark liver with a purplish tinge (puce-liver), free of white markings aside from natural graying with age"
     ],
 
     sheddingLevel:
-      "Low; the dense curly coat does not shed heavily, trapping loose dead hair within the curls until removed by weekly brushing",
+      "Low; the dense curly coat sheds very little and is often tolerated by allergy-sensitive owners, though dead hair must be brushed out weekly to prevent mats.",
 
     droolingLevel:
-      "Low to moderate; clean, moderately square lips produce minimal drool except after drinking or vigorous exercise",
+      "Low; fine, tight, dry lips keep drooling minimal.",
 
     distinctiveFeatures: [
-      "Tallest of all spaniel breeds, displaying a strong, compact, barrel-chested aquatic retriever silhouette",
-      "Height at the withers of 53 to 59 cm for males and 51 to 56 cm for females",
-      "Working weight of 25 to 30 kg for males and 20 to 26 kg for females in conditioned sporting form",
-      "Unique 'rat tail'—thick and covered in tight curls for the first 5 to 8 cm at the root, then tapering abruptly to a smooth, short-haired whip",
-      "Distinctive topknot of long, loose curls crowning the high-domed skull and falling in a peak between the eyes",
-      "Completely smooth, short-haired face and foreface free from beard or moustache",
-      "Rich dark puce-liver coat of dense, oily, water-repelling ringlets across the body and legs",
-      "Complete, regular scissor bite with strong jaws and sound white teeth",
-      "Medium-sized, slightly oblique dark brown or dark amber eyes expressing keen, intelligent alertness",
-      "Very long, lobular drop ears set low, hanging close to the cheeks and covered in long, twisted curls",
-      "Deep, well-sprung barrel chest with strong, muscular neck and slightly rolling, ground-covering gait",
-      "Large, somewhat spreading, well-webbed feet with heavy hair between the toes to aid swimming"
+      "Tallest of all spaniel breeds, strongly boned and slightly rectangular with a barrel-shaped rib cage and deep brisket reaching the elbows",
+      "Height at the withers of 53 to 59 cm for males and 51 to 56 cm for females, with adult working weights of 55 to 68 pounds for males and 45 to 58 pounds for females",
+      "Unmistakable rat tail set low and carried level with the back—thick and covered in short curls for the first 2 to 3 inches, then abruptly smooth and tapering to a fine point",
+      "High-domed skull crowned by a topknot of long, loose curls falling in a distinct peak between the eyes",
+      "Short, smooth facial coat accented by a curly beard at the back of the lower jaw and a smooth V-shaped patch on the throat",
+      "Rich puce-liver coat of tight, crisp, naturally water-repellent curls across the body and legs, with smooth hair on the front of the hind legs below the hocks",
+      "Strong underjaw with even white teeth closing in a scissor or level bite and a large dark liver nose",
+      "Comparatively small, almond-shaped eyes in medium-to-dark brown or dark amber (never yellow), framed by tight lids",
+      "Long, low-set lobular ears hanging close to the head and covered in abundant loose curls",
+      "Large, round, somewhat spreading, well-haired feet with thick pads and strong hindquarters driving a characteristic rolling gait"
     ]
   },
 
   temperament: {
     traits: [
-      "Playful, clownish, and joyful in everyday family life",
-      "Deeply loyal, affectionate, and devoted to its household",
-      "Bold, eager, and tireless worker in water and dense cover",
-      "Intelligent, resourceful, and quick to learn novel tasks",
-      "Alert and observant watchdog that announces visitors promptly",
-      "Reserved and discerning with unfamiliar strangers without unprovoked aggression",
-      "Patient and good-natured with familiar, respectful children",
-      "Sociable and cooperative with other dogs when properly socialized",
-      "Strong-willed with a lively sense of humor, thriving on varied training",
-      "Passionate affinity for swimming, puddles, and retrieving objects"
+      "Playful, humorous, and affectionately devoted to its family",
+      "Hardworking, brave, and eager in water and field work",
+      "Alert, inquisitive, and sharply intelligent",
+      "Eager to please once it clearly understands what is asked",
+      "Stable and discerning, often reserved with unfamiliar strangers without shyness or aggression",
+      "High-energy outdoors yet capable of settling calmly indoors after proper exercise",
+      "Sensitive to tone, responding far better to upbeat encouragement than harshness",
+      "Passionate natural swimmer with strong retrieving drive"
     ],
 
     scores: {
@@ -179,7 +175,7 @@ export const irish_water_spaniel: Breed = {
   care: {
     exercise: {
       level:
-        "High; an energetic, stamina-driven sporting retriever requiring daily vigorous physical exercise, swimming, and mental enrichment",
+        "High; an athletic, high-energy sporting retriever that needs substantial daily physical and mental activity to stay calm indoors.",
 
       minutesPerDay: {
         min: 60,
@@ -187,11 +183,10 @@ export const irish_water_spaniel: Breed = {
       },
 
       activities: [
-        "Daily brisk trail walks, woodland hikes, and off-leash running in secure areas",
-        "Swimming and water retrieving in lakes, ponds, rivers, or coastal waters",
-        "Interactive fetch, dummy retrieving, and upland scent-hunting drills",
-        "Canine sports including dock diving, agility, rally obedience, and tracking",
-        "Cognitive food puzzles, nosework searches, and trick training"
+        "Long daily walks, trail hikes, and brisk jogging or safe bike runs",
+        "Swimming and water retrieving sessions",
+        "Backyard fetch and supervised play with other dogs",
+        "Dog sports such as agility, dock diving, rally, tracking, and flyball"
       ]
     },
 
@@ -199,34 +194,32 @@ export const irish_water_spaniel: Breed = {
       level: "Moderate to high",
 
       brushing:
-        "Brush and comb thoroughly one to two times weekly using a slicker brush and wide-toothed metal comb down to the skin to remove dead hair and prevent the tight ringlets from matting, especially on the ears, chest, underbelly, and legs.",
+        "Brush and comb thoroughly at least once a week from puppyhood onward to clear loose hair and prevent matting in the dense curls, ears, and leg feathering.",
 
       bathing:
-        "Bathe every six to eight weeks or when soiled after muddy wetlands, using a mild canine shampoo that preserves the coat's natural water-repellent oils; allow the coat to air-dry naturally so curls tighten properly.",
+        "Bathe as needed using a mild canine shampoo that respects the coat's natural water-repellent oils, allowing curls to dry naturally.",
 
       notes: [
-        "Schedule light scissoring and hand-trimming every six to eight weeks to tidy the topknot, neck, feet, and feathering while preserving the natural curly texture.",
-        "Inspect the long, curl-covered drop ears two to three times weekly for moisture, wax buildup, or debris, drying the canals thoroughly after swimming.",
-        "Check paw pads, webbed toes, and coat curls for burrs, thorns, and ticks after outdoor wetland runs.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain sound foot alignment.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste."
+        "Trim and shape the coat with scissors roughly every two months to keep it neat without obscuring the natural curl texture.",
+        "Start positive grooming habits early in puppyhood so brushing, nail trims, and ear checks stay stress-free.",
+        "Check and clean the long, curl-covered drop ears regularly—especially after swimming—to prevent moisture buildup.",
+        "Trim nails routinely and brush teeth regularly."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; exceptionally intelligent, eager, and quick-witted, yet easily bored by repetitive drills, thriving under upbeat, varied, reward-based training",
+        "Moderate; bright, reliable, and eager to please when sessions stay fun and varied, yet quick to bore under repetitive or heavy-handed drills.",
 
       tips: [
-        "Use positive reinforcement, high-value food treats, and enthusiastic retrieving play.",
-        "Keep training sessions brisk, varied, and entertaining (5 to 10 minutes) to match its playful humor.",
-        "Begin recall, impulse-control, and loose-leash walking training in early puppyhood.",
-        "Never use harsh verbal reprimands or physical punishment, which cause this sensitive sporting spaniel to become stubborn or aloof.",
-        "Channel strong retrieving instincts into structured fetch and scent games."
+        "Use upbeat, reward-based training and keep sessions interesting to prevent boredom.",
+        "Never use harsh or heavy-handed corrections, which backfire with this sensitive breed.",
+        "Give the dog a purposeful outlet through retrieving games, tracking, rally, agility, or dock diving.",
+        "Begin recall and polite greeting training early in puppyhood."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to varied people, friendly vaccinated dogs of all sizes, household sounds, vehicles, and water environments. Early structured socialization ensures natural stranger reserve matures into calm, confident sociability in public."
+        "Introduce puppies early and gently to varied people, friendly dogs, everyday sights, and water environments so natural reserve around strangers matures into steady, polite confidence."
     },
 
     livingEnvironment: {
@@ -234,83 +227,79 @@ export const irish_water_spaniel: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cool, wet, and temperate climates, where the oily double coat provides superior insulation in icy water",
-        "Warm climates, provided indoor air conditioning, shade, and cool water are available and exercise is scheduled during cooler hours"
+        "Cool, wet, and temperate climates suited to its water-repellent curly coat",
+        "Warm climates, provided shade, fresh water, indoor cooling, and cooler-hour exercise are available"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply bonded to its human family and prone to separation distress or mischievous chewing if left isolated for long workdays without companionship."
+        "Low to moderate; deeply people-oriented and happiest when included in daily family activities."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active medium-to-large sporting breeds, adjusted for age, activity level, and metabolic rate.",
+      "High-quality complete and balanced commercial or veterinarian-approved home-prepared diet matched to life stage (puppy, adult, or senior) and activity level.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals daily during early growth, transitioning to two meals daily on a balanced growth diet.",
       adult:
-        "Two measured meals daily to support steady energy and comfortable digestion.",
+        "Two measured meals daily to sustain active sporting energy and steady digestion.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower activity and joint support."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, muscular body silhouette where the ribs are easily felt beneath the dense curls. Divide daily food into two distinct meals, restrict vigorous running immediately before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure every meal and monitor body condition closely, as some Irish Water Spaniels gain weight readily when overfed or given too many training treats. Divide daily food into two meals, keep clean fresh water available continuously, and consult a veterinarian on portion adjustments during heavy exercise or hunting seasons.",
 
     considerations: [
-      "Maintain a lean, athletic body condition; excess weight places unnecessary mechanical stress on hips and elbows.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Increase caloric and protein density during active hunting seasons or heavy swimming periods.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Watch calorie intake and budget training treats within the daily ration to avoid obesity.",
+      "Avoid high-fat table scraps and foods unsafe for dogs.",
+      "Allow rest around meals to support digestive comfort in deep-chested sporting dogs.",
+      "Transition gradually over five to seven days when changing foods."
     ],
 
     note:
-      "Caloric needs vary significantly based on swimming frequency, outdoor temperature, and daily activity. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Caloric demands rise during active swimming or field work; verify exact portions with a veterinarian."
   },
 
   health: {
     overview:
-      "The Irish Water Spaniel is a hardy, vigorous, and athletic sporting breed with a typical life expectancy of 12 to 14 years. Primary health priorities include orthopedic screening for hip and elbow dysplasia, annual ophthalmic examinations for hereditary cataracts and distichiasis, thyroid evaluations for hypothyroidism, routine ear hygiene for long curl-covered drop ears prone to otitis externa, and monitoring for megaesophagus and bloat.",
+      "Most Irish Water Spaniels are hardy, athletic dogs with a typical lifespan of 12 to 13 years, though owners and veterinarians must be alert to documented breed sensitivities to sulfa antibiotics (sulfonamides) and ivermectin, which can cause serious or fatal reactions. Responsible breeding programs prioritize pre-breeding screening for hip and elbow dysplasia, eye disease, thyroid function, and cardiac health, alongside diligent ear care for swimming dogs.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and stiffness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by heavy, curl-covered drop ears and aquatic activity that trap moisture in the canal",
-      "Hypothyroidism — autoimmune thyroiditis causing reduced thyroid hormone production, lethargy, weight gain, and coat thinning, manageable with daily veterinary hormone replacement",
-      "Ocular conditions — hereditary cataracts, distichiasis (extra eyelashes irritating the cornea), and entropion, monitored through annual certified veterinary ophthalmologist examinations",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute twisting and distension of the stomach in deep-chested sporting dogs, requiring emergency veterinary care",
-      "Megaesophagus — occasional reports of reduced esophageal motility causing regurgitation in young or adult dogs, requiring specialized upright feeding management"
+      "Medication sensitivities (sulfa antibiotics and ivermectin) — documented adverse and potentially fatal drug reactions in the breed; owners should ensure veterinary records carry a prominent warning",
+      "Hip and elbow dysplasia — developmental joint conditions monitored through pre-breeding radiographic evaluations",
+      "Thyroid disease (hypothyroidism) — endocrine concern monitored via pre-breeding thyroid screening",
+      "Ocular conditions — potential cataracts or eyelid issues (such as entropion or distichiasis) monitored through specialist veterinary ophthalmologist exams",
+      "Chronic ear infections (otitis externa) — common care risk in long, curl-covered drop ears exposed to frequent swimming without thorough drying",
+      "Allergies and skin/coat concerns — occasional reports of food or environmental allergies and follicular hair thinning"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic clearances for hips and elbows, annual specialist eye exams, and thyroid clearances.",
-      "Inspect and thoroughly dry the curl-covered drop ears after every swim or bath, wiping canals gently with an approved veterinary drying cleanser.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Flag sulfa-antibiotic and ivermectin sensitivities clearly on your dog's veterinary chart before any medication is prescribed.",
+      "Ask breeders for published pre-breeding test results covering hips, elbows, eyes, thyroid, and heart.",
+      "Inspect and dry the long curl-covered drop ears thoroughly after every swim or bath.",
+      "Keep body weight lean to protect hip and elbow joints.",
+      "Maintain annual veterinary wellness checks, dental care, vaccinations, and year-round parasite prevention using breed-safe products."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
+      "Radiographic hip evaluation prior to breeding",
+      "Radiographic elbow evaluation prior to breeding",
+      "Veterinary ophthalmologist eye examination prior to breeding",
       "Thyroid panel evaluation prior to breeding",
-      "Clinical cardiac evaluation by a veterinarian"
+      "Cardiac evaluation prior to breeding"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth regularly with canine toothpaste and have a veterinarian inspect the scissor or level bite during routine wellness exams.",
 
     earCare:
-      "Inspect the long, curl-covered drop ears two to three times weekly for wax buildup, moisture, or redness, especially after swimming. Clean gently using a veterinarian-recommended ear solution, drying the canal thoroughly.",
+      "Check and gently clean the long, curl-covered drop ears regularly—especially after swimming—keeping canals dry to discourage infections.",
 
     skinCare:
-      "Part the dense curly coat weekly during brushing to inspect the skin for external parasites, mats, or follicular irritation. Preserve natural water-repelling oils by avoiding harsh detergents."
+      "Part the dense curls during weekly brushing to check for burrs, ticks, mats, or irritation while preserving natural water-repellent oils."
   },
 
   suitability: {
@@ -321,74 +310,68 @@ export const irish_water_spaniel: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, hunters, and water-sports enthusiasts with access to lakes, rivers, or beaches",
-      "Families with older, respectful children seeking a playful, loyal, and affectionate companion",
-      "Experienced dog owners who appreciate an intelligent, good-humored, and spirited retriever",
-      "Canine sports enthusiasts involved in hunt tests, dock diving, agility, or tracking",
-      "Owners committed to regular coat brushing, trimming, and frequent ear care"
+      "Active outdoor owners, swimmers, and hunters who enjoy vigorous daily exercise",
+      "Families with respectful children seeking a playful, loyal, low-shedding companion",
+      "Handlers interested in agility, dock diving, rally, tracking, flyball, or therapy work",
+      "Owners committed to weekly brushing, bimonthly trims, and post-swim ear care"
     ],
 
     notIdealFor: [
-      "Sedentary individuals looking for a low-exercise indoor lap dog",
-      "Apartment or condominium dwellers without spacious outdoor running and swimming access",
-      "Households unwilling to maintain regular coat combing and post-swim ear drying",
-      "Owners who leave a dog home alone in isolation for long workdays without companionship"
+      "Sedentary households wanting a low-energy indoor companion",
+      "Apartments without convenient access to ample daily exercise and outdoor space",
+      "Owners unwilling to commit to regular curly-coat grooming and ear hygiene",
+      "Homes where the dog will be left alone for long stretches without family interaction"
     ]
   },
 
   funFacts: [
-    "The Irish Water Spaniel is famously known as the 'clown of the spaniel family' thanks to its whimsical appearance—sporting a jaunty topknot of curls over its forehead, a completely smooth face, and a hairless whip-like 'rat tail'—paired with an infectious sense of humor.",
-    "Its signature smooth 'rat tail' is unique among all purebred dogs: thick and covered in tight ringlets for the first few inches at the base, it abruptly becomes completely smooth and tapering, acting like a sleek rudder in water without catching on underwater reeds or roots.",
-    "Nearly every modern Irish Water Spaniel traces its ancestry back to a single foundational stud dog named 'Boatswain', whelped in 1834 and bred by Dublin sportsman Justin McCarthy.",
-    "The breed's rich, dark liver coat exhibits a distinctive purplish sheen known as 'puce-liver', which is exclusive to the Irish Water Spaniel and naturally saturated with oils that shed freezing water instantly.",
-    "In 1875, an Irish Water Spaniel named 'Bob' became one of the very first dogs ever registered in the earliest official purebred dog studbooks in North America."
+    "Often dubbed the 'clown of the spaniel family,' the breed pairs a jaunty peak of curls between its eyes and a bare rat tail with an endearing, playful sense of humor.",
+    "It is the tallest of all spaniel breeds, bridging the size gap between medium and large sporting dogs.",
+    "Its signature smooth-tipped rat tail and dense, naturally water-repellent curls are functional adaptations for swimming through cold Irish marshes—not merely decorative styling.",
+    "Historical records from the late 1100s already referred to Irish water dogs by nicknames such as Shannon Spaniels, Rat-Tail Spaniels, and Whip-Tail Spaniels.",
+    "Owners must remind veterinarians to avoid sulfa antibiotics and ivermectin, as documented drug sensitivities in the breed can trigger severe reactions."
   ],
 
   faq: [
     {
       question: "What is an Irish Water Spaniel?",
       answer:
-        "The Irish Water Spaniel is the tallest of all spaniel breeds, an ancient Irish waterfowl retriever recognized for its dense puce-liver coat of crisp curls, signature topknot on the head, smooth 'rat tail', and playful, loyal companion personality."
-    },
-    {
-      question: "Why does the Irish Water Spaniel have a hairless 'rat tail'?",
-      answer:
-        "The smooth, tapering lower portion of the tail is a natural genetic hallmark of the breed that prevents tangled coat hair from snagging on marsh reeds and underwater branches while swimming."
+        "The Irish Water Spaniel is the tallest of all spaniel breeds—a sturdy Irish waterfowl retriever instantly recognized by its crisply curled purplish-liver coat, loose curly topknot, smooth tapering rat tail, and playful, loyal personality."
     },
     {
       question: "How tall and heavy is an Irish Water Spaniel?",
       answer:
-        "Adult males stand 53 to 59 cm at the withers and weigh 25 to 30 kg, while adult females stand 51 to 56 cm and weigh 20 to 26 kg in lean, athletic sporting condition."
+        "Adult males stand 53 to 59 cm at the withers and weigh 55 to 68 pounds, while adult females stand 51 to 56 cm and weigh 45 to 58 pounds."
     },
     {
       question: "How long does an Irish Water Spaniel live?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
+        "Typical life expectancy is 12 to 13 years with balanced nutrition, regular exercise, and routine veterinary care."
     },
     {
-      question: "Do Irish Water Spaniels shed a lot, and how are they groomed?",
+      question: "Do Irish Water Spaniels shed, and how much grooming do they need?",
       answer:
-        "They are low-shedding dogs because their dense curly coat traps loose hairs until brushed out. They require brushing once or twice weekly down to the skin to prevent mats, light trimming every six to eight weeks, and thorough ear drying after swimming."
+        "They shed very little because their dense curls trap loose hair, making them a popular choice for some allergy-sensitive homes. They need thorough brushing at least once a week, shaping trims roughly every two months, and regular ear cleaning."
+    },
+    {
+      question: "Are there any special medication warnings for Irish Water Spaniels?",
+      answer:
+        "Yes. The breed has documented serious sensitivities to sulfa antibiotics and ivermectin, so owners should always ensure their veterinarian flags the dog's medical chart."
     },
     {
       question: "Can an Irish Water Spaniel live in an apartment?",
       answer:
-        "Generally no. Due to their medium-to-large size, high athletic energy, and love of vigorous outdoor running and swimming, they thrive best in a house with a securely fenced yard."
+        "Generally no. Their medium-to-large frame, high sporting energy, and love of running and swimming fit best in a house with a yard and active daily outings."
     },
     {
-      question: "Are Irish Water Spaniels good family pets and good with children?",
+      question: "Are Irish Water Spaniels easy to train?",
       answer:
-        "Yes, with active families. They are affectionate, playful, and deeply devoted to their family and do well with respectful children; however, they can be reserved with unfamiliar visitors."
+        "They are smart and eager to please when training stays upbeat and varied, though harsh methods or repetitive drills quickly backfire."
     },
     {
-      question: "How much exercise does an Irish Water Spaniel need each day?",
+      question: "What health screenings are recommended for breeding dogs?",
       answer:
-        "The breed requires 60 to 90 minutes of vigorous daily physical activity, including brisk trail walks, swimming, fetch games, and mental enrichment."
-    },
-    {
-      question: "What health tests are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, annual veterinary ophthalmologist eye exams, and thyroid evaluations."
+        "Recommended pre-breeding evaluations include hip and elbow radiographs, specialist eye exams, thyroid panels, and cardiac checks."
     }
   ],
 
@@ -402,16 +385,23 @@ export const irish_water_spaniel: Breed = {
     "iwsca-irish-water-spaniel-health",
     "ofa-irish-water-spaniel-chic-requirements",
     "wikimedia-irish-water-spaniel-lilly-m",
-    "wikimedia-irish-water-spaniel-600-tomasz-sienicki"
+    "wikimedia-irish-water-spaniel-600-tomasz-sienicki",
+    "natureserve-canis-lupus-familiaris",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Scientific Name: Canis lupus familiaris (ITIS TSN 726821)"
+        }
+      ],
+      verifiedOn: "2026-11-25",
+      note: "Verified standard domestic-dog trinomial taxonomy across the catalog."
     },
 
     alternateNames: {
@@ -420,21 +410,26 @@ export const irish_water_spaniel: Breed = {
         {
           id: "fci-irish-water-spaniel-official-standard",
           role: "verified",
-          locator: "Standard heading: IRISH WATER SPANIEL"
+          locator: "Standard heading: IRISH WATER SPANIEL (Épagneul d'Eau Irlandais)"
         },
         {
           id: "fci-irish-water-spaniel-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: IRISH WATER SPANIEL (124), Épagneul d'eau irlandais, Irischer Wasserspaniel, Perro de agua irlandés"
+          locator: "Multilingual names: IRISH WATER SPANIEL (124), CHIEN D'EAU IRLANDAIS, IRISCHER WASSERSPANIEL, PERRO DE AGUA IRLANDÉS"
         },
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "verified",
-          locator: "History: Shannon Spaniel, Whiptail, Rat-Tail Spaniel, Bog Dog"
+          locator: "Did You Know: Shannon Spaniels, Rat-Tail Spaniels, Whip-Tail Spaniels, IWS"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "alternateNames: IWS, Shannon Spaniel, Whiptail"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified across FCI Standard No. 124, FCI Nomenclature, The Royal Kennel Club, and AKC."
+      verifiedOn: "2026-11-25",
+      note: "Verified across FCI 124, AKC, and The Dog API."
     },
 
     group: {
@@ -443,17 +438,12 @@ export const irish_water_spaniel: Breed = {
         {
           id: "fci-irish-water-spaniel-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 8 Retrievers, Flushing Dogs, Water Dogs; Section 3 Water Dogs; with working trial"
+          locator: "Group 8 Retrievers, Flushing Dogs, Water Dogs; Section 3 Water Dogs; with working trial"
         },
         {
           id: "fci-irish-water-spaniel-nomenclature",
           role: "verified",
-          locator: "Group 8, Section 3 Water Dogs, with working trial"
-        },
-        {
-          id: "the-kennel-club-irish-water-spaniel-breed-standard",
-          role: "verified",
-          locator: "Gundog Group"
+          locator: "Group 8, Section 3 Water Dogs, subject to a working trial"
         },
         {
           id: "akc-irish-water-spaniel-breed-standard",
@@ -461,14 +451,13 @@ export const irish_water_spaniel: Breed = {
           locator: "Sporting Group"
         },
         {
-          id: "ukc-irish-water-spaniel-breed-standard",
-          role: "verified",
-          locator: "Gun Dog Group"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "group: Sporting"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-25",
+      note: "User-facing group omits registry and section labels per Rule 5."
     },
 
     origin: {
@@ -477,20 +466,20 @@ export const irish_water_spaniel: Breed = {
         {
           id: "fci-irish-water-spaniel-official-standard",
           role: "verified",
-          locator: "ORIGIN: Ireland; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: Ireland"
         },
         {
           id: "fci-irish-water-spaniel-nomenclature",
           role: "verified",
-          locator: "Country of origin: Ireland"
+          locator: "Country of origin of the breed: IRELAND; definitive acceptance 1954-12-28"
         },
         {
-          id: "the-kennel-club-irish-water-spaniel-breed-standard",
+          id: "akc-irish-water-spaniel-breed-profile",
           role: "verified",
-          locator: "Origin and development in Ireland"
+          locator: "History: waterways of southern Ireland"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -498,48 +487,46 @@ export const irish_water_spaniel: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-irish-water-spaniel-official-standard",
+          id: "akc-irish-water-spaniel-breed-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "the-kennel-club-irish-water-spaniel-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Characteristics, Temperament"
+          locator: "General Appearance, Topknot, Tail, Coat, Color, Gait"
         },
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (Justin McCarthy, Boatswain 1834), and Roles"
+          locator: "About the Breed, History (late Middle Ages, Renaissance), Did You Know, 1878 AKC recognition"
+        },
+        {
+          id: "ukc-irish-water-spaniel-breed-standard",
+          role: "verified",
+          locator: "AKC Facts: one of the oldest spaniel breeds, uncertain ancient ancestry, clownish personality"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesized in original prose from FCI Standard No. 124, The Royal Kennel Club, and AKC official records."
+      verifiedOn: "2026-11-25",
+      note: "Rewritten in completely original prose grounded in official standards and AKC."
     },
 
     physical: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-irish-water-spaniel-official-standard",
-          role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
-        },
-        {
-          id: "the-kennel-club-irish-water-spaniel-breed-standard",
-          role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Body, Tail, Coat, Colour, Size"
-        },
-        {
           id: "akc-irish-water-spaniel-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Head, Topknot, Tail, Coat, Color"
+          locator: "Head (beard at back of lower jaw, smooth throat V-patch), Topknot, Eyes (never yellow), Ears, Tail (2–3 in curls then smooth), Coat (smooth front of hind legs below hocks), Color (rich to dark liver with purplish tinge / puce liver; no white except graying of age)"
+        },
+        {
+          id: "fci-irish-water-spaniel-official-standard",
+          role: "verified",
+          locator: "FCI Standard No. 124 (2001-03-13): height, coat, colour, and conformation"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "coatColors lists 17 generic canine colours including Black, Blue, Brindle, Cream, Merle, and White; official standards allow only solid liver (puce-liver)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Conformation, barrel chest, crisp puce-liver ringlets, topknot, smooth rat tail, and distinctive features follow official standards."
+      verifiedOn: "2026-11-25",
+      note: "Corrected face description to reflect the AKC standard's curly beard at the back of the lower jaw and smooth throat V-patch."
     },
 
     "physical.height": {
@@ -548,41 +535,39 @@ export const irish_water_spaniel: Breed = {
         {
           id: "fci-irish-water-spaniel-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: Dogs: 53 - 59 cm (21 - 23 ins); Bitches: 51 - 56 cm (20 - 22 ins)."
-        },
-        {
-          id: "the-kennel-club-irish-water-spaniel-breed-standard",
-          role: "verified",
-          locator: "Size: Height at withers: Dogs: 53-59 cms (21-23 ins); Bitches: 51-56 cms (20-22 ins)"
+          locator: "Height at withers: Dogs 53–59 cm; Bitches 51–56 cm"
         },
         {
           id: "akc-irish-water-spaniel-breed-standard",
-          role: "verified",
-          locator: "Height: Dogs: 22 to 24 inches; Bitches: 21 to 23 inches"
+          role: "conflicting",
+          locator: "Height: Dogs 22 to 24 inches; Bitches 21 to 23 inches"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height: male 56–61 cm, female 53–58 cm"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Preserved in published unit of centimetres (53–59 cm for males and 51–56 cm for females) stated first in FCI Standard No. 124 and The Royal Kennel Club standard."
+      verifiedOn: "2026-11-25",
+      note: "Kept FCI Standard No. 124's published centimetres (53–59 cm males, 51–56 cm females) per Rule 9, noting AKC's 22–24 / 21–23 inches."
     },
 
     "physical.weight": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
-        {
-          id: "iwsca-irish-water-spaniel-health",
-          role: "verified",
-          locator: "Adult working weight range: Dogs 25-30 kg (55-68 lbs), Bitches 20-26 kg (45-58 lbs)"
-        },
         {
           id: "akc-irish-water-spaniel-breed-standard",
           role: "verified",
-          locator: "Weight: Dogs: 55 to 68 pounds; Bitches: 45 to 58 pounds (approx. 25-30 kg males, 20-26 kg females)"
+          locator: "Weight: Dogs 55 to 68 pounds; Bitches 45 to 58 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "weight: male 25–31 kg, female 20–26 kg (AKC Official Standard publishes 55–68 lb / 45–58 lb)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FCI Standard No. 124 specifies height without fixing a numerical weight. The stored 25 to 30 kg for males and 20 to 26 kg for females represent canonical working ranges aligned with metric height units."
+      verifiedOn: "2026-11-25",
+      note: "FCI 124 publishes no numeric weight; kept AKC Official Standard's exact published pounds (55–68 lb males, 45–58 lb females) per Rule 9."
     },
 
     "physical.lifespanYears": {
@@ -591,16 +576,16 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-13 years (up to 14 years in health surveys)"
+          locator: "Life Expectancy: 12–13 years"
         },
         {
-          id: "iwsca-irish-water-spaniel-health",
-          role: "verified",
-          locator: "Breed health survey longevity (12-14 years)"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "lifespanYears: 12–14"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Supported by kennel club and parent club health survey profiles."
+      verifiedOn: "2026-11-25",
+      note: "Stored AKC's verified 12–13 years; The Dog API reports 12–14 years."
     },
 
     "physical.sheddingLevel": {
@@ -609,15 +594,10 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5) - Low shedding curly coat"
-        },
-        {
-          id: "fci-irish-water-spaniel-official-standard",
-          role: "verified",
-          locator: "COAT: Dense, tight, crisp ringlets free from woolliness"
+          locator: "Grooming: hypoallergenic low-shedding coat requiring at least weekly brushing"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -625,40 +605,40 @@ export const irish_water_spaniel: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-irish-water-spaniel-official-standard",
+          id: "akc-irish-water-spaniel-breed-standard",
           role: "verified",
-          locator: "Lips: Clean and square"
+          locator: "Lips: fine in texture, tight and dry"
         },
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (2/5)"
+          locator: "Breed Traits: Drooling Level"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Clean, square lips produce low to moderate drooling."
+      verifiedOn: "2026-11-25",
+      note: null
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-irish-water-spaniel-official-standard",
+          id: "akc-irish-water-spaniel-breed-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Proud, combining great intelligence and endurance with bold, dashing eagerness; faithful friend, reserved with strangers"
-        },
-        {
-          id: "the-kennel-club-irish-water-spaniel-breed-standard",
-          role: "verified",
-          locator: "Characteristics and Temperament: Intelligent, courageous, bold, eager, faithful"
+          locator: "Temperament: very alert, inquisitive, active, stable, endearing sense of humor; may be reserved with strangers, never aggressive or shy"
         },
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "verified",
-          locator: "Temperament: Playful, hardworking, alert, inquisitive"
+          locator: "About the Breed & Training: playful, hardworking, brave, smart, eager to please, sensitive"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "temperament.traits: Intelligent, playful, alert, courageous, eager to please"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -668,17 +648,11 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "the-kennel-club-irish-water-spaniel-breed-standard",
-          role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented sporting water spaniel temperament, playful family affection, and stranger reserve."
+      note: "Editorial 1–5 ratings synthesized from AKC official standard and breed profile."
     },
 
     care: {
@@ -687,17 +661,11 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "iwsca-irish-water-spaniel-health",
-          role: "cited",
-          locator: "Coat maintenance, ear drying, and exercise management"
+          locator: "Grooming (weekly brushing, trimming every 2 months), Exercise (high energy, walks, hikes, bike runs, play), Training (fun, reward-based, no harshness), Nutrition"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active water retriever management with curly-coat combing and post-swim ear hygiene protocols."
+      note: "Synthesizes AKC care guidance in original prose."
     },
 
     "care.exercise.level": {
@@ -706,15 +674,10 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
-        },
-        {
-          id: "fci-irish-water-spaniel-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Water retriever built for endurance"
+          locator: "Exercise: active, high-energy sporting dog needing lots of daily exercise"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -722,19 +685,13 @@ export const irish_water_spaniel: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-irish-water-spaniel-breed-standard",
-          role: "cited",
-          locator: "Exercise requirements: Over 1 hour per day"
-        },
-        {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
+          locator: "Daily long walks, hikes, running, play, and dog sports"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic sporting water dog."
+      note: "Editorial estimate of 60 to 90 minutes daily."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -743,12 +700,11 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "cited",
-          locator: "Medium-to-large size, high energy, and need for outdoor running and water access"
+          locator: "Medium-to-large size and high daily exercise needs"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that medium-to-large stature and vigorous outdoor exercise demands make apartment living generally unsuitable."
+      note: "Editorial assessment based on size and vigorous daily activity requirements."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -757,10 +713,10 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
+          locator: "Exercise: backyard fetch and outdoor play"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -768,17 +724,12 @@ export const irish_water_spaniel: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-irish-water-spaniel-official-standard",
+          id: "akc-irish-water-spaniel-breed-standard",
           role: "verified",
-          locator: "COAT: Dense oily double coat adapted to cold Irish waters"
-        },
-        {
-          id: "akc-irish-water-spaniel-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: excels in cold and wet weather"
+          locator: "Coat: dense, crisp waterproof curls protecting the dog in cold marshy water-fowling terrain"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -788,7 +739,7 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; people-oriented companion"
+          locator: "Affectionate, people-oriented sporting companion"
         }
       ],
       verifiedOn: null,
@@ -801,12 +752,11 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, bloat precautions"
+          locator: "Nutrition: high-quality age-appropriate diet; watch calories and treats to prevent overweight"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium-to-large sporting breeds."
+      note: "Grounded in AKC nutrition guidance."
     },
 
     "nutrition.feedingFrequency": {
@@ -815,49 +765,52 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Age-appropriate diet guidance (puppy, adult, senior)"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-irish-water-spaniel-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, Elbow Dysplasia, CAER Eye examination, Thyroid evaluation"
-        },
-        {
           id: "iwsca-irish-water-spaniel-health",
           role: "verified",
-          locator: "Health priorities: Hip and elbow dysplasia, hypothyroidism, cataracts, ear care, and megaesophagus"
+          locator: "Health Overview: serious/fatal sulfa-drug sensitivities warning; CHIC testing for Hips, Elbows, Eyes, Heart"
+        },
+        {
+          id: "akc-irish-water-spaniel-breed-profile",
+          role: "verified",
+          locator: "Health: adverse reactions to sulfa antibiotics and Ivermectin; National Breed Club recommends Hip, Elbow, Ophthalmologist, and Thyroid evaluations; lifespan 12–13 years"
+        },
+        {
+          id: "ofa-irish-water-spaniel-chic-requirements",
+          role: "verified",
+          locator: "OFA CHIC portal for Irish Water Spaniel (IWS)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesizes national health registry screening protocols with parent club veterinary health surveys."
+      verifiedOn: "2026-11-25",
+      note: "Added documented sulfa-antibiotic and ivermectin drug sensitivity warnings from IWSCA and AKC."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-irish-water-spaniel-chic-requirements",
-          role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, autoimmune thyroiditis, eye disorders"
-        },
-        {
           id: "iwsca-irish-water-spaniel-health",
           role: "verified",
-          locator: "Chronic otitis externa, megaesophagus, and bloat"
+          locator: "Drug Warnings (sulfa drugs) and CHIC health focus areas"
+        },
+        {
+          id: "akc-irish-water-spaniel-breed-profile",
+          role: "verified",
+          locator: "Health: sulfa/ivermectin sensitivity, hip and elbow dysplasia, allergies, thyroid disease"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-25",
+      note: "Distinguishes documented drug sensitivities and breed-club screening priorities from general ear/skin care risks."
     },
 
     "health.preventiveCare": {
@@ -866,84 +819,83 @@ export const irish_water_spaniel: Breed = {
         {
           id: "iwsca-irish-water-spaniel-health",
           role: "cited",
-          locator: "Post-swim ear drying, weight management, and health clearances"
+          locator: "Mark veterinary chart for sulfa-drug warning; publish CHIC health screenings"
         },
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "cited",
-          locator: "Routine care and veterinary wellness checks"
+          locator: "Health, Grooming (ear cleaning), and Nutrition (weight control)"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to aquatic retrieving spaniels."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-irish-water-spaniel-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests From the National Breed Club: Hip Evaluation, Elbow Evaluation, Ophthalmologist Evaluation, Thyroid Evaluation"
+        },
+        {
+          id: "iwsca-irish-water-spaniel-health",
+          role: "verified",
+          locator: "IWSCA CHIC tests: Hips, Elbows, Eyes, Heart"
+        },
+        {
           id: "ofa-irish-water-spaniel-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, Radiographic Elbow Dysplasia evaluation, CAER Eye examination, Thyroid panel"
+          locator: "OFA CHIC portal for IWS"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-25",
+      note: "Combines AKC National Breed Club and IWSCA CHIC screening recommendations."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-irish-water-spaniel-official-standard",
+          id: "akc-irish-water-spaniel-breed-standard",
           role: "cited",
-          locator: "Teeth: strong and regular, scissor bite"
-        },
-        {
-          id: "akc-irish-water-spaniel-breed-profile",
-          role: "cited",
-          locator: "Routine dental care"
+          locator: "Teeth: even with a scissor or level bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-irish-water-spaniel-official-standard",
+          id: "akc-irish-water-spaniel-breed-standard",
           role: "cited",
-          locator: "Ears: very long and lobular, set low, covered with long twisted curls"
+          locator: "Ears: long, lobular, set low, abundantly covered with long loose curls"
         },
         {
-          id: "iwsca-irish-water-spaniel-health",
+          id: "akc-irish-water-spaniel-breed-profile",
           role: "cited",
-          locator: "Routine ear cleaning and drying after water work"
+          locator: "Grooming: regular ear cleaning"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for heavy, curl-covered drop ears exposed to water."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-irish-water-spaniel-official-standard",
-          role: "cited",
-          locator: "Coat texture: natural oiliness and tight ringlets"
-        },
-        {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "cited",
-          locator: "Grooming and skin inspection"
+          locator: "Grooming: weekly brushing of dense curly coat"
         }
       ],
       verifiedOn: null,
-      note: "General skin and oily double-coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -952,17 +904,11 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "the-kennel-club-irish-water-spaniel-breed-standard",
-          role: "cited",
-          locator: "Characteristics and lifestyle suitability"
+          locator: "About the Breed, Grooming, Exercise, and Training profiles"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, grooming needs, and aquatic exercise demands."
+      note: "Editorial suitability assessment based on high sporting energy, grooming, and people-oriented temperament."
     },
 
     funFacts: {
@@ -971,16 +917,21 @@ export const irish_water_spaniel: Breed = {
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "verified",
-          locator: "'Clown of the spaniel family' moniker, smooth rat tail function, Boatswain 1834 lineage, puce-liver coat, 1875 studbook history"
+          locator: "Did You Know: clown of the spaniel family, tallest spaniel, water-repellent functional trim, late 1100s nicknames"
         },
         {
-          id: "fci-irish-water-spaniel-official-standard",
+          id: "iwsca-irish-water-spaniel-health",
           role: "verified",
-          locator: "Brief historical summary: Justin McCarthy and distinctive rat tail / topknot features"
+          locator: "Sulfa-drug sensitivity warning"
+        },
+        {
+          id: "the-kennel-club-irish-water-spaniel-breed-standard",
+          role: "cited",
+          locator: "Royal Kennel Club Irish Water Spaniel Gundog Group record"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-25",
+      note: "Verified facts without registry or show names in user-facing text."
     },
 
     faq: {
@@ -989,24 +940,28 @@ export const irish_water_spaniel: Breed = {
         {
           id: "fci-irish-water-spaniel-official-standard",
           role: "verified",
-          locator: "Origin, height (53-59 cm / 51-56 cm), rat tail, topknot, and coat"
+          locator: "Height (53–59 cm males, 51–56 cm females)"
         },
         {
-          id: "iwsca-irish-water-spaniel-health",
+          id: "akc-irish-water-spaniel-breed-standard",
           role: "verified",
-          locator: "Weight (25-30 kg / 20-26 kg), lifespan (12-14 years), and recommended health screenings"
+          locator: "Weight (55–68 lb males, 45–58 lb females), rat tail, topknot, puce-liver coat"
         },
         {
           id: "akc-irish-water-spaniel-breed-profile",
           role: "verified",
-          locator: "Low-shedding grooming, apartment living, family suitability, and exercise"
+          locator: "Lifespan (12–13 years), sulfa/ivermectin warnings, weekly brushing, 2-month trims, training, recommended screenings"
+        },
+        {
+          id: "iwsca-irish-water-spaniel-health",
+          role: "verified",
+          locator: "Sulfa-drug warning and CHIC screening panel"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and parent club data without naming registries in prose."
+      verifiedOn: "2026-11-25",
+      note: "Original FAQ prose with zero registry or source names per Rule 5."
     }
   },
 
-  updatedOn: "2026-11-12"
+  updatedOn: "2026-11-25"
 };

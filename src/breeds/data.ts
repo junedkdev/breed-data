@@ -252,6 +252,14 @@ import { australian_terrier } from "./australian_terrier";
 import { austrian_black_and_tan_hound } from "./austrian_black_and_tan_hound";
 import { cavalier_king_charles_spaniel } from "./cavalier_king_charles_spaniel";
 import { taiwan_dog } from "./taiwan_dog";
+import { smalandsstovare } from "./smalandsstovare";
+import { griffon_fauve_de_bretagne } from "./griffon_fauve_de_bretagne";
+import { st_bernard } from "./st_bernard";
+import { griffon_nivernais } from "./griffon_nivernais";
+import { carolina_dog } from "./carolina_dog";
+import { kishu_ken } from "./kishu_ken";
+import { leonberger } from "./leonberger";
+import { braque_francais_pyrenees } from "./braque_francais_pyrenees";
 
 
 export const breedData: readonly Breed[] = [
@@ -503,4 +511,12 @@ export const breedData: readonly Breed[] = [
   austrian_black_and_tan_hound,
   cavalier_king_charles_spaniel,
   taiwan_dog,
+  smalandsstovare,
+  griffon_fauve_de_bretagne,
+  st_bernard,
+  griffon_nivernais,
+  carolina_dog,
+  kishu_ken,
+  leonberger,
+  braque_francais_pyrenees,
 ];

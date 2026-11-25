@@ -16080,224 +16080,224 @@ export const sources = defineSources({
     accessedOn: "2026-11-25",
     note: "Photo by sannse, uploaded by Muu-karhu (captured 2003-08-30 at the City of Birmingham Championship Dog Show, uploaded 2006-07-13, 600 x 500 px). Licensed CC BY-SA 3.0 (commercial use permitted with attribution and share-alike).",
   },
-  "fci-carpathian-shepherd-dog-official-standard": {
+"fci-carpathian-shepherd-dog-official-standard": {
     id: "fci-carpathian-shepherd-dog-official-standard",
-    name: "FCI - Romanian Carpathian Shepherd Dog (Ciobănesc Românesc Carpatin) Official Breed Standard No. 350",
+    name: "FCI-Standard N° 350 — Ciobănesc Românesc Carpatin (Romanian Carpathian Shepherd Dog)",
     url: "https://www.fci.be/Nomenclature/Standards/350g01-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2015-05-19",
-    accessedOn: "2026-11-12",
-    note: "Official English FCI Standard No. 350 (valid standard dated 2015-05-19). Covers Romanian origin in the Carpathian-Danubian area, Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs classification without working trial, agile rectangular build, lupine head, harsh wolf-grey double coat, and withers height (males 65-73 cm, ideal 68-70 cm; females 59-67 cm, ideal 62-64 cm).",
+    publishedOn: "2015-06-09",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 350 (official valid standard dated 2015-06-09; English PDF published 2015-08-18). Covers Romania origin (Carpathian-Danubian area), Group 1 Section 1 Sheepdogs without working trial, 1934 Zootechnical National Institute first standard (updated 1982, 1999, 2001; adapted 2002-03-30), lupoid head, ~50° neck angle, ash-grey skin, harsh wolf-grey double coat, and ideal withers height (males 65-73 cm ±2 cm; females 59-67 cm ±2 cm).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-carpathian-shepherd-dog-nomenclature": {
+"fci-carpathian-shepherd-dog-nomenclature": {
     id: "fci-carpathian-shepherd-dog-nomenclature",
-    name: "FCI - Romanian Carpathian Shepherd Dog Breed Nomenclature (No. 350)",
-    url: "https://www.fci.be/en/nomenclature/ROMANIAN-CARPATHIAN-SHEPHERD-DOG-350.html",
+    name: "FCI Breeds Nomenclature — Ciobanesc Românesc Carpatin (350)",
+    url: "https://www.fci.be/en/nomenclature/CIOBANESC-ROMANESC-CARPATIN-350.html",
     type: "official_breed_standard",
-    publishedOn: "2015-05-19",
-    accessedOn: "2026-11-12",
-    note: "Official FCI breed nomenclature record confirming Romania as country of origin, Group 1 Section 1 classification without working trial, provisional acceptance (2005-07-06), definitive recognition date (2015-05-19), and multilingual names (Ciobănesc Românesc Carpatin, Berger Roumain des Carpathes, Rumänischer Karpaten-Schäferhund, Perro de pastor rumano de los Cárpatos).",
+    publishedOn: "2015-06-09",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Romania as country of origin, Group 1 Section 1 Sheepdogs without working trial, provisional acceptance (2005-07-06), definitive acceptance (2015-06-09), English PDF publication (2015-08-18), and multilingual names.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "achr-ciobanesc-romanesc-carpatin-standard": {
+"achr-ciobanesc-romanesc-carpatin-standard": {
     id: "achr-ciobanesc-romanesc-carpatin-standard",
-    name: "Asociația Chinologică Română - Standardul Rasei Ciobănesc Românesc Carpatin",
-    url: "https://www.ach.ro/rase-romanesti/ciobanesc-romanesc-carpatin/",
+    name: "Asociația Chinologică Română — Ciobănesc Românesc Carpatin (FCI 350)",
+    url: "http://ach.ro/site/index.php/ro/17-romanian/80-ciobanesc-romanesc-carpatin",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official Romanian Kennel Club (Asociația Chinologică Română / AChR) breed standard and profile for Ciobănesc Românesc Carpatin (Zăvod), documenting the 1934 first description in the Romanian Veterinary Science Magazine, 1998 and 2001 standard revisions, height limits, typical working weight (32-45 kg), and health screening.",
+    accessedOn: "2026-11-25",
+    note: "Live Romanian Kennel Club (Asociația Chinologică Română / AChR) breed page for Ciobănesc Românesc Carpatin (FCI 350), linking the Romanian, English, and French breed standards and dysplasia screening resources.",
     publisher: "Asociația Chinologică Română"
   },
-  "akc-romanian-carpathian-shepherd-breed-profile": {
+"akc-romanian-carpathian-shepherd-breed-profile": {
     id: "akc-romanian-carpathian-shepherd-breed-profile",
-    name: "American Kennel Club - Romanian Carpathian Shepherd Dog Breed Information",
+    name: "American Kennel Club — Romanian Carpathian Shepherd Breed Information",
     url: "https://www.akc.org/dog-breeds/romanian-carpathian-shepherd/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed profile (Foundation Stock Service, Herding Group) covering Carpathian Mountain pastoral history, weight (70-100 lbs / approx. 32-45 kg), lifespan (12-14 years), temperament, and grooming.",
+    accessedOn: "2026-11-25",
+    note: "Official AKC Foundation Stock Service profile (accepted November 2021) covering height (26-29 in males, 23-26 in females), weight (70-100 lbs), lifespan (12-14 years), May-June undercoat shed, 1-2 hours daily exercise, pack-motivated training, modest natural appetite, black-and-white newborn puppies, and health overview.",
     publisher: "American Kennel Club"
   },
-  "ukc-romanian-carpathian-shepherd-breed-standard": {
+"ukc-romanian-carpathian-shepherd-breed-standard": {
     id: "ukc-romanian-carpathian-shepherd-breed-standard",
-    name: "United Kennel Club - Romanian Carpathian Shepherd Breed Standard",
-    url: "https://www.ukcdogs.com/romanian-carpathian-shepherd",
-    type: "official_breed_standard",
-    publishedOn: "2012-05-01",
-    accessedOn: "2026-11-12",
-    note: "Official UKC breed standard (Guardian Dog Group, recognized 2012) covering conformation, rectangular proportions, wolf-grey double coat, height (males 25.5-28.5 in / 65-73 cm; females 23-26.5 in / 59-67 cm), and guardian behavior.",
-    publisher: "United Kennel Club"
+    name: "FCI General Assembly in Milan, June 2015 — Breeds recognised on a definitive basis",
+    url: "https://www.fci.be/en/FCI-General-Assembly-in-Milan-June-2015-Breeds-recognised-on-a-definitive-basis-167.html",
+    type: "kennel_club",
+    publishedOn: "2015-06-15",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID in place (UKC does not recognize the Romanian Carpathian Shepherd; replaced broken UKC URL). Official FCI announcement confirming definitive recognition of Ciobanesc Românesc Carpatin (350) in Group 1 Section 1, eligible for CACIB from June 10, 2015.",
+    publisher: "Fédération Cynologique Internationale"
   },
-  "wikimedia-ciobanesc-romanesc-carpatin-lilly-m": {
+"wikimedia-ciobanesc-romanesc-carpatin-lilly-m": {
     id: "wikimedia-ciobanesc-romanesc-carpatin-lilly-m",
-    name: "Wikimedia Commons - File:Ciobanesc Romanesc Carpatin.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Ciobanesc_Romanesc_Carpatin.jpg",
+    name: "Wikimedia Commons — File:Romanian Carpathian Shepherd Dog.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Romanian_Carpathian_Shepherd_Dog.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-12",
-    note: "High-resolution photograph (2480 x 1860 px) of an adult wolf-grey Romanian Carpathian Shepherd Dog standing outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2008-09-24",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID in place (replaced broken original URL). Photograph (1300 x 925 px) of an adult male Romanian Carpathian Shepherd Dog by DannyFaQ (captured 2008-05-24, uploaded 2008-09-24). Released into the public domain worldwide by the copyright holder.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-carpathian-shepherd-dog-canarian": {
+"wikimedia-carpathian-shepherd-dog-canarian": {
     id: "wikimedia-carpathian-shepherd-dog-canarian",
-    name: "Wikimedia Commons - File:Carpathian Shepherd Dog.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Carpathian_Shepherd_Dog.jpg",
+    name: "Wikimedia Commons — File:Carpathian Shepherd Dog, the Carpathian Mountains, Romania (2023-08-20).jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Carpathian_Shepherd_Dog,_the_Carpathian_Mountains,_Romania_(2023-08-20).jpg",
     type: "other",
-    publishedOn: "2012-05-20",
-    accessedOn: "2026-11-12",
-    note: "Photograph of a Romanian Carpathian Shepherd Dog standing in profile outdoors by Canarian (captured 2012-05-19, uploaded 2012-05-20, 800 x 600 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2025-12-17",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID in place (replaced broken original URL). Photograph (2048 x 1536 px) of a Carpathian Shepherd Dog guarding sheep in the Parâng Mountains, Romania, by Olgierd Rudak (captured 2023-08-20, uploaded 2025-12-17). Licensed CC BY-SA 4.0.",
     publisher: "Wikimedia Commons"
   },
-  "fci-kerry-blue-terrier-official-standard": {
+"fci-kerry-blue-terrier-official-standard": {
     id: "fci-kerry-blue-terrier-official-standard",
-    name: "FCI - Kerry Blue Terrier Official Breed Standard No. 3",
+    name: "FCI-Standard N° 3 — Kerry Blue Terrier",
     url: "https://www.fci.be/Nomenclature/Standards/003g03-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2005-05-11",
-    accessedOn: "2026-11-12",
-    note: "Official English FCI Standard No. 3 (valid standard dated 2005-04-19, published 2005-05-11). Covers Irish origin in County Kerry, Group 3 Terriers, Section 1 Large and medium sized Terriers classification without working trial, soft wavy blue coat clearing by 18 months, dark gums, withers height (dogs 18-19.5 in / 45.5-49.5 cm; bitches 17.5-19 in / 44.5-48 cm), and weight (dogs 33-40 lbs / 15-18 kg).",
+    publishedOn: "2005-04-19",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 3 (official valid standard dated 2005-04-19; English PDF published 2005-05-11). Covers Ireland origin, Group 3 Section 1 Large and medium sized Terriers without working trial, soft wavy blue coat clearing by 18 months, dark gums, height (dogs 18-19.5 in / 45.5-49.5 cm; bitches 17.5-19 in / 44.5-48 cm), and weight (dogs 33-40 lbs / 15-18 kg; bitches proportionately less).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-kerry-blue-terrier-nomenclature": {
+"fci-kerry-blue-terrier-nomenclature": {
     id: "fci-kerry-blue-terrier-nomenclature",
-    name: "FCI - Kerry Blue Terrier Breed Nomenclature (No. 3)",
+    name: "FCI Breeds Nomenclature — Kerry Blue Terrier (3)",
     url: "https://www.fci.be/en/nomenclature/KERRY-BLUE-TERRIER-3.html",
     type: "official_breed_standard",
-    publishedOn: "2005-05-11",
-    accessedOn: "2026-11-12",
-    note: "Official FCI breed nomenclature record confirming Ireland as country of origin, Group 3 Section 1 classification without working trial, definitive recognition date (1955-05-26), and official multilingual name (Kerry Blue Terrier).",
+    publishedOn: "1963-04-02",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Ireland as country of origin, Group 3 Section 1 Large and medium sized Terriers without working trial, definitive acceptance on 1963-04-02, official valid standard dated 2005-04-19 (published 2005-05-11), and French name Terrier Kerry Blue.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "the-kennel-club-kerry-blue-terrier-breed-standard": {
+"the-kennel-club-kerry-blue-terrier-breed-standard": {
     id: "the-kennel-club-kerry-blue-terrier-breed-standard",
-    name: "The Royal Kennel Club - Kerry Blue Terrier Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/terrier/kerry-blue-terrier/",
+    name: "The Royal Kennel Club — Kerry Blue Terrier Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/terrier/kerry-blue-terrier/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-11-12",
-    note: "Official Royal Kennel Club breed standard (Terrier Group) establishing conformation, soft silky wavy blue coat, dark gums, scissor bite, and disciplined gameness temperament.",
+    accessedOn: "2026-11-25",
+    note: "Live Royal Kennel Club Terrier Group breed standard (updated from legacy thekennelclub.org.uk URL). Covers conformation, head, soft wavy blue coat, permissible small white chest patch, and alert terrier character.",
     publisher: "The Royal Kennel Club"
   },
-  "akc-kerry-blue-terrier-breed-standard": {
+"akc-kerry-blue-terrier-breed-standard": {
     id: "akc-kerry-blue-terrier-breed-standard",
-    name: "American Kennel Club - Official Standard of the Kerry Blue Terrier",
+    name: "American Kennel Club — Official Standard of the Kerry Blue Terrier",
     url: "https://images.akc.org/pdf/breeds/standards/KerryBlueTerrier.pdf",
     type: "official_breed_standard",
-    publishedOn: "1994-05-10",
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed standard (Terrier Group) establishing ideal height (18.5 inches for dogs; primary preference 18 to 19.5 inches dogs, 17.5 to 19 inches bitches), desirable weight (33 to 40 pounds for dogs, bitches proportionately less), coat clearing rules, and punishing jaws.",
+    publishedOn: "2006-01-01",
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed standard (approved 2005-10-10, effective 2006-01-01). Covers ideal 18.5 in dog height (primary preference 18-19.5 in dogs, 17.5-19 in bitches), 33-40 lb dog weight (bitches proportionately less), coat clearing from black at birth, and 18-month black disqualification.",
     publisher: "American Kennel Club"
   },
-  "akc-kerry-blue-terrier-breed-profile": {
+"akc-kerry-blue-terrier-breed-profile": {
     id: "akc-kerry-blue-terrier-breed-profile",
-    name: "American Kennel Club - Kerry Blue Terrier Dog Breed Information",
+    name: "American Kennel Club — Kerry Blue Terrier Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/kerry-blue-terrier/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed profile covering County Kerry history, 1922 IKC and AKC recognition, non-shedding wavy coat, lifespan (12-15 years), temperament, and grooming.",
+    accessedOn: "2026-11-25",
+    note: "Official AKC Terrier Group profile (recognized 1922; rank 155 of 210) covering height, weight, 12-15 year lifespan, weekly brushing, 6-8 week full groom, weekly nail trims, twice-monthly ear cleaning, dog-park caution, and National Breed Club recommended hip and ophthalmologist evaluations.",
     publisher: "American Kennel Club"
   },
-  "kerry-blue-terrier-factor-xi-study-1994": {
+"kerry-blue-terrier-factor-xi-study-1994": {
     id: "kerry-blue-terrier-factor-xi-study-1994",
-    name: "Factor XI Deficiency in Kerry Blue Terriers (J Am Vet Med Assoc 1994)",
+    name: "Factor XI deficiency in Kerry Blue Terriers (J Am Vet Med Assoc 1994)",
     url: "https://pubmed.ncbi.nlm.nih.gov/7730123/",
     type: "scientific",
     publishedOn: "1994-12-01",
-    accessedOn: "2026-11-12",
-    note: "Peer-reviewed scientific study (Knowler et al., J Am Vet Med Assoc 1994;205(11):1557-1561, PMID 7730123) documenting autosomal recessive coagulation Factor XI deficiency (F11 mutation) causing prolonged post-operative bleeding in Kerry Blue Terriers.",
+    accessedOn: "2026-11-25",
+    note: "Knowler C, Giger U, Dodds WJ, Brooks M. J Am Vet Med Assoc. 1994 Dec 1;205(11):1557-61 (PMID 7730123). Documents coagulation Factor XI deficiency in Kerry Blue Terriers with an autosomal mode of inheritance and mild posttraumatic or postoperative bleeding in both homozygous and heterozygous dogs.",
     publisher: "Journal of the American Veterinary Medical Association / PubMed"
   },
-  "kerry-blue-terrier-serac1-msd-study-2024": {
+"kerry-blue-terrier-serac1-msd-study-2024": {
     id: "kerry-blue-terrier-serac1-msd-study-2024",
     name: "Canine Multiple System Degeneration Associated with Sequence Variants in SERAC1 (Genes 2024)",
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11593849/",
     type: "scientific",
-    publishedOn: "2024-11-01",
-    accessedOn: "2026-11-12",
-    note: "Peer-reviewed scientific study (Genes (Basel) 2024;15(11):1378) establishing the autosomal recessive nonsense variant (c.1536G>A) in the SERAC1 gene responsible for progressive neuronal abiotrophy / canine multiple system degeneration in Kerry Blue Terriers.",
+    publishedOn: "2024-10-25",
+    accessedOn: "2026-11-25",
+    note: "Genes (Basel). 2024 Oct 25;15(11):1378 (doi: 10.3390/genes15111378; PMID 39596578; PMC11593849). Confirms autosomal recessive SERAC1 sequence variants causing canine multiple system degeneration (CMSD / progressive neuronal abiotrophy) in Kerry Blue Terriers and Chinese Crested dogs.",
     publisher: "Genes (Basel) / PubMed Central"
   },
-  "wikimedia-kerry-blue-terrier-peter-kumpert": {
+"wikimedia-kerry-blue-terrier-peter-kumpert": {
     id: "wikimedia-kerry-blue-terrier-peter-kumpert",
-    name: "Wikimedia Commons - File:Kerry Blue Terrier.jpg",
+    name: "Wikimedia Commons — File:Kerry Blue Terrier.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Kerry_Blue_Terrier.jpg",
     type: "other",
-    publishedOn: "2009-03-18",
-    accessedOn: "2026-11-12",
-    note: "High-resolution photograph (2336 x 2276 px) of an adult Kerry Blue Terrier (Ceallach Blue Ivanhoe) in České Budějovice by Peter Kumpert (captured April 2005, uploaded 2009-03-18). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2011-04-09",
+    accessedOn: "2026-11-25",
+    note: "Photograph (2336 x 2276 px) of Kerry Blue Terrier Ceallach Blue Ivanhoe in České Budějovice by Peter Kumpert (captured April 2005; high-res uploaded by Alofok on 2011-04-09). Licensed CC BY-SA 3.0 (attribution: © Peter Kumpert (Kempten)); uploader notice prohibits uploading to Facebook or other social networking sites.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-kerry-blue-terrier-052004-eponimm": {
+"wikimedia-kerry-blue-terrier-052004-eponimm": {
     id: "wikimedia-kerry-blue-terrier-052004-eponimm",
-    name: "Wikimedia Commons - File:Kerry blue terrier 052004.JPG",
+    name: "Wikimedia Commons — File:Kerry blue terrier 052004.JPG",
     url: "https://commons.wikimedia.org/wiki/File:Kerry_blue_terrier_052004.JPG",
     type: "other",
     publishedOn: "2010-08-04",
-    accessedOn: "2026-11-12",
-    note: "Photograph (1280 x 960 px) of a female Kerry Blue Terrier standing in grass outdoors by Eponimm (captured May 2004, uploaded 2010-08-04). Licensed under CC BY 3.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-25",
+    note: "Photograph (1280 x 960 px) of a female Kerry Blue Terrier standing on grass by Eponimm (summary date May 2004; uploaded 2010-08-04). Dual-licensed GFDL 1.2+ / CC BY 3.0 Unported.",
     publisher: "Wikimedia Commons"
   },
-  "fci-grand-basset-griffon-vendeen-official-standard": {
+"fci-grand-basset-griffon-vendeen-official-standard": {
     id: "fci-grand-basset-griffon-vendeen-official-standard",
-    name: "FCI - Grand Basset Griffon Vendéen Official Breed Standard No. 33",
+    name: "FCI-Standard N° 33 — Grand Basset Griffon Vendéen",
     url: "https://www.fci.be/Nomenclature/Standards/033g06-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "1999-02-18",
-    accessedOn: "2026-11-12",
-    note: "Official English FCI Standard No. 33 (valid standard dated 1999-01-09, published 1999-02-18). Covers French origin in Vendée, Group 6 Scenthounds and related breeds, Section 1.3 Small-sized Hounds classification with working trial, elongated basset build with straight legs, rough double coat, inward-curling drop ears, and withers height (males 40-44 cm, females 39-43 cm, tolerance +/- 1 cm).",
+    publishedOn: "1999-01-09",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 33 (official valid standard dated 1999-01-09; English PDF published 2001-02-14). Covers France origin, Group 6 Section 1.3 Small-sized Hounds with working trial, Comte d'Elva and Paul Dezamy (~43 cm) history, straight forelegs, hard flat rough coat, 8 accepted colour patterns, and withers height (males 40-44 cm, females 39-43 cm, ±1 cm tolerance).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-grand-basset-griffon-vendeen-nomenclature": {
+"fci-grand-basset-griffon-vendeen-nomenclature": {
     id: "fci-grand-basset-griffon-vendeen-nomenclature",
-    name: "FCI - Grand Basset Griffon Vendéen Breed Nomenclature (No. 33)",
+    name: "FCI Breeds Nomenclature — Grand Basset Griffon Vendéen (33)",
     url: "https://www.fci.be/en/nomenclature/GRAND-BASSET-GRIFFON-VENDEEN-33.html",
     type: "official_breed_standard",
-    publishedOn: "1999-02-18",
-    accessedOn: "2026-11-12",
-    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.3 classification with working trial, definitive recognition date (1967-04-27), and official multilingual name (Grand Basset Griffon Vendéen).",
+    publishedOn: "1967-01-17",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.3 Small-sized Hounds subject to a working trial, definitive acceptance on 1967-01-17, official valid standard dated 1999-01-09, and English PDF publication on 2001-02-14.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "scc-grand-basset-griffon-vendeen-standard": {
+"scc-grand-basset-griffon-vendeen-standard": {
     id: "scc-grand-basset-griffon-vendeen-standard",
-    name: "Société Centrale Canine - Standard et Profil du Grand Basset Griffon Vendéen",
+    name: "Société Centrale Canine — Grand Basset Griffon Vendéen",
     url: "https://www.centrale-canine.fr/le-chien-de-race/grand-basset-griffon-vendeen",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official French kennel club (SCC) breed profile and standard for Grand Basset Griffon Vendéen, documenting Vendée heritage, Comte Christian d'Elva and Paul Dezamy history, 1950 and 1975 separation from PBGV, height (39-44 cm), weight (18-20 kg), and hunting trials.",
+    accessedOn: "2026-11-25",
+    note: "Official French kennel club (SCC) breed page documenting height (39-44 cm), light working weight guidance (not exceeding 17-19 kg), Comte d'Elva and Paul/Abel Desamy history, early recall training, and active countryside/city exercise needs.",
     publisher: "Société Centrale Canine"
   },
-  "club-du-griffon-vendeen-gbgv-profile": {
+"club-du-griffon-vendeen-gbgv-profile": {
     id: "club-du-griffon-vendeen-gbgv-profile",
-    name: "Club du Griffon Vendéen - Le Grand Basset Griffon Vendéen",
-    url: "https://www.griffonvendeen.fr/le-grand-basset-griffon-vendeen/",
+    name: "Club du Griffon Vendéen — Le Grand Basset Griffon Vendéen (SCC Portal)",
+    url: "https://www.centrale-canine.fr/club-du-griffon-vendeen/articles/le-grand-basset-griffon-vendeen",
     type: "breed_club",
-    publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official French parent breed club portal documenting morphological traits, weight (18-20 kg), lifespan (12-14 years), rough-coat care, and health screening for POAG and hip dysplasia.",
-    publisher: "Club du Griffon Vendéen"
+    publishedOn: "2022-04-03",
+    accessedOn: "2026-11-25",
+    note: "Official French parent club (Club du Griffon Vendéen) GBGV page hosted on Société Centrale Canine (updated from legacy griffonvendeen.fr URL).",
+    publisher: "Club du Griffon Vendéen / Société Centrale Canine"
   },
-  "the-kennel-club-grand-basset-griffon-vendeen-standard": {
+"the-kennel-club-grand-basset-griffon-vendeen-standard": {
     id: "the-kennel-club-grand-basset-griffon-vendeen-standard",
-    name: "The Royal Kennel Club - Basset Griffon Vendeen (Grand) Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/hound/basset-griffon-vendeen-grand/",
+    name: "The Royal Kennel Club — Basset Griffon Vendeen (Grand) Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/hound/basset-griffon-vendeen-grand/",
     type: "official_breed_standard",
-    publishedOn: "2025-04-01",
-    accessedOn: "2026-11-12",
-    note: "Official Royal Kennel Club breed standard (Hound Group) confirming withers height (dogs 40-44 cms, bitches 39-43 cms), rough coat, long inward-curling ears, and outgoing hound temperament.",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Live Royal Kennel Club Hound Group breed profile (updated from legacy thekennelclub.org.uk URL) confirming medium size, more than 2 hours daily exercise, and Breed Watch status.",
     publisher: "The Royal Kennel Club"
   },
-  "akc-grand-basset-griffon-vendeen-breed-profile": {
+"akc-grand-basset-griffon-vendeen-breed-profile": {
     id: "akc-grand-basset-griffon-vendeen-breed-profile",
-    name: "American Kennel Club - Grand Basset Griffon Vendéen Dog Breed Information",
+    name: "American Kennel Club — Grand Basset Griffon Vendéen Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/grand-basset-griffon-vendeen/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed profile (Hound Group) covering Vendée foot-hunting history, weight (40-45 lbs / approx. 18-20 kg), lifespan (12-14 years), temperament, and grooming.",
+    accessedOn: "2026-11-25",
+    note: "Official AKC Hound Group profile (recognized 2018; rank 200 of 211) covering height (15.5-18 in), weight (40-45 lbs), lifespan (13-15 years), weekly brushing, fenced exercise area, interbreeding with PBGV until the 1970s, mantrailing, and National Breed Club recommended Hip and Ophthalmologist evaluations.",
     publisher: "American Kennel Club"
   },
   "ofa-grand-basset-griffon-vendeen-chic-requirements": {
@@ -16310,104 +16310,104 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Grand Basset Griffon Vendéen, mandating radiographic hip dysplasia evaluation, CAER eye examination, and Primary Open-Angle Glaucoma (POAG) DNA test.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "gbgv-poag-adamts17-study-2017": {
+"gbgv-poag-adamts17-study-2017": {
     id: "gbgv-poag-adamts17-study-2017",
-    name: "An ADAMTS17 Splice Donor Site Mutation Causes Primary Open-Angle Glaucoma in the Grand Basset Griffon Vendéen (Genes 2017)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/28895919/",
+    name: "A Novel Genome-Wide Association Study Approach Using Genotyping by Exome Sequencing Leads to the Identification of a Primary Open Angle Glaucoma Associated Inversion Disrupting ADAMTS17 (PLoS One 2015)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/26683476/",
     type: "scientific",
-    publishedOn: "2017-09-12",
-    accessedOn: "2026-11-12",
-    note: "Peer-reviewed scientific study (Oliver et al., Genes (Basel) 2017;8(9):225, PMID 28895919) identifying an autosomal recessive splice donor site mutation in the ADAMTS17 gene responsible for primary open-angle glaucoma (POAG) in Grand Basset Griffon Vendéen dogs.",
-    publisher: "Genes (Basel) / PubMed"
+    publishedOn: "2015-12-18",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID in place (replaced fabricated PMID 28895919 which was a human NAFLD editorial). Forman OP et al., PLoS One 2015 Dec 18;10(12):e0143546 (PMID 26683476 / PMC4684296). Establishes an autosomal recessive ADAMTS17 inversion causing POAG in the closely related Petit Basset Griffon Vendéen (interbred with GBGV until the 1970s), supporting specialist eye screening.",
+    publisher: "PLoS One / PubMed"
   },
-  "wikimedia-grand-basset-griffon-vendeen-lilly-m": {
+"wikimedia-grand-basset-griffon-vendeen-lilly-m": {
     id: "wikimedia-grand-basset-griffon-vendeen-lilly-m",
-    name: "Wikimedia Commons - File:Grand Basset Griffon Vendéen.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vend%C3%A9en.jpg",
+    name: "Wikimedia Commons — File:Grand Basset Griffon Vendéen in Tallinn.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vend%C3%A9en_in_Tallinn.JPG",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-12",
-    note: "High-resolution photograph (2592 x 1944 px) of an adult Grand Basset Griffon Vendéen standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2013-10-16",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID in place (replaced mismatched metadata). High-resolution photograph (1962 x 1417 px) of a Grand Basset Griffon Vendéen in Tallinn by Томасина (captured 2013-08-17, uploaded 2013-10-16). Licensed CC BY-SA 3.0.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-grand-basset-griffon-vendeen-600-tomasz-sienicki": {
+"wikimedia-grand-basset-griffon-vendeen-600-tomasz-sienicki": {
     id: "wikimedia-grand-basset-griffon-vendeen-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Grand Basset Griffon Vendeen 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vendeen_600.jpg",
+    name: "Wikimedia Commons — File:Grand Basset Griffon Vendéen in Tallinn 6.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vend%C3%A9en_in_Tallinn_6.JPG",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-12",
-    note: "Photograph of a Grand Basset Griffon Vendéen standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2013-10-16",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID in place (replaced broken original URL). High-resolution photograph (2511 x 1814 px) of a Grand Basset Griffon Vendéen in Tallinn by Томасина (captured 2013-08-18, uploaded 2013-10-16). Licensed CC BY-SA 3.0.",
     publisher: "Wikimedia Commons"
   },
-  "fci-irish-water-spaniel-official-standard": {
+"fci-irish-water-spaniel-official-standard": {
     id: "fci-irish-water-spaniel-official-standard",
-    name: "FCI - Irish Water Spaniel Official Breed Standard No. 124",
+    name: "FCI-Standard N° 124 — Irish Water Spaniel",
     url: "https://www.fci.be/Nomenclature/Standards/124g08-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2001-03-13",
-    accessedOn: "2026-11-12",
-    note: "Official English FCI Standard No. 124 (valid standard dated 2001-03-13). Covers Irish origin, Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 3 Water Dogs classification with working trial, crisp puce-liver ringlets, smooth face, topknot, tapering rat tail, and withers height (dogs 53-59 cm / 21-23 ins; bitches 51-56 cm / 20-22 ins).",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 124 (official valid standard dated 2001-03-13; English PDF published 2002-11-08). Covers Ireland origin, Group 8 Section 3 Water Dogs with working trial, puce-liver curly coat, topknot, tapering rat tail, and withers height (dogs 53-59 cm, bitches 51-56 cm).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-irish-water-spaniel-nomenclature": {
+"fci-irish-water-spaniel-nomenclature": {
     id: "fci-irish-water-spaniel-nomenclature",
-    name: "FCI - Irish Water Spaniel Breed Nomenclature (No. 124)",
+    name: "FCI Breeds Nomenclature — Irish Water Spaniel (124)",
     url: "https://www.fci.be/en/nomenclature/IRISH-WATER-SPANIEL-124.html",
     type: "official_breed_standard",
-    publishedOn: "2001-03-13",
-    accessedOn: "2026-11-12",
-    note: "Official FCI breed nomenclature record confirming Ireland as country of origin, Group 8 Section 3 classification with working trial, definitive recognition date (1954-11-26), and multilingual names (Épagneul d'eau irlandais, Irischer Wasserspaniel, Perro de agua irlandés).",
+    publishedOn: "1954-12-28",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Ireland as country of origin, Group 8 Section 3 Water Dogs subject to a working trial, definitive acceptance on 1954-12-28, official valid standard dated 2001-03-13 (English PDF 2002-11-08), and multilingual names (Chien d'eau irlandais, Irischer Wasserspaniel, Perro de agua irlandés).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "the-kennel-club-irish-water-spaniel-breed-standard": {
+"the-kennel-club-irish-water-spaniel-breed-standard": {
     id: "the-kennel-club-irish-water-spaniel-breed-standard",
-    name: "The Royal Kennel Club - Irish Water Spaniel Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/gundog/spaniel-irish-water/",
+    name: "The Royal Kennel Club — Spaniel (Irish Water) Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/gundog/spaniel-irish-water/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-11-12",
-    note: "Official Royal Kennel Club breed standard (Gundog Group) establishing withers height (dogs 53-59 cms / 21-23 ins; bitches 51-56 cms / 20-22 ins), dense crisp ringlets, topknot, rat tail, and intelligent gundog temperament.",
+    accessedOn: "2026-11-25",
+    note: "Live Royal Kennel Club Gundog Group breed standard (updated from legacy thekennelclub.org.uk URL). Covers puce-liver coloration, scissor bite, almond brown eyes, spreading well-haired feet, and stable, humorous temperament.",
     publisher: "The Royal Kennel Club"
   },
-  "akc-irish-water-spaniel-breed-standard": {
+"akc-irish-water-spaniel-breed-standard": {
     id: "akc-irish-water-spaniel-breed-standard",
-    name: "American Kennel Club - Official Standard of the Irish Water Spaniel",
+    name: "American Kennel Club — Official Standard for the Irish Water Spaniel",
     url: "https://images.akc.org/pdf/breeds/standards/IrishWaterSpaniel.pdf",
     type: "official_breed_standard",
-    publishedOn: "1993-02-09",
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed standard (Sporting Group, effective 1993) establishing height (dogs 22 to 24 inches; bitches 21 to 23 inches), weight (dogs 55 to 68 pounds; bitches 45 to 58 pounds), scissor bite, webbed feet, and puce-liver coloration.",
+    publishedOn: "2009-09-01",
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed standard (approved 2009-07-14, effective 2009-09-01). Covers height (dogs 22-24 in, bitches 21-23 in), weight (dogs 55-68 lb, bitches 45-58 lb), lower-jaw beard, smooth throat V-patch, 2-3 in curled rat-tail base, smooth lower hind shins, and puce-liver color.",
     publisher: "American Kennel Club"
   },
-  "akc-irish-water-spaniel-breed-profile": {
+"akc-irish-water-spaniel-breed-profile": {
     id: "akc-irish-water-spaniel-breed-profile",
-    name: "American Kennel Club - Irish Water Spaniel Dog Breed Information",
+    name: "American Kennel Club — Irish Water Spaniel Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/irish-water-spaniel/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed profile covering Justin McCarthy and Boatswain (1834) history, 1875 studbook registration, lifespan (12-13 years), temperament, and grooming.",
+    accessedOn: "2026-11-25",
+    note: "Official AKC Sporting Group profile (recognized 1878; rank 169 of 211) covering lifespan (12-13 years), sulfa-antibiotic and ivermectin drug sensitivity warnings, weekly brushing, bimonthly trims, high exercise needs, and National Breed Club recommended Hip, Elbow, Ophthalmologist, and Thyroid evaluations.",
     publisher: "American Kennel Club"
   },
-  "ukc-irish-water-spaniel-breed-standard": {
+"ukc-irish-water-spaniel-breed-standard": {
     id: "ukc-irish-water-spaniel-breed-standard",
-    name: "United Kennel Club - Irish Water Spaniel Breed Standard",
-    url: "https://www.ukcdogs.com/irish-water-spaniel",
-    type: "official_breed_standard",
-    publishedOn: "2006-05-01",
-    accessedOn: "2026-11-12",
-    note: "Official UKC breed standard (Gun Dog Group, recognized 1923, revised 2006) covering conformation, barrel chest, topknot, rat tail, height, weight, and water retrieving behavior.",
-    publisher: "United Kennel Club"
+    name: "American Kennel Club — Irish Water Spaniel Facts You May Not Know",
+    url: "https://www.akc.org/expert-advice/lifestyle/fun-facts-irish-water-spaniel/",
+    type: "kennel_club",
+    publishedOn: "2026-08-05",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID in place (replaced unverified UKC URL). Official AKC feature covering the breed's ancient spaniel roots, unrecorded early ancestry, functional curly coat and rat tail, and athletic dog-sport versatility.",
+    publisher: "American Kennel Club"
   },
-  "iwsca-irish-water-spaniel-health": {
+"iwsca-irish-water-spaniel-health": {
     id: "iwsca-irish-water-spaniel-health",
-    name: "Irish Water Spaniel Club of America - Breed Health and Genetics",
-    url: "https://www.iwsca.org/health",
+    name: "Irish Water Spaniel Club of America — Health Overview",
+    url: "https://iwsca.org/Health_Overview",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official parent breed club health portal documenting hip and elbow dysplasia, hypothyroidism, cataracts, distichiasis, megaesophagus, ear hygiene, and working weight guidelines (25-30 kg males, 20-26 kg females).",
+    accessedOn: "2026-11-25",
+    note: "Live IWSCA Health Overview (updated from legacy /health URL) documenting serious or fatal sulfa-drug sensitivities and CHIC recommended health tests (Hips, Elbows, Eyes, Heart).",
     publisher: "Irish Water Spaniel Club of America"
   },
   "ofa-irish-water-spaniel-chic-requirements": {
@@ -16420,54 +16420,54 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Irish Water Spaniel, mandating radiographic hip dysplasia evaluation, radiographic elbow dysplasia evaluation, CAER eye examination, and thyroid panel.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-irish-water-spaniel-lilly-m": {
+"wikimedia-irish-water-spaniel-lilly-m": {
     id: "wikimedia-irish-water-spaniel-lilly-m",
-    name: "Wikimedia Commons - File:Irish Water Spaniel.jpg",
+    name: "Wikimedia Commons — File:Irish Water Spaniel.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Irish_Water_Spaniel.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-12",
-    note: "High-resolution photograph (2496 x 1872 px) of an adult liver-colored Irish Water Spaniel standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2018-09-17",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID in place (corrected creator, dimensions, dates, and license). Photograph (1970 x 1657 px) of a liver Irish Water Spaniel by Canarian (captured 2018-09-08, uploaded 2018-09-17). Licensed CC BY-SA 4.0.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-irish-water-spaniel-600-tomasz-sienicki": {
+"wikimedia-irish-water-spaniel-600-tomasz-sienicki": {
     id: "wikimedia-irish-water-spaniel-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Irish Water Spaniel 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Irish_Water_Spaniel_600.jpg",
+    name: "Wikimedia Commons — File:Ierse Water Spaniel.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Ierse_Water_Spaniel.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-12",
-    note: "Photograph of an Irish Water Spaniel standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2023-11-04",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID in place (replaced broken original URL). High-resolution photograph (3888 x 2592 px) of a standing Irish Water Spaniel by Roete002 (captured 2011-08-07, uploaded 2023-11-04). Licensed CC BY 4.0.",
     publisher: "Wikimedia Commons"
   },
-  "akc-belgian-laekenois-breed-standard": {
+"akc-belgian-laekenois-breed-standard": {
     id: "akc-belgian-laekenois-breed-standard",
-    name: "American Kennel Club - Official Standard of the Belgian Laekenois",
+    name: "American Kennel Club — Official Standard of the Belgian Laekenois",
     url: "https://images.akc.org/pdf/breeds/standards/BelgianLaekenois.pdf",
     type: "official_breed_standard",
     publishedOn: "2011-06-30",
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed standard (Herding Group, full recognition July 1, 2020) establishing height (males 24 to 26 inches, females 22 to 24 inches), square proportions, rough tousled fawn coat, scissor bite, and active herding temperament.",
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed standard (approved 2010-11-10, effective 2011-06-30; full Herding Group recognition 2020-07-01). Covers height (males 24-26 in, females 22-24 in), square proportions, rough tousled coat (~2.5 in) with muzzle beard and no tail plume, scissor/even bite, and single-tracking curved gait.",
     publisher: "American Kennel Club"
   },
-  "akc-belgian-laekenois-breed-profile": {
+"akc-belgian-laekenois-breed-profile": {
     id: "akc-belgian-laekenois-breed-profile",
-    name: "American Kennel Club - Belgian Laekenois Dog Breed Information",
+    name: "American Kennel Club — Belgian Laekenois Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/belgian-laekenois/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed profile covering Laeken royal estate history, linen field guarding, World War messenger service, weight (55-65 lbs / 25-30 kg), lifespan (10-12 years), temperament, and rough-coat grooming.",
+    accessedOn: "2026-11-25",
+    note: "Official AKC Herding Group profile (recognized 2020; rank 196 of 211) covering height (24-26 in / 22-24 in), weight (55-65 lbs), lifespan (10-12 years), weekly brushing, active lifestyle, early socialization, and National Breed Club recommended Hip, Elbow, Cardiac, Ophthalmologist, Thyroid, and Dentition exams.",
     publisher: "American Kennel Club"
   },
-  "the-kennel-club-belgian-shepherd-dog-laekenois-standard": {
+"the-kennel-club-belgian-shepherd-dog-laekenois-standard": {
     id: "the-kennel-club-belgian-shepherd-dog-laekenois-standard",
-    name: "The Royal Kennel Club - Belgian Shepherd Dog (Laekenois) Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/pastoral/belgian-shepherd-dog-laekenois/",
+    name: "The Royal Kennel Club — Belgian Shepherd Dog (Laekenois) Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/pastoral/belgian-shepherd-dog-laekenois/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-11-12",
-    note: "Official Royal Kennel Club breed standard (Pastoral Group) confirming ideal height (dogs 62 cms / 24.5 ins, bitches 58 cms / 23 ins), rough wiry fawn coat with black shading, and watchful pastoral temperament.",
+    accessedOn: "2026-11-25",
+    note: "Live Royal Kennel Club Pastoral Group breed standard (updated from legacy thekennelclub.org.uk URL). Covers reddish-fawn rough wiry coat with black shading principally in muzzle and tail, four-variety structure, and watchful pastoral temperament.",
     publisher: "The Royal Kennel Club"
   },
   "ofa-belgian-laekenois-chic-requirements": {
@@ -16480,214 +16480,214 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Belgian Laekenois, mandating radiographic hip dysplasia evaluation, radiographic elbow dysplasia evaluation, CAER eye examination, and thyroid panel.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-laekenois-shepherd-canarian": {
+"wikimedia-laekenois-shepherd-canarian": {
     id: "wikimedia-laekenois-shepherd-canarian",
-    name: "Wikimedia Commons - File:Laekenois Shepherd.JPG",
+    name: "Wikimedia Commons — File:Laekenois Shepherd.JPG",
     url: "https://commons.wikimedia.org/wiki/File:Laekenois_Shepherd.JPG",
     type: "other",
     publishedOn: "2013-10-22",
-    accessedOn: "2026-11-12",
-    note: "Photograph (567 x 437 px) of an adult female Belgian Shepherd Dog (Laekenois) standing in profile outdoors by Canarian (captured 2013-06-08, uploaded 2013-10-22). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-25",
+    note: "Verified photograph (567 x 437 px) of an adult female Belgian Shepherd Dog (Laekenois) by Canarian (captured 2013-06-08, uploaded 2013-10-22). Licensed CC BY-SA 3.0 Unported.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-belgian-laekenois-600-sannse": {
+"wikimedia-belgian-laekenois-600-sannse": {
     id: "wikimedia-belgian-laekenois-600-sannse",
-    name: "Wikimedia Commons - File:Belgian Laekenois 600.jpg",
+    name: "Wikimedia Commons — File:Belgian Laekenois 600.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Belgian_Laekenois_600.jpg",
     type: "other",
     publishedOn: "2005-12-04",
-    accessedOn: "2026-11-12",
-    note: "Photograph (600 x 771 px) of an adult Belgian Shepherd Dog (Laekenois) standing outdoors at the City of Birmingham Championship Dog Show by Sannse (captured 2003-08-30, uploaded 2005-12-04). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-25",
+    note: "Verified photograph (600 x 771 px) of a Belgian Shepherd Dog (Laekenois) at the City of Birmingham Championship Dog Show by sannse, uploaded by PrzemekL (captured 2003-08-30, uploaded 2005-12-04). Dual-licensed GFDL 1.2+ / CC BY-SA 3.0 Unported.",
     publisher: "Wikimedia Commons"
   },
-  "fci-bouvier-des-flandres-official-standard": {
+"fci-bouvier-des-flandres-official-standard": {
     id: "fci-bouvier-des-flandres-official-standard",
     name: "FCI - Bouvier des Flandres / Vlaamse Koehond Official Breed Standard No. 191",
     url: "https://www.fci.be/Nomenclature/Standards/191g01-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2000-10-25",
-    accessedOn: "2026-11-12",
-    note: "Official English FCI Standard No. 191 (valid standard dated 2000-10-25). Covers Belgian and French origin in Flanders, Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs classification with working trial, compact square proportions, tousled rough 6 cm double coat with beard and moustache, withers height (males 62-68 cm, ideal 65 cm; females 59-65 cm, ideal 62 cm), and weight (males 35-40 kg, females 27-35 kg).",
+    publishedOn: "2002-09-27",
+    accessedOn: "2026-11-24",
+    note: "Official English FCI Standard No. 191 (valid standard dated 2000-10-25; English PDF published 2002-09-27). Covers Belgian and French origin in Flanders, Group 1 Sheepdogs and Cattledogs, Section 2 Cattledogs (except Swiss Cattledogs) with working trial, square proportions, rough 6 cm tousled double coat with beard and moustache, accepted colours (grey, brindle, charbonné, uniform black), withers height (males 62-68 cm, ideal 65 cm; females 59-65 cm, ideal 62 cm), and weight (males 35-40 kg, females 27-35 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-bouvier-des-flandres-nomenclature": {
+"fci-bouvier-des-flandres-nomenclature": {
     id: "fci-bouvier-des-flandres-nomenclature",
     name: "FCI - Bouvier des Flandres Breed Nomenclature (No. 191)",
     url: "https://www.fci.be/en/nomenclature/BOUVIER-DES-FLANDRES-191.html",
     type: "official_breed_standard",
     publishedOn: "2000-10-25",
-    accessedOn: "2026-11-12",
-    note: "Official FCI breed nomenclature record confirming Belgium and France as countries of origin, Group 1 Section 1 classification with working trial, definitive recognition date (1955-08-29), and multilingual names (Bouvier des Flandres, Vlaamse Koehond, Flandrischer Treibhund, Boyero de Flandes).",
+    accessedOn: "2026-11-24",
+    note: "Official FCI breed nomenclature record confirming Belgium and France as countries of origin, Group 1 Section 2 Cattledogs (except Swiss Cattledogs) classification with working trial, definitive recognition date (1955-11-01), and multilingual names (Bouvier des Flandres, Vlaamse Koehond, Flandrischer Treibhund, Boyero de Flandes).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "srsh-bouvier-des-flandres-standard": {
+"srsh-bouvier-des-flandres-standard": {
     id: "srsh-bouvier-des-flandres-standard",
     name: "Société Royale Saint-Hubert - Standard du Bouvier des Flandres (Vlaamse Koehond)",
-    url: "https://www.srsh.be/fr/races/bouvier-des-flandres",
+    url: "https://www.kmsh.be/fr/bouvier-des-flandres",
     type: "official_breed_standard",
-    publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official Belgian Kennel Club (Société Royale Saint-Hubert / SRSH) breed standard and profile for Bouvier des Flandres, documenting Flanders agricultural origins, 1910/1912 consolidation, Ch. Nic de Sottegem post-WWI survival, height, weight, and working trials.",
+    publishedOn: "2000-10-25",
+    accessedOn: "2026-11-24",
+    note: "Official Belgian Kennel Club (Société Royale Saint-Hubert / KMSH) French-language breed standard for Bouvier des Flandres (valid standard dated 2000-10-25), confirming 3:2 skull-to-muzzle ratio, square proportions, harsh tousled double coat, accepted colours and disqualifying faults, withers height (62-68 cm males, 59-65 cm females), and working heritage.",
     publisher: "Société Royale Saint-Hubert"
   },
-  "scc-bouvier-des-flandres-profile": {
+"scc-bouvier-des-flandres-profile": {
     id: "scc-bouvier-des-flandres-profile",
     name: "Société Centrale Canine - Standard et Profil du Bouvier des Flandres",
     url: "https://www.centrale-canine.fr/le-chien-de-race/bouvier-des-flandres",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official French Kennel Club (SCC) breed profile and standard confirming French Flanders heritage, height (62-68 cm males, 59-65 cm females), weight (35-40 kg males, 27-35 kg females), lifespan (10-12 years), and grooming care.",
+    accessedOn: "2026-11-24",
+    note: "Official French Kennel Club (SCC) breed profile confirming Flanders heritage, toucheurs de bœufs history, height (59-68 cm), weight (27-40 kg), lifespan (10-12 years), rough dry matte coat, and grooming care.",
     publisher: "Société Centrale Canine"
   },
-  "akc-bouvier-des-flandres-breed-standard": {
+"akc-bouvier-des-flandres-breed-standard": {
     id: "akc-bouvier-des-flandres-breed-standard",
     name: "American Kennel Club - Official Standard of the Bouvier des Flandres",
     url: "https://images.akc.org/pdf/breeds/standards/BouvierdesFlandres.pdf",
     type: "official_breed_standard",
-    publishedOn: "1991-06-11",
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed standard (Herding Group, effective June 11, 1991) establishing height (males 24.5 to 27.5 inches, females 23.5 to 26.5 inches), square proportions, tousled weatherproof coat, scissor bite, and equable, fearless temperament.",
+    publishedOn: "2000-02-23",
+    accessedOn: "2026-11-24",
+    note: "Official AKC breed standard (Herding Group, approved January 10, 2000, effective February 23, 2000) establishing height (males 24.5-27.5 inches, ideal 26 in; females 23.5-26.5 inches, ideal 25 in), square proportions, 3:2 skull-to-muzzle ratio, tousled double coat (~2.5 in), natural taillessness allowance, single-tracking fast trot, and equable, fearless temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-bouvier-des-flandres-breed-profile": {
+"akc-bouvier-des-flandres-breed-profile": {
     id: "akc-bouvier-des-flandres-breed-profile",
     name: "American Kennel Club - Bouvier des Flandres Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/bouvier-des-flandres/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed profile covering Flanders cattle-droving history, 'Touchie' and 'Vuilbaard' nicknames, WWI rescue, weight (70-110 lbs), lifespan (10-12 years), temperament, and grooming.",
+    accessedOn: "2026-11-24",
+    note: "Official AKC breed profile covering Flanders cattle-droving history (May 1910 Brussels debut, 1912 first standard, Vuilbaard and Toucheur de Boeuf nicknames), weight (70-110 lbs), lifespan (10-12 years), lower-protein dietary note, grooming, National Breed Club recommended health tests (hip, elbow, cardiac, ophthalmologist), and documented breed health conditions.",
     publisher: "American Kennel Club"
   },
-  "the-kennel-club-bouvier-des-flandres-standard": {
+"the-kennel-club-bouvier-des-flandres-standard": {
     id: "the-kennel-club-bouvier-des-flandres-standard",
     name: "The Royal Kennel Club - Bouvier des Flandres Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/working/bouvier-des-flandres/",
+    url: "https://www.royalkennelclub.com/breed-standards/working/bouvier-des-flandres/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-11-12",
-    note: "Official Royal Kennel Club breed standard (Working Group) confirming withers height (dogs 62-68 cms / 24.5-26.75 ins; bitches 59-65 cms / 23.25-25.5 ins), tousled rough coat, and steady working temperament.",
+    accessedOn: "2026-11-24",
+    note: "Official Royal Kennel Club breed standard (Working Group, updated April 1, 2025) confirming withers height (dogs 62-68 cms, bitches 59-65 cms), weight (dogs 35-40 kgs, bitches 27-35 kgs), tousled rough coat, and steady working temperament.",
     publisher: "The Royal Kennel Club"
   },
-  "ofa-bouvier-des-flandres-chic-requirements": {
+"ofa-bouvier-des-flandres-chic-requirements": {
     id: "ofa-bouvier-des-flandres-chic-requirements",
     name: "Orthopedic Foundation for Animals - Bouvier des Flandres CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=BF",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Bouvier des Flandres, mandating radiographic hip dysplasia evaluation, radiographic elbow dysplasia evaluation, CAER eye examination with gonioscopy, congenital cardiac evaluation, and thyroid panel.",
+    accessedOn: "2026-11-24",
+    note: "Official OFA Canine Health Information Center (CHIC) breed health screening listing for the Bouvier des Flandres (hip dysplasia, elbow dysplasia, cardiac, and ophthalmic evaluations).",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-bouvier-des-flandres-lilly-m": {
+"wikimedia-bouvier-des-flandres-lilly-m": {
     id: "wikimedia-bouvier-des-flandres-lilly-m",
-    name: "Wikimedia Commons - File:Bouvier des Flandres.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres.jpg",
+    name: "Wikimedia Commons - File:Bouvier des Flandres036.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres036.JPG",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-12",
-    note: "High-resolution photograph (2592 x 1944 px) of an adult fawn-brindle Bouvier des Flandres standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2010-10-12",
+    accessedOn: "2026-11-24",
+    note: "High-resolution photograph (4288 x 3216 px) of an adult Bouvier des Flandres outdoors by Yorick39 (captured 2010-10-11, uploaded 2010-10-12). Licensed under CC BY-SA 3.0 Unported / GFDL 1.2+ on Wikimedia Commons. Replaces earlier unverified file under the preserved source ID.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-bouvier-des-flandres-600-tomasz-sienicki": {
+"wikimedia-bouvier-des-flandres-600-tomasz-sienicki": {
     id: "wikimedia-bouvier-des-flandres-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Bouvier des Flandres 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres_600.jpg",
+    name: "Wikimedia Commons - File:Bouvier des Flandres in a garden.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres_in_a_garden.JPG",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-12",
-    note: "Photograph of a Bouvier des Flandres standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2009-05-06",
+    accessedOn: "2026-11-24",
+    note: "Photograph (1608 x 1900 px cropped version by Phương Huy on 2014-08-23; original 3008 x 2000 px by Vyperx1, captured 2009-05-05, uploaded 2009-05-06) of a Bouvier des Flandres standing in a garden. Released into the Public Domain by the copyright holder on Wikimedia Commons. Replaces earlier nonexistent file under the preserved source ID.",
     publisher: "Wikimedia Commons"
   },
-  "fci-basset-fauve-de-bretagne-official-standard": {
+"fci-basset-fauve-de-bretagne-official-standard": {
     id: "fci-basset-fauve-de-bretagne-official-standard",
     name: "FCI - Basset Fauve de Bretagne (Fawn Brittany Basset) Official Breed Standard No. 36",
     url: "https://www.fci.be/Nomenclature/Standards/036g06-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2003-03-25",
-    accessedOn: "2026-11-12",
-    note: "Official English FCI Standard No. 36 (valid standard dated 2003-03-25). Covers French origin in Brittany, Group 6 Scenthounds and related breeds, Section 1.3 Small-sized Hounds classification with working trial, compact agile basset build, very harsh fawn wiry coat, and withers height (32 to 38 cm for both males and females, +/- 2 cm tolerance).",
+    publishedOn: "2003-05-05",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 36 (valid standard dated 2003-03-25; English PDF published 2003-05-05). Covers French origin in Brittany, Group 6 Scenthounds and related breeds, Section 1.3 Small-sized Hounds classification with working trial, compact agile basset build, very rough harsh fawn wiry coat (golden wheaten to brick red), and withers height (32 to 38 cm for both males and females, +/- 2 cm tolerance).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-basset-fauve-de-bretagne-nomenclature": {
+"fci-basset-fauve-de-bretagne-nomenclature": {
     id: "fci-basset-fauve-de-bretagne-nomenclature",
     name: "FCI - Basset Fauve de Bretagne Breed Nomenclature (No. 36)",
-    url: "https://www.fci.be/en/nomenclature/FAWN-BRITTANY-BASSET-36.html",
+    url: "https://www.fci.be/en/nomenclature/BASSET-FAUVE-DE-BRETAGNE-36.html",
     type: "official_breed_standard",
     publishedOn: "2003-03-25",
-    accessedOn: "2026-11-12",
-    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.3 classification with working trial, definitive recognition date (1963-10-30), and multilingual names (Basset Fauve de Bretagne, Fawn Brittany Basset, Basset Leonado de Bretaña, Bretonischer Basset).",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.3 Small-sized Hounds classification with working trial, definitive recognition date (1963-10-30), and official names (Basset Fauve de Bretagne, Basset Leonado de Bretaña).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "scc-basset-fauve-de-bretagne-standard": {
+"scc-basset-fauve-de-bretagne-standard": {
     id: "scc-basset-fauve-de-bretagne-standard",
     name: "Société Centrale Canine - Standard et Profil du Basset Fauve de Bretagne",
     url: "https://www.centrale-canine.fr/le-chien-de-race/basset-fauve-de-bretagne",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official French kennel club (SCC) breed profile and standard for Basset Fauve de Bretagne, documenting Brittany heritage, Grand Fauve de Bretagne lineage, 1949 Marcel Pambrun revival, height (32-38 cm), weight (16-18 kg), and hunting trials.",
+    accessedOn: "2026-11-25",
+    note: "Official French kennel club (SCC) breed profile for Basset Fauve de Bretagne, documenting Brittany heritage, Grand Fauve de Bretagne lineage, 1949 founding of the Club du Fauve de Bretagne, sociable balanced temperament, apartment adaptability with three daily outings, and hunting trials.",
     publisher: "Société Centrale Canine"
   },
-  "club-du-fauve-de-bretagne-profile": {
+"club-du-fauve-de-bretagne-profile": {
     id: "club-du-fauve-de-bretagne-profile",
-    name: "Club du Fauve de Bretagne - Le Basset Fauve de Bretagne",
-    url: "https://www.fauvedebretagne.fr/le-basset-fauve-de-bretagne/",
+    name: "Club du Fauve de Bretagne - Official Breed Club Portal (Centrale Canine)",
+    url: "https://www.centrale-canine.fr/club-du-fauve-de-bretagne",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official French parent breed club portal documenting morphological traits, weight (16-18 kg), lifespan (12-15 years), wire-coat hand-stripping care, and health screening for hips, patellas, and eyes.",
+    accessedOn: "2026-11-25",
+    note: "Official French parent breed club portal affiliated with Société Centrale Canine covering the Basset Fauve de Bretagne and Griffon Fauve de Bretagne.",
     publisher: "Club du Fauve de Bretagne"
   },
-  "the-kennel-club-basset-fauve-de-bretagne-standard": {
+"the-kennel-club-basset-fauve-de-bretagne-standard": {
     id: "the-kennel-club-basset-fauve-de-bretagne-standard",
     name: "The Royal Kennel Club - Basset Fauve de Bretagne Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/hound/basset-fauve-de-bretagne/",
+    url: "https://www.royalkennelclub.com/breed-standards/hound/basset-fauve-de-bretagne/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-11-12",
-    note: "Official Royal Kennel Club breed standard (Hound Group) confirming withers height (32-38 cms / 12.5-15 ins), very harsh fawn wiry coat, and lively, affectionate hound temperament.",
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club breed standard (Hound Group, updated April 1, 2025) confirming short-legged rough-coated hound conformation, medium-length balanced head, inward-folding pointed ears, and courageous, hardy, nimble characteristics.",
     publisher: "The Royal Kennel Club"
   },
-  "akc-basset-fauve-de-bretagne-breed-profile": {
+"akc-basset-fauve-de-bretagne-breed-profile": {
     id: "akc-basset-fauve-de-bretagne-breed-profile",
     name: "American Kennel Club - Basset Fauve de Bretagne Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/basset-fauve-de-bretagne/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed profile (Foundation Stock Service, Hound Group) covering Brittany rabbit-hunting history, weight (35-40 lbs / approx. 16-18 kg), lifespan (12-14 years), apartment adaptability, temperament, and grooming.",
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed profile (Hound Group; entered FSS in Feb 2015, fully recognized effective Dec 31, 2025 / 2026) covering height (12.5-15.5 inches), weight (23-39 pounds), lifespan (13-16 years), grooming, National Breed Club recommended health tests (patella, cardiac, ophthalmologist), POAG DNA testing, and documented health conditions.",
     publisher: "American Kennel Club"
   },
-  "ukc-basset-fauve-de-bretagne-breed-standard": {
+"ukc-basset-fauve-de-bretagne-breed-standard": {
     id: "ukc-basset-fauve-de-bretagne-breed-standard",
     name: "United Kennel Club - Basset Fauve de Bretagne Breed Standard",
     url: "https://www.ukcdogs.com/basset-fauve-de-bretagne",
     type: "official_breed_standard",
     publishedOn: "2006-05-01",
-    accessedOn: "2026-11-12",
-    note: "Official UKC breed standard (Scenthound Group, recognized 2006) covering conformation, rectangular low-set proportions, harsh fawn coat, height (12.5 to 15 inches / 32-38 cm), weight (approx. 35-40 lbs), and hunting behavior.",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing UKC source entry (Scenthound Group); direct ukcdogs.com page could not be fetched live during 2026-11-25 verification, so primary conformation and sizing rely on FCI, Royal Kennel Club, SCC, and AKC.",
     publisher: "United Kennel Club"
   },
-  "wikimedia-basset-fauve-de-bretagne-lilly-m": {
+"wikimedia-basset-fauve-de-bretagne-lilly-m": {
     id: "wikimedia-basset-fauve-de-bretagne-lilly-m",
-    name: "Wikimedia Commons - File:Basset Fauve de Bretagne.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Basset_Fauve_de_Bretagne.jpg",
+    name: "Wikimedia Commons - File:Basset Fauve de Bretagne Chester.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Basset_Fauve_de_Bretagne_Chester.JPG",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-12",
-    note: "High-resolution photograph (2592 x 1944 px) of an adult fawn-colored Basset Fauve de Bretagne standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2019-10-08",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (1776 x 1804 px) of a Basset Fauve de Bretagne by Kallewirsch (uploaded 2019-10-08). Licensed under CC BY-SA 4.0 International on Wikimedia Commons. Replaces earlier mismatched file under the preserved source ID.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-basset-fauve-de-bretagne-600-tomasz-sienicki": {
+"wikimedia-basset-fauve-de-bretagne-600-tomasz-sienicki": {
     id: "wikimedia-basset-fauve-de-bretagne-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Basset Fauve de Bretagne 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Basset_Fauve_de_Bretagne_600.jpg",
+    name: "Wikimedia Commons - File:Basset fauve de bretagne with a bone.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Basset_fauve_de_bretagne_with_a_bone.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-12",
-    note: "Photograph of a Basset Fauve de Bretagne standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2020-07-25",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (4608 x 3456 px) of a Basset Fauve de Bretagne with a bone by Trogain (captured 2018-12-24, uploaded 2020-07-25). Licensed under CC BY-SA 4.0 International on Wikimedia Commons. Replaces earlier low-resolution file under the preserved source ID.",
     publisher: "Wikimedia Commons"
   },
   "fci-australian-cattle-dog-official-standard": {
@@ -22885,6 +22885,836 @@ export const sources = defineSources({
     publishedOn: "2007-05-18",
     accessedOn: "2026-11-25",
     note: "Photograph (315 x 266 px) of a Taiwan Dog (Formosan Dog) by Aechris (captured/originally uploaded to en.wikipedia 2007-05-09, transferred to Wikimedia Commons by ToB on 2007-05-18). Licensed under CC BY-SA 3.0 Unported (and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-smalandsstovare-official-standard": {
+    id: "fci-smalandsstovare-official-standard",
+    name: "FCI - Smålandsstövare Official Breed Standard No. 129",
+    url: "https://www.fci.be/Nomenclature/Standards/129g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2017-10-02",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 129 (valid standard dated 2017-08-22, English publication dated 2017-10-02, translation by Renée Sporre-Willes). Covers Swedish origin in Småland, 1611-1718 war-hound and spitz farm-dog heritage, 1921 first standard, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, solo hare and fox utilization (never pack or deer), almost square build, naturally short (stumpy/bear-tail) or long/half-length tail, harsh medium-length double coat with dense hair between toes and pads, black-and-tan or liver-brown-and-tan coloration, and withers height (males 46-54 cm, ideal 50 cm; females 42-50 cm, ideal 46 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-smalandsstovare-nomenclature": {
+    id: "fci-smalandsstovare-nomenclature",
+    name: "FCI - Smålandsstövare Breed Nomenclature (No. 129)",
+    url: "https://www.fci.be/en/nomenclature/SMALANDSSTOVARE-129.html",
+    type: "official_breed_standard",
+    publishedOn: "2017-10-02",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Sweden as country of origin, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, definitive acceptance date (1955-01-12), English standard publication date (2017-10-02), and official multilingual names (Smålandsstövare, Chien courant du Småland).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "skk-smalandsstovare-profile-sv": {
+    id: "skk-smalandsstovare-profile-sv",
+    name: "Svenska Kennelklubben (SKK) - Smålandsstövare Rasprofil",
+    url: "https://www.skk.se/hundraser/smalandsstovare/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Swedish Kennel Club (SKK) Swedish-language breed profile for Smålandsstövare documenting Swedish national breed status, height (46-54 cm males, 42-50 cm females), densely furred closed paws for multi-day hunting, fast game-finding ('upptagare'), nuanced voice, reliable return to owner, unsuitability solely as a companion or apartment/kennel dog, easy-care coat, and health note documenting hip dysplasia (HD) and epilepsy.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "skk-smalandsstovare-profile-en": {
+    id: "skk-smalandsstovare-profile-en",
+    name: "Svenska Kennelklubben (SKK) - Smålandsstövare (Swedish Dog Breeds)",
+    url: "https://www.skk.se/en/swedish-dog-breeds/smalandsstovare/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Swedish Kennel Club (SKK) English-language national breed profile confirming 1921 SKK recognition, Småland county heritage, height (males 46-54 cm, ideal 50 cm; females 42-50 cm, ideal 46 cm), black or liver-brown with tan markings, high energy, strong family bonding, and international alternate names (Småland Hound, Chien courant du Småland, Sabueso de Småland, Smoolanninajokoira, Smålandsstøver).",
+    publisher: "Svenska Kennelklubben"
+  },
+  "ssf-smalandsstovare-ras-2026": {
+    id: "ssf-smalandsstovare-ras-2026",
+    name: "Svenska Smålandsstövareföreningen / Svenska Stövarklubben - Rasspecifik avelsstrategi (RAS) för Smålandsstövare",
+    url: "https://www.stovare.se/wp-content/uploads/2026/03/RAS-Smalandsstovare-123.pdf",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Swedish breed-specific breeding strategy (RAS, published March 2026 via Svenska Stövarklubben) documenting everyday mental stability, general good health with isolated cases of epilepsy, Patent Ductus Arteriosus (PDA) / cardiac disease, and cryptorchidism, strict epilepsy breeding exclusions, removal of the mandatory pre-mating HD status requirement from 2020, and controlled outcross projects to broaden genetic diversity.",
+    publisher: "Svenska Smålandsstövareföreningen / Svenska Stövarklubben"
+  },
+  "scc-chien-courant-du-smaland-profile": {
+    id: "scc-chien-courant-du-smaland-profile",
+    name: "Société Centrale Canine (SCC) - Chien courant du Småland",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/chien-courant-du-smaland",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official French Kennel Club (SCC) breed profile for Chien courant du Småland confirming all-weather hunting capability, weight explicitly listed as unspecified (NP), 1950s final open-studbook infusion history, and calm companion nature.",
+    publisher: "Société Centrale Canine"
+  },
+  "wikimedia-smalandsstovare-female-canarian": {
+    id: "wikimedia-smalandsstovare-female-canarian",
+    name: "Wikimedia Commons - File:Smålandstövare aka Smaland Hound.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Sm%C3%A5landst%C3%B6vare_aka_Smaland_Hound.JPG",
+    type: "other",
+    publishedOn: "2014-04-16",
+    accessedOn: "2026-11-25",
+    note: "Photograph (565 x 461 px) of an adult female Smålandsstövare (Smaland Hound) by Canarian (EXIF capture date 2013-12-13 on Sony DSLR-A350, uploaded 2014-04-16). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-smaland-hound-male-canarian": {
+    id: "wikimedia-smaland-hound-male-canarian",
+    name: "Wikimedia Commons - File:Smaland Hound aka Smålandsstövare.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Smaland_Hound_aka_Sm%C3%A5landsst%C3%B6vare.jpg",
+    type: "other",
+    publishedOn: "2013-01-20",
+    accessedOn: "2026-11-25",
+    note: "Photograph (399 x 332 px) of a male Smålandsstövare (Smaland Hound) by Canarian (EXIF capture date 2006-03-02, uploaded 2013-01-20). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-griffon-fauve-de-bretagne-official-standard": {
+    id: "fci-griffon-fauve-de-bretagne-official-standard",
+    name: "FCI - Griffon Fauve de Bretagne (Fawn Brittany Griffon) Official Breed Standard No. 66",
+    url: "https://www.fci.be/Nomenclature/Standards/066g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2003-05-05",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 66 (valid standard dated 2003-03-25, English publication dated 2003-05-05). Covers French origin in Brittany, 14th-century Huet des Ventes pack, 19th-century wolf-hunting heritage, 1949 Marcel Pambrun club founding, 1980s Bernard Vallée revival, Group 6 Section 1.2 Medium-sized hounds classification with working trial, 'chopper' hunting voice, good-natured sociable temperament, dewlap-free skin, very rough harsh short golden-wheaten to brick-red coat, and withers height (males and females 48-56 cm, with 2 cm tolerance for exceptional specimens). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-griffon-fauve-de-bretagne-nomenclature": {
+    id: "fci-griffon-fauve-de-bretagne-nomenclature",
+    name: "FCI - Griffon Fauve de Bretagne Breed Nomenclature (No. 66)",
+    url: "https://www.fci.be/en/nomenclature/GRIFFON-FAUVE-DE-BRETAGNE-66.html",
+    type: "official_breed_standard",
+    publishedOn: "2003-05-05",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, English standard publication date (2003-05-05), and official multilingual names (Griffon Fauve de Bretagne, Fawn Brittany Griffon, Grifón Leonado de Bretaña).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "scc-griffon-fauve-de-bretagne-profile": {
+    id: "scc-griffon-fauve-de-bretagne-profile",
+    name: "Société Centrale Canine (SCC) - Griffon fauve de Bretagne",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/griffon-fauve-de-bretagne",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official French Kennel Club (SCC) breed profile for Griffon fauve de Bretagne confirming Breton wolf-hunting history, 1949 Club du Fauve de Bretagne founding under Marcel Pambrun, 1980s revival under Bernard Vallée, 'hunting first' motto, weight explicitly left unspecified ('-'), and rough dry fawn coat.",
+    publisher: "Société Centrale Canine"
+  },
+  "scc-griffon-fauve-de-bretagne-caractere": {
+    id: "scc-griffon-fauve-de-bretagne-caractere",
+    name: "Société Centrale Canine (SCC) - Le griffon fauve de Bretagne : le caractère et la fonctionnalité",
+    url: "https://www.centrale-canine.fr/articles/le-griffon-fauve-de-bretagne-le-caractere-et-la-fonctionnalite",
+    type: "kennel_club",
+    publishedOn: "2022-12-16",
+    accessedOn: "2026-11-25",
+    note: "Official SCC breed feature (updated 2025-11-03) interviewing working judge Alain Rousseau, detailing gentle calm indoor nature, extreme sociability with visitors and pack mates (unsuited to guarding), early hunting awakening around 4 months, working career lasting to 10-12 years, all-climate versatility, 'chopper' voice, and minimal curry-brush coat care.",
+    publisher: "Société Centrale Canine"
+  },
+  "scc-griffon-fauve-de-bretagne-standard-commentaires": {
+    id: "scc-griffon-fauve-de-bretagne-standard-commentaires",
+    name: "Société Centrale Canine (SCC) - Le griffon fauve de Bretagne : standard et commentaires",
+    url: "https://www.centrale-canine.fr/articles/le-griffon-fauve-de-bretagne-standard-et-commentaires",
+    type: "kennel_club",
+    publishedOn: "2022-12-16",
+    accessedOn: "2026-11-25",
+    note: "Official SCC standard commentary by Hervé Gourdon (updated 2025-11-03) detailing equal skull and muzzle lengths with parallel axes, non-pendulous lips with modest moustache, untrimmed/unstripped natural harsh coat, height (48-56 cm for both sexes, +2 cm tolerance), and disqualifying faults including hind dewclaws and long woolly coats.",
+    publisher: "Société Centrale Canine"
+  },
+  "rkc-griffon-fauve-de-bretagne-breed-standard": {
+    id: "rkc-griffon-fauve-de-bretagne-breed-standard",
+    name: "The Royal Kennel Club - Griffon Fauve de Bretagne (Imp) Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/hound/griffon-fauve-de-bretagne-imp/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club breed standard (Hound Group, updated April 1, 2025) confirming 10:9 body length-to-withers-height ratio, gentle sociable affectionate temperament, natural untrimmed rough coat, and size (48-56 cm, with 2 cm tolerance). Omits weight.",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-griffon-fauve-de-bretagne-breed-profile": {
+    id: "rkc-griffon-fauve-de-bretagne-breed-profile",
+    name: "The Royal Kennel Club - Griffon Fauve de Bretagne (Imp) Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/hound/griffon-fauve-de-bretagne-imp/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club Breeds A to Z profile confirming medium size, country lifestyle with small house and small/medium garden, weekly grooming, shedding, up to 1 hour daily baseline exercise, and Breed Watch Category 1 status.",
+    publisher: "The Royal Kennel Club"
+  },
+  "skk-griffon-fauve-de-bretagne-profile": {
+    id: "skk-griffon-fauve-de-bretagne-profile",
+    name: "Svenska Kennelklubben (SKK) - Griffon fauve de bretagne Rasprofil",
+    url: "https://www.skk.se/hundraser/griffon-fauve-de-bretagne/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Griffon fauve de bretagne confirming historic name Grand Fauve de Bretagne, Brittany origin, height (approx. 48-56 cm), easy-care rough coat, unsuitability solely as a companion dog, high exercise and mental stimulation demands, friendly calm human interaction, and note that very small numbers in Sweden prevent reliable breed-wide health assessment.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "wikimedia-griffon-fauve-de-bretagne-male-canarian": {
+    id: "wikimedia-griffon-fauve-de-bretagne-male-canarian",
+    name: "Wikimedia Commons - File:Griffon Fauve de Bretagne Fawn Brittany Griffon 2.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Griffon_Fauve_de_Bretagne_Fawn_Brittany_Griffon_2.JPG",
+    type: "other",
+    publishedOn: "2014-05-11",
+    accessedOn: "2026-11-25",
+    note: "Photograph (612 x 448 px) of an adult male Griffon Fauve de Bretagne (Fawn Brittany Griffon) by Canarian (EXIF capture date 2013-12-14 on Sony DSLR-A350, uploaded 2014-05-11). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-griffon-fauve-de-bretagne-female-canarian": {
+    id: "wikimedia-griffon-fauve-de-bretagne-female-canarian",
+    name: "Wikimedia Commons - File:Griffon Fauve de Bretagne Fawn Brittany Griffon 1.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Griffon_Fauve_de_Bretagne_Fawn_Brittany_Griffon_1.JPG",
+    type: "other",
+    publishedOn: "2014-05-11",
+    accessedOn: "2026-11-25",
+    note: "Photograph (683 x 443 px) of an adult female Griffon Fauve de Bretagne (Fawn Brittany Griffon) by Canarian (EXIF capture date 2013-12-14 on Sony DSLR-A350, uploaded 2014-05-11). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-st-bernard-official-standard": {
+    id: "fci-st-bernard-official-standard",
+    name: "FCI - St. Bernard (St. Bernhardshund, Bernhardiner) Official Breed Standard No. 61",
+    url: "https://www.fci.be/Nomenclature/Standards/061g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2016-06-03",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 61 (valid standard dated 2016-04-04, English publication dated 2016-06-03). Covers Swiss origin at the Great St. Bernard Pass hospice, 1800 Bonaparte pass crossing, Barry, February 1884 Swiss Dog Stud Book (SHSB #1 Léon + 28 entries), March 15 1884 Basel club, June 2 1887 Swiss national dog recognition, Group 2 Section 2.2 Mountain-type Molossoids classification without working trial, two varieties (Short-haired Stockhaar and Long-haired), 9:10 height-to-body ratio, head >1/3 withers height, ~2:1 muzzle depth-to-length ratio, mantle and splash-coated white-and-red coloration, and withers height (males 70-90 cm, females 65-80 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-st-bernard-nomenclature": {
+    id: "fci-st-bernard-nomenclature",
+    name: "FCI - St. Bernhardshund - Bernhardiner (St. Bernard) Breed Nomenclature (No. 61)",
+    url: "https://www.fci.be/en/nomenclature/ST-BERNHARDSHUND-BERNHARDINER-61.html",
+    type: "official_breed_standard",
+    publishedOn: "2016-06-03",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Switzerland as country of origin, Group 2 Section 2.2 Mountain-type Molossoids classification without working trial, Short-haired and Long-haired varieties, valid standard date (2016-04-04), publication date (2016-06-03), and official multilingual names (St. Bernhardshund - Bernhardiner, St. Bernard, Chien du Mont Saint-Bernard - Saint-Bernard).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "skg-st-bernhardshund-profile": {
+    id: "skg-st-bernhardshund-profile",
+    name: "Schweizerische Kynologische Gesellschaft (SKG) - Rasseportrait St. Bernhardshund",
+    url: "https://www.skg.ch/st-bernhardshund/",
+    type: "kennel_club",
+    publishedOn: "2024-02-01",
+    accessedOn: "2026-11-25",
+    note: "Official Swiss Kennel Club (SKG) breed profile authored jointly with the Schweizerischer St. Bernhards-Club (S.St.B.C.), confirming Great St. Bernard Pass altitude (2,473 m), 1695 pictorial and 1707 archival hospice records, Barry (>40 lives saved, died 1814, Natural History Museum Bern exhibit), 1954-08-28 definitive FCI recognition, height (70-90 cm males, 65-80 cm females), friendly/sensitive/occasionally stubborn character, daily shedding-season brushing, unsuitability for narrow stair-heavy apartments, and modern sport roles (mobility, search, mantrailing).",
+    publisher: "Schweizerische Kynologische Gesellschaft"
+  },
+  "akc-st-bernard-official-standard": {
+    id: "akc-st-bernard-official-standard",
+    name: "American Kennel Club - Official Standard of the Saint Bernard",
+    url: "https://images.akc.org/pdf/breeds/standards/SaintBernard.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1998-05-31",
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed standard (Working Group; approved April 13, 1998, effective May 31, 1998). Establishes shorthaired and longhaired varieties, massive broad skull, scissors or even bite (scissors preferable), pronounced throat/neck dewlap, chest not reaching below elbows, bushy tail without flag, red-and-white / brindle-and-white mantle and splash-coated patterns, and minimum shoulder height (27.5 inches dogs, 25.5 inches bitches).",
+    publisher: "American Kennel Club"
+  },
+  "akc-st-bernard-breed-profile": {
+    id: "akc-st-bernard-breed-profile",
+    name: "American Kennel Club - Saint Bernard Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/st-bernard/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed profile documenting 1885 AKC recognition, hospice rescue history, brandy-cask myth debunking, height (28-30 in males, 26-28 in females), weight (140-180 lb males, 120-140 lb females), life expectancy (8-10 years), moderate exercise needs, carting/drafting suitability, low alone-time tolerance, high drooling, and bloat/hip/eye health awareness.",
+    publisher: "American Kennel Club"
+  },
+  "rkc-st-bernard-breed-standard": {
+    id: "rkc-st-bernard-breed-standard",
+    name: "The Royal Kennel Club - St. Bernard Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/working/st-bernard/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club breed standard (Working Group, updated April 1, 2025) confirming steady kindly benevolent temperament, reasonably tight eyelids with excessive haw unacceptable, complete scissor bite, chest never below elbows, rough and smooth varieties, minimum height (75 cm dogs, 70 cm bitches), and unhurried sound movement.",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-st-bernard-breed-profile": {
+    id: "rkc-st-bernard-breed-profile",
+    name: "The Royal Kennel Club - St. Bernard Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/working/st-bernard/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club Breeds A to Z profile confirming extra-large size, large house requirement, up to 1 hour daily exercise, shedding, grooming more than once weekly, lifespan under 10 years, Sir Edwin Landseer brandy-cask myth origin, Breed Watch Category 3 status, and Good Practice pre-breeding tests (BVA/KC Elbow Dysplasia, Eye Scheme, and Hip Dysplasia).",
+    publisher: "The Royal Kennel Club"
+  },
+  "sbca-breeder-referral-health-2024": {
+    id: "sbca-breeder-referral-health-2024",
+    name: "Saint Bernard Club of America (SBCA) - Hereditary Defects & CHIC Health Screening Recommendations",
+    url: "https://saintbernardclubofamerica.club/breeder-referral/",
+    type: "breed_club",
+    publishedOn: "2024-01-01",
+    accessedOn: "2026-11-25",
+    note: "Official US parent breed club (incorporated 1888) breeder-referral and health portal documenting common hereditary defects (hip and elbow dysplasia, entropion, epilepsy, heart defects) and CHIC basic health screening recommendations: Hip Dysplasia (min 24 mo, OFA/PennHIP), Elbow Dysplasia (min 24 mo, OFA), ACVO Eye Exam (min 22 mo), Boarded Cardiologist Cardiac Exam (min 24 mo), Degenerative Myelopathy DNA test, and optional Autoimmune Thyroiditis panel.",
+    publisher: "Saint Bernard Club of America"
+  },
+  "pmc-letko-2020-st-bernard-cntnap1-lppn3": {
+    id: "pmc-letko-2020-st-bernard-cntnap1-lppn3",
+    name: "A CNTNAP1 Missense Variant Is Associated with Canine Laryngeal Paralysis and Polyneuropathy (Genes 2020)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7761076/",
+    type: "scientific",
+    publishedOn: "2020-11-27",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed whole-genome sequencing study by Letko et al. (Genes (Basel) 2020 Nov 27;11(12):1426, PMID 33261176, PMC7761076) identifying a likely pathogenic missense variant in CNTNAP1 (c.2810G>A; p.Gly937Glu) causing autosomal-recessive laryngeal paralysis and polyneuropathy (LPPN3) in Saint Bernard and Leonberger dogs.",
+    publisher: "Genes / National Library of Medicine (PMC)"
+  },
+  "pubmed-ekenstedt-2014-st-bernard-arhgef10-lpn1": {
+    id: "pubmed-ekenstedt-2014-st-bernard-arhgef10-lpn1",
+    name: "An ARHGEF10 deletion is highly associated with a juvenile-onset inherited polyneuropathy in Leonberger and Saint Bernard dogs (PLOS Genetics 2014)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/25275565/",
+    type: "scientific",
+    publishedOn: "2014-10-02",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed study by Ekenstedt et al. (PLoS Genet 2014 Oct 2;10(10):e1004635, PMID 25275565, PMC4183422) identifying a 10-bp deletion in ARHGEF10 (c.1955_1958+6del) highly associated with severe juvenile-onset inherited polyneuropathy (LPN1) in Leonberger and Saint Bernard dogs.",
+    publisher: "PLOS Genetics / PubMed"
+  },
+  "pubmed-bech-nielsen-1978-st-bernard-osteosarcoma": {
+    id: "pubmed-bech-nielsen-1978-st-bernard-osteosarcoma",
+    name: "Frequency of osteosarcoma among first-degree relatives of St. Bernard dogs (JNCI 1978)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/271748/",
+    type: "scientific",
+    publishedOn: "1978-02-01",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed epidemiological and pedigree study (J Natl Cancer Inst 1978 Feb;60(2):349-353, PMID 271748) documenting familial aggregation and genetic predisposition to osteosarcoma among first-degree relatives of St. Bernard dogs.",
+    publisher: "Journal of the National Cancer Institute / PubMed"
+  },
+  "wikimedia-st-bernard-dog-001-cassie-j": {
+    id: "wikimedia-st-bernard-dog-001-cassie-j",
+    name: "Wikimedia Commons - File:St Bernard Dog 001.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:St_Bernard_Dog_001.jpg",
+    type: "other",
+    publishedOn: "2008-11-02",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (1024 x 768 px) of an adult long-haired St. Bernard dog by Flickr user Cassie J (captured 2008-10-04, uploaded to Wikimedia Commons via Flickr upload bot by Ltshears on 2008-11-02). Licensed under CC BY 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-bernardyn-krotkowlosy-339-pleple2000": {
+    id: "wikimedia-bernardyn-krotkowlosy-339-pleple2000",
+    name: "Wikimedia Commons - File:Bernardyn krótkowłosy 339.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Bernardyn_kr%C3%B3tkow%C5%82osy_339.jpg",
+    type: "other",
+    publishedOn: "2006-11-21",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (2502 x 1764 px) of an adult short-haired St. Bernard at the World Dog Show in Poznań by Pleple2000 (captured 2006-11-11, uploaded 2006-11-21). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-griffon-nivernais-official-standard": {
+    id: "fci-griffon-nivernais-official-standard",
+    name: "FCI - Griffon Nivernais Official Breed Standard No. 17",
+    url: "https://www.fci.be/Nomenclature/Standards/017g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2004-04-02",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 17 (valid standard dated 2004-03-24, English publication dated 2004-04-02, translated by John Miller and Raymond Triquet). Covers French origin in Nivernais, descent from Gallic Canis Segusius and Grey Dogs of Saint Louis, 1789 Revolution decline, 1925 club founding, Group 6 Section 1.2 Medium-sized hounds classification with working trial, wild-boar gun-hunting utilization, Barbouillaud rough shaggy coat, black-overlaid colour rules (never orange; wolf/boar/blue/hare shades), dry dewlap-free neck, elongated hare-like feet, and withers height (males 55-62 cm, females 53-60 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-griffon-nivernais-nomenclature": {
+    id: "fci-griffon-nivernais-nomenclature",
+    name: "FCI - Griffon Nivernais Breed Nomenclature (No. 17)",
+    url: "https://www.fci.be/en/nomenclature/GRIFFON-NIVERNAIS-17.html",
+    type: "official_breed_standard",
+    publishedOn: "2004-04-02",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, definitive acceptance date (1959-12-15), valid standard date (2004-03-24), English publication date (2004-04-02), and official multilingual names (Griffon Nivernais, Grifón del Nivernais).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "scc-griffon-nivernais-profile": {
+    id: "scc-griffon-nivernais-profile",
+    name: "Société Centrale Canine (SCC) - Griffon nivernais",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/griffon-nivernais",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official French Kennel Club (SCC) breed profile for Griffon nivernais confirming height (males 55-62 cm, females 53-60 cm), weight explicitly listed as unspecified (NP), historical 'chien de pays' reconstruction with Vendéen/Foxhound/Otterhound blood, 1925 club founding under Vicomte d'Anchald and 1969 revival, balanced non-aggressive yet dominant pack character, unsuitability for city/apartment living, cold/wet hardiness with greater heat sensitivity, brushing 3-4 times yearly, ear hygiene, post-meal rest / two-meal veterinary advice against bloat (GDV), and absence of particular breed pathologies.",
+    publisher: "Société Centrale Canine"
+  },
+  "scc-club-du-griffon-nivernais": {
+    id: "scc-club-du-griffon-nivernais",
+    name: "Club du Griffon Nivernais (SCC) - Site Officiel",
+    url: "https://www.centrale-canine.fr/club-du-griffon-nivernais",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official French parent breed club (Club du Griffon Nivernais, founded in 1925 and affiliated with the Société Centrale Canine) overseeing breed conservation, hunting trials, and breeding standards in France.",
+    publisher: "Club du Griffon Nivernais"
+  },
+  "skk-griffon-nivernais-profile": {
+    id: "skk-griffon-nivernais-profile",
+    name: "Svenska Kennelklubben (SKK) - Griffon nivernais Rasprofil",
+    url: "https://www.skk.se/hundraser/griffon-nivernais/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Griffon nivernais confirming French origin, wild-boar hunting specialization, height (55-62 cm males, 53-60 cm females), burr-resistant coarse easy-care coat, regular ear cleaning, loud howling hunting cry, high exercise needs, friendly social family temperament when actively hunted, unsuitability solely as a companion dog, and note that very small Swedish numbers prevent definitive breed-wide health assessment.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "sgnk-griffon-nivernais-ras-2016": {
+    id: "sgnk-griffon-nivernais-ras-2016",
+    name: "Svenska Griffon Nivernais Klubben / SKK - Rasspecifik avelsstrategi (RAS) Griffon Nivernais",
+    url: "https://www.skk.se/contentassets/c131a6b3f2bc4216afb2f40a91c65bc9/ras-griffon-nivernais.pdf?timestamp=20231101133823",
+    type: "breed_club",
+    publishedOn: "2016-09-27",
+    accessedOn: "2026-11-25",
+    note: "Official Swedish breed-specific breeding strategy (RAS Edition 2, dated 2016-09-27, published via SKK) citing French veterinary literature (Mondon, 2001) on absence of particular congenital/hereditary breed diseases, documenting 6 of 6 Swedish radiographed dogs as HD-free A (keeping HD screening voluntary), noting isolated cases of missing teeth, and emphasizing genetic-diversity management across unrelated lines.",
+    publisher: "Svenska Griffon Nivernais Klubben / Svenska Kennelklubben"
+  },
+  "wikimedia-griffon-nivernais-alephalpha": {
+    id: "wikimedia-griffon-nivernais-alephalpha",
+    name: "Wikimedia Commons - File:Griffon nivernais.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Griffon_nivernais.jpg",
+    type: "other",
+    publishedOn: "2008-10-22",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (1200 x 800 px) of an adult French Griffon Nivernais outdoors by Alephalpha (captured 2004-03-27, uploaded 2008-10-22). Licensed under CC BY-SA 3.0 Unported (and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-chien-griffon-nivernais-thomon": {
+    id: "wikimedia-chien-griffon-nivernais-thomon",
+    name: "Wikimedia Commons - File:Chien griffon nivernais.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Chien_griffon_nivernais.jpg",
+    type: "other",
+    publishedOn: "2023-03-04",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (1280 x 858 px) of an adult Griffon Nivernais at the Salon International de l'Agriculture de Paris 2023 by Thomon (captured and uploaded 2023-03-04). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "ukc-carolina-dog-official-standard": {
+    id: "ukc-carolina-dog-official-standard",
+    name: "United Kennel Club - Carolina Dog Official Breed Standard",
+    url: "https://www.ukcdogs.com/carolina-dog",
+    type: "official_breed_standard",
+    publishedOn: "2008-05-01",
+    accessedOn: "2026-11-25",
+    note: "Official UKC breed standard (Sighthound & Pariah Group, recognized 1995/1996, revised May 2008; also referenced directly by the AKC FSS Breed Standards compendium). Covers Southeastern US origin, shy/suspicious pariah character (outward aggression a very serious fault), equal skull and muzzle lengths, tight predominantly black lips, scissor or level bite, oblique dark brown almond eyes with unbroken black rims, versatile upright ears, solid pink tongue (dark spots disqualifying), seasonal double coat with erect coarse dorsal guard hairs, preferred deep red ginger colour (plus piebald and black blanket), average height (17 to 24 inches), and approximate weight (30 to 55 pounds, sexes overlapping broadly).",
+    publisher: "United Kennel Club"
+  },
+  "akc-carolina-dog-breed-profile": {
+    id: "akc-carolina-dog-breed-profile",
+    name: "American Kennel Club - Carolina Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/carolina-dog/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed profile (Foundation Stock Service, admitted 2017; parent club Carolina Dog Fanciers of America) documenting height (17.75-19.5 inches), weight (30-55 pounds), life expectancy (12-15 years), moderate seasonal shedding, cat-like minimal grooming, low drooling, pack mentality, stranger reserve, daily exercise and sports suitability (agility, obedience, rally), and health note stating no mandatory national breed-club health tests are currently published.",
+    publisher: "American Kennel Club"
+  },
+  "cdfa-carolina-dog-breed-standard": {
+    id: "cdfa-carolina-dog-breed-standard",
+    name: "Carolina Dog Fanciers of America (CDFA) - Breed Standard",
+    url: "https://carolinadogfanciers.com/breed-standard/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC parent breed club (recognized April 2022) breed standard page for the Carolina Dog detailing history, general appearance, average withers height (18 to 24 inches depending on sex and build), weight, head, and body conformation.",
+    publisher: "Carolina Dog Fanciers of America"
+  },
+  "pubmed-brisbin-risch-1997-primitive-dogs": {
+    id: "pubmed-brisbin-risch-1997-primitive-dogs",
+    name: "Primitive dogs, their ecology and behavior: unique opportunities to study the early development of the human-canine bond (JAVMA 1997)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/9108912/",
+    type: "scientific",
+    publishedOn: "1997-04-15",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed landmark paper by I. Lehr Brisbin Jr. (Savannah River Ecology Laboratory, University of Georgia, Aiken, SC) and Thomas S. Risch (J Am Vet Med Assoc 1997 Apr 15;210(8):1122-1126, PMID 9108912) documenting the ecology, social behaviour, digging habits, and American Dingo / Carolina Dog population of the Southeastern United States.",
+    publisher: "Journal of the American Veterinary Medical Association / PubMed"
+  },
+  "pmc-van-asch-2013-precolumbian-dogs": {
+    id: "pmc-van-asch-2013-precolumbian-dogs",
+    name: "Pre-Columbian origins of Native American dog breeds, with only limited replacement by European dogs, confirmed by mtDNA analysis (Proc Biol Sci 2013)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3730590/",
+    type: "scientific",
+    publishedOn: "2013-09-07",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed mitochondrial DNA study by van Asch, Zhang, Oskarsson, and Savolainen (Proc Biol Sci 2013 Sep 7;280(1766):20131142, PMID 23843389, PMC3730590) providing the first DNA-based evidence that free-ranging Carolina Dogs of South Carolina and Georgia retain ancient East Asian / pre-Columbian maternal ancestry, including the frequent unique haplotype A184.",
+    publisher: "Proceedings of the Royal Society B / National Library of Medicine (PMC)"
+  },
+  "pmc-mealey-2023-pglycoprotein-abcb1": {
+    id: "pmc-mealey-2023-pglycoprotein-abcb1",
+    name: "Canine and feline P-glycoprotein deficiency: What we know and where we need to go (J Vet Pharmacol Ther 2023)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10092536/",
+    type: "scientific",
+    publishedOn: "2023-01-01",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed veterinary pharmacology review by Katrina L. Mealey, Jane G. Owens, and Elaine Freeman (J Vet Pharmacol Ther 2023 Jan;46(1):1-16, Epub 2022-11-03, PMID 36326478, PMC10092536) documenting ABCB1-1Δ (MDR1) P-glycoprotein deficiency drug sensitivity (e.g., ivermectin neurotoxicity) and reporting detection of the variant in 4 of 13 tested Carolina Dogs.",
+    publisher: "Journal of Veterinary Pharmacology and Therapeutics / National Library of Medicine (PMC)"
+  },
+  "wikimedia-dixiedingo-0019-apishion": {
+    id: "wikimedia-dixiedingo-0019-apishion",
+    name: "Wikimedia Commons - File:DixieDingo 0019.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:DixieDingo_0019.jpg",
+    type: "other",
+    publishedOn: "2009-02-09",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (2304 x 3072 px) of an adult Carolina Dog / American 'Dixie' Dingo by Apishion (EXIF capture date 2007-06-17 on Canon PowerShot SD550, originally uploaded to en.wikipedia 2008-01-15, transferred to Wikimedia Commons by MU on 2009-02-09). Released into the public domain by the copyright holder.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-carolina-dog-hunter-calabash13": {
+    id: "wikimedia-carolina-dog-hunter-calabash13",
+    name: "Wikimedia Commons - File:Carolina dog 3-13-13.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Carolina_dog_3-13-13.jpg",
+    type: "other",
+    publishedOn: "2013-05-05",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (1776 x 1198 px) of Carolina Dog 'Hunter' in Calabash, North Carolina, by Calabash13 (EXIF capture date 2007-06-10 on Kodak DX4330, file description dated 2013-03-13, uploaded 2013-05-05). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-kishu-official-standard": {
+    id: "fci-kishu-official-standard",
+    name: "FCI - Kishu Official Breed Standard No. 318",
+    url: "https://www.fci.be/Nomenclature/Standards/318g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2017-02-10",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 318 (valid standard dated 2016-10-30, English publication dated 2017-02-10). Covers Japanese origin in Kishu (Wakayama and Mie Prefectures), 1934 Natural Monument designation, Group 5 Section 5 Asian Spitz and related breeds classification without working trial, 10:11 height-to-body ratio, faithful/docile/alert temperament, tight lips, scissor bite, nearly triangular dark brown eyes, small forward-inclined prick ears, curled or sickle tail, harsh straight double coat (white, red, and sesame), and withers height (males 52 cm, females 49 cm, tolerance +/- 3 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-kishu-nomenclature": {
+    id: "fci-kishu-nomenclature",
+    name: "FCI - Kishu Breed Nomenclature (No. 318)",
+    url: "https://www.fci.be/en/nomenclature/Kishu-318.html",
+    type: "official_breed_standard",
+    publishedOn: "2017-02-10",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Japan as country of origin, Group 5 Section 5 Asian Spitz and related breeds classification without working trial, definitive acceptance date (1982-02-01), English publication date (2017-02-10), and official breed name (Kishu).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "jkc-kishu-breed-standard": {
+    id: "jkc-kishu-breed-standard",
+    name: "Japan Kennel Club (JKC) - Kishu (紀州) Breed Standard",
+    url: "https://www.jkc.or.jp/breeds/kishu/",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official country-of-origin kennel club (Japan Kennel Club / JKC) breed standard page for Kishu (紀州, Standard No. 318), confirming Kishu region origin (Wakayama and Mie Prefectures), 1934 colour unification and disappearance of spotted coats after 1945, predominance of white coats, 1934 Natural Monument status, accepted colours (white, red, sesame), and withers height (males 52 cm +/- 3 cm, females 49 cm +/- 3 cm).",
+    publisher: "Japan Kennel Club"
+  },
+  "akc-kishu-ken-breed-profile": {
+    id: "akc-kishu-ken-breed-profile",
+    name: "American Kennel Club - Kishu Ken Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/kishu-ken/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed profile (Foundation Stock Service since 2005, Hound Group designation, Companion Events since 2008) documenting Wakayama police mascot 'Kishu-kun', height (19-22 inches), weight (30-60 pounds), life expectancy (12-15 years), seasonal moulting (1-2 times/year), fast-paced food-motivated training, sports versatility, starch/beef/chicken dietary allergy sensitivity, and autoimmune health priorities (allergies, autoimmune thyroiditis, Addison's disease, SLE/CLE/DLE) with recommended patella, hip, elbow, ophthalmologist, and thyroid tests.",
+    publisher: "American Kennel Club"
+  },
+  "nkkc-national-kishu-ken-club": {
+    id: "nkkc-national-kishu-ken-club",
+    name: "National Kishu Ken Club (NKKC) - Breed Standard, History & NAKC Health Statement",
+    url: "https://www.kishuclub.com/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official US AKC parent breed club portal documenting Japan's most common purebred boar-hunting dog, late-1960s US introduction (1971 California/Massachusetts breeding), Japanese temperament principles (kan'i, ryosei, soboku), conformation (oval chest 45-50% of height, 110-120° shoulder angle, full seasonal undercoat shed), and NAKC Health Statement covering owner-reported allergy rates (30% skin inflammation, 40% itching), genetic Autoimmune Thyroiditis (OFA thyroid panel CHIC required, retest every 2-3 years), Addison's Disease, SLE/CLE, OFA dentition and eye CHIC requirements, DNA repository recommendation, and optional joint evaluations.",
+    publisher: "National Kishu Ken Club"
+  },
+  "skk-kishu-breed-profile": {
+    id: "skk-kishu-breed-profile",
+    name: "Svenska Kennelklubben (SKK) - Kishu Rasprofil",
+    url: "https://www.skk.se/hundraser/kishu/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Kishu confirming Kii Peninsula origin (Wakayama and Mie), shika-inu grouping alongside Kai and Shikoku, 2020 first Swedish registration, height (approx. 52 cm males, 49 cm females), easy-care double coat, loyal yet stranger-reserved hunting/watchdog character, and note that very few Swedish individuals prevent national health assessment.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-kishu-breed-profile": {
+    id: "scc-kishu-breed-profile",
+    name: "Société Centrale Canine (SCC) - Kishu",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/kishu",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official French Kennel Club (SCC) breed profile for the Kishu confirming Japanese Kishu mountain origin, 1934 Natural Monument designation, rough straight double coat, and approximate unsexed weight note (20 to 25 kg).",
+    publisher: "Société Centrale Canine"
+  },
+  "pmc-tanabe-2007-japanese-asian-dog-phylogeny": {
+    id: "pmc-tanabe-2007-japanese-asian-dog-phylogeny",
+    name: "Phylogenetic studies of dogs with emphasis on Japanese and Asian breeds (Proc Jpn Acad Ser B 2007)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4338834/",
+    type: "scientific",
+    publishedOn: "2007-01-12",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed study by Yuichi Tanabe (Proc Jpn Acad Ser B Phys Biol Sci 2007 Jan;82(10):375-387, PMID 25792769, PMC4338834) analyzing the phylogeny and blood protein polymorphisms of Japanese native dog breeds including the Kishu (designated Natural Monument in 1934).",
+    publisher: "Proceedings of the Japan Academy, Series B / National Library of Medicine (PMC)"
+  },
+  "pmc-cmah-2019-japanese-dogs-neu5gc": {
+    id: "pmc-cmah-2019-japanese-dogs-neu5gc",
+    name: "Molecular characterization of cytidine monophospho-N-acetylneuraminic acid hydroxylase (CMAH) associated with the erythrocyte Neu5Gc/Neu5Ac phenotype in dogs (PMC6842231)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6842231/",
+    type: "scientific",
+    publishedOn: "2019-11-07",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed molecular haematology study (2019, PMC6842231) documenting erythrocyte Neu5Ac/Neu5Gc sialic acid polymorphism (CMAH gene variation) across traditional Japanese dog breeds including Kishu dogs, Kai dogs, Shiba dogs, and Japanese Spaniels.",
+    publisher: "National Library of Medicine (PMC)"
+  },
+  "wikimedia-kishu-ken-snow-crispette": {
+    id: "wikimedia-kishu-ken-snow-crispette",
+    name: "Wikimedia Commons - File:Kishu Ken in the Snow.png",
+    url: "https://commons.wikimedia.org/wiki/File:Kishu_Ken_in_the_Snow.png",
+    type: "other",
+    publishedOn: "2015-01-29",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (2000 x 1333 px) of an eight-month-old white Kishu Ken ('Fionna') in snow by CJ Hammond / Crispette (EXIF capture date 2015-01-27 on Canon EOS Rebel T3i, uploaded 2015-01-29). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-kishu-sesame2-canarian": {
+    id: "wikimedia-kishu-sesame2-canarian",
+    name: "Wikimedia Commons - File:Kishu-sesame2.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Kishu-sesame2.jpg",
+    type: "other",
+    publishedOn: "2021-08-11",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (2001 x 1940 px) of an adult sesame Kishu Ken standing outdoors by Canarian (EXIF capture date 2021-08-07 on Canon EOS 1100D, uploaded 2021-08-11). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-leonberger-official-standard": {
+    id: "fci-leonberger-official-standard",
+    name: "FCI - Leonberger Official Breed Standard No. 145",
+    url: "https://www.fci.be/Nomenclature/Standards/145g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2002-09-20",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 145 (valid standard dated 1996-01-04, English publication dated 2002-09-20). Covers German origin in Leonberg near Stuttgart (Baden-Württemberg), Heinrich Essig's 1830s–1846 foundation crossing black-and-white Newfoundland, Grand St. Bernard 'Barry', and Pyrenean Mountain Dog, Group 2 Section 2.2 Mountain-type Molossoids classification without working trial, 9:10 height-to-body ratio, ~50% chest depth, 1:1 skull-to-muzzle ratio, wrinkle-free head, tight black lips, dewlap-free neck, 42-tooth scissor bite (pincer accepted), lion-yellow/red/red-brown/sandy coat with mandatory black mask, and withers height (dogs 72-80 cm, avg 76 cm; bitches 65-75 cm, avg 70 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-leonberger-nomenclature": {
+    id: "fci-leonberger-nomenclature",
+    name: "FCI - Leonberger Breed Nomenclature (No. 145)",
+    url: "https://www.fci.be/en/nomenclature/Leonberger-145.html",
+    type: "official_breed_standard",
+    publishedOn: "2002-09-20",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 2 Section 2.2 Molossian/Mountain type classification without working trial, definitive acceptance date (1955-02-17), valid standard date (1996-01-04), and official breed name (Leonberger).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-leonberger-official-standard": {
+    id: "akc-leonberger-official-standard",
+    name: "American Kennel Club - Official Standard of the Leonberger",
+    url: "https://images.akc.org/pdf/breeds/standards/Leonberger.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed standard (Working Group, recognized January 1, 2010). Establishes strong sexual dimorphism, untrimmed natural water-resistant double coat with lion-like male mane, tight dry black lips, mandatory black mask, cat feet, height (males 28-31.5 in, 30 in preferred; females 25.5-29.5 in, 27.5 in preferred), 9:10 body ratio, white chest patch <=5 in limit, and gentle, steady family temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-leonberger-breed-profile": {
+    id: "akc-leonberger-breed-profile",
+    name: "American Kennel Club - Leonberger Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/leonberger/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed profile documenting Heinrich Essig's Leonberg history, nickname 'Leo', pronunciation ('Lee-uhn-berger'), height (28-31.5 in males, 25.5-29.5 in females), weight (110-170 lb males, 90-140 lb females), life expectancy (7 years), heavy year-round and seasonal shedding, daily vigorous adult exercise, unsuitability for apartments/small lots, group obedience training, and therapy/drafting versatility.",
+    publisher: "American Kennel Club"
+  },
+  "rkc-leonberger-breed-standard": {
+    id: "rkc-leonberger-breed-standard",
+    name: "The Royal Kennel Club - Leonberger Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/working/leonberger/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club breed standard (Working Group, updated April 1, 2025) confirming friendly, self-assured, playful non-aggressive temperament, 9:10 body ratio, tight black lips, dewlap-free neck, natural double coat with lion mane and mandatory black mask, and withers height (dogs 72-80 cm, bitches 65-75 cm). Omits weight.",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-leonberger-breed-profile": {
+    id: "rkc-leonberger-breed-profile",
+    name: "The Royal Kennel Club - Leonberger Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/working/leonberger/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club Breeds A to Z profile specifying large house requirement, country lifestyle, shedding, lifespan under 10 years, Breed Watch Category 2 status, Good Practice pre-breeding tests (BVA/KC Elbow Dysplasia, BVA/KC/ISDS Eye Scheme with gonioscopy for PLA, BVA/KC Hip Dysplasia), and Best Practice DNA tests (LPPN3, LPN1, LPN2, LEMP).",
+    publisher: "The Royal Kennel Club"
+  },
+  "lca-leonberger-health-glossary": {
+    id: "lca-leonberger-health-glossary",
+    name: "Leonberger Club of America (LCA) - New Owner's Glossary & CHIC Required Health Tests",
+    url: "https://leonbergerclubofamerica.com/new-owner-glossary/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official US parent breed club owner's glossary detailing CHIC required breeding health tests: hip conformation (OFA fair/good/excellent or PennHIP <=0.47), elbow conformation (OFA), eye evaluation (CERF/OFA), OFA thyroid, LPN1, LPN2, and LEMP DNA status, plus recommended OFA cardiac evaluation.",
+    publisher: "Leonberger Club of America"
+  },
+  "lca-leonberger-find-a-leo": {
+    id: "lca-leonberger-find-a-leo",
+    name: "Leonberger Club of America (LCA) - Find a Leonberger",
+    url: "https://leonbergerclubofamerica.com/leo-search/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Leonberger Club of America breed overview noting Leonberg, Germany origin, thick double-coat frequent care, daily exercise, regular nail trimming, and average lifespan of 8 to 10 years.",
+    publisher: "Leonberger Club of America"
+  },
+  "pmc-becker-2017-leonberger-gja9-lpn2": {
+    id: "pmc-becker-2017-leonberger-gja9-lpn2",
+    name: "A GJA9 frameshift variant is associated with polyneuropathy in Leonberger dogs (BMC Genomics 2017)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5574090/",
+    type: "scientific",
+    publishedOn: "2017-08-25",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed whole-genome sequencing study by Becker et al. (BMC Genomics 2017 Aug 25;18(1):662, PMID 28841859, PMC5574090) identifying a GJA9 frameshift variant (c.1107_1108delAG; p.Glu370AsnfsTer12) causing autosomal incomplete-dominant Leonberger Polyneuropathy Type 2 (LPN2).",
+    publisher: "BMC Genomics / National Library of Medicine (PMC)"
+  },
+  "pmc-minor-2018-leonberger-napepld-lemp": {
+    id: "pmc-minor-2018-leonberger-napepld-lemp",
+    name: "Canine NAPEPLD-associated models of human myelin disorders (Scientific Reports 2018)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5895582/",
+    type: "scientific",
+    publishedOn: "2018-04-11",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed study by Minor, Letko, Becker, Drögemüller et al. (Sci Rep 2018 Apr 11;8:5818, PMID 29643404, PMC5895582) identifying an autosomal-recessive NAPEPLD missense variant (c.538G>C; p.A180P) causing juvenile-onset Leukoencephalomyelopathy (LEMP, onset ages 1.3 to 4 years) in Leonberger dogs.",
+    publisher: "Scientific Reports / National Library of Medicine (PMC)"
+  },
+  "pmc-letko-2020-leonberger-genomic-diversity": {
+    id: "pmc-letko-2020-leonberger-genomic-diversity",
+    name: "Genomic diversity and population structure of the Leonberger dog breed (Genetics Selection Evolution 2020)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7557023/",
+    type: "scientific",
+    publishedOn: "2020-10-14",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed study (2020, PMC7557023) examining genomic diversity, historical wartime population bottlenecks, inbreeding, and longevity (mean male lifespan 7.9 years, lower than female longevity) in the Leonberger breed.",
+    publisher: "Genetics Selection Evolution / National Library of Medicine (PMC)"
+  },
+  "wikimedia-leonberger-dog-001-tf": {
+    id: "wikimedia-leonberger-dog-001-tf",
+    name: "Wikimedia Commons - File:Leonberger dog 001.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Leonberger_dog_001.jpg",
+    type: "other",
+    publishedOn: "2008-11-02",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (3008 x 2000 px) of an adult Leonberger outdoors by Flickr user t f (EXIF capture date 2008-09-14 on Pentax *ist DS, uploaded to Wikimedia Commons via Flickr upload bot by Ltshears on 2008-11-02). Licensed under CC BY 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-leonberger-glowa40tt-pleple2000": {
+    id: "wikimedia-leonberger-glowa40tt-pleple2000",
+    name: "Wikimedia Commons - File:Leonberger głowa40tt.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Leonberger_g%C5%82owa40tt.jpg",
+    type: "other",
+    publishedOn: "2006-10-04",
+    accessedOn: "2026-11-25",
+    note: "High-resolution Wikimedia Commons Quality Image (2628 x 2040 px) portrait of a Leonberger at the Rybnik Dog Show 2006 by Pleple2000 (captured 2006-10-01, uploaded 2006-10-04). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL).",
+    publisher: "Wikimedia Commons"
+  },
+  "pubmed-adamts17-poag-basset-fauve-de-bretagne": {
+    id: "pubmed-adamts17-poag-basset-fauve-de-bretagne",
+    name: "Forman et al. (2015) - Two Independent Mutations in ADAMTS17 Are Associated with Primary Open Angle Glaucoma in the Basset Hound and Basset Fauve de Bretagne Breeds of Dog",
+    url: "https://pubmed.ncbi.nlm.nih.gov/26474315/",
+    type: "scientific_paper",
+    publishedOn: "2015-10-16",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed PLoS One study (PMID 26474315; DOI 10.1371/journal.pone.0140436) establishing the strong association between an ADAMTS17 mutation and primary open angle glaucoma (POAG) in the Basset Fauve de Bretagne.",
+    publisher: "National Library of Medicine (PubMed / PLoS One)"
+  },
+  "fci-braque-francais-pyrenees-official-standard": {
+    id: "fci-braque-francais-pyrenees-official-standard",
+    name: "FCI - Braque Français, type Pyrénées (French Pointing Dog Pyrenean Type) Official Breed Standard No. 134",
+    url: "https://www.fci.be/Nomenclature/Standards/134g07-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2023-09-22",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 134 (valid standard dated 2023-08-01, English publication dated 2023-09-22, translated by Peggy Davis). Covers French origin, Group 7 Section 1.1 Continental Pointing Dogs ('Braque' type) classification with working trial, structural distinctions from the Gascogne type (tighter skin, chestnut-brown nose, less pendulous lips, ears set above eye line ending 2 cm from nose leather, slight or no dewlap, lighter limbs, tight feet, finer shorter coat, fine docked or naturally short tail), disqualifications (entropion, ectropion, anury, split nose, syndactyly), and withers height (males 51-58 cm, females 49-56 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-braque-francais-pyrenees-nomenclature": {
+    id: "fci-braque-francais-pyrenees-nomenclature",
+    name: "FCI - Braque Français - Type Pyrénées Breed Nomenclature (No. 134)",
+    url: "https://www.fci.be/en/nomenclature/BRAQUE-FRANCAIS-TYPE-PYRENEES-134.html",
+    type: "official_breed_standard",
+    publishedOn: "2023-09-22",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 7 Section 1.1 Continental Pointing Dogs ('Braque' type) classification with working trial, definitive acceptance date (1955-01-18), English standard publication date (2023-09-22), and official multilingual names.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "scc-braque-francais-type-pyrenees-profile": {
+    id: "scc-braque-francais-type-pyrenees-profile",
+    name: "Société Centrale Canine (SCC) - Braque français, type pyrénées",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/braque-francais-type-pyrenees",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official French Kennel Club (SCC) breed profile confirming Gaston Phebus (Count of Foix) heritage, height (males 51-58 cm, females 49-56 cm), weight explicitly unspecified (NP), finer shorter coat than Gascogne, intelligent/obedient temperament sensitive to undeserved punishment, strong bond with owner and children, and city adaptability when acclimated young with regular sporting exercise.",
+    publisher: "Société Centrale Canine"
+  },
+  "ckc-braque-francais-pyrenees-standard": {
+    id: "ckc-braque-francais-pyrenees-standard",
+    name: "Canadian Kennel Club (CKC) - Official Breed Standard: Braque Français (Pyrenees)",
+    url: "https://www.ckc.ca/CanadianKennelClub/media/Breed-Standards/Group%201/Braque-Francais-Pyrenees.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2015-01-01",
+    accessedOn: "2026-11-25",
+    note: "Official Canadian Kennel Club breed standard (Group I Sporting Dogs; recognized 1992, effective January 2015) establishing weight (17 to 25 kg / 37.5 to 55 lb), chestnut/cinnamon-and-white or solid brown coloration with optional pale tan points, disqualifications (black nose, split nose, traces of black in coat), and structural traits.",
+    publisher: "Canadian Kennel Club"
+  },
+  "akc-braque-francais-pyrenean-profile": {
+    id: "akc-braque-francais-pyrenean-profile",
+    name: "American Kennel Club - Braque Francais Pyrenean Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/braque-francais-pyrenean/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed profile (Foundation Stock Service) documenting smaller and more popular status vs. Gascogne type, natural retrieve and love of water, gentle sociable submissive temperament, height (18.5-23 in), weight (40-55 lb via AKC weight chart), life expectancy (12-15 years), minimal weekly grooming, nail/ear/dental care, sports versatility, and generally healthy breed profile.",
+    publisher: "American Kennel Club"
+  },
+  "skk-braque-francais-type-pyrenees-profile": {
+    id: "skk-braque-francais-type-pyrenees-profile",
+    name: "Svenska Kennelklubben (SKK) - Braque français, type pyrénées Rasprofil",
+    url: "https://www.skk.se/hundraser/braque-francais-type-pyrenees/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Swedish Kennel Club (SKK) breed profile confirming southwestern France and central Pyrenees origin, twice-yearly seasonal shedding, very easy-care short fine coat, friendly/easygoing/cooperative hunting and active-family character, and note that very few individuals in Sweden preclude national breed-wide health assessment.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "skk-skf-braque-francais-pyrenees-ras": {
+    id: "skk-skf-braque-francais-pyrenees-ras",
+    name: "Specialklubb för Kontinentala Fågelhundar (SKF) / SKK - Rasspecifik avelsstrategi (RAS): Braque français, type pyrénées",
+    url: "https://www.skk.se/contentassets/d622812e31cc48359e33006304392719/ras-braque-francais-type-pyrenees.pdf",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Swedish breed-specific breeding strategy (RAS, published via SKK and SKF) documenting small regional population management and recommending pre-breeding radiographic hip dysplasia screening (HD-A or HD-B).",
+    publisher: "Specialklubb för Kontinentala Fågelhundar / Svenska Kennelklubben"
+  },
+  "pmc-mastrangelo-2018-bfp-genomic-characterization": {
+    id: "pmc-mastrangelo-2018-bfp-genomic-characterization",
+    name: "Genomic characterization of the Braque Français type Pyrénées dog and relationship with other breeds (PLOS ONE 2018)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6281230/",
+    type: "scientific",
+    publishedOn: "2018-12-05",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed genome-wide SNP study by Mastrangelo, Biscarini, Tolone, Auzino, Ragatzu, Spaterna, and Ciampolini (PLoS One 2018 Dec 5;13(12):e0208548, PMID 30517199, PMC6281230) analyzing genetic variation, LD decay, recent Ne (51 at 13 generations ago vs. ~1,530 historically), and FROH inbreeding in Braque Français, type Pyrénées, showing inbreeding well within the range of other dog breeds.",
+    publisher: "PLOS ONE / National Library of Medicine (PMC)"
+  },
+  "pmc-mastrangelo-2018-bfp-roh-diversity": {
+    id: "pmc-mastrangelo-2018-bfp-roh-diversity",
+    name: "Genome-wide diversity and runs of homozygosity in the 'Braque Français, type Pyrénées' dog breed (BMC Research Notes 2018)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5761150/",
+    type: "scientific",
+    publishedOn: "2018-01-09",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed high-density SNP-array study by Mastrangelo, Biscarini, Auzino, Ragatzu, Spaterna, and Ciampolini (BMC Res Notes 2018 Jan 9;11:13, PMC5761150) reporting observed/expected heterozygosity (0.371 / 0.359), effective population size (Ne = 27.5), and FROH range (0.0526-0.225), concluding the breed retains sufficient genetic variability for conservation and improvement.",
+    publisher: "BMC Research Notes / National Library of Medicine (PMC)"
+  },
+  "wikimedia-french-pointer-pyrenean-canarian": {
+    id: "wikimedia-french-pointer-pyrenean-canarian",
+    name: "Wikimedia Commons - File:French Pointer type Pyrenean.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:French_Pointer_type_Pyrenean.jpg",
+    type: "other",
+    publishedOn: "2018-01-30",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (1712 x 1451 px) of an adult Braque Français, type Pyrénées by Canarian (EXIF capture date 2017-12-08 on Sony DSLR-A350, uploaded 2018-01-30). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-wyzel-pirenejski-308-pleple2000": {
+    id: "wikimedia-wyzel-pirenejski-308-pleple2000",
+    name: "Wikimedia Commons - File:Wyżeł pirenejski 308.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Wy%C5%BCe%C5%82_pirenejski_308.jpg",
+    type: "other",
+    publishedOn: "2006-11-22",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (2208 x 2010 px) of an adult Braque Français, type Pyrénées at the World Dog Show in Poznań by Pleple2000 (captured 2006-11-12, uploaded 2006-11-22). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL) on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
 });

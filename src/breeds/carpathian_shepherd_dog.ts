@@ -9,82 +9,79 @@ export const carpathian_shepherd_dog: Breed = {
     "Romanian Carpathian Shepherd Dog",
     "Ciobănesc Românesc Carpatin",
     "Ciobanesc Romanesc Carpatin",
+    "Carpatin",
     "Carpathian Sheepdog",
-    "Câine Ciobănesc Carpatin",
-    "Zăvod",
-    "Berger Roumain des Carpathes",
-    "Rumänischer Karpaten-Schäferhund",
+    "Chien de berger roumain des Carpathes",
     "Perro de pastor rumano de los Cárpatos"
   ],
 
-  group:
-    "Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 — Sheepdogs (without working trial; also classified in the Herding and Guardian Dog groups)",
+  group: "Sheepdogs and livestock guardians",
 
   origin: {
     country: "Romania",
-    region:
-      "Carpathian Mountains and Carpathian-Danubian basin, Romania"
+    region: "Carpathian Mountains and Carpathian-Danubian basin, Romania"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Ciobanesc_Romanesc_Carpatin.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Romanian_Carpathian_Shepherd_Dog.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Ciobanesc_Romanesc_Carpatin.jpg",
-      title: "Ciobanesc Romanesc Carpatin.jpg",
+        "https://commons.wikimedia.org/wiki/File:Romanian_Carpathian_Shepherd_Dog.jpg",
+      title: "Romanian Carpathian Shepherd Dog.jpg",
       description:
-        "An adult wolf-grey Romanian Carpathian Shepherd Dog standing outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2480,
-      height: 1860,
-      licenseId: "cc-by-sa-3.0",
+        "An adult male wolf-grey Carpathian Shepherd Dog standing outdoors.",
+      creator: "DannyFaQ",
+      uploader: "DannyFaQ",
+      capturedOn: "2008-05-24",
+      uploadedOn: "2008-09-24",
+      width: 1300,
+      height: 925,
+      licenseId: "public-domain",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Ciobanesc_Romanesc_Carpatin.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by DannyFaQ, Wikimedia Commons, released into the public domain worldwide. Source: https://commons.wikimedia.org/wiki/File:Romanian_Carpathian_Shepherd_Dog.jpg.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Carpathian_Shepherd_Dog.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Carpathian_Shepherd_Dog,_the_Carpathian_Mountains,_Romania_(2023-08-20).jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Carpathian_Shepherd_Dog.jpg",
-      title: "Carpathian Shepherd Dog.jpg",
+        "https://commons.wikimedia.org/wiki/File:Carpathian_Shepherd_Dog,_the_Carpathian_Mountains,_Romania_(2023-08-20).jpg",
+      title:
+        "Carpathian Shepherd Dog, the Carpathian Mountains, Romania (2023-08-20).jpg",
       description:
-        "A Romanian Carpathian Shepherd Dog standing in profile outdoors.",
-      creator: "Canarian",
-      uploader: "Canarian",
-      capturedOn: "2012-05-19",
-      uploadedOn: "2012-05-20",
-      width: 800,
-      height: 600,
-      licenseId: "cc-by-sa-3.0",
+        "A working Carpathian Shepherd Dog watching over sheep in the Parâng Mountains of Romania.",
+      creator: "Olgierd Rudak",
+      uploader: "Olgierd Rudak",
+      capturedOn: "2023-08-20",
+      uploadedOn: "2025-12-17",
+      width: 2048,
+      height: 1536,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Carpathian_Shepherd_Dog.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Olgierd Rudak, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Carpathian_Shepherd_Dog,_the_Carpathian_Mountains,_Romania_(2023-08-20).jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     }
   ],
 
   overview: {
     summary:
-      "A large, agile, and noble mountain livestock guardian native to Romania's Carpathian Mountains, celebrated for its wolf-grey double coat, lupine head, fearless defense of flocks against apex predators, and calm, devoted loyalty to its family.",
+      "A large, agile mountain flock guardian from Romania's Carpathian region, defined by its wolf-grey double coat, lupoid head, steady temperament, and instinctive devotion to livestock and family.",
 
     description:
-      "The Carpathian Shepherd Dog is a large, powerful, and remarkably agile pastoral guardian combining substantial bone and muscular endurance with light-footed, tireless mountain mobility. Cultivated for centuries across the forested slopes and alpine pastures of the Carpathian Mountains, the dog was bred to defend sheep flocks and remote mountain settlements against wolves, brown bears, and lynx without sacrificing responsiveness to its shepherd. Its harsh, dense, and straight double coat displays classic wolf-grey or pale fawn shading with a dark overlay, complemented by a rich mane around the neck, feathering on the limbs, and a bushy tail. The lupine head features a broad, slightly domed skull, moderate stop, medium triangular drop ears carried close to the cheeks, and dark brown almond-shaped eyes radiating calm dignity and vigilance. In family life, it is poised, affectionate, and deeply attached to its household while remaining an incorruptible, alert protector of territory and livestock.",
+      "The Carpathian Shepherd Dog is a vigorous, rectangular-bodied mountain guardian built for strength and mobility rather than sheer bulk. Standing tall on strong, straight limbs with a deep chest and muscular neck, it moves with a free, ground-covering trot across steep pastures. Its head has a distinct wolf-like outline with a broad, slightly domed forehead, moderate stop, black nose, almond-shaped brown eyes, and triangular drop ears set just above eye level and carried close to the cheeks. A harsh, straight, dense double coat in shaded pale fawn overlaid with black gives the breed its classic wolf-grey look, accented by fuller fur around the neck, behind the legs, and along the bushy tail. Calm, dignified, and deeply bonded to its household or flock, it conserves energy when off duty and springs swiftly into action when a threat appears.",
 
     history:
-      "The breed represents an ancient pastoral dog population selected over centuries in the Carpathian-Danubian region of Romania, where transhumant shepherds moved vast flocks of sheep between lowland winter valleys and high alpine summer pastures. Local mountain herders prized dogs that were bold enough to confront Carpathian brown bears and wolf packs yet sufficiently agile to traverse steep rocky terrain and biddable enough to heed the shepherd's voice. The first formal written description of the breed appeared in 1934 in the Romanian Veterinary Science Magazine, followed by systematic regional surveys and selective breeding programs led by Romanian cynologists during the late twentieth century. Updated national breeding guidelines in 1998 and 2001 consolidated purebred bloodlines across Romania, leading to provisional international recognition in 2005 and definitive recognition in 2015.",
+      "Selected over centuries from an endemic pastoral dog population in Romania's Carpathian-Danubian area, the Carpathian Shepherd Dog was shaped almost entirely by practical survival and flock defense. Mountain shepherds depended on packs of these agile dogs to protect sheep herds and remote cabins from brown bears, grey wolves, wild boars, and lynx. The earliest written description was drafted in 1934 by Romania's Zootechnical National Institute, then revised in 1982, 1999, and 2001 before being formatted for international recognition in March 2002. Provisional international acceptance followed in July 2005, and definitive recognition was granted in June 2015.",
 
     originalPurpose:
-      "Protecting transhumant sheep flocks, cattle herds, and remote mountain homesteads against large predators, including wolves, brown bears, and lynx, while assisting shepherds in flock management.",
+      "Defending sheep flocks, mountain pastures, barns, and shepherd homesteads in the Carpathian Mountains against large predators such as brown bears, grey wolves, and wild boars.",
 
     currentRoles: [
-      "Livestock and flock guardian dog on rural farms and alpine pastures",
-      "Estate, homestead, and perimeter property guardian",
-      "Devoted family companion for experienced outdoor handlers",
-      "Working partner in structured obedience and rural patrol"
+      "Working flock and livestock guardian on alpine pastures and rural farms",
+      "Property and homestead watchdog for large fenced estates",
+      "Devoted, calm companion for experienced rural or suburban households",
+      "Partner in structured obedience, tracking, and scent-based enrichment"
     ]
   },
 
@@ -110,8 +107,8 @@ export const carpathian_shepherd_dog: Breed = {
         max: 45
       },
       female: {
-        min: 32,
-        max: 40
+        min: 30,
+        max: 36
       }
     },
 
@@ -121,50 +118,45 @@ export const carpathian_shepherd_dog: Breed = {
     },
 
     coatType:
-      "Harsh, dense, straight, and weather-resistant double coat with a thick, soft insulating undercoat; medium length over the body (approximately 6 to 10 cm), shorter on the head and front of the legs, and longer around the neck forming a protective mane, on the back of the thighs, and on the bushy tail.",
+      "Harsh, dense, straight double coat paired with a thick, soft undercoat; short and flat on the head and front of the legs, abundant and medium-length across the body, and noticeably fuller around the neck, on the backs of the limbs, and along the bushy tail.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Pale fawn with black overlay (wolf grey) of varying shades, often lighter on the sides and darker along the back",
-      "Wolf grey with or without white markings (white must not predominate)",
-      "Shaded grey-fawn with dark facial shading"
+      "Pale fawn overlaid with black (wolf-grey) in varying tones, typically lighter on the sides and darker along the back",
+      "Wolf-grey with permissible white markings on the muzzle, forehead, neck, chest, limbs, or tail"
     ],
 
     sheddingLevel:
-      "Moderate to high; sheds moderate amounts year-round and blows its dense undercoat heavily twice a year during seasonal weather changes",
+      "Moderate to heavy; sheds steadily throughout the year and blows its dense undercoat heavily as warm weather arrives, typically around May and June.",
 
     droolingLevel:
-      "Low; clean, tight, and well-pigmented lips prevent drooling",
+      "Low; thick, tight-fitting, black-pigmented lips close cleanly at the corners of the mouth.",
 
     distinctiveFeatures: [
-      "Large, agile, rectangular-built mountain guardian silhouette conveying strength without heaviness",
-      "Height at the withers of 65 to 73 cm for males (ideal 68 to 70 cm) and 59 to 67 cm for females (ideal 62 to 64 cm)",
-      "Working weight in proportion to height, typically 35 to 45 kg for males and 32 to 40 kg for females in lean, muscular form",
-      "Harsh, straight wolf-grey double coat with a dense undercoat, prominent neck mane, and bushy tail",
-      "Lupine, wedge-shaped head with a broad, slightly domed skull, slight furrow, and moderate stop",
-      "Complete, regular scissor bite with powerful jaws and sound, evenly spaced white teeth",
-      "Medium-sized, almond-shaped dark brown eyes set slightly obliquely, expressing calm vigilance and intelligence",
-      "Medium-sized, triangular drop ears with slightly rounded tips set slightly higher than the eye line, hanging close to the cheeks",
-      "Muscular, moderately long neck without loose dewlap, blending cleanly into well-laid-back shoulders",
-      "Deep, broad chest reaching to the elbows with well-sprung ribs, a firm level topline, and moderate abdominal tuck-up",
-      "Bushy tail set rather high, carried hanging down reaching the hock at rest and raised to back level or slightly above in a sabre curve when alert",
-      "Straight, strong-boned forelegs and muscular thighs with large, oval, well-arched feet and tough dark pads"
+      "Vigorous, agile, slightly rectangular frame that conveys power without heavy molossoid bulk, with clear sexual dimorphism",
+      "Height at the withers ideally 65 to 73 cm for males and 59 to 67 cm for females (with a 2 cm tolerance), and body weight balanced in proportion to size",
+      "Wolf-like (lupoid) mesocephalic head with a wide, slightly domed forehead, distinct frontal furrow, moderate stop, and black nose",
+      "Strong, straight jaws closing in a complete scissor bite",
+      "Almond-shaped, slightly oblique eyes in shades of brown (never yellow), framed by tight black eyelids",
+      "Triangular drop ears with slightly rounded tips, set just above eye level and carried close to the cheeks",
+      "Muscular, medium-length neck angled roughly 50 degrees to the horizontal, leading into a straight, firm topline and deep chest reaching the elbows",
+      "Ash-grey skin pigmentation with black nose, lips, and eye rims, and dark ash-grey or black nails preferred",
+      "Harsh, straight wolf-grey double coat with a fuller mane around the neck, feathered legs, and a high-set bushy tail carried low at rest and raised when alert without curling over the back",
+      "Compact oval feet with arched toes, resilient pads, and strong, upright limbs built for a sustained, parallel trot"
     ]
   },
 
   temperament: {
     traits: [
-      "Calm, balanced, and dignified in everyday household life",
-      "Deeply loyal, affectionate, and devoted to its shepherd or family",
-      "Courageous, fearless, and resolute when defending livestock or property",
-      "Alert, observant, and naturally territorial guardian",
-      "Reserved and watchful with unfamiliar strangers without unprovoked aggression",
-      "Independent problem-solver capable of making autonomous protective decisions",
-      "Patient, gentle, and trustworthy with familiar, respectful children",
-      "Cooperative and peaceful with livestock and familiar household animals",
-      "Biddable and attentive to handler cues compared to heavier mountain molossoids",
-      "Deep, resonant bark used to warn intruders and deter predators"
+      "Calm, dignified, and emotionally steady in daily life",
+      "Instinctively protective and brave when guarding livestock or family",
+      "Deeply loyal and devoted to its household, often forming an especially strong bond with one primary handler",
+      "Alert, observant, and quick to act when a genuine threat appears",
+      "Reserved and watchful around unfamiliar people without unprovoked aggression",
+      "Independent thinker accustomed to working cooperatively in guardian packs with minimal direction",
+      "Playful and affectionate within its own family circle",
+      "Pack-oriented and responsive to social engagement rather than relying solely on food or toys"
     ],
 
     scores: {
@@ -183,19 +175,19 @@ export const carpathian_shepherd_dog: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate to high; an athletic, endurance-driven mountain guardian requiring daily perimeter patrols, brisk walks, and purposeful mental engagement",
+        "Moderate to high; outside active flock-guarding duty, adults need steady daily physical movement and purposeful mental work.",
 
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 120
       },
 
       activities: [
-        "Daily brisk trail hikes, woodland walks, and structured outdoor exploration",
-        "Perimeter patrolling and active monitoring across a large, securely fenced yard or rural acreage",
-        "Structured obedience training, tracking, and scentwork games",
-        "Interactive retrieving and mental puzzle challenges",
-        "Cold-weather wilderness hiking and mountain trekking"
+        "Brisk daily walks and trail hikes on leash",
+        "Supervised patrolling across a securely fenced yard or rural property",
+        "Nose work, scent trails, and problem-solving puzzle games",
+        "Interactive play and teamwork-based obedience drills",
+        "Cold-weather outdoor hikes suited to its insulated coat"
       ]
     },
 
@@ -203,36 +195,34 @@ export const carpathian_shepherd_dog: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush thoroughly once or twice weekly using an undercoat rake, slicker brush, and metal comb to remove loose undercoat and prevent tangles in the neck mane and thigh feathering; increase to daily brushing during spring and autumn seasonal sheds.",
+        "Brush periodically with an undercoat rake or de-shedding tool, using a de-matting brush on the longer fur of the neck, chest, backs of the legs, and tail; step up to frequent brushing during the heavy late-spring undercoat blow.",
 
       bathing:
-        "Bathe every two to three months or when heavily soiled, using a gentle canine shampoo; ensure the dense undercoat is thoroughly dried down to the skin.",
+        "Bathe only when genuinely dirty, using a mild canine shampoo and drying the dense undercoat thoroughly down to the skin.",
 
       notes: [
-        "Never shave the double coat; the harsh outer guard hairs and dense undercoat provide crucial insulation against both winter freezing and summer heat.",
-        "Inspect the triangular drop ears weekly for moisture, wax buildup, or debris, wiping gently with an approved veterinary cleanser.",
-        "Check paw pads, toes, and skin for thorns, burrs, or cuts after rural patrols or mountain walks.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain sound compact foot structure.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "The weather-resistant coat naturally sheds dried mud and forest dirt once dry."
+        "Do not shave the double coat; its dense structure insulates the dog against both winter cold and summer heat.",
+        "Check and clean the triangular drop ears regularly to prevent moisture or wax buildup.",
+        "Trim nails on a routine schedule to preserve compact, arched feet.",
+        "Brush teeth regularly to limit tartar accumulation.",
+        "Inspect paws and longer leg feathering for burrs, thorns, or ticks after rural walks."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent, observant, and more biddable than many giant guardian breeds, yet independent and requiring calm, consistent, and respected leadership",
+        "Moderate; bright, observant, and capable of fast learning, yet independent and selective about motivation.",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and calm, confident praise.",
-        "Begin obedience, loose-leash walking, recall, and impulse-control training in early puppyhood.",
-        "Establish clear, fair, and consistent household rules and property boundaries from day one.",
-        "Never use harsh verbal reprimands or physical coercion, which erode trust and provoke defensive resistance.",
-        "Always exercise within a securely fenced property of at least six feet in height with reinforced gates.",
-        "Channel natural vigilance into structured obedience rather than encouraging unprovoked territorial reactivity."
+        "Build engagement through teamwork, calm leadership, and camaraderie games, as many adults are motivated more by social bond than by food or toys.",
+        "Begin leash manners, recall, and calm visitor protocols early in puppyhood.",
+        "Keep sessions short, purposeful, and free of harsh corrections that undermine trust.",
+        "Provide nose work, puzzles, and structured tasks when the dog does not have livestock to watch.",
+        "Keep the dog on leash or inside a reliably fenced property, as natural territorial instincts encourage roaming."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse friendly people, calm vaccinated dogs, livestock, household sounds, vehicles, and novel environments. Early structured socialization ensures innate guardian instincts mature into poised, discerning confidence in public."
+        "Expose puppies early and calmly to varied people, friendly dogs, everyday sights, traffic, and household guests. Steady socialization helps their natural watchfulness mature into composed, discerning judgment rather than overreaction."
     },
 
     livingEnvironment: {
@@ -240,83 +230,78 @@ export const carpathian_shepherd_dog: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cold, snowy, and mountainous winter climates, where the dense double coat provides exceptional thermal insulation",
+        "Cold and mountainous climates, where the thick double coat excels",
         "Temperate climates",
-        "Warm climates, provided indoor air conditioning, deep shade, and fresh water are continuously accessible and exercise occurs during cooler hours"
+        "Warm climates, with reliable shade, fresh water, air-conditioned rest areas, and cooler-hour exercise"
       ],
 
       aloneTimeTolerance:
-        "Moderate to high when stationed on familiar fenced property with shelter and water, though regular family companionship is important to maintain handler bond."
+        "Moderate to high within a secure, familiar outdoor territory, though regular family interaction remains essential for companion dogs."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large active working breeds, with controlled calorie and mineral levels to support steady skeletal development.",
+      "Complete, balanced nutrition tailored for large breeds, often favoring a veterinarian-guided moderate- or lower-protein large-breed formula.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a large-breed growth formula.",
+        "Three measured meals per day during growth on an appropriate large-breed puppy diet.",
       adult:
-        "Two measured meals daily to support steady metabolism and comfortable digestion.",
+        "One to two measured meals per day, with two smaller portions preferred for companion dogs to support comfortable digestion.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two measured meals per day adjusted for lower activity levels and joint support."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt through the dense coat. Pastoral mountain guardians often possess efficient metabolisms adapted to modest rations relative to their size. Divide daily food into two distinct meals, restrict vigorous exercise for at least one hour before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Carpathian Shepherd Dogs naturally eat less than many other breeds of similar stature and frequently stop eating once satisfied. Measure portions carefully rather than coaxing extra intake, since overfeeding can trigger unwanted weight gain. Dividing daily rations into two meals, avoiding strenuous exercise right before or after eating, and keeping fresh water available support digestive safety.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess body weight places unnecessary mechanical stress on hips and stifles.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Feed a large-breed puppy formula during growth; avoid calcium supplements unless prescribed by a veterinarian.",
-      "Provide clean drinking water at all times.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Avoid pushing extra food; respect the breed's modest natural appetite while monitoring rib coverage for a lean working build.",
+      "Use a balanced large-breed puppy formula during skeletal growth and avoid unprescribed calcium supplements.",
+      "Rest the dog before and after meals to help lower the risk of bloat in deep-chested large dogs.",
+      "Many individuals show a preference for wet or moistened food alongside balanced dry rations.",
+      "Transition gradually over five to seven days when changing diets."
     ],
 
     note:
-      "Caloric needs vary significantly based on outdoor temperature, working guardian workload, and daily activity. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Daily caloric requirements shift with outdoor workload, winter exposure, and age. Confirm exact portion sizes with a veterinarian."
   },
 
   health: {
     overview:
-      "The Carpathian Shepherd Dog is a remarkably hardy, robust, and long-lived mountain landrace with a typical life expectancy of 12 to 14 years. Having evolved over centuries through natural survival and practical flock-guarding selection in the Carpathian Mountains without cosmetic exaggerations, it enjoys high constitutional vitality and few hereditary disorders. Primary health priorities include orthopedic screening for hip and elbow dysplasia, routine ear hygiene for drop ears, and preventive precautions against gastric dilatation-volvulus (bloat) in deep-chested individuals.",
+      "Shaped by centuries of natural selection on Romanian mountain pastures, the Carpathian Shepherd Dog is a hardy, vigorous breed with a typical lifespan of 12 to 14 years and no widely established breed-specific hereditary disorders. Even so, prudent owners and breeders monitor for general large-breed orthopedic concerns, guard against overfeeding, check drop ears routinely, and follow standard bloat precautions.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb stiffness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in large deep-chested breeds, requiring emergency veterinary care",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by drop ears that restrict canal airflow, preventable through routine ear checks",
-      "Eye conditions — rare reports of cataracts or eyelid anomalies (entropion), monitored through certified veterinary ophthalmologist examinations",
-      "Traumatic outdoor injuries — minor cuts, thorn punctures, or pad abrasions sustained during rugged mountain or woodland patrols"
+      "Weight gain from overfeeding — possible in companion homes when owners push larger rations than this naturally frugal eater needs",
+      "Hip and elbow dysplasia — general large-breed developmental joint risks worth monitoring through pre-breeding radiographic screening, though not established as widespread in the breed",
+      "Gastric dilatation-volvulus (bloat) — an acute stomach-twisting risk applicable to deep-chested large dogs, mitigated through measured meals and post-meal rest",
+      "Ear canal irritation — possible in drop-eared dogs when moisture or debris accumulates without routine cleaning"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic clearances for hips and elbows, alongside current specialist eye examinations.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Inspect and clean the triangular drop ears weekly, wiping canals with an approved veterinary cleanser.",
-      "Provide cushioned orthopedic bedding to protect elbow joints from pressure calluses.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Choose breeding stock that is functionally and clinically healthy, with pre-breeding orthopedic joint screening where available.",
+      "Keep the dog lean and avoid coaxing it to overeat, protecting developing and aging joints.",
+      "Feed measured meals and avoid vigorous activity immediately before and after eating.",
+      "Inspect and gently clean the drop ears regularly, especially after wet weather.",
+      "Maintain routine veterinary wellness exams, vaccinations, dental care, and year-round parasite prevention."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Clinical orthopedic and cardiovascular examination by a veterinarian"
+      "Clinical veterinary examination confirming overall functional and reproductive soundness before breeding",
+      "Radiographic hip evaluation as a prudent large-breed orthopedic screen",
+      "Radiographic elbow evaluation as a prudent large-breed orthopedic screen",
+      "Periodic veterinary ophthalmic check for breeding stock"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has powerful jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth routinely with canine toothpaste and have a veterinarian check the strong scissor-bite dentition during annual wellness exams.",
 
     earCare:
-      "Inspect the triangular drop ears weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check the triangular drop ears regularly for redness, odor, or wax buildup, wiping gently with a veterinarian-approved cleaner as needed.",
 
     skinCare:
-      "Part the dense double coat weekly during brushing to inspect the skin for external parasites, burrs, or irritation. Regular undercoat brushing promotes healthy skin aeration."
+      "Part the dense double coat while brushing to check the ash-grey skin for ticks, burrs, or irritation and to keep airflow moving through the undercoat."
   },
 
   suitability: {
@@ -327,75 +312,68 @@ export const carpathian_shepherd_dog: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Experienced dog owners familiar with livestock guardian breeds and calm, consistent leadership",
-      "Rural homesteads, farms, and ranches with secure fencing of at least six feet in height",
-      "Families with respectful children seeking a devoted, steady, and protective companion",
-      "Active outdoor households in temperate or cold mountain climates",
-      "Livestock owners needing an agile, predator-deterring flock guardian"
+      "Experienced owners comfortable guiding an independent, pack-minded livestock guardian",
+      "Rural properties, farms, or homes with sturdy fenced yards where the dog can patrol safely",
+      "Families with respectful children who want a calm, steady, deeply loyal protector",
+      "Active households ready to provide daily walks, nose work, and purposeful tasks"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for large guardian independence and territorial drive",
-      "Apartment, condominium, or dense urban dwellers without expansive private fenced grounds",
-      "Households with frequent unannounced visitors or unsecured yard gates",
-      "Owners seeking an off-leash dog park companion that greets every stranger enthusiastically"
+      "First-time dog owners looking for an automatically compliant, food-driven pet",
+      "Apartments or dense urban housing without secure private outdoor space",
+      "Unfenced yards where a roaming guardian could wander beyond property lines",
+      "Owners wanting a dog that greets unfamiliar visitors or off-leash strangers indiscriminately"
     ]
   },
 
   funFacts: [
-    "In Romania's Carpathian Mountains, this wolf-grey guardian is traditionally known as 'Zăvod' and has protected transhumant sheep flocks from European brown bears, grey wolves, and lynx for centuries.",
-    "Unlike massive, heavy-boned mountain molossoids, the Carpathian Shepherd Dog possesses a lighter, wolf-like (lupine) head and agile rectangular build that enables it to sprint across steep, rocky mountain ridges without tiring.",
-    "The breed's dense wolf-grey double coat provides natural camouflage among Carpathian rocks and timber, allowing the dog to blend seamlessly into the landscape while watching over grazing sheep.",
-    "The earliest formal zoological and cynological description of the Carpathian Shepherd Dog was published in 1934 in the Romanian Veterinary Science Magazine, documenting its ancient roots in the Carpathian-Danubian basin.",
-    "Despite its fierce courage when confronting apex predators on the mountain pastures, within its own family circle the Carpathian Shepherd Dog is famously calm, gentle, and affectionate with familiar children.",
-    "Romania is home to four internationally recognized native shepherd breeds—the Carpathian, Mioritic, Bucovina, and Raven Shepherd Dogs—with the Carpathian being the most agile and wolf-like in appearance."
+    "Carpathian Shepherd puppies are born black and white; their permanent wolf-grey topcoat gradually develops and does not fully mature until roughly two years of age.",
+    "On Romanian mountain pastures, these dogs traditionally work in coordinated packs, dividing guardian duties so effectively that livestock losses to bears and wolves stay remarkably low.",
+    "Unlike heavier mountain guardians, the Carpathian Shepherd Dog retains a wolf-like head and lighter, athletic frame built to sprint across steep slopes without tiring.",
+    "The breed's earliest formal written description was compiled in 1934 by Romania's Zootechnical National Institute, reflecting centuries of regional pastoral selection.",
+    "For its large size, the breed has a surprisingly frugal appetite and typically stops eating once full rather than gorging."
   ],
 
   faq: [
     {
       question: "What is a Carpathian Shepherd Dog?",
       answer:
-        "The Carpathian Shepherd Dog (Ciobănesc Românesc Carpatin) is a large, agile mountain livestock guardian breed native to Romania, recognized for its wolf-grey double coat, lupine head, fearless defense of flocks, and calm, devoted family loyalty."
+        "The Carpathian Shepherd Dog is a large, agile livestock guardian from Romania's Carpathian Mountains, known for its wolf-grey double coat, wolf-like head, fearless flock protection, and calm loyalty at home."
     },
     {
-      question: "How tall and heavy is a Carpathian Shepherd Dog?",
+      question: "How big is an adult Carpathian Shepherd Dog?",
       answer:
-        "Adult males stand 65 to 73 cm at the withers (ideal 68 to 70 cm) and weigh 35 to 45 kg, while adult females stand 59 to 67 cm (ideal 62 to 64 cm) and weigh 32 to 40 kg in lean, muscular working condition."
+        "Adult males stand ideally 65 to 73 cm at the withers and weigh roughly 35 to 45 kg, while females stand ideally 59 to 67 cm and weigh roughly 30 to 36 kg."
     },
     {
-      question: "How long does a Carpathian Shepherd Dog live?",
+      question: "What is the lifespan of a Carpathian Shepherd Dog?",
       answer:
-        "With proper nutrition, joint care, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
+        "Most Carpathian Shepherd Dogs live 12 to 14 years when kept lean and given regular preventive veterinary care."
     },
     {
-      question: "Do Carpathian Shepherd Dogs shed a lot, and how are they groomed?",
+      question: "How much do Carpathian Shepherd Dogs shed?",
       answer:
-        "Yes, they shed moderately year-round and blow their dense undercoat twice a year during seasonal changes. Brushing once or twice weekly—and daily during seasonal molts—keeps the coat healthy; their double coat should never be shaved."
+        "They shed moderately all year and blow their dense undercoat heavily as warmer weather begins, typically around May and June. Regular brushing with an undercoat rake manages loose hair, and the double coat should never be shaved."
     },
     {
       question: "Can a Carpathian Shepherd Dog live in an apartment?",
       answer:
-        "No. Due to its large size, strong territorial instincts, and need to patrol outdoor space, the breed is not suited to apartment living and requires a house with a large, securely fenced yard or rural acreage."
+        "No. Their large stature, territorial patrolling instinct, and daily space needs make a house with a securely fenced yard or rural acreage a far better fit."
     },
     {
-      question: "Are Carpathian Shepherd Dogs good family pets and good with children?",
+      question: "How much daily exercise does a Carpathian Shepherd Dog need?",
       answer:
-        "Yes, with experienced families. They are deeply loyal, gentle, and patient with familiar children; however, because of their strong guardian instincts, interactions with visiting guests and unfamiliar children must always be supervised."
+        "Without a flock to guard, adults need roughly 60 to 120 minutes of moderate daily activity combining walks, fenced yard time, nose work, and interactive games."
     },
     {
-      question: "Is the Carpathian Shepherd Dog suitable for first-time owners?",
+      question: "Are Carpathian Shepherd Dogs easy to train?",
       answer:
-        "Generally no. Although more responsive to training than many giant guardian breeds, its size, territorial nature, and independent decision-making require an experienced handler who understands guardian dogs."
+        "They are intelligent and learn quickly by observing, but they were bred to think independently. Many respond better to calm leadership, teamwork, and social praise than to repetitive food- or toy-based drills."
     },
     {
-      question: "How much exercise does a Carpathian Shepherd Dog need each day?",
+      question: "Are Carpathian Shepherd Dogs prone to genetic health problems?",
       answer:
-        "The breed requires 60 to 90 minutes of daily physical activity, including brisk walks, trail hikes, and structured outdoor patrolling in a secure yard."
-    },
-    {
-      question: "What health screenings are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, along with certified veterinary ophthalmologist eye exams."
+        "Because the breed was shaped by centuries of natural working selection in Romania, no widespread breed-specific genetic disorders are established. Owners should still prevent overfeeding, follow bloat precautions, and prioritize orthopedic joint screening in breeding dogs."
     }
   ],
 
@@ -406,16 +384,23 @@ export const carpathian_shepherd_dog: Breed = {
     "akc-romanian-carpathian-shepherd-breed-profile",
     "ukc-romanian-carpathian-shepherd-breed-standard",
     "wikimedia-ciobanesc-romanesc-carpatin-lilly-m",
-    "wikimedia-carpathian-shepherd-dog-canarian"
+    "wikimedia-carpathian-shepherd-dog-canarian",
+    "natureserve-canis-lupus-familiaris",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Scientific Name: Canis lupus familiaris (ITIS TSN 726821)"
+        }
+      ],
+      verifiedOn: "2026-11-25",
+      note: "Verified standard domestic-dog trinomial taxonomy across the catalog."
     },
 
     alternateNames: {
@@ -429,21 +414,16 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: ROMANIAN CARPATHIAN SHEPHERD DOG (350), Berger Roumain des Carpathes, Rumänischer Karpaten-Schäferhund, Perro de pastor rumano de los Cárpatos"
+          locator: "Multilingual names: ROMANIAN CARPATHIAN SHEPHERD DOG, CHIEN DE BERGER ROUMAIN DES CARPATHES, CIOBANESC ROMÂNESC CARPATIN, PERRO DE PASTOR RUMANO DE LOS CÁRPATOS \"CARPATIN\""
         },
         {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Denumirea rasei: Ciobănesc Românesc Carpatin (Zăvod)"
-        },
-        {
-          id: "akc-romanian-carpathian-shepherd-breed-profile",
-          role: "verified",
-          locator: "History: Carpathian Shepherd Dog, Carpathian Sheepdog"
+          locator: "alternateNames: Ciobănesc Românesc Carpatin, Carpatin, Romanian Carpathian Shepherd Dog"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified across FCI Standard No. 350, FCI Nomenclature, AChR, and AKC."
+      verifiedOn: "2026-11-25",
+      note: "Verified across FCI Standard No. 350, FCI Nomenclature No. 350, and The Dog API."
     },
 
     group: {
@@ -452,27 +432,31 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 Sheepdogs; without working trial"
+          locator: "FCI-CLASSIFICATION: Group 1 Sheepdog and Cattle Dogs (except Swiss Cattle Dogs); Section 1 Sheepdogs; Without working trial"
         },
         {
           id: "fci-carpathian-shepherd-dog-nomenclature",
           role: "verified",
-          locator: "Group 1, Section 1 Sheepdogs, without working trial"
-        },
-        {
-          id: "akc-romanian-carpathian-shepherd-breed-profile",
-          role: "verified",
-          locator: "Foundation Stock Service (Herding Group)"
+          locator: "Group 1, Section 1 Sheepdogs, not subject to a working trial"
         },
         {
           id: "ukc-romanian-carpathian-shepherd-breed-standard",
           role: "verified",
-          locator: "Guardian Dog Group"
+          locator: "FCI General Assembly Milan June 2015: Group 1 Section 1 definitive recognition (CACIB eligible from June 10, 2015)"
+        },
+        {
+          id: "akc-romanian-carpathian-shepherd-breed-profile",
+          role: "verified",
+          locator: "Foundation Stock Service (accepted November 2021)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "group: Working (FCI classifies in Group 1 Section 1 Sheepdogs)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-25",
+      note: "User-facing group omits registry and section labels per Rule 5; unverified UKC Guardian Dog Group claim removed."
     },
 
     origin: {
@@ -481,21 +465,26 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "ORIGIN: Romania; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: Romania; BRIEF HISTORICAL SUMMARY: endemic breed present in the Carpathian-Danubian area"
         },
         {
           id: "fci-carpathian-shepherd-dog-nomenclature",
           role: "verified",
-          locator: "Country of origin: Romania"
+          locator: "Country of origin of the breed: ROMANIA; definitive acceptance 2015-06-09; provisional acceptance 2005-07-06"
         },
         {
           id: "achr-ciobanesc-romanesc-carpatin-standard",
           role: "verified",
-          locator: "Origine: România (zona carpato-danubiană)"
+          locator: "Rase Românești — Ciobănesc Românesc Carpatin (FCI 350)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "origin.country: Carpathian Mountains, Romania (FCI lists Romania as country and Carpathian-Danubian area as region)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: null
+      verifiedOn: "2026-11-25",
+      note: "Preserved Romania in origin.country per FCI Standard No. 350 and Carpathian Mountains / Carpathian-Danubian basin in origin.region."
     },
 
     overview: {
@@ -504,22 +493,21 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY (1934 Zootechnical National Institute; updated 1982, 1999, 2001; adapted 30.03.2002), GENERAL APPEARANCE"
         },
         {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
+          id: "ukc-romanian-carpathian-shepherd-breed-standard",
           role: "verified",
-          locator: "Scurt istoric (1934 Revista de Științe Veterinare, 1998, 2001), utilizare și comportament"
+          locator: "FCI General Assembly Milan June 2015 definitive recognition"
         },
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed, History (guarding herds, cabins, houses, barns against bears, wolves, boars)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesized in original prose from FCI Standard No. 350, AChR, and AKC official records."
+      verifiedOn: "2026-11-25",
+      note: "Corrected historical timeline (1934 Zootechnical National Institute; 1982, 1999, 2001 revisions; 2015-06-09 definitive acceptance) and rewrote all prose from scratch."
     },
 
     physical: {
@@ -528,22 +516,16 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "GENERAL APPEARANCE, IMPORTANT PROPORTIONS, HEAD (lupoid, mesocephalic), EYES (shades of brown, never yellow), EARS, NECK (~50° angle), BODY, TAIL, LIMBS, SKIN (ash grey), COAT (moderate length, harsh, straight), COLOUR (pale fawn overlaid with black / wolf-grey; permissible white markings; disqualifies brown, brindle, yellow)"
         },
         {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
-          role: "verified",
-          locator: "Morfologie, cap lupoid, roba sur-lupie, proporții și talie"
-        },
-        {
-          id: "ukc-romanian-carpathian-shepherd-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "coatColors lists 17 generic canine colours including Black, Blue, Brindle, Brown/Chocolate, Cream, Gold/Yellow, Liver, Merle, and Red; FCI 350 permits only wolf-grey (pale fawn overlaid with black) with optional white markings and explicitly disqualifies brown, brindle, and yellow"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Conformation, agile rectangular build, lupine head, wolf-grey double coat, and distinctive features follow official standards."
+      verifiedOn: "2026-11-25",
+      note: "Removed unverified '6 to 10 cm' coat length and 'ideal 68–70 / 62–64 cm' height sub-ranges not present in FCI Standard No. 350."
     },
 
     "physical.height": {
@@ -552,41 +534,44 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Males: 65-73 cm (ideal 68-70 cm); Females: 59-67 cm (ideal 62-64 cm)."
+          locator: "SIZE AND WEIGHT: Height at the withers: Males: Ideally 65 – 73 cm (± 2 cm). Females: Ideally 59 – 67 cm (± 2 cm)."
         },
         {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
-          role: "verified",
-          locator: "Înălțimea la greabăn: Masculi 65-73 cm (ideal 68-70 cm); Femele 59-67 cm (ideal 62-64 cm)"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height: male 65–73 cm, female 59–68 cm (FCI 350 states female 59–67 cm)"
         },
         {
-          id: "ukc-romanian-carpathian-shepherd-breed-standard",
-          role: "verified",
-          locator: "Height: Males: 25.5 to 28.5 inches (65-73 cm); Females: 23 to 26.5 inches (59-67 cm)"
+          id: "akc-romanian-carpathian-shepherd-breed-profile",
+          role: "conflicting",
+          locator: "Height: 26–29 inches (males), 23–26 inches (females)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Preserved in published unit of centimetres (65–73 cm for males, ideal 68–70 cm; 59–67 cm for females, ideal 62–64 cm) exactly as specified in FCI Standard No. 350 and AChR standard."
+      verifiedOn: "2026-11-25",
+      note: "Kept FCI Standard No. 350's exact published centimetres (65–73 cm males, 59–67 cm females) per Rule 9."
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Greutatea: Proporțională cu talia (cca. 35-45 kg masculi, 32-40 kg femele)"
+          locator: "weight: male 35–45 kg, female 30–36 kg"
+        },
+        {
+          id: "fci-carpathian-shepherd-dog-official-standard",
+          role: "cited",
+          locator: "Weight: In harmony with the size, giving the impression of a powerful but not heavy dog (no numerical range published)"
         },
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
-          role: "verified",
-          locator: "Weight: 70 to 100 pounds (approx. 32-45 kg)"
+          role: "conflicting",
+          locator: "Weight: 70–100 lbs (breed-wide)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FCI Standard No. 350 specifies weight as proportional to height without fixing exact numbers. The stored 35 to 45 kg for males and 32 to 40 kg for females represent canonical working ranges published by AChR and kennel club profiles, preserved in kilograms."
+      verifiedOn: "2026-11-25",
+      note: "FCI 350 does not publish numeric weight; stored The Dog API's published whole-number metric ranges (35–45 kg males, 30–36 kg females) per Rule 9 and noted AKC's 70–100 lbs."
     },
 
     "physical.lifespanYears": {
@@ -595,16 +580,16 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-14 years"
+          locator: "Life Expectancy: 12–14 years"
         },
         {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longevitate și vitalitate constituțională (12-14 ani)"
+          locator: "lifespanYears: 12–14"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Supported by kennel club and parent club actuarial profiles."
+      verifiedOn: "2026-11-25",
+      note: "Consistent across AKC and The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -613,15 +598,15 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5 to 4/5)"
+          locator: "Grooming: heavy undercoat shed as warm seasons start around May–June"
         },
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "COAT: Harsh, dense, straight double coat with dense undercoat"
+          locator: "COAT: harsh, dense, straight outer coat with dense, soft undercoat"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -631,16 +616,16 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "Lips: Thick, well pigmented, tight-fitting"
+          locator: "Lips: Thick, well pigmented, tight and well closed at the corner of the mouth"
         },
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5 to 2/5)"
+          locator: "Breed Traits: Drooling Level"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Tight-fitting, well-pigmented lips prevent drooling."
+      verifiedOn: "2026-11-25",
+      note: null
     },
 
     "temperament.traits": {
@@ -649,20 +634,20 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Born guard dog, courageous, devoted to flock and master, calm and balanced"
+          locator: "BEHAVIOUR / TEMPERAMENT: natural guardian, courageous, instinctive and unconditional attachment to herd and master; dignified, calm and stable"
         },
         {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
+          id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "verified",
-          locator: "Comportament și temperament: Paznic înnăscut, curajos, atașat de stăpân, calm și echilibrat"
+          locator: "About the Breed & Training: loyal, brave, playful with family, bonds strongly with one primary master, pack-motivated"
         },
         {
-          id: "ukc-romanian-carpathian-shepherd-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Temperament: Calm, dignified, courageous guardian, devoted to master"
+          locator: "temperament.traits: Loyal, protective, courageous, calm, independent, alert, devoted"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -672,17 +657,11 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
-          role: "cited",
-          locator: "Profil comportamental"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented livestock guardian temperament, strong protectiveness, and family devotion."
+      note: "Editorial 1–5 ratings synthesized from FCI 350 and AKC temperament descriptions."
     },
 
     care: {
@@ -691,17 +670,11 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
-          role: "cited",
-          locator: "Îngrijire, mișcare și dresaj"
+          locator: "Grooming, Exercise (1–2 hours moderate activity, fenced yard or leash), Training (camaraderie games, nose work, puzzles), and Nutrition"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active mountain guardian management with double-coat grooming and secure fencing protocols."
+      note: "Synthesizes AKC care guidance in original prose."
     },
 
     "care.exercise.level": {
@@ -710,30 +683,29 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "verified",
-          locator: "Energy Level (3/5 to 4/5); Exercise Needs (4/5)"
+          locator: "Exercise: 1–2 hours a day moderate activity when not guarding a herd (walks, nose work, puzzles, play)"
         },
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Mountain flock guardian dog with agility and endurance"
+          locator: "UTILIZATION & GAIT: agile mountain flock guardian with vigorous, sustained trot"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
     "care.exercise.minutesPerDay": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
-          role: "cited",
-          locator: "Daily exercise and perimeter patrol recommendations"
+          role: "verified",
+          locator: "Exercise: at least 1–2 hours (60–120 minutes) a day of moderate activity"
         }
       ],
-      verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an agile mountain livestock guardian."
+      verifiedOn: "2026-11-25",
+      note: "Aligned with AKC's published 1–2 hours daily activity guidance."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -742,17 +714,11 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "cited",
-          locator: "Large size, strong territorial guardian instincts, and need for space"
-        },
-        {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
-          role: "cited",
-          locator: "Condiții de viață: curte împrejmuită sau spațiu rural"
+          locator: "Exercise: necessary to have a fenced yard or be kept on a leash; territorial roaming tendency"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that large size, protective territorial instincts, and perimeter vigilance make apartment living unsuitable."
+      note: "Editorial assessment based on size, space needs, and guardian patrolling drive."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -761,10 +727,10 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations (minimum six-foot fence)"
+          locator: "Exercise: fenced yard recommended for safe territorial movement"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -772,17 +738,17 @@ export const carpathian_shepherd_dog: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-carpathian-shepherd-dog-official-standard",
-          role: "verified",
-          locator: "COAT: Weather-resistant double coat adapted to Carpathian mountain climate"
-        },
-        {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "verified",
-          locator: "Weather adaptation: excels in cold and mountain climates"
+          locator: "Grooming: dense double coat protects equally from cold and heat"
+        },
+        {
+          id: "fci-carpathian-shepherd-dog-official-standard",
+          role: "verified",
+          locator: "COAT: harsh, dense outer coat with dense, soft undercoat adapted to Carpathian Mountains"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -792,7 +758,7 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate to high; independent flock guardian"
+          locator: "Independent flock guardian accustomed to working with minimal human guidance"
         }
       ],
       verifiedOn: null,
@@ -805,12 +771,11 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for large working breeds"
+          locator: "Health & Nutrition: naturally eats less than expected for size, stops when full, risk of overfeeding; balanced low-protein large-breed formula; prefers wet food"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for large mountain guardian breeds prone to rapid skeletal growth and bloat."
+      note: "Grounded in AKC nutrition notes and standard large-breed feeding practices."
     },
 
     "nutrition.feedingFrequency": {
@@ -819,49 +784,42 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Nutrition: puppies 3 times a day; adults once or twice daily"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule for large breeds."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
-          role: "verified",
-          locator: "Sănătate, vitalitate constituțională și selecție funcțională"
-        },
-        {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "verified",
-          locator: "Health overview, hip and elbow evaluations, and bloat precautions"
+          locator: "Health: naturally selected in Romania with no known widespread genetic issues; avoid overfeeding; lifespan 12–14 years"
+        },
+        {
+          id: "fci-carpathian-shepherd-dog-official-standard",
+          role: "verified",
+          locator: "N.B.: Only functionally and clinically healthy dogs with breed-typical conformation should be used for breeding"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesizes national kennel club veterinary health data with large-breed orthopedic priorities."
+      verifiedOn: "2026-11-25",
+      note: "Per Rule 8, explicitly distinguishes the absence of established breed-specific genetic disorders from general large-breed preventive monitoring."
     },
 
     "health.commonConditions": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
-          role: "verified",
-          locator: "Displazia de șold și cot, dilatația-torsiunea gastrică"
-        },
-        {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
-          role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, bloat, and ear hygiene"
+          role: "cited",
+          locator: "Health: overfeeding weight risk; no known genetic disorders established"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Details documented conformational and environmental conditions in original prose without prohibited registry terms."
+      verifiedOn: null,
+      note: "Distinguishes AKC-noted overfeeding risk from general large-breed conformational precautions (hip/elbow dysplasia, bloat, drop-ear care)."
     },
 
     "health.preventiveCare": {
@@ -870,30 +828,34 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "cited",
-          locator: "Routine care, weight control, bloat precautions, and veterinary wellness checks"
+          locator: "Health & Grooming: avoid overfeeding, routine nail/ear/tooth care"
+        },
+        {
+          id: "fci-carpathian-shepherd-dog-official-standard",
+          role: "cited",
+          locator: "N.B.: breed only functionally and clinically healthy dogs"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to large mountain guardian dogs."
+      note: null
     },
 
     "health.recommendedScreenings": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
-          role: "verified",
-          locator: "Examene recomandate: Evaluare radiografică pentru displazia de șold și cot, examen oftalmologic"
+          id: "fci-carpathian-shepherd-dog-official-standard",
+          role: "cited",
+          locator: "N.B.: Only functionally and clinically healthy dogs should be used for breeding"
         },
         {
-          id: "akc-romanian-carpathian-shepherd-breed-profile",
-          role: "verified",
-          locator: "Hip evaluation, elbow evaluation, and eye examination"
+          id: "achr-ciobanesc-romanesc-carpatin-standard",
+          role: "cited",
+          locator: "AChR dysplasia examination information (Informatii examen displazie)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Screenings summarize published national kennel club and parent club protocols."
+      verifiedOn: null,
+      note: "Framed as prudent large-breed pre-breeding evaluations rather than mandatory breed-club test panels."
     },
 
     "health.dentalCare": {
@@ -902,11 +864,16 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong jaws with complete scissor bite"
+          locator: "Jaws/Teeth: strong jaws, powerful dentition, scissor bite"
+        },
+        {
+          id: "akc-romanian-carpathian-shepherd-breed-profile",
+          role: "cited",
+          locator: "Grooming: regular tooth brushing"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
@@ -915,16 +882,16 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "cited",
-          locator: "Ears: triangular, hanging close to cheeks"
+          locator: "Ears: triangular drop ears carried close to the cheek"
         },
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Grooming: regular ear cleaning"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: null
     },
 
     "health.skinCare": {
@@ -933,11 +900,11 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "cited",
-          locator: "Skin: pigmented, tight-fitting; harsh double coat"
+          locator: "Skin: ash grey pigmentation; harsh double coat"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -946,35 +913,29 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "ukc-romanian-carpathian-shepherd-breed-standard",
-          role: "cited",
-          locator: "Characteristics and guardian lifestyle suitability"
+          locator: "About the Breed, Exercise, and Training profiles"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, size, and guardian instincts."
+      note: "Editorial suitability assessment based on guardian independence, space requirements, and family devotion."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
+          id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "verified",
-          locator: "Denumirea populară Zăvod, descrierea din 1934 în Revista de Științe Veterinare, apărarea turmelor de urși și lupi"
+          locator: "Did You Know & Health: puppies born black and white (permanent wolf-grey coat develops until 2 years old), coordinated pack guarding, frugal appetite"
         },
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Ancient Carpathian-Danubian flock guardian"
+          locator: "Brief Historical Summary (1934 Zootechnical National Institute) and lupoid, agile non-molossoid build"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-25",
+      note: "Verified facts from AKC and FCI Standard No. 350."
     },
 
     faq: {
@@ -983,24 +944,23 @@ export const carpathian_shepherd_dog: Breed = {
         {
           id: "fci-carpathian-shepherd-dog-official-standard",
           role: "verified",
-          locator: "Origin, height (65-73 cm / 59-67 cm), coat, and colors"
-        },
-        {
-          id: "achr-ciobanesc-romanesc-carpatin-standard",
-          role: "verified",
-          locator: "Weight (32-45 kg), lifespan (12-14 years), and guardian temperament"
+          locator: "Height (65–73 cm males, 59–67 cm females), coat, origin, and temperament"
         },
         {
           id: "akc-romanian-carpathian-shepherd-breed-profile",
           role: "verified",
-          locator: "Apartment living, family life, owner suitability, and health screenings"
+          locator: "Lifespan (12–14 years), May–June undercoat shed, 1–2 hours exercise, training motivation, and health overview"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "Metric weight ranges (35–45 kg males, 30–36 kg females)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and parent club data without naming registries in prose."
+      verifiedOn: "2026-11-25",
+      note: "Original FAQ prose with zero registry or source names per Rule 5."
     }
   },
 
-  updatedOn: "2026-11-12"
+  updatedOn: "2026-11-25"
 };

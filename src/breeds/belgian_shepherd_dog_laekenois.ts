@@ -8,21 +8,20 @@ export const belgian_shepherd_dog_laekenois: Breed = {
   alternateNames: [
     "Belgian Laekenois",
     "Laekenois",
-    "Berger Belge Laekenois",
+    "Laekenois Shepherd",
+    "Laekense",
     "Lakense Herder",
-    "Belgische Herder Laekenois",
+    "Berger Belge Laekenois",
+    "Chien de Berger Belge Laekenois",
     "Belgischer Schäferhund Laekenois",
-    "Perro de Pastor Belga Laekenois",
-    "Chien de Berger Belge Laekenois"
+    "Perro de Pastor Belga Laekenois"
   ],
 
-  group:
-    "Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 — Sheepdogs (with working trial; also classified in the Herding and Pastoral groups)",
+  group: "Sheepdogs and herding dogs",
 
   origin: {
     country: "Belgium",
-    region:
-      "Laeken (Laken) and surrounding Brabant and Antwerp pastoral districts, Belgium"
+    region: "Laeken (Laken) and surrounding Brabant and Antwerp districts, Belgium"
   },
 
   images: [
@@ -41,9 +40,9 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       height: 437,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Laekenois_Shepherd.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Laekenois_Shepherd.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Belgian_Laekenois_600.jpg",
@@ -52,7 +51,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       title: "Belgian Laekenois 600.jpg",
       description:
         "An adult Belgian Shepherd Dog (Laekenois) standing outdoors at a championship dog show.",
-      creator: "Sannse",
+      creator: "sannse",
       uploader: "PrzemekL",
       capturedOn: "2003-08-30",
       uploadedOn: "2005-12-04",
@@ -60,30 +59,30 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       height: 771,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Sannse, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Belgian_Laekenois_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by sannse, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Belgian_Laekenois_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     }
   ],
 
   overview: {
     summary:
-      "The rarest of Belgium's four native shepherd varieties, an agile, square-built, and tireless working herding dog instantly recognized by its tousled, rough fawn double coat with discreet black shading, bearded muzzle, and fierce devotion to its handler.",
+      "The rarest of Belgium's four native shepherd varieties, an agile, square-proportioned working herder distinguished by its rough, tousled fawn double coat with dark muzzle and tail shading, bearded foreface, and deep devotion to its handler.",
 
     description:
-      "The Belgian Shepherd Dog (Laekenois) is a medium-sized, harmoniously proportioned, square-built working sheepdog combining dry, strong musculature with boundless energy and elegance. Developed in Belgium to tend sheep flocks and guard valuable linen laid out to bleach in open pastures, the dog possesses the same athletic structure, proud head carriage, and keen intelligence as the Groenendael, Tervueren, and Malinois, distinguished primarily by its rough, wiry, and tousled coat. Measuring approximately 6 cm over the body, the harsh, dry double coat presents in warm fawn shades accented by subtle black overlay—principally on the muzzle and tail—accompanied by characteristic muzzle furnishings without obscuring the expressive, slightly oblique dark brown eyes. In domestic life, it is deeply loyal, sensitive, and affectionate with its family while remaining an observant, protective, and discerning guardian toward strangers.",
+      "The Belgian Shepherd Dog (Laekenois) is a medium-sized, square-built herding dog that balances strength and dry muscle with light-footed elegance. Sharing the same athletic frame, proud head carriage, and tireless work ethic as the Groenendael, Tervueren, and Malinois, it is set apart by its rough, harsh, disorderly double coat in reddish-fawn, fawn, or greyish tones accented with black shading mainly on the muzzle and tail. Dark, almond-shaped eyes peer keenly from beneath neat facial hair and a bristled muzzle beard, topped by stiff, erect triangular ears. Always observant and ready for action, the Laekenois is affectionate, possessive of family attention, and protective of home and handler while remaining naturally reserved with unfamiliar people.",
 
     history:
-      "During the late nineteenth century, Belgium possessed a diverse population of hard-working pastoral herding dogs varying in coat texture and color. In 1891, veterinary professor Adolphe Reul of the Cureghem School of Veterinary Medicine organized a landmark gathering of over one hundred native herding dogs near Brussels to classify and standardize Belgium's national shepherd breed. Breeders established four distinct varieties named after the Belgian localities where each type flourished: the long-haired black Groenendael, the long-haired fawn Tervueren, the short-haired fawn Malinois, and the rough-haired fawn Laekenois. Named after the Royal Castle of Laeken near Brussels—where Queen Marie Henriette favored these rugged dogs—the Laekenois not only herded sheep across Brabant and Antwerp pastures but also guarded precious bolts of fine Belgian linen drying in open fields. During both World Wars, Laekenois served valiantly as military messenger and sentry dogs, which severely depleted their numbers. Thanks to dedicated Belgian and Dutch breeders, the variety survived and remains an elite working, herding, and companion dog.",
+      "Herding dogs of this type worked across Belgium from the Middle Ages, varying mainly in coat length, texture, and color. In September 1891, Belgium's first shepherd club was formed and veterinary professor Adolphe Reul examined 117 native dogs to define a unified type sorted into four regional varieties. The rough-coated Laekenois took its name from the Royal Castle of Laeken near Brussels, where Queen Marie Henriette favored the variety; besides tending sheep, these hardy dogs also guarded drying linen in open fields around Antwerp. Heavy service as military messengers during both World Wars pushed the variety close to extinction, and dedicated European breeders preserved it as a rare, elite working and companion herder.",
 
     originalPurpose:
-      "Herding and driving sheep across open Belgian pastures, and guarding flocks and valuable linen drying in open bleaching fields against thieves and predators.",
+      "Herding sheep across Belgian pastures and guarding flocks as well as drying linen fields against thieves and intruders.",
 
     currentRoles: [
-      "Working sheep herder and livestock guardian",
-      "Police, military, search-and-rescue, and scent detection working dog",
-      "Canine athlete in IPO/IGP protection sports, agility, tracking, obedience, and herding trials",
-      "Devoted family companion and vigilant home protector for experienced active handlers"
+      "Working sheepdog and rural livestock herder",
+      "Police, military, search-and-rescue, and scent detection partner",
+      "Competitor in herding trials, agility, tracking, obedience, rally, and protection sports",
+      "Devoted, watchful family companion for experienced active handlers"
     ]
   },
 
@@ -116,54 +115,49 @@ export const belgian_shepherd_dog_laekenois: Breed = {
 
     lifespanYears: {
       min: 10,
-      max: 14
+      max: 12
     },
 
     coatType:
-      "Rough, harsh, dry, and slightly tangled double coat approximately 6 cm long over the body with a dense woolly undercoat; shorter on the top of the muzzle, forehead, and legs, with essential bristled furnishings on the muzzle and no plume on the tail.",
+      "Rough, harsh, dry, disorderly double coat roughly 6 cm long over the body with a dense insulating undercoat; essential bristled beard on the muzzle without hiding the eyes or clean skull outline, and a tail free of any plume.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Fawn with discreet black overlay (black shading principally on the muzzle and tail)",
-      "Reddish fawn with black shading on the foreface and tail",
-      "Small white markings tolerated on the forechest and tips of toes"
+      "Reddish fawn, fawn, or greyish-fawn tones with black shading principally on the muzzle and tail",
+      "Small white markings tolerated on the forechest and tips of the toes; normal white or grey frosting on the chin and muzzle"
     ],
 
     sheddingLevel:
-      "Moderate; sheds moderately year-round with heavier seasonal undercoat shedding in spring and autumn, trapping loose wiry hairs until brushed or stripped out",
+      "Moderate; sheds steadily throughout the year with heavier seasonal undercoat release, trapping loose wiry hair until brushed or tidied out.",
 
     droolingLevel:
-      "Low; thin, tight, and darkly pigmented lips prevent drooling",
+      "Low; thin, tight, black-pigmented lips stay clean and dry.",
 
     distinctiveFeatures: [
-      "Square, harmonious, medium-sized athletic shepherd outline combining elegance with dry, strong musculature",
-      "Ideal height at the withers of 62 cm for males (limits 60 to 66 cm) and 58 cm for females (limits 56 to 62 cm)",
-      "Working weight of approximately 25 to 30 kg for males and 20 to 25 kg for females in lean, athletic condition",
-      "Signature rough, harsh, dry, tousled fawn coat approximately 6 cm long with discreet black shading on muzzle and tail",
-      "Cleanly chiseled, dry wedge-shaped head with parallel planes of skull and muzzle and moderate stop",
-      "Complete, regular scissor bite with strong jaws and sound white teeth",
-      "Medium-sized, slightly oblique almond-shaped brownish-black eyes radiating keen intelligence and alertness",
-      "High-set, stiffly erect triangular ears of medium size with pointed tips",
-      "Slightly arched, muscular neck widening cleanly into long, oblique shoulders without dewlap",
-      "Deep chest reaching to the elbows with a short, straight, firm back and well-muscled loin",
-      "Medium-length tail reaching to the hock, carried hanging down at rest and raised in a gentle upward curve in motion without forming a plume",
-      "Straight, solid-boned forelegs and powerful thighs with compact, round cat-like feet and dark nails"
+      "Square, harmoniously proportioned medium-sized shepherd frame with body length roughly equal to height at the withers",
+      "Ideal withers height of 62 cm for males (limits 60 to 66 cm) and 58 cm for females (limits 56 to 62 cm), weighing roughly 25 to 30 kg for males and 20 to 25 kg for females",
+      "Signature rough, coarse, tousled fawn double coat about 6 cm long with dark shading mainly on the muzzle and tail and no plume on the tail",
+      "Cleanly chiseled, dry head with equal skull and muzzle length, moderate stop, black nose, and neat muzzle beard",
+      "Strong jaws with full dentition closing in a scissor or even bite",
+      "Medium-sized, slightly almond-shaped dark brown eyes expressing keen, questioning alertness",
+      "Stiffly erect triangular ears set high with pointed tips",
+      "Muscular, outstretched neck without dewlap, deep chest reaching the elbows, straight level back, and solid loin",
+      "Medium-length tail reaching the hock, hanging low at rest and curving gently upward in motion without hooking",
+      "Round cat-like front feet, slightly elongated hind feet, strong dark nails, and a smooth single-tracking gait with a natural tendency to move in curves"
     ]
   },
 
   temperament: {
     traits: [
-      "Alert, observant, and constantly ready for immediate action",
-      "Deeply loyal, protective, and devoted to its handler and household",
-      "Highly intelligent, quick-thinking, and eager to work",
-      "Courageous, tenacious, and confident in challenging environments",
-      "Reserved, watchful, and discerning with unfamiliar strangers without unprovoked shyness",
-      "High-energy, athletic, and driven by purposeful physical and mental tasks",
-      "Sensitive to handler emotional tone, thriving under fair, positive leadership",
-      "Strong territorial and protective instincts requiring early structured guidance",
-      "Playful and affectionate with familiar, respectful children when raised together",
-      "High prey and chasing drive toward fast-moving bicycles, joggers, and small animals"
+      "Watchful, alert, and bursting with working energy",
+      "Deeply intelligent, quick to learn, and eager to please its handler",
+      "Courageous and naturally protective of its family and property",
+      "Affectionate, loyal, and closely bonded with people it knows well",
+      "Reserved and observant around strangers without shyness or unwarranted aggression",
+      "Restlessly active when off duty, thriving on purposeful tasks and human engagement",
+      "Sensitive to handler tone, flourishing under calm, fair guidance",
+      "Strong herding and chase instincts around fast-moving stimuli"
     ],
 
     scores: {
@@ -182,7 +176,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
   care: {
     exercise: {
       level:
-        "Very high; an intense, stamina-driven working herding dog requiring substantial daily physical exercise and structured mental work",
+        "Very high; an intense, stamina-driven working herder that needs vigorous daily physical activity and meaningful mental employment alongside its owner.",
 
       minutesPerDay: {
         min: 90,
@@ -190,11 +184,10 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       },
 
       activities: [
-        "Daily brisk trail running, long hikes, and structured aerobic exercise",
-        "Canine sports including agility, tracking, IPO/IGP obedience, rally, and herding trials",
-        "Nosework scent searches, object retrieval, and complex puzzle challenges",
-        "Interactive fetch, tug-of-war, and structured handler obedience drills",
-        "Canicross or bikejoring once skeletal maturity is reached"
+        "Brisk daily trail runs, long hikes, and structured aerobic outings",
+        "Herding trials, agility, tracking, obedience, rally, and scentwork",
+        "Interactive fetch, tug games, and problem-solving training drills",
+        "Structured endurance sports once fully grown"
       ]
     },
 
@@ -202,35 +195,33 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush and comb once or twice weekly using a slicker brush and medium metal comb to remove loose undercoat and prevent tangles in the rough coat without softening its harsh, tousled texture.",
+        "Brush weekly with a slicker brush and metal comb to clear loose undercoat and keep the rough coat tidy without softening its harsh, tousled texture.",
 
       bathing:
-        "Bathe infrequently—every two to three months or when heavily soiled—using a mild or texturizing canine shampoo so natural protective coat oils and wiry harshness are preserved.",
+        "Bathe only occasionally when dirty using a mild canine shampoo so natural coat harshness and weather protection remain intact.",
 
       notes: [
-        "Light hand-stripping of dead outer hairs once or twice yearly maintains the authentic harsh, dry coat texture; avoid frequent clipping which softens the coat and dulls fawn color.",
-        "Never trim the muzzle beard or facial furnishings excessively; keep hair around the eyes tidy so the head outline remains visible.",
-        "Inspect the erect triangular ears weekly for dust, wax buildup, or debris, wiping gently with an approved veterinary cleanser.",
-        "Trim fast-growing dark nails every two to three weeks to preserve compact cat-like foot structure.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste."
+        "Light hand-stripping once or twice a year removes dead wiry hair while preserving authentic rough texture; avoid routine clipping.",
+        "Keep facial hair tidy around the eyes without trimming away the characteristic muzzle beard.",
+        "Check erect ears regularly for wax or debris to prevent irritation.",
+        "Trim strong, fast-growing nails regularly with clippers or a grinder to avoid splitting.",
+        "Brush teeth routinely to maintain healthy gums and dentition."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate to challenging; extraordinarily intelligent and fast-learning, yet high-drive and sensitive, requiring an experienced, calm, and consistent handler",
+        "Moderate to challenging; extraordinarily bright and quick to grasp commands, yet high-drive and sensitive enough to need a consistent, experienced handler.",
 
       tips: [
-        "Use positive reinforcement, high-value food treats, and enthusiastic toy rewards.",
-        "Keep training sessions fast-paced, varied, and mentally stimulating (10 to 15 minutes) to channel high working intelligence.",
-        "Begin impulse-control, loose-leash walking, and calm stranger-greeting exercises in early puppyhood.",
-        "Never use harsh physical punishment or intimidating corrections, which damage trust and cause defensive reactivity in this sensitive shepherd.",
-        "Always exercise within a securely fenced area of at least six feet in height or on a leash, as strong herding and chasing instincts trigger pursuit of moving objects.",
-        "Enroll in structured dog sports or obedience classes to provide a constructive outlet for working drive."
+        "Enroll early in puppy classes and structured obedience to channel high energy and build strong impulse control.",
+        "Use upbeat, reward-based training with toys, food, and praise—avoid harsh corrections that erode trust.",
+        "Give the dog regular mental employment through dog sports, scent games, or herding.",
+        "Keep outdoor exercise on leash or inside a tall, securely fenced yard."
       ],
 
       socialization:
-        "Introduce the puppy early, continuously, and positively to diverse people, calm vaccinated dogs of varied sizes, urban noises, vehicles, and novel environments. Thorough early socialization is vital to ensure innate protective vigilance matures into confident, stable composure in public."
+        "Start frequent, positive meet-and-greet sessions in early puppyhood with varied people, friendly dogs, everyday noises, and new places so natural stranger reserve matures into steady, confident composure."
     },
 
     livingEnvironment: {
@@ -238,84 +229,80 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
+        "Cool and wet climates suited to its weatherproof rough double coat",
         "Temperate climates",
-        "Cool and wet climates, where the harsh weather-resistant double coat provides strong thermal protection",
-        "Warm climates, provided indoor air conditioning, shade, and fresh water are available and vigorous exercise occurs during cool morning or evening hours"
+        "Warm climates, provided shade, fresh water, indoor cooling, and cooler-hour exercise are available"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply bonded to its handler and prone to boredom barking, pacing, or destructive chewing if left isolated for long workdays without mental stimulation."
+        "Low; this handler-focused working dog does not do well left alone in a yard or isolated for long workdays."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active medium-to-large working breeds, adjusted for age, training intensity, and metabolic rate.",
+      "High-quality complete and balanced commercial or veterinarian-approved home-prepared diet matched to life stage (puppy, adult, or senior) and high working energy.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady skeletal development.",
+        "Three to four measured small meals daily during early growth, transitioning to two meals daily on a balanced growth formula.",
       adult:
-        "Two measured meals daily to support steady energy and reduce digestive discomfort.",
+        "Two measured meals daily to sustain steady stamina and support comfortable digestion.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower activity and joint support."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, muscular, athletic body silhouette where the ribs are easily felt beneath the rough coat. Divide daily food into two distinct meals, restrict vigorous running for at least one hour before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure every meal carefully and monitor body condition so the dog stays lean and athletic—some individuals gain weight when overfed or given excessive training treats. Divide daily rations into two meals, rest the dog around mealtimes to help lower bloat risk, and keep fresh water available continuously.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical stress on hips and elbows.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Increase caloric and protein density during intense working trials or heavy athletic conditioning.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Budget training treats inside the daily calorie allowance to prevent unwanted weight gain.",
+      "Avoid vigorous running right before or after meals.",
+      "Increase rations appropriately during heavy athletic or working schedules.",
+      "Transition gradually over five to seven days when changing foods."
     ],
 
     note:
-      "Caloric needs vary significantly based on working activity, training schedule, and outdoor temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Caloric requirements vary widely between active sport dogs and moderately exercised companions; confirm portions with a veterinarian."
   },
 
   health: {
     overview:
-      "The Belgian Shepherd Dog (Laekenois) is a generally hardy, athletic, and resilient working sheepdog with a typical life expectancy of 10 to 14 years. Because its gene pool is relatively small, responsible breeding emphasizes genetic diversity alongside orthopedic screening for hip and elbow dysplasia, annual ophthalmic examinations for hereditary cataracts and progressive retinal atrophy (PRA), and monitoring for idiopathic epilepsy and gastric dilatation-volvulus (bloat).",
+      "The Belgian Shepherd Dog (Laekenois) is generally a robust, athletic breed with a typical life expectancy of 10 to 12 years. Because the global breeding pool is small, responsible breeders prioritize genetic diversity alongside comprehensive pre-breeding screening for hip and elbow dysplasia, cardiac health, eye conditions, thyroid function, and complete dentition, while peer-reviewed research has also documented inherited susceptibility to idiopathic epilepsy across Belgian Shepherd lines.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and stiffness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Idiopathic epilepsy — inherited recurrent neurological seizures documented across Belgian Shepherd lines, managed through veterinary neurological care and anticonvulsant medication",
-      "Ocular conditions — hereditary cataracts, progressive retinal atrophy (PRA), and pannus (chronic superficial keratitis), monitored through annual certified veterinary ophthalmologist examinations",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in deep-chested athletic dogs, requiring emergency veterinary care",
-      "Autoimmune thyroiditis (hypothyroidism) — reduced thyroid hormone production causing lethargy, weight gain, and coat changes, manageable with daily hormone replacement",
-      "Hemangiosarcoma and gastric carcinoma — malignant cancers occasionally reported in aging Belgian Shepherds, warranting regular senior veterinary screenings"
+      "Idiopathic epilepsy — peer-reviewed genetic studies across Belgian Shepherd populations have identified inherited risk loci associated with recurrent seizures, making lineage transparency important",
+      "Hip and elbow dysplasia — developmental joint risks monitored through pre-breeding radiographic evaluations",
+      "Ocular conditions — potential cataracts or other hereditary eye issues monitored via specialist veterinary ophthalmologist exams",
+      "Thyroid disease (hypothyroidism) — endocrine concern monitored through pre-breeding thyroid evaluations",
+      "Gastric dilatation-volvulus (bloat) — an acute stomach-twisting risk applicable to deep-chested active breeds, mitigated by divided meals and post-meal rest"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic clearances for hips and elbows, annual specialist eye examinations, and thyroid evaluations.",
-      "Feed two smaller meals daily and avoid vigorous exercise for at least one hour before and after eating to mitigate bloat risk.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Inspect the erect triangular ears weekly for wax buildup or debris, wiping gently with an approved veterinary cleanser.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify pre-breeding clearances covering hips, elbows, heart, eyes, thyroid, and dentition when selecting a puppy.",
+      "Feed two smaller meals daily and avoid intense exercise immediately before and after eating.",
+      "Maintain a lean, muscular body weight to protect joints throughout life.",
+      "Check ears regularly and brush teeth routinely.",
+      "Schedule annual veterinary wellness exams, vaccinations, and year-round parasite prevention."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
+      "Radiographic hip evaluation prior to breeding",
+      "Radiographic elbow evaluation prior to breeding",
+      "Cardiac evaluation prior to breeding",
+      "Veterinary ophthalmologist eye examination prior to breeding",
       "Thyroid panel evaluation prior to breeding",
-      "Clinical cardiac evaluation by a veterinarian"
+      "Veterinary dentition examination confirming complete scissor or even bite"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth regularly with canine toothpaste and have a veterinarian verify healthy gums and full dentition during routine exams.",
 
     earCare:
-      "Inspect the stiffly erect triangular ears weekly for dust, wax accumulation, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the stiffly erect triangular ears regularly for wax buildup, debris, or redness, cleaning gently with a veterinarian-approved cleanser as needed.",
 
     skinCare:
-      "Part the rough, tousled double coat weekly during brushing to inspect the skin for external parasites, burrs, or irritation. Avoid excessive bathing or clipping that strips natural protective oils."
+      "Part the rough double coat during weekly brushing to check for ticks, burrs, or skin irritation while avoiding frequent harsh baths."
   },
 
   suitability: {
@@ -326,79 +313,68 @@ export const belgian_shepherd_dog_laekenois: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Experienced dog owners familiar with high-drive herding breeds and positive, consistent leadership",
-      "Active outdoor households, runners, and hikers who can provide 90 to 120 minutes of daily physical and mental activity",
-      "Canine sports enthusiasts involved in agility, tracking, herding trials, obedience, or protection sports",
-      "Homes with a securely fenced yard of at least six feet in height",
-      "Families with older, respectful children who understand structured dog boundaries"
+      "Experienced handlers familiar with high-drive herding breeds and positive, structured leadership",
+      "Active households ready to provide vigorous daily exercise, mental employment, and close companionship",
+      "Dog-sport enthusiasts competing in herding, agility, tracking, obedience, rally, or protection sports",
+      "Homes with a securely fenced yard where the dog lives indoors with the family"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for intense working drive and protective instincts",
-      "Sedentary individuals or households unable to commit to daily vigorous exercise and mental training",
-      "Apartment or condominium dwellers without spacious outdoor training access",
-      "Owners who leave a dog home alone in isolation for long workdays without stimulation"
+      "First-time dog owners unprepared for intense energy, sensitivity, and protective drive",
+      "Sedentary households or owners wanting a low-maintenance yard dog",
+      "Apartments without extensive daily outdoor training access",
+      "Homes where the dog will be left alone for long stretches every day"
     ]
   },
 
   funFacts: [
-    "The Belgian Shepherd Dog (Laekenois) is by far the rarest of the four Belgian shepherd varieties, with an estimated global population of only around 1,000 to 1,500 purebred dogs worldwide.",
-    "The breed takes its name from the Royal Castle of Laeken near Brussels, where Queen Marie Henriette of Belgium championed these rugged, wiry-coated sheepdogs during the late nineteenth century.",
-    "In addition to herding sheep, Laekenois were historically employed in Belgium to guard valuable bolts of fine linen laid out in open fields to bleach in the sun, deterring thieves in all weather thanks to their harsh, rain-shedding coat.",
-    "During World War I and World War II, Laekenois served alongside the Belgian military as messenger and sentry dogs, delivering vital dispatches across battlefields under heavy fire.",
-    "In many countries, all four Belgian shepherd varieties—Groenendael, Tervueren, Malinois, and Laekenois—are classified as coat varieties of a single breed, whereas in North America each is recognized and shown as a separate breed."
+    "The Laekenois (pronounced 'Lak-in-wah') is the rarest of Belgium's four native shepherd varieties.",
+    "It takes its name from the Royal Castle of Laeken near Brussels, where Belgium's Queen Marie Henriette favored these rugged, rough-coated sheepdogs.",
+    "Beyond herding flocks, Laekenois were historically valued around Antwerp for guarding fine bolts of linen laid out in open fields to bleach in the sun.",
+    "Unlike many breeds that move straight ahead, the Laekenois displays a natural herding tendency to travel in curves or circles and single-tracks smoothly at speed.",
+    "In many countries the Laekenois, Malinois, Tervueren, and Groenendael are grouped as four coat varieties of one Belgian Shepherd breed, whereas in North America each is recognized separately."
   ],
 
   faq: [
     {
       question: "What is a Belgian Shepherd Dog (Laekenois)?",
       answer:
-        "The Belgian Shepherd Dog (Laekenois) is the rough-coated variety of Belgium's native shepherd dog, recognized for its tousled, wiry fawn coat with discreet black shading, bearded muzzle, square athletic build, and loyal, high-energy working personality."
+        "The Belgian Shepherd Dog (Laekenois) is the rough-coated, rarest variety of Belgium's native shepherd dog, recognized for its wiry, tousled fawn coat with dark muzzle and tail shading, square athletic build, and devoted, high-energy temperament."
     },
     {
-      question: "How does the Laekenois differ from the Malinois, Tervueren, and Groenendael?",
+      question: "How is the Laekenois different from the Malinois, Tervueren, and Groenendael?",
       answer:
-        "All four share the same square body structure, size, and athletic herding temperament, differing mainly in coat texture and color: the Laekenois has a rough, wiry fawn coat, the Malinois has a short fawn coat, the Tervueren has a long fawn coat, and the Groenendael has a long solid-black coat."
+        "All four share the same square body and tireless herding temperament, differing mainly in coat: the Laekenois has a rough, wiry fawn coat, the Malinois has a short fawn coat, the Tervueren has a long fawn coat, and the Groenendael has a long black coat."
     },
     {
       question: "How tall and heavy is a Belgian Shepherd Dog (Laekenois)?",
       answer:
-        "Ideal height at the withers is 62 cm for adult males (ranging from 60 to 66 cm) and 58 cm for adult females (ranging from 56 to 62 cm), with males weighing approximately 25 to 30 kg and females weighing 20 to 25 kg."
+        "Ideal withers height is 62 cm for adult males (60 to 66 cm) and 58 cm for females (56 to 62 cm), with males weighing roughly 25 to 30 kg and females 20 to 25 kg."
     },
     {
       question: "How long does a Belgian Shepherd Dog (Laekenois) live?",
       answer:
-        "With proper nutrition, regular exercise, mental engagement, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 14 years."
+        "Typical life expectancy is 10 to 12 years with proper nutrition, regular exercise, and preventive veterinary care."
     },
     {
-      question: "Do Belgian Laekenois shed a lot, and how is their rough coat groomed?",
+      question: "How much grooming does a Laekenois rough coat need?",
       answer:
-        "They shed moderately year-round and blow their undercoat twice a year. Their rough, wiry coat requires brushing once or twice weekly and light hand-stripping once or twice a year to remove dead hair without softening the harsh coat texture."
+        "Weekly brushing, occasional baths, regular nail trims, and light hand-stripping once or twice a year keep the harsh double coat healthy without softening its texture."
     },
     {
       question: "Can a Belgian Shepherd Dog (Laekenois) live in an apartment?",
       answer:
-        "Generally no. Because of its very high energy, intense working drive, and need for vigorous daily physical and mental activity, the breed thrives best in a house with a securely fenced yard."
+        "Generally no. Its high daily exercise needs, intense working drive, and desire for close human engagement fit best in an active home with a securely fenced yard."
     },
     {
-      question: "Is the Belgian Shepherd Dog (Laekenois) good for first-time dog owners?",
+      question: "Is the Belgian Laekenois a good breed for first-time dog owners?",
       answer:
-        "No. Like the Malinois, the Laekenois is an intensely intelligent, sensitive, and protective working breed that requires an experienced handler committed to early socialization and structured training."
+        "No. Its high energy, protective instincts, and sensitive intelligence make it best suited to experienced handlers committed to early socialization and ongoing training."
     },
     {
-      question: "Are Belgian Laekenois good family pets and good with children?",
+      question: "What health screenings are recommended for breeding dogs?",
       answer:
-        "With experienced, active families, they are deeply loyal and affectionate; they do best with older, respectful children and require early socialization to channel natural herding instincts."
-    },
-    {
-      question: "How much exercise does a Belgian Shepherd Dog (Laekenois) need each day?",
-      answer:
-        "The breed requires 90 to 120 minutes of daily physical and mental exercise, including brisk trail runs, structured obedience, tracking, agility, or herding activities."
-    },
-    {
-      question: "What health tests are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, annual veterinary ophthalmologist eye exams, and thyroid panel evaluations."
+        "Recommended pre-breeding evaluations include hip and elbow radiographs, a cardiac exam, a specialist eye exam, a thyroid panel, and a dentition check."
     }
   ],
 
@@ -410,17 +386,25 @@ export const belgian_shepherd_dog_laekenois: Breed = {
     "akc-belgian-laekenois-breed-profile",
     "the-kennel-club-belgian-shepherd-dog-laekenois-standard",
     "ofa-belgian-laekenois-chic-requirements",
+    "belgian-shepherd-idiopathic-epilepsy-study-2020",
     "wikimedia-laekenois-shepherd-canarian",
-    "wikimedia-belgian-laekenois-600-sannse"
+    "wikimedia-belgian-laekenois-600-sannse",
+    "natureserve-canis-lupus-familiaris",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Scientific Name: Canis lupus familiaris (ITIS TSN 726821)"
+        }
+      ],
+      verifiedOn: "2026-11-25",
+      note: "Verified standard domestic-dog trinomial taxonomy across the catalog."
     },
 
     alternateNames: {
@@ -429,26 +413,21 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "Standard heading: CHIEN DE BERGER BELGE (Belgian Shepherd Dog) — Variety: Laekenois"
-        },
-        {
-          id: "fci-belgian-shepherd-dog-nomenclature",
-          role: "verified",
-          locator: "Official nomenclature: BELGIAN SHEPHERD DOG (15), Berger Belge, Belgischer Schäferhund, Perro de Pastor Belga"
-        },
-        {
-          id: "srhk-belgian-shepherd-breed-standard",
-          role: "verified",
-          locator: "Variété: Berger Belge Laekenois / Lakense Herder"
+          locator: "Standard heading: CHIEN DE BERGER BELGE (Belgian Shepherd Dog) — Laekenois"
         },
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "verified",
-          locator: "Breed Name: Belgian Laekenois"
+          locator: "Did You Know: Belgian Laekenois, Laekense, Chien de Berger Belge"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "alternateNames: Belgian Laekenois, Laekenois Shepherd, Berger Belge Laekenois, Chien de Berger Belge Laekenois"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified across FCI Standard No. 15, FCI Nomenclature, SRSH, and AKC."
+      verifiedOn: "2026-11-25",
+      note: "Verified across FCI 15, AKC, and The Dog API."
     },
 
     group: {
@@ -457,7 +436,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 Sheepdogs; with working trial"
+          locator: "Group 1 Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 Sheepdogs; with working trial"
         },
         {
           id: "fci-belgian-shepherd-dog-nomenclature",
@@ -467,17 +446,21 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-standard",
           role: "verified",
-          locator: "Herding Group"
+          locator: "Herding Group (recognized 2020)"
         },
         {
           id: "the-kennel-club-belgian-shepherd-dog-laekenois-standard",
           role: "verified",
           locator: "Pastoral Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "group: Herding"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-25",
+      note: "User-facing group omits registry and section labels per Rule 5."
     },
 
     origin: {
@@ -486,7 +469,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "ORIGIN: Belgium; BRIEF HISTORICAL SUMMARY (Laeken)"
+          locator: "ORIGIN: Belgium"
         },
         {
           id: "fci-belgian-shepherd-dog-nomenclature",
@@ -496,10 +479,10 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "srhk-belgian-shepherd-breed-standard",
           role: "verified",
-          locator: "Origine: Belgique (Château Royal de Laeken)"
+          locator: "Origine: Belgique (Laeken)"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -509,22 +492,21 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, VARIETIES (Laekenois)"
+          locator: "BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, VARIETIES (Laekenois)"
         },
         {
-          id: "srhk-belgian-shepherd-breed-standard",
+          id: "the-kennel-club-belgian-shepherd-dog-laekenois-standard",
           role: "verified",
-          locator: "Historique (Professeur Adolphe Reul 1891, Laeken), utilisation et caractère"
+          locator: "1891 club & Prof. Adolphe Reul's 117-dog survey, Château of Laeken & Queen Marie Henriette, four coat varieties"
         },
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (Queen Marie Henriette, linen guarding, World Wars), and Roles"
+          locator: "About the Breed, History (September 1891), 2020 AKC recognition"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesized in original prose from FCI Standard No. 15, SRSH, and AKC official records."
+      verifiedOn: "2026-11-25",
+      note: "Rewritten in original prose grounded in FCI 15, RKC, and AKC."
     },
 
     physical: {
@@ -533,22 +515,26 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT (Rough-haired / Laekenois), COLOUR, SIZE"
+          locator: "BODY (square), TAIL (medium length, no plume), COAT (rough 6 cm), COLOUR (fawn with black shading on muzzle/tail; white tolerated on forechest/toes)"
         },
         {
-          id: "srhk-belgian-shepherd-breed-standard",
+          id: "akc-belgian-laekenois-breed-standard",
           role: "verified",
-          locator: "Morphologie carrée, poil dur de 6 cm, garniture du museau, couleur fauve charbonné"
+          locator: "Head, Bite (scissor or even), Coat (rough, tousled, ~2.5 in, muzzle beard, no tail plume), Color (red/fawn/grayish with black on muzzle/tail; frosting normal), Gait (single-tracking, circular tendency)"
         },
         {
           id: "the-kennel-club-belgian-shepherd-dog-laekenois-standard",
           role: "verified",
-          locator: "General Appearance, Head, Coat, Colour, Size"
+          locator: "Coat & Colour: reddish fawn with black shading principally in muzzle and tail"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "coatColors lists 17 generic canine colours including Black, Blue, Brindle, Liver, Merle, and White; official standards allow only fawn/reddish-fawn/greyish-fawn with dark muzzle/tail shading"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Square conformation, rough 6 cm fawn double coat with muzzle furnishings, and distinctive features follow official standards."
+      verifiedOn: "2026-11-25",
+      note: "Aligned conformation, coat, colour, and gait details with FCI 15, AKC, and RKC."
     },
 
     "physical.height": {
@@ -557,22 +543,21 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "SIZE, WEIGHT AND MEASUREMENTS: Ideal height at withers: 62 cm for males, 58 cm for females. Limits: 2 cm less, 4 cm more (60-66 cm males, 56-62 cm females)."
+          locator: "Ideal height: 62 cm males (limits 60–66 cm), 58 cm females (limits 56–62 cm)"
         },
         {
-          id: "srhk-belgian-shepherd-breed-standard",
-          role: "verified",
-          locator: "Taille au garrot: Mâles idéal 62 cm (60-66 cm); Femelles idéal 58 cm (56-62 cm)"
+          id: "akc-belgian-laekenois-breed-standard",
+          role: "conflicting",
+          locator: "Height: Males 24 to 26 inches; Females 22 to 24 inches"
         },
         {
-          id: "the-kennel-club-belgian-shepherd-dog-laekenois-standard",
-          role: "verified",
-          locator: "Size: Ideal height: Dogs 62 cms (24.5 ins), Bitches 58 cms (23 ins)"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height: male 61–66 cm, female 56–61 cm"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Preserved in published unit of centimetres (60–66 cm for males, ideal 62 cm; 56–62 cm for females, ideal 58 cm) exactly as specified in FCI Standard No. 15 and SRSH standard."
+      verifiedOn: "2026-11-25",
+      note: "Kept FCI Standard No. 15's published centimetres (60–66 cm males, 56–62 cm females) per Rule 9."
     },
 
     "physical.weight": {
@@ -581,22 +566,21 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "Weight: Males about 25-30 kg; Females about 20-25 kg."
-        },
-        {
-          id: "srhk-belgian-shepherd-breed-standard",
-          role: "verified",
-          locator: "Poids: Mâles environ 25 à 30 kg; Femelles environ 20 à 25 kg"
+          locator: "Weight: Males about 25–30 kg; Females about 20–25 kg"
         },
         {
           id: "akc-belgian-laekenois-breed-profile",
-          role: "verified",
-          locator: "Weight: 55-65 pounds (approx. 25-30 kg)"
+          role: "conflicting",
+          locator: "Weight: 55–65 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "weight: male 25–30 kg, female 20–27 kg"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Preserved in published unit of kilograms (25 to 30 kg for males and 20 to 25 kg for females) exactly as specified in FCI Standard No. 15 and SRSH standard."
+      verifiedOn: "2026-11-25",
+      note: "Kept FCI Standard No. 15's published kilograms (25–30 kg males, 20–25 kg females) per Rule 9."
     },
 
     "physical.lifespanYears": {
@@ -605,16 +589,16 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 10-12 years (up to 14 years in European health records)"
+          locator: "Life Expectancy: 10–12 years"
         },
         {
-          id: "srhk-belgian-shepherd-breed-standard",
-          role: "verified",
-          locator: "Longévité moyenne de la race (12-14 ans)"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "lifespanYears: 10–14"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-25",
+      note: "Stored AKC's verified 10–12 years; The Dog API reports 10–14 years."
     },
 
     "physical.sheddingLevel": {
@@ -623,15 +607,15 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
+          locator: "Grooming: weekly brushing for rough double coat"
         },
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "COAT: Rough, harsh, dry double coat with woolly undercoat"
+          locator: "COAT: rough double coat with dense undercoat"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -639,35 +623,40 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
+          id: "akc-belgian-laekenois-breed-standard",
           role: "verified",
-          locator: "Lips: Thin, well-tightened and strongly pigmented"
+          locator: "Lips: tight and black, with no pink showing on the outside"
         },
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: Drooling Level"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Thin, tight lips prevent drooling."
+      verifiedOn: "2026-11-25",
+      note: null
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Watchful and active, bursting with energy, always ready to act; innate sheepdog guarding ability, defender of master"
-        },
-        {
           id: "akc-belgian-laekenois-breed-standard",
           role: "verified",
-          locator: "Temperament: Intelligent, courageous, alert, devoted to owner"
+          locator: "Temperament: intelligent, courageous, alert, devoted, protective of master and property, observant with strangers, affectionate with those known well"
+        },
+        {
+          id: "fci-belgian-shepherd-dog-standard-15",
+          role: "verified",
+          locator: "BEHAVIOUR / TEMPERAMENT: watchful, active, bursting with energy"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "temperament.traits: Alert, intelligent, protective, loyal, energetic, affectionate"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -677,17 +666,11 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "the-kennel-club-belgian-shepherd-dog-laekenois-standard",
-          role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented working Belgian Shepherd temperament, high trainability, and protective instincts."
+      note: "Editorial 1–5 ratings synthesized from FCI 15 and AKC temperament profiles."
     },
 
     care: {
@@ -696,17 +679,11 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "srhk-belgian-shepherd-breed-standard",
-          role: "cited",
-          locator: "Entretien du poil dur et besoins d'activité"
+          locator: "Grooming (weekly brushing, occasional bath, nails, ears, teeth), Exercise (active lifestyle, not a yard-only dog), Training (puppy classes, early socialization), Nutrition"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines high-drive working herding dog management with rough-coat brushing and light hand-stripping protocols."
+      note: "Synthesizes AKC care guidance in original prose."
     },
 
     "care.exercise.level": {
@@ -715,15 +692,10 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "verified",
-          locator: "Energy Level (5/5); Exercise Needs (5/5)"
-        },
-        {
-          id: "fci-belgian-shepherd-dog-standard-15",
-          role: "verified",
-          locator: "UTILIZATION: Working sheepdog and guard dog bursting with energy"
+          locator: "Exercise: needs an active lifestyle and plenty of employment; not happy sitting around"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -731,19 +703,13 @@ export const belgian_shepherd_dog_laekenois: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-belgian-shepherd-dog-laekenois-standard",
-          role: "cited",
-          locator: "Exercise requirements: Over 2 hours per day (90-120 minutes structured activity)"
-        },
-        {
           id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "Daily exercise and mental stimulation recommendations"
+          locator: "High daily exercise and working employment recommendations"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 90 to 120 minutes of daily activity reflects the high physical and mental demands of a working Belgian Shepherd."
+      note: "Editorial estimate of 90 to 120 minutes daily."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -752,12 +718,11 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "Very high energy, working drive, and need for spacious exercise"
+          locator: "Active working lifestyle and high daily employment needs"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that intense working energy, protective vigilance, and daily exercise demands make apartment living generally unsuitable."
+      note: "Editorial assessment based on high working drive and exercise demands."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -766,10 +731,10 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations (minimum six-foot fence)"
+          locator: "Exercise: active home with family engagement (not living alone in a yard)"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -779,15 +744,10 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "COAT: Weather-resistant rough double coat adapted to Belgian climate"
-        },
-        {
-          id: "akc-belgian-laekenois-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: adaptable to cool and temperate climates"
+          locator: "COAT: weatherproof rough double coat developed in Belgium"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -797,7 +757,7 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; deeply handler-focused working dog"
+          locator: "Exercise: wants to be with humans; cannot be expected to live alone in the yard"
         }
       ],
       verifiedOn: null,
@@ -810,12 +770,11 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for active working breeds"
+          locator: "Nutrition: high-quality age-appropriate food; watch calories and treats to prevent overweight"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium-to-large working herding breeds."
+      note: "Grounded in AKC nutrition guidance."
     },
 
     "nutrition.feedingFrequency": {
@@ -824,49 +783,52 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals to mitigate bloat"
+          locator: "Age-appropriate diet guidance (puppy, adult, senior)"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-belgian-laekenois-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, Elbow Dysplasia, CAER Eye examination, Thyroid evaluation"
-        },
-        {
           id: "akc-belgian-laekenois-breed-profile",
           role: "verified",
-          locator: "Health overview: Hip and elbow dysplasia, eye conditions, epilepsy, and bloat precautions"
+          locator: "Health: robust, healthy breed; National Breed Club recommends Hip, Elbow, Cardiac, Ophthalmologist, Thyroid, and Dentition exams; lifespan 10–12 years"
+        },
+        {
+          id: "belgian-shepherd-idiopathic-epilepsy-study-2020",
+          role: "verified",
+          locator: "Belanger et al. (Canine Genet Epidemiol 2020;7:12, PMC7491283): idiopathic epilepsy risk loci on CFA14 and CFA37 in Belgian Shepherds"
+        },
+        {
+          id: "ofa-belgian-laekenois-chic-requirements",
+          role: "verified",
+          locator: "OFA CHIC portal for Belgian Laekenois (BL)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesizes national health registry screening protocols with kennel club veterinary profiles."
+      verifiedOn: "2026-11-25",
+      note: "Added peer-reviewed Belgian Shepherd idiopathic epilepsy GWAS (Belanger et al., 2020) and complete AKC 6-test recommended panel."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-belgian-laekenois-chic-requirements",
+          id: "belgian-shepherd-idiopathic-epilepsy-study-2020",
           role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, autoimmune thyroiditis, eye conditions"
+          locator: "PMC7491283: idiopathic epilepsy genetic risk in Belgian Shepherds"
         },
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "verified",
-          locator: "Idiopathic epilepsy and gastric dilatation-volvulus (bloat)"
+          locator: "Health screening focus areas (hips, elbows, heart, eyes, thyroid)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-25",
+      note: "Distinguishes peer-reviewed epilepsy susceptibility from pre-breeding screening priorities and general deep-chested bloat risk."
     },
 
     "health.preventiveCare": {
@@ -875,74 +837,78 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "Routine care, bloat precautions, joint protection, and veterinary wellness checks"
+          locator: "Health & Grooming: pre-breeding screenings, ear checks, tooth brushing, weight control"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to active working Belgian Shepherds."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-belgian-laekenois-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests From the National Breed Club: Hip Evaluation, Elbow Evaluation, Cardiac Exam, Ophthalmologist Evaluation, Thyroid Evaluation, Dentition Exam"
+        },
+        {
           id: "ofa-belgian-laekenois-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, Radiographic Elbow Dysplasia evaluation, CAER Eye examination, Thyroid panel"
+          locator: "OFA CHIC portal for Belgian Laekenois"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-25",
+      note: "Aligned with full 6-test AKC National Breed Club panel."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
+          id: "akc-belgian-laekenois-breed-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong white teeth, scissor bite, complete dentition"
+          locator: "Teeth: full complement of strong white teeth; even or scissors bite"
         },
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Grooming & Health: regular tooth brushing and dentition exam"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
+          id: "akc-belgian-laekenois-breed-standard",
           role: "cited",
-          locator: "Ears: rather small, set high, distinctly triangular, stiffly erect"
+          locator: "Ears: triangular, stiff, erect"
         },
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Grooming: regular ear checks for wax and debris"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for erect triangular ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
+          id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "Skin: elastic, well stretched over the body; rough dry coat"
+          locator: "Grooming: weekly brushing and occasional bathing"
         }
       ],
       verifiedOn: null,
-      note: "General skin and rough-coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -951,17 +917,11 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "the-kennel-club-belgian-shepherd-dog-laekenois-standard",
-          role: "cited",
-          locator: "Characteristics and working lifestyle suitability"
+          locator: "About the Breed, Exercise, and Training profiles"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, high working drive, and handler experience requirements."
+      note: "Editorial suitability assessment based on high working drive, handler focus, and experience needs."
     },
 
     funFacts: {
@@ -970,16 +930,26 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "verified",
-          locator: "Rarity (~1,000-1,500 worldwide), Royal Castle of Laeken & Queen Marie Henriette, linen bleaching field guard role, World War messenger service"
+          locator: "About the Breed: rarest of the four Belgian varieties, pronunciation 'Lak-in-wah'"
         },
         {
-          id: "fci-belgian-shepherd-dog-standard-15",
+          id: "the-kennel-club-belgian-shepherd-dog-laekenois-standard",
           role: "verified",
-          locator: "Brief historical summary: Four Belgian varieties classified as one breed in FCI vs separate breeds in North America"
+          locator: "Château of Laeken & Queen Marie Henriette"
+        },
+        {
+          id: "akc-belgian-laekenois-breed-standard",
+          role: "verified",
+          locator: "Gait: single-tracking and marked tendency to move in curves or circles"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "History: guarding drying linen fields near Antwerp"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-25",
+      note: "Verified historical and gait facts."
     },
 
     faq: {
@@ -988,24 +958,18 @@ export const belgian_shepherd_dog_laekenois: Breed = {
         {
           id: "fci-belgian-shepherd-dog-standard-15",
           role: "verified",
-          locator: "Origin, height (60-66 cm / 56-62 cm), weight (25-30 kg / 20-25 kg), coat, and differences from Malinois/Tervueren/Groenendael"
+          locator: "Height (60–66 cm / 56–62 cm), weight (25–30 kg / 20–25 kg), four varieties"
         },
         {
           id: "akc-belgian-laekenois-breed-profile",
           role: "verified",
-          locator: "Lifespan, grooming, apartment living, owner experience, and exercise needs"
-        },
-        {
-          id: "ofa-belgian-laekenois-chic-requirements",
-          role: "verified",
-          locator: "Recommended health screening panel"
+          locator: "Lifespan (10–12 years), weekly grooming, active lifestyle, full 6-test screening panel"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and health registry data without naming registries in prose."
+      verifiedOn: "2026-11-25",
+      note: "Original FAQ prose with zero registry or source names per Rule 5."
     }
   },
 
-  updatedOn: "2026-11-12"
+  updatedOn: "2026-11-25"
 };

@@ -9,77 +9,76 @@ export const basset_griffon_vendeen_grand: Breed = {
     "Grand Basset Griffon Vendéen",
     "Grand Basset Griffon Vendeen",
     "GBGV",
-    "Large Vendeen Basset Griffon"
+    "Large Basset Griffon Vendeen",
+    "Basset Griffon Vendeen (Grand)"
   ],
 
-  group:
-    "Scenthounds and Related Breeds; Section 1.3 — Small-sized Hounds (with working trial; also classified in the Hound and Scenthound groups)",
+  group: "Scenthounds",
 
   origin: {
     country: "France",
-    region:
-      "Vendée department, western France"
+    region: "Vendée department, western France"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Basset_Griffon_Vend%C3%A9en.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Basset_Griffon_Vend%C3%A9en_in_Tallinn.JPG",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vend%C3%A9en.jpg",
-      title: "Grand Basset Griffon Vendéen.jpg",
+        "https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vend%C3%A9en_in_Tallinn.JPG",
+      title: "Grand Basset Griffon Vendéen in Tallinn.JPG",
       description:
-        "An adult Grand Basset Griffon Vendéen standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
+        "An adult Grand Basset Griffon Vendéen standing outdoors in Tallinn.",
+      creator: "Томасина",
+      uploader: "Томасина",
+      capturedOn: "2013-08-17",
+      uploadedOn: "2013-10-16",
+      width: 1962,
+      height: 1417,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vend%C3%A9en.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Томасина, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vend%C3%A9en_in_Tallinn.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Basset_Griffon_Vendeen_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Basset_Griffon_Vend%C3%A9en_in_Tallinn_6.JPG",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vendeen_600.jpg",
-      title: "Grand Basset Griffon Vendeen 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vend%C3%A9en_in_Tallinn_6.JPG",
+      title: "Grand Basset Griffon Vendéen in Tallinn 6.JPG",
       description:
-        "A Grand Basset Griffon Vendéen standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
+        "A Grand Basset Griffon Vendéen standing in profile outdoors.",
+      creator: "Томасина",
+      uploader: "Томасина",
+      capturedOn: "2013-08-18",
+      uploadedOn: "2013-10-16",
+      width: 2511,
+      height: 1814,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vendeen_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Томасина, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Grand_Basset_Griffon_Vend%C3%A9en_in_Tallinn_6.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     }
   ],
 
   overview: {
     summary:
-      "A rustic, energetic, and cheerful French scenthound with a shaggy rough double coat, expressive bearded face, long pendulous ears, and melodious tracking voice, bred for tireless endurance on hare and rabbit trails.",
+      "A rugged, upbeat French scenthound from the Vendée region, recognized for its straight-legged basset build, harsh shaggy coat, bearded face, long inward-turning ears, and stamina on the trail.",
 
     description:
-      "The Grand Basset Griffon Vendéen is the larger of the two low-set Vendéen griffon bassets, combining structural substance and athletic stamina with a lively, outgoing personality. Developed in the rocky, briar-choked coastal plains of western France to hunt hares and rabbits on foot, the hound features a balanced, slightly elongated body with straight, well-boned forelegs, a deep chest, and a high-set sabre tail carried proudly. Its harsh, rough double coat is neither silky nor woolly, forming characteristic bushy eyebrows that do not obscure its large, dark, friendly eyes, alongside a pronounced beard and moustache. Long, supple, narrow drop ears set below the eye line turn inward at the tips and are covered in long, flowing hair. In the field, it is a bold, tenacious, and resonant-voiced tracker, while at home it thrives as an affectionate, playful, and sociable family companion.",
+      "The Grand Basset Griffon Vendéen is the taller, longer-striding of the two rough-coated Vendéen bassets, pairing a sturdy, slightly elongated frame with straight forelegs and surprising speed on rough ground. Bred to push through dense bramble and coastal scrub ahead of hunters on foot, it carries a hard, flat, rough coat—never silky or woolly—topped off by pronounced eyebrows, a full moustache and beard, and long, supple drop ears that reach past the nose and turn inward at the tips. Large, dark oval eyes convey warmth and curiosity, while a thick-based, high-set tail is carried proudly in a slight sabre curve. Indoors, it settles into a cheerful, affectionate, and sociable companion that thrives on company and daily outdoor exploration.",
 
     history:
-      "The breed traces its lineage to the sixteenth-century Grand Griffon Vendéen, a large, rough-coated hunting hound native to the Vendée region of western France. Because the dense thorny scrub, marshes, and stone walls of the Vendée made mounted hunting impractical, local sportsmen selectively bred lower-slung, shorter-legged hounds—known as bassets—that could be followed easily on foot while penetrating thick cover. By the late nineteenth century, French breeders such as Comte Christian d'Elva and Paul Dezamy began separating the basset griffons into two distinct sizes: the smaller, brisker Petit Basset Griffon Vendéen and the longer-backed, straight-legged Grand Basset Griffon Vendéen. Although early twentieth-century breeders initially interbred the two varieties, formal separation in 1950 and 1975 established purebred lines for each type. Today, the Grand Basset Griffon Vendéen remains a prized pack and solo tracking hound in France and an endearing family companion worldwide.",
+      "Tracing back over four centuries to the larger rough-coated Grand Griffon Vendéen of western France, the Grand Basset Griffon Vendéen was shaped to give foot hunters a low-slung, tireless hound capable of navigating thorny Vendée terrain. In the late nineteenth century, Comte d'Elva selected early breeding stock for straight forelegs, and Paul Dezamy later fixed the larger basset type around 43 cm to give hounds the stride needed for hare, while Abel Dezamy focused on the smaller Petit variety. The two bassets were still interbred until the 1970s, with litters evaluated at one year of age to classify each dog by size. Today the breed remains an accomplished gun-hunting pack hound across game from rabbit to wild boar, a capable mantrailer, and a merry family companion.",
 
     originalPurpose:
-      "Tracking and driving European hares, rabbits, and small game on foot through dense thorns, coastal scrub, and rocky terrain in western France.",
+      "Hunting on foot with a gun across medium-sized, bramble-covered territories in western France, tracking furry game ranging from rabbits and hares to wild boar.",
 
     currentRoles: [
-      "Traditional hare and rabbit hunting pack or solo hound",
-      "Trailing, blood tracking, and scentwork competitor",
-      "Devoted household companion for active families",
-      "Canine athlete in rally obedience, agility, and nosework"
+      "Pack or solo gun-hunting hound for hare, rabbit, and forest game",
+      "Mantrailing, tracking, and scent-sport partner",
+      "Cheerful, affectionate family companion for active households",
+      "Participant in rally, obedience, and nosework"
     ]
   },
 
@@ -101,69 +100,63 @@ export const basset_griffon_vendeen_grand: Breed = {
     weight: {
       unit: "kg",
       male: {
-        min: 18,
-        max: 20
+        min: 17,
+        max: 19
       },
       female: {
-        min: 18,
-        max: 20
+        min: 17,
+        max: 19
       }
     },
 
     lifespanYears: {
-      min: 12,
-      max: 14
+      min: 13,
+      max: 15
     },
 
     coatType:
-      "Hard, rough, and not overly long double coat with a dense undercoat, never silky or woolly; forming pronounced eyebrows, beard, and moustache on the face, with abundant furnishings on the long drop ears and bushy tail.",
+      "Hard, flat, rough outer coat that is not overly long—never silky or woolly—over an abundant undercoat; forms bushy eyebrows that do not veil the eyes, moustaches along the muzzle, and moderate furnishings without bareness on the belly or inner thighs.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "White and black (black and white)",
-      "Black with tan markings (black and tan)",
-      "Black with light tan markings",
-      "White and orange (orange and white)",
-      "White and grey",
-      "Tricolour (white, black, and tan markings)",
-      "Fawn with black overlay and white markings (hare-pied / grizzle)"
+      "Black with white spotting (white and black)",
+      "Black with tan or light tan markings (black and tan)",
+      "Fawn with white spotting (white and orange)",
+      "Fawn with black mantle and white spotting (tricolour)",
+      "Fawn or pale fawn with black overlay (hare, wolf, badger, or wild-boar shading), with or without white spotting"
     ],
 
     sheddingLevel:
-      "Moderate year-round shedding; the harsh rough coat traps loose dead hairs that are easily removed with weekly brushing and combing",
+      "Moderate; the harsh rough coat sheds steadily and benefits from weekly brushing and combing to clear loose dead hair.",
 
     droolingLevel:
-      "Low; clean, moderately developed lips covered by facial whiskers prevent drooling",
+      "Low; well-developed lips covered in moustaches stay tidy with minimal drooling.",
 
     distinctiveFeatures: [
-      "Elongated, harmonious basset outline featuring straight, strong-boned forelegs rather than crooked legs",
-      "Height at the withers of 40 to 44 cm for males and 39 to 43 cm for females (with a 1 cm tolerance for exceptional specimens)",
-      "Working weight of approximately 18 to 20 kg for both males and females in fit, muscular condition",
-      "Harsh, rough, weather-resistant double coat with shaggy eyebrows, moustache, and beard",
-      "Slightly domed, elongated skull with a defined stop and straight or slightly convex nasal bridge",
-      "Complete, regular scissor bite with strong jaws and sound white teeth",
-      "Large, oval dark brown eyes with a friendly, intelligent expression, framed by overhanging eyebrows that do not hide the eyes",
-      "Supple, narrow, finely textured drop ears set below the eye line, turning inward at the tips and reaching past the end of the nose",
-      "Long, muscular neck without dewlap, blending cleanly into well-laid-back shoulders",
-      "Deep chest extending to the elbows with rounded ribs, a long level back, and muscular loin",
-      "Thick-based tail set high and tapering steadily, carried proudly in a sabre curve",
-      "Large, tight, oval feet with hard dark pads and strong nails"
+      "Slightly elongated basset frame paired with straight, strong-boned forelegs—never crooked or half-crooked",
+      "Height at the withers of 40 to 44 cm for males and 39 to 43 cm for females (with a 1 cm tolerance) and a light, athletic build around 17 to 19 kg",
+      "Hard, flat, weather-resistant rough coat with pronounced eyebrows, moustaches, and beard",
+      "Elongated, slightly convex skull with a well-defined stop, prominent black nose (brown tolerated in white-and-orange coats), and square-ended muzzle longer than the skull",
+      "Strong jaws closing in a scissor bite",
+      "Large, dark, oval eyes with a friendly, intelligent expression and no visible white",
+      "Low-set, supple, narrow drop ears covered in long hair, turning inward at the tips and reaching past the end of the nose",
+      "Long, muscular neck free of dewlap, broad deep chest reaching the elbows, straight back arching slightly into a solid loin, and full flank",
+      "High-set, rather long tail thick at the base and tapering smoothly, carried in a sabre curve",
+      "Tight, strong feet with hard pads and solid, well-pigmented nails"
     ]
   },
 
   temperament: {
     traits: [
-      "Cheerful, lively, and optimistic in everyday family life",
-      "Affectionate, gentle, and deeply people-oriented companion",
-      "Passionate, fearless, and tenacious hunter on scent trails",
-      "Deep, melodious, and resonant baying voice used during tracking",
-      "Exceptional pack sociability, coexisting peacefully with other dogs",
-      "Patient, sturdy, and playful companion for respectful children",
-      "Independent problem-solver with strong olfactory curiosity",
-      "Friendly and welcoming with unfamiliar visitors, making a poor guard dog",
-      "High prey drive toward rabbits, hares, and small wild mammals",
-      "Stubborn and single-minded when following an intriguing scent line"
+      "Happy, outgoing, and upbeat in daily household life",
+      "Courageous, fast, and passionate on a fresh scent trail",
+      "Strong-voiced tracker with a resonant hound bay",
+      "Independent and somewhat stubborn, yet well-behaved with steady guidance",
+      "Exceptionally sociable with other dogs thanks to pack-hunting roots",
+      "Gentle, affectionate, and sturdy around respectful children",
+      "Welcoming toward strangers rather than protective or aloof",
+      "High chase instinct outdoors when catching a wild scent"
     ],
 
     scores: {
@@ -182,19 +175,18 @@ export const basset_griffon_vendeen_grand: Breed = {
   care: {
     exercise: {
       level:
-        "High; an energetic, stamina-driven hunting hound requiring daily sustained physical exercise and extensive olfactory enrichment",
+        "High; a tireless, sturdy scenthound that stays active well into its senior years and does not thrive as a sedentary house dog.",
 
       minutesPerDay: {
         min: 60,
-        max: 90
+        max: 120
       },
 
       activities: [
-        "Daily brisk leashed walks and woodland trail hikes with ample sniffing time",
-        "Free running and scent exploration in a securely fenced yard",
-        "Nosework, tracking, and hidden treat search games",
-        "Canine sports including rally obedience, tracking trials, and low-impact agility",
-        "Play sessions and pack walks alongside other friendly dogs"
+        "Daily brisk leashed walks and long countryside trail hikes",
+        "Safe scent exploration and running inside a securely fenced yard",
+        "Mantrailing, nosework, and treat-search games",
+        "Pack walks and friendly playdates with other dogs"
       ]
     },
 
@@ -202,36 +194,32 @@ export const basset_griffon_vendeen_grand: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush and comb thoroughly once or twice weekly using a slicker brush, pin brush, and wide-toothed metal comb to remove dead hairs, prevent mats in the beard, ears, and leg furnishings, and maintain the crisp rough coat texture.",
+        "Brush and comb once a week using a slicker brush and metal comb to remove loose hair and prevent tangles in the beard, ears, and leg furnishings.",
 
       bathing:
-        "Bathe every six to eight weeks or when muddy after outdoor trails, using a texturizing or mild canine shampoo that preserves the harsh double coat.",
+        "Bathe occasionally when muddy or dusty after outdoor outings, using a gentle dog shampoo that preserves the harsh coat texture.",
 
       notes: [
-        "Never clip or shave the rough double coat; hand-stripping or light tidying preserves natural weather resistance and color depth.",
-        "Wash and dry the facial beard and moustache regularly after meals to prevent food residue and odor.",
-        "Inspect the long, inward-curling drop ears weekly for wax buildup, moisture, or debris, wiping gently with an approved veterinary cleanser.",
-        "Check paw pads, toes, and furnishings for thorns, burrs, or twigs after woodland walks.",
-        "Trim fast-growing nails every two to three weeks to maintain compact foot structure.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste."
+        "Avoid clipping or shaving the rough coat, which softens its protective texture.",
+        "Check the long, inward-curling drop ears regularly for wax, moisture, or debris to reduce infection risk.",
+        "Trim fast-growing nails regularly with clippers or a grinder to prevent splitting.",
+        "Wipe the beard and moustache after meals and brush teeth routinely."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent, cheerful, and food-motivated, yet possesses independent scenthound stubbornness that requires patient, reward-based leadership",
+        "Moderate; bright and well-meaning, yet independent and easily distracted by intriguing scents.",
 
       tips: [
-        "Use positive reinforcement, high-value aromatic food treats, and upbeat praise.",
-        "Keep training sessions short, varied, and playful (5 to 10 minutes) to prevent mental boredom.",
-        "Always exercise within a securely fenced area or on a sturdy leash; an enticing scent trail triggers selective deafness and immediate pursuit.",
-        "Practice recall conditioning from early puppyhood on a long line using high-value rewards.",
-        "Teach a quiet command early to help manage natural hound baying habits.",
-        "Avoid harsh verbal reprimands or physical coercion, which cause this sensitive hound to become stubborn or withdrawn."
+        "Start recall conditioning early in puppyhood and never chase a loose hound to catch it.",
+        "Use upbeat, reward-based sessions with aromatic treats and short, engaging exercises.",
+        "Keep the dog on leash or inside a reliably fenced yard, as hunting instinct overrides recall around wildlife.",
+        "Give the nose structured outlets such as tracking or scent puzzles to curb boredom."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs of all sizes, household sounds, vehicles, and novel outdoor environments. Early structured socialization develops an outgoing, confident adult that is friendly with strangers and composed in public."
+        "Introduce puppies early to varied people, friendly dogs, everyday sights, and handling of their long ears and paws. Their naturally outgoing nature makes early socialization straightforward and rewarding."
     },
 
     livingEnvironment: {
@@ -240,83 +228,75 @@ export const basset_griffon_vendeen_grand: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool and wet climates, where the rough double coat provides reliable weather protection",
-        "Warm climates, provided indoor cooling, shade, and fresh water are available and exercise occurs during cooler hours"
+        "Cool and damp climates suited to its weather-resistant rough coat",
+        "Warm climates, provided shade, fresh water, indoor cooling, and cooler-hour walks are available"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; bred as a pack hound and deeply attached to human and canine companionship, prone to boredom baying or digging if left isolated for long workdays."
+        "Low to moderate; bred to live and hunt in packs, this hound prefers regular human or canine company."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active medium-sized breeds, portion-controlled to prevent excess weight.",
+      "Complete, balanced diet formulated for active medium-sized dogs, matched to life stage and daily workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals daily during early growth, transitioning to two meals daily as maturity approaches.",
       adult:
-        "Two measured meals daily to support steady metabolism and comfortable digestion.",
+        "Two measured meals daily to keep energy steady and body weight lean.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily tailored for older hounds that remain active."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt beneath the rough coat. Scenthounds possess hearty appetites and can gain excess weight easily, which places unnecessary strain on their elongated spine and forelegs. Divide daily food into two distinct meals, use narrow hound bowls to keep long ears out of food and water, and provide cool, clean drinking water continuously.",
+      "Feed measured portions to keep the hound light and athletic rather than heavy, as excess weight strains its elongated back and straight forelegs. Consult a veterinarian to tailor puppy meal frequency and adult calories, use narrow hound bowls to keep long ears out of food and water, and provide fresh water continuously.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places extra mechanical stress on the long back and joints.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Use narrow spaniel or hound bowls during meals to keep long ear fringes and facial beard clean and dry.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water at all times.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep body condition lean; avoid letting weight climb above an athletic working frame.",
+      "Count training treats within the daily ration.",
+      "Use narrow bowls to keep long ear hair and facial whiskers clean.",
+      "Transition gradually over five to seven days when changing foods."
     ],
 
     note:
-      "Caloric needs vary based on age, outdoor tracking activity, and daily exercise intensity. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Daily calorie needs depend on age and outdoor tracking activity; confirm portions with a veterinarian."
   },
 
   health: {
     overview:
-      "The Grand Basset Griffon Vendéen is a hardy, robust, and generally long-lived French scenthound with a typical life expectancy of 12 to 14 years. Primary health priorities include DNA screening and tonometry/gonioscopy eye examinations for primary open-angle glaucoma (POAG), routine ear hygiene for long pendulous drop ears prone to otitis externa, orthopedic evaluations for hip dysplasia and patellar luxation, and monitoring for hypothyroidism and epilepsy.",
+      "The Grand Basset Griffon Vendéen is generally a sturdy, long-lived scenthound with a typical lifespan of 13 to 15 years. Routine breeding priorities focus on hip evaluations and specialist veterinary ophthalmologist exams—especially important because primary open-angle glaucoma (POAG) linked to an ADAMTS17 gene inversion is scientifically established in the closely related Petit Basset Griffon Vendéen, which was historically interbred with the Grand until the 1970s. Regular ear care and lean weight maintenance also protect long drop ears and the elongated spine.",
 
     commonConditions: [
-      "Primary Open-Angle Glaucoma (POAG / ADAMTS17 gene mutation) — an inherited autosomal recessive ocular condition causing elevated intraocular pressure, optic nerve damage, and gradual vision loss if untreated, screenable via DNA testing and regular veterinary eye pressure checks",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by long, inward-curling drop ears that restrict canal ventilation and trap moisture",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, monitored through pre-breeding radiographic screening",
-      "Patellar luxation — intermittent displacement of the kneecap from the femoral groove, evaluated through clinical orthopedic examination",
-      "Hypothyroidism — reduced thyroid hormone production causing lethargy, weight gain, and coat thinning, manageable with daily veterinary hormone replacement",
-      "Idiopathic epilepsy — recurrent neurological seizures occasionally documented in hound lines, managed through veterinary medication",
-      "Intervertebral disc strain — occasional back discomfort associated with elongated body proportions if the dog becomes overweight or jumps from excessive heights"
+      "Ear canal infections (otitis externa) — a common care concern in long, inward-turning drop ears when wax or moisture builds up",
+      "Hip dysplasia — a developmental joint risk monitored through pre-breeding radiographic hip evaluations",
+      "Ocular conditions including glaucoma monitoring — specialist eye examinations are recommended, given established ADAMTS17-linked primary open-angle glaucoma in the closely related Petit Basset Griffon Vendéen",
+      "Back strain from excess weight — a conformational risk in elongated basset frames if body weight is not kept lean"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified DNA clearances for primary open-angle glaucoma (POAG), annual specialist eye exams, and hip/patella clearances.",
-      "Inspect and thoroughly dry the long drop ears weekly, wiping canals with an approved veterinary cleanser.",
-      "Maintain a lean, athletic body weight throughout life to protect the elongated spine and joints.",
-      "Brush teeth several times weekly and schedule periodic professional veterinary dental cleanings.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify pre-breeding radiographic hip evaluations and specialist veterinary ophthalmologist eye exams when choosing a puppy.",
+      "Inspect and clean the long drop ears regularly to prevent wax and moisture buildup.",
+      "Keep the hound lean and active to protect joints and the elongated back.",
+      "Trim nails regularly and brush teeth routinely.",
+      "Maintain annual veterinary wellness exams, vaccinations, and year-round parasite prevention."
     ],
 
     recommendedScreenings: [
-      "DNA marker test for Primary Open-Angle Glaucoma (POAG / ADAMTS17 gene)",
-      "Annual ophthalmic examination including intraocular pressure measurement by a board-certified veterinary ophthalmologist",
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Clinical patellar luxation orthopedic evaluation",
-      "Thyroid panel evaluation prior to breeding"
+      "Radiographic hip evaluation prior to breeding",
+      "Specialist veterinary ophthalmologist eye examination prior to breeding",
+      "Routine clinical check for patellar and general orthopedic soundness"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth regularly with canine toothpaste and have a veterinarian check the scissor-bite dentition during annual wellness visits.",
 
     earCare:
-      "Inspect the long, inward-curling drop ears weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the canal thoroughly.",
+      "Inspect the long, inward-turning drop ears weekly for redness, odor, or wax buildup, cleaning gently with a veterinarian-approved solution.",
 
     skinCare:
-      "Part the harsh double coat weekly during brushing to inspect the skin for external parasites, burrs, or irritation. Regular combing removes dead hair and promotes healthy skin airflow."
+      "Part the rough coat during weekly brushing to inspect the thick skin for ticks, burrs, or irritation after woodland walks."
   },
 
   suitability: {
@@ -327,74 +307,68 @@ export const basset_griffon_vendeen_grand: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, hikers, and walkers who enjoy daily trail exploration",
-      "Families with children seeking a cheerful, gentle, and affectionate companion",
-      "Multi-dog households that appreciate sociable, pack-friendly hound dynamics",
-      "Homes with a securely fenced yard of at least five feet in height",
-      "Enthusiasts of nosework, tracking, and scentwork dog sports"
+      "Active families and outdoor hikers ready for long daily walks and scent adventures",
+      "Homes with a securely fenced yard where a curious scenthound can explore safely",
+      "Multi-dog households looking for a cheerful, pack-friendly companion",
+      "Owners interested in mantrailing, nosework, or tracking sports"
     ],
 
     notIdealFor: [
-      "Apartment or condominium dwellers where resonant hound baying may disturb neighbors",
-      "Owners seeking a reliable off-leash dog in unfenced areas without scent distractions",
-      "Households with free-roaming pet rabbits or small mammals vulnerable to hound prey drive",
-      "Owners who leave a dog home alone in isolation for long workdays without companionship"
+      "Apartments where a resonant hound voice and high outdoor stamina are hard to accommodate",
+      "Owners expecting reliable off-leash recall in unfenced wildlife areas",
+      "Sedentary households wanting a low-exercise lapdog",
+      "Homes where the dog will be left alone for long stretches every day"
     ]
   },
 
   funFacts: [
-    "In its native France, the Grand Basset Griffon Vendéen is affectionately called the 'GBGV' and is renowned as a 'hound for the foot hunter', bred specifically to track hares at a steady pace that hunters on foot could keep up with through thorny coastal scrub.",
-    "The breed's signature shaggy appearance—complete with bushy eyebrows, a full beard, and a moustache—serves a practical purpose, shielding its eyes and face from dense brambles and thorns while following scent trails.",
-    "Until 1975, the Grand Basset Griffon Vendéen and its smaller cousin, the Petit Basset Griffon Vendéen, could occasionally be interbred in France; since then, strict separate breeding has preserved the Grand's longer back, straighter legs, and deeper tracking voice.",
-    "Because it was bred to hunt in cooperative packs, the Grand Basset Griffon Vendéen is one of the most dog-friendly breeds in the canine world, rarely showing aggression toward other dogs.",
-    "Its long, supple ears curl inward at the tips and trail along the ground when sniffing, helping to funnel scent particles directly toward its nose."
+    "Translated loosely from French, the breed's name means 'large, low, shaggy dog of the Vendée.'",
+    "Until the 1970s, the Grand and Petit Basset Griffon Vendéen were still interbred; young dogs were assessed at one year of age to decide whether they qualified as a Petit or a Grand.",
+    "Often called the fastest of all the scenthound bassets, a team of Grand Bassets even won the fifth European Cup for hare.",
+    "Their keen noses and steady pace have earned them modern work in mantrailing across Europe and North America.",
+    "Despite a rustic, tousled look, these sturdy hounds rarely slow down early and often stay energetic well into their teenage years."
   ],
 
   faq: [
     {
       question: "What is a Grand Basset Griffon Vendéen?",
       answer:
-        "The Grand Basset Griffon Vendéen is a medium-sized, low-set French scenthound recognized for its shaggy rough double coat, bearded face, long pendulous ears, melodious baying voice, and cheerful, affectionate family personality."
-    },
-    {
-      question: "What is the difference between a Grand Basset Griffon Vendéen and a Petit Basset Griffon Vendéen?",
-      answer:
-        "The Grand Basset Griffon Vendéen is taller and longer-bodied (standing 39 to 44 cm at the withers and weighing 18 to 20 kg) with longer ears and a deeper tracking voice, whereas the Petit Basset Griffon Vendéen is smaller and more compact (standing 34 to 38 cm)."
+        "The Grand Basset Griffon Vendéen is a medium-sized, straight-legged French scenthound known for its shaggy rough coat, bearded face, long inward-turning ears, resonant voice, and cheerful, outgoing temperament."
     },
     {
       question: "How tall and heavy is a Grand Basset Griffon Vendéen?",
       answer:
-        "Adult males stand 40 to 44 cm at the withers and adult females stand 39 to 43 cm, with both sexes typically weighing between 18 and 20 kg in lean, muscular condition."
+        "Adult males stand 40 to 44 cm at the withers and females stand 39 to 43 cm (with a 1 cm tolerance), keeping a light, athletic build around 17 to 19 kg."
     },
     {
       question: "How long does a Grand Basset Griffon Vendéen live?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
+        "Typical life expectancy is 13 to 15 years, and many remain sturdy and active well into their teenage years."
     },
     {
-      question: "Do Grand Basset Griffon Vendéens shed a lot, and how are they groomed?",
+      question: "How is the Grand Basset Griffon Vendéen different from the Petit?",
       answer:
-        "They shed moderately year-round. Their harsh rough coat requires brushing and combing once or twice weekly to remove dead hair and prevent mats in the beard, ears, and leg furnishings; the coat should never be shaved."
+        "The Grand is taller (39 to 44 cm) and longer-bodied with longer ears and a longer stride bred for hare and medium territories, whereas the Petit is smaller and more compact."
+    },
+    {
+      question: "How much grooming does a Grand Basset Griffon Vendéen need?",
+      answer:
+        "Weekly brushing with a slicker brush and metal comb keeps the harsh rough coat tidy, paired with occasional baths, regular nail trims, and routine ear checks; the coat should not be shaved."
     },
     {
       question: "Can a Grand Basset Griffon Vendéen live in an apartment?",
       answer:
-        "Generally no. Due to their resonant baying voice, high exercise needs, and pack-oriented nature, they thrive best in a house with a securely fenced yard."
+        "Generally no. Its high daily exercise needs, resonant hound voice, and need for a securely fenced area make a house with a yard much more suitable."
     },
     {
-      question: "Are Grand Basset Griffon Vendéens good family pets and good with children?",
+      question: "Are Grand Basset Griffon Vendéens good with children and other dogs?",
       answer:
-        "Yes. They are famously merry, gentle, and patient with children, and their pack heritage makes them exceptionally sociable and peaceful with other dogs."
+        "Yes. Bred to hunt cooperatively in packs, they are famously friendly with other dogs and make cheerful, gentle companions for respectful children."
     },
     {
-      question: "How much exercise does a Grand Basset Griffon Vendéen need each day?",
+      question: "What health screenings are recommended for breeding dogs?",
       answer:
-        "The breed requires 60 to 90 minutes of daily physical activity, including brisk leashed walks, trail hikes, and scentwork or nosework games."
-    },
-    {
-      question: "What health tests are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include a DNA test for primary open-angle glaucoma (POAG), annual veterinary ophthalmologist eye exams, radiographic hip evaluations, and clinical patellar luxation checks."
+        "Key pre-breeding evaluations include radiographic hip screening and specialist veterinary ophthalmologist eye exams."
     }
   ],
 
@@ -408,16 +382,23 @@ export const basset_griffon_vendeen_grand: Breed = {
     "ofa-grand-basset-griffon-vendeen-chic-requirements",
     "gbgv-poag-adamts17-study-2017",
     "wikimedia-grand-basset-griffon-vendeen-lilly-m",
-    "wikimedia-grand-basset-griffon-vendeen-600-tomasz-sienicki"
+    "wikimedia-grand-basset-griffon-vendeen-600-tomasz-sienicki",
+    "natureserve-canis-lupus-familiaris",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Scientific Name: Canis lupus familiaris (ITIS TSN 726821)"
+        }
+      ],
+      verifiedOn: "2026-11-25",
+      note: "Verified standard domestic-dog trinomial taxonomy across the catalog."
     },
 
     alternateNames: {
@@ -426,21 +407,21 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "Standard heading: GRAND BASSET GRIFFON VENDÉEN"
+          locator: "Standard heading: GRAND BASSET GRIFFON VENDEEN"
         },
         {
-          id: "fci-grand-basset-griffon-vendeen-nomenclature",
+          id: "the-kennel-club-grand-basset-griffon-vendeen-standard",
           role: "verified",
-          locator: "Official nomenclature: GRAND BASSET GRIFFON VENDÉEN (33)"
+          locator: "Basset Griffon Vendeen (Grand)"
         },
         {
-          id: "akc-grand-basset-griffon-vendeen-breed-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "History: Grand Basset Griffon Vendéen, GBGV"
+          locator: "alternateNames: Grand Basset Griffon Vendéen, GBGV, Large Basset Griffon Vendeen"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified across FCI Standard No. 33, FCI Nomenclature, SCC, and AKC."
+      verifiedOn: "2026-11-25",
+      note: "Verified across FCI Standard No. 33, Royal Kennel Club, AKC, and The Dog API."
     },
 
     group: {
@@ -449,12 +430,12 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.3 Small-sized Hounds, with working trial"
+          locator: "FCI-CLASSIFICATION: Group 6 Scenthounds and related breeds; Section 1.3 Small-sized Hounds; With working trial"
         },
         {
           id: "fci-grand-basset-griffon-vendeen-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.3 Small-sized Hounds, with working trial"
+          locator: "Group 6, Section 1.3 Small-sized Hounds, subject to a working trial"
         },
         {
           id: "the-kennel-club-grand-basset-griffon-vendeen-standard",
@@ -464,12 +445,16 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "Hound Group"
+          locator: "Hound Group (recognized 2018)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "group: Hound"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-25",
+      note: "User-facing group omits registry and section labels per Rule 5."
     },
 
     origin: {
@@ -478,21 +463,26 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "ORIGIN: France; BRIEF HISTORICAL SUMMARY (Vendée)"
+          locator: "ORIGIN: France; BRIEF HISTORICAL SUMMARY"
         },
         {
           id: "fci-grand-basset-griffon-vendeen-nomenclature",
           role: "verified",
-          locator: "Country of origin: France"
+          locator: "Country of origin of the breed: FRANCE; definitive acceptance 1967-01-17"
         },
         {
           id: "scc-grand-basset-griffon-vendeen-standard",
           role: "verified",
-          locator: "Origine: France (Vendée)"
+          locator: "France (Vendée)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "origin.country: Vendée region, France (FCI lists France as country)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: null
+      verifiedOn: "2026-11-25",
+      note: "Preserved France in origin.country per FCI 33 and Vendée department, western France in origin.region."
     },
 
     overview: {
@@ -501,22 +491,21 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "UTILIZATION (gun hunter assistant, fastest basset), BRIEF HISTORICAL SUMMARY (Comte d'Elva, Paul Dezamy ~43 cm, rabbit to wild boar, 5th European Cup for hare)"
         },
         {
           id: "scc-grand-basset-griffon-vendeen-standard",
           role: "verified",
-          locator: "Historique (Comte d'Elva, Paul Dezamy, séparation 1950/1975), utilisation et caractère"
+          locator: "Historique (Comte d'Elva, Paul Desamy, Abel Desamy)"
         },
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed, History (over 400 years), Did You Know (interbred with PBGV until 1970s, mantrailing, 2018 AKC recognition)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesized in original prose from FCI Standard No. 33, SCC, and AKC official records."
+      verifiedOn: "2026-11-25",
+      note: "Rewritten in original prose grounded in FCI 33, SCC, and AKC."
     },
 
     physical: {
@@ -525,22 +514,16 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator: "GENERAL APPEARANCE (straight forelegs), HEAD, EYES, EARS, BODY, TAIL, LIMBS, SKIN, COAT (hard, flat, not too long, never silky/woolly), COLOUR (8 official patterns; disqualifies self black or white; brown nose tolerated in white & orange)"
         },
         {
-          id: "the-kennel-club-grand-basset-griffon-vendeen-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Eyes, Ears, Body, Tail, Coat, Colour, Size"
-        },
-        {
-          id: "scc-grand-basset-griffon-vendeen-standard",
-          role: "verified",
-          locator: "Morphologie, poil dur, oreilles, proportions et taille"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "coatColors lists 17 generic canine colours including Blue, Brindle, Brown/Chocolate, Cream, Liver, Merle, Red, and White; FCI 33 disqualifies self-coloured black or white and restricts colours to Vendéen patterns"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Conformation, elongated basset outline with straight forelegs, rough double coat, and distinctive features follow official standards."
+      verifiedOn: "2026-11-25",
+      note: "Aligned accepted colours and anatomical traits directly with FCI Standard No. 33."
     },
 
     "physical.height": {
@@ -549,22 +532,26 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "SIZE: Height at the withers: Males: 0.40 m to 0.44 m (40-44 cm); Females: 0.39 m to 0.43 m (39-43 cm), tolerance +/- 1 cm."
+          locator: "SIZE: Height at withers: Males from 40 to 44 cm; Females from 39 to 43 cm (tolerance ±1 cm)"
         },
         {
           id: "scc-grand-basset-griffon-vendeen-standard",
           role: "verified",
-          locator: "Taille au garrot: Mâles 40-44 cm, Femelles 39-43 cm (tolérance +/- 1 cm)"
+          locator: "Taille: 39 à 44 cm"
         },
         {
-          id: "the-kennel-club-grand-basset-griffon-vendeen-standard",
-          role: "verified",
-          locator: "Size: Height at withers: Dogs 40-44 cms, Bitches 39-43 cms"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height: 39–46 cm (breed-wide)"
+        },
+        {
+          id: "akc-grand-basset-griffon-vendeen-breed-profile",
+          role: "conflicting",
+          locator: "Height: 15.5–18 inches"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Preserved in published unit of centimetres (40–44 cm for males and 39–43 cm for females) matching FCI Standard No. 33 and SCC standard."
+      verifiedOn: "2026-11-25",
+      note: "Kept FCI Standard No. 33's exact published centimetres (40–44 cm males, 39–43 cm females) per Rule 9."
     },
 
     "physical.weight": {
@@ -573,22 +560,26 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "scc-grand-basset-griffon-vendeen-standard",
           role: "verified",
-          locator: "Poids indicatif: 18 à 20 kg"
+          locator: "Alimentation & Santé: doit être léger et ne pas dépasser 17/19 kg"
         },
         {
-          id: "club-du-griffon-vendeen-gbgv-profile",
-          role: "verified",
-          locator: "Poids moyen adulte: 18-20 kg"
+          id: "fci-grand-basset-griffon-vendeen-official-standard",
+          role: "cited",
+          locator: "No numerical weight published in FCI Standard No. 33"
         },
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
-          role: "verified",
-          locator: "Weight: 40-45 pounds (approx. 18-20 kg)"
+          role: "conflicting",
+          locator: "Weight: 40–45 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "weight: 18–20.5 kg"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FCI Standard No. 33 specifies height without fixing a numerical weight. The stored 18 to 20 kg for males and females represent canonical figures published by SCC and the French parent club, preserved in kilograms."
+      verifiedOn: "2026-11-25",
+      note: "FCI 33 publishes no numeric weight; stored SCC's exact whole-number metric guidance (17–19 kg) per Rule 9, while logging AKC's 40–45 pounds and The Dog API's 18–20.5 kg."
     },
 
     "physical.lifespanYears": {
@@ -597,16 +588,16 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 12-14 years"
+          locator: "Life Expectancy: 13–15 years"
         },
         {
-          id: "club-du-griffon-vendeen-gbgv-profile",
-          role: "verified",
-          locator: "Longévité moyenne: 12 à 14 ans"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "lifespanYears: 12–15"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Supported by kennel club and parent breed club actuarial profiles."
+      verifiedOn: "2026-11-25",
+      note: "Stored AKC's verified 13–15 years; The Dog API reports 12–15 years."
     },
 
     "physical.sheddingLevel": {
@@ -615,15 +606,15 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
+          locator: "Grooming: weekly brushing with slicker brush and comb"
         },
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "COAT: Hard, not too long and flat; abundant undercoat"
+          locator: "COAT: hard, flat, rough coat"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -633,16 +624,16 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "Lips: Quite well developed, covered with long hair"
+          locator: "Lips: well covered with moustaches, covering lower jaw"
         },
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5 to 2/5)"
+          locator: "Breed Traits: Drooling Level"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Clean lips prevent excessive drooling."
+      verifiedOn: "2026-11-25",
+      note: null
     },
 
     "temperament.traits": {
@@ -651,20 +642,20 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Fast, good voice, passionate, courageous, docile, friendly"
-        },
-        {
-          id: "the-kennel-club-grand-basset-griffon-vendeen-standard",
-          role: "verified",
-          locator: "Characteristics and Temperament: Outgoing, happy, friendly, independent"
+          locator: "BEHAVIOUR / TEMPERAMENT: fast, well voiced, passionate hunter, courageous, a little stubborn but well behaved"
         },
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "Temperament: Happy, outgoing, independent, sociable with dogs"
+          locator: "About the Breed & Exercise: independent, outgoing, happy, quiet/docile house dog, pack hunter"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "temperament.traits: Happy, outgoing, independent, intelligent, courageous"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -674,17 +665,11 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "the-kennel-club-grand-basset-griffon-vendeen-standard",
-          role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented pack scenthound temperament, merry disposition, and high dog sociability."
+      note: "Editorial 1–5 ratings synthesized from FCI 33 and AKC temperament profiles."
     },
 
     care: {
@@ -693,17 +678,16 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming (weekly slicker brush & comb, regular nails, ear checks), Exercise (active into teenage years, securely fenced area), Nutrition"
         },
         {
-          id: "club-du-griffon-vendeen-gbgv-profile",
+          id: "scc-grand-basset-griffon-vendeen-standard",
           role: "cited",
-          locator: "Entretien du poil dur, soins des oreilles et exercice"
+          locator: "Comportement (early recall training, never chase to catch) & Vivre en ville (long daily outings)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active scenthound management with rough coat grooming and drop-ear care protocols."
+      note: "Synthesizes AKC and SCC care guidance in original prose."
     },
 
     "care.exercise.level": {
@@ -712,15 +696,15 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
+          locator: "Exercise: lots of exercise, does not thrive as a couch potato, stays active into teenage years"
         },
         {
-          id: "fci-grand-basset-griffon-vendeen-official-standard",
+          id: "the-kennel-club-grand-basset-griffon-vendeen-standard",
           role: "verified",
-          locator: "UTILIZATION: Hunting hound of great endurance"
+          locator: "Breeds A to Z: Exercise: More than 2 hours"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -730,31 +714,34 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "the-kennel-club-grand-basset-griffon-vendeen-standard",
           role: "cited",
-          locator: "Exercise requirements: Over 1 hour per day"
+          locator: "Royal Kennel Club Breeds A to Z exercise rating (more than 2 hours)"
         },
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
+          locator: "High daily exercise guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an active hunting scenthound."
+      note: "Editorial estimate of 60 to 120 minutes daily."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
+          id: "scc-grand-basset-griffon-vendeen-standard",
+          role: "cited",
+          locator: "Vivre en ville: prefers countryside; requires long daily outings if in city"
+        },
+        {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "cited",
-          locator: "Resonant baying voice, high energy, and need for fenced yard"
+          locator: "Requires securely fenced area for exercise"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that resonant hound baying and high outdoor activity demands make apartment living generally unsuitable."
+      note: "Editorial assessment based on voice, energy, and fencing needs."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -763,10 +750,10 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations"
+          locator: "Exercise: securely fenced-in area required"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -776,15 +763,10 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "COAT: Rough weather-resistant double coat adapted to western French climate"
-        },
-        {
-          id: "akc-grand-basset-griffon-vendeen-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: well-suited to cool and temperate climates"
+          locator: "COAT: hard, rough coat adapted to western French bramble and weather"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -794,7 +776,7 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; pack-oriented hound"
+          locator: "Pack-hunting hound heritage"
         }
       ],
       verifiedOn: null,
@@ -807,12 +789,16 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, ear care bowls"
+          locator: "Nutrition: medium-breed age-appropriate diet; consult veterinarian"
+        },
+        {
+          id: "scc-grand-basset-griffon-vendeen-standard",
+          role: "cited",
+          locator: "Alimentation: keep light (17–19 kg)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium-sized basset scenthounds."
+      note: "Grounded in AKC and SCC nutrition notes."
     },
 
     "nutrition.feedingFrequency": {
@@ -821,96 +807,83 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Nutrition: consult vet/breeder for life-stage meal frequency"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-grand-basset-griffon-vendeen-breed-profile",
+          role: "verified",
+          locator: "Health: majority are healthy; National Breed Club recommends Hip Evaluation and Ophthalmologist Evaluation; lifespan 13–15 years"
+        },
+        {
           id: "gbgv-poag-adamts17-study-2017",
           role: "verified",
-          locator: "ADAMTS17 variant associated with primary open-angle glaucoma (POAG) in Grand Basset Griffon Vendéen"
+          locator: "Forman et al. (PLoS One 2015, PMID 26683476): ADAMTS17 inversion causing POAG in closely related Petit Basset Griffon Vendéen"
         },
         {
           id: "ofa-grand-basset-griffon-vendeen-chic-requirements",
           role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, CAER Eye examination, POAG DNA test"
-        },
-        {
-          id: "club-du-griffon-vendeen-gbgv-profile",
-          role: "verified",
-          locator: "Santé et dépistages: glaucome (POAG), dysplasie de la hanche et soins des oreilles"
+          locator: "OFA CHIC portal for Grand Basset Griffon Vendéen (GBGV)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesizes peer-reviewed ocular genetics research with national health registry screening protocols."
+      verifiedOn: "2026-11-25",
+      note: "Replaced fabricated PMID 28895919 (human NAFLD editorial) with verified Forman et al. (2015, PMID 26683476) PBGV ADAMTS17 study and accurately distinguished related-breed POAG risk from GBGV-specific AKC screening recommendations per Rule 8."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "gbgv-poag-adamts17-study-2017",
-          role: "verified",
-          locator: "Primary Open-Angle Glaucoma (POAG) pathology and ADAMTS17 genetics"
-        },
-        {
-          id: "ofa-grand-basset-griffon-vendeen-chic-requirements",
-          role: "verified",
-          locator: "Hip dysplasia, patellar luxation, eye conditions, and thyroiditis"
-        },
-        {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "Ear infections (otitis externa) and epilepsy"
+          locator: "Grooming & Health: ear wax/debris infection risk, hip and eye screening priorities"
+        },
+        {
+          id: "gbgv-poag-adamts17-study-2017",
+          role: "cited",
+          locator: "Related-breed PBGV ADAMTS17 POAG reference supporting ocular monitoring"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-25",
+      note: "Distinguishes drop-ear care, orthopedic/ocular screening priorities, and related-breed POAG context without overstating GBGV-specific prevalence."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "club-du-griffon-vendeen-gbgv-profile",
-          role: "cited",
-          locator: "Prévention: nettoyage des oreilles, contrôle du poids et tests oculaires"
-        },
-        {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "cited",
-          locator: "Routine care and veterinary wellness checks"
+          locator: "Health & Grooming: pre-breeding hip/eye checks, regular ear checks, nail trims, tooth brushing"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to long-eared basset hounds."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-grand-basset-griffon-vendeen-chic-requirements",
+          id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, CAER Eye examination, POAG DNA test"
+          locator: "Recommended Health Tests From the National Breed Club: Hip Evaluation, Ophthalmologist Evaluation"
         },
         {
-          id: "club-du-griffon-vendeen-gbgv-profile",
+          id: "ofa-grand-basset-griffon-vendeen-chic-requirements",
           role: "verified",
-          locator: "Dépistages recommandés: test ADN POAG, examen oculaire et radiographie des hanches"
+          locator: "OFA CHIC portal for GBGV"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-25",
+      note: "Aligned with AKC National Breed Club recommended tests."
     },
 
     "health.dentalCare": {
@@ -919,16 +892,16 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong jaws with complete scissor bite"
+          locator: "Jaws/Teeth: strongly developed, scissor bite"
         },
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Grooming: regular tooth brushing"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
@@ -937,16 +910,16 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "cited",
-          locator: "Ears: supple, narrow, fine, covered in long hair, turning inward at tip"
+          locator: "Ears: supple, narrow, fine, covered with long hair, well turned inwards"
         },
         {
-          id: "club-du-griffon-vendeen-gbgv-profile",
+          id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "cited",
-          locator: "Soins réguliers des oreilles tombantes"
+          locator: "Grooming: regular ear checks to avoid wax and debris buildup"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for long, inward-curling drop ears."
+      note: null
     },
 
     "health.skinCare": {
@@ -955,11 +928,11 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "cited",
-          locator: "Skin: quite thick, often marbled in tricolour dogs; rough coat"
+          locator: "Skin: quite thick, often marbled in tricoloured subjects"
         }
       ],
       verifiedOn: null,
-      note: "General skin and rough-coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -968,17 +941,11 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "the-kennel-club-grand-basset-griffon-vendeen-standard",
-          role: "cited",
-          locator: "Characteristics and lifestyle suitability"
+          locator: "About the Breed & Exercise profiles"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, voice, and exercise demands."
+      note: "Editorial suitability assessment based on pack sociability, exercise stamina, and fencing requirements."
     },
 
     funFacts: {
@@ -987,16 +954,16 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "Foot-hunting hound heritage, protective facial beard/eyebrows, 1975 separation from PBGV, pack friendliness"
+          locator: "About the Breed & Did You Know: name translation, interbreeding with PBGV until 1970s, mantrailing, staying active into teenage years"
         },
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Vendée origin and inward-curling scent-funneling ears"
+          locator: "Brief Historical Summary & Utilization: fastest scenthound basset, 5th European Cup for hare"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-25",
+      note: "Verified historical and working facts."
     },
 
     faq: {
@@ -1005,29 +972,28 @@ export const basset_griffon_vendeen_grand: Breed = {
         {
           id: "fci-grand-basset-griffon-vendeen-official-standard",
           role: "verified",
-          locator: "Origin, height (40-44 cm / 39-43 cm), coat, and distinction from PBGV"
+          locator: "Height (40–44 cm males, 39–43 cm females), coat, ears, and distinction from Petit"
         },
         {
           id: "scc-grand-basset-griffon-vendeen-standard",
           role: "verified",
-          locator: "Weight (18-20 kg) and hunting heritage"
+          locator: "Weight guidance (17–19 kg)"
         },
         {
           id: "akc-grand-basset-griffon-vendeen-breed-profile",
           role: "verified",
-          locator: "Lifespan (12-14 years), grooming, apartment living, and family life"
+          locator: "Lifespan (13–15 years), weekly grooming, fencing/yard needs, pack sociability, recommended hip and ophthalmologist evaluations"
         },
         {
-          id: "ofa-grand-basset-griffon-vendeen-chic-requirements",
-          role: "verified",
-          locator: "Recommended health screening panel (POAG DNA test, eyes, hips)"
+          id: "club-du-griffon-vendeen-gbgv-profile",
+          role: "cited",
+          locator: "French parent club GBGV portal"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-25",
+      note: "Original FAQ prose with zero registry or source names per Rule 5."
     }
   },
 
-  updatedOn: "2026-11-12"
+  updatedOn: "2026-11-25"
 };

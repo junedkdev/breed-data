@@ -8,81 +8,83 @@ export const bouvier_des_flandres: Breed = {
   alternateNames: [
     "Vlaamse Koehond",
     "Flanders Cattle Dog",
-    "Touchie",
+    "Cow Dog of Flandres",
     "Vuilbaard",
     "Dirty Beard",
+    "Toucheur de Boeuf",
+    "Touchie",
     "Flandrischer Treibhund",
     "Boyero de Flandes"
   ],
 
   group:
-    "Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 — Sheepdogs (with working trial; also classified in the Herding, Working, and Pastoral groups)",
+    "Cattle-driving and farm-guarding working dogs (with working trial)",
 
   origin: {
     country: "Belgium and France",
     region:
-      "Flanders plain (straddling the Belgian-French border across West and East Flanders and French Flanders)"
+      "Flanders (spanning western Belgium and northern France)"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Bouvier_des_Flandres.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Bouvier_des_Flandres036.JPG",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres.jpg",
-      title: "Bouvier des Flandres.jpg",
+        "https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres036.JPG",
+      title: "Bouvier des Flandres036.JPG",
       description:
-        "An adult fawn-brindle Bouvier des Flandres standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
+        "An adult Bouvier des Flandres outdoors showing its compact build, shaggy dark coat, and bearded head.",
+      creator: "Yorick39",
+      uploader: "Yorick39",
+      capturedOn: "2010-10-11",
+      uploadedOn: "2010-10-12",
+      width: 4288,
+      height: 3216,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Yorick39, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres036.JPG. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-24"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Bouvier_des_Flandres_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Bouvier_des_Flandres_in_a_garden.JPG",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres_600.jpg",
-      title: "Bouvier des Flandres 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres_in_a_garden.JPG",
+      title: "Bouvier des Flandres in a garden.JPG",
       description:
-        "A Bouvier des Flandres standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
-      licenseId: "cc-by-sa-3.0",
+        "A bearded Bouvier des Flandres standing outdoors in a garden, showing its tousled rough double coat.",
+      creator: "Vyperx1",
+      uploader: "Vyperx1",
+      capturedOn: "2009-05-05",
+      uploadedOn: "2009-05-06",
+      width: 1608,
+      height: 1900,
+      licenseId: "public-domain",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Vyperx1, Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:Bouvier_des_Flandres_in_a_garden.JPG.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-24"
     }
   ],
 
   overview: {
     summary:
-      "A rugged, powerfully built, and compact working cattle-droving and farm-guarding dog from Flanders, instantly recognized by its tousled, weatherproof rough double coat, heavy beard and moustache, fearless composure, and steadfast devotion to its family.",
+      "A sturdy, square-framed cattle drover and farm guardian from Flanders, known for its rough, weather-resistant double coat, full beard and moustache, level-headed courage, and steady devotion to its household.",
 
     description:
-      "The Bouvier des Flandres is a substantial, short-coupled, and heavily boned working dog combining immense physical strength and agility with calm, rational self-confidence. Developed by farmers and cattle merchants across the damp, windswept plains of Flanders to drive unruly herds, pull milk carts, and guard isolated homesteads, the dog exhibits a compact, squarely proportioned silhouette supported by muscular limbs and a deep, broad chest. Its signature tousled double coat consists of a harsh, dry, rough outer coat roughly 6 cm in length over a fine, dense, insulating undercoat, accented by shaggy eyebrows, a full moustache, and a thick beard that give the head an imposing, bearded expression. Dark, slightly oval eyes radiate intelligence, courage, and quiet attentiveness beneath high-set triangular ears. In domestic life, it is gentle, patient, and deeply loyal to its household while remaining a discerning, formidable protector against genuine threats.",
+      "Built for hard agricultural labor in raw coastal weather, the Bouvier des Flandres pairs heavy bone and dense muscle with agile, ground-covering movement. Its body forms a compact square, supported by a deep ribcage, short loin, and straight, substantial legs. A harsh, dry outer coat roughly 6 cm long lies tousled over a close, fine undercoat, while thick eyebrows, a coarse moustache, and a heavy beard give the head its unmistakable rugged outline. Dark oval eyes framed by black rims convey calm judgment rather than nervous energy. At home, the breed is affectionate, patient, and quietly watchful, staying relaxed indoors while remaining a resolute deterrent if a real threat appears.",
 
     history:
-      "The breed emerged in the agricultural region of Flanders—spanning northern France and western Belgium—where monastic orders and local farmers bred rugged, all-weather working dogs capable of managing heavy livestock, pulling carts, and guarding farmsteads. By the nineteenth century, several regional strains existed, including the Paret, Moerman, and Roeselare types, before veterinary professor Adolphe Reul and dedicated Belgian and French breeders consolidated the population into a unified working type in 1910 and 1912. During World War I, Flanders became a devastated battlefield, and countless Bouviers perished while serving valiantly as ambulance dogs, dispatch messengers, and draft animals pulling machine-gun carts. The breed was rescued from near extinction largely through the survival of a celebrated Belgian army dog named Ch. Nic de Sottegem, from whom nearly all modern Bouviers descend. Today, the Bouvier des Flandres serves worldwide as a versatile working, police, search-and-rescue, and devoted family guardian dog.",
+      "Farmers, cattle merchants, and monastic estates across the borderlands of Belgian and French Flanders selected tough, practical farm dogs strictly for working ability—driving heavy herds, pulling milk carts, turning butter churns, and watching over rural homesteads. Early nicknames such as Vuilbaard (dirty beard), Koehond (cow dog), and Toucheur de Boeuf (cattle driver) reflected those daily chores. Regional types were first shown together in Brussels in May 1910, and breeders drafted a unified description in 1912. World War I devastated Flanders and nearly erased the breed, though individual dogs served bravely as ambulance, messenger, and cart-pulling army dogs; wartime veterinary officers such as Captain Barbry helped preserve surviving bloodlines, including the famed Nic de Sottegem, from which modern populations were rebuilt.",
 
     originalPurpose:
-      "Driving and managing cattle herds across Flanders, pulling farm and milk carts, turning churn wheels, and guarding rural farms and livestock against intruders.",
+      "Driving and controlling cattle herds, hauling dairy and farm carts, turning churn wheels, and guarding homesteads across Flanders.",
 
     currentRoles: [
-      "Working cattle drover and farm guardian",
-      "Police patrol, military sentry, and search-and-rescue dog",
-      "Canine athlete in IPO/IGP protection sports, agility, tracking, carting, and herding trials",
-      "Devoted family companion and vigilant home protector"
+      "Livestock drover and rural property guardian",
+      "Police patrol, military sentry, and search-and-rescue partner",
+      "Competitor in obedience, tracking, herding, agility, and carting",
+      "Loyal family companion and watchful home protector"
     ]
   },
 
@@ -119,51 +121,50 @@ export const bouvier_des_flandres: Breed = {
     },
 
     coatType:
-      "Abundant, tousled, rough, dry, and harsh double coat approximately 6 cm long over the body, slightly tousled without being woolly or curly, paired with a fine, dense, insulating undercoat; forming characteristic eyebrows, moustache, and beard on the head.",
+      "Abundant, harsh, dry, slightly tousled outer coat roughly 6 cm long over a fine, dense, weatherproof undercoat, with shaggy eyebrows, a full moustache, and a thick beard.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Grey, brindle, or charbonné (fawn with black overlay)",
-      "Fawn (ranging from light fawn to deep red-fawn with black mask)",
-      "Salt and pepper",
-      "Solid black (a small white star on the chest is tolerated)"
+      "Grey",
+      "Brindle",
+      "Charbonné (smoky or black-overlaid coat)",
+      "Uniform black (a small white star on the chest is tolerated)"
     ],
 
     sheddingLevel:
-      "Low to moderate; the rough double coat traps most loose dead hair within the coat until brushed out weekly, with heavier seasonal undercoat shedding in spring and autumn",
+      "Low to moderate; the coarse outer coat catches most loose undercoat hair until combed out regularly, with heavier seasonal shedding in spring and autumn",
 
     droolingLevel:
-      "Low to moderate; dry, tight-fitting lips produce minimal drool, though the heavy beard holds water after drinking",
+      "Low to moderate; tight, dry lips limit saliva, though the heavy beard drips water after drinking",
 
     distinctiveFeatures: [
-      "Compact, short-coupled, square-proportioned working silhouette conveying substantial bone and muscular power without clumsiness",
-      "Height at the withers of 62 to 68 cm for males (ideal 65 cm) and 59 to 65 cm for females (ideal 62 cm)",
-      "Working weight of 35 to 40 kg for males and 27 to 35 kg for females in lean, athletic condition",
-      "Tousled, rough, weather-resistant double coat roughly 6 cm long with heavy eyebrows, moustache, and beard",
-      "Massive, well-proportioned head accentuated by facial furnishings, with parallel planes of skull and broad, tapering muzzle",
-      "Complete, regular scissor bite with powerful jaws and strong, white, evenly set teeth",
-      "Medium-sized, slightly oval dark brown eyes with black rims expressing bold intelligence and calm energy",
-      "High-set, triangular drop ears carried close to the cheeks (or naturally triangular uncropped ears)",
-      "Strong, muscular, slightly arched neck widening cleanly into well-laid-back shoulders without dewlap",
-      "Deep chest extending down to the elbows with well-sprung ribs, a short, broad, muscular back, and firm loin",
-      "High-set tail carried cheerfully in motion in line with the spine (some dogs are born with a natural bobtail)",
-      "Straight, heavy-boned forelegs and powerful, well-angulated thighs with compact, round cat-like feet and dark nails"
+      "Compact, square-proportioned working body where body length closely matches height at the withers",
+      "Withers height of 62 to 68 cm for males (ideal 65 cm) and 59 to 65 cm for females (ideal 62 cm)",
+      "Lean working weight of roughly 35 to 40 kg for males and 27 to 35 kg for females",
+      "Harsh, dry, tousled double coat about 6 cm long with heavy eyebrows, moustache, and beard",
+      "Substantial head with a 3:2 skull-to-muzzle ratio, parallel top planes, and black-rimmed nose and lips",
+      "Strong jaws with a regular scissor bite and healthy, evenly spaced white teeth",
+      "Dark brown, slightly oval eyes with black rims expressing quiet intelligence and steady nerve",
+      "High-set triangular drop ears carried close to the cheeks",
+      "Muscular, slightly arched neck flowing cleanly into well-angled shoulders with no throatiness",
+      "Deep chest reaching the elbows, well-sprung ribs, short broad back, and strong loin",
+      "High-set tail carried gaily on the move; some dogs are born naturally tailless",
+      "Heavy-boned straight forelegs, powerful hindquarters, compact round feet with dark nails, and a free, single-tracking fast trot"
     ]
   },
 
   temperament: {
     traits: [
-      "Calm, balanced, and composed in everyday household life",
-      "Deeply loyal, affectionate, and protective of family members",
-      "Courageous, fearless, and resolute when defending home or loved ones",
-      "Highly intelligent, observant, and quick to assess situations",
-      "Reserved, aloof, and discerning with unfamiliar strangers without unprovoked aggression",
-      "Patient, gentle, and steady companion for familiar, respectful children",
-      "Strong-willed and independent problem-solver requiring confident leadership",
-      "High working stamina and enthusiasm for purposeful physical tasks",
-      "Natural herding and guarding instincts toward livestock and property",
-      "Low indoor reactivity, conserving energy for genuine duties"
+      "Calm, even-tempered, and composed inside the home",
+      "Deeply devoted and protective toward familiar household members",
+      "Bold, fearless, and steady when confronting a genuine threat",
+      "Clever, observant, and quick to read people and surroundings",
+      "Naturally reserved with strangers without unprovoked hostility",
+      "Gentle and patient with respectful children it knows well",
+      "Independent thinker that thrives under fair, confident guidance",
+      "High stamina and eagerness for purposeful outdoor work",
+      "Strong instinctive drive to herd, patrol, and guard property"
     ],
 
     scores: {
@@ -182,7 +183,7 @@ export const bouvier_des_flandres: Breed = {
   care: {
     exercise: {
       level:
-        "High; an energetic, endurance-driven working breed requiring daily sustained physical exercise and structured mental engagement",
+        "High; an athletic working breed that needs daily sustained physical outings paired with structured mental tasks",
 
       minutesPerDay: {
         min: 60,
@@ -190,11 +191,11 @@ export const bouvier_des_flandres: Breed = {
       },
 
       activities: [
-        "Daily brisk trail walks, long hikes, and structured outdoor exploration",
-        "Canine sports including herding trials, agility, tracking, carting, and IPO/IGP obedience",
-        "Interactive fetch, tug-of-war, and nosework scent search games",
-        "Free running and play sessions in a securely fenced yard",
-        "Drafting and recreational cart-pulling once skeletal maturity is achieved"
+        "Brisk daily walks, trail hikes, and varied outdoor exploration",
+        "Structured canine sports such as herding, tracking, agility, obedience, and carting",
+        "Interactive retrieve, tug, and scent-search games",
+        "Off-leash running and play inside a large, securely fenced yard",
+        "Recreational draft work once adult bone and joint maturity is complete"
       ]
     },
 
@@ -202,35 +203,35 @@ export const bouvier_des_flandres: Breed = {
       level: "High",
 
       brushing:
-        "Brush and comb thoroughly two to three times weekly using a slicker brush, pin brush, and wide-toothed metal comb down to the skin to remove dead undercoat and prevent painful mats from forming in the dense rough coat, beard, and leg furnishings.",
+        "Brush thoroughly at least once or twice weekly—and more often in active outdoor dogs—using a slicker or pin brush followed by a large metal comb down to the skin to clear dead undercoat and stop mats from tightening in the beard, chest, and legs.",
 
       bathing:
-        "Bathe every six to eight weeks or when soiled, using a texturizing or gentle canine shampoo that preserves the harsh, weather-resistant outer coat; dry thoroughly down to the skin.",
+        "Bathe every six to eight weeks or as needed with a mild canine shampoo that preserves the harsh outer texture, rinsing and drying thoroughly down to the skin.",
 
       notes: [
-        "Schedule professional or skilled home hand-stripping and scissoring every six to eight weeks to maintain the signature tousled working silhouette and prevent coat matting.",
-        "Wash and dry the thick beard and moustache regularly after meals and drinking to prevent food buildup, moisture dermatitis, and odor.",
-        "Inspect the drop ears weekly for hair growth inside the canal, wax buildup, or moisture, cleaning gently with an approved veterinary cleanser.",
-        "Trim stray hair between the paw pads and trim heavy dark nails every two to three weeks.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste."
+        "Have the coat professionally tidied, scissored, or stripped every six to eight weeks to keep the tousled working shape manageable and mat-free.",
+        "Rinse and towel-dry the beard and moustache regularly after eating and drinking to avoid trapped food, odor, and damp skin irritation.",
+        "Check drop ears every week for moisture, wax, or excess ear-canal hair, cleaning gently with a veterinarian-approved solution.",
+        "Trim heavy nails every one to two weeks and keep excess hair neat between the paw pads.",
+        "Brush teeth several times a week with enzymatic canine toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; highly intelligent, observant, and eager to work with a respected handler, yet strong-willed and easily bored by repetitive drills, requiring calm, consistent, reward-based leadership",
+        "Moderate; bright and capable of advanced work, but independent enough to tune out repetitive drills unless guided with calm consistency and clear rewards",
 
       tips: [
-        "Use positive reinforcement, high-value food treats, and enthusiastic interactive play.",
-        "Begin obedience, loose-leash walking, recall, and impulse-control training in early puppyhood before substantial adult strength develops.",
-        "Establish clear, fair, and consistent household rules and property boundaries from day one.",
-        "Never use harsh physical punishment or repetitive drilling, which cause this thoughtful working dog to become stubborn or defensive.",
-        "Channel natural herding and guarding drives into structured dog sports, tracking, or obedience.",
-        "Always exercise within a securely fenced property of at least five to six feet in height."
+        "Rely on positive reinforcement, valued food rewards, and engaging play sessions.",
+        "Start leash manners, recall, and impulse control early in puppyhood before adult weight and pulling strength arrive.",
+        "Set consistent, fair house rules from the first day so natural guarding instincts stay well directed.",
+        "Avoid harsh corrections or monotonous repetition, which can make this thoughtful breed dig in its heels.",
+        "Keep heavy jumping and long forced runs off-limits for growing puppies to protect developing joints.",
+        "Provide a large, securely enclosed outdoor area for safe off-leash exercise."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, calm vaccinated dogs of varied sizes, livestock, household noises, vehicles, and grooming handling. Early structured socialization is essential to ensure natural guardian reserve matures into calm, confident composure in public."
+        "Expose puppies early and positively to unfamiliar people, well-mannered dogs, varied surfaces, everyday noises, and full-body grooming handling. Thoughtful early socialization channels natural wariness into steady, confident public manners."
     },
 
     livingEnvironment: {
@@ -238,84 +239,83 @@ export const bouvier_des_flandres: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cool, wet, and temperate climates, where the harsh weatherproof double coat provides superior thermal protection",
-        "Warm climates, provided indoor air conditioning, shade, and cool water are continuously available and vigorous exercise occurs during cool morning or evening hours"
+        "Cool, damp, and temperate climates, where the harsh, insulating double coat excels outdoors",
+        "Warmer climates only with reliable indoor air conditioning, shade, fresh water, and exercise scheduled during cool morning or evening hours"
       ],
 
       aloneTimeTolerance:
-        "Moderate when given sufficient daily physical and mental exercise, though deeply bonded to its family and happiest when included in household activities."
+        "Moderate once daily exercise and mental work are met, though this people-oriented breed prefers being part of everyday family life rather than left isolated."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large active working breeds, with controlled calorie and mineral levels to support steady skeletal growth.",
+      "Complete, balanced nutrition tailored for large breeds, often with a somewhat lower protein level than many other large working dogs, matched to age and activity.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a large-breed growth formula supporting steady bone development.",
+        "Three to four measured small meals per day until about six months old, then two daily meals on a large-breed growth diet that supports steady, unhurried skeletal development.",
       adult:
-        "Two measured meals daily to support steady energy and reduce digestive discomfort.",
+        "Two measured meals per day to sustain working energy and reduce stomach distension.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals per day adjusted for slower metabolism, joint support, and healthy lean mass."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, muscular body silhouette where the ribs are easily felt beneath the thick rough coat. Divide daily food into two distinct meals, restrict vigorous running for at least one hour before and after eating to mitigate bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure every meal carefully and monitor body condition by feeling for the ribs beneath the dense coat, since thick hair easily hides weight gain. Split daily rations into two meals, keep vigorous running off-limits for at least an hour before and after feeding to help reduce bloat risk, and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical stress on hips and elbows.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Feed a large-breed puppy formula during growth; avoid calcium supplements unless prescribed by a veterinarian.",
-      "Wipe the heavy facial beard after meals and water breaks.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Many Bouviers thrive on a diet slightly lower in protein than other large breeds; confirm the ideal macronutrient balance with your veterinarian.",
+      "Keep the dog lean and athletic so extra body weight does not strain the hips and elbows.",
+      "Feed a large-breed puppy formula during growth and avoid unprescribed calcium supplements.",
+      "Rest the dog before and after meals as a practical precaution against gastric dilatation-volvulus (bloat).",
+      "Count training treats within the daily calorie budget and wipe the beard clean after meals.",
+      "Make any diet transitions gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly based on working workload, growth stage, and outdoor temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Energy and protein needs shift with age, coat season, and daily workload. Work with a veterinarian to set exact portions and formula choices."
   },
 
   health: {
     overview:
-      "The Bouvier des Flandres is a hardy, robust, and resilient working breed with a typical life expectancy of 10 to 12 years. Primary health considerations reflect its large, deep-chested working conformation, including orthopedic screening for hip and elbow dysplasia, ophthalmic examinations including gonioscopy for primary glaucoma and hereditary cataracts, cardiac evaluations for subvalvular aortic stenosis (SAS), and preventive precautions against gastric dilatation-volvulus (bloat) and laryngeal paralysis.",
+      "The Bouvier des Flandres is generally robust and long-working, with a typical lifespan of 10 to 12 years. Documented breed health concerns span orthopedic, ocular, cardiac, neurological, and deep-chested conformational risks—including hip and elbow dysplasia, primary glaucoma and cataracts, subaortic stenosis, gastric dilatation-volvulus (bloat), laryngeal paralysis, hypothyroidism, and a breed-associated myopathy—making targeted pre-breeding screening essential.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and stiffness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Primary glaucoma and goniodysgenesis — abnormal drainage angle development in the eye causing elevated intraocular pressure and potential vision loss, monitored through specialist gonioscopy and tonometry eye exams",
-      "Subvalvular aortic stenosis (SAS) — a congenital narrowing below the aortic valve that restricts blood flow from the heart, monitored through veterinary cardiologist auscultation and echocardiography",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in large deep-chested breeds, requiring emergency veterinary care",
-      "Laryngeal paralysis — degeneration of nerves controlling the laryngeal cartilages in senior dogs, causing noisy breathing and exercise intolerance, manageable with veterinary care",
-      "Hypothyroidism — reduced thyroid hormone production causing lethargy, weight gain, and coat changes, manageable with daily hormone replacement",
-      "Hereditary cataracts and entropion — ocular conditions monitored through annual certified veterinary ophthalmologist examinations"
+      "Hip dysplasia — inherited joint malformation that can lead to painful osteoarthritis and hind-limb stiffness, screened with pre-breeding radiographs",
+      "Elbow dysplasia — developmental elbow joint abnormalities causing forelimb lameness and secondary arthritis",
+      "Glaucoma and cataracts — ocular disorders including elevated intraocular pressure (which can threaten sight rapidly) and lens clouding, monitored through specialist eye examinations",
+      "Subaortic stenosis — a congenital narrowing below the heart's aortic valve that restricts blood flow, assessed by veterinary cardiac examination",
+      "Gastric dilatation-volvulus (bloat) — an acute, life-threatening twisting of the gas-filled stomach seen in large, deep-chested breeds and requiring immediate emergency surgery",
+      "Laryngeal paralysis — progressive nerve degeneration affecting the airway cartilages, typically in older dogs, leading to noisy breathing and heat or exercise intolerance",
+      "Hypothyroidism — underactive thyroid hormone production causing sluggishness, weight gain, and coat thinning, managed with daily veterinary medication",
+      "Additional documented conditions — less frequent but reported breed concerns include Bouvier des Flandres myopathy, megaesophagus, ectopic ureters, portosystemic shunt, epilepsy, and congenital deafness"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic clearances for hips and elbows, specialist cardiac evaluations, thyroid panels, and annual eye exams including gonioscopy.",
-      "Feed two smaller meals daily and avoid vigorous exercise for at least one hour before and after eating to mitigate bloat risk.",
-      "Maintain a lean, muscular body condition throughout growth and adulthood to minimize mechanical wear on joints.",
-      "Inspect and clean the drop ears weekly, removing excess canal hair gently and drying moisture.",
-      "Brush and comb the rough coat two to three times weekly to prevent mats and skin irritation.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding parents have completed recommended orthopedic, cardiac, and specialist ophthalmologist clearances.",
+      "Feed two smaller meals daily and avoid intense activity around mealtimes to lower bloat risk.",
+      "Protect developing joints by avoiding heavy repetitive impact in puppies and keeping adults lean.",
+      "Check and clean drop ears weekly and keep the dense coat combed down to the skin to prevent hidden mats or skin sores.",
+      "Keep up with annual veterinary wellness exams, parasite control, and prompt checks for any eye redness, coughing, or breathing changes."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
+      "Radiographic hip dysplasia evaluation prior to breeding",
       "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination including gonioscopy by a board-certified veterinary ophthalmologist",
-      "Congenital cardiac examination including echocardiography by a veterinary cardiologist",
-      "Thyroid panel evaluation prior to breeding"
+      "Congenital cardiac examination by a qualified veterinary specialist",
+      "Ophthalmologist eye examination (including glaucoma drainage-angle assessment where indicated)",
+      "Thyroid panel evaluation if advised by a veterinarian or breeding program"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times weekly with canine enzymatic toothpaste and schedule regular veterinary dental checks to keep the strong scissor bite and gums healthy.",
 
     earCare:
-      "Inspect the drop ears weekly for wax accumulation, excess canal hair, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the drop ears weekly for wax, redness, odor, or excess hair inside the canal. Clean gently using a veterinarian-recommended cleanser and keep the ear flap dry.",
 
     skinCare:
-      "Part the dense rough double coat weekly during brushing to inspect the skin for external parasites, mats, or moisture dermatitis around the beard. Regular undercoat combing promotes healthy skin airflow."
+      "Part the rough double coat down to the skin during weekly combing to check for parasites, tight mats, or damp skin irritation around the beard and neck."
   },
 
   suitability: {
@@ -326,78 +326,79 @@ export const bouvier_des_flandres: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Experienced dog owners familiar with large, strong-willed working herding breeds and consistent leadership",
-      "Active outdoor households, hikers, and canine sports enthusiasts involved in herding, agility, tracking, or carting",
-      "Families with respectful children seeking a deeply loyal, calm, and protective companion",
-      "Homes with a large, securely fenced yard of at least five to six feet in height",
-      "Owners committed to regular coat brushing and professional grooming upkeep"
+      "Experienced owners comfortable guiding a large, strong-willed working dog with steady leadership",
+      "Active households who enjoy hiking, outdoor routines, or dog sports such as tracking, herding, agility, and carting",
+      "Families with respectful children looking for a calm, affectionate, and watchful companion",
+      "Homes with a spacious, securely fenced yard",
+      "Owners willing to commit time and budget to regular brushing and coat trimming"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for substantial physical strength and protective independence",
-      "Apartment or small urban condominium dwellers without spacious outdoor yard access",
-      "Individuals unwilling to dedicate time and budget to frequent brushing and trimming of a heavy rough coat",
-      "Owners who leave a dog home alone in isolation for long workdays without companionship"
+      "First-time dog owners or tentative handlers unprepared for strong guarding instincts and adult physical strength",
+      "Small apartments or homes without reliable outdoor space for daily exercise",
+      "Households unwilling to keep up with weekly deep combing and regular grooming appointments",
+      "People who leave a dog alone for long stretches every day"
     ]
   },
 
   funFacts: [
-    "In its native Flanders, the Bouvier des Flandres earned the affectionate local nicknames 'Touchie' and 'Vuilbaard' (meaning 'Dirty Beard'), celebrating its shaggy, mud-and-milk-streaked muzzle earned during long days driving cattle and pulling dairy carts.",
-    "During World War I, the Flanders region was turned into a trench-warfare battleground that nearly wiped out the breed; the modern Bouvier owes its survival largely to a decorated Belgian army ambulance and messenger dog named Ch. Nic de Sottegem.",
-    "Unlike many herding breeds that work silently or with high-pitched barks, the Bouvier des Flandres uses its massive chest and heavy shoulders to physically nudge stubborn cattle into place while staying calm and low-key.",
-    "Despite its imposing size and heavy double coat, the Bouvier des Flandres is surprisingly light on its feet and is considered a low-shedding breed because its coarse outer coat traps loose undercoat hairs until brushed out.",
-    "Some Bouvier des Flandres puppies are born naturally without a tail (natural bobtail), a recognized genetic trait noted in the official breed standard."
+    "Flemish farmers affectionately called the breed Vuilbaard ('dirty beard') and Toucheur de Boeuf ('cattle driver') because its shaggy muzzle stayed dusted with mud, hay, and milk from daily farm work.",
+    "World War I nearly wiped out the breed across its Flanders homeland, where Bouviers worked as ambulance, messenger, and cart-pulling army dogs before surviving lines were painstakingly rebuilt.",
+    "Despite weighing up to 40 kg or more, the Bouvier des Flandres moves lightly enough to single-track at a fast trot, placing its feet near a single center line for efficient endurance.",
+    "Its harsh outer coat traps most loose undercoat hair rather than scattering it across furniture, which is why thorough weekly combing matters so much to prevent matting.",
+    "Some Bouvier des Flandres puppies are born naturally without a tail, a recognized inherited trait in the breed."
   ],
 
   faq: [
     {
-      question: "What is a Bouvier des Flandres?",
+      question: "What kind of dog is a Bouvier des Flandres?",
       answer:
-        "The Bouvier des Flandres is a large, rugged Belgian-French cattle-droving and working dog recognized for its tousled, weatherproof rough double coat, heavy beard and moustache, compact muscular build, and calm, protective family loyalty."
+        "It is a large, rugged cattle-driving and farm-guarding breed from Belgium and France, recognizable by its tousled rough double coat, heavy beard and moustache, square muscular build, and steady protective loyalty."
     },
     {
-      question: "How tall and heavy is a Bouvier des Flandres?",
+      question: "How big does a Bouvier des Flandres get?",
       answer:
-        "Adult males stand 62 to 68 cm at the withers (ideal 65 cm) and weigh 35 to 40 kg, while adult females stand 59 to 65 cm (ideal 62 cm) and weigh 27 to 35 kg in lean, muscular working condition."
+        "Adult males stand 62 to 68 cm at the withers (ideal 65 cm) and weigh roughly 35 to 40 kg, while adult females stand 59 to 65 cm (ideal 62 cm) and weigh roughly 27 to 35 kg."
     },
     {
-      question: "How long does a Bouvier des Flandres live?",
+      question: "What is the average lifespan of a Bouvier des Flandres?",
       answer:
-        "With proper nutrition, controlled puppy growth, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 12 years."
+        "Most Bouviers live 10 to 12 years when supported with lean weight management, thoughtful puppy growth care, regular exercise, and routine veterinary checkups."
     },
     {
-      question: "Do Bouvier des Flandres shed a lot, and how are they groomed?",
+      question: "How much grooming does a Bouvier des Flandres require?",
       answer:
-        "They are low-to-moderate shedders because their rough outer coat traps loose undercoat hair rather than dropping it everywhere; however, they require thorough brushing two to three times weekly down to the skin to prevent mats and professional grooming every six to eight weeks."
+        "Expect regular upkeep: brush and comb down to the skin at least once or twice weekly to stop mats from forming in the dense undercoat, wipe the beard after meals and water, trim nails every one to two weeks, and schedule professional trimming every six to eight weeks."
     },
     {
-      question: "Can a Bouvier des Flandres live in an apartment?",
+      question: "Can a Bouvier des Flandres live comfortably in an apartment?",
       answer:
-        "Generally no. Due to their large size, strong guarding instincts, and need for daily outdoor exercise, they thrive best in a house with a securely fenced yard."
+        "Usually no. Its large size, protective territorial awareness, and need for vigorous daily outdoor activity are much better suited to a house with a large, securely fenced yard."
     },
     {
-      question: "Are Bouvier des Flandres good family pets and good with children?",
+      question: "Are Bouvier des Flandres good with families and children?",
       answer:
-        "Yes, with experienced families. They are famously gentle, patient, and protective with familiar children; however, because of their large size and guardian instincts, early socialization and supervision with visiting guests are important."
+        "Yes, in experienced households. They are typically patient, gentle, and deeply loyal with children they know, though early socialization and adult supervision around visiting guests remain important."
     },
     {
-      question: "Is the Bouvier des Flandres suitable for first-time dog owners?",
+      question: "Is a Bouvier des Flandres a good match for a first-time dog owner?",
       answer:
-        "Generally no. The breed is intelligent, strong-willed, and physically powerful, requiring an experienced handler who can provide calm, consistent leadership and early training."
+        "Generally no. This breed combines high intelligence with strong physical power and independent guardian instincts, so it does best with an experienced handler who provides calm, consistent training from puppyhood."
     },
     {
-      question: "How much exercise does a Bouvier des Flandres need each day?",
+      question: "How much daily exercise does a Bouvier des Flandres need?",
       answer:
-        "The breed requires 60 to 90 minutes of daily physical and mental activity, including brisk walks, trail hikes, fetch, and structured dog sports like tracking, herding, or carting."
+        "Plan on 60 to 90 minutes of daily physical and mental activity, such as brisk walks, hikes, fenced play, and structured dog sports like tracking, herding, agility, or carting, while limiting heavy impact in growing puppies."
     },
     {
-      question: "What health screenings are recommended for breeding dogs?",
+      question: "What health screenings should breeders perform for a Bouvier des Flandres?",
       answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, specialist veterinary cardiac exams, annual eye exams including gonioscopy for glaucoma, and thyroid evaluations."
+        "Core pre-breeding checks include hip and elbow radiographic evaluations, a specialist cardiac examination, and a veterinary ophthalmologist eye exam, with thyroid testing considered when advised by a veterinarian."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-bouvier-des-flandres-official-standard",
     "fci-bouvier-des-flandres-nomenclature",
     "srsh-bouvier-des-flandres-standard",
@@ -407,16 +408,23 @@ export const bouvier_des_flandres: Breed = {
     "the-kennel-club-bouvier-des-flandres-standard",
     "ofa-bouvier-des-flandres-chic-requirements",
     "wikimedia-bouvier-des-flandres-lilly-m",
-    "wikimedia-bouvier-des-flandres-600-tomasz-sienicki"
+    "wikimedia-bouvier-des-flandres-600-tomasz-sienicki",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Canis lupus familiaris (Domestic Dog) taxonomic record"
+        }
+      ],
+      verifiedOn: "2026-11-24",
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Domestic dog taxonomic name verified via NatureServe Explorer."
     },
 
     alternateNames: {
@@ -430,16 +438,22 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "fci-bouvier-des-flandres-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: BOUVIER DES FLANDRES (191), Flandrischer Treibhund, Boyero de Flandes"
+          locator: "Official nomenclature (No. 191): BOUVIER DES FLANDRES, VLAAMSE KOEHOND, FLANDRISCHER TREIBHUND, BOYERO DE FLANDES"
         },
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "verified",
-          locator: "History: Touchie, Vuilbaard (Dirty Beard), Flanders Cattle Dog"
+          locator: "History: Vuilbaard (dirty beard), Koehond (cow dog), Toucheur de Boeuf / Pic"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Cow Dog of Flandres, Flanders Cattle Dog, Vlaamse Koehond"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified across FCI Standard No. 191, FCI Nomenclature, SRSH, and AKC."
+      verifiedOn: "2026-11-24",
+      note:
+        "Verified across FCI Standard No. 191, FCI Nomenclature, AKC breed profile, and The Dog API."
     },
 
     group: {
@@ -448,12 +462,12 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "fci-bouvier-des-flandres-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 1 Sheepdogs; with working trial"
+          locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattledogs); Section 2 Cattledogs (except Swiss Cattledogs); with working trial"
         },
         {
           id: "fci-bouvier-des-flandres-nomenclature",
           role: "verified",
-          locator: "Group 1, Section 1 Sheepdogs, with working trial"
+          locator: "Group 1, Section 2 Cattledogs (except Swiss Cattledogs), with working trial"
         },
         {
           id: "akc-bouvier-des-flandres-breed-standard",
@@ -464,11 +478,16 @@ export const bouvier_des_flandres: Breed = {
           id: "the-kennel-club-bouvier-des-flandres-standard",
           role: "verified",
           locator: "Working Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Herding"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "Corrected FCI classification to Group 1, Section 2 (Cattledogs, except Swiss Cattledogs) with working trial; user-facing text omits registry names per Rule 5."
     },
 
     origin: {
@@ -482,16 +501,22 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "fci-bouvier-des-flandres-nomenclature",
           role: "verified",
-          locator: "Countries of origin: Belgium, France"
+          locator: "Countries of origin: BELGIUM, FRANCE"
         },
         {
           id: "srsh-bouvier-des-flandres-standard",
           role: "verified",
-          locator: "Origine: Belgique et France (Flandres)"
+          locator: "Flanders borderland origins (Belgium and France)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Belgium (Flanders region)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: null
+      verifiedOn: "2026-11-24",
+      note:
+        "FCI Standard No. 191 and FCI Nomenclature list both Belgium and France as countries of origin, superseding The Dog API's Belgium-only entry."
     },
 
     overview: {
@@ -505,17 +530,22 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "srsh-bouvier-des-flandres-standard",
           role: "verified",
-          locator: "Historique (1910/1912, Ch. Nic de Sottegem, Première Guerre mondiale) et utilisation"
+          locator: "Historique, utilisation, et caractère"
         },
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the Breed, History (May 1910 Brussels exhibition, 1912 first standard, WWI service)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note:
-        "Synthesized in original prose from FCI Standard No. 191, SRSH, SCC, and AKC official records."
+        "Written in original prose grounded in FCI Standard No. 191, SRSH, SCC, and AKC official records."
     },
 
     physical: {
@@ -524,7 +554,17 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "fci-bouvier-des-flandres-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR (grey, brindle, charbonné, uniform black; white star on chest tolerated; chocolate brown, white, pepper and salt, washed-out, and pale fawn to red disqualified)"
+        },
+        {
+          id: "srsh-bouvier-des-flandres-standard",
+          role: "verified",
+          locator: "PROPORTIONS IMPORTANTES (3:2 skull-to-muzzle, square body), ROBE, COULEUR, DEFAUTS ENTRAINANT L'EXCLUSION"
+        },
+        {
+          id: "akc-bouvier-des-flandres-breed-standard",
+          role: "verified",
+          locator: "General Appearance, Size, Proportion, Head (3:2 ratio), Coat (tousled ~2.5 in, natural taillessness not penalized), Gait (single-tracks at fast trot)"
         },
         {
           id: "the-kennel-club-bouvier-des-flandres-standard",
@@ -532,14 +572,14 @@ export const bouvier_des_flandres: Breed = {
           locator: "General Appearance, Head, Coat, Colour, Size"
         },
         {
-          id: "akc-bouvier-des-flandres-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Coat, Color"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.coat_colors (lists broader unstandardized colour set)"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note:
-        "Compact square conformation, rough 6 cm tousled double coat, beard and moustache, and distinctive features follow official standards."
+        "Coat colours follow FCI Standard No. 191 / SRSH (grey, brindle, charbonné, and uniform black with small white chest star tolerated; FCI disqualifies chocolate brown, white, pepper and salt, washed-out coats, and pale fawn to red, whereas AKC allows fawn and salt-and-pepper and The Dog API lists a much broader unstandardized colour list)."
     },
 
     "physical.height": {
@@ -548,22 +588,32 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "fci-bouvier-des-flandres-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at the withers: From 62 to 68 cm for dogs (ideal 65 cm); From 59 to 65 cm for bitches (ideal 62 cm)."
+          locator: "SIZE AND WEIGHT: Height at withers 62-68 cm for dogs (ideal 65 cm), 59-65 cm for bitches (ideal 62 cm), +/- 1 cm tolerance"
         },
         {
           id: "srsh-bouvier-des-flandres-standard",
           role: "verified",
-          locator: "Taille au garrot: Mâles 62-68 cm (idéal 65 cm); Femelles 59-65 cm (idéal 62 cm)"
+          locator: "Taille au garrot: Mâles 62-68 cm (idéal 65 cm), Femelles 59-65 cm (idéal 62 cm)"
         },
         {
           id: "the-kennel-club-bouvier-des-flandres-standard",
           role: "verified",
-          locator: "Size: Height at withers: Dogs 62-68 cms (24.5-26.75 ins), Bitches 59-65 cms (23.25-25.5 ins)"
+          locator: "Size: Dogs 62-68 cms; Bitches 59-65 cms"
+        },
+        {
+          id: "akc-bouvier-des-flandres-breed-standard",
+          role: "cited",
+          locator: "Height: Dogs 24.5-27.5 inches (ideal 26 in); Bitches 23.5-26.5 inches (ideal 25 in)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height: male 62-70 cm, female 60-67 cm"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note:
-        "Preserved in published unit of centimetres (62–68 cm for males, ideal 65 cm; 59–65 cm for females, ideal 62 cm) exactly as specified in FCI Standard No. 191."
+        "Preserved in published centimetres from FCI Standard No. 191, SRSH, and Royal Kennel Club (62-68 cm males, 59-65 cm females), which supersede The Dog API's wider 62-70 / 60-67 cm range."
     },
 
     "physical.weight": {
@@ -572,22 +622,32 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "fci-bouvier-des-flandres-official-standard",
           role: "verified",
-          locator: "Weight: Approximately 35 to 40 kg for dogs; Approximately 27 to 35 kg for bitches."
-        },
-        {
-          id: "srsh-bouvier-des-flandres-standard",
-          role: "verified",
-          locator: "Poids: Mâles 35 à 40 kg; Femelles 27 à 35 kg"
+          locator: "Weight: Approximately 35-40 kg for dogs; approximately 27-35 kg for bitches"
         },
         {
           id: "scc-bouvier-des-flandres-profile",
           role: "verified",
           locator: "Poids: Mâle 35-40 kg, Femelle 27-35 kg"
+        },
+        {
+          id: "the-kennel-club-bouvier-des-flandres-standard",
+          role: "verified",
+          locator: "Weight: Dogs 35-40 kgs; Bitches 27-35 kgs"
+        },
+        {
+          id: "akc-bouvier-des-flandres-breed-profile",
+          role: "cited",
+          locator: "Weight: 70-110 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight: 32-50 kg (both sexes)"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note:
-        "Preserved in published unit of kilograms (35 to 40 kg for males and 27 to 35 kg for females) exactly as specified in FCI Standard No. 191."
+        "Preserved in published kilograms from FCI Standard No. 191, SCC, and Royal Kennel Club (35-40 kg males, 27-35 kg females), superseding The Dog API's broader 32-50 kg range."
     },
 
     "physical.lifespanYears": {
@@ -601,11 +661,16 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "scc-bouvier-des-flandres-profile",
           role: "verified",
-          locator: "Longévité moyenne: 10 à 12 ans"
+          locator: "Longévité: 10-12 ans"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 10-12 years"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-24",
+      note: "Consistent across AKC, SCC, and The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -614,15 +679,15 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5 to 3/5) - Traps loose hair in rough coat"
+          locator: "Grooming & Shedding: rough double coat traps loose hair until brushed"
         },
         {
           id: "fci-bouvier-des-flandres-official-standard",
           role: "verified",
-          locator: "COAT: Rough, harsh outer coat with fine dense undercoat"
+          locator: "COAT: Harsh outer coat with fine dense undercoat"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note: null
     },
 
@@ -632,16 +697,16 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "fci-bouvier-des-flandres-official-standard",
           role: "verified",
-          locator: "Lips: Tight fitting, dry and well pigmented"
+          locator: "Lips: Tight fitting, dry, strongly pigmented"
         },
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (2/5)"
+          locator: "Breed Traits: Drooling Level and beard care"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Dry, tight-fitting lips produce low to moderate drooling."
+      verifiedOn: "2026-11-24",
+      note: "Dry, tight-fitting lips limit drooling, though facial hair holds water."
     },
 
     "temperament.traits": {
@@ -653,17 +718,22 @@ export const bouvier_des_flandres: Breed = {
           locator: "BEHAVIOUR/TEMPERAMENT: Calm and prudent, wise yet fearless; spirited expression showing intelligence, energy and audacity"
         },
         {
+          id: "akc-bouvier-des-flandres-breed-standard",
+          role: "verified",
+          locator: "Temperament: Equable, resolute, fearless, gentle"
+        },
+        {
           id: "the-kennel-club-bouvier-des-flandres-standard",
           role: "verified",
           locator: "Characteristics and Temperament: Calm, steady, courageous, intelligent"
         },
         {
-          id: "akc-bouvier-des-flandres-breed-standard",
-          role: "verified",
-          locator: "Temperament: Equable, resolute, fearless, gentle"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament: Loyal, intelligent, protective, courageous, calm, gentle"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note: null
     },
 
@@ -673,17 +743,17 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics ratings"
         },
         {
           id: "the-kennel-club-bouvier-des-flandres-standard",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Temperament and working traits"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented working cattle-droving temperament, strong family loyalty, and protective composure."
+        "Editorial 1-5 scores reflecting verified working cattle-droving traits, strong household loyalty, and reserved guardian temperament."
     },
 
     care: {
@@ -692,17 +762,17 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming (brush 1-2x/week with slicker/pin brush and comb, clean beard, nails every 1-2 weeks), Exercise, Training"
         },
         {
           id: "scc-bouvier-des-flandres-profile",
           role: "cited",
-          locator: "Entretien du poil dur, brossage et exercice"
+          locator: "Entretien du poil dur et exercice"
         }
       ],
       verifiedOn: null,
       note:
-        "Combines active working herding dog management with rough double-coat combing and beard hygiene protocols."
+        "Combines kennel club grooming and exercise advice for large rough-coated working dogs."
     },
 
     "care.exercise.level": {
@@ -711,7 +781,7 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
+          locator: "Exercise: active working dog needing daily outings and enclosed space"
         },
         {
           id: "fci-bouvier-des-flandres-official-standard",
@@ -719,7 +789,7 @@ export const bouvier_des_flandres: Breed = {
           locator: "UTILIZATION: Cattle drover, farm guard and defense dog"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note: null
     },
 
@@ -727,19 +797,19 @@ export const bouvier_des_flandres: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "the-kennel-club-bouvier-des-flandres-standard",
-          role: "cited",
-          locator: "Exercise requirements: Over 1 hour per day"
-        },
-        {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations"
+          locator: "Daily exercise guidance"
+        },
+        {
+          id: "the-kennel-club-bouvier-des-flandres-standard",
+          role: "cited",
+          locator: "Working breed activity demands"
         }
       ],
       verifiedOn: null,
       note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic, muscular working breed."
+        "Editorial estimate of 60 to 90 minutes per day for a healthy adult working dog."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -748,12 +818,12 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "cited",
-          locator: "Large size, strong guarding instincts, and need for outdoor yard access"
+          locator: "Exercise: needs a large enclosed area"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial evaluation that large size, protective territorial vigilance, and exercise requirements make apartment living generally unsuitable."
+        "Editorial assessment based on adult size, territorial guarding instincts, and outdoor space needs."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -762,10 +832,10 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations (minimum five to six foot fence)"
+          locator: "Exercise: thrives with a large enclosed area"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note: null
     },
 
@@ -780,10 +850,10 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "verified",
-          locator: "Weather adaptation: excels in cool and temperate climates"
+          locator: "Weather adaptation and double-coat insulation"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note: null
     },
 
@@ -793,7 +863,7 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate; people-oriented working companion"
+          locator: "Family-oriented companion traits"
         }
       ],
       verifiedOn: null,
@@ -806,12 +876,12 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for large working breeds"
+          locator: "Nutrition: requires a diet lower in protein than most other breeds; large-breed feeding guidance"
         }
       ],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for large working breeds prone to rapid skeletal growth and bloat."
+        "Incorporates AKC breed profile guidance noting lower protein needs than many other breeds alongside standard large-breed bloat precautions."
     },
 
     "nutrition.feedingFrequency": {
@@ -820,49 +890,49 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals to mitigate bloat"
+          locator: "Life-stage feeding and divided meals"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule for large breeds."
+      note: "Standard large-breed life-stage meal schedule."
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-bouvier-des-flandres-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, Elbow Dysplasia, CAER Eye examination with gonioscopy, Cardiac evaluation, Thyroid evaluation"
-        },
-        {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "verified",
-          locator: "Health overview: Hip and elbow dysplasia, glaucoma, SAS, bloat, and laryngeal paralysis"
+          locator: "Health: Recommended Health Tests (Hip, Elbow, Cardiac, Ophthalmologist) and documented breed conditions"
+        },
+        {
+          id: "ofa-bouvier-des-flandres-chic-requirements",
+          role: "verified",
+          locator: "OFA CHIC health screening program for Bouvier des Flandres"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note:
-        "Synthesizes national health registry screening protocols with kennel club veterinary profiles."
+        "Distinguishes core orthopedic, cardiac, ocular, and deep-chested conformational risks from less frequent reported breed conditions."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-bouvier-des-flandres-chic-requirements",
-          role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, glaucoma, subvalvular aortic stenosis (SAS), autoimmune thyroiditis"
-        },
-        {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "verified",
-          locator: "Gastric dilatation-volvulus (bloat) and laryngeal paralysis"
+          locator: "Health conditions: hip dysplasia, elbow dysplasia, glaucoma, cataracts, subaortic stenosis, gastric dilatation/bloat, laryngeal paralysis, hypothyroidism, Bouvier des Flandres myopathy, megaesophagus, ectopic ureters, portosystemic shunt, epilepsy, deafness"
+        },
+        {
+          id: "ofa-bouvier-des-flandres-chic-requirements",
+          role: "verified",
+          locator: "Breed health screening focus areas (hips, elbows, heart, eyes)"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+        "Separates primary conformational and screened hereditary disorders from less frequent reported conditions."
     },
 
     "health.preventiveCare": {
@@ -871,25 +941,30 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "cited",
-          locator: "Routine care, bloat precautions, coat combing, and veterinary wellness checks"
+          locator: "Health, grooming, exercise, and puppy joint care guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to large rough-coated working dogs."
+      note: "General preventive care for large, deep-chested, rough-coated working breeds."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-bouvier-des-flandres-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests From the National Breed Club: Hip Evaluation, Elbow Evaluation, Cardiac Exam, Ophthalmologist Evaluation"
+        },
+        {
           id: "ofa-bouvier-des-flandres-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, Radiographic Elbow Dysplasia evaluation, CAER Eye examination with gonioscopy, Congenital Cardiac evaluation, Thyroid panel"
+          locator: "OFA CHIC health testing program for Bouvier des Flandres"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note:
-        "Screenings summarize published parent club and health registry protocols."
+        "Reflects the four core National Breed Club recommended evaluations (hips, elbows, cardiac, ophthalmologist), with thyroid testing noted as an optional veterinary check."
     },
 
     "health.dentalCare": {
@@ -898,16 +973,16 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "fci-bouvier-des-flandres-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong white teeth, scissor bite, complete dentition"
+          locator: "Jaws/teeth: strong white teeth, scissor bite"
         },
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Routine dental hygiene"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine dental care guidance."
     },
 
     "health.earCare": {
@@ -916,16 +991,16 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "fci-bouvier-des-flandres-official-standard",
           role: "cited",
-          locator: "Ears: natural triangular drop ears carried close to head"
+          locator: "Ears: triangular drop ears carried close to the cheeks"
         },
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Routine ear inspection and cleaning"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: "Standard drop-ear hygiene guidance."
     },
 
     "health.skinCare": {
@@ -934,11 +1009,11 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "fci-bouvier-des-flandres-official-standard",
           role: "cited",
-          locator: "Skin: tight fitting without excessive looseness; rough tousled double coat"
+          locator: "Skin: tight-fitting without looseness under rough double coat"
         }
       ],
       verifiedOn: null,
-      note: "General skin and rough-coat care guidelines."
+      note: "General skin and undercoat inspection guidance."
     },
 
     suitability: {
@@ -947,17 +1022,17 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "About the Breed, Temperament, Grooming, and Exercise"
         },
         {
           id: "the-kennel-club-bouvier-des-flandres-standard",
           role: "cited",
-          locator: "Characteristics and working lifestyle suitability"
+          locator: "Working breed characteristics"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, grooming demands, and guardian instincts."
+        "Editorial suitability assessment based on size, grooming load, guarding instincts, and training needs."
     },
 
     funFacts: {
@@ -966,16 +1041,21 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "verified",
-          locator: "'Touchie' and 'Vuilbaard' (Dirty Beard) nicknames, World War I rescue via Ch. Nic de Sottegem, low-shedding rough coat"
+          locator: "History (Vuilbaard, Toucheur de Boeuf, WWI ambulance and messenger work) and Grooming"
+        },
+        {
+          id: "akc-bouvier-des-flandres-breed-standard",
+          role: "verified",
+          locator: "Gait (single-tracks at fast trot) and Tail (natural taillessness not penalized)"
         },
         {
           id: "fci-bouvier-des-flandres-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Flanders cattle-droving heritage and natural bobtail occurrence"
+          locator: "Brief historical summary and natural taillessness note"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-24",
+      note: "Verified breed history, gait, coat, and tail facts written in original prose."
     },
 
     faq: {
@@ -984,24 +1064,24 @@ export const bouvier_des_flandres: Breed = {
         {
           id: "fci-bouvier-des-flandres-official-standard",
           role: "verified",
-          locator: "Origin, height (62-68 cm / 59-65 cm), weight (35-40 kg / 27-35 kg), and coat"
+          locator: "Origin, height (62-68 cm / 59-65 cm), weight (35-40 kg / 27-35 kg), coat"
         },
         {
           id: "akc-bouvier-des-flandres-breed-profile",
           role: "verified",
-          locator: "Lifespan (10-12 years), grooming, apartment living, owner experience, and exercise needs"
+          locator: "Lifespan (10-12 years), grooming, enclosed yard needs, recommended health tests"
         },
         {
           id: "ofa-bouvier-des-flandres-chic-requirements",
           role: "verified",
-          locator: "Recommended health screening panel (hips, elbows, heart, eyes/gonioscopy, thyroid)"
+          locator: "Breed health screening program"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-24",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and health registry data without naming registries in prose."
+        "FAQ answers synthesize verified kennel club standards and health screening guidance in original prose without naming registries."
     }
   },
 
-  updatedOn: "2026-11-12"
+  updatedOn: "2026-11-24"
 };

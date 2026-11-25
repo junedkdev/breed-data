@@ -173,14 +173,14 @@
 170:alaskan_malamute - CG
 171:landseer - CG
 172:welsh_corgi,_cardigan - CG
+173:carpathian_shepherd_dog - CG
+174:kerry_blue_terrier - CG
+175:basset_griffon_vendeen,_grand - CG
+176:irish_water_spaniel - CG
+177:belgian_shepherd_dog_(laekenois) - CG
+178:bouvier_des_flandres - CG
+179:basset_fauve_de_bretagne - CG
 
-173:carpathian_shepherd_dog - C
-174:kerry_blue_terrier - C
-175:basset_griffon_vendeen,_grand - C
-176:irish_water_spaniel - C
-177:belgian_shepherd_dog_(laekenois) - C
-178:bouvier_des_flandres - C
-179:basset_fauve_de_bretagne - C
 180:australian_cattle_dog - C
 181:grand_anglo-francais_blanc_et_noir - C
 182:picardy_spaniel - C
@@ -249,15 +249,15 @@
 245:austrian_black_and_tan_hound - C
 246:cavalier_king_charles_spaniel - C
 247:taiwan_dog - C
+248:smalandsstovare - C
+249:griffon_fauve_de_bretagne - C
+250:st._bernard - C
+251:griffon_nivernais - C
+252:carolina_dog - C
+253:kishu_ken - C
+254:leonberger - C
+255:braque_francais_(pyrenees) - C
 
-248:smalandsstovare
-249:griffon_fauve_de_bretagne
-250:st._bernard
-251:griffon_nivernais
-252:carolina_dog
-253:kishu_ken
-254:leonberger
-255:braque_francais_(pyrenees)
 256:poodle
 257:karelian_bear_dog
 258:lapponian_herder
