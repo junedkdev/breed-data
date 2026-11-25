@@ -15519,35 +15519,35 @@ export const sources = defineSources({
     note: "Official English FCI Standard No. 267 (valid standard dated 1999-08-09). Covers Norwegian origin, Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds classification with working trial, rectangular build, harsh dense tricolour coat, withers height (males 52-60 cm, ideal 56 cm; females 50-58 cm, ideal 54 cm), and hunting behavior on hare.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-halden-hound-nomenclature": {
+"fci-halden-hound-nomenclature": {
     id: "fci-halden-hound-nomenclature",
     name: "FCI - Haldenstøver Breed Nomenclature (No. 267)",
-    url: "https://www.fci.be/en/nomenclature/HALDEN-HOUND-267.html",
+    publisher: "Fédération Cynologique Internationale",
+    url: "https://www.fci.be/en/nomenclature/HALDENSTOVER-267.html",
     type: "official_breed_standard",
-    publishedOn: "1999-08-09",
-    accessedOn: "2026-11-11",
-    note: "Official FCI breed nomenclature record confirming Norway as country of origin, Group 6 Section 1.2 classification with working trial, definitive recognition date (1960-06-25), and official multilingual names (Haldenstøver, Chien Courant de Halden, Haldenlaufhund, Sabueso de Halden).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "1965-10-07",
+    accessedOn: "2026-11-21",
+    note: "Updated to live canonical FCI nomenclature URL. Confirms Norway as country of origin, Group 6 Section 1.2 Medium-sized Hounds with working trial, definitive acceptance 1965-10-07, valid standard 1999-08-09, and official names (Halden Hound, Chien courant de Halden, Halden-Bracke, Sabueso Halden)."
   },
-  "nkk-haldenstover-rasestandard": {
+"nkk-haldenstover-rasestandard": {
     id: "nkk-haldenstover-rasestandard",
-    name: "Norsk Kennel Klub - Rasestandard for Haldenstøver (FCI 267)",
-    url: "https://www.nkk.no/raser/haldenstover-article8174-815.html",
+    name: "Norsk Kennel Klub - Haldenstøver (Raseprofil & Standard FCI 267)",
+    publisher: "Norsk Kennel Klub",
+    url: "https://www.nkk.no/hunderaser-og-kjop-av-hund/hundevelger/raser/haldenstover",
     type: "official_breed_standard",
     publishedOn: "1999-08-09",
-    accessedOn: "2026-11-11",
-    note: "Official Norwegian Kennel Club (Norsk Kennel Klub / NKK) breed standard and profile for Haldenstøver, documenting its southeastern Norwegian origin in Halden/Østfold, historical development, height limits, typical weight (approx. 20-29 kg), working trial traits, and health screening.",
-    publisher: "Norsk Kennel Klub"
+    accessedOn: "2026-11-21",
+    note: "Updated to live NKK Haldenstøver breed page (supplemented by NKK's official FCI 267 PDF and Norwegian harehound breeding program). Covers 1860s Bisseberghund/Ankerstøver history, 1938 name, 1952 approval, 52-60 / 50-58 cm height, 10-20 annual puppy registrations, low hereditary disease burden, and HD screening recommendations."
   },
-  "nhkf-haldenstover-raseprofil": {
+"nhkf-haldenstover-raseprofil": {
     id: "nhkf-haldenstover-raseprofil",
-    name: "Norske Harehundklubbers Forbund - Om Haldenstøver",
-    url: "https://harehund.no/om-harehunder/haldenstover/",
+    name: "Haldenstøverklubben - Rasestandard for Haldenstøver",
+    publisher: "Haldenstøverklubben / Norske Harehundklubbers Forbund",
+    url: "https://haldenstoverklubben.com/avlsrad/rasestandard.html",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-11",
-    note: "Official Norwegian Harehound Association (NHKF / Haldenstøverklubben) breed portal documenting the breed's foundation in Østfold, Borge hound ancestry, solo hare-tracking hunting style, weight guidelines (23-29 kg males, 20-25 kg females), lifespan (12-14 years), and hip dysplasia health screening.",
-    publisher: "Norske Harehundklubbers Forbund"
+    accessedOn: "2026-11-21",
+    note: "Updated to live official Norwegian Haldenstøver breed club standard page (52-60 cm ideal 56 cm males; 50-58 cm ideal 54 cm females; white-predominant tricolour coat)."
   },
   "ukc-halden-hound-breed-standard": {
     id: "ukc-halden-hound-breed-standard",
@@ -15559,25 +15559,25 @@ export const sources = defineSources({
     note: "Official UKC breed standard (Scenthound Group, recognized 2006) covering conformation, rectangular proportions, tricolour coat pattern, height (males 20.5-23.5 in / 52-60 cm; females 19.5-23 in / 50-58 cm), weight (approx. 45 to 64 lbs / 20-29 kg), and hunting behavior.",
     publisher: "United Kennel Club"
   },
-  "wikimedia-haldenstover-lilly-m": {
+"wikimedia-haldenstover-lilly-m": {
     id: "wikimedia-haldenstover-lilly-m",
-    name: "Wikimedia Commons - File:Haldenstøver.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Haldenst%C3%B8ver.jpg",
+    name: "Wikimedia Commons - File:Halden Hound.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Halden_Hound.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-11",
-    note: "Photograph of an adult Haldenstøver (Halden Hound) standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25, 2592 x 1944 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2016-12-03",
+    accessedOn: "2026-11-21",
+    note: "Preserved existing source ID; replaced nonexistent File:Haldenstøver.jpg with CC BY-SA 4.0 photograph (600 x 502 px) of a tricolour female Halden Hound by Canarian (2016-12-03)."
   },
-  "wikimedia-haldenstovare-600-tomasz-sienicki": {
+"wikimedia-haldenstovare-600-tomasz-sienicki": {
     id: "wikimedia-haldenstovare-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Haldenstovare 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Haldenstovare_600.jpg",
+    name: "Wikimedia Commons - File:Haldenstovare.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Haldenstovare.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-11",
-    note: "Photograph of a Halden Hound standing outdoors by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2006-05-31",
+    accessedOn: "2026-11-21",
+    note: "Preserved existing source ID; replaced nonexistent File:Haldenstovare_600.jpg with CC BY-SA 3.0 photograph (450 x 364 px) of a Halden Hound by Sabine (dogwiki), uploaded by Ltshears (2006-05-31)."
   },
   "fci-caucasian-shepherd-dog-official-standard": {
     id: "fci-caucasian-shepherd-dog-official-standard",
@@ -15589,15 +15589,15 @@ export const sources = defineSources({
     note: "Official English FCI Standard No. 328 (valid standard dated 2010-10-13, published 2011-03-02). Covers Russian origin in the Caucasus, Group 2 Section 2.2 Mountain type Molossoids classification without working trial, massive bone, bear-like head, double coat with mane, withers height (males desirable 72-75 cm, minimum 68 cm; females desirable 67-70 cm, minimum 64 cm), and weight (males minimum 50 kg, females minimum 45 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-caucasian-shepherd-dog-nomenclature": {
+"fci-caucasian-shepherd-dog-nomenclature": {
     id: "fci-caucasian-shepherd-dog-nomenclature",
     name: "FCI - Caucasian Shepherd Dog Breed Nomenclature (No. 328)",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/en/nomenclature/CAUCASIAN-SHEPHERD-DOG-328.html",
     type: "official_breed_standard",
-    publishedOn: "2011-03-02",
-    accessedOn: "2026-11-11",
-    note: "Official FCI breed nomenclature record confirming Russia as country of origin, Group 2 Section 2.2 classification without working trial, definitive recognition date (1984-08-23), and official multilingual names (Kavkazskaïa Ovtcharka, Berger du Caucase, Kaukasischer Schäferhund, Pastor del Cáucaso).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "1984-08-23",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Russian Federation as country of origin, Group 2 Section 2.2 Mountain type Molossoids without working trial, definitive acceptance 1984-08-23, valid standard 2010-10-13, and official names (Kavkazskaïa Ovtcharka, Berger du Caucase, Kaukasischer Schäferhund, Perro pastor del Cáucaso)."
   },
   "rkf-caucasian-shepherd-dog-breed-standard": {
     id: "rkf-caucasian-shepherd-dog-breed-standard",
@@ -15629,35 +15629,35 @@ export const sources = defineSources({
     note: "Official UKC breed standard (Guardian Dog Group, recognized 1995) covering conformation, rectangular proportions, double coat, height (males 27 to 30 in / 68-75 cm; females 25 to 28 in / 64-70 cm), and guardian behavior.",
     publisher: "United Kennel Club"
   },
-  "caucasian-shepherd-dog-joint-morphometry-study-2018": {
+"caucasian-shepherd-dog-joint-morphometry-study-2018": {
     id: "caucasian-shepherd-dog-joint-morphometry-study-2018",
-    name: "Radiographic and Morphometric Evaluation of Hip and Elbow Dysplasia in Caucasian Shepherd Dogs (Veterinary Surgery & Orthopaedics)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/29984512/",
+    name: "Longevity of companion dog breeds: those at risk from early death (McMillan et al., Scientific Reports 2024)",
+    publisher: "Scientific Reports / Nature Portfolio (PubMed)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/38302530/",
     type: "scientific",
-    publishedOn: "2018-07-01",
-    accessedOn: "2026-11-11",
-    note: "Peer-reviewed scientific study evaluating the prevalence, joint laxity parameters, and radiographic screening protocols for hip and elbow dysplasia in Caucasian Shepherd Dogs and related giant mountain guardian breeds.",
-    publisher: "Journal of Veterinary Orthopaedics / PubMed"
+    publishedOn: "2024-02-01",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; replaced fabricated PMID 29984512 (unrelated human Strongyloides paper) with peer-reviewed longevity study across 584,734 UK dogs and 155 breeds (Sci Rep. 2024 Feb 1;14(1):531, PMID 38302530)."
   },
-  "wikimedia-caucasian-shepherd-dog-lilly-m": {
+"wikimedia-caucasian-shepherd-dog-lilly-m": {
     id: "wikimedia-caucasian-shepherd-dog-lilly-m",
-    name: "Wikimedia Commons - File:Caucasian Shepherd Dog.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Caucasian_Shepherd_Dog.jpg",
+    name: "Wikimedia Commons - File:Owczarek kaukaski 65556.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Owczarek_kaukaski_65556.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-11",
-    note: "High-resolution photograph (2592 x 1944 px) of an adult long-haired Caucasian Shepherd Dog standing in profile outdoors in snow by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2006-10-07",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; replaced nonexistent File:Caucasian_Shepherd_Dog.jpg with CC BY-SA 3.0 photograph (2430 x 2028 px) of a Caucasian Shepherd Dog by Pleple2000 (captured 2006-10-01 in Rybnik, Poland, uploaded 2006-10-07)."
   },
-  "wikimedia-caucasian-shepherd-dog-600-tomasz-sienicki": {
+"wikimedia-caucasian-shepherd-dog-600-tomasz-sienicki": {
     id: "wikimedia-caucasian-shepherd-dog-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Caucasian Shepherd Dog 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Caucasian_Shepherd_Dog_600.jpg",
+    name: "Wikimedia Commons - File:Caucasian Ovcharka.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Caucasian_Ovcharka.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-11",
-    note: "Photograph of a Caucasian Shepherd Dog standing outdoors by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2006-07-19",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; replaced nonexistent File:Caucasian_Shepherd_Dog_600.jpg with CC BY-SA 3.0 photograph (800 x 626 px) of a 15-month-old female Caucasian Ovcharka by Gary Sicard (Gsicard), captured 2006-07-14, uploaded 2006-07-19."
   },
   "fci-english-springer-spaniel-official-standard": {
     id: "fci-english-springer-spaniel-official-standard",
@@ -22295,6 +22295,206 @@ export const sources = defineSources({
     publishedOn: "2013-09-23",
     accessedOn: "2026-11-21",
     note: "Photograph (597 x 445 px) of a female Burgos Pointer standing in profile by Canarian (EXIF capture date 2013-06-29, uploaded 2013-09-23). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-billy-official-standard": {
+    id: "fci-billy-official-standard",
+    name: "FCI - Billy Official Breed Standard No. 25",
+    url: "https://www.fci.be/Nomenclature/Standards/025g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1997-04-24",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 25 (valid standard dated 1973-12-28, English publication dated 1997-04-24). Covers French origin, Group 6 Section 1.1 Large-sized hounds classification with working trial, forequarters more powerful than hindquarters, clean non-fleshy lips, relatively high-set flat drop ears, very deep narrow chest, fine supple white skin with optional dark spots, short harsh white/milk-coffee/orange-or-lemon coat (black or red hair disqualified), 1/2 cm slight overshot tolerance, and withers height (dogs 60-70 cm, bitches 58-62 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-billy-nomenclature": {
+    id: "fci-billy-nomenclature",
+    name: "FCI - Billy Breed Nomenclature (No. 25)",
+    url: "https://www.fci.be/en/nomenclature/Billy-25.html",
+    type: "official_breed_standard",
+    publishedOn: "1997-04-24",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.1 Large-sized Hounds classification with working trial, definitive acceptance date (1963-10-14), valid standard date (1973-12-28), English publication date (1997-04-24), and official multilingual name (Billy).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "scc-billy-profile": {
+    id: "scc-billy-profile",
+    name: "Société Centrale Canine (SCC) - Billy",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/billy",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official French Kennel Club (SCC) breed profile for the Billy documenting late-19th-century Poitou origin under Hublot du Rivault (recreating King Louis XII's Chiens Blancs du Roy / Chiens Blancs Greffiers), height (58-70 cm), weight explicitly listed as unspecified (NP), 40-50 km daily hunting gallop, early pack-obedience training, unsuitability for solitary city life, and seasonal hunting versus maintenance nutrition.",
+    publisher: "Société Centrale Canine"
+  },
+  "scc-club-du-chien-d-ordre-billy": {
+    id: "scc-club-du-chien-d-ordre-billy",
+    name: "Club du Chien d'Ordre (SCC) - Le Billy",
+    url: "https://www.centrale-canine.fr/club-du-chien-d-ordre/nos-portees/billy",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official French parent breed club (Club du Chien d'Ordre, affiliated with the Société Centrale Canine) breed portal for Le Billy ('chien de Billy'), overseeing traditional French grande vènerie pack hounds.",
+    publisher: "Club du Chien d'Ordre"
+  },
+  "canine-chronicle-billy-ria-horter": {
+    id: "canine-chronicle-billy-ria-horter",
+    name: "Ria Hörter - Billy: The French Pack Hound (Canine Chronicle)",
+    url: "https://caninechronicle.com/current-articles/billy-the-french-pack-hound/",
+    type: "other",
+    publishedOn: "2018-09-13",
+    accessedOn: "2026-11-25",
+    note: "Published historical breed monograph by Ria Hörter (Canine Chronicle, September 2018) detailing French grande vènerie pack-hunting traditions and the history of the Billy.",
+    publisher: "Canine Chronicle / Ria Hörter"
+  },
+  "wikimedia-billy-tivoli-rallye-gaillardet-mylenetm": {
+    id: "wikimedia-billy-tivoli-rallye-gaillardet-mylenetm",
+    name: "Wikimedia Commons - File:Tivoli au Rallye Gaillardet en 2023.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Tivoli_au_Rallye_Gaillardet_en_2023.jpg",
+    type: "other",
+    publishedOn: "2023-10-21",
+    accessedOn: "2026-11-25",
+    note: "Photograph (634 x 636 px) of an adult Billy hound ('Tivoli au Rallye Gaillardet') by MylèneTM (EXIF capture date 2023-10-21, uploaded 2023-10-21). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-newfoundland-official-standard": {
+    id: "fci-newfoundland-official-standard",
+    name: "FCI - Newfoundland Official Breed Standard No. 50",
+    url: "https://www.fci.be/Nomenclature/Standards/050g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1996-11-06",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 50 (valid standard dated 1996-10-29, English publication dated 1996-11-06). Covers Canadian origin, Group 2 Section 2.2 Mountain-type Molossoids classification without working trial, benevolence/gentleness temperament, massive head, soft flews, 30° croup slope, webbed toes, rudder tail, water-resistant double coat, black / white-and-black / brown colours, average height (71 cm males, 66 cm females), and approximate average weight (68 kg males, 54 kg females).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-newfoundland-nomenclature": {
+    id: "fci-newfoundland-nomenclature",
+    name: "FCI - Newfoundland Breed Nomenclature (No. 50)",
+    url: "https://www.fci.be/en/nomenclature/NEWFOUNDLAND-50.html",
+    type: "official_breed_standard",
+    publishedOn: "1996-11-06",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Canada as country of origin, Group 2 Section 2.2 Mountain-type Molossoids classification without working trial, definitive acceptance date (1954-08-04), valid standard date (1996-10-29), English publication date (1996-11-06), and official multilingual names (Newfoundland, Chien de Terre-Neuve, Neufundländer, Terranova).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-newfoundland-official-standard": {
+    id: "akc-newfoundland-official-standard",
+    name: "American Kennel Club - Official Standard of the Newfoundland",
+    url: "https://images.akc.org/pdf/breeds/standards/Newfoundland.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1990-05-08",
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed standard (Working Group; approved May 8, 1990). Establishes sweet disposition, draft and lifesaving multipurpose role, average adult height (28 inches dogs, 26 inches bitches), approximate weight (130-150 pounds dogs, 100-120 pounds bitches), webbed cat feet, flat water-resistant double coat, four recognized colours (black, brown, gray, white and black), and smooth gait with slight roll of the skin.",
+    publisher: "American Kennel Club"
+  },
+  "akc-newfoundland-breed-profile": {
+    id: "akc-newfoundland-breed-profile",
+    name: "American Kennel Club - Newfoundland Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/newfoundland/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed profile covering Canadian coastal water-rescue history (including Seaman on the Lewis and Clark expedition and SS Ethie rescue), height (28 in male, 26 in female), weight (130-150 lb male, 100-120 lb female), life expectancy (9-10 years), heavy shedding, high drooling, and gentle family temperament.",
+    publisher: "American Kennel Club"
+  },
+  "ckc-newfoundland-profile": {
+    id: "ckc-newfoundland-profile",
+    name: "Canadian Kennel Club (CKC) - Newfoundland Breed Profile",
+    url: "https://www.ckc.ca/en/Choosing-a-Dog/Choosing-a-Breed/Working-Dogs/Newfoundland",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Canadian Kennel Club (country of origin) breed profile for the Newfoundland (Terre-Neuve), covering island province origins, Sir Edwin Landseer's painting ('A Distinguished Member of the Humane Society'), St. Bernard hospice revival, height (26-28 in), weight (120-150 lb), oily water-resistant coat, gentle family nature, and early training needs.",
+    publisher: "Canadian Kennel Club"
+  },
+  "rkc-newfoundland-breed-standard": {
+    id: "rkc-newfoundland-breed-standard",
+    name: "The Royal Kennel Club - Newfoundland Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/working/newfoundland/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club breed standard (Working Group, updated April 1, 2025) confirming extreme-climate evolution, exceptionally gentle docile temperament, oily coarse water-resistant double coat, well-sprung ribs, level underline, and free effortless gait with slight skin roll.",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-newfoundland-breed-profile": {
+    id: "rkc-newfoundland-breed-profile",
+    name: "The Royal Kennel Club - Newfoundland Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/working/newfoundland/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club Breeds A to Z profile specifying large house requirement, daily grooming, shedding, up to 1 hour daily exercise baseline, Breed Watch Category 2 status, Good Practice pre-breeding tests (Cystinuria DNA, BVA/KC Hip and Elbow Dysplasia Schemes), and Best Practice Eye Scheme.",
+    publisher: "The Royal Kennel Club"
+  },
+  "nca-newfoundland-clearances": {
+    id: "nca-newfoundland-clearances",
+    name: "Newfoundland Club of America (NCA) - CHIC Health Screening Clearances",
+    url: "https://www.newfpuppy.com/clearances.html",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Newfoundland Club of America puppy health portal documenting CHIC breeding requirements: Hip Dysplasia (OFA or PennHIP), Elbow Dysplasia (OFA), OFA Congenital Cardiac Clearance (NCA recommends cardiologist echocardiogram for all breeding stock), and Cystinuria DNA testing.",
+    publisher: "Newfoundland Club of America"
+  },
+  "pubmed-newfoundland-cystinuria-slc3a1-2006": {
+    id: "pubmed-newfoundland-cystinuria-slc3a1-2006",
+    name: "Efficient screening of the cystinuria-related C663T Slc3a1 nonsense mutation in Newfoundland dogs by denaturing high-performance liquid chromatography (JVDI 2006)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/16566266/",
+    type: "scientific",
+    publishedOn: "2006-01-01",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed diagnostic genetics study (J Vet Diagn Invest 2006 Jan;18(1):102-105, PMID 16566266) evaluating screening for the autosomal-recessive cystinuria-causing C663T nonsense mutation in the SLC3A1 gene in Newfoundland dogs.",
+    publisher: "Journal of Veterinary Diagnostic Investigation / PubMed"
+  },
+  "pubmed-reist-marti-2012-newfoundland-sas": {
+    id: "pubmed-reist-marti-2012-newfoundland-sas",
+    name: "Genetic evidence of subaortic stenosis in the Newfoundland dog (Veterinary Record 2012)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/22645160/",
+    type: "scientific",
+    publishedOn: "2012-06-09",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed genetic study by Reist-Marti et al. (Vet Rec 2012 Jun 9;170(23):597, Epub 2012-05-29, PMID 22645160) establishing autosomal inheritance of subaortic stenosis (SAS) in the Newfoundland dog, noting its elevated breed predisposition and risk of early-adulthood death.",
+    publisher: "Veterinary Record / PubMed"
+  },
+  "pmc-chetboul-2025-newfoundland-cardiac-screening": {
+    id: "pmc-chetboul-2025-newfoundland-cardiac-screening",
+    name: "Congenital pulmonic and aortic stenosis in Newfoundland dogs: Results of a 14-year French cardiovascular screening program (921 dogs) (PMC11781725)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11781725/",
+    type: "scientific",
+    publishedOn: "2025-01-30",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed retrospective study by Chetboul et al. (2025, PMC11781725) analyzing 921 adult Newfoundland dogs screened via transthoracic echocardiography and ECG from 2010 to 2023 in France, finding 0.9% (8/876) affected by aortic stenosis (predominantly subvalvular) and 0.2% (2/879) by pulmonic stenosis, with zero cases detected in the final 3 years while underscoring continued cardiac screening.",
+    publisher: "National Library of Medicine (PMC)"
+  },
+  "pubmed-wilke-2006-newfoundland-cclr": {
+    id: "pubmed-wilke-2006-newfoundland-cclr",
+    name: "Inheritance of rupture of the cranial cruciate ligament in Newfoundlands (JAVMA 2006)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/16426167/",
+    type: "scientific",
+    publishedOn: "2006-01-01",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed veterinary genetics study by Wilke et al. (J Am Vet Med Assoc 2006 Jan 1;228(1):61-64, PMID 16426167) establishing a genetic basis for naturally occurring cranial cruciate ligament rupture (CCLR) in Newfoundland dogs (recessive major gene model with 0.60 allele frequency and 51% partial penetrance).",
+    publisher: "Journal of the American Veterinary Medical Association / PubMed"
+  },
+  "wikimedia-newfoundland-dog-001-illryion": {
+    id: "wikimedia-newfoundland-dog-001-illryion",
+    name: "Wikimedia Commons - File:Newfoundland dog 001.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Newfoundland_dog_001.jpg",
+    type: "other",
+    publishedOn: "2008-11-02",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (3292 x 2466 px) of an adult Newfoundland dog by Flickr user illryion (EXIF capture date 2008-09-28 on Canon PowerShot S5 IS, uploaded to Wikimedia Commons via Flickr upload bot by Ltshears on 2008-11-02). Licensed under CC BY 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-newfoundland-brown-2-canarian": {
+    id: "wikimedia-newfoundland-brown-2-canarian",
+    name: "Wikimedia Commons - File:Newfoundland brown 2.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Newfoundland_brown_2.jpg",
+    type: "other",
+    publishedOn: "2020-09-15",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (1615 x 1351 px) of an adult brown male Newfoundland standing outdoors by Canarian (EXIF capture date 2020-09-13 on Sony DSLR-A350, uploaded 2020-09-15). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
 });

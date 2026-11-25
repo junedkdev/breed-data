@@ -1,22 +1,23 @@
 import type { Breed } from "../../schema/breed.types";
 
-export const halden_hound: Breed = {
-  slug: "halden-hound",
-  name: "Halden Hound",
+export const english_springer_spaniel: Breed = {
+  slug: "english-springer-spaniel",
+  name: "English Springer Spaniel",
   scientificName: null,
   alternateNames: [
-    "Haldenstøver",
+    "Springer Spaniel",
+    "Springer",
   ],
-  group: "Hound",
+  group: "Sporting",
   origin: {
-    country: "Halden, Norway",
+    country: "England",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "Medium-sized, rectangular Norwegian scenthound with distinctive short, dense coat, built for speed and endurance as a hare hunter in challenging terrain. Features a proud yet gentle expression with the stamina and resilience needed for Norwegian hunting conditions.",
-    history: "Developed in Halden, Norway in the late 19th and early 20th centuries by crossing local scenthounds with English, Swedish, and German hounds to create a swift, resilient hare hunter suited for Norwegian terrain. Recognized by FCI.",
+    description: "Medium-sized athletic sporting dog with long ears, feathered silky coat, and enthusiastic, eager-to-please personality. Known for their compact body, gentle intelligent expression, and versatile gundog abilities.",
+    history: "Developed in 19th century England as a versatile gundog to find and 'spring' game for the net, falcon, or gun. Originally separated from smaller 'cocker' spaniels by size and hunting use. Officially recognized by The Kennel Club in 1902 and AKC in 1910.",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -25,23 +26,23 @@ export const halden_hound: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 51,
-        max: 60,
+        min: 48,
+        max: 53,
       },
       female: {
-        min: 48,
-        max: 58,
+        min: 46,
+        max: 51,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 23,
-        max: 29,
+        min: 20,
+        max: 25,
       },
       female: {
-        min: 20,
-        max: 26,
+        min: 16,
+        max: 23,
       },
     },
     lifespanYears: {
@@ -75,11 +76,11 @@ export const halden_hound: Breed = {
   },
   temperament: {
     traits: [
-      "Gentle",
-      "alert",
+      "Friendly",
       "intelligent",
-      "confident",
       "energetic",
+      "eager to please",
+      "playful",
     ],
     scores: {
       affection: null,
@@ -161,7 +162,7 @@ export const halden_hound: Breed = {
           locator: "breed.alt_names",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: null,
     },
     scientificName: {
@@ -179,7 +180,7 @@ export const halden_hound: Breed = {
           locator: "breed.breed_group",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: null,
     },
     "origin.country": {
@@ -191,7 +192,7 @@ export const halden_hound: Breed = {
           locator: "breed.origin",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: null,
     },
     "origin.region": {
@@ -215,7 +216,7 @@ export const halden_hound: Breed = {
           locator: "breed.description",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: null,
     },
     "overview.history": {
@@ -227,7 +228,7 @@ export const halden_hound: Breed = {
           locator: "breed.history",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: null,
     },
     "overview.originalPurpose": {
@@ -257,7 +258,7 @@ export const halden_hound: Breed = {
           locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: null,
     },
     "physical.height.female.max": {
@@ -269,7 +270,7 @@ export const halden_hound: Breed = {
           locator: "breed.height.metric",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: null,
     },
     "physical.lifespanYears": {
@@ -281,7 +282,7 @@ export const halden_hound: Breed = {
           locator: "breed.life_span",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: null,
     },
     "physical.coatType": {
@@ -305,7 +306,7 @@ export const halden_hound: Breed = {
           locator: "GET /breeds/{id}/colours",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: "The colour endpoint lists variants registered for this breed, including variants applied across the species. Keep only the colours that belong to this breed.",
     },
     "physical.sheddingLevel": {
@@ -335,7 +336,7 @@ export const halden_hound: Breed = {
           locator: "breed.temperament",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: null,
     },
     "temperament.scores.affection": {
@@ -623,7 +624,7 @@ export const halden_hound: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: null,
     },
     "physical.weight.female.max": {
@@ -635,9 +636,9 @@ export const halden_hound: Breed = {
           locator: "breed.weight.metric",
         },
       ],
-      verifiedOn: "2026-11-21",
+      verifiedOn: "2026-11-25",
       note: null,
     },
   },
-  updatedOn: "2026-11-21",
+  updatedOn: "2026-11-25",
 };

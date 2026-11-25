@@ -9,80 +9,80 @@ export const halden_hound: Breed = {
     "Haldenstøver",
     "Haldenstover",
     "Haldenstövare",
-    "Halden Scenthound",
-    "Chien Courant de Halden",
-    "Haldenlaufhund",
-    "Sabueso de Halden"
+    "Bisseberghund",
+    "Ankerstøver",
+    "Chien courant de Halden",
+    "Halden-Bracke",
+    "Sabueso Halden"
   ],
 
-  group:
-    "Scenthounds and Related Breeds; Section 1.2 — Medium-sized Hounds (with working trial; also classified in the Scenthound group)",
+  group: "Medium-Sized Scenthound (Hound)",
 
   origin: {
     country: "Norway",
     region:
-      "Halden and Østfold county, southeastern Norway (developed near the Swedish border)"
+      "Halden and Østfold county in southeastern Norway, near the Swedish border"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Haldenst%C3%B8ver.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Halden_Hound.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Haldenst%C3%B8ver.jpg",
-      title: "Haldenstøver.jpg",
+        "https://commons.wikimedia.org/wiki/File:Halden_Hound.jpg",
+      title: "Halden Hound.jpg",
       description:
-        "An adult Halden Hound (Haldenstøver) standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
-      licenseId: "cc-by-sa-3.0",
+        "A tricolour female Halden Hound photographed in profile.",
+      creator: "Canarian",
+      uploader: "Canarian",
+      capturedOn: "2016-12-03",
+      uploadedOn: "2016-12-03",
+      width: 600,
+      height: 502,
+      licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Haldenst%C3%B8ver.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Halden_Hound.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-21"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Haldenstovare_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Haldenstovare.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Haldenstovare_600.jpg",
-      title: "Haldenstovare 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Haldenstovare.jpg",
+      title: "Haldenstovare.jpg",
       description:
-        "A Halden Hound (Haldenstøver) standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
+        "An adult tricolour Halden Hound (Haldenstøver) standing outdoors.",
+      creator: "Sabine (dogwiki)",
+      uploader: "Ltshears",
+      capturedOn: null,
+      uploadedOn: "2006-05-31",
+      width: 450,
+      height: 364,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Haldenstovare_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Sabine (dogwiki), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Haldenstovare.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-21"
     }
   ],
 
   overview: {
     summary:
-      "A handsome, medium-sized Norwegian scenthound built for cold-climate hare tracking, characterized by its crisp tricolour coat with white predominating, gentle and calm domestic manners, robust stamina, and ringing melodious bay.",
+      "A medium-sized, rectangular Norwegian scenthound built for cold-climate hare, fox, and lynx tracking, recognized by its predominantly white tricolour coat, sturdy build, steady nerves, and quiet, affectionate home manners.",
 
     description:
-      "The Halden Hound is an athletic, rectangular-built, and harmonious medium-sized hunting hound that combines substantial bone and muscular endurance with light-footed, tireless movement. Developed in southeastern Norway to track hares and foxes across frozen pine forests, deep snow, and rugged boreal terrain, the dog was selectively bred to hunt as a solitary tracker rather than in large packs. Its short, harsh, and weather-resistant double coat displays an unmistakable tricolour pattern where a clean white ground is highlighted by distinct black patches and warm tan shadings across the head and legs. The head is clean and dry with a slightly domed skull, straight muzzle, medium-length drop ears, and dark brown eyes expressing an open, calm, and friendly disposition. In field work, it is a dedicated, cold-nosed hunter with a musical voice, while in domestic surroundings it settles into an exceptionally gentle, peaceful, and devoted family companion.",
+      "The Halden Hound is a well-proportioned, rectangular, and strongly built yet light-footed Norwegian scenthound resembling a slightly lighter Foxhound in outline. Bred to hunt independently as a single-handed tracking dog across snowy Nordic forests and rugged terrain, it combines physical durability and parallel, ground-covering movement with a harsh, straight, weatherproof double coat and thick undercoat. Its coat is predominantly clean white marked with distinct black patches and warm tan shadings on the head, legs, and sometimes along the borders between black and white. Its dry, medium-sized head features a gently arched skull, understated stop and occiput, medium-set drop ears, and calm dark brown eyes. At home, the breed is notably sociable, trusting, and quiet in everyday life, saving its carrying voice for the trail.",
 
     history:
-      "The breed originated during the late nineteenth and early twentieth centuries in the Østfold district around the southeastern Norwegian town of Halden. Local huntsmen crossed native Norwegian farm hounds, notably the local Borge hound strain, with imported English Foxhounds, Beagles, and various German and Swedish hounds to produce a fast, cold-hardy, and easily handled hare-tracking hound that would work cooperatively with a single hunter. In 1952, the breed was formally given its distinct name to honor its town of origin and differentiate it from Norway's other native hounds, the Dunker and Hygen Hound. Formal international purebred recognition was granted in 1960. While it remains one of Scandinavia's rarest native hounds with tightly managed populations, it is deeply treasured across Norway for its quiet, non-quarrelsome home demeanor and exceptional tracking tenacity.",
+      "The Halden Hound's lineage traces back to the mid-nineteenth century in Norway's Østfold region around the border town of Halden, where local harehounds were crossed with imported English Foxhounds—along with some Harrier, Beagle, German, and Swedish hound ancestry—to create a swift, cold-hardy solo hunter. In the 1860s, Østfold farmer Hans Larsen Bisseberg bred early lines known as the 'Bisseberghund', while the Anker family of Rød Herregård in Halden gave rise to the name 'Ankerstøver'. The name 'Haldenstøver' came into use around 1938. After a canine distemper outbreak in 1931 and World War II nearly wiped out the narrow breeding base, dedicated Norwegian enthusiasts revived the breed and secured formal national approval in 1952, followed by international recognition in 1965. Today it remains critically rare, with only about 10 to 20 puppies registered annually in Norway.",
 
     originalPurpose:
-      "Solo tracking, scenting, and driving European hare and red fox across snowy forests and rugged Scandinavian wilderness.",
+      "Solo, voice-trailing scenthound hunting hare, red fox, and lynx across snowy Norwegian forests and rugged countryside.",
 
     currentRoles: [
-      "Traditional solo hare and fox tracking hound",
-      "Blood tracking, wounded game search, and forest trailing partner",
-      "Devoted household companion for active outdoor families",
-      "Canine partner for wilderness trekking, cross-country skiing, and hiking"
+      "Solo-working hare, fox, and lynx tracking hound",
+      "Blood tracking and forest scent-trailing partner",
+      "Affectionate family companion for active outdoor households",
+      "Endurance partner for hiking, trail running, and winter skiing"
     ]
   },
 
@@ -109,7 +109,7 @@ export const halden_hound: Breed = {
       },
       female: {
         min: 20,
-        max: 25
+        max: 26
       }
     },
 
@@ -119,50 +119,45 @@ export const halden_hound: Breed = {
     },
 
     coatType:
-      "Harsh, very dense, straight, and rather coarse double coat with a dense, soft undercoat offering superior protection against freezing Scandinavian rain, snow, and dense forest brambles.",
+      "Harsh, very dense, straight double coat backed by a thick undercoat that insulates against freezing Scandinavian snow, rain, and brush.",
 
     coatLength: "Short",
 
     coatColors: [
-      "White with black patches and tan shadings on the head, legs, and sometimes between black and white areas (white should predominate)",
-      "White ground with distinct black saddle or mantle and warm tan points",
-      "Tricolour pattern without heavy black predominance"
+      "White with black patches and tan shadings on the head and legs (and sometimes between the white and black patches); white must predominate over black"
     ],
 
     sheddingLevel:
-      "Moderate year-round shedding with heavier seasonal shedding in spring and autumn during undercoat molts",
+      "Moderate year-round, with heavier undercoat shedding during spring and autumn seasonal changes",
 
     droolingLevel:
-      "Low; tight, dry, cleanly chiselled lips prevent drooling",
+      "Low; dry, tight-fitting lips without pendulous flews keep drooling minimal",
 
     distinctiveFeatures: [
-      "Solid, rectangular, and athletic medium-sized scenthound silhouette conveying stamina and functional agility",
+      "Rectangular, strong, and agile scenthound build without heaviness, reminiscent of a lighter Foxhound",
       "Height at the withers of 52 to 60 cm for males (ideal 56 cm) and 50 to 58 cm for females (ideal 54 cm)",
-      "Working weight of 23 to 29 kg for males and 20 to 25 kg for females in fit, athletic hunting condition",
-      "Crisp tricolour coat with clean white predominating, marked by black patches and warm tan shadings on head and limbs",
-      "Clean, dry, and balanced head with a slightly arched skull, defined stop, and straight nasal bridge",
-      "Complete, regular scissor bite with powerful jaws and sound, evenly spaced white teeth",
-      "Medium-sized, oval dark brown eyes with dark lids radiating a frank, calm, and friendly expression",
-      "Medium drop ears set neither too high nor too low, hanging flat against the cheeks and reaching halfway along the muzzle",
-      "Deep, spacious chest extending to the elbows with well-sprung oval ribs and a firm, level topline",
-      "Muscular, arched neck widening cleanly into well-laid-back shoulders without loose throatiness",
-      "Strong tail of medium length reaching nearly to the hock, carried rather low in a gentle sabre curve",
-      "Straight, heavy-boned forelegs and powerful thighs with compact, tight oval cat-like feet and tough dark pads"
+      "Working weight of 23 to 29 kg for males and 20 to 26 kg for females in fit condition",
+      "Predominantly white tricolour coat with clean black patches and tan shadings on head and legs; black must not dominate and fine ticking is considered mismarked",
+      "Harsh, dense, straight double coat with thick undercoat for winter durability",
+      "Medium-sized, clean head with a gently arched skull and understated stop and occiput",
+      "Complete, regular scissor bite with strong jaws and sound teeth",
+      "Dark brown oval eyes conveying steady nerves and an open, friendly expression",
+      "Medium-set drop ears hanging flat against the head",
+      "Deep chest, well-sprung ribs, and a relatively long, strong neck",
+      "Low-carried tail reaching approximately to the hocks",
+      "Oval, well-arched, tightly knit feet well covered with protective hair between the toes"
     ]
   },
 
   temperament: {
     traits: [
-      "Calm, gentle, and composed in everyday domestic life",
-      "Deeply affectionate, loyal, and friendly with family members",
-      "Tenacious, methodical, and tireless tracker when working quarry",
-      "Melodious, ringing, and clear baying voice used during tracking",
-      "Exceptional sociability with other dogs, lacking dog-aggressive tendencies",
-      "Patient, sweet-tempered, and tolerant companion for familiar children",
-      "Independent problem-solver with natural scenting initiative in the field",
-      "High prey drive toward small wild mammals, hare, and fox",
-      "Courteous and welcoming with unfamiliar visitors, making a poor guard dog",
-      "Single-minded and focused when following an enticing scent line"
+      "Steady-nerved, calm, and trusting in daily household life",
+      "Exceptionally friendly, gentle, and affectionate with family members",
+      "Typically quiet around the home, saving its carrying voice for scent trailing",
+      "Sociable and non-quarrelsome around people and other dogs",
+      "Energetic, confident, and resilient over long days in rugged terrain",
+      "Strong hunting drive and easy to train on hare, fox, and predator trails",
+      "Intelligent and cooperative with a single handler, yet focused and independent once on a scent line"
     ],
 
     scores: {
@@ -181,7 +176,7 @@ export const halden_hound: Breed = {
   care: {
     exercise: {
       level:
-        "High; an active, endurance-driven hunting hound requiring daily sustained physical activity and olfactory enrichment",
+        "High; a physically tough, stamina-driven hunting hound built to cover long distances and needing generous daily movement and scenting outlets",
 
       minutesPerDay: {
         min: 60,
@@ -189,12 +184,11 @@ export const halden_hound: Breed = {
       },
 
       activities: [
-        "Daily long leashed walks and structured trail hiking with generous sniffing time",
-        "Free running and scent exploration in a securely fenced yard or paddock",
-        "Tracking, blood tracking, and woodland scent search games",
-        "Canine sports including tracking trials, nosework, and canicross",
-        "Interactive fetch, ball retrieving, and food puzzle challenges",
-        "Cold-weather wilderness hiking and cross-country ski excursions"
+        "Brisk daily leashed walks and woodland hikes with ample sniffing opportunities",
+        "Supervised running inside a tall, securely fenced yard",
+        "Structured tracking, blood tracking, and nosework games",
+        "Canicross, trail running, and winter ski-joring or snowshoe hikes",
+        "Interactive foraging toys and food puzzles between outings"
       ]
     },
 
@@ -202,36 +196,34 @@ export const halden_hound: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once or twice weekly with a rubber hound mitt or firm bristle brush to remove dead hair and keep the harsh coat clean; increase to daily brushing during seasonal spring and autumn molts.",
+        "Brush once a week with a rubber hound glove or medium bristle brush—stepping up frequency during spring and autumn undercoat sheds—to remove loose hair.",
 
       bathing:
-        "Bathe every six to eight weeks or when soiled after muddy outdoor hunts, using a gentle canine shampoo that preserves natural water-repellent coat oils.",
+        "Bathe only as needed, roughly every six to eight weeks or after muddy outings, with a mild dog shampoo that preserves natural weatherproofing oils.",
 
       notes: [
-        "The short harsh double coat naturally sheds dried forest dirt, mud, and snow once dry.",
-        "Inspect the drop ears weekly for moisture, wax accumulation, or debris, wiping gently with an approved veterinary cleanser.",
-        "Check paw pads, toes, and skin for thorns or ice balls after running in frozen snow or dense brambles.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain correct compact foot structure.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "Wipe down the sleek coat with a damp towel after outdoor trails to remove dust and maintain gloss."
+        "The harsh, dense coat naturally sheds dried mud and snow once dry.",
+        "Check and clean the drop ears weekly to prevent wax, debris, or dampness.",
+        "Inspect the fur-insulated spaces between the toes after snow or forest runs for ice balls, burrs, or cuts.",
+        "Trim nails every two to three weeks to keep the oval feet tight and balanced.",
+        "Brush teeth several times a week with dog-safe enzymatic toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent, friendly, and biddable, but possesses independent scenthound instincts that require patient, reward-based guidance",
+        "Moderate; intelligent, trusting, and responsive to a handler, though strong scenting drive calls for patient, reward-based consistency",
 
       tips: [
-        "Use positive reinforcement, high-value aromatic food treats, and cheerful encouragement.",
-        "Keep training sessions varied, upbeat, and concise (5 to 10 minutes) to maintain motivation.",
-        "Always exercise within a securely fenced area or on a long line, as intriguing scent trails will trigger selective hearing.",
-        "Condition a reliable recall early using high-value rewards.",
-        "Teach a quiet command early to help manage natural hound baying habits.",
-        "Avoid harsh verbal reprimands or physical coercion, which cause this sensitive hound to lose trust and withdraw."
+        "Build cooperation with positive reinforcement, aromatic food rewards, and calm praise.",
+        "Keep lessons concise, engaging, and varied so the hound stays enthusiastic.",
+        "Use a sturdy leash or a securely fenced space outdoors because fresh wildlife trails can override recall.",
+        "Practice recall from puppyhood on a long line before advancing to higher-distraction woods.",
+        "Avoid harsh corrections, which conflict with this hound's trusting, steady temperament."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to varied people, friendly vaccinated dogs of all sizes, household noises, vehicles, and novel outdoor environments. Early structured socialization develops an outgoing, stable adult that is friendly with strangers and poised in public."
+        "Introduce puppies gently and positively to diverse people, calm vaccinated dogs, everyday noises, and varied outdoor environments to reinforce the breed's naturally open, confident manners."
     },
 
     livingEnvironment: {
@@ -239,80 +231,76 @@ export const halden_hound: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cold and snowy winter climates, where the dense harsh double coat provides exceptional insulation",
+        "Cold and snowy climates, where the harsh double coat and fur-protected toes excel",
         "Temperate climates",
-        "Warm climates, provided indoor shade, cool shelter, and fresh water are available and exercise is scheduled during cooler hours"
+        "Warm climates, provided shade, fresh water, indoor cooling, and cooler-hour walks are maintained"
       ],
 
       aloneTimeTolerance:
-        "Moderate when provided with sufficient physical exercise and comfortable surroundings, though prolonged isolation can provoke boredom baying or digging."
+        "Moderate when well exercised, though long periods of isolation without daily outdoor stimulation can lead to restlessness."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for medium-sized active working or hound breeds, adjusted for age, activity level, and seasonal hunting output.",
+      "Complete and balanced commercial dog food formulated for active medium-sized working breeds, scaled to age and seasonal hunting or hiking workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals daily until about six months of age, then shifting to two measured meals per day.",
       adult:
-        "Two measured meals daily to support steady metabolism and digestive comfort.",
+        "Two measured meals per day for steady energy and comfortable digestion.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower calorie burn while maintaining lean muscle."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body condition where the ribs are easily felt through the dense coat. Scenthounds possess hearty appetites and will readily overeat if allowed free access to food. Divide daily food into two distinct meals, restrict vigorous running immediately before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Weigh or measure each meal rather than free-feeding so the ribs remain easily felt beneath the dense coat. Increase daily energy intake during active hunting or winter trekking seasons, divide daily rations into two meals, and allow quiet rest before and after eating as a precaution against bloat.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on hips and stifles.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Increase caloric and protein density during active autumn hunting and field trial seasons.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep body condition lean to protect hip and stifle joints over a long active life.",
+      "Count training treats within the daily calorie budget.",
+      "Schedule calm rest around mealtimes to reduce bloat risk in deep-chested dogs.",
+      "Avoid fatty table scraps and transition between diets gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly based on outdoor temperature, tracking activity, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Calorie requirements fluctuate substantially between peak autumn/winter field work and quieter off-season months. Consult a veterinarian for tailored portions."
   },
 
   health: {
     overview:
-      "The Halden Hound is an exceptionally robust, hardy, and resilient Nordic scenthound with a typical life expectancy of 12 to 14 years. Having evolved through generations of practical field hunting across demanding Scandinavian wilderness, it enjoys strong overall constitutional vitality and has avoided artificial conformational exaggerations. Primary health considerations focus on orthopedic screening for hip dysplasia, routine ear care for drop ears prone to otitis externa, monitoring for bloat in deep-chested individuals, and managing field-related trauma.",
+      "Despite its historically small breeding population, the Halden Hound is regarded as a notably healthy, hardy breed with a typical lifespan of 12 to 14 years and no widespread inherited disease burden recorded. Careful population management focuses on preserving genetic diversity alongside routine radiographic hip screening, weekly drop-ear care, and standard precautions for deep-chested working hounds.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints, monitored through pre-breeding radiographic screening",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by drop ears that restrict ventilation and trap moisture in the canal",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in deep-chested hounds, requiring emergency veterinary care",
-      "Traumatic outdoor injuries — minor cuts, punctures, pad abrasions, or sprains sustained while navigating icy terrain and dense forest brambles",
-      "Eye conditions — rare reports of cataracts or retinal disorders, monitored through certified veterinary ophthalmologist examinations"
+      "Hip dysplasia (HD) — not recorded at high prevalence in the breed, but proactively monitored through pre-breeding radiographic hip screening",
+      "Genetic diversity risk from small population size — very low annual puppy numbers require careful breeding management and outcrossing safeguards to prevent inbreeding depression",
+      "Otitis externa (outer ear infections) — a general conformational risk for drop-eared hounds when moisture or debris accumulates in the ear canal",
+      "Gastric dilatation-volvulus (GDV / bloat) — an emergency risk across deep-chested breeds, mitigated by divided meals and post-meal rest",
+      "Field and winter injuries — minor paw cuts, ice-crust abrasions, or sprains incurred during vigorous woodland work"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip clearances, alongside current specialist eye examinations.",
-      "Inspect and thoroughly dry the drop ears weekly, wiping canals with an approved veterinary ear wash.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Confirm breeding parents have completed radiographic hip screening (A, B, or C grades, with C paired only to HD-free mates) and follow responsible genetic-diversity limits.",
+      "Inspect and dry the hanging ears weekly, wiping gently with a veterinarian-approved ear wash.",
+      "Keep weight lean and well-muscled throughout life to minimize joint strain.",
+      "Feed two measured meals daily and avoid vigorous running right before or after eating.",
+      "Maintain year-round parasite protection against ticks, fleas, and heartworm, and book annual veterinary wellness exams."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Clinical orthopedic and cardiovascular examination by a veterinarian"
+      "Radiographic hip dysplasia (HD) evaluation prior to breeding",
+      "Routine veterinary wellness, orthopedic, and ophthalmic checkups"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong, wide jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week using canine enzymatic toothpaste, paired with routine veterinary oral checkups.",
 
     earCare:
-      "Inspect the medium drop ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Lift and inspect the medium drop ears weekly for odour, wax, redness, or dampness after wet or snowy outings, wiping gently with a veterinary cleanser.",
 
     skinCare:
-      "Part the dense coat weekly during brushing to inspect the skin for external parasites, redness, or scratches. Check paw pads and ear margins after woodland runs for cuts and thorns."
+      "Brush weekly through the harsh double coat to check the skin for ticks, burrs, or scrapes, paying close attention to paw pads and between the toes after winter runs."
   },
 
   suitability: {
@@ -323,175 +311,175 @@ export const halden_hound: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, trail runners, and hikers who enjoy year-round wilderness exploration in cold and temperate climates",
-      "Hunters and sportsmen seeking a dedicated, solo-working tracking partner for hare or fox",
-      "Experienced hound owners who understand scent drive, baying voice, and positive leadership",
-      "Homes with a large, securely fenced yard of at least five to six feet in height in rural or suburban settings",
-      "Enthusiasts of tracking, blood tracking, and scentwork dog sports"
+      "Active outdoor households, hikers, and winter sports enthusiasts who enjoy long days outside",
+      "Hunters seeking a solo-working hare, fox, or lynx tracking hound with steady nerves",
+      "Rural or suburban homes with a securely fenced yard",
+      "Active families wanting a gentle, quiet, dog-friendly companion indoors"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for high physical endurance and independent scenting drive",
-      "Apartment or condominium dwellers where ringing hound baying may disturb neighbors",
-      "Households with loose small pets or rabbits vulnerable to hound prey drive",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People seeking an aggressive guard dog"
+      "Sedentary households or first-time owners unprepared for high daily exercise and strong hunting instincts",
+      "Apartments or dense urban settings without easy access to trails and secure running space",
+      "Homes with unsupervised small pets such as rabbits that can trigger chase instincts",
+      "People looking for a territorial or protective guard dog"
     ]
   },
 
   funFacts: [
-    "The Halden Hound is named after the historic border town of Halden in southeastern Norway, near the Swedish border, where the breed was selectively developed in the early twentieth century.",
-    "Unlike many European scenthounds that hunt in large packs, the Halden Hound was specifically bred to work as a solitary hunter with a single handler, giving it an unusually calm, cooperative, and close-bonding personality in the home.",
-    "The breed was established by crossing native Norwegian Borge hounds with imported English Foxhounds, Beagles, and German scenthounds, resulting in its distinctive tricolour coat and athletic endurance.",
-    "The Halden Hound is considered one of the rarest of all Nordic hound breeds, with registrations carefully monitored to preserve its genetic vitality and authentic working instincts.",
-    "Its ringing, melodious bay on a fresh scent trail is famed among Scandinavian hunters for its carrying power through dense pine valleys and across snow-covered hills.",
-    "In the home, Halden Hounds are famously described by Norwegian hunters as 'gentle giants among harehounds' due to their sweet, patient demeanor with children and peaceful coexistence with other family dogs."
+    "Before the name 'Haldenstøver' came into use around 1938, the breed was known locally as the 'Bisseberghund' (after Østfold farmer Hans Larsen Bisseberg in the 1860s) and the 'Ankerstøver' (after the Anker family at Rød Herregård in Halden).",
+    "Canine distemper in 1931 and World War II nearly wiped out the breed, but Norwegian enthusiasts rebuilt it and secured formal national recognition in 1952.",
+    "With only about 10 to 20 puppies registered each year in Norway, the Halden Hound is critically rare and carefully managed under a national breeding program that caps individual dogs at 20 offspring to protect genetic diversity.",
+    "Unlike many vocal pack hounds, most Halden Hounds are remarkably quiet in everyday family life, reserving their carrying voice for the hunting trail.",
+    "Its oval, tightly knit feet grow protective hair between the toes to help shield against freezing Nordic snow and rough forest ground."
   ],
 
   faq: [
     {
       question: "What is a Halden Hound?",
       answer:
-        "The Halden Hound (Haldenstøver) is a medium-sized Norwegian scenthound bred for hare hunting, recognized for its crisp tricolour coat with white predominating, athletic endurance, and calm, friendly family personality."
+        "The Halden Hound (Haldenstøver) is a rare, medium-sized Norwegian scenthound bred for solo hare, fox, and lynx tracking, known for its predominantly white tricolour coat, steady nerves, and gentle home manners."
     },
     {
-      question: "How does the Halden Hound differ from the Dunker and Hygen Hound?",
+      question: "How does the Halden Hound differ from Norway's other native harehounds?",
       answer:
-        "While all three are native Norwegian harehounds, the Halden Hound is distinguished by its predominantly white tricolour coat (unlike the blue merle or harlequin pattern of the Dunker and the solid red-brown or black and tan of the Hygen Hound) and Foxhound ancestry."
+        "While the Halden Hound, Dunker, and Hygen Hound are all Norwegian harehounds, the Halden Hound is distinguished by its predominantly white tricolour coat with black patches and tan shadings, as well as its lighter Foxhound-like outline."
     },
     {
       question: "How tall and heavy is a Halden Hound?",
       answer:
-        "Adult males stand 52 to 60 cm at the withers (ideal 56 cm) and weigh 23 to 29 kg, while adult females stand 50 to 58 cm (ideal 54 cm) and weigh 20 to 25 kg, presenting a lean, athletic rectangular outline."
+        "Adult males stand 52 to 60 cm at the withers (ideal 56 cm) and weigh roughly 23 to 29 kg, while adult females stand 50 to 58 cm (ideal 54 cm) and weigh roughly 20 to 26 kg."
     },
     {
       question: "How long does a Halden Hound live?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
+        "With good nutrition, regular exercise, and routine veterinary care, the breed typically lives 12 to 14 years."
     },
     {
-      question: "Do Halden Hounds shed a lot, and how are they groomed?",
+      question: "How much grooming does a Halden Hound need?",
       answer:
-        "They shed moderately year-round and blow their undercoat during seasonal changes. Their short, harsh double coat is low-maintenance, requiring only a weekly brushing with a rubber hound mitt, regular ear cleaning, and occasional nail trimming."
+        "Grooming is low-maintenance. Brush the harsh double coat weekly (more often during spring and autumn undercoat sheds), check the drop ears weekly, trim nails regularly, and brush teeth several times a week."
     },
     {
       question: "Can a Halden Hound live in an apartment?",
       answer:
-        "Generally no. Due to their high exercise requirements, working stamina, and loud tracking bay, they are not suited to apartment living and thrive best in a house with a securely fenced yard."
+        "Generally no. Although quiet indoors, its high endurance and daily exercise requirements make it far better suited to a rural or suburban house with a securely fenced yard."
     },
     {
-      question: "Are Halden Hounds good family pets and good with children?",
+      question: "Are Halden Hounds good family dogs and good with children?",
       answer:
-        "Yes, with active families. In the home, they are remarkably gentle, sweet-tempered, and affectionate with family members and patient with children; they also coexist peacefully with other dogs."
+        "Yes, in active households. They are well known for steady nerves, friendliness, and gentle, trusting manners with children and other dogs, provided their outdoor exercise needs are met."
     },
     {
-      question: "Is the Halden Hound easy to train?",
+      question: "How easy is it to train a Halden Hound?",
       answer:
-        "They are intelligent, friendly, and food-motivated, but have an independent scenthound nature. When an interesting scent catches their nose, they can be single-minded, so training requires patience, food rewards, and consistent positive reinforcement."
+        "They are intelligent, trusting, and cooperative with positive reinforcement, but strong wildlife-tracking instincts mean outdoor off-leash recall requires careful long-line training and secure fencing."
     },
     {
       question: "How much exercise does a Halden Hound need each day?",
       answer:
-        "The breed requires 60 to 90 minutes of daily physical activity, including brisk leashed walks, free running in a secure area, and scent exploration games."
+        "Plan on at least 60 to 90 minutes of brisk daily activity, combining leashed walks, woodland hikes, secure yard running, and scent-tracking games."
     },
     {
-      question: "What health tests are recommended for breeding Halden Hounds?",
+      question: "What health screenings are recommended for breeding Halden Hounds?",
       answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip dysplasia and certified veterinary ophthalmologist eye exams."
+        "Radiographic hip dysplasia (HD) screening is recommended for all breeding dogs alongside careful genetic-diversity management and routine veterinary checkups."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-halden-hound-official-standard",
     "fci-halden-hound-nomenclature",
     "nkk-haldenstover-rasestandard",
     "nhkf-haldenstover-raseprofil",
     "ukc-halden-hound-breed-standard",
     "wikimedia-haldenstover-lilly-m",
-    "wikimedia-haldenstovare-600-tomasz-sienicki"
+    "wikimedia-haldenstovare-600-tomasz-sienicki",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Scientific Name: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-21",
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Verified standard domestic-dog trinomial taxonomy across the catalog."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-halden-hound-official-standard",
-          role: "verified",
-          locator: "Standard heading: HALDENSTØVER (Halden Hound)"
-        },
-        {
           id: "fci-halden-hound-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: HALDEN HOUND (267), Haldenstøver, Chien Courant de Halden, Haldenlaufhund, Sabueso de Halden"
+          locator: "Official nomenclature: HALDENSTØVER (267), Halden Hound, Chien courant de Halden, Halden-Bracke, Sabueso Halden"
         },
         {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "Rasenavn: Haldenstøver"
+          locator: "Historical names: Bisseberghund (Hans Larsen Bisseberg, 1860s) and Ankerstøver (Anker family, Rød Herregård)"
         },
         {
-          id: "ukc-halden-hound-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Breed Name: Halden Hound (Haldenstovare)"
+          locator: "alternateNames: Haldenstøver"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified across FCI Standard No. 267, FCI Nomenclature, NKK, and UKC."
+      verifiedOn: "2026-11-21",
+      note: "Updated German and Spanish names to exact FCI nomenclature (Halden-Bracke, Sabueso Halden) and added verified historical Norwegian names."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-halden-hound-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 6 Scenthounds and related breeds, Section 1.2 Medium-sized Hounds, with working trial"
-        },
-        {
           id: "fci-halden-hound-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.2 Medium-sized Hounds, with working trial"
+          locator: "Group 6 Scent hounds and related breeds; Section: Scent hounds; Subsection: Medium-sized Hounds; Subject to a working trial"
         },
         {
           id: "ukc-halden-hound-breed-standard",
-          role: "verified",
+          role: "cited",
           locator: "Scenthound Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "group: Hound"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group omits kennel-club names and numeric section labels per Rule 5."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-halden-hound-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Norway; BRIEF HISTORICAL SUMMARY"
-        },
-        {
           id: "fci-halden-hound-nomenclature",
           role: "verified",
-          locator: "Country of origin: Norway"
+          locator: "Country of origin of the breed: NORWAY; definitive acceptance 1965-10-07"
         },
         {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "Hjemland: Norge (Halden, Østfold)"
+          locator: "Halden, Østfold county, southeastern Norway"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "origin.country: Halden, Norway"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -501,27 +489,22 @@ export const halden_hound: Breed = {
         {
           id: "fci-halden-hound-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator: "FCI Standard No. 267 (1999-08-09): Coat, colour, feet, gait, and proportions"
         },
         {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "Bakgrunn, jaktegenskaper på hare og rev, helhetsinntrykk"
+          locator: "History (1860s Bisseberghund, Ankerstøver, 1931 distemper, WWII, 1938 name, 1952 approval), 10-20 annual puppy registrations, hare/fox/lynx hunting, quiet indoor nature"
         },
         {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "verified",
-          locator: "Rasehistorie, Borgehunden, jaktstil som ensomjager og familiehund"
-        },
-        {
-          id: "ukc-halden-hound-breed-standard",
-          role: "verified",
-          locator: "History, General Appearance, and Temperament"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "description and history"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Synthesized in original prose from FCI Standard No. 267, NKK, NHKF, and UKC official records."
+        "Corrected historical ancestry (Bisseberghund & Ankerstøver, not Borge hound) and FCI definitive recognition year (1965, not 1960)."
     },
 
     physical: {
@@ -530,22 +513,22 @@ export const halden_hound: Breed = {
         {
           id: "fci-halden-hound-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "COAT (harsh, very dense, straight with dense undercoat), COLOUR (white with black patches and tan shadings; black must not predominate; small black/tan spots mismarked), FEET (oval, well covered with hair between toes)"
         },
         {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "Hode, kropp, hale, lemmer, pels, farge og størrelse"
+          locator: "Størrelse/Utseende: rectangular, strong without heaviness, understated stop and occiput, low-carried tail"
         },
         {
-          id: "ukc-halden-hound-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "coatColors lists 17 generic canine colours; only the official predominantly white tricolour pattern was kept"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Conformation, rectangular build, harsh dense tricolour coat, drop ears, and distinctive features follow official standards."
+        "Excluded non-standard colours from The Dog API and aligned anatomical details to FCI Standard No. 267 and NKK."
     },
 
     "physical.height": {
@@ -554,64 +537,59 @@ export const halden_hound: Breed = {
         {
           id: "fci-halden-hound-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: Males: 52-60 cm, ideal height 56 cm. Females: 50-58 cm, ideal height 54 cm."
+          locator: "SIZE: Height at withers: Males 52–60 cm, ideal 56 cm. Females 50–58 cm, ideal 54 cm."
         },
         {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "Mankehøyde: Hannhunder: 52-60 cm, ideal 56 cm. Tisper: 50-58 cm, ideal 54 cm."
+          locator: "Ønsket høyde: hannhunder 52–60 cm, tisper 50–58 cm"
         },
         {
-          id: "ukc-halden-hound-breed-standard",
+          id: "nhkf-haldenstover-raseprofil",
           role: "verified",
-          locator: "Height: Males: 20.5 to 23.5 inches (52-60 cm); Females: 19.5 to 23 inches (50-58 cm)"
+          locator: "Størrelse: Hannhund 52–60 cm (ideal 56 cm), Tispe 50–58 cm (ideal 54 cm)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height: male 51–60 cm, female 48–58 cm (official FCI/NKK minimums are 52 cm and 50 cm)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Preserved in published unit of centimetres (52–60 cm for males, ideal 56 cm; 50–58 cm for females, ideal 54 cm) exactly as specified in the official FCI Standard No. 267 and NKK standard."
+        "Preserved exact published centimetres (52–60 cm males, 50–58 cm females) per FCI Standard No. 267 and NKK; recorded Dog API discrepancy."
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "nhkf-haldenstover-raseprofil",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Vekt: Hannhunder ca. 23-29 kg, tisper ca. 20-25 kg"
+          locator: "weight: male 23–29 kg, female 20–26 kg"
         },
         {
-          id: "nkk-haldenstover-rasestandard",
-          role: "verified",
-          locator: "Vektprofil: ca. 20-29 kg harmonisk i forhold til størrelsen"
-        },
-        {
-          id: "ukc-halden-hound-breed-standard",
-          role: "verified",
-          locator: "Weight: Weight is in proportion to height, approximately 45 to 64 pounds (approx. 20-29 kg)"
+          id: "fci-halden-hound-official-standard",
+          role: "cited",
+          locator: "FCI Standard No. 267 specifies height without prescribing a numerical weight"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "FCI Standard No. 267 specifies height without fixing a numerical weight. The stored 23 to 29 kg for males and 20 to 25 kg for females represent canonical figures published by national Norwegian harehound authorities (NHKF and NKK), preserved in kilograms."
+        "FCI Standard No. 267 does not fix a numerical weight; stored The Dog API's published metric weight ranges (23–29 kg males, 20–26 kg females)."
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "nhkf-haldenstover-raseprofil",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Forventet levetid og helse (12-14 år)"
-        },
-        {
-          id: "nkk-haldenstover-rasestandard",
-          role: "verified",
-          locator: "Helse, levealder og robusthet"
+          locator: "lifespanYears: 12–14"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Supported by kennel club and breed club actuarial profiles."
+      verifiedOn: "2026-11-21",
+      note: "Verified 12–14 years from The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -621,14 +599,9 @@ export const halden_hound: Breed = {
           id: "fci-halden-hound-official-standard",
           role: "verified",
           locator: "COAT: Harsh, very dense and straight with dense undercoat"
-        },
-        {
-          id: "nkk-haldenstover-rasestandard",
-          role: "verified",
-          locator: "Pelshår og underull, moderat røyting"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -638,38 +611,33 @@ export const halden_hound: Breed = {
         {
           id: "fci-halden-hound-official-standard",
           role: "verified",
-          locator: "Lips: Tight fitting, not pendulous"
-        },
-        {
-          id: "nkk-haldenstover-rasestandard",
-          role: "verified",
-          locator: "Lepper: Tørre, stramme, ikke leppefold"
+          locator: "Lips: Tight-fitting, not pendulous"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Tight, dry lips prevent drooling."
+      verifiedOn: "2026-11-21",
+      note: null
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-halden-hound-official-standard",
-          role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Scenthound; calm, friendly, affectionate and trusting, tenacious hunter"
-        },
-        {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "Adferd/temperament: Rolig, vennlig, tillitsfull, sosial overfor andre hunder og folk"
+          locator: "Strong nerves, exceptionally sociable and trusting, friendly, rarely vocal in everyday life, strong hunting drive"
         },
         {
-          id: "ukc-halden-hound-breed-standard",
+          id: "fci-halden-hound-official-standard",
           role: "verified",
-          locator: "Temperament: Calm, affectionate, trustworthy, friendly companion and hunter"
+          locator: "Aggressive or overly shy dogs disqualifying"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "temperament.traits: Gentle, alert, intelligent, confident, energetic"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -679,17 +647,17 @@ export const halden_hound: Breed = {
         {
           id: "nkk-haldenstover-rasestandard",
           role: "cited",
-          locator: "Adferd og raseegenskaper"
+          locator: "High activity level, high friendliness, quiet everyday habits"
         },
         {
-          id: "nhkf-haldenstover-raseprofil",
+          id: "the-dog-api",
           role: "cited",
-          locator: "Sosiale egenskaper og jaktlyst"
+          locator: "Temperament traits"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented Nordic scenthound temperament, high family affection, and calm domestic habits."
+        "Editorial 1–5 scores synthesized from NKK profile and documented scenthound traits."
     },
 
     care: {
@@ -698,34 +666,24 @@ export const halden_hound: Breed = {
         {
           id: "nkk-haldenstover-rasestandard",
           role: "cited",
-          locator: "Pelsstell, mosjon og dressur"
-        },
-        {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "cited",
-          locator: "Stell, helse og jaktmessig aktivisering"
+          locator: "High activity, low coat care, hunting and family lifestyle guidance"
         }
       ],
       verifiedOn: null,
       note:
-        "Combines active tracking hound management with drop-ear care and harsh coat grooming protocols."
+        "Combines NKK activity/care profile with standard drop-ear and winter paw care."
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-halden-hound-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Scenthound hunting hare with stamina"
-        },
-        {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "Høyt aktivitetsbehov som jakthund"
+          locator: "Aktivitetsnivå: Høyt; physically strong, durable all-day hunting hound"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -735,17 +693,12 @@ export const halden_hound: Breed = {
         {
           id: "nkk-haldenstover-rasestandard",
           role: "cited",
-          locator: "Daglige mosjonsbehov"
-        },
-        {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "cited",
-          locator: "Trening og jaktaktivitet"
+          locator: "High daily activity requirement"
         }
       ],
       verifiedOn: null,
       note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic hunting scenthound."
+        "Editorial estimate of 60 to 90 minutes daily for an athletic endurance hound."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -754,35 +707,25 @@ export const halden_hound: Breed = {
         {
           id: "nkk-haldenstover-rasestandard",
           role: "cited",
-          locator: "Aktiv jakthund som trives best med hage eller i landlige omgivelser"
-        },
-        {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "cited",
-          locator: "Plassbehov og varsling"
+          locator: "High activity level and hunting drive"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial evaluation that high physical energy, tracking drive, and hunting bay make apartment living generally unsuitable."
+        "Editorial assessment that high endurance and outdoor needs make apartments generally unsuitable."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
         {
           id: "nkk-haldenstover-rasestandard",
-          role: "verified",
-          locator: "Behov for inngjerdet uteområde"
-        },
-        {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "verified",
-          locator: "Sikret uteplass"
+          role: "cited",
+          locator: "Active outdoor hunting hound profile"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: null
+      verifiedOn: null,
+      note: "A securely fenced yard is strongly recommended."
     },
 
     "care.livingEnvironment.climates": {
@@ -791,15 +734,10 @@ export const halden_hound: Breed = {
         {
           id: "fci-halden-hound-official-standard",
           role: "verified",
-          locator: "COAT: Harsh dense coat with thick undercoat adapted to Nordic winter climate"
-        },
-        {
-          id: "nkk-haldenstover-rasestandard",
-          role: "verified",
-          locator: "Klimatilpasning til nordisk vær"
+          locator: "Harsh, very dense coat with thick undercoat and well-haired toes suited to Nordic winters"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note: null
     },
 
@@ -807,9 +745,9 @@ export const halden_hound: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "nhkf-haldenstover-raseprofil",
+          id: "nkk-haldenstover-rasestandard",
           role: "cited",
-          locator: "Selvstendighet og alenetid"
+          locator: "Sociable hunting and family dog profile"
         }
       ],
       verifiedOn: null,
@@ -822,17 +760,12 @@ export const halden_hound: Breed = {
         {
           id: "nkk-haldenstover-rasestandard",
           role: "cited",
-          locator: "Ernæring og hold for jakthunder"
-        },
-        {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "cited",
-          locator: "Fôring i og utenfor jaktsesongen"
+          locator: "Medium-sized working hunting hound build"
         }
       ],
       verifiedOn: null,
       note:
-        "Standard nutritional recommendations for active medium working hound breeds."
+        "Standard nutritional guidance for active medium-sized working scenthounds."
     },
 
     "nutrition.feedingFrequency": {
@@ -841,11 +774,11 @@ export const halden_hound: Breed = {
         {
           id: "nkk-haldenstover-rasestandard",
           role: "cited",
-          locator: "Fôringsrutiner"
+          locator: "Standard canine life-stage feeding"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard canine life-stage meal schedule."
     },
 
     "health.overview": {
@@ -854,17 +787,17 @@ export const halden_hound: Breed = {
         {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "Helse, HD-overvåking og rasevitalitet"
+          locator: "Despite small population (10-20 puppies/year), no significant incidence of hereditary diseases (including HD) recorded; HD screening and 20-offspring breeding cap recommended"
         },
         {
-          id: "nhkf-haldenstover-raseprofil",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Sunnhet, lav forekomst av arvelige lidelser, HD-status"
+          locator: "Lifespan 12–14 years"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Synthesizes Norwegian kennel club and breed club veterinary health records."
+        "Grounded directly in NKK's breed profile and Norwegian harehound breeding program."
     },
 
     "health.commonConditions": {
@@ -873,35 +806,25 @@ export const halden_hound: Breed = {
         {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "Hofteleddsdysplasi (HD), ørebetennelser og jaktrelaterte skader"
-        },
-        {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "verified",
-          locator: "HD-røntgen og helseovervåking"
+          locator: "Low recorded hereditary disease burden; HD screening recommended; critically small population size (10-20 puppies/year)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Details documented conformational and environmental conditions in original prose without prohibited registry terms."
+        "Distinguishes proactive HD monitoring and small-population genetic management from general drop-ear and deep-chested hound risks."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "cited",
-          locator: "Forebyggende helsearbeid, ørerens og potetilsyn"
-        },
-        {
           id: "nkk-haldenstover-rasestandard",
           role: "cited",
-          locator: "Rutinemessig veterinæroppfølging"
+          locator: "NKK HD breeding recommendations (A/B/C grading, C mated only to HD-free) and 20-offspring limit"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to active Nordic hunting hounds."
+      note: "Standard preventive care tailored to active Nordic hunting hounds."
     },
 
     "health.recommendedScreenings": {
@@ -910,17 +833,12 @@ export const halden_hound: Breed = {
         {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "Krav/anbefaling til avlshunder: HD-røntgen og øyelysing"
-        },
-        {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "verified",
-          locator: "Røntgenkontroll av hofter før paring"
+          locator: "NKK Norwegian harehound breeding program: radiographic hip dysplasia (HD) evaluation recommended for breeding stock"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "Screenings summarize published parent club and national kennel club breeding guidelines."
+        "Aligned strictly with NKK's published breeding-program recommendations."
     },
 
     "health.dentalCare": {
@@ -929,29 +847,24 @@ export const halden_hound: Breed = {
         {
           id: "fci-halden-hound-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: scissor bite, complete dentition"
+          locator: "Jaws/teeth: complete scissor bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-halden-hound-official-standard",
-          role: "cited",
-          locator: "Ears: set neither high nor low, hanging flat close to head"
-        },
-        {
           id: "nkk-haldenstover-rasestandard",
           role: "cited",
-          locator: "Ørestell for hengeører"
+          locator: "Medium-set drop ears"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: null
     },
 
     "health.skinCare": {
@@ -960,11 +873,11 @@ export const halden_hound: Breed = {
         {
           id: "fci-halden-hound-official-standard",
           role: "cited",
-          locator: "Skin: tight, firm, supple"
+          locator: "Harsh double coat and well-haired toes"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -973,40 +886,30 @@ export const halden_hound: Breed = {
         {
           id: "nkk-haldenstover-rasestandard",
           role: "cited",
-          locator: "Egnethet for jegere og aktive familier"
-        },
-        {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "cited",
-          locator: "Sosial profil og familievennlighet"
+          locator: "Fine combination of hunting and family dog; high activity level"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+        "Editorial suitability ratings based on NKK's activity and temperament profile."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "verified",
-          locator: "Halden opprinnelse, Borgehunden, ensomjager, sjelden rase, mildt gemytt"
-        },
-        {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "1952 navngiving, historisk bakgrunn og krysninger"
+          locator: "1860s Bisseberghund, Ankerstøver, 1931 distemper, WWII, 1938 name, 1952 approval, 10-20 annual puppies, quiet everyday demeanor"
         },
         {
           id: "fci-halden-hound-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Southeastern Norwegian harehound heritage"
+          locator: "Feet well covered with hair between the toes"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-21",
+      note: "Verified historical and anatomical facts."
     },
 
     faq: {
@@ -1015,24 +918,24 @@ export const halden_hound: Breed = {
         {
           id: "fci-halden-hound-official-standard",
           role: "verified",
-          locator: "Origin, size (52-60 cm / 50-58 cm), coat, colors, and differences from Dunker/Hygen"
-        },
-        {
-          id: "nhkf-haldenstover-raseprofil",
-          role: "verified",
-          locator: "Weight (20-29 kg), lifespan (12-14 years), family life, and hunting traits"
+          locator: "Height (52–60 cm / 50–58 cm), coat, and predominantly white tricolour pattern"
         },
         {
           id: "nkk-haldenstover-rasestandard",
           role: "verified",
-          locator: "Apartment living, exercise needs, and health tests"
+          locator: "Hunting roles (hare/fox/lynx), steady nerves, quiet indoor nature, HD screening"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "Weight (23–29 kg males, 20–26 kg females) and lifespan (12–14 years)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-21",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and parent club data without naming registries in prose."
+        "Original FAQ answers grounded in FCI Standard No. 267, NKK, and The Dog API without Rule 5 registry names."
     }
   },
 
-  updatedOn: "2026-11-11"
+  updatedOn: "2026-11-21"
 };

@@ -246,6 +246,8 @@ import { east_siberian_laika } from "./east_siberian_laika";
 import { basset_artesien_normand } from "./basset_artesien_normand";
 import { irish_wolfhound } from "./irish_wolfhound";
 import { burgos_pointer } from "./burgos_pointer";
+import { billy } from "./billy";
+import { newfoundland } from "./newfoundland";
 
 
 export const breedData: readonly Breed[] = [
@@ -491,4 +493,6 @@ export const breedData: readonly Breed[] = [
   basset_artesien_normand,
   irish_wolfhound,
   burgos_pointer,
+  billy,
+  newfoundland,
 ];
