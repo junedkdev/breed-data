@@ -248,6 +248,10 @@ import { irish_wolfhound } from "./irish_wolfhound";
 import { burgos_pointer } from "./burgos_pointer";
 import { billy } from "./billy";
 import { newfoundland } from "./newfoundland";
+import { australian_terrier } from "./australian_terrier";
+import { austrian_black_and_tan_hound } from "./austrian_black_and_tan_hound";
+import { cavalier_king_charles_spaniel } from "./cavalier_king_charles_spaniel";
+import { taiwan_dog } from "./taiwan_dog";
 
 
 export const breedData: readonly Breed[] = [
@@ -495,4 +499,8 @@ export const breedData: readonly Breed[] = [
   burgos_pointer,
   billy,
   newfoundland,
+  australian_terrier,
+  austrian_black_and_tan_hound,
+  cavalier_king_charles_spaniel,
+  taiwan_dog,
 ];

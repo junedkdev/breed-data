@@ -169,12 +169,11 @@
 166:montenegrin_mountain_hound - CG
 167:halden_hound - CG
 168:caucasian_shepherd_dog - CG
+169:english_springer_spaniel - CG
+170:alaskan_malamute - CG
+171:landseer - CG
+172:welsh_corgi,_cardigan - CG
 
-169:english_springer_spaniel - CR
-
-170:alaskan_malamute - C
-171:landseer - C
-172:welsh_corgi,_cardigan - C
 173:carpathian_shepherd_dog - C
 174:kerry_blue_terrier - C
 175:basset_griffon_vendeen,_grand - C
@@ -246,12 +245,11 @@
 241:burgos_pointer - C
 242:billy - C
 243:newfoundland - C
+244:australian_terrier - C
+245:austrian_black_and_tan_hound - C
+246:cavalier_king_charles_spaniel - C
+247:taiwan_dog - C
 
-244:australian_terrier - R
-
-245:austrian_black_and_tan_hound
-246:cavalier_king_charles_spaniel
-247:taiwan_dog
 248:smalandsstovare
 249:griffon_fauve_de_bretagne
 250:st._bernard

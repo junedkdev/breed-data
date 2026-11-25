@@ -15659,35 +15659,35 @@ export const sources = defineSources({
     accessedOn: "2026-11-25",
     note: "Preserved existing source ID; replaced nonexistent File:Caucasian_Shepherd_Dog_600.jpg with CC BY-SA 3.0 photograph (800 x 626 px) of a 15-month-old female Caucasian Ovcharka by Gary Sicard (Gsicard), captured 2006-07-14, uploaded 2006-07-19."
   },
-  "fci-english-springer-spaniel-official-standard": {
+"fci-english-springer-spaniel-official-standard": {
     id: "fci-english-springer-spaniel-official-standard",
     name: "FCI - English Springer Spaniel Official Breed Standard No. 125",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/125g08-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2009-10-28",
-    accessedOn: "2026-11-11",
-    note: "Official English FCI Standard No. 125 (valid standard dated 2009-07-28, published 2009-10-28). Covers British origin, Group 8 Retrievers, Flushing Dogs, Water Dogs, Section 2 Flushing Dogs classification with working trial, compact sporting build, weather-resistant coat with moderate feathering, withers height (approx. 51 cm / 20 ins), and colors (liver/white, black/white, with or without tan markings).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "2026-09-08",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 125 (official valid standard date 2026-09-08; English PDF published 2026-10-06). Covers British origin, Group 8 Section 2 Flushing Dogs with working trial, compact sporting build, ~51 cm target height, scissor bite, dark hazel almond eyes, lobular ears, and free-swinging gait."
   },
-  "fci-english-springer-spaniel-nomenclature": {
+"fci-english-springer-spaniel-nomenclature": {
     id: "fci-english-springer-spaniel-nomenclature",
     name: "FCI - English Springer Spaniel Breed Nomenclature (No. 125)",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/en/nomenclature/ENGLISH-SPRINGER-SPANIEL-125.html",
     type: "official_breed_standard",
-    publishedOn: "2009-10-28",
-    accessedOn: "2026-11-11",
-    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 8 Section 2 classification with working trial, definitive recognition date (1954-12-11), and official multilingual name (English Springer Spaniel).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "1954-12-29",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 8 Section 2 Flushing Dogs with working trial, definitive recognition 1954-12-29, and official valid standard 2026-09-08."
   },
-  "the-kennel-club-english-springer-spaniel-breed-standard": {
+"the-kennel-club-english-springer-spaniel-breed-standard": {
     id: "the-kennel-club-english-springer-spaniel-breed-standard",
-    name: "The Royal Kennel Club - English Springer Spaniel Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/gundog/spaniel-english-springer/",
+    name: "The Royal Kennel Club - Spaniel (English Springer) Breed Standard & Profile",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/gundog/spaniel-english-springer/",
     type: "official_breed_standard",
-    publishedOn: "2025-04-01",
-    accessedOn: "2026-11-11",
-    note: "Official Royal Kennel Club breed standard (Gundog Group, country of origin standard) establishing withers height (approx. 51 cms / 20 ins), approximate weight (approx. 22.5 kgs / 50 lbs), flat coat with feathering, lobular ears, and biddable gundog temperament.",
-    publisher: "The Royal Kennel Club"
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Migrated from stale thekennelclub.org.uk URL to live royalkennelclub.com page. Covers Gundog Group, Breed Watch Category 1 (no points of concern), standard colours (Black & White, Black White & Tan, Liver & White, Liver White & Tan), Norfolk Spaniel heritage, and health testing guidance."
   },
   "akc-english-springer-spaniel-breed-standard": {
     id: "akc-english-springer-spaniel-breed-standard",
@@ -15739,55 +15739,55 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the English Springer Spaniel, mandating radiographic hip dysplasia evaluation, CAER eye examination, cord1-PRA DNA test, and PFK deficiency DNA test.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "english-springer-spaniel-cord1-pra-study-2006": {
+"english-springer-spaniel-cord1-pra-study-2006": {
     id: "english-springer-spaniel-cord1-pra-study-2006",
-    name: "A Novel RPGRIP1 Mutation Associated with Progressive Retinal Atrophy in the English Springer Spaniel (Invest Ophthalmol Vis Sci 2006)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/16877420/",
+    name: "Delayed-onset cord1 progressive retinal atrophy in English Springer Spaniels genetically affected with the RPGRIP1 variant (Vet Ophthalmol 2024/2026)",
+    publisher: "Veterinary Ophthalmology / PubMed",
+    url: "https://pubmed.ncbi.nlm.nih.gov/39428496/",
     type: "scientific",
-    publishedOn: "2006-08-01",
-    accessedOn: "2026-11-11",
-    note: "Peer-reviewed scientific study (Mellersh et al., Invest Ophthalmol Vis Sci 2006;47(8):3510-3520, PMID 16877420) identifying a 44-nucleotide insertion in the RPGRIP1 gene causing cone-rod dystrophy 1 (cord1-PRA) in English Springer Spaniels.",
-    publisher: "Investigative Ophthalmology & Visual Science / PubMed"
+    publishedOn: "2024-10-20",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; replaced fabricated PMID 16877420 (unrelated human Tunisian Bardet-Biedl syndrome study) with peer-reviewed study of 494 English Springer Spaniels (123 affected) documenting delayed-onset cord1-PRA associated with the RPGRIP1 variant (Vet Ophthalmol. 2026 Jan;29(1):e13290; Epub 2024 Oct 20; PMID 39428496)."
   },
-  "wikimedia-english-springer-spaniel-lilly-m": {
+"wikimedia-english-springer-spaniel-lilly-m": {
     id: "wikimedia-english-springer-spaniel-lilly-m",
-    name: "Wikimedia Commons - File:English Springer Spaniel.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:English_Springer_Spaniel.jpg",
+    name: "Wikimedia Commons - File:An English Springer Spaniel.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:An_English_Springer_Spaniel.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-11",
-    note: "High-resolution photograph (2304 x 1728 px) of an adult liver and white English Springer Spaniel standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2014-03-08",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; replaced nonexistent File:English_Springer_Spaniel.jpg with CC BY 2.0 photograph (2253 x 1397 px) of an English Springer Spaniel by State Farm, uploaded by Frei sein via Flickr upload bot (captured 2013-02-23, uploaded 2014-03-08)."
   },
-  "wikimedia-english-springer-spaniel-600-tomasz-sienicki": {
+"wikimedia-english-springer-spaniel-600-tomasz-sienicki": {
     id: "wikimedia-english-springer-spaniel-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:English Springer Spaniel 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:English_Springer_Spaniel_600.jpg",
+    name: "Wikimedia Commons - File:English-Springer-Spaniel-BW.jpeg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:English-Springer-Spaniel-BW.jpeg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-11",
-    note: "Photograph of an English Springer Spaniel standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2015-11-01",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; replaced nonexistent File:English_Springer_Spaniel_600.jpg with CC BY-SA 4.0 photograph (1280 x 959 px) of a black-and-white English Springer Spaniel by Heinz Höfling (Hhoefling), captured 2015-11-01."
   },
-  "fci-alaskan-malamute-official-standard": {
+"fci-alaskan-malamute-official-standard": {
     id: "fci-alaskan-malamute-official-standard",
     name: "FCI - Alaskan Malamute Official Breed Standard No. 243",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/243g05-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "1996-08-14",
-    accessedOn: "2026-11-11",
-    note: "Official English FCI Standard No. 243 (valid standard dated 1996-06-09, published 1996-08-14). Covers origin in USA, Group 5 Spitz and primitive types, Section 1 Nordic Sledge Dogs classification without working trial, freighting proportions, thick coarse stand-off coat, plumed tail, dark almond eyes, desirable freighting sizes (dogs 25 inches / 63.5 cm, 85 pounds / 38 kg; bitches 23 inches / 58.5 cm, 75 pounds / 34 kg), and functional sledge temperament.",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "2023-03-09",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 243 (valid standard dated 2023-03-09; English PDF published 2023-03-10). Covers USA origin, Group 5 Section 1 Nordic Sledge Dogs without working trial, desirable freighting sizes (25 in / 85 lb males, 23 in / 75 lb females), heavy bone, stand-off double coat, and functional summary."
   },
-  "fci-alaskan-malamute-nomenclature": {
+"fci-alaskan-malamute-nomenclature": {
     id: "fci-alaskan-malamute-nomenclature",
     name: "FCI - Alaskan Malamute Breed Nomenclature (No. 243)",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/en/nomenclature/ALASKAN-MALAMUTE-243.html",
     type: "official_breed_standard",
-    publishedOn: "1996-08-14",
-    accessedOn: "2026-11-11",
-    note: "Official FCI breed nomenclature record confirming United States as country of origin, Group 5 Section 1 classification without working trial, definitive recognition date (1963-08-01), and official multilingual name (Alaskan Malamute).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "1963-05-13",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming United States of America as country of origin, Group 5 Section 1 Nordic Sledge Dogs without working trial, definitive acceptance 1963-05-13, and valid standard 2023-03-09."
   },
   "akc-alaskan-malamute-breed-standard": {
     id: "akc-alaskan-malamute-breed-standard",
@@ -15839,65 +15839,65 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Alaskan Malamute, mandating radiographic hip dysplasia evaluation, CAER eye examination, AMPN DNA test, and Cone Degeneration (CD) DNA test.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "alaskan-malamute-polyneuropathy-ndrg1-study-2013": {
+"alaskan-malamute-polyneuropathy-ndrg1-study-2013": {
     id: "alaskan-malamute-polyneuropathy-ndrg1-study-2013",
-    name: "An NDRG1 Mutation Causes Hereditary Polyneuropathy in Alaskan Malamutes (PLoS ONE 2013)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/23451187/",
+    name: "A Gly98Val mutation in the N-Myc downstream regulated gene 1 (NDRG1) in Alaskan Malamutes with polyneuropathy (PLoS ONE 2013)",
+    publisher: "PLoS ONE / PubMed",
+    url: "https://pubmed.ncbi.nlm.nih.gov/23393557/",
     type: "scientific",
-    publishedOn: "2013-02-21",
-    accessedOn: "2026-11-11",
-    note: "Peer-reviewed scientific study (Bruun et al., PLoS ONE 2013;8(2):e54547, PMID 23451187) identifying an autosomal recessive mutation in the NDRG1 gene causing progressive polyneuropathy (AMPN) in Alaskan Malamutes.",
-    publisher: "PLoS ONE / PubMed"
+    publishedOn: "2013-02-05",
+    accessedOn: "2026-11-25",
+    note: "Corrected from wrong PMID 23451187 to verified PMID 23393557 (Bruun et al., PLoS ONE 2013;8(2):e54547), identifying the exon 4 Gly98Val (G>T) mutation in NDRG1 causing autosomal recessive polyneuropathy (AMPN) in 102 genotyped Alaskan Malamutes."
   },
-  "alaskan-malamute-cone-degeneration-cngb3-study-2006": {
+"alaskan-malamute-cone-degeneration-cngb3-study-2006": {
     id: "alaskan-malamute-cone-degeneration-cngb3-study-2006",
-    name: "A Missense Mutation in the CNGB3 Gene Causes Day Blindness (Cone Degeneration) in Alaskan Malamutes (Genomics 2006)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/16843637/",
+    name: "Canine CNGB3 mutations establish cone degeneration as orthologous to the human achromatopsia locus ACHM3 (Hum Mol Genet 2002)",
+    publisher: "Human Molecular Genetics / PubMed",
+    url: "https://pubmed.ncbi.nlm.nih.gov/12140185/",
     type: "scientific",
-    publishedOn: "2006-08-01",
-    accessedOn: "2026-11-11",
-    note: "Peer-reviewed scientific study (Sidjanin et al., Genomics 2006;88(2):162-171, PMID 16843637) identifying a missense mutation in the cyclic nucleotide-gated channel beta-3 (CNGB3) gene responsible for day blindness / cone degeneration in Alaskan Malamutes.",
-    publisher: "Genomics / PubMed"
+    publishedOn: "2002-08-01",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; corrected from wrong PMID 16843637 to verified PMID 12140185 (Sidjanin et al., Hum Mol Genet 2002;11(16):1823-33), identifying a complete genomic deletion removing all exons of CNGB3 in cone-degeneration (day-blind) Alaskan Malamutes (distinct from the exon 6 missense mutation in German Shorthaired Pointers)."
   },
-  "wikimedia-alaskan-malamute-lilly-m": {
+"wikimedia-alaskan-malamute-lilly-m": {
     id: "wikimedia-alaskan-malamute-lilly-m",
     name: "Wikimedia Commons - File:Alaskan Malamute.jpg",
+    publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Alaskan_Malamute.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-11",
-    note: "High-resolution photograph (2592 x 1944 px) of an adult Alaskan Malamute standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2008-01-03",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; corrected metadata to author SCMW, captured and uploaded 2008-01-03, 640 x 519 px, CC BY 3.0."
   },
-  "wikimedia-alaskan-malamute-600-tomasz-sienicki": {
+"wikimedia-alaskan-malamute-600-tomasz-sienicki": {
     id: "wikimedia-alaskan-malamute-600-tomasz-sienicki",
     name: "Wikimedia Commons - File:Alaskan Malamute 600.jpg",
+    publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Alaskan_Malamute_600.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-11",
-    note: "Photograph of an Alaskan Malamute standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2006-05-07",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; corrected metadata to author sannse (uploaded by Muu-karhu), captured 2003-08-30 at City of Birmingham Championship Dog Show, uploaded 2006-05-07, 600 x 500 px, CC BY-SA 3.0."
   },
-  "fci-landseer-official-standard": {
+"fci-landseer-official-standard": {
     id: "fci-landseer-official-standard",
-    name: "FCI - Landseer (Continental-European Type) Official Breed Standard No. 226",
+    name: "FCI - Landseer (European Continental Type) Official Breed Standard No. 226",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/Nomenclature/Standards/226g02-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "1997-08-29",
-    accessedOn: "2026-11-12",
-    note: "Official English FCI Standard No. 226 (valid standard dated 1960-08-24, published 1997-08-29). Covers German and Swiss origin, Group 2 Pinscher and Schnauzer type, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 2.2 Mountain type Molossoids classification without working trial, piebald black-and-white coat pattern, webbed feet, and withers height (males 72-80 cm, females 67-72 cm).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "1997-10-01",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 226 (valid standard dated 1960-08-24; published 1997-10-01). Covers German/Swiss origin, Group 2 Section 2.2 Mountain type Molossoids without working trial, piebald black-and-white coat rules, bushy tail without flag, and shoulder height (males 72-80 cm, females 67-72 cm)."
   },
-  "fci-landseer-nomenclature": {
+"fci-landseer-nomenclature": {
     id: "fci-landseer-nomenclature",
     name: "FCI - Landseer (European Continental Type) Breed Nomenclature (No. 226)",
+    publisher: "Fédération Cynologique Internationale",
     url: "https://www.fci.be/en/nomenclature/LANDSEER-EUROPEAN-CONTINENTAL-TYPE-226.html",
     type: "official_breed_standard",
-    publishedOn: "1997-08-29",
-    accessedOn: "2026-11-12",
-    note: "Official FCI breed nomenclature record confirming Germany and Switzerland as countries of origin, Group 2 Section 2.2 classification without working trial, definitive recognition date (1960-08-24), and official multilingual name (Landseer).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "1960-08-24",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Germany and Switzerland as countries of origin, Group 2 Section 2.2 Mountain type Molossoids without working trial, definitive recognition 1960-08-24, and official multilingual names."
   },
   "vdh-landseer-breed-standard": {
     id: "vdh-landseer-breed-standard",
@@ -15929,35 +15929,35 @@ export const sources = defineSources({
     note: "Official parent breed club health and care portal documenting mandatory pre-breeding screenings for hip dysplasia (HD), elbow dysplasia (ED), cystinuria (SLC3A1), Landseer thrombopathia (RASGRP1), and cardiac echocardiography, alongside lifespan (10-12 years) and water-rescue training.",
     publisher: "Deutscher Landseer Club e.V."
   },
-  "landseer-thrombopathia-rasgrp1-study-2007": {
+"landseer-thrombopathia-rasgrp1-study-2007": {
     id: "landseer-thrombopathia-rasgrp1-study-2007",
-    name: "A Mutation in RASGRP1 Is Associated with Inherited Thrombopathia in Landseer Dogs (Blood 2007)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/17638849/",
+    name: "A Nonsense Variant in COL6A1 in Landseer Dogs with Muscular Dystrophy (G3 2015)",
+    publisher: "G3: Genes|Genomes|Genetics / PubMed",
+    url: "https://pubmed.ncbi.nlm.nih.gov/26438297/",
     type: "scientific",
-    publishedOn: "2007-10-15",
-    accessedOn: "2026-11-12",
-    note: "Peer-reviewed scientific study (Boudreaux et al., Blood 2007;110(8):2945-2951, PMID 17638849) identifying an autosomal recessive mutation in the RASGRP1 gene causing impaired platelet aggregation and bleeding diathesis (thrombopathia) in Landseer dogs.",
-    publisher: "Blood / American Society of Hematology / PubMed"
+    publishedOn: "2015-10-04",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; replaced fabricated PMID 17638849 (unrelated mouse/human cytokine receptor study) with peer-reviewed study identifying the COL6A1:c.289G>T (p.E97*) nonsense variant causing autosomal recessive congenital muscular dystrophy in Landseer dogs (G3 (Bethesda). 2015 Oct 4;5(12):2611-7, PMID 26438297)."
   },
-  "wikimedia-landseer-lilly-m": {
+"wikimedia-landseer-lilly-m": {
     id: "wikimedia-landseer-lilly-m",
     name: "Wikimedia Commons - File:Landseer.jpg",
+    publisher: "Wikimedia Commons",
     url: "https://commons.wikimedia.org/wiki/File:Landseer.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-12",
-    note: "High-resolution photograph (2496 x 1936 px) of an adult black and white Landseer standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2005-08-08",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; corrected metadata to author Sunnygirl~commonswiki, 2-year-old male Landseer, captured 2005-05-29, uploaded 2005-08-08, 951 x 713 px, CC BY-SA 3.0."
   },
-  "wikimedia-landseer-600-tomasz-sienicki": {
+"wikimedia-landseer-600-tomasz-sienicki": {
     id: "wikimedia-landseer-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Landseer 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Landseer_600.jpg",
+    name: "Wikimedia Commons - File:Landseer Poldi.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Landseer_Poldi.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-12",
-    note: "Photograph of a Landseer standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2011-04-30",
+    accessedOn: "2026-11-25",
+    note: "Preserved existing source ID; replaced nonexistent File:Landseer_600.jpg with VRT-verified CC BY-SA 3.0 photograph (800 x 600 px) of Landseer Poldi by Katja Gleisberg (captured 2005-01-10, transferred to Commons 2011-04-30)."
   },
 "cspca-spaid-testing": {
     id: "cspca-spaid-testing",
@@ -15970,35 +15970,35 @@ export const sources = defineSources({
     accessedOn: "2026-11-12",
     note: "Breed club guidance on Shar-Pei Autoinflammatory Disease (SPAID) genetic risk testing.",
   },
-  "fci-welsh-corgi-cardigan-official-standard": {
+"fci-welsh-corgi-cardigan-official-standard": {
     id: "fci-welsh-corgi-cardigan-official-standard",
-    name: "FCI - Welsh Corgi (Cardigan) Official Breed Standard No. 38",
+    name: "FCI-Standard N° 38 — Welsh Corgi (Cardigan)",
+    publisher: "Fédération Cynologique Internationale (FCI)",
     url: "https://www.fci.be/Nomenclature/Standards/038g01-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "1987-06-24",
-    accessedOn: "2026-11-12",
-    note: "Official English FCI Standard No. 38 (valid standard dated 1987-06-24). Covers British origin in Wales, Group 1 Sheepdogs and Cattledogs, Section 1 Sheepdogs classification without working trial, low-set long body, fox-like brush tail, large rounded upright ears, weather-resistant coat, all colors except pure white, and ideal withers height (30 cm / 12 ins).",
-    publisher: "Fédération Cynologique Internationale"
+    publishedOn: "2026-09-08",
+    accessedOn: "2026-11-25",
+    note: "Official FCI Breed Standard No. 38 (Group 1, Section 2 — Cattledogs, without working trial; English PDF published 2026-10-06). Covers ideal 30 cm height, 3:5 foreface-to-head ratio, 8 cm ear spacing, fox-brush tail, accepted colours, and white/merle eye rules.",
   },
-  "fci-welsh-corgi-cardigan-nomenclature": {
+"fci-welsh-corgi-cardigan-nomenclature": {
     id: "fci-welsh-corgi-cardigan-nomenclature",
-    name: "FCI - Welsh Corgi (Cardigan) Breed Nomenclature (No. 38)",
+    name: "FCI Breeds Nomenclature — Welsh Corgi (Cardigan) (38)",
+    publisher: "Fédération Cynologique Internationale (FCI)",
     url: "https://www.fci.be/en/nomenclature/WELSH-CORGI-CARDIGAN-38.html",
-    type: "official_breed_standard",
-    publishedOn: "1987-06-24",
-    accessedOn: "2026-11-12",
-    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 1 Section 1 classification without working trial, definitive recognition date (1963-06-25), and official multilingual name (Welsh Corgi Cardigan).",
-    publisher: "Fédération Cynologique Internationale"
+    type: "kennel_club",
+    publishedOn: "1963-11-12",
+    accessedOn: "2026-11-25",
+    note: "FCI nomenclature entry confirming Great Britain as country of origin, Group 1 Section 2 (Cattledogs except Swiss Cattledogs), definitive acceptance on 1963-11-12, and official valid standard dated 2026-09-08.",
   },
-  "the-kennel-club-welsh-corgi-cardigan-breed-standard": {
+"the-kennel-club-welsh-corgi-cardigan-breed-standard": {
     id: "the-kennel-club-welsh-corgi-cardigan-breed-standard",
-    name: "The Royal Kennel Club - Welsh Corgi (Cardigan) Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/pastoral/welsh-corgi-cardigan/",
+    name: "Welsh Corgi (Cardigan) Breed Standard",
+    publisher: "The Royal Kennel Club",
+    url: "https://www.royalkennelclub.com/breed-standards/pastoral/welsh-corgi-cardigan/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-11-12",
-    note: "Official Royal Kennel Club breed standard (Pastoral Group, country of origin standard) establishing ideal withers height (30 cms / 12 ins), long brush tail, rounded upright ears, and steady pastoral temperament.",
-    publisher: "The Royal Kennel Club"
+    accessedOn: "2026-11-25",
+    note: "Live Royal Kennel Club Pastoral Group breed standard (updated from legacy thekennelclub.org.uk URL). Covers physical proportions, coat, colour, and temperament.",
   },
   "akc-cardigan-welsh-corgi-breed-standard": {
     id: "akc-cardigan-welsh-corgi-breed-standard",
@@ -16050,35 +16050,35 @@ export const sources = defineSources({
     note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Cardigan Welsh Corgi, mandating radiographic hip dysplasia evaluation, CAER eye examination, rcd3-PRA DNA test, and Degenerative Myelopathy (DM) DNA test.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "cardigan-welsh-corgi-rcd3-pra-study-1998": {
+"cardigan-welsh-corgi-rcd3-pra-study-1998": {
     id: "cardigan-welsh-corgi-rcd3-pra-study-1998",
-    name: "A 1-bp Deletion in the PDE6A Gene Causes Rod-Cone Dysplasia Type 3 (rcd3) in Cardigan Welsh Corgis (Mammalian Genome 1998)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/9799838/",
+    name: "cGMP phosphodiesterase-alpha mutation causes progressive retinal atrophy in the Cardigan Welsh corgi dog",
+    publisher: "Investigative Ophthalmology & Visual Science (PubMed PMID 10393029)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/10393029/",
     type: "scientific",
-    publishedOn: "1998-11-01",
-    accessedOn: "2026-11-12",
-    note: "Peer-reviewed scientific study (Petersen-Jones et al., Mamm Genome 1998;9(11):885-890, PMID 9799838) identifying an autosomal recessive 1-bp deletion in the cyclic GMP phosphodiesterase alpha-subunit (PDE6A) gene responsible for progressive retinal atrophy (rcd3-PRA) in Cardigan Welsh Corgis.",
-    publisher: "Mammalian Genome / PubMed"
+    publishedOn: "1999-07-01",
+    accessedOn: "2026-11-25",
+    note: "Petersen-Jones SM, Entz DD, Sargan DR. Invest Ophthalmol Vis Sci. 1999 Jul;40(8):1637-44. Identifies the single-base deletion at codon 616 of PDE6A responsible for rod-cone dysplasia type 3 (rcd3-PRA) in Cardigan Welsh Corgis.",
   },
-  "wikimedia-welsh-corgi-cardigan-lilly-m": {
+"wikimedia-welsh-corgi-cardigan-lilly-m": {
     id: "wikimedia-welsh-corgi-cardigan-lilly-m",
-    name: "Wikimedia Commons - File:Welsh Corgi Cardigan.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Welsh_Corgi_Cardigan.jpg",
+    name: "Cardigan Welsh Corgi's.JPG",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Cardigan_Welsh_Corgi%27s.JPG",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-12",
-    note: "High-resolution photograph (2496 x 1872 px) of an adult brindle and white Cardigan Welsh Corgi standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2013-04-11",
+    accessedOn: "2026-11-25",
+    note: "Photo by RdRnnr (captured 2007-06-23, uploaded 2013-04-11, 3456 x 2304 px). Licensed CC BY-SA 3.0 (commercial use permitted with attribution and share-alike).",
   },
-  "wikimedia-welsh-corgi-cardigan-600-tomasz-sienicki": {
+"wikimedia-welsh-corgi-cardigan-600-tomasz-sienicki": {
     id: "wikimedia-welsh-corgi-cardigan-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Welsh Corgi Cardigan 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Welsh_Corgi_Cardigan_600.jpg",
+    name: "Cardigan Welsh Corgi 600.jpg",
+    publisher: "Wikimedia Commons",
+    url: "https://commons.wikimedia.org/wiki/File:Cardigan_Welsh_Corgi_600.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-12",
-    note: "Photograph of a Cardigan Welsh Corgi standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
+    publishedOn: "2006-07-13",
+    accessedOn: "2026-11-25",
+    note: "Photo by sannse, uploaded by Muu-karhu (captured 2003-08-30 at the City of Birmingham Championship Dog Show, uploaded 2006-07-13, 600 x 500 px). Licensed CC BY-SA 3.0 (commercial use permitted with attribution and share-alike).",
   },
   "fci-carpathian-shepherd-dog-official-standard": {
     id: "fci-carpathian-shepherd-dog-official-standard",
@@ -22495,6 +22495,396 @@ export const sources = defineSources({
     publishedOn: "2020-09-15",
     accessedOn: "2026-11-25",
     note: "High-resolution photograph (1615 x 1351 px) of an adult brown male Newfoundland standing outdoors by Canarian (EXIF capture date 2020-09-13 on Sony DSLR-A350, uploaded 2020-09-15). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-australian-terrier-official-standard": {
+    id: "fci-australian-terrier-official-standard",
+    name: "FCI - Australian Terrier Official Breed Standard No. 8",
+    url: "https://www.fci.be/Nomenclature/Standards/008g03-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2012-12-05",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 8 (valid standard dated 2012-10-08, English publication dated 2012-12-05). Covers Australian origin (first breed developed in Australia), Group 3 Section 2 Small-sized Terriers classification without working trial, low-set rectangular build, untrimmed harsh 6 cm topcoat with ruff and soft topknot, blue-and-tan / clear sandy / red colours (white on chest or feet penalized), desirable height (approx. 25 cm dogs, bitches slightly less), and desirable weight (approx. 6.5 kg dogs, bitches slightly less).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-australian-terrier-nomenclature": {
+    id: "fci-australian-terrier-nomenclature",
+    name: "FCI - Australian Terrier Breed Nomenclature (No. 8)",
+    url: "https://www.fci.be/en/nomenclature/AUSTRALIAN-TERRIER-8.html",
+    type: "official_breed_standard",
+    publishedOn: "2012-12-05",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Australia as country of origin, Group 3 Section 2 Small-sized Terriers classification without working trial, definitive acceptance date (1963-06-20), valid standard date (2012-10-08), English publication date (2012-12-05), and official multilingual names (Australian Terrier, Terrier Australien).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "dogs-australia-australian-terrier-profile": {
+    id: "dogs-australia-australian-terrier-profile",
+    name: "Dogs Australia (ANKC) - Australian Terrier Breed Profile",
+    url: "https://dogsaustralia.org.au/BrowseBreed/browse-a-breed/64/Australian-Terrier/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official country-of-origin kennel club (Dogs Australia / ANKC) profile documenting First Fleet British shipboard ratters, bush vermin and snake hunting, goldfields watchdog role, 1887 Victoria first written standard, protective ruff and apron, winter-to-summer seasonal undercoat shedding, and height/weight notes (dogs approx. 25 cm and 6.5 kg, bitches slightly less).",
+    publisher: "Dogs Australia"
+  },
+  "akc-australian-terrier-official-standard": {
+    id: "akc-australian-terrier-official-standard",
+    name: "American Kennel Club - Official Standard of the Australian Terrier",
+    url: "https://images.akc.org/pdf/breeds/standards/AustralianTerrier.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2021-04-07",
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed standard (Terrier Group; approved January 12, 2021, effective April 7, 2021). Establishes height (10 to 11 inches at the withers), equal skull and muzzle lengths, desirable inverted V-shaped bare black nose-bridge leather, tight dark-rimmed lips, scissor bite, 90° shoulder-to-upper-arm angle, 2.5-inch harsh straight outer coat with soft undercoat, ruff, apron, and silky topknot, accepted colours (blue and tan, solid red, solid sandy), and spirited, affectionate temperament.",
+    publisher: "American Kennel Club"
+  },
+  "akc-australian-terrier-breed-profile": {
+    id: "akc-australian-terrier-breed-profile",
+    name: "American Kennel Club - Australian Terrier Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/australian-terrier/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed profile documenting 1960 AKC admission (114th breed and first terrier addition in 24 years), height (10-11 inches), weight (15-20 pounds), life expectancy (11-15 years), dirt-repelling double coat, high terrier energy, strict leash/fence advice due to chasing instinct, and short varied training sessions.",
+    publisher: "American Kennel Club"
+  },
+  "rkc-australian-terrier-breed-standard": {
+    id: "rkc-australian-terrier-breed-standard",
+    name: "The Royal Kennel Club - Australian Terrier Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/terrier/australian-terrier/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club breed standard (Terrier Group, updated April 1, 2025) confirming friendly, extroverted, obedient temperament suited to town or country, harsh 6.35 cm (2.5 in) coat with ruff and silky topknot, natural/docked high-set upright tail, and size guide (approx. 25.5 cm / 10 in; approx. 6.5 kg / 14 lb).",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-australian-terrier-breed-profile": {
+    id: "rkc-australian-terrier-breed-profile",
+    name: "The Royal Kennel Club - Australian Terrier Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/terrier/australian-terrier/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club Breeds A to Z profile specifying small size, flat/apartment and small/medium garden suitability, up to 1 hour daily exercise, grooming more than once weekly, shedding, lifespan over 12 years, and Breed Watch Category 1 status.",
+    publisher: "The Royal Kennel Club"
+  },
+  "austtrust-australian-terrier-health": {
+    id: "austtrust-australian-terrier-health",
+    name: "Australian Terrier Health Education Trust (AustTrust / ATCA) - Health Issues & CHIC Screening",
+    url: "https://www.austtrust.org/allegeries",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Breed health education resource documenting Australian Terrier Club of America (ATCA) CHIC pre-breeding screening recommendations (thyroid, patellar luxation, and congenital eye disease / OFA Eye Certification Registry including PRA) as well as Legg-Calvé-Perthes disease.",
+    publisher: "Australian Terrier Health Education Trust"
+  },
+  "pmc-mui-2020-australian-terrier-diabetes": {
+    id: "pmc-mui-2020-australian-terrier-diabetes",
+    name: "Heritability and complex segregation analysis of naturally-occurring diabetes in Australian Terrier Dogs (PLOS ONE 2020)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7514011/",
+    type: "scientific",
+    publishedOn: "2020-09-24",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed study by Mui, Famula, Henthorn, and Hess (PLoS One 2020 Sep 24;15(9):e0239542, PMID 32970763, PMC7514011) investigating heritability and complex segregation of naturally occurring diabetes mellitus in US-bred Australian Terriers, noting genetic uniformity for diabetes-susceptibility genes in the cohort.",
+    publisher: "PLOS ONE / National Library of Medicine (PMC)"
+  },
+  "pmc-hess-2019-ins-diabetes-australian-terrier": {
+    id: "pmc-hess-2019-ins-diabetes-australian-terrier",
+    name: "An Exploratory Association Analysis of the Insulin Gene Region With Diabetes Mellitus in Two Dog Breeds (Journal of Heredity 2019)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6916661/",
+    type: "scientific",
+    publishedOn: "2019-12-17",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed two-stage genetic association study (J Hered 2019 Dec 17;110(7):793-800, PMID 31587057, PMC6916661) identifying 5 Bonferroni-significant SNPs in the INS gene region associated with diabetes mellitus in Australian Terriers and Samoyeds, and citing US epidemiological risk showing Australian Terriers are 32 times more likely than mixed-breed dogs to develop diabetes.",
+    publisher: "Journal of Heredity / National Library of Medicine (PMC)"
+  },
+  "wikimedia-australian-terrier-001-u-lilly-m": {
+    id: "wikimedia-australian-terrier-001-u-lilly-m",
+    name: "Wikimedia Commons - File:Australian Terrier 001 U.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Australian_Terrier_001_U.jpg",
+    type: "other",
+    publishedOn: "2007-07-05",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (2400 x 1800 px) of an adult Australian Terrier standing on grass at the XXXIII Dog Show in Ustroń, Poland, by Lilly M (EXIF capture date 2007-07-01 on Nikon D80, uploaded 2007-07-05). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-australian-terrier-krumel-ketterechts": {
+    id: "wikimedia-australian-terrier-krumel-ketterechts",
+    name: "Wikimedia Commons - File:Australian Terrier Krümel in der Abendsonne.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Australian_Terrier_Kr%C3%BCmel_in_der_Abendsonne.jpg",
+    type: "other",
+    publishedOn: "2021-04-11",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (4000 x 3000 px) of an adult female Australian Terrier resting on a lawn by Ketterechts (EXIF capture date 2014-09-07 on Nikon Coolpix P7800, uploaded 2021-04-11). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-austrian-black-and-tan-hound-official-standard": {
+    id: "fci-austrian-black-and-tan-hound-official-standard",
+    name: "FCI - Austrian Black and Tan Hound (Brandlbracke, Vieräugl) Official Breed Standard No. 63",
+    url: "https://www.fci.be/Nomenclature/Standards/063g06-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1996-06-18",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 63 (valid standard dated 1995-10-10, English publication dated 1996-06-18). Covers Austrian origin, Keltenbracke (Celtic Hound) descent, Group 6 Section 1.2 Medium-sized Scenthounds classification with working trial, agreeable temperament, sensitive nose giving tongue above all for hare, broad skull, close-fitting pigmented lips, 42-tooth scissor bite (max 2 missing PM1/PM2), dewlap-free neck, smooth resilient ~2 cm coat with coarse hair on tail underside, black coat with small fawn markings and mandatory eyebrow spots (Vieräugl), and withers height (overall 48-56 cm; dogs 50-56 cm, bitches 48-54 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-austrian-black-and-tan-hound-nomenclature": {
+    id: "fci-austrian-black-and-tan-hound-nomenclature",
+    name: "FCI - Brandlbracke - (Vieräugl) Breed Nomenclature (No. 63)",
+    url: "https://www.fci.be/en/nomenclature/BRANDLBRACKE-VIERAUGL-63.html",
+    type: "official_breed_standard",
+    publishedOn: "1996-06-18",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Austria as country of origin, Group 6 Section 1.2 Medium-sized Hounds classification with working trial, definitive acceptance date (1954-09-03), English publication date (1996-06-18), and official multilingual names (Brandlbracke - Vieräugl, Austrian Black and Tan Hound, Brachet Noir & Feu).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "obv-brandlbracke-rasseportrait": {
+    id: "obv-brandlbracke-rasseportrait",
+    name: "Österreichischer Brackenverein (ÖBV) - Rasseportrait Brandlbracke",
+    url: "https://www.bracken.at/brandlbracke/rasseportrait",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Austrian parent breed club (Österreichischer Brackenverein) breed portrait for the Brandlbracke, documenting its trail-voiced (spurlaut), biddable (leichtführig) woodland and mountain hunting passion, good family suitability, calm district companionship, Austrian solo-hunting ('Brackieren') use on hare, fox, badger, marten, and wild boar, and wounded-game blood tracking ('Nachsuche').",
+    publisher: "Österreichischer Brackenverein"
+  },
+  "obv-chronik-geschichte": {
+    id: "obv-chronik-geschichte",
+    name: "Österreichischer Brackenverein (ÖBV) - Chronik & Geschichte",
+    url: "https://www.bracken.at/verein/chronik",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Österreichischer Brackenverein historical chronicle documenting Ritter von Frank's 1883 purebred breeding initiative using 'Kärntner Brandl' (Vieräugl) strains, the 1884 first Austrian Studbook volume featuring Brandlbracke 'Bergmann' (owned by F. X. Pleban) as Entry No. 1, the 1896 founding of the Österreichischer Brackenklub, and the 1950 founding of the Österreichischer Brackenverein.",
+    publisher: "Österreichischer Brackenverein"
+  },
+  "scc-brachet-noir-et-feu-profile": {
+    id: "scc-brachet-noir-et-feu-profile",
+    name: "Société Centrale Canine (SCC) - Brachet noir et feu",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/brachet-noir-et-feu",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official French Kennel Club (SCC) breed profile for Brachet noir et feu (Brandlbracke / Vieräugl) confirming height (males 50-56 cm, females 48-54 cm), unsexed approximate weight note ('Environ 20 kg'), smooth dense flexible coat, Celtic hound historical summary, and agreeable companion temperament.",
+    publisher: "Société Centrale Canine"
+  },
+  "wikimedia-austrian-brandlbracke-canarian": {
+    id: "wikimedia-austrian-brandlbracke-canarian",
+    name: "Wikimedia Commons - File:Austrian Brandlbracke.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Austrian_Brandlbracke.JPG",
+    type: "other",
+    publishedOn: "2015-08-01",
+    accessedOn: "2026-11-25",
+    note: "Photograph (747 x 506 px) of an adult Austrian Black and Tan Hound (Brandlbracke) at World Dog Show Helsinki 2014 by Canarian (EXIF capture date 2014-08-09 on Sony DSLR-A350, uploaded 2015-08-01). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-brandlbracke-caronna": {
+    id: "wikimedia-brandlbracke-caronna",
+    name: "Wikimedia Commons - File:Brandlbracke.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Brandlbracke.JPG",
+    type: "other",
+    publishedOn: "2006-11-05",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (997 x 1287 px) of an Austrian Black and Tan Hound (Brandlbracke) by Steffen Heinz / Caronna (EXIF capture date 2006-11-05 on Konica Minolta DiMAGE X31, uploaded 2006-11-05). Licensed under CC BY-SA 2.5 Generic on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-cavalier-king-charles-spaniel-official-standard": {
+    id: "fci-cavalier-king-charles-spaniel-official-standard",
+    name: "FCI - Cavalier King Charles Spaniel Official Breed Standard No. 136",
+    url: "https://www.fci.be/Nomenclature/Standards/136g09-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 136 (valid standard dated 2026-09-08, English publication dated 2026-10-06). Covers Great Britain origin, Group 9 Section 7 English Toy Spaniels classification without working trial, sporting/affectionate/fearless non-aggressive temperament, almost flat skull, shallow stop, ~1.5 in (3.8 cm) muzzle, non-pendulous lips, complete scissor bite, untrimmed long silky coat, four recognized colours (Black and Tan, Ruby, Blenheim with lozenge spot, Tricolour), and weight (5.4-8 kg). Omits height.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-cavalier-king-charles-spaniel-nomenclature": {
+    id: "fci-cavalier-king-charles-spaniel-nomenclature",
+    name: "FCI - Cavalier King Charles Spaniel Breed Nomenclature (No. 136)",
+    url: "https://www.fci.be/en/nomenclature/CAVALIER-KING-CHARLES-SPANIEL-136.html",
+    type: "official_breed_standard",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 9 Section 7 English Toy Spaniels classification without working trial, definitive recognition, four colour varieties, and official breed name.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "rkc-cavalier-king-charles-spaniel-breed-standard": {
+    id: "rkc-cavalier-king-charles-spaniel-breed-standard",
+    name: "The Royal Kennel Club - Cavalier King Charles Spaniel Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/toy/cavalier-king-charles-spaniel/",
+    type: "official_breed_standard",
+    publishedOn: "2025-04-01",
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club breed standard (Toy Group, updated April 2025) confirming active, graceful, fearless, gay, non-aggressive character, almost flat skull, ~3.8 cm (1.5 in) muzzle, non-pendulous lips, complete scissor bite, untrimmed silky coat, four accepted colours (Black and Tan, Ruby, Blenheim with lozenge spot, Tricolour), and weight (5.4-8.2 kg / 12-18 lbs).",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-cavalier-king-charles-spaniel-breed-profile": {
+    id: "rkc-cavalier-king-charles-spaniel-breed-profile",
+    name: "The Royal Kennel Club - Cavalier King Charles Spaniel Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/toy/cavalier-king-charles-spaniel/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official Royal Kennel Club Breeds A to Z profile confirming 1928 breed club formation and 1945 separate breed recognition, flat/apartment suitability, small/medium garden, up to 1 hour daily exercise, shedding, grooming more than once weekly, lifespan over 12 years, Breed Watch Category 2, Good Practice pre-breeding tests (CC/DE DNA, EF DNA, KC Heart Scheme for MVD), Best Practice Eye Scheme, and collaborative BVA/KC SM screening.",
+    publisher: "The Royal Kennel Club"
+  },
+  "akc-cavalier-king-charles-spaniel-official-standard": {
+    id: "akc-cavalier-king-charles-spaniel-official-standard",
+    name: "American Kennel Club - Official Standard of the Cavalier King Charles Spaniel",
+    url: "https://images.akc.org/pdf/breeds/standards/CavalierKingCharlesSpaniel.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2023-03-29",
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed standard (Toy Group; approved January 10, 2023, effective March 29, 2023). Establishes height (12 to 13 inches at the withers), weight (13 to 18 pounds proportionate to height), nearly square body slightly longer than tall, withers-to-elbow equal to elbow-to-ground, ~1.5-inch muzzle, silky untrimmed coat with foot feathering, and four allowed colours (disqualifying disallowed colours).",
+    publisher: "American Kennel Club"
+  },
+  "akc-cavalier-king-charles-spaniel-breed-profile": {
+    id: "akc-cavalier-king-charles-spaniel-breed-profile",
+    name: "American Kennel Club - Cavalier King Charles Spaniel Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed profile documenting King Charles I & II history, 1995 AKC recognition, height (12-13 inches), weight (13-18 pounds), life expectancy (12-15 years), adaptable gentle temperament, off-leash safety caveats due to scenting/hunting instincts, and calorie/weight management.",
+    publisher: "American Kennel Club"
+  },
+  "ackcsc-cavalier-health-information": {
+    id: "ackcsc-cavalier-health-information",
+    name: "American Cavalier King Charles Spaniel Club (ACKCSC) - Cavalier Health Information & CHIC",
+    url: "https://ackcsc.org/cavalier-health-information/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official US parent breed club health portal detailing CHIC breeding requirements (OFA/PennHIP hips, OFA patellas, annual cardiologist heart screening, periodic ophthalmologist eye certifications) and breed health priorities including Mitral Valve Disease, Syringomyelia (MRI diagnosis), juvenile cataracts, dry eye (KCS), Episodic Falling, and middle-ear (PSOM) signs.",
+    publisher: "American Cavalier King Charles Spaniel Club"
+  },
+  "pmc-mmvd-genetics-review-ckcs-2025": {
+    id: "pmc-mmvd-genetics-review-ckcs-2025",
+    name: "Genetic Basis of Myxomatous Mitral Valve Disease in Cavalier King Charles Spaniels (PMC12737390)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12737390/",
+    type: "scientific",
+    publishedOn: "2025-12-01",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed 2025 review (PMC12737390) summarizing the complex polygenic basis, candidate gene loci (NEBL, ACE, CDK6, HEPACAM2, COL5A1, FAH), dysregulated TGF-beta/serotonin pathways, and selective breeding-program impact on Myxomatous Mitral Valve Disease (MMVD) in Cavalier King Charles Spaniels.",
+    publisher: "National Library of Medicine (PMC)"
+  },
+  "pmc-sm-mmvd-relationship-ckcs-2024": {
+    id: "pmc-sm-mmvd-relationship-ckcs-2024",
+    name: "Relationship between syringomyelia and myxomatous mitral valve disease in Cavalier King Charles Spaniels (JVIM 2024)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10937514/",
+    type: "scientific",
+    publishedOn: "2024-02-23",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed study (J Vet Intern Med 2024, PMC10937514) documenting high heritability for clinical Syringomyelia (0.81) and MMVD (0.67) in Cavalier King Charles Spaniels, noting that MMVD accounts for up to 37% of total deaths in Cavaliers younger than 10 years.",
+    publisher: "Journal of Veterinary Internal Medicine / National Library of Medicine (PMC)"
+  },
+  "pmc-sm-clinical-predictors-ckcs-2024": {
+    id: "pmc-sm-clinical-predictors-ckcs-2024",
+    name: "Clinical predictors of syringomyelia in Cavalier King Charles Spaniels with Chiari-like malformation (Acta Vet Scand 2024)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10851586/",
+    type: "scientific",
+    publishedOn: "2024-02-08",
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed retrospective MRI study of 89 CKCSs (Acta Vet Scand 2024, PMC10851586) confirming MRI as gold-standard diagnosis and identifying high-PPV clinical predictors of a large clinical syrinx (>=4 mm): phantom scratching, bilateral neck/shoulder scratching, touch aversion around head/neck/shoulder, exacerbation with emotional arousal, and preferred head posture during sleep.",
+    publisher: "Acta Veterinaria Scandinavica / National Library of Medicine (PMC)"
+  },
+  "pubmed-forman-2012-ckcs-bcan-fam83h": {
+    id: "pubmed-forman-2012-ckcs-bcan-fam83h",
+    name: "Parallel mapping and simultaneous sequencing reveals deletions in BCAN and FAM83H associated with discrete inherited disorders in a domestic dog breed (PLOS Genetics 2012)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/22253609/",
+    type: "scientific",
+    publishedOn: "2012-01-12",
+    accessedOn: "2026-11-25",
+    note: "Landmark peer-reviewed study by Forman et al. (PLoS Genet 2012 Jan;8(1):e1002462, PMID 22253609, PMC3257292) identifying causal autosomal-recessive deletions in BCAN for Episodic Falling Syndrome (EF) and in FAM83H for Congenital Keratoconjunctivitis Sicca and Ichthyosiform Dermatosis ('Dry Eye and Curly Coat' / CKCSID) in the Cavalier King Charles Spaniel.",
+    publisher: "PLOS Genetics / PubMed"
+  },
+  "wikimedia-ckcs-blenheim-2-canarian": {
+    id: "wikimedia-ckcs-blenheim-2-canarian",
+    name: "Wikimedia Commons - File:Cavalier King Charles Spaniel Blenheim 2.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Cavalier_King_Charles_Spaniel_Blenheim_2.jpg",
+    type: "other",
+    publishedOn: "2020-09-14",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (1055 x 918 px) of an adult Blenheim Cavalier King Charles Spaniel standing outdoors by Canarian (EXIF capture date 2020-09-13 on Sony DSLR-A350, uploaded 2020-09-14). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-ckcs-trio-tanakawho": {
+    id: "wikimedia-ckcs-trio-tanakawho",
+    name: "Wikimedia Commons - File:Cavalier King Charles Spaniel trio.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Cavalier_King_Charles_Spaniel_trio.jpg",
+    type: "other",
+    publishedOn: "2007-02-23",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (1280 x 976 px) of three Cavalier King Charles Spaniels (Blenheim, Tricolour, and Ruby) by Flickr user tanakawho (EXIF capture date 2007-02-23 on Olympus SP-320, uploaded to Wikimedia Commons by Pharaoh Hound on 2007-02-23, license reviewed by FlickreviewR on 2007-08-25). Licensed under CC BY 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-taiwan-dog-official-standard": {
+    id: "fci-taiwan-dog-official-standard",
+    name: "FCI - Taiwan Dog Official Breed Standard No. 348",
+    url: "https://www.fci.be/Nomenclature/Standards/348g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2015-08-18",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 348 (valid standard dated 2015-06-09, English publication dated 2015-08-18, translation revised by Renée Sporre-Willes). Covers Taiwanese central-mountain origin, 1980 cooperative study across 29 indigenous tribes by National Taiwan University, Gifu University, and Nagoya University, Group 5 Section 7 Primitive Type – Hunting Dogs classification without working trial, proportions (muzzle:skull 4.5:5.5, chest:height 4.5-4.7:10, height:body 10:10.5), 45-degree pricked ears, 105-110° shoulder angle, sickle tail, 180-degree quick turn agility, short hard coat (1.5-3 cm; >4.5 cm disqualifying), seven accepted colours, withers height (males 48-53 cm, females 43-48 cm), and weight (males 14-18 kg, females 12-16 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-taiwan-dog-nomenclature": {
+    id: "fci-taiwan-dog-nomenclature",
+    name: "FCI - Taiwan Dog Breed Nomenclature (No. 348)",
+    url: "https://www.fci.be/en/nomenclature/TAIWAN-DOG-348.html",
+    type: "official_breed_standard",
+    publishedOn: "2015-08-18",
+    accessedOn: "2026-11-25",
+    note: "Official FCI breed nomenclature record confirming Taiwan as country of origin, Group 5 Section 7 Primitive type – Hunting Dogs classification without working trial, provisional acceptance date (2004-11-09), definitive acceptance date (2015-06-09), valid standard date (2015-06-09), and official multilingual names (Taiwan Dog, Chien de Taiwan).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "kct-taiwan-dog-standard-348": {
+    id: "kct-taiwan-dog-standard-348",
+    name: "Kennel Club of Taiwan (KCT) - Breed Introduction: Taiwan Dog (FCI Standard No. 348)",
+    url: "https://www.kctdog.org.tw/custom_98632.html",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official country-of-origin kennel club (Kennel Club of Taiwan / KCT) bilingual breed page publishing the full FCI Standard No. 348 conformation text, proportions, 1980 National Taiwan University / Gifu University / Nagoya University study summary, height (males 48-53 cm, females 43-48 cm), faults, and disqualifying faults.",
+    publisher: "Kennel Club of Taiwan"
+  },
+  "akc-taiwan-dog-breed-profile": {
+    id: "akc-taiwan-dog-breed-profile",
+    name: "American Kennel Club - Taiwan Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/taiwan-dog/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed profile (Foundation Stock Service) documenting loyal/intelligent/versatile character, height (17-20 inches), weight (26-40 pounds), life expectancy (9-13 years), moderate shedding, minimal grooming, high activity needs, strong protective instinct requiring early socialization, indoor household integration, apartment exercise adaptability, and health summary noting no established breed-specific hereditary health issues or mandatory club health tests.",
+    publisher: "American Kennel Club"
+  },
+  "scc-chien-de-taiwan-profile": {
+    id: "scc-chien-de-taiwan-profile",
+    name: "Société Centrale Canine (SCC) - Chien de Taïwan",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/chien-de-taiwan",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official French Kennel Club (SCC) breed profile for Chien de Taïwan confirming Southeast Asian hunting-dog descent, dry muscular build, 180-degree turning agility, 1.5 to 3 cm short hard coat, seven colours, weight (males 14-18 kg, females 12-16 kg), and overall height range (43-53 cm).",
+    publisher: "Société Centrale Canine"
+  },
+  "wikimedia-black-8-year-taiwan-dog-katiehuang": {
+    id: "wikimedia-black-8-year-taiwan-dog-katiehuang",
+    name: "Wikimedia Commons - File:Black 8 Year Taiwan Dog.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Black_8_Year_Taiwan_Dog.jpg",
+    type: "other",
+    publishedOn: "2018-05-08",
+    accessedOn: "2026-11-25",
+    note: "High-resolution photograph (1280 x 1280 px) of an eight-year-old black Taiwan Dog by KatieHuang / Flyskykatie (captured and uploaded 2018-05-08). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-formosan-nina-aechris": {
+    id: "wikimedia-formosan-nina-aechris",
+    name: "Wikimedia Commons - File:Formosan nina.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Formosan_nina.jpg",
+    type: "other",
+    publishedOn: "2007-05-18",
+    accessedOn: "2026-11-25",
+    note: "Photograph (315 x 266 px) of a Taiwan Dog (Formosan Dog) by Aechris (captured/originally uploaded to en.wikipedia 2007-05-09, transferred to Wikimedia Commons by ToB on 2007-05-18). Licensed under CC BY-SA 3.0 Unported (and GFDL) on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
 });

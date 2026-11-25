@@ -6,20 +6,21 @@ export const landseer: Breed = {
   scientificName: "Canis lupus familiaris",
 
   alternateNames: [
+    "Landseer (European Continental Type)",
     "Landseer (Continental-European Type)",
+    "Landseer (Europäisch-Kontinentaler Typ)",
     "Landseer ECT",
-    "Landseer Neufundländer",
-    "Landseer Continental",
-    "Landseer European Continental Type"
+    "Landseer Newfoundland (Continental European Type)",
+    "Landseer (Type Continental-Européen)",
+    "Landseer (Tipo Europeo Continental)"
   ],
 
-  group:
-    "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 2.2 — Mountain-type Molossoids (without working trial; also classified in the Working and Guardian Dog groups)",
+  group: "Mountain-Type Water Rescue and Companion Dog (Molossoid)",
 
   origin: {
     country: "Germany and Switzerland",
     region:
-      "Continental Europe (developed in Germany and Switzerland from historic black-and-white Newfoundland dogs imported from Great Britain)"
+      "Continental Europe (developed in Germany and Switzerland from historic black-and-white Newfoundland-type water dogs)"
   },
 
   images: [
@@ -29,58 +30,58 @@ export const landseer: Breed = {
         "https://commons.wikimedia.org/wiki/File:Landseer.jpg",
       title: "Landseer.jpg",
       description:
-        "An adult black and white Landseer standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2496,
-      height: 1936,
+        "A two-year-old male black-and-white Landseer photographed outdoors.",
+      creator: "Sunnygirl~commonswiki",
+      uploader: "Sunnygirl~commonswiki",
+      capturedOn: "2005-05-29",
+      uploadedOn: "2005-08-08",
+      width: 951,
+      height: 713,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Landseer.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Sunnygirl~commonswiki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Landseer.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Landseer_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Landseer_Poldi.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Landseer_600.jpg",
-      title: "Landseer 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Landseer_Poldi.jpg",
+      title: "Landseer Poldi.jpg",
       description:
-        "A Landseer standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
+        "An adult black-and-white Landseer named Poldi standing outdoors.",
+      creator: "Katja Gleisberg",
+      uploader: "Caronna (transferred to Commons via File Upload Bot)",
+      capturedOn: "2005-01-10",
+      uploadedOn: "2011-04-30",
+      width: 800,
+      height: 600,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Landseer_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Katja Gleisberg, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Landseer_Poldi.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-25"
     }
   ],
 
   overview: {
     summary:
-      "A tall, noble, and harmonious giant black-and-white water-rescue and family companion dog developed in Germany and Switzerland, celebrated for its crisp piebald coat, webbed paws, gentle temperament, and agile, elevated stride.",
+      "A tall, powerful, and agile black-and-white giant dog developed in Germany and Switzerland, celebrated for its crisp piebald coat, natural swimming talent, long-reaching stride, and gentle, devoted family temperament.",
 
     description:
-      "The Landseer (Continental-European Type) is a tall, powerful, and well-proportioned giant working dog recognized for its striking pure white coat marked with distinct black patches and a black head with a crisp white muzzle blaze. Higher on the leg and lighter-framed than the solid-black Newfoundland, the breed displays effortless, long-reaching movement and extraordinary swimming endurance aided by webbed toes and a dense, water-repellent double coat. The broad, noble head features a well-chiseled muzzle, medium triangular drop ears carried close to the cheeks, and warm, friendly brown eyes radiating calm confidence. In domestic life, it is famously sweet-tempered, patient with children, and deeply devoted to its family, combining quiet household dignity with courageous water-rescue and protective instincts.",
+      "The Landseer (European Continental Type) is a commanding yet notably athletic giant molossoid dog distinguished by its clear white coat marked with bold black patches on the body and croup and a black head divided by a white muzzle and symmetrical white blaze. Taller on the leg and lighter-moving than its heavier Newfoundland cousin, it covers ground with a free, spacious stride and swims effortlessly thanks to strong muscular limbs and webbed toes. Its long, dense, fine-textured double coat carries a lighter undercoat than the solid-black Newfoundland and naturally settles back into place even when brushed backward. Calm, loyal, and patient at home, it pairs serene household dignity with a courageous lifesaving and watchful nature outdoors.",
 
     history:
-      "The breed traces its roots to the black-and-white working fishing dogs of Newfoundland that were imported into England during the eighteenth and nineteenth centuries. Immortalized in famous paintings by British animalier Sir Edwin Landseer—most notably 'A Distinguished Member of the Humane Society' (1838)—the black-and-white dogs became known globally as Landseers. While British and North American breeders eventually merged the black-and-white variety into the heavier, shorter-legged Newfoundland breed, dedicated enthusiasts in Germany, Switzerland, and the Netherlands recognized that the original taller, more agile black-and-white type was disappearing. Beginning in the early twentieth century, continental breeders systematically selected pure black-and-white dogs to preserve the tall, athletic conformation and distinct piebald markings. In 1960, international kennel authorities recognized the Landseer (Continental-European Type) as a completely separate, independent breed distinct from the Newfoundland.",
+      "The breed takes its name from nineteenth-century British artist Sir Edwin Landseer, whose celebrated paintings popularized the striking black-and-white water dogs brought from Newfoundland to Britain. While English and North American breeders eventually treated black-and-white dogs simply as a colour variety of the heavier, shorter-legged Newfoundland, dedicated enthusiasts in Germany and Switzerland worked through the early twentieth century to preserve the taller, more agile continental type as an independent population. Separate international recognition was granted in August 1960, establishing the Landseer (European Continental Type) as a distinct giant companion, watch, and water-rescue breed.",
 
     originalPurpose:
-      "Maritime water rescue, retrieving heavy fishing nets and drowning sailors from icy seas, and guarding coastal fishing stations and rural homesteads.",
+      "Water rescue, coastal utility work, and dependable guarding and companionship around homes and waterways.",
 
     currentRoles: [
-      "Certified water rescue and lifesaving dog",
-      "Devoted family companion and gentle guardian",
-      "Carting, drafting, and recreational weight-pulling partner",
-      "Therapy visiting dog in hospitals and care facilities"
+      "Water rescue and lifesaving sport dog",
+      "Gentle, devoted family companion and watchful home dog",
+      "Carting, drafting, and low-impact outdoor hiking partner",
+      "Therapy visiting dog"
     ]
   },
 
@@ -102,63 +103,58 @@ export const landseer: Breed = {
     weight: {
       unit: "kg",
       male: {
-        min: 60,
-        max: 75
+        min: 50,
+        max: 68
       },
       female: {
-        min: 50,
-        max: 60
+        min: 45,
+        max: 59
       }
     },
 
     lifespanYears: {
-      min: 10,
-      max: 12
+      min: 8,
+      max: 11
     },
 
     coatType:
-      "Long, straight, and dense double coat, soft to the touch, with a dense insulating undercoat that is less abundant than in the black Newfoundland; shorter and smooth on the head, with rich feathering on the ears, neck, chest, legs, and bushy tail.",
+      "Long, straight (slight wave permitted on back and hindquarters), dense, and fine to the touch double coat—short on the head—with an undercoat less thick than in the black Newfoundland; brushed against the lay, it falls back into place naturally.",
 
     coatLength: "Long",
 
     coatColors: [
-      "Pure white main color with distinct black patches on the trunk and croup; black head with a white muzzle and symmetrical white blaze extending to the collar"
+      "Clear white main colour with distinct black patches on the body and croup; collar, forechest, belly, legs, and tail must be white; black head with a white muzzle and symmetrical white blaze extending to the white collar (minor ticking in the white is tolerated though bred away)"
     ],
 
     sheddingLevel:
-      "High; sheds moderate amounts year-round and blows its dense undercoat heavily twice a year during seasonal coat transitions",
+      "High; sheds steadily throughout the year and blows its undercoat heavily twice a year during seasonal changes",
 
     droolingLevel:
-      "Moderate; clean, moderately tight lips without excessive flews produce less drool than heavier molossoids, though moisture occurs after drinking or exercise",
+      "Moderate; cleaner, tighter lips produce less drool than heavier molossoids, though some slobbering occurs after drinking or exercise",
 
     distinctiveFeatures: [
-      "Tall, powerful, and harmonious giant outline standing higher on the leg and lighter in movement than the Newfoundland",
-      "Height at the withers of 72 to 80 cm for males and 67 to 72 cm for females",
-      "Working weight of 60 to 75 kg for males and 50 to 60 kg for females in lean, muscular condition",
-      "Distinctive pure white main coat marked with black saddle patches on the trunk and a black head with a symmetrical white blaze",
-      "Broad, sculpted head with a pronounced occiput, clearly defined stop, and square, strong muzzle",
-      "Complete, regular scissor bite with powerful jaws and sound white teeth",
-      "Medium-sized, moderately deep-set almond-shaped brown to dark brown eyes with tight lids expressing gentle nobility",
-      "Medium-sized, triangular drop ears with slightly rounded tips set high, hanging close to the head and covered in short hair with longer fringes at the back",
-      "Strong, muscular, and slightly arched neck without pronounced dewlap, set cleanly into well-muscled shoulders",
-      "Deep, broad chest between heavily muscled shoulders with well-sprung ribs and a firm, straight back",
-      "Strong, bushy tail reaching just below the hocks, carried hanging down with a slight curve at rest and horizontally in motion",
-      "Straight, heavily muscled forelegs and strong thighs with large, webbed cat-like feet engineered for swimming"
+      "Tall, powerful, and notably agile giant outline standing higher on the leg than the Newfoundland",
+      "Height at the shoulders of 72 to 80 cm for males and 67 to 72 cm for females (small deviations tolerated)",
+      "Athletic giant-breed weight of roughly 50 to 68 kg for males and 45 to 59 kg for females",
+      "Clear white coat with bold black body and croup patches, white legs, collar, belly, and tail, and a black head with symmetrical white blaze",
+      "Long, fine-textured double coat that settles naturally back into place when brushed backward",
+      "Broad, sculpted head with a clean muzzle, complete scissor bite, and warm brown eyes",
+      "Medium-sized, triangular drop ears hanging close to the head",
+      "Deep, broad chest with strongly sprung ribs, heavily muscled shoulders, and a clearly visible flank depression between belly and loin",
+      "Strong, very bushy tail extending just past the hocks without forming a drooping flag",
+      "Strong-boned, heavily muscled limbs with light-to-moderate feathering, free ground-covering gait, and webbed feet"
     ]
   },
 
   temperament: {
     traits: [
-      "Gentle, sweet-tempered, and remarkably patient in family life",
-      "Deeply loyal, affectionate, and people-oriented companion",
-      "Courageous, calm, and confident in water and outdoor environments",
-      "Natural lifesaving instinct with a strong affinity for swimming",
-      "Patient, protective, and trustworthy around familiar children",
-      "Sociable and peaceful with other dogs and household pets",
-      "Dignified, watchful, and discerning with unfamiliar strangers",
-      "Intelligent and willing to work when guided with calm consistency",
-      "Low reactivity indoors, displaying serene composure",
-      "Sensitive to handler tone and averse to harsh training methods"
+      "Gentle, calm, and patient in everyday family life",
+      "Deeply loyal, devoted, and closely bonded with its household",
+      "Intelligent, cooperative, and eager to learn with kind guidance",
+      "Naturally watchful and protective without unprovoked aggression",
+      "Confident, courageous, and strongly drawn to swimming and water work",
+      "Generally sociable with familiar children, other dogs, and household pets",
+      "Sensitive to handler tone and happiest under steady, positive training"
     ],
 
     scores: {
@@ -177,7 +173,7 @@ export const landseer: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate; requires daily steady walking, swimming opportunities, and low-impact outdoor enrichment rather than high-impact running",
+        "Moderate; thrives on steady daily walks, swimming, and low-impact outdoor enrichment rather than high-impact sprinting or jumping",
 
       minutesPerDay: {
         min: 60,
@@ -185,11 +181,11 @@ export const landseer: Breed = {
       },
 
       activities: [
-        "Daily steady leashed walks and gentle woodland trail hikes",
-        "Swimming, water retrieving, and water-rescue training drills in lakes or rivers",
-        "Recreational carting, drafting, and light weight-pulling with a proper harness",
-        "Free movement and gentle play in a securely fenced yard",
-        "Obedience training, tracking, and cognitive puzzle games"
+        "Daily steady leashed walks and gentle woodland hikes",
+        "Swimming, water retrieving, and structured water-rescue training",
+        "Carting, drafting, and light pulling once skeletally mature",
+        "Supervised movement inside a large, securely fenced yard",
+        "Obedience, tracking, and calm mental-enrichment games"
       ]
     },
 
@@ -197,36 +193,33 @@ export const landseer: Breed = {
       level: "Moderate to high",
 
       brushing:
-        "Brush thoroughly two to three times weekly using a pin brush, slicker brush, and wide-toothed metal comb down to the skin to remove dead undercoat and prevent mats behind the ears, on the chest ruff, and in the leg feathering; increase to daily line-brushing during spring and autumn coat blows.",
+        "Brush thoroughly two to three times a week with a pin brush, slicker brush, and wide metal comb down to the skin—increasing daily during seasonal coat blows—to prevent mats behind the ears and in the feathering.",
 
       bathing:
-        "Bathe every six to eight weeks or after muddy water outings, using a gentle canine shampoo; ensure the dense coat is thoroughly dried down to the skin to prevent hot spots.",
+        "Bathe every six to eight weeks or after muddy water outings using a gentle canine shampoo, drying the dense coat completely to the skin to help prevent hot spots.",
 
       notes: [
-        "Never shave the double coat; the outer coat and undercoat regulate body temperature and protect skin from sunburn.",
-        "Inspect the triangular drop ears weekly for moisture, wax buildup, or debris, drying the canals thoroughly after swimming.",
-        "Trim stray hair between the webbed toes and around hocks to prevent mud and snow accumulation.",
-        "Trim heavy nails every two to three weeks to preserve correct foot posture.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "Provide thick, cushioned orthopedic bedding to protect heavy elbow joints from pressure calluses."
+        "Never shave the double coat; it helps regulate temperature and shields skin from sunburn.",
+        "Check and dry the hanging ears weekly—especially after swimming—to prevent moisture-related ear infections.",
+        "Trim stray fur between the webbed toes to prevent mud or snow compaction.",
+        "Trim heavy nails regularly and brush teeth several times a week with dog-safe enzymatic toothpaste.",
+        "Provide thick orthopedic bedding to cushion heavy elbows against pressure calluses."
       ]
     },
 
     training: {
       difficulty:
-        "Easy to moderate; intelligent, biddable, and eager to please, responding warmly to patient, positive reinforcement",
+        "Easy to moderate; bright, willing, and people-oriented, learning smoothly with patient, reward-based training started early",
 
       tips: [
-        "Use positive reinforcement, high-value treats, and cheerful vocal praise.",
-        "Begin loose-leash walking, recall, and impulse-control training in early puppyhood before massive adult size develops.",
-        "Keep training sessions calm, varied, and encouraging (10 to 15 minutes) to maintain enthusiasm.",
-        "Never use harsh verbal reprimands or physical force, which cause this sensitive giant to lose confidence.",
-        "Introduce water swimming and retrieving games gradually to nurture natural water-rescue instincts.",
-        "Restrict high-impact jumping, stair climbing, and forced running until skeletal growth plates close around 18 to 24 months."
+        "Start loose-leash manners and calm greeting habits early in puppyhood before giant adult weight arrives.",
+        "Use positive reinforcement, food rewards, and warm praise; harsh corrections undermine this sensitive dog's confidence.",
+        "Avoid repetitive stair climbing, jumping, or forced running until giant growth plates close around 18 to 24 months.",
+        "Introduce shallow water early and positively to nurture natural swimming confidence."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs of all sizes, household noises, vehicles, and water environments. Early structured socialization develops a poised, confident, and gentle adult that is welcoming in public."
+        "Early, positive exposure to varied people, friendly dogs, everyday noises, and water environments reinforces the breed's naturally calm, poised, and trustworthy temperament."
     },
 
     livingEnvironment: {
@@ -234,86 +227,81 @@ export const landseer: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cold and snowy winter climates, where the thick double coat provides peerless thermal insulation",
+        "Cold and snowy climates, where the dense double coat excels",
         "Temperate climates",
-        "Warm climates are challenging; requires indoor air conditioning, shade, and cool water continuously, with exercise limited to dawn or dusk"
+        "Warm climates only with cool indoor air conditioning, shade, fresh water, and walks timed for cooler hours"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply bonded to its human family and prone to sadness or separation distress if left isolated for extended workdays."
+        "Low to moderate; deeply people-oriented and happiest living closely with its family rather than left isolated for long workdays."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for giant breeds, with controlled calorie, calcium, and phosphorus levels to support slow, steady skeletal development.",
+      "High-quality complete and balanced dog food formulated for giant breeds, with carefully balanced calories, calcium, and phosphorus to support slow, steady skeletal growth.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a giant-breed growth formula.",
+        "Three to four measured small meals daily until about six months of age on a giant-breed growth diet, then transitioning to two daily meals.",
       adult:
-        "Two measured meals daily to support steady metabolism and reduce digestive discomfort.",
+        "Two measured meals per day to support steady digestion and help lower bloat risk.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower calorie burn and joint support."
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body condition where the ribs are easily felt through the thick coat. Divide daily rations into two distinct meals, restrict vigorous exercise for at least one hour before and after eating to mitigate bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure every meal carefully to maintain a lean, muscular frame that protects giant joints. Split daily rations into two meals, allow quiet rest for at least an hour before and after eating as a precaution against bloat, and keep fresh water continuously available in heavy bowls.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess body weight places severe mechanical stress on giant-breed hips and elbows.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Feed a giant-breed puppy formula during growth; avoid calcium supplements unless prescribed by a veterinarian.",
-      "Provide clean drinking water in heavy, tip-proof bowls.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep weight lean from puppyhood onward to minimize stress on hips and elbows.",
+      "Use a giant-breed puppy formula and avoid unprescribed calcium supplements during growth.",
+      "Schedule quiet rest before and after meals to help mitigate gastric dilatation-volvulus (bloat).",
+      "Transition between food formulas gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly based on growth stage, swimming frequency, and ambient temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Giant-breed calorie and mineral requirements change significantly between rapid puppy growth and maturity. Consult a veterinarian for an individualized plan."
   },
 
   health: {
     overview:
-      "The Landseer is a generally robust, noble giant breed with a typical life expectancy of 10 to 12 years. Primary health considerations reflect its giant molossoid stature and shared ancestry with the Newfoundland, including orthopedic screening for hip and elbow dysplasia, DNA testing for cystinuria and Landseer thrombopathia, cardiac screening for subvalvular aortic stenosis (SAS), and preventive precautions against gastric dilatation-volvulus (bloat).",
+      "The Landseer is a generally sturdy giant working dog with a typical lifespan of 8 to 11 years. In addition to giant-breed orthopedic and cardiac priorities (hip dysplasia, elbow dysplasia, subvalvular aortic stenosis, and bloat), scientifically established autosomal recessive genetic conditions documented in the breed include COL6A1-related congenital muscular dystrophy (a severe collagen VI myopathy modeled after human Ullrich congenital muscular dystrophy), cystinuria, and inherited thrombopathia—all of which can be screened via DNA testing prior to breeding.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and stiffness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Cystinuria (Type I-A / SLC3A1 gene mutation) — an inherited autosomal recessive renal transport defect causing excessive urinary cystine excretion and bladder or kidney stone formation, fully screenable via DNA testing",
-      "Landseer Thrombopathia (RASGRP1 gene mutation) — an inherited autosomal recessive platelet function disorder causing prolonged bleeding after surgery or trauma, screenable via DNA testing",
-      "Subvalvular aortic stenosis (SAS) and dilated cardiomyopathy (DCM) — congenital or acquired cardiac conditions monitored through veterinary cardiologist echocardiography",
+      "COL6A1-related congenital muscular dystrophy — a scientifically established autosomal recessive myopathy caused by a nonsense variant (p.E97*) in the COL6A1 gene, leading to severe early-onset muscle weakness; completely preventable through pre-breeding DNA testing",
+      "Hip dysplasia — developmental malformation of the hip joint that can progress to osteoarthritis, monitored through pre-breeding radiographic evaluations",
+      "Elbow dysplasia — developmental elbow joint abnormality causing forelimb lameness in heavy giant breeds, screened radiographically prior to breeding",
+      "Cystinuria (SLC3A1) and inherited thrombopathia — autosomal recessive metabolic and platelet-function disorders monitored via breed-club DNA screening",
+      "Cardiac conditions (subvalvular aortic stenosis / dilated cardiomyopathy) — congenital or acquired heart disorders evaluated through veterinary cardiologist echocardiography",
       "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in giant deep-chested breeds, requiring emergency veterinary care",
-      "Entropion and ectropion — inward rolling or outward sagging of the eyelids causing ocular irritation, monitored through veterinary eye exams",
-      "Acute moist dermatitis (hot spots) — localized bacterial skin infections beneath the dense undercoat when coat remains damp after swimming"
+      "Hot spots (acute moist dermatitis) and otitis externa — skin or outer-ear irritation when dense fur or hanging ears stay damp after swimming"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified clearances for hips and elbows, specialist cardiac evaluations, and DNA clearances for cystinuria and thrombopathia.",
-      "Feed two smaller meals daily and avoid vigorous exercise for at least one hour before and after eating to reduce bloat risk.",
-      "Maintain a strictly controlled, lean body condition throughout growth and adulthood to protect joints.",
-      "Rinse and thoroughly dry the coat and drop ears after swimming to prevent hot spots and otitis externa.",
-      "Provide thick orthopedic bedding to protect heavy joints from elbow hygromas.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding parents have completed radiographic hip and elbow clearances, cardiac echocardiography, and DNA testing for COL6A1 muscular dystrophy, cystinuria, and thrombopathia.",
+      "Feed two measured meals daily and rest quietly around mealtimes to lower bloat risk.",
+      "Keep body weight lean throughout growth and adulthood to protect giant joints.",
+      "Rinse and dry the dense coat and hanging ears thoroughly after swimming to prevent hot spots and ear infections.",
+      "Schedule annual veterinary wellness exams, core vaccinations, and year-round parasite prevention."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
+      "Radiographic hip dysplasia evaluation prior to breeding",
       "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Congenital cardiac examination including echocardiography by a veterinary cardiologist",
-      "DNA marker test for Cystinuria (SLC3A1 gene mutation)",
-      "DNA marker test for Landseer Thrombopathia (RASGRP1 gene mutation)",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "DNA test for COL6A1-related congenital muscular dystrophy",
+      "DNA tests for cystinuria (SLC3A1) and inherited thrombopathia",
+      "Veterinary cardiologist cardiac examination (echocardiography) and routine eye check"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine enzymatic toothpaste and schedule regular veterinary oral exams to keep gums and teeth healthy.",
 
     earCare:
-      "Inspect the triangular drop ears weekly for wax buildup, moisture, or redness, especially after water work. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect and gently dry the hanging triangular ears weekly—especially after swimming—wiping with a veterinarian-approved ear cleanser as needed.",
 
     skinCare:
-      "Part the dense double coat weekly during brushing to inspect the skin for external parasites, mats, or hot spots. Ensure the undercoat dries completely after bathing or swimming."
+      "Brush through the dense double coat several times weekly to check for ticks, mats, or damp-skin irritation, drying the undercoat thoroughly after water outings."
   },
 
   suitability: {
@@ -324,85 +312,83 @@ export const landseer: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Families with children seeking an extraordinarily gentle, patient, and devoted giant companion",
-      "Homes with a large, securely fenced yard and access to lakes, rivers, or coastal swimming areas",
-      "Owners prepared for the grooming, space, and nutritional commitments of a giant double-coated breed",
-      "Enthusiasts of water rescue, carting, drafting, and low-impact outdoor hiking",
-      "Households in temperate or cool climates"
+      "Families with children seeking a gentle, patient, and devoted giant companion",
+      "Homes with a large, securely fenced yard and access to lakes, rivers, or swimming areas",
+      "Owners ready for the space, grooming, feeding, and veterinary commitments of a giant double-coated breed",
+      "Enthusiasts of water-rescue sports, carting, and steady outdoor walks in cool or temperate climates"
     ],
 
     notIdealFor: [
-      "Apartment or small urban condominium dwellers without spacious private yard access",
-      "Individuals unable to manage giant-breed physical weight, grooming upkeep, and shedding",
-      "Households in hot, humid climates without continuous indoor air conditioning",
-      "Owners who leave a dog home alone in isolation for long workdays without companionship",
-      "People seeking a fierce, aggressive guard dog"
+      "Apartments or small urban homes lacking spacious private yard access",
+      "Households unprepared for giant-breed weight, heavy seasonal shedding, and regular coat brushing",
+      "Hot, humid climates without dependable indoor air conditioning",
+      "Schedules that leave a deeply people-oriented dog alone for long workdays"
     ]
   },
 
   funFacts: [
-    "The Landseer is named after the celebrated nineteenth-century British painter Sir Edwin Landseer, whose iconic 1838 canvas 'A Distinguished Member of the Humane Society' depicted a black-and-white Newfoundland rescue dog named Bob that saved over twenty people from drowning.",
-    "Although English and North American breeders eventually merged the black-and-white dogs into the solid-black Newfoundland breed, dedicated breeders in Germany and Switzerland preserved the original taller, longer-legged piebald type, earning separate international breed recognition in 1960.",
-    "Like its Newfoundland cousin, the Landseer possesses webbed feet—membranes of skin connecting its toes—combined with a rudder-like bushy tail and oily water-repellent fur, making it a natural marine lifeguard.",
-    "Because of its lighter skeletal build and longer legs compared to the heavier Newfoundland, the Landseer moves with an elevated, elastic, ground-covering trot and exhibits greater agility on land.",
-    "In Germany and Switzerland, certified Landseers regularly compete in rigorous water-rescue trials where dogs swim hundreds of meters to tow boats to shore and rescue simulated drowning victims.",
-    "A hallmark of the Landseer's striking appearance is its strictly defined piebald pattern: a white body with black patches on the back and croup, paired with a solid black head featuring a clean white muzzle and symmetrical white blaze."
+    "The breed is named after nineteenth-century British painter Sir Edwin Landseer, whose artworks made black-and-white water dogs famous across Europe.",
+    "Although several countries treat black-and-white dogs as a colour variety of the Newfoundland, breeders in Germany and Switzerland preserved the taller, longer-legged continental type as a separate breed recognized in 1960.",
+    "Its coat has a remarkable natural texture: when brushed backward against the grain, the long hair falls back into place on its own.",
+    "Webbed feet, muscular limbs, and a dense, water-resistant coat make the Landseer a natural swimmer capable of demanding water-rescue work.",
+    "In 2015, geneticists identified a private nonsense variant in the COL6A1 gene in Landseers as a natural canine model of human Ullrich congenital muscular dystrophy, enabling a simple DNA test to prevent affected puppies."
   ],
 
   faq: [
     {
       question: "What is a Landseer?",
       answer:
-        "The Landseer (Continental-European Type) is a giant, noble black-and-white water-rescue and family companion dog developed in Germany and Switzerland, recognized for its pure white coat with black patches, webbed feet, and gentle, devoted disposition."
+        "The Landseer (European Continental Type) is a tall, powerful black-and-white giant dog developed in Germany and Switzerland, known for its crisp piebald coat, swimming ability, and calm, gentle family loyalty."
     },
     {
-      question: "What is the difference between a Landseer and a Newfoundland?",
+      question: "How does a Landseer differ from a Newfoundland?",
       answer:
-        "While both share common ancestry, the Landseer (Continental-European Type) is a distinct breed recognized separately in Europe: it is taller and lighter-framed (72 to 80 cm for males), possesses a drier head with less loose lip, and occurs exclusively in white with black patches, whereas the Newfoundland is heavier-boned, shorter-legged, and occurs in solid black, brown, or black-and-white."
+        "Although they share historical roots, the European Continental Landseer is recognized as a distinct breed that stands taller on the leg (72 to 80 cm for males), moves more lightly, has a slightly less thick undercoat, and comes exclusively in white with black patches."
     },
     {
       question: "How tall and heavy is a Landseer?",
       answer:
-        "Adult males stand 72 to 80 cm at the withers and typically weigh 60 to 75 kg, while adult females stand 67 to 72 cm and typically weigh 50 to 60 kg, presenting a tall, harmonious, and powerful giant silhouette."
+        "Males stand 72 to 80 cm at the shoulders and weigh roughly 50 to 68 kg, while females stand 67 to 72 cm and weigh roughly 45 to 59 kg."
     },
     {
       question: "How long does a Landseer live?",
       answer:
-        "With proper nutrition, controlled growth during puppyhood, and conscientious preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 12 years."
+        "Typical lifespan for this giant breed is 8 to 11 years with attentive nutrition, joint protection, and preventive veterinary care."
     },
     {
-      question: "Do Landseers shed a lot, and how are they groomed?",
+      question: "How much grooming does a Landseer need?",
       answer:
-        "Yes, they shed moderately year-round and blow their dense undercoat twice a year. They require thorough brushing two to three times weekly down to the skin to prevent mats behind the ears and in the feathering, and daily brushing during seasonal shedding."
+        "Brush two to three times a week down to the skin—and daily during spring and autumn coat blows—to prevent mats, dry the coat and hanging ears thoroughly after swimming, trim nails regularly, and never shave the double coat."
     },
     {
       question: "Can a Landseer live in an apartment?",
       answer:
-        "No. Due to its giant size, heavy weight, and need for spacious movement and outdoor access, the Landseer is not suited to apartment living and thrives best in a house with a large, securely fenced yard."
+        "No. Its giant stature, weight, and need for space make a house with a large, securely fenced yard far more suitable."
     },
     {
-      question: "Are Landseers good family pets and good with children?",
+      question: "Are Landseers good with children and families?",
       answer:
-        "Yes, they are famously gentle, patient, and protective with children, earning a reputation as natural 'nanny dogs'; however, due to their giant size, interactions with very young toddlers should always be supervised."
+        "Yes. They are famously gentle, patient, and devoted with family members and children, though their giant size means play with toddlers should always be supervised."
     },
     {
-      question: "Do Landseers drool a lot?",
+      question: "Do Landseers drool as much as Newfoundlands?",
       answer:
-        "They drool moderately—notably less than the heavier Newfoundland—because their lips are drier and tighter fitting, though some moisture is normal after drinking water or vigorous exercise."
+        "They generally drool less than heavier Newfoundlands because their lips are cleaner and tighter, though moderate slobbering still happens after drinking or exercise."
     },
     {
-      question: "How much exercise does a Landseer need each day?",
+      question: "How much daily exercise does a Landseer need?",
       answer:
-        "The breed requires 60 to 90 minutes of moderate, low-impact daily physical activity, such as steady walks, gentle hikes, and swimming; high-impact jumping should be avoided while young bones are growing."
+        "Plan on 60 to 90 minutes of steady, low-impact activity each day—such as walks, gentle hikes, and swimming—while avoiding high-impact jumping until skeletal growth finishes."
     },
     {
-      question: "What health screenings are recommended for breeding Landseers?",
+      question: "Which health screenings are recommended for breeding Landseers?",
       answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, specialist veterinary cardiac exams, certified eye exams, and DNA tests for cystinuria and Landseer thrombopathia."
+        "Recommended pre-breeding checks include radiographic hip and elbow evaluations, DNA tests for COL6A1 muscular dystrophy, cystinuria, and thrombopathia, and a veterinary cardiologist heart exam."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-landseer-official-standard",
     "fci-landseer-nomenclature",
     "vdh-landseer-breed-standard",
@@ -410,85 +396,77 @@ export const landseer: Breed = {
     "dlc-landseer-club-health",
     "landseer-thrombopathia-rasgrp1-study-2007",
     "wikimedia-landseer-lilly-m",
-    "wikimedia-landseer-600-tomasz-sienicki"
+    "wikimedia-landseer-600-tomasz-sienicki",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Scientific Name: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-25",
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Verified standard domestic-dog trinomial taxonomy across the catalog."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-landseer-official-standard",
-          role: "verified",
-          locator: "Standard heading: LANDSEER (Continental-European Type)"
-        },
-        {
           id: "fci-landseer-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: LANDSEER (EUROPEAN CONTINENTAL TYPE) (226)"
+          locator: "Official nomenclature: LANDSEER (EUROPÄISCH-KONTINENTALER TYP) (226), Landseer (European Continental Type), Landseer (Type Continental-Européen), Landseer (Tipo Europeo Continental)"
         },
         {
-          id: "vdh-landseer-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Rassenname: Landseer (Europäisch-Kontinentaler Typ)"
+          locator: "alternateNames: Landseer Newfoundland (Continental European Type)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified across FCI Standard No. 226, FCI Nomenclature, VDH, and SKG."
+      verifiedOn: "2026-11-25",
+      note: "Aligned multilingual official names with FCI Nomenclature No. 226 and included The Dog API synonym."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-landseer-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 2 Pinscher and Schnauzer type, Molossoid breeds, Swiss Mountain and Cattle Dogs; Section 2.2 Mountain type Molossoids; without working trial"
-        },
-        {
           id: "fci-landseer-nomenclature",
           role: "verified",
-          locator: "Group 2, Section 2.2 Mountain type Molossoids, without working trial"
+          locator: "Group 2; Section: Molossian type; Subsection: Mountain type; Not subject to a working trial"
         },
         {
-          id: "vdh-landseer-breed-standard",
-          role: "verified",
-          locator: "Gruppe 2, Sektion 2.2 Berghunde"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "group: Working"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group omits kennel-club names and numeric section labels per Rule 5."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-landseer-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Germany / Switzerland; BRIEF HISTORICAL SUMMARY"
-        },
-        {
           id: "fci-landseer-nomenclature",
           role: "verified",
-          locator: "Countries of origin: Germany, Switzerland"
+          locator: "Country of origin of the breed: GERMANY, SWITZERLAND; definitive acceptance 1960-08-24"
         },
         {
-          id: "skg-landseer-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Ursprungsland: Deutschland / Schweiz"
+          locator: "origin.country: Germany/Switzerland"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -498,22 +476,16 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "FCI Standard No. 226 (valid 1960-08-24, published 1997-10-01): Utilization (guard & companion), Coat, Colour, Gait, Size"
         },
         {
-          id: "vdh-landseer-breed-standard",
-          role: "verified",
-          locator: "Rasseportrait, Geschichte (Sir Edwin Landseer, 1960 Anerkennung) und Wesen"
-        },
-        {
-          id: "dlc-landseer-club-health",
-          role: "verified",
-          locator: "Wasserarbeit und Charakter des Landseers"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "description and history (Sir Edwin Landseer, 1960 recognition, taller agile water rescue dog)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesized in original prose from FCI Standard No. 226, VDH, SKG, and DLC official records."
+      verifiedOn: "2026-11-25",
+      note: "Rewritten in completely original prose grounded in FCI Standard No. 226 and The Dog API."
     },
 
     physical: {
@@ -522,17 +494,16 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator: "Coat (long, straight/slightly wavy, fine, lighter undercoat than black Newfoundland, falls back naturally), Colour (clear white with black body/croup patches, white collar/forechest/belly/legs/tail, black head with white muzzle & symmetrical blaze, ticking tolerated), Tail (very bushy without flag), Flank depression"
         },
         {
-          id: "vdh-landseer-breed-standard",
-          role: "verified",
-          locator: "Erscheinungsbild, Kopf, Gebiss, Gebäude, Haarkleid, Farbe und Größe"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "coatColors lists 17 generic canine colours; only the official white-with-black-patches pattern from FCI 226 was retained"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Conformation, tall agile silhouette, piebald black-and-white coat, webbed paws, and distinctive features follow official standards."
+      verifiedOn: "2026-11-25",
+      note: "Excluded non-standard colours from The Dog API and verified coat/colour/tail specifics directly from FCI Standard No. 226."
     },
 
     "physical.height": {
@@ -541,59 +512,49 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "verified",
-          locator: "SIZE: Height at withers: Males: 72 to 80 cm; Females: 67 to 72 cm."
+          locator: "SIZE: Height at shoulders: Dogs 72 to 80 cm; Bitches 67 to 72 cm (small deviations tolerated)"
         },
         {
-          id: "vdh-landseer-breed-standard",
-          role: "verified",
-          locator: "Widerristhöhe: Rüden 72-80 cm, Hündinnen 67-72 cm"
-        },
-        {
-          id: "skg-landseer-breed-standard",
-          role: "verified",
-          locator: "Widerristhöhe: Rüden 72-80 cm, Hündinnen 67-72 cm"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height: male 71–80 cm, female 66–72 cm (official FCI 226 minimums are 72 cm and 67 cm)"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "Preserved in published unit of centimetres (72–80 cm for males and 67–72 cm for females) exactly as specified in FCI Standard No. 226."
+        "Preserved exact published centimetres (72–80 cm males, 67–72 cm females) per FCI Standard No. 226; recorded conflict with The Dog API."
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "vdh-landseer-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Gewicht: Rüden ca. 60-75 kg, Hündinnen ca. 50-60 kg"
+          locator: "weight: male 50–68 kg, female 45–59 kg"
         },
         {
-          id: "dlc-landseer-club-health",
-          role: "verified",
-          locator: "Rassetypisches Gewicht: Rüden 60-75 kg, Hündinnen 50-60 kg"
+          id: "fci-landseer-official-standard",
+          role: "cited",
+          locator: "FCI Standard No. 226 specifies height without prescribing a numerical weight"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "FCI Standard No. 226 specifies height without fixing a numerical weight. The stored 60 to 75 kg for males and 50 to 60 kg for females represent canonical figures published by VDH and the parent breed club (DLC), preserved in kilograms."
+        "FCI Standard No. 226 does not fix a numerical weight; stored The Dog API's published metric ranges (50–68 kg males, 45–59 kg females)."
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "dlc-landseer-club-health",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Lebenserwartung und Konstitution (10-12 Jahre)"
-        },
-        {
-          id: "vdh-landseer-breed-standard",
-          role: "verified",
-          locator: "Gesundheit und Lebenserwartung (10-12 Jahre)"
+          locator: "lifespanYears: 8–11"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Supported by national kennel club and parent club actuarial profiles."
+      verifiedOn: "2026-11-25",
+      note: "Updated to 8–11 years per The Dog API, matching typical giant molossoid longevity."
     },
 
     "physical.sheddingLevel": {
@@ -602,15 +563,10 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "verified",
-          locator: "COAT: Long, straight and dense double coat with undercoat"
-        },
-        {
-          id: "dlc-landseer-club-health",
-          role: "verified",
-          locator: "Fellwechsel und Pflege der Unterwolle"
+          locator: "COAT: Long, dense double coat with undercoat"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -620,16 +576,11 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "verified",
-          locator: "Lips: Clean, black, tight fitting, not overlapping"
-        },
-        {
-          id: "vdh-landseer-breed-standard",
-          role: "verified",
-          locator: "Lefzen: Trocken, anliegend, nicht überhängend"
+          locator: "Clean, tight-fitting lips without excessive flews"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Clean, tight-fitting lips produce moderate drooling, markedly less than heavier molossoids."
+      verifiedOn: "2026-11-25",
+      note: null
     },
 
     "temperament.traits": {
@@ -638,15 +589,15 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Gentle, friendly, generous, courageous, devoted companion"
+          locator: "Companion and watch dog; aggressive or overly shy dogs disqualifying"
         },
         {
-          id: "vdh-landseer-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Wesen: Sanftmütig, freundlich, kinderlieb, mutig und menschenbezogen"
+          locator: "temperament.traits: Gentle, calm, intelligent, loyal, devoted, protective"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -654,38 +605,31 @@ export const landseer: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "vdh-landseer-breed-standard",
+          id: "the-dog-api",
           role: "cited",
-          locator: "Wesensprofil und Familieneignung"
+          locator: "Temperament traits"
         },
         {
-          id: "dlc-landseer-club-health",
+          id: "fci-landseer-official-standard",
           role: "cited",
-          locator: "Charakter und Sozialverhalten"
+          locator: "Companion and watch dog profile"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented water-rescue temperament, high family affection, and gentle patience with children."
+      note: "Editorial 1–5 scores synthesized from documented Landseer temperament."
     },
 
     care: {
       reliability: "general_guidance",
       sources: [
         {
-          id: "dlc-landseer-club-health",
+          id: "fci-landseer-official-standard",
           role: "cited",
-          locator: "Haltung, Pflege, Bewegung und Ernährung"
-        },
-        {
-          id: "vdh-landseer-breed-standard",
-          role: "cited",
-          locator: "Pflegehinweise und Auslaufbedarf"
+          locator: "Long double coat, drop ears, giant stature"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines giant water-dog management with double-coat grooming and joint-protective exercise protocols."
+      note: "General care guidance for giant double-coated water-rescue dogs."
     },
 
     "care.exercise.level": {
@@ -694,15 +638,15 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Companion, watch and water rescue dog"
+          locator: "Free, spacious gait and muscular working build"
         },
         {
-          id: "dlc-landseer-club-health",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Bewegungsbedarf und Schwimmtraining"
+          locator: "Agile water-rescue working dog"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -710,41 +654,39 @@ export const landseer: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "dlc-landseer-club-health",
+          id: "the-dog-api",
           role: "cited",
-          locator: "Tägliche Spaziergänge und gelenkschonende Bewegung"
+          locator: "Giant water-rescue dog activity profile"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of moderate daily activity reflects the low-impact exercise needs of a giant water-rescue breed."
+      note: "Editorial estimate of 60 to 90 minutes of low-impact daily exercise."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
       reliability: "estimate",
       sources: [
         {
-          id: "vdh-landseer-breed-standard",
+          id: "fci-landseer-official-standard",
           role: "cited",
-          locator: "Haltungsbedingungen: Haus mit großem Garten erforderlich, nicht für Stadtwohnung geeignet"
+          locator: "Giant height (67–80 cm)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that giant stature, heavy weight, and need for outdoor space make apartment living unsuitable."
+      note: "Editorial evaluation that giant size makes apartment living unsuitable."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
-      reliability: "reliable_source",
+      reliability: "estimate",
       sources: [
         {
-          id: "vdh-landseer-breed-standard",
-          role: "verified",
-          locator: "Empfohlene Haltung: Haus mit sicher eingezäuntem Garten"
+          id: "fci-landseer-official-standard",
+          role: "cited",
+          locator: "Giant companion and watch dog stature"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: null
+      verifiedOn: null,
+      note: "A house with a large, securely fenced yard is strongly recommended."
     },
 
     "care.livingEnvironment.climates": {
@@ -753,15 +695,10 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "verified",
-          locator: "COAT: Weather-resistant double coat with dense undercoat"
-        },
-        {
-          id: "dlc-landseer-club-health",
-          role: "verified",
-          locator: "Wetterfestigkeit bei Kälte und Hitzeempfindlichkeit im Sommer"
+          locator: "Long, dense double coat with undercoat"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -769,9 +706,9 @@ export const landseer: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "dlc-landseer-club-health",
+          id: "the-dog-api",
           role: "cited",
-          locator: "Menschenbezogenheit und Familienanschluss"
+          locator: "Devoted, family-oriented companion"
         }
       ],
       verifiedOn: null,
@@ -782,27 +719,26 @@ export const landseer: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "dlc-landseer-club-health",
+          id: "fci-landseer-official-standard",
           role: "cited",
-          locator: "Ernährung von Riesenrassen und kontrolliertes Wachstum"
+          locator: "Giant molossoid build"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for giant breeds prone to rapid skeletal growth and bloat."
+      note: "Standard giant-breed nutrition guidance emphasizing controlled skeletal growth and bloat precautions."
     },
 
     "nutrition.feedingFrequency": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "dlc-landseer-club-health",
+          id: "fci-landseer-official-standard",
           role: "cited",
-          locator: "Fütterungsintervalle für Welpen und erwachsene Hunde"
+          locator: "Giant-breed life-stage feeding"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule for giant breeds."
+      note: "Standard giant-breed meal schedule."
     },
 
     "health.overview": {
@@ -811,17 +747,22 @@ export const landseer: Breed = {
         {
           id: "landseer-thrombopathia-rasgrp1-study-2007",
           role: "verified",
-          locator: "RASGRP1 gene mutation causing inherited platelet dysfunction (thrombopathia) in Landseers"
+          locator: "G3 (Bethesda) 2015 (PMID 26438297): COL6A1:c.289G>T (p.E97*) nonsense variant causing autosomal recessive congenital muscular dystrophy in Landseer dogs (model for Ullrich congenital muscular dystrophy)"
         },
         {
           id: "dlc-landseer-club-health",
+          role: "cited",
+          locator: "Parent-club screening for HD, ED, cystinuria, thrombopathia, and cardiac health"
+        },
+        {
+          id: "the-dog-api",
           role: "verified",
-          locator: "Zuchthygiene und Erbkrankheiten: HD, ED, Cystinurie, Thrombopathie, Herzultraschall"
+          locator: "Lifespan 8–11 years"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-25",
       note:
-        "Synthesizes peer-reviewed genetics research with parent club health screening protocols."
+        "Replaced fabricated PMID 17638849 (unrelated mouse/human cytokine paper) with peer-reviewed COL6A1 Landseer muscular dystrophy study (PMID 26438297)."
     },
 
     "health.commonConditions": {
@@ -830,17 +771,16 @@ export const landseer: Breed = {
         {
           id: "landseer-thrombopathia-rasgrp1-study-2007",
           role: "verified",
-          locator: "Inherited thrombopathia (bleeding disorder) in Landseer dogs"
+          locator: "PMID 26438297: COL6A1 p.E97* congenital muscular dystrophy in Landseer dogs"
         },
         {
           id: "dlc-landseer-club-health",
-          role: "verified",
-          locator: "Hüftdysplasie (HD), Ellbogendysplasie (ED), Cystinurie (SLC3A1), SAS und Magendrehung"
+          role: "cited",
+          locator: "HD, ED, cystinuria, thrombopathia, SAS, and GDV precautions"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-25",
+      note: "Highlights scientifically established COL6A1 muscular dystrophy alongside parent-club screened disorders and giant-breed risks."
     },
 
     "health.preventiveCare": {
@@ -849,30 +789,29 @@ export const landseer: Breed = {
         {
           id: "dlc-landseer-club-health",
           role: "cited",
-          locator: "Vorsorgeuntersuchungen, Gewichtskontrolle und Fellpflege nach dem Schwimmen"
+          locator: "Pre-breeding screening, coat drying after swimming, and weight control"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to giant water-rescue dogs."
+      note: "Standard preventive care tailored to giant double-coated water dogs."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "dlc-landseer-club-health",
+          id: "landseer-thrombopathia-rasgrp1-study-2007",
           role: "verified",
-          locator: "Pflichtuntersuchungen vor der Zucht: HD-Röntgen, ED-Röntgen, Herzultraschall, Gentest Cystinurie und Thrombopathie"
+          locator: "COL6A1 DNA test for Landseer congenital muscular dystrophy"
         },
         {
-          id: "vdh-landseer-breed-standard",
-          role: "verified",
-          locator: "Gesundheitsvorsorge und Zuchtzulassung"
+          id: "dlc-landseer-club-health",
+          role: "cited",
+          locator: "HD, ED, cardiac ultrasound, cystinuria, and thrombopathia screening"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Screenings summarize published parent club and national kennel club breeding protocols."
+      verifiedOn: "2026-11-25",
+      note: "Combines verified COL6A1 DNA testing with European parent-club breeding screenings."
     },
 
     "health.dentalCare": {
@@ -881,11 +820,11 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: scissor bite, complete dentition"
+          locator: "Complete scissor bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
@@ -894,16 +833,11 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "cited",
-          locator: "Ears: medium size, triangular, hanging close to head"
-        },
-        {
-          id: "dlc-landseer-club-health",
-          role: "cited",
-          locator: "Ohrenpflege nach Wasserarbeit"
+          locator: "Medium triangular drop ears"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears exposed to water."
+      note: null
     },
 
     "health.skinCare": {
@@ -912,53 +846,52 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "cited",
-          locator: "Coat texture and dense undercoat"
-        },
-        {
-          id: "dlc-landseer-club-health",
-          role: "cited",
-          locator: "Hautpflege und Vermeidung von Hot Spots"
+          locator: "Long dense double coat with undercoat"
         }
       ],
       verifiedOn: null,
-      note: "General skin and double-coat care guidelines."
+      note: null
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
         {
-          id: "vdh-landseer-breed-standard",
+          id: "fci-landseer-official-standard",
           role: "cited",
-          locator: "Familieneignung und Haltungsansprüche"
+          locator: "Giant stature and companion/watch profile"
         },
         {
-          id: "dlc-landseer-club-health",
+          id: "the-dog-api",
           role: "cited",
-          locator: "Anforderungen an Landseer-Halter"
+          locator: "Gentle, loyal, water-rescue dog"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, giant size, and space requirements."
+      note: "Editorial suitability ratings based on giant size, grooming demands, and gentle temperament."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "vdh-landseer-breed-standard",
-          role: "verified",
-          locator: "Sir Edwin Landseer Gemälde (1838), Trennung vom Neufundländer 1960, Schwimmhäute"
-        },
-        {
           id: "fci-landseer-official-standard",
           role: "verified",
-          locator: "Brief historical summary and piebald coat pattern rules"
+          locator: "Coat falls back into place when brushed wrong way; 1960 recognition"
+        },
+        {
+          id: "landseer-thrombopathia-rasgrp1-study-2007",
+          role: "verified",
+          locator: "2015 COL6A1 discovery as canine model for Ullrich congenital muscular dystrophy"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "Named after Sir Edwin Landseer; 1960 separate FCI recognition"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified historical art heritage and working anatomy facts."
+      verifiedOn: "2026-11-25",
+      note: "Verified historical, anatomical, and genetic facts."
     },
 
     faq: {
@@ -967,24 +900,23 @@ export const landseer: Breed = {
         {
           id: "fci-landseer-official-standard",
           role: "verified",
-          locator: "Origin, height (72-80 cm / 67-72 cm), coat, and distinction from Newfoundland"
+          locator: "Height (72–80 / 67–72 cm), coat texture, piebald pattern, distinction from Newfoundland"
         },
         {
-          id: "vdh-landseer-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Weight (60-75 kg / 50-60 kg), family life, apartment living, and drooling"
+          locator: "Weight (50–68 / 45–59 kg) and lifespan (8–11 years)"
         },
         {
-          id: "dlc-landseer-club-health",
+          id: "landseer-thrombopathia-rasgrp1-study-2007",
           role: "verified",
-          locator: "Lifespan (10-12 years), exercise needs, and health screenings"
+          locator: "COL6A1 muscular dystrophy DNA screening"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-25",
+      note: "Original FAQ answers grounded in FCI 226, PubMed, and The Dog API without Rule 5 registry names."
     }
   },
 
-  updatedOn: "2026-11-12"
+  updatedOn: "2026-11-25"
 };

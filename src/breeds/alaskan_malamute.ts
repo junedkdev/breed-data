@@ -8,12 +8,12 @@ export const alaskan_malamute: Breed = {
   alternateNames: [
     "Malamute",
     "Mal",
+    "Mally",
     "Mahlemut",
     "Alaskan Sled Dog"
   ],
 
-  group:
-    "Spitz and Primitive Types; Section 1 — Nordic Sledge Dogs (without working trial; also classified in the Working and Northern Breed groups)",
+  group: "Nordic Sledge Dog (Working Spitz)",
 
   origin: {
     country: "United States",
@@ -28,18 +28,18 @@ export const alaskan_malamute: Breed = {
         "https://commons.wikimedia.org/wiki/File:Alaskan_Malamute.jpg",
       title: "Alaskan Malamute.jpg",
       description:
-        "An adult Alaskan Malamute standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
-      licenseId: "cc-by-sa-3.0",
+        "An adult Alaskan Malamute standing outdoors on grass.",
+      creator: "SCMW",
+      uploader: "SCMW",
+      capturedOn: "2008-01-03",
+      uploadedOn: "2008-01-03",
+      width: 640,
+      height: 519,
+      licenseId: "cc-by-3.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Alaskan_Malamute.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by SCMW, Wikimedia Commons, CC BY 3.0. Source: https://commons.wikimedia.org/wiki/File:Alaskan_Malamute.jpg. License: https://creativecommons.org/licenses/by/3.0/. Changes, if any, must be indicated.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-25"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Alaskan_Malamute_600.jpg",
@@ -47,39 +47,39 @@ export const alaskan_malamute: Breed = {
         "https://commons.wikimedia.org/wiki/File:Alaskan_Malamute_600.jpg",
       title: "Alaskan Malamute 600.jpg",
       description:
-        "An Alaskan Malamute standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
+        "An adult Alaskan Malamute photographed at the City of Birmingham Championship Dog Show.",
+      creator: "sannse",
+      uploader: "Muu-karhu",
+      capturedOn: "2003-08-30",
+      uploadedOn: "2006-05-07",
       width: 600,
-      height: 489,
+      height: 500,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Alaskan_Malamute_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by sannse, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Alaskan_Malamute_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must be shared under the same or a compatible license.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-11"
+      metadataCheckedOn: "2026-11-25"
     }
   ],
 
   overview: {
     summary:
-      "A monumental, powerful, and deep-chested Arctic sledge dog native to northwestern Alaska, celebrated for hauling heavy freight across frozen polar terrain, wolf-like facial cap markings, plumed tail, and affectionate, dignified pack loyalty.",
+      "A powerful, heavy-boned Arctic freighting dog from northwestern Alaska, known for its dense waterproof double coat, plumed tail carried over the back, almond brown eyes, and loyal, playful, dignified pack nature.",
 
     description:
-      "The Alaskan Malamute is one of the oldest Arctic sledge dogs, defined by immense physical power, heavy bone substance, broad shoulders, and an unyielding capacity for sustained heavy freight draft work. Engineered for endurance and load capacity rather than racing speed, the dog possesses a solid, well-muscled frame balanced by a proud, upright carriage. Its weather-resistant double coat consists of a thick, coarse guard coat over an insulating, woolly undercoat, presenting in shades from light silver-grey to black, sable, or red, always set off by white underparts and characteristic facial cap, bar, or mask markings. The broad head is strong and dignified with alert, medium triangular ears set wide on the skull, dark almond-shaped eyes expressing warm interest, and a profusely plumed tail carried gracefully over the back like a waving plume. In the home, it is exceptionally gentle, friendly, and pack-oriented, bonding closely with its human family while remaining a dignified, quiet athlete.",
+      "The Alaskan Malamute is one of the oldest Arctic sled dogs, shaped by heavy-duty hauling rather than short-distance racing. Its substantial bone, deep chest, broad shoulders, and steady, balanced stride deliver tremendous pulling power across snow and ice. A coarse, thick outer coat stands off from a dense, woolly undercoat, coming in shades from light grey and silver through black, seal, sable, and red—always paired with white underparts and distinctive facial cap or mask markings—or solid white. The broad head carries medium triangular erect ears, obliquely set almond brown eyes (blue eyes are never accepted), and a heavily furred tail that waves gracefully over the back. Friendly, affectionate, and dignified indoors, it thrives in active homes that provide clear leadership and daily purposeful exercise.",
 
     history:
-      "The breed was developed over millennia by the Mahlemuts, an indigenous Inuit tribe residing along Kotzebue Sound in northwestern Alaska. Unlike lighter racing sled dogs, these substantial dogs were cultivated to haul heavy sledges laden with seal meat, caribou, and family possessions across frozen tundra and sea ice, as well as assisting hunters in locating seal breathing holes and deterring polar bears. During the nineteenth-century Klondike Gold Rush, prospectors paid exorbitant sums for authentic freighting dogs, leading to widespread crossbreeding with European working dogs. Dedicated conservationists gathered pure native stock from remote coastal settlements during the 1920s and 1930s, establishing the foundation Kotzebue and M'Loot strains that preserved the breed's authentic Arctic morphology. Alaskan Malamutes served valiantly in polar expeditions with Admiral Richard Byrd in Antarctica and rendered invaluable search-and-rescue service in Greenland during the Second World War.",
+      "The breed takes its name from the Mahlemut (Mahlemiut), an indigenous Inuit people who settled along Kotzebue Sound in northwestern Alaska. For centuries, their powerful dogs hauled heavy supplies across frozen tundra and sea ice, assisted with seal and caribou hunting, and helped guard camps against Arctic predators. During the late-nineteenth-century gold rush, heavy demand led to widespread crossbreeding until twentieth-century breeders gathered native stock in the 1920s and 1930s to preserve the pure Arctic type. In 1933, Malamutes were chosen to support Admiral Richard Byrd's Antarctic expedition; formal recognition followed in the United States in 1935 and internationally in 1963. Today the breed remains a cherished companion and recreational pulling athlete.",
 
     originalPurpose:
-      "Heavy freight sledge hauling over Arctic snow and ice, hunting companion for seal and caribou, and protective camp companion for the Mahlemut Inuit people.",
+      "Hauling heavy freight sleds across Arctic snow and ice, assisting in seal and caribou hunting, and serving as a hardy camp partner for the Mahlemut people.",
 
     currentRoles: [
-      "Recreational sledding, heavy weight-pulling, and skijoring competitor",
-      "Canine athlete in packing, backpacking, and carting",
-      "Devoted household companion and active family pet",
-      "Search, rescue, and cold-weather wilderness tracking partner"
+      "Recreational and competitive sledding, weight-pulling, and skijoring athlete",
+      "Backpacking, hiking, and carting companion",
+      "Affectionate, loyal family dog for active households",
+      "Participant in agility, obedience, and working-dog events"
     ]
   },
 
@@ -116,50 +116,47 @@ export const alaskan_malamute: Breed = {
     },
 
     coatType:
-      "Thick, coarse guard coat, never long and soft, standing off from the body; accompanied by a dense, oily, woolly undercoat 1 to 2 inches in depth, providing superior thermal insulation against extreme sub-zero blizzards and polar moisture.",
+      "Thick, coarse, stand-off waterproof double coat (never long and soft) backed by a dense, oily, woolly undercoat 1 to 2 inches deep for sub-zero insulation.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Light grey through intermediate shadings to black with white underparts",
+      "Light grey, silver, and agouti through black with white underparts",
+      "Seal and white",
       "Sable and shadings of sable to red with white underparts",
-      "Solid white (the only solid color permitted)",
-      "White markings on lower legs, feet, parts of legs, and face markings forming a cap or mask"
+      "Blue and white",
+      "Solid white (the only acceptable solid colour)",
+      "Characteristic white lower legs, feet, and facial cap, bar, or mask markings"
     ],
 
     sheddingLevel:
-      "High; sheds moderate amounts year-round and blows its dense undercoat heavily twice a year during seasonal weather transitions",
+      "High; sheds steadily through the year and blows its dense undercoat heavily twice a year during seasonal changes",
 
     droolingLevel:
-      "Low; tight, dry, cleanly chiselled lips prevent drooling",
+      "Low; tight-fitting, darkly pigmented lips keep slobbering minimal",
 
     distinctiveFeatures: [
-      "Substantial, powerful, and heavy-boned Arctic sledge dog build engineered for heavy freight hauling rather than racing speed",
-      "Desirable freighting size of 25 inches at the shoulder and 85 pounds for males, and 23 inches at the shoulder and 75 pounds for females",
-      "Working height range of 24 to 26 inches for males and 22 to 24 inches for females, with weight typically 80 to 95 pounds for males and 70 to 85 pounds for females",
-      "Dense, coarse stand-off double coat with an abundant insulating undercoat",
-      "Broad, deep head with a moderately flat skull, slight furrow between the eyes, and a bulky muzzle",
-      "Complete scissor bite with large, strong jaws and sound teeth",
-      "Medium-sized, almond-shaped brown eyes set obliquely, with dark brown preferred; blue eyes are an elimination fault",
-      "Medium-sized, triangular prick ears with slightly rounded tips, set wide on the skull and angled forward when alert",
-      "Deep chest reaching at least to the elbows with well-sprung oval ribs and a firm, level back",
-      "Moderately set tail following the line of the spine at the base, heavily plumed and carried curled gracefully over the back like a waving feather",
-      "Large, snowshoe-like compact feet with well-arched toes, thick tough pads, and protective webbing of hair between toes"
+      "Substantial, heavy-boned Arctic spitz build designed for heavy freight hauling rather than high-speed racing",
+      "Desirable freighting size of 25 inches at the shoulder and 85 pounds for males, and 23 inches and 75 pounds for females (typical working ranges 24 to 26 inches / 80 to 95 pounds for males and 22 to 24 inches / 70 to 85 pounds for females)",
+      "Dense, coarse waterproof double coat with a thick woolly undercoat",
+      "Broad, deep head with strong jaws and a complete scissor bite",
+      "Almond-shaped brown eyes set obliquely with an affectionate, alert expression; blue eyes are a disqualification",
+      "Medium-sized, triangular prick ears with slightly rounded tips set wide on the skull",
+      "Deep chest, powerful shoulders, and level back built for sustained pulling",
+      "Profusely furred plumed tail carried waving gracefully over the back",
+      "Large, compact snowshoe-like feet with thick pads and protective hair between the toes"
     ]
   },
 
   temperament: {
     traits: [
-      "Affectionate, friendly, and deeply loyal companion",
-      "Dignified, calm, and composed in home surroundings",
-      "Playful and high-spirited when invited to engage in outdoor work",
-      "Strong-willed, independent problem-solver requiring confident leadership",
-      "Intensely pack-oriented, thriving on inclusion in household family life",
-      "Patient and good-natured with familiar children",
-      "Friendly and welcoming with unfamiliar strangers, making an ineffective guard dog",
-      "High prey drive toward small wild animals, cats, and livestock",
-      "Can be assertive or competitive with unfamiliar dogs of the same sex",
-      "Vocal communicator using expressive woo-woo vocalizations and howling rather than nuisance barking"
+      "Loyal, affectionate, and deeply pack-oriented with its family",
+      "Playful and exuberant when invited to work or play, yet dignified in maturity",
+      "Friendly and outgoing with most strangers, making a poor guard dog",
+      "Highly intelligent, independent, and strong-willed to the point of stubbornness",
+      "Generally gentle and good-natured with familiar children when properly trained and supervised",
+      "Can be assertive toward unfamiliar dogs, particularly of the same sex, and has a strong prey drive toward small animals",
+      "Rarely barks, preferring expressive 'woo-woo' talking and howling—especially when bored or hearing sirens"
     ],
 
     scores: {
@@ -178,7 +175,7 @@ export const alaskan_malamute: Breed = {
   care: {
     exercise: {
       level:
-        "High; an endurance working athlete requiring substantial daily physical exertion and purposeful pulling or packing activities",
+        "High; a strong, endurance-bred worker that requires substantial daily exercise and purposeful pulling, hiking, or play outlets",
 
       minutesPerDay: {
         min: 90,
@@ -186,49 +183,45 @@ export const alaskan_malamute: Breed = {
       },
 
       activities: [
-        "Daily long trail hikes and power walking in cool or cold weather",
-        "Recreational sledding, carting, and urban mushing with a working harness",
-        "Weight-pulling and backpack hiking carrying trail supplies",
-        "Free running and play sessions in a securely fenced paddock or yard",
-        "Canicross, bikejoring, or skijoring on dirt trails or snow",
-        "Interactive fetch, tug games, and cognitive food puzzle foraging"
+        "Daily brisk hikes, long walks, and trail outings in cool weather",
+        "Supervised romping inside a tall, securely fenced yard",
+        "Backpacking, weight-pulling, carting, recreational sledding, and skijoring",
+        "Swimming, agility, obedience trials, and interactive puzzle toys"
       ]
     },
 
     grooming: {
-      level: "Moderate to high",
+      level: "High",
 
       brushing:
-        "Brush thoroughly two to three times weekly using an undercoat rake, slicker brush, and wide metal comb down to the skin to remove loose undercoat and prevent mats; increase to daily line-brushing during heavy seasonal shedding when blowing coat in spring and autumn.",
+        "Brush daily with a pin brush and metal comb to prevent mats and catch hot spots early, adding an undercoat rake during twice-yearly seasonal coat blows.",
 
       bathing:
-        "Bathe every two to three months or when soiled, using a clarifying canine shampoo; ensure the dense undercoat is completely dried with a high-velocity canine dryer down to the skin to prevent moisture eczema.",
+        "Bathe pet dogs roughly every six to eight weeks (or when soiled) with a mild canine shampoo and light conditioner if dry, drying the dense undercoat thoroughly to the skin.",
 
       notes: [
-        "Never shave the double coat; the outer guard hairs and dense undercoat provide thermal insulation against freezing winter winds and protect skin from summer solar radiation.",
-        "Inspect the erect ears weekly for dust, wax, or foreign matter, wiping gently with an approved veterinary cleanser.",
-        "Check paw pads, toes, and hair webbing for ice balls, burrs, or cuts after snow pulling or rocky trail hikes.",
-        "Trim hard, fast-growing nails every two to three weeks to preserve correct compact foot structure.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "The coat possesses virtually no natural dog odor and sheds dried mud naturally when brushed."
+        "Never shave the double coat; it protects against both freezing cold and summer sun.",
+        "Check the erect ears regularly for wax or foreign matter and wipe gently with a veterinary cleanser.",
+        "Trim strong nails regularly to keep the snowshoe feet compact and comfortable.",
+        "Brush teeth regularly with dog-safe enzymatic toothpaste.",
+        "Inspect between the toes for ice balls, burrs, or small cuts after outdoor adventures."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate to challenging; exceptionally intelligent and capable of learning complex tasks, but independent and easily bored by repetitive drills, requiring patient, reward-based leadership",
+        "Moderate to challenging; very smart yet independent and willful, requiring early, firm, fair, reward-based leadership so the dog respects household rules",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and enthusiastic play praise.",
-        "Begin obedience, loose-leash manners, and impulse-control training from early puppyhood before heavy adult pulling power develops.",
-        "Establish fair, clear, and consistent household leadership without physical confrontation.",
-        "Keep instructional lessons varied, purposeful, and engaging to prevent boredom.",
-        "Always exercise within a securely fenced area of at least six feet in height with buried anti-dig wire; high prey drive and wanderlust prompt escape attempts.",
-        "Channel natural heavy-freight hauling drives into structured pulling sports with an appropriate draft harness."
+        "Start puppy socialization and obedience early before heavy adult pulling strength develops.",
+        "Use positive reinforcement, high-value treats, and varied, purposeful sessions rather than repetitive drills.",
+        "Establish calm, consistent pack leadership; harsh force backfires, while permissiveness invites pushiness.",
+        "Extend yard fencing into the ground because digging is an ingrained habit that is difficult to train out—or provide a designated digging pit.",
+        "Keep on-leash in unfenced areas due to strong prey drive and roaming instincts."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, friendly vaccinated dogs of varying sizes, livestock, household noises, vehicles, and novel outdoor environments. Early structured socialization tempers natural same-sex dog assertiveness and ensures the dog matures into a poised, self-assured companion."
+        "Consistent, positive early exposure to diverse people, calm vaccinated dogs, household routines, and outdoor sights helps prevent pushiness around children and tempers same-sex dog assertiveness."
     },
 
     livingEnvironment: {
@@ -236,86 +229,81 @@ export const alaskan_malamute: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Cold, snowy, and sub-zero winter climates, where the dense double coat provides peerless thermal protection",
+        "Cold, snowy winter climates, where the waterproof double coat thrives",
         "Temperate climates",
-        "Warm climates are challenging; requires indoor air conditioning, cool shaded shelter, and fresh water constantly, with exercise strictly restricted to early morning or late night"
+        "Warm climates only with reliable indoor air conditioning, deep shade, abundant fresh water, and exercise restricted to cool morning or evening hours"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply pack-oriented and prone to separation distress, boredom howling, or destructive digging if left isolated for long workdays without company."
+        "Low to moderate; deeply pack-oriented and prone to howling or destructive digging when bored or left isolated for long stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large active working breeds, with balanced protein and healthy fats adjusted for seasonal working output.",
+      "High-quality complete and balanced commercial dog food—or a veterinarian-approved home-prepared diet—formulated for large active working breeds and matched to life stage.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals daily until about six months of age, then shifting to two measured meals per day.",
       adult:
-        "Two measured meals daily to support steady metabolism and minimize digestive discomfort.",
+        "Two measured meals per day to support comfortable digestion and lower bloat risk.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower calorie burn and joint care."
     },
 
     guidelines:
-      "Measure food portions carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body condition where the ribs are easily felt through the thick coat. Arctic breeds are efficient metabolizers that require fewer calories per pound than many sporting breeds, but working dogs pulling sledges in winter require significantly increased caloric and fat density. Divide daily rations into two distinct meals, restrict vigorous running for at least one hour before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure every meal and watch total calories closely—despite their heavy-duty working frame, some Malamutes gain weight easily if overfed or given too many training treats. Divide daily rations into two meals, allow quiet rest before and after eating as a precaution against bloat, and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places severe mechanical stress on hips and stifles.",
-      "Account for training treats within the total daily caloric allowance to avoid creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Monitor zinc intake; some Arctic breeds exhibit zinc-responsive dermatosis requiring veterinary dietary adjustment.",
-      "Provide clean drinking water, especially during warm-weather exercise or winter pulling.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep weight lean to protect hip and elbow joints from unnecessary wear.",
+      "Count training treats within the daily calorie allowance.",
+      "Schedule calm rest before and after meals to help mitigate bloat risk.",
+      "Consult a veterinarian about zinc nutrition if crusting skin lesions appear, as some Arctic breeds are prone to zinc-responsive dermatosis."
     ],
 
     note:
-      "Caloric needs vary significantly based on outdoor temperature, winter sledding workload, and daily exercise. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Daily calorie needs rise sharply during active winter sledding or backpacking and drop during warmer, quieter periods. Work with a veterinarian to set exact portions."
   },
 
   health: {
     overview:
-      "The Alaskan Malamute is an ancient, robust, and generally hardy Arctic breed with a typical life expectancy of 10 to 14 years. Having evolved through generations of practical functional selection in harsh sub-zero wilderness, it enjoys strong constitutional vitality. Primary health priorities include orthopedic screening for hip and elbow dysplasia, DNA testing for hereditary polyneuropathy (AMPN) and cone degeneration (day blindness), ophthalmic evaluations for hereditary cataracts, monitoring for gastric dilatation-volvulus (bloat), and evaluating zinc-responsive dermatosis.",
+      "The Alaskan Malamute is generally a robust, hardy Arctic worker with a typical lifespan of 10 to 14 years. Responsible breeding centers on radiographic hip and elbow screening, periodic specialist eye exams, and DNA testing for scientifically established breed-specific disorders—especially Alaskan Malamute Polyneuropathy (AMPN, caused by a Gly98Val mutation in the NDRG1 gene) and Cone Degeneration (day blindness, caused by a complete genomic deletion of the CNGB3 gene)—alongside monitoring for chondrodysplasia, hypothyroidism, clotting disorders, bloat, and zinc-responsive dermatosis.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and hind-limb stiffness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Alaskan Malamute Polyneuropathy (AMPN) — an inherited autosomal recessive neuromuscular disorder caused by a mutation in the NDRG1 gene, causing progressive pelvic limb weakness, exercise intolerance, muscle atrophy, and laryngeal paralysis, preventable via DNA testing",
-      "Cone Degeneration (CD / Day Blindness / Hemeralopia) — an inherited autosomal recessive retinal disorder caused by a mutation in the CNGB3 gene, causing loss of cone photoreceptor function and blindness in bright daylight, screenable via DNA testing",
-      "Chondrodysplasia (CHD / Alaskan Malamute Dwarfism) — an inherited skeletal dysplasia causing shortened, bowed limbs and abnormal joint development, monitored through pedigree tracking and clinical screening",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in deep-chested breeds, requiring emergency veterinary care",
-      "Hereditary cataracts and progressive retinal atrophy (PRA) — ocular conditions monitored through annual certified ophthalmologist examinations",
-      "Zinc-responsive dermatosis (Type 1) — defective intestinal absorption of zinc leading to crusting, scaling, and hair loss around the eyes, muzzle, and footpads, manageable with zinc supplementation"
+      "Alaskan Malamute Polyneuropathy (AMPN) — a scientifically established autosomal recessive neuromuscular disorder caused by a Gly98Val missense mutation in the NDRG1 gene, leading to progressive hind-limb weakness, exercise intolerance, laryngeal paralysis, and muscle atrophy; preventable via DNA testing",
+      "Cone Degeneration (CD / Day Blindness / Hemeralopia) — an established autosomal recessive retinal disorder caused by a complete genomic deletion removing all exons of the CNGB3 gene, resulting in loss of cone photoreceptor function and vision impairment in bright daylight; screenable via DNA testing",
+      "Hip dysplasia — developmental malformation of the hip joint that can lead to osteoarthritis, screened via pre-breeding radiographic evaluations",
+      "Elbow dysplasia — developmental elbow joint abnormality screened radiographically in breeding stock",
+      "Chondrodysplasia (dwarfism) — an inherited skeletal disorder producing shortened, bowed forelimbs",
+      "Hypothyroidism and bleeding disorders (thrombopathia, von Willebrand's disease) — endocrine and clotting conditions monitored by responsible breeders",
+      "Hereditary cataracts and eye conditions — monitored through periodic examinations by a board-certified veterinary ophthalmologist",
+      "Gastric dilatation-volvulus (GDV / bloat) and zinc-responsive dermatosis — deep-chested emergency stomach-twisting risk and Arctic-breed zinc absorption skin crusting"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified clearances for hips and elbows, annual certified eye examinations, and DNA clearances for AMPN and Cone Degeneration.",
-      "Feed two smaller meals daily and avoid vigorous running for at least one hour before and after eating to mitigate bloat risk.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Inspect the erect ears weekly for dust, wax, or foreign matter, wiping gently with an approved cleanser.",
-      "Protect against heat stress in warm climates by exercising only during cool morning hours and providing indoor air conditioning.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding parents have completed radiographic hip evaluations, specialist eye exams, and AMPN DNA testing (plus Cone Degeneration and elbow screenings).",
+      "Feed two measured meals daily and rest quietly around mealtimes to reduce bloat risk.",
+      "Keep body weight lean to protect joints and reduce heat stress during warm weather.",
+      "Brush daily to catch mats or hot spots early, check ears regularly, and brush teeth routinely.",
+      "Schedule annual veterinary wellness exams, core vaccinations, and year-round parasite prevention."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "DNA marker test for Alaskan Malamute Polyneuropathy (AMPN / NDRG1 gene)",
-      "DNA marker test for Cone Degeneration (CD / CNGB3 gene)",
-      "Clinical evaluation for Chondrodysplasia (dwarfism)"
+      "Radiographic hip evaluation prior to breeding",
+      "Periodic eye examination by a board-certified veterinary ophthalmologist",
+      "DNA test for Alaskan Malamute Polyneuropathy (AMPN / NDRG1 Gly98Val mutation)",
+      "DNA test for Cone Degeneration (CD / CNGB3 genomic deletion) and radiographic elbow evaluation"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using dog-specific enzymatic toothpaste. The breed has powerful jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth regularly with dog-safe enzymatic toothpaste and schedule routine veterinary oral checks to keep gums and teeth healthy.",
 
     earCare:
-      "Inspect the erect prick ears weekly for wax buildup, moisture, or dirt. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the erect triangular ears regularly for wax buildup or foreign matter, wiping gently with a veterinarian-approved cleanser as needed.",
 
     skinCare:
-      "Part the dense coat weekly during brushing to inspect the skin for external parasites, hot spots, or crusting. If crusting occurs around the muzzle or eyes, consult a veterinarian for zinc-responsive dermatosis evaluation."
+      "Brush down to the skin daily to spot mats, fungal irritation, or hot spots; consult a veterinarian if scaly crusting develops around the eyes, muzzle, or paw pads."
   },
 
   suitability: {
@@ -326,85 +314,83 @@ export const alaskan_malamute: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active outdoor households, winter sports enthusiasts, and hikers who enjoy year-round cold-weather activities",
-      "Experienced dog owners familiar with independent, strong-willed Arctic spitz breeds and positive leadership",
-      "Homes with a large, securely fenced yard of at least six feet in height with buried perimeter dig guards",
-      "Sportsmen interested in recreational sledding, urban mushing, weight pulling, or skijoring",
-      "Families seeking a gentle, loyal, and friendly giant companion with dignified household manners"
+      "Active outdoor households, hikers, and winter-sports fans ready for daily exercise and heavy coat upkeep",
+      "Experienced, consistent handlers comfortable leading a strong-willed, independent Arctic pack dog",
+      "Homes with a tall, securely fenced yard featuring underground dig protection",
+      "Families with children who are committed to early obedience training and supervised interaction"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for substantial physical strength and independent decision-making",
-      "Apartment or condominium dwellers without extensive outdoor space and heavy exercise outlets",
-      "Households located in hot, humid climates without continuous indoor air conditioning",
-      "Owners who leave a dog home alone in isolation for long workdays without company",
-      "People seeking an aggressive guard dog that barks at strangers"
+      "First-time or passive owners unprepared for immense pulling strength, daily brushing, and stubborn independence",
+      "Apartments or small urban homes without secure outdoor space",
+      "Hot, humid climates lacking reliable indoor air conditioning",
+      "Owners wanting a silent, non-digging yard dog or an aggressive guard dog"
     ]
   },
 
   funFacts: [
-    "The Alaskan Malamute is named after the Mahlemuts, an indigenous Inuit tribe of northwestern Alaska that developed these massive dogs to haul heavy freight across sea ice and help locate seal breathing holes.",
-    "Unlike the Siberian Husky, which was engineered as a lighter, high-speed sled racing dog, the Alaskan Malamute is built like a freight train, designed to pull heavy loads over vast distances at a steady, tireless pace.",
-    "During the Klondike Gold Rush of 1896, demand for heavy freighting dogs was so intense that prospectors paid as much as $500 for a single authentic Malamute—an extraordinary fortune at the time.",
-    "Alaskan Malamutes played a crucial role in polar exploration history, serving as the primary freight haulers for Admiral Richard Byrd's historic Antarctic expeditions in the 1920s and 1930s.",
-    "Malamutes rarely bark; instead, they communicate through a distinctive, musical vocalization known as the 'woo-woo' talk, chattering enthusiastically with family members to express excitement or greet arrivals.",
-    "The breed's snowshoe-like feet feature thick, tough pads and specialized fur webbing between the toes that prevents snow from balling up and provides superior traction on slick ice."
+    "The breed is named after the Mahlemut (Mahlemiut), an Inuit people of Kotzebue Sound in northwestern Alaska who relied on these powerful dogs for heavy Arctic freighting.",
+    "In 1933, Alaskan Malamutes were chosen to assist Admiral Richard Byrd on his Antarctic expedition.",
+    "The Alaskan Malamute was one of four purebred dogs featured on U.S. Postal Service centennial stamps in 1984 and has appeared on postage stamps in at least 14 countries.",
+    "Rather than barking constantly, Malamutes are famous for expressive 'woo-woo' talking and howling—often triggered by sirens or boredom.",
+    "Digging is so deeply ingrained in most Malamutes that owners are advised to extend yard fencing underground or set aside a dedicated digging area."
   ],
 
   faq: [
     {
       question: "What is an Alaskan Malamute?",
       answer:
-        "The Alaskan Malamute is a large, powerful Arctic sledge dog native to northwestern Alaska, known for its heavy freight-hauling strength, thick double coat, wolf-like face markings, plumed tail, and affectionate, pack-oriented personality."
+        "The Alaskan Malamute is a large, heavy-boned Arctic sled dog from northwestern Alaska, known for its freight-hauling strength, waterproof double coat, plumed tail, almond brown eyes, and loyal, playful, dignified temperament."
     },
     {
-      question: "What is the difference between an Alaskan Malamute and a Siberian Husky?",
+      question: "How does an Alaskan Malamute differ from a Siberian Husky?",
       answer:
-        "The Alaskan Malamute is significantly larger and heavier (standing 23 to 25 inches and weighing 75 to 85 pounds) and built for heavy freight pulling with brown eyes, whereas the Siberian Husky is smaller, lighter, and leaner (standing 20 to 23.5 inches and weighing 35 to 60 pounds), built for high-speed racing, and often has blue or bi-colored eyes."
+        "Malamutes are substantially larger and heavier (desirable freighting size 23 to 25 inches and 75 to 85 pounds), built for pulling heavy loads rather than racing speed, and always have brown eyes—never the blue eyes common in Siberian Huskies."
     },
     {
-      question: "Can an Alaskan Malamute have blue eyes?",
+      question: "Can a purebred Alaskan Malamute have blue eyes?",
       answer:
-        "No. Blue eyes are a severe disqualification in the Alaskan Malamute; genuine purebred Malamutes have dark brown, almond-shaped eyes."
+        "No. Genuine Alaskan Malamutes have brown almond-shaped eyes (dark brown preferred), and blue eyes are a disqualification."
     },
     {
       question: "How tall and heavy is an Alaskan Malamute?",
       answer:
-        "Desirable freighting size is 25 inches at the shoulder and 85 pounds for adult males, and 23 inches at the shoulder and 75 pounds for adult females, with typical working ranges of 24 to 26 inches (80 to 95 pounds) for males and 22 to 24 inches (70 to 85 pounds) for females."
+        "Desirable freighting size is 25 inches and 85 pounds for males and 23 inches and 75 pounds for females, with typical working ranges of 24 to 26 inches (80 to 95 pounds) for males and 22 to 24 inches (70 to 85 pounds) for females."
     },
     {
       question: "How long does an Alaskan Malamute live?",
       answer:
-        "With proper nutrition, regular exercise, joint support, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 14 years."
+        "With balanced nutrition, regular exercise, and preventive veterinary care, Alaskan Malamutes typically live 10 to 14 years."
     },
     {
-      question: "Do Alaskan Malamutes shed a lot, and how are they groomed?",
+      question: "How much grooming does an Alaskan Malamute need?",
       answer:
-        "Yes, they shed heavily twice a year during seasonal coat blows and shed moderately year-round. They require thorough brushing two to three times a week down to the skin with an undercoat rake, increasing to daily brushing during shedding seasons; their double coat should never be shaved."
+        "Expect daily brushing with a pin brush and metal comb—plus an undercoat rake during twice-yearly coat blows—along with baths every six to eight weeks, regular nail trims, ear checks, and tooth brushing. Never shave the double coat."
     },
     {
       question: "Can an Alaskan Malamute live in an apartment?",
       answer:
-        "No. Due to their large size, heavy exercise requirements, and instinct to dig or howl when under-stimulated, they are not suited to apartment living and thrive best in a home with a large, securely fenced yard."
+        "No. Their large size, daily working-dog exercise needs, howling tendencies, and love of digging make a house with a securely fenced, dig-proofed yard far more appropriate."
     },
     {
       question: "Are Alaskan Malamutes good family pets and good with children?",
       answer:
-        "Yes, with active families. Within their household, they are famously friendly, patient, and gentle with familiar children; however, because of their large size and strength, interactions with toddlers should be supervised."
+        "Yes, when raised with early socialization and firm, fair obedience training. Well-trained Malamutes are affectionate, playful, and gentle with familiar children, though their size calls for supervision around toddlers."
     },
     {
       question: "How much exercise does an Alaskan Malamute need each day?",
       answer:
-        "The breed requires 90 to 120 minutes of daily physical activity, including brisk hikes, pack walking, carting, sledding, or structured weight pulling, particularly during cool or cold weather."
+        "Plan on roughly 90 to 120 minutes of daily activity—such as brisk hikes, secure yard play, backpacking, skijoring, carting, or weight pulling—timed for cool hours in warm weather."
     },
     {
-      question: "What health screenings are recommended for breeding dogs?",
+      question: "Which health screenings are recommended for breeding Alaskan Malamutes?",
       answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, annual veterinary ophthalmologist eye exams, and DNA tests for Alaskan Malamute Polyneuropathy (AMPN) and Cone Degeneration (day blindness)."
+        "Core pre-breeding screenings include radiographic hip evaluation, specialist ophthalmologist eye examination, and DNA testing for Alaskan Malamute Polyneuropathy (AMPN / NDRG1), alongside Cone Degeneration (CNGB3) DNA testing and elbow evaluation."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-alaskan-malamute-official-standard",
     "fci-alaskan-malamute-nomenclature",
     "akc-alaskan-malamute-breed-standard",
@@ -415,26 +401,28 @@ export const alaskan_malamute: Breed = {
     "alaskan-malamute-polyneuropathy-ndrg1-study-2013",
     "alaskan-malamute-cone-degeneration-cngb3-study-2006",
     "wikimedia-alaskan-malamute-lilly-m",
-    "wikimedia-alaskan-malamute-600-tomasz-sienicki"
+    "wikimedia-alaskan-malamute-600-tomasz-sienicki",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Scientific Name: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-25",
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Verified standard domestic-dog trinomial taxonomy across the catalog."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
-        {
-          id: "fci-alaskan-malamute-official-standard",
-          role: "verified",
-          locator: "Standard heading: ALASKAN MALAMUTE"
-        },
         {
           id: "fci-alaskan-malamute-nomenclature",
           role: "verified",
@@ -443,62 +431,67 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "History: Malamute, Mal, Mahlemut, Alaskan Sled Dog"
+          locator: "About the Breed & History: Mal, Mahlemut / Mahlemiut"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "alternateNames: Mally"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified across FCI Standard No. 243, FCI Nomenclature, and AKC."
+      verifiedOn: "2026-11-25",
+      note: "Added 'Mally' from The Dog API alongside verified names from FCI and AKC."
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-alaskan-malamute-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 5 Spitz and primitive types, Section 1 Nordic Sledge Dogs, without working trial"
-        },
-        {
           id: "fci-alaskan-malamute-nomenclature",
           role: "verified",
-          locator: "Group 5, Section 1 Nordic Sledge Dogs, without working trial"
+          locator: "Group 5 Spitz and primitive types; Section 1 Nordic Sledge Dogs; Not subject to a working trial"
         },
         {
-          id: "akc-alaskan-malamute-breed-standard",
+          id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Working Group"
+          locator: "Working Group (recognized 1935)"
         },
         {
           id: "ukc-alaskan-malamute-breed-standard",
-          role: "verified",
+          role: "cited",
           locator: "Northern Breed Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "group: Working"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-25",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group omits kennel-club names and numeric section labels per Rule 5."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-alaskan-malamute-official-standard",
-          role: "verified",
-          locator: "ORIGIN: U.S.A.; BRIEF HISTORICAL SUMMARY"
-        },
-        {
           id: "fci-alaskan-malamute-nomenclature",
           role: "verified",
-          locator: "Country of origin: United States"
+          locator: "Country of origin of the breed: UNITED STATES OF AMERICA; definitive acceptance 1963-05-13"
         },
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "History: Developed by Mahlemut Inuit tribe along Kotzebue Sound in northwestern Alaska"
+          locator: "History & Did You Know: Mahlemut Inuit tribe along Kotzebue Sound, northwestern Alaska"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "origin.country: Alaska, United States"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -508,22 +501,21 @@ export const alaskan_malamute: Breed = {
         {
           id: "fci-alaskan-malamute-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, IMPORTANT PROPORTIONS, BEHAVIOUR/TEMPERAMENT"
+          locator: "FCI Standard No. 243 (valid 2023-03-09, English PDF 2023-03-10): heavy freighting function, strong propelling legs, functional summary"
         },
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, Byrd Antarctic expeditions, and Roles"
+          locator: "About the Breed, History, 1933 Byrd expedition, 1935 AKC recognition, working sports"
         },
         {
-          id: "amca-alaskan-malamute-health-statement",
-          role: "verified",
-          locator: "Breed overview and functional heritage"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "description and history"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Synthesized in original prose from FCI Standard No. 243, AKC, and AMCA official records."
+      verifiedOn: "2026-11-25",
+      note: "Rewritten in completely original prose grounded in FCI Standard No. 243 and AKC."
     },
 
     physical: {
@@ -532,70 +524,69 @@ export const alaskan_malamute: Breed = {
         {
           id: "fci-alaskan-malamute-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "FCI Standard No. 243: heavy freighting build, sound legs/feet, double coat, plumed tail, brown eyes"
         },
         {
-          id: "akc-alaskan-malamute-breed-standard",
+          id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Coat, Color"
+          locator: "Breed Colors & Markings (Gray & White, Black & White, Red & White, Seal & White, Silver & White, White, Sable & White, Blue & White, Agouti & White; Black/Gray Mask)"
         },
         {
-          id: "ukc-alaskan-malamute-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "coatColors lists 17 generic canine colours including Brindle, Cream, Liver, Merle, and Tricolour; non-standard colours excluded"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Conformation, heavy bone, stand-off double coat, plumed tail, and distinctive features follow official standards."
+      verifiedOn: "2026-11-25",
+      note: "Excluded non-standard colours from The Dog API while retaining verified standard colours from FCI 243 and AKC."
     },
 
     "physical.height": {
       reliability: "official_standard",
       sources: [
         {
-          id: "akc-alaskan-malamute-breed-standard",
-          role: "verified",
-          locator: "Size: The desirable freighting sizes are: Dogs 25 inches at the shoulders; Bitches 23 inches at the shoulders (approx. 24-26 in males, 22-24 in females)"
-        },
-        {
           id: "fci-alaskan-malamute-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Desirable freighting sizes: Dogs: 25 inches (63.5 cm) at the shoulders; Bitches: 23 inches (58.5 cm) at the shoulders"
+          locator: "Desirable freighting sizes: Males 25 inches (63.5 cm), Females 23 inches (58.5 cm) — inches stated first"
         },
         {
-          id: "ukc-alaskan-malamute-breed-standard",
+          id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Height: Desirable freighting size: Males, 25 inches at the withers; Females, 23 inches at the withers"
+          locator: "Height: 25 inches (male), 23 inches (female)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "height: male 61–66 cm, female 56–61 cm (metric conversion of ~24–26 in / 22–24 in; official standards state inches first)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-25",
       note:
-        "Preserved in published unit of inches (desirable freighting size 25 in for males and 23 in for females, typical working range 24–26 in for males and 22–24 in for females) exactly as specified first in the official standards."
+        "Preserved in exact published inches per Rule 9 (desirable 25 in males / 23 in females; working range 24–26 in / 22–24 in) as stated first in FCI 243 and AKC."
     },
 
     "physical.weight": {
       reliability: "official_standard",
       sources: [
         {
-          id: "akc-alaskan-malamute-breed-standard",
-          role: "verified",
-          locator: "Weight: Dogs 85 pounds; Bitches 75 pounds (working range 80-95 lbs males, 70-85 lbs females)"
-        },
-        {
           id: "fci-alaskan-malamute-official-standard",
           role: "verified",
-          locator: "Weight: Dogs: 85 pounds (38 kg); Bitches: 75 pounds (34 kg)"
+          locator: "Desirable freighting weights: Males 85 pounds (38 kg), Females 75 pounds (34 kg) — pounds stated first"
         },
         {
-          id: "ukc-alaskan-malamute-breed-standard",
+          id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Weight: Males, weighing approximately 85 pounds; Females, weighing approximately 75 pounds"
+          locator: "Weight: 85 pounds (male), 75 pounds (female)"
+        },
+        {
+          id: "the-dog-api",
+          role: "conflicting",
+          locator: "weight: male 36–41 kg, female 32–36 kg (metric range; official standards state pounds first)"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-25",
       note:
-        "Preserved in published unit of pounds (desirable freighting size 85 lb for males and 75 lb for females, typical working range 80–95 lb for males and 70–85 lb for females) exactly as specified first in the official standards."
+        "Preserved in exact published pounds per Rule 9 (desirable 85 lb males / 75 lb females; working range 80–95 lb / 70–85 lb) as stated first in FCI 243 and AKC."
     },
 
     "physical.lifespanYears": {
@@ -604,16 +595,16 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 10-14 years"
+          locator: "Life Expectancy: 10–14 years"
         },
         {
-          id: "amca-alaskan-malamute-health-statement",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longevity and health actuarial profile (10-14 years)"
+          locator: "lifespanYears: 10–14"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Supported by kennel club and parent breed club actuarial profiles."
+      verifiedOn: "2026-11-25",
+      note: "Consistent across AKC and The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -622,15 +613,10 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (4/5)"
-        },
-        {
-          id: "fci-alaskan-malamute-official-standard",
-          role: "verified",
-          locator: "COAT: Thick coarse guard coat with dense woolly undercoat"
+          locator: "Grooming: daily brushing with pin brush and metal comb; undercoat rake twice a year during shedding season"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -640,38 +626,38 @@ export const alaskan_malamute: Breed = {
         {
           id: "fci-alaskan-malamute-official-standard",
           role: "verified",
-          locator: "Lips: Tight fitting lips; dark pigmentation"
+          locator: "Tight-fitting, darkly pigmented lips"
         },
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5 to 2/5)"
+          locator: "Breed Traits: Drooling Level"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Tight-fitting lips result in low drooling."
+      verifiedOn: "2026-11-25",
+      note: null
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
+          id: "akc-alaskan-malamute-breed-profile",
+          role: "verified",
+          locator: "About the Breed, Training, Did You Know: loyal, playful, affectionate, dignified, independent/stubborn, friendly with strangers, talks/howls, digs"
+        },
+        {
           id: "fci-alaskan-malamute-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Affectionate, friendly, not a one-man dog, loyal companion, dignified"
+          locator: "Affectionate, friendly, loyal companion, dignified in maturity"
         },
         {
-          id: "akc-alaskan-malamute-breed-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Temperament: Affectionate, friendly, loyal, playful, dignified in maturity"
-        },
-        {
-          id: "ukc-alaskan-malamute-breed-standard",
-          role: "verified",
-          locator: "Temperament: Friendly, affectionate, loyal, playful when invited, dignified"
+          locator: "temperament.traits: Affectionate, friendly, loyal, playful, intelligent, energetic, outgoing"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -681,17 +667,11 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "amca-alaskan-malamute-health-statement",
-          role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Breed Traits, Training, and About the Breed"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented Arctic sledge dog temperament, high family affection, and friendly stranger response."
+      note: "Editorial 1–5 estimates synthesized from AKC and FCI profiles."
     },
 
     care: {
@@ -700,17 +680,11 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        },
-        {
-          id: "amca-alaskan-malamute-health-statement",
-          role: "cited",
-          locator: "Care, double-coat management, and exercise protocols"
+          locator: "Grooming (daily brushing), Exercise, Training (underground fencing for digging), and Nutrition"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active sledge dog management with heavy double-coat grooming and heat-safety protocols."
+      note: "Updated grooming.level to High to reflect AKC's daily brushing recommendation."
     },
 
     "care.exercise.level": {
@@ -719,15 +693,10 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5 to 5/5)"
-        },
-        {
-          id: "fci-alaskan-malamute-official-standard",
-          role: "verified",
-          locator: "UTILIZATION: Sledge dog for heavy freight"
+          locator: "Exercise: strong athletic dog with tremendous endurance; hiking, running, swimming, weight-pulling, backpacking, sledding, skijoring"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -737,17 +706,11 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "Exercise recommendations for working sled dogs"
-        },
-        {
-          id: "amca-alaskan-malamute-health-statement",
-          role: "cited",
-          locator: "Working activities, carting, and weight pulling"
+          locator: "Daily working-dog exercise recommendations"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 90 to 120 minutes of daily activity reflects the exercise demands of an athletic, heavy freight Arctic working dog."
+      note: "Editorial estimate of 90 to 120 minutes daily for an endurance Arctic sled dog."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -756,17 +719,11 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "Large size, exercise needs, and need for open movement"
-        },
-        {
-          id: "amca-alaskan-malamute-health-statement",
-          role: "cited",
-          locator: "Housing requirements and secure fencing"
+          locator: "Large size, well-fenced yard with underground dig barriers, howling tendencies"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that large size, high exercise needs, and vocal tendencies make apartment living generally unsuitable."
+      note: "Editorial evaluation that large size, digging/howling instincts, and exercise needs make apartments unsuitable."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -775,10 +732,10 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations (minimum six-foot fence with anti-dig measures)"
+          locator: "Exercise & Training: well-fenced yard extending into the ground"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -786,17 +743,12 @@ export const alaskan_malamute: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-alaskan-malamute-official-standard",
-          role: "verified",
-          locator: "COAT: Dense insulating double coat adapted to Arctic climate"
-        },
-        {
           id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Weather adaptation: excels in cold weather; highly sensitive to heat stress in hot climates"
+          locator: "Grooming: thick, waterproof double coat adapted to harsh Arctic life"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-25",
       note: null
     },
 
@@ -806,7 +758,7 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; pack-oriented companion"
+          locator: "Did You Know & About the Breed: pack animals; lonely or bored Malamutes often howl"
         }
       ],
       verifiedOn: null,
@@ -819,17 +771,11 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food, portion control, treat budgeting"
-        },
-        {
-          id: "amca-alaskan-malamute-health-statement",
-          role: "cited",
-          locator: "Dietary management and zinc nutrition in Arctic breeds"
+          locator: "Nutrition: high-quality age-appropriate food, watch calorie intake and weight"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active large working breeds with Arctic metabolic efficiency."
+      note: "Standard nutritional guidance for large active Arctic working breeds."
     },
 
     "nutrition.feedingFrequency": {
@@ -838,11 +784,11 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals to mitigate bloat"
+          locator: "Life-stage feeding guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: "Standard canine life-stage meal schedule."
     },
 
     "health.overview": {
@@ -851,27 +797,22 @@ export const alaskan_malamute: Breed = {
         {
           id: "alaskan-malamute-polyneuropathy-ndrg1-study-2013",
           role: "verified",
-          locator: "NDRG1 mutation causing inherited polyneuropathy (AMPN) in Alaskan Malamutes"
+          locator: "Bruun et al. (PLoS ONE 2013, PMID 23393557): Gly98Val mutation in exon 4 of NDRG1 causing AMPN across 102 genotyped Alaskan Malamutes"
         },
         {
           id: "alaskan-malamute-cone-degeneration-cngb3-study-2006",
           role: "verified",
-          locator: "CNGB3 mutation causing cone degeneration (day blindness / hemeralopia) in Alaskan Malamutes"
+          locator: "Sidjanin et al. (Hum Mol Genet 2002, PMID 12140185): complete genomic deletion removing all exons of CNGB3 causing cone degeneration (day blindness) in Alaskan Malamutes"
         },
         {
-          id: "ofa-alaskan-malamute-chic-requirements",
+          id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "CHIC Program requirements: Hip Dysplasia, Eye Examination, AMPN DNA test, Cone Degeneration DNA test"
-        },
-        {
-          id: "amca-alaskan-malamute-health-statement",
-          role: "verified",
-          locator: "Health priorities: Hip dysplasia, elbow dysplasia, AMPN, CD, cataracts, and bloat"
+          locator: "Health: hip/elbow dysplasia, thrombopathia, chondrodysplasia, hypothyroidism, AMPN, von Willebrand's disease, day blindness; recommended tests Hip, Ophthalmologist, AMPN DNA"
         }
       ],
-      verifiedOn: "2026-11-11",
+      verifiedOn: "2026-11-25",
       note:
-        "Synthesizes peer-reviewed genetics research with national health registry screening protocols."
+        "Corrected both PubMed citations to verified PMIDs (23393557 for NDRG1 AMPN; 12140185 for CNGB3 complete genomic deletion, correcting the earlier draft's misattribution of the GSP missense mutation to Alaskan Malamutes)."
     },
 
     "health.commonConditions": {
@@ -880,118 +821,96 @@ export const alaskan_malamute: Breed = {
         {
           id: "alaskan-malamute-polyneuropathy-ndrg1-study-2013",
           role: "verified",
-          locator: "Polyneuropathy (AMPN) clinical description and genetics"
+          locator: "NDRG1 Gly98Val mutation causing AMPN"
         },
         {
           id: "alaskan-malamute-cone-degeneration-cngb3-study-2006",
           role: "verified",
-          locator: "Cone degeneration (CD / day blindness) pathology and genetics"
+          locator: "Complete genomic deletion of CNGB3 causing day blindness (cone degeneration)"
         },
         {
-          id: "ofa-alaskan-malamute-chic-requirements",
+          id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, eye disorders"
-        },
-        {
-          id: "amca-alaskan-malamute-health-statement",
-          role: "verified",
-          locator: "Chondrodysplasia, bloat (GDV), and zinc-responsive dermatosis"
+          locator: "Hip/elbow dysplasia, chondrodysplasia, hypothyroidism, thrombopathia, von Willebrand's disease"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-25",
+      note: "Distinguishes molecularly established autosomal recessive disorders from orthopedic, endocrine, and deep-chest risks."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "amca-alaskan-malamute-health-statement",
-          role: "cited",
-          locator: "Preventive health, DNA testing verification, and bloat precautions"
-        },
-        {
           id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "Routine care, wellness checks, and heat stress prevention"
+          locator: "Health & Grooming: pre-breeding screening, daily brushing, ear checks, tooth brushing"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to heavy Arctic sledge dogs."
+      note: "Standard preventive care tailored to heavy Arctic sled dogs."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-alaskan-malamute-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests From the National Breed Club: Hip Evaluation, Ophthalmologist Evaluation, Alaskan Malamute Polyneuropathy (AMPN) DNA Test"
+        },
+        {
           id: "ofa-alaskan-malamute-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, CAER Eye examination, AMPN DNA test, Cone Degeneration (CD) DNA test"
+          locator: "OFA CHIC portal for Alaskan Malamute (AM)"
         },
         {
           id: "amca-alaskan-malamute-health-statement",
-          role: "verified",
-          locator: "Recommended pre-breeding panel: Hips, eyes, AMPN, CD, elbows, and thyroid"
+          role: "cited",
+          locator: "Additional parent-club screening for Cone Degeneration and elbows"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-25",
+      note: "Aligned with published National Breed Club and OFA CHIC screening panels."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-alaskan-malamute-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: large, strong with complete scissor bite"
-        },
-        {
           id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Health: regular tooth brushing"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-alaskan-malamute-official-standard",
-          role: "cited",
-          locator: "Ears: medium size, triangular, erect"
-        },
-        {
           id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and moisture inspection"
+          locator: "Health: check ears regularly for foreign matter and wax buildup"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for erect prick ears."
+      note: null
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-alaskan-malamute-official-standard",
+          id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "Dense double coat care and skin aeration"
-        },
-        {
-          id: "amca-alaskan-malamute-health-statement",
-          role: "cited",
-          locator: "Skin evaluation and zinc-responsive dermatosis monitoring"
+          locator: "Grooming: daily brushing to check for mats (fungus) and hot spots"
         }
       ],
       verifiedOn: null,
-      note: "General skin and coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -1000,17 +919,11 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "ukc-alaskan-malamute-breed-standard",
-          role: "cited",
-          locator: "Characteristics and working lifestyle suitability"
+          locator: "About the Breed, Exercise, Training: needs pack leadership, dig-proof fencing, high exercise, daily brushing"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and household adaptability."
+      note: "Editorial suitability ratings based on AKC temperament, grooming, and exercise profile."
     },
 
     funFacts: {
@@ -1019,16 +932,11 @@ export const alaskan_malamute: Breed = {
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Mahlemut Inuit tribe origin, Klondike Gold Rush values ($500 per dog), Admiral Byrd Antarctic expeditions, woo-woo vocalizations, snowshoe feet"
-        },
-        {
-          id: "fci-alaskan-malamute-official-standard",
-          role: "verified",
-          locator: "Brief historical summary: Ancient Arctic freight sledge dog"
+          locator: "Did You Know: Mahlemut tribe, 1933 Byrd Antarctic expedition, 1984 USPS centennial stamp (14+ countries), woo-woo talking/howling, ingrained digging"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-25",
+      note: "Verified historical and behavioural facts."
     },
 
     faq: {
@@ -1037,24 +945,23 @@ export const alaskan_malamute: Breed = {
         {
           id: "fci-alaskan-malamute-official-standard",
           role: "verified",
-          locator: "Origin, desirable freighting sizes (25 in / 85 lb and 23 in / 75 lb), coat, and brown eye rule"
+          locator: "Desirable freighting sizes (25 in / 85 lb males; 23 in / 75 lb females), brown eye rule"
         },
         {
           id: "akc-alaskan-malamute-breed-profile",
           role: "verified",
-          locator: "Comparison with Siberian Husky, exercise needs, family suitability, and grooming"
+          locator: "Lifespan (10–14 years), daily brushing, exercise, family life, recommended health tests"
         },
         {
-          id: "ofa-alaskan-malamute-chic-requirements",
+          id: "alaskan-malamute-polyneuropathy-ndrg1-study-2013",
           role: "verified",
-          locator: "Recommended health screening panel (AMPN, CD, hips, eyes)"
+          locator: "AMPN / NDRG1 DNA testing"
         }
       ],
-      verifiedOn: "2026-11-11",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-25",
+      note: "Original FAQ answers grounded in FCI 243, AKC, and peer-reviewed genetics studies without Rule 5 registry names."
     }
   },
 
-  updatedOn: "2026-11-11"
+  updatedOn: "2026-11-25"
 };
