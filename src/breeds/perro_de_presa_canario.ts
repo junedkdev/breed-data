@@ -12,74 +12,55 @@ export const perro_de_presa_canario: Breed = {
     "Canarian Catch Dog"
   ],
 
-  group:
-    "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 2.1 — Mastiff type Molossoids (without working trial; also classified in the Working and Guardian Dog groups)",
+  group: "Large mastiff-type molossoid guardian",
 
   origin: {
     country: "Spain",
     region:
-      "Canary Islands (Tenerife and Gran Canaria)"
+      "Canary Islands (principally Tenerife and Gran Canaria)"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Perro_de_Presa_Canario.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Presa_Canario.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Perro_de_Presa_Canario.jpg",
-      title: "Perro de Presa Canario.jpg",
+        "https://commons.wikimedia.org/wiki/File:Presa_Canario.jpg",
+      title: "Presa Canario.jpg",
       description:
-        "An adult fawn Perro de Presa Canario standing outdoors, showing its massive, muscular build and dark facial mask.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
+        "An adult male Perro de Presa Canario at an outdoor exhibition in Tegueste, Tenerife.",
+      creator: "Felorodriguez",
+      uploader: "Basenji1908",
+      capturedOn: "2011-10-17",
+      uploadedOn: "2024-04-16",
+      width: 2262,
+      height: 2047,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Perro_de_Presa_Canario.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-16"
-    },
-    {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Perro_de_Presa_Canario_600.jpg",
-      sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Perro_de_Presa_Canario_600.jpg",
-      title: "Perro de Presa Canario 600.jpg",
-      description:
-        "A Perro de Presa Canario standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
-      licenseId: "cc-by-sa-3.0",
-      attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Perro_de_Presa_Canario_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-16"
+        "Photo by Felorodriguez (cropped by Basenji1908), Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Presa_Canario.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+      restrictions:
+        "CC BY-SA 3.0 requires attribution and ShareAlike distribution if adapted.",
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A massive, immensely powerful, and territorial mastiff from the Canary Islands, known for its short brindle or fawn coat, dark facial mask, fearless courage, and uncompromising devotion as a property and livestock guardian.",
+      "A heavy-boned, commanding Canary Islands mastiff bred for handling cattle and guarding estates, prized for its calm devotion to family, dark-masked fawn or brindle coat, and unwavering territorial vigilance.",
 
     description:
-      "The Perro de Presa Canario is a formidable, large-sized molossoid breed characterized by explosive athletic power, heavy bone, and a distinctly commanding presence. Designed for catching and holding large cattle and fiercely guarding estates, it features a body that is slightly longer than it is tall, with a broad, deep chest and incredibly muscular hindquarters. The head is massive, cuboid in shape, and topped with drop ears (often traditionally cropped in some countries to prevent tearing during work). A defining feature is its short, rustic coat, which appears in various shades of fawn and brindle, always accompanied by a black facial mask that extends no further than the eyes. The dark, oval eyes express a severe, intensely focused gaze that warns intruders. While naturally calm and deeply affectionate with its own family, the Presa Canario possesses an inherent, unwavering suspicion of strangers and an incredibly strong protective drive, making it a breed solely suited for highly experienced handlers.",
+      "Slightly longer in body than tall at the shoulder, the Perro de Presa Canario combines massive bone, deep chest capacity, and thick muscle with an agile, ground-covering stride. Its broad, cuboid head carries a strong muzzle, moderately pendulous upper lips forming an inverted V from the front, and dark oval eyes with a steady, serious gaze. A short, coarse, flat single coat comes in shades of fawn and brindle, always paired with a black mask that stops at or below eye level. Calm, quiet, and deeply loyal inside its own household, this powerful guardian stays naturally reserved and suspicious around unfamiliar visitors and demands an experienced, steady handler.",
 
     history:
-      "The Perro de Presa Canario traces its origins to the Canary Islands, primarily Tenerife and Gran Canaria, off the coast of Spain. The breed emerged from crosses between the ancient, native 'Majorero' dog—a pre-Hispanic cattle dog known for its endurance and fierce temper—and various mastiff-type molossoids brought to the islands by Spanish conquistadors and British merchants in the sixteenth and seventeenth centuries. Initially, these dogs served a vital dual purpose: they were indispensable catch dogs for managing semi-wild cattle herds and uncompromising guardians of isolated rural properties against predators and thieves. As agriculture modernized and dog fighting was officially banned in the mid-twentieth century, the breed suffered a severe decline and faced extinction. In the 1970s, a dedicated group of Spanish breeders led a successful recovery effort, sourcing authentic working specimens from remote farms. The breed gained official international recognition initially under the name 'Dogo Canario' before its traditional name, 'Perro de Presa Canario' (Canarian Catch Dog), was officially restored, cementing its legacy as an elite, world-class guardian.",
+      "Developed in Spain's Canary Islands—chiefly Tenerife and Gran Canaria—the Perro de Presa Canario grew from crosses between the native pre-Hispanic Majorero cattle dog and heavier molossoid breeds brought to the islands by Spanish and British traders during the fifteenth through seventeenth centuries. Ranchers and farmers relied on these bold 'catch dogs' to hold semi-wild cattle, protect livestock, and guard remote estates. Changing rural life and mid-twentieth-century bans on fighting dogs pushed the breed toward extinction by the 1960s, until Spanish enthusiasts launched a recovery program in the 1970s using surviving island working dogs. After a period of international recognition under the name 'Dogo Canario', its traditional name 'Presa Canario' was officially restored.",
 
     originalPurpose:
-      "Catching and holding large, semi-wild cattle, protecting herds from predators, and guarding rural estates in the Canary Islands.",
+      "Catching and holding cattle, protecting livestock, and guarding rural farms and estates in the Canary Islands",
 
     currentRoles: [
-      "Vigilant estate and property guardian",
-      "Personal protection dog for experienced handlers",
-      "Livestock and cattle-driving dog",
-      "Canine athlete in protection sports and weight pulling"
+      "Estate and property guardian",
+      "Livestock and ranch utility dog",
+      "Obedience, weight-pulling, and working-dog sport competitor",
+      "Devoted companion for highly experienced handlers"
     ]
   },
 
@@ -116,51 +97,46 @@ export const perro_de_presa_canario: Breed = {
     },
 
     coatType:
-      "Short, coarse, flat, and entirely single coat without undercoat. It feels harsh to the touch, is slightly longer on the withers and back of the thighs, and requires minimal grooming.",
+      "Short, coarse, flat single coat with no undercoat; harsh to the touch and slightly longer along the withers and backs of the thighs",
 
     coatLength: "Short",
 
     coatColors: [
-      "All shades of brindle, from very warm dark hues to very pale grey or blond",
-      "All shades of fawn to sandy",
-      "A black facial mask is strictly required, not extending above the eyes",
-      "Small white marks are acceptable on the chest, base of the neck, and toes"
+      "Brindle (from deep warm dark shades to pale grey or blond)",
+      "Fawn (all shades through sandy)",
+      "Black facial mask required on fawn and brindle coats, not extending above eye level",
+      "Limited white markings (up to 20%) permissible on chest, throat base, and toes"
     ],
 
     sheddingLevel:
-      "Low to moderate; the short single coat sheds consistently but lacks a dense undercoat, making hair management relatively straightforward",
+      "Low to moderate; sheds lightly year-round without a heavy seasonal undercoat blow",
 
     droolingLevel:
-      "Moderate; possesses heavy, slightly pendulous upper flews that can cause drooling, particularly after drinking or during exertion",
+      "Moderate; moderately pendulous upper lips lead to noticeable drooling after drinking or exercise",
 
     distinctiveFeatures: [
-      "Massive, robust, and slightly rectangular mastiff silhouette (body length exceeding withers height)",
-      "Height at the withers of 60 to 66 cm for males and 56 to 62 cm for females",
-      "Working weight with a minimum of 50 kg for males (ranging up to approx. 65 kg) and 40 kg for females (ranging up to approx. 55 kg)",
-      "Short, harsh single coat in fawn or brindle with a distinct black facial mask",
-      "Massive, broad, and cuboid head with a pronounced stop and a broad, deep muzzle",
-      "Strong jaws with a slight undershot bite (maximum 2 mm) or pincer bite",
-      "Medium to large oval eyes, medium to dark brown, expressing a severe, highly confident gaze",
-      "Medium-sized ears falling flat against the head (or traditionally cropped into short, erect points in regions where legal)",
-      "Thick, muscular, slightly arched neck featuring a double dewlap on the throat",
-      "Very broad and deep chest extending down to the elbows, providing immense lung capacity and upper body power",
-      "Thick tail set at medium height, tapering to the hock, carried high in a sabre shape when alert",
-      "Heavy-boned, straight forelegs and immensely powerful hindquarters with large, cat-like feet"
+      "Robust, slightly rectangular mastiff frame that is longer than tall (especially noticeable in females)",
+      "Massive, cuboid head with a 60:40 skull-to-muzzle ratio and dark inner lip pigmentation",
+      "Black facial mask stopping below the eye line on fawn and brindle coats",
+      "Strong jaws with a scissor bite or slight undershot bite",
+      "Medium-to-dark brown oval eyes set well apart with an alert, serious expression",
+      "Medium-sized drop ears hanging naturally against the cheeks",
+      "Thick, muscular neck with elastic skin and a modest double dewlap",
+      "Broad, deep chest reaching at least to the elbows with pronounced pectoral muscles",
+      "High-set, thick tail tapering to the hock, hanging at rest and rising like a sabre when alert",
+      "Solid forelegs and muscular hindquarters ending in compact cat-like feet with dark pads"
     ]
   },
 
   temperament: {
     traits: [
-      "Fiercely protective, courageous, and uncompromising when guarding territory",
-      "Deeply loyal, calm, and affectionate with its own family and familiar household members",
-      "Naturally dominant, highly self-assured, and intolerant of challenge",
-      "Intensely suspicious and aloof toward unfamiliar strangers",
-      "Highly alert with a low, deep, and intimidating warning bark",
-      "Requires a clear, confident, and highly experienced handler to provide firm boundaries",
-      "Can be severely dog-aggressive or assertive, especially toward dogs of the same sex",
-      "Stoic and insensitive to pain during high-adrenaline working situations",
-      "Observant and intelligent, making independent threat assessments",
-      "Quiet and docile indoors when its rigorous physical and mental needs are met"
+      "Calm, self-assured, and deeply loyal to its immediate family",
+      "Strongly protective and naturally vigilant over home and territory",
+      "Naturally reserved and suspicious toward unfamiliar strangers",
+      "Confident and strong-willed, requiring a calm, experienced leader",
+      "Often assertive or intolerant toward unfamiliar dogs, particularly of the same sex",
+      "Deep, low warning bark used selectively rather than incessantly",
+      "Docile and relaxed indoors when daily physical and mental needs are satisfied"
     ],
 
     scores: {
@@ -179,7 +155,7 @@ export const perro_de_presa_canario: Breed = {
   care: {
     exercise: {
       level:
-        "High; an immensely powerful, athletic mastiff requiring rigorous daily physical exertion and highly structured mental discipline to prevent destructive or overly territorial behavior",
+        "High; a powerful working mastiff that needs structured daily walks, mental discipline, and secure physical outlets to stay balanced",
 
       minutesPerDay: {
         min: 60,
@@ -187,11 +163,10 @@ export const perro_de_presa_canario: Breed = {
       },
 
       activities: [
-        "Daily brisk, highly structured power-walks or trail hikes on a sturdy, secure leash",
-        "Free running in a very large, heavily fenced and reinforced yard",
-        "Structured working tasks such as weight pulling, obedience drills, or protection sports",
-        "Interactive fetch or tug games using heavy-duty, durable equipment",
-        "Strictly supervised boundary patrols on rural property"
+        "Brisk, structured daily leashed walks or trail hikes",
+        "Obedience drills, impulse-control work, and tracking games",
+        "Supervised play and free movement in a tall, reinforced fenced yard",
+        "Weight pulling or structured working-dog sports for mature, joint-cleared adults"
       ]
     },
 
@@ -199,35 +174,32 @@ export const perro_de_presa_canario: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once weekly using a rubber hound mitt or firm bristle brush to remove loose dead hairs and massage natural oils into the skin.",
+        "Brush once a week with a rubber curry comb or firm bristle brush to remove loose hair and keep the coat healthy.",
 
       bathing:
-        "Bathe infrequently—only when visibly soiled—using a mild, hypoallergenic canine shampoo to preserve the coat's harsh texture and skin health.",
+        "Bathe occasionally—only when visibly dirty—using a gentle dog shampoo.",
 
       notes: [
-        "The short single coat is extremely low maintenance.",
-        "Wipe the facial wrinkles and thick double dewlap on the neck regularly to prevent moisture buildup and bacterial fold infections.",
-        "Inspect the drop ears weekly for dirt, wax accumulation, or redness, cleaning gently with a veterinary-approved solution.",
-        "Trim the strong, heavy nails every two to three weeks to maintain correct, tight foot alignment and prevent splaying.",
-        "Brush teeth several times weekly using canine enzymatic toothpaste."
+        "Wipe drool from the muzzle, lip folds, and neck dewlap regularly to prevent trapped moisture and skin irritation.",
+        "Inspect the drop ears weekly for wax buildup or redness, cleaning gently with a vet-approved solution.",
+        "Trim strong, fast-growing nails every two to three weeks with heavy-duty clippers or a grinder to prevent splitting.",
+        "Brush teeth several times a week with canine enzymatic toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Challenging; highly intelligent and capable, but possesses immense physical power, hardwired protective instincts, and a deeply dominant nature requiring expert, consistent handling",
+        "Challenging; smart and capable, yet immensely strong and self-willed, requiring early, consistent, experienced guidance",
 
       tips: [
-        "Begin intensive obedience and leash-walking training in early puppyhood before massive adult strength develops.",
-        "Use firm, fair, and positive reinforcement; the breed respects calm, unwavering authority but will dangerously challenge a passive, nervous, or overly harsh handler.",
-        "Establish extremely clear boundaries regarding territory, visitors, and resource guarding.",
-        "Never encourage aggressive behavior or bite work without highly experienced professional supervision; protective instincts are already at a maximum.",
-        "Always exercise within a securely fenced area of at least six feet in height with heavy-duty gates and locks.",
-        "Avoid repetitive drilling; keep sessions purposeful and mentally engaging to maintain the dog's respect and focus."
+        "Start structured obedience, loose-leash walking, and calm visitor protocols early in puppyhood before adult power arrives.",
+        "Combine clear, unwavering boundaries with reward-based training; inconsistent or overly harsh handling undermines trust and control.",
+        "Never encourage amateur bite work or territorial aggression—protective instincts are already strong.",
+        "Keep outdoor freedom strictly inside a reinforced fence at least six feet tall with secure latches."
       ],
 
       socialization:
-        "Extensive, continuous, and intensive socialization is absolutely critical from the day the puppy arrives. Introduce the dog safely and calmly to a wide variety of people, neutral vaccinated dogs, diverse environments, and household guests. Early structured exposure ensures its powerful guardian instincts mature into calm, discerning judgment rather than indiscriminate, dangerous aggression."
+        "Thorough, positive, lifelong socialization starting in early puppyhood is vital. Calm, controlled exposure to varied people, neutral vaccinated dogs, noises, and environments helps natural guarding instincts mature into composed, discerning judgment."
     },
 
     livingEnvironment: {
@@ -235,166 +207,139 @@ export const perro_de_presa_canario: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Warm climates, reflecting its Canary Islands heritage, though extreme heat should be avoided due to its large mass",
-        "Temperate climates",
-        "Cool climates, provided the dog lives indoors and is given a warm coat for freezing conditions, as the single coat offers no winter insulation"
+        "Well suited to warm and temperate climates, reflecting its Canary Islands origins, while avoiding strenuous exercise in extreme heat",
+        "Needs indoor housing and a fitted coat in freezing weather because its short single coat has no undercoat insulation"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply attached to its family and requires significant daily interaction, prone to destructive chewing or obsessive boundary guarding if left isolated outdoors for long hours."
+        "Low to moderate; closely bonded to its household and best suited to owners who provide steady daily interaction and structured routines."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large or giant active working breeds, with carefully controlled calcium and phosphorus ratios for growing puppies.",
+      "Complete, balanced diet formulated for large or giant active breeds, using a controlled-growth large-breed puppy formula during development",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a large-breed growth formula to prevent rapid, uneven bone development.",
+        "Three to four measured small meals daily until about six months of age, then two meals daily on a large-breed growth formula.",
       adult:
-        "Two measured meals daily to support heavy muscle mass and reduce the volume of food in the stomach at one time.",
+        "Two measured meals per day to nourish heavy musculature while moderating single-meal stomach volume.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output and joint support."
+        "Two portion-controlled meals daily adjusted for slower metabolism and joint comfort."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the heavy musculature is visible and excess fat is strictly avoided. Divide daily food into two distinct meals, strictly restrict vigorous exercise for at least one hour before and after eating to mitigate bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure every meal accurately to keep the dog lean and muscular, since extra weight places heavy load on developing and adult joints. Split daily rations into two meals, rest the dog for at least an hour before and after eating to help lower bloat risk, and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places severe mechanical stress on large joints and ligaments.",
-      "Account for training treats within the total daily caloric allowance to prevent obesity.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Avoid rapid puppy growth; strictly avoid calcium supplements unless expressly prescribed by a veterinarian.",
-      "Increase protein and caloric density if the dog is actively used for strenuous protection sports or weight pulling."
+      "Prevent excess weight gain to protect hips, elbows, and knee ligaments.",
+      "Avoid rapid puppy growth and never add calcium supplements unless prescribed by a veterinarian.",
+      "Count training treats within the daily calorie budget.",
+      "Transition food formulas gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly based on exercise intensity, age, and environmental temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Confirm exact daily portions with a veterinarian based on age, workload, and body condition."
   },
 
   health: {
     overview:
-      "The Perro de Presa Canario is a massive, robust, and athletic working breed with a typical life expectancy of 9 to 11 years. Primary health priorities focus on managing orthopedic development due to its heavy bone structure, cardiac evaluations, and preventive management for gastric dilatation-volvulus (bloat). Key recommended screenings include radiographic evaluations for hip and elbow dysplasia and veterinary cardiac exams.",
+      "The Perro de Presa Canario is generally hardy with a typical life expectancy of 9 to 11 years. As a heavy-boned, deep-chested mastiff breed, primary health priorities include monitoring orthopedic development (hip dysplasia, elbow dysplasia, cruciate ligament strain, and growing-puppy panosteitis), cardiac health, eyelid conformation, and gastric dilatation-volvulus (bloat) precautions.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and severe stiffness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in large, deep-chested mastiff breeds, requiring emergency veterinary care",
-      "Cardiac conditions — occasional reports of dilated cardiomyopathy (DCM) or subvalvular aortic stenosis (SAS), monitored through veterinary cardiologist examinations",
-      "Panosteitis — a painful inflammation of the outer surface of the long bones, commonly seen in rapidly growing large-breed puppies",
-      "Eyelid abnormalities (Entropion, Ectropion) — outward sagging or inward rolling of the eyelids, sometimes requiring veterinary surgical correction",
-      "Anterior cruciate ligament (ACL) tears — traumatic knee ligament injuries exacerbated by the breed's heavy mass and explosive speed"
+      "Hip and elbow dysplasia — developmental joint conditions common across heavy-boned large breeds that can progress to arthritis, monitored through pre-breeding X-rays",
+      "Gastric dilatation-volvulus (bloat) — an acute, life-threatening stomach twisting risk associated with deep-chested large-breed conformation",
+      "Cruciate ligament injuries and panosteitis — knee ligament strain from heavy athletic mass and temporary long-bone inflammation in fast-growing puppies",
+      "Cardiac conditions — occasional reports of dilated cardiomyopathy (DCM) or congenital heart issues, monitored through veterinary cardiac exams",
+      "Eyelid abnormalities (entropion or ectropion) — inward-rolling or sagging eyelids that may require veterinary evaluation"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic clearances for hips and elbows, alongside cardiac and eye evaluations.",
-      "Feed two smaller meals daily and avoid vigorous exercise immediately before or after eating to reduce bloat risk.",
-      "Maintain a lean, muscular body condition throughout growth and adulthood to minimize mechanical wear on joints.",
-      "Strictly limit high-impact jumping and forced running until skeletal growth plates close around 18 to 24 months of age.",
-      "Provide thick orthopedic bedding to protect heavy joints from elbow hygromas and pressure sores.",
-      "Wipe the heavy facial wrinkles and double dewlap regularly to prevent bacterial skin fold dermatitis."
+      "Ask breeders for documented hip and elbow evaluations along with veterinary cardiac and eye checks.",
+      "Keep puppies growing steadily on a large-breed diet and limit repetitive high-impact jumping until skeletal maturity (around 18 to 24 months).",
+      "Feed two smaller daily meals and separate hard exercise from mealtimes to help reduce bloat risk.",
+      "Provide thick orthopedic bedding to cushion elbows and hips against calluses or hygromas.",
+      "Keep lip folds, neck dewlap, and drop ears clean and dry."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
+      "Radiographic hip dysplasia evaluation prior to breeding",
       "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Cardiac evaluation (auscultation or echocardiogram) by a veterinary cardiologist",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "Veterinary cardiac evaluation",
+      "Veterinary ophthalmologist eye examination"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has massively powerful jaws with a slight undershot or pincer bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine enzymatic toothpaste and schedule regular veterinary oral checks to keep the powerful jaws and gums healthy.",
 
     earCare:
-      "Inspect the uncropped drop ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the drop ears weekly for wax buildup, moisture, or redness, cleaning gently with a veterinarian-approved ear cleaner.",
 
     skinCare:
-      "Part the short coat weekly during brushing to inspect the skin for external parasites or irritation. Keep the facial wrinkles and the double dewlap on the neck clean and completely dry."
+      "Check the short coat weekly for scrapes or parasites and keep facial folds and the double dewlap clean and dry."
   },
 
   suitability: {
     firstTimeOwners: false,
-    familiesWithChildren: true,
+    familiesWithChildren: false,
     seniorOwners: false,
     activeOwners: true,
     apartmentLiving: false,
 
     idealFor: [
-      "Highly experienced dog owners familiar with dominant, powerful guardian or mastiff breeds and firm, positive leadership",
-      "Active individuals or rural households with extensive, securely fenced property",
-      "Canine sports enthusiasts involved in protection sports, obedience, or weight pulling",
-      "Owners deeply committed to extensive, lifelong socialization and rigorous daily training",
-      "Those seeking an uncompromising, fearless, and intensely loyal estate guardian"
+      "Highly experienced owners skilled with powerful, confident guardian mastiff breeds",
+      "Active rural or suburban households with a large, tall, securely fenced property",
+      "Handlers committed to structured daily exercise, obedience, and lifelong socialization",
+      "Owners seeking a calm, devoted, highly protective estate guardian"
     ],
 
     notIdealFor: [
-      "First-time dog owners, passive handlers, or those intimidated by immense physical strength and dominance",
-      "Apartment, condominium, or dense urban dwellers without access to a large, highly secure yard",
-      "Households with frequent, unannounced visitors or chaotic children's neighborhood playgroups",
-      "Owners seeking an easygoing dog park companion that mixes freely with unfamiliar dogs",
-      "Sedentary individuals looking for a low-energy indoor pet"
+      "First-time dog owners or passive handlers",
+      "Homes with young children, frequent unannounced guests, or chaotic playgroups",
+      "Apartments or dense urban settings without a secure private yard",
+      "Off-leash dog parks or multi-dog households with same-sex dogs"
     ]
   },
 
   funFacts: [
-    "The name 'Perro de Presa Canario' literally translates to 'Canarian Catch Dog', perfectly describing its original purpose of catching and holding large, semi-wild cattle on the Canary Islands.",
-    "The breed's fierce and rugged nature was heavily influenced by the 'Majorero', a pre-Hispanic cattle dog native to the Canary Islands known for its incredible endurance and rustic appearance.",
-    "While internationally known as the Dogo Canario for a period under standard number 346, international authorities eventually restored the breed's traditional and historical name, Perro de Presa Canario.",
-    "Despite its intimidating size and fierce guarding reputation, a properly socialized Presa Canario is famous among enthusiasts for being exceptionally calm, quiet, and deeply affectionate with its own family.",
-    "The breed's distinctive black facial mask is a strict requirement in the official standard; it must cover the muzzle but is penalized if it extends above the level of the eyes."
+    "The Spanish name 'Perro de Presa Canario' translates to 'Canarian Catch Dog', reflecting its traditional role holding semi-wild cattle on Canary Islands ranches.",
+    "Its rugged stamina comes partly from the Majorero, an indigenous pre-Hispanic cattle dog of the Canary Islands.",
+    "After being internationally registered for years as the 'Dogo Canario', the breed's traditional 'Presa Canario' name was formally restored in 2019.",
+    "The Presa Canario's black facial mask is a defining trait on fawn and brindle dogs, stopping cleanly at or below the eye line.",
+    "Although imposing outdoors, a well-raised Presa Canario is known for a deep, selective bark and a calm, quiet presence inside its own home."
   ],
 
   faq: [
     {
-      question: "What is a Perro de Presa Canario?",
-      answer:
-        "The Perro de Presa Canario (or Canarian Catch Dog) is a massive, immensely powerful, and territorial mastiff breed from the Canary Islands, bred originally to handle cattle and guard rural estates with fearless devotion."
-    },
-    {
       question: "What is the difference between a Presa Canario and a Dogo Canario?",
       answer:
-        "They are the exact same breed. The breed was temporarily recognized internationally as the 'Dogo Canario', but its historical and traditional name, 'Perro de Presa Canario', was later officially restored."
+        "They are the exact same breed. It was known internationally as the 'Dogo Canario' for several years before its historical 'Presa Canario' name was restored."
     },
     {
-      question: "How tall and heavy is a Perro de Presa Canario?",
+      question: "How big does a Perro de Presa Canario get?",
       answer:
-        "Adult males stand 60 to 66 cm at the withers and have a minimum weight of 50 kg (often reaching up to 65 kg), while adult females stand 56 to 62 cm with a minimum weight of 40 kg (reaching up to 55 kg)."
+        "Adult males stand 60 to 66 cm at the shoulder and weigh 50 to 65 kg, while adult females stand 56 to 62 cm and weigh 40 to 55 kg."
     },
     {
       question: "How long does a Perro de Presa Canario live?",
       answer:
-        "With proper nutrition, regular exercise, joint care, and preventive veterinary attention, the breed typically enjoys a lifespan of 9 to 11 years."
+        "With lean weight management, joint protection, and preventive veterinary care, the breed typically lives 9 to 11 years."
     },
     {
-      question: "Is the Perro de Presa Canario a good family dog?",
+      question: "Is a Presa Canario suitable for first-time dog owners or apartments?",
       answer:
-        "Yes, but only for highly experienced families. Within their own household, they are deeply affectionate, loyal, and calm, but their massive strength, dominant nature, and intense protective instincts require expert handling and lifelong socialization."
+        "No. Its size, physical power, and strong territorial instincts require an experienced handler and a home with a spacious, securely fenced yard."
     },
     {
-      question: "Are Presa Canarios aggressive?",
+      question: "Are Presa Canarios good with other dogs and strangers?",
       answer:
-        "A well-bred and properly socialized Presa is calm, confident, and discerning. However, they are fiercely territorial, inherently suspicious of strangers, and can be severely dog-aggressive if not trained and managed properly by an experienced leader."
+        "They are naturally suspicious of strangers and often assertive or intolerant toward unfamiliar dogs, especially of the same sex. Early, thorough socialization and responsible management are essential."
     },
     {
-      question: "Can a Perro de Presa Canario live in an apartment?",
+      question: "What health screenings should breeders perform?",
       answer:
-        "No. Due to their immense power, protective instincts, and need for vigorous daily exercise and territory to patrol, they are completely unsuited to apartment living and require a home with a large, highly secure yard."
-    },
-    {
-      question: "Do Presa Canarios shed a lot, and how are they groomed?",
-      answer:
-        "They are low-to-moderate shedders. Their short, harsh single coat is very low-maintenance, requiring only weekly brushing with a rubber hound mitt and occasional baths."
-    },
-    {
-      question: "How much exercise does a Perro de Presa Canario need each day?",
-      answer:
-        "The breed requires 60 to 90 minutes of vigorous daily physical activity, including power-walking, training drills, and highly structured tasks to keep them physically and mentally fulfilled."
-    },
-    {
-      question: "What health screenings are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, along with veterinary cardiac and eye examinations."
+        "Conscientious breeders prioritize hip and elbow dysplasia X-rays along with veterinary cardiac and eye examinations."
     }
   ],
 
@@ -405,86 +350,91 @@ export const perro_de_presa_canario: Breed = {
     "akc-presa-canario-breed-profile",
     "ukc-presa-canario-breed-standard",
     "ofa-presa-canario-chic-requirements",
+    "natureserve-canis-lupus-familiaris",
     "wikimedia-perro-de-presa-canario-lilly-m",
-    "wikimedia-perro-de-presa-canario-600-tomasz-sienicki"
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Species taxonomy record: Canis lupus familiaris"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Domestic dog subspecies taxonomy."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-presa-canario-official-standard",
-          role: "verified",
-          locator: "Standard heading: PRESA CANARIO"
-        },
-        {
           id: "fci-presa-canario-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: PRESA CANARIO (346)"
+          locator: "PRESA CANARIO (346); renamed from Dogo Canario effective 2019-01-01"
         },
         {
           id: "akc-presa-canario-breed-profile",
           role: "verified",
-          locator: "History: Presa Canario, Dogo Canario, Canary Mastiff, Canarian Catch Dog"
+          locator: "Presa Canario (renamed from Perro de Presa Canario in FSS January 2024); Canary Dog"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Presa Canario, Dogo Canario, Canary Mastiff"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Verified across FCI Standard No. 346, FCI Nomenclature, and AKC."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-presa-canario-official-standard",
-          role: "verified",
-          locator: "FCI Classification: Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs; Section 2.1 Mastiff type Molossoids, without working trial"
-        },
-        {
           id: "fci-presa-canario-nomenclature",
           role: "verified",
-          locator: "Group 2, Section 2.1 Mastiff type Molossoids, without working trial"
+          locator: "Group 2 Pinscher and Schnauzer - Molossoid and Swiss Mountain and Cattledogs; Section 2.1 Mastiff type Molossoids, without working trial"
         },
         {
           id: "ukc-presa-canario-breed-standard",
           role: "verified",
           locator: "Guardian Dog Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Working"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-26",
+      note: "User-facing group text avoids registry numbers and group titles."
     },
 
     origin: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-presa-canario-official-standard",
-          role: "verified",
-          locator: "ORIGIN: Spain; BRIEF HISTORICAL SUMMARY (Tenerife and Gran Canaria)"
-        },
-        {
           id: "fci-presa-canario-nomenclature",
           role: "verified",
           locator: "Country of origin: Spain"
         },
         {
-          id: "rsce-presa-canario-standard",
+          id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "Origen: España (Islas Canarias)"
+          locator: "Origin: Spain (Canary Islands: Tenerife and Gran Canaria)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Canary Islands, Spain"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -494,22 +444,21 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "rsce-presa-canario-standard",
-          role: "verified",
-          locator: "Breve Resumen Histórico, Apariencia General y Temperamento"
+          locator: "Proportions, gait, coat, black mask, and guarding/cattle-herding temperament (2023-10-05 revision)"
         },
         {
           id: "akc-presa-canario-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (Majorero, Catch Dog), and Roles"
+          locator: "About the breed and history (15th–16th century holding dogs, name change)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note:
-        "Synthesized in original prose from FCI Standard No. 346, RSCE, and AKC official records."
+      verifiedOn: "2026-11-26",
+      note: "All user-facing overview prose is newly written in original wording."
     },
 
     physical: {
@@ -518,17 +467,16 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "Proportions (60:40 skull-foreface), lips (inverted V), tail (sabre in action; cropped tail disqualifying), coat, colours (fawn/brindle with black mask not above eyes; >20% white disqualifying; 2023-10-05 revision)"
         },
         {
-          id: "ukc-presa-canario-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "GET /breeds/{id}/colours"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note:
-        "Conformation, massive bone, brindle/fawn single coat, black mask, cuboid head, and distinctive features follow official standards."
+      verifiedOn: "2026-11-26",
+      note: "Coat colors strictly follow FCI Standard No. 346 (fawn and brindle with black mask, white up to 20%); generic colors from The Dog API are excluded. Pincer bite is listed as a fault in the 2023 FCI revision."
     },
 
     "physical.height": {
@@ -537,12 +485,21 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at the withers: Males: 60 to 66 cm. Females: 56 to 62 cm."
+          locator: "Height at the withers: Males 60–66 cm; Females 56–62 cm"
+        },
+        {
+          id: "akc-presa-canario-breed-profile",
+          role: "cited",
+          locator: "Height: 22–26 inches"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: Males 58–66 cm; Females 56–64 cm"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note:
-        "Preserved in published unit of centimetres (60–66 cm for males and 56–62 cm for females) exactly as specified in the official FCI Standard No. 346."
+      verifiedOn: "2026-11-26",
+      note: "Exact FCI Standard No. 346 height values in cm (60–66 cm / 56–62 cm); The Dog API lists 58–66 cm / 56–64 cm."
     },
 
     "physical.weight": {
@@ -551,12 +508,21 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "Weight: Minimum for males: 50 kg. Maximum: 65 kg. Minimum for females: 40 kg. Maximum: 55 kg."
+          locator: "Weight: Males 50–65 kg; Females 40–55 kg"
+        },
+        {
+          id: "akc-presa-canario-breed-profile",
+          role: "cited",
+          locator: "Weight: 84–110 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric: Males 50–59 kg; Females 39–50 kg"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note:
-        "Preserved in published unit of kilograms (min 50 kg to max 65 kg for males; min 40 kg to max 55 kg for females) exactly as specified in the official FCI Standard No. 346."
+      verifiedOn: "2026-11-26",
+      note: "Exact FCI Standard No. 346 weight values in kg (50–65 kg / 40–55 kg); The Dog API lists 50–59 kg / 39–50 kg."
     },
 
     "physical.lifespanYears": {
@@ -565,28 +531,33 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "akc-presa-canario-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 9-11 years"
+          locator: "Life Expectancy: 9–11 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 9–11 years"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Both AKC profile and The Dog API report 9–11 years."
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
-        {
-          id: "akc-presa-canario-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
-        },
         {
           id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "COAT: Short, coarse, flat, with no undercoat"
+          locator: "Short, coarse, flat single coat with no undercoat"
+        },
+        {
+          id: "akc-presa-canario-breed-profile",
+          role: "verified",
+          locator: "Moderate shedding rating"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -596,16 +567,11 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "Lips: The upper lips are pendulous, although not excessively... Inner mucous membranes are dark."
-        },
-        {
-          id: "akc-presa-canario-breed-profile",
-          role: "verified",
-          locator: "Breed Traits: Drooling Level (3/5)"
+          locator: "Upper lip pendulous, although not excessively"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Pendulous flews produce moderate drooling, particularly after drinking or during exertion."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "temperament.traits": {
@@ -614,15 +580,20 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Calm appearance; attentive expression. He is especially suited to guarding... Severe and deep bark. Docile and affectionate with his family, suspicious of strangers."
+          locator: "Behaviour/Temperament: severe look, balanced, self-confident, low deep bark, docile with family, suspicious of strangers"
         },
         {
-          id: "ukc-presa-canario-breed-standard",
+          id: "akc-presa-canario-breed-profile",
           role: "verified",
-          locator: "Temperament: Calm, attentive, docile with family, highly suspicious of strangers, highly confident."
+          locator: "Strong-willed, confident, calm; not recommended for young children or unfamiliar dogs"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -632,12 +603,11 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "akc-presa-canario-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed trait ratings"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented guardian mastiff temperament, extreme protectiveness, and dog assertiveness."
+      note: "Editorial 1–5 scores reflecting strong territorial protectiveness, low stranger/dog sociability, and calm indoor demeanor."
     },
 
     care: {
@@ -646,29 +616,28 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "akc-presa-canario-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming, exercise, and nutrition guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active guardian dog management with short-coat care and secure boundary protocols."
+      note: null
     },
 
     "care.exercise.level": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
-        {
-          id: "akc-presa-canario-breed-profile",
-          role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
-        },
         {
           id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Guard dog used for driving cattle"
+          locator: "Agile, supple working guardian and cattle-herding dog"
+        },
+        {
+          id: "akc-presa-canario-breed-profile",
+          role: "verified",
+          locator: "Daily walks, fenced play, and structured activities"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -678,12 +647,11 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "akc-presa-canario-breed-profile",
           role: "cited",
-          locator: "Exercise recommendations for working catch dogs"
+          locator: "Daily exercise needs for large working mastiffs"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic, muscular working catch dog."
+      note: "Estimated 60–90 minutes of structured daily physical and mental work."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -692,12 +660,11 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "akc-presa-canario-breed-profile",
           role: "cited",
-          locator: "Large size, strong guarding instincts, and need for open movement"
+          locator: "Large size, territorial vigilance, and fenced yard recommendation"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that massive size, extreme protective territorial instincts, and heavy exercise needs make apartment living unsuitable."
+      note: null
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -706,28 +673,23 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "akc-presa-canario-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations (minimum six-foot fence)"
+          locator: "Fenced backyard play recommendation"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
     "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "COAT: Short, coarse, flat, with no undercoat"
-        },
-        {
-          id: "akc-presa-canario-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: excels in warm weather; sensitive to extreme cold"
+          locator: "Canary Islands origin; short single coat with no undercoat"
         }
       ],
-      verifiedOn: "2026-11-16",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -737,7 +699,7 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "akc-presa-canario-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; devoted family guardian"
+          locator: "Family-devoted guardian temperament"
         }
       ],
       verifiedOn: null,
@@ -750,63 +712,47 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "akc-presa-canario-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for large active breeds"
+          locator: "Age-appropriate high-quality diet and weight monitoring"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for large, heavily muscled working breeds."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-presa-canario-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance and divided meals to mitigate bloat"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule for large breeds."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-presa-canario-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program requirements: Hip, Elbow, Cardiac, Eye"
-        },
-        {
           id: "akc-presa-canario-breed-profile",
           role: "verified",
-          locator: "Health overview: Hip dysplasia, elbow dysplasia, and bloat precautions"
+          locator: "Health: generally healthy breed; life expectancy 9–11 years"
+        },
+        {
+          id: "ofa-presa-canario-chic-requirements",
+          role: "cited",
+          locator: "OFA orthopedic/cardiac/eye disease tracking for Presa Canario"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note:
-        "Synthesizes national health registry screening protocols with kennel club veterinary profiles."
+      verifiedOn: "2026-11-26",
+      note: "AKC notes no mandatory national club CHIC panel is currently listed; orthopedic, cardiac, and eye evaluations are recommended large-mastiff precautions."
     },
 
     "health.commonConditions": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "ofa-presa-canario-chic-requirements",
-          role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, cardiac anomalies, eye disorders"
+          role: "cited",
+          locator: "OFA disease statistics for Presa Canario (hip/elbow evaluations)"
         },
         {
           id: "akc-presa-canario-breed-profile",
-          role: "verified",
-          locator: "Gastric dilatation-volvulus (bloat), Panosteitis, ACL tears"
+          role: "cited",
+          locator: "Large working mastiff health considerations"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: null,
+      note: "Reflects OFA-tracked orthopedic conditions and general large deep-chested mastiff risks."
     },
 
     "health.preventiveCare": {
@@ -815,56 +761,50 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "akc-presa-canario-breed-profile",
           role: "cited",
-          locator: "Routine care, bloat precautions, joint protection, and veterinary wellness checks"
+          locator: "Weight control, grooming, nail/ear/dental care"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to large mastiff breeds."
+      note: null
     },
 
     "health.recommendedScreenings": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "ofa-presa-canario-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip Dysplasia evaluation, Radiographic Elbow Dysplasia evaluation, Cardiac Evaluation, CAER Eye examination"
+          role: "cited",
+          locator: "OFA orthopedic, cardiac, and eye screening programs"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: null,
+      note: "Recommended veterinary pre-breeding screenings for a heavy-boned mastiff breed (no mandatory AKC national club CHIC panel currently listed)."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-presa-canario-official-standard",
+          id: "akc-presa-canario-breed-profile",
           role: "cited",
-          locator: "Jaws/teeth: Scissor bite or slightly undershot bite (max 2 mm) accepted"
+          locator: "Regular tooth brushing"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-presa-canario-official-standard",
-          role: "cited",
-          locator: "Ears: Medium sized, falling flat to the head"
-        },
-        {
           id: "akc-presa-canario-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Regular ear checks to avoid wax and debris buildup"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: null
     },
 
     "health.skinCare": {
@@ -873,16 +813,11 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "fci-presa-canario-official-standard",
           role: "cited",
-          locator: "Skin: Thick and elastic. Double dewlap on the neck"
-        },
-        {
-          id: "akc-presa-canario-breed-profile",
-          role: "cited",
-          locator: "Facial fold and skin cleaning"
+          locator: "Short single coat and double dewlap"
         }
       ],
       verifiedOn: null,
-      note: "General skin and facial fold care guidelines."
+      note: null
     },
 
     suitability: {
@@ -891,35 +826,34 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "akc-presa-canario-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "ukc-presa-canario-breed-standard",
-          role: "cited",
-          locator: "Characteristics and guardian lifestyle suitability"
+          locator: "Not recommended for young children or unfamiliar dogs; strong-willed guardian"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, extreme power, and guardian dominance."
+      note: "Updated familiesWithChildren to false to align with AKC Marketplace 'Good with Children: Not Recommended' and intense guardian temperament."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-presa-canario-breed-profile",
+          id: "fci-presa-canario-nomenclature",
           role: "verified",
-          locator: "Majorero heritage, Canarian Catch Dog etymology, Dogo Canario name changes, 1970s revival"
+          locator: "Name restored from Dogo Canario to Presa Canario effective 2019-01-01"
         },
         {
           id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Black mask requirement not extending above the eyes"
+          locator: "Black mask not spreading above eye level; low deep bark"
+        },
+        {
+          id: "akc-presa-canario-breed-profile",
+          role: "verified",
+          locator: "Canary Islands catch dog heritage"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     faq: {
@@ -928,24 +862,23 @@ export const perro_de_presa_canario: Breed = {
         {
           id: "fci-presa-canario-official-standard",
           role: "verified",
-          locator: "Origin, height (60-66 cm / 56-62 cm), weight (50-65 kg / 40-55 kg), coat, black mask requirement"
+          locator: "Height (60–66 cm / 56–62 cm), weight (50–65 kg / 40–55 kg), and temperament"
+        },
+        {
+          id: "fci-presa-canario-nomenclature",
+          role: "verified",
+          locator: "Presa Canario / Dogo Canario name restoration"
         },
         {
           id: "akc-presa-canario-breed-profile",
           role: "verified",
-          locator: "Lifespan (9-11 years), apartment living, family life, and dog aggression"
-        },
-        {
-          id: "ofa-presa-canario-chic-requirements",
-          role: "verified",
-          locator: "Recommended health screening panel (Hips, Elbows, Heart, Eyes)"
+          locator: "Lifespan (9–11 years) and temperament/socialization profile"
         }
       ],
-      verifiedOn: "2026-11-16",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and health registry data without naming registries in prose."
+      verifiedOn: "2026-11-26",
+      note: "All FAQ entries are written in original prose without source or registry names."
     }
   },
 
-  updatedOn: "2026-11-16"
+  updatedOn: "2026-11-26"
 };

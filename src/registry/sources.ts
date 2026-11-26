@@ -17530,224 +17530,214 @@ export const sources = defineSources({
     note: "Verified close-up portrait (953 x 1267 px) of a Shih Tzu with a white forehead blaze by Avesterfelt (Own work; captured 2023-05-07, uploaded and edited on Commons 2024-05-02). Dedicated to the Public Domain under CC0 1.0.",
     publisher: "Wikimedia Commons"
   },
-  "fci-presa-canario-official-standard": {
+"fci-presa-canario-official-standard": {
     id: "fci-presa-canario-official-standard",
     name: "FCI - Presa Canario Official Breed Standard No. 346",
     url: "https://www.fci.be/Nomenclature/Standards/346g02-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2011-08-12",
-    accessedOn: "2026-11-16",
-    note: "Official English FCI Standard No. 346 (valid standard dated 2011-07-04, published 2011-08-12). Covers Spanish origin (Canary Islands), Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 2.1 Mastiff type Molossoids classification without working trial, robust mastiff build, short brindle or fawn coat with black mask, withers height (males 60-66 cm, females 56-62 cm), and weight (males min 50 kg - max 65 kg, females min 40 kg - max 55 kg).",
+    publishedOn: "2023-10-05",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 346 (valid standard dated 2023-09-23, published 2023-10-05). Covers Spain (Canary Islands) origin, Group 2 Section 2.1 Mastiff type Molossoids without working trial, 60:40 skull-foreface ratio, short coarse single coat in fawn/brindle with black mask not above eye level (white >20% and cropped tail disqualifying; pincer bite a fault), height (males 60-66 cm, females 56-62 cm), and weight (males 50-65 kg, females 40-55 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-presa-canario-nomenclature": {
+"fci-presa-canario-nomenclature": {
     id: "fci-presa-canario-nomenclature",
     name: "FCI - Presa Canario Breed Nomenclature (No. 346)",
     url: "https://www.fci.be/en/nomenclature/PRESA-CANARIO-346.html",
     type: "official_breed_standard",
-    publishedOn: "2011-08-12",
-    accessedOn: "2026-11-16",
-    note: "Official FCI breed nomenclature record confirming Spain as country of origin, Group 2 Section 2.1 classification without working trial, definitive recognition date (2011-07-04), and official multilingual name (Presa Canario).",
+    publishedOn: "2023-10-05",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature confirming Spain origin, Group 2 Section 2.1 without working trial, provisional acceptance 2001-06-04, definitive acceptance 2011-07-04, name restored from Dogo Canario to Presa Canario effective 2019-01-01, valid standard 2023-09-23, and English publication 2023-10-05.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "rsce-presa-canario-standard": {
+"rsce-presa-canario-standard": {
     id: "rsce-presa-canario-standard",
-    name: "Real Sociedad Canina de España - Estándar del Presa Canario",
+    name: "Real Sociedad Canina de España - Presa Canario",
     url: "https://www.rsce.es/presa-canario/",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official Spanish Kennel Club (RSCE) breed standard and profile for Presa Canario, documenting Tenerife and Gran Canaria historical roots, Majorero heritage, height limits, weight minimums, and guardian traits.",
+    accessedOn: "2026-11-26",
+    note: "Spanish Kennel Club (RSCE) country-of-origin reference for Presa Canario (requested FCI name restoration from Dogo Canario to Presa Canario).",
     publisher: "Real Sociedad Canina de España"
   },
-  "akc-presa-canario-breed-profile": {
+"akc-presa-canario-breed-profile": {
     id: "akc-presa-canario-breed-profile",
     name: "American Kennel Club - Presa Canario Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/presa-canario/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official AKC breed profile (Foundation Stock Service) covering Canary Islands catch dog origins, Majorero ancestry, weight, lifespan (9-11 years), temperament, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC Foundation Stock Service breed profile (recorded since 1996; renamed to Presa Canario in FSS Jan 2024). Covers height (22-26 in), weight (84-110 lb), lifespan (9-11 years), temperament (not recommended for young children or unfamiliar dogs), grooming, and general health (no mandatory national club health test panel currently listed).",
     publisher: "American Kennel Club"
   },
-  "ukc-presa-canario-breed-standard": {
+"ukc-presa-canario-breed-standard": {
     id: "ukc-presa-canario-breed-standard",
     name: "United Kennel Club - Perro de Presa Canario Breed Standard",
     url: "https://www.ukcdogs.com/perro-de-presa-canario",
     type: "official_breed_standard",
     publishedOn: "2003-01-01",
-    accessedOn: "2026-11-16",
-    note: "Official UKC breed standard (Guardian Dog Group, recognized 2003) covering conformation, rectangular proportions, short brindle/fawn coat, and highly territorial guardian behavior.",
+    accessedOn: "2026-11-26",
+    note: "Official UKC breed standard (Guardian Dog Group, recognized 2003) covering rectangular mastiff proportions, short brindle/fawn coat, and guardian temperament.",
     publisher: "United Kennel Club"
   },
-  "ofa-presa-canario-chic-requirements": {
+"ofa-presa-canario-chic-requirements": {
     id: "ofa-presa-canario-chic-requirements",
-    name: "Orthopedic Foundation for Animals - Perro de Presa Canario CHIC Requirements",
+    name: "Orthopedic Foundation for Animals - Perro de Presa Canario Health Testing",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=PRC",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Perro de Presa Canario, mandating Radiographic Hip and Elbow Dysplasia evaluation, Cardiac Evaluation, and CAER Eye examination.",
+    accessedOn: "2026-11-26",
+    note: "OFA breed health testing portal for Perro de Presa Canario covering orthopedic (hip/elbow), cardiac, and eye evaluations (note: AKC currently lists no mandatory parent club CHIC panel for the breed).",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-perro-de-presa-canario-lilly-m": {
+"wikimedia-perro-de-presa-canario-lilly-m": {
     id: "wikimedia-perro-de-presa-canario-lilly-m",
-    name: "Wikimedia Commons - File:Perro de Presa Canario.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Perro_de_Presa_Canario.jpg",
+    name: "Wikimedia Commons - File:Presa Canario.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Presa_Canario.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-16",
-    note: "High-resolution photograph (2592 x 1944 px) of an adult fawn Perro de Presa Canario standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2024-04-16",
+    accessedOn: "2026-11-26",
+    note: "Replaced non-existent File:Perro_de_Presa_Canario.jpg URL in place while preserving existing source ID. Verified photograph (2262 x 2047 px) of an adult male Presa Canario at an exhibition in Tegueste, Tenerife, by Felorodriguez (Own work; captured 2011-10-17, lossless crop uploaded 2024-04-16 by Basenji1908). Licensed under CC BY-SA 3.0.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-perro-de-presa-canario-600-tomasz-sienicki": {
-    id: "wikimedia-perro-de-presa-canario-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Perro de Presa Canario 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Perro_de_Presa_Canario_600.jpg",
-    type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-16",
-    note: "Photograph of a Perro de Presa Canario standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
-    publisher: "Wikimedia Commons"
-  },
-  "akc-belgian-tervuren-breed-standard": {
+"akc-belgian-tervuren-breed-standard": {
     id: "akc-belgian-tervuren-breed-standard",
     name: "American Kennel Club - Official Standard of the Belgian Tervuren",
     url: "https://images.akc.org/pdf/breeds/standards/BelgianTervuren.pdf",
     type: "official_breed_standard",
     publishedOn: "1990-06-11",
-    accessedOn: "2026-11-16",
-    note: "Official AKC breed standard (Herding Group, approved 1990) establishing height (males 24 to 26 inches, females 22 to 24 inches), square proportions, long fawn to mahogany coat with black overlay and mask, scissor bite, and highly intelligent, courageous working temperament.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Herding Group, approved 1990-06-11) establishing height (males 24-26 in, females 22-24 in), square proportions, rich fawn to mahogany coat with black overlay and mask, scissor bite, and alert, courageous temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-belgian-tervuren-breed-profile": {
+"akc-belgian-tervuren-breed-profile": {
     id: "akc-belgian-tervuren-breed-profile",
     name: "American Kennel Club - Belgian Tervuren Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/belgian-tervuren/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official AKC breed profile covering village of Tervuren history, M.F. Corbeel's foundation dogs 'Tom' and 'Poes', first herding champion records, weight (45-75 lbs overall), lifespan (12-14 years), temperament, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile covering Tervuren village history, M.F. Corbeel's foundation dogs 'Tom' and 'Poes', lifespan (12-14 years), weight (45-75 lb overall), grooming, and national breed club recommended health tests (Hip Evaluation, Elbow Evaluation, Ophthalmologist Evaluation, Thyroid Evaluation).",
     publisher: "American Kennel Club"
   },
-  "the-kennel-club-belgian-shepherd-dog-tervueren-breed-standard": {
+"the-kennel-club-belgian-shepherd-dog-tervueren-breed-standard": {
     id: "the-kennel-club-belgian-shepherd-dog-tervueren-breed-standard",
     name: "The Royal Kennel Club - Belgian Shepherd Dog (Tervueren) Breed Standard",
-    url: "https://www.thekennelclub.org.uk/breed-standards/pastoral/belgian-shepherd-dog-tervueren/",
+    url: "https://www.royalkennelclub.com/breed-standards/pastoral/belgian-shepherd-dog-tervueren/",
     type: "official_breed_standard",
     publishedOn: "2025-04-01",
-    accessedOn: "2026-11-16",
-    note: "Official Royal Kennel Club breed standard (Pastoral Group) confirming ideal height (dogs 61-66 cm / 24-26 in; bitches 56-61 cm / 22-24 in), long fawn coat with black overlay and strict black mask, and watchful pastoral temperament.",
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club breed standard (Pastoral Group; updated domain to royalkennelclub.com) covering height (dogs 61-66 cm, bitches 56-61 cm), long fawn/grey coat with black overlay and black mask, and active pastoral temperament.",
     publisher: "The Royal Kennel Club"
   },
-  "ofa-belgian-tervuren-chic-requirements": {
+"ofa-belgian-tervuren-chic-requirements": {
     id: "ofa-belgian-tervuren-chic-requirements",
     name: "Orthopedic Foundation for Animals - Belgian Tervuren CHIC Requirements",
-    url: "https://ofa.org/chic-programs/browse-by-breed/",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=BT",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Belgian Tervuren, mandating radiographic hip dysplasia evaluation, radiographic elbow dysplasia evaluation, CAER eye examination, and thyroid panel evaluation.",
+    accessedOn: "2026-11-26",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Belgian Tervuren (updated to unique breed-specific URL ?breed=BT): Hip Evaluation, Elbow Evaluation, Ophthalmologist Evaluation (CAER), and Thyroid Evaluation.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "abtc-belgian-tervuren-health": {
+"abtc-belgian-tervuren-health": {
     id: "abtc-belgian-tervuren-health",
-    name: "American Belgian Tervuren Club - Health and OFA Champions",
+    name: "American Belgian Tervuren Club - OFA Champions for Health",
     url: "https://abtc.org/ofa-champions-for-health-award/",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official national parent club portal confirming adherence to OFA CHIC requirements (hips, elbows, thyroid, eyes) and documenting breed health initiatives for epilepsy and gastric carcinoma.",
+    accessedOn: "2026-11-26",
+    note: "Official national parent club health recognition page confirming CHIC participation and Health Education Committee evaluation.",
     publisher: "American Belgian Tervuren Club"
   },
-  "wikimedia-belgian-tervueren-shepherd-canarian": {
+"wikimedia-belgian-tervueren-shepherd-canarian": {
     id: "wikimedia-belgian-tervueren-shepherd-canarian",
     name: "Wikimedia Commons - File:Belgian Tervueren Shepherd.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Belgian_Tervueren_Shepherd.jpg",
     type: "other",
-    publishedOn: "2017-12-08",
-    accessedOn: "2026-11-16",
-    note: "High-resolution photograph (1821 x 1868 px) of an adult Belgian Tervuren standing outdoors by Canarian (captured and uploaded 2017-12-08). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publishedOn: "2018-01-30",
+    accessedOn: "2026-11-26",
+    note: "Verified high-resolution photograph (1821 x 1868 px) of an adult Belgian Tervuren outdoors by Canarian (Own work; captured 2017-12-08, uploaded 2018-01-30). Licensed under CC BY-SA 4.0.",
     publisher: "Wikimedia Commons"
   },
-  "fci-pekingese-official-standard": {
+"fci-pekingese-official-standard": {
     id: "fci-pekingese-official-standard",
     name: "FCI - Pekingese Official Breed Standard No. 207",
     url: "https://www.fci.be/Nomenclature/Standards/207g09-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2009-06-05",
-    accessedOn: "2026-11-16",
-    note: "Official English FCI Standard No. 207 (valid standard dated 2009-03-26, published 2009-06-05). Covers Chinese origin with Great Britain patronage, Group 9 Companion and Toy Dogs, Section 8 Japan Chin and Pekingese classification without working trial, heavy bone, rolling gait, flat face, and ideal weight not exceeding 5 kg for males and 5.4 kg for females.",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 207 (valid standard dated 2026-09-08, published 2026-10-06). Covers Chinese origin with Great Britain patronage, Group 9 Companion and Toy Dogs, Section 8 Japan Chin and Pekingese without working trial, coat-volume and eye-health welfare provisions, exclusion of albino, liver, and merle, and ideal weight not exceeding 5 kg for males and 5.4 kg for females.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-pekingese-nomenclature": {
+"fci-pekingese-nomenclature": {
     id: "fci-pekingese-nomenclature",
     name: "FCI - Pekingese Breed Nomenclature (No. 207)",
     url: "https://www.fci.be/en/nomenclature/PEKINGESE-207.html",
     type: "official_breed_standard",
-    publishedOn: "2009-06-05",
-    accessedOn: "2026-11-16",
-    note: "Official FCI breed nomenclature record confirming China as country of origin, Great Britain as patron, Group 9 Section 8 classification without working trial, definitive recognition date (1966-11-09), and official multilingual name (Pekingese).",
+    publishedOn: "2026-10-06",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming China as country of origin, Great Britain as patron, Group 9 Section 8 classification without working trial, definitive recognition date (1966-11-03), and valid standard dated 2026-09-08 (published 2026-10-06).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "akc-pekingese-breed-standard": {
+"akc-pekingese-breed-standard": {
     id: "akc-pekingese-breed-standard",
     name: "American Kennel Club - Official Standard of the Pekingese",
     url: "https://images.akc.org/pdf/breeds/standards/Pekingese.pdf",
     type: "official_breed_standard",
     publishedOn: "2004-09-08",
-    accessedOn: "2026-11-16",
-    note: "Official AKC breed standard (Toy Group, effective October 27, 2004) establishing height (6 to 9 inches at the withers), weight (must not exceed 14 pounds), lion-like conformation, long flowing double coat with mane, and flat facial profile.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Toy Group) establishing weight disqualification over 14 pounds, pear-shaped compact conformation, bowed forelegs and rolling gait, straight double coat with mane, and black skin pigment on muzzle, nose, lips, and eye rims.",
     publisher: "American Kennel Club"
   },
-  "akc-pekingese-breed-profile": {
+"akc-pekingese-breed-profile": {
     id: "akc-pekingese-breed-profile",
     name: "American Kennel Club - Pekingese Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/pekingese/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official AKC breed profile covering ancient Chinese royal history, Foo Dog legends, 1860 Old Summer Palace sacking, weight (under 14 lbs), lifespan (12-14 years), apartment adaptability, temperament, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile covering ancient Chinese royal history, 1860 Old Summer Palace recovery, height (6-9 inches), weight (up to 14 pounds), lifespan (12-14 years), temperament, grooming, and noting no national breed club recommended health tests.",
     publisher: "American Kennel Club"
   },
-  "pca-pekingese-health": {
+"pca-pekingese-health": {
     id: "pca-pekingese-health",
-    name: "Pekingese Club of America - Health and CHIC Information",
-    url: "https://www.pekingeseclubofamerica.com/health.html",
+    name: "Pekingese Club of America - Health Resources",
+    url: "https://pekingeseclubofamerica.com/category/health/",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official national parent club health portal documenting structural health risks including BOAS, IVDD, Patellar Luxation, eye injuries, and mandatory CHIC pre-breeding screenings.",
+    accessedOn: "2026-11-26",
+    note: "Official Pekingese Club of America health category archive covering breed health education, respiratory, ocular, orthopedic, and general wellness topics.",
     publisher: "Pekingese Club of America"
   },
-  "ofa-pekingese-chic-requirements": {
+"ofa-pekingese-chic-requirements": {
     id: "ofa-pekingese-chic-requirements",
-    name: "Orthopedic Foundation for Animals - Pekingese CHIC Requirements",
+    name: "Orthopedic Foundation for Animals - Pekingese Breed Health Listing",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=PE",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-16",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Pekingese, mandating CAER Eye examination and Clinical Patellar Luxation evaluation.",
+    accessedOn: "2026-11-26",
+    note: "OFA breed health directory listing for Pekingese (PE); note that AKC's Toy Group health-testing directory currently lists no mandatory parent-club tests for the breed.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-pekingese-hugo-arg": {
+"wikimedia-pekingese-hugo-arg": {
     id: "wikimedia-pekingese-hugo-arg",
     name: "Wikimedia Commons - File:Pekingese002.JPG",
     url: "https://commons.wikimedia.org/wiki/File:Pekingese002.JPG",
     type: "other",
-    publishedOn: "2009-01-05",
-    accessedOn: "2026-11-16",
-    note: "High-resolution photograph (1943 x 1547 px) of an adult Pekingese dog standing outdoors by Hugo.arg (captured 2009-01-01, uploaded 2009-01-05). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publishedOn: "2009-01-04",
+    accessedOn: "2026-11-26",
+    note: "Photograph (1943 x 1547 px) of an adult Pekingese standing outdoors by Hugo.arg (captured 2009-01-01, uploaded 2009-01-04). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-pekingese-bailey-dirk": {
+"wikimedia-pekingese-bailey-dirk": {
     id: "wikimedia-pekingese-bailey-dirk",
     name: "Wikimedia Commons - File:Bailey Pekingese.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Bailey_Pekingese.jpg",
     type: "other",
     publishedOn: "2008-10-21",
-    accessedOn: "2026-11-16",
-    note: "Photograph (1280 x 1202 px) featuring a close-up of a fawn Pekingese's distinctive lion-like mane and flat facial profile by Dirk (captured 2007-11-22, uploaded by Flickr upload bot 2008-10-21). Licensed under CC BY 2.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Photograph (1280 x 1202 px) of a fawn Pekingese by Dirk (originally posted to Flickr as Bailey; captured 2007-11-22, uploaded by Flickr upload bot 2008-10-21). Licensed under CC BY 2.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
   "fci-affenpinscher-official-standard": {
@@ -24985,6 +24975,336 @@ export const sources = defineSources({
     publishedOn: "2007-02-19",
     accessedOn: "2026-11-26",
     note: "High-resolution photograph (1280 x 960 px) of an adult male Rat Terrier by Flickr user Bree Bailey (EXIF capture date 2006-09-28 on Fujifilm FinePix S602 Zoom, uploaded to Wikimedia Commons by Pharaoh Hound on 2007-02-19, license reviewed by FlickreviewR on 2007-04-08). Licensed under CC BY-SA 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-pudelpointer-official-standard": {
+    id: "fci-pudelpointer-official-standard",
+    name: "FCI - Pudelpointer Official Breed Standard No. 216",
+    url: "https://www.fci.be/Nomenclature/Standards/216g07-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2004-12-06",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 216 (valid standard dated 2004-11-09, English publication dated 2004-12-06). Covers German origin (strictly from Poodle and English Pointer crosses without other pointing breeds), Group 7 Section 1.1 Continental Pointing Dogs ('Braque' type) classification with working trial, balanced calm self-controlled temperament free of game or gun shyness, heavy-Pointer conformation, large dark amber eyes, medium high-set close-lying rounded drop ears, hard flat medium-length coat with dense undercoat and facial furnishings, solid brown / dead-leaf / black colours with small white marks permitted, and withers height (males 60-68 cm, females 55-63 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-pudelpointer-nomenclature": {
+    id: "fci-pudelpointer-nomenclature",
+    name: "FCI - Pudelpointer Breed Nomenclature (No. 216)",
+    url: "https://www.fci.be/en/nomenclature/Pudelpointer-216.html",
+    type: "official_breed_standard",
+    publishedOn: "2004-12-06",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 7 Section 1.1 Continental Pointing Dogs ('Braque' type) classification with working trial, definitive acceptance date (1959-11-13), valid standard date (2004-11-09), English publication date (2004-12-06), and official multilingual name (Pudelpointer).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "vpp-pudelpointer-zuchtordnung": {
+    id: "vpp-pudelpointer-zuchtordnung",
+    name: "Verein Pudelpointer e.V. (VPP) - Zuchtordnung & Rassestandard",
+    url: "https://pudelpointer.de/wp-content/uploads/2023/12/vpp_zuchtordnung.pdf",
+    type: "breed_club",
+    publishedOn: "2022-10-07",
+    accessedOn: "2026-11-26",
+    note: "Official German parent breed club (Verein Pudelpointer e.V., founded 1897; VDH/JGHV/FCI member) breeding regulations effective 7 October 2022. Specifies conformation (nearly square dry muscular build; males 60-68 cm, females 55-63 cm; 4-6 cm hard flat coat at withers with dense undercoat and belly cover; beard, eyebrows, forelock; solid dark/medium brown, dead-leaf/dürrlaubfarben, or black), abbreviation 'PP', mandatory hunting tests (VJP, HZP/VGP), mandatory pre-breeding DNA registration, HD, ED, and OCD radiographic findings, and strict breeding exclusions for ED, OCD, epilepsy, chronic skin diseases, entropion/ectropion of any degree, hairless eyelids, dental abnormalities, and cryptorchidism.",
+    publisher: "Verein Pudelpointer e.V."
+  },
+  "akc-pudelpointer-breed-profile": {
+    id: "akc-pudelpointer-breed-profile",
+    name: "American Kennel Club - Pudelpointer Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/pudelpointer/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Foundation Stock Service) documenting calm/self-controlled versatile gun-dog character, height (22-26 inches), weight (45-70 pounds), life expectancy (14 years), moderate seasonal shedding, eager-to-please trainability, occasional barking, strong love of water, weekly grooming, nail/ear/dental care, and overall healthy breed profile.",
+    publisher: "American Kennel Club"
+  },
+  "ckc-pudelpointer-profile": {
+    id: "ckc-pudelpointer-profile",
+    name: "Canadian Kennel Club (CKC) - Pudelpointer Breed Profile",
+    url: "https://www.ckc.ca/en/Choosing-a-Dog/Choosing-a-Breed/Sporting-Dogs/Pudelpointer",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Canadian Kennel Club (Sporting Dogs Group) breed profile documenting Sigismund Freiherr von Zedlitz und Neukirch's 1881 foundation litter (black Poodle 'Molly' x Pointer 'Tell' owned by future Emperor Friedrich III), height (males 24-27 in / 60-68 cm; females 22-25 in / 55-63 cm), medium-long dense hard coat with woolly undercoat, eyebrows and whiskered muzzle, dark liver / autumn-leaves / black colours, weekly brushing, and hand-stripping.",
+    publisher: "Canadian Kennel Club"
+  },
+  "skk-pudelpointer-profile": {
+    id: "skk-pudelpointer-profile",
+    name: "Svenska Kennelklubben (SKK) - Pudelpointer Rasprofil",
+    url: "https://www.skk.se/hundraser/pudelpointer/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Pudelpointer confirming German origin, height (60-68 cm males, 55-63 cm females), easy-care weather-and-injury-protective harsh double coat, calm balanced temperament with strong hunting drive requiring abundant exercise and hunting-ground access (unsuitable solely as a companion pet), and note that very small numbers in Sweden prevent statistical national health assessment.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-pudelpointer-profile": {
+    id: "scc-pudelpointer-profile",
+    name: "Société Centrale Canine (SCC) - Pudelpointer",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/pudelpointer",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French Kennel Club (SCC) breed profile confirming height (60-68 cm males, 55-63 cm females), weight explicitly unspecified (NP), Poodle-and-Pointer foundation without other pointing breeds, calm balanced fearless temperament, and unsuitability for city living.",
+    publisher: "Société Centrale Canine"
+  },
+  "navhda-bodo-winterhelt-2018": {
+    id: "navhda-bodo-winterhelt-2018",
+    name: "NAVHDA - Sigbot 'Bodo' Winterhelt Tribute (Versatile Hunting Dog, July 2018)",
+    url: "https://www.navhda.org/wp-content/uploads/2019/01/VHD-2018-07-July-WEB.pdf",
+    type: "other",
+    publishedOn: "2018-07-01",
+    accessedOn: "2026-11-26",
+    note: "Official North American Versatile Hunting Dog Association (NAVHDA) biographical tribute (July 2018) documenting Sigbot 'Bodo' Winterhelt's 1956 introduction of North America's first Pudelpointer ('Cati v. Waldhof') and his co-founding role in establishing North American versatile hunting dog testing.",
+    publisher: "North American Versatile Hunting Dog Association"
+  },
+  "wikimedia-pudelpointer-brown1-canarian": {
+    id: "wikimedia-pudelpointer-brown1-canarian",
+    name: "Wikimedia Commons - File:Pudelpointer-brown1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Pudelpointer-brown1.jpg",
+    type: "other",
+    publishedOn: "2023-04-23",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1547 x 1437 px) of an adult brown/liver Pudelpointer by Canarian (EXIF capture date 2023-04-22 on Canon EOS 1100D, uploaded 2023-04-23). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-pudelpointer-2-sciencia58": {
+    id: "wikimedia-pudelpointer-2-sciencia58",
+    name: "Wikimedia Commons - File:Pudelpointer 2.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Pudelpointer_2.jpg",
+    type: "other",
+    publishedOn: "2021-03-17",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (3523 x 3312 px) of an adult Pudelpointer outdoors by Sciencia58 (inception date 2020-11-16, uploaded 2021-03-17). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "belgian-shepherd-gastric-carcinoma-study-2021": {
+    id: "belgian-shepherd-gastric-carcinoma-study-2021",
+    name: "Gastric mucosal pathology in Belgian Shepherd dogs with and without clinical signs of gastric disease (Acta Vet Scand 2021)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/33563310/",
+    type: "scientific",
+    publishedOn: "2021-02-09",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study (Candido et al., Acta Vet Scand 2021 Feb 9;63(1):7, PMID 33563310, DOI 10.1186/s13028-021-00570-6) documenting breed predisposition to gastric carcinoma in Belgian Shepherd Tervuren and Groenendael varieties and recommending timely endoscopy for persistent vomiting.",
+    publisher: "Acta Veterinaria Scandinavica / PubMed"
+  },
+  "fci-miniature-pinscher-official-standard": {
+    id: "fci-miniature-pinscher-official-standard",
+    name: "FCI - Miniature Pinscher (Zwergpinscher) Official Breed Standard No. 185",
+    url: "https://www.fci.be/Nomenclature/Standards/185g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2007-04-18",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 185 (valid standard dated 2007-03-06, English publication dated 2007-04-18). Covers German origin, 1925 Stud Book (1,300 entries), Group 2 Section 1.1 Pinscher classification without working trial, square proportions, head length equal to half topline, flat wrinkle-free forehead, 42-tooth scissor bite, tight black lips, prick or high-set V-shaped drop ears, dry dewlap-free neck, 50° shoulder layback (95-100° shoulder-upper arm angle), natural sabre/sickle tail, cat feet, short dense smooth glossy coat, self-coloured deer-red and black-and-tan coloration, withers height (dogs and bitches 25-30 cm), and weight (dogs and bitches 4-6 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-miniature-pinscher-nomenclature": {
+    id: "fci-miniature-pinscher-nomenclature",
+    name: "FCI - Zwergpinscher (Miniature Pinscher) Breed Nomenclature (No. 185)",
+    url: "https://www.fci.be/en/nomenclature/ZWERGPINSCHER-185.html",
+    type: "official_breed_standard",
+    publishedOn: "2007-04-18",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 2 Section 1.1 Pinscher classification without working trial, standard publication date (2007-04-18), two FCI colour groups (self-coloured deer red to dark red-brown, and black and tan), and official multilingual names (Zwergpinscher, Miniature Pinscher, Pinscher Nain).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "rkc-miniature-pinscher-breed-standard": {
+    id: "rkc-miniature-pinscher-breed-standard",
+    name: "The Royal Kennel Club - Miniature Pinscher Breed Standard",
+    url: "https://www.royalkennelclub.com/breed-standards/toy/miniature-pinscher/",
+    type: "official_breed_standard",
+    publishedOn: "2025-08-01",
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club breed standard (Toy Group, updated August 1, 2025) confirming fearless animated self-possessed temperament, precise hackney gait, complete scissor bite, cat-like feet, smooth hard lustrous coat, accepted UK colours (black, blue, or chocolate with tan markings, plus solid red), and height at withers (25-30 cm / 10-12 in).",
+    publisher: "The Royal Kennel Club"
+  },
+  "rkc-miniature-pinscher-breed-profile": {
+    id: "rkc-miniature-pinscher-breed-profile",
+    name: "The Royal Kennel Club - Miniature Pinscher Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/toy/miniature-pinscher/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club Breeds A to Z profile confirming 1895 first German breed club, 1950s UK arrival, USA/UK hackney gait development differing from German standard, flat/apartment and small/medium garden suitability, up to 30 minutes daily baseline exercise, weekly grooming, Sheds Yes, lifespan over 12 years, Breed Watch Category 1 status, and Best Practice Eye Scheme testing (including litter screening).",
+    publisher: "The Royal Kennel Club"
+  },
+  "akc-miniature-pinscher-breed-profile": {
+    id: "akc-miniature-pinscher-breed-profile",
+    name: "American Kennel Club - Miniature Pinscher Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/miniature-pinscher/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Toy Group) documenting 'King of Toys' nickname, 1929 Miniature Pinscher Club of America founding, US height (10-12.5 inches), US weight (8-10 pounds), life expectancy (12-16 years), and breed health concerns including patellar luxation, cervical (dry) disc disease, Legg-Calvé-Perthes disease, and epilepsy.",
+    publisher: "American Kennel Club"
+  },
+  "akc-miniature-pinscher-history-2025": {
+    id: "akc-miniature-pinscher-history-2025",
+    name: "American Kennel Club - Miniature Pinscher History: From Vermin Catcher to the 'King of Toys' (2025)",
+    url: "https://www.akc.org/expert-advice/dog-breeds/miniature-pinscher-history/",
+    type: "kennel_club",
+    publishedOn: "2025-04-17",
+    accessedOn: "2026-11-26",
+    note: "Published AKC historical article (April 17, 2025) documenting the Miniature Pinscher's barnyard vermin-catching heritage, high-stepping hackney gait, 'King of Toys' status, and 1929 Miniature Pinscher Club of America organization.",
+    publisher: "American Kennel Club"
+  },
+  "skk-dvargpinscher-profile": {
+    id: "skk-dvargpinscher-profile",
+    name: "Svenska Kennelklubben (SKK) - Dvärgpinscher Rasprofil",
+    url: "https://www.skk.se/hundraser/dvargpinscher/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Dvärgpinscher confirming German origin (1925 Stud Book with 1,300 entries), height (25-30 cm), weight (4-6 kg), easy-care short smooth coat, cheerful active temperament (enjoys tracking and burrowing under blankets), strong personal integrity, need for friendly firm early boundaries and alone-time training, and health status noting eye diseases and patellar luxation occur.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-pinscher-nain-profile": {
+    id: "scc-pinscher-nain-profile",
+    name: "Société Centrale Canine (SCC) - Pinscher nain",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/pinscher-nain",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French Kennel Club (SCC) breed profile for Pinscher nain confirming height (25-30 cm), weight (4-6 kg), historic Bavaria and Württemberg coach-house rat-hunting heritage, non-submissive character requiring calm firmness without brutality, easy apartment adaptation, and strict on-leash city walking advice.",
+    publisher: "Société Centrale Canine"
+  },
+  "pubmed-penngen-2020-minpin-mps6-arsb": {
+    id: "pubmed-penngen-2020-minpin-mps6-arsb",
+    name: "ARSB gene variants causing Mucopolysaccharidosis VI in Miniature Pinscher and Miniature Schnauzer dogs (Animal Genetics 2020)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/32985704/",
+    type: "scientific",
+    publishedOn: "2020-09-28",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed PennGen (University of Pennsylvania) study (Anim Genet 2020 Dec;51(6):982-986, Epub 2020-09-28, PMID 32985704, PMC8008615) identifying an autosomal-recessive exon 5 missense variant in ARSB (NM_001048133.1:c.910G>A; p.Gly304Arg) causing arylsulfatase B deficiency / Mucopolysaccharidosis VI in Miniature Pinschers.",
+    publisher: "Animal Genetics / PubMed"
+  },
+  "pmc-brons-2013-minpin-slc7a9-cystinuria": {
+    id: "pmc-brons-2013-minpin-slc7a9-cystinuria",
+    name: "SLC3A1 and SLC7A9 Mutations in Autosomal Recessive or Autosomal Dominant Canine Cystinuria: A New Classification System (JVIM 2013)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3946761/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study (J Vet Intern Med, PMC3946761) identifying an exon 9 missense variant in SLC7A9 (c.964G>A; p.Gly322Arg) associated with autosomal-dominant cystinuria and urinary cystine stone formation in a 4-generation European Miniature Pinscher family.",
+    publisher: "Journal of Veterinary Internal Medicine / National Library of Medicine (PMC)"
+  },
+  "pmc-mcmillan-2024-uk-dog-longevity": {
+    id: "pmc-mcmillan-2024-uk-dog-longevity",
+    name: "Longevity of companion dog breeds: those at risk from early death (Scientific Reports 2024)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10834484/",
+    type: "scientific",
+    publishedOn: "2024-02-01",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed UK survival analysis by McMillan, Bielby, Williams, Upjohn, Casey, and Christley (Sci Rep 2024 Feb 1;14(1), PMC10834484) reporting a median life expectancy of 13.7 years for Miniature Pinschers compared with 12.7 years for purebred dogs overall and 12.0 years for crossbreeds.",
+    publisher: "Scientific Reports / National Library of Medicine (PMC)"
+  },
+  "wikimedia-zwergpinscher-denzo-kpt-vernunft": {
+    id: "wikimedia-zwergpinscher-denzo-kpt-vernunft",
+    name: "Wikimedia Commons - File:Zwergpinscher.Denzo-vom-Reichsgraf-zu-Herrenheim 1500X1500.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Zwergpinscher.Denzo-vom-Reichsgraf-zu-Herrenheim_1500X1500.jpg",
+    type: "other",
+    publishedOn: "2006-07-14",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1500 x 1500 px) of an adult black-and-tan male Miniature Pinscher ('Denzo vom Reichsgraf zu Herrenheim', 4.1 kg, natural ears and tail) by Kpt vernunft (uploaded 2006-07-14). Licensed under CC BY-SA 3.0 Unported (and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-miniature-pinscher-sebastian-wallin": {
+    id: "wikimedia-miniature-pinscher-sebastian-wallin",
+    name: "Wikimedia Commons - File:Miniature pinscher.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Miniature_pinscher.jpg",
+    type: "other",
+    publishedOn: "2009-03-31",
+    accessedOn: "2026-11-26",
+    note: "Photograph (800 x 532 px) of a Miniature Pinscher with natural drop ears by Sebastian Wallin / Sebwal (captured 2007-02-18, uploaded 2009-03-31). Licensed under CC BY 3.0 Unported (and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "ofa-cddy-ivdd": {
+    id: "ofa-cddy-ivdd",
+    name: "Orthopedic Foundation for Animals - Chondrodystrophy with Intervertebral Disc Disease (CDDY/IVDD)",
+    url: "https://ofa.org/chondrodystrophy-with-intervertebral-disc-disease-cddy-ivdd/",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "OFA genetic disease overview documenting the CFA12 FGF4 retrogene (12-FGF4R) responsible for chondrodystrophy and intervertebral disc disease (IVDD) in affected breeds including the Pekingese, citing Brown et al. (2017) and Batcher et al. (2019).",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "pmc-vetcompass-corneal-ulceration-2017": {
+    id: "pmc-vetcompass-corneal-ulceration-2017",
+    name: "Corneal ulcerative disease in dogs under primary veterinary care in England (VetCompass)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5471714/",
+    type: "scientific",
+    publishedOn: "2017-06-15",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed VetCompass primary-care veterinary study documenting elevated predisposition to corneal ulcerative disease in brachycephalic breeds including the Pekingese.",
+    publisher: "PubMed Central (Canine Genetics and Epidemiology)"
+  },
+  "fci-ariege-pointer-official-standard": {
+    id: "fci-ariege-pointer-official-standard",
+    name: "FCI - Braque de l'Ariège (Ariege Pointing Dog) Official Breed Standard No. 177",
+    url: "https://www.fci.be/Nomenclature/Standards/177g07-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2023-09-15",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 177 (valid standard dated 2023-08-10, English publication dated 2023-09-15). Covers French origin (descended from old French Braques, World Wars decline, 1990 breeder revival), Group 7 Section 1.1 Continental Pointing Dogs ('Braque' type) classification with working trial, stable and sociable temperament with humans and other dogs, braccoid lean muscular build, divergent cranial axes, orange-to-pale-brown nose (never black), fine non-droopy lips, scissor bite (pincer and max 2 PM1 or 1 PM2/PM3 tolerated; >1 mm gap disqualified), amber/brown eyes, fine long curled-in drop ears at eye level, slight neck dewlap, horizontal tail (6/10 docked or natural long), short thick glossy white coat with pale-to-vivid orangy fawn or light brown patches/ticking (black spots disqualified), and withers height (males 58-65 cm, preferred 61 cm; females 54-63 cm, preferred 59 cm; +/- 2 cm tolerance). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-ariege-pointer-nomenclature": {
+    id: "fci-ariege-pointer-nomenclature",
+    name: "FCI - Braque de l'Ariège (Ariege Pointing Dog) Breed Nomenclature (No. 177)",
+    url: "https://www.fci.be/en/nomenclature/ARIEGE-POINTING-DOG-177.html",
+    type: "official_breed_standard",
+    publishedOn: "2023-09-15",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 7 Section 1.1 Continental Pointing Dogs ('Braque' type) classification with working trial, definitive acceptance date (1955-06-28), valid standard date (2023-08-10), English publication date (2023-09-15), and official multilingual names (Braque de l'Ariège, Ariege Pointing Dog, Ariège-Vorstehhund, Braco del Ariège).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "scc-braque-de-l-ariege-profile": {
+    id: "scc-braque-de-l-ariege-profile",
+    name: "Société Centrale Canine (SCC) - Braque de l'Ariège",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/braque-de-l-ariege",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official country-of-origin French Kennel Club (SCC) breed profile confirming 19th-century crosses of old Braque Français with white-and-orange southern pointers for lightness and liveliness, Ariège hunters' preservation, 1990 rescue effort, short glossy ticked white-and-orange/brown coat, and weight (25 to 30 kg).",
+    publisher: "Société Centrale Canine"
+  },
+  "scc-braque-de-l-ariege-dossier": {
+    id: "scc-braque-de-l-ariege-dossier",
+    name: "Société Centrale Canine / Union Mondiale des Braques de Race Française - Le Braque de l'Ariège",
+    url: "https://www.centrale-canine.fr/Union-Mondiale-des-Braques-de-Race-Francaise/articles/le-braque-de-lariege",
+    type: "kennel_club",
+    publishedOn: "2020-02-16",
+    accessedOn: "2026-11-26",
+    note: "Official SCC / Union Mondiale des Braques de Race Française historical and working dossier (published 2020-02-16, updated 2020-09-24) documenting the 1964–1990 LOF registration hiatus, the 1990 Toulouse revival meeting (MM. Desmolles, Maestripieri, Nau, Bartolozzi, Abadie, and Séguéla), the first two Initial-Title LOF puppies since 1964, the 1990 founding of the Club du Braque de l'Ariège, the 1991 SCC breeding plan, specialization in partridge and quail hunting, and daily exercise and firm education requirements.",
+    publisher: "Société Centrale Canine"
+  },
+  "scc-club-du-braque-de-l-ariege": {
+    id: "scc-club-du-braque-de-l-ariege",
+    name: "Club du Braque de l'Ariège (SCC) - Club Officiel de Race",
+    url: "https://www.centrale-canine.fr/club-du-braque-de-lariege",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French parent breed club portal (Club du Braque de l'Ariège, affiliated with the Société Centrale Canine) overseeing breed preservation, litters, field trials, and breeding standards in France.",
+    publisher: "Club du Braque de l'Ariège"
+  },
+  "wikimedia-ariegepointerbraque1-canarian": {
+    id: "wikimedia-ariegepointerbraque1-canarian",
+    name: "Wikimedia Commons - File:Ariegepointerbraque1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Ariegepointerbraque1.jpg",
+    type: "other",
+    publishedOn: "2023-08-25",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (2395 x 2134 px) of an adult Ariège Pointer outdoors by Canarian (EXIF capture date 2023-08-25 on Canon EOS 1100D, uploaded 2023-08-25). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-ariege-canarian": {
+    id: "wikimedia-ariege-canarian",
+    name: "Wikimedia Commons - File:Ariege.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Ariege.jpg",
+    type: "other",
+    publishedOn: "2020-01-27",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1316 x 1206 px) of an adult orange-and-white male Ariège Pointer outdoors by Canarian (EXIF capture date 2020-01-25 on Sony DSLR-A350, uploaded 2020-01-27). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
 });

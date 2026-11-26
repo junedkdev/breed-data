@@ -191,11 +191,12 @@
 188:slovakian_rough-haired_pointer - CG
 189:thai_bangkaew_dog - CG
 190:shih_tzu - CG
+191:perro_de_presa_canario - CG
+192:belgian_shepherd_dog_(tervuren) - CG
+193:pekingese - CG
 
-191:perro_de_presa_canario - C
-192:belgian_shepherd_dog_(tervuren) - C
-193:pekingese - C
-194:affenpinscher - C
+194:affenpinscher - CR
+
 195:dachshund - C
 196:standard_schnauzer - C
 197:boston_terrier - C
@@ -267,12 +268,12 @@
 263:field_spaniel - C
 264:pumi - C
 265:rat_terrier - C
+266:pudelpointer - C
+267:miniature_pinscher - C
+268:ariege_pointer - C
 
-266:pudelpointer - R
+269:munsterlander,_small - R
 
-267:miniature_pinscher
-268:ariege_pointer
-269:munsterlander,_small
 270:american_foxhound
 271:chesapeake_bay_retriever
 272:dutch_shepherd_dog

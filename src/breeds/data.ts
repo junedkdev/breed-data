@@ -270,6 +270,9 @@ import { fila_brasileiro } from "./fila_brasileiro";
 import { field_spaniel } from "./field_spaniel";
 import { pumi } from "./pumi";
 import { rat_terrier } from "./rat_terrier";
+import { pudelpointer } from "./pudelpointer";
+import { miniature_pinscher } from "./miniature_pinscher";
+import { ariege_pointer } from "./ariege_pointer";
 
 
 export const breedData: readonly Breed[] = [
@@ -539,4 +542,7 @@ export const breedData: readonly Breed[] = [
   field_spaniel,
   pumi,
   rat_terrier,
+  pudelpointer,
+  miniature_pinscher,
+  ariege_pointer,
 ];
