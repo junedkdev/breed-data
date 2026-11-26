@@ -260,6 +260,10 @@ import { carolina_dog } from "./carolina_dog";
 import { kishu_ken } from "./kishu_ken";
 import { leonberger } from "./leonberger";
 import { braque_francais_pyrenees } from "./braque_francais_pyrenees";
+import { poodle } from "./poodle";
+import { karelian_bear_dog } from "./karelian_bear_dog";
+import { lapponian_herder } from "./lapponian_herder";
+import { australian_kelpie } from "./australian_kelpie";
 
 
 export const breedData: readonly Breed[] = [
@@ -519,4 +523,8 @@ export const breedData: readonly Breed[] = [
   kishu_ken,
   leonberger,
   braque_francais_pyrenees,
+  poodle,
+  karelian_bear_dog,
+  lapponian_herder,
+  australian_kelpie,
 ];

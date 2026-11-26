@@ -11,19 +11,19 @@ export const australian_cattle_dog: Breed = {
     "Queensland Heeler",
     "Hall's Heeler",
     "Australian Heeler",
+    "Heeler",
     "ACD",
     "Cattle Dog",
     "Bouvier Australien",
-    "Australischer Treibhund"
+    "Australischer Treibhund",
+    "Boyero Australiano"
   ],
 
-  group:
-    "Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 2 — Cattledogs (without working trial; also classified in the Herding group)",
+  group: "Cattle-driving herding dogs (without working trial)",
 
   origin: {
     country: "Australia",
-    region:
-      "New South Wales and Queensland, eastern Australia"
+    region: "New South Wales and Queensland, eastern Australia"
   },
 
   images: [
@@ -33,7 +33,7 @@ export const australian_cattle_dog: Breed = {
         "https://commons.wikimedia.org/wiki/File:Australian_Cattle_Dog_Side_View_Looking_At_Camera.jpg",
       title: "Australian Cattle Dog Side View Looking At Camera.jpg",
       description:
-        "An adult blue-mottled Australian Cattle Dog standing in side profile outdoors.",
+        "An adult blue-mottled Australian Cattle Dog standing in side profile outdoors looking toward the camera.",
       creator: "Wonderchook",
       uploader: "Wonderchook",
       capturedOn: "2022-06-21",
@@ -44,7 +44,7 @@ export const australian_cattle_dog: Breed = {
       attribution:
         "Photo by Wonderchook, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Australian_Cattle_Dog_Side_View_Looking_At_Camera.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-26"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Australian_Cattle_Dog.jpg",
@@ -52,7 +52,7 @@ export const australian_cattle_dog: Breed = {
         "https://commons.wikimedia.org/wiki/File:Australian_Cattle_Dog.jpg",
       title: "Australian Cattle Dog.jpg",
       description:
-        "An Australian Cattle Dog resting outdoors.",
+        "An Australian Cattle Dog cooling off outdoors in shallow mud.",
       creator: "Jasperfriendlydog",
       uploader: "Million Moments",
       capturedOn: "2005-07-22",
@@ -63,28 +63,28 @@ export const australian_cattle_dog: Breed = {
       attribution:
         "Photo by Jasperfriendlydog, Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:Australian_Cattle_Dog.jpg.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A compact, muscular, and tireless Australian herding dog engineered to drive semi-wild cattle across vast outback distances, renowned for its speckled blue or red weather-resistant coat, upright prick ears, razor-sharp intelligence, and fiercely loyal devotion.",
+      "A compact, hard-muscled Australian cattle-driving dog built for long-distance outback endurance, known for its rain-repelling blue or red speckled double coat, upright prick ears, sharp problem-solving mind, and intense loyalty.",
 
     description:
-      "The Australian Cattle Dog is a sturdy, compact, and symmetrically built medium-sized working dog combining immense muscular power, agility, and endurance in a functional silhouette slightly longer than tall. Developed in nineteenth-century Australia to move unruly cattle across rugged bushland and scorching plains by nipping quietly at their heels and ducking swiftly beneath kicks, the dog exudes tireless stamina and fearless determination. Its smooth, rain-resisting double coat consists of a short, dense undercoat beneath hard, straight outer guard hairs, appearing either in blue, blue-mottled, or blue-speckled patterns with tan points, or in an even red speckle throughout. The broad skull flattens to a slight but definite stop, crowned by medium-sized, wide-set pointed prick ears and dark brown oval eyes expressing alert, watchful intelligence. In domestic life, it forms an intense, devoted bond with its primary handler and family while remaining naturally cautious and protective around unfamiliar strangers.",
+      "Shaped for arduous stock work across open ranges and tight yards, the Australian Cattle Dog packs dense muscle, agility, and staying power into a balanced frame slightly longer than it is tall. Its smooth, odor-free double coat pairs a close, dense undercoat with straight, hard outer guard hairs that shed rain, appearing in blue, blue-mottled, or blue-speckled patterns with tan markings, or in an even red speckle. A broad skull narrows cleanly to a strong, deep muzzle beneath wide-set, thick pointed prick ears, while dark brown oval eyes carry a keen, watchful look around strangers. At home, the breed bonds closely with its people and thrives when given structured daily work, sport, or vigorous exercise.",
 
     history:
-      "During the early nineteenth century, European settlers expanding cattle stations across New South Wales and Queensland discovered that traditional British herding dogs lacked the stamina, heat tolerance, and quiet tenacity needed to drive wild, horned cattle over hundreds of miles of rugged Australian terrain. In the 1830s and 1840s, New South Wales pastoralist Thomas Hall crossed smooth-coated blue merle Highland Collies imported from Scotland with native Australian Dingoes, producing silent, hard-working heelers known as Hall's Heelers. Subsequent Australian breeders—notably Jack and Harry Bagust in Sydney—refined the lineage by introducing Dalmatian blood to instill affinity for horses and faithful guardianship, alongside black-and-tan Australian Kelpie lines to sharpen working intelligence. Author Robert Kaleski drafted the breed's first formal description in 1893, which received official approval in Australia in 1903. Today, the Australian Cattle Dog remains indispensable on Australian cattle stations and is celebrated worldwide as an elite canine athlete and devoted companion.",
+      "As cattle stations expanded across New South Wales and Queensland in the nineteenth century, settlers found that imported British herding dogs struggled with Australia's heat, vast distances, and semi-wild horned herds. In the 1830s and 1840s, pastoralist Thomas Hall crossed smooth blue-merle Scottish Highland Collies with native Australian Dingoes to create quiet, tireless cattle drivers known as Hall's Heelers. Later breeders in Sydney, including Jack and Harry Bagust, refined the type by introducing Dalmatian lines—contributing to the breed's affinity for horses and protective loyalty—and black-and-tan Australian Kelpie blood for sharper working focus. Robert Kaleski wrote down the earliest formal breed description in 1893, which gained approval in Australia in 1903. Today, the breed continues to work livestock while excelling worldwide in dog sports and active family homes.",
 
     originalPurpose:
-      "Controlling, driving, and moving semi-wild cattle silently across vast open ranges and confined stockyards in harsh Australian climates by nipping at their heels.",
+      "Controlling and driving semi-wild cattle quietly across vast Australian pastures and confined stockyards by nipping low at their heels while guarding the stockman, horse, and gear.",
 
     currentRoles: [
-      "Working cattle herder and ranch stock dog",
-      "Canine athlete in agility, obedience, rally, herding trials, dock diving, and disc dog competitions",
-      "Search-and-rescue, scent detection, and conservation detection dog",
-      "Devoted outdoor companion for highly active owners"
+      "Working cattle drover and ranch stock dog",
+      "Competitor in agility, obedience, rally, herding, tracking, scent work, and dock diving",
+      "Search-and-rescue and detection working partner",
+      "High-energy outdoor companion for active owners"
     ]
   },
 
@@ -104,14 +104,14 @@ export const australian_cattle_dog: Breed = {
     },
 
     weight: {
-      unit: "kg",
+      unit: "lb",
       male: {
-        min: 15,
-        max: 22
+        min: 35,
+        max: 50
       },
       female: {
-        min: 15,
-        max: 22
+        min: 35,
+        max: 50
       }
     },
 
@@ -121,50 +121,48 @@ export const australian_cattle_dog: Breed = {
     },
 
     coatType:
-      "Smooth, weather-resistant double coat with a short, dense undercoat and a close, straight, hard, flat-lying outer coat averaging 2.5 to 4 cm in length over the body; shorter on the head, front of legs, and feet, and slightly thicker along the neck and back of thighs.",
+      "Smooth, rain-resisting double coat with a short, dense undercoat and hard, straight, flat-lying outer hairs averaging 2.5 to 4 cm across the body; shorter on the head, ear interiors, front of legs, and feet, and thicker along the neck and rear thighs.",
 
     coatLength: "Short",
 
     coatColors: [
-      "Blue, blue-mottled, or blue-speckled with or without black, blue, or tan markings on the head and tan points on legs, chest, throat, and jaw",
-      "Red-speckled with even red speckling throughout including the undercoat, with or without darker red markings on the head"
+      "Blue, blue-mottled, or blue-speckled (with or without black, blue, or tan head markings and tan markings on legs, chest, throat, and jaws)",
+      "Red-speckled (even red speckling throughout including the undercoat, with or without darker red head markings)"
     ],
 
     sheddingLevel:
-      "Moderate to high; sheds moderately year-round and blows its dense undercoat heavily once or twice a year during seasonal weather shifts",
+      "Moderate to high; sheds lightly week to week and blows its dense undercoat heavily once or twice a year (and during seasonal cycles in intact females)",
 
     droolingLevel:
-      "Low; tight, clean lips prevent drooling",
+      "Low; tight, clean lips produce minimal drool",
 
     distinctiveFeatures: [
-      "Sturdy, compact, symmetrical working silhouette slightly longer than tall (10:9 body length-to-height ratio)",
-      "Height at the withers of 46 to 51 cm for males and 43 to 48 cm for females",
-      "Working weight of 15 to 22 kg in lean, muscular athletic condition",
-      "Puppies are born pure white (except for solid facial or body patches) due to Dalmatian ancestry, developing their blue or red ticking as they mature",
-      "Optional white star or stripe on the center of the forehead known traditionally as the 'Bentley Mark'",
-      "Smooth, rain-repelling double coat with hard outer hairs averaging 2.5 to 4 cm over the body",
-      "Broad skull slightly curved between the ears, flattening to a slight, definite stop, with muscular cheeks and a medium-length deep muzzle",
-      "Complete, regular scissor bite with strong jaws and sound teeth",
-      "Medium-sized, oval dark brown eyes expressing keen alertness and a characteristic watchful glint toward strangers",
-      "Moderate-sized, broad-based pointed prick ears set wide apart on the skull, thick and muscular, pricked firmly when alert",
-      "Deep, muscular chest with well-sprung ribs, level topline, and broad, strong loin",
-      "Moderately low-set tail reaching approximately to the hock, hanging in a slight curve at rest with a good brush and never carried past vertical",
-      "Straight, round-boned forelegs and muscular thighs with compact, round cat-like feet, deep hard pads, and short strong nails"
+      "Compact, symmetrical medium build slightly longer than tall in a 10:9 length-to-height proportion",
+      "Withers height of 46 to 51 cm for males and 43 to 48 cm for females",
+      "Athletic working weight typically 35 to 50 lb",
+      "Puppies are born white (aside from any solid head or body patches), with true blue or red speckling beginning to emerge around three weeks of age",
+      "Smooth, odor-free, rain-resistant double coat with body hair averaging 2.5 to 4 cm",
+      "Broad skull slightly curved between the ears, flattening to a slight, definite stop, with parallel skull and muzzle planes",
+      "Strong jaws with sound, evenly spaced teeth closing in a scissor bite",
+      "Medium-sized, dark brown oval eyes showing keen intelligence and a watchful glint around strangers",
+      "Wide-set, moderate, thick pointed prick ears that rise during puppyhood (up to six or seven months)",
+      "Deep, muscular chest, well-sprung ribs, level back, and broad, strong loin",
+      "Moderately low-set, well-brushed tail reaching roughly to the hock and never carried past vertical",
+      "Round-boned straight forelegs, muscular parallel hindquarters, round tight feet with deep hard pads, and supple single-tracking movement at speed"
     ]
   },
 
   temperament: {
     traits: [
-      "Intensely loyal, protective, and devoted to its primary handler and family",
-      "Alert, watchful, and naturally suspicious of unfamiliar strangers",
-      "Courageous, tireless, and determined with implicit devotion to duty",
-      "Exceptionally intelligent, quick-thinking, and eager for structured work",
-      "High-energy, athletic, and requiring vigorous daily physical and mental outlets",
-      "Independent problem-solver capable of making autonomous herding decisions",
-      "Strong instinct to control movement, which can manifest as heel-nipping toward running children or joggers if untrained",
-      "Can be assertive or territorial toward unfamiliar dogs, particularly of the same sex",
-      "Affectionate and steady with familiar, respectful children when raised together",
-      "Protective self-appointed guardian of its handler, household, and property"
+      "Intensely loyal and devoted to its primary handler and family",
+      "Alert, watchful, and naturally cautious around unfamiliar strangers",
+      "Courageous, tireless, and driven by a strong sense of duty",
+      "Highly intelligent, quick to learn, and capable of outsmarting passive handlers",
+      "Boundless physical energy and eagerness for structured work or sports",
+      "Independent decision-maker shaped for handling large, unpredictable herds",
+      "Strong herding impulse that can lead to heel-nipping at running feet if not guided early",
+      "Can be assertive or selective with unfamiliar dogs, though cooperative when raised together",
+      "No inherent temperament difference between blue and red coat varieties"
     ],
 
     scores: {
@@ -183,7 +181,7 @@ export const australian_cattle_dog: Breed = {
   care: {
     exercise: {
       level:
-        "Very high; an endurance-bred working cattle dog requiring substantial daily vigorous physical exercise and demanding mental stimulation",
+        "Very high; an endurance-built working dog that needs far more than brief walks, thriving on daily vigorous runs, structured tasks, and mental challenges",
 
       minutesPerDay: {
         min: 90,
@@ -191,11 +189,11 @@ export const australian_cattle_dog: Breed = {
       },
 
       activities: [
-        "Daily long trail runs, brisk hikes, and high-energy aerobic exercise",
-        "Canine sports including agility, herding trials, obedience, rally, dock diving, and disc dog",
-        "Structured fetch, frisbee retrieving, and ball-herding games (Treibball)",
-        "Nosework scent searches, tracking, and complex cognitive food puzzles",
-        "Canicross, bikejoring, or endurance trekking alongside an active owner"
+        "Daily runs, brisk trail hikes, and structured aerobic conditioning",
+        "Dog sports including agility, obedience, rally, herding, tracking, scent work, and dock diving",
+        "Structured retrieve, disc games, and ball-herding exercises",
+        "Scent searches and puzzle feeders to channel sharp problem-solving energy",
+        "Ranch stock work or active outdoor trekking with its handler"
       ]
     },
 
@@ -203,35 +201,33 @@ export const australian_cattle_dog: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once weekly with a firm bristle brush or rubber hound mitt to remove loose hair and distribute natural skin oils; increase to daily brushing with an undercoat rake during seasonal coat blows.",
+        "Give a quick weekly brushing with a short-bristle brush; during the twice-yearly undercoat shed, brush thoroughly every few days with a bristle brush and comb to clear dead undercoat.",
 
       bathing:
-        "Bathe infrequently—every two to three months or when muddy after outdoor work—using a gentle canine shampoo so natural weather-resistant coat oils are preserved.",
+        "Bathe only occasionally when dirty, as the smooth double coat stays clean with little odor or oily residue.",
 
       notes: [
-        "The smooth double coat is virtually wash-and-wear and naturally sheds dried mud once dry.",
-        "Inspect the erect prick ears weekly for dust, wax accumulation, or debris, wiping gently with an approved veterinary cleanser.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain compact round foot posture.",
+        "Check the erect prick ears regularly for dust, foreign matter, or wax buildup.",
+        "Trim strong, fast-growing nails regularly to protect compact foot alignment.",
         "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "Check paw pads and skin for burrs, thorns, or abrasions after rugged bush or trail runs."
+        "Inspect paws and coat for thorns, burrs, or scrapes after rugged outdoor runs."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; extraordinarily intelligent and fast-learning, yet independent and strong-willed, requiring an experienced, confident, and consistent handler",
+        "Moderate; remarkably bright and responsive to structured training, yet independent and quick to invent mischief if bored or handled inconsistently",
 
       tips: [
-        "Use positive reinforcement, high-value food rewards, and structured toy play.",
-        "Begin impulse-control, recall, and 'leave it' training in early puppyhood to redirect natural heel-nipping herding instincts away from ankles and running children.",
-        "Keep training sessions varied, mentally challenging, and brisk (10 to 15 minutes) to prevent boredom.",
-        "Never use harsh physical punishment or repetitive drilling, which cause this clever working dog to become defiant or defensive.",
-        "Provide structured jobs, tricks, or canine sports daily; an under-stimulated Cattle Dog will invent destructive tasks.",
-        "Always exercise within a securely fenced yard of at least five to six feet in height or on a sturdy leash."
+        "Use positive reinforcement, valued food rewards, and interactive toy play.",
+        "Start obedience, impulse control, and calm-greeting habits early in puppyhood to redirect natural heel-nipping away from ankles and children.",
+        "Keep training ongoing through tricks, agility, obedience, or herding so the dog always has a clear job.",
+        "Avoid harsh physical corrections or repetitive drills, which can spark stubbornness or defensiveness.",
+        "Exercise off-leash only in a securely fenced space or under reliable recall away from traffic and livestock."
       ],
 
       socialization:
-        "Introduce the puppy early, continuously, and positively to diverse people, calm vaccinated dogs of varied sizes, urban noises, bicycles, joggers, and novel environments. Thorough early socialization is critical to temper natural stranger suspicion and same-sex dog assertiveness into poised composure in public."
+        "Provide steady, positive early exposure to unfamiliar people, well-mannered dogs, urban noises, cyclists, and varied settings so natural caution matures into calm, controlled public behavior."
     },
 
     livingEnvironment: {
@@ -239,85 +235,80 @@ export const australian_cattle_dog: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Warm and hot dry climates, where the reflective coat and Dingo heritage provide superior heat endurance",
+        "Warm and hot dry climates, where its rugged build and Australian heritage handle heat well with shade and water",
         "Temperate climates",
-        "Cool and wet climates, where the dense, rain-resisting double coat offers solid weather protection"
+        "Cool and wet climates, where the dense, rain-repelling double coat insulates effectively"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply attached to its handler and prone to boredom chewing, digging, or escaping if left isolated for long workdays without vigorous physical and mental outlets."
+        "Low to moderate; closely bonded to its people and prone to boredom-driven chewing or mischief if left isolated without ample daily exercise and mental work."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active medium-sized working breeds, adjusted for age, activity output, and metabolic rate.",
+      "High-quality complete and balanced commercial or veterinarian-approved home-prepared diet tailored to life stage (puppy, adult, or senior) and athletic output.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals daily until about six months old, transitioning to two daily meals on a balanced growth formula.",
       adult:
-        "Two measured meals daily to support sustained athletic energy and digestive comfort.",
+        "Two measured meals daily to fuel active endurance and support steady digestion.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower activity, lean muscle maintenance, and joint comfort."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, muscular body silhouette where the ribs are easily felt beneath the dense coat. Australian Cattle Dogs have hearty appetites and can gain excess weight if fed generously without matching working exercise. Divide daily food into two distinct meals and provide cool, clean drinking water continuously.",
+      "Measure every meal and monitor rib feel beneath the dense coat to keep the dog lean and hard-muscled. Active working or sport dogs need nutrient-dense fuel matched to their workload, while less active adults require careful portion control to avoid weight gain. Keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, athletic body condition; excess weight places unnecessary mechanical stress on hips, elbows, and stifles.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Increase caloric and protein density during active ranch work or intense canine sports training.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Provide clean drinking water at all times, especially during warm-weather exercise.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Maintain a lean, muscular silhouette to protect hips, elbows, and knees during high-speed turns.",
+      "Count training treats within the daily calorie allowance.",
+      "Avoid high-fat table scraps and unsafe human foods.",
+      "Transition between food formulas gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly based on working workload, daily exercise intensity, and ambient temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Daily calorie needs shift sharply between ranch work, dog sports, and quieter household routines. Consult a veterinarian if you have questions about diet or weight."
   },
 
   health: {
     overview:
-      "The Australian Cattle Dog is one of the hardiest, longest-lived medium-sized working breeds, with a typical life expectancy of 12 to 16 years. Because it was bred strictly for functional endurance without physical exaggerations, it enjoys exceptional constitutional toughness. Primary hereditary health priorities include BAER hearing testing for congenital sensorineural deafness, DNA screening for progressive rod-cone degeneration (prcd-PRA) and primary lens luxation (PLL), and orthopedic radiographic evaluations for hip and elbow dysplasia.",
+      "The Australian Cattle Dog is a hardy, long-lived working breed with a typical life expectancy of 12 to 16 years. Scientifically established hereditary concerns include progressive rod-cone degeneration (prcd-PRA, caused by an autosomal recessive PRCD gene mutation), primary lens luxation (PLL), and congenital sensorineural deafness associated with white piebald pigmentation—all of which can be screened via DNA or hearing tests—alongside hip and elbow dysplasia.",
 
     commonConditions: [
-      "Congenital sensorineural deafness — hereditary pigment-associated unilateral or bilateral deafness linked to the piebald/white coat gene inherited from Dalmatian ancestry, verifiable in puppies via Brainstem Auditory Evoked Response (BAER) testing",
-      "Progressive Retinal Atrophy (prcd-PRA / PRCD gene mutation) — an inherited autosomal recessive retinal degeneration causing gradual night blindness progressing to complete vision loss, completely preventable through DNA testing",
-      "Primary Lens Luxation (PLL / ADAMTS17 gene mutation) — an inherited weakening of the zonular fibers supporting the eye lens, causing painful lens displacement and secondary glaucoma, screenable via DNA testing",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Cranial cruciate ligament (CCL) rupture — traumatic or degenerative knee ligament injury seen in high-drive canine athletes, mitigated by maintaining lean muscle conditioning",
-      "Hereditary cataracts and rcd4-PRA — late-onset ocular conditions monitored through annual certified veterinary ophthalmologist examinations"
+      "Progressive rod-cone degeneration (prcd-PRA) — a scientifically established autosomal recessive retinal disease caused by a PRCD gene mutation that leads to progressive vision loss; preventable in litters through DNA testing",
+      "Primary lens luxation (PLL) — an inherited weakening of the fibers holding the eye's lens in place, risking painful lens dislocation and glaucoma, screenable via DNA test",
+      "Congenital sensorineural deafness — hereditary partial or complete hearing loss linked to piebald coat genetics, detectable early in puppies via Brainstem Auditory Evoked Response (BAER) testing",
+      "Hip dysplasia — developmental hip joint malformation that can lead to arthritis, monitored through pre-breeding radiographic screening",
+      "Elbow dysplasia — developmental elbow joint abnormalities that can cause forelimb lameness, screened radiographically prior to breeding",
+      "Athletic soft-tissue injuries — occasional knee ligament or paw injuries in high-drive working or sport dogs, reduced by lean conditioning and sensible warm-ups"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified BAER hearing test results, radiographic hip and elbow clearances, annual specialist eye exams, and DNA clearances for prcd-PRA and primary lens luxation (PLL).",
-      "Maintain a lean, muscular body condition throughout life to protect joints and ligaments during high-energy athletics.",
-      "Inspect the erect prick ears weekly for wax buildup or dust, wiping gently with an approved veterinary cleanser.",
-      "Brush teeth several times weekly and schedule periodic professional veterinary dental cleanings.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding parents have completed BAER hearing tests, DNA tests for prcd-PRA and PLL, radiographic hip and elbow evaluations, and specialist ophthalmologist eye exams.",
+      "Keep adult weight lean and muscular to reduce joint stress during running and jumping.",
+      "Check erect ears regularly for debris or wax and brush teeth consistently.",
+      "Maintain annual veterinary wellness visits, vaccinations, and year-round parasite control."
     ],
 
     recommendedScreenings: [
-      "Brainstem Auditory Evoked Response (BAER) hearing evaluation prior to breeding or puppy placement",
-      "DNA marker test for Progressive Rod-Cone Degeneration (prcd-PRA / PRCD gene)",
-      "DNA marker test for Primary Lens Luxation (PLL / ADAMTS17 gene)",
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
+      "Radiographic hip dysplasia evaluation prior to breeding",
       "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "Specialist veterinary ophthalmologist eye examination",
+      "Brainstem Auditory Evoked Response (BAER) hearing evaluation",
+      "DNA test for Primary Lens Luxation (PLL)",
+      "DNA test for Progressive Retinal Atrophy (prcd-PRA / PRCD gene)"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times weekly using canine enzymatic toothpaste and schedule routine veterinary dental checks to protect the strong scissor bite and gums.",
 
     earCare:
-      "Inspect the wide-set erect prick ears weekly for dust, wax accumulation, or irritation. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check the wide-set prick ears weekly for dust, foreign debris, or wax buildup, wiping gently with a veterinarian-approved ear cleanser when needed.",
 
     skinCare:
-      "Part the dense double coat weekly during brushing to inspect the skin for external parasites, burrs, or minor trail scratches. Preserve natural rain-resisting oils by avoiding unnecessary frequent bathing."
+      "Inspect the skin beneath the dense double coat during weekly brushing for ticks, burrs, or trail scrapes, avoiding frequent bathing that strips natural weather-resistant oils."
   },
 
   suitability: {
@@ -328,85 +319,86 @@ export const australian_cattle_dog: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Highly active outdoor individuals, runners, hikers, and ranchers who can provide 90 to 120 minutes of vigorous daily physical and mental activity",
-      "Experienced dog owners familiar with high-drive herding breeds and confident, positive leadership",
-      "Canine sports enthusiasts involved in agility, herding trials, obedience, dock diving, or disc dog",
-      "Homes with a securely fenced yard of at least five to six feet in height or rural acreage",
-      "Families with older, respectful children who understand structured boundaries around herding dogs"
+      "Very active runners, hikers, ranchers, and outdoor enthusiasts able to provide 90 to 120 minutes of vigorous daily exercise and mental work",
+      "Experienced handlers comfortable with an intelligent, independent herding dog",
+      "Dog-sport competitors interested in agility, obedience, herding, rally, tracking, or scent work",
+      "Homes with a spacious, securely fenced yard or rural property",
+      "Active families with older, respectful children who follow clear household rules"
     ],
 
     notIdealFor: [
-      "First-time dog owners or passive handlers unprepared for intense working energy, independence, and heel-nipping instincts",
-      "Sedentary individuals or households seeking a low-exercise indoor lap dog",
-      "Apartment or condominium dwellers without extensive daily athletic outlets",
-      "Households with young toddlers who run unpredictably and may trigger herding nipping behavior",
-      "Owners who leave a dog home alone in isolation for long workdays without mental stimulation"
+      "First-time dog owners or hands-off handlers unprepared for intense stamina and heel-nipping instincts",
+      "Sedentary households wanting a low-energy indoor companion",
+      "Small apartments without daily athletic outlets and structured training",
+      "Households with very young toddlers whose fast, unpredictable movement can trigger herding nips",
+      "Owners who leave a dog alone indoors all day without mental engagement"
     ]
   },
 
   funFacts: [
-    "All Australian Cattle Dog puppies are born pure white—save for solid facial or body patches—a genetic legacy of the Dalmatian bloodlines used in the breed's nineteenth-century development; their signature blue or red speckling gradually appears as they grow.",
-    "Many Australian Cattle Dogs display a distinct white star or stripe in the center of their forehead known as the 'Bentley Mark', named after Tom Bentley, an early Australian breeder whose legendary foundation stud dog carried that exact white forehead spot.",
-    "In 1939, an Australian Cattle Dog named Bluey—owned by Les Hall of Rochester, Victoria—set the official Guinness World Record as the longest-lived dog in history, living for an astonishing 29 years and 5 months while working cattle and sheep for nearly two decades.",
-    "Unlike herding breeds that rely on barking to move livestock, the Australian Cattle Dog was bred to work silently, creeping up behind stubborn cattle to deliver a quick, low nip at the heel before flattening instantly to avoid a retaliatory kick.",
-    "The breed's founding lineage traces back to 1840 when New South Wales cattleman Thomas Hall crossed blue merle Scottish Highland Collies with native Australian Dingoes to create 'Hall's Heelers' capable of surviving the harsh outback.",
-    "Because of their razor-sharp intelligence, agility, and devotion to a single handler, Australian Cattle Dogs are widely featured in global pop culture, inspiring characters from Mad Max's loyal companion 'Dog' to the animated family series 'Bluey'."
+    "Australian Cattle Dog puppies are born white—except for any solid head or body patches—with their signature blue mottling or red speckling starting to appear around three weeks of age.",
+    "Puppies start life with folded drop ears that stand upright gradually, sometimes taking up to six or seven months to perk fully.",
+    "Many individuals carry a small white star or streak on the forehead known as the Bentley Mark, linked in breed lore to an early Australian foundation stud owned by Tom Bentley.",
+    "A female Australian Cattle Dog named Bluey from Rochester, Victoria, lived 29 years and 5 months (1910–1939) while working cattle and sheep for nearly twenty years, remaining one of the oldest verified dogs on record.",
+    "When working cattle, the breed silently nips low at the weight-bearing hind hoof and immediately crouches flat so any retaliatory kick sails safely overhead.",
+    "Despite popular myths, blue and red Australian Cattle Dogs belong to the exact same breed and show no difference in temperament."
   ],
 
   faq: [
     {
-      question: "What is an Australian Cattle Dog?",
+      question: "What kind of dog is an Australian Cattle Dog?",
       answer:
-        "The Australian Cattle Dog (also known as the Blue Heeler or Red Heeler) is a medium-sized, compact, muscular herding breed developed in Australia to drive cattle across rugged terrain, renowned for its speckled double coat, upright prick ears, boundless stamina, and intense loyalty."
+        "Also called a Blue Heeler, Red Heeler, or Queensland Heeler, it is a medium-sized, compact, hard-muscled herding breed developed in Australia to drive cattle across rugged terrain, prized for its stamina, sharp intelligence, and fierce loyalty."
     },
     {
       question: "What is the difference between a Blue Heeler and a Red Heeler?",
       answer:
-        "They are the exact same breed—the Australian Cattle Dog—differing only in coat color: Blue Heelers have black hairs evenly interspersed through a white coat giving a blue-grey appearance with tan points, while Red Heelers have red hairs evenly speckled throughout."
+        "Only their coat color. Both are the exact same breed—the Australian Cattle Dog—with identical structure and temperament; blues carry black hairs mixed through white with tan markings, while reds are evenly red-speckled."
     },
     {
-      question: "How tall and heavy is an Australian Cattle Dog?",
+      question: "How tall and heavy does an Australian Cattle Dog get?",
       answer:
-        "Adult males stand 46 to 51 cm at the withers and adult females stand 43 to 48 cm, with both sexes typically weighing between 15 and 22 kg in lean, muscular working condition."
+        "Adult males stand 46 to 51 cm at the withers and females stand 43 to 48 cm, with adults typically weighing 35 to 50 lb in lean, muscular working condition."
     },
     {
-      question: "How long does an Australian Cattle Dog live?",
+      question: "How long do Australian Cattle Dogs live?",
       answer:
-        "The breed is famous for exceptional longevity, typically living 12 to 16 years with proper nutrition, regular exercise, and preventive veterinary care."
+        "They are known for strong longevity, typically living 12 to 16 years with lean conditioning, regular exercise, and routine veterinary care."
     },
     {
-      question: "Do Australian Cattle Dogs shed a lot, and how are they groomed?",
+      question: "How much grooming and shedding should I expect?",
       answer:
-        "Yes, they shed moderately year-round and blow their dense undercoat heavily once or twice a year. Weekly brushing with a bristle brush—and daily brushing with an undercoat rake during seasonal sheds—keeps their weather-resistant coat clean."
+        "Their smooth, odor-free double coat needs only a quick weekly brush and an occasional bath, though they blow their dense undercoat once or twice a year and need brushing every few days during shedding seasons."
     },
     {
       question: "Can an Australian Cattle Dog live in an apartment?",
       answer:
-        "Generally no. Due to their extremely high physical energy, working drive, and need for 90 to 120 minutes of daily exercise and mental challenges, they thrive best in a house with a securely fenced yard."
+        "Generally no. Their intense stamina, alertness, and need for a daily job and 90 to 120 minutes of vigorous activity fit much better in a house with a securely fenced yard."
     },
     {
-      question: "Are Australian Cattle Dogs good family pets and good with children?",
+      question: "Are Australian Cattle Dogs good with children?",
       answer:
-        "With active, experienced families, they are deeply loyal and affectionate; however, because they were bred to herd by nipping heels, they do best with older, respectful children and require early training to curb nipping at running feet."
+        "They can be loyal companions in active, experienced families with older, respectful children, but early training is essential to redirect natural heel-nipping instincts away from running feet."
     },
     {
       question: "Why are Australian Cattle Dog puppies born white?",
       answer:
-        "Puppies are born white (except for solid head or body patches) due to the piebald spotting gene inherited from Dalmatian crosses in the breed's history; their blue or red speckling develops over the first several weeks of life."
+        "White birth coloration (apart from solid head or body patches) comes from piebald spotting genetics inherited from Dalmatian crosses in the breed's history; their blue or red speckling begins showing at about three weeks old."
     },
     {
-      question: "How much exercise does an Australian Cattle Dog need each day?",
+      question: "How much daily exercise does an Australian Cattle Dog need?",
       answer:
-        "The breed requires 90 to 120 minutes of vigorous daily physical and mental activity, such as trail running, brisk hiking, fetch, herding, agility, or nosework."
+        "Plan on 90 to 120 minutes of vigorous physical and mental activity every day, such as running, hiking, herding, agility, obedience, or scent games."
     },
     {
-      question: "What health tests are recommended for breeding dogs?",
+      question: "What health screenings are recommended for breeding Australian Cattle Dogs?",
       answer:
-        "Recommended pre-breeding screenings include BAER hearing testing for congenital deafness, DNA tests for progressive retinal atrophy (prcd-PRA) and primary lens luxation (PLL), radiographic hip and elbow evaluations, and annual veterinary ophthalmologist eye exams."
+        "Core pre-breeding checks include hip and elbow radiographic evaluations, a specialist ophthalmologist eye exam, BAER hearing testing for congenital deafness, and DNA tests for prcd-PRA and primary lens luxation (PLL)."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-australian-cattle-dog-official-standard",
     "fci-australian-cattle-dog-nomenclature",
     "dogs-australia-australian-cattle-dog-standard",
@@ -415,16 +407,22 @@ export const australian_cattle_dog: Breed = {
     "ofa-australian-cattle-dog-chic-requirements",
     "australian-cattle-dog-prcd-pra-study-2006",
     "wikimedia-australian-cattle-dog-wonderchook",
-    "wikimedia-australian-cattle-dog-jasperfriendlydog"
+    "wikimedia-australian-cattle-dog-jasperfriendlydog",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Canis lupus familiaris (Domestic Dog) taxonomic record"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Domestic dog taxonomic name verified via NatureServe Explorer."
     },
 
     alternateNames: {
@@ -438,16 +436,21 @@ export const australian_cattle_dog: Breed = {
         {
           id: "fci-australian-cattle-dog-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: AUSTRALIAN CATTLE DOG (287), Bouvier Australien, Australischer Treibhund"
+          locator: "Official nomenclature (No. 287): AUSTRALIAN CATTLE DOG, BOUVIER AUSTRALIEN, AUSTRALISCHER TREIBHUND, BOYERO AUSTRALIANO"
         },
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "verified",
-          locator: "History: Blue Heeler, Red Heeler, Queensland Heeler, Hall's Heeler, ACD"
+          locator: "About the Breed & Did You Know: Blue Heeler, Red Heeler, Queensland Heeler, Australian Heeler, ACD"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: ACD, Blue Heeler, Red Heeler, Queensland Heeler, Heeler"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified across FCI Standard No. 287, FCI Nomenclature, Dogs Australia, and AKC."
+      verifiedOn: "2026-11-26",
+      note: "Verified across FCI Standard No. 287, FCI Nomenclature, AKC breed profile, and The Dog API."
     },
 
     group: {
@@ -456,22 +459,31 @@ export const australian_cattle_dog: Breed = {
         {
           id: "fci-australian-cattle-dog-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattle Dogs); Section 2 Cattledogs; without working trial"
+          locator: "FCI Classification: Group 1 Sheepdogs and Cattledogs (except Swiss Cattledogs); Section 2 Cattledogs; without working trial"
         },
         {
           id: "fci-australian-cattle-dog-nomenclature",
           role: "verified",
-          locator: "Group 1, Section 2 Cattledogs, without working trial"
+          locator: "Group 1, Section 2 Cattledogs (except Swiss Cattledogs), not subject to a working trial"
+        },
+        {
+          id: "dogs-australia-australian-cattle-dog-standard",
+          role: "verified",
+          locator: "Group 5 (Working Dogs)"
         },
         {
           id: "akc-australian-cattle-dog-breed-standard",
           role: "verified",
           locator: "Herding Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Herding"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-26",
+      note: "User-facing group label omits registry names per Rule 5."
     },
 
     origin: {
@@ -485,15 +497,20 @@ export const australian_cattle_dog: Breed = {
         {
           id: "fci-australian-cattle-dog-nomenclature",
           role: "verified",
-          locator: "Country of origin: Australia"
+          locator: "Country of origin: AUSTRALIA"
         },
         {
           id: "dogs-australia-australian-cattle-dog-standard",
           role: "verified",
-          locator: "Origin and historical development in New South Wales and Queensland, Australia"
+          locator: "Australian 19th-century droving origins"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Australia"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -508,17 +525,21 @@ export const australian_cattle_dog: Breed = {
         {
           id: "dogs-australia-australian-cattle-dog-standard",
           role: "verified",
-          locator: "History (Thomas Hall, Bagust brothers, Robert Kaleski 1893/1903), General Appearance, and Characteristics"
+          locator: "History, General Appearance, Characteristics, Temperament"
         },
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "verified",
           locator: "About the Breed, History, and Roles"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesized in original prose from FCI Standard No. 287, Dogs Australia, and AKC official records."
+      verifiedOn: "2026-11-26",
+      note: "Written in original prose grounded in FCI Standard No. 287, Dogs Australia, and AKC records."
     },
 
     physical: {
@@ -527,22 +548,26 @@ export const australian_cattle_dog: Breed = {
         {
           id: "fci-australian-cattle-dog-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
-        },
-        {
-          id: "dogs-australia-australian-cattle-dog-standard",
-          role: "verified",
-          locator: "General Appearance, Proportions (10:9), Head, Coat (2.5-4 cm), Colour, Size"
+          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR (Blue mottled and Red speckle), SIZE"
         },
         {
           id: "akc-australian-cattle-dog-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Coat, Color"
+          locator: "Body (10:9), Coat (2.5 to 4 cm), Color (Blue and Red Speckle), Gait, Tail"
+        },
+        {
+          id: "dogs-australia-australian-cattle-dog-standard",
+          role: "verified",
+          locator: "General Appearance, Head, Ears, Coat, Colour, white puppy birth coloration"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.coat_colors (broader unstandardized colour list excluded in favor of official blue and red patterns)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Compact 10:9 proportions, smooth weather-resistant double coat, blue-mottled and red-speckled colors, and distinctive features follow official standards."
+      verifiedOn: "2026-11-26",
+      note: "Coat colours follow FCI Standard No. 287, Dogs Australia, and AKC official standards (blue/blue-mottled/blue-speckled and red-speckled), excluding The Dog API's broad unstandardized colour list."
     },
 
     "physical.height": {
@@ -551,36 +576,44 @@ export const australian_cattle_dog: Breed = {
         {
           id: "fci-australian-cattle-dog-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at the withers: Males: 46 to 51 cms; Females: 43 to 48 cms."
+          locator: "SIZE AND WEIGHT: Males 46 to 51 cms; Females 43 to 48 cms"
         },
         {
           id: "dogs-australia-australian-cattle-dog-standard",
           role: "verified",
-          locator: "Size: Height at withers: Dogs 46-51 cms; Bitches 43-48 cms"
+          locator: "Height: Dogs 46-51 cms; Bitches 43-48 cms"
+        },
+        {
+          id: "akc-australian-cattle-dog-breed-standard",
+          role: "verified",
+          locator: "Size: Dogs 46 to 51 centimeters (approximately 18 to 20 inches); bitches 43 to 48 centimeters (approximately 17 to 19 inches)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height: male 46-51 cm, female 43-48 cm"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Preserved in published unit of centimetres (46–51 cm for males and 43–48 cm for females) stated first in the country-of-origin Dogs Australia standard and FCI Standard No. 287."
+      verifiedOn: "2026-11-26",
+      note: "Preserved in published centimetres (46-51 cm males, 43-48 cm females) stated first in FCI Standard No. 287, Dogs Australia, and the AKC Official Standard, matching The Dog API."
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "dogs-australia-australian-cattle-dog-standard",
-          role: "verified",
-          locator: "Working condition weight profile: approximately 15-22 kg"
-        },
-        {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "verified",
-          locator: "Weight: 35-50 pounds (approx. 15-22 kg)"
+          locator: "Weight: 35-50 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight: 16-23 kg"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FCI Standard No. 287 specifies height without fixing a numerical weight. The stored 15 to 22 kg for males and females represent canonical working ranges aligned with metric height units."
+      verifiedOn: "2026-11-26",
+      note: "FCI Standard No. 287, Dogs Australia, and the AKC Official Standard do not fix a numerical weight. Stored in published pounds (35-50 lb) directly from the AKC breed profile without unit conversion; The Dog API lists 16-23 kg."
     },
 
     "physical.lifespanYears": {
@@ -590,10 +623,15 @@ export const australian_cattle_dog: Breed = {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "verified",
           locator: "Life Expectancy: 12-16 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 12-16 years"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Supported by kennel club actuarial health profiles."
+      verifiedOn: "2026-11-26",
+      note: "Consistent across the AKC breed profile and The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -602,15 +640,15 @@ export const australian_cattle_dog: Breed = {
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5 to 4/5)"
+          locator: "Grooming: sheds undercoat twice a year"
         },
         {
-          id: "fci-australian-cattle-dog-official-standard",
+          id: "dogs-australia-australian-cattle-dog-standard",
           role: "verified",
-          locator: "COAT: Smooth double coat with short dense undercoat"
+          locator: "Maintenance: coat sheds once or twice a year, and bitches also shed during seasonal cycles"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -618,17 +656,17 @@ export const australian_cattle_dog: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-australian-cattle-dog-official-standard",
+          id: "akc-australian-cattle-dog-breed-standard",
           role: "verified",
-          locator: "Lips: Tight and clean"
+          locator: "Head and Skull: Lips are tight and clean"
         },
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: Drooling Level (low)"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: "Tight, clean lips prevent drooling."
     },
 
@@ -636,17 +674,27 @@ export const australian_cattle_dog: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-australian-cattle-dog-official-standard",
-          role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Always alert, extremely intelligent, watchful, courageous and trustworthy, with an implicit devotion to duty; naturally suspicious of strangers"
-        },
-        {
           id: "akc-australian-cattle-dog-breed-standard",
           role: "verified",
-          locator: "Temperament: Alert, curious, pleasant, loyal, protective"
+          locator: "Characteristics & Temperament: Always alert, extremely intelligent, watchful, courageous and trustworthy, with implicit devotion to duty; self-appointed guardian; naturally suspicious of strangers"
+        },
+        {
+          id: "fci-australian-cattle-dog-official-standard",
+          role: "verified",
+          locator: "BEHAVIOUR/TEMPERAMENT"
+        },
+        {
+          id: "akc-australian-cattle-dog-breed-profile",
+          role: "verified",
+          locator: "Did You Know: no difference in temperament between blue and red Australian Cattle Dogs"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament: Intelligent, alert, loyal, energetic, courageous"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -656,17 +704,16 @@ export const australian_cattle_dog: Breed = {
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics ratings"
         },
         {
           id: "dogs-australia-australian-cattle-dog-standard",
           role: "cited",
-          locator: "Characteristics and working temperament"
+          locator: "Working temperament and protective vigilance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented working cattle-dog temperament, high intelligence, and protective vigilance."
+      note: "Editorial 1-5 scores reflecting verified cattle-droving stamina, high trainability, and stranger wariness."
     },
 
     care: {
@@ -675,12 +722,11 @@ export const australian_cattle_dog: Breed = {
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming (weekly brush, occasional bath, seasonal shedding), Exercise (needs a job/daily runs), Training"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines high-drive working herding dog management with low-maintenance double-coat grooming protocols."
+      note: "Combines kennel club exercise, training, and low-maintenance coat guidance."
     },
 
     "care.exercise.level": {
@@ -689,15 +735,15 @@ export const australian_cattle_dog: Breed = {
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "verified",
-          locator: "Energy Level (5/5); Exercise Needs (5/5)"
+          locator: "Exercise: very active, high-energy dog needing a job, daily runs, or dog sports"
         },
         {
           id: "fci-australian-cattle-dog-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Cattle-droving dog built for stamina and agility"
+          locator: "GENERAL APPEARANCE: Great agility, strength, and endurance"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -711,8 +757,7 @@ export const australian_cattle_dog: Breed = {
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 90 to 120 minutes of daily activity reflects the intense physical and cognitive demands of a working cattle dog."
+      note: "Editorial estimate of 90 to 120 minutes daily for a healthy adult working cattle dog."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -721,12 +766,11 @@ export const australian_cattle_dog: Breed = {
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "cited",
-          locator: "Very high energy, working drive, and need for vigorous outdoor outlets"
+          locator: "Exercise & Training: very active high-energy dog needing a job and daily runs"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that intense physical stamina, herding drive, and alertness make apartment living generally unsuitable."
+      note: "Editorial assessment that intense stamina and working drive make apartment living generally unsuitable."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -735,10 +779,10 @@ export const australian_cattle_dog: Breed = {
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations (minimum five to six foot fence)"
+          locator: "Exercise: active outdoor living and fenced play space"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -746,17 +790,17 @@ export const australian_cattle_dog: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-australian-cattle-dog-official-standard",
+          id: "akc-australian-cattle-dog-breed-standard",
           role: "verified",
-          locator: "COAT: Smooth, rain-resisting double coat adapted to Australian extremes"
+          locator: "Coat: smooth, rain-resisting double coat"
         },
         {
-          id: "akc-australian-cattle-dog-breed-profile",
+          id: "dogs-australia-australian-cattle-dog-standard",
           role: "verified",
-          locator: "Weather adaptation: adaptable to warm, temperate, and cool climates"
+          locator: "Bred for harsh Australian climates"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -766,7 +810,7 @@ export const australian_cattle_dog: Breed = {
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; handler-focused working companion"
+          locator: "Training: bored, unoccupied dogs can become destructive"
         }
       ],
       verifiedOn: null,
@@ -779,12 +823,11 @@ export const australian_cattle_dog: Breed = {
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for active medium working breeds"
+          locator: "Nutrition: high-quality age-appropriate food matched to high athletic output"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium-sized working herding breeds."
+      note: "Standard nutritional guidance for active medium-sized working breeds."
     },
 
     "nutrition.feedingFrequency": {
@@ -793,7 +836,7 @@ export const australian_cattle_dog: Breed = {
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Life-stage nutrition guidance"
         }
       ],
       verifiedOn: null,
@@ -806,22 +849,21 @@ export const australian_cattle_dog: Breed = {
         {
           id: "australian-cattle-dog-prcd-pra-study-2006",
           role: "verified",
-          locator: "PRCD gene mutation causing progressive rod-cone degeneration (prcd-PRA) in Australian Cattle Dogs"
-        },
-        {
-          id: "ofa-australian-cattle-dog-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program requirements: Hip Evaluation, Elbow Evaluation, Ophthalmologist Evaluation, BAER Testing, PLL DNA Test, prcd-PRA DNA Test"
+          locator: "Zangerl et al. (Genomics 2006): PRCD gene mutation causing autosomal recessive prcd-PRA"
         },
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "verified",
-          locator: "Health overview: Longevity, deafness (BAER), eye disorders, and joint evaluations"
+          locator: "Recommended Health Tests: Hip, Elbow, Ophthalmologist, BAER Testing, PLL DNA Test, prcd-PRA DNA Test"
+        },
+        {
+          id: "ofa-australian-cattle-dog-chic-requirements",
+          role: "verified",
+          locator: "OFA CHIC health screening program for Australian Cattle Dog"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesizes peer-reviewed ocular genetics research with national health registry screening protocols."
+      verifiedOn: "2026-11-26",
+      note: "Synthesizes peer-reviewed PRCD genetics research with kennel club and national health registry protocols."
     },
 
     "health.commonConditions": {
@@ -830,17 +872,21 @@ export const australian_cattle_dog: Breed = {
         {
           id: "australian-cattle-dog-prcd-pra-study-2006",
           role: "verified",
-          locator: "Progressive rod-cone degeneration (prcd-PRA) pathology and PRCD genetics"
+          locator: "Progressive rod-cone degeneration (prcd-PRA) caused by PRCD gene mutation"
         },
         {
-          id: "ofa-australian-cattle-dog-chic-requirements",
+          id: "akc-australian-cattle-dog-breed-profile",
           role: "verified",
-          locator: "Congenital deafness (BAER), primary lens luxation (PLL), hip dysplasia, elbow dysplasia, and eye conditions"
+          locator: "Health: deafness (BAER), PRA, PLL, hip dysplasia, elbow dysplasia"
+        },
+        {
+          id: "dogs-australia-australian-cattle-dog-standard",
+          role: "verified",
+          locator: "Health: prcd-PRA, PLL, deafness (BAER), hip and elbow dysplasia"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-26",
+      note: "Distinguishes scientifically established genetic conditions and screened orthopedic disorders from general athletic injury risks."
     },
 
     "health.preventiveCare": {
@@ -849,74 +895,78 @@ export const australian_cattle_dog: Breed = {
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "cited",
-          locator: "Routine care, health testing verification, weight control, and wellness checks"
+          locator: "Health: regular ear checks, dental brushing, and breeder screening verification"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to active working cattle dogs."
+      note: "Standard preventive care tailored to active working cattle dogs."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-australian-cattle-dog-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests From the National Breed Club: Hip Evaluation, Elbow Evaluation, Ophthalmologist Evaluation, BAER Testing, Primary Lens Luxation (PLL) - DNA Test, Progressive Retinal Atrophy, PRCD (PRA-prcd, PRCD) - DNA Test"
+        },
+        {
           id: "ofa-australian-cattle-dog-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: BAER Hearing Evaluation, prcd-PRA DNA test, Primary Lens Luxation (PLL) DNA test, Radiographic Hip Dysplasia evaluation, Radiographic Elbow Dysplasia evaluation, Annual Ophthalmologist eye exam"
+          locator: "OFA CHIC screening panel for Australian Cattle Dog"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-26",
+      note: "Matches all six National Breed Club recommended evaluations."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-australian-cattle-dog-official-standard",
+          id: "akc-australian-cattle-dog-breed-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong jaws, sound teeth, scissor bite"
+          locator: "Mouth: sound, strong, evenly spaced teeth in scissor bite"
         },
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "cited",
-          locator: "Routine dental care"
+          locator: "Health: brush teeth regularly"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard home dental hygiene guidance."
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-australian-cattle-dog-official-standard",
+          id: "akc-australian-cattle-dog-breed-standard",
           role: "cited",
-          locator: "Ears: moderate size, pointed, set wide apart, pricked"
+          locator: "Ears: moderate size, broad base, pricked, fairly well furnished with hair inside"
         },
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Health: check ears regularly for foreign matter and wax"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for erect prick ears."
+      note: "Routine ear care for erect prick ears."
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-australian-cattle-dog-official-standard",
+          id: "akc-australian-cattle-dog-breed-profile",
           role: "cited",
-          locator: "Smooth double coat and skin maintenance"
+          locator: "Grooming: odor-free double coat, occasional baths, weekly brushing"
         }
       ],
       verifiedOn: null,
-      note: "General skin and smooth double-coat care guidelines."
+      note: "General skin and smooth double-coat care guidance."
     },
 
     suitability: {
@@ -925,35 +975,39 @@ export const australian_cattle_dog: Breed = {
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "About the Breed, Exercise, Training, and Temperament"
         },
         {
           id: "dogs-australia-australian-cattle-dog-standard",
           role: "cited",
-          locator: "Working lifestyle suitability and characteristics"
+          locator: "Suitability and early socialisation guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, exercise demands, and herding instincts."
+      note: "Editorial suitability assessment based on intense stamina, herding instincts, and handler experience needs."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "akc-australian-cattle-dog-breed-profile",
+          id: "dogs-australia-australian-cattle-dog-standard",
           role: "verified",
-          locator: "White puppy birth coloration from Dalmatian ancestry, 'Bentley Mark' forehead star, Bluey world record longevity (29 years 5 months), silent heel-nipping style"
+          locator: "Appearance: puppies born white, true colour emerging at about 3 weeks"
         },
         {
           id: "fci-australian-cattle-dog-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Thomas Hall's 1840 Highland Collie and Dingo crosses"
+          locator: "FCI Breed Education: drop ears rising by 6-7 months, low heel-nipping and crouching technique"
+        },
+        {
+          id: "akc-australian-cattle-dog-breed-profile",
+          role: "verified",
+          locator: "Did You Know: no temperament difference between blue and red coats"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-26",
+      note: "Verified breed traits and historical longevity facts written in original prose."
     },
 
     faq: {
@@ -962,24 +1016,23 @@ export const australian_cattle_dog: Breed = {
         {
           id: "fci-australian-cattle-dog-official-standard",
           role: "verified",
-          locator: "Origin, height (46-51 cm / 43-48 cm), Blue vs Red Heeler colors, and white puppy birth trait"
+          locator: "Origin, height (46-51 cm / 43-48 cm), blue and red coat varieties"
         },
         {
           id: "akc-australian-cattle-dog-breed-profile",
           role: "verified",
-          locator: "Weight (15-22 kg / 35-50 lbs), lifespan (12-16 years), grooming, apartment living, family life, and exercise"
+          locator: "Weight (35-50 lb), lifespan (12-16 years), grooming, exercise, recommended health tests"
         },
         {
-          id: "ofa-australian-cattle-dog-chic-requirements",
+          id: "dogs-australia-australian-cattle-dog-standard",
           role: "verified",
-          locator: "Recommended health screening panel (BAER, prcd-PRA, PLL, hips, elbows, eyes)"
+          locator: "White puppy birth coloration and health testing"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-26",
+      note: "FAQ answers synthesize verified kennel club standards and genetics research in original prose without naming registries."
     }
   },
 
-  updatedOn: "2026-11-12"
+  updatedOn: "2026-11-26"
 };

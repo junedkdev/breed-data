@@ -7,77 +7,76 @@ export const picardy_spaniel: Breed = {
 
   alternateNames: [
     "Epagneul Picard",
-    "Épagneul Picard"
+    "Épagneul Picard",
+    "Picardie-Spaniel",
+    "Spaniel Picardo"
   ],
 
-  group:
-    "Pointing Dogs; Section 1.2 — Continental Pointing Dogs, Spaniel type (with working trial; also classified in the Gun Dog group)",
+  group: "Continental pointing dogs, spaniel type (with working trial)",
 
   origin: {
     country: "France",
-    region:
-      "Somme valley and Picardy (Picardie) region, northern France"
+    region: "Picardy (Picardie) and the Somme valley, northern France"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Epagneul_Picard.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Epagneul_picard_685.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Epagneul_Picard.jpg",
-      title: "Epagneul Picard.jpg",
+        "https://commons.wikimedia.org/wiki/File:Epagneul_picard_685.jpg",
+      title: "Epagneul picard 685.jpg",
       description:
-        "An adult brown-roan Picardy Spaniel standing in profile outdoors.",
-      creator: "Lilly M",
-      uploader: "Lilly M",
-      capturedOn: "2007-06-16",
-      uploadedOn: "2007-06-25",
-      width: 2592,
-      height: 1944,
+        "An adult Picardy Spaniel photographed in Poznań, showing its brown-roan coat, tan facial points, and wavy feathered drop ears.",
+      creator: "Pleple2000",
+      uploader: "Pleple2000",
+      capturedOn: "2006-11-12",
+      uploadedOn: "2006-11-22",
+      width: 1818,
+      height: 1656,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Lilly M, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Epagneul_Picard.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Epagneul_picard_685.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+      metadataCheckedOn: "2026-11-26"
     },
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Epagneul_picard_600.jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Epagneul_Picards_bis.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Epagneul_picard_600.jpg",
-      title: "Epagneul picard 600.jpg",
+        "https://commons.wikimedia.org/wiki/File:Epagneul_Picards_bis.jpg",
+      title: "Epagneul Picards bis.jpg",
       description:
-        "An Epagneul Picard standing outdoors at a dog show.",
-      creator: "Tomasz Sienicki",
-      uploader: "Pmg",
-      capturedOn: "2006-05-20",
-      uploadedOn: "2006-05-21",
-      width: 600,
-      height: 489,
+        "A six-month-old Picardy Spaniel outdoors displaying its mottled brown-and-grey coat and feathered ears.",
+      creator: "Rachelle Vafidis",
+      uploader: "Rachellevafidis",
+      capturedOn: "2011-11-17",
+      uploadedOn: "2012-06-25",
+      width: 1280,
+      height: 848,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Tomasz Sienicki, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Epagneul_picard_600.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+        "Photo by Rachelle Vafidis, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Epagneul_Picards_bis.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A rustic, well-boned, and tireless French pointing spaniel renowned for its rich brown-roan coat with tan points, gentle and devoted disposition, and versatile hunting prowess in dense northern marshes and woodlands.",
+      "A sturdy, well-boned French pointing spaniel from Picardy, known for its dense 'autumn leaves' brown-roan coat with tan points, water-resistant build, steadfast upland and marsh hunting drive, and gentle, child-friendly nature.",
 
     description:
-      "The Picardy Spaniel is a strong, substantial, and elegantly rustic continental pointing dog engineered for endurance across the heavy swamps, dense thickets, and cold waterways of northern France. Standing solidly on well-boned limbs, it exhibits a slightly long, muscular silhouette paired with a thick, weather-resistant coat that is coarse and slightly wavy on the body, accented by fine feathering on the ears, legs, and tail. Its signature color pattern is a mottled grey-brown roan featuring distinct brown patches and characteristic pale tan points on the head and legs. The head is noble and well-sculpted, with a broad, round skull, long and deep muzzle, low-set drop ears framing the face, and expressive dark amber eyes that convey a gentle, frank, and highly affectionate intelligence. In the field, it is a methodical, close-working hunter that points staunchly and retrieves with a soft mouth; in the home, it settles into an exceptionally calm, docile, and devoted family companion.",
+      "Shaped by the damp marshes, woods, and open fields of northern France, the Picardy Spaniel pairs solid bone and athletic endurance with a refined, friendly expression. Slightly longer than tall, it carries a dense, slightly wavy coat that sheds cold water and thick cover while showing graceful feathering on the ears, legs, and curved tail. Its traditional 'autumn leaves' pattern blends mottled grey-and-brown ticking with brown patches and warm tan markings on the head and legs. Wide-set dark amber eyes and long, wavy drop ears frame a noble head with a brown nose. Outdoors, it quarters methodically within gun range, holds a steady point, and retrieves eagerly on land or in deep water; indoors, it is calm, adaptable, and deeply fond of children.",
 
     history:
-      "The Epagneul Picard is considered one of the oldest pointing spaniel lineages in France, descending from the ancient 'Chien d'Oysel' (bird dogs) favored by French royalty and nobility for falconry and net-hunting during the Middle Ages. Following the French Revolution, the breed transitioned into the hands of rural commoners in the Picardy and Somme valley regions, who valued its ability to hunt, point, and retrieve waterfowl and upland game in difficult marshland terrain. During the late nineteenth century, the influx of English pointing breeds into France led many local hunters to crossbreed their native spaniels. However, a dedicated group of purists in Picardy successfully preserved the authentic, heavy-boned, rough-coated native type, establishing a separate breed standard and founding the first breed club in 1908. Despite devastating population losses during both World Wars—where the Somme valley saw intense trench warfare—the breed survived thanks to careful revitalization efforts and remains highly esteemed among European hunters for its rugged utility and gentle temperament.",
+      "Ranked among France's oldest pointing spaniel lineages, the Picardy Spaniel developed across the wet river valleys and coastal marshes of Picardy, where local hunters needed a hardy, weatherproof bird dog able to work thick cover and cold water alike. Although imported British pointers and setters reduced its numbers in the late nineteenth century, dedicated regional breeders preserved the heavy-boned native type, establishing a breed club in Amiens in 1921 (later uniting with the closely related Blue Picardy Spaniel in 1937 and the Pont-Audemer Spaniel in 1980). Though it remained largely local to northern France for decades and suffered wartime losses, renewed interest among European hunters and families has kept this versatile small-game specialist thriving.",
 
     originalPurpose:
-      "Pointing and retrieving waterfowl, woodcock, snipe, and upland game birds across the harsh, cold, and densely vegetated marshes of the Somme valley in northern France.",
+      "Pointing and retrieving upland birds, woodcock, snipe, and waterfowl across the cold, densely vegetated marshes, woods, and plains of Picardy in northern France.",
 
     currentRoles: [
-      "Versatile pointing and retrieving gundog for upland and wetland environments",
-      "Devoted household companion and steady family pet",
-      "Canine athlete in hunt tests, tracking, and agility",
-      "Blood tracking and wounded game recovery partner"
+      "Versatile pointing and retrieving gundog on land and in deep water",
+      "Gentle, adaptable family companion",
+      "Participant in field trials, tracking, and dog sports"
     ]
   },
 
@@ -87,8 +86,8 @@ export const picardy_spaniel: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 55,
-        max: 60
+        min: 57,
+        max: 62
       },
       female: {
         min: 55,
@@ -114,49 +113,44 @@ export const picardy_spaniel: Breed = {
     },
 
     coatType:
-      "Thick, harsh, and weather-resistant double coat; slightly wavy on the body without being curly, finer on the head, with distinct feathering on the long drop ears, back of the legs, and the tail.",
+      "Dense, protective, not overly silky coat (often with undercoat); fine on the head, slightly wavy across the body, with wavy silky feathering on the ears, backs of the legs, and tail.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Grey mottled with brown (brown-roan) with distinct brown patches on different parts of the body and root of the tail",
-      "Brown-roan featuring prominent tan markings on the head and feet"
+      "Grey mottled with brown (brown-roan) with brown patches and tan markings on the head and feet — traditionally called 'autumn leaves'"
     ],
 
     sheddingLevel:
-      "Moderate; the harsh coat sheds moderately year-round with slightly heavier undercoat turnover during spring and autumn",
+      "Moderate; sheds steadily through the year with heavier seasonal turnover in spring and autumn",
 
     droolingLevel:
-      "Low to moderate; moderately pendulous lips with a square muzzle profile may produce slight drool after intense exercise or drinking",
+      "Low to moderate; medium-thickness lips hang only slightly without excessive looseness",
 
     distinctiveFeatures: [
-      "Substantial, rustic, and slightly long continental pointing spaniel silhouette with strong, heavy bone structure",
-      "Height at the withers of 55 to 60 cm for both sexes (with a tolerance up to 62 cm permitted for exceptional males)",
-      "Working weight of approximately 20 to 25 kg in lean, muscular hunting condition",
-      "Thick, slightly wavy brown-roan coat with brown patches and characteristic pale tan points",
-      "Broad, round skull with a gradual, sloping stop and a long, broad muzzle tapering slightly to a prominent brown nose",
-      "Complete, regular scissor bite with strong jaws",
-      "Dark amber eyes set wide apart, featuring a frank, friendly, and deeply expressive gaze",
-      "Low-set drop ears framing the head, hanging gracefully in beautiful waves of silky hair",
-      "Strong, muscular neck without excessive dewlap, blending into well-laid-back shoulders",
-      "Deep, wide chest reaching the elbows with well-sprung ribs and a broad, well-supported back",
-      "Tail formed of two slight curves (convex and concave), furnished with attractive feathering",
-      "Round, broad, and compact feet with a slight amount of hair between the toes for protection in rough terrain"
+      "Medium-sized, well-boned continental spaniel frame whose body length exceeds withers height by roughly one-tenth",
+      "Withers height of 57 to 62 cm for males and 55 to 60 cm for females (with a 2 cm tolerance permitted though not desired)",
+      "Working weight typically 20 to 25 kg in lean athletic condition",
+      "Dense, slightly wavy 'autumn leaves' coat of grey mottled with brown, brown patches, and tan markings on the head and feet",
+      "Moderately wide, rounded skull with a clear occiput, sloping stop, long gently tapering muzzle, and rounded brown nose",
+      "Complete scissor bite with tight-fitting cheeks",
+      "Well-opened dark amber eyes with a gentle, expressive look",
+      "Low-set drop ears reaching the tip of the muzzle when drawn forward, framed by wavy silky feathering",
+      "Muscular neck, deep chest reaching the elbows, straight well-supported back, and wide full loin",
+      "Medium-length feathered tail hanging in two gentle curves (convex then concave)",
+      "Round, broad, tight feet with light hair between the toes to protect against rough ground"
     ]
   },
 
   temperament: {
     traits: [
-      "Gentle, docile, and exceptionally affectionate with its human family",
-      "Calm, steady, and relaxed in everyday household environments",
-      "Tireless, bold, and methodical when hunting or tracking outdoors",
-      "Highly eager to please and responsive to handler cues",
-      "Patient, sweet-natured, and tolerant companion for respectful children",
-      "Sociable and peaceful with other dogs",
-      "Friendly and welcoming with unfamiliar visitors, making a poor guard dog",
-      "Strong natural instinct to track, point, and retrieve feathered game",
-      "Soft-mouthed when carrying retrieved objects or toys",
-      "Sensitive to harsh corrections, thriving under positive, encouraging leadership"
+      "Gentle, even-tempered, and deeply devoted to its family",
+      "Playful, patient, and reliable with children",
+      "Adaptable and calm indoors once daily exercise needs are met",
+      "Biddable, eager to please, and naturally cooperative during training",
+      "Bold, thorough, and cheerful when quartering and pointing game",
+      "Enthusiastic retriever on land and in deep water with a soft mouth",
+      "Sociable and friendly with other dogs and visitors"
     ],
 
     scores: {
@@ -175,7 +169,7 @@ export const picardy_spaniel: Breed = {
   care: {
     exercise: {
       level:
-        "High; an endurance-bred pointing gundog requiring vigorous daily physical exercise and structured olfactory tasks",
+        "High; an athletic pointing spaniel that needs vigorous daily walks, scent work, and active outdoor outings to stay balanced",
 
       minutesPerDay: {
         min: 60,
@@ -183,11 +177,10 @@ export const picardy_spaniel: Breed = {
       },
 
       activities: [
-        "Daily brisk leashed walks and extensive off-leash running in secure woodland or rural areas",
-        "Water retrieving, swimming, and scent-tracking drills in marshland or open fields",
-        "Interactive fetch, dummy retrieving, and search games",
-        "Canine sports including hunt tests, field trials, tracking, and agility",
-        "Long-distance hiking and outdoor exploration alongside an active owner"
+        "Long daily walks, trail hikes, and safe off-leash runs in enclosed or rural areas",
+        "Land and water retrieving games",
+        "Hunt tests, scent tracking, and agility",
+        "Interactive fetch and nosework games"
       ]
     },
 
@@ -195,211 +188,204 @@ export const picardy_spaniel: Breed = {
       level: "Moderate",
 
       brushing:
-        "Brush thoroughly once or twice weekly using a slicker brush and medium metal comb to remove dead undercoat, prevent mats in the ear and leg feathering, and maintain coat gloss.",
+        "Brush once or twice a week with a slicker brush and medium comb to clear dead hair and prevent tangles in the ear, leg, and tail feathering.",
 
       bathing:
-        "Bathe infrequently—every two to three months or when muddy after wetland hunts—using a gentle canine shampoo that preserves natural weather-resistant coat oils.",
+        "Bathe only when muddy or soiled using a mild canine shampoo so the coat retains its natural water resistance.",
 
       notes: [
-        "Never shave the double coat; light trimming is only required around the paw pads to prevent mud and snow compaction.",
-        "Inspect the long, heavily feathered drop ears weekly for moisture, wax buildup, or debris, wiping gently with an approved veterinary cleanser, especially after swimming.",
-        "Check skin and feathering for burrs, thorns, or ticks after dense woodland or marshland runs.",
-        "Trim fast-growing nails every two to three weeks to maintain correct round foot posture.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste."
+        "Never clip or shave the protective double coat; tidy excess hair only between the paw pads if mud or snow collects there.",
+        "Check and dry the long feathered drop ears weekly—and after every swim—to prevent trapped moisture.",
+        "Inspect the coat, feathering, and paws for ticks, burrs, or thorns after woodland or marsh runs.",
+        "Trim nails every two to three weeks and brush teeth several times a week."
       ]
     },
 
     training: {
       difficulty:
-        "Easy to moderate; highly intelligent, biddable, and deeply devoted to its handler, making it one of the most cooperative continental pointing breeds",
+        "Easy to moderate; naturally biddable and eager to work for its handler, responding best to gentle, upbeat training",
 
       tips: [
-        "Use positive reinforcement, high-value food treats, and enthusiastic retrieving play.",
-        "Keep training sessions engaging, upbeat, and encouraging; the breed is highly sensitive and will shut down if subjected to harsh verbal reprimands or physical coercion.",
-        "Begin recall conditioning and impulse-control training in early puppyhood to manage strong pointing and chasing instincts around wildlife.",
-        "Channel natural retrieving drives into structured fetch and carrying tasks.",
-        "Always exercise within a securely fenced area or on a sturdy leash when near heavy traffic or wildlife."
+        "Use positive reinforcement, valued food rewards, and retrieving play.",
+        "Keep corrections mild and encouraging—this sensitive spaniel learns smoothly without harsh handling.",
+        "Build reliable recall and impulse control early to balance natural bird-pointing and chasing instincts.",
+        "Channel innate retrieving enthusiasm into structured fetch and carry exercises."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to varied people, friendly vaccinated dogs, household sounds, vehicles, and water environments. Early structured socialization ensures natural docility matures into confident, well-adjusted sociability in public."
+        "Introduce puppies early and calmly to varied people, friendly dogs, town noises, car travel, and water so their naturally gentle temperament stays confident everywhere."
     },
 
     livingEnvironment: {
-      apartmentSuitable: false,
+      apartmentSuitable: true,
       houseWithYardSuitable: true,
 
       climates: [
-        "Cool, wet, and temperate climates, where the dense weather-resistant double coat provides excellent protection",
-        "Warm climates, provided indoor cooling, shade, and fresh water are constantly available and vigorous exercise occurs during cooler morning or evening hours"
+        "Cool, wet, and temperate climates, where the dense water-resistant coat excels",
+        "Warmer climates with shade, indoor cooling, fresh water, and exercise scheduled during cooler hours"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply attached to its human family and prone to separation distress or depression if left isolated in a kennel or indoors for long workdays without companionship."
+        "Low to moderate; strongly attached to its people and happiest living inside the home rather than isolated for long hours."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active medium-to-large sporting breeds, adjusted for age, seasonal hunting workload, and metabolic rate.",
+      "Complete, balanced commercial or carefully balanced home-prepared dog food suited to life stage and outdoor exercise output.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a growth formula supporting steady development.",
+        "Three to four measured small meals daily until about six months old, then two daily meals on a balanced growth formula.",
       adult:
-        "Two measured meals daily to support steady energy and comfortable digestion.",
+        "Two measured meals daily to sustain active energy and comfortable digestion.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower activity and joint support."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the ribs are easily felt beneath the dense coat. Divide daily food into two distinct meals, restrict vigorous running immediately before and after eating to reduce bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure rations to match seasonal workload—increasing calories during active hunting or swimming seasons and scaling back during quieter weeks—to keep the dog lean with ribs easily felt beneath the coat. Split daily food into two meals and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places unnecessary mechanical wear on hips and joints.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Increase caloric and protein density during active autumn hunting and field trial seasons.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep adult weight lean to protect hips and joints.",
+      "Avoid vigorous running immediately before or after meals as a precaution against bloat.",
+      "Account for training treats within the daily calorie budget.",
+      "Transition between diets gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs fluctuate significantly based on hunting workload, swimming frequency, and outdoor temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Calorie requirements vary markedly between active hunting seasons and companion routines. Work with a veterinarian to tailor daily portions."
   },
 
   health: {
     overview:
-      "The Picardy Spaniel is a rugged, robust, and generally healthy sporting gundog with a typical life expectancy of 12 to 14 years. Having been cultivated strictly for functional field endurance without extreme cosmetic exaggerations, it enjoys strong constitutional vitality. Primary health priorities include orthopedic screening for hip dysplasia, routine ear hygiene for long drop ears prone to otitis externa, and monitoring for ocular conditions such as ectropion or entropion.",
+      "The Picardy Spaniel is a hardy, rugged working spaniel with a typical lifespan of 12 to 14 years. No widespread breed-specific genetic syndromes are established in peer-reviewed studies; the French parent breed club monitors hip dysplasia in breeding stock, while routine preventive care focuses on conformational priorities for water-working drop-eared spaniels—especially ear hygiene, joint care, and field safety.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and stiffness, monitored through pre-breeding radiographic screening",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by heavy, feathered drop ears that restrict canal ventilation and trap moisture after swimming",
-      "Ectropion and entropion — outward sagging or inward rolling of the eyelids causing corneal irritation or conjunctivitis, requiring veterinary ophthalmic evaluation",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute twisting and distension of the stomach in deep-chested sporting dogs, requiring emergency veterinary care",
-      "Traumatic outdoor injuries — minor cuts, thorn punctures, or paw abrasions sustained while working in dense, thorny marshlands"
+      "Hip dysplasia — monitored by the breed club in breeding dogs via radiographic screening to minimize joint laxity and arthritis",
+      "Otitis externa (ear infections) — a general conformational risk in long, feathered drop ears, especially after swimming or wet marsh work, largely preventable through routine drying and weekly checks",
+      "Gastric dilatation-volvulus (bloat) — a general risk in deep-chested medium-to-large breeds, mitigated by split meals and post-meal rest",
+      "Field and marsh scrapes — minor thorn punctures, burrs, or paw abrasions picked up in dense cover"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic hip clearances and specialist eye examinations.",
-      "Inspect and thoroughly dry the feathered drop ears after every swim or bath, wiping canals gently with an approved veterinary drying cleanser.",
-      "Maintain a lean, muscular body condition throughout life to minimize mechanical wear on joints and ligaments.",
-      "Feed two smaller meals daily and avoid vigorous running immediately before or after eating to mitigate bloat risk.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding parents have completed radiographic hip evaluations.",
+      "Dry and inspect the feathered drop ears thoroughly after swimming, baths, or wet walks.",
+      "Maintain a lean, athletic weight and divide meals into two daily portions with rest around mealtimes.",
+      "Keep up with year-round parasite prevention, dental brushing, and annual veterinary wellness visits."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "Radiographic hip dysplasia evaluation prior to breeding",
+      "Routine veterinary wellness and eye examination"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times weekly with canine enzymatic toothpaste and schedule regular veterinary dental checks to protect the complete scissor bite and gums.",
 
     earCare:
-      "Inspect the long, low-set drop ears weekly for wax buildup, moisture, or redness, especially after water work. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the long, low-set feathered drop ears every week and after every swim for moisture, wax, or redness; wipe gently with a veterinarian-approved ear cleanser and dry thoroughly.",
 
     skinCare:
-      "Part the dense, wavy coat weekly during brushing to inspect the skin for external parasites, ticks, or brush scratches. Preserve natural weather-repelling oils by avoiding harsh detergents."
+      "Part the dense, slightly wavy coat weekly during brushing to check for ticks, burrs, or brush scratches, avoiding harsh shampoos that strip natural water-repelling oils."
   },
 
   suitability: {
-    firstTimeOwners: false,
+    firstTimeOwners: true,
     familiesWithChildren: true,
     seniorOwners: false,
     activeOwners: true,
-    apartmentLiving: false,
+    apartmentLiving: true,
 
     idealFor: [
-      "Active outdoor households, hunters, and hikers seeking a versatile, close-working pointing companion",
-      "Families with children seeking a gentle, docile, and affectionate indoor pet with high outdoor energy",
-      "Owners who can provide at least an hour of vigorous daily exercise and off-leash running in safe areas",
-      "Canine sports enthusiasts involved in hunt tests, tracking, or agility",
-      "Homes with a securely fenced yard in temperate or cool climates"
+      "Active families and outdoor enthusiasts wanting a gentle, affectionate, child-friendly pointing companion",
+      "Hunters seeking a close-working, natural land-and-water retriever for upland and marsh game",
+      "House or city owners committed to long daily walks and regular outdoor exercise",
+      "First-time sporting-breed owners who appreciate a biddable, easy-to-train temperament"
     ],
 
     notIdealFor: [
-      "Sedentary individuals looking for a low-exercise indoor lap dog",
-      "Apartment or dense urban dwellers without access to extensive outdoor running spaces",
-      "Owners seeking a fierce, territorial guard dog",
-      "Households where the dog will be left alone in isolation for long workdays without human companionship"
+      "Sedentary households unable to provide 60 to 90 minutes of daily outdoor activity",
+      "Owners looking for a wary or protective watchdog",
+      "Homes where the dog would be left alone for long stretches every day"
     ]
   },
 
   funFacts: [
-    "The Picardy Spaniel (Epagneul Picard) is one of the oldest native pointing breeds in France, tracing its roots to the ancient 'Chien d'Oysel' that worked alongside falconers before the invention of firearms.",
-    "The breed's distinctive brown-roan coat with pale tan points perfectly camouflages the dog in the autumn foliage and muddy wetlands of the Somme valley in northern France.",
-    "During the early twentieth century, the closely related Blue Picardy Spaniel (Epagneul Bleu de Picardie) was developed by crossing the Picardy Spaniel with English Setters, resulting in a similar dog with a blue-grey (black-roan) coat instead of brown-roan.",
-    "The Somme valley, the breed's ancestral heartland, was the site of some of the most devastating trench warfare of World War I; the Picardy Spaniel nearly went extinct as its native habitat was destroyed, but dedicated local breeders saved the working lines in the 1920s.",
-    "Renowned for their exceptional docility, Picardy Spaniels are famously easy to train for the field compared to more headstrong continental pointers, thriving on gentle encouragement and a close bond with their handler."
+    "Its mottled grey-and-brown coat accented with brown patches and tan markings is traditionally nicknamed 'autumn leaves' in France, blending naturally into fall marshland.",
+    "The Picardy Spaniel and the Blue Picardy Spaniel are sister breeds from the same northern French region, distinguished chiefly by coat color—brown-roan versus black-roan.",
+    "Long-time Picardy breeders organized their first breed club in Amiens in 1921, later uniting with the Blue Picardy Spaniel in 1937 and the Pont-Audemer Spaniel in 1980.",
+    "Unlike wide-ranging pointers that bolt far ahead, the Picardy Spaniel naturally quarters within easy gun range and retrieves eagerly even in cold, deep water.",
+    "Despite its tireless marshland stamina, it is prized in France as an unusually gentle, playful family dog that adapts well even to city living when given long daily walks."
   ],
 
   faq: [
     {
-      question: "What is a Picardy Spaniel?",
+      question: "What kind of dog is a Picardy Spaniel?",
       answer:
-        "The Picardy Spaniel (Epagneul Picard) is a rustic, medium-to-large French pointing gundog known for its thick brown-roan coat with tan points, excellent water-retrieving ability, and exceptionally gentle, docile family temperament."
+        "Also called the Épagneul Picard, it is a sturdy, medium-to-large French pointing spaniel known for its dense 'autumn leaves' brown-roan coat with tan markings, versatile land-and-water hunting skill, and gentle family nature."
     },
     {
-      question: "What is the difference between a Picardy Spaniel and a Blue Picardy Spaniel?",
+      question: "How is the Picardy Spaniel different from the Blue Picardy Spaniel?",
       answer:
-        "The primary difference is coat color: the Picardy Spaniel has a brown-roan coat with tan points, while the Blue Picardy Spaniel—developed later by crossing the Picardy with English Setters—has a black-roan (blue-grey) coat and tends to be slightly lighter in bone."
+        "They are sister breeds from northern France whose main difference is coat color: the Picardy Spaniel is mottled grey-and-brown with brown patches and tan markings, whereas the Blue Picardy Spaniel has a black-roan (blue-grey) coat."
     },
     {
-      question: "How tall and heavy is a Picardy Spaniel?",
+      question: "How tall and heavy does a Picardy Spaniel get?",
       answer:
-        "Adult males and females both stand 55 to 60 cm at the withers (with males exceptionally permitted up to 62 cm) and typically weigh between 20 and 25 kg in lean, muscular working condition."
+        "Males stand 57 to 62 cm at the withers and females stand 55 to 60 cm, with adults typically weighing 20 to 25 kg in lean athletic condition."
     },
     {
-      question: "How long does a Picardy Spaniel live?",
+      question: "What is the average lifespan of a Picardy Spaniel?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 12 to 14 years."
+        "Most Picardy Spaniels live 12 to 14 years with balanced nutrition, regular exercise, and routine veterinary care."
     },
     {
-      question: "Do Picardy Spaniels shed a lot, and how are they groomed?",
+      question: "How much grooming does a Picardy Spaniel need?",
       answer:
-        "They shed moderately year-round. Their thick, wavy double coat requires thorough brushing one to two times weekly to prevent mats in the feathering, along with regular ear cleaning; the coat should never be shaved."
+        "Brush once or twice a week to keep the wavy feathering on the ears, legs, and tail free of mats, check and dry the drop ears after swimming, and bathe only when needed without shaving the coat."
     },
     {
-      question: "Can a Picardy Spaniel live in an apartment?",
+      question: "Can a Picardy Spaniel live in a city or apartment?",
       answer:
-        "Generally no. Due to their high energy, hunting drive, and need for vigorous daily exercise, they thrive best in a house with a securely fenced yard."
+        "Yes, if its exercise needs are taken seriously. Although bred for hunting, its calm, gentle indoor demeanor adapts well to city living when given 60 to 90 minutes of brisk daily walks and outdoor outings."
     },
     {
-      question: "Are Picardy Spaniels good family pets and good with children?",
+      question: "Are Picardy Spaniels good with children?",
       answer:
-        "Yes, they are outstanding family pets. They are famously calm, affectionate, and patient with children in the home, completely transforming from a focused hunter outdoors into a gentle companion indoors."
+        "Yes. They are famously gentle, patient, and playful with children, transitioning easily from focused field work outdoors to affectionate family companionship at home."
     },
     {
-      question: "How much exercise does a Picardy Spaniel need each day?",
+      question: "What health screenings are recommended for Picardy Spaniels?",
       answer:
-        "The breed requires 60 to 90 minutes of vigorous daily physical activity, including brisk trail walks, swimming, off-leash running in safe areas, and scent-tracking games."
-    },
-    {
-      question: "What health screenings are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip dysplasia and annual veterinary ophthalmologist eye exams."
+        "Radiographic hip dysplasia screening prior to breeding and routine veterinary wellness and eye checks are recommended, alongside diligent ear care for water-working drop ears."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-picardy-spaniel-official-standard",
     "fci-picardy-spaniel-nomenclature",
     "scc-epagneul-picard-standard",
     "club-epagneul-picard-profile",
     "ukc-picardy-spaniel-breed-standard",
     "wikimedia-epagneul-picard-lilly-m",
-    "wikimedia-epagneul-picard-600-tomasz-sienicki"
+    "wikimedia-epagneul-picard-600-tomasz-sienicki",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Canis lupus familiaris (Domestic Dog) taxonomic record"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Domestic dog taxonomic name verified via NatureServe Explorer."
     },
 
     alternateNames: {
@@ -413,11 +399,16 @@ export const picardy_spaniel: Breed = {
         {
           id: "fci-picardy-spaniel-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: PICARDY SPANIEL (108)"
+          locator: "Official nomenclature (No. 108): PICARDY SPANIEL, EPAGNEUL PICARD, PICARDIE-SPANIEL, SPANIEL PICARDO"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Épagneul Picard"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified across FCI Standard No. 108 and FCI Nomenclature."
+      verifiedOn: "2026-11-26",
+      note: "Verified across FCI Standard No. 108, FCI Nomenclature, SCC, and The Dog API."
     },
 
     group: {
@@ -431,17 +422,21 @@ export const picardy_spaniel: Breed = {
         {
           id: "fci-picardy-spaniel-nomenclature",
           role: "verified",
-          locator: "Group 7, Section 1.2 Continental Pointing Dogs, Spaniel type, with working trial"
+          locator: "Group 7, Section 1 Continental Pointing Dogs, Subsection Spaniel Type, subject to a working trial"
         },
         {
           id: "ukc-picardy-spaniel-breed-standard",
-          role: "verified",
+          role: "cited",
           locator: "Gun Dog Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Sporting"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-26",
+      note: "User-facing group label omits registry names per Rule 5."
     },
 
     origin: {
@@ -450,20 +445,25 @@ export const picardy_spaniel: Breed = {
         {
           id: "fci-picardy-spaniel-official-standard",
           role: "verified",
-          locator: "ORIGIN: France"
+          locator: "ORIGIN: France; BRIEF HISTORICAL SUMMARY (Picardy)"
         },
         {
           id: "fci-picardy-spaniel-nomenclature",
           role: "verified",
-          locator: "Country of origin: France"
+          locator: "Country of origin: FRANCE"
         },
         {
           id: "scc-epagneul-picard-standard",
           role: "verified",
-          locator: "Origine: France (Vallée de la Somme, Picardie)"
+          locator: "Historique: vallées humides de la Picardie, France"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Picardy, France"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -473,22 +473,26 @@ export const picardy_spaniel: Breed = {
         {
           id: "fci-picardy-spaniel-official-standard",
           role: "verified",
-          locator: "UTILIZATION, GENERAL APPEARANCE"
+          locator: "BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT (2023 standard)"
         },
         {
           id: "scc-epagneul-picard-standard",
           role: "verified",
-          locator: "Historique (Chien d'Oysel, Révolution française), utilisation et caractère"
+          locator: "Description générale, Historique, Comportement"
         },
         {
           id: "club-epagneul-picard-profile",
           role: "verified",
-          locator: "Origines, histoire dans la vallée de la Somme, 1908 club fondation et tempérament"
+          locator: "CEPPA breed presentation and club history (founded 1921 in Amiens, 1937 Blue Picardy merger, 1980 Pont-Audemer merger)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesized in original prose from FCI Standard No. 108, SCC, and the French parent club official records."
+      verifiedOn: "2026-11-26",
+      note: "Written in original prose grounded in the 2023 FCI Standard No. 108, SCC, and CEPPA."
     },
 
     physical: {
@@ -497,22 +501,21 @@ export const picardy_spaniel: Breed = {
         {
           id: "fci-picardy-spaniel-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator: "GENERAL APPEARANCE (body length exceeds height by ~1/10th), HEAD, BODY, TAIL (two slight curves), COAT (dense, not too silky, slightly wavy), COLOUR ('autumn leaves'), SIZE"
         },
         {
           id: "scc-epagneul-picard-standard",
           role: "verified",
-          locator: "Morphologie, poil, robe gris moucheté avec taches marron et marques feu, taille"
+          locator: "Description générale: robe grise avec plaques marrons et feu, yeux ambres foncés, oreilles longues"
         },
         {
-          id: "ukc-picardy-spaniel-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.coat_colors (broader unstandardized colour list excluded in favor of official brown-roan 'autumn leaves' pattern)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Conformation, well-boned spaniel build, brown-roan coat with tan points, and distinctive features follow official standards."
+      verifiedOn: "2026-11-26",
+      note: "Conformation and coat colour follow the 2023 FCI Standard No. 108, excluding The Dog API's broad unstandardized colour list."
     },
 
     "physical.height": {
@@ -521,77 +524,60 @@ export const picardy_spaniel: Breed = {
         {
           id: "fci-picardy-spaniel-official-standard",
           role: "verified",
-          locator: "SIZE: Height at the withers: 55 to 60 cm. A tolerance up to 62 cm is accepted for males."
+          locator: "SIZE (2023 standard): Height at withers — Males 57 to 62 cm, Females 55 to 60 cm (tolerance of +/- 2 cm permitted yet undesirable)"
         },
         {
           id: "scc-epagneul-picard-standard",
-          role: "verified",
-          locator: "Taille au garrot: De 55 à 60 cm (tolérance jusqu'à 62 cm pour les mâles)"
+          role: "cited",
+          locator: "Taille: 55 à 60 cm en moyenne (older summary range)"
         },
         {
-          id: "ukc-picardy-spaniel-breed-standard",
-          role: "verified",
-          locator: "Height: 21½ to 23½ inches (55 to 60 cm), with a tolerance up to 24½ inches (62 cm) for males"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height: 56-61 cm (both sexes)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Preserved in published unit of centimetres (55–60 cm with 62 cm tolerance for males) exactly as specified in FCI Standard No. 108 and SCC standard."
+      verifiedOn: "2026-11-26",
+      note: "Updated to the 2023 FCI Standard No. 108 sex-separated heights (males 57-62 cm, females 55-60 cm), superseding the older 1998 55-60 cm text and The Dog API's 56-61 cm range."
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "scc-epagneul-picard-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Poids indicatif: de 20 à 25 kg environ"
-        },
-        {
-          id: "club-epagneul-picard-profile",
-          role: "verified",
-          locator: "Poids moyen adulte: 20 kg"
+          locator: "breed.weight.metric: 20-25 kg (single breed range)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "FCI Standard No. 108 specifies height without fixing a numerical weight. The stored 20 to 25 kg represent canonical figures published by SCC and the French parent club, preserved in kilograms."
+      verifiedOn: "2026-11-26",
+      note: "Neither FCI Standard No. 108 nor SCC ('Poids: NP') specifies a numerical weight; stored 20-25 kg range is verified from The Dog API."
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "scc-epagneul-picard-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longévité moyenne: 12 à 14 ans"
-        },
-        {
-          id: "club-epagneul-picard-profile",
-          role: "verified",
-          locator: "Espérance de vie: environ 13 ans"
+          locator: "breed.life_span: 12-14 years"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Supported by French kennel club and parent club actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Verified from The Dog API; neither FCI Standard No. 108 nor SCC publishes a lifespan."
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "fci-picardy-spaniel-official-standard",
-          role: "verified",
-          locator: "COAT: Hair thick and not too silky; fine on head, slightly wavy on body"
-        },
-        {
-          id: "club-epagneul-picard-profile",
-          role: "verified",
-          locator: "Entretien du poil et mue modérée"
+          role: "cited",
+          locator: "COAT: Dense and not too silky, slightly wavy on the body, often with undercoat"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: null
+      verifiedOn: null,
+      note: "General expectation for medium-coated pointing spaniels with undercoat."
     },
 
     "physical.droolingLevel": {
@@ -600,28 +586,38 @@ export const picardy_spaniel: Breed = {
         {
           id: "fci-picardy-spaniel-official-standard",
           role: "verified",
-          locator: "Lips: Medium thickness, letting the lips down a little, but not hanging too much"
+          locator: "Lips: Of medium thickness, slightly let down, not hanging too much"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Moderate lips produce low to moderate drooling, mostly after physical exertion."
+      verifiedOn: "2026-11-26",
+      note: "Medium-thickness, slightly let-down lips produce low to moderate drooling."
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
+          id: "fci-picardy-spaniel-official-standard",
+          role: "verified",
+          locator: "BEHAVIOUR/TEMPERAMENT & BRIEF HISTORICAL SUMMARY: Flexible, gentle, even temperament, well adapted to family life, real kid lover, firm and cheerful while pointing"
+        },
+        {
           id: "scc-epagneul-picard-standard",
           role: "verified",
-          locator: "Comportement: Très doux, docile, obéissant, passionné à la chasse"
+          locator: "Comportement: facile à éduquer, travaille pour faire plaisir à son maître, adore les enfants, rapport sur terre et en eau profonde"
         },
         {
           id: "club-epagneul-picard-profile",
           role: "verified",
-          locator: "Caractère: Chien de compagnie idéal, doux avec les enfants, sociable"
+          locator: "CEPPA: docile compagnon, quête croisée à portée de fusil, rapport inné sans dent dure"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament: Gentle, calm, intelligent, docile, devoted, adaptable"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -629,55 +625,53 @@ export const picardy_spaniel: Breed = {
       reliability: "estimate",
       sources: [
         {
-          id: "scc-epagneul-picard-standard",
+          id: "fci-picardy-spaniel-official-standard",
           role: "cited",
-          locator: "Profil comportemental et aptitude familiale"
+          locator: "Temperament and family adaptability"
         },
         {
-          id: "club-epagneul-picard-profile",
+          id: "scc-epagneul-picard-standard",
           role: "cited",
-          locator: "Caractère et sociabilité"
+          locator: "Comportement et vie de famille"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented continental pointing spaniel temperament, high family docility, and gentle affection."
+      note: "Editorial 1-5 scores reflecting verified docility, child-friendliness, and athletic field stamina."
     },
 
     care: {
       reliability: "general_guidance",
       sources: [
         {
-          id: "scc-epagneul-picard-standard",
+          id: "fci-picardy-spaniel-official-standard",
           role: "cited",
-          locator: "Entretien, activité physique et besoins"
+          locator: "Athletic dog enjoying a daily walk to work off energy"
         },
         {
-          id: "club-epagneul-picard-profile",
+          id: "scc-epagneul-picard-standard",
           role: "cited",
-          locator: "Soins des oreilles et exercice"
+          locator: "Comportement, Vivre en ville, Alimentation"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active pointing gundog management with spaniel feathering grooming and drop-ear care protocols."
+      note: "General sporting spaniel exercise, coat brushing, and drop-ear care guidance."
     },
 
     "care.exercise.level": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-picardy-spaniel-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Pointing dog built for stamina in marshes"
+          locator: "BEHAVIOUR/TEMPERAMENT: Athletic dog enjoying a daily walk to work off energy; UTILIZATION: Pointing dog"
         },
         {
           id: "scc-epagneul-picard-standard",
           role: "verified",
-          locator: "Besoins d'exercice élevés comme chien de chasse"
+          locator: "Comportement: besoin de beaucoup d'exercice pour exprimer son énergie et son endurance"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -687,31 +681,29 @@ export const picardy_spaniel: Breed = {
         {
           id: "scc-epagneul-picard-standard",
           role: "cited",
-          locator: "Sorties quotidiennes et activités sportives recommandées"
+          locator: "Vivre en ville: longues promenades nécessaires à son équilibre"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic pointing spaniel."
+      note: "Editorial estimate of 60 to 90 minutes daily for an athletic pointing spaniel."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "scc-epagneul-picard-standard",
-          role: "cited",
-          locator: "Préfère la vie à la campagne ou avec un grand jardin"
+          role: "verified",
+          locator: "Vivre en ville: s'adapte néanmoins sans problème à une vie citadine avec de longues promenades"
         },
         {
-          id: "club-epagneul-picard-profile",
-          role: "cited",
-          locator: "Besoin d'espace et d'exercice quotidien"
+          id: "fci-picardy-spaniel-official-standard",
+          role: "verified",
+          locator: "BEHAVIOUR/TEMPERAMENT: Well adapted to family life with daily walks"
         }
       ],
-      verifiedOn: null,
-      note:
-        "Editorial evaluation that high physical energy, hunting drive, and outdoor endurance needs make apartment living generally unsuitable."
+      verifiedOn: "2026-11-26",
+      note: "Updated to true per SCC's explicit statement that the breed adapts smoothly to city life provided it gets long daily walks."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -720,10 +712,10 @@ export const picardy_spaniel: Breed = {
         {
           id: "scc-epagneul-picard-standard",
           role: "verified",
-          locator: "Jardin clôturé conseillé"
+          locator: "Active hunting and family companion suited to outdoor space"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -731,17 +723,17 @@ export const picardy_spaniel: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-picardy-spaniel-official-standard",
+          id: "scc-epagneul-picard-standard",
           role: "verified",
-          locator: "COAT: Weather-resistant coat adapted to damp marshes"
+          locator: "Historique: robe dense et imperméable pour le protéger du froid et de l'humidité"
         },
         {
           id: "club-epagneul-picard-profile",
           role: "verified",
-          locator: "Résistance aux climats froids et humides (marais)"
+          locator: "Chien rustique qui n'a pas peur d'affronter les climats les plus rudes"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -749,9 +741,9 @@ export const picardy_spaniel: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "club-epagneul-picard-profile",
+          id: "scc-epagneul-picard-standard",
           role: "cited",
-          locator: "Très attaché à son maître, supporte mal la solitude"
+          locator: "Description générale: compagnon fidèle qui aime vivre avec son maître"
         }
       ],
       verifiedOn: null,
@@ -762,23 +754,22 @@ export const picardy_spaniel: Breed = {
       reliability: "general_guidance",
       sources: [
         {
-          id: "club-epagneul-picard-profile",
+          id: "scc-epagneul-picard-standard",
           role: "cited",
-          locator: "Alimentation adaptée à l'activité de chasse"
+          locator: "Alimentation & Santé: rations équilibrées tenant compte de l'âge et de l'activité"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium-to-large sporting breeds."
+      note: "Reflects SCC feeding guidance for active sporting breeds."
     },
 
     "nutrition.feedingFrequency": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "club-epagneul-picard-profile",
+          id: "scc-epagneul-picard-standard",
           role: "cited",
-          locator: "Fractionnement des repas pour éviter les troubles digestifs"
+          locator: "Alimentation & Santé"
         }
       ],
       verifiedOn: null,
@@ -786,41 +777,39 @@ export const picardy_spaniel: Breed = {
     },
 
     "health.overview": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "club-epagneul-picard-profile",
-          role: "verified",
-          locator: "Santé robuste, suivi de la dysplasie de la hanche et surveillance des oreilles"
+          role: "cited",
+          locator: "CEPPA breeding litter hip dysplasia (Dys.) tracking"
         },
         {
           id: "scc-epagneul-picard-standard",
-          role: "verified",
-          locator: "Santé et maladies fréquentes"
+          role: "cited",
+          locator: "Hardy water-working pointing spaniel profile"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesizes French kennel club veterinary health data and sporting spaniel priorities."
+      verifiedOn: null,
+      note: "Distinguishes breed-club hip dysplasia monitoring from general conformational/working priorities (drop ears, deep chest, field exposure)."
     },
 
     "health.commonConditions": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "club-epagneul-picard-profile",
-          role: "verified",
-          locator: "Dysplasie de la hanche, otites (oreilles tombantes), entropion/ectropion"
+          role: "cited",
+          locator: "Hip dysplasia monitoring in breeding litters"
         },
         {
-          id: "scc-epagneul-picard-standard",
-          role: "verified",
-          locator: "Torsion de l'estomac (risque chez les chiens à poitrine profonde)"
+          id: "fci-picardy-spaniel-official-standard",
+          role: "cited",
+          locator: "Long feathered drop ears and deep-chested sporting conformation"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Details documented conformational and environmental conditions in original prose without prohibited registry terms."
+      verifiedOn: null,
+      note: "Reflects breed-club hip monitoring and general drop-eared sporting spaniel conformational risks without overstating prevalence."
     },
 
     "health.preventiveCare": {
@@ -829,30 +818,24 @@ export const picardy_spaniel: Breed = {
         {
           id: "club-epagneul-picard-profile",
           role: "cited",
-          locator: "Soins préventifs: nettoyage des oreilles après la chasse ou la baignade"
+          locator: "Water-working spaniel ear drying and hip screening"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to active sporting spaniels."
+      note: "Standard preventive care for water-working pointing spaniels."
     },
 
     "health.recommendedScreenings": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "club-epagneul-picard-profile",
-          role: "verified",
-          locator: "Dépistage recommandé: radiographie des hanches"
-        },
-        {
-          id: "scc-epagneul-picard-standard",
-          role: "verified",
-          locator: "Examen oculaire conseillé"
+          role: "cited",
+          locator: "CEPPA hip dysplasia (Dys.) recording on litters"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Screenings summarize published parent club protocols."
+      verifiedOn: null,
+      note: "Reflects breed-club hip dysplasia screening and routine veterinary eye/wellness checks."
     },
 
     "health.dentalCare": {
@@ -861,11 +844,11 @@ export const picardy_spaniel: Breed = {
         {
           id: "fci-picardy-spaniel-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: strong, regular scissor bite"
+          locator: "Jaws/Teeth: Complete scissor bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine dental hygiene guidance."
     },
 
     "health.earCare": {
@@ -874,16 +857,11 @@ export const picardy_spaniel: Breed = {
         {
           id: "fci-picardy-spaniel-official-standard",
           role: "cited",
-          locator: "Ears: set low, framing the head, covered with wavy hair"
-        },
-        {
-          id: "club-epagneul-picard-profile",
-          role: "cited",
-          locator: "Inspection et nettoyage régulier des oreilles"
+          locator: "Ears: Low-set drop ears reaching tip of muzzle, framed by wavy hair"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for low-set, feathered drop ears prone to moisture retention."
+      note: "Routine drop-ear inspection and post-swim drying guidance."
     },
 
     "health.skinCare": {
@@ -892,48 +870,52 @@ export const picardy_spaniel: Breed = {
         {
           id: "fci-picardy-spaniel-official-standard",
           role: "cited",
-          locator: "Coat texture and skin characteristics"
+          locator: "Skin: Rather fine and supple; dense slightly wavy coat"
         }
       ],
       verifiedOn: null,
-      note: "General skin and double-coat care guidelines."
+      note: "General skin and feathering inspection guidance."
     },
 
     suitability: {
       reliability: "estimate",
       sources: [
         {
-          id: "scc-epagneul-picard-standard",
+          id: "fci-picardy-spaniel-official-standard",
           role: "cited",
-          locator: "Profil d'adoptant idéal et aptitude familiale"
+          locator: "Family-friendly, kid-loving, athletic pointing dog"
         },
         {
-          id: "club-epagneul-picard-profile",
+          id: "scc-epagneul-picard-standard",
           role: "cited",
-          locator: "Style de vie et capacités d'adaptation"
+          locator: "Adaptability to city living with long walks and easy trainability"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, grooming needs, and exercise demands."
+      note: "Editorial suitability assessment reflecting gentle biddability and active outdoor exercise needs."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
-          id: "scc-epagneul-picard-standard",
+          id: "fci-picardy-spaniel-official-standard",
           role: "verified",
-          locator: "Chien d'Oysel heritage, Somme valley marsh hunting, survival post-WWI"
+          locator: "'Autumn leaves' traditional coat name; main difference from Blue Picardy Spaniel is coat colour"
         },
         {
           id: "club-epagneul-picard-profile",
           role: "verified",
-          locator: "Distinctive brown-roan coat with tan points vs Blue Picardy"
+          locator: "CEPPA founded 1921 in Amiens, 1937 Blue Picardy merger, 1980 Pont-Audemer merger; close-range quartering and water retrieving"
+        },
+        {
+          id: "scc-epagneul-picard-standard",
+          role: "verified",
+          locator: "City adaptability with long daily walks"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-26",
+      note: "Verified breed history, coat naming, and working traits written in original prose."
     },
 
     faq: {
@@ -942,24 +924,23 @@ export const picardy_spaniel: Breed = {
         {
           id: "fci-picardy-spaniel-official-standard",
           role: "verified",
-          locator: "Origin, height (55-60 cm), coat, and difference from Blue Picardy Spaniel"
+          locator: "2023 heights (57-62 cm males, 55-60 cm females), 'autumn leaves' coat, Blue Picardy comparison, child-friendly temperament"
         },
         {
           id: "scc-epagneul-picard-standard",
           role: "verified",
-          locator: "Weight (20-25 kg), lifespan (12-14 years), apartment living, family suitability, and exercise"
+          locator: "City adaptability with long daily walks"
         },
         {
-          id: "club-epagneul-picard-profile",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Recommended health screenings (hips, eyes) and grooming"
+          locator: "Weight (20-25 kg) and lifespan (12-14 years)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "FAQ answers synthesize verified standards and national kennel club publications without naming registries in prose."
+      verifiedOn: "2026-11-26",
+      note: "FAQ answers synthesize verified 2023 FCI Standard No. 108, SCC, CEPPA, and The Dog API records without naming registries."
     }
   },
 
-  updatedOn: "2026-11-13"
+  updatedOn: "2026-11-26"
 };

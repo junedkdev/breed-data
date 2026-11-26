@@ -180,11 +180,12 @@
 177:belgian_shepherd_dog_(laekenois) - CG
 178:bouvier_des_flandres - CG
 179:basset_fauve_de_bretagne - CG
+180:australian_cattle_dog - CG
+181:grand_anglo-francais_blanc_et_noir - CG
+182:picardy_spaniel - CG
 
-180:australian_cattle_dog - C
-181:grand_anglo-francais_blanc_et_noir - C
-182:picardy_spaniel - C
-183:dogo_argentino - C
+183:dogo_argentino - CR
+
 184:greater_swiss_mountain_dog - C
 185:greyhound - C
 186:cane_corso - C
@@ -257,12 +258,13 @@
 253:kishu_ken - C
 254:leonberger - C
 255:braque_francais_(pyrenees) - C
+256:poodle - C
+257:karelian_bear_dog - C
+258:lapponian_herder - C
+259:australian_kelpie - C
 
-256:poodle
-257:karelian_bear_dog
-258:lapponian_herder
-259:australian_kelpie
-260:borzoi
+260:borzoi - R
+
 261:japanese_terrier
 262:fila_brasileiro
 263:field_spaniel

@@ -13,13 +13,11 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
     "Gran Sabueso Anglo-Francés Blanco y Negro"
   ],
 
-  group:
-    "Scenthounds and Related Breeds; Section 1.1 — Large-sized Hounds (with working trial; also classified in the Scenthound and Hound groups)",
+  group: "Large-sized scenthounds (with working trial)",
 
   origin: {
     country: "France",
-    region:
-      "Southwestern and central France (developed from Gascon-Saintongeois and English Foxhound lineages)"
+    region: "Western and southwestern France"
   },
 
   images: [
@@ -29,7 +27,7 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         "https://commons.wikimedia.org/wiki/File:Grand_anglo_francais_noir.jpg",
       title: "Grand anglo francais noir.jpg",
       description:
-        "An adult Grand Anglo-Français Blanc et Noir running at full gallop outdoors during a drag hunt.",
+        "An adult Grand Anglo-Français Blanc et Noir galloping outdoors during a non-blood drag hunt.",
       creator: "Alephalpha",
       uploader: "Alephalpha",
       capturedOn: "2006-10-22",
@@ -40,27 +38,27 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
       attribution:
         "Photo by Alephalpha, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Grand_anglo_francais_noir.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-12"
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A large, powerful, and noble French pack scenthound blending heavy Gascon-Saintongeois bone and deep baying voice with English Foxhound stamina, instantly recognizable by its crisp white coat with extensive black mantle and pale tan facial points.",
+      "A tall, sturdy French pack scenthound combining Gascon-Saintongeois bone and resonant cry with English Foxhound vigor, distinguished by its crisp white-and-black mantle, pale tan facial points, and sociable kennel temperament.",
 
     description:
-      "The Grand Anglo-Français Blanc et Noir is a substantial, robust, and harmoniously proportioned large hunting hound engineered for tireless pack pursuit of stag and roe deer across damp forests and dense undergrowth. Combining the aristocratic skull structure, heavy bone, and resonant voice of traditional French Gascon-Saintongeois hounds with the athletic gallop and structural vigor of the English Foxhound, the dog displays an imposing, square-proportioned silhouette where body length equals height at the withers. Its short, strong, and dense single coat features a pure white base marked with a large black mantle and spots, subtle pale tan dots above each eye and on the cheeks, and frequent 'roebuck marks' on the thighs. The strong head exhibits parallel skull and muzzle lines, square flews, medium-length curling drop ears, and deep brown eyes radiating calm friendliness. In kennel and family life, it is gentle, sociable, and remarkably easygoing with people and other dogs.",
+      "Bred to sustain long pack chases through dense brush and wet forest ground, the Grand Anglo-Français Blanc et Noir is a powerful, heavily boned, and durable large hound. Its frame blends the noble French scenting heritage of the Gascon-Saintongeois with the athletic structure and stamina of the English Foxhound. A short, dense, sturdy coat displays a white base overlaid by a broad black mantle and black patches, often accented by black or bluish ticking, pale tan dots above the eyes and on the cheeks, and a pale tan 'roebuck mark' on the thigh. Medium-length drop ears taper toward a point, while a long, tapering tail rises above the back in motion without curling vertically. Driven and tireless on a trail, the breed is friendly, close to people, and calm to manage in a pack kennel.",
 
     history:
-      "During the mid-nineteenth century, French masters of hounds sought to enhance the speed, foot soundness, and constitutional vigor of native French scenting packs without sacrificing their famous cold-nosed tracking ability and melodious cry. French breeders systematically crossed the ancient Saintongeois and Gascon-Saintongeois hounds with imported English Foxhounds, creating a distinct family of Anglo-French hounds categorized by size and coat color. Originally referred to simply as 'Bâtards Anglo-Saintongeois' (Anglo-Saintongeois crossbreeds), the white-and-black variety was formally standardized in France during the mid-twentieth century, dropping the term 'bâtard' in 1957 to adopt the proud title Grand Anglo-Français Blanc et Noir. Today, approximately two thousand hounds maintain the breed's active working heritage in France, forming packs of twenty or more hounds for traditional stag and deer hunts.",
+      "The breed grew out of mid-nineteenth-century French pack crosses—known historically as the Bâtard Anglo-Saintongeois—pairing traditional Saintongeois scenthounds with imported English Foxhounds to unite English bone, build, and vigor with French nose and voice. French masters of hounds later organized the Anglo-French pack types by coat pattern, dropping the 'bâtard' label in 1957 to recognize the white-and-black variety as the Grand Anglo-Français Blanc et Noir. Today, a French working population of roughly 2,000 hounds (with around 200 puppies born annually) sustains about twenty roe-deer packs and one red-deer pack, keeping the breed primarily in traditional hunting kennels.",
 
     originalPurpose:
-      "Hunting stag, roe deer, and large game in large organized packs across damp woodland and dense brush in France.",
+      "Hunting red deer (stag) and roe deer in organized packs across thick woodland and wet terrain in France.",
 
     currentRoles: [
-      "Traditional pack scenthound for stag and deer hunting",
-      "Trailing, blood tracking, and wilderness scent-search partner",
-      "Endurance hiking and rural outdoor companion for active owners"
+      "Traditional pack scenthound for roe-deer and red-deer hunting",
+      "Large-game trailing and rural scent-tracking partner",
+      "High-endurance rural companion for experienced hound owners"
     ]
   },
 
@@ -82,64 +80,59 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
     weight: {
       unit: "kg",
       male: {
-        min: 28,
-        max: 35
+        min: 35,
+        max: 40
       },
       female: {
-        min: 25,
-        max: 32
+        min: 35,
+        max: 40
       }
     },
 
     lifespanYears: {
       min: 10,
-      max: 13
+      max: 12
     },
 
     coatType:
-      "Short, rather strong, close-lying, and dense single coat providing solid protection against dense brush and damp woodland terrain.",
+      "Short, dense, and fairly strong close-lying coat built to withstand thick undergrowth and damp terrain.",
 
     coatLength: "Short",
 
     coatColors: [
-      "White and black with a large black mantle, black spots, and more or less extensive black or blue ticking on the white areas",
-      "White and black with pale tan points above each eye, on the cheeks, below the eyes, below the ears, and at the root of the tail",
-      "White and black featuring a pale tan 'roebuck mark' on the thigh"
+      "White and black with a broad black mantle, black spots, and black or bluish ticking",
+      "White and black with pale tan points above the eyes, on the cheeks, beneath the eyes and ears, and at the base of the tail (small tan ticks permitted only on the limbs)",
+      "White and black with a pale tan 'roebuck mark' on the thigh"
     ],
 
     sheddingLevel:
-      "Moderate; the short, dense coat sheds moderately year-round, with slightly increased shedding during seasonal weather transitions",
+      "Moderate; the short, dense coat sheds steadily year-round with seasonal increases",
 
     droolingLevel:
-      "Moderate; distinctly square flews with the upper lip overlapping the lower lip produce moderate drool, especially after drinking or exertion",
+      "Moderate; square-cut upper lips overlapping the lower jaw can produce moderate drool after drinking or running",
 
     distinctiveFeatures: [
-      "Large, powerful, square-proportioned pack hound silhouette where body length from shoulder point to buttock equals height at the withers",
-      "Height at the withers of 65 to 72 cm for males and 62 to 68 cm for females (with a tolerance of 1 cm more or less)",
-      "Working weight of approximately 28 to 35 kg for males and 25 to 32 kg for females in lean, athletic condition",
-      "Short, dense white-and-black coat featuring a black mantle, pale tan eyebrow spots, and frequent pale tan 'roebuck marks' on the thighs",
-      "Strong, relatively short head with parallel skull and muzzle lines, broad flat skull, and well-defined stop",
-      "Complete, regular scissor bite with powerful jaws and sound teeth",
-      "Relatively deep-set dark brown eyes with a gentle, frank expression",
-      "Medium-length drop ears set broadly at eye level, flat at the base and curling inward toward slightly pointed tips",
-      "Strong, rather short neck tolerating a slight dewlap, blending smoothly into long, well-muscled shoulders",
-      "Broad, deep chest let down to the elbows with long, well-sprung ribs and a straight, well-sustained back",
-      "Long, straight tail strong at the root and tapering to a slender tip, carried above the topline in action without curving vertically",
-      "Heavy-boned, upright forelegs and muscular thighs with thick, large, round feet"
+      "Tall, heavily boned, robust pack-hound build reflecting Gascon-Saintongeois heritage",
+      "Withers height of 65 to 72 cm for males and 62 to 68 cm for females",
+      "Short, dense, sturdy white-and-black coat with a broad black mantle, pale tan eyebrow spots, and a frequent pale tan 'roebuck mark' on the thigh",
+      "Strong head with a clear stop and square, overlapping upper lips",
+      "Dark brown eyes with a friendly, open expression",
+      "Medium-length drop ears reaching at most two fingers behind the start of the nose when drawn forward, tapering toward a point",
+      "Strong neck flowing into muscular shoulders and a broad, deep chest",
+      "Long, straight tail thick at the root and tapering cleanly, carried above the topline in action without reaching vertical",
+      "Heavy-boned legs and sturdy feet built for sustained galloping over wet, bushy ground"
     ]
   },
 
   temperament: {
     traits: [
-      "Friendly, gentle, and affectionate with people",
-      "Exceptionally sociable and peaceful with other dogs, reflecting centuries of pack living",
-      "Energetic, tireless, and driven by strong olfactory instincts outdoors",
-      "Deep, resonant, and melodious baying voice used during scent trailing",
-      "Calm, docile, and easy to manage in kennel or structured rural settings",
-      "Independent problem-solver when following an enticing scent trail",
-      "Welcoming and non-aggressive toward strangers, making an ineffective guard dog",
-      "High prey drive toward deer, hares, and small wild mammals",
-      "Single-minded and focused on scent trails, requiring secure containment"
+      "Friendly, approachable, and comfortable around people",
+      "Highly sociable and peaceful with other dogs in pack life",
+      "Courageous, tireless, fast, and tenacious on a scent trail",
+      "Deep, resonant baying voice while hunting",
+      "Docile and straightforward to handle in kennel routines",
+      "Independent and single-minded once locked onto game scent",
+      "Work-focused with strong prey drive toward deer and wildlife"
     ],
 
     scores: {
@@ -158,7 +151,7 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
   care: {
     exercise: {
       level:
-        "Very high; an endurance pack scenthound built for extended galloping and sustained outdoor olfactory tracking",
+        "Very high; a large pack scenthound bred for hours of sustained galloping and scent tracking across rugged woodland",
 
       minutesPerDay: {
         min: 90,
@@ -166,10 +159,10 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
       },
 
       activities: [
-        "Daily long trail hikes, brisk running, and vigorous aerobic outdoor exercise",
-        "Trailing, blood tracking, and woodland scent-search games",
-        "Free running and pack play in a large, securely fenced paddock or rural acreage",
-        "Canicross, bikejoring, and endurance wilderness trekking"
+        "Long daily trail hikes, brisk runs, and wide-ranging outdoor conditioning",
+        "Structured scent tracking and woodland trailing exercises",
+        "Supervised free running in a spacious, securely fenced rural paddock",
+        "Pack walks or companion exercise with other sociable hounds"
       ]
     },
 
@@ -177,34 +170,32 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once weekly with a rubber hound glove or firm bristle brush to remove dead hairs and distribute natural skin oils.",
+        "Brush once a week with a rubber grooming mitt or firm bristle brush to remove loose hair and brush out dried mud.",
 
       bathing:
-        "Bathe every six to eight weeks or when muddy after woodland outings, using a gentle canine shampoo.",
+        "Bathe only when noticeably muddy or soiled, using a mild canine shampoo.",
 
       notes: [
-        "The short, dense coat is naturally dirt-repellent and dries quickly after wet hunts.",
-        "Inspect the medium-length curling drop ears weekly for moisture, wax buildup, or debris, wiping gently with an approved veterinary cleanser.",
-        "Check paw pads, toes, and skin for thorns, burrs, or ticks after running through dense forest undergrowth.",
-        "Trim hard, fast-growing nails every two to three weeks to maintain large, round foot alignment.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste."
+        "Inspect the medium-length drop ears weekly and after wet outings for moisture, wax, or debris.",
+        "Check paws, toes, belly, and ear tips for ticks, burrs, or thorn scrapes after woodland runs.",
+        "Trim strong nails every two to three weeks.",
+        "Brush teeth several times a week with canine enzymatic toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; friendly, docile, and eager to please its handler, yet possesses powerful independent scenting instincts that require patient, reward-based training",
+        "Moderate; friendly and kennel-docile, yet requires firm, consistent guidance to manage powerful independent hunting and scent-chasing drives",
 
       tips: [
-        "Use positive reinforcement, high-value aromatic food treats, and calm vocal praise.",
-        "Always exercise within a securely fenced area of at least six feet in height or on a sturdy leash, as wildlife scents trigger immediate pursuit and selective hearing.",
-        "Begin recall conditioning and loose-leash walking in early puppyhood before substantial adult pulling strength develops.",
-        "Teach a quiet command early to help manage deep, resonant hound baying.",
-        "Avoid harsh verbal reprimands or physical punishment, which cause this gentle hound to withdraw."
+        "Use firm, calm, consistent leadership paired with high-value food rewards.",
+        "Keep the dog on a sturdy leash or inside a tall, securely fenced property, as fresh wildlife scents easily override recall.",
+        "Start leash manners and impulse control early before full adult pulling strength develops.",
+        "Avoid harsh physical punishment, which undermines trust in a friendly pack hound."
       ],
 
       socialization:
-        "Introduce the puppy early, gradually, and positively to diverse people, household noises, vehicles, and novel urban or suburban environments so a hound bred for rural pack kennels adapts smoothly to domestic life."
+        "Introduce puppies early and gradually to household noises, traffic, unfamiliar people, and routine handling—especially if a dog from working kennel lines is adapting to a family home."
     },
 
     livingEnvironment: {
@@ -213,80 +204,73 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool and damp woodland climates, where the dense coat and heavy bone excel",
-        "Warm climates, provided shade, cool indoor shelter, and fresh water are continuously available and exercise occurs during cooler hours"
+        "Cool and damp woodland climates, where the dense coat and hardy build excel",
+        "Warmer climates only with shade, cool shelter, constant fresh water, and exercise timed for cooler hours"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; bred to live and work in large canine packs and prone to separation distress or loud baying if left isolated alone without human or canine companionship."
+        "Low to moderate; shaped for life in large packs and prone to restlessness or loud baying if kept isolated without canine or human company."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large active working breeds, adjusted for age, seasonal hunting workload, and metabolic rate.",
+      "Complete, balanced large-breed dog food matched to life stage and outdoor working or exercise workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a large-breed growth formula supporting steady skeletal development.",
+        "Three to four measured small meals daily until about six months old, then two daily meals on a large-breed growth formula.",
       adult:
-        "Two measured meals daily to support steady energy and reduce digestive discomfort.",
+        "Two measured meals daily to sustain endurance energy and avoid overly large single meals.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output, joint support, and lean muscle retention."
+        "Two portion-controlled meals daily adjusted for lower activity and joint support."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, muscular body silhouette where the ribs are easily felt beneath the short coat. Divide daily food into two distinct meals, restrict vigorous running for at least one hour before and after eating to mitigate bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure portions carefully to maintain a lean, muscular frame with ribs easily felt under the short coat. Split daily rations into two meals, avoid vigorous running around mealtimes as a practical precaution against bloat, and keep clean water available continuously.",
 
     considerations: [
-      "Maintain a lean, athletic body condition; excess weight places unnecessary mechanical stress on hips and elbows.",
-      "Account for training treats within the total daily caloric allowance to prevent creeping weight gain.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Increase caloric and protein density during active autumn and winter hunting seasons.",
-      "Avoid feeding high-fat table scraps that can trigger digestive upset or acute pancreatitis.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep weight lean to protect large-breed hips and elbows.",
+      "Rest the dog for at least an hour before and after meals to help reduce bloat risk.",
+      "Adjust calories upward during active hunting seasons and downward during quieter periods.",
+      "Transition between food formulas gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly based on pack hunting activity, outdoor temperature, and daily exercise intensity. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Daily calorie needs vary substantially between active pack hunting and rural companion life. Work with a veterinarian to set appropriate portions."
   },
 
   health: {
     overview:
-      "The Grand Anglo-Français Blanc et Noir is a robust, functional, and constitutionally hardy large French scenthound with a typical life expectancy of 10 to 13 years. Having been bred strictly for working endurance in the field without artificial cosmetic exaggerations, it enjoys strong overall vitality. Primary health priorities include orthopedic screening for hip and elbow dysplasia, routine ear hygiene for drop ears prone to otitis externa, and preventive precautions against gastric dilatation-volvulus (bloat) in deep-chested individuals.",
+      "The Grand Anglo-Français Blanc et Noir is a rare, functionally bred working pack hound with a typical lifespan of 10 to 12 years and no widely published breed-specific genetic health surveys. Health management focuses on routine preventive priorities for large, deep-chested, drop-eared hounds: protecting against gastric dilatation-volvulus (bloat), keeping drop ears clean and dry to prevent ear infections, monitoring large-breed joints, and checking for field injuries after woodland work.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and stiffness, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in large deep-chested hounds, requiring emergency veterinary care",
-      "Chronic otitis externa — bacterial and yeast ear infections promoted by drop ears that restrict canal ventilation and trap moisture after damp woodland hunts",
-      "Traumatic outdoor injuries — minor cuts, thorn punctures, or pad abrasions sustained while galloping through dense brush and thorns"
+      "Otitis externa (ear infections) — a general conformational risk in drop-eared hounds that work in wet cover, preventable through weekly ear checks and drying",
+      "Gastric dilatation-volvulus (bloat) — a general life-threatening conformational risk in large, deep-chested breeds requiring emergency veterinary care",
+      "Large-breed joint wear (such as hip or elbow dysplasia) — general orthopedic risks in tall, heavy-boned breeds, best managed with lean weight and controlled puppy growth",
+      "Field and brush injuries — minor cuts, thorn punctures, ticks, or paw abrasions picked up during dense woodland runs"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic clearances for hips and elbows, alongside routine veterinary eye examinations.",
-      "Feed two smaller meals daily and avoid vigorous running for at least one hour before and after eating to mitigate bloat risk.",
-      "Maintain a lean, muscular body condition throughout growth and adulthood to minimize mechanical wear on joints.",
-      "Inspect and clean the drop ears weekly, wiping canals gently with an approved veterinary cleanser.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Feed two smaller meals daily and avoid intense running immediately before or after eating to reduce bloat risk.",
+      "Check and gently clean drop ears weekly, especially after wet or muddy outings.",
+      "Keep weight lean and avoid heavy repetitive jumping during puppy growth to protect developing joints.",
+      "Maintain year-round tick, flea, and parasite prevention along with annual veterinary wellness exams."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Clinical orthopedic and cardiovascular examination by a veterinarian"
+      "General large-breed orthopedic evaluation (hips and elbows) prior to breeding",
+      "Routine veterinary wellness, cardiac auscultation, and eye checks"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has strong jaws with a complete 42-tooth scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times weekly using canine enzymatic toothpaste and schedule regular veterinary dental checks.",
 
     earCare:
-      "Inspect the curling medium-length drop ears weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the medium-length drop ears every week and after damp runs for wax, moisture, or odor; clean gently with a veterinarian-recommended cleanser and dry thoroughly.",
 
     skinCare:
-      "Part the short, dense coat weekly during brushing to inspect the skin for external parasites, ticks, or brush scratches. Check ear tips and undercarriage after woodland runs."
+      "Check the short coat, paws, and undercarriage weekly for ticks, burrs, or brush scrapes after outdoor outings."
   },
 
   suitability: {
@@ -297,85 +281,92 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Active rural households, hunters, and endurance hikers who enjoy vigorous daily outdoor exploration",
-      "Multi-dog homes that appreciate exceptionally sociable, pack-friendly hound dynamics",
-      "Experienced hound owners who understand intense scenting drive, loud baying voice, and secure containment",
-      "Properties with expansive, securely fenced rural acreage or large yards of at least six feet in height"
+      "Rural households, hunters, and experienced hound handlers with ample outdoor space",
+      "Multi-dog homes that value friendly, pack-oriented sociability",
+      "Highly active owners able to provide 90 to 120 minutes of daily outdoor exercise and scent work",
+      "Properties with large, securely fenced yards or countryside acreage"
     ],
 
     notIdealFor: [
-      "Apartment, condominium, or dense suburban dwellers where loud, resonant hound baying will disturb neighbors",
-      "First-time dog owners or sedentary individuals unprepared for high physical endurance and strong olfactory drive",
-      "Owners seeking a reliable off-leash companion in unfenced areas",
-      "Households where the dog will be left alone in isolation without human or canine company"
+      "City, apartment, or dense suburban homes where space is limited and resonant baying disturbs neighbors",
+      "First-time or sedentary owners unprepared for intense scenting drive and endurance needs",
+      "People expecting reliable off-leash walking in unfenced wildlife areas",
+      "Households where the hound would be kept alone all day without company"
     ]
   },
 
   funFacts: [
-    "In France, the Grand Anglo-Français Blanc et Noir is a premier stag-hunting hound, with roughly 2,000 purebred dogs forming large working packs of twenty or more hounds.",
-    "Until 1957, this distinguished breed was officially known in France as the 'Bâtard Anglo-Saintongeois' (Anglo-Saintongeois crossbreed), honoring its nineteenth-century creation from ancient Saintongeois hounds and imported English Foxhounds.",
-    "A classic hallmark of the breed's coat pattern is the pale tan 'roebuck mark' frequently appearing on the back of the thighs, alongside subtle pale tan dots above each eye.",
-    "Because it has lived and worked in large canine packs for generations, the Grand Anglo-Français Blanc et Noir is virtually devoid of dog aggression and thrives best when living alongside another dog.",
-    "When galloping across damp forest terrain, the hound sounds a deep, ringing, melodious cry inherited from its Gascon-Saintongeois ancestors that carries for miles."
+    "In France, roughly 2,000 Grand Anglo-Français Blanc et Noir hounds sustain about twenty roe-deer packs and one red-deer pack, making it a living working pack breed.",
+    "Before 1957, the breed was called the Bâtard Anglo-Saintongeois, reflecting its mid-nineteenth-century creation from Saintongeois scenthounds and English Foxhounds.",
+    "A classic breed signature is the pale tan 'roebuck mark' frequently seen on the thigh, paired with pale tan spots above each eye.",
+    "Because the breed was developed to live and hunt in large packs, it is notably friendly with people and calm and easy to manage in kennels.",
+    "French breeders valued the cross for combining English structural vigor and bone with the classic French cold nose and carrying hunting voice."
   ],
 
   faq: [
     {
-      question: "What is a Grand Anglo-Français Blanc et Noir?",
+      question: "What kind of dog is a Grand Anglo-Français Blanc et Noir?",
       answer:
-        "The Grand Anglo-Français Blanc et Noir (Great Anglo-French White and Black Hound) is a large, powerful French pack scenthound bred for stag and deer hunting, recognized for its crisp white-and-black coat with pale tan facial points, deep baying voice, and gentle, sociable temperament."
+        "It is a large, sturdy French pack scenthound bred for hunting roe deer and red deer in woodland packs, known for its white-and-black mantle, pale tan facial points, strong bone, and friendly kennel temperament."
     },
     {
-      question: "How tall and heavy is a Grand Anglo-Français Blanc et Noir?",
+      question: "How tall and heavy does a Grand Anglo-Français Blanc et Noir get?",
       answer:
-        "Adult males stand 65 to 72 cm at the withers and weigh approximately 28 to 35 kg, while adult females stand 62 to 68 cm and weigh approximately 25 to 32 kg in lean, muscular working condition."
+        "Males stand 65 to 72 cm at the withers and females stand 62 to 68 cm, with adults typically weighing around 35 to 40 kg depending on build and sex."
     },
     {
-      question: "How long does a Grand Anglo-Français Blanc et Noir live?",
+      question: "What is the average lifespan of a Grand Anglo-Français Blanc et Noir?",
       answer:
-        "With proper nutrition, regular exercise, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 10 to 13 years."
+        "Most live roughly 10 to 12 years with good nutrition, lean weight control, and routine veterinary care."
     },
     {
-      question: "Do Grand Anglo-Français Blanc et Noirs shed a lot, and how are they groomed?",
+      question: "How much grooming does a Grand Anglo-Français Blanc et Noir need?",
       answer:
-        "They shed moderately year-round. Their short, dense coat is very low-maintenance, requiring only a weekly brushing with a rubber hound glove or bristle brush, regular ear checks, and occasional nail trimming."
+        "Very little coat upkeep: a weekly brushing with a rubber hound glove or bristle brush handles its short, dense coat, paired with weekly ear checks and regular nail trims."
     },
     {
-      question: "Can a Grand Anglo-Français Blanc et Noir live in an apartment?",
+      question: "Can a Grand Anglo-Français Blanc et Noir live in an apartment or city?",
       answer:
-        "No. Due to its large size, very high endurance exercise requirements, and loud baying voice, the breed is unsuited to apartment living and requires a rural property or house with a large, securely fenced yard."
+        "No. It is a large pack hound bred for rural kennels and wide countryside; it needs substantial space, vigorous daily exercise, and a setting where hound baying will not disturb neighbors."
     },
     {
-      question: "Are Grand Anglo-Français Blanc et Noirs good with other dogs and children?",
+      question: "Are Grand Anglo-Français Blanc et Noirs good with other dogs and people?",
       answer:
-        "Yes. Having been bred for generations to hunt in large packs, they are extraordinarily friendly and peaceful with other dogs, as well as gentle and affectionate with people and respectful children."
+        "Yes. Generations of pack hunting have produced a friendly, approachable hound that is easy to manage around people and exceptionally sociable with other dogs."
     },
     {
-      question: "How much exercise does a Grand Anglo-Français Blanc et Noir need each day?",
+      question: "How much daily exercise does a Grand Anglo-Français Blanc et Noir need?",
       answer:
-        "The breed requires 90 to 120 minutes of daily vigorous physical activity, such as long trail hikes, running, tracking, or free running in a securely fenced rural area."
+        "Plan on 90 to 120 minutes of vigorous daily outdoor activity, such as long trail hikes, running, tracking, or free exercise in a large, securely fenced rural area."
     },
     {
-      question: "What health screenings are recommended for breeding dogs?",
+      question: "What health considerations should owners keep in mind?",
       answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, along with annual veterinary ophthalmologist eye exams."
+        "No widespread breed-specific genetic diseases are documented in this rare pack hound, so care centers on general large-breed priorities: preventing bloat with divided meals and post-meal rest, keeping drop ears clean and dry, and monitoring joints."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-grand-anglo-francais-blanc-et-noir-official-standard",
     "fci-grand-anglo-francais-blanc-et-noir-nomenclature",
     "scc-grand-anglo-francais-blanc-et-noir-standard",
-    "wikimedia-grand-anglo-francais-noir-alephalpha"
+    "wikimedia-grand-anglo-francais-noir-alephalpha",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Canis lupus familiaris (Domestic Dog) taxonomic record"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Domestic dog taxonomic name verified via NatureServe Explorer."
     },
 
     alternateNames: {
@@ -389,11 +380,16 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "fci-grand-anglo-francais-blanc-et-noir-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: GREAT ANGLO-FRENCH WHITE AND BLACK HOUND (323), Großer Anglo-Französischer Weiß-Schwarzer Laufhund, Gran Sabueso Anglo-Francés Blanco y Negro"
+          locator: "Official nomenclature (No. 323): GREAT ANGLO-FRENCH WHITE AND BLACK HOUND, GRAND ANGLO-FRANÇAIS BLANC ET NOIR, GROSSER ANGLO-FRANZ.WEISS-SCHWARZER LAUFHUND, GRAN SABUESO ANGLO-FRANCÉS BLANCO Y NEGRO"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Great Anglo-French White and Black Hound"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified across FCI Standard No. 323, FCI Nomenclature, and SCC."
+      verifiedOn: "2026-11-26",
+      note: "Verified across FCI Standard No. 323, FCI Nomenclature, SCC, and The Dog API."
     },
 
     group: {
@@ -407,12 +403,16 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "fci-grand-anglo-francais-blanc-et-noir-nomenclature",
           role: "verified",
-          locator: "Group 6, Section 1.1 Large-sized Hounds, with working trial"
+          locator: "Group 6, Section 1 Scent hounds, Subsection Large-sized Hounds, subject to a working trial"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Hound"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-26",
+      note: "User-facing group label omits registry names per Rule 5."
     },
 
     origin: {
@@ -421,15 +421,25 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
           role: "verified",
-          locator: "ORIGIN: France; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: France"
         },
         {
           id: "fci-grand-anglo-francais-blanc-et-noir-nomenclature",
           role: "verified",
-          locator: "Country of origin: France"
+          locator: "Country of origin: FRANCE"
+        },
+        {
+          id: "scc-grand-anglo-francais-blanc-et-noir-standard",
+          role: "verified",
+          locator: "Historique: Bâtard Anglo-Saintongeois (Chien de Saintonge x Fox Hound), France"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: France"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -439,17 +449,21 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY (1957 naming, ~2,000 population, Gascon-Saintongeois x Foxhound), GENERAL APPEARANCE"
+          locator: "Standard No. 323: French pack hound, white-and-black mantle, deer hunting"
         },
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "verified",
-          locator: "Historique, utilisation pour la chasse à courre et caractère"
+          locator: "Description générale, Historique (~2000 chiens, ~200 naissances/an, ~20 équipages de chevreuil et 1 de cerf), Comportement"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesized in original prose from FCI Standard No. 323 and SCC official records."
+      verifiedOn: "2026-11-26",
+      note: "Written in original prose grounded in FCI Standard No. 323 and Société Centrale Canine records."
     },
 
     physical: {
@@ -458,17 +472,21 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS (square 1:1 ratio), HEAD, BODY, TAIL, LIMBS, COAT, COLOUR (roebuck mark), SIZE"
+          locator: "Standard No. 323: Coat, colour, ears, tail, and conformation"
         },
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "verified",
-          locator: "Morphologie, robe blanc et noir, marque de chevreuil, taille et poids"
+          locator: "Description générale: poil ras assez fort et serré, blanc et noir à grand manteau, feu pâle aux yeux/joues/oreilles/queue, marque de chevreuil, oreilles et queue"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.coat_colors (broader unstandardized colour list excluded in favor of obligatory white-and-black pattern)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Square 1:1 proportions, short dense white-and-black coat with pale tan points and roebuck mark, and distinctive features follow official standards."
+      verifiedOn: "2026-11-26",
+      note: "Coat colour follows FCI Standard No. 323 and SCC (obligatory white and black with pale tan points and frequent roebuck mark), excluding The Dog API's broad unstandardized colour list."
     },
 
     "physical.height": {
@@ -477,70 +495,78 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at withers: Males: 65 to 72 cm; Females: 62 to 68 cm. With tolerance of +/- 1 cm."
+          locator: "SIZE: Males 65-72 cm; Females 62-68 cm"
         },
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "verified",
-          locator: "Taille au garrot: Mâles 65 à 72 cm; Femelles 62 à 68 cm (+/- 1 cm)"
+          locator: "TAILLE: Mâles 65 à 72 cm; Femelles 62 à 68 cm"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height: male 65-72 cm, female 62-70 cm"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Preserved in published unit of centimetres (65–72 cm for males and 62–68 cm for females) exactly as specified in FCI Standard No. 323 and SCC standard."
+      verifiedOn: "2026-11-26",
+      note: "Preserved in published centimetres from FCI Standard No. 323 and SCC (65-72 cm males, 62-68 cm females), which supersedes The Dog API's 62-70 cm female upper bound."
     },
 
     "physical.weight": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "scc-grand-anglo-francais-blanc-et-noir-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Poids indicatif: Environ 25 à 35 kg selon le sexe et le format"
+          locator: "breed.weight.metric: 35-40 kg (single breed range)"
+        },
+        {
+          id: "scc-grand-anglo-francais-blanc-et-noir-standard",
+          role: "conflicting",
+          locator: "Caractéristiques — Poids: Environ 25 kg"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FCI Standard No. 323 specifies height without fixing a numerical weight. The stored 28 to 35 kg for males and 25 to 32 kg for females represent canonical working ranges aligned with SCC published weight profiles, preserved in kilograms."
+      verifiedOn: "2026-11-26",
+      note: "FCI Standard No. 323 does not specify weight. Stored range (35-40 kg) comes from The Dog API; Société Centrale Canine's summary sidebar lists 'Environ 25 kg' without a range."
     },
 
     "physical.lifespanYears": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "scc-grand-anglo-francais-blanc-et-noir-standard",
+          id: "the-dog-api",
           role: "verified",
-          locator: "Longévité moyenne des grands chiens courants (10 à 13 ans)"
+          locator: "breed.life_span: 10-12 years"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Supported by French kennel club large scenthound actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Verified from The Dog API; neither FCI Standard No. 323 nor the SCC breed page publishes a lifespan."
     },
 
     "physical.sheddingLevel": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
-          id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
-          role: "verified",
-          locator: "COAT: Short, quite strong and dense"
+          id: "scc-grand-anglo-francais-blanc-et-noir-standard",
+          role: "cited",
+          locator: "Poil: Ras, assez fort et serré"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: null
+      verifiedOn: null,
+      note: "General expectation for short, dense hound coats."
     },
 
     "physical.droolingLevel": {
-      reliability: "official_standard",
+      reliability: "general_guidance",
       sources: [
         {
           id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
-          role: "verified",
-          locator: "Lips: Flews are distinctly square, upper lip overlaps lower lip well"
+          role: "cited",
+          locator: "Head / Lips conformation"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Distinctly square, overlapping upper flews result in moderate drooling."
+      verifiedOn: null,
+      note: "Moderate drooling expectation based on hound lip structure."
     },
 
     "temperament.traits": {
@@ -549,15 +575,20 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Friendly dog, close to humans and easy to manage in kennels; excels in hunting stag and deer"
+          locator: "BEHAVIOUR/TEMPERAMENT: Friendly dog, close to humans, easy to manage in kennels"
         },
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "verified",
-          locator: "Comportement: Doux, sociable en meute, proche de l'homme"
+          locator: "Description générale & Comportement: amical, proche de l'homme, facile au chenil, passionné de chasse, résistant, courageux, puissant, rapide et tenace"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament: Energetic, courageous, intelligent, independent, work-focused"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -567,12 +598,11 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "cited",
-          locator: "Tempérament et aptitudes en meute"
+          locator: "Comportement et aptitudes en meute"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented French pack scenthound temperament, high dog sociability, and endurance energy."
+      note: "Editorial 1-5 scores reflecting verified French pack-hound sociability, high stamina, and hunting drive."
     },
 
     care: {
@@ -581,24 +611,23 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "cited",
-          locator: "Entretien, activité physique et conditions de vie"
+          locator: "Comportement (éducation ferme) et Vivre en ville (espace et exercice)"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines large pack scenthound management with low-maintenance short-coat grooming and drop-ear care protocols."
+      note: "General large pack-hound management, short-coat care, and drop-ear hygiene guidance."
     },
 
     "care.exercise.level": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
+          id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "verified",
-          locator: "UTILIZATION: Large pack hunting hound built for extended gallop"
+          locator: "Vivre en ville & Comportement: résistant, rapide, besoin d'espace et d'exercice"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -608,26 +637,24 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "cited",
-          locator: "Besoins élevés d'exercice et de grands espaces"
+          locator: "Vivre en ville: besoin d'espace et d'exercice"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 90 to 120 minutes of daily activity reflects the high endurance demands of a large stag-hunting scenthound."
+      note: "Editorial estimate of 90 to 120 minutes daily for a large endurance pack hound."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
-      reliability: "estimate",
+      reliability: "reliable_source",
       sources: [
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
-          role: "cited",
-          locator: "Vie en appartement déconseillée; besoin de grands espaces ruraux"
+          role: "verified",
+          locator: "Vivre en ville: Les Anglo-Français ne sont pas adaptés à la vie en ville"
         }
       ],
-      verifiedOn: null,
-      note:
-        "Editorial evaluation that large size, intense endurance needs, and resonant baying voice make apartment living unsuitable."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -636,10 +663,10 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "verified",
-          locator: "Terrain clôturé ou propriété rurale recommandée"
+          locator: "Vivre en ville: chiens de meute vivant en chenil, besoin d'espace"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -647,12 +674,12 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
       reliability: "reliable_source",
       sources: [
         {
-          id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
+          id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "verified",
-          locator: "UTILIZATION: Excels in hunting on damp or bushy terrain"
+          locator: "Description générale: excelle dans les territoires fourrés ou humides"
         }
       ],
-      verifiedOn: "2026-11-12",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -662,7 +689,7 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "cited",
-          locator: "Chien de meute sociable supportant mal la solitude prolongée"
+          locator: "Vivre en ville: chiens de meute"
         }
       ],
       verifiedOn: null,
@@ -675,12 +702,11 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "cited",
-          locator: "Alimentation des grands chiens courants de travail"
+          locator: "Large working pack-hound profile"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for large active pack scenthounds."
+      note: "General nutritional guidance for large active scenthounds."
     },
 
     "nutrition.feedingFrequency": {
@@ -689,39 +715,37 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "cited",
-          locator: "Fractionnement des repas quotidiens"
+          locator: "Large-breed meal-splitting best practices"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule for large breeds."
+      note: "Standard large-breed life-stage feeding schedule."
     },
 
     "health.overview": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
-          role: "verified",
-          locator: "Santé robuste, suivi articulaire (dysplasie) et prévention de la dilatation-torsion de l'estomac"
+          role: "cited",
+          locator: "Robust large drop-eared working hound conformation"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Synthesizes French kennel club health data with large deep-chested hound veterinary priorities."
+      verifiedOn: null,
+      note: "No breed-specific genetic health studies are established for this rare pack hound; guidance reflects general large, deep-chested, drop-eared hound veterinary care."
     },
 
     "health.commonConditions": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
-          role: "verified",
-          locator: "Dysplasie de la hanche et du coude, otites externes et torsion gastrique"
+          role: "cited",
+          locator: "General conformational risks (drop ears, deep chest, large joints, woodland field exposure)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Details documented conformational and environmental conditions in original prose without prohibited registry terms."
+      verifiedOn: null,
+      note: "Lists general conformational and working risks rather than claiming proven breed-specific hereditary prevalence."
     },
 
     "health.preventiveCare": {
@@ -730,25 +754,24 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "cited",
-          locator: "Soins préventifs des oreilles tombantes et repos après les repas"
+          locator: "General large pack-hound preventive care"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to large drop-eared scenthounds."
+      note: "Standard preventive care for large drop-eared woodland hounds."
     },
 
     "health.recommendedScreenings": {
-      reliability: "reliable_source",
+      reliability: "general_guidance",
       sources: [
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
-          role: "verified",
-          locator: "Dépistages recommandés: radiographie des hanches et des coudes, examen oculaire"
+          role: "cited",
+          locator: "General large-breed pre-breeding orthopedic and wellness checks"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "Screenings summarize published national kennel club protocols."
+      verifiedOn: null,
+      note: "Neither FCI nor SCC lists a mandatory breed-specific genetic test panel; screenings reflect general large-breed veterinary best practice."
     },
 
     "health.dentalCare": {
@@ -757,37 +780,37 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: scissor bite, strong jaws"
+          locator: "Jaws/teeth"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine dental hygiene guidance."
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
+          id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "cited",
-          locator: "Ears: set broadly at eye level, flat at base then curling towards end"
+          locator: "Oreilles de longueur moyenne se terminant plutôt en pointe"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for curling drop ears."
+      note: "Routine drop-ear inspection and cleaning guidance."
     },
 
     "health.skinCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
+          id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "cited",
-          locator: "Skin: white under white hair, black under black hair with blue/pale blue patches on belly"
+          locator: "Poil ras, assez fort et serré"
         }
       ],
       verifiedOn: null,
-      note: "General skin and short-coat care guidelines."
+      note: "General short-coat and field-injury inspection guidance."
     },
 
     suitability: {
@@ -796,25 +819,29 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "cited",
-          locator: "Profil des propriétaires et conditions d'accueil"
+          locator: "Vivre en ville et Comportement"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, pack needs, and high exercise demands."
+      note: "Editorial suitability assessment reflecting rural pack-hound space and exercise demands."
     },
 
     funFacts: {
       reliability: "reliable_source",
       sources: [
         {
+          id: "scc-grand-anglo-francais-blanc-et-noir-standard",
+          role: "verified",
+          locator: "Historique (~2000 chiens, ~20 équipages de chevreuil et 1 de cerf, Bâtard Anglo-Saintongeois), Description générale (marque de chevreuil, amical, facile au chenil), Comportement"
+        },
+        {
           id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
           role: "verified",
-          locator: "Brief historical summary: 1957 removal of 'Bâtard Anglo-Saintongeois' name, ~2,000 subjects, packs of 20+ hounds, roebuck mark"
+          locator: "Standard No. 323: 1957 breed naming and roebuck mark"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note: "Verified historical heritage and coat-marking facts."
+      verifiedOn: "2026-11-26",
+      note: "Verified French pack-hunting history and coat-marking facts written in original prose."
     },
 
     faq: {
@@ -823,19 +850,23 @@ export const grand_anglo_francais_blanc_et_noir: Breed = {
         {
           id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
           role: "verified",
-          locator: "Origin, height (65-72 cm / 62-68 cm), coat, and pack sociability"
+          locator: "Origin, height (65-72 cm / 62-68 cm), coat, and temperament"
         },
         {
           id: "scc-grand-anglo-francais-blanc-et-noir-standard",
           role: "verified",
-          locator: "Weight (25-35 kg), lifespan (10-13 years), apartment living, exercise, and health screenings"
+          locator: "Unsuitability for city life, pack sociability, short coat"
+        },
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "Weight (35-40 kg) and lifespan (10-12 years)"
         }
       ],
-      verifiedOn: "2026-11-12",
-      note:
-        "FAQ answers synthesize verified standards and national kennel club publications without naming registries in prose."
+      verifiedOn: "2026-11-26",
+      note: "FAQ answers synthesize verified FCI, SCC, and The Dog API records in original prose without naming registries."
     }
   },
 
-  updatedOn: "2026-11-12"
+  updatedOn: "2026-11-26"
 };

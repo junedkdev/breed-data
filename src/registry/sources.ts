@@ -16690,204 +16690,204 @@ export const sources = defineSources({
     note: "High-resolution photograph (4608 x 3456 px) of a Basset Fauve de Bretagne with a bone by Trogain (captured 2018-12-24, uploaded 2020-07-25). Licensed under CC BY-SA 4.0 International on Wikimedia Commons. Replaces earlier low-resolution file under the preserved source ID.",
     publisher: "Wikimedia Commons"
   },
-  "fci-australian-cattle-dog-official-standard": {
+"fci-australian-cattle-dog-official-standard": {
     id: "fci-australian-cattle-dog-official-standard",
     name: "FCI - Australian Cattle Dog Official Breed Standard No. 287",
     url: "https://www.fci.be/Nomenclature/Standards/287g01-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2012-12-05",
-    accessedOn: "2026-11-12",
-    note: "Official English FCI Standard No. 287 (valid standard dated 2012-10-08, published 2012-12-05). Covers Australian origin, Group 1 Sheepdogs and Cattledogs, Section 2 Cattledogs classification without working trial, 10:9 rectangular proportions, smooth double coat (2.5-4 cm), blue-mottled and red-speckled coloration, and withers height (males 46 to 51 cm, females 43 to 48 cm).",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 287 (valid standard dated 2012-10-08, English PDF published 2012-12-05). Covers Australian origin, Group 1 Sheepdogs and Cattledogs, Section 2 Cattledogs (except Swiss Cattledogs) without working trial, 10:9 proportions, smooth double coat (2.5-4 cm), blue-mottled and red-speckled colours, and withers height (males 46-51 cm, females 43-48 cm).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-australian-cattle-dog-nomenclature": {
+"fci-australian-cattle-dog-nomenclature": {
     id: "fci-australian-cattle-dog-nomenclature",
     name: "FCI - Australian Cattle Dog Breed Nomenclature (No. 287)",
     url: "https://www.fci.be/en/nomenclature/AUSTRALIAN-CATTLE-DOG-287.html",
     type: "official_breed_standard",
-    publishedOn: "2012-12-05",
-    accessedOn: "2026-11-12",
-    note: "Official FCI breed nomenclature record confirming Australia as country of origin, Group 1 Section 2 classification without working trial, definitive recognition date (1972-02-23), and multilingual names (Australian Cattle Dog, Bouvier Australien, Australischer Treibhund).",
+    publishedOn: "2012-10-08",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Australia as country of origin, Group 1 Section 2 Cattledogs (except Swiss Cattledogs) without working trial, definitive recognition date (1972-03-20), valid standard date (2012-10-08), and multilingual names (Australian Cattle Dog, Bouvier Australien, Australischer Treibhund, Boyero Australiano).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "dogs-australia-australian-cattle-dog-standard": {
+"dogs-australia-australian-cattle-dog-standard": {
     id: "dogs-australia-australian-cattle-dog-standard",
     name: "Dogs Australia (ANKC) - Australian Cattle Dog Breed Standard",
     url: "https://dogsaustralia.org.au/members/breeds/breed-standards/Australian-Cattle-Dog",
     type: "official_breed_standard",
     publishedOn: "2009-12-14",
-    accessedOn: "2026-11-12",
-    note: "Official Australian National Kennel Council (Dogs Australia / ANKC) country-of-origin breed standard detailing Thomas Hall and Bagust brothers history, Robert Kaleski 1893/1903 standard, height limits (males 46-51 cms, females 43-48 cms), working weight range (15-22 kg), and cattle-droving traits.",
+    accessedOn: "2026-11-26",
+    note: "Official Dogs Australia (ANKC) country-of-origin breed standard (Group 5 Working Dogs, last updated 2009-12-14) covering general appearance, characteristics, temperament, coat, colour, and height limits (dogs 46-51 cms, bitches 43-48 cms).",
     publisher: "Dogs Australia"
   },
-  "akc-australian-cattle-dog-breed-standard": {
+"akc-australian-cattle-dog-breed-standard": {
     id: "akc-australian-cattle-dog-breed-standard",
     name: "American Kennel Club - Official Standard of the Australian Cattle Dog",
     url: "https://images.akc.org/pdf/breeds/standards/AustralianCattleDog.pdf",
     type: "official_breed_standard",
-    publishedOn: "1993-01-12",
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed standard (Herding Group, effective January 12, 1993) establishing height (dogs 18 to 20 inches, bitches 17 to 19 inches), 10:9 proportions, smooth double coat, scissor bite, and alert, protective working temperament.",
+    publishedOn: "1999-02-24",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Herding Group; approved January 11, 1999, effective February 24, 1999) specifying height in centimetres first (dogs 46-51 cm / approx. 18-20 in; bitches 43-48 cm / approx. 17-19 in), 10:9 proportions, smooth rain-resisting double coat (2.5-4 cm), blue and red speckle colours, scissor bite, and alert protective working temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-australian-cattle-dog-breed-profile": {
+"akc-australian-cattle-dog-breed-profile": {
     id: "akc-australian-cattle-dog-breed-profile",
     name: "American Kennel Club - Australian Cattle Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/australian-cattle-dog/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official AKC breed profile covering Australian outback herding history, Blue/Red Heeler naming, Bentley Mark, Bluey longevity record, weight (35-50 lbs / approx. 15-22 kg), lifespan (12-16 years), temperament, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Herding Group, recognized 1980) covering height (18-20 in male, 17-19 in female), weight (35-50 pounds), lifespan (12-16 years), grooming, exercise, training, and National Breed Club recommended health tests (hip, elbow, ophthalmologist, BAER, PLL DNA, prcd-PRA DNA).",
     publisher: "American Kennel Club"
   },
-  "ofa-australian-cattle-dog-chic-requirements": {
+"ofa-australian-cattle-dog-chic-requirements": {
     id: "ofa-australian-cattle-dog-chic-requirements",
     name: "Orthopedic Foundation for Animals - Australian Cattle Dog CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=ACD",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Australian Cattle Dog, mandating radiographic hip dysplasia evaluation, radiographic elbow dysplasia evaluation, CAER eye examination, BAER hearing evaluation, Primary Lens Luxation (PLL) DNA test, and prcd-PRA DNA test.",
+    accessedOn: "2026-11-26",
+    note: "Official OFA Canine Health Information Center (CHIC) health testing program listing for the Australian Cattle Dog (hip, elbow, ophthalmologist, BAER hearing, Primary Lens Luxation DNA, and prcd-PRA DNA evaluations).",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "australian-cattle-dog-prcd-pra-study-2006": {
+"australian-cattle-dog-prcd-pra-study-2006": {
     id: "australian-cattle-dog-prcd-pra-study-2006",
-    name: "Identical Mutation in a Novel Retinal Gene Causes Progressive Rod-Cone Degeneration (prcd) in Dogs and Retinitis Pigmentosa in Man (Genomics 2006)",
+    name: "Identical mutation in a novel retinal gene causes progressive rod-cone degeneration in dogs and retinitis pigmentosa in humans (Genomics 2006)",
     url: "https://pubmed.ncbi.nlm.nih.gov/16938425/",
     type: "scientific",
     publishedOn: "2006-11-01",
-    accessedOn: "2026-11-12",
-    note: "Peer-reviewed scientific study (Zangerl et al., Genomics 2006;88(5):551-563, PMID 16938425) identifying the causal PRCD gene mutation responsible for progressive rod-cone degeneration (prcd-PRA) in Australian Cattle Dogs and other breeds.",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study (Zangerl et al., Genomics 2006 Nov;88(5):551-63, Epub 2006-08-30, PMID 16938425, DOI 10.1016/j.ygeno.2006.07.007) identifying the causal autosomal recessive PRCD gene mutation (TGC -> TAC) responsible for progressive rod-cone degeneration (prcd-PRA) across 18 dog breeds/varieties including the Australian Cattle Dog.",
     publisher: "Genomics / PubMed"
   },
-  "wikimedia-australian-cattle-dog-wonderchook": {
+"wikimedia-australian-cattle-dog-wonderchook": {
     id: "wikimedia-australian-cattle-dog-wonderchook",
     name: "Wikimedia Commons - File:Australian Cattle Dog Side View Looking At Camera.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Australian_Cattle_Dog_Side_View_Looking_At_Camera.jpg",
     type: "other",
     publishedOn: "2023-04-07",
-    accessedOn: "2026-11-12",
-    note: "High-resolution photograph (4032 x 3024 px) of an adult blue-mottled Australian Cattle Dog standing in side profile outdoors by Wonderchook (captured 2022-06-21, uploaded 2023-04-07). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Verified high-resolution photograph (4032 x 3024 px) of an adult blue-mottled Australian Cattle Dog in side profile outdoors by Wonderchook (captured 2022-06-21, uploaded 2023-04-07). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-australian-cattle-dog-jasperfriendlydog": {
+"wikimedia-australian-cattle-dog-jasperfriendlydog": {
     id: "wikimedia-australian-cattle-dog-jasperfriendlydog",
     name: "Wikimedia Commons - File:Australian Cattle Dog.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Australian_Cattle_Dog.jpg",
     type: "other",
     publishedOn: "2006-03-29",
-    accessedOn: "2026-11-12",
-    note: "Photograph (341 x 480 px) of an Australian Cattle Dog resting outdoors by Jasperfriendlydog (captured 2005-07-22, uploaded 2006-03-29). Released into Public Domain on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Verified photograph (341 x 480 px) of an Australian Cattle Dog cooling off in mud outdoors by Jasperfriendlydog (EXIF captured 2005-07-22, originally uploaded to English Wikipedia 2006-03-29, transferred to Wikimedia Commons 2008-02-09 by Million Moments). Released into the Public Domain by the author.",
     publisher: "Wikimedia Commons"
   },
-  "fci-grand-anglo-francais-blanc-et-noir-official-standard": {
+"fci-grand-anglo-francais-blanc-et-noir-official-standard": {
     id: "fci-grand-anglo-francais-blanc-et-noir-official-standard",
     name: "FCI - Grand Anglo-Français Blanc et Noir (Great Anglo-French White and Black Hound) Official Breed Standard No. 323",
     url: "https://www.fci.be/Nomenclature/Standards/323g06-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2008-11-04",
-    accessedOn: "2026-11-12",
-    note: "Official English FCI Standard No. 323 (valid standard dated 2007-11-27, published 2008-11-04). Covers French origin, Group 6 Scenthounds and related breeds, Section 1.1 Large-sized Hounds classification with working trial, square proportions, Gascon-Saintongeois and English Foxhound heritage, 1957 renaming, white-and-black coat with pale tan eyebrow spots and roebuck mark, and withers height (males 65 to 72 cm, females 62 to 68 cm, +/- 1 cm tolerance).",
+    publishedOn: "2009-01-12",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 323 (valid standard dated 2008-11-04; English PDF published 2009-01-12). Covers French origin, Group 6 Scenthounds and related breeds, Section 1.1 Large-sized Hounds classification with working trial, white-and-black mantle with pale tan points and roebuck mark, and withers height (males 65-72 cm, females 62-68 cm).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-grand-anglo-francais-blanc-et-noir-nomenclature": {
+"fci-grand-anglo-francais-blanc-et-noir-nomenclature": {
     id: "fci-grand-anglo-francais-blanc-et-noir-nomenclature",
     name: "FCI - Grand Anglo-Français Blanc et Noir Breed Nomenclature (No. 323)",
-    url: "https://www.fci.be/en/nomenclature/GREAT-ANGLO-FRENCH-WHITE-AND-BLACK-HOUND-323.html",
+    url: "https://www.fci.be/en/nomenclature/GRAND-ANGLO-FRANCAIS-BLANC-ET-NOIR-323.html",
     type: "official_breed_standard",
     publishedOn: "2008-11-04",
-    accessedOn: "2026-11-12",
-    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.1 classification with working trial, definitive recognition date (1983-01-27), and multilingual names (Grand Anglo-Français Blanc et Noir, Großer Anglo-Französischer Weiß-Schwarzer Laufhund, Gran Sabueso Anglo-Francés Blanco y Negro).",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 6 Section 1.1 Large-sized Hounds classification with working trial, definitive recognition date (1983-01-27), official valid standard date (2008-11-04), and multilingual names (Great Anglo-French White and Black Hound, Grand Anglo-Français Blanc et Noir, Großer Anglo-Französischer Weiß-Schwarzer Laufhund, Gran Sabueso Anglo-Francés Blanco y Negro).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "scc-grand-anglo-francais-blanc-et-noir-standard": {
+"scc-grand-anglo-francais-blanc-et-noir-standard": {
     id: "scc-grand-anglo-francais-blanc-et-noir-standard",
     name: "Société Centrale Canine - Standard et Profil du Grand Anglo-Français Blanc et Noir",
     url: "https://www.centrale-canine.fr/le-chien-de-race/grand-anglo-francais-blanc-et-noir",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-12",
-    note: "Official French kennel club (Société Centrale Canine / SCC) breed profile and standard for Grand Anglo-Français Blanc et Noir, confirming height (62-72 cm), indicative weight (approx. 25-35 kg), pack hunting utilization, and care.",
+    accessedOn: "2026-11-26",
+    note: "Official French kennel club (Société Centrale Canine / SCC) breed profile for Grand Anglo-Français Blanc et Noir, confirming Bâtard Anglo-Saintongeois origins, ~2,000 French population (~200 births/year across ~20 roe-deer packs and 1 red-deer pack), height (males 65-72 cm, females 62-68 cm), indicative weight ('Environ 25 kg'), white-and-black coat with roebuck mark, friendly kennel temperament, and unsuitability for city living.",
     publisher: "Société Centrale Canine"
   },
-  "wikimedia-grand-anglo-francais-noir-alephalpha": {
+"wikimedia-grand-anglo-francais-noir-alephalpha": {
     id: "wikimedia-grand-anglo-francais-noir-alephalpha",
     name: "Wikimedia Commons - File:Grand anglo francais noir.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Grand_anglo_francais_noir.jpg",
     type: "other",
     publishedOn: "2008-10-21",
-    accessedOn: "2026-11-12",
-    note: "Photograph (800 x 600 px) of an adult Grand Anglo-Français Blanc et Noir running at full gallop outdoors by Alephalpha (captured 2006-10-22, uploaded 2008-10-21). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Verified photograph (800 x 600 px) of an adult Grand Anglo-Français Blanc et Noir at full gallop during a drag hunt by Alephalpha (captured 2006-10-22, uploaded 2008-10-21). Dual-licensed under CC BY-SA 3.0 Unported and GFDL 1.2+ on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-picardy-spaniel-official-standard": {
+"fci-picardy-spaniel-official-standard": {
     id: "fci-picardy-spaniel-official-standard",
     name: "FCI - Picardy Spaniel (Epagneul Picard) Official Breed Standard No. 108",
     url: "https://www.fci.be/Nomenclature/Standards/108g07-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "1998-09-25",
-    accessedOn: "2026-11-13",
-    note: "Official English FCI Standard No. 108 (valid standard dated 1998-09-25). Covers French origin, Group 7 Pointing Dogs, Section 1.2 Continental Pointing Dogs (Spaniel type) classification with working trial, rustic build, thick brown-roan coat with tan points, and withers height (55 to 60 cm, tolerance up to 62 cm for males).",
+    publishedOn: "2023-08-24",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 108 (official valid standard dated 2023-06-08; English PDF published 2023-08-24). Covers French origin in Picardy, Group 7 Pointing Dogs, Section 1.2 Continental Pointing Dogs (Spaniel type) with working trial, body length ~1/10th longer than height, dense slightly wavy 'autumn leaves' coat, and updated withers height (males 57-62 cm, females 55-60 cm, +/- 2 cm tolerance).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-picardy-spaniel-nomenclature": {
+"fci-picardy-spaniel-nomenclature": {
     id: "fci-picardy-spaniel-nomenclature",
     name: "FCI - Picardy Spaniel Breed Nomenclature (No. 108)",
-    url: "https://www.fci.be/en/nomenclature/PICARDY-SPANIEL-108.html",
+    url: "https://www.fci.be/en/nomenclature/EPAGNEUL-PICARD-108.html",
     type: "official_breed_standard",
-    publishedOn: "1998-09-25",
-    accessedOn: "2026-11-13",
-    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 7 Section 1.2 classification with working trial, definitive recognition date (1954-12-14), and official multilingual name (Epagneul Picard).",
+    publishedOn: "2023-06-08",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming France as country of origin, Group 7 Section 1.2 Continental Pointing Dogs (Spaniel type) with working trial, definitive recognition date (1954-12-08), valid standard date (2023-06-08), and official names (Picardy Spaniel, Epagneul Picard, Picardie-Spaniel, Spaniel Picardo).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "scc-epagneul-picard-standard": {
+"scc-epagneul-picard-standard": {
     id: "scc-epagneul-picard-standard",
     name: "Société Centrale Canine - Standard et Profil de l'Epagneul Picard",
     url: "https://www.centrale-canine.fr/le-chien-de-race/epagneul-picard",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official French kennel club (Société Centrale Canine / SCC) breed profile and standard for Epagneul Picard, documenting Somme valley heritage, Chien d'Oysel lineage, height, weight (20-25 kg), hunting traits, and docile character.",
+    accessedOn: "2026-11-26",
+    note: "Official French kennel club (Société Centrale Canine / SCC) breed profile for Epagneul Picard, documenting Picardy wet-valley heritage, grey-and-brown coat with tan markings, docile child-friendly temperament, city adaptability with long daily walks, and 'Poids: NP' (weight not specified).",
     publisher: "Société Centrale Canine"
   },
-  "club-epagneul-picard-profile": {
+"club-epagneul-picard-profile": {
     id: "club-epagneul-picard-profile",
-    name: "Club de l'Epagneul Picard, Bleu de Picardie et Pont-Audemer - Le Picard",
-    url: "https://www.epagneul-picard.fr/la-race/",
+    name: "Club des Épagneuls de Picardie et Pont-Audemer (CEPPA) - Epagneul Picard",
+    url: "https://ceppa.fr/epagneul-picard/",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official French parent breed club portal documenting the 1908 club foundation, morphological traits, coat color rules (brown-roan with tan points), average weight (20 kg), lifespan (approx. 13 years), and health screening for hips.",
-    publisher: "Club de l'Epagneul Picard, Bleu de Picardie et Pont-Audemer"
+    accessedOn: "2026-11-26",
+    note: "Official French parent breed club (CEPPA, founded 1921 in Amiens, affiliated with SCC) breed profile covering close-range quartering, soft-mouthed land and water retrieving, docile family temperament, and litter hip dysplasia tracking.",
+    publisher: "Club des Épagneuls de Picardie et Pont-Audemer (CEPPA)"
   },
-  "ukc-picardy-spaniel-breed-standard": {
+"ukc-picardy-spaniel-breed-standard": {
     id: "ukc-picardy-spaniel-breed-standard",
     name: "United Kennel Club - Picardy Spaniel Breed Standard",
     url: "https://www.ukcdogs.com/picardy-spaniel",
     type: "official_breed_standard",
     publishedOn: "1996-01-01",
-    accessedOn: "2026-11-13",
-    note: "Official UKC breed standard (Gun Dog Group, recognized 1996) covering conformation, robust build, thick brown roan coat with tan markings, height (21.5 to 23.5 inches, males up to 24.5 inches), and pointing behavior.",
+    accessedOn: "2026-11-26",
+    note: "Preserved existing UKC source entry (Gun Dog Group); direct ukcdogs.com page could not be fetched live during 2026-11-26 verification, so primary conformation and sizing rely on the 2023 FCI Standard No. 108, SCC, and CEPPA.",
     publisher: "United Kennel Club"
   },
-  "wikimedia-epagneul-picard-lilly-m": {
+"wikimedia-epagneul-picard-lilly-m": {
     id: "wikimedia-epagneul-picard-lilly-m",
-    name: "Wikimedia Commons - File:Epagneul Picard.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Epagneul_Picard.jpg",
+    name: "Wikimedia Commons - File:Epagneul picard 685.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Epagneul_picard_685.jpg",
     type: "other",
-    publishedOn: "2007-06-25",
-    accessedOn: "2026-11-13",
-    note: "High-resolution photograph (2592 x 1944 px) of an adult brown-roan Picardy Spaniel standing in profile outdoors by Lilly M (captured 2007-06-16, uploaded 2007-06-25). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2006-11-22",
+    accessedOn: "2026-11-26",
+    note: "Verified high-resolution photograph (1818 x 1656 px) of an adult Picardy Spaniel at the 2006 Poznań World Dog Show by Pleple2000 (captured 2006-11-12, uploaded 2006-11-22). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL 1.2+) on Wikimedia Commons. Replaces earlier unverified file under the preserved source ID.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-epagneul-picard-600-tomasz-sienicki": {
+"wikimedia-epagneul-picard-600-tomasz-sienicki": {
     id: "wikimedia-epagneul-picard-600-tomasz-sienicki",
-    name: "Wikimedia Commons - File:Epagneul picard 600.jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Epagneul_picard_600.jpg",
+    name: "Wikimedia Commons - File:Epagneul Picards bis.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Epagneul_Picards_bis.jpg",
     type: "other",
-    publishedOn: "2006-05-21",
-    accessedOn: "2026-11-13",
-    note: "Photograph of an Epagneul Picard standing outdoors at a dog show by Tomasz Sienicki (captured 2006-05-20, uploaded 2006-05-21, 600 x 489 px). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2012-06-25",
+    accessedOn: "2026-11-26",
+    note: "Verified photograph (1280 x 848 px) of a six-month-old Picardy Spaniel outdoors by Rachelle Vafidis (captured 2011-11-17, uploaded 2012-06-25). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons. Replaces earlier nonexistent file under the preserved source ID.",
     publisher: "Wikimedia Commons"
   },
   "fci-dogo-argentino-official-standard": {
@@ -23601,7 +23601,7 @@ export const sources = defineSources({
     id: "pubmed-adamts17-poag-basset-fauve-de-bretagne",
     name: "Forman et al. (2015) - Two Independent Mutations in ADAMTS17 Are Associated with Primary Open Angle Glaucoma in the Basset Hound and Basset Fauve de Bretagne Breeds of Dog",
     url: "https://pubmed.ncbi.nlm.nih.gov/26474315/",
-    type: "scientific_paper",
+    type: "scientific_publication",
     publishedOn: "2015-10-16",
     accessedOn: "2026-11-25",
     note: "Peer-reviewed PLoS One study (PMID 26474315; DOI 10.1371/journal.pone.0140436) establishing the strong association between an ADAMTS17 mutation and primary open angle glaucoma (POAG) in the Basset Fauve de Bretagne.",
@@ -23715,6 +23715,456 @@ export const sources = defineSources({
     publishedOn: "2006-11-22",
     accessedOn: "2026-11-25",
     note: "High-resolution photograph (2208 x 2010 px) of an adult Braque Français, type Pyrénées at the World Dog Show in Poznań by Pleple2000 (captured 2006-11-12, uploaded 2006-11-22). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-poodle-official-standard-172": {
+    id: "fci-poodle-official-standard-172",
+    name: "FCI - Caniche (Poodle) Official Breed Standard No. 172",
+    url: "https://www.fci.be/nomenclature/Standards/172g09-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2024-04-05",
+    accessedOn: "2026-11-25",
+    note: "Official English FCI Standard No. 172 (dated 2024-04-05). Covers Group 9 Section 2 Poodle classification without working trial, conformation, curly and corded coat types, colours, and size categories (Standard 45-62 cm, Medium 35-45 cm, Miniature 28-35 cm, Toy 24-28 cm).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-poodle-toy-breed-profile": {
+    id: "akc-poodle-toy-breed-profile",
+    name: "American Kennel Club - Poodle (Toy) Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/poodle-toy/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Official AKC breed profile covering Caniche and Pudel history, temperament, sports versatility, coat grooming, and health screening.",
+    publisher: "American Kennel Club"
+  },
+  "pcaf-poodle-health-concerns": {
+    id: "pcaf-poodle-health-concerns",
+    name: "The Poodle Club of America - Health Concerns & Testing",
+    url: "https://poodleclubofamerica.org/health-concerns/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Breed club health resource documenting sebaceous adenitis, Addison's disease, Cushing's disease, bloat/GDV, hip and patella evaluations, eye exams, and prcd-PRA screening.",
+    publisher: "The Poodle Club of America"
+  },
+  "pmc-canine-sebaceous-adenitis-7877684": {
+    id: "pmc-canine-sebaceous-adenitis-7877684",
+    name: "Canine sebaceous adenitis (PMC7877684)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7877684/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-25",
+    note: "Peer-reviewed veterinary review (PMC7877684, PMID 33692587) on canine sebaceous adenitis clinical signs, breed predisposition including Poodles, and lifelong management.",
+    publisher: "National Library of Medicine (PMC)"
+  },
+  "wikimedia-standard-poodle-black-lying-down-miller": {
+    id: "wikimedia-standard-poodle-black-lying-down-miller",
+    name: "Wikimedia Commons - File:Standard Poodle black lying down.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Standard_Poodle_black_lying_down.jpg",
+    type: "other",
+    publishedOn: "2007-09-24",
+    accessedOn: "2026-11-25",
+    note: "Photograph (1828 x 1827 px) of a black Standard Poodle by Belinda Hankins Miller (captured 2007-09-18, uploaded 2007-09-24). Licensed under CC BY 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-standard-poodle-black-male-sitting-aw": {
+    id: "wikimedia-standard-poodle-black-male-sitting-aw",
+    name: "Wikimedia Commons - File:Standard Poodle black male sitting.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Standard_Poodle_black_male_sitting.jpg",
+    type: "other",
+    publishedOn: "2007-07-05",
+    accessedOn: "2026-11-25",
+    note: "Photograph (854 x 1279 px) of a black male Standard Poodle named Theo by A W (captured 2007-06-29, uploaded 2007-07-05). Licensed under CC BY-SA 2.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-karelian-bear-dog-official-standard": {
+    id: "fci-karelian-bear-dog-official-standard",
+    name: "FCI - Karelian Bear Dog (Karjalankarhukoira) Official Breed Standard No. 48",
+    url: "https://www.fci.be/Nomenclature/Standards/048g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2015-05-27",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 48 (valid standard dated 2014-11-03, English publication dated 2015-05-27, translated by Finnish Kennel Club and revised by Renée Sporre-Willes). Covers Finnish origin (Ladoga Karelia, Olonets, Russian Karelia; Komi/Zyrians dog ancestry; 1936 breeding start, 1945 first standard, 1946 first registrations), Group 5 Section 2 Nordic hunting dogs classification (working trial in Finland, Sweden, and Norway), elk and bear baying role, 2:3 muzzle-to-skull ratio, 42-tooth scissor bite, natural bobtail equal to curled tail, harsh straight black-and-white double coat, withers height (males 54-60 cm, ideal 57 cm; females 49-55 cm, ideal 52 cm), and ideal weight (males 25-28 kg, females 17-20 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-karelian-bear-dog-nomenclature": {
+    id: "fci-karelian-bear-dog-nomenclature",
+    name: "FCI - Karjalankarhukoira (Karelian Bear Dog) Breed Nomenclature (No. 48)",
+    url: "https://www.fci.be/en/nomenclature/KARELIAN-BEAR-DOG-48.html",
+    type: "official_breed_standard",
+    publishedOn: "2015-05-27",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Finland as country of origin, Group 5 Section 2 Nordic Hunting Dogs classification, definitive acceptance date (1954-08-02), valid standard date (2014-11-03), English publication date (2015-05-27), and official multilingual names (Karjalankarhukoira, Karelian Bear Dog, Chien d'ours de Carélie).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "spj-karjalankarhukoira-pevisa-2026-2028": {
+    id: "spj-karjalankarhukoira-pevisa-2026-2028",
+    name: "Suomen Pystykorvajärjestö (SPJ) - Karjalankarhukoiran PEVISA-ohjelma 2026–2028",
+    url: "https://spj.fi/rodut/karjalankarhukoira/terveys/pevisa/",
+    type: "breed_club",
+    publishedOn: "2025-09-17",
+    accessedOn: "2026-11-26",
+    note: "Official Finnish parent breed club (Suomen Pystykorvajärjestö) publication of the Finnish Kennel Club Breeding Science Committee decision (17.9.2025) establishing the mandatory 2026–2028 PEVISA breeding programme for Karelian Bear Dogs: official hip dysplasia radiographs (HD-D mated only to HD-A), official eye exams (min age 12 mo; excluding hereditary cataracts, PRA, and PHTVL/PHPV grades 2–6; grade 1 mated to clear), and genetic-diversity cap of max 60 registered offspring per dog (max 25 from matings under age 5).",
+    publisher: "Suomen Pystykorvajärjestö ry"
+  },
+  "kennelliitto-karjalankarhukoira-hirvenhaukut-2026": {
+    id: "kennelliitto-karjalankarhukoira-hirvenhaukut-2026",
+    name: "Suomen Kennelliitto - Karjalankarhukoirien Hirvenhaukut-ottelu 2026 (90th Anniversary)",
+    url: "https://www.kennelliitto.fi/uutinen/2026/karjalankarhukoirien-hirvikuninkaaksi-kruunattiin-muorinkallion-athos/",
+    type: "kennel_club",
+    publishedOn: "2026-11-22",
+    accessedOn: "2026-11-26",
+    note: "Official Finnish Kennel Club (Suomen Kennelliitto) news report documenting the 2026 national Hirvenhaukut moose-barking championship in Ilmajoki and confirming the Karelian Bear Dog's 90th anniversary year (1936–2026) as one of Finland's three flagship native hunting-trial breeds.",
+    publisher: "Suomen Kennelliitto - Finska Kennelklubben ry"
+  },
+  "skk-karelsk-bjornhund-profile": {
+    id: "skk-karelsk-bjornhund-profile",
+    name: "Svenska Kennelklubben (SKK) - Karelsk björnhund Rasprofil",
+    url: "https://www.skk.se/hundraser/karelsk-bjornhund/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Karelsk björnhund confirming Finnish/Karelian origin, elk and bear baying utilization, unsuitability solely as a companion dog, ideal height (approx. 57 cm males, 52 cm females), easy-care double coat brushed during moults, strong fighting spirit and potential dog aggression (never human aggression), and health status noting hip dysplasia (HD) occurs.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "akc-karelian-bear-dog-profile": {
+    id: "akc-karelian-bear-dog-profile",
+    name: "American Kennel Club - Karelian Bear Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/karelian-bear-dog/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Foundation Stock Service; parent club American Karelian Bear Dog Alliance) documenting pronunciation ('Ka-reel-e-an Bear Dog'), height (19-23.5 in), weight (44-49 lb), life expectancy (11-13 years), weekly grooming, nail/ear/dental care, fenced yard exercise, fighting spirit around other dogs, and non-recommendation with young children.",
+    publisher: "American Kennel Club"
+  },
+  "wrbi-wind-river-bear-institute": {
+    id: "wrbi-wind-river-bear-institute",
+    name: "Wind River Bear Institute (WRBI) - About Us & Karelian Bear Dog Partners",
+    url: "https://beardogs.org/about-us/",
+    type: "other",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official portal of the Wind River Bear Institute (founded 1996 in Montana by wildlife biologist Carrie L. Hunt) documenting the training and deployment of Finnish-lineage Karelian Bear Dogs for non-lethal human-wildlife conflict mitigation with black, grizzly, and polar bears.",
+    publisher: "Wind River Bear Institute"
+  },
+  "guardian-2023-karelian-bear-conflict-dogs": {
+    id: "guardian-2023-karelian-bear-conflict-dogs",
+    name: "The Guardian - How training dogs to chase bears might just save a grizzly or two (2023)",
+    url: "https://www.theguardian.com/environment/2023/may/23/how-training-dogs-to-chase-bears-might-just-save-a-grizzly-or-two-aoe",
+    type: "other",
+    publishedOn: "2023-05-23",
+    accessedOn: "2026-11-26",
+    note: "Feature report by Isabelle Groc (The Guardian, May 23, 2023) documenting Wind River Bear Institute Karelian Bear Dog deployments across Montana, Alaska (including Denali National Park and Alaska fire service), Canada, and Japan, noting that roughly 20% of evaluated puppies qualify as bear-conflict dogs.",
+    publisher: "The Guardian"
+  },
+  "pmc-kyostila-2013-itga10-chondrodysplasia": {
+    id: "pmc-kyostila-2013-itga10-chondrodysplasia",
+    name: "Canine Chondrodysplasia Caused by a Truncating Mutation in Collagen-Binding Integrin Alpha Subunit 10 (PLOS ONE 2013)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3783422/",
+    type: "scientific",
+    publishedOn: "2013-09-25",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study by Kyöstilä, Lappalainen, and Lohi (PLoS One 2013 Sep 25;8(9):e75621, PMID 24086591, PMC3783422) identifying an autosomal-recessive nonsense mutation (c.2083C>T; p.Arg695*) in ITGA10 causing short-limbed chondrodysplasia in Norwegian Elkhound and Karelian Bear Dog breeds.",
+    publisher: "PLOS ONE / National Library of Medicine (PMC)"
+  },
+  "pmc-kyostila-2019-alpl-hypophosphatasia": {
+    id: "pmc-kyostila-2019-alpl-hypophosphatasia",
+    name: "A homozygous missense variant in the alkaline phosphatase gene ALPL is associated with a severe form of canine hypophosphatasia (Scientific Reports 2019)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6353930/",
+    type: "scientific",
+    publishedOn: "2019-01-30",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study by Kyöstilä, Syrjä, Lappalainen, Arumilli, Hundi, Karkamo, Viitmaa, Hytönen, and Lohi (Sci Rep 2019 Jan 30;9:973, PMID 30700765, PMC6353930) reporting the first naturally occurring hypophosphatasia (HPP) in animals, caused by an autosomal-recessive missense variant in ALPL (c.1301T>G; p.Val434Gly) in Karelian Bear Dogs with a 17% carrier frequency across 509 tested KBDs.",
+    publisher: "Scientific Reports / National Library of Medicine (PMC)"
+  },
+  "pmc-kyostila-2021-pou1f1-pituitary-dwarfism": {
+    id: "pmc-kyostila-2021-pou1f1-pituitary-dwarfism",
+    name: "Intronic variant in POU1F1 associated with canine pituitary dwarfism (Human Genetics 2021)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8519942/",
+    type: "scientific",
+    publishedOn: "2021-02-06",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study by Kyöstilä, Niskanen, Arumilli, Donner, Hytönen, and Lohi (Hum Genet 2021;140:1553-1562, Epub 2021-02-06, PMID 33550451, PMC8519942) identifying an autosomal-recessive intronic splice-region variant in POU1F1 (c.605-3C>A) causing combined pituitary hormone deficiency / pituitary dwarfism in Karelian Bear Dogs (8% carrier frequency across screened KBDs).",
+    publisher: "Human Genetics / National Library of Medicine (PMC)"
+  },
+  "wikimedia-karjalankarhukoira-looking-at-camera-uusijani": {
+    id: "wikimedia-karjalankarhukoira-looking-at-camera-uusijani",
+    name: "Wikimedia Commons - File:Karjalankarhukoira, Karelian Bear Dog looking at camera.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Karjalankarhukoira,_Karelian_Bear_Dog_looking_at_camera.jpg",
+    type: "other",
+    publishedOn: "2010-09-20",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (3888 x 2592 px) of a 10-year-old male Karelian Bear Dog sitting on grass by Uusijani (EXIF capture date 2010-09-17 on Canon EOS 1000D, uploaded 2010-09-20). Dedicated to the public domain under CC0 1.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-karjalankarhukoira-standing-profile-uusijani": {
+    id: "wikimedia-karjalankarhukoira-standing-profile-uusijani",
+    name: "Wikimedia Commons - File:Karjalankarhukoira, Karelian Bear Dog standing profile.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Karjalankarhukoira,_Karelian_Bear_Dog_standing_profile.jpg",
+    type: "other",
+    publishedOn: "2010-09-20",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (2444 x 3667 px) of a 10-year-old male Karelian Bear Dog standing outdoors by Uusijani (EXIF capture date 2010-09-17 on Canon EOS 1000D, uploaded 2010-09-20). Dedicated to the public domain under CC0 1.0 on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-lapponian-herder-official-standard": {
+    id: "fci-lapponian-herder-official-standard",
+    name: "FCI - Lapponian Herder (Lapinporokoira) Official Breed Standard No. 284",
+    url: "https://www.fci.be/Nomenclature/Standards/284g05-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2026-03-23",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 284 (valid standard dated 2026-02-11, English publication dated 2026-03-23, translated by the Finnish Kennel Club). Covers Finnish origin, Sámi reindeer-herding history, 1950s registration and 1966-12-10 separation from Finnish Lapphund, Group 5 Section 3 Nordic Watchdogs and Herders classification without working trial, rectangular proportions (+10% length, chest depth ~half height), docile/calm/friendly/energetic temperament barking readily when working, low-set hanging/rotating tail never curled over back, coarse straight Arctic double coat, black/greyish/dark brown coloration with lighter markings (blue, sable, and fawn disqualified), and withers height (ideal males 51 cm, females 46 cm, tolerance +/- 3 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-lapponian-herder-nomenclature": {
+    id: "fci-lapponian-herder-nomenclature",
+    name: "FCI - Lapinporokoira (Lapponian Herder) Breed Nomenclature (No. 284)",
+    url: "https://www.fci.be/en/nomenclature/LAPPONIAN-HERDER-284.html",
+    type: "official_breed_standard",
+    publishedOn: "2026-03-23",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Finland as country of origin, Group 5 Section 3 Nordic Watchdogs and Herders classification without working trial, definitive acceptance date (1970-11-13), English publication date (2026-03-23), and official multilingual names (Lapinporokoira, Lapponian Herder, Berger Finnois de Laponie, Finnischer Lapplandhirtenhund).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "kennelliitto-lapinporokoira-breed-profile": {
+    id: "kennelliitto-lapinporokoira-breed-profile",
+    name: "Suomen Kennelliitto - Lapinporokoira Rotuesittely",
+    url: "https://www.kennelliitto.fi/koirarotu/lapinporokoira/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official country-of-origin Finnish Kennel Club (Suomen Kennelliitto) breed profile confirming height (males 51 cm +/- 3 cm, females 46 cm +/- 3 cm), sexed weight (males 19-25 kg, females 15-20 kg), average lifespan (11-14 years), May 2025 survey count of 61 actively herding Lapponian Herders in Finland, open breed register for northern working reindeer dogs, tangle-free dirt- and snow-repelling double coat, PEVISA eye-exam timing, and hereditary eye priorities (cataracts and two DNA-testable types of PRA).",
+    publisher: "Suomen Kennelliitto - Finska Kennelklubben ry"
+  },
+  "lappalaiskoirat-lapinporokoira-pevisa-2029": {
+    id: "lappalaiskoirat-lapinporokoira-pevisa-2029",
+    name: "Lappalaiskoirat ry - Lapinporokoiran PEVISA-ohjelma (valid through 31.12.2029)",
+    url: "https://www.lappalaiskoirat.fi/jalostus/terveys-luonne-ja-ulkomuoto/pevisa-ohjelmat/lapinporokoiran-pevisa/",
+    type: "breed_club",
+    publishedOn: "2025-11-11",
+    accessedOn: "2026-11-26",
+    note: "Official Finnish parent breed club (Lappalaiskoirat ry) publication of the Lapponian Herder PEVISA breeding health programme valid until 31 December 2029: minimum mating age 22 months, mandatory valid eye examination (<=24 months old at mating) required before a dog's third mating (after two litters), and official Finnish Kennel Club hip dysplasia radiograph evaluations.",
+    publisher: "Lappalaiskoirat ry"
+  },
+  "lappalaiskoirat-hereditary-diseases-appendix-2025": {
+    id: "lappalaiskoirat-hereditary-diseases-appendix-2025",
+    name: "Lappalaiskoirat ry - Hereditary Diseases Occurring in Lapponian Dogs (Buyer Agreement Appendix)",
+    url: "https://www.lappalaiskoirat.fi/site/assets/files/2212/kauppakirjan_liite_eng_05012025.pdf",
+    type: "breed_club",
+    publishedOn: "2025-01-05",
+    accessedOn: "2026-11-26",
+    note: "Official English-language health disclosure appendix published by Lappalaiskoirat ry (dated 5 January 2025) summarizing hereditary diseases occurring in Lapponian breeds: cataracts, PRA, elbow dysplasia, hip dysplasia, hypothyroidism, rare Addison's disease, Pompe disease (genetic test available), malocclusions, and rarity of allergies.",
+    publisher: "Lappalaiskoirat ry"
+  },
+  "skk-lapsk-vallhund-profile": {
+    id: "skk-lapsk-vallhund-profile",
+    name: "Svenska Kennelklubben (SKK) - Lapsk vallhund Rasprofil",
+    url: "https://www.skk.se/hundraser/lapsk-vallhund/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Lapsk vallhund confirming 1966 breed separation, open studbook registration of working reindeer dogs in Sweden and Finland to protect genetic diversity, profuse twice-yearly shedding, minimal dirt-repelling coat care, vocal barking herding style, and health notes covering PRA (at least two variants), RD, PPM, cataract, retinopathy, HD, cryptorchidism, and isolated cases of epilepsy and hypothyroidism.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "akc-lapponian-herder-profile": {
+    id: "akc-lapponian-herder-profile",
+    name: "American Kennel Club - Lapponian Herder Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/lapponian-herder/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Foundation Stock Service, Herding Group) documenting Sámi reindeer-herding history, vocal barking (4/5), trainability (4/5), life expectancy (10-14 years), stranger reserve (especially females), and high mental/physical stimulation needs. (Note: AKC's web summary box prints an unsexed 70-pound weight figure that conflicts with country-of-origin Finnish Kennel Club weights of 19-25 kg / 15-20 kg).",
+    publisher: "American Kennel Club"
+  },
+  "pmc-kaukonen-2021-lapponian-herder-ift122-pra": {
+    id: "pmc-kaukonen-2021-lapponian-herder-ift122-pra",
+    name: "A missense variant in IFT122 associated with a canine model of retinitis pigmentosa (Human Genetics 2021)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8519925/",
+    type: "scientific",
+    publishedOn: "2021-02-19",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed University of Helsinki study (Hum Genet 2021 Nov;140(11):1569-1579, Epub 2021-02-19, PMID 33606121, PMC8519925) screening 563 Lapponian Herders and identifying an autosomal-recessive missense variant in IFT122 (c.3176G>A; p.R1059H) causing slowly progressing late-onset PRA (mean diagnosis age 9.0 +/- 2.9 years) distinct from PRCD-PRA and BEST1 cmr3.",
+    publisher: "Human Genetics / National Library of Medicine (PMC)"
+  },
+  "pmc-zangerl-2010-lapponian-herder-best1-cmr3": {
+    id: "pmc-zangerl-2010-lapponian-herder-best1-cmr3",
+    name: "Assessment of canine BEST1 variations identifies new mutations and establishes an independent bestrophinopathy model (cmr3) (Molecular Vision 2010)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3008713/",
+    type: "scientific",
+    publishedOn: "2010-12-16",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed ocular genetics study by Zangerl, Wickström, Slavik, Lindauer et al. (Mol Vis 2010 Dec 16;16:2791-2804, PMID 21197113, PMC3008713) identifying two linked exon 10 mutations in BEST1 (p.P463fs, p.G489V) causing autosomal-recessive Canine Multifocal Retinopathy Type 3 (cmr3) in the Lapponian Herder.",
+    publisher: "Molecular Vision / National Library of Medicine (PMC)"
+  },
+  "pmc-seppala-2013-lapphund-gaa-pompe": {
+    id: "pmc-seppala-2013-lapphund-gaa-pompe",
+    name: "A Nonsense Mutation in the Acid α-Glucosidase Gene Causes Pompe Disease in Finnish and Swedish Lapphunds (PLOS ONE 2013)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3573005/",
+    type: "scientific",
+    publishedOn: "2013-02-14",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study by Seppälä, Reuser, and Lohi (PLoS One 2013 Feb 14;8(2):e56825, PMID 23457621, PMC3573005) identifying the autosomal-recessive GAA nonsense mutation (c.2237G>A; p.W746*) causing Pompe disease in Finnish and Swedish Lapphunds and explicitly documenting heterozygous carriers in Lapponian Herders (with no clinical cases reported in the breed at publication).",
+    publisher: "PLOS ONE / National Library of Medicine (PMC)"
+  },
+  "wikimedia-lapponian-herder-black-tan-3-canarian": {
+    id: "wikimedia-lapponian-herder-black-tan-3-canarian",
+    name: "Wikimedia Commons - File:Lapponian Herder black & tan 3.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Lapponian_Herder_black_%26_tan_3.jpg",
+    type: "other",
+    publishedOn: "2020-08-23",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1099 x 1193 px) of an adult black-and-tan male Lapponian Herder by Canarian (EXIF capture date 2020-08-23 on Sony DSLR-A350, uploaded 2020-08-23). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-lapinporokoira-in-riga-tomasina": {
+    id: "wikimedia-lapinporokoira-in-riga-tomasina",
+    name: "Wikimedia Commons - File:Lapinporokoira in Riga.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Lapinporokoira_in_Riga.JPG",
+    type: "other",
+    publishedOn: "2013-11-25",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (2254 x 1742 px) of an adult Lapponian Herder (Lapinporokoira) at Baltic Winner 2013 in Riga by Томасина (EXIF capture date 2013-11-10 on Canon PowerShot SX50 HS, uploaded 2013-11-25). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-australian-kelpie-official-standard": {
+    id: "fci-australian-kelpie-official-standard",
+    name: "FCI - Australian Kelpie Official Breed Standard No. 293",
+    url: "https://www.fci.be/Nomenclature/Standards/293g01-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2012-12-11",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 293 (valid standard dated 2012-10-08, English publication dated 2012-12-11). Covers Australian origin, Group 1 Section 1 Sheepdogs classification without working trial, lithe muscular appearance free of weediness, fox-like head, tight clean lips, scissor bite, almond brown eyes, pointed erect ears, right-angle shoulder/upper arm, low-set brushed tail never carried past vertical, single-tracking movement settling four-square, 2-3 cm rain-resisting double coat, seven accepted colours (black, black and tan, red, red and tan, fawn, chocolate, smoke blue), and withers height (males 46-51 cm, females 43-48 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-australian-kelpie-nomenclature": {
+    id: "fci-australian-kelpie-nomenclature",
+    name: "FCI - Australian Kelpie Breed Nomenclature (No. 293)",
+    url: "https://www.fci.be/en/nomenclature/AUSTRALIAN-KELPIE-293.html",
+    type: "official_breed_standard",
+    publishedOn: "2012-12-11",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Australia as country of origin, Group 1 Section 1 Sheepdogs classification without working trial, definitive acceptance date (1973-09-03), valid standard date (2012-10-08), English publication date (2012-12-11), and official multilingual names (Australian Kelpie, Kelpie Australien).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-australian-kelpie-extended-standard": {
+    id: "fci-australian-kelpie-extended-standard",
+    name: "FCI / ANKC - Extended Breed Standard of the Australian Kelpie (No. 293)",
+    url: "https://www.fci.be/Nomenclature/Education/293g01-PRE-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official FCI/ANKC illustrated extended breed standard for the Australian Kelpie detailing breed history (Warrock Station in Victoria, Gleeson's Kelpie, Brutus & Jennie, Caesar, King's Kelpie, Forbes trial, Barb named after the Melbourne Cup horse, John Quinn, King & McLeod), height (dogs 46-51 cm, bitches 43-48 cm), coat (2-3 cm), anatomical faults, and temperament (human biting foreign to the breed).",
+    publisher: "Fédération Cynologique Internationale / Australian National Kennel Council"
+  },
+  "dogs-australia-australian-kelpie-standard": {
+    id: "dogs-australia-australian-kelpie-standard",
+    name: "Dogs Australia (ANKC) - Australian Kelpie Breed Standard",
+    url: "https://dogsaustralia.org.au/members/breeds/breed-standards/Australian-Kelpie",
+    type: "official_breed_standard",
+    publishedOn: "1994-01-01",
+    accessedOn: "2026-11-26",
+    note: "Official country-of-origin kennel club (Dogs Australia / ANKC) breed standard (Group 5 Working Dogs) confirming Australian origin, mild tractable disposition with inexhaustible energy, 10:9 body-length-to-withers-height proportion, chest deep rather than wide, fox-like head, almond eyes, pricked ears, and low-set brush tail.",
+    publisher: "Dogs Australia"
+  },
+  "akc-australian-kelpie-breed-profile": {
+    id: "akc-australian-kelpie-breed-profile",
+    name: "American Kennel Club - Australian Kelpie Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/australian-kelpie/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Foundation Stock Service, Herding Group) covering New South Wales and Victoria pastoral history, height (17-20 inches), weight (35-50 pounds), life expectancy (10-13 years), moderate shedding, weekly brushing, unsuitability for apartment living, indoor 'off switch' after heavy exercise, herding tendency toward children/pets, and sports versatility.",
+    publisher: "American Kennel Club"
+  },
+  "skk-australian-kelpie-profile": {
+    id: "skk-australian-kelpie-profile",
+    name: "Svenska Kennelklubben (SKK) - Australian kelpie Rasprofil",
+    url: "https://www.skk.se/hundraser/australian-kelpie/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Australian kelpie confirming 1902 first standard, height (46-51 cm males, 43-48 cm females), easy-care short double coat, mild benevolent human temperament, unsuitability solely as a companion dog, tendency to become stressed if mismanaged, age-appropriate puppy walk lengths, working/rescue/agility/obedience roles, and health status (relatively healthy; low proportion of mostly mild HD; isolated ED and patellar luxation).",
+    publisher: "Svenska Kennelklubben"
+  },
+  "svekk-australian-kelpie-health": {
+    id: "svekk-australian-kelpie-health",
+    name: "Svenska Kelpieklubben (SVEKK) - Hälsa hos Australian Kelpie",
+    url: "https://www.kelpieklubben.se/australian-kelpie/halsa",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish breed club health resource for Australian Kelpie documenting Cerebellar Abiotrophy (CA, two variants, DNA risk/marker test), Inborn Lipid Malabsorption (ILM / lipase 1 deficiency in newborn puppies with breed-validated DNA test and lipase 2 onset around 12 weeks), Collie Eye Anomaly (CEA), caution regarding unvalidated multi-breed DNA panels, 2011-2015 screened HD average (~12%, range 7-14%), and Agria Breed Profile heart-disease notes (endocardiosis / mitral insufficiency).",
+    publisher: "Svenska Kelpieklubben"
+  },
+  "scc-kelpie-australien-profile": {
+    id: "scc-kelpie-australien-profile",
+    name: "Société Centrale Canine (SCC) - Kelpie australien",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/kelpie-australien",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French Kennel Club (SCC) breed profile for Kelpie australien confirming height (43-51 cm), weight unspecified (NP), divergence of Working Kelpie and Show Kelpie lines, 'backing' over sheep's backs, preference for company over solitary confinement, and recommendation to divide adult meals into two daily feedings.",
+    publisher: "Société Centrale Canine"
+  },
+  "pmc-wade-2022-kelpie-cerebellar-abiotrophy": {
+    id: "pmc-wade-2022-kelpie-cerebellar-abiotrophy",
+    name: "Cerebellar Abiotrophy in Australian Working Kelpies Is Associated with Two Major Risk Loci (Genes 2022)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9602046/",
+    type: "scientific",
+    publishedOn: "2022-09-23",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed University of Sydney GWAS study by Wade, Pan, Taylor, and Williamson (Genes (Basel) 2022 Sep 23;13(10):1709, PMID 36292596, PMC9602046) analyzing 49 affected Kelpies and mapping autosomal-recessive Cerebellar Abiotrophy (CA) to two major risk loci: an early-onset locus on CFA20 (visible within days to weeks of birth) and a later-onset ataxia locus on CFA9 carrying a missense variant in exon 5 of VMP1 (p.P160Q).",
+    publisher: "Genes (Basel) / National Library of Medicine (PMC)"
+  },
+  "pmc-kucharczyk-2019-kelpie-cea-nhej1": {
+    id: "pmc-kucharczyk-2019-kelpie-cea-nhej1",
+    name: "Collie Eye Anomaly in Australian Kelpie dogs in Poland (BMC Veterinary Research 2019)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6829813/",
+    type: "scientific",
+    publishedOn: "2019-11-04",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed clinical and molecular report by Kucharczyk, Cislo-Pakuluk, and Bedford (BMC Vet Res 2019 Nov 4;15(1):392, PMID 31684941, PMC6829813) documenting choroidal hypoplasia (Collie Eye Anomaly) confirmed by the 7.8-kb NHEJ1 deletion DNA test in an Australian Kelpie breeding line in Poland (affected proband, affected dam, and 8 carriers among 21 tested relatives) and emphasizing DNA testing alongside ophthalmoscopy due to 'go normal' masking.",
+    publisher: "BMC Veterinary Research / National Library of Medicine (PMC)"
+  },
+  "pmc-chew-2019-kelpie-morphology-dingo": {
+    id: "pmc-chew-2019-kelpie-morphology-dingo",
+    name: "Genomic Characterization of External Morphology Traits in Kelpies Does Not Support Common Ancestry with the Australian Dingo (Genes 2019)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6563003/",
+    type: "scientific",
+    publishedOn: "2019-05-03",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed University of Sydney genomic study by Chew, Willet, Haase, and Wade (Genes (Basel) 2019 May 3;10(5):337, PMID 31058880, PMC6563003) characterizing external morphology gene variants (ear carriage and coat colour) across Australian Kelpies and Working Kelpies and showing they do not support shared ancestry with the Australian Dingo.",
+    publisher: "Genes (Basel) / National Library of Medicine (PMC)"
+  },
+  "pmc-kelpie-herding-personality-2022": {
+    id: "pmc-kelpie-herding-personality-2022",
+    name: "Valued personality traits in livestock herding Kelpies—Development and application of the Herding Dog Assessment Form (PLOS ONE 2022)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9041829/",
+    type: "scientific",
+    publishedOn: "2022-04-26",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed behavioural study (PLOS ONE 2022 Apr 26, PMC9041829) analyzing personality and working-trait assessments across 228 purebred livestock-herding Kelpies in Australia, highlighting behavioural regulation/cognition (calmness, intelligence, patience), persistence, and stamina.",
+    publisher: "PLOS ONE / National Library of Medicine (PMC)"
+  },
+  "wikimedia-australian-kelpie-red-canarian": {
+    id: "wikimedia-australian-kelpie-red-canarian",
+    name: "Wikimedia Commons - File:AustralianKelpieRed.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:AustralianKelpieRed.jpg",
+    type: "other",
+    publishedOn: "2021-07-05",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1222 x 1038 px) of an adult red Australian Kelpie by Canarian (EXIF capture date 2021-07-03 on Sony DSLR-A350, uploaded 2021-07-05). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-australian-kelpie-portrait-davepaku": {
+    id: "wikimedia-australian-kelpie-portrait-davepaku",
+    name: "Wikimedia Commons - File:Australian Kelpie portrait.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Australian_Kelpie_portrait.jpg",
+    type: "other",
+    publishedOn: "2007-05-16",
+    accessedOn: "2026-11-26",
+    note: "High-resolution outdoor portrait (2592 x 3872 px) of a purebred Australian Kelpie named Diesel by Flickr user davepaku (EXIF capture date 2007-05-13 on Nikon D80, uploaded to Wikimedia Commons by Pharaoh Hound on 2007-05-16, license reviewed by Vaya on 2007-05-17). Licensed under CC BY-SA 2.0 Generic.",
     publisher: "Wikimedia Commons"
   },
 });
