@@ -1,23 +1,25 @@
 import type { Breed } from "../../schema/breed.types";
 
-export const dogo_argentino: Breed = {
-  slug: "dogo-argentino",
-  name: "Dogo Argentino",
+export const lagotto_romagnolo: Breed = {
+  slug: "lagotto-romagnolo",
+  name: "Lagotto Romagnolo",
   scientificName: null,
   alternateNames: [
-    "Argentine Mastiff",
-    "Argentine Dogo",
+    "Romagna Water Dog",
+    "Italian Water Dog",
+    "Lagotto",
+    "Truffle Dog",
   ],
-  group: "Working",
+  group: "Sporting",
   origin: {
-    country: "Argentina",
+    country: "Romagna region, Italy",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "Large, powerful, all-white mastiff-type dog with massive head and athletic build, originally developed for big-game hunting with exceptional courage and strength",
-    history: "Developed in Argentina in the 1920s by Dr. Antonio Nores Martinez who systematically crossed the now-extinct Cordoba Fighting Dog with Great Dane, Boxer, Bull Terrier, and Pointer to create a versatile big-game hunter for wild boar and puma",
+    description: "Medium-sized rustic water retriever with dense, curly, waterproof coat and exceptional sense of smell, specialized as the world's premier truffle-hunting dog",
+    history: "Ancient breed from the Romagna region of Italy, originally used as a water retriever in the marshlands. When the marshes were drained, the breed was adapted and became the world's premier truffle-hunting dog.",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -26,29 +28,26 @@ export const dogo_argentino: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 61,
-        max: 67,
+        min: 43,
+        max: 48,
       },
       female: {
-        min: 61,
-        max: 65,
+        min: 41,
+        max: 46,
       },
     },
     weight: {
       unit: "kg",
       male: {
-        min: 40,
-        max: 45,
+        min: 13,
+        max: 16,
       },
       female: {
-        min: 40,
-        max: 43,
+        min: 11,
+        max: 14,
       },
     },
-    lifespanYears: {
-      min: 9,
-      max: 15,
-    },
+    lifespanYears: null,
     coatType: null,
     coatLength: null,
     coatColors: [
@@ -76,12 +75,12 @@ export const dogo_argentino: Breed = {
   },
   temperament: {
     traits: [
-      "Courageous",
-      "loyal",
-      "protective",
-      "confident",
+      "Affectionate",
       "intelligent",
       "energetic",
+      "loyal",
+      "alert",
+      "work-focused",
     ],
     scores: {
       affection: null,
@@ -275,16 +274,10 @@ export const dogo_argentino: Breed = {
       note: null,
     },
     "physical.lifespanYears": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "the-dog-api",
-          role: "verified",
-          locator: "breed.life_span",
-        },
-      ],
-      verifiedOn: "2026-11-26",
-      note: null,
+      reliability: "unavailable",
+      sources: [],
+      verifiedOn: null,
+      note: "The Dog API response did not include this.",
     },
     "physical.coatType": {
       reliability: "unavailable",

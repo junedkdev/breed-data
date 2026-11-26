@@ -183,13 +183,13 @@
 180:australian_cattle_dog - CG
 181:grand_anglo-francais_blanc_et_noir - CG
 182:picardy_spaniel - CG
+183:dogo_argentino - CG
+184:greater_swiss_mountain_dog - CG
+185:greyhound - CG
+186:cane_corso - CG
 
-183:dogo_argentino - CR
+187:lagotto_romagnolo - CR
 
-184:greater_swiss_mountain_dog - C
-185:greyhound - C
-186:cane_corso - C
-187:lagotto_romagnolo - C
 188:slovakian_rough-haired_pointer - C
 189:thai_bangkaew_dog - C
 190:shih_tzu - C
@@ -262,12 +262,12 @@
 257:karelian_bear_dog - C
 258:lapponian_herder - C
 259:australian_kelpie - C
+260:borzoi - C
+261:japanese_terrier - C
+262:fila_brasileiro - C
 
-260:borzoi - R
+263:field_spaniel - R
 
-261:japanese_terrier
-262:fila_brasileiro
-263:field_spaniel
 264:pumi
 265:rat_terrier
 266:pudelpointer

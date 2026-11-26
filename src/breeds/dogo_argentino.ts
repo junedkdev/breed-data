@@ -7,17 +7,18 @@ export const dogo_argentino: Breed = {
 
   alternateNames: [
     "Argentine Dogo",
+    "Argentine Mastiff",
     "Argentinean Mastiff",
+    "Dogue Argentin",
+    "Argentinische Dogge",
     "Dogo"
   ],
 
-  group:
-    "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 2.1 — Mastiff type Molossoids (without working trial; also classified in the Working and Guardian Dog groups)",
+  group: "Mastiff-type molossoid working dogs (without working trial)",
 
   origin: {
     country: "Argentina",
-    region:
-      "Córdoba Province, central Argentina"
+    region: "Córdoba Province, central Argentina"
   },
 
   images: [
@@ -27,18 +28,18 @@ export const dogo_argentino: Breed = {
         "https://commons.wikimedia.org/wiki/File:Dogo_Argentino_in_a_field.jpg",
       title: "Dogo Argentino in a field.jpg",
       description:
-        "An adult Dogo Argentino standing alert outdoors in a field.",
-      creator: null,
-      uploader: "M.J.",
+        "An adult Dogo Argentino outdoors in a grassy field showing its white coat and athletic build.",
+      creator: "Mixtus",
+      uploader: "Mixtus",
       capturedOn: "2025-06-01",
-      uploadedOn: "2026-04-19",
-      width: 1920,
-      height: 1080,
-      licenseId: "public-domain",
+      uploadedOn: "2025-06-12",
+      width: 2550,
+      height: 3300,
+      licenseId: "cc-by-4.0",
       attribution:
-        "Photo from Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:Dogo_Argentino_in_a_field.jpg.",
+        "Photo by Mixtus (Dan Jensen), Wikimedia Commons, CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Dogo_Argentino_in_a_field.jpg. License: https://creativecommons.org/licenses/by/4.0/. Changes, if any, must be indicated.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+      metadataCheckedOn: "2026-11-26"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Dogo_Argentino_-Argentijnse_dog_14-04-2010_17-00-50.jpg",
@@ -46,39 +47,39 @@ export const dogo_argentino: Breed = {
         "https://commons.wikimedia.org/wiki/File:Dogo_Argentino_-Argentijnse_dog_14-04-2010_17-00-50.jpg",
       title: "Dogo Argentino -Argentijnse dog 14-04-2010 17-00-50.jpg",
       description:
-        "A large male Dogo Argentino in profile outdoors.",
-      creator: "Pleple2000",
-      uploader: "Pleple2000",
+        "A muscular Dogo Argentino standing in profile outdoors.",
+      creator: "Paul Hermans",
+      uploader: "Paul Hermans",
       capturedOn: "2010-04-14",
       uploadedOn: "2010-04-14",
-      width: 2592,
-      height: 1944,
+      width: 1967,
+      height: 1308,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo by Pleple2000, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dogo_Argentino_-Argentijnse_dog_14-04-2010_17-00-50.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Paul Hermans, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Dogo_Argentino_-Argentijnse_dog_14-04-2010_17-00-50.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A massive, athletic, and completely white mastiff-type hunter from Argentina, engineered for extreme courage and power in pursuing big game, yet maintaining a steadfast, affectionate devotion to its human family.",
+      "A powerful, athletic, all-white big-game hunting mastiff from Argentina, bred for pack pursuit of wild boar and puma and known for fearless courage, explosive strength, and intense devotion to experienced owners.",
 
     description:
-      "The Dogo Argentino is a formidable, large-sized working and hunting dog combining explosive athletic power with an elegant, harmonious mastiff silhouette. Originally created in South America to track, corner, and hold dangerous big game like wild boar and pumas, the Dogo is heavily boned and highly muscular, moving with an agile, effortless stride. Its defining physical hallmark is a short, smooth, entirely white coat—designed to reflect heat and make the dog easily visible to hunters in dense terrain—paired with a strong, blocky head featuring a distinctly convex skull and slightly concave muzzle. Dark, almond-shaped eyes give the breed a hard, intelligent expression of fearless determination. While possessing unparalleled courage and tenacity in the field, a properly raised Dogo is a remarkably serene, loving, and gentle companion within the home, showing profound loyalty to its family while acting as a natural, uncompromising guardian against threats.",
+      "Created as a serious pack-hunting athlete rather than a sluggish giant, the Dogo Argentino pairs heavy bone and hard muscle with quick, agile movement and deep lung capacity. Its short, plain, smooth coat is completely white—allowing hunters to spot the dog quickly in dense cover—with at most one dark patch near the eye covering no more than 10 percent of the head. A strong, balanced head sits atop a thick yet shapely neck, displaying a convex skull, deep muzzle, broad black nose, and alert dark or hazelnut eyes with a distinctly resolute look. Loyal and affectionate with its own household, the breed carries strong guarding and prey drives that call for confident, experienced handling.",
 
     history:
-      "The breed was masterminded in the late 1920s by Dr. Antonio Nores Martinez, an Argentine surgeon and passionate hunter from Córdoba who sought to create the ultimate big-game hunting dog. He began with the Old Fighting Dog of Córdoba—a legendary, fierce local mastiff crossbreed—and methodically blended it with several imported breeds to refine its working instincts and temperament. The Great Dane added height; the Boxer contributed agility and a tractable nature; the Spanish Mastiff and Pyrenean Mastiff provided raw power and a calmer demeanor; the English Pointer enhanced scenting ability; and the Bull Terrier and Dogue de Bordeaux contributed exceptional jaw strength and courage. Above all, Dr. Nores Martinez rigorously selected against dog-aggression, favoring dogs capable of hunting cooperatively in packs. After decades of careful refinement, the breed gained immense respect worldwide as both an elite big-game hunter and a formidable guardian, eventually earning official international recognition as Argentina's first and most famous native breed.",
+      "In 1928, Argentine physician and avid hunter Dr. Antonio Nores Martinez of Córdoba Province began developing a dedicated pack hound capable of tracking and catching wild boar, peccaries, and mountain lions across Argentina's rugged plains and brush. Starting from the now-extinct Fighting Dog of Córdoba, he systematically crossed in multiple imported breeds—including the Great Dane, Boxer, Spanish Mastiff, Pyrenean Mastiff, Bull Terrier, Dogue de Bordeaux, English Pointer, Irish Wolfhound, and Bulldog—selecting for stamina, scenting ability, jaw power, pack cooperation, and a stark white coat. The resulting breed became Argentina's first internationally recognized native dog and is valued today both for big-game hunting and as a steadfast protector in experienced homes.",
 
     originalPurpose:
-      "Tracking, chasing, and catching dangerous big game, particularly wild boar, peccaries, and pumas, across the diverse and rugged terrains of Argentina, while working cooperatively in packs.",
+      "Tracking, chasing, and holding dangerous big game—especially wild boar, peccaries, and puma—in cooperative packs across Argentine terrain.",
 
     currentRoles: [
-      "Big-game hunting and catch dog",
-      "Vigilant estate and personal protection guardian",
-      "Police, military, and search-and-rescue working dog",
-      "Devoted household companion for highly experienced handlers"
+      "Big-game hunting and pack catch dog",
+      "Vigilant estate and family protector",
+      "Police, search-and-rescue, and working partner",
+      "Competitor in obedience, agility, rally, and tracking for experienced handlers"
     ]
   },
 
@@ -110,54 +111,51 @@ export const dogo_argentino: Breed = {
     },
 
     lifespanYears: {
-      min: 10,
-      max: 12
+      min: 9,
+      max: 15
     },
 
     coatType:
-      "Uniform, straight, short, and smooth coat, ranging from approximately 1.5 to 2 cm in length, conforming tightly to the body; in colder climates, a light undercoat may naturally develop.",
+      "Uniform, short, plain, and smooth coat roughly 1.5 to 2 cm long lying close to the body, sometimes developing a light undercoat in cold climates.",
 
     coatLength: "Short",
 
     coatColors: [
-      "Entirely white",
-      "A single black or dark-colored patch on the skull is permissible provided it does not cover more than 10 percent of the head's surface"
+      "Completely white (a single dark or black patch near the eye is allowed if it covers no more than 10 percent of the head)"
     ],
 
     sheddingLevel:
-      "Moderate; the short coat sheds steadily year-round and requires regular brushing to manage loose white hairs",
+      "Moderate; the short white coat sheds steadily through the year",
 
     droolingLevel:
-      "Moderate; while the lips are relatively tight for a mastiff-type breed, some drooling can occur after drinking or intense physical exertion",
+      "Moderate; moderately thick, relatively tight lips keep resting drool lower than in heavier mastiffs, though saliva increases after drinking or exercise",
 
     distinctiveFeatures: [
-      "Large, athletic, and heavily muscled mastiff silhouette that is slightly off-square (body length exceeding height by up to 10 percent)",
-      "Height at the withers of 60 to 68 cm for males and 60 to 65 cm for females",
-      "Working weight of 40 to 45 kg for males and 40 to 43 kg for females in lean, hardened condition",
-      "Entirely white, short, smooth coat designed to reflect heat and ensure high visibility in the field",
-      "Powerful, balanced head with a solid, convex skull and a slightly concave muzzle of equal length",
-      "Broad, completely black nose with large nostrils",
-      "Strong jaws with well-defined masseter muscles and a complete, powerful scissor or pincer bite",
-      "Medium-sized, almond-shaped eyes, dark or hazelnut in color, with preferably black-pigmented eye rims",
-      "Thick, strong neck with very thick, lax skin forming smooth wrinkles without an excessive dewlap",
-      "Broad, deep chest extending below the elbows, giving the impression of massive lung capacity",
-      "Thick, saber-like tail set medium high, tapering to the hock, raised in an arc when active",
-      "Straight, heavily boned forelegs and muscular thighs with short rear pasterns for explosive driving power"
+      "Large, harmoniously muscled, athletic mastiff frame slightly longer than tall (length exceeding height by up to 10 percent)",
+      "Withers height of 60 to 68 cm for males and 60 to 65 cm for females",
+      "Lean working weight of 40 to 45 kg for males and 40 to 43 kg for females",
+      "Short, smooth, completely white coat (at most one dark patch on the head not exceeding 10 percent of head surface)",
+      "Strong head with a convex skull, slightly concave muzzle of matching length, and broad black nose",
+      "Powerful jaws with pronounced cheek muscles and a complete scissor or pincer bite",
+      "Medium-sized, almond-shaped dark or hazelnut eyes with preferably black rims and a sharp, alert gaze",
+      "Thick, muscular, well-arched neck with elastic skin and minimal loose dewlap",
+      "Deep, broad chest reaching below the elbows for substantial lung capacity",
+      "Thick, medium-high-set saber tail tapering toward the hock and rising in a smooth arc during movement",
+      "Straight, heavily boned forelegs and powerful, moderately angulated hindquarters built for sudden bursts of speed"
     ]
   },
 
   temperament: {
     traits: [
-      "Courageous, fearless, and tenaciously determined when working",
-      "Calm, quiet, and deeply affectionate with its own family in domestic settings",
-      "Highly protective and naturally territorial, distinguishing sharply between familiar guests and intruders",
-      "Intelligent, observant, and highly aware of its surroundings",
-      "Confident and self-assured, never exhibiting unprovoked shyness or nervous fear",
-      "Strong-willed and dominant, requiring clear, unwavering human leadership",
-      "High prey drive toward wild animals and small running pets",
-      "Can be fiercely assertive toward unfamiliar dogs, requiring careful socialization",
-      "Patient and gentle with familiar children in its own household",
-      "Stoic and insensitive to pain during high-adrenaline activities"
+      "Courageous, determined, and fearless when working",
+      "Loyal, calm, and deeply affectionate with its own household",
+      "Naturally protective and territorial around home and family",
+      "Alert, observant, and quick to respond to its handler",
+      "Confident and steady without nervous shyness",
+      "Strong-willed and physically powerful, needing firm, fair leadership",
+      "Intense prey drive toward wild game and small fast-moving animals",
+      "Can be selective or assertive toward unfamiliar dogs without careful management",
+      "Tends to hunt quietly rather than baying loudly on a scent trail"
     ],
 
     scores: {
@@ -176,7 +174,7 @@ export const dogo_argentino: Breed = {
   care: {
     exercise: {
       level:
-        "High; an explosive, athletic hunting dog that requires vigorous daily aerobic exercise and highly structured physical outlets",
+        "High; an explosive, athletic working breed that requires vigorous daily physical outlets and structured mental engagement",
 
       minutesPerDay: {
         min: 60,
@@ -184,11 +182,10 @@ export const dogo_argentino: Breed = {
       },
 
       activities: [
-        "Daily brisk running, long power-walks, or trail hiking on a sturdy leash",
-        "Free running in a very large, securely fenced and reinforced yard",
-        "Structured working tasks such as weight pulling, scent tracking, or advanced obedience training",
-        "Interactive fetch and heavy tug games using durable equipment",
-        "Supervised, controlled swimming in safe waters"
+        "Several brisk leashed walks daily, trail hikes, or steady runs",
+        "Active play in a large, securely fenced yard",
+        "Dog sports such as agility, obedience, rally, and scent tracking",
+        "Retrieving balls or flying discs, supervised swimming, and indoor trick or hide-and-seek games"
       ]
     },
 
@@ -196,35 +193,32 @@ export const dogo_argentino: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once or twice weekly using a rubber hound mitt or soft bristle brush to remove loose dead hairs and keep the white coat glossy.",
+        "Brush weekly with a rubber grooming mitt or soft bristle brush to clear loose white hairs and keep the smooth coat clean.",
 
       bathing:
-        "Bathe only when necessary using a mild, hypoallergenic canine shampoo to avoid stripping natural skin oils, or simply wipe down the coat with a damp cloth.",
+        "Bathe only occasionally with a mild canine shampoo, wiping the coat down between baths as needed.",
 
       notes: [
-        "The short white coat requires very little maintenance but shedding is steady and visible on dark furniture.",
-        "Apply dog-safe, non-toxic sunscreen to the pink skin of the nose, ears, and belly if the dog spends extended time in intense direct sunlight to prevent solar dermatitis.",
-        "Inspect the drop ears weekly for dirt, wax accumulation, or redness, cleaning gently with a veterinary-approved solution.",
-        "Trim the strong, fast-growing nails every two to three weeks to maintain correct foot alignment.",
-        "Brush teeth several times weekly using canine enzymatic toothpaste."
+        "Trim strong, fast-growing nails regularly with a clipper or grinder to prevent splitting or cracking.",
+        "Check ears weekly for wax and debris to help prevent ear infections.",
+        "Brush teeth regularly with enzymatic canine toothpaste.",
+        "Use pet-safe sunscreen on lightly pigmented areas of the nose, ears, and belly during prolonged intense sun exposure."
       ]
     },
 
     training: {
       difficulty:
-        "Challenging; highly intelligent and capable, but possesses immense physical power, strong protective instincts, and a dominant nature requiring expert, consistent handling",
+        "Challenging; bright and capable, yet combines formidable strength, high prey drive, and strong territorial instincts that require an experienced, consistent handler",
 
       tips: [
-        "Begin intensive obedience and leash-walking training in early puppyhood before massive adult strength develops.",
-        "Use firm, fair, and positive reinforcement; the breed respects calm, unwavering authority but will challenge a passive or hesitant handler.",
-        "Establish extremely clear boundaries regarding territory, visitors, and resource guarding.",
-        "Never encourage aggressive behavior or bite work without professional supervision; protective instincts are already deeply hardwired.",
-        "Always exercise within a securely fenced area of at least six feet in height with sturdy gates.",
-        "Avoid repetitive drilling; keep sessions purposeful and mentally engaging to maintain focus."
+        "Begin obedience, loose-leash manners, and impulse-control training early in puppyhood before adult weight and power develop.",
+        "Pair calm, consistent boundaries with positive reinforcement rather than harsh force.",
+        "Supervise interactions with guests and manage access to unfamiliar dogs and small pets.",
+        "Always exercise on a sturdy leash or inside a tall, securely fenced yard."
       ],
 
       socialization:
-        "Extensive, continuous socialization is absolutely critical from a young age. Introduce the dog safely and positively to a wide variety of people, neutral vaccinated dogs, diverse environments, and household guests to ensure its powerful guardian instincts mature into calm, discerning judgment rather than indiscriminate reactivity."
+        "Provide thorough, structured, ongoing socialization from early puppyhood with varied people, calm vaccinated dogs, everyday noises, and unfamiliar settings so protective instincts mature into steady, discerning judgment."
     },
 
     livingEnvironment: {
@@ -232,85 +226,78 @@ export const dogo_argentino: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Warm climates, where the short white coat effectively reflects intense sunlight",
+        "Warm climates, where the short white coat reflects heat effectively (with shade and sun protection for exposed pink skin)",
         "Temperate climates",
-        "Cool climates, provided the dog lives indoors and is given a warm coat for freezing conditions, as the single coat offers minimal winter insulation"
+        "Cool climates when housed indoors with a warm coat for freezing outdoor temperatures"
       ],
 
       aloneTimeTolerance:
-        "Moderate; requires significant daily human interaction and physical exercise, but can settle calmly on its own territory if its working needs have been met."
+        "Moderate once daily physical and mental outlets are met, though this bonded guardian prefers regular interaction with its household."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large, highly active muscular breeds, with controlled growth parameters for puppies.",
+      "Complete, balanced large-breed dog food matched to life stage (puppy, adult, or senior) and daily athletic workload.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a large-breed growth formula to prevent rapid, uneven bone development.",
+        "Three to four measured small meals daily until about six months old, then two daily meals on a large-breed growth formula supporting steady skeletal development.",
       adult:
-        "Two measured meals daily to support heavy muscle mass and reduce the volume of food in the stomach at one time.",
+        "Two measured meals daily to sustain heavy lean muscle while avoiding overly large single meals.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output and joint support."
+        "Two portion-controlled meals daily adjusted for lower calorie burn and joint comfort."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the heavy musculature is visible and excess fat is avoided. Divide daily food into two distinct meals, strictly avoid vigorous exercise for at least one hour before and after eating to mitigate bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure every meal and monitor lean muscular condition closely so excess weight does not burden large joints. Split daily rations into two meals, avoid intense running immediately before and after eating as a precaution against bloat, and keep clean, fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places severe stress on large joints and ligaments.",
-      "Account for training treats within the total daily caloric allowance to prevent obesity.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Avoid rapid puppy growth; avoid calcium supplements unless expressly prescribed by a veterinarian.",
-      "Increase protein and caloric density if the dog is actively used for strenuous hunting or weight-pulling sports.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Work with a veterinarian to choose a large-breed puppy formula and avoid unprescribed calcium supplements during growth.",
+      "Keep adult weight trim and athletic to protect hips and elbows.",
+      "Rest the dog before and after meals to help lower bloat risk.",
+      "Transition between food formulas gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly based on exercise intensity, age, and environmental temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Daily calorie needs vary widely between active hunting or sport dogs and quieter household companions. Consult a veterinarian to refine portions."
   },
 
   health: {
     overview:
-      "The Dogo Argentino is a robust, athletic, and generally healthy working breed with a typical life expectancy of 10 to 12 years. Because it is predominantly white, the breed carries a genetic predisposition for pigment-related congenital deafness. Primary health priorities focus on Brainstem Auditory Evoked Response (BAER) testing for hearing, orthopedic screening for hip and elbow dysplasia, cardiac evaluations, and preventive management for gastric dilatation-volvulus (bloat).",
+      "The Dogo Argentino is generally sturdy and athletic with a broad typical lifespan of 9 to 15 years. Because of its solid white coat genetics, pigment-associated congenital sensorineural deafness is scientifically established in the breed—affecting roughly one quarter of tested dogs in a large retrospective hearing study, with patched dogs showing a lower rate—making puppy BAER testing essential. Core parent-club pre-breeding screenings also include hip and cardiac evaluations, alongside general large-breed vigilance for bloat and sun sensitivity.",
 
     commonConditions: [
-      "Congenital sensorineural deafness — pigment-associated unilateral or bilateral deafness common in solid white breeds, verifiable in young puppies through BAER testing",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in large, deep-chested breeds, requiring emergency veterinary care",
-      "Cardiac conditions — occasional congenital heart defects monitored through veterinary cardiologist examinations",
-      "Autoimmune thyroiditis — an immune-mediated disorder leading to hypothyroidism, weight gain, and lethargy, screenable via blood testing",
-      "Solar dermatitis and sunburn — sensitivity of unpigmented skin on the nose, ears, and belly to intense ultraviolet radiation"
+      "Congenital sensorineural deafness — scientifically established pigment-linked unilateral or bilateral hearing loss (a retrospective study of 811 tested US dogs found 20.35% unilaterally deaf and 5.43% bilaterally deaf); detectable in puppies via BAER testing",
+      "Hip dysplasia — developmental hip joint malformation screened via pre-breeding radiographs to reduce osteoarthritis risk",
+      "Cardiac conditions — congenital or acquired heart disorders evaluated through veterinary cardiac examinations",
+      "Gastric dilatation-volvulus (bloat) — an acute, life-threatening conformational risk in large, deep-chested breeds requiring emergency care",
+      "Sunburn and solar dermatitis — ultraviolet sensitivity on lightly pigmented skin of the nose, ears, and abdomen during extended sun exposure",
+      "Additional monitored conditions — elbow dysplasia and autoimmune thyroiditis are also tracked electively by some breeders and veterinarians"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified BAER hearing test results, radiographic hip and elbow clearances, and cardiac evaluations.",
-      "Feed two smaller meals daily and avoid vigorous exercise immediately before or after eating to reduce bloat risk.",
-      "Maintain a lean, muscular body condition throughout growth and adulthood to minimize mechanical wear on joints.",
-      "Apply pet-safe sunscreen to exposed, lightly pigmented skin before prolonged outdoor exposure in intense summer sun.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Confirm that breeding parents and puppies have completed BAER hearing tests, plus parental hip and cardiac evaluations.",
+      "Divide daily food into two meals and avoid vigorous exercise around mealtimes to reduce bloat risk.",
+      "Protect lightly pigmented skin from prolonged intense sunlight with shade and pet-safe sunscreen.",
+      "Keep ears clean and dry, trim fast-growing nails regularly, maintain lean weight, and schedule annual veterinary wellness checks."
     ],
 
     recommendedScreenings: [
-      "Brainstem Auditory Evoked Response (BAER) hearing evaluation prior to breeding or puppy placement",
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Congenital cardiac examination including echocardiography by a veterinary cardiologist",
-      "Thyroid panel evaluation prior to breeding",
-      "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist"
+      "Brainstem Auditory Evoked Response (BAER) hearing evaluation",
+      "Radiographic hip dysplasia evaluation prior to breeding",
+      "Veterinary cardiac examination prior to breeding",
+      "Optional/elective checks (elbow radiographs, thyroid panel, and ophthalmologist exam) as advised by a veterinarian or breeder"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has massively powerful jaws with a complete 42-tooth scissor or pincer bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth regularly with canine enzymatic toothpaste and schedule periodic veterinary dental exams to keep the strong jaws and gums healthy.",
 
     earCare:
-      "Inspect the ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check ears weekly for wax buildup, debris, or redness and clean gently with a veterinarian-approved solution to prevent ear infections.",
 
     skinCare:
-      "Part the short coat weekly during brushing to inspect the skin for external parasites, cuts, or solar irritation. Avoid excessive bathing to preserve the coat's natural protective barrier."
+      "Inspect the short white coat and skin weekly during brushing for scrapes, parasites, or sun irritation, avoiding unnecessary frequent baths."
   },
 
   suitability: {
@@ -321,84 +308,73 @@ export const dogo_argentino: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Highly experienced dog owners familiar with dominant, powerful guardian or mastiff breeds and firm, positive leadership",
-      "Active individuals or rural households with extensive, securely fenced property",
-      "Hunters or sportsmen seeking a courageous, athletic catch dog",
-      "Owners deeply committed to extensive, lifelong socialization and rigorous daily exercise",
-      "Homes without small, vulnerable pets due to intense prey drive"
+      "Highly experienced owners confident in guiding powerful guardian or big-game hunting breeds with steady leadership",
+      "Active households or rural properties with a large, securely fenced yard",
+      "Hunters or sport handlers committed to daily exercise, structured training, and ongoing socialization",
+      "Homes without small free-roaming pets"
     ],
 
     notIdealFor: [
-      "First-time dog owners, passive handlers, or those intimidated by immense physical strength",
-      "Apartment, condominium, or dense urban dwellers without access to a large, secure yard",
-      "Households with frequent, unannounced visitors or chaotic children's neighborhood playgroups",
-      "Owners seeking an easygoing dog park companion that mixes freely with unfamiliar dogs",
-      "Sedentary individuals looking for a low-energy indoor pet"
+      "First-time dog owners or tentative handlers unprepared for massive strength and protective instincts",
+      "Apartments or dense urban housing without secure outdoor space",
+      "Owners seeking a carefree off-leash dog-park companion with unfamiliar dogs",
+      "Sedentary households wanting a low-exercise pet"
     ]
   },
 
   funFacts: [
-    "To create the ultimate big-game hunter, Dr. Antonio Nores Martinez used the Old Fighting Dog of Córdoba as a base, systematically crossbreeding it with the Great Dane, Boxer, Spanish Mastiff, Old English Bulldog, Bull Terrier, Pyrenean Mastiff, English Pointer, Irish Wolfhound, and Dogue de Bordeaux.",
-    "The Dogo Argentino's stark white coat was intentionally selected so the dogs would be easily visible to hunters on the pampas and brushlands of Argentina, preventing accidental shootings during chaotic hunts.",
-    "Despite its fierce reputation as a boar-catcher and puma hunter, the breed standard heavily emphasizes a dog that is quiet and affectionately devoted at home; Dr. Nores Martinez strictly culled dogs that showed unprovoked aggression toward humans.",
-    "The Dogo is renowned for hunting silently; rather than baying on the trail like a scenthound, it tracks and chases its quarry quietly until the final confrontation.",
-    "While it is the pride of Argentina and the first internationally recognized breed developed in that country, the Dogo Argentino's immense power and protective nature have led to it being restricted or banned in certain countries with strict breed-specific legislation."
+    "Dr. Antonio Nores Martinez began creating the breed in Córdoba in 1928, starting from the extinct Fighting Dog of Córdoba and blending traits from multiple imported working, mastiff, terrier, and pointing breeds.",
+    "Its stark white coat was deliberately chosen so hunters could spot the dogs easily against dark Argentine brush and avoid accidental injury during fast-moving hunts.",
+    "Unlike vocal scenthounds that bay continuously along a trail, the Dogo Argentino tracks and closes on game quietly.",
+    "A large retrospective hearing study of 811 US Dogo Argentinos found that dogs carrying a dark head patch had a significantly lower rate of congenital deafness than completely unpatched white dogs.",
+    "Because of its immense strength and guarding heritage, the Dogo Argentino faces ownership restrictions or bans in several countries, so prospective owners should always check local laws."
   ],
 
   faq: [
     {
-      question: "What is a Dogo Argentino?",
+      question: "What kind of dog is a Dogo Argentino?",
       answer:
-        "The Dogo Argentino is a large, powerfully built, and entirely white mastiff-type breed from Argentina, originally developed in the 1920s to hunt big game like wild boar and puma while serving as a loyal, fearless family guardian."
+        "It is a large, heavily muscled, all-white mastiff-type hunting breed developed in Argentina in the 1920s for pack pursuit of wild boar and puma, valued today as both a working hunter and a loyal guardian for experienced owners."
     },
     {
-      question: "How tall and heavy is a Dogo Argentino?",
+      question: "How tall and heavy does a Dogo Argentino get?",
       answer:
-        "Adult males stand 60 to 68 cm at the withers and weigh 40 to 45 kg, while adult females stand 60 to 65 cm and weigh 40 to 43 kg, presenting a heavily muscled and athletic frame."
+        "Adult males stand 60 to 68 cm at the withers and weigh 40 to 45 kg, while adult females stand 60 to 65 cm and weigh 40 to 43 kg."
     },
     {
-      question: "How long does a Dogo Argentino live?",
+      question: "What is the average lifespan of a Dogo Argentino?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a lifespan of 10 to 12 years."
+        "Typical life expectancy ranges from 9 to 15 years with lean weight management, steady exercise, and routine veterinary care."
     },
     {
-      question: "Is the Dogo Argentino a good family dog?",
+      question: "Is a Dogo Argentino suitable for first-time dog owners or apartments?",
       answer:
-        "Yes, but only for highly experienced, active families. Within their own household, they are deeply affectionate, loyal, and gentle with their own children, but their massive strength and protective instincts require expert handling and socialization."
+        "No. Its immense strength, high prey drive, territorial instincts, and daily exercise needs require an experienced handler and a home with a large, securely fenced yard."
     },
     {
-      question: "Are Dogo Argentinos aggressive?",
+      question: "Why is hearing testing important for Dogo Argentinos?",
       answer:
-        "A well-bred and properly socialized Dogo is not indiscriminately aggressive toward humans; they are calm and confident. However, they are highly territorial, have a very strong prey drive toward animals, and can be severely dog-aggressive if not trained and managed properly."
+        "Like several predominantly white breeds, Dogo Argentinos have a documented risk of pigment-linked congenital sensorineural deafness, so responsible breeders perform BAER hearing tests on puppies and breeding stock."
     },
     {
-      question: "Can a Dogo Argentino live in an apartment?",
+      question: "How much grooming does a Dogo Argentino need?",
       answer:
-        "No. Due to their large size, immense power, protective instincts, and need for vigorous daily exercise, they are completely unsuited to apartment living and require a home with a large, securely fenced yard."
+        "Very little: weekly brushing with a rubber mitt or soft brush and occasional baths handle its short white coat, paired with regular nail trims, ear checks, tooth brushing, and sun protection on exposed pink skin."
     },
     {
-      question: "Why do some Dogo Argentinos have hearing problems?",
+      question: "How much daily exercise does a Dogo Argentino need?",
       answer:
-        "Like many primarily white breeds (such as Dalmatians and Bull Terriers), the lack of pigment-producing cells can affect the inner ear, leading to congenital deafness; reputable breeders BAER test all puppies before placement."
+        "Plan on 60 to 90 minutes of vigorous daily activity, combining brisk walks, hikes, fenced yard play, and structured training or dog sports."
     },
     {
-      question: "Do Dogo Argentinos shed a lot, and how are they groomed?",
+      question: "What health screenings are recommended for breeding Dogo Argentinos?",
       answer:
-        "They shed moderately year-round. Their short white coat is very low-maintenance, requiring only weekly brushing with a rubber mitt and occasional baths, though they may need sunscreen on exposed pink skin in intense summer heat."
-    },
-    {
-      question: "How much exercise does a Dogo Argentino need each day?",
-      answer:
-        "The breed requires 60 to 90 minutes of vigorous daily physical activity, including long hikes, running, and structured training tasks to keep them physically and mentally fulfilled."
-    },
-    {
-      question: "What health screenings are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include BAER hearing tests, radiographic evaluations for hip and elbow dysplasia, veterinary cardiac exams, and thyroid evaluations."
+        "Core pre-breeding checks include BAER hearing testing, radiographic hip evaluation, and a veterinary cardiac exam, with elbows, thyroid, and eyes checked electively when advised."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-dogo-argentino-official-standard",
     "fci-dogo-argentino-nomenclature",
     "akc-dogo-argentino-breed-standard",
@@ -406,17 +382,24 @@ export const dogo_argentino: Breed = {
     "ukc-dogo-argentino-breed-standard",
     "daca-health-programs",
     "ofa-dogo-argentino-chic-requirements",
+    "pubmed-dogo-argentino-deafness-2021",
     "wikimedia-dogo-argentino-in-a-field",
-    "wikimedia-dogo-argentino-argentijnse-dog"
+    "wikimedia-dogo-argentino-argentijnse-dog",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Canis lupus familiaris (Domestic Dog) taxonomic record"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Domestic dog taxonomic name verified via NatureServe Explorer."
     },
 
     alternateNames: {
@@ -430,16 +413,16 @@ export const dogo_argentino: Breed = {
         {
           id: "fci-dogo-argentino-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: DOGO ARGENTINO (292)"
+          locator: "Official nomenclature (No. 292): DOGO ARGENTINO, DOGUE ARGENTIN, ARGENTINISCHE DOGGE"
         },
         {
-          id: "akc-dogo-argentino-breed-profile",
-          role: "verified",
-          locator: "History: Argentine Dogo, Argentinean Mastiff"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Argentine Mastiff, Argentine Dogo"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified across FCI Standard No. 292, FCI Nomenclature, and AKC."
+      verifiedOn: "2026-11-26",
+      note: "Verified across FCI Standard No. 292, FCI Nomenclature, and The Dog API."
     },
 
     group: {
@@ -453,7 +436,7 @@ export const dogo_argentino: Breed = {
         {
           id: "fci-dogo-argentino-nomenclature",
           role: "verified",
-          locator: "Group 2, Section 2.1 Mastiff type Molossoids, without working trial"
+          locator: "Group 2, Section 2 Molossoid breeds, Subsection Mastiff type, not subject to a working trial"
         },
         {
           id: "akc-dogo-argentino-breed-standard",
@@ -462,13 +445,17 @@ export const dogo_argentino: Breed = {
         },
         {
           id: "ukc-dogo-argentino-breed-standard",
-          role: "verified",
+          role: "cited",
           locator: "Guardian Dog Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Working"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-26",
+      note: "User-facing group label omits registry names per Rule 5."
     },
 
     origin: {
@@ -477,20 +464,25 @@ export const dogo_argentino: Breed = {
         {
           id: "fci-dogo-argentino-official-standard",
           role: "verified",
-          locator: "ORIGIN: Republic of Argentina; BRIEF HISTORICAL SUMMARY (Province of Cordoba)"
+          locator: "ORIGIN: Argentina; Córdoba Province"
         },
         {
           id: "fci-dogo-argentino-nomenclature",
           role: "verified",
-          locator: "Country of origin: Argentina"
+          locator: "Country of origin: ARGENTINA"
         },
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "verified",
-          locator: "History: Developed in central Argentina"
+          locator: "History: Province of Cordoba, central Argentina"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Argentina"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -505,12 +497,16 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (Dr. Antonio Nores Martinez, 1928, ten breeds), and Roles"
+          locator: "About the Breed, History (Dr. Antonio Nores Martinez, 1928, Cordoba), and Roles"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesized in original prose from FCI Standard No. 292 and AKC official records."
+      verifiedOn: "2026-11-26",
+      note: "Written in original prose grounded in FCI Standard No. 292 and AKC records."
     },
 
     physical: {
@@ -519,22 +515,26 @@ export const dogo_argentino: Breed = {
         {
           id: "fci-dogo-argentino-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR (solid white, dark head patch <=10%), SIZE AND WEIGHT"
+        },
+        {
+          id: "akc-dogo-argentino-breed-profile",
+          role: "verified",
+          locator: "About the Breed: short plain smooth completely white coat, dark patch near eye <=10% of head"
         },
         {
           id: "akc-dogo-argentino-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Coat, Color"
+          locator: "General Appearance, Head, Coat, Color"
         },
         {
-          id: "ukc-dogo-argentino-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Head, Body, Coat, Color, Height and Weight"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.coat_colors (broader unstandardized colour list excluded in favor of official white coat)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Conformation, heavy bone, solid white coat with dark spot limit, convex skull, and distinctive features follow official standards."
+      verifiedOn: "2026-11-26",
+      note: "Coat colour follows FCI Standard No. 292 and AKC (completely white with at most one dark head patch <=10%), excluding The Dog API's broad unstandardized colour list."
     },
 
     "physical.height": {
@@ -543,12 +543,21 @@ export const dogo_argentino: Breed = {
         {
           id: "fci-dogo-argentino-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at the withers: Males: 60 to 68 cm. Females: 60 to 65 cm."
+          locator: "SIZE AND WEIGHT: Height at the withers — Males 60 to 68 cm, Females 60 to 65 cm"
+        },
+        {
+          id: "akc-dogo-argentino-breed-profile",
+          role: "cited",
+          locator: "Height: 24-26.5 inches (male), 24-25.5 inches (female)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height: male 61-67 cm, female 61-65 cm"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Preserved in published unit of centimetres (60–68 cm for males and 60–65 cm for females) exactly as specified in the official FCI Standard No. 292."
+      verifiedOn: "2026-11-26",
+      note: "Preserved in published centimetres from FCI Standard No. 292 (60-68 cm males, 60-65 cm females), which supersedes The Dog API's 61-67 / 61-65 cm range."
     },
 
     "physical.weight": {
@@ -557,12 +566,21 @@ export const dogo_argentino: Breed = {
         {
           id: "fci-dogo-argentino-official-standard",
           role: "verified",
-          locator: "Weight: Males: 40 to 45 kg. Females: 40 to 43 kg."
+          locator: "SIZE AND WEIGHT: Weight — Males 40 to 45 kg, Females 40 to 43 kg"
+        },
+        {
+          id: "akc-dogo-argentino-breed-profile",
+          role: "cited",
+          locator: "Weight: 80-100 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight: male 40-45 kg, female 40-43 kg"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Preserved in published unit of kilograms (40 to 45 kg for males and 40 to 43 kg for females) exactly as specified in the official FCI Standard No. 292."
+      verifiedOn: "2026-11-26",
+      note: "Preserved in published kilograms from FCI Standard No. 292 (40-45 kg males, 40-43 kg females), matching The Dog API."
     },
 
     "physical.lifespanYears": {
@@ -571,11 +589,16 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 10-12 years"
+          locator: "Life Expectancy: 9-15 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 9-15 years"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Updated to 9-15 years, matching both the live AKC breed profile and The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -584,15 +607,15 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
+          locator: "Grooming & Breed Traits: short smooth coat needing weekly brushing"
         },
         {
           id: "fci-dogo-argentino-official-standard",
           role: "verified",
-          locator: "COAT: Uniform, short, plain and smooth to the touch, with an average length of 1.5 to 2 cm."
+          locator: "COAT: Uniform, short, plain, smooth, 1.5 to 2 cm"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -607,11 +630,11 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (3/5)"
+          locator: "Breed Traits: Drooling Level"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Tight-fitting lips for a mastiff reduce resting drool, though some occurs during work."
+      verifiedOn: "2026-11-26",
+      note: "Moderately thick, short, tight lips limit resting drool relative to heavier mastiffs."
     },
 
     "temperament.traits": {
@@ -620,20 +643,20 @@ export const dogo_argentino: Breed = {
         {
           id: "fci-dogo-argentino-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: It should be silent, never barking on the trail. Astute, alert, tenacious, courageous, confident. Highly territorial."
+          locator: "BEHAVIOUR/TEMPERAMENT: Silent hunter, astute, alert, tenacious, courageous, confident, territorial"
         },
         {
-          id: "akc-dogo-argentino-breed-standard",
+          id: "akc-dogo-argentino-breed-profile",
           role: "verified",
-          locator: "Character & Temperament: Strong, tenacious and rustic dog created to protect family and property, as well as to hunt large game."
+          locator: "Loyal, courageous, athletic; alert and intelligent expression"
         },
         {
-          id: "ukc-dogo-argentino-breed-standard",
-          role: "verified",
-          locator: "Temperament: Loyal, protective, high prey drive"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament: Courageous, loyal, protective, confident, intelligent, energetic"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -643,17 +666,11 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
-        },
-        {
-          id: "ukc-dogo-argentino-breed-standard",
-          role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Breed Traits & Characteristics ratings"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented big-game mastiff temperament, extreme protectiveness, and dog assertiveness."
+      note: "Editorial 1-5 scores reflecting verified big-game hunting drive, strong protectiveness, and dog assertiveness."
     },
 
     care: {
@@ -662,17 +679,16 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming (weekly brush, occasional bath, nail trims, ear checks, tooth brushing), Exercise, Nutrition"
         },
         {
           id: "daca-health-programs",
           role: "cited",
-          locator: "Care, sun protection, and secure containment"
+          locator: "Parent club care and health guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active hunting dog management with short-coat sun protection and secure boundary protocols."
+      note: "Combines kennel club grooming, exercise, and sun-protection care."
     },
 
     "care.exercise.level": {
@@ -681,15 +697,15 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
+          locator: "Exercise: athletic working dog needing several daily walks, fenced play, or sports"
         },
         {
           id: "fci-dogo-argentino-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Big game hunting dog with explosive power and agility"
+          locator: "UTILIZATION: Big-game pack hunter built for explosive energy"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -699,12 +715,11 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "cited",
-          locator: "Exercise recommendations for working catch dogs"
+          locator: "Daily exercise and active sport recommendations"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic, muscular working hound."
+      note: "Editorial estimate of 60 to 90 minutes daily for an adult athletic working breed."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -713,17 +728,11 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "cited",
-          locator: "Large size, strong guarding instincts, and need for open movement"
-        },
-        {
-          id: "ukc-dogo-argentino-breed-standard",
-          role: "cited",
-          locator: "Territorial nature and housing requirements"
+          locator: "Large size, high athleticism, and preference for fenced yard access"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that massive size, protective territorial instincts, and heavy exercise needs make apartment living unsuitable."
+      note: "Editorial assessment that large size, protective territorial instincts, and exercise needs make apartments unsuitable."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -732,10 +741,10 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations (minimum six-foot fence)"
+          locator: "Exercise: backyard, preferably fenced"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -745,15 +754,10 @@ export const dogo_argentino: Breed = {
         {
           id: "fci-dogo-argentino-official-standard",
           role: "verified",
-          locator: "COAT: Short white coat reflects heat, lacks insulation in severe cold"
-        },
-        {
-          id: "akc-dogo-argentino-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: excels in warm weather; sensitive to extreme cold"
+          locator: "COAT: Short smooth white coat adapted to warm Argentine plains, light undercoat in cold climates"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -763,7 +767,7 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate; devoted family guardian"
+          locator: "Loyal family guardian traits"
         }
       ],
       verifiedOn: null,
@@ -776,12 +780,11 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for large active breeds"
+          locator: "Nutrition: large-breed life-stage formula tailored with veterinarian"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for large, heavily muscled working breeds."
+      note: "Reflects AKC large-breed nutrition guidance and bloat precautions."
     },
 
     "nutrition.feedingFrequency": {
@@ -790,117 +793,124 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals to mitigate bloat"
+          locator: "Nutrition: life-stage meal frequency guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule for large breeds."
+      note: "Standard large-breed life-stage feeding schedule."
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "daca-health-programs",
+          id: "pubmed-dogo-argentino-deafness-2021",
           role: "verified",
-          locator: "DACA Health Committee guidelines on BAER testing, Hip Dysplasia, and Cardiac evaluation"
+          locator: "Retrospective BAER study of 811 US Dogo Argentinos: 25.77% overall congenital sensorineural deafness (20.35% unilateral, 5.43% bilateral); lower prevalence in patched dogs"
+        },
+        {
+          id: "akc-dogo-argentino-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests From the National Breed Club: Hip Evaluation, Cardiac Exam, BAER Testing"
         },
         {
           id: "ofa-dogo-argentino-chic-requirements",
           role: "verified",
-          locator: "CHIC Program requirements: Deafness (BAER), Hip Dysplasia, Cardiac Evaluation"
+          locator: "OFA CHIC health testing requirements (BAER, Hips, Cardiac)"
+        },
+        {
+          id: "daca-health-programs",
+          role: "verified",
+          locator: "Dogo Argentino Club of America Health Programs"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesizes national health registry screening protocols with parent club veterinary priorities."
+      verifiedOn: "2026-11-26",
+      note: "Grounds congenital sensorineural deafness in peer-reviewed veterinary data alongside core parent-club screenings."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "daca-health-programs",
+          id: "pubmed-dogo-argentino-deafness-2021",
           role: "verified",
-          locator: "Congenital deafness, Hip Dysplasia, Cardiac diseases, Autoimmune Thyroiditis"
+          locator: "Congenital sensorineural deafness prevalence (25.77% overall across 811 tested dogs)"
         },
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "verified",
-          locator: "Gastric dilatation-volvulus (bloat) and solar dermatitis"
+          locator: "Core screening focus: Hip Evaluation, Cardiac Exam, BAER Testing"
+        },
+        {
+          id: "daca-health-programs",
+          role: "cited",
+          locator: "Elective monitoring for elbows and thyroid alongside core tests"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-26",
+      note: "Distinguishes scientifically established deafness prevalence and core screened conditions from general large-breed conformational risks and elective checks."
     },
 
     "health.preventiveCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "daca-health-programs",
-          role: "cited",
-          locator: "Preventive health, sun protection, and joint management"
-        },
-        {
           id: "akc-dogo-argentino-breed-profile",
           role: "cited",
-          locator: "Routine care, bloat precautions, and veterinary wellness checks"
+          locator: "Health, Grooming (ear checks, nail trims, tooth brushing), and Nutrition"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to white-coated large mastiff breeds."
+      note: "Preventive care tailored to white-coated, deep-chested large working breeds."
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-dogo-argentino-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests From the National Breed Club: Hip Evaluation, Cardiac Exam, BAER Testing"
+        },
+        {
           id: "ofa-dogo-argentino-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: Congenital Deafness (BAER), Radiographic Hip Dysplasia evaluation, Cardiac Evaluation"
+          locator: "OFA CHIC required screenings: BAER, Hip Dysplasia, Cardiac"
         },
         {
           id: "daca-health-programs",
           role: "verified",
-          locator: "Required tests: BAER, Hips, Cardiac. Elective tests: Elbows, Thyroid, CAER Eye exam."
+          locator: "DACA Health Programs (core + elective screenings)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-26",
+      note: "Separates the three core National Breed Club screenings (BAER, hips, cardiac) from optional elective checks."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-dogo-argentino-official-standard",
+          id: "akc-dogo-argentino-breed-profile",
           role: "cited",
-          locator: "Jaws/teeth: strong jaws with complete scissor or pincer bite"
+          locator: "Grooming: teeth should be brushed regularly"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "Standard canine dental hygiene guidance."
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-dogo-argentino-official-standard",
-          role: "cited",
-          locator: "Ears: set high, flat and rounded at tip, uncropped hanging"
-        },
-        {
           id: "akc-dogo-argentino-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Grooming: check ears regularly for wax and debris to avoid infection"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: "Routine ear inspection and cleaning guidance."
     },
 
     "health.skinCare": {
@@ -909,16 +919,11 @@ export const dogo_argentino: Breed = {
         {
           id: "fci-dogo-argentino-official-standard",
           role: "cited",
-          locator: "Skin: thick, elastic; short white coat"
-        },
-        {
-          id: "akc-dogo-argentino-breed-profile",
-          role: "cited",
-          locator: "Skin protection from sunburn"
+          locator: "Short white coat and skin"
         }
       ],
       verifiedOn: null,
-      note: "General skin and sun-protection care guidelines."
+      note: "General skin and sun-protection care for short white coats."
     },
 
     suitability: {
@@ -927,17 +932,11 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
-        },
-        {
-          id: "ukc-dogo-argentino-breed-standard",
-          role: "cited",
-          locator: "Characteristics and guardian lifestyle suitability"
+          locator: "About the Breed, Exercise, and Temperament"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, extreme power, and guardian dominance."
+      note: "Editorial suitability assessment reflecting immense strength, high prey drive, and guardian instincts."
     },
 
     funFacts: {
@@ -946,16 +945,21 @@ export const dogo_argentino: Breed = {
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "verified",
-          locator: "Dr. Antonio Nores Martinez development, ten breed foundation, Old Fighting Dog of Córdoba"
+          locator: "History: Dr. Antonio Nores Martinez, 1928, Cordoba; big-game hunting for boar and mountain lion"
         },
         {
           id: "fci-dogo-argentino-official-standard",
           role: "verified",
-          locator: "Brief historical summary: White coat for high visibility, silent hunter trait"
+          locator: "Silent hunting trait and white coat visibility"
+        },
+        {
+          id: "pubmed-dogo-argentino-deafness-2021",
+          role: "verified",
+          locator: "Lower deafness prevalence in head-patched dogs across 811 tested US Dogo Argentinos"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-26",
+      note: "Verified breed history, working style, and genetics findings written in original prose."
     },
 
     faq: {
@@ -964,24 +968,23 @@ export const dogo_argentino: Breed = {
         {
           id: "fci-dogo-argentino-official-standard",
           role: "verified",
-          locator: "Origin, height (60-68 cm / 60-65 cm), weight (40-45 kg / 40-43 kg), solid white coat, and dark spot limit"
+          locator: "Origin, height (60-68 cm / 60-65 cm), weight (40-45 kg / 40-43 kg), white coat"
         },
         {
           id: "akc-dogo-argentino-breed-profile",
           role: "verified",
-          locator: "Lifespan (10-12 years), apartment living, family life, and dog aggression"
+          locator: "Lifespan (9-15 years), grooming, exercise, recommended health tests (BAER, hips, cardiac)"
         },
         {
-          id: "ofa-dogo-argentino-chic-requirements",
+          id: "pubmed-dogo-argentino-deafness-2021",
           role: "verified",
-          locator: "Recommended health screening panel (BAER, Hips, Heart)"
+          locator: "Congenital sensorineural deafness prevalence and BAER testing"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and health registry data without naming registries in prose."
+      verifiedOn: "2026-11-26",
+      note: "FAQ answers synthesize verified kennel club standards and peer-reviewed veterinary research without naming registries."
     }
   },
 
-  updatedOn: "2026-11-13"
+  updatedOn: "2026-11-26"
 };

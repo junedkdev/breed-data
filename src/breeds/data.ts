@@ -264,6 +264,9 @@ import { poodle } from "./poodle";
 import { karelian_bear_dog } from "./karelian_bear_dog";
 import { lapponian_herder } from "./lapponian_herder";
 import { australian_kelpie } from "./australian_kelpie";
+import { borzoi } from "./borzoi";
+import { japanese_terrier } from "./japanese_terrier";
+import { fila_brasileiro } from "./fila_brasileiro";
 
 
 export const breedData: readonly Breed[] = [
@@ -527,4 +530,7 @@ export const breedData: readonly Breed[] = [
   karelian_bear_dog,
   lapponian_herder,
   australian_kelpie,
+  borzoi,
+  japanese_terrier,
+  fila_brasileiro,
 ];

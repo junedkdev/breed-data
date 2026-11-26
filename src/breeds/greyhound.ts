@@ -6,37 +6,37 @@ export const greyhound: Breed = {
   scientificName: "Canis lupus familiaris",
 
   alternateNames: [
-    "English Greyhound"
+    "English Greyhound",
+    "Lévrier Anglais"
   ],
 
-  group:
-    "Sighthounds; Section 3 — Short-haired sighthounds (without working trial; also classified in the Hound group)",
+  group: "Short-haired sighthound",
 
   origin: {
     country: "Great Britain",
     region:
-      "England, United Kingdom (with ancient roots tracing back to the Middle East and Ancient Egypt)"
+      "England and Scotland, with ancient sighthound lineage traced to North Africa and the Middle East"
   },
 
   images: [
     {
-      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Greyhound_(15743605663).jpg",
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Greyhound_brindle_standing.jpg",
       sourcePage:
-        "https://commons.wikimedia.org/wiki/File:Greyhound_(15743605663).jpg",
-      title: "Greyhound (15743605663).jpg",
+        "https://commons.wikimedia.org/wiki/File:Greyhound_brindle_standing.jpg",
+      title: "Greyhound brindle standing.jpg",
       description:
-        "An adult fawn-colored Greyhound standing outdoors.",
-      creator: "KK70088",
-      uploader: "FlickreviewR 2",
-      capturedOn: "2010-04-11",
-      uploadedOn: "2014-11-25",
-      width: 1558,
-      height: 1038,
-      licenseId: "cc-by-sa-2.0",
+        "A full-body profile of an adult brindle Greyhound standing outdoors.",
+      creator: "Scott Feldstein",
+      uploader: "Pharaoh Hound",
+      capturedOn: "2005-10-09",
+      uploadedOn: "2007-02-03",
+      width: 2306,
+      height: 1700,
+      licenseId: "cc-by-2.0",
       attribution:
-        "Photo by KK70088, Wikimedia Commons, CC BY-SA 2.0. Source: https://commons.wikimedia.org/wiki/File:Greyhound_(15743605663).jpg. License: https://creativecommons.org/licenses/by-sa/2.0/.",
+        "Photo by Scott Feldstein, Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Greyhound_brindle_standing.jpg. License: https://creativecommons.org/licenses/by/2.0/.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+      metadataCheckedOn: "2026-11-26"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Greyhound_Close-up.jpg",
@@ -44,7 +44,7 @@ export const greyhound: Breed = {
         "https://commons.wikimedia.org/wiki/File:Greyhound_Close-up.jpg",
       title: "Greyhound Close-up.jpg",
       description:
-        "A close-up view of a brindle Greyhound's head and neck.",
+        "A head-and-neck close-up of a brindle female Greyhound looking alertly to the side.",
       creator: "Vincent Eisfeld",
       uploader: "Vincent Eisfeld",
       capturedOn: "2015-06-18",
@@ -53,30 +53,31 @@ export const greyhound: Breed = {
       height: 3316,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Vincent Eisfeld, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Greyhound_Close-up.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+        "© Vincent Eisfeld / vincent-eisfeld.de / CC BY-SA 4.0, Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:Greyhound_Close-up.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/.",
+      restrictions:
+        "CC BY-SA 4.0 requires credit in the creator's requested format (© Vincent Eisfeld / vincent-eisfeld.de / CC BY-SA 4.0) and ShareAlike terms if the image is adapted.",
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A tall, aerodynamic, and elegantly muscular British sighthound celebrated globally as the fastest breed of dog, possessing a gentle, even-tempered personality indoors and an explosive, unmatched sprinting capacity outdoors.",
+      "A tall, sleek British sighthound famous for unmatched sprinting speed outdoors and a remarkably quiet, easygoing nature indoors.",
 
     description:
-      "The Greyhound is a marvel of canine biomechanics, engineered strictly for immense speed, acute vision, and breathtaking agility. Standing tall and upstanding, the breed combines a deep, capacious chest providing maximum heart room with a highly flexible, slightly arched loin and a long, muscular neck. Its aerodynamic silhouette is covered by a fine, close-lying coat that can be found in a wide array of colors, including black, white, red, blue, fawn, and brindle. The long, moderately wide head features a flat skull, a slight stop, and bright, dark, oval eyes that radiate an intelligent and gentle spirit. Although the Greyhound is a legendary pursuit hunter capable of reaching speeds over forty miles per hour in open coursing, its indoor demeanor is famously calm, quiet, and deeply affectionate, earning it a reputation as a sweet-natured 'couch potato' when off duty.",
+      "Built for explosive acceleration rather than heavy endurance, the Greyhound pairs a long, finely muscled frame with a deep ribcage that leaves generous room for heart and lungs. A slightly arched loin, sweeping hindquarters, and a long, graceful neck give the breed its unmistakable curved silhouette. The fine, close-lying coat hugs the body in many colors and patterns, while dark, oval eyes and small folded rose ears lend an attentive, gentle expression. Away from open spaces, most Greyhounds trade their athletic drive for long, peaceful naps on the softest surface they can find.",
 
     history:
-      "The exact origins of the Greyhound remain a subject of historical debate, but experts widely agree that dogs of this distinct aerodynamic sighthound type have existed since antiquity, with depictions adorning ancient Egyptian tombs dating back to 4000 BCE. The breed was brought to Europe and heavily cultivated in Great Britain, where it became the favored coursing hound of the aristocracy. For centuries, British law dictated that only nobility were permitted to own and hunt with Greyhounds, using them to pursue hare, fox, and deer across vast estates. By the late nineteenth and early twentieth centuries, the breed's role evolved toward organized track racing and competitive coursing, leading to a split between show-bred (bench) Greyhounds and racing-bred strains. Regardless of their lineage, modern Greyhounds have transitioned seamlessly into popular and devoted family companions, particularly through extensive adoption programs for retired racing dogs.",
+      "Slender, long-legged sighthounds of this type appear in ancient art from North Africa and the Mediterranean, including carvings in the Fourth Dynasty Egyptian Tomb of Amten dating to roughly 2900–2751 BCE. Over centuries, these swift hounds spread across Europe and were carefully refined in Great Britain for open-field coursing, especially pursuing hare by sight. Historically prized by British nobility and landed estates, the breed later became closely tied to competitive track racing during the nineteenth and twentieth centuries. Today, both purpose-bred show or lure-coursing lines and retired racing dogs are widely cherished as calm household companions.",
 
     originalPurpose:
-      "Open-field coursing of fast game, particularly hare and deer, relying entirely on exceptional eyesight and explosive sprinting speed.",
+      "High-speed open-field coursing of hare and other swift game by sight",
 
     currentRoles: [
-      "Retired racing and coursing hound transitioned to family companion",
-      "Canine athlete in amateur lure coursing, straight racing, and agility",
-      "Gentle and affectionate household pet",
-      "Therapy and emotional support dog"
+      "Household companion",
+      "Lure coursing and amateur sighthound sports",
+      "Therapy dog",
+      "Conformation participant"
     ]
   },
 
@@ -113,7 +114,7 @@ export const greyhound: Breed = {
     },
 
     coatType:
-      "Very short, fine, and close-lying single coat offering virtually no protection against extreme cold, heat, or coarse brush.",
+      "Fine, smooth, close-lying single coat with firm texture and minimal natural insulation",
 
     coatLength: "Short",
 
@@ -122,45 +123,40 @@ export const greyhound: Breed = {
       "White",
       "Red",
       "Blue",
+      "Fallow",
       "Fawn",
       "Brindle",
-      "Any of the above colors broken with white (parti-color)"
+      "Broken with white (parti-color)"
     ],
 
     sheddingLevel:
-      "Low to moderate; the very short, fine single coat sheds lightly year-round and requires minimal maintenance",
+      "Low to moderate; the short single coat sheds lightly throughout the year without heavy seasonal matting",
 
     droolingLevel:
-      "Low; clean, powerfully chiseled jaws and tight lips prevent drooling",
+      "Low; tight lips and clean jaws keep drooling minimal",
 
     distinctiveFeatures: [
-      "Tall, incredibly aerodynamic sighthound silhouette combining muscular power with symmetrical, graceful proportions",
-      "Ideal height at the withers of 71 to 76 cm for males and 68 to 71 cm for females",
-      "Working weight typically ranging from 65 to 70 pounds for males and 60 to 65 pounds for females",
-      "Deep, capacious chest providing vast lung and heart room, contrasting with a well-cut-up flank and slightly arched loin",
-      "Long head with a flat skull, slight stop, and powerful, well-chiseled muzzle lacking heavy flews",
-      "Complete, regular scissor bite with very strong teeth",
-      "Bright, intelligent, dark oval eyes set obliquely",
-      "Small, fine-textured rose-shaped ears that fold backward at rest and semi-prick when alert",
-      "Long, elegantly arched, muscular neck blending cleanly into oblique, well-laid-back shoulders",
-      "Extremely powerful, wide, and muscular thighs and second thighs providing immense propelling power",
-      "Long, fine, tapering tail set rather low and carried slightly curved",
-      "Moderate-length feet featuring compact, well-knuckled toes and strong pads"
+      "Tall, streamlined outline with a deep, spacious chest and pronounced abdominal tuck",
+      "Long, moderately wide head with a flat skull, gentle stop, and strong, clean-cut jaws",
+      "Complete scissor bite with sturdy teeth",
+      "Bright, dark, oval eyes set obliquely with an alert, calm expression",
+      "Small, thin rose-shaped ears folded neatly backward at rest",
+      "Long, muscular, gracefully arched neck blending smoothly into well-sloped shoulders",
+      "Broad, heavily muscled thighs and second thighs built for rapid thrust",
+      "Long, low-set tail tapering smoothly to a fine tip with a slight upward curve",
+      "Compact, well-knuckled hare-like feet with tough pads and strong claws"
     ]
   },
 
   temperament: {
     traits: [
-      "Intelligent, gentle, and remarkably affectionate with its family",
-      "Even-tempered, calm, and famously quiet indoors",
-      "Independent and aloof yet unfailingly polite with unfamiliar strangers",
-      "Intensely visually driven with explosive prey drive toward fast-moving objects or small animals",
-      "Highly athletic and explosive in short outdoor sprints",
-      "Sensitive to loud noises, harsh corrections, or chaotic environments",
-      "Patient and sweet-natured with respectful older children",
-      "Sociable and peaceable with other medium-to-large dogs",
-      "Prefers soft, cushioned sleeping surfaces due to lack of body fat and thin skin",
-      "Lacks strong territorial guarding or protective instincts"
+      "Calm, quiet, and relaxed inside the home",
+      "Gentle and affectionate with trusted family members",
+      "Independent and somewhat reserved around unfamiliar people",
+      "Strongly driven to chase fast-moving small animals by sight",
+      "Sensitive to harsh voices, sudden commotion, and rough handling",
+      "Generally polite and easygoing with other medium-to-large dogs",
+      "Minimal territorial or watchdog barking"
     ],
 
     scores: {
@@ -179,7 +175,7 @@ export const greyhound: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate; despite their reputation as elite sprinters, they are built for short, explosive bursts of speed rather than sustained endurance, and are famously lethargic indoors",
+        "Moderate; built for brief, high-speed sprints rather than long endurance outings, followed by extended indoor rest",
 
       minutesPerDay: {
         min: 45,
@@ -187,11 +183,10 @@ export const greyhound: Breed = {
       },
 
       activities: [
-        "Daily brisk leashed walks for steady conditioning",
-        "Short, explosive sprints in a large, fully and securely fenced field or paddock",
-        "Amateur lure coursing or straight racing in safely controlled environments",
-        "Interactive play and short training sessions",
-        "Lounging and sleeping on deeply cushioned beds for the majority of the day"
+        "Brisk daily leashed walks around quiet neighborhoods or parks",
+        "Brief off-leash sprints inside a tall, securely enclosed field or yard",
+        "Supervised lure coursing or straight-line sprint events",
+        "Short, upbeat obedience or enrichment games indoors"
       ]
     },
 
@@ -199,34 +194,34 @@ export const greyhound: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once weekly using a rubber hound mitt or soft bristle brush to remove loose hairs and massage natural skin oils into the fine coat.",
+        "Rub down once a week with a rubber hound glove, damp cloth, or soft bristle brush to lift loose hair and keep the coat glossy.",
 
       bathing:
-        "Bathe infrequently—only when visibly soiled—using a mild, hypoallergenic canine shampoo to avoid stripping the coat and drying out the sensitive skin.",
+        "Bathe only when noticeably dirty using a gentle, moisturizing dog shampoo to protect the thin skin.",
 
       notes: [
-        "The breed's exceptionally thin skin lacks a protective fat layer, making it prone to tearing or scraping if the dog runs through thorny brush.",
-        "Inspect the small rose ears weekly for dirt or wax buildup.",
-        "Trim the fast-growing nails every two weeks to maintain correct, compact foot alignment and prevent toe injuries.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste.",
-        "Provide a well-fitted, thick winter coat during cold weather, as the breed cannot tolerate low temperatures or freezing rain."
+        "Check the delicate skin after outdoor runs for small nicks or scrapes, as low body fat leaves little cushioning.",
+        "Inspect the folded rose ears weekly for wax buildup, moisture, or irritation.",
+        "Trim nails regularly so toes stay compact and comfortable during sprints.",
+        "Brush teeth daily if possible, or several times each week, to slow tartar buildup.",
+        "Use a snug, warm coat in cold or wet weather because the fine single coat provides very little insulation."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; intelligent and capable of learning manners quickly, but highly independent, visually distracted, and extremely sensitive to handler tone",
+        "Moderate; smart and willing to cooperate in calm settings, yet independent and easily distracted by movement outdoors",
 
       tips: [
-        "Use gentle, positive reinforcement, high-value food treats, and brief, encouraging sessions.",
-        "Never use harsh verbal reprimands, physical coercion, or electronic collars on this sensitive sighthound.",
-        "Always exercise the dog on a secure leash or within a fully fenced area (minimum six feet high); intense prey drive guarantees the dog will bolt after small moving animals, completely ignoring recall commands.",
-        "Use a wide, padded martingale collar or a specialized sighthound harness for walking, as their narrow heads can easily slip out of standard buckle collars.",
-        "Introduce the dog carefully to stairs and glass doors, as many retired racing dogs have never encountered them."
+        "Keep lessons brief, cheerful, and reward-based using tasty treats and gentle praise.",
+        "Avoid raised voices or forceful corrections, which quickly cause this sensitive breed to shut down.",
+        "Always use a leash in unfenced areas; once a Greyhound locks onto a fleeing squirrel or rabbit, reliable recall cannot be counted on.",
+        "Fit a wide martingale collar or a secure sighthound harness so the narrow head cannot slip free.",
+        "Introduce unfamiliar household features like slick floors, stairs, and glass doors patiently, especially with retired racing dogs."
       ],
 
       socialization:
-        "Introduce the puppy or newly adopted adult calmly to varied people, other dog breeds (especially small breeds to assess prey drive), and urban noises. Gradual, positive exposure builds confidence in a breed that can occasionally be timid."
+        "Expose puppies and newly adopted adults gradually to varied people, gentle children, everyday noises, and other dogs. Always supervise closely around cats or very small pets until individual prey drive is clearly understood."
     },
 
     livingEnvironment: {
@@ -234,82 +229,82 @@ export const greyhound: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Warm and temperate climates",
-        "Cool climates require the dog to wear a fitted sweater or heavy coat outdoors, as it possesses virtually no insulating body fat or undercoat",
-        "Must be housed completely indoors; never suited for outdoor kenneling in extreme weather"
+        "Comfortable in mild and warm climates when shade and water are available",
+        "Needs a fitted winter jacket in cool or freezing temperatures due to thin skin and low body fat",
+        "Strictly an indoor dog; unsuitable for outdoor kenneling"
       ],
 
       aloneTimeTolerance:
-        "Moderate; enjoys lounging and sleeping while owners are away, but thrives on human companionship and soft, comfortable surroundings."
+        "Moderate; many adults rest quietly while owners are out, though gradual routine building helps prevent separation distress."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large breeds, prioritizing easily digestible proteins and fats to maintain lean muscle mass.",
+      "Complete, balanced diet formulated for large active dogs, providing somewhat higher quality protein and calorie density than many less athletic breeds",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age.",
+        "Three to four measured meals per day during early growth, tapering to two meals as maturity approaches.",
       adult:
-        "Two measured meals daily to support steady digestion and reduce the risk of bloat.",
+        "Two measured meals per day to keep digestion steady and reduce stomach distension.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output and joint support."
+        "Two portion-controlled meals daily adjusted for lower activity and lean muscle upkeep."
     },
 
     guidelines:
-      "Measure daily rations carefully to maintain a strict athletic silhouette where the last two or three ribs are faintly visible and the hip bones are prominent. Overweight Greyhounds suffer severe mechanical stress on their fine-boned joints. Divide daily food into two distinct meals, strictly restrict vigorous running or sprinting for at least one to two hours before and after eating to mitigate bloat risk, and provide cool, clean drinking water continuously.",
+      "Portion meals so the dog stays sleek and athletic, with the last two or three ribs faintly visible and a crisp waist tuck. Greyhounds often burn more calories and benefit from somewhat higher protein than some similarly sized breeds, yet extra weight places needless strain on slender joints. Split daily rations into two meals, avoid intense running immediately before and after eating, and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, highly athletic body condition; excess weight is detrimental to a sighthound's skeletal structure.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Feed from an elevated bowl if the dog demonstrates discomfort bending its long neck to the floor.",
-      "Account for training treats within the total daily caloric allowance.",
-      "Provide deeply cushioned orthopedic bedding to prevent painful pressure sores on unpadded elbows and hips."
+      "Keep body weight lean; excess pounds stress fine-boned legs and paws.",
+      "Schedule calm rest periods before and after meals to help lower bloat risk.",
+      "Use a slightly raised bowl if your veterinarian agrees and the dog prefers not to stoop deeply.",
+      "Count training treats within the daily calorie budget.",
+      "Transition retired racing dogs gradually from high-energy track diets to home maintenance food."
     ],
 
     note:
-      "Retired racing Greyhounds may require a specialized dietary transition when moving from a high-protein track diet to a standard pet diet. Consult a veterinarian for tailored feeding guidelines."
+      "Individual calorie needs vary widely between active coursing dogs and relaxed household companions; confirm portions and diet composition with a veterinarian."
   },
 
   health: {
     overview:
-      "The Greyhound is a highly athletic and generally healthy breed with a typical life expectancy of 10 to 13 years. Due to its unique physiology, the breed exhibits blood parameters (such as higher red blood cell counts and lower thyroid levels) that differ significantly from other breeds, requiring a veterinarian familiar with sighthound medicine. Primary health considerations include a high susceptibility to osteosarcoma (bone cancer), gastric dilatation-volvulus (bloat), delayed postoperative bleeding, and hereditary Greyhound polyneuropathy (NDRG1 mutation).",
+      "Greyhounds typically live 10 to 13 years and are generally resilient, athletic dogs. Their unique sighthound physiology creates distinctive normal lab values—including higher red blood cell counts and naturally lower resting thyroid hormone (Total T4) levels than many other breeds—so working with a veterinarian familiar with sighthounds is valuable. Key health concerns include inherited Greyhound polyneuropathy (screenable via DNA testing), deep-chested gastric dilatation-volvulus (bloat), bone cancer (osteosarcoma), delayed postoperative bleeding, corneal pannus, dental disease, and paw pad corns.",
 
     commonConditions: [
-      "Osteosarcoma — a highly aggressive and prevalent primary bone cancer often affecting the long bones of the legs in middle-aged or senior Greyhounds",
-      "Greyhound Polyneuropathy (NDRG1 gene mutation) — an inherited, severe neurological disorder causing progressive muscle weakness, exercise intolerance, and ataxia, screenable via DNA testing",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in deep-chested breeds, requiring emergency veterinary care",
-      "Delayed postoperative bleeding (Hyperfibrinolysis) — a breed-specific tendency to bleed excessively 24 to 48 hours after minor surgeries or trauma, highly treatable with antifibrinolytic medications (e.g., aminocaproic acid)",
-      "Pannus (Chronic Superficial Keratitis) — an immune-mediated disease of the cornea exacerbated by ultraviolet light exposure, requiring lifelong veterinary eye drops",
-      "Dental disease — a strong predisposition to heavy tartar buildup, gingivitis, and periodontal disease, requiring vigilant lifelong dental hygiene",
-      "Corns — painful, hard keratinized paw pad lesions unique to sighthounds, causing severe lameness that requires specialized veterinary management"
+      "Greyhound polyneuropathy — an established autosomal recessive neurological condition caused by a 10-base-pair deletion in the NDRG1 gene, leading to progressive weakness and loss of coordination in affected dogs; preventable through DNA screening of breeding parents",
+      "Gastric dilatation-volvulus (bloat) — an acute, life-threatening stomach twisting risk associated with the breed's deep, narrow chest",
+      "Osteosarcoma — an aggressive primary bone tumor documented at higher rates in retired racing and older Greyhounds, often affecting the long leg bones",
+      "Delayed postoperative bleeding — a breed-recognized tendency for bleeding to resume 24 to 48 hours after surgery or injury due to rapid clot breakdown, manageable with veterinary antifibrinolytic medication",
+      "Pannus (chronic superficial keratitis) — an immune-related eye condition affecting the cornea that worsens with ultraviolet light and requires ongoing eye drops",
+      "Periodontal and dental disease — a frequent tendency toward heavy tartar buildup and gum inflammation without regular brushing",
+      "Paw pad corns — firm, painful keratinized growths on the digital pads that can cause limping on hard ground"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified clearances for Greyhound polyneuropathy (NDRG1), cardiac evaluations, and specialist eye examinations.",
-      "Feed two smaller meals daily and strictly avoid vigorous sprinting immediately before or after eating to mitigate bloat risk.",
-      "Ensure your veterinarian is aware of sighthound-specific anesthesia protocols and the breed's unique blood work baselines.",
-      "Discuss administering aminocaproic acid or similar antifibrinolytics with your veterinarian prior to any surgical procedure or dental extraction.",
-      "Brush teeth daily and schedule regular professional veterinary dental cleanings to combat severe periodontal disease.",
-      "Provide deeply cushioned orthopedic bedding to protect unpadded joints from hygromas and pressure sores."
+      "Verify that breeding parents have documented clearances for Greyhound polyneuropathy DNA testing, specialist eye exams, and cardiac evaluations.",
+      "Inform your veterinarian about sighthound-specific blood work baselines (such as naturally lower Total T4 thyroid readings) and anesthesia considerations before any procedure.",
+      "Discuss preventive antifibrinolytic therapy with your veterinarian ahead of planned surgeries or dental extractions.",
+      "Feed two smaller daily meals and keep vigorous sprinting separated from mealtimes to reduce bloat risk.",
+      "Brush teeth daily and arrange routine veterinary dental checkups.",
+      "Provide thick, supportive bedding to cushion bony elbows and hips against pressure sores."
     ],
 
     recommendedScreenings: [
-      "DNA marker test for Greyhound Polyneuropathy (NDRG1 gene)",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist (CAER)",
-      "Cardiac evaluation (auscultation or echocardiogram) by a board-certified veterinary cardiologist",
-      "Regular veterinary dental assessments"
+      "Greyhound polyneuropathy DNA test (NDRG1 mutation)",
+      "Annual eye examination by a veterinary ophthalmologist",
+      "Cardiac evaluation by a veterinary cardiologist",
+      "Routine veterinary dental examinations"
     ],
 
     dentalCare:
-      "Brush teeth daily using canine enzymatic toothpaste. The breed has a perfect, regular scissor bite but is notoriously prone to early-onset dental disease, tartar, and tooth loss without strict hygiene.",
+      "Daily tooth brushing with dog-safe enzymatic toothpaste is strongly advised. Although the breed has a clean scissor bite, Greyhounds frequently accumulate plaque and tartar quickly and benefit from periodic professional cleanings.",
 
     earCare:
-      "Inspect the small, fine-textured rose ears weekly for dirt, wax accumulation, or redness. Clean gently using a veterinarian-recommended ear solution.",
+      "Check the small, thin rose ears every week for wax, debris, or redness, and wipe gently with a veterinarian-approved cleaner when needed.",
 
     skinCare:
-      "Inspect the extremely thin, uninsulated skin regularly for tears, cuts, or abrasions after outdoor running. Protect the dog from freezing temperatures with coats and from intense summer sun to prevent solar dermatitis."
+      "Look over the thin, close-coated skin after exercise for scrapes or minor tears. Dress the dog in a warm coat during chilly weather and limit prolonged harsh midday sun exposure on lightly pigmented areas."
   },
 
   suitability: {
@@ -320,75 +315,58 @@ export const greyhound: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Individuals and families seeking a calm, affectionate, and quiet indoor companion",
-      "Apartment dwellers who can provide daily leashed walks and occasional safe sprinting opportunities",
-      "Owners committed to keeping the dog securely leashed or strictly within a six-foot fenced enclosure outdoors",
-      "Sighthound enthusiasts participating in amateur lure coursing or straight racing",
-      "Those looking to adopt and rehabilitate retired racing dogs"
+      "Apartment or house dwellers who appreciate a calm, quiet indoor companion",
+      "Owners able to provide daily leashed walks plus occasional secure off-leash sprints",
+      "Gentle households with older, considerate children",
+      "Adopters interested in giving a retired racing dog a peaceful home"
     ],
 
     notIdealFor: [
-      "Owners seeking a reliable off-leash companion in unfenced open areas",
-      "Households with free-roaming outdoor cats, rabbits, or small pets vulnerable to explosive prey drive",
-      "People seeking a fierce, territorial guard dog or loud watchdog",
-      "Individuals unable or unwilling to manage the breed's strict dental hygiene and cold-weather clothing needs"
+      "Owners expecting reliable off-leash hiking in unfenced woods or parks",
+      "Homes with free-roaming small pets such as rabbits, hamsters, or untested cats",
+      "Anyone seeking a vocal watchdog or territorial guard dog",
+      "Households looking for an outdoor-only dog or a high-stamina marathon jogging partner"
     ]
   },
 
   funFacts: [
-    "The Greyhound is universally recognized as the fastest breed of dog, capable of reaching breathtaking speeds of up to 45 miles per hour (72 km/h) in a short sprint, utilizing a specialized 'double suspension gallop' where all four feet leave the ground twice during each stride.",
-    "Despite their explosive athletic capabilities outdoors, Greyhounds are famously lazy indoors, earning the affectionate nickname '45-mph couch potatoes' from enthusiasts.",
-    "The breed has unique physiological adaptations for speed, including an unusually large heart, highest percentage of fast-twitch muscle fibers of any breed, and blood that contains significantly more oxygen-carrying red blood cells than other dogs.",
-    "Greyhounds are the only dog breed explicitly mentioned by name in the King James Version of the Bible (Proverbs 30:29-31), noted for their graceful stride.",
-    "Because they have virtually no body fat and a very thin, fine coat, Greyhounds are highly susceptible to cold and rain, requiring warm fleece coats or sweaters for winter walks.",
-    "Because of their narrow heads and long, thick necks, standard buckle collars easily slip off a Greyhound; they must be walked using a specialized wide martingale collar or a secure sighthound harness."
+    "Greyhounds are the fastest breed of dog on land, capable of short sprints reaching roughly 45 miles per hour.",
+    "During an all-out sprint, the breed uses a double-suspension gallop in which all four paws leave the ground twice per stride—once tucked beneath the chest and once fully extended.",
+    "Despite their explosive track speed, Greyhounds sleep or lounge for much of the day and are affectionately nicknamed '45-mph couch potatoes.'",
+    "Healthy Greyhounds naturally carry higher red blood cell concentrations and lower resting thyroid hormone (Total T4) values than most other dog breeds, which can look abnormal if compared against general canine lab ranges.",
+    "Carvings of unmistakable Greyhound-like sighthounds appear in ancient Egyptian tombs dating back nearly five thousand years."
   ],
 
   faq: [
     {
-      question: "What is a Greyhound?",
+      question: "Do Greyhounds need hours of intense exercise every day?",
       answer:
-        "The Greyhound is a tall, aerodynamic British sighthound renowned as the fastest dog breed in the world, combining explosive sprinting speed in the field with a gentle, quiet, and affectionate demeanor indoors."
+        "No. Although they are elite sprinters, Greyhounds are built for short bursts of speed rather than long-distance endurance. One or two brisk leashed walks totaling 45 to 60 minutes daily—paired with occasional safe sprints in a securely fenced space—keeps most adults happy and relaxed indoors."
     },
     {
-      question: "How tall and heavy is a Greyhound?",
+      question: "Can a Greyhound live comfortably in an apartment?",
       answer:
-        "Adult males stand 71 to 76 cm at the withers and typically weigh 65 to 70 pounds, while adult females stand 68 to 71 cm and weigh 60 to 65 pounds."
+        "Yes. Despite their tall frame, Greyhounds are famously quiet, rarely bark, and spend much of the day curled up on a soft bed. As long as they receive regular leashed walks and cushioned sleeping spots, they adapt smoothly to apartment life."
     },
     {
-      question: "How long does a Greyhound live?",
+      question: "Can Greyhounds ever be trusted off leash in unfenced areas?",
       answer:
-        "With proper nutrition, strict dental care, and preventive veterinary attention, the breed typically enjoys a healthy lifespan of 10 to 13 years."
+        "Generally no. Centuries of sight-hunting instinct make Greyhounds react instantly to fast-moving wildlife or small animals, and they can cover huge distances in seconds. Off-leash running should stay strictly inside a tall, fully enclosed yard or paddock."
     },
     {
-      question: "Do Greyhounds shed a lot, and how are they groomed?",
+      question: "Are Greyhounds safe around cats and small dogs?",
       answer:
-        "They are low-to-moderate shedders. Their extremely short, fine coat requires minimal grooming—just a quick weekly brush with a rubber hound mitt—but their lack of body fat means they require warm coats in cold weather."
+        "It varies by individual dog. Some Greyhounds learn to coexist peacefully with indoor cats and small dogs, while others retain strong chase instincts toward small, fast-moving animals. Careful introductions, slow supervision, and a basket muzzle during early meetings are essential."
     },
     {
-      question: "Can a Greyhound live in an apartment?",
+      question: "Why do Greyhounds need a veterinarian familiar with sighthounds?",
       answer:
-        "Yes, surprisingly well. Despite their speed, they are notoriously lazy and quiet indoors, making them excellent apartment dogs provided they receive a daily walk and occasional access to a safely fenced area for short sprints."
+        "Healthy Greyhounds naturally have different blood test baselines—such as higher red blood cell levels and lower resting thyroid hormone (Total T4) readings—along with specific anesthesia sensitivities and a known risk of delayed bleeding after surgery. A sighthound-experienced vet interprets tests accurately and plans safer procedures."
     },
     {
-      question: "Are Greyhounds good with cats and small dogs?",
+      question: "How long do Greyhounds live and what health tests matter most?",
       answer:
-        "Caution is required. Greyhounds have a deeply ingrained prey drive and may instinctively chase small, fast-moving animals. While some can live peacefully with indoor cats, careful introduction and supervision are mandatory."
-    },
-    {
-      question: "Can a Greyhound be walked off-leash?",
-      answer:
-        "Never, unless in a fully enclosed area with a high, secure fence. A Greyhound's incredible speed and visual prey drive mean that if they spot a squirrel or rabbit, they will bolt instantly and cannot be recalled."
-    },
-    {
-      question: "Do Greyhounds have special medical needs?",
-      answer:
-        "Yes. Greyhounds have unique blood parameters, a high sensitivity to certain anesthetics, a predisposition to severe dental disease, and a breed-specific risk for delayed postoperative bleeding, requiring a veterinarian familiar with sighthounds."
-    },
-    {
-      question: "What health screenings are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include a DNA test for Greyhound Polyneuropathy (NDRG1 mutation), certified veterinary ophthalmologist eye exams, and cardiac evaluations."
+        "Greyhounds typically live 10 to 13 years. For breeding dogs, recommended screening focuses on a DNA test for Greyhound polyneuropathy, an ophthalmologist eye exam, and a cardiac evaluation."
     }
   ],
 
@@ -400,35 +378,38 @@ export const greyhound: Breed = {
     "akc-greyhound-breed-profile",
     "ofa-greyhound-chic-requirements",
     "greyhound-neuropathy-ndrg1-study-2010",
+    "shiel-2007-greyhound-thyroid-values",
+    "natureserve-canis-lupus-familiaris",
     "wikimedia-greyhound-kk70088",
-    "wikimedia-greyhound-close-up-vincent-eisfeld"
+    "wikimedia-greyhound-close-up-vincent-eisfeld",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Species taxonomy record: Canis lupus familiaris"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Domestic dog subspecies taxonomy."
     },
 
     alternateNames: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-greyhound-official-standard",
-          role: "verified",
-          locator: "Standard heading: GREYHOUND"
-        },
-        {
           id: "fci-greyhound-nomenclature",
           role: "verified",
-          locator: "Official nomenclature: GREYHOUND (158)"
+          locator: "French official breed name: LEVRIER ANGLAIS"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified across FCI Standard No. 158 and FCI Nomenclature."
+      verifiedOn: "2026-11-26",
+      note: "English Greyhound is a common regional descriptor; Lévrier Anglais is the official French FCI nomenclature name."
     },
 
     group: {
@@ -437,12 +418,7 @@ export const greyhound: Breed = {
         {
           id: "fci-greyhound-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 10 Sighthounds; Section 3 Short-haired sighthounds; Without working trial"
-        },
-        {
-          id: "fci-greyhound-nomenclature",
-          role: "verified",
-          locator: "Group 10, Section 3 Short-haired sighthounds, without working trial"
+          locator: "Group 10 Sighthounds, Section 3 Short-haired Sighthounds, without working trial"
         },
         {
           id: "the-kennel-club-greyhound-breed-standard",
@@ -450,14 +426,18 @@ export const greyhound: Breed = {
           locator: "Hound Group"
         },
         {
-          id: "akc-greyhound-breed-standard",
+          id: "akc-greyhound-breed-profile",
           role: "verified",
           locator: "Hound Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Hound"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-26",
+      note: "User-facing group text avoids registry classification numbers and names while preserving accurate sighthound type."
     },
 
     origin: {
@@ -466,7 +446,7 @@ export const greyhound: Breed = {
         {
           id: "fci-greyhound-official-standard",
           role: "verified",
-          locator: "ORIGIN: Great Britain; BRIEF HISTORICAL SUMMARY"
+          locator: "Origin: Great Britain"
         },
         {
           id: "fci-greyhound-nomenclature",
@@ -474,61 +454,131 @@ export const greyhound: Breed = {
           locator: "Country of origin: Great Britain"
         },
         {
-          id: "the-kennel-club-greyhound-breed-standard",
-          role: "verified",
-          locator: "Origin and development in Great Britain"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Ancient Egypt/Middle East"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: null
+      verifiedOn: "2026-11-26",
+      note: "Official FCI standard establishes Great Britain as country of origin; The Dog API lists Ancient Egypt/Middle East, reflecting ancient sighthound ancestry noted in region and history."
     },
 
-    overview: {
+    "overview.summary": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-greyhound-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
-        },
-        {
-          id: "the-kennel-club-greyhound-breed-standard",
-          role: "verified",
-          locator: "General Appearance, Characteristics, Temperament"
+          locator: "General appearance and behaviour/temperament"
         },
         {
           id: "akc-greyhound-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, and Roles"
+          locator: "About the breed: speed and gentle indoor temperament"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesized in original prose from FCI Standard No. 158, The Royal Kennel Club, and AKC official records."
+      verifiedOn: "2026-11-26",
+      note: "Original synthesis of official conformation and temperament traits."
     },
 
-    physical: {
+    "overview.description": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-greyhound-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE"
+          locator: "General appearance, head, body, coat, and colour"
         },
         {
           id: "the-kennel-club-greyhound-breed-standard",
           role: "verified",
-          locator: "Head and Skull, Eyes, Ears, Body, Tail, Coat, Colour, Size"
+          locator: "General appearance, characteristics, body, and hindquarters"
         },
         {
           id: "akc-greyhound-breed-standard",
           role: "verified",
-          locator: "Head, Neck, Shoulders, Chest, Back, Loins, Hindquarters, Feet, Tail, Coat, Color, Weight"
+          locator: "General appearance, chest, loin, neck, and coat"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Conformation, aerodynamic sighthound build, fine close coat, and distinctive features follow official standards."
+      verifiedOn: "2026-11-26",
+      note: "Original descriptive prose grounded in official breed standards."
+    },
+
+    "overview.history": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-greyhound-breed-profile",
+          role: "verified",
+          locator: "History: Tomb of Amten (Fourth Dynasty Egypt, 2900–2751 BCE), hare coursing, British development"
+        },
+        {
+          id: "fci-greyhound-official-standard",
+          role: "verified",
+          locator: "Brief historical summary and Great Britain origin"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.history"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Original historical summary verified against kennel club and standard sources."
+    },
+
+    "overview.originalPurpose": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-greyhound-official-standard",
+          role: "verified",
+          locator: "Utilization: Sighthound for coursing"
+        },
+        {
+          id: "akc-greyhound-breed-profile",
+          role: "verified",
+          locator: "Hare as natural quarry; open-field coursing"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: null
+    },
+
+    "overview.currentRoles": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-greyhound-breed-profile",
+          role: "verified",
+          locator: "Companion, lure coursing, conformation, and therapy roles"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: null
+    },
+
+    "physical.sizeCategory": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-greyhound-official-standard",
+          role: "verified",
+          locator: "Ideal height 71–76 cm (males) and 68–71 cm (females)"
+        },
+        {
+          id: "akc-greyhound-breed-standard",
+          role: "verified",
+          locator: "Weight 65–70 lb (dogs) and 60–65 lb (bitches)"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "physical.height": {
@@ -537,17 +587,26 @@ export const greyhound: Breed = {
         {
           id: "fci-greyhound-official-standard",
           role: "verified",
-          locator: "SIZE: Ideal height: Dogs: 71 - 76 cm. Bitches: 68 - 71 cm."
+          locator: "Size: Ideal height — Dogs 71–76 cm, Bitches 68–71 cm"
         },
         {
           id: "the-kennel-club-greyhound-breed-standard",
-          role: "verified",
-          locator: "Size: Ideal height: dogs: 71-76 cms (28-30 ins); bitches: 69-71 cms (27-28 ins)."
+          role: "cited",
+          locator: "Size: Ideal height — Dogs 71–76 cms, Bitches 69–71 cms"
+        },
+        {
+          id: "akc-greyhound-breed-profile",
+          role: "cited",
+          locator: "Height: 28–30 inches (male), 27–28 inches (female)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: 71–76 cm (male), 68–71 cm (female)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Preserved in published unit of centimetres (71-76 cm for males, 68-71 cm for females) exactly as specified in the official FCI Standard No. 158."
+      verifiedOn: "2026-11-26",
+      note: "Exact FCI Standard No. 158 height values in cm (matches The Dog API; Royal Kennel Club lists female minimum as 69 cm)."
     },
 
     "physical.weight": {
@@ -556,12 +615,21 @@ export const greyhound: Breed = {
         {
           id: "akc-greyhound-breed-standard",
           role: "verified",
-          locator: "Weight: Dogs, 65 to 70 pounds; bitches 60 to 65 pounds."
+          locator: "Weight: Dogs 65 to 70 pounds; Bitches 60 to 65 pounds"
+        },
+        {
+          id: "akc-greyhound-breed-profile",
+          role: "verified",
+          locator: "Weight: 65–70 pounds (male), 60–65 pounds (female)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric: 29–32 kg (male), 27–29 kg (female)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "FCI Standard No. 158 does not explicitly define weight limits. The stored 65 to 70 pounds for males and 60 to 65 pounds for females represent canonical figures published by the AKC standard, preserved strictly in pounds per Rule 9."
+      verifiedOn: "2026-11-26",
+      note: "Exact AKC Official Standard weight values in lb (FCI Standard No. 158 does not prescribe a numeric weight; The Dog API lists 29–32 kg / 27–29 kg)."
     },
 
     "physical.lifespanYears": {
@@ -570,11 +638,75 @@ export const greyhound: Breed = {
         {
           id: "akc-greyhound-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 10-13 years"
+          locator: "Life Expectancy: 10–13 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 10–13 years"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Both AKC breed profile and The Dog API report 10–13 years."
+    },
+
+    "physical.coatType": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-greyhound-official-standard",
+          role: "verified",
+          locator: "Coat — Hair: Fine and close"
+        },
+        {
+          id: "akc-greyhound-breed-standard",
+          role: "verified",
+          locator: "Coat: Short, smooth and firm in texture"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: null
+    },
+
+    "physical.coatLength": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "akc-greyhound-breed-standard",
+          role: "verified",
+          locator: "Coat: Short, smooth and firm in texture"
+        },
+        {
+          id: "fci-greyhound-official-standard",
+          role: "verified",
+          locator: "Section 3 Short-haired Sighthounds; Hair: Fine and close"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: null
+    },
+
+    "physical.coatColors": {
+      reliability: "official_standard",
+      sources: [
+        {
+          id: "fci-greyhound-official-standard",
+          role: "verified",
+          locator: "Colour: Black, white, red, blue, fallow, brindle or any of these colours broken with white"
+        },
+        {
+          id: "akc-greyhound-breed-standard",
+          role: "verified",
+          locator: "Color: Immaterial"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "GET /breeds/{id}/colours"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "FCI Standard No. 158 specifies black, white, red, blue, fallow, brindle, or any of these broken with white; AKC states color is immaterial; The Dog API includes broader generic canine color labels."
     },
 
     "physical.sheddingLevel": {
@@ -583,34 +715,47 @@ export const greyhound: Breed = {
         {
           id: "akc-greyhound-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
-        },
-        {
-          id: "fci-greyhound-official-standard",
-          role: "verified",
-          locator: "COAT: Fine and close."
+          locator: "Grooming and shedding ratings"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
     "physical.droolingLevel": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-greyhound-breed-profile",
+          role: "verified",
+          locator: "Drooling level rating"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: null
+    },
+
+    "physical.distinctiveFeatures": {
       reliability: "official_standard",
       sources: [
         {
           id: "fci-greyhound-official-standard",
           role: "verified",
-          locator: "Muzzle: Jaws powerful and well chiselled."
+          locator: "Head, eyes, ears, bite, neck, body, tail, limbs, and feet"
         },
         {
-          id: "akc-greyhound-breed-profile",
+          id: "the-kennel-club-greyhound-breed-standard",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Head, mouth, chest, hindquarters, and tail"
+        },
+        {
+          id: "akc-greyhound-breed-standard",
+          role: "verified",
+          locator: "Feet: hard and close, rather more hare than catfeet, well knuckled up with good strong claws"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Clean, powerful, well-chiseled jaws without loose flews prevent drooling."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "temperament.traits": {
@@ -619,20 +764,20 @@ export const greyhound: Breed = {
         {
           id: "fci-greyhound-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Possessing remarkable stamina and endurance. Intelligent, gentle, affectionate and even tempered."
-        },
-        {
-          id: "the-kennel-club-greyhound-breed-standard",
-          role: "verified",
-          locator: "Temperament: Intelligent, gentle, affectionate and even-tempered."
+          locator: "Behaviour/Temperament: Intelligent, gentle, affectionate and even-tempered"
         },
         {
           id: "akc-greyhound-breed-profile",
           role: "verified",
-          locator: "Temperament: Independent, Gentle, Noble"
+          locator: "Temperament: Independent, gentle, noble; strong chase instinct and gentle indoor demeanor"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -642,176 +787,109 @@ export const greyhound: Breed = {
         {
           id: "akc-greyhound-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed trait ratings"
         },
         {
-          id: "the-kennel-club-greyhound-breed-standard",
+          id: "fci-greyhound-official-standard",
           role: "cited",
-          locator: "Temperament and behavior guidance"
+          locator: "Behaviour/Temperament"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented sighthound temperament, high family docility, and intense visual prey drive."
+      note: "Editorial 1–5 ratings synthesized from kennel club profiles and breed standard temperament descriptions."
     },
 
-    care: {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-greyhound-breed-profile",
-          role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Combines athletic sighthound management with short-coat thermal protection and soft-bedding care protocols."
-    },
-
-    "care.exercise.level": {
+    "care.exercise": {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-greyhound-breed-profile",
           role: "verified",
-          locator: "Energy Level (3/5 to 4/5); Exercise Needs (3/5)"
+          locator: "Exercise: daily walks and brief sprints in securely fenced spaces"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Daily minute range is a practical estimate grounded in breed exercise guidance."
+    },
+
+    "care.grooming": {
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "akc-greyhound-breed-profile",
+          role: "verified",
+          locator: "Grooming: weekly rubdowns with damp cloth or hound glove, nail trims, weekly ear checks, daily brushing"
         },
         {
           id: "fci-greyhound-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Sighthound built for great speed"
+          locator: "Fine and close coat"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
-    "care.exercise.minutesPerDay": {
-      reliability: "estimate",
-      sources: [
-        {
-          id: "the-kennel-club-greyhound-breed-standard",
-          role: "cited",
-          locator: "Exercise requirements: Up to 1 hour per day"
-        },
-        {
-          id: "akc-greyhound-breed-profile",
-          role: "cited",
-          locator: "Daily exercise recommendations"
-        }
-      ],
-      verifiedOn: null,
-      note:
-        "Estimated 45 to 60 minutes of daily activity reflects the moderate exercise demands of a sprint-focused sighthound."
-    },
-
-    "care.livingEnvironment.apartmentSuitable": {
+    "care.training": {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-greyhound-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (4/5 to 5/5); calm and quiet indoors"
+          locator: "Training: independent sighthound, keep lessons short and sweet, gentle approach never harsh, early socialization"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
-    "care.livingEnvironment.houseWithYardSuitable": {
+    "care.livingEnvironment": {
       reliability: "reliable_source",
       sources: [
         {
           id: "akc-greyhound-breed-profile",
           role: "verified",
-          locator: "Exercise and strictly secure fenced-yard recommendations"
+          locator: "Apartment suitability, indoor comfort, and cold-weather coat guidance"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: null
-    },
-
-    "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
-      sources: [
-        {
-          id: "fci-greyhound-official-standard",
-          role: "verified",
-          locator: "COAT: Fine and close (lacks thermal protection)"
-        },
-        {
-          id: "akc-greyhound-breed-profile",
-          role: "verified",
-          locator: "Weather adaptation: highly sensitive to extreme cold, requiring a winter coat"
-        }
-      ],
-      verifiedOn: "2026-11-13",
-      note: null
-    },
-
-    "care.livingEnvironment.aloneTimeTolerance": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-greyhound-breed-profile",
-          role: "cited",
-          locator: "Tolerates Being Alone: Moderate; sleeps extensively but enjoys human company"
-        }
-      ],
-      verifiedOn: null,
+      verifiedOn: "2026-11-26",
       note: null
     },
 
     nutrition: {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "akc-greyhound-breed-profile",
-          role: "cited",
-          locator: "Nutrition: High-quality food formulated for large athletic breeds, portion control"
+          role: "verified",
+          locator: "Nutrition: somewhat higher calories and protein than some dogs; bloat awareness"
         }
       ],
-      verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for deep-chested large breeds prone to bloat."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-greyhound-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance and divided meals to mitigate bloat"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      verifiedOn: "2026-11-26",
+      note: "Meal frequency and bloat precautions reflect standard veterinary feeding practice for deep-chested large breeds."
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "greyhound-neuropathy-ndrg1-study-2010",
-          role: "verified",
-          locator: "NDRG1 mutation causing Greyhound polyneuropathy"
-        },
-        {
-          id: "ofa-greyhound-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program requirements: Greyhound Neuropathy (NDRG1) DNA test, Ophthalmologist Evaluation (CAER), Cardiac Evaluation"
-        },
-        {
           id: "akc-greyhound-breed-profile",
           role: "verified",
-          locator: "Health overview: Osteosarcoma, dental disease, bleeding tendencies, bloat, and anesthesia sensitivity"
+          locator: "Health: life expectancy 10–13 years, bloat/gastric torsion, Greyhound neuropathy, cardiac and eye conditions"
+        },
+        {
+          id: "greyhound-neuropathy-ndrg1-study-2010",
+          role: "verified",
+          locator: "PLoS One 2010;5(6):e11258 (PMID 20582309): NDRG1 10-bp deletion causing autosomal recessive Greyhound polyneuropathy"
+        },
+        {
+          id: "shiel-2007-greyhound-thyroid-values",
+          role: "verified",
+          locator: "Vet Rec 2007;161:616–619 (PMID 17982140): 42 of 46 healthy young Greyhounds (91.3%) had Total T4 below non-breed-specific ranges"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesizes peer-reviewed genetics research with national health registry screening protocols."
+      verifiedOn: "2026-11-26",
+      note: "Distinguishes peer-reviewed genetic and endocrine findings from conformational and clinical predispositions."
     },
 
     "health.commonConditions": {
@@ -820,85 +898,103 @@ export const greyhound: Breed = {
         {
           id: "greyhound-neuropathy-ndrg1-study-2010",
           role: "verified",
-          locator: "Greyhound Polyneuropathy (NDRG1 mutation) pathology"
+          locator: "NDRG1 exon 15 10-bp deletion (c.1080_1089delTCGCCTGGAC) in Greyhounds with polyneuropathy"
+        },
+        {
+          id: "akc-greyhound-breed-profile",
+          role: "verified",
+          locator: "Health section: bloat/gastric torsion, Greyhound neuropathy, cardiac and eye conditions"
         },
         {
           id: "ofa-greyhound-chic-requirements",
-          role: "verified",
-          locator: "Eye conditions and cardiac anomalies"
-        },
-        {
-          id: "akc-greyhound-breed-profile",
-          role: "verified",
-          locator: "Osteosarcoma, bloat (GDV), periodontal disease, hyperfibrinolysis, and corns"
+          role: "cited",
+          locator: "Greyhound CHIC health screening panel"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-26",
+      note: "Separates genetically confirmed NDRG1 polyneuropathy from deep-chested conformational GDV risk and widely documented clinical predispositions."
     },
 
     "health.preventiveCare": {
-      reliability: "general_guidance",
+      reliability: "reliable_source",
       sources: [
         {
           id: "akc-greyhound-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests From National Breed Club and general care"
+        },
+        {
+          id: "ofa-greyhound-chic-requirements",
           role: "cited",
-          locator: "Routine care, strict dental hygiene, bloat precautions, soft bedding, and veterinary sighthound knowledge"
+          locator: "Greyhound CHIC testing recommendations"
+        },
+        {
+          id: "shiel-2007-greyhound-thyroid-values",
+          role: "verified",
+          locator: "Breed-specific thyroid reference intervals in healthy Greyhounds"
         }
       ],
-      verifiedOn: null,
-      note: "Standard preventive care protocol tailored to the unique physiology of sighthounds."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-greyhound-chic-requirements",
+          id: "akc-greyhound-breed-profile",
           role: "verified",
-          locator: "CHIC Program required screenings: Greyhound Neuropathy (NDRG1) DNA Test, Ophthalmologist Evaluation, Cardiac Evaluation"
+          locator: "Recommended Health Tests From National Breed Club: Cardiac Exam, Ophthalmologist Evaluation, Greyhound Polyneuropathy - DNA Test"
+        },
+        {
+          id: "ofa-greyhound-chic-requirements",
+          role: "cited",
+          locator: "Greyhound CHIC requirements (NDRG1 DNA, Eye, Cardiac)"
+        },
+        {
+          id: "greyhound-neuropathy-ndrg1-study-2010",
+          role: "verified",
+          locator: "Genetic basis of NDRG1 DNA test for Greyhound polyneuropathy"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Screenings summarize published health registry protocols."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-greyhound-official-standard",
-          role: "cited",
-          locator: "Jaws/teeth: strong, perfect scissor bite"
-        },
-        {
           id: "akc-greyhound-breed-profile",
           role: "cited",
-          locator: "High predisposition to early-onset dental disease and tartar buildup requiring daily hygiene"
+          locator: "Grooming: daily tooth brushing if possible"
+        },
+        {
+          id: "the-kennel-club-greyhound-breed-standard",
+          role: "cited",
+          locator: "Mouth: complete scissor bite"
         }
       ],
       verifiedOn: null,
-      note: "Strict home dental hygiene guidelines for a breed highly prone to periodontal disease."
+      note: "General canine preventive dental care tailored to the breed."
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-greyhound-official-standard",
-          role: "cited",
-          locator: "Ears: small, rose-shape, fine texture"
-        },
-        {
           id: "akc-greyhound-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Grooming: weekly ear checks"
+        },
+        {
+          id: "fci-greyhound-official-standard",
+          role: "cited",
+          locator: "Ears: small, rose-shaped, of fine texture"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for folded rose ears."
+      note: "Routine ear hygiene guidance for folded rose ears."
     },
 
     "health.skinCare": {
@@ -907,16 +1003,16 @@ export const greyhound: Breed = {
         {
           id: "fci-greyhound-official-standard",
           role: "cited",
-          locator: "Coat texture: fine and close; thin skin"
+          locator: "Coat: fine and close"
         },
         {
           id: "akc-greyhound-breed-profile",
           role: "cited",
-          locator: "Skin protection from cold weather and abrasive terrain"
+          locator: "Grooming and cold-weather protection"
         }
       ],
       verifiedOn: null,
-      note: "General skin care and thermal protection guidelines for thin-skinned breeds."
+      note: "General skin and thermal care guidance for short-coated, low-body-fat sighthounds."
     },
 
     suitability: {
@@ -925,17 +1021,16 @@ export const greyhound: Breed = {
         {
           id: "akc-greyhound-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Temperament, apartment living, exercise, and family traits"
         },
         {
-          id: "the-kennel-club-greyhound-breed-standard",
+          id: "fci-greyhound-official-standard",
           role: "cited",
-          locator: "Characteristics and lifestyle suitability"
+          locator: "Behaviour/Temperament"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, quiet indoor habits, and intense prey drive."
+      note: "Editorial suitability ratings based on calm indoor behavior, low barking, and strong sight-chase instincts."
     },
 
     funFacts: {
@@ -944,16 +1039,16 @@ export const greyhound: Breed = {
         {
           id: "akc-greyhound-breed-profile",
           role: "verified",
-          locator: "Fastest dog breed (up to 45 mph), '45-mph couch potato' nickname, double suspension gallop, unique blood work, King James Bible reference"
+          locator: "Top speed (~45 mph), Tomb of Amten (2900–2751 BCE), relaxed indoor habits"
         },
         {
-          id: "fci-greyhound-official-standard",
+          id: "shiel-2007-greyhound-thyroid-values",
           role: "verified",
-          locator: "Brief historical summary: Ancient Egyptian tombs dating to 4000 BC"
+          locator: "Naturally lower Total T4 concentrations in healthy Greyhounds (PMID 17982140)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified historical folklore and biomechanical working facts."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     faq: {
@@ -962,29 +1057,33 @@ export const greyhound: Breed = {
         {
           id: "fci-greyhound-official-standard",
           role: "verified",
-          locator: "Origin, height (71-76 cm / 68-71 cm), coat, and speed"
+          locator: "Origin, height, coat, and temperament"
         },
         {
           id: "akc-greyhound-breed-standard",
           role: "verified",
-          locator: "Weight (65-70 lbs / 60-65 lbs)"
+          locator: "Weight (65–70 lb / 60–65 lb)"
         },
         {
           id: "akc-greyhound-breed-profile",
           role: "verified",
-          locator: "Lifespan (10-13 years), apartment living, off-leash warnings, grooming, and dog/cat sociability"
+          locator: "Lifespan (10–13 years), exercise, apartment suitability, recommended health tests"
         },
         {
-          id: "ofa-greyhound-chic-requirements",
+          id: "shiel-2007-greyhound-thyroid-values",
           role: "verified",
-          locator: "Recommended health screening panel (NDRG1, eyes, heart) and unique medical needs"
+          locator: "Sighthound-specific thyroid hormone baselines"
+        },
+        {
+          id: "greyhound-neuropathy-ndrg1-study-2010",
+          role: "verified",
+          locator: "Greyhound polyneuropathy NDRG1 DNA test"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-26",
+      note: "All FAQ entries are written in original prose without source or registry names."
     }
   },
 
-  updatedOn: "2026-11-13"
+  updatedOn: "2026-11-26"
 };

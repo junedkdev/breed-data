@@ -16890,364 +16890,364 @@ export const sources = defineSources({
     note: "Verified photograph (1280 x 848 px) of a six-month-old Picardy Spaniel outdoors by Rachelle Vafidis (captured 2011-11-17, uploaded 2012-06-25). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons. Replaces earlier nonexistent file under the preserved source ID.",
     publisher: "Wikimedia Commons"
   },
-  "fci-dogo-argentino-official-standard": {
+"fci-dogo-argentino-official-standard": {
     id: "fci-dogo-argentino-official-standard",
     name: "FCI - Dogo Argentino Official Breed Standard No. 292",
     url: "https://www.fci.be/Nomenclature/Standards/292g02-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2011-11-10",
-    accessedOn: "2026-11-13",
-    note: "Official English FCI Standard No. 292 (valid standard dated 2011-11-10). Covers Argentine origin, Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 2.1 Mastiff type Molossoids classification without working trial, completely white short coat, convex skull, withers height (males 60-68 cm, females 60-65 cm), and weight (males 40-45 kg, females 40-43 kg).",
+    publishedOn: "2012-08-02",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 292 (valid standard dated 2011-11-10; English PDF published 2012-08-02). Covers Argentine origin in Córdoba, Group 2 Section 2.1 Mastiff-type Molossoids without working trial, completely white short smooth coat (dark head patch <=10%), convex skull, withers height (males 60-68 cm, females 60-65 cm), and weight (males 40-45 kg, females 40-43 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-dogo-argentino-nomenclature": {
+"fci-dogo-argentino-nomenclature": {
     id: "fci-dogo-argentino-nomenclature",
     name: "FCI - Dogo Argentino Breed Nomenclature (No. 292)",
     url: "https://www.fci.be/en/nomenclature/DOGO-ARGENTINO-292.html",
     type: "official_breed_standard",
     publishedOn: "2011-11-10",
-    accessedOn: "2026-11-13",
-    note: "Official FCI breed nomenclature record confirming Argentina as country of origin, Group 2 Section 2.1 classification without working trial, definitive recognition date (1973-07-31), and official multilingual name (Dogo Argentino).",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Argentina as country of origin, Group 2 Section 2.1 Mastiff-type Molossoids without working trial, definitive recognition date (1973-07-31), valid standard date (2011-11-10), and official multilingual names (Dogo Argentino, Dogue Argentin, Argentinische Dogge).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "akc-dogo-argentino-breed-standard": {
+"akc-dogo-argentino-breed-standard": {
     id: "akc-dogo-argentino-breed-standard",
     name: "American Kennel Club - Official Standard of the Dogo Argentino",
     url: "https://images.akc.org/pdf/breeds/standards/DogoArgentino.pdf",
     type: "official_breed_standard",
     publishedOn: "2020-01-01",
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed standard (Working Group, fully recognized 2020) establishing proportions, heavy bone structure, solid white coat with maximum 10% dark head spot tolerance, scissor or pincer bite, and courageous big-game hunting temperament.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Working Group, recognized 2020) establishing proportions, heavy bone structure, completely white short smooth coat with <=10% dark head patch tolerance, and big-game hunting temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-dogo-argentino-breed-profile": {
+"akc-dogo-argentino-breed-profile": {
     id: "akc-dogo-argentino-breed-profile",
     name: "American Kennel Club - Dogo Argentino Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/dogo-argentino/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed profile covering Dr. Antonio Nores Martinez's 1928 development, Cordoba fighting dog roots, weight (80-100 lbs), lifespan (10-12 years), temperament, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Working Group, recognized 2020) covering Dr. Antonio Nores Martinez's 1928 Córdoba origins, height (24-26.5 in male, 24-25.5 in female), weight (80-100 pounds), life expectancy (9-15 years), grooming, exercise, and National Breed Club recommended health tests (Hip Evaluation, Cardiac Exam, BAER Testing).",
     publisher: "American Kennel Club"
   },
-  "ukc-dogo-argentino-breed-standard": {
+"ukc-dogo-argentino-breed-standard": {
     id: "ukc-dogo-argentino-breed-standard",
     name: "United Kennel Club - Dogo Argentino Breed Standard",
     url: "https://www.ukcdogs.com/dogo-argentino",
     type: "official_breed_standard",
     publishedOn: "2008-01-01",
-    accessedOn: "2026-11-13",
-    note: "Official UKC breed standard (Guardian Dog Group, recognized 2001, revised 2008) covering conformation, slightly off-square proportions, solid white coat, and highly territorial guardian behavior.",
+    accessedOn: "2026-11-26",
+    note: "Preserved existing UKC source entry (Guardian Dog Group); primary measurements and health data rely on FCI Standard No. 292, AKC, DACA, OFA, and PubMed.",
     publisher: "United Kennel Club"
   },
-  "daca-health-programs": {
+"daca-health-programs": {
     id: "daca-health-programs",
-    name: "Dogo Argentino Club of America - Health Programs and Genetics",
+    name: "Dogo Argentino Club of America - Health Programs",
     url: "https://www.dogousa.org/health",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official national parent club health portal detailing mandatory BAER testing for deafness, radiographic hip evaluation, and veterinary cardiologist examinations, alongside elective screening protocols.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC parent club (Dogo Argentino Club of America, founded 1985) health portal covering CHIC health program screening (BAER hearing, hip, and cardiac evaluations) and breed health education.",
     publisher: "Dogo Argentino Club of America"
   },
-  "ofa-dogo-argentino-chic-requirements": {
+"ofa-dogo-argentino-chic-requirements": {
     id: "ofa-dogo-argentino-chic-requirements",
     name: "Orthopedic Foundation for Animals - Dogo Argentino CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=DA",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Dogo Argentino, mandating Congenital Deafness (BAER) testing, Radiographic Hip Dysplasia evaluation, and Congenital Cardiac evaluation.",
+    accessedOn: "2026-11-26",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Dogo Argentino (BAER hearing, hip dysplasia, and cardiac evaluations).",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-dogo-argentino-in-a-field": {
+"wikimedia-dogo-argentino-in-a-field": {
     id: "wikimedia-dogo-argentino-in-a-field",
     name: "Wikimedia Commons - File:Dogo Argentino in a field.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Dogo_Argentino_in_a_field.jpg",
     type: "other",
-    publishedOn: "2026-04-19",
-    accessedOn: "2026-11-13",
-    note: "High-resolution photograph (1920 x 1080 px) of an adult Dogo Argentino standing alert outdoors in a field (captured 2025-06-01, uploaded 2026-04-19). Released into Public Domain on Wikimedia Commons.",
+    publishedOn: "2025-06-12",
+    accessedOn: "2026-11-26",
+    note: "Verified high-resolution photograph (2550 x 3300 px) of an adult Dogo Argentino in a field by Mixtus / Dan Jensen (captured 2025-06-01, uploaded 2025-06-12). Licensed under CC BY 4.0 International on Wikimedia Commons (corrected from earlier erroneous Public Domain / 1920x1080 metadata).",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-dogo-argentino-argentijnse-dog": {
+"wikimedia-dogo-argentino-argentijnse-dog": {
     id: "wikimedia-dogo-argentino-argentijnse-dog",
     name: "Wikimedia Commons - File:Dogo Argentino -Argentijnse dog 14-04-2010 17-00-50.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Dogo_Argentino_-Argentijnse_dog_14-04-2010_17-00-50.jpg",
     type: "other",
     publishedOn: "2010-04-14",
-    accessedOn: "2026-11-13",
-    note: "Photograph (2592 x 1944 px) of a large male Dogo Argentino standing in profile outdoors by Pleple2000 (captured and uploaded 2010-04-14). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Verified photograph (1967 x 1308 px) of a Dogo Argentino outdoors by Paul Hermans (captured and uploaded 2010-04-14). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL 1.2+) on Wikimedia Commons (corrected from earlier erroneous Pleple2000 / 2592x1944 attribution).",
     publisher: "Wikimedia Commons"
   },
-  "fci-greater-swiss-mountain-dog-official-standard": {
+"fci-greater-swiss-mountain-dog-official-standard": {
     id: "fci-greater-swiss-mountain-dog-official-standard",
     name: "FCI - Greater Swiss Mountain Dog (Grosser Schweizer Sennenhund) Official Breed Standard No. 58",
     url: "https://www.fci.be/Nomenclature/Standards/058g02-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2003-05-05",
-    accessedOn: "2026-11-13",
-    note: "Official English FCI Standard No. 58 (valid standard dated 2003-03-25, published 2003-05-05). Covers Swiss origin, Group 2 Section 3 Swiss Mountain and Cattle Dogs classification without working trial, heavy draft-built proportions, tricolor double coat, and withers height (males 65-72 cm, females 60-68 cm).",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 58 (valid standard dated 2003-03-25; English PDF published 2003-05-05). Covers Swiss origin, Group 2 Section 3 Swiss Mountain- and Cattledogs without working trial, 1:1 skull-to-muzzle length, clean non-pendulous lips, tricolor double coat, and withers height (males 65-72 cm, females 60-68 cm).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-greater-swiss-mountain-dog-nomenclature": {
+"fci-greater-swiss-mountain-dog-nomenclature": {
     id: "fci-greater-swiss-mountain-dog-nomenclature",
     name: "FCI - Great Swiss Mountain Dog Breed Nomenclature (No. 58)",
-    url: "https://www.fci.be/en/nomenclature/GREAT-SWISS-MOUNTAIN-DOG-58.html",
+    url: "https://www.fci.be/en/nomenclature/GROSSER-SCHWEIZER-SENNENHUND-58.html",
     type: "official_breed_standard",
-    publishedOn: "2003-05-05",
-    accessedOn: "2026-11-13",
-    note: "Official FCI breed nomenclature record confirming Switzerland as country of origin, Group 2 Section 3 classification without working trial, definitive recognition date (1954-07-16), and multilingual names (Grosser Schweizer Sennenhund, Grand Bouvier Suisse, Gran Boyero Suizo).",
+    publishedOn: "2003-03-25",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Switzerland as country of origin, Group 2 Section 3 Swiss Mountain- and Cattledogs without working trial, definitive recognition date (1954-08-13), valid standard date (2003-03-25), and multilingual names (Great Swiss Mountain Dog, Grand Bouvier Suisse, Grosser Schweizer Sennenhund, Gran Boyero Suizo).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "akc-greater-swiss-mountain-dog-breed-standard": {
+"akc-greater-swiss-mountain-dog-breed-standard": {
     id: "akc-greater-swiss-mountain-dog-breed-standard",
     name: "American Kennel Club - Official Standard of the Greater Swiss Mountain Dog",
     url: "https://images.akc.org/pdf/breeds/standards/GreaterSwissMountainDog.pdf",
     type: "official_breed_standard",
-    publishedOn: "2003-04-08",
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed standard (Working Group, effective April 8, 2003) establishing proportions (10:9 length-to-height), heavy bone, tricolor double coat, and height limits (males 25.5 to 28.5 inches, females 23.5 to 27 inches).",
+    publishedOn: "2003-05-29",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Working Group; approved April 8, 2003, effective May 29, 2003) establishing 10:9 proportions, heavy bone, dry-mouthed lips, tricolor double coat (1.25-2 in topcoat with undercoat), and height limits (dogs 25.5-28.5 inches, bitches 23.5-27 inches).",
     publisher: "American Kennel Club"
   },
-  "akc-greater-swiss-mountain-dog-breed-profile": {
+"akc-greater-swiss-mountain-dog-breed-profile": {
     id: "akc-greater-swiss-mountain-dog-breed-profile",
     name: "American Kennel Club - Greater Swiss Mountain Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/greater-swiss-mountain-dog/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed profile covering Swiss alpine history, draft working utility, weight (115-140 lbs males, 85-110 lbs females), lifespan (8-11 years), temperament, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Working Group, recognized 1995) covering weight (115-140 lb males, 85-110 lb females), lifespan (8-11 years), moderate exercise, training (avoid walking harnesses), nutrition (avoid overfeeding/obesity), health (splenic torsion, bloat, urinary incontinence, epilepsy), and National Breed Club recommended tests (hip, elbow, ophthalmologist, shoulder).",
     publisher: "American Kennel Club"
   },
-  "ukc-greater-swiss-mountain-dog-breed-standard": {
+"ukc-greater-swiss-mountain-dog-breed-standard": {
     id: "ukc-greater-swiss-mountain-dog-breed-standard",
     name: "United Kennel Club - Greater Swiss Mountain Dog Breed Standard",
     url: "https://www.ukcdogs.com/greater-swiss-mountain-dog",
     type: "official_breed_standard",
     publishedOn: "2008-01-01",
-    accessedOn: "2026-11-13",
-    note: "Official UKC breed standard (Guardian Dog Group, recognized 1992, revised 2008) covering conformation, 10:9 rectangular proportions, tricolor double coat, and livestock droving behavior.",
+    accessedOn: "2026-11-26",
+    note: "Preserved existing UKC source entry (Guardian Dog Group); primary measurements and health data rely on FCI Standard No. 58, AKC, GSMDCA Health Foundation, and OFA.",
     publisher: "United Kennel Club"
   },
-  "gsmdca-greater-swiss-mountain-dog-health": {
+"gsmdca-greater-swiss-mountain-dog-health": {
     id: "gsmdca-greater-swiss-mountain-dog-health",
     name: "Greater Swiss Mountain Dog Club of America - Health Foundation",
     url: "https://www.gsmdcahealthfoundation.org/general-1",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official national parent club health portal detailing orthopedic challenges (shoulder OCD, hip and elbow dysplasia), bloat, splenic torsion, idiopathic epilepsy, and mandatory pre-breeding screening guidelines.",
+    accessedOn: "2026-11-26",
+    note: "Official GSMDCA Health Foundation orthopedic page covering hip dysplasia, elbow dysplasia, shoulder osteochondrosis dissecans (OCD), and CHIC basic health screening recommendations.",
     publisher: "Greater Swiss Mountain Dog Club of America"
   },
-  "ofa-greater-swiss-mountain-dog-chic-requirements": {
+"ofa-greater-swiss-mountain-dog-chic-requirements": {
     id: "ofa-greater-swiss-mountain-dog-chic-requirements",
     name: "Orthopedic Foundation for Animals - Greater Swiss Mountain Dog CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=SWM",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Greater Swiss Mountain Dog, mandating radiographic hip dysplasia evaluation, elbow dysplasia evaluation, shoulder OCD evaluation, and CAER eye examination.",
+    accessedOn: "2026-11-26",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Greater Swiss Mountain Dog (hip dysplasia, elbow dysplasia, shoulder OCD, and ophthalmologist eye evaluations).",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-greater-swiss-mountain-dog-swissy": {
+"wikimedia-greater-swiss-mountain-dog-swissy": {
     id: "wikimedia-greater-swiss-mountain-dog-swissy",
     name: "Wikimedia Commons - File:Greater Swiss Mountain Dog.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Greater_Swiss_Mountain_Dog.jpg",
     type: "other",
     publishedOn: "2007-05-16",
-    accessedOn: "2026-11-13",
-    note: "High-resolution photograph (1466 x 985 px) of an adult female Greater Swiss Mountain Dog standing outdoors by Swissy (captured 2007-05-11, uploaded 2007-05-16). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Verified photograph (1466 x 985 px) of a 3-year-old female Greater Swiss Mountain Dog ('Schubert') outdoors by Swissy (captured 2007-05-11, uploaded 2007-05-16). Dual-licensed under CC BY-SA 3.0 Unported and GFDL 1.2+ on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-greyhound-official-standard": {
+"fci-greyhound-official-standard": {
     id: "fci-greyhound-official-standard",
     name: "FCI - Greyhound Official Breed Standard No. 158",
     url: "https://www.fci.be/Nomenclature/Standards/158g10-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2026-10-06",
-    accessedOn: "2026-11-13",
-    note: "Official English FCI Standard No. 158 (valid standard dated 2026-09-08, published 2026-10-06). Covers Great Britain origin, Group 10 Sighthounds, Section 3 Short-haired sighthounds classification without working trial, aerodynamic build, fine close coat, and ideal withers height (dogs 71-76 cm, bitches 68-71 cm).",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 158 (valid standard dated 2026-09-08, published 2026-10-06). Covers Great Britain origin, Group 10 Sighthounds, Section 3 Short-haired Sighthounds classification without working trial, fine close coat, accepted colours (black, white, red, blue, fallow, brindle, or broken with white), and ideal withers height (dogs 71-76 cm, bitches 68-71 cm).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-greyhound-nomenclature": {
+"fci-greyhound-nomenclature": {
     id: "fci-greyhound-nomenclature",
     name: "FCI - Greyhound Breed Nomenclature (No. 158)",
-    url: "https://www.fci.be/en/nomenclature/GREYHOUND-158.html",
+    url: "https://www.fci.be/en/nomenclature/Greyhound-158.html",
     type: "official_breed_standard",
     publishedOn: "2026-10-06",
-    accessedOn: "2026-11-13",
-    note: "Official FCI breed nomenclature record confirming Great Britain as country of origin, Group 10 Section 3 classification without working trial, and official multilingual name (Greyhound).",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature page confirming Great Britain origin, Group 10 Section 3 classification without working trial, and French name LEVRIER ANGLAIS.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "the-kennel-club-greyhound-breed-standard": {
+"the-kennel-club-greyhound-breed-standard": {
     id: "the-kennel-club-greyhound-breed-standard",
     name: "The Royal Kennel Club - Greyhound Breed Standard",
     url: "https://www.royalkennelclub.com/breed-standards/hound/greyhound/",
     type: "official_breed_standard",
     publishedOn: "2025-08-01",
-    accessedOn: "2026-11-13",
-    note: "Official Royal Kennel Club breed standard (Hound Group, country of origin standard) establishing ideal withers height (dogs 71-76 cms, bitches 69-71 cms), fine close coat, aerodynamic anatomy, and intelligent, affectionate temperament.",
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club breed standard (Hound Group, last updated 2025-08-01) establishing ideal height (dogs 71-76 cms, bitches 69-71 cms), fine close coat, deep chest, powerful hindquarters, complete scissor bite, and gentle temperament.",
     publisher: "The Royal Kennel Club"
   },
-  "akc-greyhound-breed-standard": {
+"akc-greyhound-breed-standard": {
     id: "akc-greyhound-breed-standard",
     name: "American Kennel Club - Official Standard of the Greyhound",
     url: "https://images.akc.org/pdf/breeds/standards/Greyhound.pdf",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed standard (Hound Group) establishing weight limits (dogs 65 to 70 pounds, bitches 60 to 65 pounds), narrow head, deep chest, fine tapering tail, and aerodynamic coursing conformation.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Hound Group) specifying weight (dogs 65 to 70 pounds, bitches 60 to 65 pounds), color immaterial, short smooth firm coat, and hard close hare-like feet.",
     publisher: "American Kennel Club"
   },
-  "akc-greyhound-breed-profile": {
+"akc-greyhound-breed-profile": {
     id: "akc-greyhound-breed-profile",
     name: "American Kennel Club - Greyhound Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/greyhound/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed profile covering ancient Egyptian history, King James Bible reference, 45 mph top speed, lifespan (10-13 years), apartment adaptability, and unique sighthound medical needs (anesthesia, bleeding, osteosarcoma).",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile covering Fourth Dynasty Egyptian Tomb of Amten history (2900-2751 BCE), hare coursing, height (28-30 in / 27-28 in), weight (65-70 lb / 60-65 lb), lifespan (10-13 years), higher calorie/protein nutrition note, grooming, gentle training, and national breed club recommended health tests (Cardiac Exam, Ophthalmologist Evaluation, Greyhound Polyneuropathy DNA Test).",
     publisher: "American Kennel Club"
   },
-  "ofa-greyhound-chic-requirements": {
+"ofa-greyhound-chic-requirements": {
     id: "ofa-greyhound-chic-requirements",
     name: "Orthopedic Foundation for Animals - Greyhound CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=GH",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Greyhound, mandating Greyhound Neuropathy (NDRG1) DNA test, Ophthalmologist Evaluation (CAER), and Cardiac Evaluation.",
+    accessedOn: "2026-11-26",
+    note: "OFA Canine Health Information Center (CHIC) testing panel for the Greyhound: Greyhound Polyneuropathy (NDRG1) DNA test, Ophthalmologist Evaluation (CAER), and Cardiac Evaluation.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "greyhound-neuropathy-ndrg1-study-2010": {
+"greyhound-neuropathy-ndrg1-study-2010": {
     id: "greyhound-neuropathy-ndrg1-study-2010",
     name: "A Deletion in the N-myc Downstream Regulated Gene 1 (NDRG1) Gene in Greyhounds with Polyneuropathy (PLoS One)",
-    url: "https://pubmed.ncbi.nlm.nih.gov/20585648/",
+    url: "https://pubmed.ncbi.nlm.nih.gov/20582309/",
     type: "scientific",
     publishedOn: "2010-06-22",
-    accessedOn: "2026-11-13",
-    note: "Peer-reviewed scientific study (Drögemüller et al., PLoS One 2010;5(6):e11258, PMID 20585648) identifying an autosomal recessive 10-bp deletion in the NDRG1 gene responsible for Greyhound polyneuropathy, a severe neurodegenerative disorder.",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study (Drögemüller et al., PLoS One 2010;5(6):e11258, PMID 20582309, PMCID PMC2889825, DOI 10.1371/journal.pone.0011258) identifying an autosomal recessive 10-bp deletion in canine NDRG1 exon 15 (c.1080_1089delTCGCCTGGAC) causing polyneuropathy in Greyhound show dogs. Corrected broken PMID 20585648 to verified PMID 20582309.",
     publisher: "PLoS One / PubMed"
   },
-  "wikimedia-greyhound-kk70088": {
+"wikimedia-greyhound-kk70088": {
     id: "wikimedia-greyhound-kk70088",
-    name: "Wikimedia Commons - File:Greyhound (15743605663).jpg",
-    url: "https://commons.wikimedia.org/wiki/File:Greyhound_(15743605663).jpg",
+    name: "Wikimedia Commons - File:Greyhound brindle standing.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Greyhound_brindle_standing.jpg",
     type: "other",
-    publishedOn: "2014-11-25",
-    accessedOn: "2026-11-13",
-    note: "High-resolution photograph (1558 x 1038 px) of an adult fawn-colored Greyhound standing outdoors by KK70088 (captured 2010-04-11, uploaded to Flickr, imported 2014-11-25). Licensed under CC BY-SA 2.0 on Wikimedia Commons.",
+    publishedOn: "2007-02-03",
+    accessedOn: "2026-11-26",
+    note: "Replaced erroneous Greyhound bus photo (File:Greyhound_(15743605663).jpg) in place while preserving existing source ID. Full-body standing brindle Greyhound dog ('Legend', 2306 x 1700 px) by Scott Feldstein (captured 2005-10-09, EXIF 2005-10-08; uploaded 2007-02-03 by Pharaoh Hound; Flickr license reviewed 2007-02-03 by GeorgHH). Licensed under CC BY 2.0.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-greyhound-close-up-vincent-eisfeld": {
+"wikimedia-greyhound-close-up-vincent-eisfeld": {
     id: "wikimedia-greyhound-close-up-vincent-eisfeld",
     name: "Wikimedia Commons - File:Greyhound Close-up.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Greyhound_Close-up.jpg",
     type: "other",
     publishedOn: "2015-06-18",
-    accessedOn: "2026-11-13",
-    note: "High-resolution photograph (3688 x 3316 px) featuring a close-up of a brindle Greyhound's head and neck by Vincent Eisfeld (captured and uploaded 2015-06-18). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Verified close-up photograph (3688 x 3316 px) of a brindle female Greyhound ('Eden') by Vincent Eisfeld (captured and uploaded 2015-06-18). Licensed under CC BY-SA 4.0; creator specifies attribution as '© Vincent Eisfeld / vincent-eisfeld.de / CC BY-SA 4.0'.",
     publisher: "Wikimedia Commons"
   },
-  "fci-cane-corso-italiano-official-standard": {
+"fci-cane-corso-italiano-official-standard": {
     id: "fci-cane-corso-italiano-official-standard",
     name: "FCI - Cane Corso Italiano Official Breed Standard No. 343",
     url: "https://www.fci.be/Nomenclature/Standards/343g02-en.pdf",
     type: "official_breed_standard",
-    publishedOn: "2015-12-17",
-    accessedOn: "2026-11-13",
-    note: "Official English FCI Standard No. 343 (valid standard dated 2015-12-17). Covers Italian origin, Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 2.1 Mastiff type Molossoids classification without working trial, robust elegant build, slightly converging skull and muzzle axes, short double coat, withers height (males 64-68 cm, females 60-64 cm), and weight (males 45-50 kg, females 40-45 kg).",
+    publishedOn: "2023-10-13",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 343 (published 2023-10-13). Covers Italian origin, Group 2 Section 2.1 Mastiff type Molossoids (subject to a working trial), slightly converging skull/muzzle axes, short shiny very dense coat with slight undercoat of vitreous texture, accepted colours (black, lead-grey/blue, slate-grey/blue, light grey/blue, light/dark fawn, stag red, dark wheat, black brindle, grey/blue brindle), ideal height (males 64-68 cm, females 60-64 cm, +/- 2 cm tolerance), and weight (males 45-50 kg, females 40-45 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-cane-corso-italiano-nomenclature": {
+"fci-cane-corso-italiano-nomenclature": {
     id: "fci-cane-corso-italiano-nomenclature",
     name: "FCI - Cane Corso Italiano Breed Nomenclature (No. 343)",
     url: "https://www.fci.be/en/nomenclature/ITALIAN-CANE-CORSO-343.html",
     type: "official_breed_standard",
-    publishedOn: "2015-12-17",
-    accessedOn: "2026-11-13",
-    note: "Official FCI breed nomenclature record confirming Italy as country of origin, Group 2 Section 2.1 classification without working trial, definitive recognition date (2007-05-21), and official multilingual name (Cane Corso Italiano).",
+    publishedOn: "2023-10-13",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature confirming Italy as country of origin, Group 2 Section 2.1 Mastiff type Molossoids, subject to a working trial, provisional acceptance 1996-11-12, definitive acceptance 2007-05-21, English standard published 2023-10-13, and French name CHIEN DE COUR ITALIEN.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "enci-cane-corso-italiano-standard": {
+"enci-cane-corso-italiano-standard": {
     id: "enci-cane-corso-italiano-standard",
-    name: "Ente Nazionale della Cinofilia Italiana - Standard del Cane Corso Italiano",
-    url: "https://www.enci.it/libro-genealogico/razze/cane-corso-italiano",
+    name: "Ente Nazionale della Cinofilia Italiana - Cane Corso",
+    url: "https://www.enci.it/libro-genealogico/razze/cane-corso",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official Italian Kennel Club (ENCI) breed standard and profile for Cane Corso Italiano, documenting Apulia, Lucania, and Sannio historical roots, 1994 Italian recognition, height limits (males 64-68 cm, females 60-64 cm), weight (45-50 kg males, 40-45 kg females), and guardian traits.",
+    accessedOn: "2026-11-26",
+    note: "Official Italian Kennel Club (ENCI) breed page for Cane Corso (updated URL from /cane-corso-italiano to /cane-corso), covering general appearance, guardian/working heritage, and selected breeding requirements (HD, ED, CAE-1).",
     publisher: "Ente Nazionale della Cinofilia Italiana"
   },
-  "akc-cane-corso-breed-standard": {
+"akc-cane-corso-breed-standard": {
     id: "akc-cane-corso-breed-standard",
     name: "American Kennel Club - Official Standard of the Cane Corso",
     url: "https://images.akc.org/pdf/breeds/standards/CaneCorso.pdf",
     type: "official_breed_standard",
     publishedOn: "2010-10-01",
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed standard (Working Group, effective 2010) establishing proportions, heavy bone structure, slightly undershot bite, coat colors (black, grey, fawn, red, brindle), and unequalled protective temperament.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Working Group) covering height (males 25-27.5 in, females 23.5-26 in), proportionate weight, strong bone structure, slightly undershot bite, coat, and protective temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-cane-corso-breed-profile": {
+"akc-cane-corso-breed-profile": {
     id: "akc-cane-corso-breed-profile",
     name: "American Kennel Club - Cane Corso Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/cane-corso/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official AKC breed profile covering Canis Pugnax war dog origins, 'cohors' etymology, 1970s Paolo Breber revival, weight (proportionate), lifespan (9-12 years), temperament, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile covering Roman molossoid heritage, 'cohors' etymology, plural 'Cani Corsi', 1970s revival, lifespan (9-12 years), temperament, exercise, grooming, and bloat awareness.",
     publisher: "American Kennel Club"
   },
-  "ccaa-cane-corso-health": {
+"ccaa-cane-corso-health": {
     id: "ccaa-cane-corso-health",
-    name: "Cane Corso Association of America - Breed Health and CHIC Updates",
+    name: "Cane Corso Association of America - Breed Health and CHIC Testing",
     url: "https://www.canecorso.org/akc-canine-health-foundation--chic.html",
     type: "breed_club",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official national parent club health portal detailing mandatory CHIC testing updates including Hip Dysplasia, Elbow Dysplasia, Cardiac, Patellar Luxation, NCL, and DSRA DNA tests.",
+    accessedOn: "2026-11-26",
+    note: "Official national parent club health page specifying the six required CHIC screenings: Hip Dysplasia (OFA or PennHIP), Elbow Dysplasia, Cardiac, Patellar Luxation, NCL DNA test, and DSRA DNA test; also links to OFA breed=COR.",
     publisher: "Cane Corso Association of America"
   },
-  "ofa-cane-corso-chic-requirements": {
+"ofa-cane-corso-chic-requirements": {
     id: "ofa-cane-corso-chic-requirements",
     name: "Orthopedic Foundation for Animals - Cane Corso CHIC Requirements",
-    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=CCO",
+    url: "https://ofa.org/chic-programs/browse-by-breed/?breed=COR",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-13",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Cane Corso, mandating Radiographic Hip and Elbow Dysplasia evaluation, Cardiac Evaluation, CAER Eye examination, Patellar Luxation, NCL DNA test, and DSRA DNA test.",
+    accessedOn: "2026-11-26",
+    note: "Official OFA Canine Health Information Center (CHIC) page for Cane Corso (corrected URL from ?breed=CCO to ?breed=COR). Required tests: Hip Dysplasia, Elbow Dysplasia, Cardiac, Patellar Luxation, NCL DNA test, and DSRA DNA test.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "cane-corso-dsra-mia3-study-2021": {
+"cane-corso-dsra-mia3-study-2021": {
     id: "cane-corso-dsra-mia3-study-2021",
     name: "MIA3 Splice Defect in Cane Corso Dogs with Dental-Skeletal-Retinal Anomaly (DSRA)",
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8535341/",
+    url: "https://pubmed.ncbi.nlm.nih.gov/34680893/",
     type: "scientific",
-    publishedOn: "2021-10-18",
-    accessedOn: "2026-11-13",
-    note: "Peer-reviewed scientific study (Christen et al., Genes (Basel) 2021;12(10):1497, PMID 34680892) identifying an autosomal recessive splice defect in the MIA3 gene causing Dental-Skeletal-Retinal Anomaly (DSRA) in Cane Corso dogs.",
-    publisher: "Genes (Basel) / PubMed Central"
+    publishedOn: "2021-09-25",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study (Christen et al., Genes (Basel) 2021 Sep 25;12(10):1497, PMID 34680893, DOI 10.3390/genes12101497) identifying an autosomal recessive MIA3 splice variant (c.3822+3_3822+4del) causing Dental-Skeletal-Retinal Anomaly (DSRA) in Cane Corso dogs. Corrected PMID from 34680892 to 34680893 and publication date to 2021-09-25.",
+    publisher: "Genes (Basel) / PubMed"
   },
-  "wikimedia-cane-corso-2021-03-wojciech": {
+"wikimedia-cane-corso-2021-03-wojciech": {
     id: "wikimedia-cane-corso-2021-03-wojciech",
     name: "Wikimedia Commons - File:Cane corso 2021 03.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Cane_corso_2021_03.jpg",
     type: "other",
-    publishedOn: "2021-08-15",
-    accessedOn: "2026-11-13",
-    note: "High-resolution photograph (4691 x 3564 px) of an adult Cane Corso standing in profile outdoors by Wojciech Pędzich (captured 2021-08-14, uploaded 2021-08-15). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publishedOn: "2022-04-26",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (4691 x 3564 px) of an adult Cane Corso outdoors by Wojciech Pędzich (captured 2021-08-14, uploaded 2022-04-26). Licensed under CC BY-SA 4.0. Note: Commons page currently displays a 'lacking source information' maintenance notice despite matching photographer and uploader.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-cane-corso-17-wili15": {
+"wikimedia-cane-corso-17-wili15": {
     id: "wikimedia-cane-corso-17-wili15",
     name: "Wikimedia Commons - File:Cane corso 17.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Cane_corso_17.jpg",
     type: "other",
-    publishedOn: "2014-04-18",
-    accessedOn: "2026-11-13",
-    note: "Photograph (3872 x 2592 px) of a large male Cane Corso standing outdoors by Wili15 (captured 2014-04-17, uploaded 2014-04-18). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    publishedOn: "2017-12-17",
+    accessedOn: "2026-11-26",
+    note: "Verified photograph (3872 x 2592 px) of a large adult Cane Corso outdoors by Wili15 (Own work; captured 2014-04-17, cross-wiki uploaded to Commons 2017-12-17). Licensed under CC BY-SA 4.0.",
     publisher: "Wikimedia Commons"
   },
   "fci-lagotto-romagnolo-official-standard": {
@@ -24166,6 +24166,386 @@ export const sources = defineSources({
     accessedOn: "2026-11-26",
     note: "High-resolution outdoor portrait (2592 x 3872 px) of a purebred Australian Kelpie named Diesel by Flickr user davepaku (EXIF capture date 2007-05-13 on Nikon D80, uploaded to Wikimedia Commons by Pharaoh Hound on 2007-05-16, license reviewed by Vaya on 2007-05-17). Licensed under CC BY-SA 2.0 Generic.",
     publisher: "Wikimedia Commons"
+  },
+  "fci-borzoi-official-standard": {
+    id: "fci-borzoi-official-standard",
+    name: "FCI - Russkaya Psovaya Borzaya (Borzoi – Russian Hunting Sighthound) Official Breed Standard No. 193",
+    url: "https://www.fci.be/nomenclature/Standards/193g10-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2019-11-05",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 193 (dated 2019-11-05, translated by Anna Samsonova and edited by Dr. Eugene Yerusalimsky). Covers Russian origin (15th-century roots; Greyhound / Chistopsovy, Mountain Gorsky, and Crimean Sighthound heritage), Group 10 Section 1 Long-haired or fringed Sighthounds classification, hare/fox/wolf coursing utilization, 5-10% elongated proportions, calm temperament, thin fold-free skin, always-black nose and eye rims, long silky coat, disqualifying colours (brown, blue, isabella/lilac, dilute with non-black nose), and desirable withers height (males 75-85 cm, females 68-78 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-borzoi-nomenclature": {
+    id: "fci-borzoi-nomenclature",
+    name: "FCI - Russkaya Psovaya Borzaya (Borzoi) Breed Nomenclature (No. 193)",
+    url: "https://www.fci.be/en/nomenclature/RUSSKAYA-PSOVAYA-BORZAYA-193.html",
+    type: "official_breed_standard",
+    publishedOn: "2019-11-05",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Russia as country of origin, Group 10 Section 1 Long-haired or fringed Sighthounds classification, definitive acceptance date (1956-01-13), English standard publication date (2019-11-05), and official multilingual names (Russkaya Psovaya Borzaya, Borzoi – Russian Hunting Sighthound, Barzoï).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "bcoa-borzoi-breed-standard": {
+    id: "bcoa-borzoi-breed-standard",
+    name: "Borzoi Club of America (BCOA) - Official Breed Standard of the Borzoi",
+    url: "https://borzoiclubofamerica.org/aboutborzoi/borzoi-standard.php",
+    type: "official_breed_standard",
+    publishedOn: "2019-08-09",
+    accessedOn: "2026-11-26",
+    note: "Official US parent breed club publication of the AKC Borzoi Breed Standard detailing Roman-nosed profile, scissor or even bite, blade-like flattened forelegs, hare-shaped feet, silky coat with curly neck frill, low-carried curved tail, minimum heights (males >=28 in, bitches >=26 in), weight range (males 75-105 pounds, bitches 15-20 pounds less), and ground-covering single-tracking trot.",
+    publisher: "Borzoi Club of America"
+  },
+  "akc-borzoi-breed-profile": {
+    id: "akc-borzoi-breed-profile",
+    name: "American Kennel Club - Borzoi Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/borzoi/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile confirming height (28 in & up male, 26 in & up female), weight (75-105 pounds male, 60-85 pounds female), life expectancy (9-14 years), 35-40 mph running speed, calm housedog demeanour, on-leash safety around small running animals, modest adult food intake vs. growing puppies, sighthound anaesthetic sensitivity, bloat awareness, and national breed club recommended health tests (Cardiac Exam, Ophthalmologist Evaluation, Thyroid Evaluation, and Degenerative Myelopathy DNA SOD1A).",
+    publisher: "American Kennel Club"
+  },
+  "rkc-borzoi-breed-profile": {
+    id: "rkc-borzoi-breed-profile",
+    name: "The Royal Kennel Club - Borzoi Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/hound/borzoi/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club Breeds A to Z profile (Hound Group) confirming 'Borzoi' etymology ('swift'), 16th-century Russian imperial aristocracy wolf-hunting history, large house requirement, up to 1 hour daily exercise baseline, shedding, grooming more than once weekly, and Breed Watch Category 2 status.",
+    publisher: "The Royal Kennel Club"
+  },
+  "skk-borzoi-breed-profile": {
+    id: "skk-borzoi-breed-profile",
+    name: "Svenska Kennelklubben (SKK) - Borzoi Rasprofil",
+    url: "https://www.skk.se/hundraser/borzoi/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Borzoi confirming Russian origin, height (75-85 cm males, 68-78 cm females), easy-care silky coat brushed a couple of times weekly with heavy twice-yearly seasonal shedding, calm quiet indoor demeanour (rarely barks; may refuse rainy outings), strong dog-pack sociability, and bloat exercise precautions around feeding.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "skk-borzoi-ras-2022": {
+    id: "skk-borzoi-ras-2022",
+    name: "Borzoi-Ringen / SKK - Rasspecifik avelsstrategi (RAS) för Borzoi (2022)",
+    url: "https://www.skk.se/contentassets/44d43f7d8b8549f9958da03fcc99f1ad/ras-borzoi.pdf?timestamp=20231101120444",
+    type: "breed_club",
+    publishedOn: "2023-11-01",
+    accessedOn: "2026-11-26",
+    note: "Official Swedish breed-specific breeding strategy (RAS, revised 2022, published via SKK) detailing the 2021 Borzoi-Ringen owner health survey (cancer 8% mainly in older dogs, thyroid, bloat, rapid-growth musculoskeletal injuries, and mean longevity of 8.8 years overall: 7.4 years males, 9.8 years females).",
+    publisher: "Borzoi-Ringen / Svenska Kennelklubben"
+  },
+  "bcoa-health-information": {
+    id: "bcoa-health-information",
+    name: "Borzoi Club of America (BCOA) - Health Information & Holter Screening Program",
+    url: "https://www.borzoiclubofamerica.org/health/health.php",
+    type: "breed_club",
+    publishedOn: "2025-12-29",
+    accessedOn: "2026-11-26",
+    note: "Official Borzoi Club of America Health Committee portal (updated December 29, 2025) documenting the BCOA Holter monitor rental committee, OFA open-database screening clinics, degenerative myelopathy education, and bloat (GDV) research links.",
+    publisher: "Borzoi Club of America"
+  },
+  "pmc-sykes-2023-borzoi-cardiac-disease": {
+    id: "pmc-sykes-2023-borzoi-cardiac-disease",
+    name: "A multicenter, retrospective study of cardiac disease in Borzoi dogs (Frontiers in Veterinary Science 2023)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9909344/",
+    type: "scientific",
+    publishedOn: "2023-01-26",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed multicenter study across 14 veterinary cardiology centres by Sykes, Wesselowski, Saunders et al. (Front Vet Sci 2023 Jan 26;10:1102494, PMID 36777677, PMC9909344) evaluating 152 client-owned Borzoi: ventricular arrhythmias identified in 25/131 (19%, with 76% having minimal or no structural heart disease), DCM (n = 13), MMVD (n = 12, 92% mild), tricuspid valve dysplasia (n = 6), and sudden death in 3/55 (5%) with long-term follow-up.",
+    publisher: "Frontiers in Veterinary Science / National Library of Medicine (PMC)"
+  },
+  "pubmed-borzoi-echocardiography-2024": {
+    id: "pubmed-borzoi-echocardiography-2024",
+    name: "Echocardiographic values and prevalence of cardiac abnormalities in clinically healthy adult Borzoi dogs (Am J Vet Res 2024)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/38154250/",
+    type: "scientific",
+    publishedOn: "2024-01-02",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed cardiology study (Am J Vet Res 2024 Jan 2:1-10, PMID 38154250) establishing Borzoi-specific echocardiographic reference intervals and reporting DCM and mild MMVD at similar frequencies in clinically healthy adult Borzoi, supporting echocardiographic screening for DCM.",
+    publisher: "American Journal of Veterinary Research / PubMed"
+  },
+  "pmc-zeng-2014-sod1-dm-breeds": {
+    id: "pmc-zeng-2014-sod1-dm-breeds",
+    name: "Breed Distribution of SOD1 Alleles Previously Associated with Canine Degenerative Myelopathy (JVIM 2014)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4238831/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed multi-breed genetic survey (J Vet Intern Med 2014, PMC4238831) reporting SOD1:c.118G>A genotypes across 787 tested Borzoi (548 G/G, 209 G/A, 30 A/A; mutant A allele frequency 0.17).",
+    publisher: "Journal of Veterinary Internal Medicine / National Library of Medicine (PMC)"
+  },
+  "pmc-grahn-2006-borzoi-retinopathy": {
+    id: "pmc-grahn-2006-borzoi-retinopathy",
+    name: "Diagnostic Ophthalmology: Multi-focal chorioretinopathy of Borzoi dogs (Canadian Veterinary Journal / PMC1482450)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC1482450/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed veterinary ophthalmology report (PMC1482450, citing Storey, Grahn, and Alcorn, Vet Ophthalmol 2005;8:337-347) detailing multifocal chorioretinopathy ('Borzoi retinopathy') and confirming it is distinct from Progressive Retinal Atrophy.",
+    publisher: "Canadian Veterinary Journal / National Library of Medicine (PMC)"
+  },
+  "pubmed-conaway-1985-borzoi-lymphocytic-thyroiditis": {
+    id: "pubmed-conaway-1985-borzoi-lymphocytic-thyroiditis",
+    name: "The familial occurrence of lymphocytic thyroiditis in borzoi dogs (Am J Med Genet 1985)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/3840332/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed six-year clinical and pedigree study across four generations of Borzoi dogs (PMID 3840332) documenting the familial occurrence of autoimmune lymphocytic thyroiditis causing primary hypothyroidism.",
+    publisher: "American Journal of Medical Genetics / PubMed"
+  },
+  "wikimedia-borzoi-white-grey-2-canarian": {
+    id: "wikimedia-borzoi-white-grey-2-canarian",
+    name: "Wikimedia Commons - File:Borzoi white & grey 2.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Borzoi_white_%26_grey_2.jpg",
+    type: "other",
+    publishedOn: "2020-08-24",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1708 x 1471 px) of an adult white-and-grey male Borzoi by Canarian (EXIF capture date 2020-08-23 on Sony DSLR-A350, uploaded 2020-08-24). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-borzoi-red-white-canarian": {
+    id: "wikimedia-borzoi-red-white-canarian",
+    name: "Wikimedia Commons - File:Borzoi red & white.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Borzoi_red_%26_white.jpg",
+    type: "other",
+    publishedOn: "2020-08-24",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1950 x 1699 px) of an adult red-and-white female Borzoi by Canarian (EXIF capture date 2020-08-23 on Sony DSLR-A350, uploaded 2020-08-24). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "pubmed-dogo-argentino-deafness-2021": {
+    id: "pubmed-dogo-argentino-deafness-2021",
+    name: "Congenital sensorineural deafness in Dogo Argentino dogs: Prevalence and phenotype associations (Vet Rec 2021)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/33870537/",
+    type: "scientific_publication",
+    publishedOn: "2021-04-19",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed Veterinary Record retrospective study (Vet Rec. 2021 May;188(9):e299, Epub 2021-04-19, PMID 33870537, DOI 10.1002/vetr.299) analyzing BAER results for 811 US Dogo Argentinos: 74.23% bilaterally hearing, 20.35% unilaterally deaf, and 5.43% bilaterally deaf (25.77% overall), with significantly lower prevalence in head-patched dogs.",
+    publisher: "Veterinary Record / PubMed"
+  },
+  "fci-japanese-terrier-official-standard": {
+    id: "fci-japanese-terrier-official-standard",
+    name: "FCI - Nihon Teria (Japanese Terrier) Official Breed Standard No. 259",
+    url: "https://www.fci.be/Nomenclature/Standards/259g03-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2016-06-03",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 259 (valid standard dated 2016-04-04, English publication dated 2016-06-03). Covers Japanese origin (17th-century Dutch Smooth Fox Terrier imports to Nagasaki crossed with small pointers/native dogs; Kobe and Yokohama lapdogs; ~1920 planned breeding; ~1930 established type), Group 3 Section 2 Small-sized Terriers classification without working trial, companion-dog utilization, 1:1 square proportion, 1:1 skull-to-nasal-bridge ratio, thin tight lips, scissor bite, high-set V-shaped forward-drop or folded ears, traditionally docked or slightly curved natural tail, ultra-short ~2 mm smooth dense glossy coat (long coat disqualified), tricolour head with white spotted/marked body, and withers height (males and females approx. 30-33 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-japanese-terrier-nomenclature": {
+    id: "fci-japanese-terrier-nomenclature",
+    name: "FCI - Nihon Teria (Japanese Terrier) Breed Nomenclature (No. 259)",
+    url: "https://www.fci.be/en/nomenclature/NIHON-TERIA-259.html",
+    type: "official_breed_standard",
+    publishedOn: "2016-06-03",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Japan as country of origin, Group 3 Section 2 Small-sized Terriers classification without working trial, definitive acceptance date (1964-04-01), valid standard date (2016-04-04), English publication date (2016-06-03), and official multilingual names (Nihon Teria, Japanese Terrier, Terrier Japonais, Japanischer Terrier, Terrier Japonés).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "jkc-japanese-terrier-breed-standard": {
+    id: "jkc-japanese-terrier-breed-standard",
+    name: "Japan Kennel Club (JKC) - Japanese Terrier (日本テリア) Breed Standard",
+    url: "https://www.jkc.or.jp/breeds/japanese-terrier/",
+    type: "official_breed_standard",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official country-of-origin kennel club (Japan Kennel Club / JKC) breed standard page for Japanese Terrier (日本テリア, Standard No. 259) confirming Edo-era Nagasaki Dutch Smooth Fox Terrier origins, historic nicknames 'Oyuki Terrier' (お雪テリア) and 'Mikado Terrier' (ミカド・テリア) in Kobe and Yokohama, early Showa planned breeding, ~2 mm coat length, tricolour head and white spotted body, and withers height (both sexes approx. 30-33 cm).",
+    publisher: "Japan Kennel Club"
+  },
+  "akc-japanese-terrier-breed-profile": {
+    id: "akc-japanese-terrier-breed-profile",
+    name: "American Kennel Club - Japanese Terrier Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/japanese-terrier/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Foundation Stock Service, accepted October 2020) documenting only-terrier-from-Japan status, WWII and ~1948 near-extinction bottlenecks, height (10-13 inches), weight (10-12 lbs), life expectancy (13-15 years), reserved/independent/curious one-person character, alert watchdog barking, moderate exercise (walks/fenced yard plus couch companionship), minimal smooth-coat care, frequent nail trims, daily toothbrushing, and supervision with children and other dogs.",
+    publisher: "American Kennel Club"
+  },
+  "jtca-japanese-terrier-health": {
+    id: "jtca-japanese-terrier-health",
+    name: "Japanese Terrier Club of America (JTCA) - Breed Health & Recommended Testing",
+    url: "https://www.japaneseterrier.org/health.html",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official US parent breed club health portal documenting owner-reported health concerns (minor to moderate food/environmental allergies, umbilical hernia, cataracts, and general small-breed luxating patella) and parent-club recommended screenings (PRA, OFA CAER eye exam, OFA Patellar Luxation) plus additional elective screenings (OFA Elbows and OFA Hips).",
+    publisher: "Japanese Terrier Club of America"
+  },
+  "jtca-japanese-terrier-history": {
+    id: "jtca-japanese-terrier-history",
+    name: "Japanese Terrier Club of America (JTCA) - Breed History",
+    url: "https://www.japaneseterrier.org/history.html",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official US parent breed club history portal documenting 1916 Nada/Hyogo foundation dog Kuro-Go (bred with Kobe Terriers), Osaka close breeding establishing the breed in the 1930s, 1980s near-extinction, FCI (1964) / UKC (2008) / AKC FSS (2020) milestones, and current global rarity (~50-80 puppies born and registered annually with JKC).",
+    publisher: "Japanese Terrier Club of America"
+  },
+  "skk-nihon-teria-profile": {
+    id: "skk-nihon-teria-profile",
+    name: "Svenska Kennelklubben (SKK) - Nihon teria Rasprofil",
+    url: "https://www.skk.se/hundraser/nihon-teria/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Nihon teria confirming Japanese companion-dog status, height (approx. 30-33 cm for both sexes), very easy-care short glossy coat, cold-weather sweater/coat recommendation, lively affectionate family nature, and note that very few Swedish individuals prevent reliable national health assessment.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-terrier-japonais-profile": {
+    id: "scc-terrier-japonais-profile",
+    name: "Société Centrale Canine (SCC) - Terrier japonais",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/terrier-japonais",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French Kennel Club (SCC) breed profile for Terrier japonais confirming height (30-33 cm), weight explicitly unspecified (NP), ~2 mm glossy coat, historic ladies' lapdog ('chiens de dames') role in Kobe and Yokohama, and lively, vigilant, affectionate temperament.",
+    publisher: "Société Centrale Canine"
+  },
+  "wikimedia-japanese-terrier-22-04-2012-2pl-pleple2000": {
+    id: "wikimedia-japanese-terrier-22-04-2012-2pl-pleple2000",
+    name: "Wikimedia Commons - File:Japanese Terrier 22.04.2012 2pl.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Japanese_Terrier_22.04.2012_2pl.jpg",
+    type: "other",
+    publishedOn: "2012-05-07",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (2012 x 2016 px) of Japanese Terrier 'Amakakeru-Meiji White Oleander' at a dog show in Konopiska, Poland, by Pleple2000 (EXIF capture date 2012-04-22 on Canon EOS 350D DIGITAL, uploaded 2012-05-07). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-nihon-teria-canarian": {
+    id: "wikimedia-nihon-teria-canarian",
+    name: "Wikimedia Commons - File:Nihon teria aka Japanese Terrier.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Nihon_teria_aka_Japanese_Terrier.JPG",
+    type: "other",
+    publishedOn: "2014-04-16",
+    accessedOn: "2026-11-26",
+    note: "Photograph (530 x 483 px) of an adult female Japanese Terrier by Canarian (EXIF capture date 2013-12-14 on Sony DSLR-A350, uploaded 2014-04-16). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "fci-fila-brasileiro-official-standard": {
+    id: "fci-fila-brasileiro-official-standard",
+    name: "FCI - Fila Brasileiro Official Breed Standard No. 225",
+    url: "https://www.fci.be/Nomenclature/Standards/225g02-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2016-10-04",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 225 (valid standard dated 2016-09-29, English publication dated 2016-10-04, translated by Jennifer Mulholland and Raymond Triquet). Covers Brazilian origin, Group 2 Section 2.1 Mastiff-type Molossoids classification without working trial, watch-dog utilization, 15% rectangular proportion, trapezoid/pear head, wider-than-long teeth, dark-brown-to-yellow eyes, courage/loyalty/stranger aloofness with controlled handling, disqualifying faults (not walking at camel's pace, skin not loose and supple, croup lower than withers, cropped ears/docked tail), withers height (males 65-75 cm, females 60-70 cm), and minimum weights (males min 50 kg, females min 40 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-fila-brasileiro-nomenclature": {
+    id: "fci-fila-brasileiro-nomenclature",
+    name: "FCI - Fila Brasileiro Breed Nomenclature (No. 225)",
+    url: "https://www.fci.be/en/nomenclature/FILA-BRASILEIRO-225.html",
+    type: "official_breed_standard",
+    publishedOn: "2016-10-04",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Brazil as country of origin, Group 2 Section 2.1 Mastiff-type Molossoids classification without working trial, definitive acceptance date (1960-01-01), valid standard date (2016-09-29), English publication date (2016-10-04), and official breed name (Fila Brasileiro).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "cbkc-fila-brasileiro-official-standard": {
+    id: "cbkc-fila-brasileiro-official-standard",
+    name: "Confederação Brasileira de Cinofilia (CBKC) - Padrão Oficial da Raça Fila Brasileiro (FCI No. 225)",
+    url: "https://cbkc.org/application/views/docs/padroes/padrao-raca_217.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2016-10-18",
+    accessedOn: "2026-11-26",
+    note: "Official country-of-origin Portuguese breed standard published by the Confederação Brasileira de Cinofilia (CBKC, updated 18 October 2016) confirming Brazil origin, guarding and cattle-herding role, 15% body-length excess, short/soft/dense close-lying coat, height (males 65-75 cm, females 60-70 cm), minimum weight (males 50 kg, females 40 kg), and disqualifying faults (absence of camel's pace, absence of loose skin, croup lower than withers, white/mouse-grey/dappled/black-and-tan/blue coats, cropped ears/docked tail, blue eyes, and dental faults).",
+    publisher: "Confederação Brasileira de Cinofilia"
+  },
+  "skk-fila-brasileiro-profile": {
+    id: "skk-fila-brasileiro-profile",
+    name: "Svenska Kennelklubben (SKK) - Fila brasileiro Rasprofil",
+    url: "https://www.skk.se/hundraser/fila-brasileiro/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for Fila brasileiro confirming 16th-century Spanish/Portuguese origins (mastiff, bloodhound, Portuguese cattle dogs), 1946 first official standard, Brazilian proverb ('Trofast som en fila'), height (65-75 cm males, 60-70 cm females), minimum weight (50 kg males, 40 kg females), easy-care short coat, unsuitability for first-time owners, strong guarding instinct and stranger suspicion, and health note documenting hip dysplasia (HD) occurrence with no other known breed-bound diseases currently established in Sweden.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-fila-brasileiro-profile": {
+    id: "scc-fila-brasileiro-profile",
+    name: "Société Centrale Canine (SCC) - Fila brasileiro",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/fila-brasileiro",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French Kennel Club (SCC) breed profile for Fila brasileiro confirming 16th-century colonial arrival and plantation history prior to slavery abolition, 1946 standard, height (60-75 cm), minimum weight (40 kg female, 50 kg male), intense family affection and stranger wariness, structured visitor management, unsuitability for urban apartments ('chien des champs'), and slow-growth mastiff nutritional demands.",
+    publisher: "Société Centrale Canine"
+  },
+  "uk-gov-dangerous-dogs-act-2026": {
+    id: "uk-gov-dangerous-dogs-act-2026",
+    name: "UK Government (GOV.UK) - Dangerous Dogs Act 1991 Prohibited Dog Types (2026 Response)",
+    url: "https://www.gov.uk/government/publications/government-response-to-the-animal-sentience-committee-report-on-xl-bullies-and-the-dangerous-dogs-act/government-response-to-the-animal-sentience-committee-report-on-xl-bullies-and-the-dangerous-dogs-act",
+    type: "other",
+    publishedOn: "2026-03-25",
+    accessedOn: "2026-11-26",
+    note: "Official UK Government publication (25 March 2026) confirming that Section 1 of the Dangerous Dogs Act 1991 prohibits the ownership, breeding, gifting, and sale of five designated dog types in the United Kingdom, including the Fila Brasileiro.",
+    publisher: "GOV.UK / HM Government"
+  },
+  "ofa-fila-brasileiro-hip-statistics": {
+    id: "ofa-fila-brasileiro-hip-statistics",
+    name: "Orthopedic Foundation for Animals (OFA) - Hip Dysplasia Disease Statistics by Breed (Fila Brasileiro)",
+    url: "https://ofa.org/diseases/disease-statistics/",
+    type: "veterinary",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official OFA breed-by-breed radiographic hip dysplasia statistics table recording 228 evaluated Fila Brasileiros: 67.5% graded normal and 32.5% graded dysplastic (19.7% mild, 9.6% moderate, 3.1% severe; screened registry cohort).",
+    publisher: "Orthopedic Foundation for Animals"
+  },
+  "pmc-belerenian-2022-fila-brasileiro-acm": {
+    id: "pmc-belerenian-2022-fila-brasileiro-acm",
+    name: "Left-dominant arrhythmogenic cardiomyopathy in a Fila Brasileiro dog (PMC9473371)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9473371/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed veterinary cardiology case report by Belerenian, Donati, Rodríguez, Castillo, and Guevara (PMC9473371) documenting an isolated clinical and postmortem case of left-dominant arrhythmogenic cardiomyopathy with myocardial fibroadipose replacement in a Fila Brasileiro dog.",
+    publisher: "National Library of Medicine (PMC)"
+  },
+  "pmc-brazilian-mastiff-mitogenomics-2026": {
+    id: "pmc-brazilian-mastiff-mitogenomics-2026",
+    name: "Mitogenomic sequencing of the Brazilian Mastiff and Brazilian Terrier suggests a complex scenario of breed formation for two established Brazilian dog breeds (2026)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC13123249/",
+    type: "scientific",
+    publishedOn: "2026-04-17",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed 2026 mitochondrial genomics study (PMID 42047518, PMC13123249) investigating the complex historical breed formation of Brazil's two FCI-recognized native breeds, the Brazilian Mastiff (Fila Brasileiro) and Brazilian Terrier.",
+    publisher: "National Library of Medicine (PMC)"
+  },
+  "wikimedia-brazilianmastifffila-canarian": {
+    id: "wikimedia-brazilianmastifffila-canarian",
+    name: "Wikimedia Commons - File:Brazilianmastifffila.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Brazilianmastifffila.jpg",
+    type: "other",
+    publishedOn: "2023-08-27",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (2028 x 1859 px) of an adult fawn Fila Brasileiro (Brazilian Mastiff) by Canarian (EXIF capture date 2023-08-26 on Canon EOS 1100D, uploaded 2023-08-27). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-fila-brasileiro-ppk9-pleple2000": {
+    id: "wikimedia-fila-brasileiro-ppk9-pleple2000",
+    name: "Wikimedia Commons - File:Fila brasileiro ppk9.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Fila_brasileiro_ppk9.jpg",
+    type: "other",
+    publishedOn: "2006-10-04",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1758 x 1782 px) of an adult brindle Fila Brasileiro ('Almodovar Rio Grande') at the Rybnik Dog Show 2006 by Pleple2000 (captured 2006-10-01, uploaded 2006-10-04). Licensed under CC BY-SA 3.0 Unported (multi-licensed with 2.5/2.0/1.0 and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "cane-corso-ncl-ppt1-study-2017": {
+    id: "cane-corso-ncl-ppt1-study-2017",
+    name: "Homozygous PPT1 Splice Donor Mutation in a Cane Corso Dog With Neuronal Ceroid Lipofuscinosis",
+    url: "https://pubmed.ncbi.nlm.nih.gov/28008682/",
+    type: "scientific",
+    publishedOn: "2016-12-23",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study (Kolicheski et al., J Vet Intern Med 2017 Jan;31(1):149-157, Epub 2016-12-23, PMID 28008682, PMCID PMC5259623, DOI 10.1111/jvim.14632) identifying a homozygous PPT1 splice donor mutation (c.124+1G>A) causing CLN1-type Neuronal Ceroid Lipofuscinosis in a Cane Corso dog.",
+    publisher: "Journal of Veterinary Internal Medicine / PubMed"
   },
 });
 

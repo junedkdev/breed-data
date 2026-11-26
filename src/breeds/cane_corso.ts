@@ -7,18 +7,18 @@ export const cane_corso: Breed = {
 
   alternateNames: [
     "Cane Corso Italiano",
+    "Italian Cane Corso",
     "Italian Mastiff",
-    "Italian Corso Dog",
+    "Chien de Cour Italien",
     "Corso"
   ],
 
-  group:
-    "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 2.1 — Mastiff type Molossoids (without working trial; also classified in the Working and Guardian Dog groups)",
+  group: "Mastiff-type molossoid working guardian",
 
   origin: {
     country: "Italy",
     region:
-      "Southern Italy (historically prevalent in Apulia, Lucania, and Sannio)"
+      "Southern Italy, especially rural Apulia, Lucania, and Sannio"
   },
 
   images: [
@@ -28,18 +28,19 @@ export const cane_corso: Breed = {
         "https://commons.wikimedia.org/wiki/File:Cane_corso_2021_03.jpg",
       title: "Cane corso 2021 03.jpg",
       description:
-        "An adult Cane Corso standing in profile, displaying its powerful mastiff build.",
+        "An adult Cane Corso standing outdoors, showing its muscular build and short coat.",
       creator: "Wojciech Pędzich",
       uploader: "Wojciech Pędzich",
       capturedOn: "2021-08-14",
-      uploadedOn: "2021-08-15",
+      uploadedOn: "2022-04-26",
       width: 4691,
       height: 3564,
       licenseId: "cc-by-sa-4.0",
       attribution:
-        "Photo by Wojciech Pędzich, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Cane_corso_2021_03.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+        "Photo by Wojciech Pędzich, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Cane_corso_2021_03.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/.",
+      restrictions:
+        "CC BY-SA 4.0 requires attribution and ShareAlike distribution if adapted. Wikimedia Commons currently flags this file as lacking an explicit source statement even though the listed photographer and uploader are identical; confirm provenance before high-risk commercial use.",
+      metadataCheckedOn: "2026-11-26"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Cane_corso_17.jpg",
@@ -47,40 +48,40 @@ export const cane_corso: Breed = {
         "https://commons.wikimedia.org/wiki/File:Cane_corso_17.jpg",
       title: "Cane corso 17.jpg",
       description:
-        "A large male Cane Corso standing outdoors, showing a distinctive dark brindle coat.",
+        "A large adult Cane Corso standing outdoors with a dark brindle coat.",
       creator: "Wili15",
       uploader: "Wili15",
       capturedOn: "2014-04-17",
-      uploadedOn: "2014-04-18",
+      uploadedOn: "2017-12-17",
       width: 3872,
       height: 2592,
       licenseId: "cc-by-sa-4.0",
       attribution:
         "Photo by Wili15, Wikimedia Commons, CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Cane_corso_17.jpg. License: https://creativecommons.org/licenses/by-sa/4.0/.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-13"
+      restrictions:
+        "CC BY-SA 4.0 requires attribution and ShareAlike distribution if adapted.",
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A massive, athletic, and fiercely loyal Italian mastiff descendant of Roman war dogs, renowned for its protective instincts, imposing black or brindle coat, and quiet, confident intelligence.",
+      "A muscular, athletic Italian mastiff bred for guarding estates, managing livestock, and hunting big game, valued for calm devotion at home and watchful protection.",
 
     description:
-      "The Cane Corso is a large, sturdy, and elegant mastiff-type working dog that balances immense muscular power with athletic agility. Characterized by a broad, molossoid head with slightly converging skull and muzzle axes, the breed projects an aura of confident vigilance. Its short, dense, and shiny double coat provides excellent weather protection and appears in shades of black, lead-grey, slate-grey, light fawn, dark fawn, and brindle, often marked with a dark facial mask that does not extend beyond the eye line. The dark, oval eyes express a keen, watchful intelligence. When in motion, the Corso covers ground with a fluid, extended stride, masking its heavy bone structure with surprising grace. In the home, a well-socialized Corso is remarkably gentle, docile, and fiercely devoted to its family, while remaining inherently aloof and highly protective against unfamiliar threats.",
+      "Slightly longer in body than tall at the shoulder, the Cane Corso combines heavy bone and dense muscle with clean, athletic outlines rather than bulky heaviness. Its broad, chiseled head features slightly converging skull and muzzle planes, a strong square muzzle, and medium oval eyes that look straight ahead with steady alertness. A short, glossy, tightly packed coat with a light undercoat comes in black, shades of blue-grey, fawn, stag red, dark wheat, and brindle patterns. On the move, the dog covers ground in a long, effortless trot. With consistent leadership and thorough socialization, it is affectionate and composed around its household while staying naturally reserved and protective toward unfamiliar visitors.",
 
     history:
-      "The Cane Corso is a direct descendant of the legendary 'Canis Pugnax', the massive war dogs employed by the Roman Empire. Its name derives from the Latin 'cohors', meaning 'protector' or 'guardian of the farmyard'. For centuries, the breed served as a versatile utility dog in rural Italy, particularly in the southern regions of Apulia, Lucania, and Sannio. Italian farmers relied on the Corso to guard property, drive cattle and swine to market, and hunt dangerous large game like wild boar. As Italian agricultural practices modernized in the mid-twentieth century, the breed faced near extinction. However, a dedicated group of Italian enthusiasts, led by Dr. Paolo Breber, launched a careful recovery program in the 1970s using a few surviving specimens from southern Italy. The breed was successfully rescued, earning official recognition in Italy in 1994 and internationally shortly thereafter, ascending to global popularity as a premier guardian and working dog.",
+      "The Cane Corso descends from ancient Roman molossoid war and utility dogs, with its name linked to the Latin word 'cohors', meaning protector or guardian of the farmyard. For generations across southern Italy—particularly in Apulia, Lucania, and Sannio—the breed worked as an all-purpose rural helper that guarded farmsteads, drove cattle and pigs, and tracked dangerous game such as wild boar. Mechanized farming and rural migration drove numbers dangerously low by the mid-twentieth century. Beginning in the 1970s, Italian enthusiasts including Dr. Paolo Breber located surviving working dogs in southern provinces and rebuilt the population, leading to national recognition in Italy in 1994 and broad international recognition over the following decade.",
 
     originalPurpose:
-      "Guarding property and livestock, droving cattle and swine, and hunting large, dangerous game such as wild boar in rural Italy.",
+      "Guarding farmsteads, families, and livestock; driving cattle and swine; and hunting large game such as wild boar",
 
     currentRoles: [
-      "Estate and family protection guardian",
-      "Livestock and farm working dog",
-      "Police and military tracking and apprehension",
-      "Canine athlete in obedience and protection sports",
-      "Devoted household companion for experienced handlers"
+      "Home and property guardian",
+      "Farm and livestock utility dog",
+      "Obedience, tracking, and protection sport competitor",
+      "Loyal companion for experienced handlers"
     ]
   },
 
@@ -117,55 +118,51 @@ export const cane_corso: Breed = {
     },
 
     coatType:
-      "Short, shiny, very dense double coat with a light, fine undercoat that thickens in winter; it is completely flat without fringing.",
+      "Short, glossy, very dense coat with a light undercoat and firm, glass-like sheen; lies close without feathering",
 
     coatLength: "Short",
 
     coatColors: [
       "Black",
-      "Lead-grey",
-      "Slate-grey",
-      "Light grey",
+      "Lead-grey (blue)",
+      "Slate-grey (blue)",
+      "Light grey (blue)",
       "Light fawn",
       "Dark fawn",
       "Stag red",
-      "Brindle (stripes on different shades of fawn or grey)"
+      "Dark wheat",
+      "Black brindle",
+      "Grey (blue) brindle"
     ],
 
     sheddingLevel:
-      "Low to moderate; sheds steadily year-round with slightly heavier undercoat shedding in the spring",
+      "Moderate; sheds steadily throughout the year with heavier seasonal shedding of the light undercoat in spring",
 
     droolingLevel:
-      "Moderate; possesses tighter flews than many mastiff breeds, but drooling occurs after drinking or intense physical exertion",
+      "Moderate; upper lips hang moderately over the lower jaw, leading to noticeable drooling after drinking or exercise",
 
     distinctiveFeatures: [
-      "Large, imposing, and elegant mastiff silhouette with a body slightly longer than the height at the withers",
-      "Height at the withers of 64 to 68 cm for males and 60 to 64 cm for females (with a 2 cm tolerance)",
-      "Working weight of 45 to 50 kg for males and 40 to 45 kg for females",
-      "Broad, molossoid head with slightly converging longitudinal axes of the skull and muzzle",
-      "Fawn and brindle dogs have a black or grey facial mask that does not extend beyond the eye line",
-      "Strong, square muzzle that is as broad as it is long",
-      "Complete, regular bite; a slight undershot bite (prognathism) is considered standard and acceptable",
-      "Medium-sized, oval eyes set looking directly forward, as dark as possible according to coat color",
-      "Medium-sized, uncropped triangular drop ears set high above the zygomatic arches (traditionally cropped in some regions, though banned in many countries)",
-      "Thick, strong neck carrying a moderate amount of loose skin without an excessive dewlap",
-      "Deep, broad chest extending down to the elbow with well-sprung ribs",
-      "Thick tail set rather high, tapering at the tip, carried high in action but never curled over the back"
+      "Strong, athletic mastiff build that is slightly longer than tall at the withers",
+      "Broad, sculpted head with slightly converging skull and muzzle axes and a deep, square muzzle roughly as wide as it is long",
+      "Black or blue-grey facial mask on fawn and brindle coats that stays below the eye line; small white markings may appear on the chest, toes, and nasal bridge",
+      "Slightly undershot bite with sturdy, well-aligned teeth",
+      "Medium-sized, forward-set oval eyes with tight eyelids and dark iris pigment matched to coat shade",
+      "Triangular, medium-sized drop ears set high above the cheekbones",
+      "Muscular, clean neck with firm skin and minimal dewlap",
+      "Broad, deep chest reaching to the elbow with well-sprung ribs",
+      "Thick, fairly high-set tail carried higher when moving without curling over the back"
     ]
   },
 
   temperament: {
     traits: [
-      "Intensely loyal, affectionate, and deeply bonded with its immediate family",
-      "Fearless, courageous, and steadfast when protecting property or people",
-      "Highly intelligent, observant, and naturally suspicious of unfamiliar strangers",
-      "Calm, quiet, and composed in the home when physical needs are met",
-      "Dominant and strong-willed, requiring firm, confident, and highly consistent human leadership",
-      "Gentle and tolerant with children within its own household when raised together",
-      "Can be assertive or aggressive toward unfamiliar dogs, requiring careful socialization",
-      "Requires a defined 'job' or purpose to prevent destructive boredom",
-      "Highly sensitive to its owner's tone of voice and emotional state",
-      "Uncompromising and fiercely territorial perimeter guardian"
+      "Deeply loyal, steady, and affectionate with immediate family members",
+      "Alert, courageous, and strongly protective of home and property",
+      "Intelligent, observant, and responsive to clear, consistent direction",
+      "Naturally reserved and watchful around unfamiliar people",
+      "Confident and strong-willed; needs an experienced, calm handler",
+      "Often assertive or territorial with unfamiliar dogs, especially of the same sex",
+      "Quiet and settled indoors once daily physical and mental needs are met"
     ],
 
     scores: {
@@ -184,7 +181,7 @@ export const cane_corso: Breed = {
   care: {
     exercise: {
       level:
-        "High; a vigorous, athletic working mastiff requiring daily strenuous physical exercise and demanding mental tasks to remain balanced",
+        "High; an athletic working mastiff that needs vigorous daily movement plus structured mental engagement to stay calm and well-mannered",
 
       minutesPerDay: {
         min: 60,
@@ -192,11 +189,11 @@ export const cane_corso: Breed = {
       },
 
       activities: [
-        "Daily brisk leashed power-walks or trail hikes",
-        "Structured obedience drills and impulse-control training",
-        "Canine sports such as IPO/IGP protection sports, tracking, or weight pulling",
-        "Interactive fetch and heavy tug games using durable equipment",
-        "Free running in a very large, securely fenced and reinforced yard"
+        "Brisk daily leashed walks or trail hikes",
+        "Structured obedience drills and impulse-control exercises",
+        "Tracking, scent work, and supervised working-dog sports",
+        "Interactive tug or fetch games with heavy-duty toys",
+        "Supervised free running inside a tall, reinforced fenced yard"
       ]
     },
 
@@ -204,35 +201,33 @@ export const cane_corso: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once or twice weekly using a rubber hound mitt or natural bristle brush to remove dead hairs, distribute skin oils, and maintain the coat's shine.",
+        "Brush once a week with a rubber hound glove or soft bristle brush, increasing to several times weekly during spring shedding.",
 
       bathing:
-        "Bathe infrequently—every two to three months or when visibly soiled—using a mild canine shampoo to avoid stripping natural protective oils.",
+        "Bathe only as needed using a mild dog shampoo so the skin and glossy coat retain natural oils.",
 
       notes: [
-        "The short double coat is relatively low maintenance but sheds visibly, particularly in spring.",
-        "Wipe the facial wrinkles and flew folds regularly to prevent moisture buildup and bacterial infection.",
-        "Inspect the drop ears weekly for dirt, wax accumulation, or redness, cleaning gently with a veterinary-approved solution.",
-        "Trim the strong, fast-growing nails every two to three weeks to maintain correct foot alignment and prevent splaying.",
-        "Brush teeth several times weekly using canine enzymatic toothpaste."
+        "Wipe drool from the muzzle and lip folds after meals and drinking to keep skin dry and healthy.",
+        "Check the high-set drop ears weekly for wax, moisture, or odor, and clean gently with a vet-approved ear wash.",
+        "Trim thick nails every two to three weeks, starting paw-handling desensitization early in puppyhood.",
+        "Brush teeth several times a week with canine enzymatic toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Challenging; highly intelligent and capable, but possesses immense physical power, protective instincts, and a dominant nature requiring expert, consistent handling",
+        "Challenging; bright and eager to work for a respected handler, yet physically powerful and naturally protective, demanding early, consistent training",
 
       tips: [
-        "Begin intensive obedience and leash-walking training in early puppyhood before massive adult strength develops.",
-        "Use firm, fair, and positive reinforcement; the breed respects calm, unwavering authority but will stubbornly resist or challenge a harsh, abusive handler.",
-        "Establish extremely clear boundaries regarding territory, visitors, and resource guarding.",
-        "Never encourage aggressive behavior or bite work without professional supervision; protective instincts are already deeply hardwired.",
-        "Keep training sessions engaging, purposeful, and mentally challenging to maintain focus.",
-        "Always exercise within a securely fenced area of at least six feet in height with sturdy gates."
+        "Start structured obedience, loose-leash walking, and calm visitor routines early before adult size and strength arrive.",
+        "Use calm, consistent boundaries paired with reward-based training; erratic or overly harsh handling undermines trust and stability.",
+        "Teach reliable 'all clear' and settle cues so the dog relaxes once guests are welcomed.",
+        "Avoid amateur protection or bite encouragement; guarding instincts develop naturally without provocation.",
+        "Keep exercise secure inside a sturdy fence at least six feet tall with reliable latches."
       ],
 
       socialization:
-        "Extensive, continuous socialization is absolutely critical from the day the puppy arrives. Introduce the dog safely and positively to a wide variety of people, neutral vaccinated dogs, diverse environments, and household guests. Early structured exposure ensures its powerful guardian instincts mature into calm, discerning judgment rather than indiscriminate fear or aggression."
+        "Thorough, ongoing socialization from puppyhood is essential. Provide calm, positive exposure to varied people, everyday sounds, public settings, and neutral dogs so innate guardian instincts mature into poised, discerning judgment rather than fear or reactivity."
     },
 
     livingEnvironment: {
@@ -240,86 +235,84 @@ export const cane_corso: Breed = {
       houseWithYardSuitable: true,
 
       climates: [
-        "Temperate climates",
-        "Warm climates, provided indoor air conditioning, shade, and fresh water are available and exercise occurs during cooler hours",
-        "Cool climates, where the dense winter undercoat provides adequate protection during outdoor activity"
+        "Well suited to temperate climates",
+        "Tolerates warm weather when given shade, water, air conditioning, and exercise during cooler hours",
+        "Handles cool weather comfortably during activity thanks to its dense coat and light undercoat, though it should live indoors"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; deeply attached to its family and prone to separation anxiety or destructive behavior if left isolated outdoors for long hours."
+        "Low to moderate; strongly people-oriented and prone to stress or destructive chewing if left isolated for long stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for large or giant active working breeds, with carefully controlled growth parameters for puppies.",
+      "Complete, balanced large-breed diet formulated for active working dogs, using a controlled-growth large-breed puppy formula during development",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age, transitioning to two meals daily on a large-breed growth formula to prevent rapid, uneven bone development.",
+        "Three to four measured meals daily until about six months of age, then two meals daily on a large-breed growth diet to support steady bone development.",
       adult:
-        "Two measured meals daily to support heavy muscle mass and reduce the volume of food in the stomach at one time.",
+        "Two measured meals daily to nourish heavy musculature while keeping individual stomach volume moderate.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output and joint support."
+        "Two portion-controlled meals daily adjusted for slower metabolism and joint comfort."
     },
 
     guidelines:
-      "Measure daily rations carefully using a digital kitchen scale or standard measuring cup, adjusting amounts to maintain a lean, athletic body silhouette where the heavy musculature is visible and excess fat is strictly avoided. Divide daily food into two distinct meals, strictly restrict vigorous exercise for at least one hour before and after eating to mitigate bloat risk, and provide cool, clean drinking water continuously.",
+      "Measure every meal accurately to preserve a lean, muscular outline without excess body fat, which places heavy strain on developing and adult joints. Split daily intake into two meals, keep intense running separated from mealtimes by at least an hour to help reduce bloat risk, and keep fresh water available at all times.",
 
     considerations: [
-      "Maintain a lean, muscular body condition; excess weight places severe stress on large joints and ligaments.",
-      "Account for training treats within the total daily caloric allowance to prevent obesity.",
-      "Rest the dog before and after meals to mitigate the risk of bloat (gastric dilatation-volvulus).",
-      "Avoid rapid puppy growth; strictly avoid calcium supplements unless expressly prescribed by a veterinarian.",
-      "Increase protein and caloric density if the dog is actively used for strenuous protection sports or farm work.",
-      "Transition between diet formulas gradually over five to seven days."
+      "Keep weight lean and muscular throughout life to protect hips, elbows, and ligaments.",
+      "Avoid rapid puppy growth and never add extra calcium supplements unless directed by a veterinarian.",
+      "Schedule calm rest before and after eating to lower gastric dilatation-volvulus risk.",
+      "Count training treats toward the daily calorie total.",
+      "Transition food formulas gradually over five to seven days."
     ],
 
     note:
-      "Caloric needs vary significantly based on exercise intensity, age, and environmental temperature. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Daily calorie requirements depend on age, metabolism, and workload; work with a veterinarian to set exact portions."
   },
 
   health: {
     overview:
-      "The Cane Corso is a robust, athletic, and heavy-boned working breed with a typical life expectancy of 9 to 12 years. Primary health priorities focus on orthopedic screening for hip and elbow dysplasia, cardiac evaluations, ophthalmic examinations for entropion and ectropion, and DNA screening for breed-specific genetic conditions such as Dental-Skeletal-Retinal Anomaly (DSRA) and Neuronal Ceroid Lipofuscinosis (NCL).",
+      "The Cane Corso generally lives 9 to 12 years and is a hardy, heavily muscled working breed. Two inherited single-gene disorders have been scientifically identified in the breed and can be avoided through DNA screening of breeding parents: Dental-Skeletal-Retinal Anomaly (DSRA, caused by a MIA3 splice defect) and Neuronal Ceroid Lipofuscinosis (NCL1, caused by a PPT1 splice donor mutation). Other key health priorities include orthopedic conditions (hip dysplasia, elbow dysplasia, and patellar luxation), cardiac disease, gastric dilatation-volvulus (bloat), idiopathic epilepsy, eyelid abnormalities (entropion, ectropion, and cherry eye), and demodectic mange.",
 
     commonConditions: [
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis, monitored through pre-breeding radiographic screening",
-      "Elbow dysplasia — developmental abnormalities of the elbow joints that can cause forelimb lameness and secondary arthritis",
-      "Dental-Skeletal-Retinal Anomaly (DSRA / MIA3 gene mutation) — an inherited, breed-specific autosomal recessive disorder causing brittle, discolored teeth, disproportionate skeletal growth, and progressive retinal degeneration, completely screenable via DNA testing",
-      "Neuronal Ceroid Lipofuscinosis (NCL) — an inherited neurodegenerative disease causing progressive neurological decline, screenable via DNA testing",
-      "Gastric dilatation-volvulus (GDV / bloat) — an acute, life-threatening twisting and distension of the stomach in large, deep-chested breeds, requiring emergency veterinary care",
-      "Eyelid abnormalities (Entropion, Ectropion) and 'Cherry Eye' (prolapse of the gland of the nictitating membrane) — ocular conditions requiring veterinary surgical correction",
-      "Idiopathic epilepsy — inherited recurrent neurological seizures, manageable with veterinary anticonvulsant medication",
-      "Subvalvular aortic stenosis (SAS) and Dilated Cardiomyopathy (DCM) — cardiac conditions monitored through veterinary cardiologist examinations"
+      "Dental-Skeletal-Retinal Anomaly (DSRA) — an established autosomal recessive collagenopathy caused by a MIA3 gene splice defect, producing brittle discolored teeth, shortened stature or orthopedic issues, and progressive vision loss; preventable via DNA testing",
+      "Neuronal Ceroid Lipofuscinosis (NCL1) — a documented autosomal recessive lysosomal storage disorder caused by a PPT1 splice donor mutation leading to progressive neurological decline; preventable via DNA testing",
+      "Hip and elbow dysplasia — developmental joint conditions common across large, heavy-boned breeds that can lead to arthritis and are monitored through pre-breeding X-rays",
+      "Patellar luxation — kneecap instability evaluated through veterinary orthopedic screening",
+      "Gastric dilatation-volvulus (bloat) — an acute, life-threatening twisting of the stomach associated with deep-chested large-breed conformation, requiring immediate emergency care",
+      "Idiopathic epilepsy — recurrent seizures with no identifiable underlying cause, typically first appearing around two years of age (ranging roughly from nine months to five years) and managed with veterinary anticonvulsant therapy; no DNA test currently exists",
+      "Eyelid disorders (entropion, ectropion, and cherry eye) — inward- or outward-rolling eyelids and prolapsed third-eyelid glands that may require surgical correction",
+      "Cardiac conditions and demodectic mange — heart abnormalities monitored through veterinary cardiac screening and follicular mite skin flare-ups noted in young or stressed dogs"
     ],
 
     preventiveCare: [
-      "Confirm that breeding stock has certified radiographic clearances for hips and elbows, cardiac evaluations, specialist eye examinations, and DNA clearances for DSRA and NCL.",
-      "Feed two smaller meals daily and avoid vigorous exercise immediately before or after eating to reduce bloat risk.",
-      "Maintain a lean, muscular body condition throughout growth and adulthood to minimize mechanical wear on joints.",
-      "Inspect the drop ears and facial folds weekly, cleaning gently with a veterinary-approved solution to prevent bacterial or yeast infections.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Confirm that both breeding parents have verified clearances for hips, elbows, patellas, cardiac health, and DNA tests for DSRA and NCL1.",
+      "Keep puppies growing steadily on a large-breed diet and maintain a lean adult body weight to protect joints.",
+      "Divide meals into two daily feedings and restrict hard exercise around mealtimes to help reduce bloat risk.",
+      "Check eyes, facial folds, and drop ears weekly for redness, discharge, or irritation.",
+      "Schedule regular veterinary wellness visits, parasite prevention, and dental checkups."
     ],
 
     recommendedScreenings: [
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
+      "Radiographic hip dysplasia evaluation prior to breeding",
       "Radiographic elbow dysplasia evaluation prior to breeding",
-      "Congenital cardiac examination by a veterinary cardiologist",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist",
-      "Clinical patellar luxation orthopedic evaluation",
-      "DNA marker test for Dental-Skeletal-Retinal Anomaly (DSRA / MIA3 gene)",
-      "DNA marker test for Neuronal Ceroid Lipofuscinosis (NCL)"
+      "Cardiac evaluation by a veterinarian or veterinary cardiologist",
+      "Orthopedic patellar luxation evaluation",
+      "Neuronal Ceroid Lipofuscinosis (NCL1 / PPT1) DNA test",
+      "Dental-Skeletal-Retinal Anomaly (DSRA / MIA3) DNA test"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has massively powerful jaws with a slight undershot bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine enzymatic toothpaste and schedule periodic veterinary oral exams to protect the powerful jaws and slightly undershot bite.",
 
     earCare:
-      "Inspect the medium-sized triangular drop ears weekly for wax accumulation, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Inspect the medium triangular drop ears every week for wax, dampness, or redness, cleaning gently with a veterinarian-recommended solution and drying thoroughly.",
 
     skinCare:
-      "Part the short coat weekly during brushing to inspect the skin for external parasites or irritation. Keep the facial wrinkles clean and dry to prevent localized skin fold dermatitis."
+      "Examine the short coat and skin weekly during brushing for irritation, mites, or scrapes, and keep lip and facial folds clean and dry."
   },
 
   suitability: {
@@ -330,80 +323,63 @@ export const cane_corso: Breed = {
     apartmentLiving: false,
 
     idealFor: [
-      "Highly experienced dog owners familiar with dominant, powerful guardian or mastiff breeds and firm, positive leadership",
-      "Active individuals or rural households with extensive, securely fenced property",
-      "Canine sports enthusiasts involved in IPO/IGP protection sports, tracking, or advanced obedience",
-      "Owners deeply committed to extensive, lifelong socialization and structured daily training",
-      "Families with older, respectful children seeking a devoted and uncompromising home guardian"
+      "Experienced owners comfortable leading a large, confident, protective working mastiff",
+      "Active households with a spacious, securely fenced yard",
+      "Handlers interested in obedience, tracking, or structured working-dog sports",
+      "Families with older, respectful children who can commit to lifelong training and socialization"
     ],
 
     notIdealFor: [
-      "First-time dog owners, passive handlers, or those intimidated by immense physical strength",
-      "Apartment, condominium, or dense urban dwellers without access to a large, secure yard",
-      "Households with frequent, unannounced visitors or chaotic neighborhood playgroups",
-      "Owners seeking an easygoing dog park companion that mixes freely with unfamiliar dogs",
-      "Sedentary individuals looking for a low-energy indoor pet"
+      "First-time dog owners or anyone seeking an effortlessly compliant, low-effort pet",
+      "Apartments or dense urban housing without a secure private yard",
+      "Frequent off-leash dog park visits with unfamiliar dogs",
+      "Sedentary households or owners away from home for long daily stretches"
     ]
   },
 
   funFacts: [
-    "The Cane Corso is a direct descendant of the fearsome 'Canis Pugnax', the massive war dogs employed by the Roman legions across the ancient empire.",
-    "The breed's name has nothing to do with the island of Corsica; it derives from the Latin word 'cohors', which means 'protector' or 'guardian of the farmyard'.",
-    "Despite its ancient Roman origins, the breed was nearly extinct by the mid-twentieth century and was painstakingly resurrected in the 1970s by a group of dedicated Italian enthusiasts who scoured rural southern Italy for surviving specimens.",
-    "Unlike heavier, more ponderous mastiff breeds, the Cane Corso was bred for agile athleticism and can run with surprising speed and grace when pursuing wild boar.",
-    "In recent years, the breed has surged in global popularity, frequently appearing in films, television, and celebrity households due to its imposing, statuesque appearance and intense loyalty."
+    "Despite the sound of its name, the Cane Corso does not come from Corsica; 'corso' stems from the Latin 'cohors', meaning protector or guardian of the farmyard.",
+    "The breed's ancestry traces back to ancient Roman molossoid war and utility dogs, and it shares roots with the heavier Neapolitan Mastiff.",
+    "By the 1970s the Cane Corso had nearly disappeared from rural Italy until dedicated enthusiasts located surviving farm dogs in southern provinces and rebuilt the breed.",
+    "The plural of Cane Corso in Italian is 'Cani Corsi'.",
+    "Historically, Italian farmers valued fawn-coated Corsi as 'straw stack dogs' because their warm coat blended naturally with hay and wheat while watching livestock."
   ],
 
   faq: [
     {
-      question: "What is a Cane Corso?",
+      question: "How big does a Cane Corso get?",
       answer:
-        "The Cane Corso is a large, powerful, and athletic Italian mastiff bred originally to hunt big game, drive cattle, and guard rural farmsteads, renowned for its fearless protective instincts and deep loyalty to its family."
-    },
-    {
-      question: "How tall and heavy is a Cane Corso?",
-      answer:
-        "Adult males stand 64 to 68 cm at the withers and weigh 45 to 50 kg, while adult females stand 60 to 64 cm and weigh 40 to 45 kg, presenting an elegant yet massively muscled silhouette."
+        "Adult males typically stand 64 to 68 cm at the shoulder and weigh 45 to 50 kg, while adult females stand 60 to 64 cm and weigh 40 to 45 kg."
     },
     {
       question: "How long does a Cane Corso live?",
       answer:
-        "With proper nutrition, regular exercise, and conscientious preventive veterinary care, the breed typically enjoys a lifespan of 9 to 12 years."
+        "With balanced nutrition, lean weight management, and regular veterinary care, a Cane Corso typically lives 9 to 12 years."
     },
     {
-      question: "Is the Cane Corso a good family dog?",
+      question: "Is a Cane Corso a good fit for first-time dog owners?",
       answer:
-        "Yes, but only for highly experienced, active families. Within their own household, they are deeply affectionate, loyal, and gentle with their own children, but their massive strength and protective instincts require expert handling and lifelong socialization."
-    },
-    {
-      question: "Are Cane Corsos aggressive?",
-      answer:
-        "A well-bred and properly socialized Cane Corso is calm, confident, and discerning. However, they are highly territorial, naturally suspicious of strangers, and can be assertive toward unfamiliar dogs if not trained and managed properly."
+        "Usually no. Their size, physical strength, and strong guarding instincts require an experienced, calm handler who can deliver consistent training and thorough socialization from early puppyhood."
     },
     {
       question: "Can a Cane Corso live in an apartment?",
       answer:
-        "No. Due to their large size, immense power, protective instincts, and need for vigorous daily exercise, they are completely unsuited to apartment living and require a home with a large, securely fenced yard."
+        "An apartment is rarely suitable. This large, protective working dog needs space, a securely fenced yard, and 60 to 90 minutes of daily structured exercise and mental work."
     },
     {
-      question: "Do Cane Corsos shed a lot, and how are they groomed?",
+      question: "Are Cane Corsos naturally aggressive?",
       answer:
-        "They shed moderately year-round and shed their undercoat more heavily in the spring. Their short coat is low-maintenance, requiring only weekly brushing with a rubber mitt and occasional baths."
+        "A well-bred, thoroughly socialized Cane Corso is calm, steady, and devoted to its family. However, the breed is naturally territorial, reserved with strangers, and often assertive toward unfamiliar dogs, so responsible management is essential."
     },
     {
-      question: "How much exercise does a Cane Corso need each day?",
+      question: "What are DSRA and NCL1 in Cane Corsos?",
       answer:
-        "The breed requires 60 to 90 minutes of vigorous daily physical activity, including power-walking, running, and structured training tasks to keep them physically and mentally fulfilled."
+        "Dental-Skeletal-Retinal Anomaly (DSRA) and Neuronal Ceroid Lipofuscinosis (NCL1) are two inherited autosomal recessive genetic disorders identified in the breed. Both can be prevented by DNA testing breeding parents before mating."
     },
     {
-      question: "What is DSRA in Cane Corsos?",
+      question: "What health screenings should breeders complete?",
       answer:
-        "Dental-Skeletal-Retinal Anomaly (DSRA) is a rare, breed-specific genetic disorder causing brittle teeth, skeletal growth issues, and vision loss. It is entirely preventable by ensuring breeders perform the available DNA test on parent dogs."
-    },
-    {
-      question: "What health screenings are recommended for breeding dogs?",
-      answer:
-        "Recommended pre-breeding screenings include radiographic evaluations for hip and elbow dysplasia, veterinary cardiac and eye exams, and DNA testing for DSRA and Neuronal Ceroid Lipofuscinosis (NCL)."
+        "Recommended pre-breeding screenings include hip and elbow dysplasia X-rays, cardiac and patellar luxation evaluations, and DNA tests for both DSRA and NCL1."
     }
   ],
 
@@ -416,17 +392,25 @@ export const cane_corso: Breed = {
     "ccaa-cane-corso-health",
     "ofa-cane-corso-chic-requirements",
     "cane-corso-dsra-mia3-study-2021",
+    "cane-corso-ncl-ppt1-study-2017",
+    "natureserve-canis-lupus-familiaris",
     "wikimedia-cane-corso-17-wili15",
-    "wikimedia-cane-corso-2021-03-wojciech"
+    "wikimedia-cane-corso-2021-03-wojciech",
+    "the-dog-api"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
-      note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Species taxonomy record: Canis lupus familiaris"
+        }
+      ],
+      verifiedOn: "2026-11-26",
+      note: "Domestic dog subspecies taxonomy."
     },
 
     alternateNames: {
@@ -435,35 +419,44 @@ export const cane_corso: Breed = {
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "Standard heading: CANE CORSO ITALIANO"
+          locator: "Standard heading: CANE CORSO ITALIANO (Italian Cane Corso)"
         },
         {
-          id: "akc-cane-corso-breed-profile",
+          id: "fci-cane-corso-italiano-nomenclature",
           role: "verified",
-          locator: "History: Italian Mastiff, Italian Corso Dog, Corso"
+          locator: "French official name: CHIEN DE COUR ITALIEN"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Italian Mastiff, Cane Corso Italiano"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified across FCI Standard No. 343 and AKC profile."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     group: {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-cane-corso-italiano-official-standard",
+          id: "fci-cane-corso-italiano-nomenclature",
           role: "verified",
-          locator: "FCI Classification: Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs; Section 2.1 Mastiff type Molossoids, without working trial"
+          locator: "Group 2 Pinscher and Schnauzer - Molossoid and Swiss Mountain and Cattledogs; Section 2 Molossian type, Subsection Mastiff type; Subject to a working trial"
         },
         {
           id: "akc-cane-corso-breed-standard",
           role: "verified",
           locator: "Working Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Working"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+      verifiedOn: "2026-11-26",
+      note: "FCI Nomenclature confirms the Cane Corso is subject to a working trial (correcting earlier draft). User-facing group text avoids registry group/section labels."
     },
 
     origin: {
@@ -472,10 +465,20 @@ export const cane_corso: Breed = {
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "ORIGIN: Italy; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: Italy"
+        },
+        {
+          id: "enci-cane-corso-italiano-standard",
+          role: "verified",
+          locator: "Southern Italian working heritage"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Italy"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -485,22 +488,26 @@ export const cane_corso: Breed = {
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "General appearance, gait, coat, colours, and working heritage"
         },
         {
           id: "enci-cane-corso-italiano-standard",
           role: "verified",
-          locator: "Storia, Aspetto Generale, Comportamento e Carattere"
+          locator: "Aspetto Generale and guardian/working history"
         },
         {
           id: "akc-cane-corso-breed-profile",
           role: "verified",
-          locator: "About the Breed, History, Canis Pugnax, and Roles"
+          locator: "About the breed, Roman molossoid origins, 'cohors' etymology, and 1970s revival"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesized in original prose from FCI Standard No. 343, ENCI, and AKC official records."
+      verifiedOn: "2026-11-26",
+      note: "All user-facing overview text is newly written in original wording."
     },
 
     physical: {
@@ -509,17 +516,21 @@ export const cane_corso: Breed = {
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "Head, bite (undershot not >5 mm), coat (short, shiny, very dense with slight undercoat of vitreous texture), colours, and size/weight (2023-10-13 revision)"
         },
         {
           id: "akc-cane-corso-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Coat, Color"
+          locator: "General appearance, proportion, and coat"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "GET /breeds/{id}/colours"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Conformation, elegant mastiff build, slightly undershot bite, coat colors, and distinctive features follow official standards."
+      verifiedOn: "2026-11-26",
+      note: "Coat colors reflect the 2023-10-13 FCI Standard No. 343 list (including dark wheat and blue-grey designations); generic canine color variants from The Dog API are excluded."
     },
 
     "physical.height": {
@@ -528,12 +539,21 @@ export const cane_corso: Breed = {
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "SIZE AND WEIGHT: Height at the withers: Males: 64 cm - 68 cm. Females: 60 cm - 64 cm. With a tolerance of 2 cm, more or less."
+          locator: "SIZE AND WEIGHT: Height at the withers: Males 64 cm – 68 cm; Females 60 cm – 64 cm (tolerance of 2 cm, more or less)"
+        },
+        {
+          id: "akc-cane-corso-breed-standard",
+          role: "cited",
+          locator: "Height: Males 25 to 27.5 inches; Females 23.5 to 26 inches"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: Males 64–70 cm; Females 60–66 cm"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Preserved in published unit of centimetres (64–68 cm for males and 60–64 cm for females) exactly as specified in the official FCI Standard No. 343."
+      verifiedOn: "2026-11-26",
+      note: "Exact FCI Standard No. 343 ideal height range in cm (64–68 cm / 60–64 cm). The Dog API adds the +2 cm tolerance to the upper limit (70 cm / 66 cm)."
     },
 
     "physical.weight": {
@@ -542,12 +562,16 @@ export const cane_corso: Breed = {
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "Weight: Males: 45 - 50 kg. Females: 40 - 45 kg."
+          locator: "SIZE AND WEIGHT: Weight: Males 45 – 50 kg; Females 40 – 45 kg (weight according to size of dog)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric: Males 45–50 kg; Females 40–45 kg"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Preserved in published unit of kilograms (45 to 50 kg for males and 40 to 45 kg for females) exactly as specified in the official FCI Standard No. 343."
+      verifiedOn: "2026-11-26",
+      note: "Exact FCI Standard No. 343 weight in kg (matches The Dog API; AKC standard specifies weight proportionate to height)."
     },
 
     "physical.lifespanYears": {
@@ -556,11 +580,16 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "verified",
-          locator: "Life Expectancy: 9-12 years"
+          locator: "Life Expectancy: 9–12 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 9–12 years"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Both AKC profile and The Dog API report 9–12 years."
     },
 
     "physical.sheddingLevel": {
@@ -569,15 +598,15 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (3/5)"
+          locator: "Grooming and seasonal shedding guidance"
         },
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "COAT: Short, shiny, very dense with a light undercoat"
+          locator: "Short, very dense coat with slight undercoat"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -587,16 +616,16 @@ export const cane_corso: Breed = {
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "Lips: The upper lips moderately hanging and cover the lower jaw"
+          locator: "Moderately hanging upper lips"
         },
         {
           id: "akc-cane-corso-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (3/5)"
+          locator: "Drooling level rating"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Moderately hanging flews produce moderate drooling, especially during exertion."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "temperament.traits": {
@@ -605,15 +634,25 @@ export const cane_corso: Breed = {
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Guardian of property, family and livestock; extremely agile and responsive."
+          locator: "Behaviour/Temperament: guardian of property, family, and livestock; agile and responsive"
         },
         {
           id: "akc-cane-corso-breed-standard",
           role: "verified",
-          locator: "Temperament: Intelligent, active, even-minded, unequalled watch and protection dog. Docile and affectionate with owner, loving with children and family."
+          locator: "Temperament: intelligent, active, even-minded, watch and protection dog, affectionate with family"
+        },
+        {
+          id: "enci-cane-corso-italiano-standard",
+          role: "verified",
+          locator: "Dominant guardian temperament requiring firm, balanced leadership"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -623,12 +662,16 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed trait ratings"
+        },
+        {
+          id: "enci-cane-corso-italiano-standard",
+          role: "cited",
+          locator: "Guardian temperament and same-sex dog assertiveness"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial 1–5 estimates based on documented guardian mastiff temperament, high protectiveness, and intelligence."
+      note: "Editorial 1–5 scores reflecting strong protectiveness, family loyalty, and cautious sociability with unfamiliar dogs and strangers."
     },
 
     care: {
@@ -637,12 +680,16 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Exercise, grooming, training, and socialization"
+        },
+        {
+          id: "ccaa-cane-corso-health",
+          role: "cited",
+          locator: "Parent club care and management guidance"
         }
       ],
       verifiedOn: null,
-      note:
-        "Combines active guardian dog management with short-coat grooming and secure boundary protocols."
+      note: "Practical care and management guidance for a large guardian breed."
     },
 
     "care.exercise.level": {
@@ -651,15 +698,15 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
+          locator: "High energy and vigorous daily exercise needs"
         },
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "UTILIZATION: Guardian of property, family and livestock"
+          locator: "Working guardian athleticism"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -669,12 +716,11 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "cited",
-          locator: "Exercise recommendations for working mastiffs"
+          locator: "Daily exercise guidance for athletic working mastiffs"
         }
       ],
       verifiedOn: null,
-      note:
-        "Estimated 60 to 90 minutes of daily activity reflects the exercise demands of an athletic, muscular working dog."
+      note: "Estimated 60–90 minutes of daily physical and mental activity."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -683,12 +729,11 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "cited",
-          locator: "Large size, strong guarding instincts, and need for open movement"
+          locator: "Large size, strong guarding instincts, and fenced yard need"
         }
       ],
       verifiedOn: null,
-      note:
-        "Editorial evaluation that massive size, protective territorial instincts, and exercise needs make apartment living unsuitable."
+      note: "Editorial assessment based on adult size, territorial vigilance, and exercise requirements."
     },
 
     "care.livingEnvironment.houseWithYardSuitable": {
@@ -697,23 +742,23 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "verified",
-          locator: "Exercise and secure fenced-yard recommendations (minimum six-foot fence)"
+          locator: "Secure fenced yard recommendation"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
     "care.livingEnvironment.climates": {
-      reliability: "reliable_source",
+      reliability: "official_standard",
       sources: [
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "COAT: Short, shiny, very dense with a light undercoat"
+          locator: "Short, very dense coat with slight undercoat"
         }
       ],
-      verifiedOn: "2026-11-13",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -723,7 +768,7 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; devoted family guardian"
+          locator: "Strong family bond and companion needs"
         }
       ],
       verifiedOn: null,
@@ -736,25 +781,11 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for large active breeds"
+          locator: "Large-breed nutrition and bloat precautions"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for large, heavily muscled working breeds."
-    },
-
-    "nutrition.feedingFrequency": {
-      reliability: "general_guidance",
-      sources: [
-        {
-          id: "akc-cane-corso-breed-profile",
-          role: "cited",
-          locator: "Life-stage feeding guidance and divided meals to mitigate bloat"
-        }
-      ],
-      verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule for large breeds."
+      note: "General large-breed dietary management and bloat-mitigation guidance."
     },
 
     "health.overview": {
@@ -763,22 +794,26 @@ export const cane_corso: Breed = {
         {
           id: "cane-corso-dsra-mia3-study-2021",
           role: "verified",
-          locator: "MIA3 Splice Defect in Cane Corso Dogs with Dental-Skeletal-Retinal Anomaly (DSRA)"
+          locator: "Genes (Basel) 2021;12(10):1497 (PMID 34680893): autosomal recessive MIA3 splice defect causing DSRA"
         },
         {
-          id: "ofa-cane-corso-chic-requirements",
+          id: "cane-corso-ncl-ppt1-study-2017",
           role: "verified",
-          locator: "CHIC Program requirements: Hip, Elbow, Cardiac, Eye, Patellar Luxation, NCL DNA, DSRA DNA"
+          locator: "J Vet Intern Med 2017;31(1):149–157 (PMID 28008682): homozygous PPT1 splice donor mutation causing NCL1"
         },
         {
           id: "ccaa-cane-corso-health",
           role: "verified",
-          locator: "CCAA Health updates: DSRA and NCL added to CHIC testing"
+          locator: "CCAA CHIC requirements (Hips, Elbows, Cardiac, Patella, NCL DNA, DSRA DNA)"
+        },
+        {
+          id: "ofa-cane-corso-chic-requirements",
+          role: "verified",
+          locator: "OFA CHIC Cane Corso panel (breed=COR)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Synthesizes peer-reviewed genetics research (DSRA) with national health registry screening protocols."
+      verifiedOn: "2026-11-26",
+      note: "Distinguishes genetically established DSRA and NCL1 mutations from orthopedic, conformational, and parent-club-monitored conditions."
     },
 
     "health.commonConditions": {
@@ -787,22 +822,26 @@ export const cane_corso: Breed = {
         {
           id: "cane-corso-dsra-mia3-study-2021",
           role: "verified",
-          locator: "Dental-Skeletal-Retinal Anomaly (DSRA) clinical description and genetics"
+          locator: "DSRA (MIA3 c.3822+3_3822+4del) clinical and genetic characterization"
         },
         {
-          id: "ofa-cane-corso-chic-requirements",
+          id: "cane-corso-ncl-ppt1-study-2017",
           role: "verified",
-          locator: "Hip dysplasia, elbow dysplasia, NCL, cardiac anomalies, eye disorders"
+          locator: "NCL1 (PPT1 c.124+1G>A) clinical and genetic characterization"
+        },
+        {
+          id: "ccaa-cane-corso-health",
+          role: "verified",
+          locator: "Hip dysplasia, elbow dysplasia, patella, cardiac, idiopathic epilepsy, demodectic mange, and bloat"
         },
         {
           id: "akc-cane-corso-breed-profile",
           role: "verified",
-          locator: "Gastric dilatation-volvulus (bloat) and idiopathic epilepsy"
+          locator: "Bloat/gastric torsion and eyelid conditions"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.preventiveCare": {
@@ -811,30 +850,34 @@ export const cane_corso: Breed = {
         {
           id: "ccaa-cane-corso-health",
           role: "cited",
-          locator: "Preventive health, joint management, and CHIC screening compliance"
+          locator: "Pre-breeding health testing and general health management"
         },
         {
           id: "akc-cane-corso-breed-profile",
           role: "cited",
-          locator: "Routine care, bloat precautions, and veterinary wellness checks"
+          locator: "Routine wellness, weight control, and bloat precautions"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to large mastiff breeds."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "ccaa-cane-corso-health",
+          role: "verified",
+          locator: "Six CCAA CHIC requirements: Hip Dysplasia (OFA/PennHIP), Elbow Dysplasia, Cardiac, Patellar Luxation, NCL DNA, DSRA DNA"
+        },
+        {
           id: "ofa-cane-corso-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: Radiographic Hip and Elbow Dysplasia evaluation, Cardiac Evaluation, CAER Eye examination, Patellar Luxation, NCL DNA test, DSRA DNA test"
+          locator: "OFA CHIC Cane Corso panel (breed=COR)"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "Screenings summarize published parent club and health registry protocols."
+      verifiedOn: "2026-11-26",
+      note: "Matches the exact six required tests published by the national breed club and OFA CHIC (ophthalmologist eye exam removed from mandatory list)."
     },
 
     "health.dentalCare": {
@@ -843,11 +886,11 @@ export const cane_corso: Breed = {
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: very broad, thick and curved; slightly undershot bite"
+          locator: "Jaws/teeth: powerful jaws, slightly undershot bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: "General canine preventive dental care."
     },
 
     "health.earCare": {
@@ -856,16 +899,16 @@ export const cane_corso: Breed = {
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "cited",
-          locator: "Ears: medium sized, triangular, dropping, set on high"
+          locator: "Ears: triangular, dropping, set high"
         },
         {
           id: "akc-cane-corso-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and inspection"
+          locator: "Routine ear cleaning"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: null
     },
 
     "health.skinCare": {
@@ -874,11 +917,11 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "cited",
-          locator: "Skin protection and facial fold cleaning"
+          locator: "Short-coat and facial-fold hygiene"
         }
       ],
       verifiedOn: null,
-      note: "General skin and facial wrinkle care guidelines."
+      note: null
     },
 
     suitability: {
@@ -887,17 +930,16 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Temperament, exercise, and training profile"
         },
         {
-          id: "akc-cane-corso-breed-standard",
+          id: "enci-cane-corso-italiano-standard",
           role: "cited",
-          locator: "Characteristics and guardian lifestyle suitability"
+          locator: "Dominant guardian temperament requiring experienced handler"
         }
       ],
       verifiedOn: null,
-      note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, extreme power, and guardian dominance."
+      note: "Editorial suitability ratings based on adult size, strength, and protective drive."
     },
 
     funFacts: {
@@ -906,16 +948,16 @@ export const cane_corso: Breed = {
         {
           id: "akc-cane-corso-breed-profile",
           role: "verified",
-          locator: "Canis Pugnax war dog origins, 'cohors' etymology, 1970s Dr. Paolo Breber revival"
+          locator: "Latin 'cohors' etymology, Roman molossoid ancestry, plural 'Cani Corsi', 1970s revival"
         },
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "Brief historical summary: Southern Italian roots (Apulia, Lucania, Sannio)"
+          locator: "Historical Italian farm guardian role"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note: "Verified historical folklore and working heritage facts."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     faq: {
@@ -924,29 +966,33 @@ export const cane_corso: Breed = {
         {
           id: "fci-cane-corso-italiano-official-standard",
           role: "verified",
-          locator: "Origin, height (64-68 cm / 60-64 cm), weight (45-50 kg / 40-45 kg), coat, and colors"
+          locator: "Height (64–68 cm / 60–64 cm), weight (45–50 kg / 40–45 kg), temperament"
         },
         {
           id: "akc-cane-corso-breed-profile",
           role: "verified",
-          locator: "Lifespan (9-12 years), apartment living, family life, and dog aggression"
+          locator: "Lifespan (9–12 years), training, exercise, living environment"
         },
         {
           id: "cane-corso-dsra-mia3-study-2021",
           role: "verified",
-          locator: "Dental-Skeletal-Retinal Anomaly (DSRA) DNA testing"
+          locator: "DSRA (MIA3) autosomal recessive inheritance and DNA test"
         },
         {
-          id: "ofa-cane-corso-chic-requirements",
+          id: "cane-corso-ncl-ppt1-study-2017",
           role: "verified",
-          locator: "Recommended health screening panel (Hips, Elbows, Eyes, Cardiac, NCL, DSRA)"
+          locator: "NCL1 (PPT1) autosomal recessive inheritance and DNA test"
+        },
+        {
+          id: "ccaa-cane-corso-health",
+          role: "verified",
+          locator: "Six recommended pre-breeding health screenings"
         }
       ],
-      verifiedOn: "2026-11-13",
-      note:
-        "FAQ answers synthesize verified standards, kennel club publications, and genetics research without naming registries in prose."
+      verifiedOn: "2026-11-26",
+      note: "All FAQ entries are written in original prose without registry or source names."
     }
   },
 
-  updatedOn: "2026-11-13"
+  updatedOn: "2026-11-26"
 };
