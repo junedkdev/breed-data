@@ -17880,204 +17880,204 @@ export const sources = defineSources({
     note: "Photograph (1280 x 851 px) of a smooth-coated brown Dachshund by kmoney56 (originally posted to Flickr as Franklin; captured 2007-02-04, uploaded by Pharaoh Hound 2007-05-20). Licensed under CC BY-SA 2.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-schnauzer-official-standard": {
+"fci-schnauzer-official-standard": {
     id: "fci-schnauzer-official-standard",
     name: "FCI - Schnauzer Official Breed Standard No. 182",
     url: "https://www.fci.be/Nomenclature/Standards/182g02-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2007-04-18",
-    accessedOn: "2026-11-17",
-    note: "Official English FCI Standard No. 182 (valid standard dated 2007-03-06, published 2007-04-18). Covers German origin, Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs, Section 1.2 Schnauzer classification without working trial, robust square build, harsh wire coat, pepper-and-salt/black colors, withers height (45-50 cm), and weight (14-20 kg).",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 182 (valid standard dated 2007-03-06, published 2007-04-18). Covers German origin, Group 2 Section 1.2 Schnauzer without working trial, square build, harsh wire coat, pure black or pepper-and-salt colors, height 45-50 cm, and weight 14-20 kg.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-schnauzer-nomenclature": {
+"fci-schnauzer-nomenclature": {
     id: "fci-schnauzer-nomenclature",
     name: "FCI - Schnauzer Breed Nomenclature (No. 182)",
     url: "https://www.fci.be/en/nomenclature/SCHNAUZER-182.html",
     type: "official_breed_standard",
     publishedOn: "2007-04-18",
-    accessedOn: "2026-11-17",
-    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 2 Section 1.2 classification without working trial, definitive recognition date (1955-07-15), and official multilingual name (Schnauzer).",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Germany as country of origin, Group 2 Section 1.2 classification without working trial, definitive recognition date (1955-07-15), and valid standard dated 2007-03-06.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "akc-standard-schnauzer-breed-standard": {
+"akc-standard-schnauzer-breed-standard": {
     id: "akc-standard-schnauzer-breed-standard",
     name: "American Kennel Club - Official Standard of the Standard Schnauzer",
     url: "https://images.akc.org/pdf/breeds/standards/StandardSchnauzer.pdf",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-17",
-    note: "Official AKC breed standard (Working Group) establishing robust square proportions, harsh wiry coat, pepper and salt/black coloration, scissor bite, and highly intelligent, fearless working temperament.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Working Group) establishing ideal height (18.5-19.5 in males, 17.5-18.5 in females), square build, harsh wiry double coat, pepper-and-salt or pure black coloration, scissor bite, and reliable working temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-standard-schnauzer-breed-profile": {
+"akc-standard-schnauzer-breed-profile": {
     id: "akc-standard-schnauzer-breed-profile",
     name: "American Kennel Club - Standard Schnauzer Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/standard-schnauzer/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-17",
-    note: "Official AKC breed profile covering German farm history, 'Schnauze' etymology, WWI/WWII dispatch service, lifespan (13-16 years), apartment adaptability, temperament, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile covering German farm history, WWI/WWII dispatch service, weight (35-45 lb), lifespan (13-16 years), recommended health tests (Hip, Ophthalmologist, DCM DNA), temperament, and grooming.",
     publisher: "American Kennel Club"
   },
-  "ssca-standard-schnauzer-health": {
+"ssca-standard-schnauzer-health": {
     id: "ssca-standard-schnauzer-health",
     name: "Standard Schnauzer Club of America - Best Practices for Health and Disease Testing",
     url: "https://www.standardschnauzer.org/newSSCA/best_practices.html",
     type: "breed_club",
-    publishedOn: "2024-02-12",
-    accessedOn: "2026-11-17",
-    note: "Official national parent club health portal documenting structural health risks and mandatory pre-breeding health testing, explicitly requiring OFA Hip Radiographs, AVCO (CAER) eye exams, and Dilated Cardiomyopathy (DCM) DNA testing.",
+    publishedOn: "2020-07-01",
+    accessedOn: "2026-11-26",
+    note: "Official SSCA Best Practices page detailing required CHIC tests (Hips, Eyes, and DCM DNA test—never breeding two carriers together) plus recommended OFA Elbow, Basic/Advanced Cardiac, Thyroid, and CHIC DNA Repository testing.",
     publisher: "Standard Schnauzer Club of America"
   },
-  "ofa-standard-schnauzer-chic-requirements": {
+"ofa-standard-schnauzer-chic-requirements": {
     id: "ofa-standard-schnauzer-chic-requirements",
     name: "Orthopedic Foundation for Animals - Standard Schnauzer CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=SS",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-17",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Standard Schnauzer, mandating CAER Eye examination, Radiographic Hip Dysplasia evaluation, and Dilated Cardiomyopathy (DCM) DNA Test.",
+    accessedOn: "2026-11-26",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Standard Schnauzer (SS): Hip Evaluation, Ophthalmologist Evaluation, and Dilated Cardiomyopathy (DCM) DNA Test.",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-standard-schnauzers-cgoodall": {
+"wikimedia-standard-schnauzers-cgoodall": {
     id: "wikimedia-standard-schnauzers-cgoodall",
     name: "Wikimedia Commons - File:Standard Schnauzers.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Standard_Schnauzers.jpg",
     type: "other",
-    publishedOn: "2007-03-25",
-    accessedOn: "2026-11-17",
-    note: "High-resolution photograph (2592 x 1944 px) of two adult pepper and salt Standard Schnauzers resting outdoors by Cgoodall (captured and uploaded 2007-03-25). Dedicated to the Public Domain on Wikimedia Commons.",
+    publishedOn: "2007-04-01",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (2592 x 1944 px) of two female pepper-and-salt Standard Schnauzers by Cgoodall (captured 2007-03-25, uploaded to Wikipedia 2007-04-01, transferred to Commons 2018-05-27). Released into the Public Domain worldwide.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-mittelschnauzer-pleple2000": {
+"wikimedia-mittelschnauzer-pleple2000": {
     id: "wikimedia-mittelschnauzer-pleple2000",
     name: "Wikimedia Commons - File:Mittelschnauzer aka Standard Schnauzer.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Mittelschnauzer_aka_Standard_Schnauzer.jpg",
     type: "other",
-    publishedOn: "2006-06-01",
-    accessedOn: "2026-11-17",
-    note: "Photograph (500 x 462 px) featuring a close view of a male pepper and salt Standard Schnauzer by an Unknown Uploader (uploaded by Pleple2000 on 2006-06-01). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
+    publishedOn: "2014-04-16",
+    accessedOn: "2026-11-26",
+    note: "Photograph (500 x 462 px) of a male pepper-and-salt Standard Schnauzer by Canarian (captured 2006-06-01, uploaded by Canarian 2014-04-16). Licensed under CC BY-SA 3.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-boston-terrier-official-standard": {
+"fci-boston-terrier-official-standard": {
     id: "fci-boston-terrier-official-standard",
     name: "FCI - Boston Terrier Official Breed Standard No. 140",
     url: "https://www.fci.be/Nomenclature/Standards/140g09-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2014-06-24",
-    accessedOn: "2026-11-17",
-    note: "Official English FCI Standard No. 140. Covers USA origin, Group 9 Companion and Toy Dogs, Section 11 Small Molossian type Dogs classification without working trial, square build, brindle/seal/black colors with required tuxedo white markings, and weight classes up to 11.35 kg.",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 140 (valid standard dated 2013-01-28, published 2014-06-24). Covers USA origin, Group 9 Companion and Toy Dogs, Section 11 Small Molossian type Dogs without working trial, square build, brindle/seal/black with required white markings, and weight classes up to 25 pounds (11.35 kg).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-boston-terrier-nomenclature": {
+"fci-boston-terrier-nomenclature": {
     id: "fci-boston-terrier-nomenclature",
     name: "FCI - Boston Terrier Breed Nomenclature (No. 140)",
     url: "https://www.fci.be/en/nomenclature/BOSTON-TERRIER-140.html",
     type: "official_breed_standard",
     publishedOn: "2014-06-24",
-    accessedOn: "2026-11-17",
-    note: "Official FCI breed nomenclature record confirming United States of America as country of origin, Group 9 Section 11 classification without working trial, definitive recognition date (1955-01-01), and official multilingual name (Boston Terrier).",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming United States of America as country of origin, Group 9 Section 11 classification without working trial, definitive recognition date (1955-01-29), and valid standard date (2013-01-28).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "akc-boston-terrier-breed-standard": {
+"akc-boston-terrier-breed-standard": {
     id: "akc-boston-terrier-breed-standard",
     name: "American Kennel Club - Official Standard of the Boston Terrier",
     url: "https://images.akc.org/pdf/breeds/standards/BostonTerrier.pdf",
     type: "official_breed_standard",
     publishedOn: null,
-    accessedOn: "2026-11-17",
-    note: "Official AKC breed standard (Non-Sporting Group) establishing strict weight limit classes (under 15 lbs, 15-20 lbs, 20-25 lbs max), tuxedo markings, short square muzzle, erect ears, screw or straight tail, and lively, intelligent companion temperament.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed standard (Non-Sporting Group) establishing three weight classes (under 15 lb, 15 to under 20 lb, 20 to max 25 lb), brindle/seal/black colors with required white markings, square muzzle, erect ears, short tail, and friendly, lively companion temperament.",
     publisher: "American Kennel Club"
   },
-  "akc-boston-terrier-breed-profile": {
+"akc-boston-terrier-breed-profile": {
     id: "akc-boston-terrier-breed-profile",
     name: "American Kennel Club - Boston Terrier Dog Breed Information",
     url: "https://www.akc.org/dog-breeds/boston-terrier/",
     type: "kennel_club",
     publishedOn: null,
-    accessedOn: "2026-11-17",
-    note: "Official AKC breed profile covering 19th-century US origin, 'American Gentleman' moniker, Hooper's Judge foundation, height (15-17 inches), weight (12-25 lbs), lifespan (11-13 years), apartment adaptability, and grooming.",
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile covering Massachusetts origin, Hooper's Judge (~1870), 1893 recognition, height (15-17 in), weight (12-25 lb), lifespan (11-13 years), recommended health tests (Patella, Ophthalmologist, BAER), grooming, and climate care.",
     publisher: "American Kennel Club"
   },
-  "ofa-boston-terrier-chic-requirements": {
+"ofa-boston-terrier-chic-requirements": {
     id: "ofa-boston-terrier-chic-requirements",
     name: "Orthopedic Foundation for Animals - Boston Terrier CHIC Requirements",
     url: "https://ofa.org/chic-programs/browse-by-breed/?breed=BTR",
     type: "veterinary",
     publishedOn: null,
-    accessedOn: "2026-11-17",
-    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Boston Terrier, mandating CAER Eye examination, Clinical Patellar Luxation evaluation, BAER deafness testing, and early-onset hereditary cataracts (HSF4) DNA testing.",
+    accessedOn: "2026-11-26",
+    note: "Official OFA Canine Health Information Center (CHIC) testing requirements for the Boston Terrier (BTR): Patella Evaluation, Ophthalmologist Evaluation, and BAER Testing (with HSF4 juvenile cataract DNA testing also widely used).",
     publisher: "Orthopedic Foundation for Animals"
   },
-  "wikimedia-boston-terrier-dsc-0004": {
+"wikimedia-boston-terrier-dsc-0004": {
     id: "wikimedia-boston-terrier-dsc-0004",
     name: "Wikimedia Commons - File:Boston Terrier DSC 0004 (16399046489).jpg",
     url: "https://commons.wikimedia.org/wiki/File:Boston_Terrier_DSC_0004_(16399046489).jpg",
     type: "other",
     publishedOn: "2015-03-21",
-    accessedOn: "2026-11-17",
-    note: "High-resolution photograph (3008 x 2000 px) of a Boston Terrier standing indoors at the 2015 Westminster Kennel Club Dog Show by Pets Adviser (captured 2015-02-16, uploaded 2015-03-21). Licensed under CC BY 2.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (3008 x 2000 px) of a Boston Terrier by Pets Adviser (captured 2015-02-16, uploaded by Томасина 2015-03-21). Licensed under CC BY 2.0 on Wikimedia Commons; author requests direct link to https://www.petsadviser.com/.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-boston-terrier-dog-002": {
+"wikimedia-boston-terrier-dog-002": {
     id: "wikimedia-boston-terrier-dog-002",
     name: "Wikimedia Commons - File:Boston Terrier Dog 002.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Boston_Terrier_Dog_002.jpg",
     type: "other",
     publishedOn: "2008-11-02",
-    accessedOn: "2026-11-17",
-    note: "Photograph (1500 x 2100 px) featuring an adult Boston Terrier outdoors at the beach by Ed Siasoco (captured 2007-06-24, uploaded by Flickr upload bot 2008-11-02). Licensed under CC BY 2.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Photograph (1500 x 2100 px) of an adult Boston Terrier at the beach by Ed Siasoco (captured 2007-06-24, uploaded by Flickr upload bot 2008-11-02). Licensed under irrevocable CC BY 2.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "fci-saarlooswolfhond-official-standard": {
+"fci-saarlooswolfhond-official-standard": {
     id: "fci-saarlooswolfhond-official-standard",
     name: "FCI - Saarlooswolfhond (Saarlooswolfdog) Official Breed Standard No. 311",
-    url: "http://www.fci.be/nomenclature/Standards/311g01-en.pdf",
+    url: "https://www.fci.be/Nomenclature/Standards/311g01-en.pdf",
     type: "official_breed_standard",
     publishedOn: "2015-05-29",
-    accessedOn: "2026-11-17",
-    note: "Official English FCI Standard No. 311 (valid standard dated 2014-11-03, published 2015-05-29). Covers Netherlands origin, Group 1 Sheepdogs and Cattledogs (except Swiss Cattledogs), Section 1 Sheepdogs classification without working trial, wolf-like appearance, flight instinct, withers height (males 65-75 cm, females 60-70 cm), and coat colors including wolf-grey, forest-brown, and white.",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 311 (valid standard dated 2014-11-03, English PDF published 2015-05-29). Covers Netherlands origin, Group 1 Section 1 Sheepdogs without working trial, wolf-like conformation, reserved flight instinct, height (males 65-75 cm, females 60-70 cm), and wolf-grey, forest-brown, and cream-to-white coats.",
     publisher: "Fédération Cynologique Internationale"
   },
-  "fci-saarlooswolfhond-nomenclature": {
+"fci-saarlooswolfhond-nomenclature": {
     id: "fci-saarlooswolfhond-nomenclature",
     name: "FCI - Saarlooswolfhond Breed Nomenclature (No. 311)",
     url: "https://www.fci.be/en/nomenclature/Saarlooswolfhond-311.html",
     type: "official_breed_standard",
     publishedOn: "2015-05-29",
-    accessedOn: "2026-11-17",
-    note: "Official FCI breed nomenclature record confirming The Netherlands as country of origin, Group 1 Section 1 classification without working trial, definitive recognition date (1981-05-18), and official multilingual names (Saarlooswolfhond, Chien-loup de Saarloos, Perro lobo de Saarloos, Saarlooswolfhund).",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming The Netherlands as country of origin, Group 1 Section 1 classification without working trial, definitive recognition date (1981-11-18), valid standard date (2014-11-03), and multilingual names (Saarloos Wolfhond, Chien-loup de Saarloos, Saarlooswolfhund, Perro lobo de Saarloos).",
     publisher: "Fédération Cynologique Internationale"
   },
-  "ukc-saarloos-wolfdog-breed-standard": {
+"ukc-saarloos-wolfdog-breed-standard": {
     id: "ukc-saarloos-wolfdog-breed-standard",
     name: "United Kennel Club - Saarloos Wolfdog Breed Standard",
     url: "https://www.ukcdogs.com/saarloos-wolfdog",
     type: "official_breed_standard",
     publishedOn: "2006-07-01",
-    accessedOn: "2026-11-17",
-    note: "Official UKC breed standard (Herding Dog Group, recognized 2006) establishing the 1932 creation by Leendert Saarloos, crossing a German Shepherd with a European wolf, wolf-like conformation, reserved temperament, and working weight proportions.",
+    accessedOn: "2026-11-26",
+    note: "Official UKC breed standard (Herding Dog Group) documenting the 1932 Dutch creation by Leendert Saarloos, wolf-like conformation, reserved temperament, and breed characteristics.",
     publisher: "United Kennel Club"
   },
-  "wikimedia-hippie-wolf-grey-saarloos-wolfdog": {
+"wikimedia-hippie-wolf-grey-saarloos-wolfdog": {
     id: "wikimedia-hippie-wolf-grey-saarloos-wolfdog",
     name: "Wikimedia Commons - File:Hippie, a wolf grey saarloos wolfdog.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Hippie,_a_wolf_grey_saarloos_wolfdog.jpg",
     type: "other",
     publishedOn: "2019-09-04",
-    accessedOn: "2026-11-17",
-    note: "High-resolution portrait photograph (1079 x 1308 px) of an adult wolf-grey Saarlooswolfhond sitting outdoors by SaarloosWolfdog / @Hippie_Saarloos (captured and uploaded 2019-09-04). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Portrait photograph (1079 x 1308 px) of an adult wolf-grey Saarlooswolfhond by @Hippie_Saarloos (uploaded by SaarloosWolfdog on 2019-09-04). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
-  "wikimedia-saarloos-wolfdog-1-brown": {
+"wikimedia-saarloos-wolfdog-1-brown": {
     id: "wikimedia-saarloos-wolfdog-1-brown",
     name: "Wikimedia Commons - File:Saarloos Wolfdog 1.jpg",
     url: "https://commons.wikimedia.org/wiki/File:Saarloos_Wolfdog_1.jpg",
     type: "other",
     publishedOn: "2016-12-11",
-    accessedOn: "2026-11-17",
-    note: "Photograph (600 x 516 px) featuring a male wolf-grey Saarlooswolfhond standing in profile outdoors by a Wikimedia Commons user (captured and uploaded 2016-12-11). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
+    accessedOn: "2026-11-26",
+    note: "Profile photograph (600 x 516 px) of a male wolf-grey Saarlooswolfhond by Canarian (captured and uploaded 2016-12-11). Licensed under CC BY-SA 4.0 on Wikimedia Commons.",
     publisher: "Wikimedia Commons"
   },
   "fci-welsh-springer-spaniel-official-standard": {
@@ -25606,6 +25606,506 @@ export const sources = defineSources({
     accessedOn: "2026-11-26",
     note: "Peer-reviewed epidemiological study of 2,031 Dachshunds documenting 15.7% overall IVDD prevalence (ranging from 7.1% in Standard Wire-Haired to 24.4% in Standard Smooth-Haired) and citing an estimated 19-24% lifetime clinical risk.",
     publisher: "PubMed Central (Canine Genetics and Epidemiology)"
+  },
+  "omia-schnauzer-dcm-rbm20": {
+    id: "omia-schnauzer-dcm-rbm20",
+    name: "OMIA:002365-9615 - Cardiomyopathy, dilated, RBM20-related in Canis lupus familiaris",
+    url: "https://omia.org/OMIA002365/9615/",
+    type: "scientific",
+    publishedOn: "2026-10-21",
+    accessedOn: "2026-11-26",
+    note: "Online Mendelian Inheritance in Animals record documenting autosomal recessive RBM20 22-bp deletion dilated cardiomyopathy (DCM) in Standard Schnauzers and Giant Schnauzers, citing Leach et al. (2014, 2022) and Harmon et al. (2017).",
+    publisher: "Online Mendelian Inheritance in Animals (OMIA)"
+  },
+  "akc-chesapeake-bay-retriever-official-standard": {
+    id: "akc-chesapeake-bay-retriever-official-standard",
+    name: "American Kennel Club - Official Standard for the Chesapeake Bay Retriever",
+    url: "https://images.akc.org/pdf/breeds/standards/ChesapeakeBayRetriever.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1993-12-31",
+    accessedOn: "2026-11-26",
+    note: "Official country-of-origin AKC breed standard (Sporting Group; approved November 9, 1993, effective December 31, 1993). Establishes height (males 23-26 inches, females 21-24 inches), weight (males 65-80 pounds, females 55-70 pounds), hindquarters as high as or a trifle higher than shoulders, clear yellowish/amber eyes, broad round skull, thin non-pendulous lips, scissor preferred / level acceptable bite, well-webbed hare feet (hind dewclaws disqualified), short thick oily coat (nowhere over 1.5 inches; feathering <=1.75 in; waving only on neck/shoulders/back/loins), brown/sedge/deadgrass coloration (black or misplaced white disqualified), and honorable scars not penalized.",
+    publisher: "American Kennel Club"
+  },
+  "akc-chesapeake-bay-retriever-breed-profile": {
+    id: "akc-chesapeake-bay-retriever-breed-profile",
+    name: "American Kennel Club - Chesapeake Bay Retriever Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/chesapeake-bay-retriever/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile documenting bright/affectionate/sensitive temperament, height (23-26 in males, 21-24 in females), weight (65-80 lb males, 55-70 lb females), life expectancy (10-13 years), moderate shedding, weekly grooming, occasional barking, family protectiveness, independent working nature, and athletic exercise needs.",
+    publisher: "American Kennel Club"
+  },
+  "akc-chesapeake-bay-retriever-history-2024": {
+    id: "akc-chesapeake-bay-retriever-history-2024",
+    name: "American Kennel Club - Chesapeake Bay Retriever History: From Bay Waters to Family Homes (2024)",
+    url: "https://www.akc.org/expert-advice/dog-breeds/chesapeake-bay-retriever-history/",
+    type: "kennel_club",
+    publishedOn: "2024-10-28",
+    accessedOn: "2026-11-26",
+    note: "Published AKC historical feature by Denise Flaim (updated October 28, 2024) documenting the 1807 Canton shipwreck rescue of St. John's Water Dog pups Sailor (dingy-red male) and Canton (black female) purchased by George Law for a guinea each, Dr. James Stewart of Sparrow's Point, and how guarding hunters' catch and gear forged the breed's protective independence (making it less ideal for first-time owners).",
+    publisher: "American Kennel Club"
+  },
+  "fci-chesapeake-bay-retriever-official-standard": {
+    id: "fci-chesapeake-bay-retriever-official-standard",
+    name: "FCI - Chesapeake Bay Retriever Official Breed Standard No. 263",
+    url: "https://www.fci.be/Nomenclature/Standards/263g08-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "1999-03-12",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 263 (dated 1999-03-12). Covers US origin, Group 8 Section 1 Retrievers classification with working trial, clear yellowish/amber eyes, hindquarters as high or a trifle higher than shoulders, short double coat waving only on neck/shoulders/back/loins, height (males 23-26 in / 58-66 cm; females 21-24 in / 53-61 cm), weight (males 65-80 lb / 29.5-36.5 kg; females 55-70 lb / 25-32 kg), and disqualifications.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-chesapeake-bay-retriever-nomenclature": {
+    id: "fci-chesapeake-bay-retriever-nomenclature",
+    name: "FCI - Chesapeake Bay Retriever Breed Nomenclature (No. 263)",
+    url: "https://www.fci.be/en/nomenclature/CHESAPEAKE-BAY-RETRIEVER-263.html",
+    type: "official_breed_standard",
+    publishedOn: "1999-03-12",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming the United States as country of origin, Group 8 Section 1 Retrievers classification with working trial, definitive acceptance date (1964-09-15), English standard publication date (1999-03-12), and official multilingual names (Chesapeake Bay Retriever, Retriever de la Baie de Chesapeake).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "acc-chesapeake-bay-retriever-health": {
+    id: "acc-chesapeake-bay-retriever-health",
+    name: "American Chesapeake Club (ACC) - Breed Health Statement & Testing",
+    url: "https://amchessieclub.org/health/",
+    type: "breed_club",
+    publishedOn: "2016-09-11",
+    accessedOn: "2026-11-26",
+    note: "Official US parent breed club health portal publishing the ACC Board-approved Breed Health Statement (September 11, 2016) covering Hip Dysplasia, Elbow Dysplasia, Eyes, Progressive Retinal Atrophy (prcd), Degenerative Myelopathy (DM), Exercise-Induced Collapse (EIC), Ectodermal Dysplasia–Skin Fragility Syndrome (ED-SFS), Chondrodysplasia (CDPA), and Chondrodystrophy & Intervertebral Disc Disease (CDDY/IVDD), alongside nickname 'Chessie' and abbreviation 'CBR'.",
+    publisher: "American Chesapeake Club"
+  },
+  "rkc-retriever-chesapeake-bay-profile": {
+    id: "rkc-retriever-chesapeake-bay-profile",
+    name: "The Royal Kennel Club - Retriever (Chesapeake Bay) Breeds A to Z",
+    url: "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/gundog/retriever-chesapeake-bay/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Royal Kennel Club Breeds A to Z profile (Gundog Group) confirming icy-Atlantic retrieving strength, more substantial build than Labrador, large house requirement, more than 2 hours daily exercise, weekly grooming, Sheds Yes, accepted UK colours (Ash, Brown, Dark Brown, Deadgrass, Light Brown, Sedge), Breed Watch Category 1 status, Good Practice tests (Elbows, Hips, DM DNA), and Best Practice tests (prcd-PRA DNA, Eye Scheme).",
+    publisher: "The Royal Kennel Club"
+  },
+  "skk-chesapeake-bay-retriever-profile": {
+    id: "skk-chesapeake-bay-retriever-profile",
+    name: "Svenska Kennelklubben (SKK) - Chesapeake bay retriever Rasprofil",
+    url: "https://www.skk.se/hundraser/chesapeake-bay-retriever/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile confirming 1807 shipwreck legend, 1973 first Swedish registration, naturally oily waterproof double coat (shampoo only rarely; sheds a couple of times yearly), reserved/neutral attitude toward strangers paired with fierce handler loyalty, and health summary noting hip dysplasia (HD) as the most common health problem alongside ED, few cataract cases, and rare PRA.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-retriever-de-la-baie-de-chesapeake-profile": {
+    id: "scc-retriever-de-la-baie-de-chesapeake-profile",
+    name: "Société Centrale Canine (SCC) - Retriever de la baie de Chesapeake",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/retriever-de-la-baie-de-chesapeake",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French Kennel Club (SCC) breed profile documenting Maryland Chesapeake Bay development, 1876 first Baltimore exhibition, 1890 first standard, 1918 parent club founding, 1948 French arrival, oily weatherproof short coat, guarding instinct, and need for firm, consistent training.",
+    publisher: "Société Centrale Canine"
+  },
+  "pmc-olivry-2012-cbr-pkp1-ed-sfs": {
+    id: "pmc-olivry-2012-cbr-pkp1-ed-sfs",
+    name: "Deficient Plakophilin-1 Expression Due to a Mutation in PKP1 Causes Ectodermal Dysplasia-Skin Fragility Syndrome in Chesapeake Bay Retriever Dogs (PLOS ONE 2012)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3284538/",
+    type: "scientific",
+    publishedOn: "2012-02-22",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed veterinary dermatology and genetics study by Olivry, Linder, Wang, Bizikova et al. (PLoS One 2012;7(2):e32072, PMID 22384142, PMC3284538) characterizing the first naturally occurring animal model of human Ectodermal Dysplasia–Skin Fragility Syndrome (ED-SFS) in 9 of 28 Chesapeake Bay Retriever puppies across 4 related litters, caused by an autosomal-recessive splice-site mutation in PKP1 (c.202+1G>C).",
+    publisher: "PLOS ONE / National Library of Medicine (PMC)"
+  },
+  "wikimedia-chesapeake-bay-retriever1-roussk": {
+    id: "wikimedia-chesapeake-bay-retriever1-roussk",
+    name: "Wikimedia Commons - File:Chesapeake Bay Retriever1.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Chesapeake_Bay_Retriever1.jpg",
+    type: "other",
+    publishedOn: "2007-08-23",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (3324 x 2544 px) of an adult Chesapeake Bay Retriever ('Central N.Y.'s Brute Force') in a marsh by Keith Rousseau / Roussk (EXIF capture date 2007-06-16 on Nikon D80, first uploaded to en.wikipedia 2007-07-07, transferred to Wikimedia Commons by Pharaoh Hound on 2007-08-23). Licensed under CC BY-SA 3.0 Unported (and GFDL).",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-chesapeake-bay-retriever-snow-thomas": {
+    id: "wikimedia-chesapeake-bay-retriever-snow-thomas",
+    name: "Wikimedia Commons - File:Chesapeake Bay Retriever in the snow.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Chesapeake_Bay_Retriever_in_the_snow.jpg",
+    type: "other",
+    publishedOn: "2019-10-11",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (4489 x 3304 px) of a brown Chesapeake Bay Retriever in winter snow by Will Thomas / Forge Mountain Photography (captured 2017-03-13, uploaded to Wikimedia Commons by A11w1ss3nd on 2019-10-11, license verified by FlickreviewR 2 on 2019-10-11). Licensed under CC BY 2.0 Generic.",
+    publisher: "Wikimedia Commons"
+  },
+  "omia-boston-terrier-hsf4-cataract": {
+    id: "omia-boston-terrier-hsf4-cataract",
+    name: "OMIA:001758-9615 - Cataract, early onset, HSF4-related in Canis lupus familiaris",
+    url: "https://omia.org/OMIA001758/9615/",
+    type: "scientific",
+    publishedOn: "2026-10-12",
+    accessedOn: "2026-11-26",
+    note: "Online Mendelian Inheritance in Animals record documenting the autosomal recessive HSF4 mutation responsible for early-onset (but not late-onset) hereditary cataracts in the Boston Terrier, citing Mellersh et al. (Journal of Heredity, 2007; PMID 17611257).",
+    publisher: "Online Mendelian Inheritance in Animals (OMIA)"
+  },
+  "pmc-boston-terrier-boas-2024": {
+    id: "pmc-boston-terrier-boas-2024",
+    name: "BOAS in the Boston Terrier: A healthier screw-tailed breed? (PLOS ONE / PMC)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11687697/",
+    type: "scientific",
+    publishedOn: "2024-12-31",
+    accessedOn: "2026-11-26",
+    note: "University of Cambridge prospective respiratory-function grading study of Boston Terriers (Tomlinson et al., PLOS ONE 2024) finding 37.5% Grade 0 (unaffected), 35.6% Grade 1, 26.0% Grade 2, and 0.96% Grade 3, with nostril stenosis and facial foreshortening significantly associated with BOAS.",
+    publisher: "PubMed Central (PLOS ONE)"
+  },
+  "pmc-boston-terrier-ced-2021": {
+    id: "pmc-boston-terrier-ced-2021",
+    name: "A Retrospective Study of Corneal Endothelial Dystrophy in Dogs (PMC)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7960559/",
+    type: "scientific",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "UC Davis Veterinary Medical Teaching Hospital retrospective study (99 CED dogs vs. 458,680 reference dogs) showing Boston Terriers are significantly overrepresented for corneal endothelial dystrophy, particularly in older dogs.",
+    publisher: "PubMed Central"
+  },
+  "fci-dutch-shepherd-dog-official-standard": {
+    id: "fci-dutch-shepherd-dog-official-standard",
+    name: "FCI - Hollandse Herdershond (Dutch Shepherd Dog) Official Breed Standard No. 223",
+    url: "https://www.fci.be/Nomenclature/Standards/223g01-en.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2020-01-09",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 223 (valid official standard dated 2019-12-21, English publication dated 2020-01-09). Covers Netherlands origin, 12 June 1898 first standard, Group 1 Section 1 Sheepdogs classification with working trial, 10:9 body proportion, 1:1 skull-to-muzzle ratio, dry wedge head, complete scissor bite, dark oblique almond eyes, high erect ears, hock-length tail never curled over back, no hind dewclaws, free supple trot, three coat varieties (short-, long-, and wire-haired; wire hand-plucked twice yearly), golden or silver brindle with preferred black mask, and withers height (males 57-62 cm, females 55-60 cm). Omits weight.",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-dutch-shepherd-dog-nomenclature": {
+    id: "fci-dutch-shepherd-dog-nomenclature",
+    name: "FCI - Hollandse Herdershond (Dutch Shepherd Dog) Breed Nomenclature (No. 223)",
+    url: "https://www.fci.be/en/nomenclature/DUTCH-SHEPHERD-DOG-223.html",
+    type: "official_breed_standard",
+    publishedOn: "2020-01-09",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming the Netherlands as country of origin, Group 1 Section 1 Sheepdogs classification with working trial, definitive acceptance date (1955-05-11), valid official standard date (2019-12-21), English standard publication date (2020-01-09), and official multilingual names (Hollandse Herdershond, Dutch Shepherd Dog, Berger Hollandais, Holländischer Schäferhund).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "akc-dutch-shepherd-official-standard": {
+    id: "akc-dutch-shepherd-official-standard",
+    name: "American Kennel Club - Official Standard for the Dutch Shepherd",
+    url: "https://images.akc.org/pdf/breeds/standards/Official_Standard_for_the_Dutch_Shepherd_01.01.17.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2017-01-01",
+    accessedOn: "2026-11-26",
+    note: "Official AKC Miscellaneous Class breed standard (approved January 11, 2016, effective January 1, 2017) detailing short-, long-, and rough-haired varieties, gold and silver brindle coloration, natural untrimmed presentation with whiskers intact, and disqualifications (males <21 or >26 in, females <20 or >25 in, drooping/hanging ears, yellow or blue eyes, cropped/stump tail, and misplaced solid white markings).",
+    publisher: "American Kennel Club"
+  },
+  "akc-dutch-shepherd-breed-profile": {
+    id: "akc-dutch-shepherd-breed-profile",
+    name: "American Kennel Club - Dutch Shepherd Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/dutch-shepherd/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (FSS since April 2012, Miscellaneous Class since January 1, 2017) documenting 1898 first standard, 1914 brindle-only decision, historic farm duties, weight (42-75 pounds), life expectancy (11-14 years), moderate seasonal shedding, high working energy, eager-to-please trainability with mild independence, supervision with children and other dogs, and national club recommended health tests (Hip, Elbow, Ophthalmologist; thyroid for long-haired, goniodysplasia for rough-haired).",
+    publisher: "American Kennel Club"
+  },
+  "nhc-dutch-shepherd-vfr-2021": {
+    id: "nhc-dutch-shepherd-vfr-2021",
+    name: "Nederlandse Herdershonden Club (NHC) - Verenigingsfokreglement (VFR 2021)",
+    url: "https://hollandseherder.nl/wp-content/uploads/2022/09/VFR_NHC_2021.pdf",
+    type: "breed_club",
+    publishedOn: "2021-05-01",
+    accessedOn: "2026-11-26",
+    note: "Official country-of-origin Dutch parent breed club (Nederlandse Herdershonden Club, founded 1898; Raad van Beheer approved) breeding regulations effective 1 May 2021 establishing rules across all three varieties: mandatory pre-breeding behavioural test (verplichte gedragstest), pectinate ligament abnormality (PLA, formerly goniodysplasia) eye screening, HD evaluation guidelines, and minimum breeding age of 18 months for females.",
+    publisher: "Nederlandse Herdershonden Club"
+  },
+  "nhc-dutch-shepherd-vfr-update-2024": {
+    id: "nhc-dutch-shepherd-vfr-update-2024",
+    name: "Nederlandse Herdershonden Club (NHC) - Verenigingsfokreglement gewijzigd (2024 Update)",
+    url: "https://hollandseherder.nl/verenigingsfokreglement-gewijzigd/",
+    type: "breed_club",
+    publishedOn: "2024-02-27",
+    accessedOn: "2026-11-26",
+    note: "Official NHC 2024 breeding-regulation update (published 27 February 2024) detailing ECVO-protocol eye examinations including gonioscopy and keratitis assessment alongside HD-A/B and HD-C x HD-A pairing rules.",
+    publisher: "Nederlandse Herdershonden Club"
+  },
+  "adsa-dutch-shepherd-health": {
+    id: "adsa-dutch-shepherd-health",
+    name: "American Dutch Shepherd Association (ADSA) - Breed Health & Recommended Testing",
+    url: "https://sites.google.com/dutchshepherd.org/adsa/health",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC parent breed club (American Dutch Shepherd Association) health portal listing recommended variety-specific pre-breeding screenings: OFA Hips and Elbows, Degenerative Myelopathy (DM), OFA Spine and Spongy Cerebellar Degeneration 1 & 2 (SDCA1/SDCA2) for short-haired, yearly Thyroid and von Willebrand Disease Type I (vWD1) for long-haired, and Goniodysplasia for rough-haired, plus nickname 'Dutchie'.",
+    publisher: "American Dutch Shepherd Association"
+  },
+  "skk-hollandse-herdershond-kortharig-profile": {
+    id: "skk-hollandse-herdershond-kortharig-profile",
+    name: "Svenska Kennelklubben (SKK) - Hollandse herdershond, korthårig Rasprofil",
+    url: "https://www.skk.se/hundraser/hollandse-herdershond-kortharig/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for short-haired Hollandse herdershond confirming Netherlands origin, 1898 NHC founding, height (57-62 cm males, 55-60 cm females), weight (approx. 22-32 kg), easy-care short double coat, unsuitability for first-time owners, daily physical and mental activation needs, and health note confirming relatively healthy status with hip dysplasia (HD) occurring.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "skk-hollandse-herdershond-stravharig-profile": {
+    id: "skk-hollandse-herdershond-stravharig-profile",
+    name: "Svenska Kennelklubben (SKK) - Hollandse herdershond, strävhårig Rasprofil",
+    url: "https://www.skk.se/hundraser/hollandse-herdershond-stravharig/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile for wire-haired Hollandse herdershond confirming blue-grey / pepper-and-salt / gold- and silver-brindle coat tones, twice-yearly coat stripping (keeping cheeks, forehead, and ears short), and health note highlighting glaucoma caused by anterior-chamber angle malformation detectable via gonioscopy in the wire-haired variety alongside HD.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "scc-berger-hollandais-profile": {
+    id: "scc-berger-hollandais-profile",
+    name: "Société Centrale Canine (SCC) - Berger hollandais",
+    url: "https://www.centrale-canine.fr/le-chien-de-race/berger-hollandais",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official French Kennel Club (SCC) breed profile confirming height (55-62 cm), weight unspecified (NP), three coat varieties (noting wire-haired rarity outside the Netherlands), jumping ability, weather and fatigue resistance, non-picky appetite, and need for spacious daily outdoor exercise.",
+    publisher: "Société Centrale Canine"
+  },
+  "pmc-shelton-2019-dutch-shepherd-slc25a12-myopathy": {
+    id: "pmc-shelton-2019-dutch-shepherd-slc25a12-myopathy",
+    name: "A Mutation in the Mitochondrial Aspartate/Glutamate Carrier Leads to a More Oxidizing Intramitochondrial Environment and an Inflammatory Myopathy in Dutch Shepherd Dogs (J Neuromuscul Dis 2019)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6918910/",
+    type: "scientific",
+    publishedOn: "2019-09-24",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed study by Shelton, Minor, Li, Naviaux, Leegwater, Mickelson, Palmieri et al. (J Neuromuscul Dis 2019;6(4):485-501, Epub 2019-09-24, PMID 31594244, PMC6918910) providing the first description in any species of an SLC25A12 variant (c.1046T>C; p.L349P in mitochondrial carrier AGC1) causing an early-onset autosomal-recessive inflammatory myopathy in Dutch Shepherd Dogs.",
+    publisher: "Journal of Neuromuscular Diseases / National Library of Medicine (PMC)"
+  },
+  "wikimedia-hollandse-herder-langhaar-djenna-femkederapper": {
+    id: "wikimedia-hollandse-herder-langhaar-djenna-femkederapper",
+    name: "Wikimedia Commons - File:2014-03-22-16-28-15.djennarechts.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:2014-03-22-16-28-15.djennarechts.jpg",
+    type: "other",
+    publishedOn: "2021-02-18",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1024 x 680 px) of an adult long-haired Dutch Shepherd Dog ('Djenna') outdoors by Femkederapper (captured 2014-03-22, uploaded 2021-02-18). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-short-haired-dutch-shepherd-2-canarian": {
+    id: "wikimedia-short-haired-dutch-shepherd-2-canarian",
+    name: "Wikimedia Commons - File:Short-haired Dutch Shepherd 2.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Short-haired_Dutch_Shepherd_2.JPG",
+    type: "other",
+    publishedOn: "2013-10-23",
+    accessedOn: "2026-11-26",
+    note: "Photograph (509 x 382 px) of an adult short-haired Dutch Shepherd Dog outdoors by Canarian (EXIF capture date 2013-06-29 on Sony DSLR-A350, uploaded 2013-10-23). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-hollandse-herder-ruwhaar-teunie": {
+    id: "wikimedia-hollandse-herder-ruwhaar-teunie",
+    name: "Wikimedia Commons - File:Hollandse herder ruwhaar.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Hollandse_herder_ruwhaar.jpg",
+    type: "other",
+    publishedOn: "2007-03-19",
+    accessedOn: "2026-11-26",
+    note: "Photograph (600 x 450 px) of an adult wire-haired Dutch Shepherd Dog by Teunie (originally uploaded to nl.wikipedia on 2005-04-16, transferred to Wikimedia Commons by SieBot on 2007-03-19; camera EXIF clock uncalibrated). Licensed under CC BY-SA 3.0 Unported (and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "akc-saarloos-wolfhond-profile": {
+    id: "akc-saarloos-wolfhond-profile",
+    name: "American Kennel Club - Saarloos Wolfhond Dog Breed Information (FSS)",
+    url: "https://www.akc.org/dog-breeds/saarloos-wolfhond/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC Foundation Stock Service breed profile for the Saarloos Wolfhond covering weight (70-90 lb males, 60-80 lb females), life expectancy (12-15 years), temperament, and breed traits.",
+    publisher: "American Kennel Club"
+  },
+  "pmc-saarloos-lhx3-dwarfism-2014": {
+    id: "pmc-saarloos-lhx3-dwarfism-2014",
+    name: "Pituitary Dwarfism in Saarloos and Czechoslovakian Wolfdogs is Associated with a Mutation in LHX3 (JVIM / PMC)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4895634/",
+    type: "scientific",
+    publishedOn: "2014-11-15",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed Utrecht University study (Voorbij et al., JVIM 2014; PMID 25273400) identifying the autosomal recessive 7-bp deletion in intron 5 of LHX3 in Saarlooswolfhonds and documenting a 31% carrier frequency (75 of 239 healthy breeding dogs).",
+    publisher: "PubMed Central (Journal of Veterinary Internal Medicine)"
+  },
+  "pmc-dm-sod1-cohort-2025": {
+    id: "pmc-dm-sod1-cohort-2025",
+    name: "Survival and deterioration time of walking abilities in dogs with SOD1-related degenerative myelopathy (PMC)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12098292/",
+    type: "scientific",
+    publishedOn: "2025-05-09",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed clinical cohort study (Frontiers in Veterinary Science, 2025) of dogs homozygous for the SOD1 degenerative myelopathy mutation including Saarloos Wolfhounds.",
+    publisher: "PubMed Central (Frontiers in Veterinary Science)"
+  },
+  "fci-norwegian-lundehund-official-standard": {
+    id: "fci-norwegian-lundehund-official-standard",
+    name: "FCI - Norsk Lundehund (Norwegian Lundehund) Official Breed Standard No. 265",
+    url: "https://lundehund.no/wp-content/uploads/2024/02/Norwegian_Lundehund_FCI_Standard_english.pdf",
+    type: "official_breed_standard",
+    publishedOn: "2012-02-22",
+    accessedOn: "2026-11-26",
+    note: "Official English FCI Standard No. 265 (valid official standard dated 2011-11-10, English publication dated 2012-02-22, hosted by Norsk Lundehund Klubb). Covers Norwegian origin ('lunde' puffin Fratercula arctica + 'hund' dog; >400-year history; distemper bottlenecks and Christie/Værøy rescue), Group 5 Section 2 Nordic Hunting Dogs classification without working trial, wedge head, scissor preferred / pincer & moderate lower prognathism permitted, accepted bilateral premolar absence, yellowish-brown eyes with dark halo, retractable folding ear cartilage, at least 6 toes per foot (forefeet 5 resting / 8 pads; hindfeet 4 resting / 7 pads), rotary paddling foreleg gait, dense rough double coat, white-combined red-to-fawn/dark-patched colours, withers height (males 35-38 cm, females 32-35 cm), and weight (males about 7 kg, females about 6 kg).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "fci-norwegian-lundehund-nomenclature": {
+    id: "fci-norwegian-lundehund-nomenclature",
+    name: "FCI - Norsk Lundehund (Norwegian Lundehund) Breed Nomenclature (No. 265)",
+    url: "https://www.fci.be/en/nomenclature/NORWEGIAN-LUNDEHUND-265.html",
+    type: "official_breed_standard",
+    publishedOn: "2012-02-22",
+    accessedOn: "2026-11-26",
+    note: "Official FCI breed nomenclature record confirming Norway as country of origin, Group 5 Section 2 Nordic Hunting Dogs classification without working trial, definitive acceptance date (1965-10-06), English standard publication date (2012-02-22), and official multilingual names (Norsk Lundehund, Norwegian Lundehund, Chien norvégien de macareux).",
+    publisher: "Fédération Cynologique Internationale"
+  },
+  "nkk-norsk-lundehund-profile": {
+    id: "nkk-norsk-lundehund-profile",
+    name: "Norsk Kennel Klub (NKK) - Norsk lundehund Rasebeskrivelse",
+    url: "https://www.nkk.no/hunderaser/norsk-lundehund",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official country-of-origin Norwegian Kennel Club (NKK) breed profile confirming >400-year puffin-hunting heritage, 1850s shift to net hunting, survival at Måstad on Værøy, Eleanor and Christian Christie's 60-70 dog Hamar kennel and late-1950s rescue from 5 Måstad dogs plus a 6th dog, height (32-38 cm), weight (6-7 kg), friendly/curious/watchful family & hiking character, and moderate exercise needs.",
+    publisher: "Norsk Kennel Klub"
+  },
+  "nkk-nlk-norwegian-lundehund-compendium": {
+    id: "nkk-nlk-norwegian-lundehund-compendium",
+    name: "Norsk Kennel Klub / Norsk Lundehund Klubb - The Norwegian Lundehund Breed Compendium",
+    url: "https://database.lundehund.no/Dokumentasjon/Arkiv/RAS/Breed%20compendium.pdf",
+    type: "breed_club",
+    publishedOn: "2010-01-01",
+    accessedOn: "2026-11-26",
+    note: "Official NKK Standard Committee-approved illustrated Breed Compendium (2010) documenting the 1591 account by bailiff Erik Hansen Schønnebøl, Petter Dass's ~1700 poem 'Nordlands Trompet' (Lovund), Måstad/Værøy descent of all modern Lundehunds, shoulder and neck flexibility, climbing function of extra toes/pads (noting 5 hind digits acceptable), and 'Norwegian Puffin Dog' translation.",
+    publisher: "Norsk Kennel Klub / Norsk Lundehund Klubb"
+  },
+  "skk-norsk-lundehund-profile": {
+    id: "skk-norsk-lundehund-profile",
+    name: "Svenska Kennelklubben (SKK) - Norsk lundehund Rasprofil",
+    url: "https://www.skk.se/hundraser/norsk-lundehund/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Swedish Kennel Club (SKK) breed profile confirming Værøy/Lofoten origin, height (35-38 cm males, 32-35 cm females), weight (7 kg males, 6 kg females), lifespan (13-14 years not uncommon), backward neck flexion to back, foldable ears, paddling circular foreleg gait, dirt-repelling Nordic coat, vocal alert barking, slower housetraining, stranger caution, and intestinal lymphangiectasia (IL) affecting roughly 1 in 10 dogs per year.",
+    publisher: "Svenska Kennelklubben"
+  },
+  "akc-norwegian-lundehund-breed-profile": {
+    id: "akc-norwegian-lundehund-breed-profile",
+    name: "American Kennel Club - Norwegian Lundehund Dog Breed Information",
+    url: "https://www.akc.org/dog-breeds/norwegian-lundehund/",
+    type: "kennel_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC breed profile (Non-Sporting Group; FSS since 1996, Companion Events 2004, full AKC recognition 2011) documenting Værøy puffin-hunting heritage, US height (13-15 in male, 12-14 in female), US weight (15-18 lb male, 12-15 lb female), weekly brushing, frequent nail trims, regular ear checks, brisk 30-minute walks or ball-chasing, clever problem-solving, and foldable ears.",
+    publisher: "American Kennel Club"
+  },
+  "akc-norwegian-lundehund-history-2022": {
+    id: "akc-norwegian-lundehund-history-2022",
+    name: "American Kennel Club - Rarest Dog Breed: Norwegian Lundehund History From the Brink of Extinction (2022)",
+    url: "https://www.akc.org/expert-advice/dog-breeds/norwegian-lundehund-history-behind-the-breed/",
+    type: "kennel_club",
+    publishedOn: "2022-03-16",
+    accessedOn: "2026-11-26",
+    note: "Published AKC historical article by Denise Flaim (updated March 16, 2022) documenting Norway's puffin-hunting ban, the breed's near-extinction and rescue, and modern conservation work locating seabird nests non-invasively.",
+    publisher: "American Kennel Club"
+  },
+  "nlk-norsk-lundehund-klubb": {
+    id: "nlk-norsk-lundehund-klubb",
+    name: "Norsk Lundehund Klubb (NLK) - Official Norwegian Breed Club & Crossbreeding Project",
+    url: "https://lundehund.no/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official Norwegian parent breed club portal overseeing breed conservation, health monitoring, and ongoing evaluation/breed-approval stages of the 2014 scientific outcrossing project in Norway.",
+    publisher: "Norsk Lundehund Klubb"
+  },
+  "nlaa-norwegian-lundehund-association": {
+    id: "nlaa-norwegian-lundehund-association",
+    name: "Norwegian Lundehund Association of America, Inc. (NLAA) - Official AKC Parent Club",
+    url: "https://nlaainc.com/",
+    type: "breed_club",
+    publishedOn: null,
+    accessedOn: "2026-11-26",
+    note: "Official AKC parent breed club portal (established 2004) preserving breed heritage, supporting CHIC/OFA health testing (patella, eye exam, and DNA repository), and collaborating with the Norwegian Lundehund Club on breed health.",
+    publisher: "Norwegian Lundehund Association of America, Inc."
+  },
+  "pmc-metzger-2016-lundehund-syndrome-leprel1": {
+    id: "pmc-metzger-2016-lundehund-syndrome-leprel1",
+    name: "Variant detection and runs of homozygosity in next generation sequencing data elucidate the genetic background of Lundehund syndrome (BMC Genomics 2016)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4971756/",
+    type: "scientific",
+    publishedOn: "2016-08-02",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed whole-genome sequencing and ROH study by Metzger et al. (BMC Genomics 2016 Aug 2;17:535, PMC4971756) detailing Lundehund Syndrome clinical signs (onset 2.5-10.5 years; diarrhea, vomiting, weight loss, apathy, hypoalbuminemia, hypoglobulinemia, vitamin B deficiency, ascites/edema) and identifying a CFA34 GWAS signal, candidate LEPREL1:g.139212C>G missense mutation, and immunoregulatory ROH enrichment (including NOD1).",
+    publisher: "BMC Genomics / National Library of Medicine (PMC)"
+  },
+  "pmc-stronen-2017-lundehund-genetic-rescue": {
+    id: "pmc-stronen-2017-lundehund-genetic-rescue",
+    name: "Genetic rescue of an endangered domestic animal through outcrossing with closely related breeds: A case study of the Norwegian Lundehund (PLOS ONE 2017)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5453418/",
+    type: "scientific",
+    publishedOn: "2017-06-01",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed conservation genomics study by Stronen, Salmela, Baldursdóttir, Berg, Espelien, Järvi, Jensen, Melis et al. (PLoS One 2017 Jun 1;12(6):e0177429, PMC5453418) analyzing 165K SNPs across Norwegian Lundehund (HE 0.035) and three Nordic Spitz outcrossing candidate breeds (Norwegian Buhund, Icelandic Sheepdog, Norrbottenspets; HE 0.209-0.284), documenting the 1940s/1960s bottlenecks (~1,500 worldwide dogs) and endorsing multi-breed genetic rescue.",
+    publisher: "PLOS ONE / National Library of Medicine (PMC)"
+  },
+  "pmc-melis-2022-lundehund-genetic-rescue": {
+    id: "pmc-melis-2022-lundehund-genetic-rescue",
+    name: "Genetic Rescue of the Highly Inbred Norwegian Lundehund (Genes 2022)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8775414/",
+    type: "scientific",
+    publishedOn: "2022-01-17",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed genetics study by Melis, Pertoldi, Ludington, Beuchat, Qvigstad, and Stronen (Genes (Basel) 2022 Jan 17;13(1):163, PMC8775414) evaluating genomic diversity gains in F1 and F2 backcross generations of the Norwegian Lundehund outcrossing conservation project.",
+    publisher: "Genes (Basel) / National Library of Medicine (PMC)"
+  },
+  "pmc-lundehund-gut-microbiome-2023": {
+    id: "pmc-lundehund-gut-microbiome-2023",
+    name: "Gut microbiome dysbiosis is associated with host genetics in the Norwegian Lundehund (2023)",
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10315540/",
+    type: "scientific",
+    publishedOn: "2023-06-19",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed 2023 study (PMC10315540) examining the association between host genetic uniformity and gut microbiome dysbiosis in Norwegian Lundehunds and outcrosses.",
+    publisher: "National Library of Medicine (PMC)"
+  },
+  "pubmed-qvigstad-2008-lundehund-gastric-carcinoma": {
+    id: "pubmed-qvigstad-2008-lundehund-gastric-carcinoma",
+    name: "Gastric neuroendocrine carcinoma associated with atrophic gastritis in the Norwegian Lundehund (J Comp Pathol 2008)",
+    url: "https://pubmed.ncbi.nlm.nih.gov/18817920/",
+    type: "scientific",
+    publishedOn: "2008-11-15",
+    accessedOn: "2026-11-26",
+    note: "Peer-reviewed veterinary pathology study by Qvigstad, Kolbjørnsen, Skancke, and Waldum (J Comp Pathol 2008 Nov;139(4):194-201, PMID 18817920) documenting chronic atrophic gastritis and associated gastric neuroendocrine (ECL-cell) carcinomas in Norwegian Lundehunds.",
+    publisher: "Journal of Comparative Pathology / PubMed"
+  },
+  "wikimedia-lundehund-canarian": {
+    id: "wikimedia-lundehund-canarian",
+    name: "Wikimedia Commons - File:Lundehund.jpg",
+    url: "https://commons.wikimedia.org/wiki/File:Lundehund.jpg",
+    type: "other",
+    publishedOn: "2020-01-27",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (1549 x 1196 px) of an adult red-sable male Norwegian Lundehund by Canarian (EXIF capture date 2020-01-26 on Sony DSLR-A350, uploaded 2020-01-27). Licensed under CC BY-SA 4.0 International on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-norsk-lundehund-riga-5-tomasina": {
+    id: "wikimedia-norsk-lundehund-riga-5-tomasina",
+    name: "Wikimedia Commons - File:Norsk Lundehund in Riga 5.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Norsk_Lundehund_in_Riga_5.JPG",
+    type: "other",
+    publishedOn: "2013-11-25",
+    accessedOn: "2026-11-26",
+    note: "High-resolution photograph (2207 x 1514 px) of an adult Norwegian Lundehund at Baltic Winner 2013 in Riga by Томасина (EXIF capture date 2013-11-10 on Canon PowerShot SX50 HS, uploaded 2013-11-25). Licensed under CC BY-SA 3.0 Unported on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
+  },
+  "wikimedia-lundehund-labb-zorroiii": {
+    id: "wikimedia-lundehund-labb-zorroiii",
+    name: "Wikimedia Commons - File:Lundehund-labb.JPG",
+    url: "https://commons.wikimedia.org/wiki/File:Lundehund-labb.JPG",
+    type: "other",
+    publishedOn: "2005-10-31",
+    accessedOn: "2026-11-26",
+    note: "Close-up photograph (1044 x 747 px) of a Norwegian Lundehund's six-toed paw by ZorroIII (EXIF capture date 2005-10-14 on Canon PowerShot S50, uploaded 2005-10-31). Licensed under CC BY-SA 3.0 Unported (multi-licensed with CC BY 2.5 and GFDL) on Wikimedia Commons.",
+    publisher: "Wikimedia Commons"
   },
 });
 

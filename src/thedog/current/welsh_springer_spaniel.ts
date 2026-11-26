@@ -1,24 +1,22 @@
 import type { Breed } from "../../schema/breed.types";
 
-export const standard_schnauzer: Breed = {
-  slug: "standard-schnauzer",
-  name: "Standard Schnauzer",
+export const welsh_springer_spaniel: Breed = {
+  slug: "welsh-springer-spaniel",
+  name: "Welsh Springer Spaniel",
   scientificName: null,
   alternateNames: [
-    "Mittelschnauzer",
-    "Schnauzer",
-    "Wire-haired Pinscher",
+    "Welsh Springer",
   ],
-  group: "Working",
+  group: "Sporting",
   origin: {
-    country: "Germany",
+    country: "Wales",
     region: null,
   },
   images: [],
   overview: {
     summary: null,
-    description: "Medium-sized, robust dog with distinctive beard and eyebrows, square build and wiry coat. An intelligent, high-spirited breed that serves as both a versatile working dog and loyal companion.",
-    history: "The original Schnauzer breed dating back to the Middle Ages in Germany, developed as versatile farm dogs for guarding property, herding livestock, ratting and exterminating vermin. Recognized by AKC since 1904.",
+    description: "Medium-sized, compact gundog with a distinctive red and white coat and straight, silky feathering. Known for its happy disposition, boundless energy, and versatility in the field as a sporting spaniel built for endurance.",
+    history: "Ancient Welsh breed developed as a versatile gundog to flush and retrieve game birds, mentioned in Welsh laws dating to 300 AD. Officially recognized as distinct from other land spaniels by The Kennel Club in 1902 and AKC in 1906.",
     originalPurpose: null,
     currentRoles: [],
   },
@@ -27,26 +25,29 @@ export const standard_schnauzer: Breed = {
     height: {
       unit: "cm",
       male: {
-        min: 47,
-        max: 50,
+        min: 46,
+        max: 48,
       },
       female: {
-        min: 44,
-        max: 47,
+        min: 43,
+        max: 46,
       },
     },
     weight: {
       unit: "kg",
       male: {
+        min: 18,
+        max: 25,
+      },
+      female: {
         min: 16,
         max: 23,
       },
-      female: {
-        min: 14,
-        max: 20,
-      },
     },
-    lifespanYears: null,
+    lifespanYears: {
+      min: 12,
+      max: 15,
+    },
     coatType: null,
     coatLength: null,
     coatColors: [
@@ -74,12 +75,12 @@ export const standard_schnauzer: Breed = {
   },
   temperament: {
     traits: [
-      "Intelligent",
-      "alert",
-      "energetic",
+      "Friendly",
       "loyal",
-      "protective",
-      "devoted",
+      "energetic",
+      "intelligent",
+      "affectionate",
+      "eager to please",
     ],
     scores: {
       affection: null,
@@ -273,10 +274,16 @@ export const standard_schnauzer: Breed = {
       note: null,
     },
     "physical.lifespanYears": {
-      reliability: "unavailable",
-      sources: [],
-      verifiedOn: null,
-      note: "The Dog API response did not include this.",
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "the-dog-api",
+          role: "verified",
+          locator: "breed.life_span",
+        },
+      ],
+      verifiedOn: "2026-11-26",
+      note: null,
     },
     "physical.coatType": {
       reliability: "unavailable",

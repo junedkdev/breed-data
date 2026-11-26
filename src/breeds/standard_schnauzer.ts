@@ -11,8 +11,7 @@ export const standard_schnauzer: Breed = {
     "Wire-Haired Pinscher"
   ],
 
-  group:
-    "Pinscher and Schnauzer Type, Molossoid Breeds, and Swiss Mountain and Cattle Dogs; Section 1.2 — Schnauzers (without working trial; also classified in the Working group)",
+  group: "Pinscher, schnauzer, and working farm dogs",
 
   origin: {
     country: "Germany",
@@ -26,18 +25,18 @@ export const standard_schnauzer: Breed = {
         "https://commons.wikimedia.org/wiki/File:Standard_Schnauzers.jpg",
       title: "Standard Schnauzers.jpg",
       description:
-        "Two adult pepper and salt Standard Schnauzers resting outdoors, displaying their distinctive beards and bushy eyebrows.",
+        "Two female pepper-and-salt Standard Schnauzers—one with cropped ears and one with natural drop ears—showing their bristly beards and bushy eyebrows.",
       creator: "Cgoodall",
       uploader: "Cgoodall",
       capturedOn: "2007-03-25",
-      uploadedOn: "2007-03-25",
+      uploadedOn: "2007-04-01",
       width: 2592,
       height: 1944,
       licenseId: "public-domain",
       attribution:
         "Photo by Cgoodall, Wikimedia Commons, Public Domain. Source: https://commons.wikimedia.org/wiki/File:Standard_Schnauzers.jpg.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-17"
+      metadataCheckedOn: "2026-11-26"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Mittelschnauzer_aka_Standard_Schnauzer.jpg",
@@ -45,39 +44,39 @@ export const standard_schnauzer: Breed = {
         "https://commons.wikimedia.org/wiki/File:Mittelschnauzer_aka_Standard_Schnauzer.jpg",
       title: "Mittelschnauzer aka Standard Schnauzer.jpg",
       description:
-        "A close view of a male pepper and salt Standard Schnauzer, showing the robust, square-built frame and harsh wire coat.",
-      creator: "Unknown Uploader",
-      uploader: "Pleple2000",
+        "A male pepper-and-salt Standard Schnauzer displaying its square, sturdy proportions and harsh wire coat.",
+      creator: "Canarian",
+      uploader: "Canarian",
       capturedOn: "2006-06-01",
-      uploadedOn: "2006-06-01",
+      uploadedOn: "2014-04-16",
       width: 500,
       height: 462,
       licenseId: "cc-by-sa-3.0",
       attribution:
-        "Photo from Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Mittelschnauzer_aka_Standard_Schnauzer.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
+        "Photo by Canarian, Wikimedia Commons, CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:Mittelschnauzer_aka_Standard_Schnauzer.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-17"
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A robust, heavy-set, and highly intelligent German working dog, celebrated for its pepper-and-salt or pure black wire coat, bristly beard, and spirited, incorruptible devotion as a farm and family guardian.",
+      "A sturdy, square-built medium working dog from southern Germany, recognized by its harsh pepper-and-salt or black wire coat, full beard, keen intelligence, and steadfast watchdog instincts.",
 
     description:
-      "The Standard Schnauzer is a medium-sized, sturdily built canine combining a distinctly square, muscular frame with an aura of lively intelligence. As the original progenitor of the three related sizing variants, this dog presents a rugged, aristocratic appearance heavily defined by its harsh, dense wire coat. Its unmistakable head is elongated and rectangular, graced with a bristly beard and thick, overarching eyebrows that shade dark, oval eyes. The breed's movement is characterized by a strong, free, and ground-covering stride that reflects its profound athletic endurance. Far more than just a handsome face, the dog possesses a fearless, alert, and deeply loyal temperament. Naturally highly vigilant, it functions as an incorruptible property watchdog and a devoted, engaging companion for active households.",
+      "The Standard Schnauzer is the original medium-sized member of the Schnauzer family, built with a compact, muscular, square silhouette and strong bone. A dense, wiry double coat wraps the body, lengthening into a coarse beard along the rectangular muzzle and bushy brows shading dark, oval eyes. Its ground-covering, energetic gait reflects the stamina of an all-purpose farm dog. Alert, courageous, and deeply loyal to its household, this breed pairs lively playfulness with calm reliability, acting as a vigilant home protector that thrives on active involvement with its people.",
 
     history:
-      "The origins of this rugged working breed date back to the Middle Ages in Southern Germany, where farmers and tradesmen required an exceptionally versatile dog. Originally known as the Wire-Haired Pinscher, it was utilized for herding livestock, dispatching rodents in stables, and aggressively guarding heavily laden carts traveling to market. The breed's lineage is thought to incorporate early ratting terriers, wire-haired pinschers, and potentially the black German Poodle and Wolfspitz. The transition to its modern name occurred after a particularly striking dog named 'Schnauzer' (derived from the German word 'Schnauze', meaning snout or muzzle) won a prestigious Hanover dog show in 1879, immortalizing the distinctive bearded look. Throughout the late nineteenth and early twentieth centuries, it gained widespread respect as a police dog, dispatch carrier, and Red Cross aide during the World Wars. As the progenitor of the miniature and giant variants, this original medium-sized dog remains a globally cherished working breed and family protector today.",
+      "Rooted in medieval southern Germany, the Standard Schnauzer began as a versatile farm and stable companion comfortable around horses, quick to clear rodents, and dependable at guarding merchant carts and homesteads. Early German breeders referred to the dog as the Wire-Haired Pinscher until its whiskered muzzle—'Schnauze' in German—cemented the Schnauzer name around the turn of the twentieth century. During World War I and World War II, German forces relied on the breed as dispatch carriers and Red Cross aides. As the original prototype, it later served as the foundation for both the smaller Miniature Schnauzer and the larger Giant Schnauzer.",
 
     originalPurpose:
-      "Versatile farm dog, vermin dispatcher, livestock drover, and incorruptible guard dog for merchants and tradesmen.",
+      "All-purpose farm and stable dog used for ratting, livestock droving, and guarding carts and homesteads.",
 
     currentRoles: [
-      "Vigilant home and property watchdog",
-      "Devoted household companion",
-      "Canine athlete in agility, obedience, and tracking",
-      "Search and rescue partner"
+      "Devoted, energetic family companion",
+      "Alert, reliable property watchdog",
+      "Versatile canine sports partner in obedience, agility, herding, barn hunt, and tracking",
+      "Search-and-rescue and service-working dog"
     ]
   },
 
@@ -114,46 +113,41 @@ export const standard_schnauzer: Breed = {
     },
 
     coatType:
-      "Wire-haired, harsh, and dense double coat. The undercoat is dense, while the topcoat is flat, rough, and wiry to the touch. Features include a distinct, rough beard on the muzzle and bushy eyebrows.",
+      "Dense, harsh, wiry double coat combining a thick undercoat with a rough, close-lying outer layer, accented by a stiff beard on the muzzle, bushy eyebrows, and longer leg furnishings.",
 
     coatLength: "Medium",
 
     coatColors: [
-      "Pure black with a black undercoat",
-      "Pepper and salt (ranging from dark iron grey to silver grey, uniformly distributed with a grey undercoat)"
+      "Pure black with a solid black undercoat",
+      "Pepper and salt (banded black-and-white hairs creating shades from dark iron gray to silver gray with a gray undercoat)"
     ],
 
     sheddingLevel:
-      "Low to moderate; the harsh wire coat sheds very little if properly maintained through hand-stripping and regular brushing",
+      "Low; the dense wire coat sheds very little when brushed routinely and hand-stripped periodically",
 
     droolingLevel:
-      "Low; tight-fitting, heavily pigmented lips prevent excessive drooling",
+      "Low; tight, black-pigmented lips prevent noticeable drooling",
 
     distinctiveFeatures: [
-      "Squarely built, robust frame where the height at the withers is approximately equal to the body length",
-      "Height at the withers ranging from 45 to 50 cm for both males and females",
-      "Working weight ranging uniformly from 14 to 20 kg for both sexes",
-      "Strong, elongated, and rectangular head that tapers slightly from the ears to the eyes",
-      "Muzzle ending in a blunt wedge, covered by a harsh, bristly beard",
-      "Complete, powerful scissor bite with strong jaws",
-      "Dark, oval, forward-facing eyes framed by dense, bushy eyebrows",
-      "High-set, V-shaped drop ears, carried with the inner edges lying close to the cheeks",
-      "Strong, muscular, and slightly arched neck blending cleanly into the shoulders",
-      "Short, firm back sloping slightly downward toward the rear",
-      "Well-muscled thighs and short, round cat-like feet with dark nails and hard pads"
+      "Compact, square build standing 45 to 50 cm at the shoulder and weighing 14 to 20 kg",
+      "Strong, flat, elongated rectangular head with a blunt wedge muzzle and full bristly beard",
+      "Powerful jaws closing in a complete scissor bite",
+      "Dark, oval, forward-looking eyes shaded by thick, arched eyebrows",
+      "High-set V-shaped drop ears whose inner edges rest neatly against the cheeks",
+      "Muscular, slightly arched neck flowing into a short, firm back that slopes gently toward the rear",
+      "Round, tight cat-like paws with dark nails and tough pads"
     ]
   },
 
   temperament: {
     traits: [
-      "Highly intelligent, lively, and engaging with its immediate family",
-      "Fearless and alert, functioning as a highly reliable and incorruptible watchdog",
-      "Good-natured and deeply loyal, forming exceptionally strong bonds with its handlers",
-      "Naturally reserved, observant, and aloof toward unfamiliar strangers",
-      "Playful and spirited, requiring purposeful mental and physical engagement",
-      "Possesses a strong prey drive toward rodents and small fast-moving animals",
-      "Strong-willed and independent-thinking, reflecting its history as an autonomous farm dog",
-      "Tolerant and patient with children when properly raised in the household"
+      "Bright, observant, and quick to learn when engaged with clear, fair leadership",
+      "Spirited and playful yet steady and calm when settled indoors",
+      "Deeply devoted to family members and generally patient with respectful children",
+      "Naturally watchful and reserved around unfamiliar visitors",
+      "Courageous, reliable guardian with strong protective instincts",
+      "Independent thinker that can test boundaries if under-exercised or bored",
+      "Keen chasing drive toward squirrels, rodents, and small scurrying animals"
     ],
 
     scores: {
@@ -172,7 +166,7 @@ export const standard_schnauzer: Breed = {
   care: {
     exercise: {
       level:
-        "High; a robust and energetic working breed that demands vigorous daily physical exertion and challenging mental tasks to remain stable and content",
+        "High; an athletic working breed needing brisk daily exercise and structured mental work to stay balanced and well-behaved",
 
       minutesPerDay: {
         min: 45,
@@ -180,11 +174,10 @@ export const standard_schnauzer: Breed = {
       },
 
       activities: [
-        "Brisk daily jogging or long-distance trail hiking",
-        "Structured obedience and impulse-control training routines",
-        "Canine sports such as agility, rally, and tracking trials",
-        "Interactive fetch and retrieving games in a securely fenced yard",
-        "Search and nosework puzzles to stimulate its high intelligence"
+        "Brisk daily walks, jogs, or trail hikes",
+        "Obedience, rally, and impulse-control training games",
+        "Agility, herding, barn hunt, or nosework sessions",
+        "Structured fetch and tug in a securely fenced yard"
       ]
     },
 
@@ -192,33 +185,33 @@ export const standard_schnauzer: Breed = {
       level: "High",
 
       brushing:
-        "Brush thoroughly two to three times weekly using a slicker brush and metal comb to prevent mats in the dense furnishings (beard and leg hair).",
+        "Brush and comb two to three times per week with a slicker brush and metal comb, focusing on the beard and leg furnishings where tangles collect.",
 
       bathing:
-        "Bathe only when visibly soiled using a harsh-coat texturizing shampoo to prevent softening the protective wire hair.",
+        "Bathe only when dirty using a gentle or harsh-coat canine shampoo so the crisp wire texture stays intact.",
 
       notes: [
-        "The coat must be hand-stripped (plucking dead hair from the root) every few months to maintain the correct harsh texture and rich color; clipping will result in a softer, faded coat.",
-        "Wipe the bristly beard daily after meals to prevent food debris and moisture buildup.",
-        "Inspect the drop ears weekly and gently remove any wax or dirt accumulation to prevent infection.",
-        "Trim fast-growing nails every two weeks to support the dog's robust, athletic movement.",
-        "Brush teeth several times weekly using canine enzymatic toothpaste."
+        "Hand-strip dead outer hairs every few months to keep the weather-resistant wiry texture and rich pigment; frequent clipping softens the coat and dulls color.",
+        "Rinse or wipe the beard after meals to keep skin clean and free of odors.",
+        "Check the V-shaped drop ears weekly and clean gently with a veterinarian-approved solution.",
+        "Trim nails every two to three weeks to preserve tight cat-like feet.",
+        "Brush teeth several times a week with canine enzymatic toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Moderate; highly intelligent and capable of rapid learning, but possesses a strong independent streak that requires firm, consistent, and positive leadership",
+        "Moderate; sharp and capable of advanced work, yet independent enough to need consistent, upbeat, firm guidance",
 
       tips: [
-        "Use reward-based training with high-value treats and enthusiastic praise to maintain their interest.",
-        "Keep sessions varied, fast-paced, and mentally stimulating; they easily become bored and stubbornly ignore repetitive drilling.",
-        "Establish extremely clear boundaries and expectations from puppyhood to prevent them from assuming a dominant household role.",
-        "Practice early recall training and leash manners, as their ratting instincts can cause them to bolt after small animals."
+        "Keep training varied and reward-driven with tasty treats and praise—repetitive drills bore this clever breed quickly.",
+        "Set consistent household rules from puppyhood so strong-willed habits do not take root.",
+        "Practice solid recall and leash manners early to manage its keen interest in chasing small critters.",
+        "Avoid harsh or heavy-handed methods, which can trigger stubborn resistance."
       ],
 
       socialization:
-        "Extensive, continuous socialization is crucial. Introduce the puppy safely to varied people, calm dogs, and diverse environments to ensure their natural suspicion of strangers does not escalate into sharp defensiveness or over-guarding."
+        "Begin structured, positive socialization early with unfamiliar people, steady dogs, and busy public settings so natural watchfulness stays calm and discriminating."
     },
 
     livingEnvironment: {
@@ -227,78 +220,76 @@ export const standard_schnauzer: Breed = {
 
       climates: [
         "Temperate climates",
-        "Cool climates, where the dense double coat provides excellent insulation and weather protection",
-        "Warm climates, provided the coat is stripped properly, shade is available, and strenuous exercise is avoided during peak heat hours"
+        "Cool climates, where the harsh double coat shields well against wind and chill",
+        "Warm climates when properly groomed, shaded, and exercised during cooler hours"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; strongly bonded to its family and prone to separation distress, boredom barking, or destructive behavior if left isolated for long workdays."
+        "Low to moderate; wants to be part of daily family life and can grow vocal or destructive if left isolated for long stretches."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for active medium-sized working breeds.",
+      "Complete, balanced dog food formulated for active medium-sized breeds, portioned to keep a lean, muscular frame.",
 
     feedingFrequency: {
       puppy:
-        "Three to four measured small meals daily until six months of age.",
+        "Three to four measured meals per day until six months of age.",
       adult:
-        "Two measured meals daily to support steady digestion and energy levels.",
+        "Two measured meals per day to sustain steady energy and digestion.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output."
+        "Two controlled meals per day tailored to slower metabolism."
     },
 
     guidelines:
-      "Measure daily rations strictly using a digital kitchen scale or standard measuring cup. Adjust amounts to maintain a lean, well-muscled body condition, preventing the heavy-set frame from developing excess fat. Divide daily food into two distinct meals and provide cool, clean drinking water continuously.",
+      "Measure every meal with a kitchen scale or measuring cup rather than free-feeding. Keeping body weight lean protects hip joints and athletic stamina, and fresh drinking water should always be available.",
 
     considerations: [
-      "Maintain a strictly lean body weight to minimize mechanical stress on the joints.",
-      "Account for all training treats within the total daily caloric allowance.",
-      "Wipe the beard after meals to maintain cleanliness.",
-      "Transition between diet formulas gradually over five to seven days to prevent gastrointestinal upset."
+      "Monitor body condition so ribs remain easy to feel without excess fat cover.",
+      "Count training treats within the daily calorie budget.",
+      "Clean the beard after wet meals to avoid matted food residue.",
+      "Transition gradually to new food over five to seven days."
     ],
 
     note:
-      "Caloric needs vary based on age, metabolism, and daily exercise intensity. Consult a veterinarian to establish tailored daily feeding guidelines."
+      "Consult a veterinarian to match daily calories to your dog's age, metabolism, and daily activity."
   },
 
   health: {
     overview:
-      "The Standard Schnauzer is a highly robust, sturdy, and generally long-lived working breed with a typical lifespan of 13 to 16 years. Conscientious breeding has kept the breed remarkably healthy, though it shares some genetic vulnerabilities with other mid-sized working dogs. Primary health priorities focus on crucial DNA testing for Dilated Cardiomyopathy (DCM), alongside orthopedic screening for hip dysplasia and annual veterinary eye examinations.",
+      "The Standard Schnauzer is generally a sturdy, long-lived working breed with a typical lifespan of 13 to 16 years. Breed health surveys consistently describe overall health as strong, though conscientious screening is essential for an autosomal recessive form of Dilated Cardiomyopathy (DCM) caused by a 22-base-pair deletion in the RBM20 gene, alongside hip dysplasia and inherited eye disorders.",
 
     commonConditions: [
-      "Dilated Cardiomyopathy (DCM) — a severe, inherited condition causing the heart muscle to weaken and become enlarged, leading to exercise intolerance, collapse, or sudden death; screenable via DNA testing",
-      "Hip dysplasia — developmental laxity and malformation of the coxofemoral joints leading to osteoarthritis and stiffness, monitored through pre-breeding radiographic screening",
-      "Hereditary ocular conditions — including cataracts and retinal dysplasia, monitored through specialist veterinary ophthalmologist examinations",
-      "Autoimmune thyroiditis (hypothyroidism) — an immune-mediated disorder leading to an underactive thyroid, weight gain, and coat changes, screenable via blood testing",
-      "Follicular dermatitis (Schnauzer comedo syndrome) — a breed-specific skin condition causing blackheads along the spine, manageable with veterinary shampoos"
+      "Dilated Cardiomyopathy (DCM, RBM20-related) — scientifically established autosomal recessive heart-muscle disorder linked to a 22-bp deletion in RBM20, causing enlarged heart chambers, heart failure, or sudden cardiac death in homozygous dogs; DNA testing allows breeders to avoid mating two carriers",
+      "Hip dysplasia — developmental hip-joint looseness that can lead to arthritis, monitored through pre-breeding hip radiographs",
+      "Hereditary eye disorders — including cataracts and retinal anomalies, tracked through routine specialist eye exams",
+      "Hypothyroidism (autoimmune thyroiditis) — underactive thyroid function occasionally reported in the breed, evaluated via veterinary blood panels",
+      "Follicular dermatitis (Schnauzer comedo syndrome) — benign blackhead-like bumps along the back seen occasionally in Schnauzers, manageable with gentle veterinary skin care"
     ],
 
     preventiveCare: [
-      "Ensure breeding stock has certified radiographic clearances for hips, specialist eye examinations, and strict DNA testing for Dilated Cardiomyopathy (DCM).",
-      "Maintain a lean, muscular body condition throughout life to minimize wear on the hips.",
-      "Administer consistent year-round parasite prevention against fleas, ticks, and heartworms.",
-      "Thoroughly clean and dry the dense beard and leg furnishings to prevent bacterial or yeast infections in the hair.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding parents have completed DNA testing for RBM20-related DCM (never breeding two carriers together), hip radiographs, and specialist eye examinations.",
+      "Maintain a lean, fit body weight to protect hip joints throughout life.",
+      "Keep up with year-round flea, tick, and heartworm prevention.",
+      "Keep the beard and leg furnishings clean and dry, and schedule yearly veterinary wellness checks."
     ],
 
     recommendedScreenings: [
-      "DNA marker test for Dilated Cardiomyopathy (DCM)",
-      "Radiographic hip dysplasia evaluation through an accredited national screening program prior to breeding",
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist (CAER)",
-      "Basic cardiac evaluation (auscultation or echocardiogram)",
-      "Thyroid panel evaluation"
+      "DNA test for Schnauzer Dilated Cardiomyopathy (RBM20 deletion)",
+      "Radiographic hip dysplasia evaluation prior to breeding",
+      "Ophthalmic examination by a board-certified veterinary ophthalmologist",
+      "Optional breeder screenings including elbow radiographs, basic or advanced cardiac exam (auscultation/echocardiogram), and thyroid panel"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has powerful jaws and a complete scissor bite; periodic veterinary dental assessments preserve gum health.",
+      "Brush teeth several times a week with canine enzymatic toothpaste and arrange routine veterinary dental checks to maintain strong jaws and healthy gums.",
 
     earCare:
-      "Inspect the V-shaped drop ears weekly for wax buildup, moisture, or redness. Clean gently using a veterinarian-recommended ear solution, drying the leather thoroughly.",
+      "Check under the V-shaped drop ears every week for wax, moisture, or redness, and clean gently with a veterinarian-approved rinse.",
 
     skinCare:
-      "Part the harsh double coat weekly during brushing to inspect the skin for external parasites, comedones (blackheads), or irritation. Routine hand-stripping promotes healthier skin and coat turnover."
+      "Part the dense wire coat weekly to inspect skin for parasites, mats, or comedones along the back; periodic hand-stripping supports healthy coat turnover."
   },
 
   suitability: {
@@ -309,96 +300,105 @@ export const standard_schnauzer: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "Active individuals and families seeking a highly intelligent, interactive, and robust indoor companion",
-      "Experienced dog owners familiar with positive leadership and managing strong-willed, protective temperaments",
-      "Those looking for a vigilant, non-aggressive but formidable property watchdog",
-      "Canine sports enthusiasts involved in obedience, tracking, or agility",
-      "Owners willing to commit to the time and expense of hand-stripping a wire coat"
+      "Active households wanting a bright, athletic, and deeply loyal family companion",
+      "Experienced owners comfortable offering steady, positive leadership to a spirited dog",
+      "People seeking a vigilant, reliable home watchdog",
+      "Handlers interested in obedience, agility, herding, barn hunt, or tracking",
+      "Owners willing to maintain a wiry coat through regular brushing and periodic hand-stripping"
     ],
 
     notIdealFor: [
-      "Passive handlers or first-time dog owners unaccustomed to setting firm behavioral boundaries",
-      "Sedentary individuals looking for a low-energy, highly submissive lap dog",
-      "Households that leave a dog isolated for long workdays without mental stimulation",
-      "Owners looking for a highly sociable dog park companion that mixes freely and indiscriminately with strangers",
-      "Homes with small pet rodents, given the breed's hardwired ratting history"
+      "Passive or first-time owners reluctant to set clear, consistent rules",
+      "Sedentary households looking for a low-energy lapdog",
+      "Homes where the dog would spend long days alone without engagement",
+      "Owners expecting an overly casual dog that greets every stranger indiscriminately",
+      "Households with free-roaming small rodent pets"
     ]
   },
 
   funFacts: [
-    "The Standard Schnauzer is the original breed in the Schnauzer family, later used to develop both the Miniature Schnauzer (by crossing with smaller breeds like the Affenpinscher) and the Giant Schnauzer (by crossing with larger herding and molossoid breeds).",
-    "Before the breed was officially named the 'Schnauzer', these dogs were simply known in Germany as Wire-Haired Pinschers.",
-    "The name 'Schnauzer' is derived from the German word 'Schnauze', meaning snout or muzzle, referencing the dog's prominent, bristly beard and moustache.",
-    "Renowned for their intelligence and loyalty, Standard Schnauzers were employed extensively by the German army during World War I and World War II as dispatch carriers and Red Cross aides.",
-    "The breed's distinctive 'pepper and salt' coat color is created by banded hairs, where each individual hair shaft features alternating bands of black and white."
+    "The Standard Schnauzer is the original prototype of the Schnauzer family, later used to shape both the Miniature Schnauzer and the Giant Schnauzer.",
+    "Before the Schnauzer name caught on in the late nineteenth century, the breed was widely known in Germany as the Wire-Haired Pinscher.",
+    "Its name comes from the German word 'Schnauze' (snout or muzzle), highlighting its bristly beard and mustache.",
+    "During World War I and World War II, German military units employed these smart, resilient dogs as message carriers and Red Cross helpers.",
+    "The classic pepper-and-salt coat effect comes from individual hairs banded in alternating black and white segments."
   ],
 
   faq: [
     {
-      question: "What is a Standard Schnauzer?",
+      question: "What kind of dog is a Standard Schnauzer?",
       answer:
-        "The Standard Schnauzer is a medium-sized, square-built German working dog, famous for its harsh wire coat, bristly beard, high intelligence, and fearless devotion as a watchdog and family companion."
+        "The Standard Schnauzer is a medium-sized, square-built German working dog known for its harsh wire coat, bristly beard, sharp intelligence, and loyal, watchful temperament."
     },
     {
-      question: "What is the difference between a Standard Schnauzer, Miniature Schnauzer, and Giant Schnauzer?",
+      question: "How does a Standard Schnauzer differ from Miniature and Giant Schnauzers?",
       answer:
-        "The Standard is the original, medium-sized breed. The Miniature was bred down in size for ratting and companionship, while the Giant was bred up in size for heavy farm work and serious protection duties."
+        "The Standard Schnauzer is the original medium-sized breed; the Miniature was bred down for small-scale ratting and companionship, while the Giant was bred up for heavy droving and guarding."
     },
     {
       question: "How tall and heavy is a Standard Schnauzer?",
       answer:
-        "Adult males and females typically stand 45 to 50 cm at the withers and weigh uniformly between 14 and 20 kg, maintaining a sturdy, heavy-set, and well-muscled frame."
+        "Adults stand 45 to 50 cm at the shoulder and weigh 14 to 20 kg, with a compact, solidly muscled build."
     },
     {
       question: "How long does a Standard Schnauzer live?",
       answer:
-        "With proper nutrition, rigorous health screening for heart issues, and preventive veterinary care, the breed typically enjoys a lifespan of 13 to 16 years."
+        "With balanced nutrition, responsible heart screening, and routine veterinary care, a Standard Schnauzer commonly lives 13 to 16 years."
     },
     {
-      question: "Do Standard Schnauzers shed a lot, and how are they groomed?",
+      question: "Do Standard Schnauzers shed much, and how are they groomed?",
       answer:
-        "They are low shedders when properly maintained. However, their harsh wire coat requires significant grooming, including regular brushing and periodic hand-stripping (plucking dead hair) to maintain its weather-resistant texture and color."
+        "They shed very little when properly maintained, but their harsh wire coat needs brushing two to three times a week and periodic hand-stripping to preserve its weather-resistant texture and color."
     },
     {
       question: "Can a Standard Schnauzer live in an apartment?",
       answer:
-        "Yes, despite being an active working breed, their moderate size allows them to adapt well to apartment living provided they receive rigorous daily physical and mental exercise outdoors."
+        "Yes, as long as it receives plenty of brisk daily walks, active play, and mental training outdoors."
     },
     {
       question: "Are Standard Schnauzers aggressive?",
       answer:
-        "They are not inherently aggressive, but they are bold, highly protective watchdogs that are naturally suspicious of strangers. Without firm training and early socialization, this protectiveness can become overly territorial."
+        "They are not inherently aggressive, though they are bold, watchful protectors that are naturally reserved with strangers. Early socialization and consistent training keep their guarding instincts balanced."
     },
     {
       question: "What are the main health concerns for a Standard Schnauzer?",
       answer:
-        "While generally robust, the breed's most critical health concern is a genetic predisposition to Dilated Cardiomyopathy (DCM), a severe heart condition. They can also face hip dysplasia and hereditary eye disorders."
+        "Overall health is strong, but the most important inherited risk is autosomal recessive Dilated Cardiomyopathy (DCM), alongside hip dysplasia and hereditary eye disorders."
     },
     {
-      question: "What health screenings are recommended for breeding dogs?",
+      question: "What health screenings are recommended before breeding?",
       answer:
-        "Mandatory pre-breeding screenings include a DNA test for Dilated Cardiomyopathy (DCM), radiographic evaluations for hip dysplasia, and certified veterinary eye examinations."
+        "Core screenings include a DNA test for Schnauzer Dilated Cardiomyopathy (DCM), hip dysplasia radiographs, and an ophthalmologist eye exam, with optional elbow, cardiac, and thyroid checks."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-schnauzer-official-standard",
     "fci-schnauzer-nomenclature",
     "akc-standard-schnauzer-breed-standard",
     "akc-standard-schnauzer-breed-profile",
     "ssca-standard-schnauzer-health",
     "ofa-standard-schnauzer-chic-requirements",
+    "omia-schnauzer-dcm-rbm20",
+    "the-dog-api",
     "wikimedia-standard-schnauzers-cgoodall",
     "wikimedia-mittelschnauzer-pleple2000"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxonomic listing: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-26",
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Canis lupus familiaris is the verified domestic-dog taxonomic label used across the catalog."
     },
 
     alternateNames: {
@@ -407,7 +407,7 @@ export const standard_schnauzer: Breed = {
         {
           id: "fci-schnauzer-official-standard",
           role: "verified",
-          locator: "Standard heading: SCHNAUZER"
+          locator: "Standard heading: SCHNAUZER; Historical summary: Wire-Haired Pinscher"
         },
         {
           id: "fci-schnauzer-nomenclature",
@@ -415,13 +415,13 @@ export const standard_schnauzer: Breed = {
           locator: "Official nomenclature: SCHNAUZER (182)"
         },
         {
-          id: "akc-standard-schnauzer-breed-profile",
-          role: "verified",
-          locator: "History: Mittelschnauzer, Wire-Haired Pinscher"
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: Mittelschnauzer, Schnauzer, Wire-haired Pinscher"
         }
       ],
-      verifiedOn: "2026-11-17",
-      note: "Verified across FCI Standard No. 182, FCI Nomenclature, and AKC profile."
+      verifiedOn: "2026-11-26",
+      note: "Cross-checked across FCI Standard No. 182, AKC profile, and The Dog API."
     },
 
     group: {
@@ -430,17 +430,22 @@ export const standard_schnauzer: Breed = {
         {
           id: "fci-schnauzer-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 2 Pinscher and Schnauzer, Molossoid breeds, Swiss Mountain and Cattle Dogs; Section 1.2 Schnauzer, without working trial"
+          locator: "CLASSIFICATION FCI: Group 2 Pinscher and Schnauzer - Molossoid and Swiss Mountain and Cattledogs; Section 1.2 Schnauzer; Without working trial"
         },
         {
           id: "akc-standard-schnauzer-breed-standard",
           role: "verified",
           locator: "Working Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Working"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group label states Pinscher, schnauzer, and working farm dogs without registry or section identifiers."
     },
 
     origin: {
@@ -449,10 +454,20 @@ export const standard_schnauzer: Breed = {
         {
           id: "fci-schnauzer-official-standard",
           role: "verified",
-          locator: "ORIGIN: Germany; BRIEF HISTORICAL SUMMARY (Southern Germany)"
+          locator: "COUNTRY OF ORIGIN: Germany; BRIEF HISTORICAL SUMMARY (Southern Germany)"
+        },
+        {
+          id: "fci-schnauzer-nomenclature",
+          role: "verified",
+          locator: "Country of origin: Germany"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Germany"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -467,12 +482,17 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (Wire-Haired Pinscher, 1879 Hanover show), and Roles"
+          locator: "About the Breed, History (Wire-Haired Pinscher, WWI/WWII dispatch and Red Cross service, progenitor of Miniature and Giant)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Synthesized in original prose from FCI Standard No. 182 and AKC official records."
+        "Written in original prose from FCI Standard No. 182, AKC records, and cross-checked against The Dog API."
     },
 
     physical: {
@@ -481,17 +501,17 @@ export const standard_schnauzer: Breed = {
         {
           id: "fci-schnauzer-official-standard",
           role: "verified",
-          locator: "IMPORTANT PROPORTIONS, HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, SIZE AND WEIGHT"
+          locator: "HEAD, EARS, BODY, LIMBS, COAT, COLOUR (pure black with black undercoat; pepper and salt), SIZE AND WEIGHT"
         },
         {
           id: "akc-standard-schnauzer-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Coat, Color, Gait"
+          locator: "General Appearance, Head, Coat, Color (pepper and salt or pure black), Gait"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Conformation, square build, harsh wire coat, beard/eyebrows, and pepper-and-salt/black colors follow official standards."
+        "Strictly limits coatColors to pure black and pepper and salt per both FCI Standard No. 182 and AKC standard; excludes generic non-breed variants from The Dog API (blue, brindle, cream, fawn, liver, merle, pied, red, sable, tricolour, white)."
     },
 
     "physical.height": {
@@ -501,11 +521,21 @@ export const standard_schnauzer: Breed = {
           id: "fci-schnauzer-official-standard",
           role: "verified",
           locator: "SIZE AND WEIGHT: Height at withers: Dogs and bitches 45 to 50 cm."
+        },
+        {
+          id: "akc-standard-schnauzer-breed-standard",
+          role: "cited",
+          locator: "Ideal 18.5-19.5 in males (DQ <18 or >20 in); 17.5-18.5 in females (DQ <17 or >19 in)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: 47-50 cm males, 44-47 cm females"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Preserved in published unit of centimetres (45 to 50 cm) exactly as specified in the official FCI Standard No. 182."
+        "Preserved in exact published centimetres (45 to 50 cm) from FCI Standard No. 182 (country-of-origin standard). AKC specifies sex-differentiated heights in inches and The Dog API lists converted sex-split centimetres."
     },
 
     "physical.weight": {
@@ -514,12 +544,22 @@ export const standard_schnauzer: Breed = {
         {
           id: "fci-schnauzer-official-standard",
           role: "verified",
-          locator: "Weight: Dogs and bitches 14 to 20 kg."
+          locator: "SIZE AND WEIGHT: Weight: Dogs and bitches 14 to 20 kg."
+        },
+        {
+          id: "akc-standard-schnauzer-breed-profile",
+          role: "cited",
+          locator: "Weight: 35-45 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric: 16-23 kg males, 14-20 kg females"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Preserved in published unit of kilograms (14 to 20 kg) exactly as specified in the official FCI Standard No. 182."
+        "Preserved in exact published kilograms (14 to 20 kg) from FCI Standard No. 182. AKC lists 35-45 pounds and The Dog API lists converted 16-23 kg males / 14-20 kg females."
     },
 
     "physical.lifespanYears": {
@@ -531,8 +571,8 @@ export const standard_schnauzer: Breed = {
           locator: "Life Expectancy: 13-16 years"
         }
       ],
-      verifiedOn: "2026-11-17",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Verified from AKC breed profile (The Dog API omitted lifespan)."
     },
 
     "physical.sheddingLevel": {
@@ -541,15 +581,15 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
+          locator: "Breed Traits: Shedding Level (low)"
         },
         {
           id: "fci-schnauzer-official-standard",
           role: "verified",
-          locator: "COAT: Hair: The coat should be wiry, harsh and dense. It consists of a dense undercoat and a not too short top coat, lying close to the body."
+          locator: "COAT: Wiry, harsh, and dense double coat"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -564,11 +604,11 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: Drooling Level (low)"
         }
       ],
-      verifiedOn: "2026-11-17",
-      note: "Tight-fitting, fully pigmented lips prevent drooling."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "temperament.traits": {
@@ -577,15 +617,20 @@ export const standard_schnauzer: Breed = {
         {
           id: "fci-schnauzer-official-standard",
           role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: Typical characteristics are his lively temperament, coupled with deliberate calmness. A good natured, playful character and a proverbial loyalty to his master. Incorruptible watchdog."
+          locator: "BEHAVIOUR/TEMPERAMENT: Lively temperament with deliberate calmness, good-natured, playful, loyal, incorruptible watchdog"
         },
         {
           id: "akc-standard-schnauzer-breed-standard",
           role: "verified",
-          locator: "Temperament: The Standard Schnauzer has highly developed senses, intelligence, aptitude for training, fearlessness, endurance and resistance against weather and illness. His nature combines high-spirited temperament with extreme reliability."
+          locator: "Temperament: highly developed senses, intelligence, aptitude for training, fearlessness, endurance, high-spirited with extreme reliability"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament: Intelligent, alert, energetic, loyal, protective, devoted"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -595,12 +640,12 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented working farm dog temperament, high loyalty, high intelligence, and steadfast guarding instincts."
+        "Editorial 1–5 ratings informed by AKC trait scales and official temperament descriptions."
     },
 
     care: {
@@ -609,12 +654,12 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Exercise, Grooming, Training, and Nutrition guidance"
         }
       ],
       verifiedOn: null,
       note:
-        "Combines active working dog management with intensive wire-coat grooming (hand-stripping) protocols."
+        "Practical working-breed care combining vigorous daily exercise with hand-stripped wire-coat upkeep."
     },
 
     "care.exercise.level": {
@@ -623,7 +668,7 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5)"
+          locator: "Energetic working breed thriving on hikes, agility, barn hunt, herding, and lure coursing"
         },
         {
           id: "fci-schnauzer-official-standard",
@@ -631,7 +676,7 @@ export const standard_schnauzer: Breed = {
           locator: "UTILIZATION: Guard and Companion Dog"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -641,12 +686,12 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "cited",
-          locator: "Daily exercise and canine sports recommendations"
+          locator: "Daily active exercise and dog-sport recommendations"
         }
       ],
       verifiedOn: null,
       note:
-        "Estimated 45 to 60 minutes of daily activity reflects the exercise demands of an intelligent, athletic working farm breed."
+        "Estimated 45 to 60 minutes daily suited to an athletic medium-sized working breed."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -655,10 +700,10 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (4/5); provided ample exercise is given"
+          locator: "Medium indoor companion adaptable to apartments when exercise needs are met"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -668,10 +713,10 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "verified",
-          locator: "Exercise and secure indoor/outdoor supervision recommendations"
+          locator: "Family-oriented companion that thrives indoors with secure yard play"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -681,7 +726,7 @@ export const standard_schnauzer: Breed = {
         {
           id: "fci-schnauzer-official-standard",
           role: "verified",
-          locator: "COAT: Harsh and dense double coat provides protection"
+          locator: "COAT: Harsh, dense double coat"
         },
         {
           id: "akc-standard-schnauzer-breed-standard",
@@ -689,7 +734,7 @@ export const standard_schnauzer: Breed = {
           locator: "Temperament: resistance against weather and illness"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -699,7 +744,7 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Moderate; devoted and deeply loyal family guardian"
+          locator: "Insists on inclusion in family activities; does not do well left alone outdoors"
         }
       ],
       verifiedOn: null,
@@ -712,12 +757,11 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for medium active breeds, portion control"
+          locator: "Nutrition: age-appropriate complete dog food and weight monitoring"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for active medium-sized working breeds."
+      note: null
     },
 
     "nutrition.feedingFrequency": {
@@ -726,49 +770,58 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Life-stage feeding guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-standard-schnauzer-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program requirements: Eye Examination, Hip Dysplasia, DCM DNA Test"
-        },
-        {
           id: "ssca-standard-schnauzer-health",
           role: "verified",
-          locator: "Best Practices: Hips, Eyes, DCM (Dilated Cardiomyopathy) DNA test mandatory"
+          locator: "SSCA Best Practices: required Hips, Eyes, and DCM DNA testing; recommended Elbow, Cardiac, Thyroid"
+        },
+        {
+          id: "omia-schnauzer-dcm-rbm20",
+          role: "verified",
+          locator: "OMIA:002365-9615: RBM20 22-bp deletion causing autosomal recessive DCM in Standard Schnauzers (Leach et al. 2014, 2022; Harmon et al. 2017)"
+        },
+        {
+          id: "akc-standard-schnauzer-breed-profile",
+          role: "verified",
+          locator: "Health: generally very healthy breed per SSCA surveys; DCM DNA test, hips, and eyes"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Synthesizes parent club veterinary health records, genetic mandates (DCM), and national health registry screening protocols."
+        "Combines OMIA molecular genetics data with SSCA Best Practices and AKC Working Group health testing requirements."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "omia-schnauzer-dcm-rbm20",
+          role: "verified",
+          locator: "RBM20-related autosomal recessive Dilated Cardiomyopathy in Standard Schnauzers"
+        },
+        {
           id: "ssca-standard-schnauzer-health",
           role: "verified",
-          locator: "Dilated Cardiomyopathy (DCM), Hip Dysplasia, Eye conditions"
+          locator: "DCM, hip dysplasia, eye disorders, elbow, cardiac, and thyroid screening"
         },
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "verified",
-          locator: "Autoimmune thyroiditis, Follicular dermatitis (Schnauzer comedo syndrome)"
+          locator: "Hip dysplasia, eye disorders, and simple-recessive cardiomyopathy"
         }
       ],
-      verifiedOn: "2026-11-17",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.preventiveCare": {
@@ -777,16 +830,16 @@ export const standard_schnauzer: Breed = {
         {
           id: "ssca-standard-schnauzer-health",
           role: "cited",
-          locator: "Routine care, mandatory genetic DCM testing, joint protection"
+          locator: "Pre-breeding health clearances and never mating two DCM carriers"
         },
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "cited",
-          locator: "Beard cleaning, ear hygiene, and grooming"
+          locator: "Weight management, grooming, and annual veterinary care"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to wire-coated working breeds."
+      note: null
     },
 
     "health.recommendedScreenings": {
@@ -795,17 +848,17 @@ export const standard_schnauzer: Breed = {
         {
           id: "ofa-standard-schnauzer-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: CAER Eye examination, Radiographic Hip Dysplasia evaluation, Dilated Cardiomyopathy DNA Test"
+          locator: "CHIC requirements for Standard Schnauzer (SS): Hip Evaluation, Ophthalmologist Evaluation, DCM DNA Test"
         },
         {
           id: "ssca-standard-schnauzer-health",
           role: "verified",
-          locator: "Mandatory: Hips, Eyes, DCM. Recommended: Elbows, Cardiac Echo, Thyroid."
+          locator: "Required CHIC tests (Hips, Eyes, DCM DNA) plus recommended OFA Elbow, Basic/Advanced Cardiac, Thyroid, and CHIC DNA Repository"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Screenings summarize published parent club and health registry protocols."
+        "Matches SSCA Best Practices and AKC Working Group Health Testing Requirements."
     },
 
     "health.dentalCare": {
@@ -814,11 +867,11 @@ export const standard_schnauzer: Breed = {
         {
           id: "fci-schnauzer-official-standard",
           role: "cited",
-          locator: "Jaws/teeth: Strong upper and lower jaw. Complete scissor bite."
+          locator: "Jaws/teeth: strong jaws and complete scissor bite"
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines."
+      note: null
     },
 
     "health.earCare": {
@@ -827,16 +880,16 @@ export const standard_schnauzer: Breed = {
         {
           id: "fci-schnauzer-official-standard",
           role: "cited",
-          locator: "Ears: Drop ears, set high, V-shaped, inner edges lying close to cheeks."
+          locator: "Ears: high-set V-shaped drop ears"
         },
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and weekly inspection"
+          locator: "Weekly ear checks and cleaning"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for drop ears."
+      note: null
     },
 
     "health.skinCare": {
@@ -845,11 +898,11 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "cited",
-          locator: "Wire coat hand-stripping, comedo syndrome awareness, and beard cleaning"
+          locator: "Wire-coat hand-stripping and skin maintenance"
         }
       ],
       verifiedOn: null,
-      note: "General skin, facial beard, and harsh wire-coat care guidelines."
+      note: null
     },
 
     suitability: {
@@ -858,12 +911,12 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Temperament, exercise, grooming, and family-compatibility profile"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, high intelligence, grooming demands, and watchdog instincts."
+        "Editorial suitability summary reflecting high activity needs, wire-coat upkeep, and strong-willed watchdog temperament."
     },
 
     funFacts: {
@@ -872,11 +925,16 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "verified",
-          locator: "Original Schnauzer, 1879 Hanover show, 'Schnauze' translation, WWI/WWII dispatch and Red Cross history, progenitor of Miniature/Giant"
+          locator: "Prototype of Schnauzer family, Wire-Haired Pinscher history, 'Schnauze' etymology, WWI/WWII dispatch and Red Cross work"
+        },
+        {
+          id: "akc-standard-schnauzer-breed-standard",
+          role: "verified",
+          locator: "Color: pepper and salt banded hairs"
         }
       ],
-      verifiedOn: "2026-11-17",
-      note: "Verified historical folklore and foundation facts."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     faq: {
@@ -890,19 +948,19 @@ export const standard_schnauzer: Breed = {
         {
           id: "akc-standard-schnauzer-breed-profile",
           role: "verified",
-          locator: "Lifespan (13-16 years), apartment living, watchdog ability, child suitability, and grooming (hand-stripping)"
+          locator: "Lifespan (13-16 years), apartment living, temperament, and grooming"
         },
         {
           id: "ssca-standard-schnauzer-health",
           role: "verified",
-          locator: "Main health concerns (DCM, Hips) and recommended health screening panel"
+          locator: "DCM DNA test, hip dysplasia, eye exams, and optional screenings"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and veterinary data without naming registries in prose."
+        "Synthesized in original wording without naming registries or source organizations."
     }
   },
 
-  updatedOn: "2026-11-17"
+  updatedOn: "2026-11-26"
 };

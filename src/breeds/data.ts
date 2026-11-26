@@ -275,6 +275,9 @@ import { miniature_pinscher } from "./miniature_pinscher";
 import { ariege_pointer } from "./ariege_pointer";
 import { munsterlander_small } from "./munsterlander_small";
 import { american_foxhound } from "./american_foxhound";
+import { chesapeake_bay_retriever } from "./chesapeake_bay_retriever";
+import { dutch_shepherd_dog } from "./dutch_shepherd_dog";
+import { norwegian_lundehund } from "./norwegian_lundehund";
 
 
 export const breedData: readonly Breed[] = [
@@ -549,4 +552,7 @@ export const breedData: readonly Breed[] = [
   ariege_pointer,
   munsterlander_small,
   american_foxhound,
+  chesapeake_bay_retriever,
+  dutch_shepherd_dog,
+  norwegian_lundehund,
 ];

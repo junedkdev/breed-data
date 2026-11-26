@@ -196,12 +196,12 @@
 193:pekingese - CG
 194:affenpinscher - CG
 195:dachshund - CG
+196:standard_schnauzer - CG
+197:boston_terrier - CG
+198:saarlooswolfhond - CG
 
-196:standard_schnauzer - CR
+199:welsh_springer_spaniel - CR
 
-197:boston_terrier - C
-198:saarlooswolfhond - C
-199:welsh_springer_spaniel - C
 200:french_spaniel - C
 201:lakeland_terrier - C
 202:portuguese_pointer - C
@@ -273,12 +273,12 @@
 268:ariege_pointer - C
 269:munsterlander,_small - C
 270:american_foxhound - C
+271:chesapeake_bay_retriever - C
+272:dutch_shepherd_dog - C
+273:norwegian_lundehund - C
 
-271:chesapeake_bay_retriever - R
+274:chien_francais_blanc_et_orange - R
 
-272:dutch_shepherd_dog
-273:norwegian_lundehund
-274:chien_francais_blanc_et_orange
 275:polish_tatra_sheepdog
 276:german_wirehaired_pointer
 277:labrador_retriever

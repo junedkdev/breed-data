@@ -8,16 +8,16 @@ export const boston_terrier: Breed = {
   alternateNames: [
     "Boston Bull",
     "Boston Bull Terrier",
-    "Boxwood"
+    "Roundhead",
+    "American Gentleman"
   ],
 
-  group:
-    "Companion and Toy Dogs; Section 11 — Small Molossian type Dogs (without working trial; also classified in the Non-Sporting group)",
+  group: "Companion and small molossian-type dogs",
 
   origin: {
     country: "United States",
     region:
-      "Boston, Massachusetts (developed from English Bulldog and White English Terrier crosses)"
+      "Boston and Southborough, Massachusetts"
   },
 
   images: [
@@ -27,7 +27,7 @@ export const boston_terrier: Breed = {
         "https://commons.wikimedia.org/wiki/File:Boston_Terrier_DSC_0004_(16399046489).jpg",
       title: "Boston Terrier DSC 0004 (16399046489).jpg",
       description:
-        "A Boston Terrier standing indoors, clearly displaying its distinctive tuxedo-like markings and erect ears.",
+        "A standing Boston Terrier indoors displaying its crisp white tuxedo markings, short smooth coat, and erect ears.",
       creator: "Pets Adviser",
       uploader: "Томасина",
       capturedOn: "2015-02-16",
@@ -36,9 +36,10 @@ export const boston_terrier: Breed = {
       height: 2000,
       licenseId: "cc-by-2.0",
       attribution:
-        "Photo by Pets Adviser, Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Boston_Terrier_DSC_0004_(16399046489).jpg. License: https://creativecommons.org/licenses/by/2.0/. Changes, if any, must be indicated; adaptations must comply with the applicable share-alike terms.",
-      restrictions: null,
-      metadataCheckedOn: "2026-11-17"
+        "Photo by Pets Adviser (https://www.petsadviser.com/), via Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Boston_Terrier_DSC_0004_(16399046489).jpg. License: https://creativecommons.org/licenses/by/2.0/. Changes, if any, must be indicated.",
+      restrictions:
+        "Author requests direct attribution link to https://www.petsadviser.com/ rather than Flickr.",
+      metadataCheckedOn: "2026-11-26"
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Boston_Terrier_Dog_002.jpg",
@@ -46,7 +47,7 @@ export const boston_terrier: Breed = {
         "https://commons.wikimedia.org/wiki/File:Boston_Terrier_Dog_002.jpg",
       title: "Boston Terrier Dog 002.jpg",
       description:
-        "An adult Boston Terrier outdoors at the beach, highlighting the sturdy, short-backed build and broad, flat skull.",
+        "An adult Boston Terrier photographed outdoors on a beach, showing its compact, square frame and wide-set dark eyes.",
       creator: "Ed Siasoco",
       uploader: "Flickr upload bot",
       capturedOn: "2007-06-24",
@@ -57,28 +58,28 @@ export const boston_terrier: Breed = {
       attribution:
         "Photo by Ed Siasoco, Wikimedia Commons, CC BY 2.0. Source: https://commons.wikimedia.org/wiki/File:Boston_Terrier_Dog_002.jpg. License: https://creativecommons.org/licenses/by/2.0/.",
       restrictions: null,
-      metadataCheckedOn: "2026-11-17"
+      metadataCheckedOn: "2026-11-26"
     }
   ],
 
   overview: {
     summary:
-      "A lively, highly intelligent, and sturdy American companion dog famously known as 'The American Gentleman' for its impeccable tuxedo-like markings and excellent disposition.",
+      "A compact, lively, and well-mannered American companion dog nicknamed 'The American Gentleman' for its tuxedo-like white markings, bright round eyes, and friendly spirit.",
 
     description:
-      "The Boston Terrier is a compact, short-tailed, and well-balanced dog combining agility, intelligence, and a sturdy, square-proportioned frame. It is most heavily characterized by its striking 'tuxedo' markings—a crisp white chest, muzzle band, and facial blaze set against a smooth brindle, seal, or black coat. The head is distinctively square and flat on top, free of wrinkles, with a short, wide muzzle that gives the face a slightly flat (brachycephalic) profile. Large, round, dark eyes are set widely apart, conveying a remarkably expressive, kind, and alert intelligence. The body is short-backed and square, supported by strong, straight limbs that allow for a graceful, rhythmic, and powerful stride. With its lively, eager-to-please nature and highly sociable personality, the Boston Terrier thrives as a loving, entertaining indoor companion.",
+      "The Boston Terrier is a short-backed, squarely proportioned small dog that feels sturdy and athletic without looking heavy or coarse. Its sleek, close-lying coat comes in brindle, seal, or black accented by crisp white markings across the muzzle, between the eyes, and down the chest. A flat, square skull free of heavy wrinkles pairs with a short, broad muzzle, small upright ears, and wide-set dark round eyes that radiate curiosity and warmth. Moving with a crisp, rhythmic step, this intelligent, people-loving breed adapts easily to city apartments or suburban homes and delights its family with playful humor.",
 
     history:
-      "The Boston Terrier is a truly American breed, developed in the late nineteenth century in Boston, Massachusetts. Its lineage traces back to crosses between the English Bulldog and the now-extinct White English Terrier, a combination originally intended for fierce pit-fighting and ratting. A pivotal ancestor named 'Hooper's Judge,' imported to Boston in 1865, is widely considered the patriarch of the breed. As the dogs were selectively bred for smaller size and a gentler, more refined disposition, they rapidly transformed from tough fighters into affectionate companions. By the early twentieth century, they became immensely popular across the United States, earning the nickname 'The American Gentleman' due to their dapper markings and excellent manners. The breed was officially recognized in 1893, making it the first American breed to achieve such status, and it remains a proud symbol of American canine history today.",
+      "Developed in Massachusetts during the late nineteenth century, the Boston Terrier traces back to crosses between the English Bulldog and the now-extinct White English Terrier. Around 1870, Robert C. Hooper of Boston acquired a muscular crossbred dog named Judge—widely regarded as the breed's founding patriarch. Through selective matings in Southborough and Boston's Beacon Hill neighborhood, enthusiasts gradually downsized the dogs and softened their temperament into refined, sociable companions. Early fans nicknamed them 'Roundheads' or 'Boston Bulls' before settling on 'Boston Terrier' after their home city, earning official national recognition in 1893 as one of the earliest breeds created in the United States.",
 
     originalPurpose:
-      "Originally developed from pit-fighting ancestors, but very quickly refined to serve exclusively as a devoted household companion and lap dog.",
+      "Bred down from bulldog-and-terrier crosses to serve as a gentle, compact household companion.",
 
     currentRoles: [
-      "Devoted household companion",
-      "Therapy and emotional support dog",
-      "Canine athlete in agility, obedience, and rally (in temperature-controlled settings)",
-      "Vigilant home alarm dog"
+      "Affectionate, humorous household companion",
+      "Therapy and emotional support partner",
+      "Participant in indoor-friendly agility, rally, and obedience sports",
+      "Alert home greeter and companion"
     ]
   },
 
@@ -115,48 +116,44 @@ export const boston_terrier: Breed = {
     },
 
     coatType:
-      "Short, smooth, bright, and fine in texture, lying close to the body and shedding very little.",
+      "Short, smooth, glossy, and fine-textured single coat lying close to the skin.",
 
     coatLength: "Short",
 
     coatColors: [
       "Brindle with white markings",
-      "Seal (appears black but casts a red reflection in bright light) with white markings",
+      "Seal (black that shows a reddish tint in bright sunlight) with white markings",
       "Black with white markings",
-      "Required white markings include a white muzzle band, a white blaze between the eyes, and a white forechest"
+      "Characteristic white markings include a white muzzle band, a white blaze between the eyes, and a white forechest"
     ],
 
     sheddingLevel:
-      "Low; the short, fine coat sheds minimally and requires very little maintenance",
+      "Low; the short, fine coat sheds lightly and stays neat with minimal brushing",
 
     droolingLevel:
-      "Low; the chops are of good depth but completely cover the teeth without being pendulous, preventing excessive drooling",
+      "Low; well-fitted lips cover the teeth cleanly without hanging loosely",
 
     distinctiveFeatures: [
-      "Compact, squarely built frame that appears neither spindly nor coarse, balancing bone and muscle beautifully",
-      "Height typically ranges from 15 to 17 inches at the withers",
-      "Weight is strictly divided into classes: under 15 pounds, 15 to 20 pounds, and 20 to a maximum of 25 pounds",
-      "Square, flat skull free of wrinkles, with a well-defined stop and abrupt brow",
-      "Short, square, wide, and deep muzzle that is parallel to the top of the skull",
-      "Broad, square jaws with a bite that is either even or sufficiently undershot to square the muzzle",
-      "Large, round, dark eyes set wide apart, looking directly forward",
-      "Small, erect ears situated as near to the corners of the skull as possible (can be natural or cropped)",
-      "Deep chest with well-sprung ribs carried well back to a short loin",
-      "Low-set, short, fine, and tapering tail that is either straight or screw-shaped, never carried above the horizontal",
-      "Small, round, compact feet with well-arched toes"
+      "Compact, square silhouette balancing sturdy bone and lean muscle, standing roughly 15 to 17 inches tall",
+      "Weight grouped into three divisions capped at 25 pounds: under 15 pounds, 15 to under 20 pounds, and 20 to 25 pounds (typically 12 to 25 pounds)",
+      "Square, flat-topped skull free of heavy wrinkles with a sharp stop and short, broad, square muzzle",
+      "Broad jaws with an even or mildly undershot bite and non-pendulous lips",
+      "Large, round, dark eyes set far apart and looking straight ahead",
+      "Small, upright ears positioned near the outer corners of the skull (natural or cropped)",
+      "Short, fine, low-set tail—either straight or screw-shaped—carried below the level of the back",
+      "Small, round, tight paws with well-arched toes"
     ]
   },
 
   temperament: {
     traits: [
-      "Friendly, lively, and highly intelligent",
-      "Deeply affectionate and devoted to its human family",
-      "Alert and watchful, making an excellent but non-aggressive alarm barker",
-      "Highly sociable with strangers, often welcoming guests with enthusiasm",
-      "Playful and comical, possessing a spirited sense of humor",
-      "Adaptable and even-tempered in domestic settings",
-      "Can occasionally be stubborn during training if bored or unmotivated",
-      "Highly sensitive to the tone of its handler's voice and corrections"
+      "Friendly, bright, and genuinely amusing in everyday life",
+      "Warmly affectionate and eager to stay close to its family",
+      "Sociable and welcoming toward guests and children when properly socialized",
+      "Watchful enough to notice visitors without excessive, nonstop barking",
+      "Playful and upbeat, enjoying brisk walks and indoor games",
+      "Quick to learn yet sensitive to harsh tones or scolding",
+      "Occasionally willful if bored by repetitive drills"
     ],
 
     scores: {
@@ -175,7 +172,7 @@ export const boston_terrier: Breed = {
   care: {
     exercise: {
       level:
-        "Moderate; requires daily activity to stay fit, but extreme endurance or strenuous running must be avoided due to the breed's brachycephalic (flat-faced) anatomy and sensitivity to heat",
+        "Moderate; lively and playful day to day, but strenuous running and hot-weather exertion must be limited because of its flat-faced airway structure",
 
       minutesPerDay: {
         min: 30,
@@ -183,11 +180,11 @@ export const boston_terrier: Breed = {
       },
 
       activities: [
-        "Daily brisk neighborhood walks in cool or temperate weather",
-        "Interactive indoor games such as fetch or gentle tug",
-        "Basic obedience exercises and trick training for mental enrichment",
-        "Supervised free play in a safely enclosed, shaded yard",
-        "Canine sports like agility in indoor, climate-controlled environments"
+        "Brisk daily walks during cool morning or evening hours",
+        "Indoor fetch, tug, and puzzle toys",
+        "Short obedience and trick-training sessions",
+        "Supervised yard play in shaded, mild weather",
+        "Indoor, climate-controlled agility or rally classes"
       ]
     },
 
@@ -195,33 +192,33 @@ export const boston_terrier: Breed = {
       level: "Low",
 
       brushing:
-        "Brush once a week using a soft bristle brush or a rubber hound glove to remove loose dead hairs and massage skin oils, keeping the coat bright and shiny.",
+        "Go over the coat once a week with a soft bristle brush or rubber grooming mitt to lift loose hair and spread natural skin oils.",
 
       bathing:
-        "Bathe only occasionally when visibly soiled, using a gentle canine shampoo to protect the sensitive skin.",
+        "Bathe only when dirty using a mild canine shampoo.",
 
       notes: [
-        "The large, prominent eyes are highly vulnerable to dust and scratches; check them daily for signs of redness or irritation.",
-        "Wipe the slight facial wrinkles around the muzzle gently with a damp cloth to prevent moisture buildup.",
-        "Inspect the small erect ears weekly for dirt or wax.",
-        "Trim fast-growing nails every two weeks to support correct foot alignment.",
-        "Brush teeth several times weekly with canine enzymatic toothpaste."
+        "Check the large, prominent eyes every day for redness, tearing, or trapped dust; seek prompt veterinary care for any squinting or scratch.",
+        "Wipe around the muzzle and any shallow skin folds with a damp cloth and dry gently.",
+        "Inspect the upright ears weekly for wax or debris.",
+        "Trim nails every two to three weeks so overgrown claws do not affect gait.",
+        "Brush teeth several times a week with canine enzymatic toothpaste."
       ]
     },
 
     training: {
       difficulty:
-        "Easy to moderate; highly intelligent and eager to please, but can display a stubborn streak if training becomes repetitive or overly harsh",
+        "Easy to moderate; smart and eager to please, responding best to cheerful, reward-based teaching",
 
       tips: [
-        "Use positive reinforcement, praise, and highly motivating treats.",
-        "Because they are exceptionally sensitive to their owner's tone of voice, harsh verbal reprimands will cause them to shut down and refuse to cooperate.",
-        "Keep training sessions brief, fun, and varied to maintain their focus and enthusiasm.",
-        "Use a well-fitted body harness rather than a neck collar to avoid pressure on the trachea and eyes during walks."
+        "Use upbeat praise, small treats, and play rewards; harsh words quickly make this sensitive breed shut down.",
+        "Keep lessons brief and varied to hold its lively attention.",
+        "Walk on a comfortable chest harness instead of a neck collar to protect the windpipe and prominent eyes.",
+        "Build calm greeting habits early so exuberant jumping stays under control."
       ],
 
       socialization:
-        "Introduce the puppy early to varied people, children, other dogs, and urban environments. Their naturally friendly disposition blossoms with proper early exposure, ensuring a confident, outgoing adult."
+        "Introduce puppies early to varied people, gentle children, friendly dogs, and busy street sights so their naturally outgoing personality matures into confident, polite manners."
     },
 
     livingEnvironment: {
@@ -230,80 +227,79 @@ export const boston_terrier: Breed = {
 
       climates: [
         "Temperate climates",
-        "Highly sensitive to heat and humidity due to its shortened muzzle; requires air conditioning and severely restricted outdoor time in summer",
-        "Sensitive to extreme cold due to the short single coat; requires a sweater or jacket during winter walks"
+        "Sensitive to heat and humidity due to its short muzzle; air-conditioned indoor living and strict limits on summer midday activity are essential",
+        "Chills quickly in cold winter weather due to its thin single coat; use a fitted sweater or coat for chilly walks"
       ],
 
       aloneTimeTolerance:
-        "Low to moderate; bred specifically for human companionship, they form deep bonds and can experience separation anxiety or destructive chewing if left isolated for excessive periods."
+        "Low to moderate; deeply people-oriented and happiest in homes where it is not left isolated for long workdays."
     }
   },
 
   nutrition: {
     dietType:
-      "High-quality complete and balanced dog food formulated for small to medium breeds, closely portion-controlled to prevent obesity.",
+      "Complete, balanced dog food formulated for small-to-medium breeds, measured carefully to maintain a lean, athletic weight.",
 
     feedingFrequency: {
       puppy:
         "Three to four measured small meals daily until six months of age.",
       adult:
-        "Two measured meals daily to support steady digestion and energy.",
+        "Two measured meals daily for steady digestion and energy.",
       senior:
-        "Two portion-controlled meals daily adapted for lower metabolic output."
+        "Two controlled meals daily tailored to slower metabolism."
     },
 
     guidelines:
-      "Measure daily rations strictly using a digital kitchen scale or standard measuring cup. Obesity is a serious risk that exacerbates breathing difficulties and joint strain. Provide cool, clean drinking water continuously.",
+      "Measure every meal with a kitchen scale or measuring cup rather than leaving food out all day. Extra weight quickly worsens breathing effort and knee stress. Wide, shallow bowls make eating comfortable for a short muzzle, and cool fresh water should stay available continuously.",
 
     considerations: [
-      "Maintain a strictly lean, well-muscled body condition; you should easily feel the ribs without pressing hard.",
-      "Account for all training treats within the total daily caloric allowance.",
-      "Ensure fresh water is always available, particularly in warm environments, as flat-faced breeds pant very inefficiently.",
-      "Use shallow food bowls to accommodate the flat brachycephalic muzzle."
+      "Keep ribs easy to feel beneath a light coat with a visible waist.",
+      "Count training treats within the daily calorie budget.",
+      "Keep cool water handy during walks and warm weather when panting is less efficient.",
+      "Transition foods gradually over five to seven days to avoid stomach upset."
     ],
 
     note:
-      "Caloric needs vary significantly based on age, metabolism, and daily activity. Consult a veterinarian to establish strictly tailored daily feeding guidelines."
+      "Check with a veterinarian to set exact daily portions based on age, weight class, and activity level."
   },
 
   health: {
     overview:
-      "The Boston Terrier is a relatively robust companion breed with a typical lifespan of 11 to 13 years. Due to its brachycephalic (flat-faced) structure and prominent eyes, it is predisposed to specific anatomical health challenges. Primary health priorities focus on protecting the highly vulnerable eyes, managing respiratory function, and screening for hereditary conditions such as deafness, patellar luxation, and juvenile cataracts.",
+      "Boston Terriers generally live 11 to 13 years and are sturdy companions overall, though their short-muzzled skull, large prominent eyes, and compact build bring specific health risks. Key priorities include protecting the eyes from corneal ulcers, screening breeding stock for patellar luxation, congenital deafness, and cataracts (including the autosomal recessive HSF4 juvenile cataract mutation), and preventing overheating.",
 
     commonConditions: [
-      "Brachycephalic Airway Obstructive Syndrome (BOAS) — anatomical abnormalities (elongated soft palate, stenotic nares) causing restricted airflow, noisy breathing, and severe heat intolerance",
-      "Corneal ulcers and eye injuries — the large, prominent eyes are highly vulnerable to scratches from tall grass, dust, or rough play",
-      "Early-onset hereditary juvenile cataracts (HSF4 mutation) — a genetic condition causing lens opacity and vision loss in young dogs, completely screenable via DNA testing",
-      "Patellar luxation — intermittent displacement of the kneecap from the femoral groove, causing a 'skipping' gait and potential arthritis",
-      "Congenital sensorineural deafness — pigment-associated deafness verifiable in puppies through BAER testing",
-      "Hemivertebrae — malformed bones in the spine (common in screw-tailed breeds) that can occasionally cause neurological issues",
-      "Allergies and sensitive skin — environmental or food allergies leading to itchy skin or hot spots"
+      "Brachycephalic Obstructive Airway Syndrome (BOAS) — shortened facial anatomy and narrowed nostrils can restrict airflow and increase heat intolerance; prospective respiratory-grading research shows Boston Terriers have lower severe BOAS rates than Bulldogs or French Bulldogs (roughly 37.5% clinically unaffected Grade 0 and under 1% severe Grade 3), though dogs with pinched nostrils and flatter faces face significantly higher risk",
+      "Corneal ulcers and eye injuries — wide-set, prominent eyes are easily scratched by dust, brush, or rough play and require prompt veterinary attention",
+      "Hereditary cataracts (early-onset HSF4 and late-onset forms) — scientifically established autosomal recessive HSF4 mutation causes progressive bilateral juvenile cataracts in young Boston Terriers (screenable via DNA test), while genetically distinct late-onset cataracts are monitored via routine specialist eye exams",
+      "Patellar luxation — intermittent slipping of the kneecap out of its groove, screened clinically before breeding",
+      "Congenital sensorineural deafness — hereditary deafness screened in puppies and breeding dogs via BAER hearing testing",
+      "Hemivertebrae — wedge-shaped spinal vertebrae sometimes seen in screw-tailed breeds, occasionally causing spinal compression",
+      "Skin allergies — environmental or dietary sensitivities that can cause itching or redness"
     ],
 
     preventiveCare: [
-      "Strictly avoid exposing the dog to extreme heat or humidity to prevent fatal respiratory distress (heatstroke).",
-      "Confirm that breeding stock has certified clinical clearances for patellas, specialist eye exams, BAER hearing tests, and HSF4 DNA clearances.",
-      "Use a well-fitted body harness rather than a neck collar to prevent pressure on the fragile trachea and prominent eyes.",
-      "Protect the prominent eyes from injury by avoiding thorny brush and monitoring interactions with cats or other dogs.",
-      "Maintain a lean weight to minimize mechanical stress on the knees and spine.",
-      "Schedule annual veterinary wellness examinations, vaccinations, and routine health checks."
+      "Verify that breeding parents have completed patella, specialist eye, and BAER hearing evaluations, plus HSF4 juvenile cataract DNA testing.",
+      "Keep the dog cool in air conditioning during hot, humid weather and avoid midday outdoor exertion.",
+      "Use a snug chest harness rather than a neck collar to keep pressure off the trachea and eyes.",
+      "Check the eyes daily for redness or discharge, keep thorny plants out of reach, and maintain a lean body weight.",
+      "Schedule yearly veterinary wellness visits and dental checkups."
     ],
 
     recommendedScreenings: [
-      "Annual ophthalmic examination by a board-certified veterinary ophthalmologist (CAER)",
       "Clinical patellar luxation orthopedic evaluation by a veterinarian",
+      "Ophthalmic examination by a board-certified veterinary ophthalmologist",
       "Brainstem Auditory Evoked Response (BAER) hearing evaluation",
-      "DNA marker test for Early-onset Hereditary Juvenile Cataracts (HSF4 gene)"
+      "DNA test for early-onset hereditary juvenile cataracts (HSF4 mutation)"
     ],
 
     dentalCare:
-      "Brush teeth several times weekly using canine enzymatic toothpaste. The breed has a broad, undershot jaw; periodic veterinary dental assessments are necessary to preserve gum health.",
+      "Brush teeth several times weekly with canine enzymatic toothpaste and arrange routine veterinary dental cleanings to keep the short, broad jaw healthy.",
 
     earCare:
-      "Inspect the small erect ears weekly for dust, wax accumulation, or redness. Clean gently using a veterinarian-recommended ear solution.",
+      "Inspect the small upright ears weekly for dust, wax, or irritation, wiping gently with a veterinarian-approved ear cleanser.",
 
     skinCare:
-      "The short coat requires minimal care, but the facial wrinkles must be wiped clean and thoroughly dried regularly to prevent bacterial fold infections."
+      "Brush weekly with a soft mitt to keep the sleek coat healthy, and gently wipe and dry any shallow facial creases."
   },
 
   suitability: {
@@ -314,88 +310,99 @@ export const boston_terrier: Breed = {
     apartmentLiving: true,
 
     idealFor: [
-      "First-time dog owners, seniors, and families seeking a highly affectionate, entertaining indoor companion",
-      "Apartment or condominium dwellers looking for an excellent, adaptable pet with moderate exercise needs",
-      "Individuals who appreciate a dog with a lively sense of humor and a deep desire to be close to its owners",
-      "Homes where the dog can be kept in a climate-controlled, air-conditioned environment during the summer"
+      "First-time owners, families, and older adults wanting a cheerful, affectionate indoor companion",
+      "Apartment and city residents looking for a compact, low-shedding, adaptable dog",
+      "Households that enjoy a playful, people-focused pet with moderate daily walking needs",
+      "Climate-controlled homes that can protect a flat-faced dog from summer heat and winter chill"
     ],
 
     notIdealFor: [
-      "Highly active individuals seeking a long-distance jogging, hiking, or strenuous outdoor sporting partner",
-      "Owners who leave a dog home alone in isolation for long workdays",
-      "Individuals living in un-air-conditioned homes in extremely hot, humid climates",
-      "People looking for an outdoor-only dog or a fierce guard dog"
+      "Distance runners or rugged trail hikers seeking a hot-weather endurance partner",
+      "Homes where the dog would be left alone for long stretches every day",
+      "Hot, humid homes without dependable air conditioning",
+      "People wanting an outdoor-only dog or a heavy-duty guard dog"
     ]
   },
 
   funFacts: [
-    "The Boston Terrier was officially recognized in 1893, making it the very first breed developed entirely in the United States to earn official registry recognition.",
-    "Because of their impeccable tuxedo-like markings and famously excellent manners, the breed earned the enduring nickname 'The American Gentleman'.",
-    "Helen Keller, famed American author and disability rights advocate, was a devoted owner of a Boston Terrier named 'Phiz', gifted to her by her classmates.",
-    "The breed serves as the official mascot of Boston University (a Boston Terrier named Rhett) and Wofford College in South Carolina.",
-    "In 1979, the state legislature officially named the Boston Terrier the state dog of Massachusetts."
+    "Officially recognized in 1893, the Boston Terrier was among the very first dog breeds developed entirely in the United States.",
+    "Its neat white-on-dark coat markings and polite, friendly temperament earned it the lasting nickname 'The American Gentleman'.",
+    "Author and activist Helen Keller owned a devoted Boston Terrier named Sir Thomas—affectionately called 'Phiz'—who accompanied her during her college years.",
+    "Boston University adopted the breed as its school mascot nearly a century ago.",
+    "Massachusetts designated the Boston Terrier as its official state dog."
   ],
 
   faq: [
     {
-      question: "What is a Boston Terrier?",
+      question: "What kind of dog is a Boston Terrier?",
       answer:
-        "The Boston Terrier is a compact, highly intelligent, and affectionate American companion breed, famous for its tuxedo-like markings, flat face, and lively, even-tempered disposition."
+        "The Boston Terrier is a compact, smooth-coated American companion breed famous for its tuxedo-like white markings, large expressive eyes, and friendly, lively manners."
     },
     {
       question: "How tall and heavy is a Boston Terrier?",
       answer:
-        "They typically stand 15 to 17 inches tall at the withers. Their weight is strictly classified in categories up to 25 pounds, generally ranging between 12 and 25 pounds in lean condition."
+        "Adults typically stand 15 to 17 inches tall at the shoulder and weigh 12 to 25 pounds, divided into three classes capped at 25 pounds."
     },
     {
       question: "How long does a Boston Terrier live?",
       answer:
-        "With strict weight management, heat avoidance, and preventive veterinary care, the breed typically enjoys a healthy lifespan of 11 to 13 years."
+        "With lean feeding, climate protection, and regular veterinary care, a Boston Terrier typically lives 11 to 13 years."
     },
     {
-      question: "Do Boston Terriers shed a lot, and how are they groomed?",
+      question: "Do Boston Terriers shed much, and how are they groomed?",
       answer:
-        "They are low shedders. Their short, smooth coat requires very little maintenance—usually just a weekly brushing with a hound glove and occasional baths. However, their facial wrinkles should be wiped clean regularly."
+        "They shed lightly. Weekly brushing with a soft brush or rubber mitt and occasional baths keep the sleek coat clean, paired with daily eye checks."
     },
     {
-      question: "Can a Boston Terrier live in an apartment?",
+      question: "Are Boston Terriers good apartment dogs?",
       answer:
-        "Yes, they make exceptional apartment dogs. Their moderate exercise needs, compact size, and adaptable nature make them perfectly suited for urban living, provided the home is air-conditioned."
+        "Yes. Their compact size, moderate exercise needs, and quiet, sociable nature suit apartments well, as long as air conditioning keeps them cool in summer."
     },
     {
       question: "Are Boston Terriers good with children?",
       answer:
-        "Yes, they are exceptionally good with children. They are sturdy, playful, and affectionate, making them wonderful family companions when raised together with respectful children."
+        "Yes. They are sturdy, patient, and playful with respectful children, making them popular family pets."
     },
     {
-      question: "Are Boston Terriers hard to train?",
+      question: "Are Boston Terriers easy to train?",
       answer:
-        "They are highly intelligent and eager to please, making them relatively easy to train. However, they can be sensitive to harsh tones, so positive reinforcement and praise are essential for success."
+        "Generally yes. They are bright and eager to please, learning best through short, upbeat sessions with praise and treats rather than harsh scolding."
     },
     {
-      question: "What are the main health concerns for a Boston Terrier?",
+      question: "What health problems are most common in Boston Terriers?",
       answer:
-        "Primary health concerns relate to their flat (brachycephalic) faces, which cause breathing difficulties and extreme heat intolerance. They are also prone to eye injuries, slipping kneecaps (patellar luxation), deafness, and juvenile cataracts."
+        "Key concerns include breathing sensitivity and overheating from their short muzzle (BOAS), corneal ulcers and cataracts (including early-onset HSF4 juvenile cataracts), patellar luxation, and congenital deafness."
     }
   ],
 
   references: [
+    "natureserve-canis-lupus-familiaris",
     "fci-boston-terrier-official-standard",
     "fci-boston-terrier-nomenclature",
     "akc-boston-terrier-breed-standard",
     "akc-boston-terrier-breed-profile",
     "ofa-boston-terrier-chic-requirements",
+    "omia-boston-terrier-hsf4-cataract",
+    "pmc-boston-terrier-boas-2024",
+    "pmc-boston-terrier-ced-2021",
+    "the-dog-api",
     "wikimedia-boston-terrier-dsc-0004",
     "wikimedia-boston-terrier-dog-002"
   ],
 
   evidence: {
     scientificName: {
-      reliability: "unverified",
-      sources: [],
-      verifiedOn: null,
+      reliability: "reliable_source",
+      sources: [
+        {
+          id: "natureserve-canis-lupus-familiaris",
+          role: "verified",
+          locator: "Taxonomic listing: Canis lupus familiaris (Domestic Dog)"
+        }
+      ],
+      verifiedOn: "2026-11-26",
       note:
-        "Canis lupus familiaris is used as the standard domestic-dog taxonomic label across the catalog; it is not stated in breed standards."
+        "Canis lupus familiaris is the verified domestic-dog taxonomic label used across the catalog."
     },
 
     alternateNames: {
@@ -404,11 +411,16 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "History: Boston Bull, Boston Bull Terrier, Boxwood"
+          locator: "History: Boston Bull, Boston Bull Terrier, Roundhead, American Gentleman"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.alt_names: American Gentleman"
         }
       ],
-      verifiedOn: "2026-11-17",
-      note: "Verified across AKC profile."
+      verifiedOn: "2026-11-26",
+      note: "Cross-checked across AKC breed profile and The Dog API."
     },
 
     group: {
@@ -417,17 +429,22 @@ export const boston_terrier: Breed = {
         {
           id: "fci-boston-terrier-official-standard",
           role: "verified",
-          locator: "FCI Classification: Group 9 Companion and Toy Dogs; Section 11 Small Molossian type Dogs; Without working trial"
+          locator: "CLASSIFICATION FCI: Group 9 Companion and Toy Dogs; Section 11 Small Molossian type Dogs; Without working trial"
         },
         {
           id: "akc-boston-terrier-breed-standard",
           role: "verified",
           locator: "Non-Sporting Group"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.breed_group: Non-Sporting"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "User-facing group classification formulated without prohibited registry names per Rule 5."
+        "User-facing group label states Companion and small molossian-type dogs without registry or section identifiers."
     },
 
     origin: {
@@ -436,10 +453,20 @@ export const boston_terrier: Breed = {
         {
           id: "fci-boston-terrier-official-standard",
           role: "verified",
-          locator: "ORIGIN: U.S.A.; BRIEF HISTORICAL SUMMARY"
+          locator: "ORIGIN: U.S.A."
+        },
+        {
+          id: "akc-boston-terrier-breed-profile",
+          role: "verified",
+          locator: "History: Boston and Southborough, Massachusetts"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.origin: Boston, Massachusetts, United States"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -449,17 +476,22 @@ export const boston_terrier: Breed = {
         {
           id: "fci-boston-terrier-official-standard",
           role: "verified",
-          locator: "UTILIZATION, BRIEF HISTORICAL SUMMARY, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
+          locator: "UTILIZATION, GENERAL APPEARANCE, BEHAVIOUR/TEMPERAMENT"
         },
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "About the Breed, History (Hooper's Judge, English Bulldog x White English Terrier), and Roles"
+          locator: "About the Breed and History (Hooper's Judge around 1870, English Bulldog x White English Terrier, 1893 recognition)"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.description and breed.history"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Synthesized in original prose from FCI Standard No. 140 and AKC official records."
+        "Written in original prose from FCI Standard No. 140, AKC official records, and cross-checked against The Dog API."
     },
 
     physical: {
@@ -468,17 +500,17 @@ export const boston_terrier: Breed = {
         {
           id: "fci-boston-terrier-official-standard",
           role: "verified",
-          locator: "HEAD, BODY, TAIL, LIMBS, COAT, COLOUR, WEIGHT"
+          locator: "HEAD, EARS, BODY, TAIL, COAT, COLOUR, MARKINGS, WEIGHT"
         },
         {
           id: "akc-boston-terrier-breed-standard",
           role: "verified",
-          locator: "General Appearance, Size, Proportion, Substance, Head, Coat, Color, Gait"
+          locator: "General Appearance, Head, Coat, Color (brindle, seal, black with required white markings), Disqualifications"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Conformation, square build, flat face, tuxedo markings, and distinctive features follow official standards."
+        "Follows official AKC and FCI color rules (brindle, seal, or black with required white markings); excludes generic non-breed variants listed in The Dog API (e.g., blue, cream, fawn, liver, merle, red, sable, tricolour, white, or solid colors without white markings)."
     },
 
     "physical.height": {
@@ -488,11 +520,16 @@ export const boston_terrier: Breed = {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
           locator: "Height: 15-17 inches"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.height.metric: 38-43 cm"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Preserved in published unit of inches (15 to 17 inches) exactly as specified in the official AKC breed profile. (Standards do not strictly limit height, focusing instead on weight classes and square proportions)."
+        "Preserved in exact published inches (15 to 17 in) from AKC breed profile. Official standards define weight classes rather than a fixed height limit; The Dog API lists converted 38-43 cm."
     },
 
     "physical.weight": {
@@ -501,17 +538,27 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-standard",
           role: "verified",
-          locator: "Size, Proportion, Substance: Weight is divided by classes as follows: Under 15 pounds; 15 pounds and under 20 pounds; 20 pounds and not to exceed 25 pounds."
+          locator: "Weight classes: under 15 pounds; 15 pounds and under 20 pounds; 20 pounds and not to exceed 25 pounds"
+        },
+        {
+          id: "fci-boston-terrier-official-standard",
+          role: "verified",
+          locator: "WEIGHT: under 15 pounds (6.8 kg); 15 to under 20 pounds (6.8 to 9 kg); 20 to not exceed 25 pounds (9 to 11.35 kg)"
         },
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
           locator: "Weight: 12-25 pounds"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.weight.metric: 5-11 kg"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Preserved in published unit of pounds (12 to 25 pounds, not exceeding 25 lbs) exactly as specified in the official AKC standard and profile."
+        "Preserved in exact published pounds (12 to 25 lb) matching AKC breed profile and the three official weight classes capped at 25 pounds; The Dog API lists converted 5-11 kg."
     },
 
     "physical.lifespanYears": {
@@ -521,10 +568,15 @@ export const boston_terrier: Breed = {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
           locator: "Life Expectancy: 11-13 years"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.life_span: 11-13 years"
         }
       ],
-      verifiedOn: "2026-11-17",
-      note: "Supported by kennel club actuarial profiles."
+      verifiedOn: "2026-11-26",
+      note: "Consistent across AKC breed profile and The Dog API."
     },
 
     "physical.sheddingLevel": {
@@ -533,15 +585,15 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Shedding Level (2/5)"
+          locator: "Grooming: sleek, fine coat sheds minimally"
         },
         {
           id: "fci-boston-terrier-official-standard",
           role: "verified",
-          locator: "COAT: Hair: Short, smooth, bright and fine in texture."
+          locator: "COAT: Short, smooth, bright and fine in texture."
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -549,35 +601,40 @@ export const boston_terrier: Breed = {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-boston-terrier-official-standard",
+          id: "akc-boston-terrier-breed-standard",
           role: "verified",
-          locator: "Lips: The chops are of good depth, but not pendulous, completely covering the teeth when the mouth is closed."
+          locator: "Chops of good depth, not pendulous, completely covering teeth when mouth is closed."
         },
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "Breed Traits: Drooling Level (1/5)"
+          locator: "Breed Traits: Drooling Level (low)"
         }
       ],
-      verifiedOn: "2026-11-17",
-      note: "Non-pendulous lips securely covering the teeth prevent excessive drooling."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "temperament.traits": {
       reliability: "official_standard",
       sources: [
         {
-          id: "fci-boston-terrier-official-standard",
-          role: "verified",
-          locator: "BEHAVIOUR/TEMPERAMENT: The Boston Terrier is a friendly and lively dog. The breed has an excellent disposition and a high degree of intelligence, which makes the Boston Terrier an incomparable companion."
-        },
-        {
           id: "akc-boston-terrier-breed-standard",
           role: "verified",
-          locator: "Summary: ... a most dapper and charming American original"
+          locator: "Temperament: friendly and lively dog with an excellent disposition and high degree of intelligence"
+        },
+        {
+          id: "fci-boston-terrier-official-standard",
+          role: "verified",
+          locator: "BEHAVIOUR/TEMPERAMENT: friendly, lively, excellent disposition, high intelligence"
+        },
+        {
+          id: "the-dog-api",
+          role: "cited",
+          locator: "breed.temperament: Friendly, intelligent, outgoing, playful"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -587,12 +644,12 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "cited",
-          locator: "Breed Traits & Characteristics trait ratings"
+          locator: "Breed Traits & Characteristics"
         }
       ],
       verifiedOn: null,
       note:
-        "Editorial 1–5 estimates based on documented companion temperament, high family affection, extreme friendliness, and moderate trainability."
+        "Editorial 1–5 ratings informed by AKC trait scales and official temperament descriptions."
     },
 
     care: {
@@ -601,12 +658,12 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "cited",
-          locator: "Grooming, Exercise, Training, and Nutrition"
+          locator: "Grooming, Exercise, Training, and Nutrition guidance"
         }
       ],
       verifiedOn: null,
       note:
-        "Combines active companion dog management with intense brachycephalic heat-stress precautions and eye protection."
+        "Practical companion care emphasizing eye protection, brachycephalic heat precautions, and gentle positive training."
     },
 
     "care.exercise.level": {
@@ -615,7 +672,7 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "Energy Level (4/5); Exercise Needs (4/5); must be kept cool outdoors"
+          locator: "Exercise: varies by individual; one or two brisk walks daily plus play, avoiding overheating"
         },
         {
           id: "fci-boston-terrier-official-standard",
@@ -623,7 +680,7 @@ export const boston_terrier: Breed = {
           locator: "UTILIZATION: Companion"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -633,12 +690,12 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "cited",
-          locator: "Daily exercise recommendations for lively companions"
+          locator: "Daily walking and play recommendations"
         }
       ],
       verifiedOn: null,
       note:
-        "Estimated 30 to 45 minutes of daily activity reflects the moderate exercise demands restricted by brachycephalic breathing limitations."
+        "Estimated 30 to 45 minutes daily suited to an upbeat but brachycephalic small companion."
     },
 
     "care.livingEnvironment.apartmentSuitable": {
@@ -647,10 +704,10 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "Adaptability: Adapts Well to Apartment Living (5/5); highly suited for indoor life"
+          locator: "About the Breed: sturdy, portable, excellent urban/apartment companion"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -660,10 +717,10 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "Exercise and indoor supervision recommendations"
+          locator: "Supervised outdoor play with weather precautions"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -673,10 +730,10 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "Weather adaptation: extremely sensitive to heat and humidity due to flat face; must be kept cool. Also sensitive to cold due to short coat."
+          locator: "Health: brachycephalic heat/humidity sensitivity; needs sweater or coat in cold weather"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note: null
     },
 
@@ -686,7 +743,7 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "cited",
-          locator: "Tolerates Being Alone: Low to moderate; deeply bonded with family"
+          locator: "People-oriented companion that does not fare well left alone for extended periods"
         }
       ],
       verifiedOn: null,
@@ -699,12 +756,11 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "cited",
-          locator: "Nutrition: High-quality food formulated for small to medium breeds, strict portion control"
+          locator: "Nutrition: age-appropriate complete dog food and weight monitoring"
         }
       ],
       verifiedOn: null,
-      note:
-        "Standard nutritional recommendations for small brachycephalic breeds highly prone to obesity and respiratory stress."
+      note: null
     },
 
     "nutrition.feedingFrequency": {
@@ -713,49 +769,78 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "cited",
-          locator: "Life-stage feeding guidance and divided meals"
+          locator: "Life-stage feeding guidance"
         }
       ],
       verifiedOn: null,
-      note: "Standard canine life-stage feeding schedule to maintain steady digestion."
+      note: null
     },
 
     "health.overview": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-boston-terrier-chic-requirements",
-          role: "verified",
-          locator: "CHIC Program requirements: Eye Examination, Patellar Luxation, BAER Deafness testing, HSF4 DNA Test"
-        },
-        {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "Health overview: Prominent eyes prone to ulcers, cataracts, patellar luxation, deafness, and BOAS"
+          locator: "Health: eye protection (cataracts, corneal ulcers, glaucoma), deafness, patellar luxation, and heat/breathing sensitivity"
+        },
+        {
+          id: "ofa-boston-terrier-chic-requirements",
+          role: "verified",
+          locator: "CHIC screening panel: Patella, Ophthalmologist, BAER"
+        },
+        {
+          id: "omia-boston-terrier-hsf4-cataract",
+          role: "verified",
+          locator: "OMIA:001758-9615: HSF4 mutation causing early-onset hereditary cataract in Boston Terriers (Mellersh et al. 2007)"
+        },
+        {
+          id: "pmc-boston-terrier-boas-2024",
+          role: "verified",
+          locator: "Tomlinson et al. (PLOS ONE, 2024): BOAS grading in 104 Boston Terriers (37.5% Grade 0, 35.6% Grade 1, 26.0% Grade 2, 0.96% Grade 3); nostril stenosis and facial foreshortening as key risk factors"
+        },
+        {
+          id: "pmc-boston-terrier-ced-2021",
+          role: "verified",
+          locator: "UC Davis retrospective study (99 CED dogs vs. 458,680 reference dogs): Boston Terriers significantly overrepresented for corneal endothelial dystrophy"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Synthesizes national health registry screening protocols and brachycephalic clinical data."
+        "Distinguishes genetically established early-onset HSF4 cataracts, peer-reviewed BOAS prevalence/risk factors, and senior corneal endothelial dystrophy from conformational risks."
     },
 
     "health.commonConditions": {
       reliability: "reliable_source",
       sources: [
         {
-          id: "ofa-boston-terrier-chic-requirements",
-          role: "verified",
-          locator: "Patellar luxation, eye conditions, early-onset hereditary cataracts, deafness"
-        },
-        {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "Corneal ulcers, BOAS (breathing difficulties in heat), deafness, patellar luxation"
+          locator: "Cataracts, corneal ulcers, deafness, patellar luxation, brachycephalic heat/breathing sensitivity"
+        },
+        {
+          id: "omia-boston-terrier-hsf4-cataract",
+          role: "verified",
+          locator: "Autosomal recessive HSF4 early-onset hereditary cataract in Boston Terriers"
+        },
+        {
+          id: "ofa-boston-terrier-chic-requirements",
+          role: "verified",
+          locator: "Patella, Eye, and BAER screening targets"
+        },
+        {
+          id: "pmc-boston-terrier-boas-2024",
+          role: "verified",
+          locator: "BOAS grade distribution and conformational risk factors in Boston Terriers"
+        },
+        {
+          id: "pmc-boston-terrier-ced-2021",
+          role: "verified",
+          locator: "Significant breed overrepresentation of Boston Terriers in corneal endothelial dystrophy (CED)"
         }
       ],
-      verifiedOn: "2026-11-17",
-      note:
-        "Details documented genetic and conformational conditions in original prose without prohibited registry terms."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     "health.preventiveCare": {
@@ -764,34 +849,44 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "cited",
-          locator: "Eye protection, harness usage, dental hygiene, heat avoidance, and strict weight control"
+          locator: "Daily eye checks, heat avoidance, cold-weather coat, and annual veterinary visits"
         }
       ],
       verifiedOn: null,
-      note: "Standard preventive care protocol tailored to prominent-eyed brachycephalic breeds."
+      note: null
     },
 
     "health.recommendedScreenings": {
       reliability: "reliable_source",
       sources: [
         {
+          id: "akc-boston-terrier-breed-profile",
+          role: "verified",
+          locator: "Recommended Health Tests from the National Breed Club: Patella Evaluation, Ophthalmologist Evaluation, BAER Testing"
+        },
+        {
           id: "ofa-boston-terrier-chic-requirements",
           role: "verified",
-          locator: "CHIC Program required screenings: CAER Eye examination, Clinical Patellar Luxation, BAER hearing evaluation, HSF4 DNA Test"
+          locator: "OFA CHIC testing for Boston Terrier (BTR)"
+        },
+        {
+          id: "omia-boston-terrier-hsf4-cataract",
+          role: "verified",
+          locator: "HSF4 DNA test for early-onset hereditary juvenile cataracts"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "Screenings summarize published parent club and health registry protocols."
+        "Matches AKC's 3-test national breed club list (Patella, Ophthalmologist, BAER) plus the established HSF4 DNA test for early-onset juvenile cataracts."
     },
 
     "health.dentalCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-boston-terrier-official-standard",
+          id: "akc-boston-terrier-breed-standard",
           role: "cited",
-          locator: "Jaws/teeth: Jaws broad and square with short, regular teeth. Even or slightly undershot."
+          locator: "Broad, square jaw with short regular teeth; even or slightly undershot bite"
         },
         {
           id: "akc-boston-terrier-breed-profile",
@@ -800,25 +895,25 @@ export const boston_terrier: Breed = {
         }
       ],
       verifiedOn: null,
-      note: "Standard home dental hygiene guidelines for short, broad jaws."
+      note: null
     },
 
     "health.earCare": {
       reliability: "general_guidance",
       sources: [
         {
-          id: "fci-boston-terrier-official-standard",
+          id: "akc-boston-terrier-breed-standard",
           role: "cited",
-          locator: "Ears: Small, carried erect, either natural or cropped"
+          locator: "Small erect ears positioned near the corners of the skull"
         },
         {
           id: "akc-boston-terrier-breed-profile",
           role: "cited",
-          locator: "Ear hygiene and weekly inspection"
+          locator: "Weekly ear checks"
         }
       ],
       verifiedOn: null,
-      note: "Routine ear care protocol for erect ears."
+      note: null
     },
 
     "health.skinCare": {
@@ -827,11 +922,11 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "cited",
-          locator: "Coat brushing and facial wipe downs"
+          locator: "Weekly soft brushing and gentle facial care"
         }
       ],
       verifiedOn: null,
-      note: "General skin and facial fold care guidelines."
+      note: null
     },
 
     suitability: {
@@ -840,12 +935,12 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "cited",
-          locator: "About the breed, Temperament, and Family life ratings"
+          locator: "Temperament, family life, apartment suitability, and weather needs"
         }
       ],
       verifiedOn: null,
       note:
-        "Suitability evaluations are editorial recommendations based on breed temperament, high sociability, and heat sensitivity."
+        "Editorial suitability assessment reflecting friendly, adaptable indoor temperament and climate sensitivity."
     },
 
     funFacts: {
@@ -854,11 +949,11 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "American Gentleman nickname, 1893 recognition (first US breed), Hooper's Judge, Boston University mascot, state dog of Massachusetts"
+          locator: "1893 recognition, 'American Gentleman' nickname, Helen Keller's dog 'Phiz', Boston University mascot, Massachusetts state dog"
         }
       ],
-      verifiedOn: "2026-11-17",
-      note: "Verified historical folklore and foundation facts."
+      verifiedOn: "2026-11-26",
+      note: null
     },
 
     faq: {
@@ -867,24 +962,24 @@ export const boston_terrier: Breed = {
         {
           id: "akc-boston-terrier-breed-standard",
           role: "verified",
-          locator: "Origin, height (15-17 in), weight (max 25 lbs), coat, and colors"
+          locator: "Weight classes up to 25 lb, coat, and colors"
         },
         {
           id: "akc-boston-terrier-breed-profile",
           role: "verified",
-          locator: "Lifespan (11-13 years), apartment living, housebreaking difficulty, child suitability, and grooming"
+          locator: "Height (15-17 in), weight (12-25 lb), lifespan (11-13 years), grooming, apartment life, children, training, and health"
         },
         {
-          id: "ofa-boston-terrier-chic-requirements",
+          id: "omia-boston-terrier-hsf4-cataract",
           role: "verified",
-          locator: "Main health concerns (Eyes, Patellas, Deafness, Cataracts) and recommended health screening panel"
+          locator: "HSF4 early-onset hereditary juvenile cataracts"
         }
       ],
-      verifiedOn: "2026-11-17",
+      verifiedOn: "2026-11-26",
       note:
-        "FAQ answers synthesize verified standards, kennel club publications, and veterinary data without naming registries in prose."
+        "Synthesized in original wording without naming registries or source organizations."
     }
   },
 
-  updatedOn: "2026-11-17"
+  updatedOn: "2026-11-26"
 };
